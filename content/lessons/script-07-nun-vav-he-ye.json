@@ -1,0 +1,606 @@
+{
+ "id": "script-07-nun-vav-he-ye",
+ "level": "script",
+ "n": 7,
+ "title": "Nun, vāv, he, ye – and the hamza",
+ "titleFa": "ن، و، ه، ی",
+ "titleR": "nun, vāv, he, ye",
+ "intro": "The last four letters – and the busiest. Nun completes the tooth family; vāv and ye are both consonants and long vowels; he is either an h or a silent final e. You also meet the hamza, a small sign for the glottal stop, and learn how the ezafe is written after a silent e. By the end of this lesson you know all 32 letters.",
+ "goals": [
+  "read and write ن و ه ی in all their shapes",
+  "read و as v, u, o or ow, and ی as y, i or ey",
+  "tell the consonant h from a silent final e",
+  "recognise the hamza on its seats ئ أ ؤ",
+  "write the ezafe after a silent e, as in خانه‌ی من"
+ ],
+ "image": "nowruz",
+ "sections": [
+  {
+   "type": "text",
+   "title": "Nun and ye – the tooth family is complete",
+   "md": "[[ن|nun]] is *n*. At the start or in the middle of a word it is a short tooth with **one dot above**: نـ, ـنـ. Alone or at the end it becomes a deep round bowl with the dot over it: ن, ـن. In [[نان|nān|bread]] you see both: a tooth at the start, alef, and the full round nun at the end.\n\n[[ی|ye]] also starts as a tooth, with **two dots below**: یـ, ـیـ. Alone or at the end it swings into a wide curve, and there it has **no dots** at all: ی, ـی. Arabic dots its final ye; Persian never does – a quick way to tell the two languages apart.\n\nSo the tooth family is complete, and in the middle of a word only the dots tell its members apart:\n\n- one dot below – *b* ([[ب|be]])\n- three dots below – *p* ([[پ|pe]])\n- two dots above – *t* ([[ت|te]])\n- three dots above – *s* ([[ث|se]])\n- one dot above – *n* ([[ن|nun]])\n- two dots below – *y* ([[ی|ye]])"
+  },
+  {
+   "type": "text",
+   "title": "Vāv and ye – consonants that are also vowels",
+   "md": "[[و|vāv]] is a small round head with a tail curving below the line. It is a **non-joiner** – the last of the seven: ا د ذ ر ز ژ و – so it has just two shapes, و and ـو.\n\nVāv and ye each do several jobs. **Vāv** can be:\n\n- the consonant *v*: [[وقت|vaght|time]]\n- the long vowel *u*, as in *moon*: [[دوست|dust|friend]], [[روز|ruz|day]]\n- a short *o*, in a few small words: [[تو|to|you]], [[دو|do|two]], and the word for *and*, [[و|va]], which is usually said *o*\n- the diphthong *ow*, as in *low*: [[نوروز|nowruz|New Year]]\n\n**Ye** can be:\n\n- the consonant *y*: [[یک|yek|one]]\n- the long vowel *i*, as in *see*: [[سیب|sib|apple]]\n- the diphthong *ey*, as in *day*: [[خیلی|kheyli|very]] – where the first ye is *ey* and the second *i*\n\nThe spelling does not tell you which job a letter is doing; the word does. As a rule of thumb, both are consonants at the start of a word and vowels inside it. A long vowel at the very start of a word gets an alef in front as a seat: [[ایران|Irān|Iran]], [[او|u|he, she]].\n\nOne oddity: after [[خ|khe]], vāv is sometimes not pronounced at all. [[خواهر|khāhar|sister]] is spelled kh-v-ā-h-r but said *khāhar*, and [[خواب|khāb|sleep]] is *khāb*. This silent vāv is a fossil of an older pronunciation, *khw-*."
+  },
+  {
+   "type": "text",
+   "title": "He – h or a silent e",
+   "md": "[[ه|he]] is the second *h* of Persian – the first was [[ح|he-ye jimi]] in lesson 3 – and much the more common one. Its four shapes look surprisingly different:\n\n- alone: ه, a small loop\n- at the start: هـ, a rounder shape with a loop inside\n- in the middle: ـهـ, the 'two-eyed he', two little loops one above the other\n- at the end: ـه, a small loop hanging off the line\n\nAt the start or in the middle of a word, he is always the consonant *h*: [[هوا|havā|air; weather]], [[شهر|shahr|city]]. At the end it may be *h*, as in [[ماه|māh|moon; month]], but very often it is **silent** and stands for the vowel *e*: [[خانه|khāne|house]]. Nothing in the spelling tells you which – you learn it with the word. [[ده|dah|ten]] and [[ده|deh|village]] are spelled alike, and so are [[نه|na|no]] and [[نه|noh|nine]].\n\nWhen something is added after a silent final he, Persian keeps the two apart with a ZWNJ: [[خانه‌ها|khāne-hā|houses]]."
+  },
+  {
+   "type": "letters",
+   "title": "The letters of this lesson",
+   "letters": [
+    "ن",
+    "و",
+    "ه",
+    "ی"
+   ],
+   "md": "Tap each letter to hear its name and an example word. Look closely at the four shapes of he – after eyn, the letter that changes most."
+  },
+  {
+   "type": "text",
+   "title": "The hamza and its seats",
+   "md": "The **hamza** (ء) is not one of the 32 letters but a small sign for the glottal stop – the same catch as [[ع|eyn]], and written with the same apostrophe in this course. It comes mostly in words from Arabic. Now and then it stands on its own, as at the end of [[جزء|joz'|part]], but usually it sits on a *seat*, a letter that only carries it and is not pronounced itself:\n\n- on a dotless ye-tooth, ئ: [[مسئول|mas'ul|responsible, in charge]], [[رئیس|ra'is|head, boss]]\n- on alef, أ: [[تأثیر|ta'sir|effect, influence]]\n- on vāv, ؤ: [[سؤال|so'āl|question]]\n\nRead the hamza as a small catch – in quick speech it often disappears altogether. Spellings vary, so you will also meet سئوال for *so'āl* and مسؤول for *mas'ul*.\n\nOne more place for a little hamza: older books and some newspapers write the ezafe after a silent he as a tiny hamza on top, خانهٔ. This course writes it the modern way, [[خانه‌ی|khāne-ye]] – see below."
+  },
+  {
+   "type": "grammar",
+   "title": "Writing the ezafe",
+   "md": "Persian links a noun to a word that describes it, or to its owner, with a short vowel called the **ezafe** ([[اضافه|ezāfe]]): *-e* after a consonant, *-ye* after a vowel. [[کتاب من|ketāb-e man|my book]] is literally 'book-of me'. You will use it all the time from A1 on; here is just how it is **written**, which depends on how the first word ends:\n\n- after a consonant, it is not written at all: [[کتاب من|ketāb-e man]]\n- after a silent final he, it is a ZWNJ and a ye: [[خانه‌ی من|khāne-ye man|my house]]. The ZWNJ stops the ye from joining the he.\n- after a long *ā* or *u* (alef or vāv), a ye is added: [[پای چپ|pā-ye chap|the left foot]], [[دانشجوی ایرانی|dāneshju-ye irāni|the Iranian student]]\n- after a final *i* (ye), nothing is added – you just say *-ye*: [[صندلی من|sandali-ye man|my chair]]",
+   "table": {
+    "head": [
+     "the first word ends in",
+     "the ezafe is written",
+     "example"
+    ],
+    "rows": [
+     [
+      "a consonant",
+      "–",
+      "[[کتاب من|ketāb-e man]]"
+     ],
+     [
+      "silent ه (e)",
+      "ZWNJ + ی",
+      "[[خانه‌ی من|khāne-ye man]]"
+     ],
+     [
+      "ا (ā) or و (u)",
+      "ی",
+      "[[پای چپ|pā-ye chap]]"
+     ],
+     [
+      "ی (i)",
+      "–",
+      "[[صندلی من|sandali-ye man]]"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "کتاب من",
+     "r": "ketāb-e man",
+     "en": "my book",
+     "lit": "book-of me",
+     "faV": "کِتابِ مَن",
+     "a": "3182b30af7e7"
+    },
+    {
+     "fa": "خانه‌ی من",
+     "r": "khāne-ye man",
+     "en": "my house",
+     "faV": "خانه‌یِ مَن",
+     "a": "b60bf07a5270"
+    },
+    {
+     "fa": "نامه‌ی سارا",
+     "r": "nāme-ye Sārā",
+     "en": "Sara's letter",
+     "faV": "نامه‌یِ سارا",
+     "a": "3c256dc33a26"
+    },
+    {
+     "fa": "خانه‌ی بزرگ",
+     "r": "khāne-ye bozorg",
+     "en": "the big house",
+     "faV": "خانه‌یِ بُزُرگ",
+     "a": "74fc436a64dd"
+    },
+    {
+     "fa": "پای چپ",
+     "r": "pā-ye chap",
+     "en": "the left foot",
+     "faV": "پایِ چَپ",
+     "a": "d69bc3d77e19"
+    },
+    {
+     "fa": "دانشجوی ایرانی",
+     "r": "dāneshju-ye irāni",
+     "en": "the Iranian student",
+     "faV": "دانِشجویِ ایرانی",
+     "a": "30005460b37d"
+    }
+   ]
+  },
+  {
+   "type": "vocab",
+   "title": "Words you can read now",
+   "items": [
+    {
+     "fa": "نان",
+     "r": "nān",
+     "en": "bread",
+     "pos": "n",
+     "note": "a tooth nun at the start, a round nun at the end",
+     "faV": "نان",
+     "a": "9787c0c0fc1e"
+    },
+    {
+     "fa": "نه",
+     "r": "na",
+     "en": "no",
+     "pos": "adv",
+     "note": "the final silent he is read a in this word",
+     "faV": "نه",
+     "a": "4fc5ea42ffa4"
+    },
+    {
+     "fa": "وقت",
+     "r": "vaght",
+     "en": "time",
+     "pos": "n",
+     "note": "vāv as v",
+     "faV": "وَقت",
+     "a": "82aea13a158b"
+    },
+    {
+     "fa": "دوست",
+     "r": "dust",
+     "en": "friend",
+     "pos": "n",
+     "note": "vāv as u",
+     "faV": "دوست",
+     "a": "f44c79aeaebb"
+    },
+    {
+     "fa": "روز",
+     "r": "ruz",
+     "en": "day",
+     "pos": "n",
+     "faV": "روز",
+     "a": "c48a4b443df5"
+    },
+    {
+     "fa": "تو",
+     "r": "to",
+     "en": "you (to one friend)",
+     "pos": "pron",
+     "note": "vāv as o",
+     "faV": "تو",
+     "a": "51f03b86a43f"
+    },
+    {
+     "fa": "دو",
+     "r": "do",
+     "en": "two",
+     "pos": "num",
+     "faV": "دو",
+     "a": "67610a88d56a"
+    },
+    {
+     "fa": "نوروز",
+     "r": "nowruz",
+     "en": "Nowruz, the Persian New Year",
+     "pos": "n",
+     "note": "now 'new' + ruz 'day': first ow, then u",
+     "faV": "نَوروز",
+     "a": "45d9fa9f1366"
+    },
+    {
+     "fa": "هوا",
+     "r": "havā",
+     "en": "air; weather",
+     "pos": "n",
+     "faV": "هَوا",
+     "a": "ad57c5081c6d"
+    },
+    {
+     "fa": "شهر",
+     "r": "shahr",
+     "en": "city",
+     "pos": "n",
+     "note": "the two-eyed he in the middle",
+     "faV": "شَهر",
+     "a": "9cdf26e8c77f"
+    },
+    {
+     "fa": "ماه",
+     "r": "māh",
+     "en": "moon; month",
+     "pos": "n",
+     "note": "final he as a real h",
+     "faV": "ماه",
+     "a": "f2e5afacb422"
+    },
+    {
+     "fa": "خانه",
+     "r": "khāne",
+     "en": "house, home",
+     "pos": "n",
+     "note": "final he as a silent e",
+     "faV": "خانه",
+     "a": "1e0e4ac2e813"
+    },
+    {
+     "fa": "یک",
+     "r": "yek",
+     "en": "one",
+     "pos": "num",
+     "note": "ye as y",
+     "faV": "یِک",
+     "a": "068210b8275a"
+    },
+    {
+     "fa": "سیب",
+     "r": "sib",
+     "en": "apple",
+     "pos": "n",
+     "note": "ye as i",
+     "faV": "سیب",
+     "a": "51b578f9c3af"
+    },
+    {
+     "fa": "خیلی",
+     "r": "kheyli",
+     "en": "very; a lot",
+     "pos": "adv",
+     "note": "ye as ey, then as i",
+     "faV": "خَیلی",
+     "a": "f1df79a6c38c"
+    },
+    {
+     "fa": "ایران",
+     "r": "Irān",
+     "en": "Iran",
+     "pos": "name",
+     "note": "alef as a seat for the i at the start",
+     "faV": "ایران",
+     "a": "79ba78bc6d05"
+    }
+   ]
+  },
+  {
+   "type": "tips",
+   "title": "Reading tips",
+   "items": [
+    "A tooth in the middle of a word: one dot above is n, two dots below is y. Check both the number of dots and their side.",
+    "Vāv and ye at the start of a word are consonants (v, y); inside a word they are usually the vowels u and i.",
+    "A final he is usually a silent e – but not in [[ماه|māh]], [[راه|rāh|road]] or [[کوه|kuh|mountain]]. These you learn as you go.",
+    "The final ye has no dots. If you see two dots under a final ye on a screen, the text was typed on an Arabic keyboard (see lesson 8).",
+    "Read every hamza seat – ئ أ ؤ – as a small catch, like eyn. The seat letter itself is silent.",
+    "You now know all 32 letters. The next lesson is reading practice with real signs, numbers and punctuation."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Which letter?",
+   "items": [
+    {
+     "q": "In the middle of a word, which tooth is **n**?",
+     "options": [
+      "ـبـ",
+      "ـنـ",
+      "ـیـ"
+     ],
+     "answer": 1,
+     "explain": "One dot above: nun."
+    },
+    {
+     "q": "In the middle of a word, which tooth is **y**?",
+     "options": [
+      "ـیـ",
+      "ـتـ",
+      "ـنـ"
+     ],
+     "answer": 0,
+     "explain": "Two dots below: ye."
+    },
+    {
+     "q": "Which of these letters never joins the letter after it?",
+     "options": [
+      "ن",
+      "و",
+      "ی"
+     ],
+     "answer": 1,
+     "explain": "vāv is the seventh non-joiner."
+    },
+    {
+     "q": "Which is the 'two-eyed' he, found in the middle of a word?",
+     "options": [
+      "ه",
+      "ـه",
+      "ـهـ"
+     ],
+     "answer": 2,
+     "explain": "Two little loops, one above the other."
+    },
+    {
+     "q": "Which sign is a hamza on a vāv seat?",
+     "options": [
+      "ئ",
+      "ؤ",
+      "أ"
+     ],
+     "answer": 1,
+     "explain": "As in سؤال, so'āl, question."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "How is it read?",
+   "items": [
+    {
+     "q": "How is the vāv read in [[وقت]], *time*?",
+     "options": [
+      "v",
+      "u",
+      "ow"
+     ],
+     "answer": 0,
+     "explain": "At the start of a word vāv is v: vaght."
+    },
+    {
+     "q": "How is the vāv read in [[دوست]], *friend*?",
+     "options": [
+      "v",
+      "u",
+      "o"
+     ],
+     "answer": 1,
+     "explain": "dust: vāv as the long vowel u."
+    },
+    {
+     "q": "How is the final he read in [[خانه]], *house*?",
+     "options": [
+      "h",
+      "e",
+      "a"
+     ],
+     "answer": 1,
+     "explain": "A silent final he stands for e: khāne."
+    },
+    {
+     "q": "How is the final he read in [[ماه]], *moon*?",
+     "options": [
+      "h",
+      "e",
+      "not at all"
+     ],
+     "answer": 0,
+     "explain": "māh – here he is a real h."
+    },
+    {
+     "q": "How is the first ye read in [[خیلی]], *very*?",
+     "options": [
+      "y",
+      "i",
+      "ey"
+     ],
+     "answer": 2,
+     "explain": "kheyli: first ey, then i."
+    },
+    {
+     "q": "Which spelling is *khāne-ye man*, my house?",
+     "options": [
+      "خانهی من",
+      "خانه‌ی من",
+      "خانی من"
+     ],
+     "answer": 1,
+     "explain": "After a silent e the ezafe is a ZWNJ + ye. Without the ZWNJ the ye would join the he."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Read the word",
+   "items": [
+    {
+     "q": "Which word is **bread**?",
+     "options": [
+      "نان",
+      "نام",
+      "تان"
+     ],
+     "answer": 0,
+     "explain": "n-ā-n: nān."
+    },
+    {
+     "q": "Which word is **day**?",
+     "options": [
+      "دود",
+      "روز",
+      "رود"
+     ],
+     "answer": 1,
+     "explain": "r-u-z: ruz."
+    },
+    {
+     "q": "Which word is **city**?",
+     "options": [
+      "سحر",
+      "شیر",
+      "شهر"
+     ],
+     "answer": 2,
+     "explain": "sh-h-r: shahr, with the two-eyed he."
+    },
+    {
+     "q": "Which word is **apple**?",
+     "options": [
+      "سبب",
+      "سیب",
+      "سیم"
+     ],
+     "answer": 1,
+     "explain": "s-i-b: sib."
+    },
+    {
+     "q": "Which word is **Nowruz**?",
+     "options": [
+      "نوروز",
+      "نور",
+      "روز"
+     ],
+     "answer": 0,
+     "explain": "now + ruz: 'new day'."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and pick the spelling",
+   "items": [
+    {
+     "fa": "دوست",
+     "r": "dust",
+     "en": "friend",
+     "options": [
+      "دست",
+      "دوست",
+      "دود"
+     ],
+     "answer": 1,
+     "faV": "دوست",
+     "a": "f44c79aeaebb"
+    },
+    {
+     "fa": "خانه",
+     "r": "khāne",
+     "en": "house",
+     "options": [
+      "خان",
+      "خامه",
+      "خانه"
+     ],
+     "answer": 2,
+     "faV": "خانه",
+     "a": "1e0e4ac2e813"
+    },
+    {
+     "fa": "مسئول",
+     "r": "mas'ul",
+     "en": "responsible",
+     "options": [
+      "مسئول",
+      "مسول",
+      "مثئول"
+     ],
+     "answer": 0,
+     "faV": "مَسئول",
+     "a": "fc32ae6c4b70"
+    },
+    {
+     "fa": "خیلی",
+     "r": "kheyli",
+     "en": "very",
+     "options": [
+      "خلی",
+      "خیلی",
+      "حیلی"
+     ],
+     "answer": 1,
+     "faV": "خَیلی",
+     "a": "f1df79a6c38c"
+    },
+    {
+     "fa": "سؤال",
+     "r": "so'āl",
+     "en": "question",
+     "options": [
+      "سال",
+      "سیال",
+      "سؤال"
+     ],
+     "answer": 2,
+     "faV": "سُؤال",
+     "a": "ac1d2d3744b1"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the words",
+   "items": [
+    {
+     "fa": "نان",
+     "r": "nān",
+     "en": "bread",
+     "faV": "نان",
+     "a": "9787c0c0fc1e"
+    },
+    {
+     "fa": "روز",
+     "r": "ruz",
+     "en": "day",
+     "faV": "روز",
+     "a": "c48a4b443df5"
+    },
+    {
+     "fa": "شهر",
+     "r": "shahr",
+     "en": "city",
+     "faV": "شَهر",
+     "a": "9cdf26e8c77f"
+    },
+    {
+     "fa": "خانه",
+     "r": "khāne",
+     "en": "house",
+     "faV": "خانه",
+     "a": "1e0e4ac2e813"
+    },
+    {
+     "fa": "سیب",
+     "r": "sib",
+     "en": "apple",
+     "faV": "سیب",
+     "a": "51b578f9c3af"
+    },
+    {
+     "fa": "یک",
+     "r": "yek",
+     "en": "one",
+     "faV": "یِک",
+     "a": "068210b8275a"
+    },
+    {
+     "fa": "دوست",
+     "r": "dust",
+     "en": "friend",
+     "faV": "دوست",
+     "a": "f44c79aeaebb"
+    },
+    {
+     "fa": "هوا",
+     "r": "havā",
+     "en": "air",
+     "faV": "هَوا",
+     "a": "ad57c5081c6d"
+    }
+   ]
+  }
+ ],
+ "titleV": "ن، و، ه، ی",
+ "titleA": "7f0b6f7bb2e6"
+}

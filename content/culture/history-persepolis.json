@@ -1,0 +1,76 @@
+{
+ "id": "history-persepolis",
+ "topic": "history",
+ "title": "Persepolis",
+ "titleFa": "تخت جمشید",
+ "titleR": "Takht-e Jamshid",
+ "image": "persepolis",
+ "summary": "Darius the Great's palace city in Fars was the showpiece of the Achaemenid Empire. Burned by Alexander and half-buried for two thousand years, its staircases still show the peoples of the ancient world bringing gifts to the king of kings.",
+ "body": [
+  {
+   "h": "The city of the Persians",
+   "md": "Around 518 BC Darius the Great began to build a new royal city at the foot of the Mountain of Mercy, [[کوه رحمت|Kuh-e Rahmat]], about 60 kilometres north-east of today's Shiraz. Workers levelled a huge stone terrace and covered it with palaces, halls and treasuries, and his son Xerxes and grandson Artaxerxes went on building for decades after him.\n\nThe Persians called the place [[پارسه|Pārse|Parsa]]; the Greeks called it Persepolis, 'city of the Persians'. Later Iranians forgot who had built it and gave it a name from legend: [[تخت جمشید|Takht-e Jamshid|the Throne of Jamshid]], after the mythical king who, in the Shahnameh, first celebrated Nowruz."
+  },
+  {
+   "h": "Up the great stairs",
+   "md": "Visitors still arrive the way ambassadors did: up a broad double staircase to the [[دروازه‌ی ملل|darvāze-ye melal|Gate of All Nations]], built by Xerxes and guarded by huge winged bulls. Beyond it rose the [[آپادانا|Āpādānā|Apadana]], the great audience hall, where the king received his subjects under a roof held up by 72 stone columns. Fourteen of them still stand, crowned with carved double bulls, lions and griffins. Next to it stood the even larger [[کاخ صدستون|kākh-e sad-sotun|Hall of a Hundred Columns]].",
+   "image": "persian-column"
+  },
+  {
+   "h": "A procession in stone",
+   "md": "The most famous carvings run along the Apadana's staircases. Twenty-three delegations from every corner of the empire climb towards the king, each in its own dress and with its own gifts: Ethiopians with an elephant tusk and an okapi, Indians with baskets of gold dust, Armenians with a horse, Bactrians with a two-humped camel, Lydians with bracelets and bowls. Between them walk Persian and Median nobles, some holding hands, some turning to chat.\n\nNo ancient text tells us what ceremony this was. Many Iranians believe it shows [[نوروز|Nowruz|the New Year]], when the king received gifts from his peoples – a lovely idea, though historians cannot prove it. Either way, it is a picture of the empire as its rulers wanted it seen: many nations, one king.",
+   "image": "xerxes"
+  },
+  {
+   "h": "Who built it",
+   "md": "In the 1930s archaeologists from the University of Chicago found thousands of clay tablets in the fortification wall and the treasury. Written mostly in Elamite, they are the palace's accounts: rations of grain, wine and beer for officials, travellers and workers who came from all over the empire – Lydians, Egyptians, Ionian Greeks and many more. Women worked alongside men, and new mothers received extra rations. The tablets show a huge building site run by a careful, well-organised bureaucracy."
+  },
+  {
+   "h": "Fire, ruin and rediscovery",
+   "md": "In 330 BC Alexander of Macedon took Persepolis, emptied its treasury – ancient writers say thousands of mules and camels were needed to carry it away – and burned the palaces. Some said it was revenge for Xerxes' burning of Athens, others that it happened at a drunken feast. Nearby, at [[نقش رستم|Naghsh-e Rostam]], the tombs of Darius and three later kings, cut high into a cliff in the shape of a cross, still look out over the plain.\n\nFor two thousand years the columns stood in empty fields. European travellers drew them, and some carved their names in the stone – among them the journalist Henry Morton Stanley in 1870. In 1971 Mohammad Reza Shah held a lavish celebration of 2,500 years of Persian monarchy here, in a city of tents; critics saw its cost as a sign of how far the court was from ordinary Iranians. In 1979 Persepolis became one of Iran's first UNESCO World Heritage sites.",
+   "image": "naqsh-e-rostam"
+  }
+ ],
+ "sentences": [
+  {"fa": "تخت جمشید در نزدیکی شیراز است.", "r": "Takht-e Jamshid dar nazdiki-ye Shirāz ast.", "en": "Persepolis is near Shiraz."},
+  {"fa": "ساختن تخت جمشید در زمان داریوش بزرگ شروع شد.", "r": "sākhtan-e Takht-e Jamshid dar zamān-e Dāriush-e Bozorg shoru' shod.", "en": "The building of Persepolis began in the time of Darius the Great."},
+  {"fa": "یونانیان این شهر را پرسپولیس می‌نامیدند.", "r": "yunāniyān in shahr rā Persepolis mi-nāmidand.", "en": "The Greeks called this city Persepolis."},
+  {"fa": "نام ایرانی آن «پارسه» بود.", "r": "nām-e irāni-ye ān «Pārse» bud.", "en": "Its Iranian name was Parsa."},
+  {"fa": "کاخ آپادانا هفتاد و دو ستون داشت.", "r": "kākh-e Āpādānā haftād o do sotun dāsht.", "en": "The Apadana palace had seventy-two columns."},
+  {"fa": "روی پلکان آپادانا نمایندگان بیست و سه ملت دیده می‌شوند.", "r": "ru-ye pellekān-e Āpādānā namāyandegān-e bist o se mellat dide mi-shavand.", "en": "On the Apadana staircase you can see the delegates of twenty-three nations.", "lit": "on the staircase of the Apadana, representatives of twenty-three nations are seen"},
+  {"fa": "آن‌ها برای شاه هدیه می‌آورند.", "r": "ān-hā barā-ye shāh hedye mi-āvarand.", "en": "They are bringing gifts for the king."},
+  {"fa": "کارگران تخت جمشید از سرزمین‌های مختلف می‌آمدند.", "r": "kārgarān-e Takht-e Jamshid az sarzamin-hā-ye mokhtalef mi-āmadand.", "en": "The workers of Persepolis came from many different lands."},
+  {"fa": "روی لوح‌های گلی، مزد کارگران نوشته شده است.", "r": "ru-ye lowh-hā-ye geli, mozd-e kārgarān neveshte shode ast.", "en": "The workers' wages are written on clay tablets."},
+  {"fa": "اسکندر در سال ۳۳۰ پیش از میلاد تخت جمشید را آتش زد.", "r": "Eskandar dar sāl-e sisad-o-si pish az milād Takht-e Jamshid rā ātash zad.", "en": "Alexander set fire to Persepolis in 330 BC."},
+  {"fa": "آرامگاه داریوش در نقش رستم در دل کوه کنده شده است.", "r": "ārāmgāh-e Dāriush dar Naghsh-e Rostam dar del-e kuh kande shode ast.", "en": "Darius's tomb at Naqsh-e Rostam is cut into the heart of the mountain."},
+  {"fa": "هر سال هزاران گردشگر از تخت جمشید دیدن می‌کنند.", "r": "har sāl hezārān gardeshgar az Takht-e Jamshid didan mi-konand.", "en": "Every year thousands of tourists visit Persepolis."}
+ ],
+ "vocab": [
+  {"fa": "تخت", "r": "takht", "en": "throne; bed"},
+  {"fa": "کاخ", "r": "kākh", "en": "palace"},
+  {"fa": "ستون", "r": "sotun", "en": "column"},
+  {"fa": "پلکان", "r": "pellekān", "en": "staircase, flight of steps"},
+  {"fa": "دروازه", "r": "darvāze", "en": "gate"},
+  {"fa": "نقش برجسته", "r": "naghsh-e barjaste", "en": "relief (carving)"},
+  {"fa": "هدیه", "r": "hedye", "en": "gift"},
+  {"fa": "ملت", "r": "mellat", "en": "nation, people"},
+  {"fa": "نماینده", "r": "namāyande", "en": "representative, delegate"},
+  {"fa": "کارگر", "r": "kārgar", "en": "worker"},
+  {"fa": "مزد", "r": "mozd", "en": "wage, pay"},
+  {"fa": "لوح", "r": "lowh", "en": "tablet"},
+  {"fa": "ویرانه", "r": "virāne", "en": "ruin(s)"},
+  {"fa": "آتش زدن", "r": "ātash zadan", "en": "to set fire to"},
+  {"fa": "گردشگر", "r": "gardeshgar", "en": "tourist"},
+  {"fa": "دیدن کردن از", "r": "didan kardan az", "en": "to visit (a place)"},
+  {"fa": "میراث جهانی", "r": "mirās-e jahāni", "en": "world heritage"}
+ ],
+ "facts": [
+  "Building began around 518 BC under Darius I, and the city was still unfinished when Alexander arrived in 330 BC.",
+  "Fourteen of the Apadana's 72 columns stand today; one of them was put back up in the 1970s.",
+  "The Apadana staircases show 23 delegations from the peoples of the empire bringing gifts to the king.",
+  "Persepolis became a UNESCO World Heritage site in 1979, one of the first three in Iran.",
+  "The four rock tombs at Naqsh-e Rostam are thought to belong to Darius I, Xerxes, Artaxerxes I and Darius II.",
+  "In October 1971 Mohammad Reza Shah held the celebration of 2,500 years of the Persian monarchy at Persepolis.",
+  "Among the travellers' graffiti on the Gate of All Nations is 'Stanley, New York Herald, 1870'."
+ ]
+}

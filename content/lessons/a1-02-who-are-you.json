@@ -1,0 +1,890 @@
+{
+ "id": "a1-02-who-are-you",
+ "level": "A1",
+ "n": 2,
+ "title": "Who are you? Names and where you are from",
+ "titleFa": "شما کی هستید؟",
+ "titleR": "shomā ki hastid?",
+ "intro": "Now that you can say hello, it is time to say who you are. In this lesson you introduce yourself, ask someone's name, say where you are from and what you are – and you meet the full set of Persian pronouns and the verb 'to be'.",
+ "goals": [
+  "say and ask names: esm-e man … ast, esm-e shomā chist?",
+  "say where you are from and your nationality",
+  "use all the pronouns: man, to, u, mā, shomā, ān-hā",
+  "use hastam/hasti/hast… and the negative nistam"
+ ],
+ "image": "university-of-tehran",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "First day at the language class",
+   "context": "Tom, a student from Australia, arrives at a Persian class in Tehran. Sara, an Iranian student, sits next to him.",
+   "lines": [
+    {
+     "who": "Sara",
+     "fa": "سلام! من سارا هستم. اسم شما چیست؟",
+     "r": "salām! man Sārā hastam. esm-e shomā chist?",
+     "en": "Hello! I'm Sara. What is your name?",
+     "col": "سلام! من سارام. اسمتون چیه؟",
+     "colR": "salām! man Sārā-m. esm-etun chi-ye?",
+     "faV": "سَلام! مَن سارا هَستَم. اِسمِ شُما چیست؟",
+     "a": "db3c7b595cbc",
+     "colV": "سَلام! مَن سارام. اِسمِتون چیه؟",
+     "colA": "56c6d3c623e8"
+    },
+    {
+     "who": "Tom",
+     "fa": "سلام. اسم من تام است.",
+     "r": "salām. esm-e man Tām ast.",
+     "en": "Hello. My name is Tom.",
+     "faV": "سَلام. اِسمِ مَن تام اَست.",
+     "a": "456d352e68d4"
+    },
+    {
+     "who": "Sara",
+     "fa": "خوشبختم، تام. شما ایرانی هستید؟",
+     "r": "khosh-bakht-am, Tām. shomā irāni hastid?",
+     "en": "Nice to meet you, Tom. Are you Iranian?",
+     "faV": "خوشبَختَم، تام. شُما ایرانی هَستید؟",
+     "a": "79d8777df59e"
+    },
+    {
+     "who": "Tom",
+     "fa": "نه، من ایرانی نیستم. من استرالیایی هستم.",
+     "r": "na, man irāni nistam. man ostorāliyāyi hastam.",
+     "en": "No, I'm not Iranian. I'm Australian.",
+     "faV": "نه، مَن ایرانی نیستَم. مَن اُستُرالیایی هَستَم.",
+     "a": "2cc102d7d9a8"
+    },
+    {
+     "who": "Sara",
+     "fa": "اهل کجا هستید؟",
+     "r": "ahl-e kojā hastid?",
+     "en": "Where are you from?",
+     "col": "اهل کجایید؟",
+     "colR": "ahl-e kojā-yid?",
+     "faV": "اَهلِ کُجا هَستید؟",
+     "a": "5d181daa399a",
+     "colV": "اَهلِ کُجایید؟",
+     "colA": "e795afb81b72"
+    },
+    {
+     "who": "Tom",
+     "fa": "اهل سیدنی هستم. شما اهل تهران هستید؟",
+     "r": "ahl-e Sidni hastam. shomā ahl-e Tehrān hastid?",
+     "en": "I'm from Sydney. Are you from Tehran?",
+     "faV": "اَهلِ سیدنی هَستَم. شُما اَهلِ تِهران هَستید؟",
+     "a": "b3a5fc138146"
+    },
+    {
+     "who": "Sara",
+     "fa": "نه، من اهل شیراز هستم، اما در تهران دانشجو هستم.",
+     "r": "na, man ahl-e Shirāz hastam, ammā dar Tehrān dāneshju hastam.",
+     "en": "No, I'm from Shiraz, but I'm a student in Tehran.",
+     "faV": "نه، مَن اَهلِ شیراز هَستَم، اَمّا دَر تِهران دانِشجو هَستَم.",
+     "a": "f585a42d7809"
+    },
+    {
+     "who": "Tom",
+     "fa": "آن آقا کیست؟",
+     "r": "ān āghā kist?",
+     "en": "Who is that man?",
+     "col": "اون آقا کیه؟",
+     "colR": "un āghā ki-ye?",
+     "faV": "آن آقا کیست؟",
+     "a": "3ae3088f88ba",
+     "colV": "اون آقا کیه؟",
+     "colA": "9658d4dec3c1"
+    },
+    {
+     "who": "Sara",
+     "fa": "او آقای کریمی است. او معلم ماست.",
+     "r": "u āghā-ye Karimi ast. u mo'allem-e mā-st.",
+     "en": "He is Mr Karimi. He is our teacher.",
+     "faV": "او آقایِ کَریمی اَست. او مُعَلِّمِ ماست.",
+     "a": "7cb97371e80b"
+    },
+    {
+     "who": "Tom",
+     "fa": "و آن‌ها؟",
+     "r": "va ān-hā?",
+     "en": "And them?",
+     "faV": "و آن‌ها؟",
+     "a": "08be113a569c"
+    },
+    {
+     "who": "Sara",
+     "fa": "آن‌ها هم دانشجو هستند. لیلا و امیر.",
+     "r": "ān-hā ham dāneshju hastand. Leylā o Amir.",
+     "en": "They are students too. Leila and Amir.",
+     "faV": "آن‌ها هَم دانِشجو هَستَند. لَیلا و اَمیر.",
+     "a": "c8f92f76a6ec"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Introducing yourself",
+   "md": "The simplest way to say who you are is **man … hastam**: [[من سارا هستم|man Sārā hastam|I am Sara]]. To say your name more formally, use [[اسم|esm|name]]: [[اسم من تام است|esm-e man Tām ast|my name is Tom]] – literally *name-of me Tom is*. The little **-e** after *esm* is the **ezafe**, the sound that links a noun to what belongs to it; you will meet it again and again.\n\nTo ask a name, say [[اسم شما چیست؟|esm-e shomā chist?]] – *name-of you what-is?* In speech this becomes *esm-etun chi-ye?*\n\nWhen you learn someone's name, answer [[خوشبختم|khosh-bakht-am|I am pleased (to meet you)]], literally *I am fortunate*. The reply is [[من هم خوشبختم|man ham khosh-bakht-am|I am pleased too]]."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "اسم",
+     "r": "esm",
+     "en": "name",
+     "pos": "n",
+     "ex": {
+      "fa": "اسم من مینا است.",
+      "r": "esm-e man Minā ast.",
+      "en": "My name is Mina.",
+      "faV": "اِسمِ مَن مینا اَست.",
+      "a": "ebb4f29b7acc"
+     },
+     "faV": "اِسم",
+     "a": "16aa69472dcd"
+    },
+    {
+     "fa": "چیست",
+     "r": "chist",
+     "en": "what is (it)?",
+     "pos": "phrase",
+     "note": "چی + است; spoken: chi-ye",
+     "faV": "چیست",
+     "a": "de10d5776ce4"
+    },
+    {
+     "fa": "کیست",
+     "r": "kist",
+     "en": "who is (it)?",
+     "pos": "phrase",
+     "note": "کی + است; spoken: ki-ye",
+     "faV": "کیست",
+     "a": "c2473e302557"
+    },
+    {
+     "fa": "کی",
+     "r": "ki",
+     "en": "who",
+     "pos": "pron",
+     "faV": "کی",
+     "a": "eefe45e75eeb"
+    },
+    {
+     "fa": "کجا",
+     "r": "kojā",
+     "en": "where",
+     "pos": "adv",
+     "ex": {
+      "fa": "اهل کجا هستید؟",
+      "r": "ahl-e kojā hastid?",
+      "en": "Where are you from?",
+      "faV": "اَهلِ کُجا هَستید؟",
+      "a": "5d181daa399a"
+     },
+     "faV": "کُجا",
+     "a": "e2b1b82b3b99"
+    },
+    {
+     "fa": "اهل",
+     "r": "ahl",
+     "en": "from (a native of)",
+     "pos": "n",
+     "note": "always with ezafe: ahl-e Tehrān",
+     "ex": {
+      "fa": "من اهل شیراز هستم.",
+      "r": "man ahl-e Shirāz hastam.",
+      "en": "I'm from Shiraz.",
+      "faV": "مَن اَهلِ شیراز هَستَم.",
+      "a": "5c454a4f9aa3"
+     },
+     "faV": "اَهل",
+     "a": "0e391e5ba467"
+    },
+    {
+     "fa": "خوشبختم",
+     "r": "khosh-bakht-am",
+     "en": "pleased to meet you",
+     "pos": "phrase",
+     "note": "literally 'I am fortunate'",
+     "faV": "خوشبَختَم",
+     "a": "bdc22bc5f9ae"
+    },
+    {
+     "fa": "ایرانی",
+     "r": "irāni",
+     "en": "Iranian",
+     "pos": "adj",
+     "note": "ایران + ی",
+     "faV": "ایرانی",
+     "a": "70b95641b6eb"
+    },
+    {
+     "fa": "استرالیایی",
+     "r": "ostorāliyāyi",
+     "en": "Australian",
+     "pos": "adj",
+     "faV": "اُستُرالیایی",
+     "a": "734bdec840b6"
+    },
+    {
+     "fa": "انگلیسی",
+     "r": "engelisi",
+     "en": "English",
+     "pos": "adj",
+     "faV": "اِنگِلیسی",
+     "a": "619ccc33945e"
+    },
+    {
+     "fa": "آمریکایی",
+     "r": "āmrikāyi",
+     "en": "American",
+     "pos": "adj",
+     "faV": "آمریکایی",
+     "a": "4e19fe9f1de9"
+    },
+    {
+     "fa": "دانشجو",
+     "r": "dāneshju",
+     "en": "university student",
+     "pos": "n",
+     "ex": {
+      "fa": "من دانشجو هستم.",
+      "r": "man dāneshju hastam.",
+      "en": "I am a student.",
+      "faV": "مَن دانِشجو هَستَم.",
+      "a": "e60ce41594b2"
+     },
+     "faV": "دانِشجو",
+     "a": "0cf8e25653d0"
+    },
+    {
+     "fa": "معلم",
+     "r": "mo'allem",
+     "en": "teacher",
+     "pos": "n",
+     "faV": "مُعَلِّم",
+     "a": "63d83fae3594"
+    },
+    {
+     "fa": "دوست",
+     "r": "dust",
+     "en": "friend",
+     "pos": "n",
+     "ex": {
+      "fa": "او دوست من است.",
+      "r": "u dust-e man ast.",
+      "en": "He / she is my friend.",
+      "faV": "او دوستِ مَن اَست.",
+      "a": "ceab8104f01c"
+     },
+     "faV": "دوست",
+     "a": "f44c79aeaebb"
+    },
+    {
+     "fa": "همکار",
+     "r": "ham-kār",
+     "en": "colleague",
+     "pos": "n",
+     "note": "هم 'same' + کار 'work'",
+     "faV": "هَمکار",
+     "a": "26b4e63414cf"
+    },
+    {
+     "fa": "همسایه",
+     "r": "ham-sāye",
+     "en": "neighbour",
+     "pos": "n",
+     "note": "هم 'same' + سایه 'shade'",
+     "faV": "هَمسایه",
+     "a": "1eebc0594655"
+    },
+    {
+     "fa": "اما",
+     "r": "ammā",
+     "en": "but",
+     "pos": "conj",
+     "faV": "اَمّا",
+     "a": "782609191190"
+    },
+    {
+     "fa": "و",
+     "r": "va",
+     "en": "and",
+     "pos": "conj",
+     "note": "between words it is said o: Leylā o Amir",
+     "faV": "و",
+     "a": "304117b6c7c9"
+    },
+    {
+     "fa": "هم",
+     "r": "ham",
+     "en": "too, also",
+     "pos": "adv",
+     "ex": {
+      "fa": "من هم دانشجو هستم.",
+      "r": "man ham dāneshju hastam.",
+      "en": "I am a student too.",
+      "faV": "مَن هَم دانِشجو هَستَم.",
+      "a": "2293185f2421"
+     },
+     "faV": "هَم",
+     "a": "7eb0e690ff17"
+    },
+    {
+     "fa": "در",
+     "r": "dar",
+     "en": "in, at",
+     "pos": "prep",
+     "faV": "دَر",
+     "a": "5bf04a1109e0"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The pronouns",
+   "md": "Persian has six personal pronouns. There is **one word for he, she and it**: [[او|u]]. Nothing in Persian grammar tells you whether a person is a man or a woman – a relief after French or German.\n\nFor *they*, Iranians write [[آن‌ها|ān-hā]] (literally *those*) and say *un-hā*. [[ایشان|ishān]] is a polite *he/she* for someone you respect – your teacher, a stranger, a grandparent.",
+   "table": {
+    "head": [
+     "Persian",
+     "Reading",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[من|man]]",
+      "man",
+      "I"
+     ],
+     [
+      "[[تو|to]]",
+      "to",
+      "you (one person, informal)"
+     ],
+     [
+      "[[او|u]]",
+      "u",
+      "he / she / it"
+     ],
+     [
+      "[[ما|mā]]",
+      "mā",
+      "we"
+     ],
+     [
+      "[[شما|shomā]]",
+      "shomā",
+      "you (plural, or one person politely)"
+     ],
+     [
+      "[[آن‌ها|ān-hā]]",
+      "ān-hā",
+      "they"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "او ایرانی است.",
+     "r": "u irāni ast.",
+     "en": "He / she is Iranian.",
+     "faV": "او ایرانی اَست.",
+     "a": "b64e64ec3865"
+    },
+    {
+     "fa": "ما دانشجو هستیم.",
+     "r": "mā dāneshju hastim.",
+     "en": "We are students.",
+     "faV": "ما دانِشجو هَستیم.",
+     "a": "b1a03577374c"
+    },
+    {
+     "fa": "آن‌ها اهل تبریز هستند.",
+     "r": "ān-hā ahl-e Tabriz hastand.",
+     "en": "They are from Tabriz.",
+     "col": "اون‌ها اهل تبریزن.",
+     "colR": "un-hā ahl-e Tabriz-an.",
+     "faV": "آن‌ها اَهلِ تَبریز هَستَند.",
+     "a": "ee4b8a60641f",
+     "colV": "اون‌ها اَهلِ تَبریزَن.",
+     "colA": "c3ca571b67a2"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "'To be': the long form hastam and the short endings",
+   "md": "In lesson 1 you met the short endings (*khub-am*). Persian also has a full verb *to be*, [[هستن|hastan]], used when the word before it is a noun or when you want to stress: [[من دانشجو هستم|man dāneshju hastam|I am a student]]. The short and long forms mean the same thing; [[من دانشجو هستم|man dāneshju hastam]] and [[من دانشجوام|man dāneshju-am]] are both correct – the long form is clearer and is what you will see in textbooks.\n\nFor *he/she/it is*, both [[است|ast]] and [[هست|hast]] exist. **ast** is the neutral word (*u mo'allem ast*); **hast** stresses existence – *there is*: [[چای هست؟|chāy hast?|Is there tea?]]\n\nThe negative is a separate word: [[نیستم|nistam|I am not]], [[نیستی|nisti]], [[نیست|nist]], [[نیستیم|nistim]], [[نیستید|nistid]], [[نیستند|nistand]].",
+   "table": {
+    "head": [
+     "Pronoun",
+     "am / are / is",
+     "am not / are not / is not"
+    ],
+    "rows": [
+     [
+      "[[من|man]]",
+      "[[هستم|hastam]]",
+      "[[نیستم|nistam]]"
+     ],
+     [
+      "[[تو|to]]",
+      "[[هستی|hasti]]",
+      "[[نیستی|nisti]]"
+     ],
+     [
+      "[[او|u]]",
+      "[[است|ast]] / [[هست|hast]]",
+      "[[نیست|nist]]"
+     ],
+     [
+      "[[ما|mā]]",
+      "[[هستیم|hastim]]",
+      "[[نیستیم|nistim]]"
+     ],
+     [
+      "[[شما|shomā]]",
+      "[[هستید|hastid]]",
+      "[[نیستید|nistid]]"
+     ],
+     [
+      "[[آن‌ها|ān-hā]]",
+      "[[هستند|hastand]]",
+      "[[نیستند|nistand]]"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "من معلم نیستم، دانشجو هستم.",
+     "r": "man mo'allem nistam, dāneshju hastam.",
+     "en": "I am not a teacher, I am a student.",
+     "faV": "مَن مُعَلِّم نیستَم، دانِشجو هَستَم.",
+     "a": "b2c7b00339de"
+    },
+    {
+     "fa": "تو اهل کجا هستی؟",
+     "r": "to ahl-e kojā hasti?",
+     "en": "Where are you from? (to a friend)",
+     "faV": "تو اَهلِ کُجا هَستی؟",
+     "a": "fa919b197d22"
+    },
+    {
+     "fa": "آقای کریمی اینجا نیست.",
+     "r": "āghā-ye Karimi injā nist.",
+     "en": "Mr Karimi is not here.",
+     "faV": "آقایِ کَریمی اینجا نیست.",
+     "a": "294b2fece25a"
+    },
+    {
+     "fa": "لیلا و امیر دوست هستند.",
+     "r": "Leylā o Amir dust hastand.",
+     "en": "Leila and Amir are friends.",
+     "col": "لیلا و امیر دوستن.",
+     "colR": "Leylā o Amir dust-an.",
+     "faV": "لَیلا و اَمیر دوست هَستَند.",
+     "a": "fc35ebf5902a",
+     "colV": "لَیلا و اَمیر دوستَن.",
+     "colA": "5054c730ba72"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Nationalities: add -i",
+   "md": "Add [[ی|-i]] to a country and you have its person and its language: [[ایران|Irān]] → [[ایرانی|irāni]], [[انگلیس|Engelis]] → [[انگلیسی|engelisi]] (English), [[چین|Chin]] → [[چینی|chini]]. If the country ends in a vowel, a *y* slips in: [[استرالیا|Ostorāliyā]] → [[استرالیایی|ostorāliyāyi]], [[آمریکا|Āmrikā]] → [[آمریکایی|āmrikāyi]], [[فرانسه|Farānse]] → [[فرانسوی|farānsavi]] (irregular).\n\nAdjectives never change for gender or number: *one Iranian woman, three Iranian men* – all [[ایرانی|irāni]].",
+   "examples": [
+    {
+     "fa": "تام استرالیایی است.",
+     "r": "Tām ostorāliyāyi ast.",
+     "en": "Tom is Australian.",
+     "faV": "تام اُستُرالیایی اَست.",
+     "a": "5f75f1d0beae"
+    },
+    {
+     "fa": "ما ایرانی هستیم.",
+     "r": "mā irāni hastim.",
+     "en": "We are Iranian.",
+     "faV": "ما ایرانی هَستیم.",
+     "a": "4b6b086b09c1"
+    },
+    {
+     "fa": "شما آلمانی هستید یا فرانسوی؟",
+     "r": "shomā ālmāni hastid yā farānsavi?",
+     "en": "Are you German or French?",
+     "faV": "شُما آلمانی هَستید یا فَرانسَوی؟",
+     "a": "4fb630bef71f"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Tom's class",
+   "intro": "Tom writes a few lines about his new class.",
+   "sentences": [
+    {
+     "fa": "اسم من تام است.",
+     "r": "esm-e man Tām ast.",
+     "en": "My name is Tom.",
+     "faV": "اِسمِ مَن تام اَست.",
+     "a": "9c0ac13156ab"
+    },
+    {
+     "fa": "من استرالیایی هستم و اهل سیدنی هستم.",
+     "r": "man ostorāliyāyi hastam o ahl-e Sidni hastam.",
+     "en": "I am Australian and I am from Sydney.",
+     "faV": "مَن اُستُرالیایی هَستَم و اَهلِ سیدنی هَستَم.",
+     "a": "7f4b643e157c"
+    },
+    {
+     "fa": "حالا در تهران دانشجو هستم.",
+     "r": "hālā dar Tehrān dāneshju hastam.",
+     "en": "Now I am a student in Tehran.",
+     "faV": "حالا دَر تِهران دانِشجو هَستَم.",
+     "a": "8a3cdce861a1"
+    },
+    {
+     "fa": "سارا دوست من است. او اهل شیراز است.",
+     "r": "Sārā dust-e man ast. u ahl-e Shirāz ast.",
+     "en": "Sara is my friend. She is from Shiraz.",
+     "faV": "سارا دوستِ مَن اَست. او اَهلِ شیراز اَست.",
+     "a": "ff8ff4a01afa"
+    },
+    {
+     "fa": "آقای کریمی معلم ماست. او خیلی خوب است.",
+     "r": "āghā-ye Karimi mo'allem-e mā-st. u kheyli khub ast.",
+     "en": "Mr Karimi is our teacher. He is very good.",
+     "faV": "آقایِ کَریمی مُعَلِّمِ ماست. او خَیلی خوب اَست.",
+     "a": "9fd216142c0c"
+    },
+    {
+     "fa": "لیلا و امیر هم در کلاس ما هستند.",
+     "r": "Leylā o Amir ham dar kelās-e mā hastand.",
+     "en": "Leila and Amir are in our class too.",
+     "faV": "لَیلا و اَمیر هَم دَر کِلاسِ ما هَستَند.",
+     "a": "5a506c6bff3a"
+    },
+    {
+     "fa": "آن‌ها ایرانی هستند، اما من ایرانی نیستم.",
+     "r": "ān-hā irāni hastand, ammā man irāni nistam.",
+     "en": "They are Iranian, but I am not Iranian.",
+     "faV": "آن‌ها ایرانی هَستَند، اَمّا مَن ایرانی نیستَم.",
+     "a": "498167cddc2d"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Where is Tom from?",
+     "options": [
+      "Tehran",
+      "Sydney",
+      "Shiraz"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Who is Mr Karimi?",
+     "options": [
+      "Tom's friend",
+      "a student",
+      "the teacher"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "Which sentence is true?",
+     "options": [
+      "Sara is from Tehran.",
+      "Leila and Amir are Iranian.",
+      "Tom is Iranian."
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Names in Iran",
+   "md": "Iranian first names come from three worlds: the Shahnameh and ancient Persia ([[داریوش|Dāriyush]], [[کوروش|Kurosh]], [[رستم|Rostam]], [[سارا|Sārā]]), Islam ([[محمد|Mohammad]], [[علی|Ali]], [[فاطمه|Fāteme]], [[زهرا|Zahrā]]) and nature and poetry ([[مینا|Minā|enamel; a bird]], [[لیلا|Leylā]], [[نسرین|Nasrin|wild rose]], [[بهار|Bahār|spring]]). Many names work for men and women in sound but not in use, so listen for the [[آقا|āghā]] or [[خانم|khānom]] people add.\n\nSurnames are young – they were made compulsory only in 1925 – and often tell you a home town ([[شیرازی|Shirāzi]], [[تهرانی|Tehrāni]]) or an ancestor's job. Adults address each other by surname plus *āghā-ye* or *khānom*: [[آقای کریمی|āghā-ye Karimi]], [[خانم احمدی|khānom-e Ahmadi]]. Friends use first names, often with [[جان|jān|dear]]: *Sārā jān*.",
+   "image": "iranian-women"
+  },
+  {
+   "type": "tips",
+   "title": "Watch out",
+   "items": [
+    "**ast** is written as a separate word but pronounced as if glued to the word before it: *mo'allem-e mā-st* for معلم ماست, *Sārā-st* for سارا است. In writing you will see both ماست and ما است.",
+    "The ezafe **-e** (*esm-e man*) is not written after a consonant – you have to know it is there. After a vowel it is written as ی: *khāne-ye man*.",
+    "**u** (او) is one syllable, like English *oo*; **to** (تو) rhymes with *go*.",
+    "Stress the last syllable of nouns, but **has**-tam, **nis**-tam – stress stays on the stem in these verbs."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the pronouns",
+   "items": [
+    {
+     "fa": "من",
+     "r": "man",
+     "en": "I",
+     "faV": "مَن",
+     "a": "8caa0ef3d4ce"
+    },
+    {
+     "fa": "تو",
+     "r": "to",
+     "en": "you (informal)",
+     "faV": "تو",
+     "a": "51f03b86a43f"
+    },
+    {
+     "fa": "او",
+     "r": "u",
+     "en": "he / she",
+     "faV": "او",
+     "a": "c8ac1215959d"
+    },
+    {
+     "fa": "ما",
+     "r": "mā",
+     "en": "we",
+     "faV": "ما",
+     "a": "a62caa1e0967"
+    },
+    {
+     "fa": "شما",
+     "r": "shomā",
+     "en": "you (polite / plural)",
+     "faV": "شُما",
+     "a": "95b793ccaa4b"
+    },
+    {
+     "fa": "آن‌ها",
+     "r": "ān-hā",
+     "en": "they",
+     "faV": "آن‌ها",
+     "a": "72e45ecaae28"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right form",
+   "items": [
+    {
+     "q": "ما دانشجو ___.",
+     "options": [
+      "هستم",
+      "هستیم",
+      "هستند"
+     ],
+     "answer": 1,
+     "explain": "mā (we) takes hastim."
+    },
+    {
+     "q": "How do you ask a stranger's name?",
+     "options": [
+      "اسم تو چیست؟",
+      "اسم شما چیست؟",
+      "شما کجا هستید؟"
+     ],
+     "answer": 1,
+     "explain": "shomā is the polite 'you'; esm-e shomā chist? = what is your name?"
+    },
+    {
+     "q": "Which word means 'he or she'?",
+     "options": [
+      "او",
+      "آن‌ها",
+      "تو"
+     ],
+     "answer": 0,
+     "explain": "u is he, she or it."
+    },
+    {
+     "q": "'I am not Iranian' is…",
+     "options": [
+      "من ایرانی هستم.",
+      "من ایرانی نیستم.",
+      "من ایرانی نیست."
+     ],
+     "answer": 1,
+     "explain": "nistam is 'I am not'."
+    },
+    {
+     "q": "The nationality word for آمریکا is…",
+     "options": [
+      "آمریکایی",
+      "آمریکای",
+      "آمریکانی"
+     ],
+     "answer": 0,
+     "explain": "After a vowel, -yi: āmrikāyi."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {
+     "fa": "اسم ___ تام است.",
+     "r": "esm-e ___ Tām ast.",
+     "en": "My name is Tom.",
+     "answer": "من",
+     "hint": "I / me"
+    },
+    {
+     "fa": "شما اهل ___ هستید؟",
+     "r": "shomā ahl-e ___ hastid?",
+     "en": "Where are you from?",
+     "answer": "کجا",
+     "hint": "where"
+    },
+    {
+     "fa": "او معلم ___.",
+     "r": "u mo'allem ___.",
+     "en": "He is a teacher.",
+     "answer": "است",
+     "hint": "is"
+    },
+    {
+     "fa": "ما ایرانی ___، استرالیایی هستیم.",
+     "r": "mā irāni ___, ostorāliyāyi hastim.",
+     "en": "We are not Iranian, we are Australian.",
+     "answer": "نیستیم",
+     "hint": "we are not"
+    },
+    {
+     "fa": "آن آقا ___؟",
+     "r": "ān āghā ___?",
+     "en": "Who is that man?",
+     "answer": "کیست",
+     "hint": "who is"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "اسم شما چیست؟",
+     "r": "esm-e shomā chist?",
+     "en": "What is your name?",
+     "faV": "اِسمِ شُما چیست؟",
+     "a": "06102665b698"
+    },
+    {
+     "fa": "من اهل شیراز هستم.",
+     "r": "man ahl-e Shirāz hastam.",
+     "en": "I am from Shiraz.",
+     "faV": "مَن اَهلِ شیراز هَستَم.",
+     "a": "5c454a4f9aa3"
+    },
+    {
+     "fa": "او معلم ما نیست.",
+     "r": "u mo'allem-e mā nist.",
+     "en": "He is not our teacher.",
+     "faV": "او مُعَلِّمِ ما نیست.",
+     "a": "4158e58a660a"
+    },
+    {
+     "fa": "آن‌ها هم دانشجو هستند.",
+     "r": "ān-hā ham dāneshju hastand.",
+     "en": "They are students too.",
+     "faV": "آن‌ها هَم دانِشجو هَستَند.",
+     "a": "bdeffec3f8c9"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "من اهل تهران نیستم.",
+     "r": "man ahl-e Tehrān nistam.",
+     "en": "I am not from Tehran.",
+     "options": [
+      "I am from Tehran.",
+      "I am not from Tehran.",
+      "Are you from Tehran?"
+     ],
+     "answer": 1,
+     "faV": "مَن اَهلِ تِهران نیستَم.",
+     "a": "dbe798062275"
+    },
+    {
+     "fa": "اسم شما چیست؟",
+     "r": "esm-e shomā chist?",
+     "en": "What is your name?",
+     "options": [
+      "Where are you from?",
+      "Who are you?",
+      "What is your name?"
+     ],
+     "answer": 2,
+     "faV": "اِسمِ شُما چیست؟",
+     "a": "06102665b698"
+    },
+    {
+     "fa": "او دوست من است.",
+     "r": "u dust-e man ast.",
+     "en": "He is my friend.",
+     "options": [
+      "He is my teacher.",
+      "He is my friend.",
+      "He is my neighbour."
+     ],
+     "answer": 1,
+     "faV": "او دوستِ مَن اَست.",
+     "a": "ceab8104f01c"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "My name is Sara. I am from Shiraz.",
+     "fa": "اسم من سارا است. من اهل شیراز هستم.",
+     "r": "esm-e man Sārā ast. man ahl-e Shirāz hastam.",
+     "faV": "اِسمِ مَن سارا اَست. مَن اَهلِ شیراز هَستَم.",
+     "a": "ca2744fb10a6"
+    },
+    {
+     "en": "Are you Iranian? (polite)",
+     "fa": "شما ایرانی هستید؟",
+     "r": "shomā irāni hastid?",
+     "faV": "شُما ایرانی هَستید؟",
+     "a": "45736e21b655"
+    },
+    {
+     "en": "No, I am not Iranian. I am Australian.",
+     "fa": "نه، من ایرانی نیستم. من استرالیایی هستم.",
+     "r": "na, man irāni nistam. man ostorāliyāyi hastam.",
+     "faV": "نه، مَن ایرانی نیستَم. مَن اُستُرالیایی هَستَم.",
+     "a": "2cc102d7d9a8"
+    },
+    {
+     "en": "Who is that lady? She is our teacher.",
+     "fa": "آن خانم کیست؟ او معلم ماست.",
+     "r": "ān khānom kist? u mo'allem-e mā-st.",
+     "faV": "آن خانُم کیست؟ او مُعَلِّمِ ماست.",
+     "a": "a9faff2a231f"
+    }
+   ]
+  }
+ ],
+ "titleV": "شُما کی هَستید؟",
+ "titleA": "d595126d7deb"
+}

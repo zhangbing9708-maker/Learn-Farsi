@@ -1,0 +1,441 @@
+{
+ "id": "script-04-re-ze-zhe-sin-shin",
+ "level": "script",
+ "n": 4,
+ "title": "Re, ze, zhe, sin, shin",
+ "titleFa": "ر، ز، ژ، س، ش",
+ "titleR": "re, ze, zhe, sin, shin",
+ "intro": "Five letters that open up a lot of everyday words: re, ze and zhe, three little slides that never join the letter after them, and sin and shin, the letters with three teeth. By the end of this lesson you can read hand, night, brother and bazaar – and you will have met zhe, one of the rarest letters in the alphabet.",
+ "goals": [
+  "read and write ر ز ژ and know that they never join the letter after them",
+  "read and write س ش in all their shapes",
+  "tell re from dāl at a glance",
+  "read words such as dast, shab, barādar and bāzār"
+ ],
+ "image": "grand-bazaar-tehran",
+ "sections": [
+  {
+   "type": "text",
+   "title": "Re, ze, zhe – the slides",
+   "md": "[[ر|re]] is a small curved stroke that starts on the line and slides down below it. [[ز|ze]] is the same stroke with one dot above, and [[ژ|zhe]] has three dots above.\n\nAll three are **non-joiners**, like alef, dāl and zāl: they join the letter before them but never the letter after, so they have only two shapes – alone (ر) and joined to the previous letter (ـر). Don't confuse re with dāl: dāl is an angle that *sits on* the line, re is a curve that *dips below* it.\n\nWith this many non-joiners in play, words often fall into several pieces. [[درد|dard|pain]] is three separate letters, d-r-d, none of them joined. [[برادر|barādar|brother]] is four pieces: *be* joined to *re*, then alef, dāl and re, each standing alone. A gap inside a word is not a space – look for where the word really ends."
+  },
+  {
+   "type": "text",
+   "title": "Three sounds: r, z and zh",
+   "md": "[[ر|re]] is a **tapped r**, as in Spanish or Italian: the tip of the tongue flicks once against the ridge behind your top teeth. It is never silent, so [[سرد|sard|cold]] has a clear *r* in the middle, and so does the end of [[بازار|bāzār|bazaar]].\n\n[[ز|ze]] is plain *z* as in *zoo*. You met [[ذ|zāl]] in lesson 3, which sounds the same, but ze is the everyday spelling of *z*: [[زرد|zard|yellow]], [[سبز|sabz|green]].\n\n[[ژ|zhe]] is *zh*, the *s* in *pleasure*. It is one of the four letters Persian added to the Arabic alphabet, and one of the rarest. You find it in a few old Persian words, like [[دژ|dezh|fortress]] and [[ژاله|zhāle|dew]], and in words from French, like [[ژاکت|zhāket|jacket]] and [[ژست|zhest|pose]]."
+  },
+  {
+   "type": "text",
+   "title": "Sin and shin – three teeth",
+   "md": "[[س|sin]] is three small teeth on the line. Alone or at the end of a word the teeth are followed by a wide bowl that dips below the line: س, ـس. At the start or in the middle only the teeth remain: سـ, ـسـ. [[ش|shin]] is the same letter with three dots above: ش, شـ, ـشـ, ـش. Both join on both sides.\n\nSin is the everyday *s*. You met [[ث|se]] in lesson 2 and will meet one more *s* in the next lesson, but most words use sin: [[سر|sar|head]], [[دست|dast|hand]]. Shin is *sh* as in *shop*: [[شب|shab|night]], [[آتش|ātash|fire]].\n\nIn the middle of a word, count the teeth. Three in a row are sin or shin; a single tooth is one of the dish letters from lesson 2. In [[دست|dast]] you can see dāl standing alone, then the three teeth of sin running straight into te."
+  },
+  {
+   "type": "letters",
+   "title": "The letters of this lesson",
+   "letters": [
+    "ر",
+    "ز",
+    "ژ",
+    "س",
+    "ش"
+   ],
+   "md": "Tap each letter to hear its name and an example word. Notice that ر ز ژ have only two shapes, and that س and ش lose their bowl at the start and in the middle of a word."
+  },
+  {
+   "type": "vocab",
+   "title": "Words you can read now",
+   "items": [
+    {
+     "fa": "سر",
+     "r": "sar",
+     "en": "head",
+     "pos": "n",
+     "faV": "سَر",
+     "a": "ea7569d6f571"
+    },
+    {
+     "fa": "در",
+     "r": "dar",
+     "en": "door; in",
+     "pos": "n",
+     "note": "two letters, two pieces: dāl never joins forward",
+     "faV": "دَر",
+     "a": "5bf04a1109e0"
+    },
+    {
+     "fa": "دست",
+     "r": "dast",
+     "en": "hand",
+     "pos": "n",
+     "faV": "دَست",
+     "a": "ae14fdf2d77d"
+    },
+    {
+     "fa": "درد",
+     "r": "dard",
+     "en": "pain",
+     "pos": "n",
+     "note": "three letters, none of them joined",
+     "faV": "دَرد",
+     "a": "f143400da3a6"
+    },
+    {
+     "fa": "شب",
+     "r": "shab",
+     "en": "night",
+     "pos": "n",
+     "faV": "شَب",
+     "a": "53727d294b80"
+    },
+    {
+     "fa": "راست",
+     "r": "rāst",
+     "en": "right (not left); true",
+     "pos": "adj",
+     "faV": "راست",
+     "a": "36016c3544eb"
+    },
+    {
+     "fa": "سبز",
+     "r": "sabz",
+     "en": "green",
+     "pos": "adj",
+     "faV": "سَبز",
+     "a": "9d18c1c8344a"
+    },
+    {
+     "fa": "زرد",
+     "r": "zard",
+     "en": "yellow",
+     "pos": "adj",
+     "faV": "زَرد",
+     "a": "3c27f803b54a"
+    },
+    {
+     "fa": "سرد",
+     "r": "sard",
+     "en": "cold",
+     "pos": "adj",
+     "faV": "سَرد",
+     "a": "d684e3e468c8"
+    },
+    {
+     "fa": "بازار",
+     "r": "bāzār",
+     "en": "market, bazaar",
+     "pos": "n",
+     "note": "English 'bazaar' comes from this word",
+     "faV": "بازار",
+     "a": "05299979b024"
+    },
+    {
+     "fa": "دختر",
+     "r": "dokhtar",
+     "en": "girl; daughter",
+     "pos": "n",
+     "note": "a distant cousin of English 'daughter'",
+     "faV": "دُختَر",
+     "a": "ccccac2bf181"
+    },
+    {
+     "fa": "برادر",
+     "r": "barādar",
+     "en": "brother",
+     "pos": "n",
+     "note": "a distant cousin of English 'brother'",
+     "faV": "بَرادَر",
+     "a": "b56690f317af"
+    },
+    {
+     "fa": "درخت",
+     "r": "derakht",
+     "en": "tree",
+     "pos": "n",
+     "faV": "دِرَخت",
+     "a": "82c2ea0896eb"
+    },
+    {
+     "fa": "آتش",
+     "r": "ātash",
+     "en": "fire",
+     "pos": "n",
+     "faV": "آتَش",
+     "a": "c6215dd436c9"
+    },
+    {
+     "fa": "ژست",
+     "r": "zhest",
+     "en": "pose, gesture",
+     "pos": "n",
+     "note": "from French geste",
+     "faV": "ژِست",
+     "a": "e8373b8593fe"
+    },
+    {
+     "fa": "دژ",
+     "r": "dezh",
+     "en": "fortress, castle",
+     "pos": "n",
+     "note": "an old Persian word with zhe",
+     "faV": "دِژ",
+     "a": "499a22a754f0"
+    }
+   ]
+  },
+  {
+   "type": "tips",
+   "title": "Reading tips",
+   "items": [
+    "Re, ze and zhe dip below the line; dāl and zāl sit on it. That is the quickest way to tell [[ر|re]] from [[د|dāl]].",
+    "Dots again: ر has none, ز one, ژ three.",
+    "Three teeth in a row mean sin (س) or shin (ش). In handwriting the teeth are often smoothed into a flat line, and shin's three dots become a little caret: ^.",
+    "Tap every r. Persian never drops it the way British English does in *car* or *park*.",
+    "You now have two ways to write *z* (ذ ز) and two to write *s* (ث س). When you are unsure, ز and س are the everyday spellings."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Which letter?",
+   "items": [
+    {
+     "q": "Which letter is **zhe** (zh)?",
+     "options": [
+      "ز",
+      "ژ",
+      "ر"
+     ],
+     "answer": 1,
+     "explain": "Three dots above."
+    },
+    {
+     "q": "Which letter is **shin** (sh)?",
+     "options": [
+      "س",
+      "ش",
+      "ث"
+     ],
+     "answer": 1,
+     "explain": "Three teeth with three dots above."
+    },
+    {
+     "q": "Which letter dips below the line and never joins the letter after it?",
+     "options": [
+      "د",
+      "ر",
+      "س"
+     ],
+     "answer": 1,
+     "explain": "re slides below the line; dāl sits on it, and sin joins on both sides."
+    },
+    {
+     "q": "Which letter is the everyday spelling of **z**?",
+     "options": [
+      "ز",
+      "ذ",
+      "ژ"
+     ],
+     "answer": 0,
+     "explain": "ze. zāl (ذ) also sounds z but appears only in words from Arabic; ژ is zh."
+    },
+    {
+     "q": "How many separate pieces is [[درد|dard]] written in?",
+     "options": [
+      "one",
+      "two",
+      "three"
+     ],
+     "answer": 2,
+     "explain": "d, r and d are all non-joiners, so each letter stands alone."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Read the word",
+   "items": [
+    {
+     "q": "Which word is **hand**?",
+     "options": [
+      "دست",
+      "درد",
+      "سرد"
+     ],
+     "answer": 0,
+     "explain": "d-s-t: dast."
+    },
+    {
+     "q": "Which word is **night**?",
+     "options": [
+      "سر",
+      "شب",
+      "سبز"
+     ],
+     "answer": 1,
+     "explain": "sh-b with an unwritten a: shab."
+    },
+    {
+     "q": "Which word is **green**?",
+     "options": [
+      "زرد",
+      "سرد",
+      "سبز"
+     ],
+     "answer": 2,
+     "explain": "s-b-z: sabz. zard is yellow and sard is cold."
+    },
+    {
+     "q": "Which word is **brother**?",
+     "options": [
+      "بازار",
+      "برادر",
+      "درخت"
+     ],
+     "answer": 1,
+     "explain": "b-r-ā-d-r: barādar."
+    },
+    {
+     "q": "Which word is **fire**?",
+     "options": [
+      "آتش",
+      "راست",
+      "دختر"
+     ],
+     "answer": 0,
+     "explain": "ā-t-sh: ātash."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and pick the spelling",
+   "items": [
+    {
+     "fa": "سرد",
+     "r": "sard",
+     "en": "cold",
+     "options": [
+      "زرد",
+      "سرد",
+      "سبز"
+     ],
+     "answer": 1,
+     "faV": "سَرد",
+     "a": "d684e3e468c8"
+    },
+    {
+     "fa": "ژست",
+     "r": "zhest",
+     "en": "pose",
+     "options": [
+      "زشت",
+      "رشت",
+      "ژست"
+     ],
+     "answer": 2,
+     "faV": "ژِست",
+     "a": "e8373b8593fe"
+    },
+    {
+     "fa": "درخت",
+     "r": "derakht",
+     "en": "tree",
+     "options": [
+      "دختر",
+      "درخت",
+      "درد"
+     ],
+     "answer": 1,
+     "faV": "دِرَخت",
+     "a": "82c2ea0896eb"
+    },
+    {
+     "fa": "بازار",
+     "r": "bāzār",
+     "en": "bazaar",
+     "options": [
+      "بازار",
+      "برادر",
+      "باز"
+     ],
+     "answer": 0,
+     "faV": "بازار",
+     "a": "05299979b024"
+    },
+    {
+     "fa": "شب",
+     "r": "shab",
+     "en": "night",
+     "options": [
+      "سب",
+      "ثب",
+      "شب"
+     ],
+     "answer": 2,
+     "faV": "شَب",
+     "a": "53727d294b80"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the words",
+   "items": [
+    {
+     "fa": "دست",
+     "r": "dast",
+     "en": "hand",
+     "faV": "دَست",
+     "a": "ae14fdf2d77d"
+    },
+    {
+     "fa": "سر",
+     "r": "sar",
+     "en": "head",
+     "faV": "سَر",
+     "a": "ea7569d6f571"
+    },
+    {
+     "fa": "شب",
+     "r": "shab",
+     "en": "night",
+     "faV": "شَب",
+     "a": "53727d294b80"
+    },
+    {
+     "fa": "زرد",
+     "r": "zard",
+     "en": "yellow",
+     "faV": "زَرد",
+     "a": "3c27f803b54a"
+    },
+    {
+     "fa": "درخت",
+     "r": "derakht",
+     "en": "tree",
+     "faV": "دِرَخت",
+     "a": "82c2ea0896eb"
+    },
+    {
+     "fa": "دختر",
+     "r": "dokhtar",
+     "en": "girl",
+     "faV": "دُختَر",
+     "a": "ccccac2bf181"
+    },
+    {
+     "fa": "بازار",
+     "r": "bāzār",
+     "en": "bazaar",
+     "faV": "بازار",
+     "a": "05299979b024"
+    }
+   ]
+  }
+ ],
+ "titleV": "ر، ز، ژ، س، ش",
+ "titleA": "51d84593a1c2"
+}

@@ -1,0 +1,440 @@
+{
+ "id": "script-06-fe-ghaf-kaf-gaf-lam-mim",
+ "level": "script",
+ "n": 6,
+ "title": "Fe, ghāf, kāf, gāf, lām, mim",
+ "titleFa": "ف، ق، ک، گ، ل، م",
+ "titleR": "fe, ghāf, kāf, gāf, lām, mim",
+ "intro": "Six letters, and with them some of the first words anyone learns: salām, ketāb, kelās. You meet the second way of writing gh, the slanted letters k and g, and lām-alef, the one place where two letters melt into a single shape.",
+ "goals": [
+  "read and write ف ق and tell them apart by their dots and end shapes",
+  "know that ق and غ are both pronounced gh",
+  "read and write ک گ ل م in all their shapes",
+  "recognise lām-alef لا as two letters",
+  "read words such as salām, ketāb, ghalam and kelās"
+ ],
+ "image": "persian-carpet",
+ "sections": [
+  {
+   "type": "text",
+   "title": "Fe and ghāf – loops with dots",
+   "md": "[[ف|fe]] is a small round loop on a short stem, with one dot above. [[ق|ghāf]] is the same loop with **two** dots. At the start or in the middle of a word only the dots tell them apart: فـ ـفـ, قـ ـقـ. Alone or at the end they part ways: fe ends in a long flat stroke along the line (ف), while ghāf drops into a deep round bowl below it (ق).\n\nFe is *f* as in *fish*: [[برف|barf|snow]], [[فرش|farsh|carpet]]. Ghāf is the *gh* you learned with [[غ|gheyn]] in lesson 5: in standard Persian the two letters sound exactly the same. So [[قرمز|ghermez|red]] begins with the same sound that ends [[مرغ|morgh|hen]], written two different ways. Ghāf turns up mostly in words from Arabic and Turkish, such as [[قلم|ghalam|pen]] and [[اتاق|otāgh|room]]. Some regional accents, and the Dari Persian of Afghanistan, still say a *q* for ق."
+  },
+  {
+   "type": "text",
+   "title": "Kāf and gāf – the slanted strokes",
+   "md": "[[ک|kāf]] is a tall stroke slanting up to the left from a flat base. Alone or at the end of a word the base is long: ک, ـک. At the start or in the middle it shrinks: کـ, ـکـ. [[گ|gāf]] is the same letter with a **second** slanted stroke on top – one of the four letters Persian added to the Arabic alphabet: گ, گـ, ـگـ, ـگ.\n\nKāf is *k*: [[کتاب|ketāb|book]]. Gāf is always a hard *g*, as in *go*, never as in *gem*: [[گل|gol|flower]], [[بزرگ|bozorg|big]]. Count the strokes the way you count dots – one is *k*, two is *g*.\n\nArabic writes kāf differently at the end of a word, with a little squiggle inside instead of the slanted stroke. On a computer the two are different characters, so make sure you always use the Persian ک – lesson 8 shows you how."
+  },
+  {
+   "type": "text",
+   "title": "Lām, mim – and lām-alef",
+   "md": "[[ل|lām]] is a tall upright stroke, like alef, but it joins on **both** sides. At the start and in the middle it is just the tall stroke: لـ, ـلـ. Alone or at the end it curves into a deep hook below the line: ل, ـل. Lām is *l*.\n\n[[م|mim]] is a small round loop. At the start of a word it sits on the line (مـ), in the middle it hangs just below it (ـمـ), and alone or at the end it grows a tail straight down: م, ـم. Mim is *m*: [[مادر|mādar|mother]].\n\nOne pair of letters has a shape of its own. When lām is followed by alef, the two melt into **lām-alef**, a single V-shaped sign: [[لا|lā]]. You see it in the most useful word of all, [[سلام|salām|hello]] – *s*, *lā*, *m* – and in [[کلاس|kelās|class]]. Lām-alef is still two letters, *l* + *ā*."
+  },
+  {
+   "type": "letters",
+   "title": "The letters of this lesson",
+   "letters": [
+    "ف",
+    "ق",
+    "ک",
+    "گ",
+    "ل",
+    "م"
+   ],
+   "md": "Tap each letter to hear its name and an example word. Compare the end shapes of ف and ق, and count the slanted strokes on ک and گ."
+  },
+  {
+   "type": "vocab",
+   "title": "Words you can read now",
+   "items": [
+    {
+     "fa": "سلام",
+     "r": "salām",
+     "en": "hello",
+     "pos": "phrase",
+     "note": "lām-alef in the middle: s, lā, m",
+     "faV": "سَلام",
+     "a": "4f81f684bbf2"
+    },
+    {
+     "fa": "کتاب",
+     "r": "ketāb",
+     "en": "book",
+     "pos": "n",
+     "faV": "کِتاب",
+     "a": "ed34a49570ab"
+    },
+    {
+     "fa": "قلم",
+     "r": "ghalam",
+     "en": "pen",
+     "pos": "n",
+     "note": "ق sounds gh",
+     "faV": "قَلَم",
+     "a": "d339e2317bde"
+    },
+    {
+     "fa": "کلاس",
+     "r": "kelās",
+     "en": "class, classroom",
+     "pos": "n",
+     "faV": "کِلاس",
+     "a": "5de718b86fed"
+    },
+    {
+     "fa": "اسم",
+     "r": "esm",
+     "en": "name",
+     "pos": "n",
+     "faV": "اِسم",
+     "a": "16aa69472dcd"
+    },
+    {
+     "fa": "مادر",
+     "r": "mādar",
+     "en": "mother",
+     "pos": "n",
+     "faV": "مادَر",
+     "a": "b6490d9a8851"
+    },
+    {
+     "fa": "گل",
+     "r": "gol",
+     "en": "flower; rose",
+     "pos": "n",
+     "faV": "گُل",
+     "a": "bd5d76c36abc"
+    },
+    {
+     "fa": "بزرگ",
+     "r": "bozorg",
+     "en": "big, large; great",
+     "pos": "adj",
+     "faV": "بُزُرگ",
+     "a": "65220b7cb8d1"
+    },
+    {
+     "fa": "سگ",
+     "r": "sag",
+     "en": "dog",
+     "pos": "n",
+     "faV": "سَگ",
+     "a": "f5b42d6a3471"
+    },
+    {
+     "fa": "مرغ",
+     "r": "morgh",
+     "en": "hen, chicken",
+     "pos": "n",
+     "note": "ends in gheyn – the same sound as ق",
+     "faV": "مُرغ",
+     "a": "fecd7ca0b1be"
+    },
+    {
+     "fa": "برف",
+     "r": "barf",
+     "en": "snow",
+     "pos": "n",
+     "faV": "بَرف",
+     "a": "6b2b7b64ea55"
+    },
+    {
+     "fa": "فرش",
+     "r": "farsh",
+     "en": "carpet, rug",
+     "pos": "n",
+     "faV": "فَرش",
+     "a": "c47d09fc9bac"
+    },
+    {
+     "fa": "اتاق",
+     "r": "otāgh",
+     "en": "room",
+     "pos": "n",
+     "note": "a Turkish word, spelled with ق",
+     "faV": "اُتاق",
+     "a": "c53580fdf2e4"
+    },
+    {
+     "fa": "قرمز",
+     "r": "ghermez",
+     "en": "red",
+     "pos": "adj",
+     "faV": "قِرمِز",
+     "a": "3cfb304a2732"
+    },
+    {
+     "fa": "کجا",
+     "r": "kojā",
+     "en": "where?",
+     "pos": "adv",
+     "faV": "کُجا",
+     "a": "e2b1b82b3b99"
+    },
+    {
+     "fa": "کفش",
+     "r": "kafsh",
+     "en": "shoe; shoes",
+     "pos": "n",
+     "faV": "کَفش",
+     "a": "a65e145696d8"
+    }
+   ]
+  },
+  {
+   "type": "tips",
+   "title": "Reading tips",
+   "items": [
+    "ق and غ sound the same. When you hear *gh*, you cannot know the letter – learn it with the word.",
+    "One slanted stroke is ک (k), two are گ (g). Like the dots, the extra stroke is usually added after the rest of the word is written.",
+    "[[لا|lā]] is two letters, lām + alef – not a new letter.",
+    "At the end of a word, ف lies flat on the line and ق drops into a round bowl.",
+    "Practise writing [[سلام|salām]] until it flows: sin's teeth, lām-alef, then mim with its tail. It is the first word you will write to an Iranian friend."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Which letter?",
+   "items": [
+    {
+     "q": "Which letter is **ghāf**?",
+     "options": [
+      "ف",
+      "ق",
+      "غ"
+     ],
+     "answer": 1,
+     "explain": "Two dots above. غ (gheyn) sounds the same, but it is a different letter."
+    },
+    {
+     "q": "Which letter is **gāf** (g)?",
+     "options": [
+      "ک",
+      "گ",
+      "ل"
+     ],
+     "answer": 1,
+     "explain": "Two slanted strokes."
+    },
+    {
+     "q": "Which letter is **mim** (m)?",
+     "options": [
+      "م",
+      "ف",
+      "ق"
+     ],
+     "answer": 0,
+     "explain": "A small round loop with a tail straight down."
+    },
+    {
+     "q": "Which letter is **fe** (f)?",
+     "options": [
+      "ق",
+      "غ",
+      "ف"
+     ],
+     "answer": 2,
+     "explain": "One dot above the loop."
+    },
+    {
+     "q": "What is [[لا|lā]]?",
+     "options": [
+      "a new letter",
+      "lām + alef",
+      "a vowel mark"
+     ],
+     "answer": 1,
+     "explain": "Two letters fused into one shape: l + ā."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Read the word",
+   "items": [
+    {
+     "q": "Which word is **hello**?",
+     "options": [
+      "سلام",
+      "کلاس",
+      "اسم"
+     ],
+     "answer": 0,
+     "explain": "s-lā-m: salām."
+    },
+    {
+     "q": "Which word is **book**?",
+     "options": [
+      "کفش",
+      "کتاب",
+      "کجا"
+     ],
+     "answer": 1,
+     "explain": "k-t-ā-b: ketāb."
+    },
+    {
+     "q": "Which word is **pen**?",
+     "options": [
+      "گل",
+      "قرمز",
+      "قلم"
+     ],
+     "answer": 2,
+     "explain": "gh-l-m: ghalam."
+    },
+    {
+     "q": "Which word is **mother**?",
+     "options": [
+      "مرغ",
+      "مادر",
+      "برادر"
+     ],
+     "answer": 1,
+     "explain": "m-ā-d-r: mādar."
+    },
+    {
+     "q": "Which word is **snow**?",
+     "options": [
+      "برف",
+      "فرش",
+      "سگ"
+     ],
+     "answer": 0,
+     "explain": "b-r-f: barf."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and pick the spelling",
+   "items": [
+    {
+     "fa": "کلاس",
+     "r": "kelās",
+     "en": "class",
+     "options": [
+      "کلاس",
+      "گلاس",
+      "سلام"
+     ],
+     "answer": 0,
+     "faV": "کِلاس",
+     "a": "5de718b86fed"
+    },
+    {
+     "fa": "گل",
+     "r": "gol",
+     "en": "flower",
+     "options": [
+      "کل",
+      "گل",
+      "قل"
+     ],
+     "answer": 1,
+     "faV": "گُل",
+     "a": "bd5d76c36abc"
+    },
+    {
+     "fa": "اتاق",
+     "r": "otāgh",
+     "en": "room",
+     "options": [
+      "اتاغ",
+      "اتاک",
+      "اتاق"
+     ],
+     "answer": 2,
+     "faV": "اُتاق",
+     "a": "c53580fdf2e4"
+    },
+    {
+     "fa": "قرمز",
+     "r": "ghermez",
+     "en": "red",
+     "options": [
+      "قرمز",
+      "غرمز",
+      "قرمذ"
+     ],
+     "answer": 0,
+     "faV": "قِرمِز",
+     "a": "3cfb304a2732"
+    },
+    {
+     "fa": "کفش",
+     "r": "kafsh",
+     "en": "shoe",
+     "options": [
+      "گفش",
+      "کفش",
+      "کقش"
+     ],
+     "answer": 1,
+     "faV": "کَفش",
+     "a": "a65e145696d8"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the words",
+   "items": [
+    {
+     "fa": "سلام",
+     "r": "salām",
+     "en": "hello",
+     "faV": "سَلام",
+     "a": "4f81f684bbf2"
+    },
+    {
+     "fa": "کتاب",
+     "r": "ketāb",
+     "en": "book",
+     "faV": "کِتاب",
+     "a": "ed34a49570ab"
+    },
+    {
+     "fa": "گل",
+     "r": "gol",
+     "en": "flower",
+     "faV": "گُل",
+     "a": "bd5d76c36abc"
+    },
+    {
+     "fa": "سگ",
+     "r": "sag",
+     "en": "dog",
+     "faV": "سَگ",
+     "a": "f5b42d6a3471"
+    },
+    {
+     "fa": "بزرگ",
+     "r": "bozorg",
+     "en": "big",
+     "faV": "بُزُرگ",
+     "a": "65220b7cb8d1"
+    },
+    {
+     "fa": "اتاق",
+     "r": "otāgh",
+     "en": "room",
+     "faV": "اُتاق",
+     "a": "c53580fdf2e4"
+    },
+    {
+     "fa": "کجا",
+     "r": "kojā",
+     "en": "where?",
+     "faV": "کُجا",
+     "a": "e2b1b82b3b99"
+    }
+   ]
+  }
+ ],
+ "titleV": "ف، ق، ک، گ، ل، م",
+ "titleA": "a119ea8b0e59"
+}

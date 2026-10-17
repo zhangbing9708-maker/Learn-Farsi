@@ -1,0 +1,921 @@
+{
+ "id": "a1-16-getting-around",
+ "level": "A1",
+ "n": 16,
+ "title": "Getting around: taxi, metro and directions",
+ "titleFa": "در شهر: تاکسی، مترو و مسیر",
+ "titleR": "dar shahr: tāksi, metro o masir",
+ "intro": "Tehran is a city of twelve million people, shared taxis, a clean metro and legendary traffic. In this lesson you learn to take a taxi and the metro, ask the way and understand the answer – and you meet the imperative, the verb form for telling people what to do: go, turn, stop.",
+ "goals": [
+  "take a taxi and say where you want to go",
+  "ask for and understand simple directions (right, left, straight on)",
+  "use the metro and buses",
+  "give instructions with the imperative: برو، بپیچ، بایستید"
+ ],
+ "image": "tehran-metro",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "In a taxi",
+   "context": "Tom stops a taxi in Tehran to go to Tajrish bazaar in the north of the city.",
+   "lines": [
+    {
+     "who": "Tom",
+     "fa": "سلام، آقا. دربست تجریش؟",
+     "r": "salām, āghā. darbast Tajrish?",
+     "en": "Hello, sir. Private taxi to Tajrish?",
+     "faV": "سَلام، آقا. دَربَست تَجریش؟",
+     "a": "cc79ff5e982d"
+    },
+    {
+     "who": "Driver",
+     "fa": "بفرمایید، بنشینید. تجریش کجا؟",
+     "r": "befarmāyid, beneshinid. Tajrish kojā?",
+     "en": "Please, sit down. Where in Tajrish?",
+     "col": "بفرمایید، بشینید. تجریش کجا؟",
+     "colR": "befarmāyid, beshinid. Tajrish kojā?",
+     "faV": "بِفَرمایید، بِنِشینید. تَجریش کُجا؟",
+     "a": "bc4b1045e719",
+     "colV": "بِفَرمایید، بِشینید. تَجریش کُجا؟",
+     "colA": "608dd8a4e140"
+    },
+    {
+     "who": "Tom",
+     "fa": "بازار تجریش، لطفاً. چقدر می‌شود؟",
+     "r": "bāzār-e Tajrish, lotfan. cheghadr mi-shavad?",
+     "en": "Tajrish bazaar, please. How much will it be?",
+     "col": "بازار تجریش، لطفاً. چقدر می‌شه؟",
+     "colR": "bāzār-e Tajrish, lotfan. cheghadr mi-she?",
+     "faV": "بازارِ تَجریش، لُطفاً. چِقَدر می‌شَوَد؟",
+     "a": "fbfafd22cce0",
+     "colV": "بازارِ تَجریش، لُطفاً. چِقَدر می‌شه؟",
+     "colA": "6fdf32b8b279"
+    },
+    {
+     "who": "Driver",
+     "fa": "صد و پنجاه تومان.",
+     "r": "sad o panjāh tumān.",
+     "en": "A hundred and fifty (thousand) toman.",
+     "faV": "صَد و پَنجاه تومان.",
+     "a": "421a2a269234"
+    },
+    {
+     "who": "Tom",
+     "fa": "خیلی گران است! صد تومان خوب است؟",
+     "r": "kheyli gerān ast! sad tumān khub ast?",
+     "en": "That's very expensive! Is a hundred okay?",
+     "col": "خیلی گرونه! صد تومن خوبه؟",
+     "colR": "kheyli gerune! sad tomen khube?",
+     "faV": "خَیلی گِران اَست! صَد تومان خوب اَست؟",
+     "a": "c8ecb0a60566",
+     "colV": "خَیلی گِرونه! صَد تومِن خوبه؟",
+     "colA": "428c8f4e3c4f"
+    },
+    {
+     "who": "Driver",
+     "fa": "باشد، صد و بیست. ترافیک زیاد است.",
+     "r": "bāshad, sad o bist. terāfik ziyād ast.",
+     "en": "Fine, a hundred and twenty. There's a lot of traffic.",
+     "col": "باشه، صد و بیست. ترافیک زیاده.",
+     "colR": "bāshe, sad o bist. terāfik ziyāde.",
+     "faV": "باشَد، صَد و بیست. تِرافیک زیاد اَست.",
+     "a": "362fc205f151",
+     "colV": "باشه، صَد و بیست. تِرافیک زیاده.",
+     "colA": "0a4f93e699ae"
+    },
+    {
+     "who": "Tom",
+     "fa": "باشد. از خیابان ولیعصر بروید، لطفاً.",
+     "r": "bāshad. az khiyābān-e Valiasr beravid, lotfan.",
+     "en": "Okay. Go along Valiasr Street, please.",
+     "faV": "باشَد. اَز خیابانِ وَلیعَصر بِرَوید، لُطفاً.",
+     "a": "102a0d9554d4"
+    },
+    {
+     "who": "Driver",
+     "fa": "چشم. شما ایرانی نیستید؟ فارسی خوب صحبت می‌کنید!",
+     "r": "chashm. shomā irāni nistid? fārsi khub sohbat mi-konid!",
+     "en": "Certainly. You're not Iranian? You speak Persian well!",
+     "faV": "چَشم. شُما ایرانی نیستید؟ فارسی خوب صُحبَت می‌کُنید!",
+     "a": "cb3d9ba28306"
+    },
+    {
+     "who": "Tom",
+     "fa": "نه، استرالیایی هستم. ممنون! این‌جا نگه دارید، لطفاً.",
+     "r": "na, ostorāliyāyi hastam. mamnun! in-jā negah dārid, lotfan.",
+     "en": "No, I'm Australian. Thanks! Stop here, please.",
+     "faV": "نه، اُستُرالیایی هَستَم. مَمنون! این‌جا نِگَه دارید، لُطفاً.",
+     "a": "7ea2fc200f32"
+    },
+    {
+     "who": "Driver",
+     "fa": "بفرمایید. خدا حافظ!",
+     "r": "befarmāyid. khodā hāfez!",
+     "en": "Here you are. Goodbye!",
+     "faV": "بِفَرمایید. خُدا حافِظ!",
+     "a": "18a504ba483a"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Taxis: darbast or shared?",
+   "md": "Iranian cities run on taxis, and there are two kinds. A [[دربست|darbast|private taxi]] (literally *door-closed*) takes only you, to wherever you say; you agree the price first – or use an app such as Snapp, where the price is fixed. A shared taxi, [[تاکسی خطی|tāksi-ye khatti|line taxi]], runs along a fixed route and picks up anyone going the same way: you stand at the roadside and call out your destination – [[آزادی!|Āzādi!]] – and the driver stops if he is going there.\n\nTo stop a taxi, hold out your hand and say where you are going. To get out, say [[این‌جا نگه دارید.|in-jā negah dārid.|Stop here.]] or [[همین‌جا پیاده می‌شوم.|hamin-jā piyāde mi-shavam.|I'll get out right here.]]\n\nThe metro, [[مترو|metro]], is the fastest way across Tehran: seven lines, cheap tickets, and the first and last carriages reserved for women. The word for *station* is [[ایستگاه|istgāh]] – from the verb *to stand*, so a station is literally a *standing-place*."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "تاکسی",
+     "r": "tāksi",
+     "en": "taxi",
+     "pos": "n",
+     "faV": "تاکسی",
+     "a": "5d09a6404522"
+    },
+    {
+     "fa": "دربست",
+     "r": "darbast",
+     "en": "private taxi (not shared)",
+     "pos": "n",
+     "note": "literally 'door-closed'",
+     "faV": "دَربَست",
+     "a": "d38b1881a659"
+    },
+    {
+     "fa": "مترو",
+     "r": "metro",
+     "en": "metro, underground",
+     "pos": "n",
+     "ex": {
+      "fa": "من با مترو به دانشگاه می‌روم.",
+      "r": "man bā metro be dāneshgāh mi-ravam.",
+      "en": "I go to the university by metro.",
+      "faV": "مَن با مِترو به دانِشگاه می‌رَوَم.",
+      "a": "c6529c911279"
+     },
+     "faV": "مِترو",
+     "a": "fbdf9c6e337d"
+    },
+    {
+     "fa": "اتوبوس",
+     "r": "otobus",
+     "en": "bus",
+     "pos": "n",
+     "faV": "اُتوبوس",
+     "a": "39a8affda802"
+    },
+    {
+     "fa": "ایستگاه",
+     "r": "istgāh",
+     "en": "station, stop",
+     "pos": "n",
+     "ex": {
+      "fa": "ایستگاه مترو کجاست؟",
+      "r": "istgāh-e metro kojāst?",
+      "en": "Where is the metro station?",
+      "faV": "ایستگاهِ مِترو کُجاست؟",
+      "a": "3fb53b4b1ece"
+     },
+     "faV": "ایستگاه",
+     "a": "320c86a1080b"
+    },
+    {
+     "fa": "خیابان",
+     "r": "khiyābān",
+     "en": "street",
+     "pos": "n",
+     "faV": "خیابان",
+     "a": "3807383806c3"
+    },
+    {
+     "fa": "میدان",
+     "r": "meydān",
+     "en": "square",
+     "pos": "n",
+     "ex": {
+      "fa": "میدان آزادی",
+      "r": "meydān-e Āzādi",
+      "en": "Azadi Square",
+      "faV": "مَیدانِ آزادی",
+      "a": "351a80003be3"
+     },
+     "faV": "مَیدان",
+     "a": "6db664e67e08"
+    },
+    {
+     "fa": "چهارراه",
+     "r": "chahār-rāh",
+     "en": "crossroads, intersection",
+     "pos": "n",
+     "note": "literally 'four-road'",
+     "faV": "چَهارراه",
+     "a": "551eb05f7025"
+    },
+    {
+     "fa": "راست",
+     "r": "rāst",
+     "en": "right",
+     "pos": "adj",
+     "ex": {
+      "fa": "بپیچید به راست.",
+      "r": "bepichid be rāst.",
+      "en": "Turn right.",
+      "faV": "بِپیچید به راست.",
+      "a": "5b05e4d54769"
+     },
+     "faV": "راست",
+     "a": "36016c3544eb"
+    },
+    {
+     "fa": "چپ",
+     "r": "chap",
+     "en": "left",
+     "pos": "adj",
+     "ex": {
+      "fa": "بپیچید به چپ.",
+      "r": "bepichid be chap.",
+      "en": "Turn left.",
+      "faV": "بِپیچید به چَپ.",
+      "a": "acc175606356"
+     },
+     "faV": "چَپ",
+     "a": "431ea8059a16"
+    },
+    {
+     "fa": "مستقیم",
+     "r": "mostaghim",
+     "en": "straight on",
+     "pos": "adv",
+     "ex": {
+      "fa": "مستقیم بروید.",
+      "r": "mostaghim beravid.",
+      "en": "Go straight on.",
+      "faV": "مُستَقیم بِرَوید.",
+      "a": "683eedb83264"
+     },
+     "faV": "مُستَقیم",
+     "a": "d790de7be14e"
+    },
+    {
+     "fa": "دور",
+     "r": "dur",
+     "en": "far",
+     "pos": "adj",
+     "ex": {
+      "fa": "بازار دور است؟",
+      "r": "bāzār dur ast?",
+      "en": "Is the bazaar far?",
+      "faV": "بازار دور اَست؟",
+      "a": "364c6562e522"
+     },
+     "faV": "دور",
+     "a": "0148b25f88a6"
+    },
+    {
+     "fa": "نزدیک",
+     "r": "nazdik",
+     "en": "near",
+     "pos": "adj",
+     "faV": "نَزدیک",
+     "a": "835c71e2b5d2"
+    },
+    {
+     "fa": "ترافیک",
+     "r": "terāfik",
+     "en": "traffic",
+     "pos": "n",
+     "faV": "تِرافیک",
+     "a": "54c0dfab069b"
+    },
+    {
+     "fa": "بلیت",
+     "r": "belit",
+     "en": "ticket",
+     "pos": "n",
+     "ex": {
+      "fa": "یک بلیت، لطفاً.",
+      "r": "yek belit, lotfan.",
+      "en": "One ticket, please.",
+      "faV": "یِک بِلیت، لُطفاً.",
+      "a": "8942c20e8bb7"
+     },
+     "faV": "بِلیت",
+     "a": "ec23e5ed52a2"
+    },
+    {
+     "fa": "راننده",
+     "r": "rānande",
+     "en": "driver",
+     "pos": "n",
+     "faV": "رانَنده",
+     "a": "a08d01db0708"
+    },
+    {
+     "fa": "پیاده",
+     "r": "piyāde",
+     "en": "on foot; getting out",
+     "pos": "adv",
+     "ex": {
+      "fa": "پیاده می‌روم.",
+      "r": "piyāde mi-ravam.",
+      "en": "I'll walk.",
+      "faV": "پیاده می‌رَوَم.",
+      "a": "edf16d3471fe"
+     },
+     "faV": "پیاده",
+     "a": "bebf1e7d0ced"
+    },
+    {
+     "fa": "رفتن",
+     "r": "raftan",
+     "en": "to go",
+     "pos": "v",
+     "note": "present stem رو rav-: می‌روم, imperative برو!",
+     "faV": "رَفتَن",
+     "a": "896aeefbcfc5"
+    },
+    {
+     "fa": "پیچیدن",
+     "r": "pichidan",
+     "en": "to turn",
+     "pos": "v",
+     "note": "stem پیچ pich-: بپیچ",
+     "faV": "پیچیدَن",
+     "a": "77223e079be4"
+    },
+    {
+     "fa": "نگه داشتن",
+     "r": "negah dāshtan",
+     "en": "to stop (a vehicle), to hold",
+     "pos": "v",
+     "note": "imperative نگه دارید",
+     "faV": "نِگَه داشتَن",
+     "a": "bbe6c106ac47"
+    },
+    {
+     "fa": "سوار شدن",
+     "r": "savār shodan",
+     "en": "to get on, get in",
+     "pos": "v",
+     "faV": "سَوار شُدَن",
+     "a": "1cd15286fcec"
+    },
+    {
+     "fa": "پیاده شدن",
+     "r": "piyāde shodan",
+     "en": "to get off, get out",
+     "pos": "v",
+     "faV": "پیاده شُدَن",
+     "a": "758cad9855f9"
+    },
+    {
+     "fa": "چشم",
+     "r": "chashm",
+     "en": "certainly, will do",
+     "pos": "interj",
+     "note": "literally 'eye' – the polite way to say yes to a request",
+     "faV": "چَشم",
+     "a": "ecf6854e225f"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The imperative: telling someone what to do",
+   "md": "To give an instruction, Persian takes the **present stem** of the verb (the part after می in the present tense) and puts **be-** (بـ) in front of it. For one friend, that is the whole word; for a stranger or several people, add the polite ending **-id**.\n\nSo from [[می‌روید|mi-ravid|you go]] you get [[بروید!|beravid!|Go!]], and from [[می‌پیچید|mi-pichid|you turn]] you get [[بپیچید!|bepichid!|Turn!]].\n\nTwo things to notice. First, **be-** becomes **bi-** in front of a stem that starts with the long vowel ā: [[بیایید|biyāyid|come]], [[بیاورید|biyāvarid|bring]]. Second, with compound verbs such as [[نگه داشتن|negah dāshtan]] the **be-** is usually dropped: [[نگه دارید|negah dārid|stop]], [[صحبت کنید|sohbat konid|speak]].\n\nTo tell someone **not** to do something, replace **be-** with **na-**: [[نروید!|na-ravid!|Don't go!]], [[نپیچید|na-pichid|don't turn]]. Always add [[لطفاً|lotfan]] – an imperative without it sounds like an order.",
+   "table": {
+    "head": [
+     "Verb",
+     "Stem",
+     "to a friend",
+     "polite / plural",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[رفتن|raftan]]",
+      "[[رو|rav]]",
+      "[[برو|boro]]",
+      "[[بروید|beravid]]",
+      "go"
+     ],
+     [
+      "[[آمدن|āmadan]]",
+      "[[آ|ā]]",
+      "[[بیا|biyā]]",
+      "[[بیایید|biyāyid]]",
+      "come"
+     ],
+     [
+      "[[پیچیدن|pichidan]]",
+      "[[پیچ|pich]]",
+      "[[بپیچ|bepich]]",
+      "[[بپیچید|bepichid]]",
+      "turn"
+     ],
+     [
+      "[[ایستادن|istādan]]",
+      "[[ایست|ist]]",
+      "[[بایست|be'ist]]",
+      "[[بایستید|be'istid]]",
+      "stop, stand"
+     ],
+     [
+      "[[نشستن|neshastan]]",
+      "[[نشین|neshin]]",
+      "[[بنشین|beneshin]]",
+      "[[بنشینید|beneshinid]]",
+      "sit"
+     ],
+     [
+      "[[نگه داشتن|negah dāshtan]]",
+      "[[نگه دار|negah dār]]",
+      "[[نگه دار|negah dār]]",
+      "[[نگه دارید|negah dārid]]",
+      "stop (a car)"
+     ],
+     [
+      "[[گفتن|goftan]]",
+      "[[گو|gu]]",
+      "[[بگو|begu]]",
+      "[[بگویید|beguyid]]",
+      "say, tell"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "مستقیم بروید و بعد بپیچید به چپ.",
+     "r": "mostaghim beravid o ba'd bepichid be chap.",
+     "en": "Go straight on and then turn left.",
+     "faV": "مُستَقیم بِرَوید و بَعد بِپیچید به چَپ.",
+     "a": "c3fbe24be10b"
+    },
+    {
+     "fa": "لطفاً این‌جا نگه دارید.",
+     "r": "lotfan in-jā negah dārid.",
+     "en": "Please stop here.",
+     "col": "لطفاً این‌جا نگه دارین.",
+     "colR": "lotfan in-jā negah dārin.",
+     "faV": "لُطفاً این‌جا نِگَه دارید.",
+     "a": "f7625b4c48e2",
+     "colV": "لُطفاً این‌جا نِگَه دارین.",
+     "colA": "a437a938944d"
+    },
+    {
+     "fa": "بیا، سوار شو!",
+     "r": "biyā, savār sho!",
+     "en": "Come on, get in!",
+     "faV": "بیا، سَوار شو!",
+     "a": "367116f8e1f8"
+    },
+    {
+     "fa": "از این خیابان نروید، ترافیک است.",
+     "r": "az in khiyābān na-ravid, terāfik ast.",
+     "en": "Don't go along this street, there is traffic.",
+     "faV": "اَز این خیابان نَرَوید، تِرافیک اَست.",
+     "a": "9d4919486d71"
+    },
+    {
+     "fa": "برو راست، بعد بپیچ به چپ.",
+     "r": "boro rāst, ba'd bepich be chap.",
+     "en": "Go right, then turn left. (to a friend)",
+     "faV": "بُرو راست، بَعد بِپیچ به چَپ.",
+     "a": "516417a67fca"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Asking the way, and 'by taxi'",
+   "md": "You know [[کجاست؟|kojāst?|where is?]] from lesson 8. For directions, add how to get there: [[چطور بروم؟|chetor beravam?|how do I get there?]] – literally *how should I go*. (That **beravam** is the same **be-** form as the imperative, with the *I* ending; you will meet it properly in the next lesson.)\n\nFor *by taxi, by bus, by metro*, Persian uses [[با|bā|with]]: [[با تاکسی|bā tāksi|by taxi]], [[با مترو|bā metro|by metro]]. *On foot* is [[پیاده|piyāde]].\n\nDistance words: [[دور|dur|far]], [[نزدیک|nazdik|near]], and the useful answers [[پنج دقیقه پیاده|panj daghighe piyāde|five minutes on foot]] and [[ایستگاه بعد|istgāh-e ba'd|the next station]].",
+   "examples": [
+    {
+     "fa": "ببخشید، ایستگاه مترو کجاست؟",
+     "r": "bebakhshid, istgāh-e metro kojāst?",
+     "en": "Excuse me, where is the metro station?",
+     "faV": "بِبَخشید، ایستگاهِ مِترو کُجاست؟",
+     "a": "4a5fc0e9d808"
+    },
+    {
+     "fa": "مستقیم بروید، سر چهارراه بپیچید به راست.",
+     "r": "mostaghim beravid, sar-e chahār-rāh bepichid be rāst.",
+     "en": "Go straight on, at the crossroads turn right.",
+     "faV": "مُستَقیم بِرَوید، سَرِ چَهارراه بِپیچید به راست.",
+     "a": "b4de3846e665"
+    },
+    {
+     "fa": "دور است؟ نه، پنج دقیقه پیاده است.",
+     "r": "dur ast? na, panj daghighe piyāde ast.",
+     "en": "Is it far? No, it's five minutes on foot.",
+     "faV": "دور اَست؟ نه، پَنج دَقیقه پیاده اَست.",
+     "a": "9a81a6c8fe21"
+    },
+    {
+     "fa": "من هر روز با مترو به سر کار می‌روم.",
+     "r": "man har ruz bā metro be sar-e kār mi-ravam.",
+     "en": "I go to work by metro every day.",
+     "faV": "مَن هَر روز با مِترو به سَرِ کار می‌رَوَم.",
+     "a": "ea85e9bae453"
+    },
+    {
+     "fa": "در ایستگاه بعد پیاده شوید.",
+     "r": "dar istgāh-e ba'd piyāde shavid.",
+     "en": "Get off at the next station.",
+     "faV": "دَر ایستگاهِ بَعد پیاده شَوید.",
+     "a": "7f8c179a6165"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Tom finds the museum",
+   "intro": "Tom wants to visit the National Museum. Read how he gets there.",
+   "sentences": [
+    {
+     "fa": "تام می‌خواهد به موزه‌ی ملی برود.",
+     "r": "Tām mi-khāhad be muze-ye melli beravad.",
+     "en": "Tom wants to go to the National Museum.",
+     "faV": "تام می‌خواهَد به موزه‌یِ مِلّی بِرَوَد.",
+     "a": "9f5ef6f5e1f9"
+    },
+    {
+     "fa": "او از یک خانم می‌پرسد: «ببخشید، موزه کجاست؟»",
+     "r": "u az yek khānom mi-porsad: «bebakhshid, muze kojāst?»",
+     "en": "He asks a lady: \"Excuse me, where is the museum?\"",
+     "faV": "او اَز یِک خانُم می‌پُرسَد: «بِبَخشید، موزه کُجاست؟»",
+     "a": "62781e2da168"
+    },
+    {
+     "fa": "خانم می‌گوید: «با مترو بروید. در ایستگاه امام خمینی پیاده شوید.»",
+     "r": "khānom mi-guyad: «bā metro beravid. dar istgāh-e Emām Khomeyni piyāde shavid.»",
+     "en": "The lady says: \"Go by metro. Get off at Imam Khomeini station.\"",
+     "faV": "خانُم می‌گویَد: «با مِترو بِرَوید. دَر ایستگاهِ اِمام خُمَینی پیاده شَوید.»",
+     "a": "812af8a48f2e"
+    },
+    {
+     "fa": "«بعد مستقیم بروید و سر چهارراه بپیچید به چپ.»",
+     "r": "«ba'd mostaghim beravid o sar-e chahār-rāh bepichid be chap.»",
+     "en": "\"Then go straight on and at the crossroads turn left.\"",
+     "faV": "«بَعد مُستَقیم بِرَوید و سَرِ چَهارراه بِپیچید به چَپ.»",
+     "a": "48938259a5fc"
+    },
+    {
+     "fa": "تام یک بلیت می‌خرد و سوار مترو می‌شود.",
+     "r": "Tām yek belit mi-kharad o savār-e metro mi-shavad.",
+     "en": "Tom buys a ticket and gets on the metro.",
+     "faV": "تام یِک بِلیت می‌خَرَد و سَوارِ مِترو می‌شَوَد.",
+     "a": "e6cd078fc38a"
+    },
+    {
+     "fa": "مترو پر است، اما سریع است.",
+     "r": "metro por ast, ammā sari' ast.",
+     "en": "The metro is full, but it is fast.",
+     "faV": "مِترو پُر اَست، اَمّا سَریع اَست.",
+     "a": "b088056f4859"
+    },
+    {
+     "fa": "بعد از ده دقیقه پیاده، تام جلوی موزه است.",
+     "r": "ba'd az dah daghighe piyāde, Tām jelo-ye muze ast.",
+     "en": "After ten minutes on foot, Tom is in front of the museum.",
+     "faV": "بَعد اَز دَه دَقیقه پیاده، تام جِلویِ موزه اَست.",
+     "a": "9a4ae79ecf88"
+    },
+    {
+     "fa": "او می‌گوید: «خیلی ممنون، خانم!»",
+     "r": "u mi-guyad: «kheyli mamnun, khānom!»",
+     "en": "He says: \"Thank you very much, madam!\"",
+     "faV": "او می‌گویَد: «خَیلی مَمنون، خانُم!»",
+     "a": "d8076c51e812"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How does the lady tell Tom to travel?",
+     "options": [
+      "by taxi",
+      "by metro",
+      "on foot the whole way"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "At the crossroads, Tom should…",
+     "options": [
+      "turn left",
+      "turn right",
+      "go back"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "How long does Tom walk after the metro?",
+     "options": [
+      "five minutes",
+      "ten minutes",
+      "half an hour"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Tehran traffic and the art of the shared taxi",
+   "md": "Tehran's traffic is a national joke and a daily reality: a trip that takes twenty minutes at night can take two hours at six in the evening. That is why the metro, opened in 1999, is loved – and why the [[تاکسی خطی|tāksi-ye khatti|shared taxi]] survives. On the main avenues a stream of orange and yellow cars crawls along the kerb while would-be passengers shout destinations: *Vanak! Tajrish! Enghelāb!* Four strangers share the back seat and the front, pay a few thousand tomans each, and nobody speaks unless the driver has an opinion about the traffic, which he always does.\n\nThe road that matters most is [[خیابان ولیعصر|khiyābān-e Valiasr]], which runs almost 18 km from the railway station in the south to Tajrish in the north under a canopy of plane trees – the longest street in the Middle East. Going *up* (بالا) means north and richer; going *down* (پایین) means south and older. Tehranis give directions in those terms, so learn them: [[بالاتر|bālātar|further up]], [[پایین‌تر|pāyin-tar|further down]].",
+   "image": "tehran-traffic"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "Taxi prices are quoted in **tomans**, and drivers drop the thousands: *sad tumān* in a Tehran taxi means 100,000 tomans. Agree the price before you get in, or use an app.",
+    "**chashm** (literally *eye*) is how a driver, waiter or shopkeeper says 'certainly'. Answering a request with *chashm* is very polite; you can use it too.",
+    "In spoken Persian the polite imperative ending **-id** becomes **-in**: *beravid* → *berin*, *bepichid* → *bepichin*, *negah dārid* → *negah dārin*. The friendly form *boro* stays *boro*.",
+    "Place names are addresses: Tehranis say *meydān-e Āzādi*, *Enghelāb*, *Vanak* and expect you to know them. Learn the metro map and you have learned the city."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the words",
+   "items": [
+    {
+     "fa": "راست",
+     "r": "rāst",
+     "en": "right",
+     "faV": "راست",
+     "a": "36016c3544eb"
+    },
+    {
+     "fa": "چپ",
+     "r": "chap",
+     "en": "left",
+     "faV": "چَپ",
+     "a": "431ea8059a16"
+    },
+    {
+     "fa": "مستقیم",
+     "r": "mostaghim",
+     "en": "straight on",
+     "faV": "مُستَقیم",
+     "a": "d790de7be14e"
+    },
+    {
+     "fa": "ایستگاه",
+     "r": "istgāh",
+     "en": "station",
+     "faV": "ایستگاه",
+     "a": "320c86a1080b"
+    },
+    {
+     "fa": "میدان",
+     "r": "meydān",
+     "en": "square",
+     "faV": "مَیدان",
+     "a": "6db664e67e08"
+    },
+    {
+     "fa": "بلیت",
+     "r": "belit",
+     "en": "ticket",
+     "faV": "بِلیت",
+     "a": "ec23e5ed52a2"
+    },
+    {
+     "fa": "دربست",
+     "r": "darbast",
+     "en": "private taxi",
+     "faV": "دَربَست",
+     "a": "d38b1881a659"
+    },
+    {
+     "fa": "راننده",
+     "r": "rānande",
+     "en": "driver",
+     "faV": "رانَنده",
+     "a": "a08d01db0708"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right answer",
+   "items": [
+    {
+     "q": "The polite way to tell a taxi driver to stop here is…",
+     "options": [
+      "این‌جا نگه دارید.",
+      "این‌جا می‌روم.",
+      "این‌جا کجاست؟"
+     ],
+     "answer": 0,
+     "explain": "negah dārid is the polite imperative of negah dāshtan, 'to stop'."
+    },
+    {
+     "q": "Which form means 'Don't go!' (polite)?",
+     "options": [
+      "بروید",
+      "نروید",
+      "می‌روید"
+     ],
+     "answer": 1,
+     "explain": "The negative imperative replaces be- with na-: na-ravid."
+    },
+    {
+     "q": "'By metro' is…",
+     "options": [
+      "در مترو",
+      "به مترو",
+      "با مترو"
+     ],
+     "answer": 2,
+     "explain": "bā (with) is used for means of transport: bā metro, bā tāksi."
+    },
+    {
+     "q": "A [[تاکسی خطی|tāksi-ye khatti]] is…",
+     "options": [
+      "a private taxi",
+      "a shared taxi on a fixed route",
+      "a bus"
+     ],
+     "answer": 1,
+     "explain": "khatti means 'of a line' – it runs along a fixed route and takes several passengers."
+    },
+    {
+     "q": "Which is the friendly (singular) imperative of 'come'?",
+     "options": [
+      "بیا",
+      "بیایید",
+      "می‌آیم"
+     ],
+     "answer": 0,
+     "explain": "biyā to a friend, biyāyid politely; mi-āyam is 'I come'."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {
+     "fa": "مستقیم ___ و بعد بپیچید به راست.",
+     "r": "mostaghim ___ o ba'd bepichid be rāst.",
+     "en": "Go straight on and then turn right.",
+     "answer": "بروید",
+     "hint": "go (polite)"
+    },
+    {
+     "fa": "ببخشید، ایستگاه مترو ___؟",
+     "r": "bebakhshid, istgāh-e metro ___?",
+     "en": "Excuse me, where is the metro station?",
+     "answer": "کجاست",
+     "hint": "where is"
+    },
+    {
+     "fa": "من هر روز ___ اتوبوس به دانشگاه می‌روم.",
+     "r": "man har ruz ___ otobus be dāneshgāh mi-ravam.",
+     "en": "I go to the university by bus every day.",
+     "answer": "با",
+     "hint": "by (with)"
+    },
+    {
+     "fa": "در ایستگاه بعد ___ شوید.",
+     "r": "dar istgāh-e ba'd ___ shavid.",
+     "en": "Get off at the next station.",
+     "answer": "پیاده",
+     "hint": "off / on foot"
+    },
+    {
+     "fa": "دور نیست، پنج ___ پیاده است.",
+     "r": "dur nist, panj ___ piyāde ast.",
+     "en": "It's not far, it's five minutes on foot.",
+     "answer": "دقیقه",
+     "hint": "minute"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "لطفاً این‌جا نگه دارید.",
+     "r": "lotfan in-jā negah dārid.",
+     "en": "Please stop here.",
+     "faV": "لُطفاً این‌جا نِگَه دارید.",
+     "a": "f7625b4c48e2"
+    },
+    {
+     "fa": "سر چهارراه بپیچید به چپ.",
+     "r": "sar-e chahār-rāh bepichid be chap.",
+     "en": "At the crossroads turn left.",
+     "faV": "سَرِ چَهارراه بِپیچید به چَپ.",
+     "a": "6071f09bc395"
+    },
+    {
+     "fa": "من با مترو به بازار می‌روم.",
+     "r": "man bā metro be bāzār mi-ravam.",
+     "en": "I go to the bazaar by metro.",
+     "faV": "مَن با مِترو به بازار می‌رَوَم.",
+     "a": "1603ebfa7799"
+    },
+    {
+     "fa": "ایستگاه مترو دور است؟",
+     "r": "istgāh-e metro dur ast?",
+     "en": "Is the metro station far?",
+     "faV": "ایستگاهِ مِترو دور اَست؟",
+     "a": "8a986ff7ac50"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "بپیچید به راست.",
+     "r": "bepichid be rāst.",
+     "en": "Turn right.",
+     "options": [
+      "Turn left.",
+      "Turn right.",
+      "Go straight on."
+     ],
+     "answer": 1,
+     "faV": "بِپیچید به راست.",
+     "a": "5b05e4d54769"
+    },
+    {
+     "fa": "دربست میدان آزادی؟",
+     "r": "darbast meydān-e Āzādi?",
+     "en": "Private taxi to Azadi Square?",
+     "options": [
+      "Where is Azadi Square?",
+      "Private taxi to Azadi Square?",
+      "Is Azadi Square far?"
+     ],
+     "answer": 1,
+     "faV": "دَربَست مَیدانِ آزادی؟",
+     "a": "9b65b2429f9b"
+    },
+    {
+     "fa": "چقدر می‌شود؟",
+     "r": "cheghadr mi-shavad?",
+     "en": "How much will it be?",
+     "options": [
+      "How long does it take?",
+      "How much will it be?",
+      "Where are we going?"
+     ],
+     "answer": 1,
+     "faV": "چِقَدر می‌شَوَد؟",
+     "a": "56165406cbab"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "Excuse me, where is the bus station?",
+     "fa": "ببخشید، ایستگاه اتوبوس کجاست؟",
+     "r": "bebakhshid, istgāh-e otobus kojāst?",
+     "faV": "بِبَخشید، ایستگاهِ اُتوبوس کُجاست؟",
+     "a": "43c66a4e8139"
+    },
+    {
+     "en": "Go straight on, please.",
+     "fa": "مستقیم بروید، لطفاً.",
+     "r": "mostaghim beravid, lotfan.",
+     "faV": "مُستَقیم بِرَوید، لُطفاً.",
+     "a": "d72d3474f70d"
+    },
+    {
+     "en": "Stop here, please. How much is it?",
+     "fa": "این‌جا نگه دارید، لطفاً. چقدر می‌شود؟",
+     "r": "in-jā negah dārid, lotfan. cheghadr mi-shavad?",
+     "faV": "این‌جا نِگَه دارید، لُطفاً. چِقَدر می‌شَوَد؟",
+     "a": "866f4b702fc8"
+    },
+    {
+     "en": "Don't go along Valiasr Street, there is traffic.",
+     "fa": "از خیابان ولیعصر نروید، ترافیک است.",
+     "r": "az khiyābān-e Valiasr na-ravid, terāfik ast.",
+     "faV": "اَز خیابانِ وَلیعَصر نَرَوید، تِرافیک اَست.",
+     "a": "1cda530b2191"
+    }
+   ]
+  }
+ ],
+ "titleV": "دَر شَهر: تاکسی، مِترو و مَسیر",
+ "titleA": "488dec59d595"
+}

@@ -1,0 +1,75 @@
+{
+ "id": "history-cyrus-and-the-achaemenids",
+ "topic": "history",
+ "title": "Cyrus and the Achaemenids",
+ "titleFa": "کوروش و هخامنشیان",
+ "titleR": "Kurosh o Hakhāmaneshiyān",
+ "image": "cyrus-the-great",
+ "summary": "In twenty years a prince from Fars built the largest empire the world had yet seen. The Achaemenids ruled from the Indus to the Aegean for more than two centuries, and Iranians still call Cyrus the father of their country.",
+ "body": [
+  {
+   "h": "A prince from Anshan",
+   "md": "Around 559 BC a young man named Cyrus became king of Anshan, a small Persian kingdom in today's Fars province. The Persians were then vassals of the Medes, but in 550 BC Cyrus rebelled against the Median king Astyages – according to Herodotus his own grandfather – defeated him and took his capital, Ecbatana (modern Hamadan). Soon afterwards he conquered Lydia in Anatolia, home of the fabulously rich King Croesus, and the Greek cities of the Aegean coast.\n\nIranians know him as [[کوروش بزرگ|Kurosh-e Bozorg|Cyrus the Great]]. His family is called the [[هخامنشیان|Hakhāmaneshiyān|Achaemenids]], after a legendary ancestor, [[هخامنش|Hakhāmanesh|Achaemenes]]."
+  },
+  {
+   "h": "Babylon and the Cyrus Cylinder",
+   "md": "In October 539 BC Cyrus's army entered Babylon, the greatest city of the age, almost without a fight. A clay cylinder found there in 1879 and now in the British Museum tells his version of events in Babylonian cuneiform: the god Marduk chose him, he brought peace, restored the temples and let deported peoples go home with their gods. The Bible remembers him in the same way – in the Book of Ezra he allows the Jews to return from exile and rebuild the Temple in Jerusalem.\n\nIranians call the cylinder [[منشور کوروش|manshur-e Kurosh|the Charter of Cyrus]], and it is often described as the first declaration of human rights. Historians are more cautious: it is a royal proclamation in an old Mesopotamian style, written to make a conqueror look legitimate. But it does reflect a real policy – the Persians ruled through local customs, languages and gods rather than against them.",
+   "image": "cyrus-cylinder"
+  },
+  {
+   "h": "Darius and the King's Road",
+   "md": "Cyrus died in 530 BC fighting nomads in Central Asia, and his son Cambyses added Egypt to the empire. In 522 BC a nobleman from a side branch of the family, [[داریوش|Dāriush|Darius]], seized the throne and crushed a year of revolts. He told the story on a cliff at [[بیستون|Bisotun|Behistun]] near Kermanshah in three languages – Old Persian, Elamite and Babylonian – and more than two thousand years later the inscription helped European scholars to decipher cuneiform.\n\nDarius (ruled 522–486 BC) turned conquests into a state. He divided the empire into provinces run by governors, [[ساتراپ|sātrāp|satraps]], issued a gold coin, the [[دریک|darik|daric]], and built the Royal Road, some 2,700 kilometres from Susa to Sardis, along which relay riders – [[چاپار|chāpār|couriers]] – carried the king's letters in little more than a week. At its height the empire stretched from the Indus to Egypt and the Aegean, the largest the world had yet seen.",
+   "image": "behistun"
+  },
+  {
+   "h": "Greeks and the end of the empire",
+   "md": "Darius and his son [[خشایارشا|Khashāyārshā|Xerxes]] also tried to conquer mainland Greece. The Greeks won famous victories at Marathon (490 BC) and Salamis (480 BC) and turned the war into a story of freedom against tyranny; for the Persians it was a distant frontier war, and the empire carried on for another century and a half. It finally fell to Alexander of Macedon: after defeats at Issus and Gaugamela, the last king, Darius III, fled east and was murdered by one of his own satraps in 330 BC."
+  },
+  {
+   "h": "What the Achaemenids left",
+   "md": "The Achaemenids showed that dozens of peoples – Egyptians, Babylonians, Jews, Greeks, Indians – could be ruled from one centre while keeping their own laws and gods. Their Old Persian is the direct ancestor of the Persian you are learning: Darius calls himself 'king of kings', in modern Persian [[شاهنشاه|shāhanshāh]], a title Iran's rulers used until 1979.\n\nCyrus's tomb still stands at [[پاسارگاد|Pāsārgād|Pasargadae]], his capital north of Persepolis: a simple stone chamber on six great steps, which Alexander himself ordered to be repaired. Many Iranians gather there on 7 Aban (29 October), the unofficial 'Cyrus Day', and the names [[کوروش|Kurosh]] and [[داریوش|Dāriush]] are popular to this day.",
+   "image": "pasargadae"
+  }
+ ],
+ "sentences": [
+  {"fa": "کوروش بزرگ بنیان‌گذار شاهنشاهی هخامنشی بود.", "r": "Kurosh-e Bozorg bonyān-gozār-e shāhanshāhi-ye Hakhāmaneshi bud.", "en": "Cyrus the Great was the founder of the Achaemenid Empire."},
+  {"fa": "او در سال ۵۵۰ پیش از میلاد پادشاه مادها را شکست داد.", "r": "u dar sāl-e pānsad-o-panjāh pish az milād pādshāh-e Mād-hā rā shekast dād.", "en": "In 550 BC he defeated the king of the Medes."},
+  {"fa": "سپاه کوروش در سال ۵۳۹ پیش از میلاد وارد بابل شد.", "r": "sepāh-e Kurosh dar sāl-e pānsad-o-si-o-noh pish az milād vāred-e Bābel shod.", "en": "Cyrus's army entered Babylon in 539 BC."},
+  {"fa": "منشور کوروش روی یک استوانه‌ی گلی نوشته شده است.", "r": "manshur-e Kurosh ru-ye yek ostovāne-ye geli neveshte shode ast.", "en": "The Cyrus Cylinder is written on a cylinder of clay.", "lit": "the Charter of Cyrus has been written on a clay cylinder"},
+  {"fa": "این استوانه امروز در موزه‌ی بریتانیا در لندن است.", "r": "in ostovāne emruz dar muze-ye Beritāniyā dar Landan ast.", "en": "Today the cylinder is in the British Museum in London."},
+  {"fa": "داریوش کشور را به چند استان بزرگ تقسیم کرد.", "r": "Dāriush keshvar rā be chand ostān-e bozorg taghsim kard.", "en": "Darius divided the country into several large provinces."},
+  {"fa": "چاپارها نامه‌های شاه را با اسب به سرعت می‌بردند.", "r": "chāpār-hā nāme-hā-ye shāh rā bā asb be sor'at mi-bordand.", "en": "Couriers carried the king's letters quickly on horseback."},
+  {"fa": "خشایارشا پسر داریوش بود و با یونانیان جنگید.", "r": "Khashāyārshā pesar-e Dāriush bud va bā yunāniyān jangid.", "en": "Xerxes was the son of Darius and fought against the Greeks."},
+  {"fa": "اسکندر مقدونی در سال ۳۳۰ پیش از میلاد به این شاهنشاهی پایان داد.", "r": "Eskandar-e Maghduni dar sāl-e sisad-o-si pish az milād be in shāhanshāhi pāyān dād.", "en": "Alexander of Macedon brought this empire to an end in 330 BC."},
+  {"fa": "آرامگاه کوروش در پاسارگاد در استان فارس است.", "r": "ārāmgāh-e Kurosh dar Pāsārgād dar ostān-e Fārs ast.", "en": "Cyrus's tomb is at Pasargadae in Fars province."},
+  {"fa": "بسیاری از ایرانیان کوروش را پدر ایران می‌دانند.", "r": "besyāri az irāniyān Kurosh rā pedar-e Irān mi-dānand.", "en": "Many Iranians regard Cyrus as the father of Iran."}
+ ],
+ "vocab": [
+  {"fa": "شاهنشاهی", "r": "shāhanshāhi", "en": "empire (lit. 'rule of the king of kings')"},
+  {"fa": "شاهنشاه", "r": "shāhanshāh", "en": "king of kings, emperor"},
+  {"fa": "پادشاه", "r": "pādshāh", "en": "king"},
+  {"fa": "بنیان‌گذار", "r": "bonyān-gozār", "en": "founder"},
+  {"fa": "پیش از میلاد", "r": "pish az milād", "en": "BC (lit. 'before the birth' of Christ)"},
+  {"fa": "شکست دادن", "r": "shekast dādan", "en": "to defeat"},
+  {"fa": "سپاه", "r": "sepāh", "en": "army"},
+  {"fa": "استوانه", "r": "ostovāne", "en": "cylinder"},
+  {"fa": "منشور", "r": "manshur", "en": "charter, proclamation"},
+  {"fa": "کتیبه", "r": "katibe", "en": "inscription"},
+  {"fa": "استان", "r": "ostān", "en": "province"},
+  {"fa": "تقسیم کردن", "r": "taghsim kardan", "en": "to divide"},
+  {"fa": "چاپار", "r": "chāpār", "en": "courier, mounted messenger"},
+  {"fa": "سکه", "r": "sekke", "en": "coin"},
+  {"fa": "آرامگاه", "r": "ārāmgāh", "en": "tomb, mausoleum"},
+  {"fa": "مدارا", "r": "modārā", "en": "tolerance"},
+  {"fa": "جنگیدن", "r": "jangidan", "en": "to fight"}
+ ],
+ "facts": [
+  "Cyrus became king of Anshan around 559 BC; the empire he founded lasted until 330 BC, more than two centuries.",
+  "Under Darius I (522–486 BC) the empire stretched from the Indus valley to Egypt and Thrace – the largest the world had yet seen.",
+  "The Cyrus Cylinder was found in Babylon in 1879 and is in the British Museum; a replica is displayed at the United Nations headquarters in New York.",
+  "The Behistun inscription (c. 520 BC), in Old Persian, Elamite and Babylonian, was the key to deciphering cuneiform.",
+  "Herodotus's praise of the Persian royal couriers – 'neither snow nor rain nor heat nor gloom of night' stops them – is carved over the main post office in New York.",
+  "Pasargadae, with the tomb of Cyrus, has been a UNESCO World Heritage site since 2004.",
+  "The name 'Achaemenid' comes from Achaemenes (Hakhāmanesh), the legendary founder of Cyrus's family."
+ ]
+}

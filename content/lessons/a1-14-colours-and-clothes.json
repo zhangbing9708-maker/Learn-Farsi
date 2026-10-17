@@ -1,0 +1,235 @@
+{
+ "id": "a1-14-colours-and-clothes",
+ "level": "A1",
+ "n": 14,
+ "title": "Colours and clothes: describing things and people",
+ "titleFa": "رنگ‌ها و لباس‌ها",
+ "titleR": "rang-hā o lebās-hā",
+ "intro": "A white shirt, black shoes, a turquoise scarf: in this lesson you learn the colours and the clothes, and the most important pattern for describing anything in Persian – the adjective comes after the noun, joined by the ezafe -e: pirāhan-e sefid. You also learn that adjectives never change, how to say 'very' and 'this one, that one', and how to shop for clothes in your size.",
+ "goals": ["name the colours and the main clothes", "describe things with noun + -e + adjective: kafsh-e meshki", "tell 'the white shirt' from 'the shirt is white'", "use kheyli 'very' and in / ān 'this / that' with nouns", "ask for another colour or size in a shop"],
+ "image": "persian-carpet",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "A manteau on Valiasr Street",
+   "context": "Mahsa and her friend Leila are in a clothes shop on Valiasr Street in Tehran. Mahsa needs a new manteau – the light coat many Iranian women wear over their clothes.",
+   "lines": [
+    {"who": "Seller", "fa": "سلام، خوش آمدید. چه رنگی دوست دارید؟", "r": "salām, khosh āmadid. che rang-i dust dārid?", "en": "Hello, welcome. What colour would you like?"},
+    {"who": "Mahsa", "fa": "سلام. یک مانتوی ساده می‌خواهم، مشکی یا سرمه‌ای.", "r": "salām. yek mānto-ye sāde mi-khāham, meshki yā sorme-i.", "en": "Hello. I want a simple manteau, black or navy blue."},
+    {"who": "Seller", "fa": "این مانتوی مشکی خیلی قشنگ است. سایز شما چند است؟", "r": "in mānto-ye meshki kheyli ghashang ast. sāyz-e shomā chand ast?", "en": "This black manteau is very nice. What's your size?", "col": "این مانتوی مشکی خیلی قشنگه. سایزتون چنده؟", "colR": "in mānto-ye meshki kheyli ghashange. sāyz-etun chande?"},
+    {"who": "Mahsa", "fa": "سی و هشت.", "r": "si o hasht.", "en": "Thirty-eight."},
+    {"who": "Leila", "fa": "مهسا، این مانتو برای تو کمی بلند است.", "r": "Mahsā, in mānto barā-ye to kami boland ast.", "en": "Mahsa, this manteau is a bit long for you."},
+    {"who": "Mahsa", "fa": "راست می‌گویی. کوتاه‌تر هم دارید؟", "r": "rāst mi-guyi. kutāh-tar ham dārid?", "en": "You're right. Do you have a shorter one too?", "col": "راست می‌گی. کوتاه‌تر هم دارین؟", "colR": "rāst mi-gi. kutāh-tar ham dārin?"},
+    {"who": "Seller", "fa": "بله، این یکی کوتاه‌تر است، اما سرمه‌ای است.", "r": "bale, in yeki kutāh-tar ast, ammā sorme-i ast.", "en": "Yes, this one is shorter, but it's navy blue."},
+    {"who": "Mahsa", "fa": "خوب است! سرمه‌ای هم دوست دارم.", "r": "khub ast! sorme-i ham dust dāram.", "en": "That's fine! I like navy too.", "col": "خوبه! سرمه‌ای هم دوست دارم.", "colR": "khube! sorme-i ham dust dāram."},
+    {"who": "Leila", "fa": "این روسری فیروزه‌ای با مانتوی سرمه‌ای خیلی قشنگ است.", "r": "in rusari-ye firuze-i bā mānto-ye sorme-i kheyli ghashang ast.", "en": "This turquoise scarf looks really pretty with the navy manteau."},
+    {"who": "Mahsa", "fa": "آره، قشنگ است. روسری چند است؟", "r": "āre, ghashang ast. rusari chand ast?", "en": "Yes, it's pretty. How much is the scarf?"},
+    {"who": "Seller", "fa": "روسری چهارصد هزار تومان، مانتو دو میلیون.", "r": "rusari chahārsad hezār tumān, mānto do milyun.", "en": "The scarf is four hundred thousand tomans, the manteau two million."},
+    {"who": "Mahsa", "fa": "هر دو را می‌خرم. ممنون!", "r": "har do rā mi-kharam. mamnun!", "en": "I'll take both. Thank you!"},
+    {"who": "Seller", "fa": "مبارک باشد!", "r": "mobārak bāshad!", "en": "Enjoy them!", "col": "مبارک باشه!", "colR": "mobārak bāshe!"}
+   ]
+  },
+  {
+   "type": "text",
+   "title": "What colour?",
+   "md": "The question for colour is [[چه رنگی؟|che rang-i?|what colour?]] – literally *what a colour?* You can ask it about anything: [[ماشینت چه رنگی است؟|māshin-at che rang-i ast?|What colour is your car?]]\n\nNotice how the seller says *the black manteau*: [[مانتوی مشکی|mānto-ye meshki]] – the noun first, then the colour, joined by the little ezafe you have used since lesson 3. Every adjective in Persian works this way, and it is the main point of this lesson.\n\nPersian has two words for black. [[سیاه|siyāh]] is the basic colour word (*a black cat, black hair*), but for clothes, shoes and cars Iranians usually say [[مشکی|meshki]], literally *musk-coloured*. Leila's *turquoise*, [[فیروزه‌ای|firuze-i]], is [[فیروزه|firuze|turquoise, the stone]] + **-i** – many Persian colours are made this way, as you will see in the culture note."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {"fa": "رنگ", "r": "rang", "en": "colour", "pos": "n", "ex": {"fa": "چه رنگی دوست داری؟", "r": "che rang-i dust dāri?", "en": "What colour do you like?"}},
+    {"fa": "سفید", "r": "sefid", "en": "white", "pos": "adj", "ex": {"fa": "برف سفید است.", "r": "barf sefid ast.", "en": "Snow is white."}},
+    {"fa": "سیاه", "r": "siyāh", "en": "black", "pos": "adj", "note": "for clothes, shoes and cars Iranians say مشکی meshki"},
+    {"fa": "قرمز", "r": "ghermez", "en": "red", "pos": "adj", "note": "also سرخ sorkh, older and more poetic"},
+    {"fa": "آبی", "r": "ābi", "en": "blue", "pos": "adj", "note": "from āb 'water'; navy blue is سرمه‌ای sorme-i"},
+    {"fa": "سبز", "r": "sabz", "en": "green", "pos": "adj"},
+    {"fa": "زرد", "r": "zard", "en": "yellow", "pos": "adj"},
+    {"fa": "قهوه‌ای", "r": "ghahve-i", "en": "brown", "pos": "adj", "note": "literally 'coffee-coloured'"},
+    {"fa": "لباس", "r": "lebās", "en": "clothes; a dress", "pos": "n"},
+    {"fa": "پیراهن", "r": "pirāhan", "en": "shirt; (a woman's) dress", "pos": "n"},
+    {"fa": "شلوار", "r": "shalvār", "en": "trousers", "pos": "n", "note": "singular in Persian: in shalvār 'these trousers'"},
+    {"fa": "کفش", "r": "kafsh", "en": "shoe(s)", "pos": "n", "ex": {"fa": "کفش‌هایم مشکی است.", "r": "kafsh-hā-yam meshki ast.", "en": "My shoes are black."}},
+    {"fa": "کت", "r": "kot", "en": "jacket", "pos": "n"},
+    {"fa": "مانتو", "r": "mānto", "en": "manteau (a light coat worn over clothes)", "pos": "n", "note": "from French manteau"},
+    {"fa": "روسری", "r": "rusari", "en": "headscarf", "pos": "n"},
+    {"fa": "کلاه", "r": "kolāh", "en": "hat, cap", "pos": "n"},
+    {"fa": "پوشیدن", "r": "pushidan", "en": "to wear, to put on", "pos": "v", "note": "stem push-: mi-pusham"},
+    {"fa": "اندازه", "r": "andāze", "en": "size", "pos": "n", "note": "in clothes shops also سایز sāyz"},
+    {"fa": "بلند", "r": "boland", "en": "long; tall; loud", "pos": "adj", "ex": {"fa": "او قدبلند است.", "r": "u ghad-boland ast.", "en": "He is tall."}},
+    {"fa": "کوتاه", "r": "kutāh", "en": "short", "pos": "adj"}
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The white shirt: noun + -e + adjective",
+   "md": "In Persian the adjective comes **after** the noun, and the two are joined by the ezafe **-e**: [[پیراهن سفید|pirāhan-e sefid|a white shirt]], [[کفش مشکی|kafsh-e meshki|black shoes]], [[کلاه قرمز|kolāh-e ghermez|a red hat]]. After a consonant the -e is not written – you just have to say it.\n\nAfter a vowel the ezafe becomes **-ye**, and it shows in the spelling: after **ā**, **o** or **u** it is written [[ی|-ye]] – [[مانتوی سبز|mānto-ye sabz|a green manteau]]; after a silent final **-e** it is written [[‌ی|-ye]] with a ZWNJ – [[خانه‌ی بزرگ|khāne-ye bozorg|a big house]]; after **i** nothing is added – [[روسری زرد|rusari-ye zard|a yellow scarf]].\n\nYou can line up several adjectives, each with its own -e: [[پیراهن سفید قشنگ|pirāhan-e sefid-e ghashang|a pretty white shirt]].",
+   "table": {
+    "head": ["Noun", "+ adjective", "Reading", "English"],
+    "rows": [
+     ["[[پیراهن|pirāhan]]", "[[پیراهن سفید|pirāhan-e sefid]]", "pirāhan-e sefid", "a white shirt"],
+     ["[[کفش|kafsh]]", "[[کفش قهوه‌ای|kafsh-e ghahve-i]]", "kafsh-e ghahve-i", "brown shoes"],
+     ["[[شلوار|shalvār]]", "[[شلوار آبی|shalvār-e ābi]]", "shalvār-e ābi", "blue trousers"],
+     ["[[کلاه|kolāh]]", "[[کلاه قرمز|kolāh-e ghermez]]", "kolāh-e ghermez", "a red hat"],
+     ["[[مانتو|mānto]]", "[[مانتوی سبز|mānto-ye sabz]]", "mānto-ye sabz", "a green manteau"],
+     ["[[روسری|rusari]]", "[[روسری زرد|rusari-ye zard]]", "rusari-ye zard", "a yellow scarf"]
+    ]
+   },
+   "examples": [
+    {"fa": "من یک پیراهن سفید می‌خواهم.", "r": "man yek pirāhan-e sefid mi-khāham.", "en": "I want a white shirt."},
+    {"fa": "مینا یک مانتوی سبز دارد.", "r": "Minā yek mānto-ye sabz dārad.", "en": "Mina has a green manteau."},
+    {"fa": "کفش‌های مشکی‌ات کجاست؟", "r": "kafsh-hā-ye meshki-at kojāst?", "en": "Where are your black shoes?"},
+    {"fa": "او یک کت قهوه‌ای قشنگ دارد.", "r": "u yek kot-e ghahve-i-ye ghashang dārad.", "en": "He has a nice brown jacket."}
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "'The white shirt' or 'the shirt is white'? Adjectives never change",
+   "md": "Compare: [[پیراهن سفید|pirāhan-e sefid|the white shirt]] is a phrase, with the ezafe; [[پیراهن سفید است.|pirāhan sefid ast.|The shirt is white.]] is a sentence, with **no** ezafe and a verb. The little -e is the whole difference – so say it clearly.\n\nPersian adjectives never change. There is no masculine or feminine and no plural adjective: the plural ending goes on the **noun**, before the ezafe – [[کفش‌های مشکی|kafsh-hā-ye meshki|black shoes]] (*shoes-of black*), [[لباس‌های قشنگ|lebās-hā-ye ghashang|beautiful clothes]]. With plural *things*, the verb usually stays singular: [[کفش‌ها مشکی است.|kafsh-hā meshki ast.|The shoes are black.]]\n\n*Very* is [[خیلی|kheyli]], before the adjective: [[خیلی قشنگ|kheyli ghashang|very pretty]], [[خیلی گران|kheyli gerān|very expensive]]. *A bit* is [[کمی|kami]]: [[کمی بلند|kami boland|a bit long]].",
+   "table": {
+    "head": ["Phrase (with -e)", "Sentence (with ast)", "English"],
+    "rows": [
+     ["[[کیف قرمز|kif-e ghermez]]", "[[کیف قرمز است.|kif ghermez ast.]]", "the red bag / The bag is red."],
+     ["[[ماشین سفید|māshin-e sefid]]", "[[ماشین سفید است.|māshin sefid ast.]]", "the white car / The car is white."],
+     ["[[کفش‌های مشکی|kafsh-hā-ye meshki]]", "[[کفش‌ها مشکی است.|kafsh-hā meshki ast.]]", "the black shoes / The shoes are black."],
+     ["[[شلوار خیلی تنگ|shalvār-e kheyli tang]]", "[[شلوار خیلی تنگ است.|shalvār kheyli tang ast.]]", "very tight trousers / The trousers are very tight."]
+    ]
+   },
+   "examples": [
+    {"fa": "پیراهن سفید است، شلوار آبی است.", "r": "pirāhan sefid ast, shalvār ābi ast.", "en": "The shirt is white, the trousers are blue."},
+    {"fa": "لباس‌های ایرانی خیلی قشنگ است.", "r": "lebās-hā-ye irāni kheyli ghashang ast.", "en": "Iranian clothes are very beautiful."},
+    {"fa": "این کت برای من کمی بزرگ است.", "r": "in kot barā-ye man kami bozorg ast.", "en": "This jacket is a bit big for me.", "col": "این کت برای من یه کم بزرگه.", "colR": "in kot barā-ye man ye kam bozorge."},
+    {"fa": "او موهای مشکی و چشم‌های سبز دارد.", "r": "u mu-hā-ye meshki va chashm-hā-ye sabz dārad.", "en": "She has black hair and green eyes."}
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "This one, that one: in and ān with nouns",
+   "md": "[[این|in|this]] and [[آن|ān|that]] go **before** the noun, with no ezafe: [[این پیراهن|in pirāhan|this shirt]], [[آن کفش|ān kafsh|that shoe]]. Like adjectives, they never take a plural, even when the noun does: [[این کفش‌ها|in kafsh-hā|these shoes]], [[آن لباس‌ها|ān lebās-hā|those clothes]].\n\nWhen the noun is obvious, use [[این یکی|in yeki|this one]] and [[آن یکی|ān yeki|that one]] – the seller's *in yeki kutāh-tar ast*. And to compare sizes, use **-tar** from lesson 13: [[بزرگ‌تر دارید؟|bozorg-tar dārid?|do you have a bigger one?]]\n\nPut it all together and you can describe anything: [[این مانتوی سرمه‌ای خیلی قشنگ است.|in mānto-ye sorme-i kheyli ghashang ast.|This navy manteau is very pretty.]]",
+   "table": {
+    "head": ["Persian", "Reading", "English"],
+    "rows": [
+     ["[[این پیراهن|in pirāhan]]", "in pirāhan", "this shirt"],
+     ["[[آن کلاه|ān kolāh]]", "ān kolāh", "that hat"],
+     ["[[این کفش‌ها|in kafsh-hā]]", "in kafsh-hā", "these shoes"],
+     ["[[آن روسری‌ها|ān rusari-hā]]", "ān rusari-hā", "those scarves"],
+     ["[[این یکی|in yeki]]", "in yeki", "this one"],
+     ["[[آن یکی|ān yeki]]", "ān yeki", "that one"]
+    ]
+   },
+   "examples": [
+    {"fa": "این کفش‌ها خیلی تنگ است.", "r": "in kafsh-hā kheyli tang ast.", "en": "These shoes are very tight."},
+    {"fa": "آن یکی ارزان‌تر است.", "r": "ān yeki arzān-tar ast.", "en": "That one is cheaper."},
+    {"fa": "این شلوار آبی چند است؟", "r": "in shalvār-e ābi chand ast?", "en": "How much are these blue trousers?"},
+    {"fa": "آن مرد با کت قهوه‌ای پدر من است.", "r": "ān mard bā kot-e ghahve-i pedar-e man ast.", "en": "That man in the brown jacket is my father."}
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "A wedding photo",
+   "intro": "Mahsa shows Tom a photo from a family wedding. Read and answer the questions.",
+   "sentences": [
+    {"fa": "این عکس عروسی دخترخاله‌ی من است.", "r": "in aks-e arusi-ye dokhtar-khāle-ye man ast.", "en": "This is a photo of my cousin's wedding."},
+    {"fa": "لباس عروس سفید و خیلی قشنگ است.", "r": "lebās-e arus sefid va kheyli ghashang ast.", "en": "The bride's dress is white and very beautiful."},
+    {"fa": "لباس مادرم بلند و آبی است.", "r": "lebās-e mādar-am boland va ābi ast.", "en": "My mother's dress is long and blue."},
+    {"fa": "کت پدرم مشکی است و پیراهنش سفید.", "r": "kot-e pedar-am meshki ast va pirāhan-ash sefid.", "en": "My father's jacket is black and his shirt is white."},
+    {"fa": "کفش‌های برادرم داریوش قهوه‌ای است.", "r": "kafsh-hā-ye barādar-am Dāriush ghahve-i ast.", "en": "My brother Dariush's shoes are brown."},
+    {"fa": "مانتوی من سبز است و روسری‌ام زرد.", "r": "mānto-ye man sabz ast va rusari-am zard.", "en": "My manteau is green and my scarf is yellow."},
+    {"fa": "در این عکس همه خوشحال هستند.", "r": "dar in aks hame khosh-hāl hastand.", "en": "In this photo everyone is happy."}
+   ],
+   "questions": [
+    {"q": "Whose wedding is in the photo?", "options": ["Mahsa's brother's", "Mahsa's cousin's", "Mahsa's mother's"], "answer": 1},
+    {"q": "What colour is the father's jacket?", "options": ["black", "brown", "blue"], "answer": 0},
+    {"q": "What is Mahsa wearing?", "options": ["a white dress", "a green manteau and a yellow scarf", "a blue dress and brown shoes"], "answer": 1}
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Colours that come from things",
+   "md": "Persian has a handful of basic colour words – [[سفید|sefid|white]], [[سیاه|siyāh|black]], [[سبز|sabz|green]], [[زرد|zard|yellow]], [[سرخ|sorkh|red]] – and then a whole paintbox made from things, with the ending **-i**, *of* or *like*:\n\n- [[آبی|ābi|blue]] – from [[آب|āb|water]]\n- [[نارنجی|nārenji|orange]] – from [[نارنج|nārenj|bitter orange]], the tree of Shiraz's courtyards\n- [[صورتی|surati|pink]] – from [[صورت|surat|face]]: the colour of a cheek\n- [[قهوه‌ای|ghahve-i|brown]] – from coffee; [[خاکستری|khākestari|grey]] – from ash\n- [[سرمه‌ای|sorme-i|navy blue]] – from *sorme*, kohl, the dark eye make-up\n- [[فیروزه‌ای|firuze-i|turquoise]] – from the stone mined near Nishapur for thousands of years\n- [[لاجوردی|lājevardi|lapis blue]] – from lapis lazuli; the word travelled through Arabic and Latin into English as *azure*\n\nYou can see both blues on the great mosques of Iran, where turquoise and lapis tiles were the glory of Persian architecture. Turquoise is a lucky colour too: a turquoise ring or a blue bead is said to keep away the evil eye.\n\nClothes in Iran are as varied as the country. Since 1979 women have been expected to wear a [[مانتو|mānto]] and a [[روسری|rusari]], or a [[چادر|chādor]], in public; how strictly this is followed has changed a lot in recent years, and in Tehran you will see every style. In the villages and among the nomads, such as the Qashqai and the Bakhtiari, women's dresses are layered in brilliant reds, greens and golds.",
+   "image": "persian-tilework"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "Say the ezafe! *pirāhan-e sefid* 'the white shirt' and *pirāhan sefid ast* 'the shirt is white' differ only by that little **-e**.",
+    "**kolāh** 'hat' ends in a real **h**, so its ezafe is a plain -e: *kolāh-e ghermez*. Words ending in a silent -e, like *khāne*, take *-ye*: *khāne-ye sefid*.",
+    "**meshki** is the everyday black for things you wear or drive; **siyāh** is the general word – and the colour of mourning, worn in the month of Muharram.",
+    "Clothes sizes: women's clothes usually use European numbers (*si o hasht*, 38); men's shirts and T-shirts often use *small, medium, large*, said the English way.",
+    "In speech, point and name the colour with **-esh**: *sabz-esh!* 'the green one!' – every shopkeeper understands."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the colours",
+   "items": [
+    {"fa": "سفید", "r": "sefid", "en": "white"},
+    {"fa": "سیاه", "r": "siyāh", "en": "black"},
+    {"fa": "قرمز", "r": "ghermez", "en": "red"},
+    {"fa": "آبی", "r": "ābi", "en": "blue"},
+    {"fa": "سبز", "r": "sabz", "en": "green"},
+    {"fa": "زرد", "r": "zard", "en": "yellow"},
+    {"fa": "قهوه‌ای", "r": "ghahve-i", "en": "brown"},
+    {"fa": "کفش", "r": "kafsh", "en": "shoes"}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right answer",
+   "items": [
+    {"q": "'A white shirt' is…", "options": ["سفید پیراهن", "پیراهن سفید", "پیراهن‌ها سفید"], "answer": 1, "explain": "Noun first, then the adjective, joined by -e: pirāhan-e sefid."},
+    {"q": "How do you say 'black shoes'?", "options": ["کفش‌های مشکی", "کفش مشکی‌ها", "مشکی‌های کفش"], "answer": 0, "explain": "The plural -hā goes on the noun; the adjective never changes: kafsh-hā-ye meshki."},
+    {"q": "[[پیراهن سفید است.|pirāhan sefid ast.]] means…", "options": ["the white shirt", "The shirt is white.", "a white shirt"], "answer": 1, "explain": "No ezafe + ast = a sentence: 'the shirt is white'."},
+    {"q": "Which colour comes from the word for water?", "options": ["آبی", "سبز", "زرد"], "answer": 0, "explain": "ābi, blue, comes from āb, water."},
+    {"q": "'These shoes' is…", "options": ["این‌ها کفش", "این کفش‌ها", "این‌ها کفش‌ها"], "answer": 1, "explain": "in stays singular before a plural noun: in kafsh-hā."}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {"fa": "من یک پیراهن ___ می‌خواهم.", "r": "man yek pirāhan-e ___ mi-khāham.", "en": "I want a white shirt.", "answer": "سفید", "hint": "white"},
+    {"fa": "این مانتو برای من ___ بلند است.", "r": "in mānto barā-ye man ___ boland ast.", "en": "This manteau is very long for me.", "answer": "خیلی", "hint": "very"},
+    {"fa": "کفش‌های ___ کجاست؟", "r": "kafsh-hā-ye ___ kojāst?", "en": "Where are the black shoes?", "answer": "مشکی", "hint": "black, for clothes"},
+    {"fa": "این کت گران است، ___ یکی ارزان‌تر است.", "r": "in kot gerān ast, ___ yeki arzān-tar ast.", "en": "This jacket is expensive, that one is cheaper.", "answer": "آن", "hint": "that"},
+    {"fa": "چه ___ دوست داری؟", "r": "che ___ dust dāri?", "en": "What colour do you like?", "answer": "رنگی", "hint": "colour + -i"}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {"fa": "من یک کلاه قرمز دارم.", "r": "man yek kolāh-e ghermez dāram.", "en": "I have a red hat."},
+    {"fa": "این مانتوی سرمه‌ای خیلی قشنگ است.", "r": "in mānto-ye sorme-i kheyli ghashang ast.", "en": "This navy manteau is very pretty."},
+    {"fa": "کت پدرم مشکی است.", "r": "kot-e pedar-am meshki ast.", "en": "My father's jacket is black."},
+    {"fa": "کوتاه‌تر هم دارید؟", "r": "kutāh-tar ham dārid?", "en": "Do you have a shorter one too?"}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {"fa": "پیراهن سفید است.", "r": "pirāhan sefid ast.", "en": "The shirt is white.", "options": ["the white shirt", "The shirt is white.", "a white shirt"], "answer": 1},
+    {"fa": "او یک روسری زرد دارد.", "r": "u yek rusari-ye zard dārad.", "en": "She has a yellow scarf.", "options": ["She has a yellow scarf.", "She has a green scarf.", "She has a yellow hat."], "answer": 0},
+    {"fa": "این کفش‌ها برای من کوچک است.", "r": "in kafsh-hā barā-ye man kuchak ast.", "en": "These shoes are small for me.", "options": ["These shoes are big for me.", "These shoes are small for me.", "These trousers are small for me."], "answer": 1}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {"en": "What colour is your car? (to a friend)", "fa": "ماشینت چه رنگی است؟", "r": "māshin-at che rang-i ast?"},
+    {"en": "I want a blue shirt.", "fa": "من یک پیراهن آبی می‌خواهم.", "r": "man yek pirāhan-e ābi mi-khāham."},
+    {"en": "These trousers are very long.", "fa": "این شلوار خیلی بلند است.", "r": "in shalvār kheyli boland ast."},
+    {"en": "Do you have a bigger one? (polite)", "fa": "بزرگ‌تر دارید؟", "r": "bozorg-tar dārid?"}
+   ]
+  }
+ ]
+}

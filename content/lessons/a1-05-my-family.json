@@ -1,0 +1,989 @@
+{
+ "id": "a1-05-my-family",
+ "level": "A1",
+ "n": 5,
+ "title": "My family",
+ "titleFa": "خانواده‌ی من",
+ "titleR": "khānevāde-ye man",
+ "intro": "Get out your phone and show someone a photo of your family. In this lesson you learn the words for the people in your family – including four different uncles and aunts – how to say 'my', 'your' and 'his' with short endings, how to say whose someone is, and how to use 'to have' for brothers, sisters and children.",
+ "goals": [
+  "name the people in your family",
+  "say my, your, his / her… with the endings -am, -at, -ash, -emān, -etān, -eshān",
+  "say whose someone is with the ezafe: mādar-e Sārā",
+  "use dāshtan in the present: dāram, dāri, dārad…",
+  "say how old the people in your family are"
+ ],
+ "image": "sizdah-bedar",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "A family photo",
+   "context": "After class, Sara shows Tom a photo of her family on her phone.",
+   "lines": [
+    {
+     "who": "Tom",
+     "fa": "این عکس خانواده‌ی توست؟",
+     "r": "in aks-e khānevāde-ye to-st?",
+     "en": "Is this a photo of your family?",
+     "faV": "این عَکسِ خانِواده‌یِ توست؟",
+     "a": "6c66b0bab9e6"
+    },
+    {
+     "who": "Sara",
+     "fa": "بله، این خانواده‌ام است. این پدرم است و این مادرم.",
+     "r": "bale, in khānevāde-am ast. in pedar-am ast o in mādar-am.",
+     "en": "Yes, this is my family. This is my father and this is my mother.",
+     "col": "آره، این خانواده‌مه. این بابامه، این هم مامانم.",
+     "colR": "āre, in khānevāde-m-e. in bābā-m-e, in ham māmān-am.",
+     "faV": "بَله، این خانِواده‌اَم اَست. این پِدَرَم اَست و این مادَرَم.",
+     "a": "f8137435bf57",
+     "colV": "آره، این خانِواده‌مه. این بابامه، این هَم مامانَم.",
+     "colA": "237733d146cc"
+    },
+    {
+     "who": "Tom",
+     "fa": "پدرت چند سال دارد؟",
+     "r": "pedar-at chand sāl dārad?",
+     "en": "How old is your father?",
+     "col": "بابات چند سالشه؟",
+     "colR": "bābā-t chand sāl-esh-e?",
+     "faV": "پِدَرَت چَند سال دارَد؟",
+     "a": "aeaac8387af1",
+     "colV": "بابات چَند سالِشه؟",
+     "colA": "e5863e013b34"
+    },
+    {
+     "who": "Sara",
+     "fa": "پنجاه و هشت سال. مادرم پنجاه و دو سال دارد.",
+     "r": "panjāh o hasht sāl. mādar-am panjāh o do sāl dārad.",
+     "en": "Fifty-eight. My mother is fifty-two.",
+     "faV": "پَنجاه و هَشت سال. مادَرَم پَنجاه و دو سال دارَد.",
+     "a": "c2a6b31c304c"
+    },
+    {
+     "who": "Tom",
+     "fa": "تو خواهر و برادر داری؟",
+     "r": "to khāhar o barādar dāri?",
+     "en": "Do you have brothers and sisters?",
+     "faV": "تو خواهَر و بَرادَر داری؟",
+     "a": "02857fc7a65a"
+    },
+    {
+     "who": "Sara",
+     "fa": "بله، یک برادر و دو خواهر دارم.",
+     "r": "bale, yek barādar o do khāhar dāram.",
+     "en": "Yes, I have one brother and two sisters.",
+     "col": "آره، یه برادر و دو تا خواهر دارم.",
+     "colR": "āre, ye barādar o do tā khāhar dāram.",
+     "faV": "بَله، یِک بَرادَر و دو خواهَر دارَم.",
+     "a": "c60d94d44df2",
+     "colV": "آره، یه بَرادَر و دو تا خواهَر دارَم.",
+     "colA": "08db865cec50"
+    },
+    {
+     "who": "Tom",
+     "fa": "اسم برادرت چیست؟",
+     "r": "esm-e barādar-at chist?",
+     "en": "What's your brother's name?",
+     "col": "اسم برادرت چیه؟",
+     "colR": "esm-e barādar-et chi-ye?",
+     "faV": "اِسمِ بَرادَرَت چیست؟",
+     "a": "3830fef189cb",
+     "colV": "اِسمِ بَرادَرِت چیه؟",
+     "colA": "691c11964a39"
+    },
+    {
+     "who": "Sara",
+     "fa": "اسمش داریوش است. این پسر کوچک هم پسرش است.",
+     "r": "esm-ash Dāriyush ast. in pesar-e kuchak ham pesar-ash ast.",
+     "en": "His name is Dariush. And this little boy is his son.",
+     "faV": "اِسمَش داریوش اَست. این پِسَرِ کوچَک هَم پِسَرَش اَست.",
+     "a": "3efb9c734f08"
+    },
+    {
+     "who": "Tom",
+     "fa": "و این خانم کیست؟",
+     "r": "va in khānom kist?",
+     "en": "And who is this lady?",
+     "faV": "و این خانُم کیست؟",
+     "a": "e95ba70cb602"
+    },
+    {
+     "who": "Sara",
+     "fa": "مادربزرگم است. او هشتاد و یک سال دارد!",
+     "r": "mādar-bozorg-am ast. u hashtād o yek sāl dārad!",
+     "en": "That's my grandmother. She's eighty-one!",
+     "faV": "مادَربُزُرگَم اَست. او هَشتاد و یِک سال دارَد!",
+     "a": "a4f1c4c9556d"
+    },
+    {
+     "who": "Tom",
+     "fa": "خانواده‌ات خیلی بزرگ است!",
+     "r": "khānevāde-at kheyli bozorg ast!",
+     "en": "Your family is very big!",
+     "col": "خانواده‌ت خیلی بزرگه!",
+     "colR": "khānevāde-t kheyli bozorg-e!",
+     "faV": "خانِواده‌اَت خَیلی بُزُرگ اَست!",
+     "a": "57278848de6a",
+     "colV": "خانِواده‌ت خَیلی بُزُرگه!",
+     "colA": "99bbd653dfa8"
+    },
+    {
+     "who": "Sara",
+     "fa": "خانواده‌ی تو چطور؟ شما چند نفر هستید؟",
+     "r": "khānevāde-ye to chetor? shomā chand nafar hastid?",
+     "en": "What about your family? How many of you are there?",
+     "faV": "خانِواده‌یِ تو چِطور؟ شُما چَند نَفَر هَستید؟",
+     "a": "7042b73bf756"
+    },
+    {
+     "who": "Tom",
+     "fa": "ما چهار نفر هستیم: پدرم، مادرم، خواهرم و من.",
+     "r": "mā chahār nafar hastim: pedar-am, mādar-am, khāhar-am o man.",
+     "en": "There are four of us: my father, my mother, my sister and me.",
+     "faV": "ما چَهار نَفَر هَستیم: پِدَرَم، مادَرَم، خواهَرَم و مَن.",
+     "a": "930dafe2b729"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Pedar, mādar, barādar",
+   "md": "Family words are another place where Persian and English show that they are relatives: [[پدر|pedar|father]] (Latin *pater*), [[مادر|mādar|mother]], [[برادر|barādar|brother]] and [[دختر|dokhtar|daughter]]. At home, children say [[بابا|bābā|dad]] and [[مامان|māmān|mum]].\n\nTo say *my father* you can use the ezafe from lesson 3, [[پدر من|pedar-e man]], or – much more often – a short ending glued to the word: [[پدرم|pedar-am]]. Sara uses these endings all through the dialogue: *pedar-am* (my father), *barādar-at* (your brother), *esm-ash* (his name), *pesar-ash* (his son).\n\nNotice too how Tom says how many people are in his family: [[ما چهار نفر هستیم|mā chahār nafar hastim|we are four people]] – with the *nafar* from lesson 4."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "پدر",
+     "r": "pedar",
+     "en": "father",
+     "pos": "n",
+     "note": "at home: بابا bābā",
+     "ex": {
+      "fa": "پدرم شصت سال دارد.",
+      "r": "pedar-am shast sāl dārad.",
+      "en": "My father is sixty.",
+      "faV": "پِدَرَم شَصت سال دارَد.",
+      "a": "8d79fd28c67e"
+     },
+     "faV": "پِدَر",
+     "a": "1e25c0607c1e"
+    },
+    {
+     "fa": "مادر",
+     "r": "mādar",
+     "en": "mother",
+     "pos": "n",
+     "note": "at home: مامان māmān",
+     "faV": "مادَر",
+     "a": "b6490d9a8851"
+    },
+    {
+     "fa": "برادر",
+     "r": "barādar",
+     "en": "brother",
+     "pos": "n",
+     "note": "in speech also داداش dādāsh",
+     "faV": "بَرادَر",
+     "a": "b56690f317af"
+    },
+    {
+     "fa": "خواهر",
+     "r": "khāhar",
+     "en": "sister",
+     "pos": "n",
+     "note": "the و after خ is silent",
+     "ex": {
+      "fa": "من دو خواهر دارم.",
+      "r": "man do khāhar dāram.",
+      "en": "I have two sisters.",
+      "faV": "مَن دو خواهَر دارَم.",
+      "a": "b79b4f9e6e91"
+     },
+     "faV": "خواهَر",
+     "a": "cc01d6233f35"
+    },
+    {
+     "fa": "پسر",
+     "r": "pesar",
+     "en": "son; boy",
+     "pos": "n",
+     "ex": {
+      "fa": "این پسر کوچک برادرم است.",
+      "r": "in pesar-e kuchak barādar-am ast.",
+      "en": "This little boy is my brother.",
+      "faV": "این پِسَرِ کوچَک بَرادَرَم اَست.",
+      "a": "37e48799c3f5"
+     },
+     "faV": "پِسَر",
+     "a": "273339046ef8"
+    },
+    {
+     "fa": "دختر",
+     "r": "dokhtar",
+     "en": "daughter; girl",
+     "pos": "n",
+     "faV": "دُختَر",
+     "a": "ccccac2bf181"
+    },
+    {
+     "fa": "بچه",
+     "r": "bacche",
+     "en": "child",
+     "pos": "n",
+     "note": "plural bacche-hā – which is also how you call out to a group of friends: 'guys!'",
+     "ex": {
+      "fa": "شما بچه دارید؟",
+      "r": "shomā bacche dārid?",
+      "en": "Do you have children?",
+      "faV": "شُما بَچّه دارید؟",
+      "a": "50886737cc4a"
+     },
+     "faV": "بَچّه",
+     "a": "eceb662b8458"
+    },
+    {
+     "fa": "شوهر",
+     "r": "showhar",
+     "en": "husband",
+     "pos": "n",
+     "faV": "شَوهَر",
+     "a": "287a1c843b0d"
+    },
+    {
+     "fa": "زن",
+     "r": "zan",
+     "en": "wife; woman",
+     "pos": "n",
+     "note": "zan-am = my wife",
+     "faV": "زَن",
+     "a": "d0cfd0fdfd6d"
+    },
+    {
+     "fa": "همسر",
+     "r": "hamsar",
+     "en": "spouse (husband or wife)",
+     "pos": "n",
+     "note": "the polite word for both",
+     "faV": "هَمسَر",
+     "a": "10f7a4a36430"
+    },
+    {
+     "fa": "پدربزرگ",
+     "r": "pedar-bozorg",
+     "en": "grandfather",
+     "pos": "n",
+     "note": "literally 'big father'",
+     "faV": "پِدَربُزُرگ",
+     "a": "be007b4d3e58"
+    },
+    {
+     "fa": "مادربزرگ",
+     "r": "mādar-bozorg",
+     "en": "grandmother",
+     "pos": "n",
+     "note": "literally 'big mother'",
+     "faV": "مادَربُزُرگ",
+     "a": "65c57d9d30b9"
+    },
+    {
+     "fa": "عمو",
+     "r": "amu",
+     "en": "uncle (father's brother)",
+     "pos": "n",
+     "faV": "عَمو",
+     "a": "f3d4d6df8864"
+    },
+    {
+     "fa": "دایی",
+     "r": "dāyi",
+     "en": "uncle (mother's brother)",
+     "pos": "n",
+     "faV": "دایی",
+     "a": "09485efcff38"
+    },
+    {
+     "fa": "عمه",
+     "r": "amme",
+     "en": "aunt (father's sister)",
+     "pos": "n",
+     "faV": "عَمّه",
+     "a": "39f6fa52247f"
+    },
+    {
+     "fa": "خاله",
+     "r": "khāle",
+     "en": "aunt (mother's sister)",
+     "pos": "n",
+     "faV": "خاله",
+     "a": "6442e53c4f01"
+    },
+    {
+     "fa": "بزرگ",
+     "r": "bozorg",
+     "en": "big; older (of brothers and sisters)",
+     "pos": "adj",
+     "ex": {
+      "fa": "برادر بزرگم در شیراز است.",
+      "r": "barādar-e bozorg-am dar Shirāz ast.",
+      "en": "My older brother is in Shiraz.",
+      "faV": "بَرادَرِ بُزُرگَم دَر شیراز اَست.",
+      "a": "d466fa8c5919"
+     },
+     "faV": "بُزُرگ",
+     "a": "65220b7cb8d1"
+    },
+    {
+     "fa": "کوچک",
+     "r": "kuchak",
+     "en": "small; younger",
+     "pos": "adj",
+     "faV": "کوچَک",
+     "a": "eb45dabd0107"
+    },
+    {
+     "fa": "جوان",
+     "r": "javān",
+     "en": "young",
+     "pos": "adj",
+     "faV": "جَوان",
+     "a": "ec8b926bd07f"
+    },
+    {
+     "fa": "داشتن",
+     "r": "dāshtan",
+     "en": "to have",
+     "pos": "v",
+     "note": "present: dāram, dāri, dārad… – no mi-",
+     "ex": {
+      "fa": "ما یک پسر و یک دختر داریم.",
+      "r": "mā yek pesar o yek dokhtar dārim.",
+      "en": "We have a son and a daughter.",
+      "faV": "ما یِک پِسَر و یِک دُختَر داریم.",
+      "a": "4dad7c3e1e11"
+     },
+     "faV": "داشتَن",
+     "a": "716bbc7bcb86"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "My, your, his: the possessive endings",
+   "md": "Persian has two ways to say *my*. You already know the ezafe with a pronoun: [[کتاب من|ketāb-e man|my book]]. The other way – the one you will hear most – is a short ending glued to the noun: [[کتابم|ketāb-am|my book]]. Both mean the same; the ezafe is a little more emphatic (*ketāb-e MAN*, *MY book*). The endings are never stressed: *pe-DAR-am*, not *pedar-AM*.\n\nAfter a final silent **-e** (خانه، خانواده) the first three endings are written with a separate ا after a ZWNJ: [[خانه‌ام|khāne-am|my house]], [[خانه‌ات|khāne-at]], [[خانه‌اش|khāne-ash]]; the plural ones lose their *e*: [[خانه‌مان|khāne-mān|our house]]. After **-ā** or **-u** a *y* slips in: [[بابایم|bābā-yam|my dad]], [[عمویش|amu-yash|his uncle]].\n\nIf the noun has an adjective, the ending goes at the very end: [[برادر بزرگم|barādar-e bozorg-am|my older brother]].\n\nIn speech *-at* and *-ash* become *-et* and *-esh*, and *-emān -etān -eshān* become *-emun -etun -eshun*: *pedar-et*, *esm-esh*, *khāne-mun*.",
+   "table": {
+    "head": [
+     "",
+     "after a consonant",
+     "after -e"
+    ],
+    "rows": [
+     [
+      "my",
+      "[[پدرم|pedar-am]]",
+      "[[خانواده‌ام|khānevāde-am]]"
+     ],
+     [
+      "your (friend)",
+      "[[پدرت|pedar-at]]",
+      "[[خانواده‌ات|khānevāde-at]]"
+     ],
+     [
+      "his / her",
+      "[[پدرش|pedar-ash]]",
+      "[[خانواده‌اش|khānevāde-ash]]"
+     ],
+     [
+      "our",
+      "[[پدرمان|pedar-emān]]",
+      "[[خانواده‌مان|khānevāde-mān]]"
+     ],
+     [
+      "your (polite / plural)",
+      "[[پدرتان|pedar-etān]]",
+      "[[خانواده‌تان|khānevāde-tān]]"
+     ],
+     [
+      "their",
+      "[[پدرشان|pedar-eshān]]",
+      "[[خانواده‌شان|khānevāde-shān]]"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "مادرم معلم است.",
+     "r": "mādar-am mo'allem ast.",
+     "en": "My mother is a teacher.",
+     "col": "مادرم معلمه.",
+     "colR": "mādar-am mo'allem-e.",
+     "faV": "مادَرَم مُعَلِّم اَست.",
+     "a": "b294073b010c",
+     "colV": "مادَرَم مُعَلِّمه.",
+     "colA": "73ab28b255f1"
+    },
+    {
+     "fa": "اسم برادرتان چیست؟",
+     "r": "esm-e barādar-etān chist?",
+     "en": "What is your brother's name? (polite)",
+     "col": "اسم برادرتون چیه؟",
+     "colR": "esm-e barādar-etun chi-ye?",
+     "faV": "اِسمِ بَرادَرِتان چیست؟",
+     "a": "fcc2fea51c5e",
+     "colV": "اِسمِ بَرادَرِتون چیه؟",
+     "colA": "f32dbe4d97bb"
+    },
+    {
+     "fa": "خانه‌شان در اصفهان است.",
+     "r": "khāne-shān dar Esfahān ast.",
+     "en": "Their house is in Isfahan.",
+     "faV": "خانه‌شان دَر اِصفَهان اَست.",
+     "a": "3a18df2f630f"
+    },
+    {
+     "fa": "دختر کوچکمان شش سال دارد.",
+     "r": "dokhtar-e kuchak-emān shesh sāl dārad.",
+     "en": "Our little daughter is six.",
+     "faV": "دُختَرِ کوچَکِمان شِش سال دارَد.",
+     "a": "e76db1c662b6"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Whose? The ezafe with names",
+   "md": "To say *Sara's mother*, Persian says *the mother of Sara*: the person comes first and the owner second, linked by the ezafe – [[مادر سارا|mādar-e Sārā|Sara's mother]], [[پسر آقای کریمی|pesar-e āghā-ye Karimi|Mr Karimi's son]].\n\nRemember the spelling rule from lesson 3: after a vowel the ezafe sounds *-ye*. It is written ی after a silent *-e* (with a ZWNJ) and after *-ā* or *-u*, but after *-i* you only say it: [[خاله‌ی مینا|khāle-ye Minā]], [[عموی امیر|amu-ye Amir]], [[دایی لیلا|dāyi-ye Leylā]].\n\nLinks can chain, and an ending can join in at the end: [[پسر برادرم|pesar-e barādar-am|my brother's son]]. Cousins are named exactly this way – there is no everyday word for just *cousin*: [[پسرعمو|pesar-amu|son of your father's brother]], [[دخترخاله|dokhtar-khāle|daughter of your mother's sister]].",
+   "table": {
+    "head": [
+     "Persian",
+     "Reading",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[مادر سارا|mādar-e Sārā]]",
+      "mādar-**e** Sārā",
+      "Sara's mother"
+     ],
+     [
+      "[[خواهر رضا|khāhar-e Rezā]]",
+      "khāhar-**e** Rezā",
+      "Reza's sister"
+     ],
+     [
+      "[[خاله‌ی مینا|khāle-ye Minā]]",
+      "khāle-**ye** Minā",
+      "Mina's aunt"
+     ],
+     [
+      "[[عموی امیر|amu-ye Amir]]",
+      "amu-**ye** Amir",
+      "Amir's uncle"
+     ],
+     [
+      "[[دایی لیلا|dāyi-ye Leylā]]",
+      "dāyi-**ye** Leylā",
+      "Leila's uncle"
+     ],
+     [
+      "[[پسر برادرم|pesar-e barādar-am]]",
+      "pesar-**e** barādar-am",
+      "my brother's son"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "مادر سارا اهل شیراز است.",
+     "r": "mādar-e Sārā ahl-e Shirāz ast.",
+     "en": "Sara's mother is from Shiraz.",
+     "faV": "مادَرِ سارا اَهلِ شیراز اَست.",
+     "a": "6699a4c40777"
+    },
+    {
+     "fa": "خاله‌ی مینا دو پسر دارد.",
+     "r": "khāle-ye Minā do pesar dārad.",
+     "en": "Mina's aunt has two sons.",
+     "faV": "خاله‌یِ مینا دو پِسَر دارَد.",
+     "a": "4cbb3629e324"
+    },
+    {
+     "fa": "پدربزرگ رضا هشتاد سال دارد.",
+     "r": "pedar-bozorg-e Rezā hashtād sāl dārad.",
+     "en": "Reza's grandfather is eighty.",
+     "faV": "پِدَربُزُرگِ رِضا هَشتاد سال دارَد.",
+     "a": "35384e574200"
+    },
+    {
+     "fa": "این عکس کیست؟ عکس دخترخاله‌ی من است.",
+     "r": "in aks-e kist? aks-e dokhtar-khāle-ye man ast.",
+     "en": "Whose photo is this? It's a photo of my cousin.",
+     "faV": "این عَکسِ کیست؟ عَکسِ دُختَرخاله‌یِ مَن اَست.",
+     "a": "9365ec9d0ab8"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "dāshtan: I have, you have",
+   "md": "[[داشتن|dāshtan|to have]] is one of the very few verbs with **no *mi-*** in the present: just the stem *dār-* and the personal endings. They are the endings you know from *khub-am, khub-i…*, except that *he / she* gets **-ad**: [[دارد|dārad]]. You used these forms for ages in lesson 4; now use them for people and things.\n\nThe thing you have comes just before the verb, and after a number it stays singular: [[دو خواهر دارم|do khāhar dāram|I have two sisters]]. For a question, simply raise your voice: [[بچه دارید؟|bacche dārid?|do you have children?]]\n\nTo say you *don't* have something, Persian puts *na-* in front: [[ندارم|na-dāram|I don't have]]. You will practise that in lesson 9.",
+   "table": {
+    "head": [
+     "Persian",
+     "Reading",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[من دارم|man dāram]]",
+      "dār-**am**",
+      "I have"
+     ],
+     [
+      "[[تو داری|to dāri]]",
+      "dār-**i**",
+      "you have (friend)"
+     ],
+     [
+      "[[او دارد|u dārad]]",
+      "dār-**ad**",
+      "he / she has"
+     ],
+     [
+      "[[ما داریم|mā dārim]]",
+      "dār-**im**",
+      "we have"
+     ],
+     [
+      "[[شما دارید|shomā dārid]]",
+      "dār-**id**",
+      "you have (polite / plural)"
+     ],
+     [
+      "[[آن‌ها دارند|ān-hā dārand]]",
+      "dār-**and**",
+      "they have"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "من یک برادر و یک خواهر دارم.",
+     "r": "man yek barādar o yek khāhar dāram.",
+     "en": "I have a brother and a sister.",
+     "faV": "مَن یِک بَرادَر و یِک خواهَر دارَم.",
+     "a": "33451de10e58"
+    },
+    {
+     "fa": "امیر دو برادر دارد.",
+     "r": "Amir do barādar dārad.",
+     "en": "Amir has two brothers.",
+     "col": "امیر دو تا داداش داره.",
+     "colR": "Amir do tā dādāsh dāre.",
+     "faV": "اَمیر دو بَرادَر دارَد.",
+     "a": "1fdffbbe6097",
+     "colV": "اَمیر دو تا داداش داره.",
+     "colA": "6b49f2ea1a2f"
+    },
+    {
+     "fa": "آن‌ها سه دختر دارند.",
+     "r": "ān-hā se dokhtar dārand.",
+     "en": "They have three daughters.",
+     "faV": "آن‌ها سه دُختَر دارَند.",
+     "a": "0adb7fb3fcf1"
+    },
+    {
+     "fa": "تو عمو داری؟",
+     "r": "to amu dāri?",
+     "en": "Do you have an uncle on your father's side?",
+     "faV": "تو عَمو داری؟",
+     "a": "7a7986b85ff6"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Mina's family",
+   "intro": "Mina writes a few lines about her family. Read, then answer the questions.",
+   "sentences": [
+    {
+     "fa": "اسم من میناست. من بیست و شش سال دارم.",
+     "r": "esm-e man Minā-st. man bist o shesh sāl dāram.",
+     "en": "My name is Mina. I am twenty-six.",
+     "faV": "اِسمِ مَن میناست. مَن بیست و شِش سال دارَم.",
+     "a": "b6dd38b9fcc3"
+    },
+    {
+     "fa": "خانواده‌ی ما پنج نفر است: پدرم، مادرم، خواهرم، برادرم و من.",
+     "r": "khānevāde-ye mā panj nafar ast: pedar-am, mādar-am, khāhar-am, barādar-am o man.",
+     "en": "There are five of us in my family: my father, my mother, my sister, my brother and me.",
+     "faV": "خانِواده‌یِ ما پَنج نَفَر اَست: پِدَرَم، مادَرَم، خواهَرَم، بَرادَرَم و مَن.",
+     "a": "fd9d566c8286"
+    },
+    {
+     "fa": "پدرم شصت و یک سال دارد و مادرم پنجاه و هفت سال.",
+     "r": "pedar-am shast o yek sāl dārad o mādar-am panjāh o haft sāl.",
+     "en": "My father is sixty-one and my mother fifty-seven.",
+     "faV": "پِدَرَم شَصت و یِک سال دارَد و مادَرَم پَنجاه و هَفت سال.",
+     "a": "44ce59363bf7"
+    },
+    {
+     "fa": "خواهر بزرگم مهسا سی و دو سال دارد.",
+     "r": "khāhar-e bozorg-am Mahsā si o do sāl dārad.",
+     "en": "My older sister, Mahsa, is thirty-two.",
+     "faV": "خواهَرِ بُزُرگَم مَهسا سی و دو سال دارَد.",
+     "a": "f2bc4eb262ba"
+    },
+    {
+     "fa": "او شوهر و دو بچه دارد: یک پسر و یک دختر.",
+     "r": "u showhar o do bacche dārad: yek pesar o yek dokhtar.",
+     "en": "She has a husband and two children: a boy and a girl.",
+     "faV": "او شَوهَر و دو بَچّه دارَد: یِک پِسَر و یِک دُختَر.",
+     "a": "a036f39ea403"
+    },
+    {
+     "fa": "برادر کوچکم در اصفهان دانشجو است.",
+     "r": "barādar-e kuchak-am dar Esfahān dāneshju ast.",
+     "en": "My younger brother is a student in Isfahan.",
+     "faV": "بَرادَرِ کوچَکَم دَر اِصفَهان دانِشجو اَست.",
+     "a": "fa4bac6f509a"
+    },
+    {
+     "fa": "مادربزرگم خانه‌ی کوچکی در شیراز دارد.",
+     "r": "mādar-bozorg-am khāne-ye kuchak-i dar Shirāz dārad.",
+     "en": "My grandmother has a small house in Shiraz.",
+     "faV": "مادَربُزُرگَم خانه‌یِ کوچَکی دَر شیراز دارَد.",
+     "a": "e626b3040611"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How many people are in Mina's family?",
+     "options": [
+      "four",
+      "five",
+      "six"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Who is Mahsa?",
+     "options": [
+      "Mina's mother",
+      "Mina's older sister",
+      "Mina's daughter"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Where is the grandmother's house?",
+     "options": [
+      "in Isfahan",
+      "in Tehran",
+      "in Shiraz"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Four uncles, four aunts",
+   "md": "Where English has one *uncle* and one *aunt*, Persian has four words, and every Iranian child learns them early: [[عمو|amu]] is your father's brother and [[عمه|amme]] his sister; [[دایی|dāyi]] is your mother's brother and [[خاله|khāle]] her sister. Cousins are *the son of your amu*, *the daughter of your khāle* and so on: [[پسرعمو|pesar-amu]], [[دخترخاله|dokhtar-khāle]].\n\nThe words travel far beyond the family. Children call any friendly older man *amu* and their mother's friends *khāle*; a shopkeeper may call a small boy *amu jān*, and young men call each other [[داداش|dādāsh|brother]].\n\nFamily life is close. Fridays often mean a long lunch at the grandparents' house, and on the great family occasions – [[شب یلدا|shab-e yaldā]], the longest night of the year, or the visits of [[نوروز|nowruz|the Persian New Year]], which begin at the homes of the oldest relatives – the whole clan gathers around one table.",
+   "image": "yalda"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "The possessive endings never take the stress: *pe-DAR-am*, *khā-HAR-at*, *ESM-ash*.",
+    "**khāhar** (sister) is written with a silent و after خ: خواهر. The same silent و appears in خواندن *khāndan* 'to read' and خواب *khāb* 'sleep'.",
+    "With brothers and sisters, **bozorg** and **kuchak** usually mean *older* and *younger*: *barādar-e bozorg-am* is 'my older brother'.",
+    "**zan** is both 'woman' and 'wife': *zan-am* is 'my wife'. The polite word for a husband or a wife is *hamsar*.",
+    "Learn the endings in pairs with their spoken forms – you will read *pedar-at* but hear *pedar-et*."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the family words",
+   "items": [
+    {
+     "fa": "پدر",
+     "r": "pedar",
+     "en": "father",
+     "faV": "پِدَر",
+     "a": "1e25c0607c1e"
+    },
+    {
+     "fa": "مادر",
+     "r": "mādar",
+     "en": "mother",
+     "faV": "مادَر",
+     "a": "b6490d9a8851"
+    },
+    {
+     "fa": "برادر",
+     "r": "barādar",
+     "en": "brother",
+     "faV": "بَرادَر",
+     "a": "b56690f317af"
+    },
+    {
+     "fa": "خواهر",
+     "r": "khāhar",
+     "en": "sister",
+     "faV": "خواهَر",
+     "a": "cc01d6233f35"
+    },
+    {
+     "fa": "پسر",
+     "r": "pesar",
+     "en": "son",
+     "faV": "پِسَر",
+     "a": "273339046ef8"
+    },
+    {
+     "fa": "دختر",
+     "r": "dokhtar",
+     "en": "daughter",
+     "faV": "دُختَر",
+     "a": "ccccac2bf181"
+    },
+    {
+     "fa": "مادربزرگ",
+     "r": "mādar-bozorg",
+     "en": "grandmother",
+     "faV": "مادَربُزُرگ",
+     "a": "65c57d9d30b9"
+    },
+    {
+     "fa": "خاله",
+     "r": "khāle",
+     "en": "aunt (mother's sister)",
+     "faV": "خاله",
+     "a": "6442e53c4f01"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right answer",
+   "items": [
+    {
+     "q": "'My sister' is…",
+     "options": [
+      "خواهرم",
+      "خواهرت",
+      "خواهرش"
+     ],
+     "answer": 0,
+     "explain": "-am means 'my'; -at is 'your' and -ash 'his / her'."
+    },
+    {
+     "q": "'Your mother' (polite) is…",
+     "options": [
+      "مادرشان",
+      "مادرتان",
+      "مادرمان"
+     ],
+     "answer": 1,
+     "explain": "-etān is the polite or plural 'your'."
+    },
+    {
+     "q": "Your mother's brother is your…",
+     "options": [
+      "عمو",
+      "دایی",
+      "خاله"
+     ],
+     "answer": 1,
+     "explain": "dāyi is your mother's brother; amu is your father's brother."
+    },
+    {
+     "q": "How do you write 'my family'?",
+     "options": [
+      "خانواده‌ام",
+      "خانوادهم",
+      "خانواده‌یم"
+     ],
+     "answer": 0,
+     "explain": "After a silent -e the ending is written ام, joined with a ZWNJ: khānevāde-am."
+    },
+    {
+     "q": "'They have three children' is…",
+     "options": [
+      "آن‌ها سه بچه دارند.",
+      "آن‌ها سه بچه داریم.",
+      "آن‌ها سه بچه‌ها دارند."
+     ],
+     "answer": 0,
+     "explain": "ān-hā takes dārand, and after a number the noun stays singular."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {
+     "fa": "من دو برادر ___.",
+     "r": "man do barādar ___.",
+     "en": "I have two brothers.",
+     "answer": "دارم",
+     "hint": "I have"
+    },
+    {
+     "fa": "اسم ___ مینا است.",
+     "r": "esm-e ___ Minā ast.",
+     "en": "My sister's name is Mina.",
+     "answer": "خواهرم",
+     "hint": "my sister"
+    },
+    {
+     "fa": "شما بچه ___؟",
+     "r": "shomā bacche ___?",
+     "en": "Do you have children?",
+     "answer": "دارید",
+     "hint": "you (polite) have"
+    },
+    {
+     "fa": "مادر ___ اهل شیراز است.",
+     "r": "mādar-e ___ ahl-e Shirāz ast.",
+     "en": "Sara's mother is from Shiraz.",
+     "answer": "سارا",
+     "hint": "Sara"
+    },
+    {
+     "fa": "آن‌ها یک پسر و یک دختر ___.",
+     "r": "ān-hā yek pesar o yek dokhtar ___.",
+     "en": "They have a son and a daughter.",
+     "answer": "دارند",
+     "hint": "they have"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "پدرم شصت سال دارد.",
+     "r": "pedar-am shast sāl dārad.",
+     "en": "My father is sixty.",
+     "faV": "پِدَرَم شَصت سال دارَد.",
+     "a": "8d79fd28c67e"
+    },
+    {
+     "fa": "تو خواهر و برادر داری؟",
+     "r": "to khāhar o barādar dāri?",
+     "en": "Do you have brothers and sisters?",
+     "faV": "تو خواهَر و بَرادَر داری؟",
+     "a": "02857fc7a65a"
+    },
+    {
+     "fa": "اسم برادرت چیست؟",
+     "r": "esm-e barādar-at chist?",
+     "en": "What's your brother's name?",
+     "faV": "اِسمِ بَرادَرَت چیست؟",
+     "a": "3830fef189cb"
+    },
+    {
+     "fa": "خانواده‌ی ما پنج نفر است.",
+     "r": "khānevāde-ye mā panj nafar ast.",
+     "en": "There are five people in our family.",
+     "faV": "خانِواده‌یِ ما پَنج نَفَر اَست.",
+     "a": "3854c132eaa3"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "این دخترم است.",
+     "r": "in dokhtar-am ast.",
+     "en": "This is my daughter.",
+     "options": [
+      "This is my daughter.",
+      "This is my sister.",
+      "This is your daughter."
+     ],
+     "answer": 0,
+     "faV": "این دُختَرَم اَست.",
+     "a": "8047471f3c5d"
+    },
+    {
+     "fa": "پدربزرگش نود سال دارد.",
+     "r": "pedar-bozorg-ash navad sāl dārad.",
+     "en": "His grandfather is ninety.",
+     "options": [
+      "My grandfather is ninety.",
+      "His grandfather is ninety.",
+      "His grandfather is nineteen."
+     ],
+     "answer": 1,
+     "faV": "پِدَربُزُرگَش نَوَد سال دارَد.",
+     "a": "c56a4fc031b1"
+    },
+    {
+     "fa": "ما دو بچه داریم.",
+     "r": "mā do bacche dārim.",
+     "en": "We have two children.",
+     "options": [
+      "We have two children.",
+      "They have two children.",
+      "We have ten children."
+     ],
+     "answer": 0,
+     "faV": "ما دو بَچّه داریم.",
+     "a": "db2215ba529e"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "This is my mother.",
+     "fa": "این مادرم است.",
+     "r": "in mādar-am ast.",
+     "faV": "این مادَرَم اَست.",
+     "a": "ddc29f21fe34"
+    },
+    {
+     "en": "I have one brother and two sisters.",
+     "fa": "من یک برادر و دو خواهر دارم.",
+     "r": "man yek barādar o do khāhar dāram.",
+     "faV": "مَن یِک بَرادَر و دو خواهَر دارَم.",
+     "a": "bb7462342f67"
+    },
+    {
+     "en": "What is your father's name? (polite)",
+     "fa": "اسم پدرتان چیست؟",
+     "r": "esm-e pedar-etān chist?",
+     "faV": "اِسمِ پِدَرِتان چیست؟",
+     "a": "cc61dc052193"
+    },
+    {
+     "en": "Sara's grandmother is eighty years old.",
+     "fa": "مادربزرگ سارا هشتاد سال دارد.",
+     "r": "mādar-bozorg-e Sārā hashtād sāl dārad.",
+     "faV": "مادَربُزُرگِ سارا هَشتاد سال دارَد.",
+     "a": "694a621f2ba7"
+    }
+   ]
+  }
+ ],
+ "titleV": "خانِواده‌یِ مَن",
+ "titleA": "bb58d26111d7"
+}

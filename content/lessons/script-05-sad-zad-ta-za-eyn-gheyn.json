@@ -1,0 +1,442 @@
+{
+ "id": "script-05-sad-zad-ta-za-eyn-gheyn",
+ "level": "script",
+ "n": 5,
+ "title": "Sād, zād, tā, zā, eyn, gheyn – the Arabic letters",
+ "titleFa": "ص، ض، ط، ظ، ع، غ",
+ "titleR": "sād, zād, tā, zā, eyn, gheyn",
+ "intro": "Six letters that came into Persian with Arabic words. Four of them bring no new sound at all – sād sounds like sin, zād and zā like ze, tā like te – so all you learn is which words use them. The other two are eyn, a small catch in the throat, and gheyn, a gargled gh. With them you can read clock, food, poem and garden.",
+ "goals": [
+  "read and write ص ض ط ظ and know which everyday letter each one sounds like",
+  "read and write ع غ, the letters that change shape most",
+  "pronounce ع as a glottal catch and غ as gh",
+  "read words such as sedā, sā'at, ghazā and bāgh"
+ ],
+ "image": "sheikh-lotfollah",
+ "sections": [
+  {
+   "type": "text",
+   "title": "Why Persian keeps Arabic letters",
+   "md": "After the Arab conquest of Iran in the 7th century, Persian came to be written in the Arabic alphabet, and it borrowed thousands of Arabic words – a large share of its vocabulary today. The words kept their Arabic spelling, but Persian speakers never took over some of the Arabic sounds behind the letters. Arabic has 'heavy' versions of *s*, *z* and *t*, said with the back of the tongue raised; in Persian they became the ordinary *s*, *z* and *t*.\n\nSo one sound can now be written in several ways:\n\n- *s*: [[س|sin]] (everyday), [[ث|se]], [[ص|sād]]\n- *z*: [[ز|ze]] (everyday), [[ذ|zāl]], [[ض|zād]], [[ظ|zā]]\n- *t*: [[ت|te]] (everyday), [[ط|tā]]\n\nIt is like *f* and *ph* in English: the spelling tells you where a word comes from, not how it sounds. A word with ص ض ط or ظ is almost always from Arabic. You learn the spelling together with the word – and Iranian schoolchildren practise exactly this for years, in dictation tests called [[دیکته|dikte]]."
+  },
+  {
+   "type": "text",
+   "title": "Sād and zād, tā and zā",
+   "md": "[[ص|sād]] is a long flat loop followed by a small tooth. Alone or at the end of a word it finishes in a wide bowl, like sin: ص, ـص. At the start or in the middle the bowl drops away: صـ, ـصـ. [[ض|zād]] is the same shape with one dot above.\n\n[[ط|tā]] is a flat loop with a tall upright stroke, like a flag on a pole, and [[ظ|zā]] adds one dot. These two hardly change at all: ط, طـ, ـطـ, ـط.\n\nAll four join on both sides, and they sound like the everyday letters: ص is *s*, ض and ظ are *z*, ط is *t*. So [[صدا|sedā|sound, voice]] sounds exactly as if it were written with sin, [[رضا|Rezā|Reza]] as if it had ze, and [[خط|khatt|line; handwriting]] as if it ended in te."
+  },
+  {
+   "type": "text",
+   "title": "Eyn and gheyn – the shape-shifters",
+   "md": "[[ع|eyn]] changes shape more than any other letter. Alone it is a small open hook on top of a big curving tail: ع. At the start of a word only the open hook is left: عـ. In the middle it closes into a small filled triangle: ـعـ. At the end it is that triangle with the tail: ـع. [[غ|gheyn]] is exactly the same with one dot above: غ, غـ, ـغـ, ـغ.\n\n**Eyn** has no sound of its own that you can clearly hear. At the start of a word it simply carries the vowel, just like alef: [[عدد|'adad|number]] begins with a plain *a*. Between vowels it is a small catch in the throat – the break in *uh-oh*: [[ساعت|sā'at|hour; clock]] is *sā – at*. After a consonant the catch is often dropped and the vowel before it is simply held longer: in [[شعر|she'r|poem]] the *e* is drawn out a little. This course writes eyn with an apostrophe: *'*.\n\n**Gheyn** is *gh*, a gargled sound at the back of the mouth, close to the French *r* in *Paris*. Say *kh* from lesson 3, then switch your voice on: [[غذا|ghazā|food]], [[باغ|bāgh|garden]]. In the next lesson you will meet ghāf, a second letter that most Iranians say exactly the same way."
+  },
+  {
+   "type": "letters",
+   "title": "The letters of this lesson",
+   "letters": [
+    "ص",
+    "ض",
+    "ط",
+    "ظ",
+    "ع",
+    "غ"
+   ],
+   "md": "Tap each letter to hear its name and an example word. Watch ع and غ change shape from one position to the next."
+  },
+  {
+   "type": "vocab",
+   "title": "Words you can read now",
+   "items": [
+    {
+     "fa": "صبر",
+     "r": "sabr",
+     "en": "patience",
+     "pos": "n",
+     "note": "sād sounds exactly like sin",
+     "faV": "صَبر",
+     "a": "5631ac8da593"
+    },
+    {
+     "fa": "صدا",
+     "r": "sedā",
+     "en": "sound; voice",
+     "pos": "n",
+     "faV": "صِدا",
+     "a": "df5fbb786c2a"
+    },
+    {
+     "fa": "صحبت",
+     "r": "sohbat",
+     "en": "talk, conversation",
+     "pos": "n",
+     "faV": "صُحبَت",
+     "a": "afb5db7846e3"
+    },
+    {
+     "fa": "رضا",
+     "r": "Rezā",
+     "en": "Reza (a man's name)",
+     "pos": "name",
+     "note": "zād sounds z",
+     "faV": "رِضا",
+     "a": "c44ab4e0c873"
+    },
+    {
+     "fa": "حاضر",
+     "r": "hāzer",
+     "en": "ready; present",
+     "pos": "adj",
+     "faV": "حاضِر",
+     "a": "fae8dd7b98e5"
+    },
+    {
+     "fa": "خط",
+     "r": "khatt",
+     "en": "line; handwriting, script",
+     "pos": "n",
+     "note": "tā sounds t; the doubled t is written once",
+     "faV": "خَطّ",
+     "a": "005ba86f27ca"
+    },
+    {
+     "fa": "خطر",
+     "r": "khatar",
+     "en": "danger",
+     "pos": "n",
+     "faV": "خَطَر",
+     "a": "bf0bcbe46a5b"
+    },
+    {
+     "fa": "حظ",
+     "r": "hazz",
+     "en": "delight, enjoyment",
+     "pos": "n",
+     "note": "one of the few short words with zā",
+     "faV": "حَظّ",
+     "a": "671d484c6dae"
+    },
+    {
+     "fa": "عطر",
+     "r": "'atr",
+     "en": "perfume, scent",
+     "pos": "n",
+     "faV": "عَطر",
+     "a": "3641da740531"
+    },
+    {
+     "fa": "ساعت",
+     "r": "sā'at",
+     "en": "hour; clock, watch",
+     "pos": "n",
+     "note": "a small catch between ā and a",
+     "faV": "ساعَت",
+     "a": "524847c32016"
+    },
+    {
+     "fa": "عدد",
+     "r": "'adad",
+     "en": "number, figure",
+     "pos": "n",
+     "note": "eyn at the start just carries the vowel",
+     "faV": "عَدَد",
+     "a": "732d3114088a"
+    },
+    {
+     "fa": "شعر",
+     "r": "she'r",
+     "en": "poem; poetry",
+     "pos": "n",
+     "faV": "شِعر",
+     "a": "116393d466d1"
+    },
+    {
+     "fa": "شاعر",
+     "r": "shā'er",
+     "en": "poet",
+     "pos": "n",
+     "faV": "شاعِر",
+     "a": "45d6a2ecdeca"
+    },
+    {
+     "fa": "غذا",
+     "r": "ghazā",
+     "en": "food; meal",
+     "pos": "n",
+     "faV": "غَذا",
+     "a": "5f0123156397"
+    },
+    {
+     "fa": "باغ",
+     "r": "bāgh",
+     "en": "garden",
+     "pos": "n",
+     "note": "as in Bāgh-e Eram, the famous garden in Shiraz",
+     "faV": "باغ",
+     "a": "56f735b72c6f"
+    },
+    {
+     "fa": "چراغ",
+     "r": "cherāgh",
+     "en": "lamp, light",
+     "pos": "n",
+     "faV": "چِراغ",
+     "a": "cfbafb66953f"
+    }
+   ]
+  },
+  {
+   "type": "tips",
+   "title": "Reading tips",
+   "items": [
+    "Learn these spellings word by word. Hearing *s* tells you nothing about whether it is written س, ث or ص.",
+    "A word with ص ض ط ظ is almost always from Arabic – but not always: [[صد|sad|hundred]] and [[شصت|shast|sixty]] are good old Persian words written with sād.",
+    "Inside a word, a small filled triangle is ع – or غ, if it has a dot. Read it as a catch, or as gh.",
+    "For gh, start from kh and add your voice. Don't let it harden into a *g*.",
+    "Don't worry about how Arabic pronounces these letters. In Persian ص is simply *s*, ط is *t*, and ض ظ are *z*."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Which letter?",
+   "items": [
+    {
+     "q": "Which letter is **tā** (t)?",
+     "options": [
+      "ط",
+      "ظ",
+      "ص"
+     ],
+     "answer": 0,
+     "explain": "The loop with a tall stroke and no dot."
+    },
+    {
+     "q": "Which letter is **gheyn** (gh)?",
+     "options": [
+      "ع",
+      "غ",
+      "خ"
+     ],
+     "answer": 1,
+     "explain": "The shape of eyn with one dot above."
+    },
+    {
+     "q": "Which of these letters sounds like s?",
+     "options": [
+      "ض",
+      "ص",
+      "ظ"
+     ],
+     "answer": 1,
+     "explain": "sād is s; zād and zā are both z."
+    },
+    {
+     "q": "Which of these is ع in the middle of a word?",
+     "options": [
+      "عـ",
+      "ـع",
+      "ـعـ"
+     ],
+     "answer": 2,
+     "explain": "In the middle eyn closes into a small filled triangle."
+    },
+    {
+     "q": "How many ways of writing z does Persian have?",
+     "options": [
+      "two",
+      "three",
+      "four"
+     ],
+     "answer": 2,
+     "explain": "ز ذ ض ظ – all pronounced z."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Read the word",
+   "items": [
+    {
+     "q": "Which word is **food**?",
+     "options": [
+      "غذا",
+      "صدا",
+      "رضا"
+     ],
+     "answer": 0,
+     "explain": "gh-z-ā: ghazā."
+    },
+    {
+     "q": "Which word is **hour; clock**?",
+     "options": [
+      "شاعر",
+      "ساعت",
+      "صبر"
+     ],
+     "answer": 1,
+     "explain": "s-ā-'-t: sā'at."
+    },
+    {
+     "q": "Which word is **garden**?",
+     "options": [
+      "داغ",
+      "چراغ",
+      "باغ"
+     ],
+     "answer": 2,
+     "explain": "b-ā-gh: bāgh."
+    },
+    {
+     "q": "Which word is **poet**?",
+     "options": [
+      "شعر",
+      "شاعر",
+      "عطر"
+     ],
+     "answer": 1,
+     "explain": "sh-ā-'-r: shā'er. شعر, she'r, is the poem itself."
+    },
+    {
+     "q": "Which word is **danger**?",
+     "options": [
+      "خطر",
+      "خط",
+      "حاضر"
+     ],
+     "answer": 0,
+     "explain": "kh-t-r: khatar."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and pick the spelling",
+   "items": [
+    {
+     "fa": "صدا",
+     "r": "sedā",
+     "en": "sound",
+     "options": [
+      "سدا",
+      "صدا",
+      "ثدا"
+     ],
+     "answer": 1,
+     "faV": "صِدا",
+     "a": "df5fbb786c2a"
+    },
+    {
+     "fa": "عطر",
+     "r": "'atr",
+     "en": "perfume",
+     "options": [
+      "اتر",
+      "عتر",
+      "عطر"
+     ],
+     "answer": 2,
+     "faV": "عَطر",
+     "a": "3641da740531"
+    },
+    {
+     "fa": "چراغ",
+     "r": "cherāgh",
+     "en": "lamp",
+     "options": [
+      "چراغ",
+      "جراغ",
+      "چراع"
+     ],
+     "answer": 0,
+     "faV": "چِراغ",
+     "a": "cfbafb66953f"
+    },
+    {
+     "fa": "صحبت",
+     "r": "sohbat",
+     "en": "conversation",
+     "options": [
+      "سحبت",
+      "صحبت",
+      "صخبت"
+     ],
+     "answer": 1,
+     "faV": "صُحبَت",
+     "a": "afb5db7846e3"
+    },
+    {
+     "fa": "حاضر",
+     "r": "hāzer",
+     "en": "ready",
+     "options": [
+      "حاضر",
+      "حاظر",
+      "خاضر"
+     ],
+     "answer": 0,
+     "faV": "حاضِر",
+     "a": "fae8dd7b98e5"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the words",
+   "items": [
+    {
+     "fa": "صبر",
+     "r": "sabr",
+     "en": "patience",
+     "faV": "صَبر",
+     "a": "5631ac8da593"
+    },
+    {
+     "fa": "غذا",
+     "r": "ghazā",
+     "en": "food",
+     "faV": "غَذا",
+     "a": "5f0123156397"
+    },
+    {
+     "fa": "ساعت",
+     "r": "sā'at",
+     "en": "clock",
+     "faV": "ساعَت",
+     "a": "524847c32016"
+    },
+    {
+     "fa": "شعر",
+     "r": "she'r",
+     "en": "poem",
+     "faV": "شِعر",
+     "a": "116393d466d1"
+    },
+    {
+     "fa": "باغ",
+     "r": "bāgh",
+     "en": "garden",
+     "faV": "باغ",
+     "a": "56f735b72c6f"
+    },
+    {
+     "fa": "خط",
+     "r": "khatt",
+     "en": "line",
+     "faV": "خَطّ",
+     "a": "005ba86f27ca"
+    },
+    {
+     "fa": "عدد",
+     "r": "'adad",
+     "en": "number",
+     "faV": "عَدَد",
+     "a": "732d3114088a"
+    }
+   ]
+  }
+ ],
+ "titleV": "ص، ض، ط، ظ، ع، غ",
+ "titleA": "3828b3b53fb2"
+}

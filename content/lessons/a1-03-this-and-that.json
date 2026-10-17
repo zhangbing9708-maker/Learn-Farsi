@@ -1,0 +1,842 @@
+{
+ "id": "a1-03-this-and-that",
+ "level": "A1",
+ "n": 3,
+ "title": "This and that: what is it?",
+ "titleFa": "این چیست؟",
+ "titleR": "in chist?",
+ "intro": "Point at anything and ask what it is. In this lesson you learn to name the things around you, to say 'a book' and 'the books', and to link words together with the ezafe – the small sound that holds Persian sentences together.",
+ "goals": [
+  "ask and say what something is: in chist? in ketāb ast",
+  "use in / ān (this / that) and injā / ānjā",
+  "make plurals with -hā",
+  "say 'a …' with yek and -i",
+  "link two nouns with the ezafe: ketāb-e Sārā"
+ ],
+ "image": "grand-bazaar-tehran",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "What is this?",
+   "context": "After class, Tom and Sara look at the things on the teacher's desk.",
+   "lines": [
+    {
+     "who": "Tom",
+     "fa": "سارا، این چیست؟",
+     "r": "Sārā, in chist?",
+     "en": "Sara, what is this?",
+     "col": "سارا، این چیه؟",
+     "colR": "Sārā, in chi-ye?",
+     "faV": "سارا، این چیست؟",
+     "a": "d42c19643280",
+     "colV": "سارا، این چیه؟",
+     "colA": "b4c435f42842"
+    },
+    {
+     "who": "Sara",
+     "fa": "این یک کتاب است. کتاب فارسی.",
+     "r": "in yek ketāb ast. ketāb-e fārsi.",
+     "en": "This is a book. A Persian book.",
+     "faV": "این یِک کِتاب اَست. کِتابِ فارسی.",
+     "a": "ef235f4075c5"
+    },
+    {
+     "who": "Tom",
+     "fa": "و آن چیست؟",
+     "r": "va ān chist?",
+     "en": "And what is that?",
+     "col": "اون چیه؟",
+     "colR": "un chi-ye?",
+     "faV": "و آن چیست؟",
+     "a": "f2731a3ad696",
+     "colV": "اون چیه؟",
+     "colA": "c9c6bb616e2d"
+    },
+    {
+     "who": "Sara",
+     "fa": "آن کیف آقای کریمی است.",
+     "r": "ān kif-e āghā-ye Karimi ast.",
+     "en": "That is Mr Karimi's bag.",
+     "faV": "آن کیفِ آقایِ کَریمی اَست.",
+     "a": "f9667ba82694"
+    },
+    {
+     "who": "Tom",
+     "fa": "این‌ها چه هستند؟",
+     "r": "in-hā che hastand?",
+     "en": "What are these?",
+     "faV": "این‌ها چه هَستَند؟",
+     "a": "591077fea974"
+    },
+    {
+     "who": "Sara",
+     "fa": "این‌ها مداد هستند. و آن‌ها خودکارند.",
+     "r": "in-hā medād hastand. va ān-hā khodkār-and.",
+     "en": "These are pencils. And those are pens.",
+     "faV": "این‌ها مِداد هَستَند. و آن‌ها خودکارَند.",
+     "a": "213fdf41605f"
+    },
+    {
+     "who": "Tom",
+     "fa": "این کلید کیست؟",
+     "r": "in kelid-e kist?",
+     "en": "Whose key is this?",
+     "faV": "این کِلیدِ کیست؟",
+     "a": "431d0791186e"
+    },
+    {
+     "who": "Sara",
+     "fa": "کلید من است. ممنون!",
+     "r": "kelid-e man ast. mamnun!",
+     "en": "It's my key. Thanks!",
+     "faV": "کِلیدِ مَن اَست. مَمنون!",
+     "a": "146dc04cb99c"
+    },
+    {
+     "who": "Tom",
+     "fa": "«پنجره» یعنی چه؟",
+     "r": "«panjare» ya'ni che?",
+     "en": "What does 'panjare' mean?",
+     "col": "«پنجره» یعنی چی؟",
+     "colR": "«panjare» ya'ni chi?",
+     "faV": "«پَنجَره» یَعنی چه؟",
+     "a": "fc6006779ea8",
+     "colV": "«پَنجَره» یَعنی چی؟",
+     "colA": "ccab9f8ab441"
+    },
+    {
+     "who": "Sara",
+     "fa": "پنجره یعنی این. و آن در است.",
+     "r": "panjare ya'ni in. va ān dar ast.",
+     "en": "Panjare means this (she points at the window). And that is a door.",
+     "faV": "پَنجَره یَعنی این. و آن دَر اَست.",
+     "a": "e2f176875484"
+    },
+    {
+     "who": "Tom",
+     "fa": "آهان! کلاس ما یک در و دو پنجره دارد.",
+     "r": "āhān! kelās-e mā yek dar o do panjare dārad.",
+     "en": "Aha! Our classroom has one door and two windows.",
+     "faV": "آهان! کِلاسِ ما یِک دَر و دو پَنجَره دارَد.",
+     "a": "03b7d69541c1"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Pointing at things",
+   "md": "[[این|in|this]] is for things near you, [[آن|ān|that]] for things further away – spoken *un*. Both work as a word on their own ([[این چیست؟|in chist?|what is this?]]) and in front of a noun ([[این کتاب|in ketāb|this book]]). The plurals are [[این‌ها|in-hā|these]] and [[آن‌ها|ān-hā|those]] – the same *ān-hā* you learned for *they*.\n\nFor places, use [[اینجا|injā|here]] and [[آنجا|ānjā|there]].\n\nThe useful question [[یعنی چه؟|ya'ni che?|what does it mean?]] and the word [[یعنی|ya'ni|it means]] will carry you through many conversations: *«ketāb» ya'ni book*. To ask for the English word, say [[به انگلیسی چه می‌شود؟|be engelisi che mi-shavad?|what does it become in English?]]."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "این",
+     "r": "in",
+     "en": "this",
+     "pos": "pron",
+     "faV": "این",
+     "a": "3b9e49d3a61f"
+    },
+    {
+     "fa": "آن",
+     "r": "ān",
+     "en": "that",
+     "pos": "pron",
+     "note": "spoken: un",
+     "faV": "آن",
+     "a": "4e10cfbf239f"
+    },
+    {
+     "fa": "اینجا",
+     "r": "injā",
+     "en": "here",
+     "pos": "adv",
+     "faV": "اینجا",
+     "a": "c8a42200720a"
+    },
+    {
+     "fa": "آنجا",
+     "r": "ānjā",
+     "en": "there",
+     "pos": "adv",
+     "note": "spoken: unjā",
+     "faV": "آنجا",
+     "a": "c872c1696034"
+    },
+    {
+     "fa": "چه",
+     "r": "che",
+     "en": "what",
+     "pos": "pron",
+     "note": "spoken: chi",
+     "faV": "چه",
+     "a": "23f3070fb222"
+    },
+    {
+     "fa": "یعنی",
+     "r": "ya'ni",
+     "en": "it means; that is",
+     "pos": "phrase",
+     "faV": "یَعنی",
+     "a": "8b1b5e4560ba"
+    },
+    {
+     "fa": "کتاب",
+     "r": "ketāb",
+     "en": "book",
+     "pos": "n",
+     "ex": {
+      "fa": "این کتاب من است.",
+      "r": "in ketāb-e man ast.",
+      "en": "This is my book.",
+      "faV": "این کِتابِ مَن اَست.",
+      "a": "c86c65d6d8e6"
+     },
+     "faV": "کِتاب",
+     "a": "ed34a49570ab"
+    },
+    {
+     "fa": "دفتر",
+     "r": "daftar",
+     "en": "notebook; office",
+     "pos": "n",
+     "faV": "دَفتَر",
+     "a": "58b3b4cc1bd1"
+    },
+    {
+     "fa": "مداد",
+     "r": "medād",
+     "en": "pencil",
+     "pos": "n",
+     "faV": "مِداد",
+     "a": "f3f72544c1ac"
+    },
+    {
+     "fa": "خودکار",
+     "r": "khodkār",
+     "en": "pen (ballpoint)",
+     "pos": "n",
+     "note": "literally 'self-working'",
+     "faV": "خودکار",
+     "a": "aaed3cdd6092"
+    },
+    {
+     "fa": "کیف",
+     "r": "kif",
+     "en": "bag",
+     "pos": "n",
+     "faV": "کیف",
+     "a": "23072f064230"
+    },
+    {
+     "fa": "کلید",
+     "r": "kelid",
+     "en": "key",
+     "pos": "n",
+     "faV": "کِلید",
+     "a": "61110d2a9f8d"
+    },
+    {
+     "fa": "میز",
+     "r": "miz",
+     "en": "table, desk",
+     "pos": "n",
+     "faV": "میز",
+     "a": "24d579c1b749"
+    },
+    {
+     "fa": "صندلی",
+     "r": "sandali",
+     "en": "chair",
+     "pos": "n",
+     "faV": "صَندَلی",
+     "a": "65c880003f8c"
+    },
+    {
+     "fa": "در",
+     "r": "dar",
+     "en": "door",
+     "pos": "n",
+     "note": "the same word as the preposition 'in'",
+     "faV": "دَر",
+     "a": "5bf04a1109e0"
+    },
+    {
+     "fa": "پنجره",
+     "r": "panjare",
+     "en": "window",
+     "pos": "n",
+     "faV": "پَنجَره",
+     "a": "274d18068312"
+    },
+    {
+     "fa": "تلفن",
+     "r": "telefon",
+     "en": "telephone",
+     "pos": "n",
+     "faV": "تِلِفُن",
+     "a": "db7732aff454"
+    },
+    {
+     "fa": "گوشی",
+     "r": "gushi",
+     "en": "mobile phone; handset",
+     "pos": "n",
+     "note": "from گوش 'ear'",
+     "faV": "گوشی",
+     "a": "f011eb2001ca"
+    },
+    {
+     "fa": "عکس",
+     "r": "aks",
+     "en": "photo",
+     "pos": "n",
+     "faV": "عَکس",
+     "a": "c589fb40e49b"
+    },
+    {
+     "fa": "چیز",
+     "r": "chiz",
+     "en": "thing",
+     "pos": "n",
+     "ex": {
+      "fa": "این چیز چیست؟",
+      "r": "in chiz chist?",
+      "en": "What is this thing?",
+      "faV": "این چیز چیست؟",
+      "a": "b61e1d711b06"
+     },
+     "faV": "چیز",
+     "a": "91ac44212e77"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Plurals: add -hā",
+   "md": "To make almost any noun plural, add [[ها|-hā]]: [[کتاب|ketāb]] → [[کتاب‌ها|ketāb-hā|books]], [[میز|miz]] → [[میزها|miz-hā|tables]]. In careful writing, *-hā* is kept slightly apart from the word with the zero-width joiner, so the letters do not run together: کتاب‌ها.\n\nTwo things make Persian plurals easy. After a number you **do not** use the plural: [[دو پنجره|do panjare|two windows]], [[سه کتاب|se ketāb|three books]]. And a plural subject that is not a person usually takes a **singular** verb in formal Persian: [[این‌ها مداد هستند|in-hā medād hastand]] is fine in speech, but you will also read [[کتاب‌ها روی میز است|ketāb-hā ru-ye miz ast|the books are on the table]].",
+   "table": {
+    "head": [
+     "Singular",
+     "Plural",
+     "After a number"
+    ],
+    "rows": [
+     [
+      "[[کتاب|ketāb]]",
+      "[[کتاب‌ها|ketāb-hā]]",
+      "[[سه کتاب|se ketāb]]"
+     ],
+     [
+      "[[صندلی|sandali]]",
+      "[[صندلی‌ها|sandali-hā]]",
+      "[[چهار صندلی|chahār sandali]]"
+     ],
+     [
+      "[[خانه|khāne]]",
+      "[[خانه‌ها|khāne-hā]]",
+      "[[دو خانه|do khāne]]"
+     ],
+     [
+      "[[دانشجو|dāneshju]]",
+      "[[دانشجوها|dāneshju-hā]]",
+      "[[پنج دانشجو|panj dāneshju]]"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "این‌ها کتاب‌های من هستند.",
+     "r": "in-hā ketāb-hā-ye man hastand.",
+     "en": "These are my books.",
+     "faV": "این‌ها کِتاب‌هایِ مَن هَستَند.",
+     "a": "1f66f1546350"
+    },
+    {
+     "fa": "کلاس ما دو پنجره دارد.",
+     "r": "kelās-e mā do panjare dārad.",
+     "en": "Our classroom has two windows.",
+     "faV": "کِلاسِ ما دو پَنجَره دارَد.",
+     "a": "07bb6c086931"
+    },
+    {
+     "fa": "دانشجوها اینجا هستند.",
+     "r": "dāneshju-hā injā hastand.",
+     "en": "The students are here.",
+     "faV": "دانِشجوها اینجا هَستَند.",
+     "a": "145cd5ff2de7"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "'A book' and 'the book'",
+   "md": "Persian has no word for *the*. A bare noun is definite or general from context: [[کتاب روی میز است|ketāb ru-ye miz ast|the book is on the table]].\n\nTo say *a* …, either put [[یک|yek|one]] before the noun, or add [[ی|-i]] to the end, or both: [[یک کتاب|yek ketāb]], [[کتابی|ketāb-i]], [[یک کتابی|yek ketāb-i]] all mean *a book*. In speech *yek* is usually *ye*: [[یه کتاب|ye ketāb]].\n\nAfter a vowel the ending needs a *y*: [[خانه‌ای|khāne-i|a house]] (written with a separate ای), [[دانشجویی|dāneshju-yi|a student]].",
+   "examples": [
+    {
+     "fa": "این یک کتاب است.",
+     "r": "in yek ketāb ast.",
+     "en": "This is a book.",
+     "col": "این یه کتابه.",
+     "colR": "in ye ketāb-e.",
+     "faV": "این یِک کِتاب اَست.",
+     "a": "1ca3a52c2b07",
+     "colV": "این یه کِتابه.",
+     "colA": "f067a0202351"
+    },
+    {
+     "fa": "کتابی روی میز است.",
+     "r": "ketāb-i ru-ye miz ast.",
+     "en": "There is a book on the table.",
+     "faV": "کِتابی رویِ میز اَست.",
+     "a": "a64b1553ab02"
+    },
+    {
+     "fa": "کتاب روی میز است.",
+     "r": "ketāb ru-ye miz ast.",
+     "en": "The book is on the table.",
+     "faV": "کِتاب رویِ میز اَست.",
+     "a": "dfe76f4afc42"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The ezafe: linking words together",
+   "md": "The **ezafe** ([[اضافه|ezāfe|addition]]) is an unstressed **-e** that links a noun to whatever describes or owns it. The owner or description comes **after** the noun: [[کتاب سارا|ketāb-e Sārā|Sara's book]], [[کیف آقای کریمی|kif-e āghā-ye Karimi|Mr Karimi's bag]], [[کلاس ما|kelās-e mā|our class]], [[کتاب فارسی|ketāb-e fārsi|a Persian book]].\n\nAfter a consonant the ezafe is **not written** – you simply say it. After a vowel it is written as [[ی|-ye]]: [[خانه‌ی سارا|khāne-ye Sārā|Sara's house]], [[آقای کریمی|āghā-ye Karimi|Mr Karimi]], [[دانشجوی خوب|dāneshju-ye khub|a good student]].\n\nLinks can chain: [[کلید در کلاس ما|kelid-e dar-e kelās-e mā|the key of the door of our classroom]].",
+   "table": {
+    "head": [
+     "Persian",
+     "Reading",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[کتاب من|ketāb-e man]]",
+      "ketāb-**e** man",
+      "my book"
+     ],
+     [
+      "[[کیف سارا|kif-e Sārā]]",
+      "kif-**e** Sārā",
+      "Sara's bag"
+     ],
+     [
+      "[[خانه‌ی تام|khāne-ye Tām]]",
+      "khāne-**ye** Tām",
+      "Tom's house"
+     ],
+     [
+      "[[معلم فارسی|mo'allem-e fārsi]]",
+      "mo'allem-**e** fārsi",
+      "the Persian teacher"
+     ],
+     [
+      "[[در کلاس|dar-e kelās]]",
+      "dar-**e** kelās",
+      "the classroom door"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "این کیف لیلا است.",
+     "r": "in kif-e Leylā ast.",
+     "en": "This is Leila's bag.",
+     "faV": "این کیفِ لَیلا اَست.",
+     "a": "db48cbe45707"
+    },
+    {
+     "fa": "آن گوشی امیر است.",
+     "r": "ān gushi-ye Amir ast.",
+     "en": "That is Amir's phone.",
+     "faV": "آن گوشیِ اَمیر اَست.",
+     "a": "ba1f52510d7f"
+    },
+    {
+     "fa": "این کلید کیست؟",
+     "r": "in kelid-e kist?",
+     "en": "Whose key is this?",
+     "faV": "این کِلیدِ کیست؟",
+     "a": "431d0791186e"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Our classroom",
+   "intro": "Sara describes the classroom.",
+   "sentences": [
+    {
+     "fa": "این کلاس ماست.",
+     "r": "in kelās-e mā-st.",
+     "en": "This is our classroom.",
+     "faV": "این کِلاسِ ماست.",
+     "a": "b10475660f72"
+    },
+    {
+     "fa": "کلاس ما بزرگ است.",
+     "r": "kelās-e mā bozorg ast.",
+     "en": "Our classroom is big.",
+     "faV": "کِلاسِ ما بُزُرگ اَست.",
+     "a": "1b64afdc98f4"
+    },
+    {
+     "fa": "یک در و دو پنجره دارد.",
+     "r": "yek dar o do panjare dārad.",
+     "en": "It has one door and two windows.",
+     "faV": "یِک دَر و دو پَنجَره دارَد.",
+     "a": "6dba913693f2"
+    },
+    {
+     "fa": "این میز آقای کریمی است.",
+     "r": "in miz-e āghā-ye Karimi ast.",
+     "en": "This is Mr Karimi's desk.",
+     "faV": "این میزِ آقایِ کَریمی اَست.",
+     "a": "3b42b016e5b8"
+    },
+    {
+     "fa": "روی میز یک کتاب، یک دفتر و یک تلفن است.",
+     "r": "ru-ye miz yek ketāb, yek daftar o yek telefon ast.",
+     "en": "On the desk there is a book, a notebook and a telephone.",
+     "faV": "رویِ میز یِک کِتاب، یِک دَفتَر و یِک تِلِفُن اَست.",
+     "a": "827afb6ddaec"
+    },
+    {
+     "fa": "آن‌ها صندلی‌های دانشجوها هستند.",
+     "r": "ān-hā sandali-hā-ye dāneshju-hā hastand.",
+     "en": "Those are the students' chairs.",
+     "faV": "آن‌ها صَندَلی‌هایِ دانِشجوها هَستَند.",
+     "a": "b41af306674d"
+    },
+    {
+     "fa": "کیف من اینجا نیست. کیف من کجاست؟",
+     "r": "kif-e man injā nist. kif-e man kojā-st?",
+     "en": "My bag is not here. Where is my bag?",
+     "faV": "کیفِ مَن اینجا نیست. کیفِ مَن کُجاست؟",
+     "a": "5ecf1c025a25"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How many windows does the classroom have?",
+     "options": [
+      "one",
+      "two",
+      "three"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Whose desk is it?",
+     "options": [
+      "Sara's",
+      "Tom's",
+      "Mr Karimi's"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What is NOT on the desk?",
+     "options": [
+      "a book",
+      "a key",
+      "a telephone"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "The bazaar: where everything has a name",
+   "md": "The best place to practise *in chist?* is a bazaar. Every Iranian city has one – Tehran's [[بازار بزرگ|bāzār-e bozorg|Grand Bazaar]] is a roofed town of its own, with lanes for copper, carpets, spices, gold and paper. Shopkeepers are used to foreigners pointing and asking; many will tell you the word, make you repeat it, and offer tea.\n\nThe English word *bazaar* is itself Persian ([[بازار|bāzār]]), one of a long list of words that travelled west – you will meet the others in the advanced course.",
+   "image": "tabriz-bazaar"
+  },
+  {
+   "type": "tips",
+   "title": "Watch out",
+   "items": [
+    "**در** is two words in one spelling: *dar* 'in' and *dar* 'door'. Context always tells you which: *dar kelās* (in the class) vs *dar-e kelās* (the class door).",
+    "Learn each noun with its ezafe habit: after a final **-e** (خانه) or **-ā/-u/-i** the link sounds *-ye* and is written ی.",
+    "Spoken Persian turns **ān** into **un** everywhere: *un, unjā, un-hā*. Written Persian keeps **ān**.",
+    "Don't translate *the*. Say the bare noun and let context do the work."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the objects",
+   "items": [
+    {
+     "fa": "کتاب",
+     "r": "ketāb",
+     "en": "book",
+     "faV": "کِتاب",
+     "a": "ed34a49570ab"
+    },
+    {
+     "fa": "میز",
+     "r": "miz",
+     "en": "table",
+     "faV": "میز",
+     "a": "24d579c1b749"
+    },
+    {
+     "fa": "صندلی",
+     "r": "sandali",
+     "en": "chair",
+     "faV": "صَندَلی",
+     "a": "65c880003f8c"
+    },
+    {
+     "fa": "پنجره",
+     "r": "panjare",
+     "en": "window",
+     "faV": "پَنجَره",
+     "a": "274d18068312"
+    },
+    {
+     "fa": "کلید",
+     "r": "kelid",
+     "en": "key",
+     "faV": "کِلید",
+     "a": "61110d2a9f8d"
+    },
+    {
+     "fa": "کیف",
+     "r": "kif",
+     "en": "bag",
+     "faV": "کیف",
+     "a": "23072f064230"
+    },
+    {
+     "fa": "خودکار",
+     "r": "khodkār",
+     "en": "pen",
+     "faV": "خودکار",
+     "a": "aaed3cdd6092"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right answer",
+   "items": [
+    {
+     "q": "'Sara's book' is…",
+     "options": [
+      "سارا کتاب",
+      "کتاب سارا",
+      "کتاب‌ها سارا"
+     ],
+     "answer": 1,
+     "explain": "The owner follows the noun with the ezafe: ketāb-e Sārā."
+    },
+    {
+     "q": "Which is the plural of میز?",
+     "options": [
+      "میزان",
+      "میزها",
+      "میزی"
+     ],
+     "answer": 1,
+     "explain": "-hā makes the plural: miz-hā."
+    },
+    {
+     "q": "'Three books' is…",
+     "options": [
+      "سه کتاب",
+      "سه کتاب‌ها",
+      "کتاب سه"
+     ],
+     "answer": 0,
+     "explain": "After a number the noun stays singular."
+    },
+    {
+     "q": "How do you say 'Tom's house'?",
+     "options": [
+      "خانه تام",
+      "خانه‌ی تام",
+      "تام خانه"
+     ],
+     "answer": 1,
+     "explain": "After the vowel -e, the ezafe is written ی: khāne-ye Tām."
+    },
+    {
+     "q": "'What is this?' in spoken Persian is…",
+     "options": [
+      "این چیست؟",
+      "این چیه؟",
+      "این کیه؟"
+     ],
+     "answer": 1,
+     "explain": "chist becomes chi-ye in speech; ki-ye asks 'who is it?'."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {
+     "fa": "این ___؟",
+     "r": "in ___?",
+     "en": "What is this?",
+     "answer": "چیست",
+     "hint": "what is"
+    },
+    {
+     "fa": "آن کیف ___ کریمی است.",
+     "r": "ān kif-e ___ Karimi ast.",
+     "en": "That is Mr Karimi's bag.",
+     "answer": "آقای",
+     "hint": "Mr (with ezafe)"
+    },
+    {
+     "fa": "این‌ها ___ من هستند.",
+     "r": "in-hā ___ man hastand.",
+     "en": "These are my books.",
+     "answer": "کتاب‌های",
+     "hint": "books (plural + ezafe)"
+    },
+    {
+     "fa": "کلاس ما ___ پنجره دارد.",
+     "r": "kelās-e mā ___ panjare dārad.",
+     "en": "Our classroom has two windows.",
+     "answer": "دو",
+     "hint": "two"
+    },
+    {
+     "fa": "«پنجره» ___ چه؟",
+     "r": "«panjare» ___ che?",
+     "en": "What does 'panjare' mean?",
+     "answer": "یعنی",
+     "hint": "it means"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "این کتاب فارسی است.",
+     "r": "in ketāb-e fārsi ast.",
+     "en": "This is a Persian book.",
+     "faV": "این کِتابِ فارسی اَست.",
+     "a": "36d0f7f37302"
+    },
+    {
+     "fa": "آن گوشی امیر است.",
+     "r": "ān gushi-ye Amir ast.",
+     "en": "That is Amir's phone.",
+     "faV": "آن گوشیِ اَمیر اَست.",
+     "a": "ba1f52510d7f"
+    },
+    {
+     "fa": "کیف من کجاست؟",
+     "r": "kif-e man kojā-st?",
+     "en": "Where is my bag?",
+     "faV": "کیفِ مَن کُجاست؟",
+     "a": "0291b17bd6bf"
+    },
+    {
+     "fa": "این‌ها صندلی‌های کلاس هستند.",
+     "r": "in-hā sandali-hā-ye kelās hastand.",
+     "en": "These are the classroom chairs.",
+     "faV": "این‌ها صَندَلی‌هایِ کِلاس هَستَند.",
+     "a": "685db28fed45"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "این کلید من است.",
+     "r": "in kelid-e man ast.",
+     "en": "This is my key.",
+     "options": [
+      "This is my key.",
+      "This is my bag.",
+      "This is my book."
+     ],
+     "answer": 0,
+     "faV": "این کِلیدِ مَن اَست.",
+     "a": "5870e0743621"
+    },
+    {
+     "fa": "آن‌ها مداد هستند.",
+     "r": "ān-hā medād hastand.",
+     "en": "Those are pencils.",
+     "options": [
+      "Those are pens.",
+      "Those are pencils.",
+      "Those are chairs."
+     ],
+     "answer": 1,
+     "faV": "آن‌ها مِداد هَستَند.",
+     "a": "6a560a7d51f5"
+    },
+    {
+     "fa": "پنجره آنجاست.",
+     "r": "panjare ānjā-st.",
+     "en": "The window is there.",
+     "options": [
+      "The window is here.",
+      "The door is there.",
+      "The window is there."
+     ],
+     "answer": 2,
+     "faV": "پَنجَره آنجاست.",
+     "a": "f9c22e02cff4"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "What is that? That is a notebook.",
+     "fa": "آن چیست؟ آن یک دفتر است.",
+     "r": "ān chist? ān yek daftar ast.",
+     "faV": "آن چیست؟ آن یِک دَفتَر اَست.",
+     "a": "5e5de12e600b"
+    },
+    {
+     "en": "This is Leila's bag.",
+     "fa": "این کیف لیلا است.",
+     "r": "in kif-e Leylā ast.",
+     "faV": "این کیفِ لَیلا اَست.",
+     "a": "db48cbe45707"
+    },
+    {
+     "en": "These are the students' books.",
+     "fa": "این‌ها کتاب‌های دانشجوها هستند.",
+     "r": "in-hā ketāb-hā-ye dāneshju-hā hastand.",
+     "faV": "این‌ها کِتاب‌هایِ دانِشجوها هَستَند.",
+     "a": "170224c58a29"
+    },
+    {
+     "en": "Whose phone is this?",
+     "fa": "این گوشی کیست؟",
+     "r": "in gushi-ye kist?",
+     "faV": "این گوشیِ کیست؟",
+     "a": "9867da2fdc39"
+    }
+   ]
+  }
+ ],
+ "titleV": "این چیست؟",
+ "titleA": "f01607d851ba"
+}

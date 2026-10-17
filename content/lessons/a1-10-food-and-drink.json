@@ -1,0 +1,919 @@
+{
+ "id": "a1-10-food-and-drink",
+ "level": "A1",
+ "n": 10,
+ "title": "Food and drink: ordering and liking",
+ "titleFa": "خوراک و نوشیدنی",
+ "titleR": "khorāk o nushidani",
+ "intro": "Persian food is one of the great pleasures of learning the language – and one of the easiest things to talk about. In this lesson you order in a restaurant and a café, ask for the bill, and say what you like and dislike with the verb dust dāshtan. Along the way you meet the dishes you will see on every menu in Iran.",
+ "goals": [
+  "order food and drink politely with lotfan and … bedahid",
+  "say what you like and don't like with dust dāshtan",
+  "say what you want with mi-khāham + noun",
+  "ask for the price and the bill",
+  "name the main Iranian dishes and drinks"
+ ],
+ "image": "chelow-kabab",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "At a kababi in Tehran",
+   "context": "Sara and Tom have lunch at a kababi (a kebab restaurant). The waiter takes their order.",
+   "lines": [
+    {
+     "who": "Waiter",
+     "fa": "سلام، خوش آمدید. بفرمایید.",
+     "r": "salām, khosh āmadid. befarmāyid.",
+     "en": "Hello, welcome. Please (what would you like?).",
+     "faV": "سَلام، خوش آمَدید. بِفَرمایید.",
+     "a": "1c14a0b0d823"
+    },
+    {
+     "who": "Sara",
+     "fa": "سلام. یک چلوکباب کوبیده لطفاً.",
+     "r": "salām. yek chelow-kabāb-e kubide lotfan.",
+     "en": "Hello. One chelow kabab koobideh, please.",
+     "faV": "سَلام. یِک چِلَوکَبابِ کوبیده لُطفاً.",
+     "a": "7b71256ea560"
+    },
+    {
+     "who": "Waiter",
+     "fa": "با نوشیدنی؟",
+     "r": "bā nushidani?",
+     "en": "With a drink?",
+     "faV": "با نوشیدَنی؟",
+     "a": "ebcf0147e221"
+    },
+    {
+     "who": "Sara",
+     "fa": "بله، یک دوغ.",
+     "r": "bale, yek dugh.",
+     "en": "Yes, one doogh.",
+     "faV": "بَله، یِک دوغ.",
+     "a": "d21c899c8172"
+    },
+    {
+     "who": "Waiter",
+     "fa": "شما چه می‌خواهید؟",
+     "r": "shomā che mi-khāhid?",
+     "en": "What would you like?",
+     "col": "شما چی می‌خواین؟",
+     "colR": "shomā chi mi-khāyn?",
+     "faV": "شُما چه می‌خواهید؟",
+     "a": "978c9ca934e8",
+     "colV": "شُما چی می‌خواین؟",
+     "colA": "4768884f6de5"
+    },
+    {
+     "who": "Tom",
+     "fa": "من کباب نمی‌خورم. غذای بدون گوشت دارید؟",
+     "r": "man kabāb nemi-khoram. ghazā-ye bedun-e gusht dārid?",
+     "en": "I don't eat kebab. Do you have food without meat?",
+     "faV": "مَن کَباب نِمی‌خورَم. غَذایِ بِدونِ گوشت دارید؟",
+     "a": "4aca88215dc4"
+    },
+    {
+     "who": "Waiter",
+     "fa": "بله. کشک بادمجان و میرزاقاسمی داریم. با نان یا با برنج؟",
+     "r": "bale. kashk-e bādemjān o mirzā-ghāsemi dārim. bā nān yā bā berenj?",
+     "en": "Yes. We have kashk-e bademjan and mirza ghasemi. With bread or with rice?",
+     "faV": "بَله. کَشکِ بادِمجان و میرزاقاسِمی داریم. با نان یا با بِرِنج؟",
+     "a": "60440a1eeed0"
+    },
+    {
+     "who": "Tom",
+     "fa": "میرزاقاسمی با نان، لطفاً. و یک نوشابه.",
+     "r": "mirzā-ghāsemi bā nān, lotfan. va yek nushābe.",
+     "en": "Mirza ghasemi with bread, please. And one soft drink.",
+     "faV": "میرزاقاسِمی با نان، لُطفاً. و یِک نوشابه.",
+     "a": "16f58ddc02cc"
+    },
+    {
+     "who": "Waiter",
+     "fa": "سالاد هم می‌خواهید؟",
+     "r": "sālād ham mi-khāhid?",
+     "en": "Do you want salad too?",
+     "faV": "سالاد هَم می‌خواهید؟",
+     "a": "8a36d1048641"
+    },
+    {
+     "who": "Sara",
+     "fa": "بله، یک سالاد شیرازی برای دو نفر.",
+     "r": "bale, yek sālād-e shirāzi barā-ye do nafar.",
+     "en": "Yes, one Shirazi salad for two people.",
+     "faV": "بَله، یِک سالادِ شیرازی بَرایِ دو نَفَر.",
+     "a": "8a2230aedc5c"
+    },
+    {
+     "who": "Waiter",
+     "fa": "چشم. نوش جان!",
+     "r": "chashm. nush-e jān!",
+     "en": "Certainly. Enjoy!",
+     "faV": "چَشم. نوشِ جان!",
+     "a": "2028d222ed09"
+    },
+    {
+     "who": "Tom",
+     "fa": "ببخشید، صورت‌حساب لطفاً. چقدر شد؟",
+     "r": "bebakhshid, surat-hesāb lotfan. cheghadr shod?",
+     "en": "Excuse me, the bill please. How much is it?",
+     "col": "ببخشید، صورت‌حساب لطفاً. چقدر شد؟",
+     "colR": "bebakhshid, surat-hesāb lotfan. cheghadr shod?",
+     "faV": "بِبَخشید، صورَت‌حِساب لُطفاً. چِقَدر شُد؟",
+     "a": "996dc0737a9d",
+     "colV": "بِبَخشید، صورَت‌حِساب لُطفاً. چِقَدر شُد؟",
+     "colA": "996dc0737a9d"
+    },
+    {
+     "who": "Waiter",
+     "fa": "سیصد و بیست هزار تومان.",
+     "r": "sisad o bist hezār tumān.",
+     "en": "Three hundred and twenty thousand tomans.",
+     "faV": "سیصَد و بیست هِزار تومان.",
+     "a": "ec07389804d0"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Three ways to ask for something",
+   "md": "The simplest order is the thing plus [[لطفاً|lotfan|please]]: [[یک چای لطفاً|yek chāy lotfan]]. Adding a polite verb makes it fuller: [[یک چای بدهید|yek chāy bedahid|give (me) a tea]] – *bedahid* is the polite command 'give', and Iranians use it constantly in shops and cafés. Thirdly, you can say what you want: [[یک چای می‌خواهم|yek chāy mi-khāham|I want a tea]].\n\nThe waiter's two words are worth learning now: [[بفرمایید|befarmāyid]] (here: *go ahead, what would you like?*) and [[چشم|chashm]], literally *eye*, meaning *certainly, at once* – the standard way of saying yes to a request.\n\nFor 'how much did it come to?' Persian uses the past tense: [[چقدر شد؟|cheghadr shod?|how much did it become?]]"
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "غذا",
+     "r": "ghazā",
+     "en": "food, a meal",
+     "pos": "n",
+     "ex": {
+      "fa": "غذای ایرانی خیلی خوب است.",
+      "r": "ghazā-ye irāni kheyli khub ast.",
+      "en": "Iranian food is very good.",
+      "faV": "غَذایِ ایرانی خَیلی خوب اَست.",
+      "a": "0788f60a411d"
+     },
+     "faV": "غَذا",
+     "a": "5f0123156397"
+    },
+    {
+     "fa": "نان",
+     "r": "nān",
+     "en": "bread",
+     "pos": "n",
+     "note": "spoken: nun",
+     "faV": "نان",
+     "a": "9787c0c0fc1e"
+    },
+    {
+     "fa": "برنج",
+     "r": "berenj",
+     "en": "rice (uncooked)",
+     "pos": "n",
+     "note": "cooked rice on the plate is پلو polo or چلو chelow",
+     "faV": "بِرِنج",
+     "a": "1df26caba216"
+    },
+    {
+     "fa": "گوشت",
+     "r": "gusht",
+     "en": "meat",
+     "pos": "n",
+     "faV": "گوشت",
+     "a": "31e3f1834092"
+    },
+    {
+     "fa": "مرغ",
+     "r": "morgh",
+     "en": "chicken; hen",
+     "pos": "n",
+     "faV": "مُرغ",
+     "a": "fecd7ca0b1be"
+    },
+    {
+     "fa": "ماهی",
+     "r": "māhi",
+     "en": "fish",
+     "pos": "n",
+     "faV": "ماهی",
+     "a": "dd4f563e93ae"
+    },
+    {
+     "fa": "سبزی",
+     "r": "sabzi",
+     "en": "herbs, greens; vegetables",
+     "pos": "n",
+     "faV": "سَبزی",
+     "a": "f72deaeaf822"
+    },
+    {
+     "fa": "سالاد",
+     "r": "sālād",
+     "en": "salad",
+     "pos": "n",
+     "faV": "سالاد",
+     "a": "3b66283197cb"
+    },
+    {
+     "fa": "میوه",
+     "r": "mive",
+     "en": "fruit",
+     "pos": "n",
+     "faV": "میوه",
+     "a": "ea3dde5c87a9"
+    },
+    {
+     "fa": "پنیر",
+     "r": "panir",
+     "en": "cheese",
+     "pos": "n",
+     "faV": "پَنیر",
+     "a": "8c5b0504a445"
+    },
+    {
+     "fa": "تخم‌مرغ",
+     "r": "tokhm-e-morgh",
+     "en": "egg",
+     "pos": "n",
+     "note": "literally 'hen's egg'",
+     "faV": "تُخمِ‌مُرغ",
+     "a": "0d7a94e9d1ce"
+    },
+    {
+     "fa": "چای",
+     "r": "chāy",
+     "en": "tea",
+     "pos": "n",
+     "faV": "چای",
+     "a": "0f9abd5af4a8"
+    },
+    {
+     "fa": "قهوه",
+     "r": "ghahve",
+     "en": "coffee",
+     "pos": "n",
+     "faV": "قَهوه",
+     "a": "5c539131b98e"
+    },
+    {
+     "fa": "آب",
+     "r": "āb",
+     "en": "water",
+     "pos": "n",
+     "faV": "آب",
+     "a": "1c5141e4daf8"
+    },
+    {
+     "fa": "دوغ",
+     "r": "dugh",
+     "en": "doogh (a salty yoghurt drink, often with mint)",
+     "pos": "n",
+     "faV": "دوغ",
+     "a": "95cc5efa5903"
+    },
+    {
+     "fa": "نوشابه",
+     "r": "nushābe",
+     "en": "soft drink, fizzy drink",
+     "pos": "n",
+     "faV": "نوشابه",
+     "a": "129054ed9a82"
+    },
+    {
+     "fa": "آب‌میوه",
+     "r": "āb-mive",
+     "en": "fruit juice",
+     "pos": "n",
+     "note": "literally 'fruit water'",
+     "faV": "آب‌میوه",
+     "a": "6b18da93b5b9"
+    },
+    {
+     "fa": "خوردن",
+     "r": "khordan",
+     "en": "to eat; to drink",
+     "pos": "v",
+     "note": "stem khor-; Persian 'eats' tea and water too",
+     "ex": {
+      "fa": "من صبح چای می‌خورم.",
+      "r": "man sobh chāy mi-khoram.",
+      "en": "I drink tea in the morning.",
+      "faV": "مَن صُبح چای می‌خورَم.",
+      "a": "7b843a354901"
+     },
+     "faV": "خوردَن",
+     "a": "bfeb0a9e4b76"
+    },
+    {
+     "fa": "دوست داشتن",
+     "r": "dust dāshtan",
+     "en": "to like, to love",
+     "pos": "v",
+     "ex": {
+      "fa": "من قورمه‌سبزی دوست دارم.",
+      "r": "man ghorme-sabzi dust dāram.",
+      "en": "I like ghormeh sabzi.",
+      "faV": "مَن قورمه‌سَبزی دوست دارَم.",
+      "a": "8772a7c97589"
+     },
+     "faV": "دوست داشتَن",
+     "a": "2cb9c997882a"
+    },
+    {
+     "fa": "خواستن",
+     "r": "khāstan",
+     "en": "to want",
+     "pos": "v",
+     "note": "stem khāh-: mi-khāham",
+     "ex": {
+      "fa": "یک آب‌میوه می‌خواهم.",
+      "r": "yek āb-mive mi-khāham.",
+      "en": "I want a fruit juice.",
+      "faV": "یِک آب‌میوه می‌خواهَم.",
+      "a": "f1f39e87efe7"
+     },
+     "faV": "خواستَن",
+     "a": "2112d69f9f58"
+    },
+    {
+     "fa": "گرسنه",
+     "r": "gorosne",
+     "en": "hungry",
+     "pos": "adj",
+     "ex": {
+      "fa": "من گرسنه‌ام.",
+      "r": "man gorosne-am.",
+      "en": "I am hungry.",
+      "faV": "مَن گُرُسنه‌اَم.",
+      "a": "196ca868d483"
+     },
+     "faV": "گُرُسنه",
+     "a": "490e2629fd98"
+    },
+    {
+     "fa": "تشنه",
+     "r": "teshne",
+     "en": "thirsty",
+     "pos": "adj",
+     "faV": "تِشنه",
+     "a": "5348b52700fb"
+    },
+    {
+     "fa": "خوشمزه",
+     "r": "khosh-maze",
+     "en": "delicious",
+     "pos": "adj",
+     "note": "literally 'good-taste'",
+     "faV": "خوشمَزه",
+     "a": "5a70f0c2a07e"
+    },
+    {
+     "fa": "صورت‌حساب",
+     "r": "surat-hesāb",
+     "en": "the bill",
+     "pos": "n",
+     "faV": "صورَت‌حِساب",
+     "a": "a44bc0b90f87"
+    },
+    {
+     "fa": "رستوران",
+     "r": "resturān",
+     "en": "restaurant",
+     "pos": "n",
+     "faV": "رِستوران",
+     "a": "254d54abf2ec"
+    },
+    {
+     "fa": "کافه",
+     "r": "kāfe",
+     "en": "café",
+     "pos": "n",
+     "faV": "کافه",
+     "a": "4e4994e07e3b"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "I like / I don't like: dust dāshtan",
+   "md": "*To like* is a two-word verb: [[دوست|dust|friend]] plus [[داشتن|dāshtan|to have]]. Only *dāshtan* changes; *dust* stays. The thing you like goes before *dust*: [[من چای دوست دارم|man chāy dust dāram|I like tea]]. The negative is [[دوست ندارم|dust na-dāram]].\n\nTo like doing something, put the verb in its *-an* form (the infinitive) in the same slot: [[من خوردن دوست دارم|man khordan dust dāram|I like eating]].\n\nA stronger word for love is [[عاشق … بودن|āshegh-e … budan|to be in love with]]: [[من عاشق فسنجانم|man āshegh-e fesenjān-am|I love fesenjan]]. Iranians use it for food without blushing.",
+   "table": {
+    "head": [
+     "Persian",
+     "Reading",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[من دوغ دوست دارم.|man dugh dust dāram.]]",
+      "man dugh dust dāram.",
+      "I like doogh."
+     ],
+     [
+      "[[تو قهوه دوست داری؟|to ghahve dust dāri?]]",
+      "to ghahve dust dāri?",
+      "Do you like coffee?"
+     ],
+     [
+      "[[او ماهی دوست ندارد.|u māhi dust na-dārad.]]",
+      "u māhi dust na-dārad.",
+      "She doesn't like fish."
+     ],
+     [
+      "[[ما غذای تند دوست داریم.|mā ghazā-ye tond dust dārim.]]",
+      "mā ghazā-ye tond dust dārim.",
+      "We like spicy food."
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "کباب دوست داری؟",
+     "r": "kabāb dust dāri?",
+     "en": "Do you like kebab?",
+     "faV": "کَباب دوست داری؟",
+     "a": "76aaa6be5515"
+    },
+    {
+     "fa": "بله، خیلی دوست دارم.",
+     "r": "bale, kheyli dust dāram.",
+     "en": "Yes, I like it a lot.",
+     "faV": "بَله، خَیلی دوست دارَم.",
+     "a": "abb1ffa4b481"
+    },
+    {
+     "fa": "من گوشت دوست ندارم. سبزی دوست دارم.",
+     "r": "man gusht dust na-dāram. sabzi dust dāram.",
+     "en": "I don't like meat. I like vegetables.",
+     "faV": "مَن گوشت دوست نَدارَم. سَبزی دوست دارَم.",
+     "a": "ec90a8b58545"
+    },
+    {
+     "fa": "تام عاشق چای ایرانی است.",
+     "r": "Tām āshegh-e chāy-e irāni ast.",
+     "en": "Tom loves Iranian tea.",
+     "col": "تام عاشق چای ایرانیه.",
+     "colR": "Tām āshegh-e chāy-e irāni-ye.",
+     "faV": "تام عاشِقِ چایِ ایرانی اَست.",
+     "a": "d295c6dcebd2",
+     "colV": "تام عاشِقِ چایِ ایرانیه.",
+     "colA": "5debbcd2e280"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "I want … : khāstan, and polite orders",
+   "md": "[[خواستن|khāstan|to want]] has the stem **khāh-**, so *I want* is [[می‌خواهم|mi-khāham]] (spoken: *mi-khām*). With a noun it is a complete order: [[یک قهوه می‌خواهم|yek ghahve mi-khāham|I want a coffee]]. Ask the other person with [[چه می‌خواهید؟|che mi-khāhid?|what do you want?]]\n\nThe polite 'give me' is [[بدهید|bedahid]] (spoken *bedid*): [[یک نان بدهید|yek nān bedahid|give me one bread]]. You will learn how such command forms are built in lesson 16; for now use *bedahid* as a fixed word. Note the word order: **thing + lotfan / bedahid / mi-khāham** – the verb is always last.",
+   "table": {
+    "head": [
+     "Persian",
+     "Reading",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[می‌خواهم|mi-khāham]]",
+      "mi-khāham",
+      "I want"
+     ],
+     [
+      "[[می‌خواهی|mi-khāhi]]",
+      "mi-khāhi",
+      "you want (friend)"
+     ],
+     [
+      "[[می‌خواهد|mi-khāhad]]",
+      "mi-khāhad",
+      "he / she wants"
+     ],
+     [
+      "[[می‌خواهیم|mi-khāhim]]",
+      "mi-khāhim",
+      "we want"
+     ],
+     [
+      "[[می‌خواهید|mi-khāhid]]",
+      "mi-khāhid",
+      "you want (polite)"
+     ],
+     [
+      "[[می‌خواهند|mi-khāhand]]",
+      "mi-khāhand",
+      "they want"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "دو تا چای بدهید، لطفاً.",
+     "r": "do tā chāy bedahid, lotfan.",
+     "en": "Give us two teas, please.",
+     "col": "دو تا چای بدین، لطفاً.",
+     "colR": "do tā chāy bedin, lotfan.",
+     "faV": "دو تا چای بِدَهید، لُطفاً.",
+     "a": "2529de654ca7",
+     "colV": "دو تا چای بِدین، لُطفاً.",
+     "colA": "4ea328d43c61"
+    },
+    {
+     "fa": "من آب می‌خواهم، نوشابه نمی‌خواهم.",
+     "r": "man āb mi-khāham, nushābe nemi-khāham.",
+     "en": "I want water, I don't want a soft drink.",
+     "faV": "مَن آب می‌خواهَم، نوشابه نِمی‌خواهَم.",
+     "a": "45256874ff8b"
+    },
+    {
+     "fa": "چه می‌خواهید؟ یک سالاد، لطفاً.",
+     "r": "che mi-khāhid? yek sālād, lotfan.",
+     "en": "What would you like? A salad, please.",
+     "faV": "چه می‌خواهید؟ یِک سالاد، لُطفاً.",
+     "a": "3f2e57ecc313"
+    },
+    {
+     "fa": "منو را بدهید، لطفاً.",
+     "r": "menu rā bedahid, lotfan.",
+     "en": "Give me the menu, please.",
+     "faV": "مِنو را بِدَهید، لُطفاً.",
+     "a": "0d58c999db41"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Breakfast at Reza's house",
+   "intro": "A typical Iranian breakfast. Read and answer the questions.",
+   "sentences": [
+    {
+     "fa": "صبح است و خانواده‌ی رضا صبحانه می‌خورند.",
+     "r": "sobh ast o khānevāde-ye Rezā sobhāne mi-khorand.",
+     "en": "It is morning and Reza's family are having breakfast.",
+     "faV": "صُبح اَست و خانِواده‌یِ رِضا صُبحانه می‌خورَند.",
+     "a": "615b13720b36"
+    },
+    {
+     "fa": "روی میز نان سنگک، پنیر، گردو و مربا است.",
+     "r": "ru-ye miz nān-e sangak, panir, gerdu o morabbā ast.",
+     "en": "On the table there is sangak bread, cheese, walnuts and jam.",
+     "faV": "رویِ میز نانِ سَنگَک، پَنیر، گِردو و مُرَبّا اَست.",
+     "a": "472f145dacfc"
+    },
+    {
+     "fa": "رضا نان و پنیر دوست دارد.",
+     "r": "Rezā nān o panir dust dārad.",
+     "en": "Reza likes bread and cheese.",
+     "faV": "رِضا نان و پَنیر دوست دارَد.",
+     "a": "db61173e8266"
+    },
+    {
+     "fa": "خواهرش تخم‌مرغ می‌خواهد.",
+     "r": "khāhar-ash tokhm-e-morgh mi-khāhad.",
+     "en": "His sister wants an egg.",
+     "faV": "خواهَرَش تُخمِ‌مُرغ می‌خواهَد.",
+     "a": "00701a7f1e64"
+    },
+    {
+     "fa": "همه چای می‌خورند، اما مادر قهوه دوست دارد.",
+     "r": "hame chāy mi-khorand, ammā mādar ghahve dust dārad.",
+     "en": "Everyone drinks tea, but mother likes coffee.",
+     "faV": "هَمه چای می‌خورَند، اَمّا مادَر قَهوه دوست دارَد.",
+     "a": "e182b4927a91"
+    },
+    {
+     "fa": "پدر می‌گوید: «نوش جان!»",
+     "r": "pedar mi-guyad: «nush-e jān!»",
+     "en": "Father says: \"Enjoy!\"",
+     "faV": "پِدَر می‌گویَد: «نوشِ جان!»",
+     "a": "33c905875c5f"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What kind of bread is on the table?",
+     "options": [
+      "lavash",
+      "sangak",
+      "barbari"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Who wants an egg?",
+     "options": [
+      "Reza",
+      "his sister",
+      "his father"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What does the mother like?",
+     "options": [
+      "tea",
+      "doogh",
+      "coffee"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "What is on the menu",
+   "md": "The national dish is [[چلوکباب|chelow-kabāb]]: steamed rice ([[چلو|chelow]]) with grilled meat. [[کوبیده|kubide]] is minced lamb, [[برگ|barg]] is a fillet, [[جوجه کباب|juje kabāb]] is chicken. It comes with a grilled tomato, a pat of butter, raw onion, and a shaker of [[سماق|somāgh|sumac]] – the dark red powder you sprinkle over the meat.\n\nThe great home dishes are the [[خورش|khoresh|stews]] eaten over rice: [[قورمه‌سبزی|ghorme-sabzi]] (herbs, beans and dried limes), [[قیمه|gheyme]] (split peas, tomato, fried potatoes) and [[فسنجان|fesenjān]] (walnut and pomegranate). Vegetarians look for [[کشک بادمجان|kashk-e bādemjān]] (aubergine with whey) and [[میرزاقاسمی|mirzā-ghāsemi]] (smoked aubergine, tomato and egg, from the Caspian coast).\n\nTo drink: [[دوغ|dugh]], the salty yoghurt drink that goes with kebab, and endless [[چای|chāy]]. The salad is almost always [[سالاد شیرازی|sālād-e shirāzi]] – cucumber, tomato and onion in lime juice.",
+   "image": "ghormeh-sabzi"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "Persian has one verb, **khordan**, for eating and drinking: *chāy mi-khoram* 'I drink tea'. There is a separate *nushidan* 'to drink', but it is formal.",
+    "Ezafe links a dish and its kind: *chelow-kabāb-e kubide*, *sālād-e shirāzi*, *ghazā-ye irāni* – the little **-e** you learned in lesson 3.",
+    "**nush-e jān** 'may it nourish your soul' is said before, during and after a meal, and even when you thank the cook. Answer with *nush-e jān* too, or *mamnun*.",
+    "**gh** (غ / ق) in *ghazā*, *ghahve*, *ghorme* is a deep sound made at the back of the throat, like a French *r* said hard. Do not turn it into English *g*."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the words",
+   "items": [
+    {
+     "fa": "نان",
+     "r": "nān",
+     "en": "bread",
+     "faV": "نان",
+     "a": "9787c0c0fc1e"
+    },
+    {
+     "fa": "برنج",
+     "r": "berenj",
+     "en": "rice",
+     "faV": "بِرِنج",
+     "a": "1df26caba216"
+    },
+    {
+     "fa": "مرغ",
+     "r": "morgh",
+     "en": "chicken",
+     "faV": "مُرغ",
+     "a": "fecd7ca0b1be"
+    },
+    {
+     "fa": "ماهی",
+     "r": "māhi",
+     "en": "fish",
+     "faV": "ماهی",
+     "a": "dd4f563e93ae"
+    },
+    {
+     "fa": "پنیر",
+     "r": "panir",
+     "en": "cheese",
+     "faV": "پَنیر",
+     "a": "8c5b0504a445"
+    },
+    {
+     "fa": "آب‌میوه",
+     "r": "āb-mive",
+     "en": "fruit juice",
+     "faV": "آب‌میوه",
+     "a": "6b18da93b5b9"
+    },
+    {
+     "fa": "خوشمزه",
+     "r": "khosh-maze",
+     "en": "delicious",
+     "faV": "خوشمَزه",
+     "a": "5a70f0c2a07e"
+    },
+    {
+     "fa": "صورت‌حساب",
+     "r": "surat-hesāb",
+     "en": "the bill",
+     "faV": "صورَت‌حِساب",
+     "a": "a44bc0b90f87"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right answer",
+   "items": [
+    {
+     "q": "You want to order a tea politely. You say…",
+     "options": [
+      "یک چای بدهید، لطفاً.",
+      "یک چای دوست دارم.",
+      "چای چقدر شد؟"
+     ],
+     "answer": 0,
+     "explain": "bedahid, lotfan = 'please give (me)'."
+    },
+    {
+     "q": "The waiter says [[چشم|chashm]]. He means…",
+     "options": [
+      "Look!",
+      "Certainly.",
+      "How many?"
+     ],
+     "answer": 1,
+     "explain": "chashm, literally 'eye', means 'certainly, right away'."
+    },
+    {
+     "q": "'She doesn't like fish' is…",
+     "options": [
+      "او ماهی دوست دارد.",
+      "او ماهی دوست ندارد.",
+      "او ماهی نمی‌خواهد."
+     ],
+     "answer": 1,
+     "explain": "dust na-dārad = doesn't like."
+    },
+    {
+     "q": "Which word means both 'to eat' and 'to drink'?",
+     "options": [
+      "خواستن",
+      "خوردن",
+      "داشتن"
+     ],
+     "answer": 1,
+     "explain": "khordan covers both."
+    },
+    {
+     "q": "[[چقدر شد؟|cheghadr shod?]] means…",
+     "options": [
+      "How much is it?",
+      "What is it?",
+      "Where is it?"
+     ],
+     "answer": 0,
+     "explain": "Literally 'how much did it become?' – asking for the total."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {
+     "fa": "من قهوه دوست ___.",
+     "r": "man ghahve dust ___.",
+     "en": "I like coffee.",
+     "answer": "دارم",
+     "hint": "I have"
+    },
+    {
+     "fa": "یک دوغ ___، لطفاً.",
+     "r": "yek dugh ___, lotfan.",
+     "en": "Give me a doogh, please.",
+     "answer": "بدهید",
+     "hint": "polite 'give'"
+    },
+    {
+     "fa": "ما غذای بدون ___ می‌خواهیم.",
+     "r": "mā ghazā-ye bedun-e ___ mi-khāhim.",
+     "en": "We want food without meat.",
+     "answer": "گوشت",
+     "hint": "meat"
+    },
+    {
+     "fa": "تام ___ می‌خواهد، نوشابه نمی‌خواهد.",
+     "r": "Tām ___ mi-khāhad, nushābe nemi-khāhad.",
+     "en": "Tom wants water, he doesn't want a soft drink.",
+     "answer": "آب",
+     "hint": "water"
+    },
+    {
+     "fa": "ببخشید، ___ لطفاً.",
+     "r": "bebakhshid, ___ lotfan.",
+     "en": "Excuse me, the bill please.",
+     "answer": "صورت‌حساب",
+     "hint": "the bill"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "من کباب دوست دارم.",
+     "r": "man kabāb dust dāram.",
+     "en": "I like kebab.",
+     "faV": "مَن کَباب دوست دارَم.",
+     "a": "5e283cc7a68f"
+    },
+    {
+     "fa": "یک چای بدهید، لطفاً.",
+     "r": "yek chāy bedahid, lotfan.",
+     "en": "Give me a tea, please.",
+     "faV": "یِک چای بِدَهید، لُطفاً.",
+     "a": "dcec60984fab"
+    },
+    {
+     "fa": "شما چه می‌خواهید؟",
+     "r": "shomā che mi-khāhid?",
+     "en": "What would you like?",
+     "faV": "شُما چه می‌خواهید؟",
+     "a": "978c9ca934e8"
+    },
+    {
+     "fa": "غذای بدون گوشت دارید؟",
+     "r": "ghazā-ye bedun-e gusht dārid?",
+     "en": "Do you have food without meat?",
+     "faV": "غَذایِ بِدونِ گوشت دارید؟",
+     "a": "9ef5e07d71a9"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "من گرسنه‌ام.",
+     "r": "man gorosne-am.",
+     "en": "I am hungry.",
+     "options": [
+      "I am thirsty.",
+      "I am hungry.",
+      "I am happy."
+     ],
+     "answer": 1,
+     "faV": "مَن گُرُسنه‌اَم.",
+     "a": "196ca868d483"
+    },
+    {
+     "fa": "یک سالاد شیرازی برای دو نفر.",
+     "r": "yek sālād-e shirāzi barā-ye do nafar.",
+     "en": "One Shirazi salad for two people.",
+     "options": [
+      "Two salads for one person.",
+      "One Shirazi salad for two people.",
+      "One kebab for two people."
+     ],
+     "answer": 1,
+     "faV": "یِک سالادِ شیرازی بَرایِ دو نَفَر.",
+     "a": "ec8875251012"
+    },
+    {
+     "fa": "او قهوه دوست ندارد.",
+     "r": "u ghahve dust na-dārad.",
+     "en": "She doesn't like coffee.",
+     "options": [
+      "She likes coffee.",
+      "She doesn't like coffee.",
+      "She doesn't want tea."
+     ],
+     "answer": 1,
+     "faV": "او قَهوه دوست نَدارَد.",
+     "a": "466fa79eea27"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "I want a fruit juice.",
+     "fa": "من یک آب‌میوه می‌خواهم.",
+     "r": "man yek āb-mive mi-khāham.",
+     "faV": "مَن یِک آب‌میوه می‌خواهَم.",
+     "a": "a7cddf2de848"
+    },
+    {
+     "en": "Do you like Iranian food? (polite)",
+     "fa": "شما غذای ایرانی دوست دارید؟",
+     "r": "shomā ghazā-ye irāni dust dārid?",
+     "faV": "شُما غَذایِ ایرانی دوست دارید؟",
+     "a": "f1428da0f5af"
+    },
+    {
+     "en": "Two teas, please.",
+     "fa": "دو تا چای، لطفاً.",
+     "r": "do tā chāy, lotfan.",
+     "faV": "دو تا چای، لُطفاً.",
+     "a": "a6a527c365cf"
+    },
+    {
+     "en": "I don't eat meat. I like vegetables.",
+     "fa": "من گوشت نمی‌خورم. سبزی دوست دارم.",
+     "r": "man gusht nemi-khoram. sabzi dust dāram.",
+     "faV": "مَن گوشت نِمی‌خورَم. سَبزی دوست دارَم.",
+     "a": "f02836da88fe"
+    }
+   ]
+  }
+ ],
+ "titleV": "خوراک و نوشیدَنی",
+ "titleA": "cccb917dabd8"
+}

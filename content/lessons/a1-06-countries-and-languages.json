@@ -1,0 +1,1030 @@
+{
+ "id": "a1-06-countries-and-languages",
+ "level": "A1",
+ "n": 6,
+ "title": "Do you speak Persian? Countries and languages",
+ "titleFa": "فارسی بلدید؟",
+ "titleR": "fārsi balad-id?",
+ "intro": "'You speak Persian!' is something you will hear again and again in Iran – usually with delight. In this lesson you learn to say which languages you speak, where you live and where people come from, and you meet the most important pattern in Persian grammar: the present tense, mi- + stem + ending.",
+ "goals": [
+  "say which languages you speak, and ask others",
+  "say where you live: dar Tehrān zendegi mi-konam",
+  "make the present tense with mi- + stem + ending, and the negative with nemi-",
+  "use balad-am 'I know (how to)'",
+  "name countries, nationalities and languages"
+ ],
+ "image": "iran-map",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "In a taxi",
+   "context": "Tom takes a taxi home from the university. The driver, Mr Rahimi, is curious about his passenger.",
+   "lines": [
+    {
+     "who": "Mr Rahimi",
+     "fa": "ببخشید، شما اهل کجا هستید؟",
+     "r": "bebakhshid, shomā ahl-e kojā hastid?",
+     "en": "Excuse me, where are you from?",
+     "col": "ببخشید، شما اهل کجایید؟",
+     "colR": "bebakhshid, shomā ahl-e kojā-yid?",
+     "faV": "بِبَخشید، شُما اَهلِ کُجا هَستید؟",
+     "a": "5b4ab85d690d",
+     "colV": "بِبَخشید، شُما اَهلِ کُجایید؟",
+     "colA": "11cf475236e6"
+    },
+    {
+     "who": "Tom",
+     "fa": "من اهل استرالیا هستم.",
+     "r": "man ahl-e Ostorāliyā hastam.",
+     "en": "I'm from Australia.",
+     "faV": "مَن اَهلِ اُستُرالیا هَستَم.",
+     "a": "33f8912521f7"
+    },
+    {
+     "who": "Mr Rahimi",
+     "fa": "به‌به! شما خیلی خوب فارسی صحبت می‌کنید!",
+     "r": "bah-bah! shomā kheyli khub fārsi sohbat mi-konid!",
+     "en": "Wow! You speak Persian very well!",
+     "col": "به‌به! شما خیلی خوب فارسی حرف می‌زنین!",
+     "colR": "bah-bah! shomā kheyli khub fārsi harf mi-zanin!",
+     "faV": "بَه‌بَه! شُما خَیلی خوب فارسی صُحبَت می‌کُنید!",
+     "a": "9d8fe7eca6cd",
+     "colV": "بَه‌بَه! شُما خَیلی خوب فارسی حَرف می‌زَنین!",
+     "colA": "ceb69fdd6308"
+    },
+    {
+     "who": "Tom",
+     "fa": "نه، فقط کمی بلدم. در تهران فارسی یاد می‌گیرم.",
+     "r": "na, faghat kami balad-am. dar Tehrān fārsi yād mi-giram.",
+     "en": "No, I only know a little. I'm learning Persian in Tehran.",
+     "col": "نه، فقط یه کم بلدم. تو تهران فارسی یاد می‌گیرم.",
+     "colR": "na, faghat ye kam balad-am. tu Tehrān fārsi yād mi-giram.",
+     "faV": "نه، فَقَط کَمی بَلَدَم. دَر تِهران فارسی یاد می‌گیرَم.",
+     "a": "2e354600a321",
+     "colV": "نه، فَقَط یه کَم بَلَدَم. تو تِهران فارسی یاد می‌گیرَم.",
+     "colA": "ca18e2118a79"
+    },
+    {
+     "who": "Mr Rahimi",
+     "fa": "در استرالیا مردم چه زبانی صحبت می‌کنند؟",
+     "r": "dar Ostorāliyā mardom che zabān-i sohbat mi-konand?",
+     "en": "What language do people speak in Australia?",
+     "faV": "دَر اُستُرالیا مَردُم چه زَبانی صُحبَت می‌کُنَند؟",
+     "a": "80963da339ab"
+    },
+    {
+     "who": "Tom",
+     "fa": "انگلیسی. من انگلیسی و کمی فرانسوی صحبت می‌کنم.",
+     "r": "engelisi. man engelisi o kami farānsavi sohbat mi-konam.",
+     "en": "English. I speak English and a little French.",
+     "faV": "اِنگِلیسی. مَن اِنگِلیسی و کَمی فَرانسَوی صُحبَت می‌کُنَم.",
+     "a": "f2982fdedf9c"
+    },
+    {
+     "who": "Mr Rahimi",
+     "fa": "من هم کمی انگلیسی بلدم! برادرم در کانادا زندگی می‌کند.",
+     "r": "man ham kami engelisi balad-am! barādar-am dar Kānādā zendegi mi-konad.",
+     "en": "I know a little English too! My brother lives in Canada.",
+     "col": "من هم یه کم انگلیسی بلدم! داداشم کانادا زندگی می‌کنه.",
+     "colR": "man ham ye kam engelisi balad-am! dādāsh-am Kānādā zendegi mi-kone.",
+     "faV": "مَن هَم کَمی اِنگِلیسی بَلَدَم! بَرادَرَم دَر کانادا زِندِگی می‌کُنَد.",
+     "a": "a5396f49d115",
+     "colV": "مَن هَم یه کَم اِنگِلیسی بَلَدَم! داداشَم کانادا زِندِگی می‌کُنه.",
+     "colA": "10661ef4b595"
+    },
+    {
+     "who": "Tom",
+     "fa": "شما اهل تهران هستید؟",
+     "r": "shomā ahl-e Tehrān hastid?",
+     "en": "Are you from Tehran?",
+     "faV": "شُما اَهلِ تِهران هَستید؟",
+     "a": "21b9f8cd47f2"
+    },
+    {
+     "who": "Mr Rahimi",
+     "fa": "نه، من اهل تبریز هستم. زبان مادری من ترکی است.",
+     "r": "na, man ahl-e Tabriz hastam. zabān-e mādari-ye man torki ast.",
+     "en": "No, I'm from Tabriz. My mother tongue is Turkish (Azerbaijani).",
+     "faV": "نه، مَن اَهلِ تَبریز هَستَم. زَبانِ مادَریِ مَن تُرکی اَست.",
+     "a": "b608c5a32c47"
+    },
+    {
+     "who": "Tom",
+     "fa": "پس شما دو زبان صحبت می‌کنید، ترکی و فارسی!",
+     "r": "pas shomā do zabān sohbat mi-konid, torki o fārsi!",
+     "en": "So you speak two languages, Turkish and Persian!",
+     "faV": "پَس شُما دو زَبان صُحبَت می‌کُنید، تُرکی و فارسی!",
+     "a": "e0d23cf9e5fe"
+    },
+    {
+     "who": "Mr Rahimi",
+     "fa": "بله! و شما کجا زندگی می‌کنید؟",
+     "r": "bale! va shomā kojā zendegi mi-konid?",
+     "en": "Yes! And where do you live?",
+     "col": "آره! شما کجا زندگی می‌کنین؟",
+     "colR": "āre! shomā kojā zendegi mi-konin?",
+     "faV": "بَله! و شُما کُجا زِندِگی می‌کُنید؟",
+     "a": "577cabf0348f",
+     "colV": "آره! شُما کُجا زِندِگی می‌کُنین؟",
+     "colA": "44632cae48b6"
+    },
+    {
+     "who": "Tom",
+     "fa": "نزدیک دانشگاه زندگی می‌کنم. همین‌جا، لطفاً!",
+     "r": "nazdik-e dāneshgāh zendegi mi-konam. hamin-jā, lotfan!",
+     "en": "I live near the university. Right here, please!",
+     "faV": "نَزدیکِ دانِشگاه زِندِگی می‌کُنَم. هَمین‌جا، لُطفاً!",
+     "a": "fadb9979664b"
+    },
+    {
+     "who": "Mr Rahimi",
+     "fa": "بفرمایید. به ایران خوش آمدید!",
+     "r": "befarmāyid. be Irān khosh āmadid!",
+     "en": "Here we are. Welcome to Iran!",
+     "faV": "بِفَرمایید. به ایران خوش آمَدید!",
+     "a": "6a5f012332e4"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Speaking a language: balad-am and sohbat mi-konam",
+   "md": "Persian has two everyday ways to say that you speak a language. The first is [[بلد|balad|knowing how]] with the endings of *to be*: [[فارسی بلدم|fārsi balad-am|I know Persian]], [[انگلیسی بلدید؟|engelisi balad-id?|do you speak English?]] The second is a real verb, [[صحبت کردن|sohbat kardan|to speak, to talk]]: [[فارسی صحبت می‌کنم|fārsi sohbat mi-konam|I speak Persian]]. In the street you will mostly hear [[حرف زدن|harf zadan|to talk]]: *fārsi harf mi-zanam*.\n\nLanguages are named like nationalities, with *-i*: [[فارسی|fārsi]], [[انگلیسی|engelisi]], [[عربی|arabi]]. The word for language, [[زبان|zabān]], also means *tongue* – so your mother tongue is [[زبان مادری|zabān-e mādari]], just as in English.\n\nAnd be ready: say three words of Persian and someone will answer [[به‌به! چه خوب فارسی صحبت می‌کنید!|bah-bah! che khub fārsi sohbat mi-konid!|wow, how well you speak Persian!]]"
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "زبان",
+     "r": "zabān",
+     "en": "language; tongue",
+     "pos": "n",
+     "ex": {
+      "fa": "شما چه زبانی صحبت می‌کنید؟",
+      "r": "shomā che zabān-i sohbat mi-konid?",
+      "en": "What language do you speak?",
+      "faV": "شُما چه زَبانی صُحبَت می‌کُنید؟",
+      "a": "211c0f38776f"
+     },
+     "faV": "زَبان",
+     "a": "a97a2b11b019"
+    },
+    {
+     "fa": "زبان مادری",
+     "r": "zabān-e mādari",
+     "en": "mother tongue",
+     "pos": "phrase",
+     "ex": {
+      "fa": "زبان مادری من انگلیسی است.",
+      "r": "zabān-e mādari-ye man engelisi ast.",
+      "en": "My mother tongue is English.",
+      "faV": "زَبانِ مادَریِ مَن اِنگِلیسی اَست.",
+      "a": "765f0febc366"
+     },
+     "faV": "زَبانِ مادَری",
+     "a": "4147370ea295"
+    },
+    {
+     "fa": "کشور",
+     "r": "keshvar",
+     "en": "country",
+     "pos": "n",
+     "ex": {
+      "fa": "ایران کشور بزرگی است.",
+      "r": "Irān keshvar-e bozorg-i ast.",
+      "en": "Iran is a big country.",
+      "faV": "ایران کِشوَرِ بُزُرگی اَست.",
+      "a": "de5c6227874d"
+     },
+     "faV": "کِشوَر",
+     "a": "46f7852d2250"
+    },
+    {
+     "fa": "شهر",
+     "r": "shahr",
+     "en": "city, town",
+     "pos": "n",
+     "ex": {
+      "fa": "تبریز شهر بزرگی است.",
+      "r": "Tabriz shahr-e bozorg-i ast.",
+      "en": "Tabriz is a big city.",
+      "faV": "تَبریز شَهرِ بُزُرگی اَست.",
+      "a": "01627b844329"
+     },
+     "faV": "شَهر",
+     "a": "9cdf26e8c77f"
+    },
+    {
+     "fa": "پایتخت",
+     "r": "pāytakht",
+     "en": "capital (city)",
+     "pos": "n",
+     "ex": {
+      "fa": "پایتخت ایران تهران است.",
+      "r": "pāytakht-e Irān Tehrān ast.",
+      "en": "The capital of Iran is Tehran.",
+      "faV": "پایتَختِ ایران تِهران اَست.",
+      "a": "4f49d7486003"
+     },
+     "faV": "پایتَخت",
+     "a": "cc64448038c2"
+    },
+    {
+     "fa": "مردم",
+     "r": "mardom",
+     "en": "people",
+     "pos": "n",
+     "note": "a group noun: mardom-e Irān 'the people of Iran'",
+     "faV": "مَردُم",
+     "a": "ba8f3fa42fd9"
+    },
+    {
+     "fa": "فارسی",
+     "r": "fārsi",
+     "en": "Persian (language)",
+     "pos": "n",
+     "note": "called dari in Afghanistan and tājiki in Tajikistan",
+     "faV": "فارسی",
+     "a": "ef3c392d9d4e"
+    },
+    {
+     "fa": "عربی",
+     "r": "arabi",
+     "en": "Arabic",
+     "pos": "n",
+     "faV": "عَرَبی",
+     "a": "fab755816957"
+    },
+    {
+     "fa": "ترکی",
+     "r": "torki",
+     "en": "Turkish",
+     "pos": "n",
+     "note": "in Iran usually Azerbaijani Turkish, the language of Tabriz",
+     "faV": "تُرکی",
+     "a": "b327e32adaff"
+    },
+    {
+     "fa": "فرانسوی",
+     "r": "farānsavi",
+     "en": "French",
+     "pos": "n",
+     "faV": "فَرانسَوی",
+     "a": "cdfbee3d1981"
+    },
+    {
+     "fa": "آلمانی",
+     "r": "ālmāni",
+     "en": "German",
+     "pos": "n",
+     "faV": "آلمانی",
+     "a": "f1a669f3737e"
+    },
+    {
+     "fa": "خارجی",
+     "r": "khāreji",
+     "en": "foreign; foreigner",
+     "pos": "adj",
+     "ex": {
+      "fa": "تام خارجی است، اما فارسی بلد است.",
+      "r": "Tām khāreji ast, ammā fārsi balad ast.",
+      "en": "Tom is a foreigner, but he speaks Persian.",
+      "faV": "تام خارِجی اَست، اَمّا فارسی بَلَد اَست.",
+      "a": "5dcb47e129cc"
+     },
+     "faV": "خارِجی",
+     "a": "0d36d99fd6b8"
+    },
+    {
+     "fa": "بلد بودن",
+     "r": "balad budan",
+     "en": "to know (how to); to speak (a language)",
+     "pos": "v",
+     "note": "works with the endings of 'to be': balad-am, balad-i, balad ast… – no mi-",
+     "ex": {
+      "fa": "شما فارسی بلدید؟",
+      "r": "shomā fārsi balad-id?",
+      "en": "Do you speak Persian?",
+      "faV": "شُما فارسی بَلَدید؟",
+      "a": "b0a82cf21a8d"
+     },
+     "faV": "بَلَد بودَن",
+     "a": "eedb3dedcca2"
+    },
+    {
+     "fa": "صحبت کردن",
+     "r": "sohbat kardan",
+     "en": "to speak, to talk",
+     "pos": "v",
+     "note": "present: sohbat mi-konam",
+     "ex": {
+      "fa": "من کمی فارسی صحبت می‌کنم.",
+      "r": "man kami fārsi sohbat mi-konam.",
+      "en": "I speak a little Persian.",
+      "faV": "مَن کَمی فارسی صُحبَت می‌کُنَم.",
+      "a": "6dab5f11a354"
+     },
+     "faV": "صُحبَت کَردَن",
+     "a": "f7a64d6fff33"
+    },
+    {
+     "fa": "حرف زدن",
+     "r": "harf zadan",
+     "en": "to talk, to speak (everyday word)",
+     "pos": "v",
+     "note": "present: harf mi-zanam",
+     "faV": "حَرف زَدَن",
+     "a": "5636de6a2814"
+    },
+    {
+     "fa": "زندگی کردن",
+     "r": "zendegi kardan",
+     "en": "to live",
+     "pos": "v",
+     "note": "present: zendegi mi-konam",
+     "ex": {
+      "fa": "ما در شیراز زندگی می‌کنیم.",
+      "r": "mā dar Shirāz zendegi mi-konim.",
+      "en": "We live in Shiraz.",
+      "faV": "ما دَر شیراز زِندِگی می‌کُنیم.",
+      "a": "5d998033805f"
+     },
+     "faV": "زِندِگی کَردَن",
+     "a": "86a14530e22b"
+    },
+    {
+     "fa": "یاد گرفتن",
+     "r": "yād gereftan",
+     "en": "to learn",
+     "pos": "v",
+     "note": "present: yād mi-giram",
+     "faV": "یاد گِرِفتَن",
+     "a": "80a03a53d90a"
+    },
+    {
+     "fa": "دانستن",
+     "r": "dānestan",
+     "en": "to know (a fact)",
+     "pos": "v",
+     "note": "present: mi-dānam; nemi-dānam = I don't know",
+     "faV": "دانِستَن",
+     "a": "7313fe7c452e"
+    },
+    {
+     "fa": "کمی",
+     "r": "kami",
+     "en": "a little",
+     "pos": "adv",
+     "note": "spoken ye kam",
+     "faV": "کَمی",
+     "a": "a771f730d63b"
+    },
+    {
+     "fa": "فقط",
+     "r": "faghat",
+     "en": "only",
+     "pos": "adv",
+     "faV": "فَقَط",
+     "a": "ee9e55a4b99c"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The present tense: mi- + stem + ending",
+   "md": "Almost every Persian verb makes its present tense the same way: **mi-** + the **present stem** + a personal **ending**. The endings are the ones you know from *to be* and *dāshtan*: *-am, -i, -ad, -im, -id, -and*.\n\nThe present stem has to be learned with each verb, like the forms of an English irregular verb: [[کردن|kardan|to do]] → *kon-*, [[زدن|zadan|to hit]] → *zan-*, [[گرفتن|gereftan|to take]] → *gir-*, [[دانستن|dānestan|to know]] → *dān-*. So [[می‌کنم|mi-konam|I do]], [[می‌زنم|mi-zanam|I hit]], [[می‌گیرم|mi-giram|I take]], [[می‌دانم|mi-dānam|I know]].\n\nMany everyday verbs are **compounds**: a noun plus a verb such as *kardan*. Only the verb part changes: [[زندگی می‌کنم|zendegi mi-konam|I live]] (literally *I do life*), [[صحبت می‌کنید|sohbat mi-konid|you speak]], [[فارسی یاد می‌گیرم|fārsi yād mi-giram|I am learning Persian]].\n\nOne present covers both *I live* and *I am living*. In writing, *mi-* is always joined to the verb with a ZWNJ: می‌کنم.",
+   "table": {
+    "head": [
+     "",
+     "zendegi kardan – to live",
+     "harf zadan – to talk"
+    ],
+    "rows": [
+     [
+      "[[من|man]]",
+      "[[زندگی می‌کنم|zendegi mi-konam]]",
+      "[[حرف می‌زنم|harf mi-zanam]]"
+     ],
+     [
+      "[[تو|to]]",
+      "[[زندگی می‌کنی|zendegi mi-koni]]",
+      "[[حرف می‌زنی|harf mi-zani]]"
+     ],
+     [
+      "[[او|u]]",
+      "[[زندگی می‌کند|zendegi mi-konad]]",
+      "[[حرف می‌زند|harf mi-zanad]]"
+     ],
+     [
+      "[[ما|mā]]",
+      "[[زندگی می‌کنیم|zendegi mi-konim]]",
+      "[[حرف می‌زنیم|harf mi-zanim]]"
+     ],
+     [
+      "[[شما|shomā]]",
+      "[[زندگی می‌کنید|zendegi mi-konid]]",
+      "[[حرف می‌زنید|harf mi-zanid]]"
+     ],
+     [
+      "[[آن‌ها|ān-hā]]",
+      "[[زندگی می‌کنند|zendegi mi-konand]]",
+      "[[حرف می‌زنند|harf mi-zanand]]"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "ما در اصفهان زندگی می‌کنیم.",
+     "r": "mā dar Esfahān zendegi mi-konim.",
+     "en": "We live in Isfahan.",
+     "faV": "ما دَر اِصفَهان زِندِگی می‌کُنیم.",
+     "a": "98daa123f0cb"
+    },
+    {
+     "fa": "او آلمانی صحبت می‌کند.",
+     "r": "u ālmāni sohbat mi-konad.",
+     "en": "He / she speaks German.",
+     "col": "او آلمانی حرف می‌زنه.",
+     "colR": "u ālmāni harf mi-zane.",
+     "faV": "او آلمانی صُحبَت می‌کُنَد.",
+     "a": "a3d401da0751",
+     "colV": "او آلمانی حَرف می‌زَنه.",
+     "colA": "dc19c9b0ac41"
+    },
+    {
+     "fa": "من فارسی یاد می‌گیرم.",
+     "r": "man fārsi yād mi-giram.",
+     "en": "I am learning Persian.",
+     "note": "The Persian present covers both 'I learn' and 'I am learning'.",
+     "faV": "مَن فارسی یاد می‌گیرَم.",
+     "a": "48ca233563e0"
+    },
+    {
+     "fa": "آن‌ها کجا زندگی می‌کنند؟",
+     "r": "ān-hā kojā zendegi mi-konand?",
+     "en": "Where do they live?",
+     "col": "اون‌ها کجا زندگی می‌کنن؟",
+     "colR": "un-hā kojā zendegi mi-konan?",
+     "faV": "آن‌ها کُجا زِندِگی می‌کُنَند؟",
+     "a": "bedec3a3b00a",
+     "colV": "اون‌ها کُجا زِندِگی می‌کُنَن؟",
+     "colA": "c503e9f574b8"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Saying 'not': nemi- and balad nistam",
+   "md": "To make a present-tense verb negative, *mi-* becomes **nemi-**: [[صحبت می‌کنم|sohbat mi-konam|I speak]] → [[صحبت نمی‌کنم|sohbat nemi-konam|I don't speak]]. The stress moves to the front: *NE-mi-konam*. A word you will use every day is [[نمی‌دانم|nemi-dānam|I don't know]] – spoken *nemi-dunam*.\n\n[[بلد|balad]] is not a verb but a describing word like *khub*, so it takes the endings of *to be* and needs **no mi-**: [[بلدم|balad-am|I know (how)]], [[بلد است|balad ast|he / she knows]]. Its negative is simply the negative of *to be*: [[بلد نیستم|balad nistam|I don't know (how)]].",
+   "table": {
+    "head": [
+     "Yes",
+     "No",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[صحبت می‌کنم|sohbat mi-konam]]",
+      "[[صحبت نمی‌کنم|sohbat nemi-konam]]",
+      "I speak / I don't speak"
+     ],
+     [
+      "[[زندگی می‌کند|zendegi mi-konad]]",
+      "[[زندگی نمی‌کند|zendegi nemi-konad]]",
+      "he lives / he doesn't live"
+     ],
+     [
+      "[[می‌دانم|mi-dānam]]",
+      "[[نمی‌دانم|nemi-dānam]]",
+      "I know / I don't know"
+     ],
+     [
+      "[[بلدم|balad-am]]",
+      "[[بلد نیستم|balad nistam]]",
+      "I know how / I don't know how"
+     ],
+     [
+      "[[بلدید؟|balad-id?]]",
+      "[[بلد نیستید؟|balad nistid?]]",
+      "do you know? / don't you know?"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "ببخشید، من عربی بلد نیستم.",
+     "r": "bebakhshid, man arabi balad nistam.",
+     "en": "Sorry, I don't speak Arabic.",
+     "faV": "بِبَخشید، مَن عَرَبی بَلَد نیستَم.",
+     "a": "093a283cb746"
+    },
+    {
+     "fa": "تام چینی صحبت نمی‌کند.",
+     "r": "Tām chini sohbat nemi-konad.",
+     "en": "Tom doesn't speak Chinese.",
+     "faV": "تام چینی صُحبَت نِمی‌کُنَد.",
+     "a": "23c1303b2252"
+    },
+    {
+     "fa": "شما انگلیسی بلدید؟",
+     "r": "shomā engelisi balad-id?",
+     "en": "Do you speak English?",
+     "col": "شما انگلیسی بلدین؟",
+     "colR": "shomā engelisi balad-in?",
+     "faV": "شُما اِنگِلیسی بَلَدید؟",
+     "a": "90c42b82f35c",
+     "colV": "شُما اِنگِلیسی بَلَدین؟",
+     "colA": "ef204b7a2cbb"
+    },
+    {
+     "fa": "نمی‌دانم.",
+     "r": "nemi-dānam.",
+     "en": "I don't know.",
+     "col": "نمی‌دونم.",
+     "colR": "nemi-dunam.",
+     "faV": "نِمی‌دانَم.",
+     "a": "e4f095b05924",
+     "colV": "نِمی‌دونَم.",
+     "colA": "6811ebd4738a"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Where? Which language? Countries and peoples",
+   "md": "[[کجا|kojā|where]] stands where the answer will go: [[شما کجا زندگی می‌کنید؟|shomā kojā zendegi mi-konid?|where do you live?]] → [[من در تهران زندگی می‌کنم|man dar Tehrān zendegi mi-konam|I live in Tehran]]. With a city or a country, *in* is [[در|dar]] – in speech often [[تو|tu]], or nothing at all: *Tehrān zendegi mi-konam*.\n\nFor *which* or *what kind of*, put [[چه|che]] before a noun with the *-i* ending: [[چه زبانی؟|che zabān-i?|what language?]], [[چه کشوری؟|che keshvar-i?|which country?]] For more than one, add *-hā-yi*: [[چه زبان‌هایی بلدید؟|che zabān-hā-yi balad-id?|what languages do you know?]]\n\nAs you saw in lesson 2, the nationality is the country + *-i*, and the language is usually the same word. A few peoples have a short name of their own – *tork*, *tājik*, *rus* – but their language still ends in *-i*.",
+   "table": {
+    "head": [
+     "Country",
+     "Person",
+     "Language"
+    ],
+    "rows": [
+     [
+      "[[ایران|Irān]]",
+      "[[ایرانی|irāni]]",
+      "[[فارسی|fārsi]]"
+     ],
+     [
+      "[[افغانستان|Afghānestān]]",
+      "[[افغانستانی|afghānestāni]]",
+      "[[دری|dari]] (Persian)"
+     ],
+     [
+      "[[تاجیکستان|Tājikestān]]",
+      "[[تاجیک|tājik]]",
+      "[[تاجیکی|tājiki]] (Persian)"
+     ],
+     [
+      "[[ترکیه|Torkiye]]",
+      "[[ترک|tork]]",
+      "[[ترکی|torki]]"
+     ],
+     [
+      "[[عراق|Erāgh]]",
+      "[[عراقی|erāghi]]",
+      "[[عربی|arabi]]"
+     ],
+     [
+      "[[روسیه|Rusiye]]",
+      "[[روس|rus]]",
+      "[[روسی|rusi]]"
+     ],
+     [
+      "[[آلمان|Ālmān]]",
+      "[[آلمانی|ālmāni]]",
+      "[[آلمانی|ālmāni]]"
+     ],
+     [
+      "[[فرانسه|Farānse]]",
+      "[[فرانسوی|farānsavi]]",
+      "[[فرانسوی|farānsavi]]"
+     ],
+     [
+      "[[چین|Chin]]",
+      "[[چینی|chini]]",
+      "[[چینی|chini]]"
+     ],
+     [
+      "[[انگلیس|Engelis]]",
+      "[[انگلیسی|engelisi]]",
+      "[[انگلیسی|engelisi]]"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "شما کجا زندگی می‌کنید؟",
+     "r": "shomā kojā zendegi mi-konid?",
+     "en": "Where do you live?",
+     "faV": "شُما کُجا زِندِگی می‌کُنید؟",
+     "a": "9a441b24399e"
+    },
+    {
+     "fa": "در افغانستان مردم دری صحبت می‌کنند.",
+     "r": "dar Afghānestān mardom dari sohbat mi-konand.",
+     "en": "In Afghanistan people speak Dari.",
+     "faV": "دَر اَفغانِستان مَردُم دَری صُحبَت می‌کُنَند.",
+     "a": "cfc5993058ee"
+    },
+    {
+     "fa": "چه زبان‌هایی بلدید؟",
+     "r": "che zabān-hā-yi balad-id?",
+     "en": "What languages do you know?",
+     "faV": "چه زَبان‌هایی بَلَدید؟",
+     "a": "d8a0b0411bb7"
+    },
+    {
+     "fa": "پایتخت ترکیه آنکارا است.",
+     "r": "pāytakht-e Torkiye Ānkārā ast.",
+     "en": "The capital of Turkey is Ankara.",
+     "faV": "پایتَختِ تُرکیه آنکارا اَست.",
+     "a": "8f715b218eea"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "A family of many languages",
+   "intro": "Read about Leila's family, then answer the questions.",
+   "sentences": [
+    {
+     "fa": "لیلا در تهران زندگی می‌کند.",
+     "r": "Leylā dar Tehrān zendegi mi-konad.",
+     "en": "Leila lives in Tehran.",
+     "faV": "لَیلا دَر تِهران زِندِگی می‌کُنَد.",
+     "a": "57dfec1e2547"
+    },
+    {
+     "fa": "زبان مادری او فارسی است، اما انگلیسی هم خوب صحبت می‌کند.",
+     "r": "zabān-e mādari-ye u fārsi ast, ammā engelisi ham khub sohbat mi-konad.",
+     "en": "Her mother tongue is Persian, but she also speaks English well.",
+     "faV": "زَبانِ مادَریِ او فارسی اَست، اَمّا اِنگِلیسی هَم خوب صُحبَت می‌کُنَد.",
+     "a": "ce742fbbd692"
+    },
+    {
+     "fa": "خاله‌اش در آلمان زندگی می‌کند و آلمانی بلد است.",
+     "r": "khāle-ash dar Ālmān zendegi mi-konad o ālmāni balad ast.",
+     "en": "Her aunt lives in Germany and speaks German.",
+     "faV": "خاله‌اَش دَر آلمان زِندِگی می‌کُنَد و آلمانی بَلَد اَست.",
+     "a": "77a79dbd8053"
+    },
+    {
+     "fa": "بچه‌های خاله‌اش آلمانی و فارسی صحبت می‌کنند.",
+     "r": "bacche-hā-ye khāle-ash ālmāni o fārsi sohbat mi-konand.",
+     "en": "Her aunt's children speak German and Persian.",
+     "faV": "بَچّه‌هایِ خاله‌اَش آلمانی و فارسی صُحبَت می‌کُنَند.",
+     "a": "68a9095ae4ed"
+    },
+    {
+     "fa": "عموی لیلا در پاریس زندگی می‌کند.",
+     "r": "amu-ye Leylā dar Pāris zendegi mi-konad.",
+     "en": "Leila's uncle lives in Paris.",
+     "faV": "عَمویِ لَیلا دَر پاریس زِندِگی می‌کُنَد.",
+     "a": "4ca3f15c8d01"
+    },
+    {
+     "fa": "همسرش فرانسوی است و فارسی بلد نیست.",
+     "r": "hamsar-ash farānsavi ast o fārsi balad nist.",
+     "en": "His wife is French and doesn't speak Persian.",
+     "faV": "هَمسَرَش فَرانسَوی اَست و فارسی بَلَد نیست.",
+     "a": "ba277754b9ee"
+    },
+    {
+     "fa": "پس خانواده‌ی لیلا چهار زبان صحبت می‌کند!",
+     "r": "pas khānevāde-ye Leylā chahār zabān sohbat mi-konad!",
+     "en": "So Leila's family speaks four languages!",
+     "faV": "پَس خانِواده‌یِ لَیلا چَهار زَبان صُحبَت می‌کُنَد!",
+     "a": "df439e57998d"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Where does Leila live?",
+     "options": [
+      "in Tehran",
+      "in Germany",
+      "in Paris"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Who lives in Germany?",
+     "options": [
+      "her uncle",
+      "her aunt",
+      "her brother"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How many languages does the family speak?",
+     "options": [
+      "two",
+      "three",
+      "four"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "One language, three countries – and many languages in one",
+   "md": "Persian is not only the language of Iran. In Afghanistan it is called [[دری|dari]] and is one of the country's two official languages; in Tajikistan it is [[تاجیکی|tājiki]] (Tajik) and is written in the Cyrillic alphabet. An Iranian, an Afghan and a Tajik can talk to each other with a little effort – rather like an American, a Scot and an Australian. Altogether well over a hundred million people speak Persian, and its great poets – Rumi, Hafez, Saadi – belong to all of them.\n\nIran, for its part, is home to many languages. In the north-west, around Tabriz, millions grow up speaking Azerbaijani Turkish, like Mr Rahimi the taxi driver. There are also Kurdish, Luri, Gilaki and Mazandarani, Arabic in the south-west, Baluchi in the south-east, Turkmen in the north-east, and Armenian and Assyrian communities in the cities. Persian is the language everyone shares – at school, at work and on television – so the question [[زبان مادری شما چیست؟|zabān-e mādari-ye shomā chist?|what is your mother tongue?]] can have a surprising answer.",
+   "image": "persian-language"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "The **mi-** of the present is always joined to the verb with a ZWNJ: می‌کنم – never میکنم or می کنم.",
+    "In compound verbs only the verb part changes: *zendegi mi-konam, zendegi mi-koni, zendegi mi-konad*… The first word stays as it is.",
+    "Spoken Tehrani shortens the endings: *mi-konad → mi-kone*, *mi-konid → mi-konin*, *mi-konand → mi-konan*, and *mi-dānam → mi-dunam*.",
+    "Stress the *mi-*: **MI**-konam. In the negative, stress the *ne-*: **NE**-mi-konam.",
+    "When someone praises your Persian, the polite answer is a modest one: *na, faghat kami balad-am* – 'no, I only know a little'."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the languages",
+   "items": [
+    {
+     "fa": "فارسی",
+     "r": "fārsi",
+     "en": "Persian",
+     "faV": "فارسی",
+     "a": "ef3c392d9d4e"
+    },
+    {
+     "fa": "عربی",
+     "r": "arabi",
+     "en": "Arabic",
+     "faV": "عَرَبی",
+     "a": "fab755816957"
+    },
+    {
+     "fa": "ترکی",
+     "r": "torki",
+     "en": "Turkish",
+     "faV": "تُرکی",
+     "a": "b327e32adaff"
+    },
+    {
+     "fa": "آلمانی",
+     "r": "ālmāni",
+     "en": "German",
+     "faV": "آلمانی",
+     "a": "f1a669f3737e"
+    },
+    {
+     "fa": "فرانسوی",
+     "r": "farānsavi",
+     "en": "French",
+     "faV": "فَرانسَوی",
+     "a": "cdfbee3d1981"
+    },
+    {
+     "fa": "چینی",
+     "r": "chini",
+     "en": "Chinese",
+     "faV": "چینی",
+     "a": "c6861bb7782a"
+    },
+    {
+     "fa": "روسی",
+     "r": "rusi",
+     "en": "Russian",
+     "faV": "روسی",
+     "a": "0408425c57f0"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right answer",
+   "items": [
+    {
+     "q": "'I live in Tehran' is…",
+     "options": [
+      "من در تهران زندگی می‌کنم.",
+      "من در تهران زندگی می‌کند.",
+      "من در تهران زندگی کردن."
+     ],
+     "answer": 0,
+     "explain": "man takes the ending -am: mi-konam."
+    },
+    {
+     "q": "Which form means 'they speak'?",
+     "options": [
+      "صحبت می‌کنیم",
+      "صحبت می‌کنند",
+      "صحبت می‌کنید"
+     ],
+     "answer": 1,
+     "explain": "-and is 'they'; -im is 'we' and -id is 'you'."
+    },
+    {
+     "q": "How do you ask 'What language do you speak?'",
+     "options": [
+      "چه زبانی صحبت می‌کنید؟",
+      "کجا زندگی می‌کنید؟",
+      "اهل کجا هستید؟"
+     ],
+     "answer": 0,
+     "explain": "che zabān-i = what language."
+    },
+    {
+     "q": "'I don't know Arabic' is…",
+     "options": [
+      "عربی بلدم.",
+      "عربی بلد نیستم.",
+      "عربی نمی‌بلدم."
+     ],
+     "answer": 1,
+     "explain": "balad works with 'to be', so its negative is balad nistam."
+    },
+    {
+     "q": "In Afghanistan, Persian is called…",
+     "options": [
+      "تاجیکی",
+      "دری",
+      "ترکی"
+     ],
+     "answer": 1,
+     "explain": "dari; in Tajikistan it is called tājiki."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {
+     "fa": "من در شیراز زندگی ___.",
+     "r": "man dar Shirāz zendegi ___.",
+     "en": "I live in Shiraz.",
+     "answer": "می‌کنم",
+     "hint": "I do"
+    },
+    {
+     "fa": "شما کجا زندگی ___؟",
+     "r": "shomā kojā zendegi ___?",
+     "en": "Where do you live?",
+     "answer": "می‌کنید",
+     "hint": "you (polite) do"
+    },
+    {
+     "fa": "تام فارسی ___ می‌گیرد.",
+     "r": "Tām fārsi ___ mi-girad.",
+     "en": "Tom is learning Persian.",
+     "answer": "یاد",
+     "hint": "the first part of 'to learn'"
+    },
+    {
+     "fa": "ببخشید، من فرانسوی ___ نیستم.",
+     "r": "bebakhshid, man farānsavi ___ nistam.",
+     "en": "Sorry, I don't speak French.",
+     "answer": "بلد",
+     "hint": "knowing how"
+    },
+    {
+     "fa": "آن‌ها چه ___ صحبت می‌کنند؟",
+     "r": "ān-hā che ___ sohbat mi-konand?",
+     "en": "What language do they speak?",
+     "answer": "زبانی",
+     "hint": "language + -i"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "من کمی فارسی صحبت می‌کنم.",
+     "r": "man kami fārsi sohbat mi-konam.",
+     "en": "I speak a little Persian.",
+     "faV": "مَن کَمی فارسی صُحبَت می‌کُنَم.",
+     "a": "6dab5f11a354"
+    },
+    {
+     "fa": "برادرم در کانادا زندگی می‌کند.",
+     "r": "barādar-am dar Kānādā zendegi mi-konad.",
+     "en": "My brother lives in Canada.",
+     "faV": "بَرادَرَم دَر کانادا زِندِگی می‌کُنَد.",
+     "a": "8f850f9af63d"
+    },
+    {
+     "fa": "شما انگلیسی بلدید؟",
+     "r": "shomā engelisi balad-id?",
+     "en": "Do you speak English?",
+     "faV": "شُما اِنگِلیسی بَلَدید؟",
+     "a": "90c42b82f35c"
+    },
+    {
+     "fa": "زبان مادری من انگلیسی است.",
+     "r": "zabān-e mādari-ye man engelisi ast.",
+     "en": "My mother tongue is English.",
+     "faV": "زَبانِ مادَریِ مَن اِنگِلیسی اَست.",
+     "a": "765f0febc366"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "من آلمانی صحبت نمی‌کنم.",
+     "r": "man ālmāni sohbat nemi-konam.",
+     "en": "I don't speak German.",
+     "options": [
+      "I speak German.",
+      "I don't speak German.",
+      "I don't live in Germany."
+     ],
+     "answer": 1,
+     "faV": "مَن آلمانی صُحبَت نِمی‌کُنَم.",
+     "a": "58848dd13b6b"
+    },
+    {
+     "fa": "آن‌ها در اصفهان زندگی می‌کنند.",
+     "r": "ān-hā dar Esfahān zendegi mi-konand.",
+     "en": "They live in Isfahan.",
+     "options": [
+      "We live in Isfahan.",
+      "They live in Isfahan.",
+      "They live in Shiraz."
+     ],
+     "answer": 1,
+     "faV": "آن‌ها دَر اِصفَهان زِندِگی می‌کُنَند.",
+     "a": "81bcc424ea3c"
+    },
+    {
+     "fa": "چه زبانی بلدید؟",
+     "r": "che zabān-i balad-id?",
+     "en": "What language do you know?",
+     "options": [
+      "Where are you from?",
+      "What language do you know?",
+      "Where do you live?"
+     ],
+     "answer": 1,
+     "faV": "چه زَبانی بَلَدید؟",
+     "a": "257207dbda7b"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "Where do you live? (polite)",
+     "fa": "شما کجا زندگی می‌کنید؟",
+     "r": "shomā kojā zendegi mi-konid?",
+     "faV": "شُما کُجا زِندِگی می‌کُنید؟",
+     "a": "9a441b24399e"
+    },
+    {
+     "en": "I live in Tehran, but I am from Shiraz.",
+     "fa": "من در تهران زندگی می‌کنم، اما اهل شیراز هستم.",
+     "r": "man dar Tehrān zendegi mi-konam, ammā ahl-e Shirāz hastam.",
+     "faV": "مَن دَر تِهران زِندِگی می‌کُنَم، اَمّا اَهلِ شیراز هَستَم.",
+     "a": "24660d1213c2"
+    },
+    {
+     "en": "My mother speaks Turkish and Persian.",
+     "fa": "مادرم ترکی و فارسی صحبت می‌کند.",
+     "r": "mādar-am torki o fārsi sohbat mi-konad.",
+     "faV": "مادَرَم تُرکی و فارسی صُحبَت می‌کُنَد.",
+     "a": "19c5e58e61a0"
+    },
+    {
+     "en": "I am learning Persian.",
+     "fa": "من فارسی یاد می‌گیرم.",
+     "r": "man fārsi yād mi-giram.",
+     "faV": "مَن فارسی یاد می‌گیرَم.",
+     "a": "48ca233563e0"
+    },
+    {
+     "en": "I don't know.",
+     "fa": "نمی‌دانم.",
+     "r": "nemi-dānam.",
+     "faV": "نِمی‌دانَم.",
+     "a": "e4f095b05924"
+    }
+   ]
+  }
+ ],
+ "titleV": "فارسی بَلَدید؟",
+ "titleA": "991d0ed47f2d"
+}

@@ -1,0 +1,855 @@
+{
+ "id": "script-08-numbers-and-reading-practice",
+ "level": "script",
+ "n": 8,
+ "title": "Numbers and reading practice",
+ "titleFa": "عددها و تمرین خواندن",
+ "titleR": "'adad-hā va tamrin-e khāndan",
+ "intro": "You know all 32 letters – now put them to work. This lesson covers the Persian digits (which, surprisingly, run left to right), the punctuation marks, and twenty signs you will see in any Iranian street, station or shop. It ends with practical notes on handwriting, on typing Persian, and on the two great styles of the script, Naskh and Nastaliq.",
+ "goals": [
+  "read and write the digits ۰–۹ and read numbers left to right inside right-to-left text",
+  "recognise the Persian comma, semicolon, question mark and quotation marks",
+  "read twenty common signs, from ورود to داروخانه",
+  "type Persian on a computer or phone, including the ZWNJ",
+  "tell Naskh from Nastaliq"
+ ],
+ "image": "tehran-metro",
+ "sections": [
+  {
+   "type": "text",
+   "title": "Digits that run the other way",
+   "md": "Persian has its own set of digits, used on prices, phone numbers, car plates, clocks and banknotes, and in every Persian text in this course:\n\n**۰ ۱ ۲ ۳ ۴ ۵ ۶ ۷ ۸ ۹**\n\nThe surprise is the direction. Persian is written right to left, but **numbers are written and read left to right**, exactly as in English: [[۲۵|bist-o-panj|25]] is twenty-five, not fifty-two, and the year [[۱۴۰۰|hezār-o-chahārsad|1400]] starts with ۱, on the left. When your eye, travelling leftwards along a line, meets a number, it jumps to the number's left end, reads it rightwards, and then carries on to the left. Computers arrange this for you automatically.\n\nA few shapes need care:\n\n- **۰** zero is just a dot, and **۵** five is a little loop, like an upside-down heart. So never write zero as a circle in Iran – it will be read as 5.\n- **۲** two and **۳** three are hooks on a stem: two has one hook, three has two.\n- **۷** seven is a V and **۸** eight the same V upside down – the easiest pair to mix up.\n- **۴ ۵ ۶** are the three digits that Arabic writes differently, so you may see other shapes for them on Arabic products and in some fonts.\n\nWestern digits are well known too – banknotes show both kinds – but Persian digits are what you will read on most signs and price tags.",
+   "image": "iranian-rial"
+  },
+  {
+   "type": "grammar",
+   "title": "The ten digits",
+   "md": "Here are the digits with their names. You don't need to learn to count yet – numbers get a whole lesson in A1 – but knowing the shapes lets you read prices, times and room numbers from day one. You could already read [[شش|shesh|six]] and [[دو|do|two]]; notice [[نه|noh|nine]], spelled exactly like [[نه|na|no]].\n\nWhen a number names something – a room, a metro line, a year – it comes after the noun, joined to it by the ezafe: *room 204* is 'room-of 204'.",
+   "table": {
+    "head": [
+     "Persian",
+     "Western",
+     "name"
+    ],
+    "rows": [
+     [
+      "۰",
+      "0",
+      "[[صفر|sefr]]"
+     ],
+     [
+      "۱",
+      "1",
+      "[[یک|yek]]"
+     ],
+     [
+      "۲",
+      "2",
+      "[[دو|do]]"
+     ],
+     [
+      "۳",
+      "3",
+      "[[سه|se]]"
+     ],
+     [
+      "۴",
+      "4",
+      "[[چهار|chahār]]"
+     ],
+     [
+      "۵",
+      "5",
+      "[[پنج|panj]]"
+     ],
+     [
+      "۶",
+      "6",
+      "[[شش|shesh]]"
+     ],
+     [
+      "۷",
+      "7",
+      "[[هفت|haft]]"
+     ],
+     [
+      "۸",
+      "8",
+      "[[هشت|hasht]]"
+     ],
+     [
+      "۹",
+      "9",
+      "[[نه|noh]]"
+     ],
+     [
+      "۱۰",
+      "10",
+      "[[ده|dah]]"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "اتاق ۲۰۴",
+     "r": "otāgh-e devist-o-chahār",
+     "en": "room 204",
+     "faV": "اُتاقِ ۲۰۴",
+     "a": "7306514093bd"
+    },
+    {
+     "fa": "خط ۱ مترو",
+     "r": "khatt-e yek-e metro",
+     "en": "metro line 1",
+     "faV": "خَطِّ ۱ مِترو",
+     "a": "69ad733b8c3a"
+    },
+    {
+     "fa": "سال ۱۴۰۰",
+     "r": "sāl-e hezār-o-chahārsad",
+     "en": "the year 1400 (2021–22)",
+     "faV": "سالِ ۱۴۰۰",
+     "a": "4378342fa0ea"
+    },
+    {
+     "fa": "قیمت: ۵۰ هزار تومان",
+     "r": "gheymat: panjāh hezār tomān",
+     "en": "price: 50,000 toman",
+     "note": "hezār means 'thousand'; most shops price things in toman",
+     "faV": "قَیمَت: ۵۰ هِزار تومان",
+     "a": "1f1480a9095a"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Punctuation",
+   "md": "The full stop and the exclamation mark are the same as in English, but three marks are turned round to suit right-to-left writing: the comma and the semicolon are upside down, and the question mark is mirrored. Quotation marks are the angled guillemets, pointing outwards as in French; besides quotations, they set off names and titles, such as the name of a station or a café.",
+   "table": {
+    "head": [
+     "mark",
+     "name",
+     "use"
+    ],
+    "rows": [
+     [
+      "،",
+      "[[ویرگول|virgul]]",
+      "comma"
+     ],
+     [
+      "؛",
+      "[[نقطه‌ویرگول|noghte-virgul]]",
+      "semicolon"
+     ],
+     [
+      "؟",
+      "[[علامت سؤال|'alāmat-e so'āl]]",
+      "question mark"
+     ],
+     [
+      "« »",
+      "[[گیومه|giyume]]",
+      "quotation marks; names and titles"
+     ],
+     [
+      ".",
+      "[[نقطه|noghte]]",
+      "full stop"
+     ],
+     [
+      "!",
+      "[[علامت تعجب|'alāmat-e ta'ajjob]]",
+      "exclamation mark"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "سلام، خوبی؟",
+     "r": "salām, khubi?",
+     "en": "Hi, how are you?",
+     "lit": "hello, (are you) good?",
+     "faV": "سَلام، خوبی؟",
+     "a": "fab11ce5d2e0"
+    },
+    {
+     "fa": "تهران، اصفهان، شیراز و یزد",
+     "r": "Tehrān, Esfahān, Shirāz va Yazd",
+     "en": "Tehran, Isfahan, Shiraz and Yazd",
+     "faV": "تِهران، اِصفَهان، شیراز و یَزد",
+     "a": "2ea8eaaaaf87"
+    },
+    {
+     "fa": "امروز باز است؛ فردا بسته است.",
+     "r": "emruz bāz ast; fardā baste ast.",
+     "en": "It's open today; tomorrow it's closed.",
+     "faV": "اِمروز باز اَست؛ فَردا بَسته اَست.",
+     "a": "5e4342961d6e"
+    },
+    {
+     "fa": "ایستگاه «تجریش»",
+     "r": "istgāh-e «Tajrish»",
+     "en": "Tajrish station",
+     "faV": "ایستگاهِ «تَجریش»",
+     "a": "a3aa1285c99e"
+    },
+    {
+     "fa": "ورود ممنوع!",
+     "r": "vorud mamnu'!",
+     "en": "No entry!",
+     "faV": "وُرود مَمنوع!",
+     "a": "c6a63a47495b"
+    }
+   ]
+  },
+  {
+   "type": "letters",
+   "title": "The whole alphabet",
+   "letters": [
+    "ا",
+    "ب",
+    "پ",
+    "ت",
+    "ث",
+    "ج",
+    "چ",
+    "ح",
+    "خ",
+    "د",
+    "ذ",
+    "ر",
+    "ز",
+    "ژ",
+    "س",
+    "ش",
+    "ص",
+    "ض",
+    "ط",
+    "ظ",
+    "ع",
+    "غ",
+    "ف",
+    "ق",
+    "ک",
+    "گ",
+    "ل",
+    "م",
+    "ن",
+    "و",
+    "ه",
+    "ی"
+   ],
+   "md": "All 32 letters in dictionary order. Before you start on the signs, tap any letter you are unsure of. If you can name every one and give its sound, you are ready for A1."
+  },
+  {
+   "type": "vocab",
+   "title": "Twenty signs to read",
+   "items": [
+    {
+     "fa": "تهران",
+     "r": "Tehrān",
+     "en": "Tehran",
+     "pos": "name",
+     "note": "on road signs, station boards and buses",
+     "faV": "تِهران",
+     "a": "0a69c086557d"
+    },
+    {
+     "fa": "خوش آمدید",
+     "r": "khosh āmadid",
+     "en": "welcome",
+     "pos": "phrase",
+     "note": "the vāv in khosh is a short o",
+     "faV": "خوش آمَدید",
+     "a": "644e0bd8f8ca"
+    },
+    {
+     "fa": "ورود",
+     "r": "vorud",
+     "en": "entrance, way in",
+     "pos": "n",
+     "faV": "وُرود",
+     "a": "ceee743c90e8"
+    },
+    {
+     "fa": "خروجی",
+     "r": "khoruji",
+     "en": "exit (of a station, a motorway)",
+     "pos": "n",
+     "faV": "خُروجی",
+     "a": "34c0a6647233"
+    },
+    {
+     "fa": "ورود ممنوع",
+     "r": "vorud mamnu'",
+     "en": "no entry",
+     "pos": "phrase",
+     "note": "mamnu' means 'forbidden'",
+     "faV": "وُرود مَمنوع",
+     "a": "9a8cb803b284"
+    },
+    {
+     "fa": "باز",
+     "r": "bāz",
+     "en": "open",
+     "pos": "adj",
+     "faV": "باز",
+     "a": "fc30c6605bfd"
+    },
+    {
+     "fa": "بسته",
+     "r": "baste",
+     "en": "closed",
+     "pos": "adj",
+     "faV": "بَسته",
+     "a": "5cac4c52767a"
+    },
+    {
+     "fa": "بکشید",
+     "r": "bekeshid",
+     "en": "pull (on doors)",
+     "pos": "v",
+     "faV": "بِکِشید",
+     "a": "d82cd5b74415"
+    },
+    {
+     "fa": "فشار دهید",
+     "r": "feshār dahid",
+     "en": "push (on doors)",
+     "pos": "v",
+     "note": "literally 'give pressure'",
+     "faV": "فِشار دَهید",
+     "a": "e579c55bfcf7"
+    },
+    {
+     "fa": "ایست",
+     "r": "ist",
+     "en": "stop (the road sign)",
+     "pos": "v",
+     "faV": "ایست",
+     "a": "64cd7485283e"
+    },
+    {
+     "fa": "خیابان",
+     "r": "khiyābān",
+     "en": "street, avenue",
+     "pos": "n",
+     "faV": "خیابان",
+     "a": "3807383806c3"
+    },
+    {
+     "fa": "میدان",
+     "r": "meydān",
+     "en": "square (in a town)",
+     "pos": "n",
+     "note": "as in Meydān-e Āzādi, Azadi Square in Tehran",
+     "faV": "مَیدان",
+     "a": "6db664e67e08"
+    },
+    {
+     "fa": "ایستگاه مترو",
+     "r": "istgāh-e metro",
+     "en": "metro station",
+     "pos": "n",
+     "faV": "ایستگاهِ مِترو",
+     "a": "f96cd678e77e"
+    },
+    {
+     "fa": "فرودگاه",
+     "r": "forudgāh",
+     "en": "airport",
+     "pos": "n",
+     "note": "forud 'landing' + -gāh 'place'",
+     "faV": "فُرودگاه",
+     "a": "6dc58197d442"
+    },
+    {
+     "fa": "بانک",
+     "r": "bānk",
+     "en": "bank",
+     "pos": "n",
+     "faV": "بانک",
+     "a": "809f5e771e16"
+    },
+    {
+     "fa": "داروخانه",
+     "r": "dārukhāne",
+     "en": "pharmacy, chemist's",
+     "pos": "n",
+     "note": "dāru 'medicine' + khāne 'house'",
+     "faV": "داروخانه",
+     "a": "1398d4b0f1b6"
+    },
+    {
+     "fa": "نانوایی",
+     "r": "nānvāyi",
+     "en": "bakery",
+     "pos": "n",
+     "note": "from nān, bread",
+     "faV": "نانوایی",
+     "a": "72758770616e"
+    },
+    {
+     "fa": "بیمارستان",
+     "r": "bimārestān",
+     "en": "hospital",
+     "pos": "n",
+     "note": "bimār 'sick' + -estān 'place of'",
+     "faV": "بیمارِستان",
+     "a": "6386b5e043c7"
+    },
+    {
+     "fa": "سرویس بهداشتی",
+     "r": "servis-e behdāshti",
+     "en": "toilets",
+     "pos": "n",
+     "note": "literally 'hygiene service'",
+     "faV": "سِرویسِ بِهداشتی",
+     "a": "93b7ea1f184b"
+    },
+    {
+     "fa": "سیگار کشیدن ممنوع",
+     "r": "sigār keshidan mamnu'",
+     "en": "no smoking",
+     "pos": "phrase",
+     "note": "literally 'pulling on a cigarette is forbidden' – the same verb as bekeshid, pull",
+     "faV": "سیگار کِشیدَن مَمنوع",
+     "a": "080b367559dc"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "A message from Mina",
+   "intro": "Tom, the Australian student in Tehran, gets a text from his friend Mina. You haven't learned the grammar yet, but you can sound out every word – look out for the digits and the punctuation.",
+   "sentences": [
+    {
+     "fa": "سلام تام!",
+     "r": "salām Tām!",
+     "en": "Hi Tom!",
+     "faV": "سَلام تام!",
+     "a": "b4853ef5d3a7"
+    },
+    {
+     "fa": "فردا ساعت ۶ در کافه‌ی «گل» هستیم.",
+     "r": "fardā sā'at-e shesh dar kāfe-ye «Gol» hastim.",
+     "en": "Tomorrow at six we'll be at Café Gol.",
+     "faV": "فَردا ساعَتِ ۶ دَر کافه‌یِ «گُل» هَستیم.",
+     "a": "3fdcd90331dd"
+    },
+    {
+     "fa": "با مترو بیا: ایستگاه «تجریش»، خروجی ۲.",
+     "r": "bā metro biyā: istgāh-e «Tajrish», khoruji-ye do.",
+     "en": "Come by metro: Tajrish station, exit 2.",
+     "faV": "با مِترو بیا: ایستگاهِ «تَجریش»، خُروجیِ ۲.",
+     "a": "1ccd3b5cdba9"
+    },
+    {
+     "fa": "کافه روبه‌روی بانک است.",
+     "r": "kāfe ru-be-ru-ye bānk ast.",
+     "en": "The café is opposite the bank.",
+     "faV": "کافه روبه‌رویِ بانک اَست.",
+     "a": "d7b46ea9d4bc"
+    },
+    {
+     "fa": "تا فردا!",
+     "r": "tā fardā!",
+     "en": "See you tomorrow!",
+     "lit": "until tomorrow",
+     "faV": "تا فَردا!",
+     "a": "df6255a03a63"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What time do they meet?",
+     "options": [
+      "at two",
+      "at six",
+      "at nine"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Which metro exit should Tom take?",
+     "options": [
+      "exit 1",
+      "exit 2",
+      "exit 6"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What is the café opposite?",
+     "options": [
+      "the bank",
+      "the pharmacy",
+      "the bakery"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Handwriting",
+   "md": "Persian handwriting differs from print more than English does, so here is what to expect when an Iranian writes something down for you:\n\n- **Dots are simplified.** Two dots are often written as a short dash and three dots as a little caret, like ^. So پ may have a tiny ^ underneath, and ش one on top.\n- **Teeth disappear.** The three teeth of [[س|sin]] and [[ش|shin]] are often smoothed into one flat stroke.\n- **Dots and strokes come last.** Write the body of the whole word first, then go back and add the dots and the top strokes of [[ک|kāf]] and [[گ|gāf]].\n- **Mind the line.** Most letters sit on it; re, ze, vāv and the tails of final letters such as ن, ی and ع dip below it.\n- **Digits:** zero is a dot and five is a loop – never write zero as a circle.\n\nEveryday handwriting leans towards the flowing Nastaliq style described below. In old letters and documents you will also meet *shekaste*, 'broken' Nastaliq, which even Iranians find hard to read.",
+   "image": "shekasteh-nastaliq"
+  },
+  {
+   "type": "text",
+   "title": "Typing Persian",
+   "md": "Every computer and phone can type Persian: add the keyboard called **Persian** (sometimes *Farsi*) in your settings. Don't use an Arabic keyboard. It types the Arabic ye and kāf – with two dots under the final ye and a squiggle inside the final kāf – and Arabic digits. They look almost the same as the Persian ones but are different characters, so searches and spell-checkers stumble over them.\n\nThe letters are not in English order. On the standard layout, A types ش, S types س, D types ی and F types ب, and alef is on H. The number row types Persian digits.\n\nThe one special key to learn on day one is the **ZWNJ**, which Iranians call [[نیم‌فاصله|nim-fāsele|half-space]]. On the standard layout it is **Shift+Space**; phone keyboards have it too, usually near the space bar or on the symbols page. It is what makes [[می‌روم|mi-ravam|I go]] and [[کتاب‌ها|ketāb-hā|books]] come out right.\n\nYou will also see Persian written in Latin letters – *salām, chetori?* – especially in older text messages and in chat. Iranians call it *Finglish*. It is handy when there is no Persian keyboard, but it has no fixed rules, and the Persian script is always clearer."
+  },
+  {
+   "type": "culture",
+   "title": "Naskh and Nastaliq",
+   "md": "Persian is printed in two main styles. **Naskh** ([[نسخ|naskh]]) is the upright, even script of newspapers, books, websites and road signs – and of this course. It is built for clarity, and it is the one to learn first.\n\n**Nastaliq** ([[نستعلیق|nasta'liq]]) is the glory of Persian calligraphy. It grew up in Iran in the 14th and 15th centuries – tradition names the calligrapher Mir Ali Tabrizi as its inventor – and its name blends *naskh* with *ta'liq*, an older 'hanging' script. Words slope down from right to left, letters stretch into long sweeping curves, the teeth of sin vanish and dots float wherever there is room. Iranians call it 'the bride of scripts', and it is still everywhere: on book covers and poetry collections, wedding invitations, shop signs, and the titles of films and newspapers.\n\nReading Nastaliq takes practice even for good readers of Naskh. Start with words you already know – a shop sign, a line of Hafez you have read in print – and let your eye follow the slope. The C1 lesson on calligraphy goes further.",
+   "image": "nastaliq"
+  },
+  {
+   "type": "tips",
+   "title": "Reading tips",
+   "items": [
+    "To write a number by hand, write its digits left to right, even in the middle of a Persian sentence.",
+    "A slash inside a number is a decimal point: ۲/۵ means 2.5, not a fraction.",
+    "Shops usually quote prices in toman, while banknotes count in rials: 1 toman is 10 rials. If a price looks ten times too high, it is in rials.",
+    "Many signs in the Tehran metro and on main roads also give the English. Read the Persian first, then check yourself.",
+    "Read everything: shop signs, menus, product labels, film subtitles. Every one is free practice.",
+    "Write by hand every day for a week – your name, your city, a shopping list. Your hand teaches your eye."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Read the numbers",
+   "items": [
+    {
+     "q": "What number is [[۲۵]]?",
+     "options": [
+      "25",
+      "52",
+      "35"
+     ],
+     "answer": 0,
+     "explain": "Digits run left to right: ۲ (2), then ۵ (5)."
+    },
+    {
+     "q": "Which digit is **7**?",
+     "options": [
+      "۶",
+      "۷",
+      "۸"
+     ],
+     "answer": 1,
+     "explain": "Seven is a V; eight is the same V upside down."
+    },
+    {
+     "q": "What is [[۵]]?",
+     "options": [
+      "0",
+      "5",
+      "6"
+     ],
+     "answer": 1,
+     "explain": "The little loop is five. Zero is a dot: ۰."
+    },
+    {
+     "q": "What year is [[۱۴۰۰]]?",
+     "options": [
+      "0041",
+      "1004",
+      "1400"
+     ],
+     "answer": 2,
+     "explain": "Read from the left: 1-4-0-0."
+    },
+    {
+     "q": "Which price tag says **50,000 toman**?",
+     "options": [
+      "۵ هزار تومان",
+      "۵۰ هزار تومان",
+      "۶۰ هزار تومان"
+     ],
+     "answer": 1,
+     "explain": "۵۰ is 50, and هزار is 'thousand'."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Punctuation and typing",
+   "items": [
+    {
+     "q": "Which is the Persian question mark?",
+     "options": [
+      "?",
+      "؟",
+      "¿"
+     ],
+     "answer": 1,
+     "explain": "The mirrored question mark."
+    },
+    {
+     "q": "Which is the Persian comma?",
+     "options": [
+      "،",
+      ",",
+      "؛"
+     ],
+     "answer": 0,
+     "explain": "The comma turned upside down. ؛ is the semicolon."
+    },
+    {
+     "q": "How does Persian mark a quotation?",
+     "options": [
+      "“سلام”",
+      "«سلام»",
+      "‹سلام›"
+     ],
+     "answer": 1,
+     "explain": "With angled guillemets, as in French."
+    },
+    {
+     "q": "What do Iranians call the ZWNJ?",
+     "options": [
+      "noghte (full stop)",
+      "nim-fāsele (half-space)",
+      "virgul (comma)"
+     ],
+     "answer": 1,
+     "explain": "نیم‌فاصله – Shift+Space on the standard Persian keyboard."
+    },
+    {
+     "q": "A word on your screen ends in a ye with two dots under it. What happened?",
+     "options": [
+      "it is a different word",
+      "it was typed on an Arabic keyboard",
+      "it is handwriting"
+     ],
+     "answer": 1,
+     "explain": "The Persian final ye has no dots. Install the Persian keyboard, not the Arabic one."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Sound it out",
+   "items": [
+    {
+     "q": "What does [[پارکینگ]] say?",
+     "options": [
+      "parking",
+      "park",
+      "picnic"
+     ],
+     "answer": 0,
+     "explain": "p-ā-r-k-i-n-g: pārking."
+    },
+    {
+     "q": "What does [[سوپرمارکت]] say?",
+     "options": [
+      "souvenir shop",
+      "sports club",
+      "supermarket"
+     ],
+     "answer": 2,
+     "explain": "s-u-p-r-m-ā-r-k-t, with two short e's unwritten: supermārket."
+    },
+    {
+     "q": "What does [[آمبولانس]] say?",
+     "options": [
+      "ambassador",
+      "ambulance",
+      "aquarium"
+     ],
+     "answer": 1,
+     "explain": "ā-m-b-u-l-ā-n-s: āmbulāns."
+    },
+    {
+     "q": "What does [[پیتزا]] say?",
+     "options": [
+      "pasta",
+      "pizza",
+      "pita"
+     ],
+     "answer": 1,
+     "explain": "p-i-t-z-ā: pitzā."
+    },
+    {
+     "q": "What does [[کافی‌شاپ]] say?",
+     "options": [
+      "coffee shop",
+      "car shop",
+      "copy shop"
+     ],
+     "answer": 0,
+     "explain": "kāfi + shāp, kept apart by a ZWNJ."
+    },
+    {
+     "q": "What does [[اورژانس]] say, on a hospital door?",
+     "options": [
+      "orange juice",
+      "emergency",
+      "organ"
+     ],
+     "answer": 1,
+     "explain": "urzhāns, from French urgence: the emergency department."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and pick the sign",
+   "items": [
+    {
+     "fa": "داروخانه",
+     "r": "dārukhāne",
+     "en": "pharmacy",
+     "options": [
+      "داروخانه",
+      "دارو",
+      "کتابخانه"
+     ],
+     "answer": 0,
+     "faV": "داروخانه",
+     "a": "1398d4b0f1b6"
+    },
+    {
+     "fa": "نانوایی",
+     "r": "nānvāyi",
+     "en": "bakery",
+     "options": [
+      "نانوا",
+      "نانوایی",
+      "نوایی"
+     ],
+     "answer": 1,
+     "faV": "نانوایی",
+     "a": "72758770616e"
+    },
+    {
+     "fa": "خروجی",
+     "r": "khoruji",
+     "en": "exit",
+     "options": [
+      "ورودی",
+      "خروج",
+      "خروجی"
+     ],
+     "answer": 2,
+     "faV": "خُروجی",
+     "a": "34c0a6647233"
+    },
+    {
+     "fa": "بیمارستان",
+     "r": "bimārestān",
+     "en": "hospital",
+     "options": [
+      "بیمارستان",
+      "بیمار",
+      "بیابان"
+     ],
+     "answer": 0,
+     "faV": "بیمارِستان",
+     "a": "6386b5e043c7"
+    },
+    {
+     "fa": "بسته",
+     "r": "baste",
+     "en": "closed",
+     "options": [
+      "باز",
+      "بسته",
+      "بستنی"
+     ],
+     "answer": 1,
+     "faV": "بَسته",
+     "a": "5cac4c52767a"
+    },
+    {
+     "fa": "فرودگاه",
+     "r": "forudgāh",
+     "en": "airport",
+     "options": [
+      "فروشگاه",
+      "ایستگاه",
+      "فرودگاه"
+     ],
+     "answer": 2,
+     "faV": "فُرودگاه",
+     "a": "6dc58197d442"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the signs",
+   "items": [
+    {
+     "fa": "ورود",
+     "r": "vorud",
+     "en": "entrance",
+     "faV": "وُرود",
+     "a": "ceee743c90e8"
+    },
+    {
+     "fa": "خروجی",
+     "r": "khoruji",
+     "en": "exit",
+     "faV": "خُروجی",
+     "a": "34c0a6647233"
+    },
+    {
+     "fa": "باز",
+     "r": "bāz",
+     "en": "open",
+     "faV": "باز",
+     "a": "fc30c6605bfd"
+    },
+    {
+     "fa": "بسته",
+     "r": "baste",
+     "en": "closed",
+     "faV": "بَسته",
+     "a": "5cac4c52767a"
+    },
+    {
+     "fa": "بکشید",
+     "r": "bekeshid",
+     "en": "pull",
+     "faV": "بِکِشید",
+     "a": "d82cd5b74415"
+    },
+    {
+     "fa": "فشار دهید",
+     "r": "feshār dahid",
+     "en": "push",
+     "faV": "فِشار دَهید",
+     "a": "e579c55bfcf7"
+    },
+    {
+     "fa": "داروخانه",
+     "r": "dārukhāne",
+     "en": "pharmacy",
+     "faV": "داروخانه",
+     "a": "1398d4b0f1b6"
+    },
+    {
+     "fa": "ایست",
+     "r": "ist",
+     "en": "stop",
+     "faV": "ایست",
+     "a": "64cd7485283e"
+    }
+   ]
+  }
+ ],
+ "titleV": "عَدَدها و تَمرینِ خواندَن",
+ "titleA": "17160161d25d"
+}

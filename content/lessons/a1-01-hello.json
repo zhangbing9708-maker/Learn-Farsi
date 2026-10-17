@@ -1,0 +1,797 @@
+{
+ "id": "a1-01-hello",
+ "level": "A1",
+ "n": 1,
+ "title": "Hello! Greetings and goodbyes",
+ "titleFa": "سلام!",
+ "titleR": "salām!",
+ "intro": "Your first conversation in Persian. By the end of this lesson you can greet people at any time of day, ask how they are, answer, and say goodbye – and you will have met the two most important words in Iranian life: salām and merci.",
+ "goals": [
+  "greet people and say goodbye",
+  "ask 'how are you?' and answer",
+  "say please and thank you",
+  "use the polite plural 'you' (shomā)"
+ ],
+ "image": "tehran",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "Two neighbours in the morning",
+   "context": "Mina and Mr Karimi live in the same building in Tehran. They meet at the door in the morning.",
+   "lines": [
+    {
+     "who": "Mina",
+     "fa": "سلام، آقای کریمی!",
+     "r": "salām, āghā-ye Karimi!",
+     "en": "Hello, Mr Karimi!",
+     "faV": "سَلام، آقایِ کَریمی!",
+     "a": "28d5af9f85f4"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "سلام، مینا خانم. صبح به خیر!",
+     "r": "salām, Minā khānom. sobh be kheyr!",
+     "en": "Hello, Ms Mina. Good morning!",
+     "faV": "سَلام، مینا خانُم. صُبح به خَیر!",
+     "a": "be50705c682c"
+    },
+    {
+     "who": "Mina",
+     "fa": "صبح به خیر. حال شما چطور است؟",
+     "r": "sobh be kheyr. hāl-e shomā chetor ast?",
+     "en": "Good morning. How are you?",
+     "col": "صبح به خیر. حالتون چطوره؟",
+     "colR": "sobh be kheyr. hāletun chetore?",
+     "faV": "صُبح به خَیر. حالِ شُما چِطور اَست؟",
+     "a": "de52f8d955af",
+     "colV": "صُبح به خَیر. حالِتون چِطوره؟",
+     "colA": "23dd2efca7e8"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "خوبم، متشکرم. شما چطورید؟",
+     "r": "khub-am, motshakker-am. shomā chetor-id?",
+     "en": "I'm well, thank you. How are you?",
+     "col": "خوبم، مرسی. شما چطورین؟",
+     "colR": "khub-am, mersi. shomā chetor-in?",
+     "faV": "خوبَم، مُتشَکِّرَم. شُما چِطورید؟",
+     "a": "f3d5a7936b42",
+     "colV": "خوبَم، مِرسی. شُما چِطورین؟",
+     "colA": "5458617473e6"
+    },
+    {
+     "who": "Mina",
+     "fa": "من هم خوبم. ممنون.",
+     "r": "man ham khub-am. mamnun.",
+     "en": "I'm well too. Thanks.",
+     "faV": "مَن هَم خوبَم. مَمنون.",
+     "a": "b0e2007adc80"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "خانواده خوب هستند؟",
+     "r": "khānevāde khub hastand?",
+     "en": "Is the family well?",
+     "faV": "خانِواده خوب هَستَند؟",
+     "a": "83c2d919c698"
+    },
+    {
+     "who": "Mina",
+     "fa": "بله، همه خوب هستند. سلام می‌رسانند.",
+     "r": "bale, hame khub hastand. salām mi-resānand.",
+     "en": "Yes, everyone is well. They send their regards.",
+     "faV": "بَله، هَمه خوب هَستَند. سَلام می‌رِسانَند.",
+     "a": "bc4edcbcd9e0"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "خدا را شکر. روز خوبی داشته باشید!",
+     "r": "khodā rā shokr. ruz-e khub-i dāshte bāshid!",
+     "en": "Thank God. Have a good day!",
+     "faV": "خُدا را شُکر. روزِ خوبی داشته باشید!",
+     "a": "be1f4f4cf3fa"
+    },
+    {
+     "who": "Mina",
+     "fa": "شما هم. خدا حافظ!",
+     "r": "shomā ham. khodā hāfez!",
+     "en": "You too. Goodbye!",
+     "faV": "شُما هَم. خُدا حافِظ!",
+     "a": "e58584c8fa09"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "خدا حافظ.",
+     "r": "khodā hāfez.",
+     "en": "Goodbye.",
+     "faV": "خُدا حافِظ.",
+     "a": "912a6986c0e2"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Salām – the word that opens every door",
+   "md": "[[سلام|salām|hello]] literally means *peace*. Iranians say it to everyone – the taxi driver, the shopkeeper, a child, a stranger on the stairs – and it works at any hour. If you learn one word today, learn this one.\n\nYou will also hear [[مرسی|mersi|thanks]] (from French) and [[ممنون|mamnun|grateful]] everywhere; both mean *thanks*. The fuller [[متشکرم|motshakker-am|I thank you]] is a little more formal.\n\nPersian has two words for *you*: [[تو|to|you (one person, informal)]] and [[شما|shomā|you (plural, or one person politely)]]. With anyone you do not know well, use **shomā** – it is the safe, respectful choice, like French *vous*. Friends and family use **to**."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "سلام",
+     "r": "salām",
+     "en": "hello",
+     "pos": "interj",
+     "note": "literally 'peace'; used at any time of day",
+     "faV": "سَلام",
+     "a": "4f81f684bbf2"
+    },
+    {
+     "fa": "صبح به خیر",
+     "r": "sobh be kheyr",
+     "en": "good morning",
+     "pos": "phrase",
+     "note": "literally 'morning to goodness'",
+     "faV": "صُبح به خَیر",
+     "a": "ab128858427a"
+    },
+    {
+     "fa": "عصر به خیر",
+     "r": "asr be kheyr",
+     "en": "good afternoon / evening",
+     "pos": "phrase",
+     "faV": "عَصر به خَیر",
+     "a": "6dfea8221afc"
+    },
+    {
+     "fa": "شب به خیر",
+     "r": "shab be kheyr",
+     "en": "good night",
+     "pos": "phrase",
+     "note": "said when parting at night or going to bed",
+     "faV": "شَب به خَیر",
+     "a": "53acaf87e7e4"
+    },
+    {
+     "fa": "خدا حافظ",
+     "r": "khodā hāfez",
+     "en": "goodbye",
+     "pos": "phrase",
+     "note": "literally 'God (be your) protector'; often said khodāfez",
+     "col": "خدافظ",
+     "colR": "khodāfez",
+     "faV": "خُدا حافِظ",
+     "a": "f07c6248d232",
+     "colV": "خُدافِظ",
+     "colA": "8f030e6e1c4c"
+    },
+    {
+     "fa": "حال",
+     "r": "hāl",
+     "en": "state, how one is",
+     "pos": "n",
+     "ex": {
+      "fa": "حال شما چطور است؟",
+      "r": "hāl-e shomā chetor ast?",
+      "en": "How are you?",
+      "faV": "حالِ شُما چِطور اَست؟",
+      "a": "d3c48bfd8279"
+     },
+     "faV": "حال",
+     "a": "c99849f27ff8"
+    },
+    {
+     "fa": "چطور",
+     "r": "chetor",
+     "en": "how",
+     "pos": "adv",
+     "faV": "چِطور",
+     "a": "9457f9555a57"
+    },
+    {
+     "fa": "خوب",
+     "r": "khub",
+     "en": "good, well",
+     "pos": "adj",
+     "ex": {
+      "fa": "من خوبم.",
+      "r": "man khub-am.",
+      "en": "I am well.",
+      "faV": "مَن خوبَم.",
+      "a": "7acb60429b32"
+     },
+     "faV": "خوب",
+     "a": "b3188f4c34de"
+    },
+    {
+     "fa": "بد",
+     "r": "bad",
+     "en": "bad",
+     "pos": "adj",
+     "faV": "بَد",
+     "a": "9fbf9350f644"
+    },
+    {
+     "fa": "ممنون",
+     "r": "mamnun",
+     "en": "thanks",
+     "pos": "interj",
+     "note": "the everyday thank-you",
+     "faV": "مَمنون",
+     "a": "b73150d80b02"
+    },
+    {
+     "fa": "مرسی",
+     "r": "mersi",
+     "en": "thanks",
+     "pos": "interj",
+     "note": "borrowed from French; very common in cities",
+     "faV": "مِرسی",
+     "a": "3cd9a10ebae3"
+    },
+    {
+     "fa": "متشکرم",
+     "r": "motshakker-am",
+     "en": "thank you",
+     "pos": "phrase",
+     "note": "a little more formal",
+     "faV": "مُتشَکِّرَم",
+     "a": "34c2f6780d73"
+    },
+    {
+     "fa": "خواهش می‌کنم",
+     "r": "khāhesh mi-konam",
+     "en": "you're welcome; please",
+     "pos": "phrase",
+     "note": "the answer to any thank-you",
+     "faV": "خواهِش می‌کُنَم",
+     "a": "7734a4d18671"
+    },
+    {
+     "fa": "لطفاً",
+     "r": "lotfan",
+     "en": "please",
+     "pos": "adv",
+     "faV": "لُطفاً",
+     "a": "ee0968580fcb"
+    },
+    {
+     "fa": "بله",
+     "r": "bale",
+     "en": "yes",
+     "pos": "interj",
+     "note": "informal: āre",
+     "faV": "بَله",
+     "a": "9891baf1c8e2"
+    },
+    {
+     "fa": "نه",
+     "r": "na",
+     "en": "no",
+     "pos": "interj",
+     "faV": "نه",
+     "a": "4fc5ea42ffa4"
+    },
+    {
+     "fa": "ببخشید",
+     "r": "bebakhshid",
+     "en": "excuse me; sorry",
+     "pos": "phrase",
+     "note": "to get attention, to apologise, or to squeeze past",
+     "faV": "بِبَخشید",
+     "a": "1f76206e3020"
+    },
+    {
+     "fa": "آقا",
+     "r": "āghā",
+     "en": "Mr; sir",
+     "pos": "n",
+     "ex": {
+      "fa": "آقای کریمی",
+      "r": "āghā-ye Karimi",
+      "en": "Mr Karimi",
+      "faV": "آقایِ کَریمی",
+      "a": "26c225b09dba"
+     },
+     "faV": "آقا",
+     "a": "58af4aa6ad39"
+    },
+    {
+     "fa": "خانم",
+     "r": "khānom",
+     "en": "Ms, Mrs; madam",
+     "pos": "n",
+     "ex": {
+      "fa": "مینا خانم",
+      "r": "Minā khānom",
+      "en": "Ms Mina",
+      "faV": "مینا خانُم",
+      "a": "9e8237ee958e"
+     },
+     "faV": "خانُم",
+     "a": "685dd16c41fc"
+    },
+    {
+     "fa": "خانواده",
+     "r": "khānevāde",
+     "en": "family",
+     "pos": "n",
+     "faV": "خانِواده",
+     "a": "cb19bad29743"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "'I am', 'you are': the little endings",
+   "md": "Persian usually does not use a separate word for *am / are / is*. Instead a short ending attaches to the adjective or noun:\n\nSo [[خوبم|khub-am]] is one word meaning *I am well*, and [[خوبید|khub-id]] means *you are well*. In writing, the ending is simply joined to the word. The one exception is *he/she/it is*, which is a separate word, [[است|ast]]: [[حال شما چطور است؟|hāl-e shomā chetor ast?|How is your state?]]\n\nIn speech, **ast** shrinks to **-e**: *chetor-e?* You will see the spoken forms marked 🗣 throughout this course.",
+   "table": {
+    "head": [
+     "Persian",
+     "Reading",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[من خوبم|man khub-am]]",
+      "-am",
+      "I am well"
+     ],
+     [
+      "[[تو خوبی|to khub-i]]",
+      "-i",
+      "you (one friend) are well"
+     ],
+     [
+      "[[او خوب است|u khub ast]]",
+      "ast",
+      "he / she is well"
+     ],
+     [
+      "[[ما خوبیم|mā khub-im]]",
+      "-im",
+      "we are well"
+     ],
+     [
+      "[[شما خوبید|shomā khub-id]]",
+      "-id",
+      "you (polite / plural) are well"
+     ],
+     [
+      "[[آن‌ها خوبند|ān-hā khub-and]]",
+      "-and",
+      "they are well"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "من خوبم.",
+     "r": "man khub-am.",
+     "en": "I am well.",
+     "faV": "مَن خوبَم.",
+     "a": "7acb60429b32"
+    },
+    {
+     "fa": "شما خوبید؟",
+     "r": "shomā khub-id?",
+     "en": "Are you well?",
+     "faV": "شُما خوبید؟",
+     "a": "63648eb63601"
+    },
+    {
+     "fa": "او معلم است.",
+     "r": "u mo'allem ast.",
+     "en": "He / she is a teacher.",
+     "col": "او معلمه.",
+     "colR": "u mo'alleme.",
+     "faV": "او مُعَلِّم اَست.",
+     "a": "77a9ee780500",
+     "colV": "او مُعَلِّمه.",
+     "colA": "a8449d3aa5f6"
+    },
+    {
+     "fa": "ما ایرانی هستیم.",
+     "r": "mā irāni hastim.",
+     "en": "We are Iranian.",
+     "note": "hastim is the full, stressed form of -im: 'we ARE'.",
+     "faV": "ما ایرانی هَستیم.",
+     "a": "4b6b086b09c1"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Questions need no extra words",
+   "md": "To ask a yes/no question, keep the word order and raise your voice at the end – exactly like English *You're well?* [[شما خوبید.|shomā khub-id.|You are well.]] becomes [[شما خوبید؟|shomā khub-id?|Are you well?]] Notice the Persian question mark [[؟|?]] faces the other way.\n\nQuestion words such as [[چطور|chetor|how]] go where the answer would go: [[حال شما چطور است؟|hāl-e shomā chetor ast?]] – *your state how is?*",
+   "examples": [
+    {
+     "fa": "خوبید؟",
+     "r": "khub-id?",
+     "en": "Are you well?",
+     "faV": "خوبید؟",
+     "a": "e53155d6f608"
+    },
+    {
+     "fa": "خانواده خوب هستند؟",
+     "r": "khānevāde khub hastand?",
+     "en": "Is the family well?",
+     "faV": "خانِواده خوب هَستَند؟",
+     "a": "83c2d919c698"
+    },
+    {
+     "fa": "حالت چطور است؟",
+     "r": "hāl-at chetor ast?",
+     "en": "How are you? (to a friend)",
+     "col": "حالت چطوره؟",
+     "colR": "hālet chetore?",
+     "faV": "حالَت چِطور اَست؟",
+     "a": "d0f1d4f8e0fc",
+     "colV": "حالِت چِطوره؟",
+     "colA": "afe0ddcf8a4c"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "At the bakery",
+   "intro": "Read the short text, then answer the questions. Tap any sentence to hear it.",
+   "sentences": [
+    {
+     "fa": "صبح است.",
+     "r": "sobh ast.",
+     "en": "It is morning.",
+     "faV": "صُبح اَست.",
+     "a": "fffd67e42fa5"
+    },
+    {
+     "fa": "رضا به نانوایی می‌رود.",
+     "r": "Rezā be nānvāyi mi-ravad.",
+     "en": "Reza goes to the bakery.",
+     "faV": "رِضا به نانوایی می‌رَوَد.",
+     "a": "88fd9dcc734a"
+    },
+    {
+     "fa": "سلام، آقا. صبح به خیر!",
+     "r": "salām, āghā. sobh be kheyr!",
+     "en": "Hello, sir. Good morning!",
+     "faV": "سَلام، آقا. صُبح به خَیر!",
+     "a": "cdc794e5a142"
+    },
+    {
+     "fa": "سلام، رضا جان. حالت چطور است؟",
+     "r": "salām, Rezā jān. hāl-at chetor ast?",
+     "en": "Hello, Reza dear. How are you?",
+     "faV": "سَلام، رِضا جان. حالَت چِطور اَست؟",
+     "a": "081fec936a11"
+    },
+    {
+     "fa": "خوبم، ممنون. دو نان لطفاً.",
+     "r": "khub-am, mamnun. do nān lotfan.",
+     "en": "I'm well, thanks. Two breads, please.",
+     "faV": "خوبَم، مَمنون. دو نان لُطفاً.",
+     "a": "08f37c834daa"
+    },
+    {
+     "fa": "بفرمایید. نوش جان!",
+     "r": "befarmāyid. nush-e jān!",
+     "en": "Here you are. Enjoy!",
+     "faV": "بِفَرمایید. نوشِ جان!",
+     "a": "341ba98791fb"
+    },
+    {
+     "fa": "متشکرم. خدا حافظ!",
+     "r": "motshakker-am. khodā hāfez!",
+     "en": "Thank you. Goodbye!",
+     "faV": "مُتشَکِّرَم. خُدا حافِظ!",
+     "a": "8bfdac854762"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What time of day is it?",
+     "options": [
+      "morning",
+      "afternoon",
+      "night"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "How many breads does Reza buy?",
+     "options": [
+      "one",
+      "two",
+      "three"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What does the baker say when he hands over the bread?",
+     "options": [
+      "khodā hāfez",
+      "befarmāyid",
+      "bebakhshid"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Ta'ārof: the art of politeness",
+   "md": "Iranians have a word for their famous politeness: [[تعارف|ta'ārof]]. A shopkeeper may wave away your money with [[قابل ندارد|ghābel nadārad|it's not worthy (of you)]] – you are still expected to pay, and to insist. A host offers food three times; a guest refuses twice. Everyone knows the rules, and the dance is part of the pleasure of talking.\n\nTwo words from the bakery carry this spirit: [[بفرمایید|befarmāyid]] (*please – go ahead, here you are, come in, sit down*) is the all-purpose polite invitation, and [[نوش جان|nush-e jān]] (*may it nourish your soul*) is said to someone about to eat. You will hear both every day.\n\nNotice also [[جان|jān|dear, soul]] after a name: *Rezā jān*. It is warm but not romantic – friends, parents, teachers and shopkeepers all use it.",
+   "image": "sangak"
+  },
+  {
+   "type": "tips",
+   "title": "Pronunciation",
+   "items": [
+    "**ā** (as in salām, khodā) is a long, deep 'a' like the vowel in British *father* – keep it long.",
+    "**kh** (خ) is the rasping sound of Scottish *loch* or German *Bach*: khub, khodā hāfez.",
+    "Stress falls on the **last syllable** of most words: sa-LĀM, kho-DĀ, mam-NUN – but on the ending-less part of a verb: KHUB-am.",
+    "Persian 'r' is tapped like Spanish *r*, never swallowed like American *r*."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the words",
+   "items": [
+    {
+     "fa": "سلام",
+     "r": "salām",
+     "en": "hello",
+     "faV": "سَلام",
+     "a": "4f81f684bbf2"
+    },
+    {
+     "fa": "خدا حافظ",
+     "r": "khodā hāfez",
+     "en": "goodbye",
+     "faV": "خُدا حافِظ",
+     "a": "f07c6248d232"
+    },
+    {
+     "fa": "ممنون",
+     "r": "mamnun",
+     "en": "thanks",
+     "faV": "مَمنون",
+     "a": "b73150d80b02"
+    },
+    {
+     "fa": "لطفاً",
+     "r": "lotfan",
+     "en": "please",
+     "faV": "لُطفاً",
+     "a": "ee0968580fcb"
+    },
+    {
+     "fa": "ببخشید",
+     "r": "bebakhshid",
+     "en": "excuse me",
+     "faV": "بِبَخشید",
+     "a": "1f76206e3020"
+    },
+    {
+     "fa": "صبح به خیر",
+     "r": "sobh be kheyr",
+     "en": "good morning",
+     "faV": "صُبح به خَیر",
+     "a": "ab128858427a"
+    },
+    {
+     "fa": "شب به خیر",
+     "r": "shab be kheyr",
+     "en": "good night",
+     "faV": "شَب به خَیر",
+     "a": "53acaf87e7e4"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right answer",
+   "items": [
+    {
+     "q": "Someone says [[ممنون|mamnun]]. What do you reply?",
+     "options": [
+      "خواهش می‌کنم",
+      "خدا حافظ",
+      "صبح به خیر"
+     ],
+     "answer": 0,
+     "explain": "khāhesh mi-konam ('you're welcome') is the standard reply to thanks."
+    },
+    {
+     "q": "Which word is the polite 'you' for a stranger?",
+     "options": [
+      "تو",
+      "شما",
+      "او"
+     ],
+     "answer": 1,
+     "explain": "shomā is used for more than one person and, politely, for one."
+    },
+    {
+     "q": "How do you say 'I am well'?",
+     "options": [
+      "خوبید",
+      "خوب است",
+      "خوبم"
+     ],
+     "answer": 2,
+     "explain": "-am is the 'I am' ending: khub-am."
+    },
+    {
+     "q": "It is 10 at night and you are leaving a friend's house. You say…",
+     "options": [
+      "صبح به خیر",
+      "شب به خیر",
+      "عصر به خیر"
+     ],
+     "answer": 1,
+     "explain": "shab be kheyr is 'good night'."
+    },
+    {
+     "q": "What does [[بفرمایید|befarmāyid]] mean here: the baker hands you the bread and says it?",
+     "options": [
+      "Goodbye",
+      "Here you are",
+      "How much?"
+     ],
+     "answer": 1,
+     "explain": "befarmāyid is the all-purpose polite 'please / here you are / go ahead'."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {
+     "fa": "حال ___ چطور است؟",
+     "r": "hāl-e ___ chetor ast?",
+     "en": "How are you? (polite)",
+     "answer": "شما",
+     "hint": "the polite 'you'"
+    },
+    {
+     "fa": "من ___ هستم.",
+     "r": "man ___ hastam.",
+     "en": "I am well.",
+     "answer": "خوب",
+     "hint": "well, good"
+    },
+    {
+     "fa": "دو نان ___.",
+     "r": "do nān ___.",
+     "en": "Two breads, please.",
+     "answer": "لطفاً",
+     "hint": "please"
+    },
+    {
+     "fa": "خوبم، ___.",
+     "r": "khub-am, ___.",
+     "en": "I'm well, thanks.",
+     "answer": "ممنون",
+     "hint": "thanks"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "حال شما چطور است؟",
+     "r": "hāl-e shomā chetor ast?",
+     "en": "How are you?",
+     "faV": "حالِ شُما چِطور اَست؟",
+     "a": "d3c48bfd8279"
+    },
+    {
+     "fa": "من هم خوبم.",
+     "r": "man ham khub-am.",
+     "en": "I am well too.",
+     "faV": "مَن هَم خوبَم.",
+     "a": "bb48474886cb"
+    },
+    {
+     "fa": "روز خوبی داشته باشید!",
+     "r": "ruz-e khub-i dāshte bāshid!",
+     "en": "Have a good day!",
+     "faV": "روزِ خوبی داشته باشید!",
+     "a": "ed65481eacf3"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "شب به خیر!",
+     "r": "shab be kheyr!",
+     "en": "Good night!",
+     "options": [
+      "Good morning!",
+      "Good night!",
+      "Goodbye!"
+     ],
+     "answer": 1,
+     "faV": "شَب به خَیر!",
+     "a": "a3c6057461e5"
+    },
+    {
+     "fa": "خواهش می‌کنم.",
+     "r": "khāhesh mi-konam.",
+     "en": "You're welcome.",
+     "options": [
+      "Excuse me.",
+      "Thank you.",
+      "You're welcome."
+     ],
+     "answer": 2,
+     "faV": "خواهِش می‌کُنَم.",
+     "a": "894fbeea00ac"
+    },
+    {
+     "fa": "خانواده خوب هستند؟",
+     "r": "khānevāde khub hastand?",
+     "en": "Is the family well?",
+     "options": [
+      "Is the family well?",
+      "Are you well?",
+      "How is the weather?"
+     ],
+     "answer": 0,
+     "faV": "خانِواده خوب هَستَند؟",
+     "a": "83c2d919c698"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "Hello, Ms Mina. Good morning!",
+     "fa": "سلام، مینا خانم. صبح به خیر!",
+     "r": "salām, Minā khānom. sobh be kheyr!",
+     "faV": "سَلام، مینا خانُم. صُبح به خَیر!",
+     "a": "be50705c682c"
+    },
+    {
+     "en": "I'm well, thank you.",
+     "fa": "خوبم، متشکرم.",
+     "r": "khub-am, motshakker-am.",
+     "faV": "خوبَم، مُتشَکِّرَم.",
+     "a": "42b09904b6cc"
+    },
+    {
+     "en": "Excuse me, are you well?",
+     "fa": "ببخشید، شما خوبید؟",
+     "r": "bebakhshid, shomā khub-id?",
+     "faV": "بِبَخشید، شُما خوبید؟",
+     "a": "d5e0110a1eae"
+    },
+    {
+     "en": "Goodbye! Have a good day!",
+     "fa": "خدا حافظ! روز خوبی داشته باشید!",
+     "r": "khodā hāfez! ruz-e khub-i dāshte bāshid!",
+     "faV": "خُدا حافِظ! روزِ خوبی داشته باشید!",
+     "a": "95cf53d372b0"
+    }
+   ]
+  }
+ ],
+ "titleV": "سَلام!",
+ "titleA": "ae3996b6dc08"
+}

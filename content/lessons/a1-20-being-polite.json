@@ -1,0 +1,248 @@
+{
+ "id": "a1-20-being-polite",
+ "level": "A1",
+ "n": 20,
+ "title": "Being polite: ta'arof, invitations and phone calls",
+ "titleFa": "تعارف نکنید!",
+ "titleR": "ta'ārof na-konid!",
+ "intro": "Iranians are famous for their courtesy, and it comes with a whole set of phrases: what you say when you arrive, when you are offered tea, when someone has cooked for you, when someone is working, when you leave. Behind them lies تعارف – ta'arof, the elaborate politeness of offering and refusing. In this last A1 lesson you learn the formulas, how to accept an invitation, and how to get through a simple phone call.",
+ "goals": ["use the everyday formulas: بفرمایید، خواهش می‌کنم، ببخشید، چشم", "thank a host and answer thanks: دست شما درد نکند، نوش جان، قابل ندارد", "greet someone at work with خسته نباشید", "understand ta'arof: when 'no' means 'ask me again'", "invite someone, accept an invitation and make a simple phone call"],
+ "image": "sofreh",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "Dinner at the Karimis'",
+   "context": "Mr and Mrs Karimi have invited Tom to their home for dinner. He arrives a little late, with flowers.",
+   "lines": [
+    {"who": "Mr Karimi", "fa": "سلام تام جان، خوش آمدی! بفرما تو.", "r": "salām Tām jān, khosh āmadi! befarmā tu.", "en": "Hello Tom, welcome! Come in.", "col": "سلام تام جان، خوش اومدی! بفرما تو.", "colR": "salām Tām jān, khosh umadi! befarmā tu."},
+    {"who": "Tom", "fa": "سلام، ببخشید دیر کردم. این گل‌ها برای شماست.", "r": "salām, bebakhshid dir kardam. in gol-hā barā-ye shomāst.", "en": "Hello, sorry I'm late. These flowers are for you."},
+    {"who": "Mr Karimi", "fa": "وای، چرا زحمت کشیدی؟", "r": "vāy, cherā zahmat keshidi?", "en": "Oh, you shouldn't have!", "lit": "why did you take trouble?"},
+    {"who": "Tom", "fa": "قابل شما را ندارد.", "r": "ghābel-e shomā rā na-dārad.", "en": "It's nothing.", "lit": "it is not worthy of you", "col": "قابل شما رو نداره.", "colR": "ghābel-e shomā ro na-dāre."},
+    {"who": "Mrs Karimi", "fa": "بفرمایید بنشینید. چای می‌خورید؟", "r": "befarmāyid beneshinid. chāy mi-khorid?", "en": "Please sit down. Will you have some tea?", "col": "بفرمایید بشینید. چای می‌خورین؟", "colR": "befarmāyid beshinid. chāy mi-khorin?"},
+    {"who": "Tom", "fa": "نه، ممنون. زحمت نکشید.", "r": "na, mamnun. zahmat na-keshid.", "en": "No, thank you. Please don't go to any trouble.", "col": "نه، ممنون. زحمت نکشین.", "colR": "na, mamnun. zahmat na-keshin."},
+    {"who": "Mrs Karimi", "fa": "چه زحمتی؟ تعارف نکنید!", "r": "che zahmat-i? ta'ārof na-konid!", "en": "What trouble? Don't be shy!", "col": "چه زحمتی؟ تعارف نکنین!", "colR": "che zahmat-i? ta'ārof na-konin!"},
+    {"who": "Tom", "fa": "چشم، پس یک چای می‌خورم.", "r": "chashm, pas yek chāy mi-khoram.", "en": "All right then, I'll have a tea.", "col": "چشم، پس یه چای می‌خورم.", "colR": "chashm, pas ye chāy mi-khoram."},
+    {"who": "Mrs Karimi", "fa": "بفرمایید، شام حاضر است.", "r": "befarmāyid, shām hāzer ast.", "en": "Please come, dinner is ready.", "col": "بفرمایید، شام حاضره.", "colR": "befarmāyid, shām hāzere."},
+    {"who": "Tom", "fa": "خیلی خوشمزه بود. دستتان درد نکند!", "r": "kheyli khoshmaze bud. dast-etān dard na-konad!", "en": "It was delicious. Thank you so much!", "lit": "may your hand not hurt", "col": "خیلی خوشمزه بود. دستتون درد نکنه!", "colR": "kheyli khoshmaze bud. dast-etun dard na-kone!"},
+    {"who": "Mrs Karimi", "fa": "نوش جان! باز هم بخورید.", "r": "nush-e jān! bāz ham bekhorid.", "en": "Enjoy! Have some more.", "col": "نوش جان! باز هم بخورین.", "colR": "nush-e jān! bāz ham bekhorin."},
+    {"who": "Tom", "fa": "نه، دیگر سیر شدم. ممنون.", "r": "na, digar sir shodam. mamnun.", "en": "No, I'm full now. Thank you.", "col": "نه، دیگه سیر شدم. ممنون.", "colR": "na, dige sir shodam. mamnun."},
+    {"who": "Mr Karimi", "fa": "خواهش می‌کنم. باز هم به ما سر بزنید.", "r": "khāhesh mi-konam. bāz ham be mā sar bezanid.", "en": "You're welcome. Come and see us again.", "col": "خواهش می‌کنم. باز هم به ما سر بزنین.", "colR": "khāhesh mi-konam. bāz ham be mā sar bezanin."},
+    {"who": "Tom", "fa": "حتماً. خیلی ممنون، خدا حافظ!", "r": "hatman. kheyli mamnun, khodā hāfez!", "en": "Of course. Thank you very much, goodbye!"}
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Ta'arof in one minute",
+   "md": "Look at what happened in that dialogue. Tom brought flowers and Mr Karimi said [[چرا زحمت کشیدی؟|cherā zahmat keshidi?|why did you go to the trouble?]] – not a complaint, just good manners. Tom answered with the classic [[قابل شما را ندارد|ghābel-e shomā rā na-dārad|it is not worthy of you]]. Mrs Karimi offered tea, Tom said no once, she insisted – [[تعارف نکنید!|ta'ārof na-konid!|don't stand on ceremony!]] – and then he said yes.\n\nThis polite dance of offering, refusing and insisting is [[تعارف|ta'ārof]]. It is part of every visit, every meal and even every taxi ride. You don't need to master it now, but you do need the formulas: Iranians use them dozens of times a day, and they are delighted when a foreigner uses them too.\n\nAlmost all of them are wishes or images: *may your hand not hurt*, *may you not be tired*, *sweet to your soul*. Learn them as whole phrases, like *bless you* in English."
+  },
+  {
+   "type": "vocab",
+   "title": "Words and phrases",
+   "items": [
+    {"fa": "بفرمایید", "r": "befarmāyid", "en": "please (come in, sit down, help yourself, here you are, after you)", "pos": "phrase", "note": "to a friend: بفرما befarmā"},
+    {"fa": "خواهش می‌کنم", "r": "khāhesh mi-konam", "en": "you're welcome; please, I insist", "pos": "phrase", "note": "literally 'I make a request'"},
+    {"fa": "ببخشید", "r": "bebakhshid", "en": "excuse me; sorry", "pos": "phrase"},
+    {"fa": "چشم", "r": "chashm", "en": "of course, certainly (agreeing to a request)", "pos": "phrase", "note": "literally 'eye': 'on my eye'"},
+    {"fa": "قابل ندارد", "r": "ghābel na-dārad", "en": "it's nothing (giving a gift; a shopkeeper asked the price)", "pos": "phrase", "note": "literally 'it is not worthy'; spoken ghābel nadāre"},
+    {"fa": "دست شما درد نکند", "r": "dast-e shomā dard na-konad", "en": "thank you (for cooking, for your help)", "pos": "phrase", "note": "literally 'may your hand not hurt'; spoken dastet dard nakone"},
+    {"fa": "خسته نباشید", "r": "khaste na-bāshid", "en": "well done; hello (to someone working)", "pos": "phrase", "note": "literally 'may you not be tired'"},
+    {"fa": "نوش جان", "r": "nush-e jān", "en": "enjoy your meal!", "pos": "phrase", "note": "the answer when someone thanks you for food"},
+    {"fa": "خوش آمدید", "r": "khosh āmadid", "en": "welcome", "pos": "phrase"},
+    {"fa": "تعارف", "r": "ta'ārof", "en": "ritual politeness, offering and refusing", "pos": "n", "ex": {"fa": "تعارف نکنید!", "r": "ta'ārof na-konid!", "en": "Don't be shy! Help yourself!"}},
+    {"fa": "زحمت", "r": "zahmat", "en": "trouble, effort", "pos": "n", "ex": {"fa": "ببخشید، زحمت دادیم.", "r": "bebakhshid, zahmat dādim.", "en": "Sorry for the trouble (we caused)."}},
+    {"fa": "مهمان", "r": "mehmān", "en": "guest", "pos": "n", "note": "spoken مهمون mehmun"},
+    {"fa": "مهمانی", "r": "mehmāni", "en": "party; dinner invitation", "pos": "n"},
+    {"fa": "دعوت کردن", "r": "da'vat kardan", "en": "to invite", "pos": "v"},
+    {"fa": "تلفن", "r": "telefon", "en": "telephone", "pos": "n"},
+    {"fa": "الو", "r": "alo", "en": "hello (on the phone)", "pos": "phrase"},
+    {"fa": "گوشی", "r": "gushi", "en": "(phone) receiver; mobile phone", "pos": "n"},
+    {"fa": "حتماً", "r": "hatman", "en": "definitely, of course", "pos": "adv"},
+    {"fa": "سیر", "r": "sir", "en": "full (after eating)", "pos": "adj", "ex": {"fa": "سیر شدم.", "r": "sir shodam.", "en": "I'm full."}},
+    {"fa": "سر زدن", "r": "sar zadan", "en": "to drop in, to visit briefly", "pos": "v"}
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The everyday formulas – and their answers",
+   "md": "Each formula has its moment, and many have a fixed answer. Don't translate them word for word: [[دست شما درد نکند|dast-e shomā dard na-konad]] is simply *thank you* for something someone has made or done for you, and [[خسته نباشید|khaste na-bāshid]] is what you say to a shopkeeper, a teacher at the end of class or a friend who has just finished a job.\n\nThe formulas with a verb use the be- / na- forms you know from the imperative and from باید: [[نکند|na-konad|may it not do]], [[نباشید|na-bāshid|may you not be]]. To a friend, change *shomā* to *to* and the endings to the singular: [[دستت درد نکند|dast-at dard na-konad]], [[خسته نباشی|khaste na-bāshi]].",
+   "table": {
+    "head": ["Say", "when", "literally", "the answer"],
+    "rows": [
+     ["[[بفرمایید|befarmāyid]]", "come in, sit down, help yourself, here you are, after you", "please do", "[[ممنون|mamnun]]"],
+     ["[[خوش آمدید|khosh āmadid]]", "a guest arrives", "you came happily", "[[خوش باشید|khosh bāshid]]"],
+     ["[[ببخشید|bebakhshid]]", "excuse me, sorry", "forgive", "[[خواهش می‌کنم|khāhesh mi-konam]]"],
+     ["[[چشم|chashm]]", "yes, of course (to a request)", "on my eye", "[[چشمتان بی‌بلا|chashm-etān bi-balā]]"],
+     ["[[قابل ندارد|ghābel na-dārad]]", "giving a gift; a seller asked the price", "it is not worthy", "[[صاحبش قابل است|sāheb-ash ghābel ast]]"],
+     ["[[دست شما درد نکند|dast-e shomā dard na-konad]]", "thank you for cooking, a gift, help", "may your hand not hurt", "[[سر شما درد نکند|sar-e shomā dard na-konad]]"],
+     ["[[خسته نباشید|khaste na-bāshid]]", "to someone working or finishing work", "may you not be tired", "[[سلامت باشید|salāmat bāshid]]"],
+     ["[[نوش جان|nush-e jān]]", "to someone eating or thanking you for food", "sweet to your soul", "[[ممنون|mamnun]]"]
+    ]
+   },
+   "examples": [
+    {"fa": "بفرمایید، این‌جا بنشینید.", "r": "befarmāyid, in-jā beneshinid.", "en": "Please, sit here.", "col": "بفرمایید، این‌جا بشینید.", "colR": "befarmāyid, in-jā beshinid."},
+    {"fa": "دستتان درد نکند، خیلی خوشمزه بود.", "r": "dast-etān dard na-konad, kheyli khoshmaze bud.", "en": "Thank you, it was delicious.", "col": "دستتون درد نکنه، خیلی خوشمزه بود.", "colR": "dast-etun dard na-kone, kheyli khoshmaze bud."},
+    {"fa": "خسته نباشید! کار تمام شد؟", "r": "khaste na-bāshid! kār tamām shod?", "en": "Well done! Is the work finished?", "col": "خسته نباشین! کار تموم شد؟", "colR": "khaste na-bāshin! kār tamum shod?"},
+    {"fa": "ببخشید، ساعت چند است؟", "r": "bebakhshid, sā'at chand ast?", "en": "Excuse me, what time is it?", "col": "ببخشید، ساعت چنده؟", "colR": "bebakhshid, sā'at chande?"},
+    {"fa": "چشم، الان می‌آورم.", "r": "chashm, alān mi-āvaram.", "en": "Of course, I'll bring it right away.", "col": "چشم، الان میارم.", "colR": "chashm, alān miyāram."}
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The ta'arof dance: offering, refusing, insisting",
+   "md": "When you are offered something – tea, fruit, a second helping, the front seat – the polite pattern is: refuse once, let the host insist, then accept. Hosts expect to offer at least twice, so a first *no* is never the end of the matter.\n\nMost of the phrases are polite imperatives, and the refusals are **negative** imperatives with **na-** (lesson 16): [[زحمت نکشید|zahmat na-keshid|don't trouble yourself]], [[تعارف نکنید|ta'ārof na-konid|don't stand on ceremony]]. A very polite word for *eat* or *have* is [[میل کردن|meyl kardan]]: [[میل کنید|meyl konid|please have some]].\n\nIf you really mean no, say it with a smile and a reason: [[نه، واقعاً ممنون. سیر شدم.|na, vāghe'an mamnun. sir shodam.|No, really, thank you. I'm full.]]",
+   "table": {
+    "head": ["Step", "Persian", "English"],
+    "rows": [
+     ["1. the offer", "[[بفرمایید، میل کنید.|befarmāyid, meyl konid.]]", "Please, have some."],
+     ["2. the first refusal", "[[نه، ممنون. زحمت نکشید.|na, mamnun. zahmat na-keshid.]]", "No, thank you. Don't go to any trouble."],
+     ["3. the host insists", "[[تعارف نکنید! خواهش می‌کنم.|ta'ārof na-konid! khāhesh mi-konam.]]", "Don't be shy! I insist."],
+     ["4. accepting", "[[چشم، پس کمی.|chashm, pas kami.]]", "All right, just a little then."],
+     ["5. thanking", "[[دستتان درد نکند.|dast-etān dard na-konad.]]", "Thank you."],
+     ["6. leaving", "[[ببخشید، زحمت دادیم.|bebakhshid, zahmat dādim.]]", "Sorry for all the trouble."],
+     ["7. the host's answer", "[[زحمت نبود، رحمت بود.|zahmat na-bud, rahmat bud.]]", "It was no trouble, it was a blessing."]
+    ]
+   },
+   "examples": [
+    {"fa": "میوه میل کنید.", "r": "mive meyl konid.", "en": "Please have some fruit.", "col": "میوه میل کنین.", "colR": "mive meyl konin."},
+    {"fa": "نه، ممنون. زحمت نکشید.", "r": "na, mamnun. zahmat na-keshid.", "en": "No, thank you. Don't go to any trouble."},
+    {"fa": "تعارف نکنید، بفرمایید!", "r": "ta'ārof na-konid, befarmāyid!", "en": "Don't be shy, help yourself!", "col": "تعارف نکنین، بفرمایین!", "colR": "ta'ārof na-konin, befarmāyin!"},
+    {"fa": "ببخشید، خیلی زحمت دادیم.", "r": "bebakhshid, kheyli zahmat dādim.", "en": "Sorry, we've caused you a lot of trouble."},
+    {"fa": "زحمت نبود، رحمت بود.", "r": "zahmat na-bud, rahmat bud.", "en": "It was no trouble, it was a blessing.", "note": "zahmat and rahmat rhyme – a favourite piece of politeness"}
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "On the phone, and invitations",
+   "md": "Iranians answer the phone with [[الو؟|alo?]] – or, at work, with [[بفرمایید.|befarmāyid.]] Two things are new. First, when you ask for a respected person, Persian uses the **plural** verb out of respect, even for one person: [[آقای کریمی هستند؟|āghā-ye Karimi hastand?|Is Mr Karimi there?]] Second, *hold the line* is an image: [[گوشی دستتان باشد|gushi dast-etān bāshad]], literally *let the receiver stay in your hand*.\n\nTo invite someone, the simplest way is [[مهمان ما باشید|mehmān-e mā bāshid|be our guest(s)]] – [[باشید|bāshid]] is the be- form of *to be*. Accept with [[با کمال میل|bā kamāl-e meyl|with the greatest pleasure]] or [[حتماً|hatman|definitely]]. And on the phone, goodbye comes in a long string: [[قربان شما، خدا حافظ!|ghorbān-e shomā, khodā hāfez!]]",
+   "table": {
+    "head": ["Persian", "English", "note"],
+    "rows": [
+     ["[[الو؟|alo?]]", "Hello?", "answering the phone"],
+     ["[[سلام، من تام هستم.|salām, man Tām hastam.]]", "Hello, it's Tom.", "saying who you are"],
+     ["[[ببخشید، آقای کریمی هستند؟|bebakhshid, āghā-ye Karimi hastand?]]", "Excuse me, is Mr Karimi there?", "plural of respect"],
+     ["[[گوشی دستتان باشد.|gushi dast-etān bāshad.]]", "Hold the line, please.", "let the receiver be in your hand"],
+     ["[[ایشان نیستند.|ishān nistand.]]", "He / she isn't here.", "ایشان: respectful he / she"],
+     ["[[بعداً زنگ می‌زنم.|ba'dan zang mi-zanam.]]", "I'll call back later.", ""],
+     ["[[اشتباه گرفتید.|eshtebāh gereftid.]]", "You've got the wrong number.", "you took (it) wrong"],
+     ["[[فردا شب مهمان ما باشید.|fardā shab mehmān-e mā bāshid.]]", "Be our guests tomorrow night.", "an invitation"],
+     ["[[با کمال میل!|bā kamāl-e meyl!]]", "With great pleasure!", "accepting"],
+     ["[[قربان شما، خدا حافظ!|ghorbān-e shomā, khodā hāfez!]]", "Thank you so much, goodbye!", "I am your sacrifice"]
+    ]
+   },
+   "examples": [
+    {"fa": "الو، سلام. ببخشید، خانم احمدی هستند؟", "r": "alo, salām. bebakhshid, khānom-e Ahmadi hastand?", "en": "Hello. Excuse me, is Ms Ahmadi there?", "col": "الو، سلام. ببخشید، خانم احمدی هستن؟", "colR": "alo, salām. bebakhshid, khānom-e Ahmadi hastan?"},
+    {"fa": "گوشی دستتان باشد، الان صدایش می‌کنم.", "r": "gushi dast-etān bāshad, alān sedā-yash mi-konam.", "en": "Hold the line, I'll call her now.", "col": "گوشی دستتون باشه، الان صداش می‌کنم.", "colR": "gushi dast-etun bāshe, alān sedā-sh mi-konam."},
+    {"fa": "جمعه ناهار مهمان ما باشید.", "r": "jom'e nāhār mehmān-e mā bāshid.", "en": "Be our guests for lunch on Friday.", "col": "جمعه ناهار مهمون ما باشین.", "colR": "jom'e nāhār mehmun-e mā bāshin."},
+    {"fa": "با کمال میل! حتماً می‌آیم.", "r": "bā kamāl-e meyl! hatman mi-āyam.", "en": "With great pleasure! I'll definitely come.", "col": "با کمال میل! حتماً میام.", "colR": "bā kamāl-e meyl! hatman miyām."},
+    {"fa": "ببخشید، اشتباه گرفتم.", "r": "bebakhshid, eshtebāh gereftam.", "en": "Sorry, I've dialled the wrong number."}
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Tom and the taxi driver",
+   "intro": "Tom's first lesson in ta'arof did not happen at a dinner table. Read what happened.",
+   "sentences": [
+    {"fa": "تام در تهران با یک تاکسی به خانه رفت.", "r": "Tām dar Tehrān bā yek tāksi be khāne raft.", "en": "In Tehran, Tom took a taxi home."},
+    {"fa": "او از راننده پرسید: «چقدر می‌شود؟»", "r": "u az rānande porsid: «cheghadr mi-shavad?»", "en": "He asked the driver: \"How much is it?\""},
+    {"fa": "راننده گفت: «قابل ندارد.»", "r": "rānande goft: «ghābel na-dārad.»", "en": "The driver said: \"It's nothing.\""},
+    {"fa": "تام گفت: «ممنون!» و از ماشین پیاده شد.", "r": "Tām goft: «mamnun!» o az māshin piyāde shod.", "en": "Tom said \"Thanks!\" and got out of the car."},
+    {"fa": "راننده تعجب کرد و گفت: «آقا، پول!»", "r": "rānande ta'ajjob kard o goft: «āghā, pul!»", "en": "The driver was surprised and said: \"Sir, the money!\""},
+    {"fa": "تام خندید، پول داد و گفت: «ببخشید، تعارف بود؟»", "r": "Tām khandid, pul dād o goft: «bebakhshid, ta'ārof bud?»", "en": "Tom laughed, paid and said: \"Sorry – was that ta'arof?\""},
+    {"fa": "حالا تام می‌داند که «قابل ندارد» تعارف است.", "r": "hālā Tām mi-dānad ke «ghābel na-dārad» ta'ārof ast.", "en": "Now Tom knows that \"ghābel na-dārad\" is ta'arof."}
+   ],
+   "questions": [
+    {"q": "What did the driver say when Tom asked the price?", "options": ["It's nothing.", "A hundred thousand tomans.", "Welcome!"], "answer": 0},
+    {"q": "Why was the driver surprised?", "options": ["Tom spoke Persian", "Tom didn't pay", "Tom gave him flowers"], "answer": 1},
+    {"q": "What did Tom learn?", "options": ["taxis are free in Tehran", "ghābel na-dārad is ta'arof", "drivers don't like foreigners"], "answer": 1}
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Ta'arof: politeness as an art",
+   "md": "[[تعارف|ta'ārof]] is the Iranian art of putting the other person first. At a door, two people may stand for a while saying [[بفرمایید|befarmāyid|after you]] – [[نه، شما بفرمایید|na, shomā befarmāyid|no, after you]]. A host keeps filling your plate and your tea glass; a guest praises the food and leaves a little on the plate to show there was more than enough. A shopkeeper or a taxi driver who says [[قابل ندارد|ghābel na-dārad]] is being gracious, not generous – you insist, and you pay.\n\nThe language is full of exaggerated humility: [[قربان شما|ghorbān-e shomā|I am your sacrifice]] means *thanks, bye*, and [[چاکرم|chāker-am|I'm your servant]] is a cheerful *thanks* among Tehran men. It isn't insincere; it is a way of showing respect, [[احترام|ehterām]], and of keeping social life smooth.\n\nForeigners are forgiven almost everything. A safe rule: refuse an offer once, accept the second time, thank the cook with *dast-etān dard na-konad*, and when you leave, say *bebakhshid, zahmat dādim*.",
+   "image": "iranian-tea"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "**befarmāyid** is the Swiss army knife of Persian politeness: come in, sit down, help yourself, here you are, after you, go ahead, I'm listening. The situation tells you which.",
+    "A first 'no' is often just politeness. If you are the host, offer again; if you are the guest and really want something, accept the second offer.",
+    "**chashm** (eye) is the polite yes to a request – from children to parents, from staff to customers. The kind answer is *chashm-at bi-balā*, 'may your eye be safe from harm'.",
+    "Spoken and friendly forms: *dast-et dard nakone* (to a friend), *dast-etun dard nakone* (polite); *khaste nabāshi* / *khaste nabāshin*.",
+    "In shops and taxis *ghābel na-dārad* never means it's free. Say *khāhesh mi-konam, befarmāyid* and hand over the money."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the formulas",
+   "items": [
+    {"fa": "بفرمایید", "r": "befarmāyid", "en": "please, go ahead, here you are"},
+    {"fa": "خواهش می‌کنم", "r": "khāhesh mi-konam", "en": "you're welcome"},
+    {"fa": "ببخشید", "r": "bebakhshid", "en": "excuse me, sorry"},
+    {"fa": "چشم", "r": "chashm", "en": "of course (to a request)"},
+    {"fa": "نوش جان", "r": "nush-e jān", "en": "enjoy your meal"},
+    {"fa": "خسته نباشید", "r": "khaste na-bāshid", "en": "well done (to someone working)"},
+    {"fa": "قابل ندارد", "r": "ghābel na-dārad", "en": "it's nothing"},
+    {"fa": "خوش آمدید", "r": "khosh āmadid", "en": "welcome"}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "What do you say?",
+   "items": [
+    {"q": "Your host has cooked a wonderful dinner. You say…", "options": ["خسته نباشید!", "دستتان درد نکند!", "خوش آمدید!"], "answer": 1, "explain": "dast-etān dard na-konad – 'may your hand not hurt' – thanks someone for what they made or did."},
+    {"q": "Someone thanks you for the food you cooked. You answer…", "options": ["نوش جان!", "ببخشید!", "الو!"], "answer": 0, "explain": "nush-e jān: 'may it be sweet to your soul'."},
+    {"q": "You ask a shopkeeper the price and he says قابل ندارد. You…", "options": ["take it for free", "insist and pay", "leave the shop"], "answer": 1, "explain": "It is ta'arof: a polite formula, not a gift. Insist – khāhesh mi-konam – and he will tell you the price."},
+    {"q": "You walk into a workshop where people are busy. You greet them with…", "options": ["نوش جان!", "خسته نباشید!", "قابل ندارد!"], "answer": 1, "explain": "khaste na-bāshid, 'may you not be tired', greets people at work."},
+    {"q": "On the phone, 'Hold the line, please' is…", "options": ["گوشی دستتان باشد.", "اشتباه گرفتم.", "بعداً زنگ می‌زنم."], "answer": 0, "explain": "gushi dast-etān bāshad: 'let the receiver stay in your hand'."}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the formulas",
+   "items": [
+    {"fa": "دست شما درد ___!", "r": "dast-e shomā dard ___!", "en": "Thank you (for your trouble)!", "answer": "نکند", "hint": "may it not do"},
+    {"fa": "خسته ___!", "r": "khaste ___!", "en": "Well done! (may you not be tired)", "answer": "نباشید", "hint": "may you not be"},
+    {"fa": "تعارف ___، بفرمایید!", "r": "ta'ārof ___, befarmāyid!", "en": "Don't be shy, help yourself!", "answer": "نکنید", "hint": "don't do (polite)"},
+    {"fa": "قابل شما را ___.", "r": "ghābel-e shomā rā ___.", "en": "It's nothing (it is not worthy of you).", "answer": "ندارد", "hint": "it doesn't have"},
+    {"fa": "فردا شب مهمان ما ___.", "r": "fardā shab mehmān-e mā ___.", "en": "Be our guests tomorrow night.", "answer": "باشید", "hint": "be (polite)"}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {"fa": "خیلی خوشمزه بود، دستتان درد نکند.", "r": "kheyli khoshmaze bud, dast-etān dard na-konad.", "en": "It was delicious, thank you."},
+    {"fa": "بفرمایید، این‌جا بنشینید.", "r": "befarmāyid, in-jā beneshinid.", "en": "Please, sit here."},
+    {"fa": "ببخشید، آقای کریمی هستند؟", "r": "bebakhshid, āghā-ye Karimi hastand?", "en": "Excuse me, is Mr Karimi there?"},
+    {"fa": "فردا شب مهمان ما باشید.", "r": "fardā shab mehmān-e mā bāshid.", "en": "Be our guests tomorrow night."}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {"fa": "خوش آمدید!", "r": "khosh āmadid!", "en": "Welcome!", "options": ["Goodbye!", "Welcome!", "Thank you!"], "answer": 1},
+    {"fa": "زحمت نکشید.", "r": "zahmat na-keshid.", "en": "Don't go to any trouble.", "options": ["Don't go to any trouble.", "It was no trouble.", "Thank you for the food."], "answer": 0},
+    {"fa": "اشتباه گرفتید.", "r": "eshtebāh gereftid.", "en": "You've got the wrong number.", "options": ["You're late.", "You've got the wrong number.", "Please call back later."], "answer": 1}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {"en": "Welcome! Please come in.", "fa": "خوش آمدید! بفرمایید تو.", "r": "khosh āmadid! befarmāyid tu."},
+    {"en": "Thank you, it was delicious. (to your host)", "fa": "دستتان درد نکند، خیلی خوشمزه بود.", "r": "dast-etān dard na-konad, kheyli khoshmaze bud."},
+    {"en": "Excuse me, is Ms Ahmadi there?", "fa": "ببخشید، خانم احمدی هستند؟", "r": "bebakhshid, khānom-e Ahmadi hastand?"},
+    {"en": "With great pleasure! I'll definitely come.", "fa": "با کمال میل! حتماً می‌آیم.", "r": "bā kamāl-e meyl! hatman mi-āyam."}
+   ]
+  }
+ ]
+}

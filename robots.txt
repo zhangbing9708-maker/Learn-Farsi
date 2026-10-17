@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhangbing9708-maker.github.io/learn-farsi/sitemap.xml

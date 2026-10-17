@@ -1,0 +1,429 @@
+{
+ "id": "script-02-alef-be-pe-te-se",
+ "level": "script",
+ "n": 2,
+ "title": "Alef, be, pe, te, se – and the vowels",
+ "titleFa": "الف، ب، پ، ت، ث",
+ "titleR": "alef, be, pe, te, se",
+ "intro": "Your first five letters: the tall stroke alef and the four 'dish' letters that differ only in their dots. With them, and with the three vowel marks, you can already read and write real words – water, father, foot, fever.",
+ "goals": [
+  "read and write ا ب پ ت ث in all their shapes",
+  "read the vowel marks a, e, o and know when alef stands for a vowel",
+  "sound out your first fifteen Persian words"
+ ],
+ "image": "persian-calligraphy",
+ "sections": [
+  {
+   "type": "text",
+   "title": "Alef – the tall one",
+   "md": "[[ا|alef]] is a single vertical stroke, the simplest letter of all, and it does two jobs.\n\n**Inside or at the end of a word** it is the long vowel *ā* – the deep *a* of *father*: [[با|bā|with]], [[پا|pā|foot]].\n\n**At the start of a word** it is a seat for a vowel. If the vowel is long *ā*, alef wears a little wavy hat, [[آ|ā]] (called *madde*): [[آب|āb|water]]. If the vowel is short, the plain alef takes a vowel mark – or, in normal writing, no mark at all, and you know the vowel from the word: [[اَبا|abā|cloak]].\n\nAlef is a **non-joiner**: it connects to the letter before it but never to the one after. Its two shapes are the same stroke, with or without a little tail joining it to the previous letter: ا and ـا."
+  },
+  {
+   "type": "text",
+   "title": "Be, pe, te, se – one dish, different dots",
+   "md": "Four letters share one shape, a shallow dish, and are told apart only by their dots:\n\n- [[ب|be]] – one dot **below** – *b*\n- [[پ|pe]] – three dots **below** – *p* (a Persian addition)\n- [[ت|te]] – two dots **above** – *t*\n- [[ث|se]] – three dots **above** – *s* (only in words from Arabic)\n\nAll four are **joiners**. At the start or in the middle of a word the dish shrinks to a short tooth with its dots: بـ ـبـ, پـ ـپـ, تـ ـتـ, ثـ ـثـ. Only when the letter stands alone or ends a word do you see the full dish: ب, ـب.\n\nSo [[بابا|bābā|dad]] is: a tooth with a dot below (*b*), alef (*ā*), another tooth with a dot (*b*), alef (*ā*). Read it from the right: b-ā-b-ā. Notice that each alef breaks the chain, so the second *be* starts fresh."
+  },
+  {
+   "type": "letters",
+   "title": "The letters of this lesson",
+   "letters": [
+    "ا",
+    "ب",
+    "پ",
+    "ت",
+    "ث"
+   ],
+   "md": "Tap each letter to hear its name and an example word. Look at the four shapes: alone, start, middle, end."
+  },
+  {
+   "type": "text",
+   "title": "The three vowel marks",
+   "md": "The short vowels are written, when they are written at all, as small marks:\n\n- [[بَ|ba]] – a short stroke **above** the letter, called *zebar* or *fathe*: the vowel **a** as in *cat*.\n- [[بِ|be]] – a short stroke **below**, called *zir* or *kasre*: the vowel **e** as in *bed*.\n- [[بُ|bo]] – a small hook **above**, called *pish* or *zamme*: the vowel **o** as in *soft*.\n\nThe mark sits on the consonant that comes *before* the vowel. [[تَب|tab|fever]] is *te* with a zebar, then *be*: t-a-b. [[بُت|bot|idol]] is *be* with a pish, then *te*: b-o-t.\n\nIn this course every new word is shown with its marks the first time, and the audio reads them. Out in the world, [[تب|tab]] and [[بت|bot]] are written bare, and you recognise them as you recognise *tab* and *bot* in English – by knowing the word."
+  },
+  {
+   "type": "vocab",
+   "title": "Words you can read now",
+   "items": [
+    {
+     "fa": "آب",
+     "r": "āb",
+     "en": "water",
+     "pos": "n",
+     "note": "ā with the hat, then be: ā-b",
+     "faV": "آب",
+     "a": "1c5141e4daf8"
+    },
+    {
+     "fa": "بابا",
+     "r": "bābā",
+     "en": "dad",
+     "pos": "n",
+     "faV": "بابا",
+     "a": "afa325dbf601"
+    },
+    {
+     "fa": "پا",
+     "r": "pā",
+     "en": "foot, leg",
+     "pos": "n",
+     "faV": "پا",
+     "a": "f33bbfaa3a09"
+    },
+    {
+     "fa": "با",
+     "r": "bā",
+     "en": "with",
+     "pos": "prep",
+     "faV": "با",
+     "a": "e24a793e8bd7"
+    },
+    {
+     "fa": "تا",
+     "r": "tā",
+     "en": "until; so that",
+     "pos": "prep",
+     "faV": "تا",
+     "a": "19330ade57fc"
+    },
+    {
+     "fa": "تب",
+     "r": "tab",
+     "en": "fever",
+     "pos": "n",
+     "note": "the a is not written",
+     "faV": "تَب",
+     "a": "f69f47369d24"
+    },
+    {
+     "fa": "تاب",
+     "r": "tāb",
+     "en": "swing (in a playground)",
+     "pos": "n",
+     "faV": "تاب",
+     "a": "c81a98ffc163"
+    },
+    {
+     "fa": "باب",
+     "r": "bāb",
+     "en": "chapter; gate",
+     "pos": "n",
+     "faV": "باب",
+     "a": "3b25b51a9c10"
+    },
+    {
+     "fa": "بت",
+     "r": "bot",
+     "en": "idol",
+     "pos": "n",
+     "faV": "بُت",
+     "a": "bae84f0e925b"
+    },
+    {
+     "fa": "پاپ",
+     "r": "pāp",
+     "en": "pope",
+     "pos": "n",
+     "faV": "پاپ",
+     "a": "8e4e3b71edec"
+    },
+    {
+     "fa": "تاپ",
+     "r": "tāp",
+     "en": "top (the garment)",
+     "pos": "n",
+     "faV": "تاپ",
+     "a": "6a72e44a8d01"
+    },
+    {
+     "fa": "ابا",
+     "r": "abā",
+     "en": "cloak, robe",
+     "pos": "n",
+     "note": "plain alef at the start = short a",
+     "faV": "اَبا",
+     "a": "49b0f2030323"
+    },
+    {
+     "fa": "ثابت",
+     "r": "sābet",
+     "en": "fixed, steady",
+     "pos": "adj",
+     "note": "se with three dots: an Arabic word",
+     "faV": "ثابِت",
+     "a": "6c98b44fd50b"
+    },
+    {
+     "fa": "ثبات",
+     "r": "sabāt",
+     "en": "stability",
+     "pos": "n",
+     "faV": "ثَبات",
+     "a": "ad6978288495"
+    },
+    {
+     "fa": "بابت",
+     "r": "bābat",
+     "en": "concerning, for (a payment)",
+     "pos": "prep",
+     "faV": "بابَت",
+     "a": "1ad68bc48f51"
+    }
+   ]
+  },
+  {
+   "type": "tips",
+   "title": "Reading tips",
+   "items": [
+    "Count the dots **first**, then read. One below = b, three below = p, two above = t, three above = s.",
+    "A tooth in the middle of a word is one of these letters (or a few others you will meet later). Its dots tell you which.",
+    "آ at the start is always *ā*; ا at the start is a short vowel – a, e or o – that you learn with the word.",
+    "ا inside a word is always *ā*, never a short vowel.",
+    "Write the dish letters as one movement from right to left, then add the dots. Iranians dot after finishing the word."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Which letter?",
+   "items": [
+    {
+     "q": "Which letter is **pe** (p)?",
+     "options": [
+      "ب",
+      "پ",
+      "ت"
+     ],
+     "answer": 1,
+     "explain": "Three dots below."
+    },
+    {
+     "q": "Which letter is **te** (t)?",
+     "options": [
+      "ث",
+      "ت",
+      "ب"
+     ],
+     "answer": 1,
+     "explain": "Two dots above."
+    },
+    {
+     "q": "Which letter has three dots above and sounds like s?",
+     "options": [
+      "ث",
+      "پ",
+      "ا"
+     ],
+     "answer": 0,
+     "explain": "se – found in words borrowed from Arabic."
+    },
+    {
+     "q": "How is the long ā written at the start of a word?",
+     "options": [
+      "ا",
+      "آ",
+      "ب"
+     ],
+     "answer": 1,
+     "explain": "Alef with the madde hat."
+    },
+    {
+     "q": "The mark [[بِ|be]] stands for which vowel?",
+     "options": [
+      "a",
+      "e",
+      "o"
+     ],
+     "answer": 1,
+     "explain": "The stroke below (zir) is e."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Read the word",
+   "items": [
+    {
+     "q": "Which word is **water**?",
+     "options": [
+      "آب",
+      "باب",
+      "تاب"
+     ],
+     "answer": 0,
+     "explain": "ā-b: alef with hat, then be."
+    },
+    {
+     "q": "Which word is **foot**?",
+     "options": [
+      "پا",
+      "با",
+      "تا"
+     ],
+     "answer": 0,
+     "explain": "p (three dots below) + ā."
+    },
+    {
+     "q": "Which word is **fever**?",
+     "options": [
+      "تاب",
+      "تب",
+      "بت"
+     ],
+     "answer": 1,
+     "explain": "t-b with an unwritten a: tab."
+    },
+    {
+     "q": "Which word is **dad**?",
+     "options": [
+      "بابا",
+      "پاپا",
+      "تاتا"
+     ],
+     "answer": 0,
+     "explain": "b-ā-b-ā."
+    },
+    {
+     "q": "Which word is **fixed, steady**?",
+     "options": [
+      "ثبات",
+      "ثابت",
+      "بابت"
+     ],
+     "answer": 1,
+     "explain": "s-ā-b-t: sābet."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and pick the spelling",
+   "items": [
+    {
+     "fa": "تاب",
+     "r": "tāb",
+     "en": "swing",
+     "options": [
+      "تب",
+      "تاب",
+      "باب"
+     ],
+     "answer": 1,
+     "faV": "تاب",
+     "a": "c81a98ffc163"
+    },
+    {
+     "fa": "بت",
+     "r": "bot",
+     "en": "idol",
+     "options": [
+      "بت",
+      "بابا",
+      "تب"
+     ],
+     "answer": 0,
+     "faV": "بُت",
+     "a": "bae84f0e925b"
+    },
+    {
+     "fa": "پاپ",
+     "r": "pāp",
+     "en": "pope",
+     "options": [
+      "باب",
+      "پاپ",
+      "تاپ"
+     ],
+     "answer": 1,
+     "faV": "پاپ",
+     "a": "8e4e3b71edec"
+    },
+    {
+     "fa": "ثبات",
+     "r": "sabāt",
+     "en": "stability",
+     "options": [
+      "ثابت",
+      "بابت",
+      "ثبات"
+     ],
+     "answer": 2,
+     "faV": "ثَبات",
+     "a": "ad6978288495"
+    },
+    {
+     "fa": "ابا",
+     "r": "abā",
+     "en": "cloak",
+     "options": [
+      "آب",
+      "ابا",
+      "با"
+     ],
+     "answer": 1,
+     "faV": "اَبا",
+     "a": "49b0f2030323"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the words",
+   "items": [
+    {
+     "fa": "آب",
+     "r": "āb",
+     "en": "water",
+     "faV": "آب",
+     "a": "1c5141e4daf8"
+    },
+    {
+     "fa": "پا",
+     "r": "pā",
+     "en": "foot",
+     "faV": "پا",
+     "a": "f33bbfaa3a09"
+    },
+    {
+     "fa": "بابا",
+     "r": "bābā",
+     "en": "dad",
+     "faV": "بابا",
+     "a": "afa325dbf601"
+    },
+    {
+     "fa": "تب",
+     "r": "tab",
+     "en": "fever",
+     "faV": "تَب",
+     "a": "f69f47369d24"
+    },
+    {
+     "fa": "باب",
+     "r": "bāb",
+     "en": "chapter",
+     "faV": "باب",
+     "a": "3b25b51a9c10"
+    },
+    {
+     "fa": "ثابت",
+     "r": "sābet",
+     "en": "fixed",
+     "faV": "ثابِت",
+     "a": "6c98b44fd50b"
+    },
+    {
+     "fa": "تا",
+     "r": "tā",
+     "en": "until",
+     "faV": "تا",
+     "a": "19330ade57fc"
+    }
+   ]
+  }
+ ],
+ "titleV": "اَلِف، ب، پ، ت، ث",
+ "titleA": "9ecea7002fab"
+}

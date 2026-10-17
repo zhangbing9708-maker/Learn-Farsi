@@ -1,0 +1,894 @@
+{
+ "id": "a1-15-weather-and-seasons",
+ "level": "A1",
+ "n": 15,
+ "title": "Weather and seasons",
+ "titleFa": "هوا و فصل‌ها",
+ "titleR": "havā o fasl-hā",
+ "intro": "Iran has four real seasons – snow in Tabriz, sun in Bandar Abbas, and both in Tehran. In this lesson you talk about the weather, name the seasons, say what weather you like and understand the little impersonal sentences Iranians use every morning: havā sard ast, bārān mi-āyad.",
+ "goals": [
+  "say what the weather is like today",
+  "name the four seasons and link them to the Iranian months",
+  "say what weather you like and don't like",
+  "use impersonal sentences with است and verbs like می‌آید and می‌بارد"
+ ],
+ "image": "damavand",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "A cold morning in Tehran",
+   "context": "Tom, an Australian student, meets his neighbour Mina at the bus stop on a winter morning.",
+   "lines": [
+    {
+     "who": "Tom",
+     "fa": "سلام، مینا. امروز هوا خیلی سرد است!",
+     "r": "salām, Minā. emruz havā kheyli sard ast!",
+     "en": "Hello, Mina. The weather is very cold today!",
+     "col": "سلام، مینا. امروز هوا خیلی سرده!",
+     "colR": "salām, Minā. emruz havā kheyli sarde!",
+     "faV": "سَلام، مینا. اِمروز هَوا خَیلی سَرد اَست!",
+     "a": "2a6e75e07265",
+     "colV": "سَلام، مینا. اِمروز هَوا خَیلی سَرده!",
+     "colA": "f57ec0812173"
+    },
+    {
+     "who": "Mina",
+     "fa": "بله، زمستان است. در تهران زمستان‌ها سرد است.",
+     "r": "bale, zemestān ast. dar Tehrān zemestān-hā sard ast.",
+     "en": "Yes, it's winter. Winters are cold in Tehran.",
+     "faV": "بَله، زِمِستان اَست. دَر تِهران زِمِستان‌ها سَرد اَست.",
+     "a": "18c9f6037c48"
+    },
+    {
+     "who": "Tom",
+     "fa": "برف هم می‌آید؟",
+     "r": "barf ham mi-āyad?",
+     "en": "Does it snow too?",
+     "col": "برف هم میاد؟",
+     "colR": "barf ham miyād?",
+     "faV": "بَرف هَم می‌آیَد؟",
+     "a": "4ceb51116316",
+     "colV": "بَرف هَم میاد؟",
+     "colA": "7a7d62b2946b"
+    },
+    {
+     "who": "Mina",
+     "fa": "بله، بعضی وقت‌ها برف می‌بارد. کوه‌ها الان پر از برف هستند.",
+     "r": "bale, ba'zi vaght-hā barf mi-bārad. kuh-hā al'ān por az barf hastand.",
+     "en": "Yes, sometimes it snows. The mountains are full of snow now.",
+     "faV": "بَله، بَعضی وَقت‌ها بَرف می‌بارَد. کوه‌ها اَلان پُر اَز بَرف هَستَند.",
+     "a": "5a1134b4a133"
+    },
+    {
+     "who": "Tom",
+     "fa": "در استرالیا الان تابستان است و هوا گرم است.",
+     "r": "dar Ostorāliyā al'ān tābestān ast o havā garm ast.",
+     "en": "In Australia it is summer now and the weather is warm.",
+     "faV": "دَر اُستُرالیا اَلان تابِستان اَست و هَوا گَرم اَست.",
+     "a": "8fd52f641fd8"
+    },
+    {
+     "who": "Mina",
+     "fa": "چه خوب! شما چه فصلی را دوست دارید؟",
+     "r": "che khub! shomā che fasl-i rā dust dārid?",
+     "en": "How nice! Which season do you like?",
+     "faV": "چه خوب! شُما چه فَصلی را دوست دارید؟",
+     "a": "355f8a124ca8"
+    },
+    {
+     "who": "Tom",
+     "fa": "من بهار را دوست دارم. هوا خوب است و همه جا سبز است.",
+     "r": "man bahār rā dust dāram. havā khub ast o hame jā sabz ast.",
+     "en": "I like spring. The weather is good and everywhere is green.",
+     "faV": "مَن بَهار را دوست دارَم. هَوا خوب اَست و هَمه جا سَبز اَست.",
+     "a": "d0baf9a1a93e"
+    },
+    {
+     "who": "Mina",
+     "fa": "من هم بهار را دوست دارم، به خاطر نوروز!",
+     "r": "man ham bahār rā dust dāram, be khāter-e nowruz!",
+     "en": "I like spring too, because of Nowruz!",
+     "faV": "مَن هَم بَهار را دوست دارَم، به خاطِرِ نَوروز!",
+     "a": "2a421bd1d5da"
+    },
+    {
+     "who": "Tom",
+     "fa": "فردا هوا چطور است؟",
+     "r": "fardā havā chetor ast?",
+     "en": "What is the weather like tomorrow?",
+     "col": "فردا هوا چطوره؟",
+     "colR": "fardā havā chetore?",
+     "faV": "فَردا هَوا چِطور اَست؟",
+     "a": "271980c821fc",
+     "colV": "فَردا هَوا چِطوره؟",
+     "colA": "c9655da6d597"
+    },
+    {
+     "who": "Mina",
+     "fa": "فردا آفتابی است، اما باز هم سرد است. کلاه بیاورید!",
+     "r": "fardā āftābi ast, ammā bāz ham sard ast. kolāh biyāvarid!",
+     "en": "Tomorrow it's sunny, but still cold. Bring a hat!",
+     "faV": "فَردا آفتابی اَست، اَمّا باز هَم سَرد اَست. کُلاه بیاوَرید!",
+     "a": "c010d079ffe5"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Talking about the weather",
+   "md": "The Persian word for weather is [[هوا|havā|weather; air]] – the same word means *air*. The simplest weather sentence is **havā + adjective + ast**: [[هوا سرد است.|havā sard ast.|The weather is cold.]] [[هوا گرم است.|havā garm ast.|The weather is warm.]] [[هوا خوب است.|havā khub ast.|The weather is good.]]\n\nTo ask, use the question word you already know from lesson 1: [[هوا چطور است؟|havā chetor ast?|How is the weather?]] In speech this becomes *havā chetore?*\n\nRain and snow *come*: [[باران می‌آید.|bārān mi-āyad.|It is raining.]] (literally *rain comes*) and [[برف می‌آید.|barf mi-āyad.|It is snowing.]] A more written verb is [[باریدن|bāridan|to fall (of rain or snow)]]: [[باران می‌بارد.|bārān mi-bārad.]] Both are correct; in conversation you will hear *mi-āyad* (spoken *miyād*) far more often.\n\nIranians talk about the weather exactly as much as the British do, and for the same reason: with mountains, desert and two seas, it changes a lot."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "هوا",
+     "r": "havā",
+     "en": "weather; air",
+     "pos": "n",
+     "ex": {
+      "fa": "هوا امروز خوب است.",
+      "r": "havā emruz khub ast.",
+      "en": "The weather is good today.",
+      "faV": "هَوا اِمروز خوب اَست.",
+      "a": "30f6ebc3b574"
+     },
+     "faV": "هَوا",
+     "a": "ad57c5081c6d"
+    },
+    {
+     "fa": "سرد",
+     "r": "sard",
+     "en": "cold",
+     "pos": "adj",
+     "faV": "سَرد",
+     "a": "d684e3e468c8"
+    },
+    {
+     "fa": "گرم",
+     "r": "garm",
+     "en": "warm, hot",
+     "pos": "adj",
+     "note": "used for weather, tea and people (warm-hearted)",
+     "faV": "گَرم",
+     "a": "6776bb281a83"
+    },
+    {
+     "fa": "خنک",
+     "r": "khonak",
+     "en": "cool, pleasantly cold",
+     "pos": "adj",
+     "faV": "خُنَک",
+     "a": "7991794a7655"
+    },
+    {
+     "fa": "آفتابی",
+     "r": "āftābi",
+     "en": "sunny",
+     "pos": "adj",
+     "note": "from آفتاب āftāb, sunshine",
+     "faV": "آفتابی",
+     "a": "f262ac15023d"
+    },
+    {
+     "fa": "ابری",
+     "r": "abri",
+     "en": "cloudy",
+     "pos": "adj",
+     "note": "from ابر abr, cloud",
+     "faV": "اَبری",
+     "a": "8f2d44ddcf88"
+    },
+    {
+     "fa": "بارانی",
+     "r": "bārāni",
+     "en": "rainy",
+     "pos": "adj",
+     "faV": "بارانی",
+     "a": "14ced7063876"
+    },
+    {
+     "fa": "باران",
+     "r": "bārān",
+     "en": "rain",
+     "pos": "n",
+     "ex": {
+      "fa": "باران می‌آید.",
+      "r": "bārān mi-āyad.",
+      "en": "It is raining.",
+      "faV": "باران می‌آیَد.",
+      "a": "3de4a3e8f763"
+     },
+     "faV": "باران",
+     "a": "6c007847eb03"
+    },
+    {
+     "fa": "برف",
+     "r": "barf",
+     "en": "snow",
+     "pos": "n",
+     "ex": {
+      "fa": "برف می‌بارد.",
+      "r": "barf mi-bārad.",
+      "en": "It is snowing.",
+      "faV": "بَرف می‌بارَد.",
+      "a": "fa134ec6be95"
+     },
+     "faV": "بَرف",
+     "a": "6b2b7b64ea55"
+    },
+    {
+     "fa": "باد",
+     "r": "bād",
+     "en": "wind",
+     "pos": "n",
+     "ex": {
+      "fa": "باد می‌آید.",
+      "r": "bād mi-āyad.",
+      "en": "It is windy.",
+      "faV": "باد می‌آیَد.",
+      "a": "0886a4b0352f"
+     },
+     "faV": "باد",
+     "a": "3dead206660c"
+    },
+    {
+     "fa": "خورشید",
+     "r": "khorshid",
+     "en": "sun",
+     "pos": "n",
+     "faV": "خورشید",
+     "a": "26a40b47358c"
+    },
+    {
+     "fa": "آسمان",
+     "r": "āsemān",
+     "en": "sky",
+     "pos": "n",
+     "faV": "آسِمان",
+     "a": "e2674f18870f"
+    },
+    {
+     "fa": "ابر",
+     "r": "abr",
+     "en": "cloud",
+     "pos": "n",
+     "faV": "اَبر",
+     "a": "eba43edb3750"
+    },
+    {
+     "fa": "فصل",
+     "r": "fasl",
+     "en": "season",
+     "pos": "n",
+     "ex": {
+      "fa": "ایران چهار فصل دارد.",
+      "r": "Irān chahār fasl dārad.",
+      "en": "Iran has four seasons.",
+      "faV": "ایران چَهار فَصل دارَد.",
+      "a": "ae9775b5985c"
+     },
+     "faV": "فَصل",
+     "a": "7d106eed6208"
+    },
+    {
+     "fa": "بهار",
+     "r": "bahār",
+     "en": "spring",
+     "pos": "n",
+     "faV": "بَهار",
+     "a": "e0728a9102a1"
+    },
+    {
+     "fa": "تابستان",
+     "r": "tābestān",
+     "en": "summer",
+     "pos": "n",
+     "faV": "تابِستان",
+     "a": "03ba5de2e0a0"
+    },
+    {
+     "fa": "پاییز",
+     "r": "pāyiz",
+     "en": "autumn",
+     "pos": "n",
+     "faV": "پاییز",
+     "a": "063997d7db61"
+    },
+    {
+     "fa": "زمستان",
+     "r": "zemestān",
+     "en": "winter",
+     "pos": "n",
+     "faV": "زِمِستان",
+     "a": "855c9a97c4fc"
+    },
+    {
+     "fa": "درجه",
+     "r": "daraje",
+     "en": "degree",
+     "pos": "n",
+     "ex": {
+      "fa": "هوا سی درجه است.",
+      "r": "havā si daraje ast.",
+      "en": "It is thirty degrees.",
+      "faV": "هَوا سی دَرَجه اَست.",
+      "a": "fe273a910553"
+     },
+     "faV": "دَرَجه",
+     "a": "cfeda5e96bce"
+    },
+    {
+     "fa": "کوه",
+     "r": "kuh",
+     "en": "mountain",
+     "pos": "n",
+     "faV": "کوه",
+     "a": "dce9030c3b67"
+    },
+    {
+     "fa": "دریا",
+     "r": "daryā",
+     "en": "sea",
+     "pos": "n",
+     "faV": "دَریا",
+     "a": "bba4d18a61d0"
+    },
+    {
+     "fa": "بعضی وقت‌ها",
+     "r": "ba'zi vaght-hā",
+     "en": "sometimes",
+     "pos": "adv",
+     "faV": "بَعضی وَقت‌ها",
+     "a": "f8339cbcadf3"
+    },
+    {
+     "fa": "همیشه",
+     "r": "hamishe",
+     "en": "always",
+     "pos": "adv",
+     "faV": "هَمیشه",
+     "a": "ce38ac601b82"
+    },
+    {
+     "fa": "هیچ‌وقت",
+     "r": "hich-vaght",
+     "en": "never",
+     "pos": "adv",
+     "note": "used with a negative verb: هیچ‌وقت برف نمی‌آید",
+     "faV": "هیچ‌وَقت",
+     "a": "c0710c551246"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Sentences without a person: it is cold, it is raining",
+   "md": "English needs a dummy *it*: *it is cold, it is raining*. Persian simply names the thing: **havā** (the weather) is cold, **bārān** (rain) comes. There is no empty *it*.\n\nWith adjectives you use **ast** (spoken **-e**): [[هوا سرد است.|havā sard ast.]] → 🗣 *havā sarde*. For the negative, **nist**: [[هوا سرد نیست.|havā sard nist.|The weather is not cold.]]\n\nWith rain, snow and wind you use a verb in the present tense, which you learned in lesson 11: [[باران می‌آید|bārān mi-āyad|rain comes]], [[برف می‌آید|barf mi-āyad|snow comes]], [[باد می‌آید|bād mi-āyad|wind comes]]. The negative puts **na-** before **mi-**: [[باران نمی‌آید.|bārān nemi-āyad.|It is not raining.]]\n\nTemperatures use **daraje** (degree): [[امروز بیست درجه است.|emruz bist daraje ast.|It is twenty degrees today.]] Below zero is [[زیر صفر|zir-e sefr|below zero]].",
+   "table": {
+    "head": [
+     "Persian",
+     "Reading",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[هوا گرم است.|havā garm ast.]]",
+      "weather + adjective + ast",
+      "It is warm."
+     ],
+     [
+      "[[هوا ابری است.|havā abri ast.]]",
+      "",
+      "It is cloudy."
+     ],
+     [
+      "[[باران می‌آید.|bārān mi-āyad.]]",
+      "noun + verb",
+      "It is raining."
+     ],
+     [
+      "[[برف می‌بارد.|barf mi-bārad.]]",
+      "",
+      "It is snowing."
+     ],
+     [
+      "[[هوا سرد نیست.|havā sard nist.]]",
+      "negative with nist",
+      "It is not cold."
+     ],
+     [
+      "[[باران نمی‌آید.|bārān nemi-āyad.]]",
+      "negative with nemi-",
+      "It is not raining."
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "امروز هوا آفتابی است.",
+     "r": "emruz havā āftābi ast.",
+     "en": "Today the weather is sunny.",
+     "col": "امروز هوا آفتابیه.",
+     "colR": "emruz havā āftābiye.",
+     "faV": "اِمروز هَوا آفتابی اَست.",
+     "a": "9f783ec546cd",
+     "colV": "اِمروز هَوا آفتابیه.",
+     "colA": "a11294b5bb50"
+    },
+    {
+     "fa": "در شیراز زمستان خیلی سرد نیست.",
+     "r": "dar Shirāz zemestān kheyli sard nist.",
+     "en": "In Shiraz winter is not very cold.",
+     "faV": "دَر شیراز زِمِستان خَیلی سَرد نیست.",
+     "a": "6f6c1984d36f"
+    },
+    {
+     "fa": "در رشت همیشه باران می‌آید.",
+     "r": "dar Rasht hamishe bārān mi-āyad.",
+     "en": "In Rasht it always rains.",
+     "faV": "دَر رَشت هَمیشه باران می‌آیَد.",
+     "a": "93c632dd21f2"
+    },
+    {
+     "fa": "هوا امروز دو درجه زیر صفر است.",
+     "r": "havā emruz do daraje zir-e sefr ast.",
+     "en": "It is two degrees below zero today.",
+     "faV": "هَوا اِمروز دو دَرَجه زیرِ صِفر اَست.",
+     "a": "356e2ab28307"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The four seasons and their months",
+   "md": "You learned the Iranian months in lesson 12. The Iranian year begins with spring, on the first day of [[فروردین|Farvardin]] (around 21 March), and each season is exactly three months long. That is why Iranians say their calendar follows nature: [[بهار|bahār|spring]] is Farvardin, Ordibehesht, Khordād; [[تابستان|tābestān|summer]] is Tir, Mordād, Shahrivar; [[پاییز|pāyiz|autumn]] is Mehr, Ābān, Āzar; and [[زمستان|zemestān|winter]] is Dey, Bahman, Esfand.\n\nTo say *in spring*, use **dar** or nothing at all: [[در بهار هوا خوب است.|dar bahār havā khub ast.|In spring the weather is good.]] To say *this summer*, use این: [[این تابستان|in tābestān|this summer]]. Plurals make general statements: [[زمستان‌ها سرد است.|zemestān-hā sard ast.|Winters are cold.]] – notice the verb stays singular because the subject is a thing, not a person.",
+   "table": {
+    "head": [
+     "Season",
+     "Reading",
+     "Months",
+     "Weather"
+    ],
+    "rows": [
+     [
+      "[[بهار|bahār]]",
+      "spring",
+      "فروردین، اردیبهشت، خرداد",
+      "[[هوا خوب و خنک است.|havā khub o khonak ast.]]"
+     ],
+     [
+      "[[تابستان|tābestān]]",
+      "summer",
+      "تیر، مرداد، شهریور",
+      "[[هوا گرم است.|havā garm ast.]]"
+     ],
+     [
+      "[[پاییز|pāyiz]]",
+      "autumn",
+      "مهر، آبان، آذر",
+      "[[باران می‌آید.|bārān mi-āyad.]]"
+     ],
+     [
+      "[[زمستان|zemestān]]",
+      "winter",
+      "دی، بهمن، اسفند",
+      "[[برف می‌آید.|barf mi-āyad.]]"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "بهار در فروردین شروع می‌شود.",
+     "r": "bahār dar Farvardin shoru' mi-shavad.",
+     "en": "Spring starts in Farvardin.",
+     "faV": "بَهار دَر فَروَردین شُروع می‌شَوَد.",
+     "a": "d3a49b1a5d11"
+    },
+    {
+     "fa": "تابستان‌ها در تهران خیلی گرم است.",
+     "r": "tābestān-hā dar Tehrān kheyli garm ast.",
+     "en": "Summers in Tehran are very hot.",
+     "faV": "تابِستان‌ها دَر تِهران خَیلی گَرم اَست.",
+     "a": "f49ea56b9cd0"
+    },
+    {
+     "fa": "من پاییز را دوست دارم.",
+     "r": "man pāyiz rā dust dāram.",
+     "en": "I like autumn.",
+     "faV": "مَن پاییز را دوست دارَم.",
+     "a": "9f1fb622fda6"
+    },
+    {
+     "fa": "در زمستان کوه‌ها سفید هستند.",
+     "r": "dar zemestān kuh-hā sefid hastand.",
+     "en": "In winter the mountains are white.",
+     "faV": "دَر زِمِستان کوه‌ها سِفید هَستَند.",
+     "a": "b5eebdde64ad"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Four seasons in one country",
+   "intro": "Read the text about the weather in different parts of Iran. Then answer the questions.",
+   "sentences": [
+    {
+     "fa": "ایران کشور چهار فصل است.",
+     "r": "Irān keshvar-e chahār fasl ast.",
+     "en": "Iran is the country of four seasons.",
+     "faV": "ایران کِشوَرِ چَهار فَصل اَست.",
+     "a": "cb9684dfae4e"
+    },
+    {
+     "fa": "در زمستان، در تبریز برف می‌آید و هوا خیلی سرد است.",
+     "r": "dar zemestān, dar Tabriz barf mi-āyad o havā kheyli sard ast.",
+     "en": "In winter, it snows in Tabriz and the weather is very cold.",
+     "faV": "دَر زِمِستان، دَر تَبریز بَرف می‌آیَد و هَوا خَیلی سَرد اَست.",
+     "a": "baad43d5275a"
+    },
+    {
+     "fa": "اما در همان روز، در بندرعباس هوا گرم و آفتابی است.",
+     "r": "ammā dar hamān ruz, dar Bandar-abbās havā garm o āftābi ast.",
+     "en": "But on the same day, in Bandar Abbas the weather is warm and sunny.",
+     "faV": "اَمّا دَر هَمان روز، دَر بَندَرعَبّاس هَوا گَرم و آفتابی اَست.",
+     "a": "9e8d3f5ee4fd"
+    },
+    {
+     "fa": "در شمال، کنار دریای خزر، همیشه باران می‌آید و همه جا سبز است.",
+     "r": "dar shomāl, kenār-e daryā-ye Khazar, hamishe bārān mi-āyad o hame jā sabz ast.",
+     "en": "In the north, by the Caspian Sea, it always rains and everywhere is green.",
+     "faV": "دَر شُمال، کِنارِ دَریایِ خَزَر، هَمیشه باران می‌آیَد و هَمه جا سَبز اَست.",
+     "a": "545e0bf4e16c"
+    },
+    {
+     "fa": "در کویر، در تابستان هوا پنجاه درجه است!",
+     "r": "dar kavir, dar tābestān havā panjāh daraje ast!",
+     "en": "In the desert, in summer it is fifty degrees!",
+     "faV": "دَر کَویر، دَر تابِستان هَوا پَنجاه دَرَجه اَست!",
+     "a": "a3e89cada2d1"
+    },
+    {
+     "fa": "تهران بین کوه و کویر است: زمستان سرد و تابستان گرم.",
+     "r": "Tehrān beyn-e kuh o kavir ast: zemestān sard o tābestān garm.",
+     "en": "Tehran is between the mountains and the desert: a cold winter and a hot summer.",
+     "faV": "تِهران بَینِ کوه و کَویر اَست: زِمِستان سَرد و تابِستان گَرم.",
+     "a": "05a436be9d99"
+    },
+    {
+     "fa": "بهترین فصل برای سفر به ایران بهار است.",
+     "r": "behtarin fasl barā-ye safar be Irān bahār ast.",
+     "en": "The best season for a trip to Iran is spring.",
+     "faV": "بِهتَرین فَصل بَرایِ سَفَر به ایران بَهار اَست.",
+     "a": "8b2cd1ff88e1"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What is the weather like in Tabriz in winter?",
+     "options": [
+      "warm and sunny",
+      "snowy and very cold",
+      "rainy and green"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Where does it always rain?",
+     "options": [
+      "in the desert",
+      "in Bandar Abbas",
+      "by the Caspian Sea in the north"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "Which season is best for a trip to Iran, according to the text?",
+     "options": [
+      "spring",
+      "summer",
+      "winter"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Damāvand, the Caspian and the desert",
+   "md": "Iran is twice the size of Turkey and has almost every climate on earth. The [[البرز|Alborz]] mountains run along the north; their highest peak, [[دماوند|Damāvand]], is 5,610 m – higher than any mountain in Europe – and is covered in snow all year. On the far side of the Alborz lies the [[دریای خزر|daryā-ye Khazar|Caspian Sea]], the world's largest lake, with rice fields, tea plantations and rain. South of Tehran begin the two great deserts, [[دشت کویر|dasht-e kavir]] and [[دشت لوت|dasht-e lut]]; Lut has recorded some of the hottest ground temperatures ever measured.\n\nTehranis escape the summer heat by driving north to the Caspian for the weekend – the Chālus road through the mountains is famous for its traffic jams. In winter they ski at Dizin and Tochāl, forty minutes from the city centre. So when someone from Tehran asks [[هوا چطور است؟|havā chetor ast?]], the honest answer is: it depends which way you are facing.",
+   "image": "caspian-sea"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "**garm** means both *warm* and *hot*. If you really want to say *hot* for weather, say [[خیلی گرم|kheyli garm]]; **dāgh** is for hot objects and drinks: [[چای داغ|chāy-e dāgh|hot tea]].",
+    "**khonak** is a compliment to the weather – pleasantly cool, like a spring evening. **sard** is simply cold.",
+    "The spoken form of **mi-āyad** is **miyād**: *bārān miyād*, *barf miyād*. You will hear this ten times more often than the written form.",
+    "Seasons are easy to remember: **bahār** starts the year at Nowruz, and the autumn month **Mehr** is also the month schools reopen – the start of the Iranian school year is 1 Mehr (around 23 September)."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the words",
+   "items": [
+    {
+     "fa": "بهار",
+     "r": "bahār",
+     "en": "spring",
+     "faV": "بَهار",
+     "a": "e0728a9102a1"
+    },
+    {
+     "fa": "تابستان",
+     "r": "tābestān",
+     "en": "summer",
+     "faV": "تابِستان",
+     "a": "03ba5de2e0a0"
+    },
+    {
+     "fa": "پاییز",
+     "r": "pāyiz",
+     "en": "autumn",
+     "faV": "پاییز",
+     "a": "063997d7db61"
+    },
+    {
+     "fa": "زمستان",
+     "r": "zemestān",
+     "en": "winter",
+     "faV": "زِمِستان",
+     "a": "855c9a97c4fc"
+    },
+    {
+     "fa": "باران",
+     "r": "bārān",
+     "en": "rain",
+     "faV": "باران",
+     "a": "6c007847eb03"
+    },
+    {
+     "fa": "برف",
+     "r": "barf",
+     "en": "snow",
+     "faV": "بَرف",
+     "a": "6b2b7b64ea55"
+    },
+    {
+     "fa": "آفتابی",
+     "r": "āftābi",
+     "en": "sunny",
+     "faV": "آفتابی",
+     "a": "f262ac15023d"
+    },
+    {
+     "fa": "ابری",
+     "r": "abri",
+     "en": "cloudy",
+     "faV": "اَبری",
+     "a": "8f2d44ddcf88"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right answer",
+   "items": [
+    {
+     "q": "How do you say 'It is raining'?",
+     "options": [
+      "باران می‌آید.",
+      "باران است.",
+      "باران دارد."
+     ],
+     "answer": 0,
+     "explain": "Rain 'comes' in Persian: bārān mi-āyad."
+    },
+    {
+     "q": "Which month belongs to winter?",
+     "options": [
+      "مهر",
+      "بهمن",
+      "خرداد"
+     ],
+     "answer": 1,
+     "explain": "Winter is Dey, Bahman and Esfand. Mehr is autumn, Khordād is spring."
+    },
+    {
+     "q": "[[هوا خنک است.|havā khonak ast.]] means…",
+     "options": [
+      "It is pleasantly cool.",
+      "It is very hot.",
+      "It is windy."
+     ],
+     "answer": 0,
+     "explain": "khonak is pleasant coolness; garm is warm/hot; bād mi-āyad is windy."
+    },
+    {
+     "q": "What is the negative of [[هوا سرد است|havā sard ast]]?",
+     "options": [
+      "هوا سرد نمی‌آید",
+      "هوا سرد نیست",
+      "هوا سرد ندارد"
+     ],
+     "answer": 1,
+     "explain": "ast becomes nist in the negative."
+    },
+    {
+     "q": "The Iranian year begins in which season?",
+     "options": [
+      "winter",
+      "autumn",
+      "spring"
+     ],
+     "answer": 2,
+     "explain": "1 Farvardin, Nowruz, is the first day of spring."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {
+     "fa": "امروز هوا ___ است، کلاه بیاورید.",
+     "r": "emruz havā ___ ast, kolāh biyāvarid.",
+     "en": "Today it is cold, bring a hat.",
+     "answer": "سرد",
+     "hint": "cold"
+    },
+    {
+     "fa": "در شمال همیشه ___ می‌آید.",
+     "r": "dar shomāl hamishe ___ mi-āyad.",
+     "en": "In the north it always rains.",
+     "answer": "باران",
+     "hint": "rain"
+    },
+    {
+     "fa": "ایران چهار ___ دارد.",
+     "r": "Irān chahār ___ dārad.",
+     "en": "Iran has four seasons.",
+     "answer": "فصل",
+     "hint": "season"
+    },
+    {
+     "fa": "در ___ هوا خیلی گرم است.",
+     "r": "dar ___ havā kheyli garm ast.",
+     "en": "In summer the weather is very hot.",
+     "answer": "تابستان",
+     "hint": "summer"
+    },
+    {
+     "fa": "هوا امروز سی ___ است.",
+     "r": "havā emruz si ___ ast.",
+     "en": "It is thirty degrees today.",
+     "answer": "درجه",
+     "hint": "degree"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "امروز هوا خیلی سرد است.",
+     "r": "emruz havā kheyli sard ast.",
+     "en": "Today the weather is very cold.",
+     "faV": "اِمروز هَوا خَیلی سَرد اَست.",
+     "a": "c96e147ef2a0"
+    },
+    {
+     "fa": "من بهار را دوست دارم.",
+     "r": "man bahār rā dust dāram.",
+     "en": "I like spring.",
+     "faV": "مَن بَهار را دوست دارَم.",
+     "a": "8227d479af86"
+    },
+    {
+     "fa": "در تبریز برف می‌آید.",
+     "r": "dar Tabriz barf mi-āyad.",
+     "en": "It snows in Tabriz.",
+     "faV": "دَر تَبریز بَرف می‌آیَد.",
+     "a": "05237d98a7ae"
+    },
+    {
+     "fa": "فردا هوا آفتابی است.",
+     "r": "fardā havā āftābi ast.",
+     "en": "Tomorrow the weather is sunny.",
+     "faV": "فَردا هَوا آفتابی اَست.",
+     "a": "d32460be6609"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "هوا ابری است.",
+     "r": "havā abri ast.",
+     "en": "It is cloudy.",
+     "options": [
+      "It is cloudy.",
+      "It is sunny.",
+      "It is windy."
+     ],
+     "answer": 0,
+     "faV": "هَوا اَبری اَست.",
+     "a": "67cc6e1e57c5"
+    },
+    {
+     "fa": "برف می‌بارد.",
+     "r": "barf mi-bārad.",
+     "en": "It is snowing.",
+     "options": [
+      "It is raining.",
+      "It is snowing.",
+      "It is cold."
+     ],
+     "answer": 1,
+     "faV": "بَرف می‌بارَد.",
+     "a": "fa134ec6be95"
+    },
+    {
+     "fa": "هوا چطور است؟",
+     "r": "havā chetor ast?",
+     "en": "How is the weather?",
+     "options": [
+      "What season is it?",
+      "How is the weather?",
+      "Is it warm?"
+     ],
+     "answer": 1,
+     "faV": "هَوا چِطور اَست؟",
+     "a": "6d7fb1d4ddb6"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "The weather is good today.",
+     "fa": "امروز هوا خوب است.",
+     "r": "emruz havā khub ast.",
+     "faV": "اِمروز هَوا خوب اَست.",
+     "a": "b22867ac4a31"
+    },
+    {
+     "en": "It is not raining.",
+     "fa": "باران نمی‌آید.",
+     "r": "bārān nemi-āyad.",
+     "faV": "باران نِمی‌آیَد.",
+     "a": "d0204d5e03f4"
+    },
+    {
+     "en": "Winters in Tehran are cold.",
+     "fa": "زمستان‌ها در تهران سرد است.",
+     "r": "zemestān-hā dar Tehrān sard ast.",
+     "faV": "زِمِستان‌ها دَر تِهران سَرد اَست.",
+     "a": "96fe1354f9fa"
+    },
+    {
+     "en": "Which season do you like?",
+     "fa": "شما چه فصلی را دوست دارید؟",
+     "r": "shomā che fasl-i rā dust dārid?",
+     "faV": "شُما چه فَصلی را دوست دارید؟",
+     "a": "50e676af9818"
+    }
+   ]
+  }
+ ],
+ "titleV": "هَوا و فَصل‌ها",
+ "titleA": "6852e4c4f1c0"
+}

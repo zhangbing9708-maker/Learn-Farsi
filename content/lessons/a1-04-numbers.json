@@ -1,0 +1,1055 @@
+{
+ "id": "a1-04-numbers",
+ "level": "A1",
+ "n": 4,
+ "title": "One, two, three: numbers, ages and prices",
+ "titleFa": "یک، دو، سه",
+ "titleR": "yek, do, se",
+ "intro": "Numbers open up daily life: how old you are, your phone number, the price of a book, how many people are in the room. In this lesson you learn to count from zero to a thousand, to ask and give ages and phone numbers, and to understand the prices you hear in an Iranian shop – where even a glass of tea costs thousands.",
+ "goals": [
+  "count from 0 to 1,000",
+  "ask and say how old someone is: chand sāl dārid?",
+  "give a phone number the Iranian way",
+  "ask prices with chand ast? and understand tomans",
+  "count things with tā and a singular noun"
+ ],
+ "image": "tajrish-bazaar",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "Signing up for an evening class",
+   "context": "Tom wants more practice, so he is signing up for an evening Persian course at a language school in Tehran. Ms Ahmadi, the secretary, fills in a form for him.",
+   "lines": [
+    {
+     "who": "Ms Ahmadi",
+     "fa": "خب، اسم شما تام است. چند سال دارید؟",
+     "r": "khob, esm-e shomā Tām ast. chand sāl dārid?",
+     "en": "Right, your name is Tom. How old are you?",
+     "faV": "خُب، اِسمِ شُما تام اَست. چَند سال دارید؟",
+     "a": "9003878ee9d5"
+    },
+    {
+     "who": "Tom",
+     "fa": "بیست و چهار سال دارم.",
+     "r": "bist o chahār sāl dāram.",
+     "en": "I'm twenty-four.",
+     "faV": "بیست و چَهار سال دارَم.",
+     "a": "4adfd4e0cb65"
+    },
+    {
+     "who": "Ms Ahmadi",
+     "fa": "شماره‌ی تلفن شما چند است؟",
+     "r": "shomāre-ye telefon-e shomā chand ast?",
+     "en": "What is your phone number?",
+     "col": "شماره‌ی تلفن شما چنده؟",
+     "colR": "shomāre-ye telefon-e shomā chand-e?",
+     "faV": "شُماره‌یِ تِلِفُنِ شُما چَند اَست؟",
+     "a": "09791b869202",
+     "colV": "شُماره‌یِ تِلِفُنِ شُما چَنده؟",
+     "colA": "9ec8c8a5128d"
+    },
+    {
+     "who": "Tom",
+     "fa": "صفر نهصد و دوازده، سیصد و چهل و پنج، شصت و هفت، هشتاد و نه.",
+     "r": "sefr nohsad o davāzdah, sisad o chehel o panj, shast o haft, hashtād o noh.",
+     "en": "0912 – 345 – 67 – 89.",
+     "faV": "صِفر نُهصَد و دَوازدَه، سیصَد و چِهِل و پَنج، شَصت و هَفت، هَشتاد و نُه.",
+     "a": "4601e53db7b8"
+    },
+    {
+     "who": "Ms Ahmadi",
+     "fa": "ببخشید، یک بار دیگر، لطفاً.",
+     "r": "bebakhshid, yek bār-e digar, lotfan.",
+     "en": "Sorry – once more, please.",
+     "col": "ببخشید، یه بار دیگه، لطفاً.",
+     "colR": "bebakhshid, ye bār-e dige, lotfan.",
+     "faV": "بِبَخشید، یِک بارِ دیگَر، لُطفاً.",
+     "a": "3f71ee7f860f",
+     "colV": "بِبَخشید، یه بارِ دیگه، لُطفاً.",
+     "colA": "3559a371e8b7"
+    },
+    {
+     "who": "Tom",
+     "fa": "صفر، نه، یک، دو… سه، چهار، پنج… شش، هفت… هشت، نه.",
+     "r": "sefr, noh, yek, do… se, chahār, panj… shesh, haft… hasht, noh.",
+     "en": "Zero, nine, one, two… three, four, five… six, seven… eight, nine.",
+     "faV": "صِفر، نُه، یِک، دو… سه، چَهار، پَنج… شِش، هَفت… هَشت، نُه.",
+     "a": "55588ac3e5ad"
+    },
+    {
+     "who": "Ms Ahmadi",
+     "fa": "ممنون. کلاس شما دوازده دانشجو دارد.",
+     "r": "mamnun. kelās-e shomā davāzdah dāneshju dārad.",
+     "en": "Thanks. Your class has twelve students.",
+     "faV": "مَمنون. کِلاسِ شُما دَوازدَه دانِشجو دارَد.",
+     "a": "5f35d7c1f6d0"
+    },
+    {
+     "who": "Tom",
+     "fa": "ببخشید، این کتاب‌ها برای کلاس است؟",
+     "r": "bebakhshid, in ketāb-hā barā-ye kelās ast?",
+     "en": "Excuse me, are these books for the class?",
+     "faV": "بِبَخشید، این کِتاب‌ها بَرایِ کِلاس اَست؟",
+     "a": "50c977b25e90"
+    },
+    {
+     "who": "Ms Ahmadi",
+     "fa": "بله، این دو تا کتاب برای کلاس شماست.",
+     "r": "bale, in do tā ketāb barā-ye kelās-e shomā-st.",
+     "en": "Yes, these two books are for your class.",
+     "faV": "بَله، این دو تا کِتاب بَرایِ کِلاسِ شُماست.",
+     "a": "bbb772170e1b"
+    },
+    {
+     "who": "Tom",
+     "fa": "قیمت کتاب‌ها چند است؟",
+     "r": "gheymat-e ketāb-hā chand ast?",
+     "en": "How much are the books?",
+     "col": "قیمت کتاب‌ها چنده؟",
+     "colR": "gheymat-e ketāb-hā chand-e?",
+     "faV": "قَیمَتِ کِتاب‌ها چَند اَست؟",
+     "a": "774d432c0882",
+     "colV": "قَیمَتِ کِتاب‌ها چَنده؟",
+     "colA": "1e27085b4505"
+    },
+    {
+     "who": "Ms Ahmadi",
+     "fa": "هر کتاب دویست و پنجاه هزار تومان است.",
+     "r": "har ketāb devist o panjāh hezār tomān ast.",
+     "en": "Each book is two hundred and fifty thousand tomans.",
+     "col": "هر کتاب دویست و پنجاه تومنه.",
+     "colR": "har ketāb devist o panjāh toman-e.",
+     "faV": "هَر کِتاب دِویست و پَنجاه هِزار تومان اَست.",
+     "a": "011d05e48593",
+     "colV": "هَر کِتاب دِویست و پَنجاه تومَنه.",
+     "colA": "f833aef2e637"
+    },
+    {
+     "who": "Tom",
+     "fa": "پس دو کتاب پانصد هزار تومان است. بفرمایید.",
+     "r": "pas do ketāb pānsad hezār tomān ast. befarmāyid.",
+     "en": "So two books are five hundred thousand tomans. Here you are.",
+     "faV": "پَس دو کِتاب پانصَد هِزار تومان اَست. بِفَرمایید.",
+     "a": "58c167d921d1"
+    },
+    {
+     "who": "Ms Ahmadi",
+     "fa": "متشکرم. کلاس شما در اتاق شماره‌ی هفت است.",
+     "r": "motshakker-am. kelās-e shomā dar otāgh-e shomāre-ye haft ast.",
+     "en": "Thank you. Your class is in room number seven.",
+     "faV": "مُتشَکِّرَم. کِلاسِ شُما دَر اُتاقِ شُماره‌یِ هَفت اَست.",
+     "a": "80d072c92df0"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Counting: Persian numbers are your cousins",
+   "md": "Say the Persian numbers from one to ten aloud and several will sound familiar: [[دو|do|two]], [[سه|se|three]], [[شش|shesh|six]], [[هفت|haft|seven]] (Greek *hepta*), [[هشت|hasht|eight]] (Latin *octo*), [[نه|noh|nine]], [[ده|dah|ten]] (Greek *deka*). Persian and English are distant relatives in the Indo-European family, and numbers are where the family likeness shows most. *Punjab* is Persian too: [[پنج|panj|five]] + [[آب|āb|water]], the land of five rivers.\n\nThe question word for anything you can count is [[چند|chand|how many, how much]]. Persians use it for ages – [[چند سال دارید؟|chand sāl dārid?|how old are you?]], literally *how many years do you have?* – for phone numbers – [[شماره‌ی تلفن شما چند است؟|shomāre-ye telefon-e shomā chand ast?|what is your phone number?]] – and, pointing at something in a shop, for prices: [[این چند است؟|in chand ast?|how much is this?]] In speech *chand ast* shrinks to *chand-e?*\n\nWhen you don't catch a number, say [[یک بار دیگر، لطفاً|yek bār-e digar, lotfan|once more, please]]."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "صفر",
+     "r": "sefr",
+     "en": "zero",
+     "pos": "num",
+     "note": "from the Arabic word that also gave English 'cipher' and 'zero'",
+     "faV": "صِفر",
+     "a": "95334ae6740b"
+    },
+    {
+     "fa": "یک",
+     "r": "yek",
+     "en": "one",
+     "pos": "num",
+     "note": "spoken ye before a noun: ye ketāb",
+     "faV": "یِک",
+     "a": "068210b8275a"
+    },
+    {
+     "fa": "دو",
+     "r": "do",
+     "en": "two",
+     "pos": "num",
+     "faV": "دو",
+     "a": "67610a88d56a"
+    },
+    {
+     "fa": "سه",
+     "r": "se",
+     "en": "three",
+     "pos": "num",
+     "faV": "سه",
+     "a": "1b30e1411dfb"
+    },
+    {
+     "fa": "چهار",
+     "r": "chahār",
+     "en": "four",
+     "pos": "num",
+     "note": "spoken chār",
+     "faV": "چَهار",
+     "a": "54e1952e5149"
+    },
+    {
+     "fa": "پنج",
+     "r": "panj",
+     "en": "five",
+     "pos": "num",
+     "faV": "پَنج",
+     "a": "87f297e4352f"
+    },
+    {
+     "fa": "شش",
+     "r": "shesh",
+     "en": "six",
+     "pos": "num",
+     "note": "spoken shish",
+     "faV": "شِش",
+     "a": "366a67407673"
+    },
+    {
+     "fa": "هفت",
+     "r": "haft",
+     "en": "seven",
+     "pos": "num",
+     "faV": "هَفت",
+     "a": "ebb9b3092ed5"
+    },
+    {
+     "fa": "هشت",
+     "r": "hasht",
+     "en": "eight",
+     "pos": "num",
+     "faV": "هَشت",
+     "a": "b71ce89c4c14"
+    },
+    {
+     "fa": "نه",
+     "r": "noh",
+     "en": "nine",
+     "pos": "num",
+     "note": "the same letters as na 'no' – the context tells you which",
+     "faV": "نُه",
+     "a": "4e03143f924a"
+    },
+    {
+     "fa": "ده",
+     "r": "dah",
+     "en": "ten",
+     "pos": "num",
+     "note": "the same letters as deh 'village'",
+     "faV": "دَه",
+     "a": "410bf9542327"
+    },
+    {
+     "fa": "صد",
+     "r": "sad",
+     "en": "hundred",
+     "pos": "num",
+     "ex": {
+      "fa": "این کتاب صد صفحه دارد.",
+      "r": "in ketāb sad safhe dārad.",
+      "en": "This book has a hundred pages.",
+      "faV": "این کِتاب صَد صَفحه دارَد.",
+      "a": "8137be391882"
+     },
+     "faV": "صَد",
+     "a": "ec688d319d3a"
+    },
+    {
+     "fa": "هزار",
+     "r": "hezār",
+     "en": "thousand",
+     "pos": "num",
+     "note": "the Thousand and One Nights is هزار و یک شب hezār o yek shab",
+     "faV": "هِزار",
+     "a": "746c1863e4d6"
+    },
+    {
+     "fa": "چند",
+     "r": "chand",
+     "en": "how many; how much; a few",
+     "pos": "adv",
+     "ex": {
+      "fa": "شما چند سال دارید؟",
+      "r": "shomā chand sāl dārid?",
+      "en": "How old are you?",
+      "lit": "you how-many year have?",
+      "faV": "شُما چَند سال دارید؟",
+      "a": "2c2e8586ead5"
+     },
+     "faV": "چَند",
+     "a": "7dc5c5a50bbc"
+    },
+    {
+     "fa": "تا",
+     "r": "tā",
+     "en": "(counting word for things)",
+     "pos": "part",
+     "note": "goes between a number and a noun, mostly in speech",
+     "ex": {
+      "fa": "سه تا چای، لطفاً.",
+      "r": "se tā chāy, lotfan.",
+      "en": "Three teas, please.",
+      "faV": "سه تا چای، لُطفاً.",
+      "a": "70c960d1bfae"
+     },
+     "faV": "تا",
+     "a": "19330ade57fc"
+    },
+    {
+     "fa": "نفر",
+     "r": "nafar",
+     "en": "person (when counting people)",
+     "pos": "n",
+     "ex": {
+      "fa": "ما پنج نفر هستیم.",
+      "r": "mā panj nafar hastim.",
+      "en": "There are five of us.",
+      "faV": "ما پَنج نَفَر هَستیم.",
+      "a": "18ba4adb2135"
+     },
+     "faV": "نَفَر",
+     "a": "3f26eede73ff"
+    },
+    {
+     "fa": "سال",
+     "r": "sāl",
+     "en": "year",
+     "pos": "n",
+     "ex": {
+      "fa": "من سی سال دارم.",
+      "r": "man si sāl dāram.",
+      "en": "I am thirty (years old).",
+      "faV": "مَن سی سال دارَم.",
+      "a": "603c3957ff69"
+     },
+     "faV": "سال",
+     "a": "07e64721d4e4"
+    },
+    {
+     "fa": "شماره",
+     "r": "shomāre",
+     "en": "number (of a phone, room, house)",
+     "pos": "n",
+     "ex": {
+      "fa": "شماره‌ی اتاق شما هفت است.",
+      "r": "shomāre-ye otāgh-e shomā haft ast.",
+      "en": "Your room number is seven.",
+      "faV": "شُماره‌یِ اُتاقِ شُما هَفت اَست.",
+      "a": "b4800e7f5f69"
+     },
+     "faV": "شُماره",
+     "a": "5c469c677fad"
+    },
+    {
+     "fa": "تومان",
+     "r": "tomān",
+     "en": "toman (= 10 rials)",
+     "pos": "n",
+     "note": "spoken toman; people price everything in tomans, though notes and receipts show rials (ریال riyāl)",
+     "faV": "تومان",
+     "a": "306eba506939"
+    },
+    {
+     "fa": "قیمت",
+     "r": "gheymat",
+     "en": "price",
+     "pos": "n",
+     "ex": {
+      "fa": "قیمت این کتاب چند است؟",
+      "r": "gheymat-e in ketāb chand ast?",
+      "en": "How much is this book?",
+      "col": "قیمت این کتاب چنده؟",
+      "colR": "gheymat-e in ketāb chand-e?",
+      "faV": "قَیمَتِ این کِتاب چَند اَست؟",
+      "a": "8ef3b25ab846",
+      "colV": "قَیمَتِ این کِتاب چَنده؟",
+      "colA": "b339bd48a1ec"
+     },
+     "faV": "قَیمَت",
+     "a": "916161310ef7"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "From 11 to 100",
+   "md": "The numbers 11 to 19 are a unit plus *-dah* (ten), with a few sound changes you simply learn by heart: [[یازده|yāzdah|11]], [[دوازده|davāzdah|12]], [[سیزده|sizdah|13]]… Then come the tens.\n\nFor 21, 35, 99 and so on, put [[و|o|and]] between the tens and the units – like old English *four-and-twenty*, but the other way round: [[بیست و یک|bist o yek|21]], [[سی و پنج|si o panj|35]], [[نود و نه|navad o noh|99]]. The *o* is short and unstressed, so *bist-o-yek* runs together like one word. In writing, و stands apart with a space on each side.",
+   "table": {
+    "head": [
+     "Number",
+     "Persian",
+     "Number",
+     "Persian"
+    ],
+    "rows": [
+     [
+      "۱۱ (11)",
+      "[[یازده|yāzdah]]",
+      "۲۰ (20)",
+      "[[بیست|bist]]"
+     ],
+     [
+      "۱۲ (12)",
+      "[[دوازده|davāzdah]]",
+      "۳۰ (30)",
+      "[[سی|si]]"
+     ],
+     [
+      "۱۳ (13)",
+      "[[سیزده|sizdah]]",
+      "۴۰ (40)",
+      "[[چهل|chehel]]"
+     ],
+     [
+      "۱۴ (14)",
+      "[[چهارده|chahārdah]]",
+      "۵۰ (50)",
+      "[[پنجاه|panjāh]]"
+     ],
+     [
+      "۱۵ (15)",
+      "[[پانزده|pānzdah]]",
+      "۶۰ (60)",
+      "[[شصت|shast]]"
+     ],
+     [
+      "۱۶ (16)",
+      "[[شانزده|shānzdah]]",
+      "۷۰ (70)",
+      "[[هفتاد|haftād]]"
+     ],
+     [
+      "۱۷ (17)",
+      "[[هفده|hefdah]]",
+      "۸۰ (80)",
+      "[[هشتاد|hashtād]]"
+     ],
+     [
+      "۱۸ (18)",
+      "[[هجده|hejdah]]",
+      "۹۰ (90)",
+      "[[نود|navad]]"
+     ],
+     [
+      "۱۹ (19)",
+      "[[نوزده|nuzdah]]",
+      "۱۰۰ (100)",
+      "[[صد|sad]]"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "کلاس ما بیست و یک دانشجو دارد.",
+     "r": "kelās-e mā bist o yek dāneshju dārad.",
+     "en": "Our class has twenty-one students.",
+     "faV": "کِلاسِ ما بیست و یِک دانِشجو دارَد.",
+     "a": "0845fa2adc9c"
+    },
+    {
+     "fa": "داریوش سی و هشت سال دارد.",
+     "r": "Dāriyush si o hasht sāl dārad.",
+     "en": "Dariush is thirty-eight.",
+     "faV": "داریوش سی و هَشت سال دارَد.",
+     "a": "2ab00aa67617"
+    },
+    {
+     "fa": "سیزده، چهارده، پانزده، شانزده…",
+     "r": "sizdah, chahārdah, pānzdah, shānzdah…",
+     "en": "Thirteen, fourteen, fifteen, sixteen…",
+     "faV": "سیزدَه، چَهاردَه، پانزدَه، شانزدَه…",
+     "a": "67c99bd778fb"
+    },
+    {
+     "fa": "اتاق شماره‌ی سیزده کجاست؟",
+     "r": "otāgh-e shomāre-ye sizdah kojā-st?",
+     "en": "Where is room number thirteen?",
+     "faV": "اُتاقِ شُماره‌یِ سیزدَه کُجاست؟",
+     "a": "c916b5599249"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Hundreds, thousands – and prices",
+   "md": "Hundreds are a unit + [[صد|sad]], with three irregular forms to learn: [[دویست|devist|200]], [[سیصد|sisad|300]] and [[پانصد|pānsad|500]]. A thousand, [[هزار|hezār]], counts like a noun: [[دو هزار|do hezār|2,000]], [[ده هزار|dah hezār|10,000]], [[صد هزار|sad hezār|100,000]].\n\nBig numbers are said from left to right with *o* between every part: [[هزار و چهارصد و پنج|hezār o chahārsad o panj|1405]] – the Iranian year that began in March 2026.\n\nPrices in Iran are big numbers, so you will need *hezār* every day. Ask with [[چند است؟|chand ast?|how much is it?]] and the answer comes back with [[است|ast]] at the end: [[هر کتاب دویست و پنجاه هزار تومان است|har ketāb devist o panjāh hezār tomān ast|each book is 250,000 tomans]]. [[هر|har]] means *each, every*.",
+   "table": {
+    "head": [
+     "Number",
+     "Persian",
+     "Reading"
+    ],
+    "rows": [
+     [
+      "۱۰۰ (100)",
+      "[[صد|sad]]",
+      "sad"
+     ],
+     [
+      "۲۰۰ (200)",
+      "[[دویست|devist]]",
+      "devist"
+     ],
+     [
+      "۳۰۰ (300)",
+      "[[سیصد|sisad]]",
+      "sisad"
+     ],
+     [
+      "۴۰۰ (400)",
+      "[[چهارصد|chahārsad]]",
+      "chahārsad"
+     ],
+     [
+      "۵۰۰ (500)",
+      "[[پانصد|pānsad]]",
+      "pānsad"
+     ],
+     [
+      "۶۰۰ (600)",
+      "[[ششصد|sheshsad]]",
+      "sheshsad"
+     ],
+     [
+      "۷۰۰ (700)",
+      "[[هفتصد|haftsad]]",
+      "haftsad"
+     ],
+     [
+      "۸۰۰ (800)",
+      "[[هشتصد|hashtsad]]",
+      "hashtsad"
+     ],
+     [
+      "۹۰۰ (900)",
+      "[[نهصد|nohsad]]",
+      "nohsad"
+     ],
+     [
+      "۱۰۰۰ (1,000)",
+      "[[هزار|hezār]]",
+      "hezār"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "این کتاب سیصد و پنجاه صفحه دارد.",
+     "r": "in ketāb sisad o panjāh safhe dārad.",
+     "en": "This book has 350 pages.",
+     "faV": "این کِتاب سیصَد و پَنجاه صَفحه دارَد.",
+     "a": "bff98619f8df"
+    },
+    {
+     "fa": "این چند است؟",
+     "r": "in chand ast?",
+     "en": "How much is this?",
+     "col": "این چنده؟",
+     "colR": "in chand-e?",
+     "faV": "این چَند اَست؟",
+     "a": "26d48ad46781",
+     "colV": "این چَنده؟",
+     "colA": "b8260753011f"
+    },
+    {
+     "fa": "این دفتر چهل هزار تومان است.",
+     "r": "in daftar chehel hezār tomān ast.",
+     "en": "This notebook is forty thousand tomans.",
+     "faV": "این دَفتَر چِهِل هِزار تومان اَست.",
+     "a": "5bcafda01c11"
+    },
+    {
+     "fa": "هزار و یک شب",
+     "r": "hezār o yek shab",
+     "en": "The Thousand and One Nights",
+     "faV": "هِزار و یِک شَب",
+     "a": "a2c6c6f86c91"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "How many? How old? – tā, the singular and dāshtan",
+   "md": "After a number a noun stays **singular** – you met this in lesson 3: [[دو کتاب|do ketāb|two books]], [[دوازده دانشجو|davāzdah dāneshju|twelve students]]. Never add *-hā* after a number.\n\nIn everyday speech Iranians slip a little counting word, [[تا|tā]], between the number and the noun: [[دو تا کتاب|do tā ketāb]], [[سه تا چای|se tā chāy]]. It adds no meaning – think of *two **pieces of** cake* – and you can leave it out, especially in writing. For people, [[نفر|nafar|person]] does the same job: [[پنج نفر|panj nafar|five people]].\n\nTo ask *how many?* use [[چند|chand]] with a singular noun, or [[چند تا|chand tā]]: [[چند تا کتاب؟|chand tā ketāb?|how many books?]]\n\n**Age.** Persians *have* their years: [[بیست سال دارم|bist sāl dāram|I am twenty]] is literally *I have twenty years*. The verb is [[داشتن|dāshtan|to have]] – the *dārad* you met in *kelās-e mā do panjare dārad*. Here are its forms; lesson 5 uses them for your family.",
+   "table": {
+    "head": [
+     "Persian",
+     "Reading",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[من بیست سال دارم|man bist sāl dāram]]",
+      "dāram",
+      "I am twenty"
+     ],
+     [
+      "[[تو چند سال داری؟|to chand sāl dāri?]]",
+      "dāri",
+      "how old are you? (friend)"
+     ],
+     [
+      "[[او سی سال دارد|u si sāl dārad]]",
+      "dārad",
+      "he / she is thirty"
+     ],
+     [
+      "[[ما هجده سال داریم|mā hejdah sāl dārim]]",
+      "dārim",
+      "we are eighteen"
+     ],
+     [
+      "[[شما چند سال دارید؟|shomā chand sāl dārid?]]",
+      "dārid",
+      "how old are you? (polite)"
+     ],
+     [
+      "[[آن‌ها ده سال دارند|ān-hā dah sāl dārand]]",
+      "dārand",
+      "they are ten"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "دو تا چای و یک قهوه، لطفاً.",
+     "r": "do tā chāy o yek ghahve, lotfan.",
+     "en": "Two teas and a coffee, please.",
+     "faV": "دو تا چای و یِک قَهوه، لُطفاً.",
+     "a": "0ab0cffa91e5"
+    },
+    {
+     "fa": "چند تا دفتر دارید؟",
+     "r": "chand tā daftar dārid?",
+     "en": "How many notebooks do you have?",
+     "faV": "چَند تا دَفتَر دارید؟",
+     "a": "778997cf7f16"
+    },
+    {
+     "fa": "در کلاس ما پانزده نفر هستند.",
+     "r": "dar kelās-e mā pānzdah nafar hastand.",
+     "en": "There are fifteen people in our class.",
+     "faV": "دَر کِلاسِ ما پانزدَه نَفَر هَستَند.",
+     "a": "eccc5d4a04ad"
+    },
+    {
+     "fa": "مینا بیست و شش سال دارد.",
+     "r": "Minā bist o shesh sāl dārad.",
+     "en": "Mina is twenty-six.",
+     "col": "مینا بیست و شیش سالشه.",
+     "colR": "Minā bist o shish sāl-esh-e.",
+     "note": "In speech you will hear … sāl-esh-e, literally 'her years are …' – lesson 5 explains the -esh.",
+     "faV": "مینا بیست و شِش سال دارَد.",
+     "a": "d7205ea14591",
+     "colV": "مینا بیست و شیش سالِشه.",
+     "colA": "8ce36ff3f9d6"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "My evening class",
+   "intro": "A week later, Tom writes about his new class. Read, then answer the questions.",
+   "sentences": [
+    {
+     "fa": "کلاس عصر من دوازده دانشجو دارد.",
+     "r": "kelās-e asr-e man davāzdah dāneshju dārad.",
+     "en": "My evening class has twelve students.",
+     "faV": "کِلاسِ عَصرِ مَن دَوازدَه دانِشجو دارَد.",
+     "a": "d48949a128a6"
+    },
+    {
+     "fa": "پنج نفر چینی هستند، سه نفر آلمانی و دو نفر فرانسوی.",
+     "r": "panj nafar chini hastand, se nafar ālmāni o do nafar farānsavi.",
+     "en": "Five are Chinese, three German and two French.",
+     "faV": "پَنج نَفَر چینی هَستَند، سه نَفَر آلمانی و دو نَفَر فَرانسَوی.",
+     "a": "1dbb1c39e420"
+    },
+    {
+     "fa": "یک نفر آمریکایی است و من استرالیایی هستم.",
+     "r": "yek nafar āmrikāyi ast o man ostorāliyāyi hastam.",
+     "en": "One is American, and I am Australian.",
+     "faV": "یِک نَفَر آمریکایی اَست و مَن اُستُرالیایی هَستَم.",
+     "a": "5159ea79b641"
+    },
+    {
+     "fa": "معلم ما آقای کریمی است. او پنجاه و دو سال دارد.",
+     "r": "mo'allem-e mā āghā-ye Karimi ast. u panjāh o do sāl dārad.",
+     "en": "Our teacher is Mr Karimi. He is fifty-two.",
+     "faV": "مُعَلِّمِ ما آقایِ کَریمی اَست. او پَنجاه و دو سال دارَد.",
+     "a": "2d795119f079"
+    },
+    {
+     "fa": "کلاس ما در اتاق شماره‌ی هفت است.",
+     "r": "kelās-e mā dar otāgh-e shomāre-ye haft ast.",
+     "en": "Our class is in room number seven.",
+     "faV": "کِلاسِ ما دَر اُتاقِ شُماره‌یِ هَفت اَست.",
+     "a": "a11e8b6a9ebb"
+    },
+    {
+     "fa": "ما دو کتاب داریم. هر کتاب دویست و پنجاه هزار تومان است.",
+     "r": "mā do ketāb dārim. har ketāb devist o panjāh hezār tomān ast.",
+     "en": "We have two books. Each book is 250,000 tomans.",
+     "faV": "ما دو کِتاب داریم. هَر کِتاب دِویست و پَنجاه هِزار تومان اَست.",
+     "a": "2431b1e67383"
+    },
+    {
+     "fa": "یک کتاب سیصد صفحه دارد و یکی چهارصد صفحه!",
+     "r": "yek ketāb sisad safhe dārad o yeki chahārsad safhe!",
+     "en": "One book has 300 pages and the other 400!",
+     "faV": "یِک کِتاب سیصَد صَفحه دارَد و یِکی چَهارصَد صَفحه!",
+     "a": "ba8ddae75174"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How many students are in Tom's evening class?",
+     "options": [
+      "ten",
+      "twelve",
+      "twenty"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How many of them are German?",
+     "options": [
+      "two",
+      "three",
+      "five"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How much is one book?",
+     "options": [
+      "25,000 tomans",
+      "250,000 tomans",
+      "500,000 tomans"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Persian digits, tomans and rials",
+   "md": "Look at any price tag, bus or banknote in Iran and you will see the Persian digits: [[۰|sefr]] [[۱|yek]] [[۲|do]] [[۳|se]] [[۴|chahār]] [[۵|panj]] [[۶|shesh]] [[۷|haft]] [[۸|hasht]] [[۹|noh]]. Two surprises: zero is just a dot (۰), and the round shape that looks like a zero is five (۵). And although Persian is written from right to left, numbers run **left to right**, just like ours: ۲۵ is 25.\n\nThe currency is the **rial** ([[ریال|riyāl]]), but almost nobody counts in rials. People think and speak in **tomans** – one toman is ten rials – so a price tag of 500,000 rials is *panjāh hezār tomān*, fifty thousand tomans. And because prices are so large, people often drop the thousands altogether: if a taxi driver says [[پنجاه تومان|panjāh tomān]], he means fifty *thousand*. When in doubt, ask – every visitor, and many Iranians, have been confused at least once.\n\nThe word *tomān* itself is old: it comes from Mongolian *tümen*, 'ten thousand'.",
+   "image": "iranian-rial"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "Persian digits are written **left to right**, even in the middle of a right-to-left sentence: ۱۴۰۵ is 1405, with the ۱ on the left.",
+    "Don't confuse **۰** (zero, a small dot) with **۵** (five, a rounded shape like an upside-down heart). In handwriting, ۲ and ۳ also look alike – ۳ has one more tooth.",
+    "In speech, **chahār** is usually *chār* and **shesh** is *shish*: *chār-dah*, *shish sāl*. Write the full forms.",
+    "Numbers are stressed on the last syllable – *yāz-DAH*, *haf-TĀD*, *pan-JĀH* – but the little *o* in *bist o yek* is never stressed.",
+    "Iranians read phone numbers in groups: ۰۹۱۲ is *sefr nohsad o davāzdah*, 'zero, nine hundred and twelve'. If it is too fast, ask for the digits one by one, as Ms Ahmadi did."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the numbers",
+   "items": [
+    {
+     "fa": "سه",
+     "r": "se",
+     "en": "3",
+     "faV": "سه",
+     "a": "1b30e1411dfb"
+    },
+    {
+     "fa": "هفت",
+     "r": "haft",
+     "en": "7",
+     "faV": "هَفت",
+     "a": "ebb9b3092ed5"
+    },
+    {
+     "fa": "یازده",
+     "r": "yāzdah",
+     "en": "11",
+     "faV": "یازدَه",
+     "a": "3251990ea500"
+    },
+    {
+     "fa": "بیست",
+     "r": "bist",
+     "en": "20",
+     "faV": "بیست",
+     "a": "56ac9444298a"
+    },
+    {
+     "fa": "پنجاه",
+     "r": "panjāh",
+     "en": "50",
+     "faV": "پَنجاه",
+     "a": "972441e00c04"
+    },
+    {
+     "fa": "صد",
+     "r": "sad",
+     "en": "100",
+     "faV": "صَد",
+     "a": "ec688d319d3a"
+    },
+    {
+     "fa": "دویست",
+     "r": "devist",
+     "en": "200",
+     "faV": "دِویست",
+     "a": "65cba03ed262"
+    },
+    {
+     "fa": "هزار",
+     "r": "hezār",
+     "en": "1,000",
+     "faV": "هِزار",
+     "a": "746c1863e4d6"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right answer",
+   "items": [
+    {
+     "q": "What is ۱۵?",
+     "options": [
+      "پنجاه",
+      "پانزده",
+      "پنج"
+     ],
+     "answer": 1,
+     "explain": "pānzdah is 15; panjāh is 50 and panj is 5."
+    },
+    {
+     "q": "'Two books' is…",
+     "options": [
+      "دو کتاب‌ها",
+      "دو کتاب",
+      "کتاب دو"
+     ],
+     "answer": 1,
+     "explain": "After a number the noun stays singular: do ketāb."
+    },
+    {
+     "q": "Which question asks someone's age?",
+     "options": [
+      "چند سال دارید؟",
+      "این چند است؟",
+      "شماره‌ی شما چند است؟"
+     ],
+     "answer": 0,
+     "explain": "chand sāl dārid? – literally 'how many years do you have?'"
+    },
+    {
+     "q": "200 is…",
+     "options": [
+      "دو صد",
+      "دویست",
+      "بیست"
+     ],
+     "answer": 1,
+     "explain": "200 has its own form, devist. bist is 20."
+    },
+    {
+     "q": "How do you say 35?",
+     "options": [
+      "سی و پنج",
+      "پنج و سی",
+      "سیصد و پنج"
+     ],
+     "answer": 0,
+     "explain": "Tens first, then o 'and', then the units: si o panj."
+    },
+    {
+     "q": "A shopkeeper says [[پنجاه هزار تومان|panjāh hezār tomān]]. How much is that?",
+     "options": [
+      "5,000 tomans",
+      "50,000 tomans",
+      "500,000 tomans"
+     ],
+     "answer": 1,
+     "explain": "panjāh = 50 and hezār = 1,000."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {
+     "fa": "من بیست سال ___.",
+     "r": "man bist sāl ___.",
+     "en": "I am twenty years old.",
+     "answer": "دارم",
+     "hint": "I have"
+    },
+    {
+     "fa": "شما ___ سال دارید؟",
+     "r": "shomā ___ sāl dārid?",
+     "en": "How old are you?",
+     "answer": "چند",
+     "hint": "how many"
+    },
+    {
+     "fa": "دو ___ چای، لطفاً.",
+     "r": "do ___ chāy, lotfan.",
+     "en": "Two teas, please.",
+     "answer": "تا",
+     "hint": "the counting word"
+    },
+    {
+     "fa": "این دفتر چهل ___ تومان است.",
+     "r": "in daftar chehel ___ tomān ast.",
+     "en": "This notebook is forty thousand tomans.",
+     "answer": "هزار",
+     "hint": "thousand"
+    },
+    {
+     "fa": "کلاس ما در اتاق ___ هفت است.",
+     "r": "kelās-e mā dar otāgh-e ___ haft ast.",
+     "en": "Our class is in room number seven.",
+     "answer": "شماره‌ی",
+     "hint": "number (with the ezafe)"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "شما چند سال دارید؟",
+     "r": "shomā chand sāl dārid?",
+     "en": "How old are you?",
+     "faV": "شُما چَند سال دارید؟",
+     "a": "2c2e8586ead5"
+    },
+    {
+     "fa": "من بیست و چهار سال دارم.",
+     "r": "man bist o chahār sāl dāram.",
+     "en": "I am twenty-four.",
+     "faV": "مَن بیست و چَهار سال دارَم.",
+     "a": "06e6e1a9c2d5"
+    },
+    {
+     "fa": "شماره‌ی تلفن شما چند است؟",
+     "r": "shomāre-ye telefon-e shomā chand ast?",
+     "en": "What is your phone number?",
+     "faV": "شُماره‌یِ تِلِفُنِ شُما چَند اَست؟",
+     "a": "09791b869202"
+    },
+    {
+     "fa": "کلاس ما دوازده دانشجو دارد.",
+     "r": "kelās-e mā davāzdah dāneshju dārad.",
+     "en": "Our class has twelve students.",
+     "faV": "کِلاسِ ما دَوازدَه دانِشجو دارَد.",
+     "a": "ca6f82fbd4d7"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "او سی و پنج سال دارد.",
+     "r": "u si o panj sāl dārad.",
+     "en": "She is thirty-five.",
+     "options": [
+      "She is 25.",
+      "She is 35.",
+      "She is 53."
+     ],
+     "answer": 1,
+     "faV": "او سی و پَنج سال دارَد.",
+     "a": "099e8d1b8a27"
+    },
+    {
+     "fa": "این کتاب صد هزار تومان است.",
+     "r": "in ketāb sad hezār tomān ast.",
+     "en": "This book is a hundred thousand tomans.",
+     "options": [
+      "This book is 10,000 tomans.",
+      "This book is 100,000 tomans.",
+      "This book is 1,000 tomans."
+     ],
+     "answer": 1,
+     "faV": "این کِتاب صَد هِزار تومان اَست.",
+     "a": "85c22a7a73e0"
+    },
+    {
+     "fa": "اتاق شماره‌ی هجده کجاست؟",
+     "r": "otāgh-e shomāre-ye hejdah kojā-st?",
+     "en": "Where is room number eighteen?",
+     "options": [
+      "Where is room 8?",
+      "Where is room 18?",
+      "Where is room 80?"
+     ],
+     "answer": 1,
+     "faV": "اُتاقِ شُماره‌یِ هِجدَه کُجاست؟",
+     "a": "875c188be301"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "How old are you? (polite)",
+     "fa": "شما چند سال دارید؟",
+     "r": "shomā chand sāl dārid?",
+     "faV": "شُما چَند سال دارید؟",
+     "a": "2c2e8586ead5"
+    },
+    {
+     "en": "I am thirty years old.",
+     "fa": "من سی سال دارم.",
+     "r": "man si sāl dāram.",
+     "faV": "مَن سی سال دارَم.",
+     "a": "603c3957ff69"
+    },
+    {
+     "en": "Two teas, please.",
+     "fa": "دو تا چای، لطفاً.",
+     "r": "do tā chāy, lotfan.",
+     "faV": "دو تا چای، لُطفاً.",
+     "a": "a6a527c365cf"
+    },
+    {
+     "en": "How much is this book?",
+     "fa": "این کتاب چند است؟",
+     "r": "in ketāb chand ast?",
+     "faV": "این کِتاب چَند اَست؟",
+     "a": "f2591c091672"
+    },
+    {
+     "en": "There are twelve people in our class.",
+     "fa": "در کلاس ما دوازده نفر هستند.",
+     "r": "dar kelās-e mā davāzdah nafar hastand.",
+     "faV": "دَر کِلاسِ ما دَوازدَه نَفَر هَستَند.",
+     "a": "4d20bfb515c0"
+    }
+   ]
+  }
+ ],
+ "titleV": "یِک، دو، سه",
+ "titleA": "422843aa6835"
+}

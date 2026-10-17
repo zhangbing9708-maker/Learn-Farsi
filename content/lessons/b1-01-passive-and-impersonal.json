@@ -1,0 +1,1065 @@
+{
+ "id": "b1-01-passive-and-impersonal",
+ "level": "B1",
+ "n": 1,
+ "title": "Passive and impersonal: 'it was built', 'they say'",
+ "titleFa": "ساخته شد، می‌گویند",
+ "titleR": "sākhte shod, mi-guyand",
+ "intro": "Persian can say that something was done without saying who did it – but it does so far less often than English. In this lesson you learn how the passive is built with شدن, when Iranians actually use it, and the three everyday ways of being impersonal: 'they say', 'one can', and 'a person'.",
+ "goals": [
+  "form the passive of any verb with شدن in every tense",
+  "understand why Persian prefers 'they built it' to 'it was built'",
+  "use می‌گویند، می‌شود and آدم to speak impersonally",
+  "read a short history text written in the formal passive style"
+ ],
+ "image": "si-o-se-pol",
+ "sections": [
+  {
+   "type": "reading",
+   "title": "The bridge of thirty-three arches",
+   "intro": "A short text in the style of a guidebook. Notice how many verbs end in شد or شده است – the passive is at home in writing about history.",
+   "sentences": [
+    {
+     "fa": "سی‌وسه‌پل یکی از زیباترین پل‌های ایران است.",
+     "r": "Si-o-se-pol yek-i az zibā-tarin pol-hā-ye Irān ast.",
+     "en": "Si-o-se-pol is one of the most beautiful bridges in Iran.",
+     "faV": "سی‌وسه‌پُل یِکی اَز زیباتَرین پُل‌هایِ ایران اَست.",
+     "a": "6ba43a862267"
+    },
+    {
+     "fa": "این پل در دوره‌ی صفوی در شهر اصفهان ساخته شد.",
+     "r": "in pol dar dowre-ye Safavi dar shahr-e Esfahān sākhte shod.",
+     "en": "This bridge was built in the Safavid period in the city of Isfahan.",
+     "faV": "این پُل دَر دَوره‌یِ صَفَوی دَر شَهرِ اِصفَهان ساخته شُد.",
+     "a": "aaa0de10d59c"
+    },
+    {
+     "fa": "کار ساختن آن در سال ۱۶۰۲ میلادی به پایان رسید.",
+     "r": "kār-e sākhtan-e ān dar sāl-e hezār-o-sheshsad-o-do-ye milādi be pāyān resid.",
+     "en": "The work of building it was finished in the year 1602 AD.",
+     "faV": "کارِ ساختَنِ آن دَر سالِ ۱۶۰۲ میلادی به پایان رِسید.",
+     "a": "6d4b6b43c2cd"
+    },
+    {
+     "fa": "پل به دستور شاه عباس ساخته شد و نام فرمانده‌ی سپاه او، الله‌وردی‌خان، بر آن گذاشته شد.",
+     "r": "pol be dastur-e Shāh Abbās sākhte shod o nām-e farmānde-ye sepāh-e u, Allāhverdi-khān, bar ān gozāshte shod.",
+     "en": "The bridge was built on the orders of Shah Abbas, and the name of his army commander, Allahverdi Khan, was given to it.",
+     "faV": "پُل به دَستورِ شاه عَبّاس ساخته شُد و نامِ فَرمانده‌یِ سِپاهِ او، اَلله‌وِردی‌خان، بَر آن گُذاشته شُد.",
+     "a": "220b0d714f0e"
+    },
+    {
+     "fa": "در این پل سی و سه طاق دیده می‌شود.",
+     "r": "dar in pol si o se tāgh dide mi-shavad.",
+     "en": "Thirty-three arches can be seen in this bridge.",
+     "faV": "دَر این پُل سی و سه طاق دیده می‌شَوَد.",
+     "a": "b72e33745743"
+    },
+    {
+     "fa": "به همین دلیل به آن «سی‌وسه‌پل» گفته می‌شود.",
+     "r": "be hamin dalil be ān «Si-o-se-pol» gofte mi-shavad.",
+     "en": "For this reason it is called \"Si-o-se-pol\".",
+     "faV": "به هَمین دَلیل به آن «سی‌وسه‌پُل» گُفته می‌شَوَد.",
+     "a": "84c6c26edc84"
+    },
+    {
+     "fa": "پل از آجر و سنگ ساخته شده است و حدود سیصد متر طول دارد.",
+     "r": "pol az ājor o sang sākhte shode ast o hodud-e sisad metr tul dārad.",
+     "en": "The bridge has been built of brick and stone and is about three hundred metres long.",
+     "faV": "پُل اَز آجُر و سَنگ ساخته شُده اَست و حُدودِ سیصَد مِتر طول دارَد.",
+     "a": "28ca085b1784"
+    },
+    {
+     "fa": "در گذشته از پل برای عبور کاروان‌ها استفاده می‌شد.",
+     "r": "dar gozashte az pol barā-ye obur-e kārvān-hā estefāde mi-shod.",
+     "en": "In the past the bridge was used for the passage of caravans.",
+     "faV": "دَر گُذَشته اَز پُل بَرایِ عُبورِ کاروان‌ها اِستِفاده می‌شُد.",
+     "a": "81e32f608408"
+    },
+    {
+     "fa": "امروز پل هر شب روشن می‌شود و مردم اصفهان روی آن قدم می‌زنند.",
+     "r": "emruz pol har shab roshan mi-shavad o mardom-e Esfahān ru-ye ān ghadam mi-zanand.",
+     "en": "Today the bridge is lit up every night and the people of Isfahan stroll on it.",
+     "faV": "اِمروز پُل هَر شَب روشَن می‌شَوَد و مَردُمِ اِصفَهان رویِ آن قَدَم می‌زَنَند.",
+     "a": "53c5015ae825"
+    },
+    {
+     "fa": "گفته می‌شود که در شب‌های تابستان، صدای آواز مردم از زیر طاق‌ها شنیده می‌شود.",
+     "r": "gofte mi-shavad ke dar shab-hā-ye tābestān, sedā-ye āvāz-e mardom az zir-e tāgh-hā shenide mi-shavad.",
+     "en": "It is said that on summer nights, the sound of people singing is heard from under the arches.",
+     "faV": "گُفته می‌شَوَد که دَر شَب‌هایِ تابِستان، صِدایِ آوازِ مَردُم اَز زیرِ طاق‌ها شِنیده می‌شَوَد.",
+     "a": "a41572c6ddf1"
+    },
+    {
+     "fa": "متأسفانه رودخانه‌ی زاینده‌رود در بیشتر سال خشک است.",
+     "r": "mota'assefāne rudkhāne-ye Zāyande-rud dar bishtar-e sāl khoshk ast.",
+     "en": "Unfortunately the Zayandeh-rud river is dry for most of the year.",
+     "faV": "مُتَأَسِّفانه رودخانه‌یِ زایَنده‌رود دَر بیشتَرِ سال خُشک اَست.",
+     "a": "10977bc24e1d"
+    },
+    {
+     "fa": "پل در سال ۱۳۱۰ در فهرست آثار ملی ایران ثبت شد.",
+     "r": "pol dar sāl-e hezār-o-sisad-o-dah dar fehrest-e āsār-e melli-ye Irān sabt shod.",
+     "en": "The bridge was registered in the list of Iran's national monuments in the year 1310 (1931).",
+     "faV": "پُل دَر سالِ ۱۳۱۰ دَر فِهرِستِ آثارِ مِلّیِ ایران ثَبت شُد.",
+     "a": "28575be6b85f"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Who ordered the bridge to be built?",
+     "options": [
+      "Allahverdi Khan",
+      "Shah Abbas",
+      "the people of Isfahan"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What was the bridge used for in the past?",
+     "options": [
+      "singing",
+      "the passage of caravans",
+      "a market"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Which verb form means 'is called'?",
+     "options": [
+      "گفته می‌شود",
+      "دیده می‌شود",
+      "ساخته شد"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "A language that would rather say who did it",
+   "md": "English loves the passive: *the bridge was built, the letter was sent, mistakes were made.* Persian has a passive too, but in everyday speech Iranians usually prefer an **active sentence with a vague subject**: [[پل را ساختند|pol rā sākhtand|they built the bridge]] rather than [[پل ساخته شد|pol sākhte shod|the bridge was built]]. Both are correct; the second simply sounds more formal and written.\n\nSo you will meet the passive constantly in **newspapers, history books, signs and official notices** – and much less in conversation. Learn to form it so you can read; learn the impersonal 'they' so you can speak.\n\nThe passive is built from two pieces you already know: the **past participle** (the past stem plus [[ـه|-e]]: [[ساخته|sākhte|built]], [[دیده|dide|seen]], [[گفته|gofte|said]]) and the verb [[شدن|shodan|to become]], which carries the tense. Literally, *the bridge became built*."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "پل",
+     "r": "pol",
+     "en": "bridge",
+     "pos": "n",
+     "faV": "پُل",
+     "a": "295caf771580"
+    },
+    {
+     "fa": "طاق",
+     "r": "tāgh",
+     "en": "arch, vault",
+     "pos": "n",
+     "faV": "طاق",
+     "a": "a4b11032d073"
+    },
+    {
+     "fa": "دوره",
+     "r": "dowre",
+     "en": "period, era",
+     "pos": "n",
+     "ex": {
+      "fa": "دوره‌ی صفوی",
+      "r": "dowre-ye Safavi",
+      "en": "the Safavid period",
+      "faV": "دَوره‌یِ صَفَوی",
+      "a": "341a789eac1c"
+     },
+     "faV": "دَوره",
+     "a": "c2d04d20669a"
+    },
+    {
+     "fa": "ساختن",
+     "r": "sākhtan",
+     "en": "to build, to make",
+     "pos": "v",
+     "note": "present stem ساز (sāz)",
+     "faV": "ساختَن",
+     "a": "b477c4ea3aff"
+    },
+    {
+     "fa": "ساخته شدن",
+     "r": "sākhte shodan",
+     "en": "to be built",
+     "pos": "v",
+     "faV": "ساخته شُدَن",
+     "a": "0d368579c551"
+    },
+    {
+     "fa": "به پایان رسیدن",
+     "r": "be pāyān residan",
+     "en": "to come to an end, be completed",
+     "pos": "v",
+     "faV": "به پایان رِسیدَن",
+     "a": "e80e992d7f2a"
+    },
+    {
+     "fa": "دستور",
+     "r": "dastur",
+     "en": "order, instruction; grammar",
+     "pos": "n",
+     "ex": {
+      "fa": "به دستور شاه",
+      "r": "be dastur-e shāh",
+      "en": "on the king's orders",
+      "faV": "به دَستورِ شاه",
+      "a": "2aafbc6fff15"
+     },
+     "faV": "دَستور",
+     "a": "6b19bedc7155"
+    },
+    {
+     "fa": "فرمانده",
+     "r": "farmānde",
+     "en": "commander",
+     "pos": "n",
+     "faV": "فَرمانده",
+     "a": "dc80887c8de4"
+    },
+    {
+     "fa": "سپاه",
+     "r": "sepāh",
+     "en": "army, corps",
+     "pos": "n",
+     "faV": "سِپاه",
+     "a": "a9a5d0ac6eb8"
+    },
+    {
+     "fa": "گذاشتن",
+     "r": "gozāshtan",
+     "en": "to put, to place; to let",
+     "pos": "v",
+     "note": "present stem گذار (gozār)",
+     "faV": "گُذاشتَن",
+     "a": "a67b6f6d10bd"
+    },
+    {
+     "fa": "آجر",
+     "r": "ājor",
+     "en": "brick",
+     "pos": "n",
+     "faV": "آجُر",
+     "a": "643d669e140c"
+    },
+    {
+     "fa": "سنگ",
+     "r": "sang",
+     "en": "stone",
+     "pos": "n",
+     "faV": "سَنگ",
+     "a": "450f5d38fbbf"
+    },
+    {
+     "fa": "طول",
+     "r": "tul",
+     "en": "length",
+     "pos": "n",
+     "ex": {
+      "fa": "سیصد متر طول دارد.",
+      "r": "sisad metr tul dārad.",
+      "en": "It is three hundred metres long.",
+      "faV": "سیصَد مِتر طول دارَد.",
+      "a": "55ac80d2fde5"
+     },
+     "faV": "طول",
+     "a": "826cfc5e3568"
+    },
+    {
+     "fa": "عبور",
+     "r": "obur",
+     "en": "passage, crossing",
+     "pos": "n",
+     "faV": "عُبور",
+     "a": "f4147f44bd3e"
+    },
+    {
+     "fa": "کاروان",
+     "r": "kārvān",
+     "en": "caravan",
+     "pos": "n",
+     "faV": "کاروان",
+     "a": "29d681dd5f6a"
+    },
+    {
+     "fa": "استفاده شدن",
+     "r": "estefāde shodan",
+     "en": "to be used",
+     "pos": "v",
+     "faV": "اِستِفاده شُدَن",
+     "a": "09dced6a0b8b"
+    },
+    {
+     "fa": "روشن شدن",
+     "r": "roshan shodan",
+     "en": "to be lit, to light up; to become clear",
+     "pos": "v",
+     "faV": "روشَن شُدَن",
+     "a": "7752210c7ae3"
+    },
+    {
+     "fa": "قدم زدن",
+     "r": "ghadam zadan",
+     "en": "to stroll, take a walk",
+     "pos": "v",
+     "faV": "قَدَم زَدَن",
+     "a": "5e8a52b92d5d"
+    },
+    {
+     "fa": "شنیده شدن",
+     "r": "shenide shodan",
+     "en": "to be heard",
+     "pos": "v",
+     "faV": "شِنیده شُدَن",
+     "a": "36a796c7e860"
+    },
+    {
+     "fa": "رودخانه",
+     "r": "rudkhāne",
+     "en": "river",
+     "pos": "n",
+     "faV": "رودخانه",
+     "a": "8552d1613e89"
+    },
+    {
+     "fa": "خشک",
+     "r": "khoshk",
+     "en": "dry",
+     "pos": "adj",
+     "faV": "خُشک",
+     "a": "01abf629a6be"
+    },
+    {
+     "fa": "فهرست",
+     "r": "fehrest",
+     "en": "list, index",
+     "pos": "n",
+     "faV": "فِهرِست",
+     "a": "e83be919b2e7"
+    },
+    {
+     "fa": "اثر",
+     "r": "asar",
+     "en": "work (of art), monument; effect",
+     "pos": "n",
+     "note": "Arabic plural آثار (āsār)",
+     "faV": "اَثَر",
+     "a": "0e762fe7f4cc"
+    },
+    {
+     "fa": "ثبت شدن",
+     "r": "sabt shodan",
+     "en": "to be registered, recorded",
+     "pos": "v",
+     "faV": "ثَبت شُدَن",
+     "a": "2055287e6a4e"
+    },
+    {
+     "fa": "آدم",
+     "r": "ādam",
+     "en": "a person; one (impersonal)",
+     "pos": "n",
+     "faV": "آدَم",
+     "a": "418065b0bd6b"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Building the passive: past participle + شدن",
+   "md": "Take the past stem, add [[ـه|-e]] to get the past participle, then conjugate [[شدن|shodan]] in whatever tense you need. The participle never changes; شدن does all the work. Here is [[ساختن|sākhtan|to build]] in every tense you have met:",
+   "table": {
+    "head": [
+     "Tense",
+     "Persian",
+     "Reading",
+     "English"
+    ],
+    "rows": [
+     [
+      "simple past",
+      "[[ساخته شد|sākhte shod]]",
+      "sākhte shod",
+      "it was built"
+     ],
+     [
+      "present",
+      "[[ساخته می‌شود|sākhte mi-shavad]]",
+      "sākhte mi-shavad",
+      "it is (being) built"
+     ],
+     [
+      "past continuous",
+      "[[ساخته می‌شد|sākhte mi-shod]]",
+      "sākhte mi-shod",
+      "it was being built, used to be built"
+     ],
+     [
+      "perfect",
+      "[[ساخته شده است|sākhte shode ast]]",
+      "sākhte shode ast",
+      "it has been built"
+     ],
+     [
+      "past perfect",
+      "[[ساخته شده بود|sākhte shode bud]]",
+      "sākhte shode bud",
+      "it had been built"
+     ],
+     [
+      "future",
+      "[[ساخته خواهد شد|sākhte khāhad shod]]",
+      "sākhte khāhad shod",
+      "it will be built"
+     ],
+     [
+      "subjunctive",
+      "[[ساخته شود|sākhte shavad]]",
+      "sākhte shavad",
+      "(that) it be built"
+     ],
+     [
+      "negative",
+      "[[ساخته نشد|sākhte na-shod]]",
+      "sākhte na-shod",
+      "it was not built"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "این نامه دیروز فرستاده شد.",
+     "r": "in nāme diruz ferestāde shod.",
+     "en": "This letter was sent yesterday.",
+     "faV": "این نامه دیروز فِرِستاده شُد.",
+     "a": "005000ee41f1"
+    },
+    {
+     "fa": "در ایران هر سال میلیون‌ها تن گندم تولید می‌شود.",
+     "r": "dar Irān har sāl milyun-hā ton gandom towlid mi-shavad.",
+     "en": "Millions of tonnes of wheat are produced in Iran every year.",
+     "faV": "دَر ایران هَر سال میلیون‌ها تُن گَندُم تَولید می‌شَوَد.",
+     "a": "29771945cefb"
+    },
+    {
+     "fa": "کتاب‌های او به بیست زبان ترجمه شده‌اند.",
+     "r": "ketāb-hā-ye u be bist zabān tarjome shode-and.",
+     "en": "His books have been translated into twenty languages.",
+     "faV": "کِتاب‌هایِ او به بیست زَبان تَرجُمه شُده‌اَند.",
+     "a": "839221733a4d"
+    },
+    {
+     "fa": "وقتی رسیدیم، در بسته شده بود.",
+     "r": "vaghti residim, dar baste shode bud.",
+     "en": "When we arrived, the door had been closed.",
+     "faV": "وَقتی رِسیدیم، دَر بَسته شُده بود.",
+     "a": "0d6ab0375273"
+    },
+    {
+     "fa": "نتیجه‌ی امتحان فردا اعلام خواهد شد.",
+     "r": "natije-ye emtehān fardā e'lām khāhad shod.",
+     "en": "The exam result will be announced tomorrow.",
+     "faV": "نَتیجه‌یِ اِمتِحان فَردا اِعلام خواهَد شُد.",
+     "a": "1af9e6f61e4c"
+    },
+    {
+     "fa": "باید این مشکل زودتر حل شود.",
+     "r": "bāyad in moshkel zud-tar hal shavad.",
+     "en": "This problem must be solved sooner.",
+     "faV": "بایَد این مُشکِل زودتَر حَل شَوَد.",
+     "a": "38f26d6b7123"
+    },
+    {
+     "fa": "این خانه هنوز فروخته نشده است.",
+     "r": "in khāne hanuz forukhte na-shode ast.",
+     "en": "This house has not been sold yet.",
+     "col": "این خونه هنوز فروخته نشده.",
+     "colR": "in khune hanuz forukhte na-shode.",
+     "faV": "این خانه هَنوز فُروخته نَشُده اَست.",
+     "a": "3438acdddcd5",
+     "colV": "این خونه هَنوز فُروخته نَشُده.",
+     "colA": "2a7b0a7706b4"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Compound verbs: just swap کردن for شدن",
+   "md": "Most Persian verbs are compounds – a noun or adjective plus [[کردن|kardan|to do]]. Their passive is wonderfully simple: **replace کردن with شدن**. No participle is needed, because the noun part stays as it is.\n\nThe same trick turns an action into a change of state: [[باز کردن|bāz kardan|to open (something)]] → [[باز شدن|bāz shodan|to open, to be opened]]; [[خراب کردن|kharāb kardan|to break (something)]] → [[خراب شدن|kharāb shodan|to break down]].\n\nBy whom? Persian rarely says it. If you must, use [[به دست|be dast-e|by the hand of]] or [[توسط|tavassot-e|by]] (formal): [[این پل به دست شاه عباس ساخته شد|in pol be dast-e Shāh Abbās sākhte shod]]. In speech people simply switch to the active.",
+   "table": {
+    "head": [
+     "Active (کردن)",
+     "Passive (شدن)",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[تمام کردن|tamām kardan]]",
+      "[[تمام شدن|tamām shodan]]",
+      "to finish → to be finished, run out"
+     ],
+     [
+      "[[شروع کردن|shoru' kardan]]",
+      "[[شروع شدن|shoru' shodan]]",
+      "to start → to begin"
+     ],
+     [
+      "[[پیدا کردن|peydā kardan]]",
+      "[[پیدا شدن|peydā shodan]]",
+      "to find → to be found"
+     ],
+     [
+      "[[تعمیر کردن|ta'mir kardan]]",
+      "[[تعمیر شدن|ta'mir shodan]]",
+      "to repair → to be repaired"
+     ],
+     [
+      "[[آماده کردن|āmāde kardan]]",
+      "[[آماده شدن|āmāde shodan]]",
+      "to prepare → to get ready"
+     ],
+     [
+      "[[گم کردن|gom kardan]]",
+      "[[گم شدن|gom shodan]]",
+      "to lose → to get lost"
+     ],
+     [
+      "[[برگزار کردن|bargozār kardan]]",
+      "[[برگزار شدن|bargozār shodan]]",
+      "to hold (an event) → to be held"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "کلاس ساعت نه شروع می‌شود.",
+     "r": "kelās sā'at-e noh shoru' mi-shavad.",
+     "en": "The class starts at nine.",
+     "faV": "کِلاس ساعَتِ نُه شُروع می‌شَوَد.",
+     "a": "a2742e62f458"
+    },
+    {
+     "fa": "کلیدم پیدا شد!",
+     "r": "kelid-am peydā shod!",
+     "en": "My key has been found! (My key turned up!)",
+     "faV": "کِلیدَم پَیدا شُد!",
+     "a": "e170ee8e5675"
+    },
+    {
+     "fa": "ماشین هنوز تعمیر نشده است.",
+     "r": "māshin hanuz ta'mir na-shode ast.",
+     "en": "The car has not been repaired yet.",
+     "col": "ماشین هنوز تعمیر نشده.",
+     "colR": "māshin hanuz ta'mir na-shode.",
+     "faV": "ماشین هَنوز تَعمیر نَشُده اَست.",
+     "a": "33d4c4bedafe",
+     "colV": "ماشین هَنوز تَعمیر نَشُده.",
+     "colA": "20a67e249c00"
+    },
+    {
+     "fa": "جشنواره هر سال در شهریور برگزار می‌شود.",
+     "r": "jashnvāre har sāl dar Shahrivar bargozār mi-shavad.",
+     "en": "The festival is held every year in Shahrivar.",
+     "faV": "جَشنواره هَر سال دَر شَهریوَر بَرگُزار می‌شَوَد.",
+     "a": "e12dbe4d4cd6"
+    },
+    {
+     "fa": "در بازار اصفهان گم شدیم.",
+     "r": "dar bāzār-e Esfahān gom shodim.",
+     "en": "We got lost in the Isfahan bazaar.",
+     "faV": "دَر بازارِ اِصفَهان گُم شُدیم.",
+     "a": "f67ecb45565c"
+    },
+    {
+     "fa": "شام آماده شد؟ بله، همه چیز آماده است.",
+     "r": "shām āmāde shod? bale, hame chiz āmāde ast.",
+     "en": "Is dinner ready? Yes, everything is ready.",
+     "faV": "شام آماده شُد؟ بَله، هَمه چیز آماده اَست.",
+     "a": "baea3f4bcf57"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Three ways to be impersonal",
+   "md": "**1. They say… – the third person plural.** When the doer is 'people in general', Persian uses the verb in the *they* form with no subject at all: [[می‌گویند که…|mi-guyand ke…|they say that…]], [[پل را ساختند|pol rā sākhtand|they built the bridge]]. This is the conversational substitute for the passive.\n\n**2. One can… – می‌شود / می‌توان.** [[می‌شود|mi-shavad]] (spoken *mishe*) plus a verb means *it is possible to, one can*: [[این‌جا می‌شود پارک کرد؟|in-jā mi-shavad pārk kard?|can one park here?]] – note the short infinitive (past stem) after it in formal style. In writing you also see [[می‌توان|mi-tavān]]: [[می‌توان گفت که…|mi-tavān goft ke…|one can say that…]]\n\n**3. A person… – آدم / یکی / کسی.** [[آدم|ādam]] means *a human being* and works like English *you* in *you never know*: [[آدم نمی‌داند چه بگوید|ādam nemi-dānad che beguyad|one doesn't know what to say]].",
+   "examples": [
+    {
+     "fa": "می‌گویند این غذا را اول در شیراز پختند.",
+     "r": "mi-guyand in ghazā rā avval dar Shirāz pokhtand.",
+     "en": "They say this dish was first cooked in Shiraz.",
+     "col": "می‌گن این غذا رو اول شیراز پختن.",
+     "colR": "mi-gan in ghazā ro avval Shirāz pokhtan.",
+     "faV": "می‌گویَند این غَذا را اَوَّل دَر شیراز پُختَند.",
+     "a": "c78178e05836",
+     "colV": "می‌گَن این غَذا رو اَوَّل شیراز پُختَن.",
+     "colA": "f7383d3d2243"
+    },
+    {
+     "fa": "در این خیابان نمی‌شود پارک کرد.",
+     "r": "dar in khiyābān nemi-shavad pārk kard.",
+     "en": "One can't park on this street.",
+     "col": "این خیابون نمی‌شه پارک کرد.",
+     "colR": "in khiyābun nemi-she pārk kard.",
+     "faV": "دَر این خیابان نِمی‌شَوَد پارک کَرد.",
+     "a": "459f6606043c",
+     "colV": "این خیابون نِمی‌شه پارک کَرد.",
+     "colA": "7a8ce77fa400"
+    },
+    {
+     "fa": "می‌توان گفت که زبان فارسی تغییر کمی کرده است.",
+     "r": "mi-tavān goft ke zabān-e fārsi taghyir-e kam-i karde ast.",
+     "en": "One can say that the Persian language has changed little.",
+     "faV": "می‌تَوان گُفت که زَبانِ فارسی تَغییرِ کَمی کَرده اَست.",
+     "a": "8d00d9e322e6"
+    },
+    {
+     "fa": "آدم وقتی خسته است، زود عصبانی می‌شود.",
+     "r": "ādam vaghti khaste ast, zud asabāni mi-shavad.",
+     "en": "When one is tired, one gets angry quickly.",
+     "faV": "آدَم وَقتی خَسته اَست، زود عَصَبانی می‌شَوَد.",
+     "a": "81868fb408be"
+    },
+    {
+     "fa": "یکی زنگ زد و اسم شما را پرسید.",
+     "r": "yek-i zang zad o esm-e shomā rā porsid.",
+     "en": "Someone called and asked your name.",
+     "faV": "یِکی زَنگ زَد و اِسمِ شُما را پُرسید.",
+     "a": "ec562702c2d6"
+    },
+    {
+     "fa": "این‌جا را تمیز کرده‌اند.",
+     "r": "in-jā rā tamiz karde-and.",
+     "en": "This place has been cleaned. (lit. they have cleaned here)",
+     "faV": "این‌جا را تَمیز کَرده‌اَند.",
+     "a": "11d1322ffa0a"
+    }
+   ]
+  },
+  {
+   "type": "dialogue",
+   "title": "At the garage",
+   "context": "Reza's car broke down. He talks to the mechanic, Mr Karimi. Listen to how often شدن appears in normal talk about things that happen to things.",
+   "lines": [
+    {
+     "who": "Reza",
+     "fa": "سلام آقای کریمی. ماشینم دیروز وسط خیابان خراب شد.",
+     "r": "salām āghā-ye Karimi. māshin-am diruz vasat-e khiyābān kharāb shod.",
+     "en": "Hello Mr Karimi. My car broke down in the middle of the street yesterday.",
+     "col": "سلام آقای کریمی. ماشینم دیروز وسط خیابون خراب شد.",
+     "colR": "salām āghā-ye Karimi. māshin-am diruz vasat-e khiyābun kharāb shod.",
+     "faV": "سَلام آقایِ کَریمی. ماشینَم دیروز وَسَطِ خیابان خَراب شُد.",
+     "a": "60be088a29d2",
+     "colV": "سَلام آقایِ کَریمی. ماشینَم دیروز وَسَطِ خیابون خَراب شُد.",
+     "colA": "b6822d3de411"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "چه شد؟ یک‌دفعه خاموش شد؟",
+     "r": "che shod? yek-daf'e khāmush shod?",
+     "en": "What happened? Did it suddenly switch off?",
+     "col": "چی شد؟ یه‌دفعه خاموش شد؟",
+     "colR": "chi shod? ye-daf'e khāmush shod?",
+     "faV": "چه شُد؟ یِک‌دَفعه خاموش شُد؟",
+     "a": "78b60e9c96aa",
+     "colV": "چی شُد؟ یه‌دَفعه خاموش شُد؟",
+     "colA": "90b8bc7d31d0"
+    },
+    {
+     "who": "Reza",
+     "fa": "بله. و دیگر روشن نشد.",
+     "r": "bale. o digar roshan na-shod.",
+     "en": "Yes. And it wouldn't start again.",
+     "col": "آره. دیگه روشن نشد.",
+     "colR": "āre. dige roshan na-shod.",
+     "faV": "بَله. و دیگَر روشَن نَشُد.",
+     "a": "40b937b710d6",
+     "colV": "آره. دیگه روشَن نَشُد.",
+     "colA": "43b2940d4322"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "باتری چک شده است؟",
+     "r": "bātri chek shode ast?",
+     "en": "Has the battery been checked?",
+     "col": "باتری چک شده؟",
+     "colR": "bātri chek shode?",
+     "faV": "باتری چِک شُده اَست؟",
+     "a": "0da23fa10a3c",
+     "colV": "باتری چِک شُده؟",
+     "colA": "038919c61252"
+    },
+    {
+     "who": "Reza",
+     "fa": "بله، پارسال تعویض شد.",
+     "r": "bale, pārsāl ta'viz shod.",
+     "en": "Yes, it was replaced last year.",
+     "faV": "بَله، پارسال تَعویض شُد.",
+     "a": "6e52b12151b0"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "خب، باید ماشین به تعمیرگاه آورده شود. فردا صبح آماده می‌شود.",
+     "r": "khob, bāyad māshin be ta'mirgāh āvarde shavad. fardā sobh āmāde mi-shavad.",
+     "en": "Well, the car must be brought to the workshop. It will be ready tomorrow morning.",
+     "col": "خب، ماشین باید بیاد تعمیرگاه. فردا صبح آماده می‌شه.",
+     "colR": "khob, māshin bāyad biyād ta'mirgāh. fardā sobh āmāde mi-she.",
+     "faV": "خُب، بایَد ماشین به تَعمیرگاه آوَرده شَوَد. فَردا صُبح آماده می‌شَوَد.",
+     "a": "13ac626b2f34",
+     "colV": "خُب، ماشین بایَد بیاد تَعمیرگاه. فَردا صُبح آماده می‌شه.",
+     "colA": "be8ab5b6b6a9"
+    },
+    {
+     "who": "Reza",
+     "fa": "هزینه‌اش چقدر می‌شود؟",
+     "r": "hazine-ash cheghadr mi-shavad?",
+     "en": "How much will it cost?",
+     "col": "هزینه‌ش چقدر می‌شه؟",
+     "colR": "hazine-sh cheghadr mi-she?",
+     "faV": "هَزینه‌اَش چِقَدر می‌شَوَد؟",
+     "a": "2bafc7bba511",
+     "colV": "هَزینه‌ش چِقَدر می‌شه؟",
+     "colA": "9b545f0cfdbd"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "هنوز نمی‌شود گفت. اول باید دیده شود.",
+     "r": "hanuz nemi-shavad goft. avval bāyad dide shavad.",
+     "en": "One can't say yet. First it has to be looked at.",
+     "col": "هنوز نمی‌شه گفت. اول باید دیده شه.",
+     "colR": "hanuz nemi-she goft. avval bāyad dide she.",
+     "faV": "هَنوز نِمی‌شَوَد گُفت. اَوَّل بایَد دیده شَوَد.",
+     "a": "f0e03978e9c9",
+     "colV": "هَنوز نِمی‌شه گُفت. اَوَّل بایَد دیده شه.",
+     "colA": "2c7e91f9d0af"
+    },
+    {
+     "who": "Reza",
+     "fa": "می‌گویند شما بهترین مکانیک محله هستید.",
+     "r": "mi-guyand shomā behtarin mekānik-e mahalle hastid.",
+     "en": "They say you are the best mechanic in the neighbourhood.",
+     "col": "می‌گن شما بهترین مکانیک محله‌این.",
+     "colR": "mi-gan shomā behtarin mekānik-e mahalle-in.",
+     "faV": "می‌گویَند شُما بِهتَرین مِکانیکِ مَحَلّه هَستید.",
+     "a": "6e64fbaeeb3f",
+     "colV": "می‌گَن شُما بِهتَرین مِکانیکِ مَحَلّه‌این.",
+     "colA": "8a8afc60f8be"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "لطف دارید. نگران نباشید، درست می‌شود.",
+     "r": "lotf dārid. negarān na-bāshid, dorost mi-shavad.",
+     "en": "You're kind. Don't worry, it will be fixed.",
+     "col": "لطف دارین. نگران نباشین، درست می‌شه.",
+     "colR": "lotf dārin. negarān na-bāshin, dorost mi-she.",
+     "faV": "لُطف دارید. نِگَران نَباشید، دُرُست می‌شَوَد.",
+     "a": "2b1c71d60af1",
+     "colV": "لُطف دارین. نِگَران نَباشین، دُرُست می‌شه.",
+     "colA": "8b828a8cb166"
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Reading the signs",
+   "md": "Once you know the passive, Iranian streets become readable. Shop windows and official notices use it everywhere, usually in the present tense with می‌شود:\n\n- [[این‌جا کلید ساخته می‌شود|in-jā kelid sākhte mi-shavad|keys cut here]] (literally *here key is made*)\n- [[به قیمت مناسب فروخته می‌شود|be gheymat-e monāseb forukhte mi-shavad|sold at a reasonable price]]\n- [[خواهشمند است از کشیدن سیگار خودداری شود|khāheshmand ast az keshidan-e sigār khoddāri shavad|please refrain from smoking]] – the most formal register of all, with a subjunctive passive.\n- [[ورود ممنوع|vorud mamnu'|no entry]] – no verb at all; Arabic participles like ممنوع (*forbidden*) do the passive's job.\n\nIn Isfahan, Si-o-se-pol is where the city goes for its evening walk. Under the arches, people sing: the vaulted brick makes a natural echo chamber, and on summer nights you can hear old songs and poems of Hafez sung by strangers – a tradition that is, as the reading says, گفته می‌شود, 'said to be' as old as the bridge.",
+   "image": "khaju-bridge"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "If you are speaking, not writing, try the *they* form first: کتاب را چاپ کردند sounds more natural than کتاب چاپ شد.",
+    "Not every شدن is a passive. In خسته شدم ('I got tired') or بزرگ شد ('he grew up'), شدن just means 'to become'. Ask yourself: could I add 'by someone'? If not, it is a change of state, not a passive.",
+    "Intransitive verbs have no passive: you cannot say *was gone* in Persian any more than in English. Verbs like آمدن، رفتن، خوابیدن never take شدن.",
+    "After می‌شود / نمی‌شود in the sense 'one can / one can't', the formal written style uses the short infinitive (the past stem): نمی‌شود گفت. In speech you will also hear the subjunctive: نمی‌شه بگیم.",
+    "Spoken Persian shortens شد to شد but شده است to just شده: فروخته شده 'it's been sold'."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Make it passive",
+   "items": [
+    {
+     "fa": "این مسجد در دوره‌ی صفوی ___ شد.",
+     "r": "in masjed dar dowre-ye Safavi ___ shod.",
+     "en": "This mosque was built in the Safavid period.",
+     "answer": "ساخته",
+     "hint": "past participle of ساختن"
+    },
+    {
+     "fa": "نامه‌ها هر روز ساعت ده ___ می‌شوند.",
+     "r": "nāme-hā har ruz sā'at-e dah ___ mi-shavand.",
+     "en": "The letters are sent every day at ten.",
+     "answer": "فرستاده",
+     "hint": "past participle of فرستادن"
+    },
+    {
+     "fa": "این کتاب به فارسی ترجمه ___ است.",
+     "r": "in ketāb be fārsi tarjome ___ ast.",
+     "en": "This book has been translated into Persian.",
+     "answer": "شده",
+     "hint": "perfect of شدن"
+    },
+    {
+     "fa": "جلسه فردا برگزار ___ شد.",
+     "r": "jalase fardā bargozār ___ shod.",
+     "en": "The meeting will be held tomorrow.",
+     "answer": "خواهد",
+     "hint": "formal future"
+    },
+    {
+     "fa": "وقتی آمدیم، غذا ___ شده بود.",
+     "r": "vaghti āmadim, ghazā ___ shode bud.",
+     "en": "When we came, the food had been eaten.",
+     "answer": "خورده",
+     "hint": "past participle of خوردن"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Passive or just 'become'?",
+   "items": [
+    {
+     "q": "[[در باز شد.|dar bāz shod.]] – Is this a passive (someone opened it) or a change of state?",
+     "options": [
+      "Only passive",
+      "Only 'became open'",
+      "It can be either – Persian does not distinguish"
+     ],
+     "answer": 2,
+     "explain": "باز شدن covers both 'was opened (by someone)' and 'opened (by itself)'. Context decides."
+    },
+    {
+     "q": "Which sentence is the natural **spoken** way to say 'The house was sold'?",
+     "options": [
+      "خانه به فروش رسانده شد.",
+      "خانه را فروختند.",
+      "خانه توسط آن‌ها فروخته گشت."
+     ],
+     "answer": 1,
+     "explain": "The 'they' form is what people say; the others are written or archaic (گشت)."
+    },
+    {
+     "q": "Which verb cannot be made passive?",
+     "options": [
+      "خواندن",
+      "خوابیدن",
+      "نوشتن"
+     ],
+     "answer": 1,
+     "explain": "خوابیدن 'to sleep' has no object, so there is nothing to make the subject of a passive."
+    },
+    {
+     "q": "[[نمی‌شود این‌جا نشست.|nemi-shavad in-jā neshast.]] means…",
+     "options": [
+      "Nobody sat here.",
+      "One can't sit here.",
+      "It wasn't sitting here."
+     ],
+     "answer": 1,
+     "explain": "نمی‌شود + short infinitive = 'it is not possible to'."
+    },
+    {
+     "q": "How do you say 'by Shah Abbas' in a formal passive sentence?",
+     "options": [
+      "با شاه عباس",
+      "به دست شاه عباس",
+      "برای شاه عباس"
+     ],
+     "answer": 1,
+     "explain": "به دست (or توسط) marks the agent; با means 'together with / using'."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "This bridge was built four hundred years ago.",
+     "fa": "این پل چهارصد سال پیش ساخته شد.",
+     "r": "in pol chahārsad sāl pish sākhte shod.",
+     "faV": "این پُل چَهارصَد سال پیش ساخته شُد.",
+     "a": "5dded5e202a2"
+    },
+    {
+     "en": "They say the weather will be cold tomorrow.",
+     "fa": "می‌گویند هوا فردا سرد می‌شود.",
+     "r": "mi-guyand havā fardā sard mi-shavad.",
+     "faV": "می‌گویَند هَوا فَردا سَرد می‌شَوَد.",
+     "a": "02b826960b38"
+    },
+    {
+     "en": "The shop is opened at eight every morning.",
+     "fa": "مغازه هر روز صبح ساعت هشت باز می‌شود.",
+     "r": "maghāze har ruz sobh sā'at-e hasht bāz mi-shavad.",
+     "faV": "مَغازه هَر روز صُبح ساعَتِ هَشت باز می‌شَوَد.",
+     "a": "077c71b0ed80"
+    },
+    {
+     "en": "One can't say anything yet.",
+     "fa": "هنوز نمی‌شود چیزی گفت.",
+     "r": "hanuz nemi-shavad chiz-i goft.",
+     "faV": "هَنوز نِمی‌شَوَد چیزی گُفت.",
+     "a": "8b10a740d28d"
+    },
+    {
+     "en": "The letter has not been written yet.",
+     "fa": "نامه هنوز نوشته نشده است.",
+     "r": "nāme hanuz neveshte na-shode ast.",
+     "faV": "نامه هَنوز نِوِشته نَشُده اَست.",
+     "a": "cc891d31770a"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "این پل در اصفهان ساخته شد.",
+     "r": "in pol dar Esfahān sākhte shod.",
+     "en": "This bridge was built in Isfahan.",
+     "faV": "این پُل دَر اِصفَهان ساخته شُد.",
+     "a": "4e116455e809"
+    },
+    {
+     "fa": "کتاب‌های او به چند زبان ترجمه شده‌اند.",
+     "r": "ketāb-hā-ye u be chand zabān tarjome shode-and.",
+     "en": "His books have been translated into several languages.",
+     "faV": "کِتاب‌هایِ او به چَند زَبان تَرجُمه شُده‌اَند.",
+     "a": "8ac9e8a63b6e"
+    },
+    {
+     "fa": "می‌گویند او بهترین مکانیک شهر است.",
+     "r": "mi-guyand u behtarin mekānik-e shahr ast.",
+     "en": "They say he is the best mechanic in town.",
+     "faV": "می‌گویَند او بِهتَرین مِکانیکِ شَهر اَست.",
+     "a": "595d0481063d"
+    },
+    {
+     "fa": "در این خیابان نمی‌شود پارک کرد.",
+     "r": "dar in khiyābān nemi-shavad pārk kard.",
+     "en": "One can't park on this street.",
+     "faV": "دَر این خیابان نِمی‌شَوَد پارک کَرد.",
+     "a": "459f6606043c"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "ماشین فردا آماده می‌شود.",
+     "r": "māshin fardā āmāde mi-shavad.",
+     "en": "The car will be ready tomorrow.",
+     "options": [
+      "The car was ready yesterday.",
+      "The car will be ready tomorrow.",
+      "The car is not ready."
+     ],
+     "answer": 1,
+     "faV": "ماشین فَردا آماده می‌شَوَد.",
+     "a": "5d146c1f3be9"
+    },
+    {
+     "fa": "گفته می‌شود که این شهر خیلی قدیمی است.",
+     "r": "gofte mi-shavad ke in shahr kheyli ghadimi ast.",
+     "en": "It is said that this city is very old.",
+     "options": [
+      "It is said that this city is very old.",
+      "They said the city is far.",
+      "This city has been destroyed."
+     ],
+     "answer": 0,
+     "faV": "گُفته می‌شَوَد که این شَهر خَیلی قَدیمی اَست.",
+     "a": "d0a0577973fa"
+    },
+    {
+     "fa": "کلیدم پیدا نشد.",
+     "r": "kelid-am peydā na-shod.",
+     "en": "My key was not found.",
+     "options": [
+      "My key was found.",
+      "My key was not found.",
+      "I found my key."
+     ],
+     "answer": 1,
+     "faV": "کِلیدَم پَیدا نَشُد.",
+     "a": "05e2f06887e5"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match active and passive",
+   "items": [
+    {
+     "fa": "تمام شدن",
+     "r": "tamām shodan",
+     "en": "to be finished, run out",
+     "faV": "تَمام شُدَن",
+     "a": "7cef233338f3"
+    },
+    {
+     "fa": "گم شدن",
+     "r": "gom shodan",
+     "en": "to get lost",
+     "faV": "گُم شُدَن",
+     "a": "27c988242279"
+    },
+    {
+     "fa": "برگزار شدن",
+     "r": "bargozār shodan",
+     "en": "to be held (event)",
+     "faV": "بَرگُزار شُدَن",
+     "a": "44df8ea6ae02"
+    },
+    {
+     "fa": "تعمیر شدن",
+     "r": "ta'mir shodan",
+     "en": "to be repaired",
+     "faV": "تَعمیر شُدَن",
+     "a": "902b87a109ca"
+    },
+    {
+     "fa": "ثبت شدن",
+     "r": "sabt shodan",
+     "en": "to be registered",
+     "faV": "ثَبت شُدَن",
+     "a": "2055287e6a4e"
+    },
+    {
+     "fa": "شنیده شدن",
+     "r": "shenide shodan",
+     "en": "to be heard",
+     "faV": "شِنیده شُدَن",
+     "a": "36a796c7e860"
+    },
+    {
+     "fa": "فروخته شدن",
+     "r": "forukhte shodan",
+     "en": "to be sold",
+     "faV": "فُروخته شُدَن",
+     "a": "d58f499214a5"
+    }
+   ]
+  }
+ ],
+ "titleV": "ساخته شُد، می‌گویَند",
+ "titleA": "4743218b3d69"
+}

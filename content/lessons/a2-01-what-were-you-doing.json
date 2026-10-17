@@ -1,0 +1,876 @@
+{
+ "id": "a2-01-what-were-you-doing",
+ "level": "A2",
+ "n": 1,
+ "title": "What were you doing? The past continuous",
+ "titleFa": "چه کار می‌کردی؟",
+ "titleR": "che kār mi-kardi?",
+ "intro": "At A1 you learned to say what happened (رفتم – I went). Now you learn to paint the background: what was going on, what you used to do as a child, and what you were in the middle of doing when something interrupted. Persian does this with one small prefix you already know – می – stuck onto the past.",
+ "goals": [
+  "describe what was happening in the past (می‌رفتم)",
+  "say what you used to do as a child",
+  "say you were in the middle of doing something (داشتم می‌رفتم)",
+  "join two past events with وقتی که"
+ ],
+ "image": "darband",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "A phone call that came too late",
+   "context": "Reza rings Mina in the evening. She did not answer his first call.",
+   "lines": [
+    {
+     "who": "Reza",
+     "fa": "سلام مینا. ساعت پنج زنگ زدم، جواب ندادی.",
+     "r": "salām Minā. sā'at-e panj zang zadam, javāb na-dādi.",
+     "en": "Hi Mina. I rang at five, you didn't answer.",
+     "col": "سلام مینا. ساعت پنج زنگ زدم، جواب ندادی.",
+     "colR": "salām Minā. sā'at-e panj zang zadam, javāb na-dādi.",
+     "faV": "سَلام مینا. ساعَتِ پَنج زَنگ زَدَم، جَواب نَدادی.",
+     "a": "2ac359924f6f",
+     "colV": "سَلام مینا. ساعَتِ پَنج زَنگ زَدَم، جَواب نَدادی.",
+     "colA": "2ac359924f6f"
+    },
+    {
+     "who": "Mina",
+     "fa": "ببخشید! ساعت پنج داشتم شام می‌پختم.",
+     "r": "bebakhshid! sā'at-e panj dāshtam shām mi-pokhtam.",
+     "en": "Sorry! At five I was cooking dinner.",
+     "col": "ببخشید! ساعت پنج داشتم شام می‌پختم.",
+     "colR": "bebakhshid! sā'at-e panj dāshtam shām mi-pokhtam.",
+     "faV": "بِبَخشید! ساعَتِ پَنج داشتَم شام می‌پُختَم.",
+     "a": "1c8c153b15e2",
+     "colV": "بِبَخشید! ساعَتِ پَنج داشتَم شام می‌پُختَم.",
+     "colA": "1c8c153b15e2"
+    },
+    {
+     "who": "Reza",
+     "fa": "چه کار می‌کردی؟ موبایلت کجا بود؟",
+     "r": "che kār mi-kardi? mobāyl-at kojā bud?",
+     "en": "What were you doing? Where was your phone?",
+     "col": "چی کار می‌کردی؟ موبایلت کجا بود؟",
+     "colR": "chi kār mi-kardi? mobāyl-et kojā bud?",
+     "faV": "چه کار می‌کَردی؟ موبایلَت کُجا بود؟",
+     "a": "ff64e00fa0be",
+     "colV": "چی کار می‌کَردی؟ موبایلِت کُجا بود؟",
+     "colA": "4cd7bc22ead2"
+    },
+    {
+     "who": "Mina",
+     "fa": "در اتاق بود. من در آشپزخانه بودم و آهنگ گوش می‌کردم.",
+     "r": "dar otāgh bud. man dar āshpaz-khāne budam o āhang gush mi-kardam.",
+     "en": "It was in the room. I was in the kitchen listening to music.",
+     "col": "تو اتاق بود. من تو آشپزخونه بودم و آهنگ گوش می‌کردم.",
+     "colR": "tu otāgh bud. man tu āshpaz-khune budam o āhang gush mi-kardam.",
+     "faV": "دَر اُتاق بود. مَن دَر آشپَزخانه بودَم و آهَنگ گوش می‌کَردَم.",
+     "a": "a46ea38773da",
+     "colV": "تو اُتاق بود. مَن تو آشپَزخونه بودَم و آهَنگ گوش می‌کَردَم.",
+     "colA": "2679a4858cf0"
+    },
+    {
+     "who": "Reza",
+     "fa": "آهان. وقتی که زنگ زدم، چیزی نشنیدی؟",
+     "r": "āhān. vaghti ke zang zadam, chiz-i na-shenidi?",
+     "en": "Ah. When I rang, you didn't hear anything?",
+     "col": "آهان. وقتی زنگ زدم، چیزی نشنیدی؟",
+     "colR": "āhān. vaghti zang zadam, chizi na-shenidi?",
+     "faV": "آهان. وَقتی که زَنگ زَدَم، چیزی نَشِنیدی؟",
+     "a": "8213de54b714",
+     "colV": "آهان. وَقتی زَنگ زَدَم، چیزی نَشِنیدی؟",
+     "colA": "46d1b095819a"
+    },
+    {
+     "who": "Mina",
+     "fa": "نه. سارا هم این‌جا بود. با هم حرف می‌زدیم و می‌خندیدیم.",
+     "r": "na. Sārā ham in-jā bud. bā ham harf mi-zadim o mi-khandidim.",
+     "en": "No. Sara was here too. We were talking together and laughing.",
+     "faV": "نه. سارا هَم این‌جا بود. با هَم حَرف می‌زَدیم و می‌خَندیدیم.",
+     "a": "86cad74dc242"
+    },
+    {
+     "who": "Reza",
+     "fa": "خوش به حالتان! من تا ساعت هفت کار می‌کردم.",
+     "r": "khosh be hāl-etān! man tā sā'at-e haft kār mi-kardam.",
+     "en": "Lucky you! I was working until seven.",
+     "col": "خوش به حالتون! من تا ساعت هفت کار می‌کردم.",
+     "colR": "khosh be hāl-etun! man tā sā'at-e haft kār mi-kardam.",
+     "faV": "خوش به حالِتان! مَن تا ساعَتِ هَفت کار می‌کَردَم.",
+     "a": "e39b8bd2214d",
+     "colV": "خوش به حالِتون! مَن تا ساعَتِ هَفت کار می‌کَردَم.",
+     "colA": "2f913f723827"
+    },
+    {
+     "who": "Mina",
+     "fa": "چرا زنگ زدی؟ چیزی شده بود؟",
+     "r": "cherā zang zadi? chiz-i shode bud?",
+     "en": "Why did you ring? Had something happened?",
+     "faV": "چِرا زَنگ زَدی؟ چیزی شُده بود؟",
+     "a": "8cb16a6dd580"
+    },
+    {
+     "who": "Reza",
+     "fa": "نه، فقط می‌خواستم بگویم فردا جلسه ساعت نه است، نه ساعت ده.",
+     "r": "na, faghat mi-khāstam beguyam fardā jalase sā'at-e noh ast, na sā'at-e dah.",
+     "en": "No, I just wanted to say the meeting tomorrow is at nine, not at ten.",
+     "col": "نه، فقط می‌خواستم بگم فردا جلسه ساعت نهه، نه ساعت ده.",
+     "colR": "na, faghat mi-khāstam begam fardā jalase sā'at-e nohe, na sā'at-e dah.",
+     "faV": "نه، فَقَط می‌خواستَم بِگویَم فَردا جَلَسه ساعَتِ نُه اَست، نه ساعَتِ دَه.",
+     "a": "4763ce41b02d",
+     "colV": "نه، فَقَط می‌خواستَم بِگَم فَردا جَلَسه ساعَتِ نُهه، نه ساعَتِ دَه.",
+     "colA": "14e2aeb9237f"
+    },
+    {
+     "who": "Mina",
+     "fa": "خوب شد گفتی! ممنون.",
+     "r": "khub shod gofti! mamnun.",
+     "en": "Good thing you said! Thanks.",
+     "faV": "خوب شُد گُفتی! مَمنون.",
+     "a": "22c8a2c19e63"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "One prefix, two tenses",
+   "md": "You know that [[می|mi]] in front of the present stem makes the present tense: [[می‌روم|mi-ravam|I go / I am going]]. Put the same [[می|mi]] in front of the **past** form and you get the **past continuous**: [[می‌رفتم|mi-raftam|I was going / I used to go]].\n\nEnglish needs two different tenses for *I was going* and *I used to go*; Persian uses one. The context tells you which is meant:\n\n- [[هر روز به مدرسه می‌رفتم.|har ruz be madrese mi-raftam.|Every day I went (used to go) to school.]] – a habit in the past.\n- [[ساعت پنج شام می‌پختم.|sā'at-e panj shām mi-pokhtam.|At five I was cooking dinner.]] – an action in progress.\n\nTo stress that you were right in the middle of something, Persian adds the past of [[داشتن|dāshtan|to have]] in front: [[داشتم شام می‌پختم|dāshtam shām mi-pokhtam|I was (busy) cooking dinner]]. Both verbs carry the same ending. This is exactly like the present [[دارم می‌روم|dāram mi-ravam|I am going (right now)]] you may have heard in speech."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "زنگ زدن",
+     "r": "zang zadan",
+     "en": "to ring, to phone",
+     "pos": "v",
+     "ex": {
+      "fa": "دیشب به مادرم زنگ زدم.",
+      "r": "dishab be mādar-am zang zadam.",
+      "en": "Last night I rang my mother.",
+      "faV": "دیشَب به مادَرَم زَنگ زَدَم.",
+      "a": "e69bbe935282"
+     },
+     "faV": "زَنگ زَدَن",
+     "a": "233b87a155c5"
+    },
+    {
+     "fa": "جواب دادن",
+     "r": "javāb dādan",
+     "en": "to answer",
+     "pos": "v",
+     "faV": "جَواب دادَن",
+     "a": "282cbada6fdf"
+    },
+    {
+     "fa": "پختن",
+     "r": "pokhtan",
+     "en": "to cook",
+     "pos": "v",
+     "note": "present stem پز (pokhtan → mi-pazam)",
+     "faV": "پُختَن",
+     "a": "6cd2fd8f66a5"
+    },
+    {
+     "fa": "شام",
+     "r": "shām",
+     "en": "dinner",
+     "pos": "n",
+     "faV": "شام",
+     "a": "0066c0f57bda"
+    },
+    {
+     "fa": "آشپزخانه",
+     "r": "āshpaz-khāne",
+     "en": "kitchen",
+     "pos": "n",
+     "col": "آشپزخونه",
+     "colR": "āshpaz-khune",
+     "faV": "آشپَزخانه",
+     "a": "9390963e9c61",
+     "colV": "آشپَزخونه",
+     "colA": "eb30fb062983"
+    },
+    {
+     "fa": "آهنگ",
+     "r": "āhang",
+     "en": "song, piece of music",
+     "pos": "n",
+     "faV": "آهَنگ",
+     "a": "3a07e214d43c"
+    },
+    {
+     "fa": "گوش کردن",
+     "r": "gush kardan",
+     "en": "to listen",
+     "pos": "v",
+     "ex": {
+      "fa": "به رادیو گوش می‌کردیم.",
+      "r": "be rādiyo gush mi-kardim.",
+      "en": "We were listening to the radio.",
+      "faV": "به رادیو گوش می‌کَردیم.",
+      "a": "8bd5883c30a7"
+     },
+     "faV": "گوش کَردَن",
+     "a": "aaf56a38c143"
+    },
+    {
+     "fa": "شنیدن",
+     "r": "shenidan",
+     "en": "to hear",
+     "pos": "v",
+     "note": "present stem شنو (mi-shenavam)",
+     "faV": "شِنیدَن",
+     "a": "665d52a6f0db"
+    },
+    {
+     "fa": "حرف زدن",
+     "r": "harf zadan",
+     "en": "to talk, to speak",
+     "pos": "v",
+     "faV": "حَرف زَدَن",
+     "a": "5636de6a2814"
+    },
+    {
+     "fa": "خندیدن",
+     "r": "khandidan",
+     "en": "to laugh",
+     "pos": "v",
+     "faV": "خَندیدَن",
+     "a": "6456af638563"
+    },
+    {
+     "fa": "گریه کردن",
+     "r": "gerye kardan",
+     "en": "to cry",
+     "pos": "v",
+     "faV": "گِریه کَردَن",
+     "a": "4b93dac9dd5c"
+    },
+    {
+     "fa": "بازی کردن",
+     "r": "bāzi kardan",
+     "en": "to play",
+     "pos": "v",
+     "ex": {
+      "fa": "بچه‌ها در حیاط بازی می‌کردند.",
+      "r": "bacche-hā dar hayāt bāzi mi-kardand.",
+      "en": "The children were playing in the yard.",
+      "faV": "بَچّه‌ها دَر حَیاط بازی می‌کَردَند.",
+      "a": "61a32538b7a7"
+     },
+     "faV": "بازی کَردَن",
+     "a": "2ceb9410bc62"
+    },
+    {
+     "fa": "جلسه",
+     "r": "jalase",
+     "en": "meeting",
+     "pos": "n",
+     "faV": "جَلَسه",
+     "a": "88964cd26b3e"
+    },
+    {
+     "fa": "وقتی که",
+     "r": "vaghti ke",
+     "en": "when (at the time that)",
+     "pos": "conj",
+     "note": "in speech often just vaghti",
+     "faV": "وَقتی که",
+     "a": "f4b3cac01520"
+    },
+    {
+     "fa": "بچگی",
+     "r": "bacchegi",
+     "en": "childhood",
+     "pos": "n",
+     "ex": {
+      "fa": "در بچگی خیلی شیطان بودم.",
+      "r": "dar bacchegi kheyli sheytān budam.",
+      "en": "In childhood I was very naughty.",
+      "faV": "دَر بَچِّگی خَیلی شَیطان بودَم.",
+      "a": "9255d92bb08c"
+     },
+     "faV": "بَچِّگی",
+     "a": "515b6cbd1067"
+    },
+    {
+     "fa": "همیشه",
+     "r": "hamishe",
+     "en": "always",
+     "pos": "adv",
+     "faV": "هَمیشه",
+     "a": "ce38ac601b82"
+    },
+    {
+     "fa": "معمولاً",
+     "r": "ma'mulan",
+     "en": "usually",
+     "pos": "adv",
+     "faV": "مَعمولاً",
+     "a": "450de55ea35d"
+    },
+    {
+     "fa": "هیچ‌وقت",
+     "r": "hich-vaght",
+     "en": "never",
+     "pos": "adv",
+     "note": "used with a negative verb",
+     "faV": "هیچ‌وَقت",
+     "a": "c0710c551246"
+    },
+    {
+     "fa": "خوش به حالت",
+     "r": "khosh be hāl-at",
+     "en": "lucky you!",
+     "pos": "phrase",
+     "note": "literally 'happy to your state'",
+     "faV": "خوش به حالَت",
+     "a": "16d43ff953ac"
+    },
+    {
+     "fa": "خوب شد",
+     "r": "khub shod",
+     "en": "good thing (that)…",
+     "pos": "phrase",
+     "faV": "خوب شُد",
+     "a": "3b220b2a6107"
+    },
+    {
+     "fa": "ناگهان",
+     "r": "nāgahān",
+     "en": "suddenly",
+     "pos": "adv",
+     "col": "یک‌دفعه",
+     "colR": "yek-daf'e",
+     "faV": "ناگَهان",
+     "a": "532313350472",
+     "colV": "یِک‌دَفعه",
+     "colA": "db5f661234fb"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The past continuous: می + past",
+   "md": "Take the simple past you know ([[رفتم|raftam]], [[رفتی|rafti]], [[رفت|raft]] …) and put [[می|mi]] in front, joined with a ZWNJ, never a space. The endings do not change. The one difference from the simple past: the third person singular has **no** extra ending in either tense ([[رفت|raft]] → [[می‌رفت|mi-raft]]).\n\nNegative: [[ن|na]] goes **before** [[می|mi]] and both are joined: [[نمی‌رفتم|nemi-raftam|I wasn't going / I didn't use to go]]. Notice the vowel: na + mi becomes **nemi**.",
+   "table": {
+    "head": [
+     "Simple past",
+     "Past continuous",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[رفتم|raftam]]",
+      "[[می‌رفتم|mi-raftam]]",
+      "I was going / used to go"
+     ],
+     [
+      "[[رفتی|rafti]]",
+      "[[می‌رفتی|mi-rafti]]",
+      "you were going"
+     ],
+     [
+      "[[رفت|raft]]",
+      "[[می‌رفت|mi-raft]]",
+      "he / she was going"
+     ],
+     [
+      "[[رفتیم|raftim]]",
+      "[[می‌رفتیم|mi-raftim]]",
+      "we were going"
+     ],
+     [
+      "[[رفتید|raftid]]",
+      "[[می‌رفتید|mi-raftid]]",
+      "you were going"
+     ],
+     [
+      "[[رفتند|raftand]]",
+      "[[می‌رفتند|mi-raftand]]",
+      "they were going"
+     ],
+     [
+      "[[نرفتم|na-raftam]]",
+      "[[نمی‌رفتم|nemi-raftam]]",
+      "I wasn't going"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "در بچگی هر تابستان به شمال می‌رفتیم.",
+     "r": "dar bacchegi har tābestān be shomāl mi-raftim.",
+     "en": "In childhood we went to the north (the Caspian coast) every summer.",
+     "note": "a past habit",
+     "faV": "دَر بَچِّگی هَر تابِستان به شُمال می‌رَفتیم.",
+     "a": "3e9281206dc2"
+    },
+    {
+     "fa": "پدرم همیشه روزنامه می‌خواند.",
+     "r": "pedar-am hamishe ruznāme mi-khānd.",
+     "en": "My father always used to read the newspaper.",
+     "faV": "پِدَرَم هَمیشه روزنامه می‌خواند.",
+     "a": "8c50d40d2121"
+    },
+    {
+     "fa": "آن وقت‌ها موبایل نداشتیم.",
+     "r": "ān vaght-hā mobāyl na-dāshtim.",
+     "en": "In those days we didn't have mobile phones.",
+     "note": "داشتن and بودن rarely take می in the past: نداشتیم, not نمی‌داشتیم",
+     "faV": "آن وَقت‌ها موبایل نَداشتیم.",
+     "a": "dabc335407b8"
+    },
+    {
+     "fa": "ساعت هشت هنوز کار می‌کردند.",
+     "r": "sā'at-e hasht hanuz kār mi-kardand.",
+     "en": "At eight they were still working.",
+     "faV": "ساعَتِ هَشت هَنوز کار می‌کَردَند.",
+     "a": "3a124718b27f"
+    },
+    {
+     "fa": "بچه‌ها گریه نمی‌کردند، می‌خندیدند.",
+     "r": "bacche-hā gerye nemi-kardand, mi-khandidand.",
+     "en": "The children weren't crying, they were laughing.",
+     "faV": "بَچّه‌ها گِریه نِمی‌کَردَند، می‌خَندیدَند.",
+     "a": "a0779d2ff159"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "In the middle of it: داشتم می‌رفتم",
+   "md": "When you want to say you were *right in the middle of* an action – usually one that gets interrupted – add the simple past of [[داشتن|dāshtan]] in front of the past continuous. Both verbs agree with the subject:\n\n[[داشتم می‌رفتم|dāshtam mi-raftam|I was (just) going]], [[داشتی می‌رفتی|dāshti mi-rafti]], [[داشت می‌رفت|dāsht mi-raft]], [[داشتیم می‌رفتیم|dāshtim mi-raftim]] …\n\nThe object goes between the two verbs: [[داشتم شام می‌پختم|dāshtam shām mi-pokhtam|I was cooking dinner]]. This form has no negative – for *I wasn't doing* use the plain past continuous.",
+   "examples": [
+    {
+     "fa": "داشتم می‌خوابیدم که تلفن زنگ زد.",
+     "r": "dāshtam mi-khābidam ke telefon zang zad.",
+     "en": "I was just falling asleep when the phone rang.",
+     "faV": "داشتَم می‌خوابیدَم که تِلِفُن زَنگ زَد.",
+     "a": "114f8fbefd55"
+    },
+    {
+     "fa": "داشتیم غذا می‌خوردیم که مهمان آمد.",
+     "r": "dāshtim ghazā mi-khordim ke mehmān āmad.",
+     "en": "We were eating when a guest arrived.",
+     "faV": "داشتیم غَذا می‌خوردیم که مِهمان آمَد.",
+     "a": "d0f718ddfc1c"
+    },
+    {
+     "fa": "تو داشتی چه کار می‌کردی؟",
+     "r": "to dāshti che kār mi-kardi?",
+     "en": "What were you doing (just then)?",
+     "col": "تو داشتی چی کار می‌کردی؟",
+     "colR": "to dāshti chi kār mi-kardi?",
+     "faV": "تو داشتی چه کار می‌کَردی؟",
+     "a": "264983973194",
+     "colV": "تو داشتی چی کار می‌کَردی؟",
+     "colA": "f59a0fd832ec"
+    },
+    {
+     "fa": "سارا داشت درس می‌خواند.",
+     "r": "Sārā dāsht dars mi-khānd.",
+     "en": "Sara was studying.",
+     "faV": "سارا داشت دَرس می‌خواند.",
+     "a": "f266ce56f17c"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "When one thing cut into another: وقتی که",
+   "md": "[[وقتی که|vaghti ke|when]] (literally *the time that*) opens the background clause. The background is in the past continuous, the sudden event in the simple past:\n\n[[وقتی که زنگ زدی، شام می‌پختم.|vaghti ke zang zadi, shām mi-pokhtam.|When you rang, I was cooking dinner.]]\n\nYou can also put the background first with [[که|ke]] joining the interruption, as in the examples above: *dāshtam mi-khābidam **ke** telefon zang zad*. In speech [[که|ke]] is often dropped after [[وقتی|vaghti]].",
+   "examples": [
+    {
+     "fa": "وقتی که به خانه رسیدم، همه خوابیده بودند.",
+     "r": "vaghti ke be khāne residam, hame khābide budand.",
+     "en": "When I got home, everyone had gone to sleep.",
+     "note": "khābide budand: the past perfect, 'had slept' – you will meet it properly in lesson 2",
+     "faV": "وَقتی که به خانه رِسیدَم، هَمه خوابیده بودَند.",
+     "a": "2bf529333fe3"
+    },
+    {
+     "fa": "وقتی که بچه بودم، در شیراز زندگی می‌کردیم.",
+     "r": "vaghti ke bacche budam, dar Shirāz zendegi mi-kardim.",
+     "en": "When I was a child, we lived in Shiraz.",
+     "faV": "وَقتی که بَچّه بودَم، دَر شیراز زِندِگی می‌کَردیم.",
+     "a": "181ffe7367eb"
+    },
+    {
+     "fa": "وقتی باران می‌آمد، در خانه بازی می‌کردیم.",
+     "r": "vaghti bārān mi-āmad, dar khāne bāzi mi-kardim.",
+     "en": "When it rained, we played indoors.",
+     "faV": "وَقتی باران می‌آمَد، دَر خانه بازی می‌کَردیم.",
+     "a": "b6df127aff84"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Tom remembers his first week in Tehran",
+   "intro": "Tom, an Australian student, writes about his first days in Iran. Watch for the two past tenses side by side.",
+   "sentences": [
+    {
+     "fa": "سال گذشته برای درس خواندن به تهران آمدم.",
+     "r": "sāl-e gozashte barā-ye dars khāndan be Tehrān āmadam.",
+     "en": "Last year I came to Tehran to study.",
+     "faV": "سالِ گُذَشته بَرایِ دَرس خواندَن به تِهران آمَدَم.",
+     "a": "f1dd8b8e94eb"
+    },
+    {
+     "fa": "هفته‌ی اول خیلی سخت بود.",
+     "r": "hafte-ye avval kheyli sakht bud.",
+     "en": "The first week was very hard.",
+     "faV": "هَفته‌یِ اَوَّل خَیلی سَخت بود.",
+     "a": "4ec70872338b"
+    },
+    {
+     "fa": "هیچ‌کس را نمی‌شناختم و فارسی کم بلد بودم.",
+     "r": "hich-kas rā nemi-shenākhtam o fārsi kam balad budam.",
+     "en": "I didn't know anyone and I knew little Persian.",
+     "faV": "هیچ‌کَس را نِمی‌شِناختَم و فارسی کَم بَلَد بودَم.",
+     "a": "15108c90cfdc"
+    },
+    {
+     "fa": "هر روز صبح با مترو به دانشگاه می‌رفتم.",
+     "r": "har ruz sobh bā metro be dāneshgāh mi-raftam.",
+     "en": "Every morning I went to the university by metro.",
+     "faV": "هَر روز صُبح با مِترو به دانِشگاه می‌رَفتَم.",
+     "a": "f02a472136fb"
+    },
+    {
+     "fa": "در مترو مردم با هم حرف می‌زدند و من هیچ چیز نمی‌فهمیدم.",
+     "r": "dar metro mardom bā ham harf mi-zadand o man hich chiz nemi-fahmidam.",
+     "en": "On the metro people talked to each other and I didn't understand anything.",
+     "faV": "دَر مِترو مَردُم با هَم حَرف می‌زَدَند و مَن هیچ چیز نِمی‌فَهمیدَم.",
+     "a": "a0374eed735f"
+    },
+    {
+     "fa": "یک روز داشتم نقشه را نگاه می‌کردم که پیرمردی آمد.",
+     "r": "yek ruz dāshtam naghshe rā negāh mi-kardam ke pir-mard-i āmad.",
+     "en": "One day I was looking at the map when an old man came up.",
+     "faV": "یِک روز داشتَم نَقشه را نِگاه می‌کَردَم که پیرمَردی آمَد.",
+     "a": "f6c8b92d2b8c"
+    },
+    {
+     "fa": "او آهسته فارسی حرف می‌زد و راه را به من نشان داد.",
+     "r": "u āheste fārsi harf mi-zad o rāh rā be man neshān dād.",
+     "en": "He spoke Persian slowly and showed me the way.",
+     "faV": "او آهِسته فارسی حَرف می‌زَد و راه را به مَن نِشان داد.",
+     "a": "ef2e89162449"
+    },
+    {
+     "fa": "بعد از آن، هر روز با کسی حرف می‌زدم.",
+     "r": "ba'd az ān, har ruz bā kas-i harf mi-zadam.",
+     "en": "After that, I talked with someone every day.",
+     "faV": "بَعد اَز آن، هَر روز با کَسی حَرف می‌زَدَم.",
+     "a": "1754b2ecb76f"
+    },
+    {
+     "fa": "حالا تهران مثل خانه‌ی خودم است.",
+     "r": "hālā Tehrān mesl-e khāne-ye khod-am ast.",
+     "en": "Now Tehran is like my own home.",
+     "faV": "حالا تِهران مِثلِ خانه‌یِ خودَم اَست.",
+     "a": "3aaefdfb4e87"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How did Tom go to the university?",
+     "options": [
+      "by taxi",
+      "by metro",
+      "on foot"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What was Tom doing when the old man came?",
+     "options": [
+      "eating",
+      "looking at a map",
+      "sleeping"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Which sentence describes a habit?",
+     "options": [
+      "پیرمردی آمد",
+      "هر روز با مترو به دانشگاه می‌رفتم",
+      "راه را به من نشان داد"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Memories of 'the north'",
+   "md": "Ask any Tehrani about childhood and you will hear about [[شمال|shomāl|the north]]: the green, rainy Caspian provinces of Gilan and Mazandaran, a few hours over the Alborz mountains. Families drive up on long weekends, and [[هر تابستان به شمال می‌رفتیم|har tābestān be shomāl mi-raftim|every summer we went to the north]] is a sentence half the country can say. The road through the Chalus valley, the rice fields, the smell of the sea and sweetcorn roasted on the beach – these are the stock images of Iranian nostalgia, and the past continuous is the tense they come in.",
+   "image": "caspian-sea"
+  },
+  {
+   "type": "tips",
+   "title": "Watch out",
+   "items": [
+    "**می** is always joined to the verb with a ZWNJ (می‌رفتم), never with a space – and the stress stays on **mi**.",
+    "**بودن** and **داشتن** almost never take می in the past: *bachche budam* (I was a child), *mobāyl nadāshtim* (we had no phone).",
+    "Persian has no separate 'used to' – just use the past continuous and a time word: *ghablan* (before), *ān vaght-hā* (in those days), *dar bachchegi* (in childhood).",
+    "In speech, *mi-raftam* stays *mi-raftam*, but *mi-khāndam* often becomes *mi-khundam* and *mi-raft* → *mi-raft*; the third person singular of **می‌رود** becomes *mi-re* only in the present, not the past."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the verbs",
+   "items": [
+    {
+     "fa": "می‌خواندم",
+     "r": "mi-khāndam",
+     "en": "I was reading",
+     "faV": "می‌خواندَم",
+     "a": "a3766732a67a"
+    },
+    {
+     "fa": "می‌خوردیم",
+     "r": "mi-khordim",
+     "en": "we were eating",
+     "faV": "می‌خوردیم",
+     "a": "493ebeb1f605"
+    },
+    {
+     "fa": "می‌رفتند",
+     "r": "mi-raftand",
+     "en": "they were going",
+     "faV": "می‌رَفتَند",
+     "a": "2904f8dfbec3"
+    },
+    {
+     "fa": "می‌پخت",
+     "r": "mi-pokht",
+     "en": "she was cooking",
+     "faV": "می‌پُخت",
+     "a": "2302171949a3"
+    },
+    {
+     "fa": "نمی‌دانستی",
+     "r": "nemi-dānesti",
+     "en": "you didn't know",
+     "faV": "نِمی‌دانِستی",
+     "a": "bb2a619f3d01"
+    },
+    {
+     "fa": "می‌خندیدید",
+     "r": "mi-khandidid",
+     "en": "you (pl.) were laughing",
+     "faV": "می‌خَندیدید",
+     "a": "5e017f2dc7e6"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right form",
+   "items": [
+    {
+     "q": "'Every summer we used to go to the north.'",
+     "options": [
+      "هر تابستان به شمال رفتیم.",
+      "هر تابستان به شمال می‌رفتیم.",
+      "هر تابستان به شمال می‌رویم."
+     ],
+     "answer": 1,
+     "explain": "A past habit takes the past continuous: mi-raftim."
+    },
+    {
+     "q": "'I was sleeping when you rang.'",
+     "options": [
+      "وقتی که زنگ زدی، خوابیدم.",
+      "وقتی که زنگ زدی، می‌خوابم.",
+      "وقتی که زنگ زدی، می‌خوابیدم."
+     ],
+     "answer": 2,
+     "explain": "Background action in progress → mi-khābidam; the interruption (zang zadi) is simple past."
+    },
+    {
+     "q": "Which is the negative of می‌رفتم?",
+     "options": [
+      "نمی‌رفتم",
+      "می‌نرفتم",
+      "نرفتم"
+     ],
+     "answer": 0,
+     "explain": "na + mi → nemi, written نمی‌ with a ZWNJ before the verb."
+    },
+    {
+     "q": "'She was (right in the middle of) studying.'",
+     "options": [
+      "دارد درس می‌خواند.",
+      "داشت درس می‌خواند.",
+      "درس خواند."
+     ],
+     "answer": 1,
+     "explain": "dāsht + mi-khānd: both verbs in the past."
+    },
+    {
+     "q": "'In those days we didn't have a car.' Which verb?",
+     "options": [
+      "نمی‌داشتیم",
+      "نداشتیم",
+      "داشتیم"
+     ],
+     "answer": 1,
+     "explain": "dāshtan does not take mi in the past: na-dāshtim."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete with the past continuous",
+   "items": [
+    {
+     "fa": "دیروز ساعت شش من شام ___.",
+     "r": "diruz sā'at-e shesh man shām ___.",
+     "en": "Yesterday at six I was cooking dinner.",
+     "answer": "می‌پختم",
+     "hint": "pokhtan, I"
+    },
+    {
+     "fa": "بچه‌ها در حیاط ___.",
+     "r": "bacche-hā dar hayāt ___.",
+     "en": "The children were playing in the yard.",
+     "answer": "بازی می‌کردند",
+     "hint": "bāzi kardan, they"
+    },
+    {
+     "fa": "در بچگی هر روز شیر ___.",
+     "r": "dar bacchegi har ruz shir ___.",
+     "en": "In childhood I drank milk every day.",
+     "answer": "می‌خوردم",
+     "hint": "khordan, I"
+    },
+    {
+     "fa": "وقتی که آمدی، ما ___ حرف می‌زدیم.",
+     "r": "vaghti ke āmadi, mā ___ harf mi-zadim.",
+     "en": "When you came, we were (in the middle of) talking.",
+     "answer": "داشتیم",
+     "hint": "dāshtan, we"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "داشتم شام می‌پختم.",
+     "r": "dāshtam shām mi-pokhtam.",
+     "en": "I was cooking dinner.",
+     "faV": "داشتَم شام می‌پُختَم.",
+     "a": "ded0454de2c5"
+    },
+    {
+     "fa": "هر روز با مترو به دانشگاه می‌رفتم.",
+     "r": "har ruz bā metro be dāneshgāh mi-raftam.",
+     "en": "Every day I went to the university by metro.",
+     "faV": "هَر روز با مِترو به دانِشگاه می‌رَفتَم.",
+     "a": "b89136ab7572"
+    },
+    {
+     "fa": "وقتی که زنگ زدی، می‌خوابیدم.",
+     "r": "vaghti ke zang zadi, mi-khābidam.",
+     "en": "When you rang, I was sleeping.",
+     "faV": "وَقتی که زَنگ زَدی، می‌خوابیدَم.",
+     "a": "ae7773d2abc0"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "داشتیم غذا می‌خوردیم.",
+     "r": "dāshtim ghazā mi-khordim.",
+     "en": "We were eating.",
+     "options": [
+      "We ate.",
+      "We were eating.",
+      "We will eat."
+     ],
+     "answer": 1,
+     "faV": "داشتیم غَذا می‌خوردیم.",
+     "a": "4c2b0e76291f"
+    },
+    {
+     "fa": "آن وقت‌ها موبایل نداشتیم.",
+     "r": "ān vaght-hā mobāyl na-dāshtim.",
+     "en": "In those days we didn't have mobile phones.",
+     "options": [
+      "In those days we didn't have mobile phones.",
+      "Now we have mobile phones.",
+      "We lost the mobile phone."
+     ],
+     "answer": 0,
+     "faV": "آن وَقت‌ها موبایل نَداشتیم.",
+     "a": "dabc335407b8"
+    },
+    {
+     "fa": "چه کار می‌کردی؟",
+     "r": "che kār mi-kardi?",
+     "en": "What were you doing?",
+     "options": [
+      "What are you doing?",
+      "What were you doing?",
+      "What will you do?"
+     ],
+     "answer": 1,
+     "faV": "چه کار می‌کَردی؟",
+     "a": "0789b0551f20"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "I was listening to music.",
+     "fa": "آهنگ گوش می‌کردم.",
+     "r": "āhang gush mi-kardam.",
+     "faV": "آهَنگ گوش می‌کَردَم.",
+     "a": "404c47bc75b5"
+    },
+    {
+     "en": "When I was a child, we lived in Shiraz.",
+     "fa": "وقتی که بچه بودم، در شیراز زندگی می‌کردیم.",
+     "r": "vaghti ke bacche budam, dar Shirāz zendegi mi-kardim.",
+     "faV": "وَقتی که بَچّه بودَم، دَر شیراز زِندِگی می‌کَردیم.",
+     "a": "181ffe7367eb"
+    },
+    {
+     "en": "I was just falling asleep when the phone rang.",
+     "fa": "داشتم می‌خوابیدم که تلفن زنگ زد.",
+     "r": "dāshtam mi-khābidam ke telefon zang zad.",
+     "faV": "داشتَم می‌خوابیدَم که تِلِفُن زَنگ زَد.",
+     "a": "114f8fbefd55"
+    },
+    {
+     "en": "They weren't crying, they were laughing.",
+     "fa": "گریه نمی‌کردند، می‌خندیدند.",
+     "r": "gerye nemi-kardand, mi-khandidand.",
+     "faV": "گِریه نِمی‌کَردَند، می‌خَندیدَند.",
+     "a": "a72180e8f8f4"
+    }
+   ]
+  }
+ ],
+ "titleV": "چه کار می‌کَردی؟",
+ "titleA": "0789b0551f20"
+}

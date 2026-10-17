@@ -1,0 +1,963 @@
+{
+ "id": "a1-07-jobs",
+ "level": "A1",
+ "n": 7,
+ "title": "What do you do? Work and study",
+ "titleFa": "چه‌کار می‌کنید؟",
+ "titleR": "che-kār mi-konid?",
+ "intro": "After 'where are you from?', the next question Iranians ask is 'what do you do?' In this lesson you learn to name jobs and workplaces, to say where you work or study, and to ask other people about their work – with lots of practice of the present tense from lesson 6.",
+ "goals": [
+  "name common jobs and workplaces",
+  "ask and say what people do: che-kār mi-konid?",
+  "say where you work or study with kār kardan, dars khāndan and dar",
+  "use the question words che-kār, kojā, ki and che"
+ ],
+ "image": "valiasr-street",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "At Sara's house",
+   "context": "Sara has invited some friends home. Tom meets her brother Dariush, whom you saw in the family photo in lesson 5.",
+   "lines": [
+    {
+     "who": "Sara",
+     "fa": "تام، این برادرم داریوش است.",
+     "r": "Tām, in barādar-am Dāriyush ast.",
+     "en": "Tom, this is my brother Dariush.",
+     "faV": "تام، این بَرادَرَم داریوش اَست.",
+     "a": "5e54b7ff14d9"
+    },
+    {
+     "who": "Tom",
+     "fa": "خوشبختم! شما چه‌کار می‌کنید؟",
+     "r": "khosh-bakht-am! shomā che-kār mi-konid?",
+     "en": "Nice to meet you! What do you do?",
+     "col": "خوشبختم! شما چی‌کار می‌کنین؟",
+     "colR": "khosh-bakht-am! shomā chi-kār mi-konin?",
+     "faV": "خوشبَختَم! شُما چه‌کار می‌کُنید؟",
+     "a": "49790c00f1ad",
+     "colV": "خوشبَختَم! شُما چی‌کار می‌کُنین؟",
+     "colA": "6a01709683e5"
+    },
+    {
+     "who": "Dariush",
+     "fa": "من هم خوشبختم. من مهندس هستم. در یک شرکت کار می‌کنم.",
+     "r": "man ham khosh-bakht-am. man mohandes hastam. dar yek sherkat kār mi-konam.",
+     "en": "Nice to meet you too. I'm an engineer. I work for a company.",
+     "faV": "مَن هَم خوشبَختَم. مَن مُهَندِس هَستَم. دَر یِک شِرکَت کار می‌کُنَم.",
+     "a": "2acc0444bc17"
+    },
+    {
+     "who": "Tom",
+     "fa": "شرکت شما کجاست؟",
+     "r": "sherkat-e shomā kojā-st?",
+     "en": "Where is your company?",
+     "faV": "شِرکَتِ شُما کُجاست؟",
+     "a": "b5961675b206"
+    },
+    {
+     "who": "Dariush",
+     "fa": "در خیابان ولیعصر. شما هم کار می‌کنید؟",
+     "r": "dar khiyābān-e Vali'asr. shomā ham kār mi-konid?",
+     "en": "On Valiasr Street. Do you work too?",
+     "faV": "دَر خیابانِ وَلیعَصر. شُما هَم کار می‌کُنید؟",
+     "a": "8698ce7326b7"
+    },
+    {
+     "who": "Tom",
+     "fa": "نه، من دانشجو هستم. در دانشگاه تهران فارسی می‌خوانم.",
+     "r": "na, man dāneshju hastam. dar dāneshgāh-e Tehrān fārsi mi-khānam.",
+     "en": "No, I'm a student. I study Persian at the University of Tehran.",
+     "col": "نه، دانشجوام. تو دانشگاه تهران فارسی می‌خونم.",
+     "colR": "na, dāneshju-am. tu dāneshgāh-e Tehrān fārsi mi-khunam.",
+     "faV": "نه، مَن دانِشجو هَستَم. دَر دانِشگاهِ تِهران فارسی می‌خوانَم.",
+     "a": "e3dd47803cf2",
+     "colV": "نه، دانِشجواَم. تو دانِشگاهِ تِهران فارسی می‌خونَم.",
+     "colA": "926f85b9ff2f"
+    },
+    {
+     "who": "Dariush",
+     "fa": "چه خوب! همسرم هم در دانشگاه کار می‌کند. او استاد است.",
+     "r": "che khub! hamsar-am ham dar dāneshgāh kār mi-konad. u ostād ast.",
+     "en": "How nice! My wife works at a university too. She's a professor.",
+     "faV": "چه خوب! هَمسَرَم هَم دَر دانِشگاه کار می‌کُنَد. او اُستاد اَست.",
+     "a": "1277dea1682d"
+    },
+    {
+     "who": "Tom",
+     "fa": "او چه درسی می‌دهد؟",
+     "r": "u che dars-i mi-dahad?",
+     "en": "What does she teach?",
+     "col": "چی درس می‌ده؟",
+     "colR": "chi dars mi-de?",
+     "faV": "او چه دَرسی می‌دَهَد؟",
+     "a": "974794746de9",
+     "colV": "چی دَرس می‌ده؟",
+     "colA": "2a56b7aedf55"
+    },
+    {
+     "who": "Dariush",
+     "fa": "تاریخ. شما فقط درس می‌خوانید یا کار هم می‌کنید؟",
+     "r": "tārikh. shomā faghat dars mi-khānid yā kār ham mi-konid?",
+     "en": "History. Do you only study, or do you work too?",
+     "faV": "تاریخ. شُما فَقَط دَرس می‌خوانید یا کار هَم می‌کُنید؟",
+     "a": "eb0e39102396"
+    },
+    {
+     "who": "Tom",
+     "fa": "هفته‌ای دو روز در یک کافه کار می‌کنم.",
+     "r": "hafte-i do ruz dar yek kāfe kār mi-konam.",
+     "en": "I work in a café two days a week.",
+     "col": "هفته‌ای دو روز تو یه کافه کار می‌کنم.",
+     "colR": "hafte-i do ruz tu ye kāfe kār mi-konam.",
+     "faV": "هَفته‌ای دو روز دَر یِک کافه کار می‌کُنَم.",
+     "a": "dbeebec1652f",
+     "colV": "هَفته‌ای دو روز تو یه کافه کار می‌کُنَم.",
+     "colA": "747b26fb0a6f"
+    },
+    {
+     "who": "Sara",
+     "fa": "کافه‌ی تام نزدیک دانشگاه است. قهوه‌اش خیلی خوب است!",
+     "r": "kāfe-ye Tām nazdik-e dāneshgāh ast. ghahve-ash kheyli khub ast!",
+     "en": "Tom's café is near the university. Its coffee is very good!",
+     "faV": "کافه‌یِ تام نَزدیکِ دانِشگاه اَست. قَهوه‌اَش خَیلی خوب اَست!",
+     "a": "186b22298d53"
+    },
+    {
+     "who": "Dariush",
+     "fa": "پس شما هم دانشجو هستید، هم گارسون!",
+     "r": "pas shomā ham dāneshju hastid, ham gārson!",
+     "en": "So you're a student and a waiter!",
+     "faV": "پَس شُما هَم دانِشجو هَستید، هَم گارسون!",
+     "a": "a18f5a606de9"
+    },
+    {
+     "who": "Tom",
+     "fa": "بله، و خیلی خسته!",
+     "r": "bale, va kheyli khaste!",
+     "en": "Yes – and very tired!",
+     "faV": "بَله، و خَیلی خَسته!",
+     "a": "aa9a7a787678"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "What do you do?",
+   "md": "The everyday question is [[چه‌کار می‌کنید؟|che-kār mi-konid?|what do you do?]] – literally *what work do you do?* In speech it sounds like *chi-kār mi-konin?* On forms and in interviews you will see [[شغل شما چیست؟|shoghl-e shomā chist?|what is your occupation?]], and friends ask [[چه‌کاره‌ای؟|che-kāre-i?|what's your line of work?]]\n\nTo answer, name the job with *hastam* – there is no word for *a*: [[من مهندس هستم|man mohandes hastam|I am an engineer]]. Or say where you work with [[کار کردن|kār kardan|to work]]: [[در یک شرکت کار می‌کنم|dar yek sherkat kār mi-konam|I work for a company]]. Students say [[دانشجو هستم|dāneshju hastam]] and name their subject with [[خواندن|khāndan|to read, to study]]: [[فارسی می‌خوانم|fārsi mi-khānam|I study Persian]].\n\nIn Iran a job is also a title. People greet a doctor as [[آقای دکتر|āghā-ye doktor]] or [[خانم دکتر|khānom-e doktor]], an engineer as [[مهندس|mohandes]], and a teacher or a master of any craft as [[استاد|ostād]]."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "کار",
+     "r": "kār",
+     "en": "work; job",
+     "pos": "n",
+     "ex": {
+      "fa": "امروز کار دارم.",
+      "r": "emruz kār dāram.",
+      "en": "I'm busy today.",
+      "lit": "today work I-have",
+      "faV": "اِمروز کار دارَم.",
+      "a": "728e1f489044"
+     },
+     "faV": "کار",
+     "a": "7358490459ad"
+    },
+    {
+     "fa": "کار کردن",
+     "r": "kār kardan",
+     "en": "to work",
+     "pos": "v",
+     "note": "present: kār mi-konam",
+     "ex": {
+      "fa": "پدرم در بانک کار می‌کند.",
+      "r": "pedar-am dar bānk kār mi-konad.",
+      "en": "My father works in a bank.",
+      "faV": "پِدَرَم دَر بانک کار می‌کُنَد.",
+      "a": "82d5958036bb"
+     },
+     "faV": "کار کَردَن",
+     "a": "998253a5144b"
+    },
+    {
+     "fa": "درس خواندن",
+     "r": "dars khāndan",
+     "en": "to study",
+     "pos": "v",
+     "note": "present: dars mi-khānam; خواندن alone = to read; the و is silent",
+     "ex": {
+      "fa": "امیر در دانشگاه درس می‌خواند.",
+      "r": "Amir dar dāneshgāh dars mi-khānad.",
+      "en": "Amir studies at university.",
+      "faV": "اَمیر دَر دانِشگاه دَرس می‌خوانَد.",
+      "a": "22783b6cd89c"
+     },
+     "faV": "دَرس خواندَن",
+     "a": "30551cecc033"
+    },
+    {
+     "fa": "درس دادن",
+     "r": "dars dādan",
+     "en": "to teach",
+     "pos": "v",
+     "note": "present: dars mi-daham – literally 'to give a lesson'",
+     "faV": "دَرس دادَن",
+     "a": "9024ed16f953"
+    },
+    {
+     "fa": "شغل",
+     "r": "shoghl",
+     "en": "job, occupation",
+     "pos": "n",
+     "ex": {
+      "fa": "شغل شما چیست؟",
+      "r": "shoghl-e shomā chist?",
+      "en": "What is your occupation?",
+      "faV": "شُغلِ شُما چیست؟",
+      "a": "349d194494c3"
+     },
+     "faV": "شُغل",
+     "a": "2bc8713d22f1"
+    },
+    {
+     "fa": "استاد",
+     "r": "ostād",
+     "en": "professor; master",
+     "pos": "n",
+     "note": "also a title for a master craftsman or musician",
+     "faV": "اُستاد",
+     "a": "bc167126bdbf"
+    },
+    {
+     "fa": "پزشک",
+     "r": "pezeshk",
+     "en": "doctor",
+     "pos": "n",
+     "note": "everyday word: دکتر doktor; medicine (the subject) is پزشکی pezeshki",
+     "faV": "پِزِشک",
+     "a": "dd5b8a2aa402"
+    },
+    {
+     "fa": "پرستار",
+     "r": "parastār",
+     "en": "nurse",
+     "pos": "n",
+     "faV": "پَرَستار",
+     "a": "ec3dcc747b18"
+    },
+    {
+     "fa": "مهندس",
+     "r": "mohandes",
+     "en": "engineer",
+     "pos": "n",
+     "note": "engineering (the subject) is مهندسی mohandesi",
+     "faV": "مُهَندِس",
+     "a": "550435801e84"
+    },
+    {
+     "fa": "کارمند",
+     "r": "kārmand",
+     "en": "employee, office worker",
+     "pos": "n",
+     "note": "a very common answer: kārmand-e bānk 'bank clerk'",
+     "faV": "کارمَند",
+     "a": "f425e847ad18"
+    },
+    {
+     "fa": "راننده",
+     "r": "rānande",
+     "en": "driver",
+     "pos": "n",
+     "ex": {
+      "fa": "او راننده‌ی تاکسی است.",
+      "r": "u rānande-ye tāksi ast.",
+      "en": "He is a taxi driver.",
+      "faV": "او رانَنده‌یِ تاکسی اَست.",
+      "a": "7a25885ed49c"
+     },
+     "faV": "رانَنده",
+     "a": "a08d01db0708"
+    },
+    {
+     "fa": "آشپز",
+     "r": "āshpaz",
+     "en": "cook, chef",
+     "pos": "n",
+     "faV": "آشپَز",
+     "a": "876c8f0a94ff"
+    },
+    {
+     "fa": "فروشنده",
+     "r": "forushande",
+     "en": "shop assistant, seller",
+     "pos": "n",
+     "faV": "فُروشَنده",
+     "a": "9c251cd1f097"
+    },
+    {
+     "fa": "دانش‌آموز",
+     "r": "dānesh-āmuz",
+     "en": "school pupil",
+     "pos": "n",
+     "note": "a university student is دانشجو dāneshju",
+     "faV": "دانِش‌آموز",
+     "a": "9f022e75f16b"
+    },
+    {
+     "fa": "بازنشسته",
+     "r": "bāz-neshaste",
+     "en": "retired",
+     "pos": "adj",
+     "faV": "بازنِشَسته",
+     "a": "88b315e46ec8"
+    },
+    {
+     "fa": "بی‌کار",
+     "r": "bi-kār",
+     "en": "unemployed; with nothing to do",
+     "pos": "adj",
+     "note": "bi- 'without' + kār 'work'",
+     "faV": "بی‌کار",
+     "a": "eaf84273c345"
+    },
+    {
+     "fa": "شرکت",
+     "r": "sherkat",
+     "en": "company, firm",
+     "pos": "n",
+     "faV": "شِرکَت",
+     "a": "e61de97beeff"
+    },
+    {
+     "fa": "بیمارستان",
+     "r": "bimārestān",
+     "en": "hospital",
+     "pos": "n",
+     "note": "bimār 'ill' + -estān 'place of'",
+     "faV": "بیمارِستان",
+     "a": "6386b5e043c7"
+    },
+    {
+     "fa": "مدرسه",
+     "r": "madrese",
+     "en": "school",
+     "pos": "n",
+     "faV": "مَدرِسه",
+     "a": "f8d376cd80f6"
+    },
+    {
+     "fa": "دانشگاه",
+     "r": "dāneshgāh",
+     "en": "university",
+     "pos": "n",
+     "note": "dānesh 'knowledge' + -gāh 'place'",
+     "faV": "دانِشگاه",
+     "a": "890634c6c97a"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Present tense practice: kār mi-konam, dars mi-khānam",
+   "md": "You built the present tense in lesson 6: *mi-* + stem + ending. Two verbs carry most talk about work and study.\n\n[[کار کردن|kār kardan|to work]] is a compound, like *zendegi kardan*: [[کار می‌کنم|kār mi-konam|I work]]. [[خواندن|khāndan]] means *to read* and also *to study* a subject: [[پزشکی می‌خوانم|pezeshki mi-khānam|I study medicine]]. With [[درس|dars|lesson]] it means *to study* in general: [[درس می‌خوانم|dars mi-khānam|I am studying]]. Its stem is *khān-*, written خوان – with the silent و you met in خواهر.\n\nThe teacher's side of the desk is [[درس دادن|dars dādan|to teach]], literally *to give a lesson*: [[درس می‌دهم|dars mi-daham|I teach]], [[درس می‌دهد|dars mi-dahad|he / she teaches]].",
+   "table": {
+    "head": [
+     "",
+     "kār kardan – to work",
+     "khāndan – to read, to study"
+    ],
+    "rows": [
+     [
+      "[[من|man]]",
+      "[[کار می‌کنم|kār mi-konam]]",
+      "[[می‌خوانم|mi-khānam]]"
+     ],
+     [
+      "[[تو|to]]",
+      "[[کار می‌کنی|kār mi-koni]]",
+      "[[می‌خوانی|mi-khāni]]"
+     ],
+     [
+      "[[او|u]]",
+      "[[کار می‌کند|kār mi-konad]]",
+      "[[می‌خواند|mi-khānad]]"
+     ],
+     [
+      "[[ما|mā]]",
+      "[[کار می‌کنیم|kār mi-konim]]",
+      "[[می‌خوانیم|mi-khānim]]"
+     ],
+     [
+      "[[شما|shomā]]",
+      "[[کار می‌کنید|kār mi-konid]]",
+      "[[می‌خوانید|mi-khānid]]"
+     ],
+     [
+      "[[آن‌ها|ān-hā]]",
+      "[[کار می‌کنند|kār mi-konand]]",
+      "[[می‌خوانند|mi-khānand]]"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "مادرم در بانک کار می‌کند.",
+     "r": "mādar-am dar bānk kār mi-konad.",
+     "en": "My mother works in a bank.",
+     "col": "مامانم تو بانک کار می‌کنه.",
+     "colR": "māmān-am tu bānk kār mi-kone.",
+     "faV": "مادَرَم دَر بانک کار می‌کُنَد.",
+     "a": "364ea1efe42a",
+     "colV": "مامانَم تو بانک کار می‌کُنه.",
+     "colA": "0cf9adcaef1f"
+    },
+    {
+     "fa": "سارا در دانشگاه تاریخ می‌خواند.",
+     "r": "Sārā dar dāneshgāh tārikh mi-khānad.",
+     "en": "Sara studies history at university.",
+     "faV": "سارا دَر دانِشگاه تاریخ می‌خوانَد.",
+     "a": "c7a85c55f98e"
+    },
+    {
+     "fa": "بچه‌ها در مدرسه درس می‌خوانند.",
+     "r": "bacche-hā dar madrese dars mi-khānand.",
+     "en": "The children study at school.",
+     "faV": "بَچّه‌ها دَر مَدرِسه دَرس می‌خوانَند.",
+     "a": "079d95f2835b"
+    },
+    {
+     "fa": "آقای کریمی فارسی درس می‌دهد.",
+     "r": "āghā-ye Karimi fārsi dars mi-dahad.",
+     "en": "Mr Karimi teaches Persian.",
+     "faV": "آقایِ کَریمی فارسی دَرس می‌دَهَد.",
+     "a": "87e587fae1b6"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Asking questions: che-kār, kojā, ki, che",
+   "md": "Persian question words stand in the place of the answer – the rest of the sentence does not move: [[شما در بانک کار می‌کنید|shomā dar bānk kār mi-konid|you work in a bank]] → [[شما کجا کار می‌کنید؟|shomā kojā kār mi-konid?|where do you work?]]\n\n[[چه‌کار|che-kār]] is also written as two words, چه کار, and in speech it is *chi-kār*.\n\nCareful with [[کی|ki]]: the same spelling is *ki* 'who' and *key* 'when' (lesson 12). The context – and the voice – tell them apart.",
+   "table": {
+    "head": [
+     "Question word",
+     "Example",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[چه‌کار|che-kār]] – what (work)",
+      "[[چه‌کار می‌کنید؟|che-kār mi-konid?]]",
+      "What do you do?"
+     ],
+     [
+      "[[کجا|kojā]] – where",
+      "[[کجا کار می‌کنید؟|kojā kār mi-konid?]]",
+      "Where do you work?"
+     ],
+     [
+      "[[کی|ki]] – who",
+      "[[کی اینجا کار می‌کند؟|ki injā kār mi-konad?]]",
+      "Who works here?"
+     ],
+     [
+      "[[چه|che]] – what",
+      "[[چه می‌خوانید؟|che mi-khānid?]]",
+      "What are you studying?"
+     ],
+     [
+      "[[چه درسی|che dars-i]] – which subject",
+      "[[چه درسی می‌دهید؟|che dars-i mi-dahid?]]",
+      "What do you teach?"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "برادرتان چه‌کار می‌کند؟",
+     "r": "barādar-etān che-kār mi-konad?",
+     "en": "What does your brother do?",
+     "faV": "بَرادَرِتان چه‌کار می‌کُنَد؟",
+     "a": "e913a14f53ac"
+    },
+    {
+     "fa": "مهسا کجا کار می‌کند؟",
+     "r": "Mahsā kojā kār mi-konad?",
+     "en": "Where does Mahsa work?",
+     "faV": "مَهسا کُجا کار می‌کُنَد؟",
+     "a": "176462709ca3"
+    },
+    {
+     "fa": "شما چه می‌خوانید؟",
+     "r": "shomā che mi-khānid?",
+     "en": "What do you study?",
+     "col": "شما چی می‌خونین؟",
+     "colR": "shomā chi mi-khunin?",
+     "faV": "شُما چه می‌خوانید؟",
+     "a": "b8ac82375abf",
+     "colV": "شُما چی می‌خونین؟",
+     "colA": "a750db3bc150"
+    },
+    {
+     "fa": "کی در این مغازه کار می‌کند؟",
+     "r": "ki dar in maghāze kār mi-konad?",
+     "en": "Who works in this shop?",
+     "faV": "کی دَر این مَغازه کار می‌کُنَد؟",
+     "a": "d16e4ddda0bc"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "In, at: dar – and jobs without 'a'",
+   "md": "[[در|dar]] covers both *in* and *at*: [[در بیمارستان|dar bimārestān|in / at the hospital]], [[در یک شرکت|dar yek sherkat|at a company]], [[در تهران|dar Tehrān|in Tehran]]. Unlike the place words of lesson 8, *dar* takes no ezafe. In speech it often becomes [[تو|tu]] or disappears: *bimārestān kār mi-konam*.\n\nA job needs no word for *a*: [[او پرستار است|u parastār ast|she is a nurse]]. To say what kind, add the ezafe: [[معلم انگلیسی|mo'allem-e engelisi|English teacher]], [[راننده‌ی تاکسی|rānande-ye tāksi|taxi driver]], [[کارمند بانک|kārmand-e bānk|bank clerk]], [[دانشجوی مهندسی|dāneshju-ye mohandesi|engineering student]], [[استاد تاریخ|ostād-e tārikh|history professor]].",
+   "table": {
+    "head": [
+     "Job",
+     "Where",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[پزشک|pezeshk]]",
+      "[[در بیمارستان|dar bimārestān]]",
+      "a doctor – in a hospital"
+     ],
+     [
+      "[[معلم|mo'allem]]",
+      "[[در مدرسه|dar madrese]]",
+      "a teacher – at a school"
+     ],
+     [
+      "[[استاد|ostād]]",
+      "[[در دانشگاه|dar dāneshgāh]]",
+      "a professor – at a university"
+     ],
+     [
+      "[[کارمند|kārmand]]",
+      "[[در اداره|dar edāre]]",
+      "an employee – in an office"
+     ],
+     [
+      "[[فروشنده|forushande]]",
+      "[[در مغازه|dar maghāze]]",
+      "a shop assistant – in a shop"
+     ],
+     [
+      "[[آشپز|āshpaz]]",
+      "[[در رستوران|dar resturān]]",
+      "a cook – in a restaurant"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "مهسا پزشک است. او در بیمارستان کار می‌کند.",
+     "r": "Mahsā pezeshk ast. u dar bimārestān kār mi-konad.",
+     "en": "Mahsa is a doctor. She works in a hospital.",
+     "faV": "مَهسا پِزِشک اَست. او دَر بیمارِستان کار می‌کُنَد.",
+     "a": "fcc82716c6f4"
+    },
+    {
+     "fa": "آقای کریمی معلم فارسی است.",
+     "r": "āghā-ye Karimi mo'allem-e fārsi ast.",
+     "en": "Mr Karimi is a Persian teacher.",
+     "faV": "آقایِ کَریمی مُعَلِّمِ فارسی اَست.",
+     "a": "dfaf4c582edb"
+    },
+    {
+     "fa": "پدر رضا راننده‌ی تاکسی است.",
+     "r": "pedar-e Rezā rānande-ye tāksi ast.",
+     "en": "Reza's father is a taxi driver.",
+     "faV": "پِدَرِ رِضا رانَنده‌یِ تاکسی اَست.",
+     "a": "a909f6695ba6"
+    },
+    {
+     "fa": "من کارمند بانک هستم.",
+     "r": "man kārmand-e bānk hastam.",
+     "en": "I am a bank clerk.",
+     "faV": "مَن کارمَندِ بانک هَستَم.",
+     "a": "6f028d1d1b0c"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Mina's family at work",
+   "intro": "You met Mina's family in lesson 5. Here is what they do.",
+   "sentences": [
+    {
+     "fa": "پدر مینا بازنشسته است.",
+     "r": "pedar-e Minā bāz-neshaste ast.",
+     "en": "Mina's father is retired.",
+     "faV": "پِدَرِ مینا بازنِشَسته اَست.",
+     "a": "a473ba2d9f78"
+    },
+    {
+     "fa": "مادرش معلم است و در یک مدرسه درس می‌دهد.",
+     "r": "mādar-ash mo'allem ast o dar yek madrese dars mi-dahad.",
+     "en": "Her mother is a teacher and teaches at a school.",
+     "faV": "مادَرَش مُعَلِّم اَست و دَر یِک مَدرِسه دَرس می‌دَهَد.",
+     "a": "5ec9998c2897"
+    },
+    {
+     "fa": "خواهرش مهسا پزشک است و در بیمارستان کار می‌کند.",
+     "r": "khāhar-ash Mahsā pezeshk ast o dar bimārestān kār mi-konad.",
+     "en": "Her sister Mahsa is a doctor and works in a hospital.",
+     "faV": "خواهَرَش مَهسا پِزِشک اَست و دَر بیمارِستان کار می‌کُنَد.",
+     "a": "767c663eb656"
+    },
+    {
+     "fa": "شوهر مهسا آشپز است و یک رستوران کوچک دارد.",
+     "r": "showhar-e Mahsā āshpaz ast o yek resturān-e kuchak dārad.",
+     "en": "Mahsa's husband is a cook and has a small restaurant.",
+     "faV": "شَوهَرِ مَهسا آشپَز اَست و یِک رِستورانِ کوچَک دارَد.",
+     "a": "2acda5633fa4"
+    },
+    {
+     "fa": "برادر مینا در اصفهان مهندسی می‌خواند.",
+     "r": "barādar-e Minā dar Esfahān mohandesi mi-khānad.",
+     "en": "Mina's brother studies engineering in Isfahan.",
+     "faV": "بَرادَرِ مینا دَر اِصفَهان مُهَندِسی می‌خوانَد.",
+     "a": "d41f4988be5f"
+    },
+    {
+     "fa": "مینا کارمند است و در یک شرکت کار می‌کند.",
+     "r": "Minā kārmand ast o dar yek sherkat kār mi-konad.",
+     "en": "Mina is an office worker and works for a company.",
+     "faV": "مینا کارمَند اَست و دَر یِک شِرکَت کار می‌کُنَد.",
+     "a": "61823c8c0d31"
+    },
+    {
+     "fa": "او هر روز با مترو سر کار می‌رود.",
+     "r": "u har ruz bā metro sar-e kār mi-ravad.",
+     "en": "She goes to work by metro every day.",
+     "faV": "او هَر روز با مِترو سَرِ کار می‌رَوَد.",
+     "a": "92e002658921"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What does Mina's mother do?",
+     "options": [
+      "She is a doctor.",
+      "She is a teacher.",
+      "She is retired."
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Who has a small restaurant?",
+     "options": [
+      "Mina's father",
+      "Mahsa's husband",
+      "Mina's brother"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How does Mina go to work?",
+     "options": [
+      "by taxi",
+      "by metro",
+      "on foot"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Doctor, engineer – and the konkur",
+   "md": "Ask Iranian parents what they hope their children will become, and you will often hear two words: [[دکتر|doktor]] and [[مهندس|mohandes]]. Medicine and engineering carry great prestige, and the titles stay with people for life – the man who comes to fix your lift may be greeted as *āghā-ye mohandes*.\n\nThe gate to university is the [[کنکور|konkur]], a national entrance exam taken by around a million young people every year. Months of private classes and practice tests lead up to it, and the results decide who studies what, and where. Iran has a very large student population, and for many years women have made up about half of it – at times more.\n\nIn daily life, many Iranians have more than one job. A teacher may also give private lessons, and an office worker may drive a taxi in the evening – so the driver who asks you *che-kār mi-konid?* may well be an engineer himself.",
+   "image": "education-iran"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "No 'a' before a job: *man mohandes hastam* – 'I am an engineer'. Use *yek* only when you add an adjective: *u yek mohandes-e khub ast* – 'he is a good engineer'.",
+    "*dars khāndan* is 'to study' (literally 'to read a lesson') and *dars dādan* is 'to teach' ('to give a lesson'): the same *dars*, on opposite sides of the desk.",
+    "**کی** is both *ki* 'who' and *key* 'when'. Listen for the vowel.",
+    "خواندن has a silent و: می‌خوانم is *mi-khānam*, and in speech *mi-khunam*.",
+    "Many job words are a stem plus an ending: *forush-ande* 'seller' (from *forukhtan*, to sell), *rān-ande* 'driver' (from *rāndan*, to drive), *āsh-paz* 'cook' (*āsh* 'soup' + *paz* 'cooking')."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the jobs",
+   "items": [
+    {
+     "fa": "پزشک",
+     "r": "pezeshk",
+     "en": "doctor",
+     "faV": "پِزِشک",
+     "a": "dd5b8a2aa402"
+    },
+    {
+     "fa": "پرستار",
+     "r": "parastār",
+     "en": "nurse",
+     "faV": "پَرَستار",
+     "a": "ec3dcc747b18"
+    },
+    {
+     "fa": "مهندس",
+     "r": "mohandes",
+     "en": "engineer",
+     "faV": "مُهَندِس",
+     "a": "550435801e84"
+    },
+    {
+     "fa": "معلم",
+     "r": "mo'allem",
+     "en": "teacher",
+     "faV": "مُعَلِّم",
+     "a": "63d83fae3594"
+    },
+    {
+     "fa": "راننده",
+     "r": "rānande",
+     "en": "driver",
+     "faV": "رانَنده",
+     "a": "a08d01db0708"
+    },
+    {
+     "fa": "آشپز",
+     "r": "āshpaz",
+     "en": "cook",
+     "faV": "آشپَز",
+     "a": "876c8f0a94ff"
+    },
+    {
+     "fa": "فروشنده",
+     "r": "forushande",
+     "en": "shop assistant",
+     "faV": "فُروشَنده",
+     "a": "9c251cd1f097"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right answer",
+   "items": [
+    {
+     "q": "How do you ask 'What do you do?' (polite)",
+     "options": [
+      "شما چه‌کار می‌کنید؟",
+      "شما کجا هستید؟",
+      "شما چند سال دارید؟"
+     ],
+     "answer": 0,
+     "explain": "che-kār mi-konid? – literally 'what work do you do?'"
+    },
+    {
+     "q": "A nurse works in a…",
+     "options": [
+      "مدرسه",
+      "بیمارستان",
+      "رستوران"
+     ],
+     "answer": 1,
+     "explain": "bimārestān is a hospital; madrese is a school and resturān a restaurant."
+    },
+    {
+     "q": "'She studies medicine' is…",
+     "options": [
+      "او پزشکی می‌خواند.",
+      "او پزشک است.",
+      "او پزشکی درس می‌دهد."
+     ],
+     "answer": 0,
+     "explain": "khāndan = to study a subject; pezeshki = medicine."
+    },
+    {
+     "q": "Which means 'I am a teacher'?",
+     "options": [
+      "من معلم هستم.",
+      "من معلم است.",
+      "من معلم هستید."
+     ],
+     "answer": 0,
+     "explain": "man takes hastam – and there is no word for 'a'."
+    },
+    {
+     "q": "A twelve-year-old at school is a…",
+     "options": [
+      "دانشجو",
+      "دانش‌آموز",
+      "استاد"
+     ],
+     "answer": 1,
+     "explain": "dānesh-āmuz is a school pupil; dāneshju is a university student."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {
+     "fa": "من در یک بانک کار ___.",
+     "r": "man dar yek bānk kār ___.",
+     "en": "I work in a bank.",
+     "answer": "می‌کنم",
+     "hint": "I do"
+    },
+    {
+     "fa": "پدرت چه‌کار ___؟",
+     "r": "pedar-at che-kār ___?",
+     "en": "What does your father do?",
+     "answer": "می‌کند",
+     "hint": "he does"
+    },
+    {
+     "fa": "امیر در دانشگاه درس ___.",
+     "r": "Amir dar dāneshgāh dars ___.",
+     "en": "Amir studies at university.",
+     "answer": "می‌خواند",
+     "hint": "he reads"
+    },
+    {
+     "fa": "مادرم ___ بیمارستان کار می‌کند.",
+     "r": "mādar-am ___ bimārestān kār mi-konad.",
+     "en": "My mother works in a hospital.",
+     "answer": "در",
+     "hint": "in"
+    },
+    {
+     "fa": "او کار نمی‌کند. او ___ است.",
+     "r": "u kār nemi-konad. u ___ ast.",
+     "en": "He doesn't work. He is retired.",
+     "answer": "بازنشسته",
+     "hint": "retired"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "شما کجا کار می‌کنید؟",
+     "r": "shomā kojā kār mi-konid?",
+     "en": "Where do you work?",
+     "faV": "شُما کُجا کار می‌کُنید؟",
+     "a": "bc7af2c68862"
+    },
+    {
+     "fa": "من در یک شرکت کار می‌کنم.",
+     "r": "man dar yek sherkat kār mi-konam.",
+     "en": "I work for a company.",
+     "faV": "مَن دَر یِک شِرکَت کار می‌کُنَم.",
+     "a": "73c459c62ff4"
+    },
+    {
+     "fa": "خواهرم در دانشگاه پزشکی می‌خواند.",
+     "r": "khāhar-am dar dāneshgāh pezeshki mi-khānad.",
+     "en": "My sister studies medicine at university.",
+     "faV": "خواهَرَم دَر دانِشگاه پِزِشکی می‌خوانَد.",
+     "a": "d56bee256836"
+    },
+    {
+     "fa": "پدر رضا راننده‌ی تاکسی است.",
+     "r": "pedar-e Rezā rānande-ye tāksi ast.",
+     "en": "Reza's father is a taxi driver.",
+     "faV": "پِدَرِ رِضا رانَنده‌یِ تاکسی اَست.",
+     "a": "a909f6695ba6"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "من پرستار هستم.",
+     "r": "man parastār hastam.",
+     "en": "I am a nurse.",
+     "options": [
+      "I am a nurse.",
+      "I am a doctor.",
+      "I am a student."
+     ],
+     "answer": 0,
+     "faV": "مَن پَرَستار هَستَم.",
+     "a": "a6ebd2de59b1"
+    },
+    {
+     "fa": "او در مدرسه درس می‌دهد.",
+     "r": "u dar madrese dars mi-dahad.",
+     "en": "He teaches at a school.",
+     "options": [
+      "He studies at a school.",
+      "He teaches at a school.",
+      "He works in a shop."
+     ],
+     "answer": 1,
+     "faV": "او دَر مَدرِسه دَرس می‌دَهَد.",
+     "a": "526cb241e3d5"
+    },
+    {
+     "fa": "برادرم بی‌کار است.",
+     "r": "barādar-am bi-kār ast.",
+     "en": "My brother is unemployed.",
+     "options": [
+      "My brother is an engineer.",
+      "My brother is retired.",
+      "My brother is unemployed."
+     ],
+     "answer": 2,
+     "faV": "بَرادَرَم بی‌کار اَست.",
+     "a": "f32cd8a907fe"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "What do you do? (polite)",
+     "fa": "شما چه‌کار می‌کنید؟",
+     "r": "shomā che-kār mi-konid?",
+     "faV": "شُما چه‌کار می‌کُنید؟",
+     "a": "a8a4ebc6f9e1"
+    },
+    {
+     "en": "I am an engineer. I work for a company.",
+     "fa": "من مهندس هستم. در یک شرکت کار می‌کنم.",
+     "r": "man mohandes hastam. dar yek sherkat kār mi-konam.",
+     "faV": "مَن مُهَندِس هَستَم. دَر یِک شِرکَت کار می‌کُنَم.",
+     "a": "47af29ecebcf"
+    },
+    {
+     "en": "My sister is a doctor in Shiraz.",
+     "fa": "خواهرم در شیراز پزشک است.",
+     "r": "khāhar-am dar Shirāz pezeshk ast.",
+     "faV": "خواهَرَم دَر شیراز پِزِشک اَست.",
+     "a": "0e120733a18c"
+    },
+    {
+     "en": "Where do you study? (to a friend)",
+     "fa": "تو کجا درس می‌خوانی؟",
+     "r": "to kojā dars mi-khāni?",
+     "faV": "تو کُجا دَرس می‌خوانی؟",
+     "a": "81cde2ae8a42"
+    }
+   ]
+  }
+ ],
+ "titleV": "چه‌کار می‌کُنید؟",
+ "titleA": "05c466dbd03d"
+}

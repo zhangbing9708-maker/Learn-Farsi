@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+*.tmp.mp3
+.DS_Store

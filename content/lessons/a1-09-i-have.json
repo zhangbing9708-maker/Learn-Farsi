@@ -1,0 +1,887 @@
+{
+ "id": "a1-09-i-have",
+ "level": "A1",
+ "n": 9,
+ "title": "I have, I don't have, I need",
+ "titleFa": "دارم، ندارم، لازم دارم",
+ "titleR": "dāram, na-dāram, lāzem dāram",
+ "intro": "One verb opens up a whole world of conversation: dāshtan, 'to have'. In this lesson you learn all its forms, how to say you do not have something, how to ask how many of something someone has, and how to say what you need – at home, in a shop and at a friend's house with a very curious cat.",
+ "goals": [
+  "say what you have and do not have with dāshtan",
+  "ask 'do you have…?' and 'how many … do you have?'",
+  "say what you need with lāzem dāshtan",
+  "use chand-tā and yek for counting things"
+ ],
+ "image": "persian-cat",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "Tom visits Amir",
+   "context": "Tom, an Australian student in Tehran, visits his classmate Amir at home for the first time. A cat walks in.",
+   "lines": [
+    {
+     "who": "Tom",
+     "fa": "امیر، تو گربه داری؟",
+     "r": "Amir, to gorbe dāri?",
+     "en": "Amir, do you have a cat?",
+     "faV": "اَمیر، تو گُربه داری؟",
+     "a": "6d30f6de0128"
+    },
+    {
+     "who": "Amir",
+     "fa": "بله، دو تا گربه دارم. این پیشی است، آن یکی ملوس.",
+     "r": "bale, do tā gorbe dāram. in Pishi ast, ān yeki Malus.",
+     "en": "Yes, I have two cats. This one is Pishi, that one is Malus.",
+     "faV": "بَله، دو تا گُربه دارَم. این پیشی اَست، آن یِکی مَلوس.",
+     "a": "cf2b36c1ce14"
+    },
+    {
+     "who": "Tom",
+     "fa": "چه قشنگ! من در خانه حیوان ندارم.",
+     "r": "che ghashang! man dar khāne heyvān na-dāram.",
+     "en": "How pretty! I don't have an animal at home.",
+     "faV": "چه قَشَنگ! مَن دَر خانه حَیوان نَدارَم.",
+     "a": "adcc82dbdfe7"
+    },
+    {
+     "who": "Amir",
+     "fa": "سگ هم نداری؟",
+     "r": "sag ham na-dāri?",
+     "en": "You don't have a dog either?",
+     "faV": "سَگ هَم نَداری؟",
+     "a": "83d2b8c312f7"
+    },
+    {
+     "who": "Tom",
+     "fa": "نه، سگ هم ندارم. اما در استرالیا خانواده‌ام یک سگ دارد.",
+     "r": "na, sag ham na-dāram. ammā dar Ostorāliyā khānevāde-am yek sag dārad.",
+     "en": "No, I don't have a dog either. But in Australia my family has a dog.",
+     "col": "نه، سگ هم ندارم. اما تو استرالیا خانواده‌م یه سگ داره.",
+     "colR": "na, sag ham na-dāram. ammā tu Ostorāliyā khānevāde-m ye sag dāre.",
+     "faV": "نه، سَگ هَم نَدارَم. اَمّا دَر اُستُرالیا خانِواده‌اَم یِک سَگ دارَد.",
+     "a": "d20edba861f2",
+     "colV": "نه، سَگ هَم نَدارَم. اَمّا تو اُستُرالیا خانِواده‌م یه سَگ داره.",
+     "colA": "afb62d4adbea"
+    },
+    {
+     "who": "Amir",
+     "fa": "چای می‌خوری؟ قند داریم، شکر هم داریم.",
+     "r": "chāy mi-khori? ghand dārim, shekar ham dārim.",
+     "en": "Will you have tea? We have sugar cubes, and we have sugar too.",
+     "faV": "چای می‌خوری؟ قَند داریم، شِکَر هَم داریم.",
+     "a": "7fab8d7252f6"
+    },
+    {
+     "who": "Tom",
+     "fa": "بله، ممنون. شیر هم دارید؟",
+     "r": "bale, mamnun. shir ham dārid?",
+     "en": "Yes, thanks. Do you have milk too?",
+     "faV": "بَله، مَمنون. شیر هَم دارید؟",
+     "a": "c6f269261be2"
+    },
+    {
+     "who": "Amir",
+     "fa": "متأسفانه شیر نداریم. گربه‌ها همه‌ی شیر را خوردند!",
+     "r": "mota'assefāne shir na-dārim. gorbe-hā hame-ye shir rā khordand!",
+     "en": "Unfortunately we don't have milk. The cats drank all the milk!",
+     "col": "متأسفانه شیر نداریم. گربه‌ها همه‌ی شیر رو خوردن!",
+     "colR": "mota'assefāne shir na-dārim. gorbe-hā hame-ye shir ro khordan!",
+     "faV": "مُتَأَسِّفانه شیر نَداریم. گُربه‌ها هَمه‌یِ شیر را خوردَند!",
+     "a": "da8386b3158b",
+     "colV": "مُتَأَسِّفانه شیر نَداریم. گُربه‌ها هَمه‌یِ شیر رو خوردَن!",
+     "colA": "14ae988edf61"
+    },
+    {
+     "who": "Tom",
+     "fa": "مهم نیست. من چای را بدون شیر دوست دارم.",
+     "r": "mohem nist. man chāy rā bedun-e shir dust dāram.",
+     "en": "It doesn't matter. I like tea without milk.",
+     "faV": "مُهِم نیست. مَن چای را بِدونِ شیر دوست دارَم.",
+     "a": "629c7afe9e13"
+    },
+    {
+     "who": "Amir",
+     "fa": "تو برادر یا خواهر داری؟",
+     "r": "to barādar yā khāhar dāri?",
+     "en": "Do you have a brother or a sister?",
+     "faV": "تو بَرادَر یا خواهَر داری؟",
+     "a": "63145df45694"
+    },
+    {
+     "who": "Tom",
+     "fa": "یک خواهر دارم. اسمش امیلی است. چند تا عکس از او دارم. می‌خواهی ببینی؟",
+     "r": "yek khāhar dāram. esm-ash Emili ast. chand tā aks az u dāram. mi-khāhi bebini?",
+     "en": "I have one sister. Her name is Emily. I have a few photos of her. Do you want to see?",
+     "faV": "یِک خواهَر دارَم. اِسمَش اِمیلی اَست. چَند تا عَکس اَز او دارَم. می‌خواهی بِبینی؟",
+     "a": "308d2ff978df"
+    },
+    {
+     "who": "Amir",
+     "fa": "بله، حتماً!",
+     "r": "bale, hatman!",
+     "en": "Yes, of course!",
+     "faV": "بَله، حَتماً!",
+     "a": "c529743dfaaf"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "The most useful verb after 'to be'",
+   "md": "[[داشتن|dāshtan|to have]] is the second verb every learner needs. Iranians use it for far more than owning things: you *have* a sister, *have* time, *have* a cold, *have* twenty years (that is how you say your age – remember lesson 4), and you *have* love for something: [[دوست داشتن|dust dāshtan|to like, to love]] is literally *to have (as) a friend*.\n\nIt is also one of the few verbs whose present tense has **no mi-** in front. Compare [[می‌روم|mi-ravam|I go]] with [[دارم|dāram|I have]]. The endings are the same ones you already know from *khub-am, khub-i, khub-ast…*\n\nTo say you do **not** have something, put [[نَـ|na-]] in front: [[ندارم|na-dāram|I don't have]]. The stress jumps onto *na-*: NA-dāram."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "داشتن",
+     "r": "dāshtan",
+     "en": "to have",
+     "pos": "v",
+     "note": "present stem dār-; no mi- in the present",
+     "ex": {
+      "fa": "من یک برادر دارم.",
+      "r": "man yek barādar dāram.",
+      "en": "I have one brother.",
+      "faV": "مَن یِک بَرادَر دارَم.",
+      "a": "79a0b72e483b"
+     },
+     "faV": "داشتَن",
+     "a": "716bbc7bcb86"
+    },
+    {
+     "fa": "لازم داشتن",
+     "r": "lāzem dāshtan",
+     "en": "to need",
+     "pos": "v",
+     "note": "literally 'to have (as) necessary'",
+     "ex": {
+      "fa": "من پول لازم دارم.",
+      "r": "man pul lāzem dāram.",
+      "en": "I need money.",
+      "faV": "مَن پول لازِم دارَم.",
+      "a": "44b477175a70"
+     },
+     "faV": "لازِم داشتَن",
+     "a": "efe8766b1a83"
+    },
+    {
+     "fa": "گربه",
+     "r": "gorbe",
+     "en": "cat",
+     "pos": "n",
+     "note": "a pet cat is often called پیشی pishi",
+     "faV": "گُربه",
+     "a": "b4420219a5e3"
+    },
+    {
+     "fa": "سگ",
+     "r": "sag",
+     "en": "dog",
+     "pos": "n",
+     "faV": "سَگ",
+     "a": "f5b42d6a3471"
+    },
+    {
+     "fa": "حیوان",
+     "r": "heyvān",
+     "en": "animal",
+     "pos": "n",
+     "faV": "حَیوان",
+     "a": "5d25f5cceec5"
+    },
+    {
+     "fa": "ماشین",
+     "r": "māshin",
+     "en": "car",
+     "pos": "n",
+     "note": "also means 'machine'",
+     "faV": "ماشین",
+     "a": "8e310f7fd424"
+    },
+    {
+     "fa": "دوچرخه",
+     "r": "do-charkhe",
+     "en": "bicycle",
+     "pos": "n",
+     "note": "literally 'two-wheel'",
+     "faV": "دوچَرخه",
+     "a": "8c41600f718a"
+    },
+    {
+     "fa": "موبایل",
+     "r": "mobāyl",
+     "en": "mobile phone",
+     "pos": "n",
+     "note": "also گوشی gushi",
+     "faV": "موبایل",
+     "a": "f41bba2f7759"
+    },
+    {
+     "fa": "پول",
+     "r": "pul",
+     "en": "money",
+     "pos": "n",
+     "faV": "پول",
+     "a": "63dd1c041899"
+    },
+    {
+     "fa": "وقت",
+     "r": "vaght",
+     "en": "time (free time, a moment)",
+     "pos": "n",
+     "ex": {
+      "fa": "امروز وقت ندارم.",
+      "r": "emruz vaght na-dāram.",
+      "en": "I don't have time today.",
+      "faV": "اِمروز وَقت نَدارَم.",
+      "a": "aabe0e404624"
+     },
+     "faV": "وَقت",
+     "a": "82aea13a158b"
+    },
+    {
+     "fa": "عکس",
+     "r": "aks",
+     "en": "photo",
+     "pos": "n",
+     "faV": "عَکس",
+     "a": "c589fb40e49b"
+    },
+    {
+     "fa": "کلید",
+     "r": "kelid",
+     "en": "key",
+     "pos": "n",
+     "faV": "کِلید",
+     "a": "61110d2a9f8d"
+    },
+    {
+     "fa": "کیف",
+     "r": "kif",
+     "en": "bag",
+     "pos": "n",
+     "faV": "کیف",
+     "a": "23072f064230"
+    },
+    {
+     "fa": "عینک",
+     "r": "eynak",
+     "en": "glasses",
+     "pos": "n",
+     "faV": "عَینَک",
+     "a": "9bef4ab3427b"
+    },
+    {
+     "fa": "چتر",
+     "r": "chatr",
+     "en": "umbrella",
+     "pos": "n",
+     "faV": "چَتر",
+     "a": "4b8f15ffba9f"
+    },
+    {
+     "fa": "قند",
+     "r": "ghand",
+     "en": "sugar cube",
+     "pos": "n",
+     "note": "Iranians drink tea with a lump of ghand, not stirred-in sugar",
+     "faV": "قَند",
+     "a": "d15bd743d660"
+    },
+    {
+     "fa": "شکر",
+     "r": "shekar",
+     "en": "sugar",
+     "pos": "n",
+     "faV": "شِکَر",
+     "a": "1e05438a8321"
+    },
+    {
+     "fa": "شیر",
+     "r": "shir",
+     "en": "milk; lion",
+     "pos": "n",
+     "note": "one word, two meanings – and also 'tap'!",
+     "faV": "شیر",
+     "a": "0fc1b4c99b7f"
+    },
+    {
+     "fa": "چند تا",
+     "r": "chand tā",
+     "en": "how many; a few",
+     "pos": "phrase",
+     "ex": {
+      "fa": "چند تا خواهر داری؟",
+      "r": "chand tā khāhar dāri?",
+      "en": "How many sisters do you have?",
+      "faV": "چَند تا خواهَر داری؟",
+      "a": "91e6c7d5adaa"
+     },
+     "faV": "چَند تا",
+     "a": "98b3e7f20143"
+    },
+    {
+     "fa": "متأسفانه",
+     "r": "mota'assefāne",
+     "en": "unfortunately",
+     "pos": "adv",
+     "faV": "مُتَأَسِّفانه",
+     "a": "482016cad012"
+    },
+    {
+     "fa": "حتماً",
+     "r": "hatman",
+     "en": "certainly, of course",
+     "pos": "adv",
+     "faV": "حَتماً",
+     "a": "c23a990ac802"
+    },
+    {
+     "fa": "مهم نیست",
+     "r": "mohem nist",
+     "en": "it doesn't matter",
+     "pos": "phrase",
+     "faV": "مُهِم نیست",
+     "a": "eb05e1ca5e89"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "dāshtan – all six forms",
+   "md": "The stem is **dār-**; add the personal endings. There is no *mi-*. For the negative add **na-** to the front.",
+   "table": {
+    "head": [
+     "I have",
+     "Reading",
+     "I don't have",
+     "Reading"
+    ],
+    "rows": [
+     [
+      "[[دارم|dāram]]",
+      "dāram",
+      "[[ندارم|na-dāram]]",
+      "na-dāram"
+     ],
+     [
+      "[[داری|dāri]]",
+      "dāri",
+      "[[نداری|na-dāri]]",
+      "na-dāri"
+     ],
+     [
+      "[[دارد|dārad]]",
+      "dārad",
+      "[[ندارد|na-dārad]]",
+      "na-dārad"
+     ],
+     [
+      "[[داریم|dārim]]",
+      "dārim",
+      "[[نداریم|na-dārim]]",
+      "na-dārim"
+     ],
+     [
+      "[[دارید|dārid]]",
+      "dārid",
+      "[[ندارید|na-dārid]]",
+      "na-dārid"
+     ],
+     [
+      "[[دارند|dārand]]",
+      "dārand",
+      "[[ندارند|na-dārand]]",
+      "na-dārand"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "ما یک ماشین داریم.",
+     "r": "mā yek māshin dārim.",
+     "en": "We have a car.",
+     "faV": "ما یِک ماشین داریم.",
+     "a": "f8adeb3fa51c"
+    },
+    {
+     "fa": "او دوچرخه ندارد.",
+     "r": "u do-charkhe na-dārad.",
+     "en": "He / she doesn't have a bicycle.",
+     "col": "او دوچرخه نداره.",
+     "colR": "u do-charkhe na-dāre.",
+     "faV": "او دوچَرخه نَدارَد.",
+     "a": "bc39d5a1f6be",
+     "colV": "او دوچَرخه نَداره.",
+     "colA": "63a47bf666a0"
+    },
+    {
+     "fa": "شما کلید دارید؟",
+     "r": "shomā kelid dārid?",
+     "en": "Do you have a key?",
+     "faV": "شُما کِلید دارید؟",
+     "a": "6a53dd2b6bd0"
+    },
+    {
+     "fa": "آن‌ها بچه ندارند.",
+     "r": "ān-hā bacche na-dārand.",
+     "en": "They don't have children.",
+     "faV": "آن‌ها بَچّه نَدارَند.",
+     "a": "4bb7abfedf6c"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Counting things: yek, chand tā and the singular",
+   "md": "After a number the noun stays **singular**: [[دو گربه|do gorbe|two cats]], never *do gorbe-hā*. In everyday speech Iranians slip the little counting word [[تا|tā]] between the number and the noun: [[دو تا گربه|do tā gorbe]]. It is optional, but it makes you sound natural.\n\nTo ask *how many?* use [[چند تا|chand tā]] (or just [[چند|chand]] before a noun). The same words mean *a few* in a statement: [[چند تا عکس دارم|chand tā aks dāram|I have a few photos]].\n\nFor *one / a*, use [[یک|yek]] before the noun, or the little ending [[ـی|-i]] you met in lesson 3: [[یک خواهر دارم|yek khāhar dāram]] = [[خواهری دارم|khāhar-i dāram]]. When the thing is not counted at all – milk, money, time – the bare noun is enough: [[پول ندارم|pul na-dāram|I have no money]].",
+   "examples": [
+    {
+     "fa": "چند تا برادر داری؟",
+     "r": "chand tā barādar dāri?",
+     "en": "How many brothers do you have?",
+     "faV": "چَند تا بَرادَر داری؟",
+     "a": "67c266da1392"
+    },
+    {
+     "fa": "سه تا برادر دارم.",
+     "r": "se tā barādar dāram.",
+     "en": "I have three brothers.",
+     "faV": "سه تا بَرادَر دارَم.",
+     "a": "ad4b34913dee"
+    },
+    {
+     "fa": "چند تا کتاب فارسی داری؟",
+     "r": "chand tā ketāb-e fārsi dāri?",
+     "en": "How many Persian books do you have?",
+     "faV": "چَند تا کِتابِ فارسی داری؟",
+     "a": "83ebf3d7e6fe"
+    },
+    {
+     "fa": "فقط یکی دارم.",
+     "r": "faghat yeki dāram.",
+     "en": "I have only one.",
+     "note": "yeki = 'one (of them)' when the noun is not repeated.",
+     "faV": "فَقَط یِکی دارَم.",
+     "a": "15f48b9f1658"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Saying what you need",
+   "md": "[[لازم داشتن|lāzem dāshtan|to need]] works exactly like *dāshtan*; the word [[لازم|lāzem|necessary]] sits right before the verb: [[من چتر لازم دارم|man chatr lāzem dāram|I need an umbrella]]. The thing you need comes before *lāzem*.\n\nA second way, very common in speech, is impersonal: [[چتر لازم است|chatr lāzem ast|an umbrella is necessary]] – no subject at all.",
+   "examples": [
+    {
+     "fa": "امروز هوا بد است. چتر لازم داریم.",
+     "r": "emruz havā bad ast. chatr lāzem dārim.",
+     "en": "The weather is bad today. We need an umbrella.",
+     "faV": "اِمروز هَوا بَد اَست. چَتر لازِم داریم.",
+     "a": "7647b0c45975"
+    },
+    {
+     "fa": "برای این کتاب عینک لازم دارم.",
+     "r": "barā-ye in ketāb eynak lāzem dāram.",
+     "en": "I need glasses for this book.",
+     "faV": "بَرایِ این کِتاب عَینَک لازِم دارَم.",
+     "a": "c2b9ce607012"
+    },
+    {
+     "fa": "چه لازم داری؟",
+     "r": "che lāzem dāri?",
+     "en": "What do you need?",
+     "col": "چی لازم داری؟",
+     "colR": "chi lāzem dāri?",
+     "faV": "چه لازِم داری؟",
+     "a": "f66f96e653f3",
+     "colV": "چی لازِم داری؟",
+     "colA": "f803d2b1e7bf"
+    },
+    {
+     "fa": "هیچ چیز لازم ندارم، ممنون.",
+     "r": "hich chiz lāzem na-dāram, mamnun.",
+     "en": "I don't need anything, thanks.",
+     "note": "hich chiz 'nothing' goes with a negative verb – two negatives are normal in Persian.",
+     "faV": "هیچ چیز لازِم نَدارَم، مَمنون.",
+     "a": "83ccf3b7140d"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Mina's bag",
+   "intro": "Mina is leaving for university and checks her bag. Read, then answer the questions.",
+   "sentences": [
+    {
+     "fa": "مینا هر روز یک کیف بزرگ دارد.",
+     "r": "Minā har ruz yek kif-e bozorg dārad.",
+     "en": "Mina has a big bag every day.",
+     "faV": "مینا هَر روز یِک کیفِ بُزُرگ دارَد.",
+     "a": "9c5a146dbf7a"
+    },
+    {
+     "fa": "در کیفش سه تا کتاب و دو تا دفتر دارد.",
+     "r": "dar kif-ash se tā ketāb o do tā daftar dārad.",
+     "en": "In her bag she has three books and two notebooks.",
+     "faV": "دَر کیفَش سه تا کِتاب و دو تا دَفتَر دارَد.",
+     "a": "65062d6e0352"
+    },
+    {
+     "fa": "یک موبایل و یک عینک هم دارد.",
+     "r": "yek mobāyl o yek eynak ham dārad.",
+     "en": "She also has a mobile phone and a pair of glasses.",
+     "faV": "یِک موبایل و یِک عَینَک هَم دارَد.",
+     "a": "d3eef7597cb6"
+    },
+    {
+     "fa": "اما امروز کلید ندارد!",
+     "r": "ammā emruz kelid na-dārad!",
+     "en": "But today she doesn't have her key!",
+     "faV": "اَمّا اِمروز کِلید نَدارَد!",
+     "a": "320aa50a0ce5"
+    },
+    {
+     "fa": "کلید روی میز آشپزخانه است.",
+     "r": "kelid ru-ye miz-e āshpaz-khāne ast.",
+     "en": "The key is on the kitchen table.",
+     "faV": "کِلید رویِ میزِ آشپَزخانه اَست.",
+     "a": "80beadf4d781"
+    },
+    {
+     "fa": "مینا وقت ندارد. مادرش کلید را به او می‌دهد.",
+     "r": "Minā vaght na-dārad. mādar-ash kelid rā be u mi-dahad.",
+     "en": "Mina has no time. Her mother gives her the key.",
+     "faV": "مینا وَقت نَدارَد. مادَرَش کِلید را به او می‌دَهَد.",
+     "a": "58109f91bc95"
+    },
+    {
+     "fa": "«ممنون، مامان! خدا حافظ!»",
+     "r": "«mamnun, māmān! khodā hāfez!»",
+     "en": "\"Thanks, Mum! Goodbye!\"",
+     "faV": "«مَمنون، مامان! خُدا حافِظ!»",
+     "a": "1d9d6bc28f98"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How many books does Mina have in her bag?",
+     "options": [
+      "two",
+      "three",
+      "five"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What does she not have today?",
+     "options": [
+      "her phone",
+      "her glasses",
+      "her key"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "Where is the key?",
+     "options": [
+      "in the bag",
+      "on the kitchen table",
+      "with her father"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Cats, tea and sugar cubes",
+   "md": "The long-haired **Persian cat** – [[گربه‌ی ایرانی|gorbe-ye irāni]] – is one of the world's oldest breeds, and street cats are everywhere in Iranian cities; many families leave food out for them. Dogs are less common as pets in cities, so *sag dāri?* is a rarer question than *gorbe dāri?*\n\nOffering tea is the first thing a host does, and the answer to *chāy mi-khori?* is almost always yes. Tea comes in small glasses with a bowl of [[قند|ghand|sugar cubes]]: you put the cube in your mouth and sip the tea through it, rather than stirring sugar in. Milk in tea is a foreign habit – which is why Amir's house had none.",
+   "image": "iranian-tea"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "The stress in a negative verb moves to the front: **NA**-dāram, **NA**-dāri. Hearing where the stress falls tells you at once whether the answer is yes or no.",
+    "**shir** means both 'milk' and 'lion' – and a tap. Context does all the work: *shir dāram* in a kitchen is about milk.",
+    "Persians count with the singular: *panj ketāb* 'five books', *dah nafar* 'ten people'. The plural **-hā** is only for uncounted groups: *ketāb-hā* 'the books'.",
+    "*dust dāram* is 'I like' and 'I love' at once. For a person it means love; for tea it means like. Lesson 10 uses it for food."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the words",
+   "items": [
+    {
+     "fa": "گربه",
+     "r": "gorbe",
+     "en": "cat",
+     "faV": "گُربه",
+     "a": "b4420219a5e3"
+    },
+    {
+     "fa": "کلید",
+     "r": "kelid",
+     "en": "key",
+     "faV": "کِلید",
+     "a": "61110d2a9f8d"
+    },
+    {
+     "fa": "پول",
+     "r": "pul",
+     "en": "money",
+     "faV": "پول",
+     "a": "63dd1c041899"
+    },
+    {
+     "fa": "چتر",
+     "r": "chatr",
+     "en": "umbrella",
+     "faV": "چَتر",
+     "a": "4b8f15ffba9f"
+    },
+    {
+     "fa": "عینک",
+     "r": "eynak",
+     "en": "glasses",
+     "faV": "عَینَک",
+     "a": "9bef4ab3427b"
+    },
+    {
+     "fa": "وقت",
+     "r": "vaght",
+     "en": "time",
+     "faV": "وَقت",
+     "a": "82aea13a158b"
+    },
+    {
+     "fa": "دوچرخه",
+     "r": "do-charkhe",
+     "en": "bicycle",
+     "faV": "دوچَرخه",
+     "a": "8c41600f718a"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right form",
+   "items": [
+    {
+     "q": "We have a car. → ما یک ماشین ___",
+     "options": [
+      "دارم",
+      "داریم",
+      "دارند"
+     ],
+     "answer": 1,
+     "explain": "mā (we) takes the ending -im: dārim."
+    },
+    {
+     "q": "Which sentence means 'She doesn't have a dog'?",
+     "options": [
+      "او سگ دارد.",
+      "او سگ ندارد.",
+      "او سگ داری."
+     ],
+     "answer": 1,
+     "explain": "na- in front of dārad makes it negative."
+    },
+    {
+     "q": "How do you ask a friend 'How many sisters do you have?'",
+     "options": [
+      "چند تا خواهر داری؟",
+      "خواهر داریم؟",
+      "چه خواهر دارد؟"
+     ],
+     "answer": 0,
+     "explain": "chand tā asks 'how many'; dāri is the 'you (friend)' form."
+    },
+    {
+     "q": "Which is correct Persian for 'two cats'?",
+     "options": [
+      "دو گربه‌ها",
+      "دو تا گربه",
+      "دو تا گربه‌ها"
+     ],
+     "answer": 1,
+     "explain": "After a number the noun stays singular."
+    },
+    {
+     "q": "'I need money' is…",
+     "options": [
+      "پول دارم.",
+      "پول لازم دارم.",
+      "پول ندارم."
+     ],
+     "answer": 1,
+     "explain": "lāzem dāram = I need."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete with the right form of dāshtan",
+   "items": [
+    {
+     "fa": "من دو تا برادر ___.",
+     "r": "man do tā barādar ___.",
+     "en": "I have two brothers.",
+     "answer": "دارم",
+     "hint": "I have"
+    },
+    {
+     "fa": "شما ماشین ___؟",
+     "r": "shomā māshin ___?",
+     "en": "Do you have a car?",
+     "answer": "دارید",
+     "hint": "you (polite) have"
+    },
+    {
+     "fa": "ما امروز وقت ___.",
+     "r": "mā emruz vaght ___.",
+     "en": "We don't have time today.",
+     "answer": "نداریم",
+     "hint": "we don't have"
+    },
+    {
+     "fa": "امیر دو تا گربه ___.",
+     "r": "Amir do tā gorbe ___.",
+     "en": "Amir has two cats.",
+     "answer": "دارد",
+     "hint": "he has"
+    },
+    {
+     "fa": "تام چتر لازم ___.",
+     "r": "Tām chatr lāzem ___.",
+     "en": "Tom needs an umbrella.",
+     "answer": "دارد",
+     "hint": "needs"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "من یک خواهر دارم.",
+     "r": "man yek khāhar dāram.",
+     "en": "I have one sister.",
+     "faV": "مَن یِک خواهَر دارَم.",
+     "a": "990ea22bbe5e"
+    },
+    {
+     "fa": "تو گربه داری؟",
+     "r": "to gorbe dāri?",
+     "en": "Do you have a cat?",
+     "faV": "تو گُربه داری؟",
+     "a": "578a8bde941f"
+    },
+    {
+     "fa": "متأسفانه شیر نداریم.",
+     "r": "mota'assefāne shir na-dārim.",
+     "en": "Unfortunately we don't have milk.",
+     "faV": "مُتَأَسِّفانه شیر نَداریم.",
+     "a": "ea66033ef4ca"
+    },
+    {
+     "fa": "چند تا عکس از او دارم.",
+     "r": "chand tā aks az u dāram.",
+     "en": "I have a few photos of her.",
+     "faV": "چَند تا عَکس اَز او دارَم.",
+     "a": "6768352a503d"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "امروز وقت ندارم.",
+     "r": "emruz vaght na-dāram.",
+     "en": "I don't have time today.",
+     "options": [
+      "I don't have time today.",
+      "I have time today.",
+      "I don't have money today."
+     ],
+     "answer": 0,
+     "faV": "اِمروز وَقت نَدارَم.",
+     "a": "aabe0e404624"
+    },
+    {
+     "fa": "شما کلید دارید؟",
+     "r": "shomā kelid dārid?",
+     "en": "Do you have a key?",
+     "options": [
+      "Do you have a bag?",
+      "Do you have a key?",
+      "Do you need a key?"
+     ],
+     "answer": 1,
+     "faV": "شُما کِلید دارید؟",
+     "a": "6a53dd2b6bd0"
+    },
+    {
+     "fa": "سه تا گربه داریم.",
+     "r": "se tā gorbe dārim.",
+     "en": "We have three cats.",
+     "options": [
+      "We have three dogs.",
+      "We have two cats.",
+      "We have three cats."
+     ],
+     "answer": 2,
+     "faV": "سه تا گُربه داریم.",
+     "a": "aed5785f41c6"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "I don't have a dog.",
+     "fa": "من سگ ندارم.",
+     "r": "man sag na-dāram.",
+     "faV": "مَن سَگ نَدارَم.",
+     "a": "40eac935a27d"
+    },
+    {
+     "en": "How many books do you have? (to a friend)",
+     "fa": "چند تا کتاب داری؟",
+     "r": "chand tā ketāb dāri?",
+     "faV": "چَند تا کِتاب داری؟",
+     "a": "6e034584ec04"
+    },
+    {
+     "en": "We need glasses.",
+     "fa": "ما عینک لازم داریم.",
+     "r": "mā eynak lāzem dārim.",
+     "faV": "ما عَینَک لازِم داریم.",
+     "a": "c5008610e134"
+    },
+    {
+     "en": "Unfortunately she doesn't have time.",
+     "fa": "متأسفانه او وقت ندارد.",
+     "r": "mota'assefāne u vaght na-dārad.",
+     "faV": "مُتَأَسِّفانه او وَقت نَدارَد.",
+     "a": "f9fb80629067"
+    }
+   ]
+  }
+ ],
+ "titleV": "دارَم، نَدارَم، لازِم دارَم",
+ "titleA": "9b1cf8ce78ad"
+}

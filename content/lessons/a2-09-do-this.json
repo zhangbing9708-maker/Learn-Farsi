@@ -1,0 +1,1026 @@
+{
+ "id": "a2-09-do-this",
+ "level": "A2",
+ "n": 9,
+ "title": "Do this! Instructions and a recipe",
+ "titleFa": "این کار را بکن!",
+ "titleR": "in kār rā bekon!",
+ "intro": "Recipes, directions, a teacher's commands and a mother's 'don't touch that!' all use the imperative. In this lesson you learn the plain and the polite imperative, how to say 'don't', and how to give the steps of a task in order – and you cook a pot of āsh-e reshte, the noodle soup that Iranians eat when someone sets off on a journey.",
+ "goals": [
+  "give instructions and commands to one person or to several",
+  "say 'don't …' with the negative imperative",
+  "soften a command with لطفاً and بفرمایید",
+  "put the steps of a task in order with اول، بعد، سپس، در آخر",
+  "follow and give a simple recipe"
+ ],
+ "image": "ash-reshteh",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "In Aunt Parvin's kitchen",
+   "context": "Sara is learning to cook āsh-e reshte with her aunt Parvin. Tom, who is visiting, wants to help.",
+   "lines": [
+    {
+     "who": "Parvin",
+     "fa": "سارا جان، لوبیاها را بیاور و توی قابلمه بریز.",
+     "r": "Sārā jān, lubiyā-hā rā biyāvar o tu-ye ghāblame beriz.",
+     "en": "Sara dear, bring the beans and pour them into the pot.",
+     "col": "سارا جان، لوبیاها رو بیار و تو قابلمه بریز.",
+     "colR": "Sārā jān, lubiyā-hā ro biyār o tu ghāblame beriz.",
+     "faV": "سارا جان، لوبیاها را بیاوَر و تویِ قابلَمه بِریز.",
+     "a": "a50eeeb0c734",
+     "colV": "سارا جان، لوبیاها رو بیار و تو قابلَمه بِریز.",
+     "colA": "0a76c29cb552"
+    },
+    {
+     "who": "Sara",
+     "fa": "چشم، خاله. آب هم بریزم؟",
+     "r": "chashm, khāle. āb ham berizam?",
+     "en": "Yes, auntie. Shall I pour in water too?",
+     "faV": "چَشم، خاله. آب هَم بِریزَم؟",
+     "a": "4f1484b24a88"
+    },
+    {
+     "who": "Parvin",
+     "fa": "بله، دو لیوان آب بریز و زیرش را روشن کن.",
+     "r": "bale, do livān āb beriz o zir-ash rā roshan kon.",
+     "en": "Yes, pour in two glasses of water and turn on the heat under it.",
+     "faV": "بَله، دو لیوان آب بِریز و زیرَش را روشَن کُن.",
+     "a": "f11039d0e724"
+    },
+    {
+     "who": "Tom",
+     "fa": "من چه کار کنم؟",
+     "r": "man che kār konam?",
+     "en": "What shall I do?",
+     "col": "من چی کار کنم؟",
+     "colR": "man chi kār konam?",
+     "faV": "مَن چه کار کُنَم؟",
+     "a": "1baf835f0b91",
+     "colV": "مَن چی کار کُنَم؟",
+     "colA": "037b5ae94575"
+    },
+    {
+     "who": "Parvin",
+     "fa": "تام جان، پیازها را خرد کن. اما گریه نکن!",
+     "r": "Tām jān, piyāz-hā rā khord kon. ammā gerye na-kon!",
+     "en": "Tom dear, chop the onions. But don't cry!",
+     "faV": "تام جان، پیازها را خُرد کُن. اَمّا گِریه نَکُن!",
+     "a": "298c2356cbad"
+    },
+    {
+     "who": "Tom",
+     "fa": "سعی می‌کنم! کارد کجاست؟",
+     "r": "sa'y mi-konam! kārd kojā-st?",
+     "en": "I'll try! Where is the knife?",
+     "col": "سعی می‌کنم! کارد کجاست؟",
+     "colR": "sa'y mi-konam! kārd kojā-st?",
+     "faV": "سَعی می‌کُنَم! کارد کُجاست؟",
+     "a": "b42ed64f7502",
+     "colV": "سَعی می‌کُنَم! کارد کُجاست؟",
+     "colA": "b42ed64f7502"
+    },
+    {
+     "who": "Parvin",
+     "fa": "توی کشو است. مواظب دستت باش.",
+     "r": "tu-ye keshow ast. movāzeb-e dast-at bāsh.",
+     "en": "It's in the drawer. Mind your hand.",
+     "col": "تو کشوئه. مواظب دستت باش.",
+     "colR": "tu keshow-e. movāzeb-e dast-et bāsh.",
+     "faV": "تویِ کِشَو اَست. مُواظِبِ دَستَت باش.",
+     "a": "a0bdfd93a50c",
+     "colV": "تو کِشُوئه. مُواظِبِ دَستِت باش.",
+     "colA": "931d6e56bb53"
+    },
+    {
+     "who": "Sara",
+     "fa": "خاله، سبزی‌ها را حالا بریزم یا بعد؟",
+     "r": "khāle, sabzi-hā rā hālā berizam yā ba'd?",
+     "en": "Auntie, shall I put the herbs in now or later?",
+     "faV": "خاله، سَبزی‌ها را حالا بِریزَم یا بَعد؟",
+     "a": "58a422b91404"
+    },
+    {
+     "who": "Parvin",
+     "fa": "نه، هنوز نه. اول بگذار لوبیا نرم شود.",
+     "r": "na, hanuz na. avval begozār lubiyā narm shavad.",
+     "en": "No, not yet. First let the beans get soft.",
+     "col": "نه، هنوز نه. اول بذار لوبیا نرم بشه.",
+     "colR": "na, hanuz na. avval bezār lubiyā narm beshe.",
+     "faV": "نه، هَنوز نه. اَوَّل بِگُذار لوبیا نَرم شَوَد.",
+     "a": "623463c640e3",
+     "colV": "نه، هَنوز نه. اَوَّل بِذار لوبیا نَرم بِشه.",
+     "colA": "f45a5f0ae3ac"
+    },
+    {
+     "who": "Tom",
+     "fa": "پیازها تمام شد. حالا چی؟",
+     "r": "piyāz-hā tamām shod. hālā chi?",
+     "en": "The onions are done. Now what?",
+     "faV": "پیازها تَمام شُد. حالا چی؟",
+     "a": "d41efad50e67"
+    },
+    {
+     "who": "Parvin",
+     "fa": "آفرین! حالا بنشینید و یک چای بخورید. آش یک ساعت دیگر آماده می‌شود.",
+     "r": "āfarin! hālā beneshinid o yek chāy bokhorid. āsh yek sā'at-e digar āmāde mi-shavad.",
+     "en": "Well done! Now sit down and have a tea. The soup will be ready in an hour.",
+     "col": "آفرین! حالا بنشینین و یه چای بخورین. آش یه ساعت دیگه آماده می‌شه.",
+     "colR": "āfarin! hālā beneshinin o ye chāy bokhorin. āsh ye sā'at-e dige āmāde mi-she.",
+     "faV": "آفَرین! حالا بِنِشینید و یِک چای بُخورید. آش یِک ساعَتِ دیگَر آماده می‌شَوَد.",
+     "a": "a6b02cbff69b",
+     "colV": "آفَرین! حالا بِنِشینین و یه چای بُخورین. آش یه ساعَتِ دیگه آماده می‌شه.",
+     "colA": "88aac9923c76"
+    },
+    {
+     "who": "Sara",
+     "fa": "خاله، تو هم بنشین! ما بقیه‌اش را درست می‌کنیم.",
+     "r": "khāle, to ham beneshin! mā baghiyye-ash rā dorost mi-konim.",
+     "en": "Auntie, you sit down too! We'll do the rest.",
+     "faV": "خاله، تو هَم بِنِشین! ما بَقیّه‌اَش را دُرُست می‌کُنیم.",
+     "a": "aaae5f011c4b"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Telling people what to do",
+   "md": "Persian commands are built on the **present stem** – the same stem you already use after می: [[می‌روم|mi-ravam|I go]] has the stem [[رو|rav]]. Put [[بـ|be-]] in front of the stem and you have the command for one person: [[برو!|borow!|go!]]. Add [[ـید|-id]] for several people, or for one person politely: [[بروید!|beravid!|go!]].\n\nThat is the whole system. The only things to watch are a few stems that change shape, and the compound verbs, where **be-** attaches to the verb part: [[روشن کن|roshan kon|turn on]], [[خرد کن|khord kon|chop]] – here the plain *kon* without *be-* is normal.\n\nTo say *don't*, replace **be-** with [[نـ|na-]]: [[نرو!|na-row!|don't go!]], [[گریه نکن!|gerye na-kon!|don't cry!]]."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "آش",
+     "r": "āsh",
+     "en": "thick soup",
+     "pos": "n",
+     "note": "the word behind 'ash' in āshpaz, cook, and āshpazkhāne, kitchen",
+     "faV": "آش",
+     "a": "52b8aabf2c8b"
+    },
+    {
+     "fa": "آش رشته",
+     "r": "āsh-e reshte",
+     "en": "noodle and bean soup",
+     "pos": "n",
+     "note": "eaten on Chaharshanbe Suri and before journeys",
+     "faV": "آشِ رِشته",
+     "a": "e113af290328"
+    },
+    {
+     "fa": "رشته",
+     "r": "reshte",
+     "en": "noodle; thread",
+     "pos": "n",
+     "faV": "رِشته",
+     "a": "a56d6049c72d"
+    },
+    {
+     "fa": "لوبیا",
+     "r": "lubiyā",
+     "en": "bean",
+     "pos": "n",
+     "faV": "لوبیا",
+     "a": "f287f1941504"
+    },
+    {
+     "fa": "نخود",
+     "r": "nokhod",
+     "en": "chickpea",
+     "pos": "n",
+     "faV": "نُخود",
+     "a": "bf84075a4f53"
+    },
+    {
+     "fa": "عدس",
+     "r": "adas",
+     "en": "lentil",
+     "pos": "n",
+     "faV": "عَدَس",
+     "a": "6828a679dbb3"
+    },
+    {
+     "fa": "پیاز",
+     "r": "piyāz",
+     "en": "onion",
+     "pos": "n",
+     "ex": {
+      "fa": "پیازها را خرد کن.",
+      "r": "piyāz-hā rā khord kon.",
+      "en": "Chop the onions.",
+      "faV": "پیازها را خُرد کُن.",
+      "a": "fe33ac17d3d3"
+     },
+     "faV": "پیاز",
+     "a": "21c0e394a27f"
+    },
+    {
+     "fa": "سیر",
+     "r": "sir",
+     "en": "garlic",
+     "pos": "n",
+     "faV": "سیر",
+     "a": "757a86eaf3b4"
+    },
+    {
+     "fa": "سبزی",
+     "r": "sabzi",
+     "en": "herbs, greens",
+     "pos": "n",
+     "faV": "سَبزی",
+     "a": "f72deaeaf822"
+    },
+    {
+     "fa": "کشک",
+     "r": "kashk",
+     "en": "kashk (dried sour whey)",
+     "pos": "n",
+     "note": "the sour white sauce poured over āsh and eggplant dishes",
+     "faV": "کَشک",
+     "a": "4d1b1102b043"
+    },
+    {
+     "fa": "نعنا",
+     "r": "na'nā",
+     "en": "mint",
+     "pos": "n",
+     "faV": "نَعنا",
+     "a": "0f1cb3d4d711"
+    },
+    {
+     "fa": "روغن",
+     "r": "rowghan",
+     "en": "oil",
+     "pos": "n",
+     "faV": "رَوغَن",
+     "a": "534a3beadddd"
+    },
+    {
+     "fa": "نمک",
+     "r": "namak",
+     "en": "salt",
+     "pos": "n",
+     "faV": "نَمَک",
+     "a": "afa0d44a978a"
+    },
+    {
+     "fa": "قابلمه",
+     "r": "ghāblame",
+     "en": "pot, saucepan",
+     "pos": "n",
+     "faV": "قابلَمه",
+     "a": "8be135216ba0"
+    },
+    {
+     "fa": "کارد",
+     "r": "kārd",
+     "en": "knife",
+     "pos": "n",
+     "note": "colloquially also چاقو chāghu",
+     "faV": "کارد",
+     "a": "7968eb5c1bc9"
+    },
+    {
+     "fa": "کشو",
+     "r": "keshow",
+     "en": "drawer",
+     "pos": "n",
+     "faV": "کِشَو",
+     "a": "0cf8d7e6ffc7"
+    },
+    {
+     "fa": "ریختن",
+     "r": "rikhtan",
+     "en": "to pour",
+     "pos": "v",
+     "note": "present stem ریز riz",
+     "ex": {
+      "fa": "آب بریز.",
+      "r": "āb beriz.",
+      "en": "Pour in water.",
+      "faV": "آب بِریز.",
+      "a": "9e0f66936a58"
+     },
+     "faV": "ریختَن",
+     "a": "dd90bcc51735"
+    },
+    {
+     "fa": "خرد کردن",
+     "r": "khord kardan",
+     "en": "to chop",
+     "pos": "v",
+     "faV": "خُرد کَردَن",
+     "a": "dae3d86d370d"
+    },
+    {
+     "fa": "سرخ کردن",
+     "r": "sorkh kardan",
+     "en": "to fry",
+     "pos": "v",
+     "note": "literally 'to make red'",
+     "faV": "سُرخ کَردَن",
+     "a": "768534ca6b42"
+    },
+    {
+     "fa": "پختن",
+     "r": "pokhtan",
+     "en": "to cook",
+     "pos": "v",
+     "note": "present stem پز paz: می‌پزم",
+     "faV": "پُختَن",
+     "a": "6cd2fd8f66a5"
+    },
+    {
+     "fa": "هم زدن",
+     "r": "ham zadan",
+     "en": "to stir",
+     "pos": "v",
+     "faV": "هَم زَدَن",
+     "a": "775e963e95f4"
+    },
+    {
+     "fa": "گذاشتن",
+     "r": "gozāshtan",
+     "en": "to put; to let",
+     "pos": "v",
+     "note": "present stem گذار gozār: بگذار begozār 'put / let'",
+     "faV": "گُذاشتَن",
+     "a": "a67b6f6d10bd"
+    },
+    {
+     "fa": "مواظب بودن",
+     "r": "movāzeb budan",
+     "en": "to be careful (of)",
+     "pos": "v",
+     "ex": {
+      "fa": "مواظب باش!",
+      "r": "movāzeb bāsh!",
+      "en": "Be careful!",
+      "faV": "مُواظِب باش!",
+      "a": "b82566427953"
+     },
+     "faV": "مُواظِب بودَن",
+     "a": "83a43fb1040e"
+    },
+    {
+     "fa": "آفرین",
+     "r": "āfarin",
+     "en": "well done!",
+     "pos": "interj",
+     "faV": "آفَرین",
+     "a": "69051f4d730d"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The imperative: be- + stem",
+   "md": "Take the present stem, add [[بـ|be-]] in front. For one person (a friend, a child) the stem alone is the command; for several people or for politeness add [[ـید|-id]].\n\nThe prefix is normally **be-**, but before a stem that begins with *o* or *u* it becomes **bo-** ([[بخور|bokhor|eat]], [[بکن|bokon|do]]), and before a stem beginning with *ā* or *a* it is written with an extra ی: [[بیاور|biyāvar|bring]], [[بیا|biyā|come]].\n\nA handful of common verbs have a stem you simply have to learn:",
+   "table": {
+    "head": [
+     "Infinitive",
+     "Stem",
+     "Command (one person)",
+     "Command (polite / plural)",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[رفتن|raftan]]",
+      "[[رو|rav]]",
+      "[[برو|borow]]",
+      "[[بروید|beravid]]",
+      "go"
+     ],
+     [
+      "[[آمدن|āmadan]]",
+      "[[آ|ā]]",
+      "[[بیا|biyā]]",
+      "[[بیایید|biyāyid]]",
+      "come"
+     ],
+     [
+      "[[خوردن|khordan]]",
+      "[[خور|khor]]",
+      "[[بخور|bokhor]]",
+      "[[بخورید|bokhorid]]",
+      "eat, drink"
+     ],
+     [
+      "[[گفتن|goftan]]",
+      "[[گو|gu]]",
+      "[[بگو|begu]]",
+      "[[بگویید|beguyid]]",
+      "say"
+     ],
+     [
+      "[[دیدن|didan]]",
+      "[[بین|bin]]",
+      "[[ببین|bebin]]",
+      "[[ببینید|bebinid]]",
+      "look, see"
+     ],
+     [
+      "[[نشستن|neshastan]]",
+      "[[نشین|neshin]]",
+      "[[بنشین|beneshin]]",
+      "[[بنشینید|beneshinid]]",
+      "sit"
+     ],
+     [
+      "[[گذاشتن|gozāshtan]]",
+      "[[گذار|gozār]]",
+      "[[بگذار|begozār]]",
+      "[[بگذارید|begozārid]]",
+      "put; let"
+     ],
+     [
+      "[[آوردن|āvardan]]",
+      "[[آور|āvar]]",
+      "[[بیاور|biyāvar]]",
+      "[[بیاورید|biyāvarid]]",
+      "bring"
+     ],
+     [
+      "[[دادن|dādan]]",
+      "[[ده|deh]]",
+      "[[بده|bedeh]]",
+      "[[بدهید|bedahid]]",
+      "give"
+     ],
+     [
+      "[[گرفتن|gereftan]]",
+      "[[گیر|gir]]",
+      "[[بگیر|begir]]",
+      "[[بگیرید|begirid]]",
+      "take"
+     ],
+     [
+      "[[نوشتن|neveshtan]]",
+      "[[نویس|nevis]]",
+      "[[بنویس|benevis]]",
+      "[[بنویسید|benevisid]]",
+      "write"
+     ],
+     [
+      "[[بودن|budan]]",
+      "[[باش|bāsh]]",
+      "[[باش|bāsh]]",
+      "[[باشید|bāshid]]",
+      "be"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "بیا این‌جا و بنشین.",
+     "r": "biyā in-jā o beneshin.",
+     "en": "Come here and sit down.",
+     "col": "بیا این‌جا و بشین.",
+     "colR": "biyā in-jā o beshin.",
+     "faV": "بیا این‌جا و بِنِشین.",
+     "a": "60520e65097a",
+     "colV": "بیا این‌جا و بِشین.",
+     "colA": "496b1d2c4939"
+    },
+    {
+     "fa": "لطفاً در را ببندید.",
+     "r": "lotfan dar rā bebandid.",
+     "en": "Please close the door.",
+     "faV": "لُطفاً دَر را بِبَندید.",
+     "a": "ae4fd7c9978a"
+    },
+    {
+     "fa": "اسمت را این‌جا بنویس.",
+     "r": "esm-at rā in-jā benevis.",
+     "en": "Write your name here.",
+     "faV": "اِسمَت را این‌جا بِنِویس.",
+     "a": "b39f98674947"
+    },
+    {
+     "fa": "به من بگو کجا بودی.",
+     "r": "be man begu kojā budi.",
+     "en": "Tell me where you were.",
+     "faV": "به مَن بِگو کُجا بودی.",
+     "a": "94ef39b55903"
+    },
+    {
+     "fa": "آرام باشید، همه چیز خوب است.",
+     "r": "ārām bāshid, hame chiz khub ast.",
+     "en": "Stay calm, everything is fine.",
+     "faV": "آرام باشید، هَمه چیز خوب اَست.",
+     "a": "384fc2e4176c"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Don't! The negative imperative",
+   "md": "For *don't*, the prefix [[نـ|na-]] replaces **be-**: [[نرو|na-row|don't go]], [[نخور|na-khor|don't eat]], [[نگو|na-gu|don't say]]. Before *ā*, *na-* is written with a ی, just like *be-*: [[نیا|na-yā|don't come]], [[نیاور|na-yāvar|don't bring]].\n\nWith compound verbs the plain verb part takes *na-*: [[گریه نکن|gerye na-kon|don't cry]], [[نگران نباش|negarān na-bāsh|don't worry]], [[فراموش نکنید|farāmush na-konid|don't forget]].\n\nIn speech you will constantly hear two softeners: [[لطفاً|lotfan|please]] before the command, and the all-purpose polite verb [[بفرمایید|befarmāyid]], which replaces *come in, sit down, go ahead, here you are, help yourself*. A polite request can also avoid the imperative entirely: [[می‌شود در را ببندید؟|mi-shavad dar rā bebandid?|Could you close the door?]] – literally *does it become that you close the door?*",
+   "examples": [
+    {
+     "fa": "نگران نباش، من هستم.",
+     "r": "negarān na-bāsh, man hastam.",
+     "en": "Don't worry, I'm here.",
+     "faV": "نِگَران نَباش، مَن هَستَم.",
+     "a": "14b93046a6f5"
+    },
+    {
+     "fa": "این را به کسی نگو.",
+     "r": "in rā be kas-i na-gu.",
+     "en": "Don't tell anyone this.",
+     "col": "اینو به کسی نگو.",
+     "colR": "in-o be kas-i na-gu.",
+     "faV": "این را به کَسی نَگو.",
+     "a": "7bb7c3f7decd",
+     "colV": "اینو به کَسی نَگو.",
+     "colA": "637a0a2f2b90"
+    },
+    {
+     "fa": "دیر نیایید؛ غذا سرد می‌شود.",
+     "r": "dir na-yāyid; ghazā sard mi-shavad.",
+     "en": "Don't come late; the food will get cold.",
+     "faV": "دیر نَیایید؛ غَذا سَرد می‌شَوَد.",
+     "a": "85f7cadef2d4"
+    },
+    {
+     "fa": "کلیدها را فراموش نکن.",
+     "r": "kelid-hā rā farāmush na-kon.",
+     "en": "Don't forget the keys.",
+     "faV": "کِلیدها را فَراموش نَکُن.",
+     "a": "3ee8a4870f15"
+    },
+    {
+     "fa": "بفرمایید تو، خانه‌ی خودتان است.",
+     "r": "befarmāyid tu, khāne-ye khod-etān ast.",
+     "en": "Please come in – treat it as your own house.",
+     "col": "بفرمایین تو، خونه‌ی خودتونه.",
+     "colR": "befarmāyin tu, khune-ye khod-etun-e.",
+     "faV": "بِفَرمایید تو، خانه‌یِ خودِتان اَست.",
+     "a": "dde60adc9c99",
+     "colV": "بِفَرمایین تو، خونه‌یِ خودِتونه.",
+     "colA": "13722ebca041"
+    },
+    {
+     "fa": "می‌شود کمی آرام‌تر صحبت کنید؟",
+     "r": "mi-shavad kam-i ārām-tar sohbat konid?",
+     "en": "Could you speak a little more slowly?",
+     "faV": "می‌شَوَد کَمی آرام‌تَر صُحبَت کُنید؟",
+     "a": "39f88b64316e"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "First, then, finally: putting steps in order",
+   "md": "Instructions need order words. The everyday set is [[اول|avval|first]], [[بعد|ba'd|then]], [[سپس|sepas|then (more formal)]], [[در آخر|dar ākhar|finally]]. *After that* is [[بعد از آن|ba'd az ān]], *before that* [[قبل از آن|ghabl az ān]], and *while* is [[وقتی که|vaghti ke]] or, in cooking, [[تا|tā|until]]: [[بپز تا نرم شود|bepaz tā narm shavad|cook until it is soft]].\n\nNotice *until it becomes soft*: after [[تا|tā]] and after [[بگذار|begozār|let]] the next verb is in the subjunctive you met in lesson 4 – [[شود|shavad]], not [[می‌شود|mi-shavad]].",
+   "examples": [
+    {
+     "fa": "اول پیاز را سرخ کن، بعد لوبیا را بریز.",
+     "r": "avval piyāz rā sorkh kon, ba'd lubiyā rā beriz.",
+     "en": "First fry the onion, then add the beans.",
+     "faV": "اَوَّل پیاز را سُرخ کُن، بَعد لوبیا را بِریز.",
+     "a": "3b571723df65"
+    },
+    {
+     "fa": "سپس دو لیتر آب اضافه کنید.",
+     "r": "sepas do litr āb ezāfe konid.",
+     "en": "Then add two litres of water.",
+     "faV": "سِپَس دو لیتر آب اِضافه کُنید.",
+     "a": "71c801facf8c"
+    },
+    {
+     "fa": "بگذار یک ساعت بپزد.",
+     "r": "begozār yek sā'at bepazad.",
+     "en": "Let it cook for an hour.",
+     "faV": "بِگُذار یِک ساعَت بِپَزَد.",
+     "a": "331b02d32a05"
+    },
+    {
+     "fa": "در آخر کشک و نعنای داغ را روی آش بریزید.",
+     "r": "dar ākhar kashk o na'nā-ye dāgh rā ru-ye āsh berizid.",
+     "en": "Finally pour the kashk and the hot mint over the soup.",
+     "faV": "دَر آخَر کَشک و نَعنایِ داغ را رویِ آش بِریزید.",
+     "a": "2d045a065417"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Recipe: āsh-e reshte for six",
+   "intro": "A real recipe written the way Iranian cookbooks write them – in the polite plural imperative. Read it, listen to each step, then try to retell the steps with اول، بعد، سپس، در آخر.",
+   "sentences": [
+    {
+     "fa": "یک لیوان نخود و یک لیوان لوبیا را از شب قبل خیس کنید.",
+     "r": "yek livān nokhod o yek livān lubiyā rā az shab-e ghabl khis konid.",
+     "en": "Soak a glass of chickpeas and a glass of beans from the night before.",
+     "faV": "یِک لیوان نُخود و یِک لیوان لوبیا را اَز شَبِ قَبل خیس کُنید.",
+     "a": "d4e2be84a5c6"
+    },
+    {
+     "fa": "دو پیاز بزرگ را خرد کنید و در روغن سرخ کنید.",
+     "r": "do piyāz-e bozorg rā khord konid o dar rowghan sorkh konid.",
+     "en": "Chop two large onions and fry them in oil.",
+     "faV": "دو پیازِ بُزُرگ را خُرد کُنید و دَر رَوغَن سُرخ کُنید.",
+     "a": "4619a5f6e530"
+    },
+    {
+     "fa": "نصف پیازها را برای روی آش کنار بگذارید.",
+     "r": "nesf-e piyāz-hā rā barā-ye ru-ye āsh kenār begozārid.",
+     "en": "Set aside half of the onions for the top of the soup.",
+     "faV": "نِصفِ پیازها را بَرایِ رویِ آش کِنار بِگُذارید.",
+     "a": "946d3f9405b5"
+    },
+    {
+     "fa": "نخود، لوبیا و یک لیوان عدس را با شش لیوان آب در قابلمه بریزید.",
+     "r": "nokhod, lubiyā o yek livān adas rā bā shesh livān āb dar ghāblame berizid.",
+     "en": "Put the chickpeas, beans and a glass of lentils in the pot with six glasses of water.",
+     "faV": "نُخود، لوبیا و یِک لیوان عَدَس را با شِش لیوان آب دَر قابلَمه بِریزید.",
+     "a": "0a64e3a96826"
+    },
+    {
+     "fa": "بگذارید یک ساعت بپزد تا نرم شود.",
+     "r": "begozārid yek sā'at bepazad tā narm shavad.",
+     "en": "Let it cook for an hour until it is soft.",
+     "faV": "بِگُذارید یِک ساعَت بِپَزَد تا نَرم شَوَد.",
+     "a": "a56649afec2e"
+    },
+    {
+     "fa": "سپس سبزی خرد شده را اضافه کنید: تره، جعفری، گشنیز و اسفناج.",
+     "r": "sepas sabzi-ye khord shode rā ezāfe konid: tare, ja'fari, geshniz o esfenāj.",
+     "en": "Then add the chopped herbs: leek, parsley, coriander and spinach.",
+     "faV": "سِپَس سَبزیِ خُرد شُده را اِضافه کُنید: تَره، جَعفَری، گِشنیز و اِسفِناج.",
+     "a": "525404dacb63"
+    },
+    {
+     "fa": "بعد از نیم ساعت، رشته‌ها را بشکنید و در آش بریزید.",
+     "r": "ba'd az nim sā'at, reshte-hā rā beshkanid o dar āsh berizid.",
+     "en": "After half an hour, break the noodles and put them in the soup.",
+     "faV": "بَعد اَز نیم ساعَت، رِشته‌ها را بِشکَنید و دَر آش بِریزید.",
+     "a": "b31502dc221f"
+    },
+    {
+     "fa": "نمک، فلفل و زردچوبه بزنید و خوب هم بزنید.",
+     "r": "namak, felfel o zard-chube bezanid o khub ham bezanid.",
+     "en": "Add salt, pepper and turmeric and stir well.",
+     "faV": "نَمَک، فِلفِل و زَردچوبه بِزَنید و خوب هَم بِزَنید.",
+     "a": "64e17d6f93e0"
+    },
+    {
+     "fa": "در آخر، کشک، نعنای داغ و پیاز سرخ شده را روی آش بریزید.",
+     "r": "dar ākhar, kashk, na'nā-ye dāgh o piyāz-e sorkh shode rā ru-ye āsh berizid.",
+     "en": "Finally, pour the kashk, fried mint and fried onion over the soup.",
+     "faV": "دَر آخَر، کَشک، نَعنایِ داغ و پیازِ سُرخ شُده را رویِ آش بِریزید.",
+     "a": "49164afd42d4"
+    },
+    {
+     "fa": "نوش جان!",
+     "r": "nush-e jān!",
+     "en": "Enjoy!",
+     "faV": "نوشِ جان!",
+     "a": "12d6f54c3b1e"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What do you do the night before?",
+     "options": [
+      "fry the onions",
+      "soak the chickpeas and beans",
+      "break the noodles"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How long do the beans cook before the herbs go in?",
+     "options": [
+      "half an hour",
+      "one hour",
+      "two hours"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What goes on top at the end?",
+     "options": [
+      "lemon juice",
+      "kashk, hot mint and fried onion",
+      "yoghurt and cucumber"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Soup for the traveller",
+   "md": "[[آش رشته|āsh-e reshte]] is more than lunch. Iranians cook it on [[چهارشنبه‌سوری|chahārshanbe-suri]], the fire festival before Nowruz, and when someone is about to travel: the long noodles stand for the threads of life and the road ahead, and the family eats a bowl together [[پشت پای مسافر|posht-e pā-ye mosāfer|behind the traveller's foot]] – after the traveller has left – to wish them a safe return.\n\nThe word [[آش|āsh]] is old; it gave Persian its words for cook, [[آشپز|āshpaz]] (literally *soup-cooker*), and kitchen, [[آشپزخانه|āshpaz-khāne]]. Thick soups like this one, with legumes, herbs and sour [[کشک|kashk]], are the everyday food of Iranian homes, far more than the kebabs tourists know.",
+   "image": "ash-reshteh"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "You already know several imperatives without realising it: **بفرمایید**, **ببخشید** (excuse me = forgive!), **بگو** in *بگو ببینم* ('tell me, let's see') and **برو** in *برو بابا* ('get away with you!').",
+    "In speech, the polite *-id* ending becomes **-in**: بنشینید → بنشینین, بخورید → بخورین; and *bo-khor* often loses its vowel: *بخور* sounds like **bokhor** or **bkhor**.",
+    "The stem of a verb is in the dictionary section of this site under every verb; learn the stem together with the infinitive, as a pair: رفتن / رو, گفتن / گو.",
+    "A command to a stranger is softer with **می‌شود … ؟** ('could you …?') or **لطفاً**. To a waiter or taxi driver, a plain polite plural is normal: *لطفاً این‌جا نگه دارید* 'please stop here'."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the commands",
+   "items": [
+    {
+     "fa": "بنشین",
+     "r": "beneshin",
+     "en": "sit down",
+     "faV": "بِنِشین",
+     "a": "18ed5465bd3c"
+    },
+    {
+     "fa": "بیا",
+     "r": "biyā",
+     "en": "come",
+     "faV": "بیا",
+     "a": "f1f5807704f1"
+    },
+    {
+     "fa": "بخور",
+     "r": "bokhor",
+     "en": "eat",
+     "faV": "بُخور",
+     "a": "2355a1b59b49"
+    },
+    {
+     "fa": "بگو",
+     "r": "begu",
+     "en": "say",
+     "faV": "بِگو",
+     "a": "c69515b258f4"
+    },
+    {
+     "fa": "ببین",
+     "r": "bebin",
+     "en": "look",
+     "faV": "بِبین",
+     "a": "07e51f648edd"
+    },
+    {
+     "fa": "بنویس",
+     "r": "benevis",
+     "en": "write",
+     "faV": "بِنِویس",
+     "a": "c205e2b23121"
+    },
+    {
+     "fa": "نرو",
+     "r": "na-row",
+     "en": "don't go",
+     "faV": "نَرَو",
+     "a": "b1a03b82350f"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right form",
+   "items": [
+    {
+     "q": "You want several guests to sit down. You say…",
+     "options": [
+      "بنشین",
+      "بنشینید",
+      "می‌نشینید"
+     ],
+     "answer": 1,
+     "explain": "-id is the polite / plural imperative ending: beneshinid."
+    },
+    {
+     "q": "Which is 'don't eat'?",
+     "options": [
+      "بخور",
+      "نخور",
+      "می‌خوری"
+     ],
+     "answer": 1,
+     "explain": "na- replaces be- in the negative imperative: na-khor."
+    },
+    {
+     "q": "The command of آمدن (to come) for one friend is…",
+     "options": [
+      "بآ",
+      "بیا",
+      "بیایید"
+     ],
+     "answer": 1,
+     "explain": "The stem is ā, and be- + ā is written biyā."
+    },
+    {
+     "q": "Which sentence politely asks someone to close the window?",
+     "options": [
+      "پنجره را ببند.",
+      "می‌شود پنجره را ببندید؟",
+      "پنجره بسته است."
+     ],
+     "answer": 1,
+     "explain": "mi-shavad … ? ('could you…?') with the polite plural is the softest form."
+    },
+    {
+     "q": "'Let it cook for an hour' is…",
+     "options": [
+      "بگذار یک ساعت بپزد.",
+      "بگذار یک ساعت می‌پزد.",
+      "یک ساعت بپز."
+     ],
+     "answer": 0,
+     "explain": "After begozār (let) the verb is subjunctive: bepazad."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the commands",
+   "items": [
+    {
+     "fa": "لطفاً در را ___.",
+     "r": "lotfan dar rā ___.",
+     "en": "Please close the door. (polite)",
+     "answer": "ببندید",
+     "hint": "بستن, stem بند, polite"
+    },
+    {
+     "fa": "پیازها را ___ کن.",
+     "r": "piyāz-hā rā ___ kon.",
+     "en": "Chop the onions.",
+     "answer": "خرد",
+     "hint": "the first half of 'to chop'"
+    },
+    {
+     "fa": "گریه ___! چیزی نشده.",
+     "r": "gerye ___! chiz-i na-shode.",
+     "en": "Don't cry! Nothing has happened.",
+     "answer": "نکن",
+     "hint": "don't do"
+    },
+    {
+     "fa": "اول پیاز را سرخ کن، ___ لوبیا را بریز.",
+     "r": "avval piyāz rā sorkh kon, ___ lubiyā rā beriz.",
+     "en": "First fry the onion, then add the beans.",
+     "answer": "بعد",
+     "hint": "then"
+    },
+    {
+     "fa": "به من ___ کجا بودی.",
+     "r": "be man ___ kojā budi.",
+     "en": "Tell me where you were.",
+     "answer": "بگو",
+     "hint": "گفتن, stem گو"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "لطفاً این‌جا بنشینید.",
+     "r": "lotfan in-jā beneshinid.",
+     "en": "Please sit here.",
+     "faV": "لُطفاً این‌جا بِنِشینید.",
+     "a": "bc8cb501fb3f"
+    },
+    {
+     "fa": "کلیدها را فراموش نکن.",
+     "r": "kelid-hā rā farāmush na-kon.",
+     "en": "Don't forget the keys.",
+     "faV": "کِلیدها را فَراموش نَکُن.",
+     "a": "3ee8a4870f15"
+    },
+    {
+     "fa": "بگذار یک ساعت بپزد.",
+     "r": "begozār yek sā'at bepazad.",
+     "en": "Let it cook for an hour.",
+     "faV": "بِگُذار یِک ساعَت بِپَزَد.",
+     "a": "331b02d32a05"
+    },
+    {
+     "fa": "دو لیوان آب بریز و زیرش را روشن کن.",
+     "r": "do livān āb beriz o zir-ash rā roshan kon.",
+     "en": "Pour in two glasses of water and turn on the heat under it.",
+     "faV": "دو لیوان آب بِریز و زیرَش را روشَن کُن.",
+     "a": "6a93628d414b"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "دیر نیایید!",
+     "r": "dir na-yāyid!",
+     "en": "Don't come late!",
+     "options": [
+      "Come late!",
+      "Don't come late!",
+      "Come early!"
+     ],
+     "answer": 1,
+     "faV": "دیر نَیایید!",
+     "a": "c046e4e2b535"
+    },
+    {
+     "fa": "مواظب دستت باش.",
+     "r": "movāzeb-e dast-at bāsh.",
+     "en": "Mind your hand.",
+     "options": [
+      "Wash your hands.",
+      "Mind your hand.",
+      "Give me your hand."
+     ],
+     "answer": 1,
+     "faV": "مُواظِبِ دَستَت باش.",
+     "a": "86bfdec1f880"
+    },
+    {
+     "fa": "خوب هم بزنید.",
+     "r": "khub ham bezanid.",
+     "en": "Stir well.",
+     "options": [
+      "Stir well.",
+      "Eat well.",
+      "Sleep well."
+     ],
+     "answer": 0,
+     "faV": "خوب هَم بِزَنید.",
+     "a": "00c9b688ce17"
+    },
+    {
+     "fa": "این را به کسی نگو.",
+     "r": "in rā be kas-i na-gu.",
+     "en": "Don't tell anyone this.",
+     "options": [
+      "Tell everyone this.",
+      "Don't tell anyone this.",
+      "Did anyone tell you this?"
+     ],
+     "answer": 1,
+     "faV": "این را به کَسی نَگو.",
+     "a": "7bb7c3f7decd"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "Bring the beans and pour them into the pot.",
+     "fa": "لوبیاها را بیاور و توی قابلمه بریز.",
+     "r": "lubiyā-hā rā biyāvar o tu-ye ghāblame beriz.",
+     "faV": "لوبیاها را بیاوَر و تویِ قابلَمه بِریز.",
+     "a": "969bb47e3f72"
+    },
+    {
+     "en": "Don't worry, I'm here.",
+     "fa": "نگران نباش، من هستم.",
+     "r": "negarān na-bāsh, man hastam.",
+     "faV": "نِگَران نَباش، مَن هَستَم.",
+     "a": "14b93046a6f5"
+    },
+    {
+     "en": "Could you speak a little more slowly?",
+     "fa": "می‌شود کمی آرام‌تر صحبت کنید؟",
+     "r": "mi-shavad kam-i ārām-tar sohbat konid?",
+     "faV": "می‌شَوَد کَمی آرام‌تَر صُحبَت کُنید؟",
+     "a": "39f88b64316e"
+    },
+    {
+     "en": "Finally, pour the kashk over the soup.",
+     "fa": "در آخر، کشک را روی آش بریزید.",
+     "r": "dar ākhar, kashk rā ru-ye āsh berizid.",
+     "faV": "دَر آخَر، کَشک را رویِ آش بِریزید.",
+     "a": "519cb226c86e"
+    },
+    {
+     "en": "Sit down and have a tea.",
+     "fa": "بنشینید و یک چای بخورید.",
+     "r": "beneshinid o yek chāy bokhorid.",
+     "faV": "بِنِشینید و یِک چای بُخورید.",
+     "a": "c0db3919c0af"
+    }
+   ]
+  }
+ ],
+ "titleV": "این کار را بِکُن!",
+ "titleA": "06c3353df1eb"
+}

@@ -1,0 +1,1579 @@
+{
+ "updated": "2026-10-17",
+ "intro": "Real news, retold in simple Persian. Every story has the Farsi text sentence by sentence with transliteration, a natural English translation, the key words, and a short background note in English. Read the Farsi first, tap a sentence to hear it, then check yourself with the English.",
+ "stories": [
+  {
+   "id": "2026-10-16-oil-hormuz",
+   "date": "2026-10-16",
+   "tag": "Business",
+   "level": "B1",
+   "title": "Oil stays above $100 as ships are attacked near the Strait of Hormuz",
+   "titleFa": "نفت بالای ۱۰۰ دلار ماند؛ حمله به کشتی‌ها در تنگه‌ی هرمز ادامه دارد",
+   "titleR": "naft bālā-ye sad dolār mānd; hamle be kashti-hā dar tange-ye Hormoz edāme dārad",
+   "source": "Fox News / IEA",
+   "url": "https://www.foxnews.com/live-news/us-iran-war-peace-donald-trump-strait-hormuz-oil-prices-midterms-october-15",
+   "image": "hormuz-strait",
+   "sentences": [
+    {
+     "fa": "قیمت نفت این هفته بالای صد دلار ماند.",
+     "r": "gheymat-e naft in hafte bālā-ye sad dolār mānd.",
+     "en": "The price of oil stayed above a hundred dollars this week.",
+     "faV": "قَیمَتِ نَفت این هَفته بالایِ صَد دُلار ماند.",
+     "a": "41b4db30599a"
+    },
+    {
+     "fa": "نفت برنت روز جمعه حدود ۱۰۵ دلار بود.",
+     "r": "naft-e Brent ruz-e jom'e hodud-e sad-o-panj dolār bud.",
+     "en": "Brent oil was about 105 dollars on Friday.",
+     "faV": "نَفتِ برِنت روزِ جُمعه حُدودِ ۱۰۵ دُلار بود.",
+     "a": "b9a5aa90d41c"
+    },
+    {
+     "fa": "دلیل اصلی، حمله به کشتی‌ها در تنگه‌ی هرمز است.",
+     "r": "dalil-e asli, hamle be kashti-hā dar tange-ye Hormoz ast.",
+     "en": "The main reason is the attacks on ships in the Strait of Hormuz.",
+     "faV": "دَلیلِ اَصلی، حَمله به کَشتی‌ها دَر تَنگه‌یِ هُرمُز اَست.",
+     "a": "715a06bcbe5b"
+    },
+    {
+     "fa": "به گفته‌ی مقام‌های دریایی، بین پنجم و یازدهم اکتبر دوازده کشتی هدف قرار گرفتند.",
+     "r": "be gofte-ye maghām-hā-ye daryāyi, beyn-e panjom o yāzdahom-e oktobr davāzdah kashti hadaf gharār gereftand.",
+     "en": "According to maritime officials, twelve ships were targeted between the 5th and the 11th of October.",
+     "faV": "به گُفته‌یِ مَقام‌هایِ دَریایی، بَینِ پَنجُم و یازدَهُمِ اُکتُبر دَوازدَه کَشتی هَدَف قَرار گِرِفتَند.",
+     "a": "8d0c57597ccf"
+    },
+    {
+     "fa": "یک کشتی باری این هفته غرق شد.",
+     "r": "yek kashti-ye bāri in hafte gharegh shod.",
+     "en": "One cargo ship sank this week.",
+     "faV": "یِک کَشتیِ باری این هَفته غَرِق شُد.",
+     "a": "2ab138131323"
+    },
+    {
+     "fa": "بیش از چهل کشتی در یک روز از تنگه گذشتند.",
+     "r": "bish az chehel kashti dar yek ruz az tange gozashtand.",
+     "en": "More than forty ships passed through the strait in one day.",
+     "faV": "بیش اَز چِهِل کَشتی دَر یِک روز اَز تَنگه گُذَشتَند.",
+     "a": "093fb552a6d4"
+    },
+    {
+     "fa": "آژانس بین‌المللی انرژی چهارصد میلیون بشکه نفت از ذخیره‌های اضطراری آزاد می‌کند.",
+     "r": "āzhāns-e beyn-ol-melali-ye enerzhi chahārsad milyun boshke naft az zakhire-hā-ye ezterāri āzād mi-konad.",
+     "en": "The International Energy Agency is releasing four hundred million barrels of oil from emergency reserves.",
+     "faV": "آژانسِ بَین‌اُلمِلَلیِ اِنِرژی چَهارصَد میلیون بُشکه نَفت اَز ذَخیره‌هایِ اِضطِراری آزاد می‌کُنَد.",
+     "a": "43c674047fad"
+    },
+    {
+     "fa": "کارشناسان می‌گویند قیمت بنزین در بسیاری از کشورها بالا رفته است.",
+     "r": "kārshenāsān mi-guyand gheymat-e benzin dar besyāri az keshvar-hā bālā rafte ast.",
+     "en": "Experts say the price of petrol has gone up in many countries.",
+     "faV": "کارشِناسان می‌گویَند قَیمَتِ بِنزین دَر بِسیاری اَز کِشوَرها بالا رَفته اَست.",
+     "a": "e923255fdddc"
+    }
+   ],
+   "vocab": [
+    {
+     "fa": "نفت",
+     "r": "naft",
+     "en": "oil",
+     "faV": "نَفت",
+     "a": "d3017335cb13"
+    },
+    {
+     "fa": "قیمت",
+     "r": "gheymat",
+     "en": "price",
+     "faV": "قَیمَت",
+     "a": "916161310ef7"
+    },
+    {
+     "fa": "تنگه",
+     "r": "tange",
+     "en": "strait",
+     "faV": "تَنگه",
+     "a": "cc6a4a38902f"
+    },
+    {
+     "fa": "کشتی",
+     "r": "kashti",
+     "en": "ship",
+     "faV": "کَشتی",
+     "a": "5ae5c1f09f5c"
+    },
+    {
+     "fa": "حمله",
+     "r": "hamle",
+     "en": "attack",
+     "faV": "حَمله",
+     "a": "7fb8be8baa92"
+    },
+    {
+     "fa": "غرق شدن",
+     "r": "gharegh shodan",
+     "en": "to sink",
+     "faV": "غَرِق شُدَن",
+     "a": "d70004bb7edc"
+    },
+    {
+     "fa": "بشکه",
+     "r": "boshke",
+     "en": "barrel",
+     "faV": "بُشکه",
+     "a": "083626995098"
+    },
+    {
+     "fa": "ذخیره",
+     "r": "zakhire",
+     "en": "reserve, store",
+     "faV": "ذَخیره",
+     "a": "33fe42a5950f"
+    },
+    {
+     "fa": "اضطراری",
+     "r": "ezterāri",
+     "en": "emergency (adj.)",
+     "faV": "اِضطِراری",
+     "a": "80543b1e290e"
+    },
+    {
+     "fa": "کارشناس",
+     "r": "kārshenās",
+     "en": "expert",
+     "faV": "کارشِناس",
+     "a": "aad983045d8c"
+    }
+   ],
+   "why": "About a fifth of the world's oil normally passes through the Strait of Hormuz, the narrow channel between Iran and Oman. Since the war between the United States, Israel and Iran began in February 2026, attacks on shipping there have pushed oil above $100 a barrel and raised fuel prices worldwide. In Persian the strait is تنگه‌ی هرمز (tange-ye Hormoz); the island of Hormuz gave it its name.",
+   "questions": [
+    {
+     "q": "How many ships were targeted between 5 and 11 October?",
+     "options": [
+      "twelve",
+      "forty",
+      "a hundred"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What is the IEA doing?",
+     "options": [
+      "buying oil",
+      "releasing oil from emergency reserves",
+      "closing the strait"
+     ],
+     "answer": 1
+    }
+   ],
+   "titleV": "نَفت بالایِ ۱۰۰ دُلار ماند؛ حَمله به کَشتی‌ها دَر تَنگه‌یِ هُرمُز اِدامه دارَد",
+   "titleA": "8b970694f509"
+  },
+  {
+   "id": "2026-10-15-iran-us-pause",
+   "date": "2026-10-15",
+   "tag": "World",
+   "level": "B1",
+   "title": "A pause in the fighting, and talks 'at a critical point'",
+   "titleFa": "توقف در جنگ و مذاکره‌هایی «در نقطه‌ی حساس»",
+   "titleR": "tavaghghof dar jang o mozākere-hā-yi «dar noghte-ye hassās»",
+   "source": "Fox News / Critical Threats",
+   "url": "https://www.foxnews.com/live-news/us-iran-war-peace-donald-trump-strait-hormuz-oil-prices-midterms-october-15",
+   "image": "tehran",
+   "sentences": [
+    {
+     "fa": "جنگ میان ایران و آمریکا در ماه فوریه آغاز شد.",
+     "r": "jang miyān-e Irān o Āmrikā dar māh-e fevriye āghāz shod.",
+     "en": "The war between Iran and the United States began in February.",
+     "faV": "جَنگ میانِ ایران و آمریکا دَر ماهِ فِوریه آغاز شُد.",
+     "a": "57e69faff9d4"
+    },
+    {
+     "fa": "این هفته حمله‌های بزرگ متوقف شده است.",
+     "r": "in hafte hamle-hā-ye bozorg motevaghghef shode ast.",
+     "en": "This week the big attacks have stopped.",
+     "faV": "این هَفته حَمله‌هایِ بُزُرگ مُتِوَقِّف شُده اَست.",
+     "a": "44172cbddc36"
+    },
+    {
+     "fa": "دو طرف با هم مذاکره می‌کنند.",
+     "r": "do taraf bā ham mozākere mi-konand.",
+     "en": "The two sides are negotiating with each other.",
+     "faV": "دو طَرَف با هَم مُذاکِره می‌کُنَند.",
+     "a": "f41ac95ec279"
+    },
+    {
+     "fa": "یک سناتور آمریکایی گفت مذاکره‌ها به نقطه‌ی حساسی رسیده‌اند.",
+     "r": "yek senātor-e āmrikāyi goft mozākere-hā be noghte-ye hassās-i reside-and.",
+     "en": "An American senator said the talks have reached a critical point.",
+     "faV": "یِک سِناتورِ آمریکایی گُفت مُذاکِره‌ها به نُقطه‌یِ حَسّاسی رِسیده‌اَند.",
+     "a": "611b4f83f228"
+    },
+    {
+     "fa": "رئیس‌جمهور ایران، مسعود پزشکیان، گفت: «بمب و موشک نمی‌تواند ملتی را به تسلیم وادار کند.»",
+     "r": "ra'is-jomhur-e Irān, Mas'ud Pezeshkiān, goft: «bomb o mushak nemi-tavānad mellat-i rā be taslim vādār konad.»",
+     "en": "Iran's president, Masoud Pezeshkian, said: \"Bombs and missiles cannot force a nation to surrender.\"",
+     "faV": "رَئیس‌جُمهورِ ایران، مَسعود پِزِشکیان، گُفت: «بُمب و موشَک نِمی‌تَوانَد مِلَّتی را به تَسلیم وادار کُنَد.»",
+     "a": "5ab4b27e12e8"
+    },
+    {
+     "fa": "او از مشکل برق، آب و گاز در کشور هم سخن گفت.",
+     "r": "u az moshkel-e bargh, āb o gāz dar keshvar ham sokhan goft.",
+     "en": "He also spoke of the problems with electricity, water and gas in the country.",
+     "faV": "او اَز مُشکِلِ بَرق، آب و گاز دَر کِشوَر هَم سُخَن گُفت.",
+     "a": "a3547bdda116"
+    },
+    {
+     "fa": "آمریکا این هفته تحریم‌های تازه‌ای علیه شانزده فرد و ده شرکت اعلام کرد.",
+     "r": "Āmrikā in hafte tahrim-hā-ye tāze-i aleyh-e shānzdah fard o dah sherkat e'lām kard.",
+     "en": "This week the United States announced new sanctions against sixteen people and ten companies.",
+     "faV": "آمریکا این هَفته تَحریم‌هایِ تازه‌ای عَلَیهِ شانزدَه فَرد و دَه شِرکَت اِعلام کَرد.",
+     "a": "21acf865397c"
+    },
+    {
+     "fa": "مردم در هر دو کشور منتظر خبر صلح هستند.",
+     "r": "mardom dar har do keshvar montazer-e khabar-e solh hastand.",
+     "en": "People in both countries are waiting for news of peace.",
+     "faV": "مَردُم دَر هَر دو کِشوَر مُنتَظِرِ خَبَرِ صُلح هَستَند.",
+     "a": "8a43cc42491e"
+    }
+   ],
+   "vocab": [
+    {
+     "fa": "جنگ",
+     "r": "jang",
+     "en": "war",
+     "faV": "جَنگ",
+     "a": "d4af3f038a72"
+    },
+    {
+     "fa": "صلح",
+     "r": "solh",
+     "en": "peace",
+     "faV": "صُلح",
+     "a": "9d9200f874e1"
+    },
+    {
+     "fa": "مذاکره",
+     "r": "mozākere",
+     "en": "negotiation",
+     "faV": "مُذاکِره",
+     "a": "682e3d9d5005"
+    },
+    {
+     "fa": "متوقف شدن",
+     "r": "motevaghghef shodan",
+     "en": "to stop, be halted",
+     "faV": "مُتِوَقِّف شُدَن",
+     "a": "09924837cb8f"
+    },
+    {
+     "fa": "رئیس‌جمهور",
+     "r": "ra'is-jomhur",
+     "en": "president",
+     "faV": "رَئیس‌جُمهور",
+     "a": "2d2b077e0424"
+    },
+    {
+     "fa": "ملت",
+     "r": "mellat",
+     "en": "nation",
+     "faV": "مِلَّت",
+     "a": "693f6ebc05f4"
+    },
+    {
+     "fa": "تسلیم",
+     "r": "taslim",
+     "en": "surrender",
+     "faV": "تَسلیم",
+     "a": "fea1f44db970"
+    },
+    {
+     "fa": "تحریم",
+     "r": "tahrim",
+     "en": "sanction",
+     "faV": "تَحریم",
+     "a": "fb709e514074"
+    },
+    {
+     "fa": "برق",
+     "r": "bargh",
+     "en": "electricity",
+     "faV": "بَرق",
+     "a": "65941b80cbb1"
+    },
+    {
+     "fa": "منتظر",
+     "r": "montazer",
+     "en": "waiting (for)",
+     "faV": "مُنتَظِر",
+     "a": "c9e83af2729d"
+    }
+   ],
+   "why": "The war that began on 28 February 2026 has killed Iran's supreme leader and many officials and has disrupted electricity, water and fuel supplies inside Iran. In mid-October the United States paused its strikes while the two sides negotiate; US officials have said that strikes could resume. This story uses the formal news register – notice the passive-like compound verbs متوقف شدن and وادار کردن.",
+   "questions": [
+    {
+     "q": "When did the war begin?",
+     "options": [
+      "in February",
+      "in October",
+      "last year"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What did President Pezeshkian say about bombs and missiles?",
+     "options": [
+      "they will bring peace",
+      "they cannot force a nation to surrender",
+      "they are not dangerous"
+     ],
+     "answer": 1
+    }
+   ],
+   "titleV": "تَوَقُّف دَر جَنگ و مُذاکِره‌هایی «دَر نُقطه‌یِ حَسّاس»",
+   "titleA": "79f202d5e5b0"
+  },
+  {
+   "id": "2026-10-16-minab-report",
+   "date": "2026-10-16",
+   "tag": "World",
+   "level": "B1",
+   "title": "Pentagon delays its report on the Minab school strike",
+   "titleFa": "پنتاگون گزارش حمله به مدرسه‌ی میناب را به تأخیر می‌اندازد",
+   "titleR": "Pentāgon gozāresh-e hamle be madrese-ye Mināb rā be ta'khir mi-andāzad",
+   "source": "Democracy Now / Bloomberg",
+   "url": "https://www.democracynow.org/2026/10/16/headlines",
+   "image": "iran-map",
+   "sentences": [
+    {
+     "fa": "در روزهای اول جنگ، یک مدرسه در شهر میناب در جنوب ایران هدف حمله قرار گرفت.",
+     "r": "dar ruz-hā-ye avval-e jang, yek madrese dar shahr-e Mināb dar jonub-e Irān hadaf-e hamle gharār gereft.",
+     "en": "In the first days of the war, a school in the city of Minab in southern Iran was hit by a strike.",
+     "faV": "دَر روزهایِ اَوَّلِ جَنگ، یِک مَدرِسه دَر شَهرِ میناب دَر جُنوبِ ایران هَدَفِ حَمله قَرار گِرِفت.",
+     "a": "2b2b5b513fb2"
+    },
+    {
+     "fa": "دست‌کم ۱۵۶ نفر کشته شدند.",
+     "r": "dast-e-kam sad-o-panjāh-o-shesh nafar koshte shodand.",
+     "en": "At least 156 people were killed.",
+     "faV": "دَستِ‌کَم ۱۵۶ نَفَر کُشته شُدَند.",
+     "a": "b775e6f23edd"
+    },
+    {
+     "fa": "در میان آن‌ها ۱۲۰ کودک و ۲۶ معلم بودند.",
+     "r": "dar miyān-e ān-hā sad-o-bist kudak o bist-o-shesh mo'allem budand.",
+     "en": "Among them were 120 children and 26 teachers.",
+     "faV": "دَر میانِ آن‌ها ۱۲۰ کودَک و ۲۶ مُعَلِّم بودَند.",
+     "a": "8af1f8549880"
+    },
+    {
+     "fa": "وزارت دفاع آمریکا درباره‌ی این حمله گزارشی نوشته است.",
+     "r": "vezārat-e defā'-e Āmrikā dar-bāre-ye in hamle gozāresh-i neveshte ast.",
+     "en": "The US Department of Defense has written a report about this strike.",
+     "faV": "وِزارَتِ دِفاعِ آمریکا دَرباره‌یِ این حَمله گُزارِشی نِوِشته اَست.",
+     "a": "1fdf49acb6ca"
+    },
+    {
+     "fa": "به گزارش بلومبرگ، این گزارش تا بعد از انتخابات نوامبر منتشر نمی‌شود.",
+     "r": "be gozāresh-e Bloomberg, in gozāresh tā ba'd az entekhābāt-e novāmbr montasher nemi-shavad.",
+     "en": "According to Bloomberg, the report will not be published until after the November elections.",
+     "faV": "به گُزارِشِ بلُومبِرگ، این گُزارِش تا بَعد اَز اِنتِخاباتِ نُوامبر مُنتَشِر نِمی‌شَوَد.",
+     "a": "ada554cbcfde"
+    },
+    {
+     "fa": "خانواده‌های قربانیان خواهان حقیقت هستند.",
+     "r": "khānevāde-hā-ye ghorbāniyān khāhān-e haghighat hastand.",
+     "en": "The victims' families want the truth.",
+     "faV": "خانِواده‌هایِ قُربانیان خواهانِ حَقیقَت هَستَند.",
+     "a": "09b7bc4b2774"
+    },
+    {
+     "fa": "میناب شهری کوچک نزدیک بندرعباس است.",
+     "r": "Mināb shahr-i kuchak nazdik-e Bandar-abbās ast.",
+     "en": "Minab is a small city near Bandar Abbas.",
+     "faV": "میناب شَهری کوچَک نَزدیکِ بَندَرعَبّاس اَست.",
+     "a": "f8309e157627"
+    }
+   ],
+   "vocab": [
+    {
+     "fa": "مدرسه",
+     "r": "madrese",
+     "en": "school",
+     "faV": "مَدرِسه",
+     "a": "f8d376cd80f6"
+    },
+    {
+     "fa": "گزارش",
+     "r": "gozāresh",
+     "en": "report",
+     "faV": "گُزارِش",
+     "a": "b4e47da7106f"
+    },
+    {
+     "fa": "کشته شدن",
+     "r": "koshte shodan",
+     "en": "to be killed",
+     "faV": "کُشته شُدَن",
+     "a": "4ea526709063"
+    },
+    {
+     "fa": "کودک",
+     "r": "kudak",
+     "en": "child (formal)",
+     "faV": "کودَک",
+     "a": "c6626fbefa1f"
+    },
+    {
+     "fa": "معلم",
+     "r": "mo'allem",
+     "en": "teacher",
+     "faV": "مُعَلِّم",
+     "a": "63d83fae3594"
+    },
+    {
+     "fa": "وزارت دفاع",
+     "r": "vezārat-e defā'",
+     "en": "ministry of defence",
+     "faV": "وِزارَتِ دِفاع",
+     "a": "245b32082b5b"
+    },
+    {
+     "fa": "انتخابات",
+     "r": "entekhābāt",
+     "en": "elections",
+     "faV": "اِنتِخابات",
+     "a": "2179ae4f3433"
+    },
+    {
+     "fa": "منتشر شدن",
+     "r": "montasher shodan",
+     "en": "to be published",
+     "faV": "مُنتَشِر شُدَن",
+     "a": "96f3a437f0f8"
+    },
+    {
+     "fa": "قربانی",
+     "r": "ghorbāni",
+     "en": "victim",
+     "faV": "قُربانی",
+     "a": "cc23c36a2f05"
+    },
+    {
+     "fa": "حقیقت",
+     "r": "haghighat",
+     "en": "truth",
+     "faV": "حَقیقَت",
+     "a": "a4b167bd6712"
+    }
+   ],
+   "why": "The strike on a girls' school in Minab, Hormozgan province, on the first day of the war was one of the deadliest single events of the conflict. Iranian media reported about 180 dead at the time; the figure of 156, including 120 children, is from the reporting on the Pentagon's internal review. This story shows how Persian news writes numbers (دست‌کم 'at least', در میان آن‌ها 'among them') and the passive with شدن.",
+   "questions": [
+    {
+     "q": "Where is Minab?",
+     "options": [
+      "in northern Iran",
+      "in southern Iran, near Bandar Abbas",
+      "in Tehran"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "When will the report be published, according to Bloomberg?",
+     "options": [
+      "this week",
+      "not until after the November elections",
+      "never"
+     ],
+     "answer": 1
+    }
+   ],
+   "titleV": "پِنتاگون گُزارِشِ حَمله به مَدرِسه‌یِ میناب را به تَأخیر می‌اَندازَد",
+   "titleA": "047dc32784f5"
+  },
+  {
+   "id": "2026-10-15-houthi-saudi",
+   "date": "2026-10-15",
+   "tag": "World",
+   "level": "B1",
+   "title": "Houthi missiles hit Aden and Saudi airports",
+   "titleFa": "موشک‌های حوثی‌ها عدن و فرودگاه‌های سعودی را هدف گرفتند",
+   "titleR": "mushak-hā-ye Husi-hā Adan o forudgāh-hā-ye So'udi rā hadaf gereftand",
+   "source": "Critical Threats / Democracy Now",
+   "url": "https://www.criticalthreats.org/analysis/iran-update-october-15-2026",
+   "image": "persian-gulf",
+   "sentences": [
+    {
+     "fa": "جنگ در یمن دوباره شدید شده است.",
+     "r": "jang dar Yaman dobāre shadid shode ast.",
+     "en": "The war in Yemen has become intense again.",
+     "faV": "جَنگ دَر یَمَن دوباره شَدید شُده اَست.",
+     "a": "d972cc9d30aa"
+    },
+    {
+     "fa": "حوثی‌ها روز پنج‌شنبه کاخ ریاست‌جمهوری در شهر عدن را با موشک زدند.",
+     "r": "Husi-hā ruz-e panj-shanbe kākh-e riyāsat-jomhuri dar shahr-e Adan rā bā mushak zadand.",
+     "en": "On Thursday the Houthis struck the presidential palace in the city of Aden with missiles.",
+     "faV": "حوثی‌ها روزِ پَنج‌شَنبه کاخِ ریاسَت‌جُمهوری دَر شَهرِ عَدَن را با موشَک زَدَند.",
+     "a": "28243acc2924"
+    },
+    {
+     "fa": "پنج نفر کشته شدند، اما نخست‌وزیر یمن آسیب ندید.",
+     "r": "panj nafar koshte shodand, ammā nokhost-vazir-e Yaman āsib na-did.",
+     "en": "Five people were killed, but Yemen's prime minister was not hurt.",
+     "faV": "پَنج نَفَر کُشته شُدَند، اَمّا نُخُست‌وَزیرِ یَمَن آسیب نَدید.",
+     "a": "0e359e0becbf"
+    },
+    {
+     "fa": "آن‌ها از اول اکتبر بیست بار به فرودگاه ریاض حمله کرده‌اند.",
+     "r": "ān-hā az avval-e oktobr bist bār be forudgāh-e Riyāz hamle karde-and.",
+     "en": "Since the first of October they have attacked Riyadh airport twenty times.",
+     "faV": "آن‌ها اَز اَوَّلِ اُکتُبر بیست بار به فُرودگاهِ ریاض حَمله کَرده‌اَند.",
+     "a": "0526ddebef6e"
+    },
+    {
+     "fa": "مقام‌های سعودی می‌گویند هفده نفر کشته و بیش از سیصد نفر زخمی شده‌اند.",
+     "r": "maghām-hā-ye So'udi mi-guyand hefdah nafar koshte o bish az sisad nafar zakhmi shode-and.",
+     "en": "Saudi officials say seventeen people have been killed and more than three hundred injured.",
+     "faV": "مَقام‌هایِ سُعودی می‌گویَند هِفدَه نَفَر کُشته و بیش اَز سیصَد نَفَر زَخمی شُده‌اَند.",
+     "a": "7dc025f5e8ca"
+    },
+    {
+     "fa": "فرانسه برای دفاع از تأسیسات نفتی سعودی نیرو می‌فرستد.",
+     "r": "Farānse barā-ye defā' az ta'sisāt-e nafti-ye So'udi niru mi-ferestad.",
+     "en": "France is sending forces to defend Saudi oil installations.",
+     "faV": "فَرانسه بَرایِ دِفاع اَز تَأسیساتِ نَفتیِ سُعودی نیرو می‌فِرِستَد.",
+     "a": "d3dea8a71a10"
+    },
+    {
+     "fa": "نشست اتحادیه‌ی اروپا و کشورهای خلیج در ریاض به تعویق افتاد.",
+     "r": "neshast-e ettehādiye-ye Orupā o keshvar-hā-ye Khalij dar Riyāz be ta'vigh oftād.",
+     "en": "The summit of the European Union and the Gulf countries in Riyadh was postponed.",
+     "faV": "نِشَستِ اِتِّحادیه‌یِ اُروپا و کِشوَرهایِ خَلیج دَر ریاض به تَعویق اُفتاد.",
+     "a": "c573cd10e5d6"
+    }
+   ],
+   "vocab": [
+    {
+     "fa": "موشک",
+     "r": "mushak",
+     "en": "missile",
+     "faV": "موشَک",
+     "a": "9d8bbe377dd7"
+    },
+    {
+     "fa": "فرودگاه",
+     "r": "forudgāh",
+     "en": "airport",
+     "faV": "فُرودگاه",
+     "a": "6dc58197d442"
+    },
+    {
+     "fa": "کاخ",
+     "r": "kākh",
+     "en": "palace",
+     "faV": "کاخ",
+     "a": "882ce17e5b40"
+    },
+    {
+     "fa": "نخست‌وزیر",
+     "r": "nokhost-vazir",
+     "en": "prime minister",
+     "faV": "نُخُست‌وَزیر",
+     "a": "059476519c68"
+    },
+    {
+     "fa": "زخمی",
+     "r": "zakhmi",
+     "en": "injured",
+     "faV": "زَخمی",
+     "a": "066ac5002e06"
+    },
+    {
+     "fa": "دفاع",
+     "r": "defā'",
+     "en": "defence",
+     "faV": "دِفاع",
+     "a": "1de7accb6bb0"
+    },
+    {
+     "fa": "تأسیسات",
+     "r": "ta'sisāt",
+     "en": "installations, facilities",
+     "faV": "تَأسیسات",
+     "a": "dd4fb6c75668"
+    },
+    {
+     "fa": "نشست",
+     "r": "neshast",
+     "en": "summit, meeting",
+     "faV": "نِشَست",
+     "a": "91b730370fef"
+    },
+    {
+     "fa": "به تعویق افتادن",
+     "r": "be ta'vigh oftādan",
+     "en": "to be postponed",
+     "faV": "به تَعویق اُفتادَن",
+     "a": "c2d0d907481c"
+    }
+   ],
+   "why": "The Houthis (انصارالله), who control north-western Yemen and are allied with Iran, have been fighting Saudi Arabia and Yemen's internationally recognised government for more than a decade. The current wave of attacks is part of the wider regional war. Persian names the Houthis حوثی‌ها and Saudi Arabia عربستان سعودی (Arabestān-e So'udi).",
+   "questions": [
+    {
+     "q": "What was hit in Aden?",
+     "options": [
+      "the airport",
+      "the presidential palace",
+      "a hospital"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How many times has Riyadh airport been attacked since 1 October?",
+     "options": [
+      "five",
+      "twenty",
+      "three hundred"
+     ],
+     "answer": 1
+    }
+   ],
+   "titleV": "موشَک‌هایِ حوثی‌ها عَدَن و فُرودگاه‌هایِ سُعودی را هَدَف گِرِفتَند",
+   "titleA": "d66ed8111fc0"
+  },
+  {
+   "id": "2026-10-15-student-protests",
+   "date": "2026-10-15",
+   "tag": "World",
+   "level": "A2",
+   "title": "Students protest in France, Greece, Albania and Argentina",
+   "titleFa": "دانشجویان در فرانسه، یونان، آلبانی و آرژانتین تظاهرات کردند",
+   "titleR": "dāneshju-yān dar Farānse, Yunān, Ālbāni o Ārzhāntin tazāhorāt kardand",
+   "source": "Democracy Now",
+   "url": "https://www.democracynow.org/2026/10/16/headlines",
+   "image": "university-of-tehran",
+   "sentences": [
+    {
+     "fa": "این هفته دانشجویان در چند کشور به خیابان آمدند.",
+     "r": "in hafte dāneshju-yān dar chand keshvar be khiyābān āmadand.",
+     "en": "This week students came out onto the streets in several countries.",
+     "faV": "این هَفته دانِشجویان دَر چَند کِشوَر به خیابان آمَدَند.",
+     "a": "0d01eca7e10f"
+    },
+    {
+     "fa": "در فرانسه، اعتراض‌ها به خاطر کلاس‌های پر و کم بودن معلم شروع شد.",
+     "r": "dar Farānse, e'terāz-hā be khāter-e kelās-hā-ye por o kam budan-e mo'allem shoru' shod.",
+     "en": "In France, the protests started because of crowded classes and a shortage of teachers.",
+     "faV": "دَر فَرانسه، اِعتِراض‌ها به خاطِرِ کِلاس‌هایِ پُر و کَم بودَنِ مُعَلِّم شُروع شُد.",
+     "a": "dd3a2c311cf1"
+    },
+    {
+     "fa": "بعد، اعتراض‌ها به یونان رسید.",
+     "r": "ba'd, e'terāz-hā be Yunān resid.",
+     "en": "Then the protests reached Greece.",
+     "faV": "بَعد، اِعتِراض‌ها به یونان رِسید.",
+     "a": "0863ea99a4b9"
+    },
+    {
+     "fa": "در تیرانا، پایتخت آلبانی، مردم سه روز با پلیس درگیر شدند.",
+     "r": "dar Tirānā, pāytakht-e Ālbāni, mardom se ruz bā polis dargir shodand.",
+     "en": "In Tirana, the capital of Albania, people clashed with the police for three days.",
+     "faV": "دَر تیرانا، پایتَختِ آلبانی، مَردُم سه روز با پُلیس دَرگیر شُدَند.",
+     "a": "e45fdb74d724"
+    },
+    {
+     "fa": "آن‌ها می‌خواهند نخست‌وزیر استعفا بدهد.",
+     "r": "ān-hā mi-khāhand nokhost-vazir este'fā bedahad.",
+     "en": "They want the prime minister to resign.",
+     "faV": "آن‌ها می‌خواهَند نُخُست‌وَزیر اِستِعفا بِدَهَد.",
+     "a": "681bb3c8d3ef"
+    },
+    {
+     "fa": "در بوئنوس‌آیرس هم هزاران دانشجو راهپیمایی کردند.",
+     "r": "dar Bu'enos-Āyres ham hezārān dāneshju rāhpeymāyi kardand.",
+     "en": "In Buenos Aires too, thousands of students marched.",
+     "faV": "دَر بوئِنوس‌آیرِس هَم هِزاران دانِشجو راهپَیمایی کَردَند.",
+     "a": "7be19ffba657"
+    },
+    {
+     "fa": "آن‌ها با کم شدن بودجه‌ی دانشگاه‌ها مخالف هستند.",
+     "r": "ān-hā bā kam shodan-e budje-ye dāneshgāh-hā mokhālef hastand.",
+     "en": "They are against the cuts to the universities' budget.",
+     "faV": "آن‌ها با کَم شُدَنِ بودجه‌یِ دانِشگاه‌ها مُخالِف هَستَند.",
+     "a": "860e2b6e0906"
+    }
+   ],
+   "vocab": [
+    {
+     "fa": "دانشجو",
+     "r": "dāneshju",
+     "en": "university student",
+     "faV": "دانِشجو",
+     "a": "0cf8e25653d0"
+    },
+    {
+     "fa": "تظاهرات",
+     "r": "tazāhorāt",
+     "en": "demonstration",
+     "faV": "تَظاهُرات",
+     "a": "2ca305f6a6ea"
+    },
+    {
+     "fa": "اعتراض",
+     "r": "e'terāz",
+     "en": "protest",
+     "faV": "اِعتِراض",
+     "a": "e79754536802"
+    },
+    {
+     "fa": "خیابان",
+     "r": "khiyābān",
+     "en": "street",
+     "faV": "خیابان",
+     "a": "3807383806c3"
+    },
+    {
+     "fa": "پایتخت",
+     "r": "pāytakht",
+     "en": "capital city",
+     "faV": "پایتَخت",
+     "a": "cc64448038c2"
+    },
+    {
+     "fa": "استعفا دادن",
+     "r": "este'fā dādan",
+     "en": "to resign",
+     "faV": "اِستِعفا دادَن",
+     "a": "54223a493bd0"
+    },
+    {
+     "fa": "راهپیمایی",
+     "r": "rāhpeymāyi",
+     "en": "march",
+     "faV": "راهپَیمایی",
+     "a": "3e35ef0624dc"
+    },
+    {
+     "fa": "بودجه",
+     "r": "budje",
+     "en": "budget",
+     "faV": "بودجه",
+     "a": "0eda6e004465"
+    },
+    {
+     "fa": "مخالف",
+     "r": "mokhālef",
+     "en": "opposed, against",
+     "faV": "مُخالِف",
+     "a": "5e9b02ea48cf"
+    }
+   ],
+   "why": "A wave of student protests that began in France in early October over classroom conditions spread to Greece and Albania, where it merged with anger at the government and a planned luxury resort on the southern coast. In Argentina, students marched against President Javier Milei's education cuts. Persian distinguishes دانش‌آموز (school pupil) from دانشجو (university student).",
+   "questions": [
+    {
+     "q": "Why did the protests start in France?",
+     "options": [
+      "because of crowded classes and too few teachers",
+      "because of oil prices",
+      "because of a football match"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What do the protesters in Tirana want?",
+     "options": [
+      "new schools",
+      "the prime minister to resign",
+      "lower taxes"
+     ],
+     "answer": 1
+    }
+   ],
+   "titleV": "دانِشجویان دَر فَرانسه، یونان، آلبانی و آرژانتین تَظاهُرات کَردَند",
+   "titleA": "9ad98025d654"
+  },
+  {
+   "id": "2026-10-12-nobel-week",
+   "date": "2026-10-12",
+   "tag": "Culture",
+   "level": "A2",
+   "title": "Nobel week: a Canadian poet and a South African judge among the winners",
+   "titleFa": "هفته‌ی نوبل: یک شاعر کانادایی و یک قاضی آفریقای جنوبی میان برندگان",
+   "titleR": "hafte-ye Nobel: yek shā'er-e kānādāyi o yek ghāzi-ye Āfrighā-ye Jonubi miyān-e barandegān",
+   "source": "Britannica / NobelPrize.org",
+   "url": "https://www.britannica.com/topic/2026-Nobel-Prize-winners",
+   "image": "divan-hafez",
+   "sentences": [
+    {
+     "fa": "جایزه‌های نوبل ۲۰۲۶ در هفته‌ی اول اکتبر اعلام شدند.",
+     "r": "jāyeze-hā-ye Nobel-e do-hezār-o-bist-o-shesh dar hafte-ye avval-e oktobr e'lām shodand.",
+     "en": "The 2026 Nobel Prizes were announced in the first week of October.",
+     "faV": "جایِزه‌هایِ نوبِلِ ۲۰۲۶ دَر هَفته‌یِ اَوَّلِ اُکتُبر اِعلام شُدَند.",
+     "a": "2fd7eb49d79b"
+    },
+    {
+     "fa": "آن کارسون، شاعر کانادایی، جایزه‌ی ادبیات را گرفت.",
+     "r": "Ān Kārson, shā'er-e kānādāyi, jāyeze-ye adabiyāt rā gereft.",
+     "en": "Anne Carson, the Canadian poet, won the literature prize.",
+     "faV": "آن کارسون، شاعِرِ کانادایی، جایِزه‌یِ اَدَبیات را گِرِفت.",
+     "a": "ebc5e3552904"
+    },
+    {
+     "fa": "او شعرهای تازه‌ای با نگاه به ادبیات یونان باستان می‌نویسد.",
+     "r": "u she'r-hā-ye tāze-i bā negāh be adabiyāt-e Yunān-e bāstān mi-nevisad.",
+     "en": "She writes new poems that look back to the literature of ancient Greece.",
+     "faV": "او شِعرهایِ تازه‌ای با نِگاه به اَدَبیاتِ یونانِ باستان می‌نِویسَد.",
+     "a": "939113629f13"
+    },
+    {
+     "fa": "جایزه‌ی صلح به ناوی پیلای، قاضی آفریقای جنوبی، رسید.",
+     "r": "jāyeze-ye solh be Nāvi Pilāy, ghāzi-ye Āfrighā-ye Jonubi, resid.",
+     "en": "The peace prize went to Navi Pillay, the South African judge.",
+     "faV": "جایِزه‌یِ صُلح به ناوی پیلای، قاضیِ آفریقایِ جُنوبی، رِسید.",
+     "a": "04a906bcb674"
+    },
+    {
+     "fa": "جایزه‌ی پزشکی برای روشی است که با نور، سلول‌های مغز را روشن و خاموش می‌کند.",
+     "r": "jāyeze-ye pezeshki barā-ye ravesh-i ast ke bā nur, sellul-hā-ye maghz rā roshan o khāmush mi-konad.",
+     "en": "The medicine prize is for a method that switches brain cells on and off with light.",
+     "faV": "جایِزه‌یِ پِزِشکی بَرایِ رَوِشی اَست که با نور، سِلّول‌هایِ مَغز را روشَن و خاموش می‌کُنَد.",
+     "a": "746e01d15f0d"
+    },
+    {
+     "fa": "جایزه‌ی فیزیک به فرانسیس هالزن داده شد که ذره‌های نوترینو را در یخ قطب جنوب پیدا کرد.",
+     "r": "jāyeze-ye fizik be Frānsis Hālzen dāde shod ke zarre-hā-ye notrino rā dar yakh-e ghotb-e jonub peydā kard.",
+     "en": "The physics prize was given to Francis Halzen, who found neutrino particles in the ice of the South Pole.",
+     "faV": "جایِزه‌یِ فیزیک به فرانسیس هالزِن داده شُد که ذَرّه‌هایِ نوترینو را دَر یَخِ قُطبِ جُنوب پَیدا کَرد.",
+     "a": "fcba32ec5702"
+    },
+    {
+     "fa": "دو دانشمند از فرانسه و ژاپن جایزه‌ی شیمی را گرفتند.",
+     "r": "do dāneshmand az Farānse o Zhāpon jāyeze-ye shimi rā gereftand.",
+     "en": "Two scientists from France and Japan won the chemistry prize.",
+     "faV": "دو دانِشمَند اَز فَرانسه و ژاپُن جایِزه‌یِ شیمی را گِرِفتَند.",
+     "a": "4e6d737843a8"
+    },
+    {
+     "fa": "برندگان در ماه دسامبر جایزه‌های خود را در استکهلم و اسلو می‌گیرند.",
+     "r": "barandegān dar māh-e desāmbr jāyeze-hā-ye khod rā dar Estok-holm o Oslo mi-girand.",
+     "en": "The winners receive their prizes in Stockholm and Oslo in December.",
+     "faV": "بَرَندِگان دَر ماهِ دِسامبر جایِزه‌هایِ خود را دَر اِستُکهُلم و اُسلو می‌گیرَند.",
+     "a": "af6d2ff8b142"
+    }
+   ],
+   "vocab": [
+    {
+     "fa": "جایزه",
+     "r": "jāyeze",
+     "en": "prize",
+     "faV": "جایِزه",
+     "a": "0bb457cf4883"
+    },
+    {
+     "fa": "برنده",
+     "r": "barande",
+     "en": "winner",
+     "faV": "بَرَنده",
+     "a": "221163c78d58"
+    },
+    {
+     "fa": "شاعر",
+     "r": "shā'er",
+     "en": "poet",
+     "faV": "شاعِر",
+     "a": "45d6a2ecdeca"
+    },
+    {
+     "fa": "ادبیات",
+     "r": "adabiyāt",
+     "en": "literature",
+     "faV": "اَدَبیات",
+     "a": "f826cd764024"
+    },
+    {
+     "fa": "قاضی",
+     "r": "ghāzi",
+     "en": "judge",
+     "faV": "قاضی",
+     "a": "97b1d5a52c23"
+    },
+    {
+     "fa": "پزشکی",
+     "r": "pezeshki",
+     "en": "medicine (the field)",
+     "faV": "پِزِشکی",
+     "a": "4112e80ddf1f"
+    },
+    {
+     "fa": "سلول",
+     "r": "sellul",
+     "en": "cell",
+     "faV": "سِلّول",
+     "a": "2327b0d77c7a"
+    },
+    {
+     "fa": "مغز",
+     "r": "maghz",
+     "en": "brain",
+     "faV": "مَغز",
+     "a": "f7d98601c564"
+    },
+    {
+     "fa": "دانشمند",
+     "r": "dāneshmand",
+     "en": "scientist",
+     "faV": "دانِشمَند",
+     "a": "f46b05901811"
+    },
+    {
+     "fa": "اعلام شدن",
+     "r": "e'lām shodan",
+     "en": "to be announced",
+     "faV": "اِعلام شُدَن",
+     "a": "8f26ef22cd7a"
+    }
+   ],
+   "why": "The 2026 laureates: Karl Deisseroth, Peter Hegemann and Georg Nagel (medicine, optogenetics); Francis Halzen (physics, the IceCube neutrino observatory); Henri Kagan and Kenso Soai (chemistry, asymmetric synthesis); Anne Carson (literature); Navi Pillay (peace); Robert Hall and Michael Woodford (economics). Persian borrows most of these words: فیزیک, شیمی, نوبل – but 'poet' is the Arabic-derived شاعر and 'literature' is ادبیات.",
+   "questions": [
+    {
+     "q": "Who won the literature prize?",
+     "options": [
+      "Navi Pillay",
+      "Anne Carson",
+      "Francis Halzen"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What does the medicine prize honour?",
+     "options": [
+      "a new vaccine",
+      "switching brain cells on and off with light",
+      "a heart operation"
+     ],
+     "answer": 1
+    }
+   ],
+   "titleV": "هَفته‌یِ نوبِل: یِک شاعِرِ کانادایی و یِک قاضیِ آفریقایِ جُنوبی میانِ بَرَندِگان",
+   "titleA": "816714075291"
+  },
+  {
+   "id": "2026-10-16-spyware-ads",
+   "date": "2026-10-16",
+   "tag": "Technology",
+   "level": "B1",
+   "title": "Spyware hidden in online ads targeted journalists",
+   "titleFa": "جاسوس‌افزار پنهان در تبلیغ‌های اینترنتی خبرنگاران را هدف گرفت",
+   "titleR": "jāsus-afzār-e penhān dar tabligh-hā-ye interneti khabarnegārān rā hadaf gereft",
+   "source": "Democracy Now / Al Jazeera",
+   "url": "https://www.democracynow.org/2026/10/16/headlines",
+   "image": "tehran-metro",
+   "sentences": [
+    {
+     "fa": "شبکه‌ی الجزیره می‌گوید رایانه‌های خبرنگارانش با یک جاسوس‌افزار آلوده شده‌اند.",
+     "r": "shabake-ye Al-jazire mi-guyad rāyāne-hā-ye khabarnegārān-ash bā yek jāsus-afzār ālude shode-and.",
+     "en": "The Al Jazeera network says its journalists' computers were infected with a piece of spyware.",
+     "faV": "شَبَکه‌یِ اَلجَزیره می‌گویَد رایانه‌هایِ خَبَرنِگارانَش با یِک جاسوس‌اَفزار آلوده شُده‌اَند.",
+     "a": "87391d07cd91"
+    },
+    {
+     "fa": "این بدافزار از راه تبلیغ‌های اینترنتی وارد دستگاه‌ها شد.",
+     "r": "in bad-afzār az rāh-e tabligh-hā-ye interneti vāred-e dastgāh-hā shod.",
+     "en": "This malware entered the devices through online advertisements.",
+     "faV": "این بَداَفزار اَز راهِ تَبلیغ‌هایِ اینتِرنِتی وارِدِ دَستگاه‌ها شُد.",
+     "a": "59b712c34b65"
+    },
+    {
+     "fa": "کاربر لازم نبود روی چیزی کلیک کند.",
+     "r": "kārbar lāzem na-bud ru-ye chiz-i kelik konad.",
+     "en": "The user did not need to click on anything.",
+     "faV": "کاربَر لازِم نَبود رویِ چیزی کِلیک کُنَد.",
+     "a": "e7b163c5a20a"
+    },
+    {
+     "fa": "پژوهشگران «سیتیزن لب» در کانادا این یافته را تأیید کردند.",
+     "r": "pazhuheshgarān-e «Sitizen Lab» dar Kānādā in yāfte rā ta'yid kardand.",
+     "en": "Researchers at Citizen Lab in Canada confirmed this finding.",
+     "faV": "پَژوهِشگَرانِ «سیتیزِن لَب» دَر کانادا این یافته را تَأیید کَردَند.",
+     "a": "a9f1636aa156"
+    },
+    {
+     "fa": "آن‌ها می‌گویند این نرم‌افزار ساخت یک شرکت اسرائیلی است.",
+     "r": "ān-hā mi-guyand in narm-afzār sākht-e yek sherkat-e esrā'ili ast.",
+     "en": "They say the software was made by an Israeli company.",
+     "faV": "آن‌ها می‌گویَند این نَرم‌اَفزار ساختِ یِک شِرکَتِ اِسرائیلی اَست.",
+     "a": "365145c85fcb"
+    },
+    {
+     "fa": "الجزیره این حمله را «حمله به آزادی مطبوعات» خواند.",
+     "r": "Al-jazire in hamle rā «hamle be āzādi-ye matbu'āt» khānd.",
+     "en": "Al Jazeera called the attack \"an assault on press freedom\".",
+     "faV": "اَلجَزیره این حَمله را «حَمله به آزادیِ مَطبوعات» خواند.",
+     "a": "f25130ce8622"
+    },
+    {
+     "fa": "کارشناسان به همه توصیه می‌کنند نرم‌افزارهای خود را به‌روز کنند.",
+     "r": "kārshenāsān be hame towsiye mi-konand narm-afzār-hā-ye khod rā be-ruz konand.",
+     "en": "Experts advise everyone to update their software.",
+     "faV": "کارشِناسان به هَمه تَوصیه می‌کُنَند نَرم‌اَفزارهایِ خود را به‌روز کُنَند.",
+     "a": "e250301339e9"
+    }
+   ],
+   "vocab": [
+    {
+     "fa": "جاسوس‌افزار",
+     "r": "jāsus-afzār",
+     "en": "spyware",
+     "faV": "جاسوس‌اَفزار",
+     "a": "df33aff43a8c"
+    },
+    {
+     "fa": "بدافزار",
+     "r": "bad-afzār",
+     "en": "malware",
+     "faV": "بَداَفزار",
+     "a": "bfc0a748facb"
+    },
+    {
+     "fa": "نرم‌افزار",
+     "r": "narm-afzār",
+     "en": "software",
+     "faV": "نَرم‌اَفزار",
+     "a": "a67b8f997c8f"
+    },
+    {
+     "fa": "خبرنگار",
+     "r": "khabarnegār",
+     "en": "journalist",
+     "faV": "خَبَرنِگار",
+     "a": "58ffdcfa3572"
+    },
+    {
+     "fa": "تبلیغ",
+     "r": "tabligh",
+     "en": "advertisement",
+     "faV": "تَبلیغ",
+     "a": "baabc1d1aa5f"
+    },
+    {
+     "fa": "رایانه",
+     "r": "rāyāne",
+     "en": "computer",
+     "faV": "رایانه",
+     "a": "1518a51beecd"
+    },
+    {
+     "fa": "کاربر",
+     "r": "kārbar",
+     "en": "user",
+     "faV": "کاربَر",
+     "a": "b2dc8671a7b3"
+    },
+    {
+     "fa": "آزادی مطبوعات",
+     "r": "āzādi-ye matbu'āt",
+     "en": "press freedom",
+     "faV": "آزادیِ مَطبوعات",
+     "a": "a7123e809f9f"
+    },
+    {
+     "fa": "به‌روز کردن",
+     "r": "be-ruz kardan",
+     "en": "to update",
+     "faV": "به‌روز کَردَن",
+     "a": "82fa7875172a"
+    }
+   ],
+   "why": "Persian builds its computer vocabulary with the suffix -افزار ('ware'): نرم‌افزار software (literally 'soft-ware'), سخت‌افزار hardware, بدافزار malware, جاسوس‌افزار spyware. Many everyday speakers still say کامپیوتر rather than the official رایانه. The story: Al Jazeera and Citizen Lab reported that zero-click spyware linked to the Israeli firm Candiru reached journalists' devices through targeted ads.",
+   "questions": [
+    {
+     "q": "How did the spyware get onto the devices?",
+     "options": [
+      "through a USB stick",
+      "through online advertisements",
+      "through a phone call"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What does نرم‌افزار mean?",
+     "options": [
+      "hardware",
+      "software",
+      "network"
+     ],
+     "answer": 1
+    }
+   ],
+   "titleV": "جاسوس‌اَفزارِ پِنهان دَر تَبلیغ‌هایِ اینتِرنِتی خَبَرنِگاران را هَدَف گِرِفت",
+   "titleA": "4b4c2ef4835b"
+  },
+  {
+   "id": "2026-10-10-afi-fest-iranian-films",
+   "date": "2026-10-10",
+   "tag": "Culture",
+   "level": "A2",
+   "title": "Three Iranian films at AFI Fest in Hollywood",
+   "titleFa": "سه فیلم ایرانی در جشنواره‌ی فیلم ای‌اف‌آی در هالیوود",
+   "titleR": "se film-e irāni dar jashnvāre-ye film-e ey-ef-āy dar Hālivud",
+   "source": "Farhang Foundation",
+   "url": "https://farhang.org/farhang-foundation-at-the-2026-afi-fest",
+   "image": "iranian-cinema",
+   "sentences": [
+    {
+     "fa": "جشنواره‌ی فیلم ای‌اف‌آی هر سال در هالیوود برگزار می‌شود.",
+     "r": "jashnvāre-ye film-e ey-ef-āy har sāl dar Hālivud bargozār mi-shavad.",
+     "en": "The AFI film festival is held every year in Hollywood.",
+     "faV": "جَشنواره‌یِ فیلمِ اِی‌اِف‌آی هَر سال دَر هالیوود بَرگُزار می‌شَوَد.",
+     "a": "db09d73cc54f"
+    },
+    {
+     "fa": "این سال سه فیلم از فیلم‌سازان ایرانی در جشنواره نمایش داده شد.",
+     "r": "in sāl se film az film-sāzān-e irāni dar jashnvāre namāyesh dāde shod.",
+     "en": "This year three films by Iranian filmmakers were shown at the festival.",
+     "faV": "این سال سه فیلم اَز فیلم‌سازانِ ایرانی دَر جَشنواره نَمایِش داده شُد.",
+     "a": "51e742326dd5"
+    },
+    {
+     "fa": "«هانی‌جون» فیلم لیلیان مهرل است.",
+     "r": "«Hāni-jun» film-e Liliyān Mehrel ast.",
+     "en": "\"Honeyjoon\" is Lilian Mehrel's film.",
+     "faV": "«هانی‌جون» فیلمِ لیلیان مِهرِل اَست.",
+     "a": "71a89fddb7d6"
+    },
+    {
+     "fa": "مهرنوش علیا فیلم «۱۰۰۱ فریم» را ساخته است.",
+     "r": "Mehrnush Aliyā film-e «hezār-o-yek freym» rā sākhte ast.",
+     "en": "Mehrnoush Alia has made the film \"1001 Frames\".",
+     "faV": "مِهرنوش عَلیا فیلمِ «۱۰۰۱ فرَیم» را ساخته اَست.",
+     "a": "e511173114f0"
+    },
+    {
+     "fa": "فیلم سوم، «کمدی الهی»، کار علی عسگری است.",
+     "r": "film-e sevvom, «komedi-ye elāhi», kār-e Ali Asgari ast.",
+     "en": "The third film, \"Divine Comedy\", is the work of Ali Asgari.",
+     "faV": "فیلمِ سِوُّم، «کُمِدیِ اِلهی»، کارِ عَلی عَسگَری اَست.",
+     "a": "e1e397f7b798"
+    },
+    {
+     "fa": "این فیلم در بهار جایزه‌ی بزرگ جشنواره‌ی فریبورگ در سوئیس را گرفت.",
+     "r": "in film dar bahār jāyeze-ye bozorg-e jashnvāre-ye Fribur dar Su'is rā gereft.",
+     "en": "In the spring this film won the grand prize of the Fribourg festival in Switzerland.",
+     "faV": "این فیلم دَر بَهار جایِزه‌یِ بُزُرگِ جَشنواره‌یِ فریبورگ دَر سوئیس را گِرِفت.",
+     "a": "9aaa29d65652"
+    },
+    {
+     "fa": "دو کارگردان زن برای نمایش فیلم‌هایشان به لس‌آنجلس آمدند.",
+     "r": "do kārgardān-e zan barā-ye namāyesh-e film-hā-yeshān be Los-Ānjeles āmadand.",
+     "en": "The two women directors came to Los Angeles for the screening of their films.",
+     "faV": "دو کارگَردانِ زَن بَرایِ نَمایِشِ فیلم‌هایِشان به لُس‌آنجِلِس آمَدَند.",
+     "a": "3e30bdf794c9"
+    }
+   ],
+   "vocab": [
+    {
+     "fa": "فیلم",
+     "r": "film",
+     "en": "film",
+     "faV": "فیلم",
+     "a": "2b3fe3024937"
+    },
+    {
+     "fa": "جشنواره",
+     "r": "jashnvāre",
+     "en": "festival",
+     "faV": "جَشنواره",
+     "a": "6760de81a7bf"
+    },
+    {
+     "fa": "فیلم‌ساز",
+     "r": "film-sāz",
+     "en": "filmmaker",
+     "faV": "فیلم‌ساز",
+     "a": "81cb3de7b5a7"
+    },
+    {
+     "fa": "کارگردان",
+     "r": "kārgardān",
+     "en": "director",
+     "faV": "کارگَردان",
+     "a": "a5ed5a3aff6f"
+    },
+    {
+     "fa": "نمایش",
+     "r": "namāyesh",
+     "en": "screening, show",
+     "faV": "نَمایِش",
+     "a": "69ca74f6b79c"
+    },
+    {
+     "fa": "برگزار شدن",
+     "r": "bargozār shodan",
+     "en": "to be held",
+     "faV": "بَرگُزار شُدَن",
+     "a": "44df8ea6ae02"
+    },
+    {
+     "fa": "بهار",
+     "r": "bahār",
+     "en": "spring",
+     "faV": "بَهار",
+     "a": "e0728a9102a1"
+    },
+    {
+     "fa": "سوئیس",
+     "r": "Su'is",
+     "en": "Switzerland",
+     "faV": "سوئیس",
+     "a": "bd06901533f5"
+    }
+   ],
+   "why": "Iranian cinema has been one of the most admired in the world since the 1990s – directors such as Abbas Kiarostami, Asghar Farhadi and Jafar Panahi have won top prizes at Cannes, Berlin, Venice and the Oscars. The word جشنواره (jashnvāre) is a Persian coinage from جشن 'celebration' with the suffix -واره; کارگردان 'director' literally means 'the one who turns the work'.",
+   "questions": [
+    {
+     "q": "How many Iranian films were shown?",
+     "options": [
+      "one",
+      "three",
+      "ten"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Which film won a prize in Fribourg?",
+     "options": [
+      "Honeyjoon",
+      "1001 Frames",
+      "Divine Comedy"
+     ],
+     "answer": 2
+    }
+   ],
+   "titleV": "سه فیلمِ ایرانی دَر جَشنواره‌یِ فیلمِ اِی‌اِف‌آی دَر هالیوود",
+   "titleA": "69055fa085f5"
+  },
+  {
+   "id": "2026-08-24-rial",
+   "date": "2026-08-24",
+   "tag": "Business",
+   "level": "B1",
+   "title": "Background: the rial passes two million to the dollar",
+   "titleFa": "پس‌زمینه: ریال از دو میلیون در برابر دلار گذشت",
+   "titleR": "pas-zamine: riyāl az do milyun dar barābar-e dolār gozasht",
+   "source": "The Arabian Post",
+   "url": "https://thearabianpost.com/iran-rial-sinks-beyond-two-million-per-dollar/",
+   "image": "iranian-rial",
+   "sentences": [
+    {
+     "fa": "در ماه اوت، هر دلار آمریکا در بازار آزاد بیش از دو میلیون ریال شد.",
+     "r": "dar māh-e ut, har dolār-e Āmrikā dar bāzār-e āzād bish az do milyun riyāl shod.",
+     "en": "In August, each US dollar became worth more than two million rials on the open market.",
+     "faV": "دَر ماهِ اوت، هَر دُلارِ آمریکا دَر بازارِ آزاد بیش اَز دو میلیون ریال شُد.",
+     "a": "9786f8fa78d2"
+    },
+    {
+     "fa": "این پایین‌ترین ارزش ریال در تاریخ است.",
+     "r": "in pāyin-tarin arzesh-e riyāl dar tārikh ast.",
+     "en": "This is the lowest value of the rial in history.",
+     "faV": "این پایین‌تَرین اَرزِشِ ریال دَر تاریخ اَست.",
+     "a": "fce068098ec8"
+    },
+    {
+     "fa": "نرخ رسمی بانک مرکزی حدود یک و نیم میلیون ریال است.",
+     "r": "nerkh-e rasmi-ye bānk-e markazi hodud-e yek o nim milyun riyāl ast.",
+     "en": "The central bank's official rate is about one and a half million rials.",
+     "faV": "نِرخِ رَسمیِ بانکِ مَرکَزی حُدودِ یِک و نیم میلیون ریال اَست.",
+     "a": "3c4e8cda2f4d"
+    },
+    {
+     "fa": "تورم در تیرماه حدود شصت و شش درصد بود.",
+     "r": "tavarrom dar tir-māh hodud-e shast o shesh darsad bud.",
+     "en": "Inflation in the month of Tir (July) was about sixty-six percent.",
+     "faV": "تَوَرُّم دَر تیرماه حُدودِ شَصت و شِش دَرصَد بود.",
+     "a": "7099285e5ee7"
+    },
+    {
+     "fa": "قیمت مواد غذایی در یک سال بیش از دو برابر شده است.",
+     "r": "gheymat-e mavādd-e ghazāyi dar yek sāl bish az do barābar shode ast.",
+     "en": "Food prices have more than doubled in one year.",
+     "faV": "قَیمَتِ مَوادِّ غَذایی دَر یِک سال بیش اَز دو بَرابَر شُده اَست.",
+     "a": "50b476b75fc4"
+    },
+    {
+     "fa": "حقوق و پس‌انداز مردم هر ماه کم‌ارزش‌تر می‌شود.",
+     "r": "hoghugh o pas-andāz-e mardom har māh kam-arzesh-tar mi-shavad.",
+     "en": "People's salaries and savings lose value every month.",
+     "faV": "حُقوق و پَس‌اَندازِ مَردُم هَر ماه کَم‌اَرزِش‌تَر می‌شَوَد.",
+     "a": "a135616af3b3"
+    },
+    {
+     "fa": "ایرانی‌ها در خرید روزانه معمولاً «تومان» می‌گویند، نه ریال.",
+     "r": "irāni-hā dar kharid-e ruzāne ma'mulan «tumān» mi-guyand, na riyāl.",
+     "en": "In everyday shopping Iranians usually say \"toman\", not rial.",
+     "faV": "ایرانی‌ها دَر خَریدِ روزانه مَعمولاً «تومان» می‌گویَند، نه ریال.",
+     "a": "954e616f3da1"
+    },
+    {
+     "fa": "یک تومان برابر با ده ریال است.",
+     "r": "yek tumān barābar bā dah riyāl ast.",
+     "en": "One toman equals ten rials.",
+     "faV": "یِک تومان بَرابَر با دَه ریال اَست.",
+     "a": "a0279c8883e9"
+    }
+   ],
+   "vocab": [
+    {
+     "fa": "ریال",
+     "r": "riyāl",
+     "en": "rial (official currency)",
+     "faV": "ریال",
+     "a": "00ef6aa9fc0d"
+    },
+    {
+     "fa": "تومان",
+     "r": "tumān",
+     "en": "toman (10 rials; the everyday unit)",
+     "faV": "تومان",
+     "a": "306eba506939"
+    },
+    {
+     "fa": "دلار",
+     "r": "dolār",
+     "en": "dollar",
+     "faV": "دُلار",
+     "a": "c00155480749"
+    },
+    {
+     "fa": "بازار آزاد",
+     "r": "bāzār-e āzād",
+     "en": "open (free) market",
+     "faV": "بازارِ آزاد",
+     "a": "aa9d8f531c9b"
+    },
+    {
+     "fa": "نرخ",
+     "r": "nerkh",
+     "en": "rate",
+     "faV": "نِرخ",
+     "a": "2bd48a693878"
+    },
+    {
+     "fa": "بانک مرکزی",
+     "r": "bānk-e markazi",
+     "en": "central bank",
+     "faV": "بانکِ مَرکَزی",
+     "a": "72541bd73fc6"
+    },
+    {
+     "fa": "تورم",
+     "r": "tavarrom",
+     "en": "inflation",
+     "faV": "تَوَرُّم",
+     "a": "b1111138550b"
+    },
+    {
+     "fa": "درصد",
+     "r": "darsad",
+     "en": "percent",
+     "faV": "دَرصَد",
+     "a": "0d6dccec6687"
+    },
+    {
+     "fa": "حقوق",
+     "r": "hoghugh",
+     "en": "salary",
+     "faV": "حُقوق",
+     "a": "16026426b9a7"
+    },
+    {
+     "fa": "پس‌انداز",
+     "r": "pas-andāz",
+     "en": "savings",
+     "faV": "پَس‌اَنداز",
+     "a": "07963d714c02"
+    }
+   ],
+   "why": "Money is the first place a learner meets Iran's two currencies: prices are printed in rials but spoken in tomans (one toman = ten rials), and people often drop the thousands too – 'fifty' at a fruit stall means 50,000 tomans. The IMF projected about 69% inflation for 2026 and a 5.4% fall in output. Keep this story in mind when you learn numbers.",
+   "questions": [
+    {
+     "q": "One toman is worth how many rials?",
+     "options": [
+      "one",
+      "ten",
+      "a hundred"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What happened to food prices in one year?",
+     "options": [
+      "they fell",
+      "they stayed the same",
+      "they more than doubled"
+     ],
+     "answer": 2
+    }
+   ],
+   "titleV": "پَس‌زَمینه: ریال اَز دو میلیون دَر بَرابَرِ دُلار گُذَشت",
+   "titleA": "89f42e4a1bb6"
+  },
+  {
+   "id": "2026-06-26-iran-world-cup",
+   "date": "2026-06-26",
+   "tag": "Sport",
+   "level": "A2",
+   "title": "Looking back: Iran leaves the World Cup unbeaten but out",
+   "titleFa": "نگاهی به گذشته: ایران بدون شکست از جام جهانی کنار رفت",
+   "titleR": "negāh-i be gozashte: Irān bedun-e shekast az jām-e jahāni kenār raft",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/6/28/late-drama-ends-irans-hopes-of-reaching-world-cup-knockouts-for-first-time",
+   "image": "iran-football-team",
+   "sentences": [
+    {
+     "fa": "تیم ملی فوتبال ایران در جام جهانی ۲۰۲۶ بازی کرد.",
+     "r": "tim-e melli-ye futbāl-e Irān dar jām-e jahāni-ye do-hezār-o-bist-o-shesh bāzi kard.",
+     "en": "Iran's national football team played in the 2026 World Cup.",
+     "faV": "تیمِ مِلّیِ فوتبالِ ایران دَر جامِ جَهانیِ ۲۰۲۶ بازی کَرد.",
+     "a": "1b071b7ce0e3"
+    },
+    {
+     "fa": "این هفتمین جام جهانی ایران بود.",
+     "r": "in haftomin jām-e jahāni-ye Irān bud.",
+     "en": "This was Iran's seventh World Cup.",
+     "faV": "این هَفتُمین جامِ جَهانیِ ایران بود.",
+     "a": "4702e32dec61"
+    },
+    {
+     "fa": "ایران با بلژیک، نیوزیلند و مصر مساوی کرد.",
+     "r": "Irān bā Belzhik, Niyuzilend o Mesr mosāvi kard.",
+     "en": "Iran drew with Belgium, New Zealand and Egypt.",
+     "faV": "ایران با بِلژیک، نیوزیلِند و مِصر مُساوی کَرد.",
+     "a": "e6a3f6115913"
+    },
+    {
+     "fa": "در بازی آخر در سیاتل، مهدی طارمی یک پنالتی را از دست داد.",
+     "r": "dar bāzi-ye ākhar dar Siyātel, Mehdi Tāremi yek penālti rā az dast dād.",
+     "en": "In the last match in Seattle, Mehdi Taremi missed a penalty.",
+     "faV": "دَر بازیِ آخَر دَر سیاتِل، مِهدی طارِمی یِک پِنالتی را اَز دَست داد.",
+     "a": "31b3888f0668"
+    },
+    {
+     "fa": "گل دقیقه‌ی آخر شجاع خلیل‌زاده هم آفساید بود.",
+     "r": "gol-e daghighe-ye ākhar-e Shojā' Khalilzāde ham āfsāyd bud.",
+     "en": "Shoja Khalilzadeh's last-minute goal was offside too.",
+     "faV": "گُلِ دَقیقه‌یِ آخَرِ شُجاع خَلیل‌زاده هَم آفساید بود.",
+     "a": "3bb2e8a4ac22"
+    },
+    {
+     "fa": "تیم بدون شکست از جام کنار رفت.",
+     "r": "tim bedun-e shekast az jām kenār raft.",
+     "en": "The team went out of the cup without a defeat.",
+     "faV": "تیم بِدونِ شِکَست اَز جام کِنار رَفت.",
+     "a": "49bdac47e419"
+    },
+    {
+     "fa": "به خاطر جنگ، تیم در مکزیک زندگی می‌کرد و برای هر بازی به آمریکا می‌رفت.",
+     "r": "be khāter-e jang, tim dar Mekzik zendegi mi-kard o barā-ye har bāzi be Āmrikā mi-raft.",
+     "en": "Because of the war, the team lived in Mexico and travelled to the United States for each match.",
+     "faV": "به خاطِرِ جَنگ، تیم دَر مِکزیک زِندِگی می‌کَرد و بَرایِ هَر بازی به آمریکا می‌رَفت.",
+     "a": "7f16c089c603"
+    },
+    {
+     "fa": "ایرانی‌ها به تیم ملی «تیم ملی» یا «یوزها» می‌گویند.",
+     "r": "irāni-hā be tim-e melli «tim-e melli» yā «yuz-hā» mi-guyand.",
+     "en": "Iranians call the national team \"Team Melli\" or \"the cheetahs\".",
+     "faV": "ایرانی‌ها به تیمِ مِلّی «تیمِ مِلّی» یا «یوزها» می‌گویَند.",
+     "a": "5c15329b7253"
+    }
+   ],
+   "vocab": [
+    {
+     "fa": "تیم ملی",
+     "r": "tim-e melli",
+     "en": "national team",
+     "faV": "تیمِ مِلّی",
+     "a": "2d4a65253386"
+    },
+    {
+     "fa": "فوتبال",
+     "r": "futbāl",
+     "en": "football",
+     "faV": "فوتبال",
+     "a": "05d5066b2024"
+    },
+    {
+     "fa": "جام جهانی",
+     "r": "jām-e jahāni",
+     "en": "World Cup",
+     "faV": "جامِ جَهانی",
+     "a": "2d3962d2eba2"
+    },
+    {
+     "fa": "بازی",
+     "r": "bāzi",
+     "en": "game, match",
+     "faV": "بازی",
+     "a": "9200b13f5c3c"
+    },
+    {
+     "fa": "مساوی کردن",
+     "r": "mosāvi kardan",
+     "en": "to draw (a match)",
+     "faV": "مُساوی کَردَن",
+     "a": "205ea6e4d488"
+    },
+    {
+     "fa": "گل",
+     "r": "gol",
+     "en": "goal",
+     "faV": "گُل",
+     "a": "bd5d76c36abc"
+    },
+    {
+     "fa": "شکست",
+     "r": "shekast",
+     "en": "defeat",
+     "faV": "شِکَست",
+     "a": "ae64c5e3d90a"
+    },
+    {
+     "fa": "پنالتی",
+     "r": "penālti",
+     "en": "penalty",
+     "faV": "پِنالتی",
+     "a": "217196981693"
+    },
+    {
+     "fa": "یوز",
+     "r": "yuz",
+     "en": "cheetah",
+     "faV": "یوز",
+     "a": "2d654744a7cc"
+    }
+   ],
+   "why": "Football is by far the most popular sport in Iran; the Asiatic cheetah on the team's shirts gave it the nickname یوزها. At the 2026 World Cup in North America, Iran drew all three group games and was eliminated on goal difference among the third-placed teams. Note how Persian borrows football words wholesale – فوتبال, گل, پنالتی, آفساید – but has its own مساوی (draw) and شکست (defeat).",
+   "questions": [
+    {
+     "q": "How many matches did Iran lose?",
+     "options": [
+      "none",
+      "one",
+      "three"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Where was the team based?",
+     "options": [
+      "in the United States",
+      "in Mexico",
+      "in Canada"
+     ],
+     "answer": 1
+    }
+   ],
+   "titleV": "نِگاهی به گُذَشته: ایران بِدونِ شِکَست اَز جامِ جَهانی کِنار رَفت",
+   "titleA": "905a9db133d2"
+  }
+ ]
+}

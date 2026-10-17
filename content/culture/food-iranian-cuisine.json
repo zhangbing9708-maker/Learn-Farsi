@@ -1,0 +1,79 @@
+{
+ "id": "food-iranian-cuisine",
+ "topic": "food",
+ "title": "Iranian cuisine",
+ "titleFa": "آشپزی ایرانی",
+ "titleR": "āshpazi-ye irāni",
+ "image": "sofreh",
+ "summary": "Rice and slow-cooked stews, fresh herbs, a cloth spread on the floor and the old belief that every food is either 'hot' or 'cold': an introduction to how Iranians cook and eat, from the Caspian to the Persian Gulf.",
+ "body": [
+  {
+   "h": "A cuisine of balance",
+   "md": "Iranian food is rarely fiery. What matters is balance: sweet against sour, rich against fresh, 'hot' foods against 'cold' ones. At the heart of almost every meal is [[برنج|berenj|rice]], served with a slow-cooked stew called a [[خورش|khoresh|stew]] or with grilled [[کباب|kabāb|kebab]]. Around it come bread, fresh herbs, yoghurt and pickles. The flavours that say 'Iran' are saffron, dried lime, pomegranate, rosewater, dried mint and turmeric.\n\nA Middle Persian text from Sasanian times, *Khosrow and the Page*, already has a young courtier telling the king which dishes are the finest. Later the Safavid court turned rice cooking into an art, and the English word *pilaf* comes, through Turkish, from Persian [[پلو|polow|rice cooked with other ingredients]]."
+  },
+  {
+   "h": "One country, many kitchens",
+   "md": "Every region has its own kitchen.\n\n- **The Caspian north** – [[گیلان|Gilān|Gilan]] and [[مازندران|Māzandarān|Mazandaran]] – grows rice and tea. Food here is green, garlicky and sour: smoky aubergine in [[میرزاقاسمی|mirzā-ghāsemi|mirza ghasemi]], fish from the Caspian, olives from Rudbar.\n- **Azerbaijan**, in the north-west, is known for its dairy, its stuffed vine leaves ([[دلمه|dolme|dolmeh]]) and its giant [[کوفته‌ی تبریزی|kufte-ye tabrizi|Tabriz meatballs]].\n- **Khorasan**, in the east, grows most of the world's saffron and almost all of Iran's barberries.\n- **The south** – Khuzestan, Bushehr and Hormozgan on the Persian Gulf – cooks with fish, shrimp, tamarind and more chilli than anywhere else in Iran: try [[قلیه‌ی ماهی|ghaliye-ye māhi|fish and herb stew]].\n- **The centre** – Isfahan, Yazd, Kashan, Shiraz – is the land of sweets and rosewater, and of city specialities such as Isfahan's [[بریانی|beryāni|minced lamb served on bread]].",
+   "image": "mirza-ghasemi"
+  },
+  {
+   "h": "The sofreh",
+   "md": "Traditionally Iranians eat on the floor. A cloth called a [[سفره|sofre|cloth spread for a meal]] is laid on the carpet, the dishes go in the middle and everyone sits around it – a custom that survives even in homes with a dining table. The guest of honour sits at the 'top' of the room, farthest from the door: the [[بالای مجلس|bālā-ye majles|place of honour]].\n\nOn a family sofreh you will almost always find bread and a plate of fresh herbs, [[سبزی خوردن|sabzi khordan|herbs for eating]] – mint, basil, tarragon, radishes and spring onions – with white cheese, yoghurt or [[ماست و خیار|māst o khiyār|yoghurt with cucumber]], pickles ([[ترشی|torshi|pickles]]) and a jug of the salty yoghurt drink [[دوغ|dugh|doogh]]. The word is also used for ritual spreads: the Nowruz [[هفت‌سین|haft-sin|'seven S' table]], the wedding sofreh and the votive sofrehs of religious vows.",
+   "image": "sabzi-khordan"
+  },
+  {
+   "h": "'Hot' and 'cold' foods",
+   "md": "Feel unwell after fish and yoghurt, and an Iranian grandmother may say you have eaten too many 'cold' things. Traditional Iranian medicine, which goes back to Avicenna and earlier, gives every food a nature ([[طبع|tab'|nature, temperament]]) that is [[گرم|garm|hot]] or [[سرد|sard|cold]] – the system of [[سردی و گرمی|sardi o garmi|coldness and hotness]]. It has nothing to do with temperature or chilli. Dates, honey, walnuts, lamb and most spices count as 'hot'; yoghurt, fish, cucumber and watermelon count as 'cold'.\n\nToo much of either is believed to upset the body, and someone who feels weak and queasy after too many 'cold' foods is said to [[سردی کردن|sardi kardan|suffer from too much 'cold' food]]. Good cooks therefore balance the two – walnuts with sour pomegranate in fesenjan, cooling yoghurt with dried mint and garlic – and many families still live by these rules.",
+   "image": "pomegranate"
+  },
+  {
+   "h": "A day of meals",
+   "md": "[[صبحانه|sobhāne|breakfast]] is light: flat bread, white cheese ([[پنیر|panir|cheese]]), walnuts, butter, jam or honey, and sweet black tea. On winter mornings there may be [[حلیم|halim|wheat and meat porridge]] from a street stall, or for the brave, [[کله‌پاچه|kalle-pāche|sheep's head and trotters]].\n\n[[ناهار|nāhār|lunch]], between noon and two, is the main meal of the day: rice with a khoresh, or kebab, with yoghurt, salad and doogh, followed by tea. Late afternoon brings the [[عصرانه|asrāne|afternoon snack]] – tea with fruit or pastries. [[شام|shām|dinner]] comes late, often after eight, and is usually lighter: a thick soup ([[آش|āsh|thick soup]]), a [[کوکو|kuku|herb frittata]], bread and cheese, or what is left from lunch. Unless, of course, there are guests – then the cook brings out everything.",
+   "image": "barbari"
+  }
+ ],
+ "sentences": [
+  {"fa": "غذای ایرانی تند نیست، ولی پر از طعم است.", "r": "ghazā-ye irāni tond nist, vali por az ta'm ast.", "en": "Iranian food isn't spicy, but it is full of flavour."},
+  {"fa": "ایرانی‌ها بیشتر غذاها را با برنج یا نان می‌خورند.", "r": "irāni-hā bishtar-e ghazā-hā rā bā berenj yā nān mi-khorand.", "en": "Iranians eat most dishes with rice or bread."},
+  {"fa": "سفره را روی زمین پهن می‌کنیم و دور آن می‌نشینیم.", "r": "sofre rā ru-ye zamin pahn mi-konim va dowr-e ān mi-neshinim.", "en": "We spread the sofreh on the floor and sit around it."},
+  {"fa": "سبزی خوردن و ماست همیشه سر سفره‌ی ما هست.", "r": "sabzi khordan o māst hamishe sar-e sofre-ye mā hast.", "en": "There are always fresh herbs and yoghurt at our meals."},
+  {"fa": "مادربزرگم می‌گوید خرما و عسل «گرم» هستند.", "r": "mādarbozorg-am mi-guyad khormā o asal «garm» hastand.", "en": "My grandmother says dates and honey are 'hot'."},
+  {"fa": "ماست و ماهی و هندوانه «سرد» هستند.", "r": "māst o māhi o hendevāne «sard» hastand.", "en": "Yoghurt, fish and watermelon are 'cold'."},
+  {"fa": "صبحانه معمولاً نان و پنیر و چای است.", "r": "sobhāne ma'mulan nān o panir o chāy ast.", "en": "Breakfast is usually bread, cheese and tea."},
+  {"fa": "ناهار غذای اصلی روز است.", "r": "nāhār ghazā-ye asli-ye ruz ast.", "en": "Lunch is the main meal of the day."},
+  {"fa": "شام سبک‌تر از ناهار است.", "r": "shām sabok-tar az nāhār ast.", "en": "Dinner is lighter than lunch."},
+  {"fa": "مهمان حبیب خداست.", "r": "mehmān habib-e khodā-st.", "en": "A guest is the friend of God.", "note": "A proverb about hospitality."},
+  {"fa": "بفرمایید سر سفره!", "r": "befarmāyid sar-e sofre!", "en": "Please come and eat!", "lit": "please, to the sofreh", "col": "بفرمایین سر سفره!", "colR": "befarmāyin sar-e sofre!"},
+  {"fa": "دستتان درد نکند، خیلی خوشمزه بود.", "r": "dast-etān dard na-konad, kheyli khoshmazze bud.", "en": "Thank you, it was delicious.", "lit": "may your hand not hurt, it was very tasty", "col": "دستتون درد نکنه، خیلی خوشمزه بود.", "colR": "dast-etun dard na-kone, kheyli khoshmazze bud."}
+ ],
+ "vocab": [
+  {"fa": "آشپزی", "r": "āshpazi", "en": "cooking, cuisine"},
+  {"fa": "غذا", "r": "ghazā", "en": "food; dish, meal"},
+  {"fa": "برنج", "r": "berenj", "en": "rice"},
+  {"fa": "خورش", "r": "khoresh", "en": "stew (served with rice)"},
+  {"fa": "کباب", "r": "kabāb", "en": "kebab, grilled meat"},
+  {"fa": "نان", "r": "nān", "en": "bread"},
+  {"fa": "سبزی", "r": "sabzi", "en": "herbs, greens; vegetables"},
+  {"fa": "ماست", "r": "māst", "en": "yoghurt"},
+  {"fa": "دوغ", "r": "dugh", "en": "doogh, salty yoghurt drink"},
+  {"fa": "ترشی", "r": "torshi", "en": "pickles"},
+  {"fa": "سفره", "r": "sofre", "en": "cloth spread for a meal"},
+  {"fa": "صبحانه", "r": "sobhāne", "en": "breakfast"},
+  {"fa": "ناهار", "r": "nāhār", "en": "lunch"},
+  {"fa": "عصرانه", "r": "asrāne", "en": "afternoon tea, snack"},
+  {"fa": "شام", "r": "shām", "en": "dinner"},
+  {"fa": "گرم", "r": "garm", "en": "warm; 'hot' (by nature)"},
+  {"fa": "سرد", "r": "sard", "en": "cold; 'cold' (by nature)"},
+  {"fa": "مهمان", "r": "mehmān", "en": "guest"},
+  {"fa": "خوشمزه", "r": "khoshmazze", "en": "delicious, tasty"},
+  {"fa": "طعم", "r": "ta'm", "en": "taste, flavour"}
+ ],
+ "facts": [
+  "Iran has no official national dish, but chelow kabab and ghormeh sabzi are the usual candidates.",
+  "The English word pilaf comes, through Turkish pilav, from Persian polow.",
+  "The Middle Persian text Khosrow and the Page, from the Sasanian era, includes a courtier's answers to the king about the finest dishes.",
+  "Avicenna's Canon of Medicine (completed 1025) describes foods by their temperament – hot or cold, moist or dry – the basis of the Iranian sardi o garmi system.",
+  "The Persian words āshpaz 'cook' and āshpazkhāne 'kitchen' are built on āsh, 'thick soup'.",
+  "In Iran the main meal is lunch; dinner is often eaten after 8 p.m."
+ ]
+}

@@ -1,0 +1,442 @@
+{
+ "id": "script-03-jim-che-he-khe-dal-zal",
+ "level": "script",
+ "n": 3,
+ "title": "Jim, che, he, khe, dāl, zāl",
+ "titleFa": "ج، چ، ح، خ، د، ذ",
+ "titleR": "jim, che, he, khe, dāl, zāl",
+ "intro": "Two new families today: the four 'hook' letters jim, che, he and khe, which share one shape and differ by their dots, and the pair dāl and zāl, which never join the letter after them. You also meet kh, the sound English does not have.",
+ "goals": [
+  "read and write ج چ ح خ in all their shapes",
+  "read and write د ذ and know they are non-joiners",
+  "pronounce kh (خ) correctly",
+  "read words such as khodā, bād and tāj"
+ ],
+ "image": "divan-hafez",
+ "sections": [
+  {
+   "type": "text",
+   "title": "Jim, che, he, khe – the hook family",
+   "md": "These four letters are one shape with different dots, exactly like the dish family of the last lesson. Alone or at the end of a word the letter is a big open hook that dips below the line; at the start or in the middle it shrinks to a small roof over the baseline.\n\n- [[ج|jim]] – one dot **inside** the hook – *j* as in *jam*\n- [[چ|che]] – three dots inside – *ch* as in *church* (a Persian letter)\n- [[ح|he-ye jimi]] – no dot – *h*. It is called *he-ye jimi*, 'the he shaped like jim', to tell it from the other *h* you will meet in lesson 7.\n- [[خ|khe]] – one dot **above** – *kh*\n\nAll four join on both sides. Look at [[تاج|tāj|crown]]: *te*, *alef*, then *jim* at the end with its full hook. In [[چاپ|chāp|print]] the *che* at the start is just a small roof with three dots, joined to nothing because the next letter is alef."
+  },
+  {
+   "type": "text",
+   "title": "The sound kh",
+   "md": "[[خ|khe]] is the sound in Scottish *loch* and German *Bach*: a rough *h* made at the back of the mouth, as if clearing your throat gently. It is one of the most common sounds in Persian – in *good* ([[خوب|khub]]), *God* ([[خدا|khodā]]), *house* ([[خانه|khāne]]) – so it is worth getting right from the start. Say *k*, then let the air hiss through instead of stopping it.\n\nIn this course it is always written **kh** in the transliteration."
+  },
+  {
+   "type": "text",
+   "title": "Dāl and zāl – the non-joiners",
+   "md": "[[د|dāl]] *d* and [[ذ|zāl]] *z* are a small angular hook sitting on the line, zāl with one dot above. Like alef, they join the letter before them but **never** the letter after them: the pen lifts and the next letter starts fresh. They have only two shapes – alone (د) and joined to the previous letter (ـد).\n\nThat is why [[داد|dād|gave; justice]] is three separate pieces: d, ā, d, each refusing to hold hands with the next. And [[بد|bad|bad]] is a *be* that joins forward into a *dāl* that stops the chain.\n\n*Zāl* appears only in words from Arabic, such as [[ذات|zāt|essence]]. It sounds exactly like the ordinary *z* you will meet in the next lesson."
+  },
+  {
+   "type": "letters",
+   "title": "The letters of this lesson",
+   "letters": [
+    "ج",
+    "چ",
+    "ح",
+    "خ",
+    "د",
+    "ذ"
+   ],
+   "md": "Tap each letter to hear its name and an example word. Notice that د and ذ have only two shapes."
+  },
+  {
+   "type": "vocab",
+   "title": "Words you can read now",
+   "items": [
+    {
+     "fa": "بد",
+     "r": "bad",
+     "en": "bad",
+     "pos": "adj",
+     "faV": "بَد",
+     "a": "9fbf9350f644"
+    },
+    {
+     "fa": "باد",
+     "r": "bād",
+     "en": "wind",
+     "pos": "n",
+     "faV": "باد",
+     "a": "3dead206660c"
+    },
+    {
+     "fa": "داد",
+     "r": "dād",
+     "en": "gave; justice",
+     "pos": "v",
+     "note": "three letters, none of them joined",
+     "faV": "داد",
+     "a": "5e8786a6506c"
+    },
+    {
+     "fa": "آباد",
+     "r": "ābād",
+     "en": "flourishing, inhabited",
+     "pos": "adj",
+     "note": "the ending of many place names: Abadan, Islamabad",
+     "faV": "آباد",
+     "a": "75b8f24ba58c"
+    },
+    {
+     "fa": "خدا",
+     "r": "khodā",
+     "en": "God",
+     "pos": "n",
+     "note": "the o is unwritten: kh-d-ā",
+     "faV": "خُدا",
+     "a": "f577151c548a"
+    },
+    {
+     "fa": "جدا",
+     "r": "jodā",
+     "en": "separate, apart",
+     "pos": "adj",
+     "faV": "جُدا",
+     "a": "a82856130f7f"
+    },
+    {
+     "fa": "تاج",
+     "r": "tāj",
+     "en": "crown",
+     "pos": "n",
+     "note": "as in Taj Mahal, 'crown of palaces'",
+     "faV": "تاج",
+     "a": "e06b1d55e716"
+    },
+    {
+     "fa": "چاپ",
+     "r": "chāp",
+     "en": "print, printing",
+     "pos": "n",
+     "faV": "چاپ",
+     "a": "f681f2ddcab3"
+    },
+    {
+     "fa": "تخت",
+     "r": "takht",
+     "en": "bed; throne",
+     "pos": "n",
+     "note": "Takht-e Jamshid is the Persian name of Persepolis",
+     "faV": "تَخت",
+     "a": "512dffb7486a"
+    },
+    {
+     "fa": "بخت",
+     "r": "bakht",
+     "en": "luck, fortune",
+     "pos": "n",
+     "faV": "بَخت",
+     "a": "db80e20ca50f"
+    },
+    {
+     "fa": "حج",
+     "r": "hajj",
+     "en": "the pilgrimage to Mecca",
+     "pos": "n",
+     "note": "the doubled j is one letter",
+     "faV": "حَجّ",
+     "a": "8ca42395e6ec"
+    },
+    {
+     "fa": "اتحاد",
+     "r": "ettehād",
+     "en": "union, unity",
+     "pos": "n",
+     "faV": "اِتِّحاد",
+     "a": "7870d7da6c21"
+    },
+    {
+     "fa": "ادب",
+     "r": "adab",
+     "en": "good manners, courtesy",
+     "pos": "n",
+     "faV": "اَدَب",
+     "a": "0d452121beb5"
+    },
+    {
+     "fa": "پخت",
+     "r": "pokht",
+     "en": "(he/she) cooked",
+     "pos": "v",
+     "faV": "پُخت",
+     "a": "4354710e7891"
+    },
+    {
+     "fa": "ذات",
+     "r": "zāt",
+     "en": "essence, nature",
+     "pos": "n",
+     "note": "spelled with zāl – an Arabic word",
+     "faV": "ذات",
+     "a": "b8f1c31bec45"
+    },
+    {
+     "fa": "ابجد",
+     "r": "abjad",
+     "en": "the alphabet (in its old order)",
+     "pos": "n",
+     "note": "a, b, j, d – the first four letters of the old order",
+     "faV": "اَبجَد",
+     "a": "46549ab96b13"
+    }
+   ]
+  },
+  {
+   "type": "tips",
+   "title": "Reading tips",
+   "items": [
+    "A small roof in the middle of a word with a dot inside is j or ch; with a dot above it is kh; with no dot it is h.",
+    "Whenever you see د or ذ, the word breaks there: the next letter starts a new piece.",
+    "Place names ending in **-ābād** (Abadan, Hyderabad, Islamabad) all contain [[آباد|ābād]] – 'made to flourish'.",
+    "Practise kh with [[خدا|khodā]] and [[بخت|bakht]]; do not let it slide into a plain k or h."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Which letter?",
+   "items": [
+    {
+     "q": "Which letter is **che** (ch)?",
+     "options": [
+      "ج",
+      "چ",
+      "خ"
+     ],
+     "answer": 1,
+     "explain": "Three dots inside the hook."
+    },
+    {
+     "q": "Which letter is **khe** (kh)?",
+     "options": [
+      "ح",
+      "خ",
+      "ج"
+     ],
+     "answer": 1,
+     "explain": "One dot above the hook."
+    },
+    {
+     "q": "Which letter has no dot at all?",
+     "options": [
+      "ح",
+      "ج",
+      "ذ"
+     ],
+     "answer": 0,
+     "explain": "he-ye jimi, the dotless hook: h."
+    },
+    {
+     "q": "Which of these letters never joins the letter after it?",
+     "options": [
+      "ج",
+      "د",
+      "چ"
+     ],
+     "answer": 1,
+     "explain": "dāl (and zāl) are non-joiners."
+    },
+    {
+     "q": "What sound does [[ذ|zāl]] make?",
+     "options": [
+      "d",
+      "z",
+      "th"
+     ],
+     "answer": 1,
+     "explain": "In Persian it is simply z."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Read the word",
+   "items": [
+    {
+     "q": "Which word is **wind**?",
+     "options": [
+      "بد",
+      "باد",
+      "داد"
+     ],
+     "answer": 1,
+     "explain": "b-ā-d: bād."
+    },
+    {
+     "q": "Which word is **God**?",
+     "options": [
+      "خدا",
+      "جدا",
+      "چاپ"
+     ],
+     "answer": 0,
+     "explain": "kh-d-ā with an unwritten o: khodā."
+    },
+    {
+     "q": "Which word is **crown**?",
+     "options": [
+      "تخت",
+      "تاج",
+      "بخت"
+     ],
+     "answer": 1,
+     "explain": "t-ā-j."
+    },
+    {
+     "q": "Which word is **luck**?",
+     "options": [
+      "بخت",
+      "تخت",
+      "پخت"
+     ],
+     "answer": 0,
+     "explain": "b-kh-t: bakht."
+    },
+    {
+     "q": "Which word is **separate**?",
+     "options": [
+      "خدا",
+      "جدا",
+      "ادب"
+     ],
+     "answer": 1,
+     "explain": "j-d-ā: jodā."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and pick the spelling",
+   "items": [
+    {
+     "fa": "تخت",
+     "r": "takht",
+     "en": "bed",
+     "options": [
+      "تاج",
+      "تخت",
+      "بخت"
+     ],
+     "answer": 1,
+     "faV": "تَخت",
+     "a": "512dffb7486a"
+    },
+    {
+     "fa": "چاپ",
+     "r": "chāp",
+     "en": "print",
+     "options": [
+      "چاپ",
+      "جاپ",
+      "خاپ"
+     ],
+     "answer": 0,
+     "faV": "چاپ",
+     "a": "f681f2ddcab3"
+    },
+    {
+     "fa": "آباد",
+     "r": "ābād",
+     "en": "flourishing",
+     "options": [
+      "ابجد",
+      "آباد",
+      "آداب"
+     ],
+     "answer": 1,
+     "faV": "آباد",
+     "a": "75b8f24ba58c"
+    },
+    {
+     "fa": "حج",
+     "r": "hajj",
+     "en": "pilgrimage",
+     "options": [
+      "خج",
+      "حج",
+      "جد"
+     ],
+     "answer": 1,
+     "faV": "حَجّ",
+     "a": "8ca42395e6ec"
+    },
+    {
+     "fa": "ذات",
+     "r": "zāt",
+     "en": "essence",
+     "options": [
+      "داد",
+      "ذات",
+      "تاد"
+     ],
+     "answer": 1,
+     "faV": "ذات",
+     "a": "b8f1c31bec45"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the words",
+   "items": [
+    {
+     "fa": "باد",
+     "r": "bād",
+     "en": "wind",
+     "faV": "باد",
+     "a": "3dead206660c"
+    },
+    {
+     "fa": "خدا",
+     "r": "khodā",
+     "en": "God",
+     "faV": "خُدا",
+     "a": "f577151c548a"
+    },
+    {
+     "fa": "تاج",
+     "r": "tāj",
+     "en": "crown",
+     "faV": "تاج",
+     "a": "e06b1d55e716"
+    },
+    {
+     "fa": "بد",
+     "r": "bad",
+     "en": "bad",
+     "faV": "بَد",
+     "a": "9fbf9350f644"
+    },
+    {
+     "fa": "ادب",
+     "r": "adab",
+     "en": "courtesy",
+     "faV": "اَدَب",
+     "a": "0d452121beb5"
+    },
+    {
+     "fa": "تخت",
+     "r": "takht",
+     "en": "bed",
+     "faV": "تَخت",
+     "a": "512dffb7486a"
+    },
+    {
+     "fa": "اتحاد",
+     "r": "ettehād",
+     "en": "unity",
+     "faV": "اِتِّحاد",
+     "a": "7870d7da6c21"
+    }
+   ]
+  }
+ ],
+ "titleV": "ج، چ، ح، خ، د، ذ",
+ "titleA": "7e3576485cbc"
+}

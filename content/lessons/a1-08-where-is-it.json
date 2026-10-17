@@ -1,0 +1,993 @@
+{
+ "id": "a1-08-where-is-it",
+ "level": "A1",
+ "n": 8,
+ "title": "Where is it? Places and positions",
+ "titleFa": "کجاست؟",
+ "titleR": "kojā-st?",
+ "intro": "Where is the bank? Is there a pharmacy near here? And where are my keys? In this lesson you learn the places of an Iranian neighbourhood and the things in a flat, the little words that say where things are – on, under, next to, behind, in front of, between – and how to say 'there is' and 'there isn't'.",
+ "goals": [
+  "ask where something is: … kojā-st?",
+  "say where things are with dar, ru-ye, zir-e, kenār-e, posht-e, jelo-ye, beyn-e, nazdik-e",
+  "say 'there is / there are' with hast and 'there isn't' with nist",
+  "name places in a city and things in a home"
+ ],
+ "image": "naqsh-e-jahan",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "A new flat",
+   "context": "Tom has just moved into a flat in Mina's building. Mina comes by to say hello, and Tom asks her about the neighbourhood.",
+   "lines": [
+    {
+     "who": "Tom",
+     "fa": "ببخشید، مینا خانم. این نزدیکی بانک هست؟",
+     "r": "bebakhshid, Minā khānom. in nazdiki bānk hast?",
+     "en": "Excuse me, Ms Mina. Is there a bank near here?",
+     "faV": "بِبَخشید، مینا خانُم. این نَزدیکی بانک هَست؟",
+     "a": "7b1a412dd9a7"
+    },
+    {
+     "who": "Mina",
+     "fa": "بله، یک بانک در خیابان اصلی هست، کنار داروخانه.",
+     "r": "bale, yek bānk dar khiyābān-e asli hast, kenār-e dāru-khāne.",
+     "en": "Yes, there's a bank on the main street, next to the pharmacy.",
+     "faV": "بَله، یِک بانک دَر خیابانِ اَصلی هَست، کِنارِ داروخانه.",
+     "a": "79bdf222bed5"
+    },
+    {
+     "who": "Tom",
+     "fa": "داروخانه کجاست؟",
+     "r": "dāru-khāne kojā-st?",
+     "en": "Where is the pharmacy?",
+     "col": "داروخونه کجاست؟",
+     "colR": "dāru-khune kojā-st?",
+     "faV": "داروخانه کُجاست؟",
+     "a": "63822f65969c",
+     "colV": "داروخونه کُجاست؟",
+     "colA": "8583d18d76cc"
+    },
+    {
+     "who": "Mina",
+     "fa": "روبه‌روی پارک است. پارک خیلی نزدیک است.",
+     "r": "ru-be-ru-ye pārk ast. pārk kheyli nazdik ast.",
+     "en": "Opposite the park. The park is very close.",
+     "col": "روبه‌روی پارکه. پارک خیلی نزدیکه.",
+     "colR": "ru-be-ru-ye pārk-e. pārk kheyli nazdik-e.",
+     "faV": "روبه‌رویِ پارک اَست. پارک خَیلی نَزدیک اَست.",
+     "a": "59b825919b14",
+     "colV": "روبه‌رویِ پارکه. پارک خَیلی نَزدیکه.",
+     "colA": "44bf218ef176"
+    },
+    {
+     "who": "Tom",
+     "fa": "سوپرمارکت هم هست؟",
+     "r": "supermārket ham hast?",
+     "en": "Is there a supermarket too?",
+     "faV": "سوپِرمارکِت هَم هَست؟",
+     "a": "fc53f91c4a3c"
+    },
+    {
+     "who": "Mina",
+     "fa": "بله، پشت مسجد یک سوپرمارکت هست.",
+     "r": "bale, posht-e masjed yek supermārket hast.",
+     "en": "Yes, there's a supermarket behind the mosque.",
+     "col": "آره، پشت مسجد یه سوپرمارکت هست.",
+     "colR": "āre, posht-e masjed ye supermārket hast.",
+     "faV": "بَله، پُشتِ مَسجِد یِک سوپِرمارکِت هَست.",
+     "a": "64e2da24e2c2",
+     "colV": "آره، پُشتِ مَسجِد یه سوپِرمارکِت هَست.",
+     "colA": "d043740aaa19"
+    },
+    {
+     "who": "Tom",
+     "fa": "و ایستگاه مترو؟",
+     "r": "va istgāh-e metro?",
+     "en": "And the metro station?",
+     "faV": "و ایستگاهِ مِترو؟",
+     "a": "e8fd6bcc722f"
+    },
+    {
+     "who": "Mina",
+     "fa": "ایستگاه مترو کمی دور است، جلوی بیمارستان.",
+     "r": "istgāh-e metro kami dur ast, jelo-ye bimārestān.",
+     "en": "The metro station is a bit far, in front of the hospital.",
+     "col": "ایستگاه مترو یه کم دوره، جلوی بیمارستان.",
+     "colR": "istgāh-e metro ye kam dur-e, jelo-ye bimārestān.",
+     "faV": "ایستگاهِ مِترو کَمی دور اَست، جِلویِ بیمارِستان.",
+     "a": "b3596f002f57",
+     "colV": "ایستگاهِ مِترو یه کَم دوره، جِلویِ بیمارِستان.",
+     "colA": "b7724ae265d3"
+    },
+    {
+     "who": "Tom",
+     "fa": "ممنون. راستی، کلید من کجاست؟",
+     "r": "mamnun. rāsti, kelid-e man kojā-st?",
+     "en": "Thanks. By the way – where's my key?",
+     "faV": "مَمنون. راستی، کِلیدِ مَن کُجاست؟",
+     "a": "df70d7f23f8e"
+    },
+    {
+     "who": "Mina",
+     "fa": "روی میز نیست؟",
+     "r": "ru-ye miz nist?",
+     "en": "Isn't it on the table?",
+     "col": "رو میز نیست؟",
+     "colR": "ru miz nist?",
+     "faV": "رویِ میز نیست؟",
+     "a": "2e03bd833179",
+     "colV": "رو میز نیست؟",
+     "colA": "555295bd34ed"
+    },
+    {
+     "who": "Tom",
+     "fa": "نه، روی میز نیست. زیر مبل هم نیست.",
+     "r": "na, ru-ye miz nist. zir-e mobl ham nist.",
+     "en": "No, it's not on the table. It's not under the sofa either.",
+     "faV": "نه، رویِ میز نیست. زیرِ مُبل هَم نیست.",
+     "a": "57a02403d909"
+    },
+    {
+     "who": "Mina",
+     "fa": "آن چیست، کنار در؟",
+     "r": "ān chist, kenār-e dar?",
+     "en": "What's that, next to the door?",
+     "col": "اون چیه، کنار در؟",
+     "colR": "un chi-ye, kenār-e dar?",
+     "faV": "آن چیست، کِنارِ دَر؟",
+     "a": "806958104206",
+     "colV": "اون چیه، کِنارِ دَر؟",
+     "colA": "4444ff4ff1a9"
+    },
+    {
+     "who": "Tom",
+     "fa": "آهان! کلیدم اینجاست! ممنون، مینا خانم.",
+     "r": "āhān! kelid-am injā-st! mamnun, Minā khānom.",
+     "en": "Aha! My key is here! Thank you, Ms Mina.",
+     "faV": "آهان! کِلیدَم اینجاست! مَمنون، مینا خانُم.",
+     "a": "d4835836386d"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Where is it? Is there one?",
+   "md": "Two questions will get you round any Iranian neighbourhood. To ask where a particular place is, add *ast* to *kojā*: [[داروخانه کجاست؟|dāru-khāne kojā-st?|where is the pharmacy?]] To ask whether there is one at all, use [[هست|hast]]: [[این نزدیکی بانک هست؟|in nazdiki bānk hast?|is there a bank near here?]] The answer is [[بله، هست|bale, hast|yes, there is]] or [[نه، نیست|na, nist|no, there isn't]]. [[این نزدیکی|in nazdiki]] means *round here, nearby*.\n\nThe answers use small place words – [[روبه‌روی|ru-be-ru-ye|opposite]], [[پشت|posht-e|behind]], [[جلوی|jelo-ye|in front of]], [[کنار|kenār-e|next to]] – and almost all of them are followed by the ezafe. That is the main grammar point of this lesson.\n\nNotice also [[راستی|rāsti|by the way]], the word Iranians use to change the subject."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "بانک",
+     "r": "bānk",
+     "en": "bank",
+     "pos": "n",
+     "faV": "بانک",
+     "a": "809f5e771e16"
+    },
+    {
+     "fa": "داروخانه",
+     "r": "dāru-khāne",
+     "en": "pharmacy",
+     "pos": "n",
+     "note": "dāru 'medicine' + khāne 'house'; spoken dāru-khune",
+     "faV": "داروخانه",
+     "a": "1398d4b0f1b6"
+    },
+    {
+     "fa": "پارک",
+     "r": "pārk",
+     "en": "park",
+     "pos": "n",
+     "faV": "پارک",
+     "a": "46d1e6c36446"
+    },
+    {
+     "fa": "مسجد",
+     "r": "masjed",
+     "en": "mosque",
+     "pos": "n",
+     "faV": "مَسجِد",
+     "a": "49ee1117cef1"
+    },
+    {
+     "fa": "نانوایی",
+     "r": "nānvāyi",
+     "en": "bakery",
+     "pos": "n",
+     "note": "from nān 'bread'",
+     "faV": "نانوایی",
+     "a": "72758770616e"
+    },
+    {
+     "fa": "سوپرمارکت",
+     "r": "supermārket",
+     "en": "supermarket; corner shop",
+     "pos": "n",
+     "note": "a small grocer's is also called بقالی baghghāli",
+     "faV": "سوپِرمارکِت",
+     "a": "567a254b4013"
+    },
+    {
+     "fa": "ایستگاه",
+     "r": "istgāh",
+     "en": "station, stop",
+     "pos": "n",
+     "ex": {
+      "fa": "ایستگاه مترو کجاست؟",
+      "r": "istgāh-e metro kojā-st?",
+      "en": "Where is the metro station?",
+      "faV": "ایستگاهِ مِترو کُجاست؟",
+      "a": "3fb53b4b1ece"
+     },
+     "faV": "ایستگاه",
+     "a": "320c86a1080b"
+    },
+    {
+     "fa": "خیابان",
+     "r": "khiyābān",
+     "en": "street",
+     "pos": "n",
+     "ex": {
+      "fa": "بانک در این خیابان است.",
+      "r": "bānk dar in khiyābān ast.",
+      "en": "The bank is on this street.",
+      "faV": "بانک دَر این خیابان اَست.",
+      "a": "cb53af72f947"
+     },
+     "faV": "خیابان",
+     "a": "3807383806c3"
+    },
+    {
+     "fa": "کوچه",
+     "r": "kuche",
+     "en": "lane, side street",
+     "pos": "n",
+     "note": "every Iranian address has one",
+     "faV": "کوچه",
+     "a": "57050bd35029"
+    },
+    {
+     "fa": "میدان",
+     "r": "meydān",
+     "en": "square (in a city)",
+     "pos": "n",
+     "note": "Meydān-e Āzādi – Azadi Square in Tehran",
+     "faV": "مَیدان",
+     "a": "6db664e67e08"
+    },
+    {
+     "fa": "ساختمان",
+     "r": "sākhtemān",
+     "en": "building",
+     "pos": "n",
+     "faV": "ساختِمان",
+     "a": "0270ef4e4793"
+    },
+    {
+     "fa": "آپارتمان",
+     "r": "āpārtemān",
+     "en": "flat, apartment",
+     "pos": "n",
+     "faV": "آپارتِمان",
+     "a": "90642c0b6e2e"
+    },
+    {
+     "fa": "اتاق",
+     "r": "otāgh",
+     "en": "room",
+     "pos": "n",
+     "ex": {
+      "fa": "اتاق من کوچک است.",
+      "r": "otāgh-e man kuchak ast.",
+      "en": "My room is small.",
+      "faV": "اُتاقِ مَن کوچَک اَست.",
+      "a": "329b8e676d44"
+     },
+     "faV": "اُتاق",
+     "a": "c53580fdf2e4"
+    },
+    {
+     "fa": "تخت",
+     "r": "takht",
+     "en": "bed",
+     "pos": "n",
+     "faV": "تَخت",
+     "a": "512dffb7486a"
+    },
+    {
+     "fa": "مبل",
+     "r": "mobl",
+     "en": "sofa, armchair",
+     "pos": "n",
+     "note": "from French meuble",
+     "faV": "مُبل",
+     "a": "53de198de5bc"
+    },
+    {
+     "fa": "کمد",
+     "r": "komod",
+     "en": "wardrobe, cupboard",
+     "pos": "n",
+     "faV": "کُمُد",
+     "a": "56f894438fac"
+    },
+    {
+     "fa": "یخچال",
+     "r": "yakhchāl",
+     "en": "fridge",
+     "pos": "n",
+     "note": "literally 'ice pit' – the name of Iran's ancient ice houses",
+     "faV": "یَخچال",
+     "a": "12b603fcb68c"
+    },
+    {
+     "fa": "فرش",
+     "r": "farsh",
+     "en": "carpet, rug",
+     "pos": "n",
+     "faV": "فَرش",
+     "a": "c47d09fc9bac"
+    },
+    {
+     "fa": "نزدیک",
+     "r": "nazdik",
+     "en": "near, close",
+     "pos": "adj",
+     "ex": {
+      "fa": "پارک خیلی نزدیک است.",
+      "r": "pārk kheyli nazdik ast.",
+      "en": "The park is very close.",
+      "faV": "پارک خَیلی نَزدیک اَست.",
+      "a": "b264ae0be723"
+     },
+     "faV": "نَزدیک",
+     "a": "835c71e2b5d2"
+    },
+    {
+     "fa": "دور",
+     "r": "dur",
+     "en": "far",
+     "pos": "adj",
+     "ex": {
+      "fa": "ایستگاه مترو دور است.",
+      "r": "istgāh-e metro dur ast.",
+      "en": "The metro station is far.",
+      "faV": "ایستگاهِ مِترو دور اَست.",
+      "a": "a470dc0d628b"
+     },
+     "faV": "دور",
+     "a": "0148b25f88a6"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "On, under, next to: place words and the ezafe",
+   "md": "Most Persian place words are really nouns – [[رو|ru|top, face]], [[زیر|zir|underside]], [[پشت|posht|back]], [[کنار|kenār|side, edge]] – so they link to the next word with the **ezafe**: [[روی میز|ru-ye miz|on the table]] is literally *the top of the table*, and [[پشت در|posht-e dar|behind the door]] is *the back of the door*. After a vowel the ezafe is written ی: *ru-ye*, *jelo-ye*.\n\nOnly a handful of little words take **no** ezafe – [[در|dar|in]], [[به|be|to]], [[از|az|from]], [[با|bā|with]]: [[در اتاق|dar otāgh|in the room]].\n\n[[بین|beyn-e|between]] takes two things joined by *o*: [[بین بانک و پارک|beyn-e bānk o pārk|between the bank and the park]]. With a pronoun you can use the endings from lesson 5: [[کنارم|kenār-am|next to me]], [[زیرش|zir-ash|under it]].",
+   "table": {
+    "head": [
+     "Place word",
+     "Meaning",
+     "Example",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[در|dar]]",
+      "in, at",
+      "[[در اتاق|dar otāgh]]",
+      "in the room"
+     ],
+     [
+      "[[روی|ru-ye]]",
+      "on",
+      "[[روی میز|ru-ye miz]]",
+      "on the table"
+     ],
+     [
+      "[[زیر|zir-e]]",
+      "under",
+      "[[زیر تخت|zir-e takht]]",
+      "under the bed"
+     ],
+     [
+      "[[کنار|kenār-e]]",
+      "next to, beside",
+      "[[کنار پنجره|kenār-e panjare]]",
+      "next to the window"
+     ],
+     [
+      "[[پشت|posht-e]]",
+      "behind",
+      "[[پشت در|posht-e dar]]",
+      "behind the door"
+     ],
+     [
+      "[[جلوی|jelo-ye]]",
+      "in front of",
+      "[[جلوی خانه|jelo-ye khāne]]",
+      "in front of the house"
+     ],
+     [
+      "[[روبه‌روی|ru-be-ru-ye]]",
+      "opposite",
+      "[[روبه‌روی بانک|ru-be-ru-ye bānk]]",
+      "opposite the bank"
+     ],
+     [
+      "[[بین|beyn-e]]",
+      "between",
+      "[[بین میز و تخت|beyn-e miz o takht]]",
+      "between the table and the bed"
+     ],
+     [
+      "[[نزدیک|nazdik-e]]",
+      "near",
+      "[[نزدیک مسجد|nazdik-e masjed]]",
+      "near the mosque"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "کتاب روی میز است.",
+     "r": "ketāb ru-ye miz ast.",
+     "en": "The book is on the table.",
+     "faV": "کِتاب رویِ میز اَست.",
+     "a": "dfe76f4afc42"
+    },
+    {
+     "fa": "کیف من زیر صندلی است.",
+     "r": "kif-e man zir-e sandali ast.",
+     "en": "My bag is under the chair.",
+     "col": "کیفم زیر صندلیه.",
+     "colR": "kif-am zir-e sandali-ye.",
+     "faV": "کیفِ مَن زیرِ صَندَلی اَست.",
+     "a": "80c95ba1e927",
+     "colV": "کیفَم زیرِ صَندَلیه.",
+     "colA": "ef1b43472875"
+    },
+    {
+     "fa": "بانک بین داروخانه و نانوایی است.",
+     "r": "bānk beyn-e dāru-khāne o nānvāyi ast.",
+     "en": "The bank is between the pharmacy and the bakery.",
+     "faV": "بانک بَینِ داروخانه و نانوایی اَست.",
+     "a": "80ff7299014d"
+    },
+    {
+     "fa": "مدرسه نزدیک پارک است.",
+     "r": "madrese nazdik-e pārk ast.",
+     "en": "The school is near the park.",
+     "faV": "مَدرِسه نَزدیکِ پارک اَست.",
+     "a": "a0a5b64e3762"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Where is it? – kojā-st",
+   "md": "*Where is …?* is [[کجاست؟|kojā-st?]] – *kojā* + *ast*, written as one word: [[بانک کجاست؟|bānk kojā-st?|where is the bank?]] For more than one thing, use the full verb: [[کلیدها کجا هستند؟|kelid-hā kojā hastand?|where are the keys?]]\n\nThe answers follow the same pattern: [[اینجاست|injā-st|it's here]], [[آنجاست|ānjā-st|it's there]] (spoken *unjā-st*), or a place word + *ast*: [[کنار پارک است|kenār-e pārk ast|it's next to the park]]. You don't need a word for *it* – the verb says it all.\n\nStart with [[ببخشید|bebakhshid]] when you ask a stranger, and finish with [[ممنون|mamnun]]. In speech *ast* becomes *-e*: *kenār-e pārk-e*, *nazdik-e*.",
+   "table": {
+    "head": [
+     "Persian",
+     "Reading",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[بانک کجاست؟|bānk kojā-st?]]",
+      "bānk kojā-st?",
+      "Where is the bank?"
+     ],
+     [
+      "[[اینجاست.|injā-st.]]",
+      "injā-st.",
+      "It's here."
+     ],
+     [
+      "[[آنجاست.|ānjā-st.]]",
+      "ānjā-st.",
+      "It's there."
+     ],
+     [
+      "[[کلیدها کجا هستند؟|kelid-hā kojā hastand?]]",
+      "kelid-hā kojā hastand?",
+      "Where are the keys?"
+     ],
+     [
+      "[[روی میز هستند.|ru-ye miz hastand.]]",
+      "ru-ye miz hastand.",
+      "They're on the table."
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "ببخشید، داروخانه کجاست؟",
+     "r": "bebakhshid, dāru-khāne kojā-st?",
+     "en": "Excuse me, where is the pharmacy?",
+     "faV": "بِبَخشید، داروخانه کُجاست؟",
+     "a": "af317b977fc3"
+    },
+    {
+     "fa": "مترو آنجاست، جلوی بیمارستان.",
+     "r": "metro ānjā-st, jelo-ye bimārestān.",
+     "en": "The metro is over there, in front of the hospital.",
+     "col": "مترو اونجاست، جلوی بیمارستان.",
+     "colR": "metro unjā-st, jelo-ye bimārestān.",
+     "faV": "مِترو آنجاست، جِلویِ بیمارِستان.",
+     "a": "76b1d390b6d9",
+     "colV": "مِترو اونجاست، جِلویِ بیمارِستان.",
+     "colA": "44d9cf95ae32"
+    },
+    {
+     "fa": "بچه‌ها کجا هستند؟ در پارک هستند.",
+     "r": "bacche-hā kojā hastand? dar pārk hastand.",
+     "en": "Where are the children? They're in the park.",
+     "faV": "بَچّه‌ها کُجا هَستَند؟ دَر پارک هَستَند.",
+     "a": "5c04934e6416"
+    },
+    {
+     "fa": "خانه‌ی شما کجاست؟",
+     "r": "khāne-ye shomā kojā-st?",
+     "en": "Where is your home?",
+     "faV": "خانه‌یِ شُما کُجاست؟",
+     "a": "636259a50371"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "There is, there are: hast and nist",
+   "md": "To say that something **exists** somewhere – *there is, there are* – Persian uses [[هست|hast]], the form of *to be* you met in lesson 2, and usually puts the place first: [[روی میز یک کتاب هست|ru-ye miz yek ketāb hast|there is a book on the table]]. Things in the plural still take *hast*: [[در اتاق دو صندلی هست|dar otāgh do sandali hast|there are two chairs in the room]]; people usually take *hastand*.\n\nThe negative is [[نیست|nist]]: [[اینجا بانک نیست|injā bānk nist|there is no bank here]].\n\nCompare the two: *ast* tells you **where** a known thing is; *hast* tells you **that** something is there.",
+   "table": {
+    "head": [
+     "Persian",
+     "English",
+     "What it says"
+    ],
+    "rows": [
+     [
+      "[[کتاب روی میز است.|ketāb ru-ye miz ast.]]",
+      "The book is on the table.",
+      "where the book (that we know) is"
+     ],
+     [
+      "[[روی میز یک کتاب هست.|ru-ye miz yek ketāb hast.]]",
+      "There is a book on the table.",
+      "that a book is there"
+     ],
+     [
+      "[[بانک کجاست؟|bānk kojā-st?]]",
+      "Where is the bank?",
+      "I know there is one"
+     ],
+     [
+      "[[این نزدیکی بانک هست؟|in nazdiki bānk hast?]]",
+      "Is there a bank near here?",
+      "is there one at all?"
+     ],
+     [
+      "[[نه، این نزدیکی بانک نیست.|na, in nazdiki bānk nist.]]",
+      "No, there's no bank near here.",
+      "there isn't one"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "در خیابان ما دو نانوایی هست.",
+     "r": "dar khiyābān-e mā do nānvāyi hast.",
+     "en": "There are two bakeries on our street.",
+     "faV": "دَر خیابانِ ما دو نانوایی هَست.",
+     "a": "2cc6e65c1513"
+    },
+    {
+     "fa": "این نزدیکی داروخانه هست؟",
+     "r": "in nazdiki dāru-khāne hast?",
+     "en": "Is there a pharmacy near here?",
+     "faV": "این نَزدیکی داروخانه هَست؟",
+     "a": "bf9bc379d663"
+    },
+    {
+     "fa": "در اتاق من یک تخت، یک میز و دو صندلی هست.",
+     "r": "dar otāgh-e man yek takht, yek miz o do sandali hast.",
+     "en": "In my room there is a bed, a table and two chairs.",
+     "faV": "دَر اُتاقِ مَن یِک تَخت، یِک میز و دو صَندَلی هَست.",
+     "a": "bb805d073e6f"
+    },
+    {
+     "fa": "در کافه ده نفر هستند.",
+     "r": "dar kāfe dah nafar hastand.",
+     "en": "There are ten people in the café.",
+     "faV": "دَر کافه دَه نَفَر هَستَند.",
+     "a": "d1a5402f11a0"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Tom's neighbourhood",
+   "intro": "Tom writes to his sister about his new neighbourhood. Read, then answer the questions.",
+   "sentences": [
+    {
+     "fa": "آپارتمان من در یک کوچه‌ی کوچک است.",
+     "r": "āpārtemān-e man dar yek kuche-ye kuchak ast.",
+     "en": "My flat is in a small lane.",
+     "faV": "آپارتِمانِ مَن دَر یِک کوچه‌یِ کوچَک اَست.",
+     "a": "74ffba1a9e65"
+    },
+    {
+     "fa": "سر کوچه یک نانوایی و یک سوپرمارکت هست.",
+     "r": "sar-e kuche yek nānvāyi o yek supermārket hast.",
+     "en": "At the end of the lane there is a bakery and a supermarket.",
+     "faV": "سَرِ کوچه یِک نانوایی و یِک سوپِرمارکِت هَست.",
+     "a": "59c34e544da4"
+    },
+    {
+     "fa": "بانک در خیابان اصلی است، کنار داروخانه.",
+     "r": "bānk dar khiyābān-e asli ast, kenār-e dāru-khāne.",
+     "en": "The bank is on the main street, next to the pharmacy.",
+     "faV": "بانک دَر خیابانِ اَصلی اَست، کِنارِ داروخانه.",
+     "a": "a53b1f47445f"
+    },
+    {
+     "fa": "روبه‌روی داروخانه یک پارک بزرگ هست.",
+     "r": "ru-be-ru-ye dāru-khāne yek pārk-e bozorg hast.",
+     "en": "Opposite the pharmacy there is a big park.",
+     "faV": "روبه‌رویِ داروخانه یِک پارکِ بُزُرگ هَست.",
+     "a": "472aa71ff3a7"
+    },
+    {
+     "fa": "بین پارک و مسجد یک مدرسه هست.",
+     "r": "beyn-e pārk o masjed yek madrese hast.",
+     "en": "Between the park and the mosque there is a school.",
+     "faV": "بَینِ پارک و مَسجِد یِک مَدرِسه هَست.",
+     "a": "b6e255f98deb"
+    },
+    {
+     "fa": "ایستگاه مترو کمی دور است، اما بیمارستان خیلی نزدیک است.",
+     "r": "istgāh-e metro kami dur ast, ammā bimārestān kheyli nazdik ast.",
+     "en": "The metro station is a bit far, but the hospital is very close.",
+     "faV": "ایستگاهِ مِترو کَمی دور اَست، اَمّا بیمارِستان خَیلی نَزدیک اَست.",
+     "a": "49a77894f903"
+    },
+    {
+     "fa": "محله‌ی من همه چیز دارد!",
+     "r": "mahalle-ye man hame chiz dārad!",
+     "en": "My neighbourhood has everything!",
+     "faV": "مَحَلّه‌یِ مَن هَمه چیز دارَد!",
+     "a": "262022337d2e"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What is at the end of Tom's lane?",
+     "options": [
+      "a bank and a park",
+      "a bakery and a supermarket",
+      "a mosque and a school"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Where is the bank?",
+     "options": [
+      "next to the pharmacy",
+      "behind the mosque",
+      "opposite the park"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What is a bit far from Tom's flat?",
+     "options": [
+      "the hospital",
+      "the metro station",
+      "the park"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Squares, streets and lanes: finding an address",
+   "md": "Iranian addresses read like directions. They start big and get smaller: the city, a well-known square or main street, a smaller street, then the lane – [[کوچه|kuche]] – and the house number, sometimes with the floor and the flat. A taxi driver needs the landmarks more than the number, so you will often hear an address given as *Valiasr Street, after the square, opposite the mosque, the second lane on the left*.\n\nThe great landmarks of Tehran are its squares, [[میدان|meydān]]: Azadi Square in the west with its famous white tower, Enghelab in the centre, Vanak and Tajrish in the north. People arrange to meet [[سر کوچه|sar-e kuche|at the head of the lane]] or [[جلوی نانوایی|jelo-ye nānvāyi|in front of the bakery]] – exactly the language of this lesson.\n\nIf you get lost, ask. Iranians give directions generously – often with a long explanation, and sometimes by walking you there themselves.",
+   "image": "azadi-tower"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "Almost every place word takes the ezafe: *ru-ye, zir-e, kenār-e, posht-e, jelo-ye, beyn-e, nazdik-e*. Forgetting it is the classic beginner's mistake – *dar* is the main exception.",
+    "In speech *ru-ye* often shrinks to *ru*, and *dar* becomes *tu*: *ru miz-e* 'it's on the table', *tu otāgh-e* 'it's in the room'.",
+    "**در** is *dar* 'in' and also *dar* 'door' – *posht-e dar* is 'behind the door', *dar otāgh* is 'in the room'.",
+    "*nazdik* and *dur* also work on their own: *bānk nazdik ast* 'the bank is near'. 'Round here' is *in nazdiki*.",
+    "*ast* says where a known thing is (*bānk kojā-st?*); *hast* says that something exists (*bānk hast?*). Choose the verb by what you want to know."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the place words",
+   "items": [
+    {
+     "fa": "روی",
+     "r": "ru-ye",
+     "en": "on",
+     "faV": "رویِ",
+     "a": "35e60a7c1e33"
+    },
+    {
+     "fa": "زیر",
+     "r": "zir-e",
+     "en": "under",
+     "faV": "زیرِ",
+     "a": "0d173de446ba"
+    },
+    {
+     "fa": "کنار",
+     "r": "kenār-e",
+     "en": "next to",
+     "faV": "کِنارِ",
+     "a": "fb19e47c6c05"
+    },
+    {
+     "fa": "پشت",
+     "r": "posht-e",
+     "en": "behind",
+     "faV": "پُشتِ",
+     "a": "650fce338e0c"
+    },
+    {
+     "fa": "جلوی",
+     "r": "jelo-ye",
+     "en": "in front of",
+     "faV": "جِلویِ",
+     "a": "ad6c61a2de49"
+    },
+    {
+     "fa": "بین",
+     "r": "beyn-e",
+     "en": "between",
+     "faV": "بَینِ",
+     "a": "004f1259415c"
+    },
+    {
+     "fa": "نزدیک",
+     "r": "nazdik-e",
+     "en": "near",
+     "faV": "نَزدیکِ",
+     "a": "cd08f36368cb"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right answer",
+   "items": [
+    {
+     "q": "'On the table' is…",
+     "options": [
+      "روی میز",
+      "زیر میز",
+      "میز روی"
+     ],
+     "answer": 0,
+     "explain": "ru-ye + the noun: ru-ye miz. zir-e miz is 'under the table'."
+    },
+    {
+     "q": "How do you ask 'Where is the bank?'",
+     "options": [
+      "بانک کجاست؟",
+      "بانک هست؟",
+      "بانک چیست؟"
+     ],
+     "answer": 0,
+     "explain": "kojā-st = kojā + ast, 'where is'. bānk hast? asks whether there is a bank at all."
+    },
+    {
+     "q": "Which means 'There is a pharmacy near here'?",
+     "options": [
+      "این نزدیکی داروخانه هست.",
+      "داروخانه کجاست؟",
+      "داروخانه نزدیک نیست."
+     ],
+     "answer": 0,
+     "explain": "hast says that something exists: there is."
+    },
+    {
+     "q": "Which place word takes no ezafe?",
+     "options": [
+      "روی",
+      "در",
+      "کنار"
+     ],
+     "answer": 1,
+     "explain": "dar 'in' joins the noun directly: dar otāgh. The others need the ezafe."
+    },
+    {
+     "q": "'The bag is between the chair and the bed' is…",
+     "options": [
+      "کیف بین صندلی و تخت است.",
+      "کیف زیر صندلی و تخت است.",
+      "کیف پشت صندلی است."
+     ],
+     "answer": 0,
+     "explain": "beyn-e … o … = between … and …"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {
+     "fa": "کتاب ___ میز است.",
+     "r": "ketāb ___ miz ast.",
+     "en": "The book is on the table.",
+     "answer": "روی",
+     "hint": "on"
+    },
+    {
+     "fa": "ببخشید، ایستگاه مترو ___؟",
+     "r": "bebakhshid, istgāh-e metro ___?",
+     "en": "Excuse me, where is the metro station?",
+     "answer": "کجاست",
+     "hint": "where is"
+    },
+    {
+     "fa": "کیف من ___ صندلی است.",
+     "r": "kif-e man ___ sandali ast.",
+     "en": "My bag is under the chair.",
+     "answer": "زیر",
+     "hint": "under"
+    },
+    {
+     "fa": "این نزدیکی یک بانک ___.",
+     "r": "in nazdiki yek bānk ___.",
+     "en": "There is a bank near here.",
+     "answer": "هست",
+     "hint": "there is"
+    },
+    {
+     "fa": "پارک ___ بانک و مدرسه است.",
+     "r": "pārk ___ bānk o madrese ast.",
+     "en": "The park is between the bank and the school.",
+     "answer": "بین",
+     "hint": "between"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "داروخانه کنار بانک است.",
+     "r": "dāru-khāne kenār-e bānk ast.",
+     "en": "The pharmacy is next to the bank.",
+     "faV": "داروخانه کِنارِ بانک اَست.",
+     "a": "6a7afaef559c"
+    },
+    {
+     "fa": "ایستگاه مترو کجاست؟",
+     "r": "istgāh-e metro kojā-st?",
+     "en": "Where is the metro station?",
+     "faV": "ایستگاهِ مِترو کُجاست؟",
+     "a": "3fb53b4b1ece"
+    },
+    {
+     "fa": "روی میز یک کتاب هست.",
+     "r": "ru-ye miz yek ketāb hast.",
+     "en": "There is a book on the table.",
+     "faV": "رویِ میز یِک کِتاب هَست.",
+     "a": "8f4cc3ad697b"
+    },
+    {
+     "fa": "مدرسه پشت مسجد است.",
+     "r": "madrese posht-e masjed ast.",
+     "en": "The school is behind the mosque.",
+     "faV": "مَدرِسه پُشتِ مَسجِد اَست.",
+     "a": "36984b4befe9"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "کلید زیر کتاب است.",
+     "r": "kelid zir-e ketāb ast.",
+     "en": "The key is under the book.",
+     "options": [
+      "The key is on the book.",
+      "The key is under the book.",
+      "The key is next to the book."
+     ],
+     "answer": 1,
+     "faV": "کِلید زیرِ کِتاب اَست.",
+     "a": "0f85ad659e0c"
+    },
+    {
+     "fa": "نانوایی جلوی پارک است.",
+     "r": "nānvāyi jelo-ye pārk ast.",
+     "en": "The bakery is in front of the park.",
+     "options": [
+      "The bakery is behind the park.",
+      "The bakery is in front of the park.",
+      "The bank is in front of the park."
+     ],
+     "answer": 1,
+     "faV": "نانوایی جِلویِ پارک اَست.",
+     "a": "a92826643958"
+    },
+    {
+     "fa": "این نزدیکی بیمارستان نیست.",
+     "r": "in nazdiki bimārestān nist.",
+     "en": "There's no hospital near here.",
+     "options": [
+      "The hospital is near here.",
+      "There's no hospital near here.",
+      "Where is the hospital?"
+     ],
+     "answer": 1,
+     "faV": "این نَزدیکی بیمارِستان نیست.",
+     "a": "733259b7ba91"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "Excuse me, where is the bank?",
+     "fa": "ببخشید، بانک کجاست؟",
+     "r": "bebakhshid, bānk kojā-st?",
+     "faV": "بِبَخشید، بانک کُجاست؟",
+     "a": "9f9407f8b1f9"
+    },
+    {
+     "en": "The pharmacy is opposite the park.",
+     "fa": "داروخانه روبه‌روی پارک است.",
+     "r": "dāru-khāne ru-be-ru-ye pārk ast.",
+     "faV": "داروخانه روبه‌رویِ پارک اَست.",
+     "a": "a6430955733e"
+    },
+    {
+     "en": "Is there a supermarket near here?",
+     "fa": "این نزدیکی سوپرمارکت هست؟",
+     "r": "in nazdiki supermārket hast?",
+     "faV": "این نَزدیکی سوپِرمارکِت هَست؟",
+     "a": "5c6397cd123d"
+    },
+    {
+     "en": "There are two chairs in my room.",
+     "fa": "در اتاق من دو صندلی هست.",
+     "r": "dar otāgh-e man do sandali hast.",
+     "faV": "دَر اُتاقِ مَن دو صَندَلی هَست.",
+     "a": "7696b990c93a"
+    },
+    {
+     "en": "My key is not here.",
+     "fa": "کلیدم اینجا نیست.",
+     "r": "kelid-am injā nist.",
+     "faV": "کِلیدَم اینجا نیست.",
+     "a": "e640166f22a6"
+    }
+   ]
+  }
+ ],
+ "titleV": "کُجاست؟",
+ "titleA": "514fe46ed3fa"
+}

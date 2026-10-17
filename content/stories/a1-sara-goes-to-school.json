@@ -1,0 +1,282 @@
+{
+ "id": "a1-sara-goes-to-school",
+ "level": "A1",
+ "kind": "everyday life",
+ "title": "Sara goes to school",
+ "titleFa": "سارا به مدرسه می‌رود",
+ "titleR": "Sārā be madrese mi-ravad",
+ "image": "education-iran",
+ "intro": "A morning in the life of Sara, a nine-year-old in Tehran. This story practises the present tense of everyday verbs – wakes up, eats, goes, learns – and the words for school and family. Iranian schools start early, around 7:30, and the school week runs from Saturday to Wednesday or Thursday.",
+ "source": "An original story for this course.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "سارا نُه سال دارد.",
+     "r": "Sārā noh sāl dārad.",
+     "en": "Sara is nine years old.",
+     "faV": "سارا نُه سال دارَد.",
+     "a": "57aaddddaa7d"
+    },
+    {
+     "fa": "او در تهران زندگی می‌کند.",
+     "r": "u dar Tehrān zendegi mi-konad.",
+     "en": "She lives in Tehran.",
+     "faV": "او دَر تِهران زِندِگی می‌کُنَد.",
+     "a": "b05f3a03e145"
+    },
+    {
+     "fa": "صبح است.",
+     "r": "sobh ast.",
+     "en": "It is morning.",
+     "faV": "صُبح اَست.",
+     "a": "fffd67e42fa5"
+    },
+    {
+     "fa": "سارا ساعت شش بیدار می‌شود.",
+     "r": "Sārā sā'at-e shesh bidār mi-shavad.",
+     "en": "Sara wakes up at six o'clock.",
+     "faV": "سارا ساعَتِ شِش بیدار می‌شَوَد.",
+     "a": "36d80232abc8"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "مادر سارا چای و نان و پنیر می‌آورد.",
+     "r": "mādar-e Sārā chāy o nān o panir mi-āvarad.",
+     "en": "Sara's mother brings tea, bread and cheese.",
+     "faV": "مادَرِ سارا چای و نان و پَنیر می‌آوَرَد.",
+     "a": "6bfe562bea61"
+    },
+    {
+     "fa": "سارا صبحانه می‌خورد.",
+     "r": "Sārā sobhāne mi-khorad.",
+     "en": "Sara eats breakfast.",
+     "faV": "سارا صُبحانه می‌خورَد.",
+     "a": "0e56ae1716cf"
+    },
+    {
+     "fa": "او کیف و کتاب‌هایش را برمی‌دارد.",
+     "r": "u kif o ketāb-hā-yash rā bar-mi-dārad.",
+     "en": "She picks up her bag and her books.",
+     "faV": "او کیف و کِتاب‌هایَش را بَرمی‌دارَد.",
+     "a": "143c55384d17"
+    },
+    {
+     "fa": "سارا با پدرش به مدرسه می‌رود.",
+     "r": "Sārā bā pedar-ash be madrese mi-ravad.",
+     "en": "Sara goes to school with her father.",
+     "faV": "سارا با پِدَرَش به مَدرِسه می‌رَوَد.",
+     "a": "9b8e69127256"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "مدرسه نزدیک خانه است.",
+     "r": "madrese nazdik-e khāne ast.",
+     "en": "The school is near the house.",
+     "faV": "مَدرِسه نَزدیکِ خانه اَست.",
+     "a": "7124a0c4a796"
+    },
+    {
+     "fa": "دوست سارا، لیلا، هم آن‌جا است.",
+     "r": "dust-e Sārā, Leylā, ham ān-jā ast.",
+     "en": "Sara's friend Leila is there too.",
+     "faV": "دوستِ سارا، لَیلا، هَم آن‌جا اَست.",
+     "a": "7592a2e1f752"
+    },
+    {
+     "fa": "آن‌ها به معلم سلام می‌کنند.",
+     "r": "ān-hā be mo'allem salām mi-konand.",
+     "en": "They say hello to the teacher.",
+     "faV": "آن‌ها به مُعَلِّم سَلام می‌کُنَند.",
+     "a": "ff92e8f2962f"
+    },
+    {
+     "fa": "معلم می‌گوید: «صبح به خیر، بچه‌ها!»",
+     "r": "mo'allem mi-guyad: «sobh be kheyr, bacche-hā!»",
+     "en": "The teacher says: \"Good morning, children!\"",
+     "faV": "مُعَلِّم می‌گویَد: «صُبح به خَیر، بَچّه‌ها!»",
+     "a": "466a4cb1a7e9"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "امروز سارا فارسی و ریاضی دارد.",
+     "r": "emruz Sārā fārsi o riyāzi dārad.",
+     "en": "Today Sara has Persian and maths.",
+     "faV": "اِمروز سارا فارسی و ریاضی دارَد.",
+     "a": "5be2ddcf43d2"
+    },
+    {
+     "fa": "او ریاضی را خیلی دوست دارد.",
+     "r": "u riyāzi rā kheyli dust dārad.",
+     "en": "She likes maths very much.",
+     "faV": "او ریاضی را خَیلی دوست دارَد.",
+     "a": "1a6359f7838f"
+    },
+    {
+     "fa": "ساعت یک، مدرسه تمام می‌شود.",
+     "r": "sā'at-e yek, madrese tamām mi-shavad.",
+     "en": "At one o'clock, school finishes.",
+     "faV": "ساعَتِ یِک، مَدرِسه تَمام می‌شَوَد.",
+     "a": "f68823d8f767"
+    },
+    {
+     "fa": "سارا خوشحال به خانه می‌رود.",
+     "r": "Sārā khosh-hāl be khāne mi-ravad.",
+     "en": "Sara goes home happy.",
+     "faV": "سارا خوشحال به خانه می‌رَوَد.",
+     "a": "21905c2f26fb"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "مدرسه",
+   "r": "madrese",
+   "en": "school",
+   "faV": "مَدرِسه",
+   "a": "f8d376cd80f6"
+  },
+  {
+   "fa": "صبح",
+   "r": "sobh",
+   "en": "morning",
+   "faV": "صُبح",
+   "a": "4224dcca1239"
+  },
+  {
+   "fa": "بیدار شدن",
+   "r": "bidār shodan",
+   "en": "to wake up",
+   "faV": "بیدار شُدَن",
+   "a": "7b99f56beb0e"
+  },
+  {
+   "fa": "ساعت",
+   "r": "sā'at",
+   "en": "o'clock; hour; clock",
+   "faV": "ساعَت",
+   "a": "524847c32016"
+  },
+  {
+   "fa": "صبحانه",
+   "r": "sobhāne",
+   "en": "breakfast",
+   "faV": "صُبحانه",
+   "a": "4c37a2a6e99d"
+  },
+  {
+   "fa": "نان",
+   "r": "nān",
+   "en": "bread",
+   "faV": "نان",
+   "a": "9787c0c0fc1e"
+  },
+  {
+   "fa": "پنیر",
+   "r": "panir",
+   "en": "cheese",
+   "faV": "پَنیر",
+   "a": "8c5b0504a445"
+  },
+  {
+   "fa": "کیف",
+   "r": "kif",
+   "en": "bag",
+   "faV": "کیف",
+   "a": "23072f064230"
+  },
+  {
+   "fa": "کتاب",
+   "r": "ketāb",
+   "en": "book",
+   "faV": "کِتاب",
+   "a": "ed34a49570ab"
+  },
+  {
+   "fa": "نزدیک",
+   "r": "nazdik",
+   "en": "near",
+   "faV": "نَزدیک",
+   "a": "835c71e2b5d2"
+  },
+  {
+   "fa": "دوست",
+   "r": "dust",
+   "en": "friend",
+   "faV": "دوست",
+   "a": "f44c79aeaebb"
+  },
+  {
+   "fa": "معلم",
+   "r": "mo'allem",
+   "en": "teacher",
+   "faV": "مُعَلِّم",
+   "a": "63d83fae3594"
+  },
+  {
+   "fa": "ریاضی",
+   "r": "riyāzi",
+   "en": "maths",
+   "faV": "ریاضی",
+   "a": "04d3fa946fae"
+  },
+  {
+   "fa": "تمام شدن",
+   "r": "tamām shodan",
+   "en": "to finish, be over",
+   "faV": "تَمام شُدَن",
+   "a": "7cef233338f3"
+  }
+ ],
+ "questions": [
+  {
+   "q": "What time does Sara wake up?",
+   "options": [
+    "at six",
+    "at seven",
+    "at nine"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does Sara eat for breakfast?",
+   "options": [
+    "rice and kebab",
+    "bread and cheese with tea",
+    "soup"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Who goes to school with Sara?",
+   "options": [
+    "her mother",
+    "her father",
+    "her cat"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which subject does Sara like very much?",
+   "options": [
+    "Persian",
+    "maths",
+    "English"
+   ],
+   "answer": 1
+  }
+ ],
+ "after": "Bread, cheese and sweet tea – نان و پنیر و چای – is the classic Iranian breakfast, often with walnuts or herbs. Notice the compound verbs made with شدن: بیدار می‌شود 'wakes up' (literally 'becomes awake'), تمام می‌شود 'finishes' ('becomes complete'). Half of Persian verbs are built this way. Also notice ساعت شش 'six o'clock': ساعت means hour, clock and o'clock all at once.",
+ "titleV": "سارا به مَدرِسه می‌رَوَد",
+ "titleA": "faf3029e9eb4"
+}

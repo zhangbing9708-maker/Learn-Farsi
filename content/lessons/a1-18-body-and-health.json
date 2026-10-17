@@ -1,0 +1,241 @@
+{
+ "id": "a1-18-body-and-health",
+ "level": "A1",
+ "n": 18,
+ "title": "Body and health: my head hurts",
+ "titleFa": "سرم درد می‌کند",
+ "titleR": "sar-am dard mi-konad",
+ "intro": "Sooner or later every traveller needs a pharmacy. In this lesson you learn the parts of the body, how to say what hurts – in Persian your head 'does pain' – how to describe a cold or a fever, and how to understand the advice you get: you should rest, you must drink water. That last one uses باید, Persian's word for 'must', with the be- form of the verb you met in the imperative.",
+ "goals": ["name the main parts of the body", "say what hurts with درد کردن: سرم درد می‌کند", "say how you feel and buy medicine at a pharmacy", "give and understand simple advice with باید + subjunctive: باید استراحت کنی"],
+ "image": "avicenna",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "At the pharmacy",
+   "context": "Tom wakes up feeling ill and goes to the pharmacy on his street.",
+   "lines": [
+    {"who": "Pharmacist", "fa": "سلام، بفرمایید.", "r": "salām, befarmāyid.", "en": "Hello, how can I help you?"},
+    {"who": "Tom", "fa": "سلام. حالم خوب نیست. سرم خیلی درد می‌کند.", "r": "salām. hāl-am khub nist. sar-am kheyli dard mi-konad.", "en": "Hello. I don't feel well. I have a bad headache.", "col": "سلام. حالم خوب نیست. سرم خیلی درد می‌کنه.", "colR": "salām. hāl-am khub nist. sar-am kheyli dard mi-kone."},
+    {"who": "Pharmacist", "fa": "تب هم دارید؟", "r": "tab ham dārid?", "en": "Do you have a fever too?", "col": "تب هم دارین؟", "colR": "tab ham dārin?"},
+    {"who": "Tom", "fa": "فکر می‌کنم بله. گلویم هم درد می‌کند.", "r": "fekr mi-konam bale. galu-yam ham dard mi-konad.", "en": "I think so. My throat hurts too.", "col": "فکر می‌کنم آره. گلوم هم درد می‌کنه.", "colR": "fekr mi-konam āre. galu-m ham dard mi-kone."},
+    {"who": "Pharmacist", "fa": "سرفه هم می‌کنید؟", "r": "sorfe ham mi-konid?", "en": "Are you coughing as well?", "col": "سرفه هم می‌کنین؟", "colR": "sorfe ham mi-konin?"},
+    {"who": "Tom", "fa": "نه، سرفه نمی‌کنم. اما خیلی خسته‌ام.", "r": "na, sorfe nemi-konam. ammā kheyli khaste-am.", "en": "No, I'm not coughing. But I'm very tired.", "col": "نه، سرفه نمی‌کنم. ولی خیلی خسته‌ام.", "colR": "na, sorfe nemi-konam. vali kheyli khaste-am."},
+    {"who": "Pharmacist", "fa": "سرما خورده‌اید. این قرص خوب است.", "r": "sarmā khorde-id. in ghors khub ast.", "en": "You've caught a cold. This tablet is good.", "col": "سرما خوردین. این قرص خوبه.", "colR": "sarmā khordin. in ghors khube."},
+    {"who": "Tom", "fa": "چند بار در روز بخورم؟", "r": "chand bār dar ruz bekhoram?", "en": "How many times a day should I take it?", "col": "روزی چند بار بخورم؟", "colR": "ruz-i chand bār bekhoram?"},
+    {"who": "Pharmacist", "fa": "روزی سه بار، بعد از غذا. باید زیاد آب بخورید و استراحت کنید.", "r": "ruz-i se bār, ba'd az ghazā. bāyad ziyād āb bekhorid o esterāhat konid.", "en": "Three times a day, after meals. You should drink a lot of water and rest.", "col": "روزی سه بار، بعد از غذا. باید زیاد آب بخورین و استراحت کنین.", "colR": "ruz-i se bār, ba'd az ghazā. bāyad ziyād āb bekhorin o esterāhat konin."},
+    {"who": "Tom", "fa": "باید پیش دکتر بروم؟", "r": "bāyad pish-e doktor beravam?", "en": "Do I need to see a doctor?", "col": "باید برم دکتر؟", "colR": "bāyad beram doktor?"},
+    {"who": "Pharmacist", "fa": "فعلاً نه. دو سه روز استراحت کنید.", "r": "fe'lan na. do se ruz esterāhat konid.", "en": "Not for now. Rest for two or three days.", "col": "فعلاً نه. دو سه روز استراحت کنین.", "colR": "fe'lan na. do se ruz esterāhat konin."},
+    {"who": "Tom", "fa": "خیلی ممنون. چقدر می‌شود؟", "r": "kheyli mamnun. cheghadr mi-shavad?", "en": "Thanks a lot. How much is it?", "col": "خیلی ممنون. چقدر می‌شه؟", "colR": "kheyli mamnun. cheghadr mi-she?"},
+    {"who": "Pharmacist", "fa": "پنجاه هزار تومان. خدا بد ندهد!", "r": "panjāh hezār tumān. khodā bad na-dahad!", "en": "Fifty thousand tomans. Get well soon!", "col": "پنجاه تومن. خدا بد نده!", "colR": "panjāh toman. khodā bad nade!"},
+    {"who": "Tom", "fa": "ممنون، بد نبینید!", "r": "mamnun, bad na-binid!", "en": "Thank you – and may you never be ill!", "col": "ممنون، بد نبینین!", "colR": "mamnun, bad na-binin!"}
+   ]
+  },
+  {
+   "type": "text",
+   "title": "My head 'does pain'",
+   "md": "English says *I have a headache* or *my head hurts*. Persian says that your head **does pain**: [[سرم درد می‌کند.|sar-am dard mi-konad.|My head hurts.]] The body part is the subject, with the possessive ending you learned in lesson 5 (*sar-am*, my head), and [[درد کردن|dard kardan|to ache]] is the verb.\n\nFor how you feel in general, use [[حال|hāl|state, condition]]: [[حالم خوب نیست.|hāl-am khub nist.|I don't feel well.]] – literally *my state is not good*. The answer to [[حالت چطور است؟|hāl-at chetor ast?]] is now more than *khubam*.\n\nTwo phrases every Iranian uses when someone is ill: [[خدا بد ندهد!|khodā bad na-dahad!|may God give you nothing bad]], the Persian *get well soon*, and the reply [[بد نبینی!|bad na-bini!|may you see nothing bad]]. A cold, by the way, is something you **eat**: [[سرما خورده‌ام.|sarmā khorde-am.|I've caught a cold]] – literally *I have eaten cold*."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {"fa": "سر", "r": "sar", "en": "head", "pos": "n", "ex": {"fa": "سرم درد می‌کند.", "r": "sar-am dard mi-konad.", "en": "I have a headache."}},
+    {"fa": "چشم", "r": "chashm", "en": "eye", "pos": "n"},
+    {"fa": "گوش", "r": "gush", "en": "ear", "pos": "n"},
+    {"fa": "دندان", "r": "dandān", "en": "tooth", "pos": "n", "ex": {"fa": "دندانم درد می‌کند.", "r": "dandān-am dard mi-konad.", "en": "I have toothache."}},
+    {"fa": "گلو", "r": "galu", "en": "throat", "pos": "n", "note": "my throat: گلویم galu-yam"},
+    {"fa": "دست", "r": "dast", "en": "hand, arm", "pos": "n"},
+    {"fa": "پا", "r": "pā", "en": "foot, leg", "pos": "n", "note": "my leg: پایم pā-yam"},
+    {"fa": "کمر", "r": "kamar", "en": "lower back, waist", "pos": "n"},
+    {"fa": "دل", "r": "del", "en": "heart (feelings); tummy", "pos": "n", "ex": {"fa": "دلم درد می‌کند.", "r": "del-am dard mi-konad.", "en": "I have a stomach ache."}},
+    {"fa": "درد", "r": "dard", "en": "pain", "pos": "n", "ex": {"fa": "خیلی درد دارم.", "r": "kheyli dard dāram.", "en": "I'm in a lot of pain."}},
+    {"fa": "تب", "r": "tab", "en": "fever", "pos": "n", "ex": {"fa": "بچه تب دارد.", "r": "bacche tab dārad.", "en": "The child has a fever."}},
+    {"fa": "سرفه", "r": "sorfe", "en": "cough", "pos": "n", "note": "سرفه کردن sorfe kardan, to cough"},
+    {"fa": "سرماخوردگی", "r": "sarmā-khordegi", "en": "a cold", "pos": "n", "note": "سرما خوردن, 'to eat cold' = to catch a cold"},
+    {"fa": "قرص", "r": "ghors", "en": "tablet, pill", "pos": "n"},
+    {"fa": "داروخانه", "r": "dāru-khāne", "en": "pharmacy, chemist's", "pos": "n", "note": "دارو dāru (medicine) + خانه khāne (house)"},
+    {"fa": "دکتر", "r": "doktor", "en": "doctor", "pos": "n", "note": "more formal: پزشک pezeshk"},
+    {"fa": "مریض", "r": "mariz", "en": "ill, sick", "pos": "adj", "ex": {"fa": "امروز مریض هستم.", "r": "emruz mariz hastam.", "en": "I'm ill today."}},
+    {"fa": "حال", "r": "hāl", "en": "state, how you feel", "pos": "n", "ex": {"fa": "حالم خوب نیست.", "r": "hāl-am khub nist.", "en": "I don't feel well."}},
+    {"fa": "استراحت کردن", "r": "esterāhat kardan", "en": "to rest", "pos": "v"},
+    {"fa": "باید", "r": "bāyad", "en": "must, should, have to", "pos": "v", "note": "never changes; the next verb is in the be- form: باید بروم"}
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Saying what hurts: سرم درد می‌کند",
+   "md": "Put the possessive ending on the body part and follow it with [[درد می‌کند|dard mi-konad|it hurts]]. The verb stays in the *it* form whoever is in pain, because the subject is the head, the tooth or the leg – not you.\n\nAfter a vowel the endings take a **y**: [[پایم|pā-yam|my leg]], [[گلویم|galu-yam|my throat]]. With two eyes or two feet, written Persian uses a plural verb – [[چشم‌هایم درد می‌کنند|chashm-hā-yam dard mi-konand|my eyes hurt]] – but in speech the singular is normal.\n\nThe negative is regular: [[سرم درد نمی‌کند.|sar-am dard nemi-konad.|My head doesn't hurt.]] And the doctor's first question is [[کجایتان درد می‌کند؟|kojā-yetān dard mi-konad?|Where does it hurt?]] – literally *where of yours hurts?*",
+   "table": {
+    "head": ["Person", "head", "leg (after a vowel)", "English"],
+    "rows": [
+     ["I", "[[سرم درد می‌کند|sar-am dard mi-konad]]", "[[پایم درد می‌کند|pā-yam dard mi-konad]]", "my head / leg hurts"],
+     ["you", "[[سرت درد می‌کند|sar-at dard mi-konad]]", "[[پایت درد می‌کند|pā-yat dard mi-konad]]", "your head / leg hurts"],
+     ["he / she", "[[سرش درد می‌کند|sar-ash dard mi-konad]]", "[[پایش درد می‌کند|pā-yash dard mi-konad]]", "his / her head / leg hurts"],
+     ["we", "[[سرمان درد می‌کند|sar-emān dard mi-konad]]", "[[پایمان درد می‌کند|pā-yemān dard mi-konad]]", "our heads / legs hurt"],
+     ["you (polite, pl.)", "[[سرتان درد می‌کند|sar-etān dard mi-konad]]", "[[پایتان درد می‌کند|pā-yetān dard mi-konad]]", "your head / leg hurts"],
+     ["they", "[[سرشان درد می‌کند|sar-eshān dard mi-konad]]", "[[پایشان درد می‌کند|pā-yeshān dard mi-konad]]", "their heads / legs hurt"]
+    ]
+   },
+   "examples": [
+    {"fa": "دندانم خیلی درد می‌کند.", "r": "dandān-am kheyli dard mi-konad.", "en": "My tooth really hurts.", "col": "دندونم خیلی درد می‌کنه.", "colR": "dandun-am kheyli dard mi-kone."},
+    {"fa": "کجایتان درد می‌کند؟", "r": "kojā-yetān dard mi-konad?", "en": "Where does it hurt?", "col": "کجاتون درد می‌کنه؟", "colR": "kojā-tun dard mi-kone?"},
+    {"fa": "کمر پدرم درد می‌کند.", "r": "kamar-e pedar-am dard mi-konad.", "en": "My father's back hurts."},
+    {"fa": "دیگر سرم درد نمی‌کند.", "r": "digar sar-am dard nemi-konad.", "en": "My head doesn't hurt any more."},
+    {"fa": "دلم درد می‌کند.", "r": "del-am dard mi-konad.", "en": "I have a stomach ache.", "note": "del is the heart of poetry and the tummy of everyday life"}
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "How do you feel? Symptoms",
+   "md": "Most symptoms use verbs you already know. A fever is something you **have**, with [[داشتن|dāshtan]]: [[تب دارم.|tab dāram.]] A cough is something you **do**, with [[کردن|kardan]]: [[سرفه می‌کنم.|sorfe mi-konam.]] Learn [[سرما خورده‌ام|sarmā khorde-am|I've caught a cold]] as one chunk for now – it is the present perfect, which you will meet properly at A2.\n\nTo ask a friend how they feel, say [[حالت چطور است؟|hāl-at chetor ast?]]; to a stranger, [[حالتان چطور است؟|hāl-etān chetor ast?]] The good news is [[بهترم.|behtar-am.|I'm better.]]",
+   "table": {
+    "head": ["Persian", "English", "literally"],
+    "rows": [
+     ["[[حالم خوب نیست.|hāl-am khub nist.]]", "I don't feel well.", "my state is not good"],
+     ["[[تب دارم.|tab dāram.]]", "I have a fever.", "I have fever"],
+     ["[[سرفه می‌کنم.|sorfe mi-konam.]]", "I'm coughing.", "I do cough"],
+     ["[[سرما خورده‌ام.|sarmā khorde-am.]]", "I've caught a cold.", "I have eaten cold"],
+     ["[[سرم گیج می‌رود.|sar-am gij mi-ravad.]]", "I feel dizzy.", "my head goes dizzy"],
+     ["[[خسته‌ام.|khaste-am.]]", "I'm tired.", "tired-I-am"],
+     ["[[بهترم.|behtar-am.]]", "I'm better.", "better-I-am"]
+    ]
+   },
+   "examples": [
+    {"fa": "حالت چطور است؟ بهتری؟", "r": "hāl-at chetor ast? behtar-i?", "en": "How are you feeling? Are you better?", "col": "حالت چطوره؟ بهتری؟", "colR": "hāl-et chetore? behtar-i?"},
+    {"fa": "مادرم سرما خورده است و تب دارد.", "r": "mādar-am sarmā khorde ast o tab dārad.", "en": "My mother has caught a cold and has a fever."},
+    {"fa": "امروز حالم خوب نیست، سر کار نمی‌روم.", "r": "emruz hāl-am khub nist, sar-e kār nemi-ravam.", "en": "I don't feel well today, I'm not going to work.", "col": "امروز حالم خوب نیست، سر کار نمی‌رم.", "colR": "emruz hāl-am khub nist, sar-e kār nemi-ram."},
+    {"fa": "بچه شب‌ها سرفه می‌کند.", "r": "bacche shab-hā sorfe mi-konad.", "en": "The child coughs at night."}
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "You should rest: باید + subjunctive",
+   "md": "[[باید|bāyad]] means *must, have to, should*, and it never changes. The verb after it takes the **be-** form you met in the imperative (lesson 16), now with a person ending: [[باید بروم|bāyad beravam|I must go]], [[باید بروی|bāyad beravi|you must go]]. This form is called the *subjunctive* ([[التزامی|eltezāmi]]); you will use it a lot from now on.\n\nCompound verbs drop the **be-**, just as in the imperative: [[باید استراحت کنید|bāyad esterāhat konid|you should rest]]. For *must not, should not*, add **na-** to bāyad: [[نباید بروی|na-bāyad beravi|you shouldn't go]].",
+   "table": {
+    "head": ["Person", "go (raftan)", "eat, take (khordan)", "rest (esterāhat kardan)"],
+    "rows": [
+     ["I", "[[باید بروم|bāyad beravam]]", "[[باید بخورم|bāyad bekhoram]]", "[[باید استراحت کنم|bāyad esterāhat konam]]"],
+     ["you", "[[باید بروی|bāyad beravi]]", "[[باید بخوری|bāyad bekhori]]", "[[باید استراحت کنی|bāyad esterāhat koni]]"],
+     ["he / she", "[[باید برود|bāyad beravad]]", "[[باید بخورد|bāyad bekhorad]]", "[[باید استراحت کند|bāyad esterāhat konad]]"],
+     ["we", "[[باید برویم|bāyad beravim]]", "[[باید بخوریم|bāyad bekhorim]]", "[[باید استراحت کنیم|bāyad esterāhat konim]]"],
+     ["you (polite, pl.)", "[[باید بروید|bāyad beravid]]", "[[باید بخورید|bāyad bekhorid]]", "[[باید استراحت کنید|bāyad esterāhat konid]]"],
+     ["they", "[[باید بروند|bāyad beravand]]", "[[باید بخورند|bāyad bekhorand]]", "[[باید استراحت کنند|bāyad esterāhat konand]]"]
+    ]
+   },
+   "examples": [
+    {"fa": "باید پیش دکتر بروی.", "r": "bāyad pish-e doktor beravi.", "en": "You should see a doctor.", "col": "باید بری دکتر.", "colR": "bāyad beri doktor."},
+    {"fa": "باید روزی سه بار قرص بخورم.", "r": "bāyad ruz-i se bār ghors bekhoram.", "en": "I have to take a tablet three times a day."},
+    {"fa": "شما نباید امروز کار کنید.", "r": "shomā na-bāyad emruz kār konid.", "en": "You shouldn't work today.", "col": "شما نباید امروز کار کنین.", "colR": "shomā na-bāyad emruz kār konin."},
+    {"fa": "باید زیاد آب بخوریم.", "r": "bāyad ziyād āb bekhorim.", "en": "We should drink a lot of water."},
+    {"fa": "داروخانه کجاست؟ باید قرص بخرم.", "r": "dāru-khāne kojāst? bāyad ghors bekharam.", "en": "Where is the pharmacy? I need to buy some tablets."}
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Mina is ill",
+   "intro": "Mina wakes up with a cold. Read about her day at home.",
+   "sentences": [
+    {"fa": "امروز مینا مریض است.", "r": "emruz Minā mariz ast.", "en": "Mina is ill today."},
+    {"fa": "سرش درد می‌کند و تب دارد.", "r": "sar-ash dard mi-konad o tab dārad.", "en": "She has a headache and a fever."},
+    {"fa": "او سر کار نمی‌رود و در خانه می‌ماند.", "r": "u sar-e kār nemi-ravad o dar khāne mi-mānad.", "en": "She doesn't go to work and stays at home."},
+    {"fa": "مادرش برای او سوپ می‌پزد.", "r": "mādar-ash barā-ye u sup mi-pazad.", "en": "Her mother makes soup for her."},
+    {"fa": "رضا زنگ می‌زند و می‌پرسد: «حالت چطور است؟»", "r": "Rezā zang mi-zanad o mi-porsad: «hāl-at chetor ast?»", "en": "Reza rings and asks: \"How are you feeling?\""},
+    {"fa": "مینا می‌گوید: «گلویم هم درد می‌کند.»", "r": "Minā mi-guyad: «galu-yam ham dard mi-konad.»", "en": "Mina says: \"My throat hurts too.\""},
+    {"fa": "رضا می‌گوید: «خدا بد ندهد! باید استراحت کنی.»", "r": "Rezā mi-guyad: «khodā bad na-dahad! bāyad esterāhat koni.»", "en": "Reza says: \"Get well soon! You must rest.\""}
+   ],
+   "questions": [
+    {"q": "What is wrong with Mina?", "options": ["a headache and a fever", "toothache", "a bad back"], "answer": 0},
+    {"q": "Who makes soup for Mina?", "options": ["Reza", "her mother", "the pharmacist"], "answer": 1},
+    {"q": "What does Reza say Mina must do?", "options": ["go to work", "rest", "go to the pharmacy"], "answer": 1}
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Warm foods, cold foods and Avicenna",
+   "md": "Tell an Iranian grandmother you have a cold and she will not only say [[خدا بد ندهد|khodā bad na-dahad]] – she will tell you what to eat. In traditional Persian medicine every food has a nature, [[طبع|tab']], that is either [[گرم|garm|warm]] or [[سرد|sard|cold]], whatever its temperature. Dates, honey, walnuts and ginger are *warm*; yoghurt, cucumber, fish and watermelon are *cold*. Too much of one upsets your balance, so a cold is treated with warm things: barley soup, [[آش|āsh]], a hot drink of [[نبات|nabāt|rock sugar]] with saffron, and quince or mint distillates from the herbalist.\n\nThe system goes back to Galen and to **Avicenna** – [[ابن سینا|Ebn-e Sinā]] (980–1037) – whose *Canon of Medicine* was the standard medical textbook in Europe for centuries. Modern Iran has excellent doctors and a pharmacy on every street, but the warm–cold idea is everywhere: ask why someone won't eat fish with yoghurt and you will hear about it.",
+   "image": "avicenna-mausoleum"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "The body part is the subject, so the verb is always the *it* form: **sar-am dard mi-konad** (my head hurts) – never *dard mi-konam*.",
+    "**del** is the heart of poetry and the tummy of everyday life: *del-am dard mi-konad* is a stomach ache, but *del-am tang ast* means 'I miss someone'.",
+    "In speech *mi-konad* becomes *mi-kone* and *dandān* becomes *dandun*: *dandun-am dard mi-kone*. The polite *-id* becomes *-in*: *esterāhat konin*.",
+    "When someone tells you they are ill, say **khodā bad na-dahad!** (spoken *khodā bad nade*). The answer is **bad na-bini!** – 'may you see nothing bad'.",
+    "Iranian pharmacists give advice freely and many simple medicines are sold over the counter. A prescription is a **noskhe** (نسخه)."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the parts of the body",
+   "items": [
+    {"fa": "سر", "r": "sar", "en": "head"},
+    {"fa": "چشم", "r": "chashm", "en": "eye"},
+    {"fa": "گوش", "r": "gush", "en": "ear"},
+    {"fa": "دندان", "r": "dandān", "en": "tooth"},
+    {"fa": "گلو", "r": "galu", "en": "throat"},
+    {"fa": "دست", "r": "dast", "en": "hand, arm"},
+    {"fa": "پا", "r": "pā", "en": "foot, leg"},
+    {"fa": "کمر", "r": "kamar", "en": "lower back"}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right answer",
+   "items": [
+    {"q": "'My head hurts' is…", "options": ["سرم درد می‌کند.", "سرم درد می‌کنم.", "من سر درد است."], "answer": 0, "explain": "The head is the subject: sar-am (my head) + dard mi-konad (it hurts)."},
+    {"q": "A friend tells you she is ill. You say…", "options": ["نوش جان!", "خدا بد ندهد!", "خسته نباشید!"], "answer": 1, "explain": "khodā bad na-dahad – 'may God give you nothing bad' – is what you say to someone who is ill."},
+    {"q": "'You should rest' (polite) is…", "options": ["باید استراحت می‌کنید.", "باید استراحت کنید.", "باید استراحت کردید."], "answer": 1, "explain": "After bāyad comes the subjunctive; a compound verb like esterāhat kardan takes no be-: esterāhat konid."},
+    {"q": "'My leg' is…", "options": ["پاام", "پایم", "پا من"], "answer": 1, "explain": "After a vowel the endings take a y: pā-yam, galu-yam."},
+    {"q": "Where do you buy tablets?", "options": ["در داروخانه", "در کتابخانه", "در آشپزخانه"], "answer": 0, "explain": "dāru-khāne is the 'medicine-house'; ketāb-khāne is a library and āshpaz-khāne a kitchen."}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {"fa": "گلویم ___ می‌کند.", "r": "galu-yam ___ mi-konad.", "en": "My throat hurts.", "answer": "درد", "hint": "pain"},
+    {"fa": "حالم خوب ___.", "r": "hāl-am khub ___.", "en": "I don't feel well.", "answer": "نیست", "hint": "is not"},
+    {"fa": "باید پیش دکتر ___.", "r": "bāyad pish-e doktor ___.", "en": "I should go to the doctor.", "answer": "بروم", "hint": "go, I (be- form)"},
+    {"fa": "سرما خورده‌ام و ___ دارم.", "r": "sarmā khorde-am o ___ dāram.", "en": "I've caught a cold and I have a fever.", "answer": "تب", "hint": "fever"},
+    {"fa": "روزی سه بار یک ___ بخورید.", "r": "ruz-i se bār yek ___ bekhorid.", "en": "Take one tablet three times a day.", "answer": "قرص", "hint": "tablet"}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {"fa": "سرم خیلی درد می‌کند.", "r": "sar-am kheyli dard mi-konad.", "en": "I have a bad headache."},
+    {"fa": "باید زیاد آب بخورید.", "r": "bāyad ziyād āb bekhorid.", "en": "You should drink a lot of water."},
+    {"fa": "ببخشید، داروخانه کجاست؟", "r": "bebakhshid, dāru-khāne kojāst?", "en": "Excuse me, where is the pharmacy?"},
+    {"fa": "امروز حالم خوب نیست.", "r": "emruz hāl-am khub nist.", "en": "I don't feel well today."}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {"fa": "دندانم درد می‌کند.", "r": "dandān-am dard mi-konad.", "en": "I have toothache.", "options": ["I have toothache.", "I have a headache.", "My ear hurts."], "answer": 0},
+    {"fa": "تب دارید؟", "r": "tab dārid?", "en": "Do you have a fever?", "options": ["Are you tired?", "Do you have a fever?", "Do you have any tablets?"], "answer": 1},
+    {"fa": "خدا بد ندهد!", "r": "khodā bad na-dahad!", "en": "Get well soon!", "options": ["Enjoy your meal!", "Goodbye!", "Get well soon!"], "answer": 2}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {"en": "My back hurts.", "fa": "کمرم درد می‌کند.", "r": "kamar-am dard mi-konad."},
+    {"en": "I don't feel well. I have a fever.", "fa": "حالم خوب نیست. تب دارم.", "r": "hāl-am khub nist. tab dāram."},
+    {"en": "You should rest and drink a lot of water. (to a friend)", "fa": "باید استراحت کنی و زیاد آب بخوری.", "r": "bāyad esterāhat koni o ziyād āb bekhori."},
+    {"en": "Where is the pharmacy? I need to buy medicine.", "fa": "داروخانه کجاست؟ باید دارو بخرم.", "r": "dāru-khāne kojāst? bāyad dāru bekharam."}
+   ]
+  }
+ ]
+}

@@ -1,0 +1,296 @@
+{
+ "id": "a1-a-day-in-the-bazaar",
+ "level": "A1",
+ "kind": "everyday life",
+ "title": "A day in the bazaar",
+ "titleFa": "یک روز در بازار",
+ "titleR": "yek ruz dar bāzār",
+ "image": "grand-bazaar-tehran",
+ "intro": "Tom, an Australian student in Tehran, visits the Grand Bazaar with his friend Reza. The story practises shopping language: 'how much is it?', numbers, 'expensive' and 'cheap', and the famous Persian habit of bargaining. Prices in Iran are spoken in tomans, even though the money says rials.",
+ "source": "An original story for this course.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "امروز جمعه است.",
+     "r": "emruz jom'e ast.",
+     "en": "Today is Friday.",
+     "faV": "اِمروز جُمعه اَست.",
+     "a": "5af091b02d3f"
+    },
+    {
+     "fa": "تام و رضا به بازار بزرگ تهران می‌روند.",
+     "r": "Tām o Rezā be bāzār-e bozorg-e Tehrān mi-ravand.",
+     "en": "Tom and Reza go to the Grand Bazaar of Tehran.",
+     "faV": "تام و رِضا به بازارِ بُزُرگِ تِهران می‌رَوَند.",
+     "a": "627d38a5043d"
+    },
+    {
+     "fa": "بازار خیلی بزرگ و خیلی شلوغ است.",
+     "r": "bāzār kheyli bozorg o kheyli shulugh ast.",
+     "en": "The bazaar is very big and very crowded.",
+     "faV": "بازار خَیلی بُزُرگ و خَیلی شلوغ اَست.",
+     "a": "5ba4dda0d6f0"
+    },
+    {
+     "fa": "این‌جا همه چیز هست: فرش، طلا، لباس، ادویه و چای.",
+     "r": "in-jā hame chiz hast: farsh, talā, lebās, adviye o chāy.",
+     "en": "Everything is here: carpets, gold, clothes, spices and tea.",
+     "faV": "این‌جا هَمه چیز هَست: فَرش، طَلا، لِباس، اَدویه و چای.",
+     "a": "9597bf80c745"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "تام یک فرش کوچک می‌خواهد.",
+     "r": "Tām yek farsh-e kuchak mi-khāhad.",
+     "en": "Tom wants a small carpet.",
+     "faV": "تام یِک فَرشِ کوچَک می‌خواهَد.",
+     "a": "d46720ea1252"
+    },
+    {
+     "fa": "او از فروشنده می‌پرسد: «ببخشید، این فرش چند است؟»",
+     "r": "u az forushande mi-porsad: «bebakhshid, in farsh chand ast?»",
+     "en": "He asks the seller: \"Excuse me, how much is this carpet?\"",
+     "faV": "او اَز فُروشَنده می‌پُرسَد: «بِبَخشید، این فَرش چَند اَست؟»",
+     "a": "a5436cdc01f6"
+    },
+    {
+     "fa": "فروشنده می‌گوید: «دو میلیون تومان.»",
+     "r": "forushande mi-guyad: «do milyun tumān.»",
+     "en": "The seller says: \"Two million tomans.\"",
+     "faV": "فُروشَنده می‌گویَد: «دو میلیون تومان.»",
+     "a": "3c91a37ce520"
+    },
+    {
+     "fa": "تام می‌گوید: «خیلی گران است!»",
+     "r": "Tām mi-guyad: «kheyli gerān ast!»",
+     "en": "Tom says: \"It's very expensive!\"",
+     "faV": "تام می‌گویَد: «خَیلی گِران اَست!»",
+     "a": "26f1ca6a8942"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "رضا می‌خندد.",
+     "r": "Rezā mi-khandad.",
+     "en": "Reza laughs.",
+     "faV": "رِضا می‌خَندَد.",
+     "a": "57c811637334"
+    },
+    {
+     "fa": "او به فروشنده می‌گوید: «آقا، یک میلیون و نیم خوب است؟»",
+     "r": "u be forushande mi-guyad: «āghā, yek milyun o nim khub ast?»",
+     "en": "He says to the seller: \"Sir, is one and a half million all right?\"",
+     "faV": "او به فُروشَنده می‌گویَد: «آقا، یِک میلیون و نیم خوب اَست؟»",
+     "a": "1085ec9db6b8"
+    },
+    {
+     "fa": "فروشنده فکر می‌کند.",
+     "r": "forushande fekr mi-konad.",
+     "en": "The seller thinks.",
+     "faV": "فُروشَنده فِکر می‌کُنَد.",
+     "a": "c962ec795198"
+    },
+    {
+     "fa": "بعد می‌گوید: «باشد. برای شما یک میلیون و نیم.»",
+     "r": "ba'd mi-guyad: «bāshad. barā-ye shomā yek milyun o nim.»",
+     "en": "Then he says: \"All right. For you, one and a half million.\"",
+     "faV": "بَعد می‌گویَد: «باشَد. بَرایِ شُما یِک میلیون و نیم.»",
+     "a": "bc91a88ed279"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "تام خوشحال است.",
+     "r": "Tām khosh-hāl ast.",
+     "en": "Tom is happy.",
+     "faV": "تام خوشحال اَست.",
+     "a": "71593c14c521"
+    },
+    {
+     "fa": "فرش قرمز و آبی است و خیلی قشنگ است.",
+     "r": "farsh ghermez o ābi ast o kheyli ghashang ast.",
+     "en": "The carpet is red and blue and very pretty.",
+     "faV": "فَرش قِرمِز و آبی اَست و خَیلی قَشَنگ اَست.",
+     "a": "11e8f43b1f59"
+    },
+    {
+     "fa": "بعد از بازار، آن‌ها چای می‌خورند.",
+     "r": "ba'd az bāzār, ān-hā chāy mi-khorand.",
+     "en": "After the bazaar, they drink tea.",
+     "faV": "بَعد اَز بازار، آن‌ها چای می‌خورَند.",
+     "a": "da64fcc90d39"
+    },
+    {
+     "fa": "تام می‌گوید: «رضا، تو فروشنده‌ی خوبی هستی!»",
+     "r": "Tām mi-guyad: «Rezā, to forushande-ye khub-i hasti!»",
+     "en": "Tom says: \"Reza, you are a good salesman!\"",
+     "faV": "تام می‌گویَد: «رِضا، تو فُروشَنده‌یِ خوبی هَستی!»",
+     "a": "c82402276921"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "بازار",
+   "r": "bāzār",
+   "en": "bazaar, market",
+   "faV": "بازار",
+   "a": "05299979b024"
+  },
+  {
+   "fa": "شلوغ",
+   "r": "shulugh",
+   "en": "crowded, busy",
+   "faV": "شلوغ",
+   "a": "d681c73acadf"
+  },
+  {
+   "fa": "همه چیز",
+   "r": "hame chiz",
+   "en": "everything",
+   "faV": "هَمه چیز",
+   "a": "b624ff381696"
+  },
+  {
+   "fa": "فرش",
+   "r": "farsh",
+   "en": "carpet",
+   "faV": "فَرش",
+   "a": "c47d09fc9bac"
+  },
+  {
+   "fa": "طلا",
+   "r": "talā",
+   "en": "gold",
+   "faV": "طَلا",
+   "a": "df9b08b3b477"
+  },
+  {
+   "fa": "لباس",
+   "r": "lebās",
+   "en": "clothes",
+   "faV": "لِباس",
+   "a": "535a67b19919"
+  },
+  {
+   "fa": "ادویه",
+   "r": "adviye",
+   "en": "spices",
+   "faV": "اَدویه",
+   "a": "813247cb410a"
+  },
+  {
+   "fa": "فروشنده",
+   "r": "forushande",
+   "en": "seller, shopkeeper",
+   "faV": "فُروشَنده",
+   "a": "9c251cd1f097"
+  },
+  {
+   "fa": "پرسیدن",
+   "r": "porsidan",
+   "en": "to ask",
+   "faV": "پُرسیدَن",
+   "a": "b4d4c2f0a0be"
+  },
+  {
+   "fa": "چند است؟",
+   "r": "chand ast?",
+   "en": "how much is it?",
+   "faV": "چَند اَست؟",
+   "a": "500736335ba0"
+  },
+  {
+   "fa": "تومان",
+   "r": "tumān",
+   "en": "toman (10 rials)",
+   "faV": "تومان",
+   "a": "306eba506939"
+  },
+  {
+   "fa": "گران",
+   "r": "gerān",
+   "en": "expensive",
+   "faV": "گِران",
+   "a": "2ebc489acbc8"
+  },
+  {
+   "fa": "نیم",
+   "r": "nim",
+   "en": "half",
+   "faV": "نیم",
+   "a": "edd7da620331"
+  },
+  {
+   "fa": "خندیدن",
+   "r": "khandidan",
+   "en": "to laugh",
+   "faV": "خَندیدَن",
+   "a": "6456af638563"
+  },
+  {
+   "fa": "باشد",
+   "r": "bāshad",
+   "en": "all right, OK (literally 'let it be')",
+   "faV": "باشَد",
+   "a": "ba40c9e96efe"
+  },
+  {
+   "fa": "قشنگ",
+   "r": "ghashang",
+   "en": "pretty, beautiful",
+   "faV": "قَشَنگ",
+   "a": "af2b25c8879d"
+  }
+ ],
+ "questions": [
+  {
+   "q": "What day is it?",
+   "options": [
+    "Saturday",
+    "Friday",
+    "Monday"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What does Tom want to buy?",
+   "options": [
+    "gold",
+    "tea",
+    "a small carpet"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What is the first price the seller says?",
+   "options": [
+    "one million tomans",
+    "one and a half million tomans",
+    "two million tomans"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What do the friends do after the bazaar?",
+   "options": [
+    "they drink tea",
+    "they go to school",
+    "they buy gold"
+   ],
+   "answer": 0
+  }
+ ],
+ "after": "Bargaining (چانه زدن, chāne zadan) is normal in a bazaar for carpets, clothes and souvenirs, but not for bread or in a supermarket. The polite opening is چند است؟ 'how much is it?' or, in speech, چنده؟ The reply باشد (bāshad), 'let it be', is the everyday 'OK, fine', pronounced bāshe in Tehran. And the price: two million tomans is twenty million rials – remember that Iranians think in tomans.",
+ "titleV": "یِک روز دَر بازار",
+ "titleA": "eb797ab817f9"
+}

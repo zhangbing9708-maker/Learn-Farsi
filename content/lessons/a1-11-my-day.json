@@ -1,0 +1,237 @@
+{
+ "id": "a1-11-my-day",
+ "level": "A1",
+ "n": 11,
+ "title": "My day: the daily routine",
+ "titleFa": "روز من",
+ "titleR": "ruz-e man",
+ "intro": "What do you do every day? In this lesson you describe your daily routine – getting up, having breakfast, going to work or class, coming home and going to bed – with the present tense of the most common Persian verbs. You learn the stems that do not follow the rules (rav-, ā-, shav-), the words for the parts of the day, and how to put your day in order with avval 'first' and ba'd 'then'.",
+ "goals": ["describe your daily routine in the present tense", "use the stems of everyday verbs: rav-, ā-, khor-, khāb-, shav-", "put events in order with avval, ba'd, ba'd az and ghabl az", "say how often you do something: har ruz, hamishe, ma'mulan, gāhi, hich-vaght"],
+ "image": "samovar",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "An early bird and a night owl",
+   "context": "Tom shares a flat in Tehran with Reza. Reza is always out of the house before Tom is even awake, and Tom wants to know why.",
+   "lines": [
+    {"who": "Tom", "fa": "رضا، تو هر روز صبح زود بیدار می‌شوی؟", "r": "Rezā, to har ruz sobh zud bidār mi-shavi?", "en": "Reza, do you get up early every morning?", "col": "رضا، تو هر روز صبح زود بیدار می‌شی؟", "colR": "Rezā, to har ruz sobh zud bidār mi-shi?"},
+    {"who": "Reza", "fa": "بله، ساعت شش بیدار می‌شوم. اول دوش می‌گیرم، بعد صبحانه می‌خورم.", "r": "bale, sā'at-e shesh bidār mi-shavam. avval dush mi-giram, ba'd sobhāne mi-khoram.", "en": "Yes, I get up at six. First I take a shower, then I have breakfast.", "col": "آره، ساعت شش بیدار می‌شم. اول دوش می‌گیرم، بعد صبحونه می‌خورم.", "colR": "āre, sā'at-e shesh bidār mi-sham. avval dush mi-giram, ba'd sobhune mi-khoram."},
+    {"who": "Tom", "fa": "چرا این‌قدر زود؟", "r": "cherā in-ghadr zud?", "en": "Why so early?"},
+    {"who": "Reza", "fa": "کارم ساعت هشت شروع می‌شود و راه دور است. با مترو سر کار می‌روم.", "r": "kār-am sā'at-e hasht shoru' mi-shavad va rāh dur ast. bā metro sar-e kār mi-ravam.", "en": "My work starts at eight and it's a long way. I go to work by metro."},
+    {"who": "Tom", "fa": "ناهار کجا می‌خوری؟", "r": "nāhār kojā mi-khori?", "en": "Where do you have lunch?"},
+    {"who": "Reza", "fa": "ظهر با همکارهایم در شرکت ناهار می‌خوریم.", "r": "zohr bā ham-kār-hā-yam dar sherkat nāhār mi-khorim.", "en": "At midday my colleagues and I have lunch at the office."},
+    {"who": "Tom", "fa": "عصر به خانه می‌آیی؟", "r": "asr be khāne mi-āyi?", "en": "Do you come home in the late afternoon?", "col": "عصر میای خونه؟", "colR": "asr miyāy khune?"},
+    {"who": "Reza", "fa": "بله، ساعت شش به خانه می‌آیم. اول کمی استراحت می‌کنم، بعد شام می‌پزم.", "r": "bale, sā'at-e shesh be khāne mi-āyam. avval kami esterāhat mi-konam, ba'd shām mi-pazam.", "en": "Yes, I come home at six. First I rest a little, then I cook dinner."},
+    {"who": "Tom", "fa": "شب‌ها دیر می‌خوابی؟", "r": "shab-hā dir mi-khābi?", "en": "Do you go to bed late?"},
+    {"who": "Reza", "fa": "نه، معمولاً ساعت یازده می‌خوابم. تو چطور؟", "r": "na, ma'mulan sā'at-e yāzdah mi-khābam. to chetor?", "en": "No, I usually go to bed at eleven. What about you?"},
+    {"who": "Tom", "fa": "من ساعت دو می‌خوابم و ساعت ده بیدار می‌شوم.", "r": "man sā'at-e do mi-khābam va sā'at-e dah bidār mi-shavam.", "en": "I go to bed at two and get up at ten."},
+    {"who": "Reza", "fa": "ساعت ده؟ پس کلاس فارسی‌ات چه می‌شود؟", "r": "sā'at-e dah? pas kelās-e fārsi-at che mi-shavad?", "en": "At ten? Then what about your Persian class?"},
+    {"who": "Tom", "fa": "کلاسم ساعت یازده است!", "r": "kelās-am sā'at-e yāzdah ast!", "en": "My class is at eleven!", "col": "کلاسم ساعت یازدهه!", "colR": "kelās-am sā'at-e yāzdah-e!"},
+    {"who": "Reza", "fa": "خوش به حالت!", "r": "khosh be hāl-at!", "en": "Lucky you!"}
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Talking about your day",
+   "md": "Persian uses the ordinary present tense for things you do regularly: [[ساعت شش بیدار می‌شوم|sā'at-e shesh bidār mi-shavam|I get up at six]]. There is no extra word like English *do* in questions – Tom's [[زود بیدار می‌شوی؟|zud bidār mi-shavi?|do you get up early?]] is just the statement with a rising voice.\n\nTo say *at* a time, put [[ساعت|sā'at|hour, o'clock]] before the number, linked with the little **-e**: [[ساعت هفت|sā'at-e haft|at seven]]. You will learn to tell the time properly in the next lesson; for now, whole hours are enough.\n\nThe parts of the day need no preposition: [[صبح|sobh|(in the) morning]], [[ظهر|zohr|(at) noon]], [[عصر|asr|(in the) late afternoon]], [[شب|shab|(at) night, (in the) evening]]. Add the plural **-hā** and they mean *every morning, every evening*: [[شب‌ها|shab-hā|in the evenings]].\n\nNotice how Reza goes to work: [[سر کار|sar-e kār|to work]], literally *to the head of work*. Iranians go *sar-e kār*, and when they are there they are *sar-e kār* too."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {"fa": "بیدار شدن", "r": "bidār shodan", "en": "to wake up, to get up", "pos": "v", "note": "literally 'to become awake'; present: bidār mi-shavam", "ex": {"fa": "من هر روز زود بیدار می‌شوم.", "r": "man har ruz zud bidār mi-shavam.", "en": "I get up early every day."}},
+    {"fa": "خوابیدن", "r": "khābidan", "en": "to sleep; to go to bed", "pos": "v", "note": "stem khāb-: mi-khābam", "ex": {"fa": "بچه‌ها ساعت نه می‌خوابند.", "r": "bacche-hā sā'at-e noh mi-khāband.", "en": "The children go to bed at nine."}},
+    {"fa": "رفتن", "r": "raftan", "en": "to go", "pos": "v", "note": "stem rav-: mi-ravam", "ex": {"fa": "رضا با مترو سر کار می‌رود.", "r": "Rezā bā metro sar-e kār mi-ravad.", "en": "Reza goes to work by metro."}},
+    {"fa": "آمدن", "r": "āmadan", "en": "to come", "pos": "v", "note": "stem ā-: mi-āyam, mi-āyad", "ex": {"fa": "پدرم شب به خانه می‌آید.", "r": "pedar-am shab be khāne mi-āyad.", "en": "My father comes home in the evening."}},
+    {"fa": "صبحانه", "r": "sobhāne", "en": "breakfast", "pos": "n", "note": "spoken: sobhune", "ex": {"fa": "صبحانه نان و پنیر می‌خورم.", "r": "sobhāne nān o panir mi-khoram.", "en": "For breakfast I have bread and cheese."}},
+    {"fa": "ناهار", "r": "nāhār", "en": "lunch", "pos": "n", "note": "the main meal of the day in Iran"},
+    {"fa": "شام", "r": "shām", "en": "dinner, supper", "pos": "n", "ex": {"fa": "ما ساعت نه شام می‌خوریم.", "r": "mā sā'at-e noh shām mi-khorim.", "en": "We have dinner at nine."}},
+    {"fa": "دوش گرفتن", "r": "dush gereftan", "en": "to take a shower", "pos": "v", "note": "stem gir-: dush mi-giram"},
+    {"fa": "لباس پوشیدن", "r": "lebās pushidan", "en": "to get dressed", "pos": "v", "note": "lebās = clothes; stem push-: lebās mi-pusham"},
+    {"fa": "استراحت کردن", "r": "esterāhat kardan", "en": "to rest", "pos": "v", "ex": {"fa": "بعد از ناهار کمی استراحت می‌کنم.", "r": "ba'd az nāhār kami esterāhat mi-konam.", "en": "After lunch I rest a little."}},
+    {"fa": "سر کار رفتن", "r": "sar-e kār raftan", "en": "to go to work", "pos": "v", "note": "literally 'to go to the head of work'"},
+    {"fa": "صبح", "r": "sobh", "en": "morning; in the morning", "pos": "n"},
+    {"fa": "ظهر", "r": "zohr", "en": "noon, midday", "pos": "n"},
+    {"fa": "عصر", "r": "asr", "en": "late afternoon, early evening", "pos": "n", "note": "roughly from four to seven"},
+    {"fa": "شب", "r": "shab", "en": "night; evening", "pos": "n", "ex": {"fa": "شب‌ها کتاب می‌خوانم.", "r": "shab-hā ketāb mi-khānam.", "en": "In the evenings I read."}},
+    {"fa": "زود", "r": "zud", "en": "early; quickly", "pos": "adv"},
+    {"fa": "دیر", "r": "dir", "en": "late", "pos": "adv", "ex": {"fa": "او همیشه دیر می‌آید.", "r": "u hamishe dir mi-āyad.", "en": "He always comes late."}},
+    {"fa": "هر روز", "r": "har ruz", "en": "every day", "pos": "phrase", "note": "also har shab 'every night', har sobh 'every morning'"},
+    {"fa": "اول", "r": "avval", "en": "first, first of all", "pos": "adv"},
+    {"fa": "بعد", "r": "ba'd", "en": "then, afterwards; later", "pos": "adv", "note": "ba'd az = after: ba'd az sobhāne"}
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Everyday verbs and their stems",
+   "md": "You already know the present tense from lesson 6: **mi- + present stem + ending**. The endings never change (-am, -i, -ad, -im, -id, -and); the work is in the stem.\n\nVerbs ending in **-idan** are easy: drop -idan and you have the stem – [[خوابیدن|khābidan]] → [[خواب|khāb]] → [[می‌خوابم|mi-khābam|I sleep]]. Many of the commonest verbs, though, have a stem you simply have to learn, the way English has *go – went*: [[رفتن|raftan|to go]] → **rav-**, [[شدن|shodan|to become]] → **shav-**, [[گرفتن|gereftan|to take]] → **gir-**.\n\n[[آمدن|āmadan|to come]] has the tiny stem **ā-**, and a **y** slips in before the ending: [[می‌آیم|mi-āyam]], [[می‌آیی|mi-āyi]], [[می‌آید|mi-āyad]]. Two-word verbs such as [[بیدار شدن|bidār shodan|to wake up]] keep their first word and change only the verb: [[بیدار می‌شوم|bidār mi-shavam|I wake up]].\n\nFor the negative, **mi-** becomes **nemi-**: [[نمی‌روم|nemi-ravam|I don't go]], [[بیدار نمی‌شوم|bidār nemi-shavam|I don't wake up]].",
+   "table": {
+    "head": ["Infinitive", "Stem", "I …", "he / she …", "they …", "English"],
+    "rows": [
+     ["[[رفتن|raftan]]", "[[رو|rav]]", "[[می‌روم|mi-ravam]]", "[[می‌رود|mi-ravad]]", "[[می‌روند|mi-ravand]]", "go"],
+     ["[[آمدن|āmadan]]", "[[آ|ā]]", "[[می‌آیم|mi-āyam]]", "[[می‌آید|mi-āyad]]", "[[می‌آیند|mi-āyand]]", "come"],
+     ["[[خوردن|khordan]]", "[[خور|khor]]", "[[می‌خورم|mi-khoram]]", "[[می‌خورد|mi-khorad]]", "[[می‌خورند|mi-khorand]]", "eat, drink"],
+     ["[[خوابیدن|khābidan]]", "[[خواب|khāb]]", "[[می‌خوابم|mi-khābam]]", "[[می‌خوابد|mi-khābad]]", "[[می‌خوابند|mi-khāband]]", "sleep"],
+     ["[[بیدار شدن|bidār shodan]]", "[[شو|shav]]", "[[بیدار می‌شوم|bidār mi-shavam]]", "[[بیدار می‌شود|bidār mi-shavad]]", "[[بیدار می‌شوند|bidār mi-shavand]]", "wake up"],
+     ["[[گرفتن|gereftan]]", "[[گیر|gir]]", "[[می‌گیرم|mi-giram]]", "[[می‌گیرد|mi-girad]]", "[[می‌گیرند|mi-girand]]", "take, get"]
+    ]
+   },
+   "examples": [
+    {"fa": "من ساعت هفت سر کار می‌روم.", "r": "man sā'at-e haft sar-e kār mi-ravam.", "en": "I go to work at seven."},
+    {"fa": "مینا ظهر به خانه می‌آید.", "r": "Minā zohr be khāne mi-āyad.", "en": "Mina comes home at noon.", "col": "مینا ظهر میاد خونه.", "colR": "Minā zohr miyād khune."},
+    {"fa": "بچه‌ها زود می‌خوابند.", "r": "bacche-hā zud mi-khāband.", "en": "The children go to bed early."},
+    {"fa": "من صبح‌ها زود بیدار نمی‌شوم.", "r": "man sobh-hā zud bidār nemi-shavam.", "en": "I don't get up early in the mornings."}
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "First…, then…: putting your day in order",
+   "md": "To tell a sequence, Persian uses [[اول|avval|first]] and [[بعد|ba'd|then]], exactly like English: [[اول دوش می‌گیرم، بعد صبحانه می‌خورم.|avval dush mi-giram, ba'd sobhāne mi-khoram.|First I take a shower, then I have breakfast.]]\n\nWith a noun, use [[بعد از|ba'd az|after]] and [[قبل از|ghabl az|before]]: [[بعد از صبحانه|ba'd az sobhāne|after breakfast]], [[قبل از شام|ghabl az shām|before dinner]]. For a stretch of time, use **az … tā …**: [[از صبح تا شب|az sobh tā shab|from morning till night]].\n\nWord order stays simple: time words usually come near the start, and the verb is always last. **Subject – time – place – object – verb**: [[من ظهر در شرکت ناهار می‌خورم.|man zohr dar sherkat nāhār mi-khoram.|I have lunch at the office at noon.]]",
+   "table": {
+    "head": ["Persian", "Reading", "English"],
+    "rows": [
+     ["[[اول|avval]]", "avval", "first"],
+     ["[[بعد|ba'd]]", "ba'd", "then, afterwards"],
+     ["[[بعد از آن|ba'd az ān]]", "ba'd az ān", "after that"],
+     ["[[بعد از ناهار|ba'd az nāhār]]", "ba'd az + noun", "after lunch"],
+     ["[[قبل از خواب|ghabl az khāb]]", "ghabl az + noun", "before bed"],
+     ["[[از صبح تا شب|az sobh tā shab]]", "az … tā …", "from morning till night"]
+    ]
+   },
+   "examples": [
+    {"fa": "بعد از صبحانه لباس می‌پوشم.", "r": "ba'd az sobhāne lebās mi-pusham.", "en": "After breakfast I get dressed."},
+    {"fa": "قبل از خواب کمی کتاب می‌خوانم.", "r": "ghabl az khāb kami ketāb mi-khānam.", "en": "Before bed I read a little.", "col": "قبل از خواب یه کم کتاب می‌خونم.", "colR": "ghabl az khāb ye kam ketāb mi-khunam."},
+    {"fa": "او از صبح تا شب کار می‌کند.", "r": "u az sobh tā shab kār mi-konad.", "en": "She works from morning till night."},
+    {"fa": "اول به دانشگاه می‌روم، بعد به کتابخانه.", "r": "avval be dāneshgāh mi-ravam, ba'd be ketāb-khāne.", "en": "First I go to the university, then to the library."}
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Always, usually, never: how often",
+   "md": "Words for *how often* go before the verb, usually near the start of the sentence: [[من هر روز چای می‌خورم.|man har ruz chāy mi-khoram.|I drink tea every day.]]\n\n[[هر|har|every]] works with any time word: [[هر روز|har ruz]], [[هر شب|har shab]], [[هر صبح|har sobh]]. Plural time words say the same thing more casually: [[صبح‌ها|sobh-hā|in the mornings]], [[شب‌ها|shab-hā|in the evenings]].\n\n[[هیچ‌وقت|hich-vaght|never]] needs a **negative** verb – Persian says *never I don't*: [[هیچ‌وقت قهوه نمی‌خورم.|hich-vaght ghahve nemi-khoram.|I never drink coffee.]]",
+   "table": {
+    "head": ["Persian", "Reading", "English"],
+    "rows": [
+     ["[[همیشه|hamishe]]", "hamishe", "always"],
+     ["[[هر روز|har ruz]]", "har ruz", "every day"],
+     ["[[معمولاً|ma'mulan]]", "ma'mulan", "usually"],
+     ["[[گاهی|gāhi]]", "gāhi", "sometimes"],
+     ["[[هیچ‌وقت|hich-vaght]]", "hich-vaght + negative verb", "never"]
+    ]
+   },
+   "examples": [
+    {"fa": "من همیشه صبحانه می‌خورم.", "r": "man hamishe sobhāne mi-khoram.", "en": "I always have breakfast."},
+    {"fa": "ما معمولاً ساعت نه شام می‌خوریم.", "r": "mā ma'mulan sā'at-e noh shām mi-khorim.", "en": "We usually have dinner at nine."},
+    {"fa": "سارا گاهی با تاکسی سر کار می‌رود.", "r": "Sārā gāhi bā tāksi sar-e kār mi-ravad.", "en": "Sara sometimes goes to work by taxi."},
+    {"fa": "تام هیچ‌وقت زود بیدار نمی‌شود.", "r": "Tām hich-vaght zud bidār nemi-shavad.", "en": "Tom never gets up early."}
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "A day in Shiraz",
+   "intro": "Ms Ahmadi's day. Read the text, then answer the questions.",
+   "sentences": [
+    {"fa": "خانم احمدی معلم است و در شیراز زندگی می‌کند.", "r": "khānom-e Ahmadi mo'allem ast va dar Shirāz zendegi mi-konad.", "en": "Ms Ahmadi is a teacher and lives in Shiraz."},
+    {"fa": "او هر روز ساعت شش بیدار می‌شود و اول چای می‌خورد.", "r": "u har ruz sā'at-e shesh bidār mi-shavad va avval chāy mi-khorad.", "en": "Every day she gets up at six and first has a cup of tea."},
+    {"fa": "بعد با اتوبوس به مدرسه می‌رود.", "r": "ba'd bā otobus be madrese mi-ravad.", "en": "Then she goes to school by bus."},
+    {"fa": "از ساعت هشت تا ظهر درس می‌دهد.", "r": "az sā'at-e hasht tā zohr dars mi-dahad.", "en": "She teaches from eight until noon."},
+    {"fa": "ظهر به خانه می‌آید و با پسرش ناهار می‌خورد.", "r": "zohr be khāne mi-āyad va bā pesar-ash nāhār mi-khorad.", "en": "At noon she comes home and has lunch with her son."},
+    {"fa": "بعد از ناهار همیشه کمی می‌خوابد.", "r": "ba'd az nāhār hamishe kami mi-khābad.", "en": "After lunch she always sleeps a little."},
+    {"fa": "شب‌ها کتاب می‌خواند و ساعت یازده می‌خوابد.", "r": "shab-hā ketāb mi-khānad va sā'at-e yāzdah mi-khābad.", "en": "In the evenings she reads, and she goes to bed at eleven."}
+   ],
+   "questions": [
+    {"q": "Where does Ms Ahmadi live?", "options": ["Tehran", "Shiraz", "Yazd"], "answer": 1},
+    {"q": "How does she go to school?", "options": ["by bus", "by metro", "on foot"], "answer": 0},
+    {"q": "What does she always do after lunch?", "options": ["she reads", "she sleeps a little", "she drinks tea"], "answer": 1}
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "The rhythm of an Iranian day",
+   "md": "An Iranian day keeps different hours from a European one. Breakfast is light – bread, cheese, butter or jam, walnuts and, above all, tea from the [[سماور|samāvar|samovar]]. The main meal is [[ناهار|nāhār|lunch]], usually between one and two: rice, a stew or kebab, yoghurt and fresh herbs. Dinner comes late, at nine or even ten o'clock, and is often lighter.\n\nIn many cities, especially hot ones like Shiraz, Yazd and Isfahan, small shops close in the early afternoon and open again around five until late at night, and a nap after lunch is a respected habit. Tehran is different: offices work straight through, and people spend hours in traffic – any taxi driver will tell you that the city's real timetable is set by the [[ترافیک|terāfik|traffic]].\n\nThe week has its own rhythm too. Saturday, [[شنبه|shanbe]], is the first working day; Friday, [[جمعه|jom'e]], is the weekly day off, and for most people Thursday is a short day or a holiday as well. You will learn the names of all the days in the next lesson.",
+   "image": "tehran-traffic"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "**mi-āyam** has a glide: say *mi-ā-yam*. In speech it shrinks to **miyām, miyād** – *zohr miyād khune* 'he comes home at noon'.",
+    "In speech the place often moves after the verb: *miyām khune* 'I'm coming home', *mi-ram sar-e kār* 'I go to work'. In writing, keep the verb last.",
+    "**ba'd** (بعد) has a small catch in the voice for the ع. Without it, *bad* means 'bad' – and *ba'd az ghazā* 'after the meal' is much nicer than a bad meal.",
+    "**sobh** (صبح) ends in a breathy **h** (ح) – say it: *sobh*, not *sob*.",
+    "Learn new verbs in pairs, infinitive and stem: *raftan / rav-*, *āmadan / ā-*, *shodan / shav-*. The dictionary gives the infinitive; you speak with the stem."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the words",
+   "items": [
+    {"fa": "بیدار شدن", "r": "bidār shodan", "en": "to wake up"},
+    {"fa": "خوابیدن", "r": "khābidan", "en": "to sleep"},
+    {"fa": "صبحانه", "r": "sobhāne", "en": "breakfast"},
+    {"fa": "ناهار", "r": "nāhār", "en": "lunch"},
+    {"fa": "شام", "r": "shām", "en": "dinner"},
+    {"fa": "زود", "r": "zud", "en": "early"},
+    {"fa": "دیر", "r": "dir", "en": "late"},
+    {"fa": "هر روز", "r": "har ruz", "en": "every day"}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right answer",
+   "items": [
+    {"q": "What is the present stem of [[رفتن|raftan]]?", "options": ["raft-", "rav-", "raf-"], "answer": 1, "explain": "raftan has the stem rav-: mi-ravam 'I go'."},
+    {"q": "'I come home' is…", "options": ["به خانه می‌روم.", "به خانه می‌آیم.", "در خانه می‌خوابم."], "answer": 1, "explain": "mi-āyam is 'I come' (stem ā-); mi-ravam is 'I go'."},
+    {"q": "Which word needs a negative verb?", "options": ["همیشه", "هیچ‌وقت", "معمولاً"], "answer": 1, "explain": "hich-vaght 'never' goes with nemi-: hich-vaght nemi-ravam."},
+    {"q": "[[بعد از صبحانه|ba'd az sobhāne]] means…", "options": ["before breakfast", "after breakfast", "every breakfast"], "answer": 1, "explain": "ba'd az = after; ghabl az = before."},
+    {"q": "Which is the main meal of the day in Iran?", "options": ["صبحانه", "ناهار", "شام"], "answer": 1, "explain": "nāhār, lunch, is the big meal; dinner is late and often lighter."}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {"fa": "من هر روز ساعت هفت بیدار ___.", "r": "man har ruz sā'at-e haft bidār ___.", "en": "I get up at seven every day.", "answer": "می‌شوم", "hint": "shodan, the 'I' form"},
+    {"fa": "ما ساعت یک ___ می‌خوریم.", "r": "mā sā'at-e yek ___ mi-khorim.", "en": "We have lunch at one.", "answer": "ناهار", "hint": "lunch"},
+    {"fa": "پدرم شب به خانه ___.", "r": "pedar-am shab be khāne ___.", "en": "My father comes home in the evening.", "answer": "می‌آید", "hint": "āmadan, the 'he' form"},
+    {"fa": "___ دوش می‌گیرم، بعد صبحانه می‌خورم.", "r": "___ dush mi-giram, ba'd sobhāne mi-khoram.", "en": "First I take a shower, then I have breakfast.", "answer": "اول", "hint": "first"},
+    {"fa": "تام هیچ‌وقت زود بیدار ___.", "r": "Tām hich-vaght zud bidār ___.", "en": "Tom never gets up early.", "answer": "نمی‌شود", "hint": "the negative of mi-shavad"}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {"fa": "من هر روز صبح زود بیدار می‌شوم.", "r": "man har ruz sobh zud bidār mi-shavam.", "en": "I get up early every morning."},
+    {"fa": "بعد از ناهار کمی استراحت می‌کنم.", "r": "ba'd az nāhār kami esterāhat mi-konam.", "en": "After lunch I rest a little."},
+    {"fa": "رضا با مترو سر کار می‌رود.", "r": "Rezā bā metro sar-e kār mi-ravad.", "en": "Reza goes to work by metro."},
+    {"fa": "شب‌ها ساعت یازده می‌خوابم.", "r": "shab-hā sā'at-e yāzdah mi-khābam.", "en": "At night I go to bed at eleven."}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {"fa": "ما ساعت نه شام می‌خوریم.", "r": "mā sā'at-e noh shām mi-khorim.", "en": "We have dinner at nine.", "options": ["We have lunch at nine.", "We have dinner at nine.", "We have breakfast at nine."], "answer": 1},
+    {"fa": "او همیشه دیر می‌آید.", "r": "u hamishe dir mi-āyad.", "en": "He always comes late.", "options": ["He always comes late.", "He never comes late.", "He always goes early."], "answer": 0},
+    {"fa": "قبل از خواب کتاب می‌خوانم.", "r": "ghabl az khāb ketāb mi-khānam.", "en": "Before bed I read.", "options": ["After breakfast I read.", "Before bed I read.", "Before bed I take a shower."], "answer": 1}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {"en": "I get up at six every day.", "fa": "من هر روز ساعت شش بیدار می‌شوم.", "r": "man har ruz sā'at-e shesh bidār mi-shavam."},
+    {"en": "First I take a shower, then I get dressed.", "fa": "اول دوش می‌گیرم، بعد لباس می‌پوشم.", "r": "avval dush mi-giram, ba'd lebās mi-pusham."},
+    {"en": "Do you come home at noon? (to a friend)", "fa": "ظهر به خانه می‌آیی؟", "r": "zohr be khāne mi-āyi?"},
+    {"en": "We usually go to bed late.", "fa": "ما معمولاً دیر می‌خوابیم.", "r": "mā ma'mulan dir mi-khābim."}
+   ]
+  }
+ ]
+}

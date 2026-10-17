@@ -1,0 +1,289 @@
+{
+ "id": "a1-the-cat-and-the-fish",
+ "level": "A1",
+ "kind": "everyday life",
+ "title": "The cat and the fish",
+ "titleFa": "گربه و ماهی",
+ "titleR": "gorbe o māhi",
+ "image": "persian-cat",
+ "intro": "Your very first story in Persian. A small white cat lives in Mina's house in Tehran, and she has one great wish. Every sentence uses only what you learn in the first A1 lessons: 'is', 'has', 'wants' and a few everyday words. Read it slowly, tap each sentence to hear it, and notice how often the verb comes last.",
+ "source": "An original story for this course.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "این گربه است.",
+     "r": "in gorbe ast.",
+     "en": "This is a cat.",
+     "faV": "این گُربه اَست.",
+     "a": "cece695f7e67"
+    },
+    {
+     "fa": "اسم گربه پیشی است.",
+     "r": "esm-e gorbe Pishi ast.",
+     "en": "The cat's name is Pishi.",
+     "faV": "اِسمِ گُربه پیشی اَست.",
+     "a": "fa9067ce66de"
+    },
+    {
+     "fa": "پیشی سفید و کوچک است.",
+     "r": "Pishi sefid o kuchak ast.",
+     "en": "Pishi is white and small.",
+     "faV": "پیشی سِفید و کوچَک اَست.",
+     "a": "dc3818890b0a"
+    },
+    {
+     "fa": "او در خانه‌ی مینا زندگی می‌کند.",
+     "r": "u dar khāne-ye Minā zendegi mi-konad.",
+     "en": "She lives in Mina's house.",
+     "faV": "او دَر خانه‌یِ مینا زِندِگی می‌کُنَد.",
+     "a": "c7d5e0ab7edb"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "مینا یک ماهی دارد.",
+     "r": "Minā yek māhi dārad.",
+     "en": "Mina has a fish.",
+     "faV": "مینا یِک ماهی دارَد.",
+     "a": "7f16fc04598d"
+    },
+    {
+     "fa": "ماهی قرمز است.",
+     "r": "māhi ghermez ast.",
+     "en": "The fish is red.",
+     "faV": "ماهی قِرمِز اَست.",
+     "a": "51e7cb1c13fe"
+    },
+    {
+     "fa": "ماهی در یک تنگ آب است.",
+     "r": "māhi dar yek tong-e āb ast.",
+     "en": "The fish is in a bowl of water.",
+     "faV": "ماهی دَر یِک تُنگِ آب اَست.",
+     "a": "37d2c6346f46"
+    },
+    {
+     "fa": "تنگ روی میز است.",
+     "r": "tong ru-ye miz ast.",
+     "en": "The bowl is on the table.",
+     "faV": "تُنگ رویِ میز اَست.",
+     "a": "fdf186782a90"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "پیشی ماهی را دوست دارد.",
+     "r": "Pishi māhi rā dust dārad.",
+     "en": "Pishi likes the fish.",
+     "faV": "پیشی ماهی را دوست دارَد.",
+     "a": "32f3b4dff979"
+    },
+    {
+     "fa": "پیشی خیلی گرسنه است.",
+     "r": "Pishi kheyli gorosne ast.",
+     "en": "Pishi is very hungry.",
+     "faV": "پیشی خَیلی گُرُسنه اَست.",
+     "a": "d341503ebdb7"
+    },
+    {
+     "fa": "او به ماهی نگاه می‌کند.",
+     "r": "u be māhi negāh mi-konad.",
+     "en": "She looks at the fish.",
+     "faV": "او به ماهی نِگاه می‌کُنَد.",
+     "a": "0baa483e8a21"
+    },
+    {
+     "fa": "ماهی هم به پیشی نگاه می‌کند.",
+     "r": "māhi ham be Pishi negāh mi-konad.",
+     "en": "The fish looks at Pishi too.",
+     "faV": "ماهی هَم به پیشی نِگاه می‌کُنَد.",
+     "a": "bbdeb0226073"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "مینا می‌آید.",
+     "r": "Minā mi-āyad.",
+     "en": "Mina comes.",
+     "faV": "مینا می‌آیَد.",
+     "a": "bc6655231755"
+    },
+    {
+     "fa": "مینا می‌گوید: «نه، پیشی! این ماهی غذا نیست.»",
+     "r": "Minā mi-guyad: «na, Pishi! in māhi ghazā nist.»",
+     "en": "Mina says: \"No, Pishi! This fish is not food.\"",
+     "faV": "مینا می‌گویَد: «نه، پیشی! این ماهی غَذا نیست.»",
+     "a": "45e48ff66178"
+    },
+    {
+     "fa": "مینا به پیشی شیر می‌دهد.",
+     "r": "Minā be Pishi shir mi-dahad.",
+     "en": "Mina gives Pishi milk.",
+     "faV": "مینا به پیشی شیر می‌دَهَد.",
+     "a": "ea902dde4883"
+    },
+    {
+     "fa": "پیشی خوشحال است.",
+     "r": "Pishi khosh-hāl ast.",
+     "en": "Pishi is happy.",
+     "faV": "پیشی خوشحال اَست.",
+     "a": "44c34cb07e0f"
+    },
+    {
+     "fa": "ماهی هم خوشحال است!",
+     "r": "māhi ham khosh-hāl ast!",
+     "en": "The fish is happy too!",
+     "faV": "ماهی هَم خوشحال اَست!",
+     "a": "bb84f19c4c97"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "گربه",
+   "r": "gorbe",
+   "en": "cat",
+   "faV": "گُربه",
+   "a": "b4420219a5e3"
+  },
+  {
+   "fa": "ماهی",
+   "r": "māhi",
+   "en": "fish",
+   "faV": "ماهی",
+   "a": "dd4f563e93ae"
+  },
+  {
+   "fa": "سفید",
+   "r": "sefid",
+   "en": "white",
+   "faV": "سِفید",
+   "a": "a2a33ad3ce6e"
+  },
+  {
+   "fa": "قرمز",
+   "r": "ghermez",
+   "en": "red",
+   "faV": "قِرمِز",
+   "a": "3cfb304a2732"
+  },
+  {
+   "fa": "کوچک",
+   "r": "kuchak",
+   "en": "small",
+   "faV": "کوچَک",
+   "a": "eb45dabd0107"
+  },
+  {
+   "fa": "تنگ",
+   "r": "tong",
+   "en": "bowl, jug (for fish or water)",
+   "faV": "تُنگ",
+   "a": "026c1583675c"
+  },
+  {
+   "fa": "میز",
+   "r": "miz",
+   "en": "table",
+   "faV": "میز",
+   "a": "24d579c1b749"
+  },
+  {
+   "fa": "روی",
+   "r": "ru-ye",
+   "en": "on (top of)",
+   "faV": "رویِ",
+   "a": "35e60a7c1e33"
+  },
+  {
+   "fa": "گرسنه",
+   "r": "gorosne",
+   "en": "hungry",
+   "faV": "گُرُسنه",
+   "a": "490e2629fd98"
+  },
+  {
+   "fa": "نگاه کردن",
+   "r": "negāh kardan",
+   "en": "to look",
+   "faV": "نِگاه کَردَن",
+   "a": "ae1a9c76b7fe"
+  },
+  {
+   "fa": "غذا",
+   "r": "ghazā",
+   "en": "food",
+   "faV": "غَذا",
+   "a": "5f0123156397"
+  },
+  {
+   "fa": "شیر",
+   "r": "shir",
+   "en": "milk (also: lion)",
+   "faV": "شیر",
+   "a": "0fc1b4c99b7f"
+  },
+  {
+   "fa": "خوشحال",
+   "r": "khosh-hāl",
+   "en": "happy",
+   "faV": "خوشحال",
+   "a": "ba0270b5cf62"
+  },
+  {
+   "fa": "هم",
+   "r": "ham",
+   "en": "too, also",
+   "faV": "هَم",
+   "a": "7eb0e690ff17"
+  }
+ ],
+ "questions": [
+  {
+   "q": "What colour is the cat?",
+   "options": [
+    "red",
+    "white",
+    "black"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Where is the fish bowl?",
+   "options": [
+    "on the table",
+    "in the garden",
+    "under the chair"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does Mina give the cat?",
+   "options": [
+    "the fish",
+    "bread",
+    "milk"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "How is the fish at the end?",
+   "options": [
+    "hungry",
+    "happy",
+    "afraid"
+   ],
+   "answer": 1
+  }
+ ],
+ "after": "Notice how the verb sits at the end of every sentence: پیشی ماهی را دوست دارد – 'Pishi fish (object) likes'. The little word را after ماهی marks the fish as the thing that is liked; you will study it properly at A2. Persian pet names are often playful: پیشی (Pishi) is simply what Iranians call to a cat, like 'kitty'. The same word شیر means both 'milk' and 'lion' – only the context tells you which. Goldfish are everywhere in Iran: a bowl of red fish, like Mina's, sits on every Nowruz table.",
+ "titleV": "گُربه و ماهی",
+ "titleA": "5a280f9bdefa"
+}

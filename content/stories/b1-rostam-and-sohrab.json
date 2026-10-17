@@ -1,0 +1,383 @@
+{
+ "id": "b1-rostam-and-sohrab",
+ "level": "B1",
+ "kind": "legend",
+ "title": "Rostam and Sohrab",
+ "titleFa": "رستم و سهراب",
+ "titleR": "Rostam o Sohrāb",
+ "image": "rostam-and-sohrab",
+ "intro": "The most famous tragedy of the Shahnameh, Ferdowsi's eleventh-century epic: a father and a son who meet on the battlefield without knowing each other. Every Iranian knows how it ends. Read it for the past tenses – simple past, past continuous and perfect – and for the way Persian narrates with short, strong sentences.",
+ "source": "Retold in prose from Ferdowsi's Shahnameh (10th–11th century, public domain).",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "روزی رستم، پهلوان بزرگ ایران، برای شکار به سرزمین سمنگان رفت.",
+     "r": "ruz-i Rostam, pahlavān-e bozorg-e Irān, barā-ye shekār be sarzamin-e Samangān raft.",
+     "en": "One day Rostam, the great champion of Iran, went to the land of Samangan to hunt.",
+     "faV": "روزی رُستَم، پَهلَوانِ بُزُرگِ ایران، بَرایِ شِکار به سَرزَمینِ سَمَنگان رَفت.",
+     "a": "faf8f5a6db9f"
+    },
+    {
+     "fa": "وقتی خسته شد، زیر درختی خوابید و اسبش، رخش، در دشت می‌چرید.",
+     "r": "vaghti khaste shod, zir-e derakht-i khābid o asb-ash, Rakhsh, dar dasht mi-charid.",
+     "en": "When he grew tired, he slept under a tree while his horse, Rakhsh, grazed on the plain.",
+     "faV": "وَقتی خَسته شُد، زیرِ دِرَختی خوابید و اَسبَش، رَخش، دَر دَشت می‌چَرید.",
+     "a": "72443e3100b0"
+    },
+    {
+     "fa": "چند مرد ترک رخش را دیدند و او را دزدیدند.",
+     "r": "chand mard-e tork Rakhsh rā didand o u rā dozdidand.",
+     "en": "Some Turkic men saw Rakhsh and stole him.",
+     "faV": "چَند مَردِ تُرک رَخش را دیدَند و او را دُزدیدَند.",
+     "a": "757c108c302a"
+    },
+    {
+     "fa": "رستم که بیدار شد، اسبش را پیدا نکرد و با ناراحتی به شهر سمنگان رفت.",
+     "r": "Rostam ke bidār shod, asb-ash rā peydā na-kard o bā nārāhati be shahr-e Samangān raft.",
+     "en": "When Rostam woke, he could not find his horse and went unhappily to the city of Samangan.",
+     "faV": "رُستَم که بیدار شُد، اَسبَش را پَیدا نَکَرد و با ناراحَتی به شَهرِ سَمَنگان رَفت.",
+     "a": "e16566b3f18e"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "شاه سمنگان او را با احترام پذیرفت و گفت که اسبش را پیدا خواهند کرد.",
+     "r": "shāh-e Samangān u rā bā ehterām paziroft o goft ke asb-ash rā peydā khāhand kard.",
+     "en": "The king of Samangan received him with respect and said that they would find his horse.",
+     "faV": "شاهِ سَمَنگان او را با اِحتِرام پَذیرُفت و گُفت که اَسبَش را پَیدا خواهَند کَرد.",
+     "a": "5fa87e3d7dc2"
+    },
+    {
+     "fa": "آن شب، دختر شاه، تهمینه، به اتاق رستم آمد.",
+     "r": "ān shab, dokhtar-e shāh, Tahmine, be otāgh-e Rostam āmad.",
+     "en": "That night the king's daughter, Tahmineh, came to Rostam's room.",
+     "faV": "آن شَب، دُختَرِ شاه، تَهمینه، به اُتاقِ رُستَم آمَد.",
+     "a": "4ed2ff8bd74f"
+    },
+    {
+     "fa": "او گفت: «من داستان‌های تو را شنیده‌ام و می‌خواهم همسر تو باشم.»",
+     "r": "u goft: «man dāstān-hā-ye to rā shenide-am o mi-khāham hamsar-e to bāsham.»",
+     "en": "She said: \"I have heard your stories and I want to be your wife.\"",
+     "faV": "او گُفت: «مَن داستان‌هایِ تو را شِنیده‌اَم و می‌خواهَم هَمسَرِ تو باشَم.»",
+     "a": "d64f894da8b6"
+    },
+    {
+     "fa": "رستم و تهمینه با هم عروسی کردند، اما رستم باید به ایران برمی‌گشت.",
+     "r": "Rostam o Tahmine bā ham arusi kardand, ammā Rostam bāyad be Irān bar-mi-gasht.",
+     "en": "Rostam and Tahmineh married, but Rostam had to return to Iran.",
+     "faV": "رُستَم و تَهمینه با هَم عَروسی کَردَند، اَمّا رُستَم بایَد به ایران بَرمی‌گَشت.",
+     "a": "a01c47f75a0a"
+    },
+    {
+     "fa": "پیش از رفتن، مهره‌ای را که به بازویش بسته بود به تهمینه داد و گفت: «اگر فرزند ما دختر باشد، این مهره را به مویش ببند؛ اگر پسر باشد، به بازویش.»",
+     "r": "pish az raftan, mohre-i rā ke be bāzu-yash baste bud be Tahmine dād o goft: «agar farzand-e mā dokhtar bāshad, in mohre rā be mu-yash be-band; agar pesar bāshad, be bāzu-yash.»",
+     "en": "Before leaving, he gave Tahmineh the amulet that he had tied to his arm and said: \"If our child is a girl, tie this amulet in her hair; if it is a boy, on his arm.\"",
+     "faV": "پیش اَز رَفتَن، مُهره‌ای را که به بازویَش بَسته بود به تَهمینه داد و گُفت: «اَگَر فَرزَندِ ما دُختَر باشَد، این مُهره را به مویَش بِبَند؛ اَگَر پِسَر باشَد، به بازویَش.»",
+     "a": "edb54aab3f03"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "نُه ماه بعد پسری به دنیا آمد که مانند پدرش بلند و قوی بود.",
+     "r": "noh māh ba'd pesar-i be donyā āmad ke mānand-e pedar-ash boland o ghavi bud.",
+     "en": "Nine months later a boy was born who was tall and strong like his father.",
+     "faV": "نُه ماه بَعد پِسَری به دُنیا آمَد که مانَندِ پِدَرَش بُلَند و قَوی بود.",
+     "a": "e6f6ca322b21"
+    },
+    {
+     "fa": "تهمینه نام او را سهراب گذاشت.",
+     "r": "Tahmine nām-e u rā Sohrāb gozāsht.",
+     "en": "Tahmineh named him Sohrab.",
+     "faV": "تَهمینه نامِ او را سُهراب گُذاشت.",
+     "a": "13a9b8fa56c0"
+    },
+    {
+     "fa": "سهراب در ده‌سالگی از همه‌ی پهلوانان سمنگان قوی‌تر بود.",
+     "r": "Sohrāb dar dah-sālegi az hame-ye pahlavānān-e Samangān ghavi-tar bud.",
+     "en": "At ten, Sohrab was stronger than all the champions of Samangan.",
+     "faV": "سُهراب دَر دَه‌سالِگی اَز هَمه‌یِ پَهلَوانانِ سَمَنگان قَوی‌تَر بود.",
+     "a": "66e38ddbccf3"
+    },
+    {
+     "fa": "روزی از مادرش پرسید که پدرش کیست.",
+     "r": "ruz-i az mādar-ash porsid ke pedar-ash ki-st.",
+     "en": "One day he asked his mother who his father was.",
+     "faV": "روزی اَز مادَرَش پُرسید که پِدَرَش کیست.",
+     "a": "4e992e635684"
+    },
+    {
+     "fa": "تهمینه حقیقت را گفت، اما از او خواست که این راز را به کسی نگوید، چون می‌ترسید افراسیاب، شاه توران، پسرش را بکشد.",
+     "r": "Tahmine haghighat rā goft, ammā az u khāst ke in rāz rā be kas-i na-guyad, chon mi-tarsid Afrāsiyāb, shāh-e Turān, pesar-ash rā be-koshad.",
+     "en": "Tahmineh told the truth, but asked him not to tell the secret to anyone, because she feared that Afrasiab, the king of Turan, would kill her son.",
+     "faV": "تَهمینه حَقیقَت را گُفت، اَمّا اَز او خواست که این راز را به کَسی نَگویَد، چون می‌تَرسید اَفراسیاب، شاهِ توران، پِسَرَش را بِکُشَد.",
+     "a": "d58b36e9726d"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "سهراب سپاهی جمع کرد و تصمیم گرفت به ایران برود، پدرش را پیدا کند و او را شاه ایران کند.",
+     "r": "Sohrāb sepāh-i jam' kard o tasmim gereft be Irān be-ravad, pedar-ash rā peydā konad o u rā shāh-e Irān konad.",
+     "en": "Sohrab gathered an army and decided to go to Iran, find his father and make him king of Iran.",
+     "faV": "سُهراب سِپاهی جَمع کَرد و تَصمیم گِرِفت به ایران بِرَوَد، پِدَرَش را پَیدا کُنَد و او را شاهِ ایران کُنَد.",
+     "a": "5ee36cdd1f28"
+    },
+    {
+     "fa": "افراسیاب که از این نقشه خبر داشت، دو سردار خود را با او فرستاد و به آن‌ها گفت: «نگذارید پدر و پسر یکدیگر را بشناسند.»",
+     "r": "Afrāsiyāb ke az in naghshe khabar dāsht, do sardār-e khod rā bā u ferestād o be ān-hā goft: «na-gozārid pedar o pesar yekdigar rā be-shenāsand.»",
+     "en": "Afrasiab, who knew of this plan, sent two of his commanders with him and told them: \"Do not let father and son recognise each other.\"",
+     "faV": "اَفراسیاب که اَز این نَقشه خَبَر داشت، دو سَردارِ خود را با او فِرِستاد و به آن‌ها گُفت: «نَگُذارید پِدَر و پِسَر یِکدیگَر را بِشِناسَند.»",
+     "a": "5081a3da22f2"
+    },
+    {
+     "fa": "در ایران، شاه کاووس از رستم خواست که به جنگ این پهلوان جوان برود.",
+     "r": "dar Irān, shāh Kāvus az Rostam khāst ke be jang-e in pahlavān-e javān be-ravad.",
+     "en": "In Iran, King Kavus asked Rostam to go to war against this young champion.",
+     "faV": "دَر ایران، شاه کاووس اَز رُستَم خواست که به جَنگِ این پَهلَوانِ جَوان بِرَوَد.",
+     "a": "685071d3dc97"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "دو پهلوان سه روز با هم جنگیدند.",
+     "r": "do pahlavān se ruz bā ham jangidand.",
+     "en": "The two champions fought each other for three days.",
+     "faV": "دو پَهلَوان سه روز با هَم جَنگیدَند.",
+     "a": "c078a6a74ea9"
+    },
+    {
+     "fa": "سهراب هر بار از پیرمرد روبه‌رویش می‌پرسید: «تو رستم نیستی؟» و رستم هر بار می‌گفت: «نه، من یک جنگجوی ساده‌ام.»",
+     "r": "Sohrāb har bār az pir-mard-e ru-be-ru-yash mi-porsid: «to Rostam nisti?» o Rostam har bār mi-goft: «na, man yek jang-ju-ye sāde-am.»",
+     "en": "Each time Sohrab asked the old man in front of him: \"Aren't you Rostam?\" and each time Rostam said: \"No, I am a simple warrior.\"",
+     "faV": "سُهراب هَر بار اَز پیرمَردِ روبه‌رویَش می‌پُرسید: «تو رُستَم نیستی؟» و رُستَم هَر بار می‌گُفت: «نه، مَن یِک جَنگجویِ ساده‌اَم.»",
+     "a": "1105fa939ad4"
+    },
+    {
+     "fa": "روز دوم سهراب رستم را بر زمین زد، اما رستم با حیله گفت که در ایران پهلوان را در بار اول نمی‌کشند.",
+     "r": "ruz-e dovvom Sohrāb Rostam rā bar zamin zad, ammā Rostam bā hile goft ke dar Irān pahlavān rā dar bār-e avval nemi-koshand.",
+     "en": "On the second day Sohrab threw Rostam to the ground, but Rostam said cunningly that in Iran a champion is not killed the first time.",
+     "faV": "روزِ دُوُّم سُهراب رُستَم را بَر زَمین زَد، اَمّا رُستَم با حیله گُفت که دَر ایران پَهلَوان را دَر بارِ اَوَّل نِمی‌کُشَند.",
+     "a": "36b7e23563b1"
+    },
+    {
+     "fa": "روز سوم، رستم سهراب را بر زمین زد و خنجرش را در پهلوی او فرو کرد.",
+     "r": "ruz-e sevvom, Rostam Sohrāb rā bar zamin zad o khanjar-ash rā dar pahlu-ye u foru kard.",
+     "en": "On the third day Rostam threw Sohrab to the ground and drove his dagger into his side.",
+     "faV": "روزِ سِوُّم، رُستَم سُهراب را بَر زَمین زَد و خَنجَرَش را دَر پَهلویِ او فُرو کَرد.",
+     "a": "f43149e141ab"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "سهراب در حالی که می‌مرد گفت: «پدرم رستم انتقام مرا خواهد گرفت. این مهره را ببین؛ مادرم آن را به بازویم بست.»",
+     "r": "Sohrāb dar hāl-i ke mi-mord goft: «pedar-am Rostam enteghām-e ma-rā khāhad gereft. in mohre rā be-bin; mādar-am ān rā be bāzu-yam bast.»",
+     "en": "As he was dying Sohrab said: \"My father Rostam will take revenge for me. Look at this amulet; my mother tied it on my arm.\"",
+     "faV": "سُهراب دَر حالی که می‌مُرد گُفت: «پِدَرَم رُستَم اِنتِقامِ مَرا خواهَد گِرِفت. این مُهره را بِبین؛ مادَرَم آن را به بازویَم بَست.»",
+     "a": "45002dc499a6"
+    },
+    {
+     "fa": "رستم مهره را دید و فهمید که پسر خودش را کشته است.",
+     "r": "Rostam mohre rā did o fahmid ke pesar-e khod-ash rā koshte ast.",
+     "en": "Rostam saw the amulet and understood that he had killed his own son.",
+     "faV": "رُستَم مُهره را دید و فَهمید که پِسَرِ خودَش را کُشته اَست.",
+     "a": "a9aec9dbb99d"
+    },
+    {
+     "fa": "او فریاد زد و خاک بر سر خود ریخت.",
+     "r": "u faryād zad o khāk bar sar-e khod rikht.",
+     "en": "He cried out and poured dust on his head.",
+     "faV": "او فَریاد زَد و خاک بَر سَرِ خود ریخت.",
+     "a": "90adfe722f1f"
+    },
+    {
+     "fa": "کسی را به دنبال داروی شاه کاووس فرستادند، اما دارو دیر رسید.",
+     "r": "kas-i rā be donbāl-e dāru-ye shāh Kāvus ferestādand, ammā dāru dir resid.",
+     "en": "Someone was sent for King Kavus's medicine, but the medicine arrived too late.",
+     "faV": "کَسی را به دُنبالِ دارویِ شاه کاووس فِرِستادَند، اَمّا دارو دیر رِسید.",
+     "a": "01b71057fc87"
+    },
+    {
+     "fa": "هزار سال است که ایرانی‌ها این داستان را می‌خوانند و هنوز برای سهراب گریه می‌کنند.",
+     "r": "hezār sāl ast ke irāni-hā in dāstān rā mi-khānand o hanuz barā-ye Sohrāb gerye mi-konand.",
+     "en": "For a thousand years Iranians have been reading this story, and they still weep for Sohrab.",
+     "faV": "هِزار سال اَست که ایرانی‌ها این داستان را می‌خوانَند و هَنوز بَرایِ سُهراب گِریه می‌کُنَند.",
+     "a": "5af10ceb7bad"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "پهلوان",
+   "r": "pahlavān",
+   "en": "champion, hero-warrior",
+   "faV": "پَهلَوان",
+   "a": "9af59f46901a"
+  },
+  {
+   "fa": "شکار",
+   "r": "shekār",
+   "en": "hunting",
+   "faV": "شِکار",
+   "a": "02a5d24243fd"
+  },
+  {
+   "fa": "دزدیدن",
+   "r": "dozdidan",
+   "en": "to steal",
+   "faV": "دُزدیدَن",
+   "a": "88ace4cfab53"
+  },
+  {
+   "fa": "با احترام",
+   "r": "bā ehterām",
+   "en": "with respect",
+   "faV": "با اِحتِرام",
+   "a": "0d3b4714b8fb"
+  },
+  {
+   "fa": "همسر",
+   "r": "hamsar",
+   "en": "spouse",
+   "faV": "هَمسَر",
+   "a": "10f7a4a36430"
+  },
+  {
+   "fa": "مهره",
+   "r": "mohre",
+   "en": "bead, amulet",
+   "faV": "مُهره",
+   "a": "92173968bd1c"
+  },
+  {
+   "fa": "بازو",
+   "r": "bāzu",
+   "en": "upper arm",
+   "faV": "بازو",
+   "a": "e11780c1a6f2"
+  },
+  {
+   "fa": "راز",
+   "r": "rāz",
+   "en": "secret",
+   "faV": "راز",
+   "a": "2d2188eaa593"
+  },
+  {
+   "fa": "سپاه",
+   "r": "sepāh",
+   "en": "army",
+   "faV": "سِپاه",
+   "a": "a9a5d0ac6eb8"
+  },
+  {
+   "fa": "نقشه",
+   "r": "naghshe",
+   "en": "plan; map",
+   "faV": "نَقشه",
+   "a": "a8f9a38f6ae7"
+  },
+  {
+   "fa": "سردار",
+   "r": "sardār",
+   "en": "commander",
+   "faV": "سَردار",
+   "a": "6c34c20813bc"
+  },
+  {
+   "fa": "حیله",
+   "r": "hile",
+   "en": "trick, ruse",
+   "faV": "حیله",
+   "a": "af0c575f6dfc"
+  },
+  {
+   "fa": "خنجر",
+   "r": "khanjar",
+   "en": "dagger",
+   "faV": "خَنجَر",
+   "a": "dbbd2d97fe08"
+  },
+  {
+   "fa": "انتقام گرفتن",
+   "r": "enteghām gereftan",
+   "en": "to take revenge",
+   "faV": "اِنتِقام گِرِفتَن",
+   "a": "803aa18f9a16"
+  },
+  {
+   "fa": "فریاد زدن",
+   "r": "faryād zadan",
+   "en": "to cry out",
+   "faV": "فَریاد زَدَن",
+   "a": "acba193ae85d"
+  },
+  {
+   "fa": "گریه کردن",
+   "r": "gerye kardan",
+   "en": "to weep",
+   "faV": "گِریه کَردَن",
+   "a": "4b93dac9dd5c"
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why did Rostam go to Samangan?",
+   "options": [
+    "to find a wife",
+    "his horse had been stolen while he hunted",
+    "to fight Afrasiab"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What did Rostam give Tahmineh before he left?",
+   "options": [
+    "his dagger",
+    "his horse",
+    "an amulet from his arm"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Why did Afrasiab send two commanders with Sohrab?",
+   "options": [
+    "to protect him",
+    "to make sure father and son would not recognise each other",
+    "to carry the medicine"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "How did Rostam survive the second day?",
+   "options": [
+    "Sohrab felt pity",
+    "he said a champion is not killed the first time he is beaten",
+    "Rakhsh saved him"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "How did Rostam realise who Sohrab was?",
+   "options": [
+    "Sohrab told him his mother's name",
+    "he saw the amulet on Sohrab's arm",
+    "King Kavus told him"
+   ],
+   "answer": 1
+  }
+ ],
+ "after": "The story shows the Persian way of marking a story's time: روزی 'one day', آن شب 'that night', نُه ماه بعد, روز دوم, روز سوم. Notice the past continuous for background actions (رخش می‌چرید, می‌پرسید… می‌گفت) against the simple past for events (خوابید, دزدیدند), the perfect in speech (شنیده‌ام, کشته است), and the subjunctive after خواست که and نگذارید. The phrase خاک بر سر ریختن – pouring dust on one's head – is the ancient gesture of grief; today خاک بر سرم! is an everyday exclamation of dismay.",
+ "titleV": "رُستَم و سُهراب",
+ "titleA": "cfd2e634efb2"
+}
