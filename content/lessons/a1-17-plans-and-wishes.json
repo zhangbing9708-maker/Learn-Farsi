@@ -6,7 +6,13 @@
  "titleFa": "برنامه‌ها و آرزوها",
  "titleR": "barnāme-hā o ārezu-hā",
  "intro": "What are you doing this weekend? In this lesson you talk about plans and wishes: 'I want to go', 'I'd like to see', 'let's go!'. You meet the subjunctive – the be- form of the verb that follows mi-khāham – and learn that Persian simply uses the present tense for the future: fardā mi-ravam, 'I'm going tomorrow'. And you go where Tehranis go at the weekend: up to Darband and Tochal, and north to the Caspian.",
- "goals": ["say what you want to do with mi-khāham + subjunctive: mi-khāham beravam", "make the subjunctive: be- + present stem + ending", "talk about the future with the present tense and time words: fardā, hafte-ye ba'd", "make suggestions with 'let's' (beravim!) and dust dāram + subjunctive", "talk about weekend trips: Darband, Tochal, the Caspian"],
+ "goals": [
+  "say what you want to do with mi-khāham + subjunctive: mi-khāham beravam",
+  "make the subjunctive: be- + present stem + ending",
+  "talk about the future with the present tense and time words: fardā, hafte-ye ba'd",
+  "make suggestions with 'let's' (beravim!) and dust dāram + subjunctive",
+  "talk about weekend trips: Darband, Tochal, the Caspian"
+ ],
  "image": "darband",
  "sections": [
   {
@@ -14,19 +20,126 @@
    "title": "Plans for the weekend",
    "context": "It is Wednesday evening in Tehran. Amir asks Tom what he is doing at the weekend.",
    "lines": [
-    {"who": "Amir", "fa": "تام، آخر هفته چه کار می‌کنی؟", "r": "Tām, ākhar-e hafte che kār mi-koni?", "en": "Tom, what are you doing at the weekend?", "col": "تام، آخر هفته چی کار می‌کنی؟", "colR": "Tām, ākhar-e hafte chi kār mi-koni?"},
-    {"who": "Tom", "fa": "هنوز نمی‌دانم. می‌خواهم کوه بروم، اما تنها نمی‌خواهم بروم.", "r": "hanuz nemi-dānam. mi-khāham kuh beravam, ammā tanhā nemi-khāham beravam.", "en": "I don't know yet. I want to go hiking in the mountains, but I don't want to go alone.", "col": "هنوز نمی‌دونم. می‌خوام برم کوه، اما تنها نمی‌خوام برم.", "colR": "hanuz nemi-dunam. mi-khām beram kuh, ammā tanhā nemi-khām beram."},
-    {"who": "Amir", "fa": "ما جمعه صبح به توچال می‌رویم. تو هم می‌خواهی بیایی؟", "r": "mā jom'e sobh be Tochāl mi-ravim. to ham mi-khāhi biyāyi?", "en": "We're going to Tochal on Friday morning. Do you want to come too?", "col": "ما جمعه صبح می‌ریم توچال. تو هم می‌خوای بیای؟", "colR": "mā jom'e sobh mi-rim Tochāl. to ham mi-khāy biyāy?"},
-    {"who": "Tom", "fa": "بله، حتماً! ساعت چند می‌روید؟", "r": "bale, hatman! sā'at-e chand mi-ravid?", "en": "Yes, definitely! What time are you going?"},
-    {"who": "Amir", "fa": "ساعت شش صبح. با تله‌کابین بالا می‌رویم.", "r": "sā'at-e shesh-e sobh. bā tele-kābin bālā mi-ravim.", "en": "At six in the morning. We go up by cable car."},
-    {"who": "Tom", "fa": "ساعت شش؟ خیلی زود است!", "r": "sā'at-e shesh? kheyli zud ast!", "en": "At six? That's very early!"},
-    {"who": "Amir", "fa": "زود است، اما آن بالا هوا عالی است. بعد از ظهر به دربند می‌رویم و ناهار می‌خوریم.", "r": "zud ast, ammā ān bālā havā āli ast. ba'd az zohr be Darband mi-ravim va nāhār mi-khorim.", "en": "It is early, but the air up there is wonderful. In the afternoon we go to Darband and have lunch."},
-    {"who": "Tom", "fa": "عالی است! من دربند را خیلی دوست دارم.", "r": "āli ast! man Darband rā kheyli dust dāram.", "en": "Great! I love Darband."},
-    {"who": "Amir", "fa": "هفته‌ی بعد هم می‌خواهیم به شمال برویم. دوست داری بیایی؟", "r": "hafte-ye ba'd ham mi-khāhim be shomāl beravim. dust dāri biyāyi?", "en": "Next week we also want to go up north. Would you like to come?", "col": "هفته‌ی بعد هم می‌خوایم بریم شمال. دوست داری بیای؟", "colR": "hafte-ye ba'd ham mi-khāym berim shomāl. dust dāri biyāy?"},
-    {"who": "Tom", "fa": "شمال؟ یعنی دریای خزر؟", "r": "shomāl? ya'ni daryā-ye Khazar?", "en": "The north? You mean the Caspian Sea?"},
-    {"who": "Amir", "fa": "بله. سه روز در ویلای دایی‌ام می‌مانیم.", "r": "bale. se ruz dar vilā-ye dāyi-am mi-mānim.", "en": "Yes. We're staying three days at my uncle's villa."},
-    {"who": "Tom", "fa": "خیلی دوست دارم بیایم! ممنون، امیر.", "r": "kheyli dust dāram biyāyam! mamnun, Amir.", "en": "I'd love to come! Thank you, Amir."},
-    {"who": "Amir", "fa": "خواهش می‌کنم. پس جمعه ساعت شش، جلوی خانه‌ی ما!", "r": "khāhesh mi-konam. pas jom'e sā'at-e shesh, jelo-ye khāne-ye mā!", "en": "You're welcome. So: Friday at six, in front of our house!"}
+    {
+     "who": "Amir",
+     "fa": "تام، آخر هفته چه کار می‌کنی؟",
+     "r": "Tām, ākhar-e hafte che kār mi-koni?",
+     "en": "Tom, what are you doing at the weekend?",
+     "col": "تام، آخر هفته چی کار می‌کنی؟",
+     "colR": "Tām, ākhar-e hafte chi kār mi-koni?",
+     "faV": "تام، آخَرِ هَفته چه کار می‌کُنی؟",
+     "a": "b7be8fe26ddc",
+     "colV": "تام، آخَرِ هَفته چی کار می‌کُنی؟",
+     "colA": "7e57dfb5695d"
+    },
+    {
+     "who": "Tom",
+     "fa": "هنوز نمی‌دانم. می‌خواهم کوه بروم، اما تنها نمی‌خواهم بروم.",
+     "r": "hanuz nemi-dānam. mi-khāham kuh beravam, ammā tanhā nemi-khāham beravam.",
+     "en": "I don't know yet. I want to go hiking in the mountains, but I don't want to go alone.",
+     "col": "هنوز نمی‌دونم. می‌خوام برم کوه، اما تنها نمی‌خوام برم.",
+     "colR": "hanuz nemi-dunam. mi-khām beram kuh, ammā tanhā nemi-khām beram.",
+     "faV": "هَنوز نِمی‌دانَم. می‌خواهَم کوه بِرَوَم، اَمّا تَنها نِمی‌خواهَم بِرَوَم.",
+     "a": "b3d0254025ce",
+     "colV": "هَنوز نِمی‌دونَم. می‌خوام بِرَم کوه، اَمّا تَنها نِمی‌خوام بِرَم.",
+     "colA": "c1a649a740c5"
+    },
+    {
+     "who": "Amir",
+     "fa": "ما جمعه صبح به توچال می‌رویم. تو هم می‌خواهی بیایی؟",
+     "r": "mā jom'e sobh be Tochāl mi-ravim. to ham mi-khāhi biyāyi?",
+     "en": "We're going to Tochal on Friday morning. Do you want to come too?",
+     "col": "ما جمعه صبح می‌ریم توچال. تو هم می‌خوای بیای؟",
+     "colR": "mā jom'e sobh mi-rim Tochāl. to ham mi-khāy biyāy?",
+     "faV": "ما جُمعه صُبح به توچال می‌رَویم. تو هَم می‌خواهی بیایی؟",
+     "a": "10c370896467",
+     "colV": "ما جُمعه صُبح می‌ریم توچال. تو هَم می‌خوای بیای؟",
+     "colA": "c8a6dcd73b98"
+    },
+    {
+     "who": "Tom",
+     "fa": "بله، حتماً! ساعت چند می‌روید؟",
+     "r": "bale, hatman! sā'at-e chand mi-ravid?",
+     "en": "Yes, definitely! What time are you going?",
+     "faV": "بَله، حَتماً! ساعَتِ چَند می‌رَوید؟",
+     "a": "f5b6e0b496f7"
+    },
+    {
+     "who": "Amir",
+     "fa": "ساعت شش صبح. با تله‌کابین بالا می‌رویم.",
+     "r": "sā'at-e shesh-e sobh. bā tele-kābin bālā mi-ravim.",
+     "en": "At six in the morning. We go up by cable car.",
+     "faV": "ساعَتِ شِشِ صُبح. با تِله‌کابین بالا می‌رَویم.",
+     "a": "0c707730a75c"
+    },
+    {
+     "who": "Tom",
+     "fa": "ساعت شش؟ خیلی زود است!",
+     "r": "sā'at-e shesh? kheyli zud ast!",
+     "en": "At six? That's very early!",
+     "faV": "ساعَتِ شِش؟ خَیلی زود اَست!",
+     "a": "f25efb4345ab"
+    },
+    {
+     "who": "Amir",
+     "fa": "زود است، اما آن بالا هوا عالی است. بعد از ظهر به دربند می‌رویم و ناهار می‌خوریم.",
+     "r": "zud ast, ammā ān bālā havā āli ast. ba'd az zohr be Darband mi-ravim va nāhār mi-khorim.",
+     "en": "It is early, but the air up there is wonderful. In the afternoon we go to Darband and have lunch.",
+     "faV": "زود اَست، اَمّا آن بالا هَوا عالی اَست. بَعد اَز ظُهر به دَربَند می‌رَویم و ناهار می‌خوریم.",
+     "a": "ecc86c3f417e"
+    },
+    {
+     "who": "Tom",
+     "fa": "عالی است! من دربند را خیلی دوست دارم.",
+     "r": "āli ast! man Darband rā kheyli dust dāram.",
+     "en": "Great! I love Darband.",
+     "faV": "عالی اَست! مَن دَربَند را خَیلی دوست دارَم.",
+     "a": "5dccee48a7b1"
+    },
+    {
+     "who": "Amir",
+     "fa": "هفته‌ی بعد هم می‌خواهیم به شمال برویم. دوست داری بیایی؟",
+     "r": "hafte-ye ba'd ham mi-khāhim be shomāl beravim. dust dāri biyāyi?",
+     "en": "Next week we also want to go up north. Would you like to come?",
+     "col": "هفته‌ی بعد هم می‌خوایم بریم شمال. دوست داری بیای؟",
+     "colR": "hafte-ye ba'd ham mi-khāym berim shomāl. dust dāri biyāy?",
+     "faV": "هَفته‌یِ بَعد هَم می‌خواهیم به شُمال بِرَویم. دوست داری بیایی؟",
+     "a": "e2ffc6b82ab7",
+     "colV": "هَفته‌یِ بَعد هَم می‌خوایم بِریم شُمال. دوست داری بیای؟",
+     "colA": "9d48a1eda602"
+    },
+    {
+     "who": "Tom",
+     "fa": "شمال؟ یعنی دریای خزر؟",
+     "r": "shomāl? ya'ni daryā-ye Khazar?",
+     "en": "The north? You mean the Caspian Sea?",
+     "faV": "شُمال؟ یَعنی دَریایِ خَزَر؟",
+     "a": "7db9ad034ee0"
+    },
+    {
+     "who": "Amir",
+     "fa": "بله. سه روز در ویلای دایی‌ام می‌مانیم.",
+     "r": "bale. se ruz dar vilā-ye dāyi-am mi-mānim.",
+     "en": "Yes. We're staying three days at my uncle's villa.",
+     "faV": "بَله. سه روز دَر ویلایِ دایی‌اَم می‌مانیم.",
+     "a": "8d20dd63bf20"
+    },
+    {
+     "who": "Tom",
+     "fa": "خیلی دوست دارم بیایم! ممنون، امیر.",
+     "r": "kheyli dust dāram biyāyam! mamnun, Amir.",
+     "en": "I'd love to come! Thank you, Amir.",
+     "faV": "خَیلی دوست دارَم بیایَم! مَمنون، اَمیر.",
+     "a": "e1c5441f9ed5"
+    },
+    {
+     "who": "Amir",
+     "fa": "خواهش می‌کنم. پس جمعه ساعت شش، جلوی خانه‌ی ما!",
+     "r": "khāhesh mi-konam. pas jom'e sā'at-e shesh, jelo-ye khāne-ye mā!",
+     "en": "You're welcome. So: Friday at six, in front of our house!",
+     "faV": "خواهِش می‌کُنَم. پَس جُمعه ساعَتِ شِش، جِلویِ خانه‌یِ ما!",
+     "a": "54a270621974"
+    }
    ]
   },
   {
@@ -38,26 +151,213 @@
    "type": "vocab",
    "title": "Words",
    "items": [
-    {"fa": "برنامه", "r": "barnāme", "en": "plan; programme, schedule", "pos": "n", "ex": {"fa": "برای آخر هفته چه برنامه‌ای داری؟", "r": "barā-ye ākhar-e hafte che barnāme-i dāri?", "en": "What are your plans for the weekend?"}},
-    {"fa": "آرزو", "r": "ārezu", "en": "wish, dream", "pos": "n", "note": "ārezu dāshtan = to wish, to dream of"},
-    {"fa": "خواستن", "r": "khāstan", "en": "to want", "pos": "v", "note": "stem khāh-: mi-khāham + subjunctive", "ex": {"fa": "می‌خواهم یک ماشین بخرم.", "r": "mi-khāham yek māshin bekharam.", "en": "I want to buy a car."}},
-    {"fa": "آخر هفته", "r": "ākhar-e hafte", "en": "the weekend", "pos": "n", "note": "literally 'the end of the week'"},
-    {"fa": "پس‌فردا", "r": "pas-fardā", "en": "the day after tomorrow", "pos": "adv"},
-    {"fa": "امشب", "r": "emshab", "en": "tonight", "pos": "adv"},
-    {"fa": "هفته‌ی بعد", "r": "hafte-ye ba'd", "en": "next week", "pos": "phrase", "note": "spoken also hafte-ye dige"},
-    {"fa": "تعطیلات", "r": "ta'tilāt", "en": "holidays, vacation", "pos": "n", "ex": {"fa": "تعطیلات نوروز به شیراز می‌رویم.", "r": "ta'tilāt-e nowruz be Shirāz mi-ravim.", "en": "We're going to Shiraz for the Nowruz holidays."}},
-    {"fa": "سفر", "r": "safar", "en": "trip, journey", "pos": "n", "note": "safar kardan = to travel; safar be kheyr! = have a good trip!"},
-    {"fa": "کوه", "r": "kuh", "en": "mountain", "pos": "n", "note": "kuh raftan = to go hiking in the mountains"},
-    {"fa": "دیدن", "r": "didan", "en": "to see", "pos": "v", "note": "stem bin-: mi-binam, bebinam", "ex": {"fa": "می‌خواهم دریا را ببینم.", "r": "mi-khāham daryā rā bebinam.", "en": "I want to see the sea."}},
-    {"fa": "ماندن", "r": "māndan", "en": "to stay", "pos": "v", "note": "stem mān-: mi-mānam, bemānam"},
-    {"fa": "برگشتن", "r": "bar-gashtan", "en": "to come back, to return", "pos": "v", "note": "stem bar-gard-: bar-mi-gardam"},
-    {"fa": "گردش", "r": "gardesh", "en": "an outing, a stroll", "pos": "n", "note": "gardesh kardan = to go out, to stroll around"},
-    {"fa": "سینما", "r": "sinamā", "en": "cinema", "pos": "n"},
-    {"fa": "شمال", "r": "shomāl", "en": "north; (for Tehranis) the Caspian coast", "pos": "n"},
-    {"fa": "با هم", "r": "bā ham", "en": "together", "pos": "adv", "ex": {"fa": "با هم به سینما برویم؟", "r": "bā ham be sinamā beravim?", "en": "Shall we go to the cinema together?"}},
-    {"fa": "تنها", "r": "tanhā", "en": "alone; only", "pos": "adv"},
-    {"fa": "شاید", "r": "shāyad", "en": "maybe, perhaps", "pos": "adv", "note": "usually followed by the subjunctive: shāyad beravam"},
-    {"fa": "قرار", "r": "gharār", "en": "arrangement, plan", "pos": "n", "note": "gharār ast + subjunctive = it is planned, we're supposed to"}
+    {
+     "fa": "برنامه",
+     "r": "barnāme",
+     "en": "plan; programme, schedule",
+     "pos": "n",
+     "ex": {
+      "fa": "برای آخر هفته چه برنامه‌ای داری؟",
+      "r": "barā-ye ākhar-e hafte che barnāme-i dāri?",
+      "en": "What are your plans for the weekend?",
+      "faV": "بَرایِ آخَرِ هَفته چه بَرنامه‌ای داری؟",
+      "a": "d5cd51e1efac"
+     },
+     "faV": "بَرنامه",
+     "a": "5aa6076f9df1"
+    },
+    {
+     "fa": "آرزو",
+     "r": "ārezu",
+     "en": "wish, dream",
+     "pos": "n",
+     "note": "ārezu dāshtan = to wish, to dream of",
+     "faV": "آرِزو",
+     "a": "d81e40b4b47f"
+    },
+    {
+     "fa": "خواستن",
+     "r": "khāstan",
+     "en": "to want",
+     "pos": "v",
+     "note": "stem khāh-: mi-khāham + subjunctive",
+     "ex": {
+      "fa": "می‌خواهم یک ماشین بخرم.",
+      "r": "mi-khāham yek māshin bekharam.",
+      "en": "I want to buy a car.",
+      "faV": "می‌خواهَم یِک ماشین بِخَرَم.",
+      "a": "788209a8591e"
+     },
+     "faV": "خواستَن",
+     "a": "2112d69f9f58"
+    },
+    {
+     "fa": "آخر هفته",
+     "r": "ākhar-e hafte",
+     "en": "the weekend",
+     "pos": "n",
+     "note": "literally 'the end of the week'",
+     "faV": "آخَرِ هَفته",
+     "a": "23a6cb6c81bc"
+    },
+    {
+     "fa": "پس‌فردا",
+     "r": "pas-fardā",
+     "en": "the day after tomorrow",
+     "pos": "adv",
+     "faV": "پَس‌فَردا",
+     "a": "4dbafb3d83e7"
+    },
+    {
+     "fa": "امشب",
+     "r": "emshab",
+     "en": "tonight",
+     "pos": "adv",
+     "faV": "اِمشَب",
+     "a": "8d113715adcb"
+    },
+    {
+     "fa": "هفته‌ی بعد",
+     "r": "hafte-ye ba'd",
+     "en": "next week",
+     "pos": "phrase",
+     "note": "spoken also hafte-ye dige",
+     "faV": "هَفته‌یِ بَعد",
+     "a": "29e63c4f308c"
+    },
+    {
+     "fa": "تعطیلات",
+     "r": "ta'tilāt",
+     "en": "holidays, vacation",
+     "pos": "n",
+     "ex": {
+      "fa": "تعطیلات نوروز به شیراز می‌رویم.",
+      "r": "ta'tilāt-e nowruz be Shirāz mi-ravim.",
+      "en": "We're going to Shiraz for the Nowruz holidays.",
+      "faV": "تَعطیلاتِ نَوروز به شیراز می‌رَویم.",
+      "a": "f29fd43f2a1b"
+     },
+     "faV": "تَعطیلات",
+     "a": "b64edd837412"
+    },
+    {
+     "fa": "سفر",
+     "r": "safar",
+     "en": "trip, journey",
+     "pos": "n",
+     "note": "safar kardan = to travel; safar be kheyr! = have a good trip!",
+     "faV": "سَفَر",
+     "a": "30c5fae3f3fc"
+    },
+    {
+     "fa": "کوه",
+     "r": "kuh",
+     "en": "mountain",
+     "pos": "n",
+     "note": "kuh raftan = to go hiking in the mountains",
+     "faV": "کوه",
+     "a": "dce9030c3b67"
+    },
+    {
+     "fa": "دیدن",
+     "r": "didan",
+     "en": "to see",
+     "pos": "v",
+     "note": "stem bin-: mi-binam, bebinam",
+     "ex": {
+      "fa": "می‌خواهم دریا را ببینم.",
+      "r": "mi-khāham daryā rā bebinam.",
+      "en": "I want to see the sea.",
+      "faV": "می‌خواهَم دَریا را بِبینَم.",
+      "a": "964b08164365"
+     },
+     "faV": "دیدَن",
+     "a": "f77446a25019"
+    },
+    {
+     "fa": "ماندن",
+     "r": "māndan",
+     "en": "to stay",
+     "pos": "v",
+     "note": "stem mān-: mi-mānam, bemānam",
+     "faV": "ماندَن",
+     "a": "a0404d8d94cd"
+    },
+    {
+     "fa": "برگشتن",
+     "r": "bar-gashtan",
+     "en": "to come back, to return",
+     "pos": "v",
+     "note": "stem bar-gard-: bar-mi-gardam",
+     "faV": "بَرگَشتَن",
+     "a": "ee208679bee8"
+    },
+    {
+     "fa": "گردش",
+     "r": "gardesh",
+     "en": "an outing, a stroll",
+     "pos": "n",
+     "note": "gardesh kardan = to go out, to stroll around",
+     "faV": "گَردِش",
+     "a": "dfd039e26e5c"
+    },
+    {
+     "fa": "سینما",
+     "r": "sinamā",
+     "en": "cinema",
+     "pos": "n",
+     "faV": "سینَما",
+     "a": "fb377a979b72"
+    },
+    {
+     "fa": "شمال",
+     "r": "shomāl",
+     "en": "north; (for Tehranis) the Caspian coast",
+     "pos": "n",
+     "faV": "شُمال",
+     "a": "a9f9760d31ed"
+    },
+    {
+     "fa": "با هم",
+     "r": "bā ham",
+     "en": "together",
+     "pos": "adv",
+     "ex": {
+      "fa": "با هم به سینما برویم؟",
+      "r": "bā ham be sinamā beravim?",
+      "en": "Shall we go to the cinema together?",
+      "faV": "با هَم به سینَما بِرَویم؟",
+      "a": "62d39abc4380"
+     },
+     "faV": "با هَم",
+     "a": "97e70d927e21"
+    },
+    {
+     "fa": "تنها",
+     "r": "tanhā",
+     "en": "alone; only",
+     "pos": "adv",
+     "faV": "تَنها",
+     "a": "ae70e1bba222"
+    },
+    {
+     "fa": "شاید",
+     "r": "shāyad",
+     "en": "maybe, perhaps",
+     "pos": "adv",
+     "note": "usually followed by the subjunctive: shāyad beravam",
+     "faV": "شایَد",
+     "a": "4edf453927b7"
+    },
+    {
+     "fa": "قرار",
+     "r": "gharār",
+     "en": "arrangement, plan",
+     "pos": "n",
+     "note": "gharār ast + subjunctive = it is planned, we're supposed to",
+     "faV": "قَرار",
+     "a": "3342870721c0"
+    }
    ]
   },
   {
@@ -65,23 +365,109 @@
    "title": "I want to go: mi-khāham + subjunctive",
    "md": "After *want*, Persian does not use an infinitive like English *to go*. Instead both verbs take the person ending: *I want I-go* – [[می‌خواهم بروم|mi-khāham beravam|I want to go]], [[می‌خواهی بروی|mi-khāhi beravi|you want to go]], [[می‌خواهد برود|mi-khāhad beravad|she wants to go]]. The second verb is in the **subjunctive** (Persian grammar calls it [[التزامی|eltezāmi]]).\n\nThe subjunctive is easy to make: **be- + present stem + ending** – the same stem and endings as the present tense, with **be-** in place of **mi-**: [[می‌روم|mi-ravam|I go]] → [[بروم|beravam|(that) I go]]. Before a stem beginning with **ā**, be- becomes **bi-**: [[بیایم|biyāyam|(that) I come]]. Two-word verbs with *kardan* or *shodan* usually drop the be-: [[استراحت کنم|esterāhat konam|(that) I rest]], [[بیدار شوم|bidār shavam|(that) I wake up]].\n\nTo say you **don't** want to do something, make *want* negative – the subjunctive stays as it is: [[نمی‌خواهم بروم|nemi-khāham beravam|I don't want to go]]. In speech, *mi-khāham beravam* is *mi-khām beram* – perhaps the most useful sentence in Tehran.",
    "table": {
-    "head": ["Verb", "Present", "Subjunctive", "With mi-khāham", "English"],
+    "head": [
+     "Verb",
+     "Present",
+     "Subjunctive",
+     "With mi-khāham",
+     "English"
+    ],
     "rows": [
-     ["[[رفتن|raftan]]", "[[می‌روم|mi-ravam]]", "[[بروم|beravam]]", "[[می‌خواهم بروم|mi-khāham beravam]]", "I want to go"],
-     ["[[آمدن|āmadan]]", "[[می‌آیم|mi-āyam]]", "[[بیایم|biyāyam]]", "[[می‌خواهم بیایم|mi-khāham biyāyam]]", "I want to come"],
-     ["[[دیدن|didan]]", "[[می‌بینم|mi-binam]]", "[[ببینم|bebinam]]", "[[می‌خواهم ببینم|mi-khāham bebinam]]", "I want to see"],
-     ["[[خریدن|kharidan]]", "[[می‌خرم|mi-kharam]]", "[[بخرم|bekharam]]", "[[می‌خواهم بخرم|mi-khāham bekharam]]", "I want to buy"],
-     ["[[ماندن|māndan]]", "[[می‌مانم|mi-mānam]]", "[[بمانم|bemānam]]", "[[می‌خواهم بمانم|mi-khāham bemānam]]", "I want to stay"],
-     ["[[خوردن|khordan]]", "[[می‌خورم|mi-khoram]]", "[[بخورم|bokhoram]]", "[[می‌خواهم بخورم|mi-khāham bokhoram]]", "I want to eat"],
-     ["[[استراحت کردن|esterāhat kardan]]", "[[استراحت می‌کنم|esterāhat mi-konam]]", "[[استراحت کنم|esterāhat konam]]", "[[می‌خواهم استراحت کنم|mi-khāham esterāhat konam]]", "I want to rest"]
+     [
+      "[[رفتن|raftan]]",
+      "[[می‌روم|mi-ravam]]",
+      "[[بروم|beravam]]",
+      "[[می‌خواهم بروم|mi-khāham beravam]]",
+      "I want to go"
+     ],
+     [
+      "[[آمدن|āmadan]]",
+      "[[می‌آیم|mi-āyam]]",
+      "[[بیایم|biyāyam]]",
+      "[[می‌خواهم بیایم|mi-khāham biyāyam]]",
+      "I want to come"
+     ],
+     [
+      "[[دیدن|didan]]",
+      "[[می‌بینم|mi-binam]]",
+      "[[ببینم|bebinam]]",
+      "[[می‌خواهم ببینم|mi-khāham bebinam]]",
+      "I want to see"
+     ],
+     [
+      "[[خریدن|kharidan]]",
+      "[[می‌خرم|mi-kharam]]",
+      "[[بخرم|bekharam]]",
+      "[[می‌خواهم بخرم|mi-khāham bekharam]]",
+      "I want to buy"
+     ],
+     [
+      "[[ماندن|māndan]]",
+      "[[می‌مانم|mi-mānam]]",
+      "[[بمانم|bemānam]]",
+      "[[می‌خواهم بمانم|mi-khāham bemānam]]",
+      "I want to stay"
+     ],
+     [
+      "[[خوردن|khordan]]",
+      "[[می‌خورم|mi-khoram]]",
+      "[[بخورم|bokhoram]]",
+      "[[می‌خواهم بخورم|mi-khāham bokhoram]]",
+      "I want to eat"
+     ],
+     [
+      "[[استراحت کردن|esterāhat kardan]]",
+      "[[استراحت می‌کنم|esterāhat mi-konam]]",
+      "[[استراحت کنم|esterāhat konam]]",
+      "[[می‌خواهم استراحت کنم|mi-khāham esterāhat konam]]",
+      "I want to rest"
+     ]
     ]
    },
    "examples": [
-    {"fa": "می‌خواهم به دربند بروم.", "r": "mi-khāham be Darband beravam.", "en": "I want to go to Darband.", "col": "می‌خوام برم دربند.", "colR": "mi-khām beram Darband."},
-    {"fa": "سارا می‌خواهد یک کتاب بخرد.", "r": "Sārā mi-khāhad yek ketāb bekharad.", "en": "Sara wants to buy a book."},
-    {"fa": "ما می‌خواهیم دریا را ببینیم.", "r": "mā mi-khāhim daryā rā bebinim.", "en": "We want to see the sea."},
-    {"fa": "امروز نمی‌خواهم کار کنم. می‌خواهم استراحت کنم.", "r": "emruz nemi-khāham kār konam. mi-khāham esterāhat konam.", "en": "Today I don't want to work. I want to rest."},
-    {"fa": "می‌خواهی با ما بیایی؟", "r": "mi-khāhi bā mā biyāyi?", "en": "Do you want to come with us?", "col": "می‌خوای با ما بیای؟", "colR": "mi-khāy bā mā biyāy?"}
+    {
+     "fa": "می‌خواهم به دربند بروم.",
+     "r": "mi-khāham be Darband beravam.",
+     "en": "I want to go to Darband.",
+     "col": "می‌خوام برم دربند.",
+     "colR": "mi-khām beram Darband.",
+     "faV": "می‌خواهَم به دَربَند بِرَوَم.",
+     "a": "f648876462c6",
+     "colV": "می‌خوام بِرَم دَربَند.",
+     "colA": "4efc5530d680"
+    },
+    {
+     "fa": "سارا می‌خواهد یک کتاب بخرد.",
+     "r": "Sārā mi-khāhad yek ketāb bekharad.",
+     "en": "Sara wants to buy a book.",
+     "faV": "سارا می‌خواهَد یِک کِتاب بِخَرَد.",
+     "a": "581fb61bd560"
+    },
+    {
+     "fa": "ما می‌خواهیم دریا را ببینیم.",
+     "r": "mā mi-khāhim daryā rā bebinim.",
+     "en": "We want to see the sea.",
+     "faV": "ما می‌خواهیم دَریا را بِبینیم.",
+     "a": "e683dfe7837b"
+    },
+    {
+     "fa": "امروز نمی‌خواهم کار کنم. می‌خواهم استراحت کنم.",
+     "r": "emruz nemi-khāham kār konam. mi-khāham esterāhat konam.",
+     "en": "Today I don't want to work. I want to rest.",
+     "faV": "اِمروز نِمی‌خواهَم کار کُنَم. می‌خواهَم اِستِراحَت کُنَم.",
+     "a": "265893ab60c5"
+    },
+    {
+     "fa": "می‌خواهی با ما بیایی؟",
+     "r": "mi-khāhi bā mā biyāyi?",
+     "en": "Do you want to come with us?",
+     "col": "می‌خوای با ما بیای؟",
+     "colR": "mi-khāy bā mā biyāy?",
+     "faV": "می‌خواهی با ما بیایی؟",
+     "a": "75853e983cd6",
+     "colV": "می‌خوای با ما بیای؟",
+     "colA": "8f2d88f0672e"
+    }
    ]
   },
   {
@@ -89,23 +475,87 @@
    "title": "Tomorrow I'm going: the present for the future",
    "md": "Persian has a formal future tense, but in everyday life people use the **present tense** for plans, with a time word to show when: [[فردا به شمال می‌رویم.|fardā be shomāl mi-ravim.|Tomorrow we're going north.]] – [[هفته‌ی بعد برمی‌گردم.|hafte-ye ba'd bar-mi-gardam.|I'll be back next week.]] The written future, *khāham raft*, comes later in the course.\n\nThe time word usually goes at the start of the sentence or right after the subject. These are the ones you will use most:",
    "table": {
-    "head": ["Persian", "Reading", "English"],
+    "head": [
+     "Persian",
+     "Reading",
+     "English"
+    ],
     "rows": [
-     ["[[امشب|emshab]]", "emshab", "tonight"],
-     ["[[فردا|fardā]]", "fardā", "tomorrow"],
-     ["[[پس‌فردا|pas-fardā]]", "pas-fardā", "the day after tomorrow"],
-     ["[[آخر هفته|ākhar-e hafte]]", "ākhar-e hafte", "at the weekend"],
-     ["[[هفته‌ی بعد|hafte-ye ba'd]]", "hafte-ye ba'd", "next week"],
-     ["[[ماه بعد|māh-e ba'd]]", "māh-e ba'd", "next month"],
-     ["[[سال بعد|sāl-e ba'd]]", "sāl-e ba'd", "next year"],
-     ["[[این تابستان|in tābestān]]", "in tābestān", "this summer"]
+     [
+      "[[امشب|emshab]]",
+      "emshab",
+      "tonight"
+     ],
+     [
+      "[[فردا|fardā]]",
+      "fardā",
+      "tomorrow"
+     ],
+     [
+      "[[پس‌فردا|pas-fardā]]",
+      "pas-fardā",
+      "the day after tomorrow"
+     ],
+     [
+      "[[آخر هفته|ākhar-e hafte]]",
+      "ākhar-e hafte",
+      "at the weekend"
+     ],
+     [
+      "[[هفته‌ی بعد|hafte-ye ba'd]]",
+      "hafte-ye ba'd",
+      "next week"
+     ],
+     [
+      "[[ماه بعد|māh-e ba'd]]",
+      "māh-e ba'd",
+      "next month"
+     ],
+     [
+      "[[سال بعد|sāl-e ba'd]]",
+      "sāl-e ba'd",
+      "next year"
+     ],
+     [
+      "[[این تابستان|in tābestān]]",
+      "in tābestān",
+      "this summer"
+     ]
     ]
    },
    "examples": [
-    {"fa": "امشب به سینما می‌روم.", "r": "emshab be sinamā mi-ravam.", "en": "I'm going to the cinema tonight."},
-    {"fa": "پس‌فردا دوستم از اصفهان می‌آید.", "r": "pas-fardā dust-am az Esfahān mi-āyad.", "en": "My friend is coming from Isfahan the day after tomorrow."},
-    {"fa": "سال بعد در شیراز زندگی می‌کنیم.", "r": "sāl-e ba'd dar Shirāz zendegi mi-konim.", "en": "Next year we'll be living in Shiraz."},
-    {"fa": "کِی برمی‌گردی؟ هفته‌ی بعد.", "r": "key bar-mi-gardi? hafte-ye ba'd.", "en": "When are you coming back? Next week.", "col": "کِی برمی‌گردی؟ هفته‌ی دیگه.", "colR": "key bar-mi-gardi? hafte-ye dige."}
+    {
+     "fa": "امشب به سینما می‌روم.",
+     "r": "emshab be sinamā mi-ravam.",
+     "en": "I'm going to the cinema tonight.",
+     "faV": "اِمشَب به سینَما می‌رَوَم.",
+     "a": "154529584fea"
+    },
+    {
+     "fa": "پس‌فردا دوستم از اصفهان می‌آید.",
+     "r": "pas-fardā dust-am az Esfahān mi-āyad.",
+     "en": "My friend is coming from Isfahan the day after tomorrow.",
+     "faV": "پَس‌فَردا دوستَم اَز اِصفَهان می‌آیَد.",
+     "a": "c01985297ac5"
+    },
+    {
+     "fa": "سال بعد در شیراز زندگی می‌کنیم.",
+     "r": "sāl-e ba'd dar Shirāz zendegi mi-konim.",
+     "en": "Next year we'll be living in Shiraz.",
+     "faV": "سالِ بَعد دَر شیراز زِندِگی می‌کُنیم.",
+     "a": "eae280a6aeaa"
+    },
+    {
+     "fa": "کِی برمی‌گردی؟ هفته‌ی بعد.",
+     "r": "key bar-mi-gardi? hafte-ye ba'd.",
+     "en": "When are you coming back? Next week.",
+     "col": "کِی برمی‌گردی؟ هفته‌ی دیگه.",
+     "colR": "key bar-mi-gardi? hafte-ye dige.",
+     "faV": "کَی بَرمی‌گَردی؟ هَفته‌یِ بَعد.",
+     "a": "d2d710e7a229",
+     "colV": "کَی بَرمی‌گَردی؟ هَفته‌یِ دیگه.",
+     "colA": "d48ea365400d"
+    }
    ]
   },
   {
@@ -113,21 +563,77 @@
    "title": "Let's go! Wishes and suggestions",
    "md": "The subjunctive follows many words of wanting and planning, not only *mi-khāham*:\n\n- [[دوست دارم|dust dāram|I'd like]] + subjunctive is softer than *I want*: [[دوست دارم اصفهان را ببینم.|dust dāram Esfahān rā bebinam.|I'd like to see Isfahan.]]\n- [[قرار است|gharār ast|it is planned]] + subjunctive: [[قرار است جمعه به شمال برویم.|gharār ast jom'e be shomāl beravim.|We're supposed to go north on Friday.]]\n- [[شاید|shāyad|maybe]] + subjunctive: [[شاید فردا بیایم.|shāyad fardā biyāyam.|Maybe I'll come tomorrow.]]\n- [[آرزو دارم|ārezu dāram|I wish, my dream is]] + subjunctive: [[آرزو دارم ایران را ببینم.|ārezu dāram Irān rā bebinam.|My dream is to see Iran.]]\n\nOn its own, the *we* form of the subjunctive means **let's**: [[برویم!|beravim!|let's go!]] – spoken *berim!* With a rising voice it becomes a suggestion: [[به دربند برویم؟|be Darband beravim?|shall we go to Darband?]]",
    "table": {
-    "head": ["Persian", "Reading", "English"],
+    "head": [
+     "Persian",
+     "Reading",
+     "English"
+    ],
     "rows": [
-     ["[[برویم!|beravim!]]", "beravim! (spoken berim!)", "Let's go!"],
-     ["[[بخوریم!|bokhorim!]]", "bokhorim!", "Let's eat!"],
-     ["[[دوست دارم بیایم.|dust dāram biyāyam.]]", "dust dāram + subjunctive", "I'd like to come."],
-     ["[[قرار است بمانیم.|gharār ast bemānim.]]", "gharār ast + subjunctive", "We're supposed to stay."],
-     ["[[شاید بروم.|shāyad beravam.]]", "shāyad + subjunctive", "Maybe I'll go."],
-     ["[[آرزو دارم ببینم.|ārezu dāram bebinam.]]", "ārezu dāram + subjunctive", "I dream of seeing (it)."]
+     [
+      "[[برویم!|beravim!]]",
+      "beravim! (spoken berim!)",
+      "Let's go!"
+     ],
+     [
+      "[[بخوریم!|bokhorim!]]",
+      "bokhorim!",
+      "Let's eat!"
+     ],
+     [
+      "[[دوست دارم بیایم.|dust dāram biyāyam.]]",
+      "dust dāram + subjunctive",
+      "I'd like to come."
+     ],
+     [
+      "[[قرار است بمانیم.|gharār ast bemānim.]]",
+      "gharār ast + subjunctive",
+      "We're supposed to stay."
+     ],
+     [
+      "[[شاید بروم.|shāyad beravam.]]",
+      "shāyad + subjunctive",
+      "Maybe I'll go."
+     ],
+     [
+      "[[آرزو دارم ببینم.|ārezu dāram bebinam.]]",
+      "ārezu dāram + subjunctive",
+      "I dream of seeing (it)."
+     ]
     ]
    },
    "examples": [
-    {"fa": "برویم! دیر است.", "r": "beravim! dir ast.", "en": "Let's go! It's late.", "col": "بریم! دیره.", "colR": "berim! dire."},
-    {"fa": "دوست داری با ما به کوه بیایی؟", "r": "dust dāri bā mā be kuh biyāyi?", "en": "Would you like to come hiking with us?"},
-    {"fa": "قرار است تابستان به یزد برویم.", "r": "gharār ast tābestān be Yazd beravim.", "en": "We're supposed to go to Yazd in the summer."},
-    {"fa": "شاید امشب در خانه بمانم.", "r": "shāyad emshab dar khāne bemānam.", "en": "Maybe I'll stay at home tonight."}
+    {
+     "fa": "برویم! دیر است.",
+     "r": "beravim! dir ast.",
+     "en": "Let's go! It's late.",
+     "col": "بریم! دیره.",
+     "colR": "berim! dire.",
+     "faV": "بِرَویم! دیر اَست.",
+     "a": "5af57993fcd6",
+     "colV": "بِریم! دیره.",
+     "colA": "ace7f3235909"
+    },
+    {
+     "fa": "دوست داری با ما به کوه بیایی؟",
+     "r": "dust dāri bā mā be kuh biyāyi?",
+     "en": "Would you like to come hiking with us?",
+     "faV": "دوست داری با ما به کوه بیایی؟",
+     "a": "3fc3361ab15e"
+    },
+    {
+     "fa": "قرار است تابستان به یزد برویم.",
+     "r": "gharār ast tābestān be Yazd beravim.",
+     "en": "We're supposed to go to Yazd in the summer.",
+     "faV": "قَرار اَست تابِستان به یَزد بِرَویم.",
+     "a": "dd9c74b4d4a2"
+    },
+    {
+     "fa": "شاید امشب در خانه بمانم.",
+     "r": "shāyad emshab dar khāne bemānam.",
+     "en": "Maybe I'll stay at home tonight.",
+     "faV": "شایَد اِمشَب دَر خانه بِمانَم.",
+     "a": "c899b12ea47a"
+    }
    ]
   },
   {
@@ -135,18 +641,84 @@
    "title": "Sara's summer",
    "intro": "Sara has big plans for the summer. Read and answer the questions.",
    "sentences": [
-    {"fa": "سارا دانشجو است و در تهران زندگی می‌کند.", "r": "Sārā dāneshju ast va dar Tehrān zendegi mi-konad.", "en": "Sara is a student and lives in Tehran."},
-    {"fa": "این تابستان می‌خواهد با دوستش لیلا سفر کند.", "r": "in tābestān mi-khāhad bā dust-ash Leylā safar konad.", "en": "This summer she wants to travel with her friend Leila."},
-    {"fa": "اول به اصفهان می‌روند و میدان نقش جهان را می‌بینند.", "r": "avval be Esfahān mi-ravand va meydān-e Naghsh-e Jahān rā mi-binand.", "en": "First they are going to Isfahan, where they will see Naqsh-e Jahan Square."},
-    {"fa": "بعد سه روز در شیراز می‌مانند.", "r": "ba'd se ruz dar Shirāz mi-mānand.", "en": "Then they are staying in Shiraz for three days."},
-    {"fa": "لیلا دوست دارد آرامگاه حافظ را ببیند.", "r": "Leylā dust dārad ārāmgāh-e Hāfez rā bebinad.", "en": "Leila would like to see the tomb of Hafez."},
-    {"fa": "سارا می‌خواهد برای مادرش یک ترمه بخرد.", "r": "Sārā mi-khāhad barā-ye mādar-ash yek terme bekharad.", "en": "Sara wants to buy a termeh for her mother."},
-    {"fa": "آرزوی بزرگ او؟ دیدن سمرقند!", "r": "ārezu-ye bozorg-e u? didan-e Samarghand!", "en": "Her big dream? To see Samarkand!"}
+    {
+     "fa": "سارا دانشجو است و در تهران زندگی می‌کند.",
+     "r": "Sārā dāneshju ast va dar Tehrān zendegi mi-konad.",
+     "en": "Sara is a student and lives in Tehran.",
+     "faV": "سارا دانِشجو اَست و دَر تِهران زِندِگی می‌کُنَد.",
+     "a": "a0c797ff2fa6"
+    },
+    {
+     "fa": "این تابستان می‌خواهد با دوستش لیلا سفر کند.",
+     "r": "in tābestān mi-khāhad bā dust-ash Leylā safar konad.",
+     "en": "This summer she wants to travel with her friend Leila.",
+     "faV": "این تابِستان می‌خواهَد با دوستَش لَیلا سَفَر کُنَد.",
+     "a": "b2252c6e5a88"
+    },
+    {
+     "fa": "اول به اصفهان می‌روند و میدان نقش جهان را می‌بینند.",
+     "r": "avval be Esfahān mi-ravand va meydān-e Naghsh-e Jahān rā mi-binand.",
+     "en": "First they are going to Isfahan, where they will see Naqsh-e Jahan Square.",
+     "faV": "اَوَّل به اِصفَهان می‌رَوَند و مَیدانِ نَقشِ جَهان را می‌بینَند.",
+     "a": "9e53a6e9e116"
+    },
+    {
+     "fa": "بعد سه روز در شیراز می‌مانند.",
+     "r": "ba'd se ruz dar Shirāz mi-mānand.",
+     "en": "Then they are staying in Shiraz for three days.",
+     "faV": "بَعد سه روز دَر شیراز می‌مانَند.",
+     "a": "07ea33b0aaba"
+    },
+    {
+     "fa": "لیلا دوست دارد آرامگاه حافظ را ببیند.",
+     "r": "Leylā dust dārad ārāmgāh-e Hāfez rā bebinad.",
+     "en": "Leila would like to see the tomb of Hafez.",
+     "faV": "لَیلا دوست دارَد آرامگاهِ حافِظ را بِبینَد.",
+     "a": "d67aed79fef6"
+    },
+    {
+     "fa": "سارا می‌خواهد برای مادرش یک ترمه بخرد.",
+     "r": "Sārā mi-khāhad barā-ye mādar-ash yek terme bekharad.",
+     "en": "Sara wants to buy a termeh for her mother.",
+     "faV": "سارا می‌خواهَد بَرایِ مادَرَش یِک تِرمه بِخَرَد.",
+     "a": "72e79c61daa9"
+    },
+    {
+     "fa": "آرزوی بزرگ او؟ دیدن سمرقند!",
+     "r": "ārezu-ye bozorg-e u? didan-e Samarghand!",
+     "en": "Her big dream? To see Samarkand!",
+     "faV": "آرِزویِ بُزُرگِ او؟ دیدَنِ سَمَرقَند!",
+     "a": "dd00b58209b3"
+    }
    ],
    "questions": [
-    {"q": "Who is Sara travelling with?", "options": ["her mother", "Leila", "Tom"], "answer": 1},
-    {"q": "How long are they staying in Shiraz?", "options": ["one day", "three days", "two weeks"], "answer": 1},
-    {"q": "What does Sara want to buy?", "options": ["a termeh for her mother", "a book about Hafez", "a carpet"], "answer": 0}
+    {
+     "q": "Who is Sara travelling with?",
+     "options": [
+      "her mother",
+      "Leila",
+      "Tom"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How long are they staying in Shiraz?",
+     "options": [
+      "one day",
+      "three days",
+      "two weeks"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What does Sara want to buy?",
+     "options": [
+      "a termeh for her mother",
+      "a book about Hafez",
+      "a carpet"
+     ],
+     "answer": 0
+    }
    ]
   },
   {
@@ -171,14 +743,62 @@
    "kind": "match",
    "title": "Match the words",
    "items": [
-    {"fa": "آخر هفته", "r": "ākhar-e hafte", "en": "the weekend"},
-    {"fa": "فردا", "r": "fardā", "en": "tomorrow"},
-    {"fa": "امشب", "r": "emshab", "en": "tonight"},
-    {"fa": "پس‌فردا", "r": "pas-fardā", "en": "the day after tomorrow"},
-    {"fa": "هفته‌ی بعد", "r": "hafte-ye ba'd", "en": "next week"},
-    {"fa": "سفر", "r": "safar", "en": "trip"},
-    {"fa": "برنامه", "r": "barnāme", "en": "plan"},
-    {"fa": "آرزو", "r": "ārezu", "en": "wish"}
+    {
+     "fa": "آخر هفته",
+     "r": "ākhar-e hafte",
+     "en": "the weekend",
+     "faV": "آخَرِ هَفته",
+     "a": "23a6cb6c81bc"
+    },
+    {
+     "fa": "فردا",
+     "r": "fardā",
+     "en": "tomorrow",
+     "faV": "فَردا",
+     "a": "382bba2ce3b8"
+    },
+    {
+     "fa": "امشب",
+     "r": "emshab",
+     "en": "tonight",
+     "faV": "اِمشَب",
+     "a": "8d113715adcb"
+    },
+    {
+     "fa": "پس‌فردا",
+     "r": "pas-fardā",
+     "en": "the day after tomorrow",
+     "faV": "پَس‌فَردا",
+     "a": "4dbafb3d83e7"
+    },
+    {
+     "fa": "هفته‌ی بعد",
+     "r": "hafte-ye ba'd",
+     "en": "next week",
+     "faV": "هَفته‌یِ بَعد",
+     "a": "29e63c4f308c"
+    },
+    {
+     "fa": "سفر",
+     "r": "safar",
+     "en": "trip",
+     "faV": "سَفَر",
+     "a": "30c5fae3f3fc"
+    },
+    {
+     "fa": "برنامه",
+     "r": "barnāme",
+     "en": "plan",
+     "faV": "بَرنامه",
+     "a": "5aa6076f9df1"
+    },
+    {
+     "fa": "آرزو",
+     "r": "ārezu",
+     "en": "wish",
+     "faV": "آرِزو",
+     "a": "d81e40b4b47f"
+    }
    ]
   },
   {
@@ -186,12 +806,66 @@
    "kind": "mcq",
    "title": "Choose the right answer",
    "items": [
-    {"q": "'I want to go' is…", "options": ["می‌خواهم می‌روم", "می‌خواهم بروم", "می‌خواهم رفتن"], "answer": 1, "explain": "After mi-khāham the second verb is in the subjunctive: beravam."},
-    {"q": "What is the subjunctive of [[می‌آیم|mi-āyam]]?", "options": ["بیایم", "بآیم", "می‌بیایم"], "answer": 0, "explain": "Before ā, be- becomes bi-: biyāyam (spoken biyām)."},
-    {"q": "[[فردا به شمال می‌رویم.|fardā be shomāl mi-ravim.]] means…", "options": ["We went north yesterday.", "We're going north tomorrow.", "We go north every day."], "answer": 1, "explain": "The present tense with fardā talks about the future."},
-    {"q": "How do you say 'Let's go!'?", "options": ["برویم!", "می‌رویم!", "بروید!"], "answer": 0, "explain": "The 'we' subjunctive on its own means 'let's': beravim! (spoken berim!)."},
-    {"q": "'I don't want to go' is…", "options": ["می‌خواهم نروم", "نمی‌خواهم بروم", "نمی‌خواهم نمی‌روم"], "answer": 1, "explain": "Make 'want' negative and keep the subjunctive: nemi-khāham beravam. (mi-khāham na-ravam means 'I want not to go'.)"},
-    {"q": "For a Tehrani, [[شمال|shomāl]] usually means…", "options": ["the Caspian coast", "the Persian Gulf", "the desert"], "answer": 0, "explain": "shomāl, 'the north', is the green Caspian coast beyond the Alborz."}
+    {
+     "q": "'I want to go' is…",
+     "options": [
+      "می‌خواهم می‌روم",
+      "می‌خواهم بروم",
+      "می‌خواهم رفتن"
+     ],
+     "answer": 1,
+     "explain": "After mi-khāham the second verb is in the subjunctive: beravam."
+    },
+    {
+     "q": "What is the subjunctive of [[می‌آیم|mi-āyam]]?",
+     "options": [
+      "بیایم",
+      "بآیم",
+      "می‌بیایم"
+     ],
+     "answer": 0,
+     "explain": "Before ā, be- becomes bi-: biyāyam (spoken biyām)."
+    },
+    {
+     "q": "[[فردا به شمال می‌رویم.|fardā be shomāl mi-ravim.]] means…",
+     "options": [
+      "We went north yesterday.",
+      "We're going north tomorrow.",
+      "We go north every day."
+     ],
+     "answer": 1,
+     "explain": "The present tense with fardā talks about the future."
+    },
+    {
+     "q": "How do you say 'Let's go!'?",
+     "options": [
+      "برویم!",
+      "می‌رویم!",
+      "بروید!"
+     ],
+     "answer": 0,
+     "explain": "The 'we' subjunctive on its own means 'let's': beravim! (spoken berim!)."
+    },
+    {
+     "q": "'I don't want to go' is…",
+     "options": [
+      "می‌خواهم نروم",
+      "نمی‌خواهم بروم",
+      "نمی‌خواهم نمی‌روم"
+     ],
+     "answer": 1,
+     "explain": "Make 'want' negative and keep the subjunctive: nemi-khāham beravam. (mi-khāham na-ravam means 'I want not to go'.)"
+    },
+    {
+     "q": "For a Tehrani, [[شمال|shomāl]] usually means…",
+     "options": [
+      "the Caspian coast",
+      "the Persian Gulf",
+      "the desert"
+     ],
+     "answer": 0,
+     "explain": "shomāl, 'the north', is the green Caspian coast beyond the Alborz."
+    }
    ]
   },
   {
@@ -199,11 +873,41 @@
    "kind": "fill",
    "title": "Complete the sentences",
    "items": [
-    {"fa": "می‌خواهم به دربند ___.", "r": "mi-khāham be Darband ___.", "en": "I want to go to Darband.", "answer": "بروم", "hint": "subjunctive of raftan, 'I'"},
-    {"fa": "تو هم می‌خواهی ___؟", "r": "to ham mi-khāhi ___?", "en": "Do you want to come too?", "answer": "بیایی", "hint": "subjunctive of āmadan, 'you'"},
-    {"fa": "ما می‌خواهیم دریا را ___.", "r": "mā mi-khāhim daryā rā ___.", "en": "We want to see the sea.", "answer": "ببینیم", "hint": "subjunctive of didan, 'we'"},
-    {"fa": "___ به سینما می‌روم.", "r": "___ be sinamā mi-ravam.", "en": "I'm going to the cinema tonight.", "answer": "امشب", "hint": "tonight"},
-    {"fa": "سارا می‌خواهد یک ترمه ___.", "r": "Sārā mi-khāhad yek terme ___.", "en": "Sara wants to buy a termeh.", "answer": "بخرد", "hint": "subjunctive of kharidan, 'she'"}
+    {
+     "fa": "می‌خواهم به دربند ___.",
+     "r": "mi-khāham be Darband ___.",
+     "en": "I want to go to Darband.",
+     "answer": "بروم",
+     "hint": "subjunctive of raftan, 'I'"
+    },
+    {
+     "fa": "تو هم می‌خواهی ___؟",
+     "r": "to ham mi-khāhi ___?",
+     "en": "Do you want to come too?",
+     "answer": "بیایی",
+     "hint": "subjunctive of āmadan, 'you'"
+    },
+    {
+     "fa": "ما می‌خواهیم دریا را ___.",
+     "r": "mā mi-khāhim daryā rā ___.",
+     "en": "We want to see the sea.",
+     "answer": "ببینیم",
+     "hint": "subjunctive of didan, 'we'"
+    },
+    {
+     "fa": "___ به سینما می‌روم.",
+     "r": "___ be sinamā mi-ravam.",
+     "en": "I'm going to the cinema tonight.",
+     "answer": "امشب",
+     "hint": "tonight"
+    },
+    {
+     "fa": "سارا می‌خواهد یک ترمه ___.",
+     "r": "Sārā mi-khāhad yek terme ___.",
+     "en": "Sara wants to buy a termeh.",
+     "answer": "بخرد",
+     "hint": "subjunctive of kharidan, 'she'"
+    }
    ]
   },
   {
@@ -211,10 +915,34 @@
    "kind": "order",
    "title": "Put the words in order",
    "items": [
-    {"fa": "ما جمعه به توچال می‌رویم.", "r": "mā jom'e be Tochāl mi-ravim.", "en": "We're going to Tochal on Friday."},
-    {"fa": "می‌خواهم دریای خزر را ببینم.", "r": "mi-khāham daryā-ye Khazar rā bebinam.", "en": "I want to see the Caspian Sea."},
-    {"fa": "دوست داری با ما بیایی؟", "r": "dust dāri bā mā biyāyi?", "en": "Would you like to come with us?"},
-    {"fa": "هفته‌ی بعد به شمال می‌رویم.", "r": "hafte-ye ba'd be shomāl mi-ravim.", "en": "Next week we're going north."}
+    {
+     "fa": "ما جمعه به توچال می‌رویم.",
+     "r": "mā jom'e be Tochāl mi-ravim.",
+     "en": "We're going to Tochal on Friday.",
+     "faV": "ما جُمعه به توچال می‌رَویم.",
+     "a": "c33e7125157a"
+    },
+    {
+     "fa": "می‌خواهم دریای خزر را ببینم.",
+     "r": "mi-khāham daryā-ye Khazar rā bebinam.",
+     "en": "I want to see the Caspian Sea.",
+     "faV": "می‌خواهَم دَریایِ خَزَر را بِبینَم.",
+     "a": "99e926e784e7"
+    },
+    {
+     "fa": "دوست داری با ما بیایی؟",
+     "r": "dust dāri bā mā biyāyi?",
+     "en": "Would you like to come with us?",
+     "faV": "دوست داری با ما بیایی؟",
+     "a": "5b9f7b5f1e62"
+    },
+    {
+     "fa": "هفته‌ی بعد به شمال می‌رویم.",
+     "r": "hafte-ye ba'd be shomāl mi-ravim.",
+     "en": "Next week we're going north.",
+     "faV": "هَفته‌یِ بَعد به شُمال می‌رَویم.",
+     "a": "1a589a2aa6cc"
+    }
    ]
   },
   {
@@ -222,9 +950,45 @@
    "kind": "listen",
    "title": "Listen and choose",
    "items": [
-    {"fa": "می‌خواهم استراحت کنم.", "r": "mi-khāham esterāhat konam.", "en": "I want to rest.", "options": ["I want to rest.", "I'm resting.", "I don't want to rest."], "answer": 0},
-    {"fa": "پس‌فردا برمی‌گردیم.", "r": "pas-fardā bar-mi-gardim.", "en": "We're coming back the day after tomorrow.", "options": ["We're coming back tomorrow.", "We're coming back the day after tomorrow.", "We're leaving the day after tomorrow."], "answer": 1},
-    {"fa": "شاید امشب در خانه بمانم.", "r": "shāyad emshab dar khāne bemānam.", "en": "Maybe I'll stay at home tonight.", "options": ["Maybe I'll stay at home tonight.", "I'm going out tonight.", "Maybe I'll go home tomorrow."], "answer": 0}
+    {
+     "fa": "می‌خواهم استراحت کنم.",
+     "r": "mi-khāham esterāhat konam.",
+     "en": "I want to rest.",
+     "options": [
+      "I want to rest.",
+      "I'm resting.",
+      "I don't want to rest."
+     ],
+     "answer": 0,
+     "faV": "می‌خواهَم اِستِراحَت کُنَم.",
+     "a": "a184fbf9a091"
+    },
+    {
+     "fa": "پس‌فردا برمی‌گردیم.",
+     "r": "pas-fardā bar-mi-gardim.",
+     "en": "We're coming back the day after tomorrow.",
+     "options": [
+      "We're coming back tomorrow.",
+      "We're coming back the day after tomorrow.",
+      "We're leaving the day after tomorrow."
+     ],
+     "answer": 1,
+     "faV": "پَس‌فَردا بَرمی‌گَردیم.",
+     "a": "769b264a2de2"
+    },
+    {
+     "fa": "شاید امشب در خانه بمانم.",
+     "r": "shāyad emshab dar khāne bemānam.",
+     "en": "Maybe I'll stay at home tonight.",
+     "options": [
+      "Maybe I'll stay at home tonight.",
+      "I'm going out tonight.",
+      "Maybe I'll go home tomorrow."
+     ],
+     "answer": 0,
+     "faV": "شایَد اِمشَب دَر خانه بِمانَم.",
+     "a": "c899b12ea47a"
+    }
    ]
   },
   {
@@ -232,12 +996,44 @@
    "kind": "translate",
    "title": "Say it in Persian",
    "items": [
-    {"en": "What are you doing at the weekend? (to a friend)", "fa": "آخر هفته چه کار می‌کنی؟", "r": "ākhar-e hafte che kār mi-koni?"},
-    {"en": "I want to go to Darband.", "fa": "می‌خواهم به دربند بروم.", "r": "mi-khāham be Darband beravam."},
-    {"en": "Would you like to come? (to a friend)", "fa": "دوست داری بیایی؟", "r": "dust dāri biyāyi?"},
-    {"en": "Let's go to the cinema!", "fa": "به سینما برویم!", "r": "be sinamā beravim!"},
-    {"en": "Tomorrow we're going north.", "fa": "فردا به شمال می‌رویم.", "r": "fardā be shomāl mi-ravim."}
+    {
+     "en": "What are you doing at the weekend? (to a friend)",
+     "fa": "آخر هفته چه کار می‌کنی؟",
+     "r": "ākhar-e hafte che kār mi-koni?",
+     "faV": "آخَرِ هَفته چه کار می‌کُنی؟",
+     "a": "cc7af39d392a"
+    },
+    {
+     "en": "I want to go to Darband.",
+     "fa": "می‌خواهم به دربند بروم.",
+     "r": "mi-khāham be Darband beravam.",
+     "faV": "می‌خواهَم به دَربَند بِرَوَم.",
+     "a": "f648876462c6"
+    },
+    {
+     "en": "Would you like to come? (to a friend)",
+     "fa": "دوست داری بیایی؟",
+     "r": "dust dāri biyāyi?",
+     "faV": "دوست داری بیایی؟",
+     "a": "e8eb85bd2d24"
+    },
+    {
+     "en": "Let's go to the cinema!",
+     "fa": "به سینما برویم!",
+     "r": "be sinamā beravim!",
+     "faV": "به سینَما بِرَویم!",
+     "a": "10382dd7b7cb"
+    },
+    {
+     "en": "Tomorrow we're going north.",
+     "fa": "فردا به شمال می‌رویم.",
+     "r": "fardā be shomāl mi-ravim.",
+     "faV": "فَردا به شُمال می‌رَویم.",
+     "a": "e843541a817f"
+    }
    ]
   }
- ]
+ ],
+ "titleV": "بَرنامه‌ها و آرِزوها",
+ "titleA": "072a892daece"
 }

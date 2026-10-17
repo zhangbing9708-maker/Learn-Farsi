@@ -32,37 +32,212 @@
   }
  ],
  "sentences": [
-  {"fa": "تخت جمشید در نزدیکی شیراز است.", "r": "Takht-e Jamshid dar nazdiki-ye Shirāz ast.", "en": "Persepolis is near Shiraz."},
-  {"fa": "ساختن تخت جمشید در زمان داریوش بزرگ شروع شد.", "r": "sākhtan-e Takht-e Jamshid dar zamān-e Dāriush-e Bozorg shoru' shod.", "en": "The building of Persepolis began in the time of Darius the Great."},
-  {"fa": "یونانیان این شهر را پرسپولیس می‌نامیدند.", "r": "yunāniyān in shahr rā Persepolis mi-nāmidand.", "en": "The Greeks called this city Persepolis."},
-  {"fa": "نام ایرانی آن «پارسه» بود.", "r": "nām-e irāni-ye ān «Pārse» bud.", "en": "Its Iranian name was Parsa."},
-  {"fa": "کاخ آپادانا هفتاد و دو ستون داشت.", "r": "kākh-e Āpādānā haftād o do sotun dāsht.", "en": "The Apadana palace had seventy-two columns."},
-  {"fa": "روی پلکان آپادانا نمایندگان بیست و سه ملت دیده می‌شوند.", "r": "ru-ye pellekān-e Āpādānā namāyandegān-e bist o se mellat dide mi-shavand.", "en": "On the Apadana staircase you can see the delegates of twenty-three nations.", "lit": "on the staircase of the Apadana, representatives of twenty-three nations are seen"},
-  {"fa": "آن‌ها برای شاه هدیه می‌آورند.", "r": "ān-hā barā-ye shāh hedye mi-āvarand.", "en": "They are bringing gifts for the king."},
-  {"fa": "کارگران تخت جمشید از سرزمین‌های مختلف می‌آمدند.", "r": "kārgarān-e Takht-e Jamshid az sarzamin-hā-ye mokhtalef mi-āmadand.", "en": "The workers of Persepolis came from many different lands."},
-  {"fa": "روی لوح‌های گلی، مزد کارگران نوشته شده است.", "r": "ru-ye lowh-hā-ye geli, mozd-e kārgarān neveshte shode ast.", "en": "The workers' wages are written on clay tablets."},
-  {"fa": "اسکندر در سال ۳۳۰ پیش از میلاد تخت جمشید را آتش زد.", "r": "Eskandar dar sāl-e sisad-o-si pish az milād Takht-e Jamshid rā ātash zad.", "en": "Alexander set fire to Persepolis in 330 BC."},
-  {"fa": "آرامگاه داریوش در نقش رستم در دل کوه کنده شده است.", "r": "ārāmgāh-e Dāriush dar Naghsh-e Rostam dar del-e kuh kande shode ast.", "en": "Darius's tomb at Naqsh-e Rostam is cut into the heart of the mountain."},
-  {"fa": "هر سال هزاران گردشگر از تخت جمشید دیدن می‌کنند.", "r": "har sāl hezārān gardeshgar az Takht-e Jamshid didan mi-konand.", "en": "Every year thousands of tourists visit Persepolis."}
+  {
+   "fa": "تخت جمشید در نزدیکی شیراز است.",
+   "r": "Takht-e Jamshid dar nazdiki-ye Shirāz ast.",
+   "en": "Persepolis is near Shiraz.",
+   "faV": "تَختِ جَمشید دَر نَزدیکیِ شیراز اَست.",
+   "a": "b3612899c293"
+  },
+  {
+   "fa": "ساختن تخت جمشید در زمان داریوش بزرگ شروع شد.",
+   "r": "sākhtan-e Takht-e Jamshid dar zamān-e Dāriush-e Bozorg shoru' shod.",
+   "en": "The building of Persepolis began in the time of Darius the Great.",
+   "faV": "ساختَنِ تَختِ جَمشید دَر زَمانِ داریوشِ بُزُرگ شُروع شُد.",
+   "a": "4ee3e0365819"
+  },
+  {
+   "fa": "یونانیان این شهر را پرسپولیس می‌نامیدند.",
+   "r": "yunāniyān in shahr rā Persepolis mi-nāmidand.",
+   "en": "The Greeks called this city Persepolis.",
+   "faV": "یونانیان این شَهر را پِرسِپولیس می‌نامیدَند.",
+   "a": "21577943f0fd"
+  },
+  {
+   "fa": "نام ایرانی آن «پارسه» بود.",
+   "r": "nām-e irāni-ye ān «Pārse» bud.",
+   "en": "Its Iranian name was Parsa.",
+   "faV": "نامِ ایرانیِ آن «پارسه» بود.",
+   "a": "59ccf007a549"
+  },
+  {
+   "fa": "کاخ آپادانا هفتاد و دو ستون داشت.",
+   "r": "kākh-e Āpādānā haftād o do sotun dāsht.",
+   "en": "The Apadana palace had seventy-two columns.",
+   "faV": "کاخِ آپادانا هَفتاد و دو سُتون داشت.",
+   "a": "ae903345bf4d"
+  },
+  {
+   "fa": "روی پلکان آپادانا نمایندگان بیست و سه ملت دیده می‌شوند.",
+   "r": "ru-ye pellekān-e Āpādānā namāyandegān-e bist o se mellat dide mi-shavand.",
+   "en": "On the Apadana staircase you can see the delegates of twenty-three nations.",
+   "lit": "on the staircase of the Apadana, representatives of twenty-three nations are seen",
+   "faV": "رویِ پِلِّکانِ آپادانا نَمایَندِگانِ بیست و سه مِلَّت دیده می‌شَوَند.",
+   "a": "62bf722113cd"
+  },
+  {
+   "fa": "آن‌ها برای شاه هدیه می‌آورند.",
+   "r": "ān-hā barā-ye shāh hedye mi-āvarand.",
+   "en": "They are bringing gifts for the king.",
+   "faV": "آن‌ها بَرایِ شاه هِدیه می‌آوَرَند.",
+   "a": "d3462982a635"
+  },
+  {
+   "fa": "کارگران تخت جمشید از سرزمین‌های مختلف می‌آمدند.",
+   "r": "kārgarān-e Takht-e Jamshid az sarzamin-hā-ye mokhtalef mi-āmadand.",
+   "en": "The workers of Persepolis came from many different lands.",
+   "faV": "کارگَرانِ تَختِ جَمشید اَز سَرزَمین‌هایِ مُختَلِف می‌آمَدَند.",
+   "a": "c035990b4b84"
+  },
+  {
+   "fa": "روی لوح‌های گلی، مزد کارگران نوشته شده است.",
+   "r": "ru-ye lowh-hā-ye geli, mozd-e kārgarān neveshte shode ast.",
+   "en": "The workers' wages are written on clay tablets.",
+   "faV": "رویِ لَوح‌هایِ گِلی، مُزدِ کارگَران نِوِشته شُده اَست.",
+   "a": "41a919af63ea"
+  },
+  {
+   "fa": "اسکندر در سال ۳۳۰ پیش از میلاد تخت جمشید را آتش زد.",
+   "r": "Eskandar dar sāl-e sisad-o-si pish az milād Takht-e Jamshid rā ātash zad.",
+   "en": "Alexander set fire to Persepolis in 330 BC.",
+   "faV": "اِسکَندَر دَر سالِ ۳۳۰ پیش اَز میلاد تَختِ جَمشید را آتَش زَد.",
+   "a": "284ae17322ab"
+  },
+  {
+   "fa": "آرامگاه داریوش در نقش رستم در دل کوه کنده شده است.",
+   "r": "ārāmgāh-e Dāriush dar Naghsh-e Rostam dar del-e kuh kande shode ast.",
+   "en": "Darius's tomb at Naqsh-e Rostam is cut into the heart of the mountain.",
+   "faV": "آرامگاهِ داریوش دَر نَقشِ رُستَم دَر دِلِ کوه کَنده شُده اَست.",
+   "a": "e5ef0f47e017"
+  },
+  {
+   "fa": "هر سال هزاران گردشگر از تخت جمشید دیدن می‌کنند.",
+   "r": "har sāl hezārān gardeshgar az Takht-e Jamshid didan mi-konand.",
+   "en": "Every year thousands of tourists visit Persepolis.",
+   "faV": "هَر سال هِزاران گَردِشگَر اَز تَختِ جَمشید دیدَن می‌کُنَند.",
+   "a": "8386a624c089"
+  }
  ],
  "vocab": [
-  {"fa": "تخت", "r": "takht", "en": "throne; bed"},
-  {"fa": "کاخ", "r": "kākh", "en": "palace"},
-  {"fa": "ستون", "r": "sotun", "en": "column"},
-  {"fa": "پلکان", "r": "pellekān", "en": "staircase, flight of steps"},
-  {"fa": "دروازه", "r": "darvāze", "en": "gate"},
-  {"fa": "نقش برجسته", "r": "naghsh-e barjaste", "en": "relief (carving)"},
-  {"fa": "هدیه", "r": "hedye", "en": "gift"},
-  {"fa": "ملت", "r": "mellat", "en": "nation, people"},
-  {"fa": "نماینده", "r": "namāyande", "en": "representative, delegate"},
-  {"fa": "کارگر", "r": "kārgar", "en": "worker"},
-  {"fa": "مزد", "r": "mozd", "en": "wage, pay"},
-  {"fa": "لوح", "r": "lowh", "en": "tablet"},
-  {"fa": "ویرانه", "r": "virāne", "en": "ruin(s)"},
-  {"fa": "آتش زدن", "r": "ātash zadan", "en": "to set fire to"},
-  {"fa": "گردشگر", "r": "gardeshgar", "en": "tourist"},
-  {"fa": "دیدن کردن از", "r": "didan kardan az", "en": "to visit (a place)"},
-  {"fa": "میراث جهانی", "r": "mirās-e jahāni", "en": "world heritage"}
+  {
+   "fa": "تخت",
+   "r": "takht",
+   "en": "throne; bed",
+   "faV": "تَخت",
+   "a": "512dffb7486a"
+  },
+  {
+   "fa": "کاخ",
+   "r": "kākh",
+   "en": "palace",
+   "faV": "کاخ",
+   "a": "882ce17e5b40"
+  },
+  {
+   "fa": "ستون",
+   "r": "sotun",
+   "en": "column",
+   "faV": "سُتون",
+   "a": "999ad9376803"
+  },
+  {
+   "fa": "پلکان",
+   "r": "pellekān",
+   "en": "staircase, flight of steps",
+   "faV": "پِلِّکان",
+   "a": "73e267dcd7d2"
+  },
+  {
+   "fa": "دروازه",
+   "r": "darvāze",
+   "en": "gate",
+   "faV": "دَروازه",
+   "a": "f1c67d1d9cc4"
+  },
+  {
+   "fa": "نقش برجسته",
+   "r": "naghsh-e barjaste",
+   "en": "relief (carving)",
+   "faV": "نَقشِ بَرجَسته",
+   "a": "1b07ecb19ad4"
+  },
+  {
+   "fa": "هدیه",
+   "r": "hedye",
+   "en": "gift",
+   "faV": "هِدیه",
+   "a": "13d81bc393f7"
+  },
+  {
+   "fa": "ملت",
+   "r": "mellat",
+   "en": "nation, people",
+   "faV": "مِلَّت",
+   "a": "693f6ebc05f4"
+  },
+  {
+   "fa": "نماینده",
+   "r": "namāyande",
+   "en": "representative, delegate",
+   "faV": "نَمایَنده",
+   "a": "0b5164784908"
+  },
+  {
+   "fa": "کارگر",
+   "r": "kārgar",
+   "en": "worker",
+   "faV": "کارگَر",
+   "a": "4b3f6bd88e4c"
+  },
+  {
+   "fa": "مزد",
+   "r": "mozd",
+   "en": "wage, pay",
+   "faV": "مُزد",
+   "a": "a6b3256efe15"
+  },
+  {
+   "fa": "لوح",
+   "r": "lowh",
+   "en": "tablet",
+   "faV": "لَوح",
+   "a": "76da9dda7746"
+  },
+  {
+   "fa": "ویرانه",
+   "r": "virāne",
+   "en": "ruin(s)",
+   "faV": "ویرانه",
+   "a": "b2c8ca2aaa01"
+  },
+  {
+   "fa": "آتش زدن",
+   "r": "ātash zadan",
+   "en": "to set fire to",
+   "faV": "آتَش زَدَن",
+   "a": "ab3bf6327e4c"
+  },
+  {
+   "fa": "گردشگر",
+   "r": "gardeshgar",
+   "en": "tourist",
+   "faV": "گَردِشگَر",
+   "a": "ad02f3bdb32e"
+  },
+  {
+   "fa": "دیدن کردن از",
+   "r": "didan kardan az",
+   "en": "to visit (a place)",
+   "faV": "دیدَن کَردَن اَز",
+   "a": "56eb4cee1cf1"
+  },
+  {
+   "fa": "میراث جهانی",
+   "r": "mirās-e jahāni",
+   "en": "world heritage",
+   "faV": "میراثِ جَهانی",
+   "a": "fed64225b560"
+  }
  ],
  "facts": [
   "Building began around 518 BC under Darius I, and the city was still unfinished when Alexander arrived in 330 BC.",
@@ -72,5 +247,7 @@
   "The four rock tombs at Naqsh-e Rostam are thought to belong to Darius I, Xerxes, Artaxerxes I and Darius II.",
   "In October 1971 Mohammad Reza Shah held the celebration of 2,500 years of the Persian monarchy at Persepolis.",
   "Among the travellers' graffiti on the Gate of All Nations is 'Stanley, New York Herald, 1870'."
- ]
+ ],
+ "titleV": "تَختِ جَمشید",
+ "titleA": "c81fdba1a099"
 }

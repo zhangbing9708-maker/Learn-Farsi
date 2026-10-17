@@ -6,7 +6,13 @@
  "titleFa": "خرید و پول",
  "titleR": "kharid o pul",
  "intro": "Iran is a wonderful place to shop – from the great covered bazaars to the fruit stalls on every corner – but the money takes some getting used to. In this lesson you ask prices with chand and cheghadr, learn the difference between rials and tomans (and why nobody says all the zeros), say that something is expensive or cheap, compare with -tar, and ask for a discount like a local.",
- "goals": ["ask the price with chand and cheghadr", "understand prices in tomans and rials", "say gerān 'expensive' and arzān 'cheap', and compare with -tar", "bargain and ask for a discount (takhfif)", "use mi-shavad: 'how much does it come to?', 'is it possible?'"],
+ "goals": [
+  "ask the price with chand and cheghadr",
+  "understand prices in tomans and rials",
+  "say gerān 'expensive' and arzān 'cheap', and compare with -tar",
+  "bargain and ask for a discount (takhfif)",
+  "use mi-shavad: 'how much does it come to?', 'is it possible?'"
+ ],
  "image": "tajrish-bazaar",
  "sections": [
   {
@@ -14,20 +20,150 @@
    "title": "Bargaining at Tajrish Bazaar",
    "context": "Sara takes Tom to Tajrish Bazaar in the north of Tehran. Tom wants to buy a termeh – a woven cloth from Yazd – for his mother in Australia.",
    "lines": [
-    {"who": "Tom", "fa": "ببخشید، آقا، این ترمه چند است؟", "r": "bebakhshid, āghā, in terme chand ast?", "en": "Excuse me, sir, how much is this termeh?", "col": "ببخشید، آقا، این ترمه چنده؟", "colR": "bebakhshid, āghā, in terme chande?"},
-    {"who": "Seller", "fa": "این ترمه‌ی یزد است، کار دست. دو میلیون و پانصد هزار تومان.", "r": "in terme-ye Yazd ast, kār-e dast. do milyun o pānsad hezār tumān.", "en": "This is a termeh from Yazd, handmade. Two million five hundred thousand tomans."},
-    {"who": "Tom", "fa": "دو میلیون و پانصد؟ خیلی گران است!", "r": "do milyun o pānsad? kheyli gerān ast!", "en": "Two and a half million? That's very expensive!", "col": "دو میلیون و پونصد؟ خیلی گرونه!", "colR": "do milyun o punsad? kheyli gerune!"},
-    {"who": "Seller", "fa": "گران نیست، آقا. جنسش خیلی خوب است.", "r": "gerān nist, āghā. jens-ash kheyli khub ast.", "en": "It's not expensive, sir. The quality is very good."},
-    {"who": "Sara", "fa": "آن یکی کوچک‌تر است. آن چقدر است؟", "r": "ān yeki kuchak-tar ast. ān cheghadr ast?", "en": "That one is smaller. How much is that one?", "col": "اون یکی کوچیک‌تره. اون چقدره؟", "colR": "un yeki kuchik-tare. un cheghadre?"},
-    {"who": "Seller", "fa": "آن یکی ارزان‌تر است، یک میلیون و هشتصد هزار تومان.", "r": "ān yeki arzān-tar ast, yek milyun o hashtsad hezār tumān.", "en": "That one is cheaper: one million eight hundred thousand tomans."},
-    {"who": "Tom", "fa": "تخفیف می‌دهید؟ یک میلیون و پانصد خوب است؟", "r": "takhfif mi-dahid? yek milyun o pānsad khub ast?", "en": "Will you give me a discount? Is one and a half million OK?", "col": "تخفیف می‌دین؟ یه میلیون و پونصد خوبه؟", "colR": "takhfif mi-din? ye milyun o punsad khube?"},
-    {"who": "Seller", "fa": "نه، آقا، نمی‌شود. آخرش یک میلیون و هفتصد.", "r": "na, āghā, nemi-shavad. ākhar-ash yek milyun o haftsad.", "en": "No, sir, I can't. My last price is one million seven hundred.", "col": "نه، آقا، نمی‌شه. آخرش یه میلیون و هفتصد.", "colR": "na, āghā, nemi-she. ākhar-esh ye milyun o haftsad."},
-    {"who": "Sara", "fa": "یک میلیون و ششصد، لطفاً. او مهمان است!", "r": "yek milyun o sheshsad, lotfan. u mehmān ast!", "en": "One million six hundred, please. He's a guest in our country!"},
-    {"who": "Seller", "fa": "باشد، به خاطر مهمان. یک میلیون و ششصد.", "r": "bāshad, be khāter-e mehmān. yek milyun o sheshsad.", "en": "All right, for the guest's sake. One million six hundred.", "col": "باشه، به خاطر مهمون. یه میلیون و ششصد.", "colR": "bāshe, be khāter-e mehmun. ye milyun o sheshsad."},
-    {"who": "Tom", "fa": "با کارت می‌شود؟", "r": "bā kārt mi-shavad?", "en": "Can I pay by card?", "col": "با کارت می‌شه؟", "colR": "bā kārt mi-she?"},
-    {"who": "Seller", "fa": "بله، حتماً. بفرمایید، این هم کیسه.", "r": "bale, hatman. befarmāyid, in ham kise.", "en": "Yes, of course. Here you are, and here's a bag."},
-    {"who": "Tom", "fa": "خیلی ممنون. خدا حافظ!", "r": "kheyli mamnun. khodā hāfez!", "en": "Thank you very much. Goodbye!"},
-    {"who": "Seller", "fa": "خدا حافظ. مبارک باشد!", "r": "khodā hāfez. mobārak bāshad!", "en": "Goodbye. Enjoy it!", "col": "خدافظ. مبارک باشه!", "colR": "khodāfez. mobārak bāshe!"}
+    {
+     "who": "Tom",
+     "fa": "ببخشید، آقا، این ترمه چند است؟",
+     "r": "bebakhshid, āghā, in terme chand ast?",
+     "en": "Excuse me, sir, how much is this termeh?",
+     "col": "ببخشید، آقا، این ترمه چنده؟",
+     "colR": "bebakhshid, āghā, in terme chande?",
+     "faV": "بِبَخشید، آقا، این تِرمه چَند اَست؟",
+     "a": "622776bce07d",
+     "colV": "بِبَخشید، آقا، این تِرمه چَنده؟",
+     "colA": "358be5ceedde"
+    },
+    {
+     "who": "Seller",
+     "fa": "این ترمه‌ی یزد است، کار دست. دو میلیون و پانصد هزار تومان.",
+     "r": "in terme-ye Yazd ast, kār-e dast. do milyun o pānsad hezār tumān.",
+     "en": "This is a termeh from Yazd, handmade. Two million five hundred thousand tomans.",
+     "faV": "این تِرمه‌یِ یَزد اَست، کارِ دَست. دو میلیون و پانصَد هِزار تومان.",
+     "a": "09b171511d5b"
+    },
+    {
+     "who": "Tom",
+     "fa": "دو میلیون و پانصد؟ خیلی گران است!",
+     "r": "do milyun o pānsad? kheyli gerān ast!",
+     "en": "Two and a half million? That's very expensive!",
+     "col": "دو میلیون و پونصد؟ خیلی گرونه!",
+     "colR": "do milyun o punsad? kheyli gerune!",
+     "faV": "دو میلیون و پانصَد؟ خَیلی گِران اَست!",
+     "a": "95f592c26757",
+     "colV": "دو میلیون و پونصَد؟ خَیلی گِرونه!",
+     "colA": "eec799886e45"
+    },
+    {
+     "who": "Seller",
+     "fa": "گران نیست، آقا. جنسش خیلی خوب است.",
+     "r": "gerān nist, āghā. jens-ash kheyli khub ast.",
+     "en": "It's not expensive, sir. The quality is very good.",
+     "faV": "گِران نیست، آقا. جِنسَش خَیلی خوب اَست.",
+     "a": "e8ab9e36cdaa"
+    },
+    {
+     "who": "Sara",
+     "fa": "آن یکی کوچک‌تر است. آن چقدر است؟",
+     "r": "ān yeki kuchak-tar ast. ān cheghadr ast?",
+     "en": "That one is smaller. How much is that one?",
+     "col": "اون یکی کوچیک‌تره. اون چقدره؟",
+     "colR": "un yeki kuchik-tare. un cheghadre?",
+     "faV": "آن یِکی کوچَک‌تَر اَست. آن چِقَدر اَست؟",
+     "a": "0b7ca35369b6",
+     "colV": "اون یِکی کوچیک‌تَره. اون چِقَدره؟",
+     "colA": "2aeed1d49ff7"
+    },
+    {
+     "who": "Seller",
+     "fa": "آن یکی ارزان‌تر است، یک میلیون و هشتصد هزار تومان.",
+     "r": "ān yeki arzān-tar ast, yek milyun o hashtsad hezār tumān.",
+     "en": "That one is cheaper: one million eight hundred thousand tomans.",
+     "faV": "آن یِکی اَرزان‌تَر اَست، یِک میلیون و هَشتصَد هِزار تومان.",
+     "a": "068dc3285032"
+    },
+    {
+     "who": "Tom",
+     "fa": "تخفیف می‌دهید؟ یک میلیون و پانصد خوب است؟",
+     "r": "takhfif mi-dahid? yek milyun o pānsad khub ast?",
+     "en": "Will you give me a discount? Is one and a half million OK?",
+     "col": "تخفیف می‌دین؟ یه میلیون و پونصد خوبه؟",
+     "colR": "takhfif mi-din? ye milyun o punsad khube?",
+     "faV": "تَخفیف می‌دَهید؟ یِک میلیون و پانصَد خوب اَست؟",
+     "a": "82ae220491d9",
+     "colV": "تَخفیف می‌دین؟ یه میلیون و پونصَد خوبه؟",
+     "colA": "57a9372e127a"
+    },
+    {
+     "who": "Seller",
+     "fa": "نه، آقا، نمی‌شود. آخرش یک میلیون و هفتصد.",
+     "r": "na, āghā, nemi-shavad. ākhar-ash yek milyun o haftsad.",
+     "en": "No, sir, I can't. My last price is one million seven hundred.",
+     "col": "نه، آقا، نمی‌شه. آخرش یه میلیون و هفتصد.",
+     "colR": "na, āghā, nemi-she. ākhar-esh ye milyun o haftsad.",
+     "faV": "نه، آقا، نِمی‌شَوَد. آخَرَش یِک میلیون و هَفتصَد.",
+     "a": "6f11490b8d54",
+     "colV": "نه، آقا، نِمی‌شه. آخَرِش یه میلیون و هَفتصَد.",
+     "colA": "534e7b4f2d74"
+    },
+    {
+     "who": "Sara",
+     "fa": "یک میلیون و ششصد، لطفاً. او مهمان است!",
+     "r": "yek milyun o sheshsad, lotfan. u mehmān ast!",
+     "en": "One million six hundred, please. He's a guest in our country!",
+     "faV": "یِک میلیون و شِشصَد، لُطفاً. او مِهمان اَست!",
+     "a": "a078d33beef5"
+    },
+    {
+     "who": "Seller",
+     "fa": "باشد، به خاطر مهمان. یک میلیون و ششصد.",
+     "r": "bāshad, be khāter-e mehmān. yek milyun o sheshsad.",
+     "en": "All right, for the guest's sake. One million six hundred.",
+     "col": "باشه، به خاطر مهمون. یه میلیون و ششصد.",
+     "colR": "bāshe, be khāter-e mehmun. ye milyun o sheshsad.",
+     "faV": "باشَد، به خاطِرِ مِهمان. یِک میلیون و شِشصَد.",
+     "a": "2dfe9d52398f",
+     "colV": "باشه، به خاطِرِ مِهمون. یه میلیون و شِشصَد.",
+     "colA": "0108a354c343"
+    },
+    {
+     "who": "Tom",
+     "fa": "با کارت می‌شود؟",
+     "r": "bā kārt mi-shavad?",
+     "en": "Can I pay by card?",
+     "col": "با کارت می‌شه؟",
+     "colR": "bā kārt mi-she?",
+     "faV": "با کارت می‌شَوَد؟",
+     "a": "df7dcb2fad85",
+     "colV": "با کارت می‌شه؟",
+     "colA": "a8cc0638c767"
+    },
+    {
+     "who": "Seller",
+     "fa": "بله، حتماً. بفرمایید، این هم کیسه.",
+     "r": "bale, hatman. befarmāyid, in ham kise.",
+     "en": "Yes, of course. Here you are, and here's a bag.",
+     "faV": "بَله، حَتماً. بِفَرمایید، این هَم کیسه.",
+     "a": "f732a1ff4a6e"
+    },
+    {
+     "who": "Tom",
+     "fa": "خیلی ممنون. خدا حافظ!",
+     "r": "kheyli mamnun. khodā hāfez!",
+     "en": "Thank you very much. Goodbye!",
+     "faV": "خَیلی مَمنون. خُدا حافِظ!",
+     "a": "ca17408eac0b"
+    },
+    {
+     "who": "Seller",
+     "fa": "خدا حافظ. مبارک باشد!",
+     "r": "khodā hāfez. mobārak bāshad!",
+     "en": "Goodbye. Enjoy it!",
+     "col": "خدافظ. مبارک باشه!",
+     "colR": "khodāfez. mobārak bāshe!",
+     "faV": "خُدا حافِظ. مُبارَک باشَد!",
+     "a": "28cd566c74ea",
+     "colV": "خُدافِظ. مُبارَک باشه!",
+     "colA": "12e856734128"
+    }
    ]
   },
   {
@@ -39,26 +175,226 @@
    "type": "vocab",
    "title": "Words",
    "items": [
-    {"fa": "خرید", "r": "kharid", "en": "shopping; a purchase", "pos": "n", "note": "be kharid raftan = to go shopping", "ex": {"fa": "پنج‌شنبه‌ها به خرید می‌رویم.", "r": "panj-shanbe-hā be kharid mi-ravim.", "en": "On Thursdays we go shopping."}},
-    {"fa": "خریدن", "r": "kharidan", "en": "to buy", "pos": "v", "note": "stem khar-: mi-kharam", "ex": {"fa": "من نان و پنیر می‌خرم.", "r": "man nān o panir mi-kharam.", "en": "I buy bread and cheese."}},
-    {"fa": "فروختن", "r": "forukhtan", "en": "to sell", "pos": "v", "note": "stem forush-: mi-forusham", "ex": {"fa": "او در بازار فرش می‌فروشد.", "r": "u dar bāzār farsh mi-forushad.", "en": "He sells carpets in the bazaar."}},
-    {"fa": "فروشنده", "r": "forushande", "en": "seller, shop assistant", "pos": "n"},
-    {"fa": "مغازه", "r": "maghāze", "en": "shop", "pos": "n"},
-    {"fa": "بازار", "r": "bāzār", "en": "bazaar, market", "pos": "n"},
-    {"fa": "پول", "r": "pul", "en": "money", "pos": "n", "ex": {"fa": "پول نقد ندارم.", "r": "pul-e naghd na-dāram.", "en": "I don't have any cash."}},
-    {"fa": "قیمت", "r": "gheymat", "en": "price", "pos": "n", "ex": {"fa": "قیمتش چقدر است؟", "r": "gheymat-ash cheghadr ast?", "en": "What's its price?"}},
-    {"fa": "تومان", "r": "tumān", "en": "toman (= 10 rials)", "pos": "n", "note": "spoken: toman; the unit people talk in"},
-    {"fa": "ریال", "r": "riyāl", "en": "rial", "pos": "n", "note": "the official unit on banknotes and receipts"},
-    {"fa": "هزار", "r": "hezār", "en": "thousand", "pos": "num"},
-    {"fa": "میلیون", "r": "milyun", "en": "million", "pos": "num"},
-    {"fa": "گران", "r": "gerān", "en": "expensive", "pos": "adj", "note": "spoken: gerun"},
-    {"fa": "ارزان", "r": "arzān", "en": "cheap", "pos": "adj", "note": "spoken: arzun"},
-    {"fa": "تخفیف", "r": "takhfif", "en": "discount", "pos": "n", "ex": {"fa": "تخفیف می‌دهید؟", "r": "takhfif mi-dahid?", "en": "Will you give a discount?"}},
-    {"fa": "دادن", "r": "dādan", "en": "to give", "pos": "v", "note": "stem dah-: mi-daham; pul dādan = to pay"},
-    {"fa": "چقدر", "r": "cheghadr", "en": "how much", "pos": "adv", "ex": {"fa": "این چقدر است؟", "r": "in cheghadr ast?", "en": "How much is this?"}},
-    {"fa": "کیلو", "r": "kilu", "en": "kilo", "pos": "n", "note": "kiluyi = per kilo"},
-    {"fa": "کارت", "r": "kārt", "en": "(bank) card", "pos": "n", "note": "most Iranians pay with a kārt-e bānki"},
-    {"fa": "نقد", "r": "naghd", "en": "cash; in cash", "pos": "adj", "note": "pul-e naghd = cash"}
+    {
+     "fa": "خرید",
+     "r": "kharid",
+     "en": "shopping; a purchase",
+     "pos": "n",
+     "note": "be kharid raftan = to go shopping",
+     "ex": {
+      "fa": "پنج‌شنبه‌ها به خرید می‌رویم.",
+      "r": "panj-shanbe-hā be kharid mi-ravim.",
+      "en": "On Thursdays we go shopping.",
+      "faV": "پَنج‌شَنبه‌ها به خَرید می‌رَویم.",
+      "a": "2770fa9df96c"
+     },
+     "faV": "خَرید",
+     "a": "6299ce091a9f"
+    },
+    {
+     "fa": "خریدن",
+     "r": "kharidan",
+     "en": "to buy",
+     "pos": "v",
+     "note": "stem khar-: mi-kharam",
+     "ex": {
+      "fa": "من نان و پنیر می‌خرم.",
+      "r": "man nān o panir mi-kharam.",
+      "en": "I buy bread and cheese.",
+      "faV": "مَن نان و پَنیر می‌خَرَم.",
+      "a": "cdcbf7c68b50"
+     },
+     "faV": "خَریدَن",
+     "a": "4aab98bae182"
+    },
+    {
+     "fa": "فروختن",
+     "r": "forukhtan",
+     "en": "to sell",
+     "pos": "v",
+     "note": "stem forush-: mi-forusham",
+     "ex": {
+      "fa": "او در بازار فرش می‌فروشد.",
+      "r": "u dar bāzār farsh mi-forushad.",
+      "en": "He sells carpets in the bazaar.",
+      "faV": "او دَر بازار فَرش می‌فُروشَد.",
+      "a": "36481696d8eb"
+     },
+     "faV": "فُروختَن",
+     "a": "dfb8a68ddd4f"
+    },
+    {
+     "fa": "فروشنده",
+     "r": "forushande",
+     "en": "seller, shop assistant",
+     "pos": "n",
+     "faV": "فُروشَنده",
+     "a": "9c251cd1f097"
+    },
+    {
+     "fa": "مغازه",
+     "r": "maghāze",
+     "en": "shop",
+     "pos": "n",
+     "faV": "مَغازه",
+     "a": "0b69e97732e4"
+    },
+    {
+     "fa": "بازار",
+     "r": "bāzār",
+     "en": "bazaar, market",
+     "pos": "n",
+     "faV": "بازار",
+     "a": "05299979b024"
+    },
+    {
+     "fa": "پول",
+     "r": "pul",
+     "en": "money",
+     "pos": "n",
+     "ex": {
+      "fa": "پول نقد ندارم.",
+      "r": "pul-e naghd na-dāram.",
+      "en": "I don't have any cash.",
+      "faV": "پولِ نَقد نَدارَم.",
+      "a": "e0a76087735f"
+     },
+     "faV": "پول",
+     "a": "63dd1c041899"
+    },
+    {
+     "fa": "قیمت",
+     "r": "gheymat",
+     "en": "price",
+     "pos": "n",
+     "ex": {
+      "fa": "قیمتش چقدر است؟",
+      "r": "gheymat-ash cheghadr ast?",
+      "en": "What's its price?",
+      "faV": "قَیمَتَش چِقَدر اَست؟",
+      "a": "4b7ae1c280be"
+     },
+     "faV": "قَیمَت",
+     "a": "916161310ef7"
+    },
+    {
+     "fa": "تومان",
+     "r": "tumān",
+     "en": "toman (= 10 rials)",
+     "pos": "n",
+     "note": "spoken: toman; the unit people talk in",
+     "faV": "تومان",
+     "a": "306eba506939"
+    },
+    {
+     "fa": "ریال",
+     "r": "riyāl",
+     "en": "rial",
+     "pos": "n",
+     "note": "the official unit on banknotes and receipts",
+     "faV": "ریال",
+     "a": "00ef6aa9fc0d"
+    },
+    {
+     "fa": "هزار",
+     "r": "hezār",
+     "en": "thousand",
+     "pos": "num",
+     "faV": "هِزار",
+     "a": "746c1863e4d6"
+    },
+    {
+     "fa": "میلیون",
+     "r": "milyun",
+     "en": "million",
+     "pos": "num",
+     "faV": "میلیون",
+     "a": "719ed68eb4e3"
+    },
+    {
+     "fa": "گران",
+     "r": "gerān",
+     "en": "expensive",
+     "pos": "adj",
+     "note": "spoken: gerun",
+     "faV": "گِران",
+     "a": "2ebc489acbc8"
+    },
+    {
+     "fa": "ارزان",
+     "r": "arzān",
+     "en": "cheap",
+     "pos": "adj",
+     "note": "spoken: arzun",
+     "faV": "اَرزان",
+     "a": "0072439bbc3e"
+    },
+    {
+     "fa": "تخفیف",
+     "r": "takhfif",
+     "en": "discount",
+     "pos": "n",
+     "ex": {
+      "fa": "تخفیف می‌دهید؟",
+      "r": "takhfif mi-dahid?",
+      "en": "Will you give a discount?",
+      "faV": "تَخفیف می‌دَهید؟",
+      "a": "ebab263777f8"
+     },
+     "faV": "تَخفیف",
+     "a": "130cca416c2c"
+    },
+    {
+     "fa": "دادن",
+     "r": "dādan",
+     "en": "to give",
+     "pos": "v",
+     "note": "stem dah-: mi-daham; pul dādan = to pay",
+     "faV": "دادَن",
+     "a": "61cc1fe7b8d6"
+    },
+    {
+     "fa": "چقدر",
+     "r": "cheghadr",
+     "en": "how much",
+     "pos": "adv",
+     "ex": {
+      "fa": "این چقدر است؟",
+      "r": "in cheghadr ast?",
+      "en": "How much is this?",
+      "faV": "این چِقَدر اَست؟",
+      "a": "a9ec011b24f3"
+     },
+     "faV": "چِقَدر",
+     "a": "8ad737dbd5c1"
+    },
+    {
+     "fa": "کیلو",
+     "r": "kilu",
+     "en": "kilo",
+     "pos": "n",
+     "note": "kiluyi = per kilo",
+     "faV": "کیلو",
+     "a": "92fea192d04a"
+    },
+    {
+     "fa": "کارت",
+     "r": "kārt",
+     "en": "(bank) card",
+     "pos": "n",
+     "note": "most Iranians pay with a kārt-e bānki",
+     "faV": "کارت",
+     "a": "32256284ff8a"
+    },
+    {
+     "fa": "نقد",
+     "r": "naghd",
+     "en": "cash; in cash",
+     "pos": "adj",
+     "note": "pul-e naghd = cash",
+     "faV": "نَقد",
+     "a": "873319e02a7d"
+    }
    ]
   },
   {
@@ -66,21 +402,81 @@
    "title": "How much? chand and cheghadr",
    "md": "There are two ways to ask the price, and you will hear both all the time. [[چند|chand|how many, how much]] is the shopkeeper's word: [[این چند است؟|in chand ast?|How much is this?]] (spoken *in chande?*). [[چقدر|cheghadr|how much]] means the same: [[این چقدر است؟|in cheghadr ast?]] (spoken *in cheghadre?*). Use either.\n\nFor things sold by weight, ask [[کیلویی چند است؟|kiluyi chand ast?|how much is it a kilo?]] – the ending **-i** turns *kilu* into *per kilo*. In the same way [[تایی|tāyi|each, apiece]] asks the price of one: [[تایی چند است؟|tāyi chand ast?|how much is it each?]]\n\nWhen you have chosen everything, ask for the total with [[روی هم چقدر می‌شود؟|ru-ye ham cheghadr mi-shavad?|how much does it all come to?]] – **mi-shavad** means *it becomes*. After paying, the question goes into the past: [[چقدر شد؟|cheghadr shod?|how much was it?]], as you saw in lesson 10.",
    "table": {
-    "head": ["Persian", "Reading", "English"],
+    "head": [
+     "Persian",
+     "Reading",
+     "English"
+    ],
     "rows": [
-     ["[[این چند است؟|in chand ast?]]", "in chand ast?", "How much is this?"],
-     ["[[آن چقدر است؟|ān cheghadr ast?]]", "ān cheghadr ast?", "How much is that?"],
-     ["[[قیمتش چقدر است؟|gheymat-ash cheghadr ast?]]", "gheymat-ash cheghadr ast?", "What's its price?"],
-     ["[[کیلویی چند است؟|kiluyi chand ast?]]", "kiluyi chand ast?", "How much is it a kilo?"],
-     ["[[تایی چند است؟|tāyi chand ast?]]", "tāyi chand ast?", "How much is it each?"],
-     ["[[روی هم چقدر می‌شود؟|ru-ye ham cheghadr mi-shavad?]]", "ru-ye ham cheghadr mi-shavad?", "How much is it altogether?"]
+     [
+      "[[این چند است؟|in chand ast?]]",
+      "in chand ast?",
+      "How much is this?"
+     ],
+     [
+      "[[آن چقدر است؟|ān cheghadr ast?]]",
+      "ān cheghadr ast?",
+      "How much is that?"
+     ],
+     [
+      "[[قیمتش چقدر است؟|gheymat-ash cheghadr ast?]]",
+      "gheymat-ash cheghadr ast?",
+      "What's its price?"
+     ],
+     [
+      "[[کیلویی چند است؟|kiluyi chand ast?]]",
+      "kiluyi chand ast?",
+      "How much is it a kilo?"
+     ],
+     [
+      "[[تایی چند است؟|tāyi chand ast?]]",
+      "tāyi chand ast?",
+      "How much is it each?"
+     ],
+     [
+      "[[روی هم چقدر می‌شود؟|ru-ye ham cheghadr mi-shavad?]]",
+      "ru-ye ham cheghadr mi-shavad?",
+      "How much is it altogether?"
+     ]
     ]
    },
    "examples": [
-    {"fa": "ببخشید، این کیف چند است؟", "r": "bebakhshid, in kif chand ast?", "en": "Excuse me, how much is this bag?", "col": "ببخشید، این کیف چنده؟", "colR": "bebakhshid, in kif chande?"},
-    {"fa": "سیب کیلویی هشتاد هزار تومان است.", "r": "sib kiluyi hashtād hezār tumān ast.", "en": "Apples are eighty thousand tomans a kilo."},
-    {"fa": "روی هم چقدر می‌شود؟", "r": "ru-ye ham cheghadr mi-shavad?", "en": "How much does it all come to?", "col": "روی هم چقدر می‌شه؟", "colR": "ru-ye ham cheghadr mi-she?"},
-    {"fa": "سیصد هزار تومان می‌شود.", "r": "sisad hezār tumān mi-shavad.", "en": "That comes to three hundred thousand tomans."}
+    {
+     "fa": "ببخشید، این کیف چند است؟",
+     "r": "bebakhshid, in kif chand ast?",
+     "en": "Excuse me, how much is this bag?",
+     "col": "ببخشید، این کیف چنده؟",
+     "colR": "bebakhshid, in kif chande?",
+     "faV": "بِبَخشید، این کیف چَند اَست؟",
+     "a": "4ef785ae3ed4",
+     "colV": "بِبَخشید، این کیف چَنده؟",
+     "colA": "40b690cc01fd"
+    },
+    {
+     "fa": "سیب کیلویی هشتاد هزار تومان است.",
+     "r": "sib kiluyi hashtād hezār tumān ast.",
+     "en": "Apples are eighty thousand tomans a kilo.",
+     "faV": "سیب کیلویی هَشتاد هِزار تومان اَست.",
+     "a": "d8c5859a8dd0"
+    },
+    {
+     "fa": "روی هم چقدر می‌شود؟",
+     "r": "ru-ye ham cheghadr mi-shavad?",
+     "en": "How much does it all come to?",
+     "col": "روی هم چقدر می‌شه؟",
+     "colR": "ru-ye ham cheghadr mi-she?",
+     "faV": "رویِ هَم چِقَدر می‌شَوَد؟",
+     "a": "634b5c2dcb17",
+     "colV": "رویِ هَم چِقَدر می‌شه؟",
+     "colA": "c461cf191908"
+    },
+    {
+     "fa": "سیصد هزار تومان می‌شود.",
+     "r": "sisad hezār tumān mi-shavad.",
+     "en": "That comes to three hundred thousand tomans.",
+     "faV": "سیصَد هِزار تومان می‌شَوَد.",
+     "a": "5e887e0a6282"
+    }
    ]
   },
   {
@@ -88,19 +484,72 @@
    "title": "Rials and tomans",
    "md": "Iran has one currency with two names. The official unit is the [[ریال|riyāl|rial]]: banknotes, receipts, bank cards and supermarket price stickers show rials. But almost nobody *talks* in rials. In shops, in taxis and at home people count in [[تومان|tumān|toman]], and **one toman = ten rials**. To turn rials into tomans, simply knock off the last zero.\n\nSo a price tag that says [[۵۰۰٬۰۰۰ ریال|pānsad hezār riyāl|500,000 rials]] is *pānsad hezār riyāl* on paper, but the shopkeeper will tell you [[پنجاه هزار تومان|panjāh hezār tumān|fifty thousand tomans]] – and in everyday speech often just [[پنجاه تومن|panjāh toman]], leaving out the *hezār*. With bigger sums the *milyun* can disappear too: buying a coat, *do toman* may well mean two million tomans.\n\nThis sounds alarming, but in practice the size of the thing tells you the size of the number. If in doubt, ask: [[تومان یا ریال؟|tumān yā riyāl?|tomans or rials?]]",
    "table": {
-    "head": ["On the price tag", "Said carefully", "Said in the street", "Value"],
+    "head": [
+     "On the price tag",
+     "Said carefully",
+     "Said in the street",
+     "Value"
+    ],
     "rows": [
-     ["۱۰ ریال", "[[یک تومان|yek tumān]]", "", "1 toman"],
-     ["۵۰۰٬۰۰۰ ریال", "[[پنجاه هزار تومان|panjāh hezār tumān]]", "[[پنجاه تومن|panjāh toman]]", "50,000 tomans"],
-     ["۱٬۲۰۰٬۰۰۰ ریال", "[[صد و بیست هزار تومان|sad o bist hezār tumān]]", "[[صد و بیست تومن|sad o bist toman]]", "120,000 tomans"],
-     ["۲۰٬۰۰۰٬۰۰۰ ریال", "[[دو میلیون تومان|do milyun tumān]]", "[[دو میلیون|do milyun]], [[دو تومن|do toman]]", "2,000,000 tomans"]
+     [
+      "۱۰ ریال",
+      "[[یک تومان|yek tumān]]",
+      "",
+      "1 toman"
+     ],
+     [
+      "۵۰۰٬۰۰۰ ریال",
+      "[[پنجاه هزار تومان|panjāh hezār tumān]]",
+      "[[پنجاه تومن|panjāh toman]]",
+      "50,000 tomans"
+     ],
+     [
+      "۱٬۲۰۰٬۰۰۰ ریال",
+      "[[صد و بیست هزار تومان|sad o bist hezār tumān]]",
+      "[[صد و بیست تومن|sad o bist toman]]",
+      "120,000 tomans"
+     ],
+     [
+      "۲۰٬۰۰۰٬۰۰۰ ریال",
+      "[[دو میلیون تومان|do milyun tumān]]",
+      "[[دو میلیون|do milyun]], [[دو تومن|do toman]]",
+      "2,000,000 tomans"
+     ]
     ]
    },
    "examples": [
-    {"fa": "یک تومان ده ریال است.", "r": "yek tumān dah riyāl ast.", "en": "One toman is ten rials."},
-    {"fa": "این کتاب دویست هزار تومان است.", "r": "in ketāb devist hezār tumān ast.", "en": "This book is two hundred thousand tomans.", "col": "این کتاب دویست تومنه.", "colR": "in ketāb devist tomane."},
-    {"fa": "تومان یا ریال؟", "r": "tumān yā riyāl?", "en": "Tomans or rials?"},
-    {"fa": "ایرانی‌ها با کارت بانکی پول می‌دهند.", "r": "irāni-hā bā kārt-e bānki pul mi-dahand.", "en": "Iranians pay with bank cards."}
+    {
+     "fa": "یک تومان ده ریال است.",
+     "r": "yek tumān dah riyāl ast.",
+     "en": "One toman is ten rials.",
+     "faV": "یِک تومان دَه ریال اَست.",
+     "a": "472be6b985b2"
+    },
+    {
+     "fa": "این کتاب دویست هزار تومان است.",
+     "r": "in ketāb devist hezār tumān ast.",
+     "en": "This book is two hundred thousand tomans.",
+     "col": "این کتاب دویست تومنه.",
+     "colR": "in ketāb devist tomane.",
+     "faV": "این کِتاب دِویست هِزار تومان اَست.",
+     "a": "f1f96d3e3b9f",
+     "colV": "این کِتاب دِویست تومَنه.",
+     "colA": "2f8f4ce713e4"
+    },
+    {
+     "fa": "تومان یا ریال؟",
+     "r": "tumān yā riyāl?",
+     "en": "Tomans or rials?",
+     "faV": "تومان یا ریال؟",
+     "a": "b281c6938625"
+    },
+    {
+     "fa": "ایرانی‌ها با کارت بانکی پول می‌دهند.",
+     "r": "irāni-hā bā kārt-e bānki pul mi-dahand.",
+     "en": "Iranians pay with bank cards.",
+     "faV": "ایرانی‌ها با کارتِ بانکی پول می‌دَهَند.",
+     "a": "ecf7874119fa"
+    }
    ]
   },
   {
@@ -108,23 +557,87 @@
    "title": "Cheaper, and 'is it possible?': -tar and mi-shavad",
    "md": "To compare, add **-tar** to the adjective. It works like English *-er*, but for every adjective, long or short: [[ارزان|arzān|cheap]] → [[ارزان‌تر|arzān-tar|cheaper]], [[گران|gerān|expensive]] → [[گران‌تر|gerān-tar|more expensive]]. One common adjective is irregular: [[خوب|khub|good]] → [[بهتر|behtar|better]]. *Than* is [[از|az|from]], and it comes before the adjective: [[این از آن ارزان‌تر است.|in az ān arzān-tar ast.|This is cheaper than that.]] You will practise comparisons fully in A2; for shopping, **-tar** is enough.\n\n[[می‌شود|mi-shavad]] (spoken *mi-she*), from **shodan**, is the shopper's best friend. It means *it becomes, it comes to* – [[چقدر می‌شود؟|cheghadr mi-shavad?|how much does it come to?]] – and also *it's possible, it's all right*: [[با کارت می‌شود؟|bā kārt mi-shavad?|is it all right by card?]] *No* is [[نمی‌شود|nemi-shavad|it's not possible]]. And the bargainer's question is [[ارزان‌تر نمی‌شود؟|arzān-tar nemi-shavad?|can't it get any cheaper?]]",
    "table": {
-    "head": ["Persian", "Reading", "English"],
+    "head": [
+     "Persian",
+     "Reading",
+     "English"
+    ],
     "rows": [
-     ["[[ارزان‌تر|arzān-tar]]", "arzān-tar", "cheaper"],
-     ["[[گران‌تر|gerān-tar]]", "gerān-tar", "more expensive"],
-     ["[[بزرگ‌تر|bozorg-tar]]", "bozorg-tar", "bigger"],
-     ["[[کوچک‌تر|kuchak-tar]]", "kuchak-tar", "smaller"],
-     ["[[بهتر|behtar]]", "behtar", "better"],
-     ["[[تخفیف می‌دهید؟|takhfif mi-dahid?]]", "takhfif mi-dahid?", "Will you give a discount?"],
-     ["[[ارزان‌تر نمی‌شود؟|arzān-tar nemi-shavad?]]", "arzān-tar nemi-shavad?", "Can't it be cheaper?"],
-     ["[[آخرش چند؟|ākhar-ash chand?]]", "ākhar-ash chand?", "What's your last price?"]
+     [
+      "[[ارزان‌تر|arzān-tar]]",
+      "arzān-tar",
+      "cheaper"
+     ],
+     [
+      "[[گران‌تر|gerān-tar]]",
+      "gerān-tar",
+      "more expensive"
+     ],
+     [
+      "[[بزرگ‌تر|bozorg-tar]]",
+      "bozorg-tar",
+      "bigger"
+     ],
+     [
+      "[[کوچک‌تر|kuchak-tar]]",
+      "kuchak-tar",
+      "smaller"
+     ],
+     [
+      "[[بهتر|behtar]]",
+      "behtar",
+      "better"
+     ],
+     [
+      "[[تخفیف می‌دهید؟|takhfif mi-dahid?]]",
+      "takhfif mi-dahid?",
+      "Will you give a discount?"
+     ],
+     [
+      "[[ارزان‌تر نمی‌شود؟|arzān-tar nemi-shavad?]]",
+      "arzān-tar nemi-shavad?",
+      "Can't it be cheaper?"
+     ],
+     [
+      "[[آخرش چند؟|ākhar-ash chand?]]",
+      "ākhar-ash chand?",
+      "What's your last price?"
+     ]
     ]
    },
    "examples": [
-    {"fa": "این کیف از آن کیف گران‌تر است.", "r": "in kif az ān kif gerān-tar ast.", "en": "This bag is more expensive than that bag."},
-    {"fa": "میوه در بازار ارزان‌تر است.", "r": "mive dar bāzār arzān-tar ast.", "en": "Fruit is cheaper in the bazaar."},
-    {"fa": "ببخشید، ارزان‌تر نمی‌شود؟", "r": "bebakhshid, arzān-tar nemi-shavad?", "en": "Excuse me, can't it be any cheaper?", "col": "ببخشید، ارزون‌تر نمی‌شه؟", "colR": "bebakhshid, arzun-tar nemi-she?"},
-    {"fa": "با کارت می‌شود؟ بله، می‌شود.", "r": "bā kārt mi-shavad? bale, mi-shavad.", "en": "Is it all right by card? Yes, it is."}
+    {
+     "fa": "این کیف از آن کیف گران‌تر است.",
+     "r": "in kif az ān kif gerān-tar ast.",
+     "en": "This bag is more expensive than that bag.",
+     "faV": "این کیف اَز آن کیف گِران‌تَر اَست.",
+     "a": "8ac33a1fc685"
+    },
+    {
+     "fa": "میوه در بازار ارزان‌تر است.",
+     "r": "mive dar bāzār arzān-tar ast.",
+     "en": "Fruit is cheaper in the bazaar.",
+     "faV": "میوه دَر بازار اَرزان‌تَر اَست.",
+     "a": "f89886b2f87e"
+    },
+    {
+     "fa": "ببخشید، ارزان‌تر نمی‌شود؟",
+     "r": "bebakhshid, arzān-tar nemi-shavad?",
+     "en": "Excuse me, can't it be any cheaper?",
+     "col": "ببخشید، ارزون‌تر نمی‌شه؟",
+     "colR": "bebakhshid, arzun-tar nemi-she?",
+     "faV": "بِبَخشید، اَرزان‌تَر نِمی‌شَوَد؟",
+     "a": "7b727ee55665",
+     "colV": "بِبَخشید، اَرزون‌تَر نِمی‌شه؟",
+     "colA": "f1d1d2ea6a69"
+    },
+    {
+     "fa": "با کارت می‌شود؟ بله، می‌شود.",
+     "r": "bā kārt mi-shavad? bale, mi-shavad.",
+     "en": "Is it all right by card? Yes, it is.",
+     "faV": "با کارت می‌شَوَد؟ بَله، می‌شَوَد.",
+     "a": "1907152163e3"
+    }
    ]
   },
   {
@@ -132,18 +645,84 @@
    "title": "At the fruit market",
    "intro": "Leila does her weekly shopping. Read and answer the questions.",
    "sentences": [
-    {"fa": "لیلا پنج‌شنبه‌ها به میدان تره‌بار می‌رود.", "r": "Leylā panj-shanbe-hā be meydān-e tare-bār mi-ravad.", "en": "On Thursdays Leila goes to the fruit and vegetable market."},
-    {"fa": "آن‌جا میوه و سبزی از مغازه‌ها ارزان‌تر است.", "r": "ān-jā mive o sabzi az maghāze-hā arzān-tar ast.", "en": "Fruit and vegetables are cheaper there than in the shops."},
-    {"fa": "او دو کیلو سیب و یک کیلو پرتقال می‌خرد.", "r": "u do kilu sib va yek kilu porteghāl mi-kharad.", "en": "She buys two kilos of apples and a kilo of oranges."},
-    {"fa": "سیب کیلویی هشتاد هزار تومان است و پرتقال کیلویی صد و بیست هزار تومان.", "r": "sib kiluyi hashtād hezār tumān ast va porteghāl kiluyi sad o bist hezār tumān.", "en": "Apples are eighty thousand tomans a kilo and oranges a hundred and twenty thousand."},
-    {"fa": "فروشنده می‌گوید: «روی هم دویست و هشتاد هزار تومان.»", "r": "forushande mi-guyad: «ru-ye ham devist o hashtād hezār tumān.»", "en": "The seller says: \"Two hundred and eighty thousand tomans altogether.\""},
-    {"fa": "لیلا می‌گوید: «تخفیف نمی‌دهید؟»", "r": "Leylā mi-guyad: «takhfif nemi-dahid?»", "en": "Leila says: \"Won't you give me a discount?\""},
-    {"fa": "فروشنده سی هزار تومان تخفیف می‌دهد و لیلا با کارت پول می‌دهد.", "r": "forushande si hezār tumān takhfif mi-dahad va Leylā bā kārt pul mi-dahad.", "en": "The seller gives her thirty thousand tomans off, and Leila pays by card."}
+    {
+     "fa": "لیلا پنج‌شنبه‌ها به میدان تره‌بار می‌رود.",
+     "r": "Leylā panj-shanbe-hā be meydān-e tare-bār mi-ravad.",
+     "en": "On Thursdays Leila goes to the fruit and vegetable market.",
+     "faV": "لَیلا پَنج‌شَنبه‌ها به مَیدانِ تَره‌بار می‌رَوَد.",
+     "a": "dd38c6c14197"
+    },
+    {
+     "fa": "آن‌جا میوه و سبزی از مغازه‌ها ارزان‌تر است.",
+     "r": "ān-jā mive o sabzi az maghāze-hā arzān-tar ast.",
+     "en": "Fruit and vegetables are cheaper there than in the shops.",
+     "faV": "آن‌جا میوه و سَبزی اَز مَغازه‌ها اَرزان‌تَر اَست.",
+     "a": "d8be226c63f7"
+    },
+    {
+     "fa": "او دو کیلو سیب و یک کیلو پرتقال می‌خرد.",
+     "r": "u do kilu sib va yek kilu porteghāl mi-kharad.",
+     "en": "She buys two kilos of apples and a kilo of oranges.",
+     "faV": "او دو کیلو سیب و یِک کیلو پُرتِقال می‌خَرَد.",
+     "a": "4061e746058d"
+    },
+    {
+     "fa": "سیب کیلویی هشتاد هزار تومان است و پرتقال کیلویی صد و بیست هزار تومان.",
+     "r": "sib kiluyi hashtād hezār tumān ast va porteghāl kiluyi sad o bist hezār tumān.",
+     "en": "Apples are eighty thousand tomans a kilo and oranges a hundred and twenty thousand.",
+     "faV": "سیب کیلویی هَشتاد هِزار تومان اَست و پُرتِقال کیلویی صَد و بیست هِزار تومان.",
+     "a": "ca633f1a7528"
+    },
+    {
+     "fa": "فروشنده می‌گوید: «روی هم دویست و هشتاد هزار تومان.»",
+     "r": "forushande mi-guyad: «ru-ye ham devist o hashtād hezār tumān.»",
+     "en": "The seller says: \"Two hundred and eighty thousand tomans altogether.\"",
+     "faV": "فُروشَنده می‌گویَد: «رویِ هَم دِویست و هَشتاد هِزار تومان.»",
+     "a": "04c0e11928c4"
+    },
+    {
+     "fa": "لیلا می‌گوید: «تخفیف نمی‌دهید؟»",
+     "r": "Leylā mi-guyad: «takhfif nemi-dahid?»",
+     "en": "Leila says: \"Won't you give me a discount?\"",
+     "faV": "لَیلا می‌گویَد: «تَخفیف نِمی‌دَهید؟»",
+     "a": "d7adf40b109f"
+    },
+    {
+     "fa": "فروشنده سی هزار تومان تخفیف می‌دهد و لیلا با کارت پول می‌دهد.",
+     "r": "forushande si hezār tumān takhfif mi-dahad va Leylā bā kārt pul mi-dahad.",
+     "en": "The seller gives her thirty thousand tomans off, and Leila pays by card.",
+     "faV": "فُروشَنده سی هِزار تومان تَخفیف می‌دَهَد و لَیلا با کارت پول می‌دَهَد.",
+     "a": "97ff0806d205"
+    }
    ],
    "questions": [
-    {"q": "Why does Leila go to the fruit market?", "options": ["it is near her house", "it is cheaper than the shops", "it is open on Fridays"], "answer": 1},
-    {"q": "Which is more expensive?", "options": ["apples", "oranges", "they cost the same"], "answer": 1},
-    {"q": "How much does Leila pay in the end?", "options": ["280,000 tomans", "250,000 tomans", "30,000 tomans"], "answer": 1}
+    {
+     "q": "Why does Leila go to the fruit market?",
+     "options": [
+      "it is near her house",
+      "it is cheaper than the shops",
+      "it is open on Fridays"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Which is more expensive?",
+     "options": [
+      "apples",
+      "oranges",
+      "they cost the same"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How much does Leila pay in the end?",
+     "options": [
+      "280,000 tomans",
+      "250,000 tomans",
+      "30,000 tomans"
+     ],
+     "answer": 1
+    }
    ]
   },
   {
@@ -168,14 +747,62 @@
    "kind": "match",
    "title": "Match the words",
    "items": [
-    {"fa": "گران", "r": "gerān", "en": "expensive"},
-    {"fa": "ارزان", "r": "arzān", "en": "cheap"},
-    {"fa": "قیمت", "r": "gheymat", "en": "price"},
-    {"fa": "تخفیف", "r": "takhfif", "en": "discount"},
-    {"fa": "فروشنده", "r": "forushande", "en": "seller"},
-    {"fa": "مغازه", "r": "maghāze", "en": "shop"},
-    {"fa": "خریدن", "r": "kharidan", "en": "to buy"},
-    {"fa": "فروختن", "r": "forukhtan", "en": "to sell"}
+    {
+     "fa": "گران",
+     "r": "gerān",
+     "en": "expensive",
+     "faV": "گِران",
+     "a": "2ebc489acbc8"
+    },
+    {
+     "fa": "ارزان",
+     "r": "arzān",
+     "en": "cheap",
+     "faV": "اَرزان",
+     "a": "0072439bbc3e"
+    },
+    {
+     "fa": "قیمت",
+     "r": "gheymat",
+     "en": "price",
+     "faV": "قَیمَت",
+     "a": "916161310ef7"
+    },
+    {
+     "fa": "تخفیف",
+     "r": "takhfif",
+     "en": "discount",
+     "faV": "تَخفیف",
+     "a": "130cca416c2c"
+    },
+    {
+     "fa": "فروشنده",
+     "r": "forushande",
+     "en": "seller",
+     "faV": "فُروشَنده",
+     "a": "9c251cd1f097"
+    },
+    {
+     "fa": "مغازه",
+     "r": "maghāze",
+     "en": "shop",
+     "faV": "مَغازه",
+     "a": "0b69e97732e4"
+    },
+    {
+     "fa": "خریدن",
+     "r": "kharidan",
+     "en": "to buy",
+     "faV": "خَریدَن",
+     "a": "4aab98bae182"
+    },
+    {
+     "fa": "فروختن",
+     "r": "forukhtan",
+     "en": "to sell",
+     "faV": "فُروختَن",
+     "a": "dfb8a68ddd4f"
+    }
    ]
   },
   {
@@ -183,11 +810,56 @@
    "kind": "mcq",
    "title": "Choose the right answer",
    "items": [
-    {"q": "A price tag says [[۱۰۰٬۰۰۰ ریال|sad hezār riyāl]]. How much is that in tomans?", "options": ["10,000 tomans", "100,000 tomans", "1,000 tomans"], "answer": 0, "explain": "One toman = ten rials: knock off one zero."},
-    {"q": "How do you ask 'how much is it a kilo?'", "options": ["کیلویی چند است؟", "چند کیلو است؟", "کیلو کجاست؟"], "answer": 0, "explain": "kiluyi chand ast? – the -i means 'per'. chand kilu? means 'how many kilos?'"},
-    {"q": "'Cheaper' is…", "options": ["ارزان", "ارزان‌تر", "گران‌تر"], "answer": 1, "explain": "-tar makes the comparative: arzān-tar."},
-    {"q": "The seller says [[نمی‌شود|nemi-shavad]]. He means…", "options": ["It's not possible.", "It's not expensive.", "I don't know."], "answer": 0, "explain": "mi-shavad 'it's possible', nemi-shavad 'it's not possible'."},
-    {"q": "A friend shows you the coat she has just bought. You say…", "options": ["مبارک باشد!", "خیلی ارزان است!", "تخفیف می‌دهید؟"], "answer": 0, "explain": "mobārak bāshad is the wish for anything new."}
+    {
+     "q": "A price tag says [[۱۰۰٬۰۰۰ ریال|sad hezār riyāl]]. How much is that in tomans?",
+     "options": [
+      "10,000 tomans",
+      "100,000 tomans",
+      "1,000 tomans"
+     ],
+     "answer": 0,
+     "explain": "One toman = ten rials: knock off one zero."
+    },
+    {
+     "q": "How do you ask 'how much is it a kilo?'",
+     "options": [
+      "کیلویی چند است؟",
+      "چند کیلو است؟",
+      "کیلو کجاست؟"
+     ],
+     "answer": 0,
+     "explain": "kiluyi chand ast? – the -i means 'per'. chand kilu? means 'how many kilos?'"
+    },
+    {
+     "q": "'Cheaper' is…",
+     "options": [
+      "ارزان",
+      "ارزان‌تر",
+      "گران‌تر"
+     ],
+     "answer": 1,
+     "explain": "-tar makes the comparative: arzān-tar."
+    },
+    {
+     "q": "The seller says [[نمی‌شود|nemi-shavad]]. He means…",
+     "options": [
+      "It's not possible.",
+      "It's not expensive.",
+      "I don't know."
+     ],
+     "answer": 0,
+     "explain": "mi-shavad 'it's possible', nemi-shavad 'it's not possible'."
+    },
+    {
+     "q": "A friend shows you the coat she has just bought. You say…",
+     "options": [
+      "مبارک باشد!",
+      "خیلی ارزان است!",
+      "تخفیف می‌دهید؟"
+     ],
+     "answer": 0,
+     "explain": "mobārak bāshad is the wish for anything new."
+    }
    ]
   },
   {
@@ -195,11 +867,41 @@
    "kind": "fill",
    "title": "Complete the sentences",
    "items": [
-    {"fa": "یک تومان ده ___ است.", "r": "yek tumān dah ___ ast.", "en": "One toman is ten rials.", "answer": "ریال", "hint": "the official unit"},
-    {"fa": "خیلی گران است! ___ می‌دهید؟", "r": "kheyli gerān ast! ___ mi-dahid?", "en": "It's very expensive! Will you give a discount?", "answer": "تخفیف", "hint": "discount"},
-    {"fa": "این کیف از آن کیف ___ است.", "r": "in kif az ān kif ___ ast.", "en": "This bag is cheaper than that bag.", "answer": "ارزان‌تر", "hint": "cheap + -tar"},
-    {"fa": "سیب کیلویی هشتاد ___ تومان است.", "r": "sib kiluyi hashtād ___ tumān ast.", "en": "Apples are eighty thousand tomans a kilo.", "answer": "هزار", "hint": "thousand"},
-    {"fa": "با کارت ___؟", "r": "bā kārt ___?", "en": "Is it all right by card?", "answer": "می‌شود", "hint": "it's possible"}
+    {
+     "fa": "یک تومان ده ___ است.",
+     "r": "yek tumān dah ___ ast.",
+     "en": "One toman is ten rials.",
+     "answer": "ریال",
+     "hint": "the official unit"
+    },
+    {
+     "fa": "خیلی گران است! ___ می‌دهید؟",
+     "r": "kheyli gerān ast! ___ mi-dahid?",
+     "en": "It's very expensive! Will you give a discount?",
+     "answer": "تخفیف",
+     "hint": "discount"
+    },
+    {
+     "fa": "این کیف از آن کیف ___ است.",
+     "r": "in kif az ān kif ___ ast.",
+     "en": "This bag is cheaper than that bag.",
+     "answer": "ارزان‌تر",
+     "hint": "cheap + -tar"
+    },
+    {
+     "fa": "سیب کیلویی هشتاد ___ تومان است.",
+     "r": "sib kiluyi hashtād ___ tumān ast.",
+     "en": "Apples are eighty thousand tomans a kilo.",
+     "answer": "هزار",
+     "hint": "thousand"
+    },
+    {
+     "fa": "با کارت ___؟",
+     "r": "bā kārt ___?",
+     "en": "Is it all right by card?",
+     "answer": "می‌شود",
+     "hint": "it's possible"
+    }
    ]
   },
   {
@@ -207,10 +909,34 @@
    "kind": "order",
    "title": "Put the words in order",
    "items": [
-    {"fa": "این ترمه چند است؟", "r": "in terme chand ast?", "en": "How much is this termeh?"},
-    {"fa": "میوه در بازار ارزان‌تر است.", "r": "mive dar bāzār arzān-tar ast.", "en": "Fruit is cheaper in the bazaar."},
-    {"fa": "روی هم چقدر می‌شود؟", "r": "ru-ye ham cheghadr mi-shavad?", "en": "How much does it all come to?"},
-    {"fa": "لیلا دو کیلو سیب می‌خرد.", "r": "Leylā do kilu sib mi-kharad.", "en": "Leila buys two kilos of apples."}
+    {
+     "fa": "این ترمه چند است؟",
+     "r": "in terme chand ast?",
+     "en": "How much is this termeh?",
+     "faV": "این تِرمه چَند اَست؟",
+     "a": "6dbacc67e9b0"
+    },
+    {
+     "fa": "میوه در بازار ارزان‌تر است.",
+     "r": "mive dar bāzār arzān-tar ast.",
+     "en": "Fruit is cheaper in the bazaar.",
+     "faV": "میوه دَر بازار اَرزان‌تَر اَست.",
+     "a": "f89886b2f87e"
+    },
+    {
+     "fa": "روی هم چقدر می‌شود؟",
+     "r": "ru-ye ham cheghadr mi-shavad?",
+     "en": "How much does it all come to?",
+     "faV": "رویِ هَم چِقَدر می‌شَوَد؟",
+     "a": "634b5c2dcb17"
+    },
+    {
+     "fa": "لیلا دو کیلو سیب می‌خرد.",
+     "r": "Leylā do kilu sib mi-kharad.",
+     "en": "Leila buys two kilos of apples.",
+     "faV": "لَیلا دو کیلو سیب می‌خَرَد.",
+     "a": "dd097bf62ce1"
+    }
    ]
   },
   {
@@ -218,9 +944,45 @@
    "kind": "listen",
    "title": "Listen and choose",
    "items": [
-    {"fa": "سیصد هزار تومان می‌شود.", "r": "sisad hezār tumān mi-shavad.", "en": "That comes to three hundred thousand tomans.", "options": ["30,000 tomans", "300,000 tomans", "3,000,000 tomans"], "answer": 1},
-    {"fa": "خیلی گران است!", "r": "kheyli gerān ast!", "en": "It's very expensive!", "options": ["It's very cheap!", "It's very expensive!", "It's very good!"], "answer": 1},
-    {"fa": "ارزان‌تر نمی‌شود؟", "r": "arzān-tar nemi-shavad?", "en": "Can't it be any cheaper?", "options": ["Is it cheaper?", "Can't it be any cheaper?", "Is it more expensive?"], "answer": 1}
+    {
+     "fa": "سیصد هزار تومان می‌شود.",
+     "r": "sisad hezār tumān mi-shavad.",
+     "en": "That comes to three hundred thousand tomans.",
+     "options": [
+      "30,000 tomans",
+      "300,000 tomans",
+      "3,000,000 tomans"
+     ],
+     "answer": 1,
+     "faV": "سیصَد هِزار تومان می‌شَوَد.",
+     "a": "5e887e0a6282"
+    },
+    {
+     "fa": "خیلی گران است!",
+     "r": "kheyli gerān ast!",
+     "en": "It's very expensive!",
+     "options": [
+      "It's very cheap!",
+      "It's very expensive!",
+      "It's very good!"
+     ],
+     "answer": 1,
+     "faV": "خَیلی گِران اَست!",
+     "a": "71bd3695fc1f"
+    },
+    {
+     "fa": "ارزان‌تر نمی‌شود؟",
+     "r": "arzān-tar nemi-shavad?",
+     "en": "Can't it be any cheaper?",
+     "options": [
+      "Is it cheaper?",
+      "Can't it be any cheaper?",
+      "Is it more expensive?"
+     ],
+     "answer": 1,
+     "faV": "اَرزان‌تَر نِمی‌شَوَد؟",
+     "a": "9c646e6b8967"
+    }
    ]
   },
   {
@@ -228,12 +990,44 @@
    "kind": "translate",
    "title": "Say it in Persian",
    "items": [
-    {"en": "How much is this? (use cheghadr)", "fa": "این چقدر است؟", "r": "in cheghadr ast?"},
-    {"en": "It's very expensive!", "fa": "خیلی گران است!", "r": "kheyli gerān ast!"},
-    {"en": "That one is cheaper.", "fa": "آن یکی ارزان‌تر است.", "r": "ān yeki arzān-tar ast."},
-    {"en": "Will you give a discount?", "fa": "تخفیف می‌دهید؟", "r": "takhfif mi-dahid?"},
-    {"en": "Is it all right by card?", "fa": "با کارت می‌شود؟", "r": "bā kārt mi-shavad?"}
+    {
+     "en": "How much is this? (use cheghadr)",
+     "fa": "این چقدر است؟",
+     "r": "in cheghadr ast?",
+     "faV": "این چِقَدر اَست؟",
+     "a": "a9ec011b24f3"
+    },
+    {
+     "en": "It's very expensive!",
+     "fa": "خیلی گران است!",
+     "r": "kheyli gerān ast!",
+     "faV": "خَیلی گِران اَست!",
+     "a": "71bd3695fc1f"
+    },
+    {
+     "en": "That one is cheaper.",
+     "fa": "آن یکی ارزان‌تر است.",
+     "r": "ān yeki arzān-tar ast.",
+     "faV": "آن یِکی اَرزان‌تَر اَست.",
+     "a": "2230f8f9a85d"
+    },
+    {
+     "en": "Will you give a discount?",
+     "fa": "تخفیف می‌دهید؟",
+     "r": "takhfif mi-dahid?",
+     "faV": "تَخفیف می‌دَهید؟",
+     "a": "ebab263777f8"
+    },
+    {
+     "en": "Is it all right by card?",
+     "fa": "با کارت می‌شود؟",
+     "r": "bā kārt mi-shavad?",
+     "faV": "با کارت می‌شَوَد؟",
+     "a": "df7dcb2fad85"
+    }
    ]
   }
- ]
+ ],
+ "titleV": "خَرید و پول",
+ "titleA": "74e7c20cf331"
 }

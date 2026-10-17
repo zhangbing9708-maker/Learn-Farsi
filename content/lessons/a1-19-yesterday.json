@@ -6,7 +6,12 @@
  "titleFa": "دیروز چه کار کردی؟",
  "titleR": "diruz che kār kardi?",
  "intro": "Good news: the Persian past tense is the most regular thing in the language. Every verb has a past stem, the past stem is simply the infinitive without -an, and the endings are ones you already know. In this lesson you learn to say what you did yesterday, where you were and what you didn't do – and to ask the question every Iranian asks after a weekend: خوش گذشت؟",
- "goals": ["say what you did with the simple past: رفتم، خوردم، دیدم", "say where you were with the past of بودن: بودم", "say what you didn't do: نرفتم، نبودم", "use past time words: دیروز، پریروز، دیشب، هفته‌ی پیش، دو روز پیش"],
+ "goals": [
+  "say what you did with the simple past: رفتم، خوردم، دیدم",
+  "say where you were with the past of بودن: بودم",
+  "say what you didn't do: نرفتم، نبودم",
+  "use past time words: دیروز، پریروز، دیشب، هفته‌ی پیش، دو روز پیش"
+ ],
  "image": "tochal",
  "sections": [
   {
@@ -14,18 +19,142 @@
    "title": "What did you do on Friday?",
    "context": "Saturday morning, the first day of the Iranian working week. Sara meets Amir at the office.",
    "lines": [
-    {"who": "Sara", "fa": "سلام امیر! دیروز کجا بودی؟", "r": "salām Amir! diruz kojā budi?", "en": "Hi Amir! Where were you yesterday?"},
-    {"who": "Amir", "fa": "سلام! دیروز جمعه بود. با دوستانم به دربند رفتم.", "r": "salām! diruz jom'e bud. bā dustān-am be Darband raftam.", "en": "Hi! Yesterday was Friday. I went to Darband with my friends.", "col": "سلام! دیروز جمعه بود. با دوستام رفتم دربند.", "colR": "salām! diruz jom'e bud. bā dust-ām raftam Darband."},
-    {"who": "Sara", "fa": "چه خوب! کوه رفتید؟", "r": "che khub! kuh raftid?", "en": "How nice! Did you go up the mountain?", "col": "چه خوب! کوه رفتین؟", "colR": "che khub! kuh raftin?"},
-    {"who": "Amir", "fa": "بله، صبح زود رفتیم و تا ظهر راه رفتیم.", "r": "bale, sobh-e zud raftim o tā zohr rāh raftim.", "en": "Yes, we went early in the morning and walked until noon.", "col": "آره، صبح زود رفتیم و تا ظهر راه رفتیم.", "colR": "āre, sobh-e zud raftim o tā zohr rāh raftim."},
-    {"who": "Sara", "fa": "ناهار چه خوردید؟", "r": "nāhār che khordid?", "en": "What did you have for lunch?", "col": "ناهار چی خوردین؟", "colR": "nāhār chi khordin?"},
-    {"who": "Amir", "fa": "در یک رستوران کوچک کباب و دوغ خوردیم. خیلی خوشمزه بود!", "r": "dar yek resturān-e kuchak kabāb o dugh khordim. kheyli khoshmaze bud!", "en": "We had kebab and doogh in a small restaurant. It was delicious!", "col": "تو یه رستوران کوچیک کباب و دوغ خوردیم. خیلی خوشمزه بود!", "colR": "tu ye resturān-e kuchik kabāb o dugh khordim. kheyli khoshmaze bud!"},
-    {"who": "Amir", "fa": "تو چه کار کردی؟", "r": "to che kār kardi?", "en": "What did you do?", "col": "تو چی کار کردی؟", "colR": "to chi kār kardi?"},
-    {"who": "Sara", "fa": "من هیچ جا نرفتم. خانه بودم و درس خواندم.", "r": "man hich jā na-raftam. khāne budam o dars khāndam.", "en": "I didn't go anywhere. I was at home and studied.", "col": "من هیچ جا نرفتم. خونه بودم و درس خوندم.", "colR": "man hich jā na-raftam. khune budam o dars khundam."},
-    {"who": "Amir", "fa": "پریروز هم درس خواندی!", "r": "pariruz ham dars khāndi!", "en": "You studied the day before yesterday too!", "col": "پریروز هم درس خوندی!", "colR": "pariruz ham dars khundi!"},
-    {"who": "Sara", "fa": "بله، امتحان دارم. اما شب با خانواده‌ام شام خوردیم و فیلم دیدیم.", "r": "bale, emtehān dāram. ammā shab bā khānevāde-am shām khordim o film didim.", "en": "Yes, I have an exam. But in the evening I had dinner with my family and we watched a film.", "col": "آره، امتحان دارم. ولی شب با خانواده‌م شام خوردیم و فیلم دیدیم.", "colR": "āre, emtehān dāram. vali shab bā khānevāde-m shām khordim o film didim."},
-    {"who": "Amir", "fa": "خوش گذشت؟", "r": "khosh gozasht?", "en": "Did you have a good time?"},
-    {"who": "Sara", "fa": "بد نبود. اما دفعه‌ی بعد من هم با شما به کوه می‌آیم!", "r": "bad na-bud. ammā daf'e-ye ba'd man ham bā shomā be kuh mi-āyam!", "en": "It wasn't bad. But next time I'm coming to the mountains with you!", "col": "بد نبود. ولی دفعه‌ی بعد منم باهاتون میام کوه!", "colR": "bad na-bud. vali daf'e-ye ba'd man-am bā-hātun miyām kuh!"}
+    {
+     "who": "Sara",
+     "fa": "سلام امیر! دیروز کجا بودی؟",
+     "r": "salām Amir! diruz kojā budi?",
+     "en": "Hi Amir! Where were you yesterday?",
+     "faV": "سَلام اَمیر! دیروز کُجا بودی؟",
+     "a": "181539b60c80"
+    },
+    {
+     "who": "Amir",
+     "fa": "سلام! دیروز جمعه بود. با دوستانم به دربند رفتم.",
+     "r": "salām! diruz jom'e bud. bā dustān-am be Darband raftam.",
+     "en": "Hi! Yesterday was Friday. I went to Darband with my friends.",
+     "col": "سلام! دیروز جمعه بود. با دوستام رفتم دربند.",
+     "colR": "salām! diruz jom'e bud. bā dust-ām raftam Darband.",
+     "faV": "سَلام! دیروز جُمعه بود. با دوستانَم به دَربَند رَفتَم.",
+     "a": "68e3112d955b",
+     "colV": "سَلام! دیروز جُمعه بود. با دوستام رَفتَم دَربَند.",
+     "colA": "1d51ad54b210"
+    },
+    {
+     "who": "Sara",
+     "fa": "چه خوب! کوه رفتید؟",
+     "r": "che khub! kuh raftid?",
+     "en": "How nice! Did you go up the mountain?",
+     "col": "چه خوب! کوه رفتین؟",
+     "colR": "che khub! kuh raftin?",
+     "faV": "چه خوب! کوه رَفتید؟",
+     "a": "9092001c453f",
+     "colV": "چه خوب! کوه رَفتین؟",
+     "colA": "b40c4e9e8374"
+    },
+    {
+     "who": "Amir",
+     "fa": "بله، صبح زود رفتیم و تا ظهر راه رفتیم.",
+     "r": "bale, sobh-e zud raftim o tā zohr rāh raftim.",
+     "en": "Yes, we went early in the morning and walked until noon.",
+     "col": "آره، صبح زود رفتیم و تا ظهر راه رفتیم.",
+     "colR": "āre, sobh-e zud raftim o tā zohr rāh raftim.",
+     "faV": "بَله، صُبحِ زود رَفتیم و تا ظُهر راه رَفتیم.",
+     "a": "ec58da0f4f36",
+     "colV": "آره، صُبحِ زود رَفتیم و تا ظُهر راه رَفتیم.",
+     "colA": "c9639ae71723"
+    },
+    {
+     "who": "Sara",
+     "fa": "ناهار چه خوردید؟",
+     "r": "nāhār che khordid?",
+     "en": "What did you have for lunch?",
+     "col": "ناهار چی خوردین؟",
+     "colR": "nāhār chi khordin?",
+     "faV": "ناهار چه خوردید؟",
+     "a": "49de2eeb3e6d",
+     "colV": "ناهار چی خوردین؟",
+     "colA": "19cb3e60feb4"
+    },
+    {
+     "who": "Amir",
+     "fa": "در یک رستوران کوچک کباب و دوغ خوردیم. خیلی خوشمزه بود!",
+     "r": "dar yek resturān-e kuchak kabāb o dugh khordim. kheyli khoshmaze bud!",
+     "en": "We had kebab and doogh in a small restaurant. It was delicious!",
+     "col": "تو یه رستوران کوچیک کباب و دوغ خوردیم. خیلی خوشمزه بود!",
+     "colR": "tu ye resturān-e kuchik kabāb o dugh khordim. kheyli khoshmaze bud!",
+     "faV": "دَر یِک رِستورانِ کوچَک کَباب و دوغ خوردیم. خَیلی خوشمَزه بود!",
+     "a": "957478d1bbb2",
+     "colV": "تو یه رِستورانِ کوچیک کَباب و دوغ خوردیم. خَیلی خوشمَزه بود!",
+     "colA": "f2bb2e54e68b"
+    },
+    {
+     "who": "Amir",
+     "fa": "تو چه کار کردی؟",
+     "r": "to che kār kardi?",
+     "en": "What did you do?",
+     "col": "تو چی کار کردی؟",
+     "colR": "to chi kār kardi?",
+     "faV": "تو چه کار کَردی؟",
+     "a": "f13045cf890d",
+     "colV": "تو چی کار کَردی؟",
+     "colA": "90bc73e34bfe"
+    },
+    {
+     "who": "Sara",
+     "fa": "من هیچ جا نرفتم. خانه بودم و درس خواندم.",
+     "r": "man hich jā na-raftam. khāne budam o dars khāndam.",
+     "en": "I didn't go anywhere. I was at home and studied.",
+     "col": "من هیچ جا نرفتم. خونه بودم و درس خوندم.",
+     "colR": "man hich jā na-raftam. khune budam o dars khundam.",
+     "faV": "مَن هیچ جا نَرَفتَم. خانه بودَم و دَرس خواندَم.",
+     "a": "7e36c44acc0c",
+     "colV": "مَن هیچ جا نَرَفتَم. خونه بودَم و دَرس خوندَم.",
+     "colA": "7800f0ea369a"
+    },
+    {
+     "who": "Amir",
+     "fa": "پریروز هم درس خواندی!",
+     "r": "pariruz ham dars khāndi!",
+     "en": "You studied the day before yesterday too!",
+     "col": "پریروز هم درس خوندی!",
+     "colR": "pariruz ham dars khundi!",
+     "faV": "پَریروز هَم دَرس خواندی!",
+     "a": "2f04e4e876a6",
+     "colV": "پَریروز هَم دَرس خوندی!",
+     "colA": "f8b56512d4bb"
+    },
+    {
+     "who": "Sara",
+     "fa": "بله، امتحان دارم. اما شب با خانواده‌ام شام خوردیم و فیلم دیدیم.",
+     "r": "bale, emtehān dāram. ammā shab bā khānevāde-am shām khordim o film didim.",
+     "en": "Yes, I have an exam. But in the evening I had dinner with my family and we watched a film.",
+     "col": "آره، امتحان دارم. ولی شب با خانواده‌م شام خوردیم و فیلم دیدیم.",
+     "colR": "āre, emtehān dāram. vali shab bā khānevāde-m shām khordim o film didim.",
+     "faV": "بَله، اِمتِحان دارَم. اَمّا شَب با خانِواده‌اَم شام خوردیم و فیلم دیدیم.",
+     "a": "173f5d533bd0",
+     "colV": "آره، اِمتِحان دارَم. وَلی شَب با خانِواده‌م شام خوردیم و فیلم دیدیم.",
+     "colA": "5d32a36069b9"
+    },
+    {
+     "who": "Amir",
+     "fa": "خوش گذشت؟",
+     "r": "khosh gozasht?",
+     "en": "Did you have a good time?",
+     "faV": "خوش گُذَشت؟",
+     "a": "31da4e39c974"
+    },
+    {
+     "who": "Sara",
+     "fa": "بد نبود. اما دفعه‌ی بعد من هم با شما به کوه می‌آیم!",
+     "r": "bad na-bud. ammā daf'e-ye ba'd man ham bā shomā be kuh mi-āyam!",
+     "en": "It wasn't bad. But next time I'm coming to the mountains with you!",
+     "col": "بد نبود. ولی دفعه‌ی بعد منم باهاتون میام کوه!",
+     "colR": "bad na-bud. vali daf'e-ye ba'd man-am bā-hātun miyām kuh!",
+     "faV": "بَد نَبود. اَمّا دَفعه‌یِ بَعد مَن هَم با شُما به کوه می‌آیَم!",
+     "a": "b4ddbba377f7",
+     "colV": "بَد نَبود. وَلی دَفعه‌یِ بَعد مَنَم باهاتون میام کوه!",
+     "colA": "752983153711"
+    }
    ]
   },
   {
@@ -37,26 +166,196 @@
    "type": "vocab",
    "title": "Words",
    "items": [
-    {"fa": "دیروز", "r": "diruz", "en": "yesterday", "pos": "adv"},
-    {"fa": "پریروز", "r": "pariruz", "en": "the day before yesterday", "pos": "adv"},
-    {"fa": "دیشب", "r": "dishab", "en": "last night", "pos": "adv", "ex": {"fa": "دیشب خوب خوابیدم.", "r": "dishab khub khābidam.", "en": "I slept well last night."}},
-    {"fa": "هفته‌ی پیش", "r": "hafte-ye pish", "en": "last week", "pos": "phrase", "note": "also هفته‌ی گذشته hafte-ye gozashte"},
-    {"fa": "پارسال", "r": "pārsāl", "en": "last year", "pos": "adv"},
-    {"fa": "پیش", "r": "pish", "en": "ago", "pos": "adv", "ex": {"fa": "دو روز پیش به تهران آمدم.", "r": "do ruz pish be Tehrān āmadam.", "en": "I came to Tehran two days ago."}},
-    {"fa": "رفتن", "r": "raftan", "en": "to go", "pos": "v", "note": "past stem رفت raft"},
-    {"fa": "آمدن", "r": "āmadan", "en": "to come", "pos": "v", "note": "past stem آمد āmad; spoken umad-"},
-    {"fa": "خوردن", "r": "khordan", "en": "to eat, to drink", "pos": "v", "note": "past stem خورد khord"},
-    {"fa": "دیدن", "r": "didan", "en": "to see", "pos": "v", "note": "past stem دید did"},
-    {"fa": "خریدن", "r": "kharidan", "en": "to buy", "pos": "v", "note": "past stem خرید kharid"},
-    {"fa": "بودن", "r": "budan", "en": "to be", "pos": "v", "note": "past: بودم budam, بودی budi, بود bud…"},
-    {"fa": "خواندن", "r": "khāndan", "en": "to read; to study (درس خواندن)", "pos": "v", "note": "past stem خواند khānd; spoken khund-"},
-    {"fa": "خوابیدن", "r": "khābidan", "en": "to sleep", "pos": "v"},
-    {"fa": "راه رفتن", "r": "rāh raftan", "en": "to walk", "pos": "v"},
-    {"fa": "کوه", "r": "kuh", "en": "mountain", "pos": "n", "ex": {"fa": "جمعه به کوه رفتیم.", "r": "jom'e be kuh raftim.", "en": "On Friday we went to the mountains."}},
-    {"fa": "فیلم", "r": "film", "en": "film", "pos": "n"},
-    {"fa": "امتحان", "r": "emtehān", "en": "exam", "pos": "n"},
-    {"fa": "خوشمزه", "r": "khoshmaze", "en": "tasty, delicious", "pos": "adj"},
-    {"fa": "خوش گذشت", "r": "khosh gozasht", "en": "(we) had a good time", "pos": "phrase", "note": "literally 'it passed pleasantly'; as a question: Did you have a good time?"}
+    {
+     "fa": "دیروز",
+     "r": "diruz",
+     "en": "yesterday",
+     "pos": "adv",
+     "faV": "دیروز",
+     "a": "0d1d1c22de38"
+    },
+    {
+     "fa": "پریروز",
+     "r": "pariruz",
+     "en": "the day before yesterday",
+     "pos": "adv",
+     "faV": "پَریروز",
+     "a": "baa015f2b188"
+    },
+    {
+     "fa": "دیشب",
+     "r": "dishab",
+     "en": "last night",
+     "pos": "adv",
+     "ex": {
+      "fa": "دیشب خوب خوابیدم.",
+      "r": "dishab khub khābidam.",
+      "en": "I slept well last night.",
+      "faV": "دیشَب خوب خوابیدَم.",
+      "a": "8e946a5ffb95"
+     },
+     "faV": "دیشَب",
+     "a": "926696474b87"
+    },
+    {
+     "fa": "هفته‌ی پیش",
+     "r": "hafte-ye pish",
+     "en": "last week",
+     "pos": "phrase",
+     "note": "also هفته‌ی گذشته hafte-ye gozashte",
+     "faV": "هَفته‌یِ پیش",
+     "a": "7665d1431a17"
+    },
+    {
+     "fa": "پارسال",
+     "r": "pārsāl",
+     "en": "last year",
+     "pos": "adv",
+     "faV": "پارسال",
+     "a": "e9e20d015178"
+    },
+    {
+     "fa": "پیش",
+     "r": "pish",
+     "en": "ago",
+     "pos": "adv",
+     "ex": {
+      "fa": "دو روز پیش به تهران آمدم.",
+      "r": "do ruz pish be Tehrān āmadam.",
+      "en": "I came to Tehran two days ago.",
+      "faV": "دو روز پیش به تِهران آمَدَم.",
+      "a": "712c0846965a"
+     },
+     "faV": "پیش",
+     "a": "1e949447833a"
+    },
+    {
+     "fa": "رفتن",
+     "r": "raftan",
+     "en": "to go",
+     "pos": "v",
+     "note": "past stem رفت raft",
+     "faV": "رَفتَن",
+     "a": "896aeefbcfc5"
+    },
+    {
+     "fa": "آمدن",
+     "r": "āmadan",
+     "en": "to come",
+     "pos": "v",
+     "note": "past stem آمد āmad; spoken umad-",
+     "faV": "آمَدَن",
+     "a": "b956084a52b7"
+    },
+    {
+     "fa": "خوردن",
+     "r": "khordan",
+     "en": "to eat, to drink",
+     "pos": "v",
+     "note": "past stem خورد khord",
+     "faV": "خوردَن",
+     "a": "bfeb0a9e4b76"
+    },
+    {
+     "fa": "دیدن",
+     "r": "didan",
+     "en": "to see",
+     "pos": "v",
+     "note": "past stem دید did",
+     "faV": "دیدَن",
+     "a": "f77446a25019"
+    },
+    {
+     "fa": "خریدن",
+     "r": "kharidan",
+     "en": "to buy",
+     "pos": "v",
+     "note": "past stem خرید kharid",
+     "faV": "خَریدَن",
+     "a": "4aab98bae182"
+    },
+    {
+     "fa": "بودن",
+     "r": "budan",
+     "en": "to be",
+     "pos": "v",
+     "note": "past: بودم budam, بودی budi, بود bud…",
+     "faV": "بودَن",
+     "a": "05569098c3ba"
+    },
+    {
+     "fa": "خواندن",
+     "r": "khāndan",
+     "en": "to read; to study (درس خواندن)",
+     "pos": "v",
+     "note": "past stem خواند khānd; spoken khund-",
+     "faV": "خواندَن",
+     "a": "8bb897d814dc"
+    },
+    {
+     "fa": "خوابیدن",
+     "r": "khābidan",
+     "en": "to sleep",
+     "pos": "v",
+     "faV": "خوابیدَن",
+     "a": "55bf26410c75"
+    },
+    {
+     "fa": "راه رفتن",
+     "r": "rāh raftan",
+     "en": "to walk",
+     "pos": "v",
+     "faV": "راه رَفتَن",
+     "a": "939832a923c1"
+    },
+    {
+     "fa": "کوه",
+     "r": "kuh",
+     "en": "mountain",
+     "pos": "n",
+     "ex": {
+      "fa": "جمعه به کوه رفتیم.",
+      "r": "jom'e be kuh raftim.",
+      "en": "On Friday we went to the mountains.",
+      "faV": "جُمعه به کوه رَفتیم.",
+      "a": "b314d6920ced"
+     },
+     "faV": "کوه",
+     "a": "dce9030c3b67"
+    },
+    {
+     "fa": "فیلم",
+     "r": "film",
+     "en": "film",
+     "pos": "n",
+     "faV": "فیلم",
+     "a": "2b3fe3024937"
+    },
+    {
+     "fa": "امتحان",
+     "r": "emtehān",
+     "en": "exam",
+     "pos": "n",
+     "faV": "اِمتِحان",
+     "a": "ce67eb239ed1"
+    },
+    {
+     "fa": "خوشمزه",
+     "r": "khoshmaze",
+     "en": "tasty, delicious",
+     "pos": "adj",
+     "faV": "خوشمَزه",
+     "a": "5a70f0c2a07e"
+    },
+    {
+     "fa": "خوش گذشت",
+     "r": "khosh gozasht",
+     "en": "(we) had a good time",
+     "pos": "phrase",
+     "note": "literally 'it passed pleasantly'; as a question: Did you have a good time?",
+     "faV": "خوش گُذَشت",
+     "a": "c32a21b4e10e"
+    }
    ]
   },
   {
@@ -64,22 +363,107 @@
    "title": "The simple past: رفتم، خوردم، دیدم",
    "md": "Past stem + ending. That is all, for every verb in the language:\n\n- [[آمدن|āmadan]] → [[آمدم|āmadam|I came]]\n- [[کردن|kardan]] → [[کردم|kardam|I did]], so [[کار کردم|kār kardam|I worked]]\n- [[گفتن|goftan]] → [[گفتم|goftam|I said]]\n- [[خریدن|kharidan]] → [[خریدم|kharidam|I bought]]\n- [[شدن|shodan]] → [[شدم|shodam|I became]]\n\nThe subject pronoun is usually dropped, because the ending already says who did it: [[رفتیم|raftim]] can only mean *we went*. In speech **-id** becomes **-in** and **-and** becomes **-an**: *raftin, raftan*.",
    "table": {
-    "head": ["Person", "go: raft-", "eat: khord-", "see: did-", "English"],
+    "head": [
+     "Person",
+     "go: raft-",
+     "eat: khord-",
+     "see: did-",
+     "English"
+    ],
     "rows": [
-     ["I (man)", "[[رفتم|raftam]]", "[[خوردم|khordam]]", "[[دیدم|didam]]", "I went / ate / saw"],
-     ["you (to)", "[[رفتی|rafti]]", "[[خوردی|khordi]]", "[[دیدی|didi]]", "you went / ate / saw"],
-     ["he / she (u)", "[[رفت|raft]]", "[[خورد|khord]]", "[[دید|did]]", "he / she went / ate / saw"],
-     ["we (mā)", "[[رفتیم|raftim]]", "[[خوردیم|khordim]]", "[[دیدیم|didim]]", "we went / ate / saw"],
-     ["you (shomā)", "[[رفتید|raftid]]", "[[خوردید|khordid]]", "[[دیدید|didid]]", "you went / ate / saw"],
-     ["they (ān-hā)", "[[رفتند|raftand]]", "[[خوردند|khordand]]", "[[دیدند|didand]]", "they went / ate / saw"]
+     [
+      "I (man)",
+      "[[رفتم|raftam]]",
+      "[[خوردم|khordam]]",
+      "[[دیدم|didam]]",
+      "I went / ate / saw"
+     ],
+     [
+      "you (to)",
+      "[[رفتی|rafti]]",
+      "[[خوردی|khordi]]",
+      "[[دیدی|didi]]",
+      "you went / ate / saw"
+     ],
+     [
+      "he / she (u)",
+      "[[رفت|raft]]",
+      "[[خورد|khord]]",
+      "[[دید|did]]",
+      "he / she went / ate / saw"
+     ],
+     [
+      "we (mā)",
+      "[[رفتیم|raftim]]",
+      "[[خوردیم|khordim]]",
+      "[[دیدیم|didim]]",
+      "we went / ate / saw"
+     ],
+     [
+      "you (shomā)",
+      "[[رفتید|raftid]]",
+      "[[خوردید|khordid]]",
+      "[[دیدید|didid]]",
+      "you went / ate / saw"
+     ],
+     [
+      "they (ān-hā)",
+      "[[رفتند|raftand]]",
+      "[[خوردند|khordand]]",
+      "[[دیدند|didand]]",
+      "they went / ate / saw"
+     ]
     ]
    },
    "examples": [
-    {"fa": "دیروز به بازار رفتم.", "r": "diruz be bāzār raftam.", "en": "Yesterday I went to the bazaar.", "col": "دیروز رفتم بازار.", "colR": "diruz raftam bāzār.", "note": "in speech the place often comes after the verb, without be"},
-    {"fa": "دیشب پیتزا خوردیم.", "r": "dishab pitzā khordim.", "en": "Last night we had pizza."},
-    {"fa": "پارسال به اصفهان رفتند.", "r": "pārsāl be Esfahān raftand.", "en": "Last year they went to Isfahan.", "col": "پارسال رفتن اصفهان.", "colR": "pārsāl raftan Esfahān."},
-    {"fa": "تام هفته‌ی پیش یک فرش خرید.", "r": "Tām hafte-ye pish yek farsh kharid.", "en": "Tom bought a carpet last week."},
-    {"fa": "شما کی آمدید؟", "r": "shomā key āmadid?", "en": "When did you come?", "col": "شما کی اومدین؟", "colR": "shomā key umadin?"}
+    {
+     "fa": "دیروز به بازار رفتم.",
+     "r": "diruz be bāzār raftam.",
+     "en": "Yesterday I went to the bazaar.",
+     "col": "دیروز رفتم بازار.",
+     "colR": "diruz raftam bāzār.",
+     "note": "in speech the place often comes after the verb, without be",
+     "faV": "دیروز به بازار رَفتَم.",
+     "a": "49627cf2322c",
+     "colV": "دیروز رَفتَم بازار.",
+     "colA": "2da7645861e3"
+    },
+    {
+     "fa": "دیشب پیتزا خوردیم.",
+     "r": "dishab pitzā khordim.",
+     "en": "Last night we had pizza.",
+     "faV": "دیشَب پیتزا خوردیم.",
+     "a": "9a97990ec5fc"
+    },
+    {
+     "fa": "پارسال به اصفهان رفتند.",
+     "r": "pārsāl be Esfahān raftand.",
+     "en": "Last year they went to Isfahan.",
+     "col": "پارسال رفتن اصفهان.",
+     "colR": "pārsāl raftan Esfahān.",
+     "faV": "پارسال به اِصفَهان رَفتَند.",
+     "a": "60209542b636",
+     "colV": "پارسال رَفتَن اِصفَهان.",
+     "colA": "02984a1d93c0"
+    },
+    {
+     "fa": "تام هفته‌ی پیش یک فرش خرید.",
+     "r": "Tām hafte-ye pish yek farsh kharid.",
+     "en": "Tom bought a carpet last week.",
+     "faV": "تام هَفته‌یِ پیش یِک فَرش خَرید.",
+     "a": "46ec0f0489bf"
+    },
+    {
+     "fa": "شما کی آمدید؟",
+     "r": "shomā key āmadid?",
+     "en": "When did you come?",
+     "col": "شما کی اومدین؟",
+     "colR": "shomā key umadin?",
+     "faV": "شُما کَی آمَدید؟",
+     "a": "32033190fdcc",
+     "colV": "شُما کَی اومَدین؟",
+     "colA": "89f315bba35e"
+    }
    ]
   },
   {
@@ -87,22 +471,91 @@
    "title": "I was, I wasn't, I didn't: بودم، نبودم، نرفتم",
    "md": "The past of [[بودن|budan|to be]] follows the same pattern: [[بودم|budam|I was]], [[بودی|budi|you were]], [[بود|bud|he / she / it was]]. It is used for where you were and what something was like: [[خسته بودم|khaste budam|I was tired]], [[هوا سرد بود|havā sard bud|it was cold]].\n\nFor the negative, join **na-** to the front of any past verb: [[نبودم|na-budam|I wasn't]], [[نخوردم|na-khordam|I didn't eat]]. In a compound verb na- goes on the verb part: [[کار نکردم|kār na-kardam|I didn't work]]. Before the long **ā** of [[آمدن|āmadan]], na- becomes **nay-**: [[نیامدم|na-yāmadam|I didn't come]].",
    "table": {
-    "head": ["Person", "was (budan)", "wasn't", "didn't go"],
+    "head": [
+     "Person",
+     "was (budan)",
+     "wasn't",
+     "didn't go"
+    ],
     "rows": [
-     ["I", "[[بودم|budam]]", "[[نبودم|na-budam]]", "[[نرفتم|na-raftam]]"],
-     ["you", "[[بودی|budi]]", "[[نبودی|na-budi]]", "[[نرفتی|na-rafti]]"],
-     ["he / she", "[[بود|bud]]", "[[نبود|na-bud]]", "[[نرفت|na-raft]]"],
-     ["we", "[[بودیم|budim]]", "[[نبودیم|na-budim]]", "[[نرفتیم|na-raftim]]"],
-     ["you (polite, pl.)", "[[بودید|budid]]", "[[نبودید|na-budid]]", "[[نرفتید|na-raftid]]"],
-     ["they", "[[بودند|budand]]", "[[نبودند|na-budand]]", "[[نرفتند|na-raftand]]"]
+     [
+      "I",
+      "[[بودم|budam]]",
+      "[[نبودم|na-budam]]",
+      "[[نرفتم|na-raftam]]"
+     ],
+     [
+      "you",
+      "[[بودی|budi]]",
+      "[[نبودی|na-budi]]",
+      "[[نرفتی|na-rafti]]"
+     ],
+     [
+      "he / she",
+      "[[بود|bud]]",
+      "[[نبود|na-bud]]",
+      "[[نرفت|na-raft]]"
+     ],
+     [
+      "we",
+      "[[بودیم|budim]]",
+      "[[نبودیم|na-budim]]",
+      "[[نرفتیم|na-raftim]]"
+     ],
+     [
+      "you (polite, pl.)",
+      "[[بودید|budid]]",
+      "[[نبودید|na-budid]]",
+      "[[نرفتید|na-raftid]]"
+     ],
+     [
+      "they",
+      "[[بودند|budand]]",
+      "[[نبودند|na-budand]]",
+      "[[نرفتند|na-raftand]]"
+     ]
     ]
    },
    "examples": [
-    {"fa": "دیروز خیلی خسته بودم.", "r": "diruz kheyli khaste budam.", "en": "Yesterday I was very tired."},
-    {"fa": "هوا سرد بود و ما بیرون نرفتیم.", "r": "havā sard bud o mā birun na-raftim.", "en": "It was cold and we didn't go out."},
-    {"fa": "دیشب شام نخوردم.", "r": "dishab shām na-khordam.", "en": "I didn't have dinner last night."},
-    {"fa": "سارا دیروز سر کار نبود.", "r": "Sārā diruz sar-e kār na-bud.", "en": "Sara wasn't at work yesterday."},
-    {"fa": "رضا به مهمانی نیامد.", "r": "Rezā be mehmāni na-yāmad.", "en": "Reza didn't come to the party.", "col": "رضا نیومد مهمونی.", "colR": "Rezā nayumad mehmuni."}
+    {
+     "fa": "دیروز خیلی خسته بودم.",
+     "r": "diruz kheyli khaste budam.",
+     "en": "Yesterday I was very tired.",
+     "faV": "دیروز خَیلی خَسته بودَم.",
+     "a": "bf33debebd9c"
+    },
+    {
+     "fa": "هوا سرد بود و ما بیرون نرفتیم.",
+     "r": "havā sard bud o mā birun na-raftim.",
+     "en": "It was cold and we didn't go out.",
+     "faV": "هَوا سَرد بود و ما بیرون نَرَفتیم.",
+     "a": "8d6305eb6227"
+    },
+    {
+     "fa": "دیشب شام نخوردم.",
+     "r": "dishab shām na-khordam.",
+     "en": "I didn't have dinner last night.",
+     "faV": "دیشَب شام نَخوردَم.",
+     "a": "a105400421c9"
+    },
+    {
+     "fa": "سارا دیروز سر کار نبود.",
+     "r": "Sārā diruz sar-e kār na-bud.",
+     "en": "Sara wasn't at work yesterday.",
+     "faV": "سارا دیروز سَرِ کار نَبود.",
+     "a": "3888fdba36c7"
+    },
+    {
+     "fa": "رضا به مهمانی نیامد.",
+     "r": "Rezā be mehmāni na-yāmad.",
+     "en": "Reza didn't come to the party.",
+     "col": "رضا نیومد مهمونی.",
+     "colR": "Rezā nayumad mehmuni.",
+     "faV": "رِضا به مِهمانی نَیامَد.",
+     "a": "dc55f5573d0c",
+     "colV": "رِضا نَیومَد مِهمونی.",
+     "colA": "5b9a01bbdeef"
+    }
    ]
   },
   {
@@ -110,24 +563,82 @@
    "title": "When? Words for the past",
    "md": "Time words usually come first in the sentence, or right after the subject. [[پیش|pish|ago]] comes **after** the amount of time, the opposite of English: [[دو روز پیش|do ruz pish|two days ago]], [[سه سال پیش|se sāl pish|three years ago]].\n\nFor *last week, last month* use [[پیش|pish]] with an ezafe: [[هفته‌ی پیش|hafte-ye pish]], [[ماه پیش|māh-e pish]]. *Last year* has its own word, [[پارسال|pārsāl]]. To ask *when?*, use [[کی؟|key?]]",
    "table": {
-    "head": ["Persian", "English"],
+    "head": [
+     "Persian",
+     "English"
+    ],
     "rows": [
-     ["[[دیروز|diruz]]", "yesterday"],
-     ["[[پریروز|pariruz]]", "the day before yesterday"],
-     ["[[دیشب|dishab]]", "last night"],
-     ["[[دیروز صبح|diruz sobh]]", "yesterday morning"],
-     ["[[هفته‌ی پیش|hafte-ye pish]]", "last week"],
-     ["[[ماه پیش|māh-e pish]]", "last month"],
-     ["[[پارسال|pārsāl]]", "last year"],
-     ["[[دو روز پیش|do ruz pish]]", "two days ago"],
-     ["[[یک ساعت پیش|yek sā'at pish]]", "an hour ago"]
+     [
+      "[[دیروز|diruz]]",
+      "yesterday"
+     ],
+     [
+      "[[پریروز|pariruz]]",
+      "the day before yesterday"
+     ],
+     [
+      "[[دیشب|dishab]]",
+      "last night"
+     ],
+     [
+      "[[دیروز صبح|diruz sobh]]",
+      "yesterday morning"
+     ],
+     [
+      "[[هفته‌ی پیش|hafte-ye pish]]",
+      "last week"
+     ],
+     [
+      "[[ماه پیش|māh-e pish]]",
+      "last month"
+     ],
+     [
+      "[[پارسال|pārsāl]]",
+      "last year"
+     ],
+     [
+      "[[دو روز پیش|do ruz pish]]",
+      "two days ago"
+     ],
+     [
+      "[[یک ساعت پیش|yek sā'at pish]]",
+      "an hour ago"
+     ]
     ]
    },
    "examples": [
-    {"fa": "کی به تهران آمدی؟ سه ماه پیش.", "r": "key be Tehrān āmadi? se māh pish.", "en": "When did you come to Tehran? Three months ago.", "col": "کی اومدی تهران؟ سه ماه پیش.", "colR": "key umadi Tehrān? se māh pish."},
-    {"fa": "دیروز صبح نان سنگک خریدم.", "r": "diruz sobh nān-e sangak kharidam.", "en": "Yesterday morning I bought sangak bread."},
-    {"fa": "پریروز تولد مادرم بود.", "r": "pariruz tavallod-e mādar-am bud.", "en": "The day before yesterday was my mother's birthday."},
-    {"fa": "او یک ساعت پیش به من زنگ زد.", "r": "u yek sā'at pish be man zang zad.", "en": "He rang me an hour ago."}
+    {
+     "fa": "کی به تهران آمدی؟ سه ماه پیش.",
+     "r": "key be Tehrān āmadi? se māh pish.",
+     "en": "When did you come to Tehran? Three months ago.",
+     "col": "کی اومدی تهران؟ سه ماه پیش.",
+     "colR": "key umadi Tehrān? se māh pish.",
+     "faV": "کَی به تِهران آمَدی؟ سه ماه پیش.",
+     "a": "0817f1a3533a",
+     "colV": "کَی اومَدی تِهران؟ سه ماه پیش.",
+     "colA": "edfa4e25bcf4"
+    },
+    {
+     "fa": "دیروز صبح نان سنگک خریدم.",
+     "r": "diruz sobh nān-e sangak kharidam.",
+     "en": "Yesterday morning I bought sangak bread.",
+     "faV": "دیروز صُبح نانِ سَنگَک خَریدَم.",
+     "a": "39145d504cbc"
+    },
+    {
+     "fa": "پریروز تولد مادرم بود.",
+     "r": "pariruz tavallod-e mādar-am bud.",
+     "en": "The day before yesterday was my mother's birthday.",
+     "faV": "پَریروز تَوَلُّدِ مادَرَم بود.",
+     "a": "0b3c9d058253"
+    },
+    {
+     "fa": "او یک ساعت پیش به من زنگ زد.",
+     "r": "u yek sā'at pish be man zang zad.",
+     "en": "He rang me an hour ago.",
+     "faV": "او یِک ساعَت پیش به مَن زَنگ زَد.",
+     "a": "91d10b8d17a7"
+    }
    ]
   },
   {
@@ -135,18 +646,84 @@
    "title": "A day in Isfahan",
    "intro": "Leila and Dariush took a trip last week. Every verb in the story is in the simple past.",
    "sentences": [
-    {"fa": "هفته‌ی پیش لیلا و داریوش به اصفهان رفتند.", "r": "hafte-ye pish Leylā o Dāriush be Esfahān raftand.", "en": "Last week Leila and Dariush went to Isfahan."},
-    {"fa": "آن‌ها با قطار رفتند و ساعت نه صبح رسیدند.", "r": "ān-hā bā ghatār raftand o sā'at-e noh-e sobh residand.", "en": "They went by train and arrived at nine in the morning."},
-    {"fa": "اول به میدان نقش جهان رفتند.", "r": "avval be meydān-e Naghsh-e Jahān raftand.", "en": "First they went to Naqsh-e Jahan Square."},
-    {"fa": "ظهر در یک رستوران سنتی بریانی خوردند.", "r": "zohr dar yek resturān-e sonnati beryāni khordand.", "en": "At noon they ate beryani, Isfahan's famous lamb dish, in a traditional restaurant."},
-    {"fa": "عصر روی سی‌وسه‌پل راه رفتند.", "r": "asr ru-ye si-o-se-pol rāh raftand.", "en": "In the late afternoon they walked on Si-o-se Pol, the bridge of thirty-three arches."},
-    {"fa": "شب خسته بودند، اما خیلی خوش گذشت.", "r": "shab khaste budand, ammā kheyli khosh gozasht.", "en": "In the evening they were tired, but they had a great time."},
-    {"fa": "لیلا گفت: «اصفهان نصف جهان است!»", "r": "Leylā goft: «Esfahān nesf-e jahān ast!»", "en": "Leila said: \"Isfahan is half the world!\""}
+    {
+     "fa": "هفته‌ی پیش لیلا و داریوش به اصفهان رفتند.",
+     "r": "hafte-ye pish Leylā o Dāriush be Esfahān raftand.",
+     "en": "Last week Leila and Dariush went to Isfahan.",
+     "faV": "هَفته‌یِ پیش لَیلا و داریوش به اِصفَهان رَفتَند.",
+     "a": "c54f3c8c2b24"
+    },
+    {
+     "fa": "آن‌ها با قطار رفتند و ساعت نه صبح رسیدند.",
+     "r": "ān-hā bā ghatār raftand o sā'at-e noh-e sobh residand.",
+     "en": "They went by train and arrived at nine in the morning.",
+     "faV": "آن‌ها با قَطار رَفتَند و ساعَتِ نُهِ صُبح رِسیدَند.",
+     "a": "acd4f9deb902"
+    },
+    {
+     "fa": "اول به میدان نقش جهان رفتند.",
+     "r": "avval be meydān-e Naghsh-e Jahān raftand.",
+     "en": "First they went to Naqsh-e Jahan Square.",
+     "faV": "اَوَّل به مَیدانِ نَقشِ جَهان رَفتَند.",
+     "a": "c7407d0ce687"
+    },
+    {
+     "fa": "ظهر در یک رستوران سنتی بریانی خوردند.",
+     "r": "zohr dar yek resturān-e sonnati beryāni khordand.",
+     "en": "At noon they ate beryani, Isfahan's famous lamb dish, in a traditional restaurant.",
+     "faV": "ظُهر دَر یِک رِستورانِ سُنَّتی بِریانی خوردَند.",
+     "a": "7fb6e0ecef2a"
+    },
+    {
+     "fa": "عصر روی سی‌وسه‌پل راه رفتند.",
+     "r": "asr ru-ye si-o-se-pol rāh raftand.",
+     "en": "In the late afternoon they walked on Si-o-se Pol, the bridge of thirty-three arches.",
+     "faV": "عَصر رویِ سی‌وسه‌پُل راه رَفتَند.",
+     "a": "68ceebafb7ee"
+    },
+    {
+     "fa": "شب خسته بودند، اما خیلی خوش گذشت.",
+     "r": "shab khaste budand, ammā kheyli khosh gozasht.",
+     "en": "In the evening they were tired, but they had a great time.",
+     "faV": "شَب خَسته بودَند، اَمّا خَیلی خوش گُذَشت.",
+     "a": "19c4b29be4cc"
+    },
+    {
+     "fa": "لیلا گفت: «اصفهان نصف جهان است!»",
+     "r": "Leylā goft: «Esfahān nesf-e jahān ast!»",
+     "en": "Leila said: \"Isfahan is half the world!\"",
+     "faV": "لَیلا گُفت: «اِصفَهان نِصفِ جَهان اَست!»",
+     "a": "8a28e57b0d5e"
+    }
    ],
    "questions": [
-    {"q": "How did Leila and Dariush travel to Isfahan?", "options": ["by plane", "by train", "by car"], "answer": 1},
-    {"q": "Where did they have lunch?", "options": ["at home", "in a traditional restaurant", "on the bridge"], "answer": 1},
-    {"q": "How was the trip?", "options": ["they had a great time", "it was boring", "it rained all day"], "answer": 0}
+    {
+     "q": "How did Leila and Dariush travel to Isfahan?",
+     "options": [
+      "by plane",
+      "by train",
+      "by car"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Where did they have lunch?",
+     "options": [
+      "at home",
+      "in a traditional restaurant",
+      "on the bridge"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How was the trip?",
+     "options": [
+      "they had a great time",
+      "it was boring",
+      "it rained all day"
+     ],
+     "answer": 0
+    }
    ]
   },
   {
@@ -171,14 +748,62 @@
    "kind": "match",
    "title": "Match the past verbs",
    "items": [
-    {"fa": "رفتم", "r": "raftam", "en": "I went"},
-    {"fa": "خوردیم", "r": "khordim", "en": "we ate"},
-    {"fa": "دیدی", "r": "didi", "en": "you saw"},
-    {"fa": "آمدند", "r": "āmadand", "en": "they came"},
-    {"fa": "خرید", "r": "kharid", "en": "he bought"},
-    {"fa": "بودم", "r": "budam", "en": "I was"},
-    {"fa": "نرفتیم", "r": "na-raftim", "en": "we didn't go"},
-    {"fa": "خوابیدید", "r": "khābidid", "en": "you (pl.) slept"}
+    {
+     "fa": "رفتم",
+     "r": "raftam",
+     "en": "I went",
+     "faV": "رَفتَم",
+     "a": "1f39ae7bda45"
+    },
+    {
+     "fa": "خوردیم",
+     "r": "khordim",
+     "en": "we ate",
+     "faV": "خوردیم",
+     "a": "fc1114f311e1"
+    },
+    {
+     "fa": "دیدی",
+     "r": "didi",
+     "en": "you saw",
+     "faV": "دیدی",
+     "a": "f51b3beee9d9"
+    },
+    {
+     "fa": "آمدند",
+     "r": "āmadand",
+     "en": "they came",
+     "faV": "آمَدَند",
+     "a": "27582b05f4da"
+    },
+    {
+     "fa": "خرید",
+     "r": "kharid",
+     "en": "he bought",
+     "faV": "خَرید",
+     "a": "6299ce091a9f"
+    },
+    {
+     "fa": "بودم",
+     "r": "budam",
+     "en": "I was",
+     "faV": "بودَم",
+     "a": "3221174a6613"
+    },
+    {
+     "fa": "نرفتیم",
+     "r": "na-raftim",
+     "en": "we didn't go",
+     "faV": "نَرَفتیم",
+     "a": "e03785bad2c0"
+    },
+    {
+     "fa": "خوابیدید",
+     "r": "khābidid",
+     "en": "you (pl.) slept",
+     "faV": "خوابیدید",
+     "a": "a5c9bcce73a6"
+    }
    ]
   },
   {
@@ -186,11 +811,56 @@
    "kind": "mcq",
    "title": "Choose the right form",
    "items": [
-    {"q": "'Yesterday I went to the bazaar.'", "options": ["دیروز به بازار می‌روم.", "دیروز به بازار رفتم.", "دیروز به بازار رفت."], "answer": 1, "explain": "Past stem raft + -am (I): raftam. raft alone means 'he / she went'."},
-    {"q": "Which word means 'the day before yesterday'?", "options": ["دیروز", "پریروز", "پارسال"], "answer": 1, "explain": "pariruz; diruz is yesterday and pārsāl last year."},
-    {"q": "The negative of خوردم is…", "options": ["نخوردم", "نمی‌خوردم", "خوردم نه"], "answer": 0, "explain": "na- + khordam. نمی‌خوردم is the negative past continuous ('I wasn't eating'), which comes at A2."},
-    {"q": "'They were at home.'", "options": ["خانه بودیم.", "خانه بودند.", "خانه هستند."], "answer": 1, "explain": "bud + -and (they): budand. hastand is the present 'they are'."},
-    {"q": "'Two days ago' is…", "options": ["دو روز پیش", "دو روز بعد", "پیش دو روز"], "answer": 0, "explain": "pish (ago) comes after the amount of time: do ruz pish. do ruz ba'd is 'two days later'."}
+    {
+     "q": "'Yesterday I went to the bazaar.'",
+     "options": [
+      "دیروز به بازار می‌روم.",
+      "دیروز به بازار رفتم.",
+      "دیروز به بازار رفت."
+     ],
+     "answer": 1,
+     "explain": "Past stem raft + -am (I): raftam. raft alone means 'he / she went'."
+    },
+    {
+     "q": "Which word means 'the day before yesterday'?",
+     "options": [
+      "دیروز",
+      "پریروز",
+      "پارسال"
+     ],
+     "answer": 1,
+     "explain": "pariruz; diruz is yesterday and pārsāl last year."
+    },
+    {
+     "q": "The negative of خوردم is…",
+     "options": [
+      "نخوردم",
+      "نمی‌خوردم",
+      "خوردم نه"
+     ],
+     "answer": 0,
+     "explain": "na- + khordam. نمی‌خوردم is the negative past continuous ('I wasn't eating'), which comes at A2."
+    },
+    {
+     "q": "'They were at home.'",
+     "options": [
+      "خانه بودیم.",
+      "خانه بودند.",
+      "خانه هستند."
+     ],
+     "answer": 1,
+     "explain": "bud + -and (they): budand. hastand is the present 'they are'."
+    },
+    {
+     "q": "'Two days ago' is…",
+     "options": [
+      "دو روز پیش",
+      "دو روز بعد",
+      "پیش دو روز"
+     ],
+     "answer": 0,
+     "explain": "pish (ago) comes after the amount of time: do ruz pish. do ruz ba'd is 'two days later'."
+    }
    ]
   },
   {
@@ -198,11 +868,41 @@
    "kind": "fill",
    "title": "Complete with the past",
    "items": [
-    {"fa": "دیشب پیتزا ___.", "r": "dishab pitzā ___.", "en": "Last night we had pizza.", "answer": "خوردیم", "hint": "khordan, we"},
-    {"fa": "دیروز خیلی خسته ___.", "r": "diruz kheyli khaste ___.", "en": "Yesterday I was very tired.", "answer": "بودم", "hint": "budan, I"},
-    {"fa": "هفته‌ی ___ به شیراز رفتیم.", "r": "hafte-ye ___ be Shirāz raftim.", "en": "Last week we went to Shiraz.", "answer": "پیش", "hint": "last, ago"},
-    {"fa": "مینا دیروز سر کار ___.", "r": "Minā diruz sar-e kār ___.", "en": "Mina wasn't at work yesterday.", "answer": "نبود", "hint": "budan, she, negative"},
-    {"fa": "تام یک فرش ___.", "r": "Tām yek farsh ___.", "en": "Tom bought a carpet.", "answer": "خرید", "hint": "kharidan, he"}
+    {
+     "fa": "دیشب پیتزا ___.",
+     "r": "dishab pitzā ___.",
+     "en": "Last night we had pizza.",
+     "answer": "خوردیم",
+     "hint": "khordan, we"
+    },
+    {
+     "fa": "دیروز خیلی خسته ___.",
+     "r": "diruz kheyli khaste ___.",
+     "en": "Yesterday I was very tired.",
+     "answer": "بودم",
+     "hint": "budan, I"
+    },
+    {
+     "fa": "هفته‌ی ___ به شیراز رفتیم.",
+     "r": "hafte-ye ___ be Shirāz raftim.",
+     "en": "Last week we went to Shiraz.",
+     "answer": "پیش",
+     "hint": "last, ago"
+    },
+    {
+     "fa": "مینا دیروز سر کار ___.",
+     "r": "Minā diruz sar-e kār ___.",
+     "en": "Mina wasn't at work yesterday.",
+     "answer": "نبود",
+     "hint": "budan, she, negative"
+    },
+    {
+     "fa": "تام یک فرش ___.",
+     "r": "Tām yek farsh ___.",
+     "en": "Tom bought a carpet.",
+     "answer": "خرید",
+     "hint": "kharidan, he"
+    }
    ]
   },
   {
@@ -210,10 +910,34 @@
    "kind": "order",
    "title": "Put the words in order",
    "items": [
-    {"fa": "دیروز به بازار رفتم.", "r": "diruz be bāzār raftam.", "en": "Yesterday I went to the bazaar."},
-    {"fa": "دیشب شام نخوردم.", "r": "dishab shām na-khordam.", "en": "I didn't have dinner last night."},
-    {"fa": "پارسال به اصفهان رفتند.", "r": "pārsāl be Esfahān raftand.", "en": "Last year they went to Isfahan."},
-    {"fa": "دیروز هوا سرد بود.", "r": "diruz havā sard bud.", "en": "Yesterday it was cold."}
+    {
+     "fa": "دیروز به بازار رفتم.",
+     "r": "diruz be bāzār raftam.",
+     "en": "Yesterday I went to the bazaar.",
+     "faV": "دیروز به بازار رَفتَم.",
+     "a": "49627cf2322c"
+    },
+    {
+     "fa": "دیشب شام نخوردم.",
+     "r": "dishab shām na-khordam.",
+     "en": "I didn't have dinner last night.",
+     "faV": "دیشَب شام نَخوردَم.",
+     "a": "a105400421c9"
+    },
+    {
+     "fa": "پارسال به اصفهان رفتند.",
+     "r": "pārsāl be Esfahān raftand.",
+     "en": "Last year they went to Isfahan.",
+     "faV": "پارسال به اِصفَهان رَفتَند.",
+     "a": "60209542b636"
+    },
+    {
+     "fa": "دیروز هوا سرد بود.",
+     "r": "diruz havā sard bud.",
+     "en": "Yesterday it was cold.",
+     "faV": "دیروز هَوا سَرد بود.",
+     "a": "48cd4a3907df"
+    }
    ]
   },
   {
@@ -221,9 +945,45 @@
    "kind": "listen",
    "title": "Listen and choose",
    "items": [
-    {"fa": "کجا بودی؟", "r": "kojā budi?", "en": "Where were you?", "options": ["Where are you?", "Where were you?", "Where did you go?"], "answer": 1},
-    {"fa": "خوش گذشت؟", "r": "khosh gozasht?", "en": "Did you have a good time?", "options": ["Did you have a good time?", "Did you eat?", "Are you happy?"], "answer": 0},
-    {"fa": "دیروز نیامدند.", "r": "diruz na-yāmadand.", "en": "They didn't come yesterday.", "options": ["They came yesterday.", "They didn't come yesterday.", "They're coming tomorrow."], "answer": 1}
+    {
+     "fa": "کجا بودی؟",
+     "r": "kojā budi?",
+     "en": "Where were you?",
+     "options": [
+      "Where are you?",
+      "Where were you?",
+      "Where did you go?"
+     ],
+     "answer": 1,
+     "faV": "کُجا بودی؟",
+     "a": "76b37f1758bd"
+    },
+    {
+     "fa": "خوش گذشت؟",
+     "r": "khosh gozasht?",
+     "en": "Did you have a good time?",
+     "options": [
+      "Did you have a good time?",
+      "Did you eat?",
+      "Are you happy?"
+     ],
+     "answer": 0,
+     "faV": "خوش گُذَشت؟",
+     "a": "31da4e39c974"
+    },
+    {
+     "fa": "دیروز نیامدند.",
+     "r": "diruz na-yāmadand.",
+     "en": "They didn't come yesterday.",
+     "options": [
+      "They came yesterday.",
+      "They didn't come yesterday.",
+      "They're coming tomorrow."
+     ],
+     "answer": 1,
+     "faV": "دیروز نَیامَدَند.",
+     "a": "aa3331be35f1"
+    }
    ]
   },
   {
@@ -231,11 +991,37 @@
    "kind": "translate",
    "title": "Say it in Persian",
    "items": [
-    {"en": "Yesterday we went to the mountains.", "fa": "دیروز به کوه رفتیم.", "r": "diruz be kuh raftim."},
-    {"en": "I didn't go to work; I was ill.", "fa": "سر کار نرفتم؛ مریض بودم.", "r": "sar-e kār na-raftam; mariz budam."},
-    {"en": "What did you do yesterday? (to a friend)", "fa": "دیروز چه کار کردی؟", "r": "diruz che kār kardi?"},
-    {"en": "When did you arrive in Tehran?", "fa": "کی به تهران رسیدی؟", "r": "key be Tehrān residi?"}
+    {
+     "en": "Yesterday we went to the mountains.",
+     "fa": "دیروز به کوه رفتیم.",
+     "r": "diruz be kuh raftim.",
+     "faV": "دیروز به کوه رَفتیم.",
+     "a": "4bca375b0578"
+    },
+    {
+     "en": "I didn't go to work; I was ill.",
+     "fa": "سر کار نرفتم؛ مریض بودم.",
+     "r": "sar-e kār na-raftam; mariz budam.",
+     "faV": "سَرِ کار نَرَفتَم؛ مَریض بودَم.",
+     "a": "dd401599cf65"
+    },
+    {
+     "en": "What did you do yesterday? (to a friend)",
+     "fa": "دیروز چه کار کردی؟",
+     "r": "diruz che kār kardi?",
+     "faV": "دیروز چه کار کَردی؟",
+     "a": "f1e72a41253e"
+    },
+    {
+     "en": "When did you arrive in Tehran?",
+     "fa": "کی به تهران رسیدی؟",
+     "r": "key be Tehrān residi?",
+     "faV": "کَی به تِهران رِسیدی؟",
+     "a": "d58a232dcd8a"
+    }
    ]
   }
- ]
+ ],
+ "titleV": "دیروز چه کار کَردی؟",
+ "titleA": "f1e72a41253e"
 }

@@ -32,36 +32,205 @@
   }
  ],
  "sentences": [
-  {"fa": "کوروش بزرگ بنیان‌گذار شاهنشاهی هخامنشی بود.", "r": "Kurosh-e Bozorg bonyān-gozār-e shāhanshāhi-ye Hakhāmaneshi bud.", "en": "Cyrus the Great was the founder of the Achaemenid Empire."},
-  {"fa": "او در سال ۵۵۰ پیش از میلاد پادشاه مادها را شکست داد.", "r": "u dar sāl-e pānsad-o-panjāh pish az milād pādshāh-e Mād-hā rā shekast dād.", "en": "In 550 BC he defeated the king of the Medes."},
-  {"fa": "سپاه کوروش در سال ۵۳۹ پیش از میلاد وارد بابل شد.", "r": "sepāh-e Kurosh dar sāl-e pānsad-o-si-o-noh pish az milād vāred-e Bābel shod.", "en": "Cyrus's army entered Babylon in 539 BC."},
-  {"fa": "منشور کوروش روی یک استوانه‌ی گلی نوشته شده است.", "r": "manshur-e Kurosh ru-ye yek ostovāne-ye geli neveshte shode ast.", "en": "The Cyrus Cylinder is written on a cylinder of clay.", "lit": "the Charter of Cyrus has been written on a clay cylinder"},
-  {"fa": "این استوانه امروز در موزه‌ی بریتانیا در لندن است.", "r": "in ostovāne emruz dar muze-ye Beritāniyā dar Landan ast.", "en": "Today the cylinder is in the British Museum in London."},
-  {"fa": "داریوش کشور را به چند استان بزرگ تقسیم کرد.", "r": "Dāriush keshvar rā be chand ostān-e bozorg taghsim kard.", "en": "Darius divided the country into several large provinces."},
-  {"fa": "چاپارها نامه‌های شاه را با اسب به سرعت می‌بردند.", "r": "chāpār-hā nāme-hā-ye shāh rā bā asb be sor'at mi-bordand.", "en": "Couriers carried the king's letters quickly on horseback."},
-  {"fa": "خشایارشا پسر داریوش بود و با یونانیان جنگید.", "r": "Khashāyārshā pesar-e Dāriush bud va bā yunāniyān jangid.", "en": "Xerxes was the son of Darius and fought against the Greeks."},
-  {"fa": "اسکندر مقدونی در سال ۳۳۰ پیش از میلاد به این شاهنشاهی پایان داد.", "r": "Eskandar-e Maghduni dar sāl-e sisad-o-si pish az milād be in shāhanshāhi pāyān dād.", "en": "Alexander of Macedon brought this empire to an end in 330 BC."},
-  {"fa": "آرامگاه کوروش در پاسارگاد در استان فارس است.", "r": "ārāmgāh-e Kurosh dar Pāsārgād dar ostān-e Fārs ast.", "en": "Cyrus's tomb is at Pasargadae in Fars province."},
-  {"fa": "بسیاری از ایرانیان کوروش را پدر ایران می‌دانند.", "r": "besyāri az irāniyān Kurosh rā pedar-e Irān mi-dānand.", "en": "Many Iranians regard Cyrus as the father of Iran."}
+  {
+   "fa": "کوروش بزرگ بنیان‌گذار شاهنشاهی هخامنشی بود.",
+   "r": "Kurosh-e Bozorg bonyān-gozār-e shāhanshāhi-ye Hakhāmaneshi bud.",
+   "en": "Cyrus the Great was the founder of the Achaemenid Empire.",
+   "faV": "کوروشِ بُزُرگ بُنیان‌گُذارِ شاهَنشاهیِ هَخامَنِشی بود.",
+   "a": "2fbe05e145bd"
+  },
+  {
+   "fa": "او در سال ۵۵۰ پیش از میلاد پادشاه مادها را شکست داد.",
+   "r": "u dar sāl-e pānsad-o-panjāh pish az milād pādshāh-e Mād-hā rā shekast dād.",
+   "en": "In 550 BC he defeated the king of the Medes.",
+   "faV": "او دَر سالِ ۵۵۰ پیش اَز میلاد پادشاهِ مادها را شِکَست داد.",
+   "a": "0da71f922ff3"
+  },
+  {
+   "fa": "سپاه کوروش در سال ۵۳۹ پیش از میلاد وارد بابل شد.",
+   "r": "sepāh-e Kurosh dar sāl-e pānsad-o-si-o-noh pish az milād vāred-e Bābel shod.",
+   "en": "Cyrus's army entered Babylon in 539 BC.",
+   "faV": "سِپاهِ کوروش دَر سالِ ۵۳۹ پیش اَز میلاد وارِدِ بابِل شُد.",
+   "a": "57ea8904c31c"
+  },
+  {
+   "fa": "منشور کوروش روی یک استوانه‌ی گلی نوشته شده است.",
+   "r": "manshur-e Kurosh ru-ye yek ostovāne-ye geli neveshte shode ast.",
+   "en": "The Cyrus Cylinder is written on a cylinder of clay.",
+   "lit": "the Charter of Cyrus has been written on a clay cylinder",
+   "faV": "مَنشورِ کوروش رویِ یِک اُستُوانه‌یِ گِلی نِوِشته شُده اَست.",
+   "a": "702bb79c231e"
+  },
+  {
+   "fa": "این استوانه امروز در موزه‌ی بریتانیا در لندن است.",
+   "r": "in ostovāne emruz dar muze-ye Beritāniyā dar Landan ast.",
+   "en": "Today the cylinder is in the British Museum in London.",
+   "faV": "این اُستُوانه اِمروز دَر موزه‌یِ بِریتانیا دَر لَندَن اَست.",
+   "a": "b7a6c80c56ab"
+  },
+  {
+   "fa": "داریوش کشور را به چند استان بزرگ تقسیم کرد.",
+   "r": "Dāriush keshvar rā be chand ostān-e bozorg taghsim kard.",
+   "en": "Darius divided the country into several large provinces.",
+   "faV": "داریوش کِشوَر را به چَند اُستانِ بُزُرگ تَقسیم کَرد.",
+   "a": "2e4b60870a8f"
+  },
+  {
+   "fa": "چاپارها نامه‌های شاه را با اسب به سرعت می‌بردند.",
+   "r": "chāpār-hā nāme-hā-ye shāh rā bā asb be sor'at mi-bordand.",
+   "en": "Couriers carried the king's letters quickly on horseback.",
+   "faV": "چاپارها نامه‌هایِ شاه را با اَسب به سُرعَت می‌بُردَند.",
+   "a": "e1e0e48f9300"
+  },
+  {
+   "fa": "خشایارشا پسر داریوش بود و با یونانیان جنگید.",
+   "r": "Khashāyārshā pesar-e Dāriush bud va bā yunāniyān jangid.",
+   "en": "Xerxes was the son of Darius and fought against the Greeks.",
+   "faV": "خَشایارشا پِسَرِ داریوش بود و با یونانیان جَنگید.",
+   "a": "058c7dd51235"
+  },
+  {
+   "fa": "اسکندر مقدونی در سال ۳۳۰ پیش از میلاد به این شاهنشاهی پایان داد.",
+   "r": "Eskandar-e Maghduni dar sāl-e sisad-o-si pish az milād be in shāhanshāhi pāyān dād.",
+   "en": "Alexander of Macedon brought this empire to an end in 330 BC.",
+   "faV": "اِسکَندَرِ مَقدونی دَر سالِ ۳۳۰ پیش اَز میلاد به این شاهَنشاهی پایان داد.",
+   "a": "13524cb3b6a0"
+  },
+  {
+   "fa": "آرامگاه کوروش در پاسارگاد در استان فارس است.",
+   "r": "ārāmgāh-e Kurosh dar Pāsārgād dar ostān-e Fārs ast.",
+   "en": "Cyrus's tomb is at Pasargadae in Fars province.",
+   "faV": "آرامگاهِ کوروش دَر پاسارگاد دَر اُستانِ فارس اَست.",
+   "a": "901c6b619387"
+  },
+  {
+   "fa": "بسیاری از ایرانیان کوروش را پدر ایران می‌دانند.",
+   "r": "besyāri az irāniyān Kurosh rā pedar-e Irān mi-dānand.",
+   "en": "Many Iranians regard Cyrus as the father of Iran.",
+   "faV": "بِسیاری اَز ایرانیان کوروش را پِدَرِ ایران می‌دانَند.",
+   "a": "39af070c9b71"
+  }
  ],
  "vocab": [
-  {"fa": "شاهنشاهی", "r": "shāhanshāhi", "en": "empire (lit. 'rule of the king of kings')"},
-  {"fa": "شاهنشاه", "r": "shāhanshāh", "en": "king of kings, emperor"},
-  {"fa": "پادشاه", "r": "pādshāh", "en": "king"},
-  {"fa": "بنیان‌گذار", "r": "bonyān-gozār", "en": "founder"},
-  {"fa": "پیش از میلاد", "r": "pish az milād", "en": "BC (lit. 'before the birth' of Christ)"},
-  {"fa": "شکست دادن", "r": "shekast dādan", "en": "to defeat"},
-  {"fa": "سپاه", "r": "sepāh", "en": "army"},
-  {"fa": "استوانه", "r": "ostovāne", "en": "cylinder"},
-  {"fa": "منشور", "r": "manshur", "en": "charter, proclamation"},
-  {"fa": "کتیبه", "r": "katibe", "en": "inscription"},
-  {"fa": "استان", "r": "ostān", "en": "province"},
-  {"fa": "تقسیم کردن", "r": "taghsim kardan", "en": "to divide"},
-  {"fa": "چاپار", "r": "chāpār", "en": "courier, mounted messenger"},
-  {"fa": "سکه", "r": "sekke", "en": "coin"},
-  {"fa": "آرامگاه", "r": "ārāmgāh", "en": "tomb, mausoleum"},
-  {"fa": "مدارا", "r": "modārā", "en": "tolerance"},
-  {"fa": "جنگیدن", "r": "jangidan", "en": "to fight"}
+  {
+   "fa": "شاهنشاهی",
+   "r": "shāhanshāhi",
+   "en": "empire (lit. 'rule of the king of kings')",
+   "faV": "شاهَنشاهی",
+   "a": "482cd53501c3"
+  },
+  {
+   "fa": "شاهنشاه",
+   "r": "shāhanshāh",
+   "en": "king of kings, emperor",
+   "faV": "شاهَنشاه",
+   "a": "52509610fa2c"
+  },
+  {
+   "fa": "پادشاه",
+   "r": "pādshāh",
+   "en": "king",
+   "faV": "پادشاه",
+   "a": "9f02731db003"
+  },
+  {
+   "fa": "بنیان‌گذار",
+   "r": "bonyān-gozār",
+   "en": "founder",
+   "faV": "بُنیان‌گُذار",
+   "a": "f94e015e867e"
+  },
+  {
+   "fa": "پیش از میلاد",
+   "r": "pish az milād",
+   "en": "BC (lit. 'before the birth' of Christ)",
+   "faV": "پیش اَز میلاد",
+   "a": "64c1eebf1fc1"
+  },
+  {
+   "fa": "شکست دادن",
+   "r": "shekast dādan",
+   "en": "to defeat",
+   "faV": "شِکَست دادَن",
+   "a": "8c56370d007c"
+  },
+  {
+   "fa": "سپاه",
+   "r": "sepāh",
+   "en": "army",
+   "faV": "سِپاه",
+   "a": "a9a5d0ac6eb8"
+  },
+  {
+   "fa": "استوانه",
+   "r": "ostovāne",
+   "en": "cylinder",
+   "faV": "اُستُوانه",
+   "a": "e841f5d8f85f"
+  },
+  {
+   "fa": "منشور",
+   "r": "manshur",
+   "en": "charter, proclamation",
+   "faV": "مَنشور",
+   "a": "4eea06b7e0f6"
+  },
+  {
+   "fa": "کتیبه",
+   "r": "katibe",
+   "en": "inscription",
+   "faV": "کَتیبه",
+   "a": "11260b2b9be2"
+  },
+  {
+   "fa": "استان",
+   "r": "ostān",
+   "en": "province",
+   "faV": "اُستان",
+   "a": "73cb885dea3c"
+  },
+  {
+   "fa": "تقسیم کردن",
+   "r": "taghsim kardan",
+   "en": "to divide",
+   "faV": "تَقسیم کَردَن",
+   "a": "6cf81f753e42"
+  },
+  {
+   "fa": "چاپار",
+   "r": "chāpār",
+   "en": "courier, mounted messenger",
+   "faV": "چاپار",
+   "a": "685a976e2145"
+  },
+  {
+   "fa": "سکه",
+   "r": "sekke",
+   "en": "coin",
+   "faV": "سِکّه",
+   "a": "0f9f6fa03f07"
+  },
+  {
+   "fa": "آرامگاه",
+   "r": "ārāmgāh",
+   "en": "tomb, mausoleum",
+   "faV": "آرامگاه",
+   "a": "0acb7fd637bb"
+  },
+  {
+   "fa": "مدارا",
+   "r": "modārā",
+   "en": "tolerance",
+   "faV": "مُدارا",
+   "a": "de46c7b59c0d"
+  },
+  {
+   "fa": "جنگیدن",
+   "r": "jangidan",
+   "en": "to fight",
+   "faV": "جَنگیدَن",
+   "a": "db2d5a3613be"
+  }
  ],
  "facts": [
   "Cyrus became king of Anshan around 559 BC; the empire he founded lasted until 330 BC, more than two centuries.",
@@ -71,5 +240,7 @@
   "Herodotus's praise of the Persian royal couriers – 'neither snow nor rain nor heat nor gloom of night' stops them – is carved over the main post office in New York.",
   "Pasargadae, with the tomb of Cyrus, has been a UNESCO World Heritage site since 2004.",
   "The name 'Achaemenid' comes from Achaemenes (Hakhāmanesh), the legendary founder of Cyrus's family."
- ]
+ ],
+ "titleV": "کوروش و هَخامَنِشیان",
+ "titleA": "fbdd113fce29"
 }

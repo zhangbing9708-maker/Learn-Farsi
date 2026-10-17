@@ -283,10 +283,10 @@ The word آش (*āsh*) is old; it gave Persian its words for cook, آشپز (*ā
 
 **Put the words in order**
 
-1. بنشینید. / لطفاً / این‌جا — Please sit here.
-2. را / نکن. / کلیدها / فراموش — Don't forget the keys.
-3. بگذار / ساعت / بپزد. / یک — Let it cook for an hour.
-4. آب / لیوان / را / کن. / زیرش / روشن / و / دو / بریز — Pour in two glasses of water and turn on the heat under it.
+1. این‌جا / لطفاً / بنشینید. — Please sit here.
+2. را / کلیدها / نکن. / فراموش — Don't forget the keys.
+3. بپزد. / یک / بگذار / ساعت — Let it cook for an hour.
+4. زیرش / و / روشن / را / آب / کن. / دو / بریز / لیوان — Pour in two glasses of water and turn on the heat under it.
 
 <details><summary>Answers</summary>
 

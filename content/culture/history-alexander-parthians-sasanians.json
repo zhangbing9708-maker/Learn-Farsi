@@ -32,37 +32,211 @@
   }
  ],
  "sentences": [
-  {"fa": "اسکندر مقدونی شاهنشاهی هخامنشی را شکست داد.", "r": "Eskandar-e Maghduni shāhanshāhi-ye Hakhāmaneshi rā shekast dād.", "en": "Alexander of Macedon defeated the Achaemenid Empire."},
-  {"fa": "در شاهنامه، اسکندر یک شاهزاده‌ی ایرانی است.", "r": "dar Shāhnāme, Eskandar yek shāhzāde-ye irāni ast.", "en": "In the Shahnameh, Alexander is an Iranian prince."},
-  {"fa": "اشکانیان نزدیک به پانصد سال بر ایران حکومت کردند.", "r": "Ashkāniyān nazdik be pānsad sāl bar Irān hokumat kardand.", "en": "The Parthians ruled Iran for nearly five hundred years."},
-  {"fa": "سواران اشکانی تیراندازان بسیار ماهری بودند.", "r": "savārān-e Ashkāni tir-andāzān-e besyār māher-i budand.", "en": "The Parthian horsemen were very skilful archers."},
-  {"fa": "اردشیر بابکان در سال ۲۲۴ میلادی شاهنشاهی ساسانی را بنیان گذاشت.", "r": "Ardeshir-e Bābakān dar sāl-e devist-o-bist-o-chahār-e milādi shāhanshāhi-ye Sāsāni rā bonyān gozāsht.", "en": "Ardashir son of Babak founded the Sasanian Empire in AD 224."},
-  {"fa": "ساسانیان کشورشان را «ایرانشهر» می‌نامیدند.", "r": "Sāsāniyān keshvar-eshān rā «Irānshahr» mi-nāmidand.", "en": "The Sasanians called their country Iranshahr."},
-  {"fa": "شاپور یکم امپراتور روم را اسیر کرد.", "r": "Shāpur-e yekom emperātur-e Rum rā asir kard.", "en": "Shapur I took the Roman emperor prisoner."},
-  {"fa": "انوشیروان در ادبیات فارسی نماد عدالت است.", "r": "Anushirvān dar adabiyāt-e fārsi namād-e edālat ast.", "en": "In Persian literature, Anushirvan is the symbol of justice."},
-  {"fa": "شطرنج در زمان ساسانیان از هند به ایران آمد.", "r": "shatranj dar zamān-e Sāsāniyān az Hend be Irān āmad.", "en": "Chess came to Iran from India in Sasanian times."},
-  {"fa": "طاق کسری هنوز در نزدیکی بغداد ایستاده است.", "r": "Tāgh-e Kasrā hanuz dar nazdiki-ye Baghdād istāde ast.", "en": "The Arch of Khosrow still stands near Baghdad."},
-  {"fa": "آخرین شاه ساسانی یزدگرد سوم بود.", "r": "ākharin shāh-e Sāsāni Yazdegerd-e sevvom bud.", "en": "The last Sasanian king was Yazdegerd III."},
-  {"fa": "فارسی امروز از زبان پهلوی ساسانیان آمده است.", "r": "fārsi-ye emruz az zabān-e pahlavi-ye Sāsāniyān āmade ast.", "en": "Today's Persian comes from the Pahlavi language of the Sasanians."}
+  {
+   "fa": "اسکندر مقدونی شاهنشاهی هخامنشی را شکست داد.",
+   "r": "Eskandar-e Maghduni shāhanshāhi-ye Hakhāmaneshi rā shekast dād.",
+   "en": "Alexander of Macedon defeated the Achaemenid Empire.",
+   "faV": "اِسکَندَرِ مَقدونی شاهَنشاهیِ هَخامَنِشی را شِکَست داد.",
+   "a": "fb6540fe7771"
+  },
+  {
+   "fa": "در شاهنامه، اسکندر یک شاهزاده‌ی ایرانی است.",
+   "r": "dar Shāhnāme, Eskandar yek shāhzāde-ye irāni ast.",
+   "en": "In the Shahnameh, Alexander is an Iranian prince.",
+   "faV": "دَر شاهنامه، اِسکَندَر یِک شاهزاده‌یِ ایرانی اَست.",
+   "a": "663ae9ad2ba4"
+  },
+  {
+   "fa": "اشکانیان نزدیک به پانصد سال بر ایران حکومت کردند.",
+   "r": "Ashkāniyān nazdik be pānsad sāl bar Irān hokumat kardand.",
+   "en": "The Parthians ruled Iran for nearly five hundred years.",
+   "faV": "اَشکانیان نَزدیک به پانصَد سال بَر ایران حُکومَت کَردَند.",
+   "a": "755f912310b1"
+  },
+  {
+   "fa": "سواران اشکانی تیراندازان بسیار ماهری بودند.",
+   "r": "savārān-e Ashkāni tir-andāzān-e besyār māher-i budand.",
+   "en": "The Parthian horsemen were very skilful archers.",
+   "faV": "سَوارانِ اَشکانی تیراَندازانِ بِسیار ماهِری بودَند.",
+   "a": "4bc3c33a5488"
+  },
+  {
+   "fa": "اردشیر بابکان در سال ۲۲۴ میلادی شاهنشاهی ساسانی را بنیان گذاشت.",
+   "r": "Ardeshir-e Bābakān dar sāl-e devist-o-bist-o-chahār-e milādi shāhanshāhi-ye Sāsāni rā bonyān gozāsht.",
+   "en": "Ardashir son of Babak founded the Sasanian Empire in AD 224.",
+   "faV": "اَردِشیرِ بابَکان دَر سالِ ۲۲۴ میلادی شاهَنشاهیِ ساسانی را بُنیان گُذاشت.",
+   "a": "c6b993c3c8a6"
+  },
+  {
+   "fa": "ساسانیان کشورشان را «ایرانشهر» می‌نامیدند.",
+   "r": "Sāsāniyān keshvar-eshān rā «Irānshahr» mi-nāmidand.",
+   "en": "The Sasanians called their country Iranshahr.",
+   "faV": "ساسانیان کِشوَرِشان را «ایرانشَهر» می‌نامیدَند.",
+   "a": "dbd2e8611b63"
+  },
+  {
+   "fa": "شاپور یکم امپراتور روم را اسیر کرد.",
+   "r": "Shāpur-e yekom emperātur-e Rum rā asir kard.",
+   "en": "Shapur I took the Roman emperor prisoner.",
+   "faV": "شاپورِ یِکُم اِمپِراتورِ روم را اَسیر کَرد.",
+   "a": "34cd5ac2b604"
+  },
+  {
+   "fa": "انوشیروان در ادبیات فارسی نماد عدالت است.",
+   "r": "Anushirvān dar adabiyāt-e fārsi namād-e edālat ast.",
+   "en": "In Persian literature, Anushirvan is the symbol of justice.",
+   "faV": "اَنوشیروان دَر اَدَبیاتِ فارسی نَمادِ عِدالَت اَست.",
+   "a": "a3145a7fa2cb"
+  },
+  {
+   "fa": "شطرنج در زمان ساسانیان از هند به ایران آمد.",
+   "r": "shatranj dar zamān-e Sāsāniyān az Hend be Irān āmad.",
+   "en": "Chess came to Iran from India in Sasanian times.",
+   "faV": "شَطرَنج دَر زَمانِ ساسانیان اَز هِند به ایران آمَد.",
+   "a": "56828c312b6c"
+  },
+  {
+   "fa": "طاق کسری هنوز در نزدیکی بغداد ایستاده است.",
+   "r": "Tāgh-e Kasrā hanuz dar nazdiki-ye Baghdād istāde ast.",
+   "en": "The Arch of Khosrow still stands near Baghdad.",
+   "faV": "طاقِ کَسری هَنوز دَر نَزدیکیِ بَغداد ایستاده اَست.",
+   "a": "2896fce4bbde"
+  },
+  {
+   "fa": "آخرین شاه ساسانی یزدگرد سوم بود.",
+   "r": "ākharin shāh-e Sāsāni Yazdegerd-e sevvom bud.",
+   "en": "The last Sasanian king was Yazdegerd III.",
+   "faV": "آخَرین شاهِ ساسانی یَزدِگِردِ سِوُّم بود.",
+   "a": "3e71c8032605"
+  },
+  {
+   "fa": "فارسی امروز از زبان پهلوی ساسانیان آمده است.",
+   "r": "fārsi-ye emruz az zabān-e pahlavi-ye Sāsāniyān āmade ast.",
+   "en": "Today's Persian comes from the Pahlavi language of the Sasanians.",
+   "faV": "فارسیِ اِمروز اَز زَبانِ پَهلَویِ ساسانیان آمَده اَست.",
+   "a": "6176e5267c79"
+  }
  ],
  "vocab": [
-  {"fa": "سلسله", "r": "selsele", "en": "dynasty"},
-  {"fa": "اشکانیان", "r": "Ashkāniyān", "en": "the Arsacids (Parthians)"},
-  {"fa": "ساسانیان", "r": "Sāsāniyān", "en": "the Sasanians"},
-  {"fa": "حکومت کردن", "r": "hokumat kardan", "en": "to rule, govern"},
-  {"fa": "امپراتور", "r": "emperātur", "en": "emperor"},
-  {"fa": "اسیر", "r": "asir", "en": "captive, prisoner"},
-  {"fa": "سوار", "r": "savār", "en": "rider, horseman; mounted"},
-  {"fa": "تیرانداز", "r": "tir-andāz", "en": "archer"},
-  {"fa": "تیر و کمان", "r": "tir o kamān", "en": "bow and arrow"},
-  {"fa": "پایتخت", "r": "pāytakht", "en": "capital city"},
-  {"fa": "طاق", "r": "tāgh", "en": "arch, vault"},
-  {"fa": "عدالت", "r": "edālat", "en": "justice"},
-  {"fa": "شطرنج", "r": "shatranj", "en": "chess"},
-  {"fa": "نرد", "r": "nard", "en": "backgammon"},
-  {"fa": "دین رسمی", "r": "din-e rasmi", "en": "official religion"},
-  {"fa": "شاهزاده", "r": "shāhzāde", "en": "prince"},
-  {"fa": "شکست خوردن", "r": "shekast khordan", "en": "to be defeated"}
+  {
+   "fa": "سلسله",
+   "r": "selsele",
+   "en": "dynasty",
+   "faV": "سِلسِله",
+   "a": "ed10c0cacc2c"
+  },
+  {
+   "fa": "اشکانیان",
+   "r": "Ashkāniyān",
+   "en": "the Arsacids (Parthians)",
+   "faV": "اَشکانیان",
+   "a": "82996de2efdf"
+  },
+  {
+   "fa": "ساسانیان",
+   "r": "Sāsāniyān",
+   "en": "the Sasanians",
+   "faV": "ساسانیان",
+   "a": "2afbafe4883a"
+  },
+  {
+   "fa": "حکومت کردن",
+   "r": "hokumat kardan",
+   "en": "to rule, govern",
+   "faV": "حُکومَت کَردَن",
+   "a": "ea8c2f8ca2e0"
+  },
+  {
+   "fa": "امپراتور",
+   "r": "emperātur",
+   "en": "emperor",
+   "faV": "اِمپِراتور",
+   "a": "b8148789e924"
+  },
+  {
+   "fa": "اسیر",
+   "r": "asir",
+   "en": "captive, prisoner",
+   "faV": "اَسیر",
+   "a": "c619abb1f71d"
+  },
+  {
+   "fa": "سوار",
+   "r": "savār",
+   "en": "rider, horseman; mounted",
+   "faV": "سَوار",
+   "a": "c0d091c8dc1b"
+  },
+  {
+   "fa": "تیرانداز",
+   "r": "tir-andāz",
+   "en": "archer",
+   "faV": "تیراَنداز",
+   "a": "cf2884bdb1a2"
+  },
+  {
+   "fa": "تیر و کمان",
+   "r": "tir o kamān",
+   "en": "bow and arrow",
+   "faV": "تیر و کَمان",
+   "a": "20e825e4a4e7"
+  },
+  {
+   "fa": "پایتخت",
+   "r": "pāytakht",
+   "en": "capital city",
+   "faV": "پایتَخت",
+   "a": "cc64448038c2"
+  },
+  {
+   "fa": "طاق",
+   "r": "tāgh",
+   "en": "arch, vault",
+   "faV": "طاق",
+   "a": "a4b11032d073"
+  },
+  {
+   "fa": "عدالت",
+   "r": "edālat",
+   "en": "justice",
+   "faV": "عِدالَت",
+   "a": "2c42f24fc8be"
+  },
+  {
+   "fa": "شطرنج",
+   "r": "shatranj",
+   "en": "chess",
+   "faV": "شَطرَنج",
+   "a": "918d6208ee56"
+  },
+  {
+   "fa": "نرد",
+   "r": "nard",
+   "en": "backgammon",
+   "faV": "نَرد",
+   "a": "d8cfd2e4729e"
+  },
+  {
+   "fa": "دین رسمی",
+   "r": "din-e rasmi",
+   "en": "official religion",
+   "faV": "دینِ رَسمی",
+   "a": "785d87f4c745"
+  },
+  {
+   "fa": "شاهزاده",
+   "r": "shāhzāde",
+   "en": "prince",
+   "faV": "شاهزاده",
+   "a": "0fa9a01a6254"
+  },
+  {
+   "fa": "شکست خوردن",
+   "r": "shekast khordan",
+   "en": "to be defeated",
+   "faV": "شِکَست خوردَن",
+   "a": "62c35919624b"
+  }
  ],
  "facts": [
   "The Parthian dynasty lasted about 470 years (c. 247 BC – AD 224), the longest of any Iranian dynasty.",
@@ -72,5 +246,7 @@
   "The Sasanians' name for their realm, Ērānšahr ('land of the Iranians'), lies behind the modern name of the country, Iran.",
   "Chess reached Iran from India in the 6th century; English 'checkmate' comes from Persian shāh māt and 'rook' from rokh.",
   "Arab writers called the Battle of Nahavand (642) 'the victory of victories'."
- ]
+ ],
+ "titleV": "اِسکَندَر، اَشکانیان و ساسانیان",
+ "titleA": "91d9233c8ca4"
 }
