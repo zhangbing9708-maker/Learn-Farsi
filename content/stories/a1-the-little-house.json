@@ -1,0 +1,291 @@
+{
+ "id": "a1-the-little-house",
+ "level": "A1",
+ "kind": "everyday life",
+ "title": "The little house",
+ "titleFa": "خانه‌ی کوچک",
+ "titleR": "khāne-ye kuchak",
+ "image": "masuleh",
+ "intro": "Reza's grandparents live in a little old house in Masuleh, a mountain village in Gilan, in the green north of Iran. The story practises describing a home: rooms, colours, 'there is' (هست) and 'has' (دارد), and the ezafe that links a noun to the words after it (خانه‌ی بالایی, 'the house above'). Look out for the strange thing about the roofs of Masuleh.",
+ "source": "An original story for this course.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "این خانه‌ی پدربزرگ و مادربزرگ رضا است.",
+     "r": "in khāne-ye pedar-bozorg o mādar-bozorg-e Rezā ast.",
+     "en": "This is the house of Reza's grandfather and grandmother.",
+     "faV": "این خانه‌یِ پِدَربُزُرگ و مادَربُزُرگِ رِضا اَست.",
+     "a": "be7e4b8c669d"
+    },
+    {
+     "fa": "خانه کوچک و قدیمی است.",
+     "r": "khāne kuchak o ghadimi ast.",
+     "en": "The house is small and old.",
+     "faV": "خانه کوچَک و قَدیمی اَست.",
+     "a": "6bf41848d7a2"
+    },
+    {
+     "fa": "خانه در ماسوله است.",
+     "r": "khāne dar Māsule ast.",
+     "en": "The house is in Masuleh.",
+     "faV": "خانه دَر ماسوله اَست.",
+     "a": "7758f319010e"
+    },
+    {
+     "fa": "ماسوله یک روستا در کوه‌های شمال ایران است.",
+     "r": "Māsule yek rustā dar kuh-hā-ye shomāl-e Irān ast.",
+     "en": "Masuleh is a village in the mountains of northern Iran.",
+     "faV": "ماسوله یِک روستا دَر کوه‌هایِ شُمالِ ایران اَست.",
+     "a": "9d306d49208d"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "خانه دو اتاق و یک آشپزخانه دارد.",
+     "r": "khāne do otāgh o yek āshpaz-khāne dārad.",
+     "en": "The house has two rooms and a kitchen.",
+     "faV": "خانه دو اُتاق و یِک آشپَزخانه دارَد.",
+     "a": "a73fe7b5f875"
+    },
+    {
+     "fa": "دیوارهای خانه زرد هستند.",
+     "r": "divār-hā-ye khāne zard hastand.",
+     "en": "The walls of the house are yellow.",
+     "faV": "دیوارهایِ خانه زَرد هَستَند.",
+     "a": "956e8c0b2174"
+    },
+    {
+     "fa": "پنجره‌ها کوچک و چوبی هستند.",
+     "r": "panjare-hā kuchak o chubi hastand.",
+     "en": "The windows are small and made of wood.",
+     "faV": "پَنجَره‌ها کوچَک و چوبی هَستَند.",
+     "a": "9b52a549b269"
+    },
+    {
+     "fa": "در اتاق بزرگ، یک فرش قرمز و یک سماور هست.",
+     "r": "dar otāgh-e bozorg, yek farsh-e ghermez o yek samāvar hast.",
+     "en": "In the big room there is a red carpet and a samovar.",
+     "faV": "دَر اُتاقِ بُزُرگ، یِک فَرشِ قِرمِز و یِک سَماوَر هَست.",
+     "a": "d9968bff4e4f"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "بام خانه خیلی جالب است.",
+     "r": "bām-e khāne kheyli jāleb ast.",
+     "en": "The roof of the house is very interesting.",
+     "faV": "بامِ خانه خَیلی جالِب اَست.",
+     "a": "3a9b39823ff0"
+    },
+    {
+     "fa": "بام این خانه حیاط خانه‌ی بالایی است!",
+     "r": "bām-e in khāne hayāt-e khāne-ye bālāyi ast!",
+     "en": "The roof of this house is the yard of the house above!",
+     "faV": "بامِ این خانه حَیاطِ خانه‌یِ بالایی اَست!",
+     "a": "da28e948e88c"
+    },
+    {
+     "fa": "بچه‌ها روی بام بازی می‌کنند.",
+     "r": "bacche-hā ru-ye bām bāzi mi-konand.",
+     "en": "Children play on the roof.",
+     "faV": "بَچّه‌ها رویِ بام بازی می‌کُنَند.",
+     "a": "7d207cba0521"
+    },
+    {
+     "fa": "مردم هم روی بام راه می‌روند.",
+     "r": "mardom ham ru-ye bām rāh mi-ravand.",
+     "en": "People walk on the roof too.",
+     "faV": "مَردُم هَم رویِ بام راه می‌رَوَند.",
+     "a": "e1d4bb6455d0"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "رضا هر تابستان به ماسوله می‌آید.",
+     "r": "Rezā har tābestān be Māsule mi-āyad.",
+     "en": "Reza comes to Masuleh every summer.",
+     "faV": "رِضا هَر تابِستان به ماسوله می‌آیَد.",
+     "a": "587e5a1786b7"
+    },
+    {
+     "fa": "خانه کوچک است، اما دل مادربزرگ بزرگ است.",
+     "r": "khāne kuchak ast, ammā del-e mādar-bozorg bozorg ast.",
+     "en": "The house is small, but Grandmother's heart is big.",
+     "faV": "خانه کوچَک اَست، اَمّا دِلِ مادَربُزُرگ بُزُرگ اَست.",
+     "a": "43c3aeadf704"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "خانه",
+   "r": "khāne",
+   "en": "house, home",
+   "faV": "خانه",
+   "a": "1e0e4ac2e813"
+  },
+  {
+   "fa": "قدیمی",
+   "r": "ghadimi",
+   "en": "old (of things)",
+   "faV": "قَدیمی",
+   "a": "c8d4c8a09b8a"
+  },
+  {
+   "fa": "روستا",
+   "r": "rustā",
+   "en": "village",
+   "faV": "روستا",
+   "a": "e657e417499b"
+  },
+  {
+   "fa": "کوه",
+   "r": "kuh",
+   "en": "mountain",
+   "faV": "کوه",
+   "a": "dce9030c3b67"
+  },
+  {
+   "fa": "شمال",
+   "r": "shomāl",
+   "en": "north",
+   "faV": "شُمال",
+   "a": "a9f9760d31ed"
+  },
+  {
+   "fa": "اتاق",
+   "r": "otāgh",
+   "en": "room",
+   "faV": "اُتاق",
+   "a": "c53580fdf2e4"
+  },
+  {
+   "fa": "آشپزخانه",
+   "r": "āshpaz-khāne",
+   "en": "kitchen",
+   "faV": "آشپَزخانه",
+   "a": "9390963e9c61"
+  },
+  {
+   "fa": "دیوار",
+   "r": "divār",
+   "en": "wall",
+   "faV": "دیوار",
+   "a": "e96bf5776b53"
+  },
+  {
+   "fa": "زرد",
+   "r": "zard",
+   "en": "yellow",
+   "faV": "زَرد",
+   "a": "3c27f803b54a"
+  },
+  {
+   "fa": "پنجره",
+   "r": "panjare",
+   "en": "window",
+   "faV": "پَنجَره",
+   "a": "274d18068312"
+  },
+  {
+   "fa": "چوبی",
+   "r": "chubi",
+   "en": "wooden",
+   "faV": "چوبی",
+   "a": "50e21eed9374"
+  },
+  {
+   "fa": "سماور",
+   "r": "samāvar",
+   "en": "samovar (tea urn)",
+   "faV": "سَماوَر",
+   "a": "796eea281098"
+  },
+  {
+   "fa": "بام",
+   "r": "bām",
+   "en": "roof (flat roof)",
+   "faV": "بام",
+   "a": "09a8eaa8674d"
+  },
+  {
+   "fa": "حیاط",
+   "r": "hayāt",
+   "en": "yard, courtyard",
+   "faV": "حَیاط",
+   "a": "423af25d0b64"
+  },
+  {
+   "fa": "بالایی",
+   "r": "bālāyi",
+   "en": "upper, the one above",
+   "faV": "بالایی",
+   "a": "2ac7bf49e9a5"
+  },
+  {
+   "fa": "دل",
+   "r": "del",
+   "en": "heart",
+   "faV": "دِل",
+   "a": "e59afc2ec492"
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where is the little house?",
+   "options": [
+    "in Tehran",
+    "in a village in the mountains of northern Iran",
+    "by the sea in the south"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "How many rooms does the house have, apart from the kitchen?",
+   "options": [
+    "two",
+    "three",
+    "one"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What colour are the walls?",
+   "options": [
+    "white",
+    "blue",
+    "yellow"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What is special about the roof?",
+   "options": [
+    "it is red",
+    "it is the yard of the house above",
+    "it has a garden with trees"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "When does Reza come to Masuleh?",
+   "options": [
+    "every summer",
+    "every winter",
+    "only at Nowruz"
+   ],
+   "answer": 0
+  }
+ ],
+ "after": "Masuleh is built on a slope so steep that the flat roof of one house is the yard – or the street – of the house above, and people really do walk across their neighbours' roofs. Notice the two ways of saying 'there is': در اتاق بزرگ یک فرش قرمز هست 'in the big room there is a red carpet', and خانه دو اتاق دارد 'the house has two rooms' – Persian often says 'has' where English says 'there is'. The walls are plural but the verb could also be singular: with things (not people), Persian often uses a singular verb after a plural subject. And the family words are easy to build: پدربزرگ 'grandfather' is just پدر 'father' + بزرگ 'big', and مادربزرگ is 'big mother'.",
+ "titleV": "خانه‌یِ کوچَک",
+ "titleA": "961a384ab05e"
+}

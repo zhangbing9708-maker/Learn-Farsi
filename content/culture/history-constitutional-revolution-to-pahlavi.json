@@ -32,38 +32,218 @@
   }
  ],
  "sentences": [
-  {"fa": "انقلاب مشروطه در سال ۱۹۰۶ پیروز شد.", "r": "enghelāb-e mashrute dar sāl-e hezār-o-nohsad-o-shesh piruz shod.", "en": "The Constitutional Revolution succeeded in 1906."},
-  {"fa": "شاه فرمان مشروطه را امضا کرد.", "r": "shāh farmān-e mashrute rā emzā kard.", "en": "The shah signed the constitutional decree."},
-  {"fa": "ایران برای نخستین بار مجلس و قانون اساسی پیدا کرد.", "r": "Irān barā-ye nokhostin bār majles va ghānun-e asāsi peydā kard.", "en": "For the first time Iran had a parliament and a constitution."},
-  {"fa": "ستارخان در تبریز از مشروطه دفاع کرد.", "r": "Sattār-khān dar Tabriz az mashrute defā' kard.", "en": "Sattar Khan defended the constitution in Tabriz."},
-  {"fa": "در سال ۱۹۰۸ در مسجدسلیمان نفت پیدا شد.", "r": "dar sāl-e hezār-o-nohsad-o-hasht dar Masjed-soleymān naft peydā shod.", "en": "In 1908 oil was found at Masjed Soleyman."},
-  {"fa": "رضاخان در سال ۱۹۲۵ پادشاه شد.", "r": "Rezā-khān dar sāl-e hezār-o-nohsad-o-bist-o-panj pādshāh shod.", "en": "Reza Khan became king in 1925."},
-  {"fa": "راه‌آهن سراسری دریای خزر را به خلیج فارس وصل کرد.", "r": "rāh-āhan-e sarāsari daryā-ye Khazar rā be Khalij-e Fārs vasl kard.", "en": "The Trans-Iranian Railway linked the Caspian Sea with the Persian Gulf."},
-  {"fa": "دانشگاه تهران در سال ۱۹۳۴ تأسیس شد.", "r": "dāneshgāh-e Tehrān dar sāl-e hezār-o-nohsad-o-si-o-chahār ta'sis shod.", "en": "The University of Tehran was founded in 1934."},
-  {"fa": "مصدق صنعت نفت ایران را ملی کرد.", "r": "Mosaddegh san'at-e naft-e Irān rā melli kard.", "en": "Mosaddegh nationalised Iran's oil industry."},
-  {"fa": "در سال ۱۹۵۳ دولت مصدق با یک کودتا سرنگون شد.", "r": "dar sāl-e hezār-o-nohsad-o-panjāh-o-se dowlat-e Mosaddegh bā yek kudetā sarnegun shod.", "en": "In 1953 Mosaddegh's government was overthrown in a coup."},
-  {"fa": "زنان ایرانی در سال ۱۹۶۳ برای اولین بار رأی دادند.", "r": "zanān-e irāni dar sāl-e hezār-o-nohsad-o-shast-o-se barā-ye avvalin bār ra'y dādand.", "en": "Iranian women voted for the first time in 1963."},
-  {"fa": "برج آزادی در سال ۱۹۷۱ ساخته شد.", "r": "borj-e Āzādi dar sāl-e hezār-o-nohsad-o-haftād-o-yek sākhte shod.", "en": "The Azadi Tower was built in 1971."}
+  {
+   "fa": "انقلاب مشروطه در سال ۱۹۰۶ پیروز شد.",
+   "r": "enghelāb-e mashrute dar sāl-e hezār-o-nohsad-o-shesh piruz shod.",
+   "en": "The Constitutional Revolution succeeded in 1906.",
+   "faV": "اِنقِلابِ مَشروطه دَر سالِ ۱۹۰۶ پیروز شُد.",
+   "a": "2f6506efcd31"
+  },
+  {
+   "fa": "شاه فرمان مشروطه را امضا کرد.",
+   "r": "shāh farmān-e mashrute rā emzā kard.",
+   "en": "The shah signed the constitutional decree.",
+   "faV": "شاه فَرمانِ مَشروطه را اِمضا کَرد.",
+   "a": "b22897737b9f"
+  },
+  {
+   "fa": "ایران برای نخستین بار مجلس و قانون اساسی پیدا کرد.",
+   "r": "Irān barā-ye nokhostin bār majles va ghānun-e asāsi peydā kard.",
+   "en": "For the first time Iran had a parliament and a constitution.",
+   "faV": "ایران بَرایِ نُخُستین بار مَجلِس و قانونِ اَساسی پَیدا کَرد.",
+   "a": "6224e4998e3f"
+  },
+  {
+   "fa": "ستارخان در تبریز از مشروطه دفاع کرد.",
+   "r": "Sattār-khān dar Tabriz az mashrute defā' kard.",
+   "en": "Sattar Khan defended the constitution in Tabriz.",
+   "faV": "سَتّارخان دَر تَبریز اَز مَشروطه دِفاع کَرد.",
+   "a": "4234a80ad697"
+  },
+  {
+   "fa": "در سال ۱۹۰۸ در مسجدسلیمان نفت پیدا شد.",
+   "r": "dar sāl-e hezār-o-nohsad-o-hasht dar Masjed-soleymān naft peydā shod.",
+   "en": "In 1908 oil was found at Masjed Soleyman.",
+   "faV": "دَر سالِ ۱۹۰۸ دَر مَسجِدسُلَیمان نَفت پَیدا شُد.",
+   "a": "3e1f5f2ff563"
+  },
+  {
+   "fa": "رضاخان در سال ۱۹۲۵ پادشاه شد.",
+   "r": "Rezā-khān dar sāl-e hezār-o-nohsad-o-bist-o-panj pādshāh shod.",
+   "en": "Reza Khan became king in 1925.",
+   "faV": "رِضاخان دَر سالِ ۱۹۲۵ پادشاه شُد.",
+   "a": "6941a08e91f2"
+  },
+  {
+   "fa": "راه‌آهن سراسری دریای خزر را به خلیج فارس وصل کرد.",
+   "r": "rāh-āhan-e sarāsari daryā-ye Khazar rā be Khalij-e Fārs vasl kard.",
+   "en": "The Trans-Iranian Railway linked the Caspian Sea with the Persian Gulf.",
+   "faV": "راه‌آهَنِ سَراسَری دَریایِ خَزَر را به خَلیجِ فارس وَصل کَرد.",
+   "a": "83edb0b01d82"
+  },
+  {
+   "fa": "دانشگاه تهران در سال ۱۹۳۴ تأسیس شد.",
+   "r": "dāneshgāh-e Tehrān dar sāl-e hezār-o-nohsad-o-si-o-chahār ta'sis shod.",
+   "en": "The University of Tehran was founded in 1934.",
+   "faV": "دانِشگاهِ تِهران دَر سالِ ۱۹۳۴ تَأسیس شُد.",
+   "a": "fdced585963a"
+  },
+  {
+   "fa": "مصدق صنعت نفت ایران را ملی کرد.",
+   "r": "Mosaddegh san'at-e naft-e Irān rā melli kard.",
+   "en": "Mosaddegh nationalised Iran's oil industry.",
+   "faV": "مُصَدِّق صَنعَتِ نَفتِ ایران را مِلّی کَرد.",
+   "a": "c6e44717598d"
+  },
+  {
+   "fa": "در سال ۱۹۵۳ دولت مصدق با یک کودتا سرنگون شد.",
+   "r": "dar sāl-e hezār-o-nohsad-o-panjāh-o-se dowlat-e Mosaddegh bā yek kudetā sarnegun shod.",
+   "en": "In 1953 Mosaddegh's government was overthrown in a coup.",
+   "faV": "دَر سالِ ۱۹۵۳ دَولَتِ مُصَدِّق با یِک کودِتا سَرنِگون شُد.",
+   "a": "e35e1835b4a1"
+  },
+  {
+   "fa": "زنان ایرانی در سال ۱۹۶۳ برای اولین بار رأی دادند.",
+   "r": "zanān-e irāni dar sāl-e hezār-o-nohsad-o-shast-o-se barā-ye avvalin bār ra'y dādand.",
+   "en": "Iranian women voted for the first time in 1963.",
+   "faV": "زَنانِ ایرانی دَر سالِ ۱۹۶۳ بَرایِ اَوَّلین بار رَأی دادَند.",
+   "a": "feabb3188f4b"
+  },
+  {
+   "fa": "برج آزادی در سال ۱۹۷۱ ساخته شد.",
+   "r": "borj-e Āzādi dar sāl-e hezār-o-nohsad-o-haftād-o-yek sākhte shod.",
+   "en": "The Azadi Tower was built in 1971.",
+   "faV": "بُرجِ آزادی دَر سالِ ۱۹۷۱ ساخته شُد.",
+   "a": "18da4485b5ab"
+  }
  ],
  "vocab": [
-  {"fa": "انقلاب", "r": "enghelāb", "en": "revolution"},
-  {"fa": "مشروطه", "r": "mashrute", "en": "constitutional (monarchy); the constitutional movement"},
-  {"fa": "مجلس", "r": "majles", "en": "parliament"},
-  {"fa": "قانون اساسی", "r": "ghānun-e asāsi", "en": "constitution"},
-  {"fa": "فرمان", "r": "farmān", "en": "decree; order"},
-  {"fa": "آزادی", "r": "āzādi", "en": "freedom"},
-  {"fa": "دفاع کردن", "r": "defā' kardan", "en": "to defend"},
-  {"fa": "نفت", "r": "naft", "en": "oil, petroleum"},
-  {"fa": "ملی کردن", "r": "melli kardan", "en": "to nationalise"},
-  {"fa": "صنعت", "r": "san'at", "en": "industry"},
-  {"fa": "نخست‌وزیر", "r": "nokhost-vazir", "en": "prime minister"},
-  {"fa": "دولت", "r": "dowlat", "en": "government; state"},
-  {"fa": "کودتا", "r": "kudetā", "en": "coup d'état"},
-  {"fa": "سرنگون کردن", "r": "sarnegun kardan", "en": "to overthrow"},
-  {"fa": "راه‌آهن", "r": "rāh-āhan", "en": "railway"},
-  {"fa": "دانشگاه", "r": "dāneshgāh", "en": "university"},
-  {"fa": "رأی دادن", "r": "ra'y dādan", "en": "to vote"},
-  {"fa": "تبعید", "r": "tab'id", "en": "exile"}
+  {
+   "fa": "انقلاب",
+   "r": "enghelāb",
+   "en": "revolution",
+   "faV": "اِنقِلاب",
+   "a": "11e4e25969ff"
+  },
+  {
+   "fa": "مشروطه",
+   "r": "mashrute",
+   "en": "constitutional (monarchy); the constitutional movement",
+   "faV": "مَشروطه",
+   "a": "0e2728e1a64f"
+  },
+  {
+   "fa": "مجلس",
+   "r": "majles",
+   "en": "parliament",
+   "faV": "مَجلِس",
+   "a": "9fac38645da3"
+  },
+  {
+   "fa": "قانون اساسی",
+   "r": "ghānun-e asāsi",
+   "en": "constitution",
+   "faV": "قانونِ اَساسی",
+   "a": "b911fcc2abd5"
+  },
+  {
+   "fa": "فرمان",
+   "r": "farmān",
+   "en": "decree; order",
+   "faV": "فَرمان",
+   "a": "60e2bf9295ab"
+  },
+  {
+   "fa": "آزادی",
+   "r": "āzādi",
+   "en": "freedom",
+   "faV": "آزادی",
+   "a": "77640dec3067"
+  },
+  {
+   "fa": "دفاع کردن",
+   "r": "defā' kardan",
+   "en": "to defend",
+   "faV": "دِفاع کَردَن",
+   "a": "b49cea290960"
+  },
+  {
+   "fa": "نفت",
+   "r": "naft",
+   "en": "oil, petroleum",
+   "faV": "نَفت",
+   "a": "d3017335cb13"
+  },
+  {
+   "fa": "ملی کردن",
+   "r": "melli kardan",
+   "en": "to nationalise",
+   "faV": "مِلّی کَردَن",
+   "a": "032b9bcc6e00"
+  },
+  {
+   "fa": "صنعت",
+   "r": "san'at",
+   "en": "industry",
+   "faV": "صَنعَت",
+   "a": "f2631f4c238e"
+  },
+  {
+   "fa": "نخست‌وزیر",
+   "r": "nokhost-vazir",
+   "en": "prime minister",
+   "faV": "نُخُست‌وَزیر",
+   "a": "059476519c68"
+  },
+  {
+   "fa": "دولت",
+   "r": "dowlat",
+   "en": "government; state",
+   "faV": "دَولَت",
+   "a": "8b7c044d3946"
+  },
+  {
+   "fa": "کودتا",
+   "r": "kudetā",
+   "en": "coup d'état",
+   "faV": "کودِتا",
+   "a": "053eca85c6f7"
+  },
+  {
+   "fa": "سرنگون کردن",
+   "r": "sarnegun kardan",
+   "en": "to overthrow",
+   "faV": "سَرنِگون کَردَن",
+   "a": "ca342e4067e0"
+  },
+  {
+   "fa": "راه‌آهن",
+   "r": "rāh-āhan",
+   "en": "railway",
+   "faV": "راه‌آهَن",
+   "a": "485b5f689e63"
+  },
+  {
+   "fa": "دانشگاه",
+   "r": "dāneshgāh",
+   "en": "university",
+   "faV": "دانِشگاه",
+   "a": "890634c6c97a"
+  },
+  {
+   "fa": "رأی دادن",
+   "r": "ra'y dādan",
+   "en": "to vote",
+   "faV": "رَأی دادَن",
+   "a": "32e1654e6ec3"
+  },
+  {
+   "fa": "تبعید",
+   "r": "tab'id",
+   "en": "exile",
+   "faV": "تَبعید",
+   "a": "879ed2f9151d"
+  }
  ],
  "facts": [
   "Mozaffar al-Din Shah signed the constitutional decree on 5 August 1906 – 14 Mordad 1285 in the Iranian calendar.",
@@ -73,5 +253,7 @@
   "From Nowruz 1935 (21 March) Iran asked the world to use the name 'Iran' instead of 'Persia'.",
   "Howard Baskerville, a young American teacher, was killed in 1909 fighting for the constitutionalists in Tabriz, where he is still honoured.",
   "In 2013 the CIA released documents openly acknowledging its role in the 1953 coup."
- ]
+ ],
+ "titleV": "اَز اِنقِلابِ مَشروطه تا پَهلَوی",
+ "titleA": "7e6a37322f35"
 }

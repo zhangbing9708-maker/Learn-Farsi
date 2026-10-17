@@ -32,37 +32,215 @@
   }
  ],
  "sentences": [
-  {"fa": "برنج را دو ساعت در آب‌نمک خیس کن.", "r": "berenj rā do sā'at dar āb-namak khis kon.", "en": "Soak the rice in salted water for two hours."},
-  {"fa": "برنج را آبکش کن و بگذار دم بکشد.", "r": "berenj rā ābkesh kon va bo-gzār dam be-keshad.", "en": "Drain the rice and let it steam."},
-  {"fa": "زعفران را بساب و با کمی آب جوش دم کن.", "r": "za'farān rā be-sāb va bā kami āb-e jush dam kon.", "en": "Grind the saffron and brew it with a little boiling water."},
-  {"fa": "ته‌دیگ امروز خیلی طلایی و ترد شده است.", "r": "tah-dig-e emruz kheyli talāyi va tord shode ast.", "en": "Today's tahdig has turned out very golden and crisp."},
-  {"fa": "من ته‌دیگ سیب‌زمینی را از همه بیشتر دوست دارم.", "r": "man tah-dig-e sib-zamini rā az hame bishtar dust dāram.", "en": "I like potato tahdig best of all."},
-  {"fa": "لطفاً یک تکه ته‌دیگ هم به من بدهید.", "r": "lotfan yek tekke tah-dig ham be man be-dahid.", "en": "Please give me a piece of tahdig too.", "col": "لطفاً یه تیکه ته‌دیگ هم به من بدین.", "colR": "lotfan ye tike tah-dig ham be man be-din."},
-  {"fa": "در شمال ایران بیشتر کته می‌خورند.", "r": "dar shomāl-e Irān bishtar kate mi-khorand.", "en": "In the north of Iran people mostly eat kateh."},
-  {"fa": "برنج ایرانی دانه‌بلند و خوش‌عطر است.", "r": "berenj-e irāni dāne-boland va khosh-atr ast.", "en": "Iranian rice is long-grained and fragrant."},
-  {"fa": "دیگ را برگردان تا ته‌دیگ سالم بیرون بیاید.", "r": "dig rā bargardān tā tah-dig sālem birun bi-yāyad.", "en": "Turn the pot over so that the tahdig comes out in one piece."},
-  {"fa": "ته‌دیگ را بین همه تقسیم کردیم.", "r": "tah-dig rā beyn-e hame taghsim kardim.", "en": "We shared the tahdig out among everyone."},
-  {"fa": "تعارف نکن، آخرین تکه مال توست.", "r": "ta'ārof na-kon, ākharin tekke māl-e to-st.", "en": "Don't be polite – the last piece is yours."}
+  {
+   "fa": "برنج را دو ساعت در آب‌نمک خیس کن.",
+   "r": "berenj rā do sā'at dar āb-namak khis kon.",
+   "en": "Soak the rice in salted water for two hours.",
+   "faV": "بِرِنج را دو ساعَت دَر آب‌نَمَک خیس کُن.",
+   "a": "e8fc6e0a65f1"
+  },
+  {
+   "fa": "برنج را آبکش کن و بگذار دم بکشد.",
+   "r": "berenj rā ābkesh kon va bo-gzār dam be-keshad.",
+   "en": "Drain the rice and let it steam.",
+   "faV": "بِرِنج را آبکِش کُن و بُگذار دَم بِکِشَد.",
+   "a": "a7ce12f2f7b3"
+  },
+  {
+   "fa": "زعفران را بساب و با کمی آب جوش دم کن.",
+   "r": "za'farān rā be-sāb va bā kami āb-e jush dam kon.",
+   "en": "Grind the saffron and brew it with a little boiling water.",
+   "faV": "زَعفَران را بِساب و با کَمی آبِ جوش دَم کُن.",
+   "a": "874b7dbae559"
+  },
+  {
+   "fa": "ته‌دیگ امروز خیلی طلایی و ترد شده است.",
+   "r": "tah-dig-e emruz kheyli talāyi va tord shode ast.",
+   "en": "Today's tahdig has turned out very golden and crisp.",
+   "faV": "تَه‌دیگِ اِمروز خَیلی طَلایی و تُرد شُده اَست.",
+   "a": "4831aad2cd13"
+  },
+  {
+   "fa": "من ته‌دیگ سیب‌زمینی را از همه بیشتر دوست دارم.",
+   "r": "man tah-dig-e sib-zamini rā az hame bishtar dust dāram.",
+   "en": "I like potato tahdig best of all.",
+   "faV": "مَن تَه‌دیگِ سیب‌زَمینی را اَز هَمه بیشتَر دوست دارَم.",
+   "a": "a3077fc65218"
+  },
+  {
+   "fa": "لطفاً یک تکه ته‌دیگ هم به من بدهید.",
+   "r": "lotfan yek tekke tah-dig ham be man be-dahid.",
+   "en": "Please give me a piece of tahdig too.",
+   "col": "لطفاً یه تیکه ته‌دیگ هم به من بدین.",
+   "colR": "lotfan ye tike tah-dig ham be man be-din.",
+   "faV": "لُطفاً یِک تِکّه تَه‌دیگ هَم به مَن بِدَهید.",
+   "a": "368dec8d5fc7",
+   "colV": "لُطفاً یه تیکه تَه‌دیگ هَم به مَن بِدین.",
+   "colA": "c059200cb92d"
+  },
+  {
+   "fa": "در شمال ایران بیشتر کته می‌خورند.",
+   "r": "dar shomāl-e Irān bishtar kate mi-khorand.",
+   "en": "In the north of Iran people mostly eat kateh.",
+   "faV": "دَر شُمالِ ایران بیشتَر کَته می‌خورَند.",
+   "a": "15c92292b3e3"
+  },
+  {
+   "fa": "برنج ایرانی دانه‌بلند و خوش‌عطر است.",
+   "r": "berenj-e irāni dāne-boland va khosh-atr ast.",
+   "en": "Iranian rice is long-grained and fragrant.",
+   "faV": "بِرِنجِ ایرانی دانه‌بُلَند و خوش‌عَطر اَست.",
+   "a": "f1b35139a106"
+  },
+  {
+   "fa": "دیگ را برگردان تا ته‌دیگ سالم بیرون بیاید.",
+   "r": "dig rā bargardān tā tah-dig sālem birun bi-yāyad.",
+   "en": "Turn the pot over so that the tahdig comes out in one piece.",
+   "faV": "دیگ را بَرگَردان تا تَه‌دیگ سالِم بیرون بیایَد.",
+   "a": "305803b8072a"
+  },
+  {
+   "fa": "ته‌دیگ را بین همه تقسیم کردیم.",
+   "r": "tah-dig rā beyn-e hame taghsim kardim.",
+   "en": "We shared the tahdig out among everyone.",
+   "faV": "تَه‌دیگ را بَینِ هَمه تَقسیم کَردیم.",
+   "a": "c43a7612c1d6"
+  },
+  {
+   "fa": "تعارف نکن، آخرین تکه مال توست.",
+   "r": "ta'ārof na-kon, ākharin tekke māl-e to-st.",
+   "en": "Don't be polite – the last piece is yours.",
+   "faV": "تَعارُف نَکُن، آخَرین تِکّه مالِ توست.",
+   "a": "d56eabf1b927"
+  }
  ],
  "vocab": [
-  {"fa": "برنج", "r": "berenj", "en": "rice"},
-  {"fa": "چلو", "r": "chelow", "en": "plain steamed rice"},
-  {"fa": "پلو", "r": "polow", "en": "rice cooked with other ingredients"},
-  {"fa": "کته", "r": "kate", "en": "kateh, rice cooked in its own water"},
-  {"fa": "ته‌دیگ", "r": "tah-dig", "en": "tahdig, crisp crust from the bottom of the pot"},
-  {"fa": "ته", "r": "tah", "en": "bottom"},
-  {"fa": "دیگ", "r": "dig", "en": "pot"},
-  {"fa": "آبکش", "r": "ābkesh", "en": "colander"},
-  {"fa": "آبکش کردن", "r": "ābkesh kardan", "en": "to drain (in a colander)"},
-  {"fa": "خیس کردن", "r": "khis kardan", "en": "to soak"},
-  {"fa": "دم کشیدن", "r": "dam keshidan", "en": "to steam (rice); to brew (tea)"},
-  {"fa": "نیم‌پز", "r": "nim-paz", "en": "half-cooked"},
-  {"fa": "زعفران", "r": "za'farān", "en": "saffron"},
-  {"fa": "ترد", "r": "tord", "en": "crisp, crunchy"},
-  {"fa": "طلایی", "r": "talāyi", "en": "golden"},
-  {"fa": "تکه", "r": "tekke", "en": "piece"},
-  {"fa": "دانه", "r": "dāne", "en": "grain, seed"},
-  {"fa": "سالم", "r": "sālem", "en": "whole, intact; healthy"}
+  {
+   "fa": "برنج",
+   "r": "berenj",
+   "en": "rice",
+   "faV": "بِرِنج",
+   "a": "1df26caba216"
+  },
+  {
+   "fa": "چلو",
+   "r": "chelow",
+   "en": "plain steamed rice",
+   "faV": "چِلَو",
+   "a": "4d83e748c87f"
+  },
+  {
+   "fa": "پلو",
+   "r": "polow",
+   "en": "rice cooked with other ingredients",
+   "faV": "پُلَو",
+   "a": "fe1ee5c707fc"
+  },
+  {
+   "fa": "کته",
+   "r": "kate",
+   "en": "kateh, rice cooked in its own water",
+   "faV": "کَته",
+   "a": "9c6dfb86c2a6"
+  },
+  {
+   "fa": "ته‌دیگ",
+   "r": "tah-dig",
+   "en": "tahdig, crisp crust from the bottom of the pot",
+   "faV": "تَه‌دیگ",
+   "a": "eb24fd517141"
+  },
+  {
+   "fa": "ته",
+   "r": "tah",
+   "en": "bottom",
+   "faV": "تَه",
+   "a": "3687b6b3c485"
+  },
+  {
+   "fa": "دیگ",
+   "r": "dig",
+   "en": "pot",
+   "faV": "دیگ",
+   "a": "087fb9b95e75"
+  },
+  {
+   "fa": "آبکش",
+   "r": "ābkesh",
+   "en": "colander",
+   "faV": "آبکِش",
+   "a": "de652b2daef9"
+  },
+  {
+   "fa": "آبکش کردن",
+   "r": "ābkesh kardan",
+   "en": "to drain (in a colander)",
+   "faV": "آبکِش کَردَن",
+   "a": "586060164b3a"
+  },
+  {
+   "fa": "خیس کردن",
+   "r": "khis kardan",
+   "en": "to soak",
+   "faV": "خیس کَردَن",
+   "a": "e92cf36db41e"
+  },
+  {
+   "fa": "دم کشیدن",
+   "r": "dam keshidan",
+   "en": "to steam (rice); to brew (tea)",
+   "faV": "دَم کِشیدَن",
+   "a": "3284f8525b52"
+  },
+  {
+   "fa": "نیم‌پز",
+   "r": "nim-paz",
+   "en": "half-cooked",
+   "faV": "نیم‌پَز",
+   "a": "ca4702f5b71e"
+  },
+  {
+   "fa": "زعفران",
+   "r": "za'farān",
+   "en": "saffron",
+   "faV": "زَعفَران",
+   "a": "13452bbd3f73"
+  },
+  {
+   "fa": "ترد",
+   "r": "tord",
+   "en": "crisp, crunchy",
+   "faV": "تُرد",
+   "a": "dc0902584010"
+  },
+  {
+   "fa": "طلایی",
+   "r": "talāyi",
+   "en": "golden",
+   "faV": "طَلایی",
+   "a": "3190c4ada9f5"
+  },
+  {
+   "fa": "تکه",
+   "r": "tekke",
+   "en": "piece",
+   "faV": "تِکّه",
+   "a": "9b2384f0c688"
+  },
+  {
+   "fa": "دانه",
+   "r": "dāne",
+   "en": "grain, seed",
+   "faV": "دانه",
+   "a": "14ed6d54b50e"
+  },
+  {
+   "fa": "سالم",
+   "r": "sālem",
+   "en": "whole, intact; healthy",
+   "faV": "سالِم",
+   "a": "e68519fc9beb"
+  }
  ],
  "facts": [
   "Chelow is cooked in two stages: boiled briefly and drained, then steamed for up to an hour.",
@@ -71,5 +249,7 @@
   "A cloth-wrapped lid, the dam-koni, stops steam from dripping back onto the rice.",
   "The verb dam keshidan is used both for steaming rice and for brewing tea.",
   "Cookbooks written by Safavid court chefs already describe many different polo dishes."
- ]
+ ],
+ "titleV": "بِرِنج و تَه‌دیگ",
+ "titleA": "385ed78e79b0"
 }

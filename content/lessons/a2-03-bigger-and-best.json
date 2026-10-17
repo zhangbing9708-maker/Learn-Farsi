@@ -6,7 +6,13 @@
  "titleFa": "کدام شهر قشنگ‌تر است؟",
  "titleR": "kodām shahr ghashang-tar ast?",
  "intro": "Isfahan or Shiraz? Every Iranian has an opinion, and defends it loudly. To join in you need to compare: bigger, older, hotter, the most beautiful, not as busy as. Persian makes this easy – one ending, -tar, for every comparative, and one more, -tarin, for every superlative. In this lesson you learn both, the word for 'than', and how to say 'like' and 'as … as', while touring Iran's best-loved cities.",
- "goals": ["compare two things with -tar and از: تهران از اصفهان بزرگ‌تر است", "say 'the biggest, the best' with -tarin: بزرگ‌ترین شهر ایران", "use the irregular forms بهتر، بیشتر، کمتر", "say 'as … as' and 'like': به اندازه‌ی، مثل، مانند", "describe and compare Iranian cities: size, weather, food"],
+ "goals": [
+  "compare two things with -tar and از: تهران از اصفهان بزرگ‌تر است",
+  "say 'the biggest, the best' with -tarin: بزرگ‌ترین شهر ایران",
+  "use the irregular forms بهتر، بیشتر، کمتر",
+  "say 'as … as' and 'like': به اندازه‌ی، مثل، مانند",
+  "describe and compare Iranian cities: size, weather, food"
+ ],
  "image": "isfahan",
  "sections": [
   {
@@ -14,18 +20,150 @@
    "title": "Isfahan or Shiraz?",
    "context": "Tom asks two friends a dangerous question. Dariush is from Isfahan, Leila from Shiraz.",
    "lines": [
-    {"who": "Tom", "fa": "لیلا، داریوش، کدام شهر قشنگ‌تر است، اصفهان یا شیراز؟", "r": "Leylā, Dāriush, kodām shahr ghashang-tar ast, Esfahān yā Shirāz?", "en": "Leila, Dariush, which city is more beautiful, Isfahan or Shiraz?", "col": "لیلا، داریوش، کدوم شهر قشنگ‌تره، اصفهان یا شیراز؟", "colR": "Leylā, Dāriush, kodum shahr ghashang-tare, Esfahān yā Shirāz?"},
-    {"who": "Dariush", "fa": "معلوم است! اصفهان. اصفهان نصف جهان است.", "r": "ma'lum ast! Esfahān. Esfahān nesf-e jahān ast.", "en": "Obviously! Isfahan. Isfahan is half the world.", "col": "معلومه! اصفهان. اصفهان نصف جهانه.", "colR": "ma'lume! Esfahān. Esfahān nesf-e jahāne."},
-    {"who": "Leila", "fa": "اما شیراز سبزتر است. باغ ارم یکی از قشنگ‌ترین باغ‌های ایران است.", "r": "ammā Shirāz sabz-tar ast. bāgh-e Eram yek-i az ghashang-tarin bāgh-hā-ye Irān ast.", "en": "But Shiraz is greener. The Eram Garden is one of the most beautiful gardens in Iran.", "col": "ولی شیراز سبزتره. باغ ارم یکی از قشنگ‌ترین باغای ایرانه.", "colR": "vali Shirāz sabz-tare. bāgh-e Eram yeki az ghashang-tarin bāgh-ā-ye Irāne."},
-    {"who": "Dariush", "fa": "سبزتر؟ شاید. اما میدان نقش جهان از همه‌ی میدان‌های دنیا زیباتر است!", "r": "sabz-tar? shāyad. ammā meydān-e Naghsh-e Jahān az hame-ye meydān-hā-ye donyā zibā-tar ast!", "en": "Greener? Maybe. But Naqsh-e Jahan Square is more beautiful than any square in the world!", "col": "سبزتر؟ شاید. ولی میدون نقش جهان از همه‌ی میدونای دنیا قشنگ‌تره!", "colR": "sabz-tar? shāyad. vali meydun-e Naghsh-e Jahān az hame-ye meydun-ā-ye donyā ghashang-tare!"},
-    {"who": "Tom", "fa": "و غذا؟ کجا غذا خوشمزه‌تر است؟", "r": "va ghazā? kojā ghazā khoshmaze-tar ast?", "en": "And the food? Where is the food tastier?", "col": "و غذا؟ کجا غذا خوشمزه‌تره؟", "colR": "va ghazā? kojā ghazā khoshmaze-tare?"},
-    {"who": "Leila", "fa": "شیرازی‌ها می‌گویند فالوده‌ی شیرازی بهترین دسر دنیاست.", "r": "Shirāzi-hā mi-guyand fālude-ye Shirāzi behtarin deser-e donyā-st.", "en": "Shirazis say Shirazi faloodeh is the best dessert in the world.", "col": "شیرازیا می‌گن فالوده‌ی شیرازی بهترین دسر دنیاست.", "colR": "Shirāzi-yā mi-gan fālude-ye Shirāzi behtarin deser-e donyā-st."},
-    {"who": "Dariush", "fa": "نه بابا! گز و بریانی اصفهان خوشمزه‌ترند.", "r": "na bābā! gaz o beryāni-ye Esfahān khoshmaze-tarand.", "en": "Come on! Isfahan's gaz and beryani are tastier.", "col": "نه بابا! گز و بریونی اصفهان خوشمزه‌ترن.", "colR": "na bābā! gaz o beryuni-ye Esfahān khoshmaze-taran."},
-    {"who": "Tom", "fa": "هوا چطور؟ کدام گرم‌تر است؟", "r": "havā chetor? kodām garm-tar ast?", "en": "What about the weather? Which is hotter?", "col": "هوا چطور؟ کدوم گرم‌تره؟", "colR": "havā chetor? kodum garm-tare?"},
-    {"who": "Leila", "fa": "تابستان هر دو گرم‌اند، اما یزد از هر دو گرم‌تر است.", "r": "tābestān har do garm-and, ammā Yazd az har do garm-tar ast.", "en": "In summer they're both hot, but Yazd is hotter than both.", "col": "تابستون هر دو گرمن، ولی یزد از هر دو گرم‌تره.", "colR": "tābestun har do garm-an, vali Yazd az har do garm-tare."},
-    {"who": "Tom", "fa": "و تهران؟ تهران از همه بزرگ‌تر است.", "r": "va Tehrān? Tehrān az hame bozorg-tar ast.", "en": "And Tehran? Tehran is the biggest of all.", "col": "و تهران؟ تهران از همه بزرگ‌تره.", "colR": "va Tehrān? Tehrān az hame bozorg-tare."},
-    {"who": "Dariush", "fa": "بله، بزرگ‌ترین و شلوغ‌ترین شهر ایران است، اما قشنگ‌ترین نیست!", "r": "bale, bozorg-tarin o sholugh-tarin shahr-e Irān ast, ammā ghashang-tarin nist!", "en": "Yes, it's the biggest and busiest city in Iran, but it isn't the most beautiful!", "col": "آره، بزرگ‌ترین و شلوغ‌ترین شهر ایرانه، ولی قشنگ‌ترین نیست!", "colR": "āre, bozorg-tarin o sholugh-tarin shahr-e Irāne, vali ghashang-tarin nist!"},
-    {"who": "Leila", "fa": "بالاخره در یک چیز با هم موافقیم!", "r": "bālākhare dar yek chiz bā ham movāfegh-im!", "en": "At last we agree on something!", "col": "بالاخره تو یه چیز با هم موافقیم!", "colR": "bālākhare tu ye chiz bā ham movāfegh-im!"}
+    {
+     "who": "Tom",
+     "fa": "لیلا، داریوش، کدام شهر قشنگ‌تر است، اصفهان یا شیراز؟",
+     "r": "Leylā, Dāriush, kodām shahr ghashang-tar ast, Esfahān yā Shirāz?",
+     "en": "Leila, Dariush, which city is more beautiful, Isfahan or Shiraz?",
+     "col": "لیلا، داریوش، کدوم شهر قشنگ‌تره، اصفهان یا شیراز؟",
+     "colR": "Leylā, Dāriush, kodum shahr ghashang-tare, Esfahān yā Shirāz?",
+     "faV": "لَیلا، داریوش، کُدام شَهر قَشَنگ‌تَر اَست، اِصفَهان یا شیراز؟",
+     "a": "912e6a72a279",
+     "colV": "لَیلا، داریوش، کُدوم شَهر قَشَنگ‌تَره، اِصفَهان یا شیراز؟",
+     "colA": "f902df7c0002"
+    },
+    {
+     "who": "Dariush",
+     "fa": "معلوم است! اصفهان. اصفهان نصف جهان است.",
+     "r": "ma'lum ast! Esfahān. Esfahān nesf-e jahān ast.",
+     "en": "Obviously! Isfahan. Isfahan is half the world.",
+     "col": "معلومه! اصفهان. اصفهان نصف جهانه.",
+     "colR": "ma'lume! Esfahān. Esfahān nesf-e jahāne.",
+     "faV": "مَعلوم اَست! اِصفَهان. اِصفَهان نِصفِ جَهان اَست.",
+     "a": "99c41d927b47",
+     "colV": "مَعلومه! اِصفَهان. اِصفَهان نِصفِ جَهانه.",
+     "colA": "4331793823a7"
+    },
+    {
+     "who": "Leila",
+     "fa": "اما شیراز سبزتر است. باغ ارم یکی از قشنگ‌ترین باغ‌های ایران است.",
+     "r": "ammā Shirāz sabz-tar ast. bāgh-e Eram yek-i az ghashang-tarin bāgh-hā-ye Irān ast.",
+     "en": "But Shiraz is greener. The Eram Garden is one of the most beautiful gardens in Iran.",
+     "col": "ولی شیراز سبزتره. باغ ارم یکی از قشنگ‌ترین باغای ایرانه.",
+     "colR": "vali Shirāz sabz-tare. bāgh-e Eram yeki az ghashang-tarin bāgh-ā-ye Irāne.",
+     "faV": "اَمّا شیراز سَبزتَر اَست. باغِ اِرَم یِکی اَز قَشَنگ‌تَرین باغ‌هایِ ایران اَست.",
+     "a": "db45e487c970",
+     "colV": "وَلی شیراز سَبزتَره. باغِ اِرَم یِکی اَز قَشَنگ‌تَرین باغایِ ایرانه.",
+     "colA": "0088a8af0d49"
+    },
+    {
+     "who": "Dariush",
+     "fa": "سبزتر؟ شاید. اما میدان نقش جهان از همه‌ی میدان‌های دنیا زیباتر است!",
+     "r": "sabz-tar? shāyad. ammā meydān-e Naghsh-e Jahān az hame-ye meydān-hā-ye donyā zibā-tar ast!",
+     "en": "Greener? Maybe. But Naqsh-e Jahan Square is more beautiful than any square in the world!",
+     "col": "سبزتر؟ شاید. ولی میدون نقش جهان از همه‌ی میدونای دنیا قشنگ‌تره!",
+     "colR": "sabz-tar? shāyad. vali meydun-e Naghsh-e Jahān az hame-ye meydun-ā-ye donyā ghashang-tare!",
+     "faV": "سَبزتَر؟ شایَد. اَمّا مَیدانِ نَقشِ جَهان اَز هَمه‌یِ مَیدان‌هایِ دُنیا زیباتَر اَست!",
+     "a": "a0d4ca41bace",
+     "colV": "سَبزتَر؟ شایَد. وَلی مَیدونِ نَقشِ جَهان اَز هَمه‌یِ مَیدونایِ دُنیا قَشَنگ‌تَره!",
+     "colA": "fff63e23daab"
+    },
+    {
+     "who": "Tom",
+     "fa": "و غذا؟ کجا غذا خوشمزه‌تر است؟",
+     "r": "va ghazā? kojā ghazā khoshmaze-tar ast?",
+     "en": "And the food? Where is the food tastier?",
+     "col": "و غذا؟ کجا غذا خوشمزه‌تره؟",
+     "colR": "va ghazā? kojā ghazā khoshmaze-tare?",
+     "faV": "و غَذا؟ کُجا غَذا خوشمَزه‌تَر اَست؟",
+     "a": "d39826f4e0b9",
+     "colV": "و غَذا؟ کُجا غَذا خوشمَزه‌تَره؟",
+     "colA": "678d2d7761c3"
+    },
+    {
+     "who": "Leila",
+     "fa": "شیرازی‌ها می‌گویند فالوده‌ی شیرازی بهترین دسر دنیاست.",
+     "r": "Shirāzi-hā mi-guyand fālude-ye Shirāzi behtarin deser-e donyā-st.",
+     "en": "Shirazis say Shirazi faloodeh is the best dessert in the world.",
+     "col": "شیرازیا می‌گن فالوده‌ی شیرازی بهترین دسر دنیاست.",
+     "colR": "Shirāzi-yā mi-gan fālude-ye Shirāzi behtarin deser-e donyā-st.",
+     "faV": "شیرازی‌ها می‌گویَند فالوده‌یِ شیرازی بِهتَرین دِسِرِ دُنیاست.",
+     "a": "626a215ecdf9",
+     "colV": "شیرازیا می‌گَن فالوده‌یِ شیرازی بِهتَرین دِسِرِ دُنیاست.",
+     "colA": "ace7b56c0ad7"
+    },
+    {
+     "who": "Dariush",
+     "fa": "نه بابا! گز و بریانی اصفهان خوشمزه‌ترند.",
+     "r": "na bābā! gaz o beryāni-ye Esfahān khoshmaze-tarand.",
+     "en": "Come on! Isfahan's gaz and beryani are tastier.",
+     "col": "نه بابا! گز و بریونی اصفهان خوشمزه‌ترن.",
+     "colR": "na bābā! gaz o beryuni-ye Esfahān khoshmaze-taran.",
+     "faV": "نه بابا! گَز و بِریانیِ اِصفَهان خوشمَزه‌تَرَند.",
+     "a": "b9f1d8aa265e",
+     "colV": "نه بابا! گَز و بِریونیِ اِصفَهان خوشمَزه‌تَرَن.",
+     "colA": "8a26283d9ba2"
+    },
+    {
+     "who": "Tom",
+     "fa": "هوا چطور؟ کدام گرم‌تر است؟",
+     "r": "havā chetor? kodām garm-tar ast?",
+     "en": "What about the weather? Which is hotter?",
+     "col": "هوا چطور؟ کدوم گرم‌تره؟",
+     "colR": "havā chetor? kodum garm-tare?",
+     "faV": "هَوا چِطور؟ کُدام گَرم‌تَر اَست؟",
+     "a": "8ee8b260f7a5",
+     "colV": "هَوا چِطور؟ کُدوم گَرم‌تَره؟",
+     "colA": "99c73794c2e4"
+    },
+    {
+     "who": "Leila",
+     "fa": "تابستان هر دو گرم‌اند، اما یزد از هر دو گرم‌تر است.",
+     "r": "tābestān har do garm-and, ammā Yazd az har do garm-tar ast.",
+     "en": "In summer they're both hot, but Yazd is hotter than both.",
+     "col": "تابستون هر دو گرمن، ولی یزد از هر دو گرم‌تره.",
+     "colR": "tābestun har do garm-an, vali Yazd az har do garm-tare.",
+     "faV": "تابِستان هَر دو گَرم‌اَند، اَمّا یَزد اَز هَر دو گَرم‌تَر اَست.",
+     "a": "b9d0744ad2b2",
+     "colV": "تابِستون هَر دو گَرمَن، وَلی یَزد اَز هَر دو گَرم‌تَره.",
+     "colA": "0b24ed827b60"
+    },
+    {
+     "who": "Tom",
+     "fa": "و تهران؟ تهران از همه بزرگ‌تر است.",
+     "r": "va Tehrān? Tehrān az hame bozorg-tar ast.",
+     "en": "And Tehran? Tehran is the biggest of all.",
+     "col": "و تهران؟ تهران از همه بزرگ‌تره.",
+     "colR": "va Tehrān? Tehrān az hame bozorg-tare.",
+     "faV": "و تِهران؟ تِهران اَز هَمه بُزُرگ‌تَر اَست.",
+     "a": "5982fce0177d",
+     "colV": "و تِهران؟ تِهران اَز هَمه بُزُرگ‌تَره.",
+     "colA": "0b78a985b6ff"
+    },
+    {
+     "who": "Dariush",
+     "fa": "بله، بزرگ‌ترین و شلوغ‌ترین شهر ایران است، اما قشنگ‌ترین نیست!",
+     "r": "bale, bozorg-tarin o sholugh-tarin shahr-e Irān ast, ammā ghashang-tarin nist!",
+     "en": "Yes, it's the biggest and busiest city in Iran, but it isn't the most beautiful!",
+     "col": "آره، بزرگ‌ترین و شلوغ‌ترین شهر ایرانه، ولی قشنگ‌ترین نیست!",
+     "colR": "āre, bozorg-tarin o sholugh-tarin shahr-e Irāne, vali ghashang-tarin nist!",
+     "faV": "بَله، بُزُرگ‌تَرین و شُلوغ‌تَرین شَهرِ ایران اَست، اَمّا قَشَنگ‌تَرین نیست!",
+     "a": "081829c21284",
+     "colV": "آره، بُزُرگ‌تَرین و شُلوغ‌تَرین شَهرِ ایرانه، وَلی قَشَنگ‌تَرین نیست!",
+     "colA": "46ae80dc73a3"
+    },
+    {
+     "who": "Leila",
+     "fa": "بالاخره در یک چیز با هم موافقیم!",
+     "r": "bālākhare dar yek chiz bā ham movāfegh-im!",
+     "en": "At last we agree on something!",
+     "col": "بالاخره تو یه چیز با هم موافقیم!",
+     "colR": "bālākhare tu ye chiz bā ham movāfegh-im!",
+     "faV": "بالاخَره دَر یِک چیز با هَم مُوافِقیم!",
+     "a": "990d4b21d031",
+     "colV": "بالاخَره تو یه چیز با هَم مُوافِقیم!",
+     "colA": "5978504a6d30"
+    }
    ]
   },
   {
@@ -37,27 +175,209 @@
    "type": "vocab",
    "title": "Words",
    "items": [
-    {"fa": "شلوغ", "r": "sholugh", "en": "crowded, busy, noisy", "pos": "adj", "ex": {"fa": "تهران خیلی شلوغ است.", "r": "Tehrān kheyli sholugh ast.", "en": "Tehran is very busy."}},
-    {"fa": "خلوت", "r": "khalvat", "en": "quiet, not crowded", "pos": "adj"},
-    {"fa": "قدیمی", "r": "ghadimi", "en": "old (of things and places)", "pos": "adj", "note": "for people: پیر pir"},
-    {"fa": "جدید", "r": "jadid", "en": "new, modern", "pos": "adj"},
-    {"fa": "معروف", "r": "ma'ruf", "en": "famous", "pos": "adj"},
-    {"fa": "زیبا", "r": "zibā", "en": "beautiful", "pos": "adj", "note": "a little more formal than قشنگ ghashang"},
-    {"fa": "تمیز", "r": "tamiz", "en": "clean", "pos": "adj"},
-    {"fa": "آلوده", "r": "ālude", "en": "polluted, dirty", "pos": "adj", "note": "آلودگی هوا āludegi-ye havā, air pollution"},
-    {"fa": "خشک", "r": "khoshk", "en": "dry", "pos": "adj"},
-    {"fa": "مرطوب", "r": "martub", "en": "humid, damp", "pos": "adj"},
-    {"fa": "جمعیت", "r": "jam'iyyat", "en": "population; crowd", "pos": "n"},
-    {"fa": "پایتخت", "r": "pāytakht", "en": "capital (city)", "pos": "n", "ex": {"fa": "تهران پایتخت ایران است.", "r": "Tehrān pāytakht-e Irān ast.", "en": "Tehran is the capital of Iran."}},
-    {"fa": "باغ", "r": "bāgh", "en": "garden", "pos": "n"},
-    {"fa": "کدام", "r": "kodām", "en": "which", "pos": "pron", "note": "spoken کدوم kodum"},
-    {"fa": "مثل", "r": "mesl-e", "en": "like, as", "pos": "prep", "ex": {"fa": "اصفهان مثل یک موزه است.", "r": "Esfahān mesl-e yek muze ast.", "en": "Isfahan is like a museum."}},
-    {"fa": "مانند", "r": "mānand-e", "en": "like, similar to (written)", "pos": "prep"},
-    {"fa": "به اندازه‌ی", "r": "be andāze-ye", "en": "as … as; as much as", "pos": "phrase", "note": "literally 'to the size of'"},
-    {"fa": "بهتر", "r": "behtar", "en": "better", "pos": "adj", "note": "خوب → بهتر → بهترین"},
-    {"fa": "بیشتر", "r": "bishtar", "en": "more", "pos": "adv", "note": "زیاد → بیشتر → بیشترین"},
-    {"fa": "کمتر", "r": "kamtar", "en": "less, fewer", "pos": "adv"},
-    {"fa": "موافق", "r": "movāfegh", "en": "in agreement", "pos": "adj", "ex": {"fa": "با شما موافقم.", "r": "bā shomā movāfegh-am.", "en": "I agree with you."}}
+    {
+     "fa": "شلوغ",
+     "r": "sholugh",
+     "en": "crowded, busy, noisy",
+     "pos": "adj",
+     "ex": {
+      "fa": "تهران خیلی شلوغ است.",
+      "r": "Tehrān kheyli sholugh ast.",
+      "en": "Tehran is very busy.",
+      "faV": "تِهران خَیلی شُلوغ اَست.",
+      "a": "376687325883"
+     },
+     "faV": "شُلوغ",
+     "a": "1d0afff107f1"
+    },
+    {
+     "fa": "خلوت",
+     "r": "khalvat",
+     "en": "quiet, not crowded",
+     "pos": "adj",
+     "faV": "خَلوَت",
+     "a": "434463b12e52"
+    },
+    {
+     "fa": "قدیمی",
+     "r": "ghadimi",
+     "en": "old (of things and places)",
+     "pos": "adj",
+     "note": "for people: پیر pir",
+     "faV": "قَدیمی",
+     "a": "c8d4c8a09b8a"
+    },
+    {
+     "fa": "جدید",
+     "r": "jadid",
+     "en": "new, modern",
+     "pos": "adj",
+     "faV": "جَدید",
+     "a": "1b9a18d171c8"
+    },
+    {
+     "fa": "معروف",
+     "r": "ma'ruf",
+     "en": "famous",
+     "pos": "adj",
+     "faV": "مَعروف",
+     "a": "1902155cbe96"
+    },
+    {
+     "fa": "زیبا",
+     "r": "zibā",
+     "en": "beautiful",
+     "pos": "adj",
+     "note": "a little more formal than قشنگ ghashang",
+     "faV": "زیبا",
+     "a": "5333c5dd6b37"
+    },
+    {
+     "fa": "تمیز",
+     "r": "tamiz",
+     "en": "clean",
+     "pos": "adj",
+     "faV": "تَمیز",
+     "a": "e453af5f83aa"
+    },
+    {
+     "fa": "آلوده",
+     "r": "ālude",
+     "en": "polluted, dirty",
+     "pos": "adj",
+     "note": "آلودگی هوا āludegi-ye havā, air pollution",
+     "faV": "آلوده",
+     "a": "f026b2f8505c"
+    },
+    {
+     "fa": "خشک",
+     "r": "khoshk",
+     "en": "dry",
+     "pos": "adj",
+     "faV": "خُشک",
+     "a": "01abf629a6be"
+    },
+    {
+     "fa": "مرطوب",
+     "r": "martub",
+     "en": "humid, damp",
+     "pos": "adj",
+     "faV": "مَرطوب",
+     "a": "60491391ef95"
+    },
+    {
+     "fa": "جمعیت",
+     "r": "jam'iyyat",
+     "en": "population; crowd",
+     "pos": "n",
+     "faV": "جَمعیَّت",
+     "a": "5bcdd5912f22"
+    },
+    {
+     "fa": "پایتخت",
+     "r": "pāytakht",
+     "en": "capital (city)",
+     "pos": "n",
+     "ex": {
+      "fa": "تهران پایتخت ایران است.",
+      "r": "Tehrān pāytakht-e Irān ast.",
+      "en": "Tehran is the capital of Iran.",
+      "faV": "تِهران پایتَختِ ایران اَست.",
+      "a": "4a7a4604ceb7"
+     },
+     "faV": "پایتَخت",
+     "a": "cc64448038c2"
+    },
+    {
+     "fa": "باغ",
+     "r": "bāgh",
+     "en": "garden",
+     "pos": "n",
+     "faV": "باغ",
+     "a": "56f735b72c6f"
+    },
+    {
+     "fa": "کدام",
+     "r": "kodām",
+     "en": "which",
+     "pos": "pron",
+     "note": "spoken کدوم kodum",
+     "faV": "کُدام",
+     "a": "5665138ac7db"
+    },
+    {
+     "fa": "مثل",
+     "r": "mesl-e",
+     "en": "like, as",
+     "pos": "prep",
+     "ex": {
+      "fa": "اصفهان مثل یک موزه است.",
+      "r": "Esfahān mesl-e yek muze ast.",
+      "en": "Isfahan is like a museum.",
+      "faV": "اِصفَهان مِثلِ یِک موزه اَست.",
+      "a": "bc6444695b9f"
+     },
+     "faV": "مِثلِ",
+     "a": "685579e7062c"
+    },
+    {
+     "fa": "مانند",
+     "r": "mānand-e",
+     "en": "like, similar to (written)",
+     "pos": "prep",
+     "faV": "مانَندِ",
+     "a": "f7e3c003c331"
+    },
+    {
+     "fa": "به اندازه‌ی",
+     "r": "be andāze-ye",
+     "en": "as … as; as much as",
+     "pos": "phrase",
+     "note": "literally 'to the size of'",
+     "faV": "به اَندازه‌یِ",
+     "a": "129fb9b80a5d"
+    },
+    {
+     "fa": "بهتر",
+     "r": "behtar",
+     "en": "better",
+     "pos": "adj",
+     "note": "خوب → بهتر → بهترین",
+     "faV": "بِهتَر",
+     "a": "249e217c804c"
+    },
+    {
+     "fa": "بیشتر",
+     "r": "bishtar",
+     "en": "more",
+     "pos": "adv",
+     "note": "زیاد → بیشتر → بیشترین",
+     "faV": "بیشتَر",
+     "a": "b840a953d7ae"
+    },
+    {
+     "fa": "کمتر",
+     "r": "kamtar",
+     "en": "less, fewer",
+     "pos": "adv",
+     "faV": "کَمتَر",
+     "a": "59b4205cbbb6"
+    },
+    {
+     "fa": "موافق",
+     "r": "movāfegh",
+     "en": "in agreement",
+     "pos": "adj",
+     "ex": {
+      "fa": "با شما موافقم.",
+      "r": "bā shomā movāfegh-am.",
+      "en": "I agree with you.",
+      "faV": "با شُما مُوافِقَم.",
+      "a": "311a77497632"
+     },
+     "faV": "مُوافِق",
+     "a": "44ce3e428d25"
+    }
    ]
   },
   {
@@ -65,26 +385,124 @@
    "title": "Comparing two things: -tar and از",
    "md": "Add **-tar** to the adjective. After a letter that joins, write it with a ZWNJ ([[بزرگ‌تر|bozorg-tar]], [[قشنگ‌تر|ghashang-tar]]); after a letter that doesn't join, just write it on ([[سردتر|sard-tar]], [[زیباتر|zibā-tar]]).\n\nThe pattern is **A + az + B + adjective-tar + verb**: [[تبریز از شیراز سردتر است.|Tabriz az Shirāz sard-tar ast.|Tabriz is colder than Shiraz.]] To say *much* bigger, use [[خیلی|kheyli]]; for *a bit*, [[کمی|kami]]: [[خیلی گرم‌تر|kheyli garm-tar|much hotter]], [[کمی ارزان‌تر|kami arzān-tar|a bit cheaper]].\n\nThree words are irregular, and they are among the most common in the language: [[خوب|khub]] → [[بهتر|behtar|better]], [[زیاد|ziyād]] → [[بیشتر|bishtar|more]], and the regular-looking [[کم|kam]] → [[کمتر|kamtar|less]]. They are written as one word. *-tar* also works with adverbs: [[آهسته‌تر|āheste-tar|more slowly]], [[زودتر|zud-tar|earlier]].",
    "table": {
-    "head": ["Adjective", "-tar (comparative)", "-tarin (superlative)", "English"],
+    "head": [
+     "Adjective",
+     "-tar (comparative)",
+     "-tarin (superlative)",
+     "English"
+    ],
     "rows": [
-     ["[[بزرگ|bozorg]]", "[[بزرگ‌تر|bozorg-tar]]", "[[بزرگ‌ترین|bozorg-tarin]]", "big – bigger – biggest"],
-     ["[[کوچک|kuchak]]", "[[کوچک‌تر|kuchak-tar]]", "[[کوچک‌ترین|kuchak-tarin]]", "small – smaller – smallest"],
-     ["[[گرم|garm]]", "[[گرم‌تر|garm-tar]]", "[[گرم‌ترین|garm-tarin]]", "hot – hotter – hottest"],
-     ["[[سرد|sard]]", "[[سردتر|sard-tar]]", "[[سردترین|sard-tarin]]", "cold – colder – coldest"],
-     ["[[قدیمی|ghadimi]]", "[[قدیمی‌تر|ghadimi-tar]]", "[[قدیمی‌ترین|ghadimi-tarin]]", "old – older – oldest"],
-     ["[[زیبا|zibā]]", "[[زیباتر|zibā-tar]]", "[[زیباترین|zibā-tarin]]", "beautiful – more – most beautiful"],
-     ["[[خوب|khub]]", "[[بهتر|behtar]]", "[[بهترین|behtarin]]", "good – better – best"],
-     ["[[زیاد|ziyād]]", "[[بیشتر|bishtar]]", "[[بیشترین|bishtarin]]", "much – more – most"],
-     ["[[کم|kam]]", "[[کمتر|kamtar]]", "[[کمترین|kamtarin]]", "little – less – least"]
+     [
+      "[[بزرگ|bozorg]]",
+      "[[بزرگ‌تر|bozorg-tar]]",
+      "[[بزرگ‌ترین|bozorg-tarin]]",
+      "big – bigger – biggest"
+     ],
+     [
+      "[[کوچک|kuchak]]",
+      "[[کوچک‌تر|kuchak-tar]]",
+      "[[کوچک‌ترین|kuchak-tarin]]",
+      "small – smaller – smallest"
+     ],
+     [
+      "[[گرم|garm]]",
+      "[[گرم‌تر|garm-tar]]",
+      "[[گرم‌ترین|garm-tarin]]",
+      "hot – hotter – hottest"
+     ],
+     [
+      "[[سرد|sard]]",
+      "[[سردتر|sard-tar]]",
+      "[[سردترین|sard-tarin]]",
+      "cold – colder – coldest"
+     ],
+     [
+      "[[قدیمی|ghadimi]]",
+      "[[قدیمی‌تر|ghadimi-tar]]",
+      "[[قدیمی‌ترین|ghadimi-tarin]]",
+      "old – older – oldest"
+     ],
+     [
+      "[[زیبا|zibā]]",
+      "[[زیباتر|zibā-tar]]",
+      "[[زیباترین|zibā-tarin]]",
+      "beautiful – more – most beautiful"
+     ],
+     [
+      "[[خوب|khub]]",
+      "[[بهتر|behtar]]",
+      "[[بهترین|behtarin]]",
+      "good – better – best"
+     ],
+     [
+      "[[زیاد|ziyād]]",
+      "[[بیشتر|bishtar]]",
+      "[[بیشترین|bishtarin]]",
+      "much – more – most"
+     ],
+     [
+      "[[کم|kam]]",
+      "[[کمتر|kamtar]]",
+      "[[کمترین|kamtarin]]",
+      "little – less – least"
+     ]
     ]
    },
    "examples": [
-    {"fa": "تهران از اصفهان بزرگ‌تر است.", "r": "Tehrān az Esfahān bozorg-tar ast.", "en": "Tehran is bigger than Isfahan.", "col": "تهران از اصفهان بزرگ‌تره.", "colR": "Tehrān az Esfahān bozorg-tare."},
-    {"fa": "تبریز در زمستان از شیراز سردتر است.", "r": "Tabriz dar zemestān az Shirāz sard-tar ast.", "en": "In winter Tabriz is colder than Shiraz."},
-    {"fa": "هوای رشت از هوای یزد مرطوب‌تر است.", "r": "havā-ye Rasht az havā-ye Yazd martub-tar ast.", "en": "The air in Rasht is more humid than in Yazd."},
-    {"fa": "این چای از آن چای بهتر است.", "r": "in chāy az ān chāy behtar ast.", "en": "This tea is better than that tea.", "col": "این چای از اون چای بهتره.", "colR": "in chāy az un chāy behtare."},
-    {"fa": "لطفاً آهسته‌تر صحبت کنید.", "r": "lotfan āheste-tar sohbat konid.", "en": "Please speak more slowly.", "col": "لطفاً آروم‌تر حرف بزنین.", "colR": "lotfan ārum-tar harf bezanin."},
-    {"fa": "خانه‌ی ما کمی بزرگ‌تر است.", "r": "khāne-ye mā kami bozorg-tar ast.", "en": "Our house is a bit bigger."}
+    {
+     "fa": "تهران از اصفهان بزرگ‌تر است.",
+     "r": "Tehrān az Esfahān bozorg-tar ast.",
+     "en": "Tehran is bigger than Isfahan.",
+     "col": "تهران از اصفهان بزرگ‌تره.",
+     "colR": "Tehrān az Esfahān bozorg-tare.",
+     "faV": "تِهران اَز اِصفَهان بُزُرگ‌تَر اَست.",
+     "a": "c05726163b60",
+     "colV": "تِهران اَز اِصفَهان بُزُرگ‌تَره.",
+     "colA": "a634558c665d"
+    },
+    {
+     "fa": "تبریز در زمستان از شیراز سردتر است.",
+     "r": "Tabriz dar zemestān az Shirāz sard-tar ast.",
+     "en": "In winter Tabriz is colder than Shiraz.",
+     "faV": "تَبریز دَر زِمِستان اَز شیراز سَردتَر اَست.",
+     "a": "b9d2469f9203"
+    },
+    {
+     "fa": "هوای رشت از هوای یزد مرطوب‌تر است.",
+     "r": "havā-ye Rasht az havā-ye Yazd martub-tar ast.",
+     "en": "The air in Rasht is more humid than in Yazd.",
+     "faV": "هَوایِ رَشت اَز هَوایِ یَزد مَرطوب‌تَر اَست.",
+     "a": "3d1564daf911"
+    },
+    {
+     "fa": "این چای از آن چای بهتر است.",
+     "r": "in chāy az ān chāy behtar ast.",
+     "en": "This tea is better than that tea.",
+     "col": "این چای از اون چای بهتره.",
+     "colR": "in chāy az un chāy behtare.",
+     "faV": "این چای اَز آن چای بِهتَر اَست.",
+     "a": "9cc84c792173",
+     "colV": "این چای اَز اون چای بِهتَره.",
+     "colA": "620a6ffa9982"
+    },
+    {
+     "fa": "لطفاً آهسته‌تر صحبت کنید.",
+     "r": "lotfan āheste-tar sohbat konid.",
+     "en": "Please speak more slowly.",
+     "col": "لطفاً آروم‌تر حرف بزنین.",
+     "colR": "lotfan ārum-tar harf bezanin.",
+     "faV": "لُطفاً آهِسته‌تَر صُحبَت کُنید.",
+     "a": "770f0b247125",
+     "colV": "لُطفاً آروم‌تَر حَرف بِزَنین.",
+     "colA": "2c7b1d201e92"
+    },
+    {
+     "fa": "خانه‌ی ما کمی بزرگ‌تر است.",
+     "r": "khāne-ye mā kami bozorg-tar ast.",
+     "en": "Our house is a bit bigger.",
+     "faV": "خانه‌یِ ما کَمی بُزُرگ‌تَر اَست.",
+     "a": "d29e204cd03c"
+    }
    ]
   },
   {
@@ -92,22 +510,84 @@
    "title": "The biggest, the best: -tarin",
    "md": "The superlative **-tarin** comes **before** the noun, with **no ezafe**: [[بهترین رستوران|behtarin resturān|the best restaurant]]. Compare the comparative, which comes after the noun with an ezafe like any adjective: [[رستوران بهتر|resturān-e behtar|a better restaurant]].\n\n*The biggest city **in** Iran* needs no preposition – just an ezafe on the noun: [[بزرگ‌ترین شهر ایران|bozorg-tarin shahr-e Irān]]. *One of the …-est* is [[یکی از|yek-i az]] + -tarin + a **plural** noun: [[یکی از قدیمی‌ترین شهرهای دنیا|yek-i az ghadimi-tarin shahr-hā-ye donyā|one of the oldest cities in the world]].\n\nIn speech you will often hear [[از همه|az hame|than all]] + -tar instead: [[تهران از همه بزرگ‌تر است|Tehrān az hame bozorg-tar ast|Tehran is the biggest (of all)]].",
    "table": {
-    "head": ["Pattern", "Persian", "English"],
+    "head": [
+     "Pattern",
+     "Persian",
+     "English"
+    ],
     "rows": [
-     ["-tarin + noun", "[[بزرگ‌ترین شهر|bozorg-tarin shahr]]", "the biggest city"],
-     ["-tarin + noun-e + place", "[[بزرگ‌ترین شهر ایران|bozorg-tarin shahr-e Irān]]", "the biggest city in Iran"],
-     ["yek-i az + -tarin + plural", "[[یکی از قدیمی‌ترین شهرهای دنیا|yek-i az ghadimi-tarin shahr-hā-ye donyā]]", "one of the oldest cities in the world"],
-     ["az hame + -tar", "[[از همه بزرگ‌تر|az hame bozorg-tar]]", "the biggest of all"],
-     ["-tarin on its own", "[[تهران بزرگ‌ترین است.|Tehrān bozorg-tarin ast.]]", "Tehran is the biggest."],
-     ["compare: noun-e + -tar", "[[شهر بزرگ‌تر|shahr-e bozorg-tar]]", "the bigger city"]
+     [
+      "-tarin + noun",
+      "[[بزرگ‌ترین شهر|bozorg-tarin shahr]]",
+      "the biggest city"
+     ],
+     [
+      "-tarin + noun-e + place",
+      "[[بزرگ‌ترین شهر ایران|bozorg-tarin shahr-e Irān]]",
+      "the biggest city in Iran"
+     ],
+     [
+      "yek-i az + -tarin + plural",
+      "[[یکی از قدیمی‌ترین شهرهای دنیا|yek-i az ghadimi-tarin shahr-hā-ye donyā]]",
+      "one of the oldest cities in the world"
+     ],
+     [
+      "az hame + -tar",
+      "[[از همه بزرگ‌تر|az hame bozorg-tar]]",
+      "the biggest of all"
+     ],
+     [
+      "-tarin on its own",
+      "[[تهران بزرگ‌ترین است.|Tehrān bozorg-tarin ast.]]",
+      "Tehran is the biggest."
+     ],
+     [
+      "compare: noun-e + -tar",
+      "[[شهر بزرگ‌تر|shahr-e bozorg-tar]]",
+      "the bigger city"
+     ]
     ]
    },
    "examples": [
-    {"fa": "تهران بزرگ‌ترین شهر ایران است.", "r": "Tehrān bozorg-tarin shahr-e Irān ast.", "en": "Tehran is the biggest city in Iran.", "col": "تهران بزرگ‌ترین شهر ایرانه.", "colR": "Tehrān bozorg-tarin shahr-e Irāne."},
-    {"fa": "دماوند بلندترین کوه ایران است.", "r": "Damāvand boland-tarin kuh-e Irān ast.", "en": "Damavand is the highest mountain in Iran."},
-    {"fa": "یزد یکی از قدیمی‌ترین شهرهای دنیاست.", "r": "Yazd yek-i az ghadimi-tarin shahr-hā-ye donyā-st.", "en": "Yazd is one of the oldest cities in the world."},
-    {"fa": "بهترین رستوران این‌جا کجاست؟", "r": "behtarin resturān-e in-jā kojāst?", "en": "Where is the best restaurant around here?"},
-    {"fa": "از همه بیشتر چای دوست دارم.", "r": "az hame bishtar chāy dust dāram.", "en": "I like tea most of all."}
+    {
+     "fa": "تهران بزرگ‌ترین شهر ایران است.",
+     "r": "Tehrān bozorg-tarin shahr-e Irān ast.",
+     "en": "Tehran is the biggest city in Iran.",
+     "col": "تهران بزرگ‌ترین شهر ایرانه.",
+     "colR": "Tehrān bozorg-tarin shahr-e Irāne.",
+     "faV": "تِهران بُزُرگ‌تَرین شَهرِ ایران اَست.",
+     "a": "1151f09d0799",
+     "colV": "تِهران بُزُرگ‌تَرین شَهرِ ایرانه.",
+     "colA": "fad6274e5bff"
+    },
+    {
+     "fa": "دماوند بلندترین کوه ایران است.",
+     "r": "Damāvand boland-tarin kuh-e Irān ast.",
+     "en": "Damavand is the highest mountain in Iran.",
+     "faV": "دَماوَند بُلَندتَرین کوهِ ایران اَست.",
+     "a": "d69b7f9456ba"
+    },
+    {
+     "fa": "یزد یکی از قدیمی‌ترین شهرهای دنیاست.",
+     "r": "Yazd yek-i az ghadimi-tarin shahr-hā-ye donyā-st.",
+     "en": "Yazd is one of the oldest cities in the world.",
+     "faV": "یَزد یِکی اَز قَدیمی‌تَرین شَهرهایِ دُنیاست.",
+     "a": "9bf160c24744"
+    },
+    {
+     "fa": "بهترین رستوران این‌جا کجاست؟",
+     "r": "behtarin resturān-e in-jā kojāst?",
+     "en": "Where is the best restaurant around here?",
+     "faV": "بِهتَرین رِستورانِ این‌جا کُجاست؟",
+     "a": "1b5e3391e5af"
+    },
+    {
+     "fa": "از همه بیشتر چای دوست دارم.",
+     "r": "az hame bishtar chāy dust dāram.",
+     "en": "I like tea most of all.",
+     "faV": "اَز هَمه بیشتَر چای دوست دارَم.",
+     "a": "82716fd01268"
+    }
    ]
   },
   {
@@ -115,23 +595,89 @@
    "title": "As … as, and like: به اندازه‌ی، مثل، مانند",
    "md": "For *as … as*, Persian says *to the size of*: [[به اندازه‌ی|be andāze-ye]] + noun + adjective. It is most often used in the negative: [[شیراز به اندازه‌ی تهران شلوغ نیست.|Shirāz be andāze-ye Tehrān sholugh nist.|Shiraz is not as busy as Tehran.]]\n\nFor *like*, everyday Persian uses [[مثل|mesl-e]] and written Persian [[مانند|mānand-e]]; both take an ezafe. *Similar to* is [[شبیه|shabih-e]], and *different from* is [[با … فرق دارد|bā … fargh dārad|has a difference with …]].\n\nNotice that [[مثل|mesl-e]] can also mean *as, in the same way as*: [[مثل همیشه|mesl-e hamishe|as always]], [[مثل یزد|mesl-e Yazd|like Yazd, as in Yazd]].",
    "table": {
-    "head": ["Meaning", "Persian", "English"],
+    "head": [
+     "Meaning",
+     "Persian",
+     "English"
+    ],
     "rows": [
-     ["as … as", "[[به اندازه‌ی تهران بزرگ|be andāze-ye Tehrān bozorg]]", "as big as Tehran"],
-     ["not as … as", "[[به اندازه‌ی تهران شلوغ نیست|be andāze-ye Tehrān sholugh nist]]", "is not as busy as Tehran"],
-     ["like (everyday)", "[[مثل یک موزه|mesl-e yek muze]]", "like a museum"],
-     ["like (written)", "[[مانند یک موزه|mānand-e yek muze]]", "like a museum"],
-     ["similar to", "[[شبیه اصفهان|shabih-e Esfahān]]", "similar to Isfahan"],
-     ["alike", "[[مثل هم|mesl-e ham]]", "like each other, the same"],
-     ["different from", "[[با شیراز فرق دارد|bā Shirāz fargh dārad]]", "is different from Shiraz"]
+     [
+      "as … as",
+      "[[به اندازه‌ی تهران بزرگ|be andāze-ye Tehrān bozorg]]",
+      "as big as Tehran"
+     ],
+     [
+      "not as … as",
+      "[[به اندازه‌ی تهران شلوغ نیست|be andāze-ye Tehrān sholugh nist]]",
+      "is not as busy as Tehran"
+     ],
+     [
+      "like (everyday)",
+      "[[مثل یک موزه|mesl-e yek muze]]",
+      "like a museum"
+     ],
+     [
+      "like (written)",
+      "[[مانند یک موزه|mānand-e yek muze]]",
+      "like a museum"
+     ],
+     [
+      "similar to",
+      "[[شبیه اصفهان|shabih-e Esfahān]]",
+      "similar to Isfahan"
+     ],
+     [
+      "alike",
+      "[[مثل هم|mesl-e ham]]",
+      "like each other, the same"
+     ],
+     [
+      "different from",
+      "[[با شیراز فرق دارد|bā Shirāz fargh dārad]]",
+      "is different from Shiraz"
+     ]
     ]
    },
    "examples": [
-    {"fa": "شیراز به اندازه‌ی تهران شلوغ نیست.", "r": "Shirāz be andāze-ye Tehrān sholugh nist.", "en": "Shiraz isn't as busy as Tehran."},
-    {"fa": "هوای مشهد به اندازه‌ی هوای تبریز سرد نیست.", "r": "havā-ye Mashhad be andāze-ye havā-ye Tabriz sard nist.", "en": "The weather in Mashhad isn't as cold as in Tabriz."},
-    {"fa": "کاشان مثل یزد یک شهر کویری است.", "r": "Kāshān mesl-e Yazd yek shahr-e kaviri ast.", "en": "Like Yazd, Kashan is a desert city.", "col": "کاشان مثل یزد یه شهر کویریه.", "colR": "Kāshān mesl-e Yazd ye shahr-e kaviriye."},
-    {"fa": "رشت مانند شهرهای اروپا بارانی است.", "r": "Rasht mānand-e shahr-hā-ye Orupā bārāni ast.", "en": "Like European cities, Rasht is rainy."},
-    {"fa": "این دو شهر خیلی با هم فرق دارند.", "r": "in do shahr kheyli bā ham fargh dārand.", "en": "These two cities are very different from each other."}
+    {
+     "fa": "شیراز به اندازه‌ی تهران شلوغ نیست.",
+     "r": "Shirāz be andāze-ye Tehrān sholugh nist.",
+     "en": "Shiraz isn't as busy as Tehran.",
+     "faV": "شیراز به اَندازه‌یِ تِهران شُلوغ نیست.",
+     "a": "2acd1fe670f9"
+    },
+    {
+     "fa": "هوای مشهد به اندازه‌ی هوای تبریز سرد نیست.",
+     "r": "havā-ye Mashhad be andāze-ye havā-ye Tabriz sard nist.",
+     "en": "The weather in Mashhad isn't as cold as in Tabriz.",
+     "faV": "هَوایِ مَشهَد به اَندازه‌یِ هَوایِ تَبریز سَرد نیست.",
+     "a": "c677909436dc"
+    },
+    {
+     "fa": "کاشان مثل یزد یک شهر کویری است.",
+     "r": "Kāshān mesl-e Yazd yek shahr-e kaviri ast.",
+     "en": "Like Yazd, Kashan is a desert city.",
+     "col": "کاشان مثل یزد یه شهر کویریه.",
+     "colR": "Kāshān mesl-e Yazd ye shahr-e kaviriye.",
+     "faV": "کاشان مِثلِ یَزد یِک شَهرِ کَویری اَست.",
+     "a": "5a490b3df442",
+     "colV": "کاشان مِثلِ یَزد یه شَهرِ کَویریه.",
+     "colA": "985364d18816"
+    },
+    {
+     "fa": "رشت مانند شهرهای اروپا بارانی است.",
+     "r": "Rasht mānand-e shahr-hā-ye Orupā bārāni ast.",
+     "en": "Like European cities, Rasht is rainy.",
+     "faV": "رَشت مانَندِ شَهرهایِ اُروپا بارانی اَست.",
+     "a": "76c285f9b44e"
+    },
+    {
+     "fa": "این دو شهر خیلی با هم فرق دارند.",
+     "r": "in do shahr kheyli bā ham fargh dārand.",
+     "en": "These two cities are very different from each other.",
+     "faV": "این دو شَهر خَیلی با هَم فَرق دارَند.",
+     "a": "8cd5cdc2685c"
+    }
    ]
   },
   {
@@ -139,22 +685,114 @@
    "title": "Five cities",
    "intro": "A short guide to five Iranian cities. Look for -tar, -tarin, مثل and به اندازه‌ی.",
    "sentences": [
-    {"fa": "ایران کشور بزرگی است و شهرهایش خیلی با هم فرق دارند.", "r": "Irān keshvar-e bozorg-i ast o shahr-hā-yash kheyli bā ham fargh dārand.", "en": "Iran is a big country, and its cities are very different from each other."},
-    {"fa": "تهران پایتخت و بزرگ‌ترین شهر ایران است.", "r": "Tehrān pāytakht o bozorg-tarin shahr-e Irān ast.", "en": "Tehran is the capital and the biggest city in Iran."},
-    {"fa": "بعد از تهران، مشهد از همه بزرگ‌تر است.", "r": "ba'd az Tehrān, Mashhad az hame bozorg-tar ast.", "en": "After Tehran, Mashhad is the biggest."},
-    {"fa": "اصفهان معروف‌ترین شهر ایران برای مسافران خارجی است.", "r": "Esfahān ma'ruf-tarin shahr-e Irān barā-ye mosāferān-e khāreji ast.", "en": "Isfahan is the best-known Iranian city among foreign travellers."},
-    {"fa": "یزد یکی از قدیمی‌ترین شهرهای دنیاست و خانه‌هایش بادگیر دارند.", "r": "Yazd yek-i az ghadimi-tarin shahr-hā-ye donyā-st o khāne-hā-yash bādgir dārand.", "en": "Yazd is one of the oldest cities in the world, and its houses have windcatchers."},
-    {"fa": "در تابستان یزد از تهران خیلی گرم‌تر و خشک‌تر است.", "r": "dar tābestān Yazd az Tehrān kheyli garm-tar o khoshk-tar ast.", "en": "In summer Yazd is much hotter and drier than Tehran."},
-    {"fa": "رشت، در شمال، یکی از بارانی‌ترین شهرهای ایران است.", "r": "Rasht, dar shomāl, yek-i az bārāni-tarin shahr-hā-ye Irān ast.", "en": "Rasht, in the north, is one of the rainiest cities in Iran."},
-    {"fa": "رشت به اندازه‌ی یزد قدیمی نیست، اما غذاهایش معروف‌اند.", "r": "Rasht be andāze-ye Yazd ghadimi nist, ammā ghazā-hā-yash ma'ruf-and.", "en": "Rasht isn't as old as Yazd, but its food is famous."},
-    {"fa": "شیراز شهر شاعران است: حافظ و سعدی هر دو شیرازی بودند.", "r": "Shirāz shahr-e shā'erān ast: Hāfez o Sa'di har do Shirāzi budand.", "en": "Shiraz is the city of poets: Hafez and Saadi were both from Shiraz."},
-    {"fa": "کدام شهر بهتر است؟ هر ایرانی یک جواب دارد: شهر خودش!", "r": "kodām shahr behtar ast? har irāni yek javāb dārad: shahr-e khod-ash!", "en": "Which city is best? Every Iranian has the same answer: their own!"}
+    {
+     "fa": "ایران کشور بزرگی است و شهرهایش خیلی با هم فرق دارند.",
+     "r": "Irān keshvar-e bozorg-i ast o shahr-hā-yash kheyli bā ham fargh dārand.",
+     "en": "Iran is a big country, and its cities are very different from each other.",
+     "faV": "ایران کِشوَرِ بُزُرگی اَست و شَهرهایَش خَیلی با هَم فَرق دارَند.",
+     "a": "88dc0680e9ff"
+    },
+    {
+     "fa": "تهران پایتخت و بزرگ‌ترین شهر ایران است.",
+     "r": "Tehrān pāytakht o bozorg-tarin shahr-e Irān ast.",
+     "en": "Tehran is the capital and the biggest city in Iran.",
+     "faV": "تِهران پایتَخت و بُزُرگ‌تَرین شَهرِ ایران اَست.",
+     "a": "f0f534c2e429"
+    },
+    {
+     "fa": "بعد از تهران، مشهد از همه بزرگ‌تر است.",
+     "r": "ba'd az Tehrān, Mashhad az hame bozorg-tar ast.",
+     "en": "After Tehran, Mashhad is the biggest.",
+     "faV": "بَعد اَز تِهران، مَشهَد اَز هَمه بُزُرگ‌تَر اَست.",
+     "a": "270ffba92b7e"
+    },
+    {
+     "fa": "اصفهان معروف‌ترین شهر ایران برای مسافران خارجی است.",
+     "r": "Esfahān ma'ruf-tarin shahr-e Irān barā-ye mosāferān-e khāreji ast.",
+     "en": "Isfahan is the best-known Iranian city among foreign travellers.",
+     "faV": "اِصفَهان مَعروف‌تَرین شَهرِ ایران بَرایِ مُسافِرانِ خارِجی اَست.",
+     "a": "ca60ac3f0bb0"
+    },
+    {
+     "fa": "یزد یکی از قدیمی‌ترین شهرهای دنیاست و خانه‌هایش بادگیر دارند.",
+     "r": "Yazd yek-i az ghadimi-tarin shahr-hā-ye donyā-st o khāne-hā-yash bādgir dārand.",
+     "en": "Yazd is one of the oldest cities in the world, and its houses have windcatchers.",
+     "faV": "یَزد یِکی اَز قَدیمی‌تَرین شَهرهایِ دُنیاست و خانه‌هایَش بادگیر دارَند.",
+     "a": "e9164b8b8262"
+    },
+    {
+     "fa": "در تابستان یزد از تهران خیلی گرم‌تر و خشک‌تر است.",
+     "r": "dar tābestān Yazd az Tehrān kheyli garm-tar o khoshk-tar ast.",
+     "en": "In summer Yazd is much hotter and drier than Tehran.",
+     "faV": "دَر تابِستان یَزد اَز تِهران خَیلی گَرم‌تَر و خُشک‌تَر اَست.",
+     "a": "0bcde4d6a95b"
+    },
+    {
+     "fa": "رشت، در شمال، یکی از بارانی‌ترین شهرهای ایران است.",
+     "r": "Rasht, dar shomāl, yek-i az bārāni-tarin shahr-hā-ye Irān ast.",
+     "en": "Rasht, in the north, is one of the rainiest cities in Iran.",
+     "faV": "رَشت، دَر شُمال، یِکی اَز بارانی‌تَرین شَهرهایِ ایران اَست.",
+     "a": "bcd2098c0dd9"
+    },
+    {
+     "fa": "رشت به اندازه‌ی یزد قدیمی نیست، اما غذاهایش معروف‌اند.",
+     "r": "Rasht be andāze-ye Yazd ghadimi nist, ammā ghazā-hā-yash ma'ruf-and.",
+     "en": "Rasht isn't as old as Yazd, but its food is famous.",
+     "faV": "رَشت به اَندازه‌یِ یَزد قَدیمی نیست، اَمّا غَذاهایَش مَعروف‌اَند.",
+     "a": "ce8dd6c27c2b"
+    },
+    {
+     "fa": "شیراز شهر شاعران است: حافظ و سعدی هر دو شیرازی بودند.",
+     "r": "Shirāz shahr-e shā'erān ast: Hāfez o Sa'di har do Shirāzi budand.",
+     "en": "Shiraz is the city of poets: Hafez and Saadi were both from Shiraz.",
+     "faV": "شیراز شَهرِ شاعِران اَست: حافِظ و سَعدی هَر دو شیرازی بودَند.",
+     "a": "fe199a905794"
+    },
+    {
+     "fa": "کدام شهر بهتر است؟ هر ایرانی یک جواب دارد: شهر خودش!",
+     "r": "kodām shahr behtar ast? har irāni yek javāb dārad: shahr-e khod-ash!",
+     "en": "Which city is best? Every Iranian has the same answer: their own!",
+     "faV": "کُدام شَهر بِهتَر اَست؟ هَر ایرانی یِک جَواب دارَد: شَهرِ خودَش!",
+     "a": "8584e88f77c5"
+    }
    ],
    "questions": [
-    {"q": "Which city is the biggest after Tehran?", "options": ["Isfahan", "Mashhad", "Shiraz"], "answer": 1},
-    {"q": "What do the houses of Yazd have?", "options": ["big gardens", "windcatchers", "red roofs"], "answer": 1},
-    {"q": "Which city is called the city of poets?", "options": ["Rasht", "Yazd", "Shiraz"], "answer": 2},
-    {"q": "In 'Rasht isn't as old as Yazd', which words mean 'as … as'?", "options": ["به اندازه‌ی", "یکی از", "از همه"], "answer": 0}
+    {
+     "q": "Which city is the biggest after Tehran?",
+     "options": [
+      "Isfahan",
+      "Mashhad",
+      "Shiraz"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What do the houses of Yazd have?",
+     "options": [
+      "big gardens",
+      "windcatchers",
+      "red roofs"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Which city is called the city of poets?",
+     "options": [
+      "Rasht",
+      "Yazd",
+      "Shiraz"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "In 'Rasht isn't as old as Yazd', which words mean 'as … as'?",
+     "options": [
+      "به اندازه‌ی",
+      "یکی از",
+      "از همه"
+     ],
+     "answer": 0
+    }
    ]
   },
   {
@@ -179,14 +817,62 @@
    "kind": "match",
    "title": "Match the words",
    "items": [
-    {"fa": "بزرگ‌تر", "r": "bozorg-tar", "en": "bigger"},
-    {"fa": "کوچک‌ترین", "r": "kuchak-tarin", "en": "the smallest"},
-    {"fa": "بهتر", "r": "behtar", "en": "better"},
-    {"fa": "بیشتر", "r": "bishtar", "en": "more"},
-    {"fa": "شلوغ", "r": "sholugh", "en": "crowded, busy"},
-    {"fa": "قدیمی", "r": "ghadimi", "en": "old"},
-    {"fa": "مثل", "r": "mesl-e", "en": "like"},
-    {"fa": "پایتخت", "r": "pāytakht", "en": "capital city"}
+    {
+     "fa": "بزرگ‌تر",
+     "r": "bozorg-tar",
+     "en": "bigger",
+     "faV": "بُزُرگ‌تَر",
+     "a": "27d125e0e3b5"
+    },
+    {
+     "fa": "کوچک‌ترین",
+     "r": "kuchak-tarin",
+     "en": "the smallest",
+     "faV": "کوچَک‌تَرین",
+     "a": "2a7944a33ea6"
+    },
+    {
+     "fa": "بهتر",
+     "r": "behtar",
+     "en": "better",
+     "faV": "بِهتَر",
+     "a": "249e217c804c"
+    },
+    {
+     "fa": "بیشتر",
+     "r": "bishtar",
+     "en": "more",
+     "faV": "بیشتَر",
+     "a": "b840a953d7ae"
+    },
+    {
+     "fa": "شلوغ",
+     "r": "sholugh",
+     "en": "crowded, busy",
+     "faV": "شُلوغ",
+     "a": "1d0afff107f1"
+    },
+    {
+     "fa": "قدیمی",
+     "r": "ghadimi",
+     "en": "old",
+     "faV": "قَدیمی",
+     "a": "c8d4c8a09b8a"
+    },
+    {
+     "fa": "مثل",
+     "r": "mesl-e",
+     "en": "like",
+     "faV": "مِثلِ",
+     "a": "685579e7062c"
+    },
+    {
+     "fa": "پایتخت",
+     "r": "pāytakht",
+     "en": "capital city",
+     "faV": "پایتَخت",
+     "a": "cc64448038c2"
+    }
    ]
   },
   {
@@ -194,11 +880,56 @@
    "kind": "mcq",
    "title": "Choose the right sentence",
    "items": [
-    {"q": "'Tehran is bigger than Shiraz.'", "options": ["تهران از شیراز بزرگ‌تر است.", "تهران شیراز بزرگ‌تر است.", "تهران از شیراز بزرگ‌ترین است."], "answer": 0, "explain": "A + az + B + -tar: Tehrān az Shirāz bozorg-tar ast."},
-    {"q": "'The best restaurant' is…", "options": ["رستوران بهترین", "بهترین رستوران", "رستوران بهتر"], "answer": 1, "explain": "-tarin goes before the noun, without an ezafe. resturān-e behtar means 'a better restaurant'."},
-    {"q": "The comparative of خوب is…", "options": ["خوب‌ترین", "بهتر", "بیشتر"], "answer": 1, "explain": "khub → behtar → behtarin. bishtar is 'more', from ziyād."},
-    {"q": "'Shiraz isn't as busy as Tehran.'", "options": ["شیراز مثل تهران شلوغ‌تر است.", "شیراز به اندازه‌ی تهران شلوغ نیست.", "شیراز از تهران شلوغ‌ترین نیست."], "answer": 1, "explain": "be andāze-ye + noun + adjective, with the verb in the negative."},
-    {"q": "'One of the oldest cities in the world' is…", "options": ["یکی از قدیمی‌ترین شهرهای دنیا", "یک شهر قدیمی‌تر دنیا", "قدیمی‌ترین یک شهر دنیا"], "answer": 0, "explain": "yek-i az + -tarin + a plural noun: yek-i az ghadimi-tarin shahr-hā."}
+    {
+     "q": "'Tehran is bigger than Shiraz.'",
+     "options": [
+      "تهران از شیراز بزرگ‌تر است.",
+      "تهران شیراز بزرگ‌تر است.",
+      "تهران از شیراز بزرگ‌ترین است."
+     ],
+     "answer": 0,
+     "explain": "A + az + B + -tar: Tehrān az Shirāz bozorg-tar ast."
+    },
+    {
+     "q": "'The best restaurant' is…",
+     "options": [
+      "رستوران بهترین",
+      "بهترین رستوران",
+      "رستوران بهتر"
+     ],
+     "answer": 1,
+     "explain": "-tarin goes before the noun, without an ezafe. resturān-e behtar means 'a better restaurant'."
+    },
+    {
+     "q": "The comparative of خوب is…",
+     "options": [
+      "خوب‌ترین",
+      "بهتر",
+      "بیشتر"
+     ],
+     "answer": 1,
+     "explain": "khub → behtar → behtarin. bishtar is 'more', from ziyād."
+    },
+    {
+     "q": "'Shiraz isn't as busy as Tehran.'",
+     "options": [
+      "شیراز مثل تهران شلوغ‌تر است.",
+      "شیراز به اندازه‌ی تهران شلوغ نیست.",
+      "شیراز از تهران شلوغ‌ترین نیست."
+     ],
+     "answer": 1,
+     "explain": "be andāze-ye + noun + adjective, with the verb in the negative."
+    },
+    {
+     "q": "'One of the oldest cities in the world' is…",
+     "options": [
+      "یکی از قدیمی‌ترین شهرهای دنیا",
+      "یک شهر قدیمی‌تر دنیا",
+      "قدیمی‌ترین یک شهر دنیا"
+     ],
+     "answer": 0,
+     "explain": "yek-i az + -tarin + a plural noun: yek-i az ghadimi-tarin shahr-hā."
+    }
    ]
   },
   {
@@ -206,11 +937,41 @@
    "kind": "fill",
    "title": "Complete the comparisons",
    "items": [
-    {"fa": "تبریز از شیراز ___ است.", "r": "Tabriz az Shirāz ___ ast.", "en": "Tabriz is colder than Shiraz.", "answer": "سردتر", "hint": "colder"},
-    {"fa": "دماوند ___ کوه ایران است.", "r": "Damāvand ___ kuh-e Irān ast.", "en": "Damavand is the highest mountain in Iran.", "answer": "بلندترین", "hint": "highest"},
-    {"fa": "اصفهان ___ یک موزه است.", "r": "Esfahān ___ yek muze ast.", "en": "Isfahan is like a museum.", "answer": "مثل", "hint": "like"},
-    {"fa": "یزد به اندازه‌ی تهران ___ نیست.", "r": "Yazd be andāze-ye Tehrān ___ nist.", "en": "Yazd isn't as crowded as Tehran.", "answer": "شلوغ", "hint": "crowded"},
-    {"fa": "این چای از آن چای ___ است.", "r": "in chāy az ān chāy ___ ast.", "en": "This tea is better than that tea.", "answer": "بهتر", "hint": "better"}
+    {
+     "fa": "تبریز از شیراز ___ است.",
+     "r": "Tabriz az Shirāz ___ ast.",
+     "en": "Tabriz is colder than Shiraz.",
+     "answer": "سردتر",
+     "hint": "colder"
+    },
+    {
+     "fa": "دماوند ___ کوه ایران است.",
+     "r": "Damāvand ___ kuh-e Irān ast.",
+     "en": "Damavand is the highest mountain in Iran.",
+     "answer": "بلندترین",
+     "hint": "highest"
+    },
+    {
+     "fa": "اصفهان ___ یک موزه است.",
+     "r": "Esfahān ___ yek muze ast.",
+     "en": "Isfahan is like a museum.",
+     "answer": "مثل",
+     "hint": "like"
+    },
+    {
+     "fa": "یزد به اندازه‌ی تهران ___ نیست.",
+     "r": "Yazd be andāze-ye Tehrān ___ nist.",
+     "en": "Yazd isn't as crowded as Tehran.",
+     "answer": "شلوغ",
+     "hint": "crowded"
+    },
+    {
+     "fa": "این چای از آن چای ___ است.",
+     "r": "in chāy az ān chāy ___ ast.",
+     "en": "This tea is better than that tea.",
+     "answer": "بهتر",
+     "hint": "better"
+    }
    ]
   },
   {
@@ -218,10 +979,34 @@
    "kind": "order",
    "title": "Put the words in order",
    "items": [
-    {"fa": "تهران از اصفهان بزرگ‌تر است.", "r": "Tehrān az Esfahān bozorg-tar ast.", "en": "Tehran is bigger than Isfahan."},
-    {"fa": "بهترین رستوران این‌جا کجاست؟", "r": "behtarin resturān-e in-jā kojāst?", "en": "Where is the best restaurant around here?"},
-    {"fa": "شیراز به اندازه‌ی تهران شلوغ نیست.", "r": "Shirāz be andāze-ye Tehrān sholugh nist.", "en": "Shiraz isn't as busy as Tehran."},
-    {"fa": "یزد یکی از قدیمی‌ترین شهرهای دنیاست.", "r": "Yazd yek-i az ghadimi-tarin shahr-hā-ye donyā-st.", "en": "Yazd is one of the oldest cities in the world."}
+    {
+     "fa": "تهران از اصفهان بزرگ‌تر است.",
+     "r": "Tehrān az Esfahān bozorg-tar ast.",
+     "en": "Tehran is bigger than Isfahan.",
+     "faV": "تِهران اَز اِصفَهان بُزُرگ‌تَر اَست.",
+     "a": "c05726163b60"
+    },
+    {
+     "fa": "بهترین رستوران این‌جا کجاست؟",
+     "r": "behtarin resturān-e in-jā kojāst?",
+     "en": "Where is the best restaurant around here?",
+     "faV": "بِهتَرین رِستورانِ این‌جا کُجاست؟",
+     "a": "1b5e3391e5af"
+    },
+    {
+     "fa": "شیراز به اندازه‌ی تهران شلوغ نیست.",
+     "r": "Shirāz be andāze-ye Tehrān sholugh nist.",
+     "en": "Shiraz isn't as busy as Tehran.",
+     "faV": "شیراز به اَندازه‌یِ تِهران شُلوغ نیست.",
+     "a": "2acd1fe670f9"
+    },
+    {
+     "fa": "یزد یکی از قدیمی‌ترین شهرهای دنیاست.",
+     "r": "Yazd yek-i az ghadimi-tarin shahr-hā-ye donyā-st.",
+     "en": "Yazd is one of the oldest cities in the world.",
+     "faV": "یَزد یِکی اَز قَدیمی‌تَرین شَهرهایِ دُنیاست.",
+     "a": "9bf160c24744"
+    }
    ]
   },
   {
@@ -229,9 +1014,45 @@
    "kind": "listen",
    "title": "Listen and choose",
    "items": [
-    {"fa": "کدام شهر قشنگ‌تر است؟", "r": "kodām shahr ghashang-tar ast?", "en": "Which city is more beautiful?", "options": ["Which city is bigger?", "Which city is more beautiful?", "Which city is the oldest?"], "answer": 1},
-    {"fa": "از همه بیشتر چای دوست دارم.", "r": "az hame bishtar chāy dust dāram.", "en": "I like tea most of all.", "options": ["I like tea most of all.", "I don't like tea much.", "I like tea more than coffee."], "answer": 0},
-    {"fa": "لطفاً آهسته‌تر صحبت کنید.", "r": "lotfan āheste-tar sohbat konid.", "en": "Please speak more slowly.", "options": ["Please speak louder.", "Please speak more slowly.", "Please speak Persian."], "answer": 1}
+    {
+     "fa": "کدام شهر قشنگ‌تر است؟",
+     "r": "kodām shahr ghashang-tar ast?",
+     "en": "Which city is more beautiful?",
+     "options": [
+      "Which city is bigger?",
+      "Which city is more beautiful?",
+      "Which city is the oldest?"
+     ],
+     "answer": 1,
+     "faV": "کُدام شَهر قَشَنگ‌تَر اَست؟",
+     "a": "247c753afbc5"
+    },
+    {
+     "fa": "از همه بیشتر چای دوست دارم.",
+     "r": "az hame bishtar chāy dust dāram.",
+     "en": "I like tea most of all.",
+     "options": [
+      "I like tea most of all.",
+      "I don't like tea much.",
+      "I like tea more than coffee."
+     ],
+     "answer": 0,
+     "faV": "اَز هَمه بیشتَر چای دوست دارَم.",
+     "a": "82716fd01268"
+    },
+    {
+     "fa": "لطفاً آهسته‌تر صحبت کنید.",
+     "r": "lotfan āheste-tar sohbat konid.",
+     "en": "Please speak more slowly.",
+     "options": [
+      "Please speak louder.",
+      "Please speak more slowly.",
+      "Please speak Persian."
+     ],
+     "answer": 1,
+     "faV": "لُطفاً آهِسته‌تَر صُحبَت کُنید.",
+     "a": "770f0b247125"
+    }
    ]
   },
   {
@@ -239,11 +1060,37 @@
    "kind": "translate",
    "title": "Say it in Persian",
    "items": [
-    {"en": "Mashhad is bigger than Shiraz.", "fa": "مشهد از شیراز بزرگ‌تر است.", "r": "Mashhad az Shirāz bozorg-tar ast."},
-    {"en": "This is the best kebab in Isfahan!", "fa": "این بهترین کباب اصفهان است!", "r": "in behtarin kabāb-e Esfahān ast!"},
-    {"en": "In summer, Yazd is much hotter than Tehran.", "fa": "در تابستان یزد از تهران خیلی گرم‌تر است.", "r": "dar tābestān Yazd az Tehrān kheyli garm-tar ast."},
-    {"en": "My city isn't as beautiful as Isfahan.", "fa": "شهر من به اندازه‌ی اصفهان زیبا نیست.", "r": "shahr-e man be andāze-ye Esfahān zibā nist."}
+    {
+     "en": "Mashhad is bigger than Shiraz.",
+     "fa": "مشهد از شیراز بزرگ‌تر است.",
+     "r": "Mashhad az Shirāz bozorg-tar ast.",
+     "faV": "مَشهَد اَز شیراز بُزُرگ‌تَر اَست.",
+     "a": "9ac00a1b13db"
+    },
+    {
+     "en": "This is the best kebab in Isfahan!",
+     "fa": "این بهترین کباب اصفهان است!",
+     "r": "in behtarin kabāb-e Esfahān ast!",
+     "faV": "این بِهتَرین کَبابِ اِصفَهان اَست!",
+     "a": "6d61abda8819"
+    },
+    {
+     "en": "In summer, Yazd is much hotter than Tehran.",
+     "fa": "در تابستان یزد از تهران خیلی گرم‌تر است.",
+     "r": "dar tābestān Yazd az Tehrān kheyli garm-tar ast.",
+     "faV": "دَر تابِستان یَزد اَز تِهران خَیلی گَرم‌تَر اَست.",
+     "a": "3cab9b75e886"
+    },
+    {
+     "en": "My city isn't as beautiful as Isfahan.",
+     "fa": "شهر من به اندازه‌ی اصفهان زیبا نیست.",
+     "r": "shahr-e man be andāze-ye Esfahān zibā nist.",
+     "faV": "شَهرِ مَن به اَندازه‌یِ اِصفَهان زیبا نیست.",
+     "a": "1a4edde03303"
+    }
    ]
   }
- ]
+ ],
+ "titleV": "کُدام شَهر قَشَنگ‌تَر اَست؟",
+ "titleA": "247c753afbc5"
 }

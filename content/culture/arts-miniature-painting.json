@@ -1,0 +1,265 @@
+{
+ "id": "arts-miniature-painting",
+ "topic": "arts",
+ "title": "Persian miniature painting",
+ "titleFa": "نگارگری ایرانی",
+ "titleR": "negārgari-ye irāni",
+ "image": "persian-miniature",
+ "summary": "Small, brilliant and made to be read together with poetry, Persian miniatures are among the great paintings of the world. Meet the Herat school and Behzad, the Tabriz masterpiece made for Shah Tahmasp, and Reza Abbasi's Isfahan.",
+ "body": [
+  {
+   "h": "A painting inside a book",
+   "md": "What English calls a Persian miniature, Persian calls [[نگارگری|negārgari|the art of painting]] – or, borrowing from French, [[مینیاتور|miniyātur|miniature]]. These small, brilliant paintings were made to illustrate books: copies of the [[شاهنامه|Shāhnāme|Book of Kings]], of Nizami's love stories, of Saadi and Jami. A royal [[کتابخانه|ketābkhāne|library]] was really a workshop where calligraphers, painters, gilders and binders worked side by side, sometimes for years, on a single manuscript. The gilded decoration of the pages has its own name, [[تذهیب|tazhib|illumination]].\n\nThe painter did not want a window onto the world. There is no single viewpoint: things further away are simply higher up the page. Colours were ground from minerals – blue from [[لاجورد|lājvard|lapis lazuli]] – and gold was used freely, so that a page glows like a jewel.",
+   "image": "khamsa-nizami"
+  },
+  {
+   "h": "Herat: the classical age",
+   "md": "Persian painting took a great deal from China under the Mongol Ilkhans, who ruled from Tabriz: you can still see Chinese clouds, gnarled trees and craggy rocks in many later pictures. In the 15th century the Timurid princes of [[هرات|Herāt|Herat]], now in Afghanistan, turned it into a classical art. Prince Baysonghor gathered the best artists in his workshop there in the 1420s, and under Sultan Hosein Bayqara, at the end of the century, Herat was home to the poet Jami and to the greatest of all Persian painters, [[کمال‌الدین بهزاد|Kamāl-od-din Behzād|Kamal ud-Din Behzad]].",
+   "image": "jami"
+  },
+  {
+   "h": "Behzad",
+   "md": "Behzad (about 1450–1535) brought painting to life. Earlier artists drew elegant but similar figures; his people have character, and they are busy – builders carry bricks up ladders, servants pour water, dervishes dance. His pictures rest on bold geometry. In the famous *Yusuf and Zulaykha*, painted for a copy of Saadi's *Bustan* in 1488, the young Yusuf flees from Zulaykha through a palace of locked doors, zigzag stairs and tiled rooms. When the Safavids took Herat, Behzad moved to Tabriz, and in 1522 Shah Esmail made him head of the royal library."
+  },
+  {
+   "h": "Tabriz and the Shahnameh of Shah Tahmasp",
+   "md": "In Tabriz the refinement of Herat met the bold colour and fantasy of western Iran. The masterpiece of this Tabriz school is the [[شاهنامه‌ی شاه‌طهماسبی|Shāhnāme-ye Shāh-Tahmāsbi|Shahnameh of Shah Tahmasp]], made in the 1520s and 1530s for the young Shah Tahmasp, with 258 paintings by the best artists of the age. The most famous, Soltan Mohammad's *Court of Gayumars*, shows the first king of the world on a mountain of rainbow-coloured rocks, his people dressed in leopard skins and faces hidden in the stones.\n\nTahmasp later turned away from painting and in 1568 sent the book as a gift to the Ottoman sultan. In the 20th century it was taken apart and sold page by page, and its paintings are now divided between Tehran and museums abroad.",
+   "image": "shahnameh-shah-tahmasp"
+  },
+  {
+   "h": "Reza Abbasi and the Isfahan album",
+   "md": "By 1600 the court had moved to Isfahan, and painting began to leave the book. [[رضا عباسی|Rezā 'Abbāsi|Reza Abbasi]] (about 1565–1635), court painter to Shah Abbas, made single pictures that collectors pasted into albums, each called a [[مرقع|moraghgha'|album]]: a languid young man in a turban, a pair of lovers, an old dervish, a musician. A few quick, swelling lines – drawn almost like calligraphy – are enough to make a figure live. Merchants as well as princes now bought art, and his style was copied for a century.",
+   "image": "setar"
+  },
+  {
+   "h": "How to look at a miniature",
+   "md": "Start at the bottom and let your eye climb, because in a Persian painting distance goes upwards. Look at the frame: rocks, branches and banners often break out of it into the margin. Look for the text – boxes of verse are set into the picture, which was made to be read together with the poem. And look closely: painters sometimes hid their names on a building, a tile or a sword. The art is still alive in Iran today, where a miniature painter is called a [[نگارگر|negārgar|miniature painter]]."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "نگارگری ایرانی بیشتر برای کتاب‌ها کشیده می‌شد.",
+   "r": "negārgari-ye irāni bishtar barā-ye ketāb-hā keshide mi-shod.",
+   "en": "Persian miniatures were mostly painted for books.",
+   "faV": "نِگارگَریِ ایرانی بیشتَر بَرایِ کِتاب‌ها کِشیده می‌شُد.",
+   "a": "a19af14a617f"
+  },
+  {
+   "fa": "نقاش‌ها رنگ آبی را از سنگ لاجورد درست می‌کردند.",
+   "r": "nagghāsh-hā rang-e ābi rā az sang-e lājvard dorost mi-kardand.",
+   "en": "Painters made blue paint from lapis lazuli.",
+   "faV": "نَقّاش‌ها رَنگِ آبی را اَز سَنگِ لاجوَرد دُرُست می‌کَردَند.",
+   "a": "0a506071c33d"
+  },
+  {
+   "fa": "در نگارگری ایرانی، چیزهای دور بالاتر کشیده می‌شوند.",
+   "r": "dar negārgari-ye irāni, chiz-hā-ye dur bālā-tar keshide mi-shavand.",
+   "en": "In Persian painting, distant things are drawn higher up.",
+   "faV": "دَر نِگارگَریِ ایرانی، چیزهایِ دور بالاتَر کِشیده می‌شَوَند.",
+   "a": "17d4305c1730"
+  },
+  {
+   "fa": "در قرن پانزدهم، هرات مرکز هنر نگارگری بود.",
+   "r": "dar gharn-e pānzdahom, Herāt markaz-e honar-e negārgari bud.",
+   "en": "In the 15th century, Herat was the centre of miniature painting.",
+   "faV": "دَر قَرنِ پانزدَهُم، هِرات مَرکَزِ هُنَرِ نِگارگَری بود.",
+   "a": "4d57be8a31a6"
+  },
+  {
+   "fa": "بهزاد را بزرگ‌ترین نگارگر ایران می‌دانند.",
+   "r": "Behzād rā bozorg-tarin negārgar-e Irān mi-dānand.",
+   "en": "Behzad is considered the greatest Persian painter.",
+   "lit": "they consider Behzad the greatest painter of Iran",
+   "faV": "بِهزاد را بُزُرگ‌تَرین نِگارگَرِ ایران می‌دانَند.",
+   "a": "ae5e4f665556"
+  },
+  {
+   "fa": "در نقاشی‌های بهزاد، آدم‌ها کار می‌کنند و حرکت دارند.",
+   "r": "dar nagghāshi-hā-ye Behzād, ādam-hā kār mi-konand va harekat dārand.",
+   "en": "In Behzad's paintings, people work and move.",
+   "faV": "دَر نَقّاشی‌هایِ بِهزاد، آدَم‌ها کار می‌کُنَند و حَرِکَت دارَند.",
+   "a": "d197d2deb4da"
+  },
+  {
+   "fa": "شاهنامه‌ی شاه‌طهماسبی ۲۵۸ نگاره دارد.",
+   "r": "Shāhnāme-ye Shāh-Tahmāsbi devist-o-panjāh-o-hasht negāre dārad.",
+   "en": "The Shahnameh of Shah Tahmasp has 258 paintings.",
+   "faV": "شاهنامه‌یِ شاه‌طَهماسبی ۲۵۸ نِگاره دارَد.",
+   "a": "5c272584ed37"
+  },
+  {
+   "fa": "این کتاب در تبریز برای شاه جوان ساخته شد.",
+   "r": "in ketāb dar Tabriz barā-ye shāh-e javān sākhte shod.",
+   "en": "This book was made in Tabriz for the young shah.",
+   "faV": "این کِتاب دَر تَبریز بَرایِ شاهِ جَوان ساخته شُد.",
+   "a": "32d51484246e"
+  },
+  {
+   "fa": "رضا عباسی نقاش دربار شاه عباس بود.",
+   "r": "Rezā 'Abbāsi nagghāsh-e darbār-e Shāh 'Abbās bud.",
+   "en": "Reza Abbasi was Shah Abbas's court painter.",
+   "faV": "رِضا عَبّاسی نَقّاشِ دَربارِ شاه عَبّاس بود.",
+   "a": "2d2056ca3c86"
+  },
+  {
+   "fa": "او برای آلبوم‌های مردم ثروتمند نقاشی می‌کشید.",
+   "r": "u barā-ye ālbom-hā-ye mardom-e servatmand nagghāshi mi-keshid.",
+   "en": "He painted pictures for the albums of wealthy people.",
+   "faV": "او بَرایِ آلبوم‌هایِ مَردُمِ ثِروَتمَند نَقّاشی می‌کِشید.",
+   "a": "0104e3b10c63"
+  },
+  {
+   "fa": "موزه‌ی رضا عباسی در تهران است.",
+   "r": "muze-ye Rezā 'Abbāsi dar Tehrān ast.",
+   "en": "The Reza Abbasi Museum is in Tehran.",
+   "faV": "موزه‌یِ رِضا عَبّاسی دَر تِهران اَست.",
+   "a": "9ce66636098f"
+  },
+  {
+   "fa": "نگارگری هنوز در ایران زنده است.",
+   "r": "negārgari hanuz dar Irān zende ast.",
+   "en": "Miniature painting is still alive in Iran.",
+   "faV": "نِگارگَری هَنوز دَر ایران زِنده اَست.",
+   "a": "cb1ec4dc533d"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "نگارگری",
+   "r": "negārgari",
+   "en": "Persian miniature painting",
+   "faV": "نِگارگَری",
+   "a": "14b85a0112c0"
+  },
+  {
+   "fa": "نگارگر",
+   "r": "negārgar",
+   "en": "miniature painter",
+   "faV": "نِگارگَر",
+   "a": "c79b4e238f06"
+  },
+  {
+   "fa": "نگاره",
+   "r": "negāre",
+   "en": "picture, painting (in a manuscript)",
+   "faV": "نِگاره",
+   "a": "7a5c6d26a57f"
+  },
+  {
+   "fa": "مینیاتور",
+   "r": "miniyātur",
+   "en": "miniature",
+   "faV": "مینیاتور",
+   "a": "6248fac3cde5"
+  },
+  {
+   "fa": "نقاشی",
+   "r": "nagghāshi",
+   "en": "painting; drawing",
+   "faV": "نَقّاشی",
+   "a": "03d7dc14c76d"
+  },
+  {
+   "fa": "نقاش",
+   "r": "nagghāsh",
+   "en": "painter",
+   "faV": "نَقّاش",
+   "a": "be70fe79e3d0"
+  },
+  {
+   "fa": "کشیدن",
+   "r": "keshidan",
+   "en": "to draw, to paint; to pull",
+   "faV": "کِشیدَن",
+   "a": "d341ddb06387"
+  },
+  {
+   "fa": "قلم‌مو",
+   "r": "ghalam-mu",
+   "en": "paintbrush",
+   "faV": "قَلَم‌مو",
+   "a": "69c199ce85eb"
+  },
+  {
+   "fa": "رنگ",
+   "r": "rang",
+   "en": "colour; paint",
+   "faV": "رَنگ",
+   "a": "50f623d1b5dd"
+  },
+  {
+   "fa": "طلا",
+   "r": "talā",
+   "en": "gold",
+   "faV": "طَلا",
+   "a": "df9b08b3b477"
+  },
+  {
+   "fa": "لاجورد",
+   "r": "lājvard",
+   "en": "lapis lazuli",
+   "faV": "لاجوَرد",
+   "a": "8dda25dc1298"
+  },
+  {
+   "fa": "کتاب‌آرایی",
+   "r": "ketāb-ārāyi",
+   "en": "the art of the book",
+   "faV": "کِتاب‌آرایی",
+   "a": "6a47e82492b6"
+  },
+  {
+   "fa": "نسخه‌ی خطی",
+   "r": "noskhe-ye khatti",
+   "en": "manuscript",
+   "faV": "نُسخه‌یِ خَطّی",
+   "a": "41ba60e74792"
+  },
+  {
+   "fa": "مکتب",
+   "r": "maktab",
+   "en": "school (of art); traditional school",
+   "faV": "مَکتَب",
+   "a": "bc7df398dfdd"
+  },
+  {
+   "fa": "دربار",
+   "r": "darbār",
+   "en": "royal court",
+   "faV": "دَربار",
+   "a": "575a325bff06"
+  },
+  {
+   "fa": "چهره",
+   "r": "chehre",
+   "en": "face; portrait",
+   "faV": "چِهره",
+   "a": "6e6d8a70696b"
+  },
+  {
+   "fa": "صحنه",
+   "r": "sahne",
+   "en": "scene",
+   "faV": "صَحنه",
+   "a": "2ee6a7acd9a9"
+  },
+  {
+   "fa": "شاهکار",
+   "r": "shāhkār",
+   "en": "masterpiece",
+   "faV": "شاهکار",
+   "a": "70bdb28400a3"
+  }
+ ],
+ "facts": [
+  "The Shahnameh of Shah Tahmasp, made in Tabriz in the 1520s and 1530s, has 258 paintings; in 1568 it was sent as a gift to the Ottoman sultan Selim II.",
+  "In 1994 Iran recovered a large part of the dispersed Shahnameh of Shah Tahmasp by trading away a painting by Willem de Kooning from the Tehran Museum of Contemporary Art.",
+  "Soltan Mohammad's *Court of Gayumars*, often called the finest page of the Shahnameh of Shah Tahmasp, is now in the Aga Khan Museum in Toronto.",
+  "Behzad's *Yusuf and Zulaykha* (1488) is one of the paintings in a copy of Saadi's *Bustan* now kept in Cairo.",
+  "Two of Shah Tahmasp's painters, Mir Sayyed Ali and Abd al-Samad, joined the Mughal emperor Humayun and helped to create Mughal painting in India.",
+  "The Persian word [[نگار|negār]] means a picture – and, in poetry, the beloved.",
+  "The Reza Abbasi Museum in Tehran, named after the painter, shows paintings, calligraphy and other arts from Iran's past."
+ ],
+ "titleV": "نِگارگَریِ ایرانی",
+ "titleA": "6f86b5d0fff8"
+}

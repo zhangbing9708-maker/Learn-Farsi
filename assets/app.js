@@ -505,40 +505,53 @@
   var EPAST = [["م", "am"], ["ی", "i"], ["", ""], ["یم", "im"], ["ید", "id"], ["ند", "and"]];
   var PERF = [["‌ام", "-am"], ["‌ای", "-i"], [" است", " ast"], ["‌ایم", "-im"], ["‌اید", "-id"], ["‌اند", "-and"]];
   function lastWord(s) { var i = s.lastIndexOf(" "); return [i < 0 ? "" : s.slice(0, i + 1), s.slice(i + 1)]; }
+  var VPREF = [["فرا", "farā"], ["باز", "bāz"], ["بر", "bar"], ["در", "dar"], ["وا", "vā"]];
+  var BASES = { "گشتن": 1, "گرداندن": 1, "داشتن": 1, "آوردن": 1, "آمدن": 1, "خاستن": 1, "خوردن": 1, "گذشتن": 1, "ماندن": 1, "رسیدن": 1, "کردن": 1, "گرفتن": 1, "انداختن": 1, "کشیدن": 1, "شدن": 1, "زدن": 1 };
   function conjugate(v) {
     var f = lastWord(v.inf), fr = lastWord(v.r || ""), s = lastWord(v.stem || ""), sr = lastWord(v.stemR || "");
     var pre = f[0], preR = fr[0], inf = f[1], infR = fr[1], st = s[1], stR = sr[1];
+    var compound = !!pre, useSubj = !!v.subj;
+    // verbs with a separable prefix: برگشتن → برمی‌گردم, برنگشتم, برگرد
+    if (!compound) VPREF.some(function (p) {
+      var rest = inf.slice(p[0].length);
+      if (inf.indexOf(p[0]) === 0 && st.indexOf(p[0]) === 0 && BASES[rest] && infR.indexOf(p[1]) === 0) {
+        pre = p[0]; preR = p[1] + "-"; inf = rest; infR = infR.slice(p[1].length).replace(/^-/, ""); st = st.slice(p[0].length); stR = stR.slice(p[1].length).replace(/^-/, "");
+        compound = true; useSubj = false; return true;
+      }
+      return false;
+    });
     var past = inf.replace(/ن$/, ""), pastR = infR.replace(/an$/, "");
-    var compound = !!pre, vowel = /[aeiouā]$/.test(stR);
+    var vowel = /[aeiouā]$/.test(stR);
+    var isBudan = inf === "بودن", isDashtan = inf === "داشتن" && pre !== "نگه " && pre !== "بر";
     function pres(stem, stemR, e) { return [stem + (vowel ? "ی" : "") + e[0], stemR + (vowel ? "y" : "") + e[1]]; }
     function neg(stem, stemR) {
-      if (stem[0] === "آ") return ["نیا" + stem.slice(1), "nay" + stemR];
-      if (stem[0] === "ا") return ["نی" + stem.slice(1), "nay" + stemR];
-      return ["ن" + stem, "na" + stemR];
+      if (stem[0] === "آ") return ["نیا" + stem.slice(1), "na-y" + stemR];
+      if (stem[0] === "ا") return ["نی" + stem.slice(1), "na-y" + stemR];
+      return ["ن" + stem, "na-" + stemR];
     }
     function subjStem() {
-      if (v.subj) return [v.subj, v.subjR || ""];
+      if (useSubj) return [v.subj, v.subjR || ""];
       if (compound) return [st, stR];
-      if (st[0] === "آ") return ["بیا" + st.slice(1), "biy" + stR];
-      if (st[0] === "ا") return ["بی" + st.slice(1), "biy" + stR];
-      return ["ب" + st, (v.pre || "be") + stR];
+      if (st[0] === "آ") return ["بیا" + st.slice(1), "bi-y" + stR];
+      if (st[0] === "ا") return ["بی" + st.slice(1), "bi-y" + stR];
+      return ["ب" + st, (v.pre || "be") + "-" + stR];
     }
-    var T = [], P = function (fn) { return PERS.map(function (p, i) { var x = fn(i); return [p, [pre + x[0], preR + x[1]]]; }); };
-    var isBudan = inf === "بودن", isDashtan = inf === "داشتن";
+    function P(fn) { return PERS.map(function (p, i) { var x = fn(i); return [p, [pre + x[0], preR + x[1]]]; }); }
+    var T = [];
     if (isBudan) {
       var H = [["هستم", "hastam"], ["هستی", "hasti"], ["است", "ast"], ["هستیم", "hastim"], ["هستید", "hastid"], ["هستند", "hastand"]];
       T.push(["Present", "is, am, are", P(function (i) { return H[i]; })]);
       T.push(["Present, negative", "am not", P(function (i) { return ["نیست" + EP[i][0].replace(/^د$/, ""), "nist" + EP[i][1].replace(/^ad$/, "")]; })]);
       T.push(["Past", "was", P(function (i) { return ["بود" + EPAST[i][0], "bud" + EPAST[i][1]]; })]);
-      T.push(["Past, negative", "was not", P(function (i) { return ["نبود" + EPAST[i][0], "nabud" + EPAST[i][1]]; })]);
+      T.push(["Past, negative", "was not", P(function (i) { return ["نبود" + EPAST[i][0], "na-bud" + EPAST[i][1]]; })]);
       T.push(["Present perfect", "have been", P(function (i) { return ["بوده" + PERF[i][0], "bude" + PERF[i][1]]; })]);
       T.push(["Subjunctive", "(that I) be", P(function (i) { return ["باش" + EP[i][0], "bāsh" + EP[i][1]]; })]);
       T.push(["Future", "will be", P(function (i) { return ["خواه" + EP[i][0] + " بود", "khāh" + EP[i][1] + " bud"]; })]);
-      T.push(["Imperative", "be!", [[["تو", "to"], ["باش", "bāsh"]], [["شما", "shomā"], ["باشید", "bāshid"]]]]);
+      T.push(["Imperative", "be!", [[["تو", "to"], [pre + "باش", preR + "bāsh"]], [["شما", "shomā"], [pre + "باشید", preR + "bāshid"]], [["تو, not", "to"], [pre + "نباش", preR + "na-bāsh"]]]]);
       return T;
     }
-    T.push(["Present", "I go, I am going", P(function (i) { return isDashtan ? pres(st, stR, EP[i]) : (function (x) { return ["می‌" + x[0], "mi-" + x[1]]; })(pres(st, stR, EP[i])); })]);
-    T.push(["Present, negative", "I don't go", P(function (i) { var x = pres(st, stR, EP[i]); return isDashtan ? ["ن" + x[0], "na" + x[1]] : ["نمی‌" + x[0], "nemi-" + x[1]]; })]);
+    T.push(["Present", "I go, I am going", P(function (i) { var x = pres(st, stR, EP[i]); return isDashtan ? x : ["می‌" + x[0], "mi-" + x[1]]; })]);
+    T.push(["Present, negative", "I don't go", P(function (i) { var x = pres(st, stR, EP[i]); if (isDashtan) { var n0 = neg(x[0], x[1]); return n0; } return ["نمی‌" + x[0], "nemi-" + x[1]]; })]);
     T.push(["Simple past", "I went", P(function (i) { return [past + EPAST[i][0], pastR + EPAST[i][1]]; })]);
     T.push(["Simple past, negative", "I didn't go", P(function (i) { var n = neg(past, pastR); return [n[0] + EPAST[i][0], n[1] + EPAST[i][1]]; })]);
     if (!isDashtan) T.push(["Past continuous", "I was going, I used to go", P(function (i) { return ["می‌" + past + EPAST[i][0], "mi-" + pastR + EPAST[i][1]]; })]);
@@ -551,8 +564,12 @@
       T.push(["Subjunctive", "(that) I go – after want, must, maybe", P(function (i) { return pres(ss[0], ss[1], EP[i]); })]);
       T.push(["Subjunctive, negative", "(that) I don't go", P(function (i) { var n = neg(st, stR); return pres(n[0], n[1], EP[i]); })]);
     }
-    T.push(["Future (formal)", "I will go", P(function (i) { return ["خواه" + EP[i][0] + " " + past, "khāh" + EP[i][1] + " " + pastR]; })]);
-    if (!isDashtan) T.push(["Right now (spoken)", "I'm going right now", P(function (i) { var x = pres(st, stR, EP[i]); return [["دارم", "داری", "دارد", "داریم", "دارید", "دارند"][i] + " " + pre + "می‌" + x[0], ["dāram", "dāri", "dārad", "dārim", "dārid", "dārand"][i] + " " + preR + "mi-" + x[1]].map(function (s, k) { return k === 0 ? s.replace(pre, "") : s.replace(preR, ""); }); })]);
+    var sep = compound && !/ $/.test(pre) ? " " : "";
+    T.push(["Future (formal)", "I will go", PERS.map(function (p, i) { return [p, [pre + sep + "خواه" + EP[i][0] + " " + past, preR.replace(/-$/, sep ? " " : "") + "khāh" + EP[i][1] + " " + pastR]]; })]);
+    if (!isDashtan) {
+      var AUX = [["دارم", "dāram"], ["داری", "dāri"], ["دارد", "dārad"], ["داریم", "dārim"], ["دارید", "dārid"], ["دارند", "dārand"]];
+      T.push(["Right now (spoken)", "I'm going right now", PERS.map(function (p, i) { var x = pres(st, stR, EP[i]); return [p, [AUX[i][0] + " " + pre + "می‌" + x[0], AUX[i][1] + " " + preR + "mi-" + x[1]]]; })]);
+    }
     if (isDashtan) {
       T.push(["Imperative", "have!", [[["تو", "to"], [pre + "داشته باش", preR + "dāshte bāsh"]], [["شما", "shomā"], [pre + "داشته باشید", preR + "dāshte bāshid"]]]]);
     } else {

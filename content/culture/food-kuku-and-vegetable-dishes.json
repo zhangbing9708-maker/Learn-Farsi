@@ -32,37 +32,211 @@
   }
  ],
  "sentences": [
-  {"fa": "کوکوسبزی را با نان و ماست می‌خوریم.", "r": "kuku-sabzi rā bā nān o māst mi-khorim.", "en": "We eat kuku sabzi with bread and yoghurt."},
-  {"fa": "سبزی را خوب خشک کن تا کوکو آب نیندازد.", "r": "sabzi rā khub khoshk kon tā kuku āb na-yandāzad.", "en": "Dry the herbs well so that the kuku doesn't go watery."},
-  {"fa": "تخم‌مرغ را با زردچوبه و نمک هم بزن.", "r": "tokhm-e-morgh rā bā zardchube va namak ham be-zan.", "en": "Beat the eggs with turmeric and salt."},
-  {"fa": "میرزاقاسمی یک غذای خوشمزه‌ی گیلانی است.", "r": "mirzā-ghāsemi yek ghazā-ye khoshmazze-ye gilāni ast.", "en": "Mirza ghasemi is a delicious dish from Gilan."},
-  {"fa": "بادمجان را روی شعله کباب کن تا پوستش سیاه شود.", "r": "bādemjān rā ru-ye sho'le kabāb kon tā pust-ash siyāh shavad.", "en": "Grill the aubergine over the flame until its skin turns black."},
-  {"fa": "روی کشک بادمجان گردو و نعناداغ می‌ریزند.", "r": "ru-ye kashk-e bādemjān gerdu va na'nā-dāgh mi-rizand.", "en": "Walnuts and fried mint go on top of kashk-e bademjan."},
-  {"fa": "مادربزرگم دلمه‌ی برگ مو را ترش و شیرین درست می‌کند.", "r": "mādarbozorg-am dolme-ye barg-e mow rā torsh o shirin dorost mi-konad.", "en": "My grandmother makes her stuffed vine leaves sweet and sour."},
-  {"fa": "فلفل دلمه‌ای را با برنج، لپه و گوشت پر می‌کنیم.", "r": "felfel dolme-i rā bā berenj, lape va gusht por mi-konim.", "en": "We stuff the peppers with rice, split peas and meat."},
-  {"fa": "بورانی اسفناج را با سیر و ماست درست می‌کنند.", "r": "borāni-ye esfenāj rā bā sir o māst dorost mi-konand.", "en": "Spinach borani is made with garlic and yoghurt."},
-  {"fa": "ماست و خیار غذای خنک تابستان است.", "r": "māst o khiyār ghazā-ye khonak-e tābestān ast.", "en": "Yoghurt and cucumber is the cool dish of summer."},
-  {"fa": "این کوکو را برای سیزده‌به‌در درست کرده‌ام.", "r": "in kuku rā barā-ye sizdah-be-dar dorost karde-am.", "en": "I've made this kuku for Sizdah Bedar."}
+  {
+   "fa": "کوکوسبزی را با نان و ماست می‌خوریم.",
+   "r": "kuku-sabzi rā bā nān o māst mi-khorim.",
+   "en": "We eat kuku sabzi with bread and yoghurt.",
+   "faV": "کوکوسَبزی را با نان و ماست می‌خوریم.",
+   "a": "d1d821b82fb7"
+  },
+  {
+   "fa": "سبزی را خوب خشک کن تا کوکو آب نیندازد.",
+   "r": "sabzi rā khub khoshk kon tā kuku āb na-yandāzad.",
+   "en": "Dry the herbs well so that the kuku doesn't go watery.",
+   "faV": "سَبزی را خوب خُشک کُن تا کوکو آب نَیَندازَد.",
+   "a": "fbac28aab7ac"
+  },
+  {
+   "fa": "تخم‌مرغ را با زردچوبه و نمک هم بزن.",
+   "r": "tokhm-e-morgh rā bā zardchube va namak ham be-zan.",
+   "en": "Beat the eggs with turmeric and salt.",
+   "faV": "تُخمِ‌مُرغ را با زَردچوبه و نَمَک هَم بِزَن.",
+   "a": "56730e052244"
+  },
+  {
+   "fa": "میرزاقاسمی یک غذای خوشمزه‌ی گیلانی است.",
+   "r": "mirzā-ghāsemi yek ghazā-ye khoshmazze-ye gilāni ast.",
+   "en": "Mirza ghasemi is a delicious dish from Gilan.",
+   "faV": "میرزاقاسِمی یِک غَذایِ خوشمَزّه‌یِ گیلانی اَست.",
+   "a": "ac4e3b74954a"
+  },
+  {
+   "fa": "بادمجان را روی شعله کباب کن تا پوستش سیاه شود.",
+   "r": "bādemjān rā ru-ye sho'le kabāb kon tā pust-ash siyāh shavad.",
+   "en": "Grill the aubergine over the flame until its skin turns black.",
+   "faV": "بادِمجان را رویِ شُعله کَباب کُن تا پوستَش سیاه شَوَد.",
+   "a": "978dafe05909"
+  },
+  {
+   "fa": "روی کشک بادمجان گردو و نعناداغ می‌ریزند.",
+   "r": "ru-ye kashk-e bādemjān gerdu va na'nā-dāgh mi-rizand.",
+   "en": "Walnuts and fried mint go on top of kashk-e bademjan.",
+   "faV": "رویِ کَشکِ بادِمجان گِردو و نَعناداغ می‌ریزَند.",
+   "a": "c50237879eaa"
+  },
+  {
+   "fa": "مادربزرگم دلمه‌ی برگ مو را ترش و شیرین درست می‌کند.",
+   "r": "mādarbozorg-am dolme-ye barg-e mow rā torsh o shirin dorost mi-konad.",
+   "en": "My grandmother makes her stuffed vine leaves sweet and sour.",
+   "faV": "مادَربُزُرگَم دُلمه‌یِ بَرگِ مَو را تُرش و شیرین دُرُست می‌کُنَد.",
+   "a": "b45ec56f7b91"
+  },
+  {
+   "fa": "فلفل دلمه‌ای را با برنج، لپه و گوشت پر می‌کنیم.",
+   "r": "felfel dolme-i rā bā berenj, lape va gusht por mi-konim.",
+   "en": "We stuff the peppers with rice, split peas and meat.",
+   "faV": "فِلفِل دُلمه‌ای را با بِرِنج، لَپه و گوشت پُر می‌کُنیم.",
+   "a": "51f53d08c0f1"
+  },
+  {
+   "fa": "بورانی اسفناج را با سیر و ماست درست می‌کنند.",
+   "r": "borāni-ye esfenāj rā bā sir o māst dorost mi-konand.",
+   "en": "Spinach borani is made with garlic and yoghurt.",
+   "faV": "بورانیِ اِسفِناج را با سیر و ماست دُرُست می‌کُنَند.",
+   "a": "55d882c6a1d1"
+  },
+  {
+   "fa": "ماست و خیار غذای خنک تابستان است.",
+   "r": "māst o khiyār ghazā-ye khonak-e tābestān ast.",
+   "en": "Yoghurt and cucumber is the cool dish of summer.",
+   "faV": "ماست و خیار غَذایِ خُنَکِ تابِستان اَست.",
+   "a": "912cf51d4a77"
+  },
+  {
+   "fa": "این کوکو را برای سیزده‌به‌در درست کرده‌ام.",
+   "r": "in kuku rā barā-ye sizdah-be-dar dorost karde-am.",
+   "en": "I've made this kuku for Sizdah Bedar.",
+   "faV": "این کوکو را بَرایِ سیزدَه‌به‌دَر دُرُست کَرده‌اَم.",
+   "a": "09a45e5a3f17"
+  }
  ],
  "vocab": [
-  {"fa": "کوکو", "r": "kuku", "en": "kuku, herb or vegetable frittata"},
-  {"fa": "تخم‌مرغ", "r": "tokhm-e-morgh", "en": "egg"},
-  {"fa": "بادمجان", "r": "bādemjān", "en": "aubergine, eggplant"},
-  {"fa": "کشک", "r": "kashk", "en": "kashk, dried whey"},
-  {"fa": "سیر", "r": "sir", "en": "garlic"},
-  {"fa": "دلمه", "r": "dolme", "en": "dolmeh, stuffed vegetables"},
-  {"fa": "برگ مو", "r": "barg-e mow", "en": "vine leaves"},
-  {"fa": "فلفل دلمه‌ای", "r": "felfel dolme-i", "en": "bell pepper"},
-  {"fa": "بورانی", "r": "borāni", "en": "borani, yoghurt with cooked vegetables"},
-  {"fa": "ماست", "r": "māst", "en": "yoghurt"},
-  {"fa": "خیار", "r": "khiyār", "en": "cucumber"},
-  {"fa": "اسفناج", "r": "esfenāj", "en": "spinach"},
-  {"fa": "شعله", "r": "sho'le", "en": "flame"},
-  {"fa": "پوست", "r": "pust", "en": "skin, peel"},
-  {"fa": "پر کردن", "r": "por kardan", "en": "to fill, to stuff"},
-  {"fa": "هم زدن", "r": "ham zadan", "en": "to stir, to beat"},
-  {"fa": "گیاهی", "r": "giyāhi", "en": "vegetarian, plant-based"},
-  {"fa": "خنک", "r": "khonak", "en": "cool"}
+  {
+   "fa": "کوکو",
+   "r": "kuku",
+   "en": "kuku, herb or vegetable frittata",
+   "faV": "کوکو",
+   "a": "dd719d938650"
+  },
+  {
+   "fa": "تخم‌مرغ",
+   "r": "tokhm-e-morgh",
+   "en": "egg",
+   "faV": "تُخمِ‌مُرغ",
+   "a": "0d7a94e9d1ce"
+  },
+  {
+   "fa": "بادمجان",
+   "r": "bādemjān",
+   "en": "aubergine, eggplant",
+   "faV": "بادِمجان",
+   "a": "b68caa657580"
+  },
+  {
+   "fa": "کشک",
+   "r": "kashk",
+   "en": "kashk, dried whey",
+   "faV": "کَشک",
+   "a": "4d1b1102b043"
+  },
+  {
+   "fa": "سیر",
+   "r": "sir",
+   "en": "garlic",
+   "faV": "سیر",
+   "a": "757a86eaf3b4"
+  },
+  {
+   "fa": "دلمه",
+   "r": "dolme",
+   "en": "dolmeh, stuffed vegetables",
+   "faV": "دُلمه",
+   "a": "515d4c25417e"
+  },
+  {
+   "fa": "برگ مو",
+   "r": "barg-e mow",
+   "en": "vine leaves",
+   "faV": "بَرگِ مَو",
+   "a": "6b8a4d74bb1e"
+  },
+  {
+   "fa": "فلفل دلمه‌ای",
+   "r": "felfel dolme-i",
+   "en": "bell pepper",
+   "faV": "فِلفِل دُلمه‌ای",
+   "a": "bcc5736c024d"
+  },
+  {
+   "fa": "بورانی",
+   "r": "borāni",
+   "en": "borani, yoghurt with cooked vegetables",
+   "faV": "بورانی",
+   "a": "392a27d016a6"
+  },
+  {
+   "fa": "ماست",
+   "r": "māst",
+   "en": "yoghurt",
+   "faV": "ماست",
+   "a": "4c8bc514be1c"
+  },
+  {
+   "fa": "خیار",
+   "r": "khiyār",
+   "en": "cucumber",
+   "faV": "خیار",
+   "a": "f14c7a23a98d"
+  },
+  {
+   "fa": "اسفناج",
+   "r": "esfenāj",
+   "en": "spinach",
+   "faV": "اِسفِناج",
+   "a": "f4fb33cc3356"
+  },
+  {
+   "fa": "شعله",
+   "r": "sho'le",
+   "en": "flame",
+   "faV": "شُعله",
+   "a": "42b573833eec"
+  },
+  {
+   "fa": "پوست",
+   "r": "pust",
+   "en": "skin, peel",
+   "faV": "پوست",
+   "a": "b948f9b2e3d8"
+  },
+  {
+   "fa": "پر کردن",
+   "r": "por kardan",
+   "en": "to fill, to stuff",
+   "faV": "پُر کَردَن",
+   "a": "626bc1679094"
+  },
+  {
+   "fa": "هم زدن",
+   "r": "ham zadan",
+   "en": "to stir, to beat",
+   "faV": "هَم زَدَن",
+   "a": "775e963e95f4"
+  },
+  {
+   "fa": "گیاهی",
+   "r": "giyāhi",
+   "en": "vegetarian, plant-based",
+   "faV": "گیاهی",
+   "a": "9b42dad75532"
+  },
+  {
+   "fa": "خنک",
+   "r": "khonak",
+   "en": "cool",
+   "faV": "خُنَک",
+   "a": "7991794a7655"
+  }
  ],
  "facts": [
   "Persian calls the bell pepper felfel dolme'i, 'dolmeh pepper' – the pepper you stuff.",
@@ -71,5 +245,7 @@
   "Mirza ghasemi comes from Gilan, where it is eaten with kateh rice or bread.",
   "Kuku sabzi is a Nowruz dish: its green herbs stand for the new spring.",
   "The proverb bādemjān-e bam āfat nadārad, 'a bad aubergine never gets blight', is said of rascals who never come to harm."
- ]
+ ],
+ "titleV": "کوکو، بورانی و دُلمه",
+ "titleA": "cdb20236f8c1"
 }

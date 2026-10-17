@@ -32,37 +32,228 @@
   }
  ],
  "sentences": [
-  {"fa": "چای می‌خورید؟", "r": "chāy mi-khorid?", "en": "Would you like some tea?", "col": "چای می‌خورین؟", "colR": "chāy mi-khorin?"},
-  {"fa": "بله، لطفاً؛ کم‌رنگ باشد.", "r": "bale, lotfan; kam-rang bāshad.", "en": "Yes, please – weak.", "col": "آره، لطفاً؛ کم‌رنگ باشه.", "colR": "āre, lotfan; kam-rang bāshe."},
-  {"fa": "سماور را روشن کن تا آب جوش بیاید.", "r": "samāvar rā rowshan kon tā āb jush bi-yāyad.", "en": "Switch on the samovar so that the water comes to the boil."},
-  {"fa": "چای را در قوری بریز و بگذار دم بکشد.", "r": "chāy rā dar ghuri be-riz va bo-gzār dam be-keshad.", "en": "Put the tea in the teapot and let it brew."},
-  {"fa": "ما چای را با قند می‌خوریم، نه با شیر.", "r": "mā chāy rā bā ghand mi-khorim, na bā shir.", "en": "We drink tea with sugar lumps, not with milk."},
-  {"fa": "یک استکان چای داغ خستگی را از تن آدم بیرون می‌کند.", "r": "yek estekān chāy-e dāgh khastegi rā az tan-e ādam birun mi-konad.", "en": "A glass of hot tea drives the tiredness out of your body."},
-  {"fa": "چای باید لب‌سوز، لب‌دوز و لب‌ریز باشد.", "r": "chāy bāyad lab-suz, lab-duz va lab-riz bāshad.", "en": "Tea should be lip-burning, lip-sticking and brim-full.", "note": "An old saying: hot, sweet and filled to the top."},
-  {"fa": "دلم درد می‌کند؛ یک چای‌نبات برایم درست می‌کنی؟", "r": "del-am dard mi-konad; yek chāy-nabāt barā-yam dorost mi-koni?", "en": "I've got a stomach ache – will you make me a tea with nabat?", "col": "دلم درد می‌کنه؛ یه چای‌نبات برام درست می‌کنی؟", "colR": "del-am dard mi-kone; ye chāy-nabāt barā-m dorost mi-koni?"},
-  {"fa": "تعارف نکنید، یک چای دیگر بخورید.", "r": "ta'ārof na-konid, yek chāy-e digar bo-khorid.", "en": "Don't be shy – have another tea.", "col": "تعارف نکنین، یه چای دیگه بخورین.", "colR": "ta'ārof na-konin, ye chāy-e dige bo-khorin."},
-  {"fa": "چای ایرانی بیشتر در گیلان و مازندران کاشته می‌شود.", "r": "chāy-e irāni bishtar dar Gilān va Māzandarān kāshte mi-shavad.", "en": "Iranian tea is grown mostly in Gilan and Mazandaran."},
-  {"fa": "قدیم‌ها نقال‌ها در قهوه‌خانه‌ها داستان‌های شاهنامه را می‌گفتند.", "r": "ghadim-hā nagghāl-hā dar ghahve-khāne-hā dāstān-hā-ye Shāhnāme rā mi-goftand.", "en": "In the old days storytellers told the tales of the Shahnameh in the coffeehouses."}
+  {
+   "fa": "چای می‌خورید؟",
+   "r": "chāy mi-khorid?",
+   "en": "Would you like some tea?",
+   "col": "چای می‌خورین؟",
+   "colR": "chāy mi-khorin?",
+   "faV": "چای می‌خورید؟",
+   "a": "caa00fc940b1",
+   "colV": "چای می‌خورین؟",
+   "colA": "3500f20d12b2"
+  },
+  {
+   "fa": "بله، لطفاً؛ کم‌رنگ باشد.",
+   "r": "bale, lotfan; kam-rang bāshad.",
+   "en": "Yes, please – weak.",
+   "col": "آره، لطفاً؛ کم‌رنگ باشه.",
+   "colR": "āre, lotfan; kam-rang bāshe.",
+   "faV": "بَله، لُطفاً؛ کَم‌رَنگ باشَد.",
+   "a": "e5db507419be",
+   "colV": "آره، لُطفاً؛ کَم‌رَنگ باشه.",
+   "colA": "8164979b175a"
+  },
+  {
+   "fa": "سماور را روشن کن تا آب جوش بیاید.",
+   "r": "samāvar rā rowshan kon tā āb jush bi-yāyad.",
+   "en": "Switch on the samovar so that the water comes to the boil.",
+   "faV": "سَماوَر را رَوشَن کُن تا آب جوش بیایَد.",
+   "a": "5d89a3509dd2"
+  },
+  {
+   "fa": "چای را در قوری بریز و بگذار دم بکشد.",
+   "r": "chāy rā dar ghuri be-riz va bo-gzār dam be-keshad.",
+   "en": "Put the tea in the teapot and let it brew.",
+   "faV": "چای را دَر قوری بِریز و بُگذار دَم بِکِشَد.",
+   "a": "9b3fbfee6ef1"
+  },
+  {
+   "fa": "ما چای را با قند می‌خوریم، نه با شیر.",
+   "r": "mā chāy rā bā ghand mi-khorim, na bā shir.",
+   "en": "We drink tea with sugar lumps, not with milk.",
+   "faV": "ما چای را با قَند می‌خوریم، نه با شیر.",
+   "a": "3cfc8991b72d"
+  },
+  {
+   "fa": "یک استکان چای داغ خستگی را از تن آدم بیرون می‌کند.",
+   "r": "yek estekān chāy-e dāgh khastegi rā az tan-e ādam birun mi-konad.",
+   "en": "A glass of hot tea drives the tiredness out of your body.",
+   "faV": "یِک اِستِکان چایِ داغ خَستِگی را اَز تَنِ آدَم بیرون می‌کُنَد.",
+   "a": "a0d0484ceb6a"
+  },
+  {
+   "fa": "چای باید لب‌سوز، لب‌دوز و لب‌ریز باشد.",
+   "r": "chāy bāyad lab-suz, lab-duz va lab-riz bāshad.",
+   "en": "Tea should be lip-burning, lip-sticking and brim-full.",
+   "note": "An old saying: hot, sweet and filled to the top.",
+   "faV": "چای بایَد لَب‌سوز، لَب‌دوز و لَب‌ریز باشَد.",
+   "a": "754167f5e083"
+  },
+  {
+   "fa": "دلم درد می‌کند؛ یک چای‌نبات برایم درست می‌کنی؟",
+   "r": "del-am dard mi-konad; yek chāy-nabāt barā-yam dorost mi-koni?",
+   "en": "I've got a stomach ache – will you make me a tea with nabat?",
+   "col": "دلم درد می‌کنه؛ یه چای‌نبات برام درست می‌کنی؟",
+   "colR": "del-am dard mi-kone; ye chāy-nabāt barā-m dorost mi-koni?",
+   "faV": "دِلَم دَرد می‌کُنَد؛ یِک چای‌نَبات بَرایَم دُرُست می‌کُنی؟",
+   "a": "00d643a0fd6e",
+   "colV": "دِلَم دَرد می‌کُنه؛ یه چای‌نَبات بَرام دُرُست می‌کُنی؟",
+   "colA": "c59cc46333fa"
+  },
+  {
+   "fa": "تعارف نکنید، یک چای دیگر بخورید.",
+   "r": "ta'ārof na-konid, yek chāy-e digar bo-khorid.",
+   "en": "Don't be shy – have another tea.",
+   "col": "تعارف نکنین، یه چای دیگه بخورین.",
+   "colR": "ta'ārof na-konin, ye chāy-e dige bo-khorin.",
+   "faV": "تَعارُف نَکُنید، یِک چایِ دیگَر بُخورید.",
+   "a": "c86de0286c51",
+   "colV": "تَعارُف نَکُنین، یه چایِ دیگه بُخورین.",
+   "colA": "7fb10f4952bc"
+  },
+  {
+   "fa": "چای ایرانی بیشتر در گیلان و مازندران کاشته می‌شود.",
+   "r": "chāy-e irāni bishtar dar Gilān va Māzandarān kāshte mi-shavad.",
+   "en": "Iranian tea is grown mostly in Gilan and Mazandaran.",
+   "faV": "چایِ ایرانی بیشتَر دَر گیلان و مازَندَران کاشته می‌شَوَد.",
+   "a": "8925387a6d1e"
+  },
+  {
+   "fa": "قدیم‌ها نقال‌ها در قهوه‌خانه‌ها داستان‌های شاهنامه را می‌گفتند.",
+   "r": "ghadim-hā nagghāl-hā dar ghahve-khāne-hā dāstān-hā-ye Shāhnāme rā mi-goftand.",
+   "en": "In the old days storytellers told the tales of the Shahnameh in the coffeehouses.",
+   "faV": "قَدیم‌ها نَقّال‌ها دَر قَهوه‌خانه‌ها داستان‌هایِ شاهنامه را می‌گُفتَند.",
+   "a": "aca2da725f4d"
+  }
  ],
  "vocab": [
-  {"fa": "چای", "r": "chāy", "en": "tea"},
-  {"fa": "سماور", "r": "samāvar", "en": "samovar"},
-  {"fa": "قوری", "r": "ghuri", "en": "teapot"},
-  {"fa": "استکان", "r": "estekān", "en": "small tea glass"},
-  {"fa": "نعلبکی", "r": "na'lbeki", "en": "saucer"},
-  {"fa": "سینی", "r": "sini", "en": "tray"},
-  {"fa": "قند", "r": "ghand", "en": "sugar lump"},
-  {"fa": "نبات", "r": "nabāt", "en": "rock candy"},
-  {"fa": "هل", "r": "hel", "en": "cardamom"},
-  {"fa": "پررنگ", "r": "porrang", "en": "strong (of tea); deep in colour"},
-  {"fa": "کم‌رنگ", "r": "kam-rang", "en": "weak (of tea); pale"},
-  {"fa": "دم کردن", "r": "dam kardan", "en": "to brew (tea)"},
-  {"fa": "دم کشیدن", "r": "dam keshidan", "en": "to steep, to brew"},
-  {"fa": "آب جوش", "r": "āb-e jush", "en": "boiling water"},
-  {"fa": "قهوه‌خانه", "r": "ghahve-khāne", "en": "coffeehouse, traditional teahouse"},
-  {"fa": "نقال", "r": "nagghāl", "en": "storyteller (of the Shahnameh)"},
-  {"fa": "تعارف", "r": "ta'ārof", "en": "ritual politeness"},
-  {"fa": "خستگی", "r": "khastegi", "en": "tiredness"}
+  {
+   "fa": "چای",
+   "r": "chāy",
+   "en": "tea",
+   "faV": "چای",
+   "a": "0f9abd5af4a8"
+  },
+  {
+   "fa": "سماور",
+   "r": "samāvar",
+   "en": "samovar",
+   "faV": "سَماوَر",
+   "a": "796eea281098"
+  },
+  {
+   "fa": "قوری",
+   "r": "ghuri",
+   "en": "teapot",
+   "faV": "قوری",
+   "a": "7da7f1d5917a"
+  },
+  {
+   "fa": "استکان",
+   "r": "estekān",
+   "en": "small tea glass",
+   "faV": "اِستِکان",
+   "a": "6b3e23c953c0"
+  },
+  {
+   "fa": "نعلبکی",
+   "r": "na'lbeki",
+   "en": "saucer",
+   "faV": "نَعلبِکی",
+   "a": "2833f3d335b6"
+  },
+  {
+   "fa": "سینی",
+   "r": "sini",
+   "en": "tray",
+   "faV": "سینی",
+   "a": "e931a5168a26"
+  },
+  {
+   "fa": "قند",
+   "r": "ghand",
+   "en": "sugar lump",
+   "faV": "قَند",
+   "a": "d15bd743d660"
+  },
+  {
+   "fa": "نبات",
+   "r": "nabāt",
+   "en": "rock candy",
+   "faV": "نَبات",
+   "a": "630ad5108c35"
+  },
+  {
+   "fa": "هل",
+   "r": "hel",
+   "en": "cardamom",
+   "faV": "هِل",
+   "a": "227cb77701e2"
+  },
+  {
+   "fa": "پررنگ",
+   "r": "porrang",
+   "en": "strong (of tea); deep in colour",
+   "faV": "پُررَنگ",
+   "a": "adc4d986d9ed"
+  },
+  {
+   "fa": "کم‌رنگ",
+   "r": "kam-rang",
+   "en": "weak (of tea); pale",
+   "faV": "کَم‌رَنگ",
+   "a": "da730103f407"
+  },
+  {
+   "fa": "دم کردن",
+   "r": "dam kardan",
+   "en": "to brew (tea)",
+   "faV": "دَم کَردَن",
+   "a": "6266f39e9334"
+  },
+  {
+   "fa": "دم کشیدن",
+   "r": "dam keshidan",
+   "en": "to steep, to brew",
+   "faV": "دَم کِشیدَن",
+   "a": "3284f8525b52"
+  },
+  {
+   "fa": "آب جوش",
+   "r": "āb-e jush",
+   "en": "boiling water",
+   "faV": "آبِ جوش",
+   "a": "ddd5f6f156a3"
+  },
+  {
+   "fa": "قهوه‌خانه",
+   "r": "ghahve-khāne",
+   "en": "coffeehouse, traditional teahouse",
+   "faV": "قَهوه‌خانه",
+   "a": "160dd8ad08c4"
+  },
+  {
+   "fa": "نقال",
+   "r": "nagghāl",
+   "en": "storyteller (of the Shahnameh)",
+   "faV": "نَقّال",
+   "a": "951705d3c64d"
+  },
+  {
+   "fa": "تعارف",
+   "r": "ta'ārof",
+   "en": "ritual politeness",
+   "faV": "تَعارُف",
+   "a": "3c42bf843630"
+  },
+  {
+   "fa": "خستگی",
+   "r": "khastegi",
+   "en": "tiredness",
+   "faV": "خَستِگی",
+   "a": "f14b486d2497"
+  }
  ],
  "facts": [
   "Iran's tea industry began around 1900, when Prince Mohammad Mirza Kashef al-Saltaneh brought tea plants from India to Lahijan.",
@@ -71,5 +262,7 @@
   "Iranian tea is drunk without milk, often with a sugar lump held between the teeth.",
   "Iran's coffeehouses served coffee in Safavid times; tea replaced it in the 19th century, but the name ghahvekhaneh stayed.",
   "Naqqali, Iranian dramatic storytelling, was inscribed on UNESCO's Urgent Safeguarding List in 2011."
- ]
+ ],
+ "titleV": "چای و سَماوَر",
+ "titleA": "e7ed4f6b33b6"
 }

@@ -32,38 +32,230 @@
   }
  ],
  "sentences": [
-  {"fa": "یک پرس چلوکباب کوبیده، لطفاً.", "r": "yek pors chelow-kabāb-e kubide, lotfan.", "en": "One portion of chelow kabab koobideh, please.", "col": "یه پرس چلوکباب کوبیده، لطفاً.", "colR": "ye pors chelow-kabāb-e kubide, lotfan."},
-  {"fa": "کباب برگ را با گوشت گوسفند درست می‌کنند.", "r": "kabāb-e barg rā bā gusht-e gusfand dorost mi-konand.", "en": "Kabab barg is made with lamb."},
-  {"fa": "گوشت را با پیاز رنده‌شده مخلوط کن.", "r": "gusht rā bā piyāz-e rande-shode makhlut kon.", "en": "Mix the meat with grated onion."},
-  {"fa": "آب پیاز را خوب بگیر تا کباب از سیخ نیفتد.", "r": "āb-e piyāz rā khub be-gir tā kabāb az sikh na-yoftad.", "en": "Squeeze the juice out of the onion well, so the kabab doesn't fall off the skewer."},
-  {"fa": "سیخ‌ها را مدام بچرخان.", "r": "sikh-hā rā modām be-charkhān.", "en": "Keep turning the skewers."},
-  {"fa": "روی کباب کمی سماق بریزید.", "r": "ru-ye kabāb kami somāgh be-rizid.", "en": "Sprinkle a little sumac on the kabab."},
-  {"fa": "جوجه‌کباب را با زعفران و آب‌لیمو درست می‌کنند.", "r": "juje-kabāb rā bā za'farān va āb-limu dorost mi-konand.", "en": "Joojeh kabab is made with saffron and lemon juice."},
-  {"fa": "دوغ هم دارید؟", "r": "dugh ham dārid?", "en": "Do you have doogh too?", "col": "دوغ هم دارین؟", "colR": "dugh ham dārin?"},
-  {"fa": "این کباب خیلی آبدار و خوشمزه است.", "r": "in kabāb kheyli ābdār o khoshmazze ast.", "en": "This kabab is very juicy and tasty."},
-  {"fa": "جمعه‌ها در حیاط کباب درست می‌کنیم.", "r": "jom'e-hā dar hayāt kabāb dorost mi-konim.", "en": "On Fridays we make kabab in the yard."},
-  {"fa": "بفرمایید، تا داغ است بخورید.", "r": "befarmāyid, tā dāgh ast bo-khorid.", "en": "Please, eat it while it's hot.", "col": "بفرمایین، تا داغه بخورین.", "colR": "befarmāyin, tā dāgh-e bo-khorin."}
+  {
+   "fa": "یک پرس چلوکباب کوبیده، لطفاً.",
+   "r": "yek pors chelow-kabāb-e kubide, lotfan.",
+   "en": "One portion of chelow kabab koobideh, please.",
+   "col": "یه پرس چلوکباب کوبیده، لطفاً.",
+   "colR": "ye pors chelow-kabāb-e kubide, lotfan.",
+   "faV": "یِک پُرس چِلَوکَبابِ کوبیده، لُطفاً.",
+   "a": "91678cf8dd16",
+   "colV": "یه پُرس چِلَوکَبابِ کوبیده، لُطفاً.",
+   "colA": "7698eb1a0e13"
+  },
+  {
+   "fa": "کباب برگ را با گوشت گوسفند درست می‌کنند.",
+   "r": "kabāb-e barg rā bā gusht-e gusfand dorost mi-konand.",
+   "en": "Kabab barg is made with lamb.",
+   "faV": "کَبابِ بَرگ را با گوشتِ گوسفَند دُرُست می‌کُنَند.",
+   "a": "e3bbcafa52f9"
+  },
+  {
+   "fa": "گوشت را با پیاز رنده‌شده مخلوط کن.",
+   "r": "gusht rā bā piyāz-e rande-shode makhlut kon.",
+   "en": "Mix the meat with grated onion.",
+   "faV": "گوشت را با پیازِ رَنده‌شُده مَخلوط کُن.",
+   "a": "f0445ff900dd"
+  },
+  {
+   "fa": "آب پیاز را خوب بگیر تا کباب از سیخ نیفتد.",
+   "r": "āb-e piyāz rā khub be-gir tā kabāb az sikh na-yoftad.",
+   "en": "Squeeze the juice out of the onion well, so the kabab doesn't fall off the skewer.",
+   "faV": "آبِ پیاز را خوب بِگیر تا کَباب اَز سیخ نَیُفتَد.",
+   "a": "0c8cdf8bbfef"
+  },
+  {
+   "fa": "سیخ‌ها را مدام بچرخان.",
+   "r": "sikh-hā rā modām be-charkhān.",
+   "en": "Keep turning the skewers.",
+   "faV": "سیخ‌ها را مُدام بِچَرخان.",
+   "a": "5e9142f35368"
+  },
+  {
+   "fa": "روی کباب کمی سماق بریزید.",
+   "r": "ru-ye kabāb kami somāgh be-rizid.",
+   "en": "Sprinkle a little sumac on the kabab.",
+   "faV": "رویِ کَباب کَمی سُماق بِریزید.",
+   "a": "4aacfbbe17fc"
+  },
+  {
+   "fa": "جوجه‌کباب را با زعفران و آب‌لیمو درست می‌کنند.",
+   "r": "juje-kabāb rā bā za'farān va āb-limu dorost mi-konand.",
+   "en": "Joojeh kabab is made with saffron and lemon juice.",
+   "faV": "جوجه‌کَباب را با زَعفَران و آب‌لیمو دُرُست می‌کُنَند.",
+   "a": "ac2116588e7d"
+  },
+  {
+   "fa": "دوغ هم دارید؟",
+   "r": "dugh ham dārid?",
+   "en": "Do you have doogh too?",
+   "col": "دوغ هم دارین؟",
+   "colR": "dugh ham dārin?",
+   "faV": "دوغ هَم دارید؟",
+   "a": "283828b8f6a3",
+   "colV": "دوغ هَم دارین؟",
+   "colA": "365d3fd42787"
+  },
+  {
+   "fa": "این کباب خیلی آبدار و خوشمزه است.",
+   "r": "in kabāb kheyli ābdār o khoshmazze ast.",
+   "en": "This kabab is very juicy and tasty.",
+   "faV": "این کَباب خَیلی آبدار و خوشمَزّه اَست.",
+   "a": "c899a0870500"
+  },
+  {
+   "fa": "جمعه‌ها در حیاط کباب درست می‌کنیم.",
+   "r": "jom'e-hā dar hayāt kabāb dorost mi-konim.",
+   "en": "On Fridays we make kabab in the yard.",
+   "faV": "جُمعه‌ها دَر حَیاط کَباب دُرُست می‌کُنیم.",
+   "a": "b1e2d300a02e"
+  },
+  {
+   "fa": "بفرمایید، تا داغ است بخورید.",
+   "r": "befarmāyid, tā dāgh ast bo-khorid.",
+   "en": "Please, eat it while it's hot.",
+   "col": "بفرمایین، تا داغه بخورین.",
+   "colR": "befarmāyin, tā dāgh-e bo-khorin.",
+   "faV": "بِفَرمایید، تا داغ اَست بُخورید.",
+   "a": "c1fabddab983",
+   "colV": "بِفَرمایین، تا داغه بُخورین.",
+   "colA": "eaf9c2fed471"
+  }
  ],
  "vocab": [
-  {"fa": "چلوکباب", "r": "chelow-kabāb", "en": "chelow kabab, rice with kebab"},
-  {"fa": "چلو", "r": "chelow", "en": "plain steamed rice"},
-  {"fa": "کباب کوبیده", "r": "kabāb-e kubide", "en": "minced-meat kebab"},
-  {"fa": "کباب برگ", "r": "kabāb-e barg", "en": "kebab of thin fillet strips"},
-  {"fa": "جوجه‌کباب", "r": "juje-kabāb", "en": "chicken kebab"},
-  {"fa": "سیخ", "r": "sikh", "en": "skewer"},
-  {"fa": "زغال", "r": "zoghāl", "en": "charcoal"},
-  {"fa": "منقل", "r": "manghal", "en": "charcoal brazier, grill"},
-  {"fa": "سماق", "r": "somāgh", "en": "sumac"},
-  {"fa": "کره", "r": "kare", "en": "butter"},
-  {"fa": "پیاز", "r": "piyāz", "en": "onion"},
-  {"fa": "گوجه‌فرنگی", "r": "gowje-farangi", "en": "tomato"},
-  {"fa": "گوشت چرخ‌کرده", "r": "gusht-e charkh-karde", "en": "minced meat"},
-  {"fa": "گوشت گوسفند", "r": "gusht-e gusfand", "en": "lamb, mutton"},
-  {"fa": "پرس", "r": "pors", "en": "portion, serving"},
-  {"fa": "رنده کردن", "r": "rande kardan", "en": "to grate"},
-  {"fa": "مخلوط کردن", "r": "makhlut kardan", "en": "to mix"},
-  {"fa": "آبدار", "r": "ābdār", "en": "juicy"},
-  {"fa": "داغ", "r": "dāgh", "en": "hot (to the touch)"}
+  {
+   "fa": "چلوکباب",
+   "r": "chelow-kabāb",
+   "en": "chelow kabab, rice with kebab",
+   "faV": "چِلَوکَباب",
+   "a": "631e16419f98"
+  },
+  {
+   "fa": "چلو",
+   "r": "chelow",
+   "en": "plain steamed rice",
+   "faV": "چِلَو",
+   "a": "4d83e748c87f"
+  },
+  {
+   "fa": "کباب کوبیده",
+   "r": "kabāb-e kubide",
+   "en": "minced-meat kebab",
+   "faV": "کَبابِ کوبیده",
+   "a": "c80f5326a9fa"
+  },
+  {
+   "fa": "کباب برگ",
+   "r": "kabāb-e barg",
+   "en": "kebab of thin fillet strips",
+   "faV": "کَبابِ بَرگ",
+   "a": "bf5e4f62d287"
+  },
+  {
+   "fa": "جوجه‌کباب",
+   "r": "juje-kabāb",
+   "en": "chicken kebab",
+   "faV": "جوجه‌کَباب",
+   "a": "0ba0d6b954c6"
+  },
+  {
+   "fa": "سیخ",
+   "r": "sikh",
+   "en": "skewer",
+   "faV": "سیخ",
+   "a": "4457914c8f57"
+  },
+  {
+   "fa": "زغال",
+   "r": "zoghāl",
+   "en": "charcoal",
+   "faV": "زُغال",
+   "a": "1b047aa111e6"
+  },
+  {
+   "fa": "منقل",
+   "r": "manghal",
+   "en": "charcoal brazier, grill",
+   "faV": "مَنقَل",
+   "a": "22652e1b5789"
+  },
+  {
+   "fa": "سماق",
+   "r": "somāgh",
+   "en": "sumac",
+   "faV": "سُماق",
+   "a": "cc1d6138e2d6"
+  },
+  {
+   "fa": "کره",
+   "r": "kare",
+   "en": "butter",
+   "faV": "کَره",
+   "a": "fc0bcf42c5c1"
+  },
+  {
+   "fa": "پیاز",
+   "r": "piyāz",
+   "en": "onion",
+   "faV": "پیاز",
+   "a": "21c0e394a27f"
+  },
+  {
+   "fa": "گوجه‌فرنگی",
+   "r": "gowje-farangi",
+   "en": "tomato",
+   "faV": "گَوجه‌فَرَنگی",
+   "a": "373bfb4d4a9e"
+  },
+  {
+   "fa": "گوشت چرخ‌کرده",
+   "r": "gusht-e charkh-karde",
+   "en": "minced meat",
+   "faV": "گوشتِ چَرخ‌کَرده",
+   "a": "e3dd611e8d59"
+  },
+  {
+   "fa": "گوشت گوسفند",
+   "r": "gusht-e gusfand",
+   "en": "lamb, mutton",
+   "faV": "گوشتِ گوسفَند",
+   "a": "49985a92c311"
+  },
+  {
+   "fa": "پرس",
+   "r": "pors",
+   "en": "portion, serving",
+   "faV": "پُرس",
+   "a": "95c4c15fd1a6"
+  },
+  {
+   "fa": "رنده کردن",
+   "r": "rande kardan",
+   "en": "to grate",
+   "faV": "رَنده کَردَن",
+   "a": "b9f67d713bfa"
+  },
+  {
+   "fa": "مخلوط کردن",
+   "r": "makhlut kardan",
+   "en": "to mix",
+   "faV": "مَخلوط کَردَن",
+   "a": "3e1bd71cae02"
+  },
+  {
+   "fa": "آبدار",
+   "r": "ābdār",
+   "en": "juicy",
+   "faV": "آبدار",
+   "a": "ceed89006c9a"
+  },
+  {
+   "fa": "داغ",
+   "r": "dāgh",
+   "en": "hot (to the touch)",
+   "faV": "داغ",
+   "a": "35824b791e3d"
+  }
  ],
  "facts": [
   "Chelow kabab is usually dated to the Qajar era (1789–1925).",
@@ -72,5 +264,7 @@
   "Traditionally chelow kabab comes with butter and a raw egg yolk to stir into the hot rice.",
   "Sumac, the sour red spice on every kababi table, is made from the dried, ground berries of the sumac shrub.",
   "'Del-am kabāb shod' – 'my heart turned to kebab' – means 'I felt deeply sorry'."
- ]
+ ],
+ "titleV": "چِلَوکَباب",
+ "titleA": "631e16419f98"
 }

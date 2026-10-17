@@ -37,37 +37,219 @@
   }
  ],
  "sentences": [
-  {"fa": "امشب زرشک‌پلو با مرغ داریم.", "r": "emshab zereshk-polow bā morgh dārim.", "en": "We're having barberry rice with chicken tonight."},
-  {"fa": "زرشک را با کمی کره و شکر تفت بده.", "r": "zereshk rā bā kami kare va shekar taft be-de.", "en": "Sauté the barberries with a little butter and sugar."},
-  {"fa": "باقالی‌پلو بدون شوید مزه ندارد.", "r": "bāghāli-polow bedun-e shevid mazze na-dārad.", "en": "Baghali polo has no flavour without dill."},
-  {"fa": "برنج را لایه‌لایه با باقالی و شوید در قابلمه بریز.", "r": "berenj rā lāye-lāye bā bāghāli va shevid dar ghāblame be-riz.", "en": "Layer the rice in the pot with the broad beans and dill."},
-  {"fa": "سبزی‌پلو با ماهی غذای شب عید است.", "r": "sabzi-polow bā māhi ghazā-ye shab-e eyd ast.", "en": "Herb rice with fish is the dish for New Year's Eve."},
-  {"fa": "در عروسی‌ها معمولاً شیرین‌پلو می‌دهند.", "r": "dar arusi-hā ma'mulan shirin-polow mi-dahand.", "en": "At weddings they usually serve sweet rice."},
-  {"fa": "ته‌چین را برگردان و مثل کیک برش بزن.", "r": "tah-chin rā bargardān va mesl-e keyk boresh be-zan.", "en": "Turn the tahchin out and slice it like a cake."},
-  {"fa": "لوبیاپلو غذای مورد علاقه‌ی بچه‌هاست.", "r": "lubiyā-polow ghazā-ye mored-e alāghe-ye bacche-hā-st.", "en": "Lubia polo is the children's favourite food."},
-  {"fa": "این پلو چه رنگ قشنگی دارد!", "r": "in polow che rang-e ghashang-i dārad!", "en": "What a beautiful colour this polo has!"},
-  {"fa": "یک بشقاب دیگر برایتان بکشم؟", "r": "yek boshghāb-e digar barā-yetān be-kesham?", "en": "Shall I serve you another plate?", "col": "یه بشقاب دیگه براتون بکشم؟", "colR": "ye boshghāb-e dige barā-tun be-kesham?"},
-  {"fa": "زحمت کشیدید، همه‌چیز عالی بود.", "r": "zahmat keshidid, hame-chiz āli bud.", "en": "You went to so much trouble – everything was wonderful.", "col": "زحمت کشیدین، همه‌چی عالی بود.", "colR": "zahmat keshidin, hame-chi āli bud."}
+  {
+   "fa": "امشب زرشک‌پلو با مرغ داریم.",
+   "r": "emshab zereshk-polow bā morgh dārim.",
+   "en": "We're having barberry rice with chicken tonight.",
+   "faV": "اِمشَب زِرِشک‌پُلَو با مُرغ داریم.",
+   "a": "e4dbe66161a3"
+  },
+  {
+   "fa": "زرشک را با کمی کره و شکر تفت بده.",
+   "r": "zereshk rā bā kami kare va shekar taft be-de.",
+   "en": "Sauté the barberries with a little butter and sugar.",
+   "faV": "زِرِشک را با کَمی کَره و شِکَر تَفت بِده.",
+   "a": "9281b4067f8b"
+  },
+  {
+   "fa": "باقالی‌پلو بدون شوید مزه ندارد.",
+   "r": "bāghāli-polow bedun-e shevid mazze na-dārad.",
+   "en": "Baghali polo has no flavour without dill.",
+   "faV": "باقالی‌پُلَو بِدونِ شِوید مَزّه نَدارَد.",
+   "a": "4a95333176d5"
+  },
+  {
+   "fa": "برنج را لایه‌لایه با باقالی و شوید در قابلمه بریز.",
+   "r": "berenj rā lāye-lāye bā bāghāli va shevid dar ghāblame be-riz.",
+   "en": "Layer the rice in the pot with the broad beans and dill.",
+   "faV": "بِرِنج را لایه‌لایه با باقالی و شِوید دَر قابلَمه بِریز.",
+   "a": "f87f541b493d"
+  },
+  {
+   "fa": "سبزی‌پلو با ماهی غذای شب عید است.",
+   "r": "sabzi-polow bā māhi ghazā-ye shab-e eyd ast.",
+   "en": "Herb rice with fish is the dish for New Year's Eve.",
+   "faV": "سَبزی‌پُلَو با ماهی غَذایِ شَبِ عَید اَست.",
+   "a": "1e4f79a621b5"
+  },
+  {
+   "fa": "در عروسی‌ها معمولاً شیرین‌پلو می‌دهند.",
+   "r": "dar arusi-hā ma'mulan shirin-polow mi-dahand.",
+   "en": "At weddings they usually serve sweet rice.",
+   "faV": "دَر عَروسی‌ها مَعمولاً شیرین‌پُلَو می‌دَهَند.",
+   "a": "aee38e41bf77"
+  },
+  {
+   "fa": "ته‌چین را برگردان و مثل کیک برش بزن.",
+   "r": "tah-chin rā bargardān va mesl-e keyk boresh be-zan.",
+   "en": "Turn the tahchin out and slice it like a cake.",
+   "faV": "تَه‌چین را بَرگَردان و مِثلِ کَیک بُرِش بِزَن.",
+   "a": "c1c58d94eccd"
+  },
+  {
+   "fa": "لوبیاپلو غذای مورد علاقه‌ی بچه‌هاست.",
+   "r": "lubiyā-polow ghazā-ye mored-e alāghe-ye bacche-hā-st.",
+   "en": "Lubia polo is the children's favourite food.",
+   "faV": "لوبیاپُلَو غَذایِ مورِدِ عَلاقه‌یِ بَچّه‌هاست.",
+   "a": "a7c5dc0cf4ab"
+  },
+  {
+   "fa": "این پلو چه رنگ قشنگی دارد!",
+   "r": "in polow che rang-e ghashang-i dārad!",
+   "en": "What a beautiful colour this polo has!",
+   "faV": "این پُلَو چه رَنگِ قَشَنگی دارَد!",
+   "a": "058001baa170"
+  },
+  {
+   "fa": "یک بشقاب دیگر برایتان بکشم؟",
+   "r": "yek boshghāb-e digar barā-yetān be-kesham?",
+   "en": "Shall I serve you another plate?",
+   "col": "یه بشقاب دیگه براتون بکشم؟",
+   "colR": "ye boshghāb-e dige barā-tun be-kesham?",
+   "faV": "یِک بُشقابِ دیگَر بَرایِتان بِکِشَم؟",
+   "a": "b2c1615d388a",
+   "colV": "یه بُشقابِ دیگه بَراتون بِکِشَم؟",
+   "colA": "85592fda46ec"
+  },
+  {
+   "fa": "زحمت کشیدید، همه‌چیز عالی بود.",
+   "r": "zahmat keshidid, hame-chiz āli bud.",
+   "en": "You went to so much trouble – everything was wonderful.",
+   "col": "زحمت کشیدین، همه‌چی عالی بود.",
+   "colR": "zahmat keshidin, hame-chi āli bud.",
+   "faV": "زَحمَت کِشیدید، هَمه‌چیز عالی بود.",
+   "a": "3e198bf630a6",
+   "colV": "زَحمَت کِشیدین، هَمه‌چی عالی بود.",
+   "colA": "e83d1d2efdb1"
+  }
  ],
  "vocab": [
-  {"fa": "پلو", "r": "polow", "en": "polo, rice cooked with other ingredients"},
-  {"fa": "زرشک", "r": "zereshk", "en": "barberry"},
-  {"fa": "باقالی", "r": "bāghāli", "en": "broad beans, fava beans"},
-  {"fa": "شوید", "r": "shevid", "en": "dill"},
-  {"fa": "ماهیچه", "r": "māhiche", "en": "lamb shank; muscle"},
-  {"fa": "ماهی", "r": "māhi", "en": "fish"},
-  {"fa": "پوست پرتقال", "r": "pust-e porteghāl", "en": "orange peel"},
-  {"fa": "هویج", "r": "havij", "en": "carrot"},
-  {"fa": "بادام", "r": "bādām", "en": "almond"},
-  {"fa": "پسته", "r": "peste", "en": "pistachio"},
-  {"fa": "ته‌چین", "r": "tah-chin", "en": "tahchin, baked saffron rice cake"},
-  {"fa": "لایه", "r": "lāye", "en": "layer"},
-  {"fa": "قابلمه", "r": "ghāblame", "en": "saucepan, cooking pot"},
-  {"fa": "بشقاب", "r": "boshghāb", "en": "plate"},
-  {"fa": "کشیدن", "r": "keshidan", "en": "to pull; to dish up (food)"},
-  {"fa": "عروسی", "r": "arusi", "en": "wedding"},
-  {"fa": "شب عید", "r": "shab-e eyd", "en": "New Year's Eve (Nowruz)"},
-  {"fa": "مزه", "r": "mazze", "en": "taste, flavour"}
+  {
+   "fa": "پلو",
+   "r": "polow",
+   "en": "polo, rice cooked with other ingredients",
+   "faV": "پُلَو",
+   "a": "fe1ee5c707fc"
+  },
+  {
+   "fa": "زرشک",
+   "r": "zereshk",
+   "en": "barberry",
+   "faV": "زِرِشک",
+   "a": "bf4328f2a6de"
+  },
+  {
+   "fa": "باقالی",
+   "r": "bāghāli",
+   "en": "broad beans, fava beans",
+   "faV": "باقالی",
+   "a": "c91e6397b431"
+  },
+  {
+   "fa": "شوید",
+   "r": "shevid",
+   "en": "dill",
+   "faV": "شِوید",
+   "a": "783241d11b3c"
+  },
+  {
+   "fa": "ماهیچه",
+   "r": "māhiche",
+   "en": "lamb shank; muscle",
+   "faV": "ماهیچه",
+   "a": "e4d74c52345d"
+  },
+  {
+   "fa": "ماهی",
+   "r": "māhi",
+   "en": "fish",
+   "faV": "ماهی",
+   "a": "dd4f563e93ae"
+  },
+  {
+   "fa": "پوست پرتقال",
+   "r": "pust-e porteghāl",
+   "en": "orange peel",
+   "faV": "پوستِ پُرتِقال",
+   "a": "e4580519c30b"
+  },
+  {
+   "fa": "هویج",
+   "r": "havij",
+   "en": "carrot",
+   "faV": "هَویج",
+   "a": "34b11addb75a"
+  },
+  {
+   "fa": "بادام",
+   "r": "bādām",
+   "en": "almond",
+   "faV": "بادام",
+   "a": "d37231c2df2c"
+  },
+  {
+   "fa": "پسته",
+   "r": "peste",
+   "en": "pistachio",
+   "faV": "پِسته",
+   "a": "17b713fc6193"
+  },
+  {
+   "fa": "ته‌چین",
+   "r": "tah-chin",
+   "en": "tahchin, baked saffron rice cake",
+   "faV": "تَه‌چین",
+   "a": "ae3eece8cee0"
+  },
+  {
+   "fa": "لایه",
+   "r": "lāye",
+   "en": "layer",
+   "faV": "لایه",
+   "a": "40e9cba30526"
+  },
+  {
+   "fa": "قابلمه",
+   "r": "ghāblame",
+   "en": "saucepan, cooking pot",
+   "faV": "قابلَمه",
+   "a": "8be135216ba0"
+  },
+  {
+   "fa": "بشقاب",
+   "r": "boshghāb",
+   "en": "plate",
+   "faV": "بُشقاب",
+   "a": "57712f423204"
+  },
+  {
+   "fa": "کشیدن",
+   "r": "keshidan",
+   "en": "to pull; to dish up (food)",
+   "faV": "کِشیدَن",
+   "a": "d341ddb06387"
+  },
+  {
+   "fa": "عروسی",
+   "r": "arusi",
+   "en": "wedding",
+   "faV": "عَروسی",
+   "a": "03fa50bc2913"
+  },
+  {
+   "fa": "شب عید",
+   "r": "shab-e eyd",
+   "en": "New Year's Eve (Nowruz)",
+   "faV": "شَبِ عَید",
+   "a": "a8a6a77fda2f"
+  },
+  {
+   "fa": "مزه",
+   "r": "mazze",
+   "en": "taste, flavour",
+   "faV": "مَزّه",
+   "a": "431223bb9184"
+  }
  ],
  "facts": [
   "Most polos use the drain-and-steam method of chelow, with the other ingredients layered between the rice.",
@@ -76,5 +258,7 @@
   "Tahchin means 'arranged at the bottom': rice and chicken are laid in layers and baked into a crisp cake.",
   "Morassa polo, 'jewelled rice', is named for its glittering barberries, nuts and orange peel.",
   "Kalam polo, with cabbage, herbs and tiny meatballs, is a speciality of Shiraz."
- ]
+ ],
+ "titleV": "اَنواعِ پُلَو",
+ "titleA": "cce3f5b6bdef"
 }

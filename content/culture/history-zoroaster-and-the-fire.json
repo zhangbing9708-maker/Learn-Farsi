@@ -33,37 +33,211 @@
   }
  ],
  "sentences": [
-  {"fa": "زرتشت پیامبر ایران باستان بود.", "r": "Zartosht payāmbar-e Irān-e bāstān bud.", "en": "Zoroaster was the prophet of ancient Iran."},
-  {"fa": "کتاب دینی زرتشتیان «اوستا» نام دارد.", "r": "ketāb-e dini-ye zartoshtiyān «Avestā» nām dārad.", "en": "The holy book of the Zoroastrians is called the Avesta."},
-  {"fa": "زرتشتیان به اهورامزدا، خدای دانا، باور دارند.", "r": "zartoshtiyān be Ahurāmazdā, khodā-ye dānā, bāvar dārand.", "en": "Zoroastrians believe in Ahura Mazda, the wise god."},
-  {"fa": "شعار زرتشتیان «پندار نیک، گفتار نیک، کردار نیک» است.", "r": "sho'ār-e zartoshtiyān «pendār-e nik, goftār-e nik, kerdār-e nik» ast.", "en": "The Zoroastrian motto is 'good thoughts, good words, good deeds'."},
-  {"fa": "آتش برای زرتشتیان نماد پاکی و روشنایی است.", "r": "ātash barā-ye zartoshtiyān namād-e pāki va roshanāyi ast.", "en": "For Zoroastrians, fire is a symbol of purity and light."},
-  {"fa": "زرتشتیان آتش را نمی‌پرستند؛ آن‌ها رو به نور دعا می‌کنند.", "r": "zartoshtiyān ātash rā nemi-parastand; ān-hā ru be nur do'ā mi-konand.", "en": "Zoroastrians do not worship fire; they pray facing the light."},
-  {"fa": "می‌گویند آتش آتشکده‌ی یزد بیش از هزار و پانصد سال است که می‌سوزد.", "r": "mi-guyand ātash-e āteshkade-ye Yazd bish az hezār o pānsad sāl ast ke mi-suzad.", "en": "They say the fire in the Yazd fire temple has been burning for more than 1,500 years."},
-  {"fa": "زرتشتیان امروز بیشتر در تهران، یزد و کرمان زندگی می‌کنند.", "r": "zartoshtiyān emruz bishtar dar Tehrān, Yazd o Kermān zendegi mi-konand.", "en": "Today Zoroastrians live mostly in Tehran, Yazd and Kerman."},
-  {"fa": "جشن سده در زمستان با آتشی بزرگ برگزار می‌شود.", "r": "jashn-e Sade dar zemestān bā ātash-i bozorg bargozār mi-shavad.", "en": "The Sadeh festival is held in winter with a big fire."},
-  {"fa": "نام ماه‌های تقویم ایرانی از اوستا آمده است.", "r": "nām-e māh-hā-ye taghvim-e irāni az Avestā āmade ast.", "en": "The names of the months of the Iranian calendar come from the Avesta."},
-  {"fa": "واژه‌ی «بهشت» از زبان اوستایی آمده است.", "r": "vāzhe-ye «behesht» az zabān-e Avestāyi āmade ast.", "en": "The word behesht (paradise) comes from the Avestan language."}
+  {
+   "fa": "زرتشت پیامبر ایران باستان بود.",
+   "r": "Zartosht payāmbar-e Irān-e bāstān bud.",
+   "en": "Zoroaster was the prophet of ancient Iran.",
+   "faV": "زَرتُشت پَیامبَرِ ایرانِ باستان بود.",
+   "a": "a8451f63581e"
+  },
+  {
+   "fa": "کتاب دینی زرتشتیان «اوستا» نام دارد.",
+   "r": "ketāb-e dini-ye zartoshtiyān «Avestā» nām dārad.",
+   "en": "The holy book of the Zoroastrians is called the Avesta.",
+   "faV": "کِتابِ دینیِ زَرتُشتیان «اَوِستا» نام دارَد.",
+   "a": "8610c851c098"
+  },
+  {
+   "fa": "زرتشتیان به اهورامزدا، خدای دانا، باور دارند.",
+   "r": "zartoshtiyān be Ahurāmazdā, khodā-ye dānā, bāvar dārand.",
+   "en": "Zoroastrians believe in Ahura Mazda, the wise god.",
+   "faV": "زَرتُشتیان به اَهورامَزدا، خُدایِ دانا، باوَر دارَند.",
+   "a": "b2936c26f2f6"
+  },
+  {
+   "fa": "شعار زرتشتیان «پندار نیک، گفتار نیک، کردار نیک» است.",
+   "r": "sho'ār-e zartoshtiyān «pendār-e nik, goftār-e nik, kerdār-e nik» ast.",
+   "en": "The Zoroastrian motto is 'good thoughts, good words, good deeds'.",
+   "faV": "شُعارِ زَرتُشتیان «پِندارِ نیک، گُفتارِ نیک، کِردارِ نیک» اَست.",
+   "a": "b87351519f2d"
+  },
+  {
+   "fa": "آتش برای زرتشتیان نماد پاکی و روشنایی است.",
+   "r": "ātash barā-ye zartoshtiyān namād-e pāki va roshanāyi ast.",
+   "en": "For Zoroastrians, fire is a symbol of purity and light.",
+   "faV": "آتَش بَرایِ زَرتُشتیان نَمادِ پاکی و روشَنایی اَست.",
+   "a": "6c9b5c6b701f"
+  },
+  {
+   "fa": "زرتشتیان آتش را نمی‌پرستند؛ آن‌ها رو به نور دعا می‌کنند.",
+   "r": "zartoshtiyān ātash rā nemi-parastand; ān-hā ru be nur do'ā mi-konand.",
+   "en": "Zoroastrians do not worship fire; they pray facing the light.",
+   "faV": "زَرتُشتیان آتَش را نِمی‌پَرَستَند؛ آن‌ها رو به نور دُعا می‌کُنَند.",
+   "a": "ab7bd62281f8"
+  },
+  {
+   "fa": "می‌گویند آتش آتشکده‌ی یزد بیش از هزار و پانصد سال است که می‌سوزد.",
+   "r": "mi-guyand ātash-e āteshkade-ye Yazd bish az hezār o pānsad sāl ast ke mi-suzad.",
+   "en": "They say the fire in the Yazd fire temple has been burning for more than 1,500 years.",
+   "faV": "می‌گویَند آتَشِ آتِشکَده‌یِ یَزد بیش اَز هِزار و پانصَد سال اَست که می‌سوزَد.",
+   "a": "1ea24aaef740"
+  },
+  {
+   "fa": "زرتشتیان امروز بیشتر در تهران، یزد و کرمان زندگی می‌کنند.",
+   "r": "zartoshtiyān emruz bishtar dar Tehrān, Yazd o Kermān zendegi mi-konand.",
+   "en": "Today Zoroastrians live mostly in Tehran, Yazd and Kerman.",
+   "faV": "زَرتُشتیان اِمروز بیشتَر دَر تِهران، یَزد و کِرمان زِندِگی می‌کُنَند.",
+   "a": "69683c94971c"
+  },
+  {
+   "fa": "جشن سده در زمستان با آتشی بزرگ برگزار می‌شود.",
+   "r": "jashn-e Sade dar zemestān bā ātash-i bozorg bargozār mi-shavad.",
+   "en": "The Sadeh festival is held in winter with a big fire.",
+   "faV": "جَشنِ سَده دَر زِمِستان با آتَشی بُزُرگ بَرگُزار می‌شَوَد.",
+   "a": "ccce474c47e9"
+  },
+  {
+   "fa": "نام ماه‌های تقویم ایرانی از اوستا آمده است.",
+   "r": "nām-e māh-hā-ye taghvim-e irāni az Avestā āmade ast.",
+   "en": "The names of the months of the Iranian calendar come from the Avesta.",
+   "faV": "نامِ ماه‌هایِ تَقویمِ ایرانی اَز اَوِستا آمَده اَست.",
+   "a": "8d3d822e286e"
+  },
+  {
+   "fa": "واژه‌ی «بهشت» از زبان اوستایی آمده است.",
+   "r": "vāzhe-ye «behesht» az zabān-e Avestāyi āmade ast.",
+   "en": "The word behesht (paradise) comes from the Avestan language.",
+   "faV": "واژه‌یِ «بِهِشت» اَز زَبانِ اَوِستایی آمَده اَست.",
+   "a": "a11868e36fbd"
+  }
  ],
  "vocab": [
-  {"fa": "دین", "r": "din", "en": "religion"},
-  {"fa": "پیامبر", "r": "payāmbar", "en": "prophet"},
-  {"fa": "زرتشتی", "r": "zartoshti", "en": "Zoroastrian"},
-  {"fa": "خدا", "r": "khodā", "en": "God, god"},
-  {"fa": "آتش", "r": "ātash", "en": "fire"},
-  {"fa": "آتشکده", "r": "āteshkade", "en": "fire temple"},
-  {"fa": "موبد", "r": "mobad", "en": "Zoroastrian priest"},
-  {"fa": "نیک", "r": "nik", "en": "good (literary)"},
-  {"fa": "پندار", "r": "pendār", "en": "thought (literary)"},
-  {"fa": "گفتار", "r": "goftār", "en": "speech, words"},
-  {"fa": "کردار", "r": "kerdār", "en": "deed, action"},
-  {"fa": "نماد", "r": "namād", "en": "symbol"},
-  {"fa": "پاکی", "r": "pāki", "en": "purity, cleanness"},
-  {"fa": "نور", "r": "nur", "en": "light"},
-  {"fa": "دعا کردن", "r": "do'ā kardan", "en": "to pray"},
-  {"fa": "پرستیدن", "r": "parastidan", "en": "to worship"},
-  {"fa": "بهشت", "r": "behesht", "en": "paradise, heaven"},
-  {"fa": "جشن", "r": "jashn", "en": "festival, celebration"}
+  {
+   "fa": "دین",
+   "r": "din",
+   "en": "religion",
+   "faV": "دین",
+   "a": "415d4a68797c"
+  },
+  {
+   "fa": "پیامبر",
+   "r": "payāmbar",
+   "en": "prophet",
+   "faV": "پَیامبَر",
+   "a": "baf708f0e257"
+  },
+  {
+   "fa": "زرتشتی",
+   "r": "zartoshti",
+   "en": "Zoroastrian",
+   "faV": "زَرتُشتی",
+   "a": "785cc8a72155"
+  },
+  {
+   "fa": "خدا",
+   "r": "khodā",
+   "en": "God, god",
+   "faV": "خُدا",
+   "a": "f577151c548a"
+  },
+  {
+   "fa": "آتش",
+   "r": "ātash",
+   "en": "fire",
+   "faV": "آتَش",
+   "a": "c6215dd436c9"
+  },
+  {
+   "fa": "آتشکده",
+   "r": "āteshkade",
+   "en": "fire temple",
+   "faV": "آتِشکَده",
+   "a": "6fac62baebbb"
+  },
+  {
+   "fa": "موبد",
+   "r": "mobad",
+   "en": "Zoroastrian priest",
+   "faV": "موبَد",
+   "a": "cce18eecc3a8"
+  },
+  {
+   "fa": "نیک",
+   "r": "nik",
+   "en": "good (literary)",
+   "faV": "نیک",
+   "a": "7b0c6d2c4f27"
+  },
+  {
+   "fa": "پندار",
+   "r": "pendār",
+   "en": "thought (literary)",
+   "faV": "پِندار",
+   "a": "58f78fce1ab7"
+  },
+  {
+   "fa": "گفتار",
+   "r": "goftār",
+   "en": "speech, words",
+   "faV": "گُفتار",
+   "a": "310aa3ec835b"
+  },
+  {
+   "fa": "کردار",
+   "r": "kerdār",
+   "en": "deed, action",
+   "faV": "کِردار",
+   "a": "e31eb052c525"
+  },
+  {
+   "fa": "نماد",
+   "r": "namād",
+   "en": "symbol",
+   "faV": "نَماد",
+   "a": "15ba639c977a"
+  },
+  {
+   "fa": "پاکی",
+   "r": "pāki",
+   "en": "purity, cleanness",
+   "faV": "پاکی",
+   "a": "e17ac6c2121c"
+  },
+  {
+   "fa": "نور",
+   "r": "nur",
+   "en": "light",
+   "faV": "نور",
+   "a": "3d5fe2d1f0f9"
+  },
+  {
+   "fa": "دعا کردن",
+   "r": "do'ā kardan",
+   "en": "to pray",
+   "faV": "دُعا کَردَن",
+   "a": "48d3f1ed236f"
+  },
+  {
+   "fa": "پرستیدن",
+   "r": "parastidan",
+   "en": "to worship",
+   "faV": "پَرَستیدَن",
+   "a": "1143d466f65f"
+  },
+  {
+   "fa": "بهشت",
+   "r": "behesht",
+   "en": "paradise, heaven",
+   "faV": "بِهِشت",
+   "a": "2d3179ee4e79"
+  },
+  {
+   "fa": "جشن",
+   "r": "jashn",
+   "en": "festival, celebration",
+   "faV": "جَشن",
+   "a": "21709bf796d7"
+  }
  ],
  "facts": [
   "The Gathas, seventeen hymns attributed to Zarathustra himself, are the oldest part of the Avesta.",
@@ -73,5 +247,7 @@
   "Zoroastrians and Jews each have one reserved seat in Iran's parliament, and Armenian Christians have two.",
   "Freddie Mercury (born Farrokh Bulsara, 1946) grew up in a Parsi Zoroastrian family.",
   "English 'paradise' goes back to an Old Iranian word for a walled garden, the ancestor of Persian pardis."
- ]
+ ],
+ "titleV": "زَرتُشت و آتَش",
+ "titleA": "8f4823f3ea95"
 }

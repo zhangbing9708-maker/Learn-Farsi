@@ -317,10 +317,10 @@ The friendly rivalry is a national sport, and the comparatives fly: *hich jā me
 
 **Put the words in order**
 
-1. اصفهان / تهران / از / است. / بزرگ‌تر — Tehran is bigger than Isfahan.
-2. این‌جا / کجاست؟ / رستوران / بهترین — Where is the best restaurant around here?
-3. تهران / نیست. / شلوغ / به / اندازه‌ی / شیراز — Shiraz isn't as busy as Tehran.
-4. یزد / یکی / از / قدیمی‌ترین / شهرهای / دنیاست. — Yazd is one of the oldest cities in the world.
+1. بزرگ‌تر / از / تهران / اصفهان / است. — Tehran is bigger than Isfahan.
+2. رستوران / این‌جا / بهترین / کجاست؟ — Where is the best restaurant around here?
+3. شیراز / نیست. / اندازه‌ی / به / شلوغ / تهران — Shiraz isn't as busy as Tehran.
+4. یکی / یزد / قدیمی‌ترین / دنیاست. / شهرهای / از — Yazd is one of the oldest cities in the world.
 
 <details><summary>Answers</summary>
 
@@ -367,4 +367,4 @@ The friendly rivalry is a national sport, and the comparatives fly: *hich jā me
 
 ---
 
-← [Have you ever…? The present perfect](a2-02-have-you-ever.md) · [Contents](../README.md) · [Do this! Instructions and a recipe](a2-09-do-this.md) →
+← [Have you ever…? The present perfect](a2-02-have-you-ever.md) · [Contents](../README.md) · [I must, I can: the subjunctive](a2-04-i-must-i-can.md) →

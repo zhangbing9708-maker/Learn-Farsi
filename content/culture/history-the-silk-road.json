@@ -32,37 +32,212 @@
   }
  ],
  "sentences": [
-  {"fa": "جاده‌ی ابریشم چین را به دریای مدیترانه وصل می‌کرد.", "r": "jāde-ye abrisham Chin rā be daryā-ye Mediterāne vasl mi-kard.", "en": "The Silk Road connected China with the Mediterranean Sea."},
-  {"fa": "این جاده در واقع چند راه بود، نه یک راه.", "r": "in jāde dar vāghe' chand rāh bud, na yek rāh.", "en": "This road was really several routes, not one."},
-  {"fa": "ایران در وسط جاده‌ی ابریشم بود.", "r": "Irān dar vasat-e jāde-ye abrisham bud.", "en": "Iran lay in the middle of the Silk Road."},
-  {"fa": "بازرگانان با کاروان از شهری به شهر دیگر می‌رفتند.", "r": "bāzargānān bā kārvān az shahr-i be shahr-e digar mi-raftand.", "en": "Merchants travelled by caravan from one city to the next."},
-  {"fa": "کاروان‌ها شب‌ها در کاروانسرا می‌ماندند.", "r": "kārvān-hā shab-hā dar kārvānsarā mi-māndand.", "en": "At night the caravans stayed in caravanserais."},
-  {"fa": "فاصله‌ی کاروانسراها معمولاً یک روز راه بود.", "r": "fāsele-ye kārvānsarā-hā ma'mulan yek ruz rāh bud.", "en": "The caravanserais were usually a day's journey apart.", "lit": "the distance of the caravanserais was usually one day of road"},
-  {"fa": "ابریشم و کاغذ از چین به غرب می‌رفت.", "r": "abrisham va kāghaz az Chin be gharb mi-raft.", "en": "Silk and paper went from China to the West."},
-  {"fa": "انار و بازی چوگان از ایران به چین رسیدند.", "r": "anār va bāzi-ye chowgān az Irān be Chin residand.", "en": "The pomegranate and the game of polo reached China from Iran."},
-  {"fa": "سغدی‌ها بازرگانان بزرگ جاده‌ی ابریشم بودند.", "r": "soghdi-hā bāzargānān-e bozorg-e jāde-ye abrisham budand.", "en": "The Sogdians were the great merchants of the Silk Road."},
-  {"fa": "واژه‌ی انگلیسی «کاروان» از فارسی آمده است.", "r": "vāzhe-ye engelisi-ye «kārvān» az fārsi āmade ast.", "en": "The English word 'caravan' comes from Persian."},
-  {"fa": "بازار تبریز یکی از بزرگ‌ترین بازارهای سرپوشیده‌ی جهان است.", "r": "bāzār-e Tabriz yek-i az bozorg-tarin bāzār-hā-ye sarpushide-ye jahān ast.", "en": "The Tabriz bazaar is one of the largest covered bazaars in the world."}
+  {
+   "fa": "جاده‌ی ابریشم چین را به دریای مدیترانه وصل می‌کرد.",
+   "r": "jāde-ye abrisham Chin rā be daryā-ye Mediterāne vasl mi-kard.",
+   "en": "The Silk Road connected China with the Mediterranean Sea.",
+   "faV": "جاده‌یِ اَبریشَم چین را به دَریایِ مِدیتِرانه وَصل می‌کَرد.",
+   "a": "5836aa04b9c3"
+  },
+  {
+   "fa": "این جاده در واقع چند راه بود، نه یک راه.",
+   "r": "in jāde dar vāghe' chand rāh bud, na yek rāh.",
+   "en": "This road was really several routes, not one.",
+   "faV": "این جاده دَر واقعِ چَند راه بود، نه یِک راه.",
+   "a": "03fa613db1f3"
+  },
+  {
+   "fa": "ایران در وسط جاده‌ی ابریشم بود.",
+   "r": "Irān dar vasat-e jāde-ye abrisham bud.",
+   "en": "Iran lay in the middle of the Silk Road.",
+   "faV": "ایران دَر وَسَطِ جاده‌یِ اَبریشَم بود.",
+   "a": "61e0e26810b5"
+  },
+  {
+   "fa": "بازرگانان با کاروان از شهری به شهر دیگر می‌رفتند.",
+   "r": "bāzargānān bā kārvān az shahr-i be shahr-e digar mi-raftand.",
+   "en": "Merchants travelled by caravan from one city to the next.",
+   "faV": "بازَرگانان با کاروان اَز شَهری به شَهرِ دیگَر می‌رَفتَند.",
+   "a": "56c606be5270"
+  },
+  {
+   "fa": "کاروان‌ها شب‌ها در کاروانسرا می‌ماندند.",
+   "r": "kārvān-hā shab-hā dar kārvānsarā mi-māndand.",
+   "en": "At night the caravans stayed in caravanserais.",
+   "faV": "کاروان‌ها شَب‌ها دَر کاروانسَرا می‌ماندَند.",
+   "a": "08e05137c384"
+  },
+  {
+   "fa": "فاصله‌ی کاروانسراها معمولاً یک روز راه بود.",
+   "r": "fāsele-ye kārvānsarā-hā ma'mulan yek ruz rāh bud.",
+   "en": "The caravanserais were usually a day's journey apart.",
+   "lit": "the distance of the caravanserais was usually one day of road",
+   "faV": "فاصِله‌یِ کاروانسَراها مَعمولاً یِک روز راه بود.",
+   "a": "2744a79ae288"
+  },
+  {
+   "fa": "ابریشم و کاغذ از چین به غرب می‌رفت.",
+   "r": "abrisham va kāghaz az Chin be gharb mi-raft.",
+   "en": "Silk and paper went from China to the West.",
+   "faV": "اَبریشَم و کاغَذ اَز چین به غَرب می‌رَفت.",
+   "a": "b7f93d41c761"
+  },
+  {
+   "fa": "انار و بازی چوگان از ایران به چین رسیدند.",
+   "r": "anār va bāzi-ye chowgān az Irān be Chin residand.",
+   "en": "The pomegranate and the game of polo reached China from Iran.",
+   "faV": "اَنار و بازیِ چَوگان اَز ایران به چین رِسیدَند.",
+   "a": "814c92766b4f"
+  },
+  {
+   "fa": "سغدی‌ها بازرگانان بزرگ جاده‌ی ابریشم بودند.",
+   "r": "soghdi-hā bāzargānān-e bozorg-e jāde-ye abrisham budand.",
+   "en": "The Sogdians were the great merchants of the Silk Road.",
+   "faV": "سُغدی‌ها بازَرگانانِ بُزُرگِ جاده‌یِ اَبریشَم بودَند.",
+   "a": "7de6db676bec"
+  },
+  {
+   "fa": "واژه‌ی انگلیسی «کاروان» از فارسی آمده است.",
+   "r": "vāzhe-ye engelisi-ye «kārvān» az fārsi āmade ast.",
+   "en": "The English word 'caravan' comes from Persian.",
+   "faV": "واژه‌یِ اِنگِلیسیِ «کاروان» اَز فارسی آمَده اَست.",
+   "a": "987b6e2501ce"
+  },
+  {
+   "fa": "بازار تبریز یکی از بزرگ‌ترین بازارهای سرپوشیده‌ی جهان است.",
+   "r": "bāzār-e Tabriz yek-i az bozorg-tarin bāzār-hā-ye sarpushide-ye jahān ast.",
+   "en": "The Tabriz bazaar is one of the largest covered bazaars in the world.",
+   "faV": "بازارِ تَبریز یِکی اَز بُزُرگ‌تَرین بازارهایِ سَرپوشیده‌یِ جَهان اَست.",
+   "a": "75ac0768b976"
+  }
  ],
  "vocab": [
-  {"fa": "جاده", "r": "jāde", "en": "road"},
-  {"fa": "ابریشم", "r": "abrisham", "en": "silk"},
-  {"fa": "راه", "r": "rāh", "en": "way, route, road"},
-  {"fa": "کاروان", "r": "kārvān", "en": "caravan"},
-  {"fa": "کاروانسرا", "r": "kārvānsarā", "en": "caravanserai, roadside inn"},
-  {"fa": "بازرگان", "r": "bāzargān", "en": "merchant"},
-  {"fa": "بازار", "r": "bāzār", "en": "bazaar, market"},
-  {"fa": "کالا", "r": "kālā", "en": "goods, merchandise"},
-  {"fa": "تجارت", "r": "tejārat", "en": "trade, commerce"},
-  {"fa": "شتر", "r": "shotor", "en": "camel"},
-  {"fa": "کاغذ", "r": "kāghaz", "en": "paper"},
-  {"fa": "ادویه", "r": "adviye", "en": "spices"},
-  {"fa": "مسافر", "r": "mosāfer", "en": "traveller, passenger"},
-  {"fa": "فاصله", "r": "fāsele", "en": "distance"},
-  {"fa": "وصل کردن", "r": "vasl kardan", "en": "to connect"},
-  {"fa": "شرق", "r": "shargh", "en": "east"},
-  {"fa": "غرب", "r": "gharb", "en": "west"},
-  {"fa": "سرپوشیده", "r": "sarpushide", "en": "covered, roofed"}
+  {
+   "fa": "جاده",
+   "r": "jāde",
+   "en": "road",
+   "faV": "جاده",
+   "a": "18132c106534"
+  },
+  {
+   "fa": "ابریشم",
+   "r": "abrisham",
+   "en": "silk",
+   "faV": "اَبریشَم",
+   "a": "827da4bfe788"
+  },
+  {
+   "fa": "راه",
+   "r": "rāh",
+   "en": "way, route, road",
+   "faV": "راه",
+   "a": "eea09733ee90"
+  },
+  {
+   "fa": "کاروان",
+   "r": "kārvān",
+   "en": "caravan",
+   "faV": "کاروان",
+   "a": "29d681dd5f6a"
+  },
+  {
+   "fa": "کاروانسرا",
+   "r": "kārvānsarā",
+   "en": "caravanserai, roadside inn",
+   "faV": "کاروانسَرا",
+   "a": "6495162454cf"
+  },
+  {
+   "fa": "بازرگان",
+   "r": "bāzargān",
+   "en": "merchant",
+   "faV": "بازَرگان",
+   "a": "3df2414bccdd"
+  },
+  {
+   "fa": "بازار",
+   "r": "bāzār",
+   "en": "bazaar, market",
+   "faV": "بازار",
+   "a": "05299979b024"
+  },
+  {
+   "fa": "کالا",
+   "r": "kālā",
+   "en": "goods, merchandise",
+   "faV": "کالا",
+   "a": "b764bbd3460b"
+  },
+  {
+   "fa": "تجارت",
+   "r": "tejārat",
+   "en": "trade, commerce",
+   "faV": "تِجارَت",
+   "a": "f5e135d6ef4d"
+  },
+  {
+   "fa": "شتر",
+   "r": "shotor",
+   "en": "camel",
+   "faV": "شُتُر",
+   "a": "e430fd2af41b"
+  },
+  {
+   "fa": "کاغذ",
+   "r": "kāghaz",
+   "en": "paper",
+   "faV": "کاغَذ",
+   "a": "2c54a2aea4f9"
+  },
+  {
+   "fa": "ادویه",
+   "r": "adviye",
+   "en": "spices",
+   "faV": "اَدویه",
+   "a": "813247cb410a"
+  },
+  {
+   "fa": "مسافر",
+   "r": "mosāfer",
+   "en": "traveller, passenger",
+   "faV": "مُسافِر",
+   "a": "10db1dff73df"
+  },
+  {
+   "fa": "فاصله",
+   "r": "fāsele",
+   "en": "distance",
+   "faV": "فاصِله",
+   "a": "b50c55d1a0ff"
+  },
+  {
+   "fa": "وصل کردن",
+   "r": "vasl kardan",
+   "en": "to connect",
+   "faV": "وَصل کَردَن",
+   "a": "2f791cb5ca50"
+  },
+  {
+   "fa": "شرق",
+   "r": "shargh",
+   "en": "east",
+   "faV": "شَرق",
+   "a": "b8309f44d502"
+  },
+  {
+   "fa": "غرب",
+   "r": "gharb",
+   "en": "west",
+   "faV": "غَرب",
+   "a": "d465a898c9e6"
+  },
+  {
+   "fa": "سرپوشیده",
+   "r": "sarpushide",
+   "en": "covered, roofed",
+   "faV": "سَرپوشیده",
+   "a": "28dd79f5a75f"
+  }
  ],
  "facts": [
   "The term 'Silk Road' (German Seidenstraße) was coined by Ferdinand von Richthofen in 1877.",
@@ -72,5 +247,7 @@
   "Caravanserais were usually built about a day's journey apart – roughly 30 to 40 kilometres.",
   "Byzantine historians say that around AD 552 monks smuggled silkworm eggs to Constantinople, ending China's monopoly on silk.",
   "Sogdian, an Iranian language of Samarkand, was the main trade language of the Silk Road between the 4th and 8th centuries."
- ]
+ ],
+ "titleV": "جاده‌یِ اَبریشَم",
+ "titleA": "45f67cfec362"
 }

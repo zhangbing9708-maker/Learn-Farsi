@@ -251,10 +251,10 @@ The road that matters most is خیابان ولیعصر (*khiyābān-e Valiasr*)
 
 **Put the words in order**
 
-1. این‌جا / نگه / دارید. / لطفاً — Please stop here.
-2. چپ. / بپیچید / سر / چهارراه / به — At the crossroads turn left.
-3. می‌روم. / مترو / بازار / به / من / با — I go to the bazaar by metro.
-4. است؟ / دور / مترو / ایستگاه — Is the metro station far?
+1. این‌جا / لطفاً / نگه / دارید. — Please stop here.
+2. سر / چپ. / چهارراه / به / بپیچید — At the crossroads turn left.
+3. من / می‌روم. / مترو / به / بازار / با — I go to the bazaar by metro.
+4. دور / است؟ / ایستگاه / مترو — Is the metro station far?
 
 <details><summary>Answers</summary>
 

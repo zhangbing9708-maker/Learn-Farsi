@@ -28,36 +28,204 @@
   }
  ],
  "sentences": [
-  {"fa": "فارسی یکی از زبان‌های ایرانی است.", "r": "fārsi yek-i az zabān-hā-ye irāni ast.", "en": "Persian is one of the Iranian languages."},
-  {"fa": "نام «فارسی» از استان فارس می‌آید.", "r": "nām-e «fārsi» az ostān-e Fārs mi-āyad.", "en": "The name Farsi comes from the province of Fars."},
-  {"fa": "داریوش بزرگ به فارسی باستان می‌نوشت.", "r": "Dāriush-e Bozorg be fārsi-ye bāstān mi-nevesht.", "en": "Darius the Great wrote in Old Persian."},
-  {"fa": "زبان ساسانیان فارسی میانه یا پهلوی بود.", "r": "zabān-e Sāsāniyān fārsi-ye miyāne yā pahlavi bud.", "en": "The language of the Sasanians was Middle Persian, or Pahlavi."},
-  {"fa": "فارسی امروز با خط عربی نوشته می‌شود.", "r": "fārsi-ye emruz bā khatt-e arabi neveshte mi-shavad.", "en": "Today's Persian is written in the Arabic script."},
-  {"fa": "الفبای فارسی سی و دو حرف دارد.", "r": "alefbā-ye fārsi si o do harf dārad.", "en": "The Persian alphabet has thirty-two letters."},
-  {"fa": "فارسی جنس دستوری ندارد.", "r": "fārsi jens-e dasturi na-dārad.", "en": "Persian has no grammatical gender."},
-  {"fa": "فارسی صدها سال زبان دربار هند بود.", "r": "fārsi sad-hā sāl zabān-e darbār-e Hend bud.", "en": "For hundreds of years Persian was the language of the court in India."},
-  {"fa": "در افغانستان به فارسی «دری» می‌گویند.", "r": "dar Afghānestān be fārsi «dari» mi-guyand.", "en": "In Afghanistan Persian is called Dari."},
-  {"fa": "در تاجیکستان فارسی را با خط سیریلیک می‌نویسند.", "r": "dar Tājikestān fārsi rā bā khatt-e sirilik mi-nevisand.", "en": "In Tajikistan Persian is written in the Cyrillic alphabet."},
-  {"fa": "ایرانیان امروز هنوز شعرهای رودکی را می‌فهمند.", "r": "irāniyān-e emruz hanuz she'r-hā-ye Rudaki rā mi-fahmand.", "en": "Iranians today still understand the poems of Rudaki."},
-  {"fa": "واژه‌های «بازار» و «شال» از فارسی به انگلیسی رفته‌اند.", "r": "vāzhe-hā-ye «bāzār» va «shāl» az fārsi be engelisi rafte-and.", "en": "The words bazaar and shawl passed from Persian into English."}
+  {
+   "fa": "فارسی یکی از زبان‌های ایرانی است.",
+   "r": "fārsi yek-i az zabān-hā-ye irāni ast.",
+   "en": "Persian is one of the Iranian languages.",
+   "faV": "فارسی یِکی اَز زَبان‌هایِ ایرانی اَست.",
+   "a": "93bcdb8a92a1"
+  },
+  {
+   "fa": "نام «فارسی» از استان فارس می‌آید.",
+   "r": "nām-e «fārsi» az ostān-e Fārs mi-āyad.",
+   "en": "The name Farsi comes from the province of Fars.",
+   "faV": "نامِ «فارسی» اَز اُستانِ فارس می‌آیَد.",
+   "a": "8e1bb9937756"
+  },
+  {
+   "fa": "داریوش بزرگ به فارسی باستان می‌نوشت.",
+   "r": "Dāriush-e Bozorg be fārsi-ye bāstān mi-nevesht.",
+   "en": "Darius the Great wrote in Old Persian.",
+   "faV": "داریوشِ بُزُرگ به فارسیِ باستان می‌نِوِشت.",
+   "a": "789bb51b9140"
+  },
+  {
+   "fa": "زبان ساسانیان فارسی میانه یا پهلوی بود.",
+   "r": "zabān-e Sāsāniyān fārsi-ye miyāne yā pahlavi bud.",
+   "en": "The language of the Sasanians was Middle Persian, or Pahlavi.",
+   "faV": "زَبانِ ساسانیان فارسیِ میانه یا پَهلَوی بود.",
+   "a": "78f597bb3dfe"
+  },
+  {
+   "fa": "فارسی امروز با خط عربی نوشته می‌شود.",
+   "r": "fārsi-ye emruz bā khatt-e arabi neveshte mi-shavad.",
+   "en": "Today's Persian is written in the Arabic script.",
+   "faV": "فارسیِ اِمروز با خَطِّ عَرَبی نِوِشته می‌شَوَد.",
+   "a": "819564b520f5"
+  },
+  {
+   "fa": "الفبای فارسی سی و دو حرف دارد.",
+   "r": "alefbā-ye fārsi si o do harf dārad.",
+   "en": "The Persian alphabet has thirty-two letters.",
+   "faV": "اَلِفبایِ فارسی سی و دو حَرف دارَد.",
+   "a": "5824a0cde82e"
+  },
+  {
+   "fa": "فارسی جنس دستوری ندارد.",
+   "r": "fārsi jens-e dasturi na-dārad.",
+   "en": "Persian has no grammatical gender.",
+   "faV": "فارسی جِنسِ دَستوری نَدارَد.",
+   "a": "88b39970a8cc"
+  },
+  {
+   "fa": "فارسی صدها سال زبان دربار هند بود.",
+   "r": "fārsi sad-hā sāl zabān-e darbār-e Hend bud.",
+   "en": "For hundreds of years Persian was the language of the court in India.",
+   "faV": "فارسی صَدها سال زَبانِ دَربارِ هِند بود.",
+   "a": "ae278d42045c"
+  },
+  {
+   "fa": "در افغانستان به فارسی «دری» می‌گویند.",
+   "r": "dar Afghānestān be fārsi «dari» mi-guyand.",
+   "en": "In Afghanistan Persian is called Dari.",
+   "faV": "دَر اَفغانِستان به فارسی «دَری» می‌گویَند.",
+   "a": "a9351d46c59b"
+  },
+  {
+   "fa": "در تاجیکستان فارسی را با خط سیریلیک می‌نویسند.",
+   "r": "dar Tājikestān fārsi rā bā khatt-e sirilik mi-nevisand.",
+   "en": "In Tajikistan Persian is written in the Cyrillic alphabet.",
+   "faV": "دَر تاجیکِستان فارسی را با خَطِّ سیریلیک می‌نِویسَند.",
+   "a": "97329f29bdf3"
+  },
+  {
+   "fa": "ایرانیان امروز هنوز شعرهای رودکی را می‌فهمند.",
+   "r": "irāniyān-e emruz hanuz she'r-hā-ye Rudaki rā mi-fahmand.",
+   "en": "Iranians today still understand the poems of Rudaki.",
+   "faV": "ایرانیانِ اِمروز هَنوز شِعرهایِ رودَکی را می‌فَهمَند.",
+   "a": "d525d7f67f5f"
+  },
+  {
+   "fa": "واژه‌های «بازار» و «شال» از فارسی به انگلیسی رفته‌اند.",
+   "r": "vāzhe-hā-ye «bāzār» va «shāl» az fārsi be engelisi rafte-and.",
+   "en": "The words bazaar and shawl passed from Persian into English.",
+   "faV": "واژه‌هایِ «بازار» و «شال» اَز فارسی به اِنگِلیسی رَفته‌اَند.",
+   "a": "3be0b210d03a"
+  }
  ],
  "vocab": [
-  {"fa": "زبان", "r": "zabān", "en": "language; tongue"},
-  {"fa": "فارسی باستان", "r": "fārsi-ye bāstān", "en": "Old Persian"},
-  {"fa": "فارسی میانه", "r": "fārsi-ye miyāne", "en": "Middle Persian"},
-  {"fa": "خط", "r": "khatt", "en": "script, writing system"},
-  {"fa": "خط میخی", "r": "khatt-e mikhi", "en": "cuneiform (lit. 'nail script')"},
-  {"fa": "الفبا", "r": "alefbā", "en": "alphabet"},
-  {"fa": "حرف", "r": "harf", "en": "letter (of the alphabet)"},
-  {"fa": "واژه", "r": "vāzhe", "en": "word"},
-  {"fa": "وام‌واژه", "r": "vām-vāzhe", "en": "loanword"},
-  {"fa": "دستور زبان", "r": "dastur-e zabān", "en": "grammar"},
-  {"fa": "گویش", "r": "guyesh", "en": "dialect"},
-  {"fa": "لهجه", "r": "lahje", "en": "accent"},
-  {"fa": "رسمی", "r": "rasmi", "en": "official; formal"},
-  {"fa": "کتیبه", "r": "katibe", "en": "inscription"},
-  {"fa": "نوشتن", "r": "neveshtan", "en": "to write"},
-  {"fa": "فهمیدن", "r": "fahmidan", "en": "to understand"}
+  {
+   "fa": "زبان",
+   "r": "zabān",
+   "en": "language; tongue",
+   "faV": "زَبان",
+   "a": "a97a2b11b019"
+  },
+  {
+   "fa": "فارسی باستان",
+   "r": "fārsi-ye bāstān",
+   "en": "Old Persian",
+   "faV": "فارسیِ باستان",
+   "a": "659434d3ecd1"
+  },
+  {
+   "fa": "فارسی میانه",
+   "r": "fārsi-ye miyāne",
+   "en": "Middle Persian",
+   "faV": "فارسیِ میانه",
+   "a": "01a242e372bc"
+  },
+  {
+   "fa": "خط",
+   "r": "khatt",
+   "en": "script, writing system",
+   "faV": "خَطّ",
+   "a": "005ba86f27ca"
+  },
+  {
+   "fa": "خط میخی",
+   "r": "khatt-e mikhi",
+   "en": "cuneiform (lit. 'nail script')",
+   "faV": "خَطِّ میخی",
+   "a": "37e8e072850b"
+  },
+  {
+   "fa": "الفبا",
+   "r": "alefbā",
+   "en": "alphabet",
+   "faV": "اَلِفبا",
+   "a": "560457d50714"
+  },
+  {
+   "fa": "حرف",
+   "r": "harf",
+   "en": "letter (of the alphabet)",
+   "faV": "حَرف",
+   "a": "21fd66798cca"
+  },
+  {
+   "fa": "واژه",
+   "r": "vāzhe",
+   "en": "word",
+   "faV": "واژه",
+   "a": "cc9c7f28c5f9"
+  },
+  {
+   "fa": "وام‌واژه",
+   "r": "vām-vāzhe",
+   "en": "loanword",
+   "faV": "وام‌واژه",
+   "a": "de71fdfade02"
+  },
+  {
+   "fa": "دستور زبان",
+   "r": "dastur-e zabān",
+   "en": "grammar",
+   "faV": "دَستورِ زَبان",
+   "a": "e9a8d114ba9d"
+  },
+  {
+   "fa": "گویش",
+   "r": "guyesh",
+   "en": "dialect",
+   "faV": "گویِش",
+   "a": "68c10a4feeaa"
+  },
+  {
+   "fa": "لهجه",
+   "r": "lahje",
+   "en": "accent",
+   "faV": "لَهجه",
+   "a": "59b0ecc5828f"
+  },
+  {
+   "fa": "رسمی",
+   "r": "rasmi",
+   "en": "official; formal",
+   "faV": "رَسمی",
+   "a": "fb5d484fd3cf"
+  },
+  {
+   "fa": "کتیبه",
+   "r": "katibe",
+   "en": "inscription",
+   "faV": "کَتیبه",
+   "a": "11260b2b9be2"
+  },
+  {
+   "fa": "نوشتن",
+   "r": "neveshtan",
+   "en": "to write",
+   "faV": "نِوِشتَن",
+   "a": "1f97437d5c3f"
+  },
+  {
+   "fa": "فهمیدن",
+   "r": "fahmidan",
+   "en": "to understand",
+   "faV": "فَهمیدَن",
+   "a": "f8119c70160b"
+  }
  ],
  "facts": [
   "The Persian alphabet has 32 letters: the 28 of Arabic plus پ, چ, ژ and گ.",
@@ -66,5 +234,7 @@
   "Persian was the language of the law courts in British India until 1837.",
   "The oldest dated manuscript of New Persian prose, a book on medicines, was copied in 1056 by the poet Asadi Tusi.",
   "Persian in Iran, Dari in Afghanistan and Tajik in Tajikistan are mutually intelligible varieties of one language."
- ]
+ ],
+ "titleV": "زَبانِ فارسی دَر گُذَرِ تاریخ",
+ "titleA": "f5fea88e6aa5"
 }

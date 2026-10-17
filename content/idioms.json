@@ -1,0 +1,2705 @@
+{
+ "intro": "Iranians love a well-chosen saying. In conversation, in the news and in every family argument you will hear a zarb-ol-masal (ضرب‌المثل, proverb) – often a line of classical poetry by Saadi, Ferdowsi or Nezami, or the moral of a folk tale everybody knows – and countless estelāh (اصطلاح, idioms) built on the body, food and everyday life: your heart gets 'tight' when you miss someone, a busy head is 'crowded', and a sly person is 'water under straw'. Here are 150 that people really use, from the courtesy phrases you need on your first day to proverbs that will make Iranians smile when you drop them into a conversation. Each comes with its word-for-word meaning, the nearest English equivalent, a note on when to use it – and whether it is formal, everyday or slang – and an example sentence. Idioms are given as a phrase or with the infinitive (روی کسی را زمین انداختن, 'to throw someone's face on the ground'), so you can fit them into any sentence.",
+ "items": [
+  {
+   "fa": "دستت درد نکند.",
+   "r": "dast-at dard na-konad.",
+   "lit": "may your hand not hurt",
+   "en": "thank you (for what you've done for me)",
+   "kind": "idiom",
+   "cat": "courtesy",
+   "note": "The everyday thank-you for a favour, a meal or a present – thanks for the work your hands have done. Polite: دستتان درد نکند (dast-etān dard na-konad); spoken: دستت درد نکنه. The answer is سرت درد نکند (may your head not hurt).",
+   "ex": {
+    "fa": "چه غذای خوشمزه‌ای بود، دستت درد نکند!",
+    "r": "che ghazā-ye khoshmaze-i bud, dast-at dard na-konad!",
+    "en": "What a delicious meal – thank you so much!",
+    "faV": "چه غَذایِ خوشمَزه‌ای بود، دَستَت دَرد نَکُنَد!",
+    "a": "ac0d932488b5"
+   },
+   "faV": "دَستَت دَرد نَکُنَد.",
+   "a": "398f0b30a47d"
+  },
+  {
+   "fa": "خسته نباشید.",
+   "r": "khaste na-bāshid.",
+   "lit": "may you not be tired",
+   "en": "well done; thank you for your hard work",
+   "kind": "idiom",
+   "cat": "courtesy",
+   "note": "Said to anyone who has been working: a shopkeeper, a taxi driver, a teacher at the end of class, a colleague in the evening. The answer is سلامت باشید (be healthy) or شما هم خسته نباشید.",
+   "ex": {
+    "fa": "خسته نباشید، امروز خیلی زحمت کشیدید.",
+    "r": "khaste na-bāshid, emruz kheyli zahmat keshidid.",
+    "en": "Well done – you've worked so hard today.",
+    "faV": "خَسته نَباشید، اِمروز خَیلی زَحمَت کِشیدید.",
+    "a": "e3defea2ea1f"
+   },
+   "faV": "خَسته نَباشید.",
+   "a": "b996d211424f"
+  },
+  {
+   "fa": "قدمت روی چشم.",
+   "r": "ghadam-at ru-ye cheshm.",
+   "lit": "your step (is) on (my) eye",
+   "en": "you'd be most welcome",
+   "kind": "idiom",
+   "cat": "courtesy",
+   "note": "A warm answer when someone says they will come and visit you. Polite: قدمتان روی چشم.",
+   "ex": {
+    "fa": "اگر آخر هفته بیایید، قدمتان روی چشم.",
+    "r": "agar ākhar-e hafte biyāyid, ghadam-etān ru-ye cheshm.",
+    "en": "If you come at the weekend, you'll be most welcome.",
+    "faV": "اَگَر آخَرِ هَفته بیایید، قَدَمِتان رویِ چِشم.",
+    "a": "ea685e257a57"
+   },
+   "faV": "قَدَمَت رویِ چِشم.",
+   "a": "e2c7e59aa061"
+  },
+  {
+   "fa": "چشم!",
+   "r": "chashm!",
+   "lit": "eye!",
+   "en": "certainly, right away (I'll do it)",
+   "kind": "idiom",
+   "cat": "courtesy",
+   "note": "The respectful way to agree to a request – short for 'on my eyes'; longer: به روی چشم. In this sense it is usually said chashm, though the word for eye is cheshm.",
+   "ex": {
+    "fa": "چشم، همین الان برایتان می‌آورم.",
+    "r": "chashm, hamin alān barā-yetān mi-āvaram.",
+    "en": "Certainly – I'll bring it for you right now.",
+    "faV": "چَشم، هَمین اَلان بَرایِتان می‌آوَرَم.",
+    "a": "6c06a6b192af"
+   },
+   "faV": "چَشم!",
+   "a": "710b91a0f4c1"
+  },
+  {
+   "fa": "نوش جان!",
+   "r": "nush-e jān!",
+   "lit": "(may it be) sweet to your soul",
+   "en": "enjoy your meal!",
+   "kind": "idiom",
+   "cat": "courtesy",
+   "note": "Said by the host while you eat, or as the answer when you thank someone for the food.",
+   "ex": {
+    "fa": "بفرمایید، نوش جان!",
+    "r": "be-farmāyid, nush-e jān!",
+    "en": "Here you are – enjoy!",
+    "faV": "بِفَرمایید، نوشِ جان!",
+    "a": "866b064226a8"
+   },
+   "faV": "نوشِ جان!",
+   "a": "12d6f54c3b1e"
+  },
+  {
+   "fa": "خدا قوت!",
+   "r": "khodā ghovvat!",
+   "lit": "(may) God (give you) strength!",
+   "en": "more power to you!",
+   "kind": "idiom",
+   "cat": "courtesy",
+   "note": "Said to people doing hard work – builders, farmers, someone carrying heavy shopping. Close to خسته نباشید.",
+   "ex": {
+    "fa": "از کنار کارگرها رد شد و گفت: خدا قوت!",
+    "r": "az kenār-e kārgar-hā rad shod o goft: khodā ghovvat!",
+    "en": "He walked past the workers and said, 'More power to you!'",
+    "faV": "اَز کِنارِ کارگَرها رَد شُد و گُفت: خُدا قُوَّت!",
+    "a": "4e798e6df6dc"
+   },
+   "faV": "خُدا قُوَّت!",
+   "a": "9f1b938a3c06"
+  },
+  {
+   "fa": "قربانت بروم.",
+   "r": "ghorbān-at be-ravam.",
+   "lit": "may I go as your sacrifice",
+   "en": "thank you, dear; you're so kind",
+   "kind": "idiom",
+   "cat": "courtesy",
+   "note": "Affectionate and used all the time between family and friends, usually in the spoken form قربونت برم (ghorbun-et beram). It expresses love and thanks – nobody is really being sacrificed!",
+   "ex": {
+    "fa": "قربانت بروم که این‌قدر به فکر منی.",
+    "r": "ghorbān-at be-ravam ke in-ghadr be fekr-e man-i.",
+    "en": "Bless you for thinking of me so much.",
+    "faV": "قُربانَت بِرَوَم که این‌قَدر به فِکرِ مَنی.",
+    "a": "690ef4a89e87"
+   },
+   "faV": "قُربانَت بِرَوَم.",
+   "a": "c1d10e61ea4e"
+  },
+  {
+   "fa": "سرت سلامت باشد.",
+   "r": "sar-at salāmat bāshad.",
+   "lit": "may your head be healthy",
+   "en": "I'm so sorry for your loss",
+   "kind": "idiom",
+   "cat": "courtesy",
+   "note": "The usual words of condolence when someone has died. Polite: سرتان سلامت باشد. Another is خدا رحمتش کند (may God have mercy on him or her).",
+   "ex": {
+    "fa": "شنیدم پدربزرگتان فوت کرده، سرتان سلامت باشد.",
+    "r": "shenidam pedar-bozorg-etān fowt karde, sar-etān salāmat bāshad.",
+    "en": "I heard your grandfather has passed away – I'm so sorry.",
+    "faV": "شِنیدَم پِدَربُزُرگِتان فَوت کَرده، سَرِتان سَلامَت باشَد.",
+    "a": "6114d5ff0b82"
+   },
+   "faV": "سَرَت سَلامَت باشَد.",
+   "a": "843b8a7513c6"
+  },
+  {
+   "fa": "چشمت روشن!",
+   "r": "cheshm-at roshan!",
+   "lit": "may your eye be bright",
+   "en": "how wonderful for you! (on a happy arrival)",
+   "kind": "idiom",
+   "cat": "courtesy",
+   "note": "Said when someone's loved one comes home, a baby is born or a long-awaited thing arrives. Polite: چشمتان روشن!",
+   "ex": {
+    "fa": "شنیدم پسرت از سفر برگشته، چشمت روشن!",
+    "r": "shenidam pesar-at az safar bargashte, cheshm-at roshan!",
+    "en": "I heard your son is back from his travels – how wonderful!",
+    "faV": "شِنیدَم پِسَرَت اَز سَفَر بَرگَشته، چِشمَت روشَن!",
+    "a": "6d89904cdb0d"
+   },
+   "faV": "چِشمَت روشَن!",
+   "a": "0b5fcb146017"
+  },
+  {
+   "fa": "خدا بد ندهد!",
+   "r": "khodā bad na-dahad!",
+   "lit": "may God not give (anything) bad",
+   "en": "I hope it's nothing serious!",
+   "kind": "idiom",
+   "cat": "courtesy",
+   "note": "Said when you see or hear that someone is ill or hurt.",
+   "ex": {
+    "fa": "خدا بد ندهد، چرا دستت را بسته‌ای؟",
+    "r": "khodā bad na-dahad, cherā dast-at rā baste-i?",
+    "en": "Oh dear, I hope it's nothing serious – why is your hand bandaged?",
+    "faV": "خُدا بَد نَدَهَد، چِرا دَستَت را بَسته‌ای؟",
+    "a": "4e76a003a693"
+   },
+   "faV": "خُدا بَد نَدَهَد!",
+   "a": "d77a8d1379bf"
+  },
+  {
+   "fa": "دمت گرم!",
+   "r": "dam-at garm!",
+   "lit": "may your breath be warm",
+   "en": "nice one!; thanks a lot!",
+   "kind": "idiom",
+   "cat": "courtesy",
+   "note": "Informal and friendly, especially among young people, to praise or thank someone. Not one to use with your boss.",
+   "ex": {
+    "fa": "دمت گرم که کمکم کردی!",
+    "r": "dam-at garm ke komak-am kardi!",
+    "en": "Thanks a lot for helping me!",
+    "faV": "دَمَت گَرم که کُمَکَم کَردی!",
+    "a": "cab0856f5033"
+   },
+   "faV": "دَمَت گَرم!",
+   "a": "714abbf7a93f"
+  },
+  {
+   "fa": "مهمان حبیب خداست.",
+   "r": "mehmān habib-e khodā-st.",
+   "lit": "the guest is God's beloved",
+   "en": "a guest is a gift from God",
+   "kind": "proverb",
+   "cat": "courtesy",
+   "note": "Sums up Iranian hospitality. Hosts say it to make guests feel welcome and to brush aside any apology for the trouble.",
+   "ex": {
+    "fa": "نه، زحمتی نیست؛ مهمان حبیب خداست.",
+    "r": "na, zahmat-i nist; mehmān habib-e khodā-st.",
+    "en": "No, it's no trouble at all – a guest is a gift from God.",
+    "faV": "نه، زَحمَتی نیست؛ مِهمان حَبیبِ خُداست.",
+    "a": "4b3f60da7e45"
+   },
+   "faV": "مِهمان حَبیبِ خُداست.",
+   "a": "315fa2194f86"
+  },
+  {
+   "fa": "دلم برایت تنگ شده.",
+   "r": "del-am barā-yat tang shode.",
+   "lit": "my heart has become tight for you",
+   "en": "I miss you",
+   "kind": "idiom",
+   "cat": "body",
+   "note": "The everyday way to say you miss someone – or a place, or a food. Spoken: دلم برات تنگ شده (del-am barāt tang shode).",
+   "ex": {
+    "fa": "دلم برای مادرم و غذاهایش خیلی تنگ شده است.",
+    "r": "del-am barā-ye mādar-am o ghazā-hā-yash kheyli tang shode ast.",
+    "en": "I really miss my mother and her cooking.",
+    "faV": "دِلَم بَرایِ مادَرَم و غَذاهایَش خَیلی تَنگ شُده اَست.",
+    "a": "ca609afde32e"
+   },
+   "faV": "دِلَم بَرایَت تَنگ شُده.",
+   "a": "6c00d4af602b"
+  },
+  {
+   "fa": "سرم شلوغ است.",
+   "r": "sar-am sholugh ast.",
+   "lit": "my head is crowded",
+   "en": "I'm very busy",
+   "kind": "idiom",
+   "cat": "body",
+   "note": "Very common at work and among friends; spoken سرم شلوغه (sar-am sholughe).",
+   "ex": {
+    "fa": "این هفته سرم خیلی شلوغ است، هفته‌ی بعد همدیگر را ببینیم.",
+    "r": "in hafte sar-am kheyli sholugh ast, hafte-ye ba'd hamdigar rā be-binim.",
+    "en": "I'm really busy this week – let's meet next week.",
+    "faV": "این هَفته سَرَم خَیلی شُلوغ اَست، هَفته‌یِ بَعد هَمدیگَر را بِبینیم.",
+    "a": "3ec8ece3e015"
+   },
+   "faV": "سَرَم شُلوغ اَست.",
+   "a": "e3098e0cb038"
+  },
+  {
+   "fa": "چشمم آب نمی‌خورد.",
+   "r": "cheshm-am āb nemi-khorad.",
+   "lit": "my eye doesn't drink water",
+   "en": "I doubt it; I don't think it'll happen",
+   "kind": "idiom",
+   "cat": "body",
+   "note": "Expresses doubt about a plan or a promise: چشمم آب نمی‌خورد که … (I doubt that …).",
+   "ex": {
+    "fa": "گفت فردا پولم را پس می‌دهد، ولی چشمم آب نمی‌خورد.",
+    "r": "goft fardā pul-am rā pas mi-dahad, vali cheshm-am āb nemi-khorad.",
+    "en": "He said he'd pay me back tomorrow, but I doubt it.",
+    "faV": "گُفت فَردا پولَم را پَس می‌دَهَد، وَلی چِشمَم آب نِمی‌خورَد.",
+    "a": "e54ecf2f875d"
+   },
+   "faV": "چِشمَم آب نِمی‌خورَد.",
+   "a": "245ba396afc0"
+  },
+  {
+   "fa": "روی کسی را زمین انداختن",
+   "r": "ru-ye kas-i rā zamin andākhtan",
+   "lit": "to throw someone's face on the ground",
+   "en": "to turn down someone's request",
+   "kind": "idiom",
+   "cat": "body",
+   "note": "Mostly in the negative, to say you can't refuse someone you love or respect: رویت را زمین نمی‌اندازم (I can't say no to you).",
+   "ex": {
+    "fa": "اگر خودت خواهش کنی، رویت را زمین نمی‌اندازم.",
+    "r": "agar khod-at khāhesh koni, ru-yat rā zamin nemi-andāzam.",
+    "en": "If you ask me yourself, I can't say no.",
+    "faV": "اَگَر خودَت خواهِش کُنی، رویَت را زَمین نِمی‌اَندازَم.",
+    "a": "0cfe96057e14"
+   },
+   "faV": "رویِ کَسی را زَمین اَنداختَن",
+   "a": "5c7d73bdc85d"
+  },
+  {
+   "fa": "دلم گرفته است.",
+   "r": "del-am gerefte ast.",
+   "lit": "my heart is caught",
+   "en": "I feel down",
+   "kind": "idiom",
+   "cat": "body",
+   "note": "A quiet, heavy sadness – on a grey day, or when you are far from home. Spoken: دلم گرفته.",
+   "ex": {
+    "fa": "هوا ابری است و دلم گرفته است.",
+    "r": "havā abri ast o del-am gerefte ast.",
+    "en": "It's cloudy and I feel down.",
+    "faV": "هَوا اَبری اَست و دِلَم گِرِفته اَست.",
+    "a": "d790e73b1c8a"
+   },
+   "faV": "دِلَم گِرِفته اَست.",
+   "a": "3e7d93171497"
+  },
+  {
+   "fa": "دل به دریا زدن",
+   "r": "del be daryā zadan",
+   "lit": "to throw one's heart into the sea",
+   "en": "to take the plunge",
+   "kind": "idiom",
+   "cat": "body",
+   "note": "To decide bravely to do something risky.",
+   "ex": {
+    "fa": "بالاخره دل به دریا زد و کار تازه‌ای را شروع کرد.",
+    "r": "bālākhare del be daryā zad o kār-e tāze-i rā shoru' kard.",
+    "en": "In the end she took the plunge and started a new job.",
+    "faV": "بالاخَره دِل به دَریا زَد و کارِ تازه‌ای را شُروع کَرد.",
+    "a": "21b8f8f20ac8"
+   },
+   "faV": "دِل به دَریا زَدَن",
+   "a": "68c8e6f102cc"
+  },
+  {
+   "fa": "دلش مثل سیر و سرکه می‌جوشد.",
+   "r": "del-ash mesl-e sir o serke mi-jushad.",
+   "lit": "her heart bubbles like garlic in vinegar",
+   "en": "she is worried sick",
+   "kind": "idiom",
+   "cat": "body",
+   "note": "Garlic in vinegar seems to fizz and bubble – just like an anxious heart.",
+   "ex": {
+    "fa": "تا پسرش به خانه برنگردد، دلش مثل سیر و سرکه می‌جوشد.",
+    "r": "tā pesar-ash be khāne bar-na-gardad, del-ash mesl-e sir o serke mi-jushad.",
+    "en": "Until her son is back home, she's worried sick.",
+    "faV": "تا پِسَرَش به خانه بَرنَگَردَد، دِلَش مِثلِ سیر و سِرکه می‌جوشَد.",
+    "a": "aee2472935b0"
+   },
+   "faV": "دِلَش مِثلِ سیر و سِرکه می‌جوشَد.",
+   "a": "e91732edc248"
+  },
+  {
+   "fa": "دست به دست هم دادن",
+   "r": "dast be dast-e ham dādan",
+   "lit": "to give hand to each other's hand",
+   "en": "to join forces",
+   "kind": "idiom",
+   "cat": "body",
+   "note": "Also used of events that combine: چند اتفاق دست به دست هم داد (several things came together).",
+   "ex": {
+    "fa": "همسایه‌ها دست به دست هم دادند و کوچه را تمیز کردند.",
+    "r": "hamsāye-hā dast be dast-e ham dādand o kuche rā tamiz kardand.",
+    "en": "The neighbours joined forces and cleaned up the street.",
+    "faV": "هَمسایه‌ها دَست به دَستِ هَم دادَند و کوچه را تَمیز کَردَند.",
+    "a": "a7c0a88b08f6"
+   },
+   "faV": "دَست به دَستِ هَم دادَن",
+   "a": "e9824e7429d0"
+  },
+  {
+   "fa": "دست از پا درازتر برگشتن",
+   "r": "dast az pā derāz-tar bargashtan",
+   "lit": "to come back with hands longer than feet",
+   "en": "to come back empty-handed",
+   "kind": "idiom",
+   "cat": "body",
+   "note": "After failing to get what you went for.",
+   "ex": {
+    "fa": "رفت از بانک وام بگیرد، ولی دست از پا درازتر برگشت.",
+    "r": "raft az bānk vām be-girad, vali dast az pā derāz-tar bargasht.",
+    "en": "He went to get a loan from the bank but came back empty-handed.",
+    "faV": "رَفت اَز بانک وام بِگیرَد، وَلی دَست اَز پا دِرازتَر بَرگَشت.",
+    "a": "c7c4b57582cd"
+   },
+   "faV": "دَست اَز پا دِرازتَر بَرگَشتَن",
+   "a": "86a73b00069f"
+  },
+  {
+   "fa": "سر به سر کسی گذاشتن",
+   "r": "sar be sar-e kas-i gozāshtan",
+   "lit": "to put head to someone's head",
+   "en": "to tease someone",
+   "kind": "idiom",
+   "cat": "body",
+   "note": "Friendly teasing: سر به سرم نگذار! (stop teasing me!).",
+   "ex": {
+    "fa": "این‌قدر سر به سر خواهرت نگذار!",
+    "r": "in-ghadr sar be sar-e khāhar-at na-gozār!",
+    "en": "Stop teasing your sister so much!",
+    "faV": "این‌قَدر سَر به سَرِ خواهَرَت نَگُذار!",
+    "a": "6172bf296dc4"
+   },
+   "faV": "سَر به سَرِ کَسی گُذاشتَن",
+   "a": "cb0928bfd5e2"
+  },
+  {
+   "fa": "کلاه سر کسی گذاشتن",
+   "r": "kolāh sar-e kas-i gozāshtan",
+   "lit": "to put a hat on someone's head",
+   "en": "to cheat someone, rip someone off",
+   "kind": "idiom",
+   "cat": "body",
+   "note": "The victim says: سرم کلاه رفت (a hat went on my head – I was ripped off).",
+   "ex": {
+    "fa": "فروشنده کلاه سرم گذاشت و یک گوشی خراب به من فروخت.",
+    "r": "forushande kolāh sar-am gozāsht o yek gushi-ye kharāb be man forukht.",
+    "en": "The seller ripped me off and sold me a broken phone.",
+    "faV": "فُروشَنده کُلاه سَرَم گُذاشت و یِک گوشیِ خَراب به مَن فُروخت.",
+    "a": "77c13a9b3936"
+   },
+   "faV": "کُلاه سَرِ کَسی گُذاشتَن",
+   "a": "e1fc08e3b2a7"
+  },
+  {
+   "fa": "گوشش بدهکار نیست.",
+   "r": "gush-ash bedehkār nist.",
+   "lit": "his ear is not in debt",
+   "en": "he won't listen",
+   "kind": "idiom",
+   "cat": "body",
+   "note": "About someone who ignores all advice – his ear owes nobody anything.",
+   "ex": {
+    "fa": "هر چه نصیحتش می‌کنم، گوشش بدهکار نیست.",
+    "r": "har che nasihat-ash mi-konam, gush-ash bedehkār nist.",
+    "en": "However much I advise him, he won't listen.",
+    "faV": "هَر چه نَصیحَتَش می‌کُنَم، گوشَش بِدِهکار نیست.",
+    "a": "b18b0687851a"
+   },
+   "faV": "گوشَش بِدِهکار نیست.",
+   "a": "d1c58a302258"
+  },
+  {
+   "fa": "زبانم مو درآورد.",
+   "r": "zabān-am mu darāvard.",
+   "lit": "my tongue grew hair",
+   "en": "I've told you a thousand times",
+   "kind": "idiom",
+   "cat": "body",
+   "note": "Frustration at having to repeat yourself; spoken زبونم مو درآورد.",
+   "ex": {
+    "fa": "زبانم مو درآورد از بس گفتم در را ببند!",
+    "r": "zabān-am mu darāvard az bas goftam dar rā be-band!",
+    "en": "I've told you a thousand times to shut the door!",
+    "faV": "زَبانَم مو دَرآوَرد اَز بَس گُفتَم دَر را بِبَند!",
+    "a": "957c8b712924"
+   },
+   "faV": "زَبانَم مو دَرآوَرد.",
+   "a": "dd490499bcc4"
+  },
+  {
+   "fa": "دهانش لق است.",
+   "r": "dahān-ash legh ast.",
+   "lit": "his mouth is loose",
+   "en": "he can't keep a secret",
+   "kind": "idiom",
+   "cat": "body",
+   "note": "The opposite is رازدار (good at keeping secrets). Spoken: دهنش لقه (dahan-esh leghe).",
+   "ex": {
+    "fa": "به او چیزی نگو، دهانش لق است.",
+    "r": "be u chiz-i na-gu, dahān-ash legh ast.",
+    "en": "Don't tell him anything – he can't keep a secret.",
+    "faV": "به او چیزی نَگو، دَهانَش لِق اَست.",
+    "a": "41e5221c6e3c"
+   },
+   "faV": "دَهانَش لِق اَست.",
+   "a": "05c1b108796d"
+  },
+  {
+   "fa": "دندان روی جگر گذاشتن",
+   "r": "dandān ru-ye jegar gozāshtan",
+   "lit": "to put one's teeth on one's liver",
+   "en": "to grin and bear it",
+   "kind": "idiom",
+   "cat": "body",
+   "note": "To be patient through pain or a long wait. In Persian the liver, like the heart, is a seat of feeling.",
+   "ex": {
+    "fa": "دندان روی جگر بگذار، تا یک ماه دیگر همه چیز درست می‌شود.",
+    "r": "dandān ru-ye jegar be-gozār, tā yek māh-e digar hame chiz dorost mi-shavad.",
+    "en": "Grin and bear it – in a month everything will be fine.",
+    "faV": "دَندان رویِ جِگَر بِگُذار، تا یِک ماهِ دیگَر هَمه چیز دُرُست می‌شَوَد.",
+    "a": "0daba940cec1"
+   },
+   "faV": "دَندان رویِ جِگَر گُذاشتَن",
+   "a": "f4e842704a2e"
+  },
+  {
+   "fa": "موی دماغ کسی شدن",
+   "r": "mu-ye damāgh-e kas-i shodan",
+   "lit": "to become someone's nose hair",
+   "en": "to pester someone",
+   "kind": "idiom",
+   "cat": "body",
+   "note": "Informal: موی دماغم نشو! (stop bugging me!).",
+   "ex": {
+    "fa": "وقتی کار می‌کنم، موی دماغم نشو.",
+    "r": "vaghti kār mi-konam, mu-ye damāgh-am na-show.",
+    "en": "Don't pester me while I'm working.",
+    "faV": "وَقتی کار می‌کُنَم، مویِ دَماغَم نَشَو.",
+    "a": "3a5ed04222b1"
+   },
+   "faV": "مویِ دَماغِ کَسی شُدَن",
+   "a": "22033e0d3bcf"
+  },
+  {
+   "fa": "پشت گوش انداختن",
+   "r": "posht-e gush andākhtan",
+   "lit": "to throw behind the ear",
+   "en": "to put off, neglect",
+   "kind": "idiom",
+   "cat": "body",
+   "note": "About jobs someone keeps postponing.",
+   "ex": {
+    "fa": "کارهای اداری را همیشه پشت گوش می‌اندازد.",
+    "r": "kār-hā-ye edāri rā hamishe posht-e gush mi-andāzad.",
+    "en": "He always puts off the paperwork.",
+    "faV": "کارهایِ اِداری را هَمیشه پُشتِ گوش می‌اَندازَد.",
+    "a": "edefd7e509a0"
+   },
+   "faV": "پُشتِ گوش اَنداختَن",
+   "a": "2a2d6a47ace4"
+  },
+  {
+   "fa": "چشم و هم‌چشمی",
+   "r": "cheshm o ham-cheshmi",
+   "lit": "eye and eye-to-eye rivalry",
+   "en": "keeping up with the Joneses",
+   "kind": "idiom",
+   "cat": "character",
+   "note": "Competing with relatives and neighbours in spending – on weddings, cars, furniture.",
+   "ex": {
+    "fa": "خیلی از خرج‌های عروسی از چشم و هم‌چشمی است.",
+    "r": "kheyli az kharj-hā-ye arusi az cheshm o ham-cheshmi ast.",
+    "en": "A lot of wedding spending is about keeping up with the Joneses.",
+    "faV": "خَیلی اَز خَرج‌هایِ عَروسی اَز چِشم و هَم‌چِشمی اَست.",
+    "a": "8afa157afb61"
+   },
+   "faV": "چِشم و هَم‌چِشمی",
+   "a": "24bdc91d409b"
+  },
+  {
+   "fa": "کاسه‌ی داغ‌تر از آش",
+   "r": "kāse-ye dāgh-tar az āsh",
+   "lit": "a bowl hotter than the soup",
+   "en": "someone who makes more fuss than the person it concerns",
+   "kind": "idiom",
+   "cat": "food",
+   "note": "Said to someone who is more worked up about a problem than the person whose problem it is.",
+   "ex": {
+    "fa": "خودش ناراحت نیست، تو چرا کاسه‌ی داغ‌تر از آش شده‌ای؟",
+    "r": "khod-ash nārāhat nist, to cherā kāse-ye dāgh-tar az āsh shode-i?",
+    "en": "He isn't upset himself – why are you making more fuss than he is?",
+    "faV": "خودَش ناراحَت نیست، تو چِرا کاسه‌یِ داغ‌تَر اَز آش شُده‌ای؟",
+    "a": "63f93e66afd5"
+   },
+   "faV": "کاسه‌یِ داغ‌تَر اَز آش",
+   "a": "625852277e3c"
+  },
+  {
+   "fa": "آش نخورده و دهان سوخته",
+   "r": "āsh na-khorde o dahān sukhte",
+   "lit": "soup not eaten, yet a burnt mouth",
+   "en": "blamed for something you didn't do",
+   "kind": "idiom",
+   "cat": "food",
+   "note": "When you suffer the consequences without having had any of the pleasure.",
+   "ex": {
+    "fa": "من اصلاً در آن مهمانی نبودم؛ آش نخورده و دهان سوخته!",
+    "r": "man aslan dar ān mehmāni na-budam; āsh na-khorde o dahān sukhte!",
+    "en": "I wasn't even at that party – I'm getting the blame for nothing!",
+    "faV": "مَن اَصلاً دَر آن مِهمانی نَبودَم؛ آش نَخورده و دَهان سوخته!",
+    "a": "705d8932162a"
+   },
+   "faV": "آش نَخورده و دَهان سوخته",
+   "a": "b37b33d4fac3"
+  },
+  {
+   "fa": "همین آش است و همین کاسه.",
+   "r": "hamin āsh ast o hamin kāse.",
+   "lit": "it's this same soup and this same bowl",
+   "en": "that's how it is – take it or leave it",
+   "kind": "proverb",
+   "cat": "food",
+   "note": "Nothing is going to change, so you may as well accept it.",
+   "ex": {
+    "fa": "حقوق از این بیشتر نمی‌شود؛ همین آش است و همین کاسه.",
+    "r": "hoghugh az in bish-tar nemi-shavad; hamin āsh ast o hamin kāse.",
+    "en": "The salary won't get any higher – take it or leave it.",
+    "faV": "حُقوق اَز این بیشتَر نِمی‌شَوَد؛ هَمین آش اَست و هَمین کاسه.",
+    "a": "51cdd03ba9f9"
+   },
+   "faV": "هَمین آش اَست و هَمین کاسه.",
+   "a": "9a866ef8c672"
+  },
+  {
+   "fa": "آش کشک خاله‌ات است؛ بخوری پایت است، نخوری هم پایت است.",
+   "r": "āsh-e kashk-e khāle-at ast; bo-khori pā-yat ast, na-khori ham pā-yat ast.",
+   "lit": "it's your aunt's kashk soup: eat it and it's on you, don't eat it and it's still on you",
+   "en": "you're stuck with it either way",
+   "kind": "proverb",
+   "cat": "food",
+   "note": "Usually spoken: آش کشک خالته، بخوری پاته، نخوری پاته. Said when there is no way out of a duty.",
+   "ex": {
+    "fa": "مجبوری به آن جلسه بروی؛ آش کشک خاله‌ات است!",
+    "r": "majbur-i be ān jalase be-ravi; āsh-e kashk-e khāle-at ast!",
+    "en": "You have to go to that meeting – there's no way out of it!",
+    "faV": "مَجبوری به آن جَلَسه بِرَوی؛ آشِ کَشکِ خاله‌اَت اَست!",
+    "a": "3ce1928148ff"
+   },
+   "faV": "آشِ کَشکِ خاله‌اَت اَست؛ بُخوری پایَت اَست، نَخوری هَم پایَت اَست.",
+   "a": "09edc4e89126"
+  },
+  {
+   "fa": "نمک خوردن و نمکدان شکستن",
+   "r": "namak khordan o namakdān shekastan",
+   "lit": "to eat the salt and break the salt cellar",
+   "en": "to bite the hand that feeds you",
+   "kind": "idiom",
+   "cat": "food",
+   "note": "Bread and salt stand for hospitality, so betraying a host is the worst ingratitude; such a person is نمک‌نشناس (namak-nashenās).",
+   "ex": {
+    "fa": "سال‌ها به او کمک کردیم، ولی نمک خورد و نمکدان شکست.",
+    "r": "sāl-hā be u komak kardim, vali namak khord o namakdān shekast.",
+    "en": "We helped him for years, but he bit the hand that fed him.",
+    "faV": "سال‌ها به او کُمَک کَردیم، وَلی نَمَک خورد و نَمَکدان شِکَست.",
+    "a": "c4a720b14eaf"
+   },
+   "faV": "نَمَک خوردَن و نَمَکدان شِکَستَن",
+   "a": "69298614fa13"
+  },
+  {
+   "fa": "با حلوا حلوا گفتن دهان شیرین نمی‌شود.",
+   "r": "bā halvā halvā goftan dahān shirin nemi-shavad.",
+   "lit": "saying 'halva, halva' doesn't sweeten your mouth",
+   "en": "talk is cheap; wishing won't make it so",
+   "kind": "proverb",
+   "cat": "food",
+   "note": "حلوا is a sweet made of flour, butter, sugar and saffron.",
+   "ex": {
+    "fa": "فقط حرف نزن، کاری بکن؛ با حلوا حلوا گفتن دهان شیرین نمی‌شود.",
+    "r": "faghat harf na-zan, kār-i bo-kon; bā halvā halvā goftan dahān shirin nemi-shavad.",
+    "en": "Don't just talk, do something – wishing won't make it happen.",
+    "faV": "فَقَط حَرف نَزَن، کاری بُکُن؛ با حَلوا حَلوا گُفتَن دَهان شیرین نِمی‌شَوَد.",
+    "a": "d5910e66936e"
+   },
+   "faV": "با حَلوا حَلوا گُفتَن دَهان شیرین نِمی‌شَوَد.",
+   "a": "ab3026124271"
+  },
+  {
+   "fa": "خربزه خوردی، پای لرزش هم بنشین.",
+   "r": "kharboze khordi, pā-ye larz-ash ham be-neshin.",
+   "lit": "you ate the melon, now sit through its shivers",
+   "en": "you've made your bed, now lie in it",
+   "kind": "proverb",
+   "cat": "food",
+   "note": "Melon is a 'cold' food in traditional Persian medicine and was believed to give you the shivers.",
+   "ex": {
+    "fa": "خودت این کار را خواستی؛ خربزه خوردی، پای لرزش هم بنشین.",
+    "r": "khod-at in kār rā khāsti; kharboze khordi, pā-ye larz-ash ham be-neshin.",
+    "en": "You wanted this job yourself – now you have to live with it.",
+    "faV": "خودَت این کار را خواستی؛ خَربُزه خوردی، پایِ لَرزَش هَم بِنِشین.",
+    "a": "0ec6c8458d90"
+   },
+   "faV": "خَربُزه خوردی، پایِ لَرزَش هَم بِنِشین.",
+   "a": "89981ff62345"
+  },
+  {
+   "fa": "هر چه بگندد نمکش می‌زنند، وای به روزی که بگندد نمک.",
+   "r": "har che be-gandad namak-ash mi-zanand, vāy be ruz-i ke be-gandad namak.",
+   "lit": "whatever goes bad, they salt it – woe to the day the salt goes bad",
+   "en": "who will guard the guards?",
+   "kind": "proverb",
+   "cat": "food",
+   "note": "About corruption among the very people who are supposed to keep others honest.",
+   "ex": {
+    "fa": "وقتی قاضی هم رشوه بگیرد، وای به روزی که بگندد نمک.",
+    "r": "vaghti ghāzi ham reshve be-girad, vāy be ruz-i ke be-gandad namak.",
+    "en": "When even the judge takes bribes – who is left to keep things clean?",
+    "faV": "وَقتی قاضی هَم رِشوه بِگیرَد، وای به روزی که بِگَندَد نَمَک.",
+    "a": "36f24876b2f0"
+   },
+   "faV": "هَر چه بِگَندَد نَمَکَش می‌زَنَند، وای به روزی که بِگَندَد نَمَک.",
+   "a": "b89848fe6860"
+  },
+  {
+   "fa": "مو را از ماست می‌کشد.",
+   "r": "mu rā az māst mi-keshad.",
+   "lit": "he pulls a hair out of yoghurt",
+   "en": "he's very shrewd; nothing gets past him",
+   "kind": "idiom",
+   "cat": "food",
+   "note": "About a sharp, careful person – often someone who is hard to fool where money is concerned.",
+   "ex": {
+    "fa": "نمی‌شود سرش کلاه گذاشت؛ مو را از ماست می‌کشد.",
+    "r": "nemi-shavad sar-ash kolāh gozāsht; mu rā az māst mi-keshad.",
+    "en": "You can't cheat him – nothing gets past him.",
+    "faV": "نِمی‌شَوَد سَرَش کُلاه گُذاشت؛ مو را اَز ماست می‌کِشَد.",
+    "a": "ec4672245567"
+   },
+   "faV": "مو را اَز ماست می‌کِشَد.",
+   "a": "2fddfcc6501e"
+  },
+  {
+   "fa": "ماست‌مالی کردن",
+   "r": "māst-māli kardan",
+   "lit": "to smear with yoghurt",
+   "en": "to cover up, hush up",
+   "kind": "idiom",
+   "cat": "food",
+   "note": "Smoothing yoghurt over something to hide it – a scandal, a mistake. Common in political talk.",
+   "ex": {
+    "fa": "می‌خواستند ماجرا را ماست‌مالی کنند.",
+    "r": "mi-khāstand mājarā rā māst-māli konand.",
+    "en": "They wanted to hush the affair up.",
+    "faV": "می‌خواستَند ماجَرا را ماست‌مالی کُنَند.",
+    "a": "eeeafa454d09"
+   },
+   "faV": "ماست‌مالی کَردَن",
+   "a": "fd79791ce883"
+  },
+  {
+   "fa": "نخود هر آش",
+   "r": "nokhod-e har āsh",
+   "lit": "the chickpea of every soup",
+   "en": "a busybody",
+   "kind": "idiom",
+   "cat": "food",
+   "note": "Almost every Persian āsh has chickpeas in it – and some people are in everything.",
+   "ex": {
+    "fa": "او نخود هر آش است و در همه‌ی کارها دخالت می‌کند.",
+    "r": "u nokhod-e har āsh ast o dar hame-ye kār-hā dekhālat mi-konad.",
+    "en": "He's a busybody and meddles in everything.",
+    "faV": "او نُخودِ هَر آش اَست و دَر هَمه‌یِ کارها دِخالَت می‌کُنَد.",
+    "a": "4e860994df94"
+   },
+   "faV": "نُخودِ هَر آش",
+   "a": "6ea39633761b"
+  },
+  {
+   "fa": "سیر تا پیاز",
+   "r": "sir tā piyāz",
+   "lit": "from garlic to onion",
+   "en": "the whole story, from A to Z",
+   "kind": "idiom",
+   "cat": "food",
+   "note": "Usually with تعریف کردن (to tell).",
+   "ex": {
+    "fa": "سیر تا پیاز ماجرا را برایم تعریف کرد.",
+    "r": "sir tā piyāz-e mājarā rā barā-yam ta'rif kard.",
+    "en": "He told me the whole story from beginning to end.",
+    "faV": "سیر تا پیازِ ماجَرا را بَرایَم تَعریف کَرد.",
+    "a": "44425df7ef3c"
+   },
+   "faV": "سیر تا پیاز",
+   "a": "8d2f5a9eb2b4"
+  },
+  {
+   "fa": "آشپز که دو تا شد، آش یا شور می‌شود یا بی‌نمک.",
+   "r": "āshpaz ke do tā shod, āsh yā shur mi-shavad yā bi-namak.",
+   "lit": "when there are two cooks, the soup turns out either too salty or not salty enough",
+   "en": "too many cooks spoil the broth",
+   "kind": "proverb",
+   "cat": "food",
+   "note": "Said when too many people try to run the same job.",
+   "ex": {
+    "fa": "بگذار فقط یک نفر تصمیم بگیرد؛ آشپز که دو تا شد، آش یا شور می‌شود یا بی‌نمک.",
+    "r": "be-gozār faghat yek nafar tasmim be-girad; āshpaz ke do tā shod, āsh yā shur mi-shavad yā bi-namak.",
+    "en": "Let just one person decide – too many cooks spoil the broth.",
+    "faV": "بِگُذار فَقَط یِک نَفَر تَصمیم بِگیرَد؛ آشپَز که دو تا شُد، آش یا شور می‌شَوَد یا بی‌نَمَک.",
+    "a": "aa2195520c53"
+   },
+   "faV": "آشپَز که دو تا شُد، آش یا شور می‌شَوَد یا بی‌نَمَک.",
+   "a": "f9e38f4eee80"
+  },
+  {
+   "fa": "بادمجان بم آفت ندارد.",
+   "r": "bādemjān-e bam āfat na-dārad.",
+   "lit": "the aubergine of Bam never gets blight",
+   "en": "a bad penny always turns up; nothing ever happens to a rascal",
+   "kind": "proverb",
+   "cat": "food",
+   "note": "Said jokingly – often about yourself – when someone tough or roguish comes through unharmed.",
+   "ex": {
+    "fa": "نگران من نباش، بادمجان بم آفت ندارد!",
+    "r": "negarān-e man na-bāsh, bādemjān-e bam āfat na-dārad!",
+    "en": "Don't worry about me – I'm indestructible!",
+    "faV": "نِگَرانِ مَن نَباش، بادِمجانِ بَم آفَت نَدارَد!",
+    "a": "26ad1e0c6774"
+   },
+   "faV": "بادِمجانِ بَم آفَت نَدارَد.",
+   "a": "749adbf39a76"
+  },
+  {
+   "fa": "هندوانه زیر بغل کسی گذاشتن",
+   "r": "hendevāne zir-e baghal-e kas-i gozāshtan",
+   "lit": "to put watermelons under someone's arm",
+   "en": "to butter someone up",
+   "kind": "idiom",
+   "cat": "food",
+   "note": "To flatter someone so much that they can hardly carry it all.",
+   "ex": {
+    "fa": "این‌قدر هندوانه زیر بغلم نگذار!",
+    "r": "in-ghadr hendevāne zir-e baghal-am na-gozār!",
+    "en": "Stop buttering me up!",
+    "faV": "این‌قَدر هِندِوانه زیرِ بَغَلَم نَگُذار!",
+    "a": "af7bb69c9fdf"
+   },
+   "faV": "هِندِوانه زیرِ بَغَلِ کَسی گُذاشتَن",
+   "a": "407f949f3125"
+  },
+  {
+   "fa": "هلو، بپر توی گلو!",
+   "r": "holu, be-par tu-ye galu!",
+   "lit": "peach, jump into my throat!",
+   "en": "it fell right into my lap; a piece of cake",
+   "kind": "idiom",
+   "cat": "food",
+   "note": "Informal and playful, for something very easy or very welcome that needs no effort. It rhymes in Persian.",
+   "ex": {
+    "fa": "یک شغل خوب نزدیک خانه پیدا کرد؛ هلو، بپر توی گلو!",
+    "r": "yek shoghl-e khub nazdik-e khāne peydā kard; holu, be-par tu-ye galu!",
+    "en": "She found a good job near home – it just fell into her lap!",
+    "faV": "یِک شُغلِ خوب نَزدیکِ خانه پَیدا کَرد؛ هُلو، بِپَر تویِ گَلو!",
+    "a": "d88d9308d70d"
+   },
+   "faV": "هُلو، بِپَر تویِ گَلو!",
+   "a": "3017cbaad6be"
+  },
+  {
+   "fa": "بادمجان دور قاب چیدن",
+   "r": "bādemjān dowr-e ghāb chidan",
+   "lit": "to arrange aubergines around the platter",
+   "en": "to suck up (to the boss)",
+   "kind": "idiom",
+   "cat": "food",
+   "note": "Like the garnish around a dish, the flatterer decorates the person in charge.",
+   "ex": {
+    "fa": "همیشه برای رئیس بادمجان دور قاب می‌چیند.",
+    "r": "hamishe barā-ye ra'is bādemjān dowr-e ghāb mi-chinad.",
+    "en": "He's always sucking up to the boss.",
+    "faV": "هَمیشه بَرایِ رَئیس بادِمجان دَورِ قاب می‌چینَد.",
+    "a": "1946fa43f706"
+   },
+   "faV": "بادِمجان دَورِ قاب چیدَن",
+   "a": "940cd201a69a"
+  },
+  {
+   "fa": "نه سیخ بسوزد، نه کباب.",
+   "r": "na sikh be-suzad, na kabāb.",
+   "lit": "let neither the skewer burn nor the kebab",
+   "en": "a solution that keeps both sides happy",
+   "kind": "proverb",
+   "cat": "food",
+   "note": "Used when looking for a compromise.",
+   "ex": {
+    "fa": "راهی پیدا کن که نه سیخ بسوزد، نه کباب.",
+    "r": "rāh-i peydā kon ke na sikh be-suzad, na kabāb.",
+    "en": "Find a way that keeps everyone happy.",
+    "faV": "راهی پَیدا کُن که نه سیخ بِسوزَد، نه کَباب.",
+    "a": "95b961fdf2eb"
+   },
+   "faV": "نه سیخ بِسوزَد، نه کَباب.",
+   "a": "9911f84fed8e"
+  },
+  {
+   "fa": "سرکه‌ی نقد به از حلوای نسیه.",
+   "r": "serke-ye naghd beh az halvā-ye nesiye.",
+   "lit": "vinegar for cash is better than halva on credit",
+   "en": "a bird in the hand is worth two in the bush",
+   "kind": "proverb",
+   "cat": "money",
+   "note": "به از is old Persian for بهتر از (better than).",
+   "ex": {
+    "fa": "پیشنهاد امروز را قبول کن؛ سرکه‌ی نقد به از حلوای نسیه.",
+    "r": "pishnahād-e emruz rā ghabul kon; serke-ye naghd beh az halvā-ye nesiye.",
+    "en": "Take today's offer – a bird in the hand is worth two in the bush.",
+    "faV": "پیشنَهادِ اِمروز را قَبول کُن؛ سِرکه‌یِ نَقد بِه اَز حَلوایِ نِسیه.",
+    "a": "7c311bda5b6d"
+   },
+   "faV": "سِرکه‌یِ نَقد بِه اَز حَلوایِ نِسیه.",
+   "a": "348b7d200e48"
+  },
+  {
+   "fa": "قطره قطره جمع گردد، وانگهی دریا شود.",
+   "r": "ghatre ghatre jam' gardad, vāngahi daryā shavad.",
+   "lit": "drop by drop it gathers, and then it becomes a sea",
+   "en": "every little helps; little by little it adds up",
+   "kind": "proverb",
+   "cat": "patience",
+   "note": "Said about saving money, learning or any slow work. گردد and شود are literary forms of 'becomes'.",
+   "ex": {
+    "fa": "هر روز ده کلمه یاد بگیر؛ قطره قطره جمع گردد، وانگهی دریا شود.",
+    "r": "har ruz dah kalame yād be-gir; ghatre ghatre jam' gardad, vāngahi daryā shavad.",
+    "en": "Learn ten words a day – little by little it adds up.",
+    "faV": "هَر روز دَه کَلَمه یاد بِگیر؛ قَطره قَطره جَمع گَردَد، وانگَهی دَریا شَوَد.",
+    "a": "d581b1149cb8"
+   },
+   "faV": "قَطره قَطره جَمع گَردَد، وانگَهی دَریا شَوَد.",
+   "a": "80e451b13b27"
+  },
+  {
+   "fa": "گر صبر کنی، ز غوره حلوا سازی.",
+   "r": "gar sabr koni, ze ghure halvā sāzi.",
+   "lit": "if you are patient, you'll make halva from sour grapes",
+   "en": "with patience, the sour turns sweet",
+   "kind": "proverb",
+   "cat": "patience",
+   "note": "غوره are sour unripe grapes; گر and ز are poetic short forms of اگر and از.",
+   "ex": {
+    "fa": "عجله نکن؛ گر صبر کنی، ز غوره حلوا سازی.",
+    "r": "ajale na-kon; gar sabr koni, ze ghure halvā sāzi.",
+    "en": "Don't rush – with patience, sour grapes turn into sweets.",
+    "faV": "عَجَله نَکُن؛ گَر صَبر کُنی، ز غوره حَلوا سازی.",
+    "a": "a0fc78ff5bbd"
+   },
+   "faV": "گَر صَبر کُنی، ز غوره حَلوا سازی.",
+   "a": "97bb3dfacfa1"
+  },
+  {
+   "fa": "عجله کار شیطان است.",
+   "r": "ajale kār-e sheytān ast.",
+   "lit": "haste is the devil's work",
+   "en": "haste makes waste",
+   "kind": "proverb",
+   "cat": "patience",
+   "note": "A gentle warning to slow down.",
+   "ex": {
+    "fa": "صبر کن، اول قرارداد را بخوان؛ عجله کار شیطان است.",
+    "r": "sabr kon, avval gharārdād rā be-khān; ajale kār-e sheytān ast.",
+    "en": "Wait – read the contract first; haste makes waste.",
+    "faV": "صَبر کُن، اَوَّل قَرارداد را بِخوان؛ عَجَله کارِ شَیطان اَست.",
+    "a": "036da170aa35"
+   },
+   "faV": "عَجَله کارِ شَیطان اَست.",
+   "a": "76c0defcd0c6"
+  },
+  {
+   "fa": "رهرو آن است که آهسته و پیوسته رود.",
+   "r": "rahrow ān ast ke āheste o peyvaste ravad.",
+   "lit": "the true traveller is the one who goes slowly and steadily",
+   "en": "slow and steady wins the race",
+   "kind": "proverb",
+   "cat": "patience",
+   "note": "The second half of a line of verse whose first half says: not the one who is sometimes fast and sometimes worn out.",
+   "ex": {
+    "fa": "هر روز کمی تمرین کن؛ رهرو آن است که آهسته و پیوسته رود.",
+    "r": "har ruz kam-i tamrin kon; rahrow ān ast ke āheste o peyvaste ravad.",
+    "en": "Practise a little every day – slow and steady wins the race.",
+    "faV": "هَر روز کَمی تَمرین کُن؛ رَهرَو آن اَست که آهِسته و پَیوَسته رَوَد.",
+    "a": "db7f7e0ff682"
+   },
+   "faV": "رَهرَو آن اَست که آهِسته و پَیوَسته رَوَد.",
+   "a": "c726b56f6158"
+  },
+  {
+   "fa": "از این ستون به آن ستون فرج است.",
+   "r": "az in sotun be ān sotun faraj ast.",
+   "lit": "between this pillar and that pillar there is relief",
+   "en": "play for time – something may turn up",
+   "kind": "proverb",
+   "cat": "patience",
+   "note": "From the story of a condemned man who asked to be tied to another pillar before his execution; while they moved him, his pardon arrived.",
+   "ex": {
+    "fa": "فعلاً قبول کن؛ از این ستون به آن ستون فرج است.",
+    "r": "fe'lan ghabul kon; az in sotun be ān sotun faraj ast.",
+    "en": "Accept it for now – something may turn up.",
+    "faV": "فِعلاً قَبول کُن؛ اَز این سُتون به آن سُتون فَرَج اَست.",
+    "a": "f28bdda889c2"
+   },
+   "faV": "اَز این سُتون به آن سُتون فَرَج اَست.",
+   "a": "b49387eb1a98"
+  },
+  {
+   "fa": "جوجه را آخر پاییز می‌شمارند.",
+   "r": "juje rā ākhar-e pāyiz mi-shomārand.",
+   "lit": "they count the chicks at the end of autumn",
+   "en": "don't count your chickens before they're hatched",
+   "kind": "proverb",
+   "cat": "patience",
+   "note": "Only the chicks that survive till autumn really count.",
+   "ex": {
+    "fa": "هنوز برای جشن زود است؛ جوجه را آخر پاییز می‌شمارند.",
+    "r": "hanuz barā-ye jashn zud ast; juje rā ākhar-e pāyiz mi-shomārand.",
+    "en": "It's too early to celebrate – don't count your chickens.",
+    "faV": "هَنوز بَرایِ جَشن زود اَست؛ جوجه را آخَرِ پاییز می‌شُمارَند.",
+    "a": "5720aeb51ed0"
+   },
+   "faV": "جوجه را آخَرِ پاییز می‌شُمارَند.",
+   "a": "d4ca05f7850d"
+  },
+  {
+   "fa": "ماهی را هر وقت از آب بگیری، تازه است.",
+   "r": "māhi rā har vaght az āb be-giri, tāze ast.",
+   "lit": "whenever you take a fish out of the water, it's fresh",
+   "en": "better late than never",
+   "kind": "proverb",
+   "cat": "time",
+   "note": "Encouragement to start something even if it seems late.",
+   "ex": {
+    "fa": "در پنجاه سالگی به دانشگاه رفت؛ ماهی را هر وقت از آب بگیری، تازه است.",
+    "r": "dar panjāh sālegi be dāneshgāh raft; māhi rā har vaght az āb be-giri, tāze ast.",
+    "en": "She went to university at fifty – better late than never.",
+    "faV": "دَر پَنجاه سالِگی به دانِشگاه رَفت؛ ماهی را هَر وَقت اَز آب بِگیری، تازه اَست.",
+    "a": "a278b5ca1a80"
+   },
+   "faV": "ماهی را هَر وَقت اَز آب بِگیری، تازه اَست.",
+   "a": "b4a649189d2a"
+  },
+  {
+   "fa": "از تو حرکت، از خدا برکت.",
+   "r": "az to harekat, az khodā barekat.",
+   "lit": "from you movement, from God blessing",
+   "en": "God helps those who help themselves",
+   "kind": "proverb",
+   "cat": "work",
+   "note": "A favourite of parents and teachers: make a start and good things will follow. The rhyme harekat / barekat makes it stick.",
+   "ex": {
+    "fa": "اگر کار می‌خواهی، باید دنبالش بگردی؛ از تو حرکت، از خدا برکت.",
+    "r": "agar kār mi-khāhi, bāyad donbāl-ash be-gardi; az to harekat, az khodā barekat.",
+    "en": "If you want a job, you have to look for one – God helps those who help themselves.",
+    "faV": "اَگَر کار می‌خواهی، بایَد دُنبالَش بِگَردی؛ اَز تو حَرِکَت، اَز خُدا بَرِکَت.",
+    "a": "b32dd73625b9"
+   },
+   "faV": "اَز تو حَرِکَت، اَز خُدا بَرِکَت.",
+   "a": "b8d093fe2f3a"
+  },
+  {
+   "fa": "کار از محکم‌کاری عیب نمی‌کند.",
+   "r": "kār az mohkam-kāri eyb nemi-konad.",
+   "lit": "a job is never spoiled by doing it too firmly",
+   "en": "better safe than sorry",
+   "kind": "proverb",
+   "cat": "work",
+   "note": "Said when you double-check something or take an extra precaution.",
+   "ex": {
+    "fa": "در را دو بار قفل کردم؛ کار از محکم‌کاری عیب نمی‌کند.",
+    "r": "dar rā do bār ghofl kardam; kār az mohkam-kāri eyb nemi-konad.",
+    "en": "I locked the door twice – better safe than sorry.",
+    "faV": "دَر را دو بار قُفل کَردَم؛ کار اَز مُحکَم‌کاری عَیب نِمی‌کُنَد.",
+    "a": "f03f8fc1665d"
+   },
+   "faV": "کار اَز مُحکَم‌کاری عَیب نِمی‌کُنَد.",
+   "a": "1ecf29537e11"
+  },
+  {
+   "fa": "نابرده رنج، گنج میسر نمی‌شود.",
+   "r": "nā-borde ranj, ganj moyassar nemi-shavad.",
+   "lit": "without suffering toil, treasure is not to be had",
+   "en": "no pain, no gain",
+   "kind": "proverb",
+   "cat": "work",
+   "note": "Half of a famous line of verse that goes on: only those who worked were paid.",
+   "ex": {
+    "fa": "اگر می‌خواهی قبول شوی، باید درس بخوانی؛ نابرده رنج، گنج میسر نمی‌شود.",
+    "r": "agar mi-khāhi ghabul shavi, bāyad dars be-khāni; nā-borde ranj, ganj moyassar nemi-shavad.",
+    "en": "If you want to pass, you'll have to study – no pain, no gain.",
+    "faV": "اَگَر می‌خواهی قَبول شَوی، بایَد دَرس بِخوانی؛ نابُرده رَنج، گَنج مُیَسَّر نِمی‌شَوَد.",
+    "a": "32b702fec272"
+   },
+   "faV": "نابُرده رَنج، گَنج مُیَسَّر نِمی‌شَوَد.",
+   "a": "394b7bda2742"
+  },
+  {
+   "fa": "هر که طاووس خواهد، جور هندوستان کشد.",
+   "r": "har ke tāvus khāhad, jowr-e hendustān keshad.",
+   "lit": "whoever wants a peacock must suffer the hardships of India",
+   "en": "anything worth having has its price",
+   "kind": "proverb",
+   "cat": "work",
+   "note": "Peacocks came from India, and the journey there was long and hard.",
+   "ex": {
+    "fa": "کار در خارج سخت است، ولی هر که طاووس خواهد، جور هندوستان کشد.",
+    "r": "kār dar khārej sakht ast, vali har ke tāvus khāhad, jowr-e hendustān keshad.",
+    "en": "Working abroad is hard, but anything worth having has its price.",
+    "faV": "کار دَر خارِج سَخت اَست، وَلی هَر که طاووس خواهَد، جَورِ هِندوستان کِشَد.",
+    "a": "491f7196b88a"
+   },
+   "faV": "هَر که طاووس خواهَد، جَورِ هِندوستان کِشَد.",
+   "a": "c75b82b7f634"
+  },
+  {
+   "fa": "کار نیکو کردن از پر کردن است.",
+   "r": "kār-e niku kardan az por kardan ast.",
+   "lit": "doing a job well comes from doing it a lot",
+   "en": "practice makes perfect",
+   "kind": "proverb",
+   "cat": "work",
+   "note": "A favourite saying of teachers and music masters.",
+   "ex": {
+    "fa": "هر روز بنویس؛ کار نیکو کردن از پر کردن است.",
+    "r": "har ruz be-nevis; kār-e niku kardan az por kardan ast.",
+    "en": "Write every day – practice makes perfect.",
+    "faV": "هَر روز بِنِویس؛ کارِ نیکو کَردَن اَز پُر کَردَن اَست.",
+    "a": "2fa7da67db3b"
+   },
+   "faV": "کارِ نیکو کَردَن اَز پُر کَردَن اَست.",
+   "a": "8d3bf8b9d5da"
+  },
+  {
+   "fa": "یک دست صدا ندارد.",
+   "r": "yek dast sedā na-dārad.",
+   "lit": "one hand makes no sound",
+   "en": "you can't do it alone; it takes teamwork",
+   "kind": "proverb",
+   "cat": "work",
+   "note": "You need two hands to clap; used to call for cooperation.",
+   "ex": {
+    "fa": "همه باید کمک کنیم؛ یک دست صدا ندارد.",
+    "r": "hame bāyad komak konim; yek dast sedā na-dārad.",
+    "en": "We all need to help – one person can't do it alone.",
+    "faV": "هَمه بایَد کُمَک کُنیم؛ یِک دَست صِدا نَدارَد.",
+    "a": "e15b28b41394"
+   },
+   "faV": "یِک دَست صِدا نَدارَد.",
+   "a": "7ba2ee7ca4a4"
+  },
+  {
+   "fa": "زیرآب کسی را زدن",
+   "r": "zir-āb-e kas-i rā zadan",
+   "lit": "to open the drain under someone",
+   "en": "to undermine someone behind their back",
+   "kind": "idiom",
+   "cat": "work",
+   "note": "Especially at work, telling tales to the boss. A زیرآب is the outlet at the bottom of a pool or tank: open it and the water quietly drains away.",
+   "ex": {
+    "fa": "همکارش پیش رئیس زیرآبش را زد.",
+    "r": "hamkār-ash pish-e ra'is zir-āb-ash rā zad.",
+    "en": "His colleague went behind his back to the boss.",
+    "faV": "هَمکارَش پیشِ رَئیس زیرآبَش را زَد.",
+    "a": "feafbb0fdbbf"
+   },
+   "faV": "زیرآبِ کَسی را زَدَن",
+   "a": "42872daaee8d"
+  },
+  {
+   "fa": "پارتی داشتن",
+   "r": "pārti dāshtan",
+   "lit": "to have a 'party'",
+   "en": "to have connections, friends in high places",
+   "kind": "idiom",
+   "cat": "work",
+   "note": "Modern slang: a پارتی is an influential person who pulls strings for you; پارتی‌بازی (pārti-bāzi) is favouritism.",
+   "ex": {
+    "fa": "بدون پارتی در آن شرکت استخدامت نمی‌کنند.",
+    "r": "bedun-e pārti dar ān sherkat estekhdām-at nemi-konand.",
+    "en": "Without connections they won't hire you at that company.",
+    "faV": "بِدونِ پارتی دَر آن شِرکَت اِستِخدامَت نِمی‌کُنَند.",
+    "a": "39ca7a980204"
+   },
+   "faV": "پارتی داشتَن",
+   "a": "ae815fa87419"
+  },
+  {
+   "fa": "آب در هاون کوبیدن",
+   "r": "āb dar hāvan kubidan",
+   "lit": "to pound water in a mortar",
+   "en": "to waste one's effort",
+   "kind": "idiom",
+   "cat": "work",
+   "note": "However long you pound water, nothing comes of it.",
+   "ex": {
+    "fa": "نصیحت کردن او مثل آب در هاون کوبیدن است.",
+    "r": "nasihat kardan-e u mesl-e āb dar hāvan kubidan ast.",
+    "en": "Advising him is a waste of breath.",
+    "faV": "نَصیحَت کَردَنِ او مِثلِ آب دَر هاوَن کوبیدَن اَست.",
+    "a": "954678cd54e0"
+   },
+   "faV": "آب دَر هاوَن کوبیدَن",
+   "a": "93c8358ea255"
+  },
+  {
+   "fa": "هر که بامش بیش، برفش بیشتر.",
+   "r": "har ke bām-ash bish, barf-ash bish-tar.",
+   "lit": "whoever has the bigger roof has more snow (to shovel)",
+   "en": "the more you have, the more you have to worry about",
+   "kind": "proverb",
+   "cat": "money",
+   "note": "Snow had to be shovelled off the flat roofs of old Iranian houses by hand. Said to the rich when they complain.",
+   "ex": {
+    "fa": "پولدار است، ولی گرفتاری‌اش هم زیاد است؛ هر که بامش بیش، برفش بیشتر.",
+    "r": "puldār ast, vali gereftāri-ash ham ziyād ast; har ke bām-ash bish, barf-ash bish-tar.",
+    "en": "He's rich, but he has plenty of problems too – more money, more worries.",
+    "faV": "پولدار اَست، وَلی گِرِفتاری‌اَش هَم زیاد اَست؛ هَر که بامَش بیش، بَرفَش بیشتَر.",
+    "a": "a16a275ea32d"
+   },
+   "faV": "هَر که بامَش بیش، بَرفَش بیشتَر.",
+   "a": "675a4ac8e59e"
+  },
+  {
+   "fa": "پایت را به اندازه‌ی گلیمت دراز کن.",
+   "r": "pā-yat rā be andāze-ye gelim-at derāz kon.",
+   "lit": "stretch your legs only as far as your rug reaches",
+   "en": "cut your coat according to your cloth; live within your means",
+   "kind": "proverb",
+   "cat": "money",
+   "note": "A گلیم is a thin flat-woven rug. Someone who overreaches پایش را از گلیمش درازتر کرده است.",
+   "ex": {
+    "fa": "این ماشین برایت گران است؛ پایت را به اندازه‌ی گلیمت دراز کن.",
+    "r": "in māshin barā-yat gerān ast; pā-yat rā be andāze-ye gelim-at derāz kon.",
+    "en": "This car is too expensive for you – live within your means.",
+    "faV": "این ماشین بَرایَت گِران اَست؛ پایَت را به اَندازه‌یِ گِلیمَت دِراز کُن.",
+    "a": "5634aac599c5"
+   },
+   "faV": "پایَت را به اَندازه‌یِ گِلیمَت دِراز کُن.",
+   "a": "8cad60dbaf96"
+  },
+  {
+   "fa": "پول علف خرس نیست.",
+   "r": "pul alaf-e khers nist.",
+   "lit": "money isn't bear grass",
+   "en": "money doesn't grow on trees",
+   "kind": "proverb",
+   "cat": "money",
+   "note": "Parents say it to children who waste money.",
+   "ex": {
+    "fa": "این‌قدر خرج نکن؛ پول علف خرس نیست!",
+    "r": "in-ghadr kharj na-kon; pul alaf-e khers nist!",
+    "en": "Don't spend so much – money doesn't grow on trees!",
+    "faV": "این‌قَدر خَرج نَکُن؛ پول عَلَفِ خِرس نیست!",
+    "a": "41f7ad0fbe8e"
+   },
+   "faV": "پول عَلَفِ خِرس نیست.",
+   "a": "97864556df64"
+  },
+  {
+   "fa": "دخلش با خرجش نمی‌خواند.",
+   "r": "dakhl-ash bā kharj-ash nemi-khānad.",
+   "lit": "his income doesn't match his spending",
+   "en": "he can't make ends meet",
+   "kind": "idiom",
+   "cat": "money",
+   "note": "خواندن here means 'to match, go together'.",
+   "ex": {
+    "fa": "با این حقوق، دخلم با خرجم نمی‌خواند.",
+    "r": "bā in hoghugh, dakhl-am bā kharj-am nemi-khānad.",
+    "en": "On this salary I can't make ends meet.",
+    "faV": "با این حُقوق، دَخلَم با خَرجَم نِمی‌خوانَد.",
+    "a": "7807e385897c"
+   },
+   "faV": "دَخلَش با خَرجَش نِمی‌خوانَد.",
+   "a": "d3bc6ae06d07"
+  },
+  {
+   "fa": "حساب حساب است، کاکا برادر.",
+   "r": "hesāb hesāb ast, kākā barādar.",
+   "lit": "accounts are accounts, and a brother is a brother",
+   "en": "business is business",
+   "kind": "proverb",
+   "cat": "money",
+   "note": "کاکا is an old word for brother: even in a family, money matters should be kept straight.",
+   "ex": {
+    "fa": "پولت را بگیر؛ حساب حساب است، کاکا برادر.",
+    "r": "pul-at rā be-gir; hesāb hesāb ast, kākā barādar.",
+    "en": "Take your money – business is business.",
+    "faV": "پولَت را بِگیر؛ حِساب حِساب اَست، کاکا بَرادَر.",
+    "a": "5b459a5097c8"
+   },
+   "faV": "حِساب حِساب اَست، کاکا بَرادَر.",
+   "a": "bd4fd2903e17"
+  },
+  {
+   "fa": "جلوی ضرر را از هر جا بگیری، منفعت است.",
+   "r": "jelow-ye zarar rā az har jā be-giri, manfa'at ast.",
+   "lit": "wherever you stop a loss, that is profit",
+   "en": "cut your losses",
+   "kind": "proverb",
+   "cat": "money",
+   "note": "Advice to get out of a bad deal as soon as you can.",
+   "ex": {
+    "fa": "این سهام را همین حالا بفروش؛ جلوی ضرر را از هر جا بگیری، منفعت است.",
+    "r": "in sahām rā hamin hālā be-forush; jelow-ye zarar rā az har jā be-giri, manfa'at ast.",
+    "en": "Sell these shares right now – cut your losses.",
+    "faV": "این سَهام را هَمین حالا بِفُروش؛ جِلَویِ ضَرَر را اَز هَر جا بِگیری، مَنفَعَت اَست.",
+    "a": "567921f9d999"
+   },
+   "faV": "جِلَویِ ضَرَر را اَز هَر جا بِگیری، مَنفَعَت اَست.",
+   "a": "32b67c1d1606"
+  },
+  {
+   "fa": "ارزان بی‌علت نیست، گران بی‌حکمت.",
+   "r": "arzān bi-ellat nist, gerān bi-hekmat.",
+   "lit": "cheap is not without a reason, nor dear without wisdom",
+   "en": "you get what you pay for",
+   "kind": "proverb",
+   "cat": "money",
+   "note": "A shopkeeper's favourite answer to a haggling customer.",
+   "ex": {
+    "fa": "این کفش زود پاره شد؛ ارزان بی‌علت نیست، گران بی‌حکمت.",
+    "r": "in kafsh zud pāre shod; arzān bi-ellat nist, gerān bi-hekmat.",
+    "en": "These shoes fell apart quickly – you get what you pay for.",
+    "faV": "این کَفش زود پاره شُد؛ اَرزان بی‌عِلَّت نیست، گِران بی‌حِکمَت.",
+    "a": "8bb217d32eaa"
+   },
+   "faV": "اَرزان بی‌عِلَّت نیست، گِران بی‌حِکمَت.",
+   "a": "a723eb1de56a"
+  },
+  {
+   "fa": "تعارف کم کن و بر مبلغ افزا.",
+   "r": "ta'ārof kam kon o bar mablagh afzā.",
+   "lit": "cut down the compliments and add to the sum",
+   "en": "less talk, more cash",
+   "kind": "proverb",
+   "cat": "money",
+   "note": "Teasing someone whose fine words are not matched by generosity; تعارف is the Iranian art of elaborate politeness.",
+   "ex": {
+    "fa": "به جای این همه تشکر، تعارف کم کن و بر مبلغ افزا!",
+    "r": "be jā-ye in hame tashakkor, ta'ārof kam kon o bar mablagh afzā!",
+    "en": "Instead of all these thanks – less talk and more cash!",
+    "faV": "به جایِ این هَمه تَشَکُّر، تَعارُف کَم کُن و بَر مَبلَغ اَفزا!",
+    "a": "ac480bd3e8e7"
+   },
+   "faV": "تَعارُف کَم کُن و بَر مَبلَغ اَفزا.",
+   "a": "b93b1b93bb0b"
+  },
+  {
+   "fa": "بچه‌ی حلال‌زاده به دایی‌اش می‌رود.",
+   "r": "bacche-ye halāl-zāde be dāyi-ash mi-ravad.",
+   "lit": "a legitimate child takes after his mother's brother",
+   "en": "talk of the devil!; he's the image of his uncle",
+   "kind": "proverb",
+   "cat": "family",
+   "note": "Said jokingly when a child looks like the mother's brother – and, even more often, when someone walks in just as you are talking about them (حلال‌زاده است!).",
+   "ex": {
+    "fa": "تا اسمت را آوردیم، رسیدی؛ بچه‌ی حلال‌زاده به دایی‌اش می‌رود!",
+    "r": "tā esm-at rā āvardim, residi; bacche-ye halāl-zāde be dāyi-ash mi-ravad!",
+    "en": "We'd only just mentioned your name and here you are – talk of the devil!",
+    "faV": "تا اِسمَت را آوَردیم، رِسیدی؛ بَچّه‌یِ حَلال‌زاده به دایی‌اَش می‌رَوَد!",
+    "a": "8762d9b24e1b"
+   },
+   "faV": "بَچّه‌یِ حَلال‌زاده به دایی‌اَش می‌رَوَد.",
+   "a": "2ab0208f13b4"
+  },
+  {
+   "fa": "مادر را ببین، دختر را بگیر.",
+   "r": "mādar rā be-bin, dokhtar rā be-gir.",
+   "lit": "look at the mother, then marry the daughter",
+   "en": "like mother, like daughter",
+   "kind": "proverb",
+   "cat": "family",
+   "note": "Old advice to young men choosing a bride; today usually quoted with a smile.",
+   "ex": {
+    "fa": "مادربزرگم همیشه می‌گفت: مادر را ببین، دختر را بگیر.",
+    "r": "mādar-bozorg-am hamishe mi-goft: mādar rā be-bin, dokhtar rā be-gir.",
+    "en": "My grandmother always said: look at the mother before you marry the daughter.",
+    "faV": "مادَربُزُرگَم هَمیشه می‌گُفت: مادَر را بِبین، دُختَر را بِگیر.",
+    "a": "d854186d2595"
+   },
+   "faV": "مادَر را بِبین، دُختَر را بِگیر.",
+   "a": "11cd7b0653d2"
+  },
+  {
+   "fa": "زن و شوهر دعوا کنند، ابلهان باور کنند.",
+   "r": "zan o showhar da'vā konand, ablahān bāvar konand.",
+   "lit": "husband and wife quarrel – fools believe it",
+   "en": "don't take a couple's quarrels seriously",
+   "kind": "proverb",
+   "cat": "family",
+   "note": "Advice to relatives not to take sides in a couple's argument: they will make up, and you will look silly.",
+   "ex": {
+    "fa": "نگران نباش، فردا آشتی می‌کنند؛ زن و شوهر دعوا کنند، ابلهان باور کنند.",
+    "r": "negarān na-bāsh, fardā āshti mi-konand; zan o showhar da'vā konand, ablahān bāvar konand.",
+    "en": "Don't worry, they'll make up tomorrow – a couple's quarrels never last.",
+    "faV": "نِگَران نَباش، فَردا آشتی می‌کُنَند؛ زَن و شَوهَر دَعوا کُنَند، اَبلَهان باوَر کُنَند.",
+    "a": "2c954ec12e9a"
+   },
+   "faV": "زَن و شَوهَر دَعوا کُنَند، اَبلَهان باوَر کُنَند.",
+   "a": "06fc9c457ca3"
+  },
+  {
+   "fa": "خدا در و تخته را خوب با هم جور کرده.",
+   "r": "khodā dar o takhte rā khub bā ham jur karde.",
+   "lit": "God has matched the door and the plank well",
+   "en": "they're made for each other",
+   "kind": "idiom",
+   "cat": "family",
+   "note": "Usually teasing, about a couple who are equally stubborn, untidy or chatty.",
+   "ex": {
+    "fa": "هر دو عاشق فوتبال‌اند؛ خدا در و تخته را خوب با هم جور کرده!",
+    "r": "har do āshegh-e futbāl-and; khodā dar o takhte rā khub bā ham jur karde!",
+    "en": "They're both crazy about football – they're made for each other!",
+    "faV": "هَر دو عاشِقِ فوتبال‌اَند؛ خُدا دَر و تَخته را خوب با هَم جور کَرده!",
+    "a": "07afc52092a2"
+   },
+   "faV": "خُدا دَر و تَخته را خوب با هَم جور کَرده.",
+   "a": "d96f54dc6f04"
+  },
+  {
+   "fa": "جگرگوشه",
+   "r": "jegar-gushe",
+   "lit": "a corner of one's liver",
+   "en": "one's darling child",
+   "kind": "idiom",
+   "cat": "family",
+   "note": "In older Persian the liver, not the heart, is the seat of the deepest love.",
+   "ex": {
+    "fa": "این بچه جگرگوشه‌ی من است.",
+    "r": "in bacche jegar-gushe-ye man ast.",
+    "en": "This child is the apple of my eye.",
+    "faV": "این بَچّه جِگَرگوشه‌یِ مَن اَست.",
+    "a": "453e176ef87c"
+   },
+   "faV": "جِگَرگوشه",
+   "a": "950c4ab083ae"
+  },
+  {
+   "fa": "سر پیری و معرکه‌گیری",
+   "r": "sar-e piri o ma'reke-giri",
+   "lit": "in old age, and running a street show",
+   "en": "acting young at your age",
+   "kind": "idiom",
+   "cat": "humour",
+   "note": "Teasing an older person who takes up something new and showy. A معرکه‌گیر was a street performer.",
+   "ex": {
+    "fa": "پدربزرگ در هفتاد سالگی موتورسواری یاد می‌گیرد؛ سر پیری و معرکه‌گیری!",
+    "r": "pedar-bozorg dar haftād sālegi motor-savāri yād mi-girad; sar-e piri o ma'reke-giri!",
+    "en": "Grandpa is learning to ride a motorbike at seventy – at his age!",
+    "faV": "پِدَربُزُرگ دَر هَفتاد سالِگی موتورسَواری یاد می‌گیرَد؛ سَرِ پیری و مَعرِکه‌گیری!",
+    "a": "45c0b22e32d4"
+   },
+   "faV": "سَرِ پیری و مَعرِکه‌گیری",
+   "a": "c6ead0b2153a"
+  },
+  {
+   "fa": "دوری و دوستی",
+   "r": "duri o dusti",
+   "lit": "distance and friendship",
+   "en": "a little distance keeps a friendship sweet",
+   "kind": "proverb",
+   "cat": "friendship",
+   "note": "Also said with a smile to keep tiresome people at arm's length.",
+   "ex": {
+    "fa": "زیاد همدیگر را نمی‌بینیم، ولی دوری و دوستی!",
+    "r": "ziyād hamdigar rā nemi-binim, vali duri o dusti!",
+    "en": "We don't see each other much – but a little distance keeps it sweet!",
+    "faV": "زیاد هَمدیگَر را نِمی‌بینیم، وَلی دوری و دوستی!",
+    "a": "d49ebe3c4967"
+   },
+   "faV": "دوری و دوستی",
+   "a": "ef2a3f00df7c"
+  },
+  {
+   "fa": "کوه به کوه نمی‌رسد، آدم به آدم می‌رسد.",
+   "r": "kuh be kuh nemi-resad, ādam be ādam mi-resad.",
+   "lit": "a mountain never meets a mountain, but people meet people",
+   "en": "it's a small world; we'll meet again",
+   "kind": "proverb",
+   "cat": "friendship",
+   "note": "Said warmly when parting – or as a warning to someone who has wronged you.",
+   "ex": {
+    "fa": "خداحافظ دوست من؛ کوه به کوه نمی‌رسد، آدم به آدم می‌رسد.",
+    "r": "khodā-hāfez dust-e man; kuh be kuh nemi-resad, ādam be ādam mi-resad.",
+    "en": "Goodbye, my friend – we'll meet again some day.",
+    "faV": "خُداحافِظ دوستِ مَن؛ کوه به کوه نِمی‌رِسَد، آدَم به آدَم می‌رِسَد.",
+    "a": "4b4be02c28d5"
+   },
+   "faV": "کوه به کوه نِمی‌رِسَد، آدَم به آدَم می‌رِسَد.",
+   "a": "a4d1de968209"
+  },
+  {
+   "fa": "دوست آن باشد که گیرد دست دوست، در پریشان‌حالی و درماندگی.",
+   "r": "dust ān bāshad ke girad dast-e dust, dar parishān-hāli o darmāndegi.",
+   "lit": "a friend is one who takes a friend's hand in distress and helplessness",
+   "en": "a friend in need is a friend indeed",
+   "kind": "proverb",
+   "cat": "friendship",
+   "note": "A line from Saadi's Golestan (13th century) that every Iranian learns at school.",
+   "ex": {
+    "fa": "وقتی کارم را از دست دادم، فقط او کمکم کرد؛ دوست آن باشد که گیرد دست دوست.",
+    "r": "vaghti kār-am rā az dast dādam, faghat u komak-am kard; dust ān bāshad ke girad dast-e dust.",
+    "en": "When I lost my job, only he helped me – a friend in need is a friend indeed.",
+    "faV": "وَقتی کارَم را اَز دَست دادَم، فَقَط او کُمَکَم کَرد؛ دوست آن باشَد که گیرَد دَستِ دوست.",
+    "a": "e418b3d78417"
+   },
+   "faV": "دوست آن باشَد که گیرَد دَستِ دوست، دَر پَریشان‌حالی و دَرماندِگی.",
+   "a": "1bbe5396b5d4"
+  },
+  {
+   "fa": "دوستی خاله‌خرسه",
+   "r": "dusti-ye khāle-khers-e",
+   "lit": "auntie bear's friendship",
+   "en": "help that does more harm than good",
+   "kind": "idiom",
+   "cat": "friendship",
+   "note": "From an old fable that Rumi tells in the Masnavi: a bear guarding his sleeping friend tried to chase a fly off the man's face – with a rock.",
+   "ex": {
+    "fa": "با این کمکت فقط کار را خراب کردی؛ این دوستی خاله‌خرسه است!",
+    "r": "bā in komak-at faghat kār rā kharāb kardi; in dusti-ye khāle-khers-e ast!",
+    "en": "Your 'help' has only made things worse – with friends like you, who needs enemies?",
+    "faV": "با این کُمَکَت فَقَط کار را خَراب کَردی؛ این دوستیِ خاله‌خِرسه اَست!",
+    "a": "ca67af766df2"
+   },
+   "faV": "دوستیِ خاله‌خِرسه",
+   "a": "346adf2f0d6e"
+  },
+  {
+   "fa": "کبوتر با کبوتر، باز با باز، کند هم‌جنس با هم‌جنس پرواز.",
+   "r": "kabutar bā kabutar, bāz bā bāz, konad ham-jens bā ham-jens parvāz.",
+   "lit": "pigeon with pigeon, hawk with hawk: each kind flies with its own kind",
+   "en": "birds of a feather flock together",
+   "kind": "proverb",
+   "cat": "friendship",
+   "note": "Often only the first half is quoted.",
+   "ex": {
+    "fa": "همه‌ی دوستانش مثل خودش تنبل‌اند؛ کبوتر با کبوتر، باز با باز.",
+    "r": "hame-ye dustān-ash mesl-e khod-ash tanbal-and; kabutar bā kabutar, bāz bā bāz.",
+    "en": "All his friends are as lazy as he is – birds of a feather flock together.",
+    "faV": "هَمه‌یِ دوستانَش مِثلِ خودَش تَنبَل‌اَند؛ کَبوتَر با کَبوتَر، باز با باز.",
+    "a": "9f0628868f75"
+   },
+   "faV": "کَبوتَر با کَبوتَر، باز با باز، کُنَد هَم‌جِنس با هَم‌جِنس پَرواز.",
+   "a": "9ff1c02d4724"
+  },
+  {
+   "fa": "از دل برود هر آن که از دیده برفت.",
+   "r": "az del be-ravad har ān ke az dide be-raft.",
+   "lit": "whoever has gone from the eye will go from the heart",
+   "en": "out of sight, out of mind",
+   "kind": "proverb",
+   "cat": "love",
+   "note": "A famous line of classical verse – the opposite view to دوری و دوستی.",
+   "ex": {
+    "fa": "از وقتی به خارج رفته، دیگر زنگ نمی‌زند؛ از دل برود هر آن که از دیده برفت.",
+    "r": "az vaghti be khārej rafte, digar zang nemi-zanad; az del be-ravad har ān ke az dide be-raft.",
+    "en": "Since he moved abroad he never calls – out of sight, out of mind.",
+    "faV": "اَز وَقتی به خارِج رَفته، دیگَر زَنگ نِمی‌زَنَد؛ اَز دِل بِرَوَد هَر آن که اَز دیده بِرَفت.",
+    "a": "2ddd574caf21"
+   },
+   "faV": "اَز دِل بِرَوَد هَر آن که اَز دیده بِرَفت.",
+   "a": "b0886ded15f4"
+  },
+  {
+   "fa": "دل به دل راه دارد.",
+   "r": "del be del rāh dārad.",
+   "lit": "there is a road from heart to heart",
+   "en": "great minds think alike; the feeling is mutual",
+   "kind": "proverb",
+   "cat": "love",
+   "note": "Said when two people think of each other at the same moment, or when a liking turns out to be mutual.",
+   "ex": {
+    "fa": "همین الان می‌خواستم به تو زنگ بزنم؛ دل به دل راه دارد!",
+    "r": "hamin alān mi-khāstam be to zang be-zanam; del be del rāh dārad!",
+    "en": "I was just about to ring you – great minds think alike!",
+    "faV": "هَمین اَلان می‌خواستَم به تو زَنگ بِزَنَم؛ دِل به دِل راه دارَد!",
+    "a": "803b51e11cf9"
+   },
+   "faV": "دِل به دِل راه دارَد.",
+   "a": "c473ad275ddd"
+  },
+  {
+   "fa": "رو بدهی، آستر هم می‌خواهد.",
+   "r": "ru be-dahi, āstar ham mi-khāhad.",
+   "lit": "give him the outer cloth and he'll want the lining too",
+   "en": "give him an inch and he'll take a mile",
+   "kind": "proverb",
+   "cat": "character",
+   "note": "رو is the outer fabric of a garment and آستر the lining; رو دادن also means 'to be too soft with someone'.",
+   "ex": {
+    "fa": "به بچه‌ات این‌قدر رو نده؛ رو بدهی، آستر هم می‌خواهد.",
+    "r": "be bacche-at in-ghadr ru na-deh; ru be-dahi, āstar ham mi-khāhad.",
+    "en": "Don't spoil your child so much – give an inch and they'll take a mile.",
+    "faV": "به بَچّه‌اَت این‌قَدر رو نَدِه؛ رو بِدَهی، آستَر هَم می‌خواهَد.",
+    "a": "4ff9df0ea949"
+   },
+   "faV": "رو بِدَهی، آستَر هَم می‌خواهَد.",
+   "a": "fc2e2d844c42"
+  },
+  {
+   "fa": "شتر دیدی ندیدی.",
+   "r": "shotor didi na-didi.",
+   "lit": "you saw a camel? you didn't see one",
+   "en": "you didn't see anything – keep it to yourself",
+   "kind": "idiom",
+   "cat": "speech",
+   "note": "From a tale about a man who, asked about a lost camel, wisely said he hadn't seen it and so stayed out of trouble. Said when you want someone to keep quiet about something.",
+   "ex": {
+    "fa": "این حرف‌ها بین خودمان بماند؛ شتر دیدی ندیدی!",
+    "r": "in harf-hā beyn-e khod-emān be-mānad; shotor didi na-didi!",
+    "en": "Keep this between us – you saw nothing!",
+    "faV": "این حَرف‌ها بَینِ خودِمان بِمانَد؛ شُتُر دیدی نَدیدی!",
+    "a": "905460bb0c5b"
+   },
+   "faV": "شُتُر دیدی نَدیدی.",
+   "a": "347d66e53510"
+  },
+  {
+   "fa": "یک کلاغ چهل کلاغ کردن",
+   "r": "yek kalāgh chehel kalāgh kardan",
+   "lit": "to turn one crow into forty crows",
+   "en": "to blow a story out of all proportion",
+   "kind": "idiom",
+   "cat": "speech",
+   "note": "From a tale in which a man coughed up something as black as a crow's feather; by evening the whole town said he had brought up forty crows.",
+   "ex": {
+    "fa": "ماجرا ساده بود، ولی همسایه‌ها یک کلاغ چهل کلاغ کردند.",
+    "r": "mājarā sāde bud, vali hamsāye-hā yek kalāgh chehel kalāgh kardand.",
+    "en": "It was a simple matter, but the neighbours blew it out of all proportion.",
+    "faV": "ماجَرا ساده بود، وَلی هَمسایه‌ها یِک کَلاغ چِهِل کَلاغ کَردَند.",
+    "a": "f2ffa7d48d88"
+   },
+   "faV": "یِک کَلاغ چِهِل کَلاغ کَردَن",
+   "a": "b93424fd512c"
+  },
+  {
+   "fa": "زبان سرخ سر سبز می‌دهد بر باد.",
+   "r": "zabān-e sorkh sar-e sabz mi-dahad bar bād.",
+   "lit": "the red tongue gives the green head to the wind",
+   "en": "a loose tongue can cost you your head",
+   "kind": "proverb",
+   "cat": "speech",
+   "note": "A line of verse quoted to warn against careless or rude talk; the 'green head' is a young, flourishing life.",
+   "ex": {
+    "fa": "مواظب حرف زدنت باش؛ زبان سرخ سر سبز می‌دهد بر باد.",
+    "r": "movāzeb-e harf zadan-at bāsh; zabān-e sorkh sar-e sabz mi-dahad bar bād.",
+    "en": "Watch what you say – a loose tongue can cost you dear.",
+    "faV": "مُواظِبِ حَرف زَدَنَت باش؛ زَبانِ سُرخ سَرِ سَبز می‌دَهَد بَر باد.",
+    "a": "7f1e863d8d0d"
+   },
+   "faV": "زَبانِ سُرخ سَرِ سَبز می‌دَهَد بَر باد.",
+   "a": "69ce0782c10c"
+  },
+  {
+   "fa": "کم گوی و گزیده گوی چون دُر.",
+   "r": "kam guy o gozide guy chon dorr.",
+   "lit": "speak little and choose your words, like pearls",
+   "en": "say little, but make it count",
+   "kind": "proverb",
+   "cat": "speech",
+   "note": "From Nezami's Leyli and Majnun (12th century); دُر is a pearl.",
+   "ex": {
+    "fa": "در سخنرانی‌ات کم گوی و گزیده گوی چون دُر.",
+    "r": "dar sokhanrāni-at kam guy o gozide guy chon dorr.",
+    "en": "In your speech, say little but make every word count.",
+    "faV": "دَر سُخَنرانی‌اَت کَم گوی و گُزیده گوی چون دُرّ.",
+    "a": "cbd7f3de998d"
+   },
+   "faV": "کَم گوی و گُزیده گوی چون دُرّ.",
+   "a": "2a2fa2036687"
+  },
+  {
+   "fa": "سخن کز دل برآید، لاجرم بر دل نشیند.",
+   "r": "sokhan k-az del bar-āyad, lājaram bar del neshinad.",
+   "lit": "words that rise from the heart are sure to settle on the heart",
+   "en": "what comes from the heart goes to the heart",
+   "kind": "proverb",
+   "cat": "speech",
+   "note": "کز is a poetic contraction of که از.",
+   "ex": {
+    "fa": "حرف‌هایش ساده بود، ولی سخن کز دل برآید، لاجرم بر دل نشیند.",
+    "r": "harf-hā-yash sāde bud, vali sokhan k-az del bar-āyad, lājaram bar del neshinad.",
+    "en": "Her words were simple, but what comes from the heart goes to the heart.",
+    "faV": "حَرف‌هایَش ساده بود، وَلی سُخَن کَز دِل بَرآیَد، لاجَرَم بَر دِل نِشینَد.",
+    "a": "62e9e5597c6d"
+   },
+   "faV": "سُخَن کَز دِل بَرآیَد، لاجَرَم بَر دِل نِشینَد.",
+   "a": "40593679d5f7"
+  },
+  {
+   "fa": "دیوار موش دارد، موش هم گوش دارد.",
+   "r": "divār mush dārad, mush ham gush dārad.",
+   "lit": "the wall has mice, and mice have ears",
+   "en": "walls have ears",
+   "kind": "proverb",
+   "cat": "speech",
+   "note": "A warning to lower your voice when talking about something secret.",
+   "ex": {
+    "fa": "این‌جا از این موضوع حرف نزن؛ دیوار موش دارد، موش هم گوش دارد.",
+    "r": "in-jā az in mowzu' harf na-zan; divār mush dārad, mush ham gush dārad.",
+    "en": "Don't talk about this here – walls have ears.",
+    "faV": "این‌جا اَز این مَوضوع حَرف نَزَن؛ دیوار موش دارَد، موش هَم گوش دارَد.",
+    "a": "6a849b2199c4"
+   },
+   "faV": "دیوار موش دارَد، موش هَم گوش دارَد.",
+   "a": "effc66813e54"
+  },
+  {
+   "fa": "حرف مرد یکی است.",
+   "r": "harf-e mard yek-i ast.",
+   "lit": "a man's word is one",
+   "en": "a promise is a promise",
+   "kind": "proverb",
+   "cat": "speech",
+   "note": "Used – by women too – to insist that you will keep your word.",
+   "ex": {
+    "fa": "گفتم می‌آیم، پس می‌آیم؛ حرف مرد یکی است.",
+    "r": "goftam mi-āyam, pas mi-āyam; harf-e mard yek-i ast.",
+    "en": "I said I'd come, so I'll come – a promise is a promise.",
+    "faV": "گُفتَم می‌آیَم، پَس می‌آیَم؛ حَرفِ مَرد یِکی اَست.",
+    "a": "2f20bba58e3d"
+   },
+   "faV": "حَرفِ مَرد یِکی اَست.",
+   "a": "b85cdbeb358b"
+  },
+  {
+   "fa": "یکی بود یکی نبود.",
+   "r": "yek-i bud yek-i na-bud.",
+   "lit": "there was one, there wasn't one",
+   "en": "once upon a time",
+   "kind": "idiom",
+   "cat": "speech",
+   "note": "The opening of every Persian folk tale, usually followed by غیر از خدا هیچ‌کس نبود (there was no one but God).",
+   "ex": {
+    "fa": "مادربزرگ گفت: یکی بود یکی نبود، غیر از خدا هیچ‌کس نبود.",
+    "r": "mādar-bozorg goft: yek-i bud yek-i na-bud, gheyr az khodā hich-kas na-bud.",
+    "en": "Grandma began: once upon a time, when there was no one but God …",
+    "faV": "مادَربُزُرگ گُفت: یِکی بود یِکی نَبود، غَیر اَز خُدا هیچ‌کَس نَبود.",
+    "a": "c074c20b887a"
+   },
+   "faV": "یِکی بود یِکی نَبود.",
+   "a": "6a43ac407fb8"
+  },
+  {
+   "fa": "آب که از سر گذشت، چه یک وجب چه صد وجب.",
+   "r": "āb ke az sar gozasht, che yek vajab che sad vajab.",
+   "lit": "once the water is over your head, what's one span or a hundred?",
+   "en": "in for a penny, in for a pound",
+   "kind": "proverb",
+   "cat": "trouble",
+   "note": "When things are already as bad as they can be, a little more makes no difference. A وجب is a hand-span.",
+   "ex": {
+    "fa": "حالا که دیر شده، بگذار شام هم بخوریم؛ آب که از سر گذشت، چه یک وجب چه صد وجب.",
+    "r": "hālā ke dir shode, be-gozār shām ham bo-khorim; āb ke az sar gozasht, che yek vajab che sad vajab.",
+    "en": "We're late anyway, so let's have dinner too – in for a penny, in for a pound.",
+    "faV": "حالا که دیر شُده، بِگُذار شام هَم بُخوریم؛ آب که اَز سَر گُذَشت، چه یِک وَجَب چه صَد وَجَب.",
+    "a": "af2a3acb5b13"
+   },
+   "faV": "آب که اَز سَر گُذَشت، چه یِک وَجَب چه صَد وَجَب.",
+   "a": "ef40ca16422b"
+  },
+  {
+   "fa": "مرغ همسایه غاز است.",
+   "r": "morgh-e hamsāye ghāz ast.",
+   "lit": "the neighbour's hen is a goose",
+   "en": "the grass is always greener on the other side",
+   "kind": "proverb",
+   "cat": "character",
+   "note": "Said to people who always think others have it better.",
+   "ex": {
+    "fa": "همیشه فکر می‌کنی کار دیگران بهتر است؛ مرغ همسایه غاز است!",
+    "r": "hamishe fekr mi-koni kār-e digarān behtar ast; morgh-e hamsāye ghāz ast!",
+    "en": "You always think other people's jobs are better – the grass is always greener!",
+    "faV": "هَمیشه فِکر می‌کُنی کارِ دیگَران بِهتَر اَست؛ مُرغِ هَمسایه غاز اَست!",
+    "a": "9b87f4904bea"
+   },
+   "faV": "مُرغِ هَمسایه غاز اَست.",
+   "a": "2c7182f10aad"
+  },
+  {
+   "fa": "سیب را که بالا بیندازی، تا پایین بیاید هزار چرخ می‌خورد.",
+   "r": "sib rā ke bālā biyandāzi, tā pāyin biyāyad hezār charkh mi-khorad.",
+   "lit": "throw an apple up and it spins a thousand times before it comes down",
+   "en": "anything can happen; don't be so sure",
+   "kind": "proverb",
+   "cat": "fate",
+   "note": "Said when someone is too certain about how things will turn out.",
+   "ex": {
+    "fa": "هنوز معلوم نیست چه کسی برنده می‌شود؛ سیب را که بالا بیندازی، تا پایین بیاید هزار چرخ می‌خورد.",
+    "r": "hanuz ma'lum nist che kas-i barande mi-shavad; sib rā ke bālā biyandāzi, tā pāyin biyāyad hezār charkh mi-khorad.",
+    "en": "It's not clear yet who will win – anything can happen.",
+    "faV": "هَنوز مَعلوم نیست چه کَسی بَرَنده می‌شَوَد؛ سیب را که بالا بیَندازی، تا پایین بیایَد هِزار چَرخ می‌خورَد.",
+    "a": "994358dcf135"
+   },
+   "faV": "سیب را که بالا بیَندازی، تا پایین بیایَد هِزار چَرخ می‌خورَد.",
+   "a": "736446ad5cba"
+  },
+  {
+   "fa": "یک بام و دو هوا",
+   "r": "yek bām o do havā",
+   "lit": "one roof and two climates",
+   "en": "double standards",
+   "kind": "idiom",
+   "cat": "character",
+   "note": "About treating two similar cases in different ways.",
+   "ex": {
+    "fa": "پسرش دیر بیاید اشکال ندارد، ولی دخترش نه؛ این یک بام و دو هوا است.",
+    "r": "pesar-ash dir biyāyad eshkāl na-dārad, vali dokhtar-ash na; in yek bām o do havā ast.",
+    "en": "It's fine if his son comes home late, but not his daughter – that's a double standard.",
+    "faV": "پِسَرَش دیر بیایَد اِشکال نَدارَد، وَلی دُختَرَش نه؛ این یِک بام و دو هَوا اَست.",
+    "a": "d7564ba1e1e2"
+   },
+   "faV": "یِک بام و دو هَوا",
+   "a": "1a97edef20d1"
+  },
+  {
+   "fa": "سالی که نکوست، از بهارش پیداست.",
+   "r": "sāl-i ke neku-st, az bahār-ash peydā-st.",
+   "lit": "a good year shows itself in its spring",
+   "en": "you can tell from the start how it will go",
+   "kind": "proverb",
+   "cat": "wisdom",
+   "note": "Most often ironic, about a bad start. نکو is poetic for نیکو (good).",
+   "ex": {
+    "fa": "روز اول کار دیر رسید؛ سالی که نکوست، از بهارش پیداست!",
+    "r": "ruz-e avval-e kār dir resid; sāl-i ke neku-st, az bahār-ash peydā-st!",
+    "en": "He was late on his first day at work – that bodes well!",
+    "faV": "روزِ اَوَّلِ کار دیر رِسید؛ سالی که نِکوست، اَز بَهارَش پَیداست!",
+    "a": "8a3bfdeadd25"
+   },
+   "faV": "سالی که نِکوست، اَز بَهارَش پَیداست.",
+   "a": "2e7a0be55acb"
+  },
+  {
+   "fa": "شاهنامه آخرش خوش است.",
+   "r": "shāhnāme ākhar-ash khosh ast.",
+   "lit": "the Shahnameh has a happy ending",
+   "en": "wait and see how it ends",
+   "kind": "proverb",
+   "cat": "wisdom",
+   "note": "Ironic: Ferdowsi's great epic ends in defeat and tragedy, so this warns that a happy beginning may not last.",
+   "ex": {
+    "fa": "حالا خوشحال است، ولی شاهنامه آخرش خوش است.",
+    "r": "hālā khoshhāl ast, vali shāhnāme ākhar-ash khosh ast.",
+    "en": "He's happy now, but let's see how it ends.",
+    "faV": "حالا خوشحال اَست، وَلی شاهنامه آخَرَش خوش اَست.",
+    "a": "0e18a6b54f24"
+   },
+   "faV": "شاهنامه آخَرَش خوش اَست.",
+   "a": "75f6db42cf19"
+  },
+  {
+   "fa": "هر گردی گردو نیست.",
+   "r": "har gerd-i gerdu nist.",
+   "lit": "not every round thing is a walnut",
+   "en": "all that glitters is not gold",
+   "kind": "proverb",
+   "cat": "wisdom",
+   "note": "A play on گرد (round) and گردو (walnut).",
+   "ex": {
+    "fa": "این شرکت ظاهر خوبی دارد، ولی هر گردی گردو نیست.",
+    "r": "in sherkat zāher-e khub-i dārad, vali har gerd-i gerdu nist.",
+    "en": "This company looks good, but appearances can be deceptive.",
+    "faV": "این شِرکَت ظاهِرِ خوبی دارَد، وَلی هَر گِردی گِردو نیست.",
+    "a": "fc37fa0d24c2"
+   },
+   "faV": "هَر گِردی گِردو نیست.",
+   "a": "6b28ba064c66"
+  },
+  {
+   "fa": "تا نباشد چیزکی، مردم نگویند چیزها.",
+   "r": "tā na-bāshad chizak-i, mardom na-guyand chiz-hā.",
+   "lit": "unless there is a little something, people don't say things",
+   "en": "there's no smoke without fire",
+   "kind": "proverb",
+   "cat": "wisdom",
+   "note": "چیزک is 'a little thing'.",
+   "ex": {
+    "fa": "این شایعه‌ها بی‌دلیل نیست؛ تا نباشد چیزکی، مردم نگویند چیزها.",
+    "r": "in shāye'e-hā bi-dalil nist; tā na-bāshad chizak-i, mardom na-guyand chiz-hā.",
+    "en": "These rumours aren't baseless – there's no smoke without fire.",
+    "faV": "این شایِعه‌ها بی‌دَلیل نیست؛ تا نَباشَد چیزَکی، مَردُم نَگویَند چیزها.",
+    "a": "b05ca65c5704"
+   },
+   "faV": "تا نَباشَد چیزَکی، مَردُم نَگویَند چیزها.",
+   "a": "d597d7f0dd35"
+  },
+  {
+   "fa": "مارگزیده از ریسمان سیاه و سفید می‌ترسد.",
+   "r": "mār-gazide az rismān-e siyāh o sefid mi-tarsad.",
+   "lit": "someone bitten by a snake is afraid of a black-and-white rope",
+   "en": "once bitten, twice shy",
+   "kind": "proverb",
+   "cat": "wisdom",
+   "note": "After a bad experience, even harmless things look dangerous.",
+   "ex": {
+    "fa": "بعد از آن تصادف می‌ترسد رانندگی کند؛ مارگزیده از ریسمان سیاه و سفید می‌ترسد.",
+    "r": "ba'd az ān tasādof mi-tarsad rānandegi konad; mār-gazide az rismān-e siyāh o sefid mi-tarsad.",
+    "en": "Since that accident he's scared to drive – once bitten, twice shy.",
+    "faV": "بَعد اَز آن تَصادُف می‌تَرسَد رانَندِگی کُنَد؛ مارگَزیده اَز ریسمانِ سیاه و سِفید می‌تَرسَد.",
+    "a": "715ecf1a5990"
+   },
+   "faV": "مارگَزیده اَز ریسمانِ سیاه و سِفید می‌تَرسَد.",
+   "a": "453e09cbb83e"
+  },
+  {
+   "fa": "از کوزه همان برون تراود که در اوست.",
+   "r": "az kuze hamān borun tarāvad ke dar u-st.",
+   "lit": "only what is inside a jug can seep out of it",
+   "en": "people show what they really are",
+   "kind": "proverb",
+   "cat": "wisdom",
+   "note": "A famous line of classical verse; برون is poetic for بیرون. Said about words or deeds that reveal someone's character.",
+   "ex": {
+    "fa": "از آدم بدجنس جز بدی نمی‌بینی؛ از کوزه همان برون تراود که در اوست.",
+    "r": "az ādam-e badjens joz badi nemi-bini; az kuze hamān borun tarāvad ke dar u-st.",
+    "en": "You'll only get nastiness from a nasty person – a jug can only pour out what's in it.",
+    "faV": "اَز آدَمِ بَدجِنس جُز بَدی نِمی‌بینی؛ اَز کوزه هَمان بُرون تَراوَد که دَر اوست.",
+    "a": "af5ecccfb09e"
+   },
+   "faV": "اَز کوزه هَمان بُرون تَراوَد که دَر اوست.",
+   "a": "cf2e5dc88018"
+  },
+  {
+   "fa": "تا تنور گرم است، باید نان را چسباند.",
+   "r": "tā tanur garm ast, bāyad nān rā chasbānd.",
+   "lit": "while the oven is hot, you must stick the bread on",
+   "en": "strike while the iron is hot",
+   "kind": "proverb",
+   "cat": "wisdom",
+   "note": "Flat breads like لواش and تافتون are slapped onto the hot inner wall of a تنور, a clay oven.",
+   "ex": {
+    "fa": "حالا که قیمت‌ها پایین است، بخر؛ تا تنور گرم است، باید نان را چسباند.",
+    "r": "hālā ke gheymat-hā pāyin ast, be-khar; tā tanur garm ast, bāyad nān rā chasbānd.",
+    "en": "Buy now while prices are low – strike while the iron is hot.",
+    "faV": "حالا که قَیمَت‌ها پایین اَست، بِخَر؛ تا تَنور گَرم اَست، بایَد نان را چَسباند.",
+    "a": "a249faa76ce5"
+   },
+   "faV": "تا تَنور گَرم اَست، بایَد نان را چَسباند.",
+   "a": "632ae61ad64b"
+  },
+  {
+   "fa": "خواستن توانستن است.",
+   "r": "khāstan tavānestan ast.",
+   "lit": "wanting is being able",
+   "en": "where there's a will, there's a way",
+   "kind": "proverb",
+   "cat": "wisdom",
+   "note": "A modern saying, popular in schools and on posters.",
+   "ex": {
+    "fa": "اگر واقعاً بخواهی، می‌توانی؛ خواستن توانستن است.",
+    "r": "agar vāghe'an be-khāhi, mi-tavāni; khāstan tavānestan ast.",
+    "en": "If you really want to, you can – where there's a will, there's a way.",
+    "faV": "اَگَر واقِعاً بِخواهی، می‌تَوانی؛ خواستَن تَوانِستَن اَست.",
+    "a": "7f4881fd45bd"
+   },
+   "faV": "خواستَن تَوانِستَن اَست.",
+   "a": "dc7de565c64b"
+  },
+  {
+   "fa": "توانا بود هر که دانا بود.",
+   "r": "tavānā bovad har ke dānā bovad.",
+   "lit": "whoever is wise is powerful",
+   "en": "knowledge is power",
+   "kind": "proverb",
+   "cat": "wisdom",
+   "note": "Ferdowsi, Shahnameh (around 1010). بود here is the poetic bovad, 'is', not the past bud.",
+   "ex": {
+    "fa": "پدرم همیشه می‌گفت درس بخوان، توانا بود هر که دانا بود.",
+    "r": "pedar-am hamishe mi-goft dars be-khān, tavānā bovad har ke dānā bovad.",
+    "en": "My father always said: study – knowledge is power.",
+    "faV": "پِدَرَم هَمیشه می‌گُفت دَرس بِخوان، تَوانا بُوَد هَر که دانا بُوَد.",
+    "a": "fb5c50e7c23c"
+   },
+   "faV": "تَوانا بُوَد هَر که دانا بُوَد.",
+   "a": "9f32ceb9a78e"
+  },
+  {
+   "fa": "چاه‌کن همیشه ته چاه است.",
+   "r": "chāh-kan hamishe tah-e chāh ast.",
+   "lit": "the well-digger is always at the bottom of the well",
+   "en": "dig a pit for others and you'll fall into it yourself",
+   "kind": "proverb",
+   "cat": "wisdom",
+   "note": "A warning against scheming against other people.",
+   "ex": {
+    "fa": "برای دیگران نقشه نکش؛ چاه‌کن همیشه ته چاه است.",
+    "r": "barā-ye digarān naghshe na-kesh; chāh-kan hamishe tah-e chāh ast.",
+    "en": "Don't scheme against others – you'll fall into your own trap.",
+    "faV": "بَرایِ دیگَران نَقشه نَکِش؛ چاه‌کَن هَمیشه تَهِ چاه اَست.",
+    "a": "780616294d7f"
+   },
+   "faV": "چاه‌کَن هَمیشه تَهِ چاه اَست.",
+   "a": "c917af464a1b"
+  },
+  {
+   "fa": "سری که درد نمی‌کند، دستمال نمی‌بندند.",
+   "r": "sar-i ke dard nemi-konad, dastmāl nemi-bandand.",
+   "lit": "you don't tie a cloth round a head that doesn't ache",
+   "en": "don't go looking for trouble",
+   "kind": "proverb",
+   "cat": "wisdom",
+   "note": "Tying a cloth round the head was the old remedy for a headache.",
+   "ex": {
+    "fa": "خودت را درگیر دعوای آن‌ها نکن؛ سری که درد نمی‌کند، دستمال نمی‌بندند.",
+    "r": "khod-at rā dargir-e da'vā-ye ān-hā na-kon; sar-i ke dard nemi-konad, dastmāl nemi-bandand.",
+    "en": "Don't get involved in their quarrel – don't go looking for trouble.",
+    "faV": "خودَت را دَرگیرِ دَعوایِ آن‌ها نَکُن؛ سَری که دَرد نِمی‌کُنَد، دَستمال نِمی‌بَندَند.",
+    "a": "5ee8f82d7e51"
+   },
+   "faV": "سَری که دَرد نِمی‌کُنَد، دَستمال نِمی‌بَندَند.",
+   "a": "5491a0e5adb1"
+  },
+  {
+   "fa": "بی‌گدار به آب زدن",
+   "r": "bi-godār be āb zadan",
+   "lit": "to go into the water where there is no ford",
+   "en": "to leap before you look",
+   "kind": "idiom",
+   "cat": "wisdom",
+   "note": "A گدار is a shallow place where a river can be crossed safely.",
+   "ex": {
+    "fa": "قبل از خرید خانه خوب تحقیق کن و بی‌گدار به آب نزن.",
+    "r": "ghabl az kharid-e khāne khub tahghigh kon o bi-godār be āb na-zan.",
+    "en": "Do your research before buying a house – don't leap before you look.",
+    "faV": "قَبل اَز خَریدِ خانه خوب تَحقیق کُن و بی‌گُدار به آب نَزَن.",
+    "a": "2a1afcb698d1"
+   },
+   "faV": "بی‌گُدار به آب زَدَن",
+   "a": "8f0a4799215a"
+  },
+  {
+   "fa": "از هر دست بدهی، از همان دست پس می‌گیری.",
+   "r": "az har dast be-dahi, az hamān dast pas mi-giri.",
+   "lit": "with whatever hand you give, with that same hand you get back",
+   "en": "what goes around comes around",
+   "kind": "proverb",
+   "cat": "wisdom",
+   "note": "Good or bad, the way you treat people comes back to you.",
+   "ex": {
+    "fa": "با مردم مهربان باش؛ از هر دست بدهی، از همان دست پس می‌گیری.",
+    "r": "bā mardom mehrabān bāsh; az har dast be-dahi, az hamān dast pas mi-giri.",
+    "en": "Be kind to people – what goes around comes around.",
+    "faV": "با مَردُم مِهرَبان باش؛ اَز هَر دَست بِدَهی، اَز هَمان دَست پَس می‌گیری.",
+    "a": "15ee267171be"
+   },
+   "faV": "اَز هَر دَست بِدَهی، اَز هَمان دَست پَس می‌گیری.",
+   "a": "f50715b7bd4e"
+  },
+  {
+   "fa": "یک سوزن به خودت بزن، یک جوالدوز به مردم.",
+   "r": "yek suzan be khod-at be-zan, yek javāldoz be mardom.",
+   "lit": "prick yourself with a needle before you prick others with a sack needle",
+   "en": "judge yourself before you judge others",
+   "kind": "proverb",
+   "cat": "wisdom",
+   "note": "A جوالدوز is a big needle for sewing up sacks.",
+   "ex": {
+    "fa": "قبل از انتقاد از دیگران، یک سوزن به خودت بزن، یک جوالدوز به مردم.",
+    "r": "ghabl az enteghād az digarān, yek suzan be khod-at be-zan, yek javāldoz be mardom.",
+    "en": "Before you criticise others, take a good look at yourself.",
+    "faV": "قَبل اَز اِنتِقاد اَز دیگَران، یِک سوزَن به خودَت بِزَن، یِک جَوالدوز به مَردُم.",
+    "a": "ba6ee6920f28"
+   },
+   "faV": "یِک سوزَن به خودَت بِزَن، یِک جَوالدوز به مَردُم.",
+   "a": "0e21b614dc66"
+  },
+  {
+   "fa": "با یک تیر دو نشان زدن",
+   "r": "bā yek tir do neshān zadan",
+   "lit": "to hit two targets with one arrow",
+   "en": "to kill two birds with one stone",
+   "kind": "idiom",
+   "cat": "wisdom",
+   "note": "Persian prefers arrows to stones – and spares the birds.",
+   "ex": {
+    "fa": "در اصفهان هم دوستم را دیدم، هم کارم را انجام دادم؛ با یک تیر دو نشان زدم.",
+    "r": "dar Esfahān ham dust-am rā didam, ham kār-am rā anjām dādam; bā yek tir do neshān zadam.",
+    "en": "In Isfahan I saw my friend and got my work done too – two birds with one stone.",
+    "faV": "دَر اِصفَهان هَم دوستَم را دیدَم، هَم کارَم را اَنجام دادَم؛ با یِک تیر دو نِشان زَدَم.",
+    "a": "735ee1e95e24"
+   },
+   "faV": "با یِک تیر دو نِشان زَدَن",
+   "a": "495ce4f927ee"
+  },
+  {
+   "fa": "نوشدارو بعد از مرگ سهراب",
+   "r": "nushdāru ba'd az marg-e Sohrāb",
+   "lit": "the healing potion after Sohrab's death",
+   "en": "too little, too late",
+   "kind": "idiom",
+   "cat": "time",
+   "note": "From the Shahnameh: Rostam, having mortally wounded his own son Sohrab without knowing who he was, begged King Kavus for his healing potion – but the king held it back, and Sohrab died before it could save him.",
+   "ex": {
+    "fa": "کمک آن‌ها وقتی رسید که کار از کار گذشته بود؛ نوشدارو بعد از مرگ سهراب.",
+    "r": "komak-e ān-hā vaghti resid ke kār az kār gozashte bud; nushdāru ba'd az marg-e Sohrāb.",
+    "en": "Their help came when it was already too late – too little, too late.",
+    "faV": "کُمَکِ آن‌ها وَقتی رِسید که کار اَز کار گُذَشته بود؛ نوشدارو بَعد اَز مَرگِ سُهراب.",
+    "a": "496236617c8d"
+   },
+   "faV": "نوشدارو بَعد اَز مَرگِ سُهراب",
+   "a": "7d92a36fb57a"
+  },
+  {
+   "fa": "کار از کار گذشته است.",
+   "r": "kār az kār gozashte ast.",
+   "lit": "the matter has gone past the matter",
+   "en": "it's too late now; what's done is done",
+   "kind": "idiom",
+   "cat": "time",
+   "note": "Often in the past perfect: کار از کار گذشته بود (it was already too late).",
+   "ex": {
+    "fa": "وقتی رسیدیم، کار از کار گذشته بود.",
+    "r": "vaghti residim, kār az kār gozashte bud.",
+    "en": "By the time we arrived, it was too late.",
+    "faV": "وَقتی رِسیدیم، کار اَز کار گُذَشته بود.",
+    "a": "2573dd3cd8fe"
+   },
+   "faV": "کار اَز کار گُذَشته اَست.",
+   "a": "224b36cde6ef"
+  },
+  {
+   "fa": "کار امروز را به فردا مینداز.",
+   "r": "kār-e emruz rā be fardā mayandāz.",
+   "lit": "don't throw today's work onto tomorrow",
+   "en": "never put off till tomorrow what you can do today",
+   "kind": "proverb",
+   "cat": "time",
+   "note": "مینداز (mayandāz) is the old form of نینداز (don't throw).",
+   "ex": {
+    "fa": "تکالیفت را همین امشب انجام بده؛ کار امروز را به فردا مینداز.",
+    "r": "takālif-at rā hamin emshab anjām be-deh; kār-e emruz rā be fardā mayandāz.",
+    "en": "Do your homework tonight – never put off till tomorrow what you can do today.",
+    "faV": "تَکالیفَت را هَمین اِمشَب اَنجام بِدِه؛ کارِ اِمروز را به فَردا مَیَنداز.",
+    "a": "939faa82ace0"
+   },
+   "faV": "کارِ اِمروز را به فَردا مَیَنداز.",
+   "a": "a6facd8408cf"
+  },
+  {
+   "fa": "خواهی نشوی رسوا، هم‌رنگ جماعت شو.",
+   "r": "khāhi na-shavi rosvā, ham-rang-e jamā'at show.",
+   "lit": "if you don't want to be disgraced, take on the colour of the crowd",
+   "en": "when in Rome, do as the Romans do",
+   "kind": "proverb",
+   "cat": "character",
+   "note": "Advice to fit in with the people around you.",
+   "ex": {
+    "fa": "در عروسی همه می‌رقصیدند، من هم رقصیدم؛ خواهی نشوی رسوا، هم‌رنگ جماعت شو.",
+    "r": "dar arusi hame mi-raghsidand, man ham raghsidam; khāhi na-shavi rosvā, ham-rang-e jamā'at show.",
+    "en": "At the wedding everyone was dancing, so I danced too – when in Rome!",
+    "faV": "دَر عَروسی هَمه می‌رَقصیدَند، مَن هَم رَقصیدَم؛ خواهی نَشَوی رُسوا، هَم‌رَنگِ جَماعَت شَو.",
+    "a": "fb218f0b1cda"
+   },
+   "faV": "خواهی نَشَوی رُسوا، هَم‌رَنگِ جَماعَت شَو.",
+   "a": "5d3c6b95ca18"
+  },
+  {
+   "fa": "عاقبت گرگ‌زاده گرگ شود.",
+   "r": "āghebat gorg-zāde gorg shavad.",
+   "lit": "in the end a wolf cub becomes a wolf",
+   "en": "a leopard can't change its spots",
+   "kind": "proverb",
+   "cat": "character",
+   "note": "From Saadi's Golestan, in the story of a robber's son whom a king tried to bring up as a good man.",
+   "ex": {
+    "fa": "به او اعتماد کردیم، ولی دوباره دزدی کرد؛ عاقبت گرگ‌زاده گرگ شود.",
+    "r": "be u e'temād kardim, vali dobāre dozdi kard; āghebat gorg-zāde gorg shavad.",
+    "en": "We trusted him, but he stole again – a leopard can't change its spots.",
+    "faV": "به او اِعتِماد کَردیم، وَلی دوباره دُزدی کَرد؛ عاقِبَت گُرگ‌زاده گُرگ شَوَد.",
+    "a": "3e5575531871"
+   },
+   "faV": "عاقِبَت گُرگ‌زاده گُرگ شَوَد.",
+   "a": "b138cf6ac82d"
+  },
+  {
+   "fa": "آب زیر کاه",
+   "r": "āb-e zir-e kāh",
+   "lit": "water under straw",
+   "en": "a sly one; a dark horse",
+   "kind": "idiom",
+   "cat": "character",
+   "note": "Water hidden under straw looks like solid ground – until you step on it. Said of quiet people with hidden plans.",
+   "ex": {
+    "fa": "خیلی ساکت است، ولی آب زیر کاه است.",
+    "r": "kheyli sāket ast, vali āb-e zir-e kāh ast.",
+    "en": "He's very quiet, but he's a sly one.",
+    "faV": "خَیلی ساکِت اَست، وَلی آبِ زیرِ کاه اَست.",
+    "a": "791ccd458a08"
+   },
+   "faV": "آبِ زیرِ کاه",
+   "a": "b5c6d7b26083"
+  },
+  {
+   "fa": "از دماغ فیل افتاده",
+   "r": "az damāgh-e fil oftāde",
+   "lit": "fallen from an elephant's trunk",
+   "en": "stuck-up; full of himself",
+   "kind": "idiom",
+   "cat": "character",
+   "note": "About someone who acts as if they were too good for everyone else.",
+   "ex": {
+    "fa": "با هیچ‌کس حرف نمی‌زند، انگار از دماغ فیل افتاده است.",
+    "r": "bā hich-kas harf nemi-zanad, engār az damāgh-e fil oftāde ast.",
+    "en": "He doesn't talk to anyone – as if he were too good for us.",
+    "faV": "با هیچ‌کَس حَرف نِمی‌زَنَد، اِنگار اَز دَماغِ فیل اُفتاده اَست.",
+    "a": "ab1935520eee"
+   },
+   "faV": "اَز دَماغِ فیل اُفتاده",
+   "a": "d23c6a3b55e7"
+  },
+  {
+   "fa": "یکی به نعل می‌زند، یکی به میخ.",
+   "r": "yek-i be na'l mi-zanad, yek-i be mikh.",
+   "lit": "he strikes once on the horseshoe, once on the nail",
+   "en": "he plays both sides",
+   "kind": "idiom",
+   "cat": "character",
+   "note": "About someone who keeps both sides of an argument happy without committing to either.",
+   "ex": {
+    "fa": "در دعوای ما یکی به نعل می‌زند، یکی به میخ.",
+    "r": "dar da'vā-ye mā yek-i be na'l mi-zanad, yek-i be mikh.",
+    "en": "In our quarrel he keeps playing both sides.",
+    "faV": "دَر دَعوایِ ما یِکی به نَعل می‌زَنَد، یِکی به میخ.",
+    "a": "f66f41c20949"
+   },
+   "faV": "یِکی به نَعل می‌زَنَد، یِکی به میخ.",
+   "a": "dfc10166b0ce"
+  },
+  {
+   "fa": "دو قورت و نیمش هم باقی است.",
+   "r": "do ghort o nim-ash ham bāghi ast.",
+   "lit": "his two and a half gulps are still to come",
+   "en": "and he still has the nerve to complain",
+   "kind": "idiom",
+   "cat": "character",
+   "note": "About someone who is in the wrong yet acts as if he were owed something.",
+   "ex": {
+    "fa": "دیر آمده و دو قورت و نیمش هم باقی است!",
+    "r": "dir āmade o do ghort o nim-ash ham bāghi ast!",
+    "en": "He's late and he still has the nerve to complain!",
+    "faV": "دیر آمَده و دو قورت و نیمَش هَم باقی اَست!",
+    "a": "391e61c629b0"
+   },
+   "faV": "دو قورت و نیمَش هَم باقی اَست.",
+   "a": "862d2aa3ff57"
+  },
+  {
+   "fa": "هم خدا را می‌خواهد، هم خرما را.",
+   "r": "ham khodā rā mi-khāhad, ham khormā rā.",
+   "lit": "he wants both God and the dates",
+   "en": "he wants to have his cake and eat it",
+   "kind": "proverb",
+   "cat": "character",
+   "note": "About someone who wants two things that cannot go together.",
+   "ex": {
+    "fa": "هم حقوق بالا می‌خواهد، هم کار کم؛ هم خدا را می‌خواهد، هم خرما را.",
+    "r": "ham hoghugh-e bālā mi-khāhad, ham kār-e kam; ham khodā rā mi-khāhad, ham khormā rā.",
+    "en": "He wants a high salary and very little work – he wants to have his cake and eat it.",
+    "faV": "هَم حُقوقِ بالا می‌خواهَد، هَم کارِ کَم؛ هَم خُدا را می‌خواهَد، هَم خُرما را.",
+    "a": "91d7d5f9fd50"
+   },
+   "faV": "هَم خُدا را می‌خواهَد، هَم خُرما را.",
+   "a": "83c38069591d"
+  },
+  {
+   "fa": "سنگ بزرگ علامت نزدن است.",
+   "r": "sang-e bozorg alāmat-e na-zadan ast.",
+   "lit": "a big stone is a sign of not throwing",
+   "en": "big promises mean nothing will be done",
+   "kind": "proverb",
+   "cat": "character",
+   "note": "Someone who picks up a stone too big to throw never meant to throw it.",
+   "ex": {
+    "fa": "می‌گوید یک‌شبه همه چیز را درست می‌کند؛ سنگ بزرگ علامت نزدن است.",
+    "r": "mi-guyad yek-shabe hame chiz rā dorost mi-konad; sang-e bozorg alāmat-e na-zadan ast.",
+    "en": "He says he'll fix everything overnight – big promises, no action.",
+    "faV": "می‌گویَد یِک‌شَبه هَمه چیز را دُرُست می‌کُنَد؛ سَنگِ بُزُرگ عَلامَتِ نَزَدَن اَست.",
+    "a": "cef96cf76a05"
+   },
+   "faV": "سَنگِ بُزُرگ عَلامَتِ نَزَدَن اَست.",
+   "a": "59b69489fbe0"
+  },
+  {
+   "fa": "کم آوردن",
+   "r": "kam āvardan",
+   "lit": "to come up short",
+   "en": "to have no comeback; to give up",
+   "kind": "idiom",
+   "cat": "character",
+   "note": "Informal and very common among young people; also for running short of something: پول کم آوردم (I ran out of money).",
+   "ex": {
+    "fa": "در بحث با او کم آوردم.",
+    "r": "dar bahs bā u kam āvardam.",
+    "en": "I lost the argument with her – I had nothing left to say.",
+    "faV": "دَر بَحث با او کَم آوَردَم.",
+    "a": "7e1e676361b7"
+   },
+   "faV": "کَم آوَردَن",
+   "a": "564bf3aa041d"
+  },
+  {
+   "fa": "چوب خدا صدا ندارد.",
+   "r": "chub-e khodā sedā na-dārad.",
+   "lit": "God's stick makes no sound",
+   "en": "divine justice strikes without warning",
+   "kind": "proverb",
+   "cat": "fate",
+   "note": "Said when a wrongdoer finally gets what he deserves.",
+   "ex": {
+    "fa": "آن همه ظلم کرد و حالا خودش گرفتار شد؛ چوب خدا صدا ندارد.",
+    "r": "ān hame zolm kard o hālā khod-ash gereftār shod; chub-e khodā sedā na-dārad.",
+    "en": "He did so much wrong and now he's in trouble himself – justice catches up with you.",
+    "faV": "آن هَمه ظُلم کَرد و حالا خودَش گِرِفتار شُد؛ چوبِ خُدا صِدا نَدارَد.",
+    "a": "a466c9023bce"
+   },
+   "faV": "چوبِ خُدا صِدا نَدارَد.",
+   "a": "6b23178a050b"
+  },
+  {
+   "fa": "خدا را چه دیدی؟",
+   "r": "khodā rā che didi?",
+   "lit": "what have you seen of God?",
+   "en": "who knows? you never know",
+   "kind": "idiom",
+   "cat": "fate",
+   "note": "Hopeful: there is always a chance that things will turn out well.",
+   "ex": {
+    "fa": "شاید سال بعد ما هم به ایران برویم؛ خدا را چه دیدی؟",
+    "r": "shāyad sāl-e ba'd mā ham be Irān be-ravim; khodā rā che didi?",
+    "en": "Maybe next year we'll go to Iran too – who knows?",
+    "faV": "شایَد سالِ بَعد ما هَم به ایران بِرَویم؛ خُدا را چه دیدی؟",
+    "a": "3133d3b69145"
+   },
+   "faV": "خُدا را چه دیدی؟",
+   "a": "8e7168faf3db"
+  },
+  {
+   "fa": "مرگ یک بار، شیون یک بار.",
+   "r": "marg yek bār, shivan yek bār.",
+   "lit": "death once, mourning once",
+   "en": "you only die once – let's get it over with",
+   "kind": "proverb",
+   "cat": "fate",
+   "note": "Said when you decide to face something unpleasant once and for all.",
+   "ex": {
+    "fa": "بالاخره باید به او بگوییم؛ مرگ یک بار، شیون یک بار.",
+    "r": "bālākhare bāyad be u be-guyim; marg yek bār, shivan yek bār.",
+    "en": "We'll have to tell him sooner or later – let's just get it over with.",
+    "faV": "بالاخَره بایَد به او بِگوییم؛ مَرگ یِک بار، شیوَن یِک بار.",
+    "a": "40ce8daad77c"
+   },
+   "faV": "مَرگ یِک بار، شیوَن یِک بار.",
+   "a": "a7f8c5689ba4"
+  },
+  {
+   "fa": "تا سه نشود، بازی نشود.",
+   "r": "tā se na-shavad, bāzi na-shavad.",
+   "lit": "until it's three, it isn't a game",
+   "en": "third time lucky",
+   "kind": "proverb",
+   "cat": "fate",
+   "note": "Spoken: تا سه نشه، بازی نشه. Encouragement to have one more try – or, jokingly, after something happens twice.",
+   "ex": {
+    "fa": "دو بار رد شدی؟ دوباره امتحان کن؛ تا سه نشود، بازی نشود!",
+    "r": "do bār rad shodi? dobāre emtehān kon; tā se na-shavad, bāzi na-shavad!",
+    "en": "You've failed twice? Try again – third time lucky!",
+    "faV": "دو بار رَد شُدی؟ دوباره اِمتِحان کُن؛ تا سه نَشَوَد، بازی نَشَوَد!",
+    "a": "608082e0e902"
+   },
+   "faV": "تا سه نَشَوَد، بازی نَشَوَد.",
+   "a": "9802ddd1292a"
+  },
+  {
+   "fa": "سنگ مفت، گنجشک مفت.",
+   "r": "sang moft, gonjeshk moft.",
+   "lit": "the stone is free, the sparrow is free",
+   "en": "nothing to lose – it's worth a try",
+   "kind": "proverb",
+   "cat": "fate",
+   "note": "If a throw costs nothing, why not try for the bird?",
+   "ex": {
+    "fa": "درخواست بده، شاید قبول کنند؛ سنگ مفت، گنجشک مفت.",
+    "r": "darkhāst be-deh, shāyad ghabul konand; sang moft, gonjeshk moft.",
+    "en": "Apply – maybe they'll take you; you've nothing to lose.",
+    "faV": "دَرخواست بِدِه، شایَد قَبول کُنَند؛ سَنگ مُفت، گُنجِشک مُفت.",
+    "a": "d837593f1550"
+   },
+   "faV": "سَنگ مُفت، گُنجِشک مُفت.",
+   "a": "2c06c20c63fe"
+  },
+  {
+   "fa": "کارد به استخوانم رسیده است.",
+   "r": "kārd be ostokhān-am raside ast.",
+   "lit": "the knife has reached my bone",
+   "en": "I've had enough; I can't take any more",
+   "kind": "idiom",
+   "cat": "trouble",
+   "note": "Spoken: کارد به استخونم رسیده.",
+   "ex": {
+    "fa": "از این همه بی‌نظمی کارد به استخوانم رسیده است.",
+    "r": "az in hame bi-nazmi kārd be ostokhān-am raside ast.",
+    "en": "I've had it up to here with all this mess.",
+    "faV": "اَز این هَمه بی‌نَظمی کارد به اُستُخوانَم رَسیده اَست.",
+    "a": "362a09874b63"
+   },
+   "faV": "کارد به اُستُخوانَم رَسیده اَست.",
+   "a": "ee857c10548a"
+  },
+  {
+   "fa": "آب از آب تکان نخورد.",
+   "r": "āb az āb tekān na-khord.",
+   "lit": "the water didn't stir from the water",
+   "en": "nothing happened; nobody batted an eyelid",
+   "kind": "idiom",
+   "cat": "trouble",
+   "note": "Said when something that should have caused a stir changed nothing at all.",
+   "ex": {
+    "fa": "این همه شکایت کردیم، ولی آب از آب تکان نخورد.",
+    "r": "in hame shekāyat kardim, vali āb az āb tekān na-khord.",
+    "en": "We complained and complained, but nothing changed.",
+    "faV": "این هَمه شِکایَت کَردیم، وَلی آب اَز آب تِکان نَخورد.",
+    "a": "5b12c3dc891d"
+   },
+   "faV": "آب اَز آب تِکان نَخورد.",
+   "a": "d7303741a602"
+  },
+  {
+   "fa": "آب پاکی را روی دست کسی ریختن",
+   "r": "āb-e pāki rā ru-ye dast-e kas-i rikhtan",
+   "lit": "to pour the clean water over someone's hands",
+   "en": "to dash someone's hopes; to give a final no",
+   "kind": "idiom",
+   "cat": "trouble",
+   "note": "From washing: the last, clean water poured over the hands means the job is finished.",
+   "ex": {
+    "fa": "مدیر آب پاکی را روی دستم ریخت و گفت کاری در کار نیست.",
+    "r": "modir āb-e pāki rā ru-ye dast-am rikht o goft kār-i dar kār nist.",
+    "en": "The manager told me flatly that there was no job.",
+    "faV": "مُدیر آبِ پاکی را رویِ دَستَم ریخت و گُفت کاری دَر کار نیست.",
+    "a": "22ed3147a204"
+   },
+   "faV": "آبِ پاکی را رویِ دَستِ کَسی ریختَن",
+   "a": "5ef7f15e328b"
+  },
+  {
+   "fa": "آب‌ها از آسیاب افتاد.",
+   "r": "āb-hā az āsiyāb oftād.",
+   "lit": "the waters have fallen from the mill",
+   "en": "things have calmed down",
+   "kind": "idiom",
+   "cat": "trouble",
+   "note": "Like a watermill falling silent when the stream stops.",
+   "ex": {
+    "fa": "صبر کن تا آب‌ها از آسیاب بیفتد، بعد با پدرت حرف بزن.",
+    "r": "sabr kon tā āb-hā az āsiyāb biyoftad, ba'd bā pedar-at harf be-zan.",
+    "en": "Wait till things calm down, then talk to your father.",
+    "faV": "صَبر کُن تا آب‌ها اَز آسیاب بیُفتَد، بَعد با پِدَرَت حَرف بِزَن.",
+    "a": "a8db895ff7d2"
+   },
+   "faV": "آب‌ها اَز آسیاب اُفتاد.",
+   "a": "87f14db0ca98"
+  },
+  {
+   "fa": "سنگ روی یخ شدن",
+   "r": "sang ru-ye yakh shodan",
+   "lit": "to become a stone on ice",
+   "en": "to be shown up, made to look a fool",
+   "kind": "idiom",
+   "cat": "trouble",
+   "note": "Usually in front of other people.",
+   "ex": {
+    "fa": "جلوی همه سنگ روی یخ شدم.",
+    "r": "jelow-ye hame sang ru-ye yakh shodam.",
+    "en": "I was made to look a fool in front of everyone.",
+    "faV": "جِلَویِ هَمه سَنگ رویِ یَخ شُدَم.",
+    "a": "0da983c0dc47"
+   },
+   "faV": "سَنگ رویِ یَخ شُدَن",
+   "a": "096c13fafb17"
+  },
+  {
+   "fa": "به خاطر یک دستمال، قیصریه را آتش زدن",
+   "r": "be khāter-e yek dastmāl, gheysariye rā ātash zadan",
+   "lit": "to set the whole bazaar on fire for one handkerchief",
+   "en": "to do great damage for a small gain",
+   "kind": "idiom",
+   "cat": "trouble",
+   "note": "A قیصریه was the covered royal bazaar of many Iranian cities.",
+   "ex": {
+    "fa": "برای یک دعوای کوچک، به خاطر یک دستمال قیصریه را آتش نزن.",
+    "r": "barā-ye yek da'vā-ye kuchek, be khāter-e yek dastmāl gheysariye rā ātash na-zan.",
+    "en": "Don't wreck everything over one small quarrel.",
+    "faV": "بَرایِ یِک دَعوایِ کوچِک، به خاطِرِ یِک دَستمال قَیصَریه را آتَش نَزَن.",
+    "a": "b27800a3ca76"
+   },
+   "faV": "به خاطِرِ یِک دَستمال، قَیصَریه را آتَش زَدَن",
+   "a": "72c671eb30a7"
+  },
+  {
+   "fa": "خودم کردم که لعنت بر خودم باد.",
+   "r": "khod-am kardam ke la'nat bar khod-am bād.",
+   "lit": "I did it myself, so let the curse be on me",
+   "en": "I've only myself to blame",
+   "kind": "proverb",
+   "cat": "trouble",
+   "note": "باد here is the old 'may it be', not the word for wind.",
+   "ex": {
+    "fa": "به حرف هیچ‌کس گوش ندادم؛ خودم کردم که لعنت بر خودم باد.",
+    "r": "be harf-e hich-kas gush na-dādam; khod-am kardam ke la'nat bar khod-am bād.",
+    "en": "I didn't listen to anyone – I've only myself to blame.",
+    "faV": "به حَرفِ هیچ‌کَس گوش نَدادَم؛ خودَم کَردَم که لَعنَت بَر خودَم باد.",
+    "a": "2caa8115559c"
+   },
+   "faV": "خودَم کَردَم که لَعنَت بَر خودَم باد.",
+   "a": "52bd86c5bf53"
+  },
+  {
+   "fa": "اعصابم خرد است.",
+   "r": "a'sāb-am khord ast.",
+   "lit": "my nerves are crushed",
+   "en": "I'm stressed out",
+   "kind": "idiom",
+   "cat": "trouble",
+   "note": "Everyday and informal; spoken اعصابم خرده (a'sāb-am khorde).",
+   "ex": {
+    "fa": "امروز با من حرف نزن، اعصابم خرد است.",
+    "r": "emruz bā man harf na-zan, a'sāb-am khord ast.",
+    "en": "Don't talk to me today – I'm stressed out.",
+    "faV": "اِمروز با مَن حَرف نَزَن، اَعصابَم خُرد اَست.",
+    "a": "99df43ad9838"
+   },
+   "faV": "اَعصابَم خُرد اَست.",
+   "a": "653920c12258"
+  },
+  {
+   "fa": "حوصله‌ام سر رفت.",
+   "r": "howsele-am sar raft.",
+   "lit": "my patience boiled over",
+   "en": "I'm bored stiff",
+   "kind": "idiom",
+   "cat": "trouble",
+   "note": "Like milk boiling over the top of the pot; spoken حوصله‌م سر رفت.",
+   "ex": {
+    "fa": "در آن مهمانی حوصله‌ام سر رفت.",
+    "r": "dar ān mehmāni howsele-am sar raft.",
+    "en": "I was bored stiff at that party.",
+    "faV": "دَر آن مِهمانی حَوصِله‌اَم سَر رَفت.",
+    "a": "3b68ffb5ea20"
+   },
+   "faV": "حَوصِله‌اَم سَر رَفت.",
+   "a": "c2087740561f"
+  },
+  {
+   "fa": "حال کسی را گرفتن",
+   "r": "hāl-e kas-i rā gereftan",
+   "lit": "to take away someone's mood",
+   "en": "to spoil someone's fun; to put someone in their place",
+   "kind": "idiom",
+   "cat": "trouble",
+   "note": "Informal and very common: حالم را گرفت (he really brought me down).",
+   "ex": {
+    "fa": "با آن حرفش حسابی حالم را گرفت.",
+    "r": "bā ān harf-ash hesābi hāl-am rā gereft.",
+    "en": "That remark of his really brought me down.",
+    "faV": "با آن حَرفَش حِسابی حالَم را گِرِفت.",
+    "a": "759459c78e1b"
+   },
+   "faV": "حالِ کَسی را گِرِفتَن",
+   "a": "6863b2260d68"
+  },
+  {
+   "fa": "ضایع شدن",
+   "r": "zāye' shodan",
+   "lit": "to be spoiled",
+   "en": "to embarrass yourself, look stupid",
+   "kind": "idiom",
+   "cat": "trouble",
+   "note": "Youth slang; in standard Persian ضایع means 'wasted, spoiled'.",
+   "ex": {
+    "fa": "جلوی دوستانم حسابی ضایع شدم.",
+    "r": "jelow-ye dustān-am hesābi zāye' shodam.",
+    "en": "I totally embarrassed myself in front of my friends.",
+    "faV": "جِلَویِ دوستانَم حِسابی ضایعِ شُدَم.",
+    "a": "8e935e724851"
+   },
+   "faV": "ضایعِ شُدَن",
+   "a": "1ee9b0219a12"
+  },
+  {
+   "fa": "خر ما از کرگی دم نداشت.",
+   "r": "khar-e mā az korregi dam na-dāsht.",
+   "lit": "our donkey had no tail even as a foal",
+   "en": "we never had any luck anyway",
+   "kind": "proverb",
+   "cat": "humour",
+   "note": "A cheerful shrug when you lose something you never really had.",
+   "ex": {
+    "fa": "شانس که نداریم؛ خر ما از کرگی دم نداشت!",
+    "r": "shāns ke na-dārim; khar-e mā az korregi dam na-dāsht!",
+    "en": "We never have any luck – it's always been that way!",
+    "faV": "شانس که نَداریم؛ خَرِ ما اَز کُرِّگی دَم نَداشت!",
+    "a": "d179cb0eeb1a"
+   },
+   "faV": "خَرِ ما اَز کُرِّگی دَم نَداشت.",
+   "a": "d5ef9abbe194"
+  },
+  {
+   "fa": "خر بیار و باقالی بار کن.",
+   "r": "khar biyār o bāghāli bār kon.",
+   "lit": "bring a donkey and load up the broad beans",
+   "en": "a total free-for-all",
+   "kind": "idiom",
+   "cat": "humour",
+   "note": "About a place with no order or rules. بیار is the everyday form of بیاور.",
+   "ex": {
+    "fa": "در آن اداره هیچ نظمی نیست؛ خر بیار و باقالی بار کن!",
+    "r": "dar ān edāre hich nazm-i nist; khar biyār o bāghāli bār kon!",
+    "en": "There's no order at all in that office – it's a free-for-all!",
+    "faV": "دَر آن اِداره هیچ نَظمی نیست؛ خَر بیار و باقالی بار کُن!",
+    "a": "e19d6f82c070"
+   },
+   "faV": "خَر بیار و باقالی بار کُن.",
+   "a": "6a6d435cf6a6"
+  },
+  {
+   "fa": "گربه دستش به گوشت نمی‌رسد، می‌گوید بو می‌دهد.",
+   "r": "gorbe dast-ash be gusht nemi-resad, mi-guyad bu mi-dahad.",
+   "lit": "the cat can't reach the meat, so it says it smells",
+   "en": "sour grapes",
+   "kind": "proverb",
+   "cat": "humour",
+   "note": "About someone who runs down what he can't have.",
+   "ex": {
+    "fa": "حالا که قبول نشده، می‌گوید آن دانشگاه بد است؛ گربه دستش به گوشت نمی‌رسد، می‌گوید بو می‌دهد.",
+    "r": "hālā ke ghabul na-shode, mi-guyad ān dāneshgāh bad ast; gorbe dast-ash be gusht nemi-resad, mi-guyad bu mi-dahad.",
+    "en": "Now that he hasn't got in, he says that university is bad – sour grapes.",
+    "faV": "حالا که قَبول نَشُده، می‌گویَد آن دانِشگاه بَد اَست؛ گُربه دَستَش به گوشت نِمی‌رِسَد، می‌گویَد بو می‌دَهَد.",
+    "a": "19a52cc0fb53"
+   },
+   "faV": "گُربه دَستَش به گوشت نِمی‌رِسَد، می‌گویَد بو می‌دَهَد.",
+   "a": "8c2aa8ef1cb4"
+  },
+  {
+   "fa": "دیگ به دیگ می‌گوید رویت سیاه.",
+   "r": "dig be dig mi-guyad ru-yat siyāh.",
+   "lit": "the pot says to the pot: your face is black",
+   "en": "the pot calling the kettle black",
+   "kind": "proverb",
+   "cat": "humour",
+   "note": "Almost word for word the English saying.",
+   "ex": {
+    "fa": "تو به او می‌گویی تنبل؟ دیگ به دیگ می‌گوید رویت سیاه!",
+    "r": "to be u mi-guyi tanbal? dig be dig mi-guyad ru-yat siyāh!",
+    "en": "You call him lazy? That's the pot calling the kettle black!",
+    "faV": "تو به او می‌گویی تَنبَل؟ دیگ به دیگ می‌گویَد رویَت سیاه!",
+    "a": "b423b11c687d"
+   },
+   "faV": "دیگ به دیگ می‌گویَد رویَت سیاه.",
+   "a": "14566762beaa"
+  },
+  {
+   "fa": "فیلش یاد هندوستان کرده.",
+   "r": "fil-ash yād-e hendustān karde.",
+   "lit": "his elephant has remembered India",
+   "en": "he's longing for the old days",
+   "kind": "idiom",
+   "cat": "humour",
+   "note": "About someone who is suddenly nostalgic for their past – an old love, an old habit – like a captive elephant dreaming of India.",
+   "ex": {
+    "fa": "دوباره عکس‌های جوانی‌اش را نگاه می‌کند؛ فیلش یاد هندوستان کرده!",
+    "r": "dobāre aks-hā-ye javāni-ash rā negāh mi-konad; fil-ash yād-e hendustān karde!",
+    "en": "He's looking at photos of his youth again – he's feeling nostalgic!",
+    "faV": "دوباره عَکس‌هایِ جَوانی‌اَش را نِگاه می‌کُنَد؛ فیلَش یادِ هِندوستان کَرده!",
+    "a": "e66a0d678555"
+   },
+   "faV": "فیلَش یادِ هِندوستان کَرده.",
+   "a": "b2887a80db11"
+  },
+  {
+   "fa": "اول چاه را بکن، بعد منار را بدزد.",
+   "r": "avval chāh rā be-kan, ba'd menār rā be-dozd.",
+   "lit": "first dig the well, then steal the minaret",
+   "en": "plan ahead before you act",
+   "kind": "proverb",
+   "cat": "humour",
+   "note": "From the tale of a thief who stole a minaret and then had nowhere to hide it.",
+   "ex": {
+    "fa": "قبل از استعفا یک کار دیگر پیدا کن؛ اول چاه را بکن، بعد منار را بدزد.",
+    "r": "ghabl az este'fā yek kār-e digar peydā kon; avval chāh rā be-kan, ba'd menār rā be-dozd.",
+    "en": "Find another job before you resign – plan ahead.",
+    "faV": "قَبل اَز اِستِعفا یِک کارِ دیگَر پَیدا کُن؛ اَوَّل چاه را بِکَن، بَعد مِنار را بِدُزد.",
+    "a": "ca5537ab19c2"
+   },
+   "faV": "اَوَّل چاه را بِکَن، بَعد مِنار را بِدُزد.",
+   "a": "722fb0c8ba3c"
+  },
+  {
+   "fa": "مفت باشد، کوفت باشد.",
+   "r": "moft bāshad, kuft bāshad.",
+   "lit": "if it's free, let it be poison",
+   "en": "if it's free, I'll take it",
+   "kind": "proverb",
+   "cat": "humour",
+   "note": "Teasing people who grab anything that costs nothing; کوفت is a rude word for a nasty illness.",
+   "ex": {
+    "fa": "سه بشقاب غذای مجانی خورد؛ مفت باشد، کوفت باشد!",
+    "r": "se boshghāb ghazā-ye majjāni khord; moft bāshad, kuft bāshad!",
+    "en": "He ate three plates of free food – if it's free, it's for me!",
+    "faV": "سه بُشقاب غَذایِ مَجّانی خورد؛ مُفت باشَد، کوفت باشَد!",
+    "a": "6036fe66025b"
+   },
+   "faV": "مُفت باشَد، کوفت باشَد.",
+   "a": "1f3fe164a8c4"
+  },
+  {
+   "fa": "آفتابه‌لگن هفت دست، شام و ناهار هیچ.",
+   "r": "āftābe-lagan haft dast, shām o nāhār hich.",
+   "lit": "seven sets of jugs and basins, but no dinner and no lunch",
+   "en": "all show and no substance",
+   "kind": "proverb",
+   "cat": "humour",
+   "note": "A host with seven fine sets for washing the guests' hands – and nothing to eat. Often said with هیچی at the end.",
+   "ex": {
+    "fa": "خانه‌اش پر از مبل گران است، ولی یخچالش خالی؛ آفتابه‌لگن هفت دست، شام و ناهار هیچ.",
+    "r": "khāne-ash por az mobl-e gerān ast, vali yakhchāl-ash khāli; āftābe-lagan haft dast, shām o nāhār hich.",
+    "en": "His house is full of expensive furniture, but the fridge is empty – all show and no substance.",
+    "faV": "خانه‌اَش پُر اَز مُبلِ گِران اَست، وَلی یَخچالَش خالی؛ آفتابه‌لَگَن هَفت دَست، شام و ناهار هیچ.",
+    "a": "f278ab799ceb"
+   },
+   "faV": "آفتابه‌لَگَن هَفت دَست، شام و ناهار هیچ.",
+   "a": "14ee680d419f"
+  }
+ ]
+}

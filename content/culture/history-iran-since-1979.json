@@ -27,38 +27,218 @@
   }
  ],
  "sentences": [
-  {"fa": "انقلاب ایران در بهمن ۱۳۵۷ پیروز شد.", "r": "enghelāb-e Irān dar Bahman-e hezār-o-sisad-o-panjāh-o-haft piruz shod.", "en": "The Iranian revolution triumphed in Bahman 1357 (February 1979)."},
-  {"fa": "شاه در ژانویه‌ی ۱۹۷۹ ایران را ترک کرد.", "r": "shāh dar zhānviye-ye hezār-o-nohsad-o-haftād-o-noh Irān rā tark kard.", "en": "The shah left Iran in January 1979."},
-  {"fa": "آیت‌الله خمینی در ۱۲ بهمن به ایران بازگشت.", "r": "āyatollāh Khomeyni dar davāzdah-e Bahman be Irān bāzgasht.", "en": "Ayatollah Khomeini returned to Iran on 12 Bahman (1 February)."},
-  {"fa": "جمهوری اسلامی در فروردین ۱۳۵۸ اعلام شد.", "r": "jomhuri-ye eslāmi dar Farvardin-e hezār-o-sisad-o-panjāh-o-hasht e'lām shod.", "en": "The Islamic Republic was proclaimed in Farvardin 1358 (April 1979)."},
-  {"fa": "جنگ ایران و عراق هشت سال طول کشید.", "r": "jang-e Irān va Erāgh hasht sāl tul keshid.", "en": "The Iran–Iraq war lasted eight years."},
-  {"fa": "ایرانیان این جنگ را «دفاع مقدس» می‌نامند.", "r": "irāniyān in jang rā «defā'-e moghaddas» mi-nāmand.", "en": "Iranians call this war 'the Sacred Defence'."},
-  {"fa": "در سال ۲۰۱۵ ایران و شش قدرت جهانی به توافق هسته‌ای رسیدند.", "r": "dar sāl-e do-hezār-o-pānzdah Irān va shesh ghodrat-e jahāni be tavāfogh-e haste-i residand.", "en": "In 2015 Iran and six world powers reached a nuclear agreement."},
-  {"fa": "در سال ۲۰۲۲ شعار «زن، زندگی، آزادی» در خیابان‌ها شنیده شد.", "r": "dar sāl-e do-hezār-o-bist-o-do sho'ār-e «zan, zendegi, āzādi» dar khiyābān-hā shenide shod.", "en": "In 2022 the slogan 'Woman, Life, Freedom' was heard in the streets."},
-  {"fa": "جنگ تازه در ۲۸ فوریه‌ی ۲۰۲۶ شروع شد.", "r": "jang-e tāze dar bist-o-hasht-e fevriye-ye do-hezār-o-bist-o-shesh shoru' shod.", "en": "The new war began on 28 February 2026."},
-  {"fa": "در روز اول جنگ، آیت‌الله خامنه‌ای کشته شد.", "r": "dar ruz-e avval-e jang, āyatollāh Khāmene'i koshte shod.", "en": "On the first day of the war, Ayatollah Khamenei was killed."},
-  {"fa": "مجلس خبرگان پسرش، مجتبی خامنه‌ای، را به رهبری برگزید.", "r": "Majles-e Khobregān pesar-ash, Mojtabā Khāmene'i, rā be rahbari bargozid.", "en": "The Assembly of Experts chose his son, Mojtaba Khamenei, as Leader."},
-  {"fa": "ایران تنگه‌ی هرمز را بست و قیمت نفت بالا رفت.", "r": "Irān tange-ye Hormoz rā bast va gheymat-e naft bālā raft.", "en": "Iran closed the Strait of Hormuz and the price of oil rose."}
+  {
+   "fa": "انقلاب ایران در بهمن ۱۳۵۷ پیروز شد.",
+   "r": "enghelāb-e Irān dar Bahman-e hezār-o-sisad-o-panjāh-o-haft piruz shod.",
+   "en": "The Iranian revolution triumphed in Bahman 1357 (February 1979).",
+   "faV": "اِنقِلابِ ایران دَر بَهمَنِ ۱۳۵۷ پیروز شُد.",
+   "a": "b7b0323707b8"
+  },
+  {
+   "fa": "شاه در ژانویه‌ی ۱۹۷۹ ایران را ترک کرد.",
+   "r": "shāh dar zhānviye-ye hezār-o-nohsad-o-haftād-o-noh Irān rā tark kard.",
+   "en": "The shah left Iran in January 1979.",
+   "faV": "شاه دَر ژانویه‌یِ ۱۹۷۹ ایران را تَرک کَرد.",
+   "a": "6c38b866e976"
+  },
+  {
+   "fa": "آیت‌الله خمینی در ۱۲ بهمن به ایران بازگشت.",
+   "r": "āyatollāh Khomeyni dar davāzdah-e Bahman be Irān bāzgasht.",
+   "en": "Ayatollah Khomeini returned to Iran on 12 Bahman (1 February).",
+   "faV": "آیَت‌اُلله خُمَینی دَر ۱۲ بَهمَن به ایران بازگَشت.",
+   "a": "34e9b7721897"
+  },
+  {
+   "fa": "جمهوری اسلامی در فروردین ۱۳۵۸ اعلام شد.",
+   "r": "jomhuri-ye eslāmi dar Farvardin-e hezār-o-sisad-o-panjāh-o-hasht e'lām shod.",
+   "en": "The Islamic Republic was proclaimed in Farvardin 1358 (April 1979).",
+   "faV": "جُمهوریِ اِسلامی دَر فَروَردینِ ۱۳۵۸ اِعلام شُد.",
+   "a": "4d32096b65b9"
+  },
+  {
+   "fa": "جنگ ایران و عراق هشت سال طول کشید.",
+   "r": "jang-e Irān va Erāgh hasht sāl tul keshid.",
+   "en": "The Iran–Iraq war lasted eight years.",
+   "faV": "جَنگِ ایران و عِراق هَشت سال طول کِشید.",
+   "a": "cfb3b6b7ae7e"
+  },
+  {
+   "fa": "ایرانیان این جنگ را «دفاع مقدس» می‌نامند.",
+   "r": "irāniyān in jang rā «defā'-e moghaddas» mi-nāmand.",
+   "en": "Iranians call this war 'the Sacred Defence'.",
+   "faV": "ایرانیان این جَنگ را «دِفاعِ مُقَدَّس» می‌نامَند.",
+   "a": "bbaf77816b99"
+  },
+  {
+   "fa": "در سال ۲۰۱۵ ایران و شش قدرت جهانی به توافق هسته‌ای رسیدند.",
+   "r": "dar sāl-e do-hezār-o-pānzdah Irān va shesh ghodrat-e jahāni be tavāfogh-e haste-i residand.",
+   "en": "In 2015 Iran and six world powers reached a nuclear agreement.",
+   "faV": "دَر سالِ ۲۰۱۵ ایران و شِش قُدرَتِ جَهانی به تَوافُقِ هَسته‌ای رِسیدَند.",
+   "a": "a33a20ecf0a8"
+  },
+  {
+   "fa": "در سال ۲۰۲۲ شعار «زن، زندگی، آزادی» در خیابان‌ها شنیده شد.",
+   "r": "dar sāl-e do-hezār-o-bist-o-do sho'ār-e «zan, zendegi, āzādi» dar khiyābān-hā shenide shod.",
+   "en": "In 2022 the slogan 'Woman, Life, Freedom' was heard in the streets.",
+   "faV": "دَر سالِ ۲۰۲۲ شُعارِ «زَن، زِندِگی، آزادی» دَر خیابان‌ها شِنیده شُد.",
+   "a": "73392094d039"
+  },
+  {
+   "fa": "جنگ تازه در ۲۸ فوریه‌ی ۲۰۲۶ شروع شد.",
+   "r": "jang-e tāze dar bist-o-hasht-e fevriye-ye do-hezār-o-bist-o-shesh shoru' shod.",
+   "en": "The new war began on 28 February 2026.",
+   "faV": "جَنگِ تازه دَر ۲۸ فِوریه‌یِ ۲۰۲۶ شُروع شُد.",
+   "a": "f5f0741806d7"
+  },
+  {
+   "fa": "در روز اول جنگ، آیت‌الله خامنه‌ای کشته شد.",
+   "r": "dar ruz-e avval-e jang, āyatollāh Khāmene'i koshte shod.",
+   "en": "On the first day of the war, Ayatollah Khamenei was killed.",
+   "faV": "دَر روزِ اَوَّلِ جَنگ، آیَت‌اُلله خامِنه‌ای کُشته شُد.",
+   "a": "50ace4613325"
+  },
+  {
+   "fa": "مجلس خبرگان پسرش، مجتبی خامنه‌ای، را به رهبری برگزید.",
+   "r": "Majles-e Khobregān pesar-ash, Mojtabā Khāmene'i, rā be rahbari bargozid.",
+   "en": "The Assembly of Experts chose his son, Mojtaba Khamenei, as Leader.",
+   "faV": "مَجلِسِ خُبرِگان پِسَرَش، مُجتَبی خامِنه‌ای، را به رَهبَری بَرگُزید.",
+   "a": "ee7893f7cee1"
+  },
+  {
+   "fa": "ایران تنگه‌ی هرمز را بست و قیمت نفت بالا رفت.",
+   "r": "Irān tange-ye Hormoz rā bast va gheymat-e naft bālā raft.",
+   "en": "Iran closed the Strait of Hormuz and the price of oil rose.",
+   "faV": "ایران تَنگه‌یِ هُرمُز را بَست و قَیمَتِ نَفت بالا رَفت.",
+   "a": "601a7d880346"
+  }
  ],
  "vocab": [
-  {"fa": "انقلاب", "r": "enghelāb", "en": "revolution"},
-  {"fa": "جمهوری", "r": "jomhuri", "en": "republic"},
-  {"fa": "رهبر", "r": "rahbar", "en": "leader; (the) Supreme Leader"},
-  {"fa": "رئیس‌جمهور", "r": "ra'is-jomhur", "en": "president"},
-  {"fa": "انتخابات", "r": "entekhābāt", "en": "election(s)"},
-  {"fa": "همه‌پرسی", "r": "hame-porsi", "en": "referendum"},
-  {"fa": "جنگ", "r": "jang", "en": "war"},
-  {"fa": "آتش‌بس", "r": "ātash-bas", "en": "ceasefire"},
-  {"fa": "شهید", "r": "shahid", "en": "martyr"},
-  {"fa": "گروگان", "r": "gerogān", "en": "hostage"},
-  {"fa": "تحریم", "r": "tahrim", "en": "sanction; boycott"},
-  {"fa": "هسته‌ای", "r": "haste-i", "en": "nuclear"},
-  {"fa": "توافق", "r": "tavāfogh", "en": "agreement"},
-  {"fa": "شعار", "r": "sho'ār", "en": "slogan"},
-  {"fa": "موشک", "r": "mushak", "en": "missile, rocket"},
-  {"fa": "تنگه", "r": "tange", "en": "strait"},
-  {"fa": "مذاکره", "r": "mozākere", "en": "negotiation"},
-  {"fa": "تورم", "r": "tavarrom", "en": "inflation"}
+  {
+   "fa": "انقلاب",
+   "r": "enghelāb",
+   "en": "revolution",
+   "faV": "اِنقِلاب",
+   "a": "11e4e25969ff"
+  },
+  {
+   "fa": "جمهوری",
+   "r": "jomhuri",
+   "en": "republic",
+   "faV": "جُمهوری",
+   "a": "94ad969a826c"
+  },
+  {
+   "fa": "رهبر",
+   "r": "rahbar",
+   "en": "leader; (the) Supreme Leader",
+   "faV": "رَهبَر",
+   "a": "0e04467c24f3"
+  },
+  {
+   "fa": "رئیس‌جمهور",
+   "r": "ra'is-jomhur",
+   "en": "president",
+   "faV": "رَئیس‌جُمهور",
+   "a": "2d2b077e0424"
+  },
+  {
+   "fa": "انتخابات",
+   "r": "entekhābāt",
+   "en": "election(s)",
+   "faV": "اِنتِخابات",
+   "a": "2179ae4f3433"
+  },
+  {
+   "fa": "همه‌پرسی",
+   "r": "hame-porsi",
+   "en": "referendum",
+   "faV": "هَمه‌پُرسی",
+   "a": "18c74bd0bb8e"
+  },
+  {
+   "fa": "جنگ",
+   "r": "jang",
+   "en": "war",
+   "faV": "جَنگ",
+   "a": "d4af3f038a72"
+  },
+  {
+   "fa": "آتش‌بس",
+   "r": "ātash-bas",
+   "en": "ceasefire",
+   "faV": "آتَش‌بَس",
+   "a": "de12b8c099d1"
+  },
+  {
+   "fa": "شهید",
+   "r": "shahid",
+   "en": "martyr",
+   "faV": "شَهید",
+   "a": "76d11e6f8fe8"
+  },
+  {
+   "fa": "گروگان",
+   "r": "gerogān",
+   "en": "hostage",
+   "faV": "گِروگان",
+   "a": "a38cdaa300fa"
+  },
+  {
+   "fa": "تحریم",
+   "r": "tahrim",
+   "en": "sanction; boycott",
+   "faV": "تَحریم",
+   "a": "fb709e514074"
+  },
+  {
+   "fa": "هسته‌ای",
+   "r": "haste-i",
+   "en": "nuclear",
+   "faV": "هَسته‌ای",
+   "a": "8a02e2a12ee5"
+  },
+  {
+   "fa": "توافق",
+   "r": "tavāfogh",
+   "en": "agreement",
+   "faV": "تَوافُق",
+   "a": "1595d2800280"
+  },
+  {
+   "fa": "شعار",
+   "r": "sho'ār",
+   "en": "slogan",
+   "faV": "شُعار",
+   "a": "2694448ec1a8"
+  },
+  {
+   "fa": "موشک",
+   "r": "mushak",
+   "en": "missile, rocket",
+   "faV": "موشَک",
+   "a": "9d8bbe377dd7"
+  },
+  {
+   "fa": "تنگه",
+   "r": "tange",
+   "en": "strait",
+   "faV": "تَنگه",
+   "a": "cc6a4a38902f"
+  },
+  {
+   "fa": "مذاکره",
+   "r": "mozākere",
+   "en": "negotiation",
+   "faV": "مُذاکِره",
+   "a": "682e3d9d5005"
+  },
+  {
+   "fa": "تورم",
+   "r": "tavarrom",
+   "en": "inflation",
+   "faV": "تَوَرُّم",
+   "a": "b1111138550b"
+  }
  ],
  "facts": [
   "The monarchy fell on 22 Bahman 1357 (11 February 1979), now a national holiday in Iran.",
@@ -68,5 +248,7 @@
   "Shirin Ebadi (2003) and Narges Mohammadi (2023) are Iran's two winners of the Nobel Peace Prize.",
   "Asghar Farhadi's A Separation (2011) and The Salesman (2016) both won the Oscar for best foreign-language film.",
   "Iranians date events by the solar calendar: the revolution is 'the revolution of '57' (1357), and the 2026 war began on 9 Esfand 1404."
- ]
+ ],
+ "titleV": "ایران پَس اَز اِنقِلاب",
+ "titleA": "57b3147788e8"
 }

@@ -1,0 +1,1135 @@
+{
+ "id": "a2-11-travelling",
+ "level": "A2",
+ "n": 11,
+ "title": "Travelling: the station, the airport and the hotel",
+ "titleFa": "سفر به اصفهان",
+ "titleR": "safar be Esfahān",
+ "intro": "Iran is a big country, and sooner or later you will take a plane, a night train or a long bus ride. This lesson gets you through the station, the airport and the hotel desk – booking, checking in, asking about breakfast and check-out – and introduces the real Persian future tense, خواهم رفت. You will mostly read it on tickets, screens and in the news; in conversation people simply use the present.",
+ "goals": [
+  "understand travel announcements, tickets and timetables",
+  "form and recognise the formal future: خواهم رفت",
+  "talk about plans the everyday way, with the present and قرار است",
+  "check in at a hotel and ask the questions travellers need"
+ ],
+ "image": "si-o-se-pol",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "At the hotel desk in Isfahan",
+   "context": "Tom and Amir have come to Isfahan by train for the Nowruz holidays. It is evening when they reach a small hotel near Naqsh-e Jahan Square.",
+   "lines": [
+    {
+     "who": "Receptionist",
+     "fa": "سلام، خوش آمدید! بفرمایید.",
+     "r": "salām, khosh āmadid! befarmāyid.",
+     "en": "Hello, welcome! How can I help?",
+     "faV": "سَلام، خوش آمَدید! بِفَرمایید.",
+     "a": "590d54c79410"
+    },
+    {
+     "who": "Amir",
+     "fa": "سلام. ما یک اتاق دوتخته برای سه شب رزرو کرده‌ایم.",
+     "r": "salām. mā yek otāgh-e do-takhte barā-ye se shab rezerv karde-im.",
+     "en": "Hello. We've booked a twin room for three nights.",
+     "col": "سلام. ما یه اتاق دوتخته برای سه شب رزرو کردیم.",
+     "colR": "salām. mā ye otāgh-e do-takhte barā-ye se shab rezerv kardim.",
+     "faV": "سَلام. ما یِک اُتاقِ دوتَخته بَرایِ سه شَب رِزِرو کَرده‌ایم.",
+     "a": "48edb9d95cd8",
+     "colV": "سَلام. ما یه اُتاقِ دوتَخته بَرایِ سه شَب رِزِرو کَردیم.",
+     "colA": "4ba96f0287f2"
+    },
+    {
+     "who": "Receptionist",
+     "fa": "بله، اتاق شما آماده است. لطفاً کارت ملی یا گذرنامه‌تان را بدهید.",
+     "r": "bale, otāgh-e shomā āmāde ast. lotfan kārt-e melli yā gozarnāme-tān rā bedahid.",
+     "en": "Yes, your room is ready. Your ID cards or passports, please.",
+     "col": "بله، اتاقتون آماده‌ست. لطفاً کارت ملی یا پاسپورتتونو بدین.",
+     "colR": "bale, otāgh-etun āmāde-st. lotfan kārt-e melli yā pāsport-etun-o bedin.",
+     "faV": "بَله، اُتاقِ شُما آماده اَست. لُطفاً کارتِ مِلّی یا گُذَرنامه‌تان را بِدَهید.",
+     "a": "f8d9aed5c178",
+     "colV": "بَله، اُتاقِتون آماده‌ست. لُطفاً کارتِ مِلّی یا پاسپورتِتونو بِدین.",
+     "colA": "fc71dad9214d"
+    },
+    {
+     "who": "Tom",
+     "fa": "بفرمایید، این گذرنامه‌ی من است. صبحانه هم دارد؟",
+     "r": "befarmāyid, in gozarnāme-ye man ast. sobhāne ham dārad?",
+     "en": "Here you are, this is my passport. Is breakfast included?",
+     "col": "بفرمایید، اینم پاسپورت من. صبحونه هم داره؟",
+     "colR": "befarmāyid, in-am pāsport-e man. sobhune ham dāre?",
+     "faV": "بِفَرمایید، این گُذَرنامه‌یِ مَن اَست. صُبحانه هَم دارَد؟",
+     "a": "e6f915c415d1",
+     "colV": "بِفَرمایید، اینَم پاسپورتِ مَن. صُبحونه هَم داره؟",
+     "colA": "166fcb38de11"
+    },
+    {
+     "who": "Receptionist",
+     "fa": "بله، صبحانه از ساعت هفت تا ده است، در طبقه‌ی اول.",
+     "r": "bale, sobhāne az sā'at-e haft tā dah ast, dar tabaghe-ye avval.",
+     "en": "Yes, breakfast is from seven to ten, on the first floor.",
+     "faV": "بَله، صُبحانه اَز ساعَتِ هَفت تا دَه اَست، دَر طَبَقه‌یِ اَوَّل.",
+     "a": "2bbee3244004"
+    },
+    {
+     "who": "Amir",
+     "fa": "ببخشید، هتل وای‌فای دارد؟",
+     "r": "bebakhshid, hotel vāy-fāy dārad?",
+     "en": "Excuse me, does the hotel have wifi?",
+     "col": "ببخشید، هتل وای‌فای داره؟",
+     "colR": "bebakhshid, hotel vāy-fāy dāre?",
+     "faV": "بِبَخشید، هُتِل وای‌فای دارَد؟",
+     "a": "804bb37d1ecf",
+     "colV": "بِبَخشید، هُتِل وای‌فای داره؟",
+     "colA": "bc1f05790ee2"
+    },
+    {
+     "who": "Receptionist",
+     "fa": "بله، رمزش روی این کارت است. این هم کلید شما: اتاق ۲۰۴، طبقه‌ی دوم.",
+     "r": "bale, ramz-ash ru-ye in kārt ast. in ham kelid-e shomā: otāgh-e devist-o-chahār, tabaghe-ye dovvom.",
+     "en": "Yes, the password is on this card. And here is your key: room 204, second floor.",
+     "col": "بله، رمزش رو این کارته. اینم کلیدتون: اتاق ۲۰۴، طبقه‌ی دوم.",
+     "colR": "bale, ramz-esh ru in kārt-e. in-am kelid-etun: otāgh-e devist-o-chahār, tabaghe-ye dovvom.",
+     "faV": "بَله، رَمزَش رویِ این کارت اَست. این هَم کِلیدِ شُما: اُتاقِ ۲۰۴، طَبَقه‌یِ دُوُّم.",
+     "a": "55b3aeb9f9bb",
+     "colV": "بَله، رَمزِش رو این کارته. اینَم کِلیدِتون: اُتاقِ ۲۰۴، طَبَقه‌یِ دُوُّم.",
+     "colA": "1dcd1b160fda"
+    },
+    {
+     "who": "Tom",
+     "fa": "ممنون. فردا می‌خواهیم میدان نقش جهان را ببینیم. از این‌جا دور است؟",
+     "r": "mamnun. fardā mi-khāhim meydān-e Naghsh-e Jahān rā bebinim. az in-jā dur ast?",
+     "en": "Thanks. Tomorrow we want to see Naqsh-e Jahan Square. Is it far from here?",
+     "col": "ممنون. فردا می‌خوایم میدون نقش جهان رو ببینیم. از این‌جا دوره؟",
+     "colR": "mamnun. fardā mi-khāym meydun-e Naghsh-e Jahān ro bebinim. az in-jā dur-e?",
+     "faV": "مَمنون. فَردا می‌خواهیم مَیدانِ نَقشِ جَهان را بِبینیم. اَز این‌جا دور اَست؟",
+     "a": "cf5566c2a7e1",
+     "colV": "مَمنون. فَردا می‌خوایم مَیدونِ نَقشِ جَهان رو بِبینیم. اَز این‌جا دوره؟",
+     "colA": "17560f6306e2"
+    },
+    {
+     "who": "Receptionist",
+     "fa": "نه، پیاده ده دقیقه راه است.",
+     "r": "na, piyāde dah daghighe rāh ast.",
+     "en": "No, it's ten minutes on foot.",
+     "col": "نه، پیاده ده دقیقه راهه.",
+     "colR": "na, piyāde dah daghighe rāh-e.",
+     "faV": "نه، پیاده دَه دَقیقه راه اَست.",
+     "a": "64892ee41ba5",
+     "colV": "نه، پیاده دَه دَقیقه راهه.",
+     "colA": "df79bd98c804"
+    },
+    {
+     "who": "Amir",
+     "fa": "یک سؤال دیگر: روز آخر ساعت چند باید اتاق را تحویل بدهیم؟",
+     "r": "yek so'āl-e digar: ruz-e ākhar sā'at-e chand bāyad otāgh rā tahvil bedahim?",
+     "en": "One more question: on the last day, what time do we have to check out?",
+     "col": "یه سؤال دیگه: روز آخر ساعت چند باید اتاقو تحویل بدیم؟",
+     "colR": "ye so'āl-e dige: ruz-e ākhar sā'at-e chand bāyad otāgh-o tahvil bedim?",
+     "faV": "یِک سُؤالِ دیگَر: روزِ آخَر ساعَتِ چَند بایَد اُتاق را تَحویل بِدَهیم؟",
+     "a": "8957c5ec960a",
+     "colV": "یه سُؤالِ دیگه: روزِ آخَر ساعَتِ چَند بایَد اُتاقو تَحویل بِدیم؟",
+     "colA": "7e9246832645"
+    },
+    {
+     "who": "Receptionist",
+     "fa": "تا ساعت دوازده. اگر قطارتان عصر حرکت می‌کند، می‌توانید چمدان‌ها را این‌جا بگذارید.",
+     "r": "tā sā'at-e davāzdah. agar ghatār-etān asr harekat mi-konad, mi-tavānid chamedān-hā rā in-jā begozārid.",
+     "en": "By twelve. If your train leaves in the afternoon, you can leave your suitcases here.",
+     "col": "تا ساعت دوازده. اگه قطارتون عصر حرکت می‌کنه، می‌تونین چمدونا رو این‌جا بذارین.",
+     "colR": "tā sā'at-e davāzdah. age ghatār-etun asr harekat mi-kone, mi-tunin chamedun-ā ro in-jā bezārin.",
+     "faV": "تا ساعَتِ دَوازدَه. اَگَر قَطارِتان عَصر حَرِکَت می‌کُنَد، می‌تَوانید چَمِدان‌ها را این‌جا بِگُذارید.",
+     "a": "9405dffb741a",
+     "colV": "تا ساعَتِ دَوازدَه. اَگه قَطارِتون عَصر حَرِکَت می‌کُنه، می‌تونین چَمِدونا رو این‌جا بِذارین.",
+     "colA": "0995fd31c37c"
+    },
+    {
+     "who": "Tom",
+     "fa": "عالی است! قطار ما ساعت پنج حرکت می‌کند.",
+     "r": "āli ast! ghatār-e mā sā'at-e panj harekat mi-konad.",
+     "en": "Great! Our train leaves at five.",
+     "col": "عالیه! قطارمون ساعت پنج حرکت می‌کنه.",
+     "colR": "āli-ye! ghatār-emun sā'at-e panj harekat mi-kone.",
+     "faV": "عالی اَست! قَطارِ ما ساعَتِ پَنج حَرِکَت می‌کُنَد.",
+     "a": "e7495f081a5e",
+     "colV": "عالیه! قَطارِمون ساعَتِ پَنج حَرِکَت می‌کُنه.",
+     "colA": "1c63c065824f"
+    },
+    {
+     "who": "Receptionist",
+     "fa": "پس امیدوارم سفر خوبی داشته باشید. شب به خیر!",
+     "r": "pas omidvār-am safar-e khub-i dāshte bāshid. shab be kheyr!",
+     "en": "Then I hope you have a lovely trip. Good night!",
+     "faV": "پَس اُمیدوارَم سَفَرِ خوبی داشته باشید. شَب به خَیر!",
+     "a": "a9c1214ee121"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Will: three ways to talk about the future",
+   "md": "English has *I'll go*, *I'm going to go* and *I'm going*. Persian has three ways too, but they differ in **style** rather than meaning:\n\n- **The formal future** – [[خواهم رفت|khāham raft|I will go]]. You read it on tickets and departure boards, hear it in the news and in station announcements, and use it in writing and in solemn promises.\n- **The present** – [[فردا می‌روم|fardā mi-ravam|I'm going tomorrow]]. This is what people actually say: a time word shows that it is the future. In Tehrani speech, [[فردا می‌رم|fardā mi-ram]].\n- **قرار است + subjunctive** – [[قرار است فردا برویم|gharār ast fardā beravim|we're due to go tomorrow]], for anything arranged or timetabled.\n\nIn the dialogue nobody uses the formal future – it would sound like a news bulletin. But on the way to Isfahan, Tom and Amir heard it on the station loudspeaker: [[قطار تهران به اصفهان ساعت هفت حرکت خواهد کرد.|ghatār-e Tehrān be Esfahān sā'at-e haft harekat khāhad kard.|The Tehran–Isfahan train will depart at seven.]]"
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "مسافر",
+     "r": "mosāfer",
+     "en": "traveller, passenger",
+     "pos": "n",
+     "note": "plural مسافران or مسافرها",
+     "faV": "مُسافِر",
+     "a": "10db1dff73df"
+    },
+    {
+     "fa": "فرودگاه",
+     "r": "forudgāh",
+     "en": "airport",
+     "pos": "n",
+     "note": "literally 'landing place'",
+     "faV": "فُرودگاه",
+     "a": "6dc58197d442"
+    },
+    {
+     "fa": "پرواز",
+     "r": "parvāz",
+     "en": "flight",
+     "pos": "n",
+     "ex": {
+      "fa": "پرواز ما ساعت شش صبح است.",
+      "r": "parvāz-e mā sā'at-e shesh-e sobh ast.",
+      "en": "Our flight is at six in the morning.",
+      "faV": "پَروازِ ما ساعَتِ شِشِ صُبح اَست.",
+      "a": "5fe751376bad"
+     },
+     "faV": "پَرواز",
+     "a": "26d2837728a6"
+    },
+    {
+     "fa": "هواپیما",
+     "r": "havāpeymā",
+     "en": "aeroplane",
+     "pos": "n",
+     "faV": "هَواپَیما",
+     "a": "80bea5760eb5"
+    },
+    {
+     "fa": "گذرنامه",
+     "r": "gozarnāme",
+     "en": "passport",
+     "pos": "n",
+     "note": "in speech usually پاسپورت pāsport",
+     "faV": "گُذَرنامه",
+     "a": "a8360cf4dbb0"
+    },
+    {
+     "fa": "چمدان",
+     "r": "chamedān",
+     "en": "suitcase",
+     "pos": "n",
+     "col": "چمدون",
+     "colR": "chamedun",
+     "faV": "چَمِدان",
+     "a": "3ad82a502c1a",
+     "colV": "چَمِدون",
+     "colA": "b9d6d55e09e3"
+    },
+    {
+     "fa": "قطار",
+     "r": "ghatār",
+     "en": "train",
+     "pos": "n",
+     "faV": "قَطار",
+     "a": "05045b9ba535"
+    },
+    {
+     "fa": "ایستگاه راه‌آهن",
+     "r": "istgāh-e rāh-āhan",
+     "en": "railway station",
+     "pos": "n",
+     "note": "راه‌آهن, literally 'iron road', is the railway",
+     "faV": "ایستگاهِ راه‌آهَن",
+     "a": "c0215e26d971"
+    },
+    {
+     "fa": "بلیت رفت و برگشت",
+     "r": "belit-e raft o bargasht",
+     "en": "return ticket",
+     "pos": "n",
+     "note": "a one-way ticket is بلیت یک‌طرفه belit-e yek-tarafe",
+     "faV": "بِلیتِ رَفت و بَرگَشت",
+     "a": "85eb9beb2ea0"
+    },
+    {
+     "fa": "کوپه",
+     "r": "kupe",
+     "en": "(train) compartment",
+     "pos": "n",
+     "note": "from French coupé; night trains have four- or six-berth compartments",
+     "faV": "کوپه",
+     "a": "679f63f35c6d"
+    },
+    {
+     "fa": "حرکت کردن",
+     "r": "harekat kardan",
+     "en": "to depart, to set off; to move",
+     "pos": "v",
+     "ex": {
+      "fa": "قطار ساعت هشت حرکت می‌کند.",
+      "r": "ghatār sā'at-e hasht harekat mi-konad.",
+      "en": "The train leaves at eight.",
+      "faV": "قَطار ساعَتِ هَشت حَرِکَت می‌کُنَد.",
+      "a": "564a82385bb9"
+     },
+     "faV": "حَرِکَت کَردَن",
+     "a": "aeb97b120cfe"
+    },
+    {
+     "fa": "رسیدن",
+     "r": "residan",
+     "en": "to arrive, to reach",
+     "pos": "v",
+     "note": "the place takes به: به اصفهان رسیدیم",
+     "ex": {
+      "fa": "کی به مشهد می‌رسیم؟",
+      "r": "key be Mashhad mi-resim?",
+      "en": "When do we get to Mashhad?",
+      "faV": "کَی به مَشهَد می‌رِسیم؟",
+      "a": "60846a3dc90b"
+     },
+     "faV": "رِسیدَن",
+     "a": "8cd9550163e3"
+    },
+    {
+     "fa": "تأخیر",
+     "r": "ta'khir",
+     "en": "delay",
+     "pos": "n",
+     "ex": {
+      "fa": "پرواز یک ساعت تأخیر دارد.",
+      "r": "parvāz yek sā'at ta'khir dārad.",
+      "en": "The flight is an hour late.",
+      "faV": "پَرواز یِک ساعَت تَأخیر دارَد.",
+      "a": "b7dc24dc17fd"
+     },
+     "faV": "تَأخیر",
+     "a": "5387ddc8b0de"
+    },
+    {
+     "fa": "هتل",
+     "r": "hotel",
+     "en": "hotel",
+     "pos": "n",
+     "faV": "هُتِل",
+     "a": "83a8194622fe"
+    },
+    {
+     "fa": "پذیرش",
+     "r": "paziresh",
+     "en": "reception (desk)",
+     "pos": "n",
+     "faV": "پَذیرِش",
+     "a": "8a1e7c20f986"
+    },
+    {
+     "fa": "رزرو کردن",
+     "r": "rezerv kardan",
+     "en": "to book, to reserve",
+     "pos": "v",
+     "faV": "رِزِرو کَردَن",
+     "a": "967cc3f2df8b"
+    },
+    {
+     "fa": "اتاق دوتخته",
+     "r": "otāgh-e do-takhte",
+     "en": "twin or double room",
+     "pos": "n",
+     "note": "literally 'two-bed room'; a single room is اتاق یک‌تخته",
+     "faV": "اُتاقِ دوتَخته",
+     "a": "d4b68e6f983a"
+    },
+    {
+     "fa": "کلید",
+     "r": "kelid",
+     "en": "key",
+     "pos": "n",
+     "faV": "کِلید",
+     "a": "61110d2a9f8d"
+    },
+    {
+     "fa": "صبحانه",
+     "r": "sobhāne",
+     "en": "breakfast",
+     "pos": "n",
+     "col": "صبحونه",
+     "colR": "sobhune",
+     "faV": "صُبحانه",
+     "a": "4c37a2a6e99d",
+     "colV": "صُبحونه",
+     "colA": "cc298b5a8dc2"
+    },
+    {
+     "fa": "تحویل دادن",
+     "r": "tahvil dādan",
+     "en": "to hand over; (in a hotel) to check out",
+     "pos": "v",
+     "note": "اتاق را تحویل دادن – to give back the room",
+     "faV": "تَحویل دادَن",
+     "a": "7fecde5c74f9"
+    },
+    {
+     "fa": "دیدنی",
+     "r": "didani",
+     "en": "worth seeing; a sight",
+     "pos": "adj",
+     "ex": {
+      "fa": "اصفهان جاهای دیدنی زیادی دارد.",
+      "r": "Esfahān jā-hā-ye didani-ye ziyād-i dārad.",
+      "en": "Isfahan has a lot of sights.",
+      "faV": "اِصفَهان جاهایِ دیدَنیِ زیادی دارَد.",
+      "a": "32c5b7cff0a5"
+     },
+     "faV": "دیدَنی",
+     "a": "e65501b423f6"
+    },
+    {
+     "fa": "قرار بودن",
+     "r": "gharār budan",
+     "en": "to be due to, to be arranged",
+     "pos": "v",
+     "note": "قرار است + subjunctive: قرار است ساعت هشت برسیم – we're due to arrive at eight",
+     "faV": "قَرار بودَن",
+     "a": "a03d5c69c6a3"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The formal future: خواهم رفت",
+   "md": "Persian has a true future tense, but you will mostly *read* it rather than hear it. Take the present of [[خواستن|khāstan|to want]] **without** [[می|mi]] – [[خواهم|khāham]], [[خواهی|khāhi]], [[خواهد|khāhad]] … – and add the **past stem** of the main verb, which is the infinitive without *-an*: رفتن → [[رفت|raft]]. Only *khāh-* changes for the person; the main verb stays the same.\n\n**Negative:** [[ن|na]] goes on *khāh-*: [[نخواهم رفت|na-khāham raft|I will not go]].\n\n**Compound verbs:** the future goes between the two parts: [[حرکت خواهد کرد|harekat khāhad kard|it will depart]], [[تماس خواهیم گرفت|tamās khāhim gereft|we will be in touch]].\n\n**Don't confuse** it with *want*: [[می‌خواهم بروم|mi-khāham beravam|I want to go]] has **mi-** and the subjunctive; the future has no mi- and the past stem.",
+   "table": {
+    "head": [
+     "Person",
+     "Future",
+     "Negative",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[من|man]]",
+      "[[خواهم رفت|khāham raft]]",
+      "[[نخواهم رفت|na-khāham raft]]",
+      "I will (not) go"
+     ],
+     [
+      "[[تو|to]]",
+      "[[خواهی رفت|khāhi raft]]",
+      "[[نخواهی رفت|na-khāhi raft]]",
+      "you will (not) go"
+     ],
+     [
+      "[[او|u]]",
+      "[[خواهد رفت|khāhad raft]]",
+      "[[نخواهد رفت|na-khāhad raft]]",
+      "he / she will (not) go"
+     ],
+     [
+      "[[ما|mā]]",
+      "[[خواهیم رفت|khāhim raft]]",
+      "[[نخواهیم رفت|na-khāhim raft]]",
+      "we will (not) go"
+     ],
+     [
+      "[[شما|shomā]]",
+      "[[خواهید رفت|khāhid raft]]",
+      "[[نخواهید رفت|na-khāhid raft]]",
+      "you will (not) go"
+     ],
+     [
+      "[[آن‌ها|ān-hā]]",
+      "[[خواهند رفت|khāhand raft]]",
+      "[[نخواهند رفت|na-khāhand raft]]",
+      "they will (not) go"
+     ],
+     [
+      "[[قطار|ghatār]]",
+      "[[حرکت خواهد کرد|harekat khāhad kard]]",
+      "[[حرکت نخواهد کرد|harekat na-khāhad kard]]",
+      "the train will (not) depart"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "پرواز شماره‌ی ۲۴۱ با یک ساعت تأخیر حرکت خواهد کرد.",
+     "r": "parvāz-e shomāre-ye devist-o-chehel-o-yek bā yek sā'at ta'khir harekat khāhad kard.",
+     "en": "Flight 241 will depart one hour late.",
+     "note": "an airport announcement",
+     "faV": "پَروازِ شُماره‌یِ ۲۴۱ با یِک ساعَت تَأخیر حَرِکَت خواهَد کَرد.",
+     "a": "4f6be82068ad"
+    },
+    {
+     "fa": "فردا هوای تهران سردتر خواهد شد.",
+     "r": "fardā havā-ye Tehrān sard-tar khāhad shod.",
+     "en": "Tomorrow the weather in Tehran will get colder.",
+     "note": "a weather forecast",
+     "faV": "فَردا هَوایِ تِهران سَردتَر خواهَد شُد.",
+     "a": "613b632ed71a"
+    },
+    {
+     "fa": "مسافران ساعت ده شب به مشهد خواهند رسید.",
+     "r": "mosāferān sā'at-e dah-e shab be Mashhad khāhand resid.",
+     "en": "The passengers will arrive in Mashhad at ten at night.",
+     "faV": "مُسافِران ساعَتِ دَهِ شَب به مَشهَد خواهَند رِسید.",
+     "a": "65bfef00f8ec"
+    },
+    {
+     "fa": "من هرگز این سفر را فراموش نخواهم کرد.",
+     "r": "man hargez in safar rā farāmush na-khāham kard.",
+     "en": "I will never forget this trip.",
+     "note": "the future also sounds solemn – good for promises",
+     "faV": "مَن هَرگِز این سَفَر را فَراموش نَخواهَم کَرد.",
+     "a": "af7836043a2f"
+    },
+    {
+     "fa": "شما را در فرودگاه خواهیم دید.",
+     "r": "shomā rā dar forudgāh khāhim did.",
+     "en": "We will see you at the airport.",
+     "faV": "شُما را دَر فُرودگاه خواهیم دید.",
+     "a": "a47360def368"
+    },
+    {
+     "fa": "این قطار در ایستگاه قم توقف نخواهد کرد.",
+     "r": "in ghatār dar istgāh-e Ghom tavagghof na-khāhad kard.",
+     "en": "This train will not stop at Qom station.",
+     "faV": "این قَطار دَر ایستگاهِ قُم تَوَقُّف نَخواهَد کَرد.",
+     "a": "9d64599e2721"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "What people actually say: the present for the future",
+   "md": "In conversation Iranians hardly ever say *khāham raft*. They use the ordinary present tense you learned in A1, and a time word does the rest: [[فردا می‌روم|fardā mi-ravam|I'm going tomorrow, I'll go tomorrow]]. In Tehrani speech that is [[فردا می‌رم|fardā mi-ram]], and the destination often moves to the end: [[فردا می‌رم اصفهان|fardā mi-ram Esfahān]].\n\nFor something fixed in advance – a timetable, an appointment, a plan made with other people – use [[قرار است|gharār ast|it is arranged]] + the subjunctive: [[قرار است ساعت هشت حرکت کنیم|gharār ast sā'at-e hasht harekat konim|we're due to leave at eight]]. In speech: [[قراره|gharāre]].\n\nThe same plan in three styles:",
+   "table": {
+    "head": [
+     "Formal: news, tickets, brochures",
+     "Everyday written",
+     "Spoken Tehrani",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[خواهم رفت|khāham raft]]",
+      "[[می‌روم|mi-ravam]]",
+      "[[می‌رم|mi-ram]]",
+      "I'll go"
+     ],
+     [
+      "[[خواهد آمد|khāhad āmad]]",
+      "[[می‌آید|mi-āyad]]",
+      "[[میاد|miyād]]",
+      "he / she'll come"
+     ],
+     [
+      "[[حرکت خواهد کرد|harekat khāhad kard]]",
+      "[[حرکت می‌کند|harekat mi-konad]]",
+      "[[حرکت می‌کنه|harekat mi-kone]]",
+      "it'll leave"
+     ],
+     [
+      "[[خواهیم رسید|khāhim resid]]",
+      "[[می‌رسیم|mi-resim]]",
+      "[[می‌رسیم|mi-resim]]",
+      "we'll arrive"
+     ],
+     [
+      "[[خواهید دید|khāhid did]]",
+      "[[می‌بینید|mi-binid]]",
+      "[[می‌بینین|mi-binin]]",
+      "you'll see"
+     ],
+     [
+      "[[نخواهند ماند|na-khāhand mānd]]",
+      "[[نمی‌مانند|nemi-mānand]]",
+      "[[نمی‌مونن|nemi-munan]]",
+      "they won't stay"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "فردا صبح به اصفهان می‌رویم.",
+     "r": "fardā sobh be Esfahān mi-ravim.",
+     "en": "We're going to Isfahan tomorrow morning.",
+     "col": "فردا صبح می‌ریم اصفهان.",
+     "colR": "fardā sobh mi-rim Esfahān.",
+     "faV": "فَردا صُبح به اِصفَهان می‌رَویم.",
+     "a": "cac982e03772",
+     "colV": "فَردا صُبح می‌ریم اِصفَهان.",
+     "colA": "19a3cfeb75fe"
+    },
+    {
+     "fa": "قرار است قطار ساعت هشت حرکت کند.",
+     "r": "gharār ast ghatār sā'at-e hasht harekat konad.",
+     "en": "The train is due to leave at eight.",
+     "col": "قراره قطار ساعت هشت حرکت کنه.",
+     "colR": "gharār-e ghatār sā'at-e hasht harekat kone.",
+     "faV": "قَرار اَست قَطار ساعَتِ هَشت حَرِکَت کُنَد.",
+     "a": "e9b1740b8b74",
+     "colV": "قَراره قَطار ساعَتِ هَشت حَرِکَت کُنه.",
+     "colA": "82f12aefab88"
+    },
+    {
+     "fa": "هفته‌ی بعد پدر و مادرم از استرالیا می‌آیند.",
+     "r": "hafte-ye ba'd pedar o mādar-am az Ostrāliyā mi-āyand.",
+     "en": "Next week my parents are coming from Australia.",
+     "col": "هفته‌ی بعد بابا مامانم از استرالیا میان.",
+     "colR": "hafte-ye ba'd bābā māmān-am az Ostrāliyā miyān.",
+     "faV": "هَفته‌یِ بَعد پِدَر و مادَرَم اَز اُسترالیا می‌آیَند.",
+     "a": "975537ebc163",
+     "colV": "هَفته‌یِ بَعد بابا مامانَم اَز اُسترالیا میان.",
+     "colA": "22afef91f831"
+    },
+    {
+     "fa": "شب به هتل می‌رسیم و زود می‌خوابیم.",
+     "r": "shab be hotel mi-resim o zud mi-khābim.",
+     "en": "We'll get to the hotel at night and go straight to bed.",
+     "faV": "شَب به هُتِل می‌رِسیم و زود می‌خوابیم.",
+     "a": "23545c834341"
+    },
+    {
+     "fa": "نگران نباش، فردا زنگ می‌زنم.",
+     "r": "negarān na-bāsh, fardā zang mi-zanam.",
+     "en": "Don't worry, I'll ring tomorrow.",
+     "faV": "نِگَران نَباش، فَردا زَنگ می‌زَنَم.",
+     "a": "44e52a83d27a"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Questions for the hotel and the station",
+   "md": "Travel questions are built from words you know, with the verb at the end. Three things make them polite: start with [[ببخشید|bebakhshid|excuse me]]; use the plural [[شما|shomā]] forms; and for requests ask *is it possible…?* – [[می‌شود…؟|mi-shavad…?]] or the more formal [[ممکن است…؟|momken ast…?]] – with the subjunctive.\n\nIn writing and in very formal speech a yes/no question can begin with [[آیا|āyā]]. It adds no meaning – it is simply a question mark you can hear: [[آیا اتاق خالی دارید؟|āyā otāgh-e khāli dārid?|Do you have a free room?]]",
+   "table": {
+    "head": [
+     "Persian",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[اتاق خالی دارید؟|otāgh-e khāli dārid?]]",
+      "Do you have a free room?"
+     ],
+     [
+      "[[برای یک شب چقدر می‌شود؟|barā-ye yek shab cheghadr mi-shavad?]]",
+      "How much is it for one night?"
+     ],
+     [
+      "[[صبحانه هم دارد؟|sobhāne ham dārad?]]",
+      "Is breakfast included?"
+     ],
+     [
+      "[[صبحانه از ساعت چند است؟|sobhāne az sā'at-e chand ast?]]",
+      "What time is breakfast from?"
+     ],
+     [
+      "[[ساعت چند باید اتاق را تحویل بدهیم؟|sā'at-e chand bāyad otāgh rā tahvil bedahim?]]",
+      "What time is check-out?"
+     ],
+     [
+      "[[می‌شود چمدان‌ها را این‌جا بگذاریم؟|mi-shavad chamedān-hā rā in-jā begozārim?]]",
+      "Can we leave our suitcases here?"
+     ],
+     [
+      "[[ممکن است یک تاکسی برای ما بگیرید؟|momken ast yek tāksi barā-ye mā begirid?]]",
+      "Could you get us a taxi?"
+     ],
+     [
+      "[[قطار اصفهان از کدام سکو حرکت می‌کند؟|ghatār-e Esfahān az kodām sakku harekat mi-konad?]]",
+      "Which platform does the Isfahan train leave from?"
+     ],
+     [
+      "[[تا میدان نقش جهان چقدر راه است؟|tā meydān-e Naghsh-e Jahān cheghadr rāh ast?]]",
+      "How far is it to Naqsh-e Jahan Square?"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "ببخشید، آیا اتاق خالی دارید؟",
+     "r": "bebakhshid, āyā otāgh-e khāli dārid?",
+     "en": "Excuse me, do you have a free room?",
+     "faV": "بِبَخشید، آیا اُتاقِ خالی دارید؟",
+     "a": "4cebc6b908d8"
+    },
+    {
+     "fa": "برای دو نفر، دو شب، چقدر می‌شود؟",
+     "r": "barā-ye do nafar, do shab, cheghadr mi-shavad?",
+     "en": "How much is it for two people for two nights?",
+     "col": "برای دو نفر، دو شب، چقدر می‌شه؟",
+     "colR": "barā-ye do nafar, do shab, cheghadr mi-she?",
+     "faV": "بَرایِ دو نَفَر، دو شَب، چِقَدر می‌شَوَد؟",
+     "a": "6d7ac22e2dab",
+     "colV": "بَرایِ دو نَفَر، دو شَب، چِقَدر می‌شه؟",
+     "colA": "946bcd289e06"
+    },
+    {
+     "fa": "ممکن است ساعت شش به اتاق ما زنگ بزنید؟",
+     "r": "momken ast sā'at-e shesh be otāgh-e mā zang bezanid?",
+     "en": "Could you ring our room at six?",
+     "faV": "مُمکِن اَست ساعَتِ شِش به اُتاقِ ما زَنگ بِزَنید؟",
+     "a": "1d9f729556f9"
+    },
+    {
+     "fa": "پرواز مشهد از کدام ترمینال است؟",
+     "r": "parvāz-e Mashhad az kodām terminal ast?",
+     "en": "Which terminal does the Mashhad flight leave from?",
+     "faV": "پَروازِ مَشهَد اَز کُدام تِرمیناَل اَست؟",
+     "a": "e401bb6b09c3"
+    },
+    {
+     "fa": "قطار چند ساعت تأخیر دارد؟",
+     "r": "ghatār chand sā'at ta'khir dārad?",
+     "en": "How late is the train?",
+     "lit": "the train has how many hours of delay?",
+     "faV": "قَطار چَند ساعَت تَأخیر دارَد؟",
+     "a": "e27bafff7d5e"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Three days in Isfahan: a tour programme",
+   "intro": "A travel agency's programme, written the way such leaflets are – in the formal future. Find every خواهد and خواهید, then try saying the same thing the everyday way.",
+   "sentences": [
+    {
+     "fa": "قطار تهران به اصفهان روز پنج‌شنبه ساعت هفت صبح حرکت خواهد کرد.",
+     "r": "ghatār-e Tehrān be Esfahān ruz-e panj-shanbe sā'at-e haft-e sobh harekat khāhad kard.",
+     "en": "The Tehran to Isfahan train will leave on Thursday at seven in the morning.",
+     "faV": "قَطارِ تِهران به اِصفَهان روزِ پَنج‌شَنبه ساعَتِ هَفتِ صُبح حَرِکَت خواهَد کَرد.",
+     "a": "f690d61b29fe"
+    },
+    {
+     "fa": "مسافران حدود ساعت یک بعد از ظهر به اصفهان خواهند رسید.",
+     "r": "mosāferān hodud-e sā'at-e yek-e ba'd az zohr be Esfahān khāhand resid.",
+     "en": "Passengers will reach Isfahan at about one in the afternoon.",
+     "faV": "مُسافِران حُدودِ ساعَتِ یِکِ بَعد اَز ظُهر به اِصفَهان خواهَند رِسید.",
+     "a": "295882f9f52d"
+    },
+    {
+     "fa": "بعد از ناهار در هتل، از میدان نقش جهان دیدن خواهید کرد.",
+     "r": "ba'd az nāhār dar hotel, az meydān-e Naghsh-e Jahān didan khāhid kard.",
+     "en": "After lunch at the hotel, you will visit Naqsh-e Jahan Square.",
+     "note": "از … دیدن کردن – to visit (a place), a formal compound verb",
+     "faV": "بَعد اَز ناهار دَر هُتِل، اَز مَیدانِ نَقشِ جَهان دیدَن خواهید کَرد.",
+     "a": "010954285a24"
+    },
+    {
+     "fa": "این میدان یکی از بزرگ‌ترین میدان‌های دنیاست.",
+     "r": "in meydān yek-i az bozorg-tarin meydān-hā-ye donyā-st.",
+     "en": "This square is one of the largest squares in the world.",
+     "faV": "این مَیدان یِکی اَز بُزُرگ‌تَرین مَیدان‌هایِ دُنیاست.",
+     "a": "ddba9bf3e688"
+    },
+    {
+     "fa": "شب در بازار اصفهان خرید خواهید کرد و چای خواهید خورد.",
+     "r": "shab dar bāzār-e Esfahān kharid khāhid kard o chāy khāhid khord.",
+     "en": "In the evening you will shop in the Isfahan bazaar and drink tea.",
+     "faV": "شَب دَر بازارِ اِصفَهان خَرید خواهید کَرد و چای خواهید خورد.",
+     "a": "f5b40d149ff1"
+    },
+    {
+     "fa": "روز دوم به سی‌وسه‌پل و پل خواجو خواهید رفت.",
+     "r": "ruz-e dovvom be Si-o-se-pol o Pol-e Khāju khāhid raft.",
+     "en": "On the second day you will go to Si-o-se Pol and the Khaju Bridge.",
+     "faV": "روزِ دُوُّم به سی‌وسه‌پُل و پُلِ خواجو خواهید رَفت.",
+     "a": "6de68111c2b3"
+    },
+    {
+     "fa": "عصر از کلیسای وانک در محله‌ی جلفا دیدن خواهید کرد.",
+     "r": "asr az kelisā-ye Vānak dar mahalle-ye Jolfā didan khāhid kard.",
+     "en": "In the late afternoon you will visit Vank Cathedral in the Jolfa quarter.",
+     "faV": "عَصر اَز کِلیسایِ وانَک دَر مَحَلّه‌یِ جُلفا دیدَن خواهید کَرد.",
+     "a": "e654ae62350e"
+    },
+    {
+     "fa": "روز سوم آزاد است و هر کس می‌تواند هر جا که دوست دارد برود.",
+     "r": "ruz-e sevvom āzād ast o har kas mi-tavānad har jā ke dust dārad beravad.",
+     "en": "The third day is free, and everyone can go wherever they like.",
+     "faV": "روزِ سِوُّم آزاد اَست و هَر کَس می‌تَوانَد هَر جا که دوست دارَد بِرَوَد.",
+     "a": "9dcd79165e57"
+    },
+    {
+     "fa": "قطار برگشت ساعت پنج عصر حرکت خواهد کرد و ساعت یازده شب به تهران خواهد رسید.",
+     "r": "ghatār-e bargasht sā'at-e panj-e asr harekat khāhad kard o sā'at-e yāzdah-e shab be Tehrān khāhad resid.",
+     "en": "The return train will leave at five in the afternoon and arrive in Tehran at eleven at night.",
+     "faV": "قَطارِ بَرگَشت ساعَتِ پَنجِ عَصر حَرِکَت خواهَد کَرد و ساعَتِ یازدَهِ شَب به تِهران خواهَد رِسید.",
+     "a": "7b936a079912"
+    },
+    {
+     "fa": "قیمت تور شامل بلیت قطار، هتل و صبحانه است.",
+     "r": "gheymat-e tur shāmel-e belit-e ghatār, hotel o sobhāne ast.",
+     "en": "The price of the tour includes the train tickets, the hotel and breakfast.",
+     "faV": "قَیمَتِ تور شامِلِ بِلیتِ قَطار، هُتِل و صُبحانه اَست.",
+     "a": "8545aa88a789"
+    },
+    {
+     "fa": "برای رزرو با آژانس ما تماس بگیرید.",
+     "r": "barā-ye rezerv bā āzhāns-e mā tamās begirid.",
+     "en": "To book, contact our agency.",
+     "faV": "بَرایِ رِزِرو با آژانسِ ما تَماس بِگیرید.",
+     "a": "1992fc723244"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How will the group travel to Isfahan?",
+     "options": [
+      "by plane",
+      "by train",
+      "by bus"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What will they do on the second day?",
+     "options": [
+      "see the bridges and Vank Cathedral",
+      "go shopping in Tehran",
+      "rest at the hotel"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What does the price include?",
+     "options": [
+      "only the hotel",
+      "lunch and dinner every day",
+      "the train tickets, the hotel and breakfast"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Night trains, Nowruz and water behind the traveller",
+   "md": "The [[راه‌آهن سراسری|rāh-āhan-e sarāsari|Trans-Iranian Railway]], built between 1927 and 1938, climbs from the Caspian Sea over the Alborz mountains and runs all the way down to the Persian Gulf; since 2021 it has been a UNESCO World Heritage Site. Trains are cheap and comfortable, and the overnight train to [[مشهد|Mashhad]] is a small society of its own: strangers in a [[کوپه|kupe|compartment]] share tea from a flask, fruit and life stories, and by morning they have usually swapped phone numbers.\n\nThe busiest travel time of the year is [[نوروز|nowruz]], the Iranian New Year in late March, when schools close for two weeks and millions of families take to the roads. Mashhad, with the shrine of Imam Reza, receives more visitors than any other city in Iran.\n\nSetting off on a journey has its own rituals. The family holds a Qur'an up for the traveller to pass under, and after the car has gone someone pours a bowl of water on the ground behind it – [[آب پشت سر مسافر|āb posht-e sar-e mosāfer|water behind the traveller]] – so that the journey goes as smoothly as water and the traveller comes back. As people leave you say [[سفر به خیر!|safar be kheyr!|have a good trip!]], and when they return, [[رسیدن به خیر!|residan be kheyr!|welcome back!]]",
+   "image": "trans-iranian-railway"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "**Want or will?** **می‌خواهم بروم** = I want to go; **خواهم رفت** = I will go. The future has no می and takes the short past stem.",
+    "On screens and tickets: **حرکت** = departure, **ورود** = arrival, **سکو** = platform, **تأخیر** = delay, **لغو شد** = cancelled.",
+    "**بلیت** or **بلیط**? You will see both spellings; **بلیت** is the one the Academy of Persian Language recommends.",
+    "Use the formal future in conversation and you will sound like a newsreader. For your own plans, say **فردا می‌روم** – or, Tehrani style, **فردا می‌رم**.",
+    "To a traveller: **سفر به خیر!** (have a good trip) or **خوش بگذرد!** (have a great time – spoken **خوش بگذره!**)."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the travel words",
+   "items": [
+    {
+     "fa": "فرودگاه",
+     "r": "forudgāh",
+     "en": "airport",
+     "faV": "فُرودگاه",
+     "a": "6dc58197d442"
+    },
+    {
+     "fa": "پرواز",
+     "r": "parvāz",
+     "en": "flight",
+     "faV": "پَرواز",
+     "a": "26d2837728a6"
+    },
+    {
+     "fa": "گذرنامه",
+     "r": "gozarnāme",
+     "en": "passport",
+     "faV": "گُذَرنامه",
+     "a": "a8360cf4dbb0"
+    },
+    {
+     "fa": "چمدان",
+     "r": "chamedān",
+     "en": "suitcase",
+     "faV": "چَمِدان",
+     "a": "3ad82a502c1a"
+    },
+    {
+     "fa": "قطار",
+     "r": "ghatār",
+     "en": "train",
+     "faV": "قَطار",
+     "a": "05045b9ba535"
+    },
+    {
+     "fa": "کلید",
+     "r": "kelid",
+     "en": "key",
+     "faV": "کِلید",
+     "a": "61110d2a9f8d"
+    },
+    {
+     "fa": "صبحانه",
+     "r": "sobhāne",
+     "en": "breakfast",
+     "faV": "صُبحانه",
+     "a": "4c37a2a6e99d"
+    },
+    {
+     "fa": "تأخیر",
+     "r": "ta'khir",
+     "en": "delay",
+     "faV": "تَأخیر",
+     "a": "5387ddc8b0de"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Will, want or go?",
+   "items": [
+    {
+     "q": "'I will go' (formal)",
+     "options": [
+      "می‌خواهم بروم",
+      "خواهم رفت",
+      "خواهم بروم"
+     ],
+     "answer": 1,
+     "explain": "khāh- without mi, plus the past stem: khāham raft."
+    },
+    {
+     "q": "Which means 'I want to go'?",
+     "options": [
+      "خواهم رفت",
+      "می‌روم",
+      "می‌خواهم بروم"
+     ],
+     "answer": 2,
+     "explain": "'Want' has mi- and is followed by the subjunctive."
+    },
+    {
+     "q": "The negative of خواهد آمد is…",
+     "options": [
+      "نخواهد آمد",
+      "خواهد نیامد",
+      "نمی‌خواهد آمد"
+     ],
+     "answer": 0,
+     "explain": "na- goes on khāh-: na-khāhad āmad."
+    },
+    {
+     "q": "A station announcement: 'The train will depart at eight.'",
+     "options": [
+      "قطار ساعت هشت خواهد حرکت کرد.",
+      "قطار ساعت هشت حرکت خواهد کرد.",
+      "قطار ساعت هشت حرکت کرد."
+     ],
+     "answer": 1,
+     "explain": "In a compound verb the future goes between the two parts: harekat khāhad kard."
+    },
+    {
+     "q": "A friend asks when you're going to Mashhad. The most natural answer:",
+     "options": [
+      "هفته‌ی بعد به مشهد خواهم رفت.",
+      "هفته‌ی بعد به مشهد می‌روم.",
+      "هفته‌ی بعد به مشهد رفتم."
+     ],
+     "answer": 1,
+     "explain": "In conversation, use the present for the future; khāham raft sounds like a news bulletin."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {
+     "fa": "قطار ساعت پنج حرکت ___ کرد.",
+     "r": "ghatār sā'at-e panj harekat ___ kard.",
+     "en": "The train will leave at five.",
+     "answer": "خواهد",
+     "hint": "future, it"
+    },
+    {
+     "fa": "ما فردا به اصفهان ___ رفت.",
+     "r": "mā fardā be Esfahān ___ raft.",
+     "en": "We will go to Isfahan tomorrow.",
+     "answer": "خواهیم",
+     "hint": "future, we"
+    },
+    {
+     "fa": "من هرگز این سفر را فراموش ___ کرد.",
+     "r": "man hargez in safar rā farāmush ___ kard.",
+     "en": "I will never forget this trip.",
+     "answer": "نخواهم",
+     "hint": "negative future, I"
+    },
+    {
+     "fa": "ببخشید، اتاق ___ دارید؟",
+     "r": "bebakhshid, otāgh-e ___ dārid?",
+     "en": "Excuse me, do you have a free room?",
+     "answer": "خالی",
+     "hint": "empty, free"
+    },
+    {
+     "fa": "___ است قطار ساعت هشت حرکت کند.",
+     "r": "___ ast ghatār sā'at-e hasht harekat konad.",
+     "en": "The train is due to leave at eight.",
+     "answer": "قرار",
+     "hint": "arranged"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "مسافران ساعت ده به مشهد خواهند رسید.",
+     "r": "mosāferān sā'at-e dah be Mashhad khāhand resid.",
+     "en": "The passengers will arrive in Mashhad at ten.",
+     "faV": "مُسافِران ساعَتِ دَه به مَشهَد خواهَند رِسید.",
+     "a": "a3c08b7d85e3"
+    },
+    {
+     "fa": "صبحانه از ساعت هفت تا ده است.",
+     "r": "sobhāne az sā'at-e haft tā dah ast.",
+     "en": "Breakfast is from seven to ten.",
+     "faV": "صُبحانه اَز ساعَتِ هَفت تا دَه اَست.",
+     "a": "ec5cc444b1f4"
+    },
+    {
+     "fa": "می‌شود چمدان‌ها را این‌جا بگذاریم؟",
+     "r": "mi-shavad chamedān-hā rā in-jā begozārim?",
+     "en": "Can we leave the suitcases here?",
+     "faV": "می‌شَوَد چَمِدان‌ها را این‌جا بِگُذاریم؟",
+     "a": "cf180dd2a101"
+    },
+    {
+     "fa": "فردا صبح به اصفهان می‌رویم.",
+     "r": "fardā sobh be Esfahān mi-ravim.",
+     "en": "We're going to Isfahan tomorrow morning.",
+     "faV": "فَردا صُبح به اِصفَهان می‌رَویم.",
+     "a": "cac982e03772"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "پرواز تأخیر دارد.",
+     "r": "parvāz ta'khir dārad.",
+     "en": "The flight is delayed.",
+     "options": [
+      "The flight is delayed.",
+      "The flight is cancelled.",
+      "The flight is full."
+     ],
+     "answer": 0,
+     "faV": "پَرواز تَأخیر دارَد.",
+     "a": "a98c852ffe80"
+    },
+    {
+     "fa": "صبحانه هم دارد؟",
+     "r": "sobhāne ham dārad?",
+     "en": "Is breakfast included?",
+     "options": [
+      "Where is breakfast?",
+      "Is breakfast included?",
+      "Have you had breakfast?"
+     ],
+     "answer": 1,
+     "faV": "صُبحانه هَم دارَد؟",
+     "a": "c3f4892423fb"
+    },
+    {
+     "fa": "قطار ساعت پنج حرکت خواهد کرد.",
+     "r": "ghatār sā'at-e panj harekat khāhad kard.",
+     "en": "The train will leave at five.",
+     "options": [
+      "The train left at five.",
+      "The train leaves every five hours.",
+      "The train will leave at five."
+     ],
+     "answer": 2,
+     "faV": "قَطار ساعَتِ پَنج حَرِکَت خواهَد کَرد.",
+     "a": "223ccd685677"
+    },
+    {
+     "fa": "از این‌جا دور است؟",
+     "r": "az in-jā dur ast?",
+     "en": "Is it far from here?",
+     "options": [
+      "Is it far from here?",
+      "Is it near here?",
+      "Is it open now?"
+     ],
+     "answer": 0,
+     "faV": "اَز این‌جا دور اَست؟",
+     "a": "bca1890721f8"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "We've booked a twin room.",
+     "fa": "ما یک اتاق دوتخته رزرو کرده‌ایم.",
+     "r": "mā yek otāgh-e do-takhte rezerv karde-im.",
+     "faV": "ما یِک اُتاقِ دوتَخته رِزِرو کَرده‌ایم.",
+     "a": "59b32c441ade"
+    },
+    {
+     "en": "What time do we have to check out?",
+     "fa": "ساعت چند باید اتاق را تحویل بدهیم؟",
+     "r": "sā'at-e chand bāyad otāgh rā tahvil bedahim?",
+     "faV": "ساعَتِ چَند بایَد اُتاق را تَحویل بِدَهیم؟",
+     "a": "86d4ad6cefaf"
+    },
+    {
+     "en": "The train will arrive in Isfahan at one.",
+     "fa": "قطار ساعت یک به اصفهان خواهد رسید.",
+     "r": "ghatār sā'at-e yek be Esfahān khāhad resid.",
+     "faV": "قَطار ساعَتِ یِک به اِصفَهان خواهَد رِسید.",
+     "a": "a346381337ce"
+    },
+    {
+     "en": "We're going to Mashhad next week.",
+     "fa": "هفته‌ی بعد به مشهد می‌رویم.",
+     "r": "hafte-ye ba'd be Mashhad mi-ravim.",
+     "faV": "هَفته‌یِ بَعد به مَشهَد می‌رَویم.",
+     "a": "3d2213f94729"
+    },
+    {
+     "en": "Could you get us a taxi?",
+     "fa": "ممکن است یک تاکسی برای ما بگیرید؟",
+     "r": "momken ast yek tāksi barā-ye mā begirid?",
+     "faV": "مُمکِن اَست یِک تاکسی بَرایِ ما بِگیرید؟",
+     "a": "e9e27fe8c2f9"
+    }
+   ]
+  }
+ ],
+ "titleV": "سَفَر به اِصفَهان",
+ "titleA": "acc342ad3e0c"
+}

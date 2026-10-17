@@ -1,0 +1,289 @@
+{
+ "id": "a1-at-the-bakery",
+ "level": "A1",
+ "kind": "everyday life",
+ "title": "At the bakery",
+ "titleFa": "در نانوایی",
+ "titleR": "dar nānvāyi",
+ "image": "sangak",
+ "intro": "Early in the morning Amir joins the queue at the neighbourhood bakery for sangak, the long flatbread baked on a bed of hot pebbles. The story practises the present tense, 'there is' (هست), the counting word تا (دو تا سنگک, 'two sangaks') and polite requests with لطفاً. And it ends with something every Iranian family knows about fresh bread.",
+ "source": "An original story for this course.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "ساعت هفت صبح است.",
+     "r": "sā'at-e haft-e sobh ast.",
+     "en": "It is seven o'clock in the morning.",
+     "faV": "ساعَتِ هَفتِ صُبح اَست.",
+     "a": "a6eff02b6714"
+    },
+    {
+     "fa": "امیر به نانوایی می‌رود.",
+     "r": "Amir be nānvāyi mi-ravad.",
+     "en": "Amir goes to the bakery.",
+     "faV": "اَمیر به نانوایی می‌رَوَد.",
+     "a": "1462b149305c"
+    },
+    {
+     "fa": "جلوی نانوایی یک صف بلند هست.",
+     "r": "jelo-ye nānvāyi yek saf-e boland hast.",
+     "en": "There is a long queue in front of the bakery.",
+     "faV": "جِلویِ نانوایی یِک صَفِ بُلَند هَست.",
+     "a": "36934a7ce69b"
+    },
+    {
+     "fa": "همه نان سنگک می‌خواهند.",
+     "r": "hame nān-e sangak mi-khāhand.",
+     "en": "Everyone wants sangak bread.",
+     "faV": "هَمه نانِ سَنگَک می‌خواهَند.",
+     "a": "1e3d4f64244c"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "نانوا خمیر را روی سنگ‌های داغ می‌گذارد.",
+     "r": "nānvā khamir rā ru-ye sang-hā-ye dāgh mi-gozārad.",
+     "en": "The baker lays the dough on the hot stones.",
+     "faV": "نانوا خَمیر را رویِ سَنگ‌هایِ داغ می‌گُذارَد.",
+     "a": "04dc70d8ae8a"
+    },
+    {
+     "fa": "تنور خیلی گرم است.",
+     "r": "tanur kheyli garm ast.",
+     "en": "The oven is very hot.",
+     "faV": "تَنور خَیلی گَرم اَست.",
+     "a": "0cabf9f70373"
+    },
+    {
+     "fa": "بوی نان تازه همه جا هست.",
+     "r": "bu-ye nān-e tāze hame jā hast.",
+     "en": "The smell of fresh bread is everywhere.",
+     "faV": "بویِ نانِ تازه هَمه جا هَست.",
+     "a": "3ca99964bf67"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "امیر می‌گوید: «سلام آقا، دو تا سنگک، لطفاً.»",
+     "r": "Amir mi-guyad: «salām āghā, do tā sangak, lotfan.»",
+     "en": "Amir says: \"Hello, sir. Two sangaks, please.\"",
+     "faV": "اَمیر می‌گویَد: «سَلام آقا، دو تا سَنگَک، لُطفاً.»",
+     "a": "287e01b276bb"
+    },
+    {
+     "fa": "نانوا می‌گوید: «بفرمایید، داغ است!»",
+     "r": "nānvā mi-guyad: «befarmāyid, dāgh ast!»",
+     "en": "The baker says: \"Here you are – it's hot!\"",
+     "faV": "نانوا می‌گویَد: «بِفَرمایید، داغ اَست!»",
+     "a": "930ddba864a4"
+    },
+    {
+     "fa": "روی نان یک سنگ کوچک هست.",
+     "r": "ru-ye nān yek sang-e kuchak hast.",
+     "en": "There is a little stone on the bread.",
+     "faV": "رویِ نان یِک سَنگِ کوچَک هَست.",
+     "a": "ece0a54820b0"
+    },
+    {
+     "fa": "امیر سنگ را برمی‌دارد.",
+     "r": "Amir sang rā bar-mi-dārad.",
+     "en": "Amir picks the stone off.",
+     "faV": "اَمیر سَنگ را بَرمی‌دارَد.",
+     "a": "359f19f7ba03"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "در راه خانه، امیر کمی نان می‌خورد.",
+     "r": "dar rāh-e khāne, Amir kami nān mi-khorad.",
+     "en": "On the way home, Amir eats a little of the bread.",
+     "faV": "دَر راهِ خانه، اَمیر کَمی نان می‌خورَد.",
+     "a": "83fe2aef95eb"
+    },
+    {
+     "fa": "بعد باز هم می‌خورد.",
+     "r": "ba'd bāz ham mi-khorad.",
+     "en": "Then he eats some more.",
+     "faV": "بَعد باز هَم می‌خورَد.",
+     "a": "c7db822f5827"
+    },
+    {
+     "fa": "در خانه، مادرش می‌پرسد: «امیر، گوشه‌ی نان کجاست؟»",
+     "r": "dar khāne, mādar-ash mi-porsad: «Amir, gushe-ye nān kojā-st?»",
+     "en": "At home, his mother asks: \"Amir, where is the corner of the bread?\"",
+     "faV": "دَر خانه، مادَرَش می‌پُرسَد: «اَمیر، گوشه‌یِ نان کُجاست؟»",
+     "a": "a2d8f4919059"
+    },
+    {
+     "fa": "امیر می‌خندد و می‌گوید: «سنگک تازه خیلی خوشمزه است!»",
+     "r": "Amir mi-khandad o mi-guyad: «sangak-e tāze kheyli khoshmaze ast!»",
+     "en": "Amir laughs and says: \"Fresh sangak is really delicious!\"",
+     "faV": "اَمیر می‌خَندَد و می‌گویَد: «سَنگَکِ تازه خَیلی خوشمَزه اَست!»",
+     "a": "bd97a53015fa"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "نانوایی",
+   "r": "nānvāyi",
+   "en": "bakery",
+   "faV": "نانوایی",
+   "a": "72758770616e"
+  },
+  {
+   "fa": "نانوا",
+   "r": "nānvā",
+   "en": "baker",
+   "faV": "نانوا",
+   "a": "005f0f32a09b"
+  },
+  {
+   "fa": "صف",
+   "r": "saf",
+   "en": "queue, line",
+   "faV": "صَف",
+   "a": "a6076d159180"
+  },
+  {
+   "fa": "بلند",
+   "r": "boland",
+   "en": "long; tall; loud",
+   "faV": "بُلَند",
+   "a": "0785dd079fdc"
+  },
+  {
+   "fa": "سنگک",
+   "r": "sangak",
+   "en": "sangak (flatbread baked on pebbles)",
+   "faV": "سَنگَک",
+   "a": "edc08a9f59b2"
+  },
+  {
+   "fa": "خمیر",
+   "r": "khamir",
+   "en": "dough",
+   "faV": "خَمیر",
+   "a": "ec1c1226cd30"
+  },
+  {
+   "fa": "سنگ",
+   "r": "sang",
+   "en": "stone, pebble",
+   "faV": "سَنگ",
+   "a": "450f5d38fbbf"
+  },
+  {
+   "fa": "داغ",
+   "r": "dāgh",
+   "en": "hot (to the touch)",
+   "faV": "داغ",
+   "a": "35824b791e3d"
+  },
+  {
+   "fa": "تنور",
+   "r": "tanur",
+   "en": "clay or brick oven",
+   "faV": "تَنور",
+   "a": "2078773e8c1c"
+  },
+  {
+   "fa": "بو",
+   "r": "bu",
+   "en": "smell",
+   "faV": "بو",
+   "a": "f2244a9e5ea0"
+  },
+  {
+   "fa": "تازه",
+   "r": "tāze",
+   "en": "fresh; new",
+   "faV": "تازه",
+   "a": "84202befc222"
+  },
+  {
+   "fa": "لطفاً",
+   "r": "lotfan",
+   "en": "please",
+   "faV": "لُطفاً",
+   "a": "ee0968580fcb"
+  },
+  {
+   "fa": "برداشتن",
+   "r": "bar-dāshtan",
+   "en": "to pick up, take off",
+   "faV": "بَرداشتَن",
+   "a": "b55ba86f112c"
+  },
+  {
+   "fa": "کمی",
+   "r": "kami",
+   "en": "a little",
+   "faV": "کَمی",
+   "a": "a771f730d63b"
+  },
+  {
+   "fa": "گوشه",
+   "r": "gushe",
+   "en": "corner",
+   "faV": "گوشه",
+   "a": "210a089eb882"
+  },
+  {
+   "fa": "خوشمزه",
+   "r": "khoshmaze",
+   "en": "delicious, tasty",
+   "faV": "خوشمَزه",
+   "a": "5a70f0c2a07e"
+  }
+ ],
+ "questions": [
+  {
+   "q": "What time is it at the start of the story?",
+   "options": [
+    "six in the morning",
+    "seven in the morning",
+    "seven in the evening"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What is in front of the bakery?",
+   "options": [
+    "a long queue",
+    "a taxi",
+    "a big tree"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Where does the baker put the dough?",
+   "options": [
+    "in a pot",
+    "on a table",
+    "on hot stones"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Why is a corner of the bread missing?",
+   "options": [
+    "the baker cut it",
+    "Amir ate it on the way home",
+    "the cat ate it"
+   ],
+   "answer": 1
+  }
+ ],
+ "after": "Sangak (سنگک) means 'little stone': the dough is stretched over a bed of hot pebbles in a big oven (تنور), so every loaf comes out dimpled – and sometimes with a pebble still stuck to it, which you simply pick off. Iranians buy their bread fresh, often twice a day, and the queue at the نانوایی is a good place for news and gossip. Other breads you will meet are بربری (barbari, thick and golden), لواش (lavash, paper-thin) and تافتون (tāftun). Notice دو تا سنگک: after a number the noun stays singular, and تا is the everyday counting word. As for the missing corner – hardly anyone carries hot sangak home without tasting it on the way.",
+ "titleV": "دَر نانوایی",
+ "titleA": "13aba9342a58"
+}

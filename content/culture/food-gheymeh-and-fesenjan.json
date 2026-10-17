@@ -32,37 +32,220 @@
   }
  ],
  "sentences": [
-  {"fa": "قیمه را با لپه و رب گوجه‌فرنگی درست می‌کنند.", "r": "gheyme rā bā lape va rob-e gowje-farangi dorost mi-konand.", "en": "Gheymeh is made with split peas and tomato paste."},
-  {"fa": "رب را کمی تفت بده تا رنگش باز شود.", "r": "rob rā kami taft be-de tā rang-ash bāz shavad.", "en": "Fry the tomato paste briefly to bring out its colour.", "lit": "sauté the paste a little so its colour opens"},
-  {"fa": "سیب‌زمینی را خلالی خرد کن و سرخ کن.", "r": "sib-zamini rā khalāli khord kon va sorkh kon.", "en": "Cut the potatoes into thin sticks and fry them."},
-  {"fa": "سیب‌زمینی سرخ‌کرده را آخر کار روی خورش بریز.", "r": "sib-zamini-ye sorkh-karde rā ākhar-e kār ru-ye khoresh be-riz.", "en": "Put the fried potatoes on the stew at the very end."},
-  {"fa": "در محرم خیلی‌ها قیمه‌ی نذری می‌پزند.", "r": "dar moharram kheyli-hā gheyme-ye nazri mi-pazand.", "en": "In Muharram many people cook gheymeh to give away."},
-  {"fa": "فسنجان را با گردو و رب انار می‌پزند.", "r": "fesenjān rā bā gerdu va rob-e anār mi-pazand.", "en": "Fesenjan is cooked with walnuts and pomegranate molasses."},
-  {"fa": "گردو باید آن‌قدر بپزد که روغن بیندازد.", "r": "gerdu bāyad ān-ghadr be-pazad ke rowghan bi-yandāzad.", "en": "The walnuts must cook until they release their oil."},
-  {"fa": "شما فسنجان شیرین دوست دارید یا ترش؟", "r": "shomā fesenjān-e shirin dust dārid yā torsh?", "en": "Do you like your fesenjan sweet or sour?", "col": "شما فسنجون شیرین دوست دارین یا ترش؟", "colR": "shomā fesenjun-e shirin dust dārin yā torsh?"},
-  {"fa": "در گیلان فسنجان را با اردک هم درست می‌کنند.", "r": "dar Gilān fesenjān rā bā ordak ham dorost mi-konand.", "en": "In Gilan they also make fesenjan with duck."},
-  {"fa": "این فسنجان واقعاً عالی شده است!", "r": "in fesenjān vāghe'an āli shode ast!", "en": "This fesenjan has turned out really wonderful!", "col": "این فسنجون واقعاً عالی شده!", "colR": "in fesenjun vāghe'an āli shode!"},
-  {"fa": "آخر هفته فسنجان می‌پزم؛ برای ناهار تشریف بیاورید.", "r": "ākhar-e hafte fesenjān mi-pazam; barā-ye nāhār tashrif bi-yāvarid.", "en": "I'm making fesenjan at the weekend – please come for lunch."}
+  {
+   "fa": "قیمه را با لپه و رب گوجه‌فرنگی درست می‌کنند.",
+   "r": "gheyme rā bā lape va rob-e gowje-farangi dorost mi-konand.",
+   "en": "Gheymeh is made with split peas and tomato paste.",
+   "faV": "قَیمه را با لَپه و رُبِ گَوجه‌فَرَنگی دُرُست می‌کُنَند.",
+   "a": "01f4f963e406"
+  },
+  {
+   "fa": "رب را کمی تفت بده تا رنگش باز شود.",
+   "r": "rob rā kami taft be-de tā rang-ash bāz shavad.",
+   "en": "Fry the tomato paste briefly to bring out its colour.",
+   "lit": "sauté the paste a little so its colour opens",
+   "faV": "رُب را کَمی تَفت بِده تا رَنگَش باز شَوَد.",
+   "a": "19d30c3cdb03"
+  },
+  {
+   "fa": "سیب‌زمینی را خلالی خرد کن و سرخ کن.",
+   "r": "sib-zamini rā khalāli khord kon va sorkh kon.",
+   "en": "Cut the potatoes into thin sticks and fry them.",
+   "faV": "سیب‌زَمینی را خَلالی خُرد کُن و سُرخ کُن.",
+   "a": "a8d65576f14a"
+  },
+  {
+   "fa": "سیب‌زمینی سرخ‌کرده را آخر کار روی خورش بریز.",
+   "r": "sib-zamini-ye sorkh-karde rā ākhar-e kār ru-ye khoresh be-riz.",
+   "en": "Put the fried potatoes on the stew at the very end.",
+   "faV": "سیب‌زَمینیِ سُرخ‌کَرده را آخَرِ کار رویِ خورِش بِریز.",
+   "a": "abc98b847422"
+  },
+  {
+   "fa": "در محرم خیلی‌ها قیمه‌ی نذری می‌پزند.",
+   "r": "dar moharram kheyli-hā gheyme-ye nazri mi-pazand.",
+   "en": "In Muharram many people cook gheymeh to give away.",
+   "faV": "دَر مُحَرَّم خَیلی‌ها قَیمه‌یِ نَذری می‌پَزَند.",
+   "a": "1f57c2838c27"
+  },
+  {
+   "fa": "فسنجان را با گردو و رب انار می‌پزند.",
+   "r": "fesenjān rā bā gerdu va rob-e anār mi-pazand.",
+   "en": "Fesenjan is cooked with walnuts and pomegranate molasses.",
+   "faV": "فِسِنجان را با گِردو و رُبِ اَنار می‌پَزَند.",
+   "a": "29c72501e4df"
+  },
+  {
+   "fa": "گردو باید آن‌قدر بپزد که روغن بیندازد.",
+   "r": "gerdu bāyad ān-ghadr be-pazad ke rowghan bi-yandāzad.",
+   "en": "The walnuts must cook until they release their oil.",
+   "faV": "گِردو بایَد آن‌قَدر بِپَزَد که رَوغَن بیَندازَد.",
+   "a": "720b73ac5292"
+  },
+  {
+   "fa": "شما فسنجان شیرین دوست دارید یا ترش؟",
+   "r": "shomā fesenjān-e shirin dust dārid yā torsh?",
+   "en": "Do you like your fesenjan sweet or sour?",
+   "col": "شما فسنجون شیرین دوست دارین یا ترش؟",
+   "colR": "shomā fesenjun-e shirin dust dārin yā torsh?",
+   "faV": "شُما فِسِنجانِ شیرین دوست دارید یا تُرش؟",
+   "a": "37a7786fe01e",
+   "colV": "شُما فِسِنجونِ شیرین دوست دارین یا تُرش؟",
+   "colA": "e7bab72fad82"
+  },
+  {
+   "fa": "در گیلان فسنجان را با اردک هم درست می‌کنند.",
+   "r": "dar Gilān fesenjān rā bā ordak ham dorost mi-konand.",
+   "en": "In Gilan they also make fesenjan with duck.",
+   "faV": "دَر گیلان فِسِنجان را با اُردَک هَم دُرُست می‌کُنَند.",
+   "a": "dfcf620ac5dc"
+  },
+  {
+   "fa": "این فسنجان واقعاً عالی شده است!",
+   "r": "in fesenjān vāghe'an āli shode ast!",
+   "en": "This fesenjan has turned out really wonderful!",
+   "col": "این فسنجون واقعاً عالی شده!",
+   "colR": "in fesenjun vāghe'an āli shode!",
+   "faV": "این فِسِنجان واقِعاً عالی شُده اَست!",
+   "a": "966ea47b9efd",
+   "colV": "این فِسِنجون واقِعاً عالی شُده!",
+   "colA": "956ac1a43be6"
+  },
+  {
+   "fa": "آخر هفته فسنجان می‌پزم؛ برای ناهار تشریف بیاورید.",
+   "r": "ākhar-e hafte fesenjān mi-pazam; barā-ye nāhār tashrif bi-yāvarid.",
+   "en": "I'm making fesenjan at the weekend – please come for lunch.",
+   "faV": "آخَرِ هَفته فِسِنجان می‌پَزَم؛ بَرایِ ناهار تَشریف بیاوَرید.",
+   "a": "b12f72671e49"
+  }
  ],
  "vocab": [
-  {"fa": "قیمه", "r": "gheyme", "en": "gheymeh; diced meat"},
-  {"fa": "فسنجان", "r": "fesenjān", "en": "fesenjan, walnut and pomegranate stew"},
-  {"fa": "لپه", "r": "lape", "en": "yellow split peas"},
-  {"fa": "رب گوجه‌فرنگی", "r": "rob-e gowje-farangi", "en": "tomato paste"},
-  {"fa": "سیب‌زمینی", "r": "sib-zamini", "en": "potato"},
-  {"fa": "خلالی", "r": "khalāli", "en": "cut into thin sticks"},
-  {"fa": "گردو", "r": "gerdu", "en": "walnut"},
-  {"fa": "انار", "r": "anār", "en": "pomegranate"},
-  {"fa": "رب انار", "r": "rob-e anār", "en": "pomegranate molasses"},
-  {"fa": "مرغ", "r": "morgh", "en": "chicken; hen"},
-  {"fa": "اردک", "r": "ordak", "en": "duck"},
-  {"fa": "ترش", "r": "torsh", "en": "sour"},
-  {"fa": "شیرین", "r": "shirin", "en": "sweet"},
-  {"fa": "ملس", "r": "malas", "en": "pleasantly sweet-and-sour"},
-  {"fa": "نذری", "r": "nazri", "en": "votive food, given away free"},
-  {"fa": "دیگ", "r": "dig", "en": "large cooking pot"},
-  {"fa": "تفت دادن", "r": "taft dādan", "en": "to sauté, to toast lightly"},
-  {"fa": "پختن", "r": "pokhtan", "en": "to cook"}
+  {
+   "fa": "قیمه",
+   "r": "gheyme",
+   "en": "gheymeh; diced meat",
+   "faV": "قَیمه",
+   "a": "62b19290cef0"
+  },
+  {
+   "fa": "فسنجان",
+   "r": "fesenjān",
+   "en": "fesenjan, walnut and pomegranate stew",
+   "faV": "فِسِنجان",
+   "a": "61d20504e915"
+  },
+  {
+   "fa": "لپه",
+   "r": "lape",
+   "en": "yellow split peas",
+   "faV": "لَپه",
+   "a": "f4f81f24d267"
+  },
+  {
+   "fa": "رب گوجه‌فرنگی",
+   "r": "rob-e gowje-farangi",
+   "en": "tomato paste",
+   "faV": "رُبِ گَوجه‌فَرَنگی",
+   "a": "ea32848cdb2b"
+  },
+  {
+   "fa": "سیب‌زمینی",
+   "r": "sib-zamini",
+   "en": "potato",
+   "faV": "سیب‌زَمینی",
+   "a": "24de615bceaa"
+  },
+  {
+   "fa": "خلالی",
+   "r": "khalāli",
+   "en": "cut into thin sticks",
+   "faV": "خَلالی",
+   "a": "feeb09a9361f"
+  },
+  {
+   "fa": "گردو",
+   "r": "gerdu",
+   "en": "walnut",
+   "faV": "گِردو",
+   "a": "70cef9fc4f4a"
+  },
+  {
+   "fa": "انار",
+   "r": "anār",
+   "en": "pomegranate",
+   "faV": "اَنار",
+   "a": "6c4e904dbad0"
+  },
+  {
+   "fa": "رب انار",
+   "r": "rob-e anār",
+   "en": "pomegranate molasses",
+   "faV": "رُبِ اَنار",
+   "a": "87d81cf77d85"
+  },
+  {
+   "fa": "مرغ",
+   "r": "morgh",
+   "en": "chicken; hen",
+   "faV": "مُرغ",
+   "a": "fecd7ca0b1be"
+  },
+  {
+   "fa": "اردک",
+   "r": "ordak",
+   "en": "duck",
+   "faV": "اُردَک",
+   "a": "c3cfe0987ac9"
+  },
+  {
+   "fa": "ترش",
+   "r": "torsh",
+   "en": "sour",
+   "faV": "تُرش",
+   "a": "4684c902c272"
+  },
+  {
+   "fa": "شیرین",
+   "r": "shirin",
+   "en": "sweet",
+   "faV": "شیرین",
+   "a": "3c4705426ad7"
+  },
+  {
+   "fa": "ملس",
+   "r": "malas",
+   "en": "pleasantly sweet-and-sour",
+   "faV": "مَلَس",
+   "a": "84401896ffb9"
+  },
+  {
+   "fa": "نذری",
+   "r": "nazri",
+   "en": "votive food, given away free",
+   "faV": "نَذری",
+   "a": "2d3fbd9827b4"
+  },
+  {
+   "fa": "دیگ",
+   "r": "dig",
+   "en": "large cooking pot",
+   "faV": "دیگ",
+   "a": "087fb9b95e75"
+  },
+  {
+   "fa": "تفت دادن",
+   "r": "taft dādan",
+   "en": "to sauté, to toast lightly",
+   "faV": "تَفت دادَن",
+   "a": "82808f7015c3"
+  },
+  {
+   "fa": "پختن",
+   "r": "pokhtan",
+   "en": "to cook",
+   "faV": "پُختَن",
+   "a": "6cd2fd8f66a5"
+  }
  ],
  "facts": [
   "Gheymeh is the classic nazri of Muharram, cooked in huge pots and given away on Tasua and Ashura.",
@@ -72,5 +255,7 @@
   "In Gilan fesenjan is often made with duck and tends to be more sour.",
   "Qazvin's festive gheymeh nesar is rice with small pieces of lamb, barberries, pistachios and almonds.",
   "Tehranis say fesenjun: in spoken Persian -ān often becomes -un, as nān 'bread' becomes nun."
- ]
+ ],
+ "titleV": "قَیمه و فِسِنجان",
+ "titleA": "d44f00806311"
 }

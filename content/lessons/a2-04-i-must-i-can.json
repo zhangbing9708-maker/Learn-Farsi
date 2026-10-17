@@ -1,0 +1,1230 @@
+{
+ "id": "a2-04-i-must-i-can",
+ "level": "A2",
+ "n": 4,
+ "title": "I must, I can: the subjunctive",
+ "titleFa": "باید بروم، نمی‌توانم بمانم",
+ "titleR": "bāyad beravam, nemi-tavānam bemānam",
+ "intro": "Rules, permission, ability and chance – you must, you mustn't, can I…?, maybe – are the language of everyday life. In Persian they all work the same way: a small key word such as باید or می‌توانم, then a verb in the subjunctive, the be- form you met after می‌خواهم at A1. In this lesson you learn the whole subjunctive, for every person and for the irregular verbs, and use it to talk about rules, abilities and possibilities.",
+ "goals": [
+  "say what you must and mustn't do with باید and نباید",
+  "say what you can and can't do with می‌توانم and نمی‌توانم",
+  "ask for permission politely with می‌شود …؟",
+  "say what might happen with شاید",
+  "form the subjunctive of any verb, including بودن and داشتن"
+ ],
+ "image": "alborz",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "Can I come too?",
+   "context": "Amir organises Friday hikes for his university's mountain group. Tom would like to join them.",
+   "lines": [
+    {
+     "who": "Tom",
+     "fa": "امیر، من هم می‌توانم جمعه با گروه کوه‌نوردی شما بیایم؟",
+     "r": "Amir, man ham mi-tavānam jom'e bā goruh-e kuh-navardi-ye shomā biyāyam?",
+     "en": "Amir, can I come with your hiking group on Friday too?",
+     "col": "امیر، منم می‌تونم جمعه با گروه کوه‌نوردی‌تون بیام؟",
+     "colR": "Amir, man-am mi-tunam jom'e bā goruh-e kuh-navardi-tun biyām?",
+     "faV": "اَمیر، مَن هَم می‌تَوانَم جُمعه با گُروهِ کوه‌نَوَردیِ شُما بیایَم؟",
+     "a": "6fba2e78c5fe",
+     "colV": "اَمیر، مَنَم می‌تونَم جُمعه با گُروهِ کوه‌نَوَردی‌تون بیام؟",
+     "colA": "4813433ce6d7"
+    },
+    {
+     "who": "Amir",
+     "fa": "البته! ولی باید ساعت شش صبح در میدان تجریش باشی.",
+     "r": "albatte! vali bāyad sā'at-e shesh-e sobh dar meydān-e Tajrish bāshi.",
+     "en": "Of course! But you have to be at Tajrish Square at six in the morning.",
+     "col": "البته! ولی باید ساعت شیش صبح میدون تجریش باشی.",
+     "colR": "albatte! vali bāyad sā'at-e shish-e sobh meydun-e Tajrish bāshi.",
+     "faV": "اَلبَتّه! وَلی بایَد ساعَتِ شِشِ صُبح دَر مَیدانِ تَجریش باشی.",
+     "a": "e248e24e3a3b",
+     "colV": "اَلبَتّه! وَلی بایَد ساعَتِ شیشِ صُبح مَیدونِ تَجریش باشی.",
+     "colA": "f7cdc04e6c72"
+    },
+    {
+     "who": "Tom",
+     "fa": "شش صبح؟ من نمی‌توانم آن‌قدر زود بیدار شوم!",
+     "r": "shesh-e sobh? man nemi-tavānam ān-ghadr zud bidār shavam!",
+     "en": "Six in the morning? I can't wake up that early!",
+     "col": "شیش صبح؟ من نمی‌تونم اون‌قدر زود بیدار شم!",
+     "colR": "shish-e sobh? man nemi-tunam un-ghadr zud bidār sham!",
+     "faV": "شِشِ صُبح؟ مَن نِمی‌تَوانَم آن‌قَدر زود بیدار شَوَم!",
+     "a": "6fe0426eb076",
+     "colV": "شیشِ صُبح؟ مَن نِمی‌تونَم اون‌قَدر زود بیدار شَم!",
+     "colA": "8e3764ba6cea"
+    },
+    {
+     "who": "Amir",
+     "fa": "باید بتوانی! ظهر هوای کوه خیلی گرم می‌شود.",
+     "r": "bāyad betavāni! zohr havā-ye kuh kheyli garm mi-shavad.",
+     "en": "You'll have to manage it! At noon it gets very hot on the mountain.",
+     "col": "باید بتونی! ظهر هوای کوه خیلی گرم می‌شه.",
+     "colR": "bāyad betuni! zohr havā-ye kuh kheyli garm mi-she.",
+     "faV": "بایَد بِتَوانی! ظُهر هَوایِ کوه خَیلی گَرم می‌شَوَد.",
+     "a": "08d04c5a3199",
+     "colV": "بایَد بِتونی! ظُهر هَوایِ کوه خَیلی گَرم می‌شه.",
+     "colA": "81cc42a360b1"
+    },
+    {
+     "who": "Tom",
+     "fa": "باشد. چه چیزهایی باید با خودم بیاورم؟",
+     "r": "bāshad. che chiz-hā-yi bāyad bā khod-am biyāvaram?",
+     "en": "OK. What things should I bring with me?",
+     "col": "باشه. چه چیزایی باید با خودم بیارم؟",
+     "colR": "bāshe. che chiz-ā-yi bāyad bā khod-am biyāram?",
+     "faV": "باشَد. چه چیزهایی بایَد با خودَم بیاوَرَم؟",
+     "a": "2a1a8460565d",
+     "colV": "باشه. چه چیزایی بایَد با خودَم بیارَم؟",
+     "colA": "2c0c7a7e45aa"
+    },
+    {
+     "who": "Amir",
+     "fa": "آب، کلاه و یک کاپشن. بالای کوه شاید سرد باشد.",
+     "r": "āb, kolāh o yek kāpshen. bālā-ye kuh shāyad sard bāshad.",
+     "en": "Water, a hat and a jacket. At the top it might be cold.",
+     "col": "آب، کلاه و یه کاپشن. بالای کوه شاید سرد باشه.",
+     "colR": "āb, kolāh o ye kāpshen. bālā-ye kuh shāyad sard bāshe.",
+     "faV": "آب، کُلاه و یِک کاپشِن. بالایِ کوه شایَد سَرد باشَد.",
+     "a": "9823fe880c1f",
+     "colV": "آب، کُلاه و یه کاپشِن. بالایِ کوه شایَد سَرد باشه.",
+     "colA": "78698a7c7656"
+    },
+    {
+     "who": "Tom",
+     "fa": "می‌شود دوستم سارا هم بیاید؟",
+     "r": "mi-shavad dust-am Sārā ham biyāyad?",
+     "en": "Can my friend Sara come too?",
+     "col": "می‌شه دوستم سارا هم بیاد؟",
+     "colR": "mi-she dust-am Sārā ham biyād?",
+     "faV": "می‌شَوَد دوستَم سارا هَم بیایَد؟",
+     "a": "12a5fe0faf1a",
+     "colV": "می‌شه دوستَم سارا هَم بیاد؟",
+     "colA": "12edf9037ea6"
+    },
+    {
+     "who": "Amir",
+     "fa": "البته که می‌شود. ولی نباید دیر کنید؛ ما منتظر نمی‌مانیم.",
+     "r": "albatte ke mi-shavad. vali na-bāyad dir konid; mā montazer nemi-mānim.",
+     "en": "Of course she can. But you mustn't be late; we won't wait.",
+     "col": "البته که می‌شه. ولی نباید دیر کنین؛ ما منتظر نمی‌مونیم.",
+     "colR": "albatte ke mi-she. vali na-bāyad dir konin; mā montazer nemi-munim.",
+     "faV": "اَلبَتّه که می‌شَوَد. وَلی نَبایَد دیر کُنید؛ ما مُنتَظِر نِمی‌مانیم.",
+     "a": "44729089acda",
+     "colV": "اَلبَتّه که می‌شه. وَلی نَبایَد دیر کُنین؛ ما مُنتَظِر نِمی‌مونیم.",
+     "colA": "f2d97742902b"
+    },
+    {
+     "who": "Tom",
+     "fa": "ولی من تا حالا کوه‌نوردی نکرده‌ام. می‌توانم تا بالا بروم؟",
+     "r": "vali man tā hālā kuh-navardi na-karde-am. mi-tavānam tā bālā beravam?",
+     "en": "But I've never been hiking. Will I be able to get to the top?",
+     "col": "ولی من تا حالا کوه‌نوردی نکردم. می‌تونم تا بالا برم؟",
+     "colR": "vali man tā hālā kuh-navardi na-kardam. mi-tunam tā bālā beram?",
+     "faV": "وَلی مَن تا حالا کوه‌نَوَردی نَکَرده‌اَم. می‌تَوانَم تا بالا بِرَوَم؟",
+     "a": "e2149c9c5334",
+     "colV": "وَلی مَن تا حالا کوه‌نَوَردی نَکَردَم. می‌تونَم تا بالا بِرَم؟",
+     "colA": "9d74012358d5"
+    },
+    {
+     "who": "Amir",
+     "fa": "نگران نباش، همه می‌توانند! شاید کمی خسته شوی، ولی ارزشش را دارد.",
+     "r": "negarān na-bāsh, hame mi-tavānand! shāyad kam-i khaste shavi, vali arzesh-ash rā dārad.",
+     "en": "Don't worry, everyone can! You might get a bit tired, but it's worth it.",
+     "col": "نگران نباش، همه می‌تونن! شاید یه کم خسته شی، ولی ارزششو داره.",
+     "colR": "negarān na-bāsh, hame mi-tunan! shāyad ye kam khaste shi, vali arzesh-esh-o dāre.",
+     "faV": "نِگَران نَباش، هَمه می‌تَوانَند! شایَد کَمی خَسته شَوی، وَلی اَرزِشَش را دارَد.",
+     "a": "59aa4c4c93ca",
+     "colV": "نِگَران نَباش، هَمه می‌تونَن! شایَد یه کَم خَسته شی، وَلی اَرزِشِشو داره.",
+     "colA": "d283ab365505"
+    },
+    {
+     "who": "Tom",
+     "fa": "پس جمعه ساعت شش آن‌جا هستم. شاید سارا هم بیاید.",
+     "r": "pas jom'e sā'at-e shesh ān-jā hastam. shāyad Sārā ham biyāyad.",
+     "en": "Then I'll be there at six on Friday. Maybe Sara will come too.",
+     "col": "پس جمعه ساعت شیش اون‌جام. شاید سارا هم بیاد.",
+     "colR": "pas jom'e sā'at-e shish un-jā-m. shāyad Sārā ham biyād.",
+     "faV": "پَس جُمعه ساعَتِ شِش آن‌جا هَستَم. شایَد سارا هَم بیایَد.",
+     "a": "17b92f300183",
+     "colV": "پَس جُمعه ساعَتِ شیش اون‌جام. شایَد سارا هَم بیاد.",
+     "colA": "02e91f5e9eb0"
+    },
+    {
+     "who": "Amir",
+     "fa": "عالی است! فقط یادت باشد: آب یادت نرود!",
+     "r": "āli ast! faghat yād-at bāshad: āb yād-at na-ravad!",
+     "en": "Great! Just remember: don't forget the water!",
+     "col": "عالیه! فقط یادت باشه: آب یادت نره!",
+     "colR": "āli-ye! faghat yād-et bāshe: āb yād-et na-re!",
+     "faV": "عالی اَست! فَقَط یادَت باشَد: آب یادَت نَرَوَد!",
+     "a": "a4c40af1d895",
+     "colV": "عالیه! فَقَط یادِت باشه: آب یادِت نَره!",
+     "colA": "b80c671d1ea7"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "One pattern for must, can and maybe",
+   "md": "Look at what comes after the key words in the dialogue: [[باید باشی|bāyad bāshi|you must be]], [[نمی‌توانم بیدار شوم|nemi-tavānam bidār shavam|I can't wake up]], [[می‌شود بیاید؟|mi-shavad biyāyad?|can she come?]], [[شاید سرد باشد|shāyad sard bāshad|it might be cold]]. Each time the second verb is in the **subjunctive** ([[التزامی|eltezāmi]]) – the *be-* form you met after [[می‌خواهم|mi-khāham|I want]] at A1.\n\nEnglish says *I must go*, *I can go*, *I might go* with a bare verb. Persian puts the person on **both** verbs when the first one is a real verb – [[می‌توانم بروم|mi-tavānam beravam|I-can I-go]] – and only on the second when the first word never changes: [[باید بروم|bāyad beravam|must I-go]], [[شاید بروم|shāyad beravam|maybe I-go]].\n\nSo there are two things to learn: four key words – [[باید|bāyad|must]], [[می‌توانم|mi-tavānam|I can]], [[می‌شود|mi-shavad|it's possible, may I]], [[شاید|shāyad|maybe]] – and the subjunctive itself, for every person and every kind of verb."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "باید",
+     "r": "bāyad",
+     "en": "must, have to, should",
+     "pos": "v",
+     "note": "never changes: bāyad beravam, bāyad beravi…",
+     "ex": {
+      "fa": "باید بیشتر ورزش کنم.",
+      "r": "bāyad bishtar varzesh konam.",
+      "en": "I need to do more exercise.",
+      "faV": "بایَد بیشتَر وَرزِش کُنَم.",
+      "a": "d8142c543056"
+     },
+     "faV": "بایَد",
+     "a": "17a41cdb1248"
+    },
+    {
+     "fa": "نباید",
+     "r": "na-bāyad",
+     "en": "must not, shouldn't",
+     "pos": "v",
+     "ex": {
+      "fa": "نباید دیر کنید.",
+      "r": "na-bāyad dir konid.",
+      "en": "You mustn't be late.",
+      "faV": "نَبایَد دیر کُنید.",
+      "a": "c3e7480c4f30"
+     },
+     "faV": "نَبایَد",
+     "a": "a168901bbb52"
+    },
+    {
+     "fa": "توانستن",
+     "r": "tavānestan",
+     "en": "to be able to, can",
+     "pos": "v",
+     "note": "present stem توان tavān: می‌توانم; spoken می‌تونم mi-tunam",
+     "ex": {
+      "fa": "می‌توانی رانندگی کنی؟",
+      "r": "mi-tavāni rānandegi koni?",
+      "en": "Can you drive?",
+      "faV": "می‌تَوانی رانَندِگی کُنی؟",
+      "a": "37c3d96a9020"
+     },
+     "faV": "تَوانِستَن",
+     "a": "569e90ad5229"
+    },
+    {
+     "fa": "می‌شود",
+     "r": "mi-shavad",
+     "en": "it's possible; may I…? could you…?",
+     "pos": "phrase",
+     "note": "literally 'it becomes'; نمی‌شود 'you can't, it isn't allowed'",
+     "col": "می‌شه",
+     "colR": "mi-she",
+     "ex": {
+      "fa": "می‌شود کمکم کنید؟",
+      "r": "mi-shavad komak-am konid?",
+      "en": "Could you help me?",
+      "faV": "می‌شَوَد کُمَکَم کُنید؟",
+      "a": "af705e520c83"
+     },
+     "faV": "می‌شَوَد",
+     "a": "3940e25101e6",
+     "colV": "می‌شه",
+     "colA": "32bdfee995bc"
+    },
+    {
+     "fa": "شاید",
+     "r": "shāyad",
+     "en": "maybe, perhaps; might",
+     "pos": "adv",
+     "ex": {
+      "fa": "شاید فردا برف بیاید.",
+      "r": "shāyad fardā barf biyāyad.",
+      "en": "It might snow tomorrow.",
+      "faV": "شایَد فَردا بَرف بیایَد.",
+      "a": "a3b905dd11a1"
+     },
+     "faV": "شایَد",
+     "a": "4edf453927b7"
+    },
+    {
+     "fa": "مجبور بودن",
+     "r": "majbur budan",
+     "en": "to have to, to be forced to",
+     "pos": "v",
+     "note": "مجبورم 'I have no choice'; past مجبور شدم 'I had to'",
+     "ex": {
+      "fa": "امروز مجبورم تا دیروقت کار کنم.",
+      "r": "emruz majbur-am tā dir-vaght kār konam.",
+      "en": "Today I have to work late.",
+      "faV": "اِمروز مَجبورَم تا دیروَقت کار کُنَم.",
+      "a": "5e4fc769442d"
+     },
+     "faV": "مَجبور بودَن",
+     "a": "1c3001f94a88"
+    },
+    {
+     "fa": "لازم",
+     "r": "lāzem",
+     "en": "necessary",
+     "pos": "adj",
+     "note": "لازم نیست + subjunctive: 'there's no need to'",
+     "ex": {
+      "fa": "لازم نیست بیایی.",
+      "r": "lāzem nist biyāyi.",
+      "en": "You don't need to come.",
+      "faV": "لازِم نیست بیایی.",
+      "a": "fec486fb0528"
+     },
+     "faV": "لازِم",
+     "a": "fcd9b5248449"
+    },
+    {
+     "fa": "اجازه",
+     "r": "ejāze",
+     "en": "permission",
+     "pos": "n",
+     "note": "اجازه دادن 'to allow'; با اجازه 'excuse me' (when you leave or pass someone)",
+     "ex": {
+      "fa": "پدرم اجازه نمی‌دهد تنها بروم.",
+      "r": "pedar-am ejāze nemi-dahad tanhā beravam.",
+      "en": "My father doesn't let me go alone.",
+      "faV": "پِدَرَم اِجازه نِمی‌دَهَد تَنها بِرَوَم.",
+      "a": "a8a849e90897"
+     },
+     "faV": "اِجازه",
+     "a": "63e56b1ae642"
+    },
+    {
+     "fa": "ممنوع",
+     "r": "mamnu'",
+     "en": "forbidden",
+     "pos": "adj",
+     "ex": {
+      "fa": "این‌جا سیگار کشیدن ممنوع است.",
+      "r": "in-jā sigār keshidan mamnu' ast.",
+      "en": "Smoking is forbidden here.",
+      "faV": "این‌جا سیگار کِشیدَن مَمنوع اَست.",
+      "a": "9a4f78faf412"
+     },
+     "faV": "مَمنوع",
+     "a": "9b4f99f3e757"
+    },
+    {
+     "fa": "قانون",
+     "r": "ghānun",
+     "en": "law, rule",
+     "pos": "n",
+     "note": "plural قانون‌ها, or formally قوانین ghavānin",
+     "faV": "قانون",
+     "a": "d1ec9be1a369"
+    },
+    {
+     "fa": "بلد بودن",
+     "r": "balad budan",
+     "en": "to know how to",
+     "pos": "v",
+     "note": "for skills you have learned: شنا بلدم 'I can swim'",
+     "ex": {
+      "fa": "رانندگی بلدی؟",
+      "r": "rānandegi baladi?",
+      "en": "Can you drive? (Do you know how?)",
+      "faV": "رانَندِگی بَلَدی؟",
+      "a": "8cef784531a1"
+     },
+     "faV": "بَلَد بودَن",
+     "a": "eedb3dedcca2"
+    },
+    {
+     "fa": "شنا کردن",
+     "r": "shenā kardan",
+     "en": "to swim",
+     "pos": "v",
+     "faV": "شِنا کَردَن",
+     "a": "ec57b40ab757"
+    },
+    {
+     "fa": "رانندگی کردن",
+     "r": "rānandegi kardan",
+     "en": "to drive",
+     "pos": "v",
+     "faV": "رانَندِگی کَردَن",
+     "a": "ec73ab039f40"
+    },
+    {
+     "fa": "کوه‌نوردی",
+     "r": "kuh-navardi",
+     "en": "hiking, mountain climbing",
+     "pos": "n",
+     "note": "the everyday phrase is کوه رفتن 'to go to the mountain'",
+     "faV": "کوه‌نَوَردی",
+     "a": "20d99650b272"
+    },
+    {
+     "fa": "دیر کردن",
+     "r": "dir kardan",
+     "en": "to be late",
+     "pos": "v",
+     "ex": {
+      "fa": "ببخشید که دیر کردم.",
+      "r": "bebakhshid ke dir kardam.",
+      "en": "Sorry I'm late.",
+      "faV": "بِبَخشید که دیر کَردَم.",
+      "a": "0d4bbf9e8419"
+     },
+     "faV": "دیر کَردَن",
+     "a": "09f5c2dfcad8"
+    },
+    {
+     "fa": "زود",
+     "r": "zud",
+     "en": "early; quickly",
+     "pos": "adv",
+     "faV": "زود",
+     "a": "512cbb3941b9"
+    },
+    {
+     "fa": "منتظر بودن",
+     "r": "montazer budan",
+     "en": "to wait (for)",
+     "pos": "v",
+     "note": "منتظر ماندن 'to stay and wait'",
+     "ex": {
+      "fa": "منتظرت هستم.",
+      "r": "montazer-at hastam.",
+      "en": "I'm waiting for you.",
+      "faV": "مُنتَظِرَت هَستَم.",
+      "a": "1810e092bf05"
+     },
+     "faV": "مُنتَظِر بودَن",
+     "a": "5549c0eda845"
+    },
+    {
+     "fa": "کلاه",
+     "r": "kolāh",
+     "en": "hat, cap",
+     "pos": "n",
+     "faV": "کُلاه",
+     "a": "53a280740327"
+    },
+    {
+     "fa": "کاپشن",
+     "r": "kāpshen",
+     "en": "(padded) jacket",
+     "pos": "n",
+     "faV": "کاپشِن",
+     "a": "05ad2be3a79e"
+    },
+    {
+     "fa": "ارزش داشتن",
+     "r": "arzesh dāshtan",
+     "en": "to be worth (it)",
+     "pos": "v",
+     "note": "ارزشش را دارد 'it's worth it'",
+     "faV": "اَرزِش داشتَن",
+     "a": "05489792c415"
+    },
+    {
+     "fa": "یادت نرود",
+     "r": "yād-at na-ravad",
+     "en": "don't forget",
+     "pos": "phrase",
+     "note": "literally 'may it not go from your memory' – a subjunctive; یادت باشد 'remember'",
+     "faV": "یادَت نَرَوَد",
+     "a": "a1688bbe6811"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The subjunctive: be- + present stem + ending",
+   "md": "The subjunctive is built like the present tense, with **be-** in place of **mi-**: [[می‌روم|mi-ravam|I go]] → [[بروم|beravam|(that) I go]]. The endings are the present ones: *-am, -i, -ad, -im, -id, -and*. Unlike the past, the third person singular **does** have an ending: [[برود|beravad]].\n\nThe prefix takes its vowel from the stem: **bo-** before a stem with *o* ([[بخورم|bokhoram|(that) I eat]], [[بکنم|bokonam]]) and **bi-** before *ā* ([[بیایم|biyāyam]], [[بیاورم|biyāvaram]]). Compound verbs with [[کردن|kardan]] and [[شدن|shodan]] usually drop it: [[کار کنم|kār konam]], [[بیدار شوم|bidār shavam]].\n\nTwo verbs are special. [[بودن|budan|to be]] has its own subjunctive without *be-*: [[باشم|bāsham]], [[باشی|bāshi]]… And [[داشتن|dāshtan|to have]] uses its past participle with [[باشم|bāsham]]: [[داشته باشم|dāshte bāsham|(that) I have]].\n\nFor the negative, **na-** takes the place of **be-**: [[نروم|na-ravam]], [[نیایم|na-yāyam]], [[کار نکنم|kār na-konam]]. In speech the forms shrink just like the present: *beram, beri, bere, berim, berin, beran*; *bāsham, bāshi, bāshe*.",
+   "table": {
+    "head": [
+     "Person",
+     "go – رفتن",
+     "come – آمدن",
+     "be – بودن",
+     "have – داشتن",
+     "work – کار کردن"
+    ],
+    "rows": [
+     [
+      "I",
+      "[[بروم|beravam]]",
+      "[[بیایم|biyāyam]]",
+      "[[باشم|bāsham]]",
+      "[[داشته باشم|dāshte bāsham]]",
+      "[[کار کنم|kār konam]]"
+     ],
+     [
+      "you",
+      "[[بروی|beravi]]",
+      "[[بیایی|biyāyi]]",
+      "[[باشی|bāshi]]",
+      "[[داشته باشی|dāshte bāshi]]",
+      "[[کار کنی|kār koni]]"
+     ],
+     [
+      "he / she",
+      "[[برود|beravad]]",
+      "[[بیاید|biyāyad]]",
+      "[[باشد|bāshad]]",
+      "[[داشته باشد|dāshte bāshad]]",
+      "[[کار کند|kār konad]]"
+     ],
+     [
+      "we",
+      "[[برویم|beravim]]",
+      "[[بیاییم|biyāyim]]",
+      "[[باشیم|bāshim]]",
+      "[[داشته باشیم|dāshte bāshim]]",
+      "[[کار کنیم|kār konim]]"
+     ],
+     [
+      "you (pl. / polite)",
+      "[[بروید|beravid]]",
+      "[[بیایید|biyāyid]]",
+      "[[باشید|bāshid]]",
+      "[[داشته باشید|dāshte bāshid]]",
+      "[[کار کنید|kār konid]]"
+     ],
+     [
+      "they",
+      "[[بروند|beravand]]",
+      "[[بیایند|biyāyand]]",
+      "[[باشند|bāshand]]",
+      "[[داشته باشند|dāshte bāshand]]",
+      "[[کار کنند|kār konand]]"
+     ],
+     [
+      "not (I)",
+      "[[نروم|na-ravam]]",
+      "[[نیایم|na-yāyam]]",
+      "[[نباشم|na-bāsham]]",
+      "[[نداشته باشم|na-dāshte bāsham]]",
+      "[[کار نکنم|kār na-konam]]"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "می‌خواهم امشب زود بخوابم.",
+     "r": "mi-khāham emshab zud bekhābam.",
+     "en": "I want to go to bed early tonight.",
+     "col": "می‌خوام امشب زود بخوابم.",
+     "colR": "mi-khām emshab zud bekhābam.",
+     "faV": "می‌خواهَم اِمشَب زود بِخوابَم.",
+     "a": "a612d5d0ea3d",
+     "colV": "می‌خوام اِمشَب زود بِخوابَم.",
+     "colA": "7b4a2052cac4"
+    },
+    {
+     "fa": "بهتر است قبل از رفتن چیزی بخوری.",
+     "r": "behtar ast ghabl az raftan chiz-i bokhori.",
+     "en": "You'd better eat something before you go.",
+     "note": "بهتر است 'it is better' + subjunctive = 'you'd better'",
+     "faV": "بِهتَر اَست قَبل اَز رَفتَن چیزی بُخوری.",
+     "a": "ce991fa6c7ee"
+    },
+    {
+     "fa": "قرار است فردا باران بیاید.",
+     "r": "gharār ast fardā bārān biyāyad.",
+     "en": "It's supposed to rain tomorrow.",
+     "faV": "قَرار اَست فَردا باران بیایَد.",
+     "a": "7736dd5eeec2"
+    },
+    {
+     "fa": "امیدوارم حالت خوب باشد.",
+     "r": "omidvār-am hāl-at khub bāshad.",
+     "en": "I hope you're well.",
+     "note": "the first line of many letters and messages",
+     "faV": "اُمیدوارَم حالَت خوب باشَد.",
+     "a": "14b54b41fd6a"
+    },
+    {
+     "fa": "نمی‌خواهم دیر برسیم.",
+     "r": "nemi-khāham dir beresim.",
+     "en": "I don't want us to be late.",
+     "note": "the two verbs can have different persons: I don't want – we arrive",
+     "faV": "نِمی‌خواهَم دیر بِرِسیم.",
+     "a": "6ede9a56bbc0"
+    },
+    {
+     "fa": "دوست دارم یک ماشین داشته باشم.",
+     "r": "dust dāram yek māshin dāshte bāsham.",
+     "en": "I'd like to have a car.",
+     "faV": "دوست دارَم یِک ماشین داشته باشَم.",
+     "a": "65cc0a11cd0f"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Must, mustn't, don't have to: باید، نباید، لازم نیست",
+   "md": "[[باید|bāyad]] means *must*, *have to* and *should* – Persian does not separate them. It never takes an ending; the person is on the verb that follows: [[باید بروم|bāyad beravam|I must go]], [[باید بروند|bāyad beravand|they must go]].\n\nThe negative [[نباید|na-bāyad]] means *must not* – a rule or a warning. Careful: it does **not** mean *don't have to*. For that, say [[لازم نیست|lāzem nist|it isn't necessary]] + subjunctive.\n\nWhen you have no choice, use [[مجبور|majbur|forced]]: [[مجبورم بروم|majbur-am beravam|I have no choice but to go]]. Its past, [[مجبور شدم|majbur shodam]], is the everyday way to say *I had to*. For friendly advice, [[بهتر است|behtar ast|it is better]] + subjunctive is softer than *bāyad*.",
+   "table": {
+    "head": [
+     "Persian",
+     "English",
+     "Use"
+    ],
+    "rows": [
+     [
+      "[[باید بروم.|bāyad beravam.]]",
+      "I must go. / I have to go. / I should go.",
+      "rule, need, advice"
+     ],
+     [
+      "[[نباید بروم.|na-bāyad beravam.]]",
+      "I mustn't go. / I shouldn't go.",
+      "rule, warning"
+     ],
+     [
+      "[[لازم نیست بروم.|lāzem nist beravam.]]",
+      "I don't have to go.",
+      "no need"
+     ],
+     [
+      "[[مجبورم بروم.|majbur-am beravam.]]",
+      "I have no choice but to go.",
+      "no choice"
+     ],
+     [
+      "[[مجبور شدم بروم.|majbur shodam beravam.]]",
+      "I had to go.",
+      "the past"
+     ],
+     [
+      "[[بهتر است بروم.|behtar ast beravam.]]",
+      "I'd better go.",
+      "advice"
+     ],
+     [
+      "[[قرار است بروم.|gharār ast beravam.]]",
+      "I'm supposed to go.",
+      "plan, arrangement"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "در کتابخانه نباید بلند حرف بزنید.",
+     "r": "dar ketāb-khāne na-bāyad boland harf bezanid.",
+     "en": "You mustn't talk loudly in the library.",
+     "faV": "دَر کِتابخانه نَبایَد بُلَند حَرف بِزَنید.",
+     "a": "7f17204d42c5"
+    },
+    {
+     "fa": "فردا تعطیل است؛ لازم نیست زود بیدار شوی.",
+     "r": "fardā ta'til ast; lāzem nist zud bidār shavi.",
+     "en": "Tomorrow is a holiday; you don't have to get up early.",
+     "col": "فردا تعطیله؛ لازم نیست زود بیدار شی.",
+     "colR": "fardā ta'til-e; lāzem nist zud bidār shi.",
+     "faV": "فَردا تَعطیل اَست؛ لازِم نیست زود بیدار شَوی.",
+     "a": "628121c55c83",
+     "colV": "فَردا تَعطیله؛ لازِم نیست زود بیدار شی.",
+     "colA": "42a3be744060"
+    },
+    {
+     "fa": "ببخشید، مجبورم زودتر بروم.",
+     "r": "bebakhshid, majbur-am zud-tar beravam.",
+     "en": "Sorry, I have to leave early.",
+     "col": "ببخشید، مجبورم زودتر برم.",
+     "colR": "bebakhshid, majbur-am zud-tar beram.",
+     "faV": "بِبَخشید، مَجبورَم زودتَر بِرَوَم.",
+     "a": "bb54223f62e6",
+     "colV": "بِبَخشید، مَجبورَم زودتَر بِرَم.",
+     "colA": "5062acc873a3"
+    },
+    {
+     "fa": "دیشب مترو تعطیل بود و مجبور شدیم تاکسی بگیریم.",
+     "r": "dishab metro ta'til bud o majbur shodim tāksi begirim.",
+     "en": "Last night the metro was closed and we had to take a taxi.",
+     "faV": "دیشَب مِترو تَعطیل بود و مَجبور شُدیم تاکسی بِگیریم.",
+     "a": "d619e40dc7a7"
+    },
+    {
+     "fa": "بچه‌ها نباید تنها به کوه بروند.",
+     "r": "bacche-hā na-bāyad tanhā be kuh beravand.",
+     "en": "Children shouldn't go to the mountains alone.",
+     "faV": "بَچّه‌ها نَبایَد تَنها به کوه بِرَوَند.",
+     "a": "c76ea5d3d389"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Can, may, maybe: می‌توانم، می‌شود، شاید",
+   "md": "[[توانستن|tavānestan|to be able]] is an ordinary verb with the stem [[توان|tavān]]: [[می‌توانم|mi-tavānam|I can]], [[نمی‌توانم|nemi-tavānam|I can't]]. The verb after it is subjunctive and has the same person: [[می‌توانم بیایم|mi-tavānam biyāyam|I can come]]. Its simple past means *I managed to* or, negative, *I couldn't*: [[نتوانستم بخوابم|na-tavānestam bekhābam|I couldn't sleep]]. In speech *tavān* shrinks to *tun*: [[می‌تونم|mi-tunam]].\n\n[[می‌شود|mi-shavad]], literally *it becomes*, is the polite way to ask for permission or a favour: [[می‌شود بنشینم؟|mi-shavad beneshinam?|may I sit down?]], [[می‌شود کمکم کنید؟|mi-shavad komak-am konid?|could you help me?]]. The answer is [[بله، می‌شود|bale, mi-shavad|yes, you can]] or [[نه، نمی‌شود|na, nemi-shavad|no, you can't]]. Spoken, it is *mi-she?* – one of the most useful words in Tehran.\n\n[[شاید|shāyad|maybe]] never changes, and for something that may happen now or later it takes the subjunctive: [[شاید بیاید|shāyad biyāyad|she might come]], [[شاید نتواند بیاید|shāyad na-tavānad biyāyad|she might not be able to come]].",
+   "table": {
+    "head": [
+     "Person",
+     "Present",
+     "Spoken",
+     "Past",
+     "Subjunctive"
+    ],
+    "rows": [
+     [
+      "I",
+      "[[می‌توانم|mi-tavānam]]",
+      "[[می‌تونم|mi-tunam]]",
+      "[[توانستم|tavānestam]]",
+      "[[بتوانم|betavānam]]"
+     ],
+     [
+      "you",
+      "[[می‌توانی|mi-tavāni]]",
+      "[[می‌تونی|mi-tuni]]",
+      "[[توانستی|tavānesti]]",
+      "[[بتوانی|betavāni]]"
+     ],
+     [
+      "he / she",
+      "[[می‌تواند|mi-tavānad]]",
+      "[[می‌تونه|mi-tune]]",
+      "[[توانست|tavānest]]",
+      "[[بتواند|betavānad]]"
+     ],
+     [
+      "we",
+      "[[می‌توانیم|mi-tavānim]]",
+      "[[می‌تونیم|mi-tunim]]",
+      "[[توانستیم|tavānestim]]",
+      "[[بتوانیم|betavānim]]"
+     ],
+     [
+      "you (pl. / polite)",
+      "[[می‌توانید|mi-tavānid]]",
+      "[[می‌تونین|mi-tunin]]",
+      "[[توانستید|tavānestid]]",
+      "[[بتوانید|betavānid]]"
+     ],
+     [
+      "they",
+      "[[می‌توانند|mi-tavānand]]",
+      "[[می‌تونن|mi-tunan]]",
+      "[[توانستند|tavānestand]]",
+      "[[بتوانند|betavānand]]"
+     ],
+     [
+      "not (I)",
+      "[[نمی‌توانم|nemi-tavānam]]",
+      "[[نمی‌تونم|nemi-tunam]]",
+      "[[نتوانستم|na-tavānestam]]",
+      "[[نتوانم|na-tavānam]]"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "می‌توانی کمی آهسته‌تر صحبت کنی؟",
+     "r": "mi-tavāni kam-i āheste-tar sohbat koni?",
+     "en": "Can you speak a bit more slowly?",
+     "col": "می‌تونی یه کم آروم‌تر حرف بزنی؟",
+     "colR": "mi-tuni ye kam ārum-tar harf bezani?",
+     "faV": "می‌تَوانی کَمی آهِسته‌تَر صُحبَت کُنی؟",
+     "a": "4d704b73eb32",
+     "colV": "می‌تونی یه کَم آروم‌تَر حَرف بِزَنی؟",
+     "colA": "448f0d0096e0"
+    },
+    {
+     "fa": "دیروز نتوانستم بیایم؛ مریض بودم.",
+     "r": "diruz na-tavānestam biyāyam; mariz budam.",
+     "en": "I couldn't come yesterday; I was ill.",
+     "faV": "دیروز نَتَوانِستَم بیایَم؛ مَریض بودَم.",
+     "a": "cf4fbde88e13"
+    },
+    {
+     "fa": "ببخشید، می‌شود این‌جا بنشینم؟",
+     "r": "bebakhshid, mi-shavad in-jā beneshinam?",
+     "en": "Excuse me, may I sit here?",
+     "col": "ببخشید، می‌شه این‌جا بشینم؟",
+     "colR": "bebakhshid, mi-she in-jā beshinam?",
+     "faV": "بِبَخشید، می‌شَوَد این‌جا بِنِشینَم؟",
+     "a": "228e533ab2e6",
+     "colV": "بِبَخشید، می‌شه این‌جا بِشینَم؟",
+     "colA": "c32d27f24cbb"
+    },
+    {
+     "fa": "شاید امشب به سینما برویم.",
+     "r": "shāyad emshab be sinamā beravim.",
+     "en": "We might go to the cinema tonight.",
+     "col": "شاید امشب بریم سینما.",
+     "colR": "shāyad emshab berim sinamā.",
+     "faV": "شایَد اِمشَب به سینَما بِرَویم.",
+     "a": "f489a7247d8f",
+     "colV": "شایَد اِمشَب بِریم سینَما.",
+     "colA": "169df0552057"
+    },
+    {
+     "fa": "تام شاید نتواند بیاید.",
+     "r": "Tām shāyad na-tavānad biyāyad.",
+     "en": "Tom may not be able to come.",
+     "faV": "تام شایَد نَتَوانَد بیایَد.",
+     "a": "ee30aaeac060"
+    },
+    {
+     "fa": "مادربزرگم هنوز می‌تواند بدون عینک بخواند.",
+     "r": "mādar-bozorg-am hanuz mi-tavānad bedun-e eynak bekhānad.",
+     "en": "My grandmother can still read without glasses.",
+     "faV": "مادَربُزُرگَم هَنوز می‌تَوانَد بِدونِ عَینَک بِخوانَد.",
+     "a": "492a10d9192d"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Tom's dormitory rules",
+   "intro": "Tom writes about life in a student dormitory in Tehran. Find every باید, نباید, می‌توانیم and شاید, and look at the verb that follows each one.",
+   "sentences": [
+    {
+     "fa": "من در خوابگاه دانشگاه تهران زندگی می‌کنم.",
+     "r": "man dar khābgāh-e dāneshgāh-e Tehrān zendegi mi-konam.",
+     "en": "I live in a University of Tehran dormitory.",
+     "faV": "مَن دَر خوابگاهِ دانِشگاهِ تِهران زِندِگی می‌کُنَم.",
+     "a": "bcc0ee855270"
+    },
+    {
+     "fa": "خوابگاه قانون‌های زیادی دارد.",
+     "r": "khābgāh ghānun-hā-ye ziyād-i dārad.",
+     "en": "The dorm has a lot of rules.",
+     "faV": "خوابگاه قانون‌هایِ زیادی دارَد.",
+     "a": "453368dc61b1"
+    },
+    {
+     "fa": "شب‌ها باید تا ساعت یازده به خوابگاه برگردیم.",
+     "r": "shab-hā bāyad tā sā'at-e yāzdah be khābgāh bargardim.",
+     "en": "At night we have to be back at the dorm by eleven.",
+     "faV": "شَب‌ها بایَد تا ساعَتِ یازدَه به خوابگاه بَرگَردیم.",
+     "a": "4596480d52d2"
+    },
+    {
+     "fa": "در اتاق‌ها نباید غذا بپزیم، اما می‌توانیم از آشپزخانه‌ی طبقه‌ی اول استفاده کنیم.",
+     "r": "dar otāgh-hā na-bāyad ghazā bepazim, ammā mi-tavānim az āshpaz-khāne-ye tabaghe-ye avval estefāde konim.",
+     "en": "We mustn't cook in the rooms, but we can use the kitchen on the first floor.",
+     "faV": "دَر اُتاق‌ها نَبایَد غَذا بِپَزیم، اَمّا می‌تَوانیم اَز آشپَزخانه‌یِ طَبَقه‌یِ اَوَّل اِستِفاده کُنیم.",
+     "a": "b84e352eca17"
+    },
+    {
+     "fa": "سیگار کشیدن در همه‌ی ساختمان ممنوع است.",
+     "r": "sigār keshidan dar hame-ye sākhtemān mamnu' ast.",
+     "en": "Smoking is forbidden in the whole building.",
+     "faV": "سیگار کِشیدَن دَر هَمه‌یِ ساختِمان مَمنوع اَست.",
+     "a": "cbd8f424e20c"
+    },
+    {
+     "fa": "مهمان‌ها فقط تا ساعت هشت شب می‌توانند بمانند.",
+     "r": "mehmān-hā faghat tā sā'at-e hasht-e shab mi-tavānand bemānand.",
+     "en": "Guests can only stay until eight in the evening.",
+     "faV": "مِهمان‌ها فَقَط تا ساعَتِ هَشتِ شَب می‌تَوانَند بِمانَند.",
+     "a": "086172169672"
+    },
+    {
+     "fa": "هم‌اتاقی‌ام، داریوش، می‌گوید این قانون‌ها خیلی سخت است.",
+     "r": "ham-otāghi-am, Dāriush, mi-guyad in ghānun-hā kheyli sakht ast.",
+     "en": "My roommate, Dariush, says these rules are very strict.",
+     "faV": "هَم‌اُتاقی‌اَم، داریوش، می‌گویَد این قانون‌ها خَیلی سَخت اَست.",
+     "a": "2cd68fdcf935"
+    },
+    {
+     "fa": "اما من فکر می‌کنم لازم است؛ خوابگاه باید آرام باشد.",
+     "r": "ammā man fekr mi-konam lāzem ast; khābgāh bāyad ārām bāshad.",
+     "en": "But I think they're necessary; a dorm has to be quiet.",
+     "faV": "اَمّا مَن فِکر می‌کُنَم لازِم اَست؛ خوابگاه بایَد آرام باشَد.",
+     "a": "d4e578e8fa5e"
+    },
+    {
+     "fa": "من هنوز نمی‌توانم خوب آشپزی کنم، پس بیشتر شب‌ها در سلف دانشگاه غذا می‌خورم.",
+     "r": "man hanuz nemi-tavānam khub āshpazi konam, pas bishtar-e shab-hā dar self-e dāneshgāh ghazā mi-khoram.",
+     "en": "I still can't cook well, so most nights I eat in the university canteen.",
+     "faV": "مَن هَنوز نِمی‌تَوانَم خوب آشپَزی کُنَم، پَس بیشتَرِ شَب‌ها دَر سِلفِ دانِشگاه غَذا می‌خورَم.",
+     "a": "e8a5536f4f95"
+    },
+    {
+     "fa": "شاید ترم بعد من و داریوش یک آپارتمان کوچک اجاره کنیم.",
+     "r": "shāyad term-e ba'd man o Dāriush yek āpārtemān-e kuchak ejāre konim.",
+     "en": "Next term Dariush and I might rent a small flat.",
+     "faV": "شایَد تِرمِ بَعد مَن و داریوش یِک آپارتِمانِ کوچَک اِجاره کُنیم.",
+     "a": "361254ecf9bd"
+    },
+    {
+     "fa": "آن وقت می‌توانیم هر وقت بخواهیم مهمان دعوت کنیم!",
+     "r": "ān vaght mi-tavānim har vaght bekhāhim mehmān da'vat konim!",
+     "en": "Then we'll be able to invite guests whenever we want!",
+     "faV": "آن وَقت می‌تَوانیم هَر وَقت بِخواهیم مِهمان دَعوَت کُنیم!",
+     "a": "451a20deae32"
+    }
+   ],
+   "questions": [
+    {
+     "q": "By what time must the students be back at night?",
+     "options": [
+      "nine",
+      "eleven",
+      "midnight"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Where are they allowed to cook?",
+     "options": [
+      "in their rooms",
+      "in the kitchen on the first floor",
+      "nowhere in the building"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Why does Tom eat in the canteen most nights?",
+     "options": [
+      "it is cheap",
+      "he can't cook well yet",
+      "the kitchen is closed"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "In «مهمان‌ها می‌توانند بمانند», which word is the subjunctive?",
+     "options": [
+      "مهمان‌ها",
+      "می‌توانند",
+      "بمانند"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Friday on the mountain",
+   "md": "Tehran has the Alborz mountains at the end of its streets, and on Friday mornings – the Iranian weekend – thousands of Tehranis [[کوه می‌روند|kuh mi-ravand|go to the mountain]]. The paths start in the city itself, at [[دربند|Darband]] and [[درکه|Darake]] in the north, and climb past cafés, fruit stalls and teahouses towards [[توچال|Tochāl]], the peak of almost 4,000 metres that looks down on the city. Many people walk for an hour, eat a breakfast of bread, cheese and walnuts beside a stream and come back down; others start before dawn to reach the top.\n\nUniversities, offices and groups of friends often have their own [[گروه کوه|goruh-e kuh|mountain group]], and the rules are always the same: [[باید زود راه بیفتیم|bāyad zud rāh biyoftim|we must set off early]], [[نباید تنها بروید|na-bāyad tanhā beravid|you mustn't go alone]] and, above all, [[آب یادتان نرود|āb yād-etān na-ravad|don't forget your water]].",
+   "image": "tochal"
+  },
+  {
+   "type": "tips",
+   "title": "Watch out",
+   "items": [
+    "**باید** never takes an ending: *bāyad beravam*, never *bāyad-am beravam*. The person goes on the second verb.",
+    "**نباید** means *must not*, not *don't have to*. 'You don't have to come' is *lāzem nist biyāyi*.",
+    "For skills you have learned, Iranians often use **بلد بودن**: *shenā balad-am* 'I can swim', *rānandegi baladi?* 'can you drive?'. **می‌توانم** is about being able at the moment: *emruz nemi-tavānam shenā konam* 'I can't swim today'.",
+    "In speech می‌توانم becomes *mi-tunam*, می‌شود becomes *mi-she* and باشد becomes *bāshe*. **باشه!** on its own is the everyday *OK!*",
+    "You will also see **نمی‌شود** with a short past form: *in-jā nemi-shavad pārk kard* 'you can't park here'. This impersonal pattern comes later; for now use a person: *in-jā nemi-tavānid pārk konid*."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the forms",
+   "items": [
+    {
+     "fa": "بروم",
+     "r": "beravam",
+     "en": "(that) I go",
+     "faV": "بِرَوَم",
+     "a": "a1d833f370f8"
+    },
+    {
+     "fa": "بیایی",
+     "r": "biyāyi",
+     "en": "(that) you come",
+     "faV": "بیایی",
+     "a": "e4510c0a1c10"
+    },
+    {
+     "fa": "باشد",
+     "r": "bāshad",
+     "en": "(that) he / she is",
+     "faV": "باشَد",
+     "a": "ba40c9e96efe"
+    },
+    {
+     "fa": "داشته باشیم",
+     "r": "dāshte bāshim",
+     "en": "(that) we have",
+     "faV": "داشته باشیم",
+     "a": "eab24490de3e"
+    },
+    {
+     "fa": "کار کنید",
+     "r": "kār konid",
+     "en": "(that) you (pl.) work",
+     "faV": "کار کُنید",
+     "a": "255feabd4f83"
+    },
+    {
+     "fa": "بخورند",
+     "r": "bokhorand",
+     "en": "(that) they eat",
+     "faV": "بُخورَند",
+     "a": "7912153b444a"
+    },
+    {
+     "fa": "نتوانستم",
+     "r": "na-tavānestam",
+     "en": "I couldn't",
+     "faV": "نَتَوانِستَم",
+     "a": "2068cb85e0db"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right form",
+   "items": [
+    {
+     "q": "'I must go.'",
+     "options": [
+      "باید می‌روم.",
+      "باید بروم.",
+      "بایدم بروم."
+     ],
+     "answer": 1,
+     "explain": "باید is followed by the subjunctive (beravam) and never takes an ending itself."
+    },
+    {
+     "q": "'You don't have to come.'",
+     "options": [
+      "نباید بیایی.",
+      "نمی‌توانی بیایی.",
+      "لازم نیست بیایی."
+     ],
+     "answer": 2,
+     "explain": "نباید means 'must not'. 'There's no need' is لازم نیست + subjunctive."
+    },
+    {
+     "q": "'May I sit here?'",
+     "options": [
+      "می‌شود این‌جا بنشینم؟",
+      "باید این‌جا بنشینم؟",
+      "شاید این‌جا بنشینم؟"
+     ],
+     "answer": 0,
+     "explain": "می‌شود …؟ is the polite way to ask for permission."
+    },
+    {
+     "q": "The subjunctive of بودن for 'he / she' is…",
+     "options": [
+      "ببود",
+      "باشد",
+      "بود"
+     ],
+     "answer": 1,
+     "explain": "بودن has its own subjunctive without be-: bāsham, bāshi, bāshad…"
+    },
+    {
+     "q": "'I couldn't come yesterday.'",
+     "options": [
+      "دیروز نمی‌توانم بیایم.",
+      "دیروز نتوانستم آمدم.",
+      "دیروز نتوانستم بیایم."
+     ],
+     "answer": 2,
+     "explain": "The past of tavānestan (na-tavānestam) + the subjunctive (biyāyam)."
+    },
+    {
+     "q": "'We might be late.'",
+     "options": [
+      "شاید دیر کنیم.",
+      "شاید دیر کردیم.",
+      "باید دیر کنیم."
+     ],
+     "answer": 0,
+     "explain": "شاید + subjunctive for something that may happen."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {
+     "fa": "فردا باید ساعت شش بیدار ___.",
+     "r": "fardā bāyad sā'at-e shesh bidār ___.",
+     "en": "Tomorrow I have to wake up at six.",
+     "answer": "شوم",
+     "hint": "shodan, I, subjunctive"
+    },
+    {
+     "fa": "ببخشید، ___ این‌جا بنشینم؟",
+     "r": "bebakhshid, ___ in-jā beneshinam?",
+     "en": "Excuse me, may I sit here?",
+     "answer": "می‌شود",
+     "hint": "'it is possible'"
+    },
+    {
+     "fa": "شاید فردا باران ___.",
+     "r": "shāyad fardā bārān ___.",
+     "en": "It might rain tomorrow.",
+     "answer": "بیاید",
+     "hint": "āmadan, it, subjunctive"
+    },
+    {
+     "fa": "سارا مریض است؛ امروز ___ بیاید.",
+     "r": "Sārā mariz ast; emruz ___ biyāyad.",
+     "en": "Sara is ill; she can't come today.",
+     "answer": "نمی‌تواند",
+     "hint": "tavānestan, she, negative"
+    },
+    {
+     "fa": "امیدوارم حالت خوب ___.",
+     "r": "omidvār-am hāl-at khub ___.",
+     "en": "I hope you're well.",
+     "answer": "باشد",
+     "hint": "budan, it, subjunctive"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "باید ساعت شش آن‌جا باشی.",
+     "r": "bāyad sā'at-e shesh ān-jā bāshi.",
+     "en": "You have to be there at six.",
+     "faV": "بایَد ساعَتِ شِش آن‌جا باشی.",
+     "a": "7dc5ec19b7f7"
+    },
+    {
+     "fa": "در کتابخانه نباید بلند حرف بزنید.",
+     "r": "dar ketāb-khāne na-bāyad boland harf bezanid.",
+     "en": "You mustn't talk loudly in the library.",
+     "faV": "دَر کِتابخانه نَبایَد بُلَند حَرف بِزَنید.",
+     "a": "7f17204d42c5"
+    },
+    {
+     "fa": "می‌توانی رانندگی کنی؟",
+     "r": "mi-tavāni rānandegi koni?",
+     "en": "Can you drive?",
+     "faV": "می‌تَوانی رانَندِگی کُنی؟",
+     "a": "37c3d96a9020"
+    },
+    {
+     "fa": "شاید امشب به سینما برویم.",
+     "r": "shāyad emshab be sinamā beravim.",
+     "en": "We might go to the cinema tonight.",
+     "faV": "شایَد اِمشَب به سینَما بِرَویم.",
+     "a": "f489a7247d8f"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "لازم نیست زود بیایی.",
+     "r": "lāzem nist zud biyāyi.",
+     "en": "You don't have to come early.",
+     "options": [
+      "You must come early.",
+      "You don't have to come early.",
+      "You can't come early."
+     ],
+     "answer": 1,
+     "faV": "لازِم نیست زود بیایی.",
+     "a": "9996d93248a6"
+    },
+    {
+     "fa": "نتوانستم بخوابم.",
+     "r": "na-tavānestam bekhābam.",
+     "en": "I couldn't sleep.",
+     "options": [
+      "I couldn't sleep.",
+      "I don't want to sleep.",
+      "I must sleep."
+     ],
+     "answer": 0,
+     "faV": "نَتَوانِستَم بِخوابَم.",
+     "a": "89b9b99a682f"
+    },
+    {
+     "fa": "می‌شود پنجره را باز کنم؟",
+     "r": "mi-shavad panjare rā bāz konam?",
+     "en": "May I open the window?",
+     "options": [
+      "Shall we close the window?",
+      "The window is open.",
+      "May I open the window?"
+     ],
+     "answer": 2,
+     "faV": "می‌شَوَد پَنجَره را باز کُنَم؟",
+     "a": "56ec96428a8e"
+    },
+    {
+     "fa": "شاید دیر برسیم.",
+     "r": "shāyad dir beresim.",
+     "en": "We might arrive late.",
+     "options": [
+      "We arrived late.",
+      "We might arrive late.",
+      "We mustn't be late."
+     ],
+     "answer": 1,
+     "faV": "شایَد دیر بِرِسیم.",
+     "a": "a5bfeaf23e6a"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "I have to go; I can't stay.",
+     "fa": "باید بروم؛ نمی‌توانم بمانم.",
+     "r": "bāyad beravam; nemi-tavānam bemānam.",
+     "faV": "بایَد بِرَوَم؛ نِمی‌تَوانَم بِمانَم.",
+     "a": "f1e5ef1ef5e1"
+    },
+    {
+     "en": "Smoking is forbidden here.",
+     "fa": "این‌جا سیگار کشیدن ممنوع است.",
+     "r": "in-jā sigār keshidan mamnu' ast.",
+     "faV": "این‌جا سیگار کِشیدَن مَمنوع اَست.",
+     "a": "9a4f78faf412"
+    },
+    {
+     "en": "Maybe Sara will come too.",
+     "fa": "شاید سارا هم بیاید.",
+     "r": "shāyad Sārā ham biyāyad.",
+     "faV": "شایَد سارا هَم بیایَد.",
+     "a": "add73747b0f7"
+    },
+    {
+     "en": "Can you speak a bit more slowly?",
+     "fa": "می‌توانی کمی آهسته‌تر صحبت کنی؟",
+     "r": "mi-tavāni kam-i āheste-tar sohbat koni?",
+     "faV": "می‌تَوانی کَمی آهِسته‌تَر صُحبَت کُنی؟",
+     "a": "4d704b73eb32"
+    },
+    {
+     "en": "We had to take a taxi.",
+     "fa": "مجبور شدیم تاکسی بگیریم.",
+     "r": "majbur shodim tāksi begirim.",
+     "faV": "مَجبور شُدیم تاکسی بِگیریم.",
+     "a": "86bce90ca77e"
+    }
+   ]
+  }
+ ],
+ "titleV": "بایَد بِرَوَم، نِمی‌تَوانَم بِمانَم",
+ "titleA": "22632a088794"
+}

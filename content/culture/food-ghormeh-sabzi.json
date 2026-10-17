@@ -32,37 +32,215 @@
   }
  ],
  "sentences": [
-  {"fa": "قورمه‌سبزی غذای محبوب من است.", "r": "ghorme-sabzi ghazā-ye mahbub-e man ast.", "en": "Ghormeh sabzi is my favourite dish."},
-  {"fa": "سبزی قورمه را خیلی ریز خرد کن.", "r": "sabzi-ye ghorme rā kheyli riz khord kon.", "en": "Chop the ghormeh herbs very finely."},
-  {"fa": "سبزی را آرام آرام در روغن سرخ می‌کنیم.", "r": "sabzi rā ārām ārām dar rowghan sorkh mi-konim.", "en": "We fry the herbs slowly in oil."},
-  {"fa": "شنبلیله‌ی زیاد خورش را تلخ می‌کند.", "r": "shanbalile-ye ziyād khoresh rā talkh mi-konad.", "en": "Too much fenugreek makes the stew bitter."},
-  {"fa": "لوبیا قرمز را از شب قبل خیس کنید.", "r": "lubiyā ghermez rā az shab-e ghabl khis konid.", "en": "Soak the kidney beans the night before."},
-  {"fa": "لیمو عمانی را سوراخ کن و در خورش بینداز.", "r": "limu omāni rā surākh kon va dar khoresh bi-yandāz.", "en": "Pierce the dried limes and drop them into the stew."},
-  {"fa": "خورش باید سه ساعت روی آتش ملایم بماند تا جا بیفتد.", "r": "khoresh bāyad se sā'at ru-ye ātash-e molāyem be-mānad tā jā bi-yoftad.", "en": "The stew has to sit on a low flame for three hours to settle."},
-  {"fa": "قورمه‌سبزی فردایش خوشمزه‌تر است.", "r": "ghorme-sabzi fardā-yash khoshmazze-tar ast.", "en": "Ghormeh sabzi tastes even better the next day."},
-  {"fa": "بوی قورمه‌سبزی همه‌ی خانه را پر کرده است.", "r": "bu-ye ghorme-sabzi hame-ye khāne rā por karde ast.", "en": "The smell of ghormeh sabzi has filled the whole house."},
-  {"fa": "امشب قورمه‌سبزی داریم؛ شما هم بیایید.", "r": "emshab ghorme-sabzi dārim; shomā ham bi-yāyid.", "en": "We're having ghormeh sabzi tonight – do come too.", "col": "امشب قورمه‌سبزی داریم؛ شما هم بیاین.", "colR": "emshab ghorme-sabzi dārim; shomā ham bi-yāyn."},
-  {"fa": "به‌به، چه قورمه‌سبزی خوشمزه‌ای!", "r": "bah-bah, che ghorme-sabzi-ye khoshmazze-i!", "en": "Mmm, what a delicious ghormeh sabzi!"}
+  {
+   "fa": "قورمه‌سبزی غذای محبوب من است.",
+   "r": "ghorme-sabzi ghazā-ye mahbub-e man ast.",
+   "en": "Ghormeh sabzi is my favourite dish.",
+   "faV": "قورمه‌سَبزی غَذایِ مَحبوبِ مَن اَست.",
+   "a": "869f93379344"
+  },
+  {
+   "fa": "سبزی قورمه را خیلی ریز خرد کن.",
+   "r": "sabzi-ye ghorme rā kheyli riz khord kon.",
+   "en": "Chop the ghormeh herbs very finely.",
+   "faV": "سَبزیِ قورمه را خَیلی ریز خُرد کُن.",
+   "a": "794515d14eb5"
+  },
+  {
+   "fa": "سبزی را آرام آرام در روغن سرخ می‌کنیم.",
+   "r": "sabzi rā ārām ārām dar rowghan sorkh mi-konim.",
+   "en": "We fry the herbs slowly in oil.",
+   "faV": "سَبزی را آرام آرام دَر رَوغَن سُرخ می‌کُنیم.",
+   "a": "c9ceb2c52c21"
+  },
+  {
+   "fa": "شنبلیله‌ی زیاد خورش را تلخ می‌کند.",
+   "r": "shanbalile-ye ziyād khoresh rā talkh mi-konad.",
+   "en": "Too much fenugreek makes the stew bitter.",
+   "faV": "شَنبَلیله‌یِ زیاد خورِش را تَلخ می‌کُنَد.",
+   "a": "970afad10f50"
+  },
+  {
+   "fa": "لوبیا قرمز را از شب قبل خیس کنید.",
+   "r": "lubiyā ghermez rā az shab-e ghabl khis konid.",
+   "en": "Soak the kidney beans the night before.",
+   "faV": "لوبیا قِرمِز را اَز شَبِ قَبل خیس کُنید.",
+   "a": "42e480198299"
+  },
+  {
+   "fa": "لیمو عمانی را سوراخ کن و در خورش بینداز.",
+   "r": "limu omāni rā surākh kon va dar khoresh bi-yandāz.",
+   "en": "Pierce the dried limes and drop them into the stew.",
+   "faV": "لیمو عُمانی را سوراخ کُن و دَر خورِش بیَنداز.",
+   "a": "b1e9f8a63eda"
+  },
+  {
+   "fa": "خورش باید سه ساعت روی آتش ملایم بماند تا جا بیفتد.",
+   "r": "khoresh bāyad se sā'at ru-ye ātash-e molāyem be-mānad tā jā bi-yoftad.",
+   "en": "The stew has to sit on a low flame for three hours to settle.",
+   "faV": "خورِش بایَد سه ساعَت رویِ آتَشِ مُلایِم بِمانَد تا جا بیُفتَد.",
+   "a": "45201b46fe0d"
+  },
+  {
+   "fa": "قورمه‌سبزی فردایش خوشمزه‌تر است.",
+   "r": "ghorme-sabzi fardā-yash khoshmazze-tar ast.",
+   "en": "Ghormeh sabzi tastes even better the next day.",
+   "faV": "قورمه‌سَبزی فَردایَش خوشمَزّه‌تَر اَست.",
+   "a": "dc44cb85e3a7"
+  },
+  {
+   "fa": "بوی قورمه‌سبزی همه‌ی خانه را پر کرده است.",
+   "r": "bu-ye ghorme-sabzi hame-ye khāne rā por karde ast.",
+   "en": "The smell of ghormeh sabzi has filled the whole house.",
+   "faV": "بویِ قورمه‌سَبزی هَمه‌یِ خانه را پُر کَرده اَست.",
+   "a": "4acee9221bf3"
+  },
+  {
+   "fa": "امشب قورمه‌سبزی داریم؛ شما هم بیایید.",
+   "r": "emshab ghorme-sabzi dārim; shomā ham bi-yāyid.",
+   "en": "We're having ghormeh sabzi tonight – do come too.",
+   "col": "امشب قورمه‌سبزی داریم؛ شما هم بیاین.",
+   "colR": "emshab ghorme-sabzi dārim; shomā ham bi-yāyn.",
+   "faV": "اِمشَب قورمه‌سَبزی داریم؛ شُما هَم بیایید.",
+   "a": "cba5f19133aa",
+   "colV": "اِمشَب قورمه‌سَبزی داریم؛ شُما هَم بیاین.",
+   "colA": "40d47dbd9b7e"
+  },
+  {
+   "fa": "به‌به، چه قورمه‌سبزی خوشمزه‌ای!",
+   "r": "bah-bah, che ghorme-sabzi-ye khoshmazze-i!",
+   "en": "Mmm, what a delicious ghormeh sabzi!",
+   "faV": "بَه‌بَه، چه قورمه‌سَبزیِ خوشمَزّه‌ای!",
+   "a": "7213853f0783"
+  }
  ],
  "vocab": [
-  {"fa": "قورمه‌سبزی", "r": "ghorme-sabzi", "en": "ghormeh sabzi, herb stew"},
-  {"fa": "خورش", "r": "khoresh", "en": "stew"},
-  {"fa": "سبزی", "r": "sabzi", "en": "herbs, greens"},
-  {"fa": "جعفری", "r": "ja'fari", "en": "parsley"},
-  {"fa": "گشنیز", "r": "geshniz", "en": "coriander"},
-  {"fa": "تره", "r": "tare", "en": "Persian leek, garlic chives"},
-  {"fa": "شنبلیله", "r": "shanbalile", "en": "fenugreek"},
-  {"fa": "لوبیا قرمز", "r": "lubiyā ghermez", "en": "red kidney beans"},
-  {"fa": "لیمو عمانی", "r": "limu omāni", "en": "dried lime"},
-  {"fa": "زردچوبه", "r": "zardchube", "en": "turmeric"},
-  {"fa": "روغن", "r": "rowghan", "en": "oil"},
-  {"fa": "سرخ کردن", "r": "sorkh kardan", "en": "to fry"},
-  {"fa": "خرد کردن", "r": "khord kardan", "en": "to chop"},
-  {"fa": "خیس کردن", "r": "khis kardan", "en": "to soak"},
-  {"fa": "جا افتادن", "r": "jā oftādan", "en": "to settle, to mellow (of a stew)"},
-  {"fa": "ملایم", "r": "molāyem", "en": "gentle, low (of heat)"},
-  {"fa": "تلخ", "r": "talkh", "en": "bitter"},
-  {"fa": "بو", "r": "bu", "en": "smell"}
+  {
+   "fa": "قورمه‌سبزی",
+   "r": "ghorme-sabzi",
+   "en": "ghormeh sabzi, herb stew",
+   "faV": "قورمه‌سَبزی",
+   "a": "92104696c35e"
+  },
+  {
+   "fa": "خورش",
+   "r": "khoresh",
+   "en": "stew",
+   "faV": "خورِش",
+   "a": "0be16373e263"
+  },
+  {
+   "fa": "سبزی",
+   "r": "sabzi",
+   "en": "herbs, greens",
+   "faV": "سَبزی",
+   "a": "f72deaeaf822"
+  },
+  {
+   "fa": "جعفری",
+   "r": "ja'fari",
+   "en": "parsley",
+   "faV": "جَعفَری",
+   "a": "d4dd25290eb0"
+  },
+  {
+   "fa": "گشنیز",
+   "r": "geshniz",
+   "en": "coriander",
+   "faV": "گِشنیز",
+   "a": "d620bb0b7c21"
+  },
+  {
+   "fa": "تره",
+   "r": "tare",
+   "en": "Persian leek, garlic chives",
+   "faV": "تَره",
+   "a": "d4547fa4bdca"
+  },
+  {
+   "fa": "شنبلیله",
+   "r": "shanbalile",
+   "en": "fenugreek",
+   "faV": "شَنبَلیله",
+   "a": "dd8315a38772"
+  },
+  {
+   "fa": "لوبیا قرمز",
+   "r": "lubiyā ghermez",
+   "en": "red kidney beans",
+   "faV": "لوبیا قِرمِز",
+   "a": "203848bda4ff"
+  },
+  {
+   "fa": "لیمو عمانی",
+   "r": "limu omāni",
+   "en": "dried lime",
+   "faV": "لیمو عُمانی",
+   "a": "b3d9e34e2c12"
+  },
+  {
+   "fa": "زردچوبه",
+   "r": "zardchube",
+   "en": "turmeric",
+   "faV": "زَردچوبه",
+   "a": "d52c60220811"
+  },
+  {
+   "fa": "روغن",
+   "r": "rowghan",
+   "en": "oil",
+   "faV": "رَوغَن",
+   "a": "534a3beadddd"
+  },
+  {
+   "fa": "سرخ کردن",
+   "r": "sorkh kardan",
+   "en": "to fry",
+   "faV": "سُرخ کَردَن",
+   "a": "768534ca6b42"
+  },
+  {
+   "fa": "خرد کردن",
+   "r": "khord kardan",
+   "en": "to chop",
+   "faV": "خُرد کَردَن",
+   "a": "dae3d86d370d"
+  },
+  {
+   "fa": "خیس کردن",
+   "r": "khis kardan",
+   "en": "to soak",
+   "faV": "خیس کَردَن",
+   "a": "e92cf36db41e"
+  },
+  {
+   "fa": "جا افتادن",
+   "r": "jā oftādan",
+   "en": "to settle, to mellow (of a stew)",
+   "faV": "جا اُفتادَن",
+   "a": "b1d0a77dcf33"
+  },
+  {
+   "fa": "ملایم",
+   "r": "molāyem",
+   "en": "gentle, low (of heat)",
+   "faV": "مُلایِم",
+   "a": "c10d7fa9eeea"
+  },
+  {
+   "fa": "تلخ",
+   "r": "talkh",
+   "en": "bitter",
+   "faV": "تَلخ",
+   "a": "28f8b7b3b26c"
+  },
+  {
+   "fa": "بو",
+   "r": "bu",
+   "en": "smell",
+   "faV": "بو",
+   "a": "f2244a9e5ea0"
+  }
  ],
  "facts": [
   "The herbs of ghormeh sabzi are parsley, leek or chives, coriander and a little fenugreek, which gives the stew its famous aroma.",
@@ -70,5 +248,7 @@
   "Ghorme comes from a Turkic word for fried or braised meat (compare Turkish kavurma).",
   "Iranian greengrocers sell sabzi-ye ghorme, herbs washed and chopped ready for the stew.",
   "Ghaliyeh mahi, the fish and herb stew of the Persian Gulf coast, is a southern cousin of ghormeh sabzi."
- ]
+ ],
+ "titleV": "قورمه‌سَبزی",
+ "titleA": "92104696c35e"
 }

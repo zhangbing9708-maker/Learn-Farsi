@@ -1,0 +1,290 @@
+{
+ "id": "a1-grandmother-tea",
+ "level": "A1",
+ "kind": "everyday life",
+ "title": "Grandmother's tea",
+ "titleFa": "چای مادربزرگ",
+ "titleR": "chāy-e mādar-bozorg",
+ "image": "samovar",
+ "intro": "Tom is a guest at the house of Mina's grandmother, and he learns two things every visitor to Iran needs to know: how to drink tea with a sugar cube, and how to say 'no, thank you' – which in Iran is never the end of the conversation. The story uses the present tense, polite phrases like بفرمایید and دست شما درد نکند, and gives you a first taste of تعارف (ta'ārof), the Persian art of politeness.",
+ "source": "An original story for this course.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "امروز تام مهمان است.",
+     "r": "emruz Tām mehmān ast.",
+     "en": "Today Tom is a guest.",
+     "faV": "اِمروز تام مِهمان اَست.",
+     "a": "9f515ba52f79"
+    },
+    {
+     "fa": "او به خانه‌ی مادربزرگ مینا می‌رود.",
+     "r": "u be khāne-ye mādar-bozorg-e Minā mi-ravad.",
+     "en": "He goes to the house of Mina's grandmother.",
+     "faV": "او به خانه‌یِ مادَربُزُرگِ مینا می‌رَوَد.",
+     "a": "9065c0eab2c4"
+    },
+    {
+     "fa": "مادربزرگ خیلی مهربان است.",
+     "r": "mādar-bozorg kheyli mehrabān ast.",
+     "en": "Grandmother is very kind.",
+     "faV": "مادَربُزُرگ خَیلی مِهرَبان اَست.",
+     "a": "5687f9c34e73"
+    },
+    {
+     "fa": "او یک سماور بزرگ دارد.",
+     "r": "u yek samāvar-e bozorg dārad.",
+     "en": "She has a big samovar.",
+     "faV": "او یِک سَماوَرِ بُزُرگ دارَد.",
+     "a": "7c5fb054a1e7"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "مادربزرگ چای درست می‌کند.",
+     "r": "mādar-bozorg chāy dorost mi-konad.",
+     "en": "Grandmother makes tea.",
+     "faV": "مادَربُزُرگ چای دُرُست می‌کُنَد.",
+     "a": "17efe602583d"
+    },
+    {
+     "fa": "چای در استکان‌های کوچک است.",
+     "r": "chāy dar estekān-hā-ye kuchak ast.",
+     "en": "The tea is in small glasses.",
+     "faV": "چای دَر اِستِکان‌هایِ کوچَک اَست.",
+     "a": "76319fefc4e4"
+    },
+    {
+     "fa": "چای خیلی خوش‌رنگ است.",
+     "r": "chāy kheyli khosh-rang ast.",
+     "en": "The tea is a lovely colour.",
+     "faV": "چای خَیلی خوش‌رَنگ اَست.",
+     "a": "0de81f82b935"
+    },
+    {
+     "fa": "مادربزرگ می‌گوید: «بفرمایید، تام جان!»",
+     "r": "mādar-bozorg mi-guyad: «befarmāyid, Tām jān!»",
+     "en": "Grandmother says: \"Please, have some, Tom dear!\"",
+     "faV": "مادَربُزُرگ می‌گویَد: «بِفَرمایید، تام جان!»",
+     "a": "a2d9134eff88"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "تام قند را در استکان می‌گذارد.",
+     "r": "Tām ghand rā dar estekān mi-gozārad.",
+     "en": "Tom puts the sugar cube in his glass.",
+     "faV": "تام قَند را دَر اِستِکان می‌گُذارَد.",
+     "a": "b81e1a49cb52"
+    },
+    {
+     "fa": "مینا می‌خندد و می‌گوید: «نه، تام! قند در دهان!»",
+     "r": "Minā mi-khandad o mi-guyad: «na, Tām! ghand dar dahān!»",
+     "en": "Mina laughs and says: \"No, Tom! The sugar goes in your mouth!\"",
+     "faV": "مینا می‌خَندَد و می‌گویَد: «نه، تام! قَند دَر دَهان!»",
+     "a": "1f5bb94350cd"
+    },
+    {
+     "fa": "تام یک قند در دهان می‌گذارد و چای می‌خورد.",
+     "r": "Tām yek ghand dar dahān mi-gozārad o chāy mi-khorad.",
+     "en": "Tom puts a sugar cube in his mouth and drinks his tea.",
+     "faV": "تام یِک قَند دَر دَهان می‌گُذارَد و چای می‌خورَد.",
+     "a": "f53085ee8ddb"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "مادربزرگ یک استکان دیگر می‌آورد.",
+     "r": "mādar-bozorg yek estekān-e digar mi-āvarad.",
+     "en": "Grandmother brings another glass.",
+     "faV": "مادَربُزُرگ یِک اِستِکانِ دیگَر می‌آوَرَد.",
+     "a": "ef512877d6ef"
+    },
+    {
+     "fa": "تام می‌گوید: «نه، ممنون. دست شما درد نکند.»",
+     "r": "Tām mi-guyad: «na, mamnun. dast-e shomā dard na-konad.»",
+     "en": "Tom says: \"No, thank you. Thank you for your trouble.\"",
+     "lit": "No, thanks. May your hand not hurt.",
+     "faV": "تام می‌گویَد: «نه، مَمنون. دَستِ شُما دَرد نَکُنَد.»",
+     "a": "5b30eab7e176"
+    },
+    {
+     "fa": "مادربزرگ می‌گوید: «تعارف نکن، پسرم! نوش جان!»",
+     "r": "mādar-bozorg mi-guyad: «ta'ārof na-kon, pesar-am! nush-e jān!»",
+     "en": "Grandmother says: \"Don't stand on ceremony, my boy! Enjoy it!\"",
+     "faV": "مادَربُزُرگ می‌گویَد: «تَعارُف نَکُن، پِسَرَم! نوشِ جان!»",
+     "a": "83c8463cf8cd"
+    },
+    {
+     "fa": "تام این چای را هم می‌خورد.",
+     "r": "Tām in chāy rā ham mi-khorad.",
+     "en": "Tom drinks this tea too.",
+     "faV": "تام این چای را هَم می‌خورَد.",
+     "a": "e323670cbe3e"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "مهمان",
+   "r": "mehmān",
+   "en": "guest",
+   "faV": "مِهمان",
+   "a": "d96e2860a669"
+  },
+  {
+   "fa": "مادربزرگ",
+   "r": "mādar-bozorg",
+   "en": "grandmother",
+   "faV": "مادَربُزُرگ",
+   "a": "65c57d9d30b9"
+  },
+  {
+   "fa": "مهربان",
+   "r": "mehrabān",
+   "en": "kind",
+   "faV": "مِهرَبان",
+   "a": "cb66ed92f9f6"
+  },
+  {
+   "fa": "چای درست کردن",
+   "r": "chāy dorost kardan",
+   "en": "to make tea",
+   "faV": "چای دُرُست کَردَن",
+   "a": "0a7828fca294"
+  },
+  {
+   "fa": "استکان",
+   "r": "estekān",
+   "en": "small tea glass",
+   "faV": "اِستِکان",
+   "a": "6b3e23c953c0"
+  },
+  {
+   "fa": "خوش‌رنگ",
+   "r": "khosh-rang",
+   "en": "of a lovely colour",
+   "faV": "خوش‌رَنگ",
+   "a": "462040a5553e"
+  },
+  {
+   "fa": "بفرمایید",
+   "r": "befarmāyid",
+   "en": "please (have some / go ahead / come in)",
+   "faV": "بِفَرمایید",
+   "a": "13b07409fa24"
+  },
+  {
+   "fa": "جان",
+   "r": "jān",
+   "en": "dear (after a name); soul, life",
+   "faV": "جان",
+   "a": "1fc85d18df97"
+  },
+  {
+   "fa": "قند",
+   "r": "ghand",
+   "en": "sugar cube, lump sugar",
+   "faV": "قَند",
+   "a": "d15bd743d660"
+  },
+  {
+   "fa": "دهان",
+   "r": "dahān",
+   "en": "mouth",
+   "faV": "دَهان",
+   "a": "96d650e6b732"
+  },
+  {
+   "fa": "گذاشتن",
+   "r": "gozāshtan",
+   "en": "to put",
+   "faV": "گُذاشتَن",
+   "a": "a67b6f6d10bd"
+  },
+  {
+   "fa": "دیگر",
+   "r": "digar",
+   "en": "other, another",
+   "faV": "دیگَر",
+   "a": "7ad5327f9db2"
+  },
+  {
+   "fa": "دست شما درد نکند",
+   "r": "dast-e shomā dard na-konad",
+   "en": "thank you (for your trouble)",
+   "faV": "دَستِ شُما دَرد نَکُنَد",
+   "a": "68c0a65436fc"
+  },
+  {
+   "fa": "تعارف",
+   "r": "ta'ārof",
+   "en": "polite ritual of offering and refusing",
+   "faV": "تَعارُف",
+   "a": "3c42bf843630"
+  },
+  {
+   "fa": "پسرم",
+   "r": "pesar-am",
+   "en": "my son; my boy (a friendly way to address a young man)",
+   "faV": "پِسَرَم",
+   "a": "b4f416d1bca9"
+  },
+  {
+   "fa": "نوش جان",
+   "r": "nush-e jān",
+   "en": "enjoy (your food or drink)!",
+   "faV": "نوشِ جان",
+   "a": "743617f708a1"
+  }
+ ],
+ "questions": [
+  {
+   "q": "Whose house does Tom visit?",
+   "options": [
+    "his teacher's",
+    "Mina's grandmother's",
+    "Reza's aunt's"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What does Tom do first with the sugar cube?",
+   "options": [
+    "he puts it in his glass",
+    "he gives it to Mina",
+    "he puts it in his mouth"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Where, says Mina, does the sugar cube go?",
+   "options": [
+    "in the tea",
+    "in the samovar",
+    "in your mouth"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What does Grandmother say when Tom says 'no, thank you'?",
+   "options": [
+    "\"Don't stand on ceremony! Enjoy it!\"",
+    "\"Good, go home!\"",
+    "\"The tea is cold.\""
+   ],
+   "answer": 0
+  }
+ ],
+ "after": "In many Iranian homes tea is still made in a samovar and served in small glasses (استکان) on a tray. Many people do not stir sugar into their tea: they hold a sugar cube (قند) in the mouth – or dip it in the tea first – and drink through it. Good tea is خوش‌رنگ, 'of a lovely colour': deep, clear red. The end of the story is pure ta'ārof: the guest politely refuses, the host insists with تعارف نکن 'don't stand on ceremony', and the guest gives in. Saying 'no' once is just being polite. دست شما درد نکند, literally 'may your hand not hurt', thanks someone for the trouble they took; نوش جان, 'may it nourish your soul', is what you say to someone who is eating or drinking; and جان after a name, as in تام جان, means 'dear'.",
+ "titleV": "چایِ مادَربُزُرگ",
+ "titleA": "af8b4bb810d3"
+}

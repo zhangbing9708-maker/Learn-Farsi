@@ -295,10 +295,10 @@ The word *tomān* itself is old: it comes from Mongolian *tümen*, 'ten thousand
 
 **Put the words in order**
 
-1. شما / چند / دارید؟ / سال — How old are you?
-2. چهار / و / دارم. / سال / من / بیست — I am twenty-four.
-3. است؟ / شما / تلفن / چند / شماره‌ی — What is your phone number?
-4. دوازده / ما / دانشجو / کلاس / دارد. — Our class has twelve students.
+1. دارید؟ / چند / شما / سال — How old are you?
+2. دارم. / و / من / بیست / چهار / سال — I am twenty-four.
+3. است؟ / چند / شما / شماره‌ی / تلفن — What is your phone number?
+4. دانشجو / ما / دارد. / کلاس / دوازده — Our class has twelve students.
 
 <details><summary>Answers</summary>
 

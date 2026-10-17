@@ -37,37 +37,223 @@
   }
  ],
  "sentences": [
-  {"fa": "شیرینی قبولی‌ات کجاست؟", "r": "shirini-ye ghabuli-at kojā-st?", "en": "Where are the sweets for passing your exam?", "col": "شیرینی قبولیت کو؟", "colR": "shirini-ye ghabuli-t ku?"},
-  {"fa": "گز سوغاتی معروف اصفهان است.", "r": "gaz soghāti-ye ma'ruf-e Esfahān ast.", "en": "Gaz is Isfahan's famous souvenir."},
-  {"fa": "از قم برایمان سوهان بیاور.", "r": "az Ghom barā-yemān sohān bi-yāvar.", "en": "Bring us some sohan from Qom."},
-  {"fa": "در ماه رمضان زولبیا و بامیه خیلی طرفدار دارد.", "r": "dar māh-e ramezān zulbiyā va bāmiye kheyli tarafdār dārad.", "en": "In Ramadan zoolbia and bamieh are hugely popular."},
-  {"fa": "شله‌زرد را با دارچین و خلال بادام تزیین می‌کنند.", "r": "shole-zard rā bā dārchin va khalāl-e bādām tazyin mi-konand.", "en": "Sholeh zard is decorated with cinnamon and slivered almonds."},
-  {"fa": "برنج شله‌زرد باید خیلی آرام بپزد.", "r": "berenj-e shole-zard bāyad kheyli ārām be-pazad.", "en": "The rice for sholeh zard has to cook very slowly."},
-  {"fa": "در شیراز فالوده را با آب‌لیمو می‌خورند.", "r": "dar Shirāz fālude rā bā āb-limu mi-khorand.", "en": "In Shiraz they eat faloodeh with lime juice."},
-  {"fa": "یک بستنی سنتی با فالوده، لطفاً.", "r": "yek bastani-ye sonnati bā fālude, lotfan.", "en": "A traditional ice cream with faloodeh, please.", "col": "یه بستنی سنتی با فالوده، لطفاً.", "colR": "ye bastani-ye sonnati bā fālude, lotfan."},
-  {"fa": "این شیرینی‌ها را خودتان پخته‌اید؟", "r": "in shirini-hā rā khod-etān pokhte-id?", "en": "Did you bake these pastries yourself?", "col": "این شیرینی‌ها رو خودتون پختین؟", "colR": "in shirini-hā ro khod-etun pokhtin?"},
-  {"fa": "حلوا را برای مراسم ختم درست می‌کنند.", "r": "halvā rā barā-ye marāsem-e khatm dorost mi-konand.", "en": "Halva is made for memorial services."},
-  {"fa": "دستتان درد نکند، شیرینی‌ها فوق‌العاده بودند.", "r": "dast-etān dard na-konad, shirini-hā fowgh-ol-āde budand.", "en": "Thank you – the pastries were wonderful."}
+  {
+   "fa": "شیرینی قبولی‌ات کجاست؟",
+   "r": "shirini-ye ghabuli-at kojā-st?",
+   "en": "Where are the sweets for passing your exam?",
+   "col": "شیرینی قبولیت کو؟",
+   "colR": "shirini-ye ghabuli-t ku?",
+   "faV": "شیرینیِ قَبولی‌اَت کُجاست؟",
+   "a": "8e10bf8434c0",
+   "colV": "شیرینیِ قَبولیت کو؟",
+   "colA": "16fe287d9e62"
+  },
+  {
+   "fa": "گز سوغاتی معروف اصفهان است.",
+   "r": "gaz soghāti-ye ma'ruf-e Esfahān ast.",
+   "en": "Gaz is Isfahan's famous souvenir.",
+   "faV": "گَز سوغاتیِ مَعروفِ اِصفَهان اَست.",
+   "a": "f93e963b76d3"
+  },
+  {
+   "fa": "از قم برایمان سوهان بیاور.",
+   "r": "az Ghom barā-yemān sohān bi-yāvar.",
+   "en": "Bring us some sohan from Qom.",
+   "faV": "اَز قُم بَرایِمان سوهان بیاوَر.",
+   "a": "a375d043b229"
+  },
+  {
+   "fa": "در ماه رمضان زولبیا و بامیه خیلی طرفدار دارد.",
+   "r": "dar māh-e ramezān zulbiyā va bāmiye kheyli tarafdār dārad.",
+   "en": "In Ramadan zoolbia and bamieh are hugely popular.",
+   "faV": "دَر ماهِ رَمِضان زولبیا و بامیه خَیلی طَرَفدار دارَد.",
+   "a": "126d92f48adf"
+  },
+  {
+   "fa": "شله‌زرد را با دارچین و خلال بادام تزیین می‌کنند.",
+   "r": "shole-zard rā bā dārchin va khalāl-e bādām tazyin mi-konand.",
+   "en": "Sholeh zard is decorated with cinnamon and slivered almonds.",
+   "faV": "شُله‌زَرد را با دارچین و خَلالِ بادام تَزیین می‌کُنَند.",
+   "a": "4b33c9075a97"
+  },
+  {
+   "fa": "برنج شله‌زرد باید خیلی آرام بپزد.",
+   "r": "berenj-e shole-zard bāyad kheyli ārām be-pazad.",
+   "en": "The rice for sholeh zard has to cook very slowly.",
+   "faV": "بِرِنجِ شُله‌زَرد بایَد خَیلی آرام بِپَزَد.",
+   "a": "7b8e72100d0e"
+  },
+  {
+   "fa": "در شیراز فالوده را با آب‌لیمو می‌خورند.",
+   "r": "dar Shirāz fālude rā bā āb-limu mi-khorand.",
+   "en": "In Shiraz they eat faloodeh with lime juice.",
+   "faV": "دَر شیراز فالوده را با آب‌لیمو می‌خورَند.",
+   "a": "a11a84429e28"
+  },
+  {
+   "fa": "یک بستنی سنتی با فالوده، لطفاً.",
+   "r": "yek bastani-ye sonnati bā fālude, lotfan.",
+   "en": "A traditional ice cream with faloodeh, please.",
+   "col": "یه بستنی سنتی با فالوده، لطفاً.",
+   "colR": "ye bastani-ye sonnati bā fālude, lotfan.",
+   "faV": "یِک بَستَنیِ سُنَّتی با فالوده، لُطفاً.",
+   "a": "4362823b9ed9",
+   "colV": "یه بَستَنیِ سُنَّتی با فالوده، لُطفاً.",
+   "colA": "fcfef9f4bf4e"
+  },
+  {
+   "fa": "این شیرینی‌ها را خودتان پخته‌اید؟",
+   "r": "in shirini-hā rā khod-etān pokhte-id?",
+   "en": "Did you bake these pastries yourself?",
+   "col": "این شیرینی‌ها رو خودتون پختین؟",
+   "colR": "in shirini-hā ro khod-etun pokhtin?",
+   "faV": "این شیرینی‌ها را خودِتان پُخته‌اید؟",
+   "a": "1c8dfd51eadf",
+   "colV": "این شیرینی‌ها رو خودِتون پُختین؟",
+   "colA": "9114e17ec3cf"
+  },
+  {
+   "fa": "حلوا را برای مراسم ختم درست می‌کنند.",
+   "r": "halvā rā barā-ye marāsem-e khatm dorost mi-konand.",
+   "en": "Halva is made for memorial services.",
+   "faV": "حَلوا را بَرایِ مَراسِمِ خَتم دُرُست می‌کُنَند.",
+   "a": "25f135a94fcf"
+  },
+  {
+   "fa": "دستتان درد نکند، شیرینی‌ها فوق‌العاده بودند.",
+   "r": "dast-etān dard na-konad, shirini-hā fowgh-ol-āde budand.",
+   "en": "Thank you – the pastries were wonderful.",
+   "faV": "دَستِتان دَرد نَکُنَد، شیرینی‌ها فَوق‌اُلعاده بودَند.",
+   "a": "2718f518e672"
+  }
  ],
  "vocab": [
-  {"fa": "شیرینی", "r": "shirini", "en": "pastry, sweets; sweetness"},
-  {"fa": "دسر", "r": "deser", "en": "dessert"},
-  {"fa": "گلاب", "r": "golāb", "en": "rosewater"},
-  {"fa": "گز", "r": "gaz", "en": "gaz, Isfahan nougat"},
-  {"fa": "سوهان", "r": "sohān", "en": "sohan, saffron toffee from Qom"},
-  {"fa": "زولبیا", "r": "zulbiyā", "en": "zoolbia, syrup-soaked fried spiral"},
-  {"fa": "بامیه", "r": "bāmiye", "en": "bamieh (pastry); okra"},
-  {"fa": "حلوا", "r": "halvā", "en": "halva"},
-  {"fa": "شله‌زرد", "r": "shole-zard", "en": "saffron rice pudding"},
-  {"fa": "فالوده", "r": "fālude", "en": "faloodeh, frozen rosewater noodles"},
-  {"fa": "بستنی", "r": "bastani", "en": "ice cream"},
-  {"fa": "دارچین", "r": "dārchin", "en": "cinnamon"},
-  {"fa": "شکر", "r": "shekar", "en": "sugar"},
-  {"fa": "عسل", "r": "asal", "en": "honey"},
-  {"fa": "شربت", "r": "sharbat", "en": "syrup; sweet cold drink"},
-  {"fa": "سوغاتی", "r": "soghāti", "en": "souvenir (from a trip)"},
-  {"fa": "افطار", "r": "eftār", "en": "iftar, the meal that breaks the fast"},
-  {"fa": "تزیین کردن", "r": "tazyin kardan", "en": "to decorate"}
+  {
+   "fa": "شیرینی",
+   "r": "shirini",
+   "en": "pastry, sweets; sweetness",
+   "faV": "شیرینی",
+   "a": "ad59be1f4ec5"
+  },
+  {
+   "fa": "دسر",
+   "r": "deser",
+   "en": "dessert",
+   "faV": "دِسِر",
+   "a": "367c05386874"
+  },
+  {
+   "fa": "گلاب",
+   "r": "golāb",
+   "en": "rosewater",
+   "faV": "گُلاب",
+   "a": "c652abb92180"
+  },
+  {
+   "fa": "گز",
+   "r": "gaz",
+   "en": "gaz, Isfahan nougat",
+   "faV": "گَز",
+   "a": "a41936053c92"
+  },
+  {
+   "fa": "سوهان",
+   "r": "sohān",
+   "en": "sohan, saffron toffee from Qom",
+   "faV": "سوهان",
+   "a": "beb0413f2ae0"
+  },
+  {
+   "fa": "زولبیا",
+   "r": "zulbiyā",
+   "en": "zoolbia, syrup-soaked fried spiral",
+   "faV": "زولبیا",
+   "a": "b59de3df9908"
+  },
+  {
+   "fa": "بامیه",
+   "r": "bāmiye",
+   "en": "bamieh (pastry); okra",
+   "faV": "بامیه",
+   "a": "ff4a3d35e54e"
+  },
+  {
+   "fa": "حلوا",
+   "r": "halvā",
+   "en": "halva",
+   "faV": "حَلوا",
+   "a": "8d253718630c"
+  },
+  {
+   "fa": "شله‌زرد",
+   "r": "shole-zard",
+   "en": "saffron rice pudding",
+   "faV": "شُله‌زَرد",
+   "a": "38295afcaad0"
+  },
+  {
+   "fa": "فالوده",
+   "r": "fālude",
+   "en": "faloodeh, frozen rosewater noodles",
+   "faV": "فالوده",
+   "a": "6c24f6aa4d6e"
+  },
+  {
+   "fa": "بستنی",
+   "r": "bastani",
+   "en": "ice cream",
+   "faV": "بَستَنی",
+   "a": "b880b806dfb2"
+  },
+  {
+   "fa": "دارچین",
+   "r": "dārchin",
+   "en": "cinnamon",
+   "faV": "دارچین",
+   "a": "7b6f8189af76"
+  },
+  {
+   "fa": "شکر",
+   "r": "shekar",
+   "en": "sugar",
+   "faV": "شِکَر",
+   "a": "1e05438a8321"
+  },
+  {
+   "fa": "عسل",
+   "r": "asal",
+   "en": "honey",
+   "faV": "عَسَل",
+   "a": "cff3004b3ed5"
+  },
+  {
+   "fa": "شربت",
+   "r": "sharbat",
+   "en": "syrup; sweet cold drink",
+   "faV": "شَربَت",
+   "a": "2b66be29b9b1"
+  },
+  {
+   "fa": "سوغاتی",
+   "r": "soghāti",
+   "en": "souvenir (from a trip)",
+   "faV": "سوغاتی",
+   "a": "eee2ef9adbf7"
+  },
+  {
+   "fa": "افطار",
+   "r": "eftār",
+   "en": "iftar, the meal that breaks the fast",
+   "faV": "اِفطار",
+   "a": "064b9ab21f56"
+  },
+  {
+   "fa": "تزیین کردن",
+   "r": "tazyin kardan",
+   "en": "to decorate",
+   "faV": "تَزیین کَردَن",
+   "a": "0839716ff1fb"
+  }
  ],
  "facts": [
   "Gaz takes its name from gaz-angabin, a sweet sap gathered from a wild shrub in the Zagros mountains.",
@@ -76,5 +262,7 @@
   "Zoolbia and bamieh are the classic sweets of Ramadan iftars.",
   "Halva is served at funerals and memorials and shared on Thursday evenings in memory of the dead.",
   "Yakhchāl, 'ice pit', once meant the domed ice houses of the desert; today it is the word for a fridge."
- ]
+ ],
+ "titleV": "شیرینی‌هایِ ایرانی",
+ "titleA": "088ec8bb43c1"
 }

@@ -1,0 +1,1320 @@
+{
+ "id": "a2-05-compound-verbs",
+ "level": "A2",
+ "n": 5,
+ "title": "Compound verbs: I'll help you",
+ "titleFa": "کمکت می‌کنم!",
+ "titleR": "komak-at mi-konam!",
+ "intro": "Persian has only a few hundred simple verbs. For almost everything else – to work, to phone, to decide, to fall over – it joins a noun or an adjective to one of a handful of light verbs: کردن (do), شدن (become), زدن (hit), دادن (give), گرفتن (take) and خوردن (eat). In this lesson you learn how these pairs work, where 'not' and mi- go, and thirty compound verbs that Iranians use every day.",
+ "goals": [
+  "recognise and use compound verbs with کردن، شدن، زدن، دادن، گرفتن and خوردن",
+  "put mi-, na- and be- in the right place: کار نمی‌کنم، زنگ نزدم",
+  "tell apart pairs like تمام کردن / تمام شدن and یاد دادن / یاد گرفتن",
+  "attach an object pronoun to the first part: کمکت می‌کنم",
+  "talk about everyday jobs and chores"
+ ],
+ "image": "nowruz",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "Spring-cleaning before Nowruz",
+   "context": "It is a week before Nowruz. Mahsa phones her friend Leila, who is spending the day cleaning the house with her mother.",
+   "lines": [
+    {
+     "who": "Mahsa",
+     "fa": "الو، لیلا؟ سلام! چه کار می‌کنی؟ صدایت خسته است.",
+     "r": "alo, Leylā? salām! che kār mi-koni? sedā-yat khaste ast.",
+     "en": "Hello, Leila? Hi! What are you doing? You sound tired.",
+     "col": "الو، لیلا؟ سلام! چی کار می‌کنی؟ صدات خسته‌ست.",
+     "colR": "alo, Leylā? salām! chi kār mi-koni? sedā-t khaste-st.",
+     "faV": "اَلو، لَیلا؟ سَلام! چه کار می‌کُنی؟ صِدایَت خَسته اَست.",
+     "a": "a1c8a00564c0",
+     "colV": "اَلو، لَیلا؟ سَلام! چی کار می‌کُنی؟ صِدات خَسته‌ست.",
+     "colA": "eac31b3823fa"
+    },
+    {
+     "who": "Leila",
+     "fa": "سلام مهسا. داریم خانه‌تکانی می‌کنیم! از صبح کار می‌کنم.",
+     "r": "salām Mahsā. dārim khāne-tekāni mi-konim! az sobh kār mi-konam.",
+     "en": "Hi Mahsa. We're doing the Nowruz spring-cleaning! I've been working since the morning.",
+     "col": "سلام مهسا. داریم خونه‌تکونی می‌کنیم! از صبح دارم کار می‌کنم.",
+     "colR": "salām Mahsā. dārim khune-tekuni mi-konim! az sobh dāram kār mi-konam.",
+     "faV": "سَلام مَهسا. داریم خانه‌تِکانی می‌کُنیم! اَز صُبح کار می‌کُنَم.",
+     "a": "42d60a0cac7b",
+     "colV": "سَلام مَهسا. داریم خونه‌تِکونی می‌کُنیم! اَز صُبح دارَم کار می‌کُنَم.",
+     "colA": "378ac49bf06d"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "آهان، عید نزدیک است. چه کارهایی کرده‌اید؟",
+     "r": "āhān, eyd nazdik ast. che kār-hā-yi karde-id?",
+     "en": "Of course, the New Year's coming. What have you done so far?",
+     "col": "آهان، عید نزدیکه. چه کارایی کردین؟",
+     "colR": "āhān, eyd nazdik-e. che kār-ā-yi kardin?",
+     "faV": "آهان، عَید نَزدیک اَست. چه کارهایی کَرده‌اید؟",
+     "a": "c4cdec985134",
+     "colV": "آهان، عَید نَزدیکه. چه کارایی کَردین؟",
+     "colA": "2ada4ee56d79"
+    },
+    {
+     "who": "Leila",
+     "fa": "پنجره‌ها را تمیز کردم و فرش‌ها را جارو کردم، ولی آشپزخانه هنوز تمام نشده است.",
+     "r": "panjare-hā rā tamiz kardam o farsh-hā rā jāru kardam, vali āshpaz-khāne hanuz tamām na-shode ast.",
+     "en": "I've cleaned the windows and vacuumed the carpets, but the kitchen still isn't finished.",
+     "col": "پنجره‌ها رو تمیز کردم، فرشا رو جارو کردم، ولی آشپزخونه هنوز تموم نشده.",
+     "colR": "panjare-hā ro tamiz kardam, farsh-ā ro jāru kardam, vali āshpaz-khune hanuz tamum na-shode.",
+     "faV": "پَنجَره‌ها را تَمیز کَردَم و فَرش‌ها را جارو کَردَم، وَلی آشپَزخانه هَنوز تَمام نَشُده اَست.",
+     "a": "73122b280a05",
+     "colV": "پَنجَره‌ها رو تَمیز کَردَم، فَرشا رو جارو کَردَم، وَلی آشپَزخونه هَنوز تَموم نَشُده.",
+     "colA": "67570ec8d96c"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "می‌خواهی بیایم کمکت کنم؟ من امروز کاری ندارم.",
+     "r": "mi-khāhi biyāyam komak-at konam? man emruz kār-i na-dāram.",
+     "en": "Do you want me to come and help you? I've got nothing to do today.",
+     "col": "می‌خوای بیام کمکت کنم؟ من امروز کاری ندارم.",
+     "colR": "mi-khāy biyām komak-et konam? man emruz kār-i na-dāram.",
+     "faV": "می‌خواهی بیایَم کُمَکَت کُنَم؟ مَن اِمروز کاری نَدارَم.",
+     "a": "7b6ee7746091",
+     "colV": "می‌خوای بیام کُمَکِت کُنَم؟ مَن اِمروز کاری نَدارَم.",
+     "colA": "c86a0b4e1928"
+    },
+    {
+     "who": "Leila",
+     "fa": "وای، دستت درد نکند! ولی زحمت نکش، تو هم حتماً کار داری.",
+     "r": "vāy, dast-at dard na-konad! vali zahmat na-kesh, to ham hatman kār dāri.",
+     "en": "Oh, that's so kind of you! But don't go to any trouble, you must have things to do too.",
+     "col": "وای، دستت درد نکنه! ولی زحمت نکش، تو هم حتماً کار داری.",
+     "colR": "vāy, dast-et dard na-kone! vali zahmat na-kesh, to ham hatman kār dāri.",
+     "faV": "وای، دَستَت دَرد نَکُنَد! وَلی زَحمَت نَکِش، تو هَم حَتماً کار داری.",
+     "a": "03bfb4f076d3",
+     "colV": "وای، دَستِت دَرد نَکُنه! وَلی زَحمَت نَکِش، تو هَم حَتماً کار داری.",
+     "colA": "9766d179857f"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "نه بابا، تعارف نکن! نیم ساعت دیگر آن‌جا هستم.",
+     "r": "na bābā, ta'ārof na-kon! nim sā'at-e digar ān-jā hastam.",
+     "en": "Oh, come on, don't stand on ceremony! I'll be there in half an hour.",
+     "col": "نه بابا، تعارف نکن! نیم ساعت دیگه اون‌جام.",
+     "colR": "na bābā, ta'ārof na-kon! nim sā'at-e dige un-jā-m.",
+     "faV": "نه بابا، تَعارُف نَکُن! نیم ساعَتِ دیگَر آن‌جا هَستَم.",
+     "a": "e99612523771",
+     "colV": "نه بابا، تَعارُف نَکُن! نیم ساعَتِ دیگه اون‌جام.",
+     "colA": "99d774590ea6"
+    },
+    {
+     "who": "Leila",
+     "fa": "باشد، پس بیا! فقط سر راه نان بگیر؛ نان نداریم.",
+     "r": "bāshad, pas biyā! faghat sar-e rāh nān begir; nān na-dārim.",
+     "en": "OK, then come! Just pick up some bread on the way; we've got no bread.",
+     "col": "باشه، پس بیا! فقط سر راه نون بگیر؛ نون نداریم.",
+     "colR": "bāshe, pas biyā! faghat sar-e rāh nun begir; nun na-dārim.",
+     "faV": "باشَد، پَس بیا! فَقَط سَرِ راه نان بِگیر؛ نان نَداریم.",
+     "a": "3e529c313764",
+     "colV": "باشه، پَس بیا! فَقَط سَرِ راه نون بِگیر؛ نون نَداریم.",
+     "colA": "0288355aad10"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "چشم. راستی، دیروز به رضا زنگ زدی؟ تولدش بود.",
+     "r": "chashm. rāsti, diruz be Rezā zang zadi? tavallod-ash bud.",
+     "en": "Will do. By the way, did you ring Reza yesterday? It was his birthday.",
+     "col": "چشم. راستی، دیروز به رضا زنگ زدی؟ تولدش بود.",
+     "colR": "chashm. rāsti, diruz be Rezā zang zadi? tavallod-esh bud.",
+     "faV": "چَشم. راستی، دیروز به رِضا زَنگ زَدی؟ تَوَلُّدَش بود.",
+     "a": "780f88b7ac0c",
+     "colV": "چَشم. راستی، دیروز به رِضا زَنگ زَدی؟ تَوَلُّدِش بود.",
+     "colA": "20ba39ec78d5"
+    },
+    {
+     "who": "Leila",
+     "fa": "وای نه! یادم رفت. اصلاً به او زنگ نزدم! حتماً ناراحت شده است.",
+     "r": "vāy na! yād-am raft. aslan be u zang na-zadam! hatman nārāhat shode ast.",
+     "en": "Oh no! I forgot. I didn't ring him at all! He must be upset.",
+     "col": "وای نه! یادم رفت. اصلاً بهش زنگ نزدم! حتماً ناراحت شده.",
+     "colR": "vāy na! yād-am raft. aslan behesh zang na-zadam! hatman nārāhat shode.",
+     "faV": "وای نه! یادَم رَفت. اَصلاً به او زَنگ نَزَدَم! حَتماً ناراحَت شُده اَست.",
+     "a": "a364d8af0c16",
+     "colV": "وای نه! یادَم رَفت. اَصلاً بِهِش زَنگ نَزَدَم! حَتماً ناراحَت شُده.",
+     "colA": "8b6792d314b4"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "نگران نباش. امروز به او پیام بده و عذرخواهی کن. رضا زود فراموش می‌کند!",
+     "r": "negarān na-bāsh. emruz be u payām bedeh o ozrkhāhi kon. Rezā zud farāmush mi-konad!",
+     "en": "Don't worry. Send him a message today and say sorry. Reza forgets quickly!",
+     "col": "نگران نباش. امروز بهش پیام بده و عذرخواهی کن. رضا زود فراموش می‌کنه!",
+     "colR": "negarān na-bāsh. emruz behesh payām bede o ozrkhāhi kon. Rezā zud farāmush mi-kone!",
+     "faV": "نِگَران نَباش. اِمروز به او پَیام بِدِه و عُذرخواهی کُن. رِضا زود فَراموش می‌کُنَد!",
+     "a": "09c5d635a57d",
+     "colV": "نِگَران نَباش. اِمروز بِهِش پَیام بِده و عُذرخواهی کُن. رِضا زود فَراموش می‌کُنه!",
+     "colA": "4aefd990dd82"
+    },
+    {
+     "who": "Leila",
+     "fa": "حق با توست. خب، دیگر قطع می‌کنم. زود بیا!",
+     "r": "hagh bā to-st. khob, digar ghat' mi-konam. zud biyā!",
+     "en": "You're right. Well, I'll hang up now. Come soon!",
+     "col": "حق با توئه. خب، دیگه قطع می‌کنم. زود بیا!",
+     "colR": "hagh bā to-e. khob, dige ghat' mi-konam. zud biyā!",
+     "faV": "حَق با توست. خُب، دیگَر قَطع می‌کُنَم. زود بیا!",
+     "a": "439ef80e8147",
+     "colV": "حَق با توئه. خُب، دیگه قَطع می‌کُنَم. زود بیا!",
+     "colA": "d5f7119c2c66"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Two-word verbs",
+   "md": "Count the verbs in the dialogue: [[خانه‌تکانی می‌کنیم|khāne-tekāni mi-konim]], [[کار می‌کنم|kār mi-konam]], [[تمیز کردم|tamiz kardam]], [[زنگ زدی|zang zadi]], [[پیام بده|payām bedeh]], [[تمام نشده|tamām na-shode]]… Almost every one is made of **two words**: a noun or an adjective that carries the meaning, and a short, common verb that carries the grammar.\n\nPersian has only about two hundred simple verbs in everyday use. Everything else is a **compound verb** ([[فعل مرکب|fe'l-e morakkab]]): [[کار|kār|work]] + [[کردن|kardan|to do]] = *to work*; [[زنگ|zang|bell]] + [[زدن|zadan|to hit]] = *to ring*; [[تمیز|tamiz|clean]] + [[کردن|kardan]] = *to clean*. The light verb is conjugated in the usual way, and everything you have learned – *mi-*, *na-*, *be-*, the endings, the perfect – happens to it alone: [[کار می‌کنم|kār mi-konam|I work]], [[کار نکردم|kār na-kardam|I didn't work]], [[کار کرده‌ام|kār karde-am|I have worked]].\n\nThe first word never changes. So once you know the six light verbs, you can already conjugate thousands of verbs."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "خانه‌تکانی",
+     "r": "khāne-tekāni",
+     "en": "spring-cleaning (before Nowruz)",
+     "pos": "n",
+     "note": "literally 'house-shaking'",
+     "col": "خونه‌تکونی",
+     "colR": "khune-tekuni",
+     "faV": "خانه‌تِکانی",
+     "a": "7d21890ac6d8",
+     "colV": "خونه‌تِکونی",
+     "colA": "d719b4226031"
+    },
+    {
+     "fa": "تمیز کردن",
+     "r": "tamiz kardan",
+     "en": "to clean",
+     "pos": "v",
+     "ex": {
+      "fa": "پنجره‌ها را تمیز کردم.",
+      "r": "panjare-hā rā tamiz kardam.",
+      "en": "I cleaned the windows.",
+      "faV": "پَنجَره‌ها را تَمیز کَردَم.",
+      "a": "e87c5b3917fd"
+     },
+     "faV": "تَمیز کَردَن",
+     "a": "7743bd982262"
+    },
+    {
+     "fa": "جارو کردن",
+     "r": "jāru kardan",
+     "en": "to sweep, to vacuum",
+     "pos": "v",
+     "note": "جارو برقی 'vacuum cleaner', literally 'electric broom'",
+     "faV": "جارو کَردَن",
+     "a": "c585d99760b3"
+    },
+    {
+     "fa": "فرش",
+     "r": "farsh",
+     "en": "carpet, rug",
+     "pos": "n",
+     "faV": "فَرش",
+     "a": "c47d09fc9bac"
+    },
+    {
+     "fa": "پنجره",
+     "r": "panjare",
+     "en": "window",
+     "pos": "n",
+     "faV": "پَنجَره",
+     "a": "274d18068312"
+    },
+    {
+     "fa": "کمک کردن",
+     "r": "komak kardan",
+     "en": "to help",
+     "pos": "v",
+     "note": "'help you' puts the pronoun on the noun: کمکت می‌کنم",
+     "ex": {
+      "fa": "به مادرم در آشپزخانه کمک کردم.",
+      "r": "be mādar-am dar āshpaz-khāne komak kardam.",
+      "en": "I helped my mother in the kitchen.",
+      "faV": "به مادَرَم دَر آشپَزخانه کُمَک کَردَم.",
+      "a": "759fff299af5"
+     },
+     "faV": "کُمَک کَردَن",
+     "a": "3b77f445d513"
+    },
+    {
+     "fa": "زحمت کشیدن",
+     "r": "zahmat keshidan",
+     "en": "to take trouble, to work hard",
+     "pos": "v",
+     "note": "زحمت نکش 'don't go to any trouble' – a polite refusal",
+     "faV": "زَحمَت کِشیدَن",
+     "a": "e63513741cfe"
+    },
+    {
+     "fa": "تعارف کردن",
+     "r": "ta'ārof kardan",
+     "en": "to stand on ceremony; to offer politely",
+     "pos": "v",
+     "note": "تعارف نکن! 'don't be so polite – say what you really want!'",
+     "faV": "تَعارُف کَردَن",
+     "a": "049c0a5c104c"
+    },
+    {
+     "fa": "نان گرفتن",
+     "r": "nān gereftan",
+     "en": "to buy bread",
+     "pos": "v",
+     "note": "گرفتن 'to take, get' is the everyday verb for picking something up at a shop",
+     "faV": "نان گِرِفتَن",
+     "a": "6716855d7bdc"
+    },
+    {
+     "fa": "زنگ زدن",
+     "r": "zang zadan",
+     "en": "to ring, to phone",
+     "pos": "v",
+     "ex": {
+      "fa": "به مادرت زنگ زدی؟",
+      "r": "be mādar-at zang zadi?",
+      "en": "Did you ring your mother?",
+      "faV": "به مادَرَت زَنگ زَدی؟",
+      "a": "41ed34b6660a"
+     },
+     "faV": "زَنگ زَدَن",
+     "a": "233b87a155c5"
+    },
+    {
+     "fa": "پیام دادن",
+     "r": "payām dādan",
+     "en": "to send a message, to text",
+     "pos": "v",
+     "faV": "پَیام دادَن",
+     "a": "254961e3cc1f"
+    },
+    {
+     "fa": "عذرخواهی کردن",
+     "r": "ozrkhāhi kardan",
+     "en": "to apologise",
+     "pos": "v",
+     "ex": {
+      "fa": "باید از او عذرخواهی کنی.",
+      "r": "bāyad az u ozrkhāhi koni.",
+      "en": "You should apologise to him.",
+      "faV": "بایَد اَز او عُذرخواهی کُنی.",
+      "a": "10317ccd9b08"
+     },
+     "faV": "عُذرخواهی کَردَن",
+     "a": "a9bf8a5d3a50"
+    },
+    {
+     "fa": "فراموش کردن",
+     "r": "farāmush kardan",
+     "en": "to forget",
+     "pos": "v",
+     "faV": "فَراموش کَردَن",
+     "a": "1b9d92f8421b"
+    },
+    {
+     "fa": "یادم رفت",
+     "r": "yād-am raft",
+     "en": "I forgot",
+     "pos": "phrase",
+     "note": "literally 'it went from my memory'; یادم آمد 'I remembered'",
+     "faV": "یادَم رَفت",
+     "a": "94e4cbef1136"
+    },
+    {
+     "fa": "ناراحت شدن",
+     "r": "nārāhat shodan",
+     "en": "to get upset",
+     "pos": "v",
+     "faV": "ناراحَت شُدَن",
+     "a": "5c6dcc973444"
+    },
+    {
+     "fa": "تمام شدن",
+     "r": "tamām shodan",
+     "en": "to end, to run out",
+     "pos": "v",
+     "note": "تمام کردن 'to finish (something)'",
+     "ex": {
+      "fa": "نان تمام شد.",
+      "r": "nān tamām shod.",
+      "en": "We've run out of bread.",
+      "faV": "نان تَمام شُد.",
+      "a": "cd43641fccec"
+     },
+     "faV": "تَمام شُدَن",
+     "a": "7cef233338f3"
+    },
+    {
+     "fa": "تولد",
+     "r": "tavallod",
+     "en": "birthday; birth",
+     "pos": "n",
+     "note": "تولدت مبارک! 'happy birthday!'",
+     "faV": "تَوَلُّد",
+     "a": "6dfc90d9080f"
+    },
+    {
+     "fa": "حتماً",
+     "r": "hatman",
+     "en": "definitely; must (be)",
+     "pos": "adv",
+     "ex": {
+      "fa": "حتماً خسته‌ای.",
+      "r": "hatman khaste-i.",
+      "en": "You must be tired.",
+      "faV": "حَتماً خَسته‌ای.",
+      "a": "cb06755a51db"
+     },
+     "faV": "حَتماً",
+     "a": "c23a990ac802"
+    },
+    {
+     "fa": "اصلاً",
+     "r": "aslan",
+     "en": "(not) at all",
+     "pos": "adv",
+     "note": "with a negative verb",
+     "faV": "اَصلاً",
+     "a": "0aa7acb33cb4"
+    },
+    {
+     "fa": "حق با توست",
+     "r": "hagh bā to-st",
+     "en": "you're right",
+     "pos": "phrase",
+     "note": "literally 'the right is with you'",
+     "faV": "حَق با توست",
+     "a": "5235bd2f3bca"
+    },
+    {
+     "fa": "قطع کردن",
+     "r": "ghat' kardan",
+     "en": "to hang up; to cut off",
+     "pos": "v",
+     "faV": "قَطع کَردَن",
+     "a": "4938dd7dd92e"
+    },
+    {
+     "fa": "عید",
+     "r": "eyd",
+     "en": "festival; (in Iran) Nowruz",
+     "pos": "n",
+     "note": "عید شما مبارک! 'happy New Year!'",
+     "faV": "عَید",
+     "a": "1b1296a0c46b"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "How a compound verb works",
+   "md": "A compound verb has two parts: a **first part** – a noun or an adjective, sometimes an adverb – and a **light verb**. All the grammar goes on the light verb; the first part never changes and never takes a prefix. The table shows one compound verb, [[کار کردن|kār kardan|to work]], in all the tenses you know.\n\nIn the subjunctive and the imperative, compounds with [[کردن|kardan]] and [[شدن|shodan]] normally drop *be-*: [[کار کن!|kār kon!|work!]], [[بیدار شو!|bidār sho!|wake up!]]. The other light verbs keep it: [[زنگ بزن!|zang bezan!|ring!]], [[گوش بده!|gush bedeh!|listen!]], [[تصمیم بگیر!|tasmim begir!|decide!]].\n\nAn object pronoun goes on the **first** part: [[کمکت می‌کنم|komak-at mi-konam|I'll help you]], [[صدایش کردم|sedā-yash kardam|I called him]]. A direct object comes before the whole verb: [[در را باز کن|dar rā bāz kon|open the door]].",
+   "table": {
+    "head": [
+     "Form",
+     "Persian",
+     "English"
+    ],
+    "rows": [
+     [
+      "present",
+      "[[کار می‌کنم|kār mi-konam]]",
+      "I work, I'm working"
+     ],
+     [
+      "present, negative",
+      "[[کار نمی‌کنم|kār nemi-konam]]",
+      "I don't work"
+     ],
+     [
+      "simple past",
+      "[[کار کردم|kār kardam]]",
+      "I worked"
+     ],
+     [
+      "simple past, negative",
+      "[[کار نکردم|kār na-kardam]]",
+      "I didn't work"
+     ],
+     [
+      "past continuous",
+      "[[کار می‌کردم|kār mi-kardam]]",
+      "I was working, I used to work"
+     ],
+     [
+      "present perfect",
+      "[[کار کرده‌ام|kār karde-am]]",
+      "I have worked"
+     ],
+     [
+      "subjunctive",
+      "[[کار کنم|kār konam]]",
+      "(that) I work"
+     ],
+     [
+      "imperative",
+      "[[کار کن!|kār kon!]]",
+      "work!"
+     ],
+     [
+      "negative imperative",
+      "[[کار نکن!|kār na-kon!]]",
+      "don't work!"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "امروز کار نمی‌کنم؛ تعطیل است.",
+     "r": "emruz kār nemi-konam; ta'til ast.",
+     "en": "I'm not working today; it's a holiday.",
+     "col": "امروز کار نمی‌کنم؛ تعطیله.",
+     "colR": "emruz kār nemi-konam; ta'til-e.",
+     "faV": "اِمروز کار نِمی‌کُنَم؛ تَعطیل اَست.",
+     "a": "c2061f33612e",
+     "colV": "اِمروز کار نِمی‌کُنَم؛ تَعطیله.",
+     "colA": "7f4fbb7f9f0f"
+    },
+    {
+     "fa": "دیشب به حرف‌هایت خیلی فکر کردم.",
+     "r": "dishab be harf-hā-yat kheyli fekr kardam.",
+     "en": "Last night I thought a lot about what you said.",
+     "col": "دیشب به حرفات خیلی فکر کردم.",
+     "colR": "dishab be harf-ā-t kheyli fekr kardam.",
+     "faV": "دیشَب به حَرف‌هایَت خَیلی فِکر کَردَم.",
+     "a": "07bec8931e26",
+     "colV": "دیشَب به حَرفات خَیلی فِکر کَردَم.",
+     "colA": "0bf227b86b31"
+    },
+    {
+     "fa": "می‌توانم کمکتان کنم؟",
+     "r": "mi-tavānam komak-etān konam?",
+     "en": "Can I help you?",
+     "col": "می‌تونم کمکتون کنم؟",
+     "colR": "mi-tunam komak-etun konam?",
+     "faV": "می‌تَوانَم کُمَکِتان کُنَم؟",
+     "a": "27f10b8c5200",
+     "colV": "می‌تونَم کُمَکِتون کُنَم؟",
+     "colA": "2adc18077250"
+    },
+    {
+     "fa": "سارا دیر بیدار شد و کلاس را از دست داد.",
+     "r": "Sārā dir bidār shod o kelās rā az dast dād.",
+     "en": "Sara woke up late and missed the class.",
+     "note": "از دست دادن 'to lose, to miss' – a compound of three words",
+     "faV": "سارا دیر بیدار شُد و کِلاس را اَز دَست داد.",
+     "a": "d13250dea122"
+    },
+    {
+     "fa": "تلویزیون را خاموش کن و بخواب!",
+     "r": "televiziyon rā khāmush kon o bekhāb!",
+     "en": "Turn off the TV and go to sleep!",
+     "faV": "تِلِویزیون را خاموش کُن و بِخواب!",
+     "a": "bfbdf945a692"
+    },
+    {
+     "fa": "صبر کن، من هم می‌آیم!",
+     "r": "sabr kon, man ham mi-āyam!",
+     "en": "Wait, I'm coming too!",
+     "faV": "صَبر کُن، مَن هَم می‌آیَم!",
+     "a": "2aafa5d8219b"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Six verbs do most of the work",
+   "md": "Each light verb has a feel that helps you guess and remember:\n\n- [[کردن|kardan|do, make]] – by far the most common; with an adjective it means *make something …*: [[تمیز کردن|tamiz kardan|make clean]], [[باز کردن|bāz kardan|make open]].\n- [[شدن|shodan|become]] – a change that *happens*: [[تمیز شدن|tamiz shodan|get clean]], [[باز شدن|bāz shodan|come open]].\n- [[زدن|zadan|hit]] – sounds and quick actions: [[زنگ زدن|zang zadan]], [[حرف زدن|harf zadan]].\n- [[دادن|dādan|give]] – something goes out from you: [[یاد دادن|yād dādan|teach]], [[جواب دادن|javāb dādan|answer]].\n- [[گرفتن|gereftan|take, get]] – something comes to you: [[یاد گرفتن|yād gereftan|learn]], [[دوش گرفتن|dush gereftan|take a shower]].\n- [[خوردن|khordan|eat]] – something happens *to* you: [[زمین خوردن|zamin khordan|fall over]], [[سرما خوردن|sarmā khordan|catch a cold]].\n\nHere are thirty that you will hear every day. The last column gives the literal meaning – it often makes a verb easy to remember.",
+   "table": {
+    "head": [
+     "Light verb",
+     "Compound verb",
+     "English",
+     "Literally"
+    ],
+    "rows": [
+     [
+      "[[کردن|kardan]]",
+      "[[کار کردن|kār kardan]]",
+      "to work",
+      "do work"
+     ],
+     [
+      "[[کردن|kardan]]",
+      "[[فکر کردن|fekr kardan]]",
+      "to think",
+      "do thought"
+     ],
+     [
+      "[[کردن|kardan]]",
+      "[[صحبت کردن|sohbat kardan]]",
+      "to talk, to speak",
+      "do conversation"
+     ],
+     [
+      "[[کردن|kardan]]",
+      "[[زندگی کردن|zendegi kardan]]",
+      "to live",
+      "do life"
+     ],
+     [
+      "[[کردن|kardan]]",
+      "[[کمک کردن|komak kardan]]",
+      "to help",
+      "do help"
+     ],
+     [
+      "[[کردن|kardan]]",
+      "[[تمیز کردن|tamiz kardan]]",
+      "to clean",
+      "make clean"
+     ],
+     [
+      "[[کردن|kardan]]",
+      "[[پیدا کردن|peydā kardan]]",
+      "to find",
+      "make visible"
+     ],
+     [
+      "[[کردن|kardan]]",
+      "[[باز کردن|bāz kardan]]",
+      "to open",
+      "make open"
+     ],
+     [
+      "[[کردن|kardan]]",
+      "[[استفاده کردن|estefāde kardan]]",
+      "to use",
+      "do use"
+     ],
+     [
+      "[[شدن|shodan]]",
+      "[[بیدار شدن|bidār shodan]]",
+      "to wake up",
+      "become awake"
+     ],
+     [
+      "[[شدن|shodan]]",
+      "[[خسته شدن|khaste shodan]]",
+      "to get tired",
+      "become tired"
+     ],
+     [
+      "[[شدن|shodan]]",
+      "[[تمام شدن|tamām shodan]]",
+      "to end, to run out",
+      "become finished"
+     ],
+     [
+      "[[شدن|shodan]]",
+      "[[سوار شدن|savār shodan]]",
+      "to get on (a bus, a train)",
+      "become a rider"
+     ],
+     [
+      "[[شدن|shodan]]",
+      "[[پیاده شدن|piyāde shodan]]",
+      "to get off",
+      "become on foot"
+     ],
+     [
+      "[[زدن|zadan]]",
+      "[[زنگ زدن|zang zadan]]",
+      "to ring, to phone",
+      "hit the bell"
+     ],
+     [
+      "[[زدن|zadan]]",
+      "[[حرف زدن|harf zadan]]",
+      "to talk",
+      "hit words"
+     ],
+     [
+      "[[زدن|zadan]]",
+      "[[قدم زدن|ghadam zadan]]",
+      "to go for a walk",
+      "hit steps"
+     ],
+     [
+      "[[زدن|zadan]]",
+      "[[حدس زدن|hads zadan]]",
+      "to guess",
+      "hit a guess"
+     ],
+     [
+      "[[زدن|zadan]]",
+      "[[سر زدن|sar zadan]]",
+      "to drop in (on someone)",
+      "hit a head"
+     ],
+     [
+      "[[دادن|dādan]]",
+      "[[گوش دادن|gush dādan]]",
+      "to listen",
+      "give an ear"
+     ],
+     [
+      "[[دادن|dādan]]",
+      "[[نشان دادن|neshān dādan]]",
+      "to show",
+      "give a sign"
+     ],
+     [
+      "[[دادن|dādan]]",
+      "[[یاد دادن|yād dādan]]",
+      "to teach",
+      "give memory"
+     ],
+     [
+      "[[دادن|dādan]]",
+      "[[جواب دادن|javāb dādan]]",
+      "to answer",
+      "give an answer"
+     ],
+     [
+      "[[گرفتن|gereftan]]",
+      "[[دوش گرفتن|dush gereftan]]",
+      "to have a shower",
+      "take a shower"
+     ],
+     [
+      "[[گرفتن|gereftan]]",
+      "[[یاد گرفتن|yād gereftan]]",
+      "to learn",
+      "take memory"
+     ],
+     [
+      "[[گرفتن|gereftan]]",
+      "[[تصمیم گرفتن|tasmim gereftan]]",
+      "to decide",
+      "take a decision"
+     ],
+     [
+      "[[گرفتن|gereftan]]",
+      "[[عکس گرفتن|aks gereftan]]",
+      "to take a photo",
+      "take a picture"
+     ],
+     [
+      "[[خوردن|khordan]]",
+      "[[زمین خوردن|zamin khordan]]",
+      "to fall over",
+      "eat the ground"
+     ],
+     [
+      "[[خوردن|khordan]]",
+      "[[سرما خوردن|sarmā khordan]]",
+      "to catch a cold",
+      "eat cold"
+     ],
+     [
+      "[[خوردن|khordan]]",
+      "[[غصه خوردن|ghosse khordan]]",
+      "to worry, to grieve",
+      "eat sorrow"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "در باز شد و مهسا وارد شد.",
+     "r": "dar bāz shod o Mahsā vāred shod.",
+     "en": "The door opened and Mahsa came in.",
+     "faV": "دَر باز شُد و مَهسا وارِد شُد.",
+     "a": "7b0b4f7cc114"
+    },
+    {
+     "fa": "تام در تهران فارسی یاد گرفت و حالا به بچه‌ها انگلیسی یاد می‌دهد.",
+     "r": "Tām dar Tehrān fārsi yād gereft o hālā be bacche-hā engelisi yād mi-dahad.",
+     "en": "Tom learned Persian in Tehran, and now he teaches children English.",
+     "faV": "تام دَر تِهران فارسی یاد گِرِفت و حالا به بَچّه‌ها اِنگِلیسی یاد می‌دَهَد.",
+     "a": "ef7eff7c9629"
+    },
+    {
+     "fa": "عصرها با پدربزرگم در پارک قدم می‌زنم.",
+     "r": "asr-hā bā pedar-bozorg-am dar pārk ghadam mi-zanam.",
+     "en": "In the evenings I go for a walk in the park with my grandfather.",
+     "faV": "عَصرها با پِدَربُزُرگَم دَر پارک قَدَم می‌زَنَم.",
+     "a": "f9fcccf28c96"
+    },
+    {
+     "fa": "دیروز در برف زمین خوردم.",
+     "r": "diruz dar barf zamin khordam.",
+     "en": "Yesterday I fell over in the snow.",
+     "faV": "دیروز دَر بَرف زَمین خوردَم.",
+     "a": "ec9079933fb0"
+    },
+    {
+     "fa": "غصه نخور، همه چیز درست می‌شود.",
+     "r": "ghosse na-khor, hame chiz dorost mi-shavad.",
+     "en": "Don't worry, everything will be all right.",
+     "col": "غصه نخور، همه چی درست می‌شه.",
+     "colR": "ghosse na-khor, hame chi dorost mi-she.",
+     "faV": "غُصّه نَخور، هَمه چیز دُرُست می‌شَوَد.",
+     "a": "0bd80a274c69",
+     "colV": "غُصّه نَخور، هَمه چی دُرُست می‌شه.",
+     "colA": "d32e62cfa402"
+    },
+    {
+     "fa": "بالاخره تصمیم گرفتم ماشین بخرم.",
+     "r": "bālākhare tasmim gereftam māshin bekharam.",
+     "en": "I've finally decided to buy a car.",
+     "faV": "بالاخَره تَصمیم گِرِفتَم ماشین بِخَرَم.",
+     "a": "3e9aebabe91c"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Not, mi- and the pronoun: what goes where",
+   "md": "Because the first part never changes, all the small pieces you know go **inside** the compound – on the light verb:\n\n- the negative: [[زنگ نزدم|zang na-zadam|I didn't ring]], [[گوش نده|gush na-deh|don't listen]];\n- *mi-* and *nemi-*: [[جواب نمی‌دهی|javāb nemi-dahi|you don't answer]];\n- the perfect: [[تصمیم نگرفته‌ام|tasmim na-gerefte-am|I haven't decided]];\n- the *be-* of the subjunctive: [[باید زنگ بزنم|bāyad zang bezanam|I must ring]].\n\nThe object pronoun, on the other hand, sits on the first word: [[کمکت می‌کنم|komak-at mi-konam|I'll help you]], [[صدایش کردم|sedā-yash kardam|I called her]]. You can always say the same with [[به|be]] + pronoun instead: [[به تو کمک می‌کنم|be to komak mi-konam]]. Words like [[خیلی|kheyli|a lot]] and [[زود|zud|early]] go in front of the whole compound: [[خیلی فکر کردم|kheyli fekr kardam|I thought a lot]].",
+   "table": {
+    "head": [
+     "Persian",
+     "English",
+     "What to notice"
+    ],
+    "rows": [
+     [
+      "[[کار نمی‌کنم|kār nemi-konam]]",
+      "I don't work",
+      "nemi- on the light verb"
+     ],
+     [
+      "[[زنگ نزدم|zang na-zadam]]",
+      "I didn't ring",
+      "na- on the light verb"
+     ],
+     [
+      "[[دوش نگرفته‌ام|dush na-gerefte-am]]",
+      "I haven't had a shower",
+      "the perfect, negative"
+     ],
+     [
+      "[[گوش نده!|gush na-deh!]]",
+      "don't listen!",
+      "negative imperative"
+     ],
+     [
+      "[[باید تصمیم بگیری|bāyad tasmim begiri]]",
+      "you have to decide",
+      "be- kept with gereftan"
+     ],
+     [
+      "[[باید کار کنی|bāyad kār koni]]",
+      "you have to work",
+      "no be- with kardan"
+     ],
+     [
+      "[[کمکت می‌کنم|komak-at mi-konam]]",
+      "I'll help you",
+      "pronoun on the first part"
+     ],
+     [
+      "[[به تو کمک می‌کنم|be to komak mi-konam]]",
+      "I'll help you",
+      "or be + pronoun"
+     ],
+     [
+      "[[خیلی فکر کردم|kheyli fekr kardam]]",
+      "I thought a lot",
+      "adverb before the whole verb"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "امروز اصلاً تلویزیون نگاه نکردم.",
+     "r": "emruz aslan televiziyon negāh na-kardam.",
+     "en": "I didn't watch TV at all today.",
+     "faV": "اِمروز اَصلاً تِلِویزیون نِگاه نَکَردَم.",
+     "a": "4a479e4de4db"
+    },
+    {
+     "fa": "چرا جواب نمی‌دهی؟",
+     "r": "cherā javāb nemi-dahi?",
+     "en": "Why aren't you answering?",
+     "col": "چرا جواب نمی‌دی؟",
+     "colR": "cherā javāb nemi-di?",
+     "faV": "چِرا جَواب نِمی‌دَهی؟",
+     "a": "71219baf2eb4",
+     "colV": "چِرا جَواب نِمی‌دی؟",
+     "colA": "0028a3821fbd"
+    },
+    {
+     "fa": "فردا به تو زنگ می‌زنم.",
+     "r": "fardā be to zang mi-zanam.",
+     "en": "I'll ring you tomorrow.",
+     "col": "فردا بهت زنگ می‌زنم.",
+     "colR": "fardā behet zang mi-zanam.",
+     "faV": "فَردا به تو زَنگ می‌زَنَم.",
+     "a": "42e3b29591d4",
+     "colV": "فَردا بِهِت زَنگ می‌زَنَم.",
+     "colA": "7f42ecfb21d0"
+    },
+    {
+     "fa": "هنوز تصمیم نگرفته‌ام.",
+     "r": "hanuz tasmim na-gerefte-am.",
+     "en": "I haven't decided yet.",
+     "col": "هنوز تصمیم نگرفتم.",
+     "colR": "hanuz tasmim na-gereftam.",
+     "faV": "هَنوز تَصمیم نَگِرِفته‌اَم.",
+     "a": "e973595cb750",
+     "colV": "هَنوز تَصمیم نَگِرِفتَم.",
+     "colA": "2edb21064669"
+    },
+    {
+     "fa": "لطفاً این‌جا عکس نگیرید.",
+     "r": "lotfan in-jā aks na-girid.",
+     "en": "Please don't take photos here.",
+     "faV": "لُطفاً این‌جا عَکس نَگیرید.",
+     "a": "046a60766097"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Reza's Saturday",
+   "intro": "Saturday is the first working day of the Iranian week. Read about Reza's Saturday and pick out the compound verbs – there are more than fifteen.",
+   "sentences": [
+    {
+     "fa": "شنبه اولین روز هفته در ایران است.",
+     "r": "shanbe avvalin ruz-e hafte dar Irān ast.",
+     "en": "Saturday is the first day of the week in Iran.",
+     "faV": "شَنبه اَوَّلین روزِ هَفته دَر ایران اَست.",
+     "a": "15283c7aa688"
+    },
+    {
+     "fa": "رضا ساعت شش و نیم بیدار می‌شود و دوش می‌گیرد.",
+     "r": "Rezā sā'at-e shesh o nim bidār mi-shavad o dush mi-girad.",
+     "en": "Reza wakes up at half past six and has a shower.",
+     "faV": "رِضا ساعَتِ شِش و نیم بیدار می‌شَوَد و دوش می‌گیرَد.",
+     "a": "f10619f46399"
+    },
+    {
+     "fa": "بعد صبحانه می‌خورد و با مترو به سر کار می‌رود.",
+     "r": "ba'd sobhāne mi-khorad o bā metro be sar-e kār mi-ravad.",
+     "en": "Then he has breakfast and goes to work by metro.",
+     "faV": "بَعد صُبحانه می‌خورَد و با مِترو به سَرِ کار می‌رَوَد.",
+     "a": "df29df331710"
+    },
+    {
+     "fa": "در ایستگاه سوار مترو می‌شود و در میدان ولیعصر پیاده می‌شود.",
+     "r": "dar istgāh savār-e metro mi-shavad o dar meydān-e Vali-asr piyāde mi-shavad.",
+     "en": "At the station he gets on the metro, and he gets off at Valiasr Square.",
+     "faV": "دَر ایستگاه سَوارِ مِترو می‌شَوَد و دَر مَیدانِ وَلیعَصر پیاده می‌شَوَد.",
+     "a": "65a76d189411"
+    },
+    {
+     "fa": "رضا در یک شرکت کامپیوتری کار می‌کند.",
+     "r": "Rezā dar yek sherkat-e kāmpiyuteri kār mi-konad.",
+     "en": "Reza works for a computer company.",
+     "faV": "رِضا دَر یِک شِرکَتِ کامپیوتِری کار می‌کُنَد.",
+     "a": "aaae3e082283"
+    },
+    {
+     "fa": "صبح‌ها به ایمیل‌ها جواب می‌دهد و با همکارانش صحبت می‌کند.",
+     "r": "sobh-hā be imeyl-hā javāb mi-dahad o bā ham-kārān-ash sohbat mi-konad.",
+     "en": "In the mornings he answers emails and talks with his colleagues.",
+     "faV": "صُبح‌ها به ایمَیل‌ها جَواب می‌دَهَد و با هَمکارانَش صُحبَت می‌کُنَد.",
+     "a": "a7a3aa6c16e4"
+    },
+    {
+     "fa": "ظهر با دوستش امیر در یک رستوران کوچک ناهار می‌خورد.",
+     "r": "zohr bā dust-ash Amir dar yek resturān-e kuchak nāhār mi-khorad.",
+     "en": "At noon he has lunch with his friend Amir in a small restaurant.",
+     "faV": "ظُهر با دوستَش اَمیر دَر یِک رِستورانِ کوچَک ناهار می‌خورَد.",
+     "a": "331ad41fff0f"
+    },
+    {
+     "fa": "بعد از ظهر جلسه دارد و باید گزارشش را تمام کند.",
+     "r": "ba'd az zohr jalase dārad o bāyad gozāresh-ash rā tamām konad.",
+     "en": "In the afternoon he has a meeting and has to finish his report.",
+     "faV": "بَعد اَز ظُهر جَلَسه دارَد و بایَد گُزارِشَش را تَمام کُنَد.",
+     "a": "e386795d84b9"
+    },
+    {
+     "fa": "ساعت شش کارش تمام می‌شود و با تاکسی به خانه برمی‌گردد.",
+     "r": "sā'at-e shesh kār-ash tamām mi-shavad o bā tāksi be khāne bar-mi-gardad.",
+     "en": "At six his work is over and he goes home by taxi.",
+     "faV": "ساعَتِ شِش کارَش تَمام می‌شَوَد و با تاکسی به خانه بَرمی‌گَردَد.",
+     "a": "badbb2dac8ac"
+    },
+    {
+     "fa": "شب‌ها معمولاً به مادرش زنگ می‌زند و کمی تلویزیون تماشا می‌کند.",
+     "r": "shab-hā ma'mulan be mādar-ash zang mi-zanad o kam-i televiziyon tamāshā mi-konad.",
+     "en": "In the evenings he usually rings his mother and watches a bit of TV.",
+     "faV": "شَب‌ها مَعمولاً به مادَرَش زَنگ می‌زَنَد و کَمی تِلِویزیون تَماشا می‌کُنَد.",
+     "a": "c320019ab17e"
+    },
+    {
+     "fa": "ولی امشب خیلی خسته شده و زود می‌خوابد.",
+     "r": "vali emshab kheyli khaste shode o zud mi-khābad.",
+     "en": "But tonight he's very tired, so he goes to bed early.",
+     "faV": "وَلی اِمشَب خَیلی خَسته شُده و زود می‌خوابَد.",
+     "a": "b68762788445"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How does Reza get to work?",
+     "options": [
+      "by car",
+      "by metro",
+      "on foot"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What does he do at work in the mornings?",
+     "options": [
+      "he answers emails and talks with colleagues",
+      "he has meetings",
+      "he goes for a walk"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What does he have to do in the afternoon?",
+     "options": [
+      "ring his mother",
+      "finish his report",
+      "buy bread"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Which verb means 'to get off' (a bus, the metro)?",
+     "options": [
+      "سوار شدن",
+      "پیاده شدن",
+      "بیدار شدن"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Shaking the house",
+   "md": "In the last weeks of winter, before [[نوروز|nowruz|the Persian New Year]] at the spring equinox around 21 March, Iranian homes turn upside down. [[خانه‌تکانی|khāne-tekāni]] – literally *house-shaking* – is much more than a spring-clean: carpets go to the carpet-washer, curtains come down, every cupboard is emptied, windows are polished and old things are given away. The idea is simple: nothing old and dusty should follow you into the new year.\n\nIt is a family job, and the verbs of this lesson fill the house: [[فرش‌ها را به قالیشویی بدهیم|farsh-hā rā be ghālishuyi bedahim|let's send the carpets to the carpet-washer]], [[پرده‌ها را بشوییم|parde-hā rā beshuyim|let's wash the curtains]] and, to anyone who is working hard, [[خسته نباشید!|khaste na-bāshid!|may you not be tired!]]. Meanwhile someone sets lentils or wheat to sprout for the [[سبزه|sabze]] of the haft-sin table, and the children wait for their new clothes for the New Year.",
+   "image": "sabzeh"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "Learn the light verb together with the first word – you can't swap them. *zang zadan* is 'to ring', but *zang kardan* means nothing.",
+    "Many compounds come in pairs: with **کردن** someone does it, with **شدن** it happens by itself. *dar rā bāz kardam* 'I opened the door' – *dar bāz shod* 'the door opened'; *kār-am rā tamām kardam* 'I finished my work' – *kelās tamām shod* 'the class ended'.",
+    "**یاد دادن** (give memory) is *to teach*, **یاد گرفتن** (take memory) is *to learn* – picture the knowledge going out or coming in.",
+    "New verbs are still made this way: *chat kardan* 'to chat', *lāyk kardan* 'to like (a post)', *dānlod kardan* 'to download'. Any new word + کردن becomes a Persian verb."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the verbs",
+   "items": [
+    {
+     "fa": "یاد گرفتن",
+     "r": "yād gereftan",
+     "en": "to learn",
+     "faV": "یاد گِرِفتَن",
+     "a": "80a03a53d90a"
+    },
+    {
+     "fa": "یاد دادن",
+     "r": "yād dādan",
+     "en": "to teach",
+     "faV": "یاد دادَن",
+     "a": "a2589df8c750"
+    },
+    {
+     "fa": "سوار شدن",
+     "r": "savār shodan",
+     "en": "to get on",
+     "faV": "سَوار شُدَن",
+     "a": "1cd15286fcec"
+    },
+    {
+     "fa": "پیاده شدن",
+     "r": "piyāde shodan",
+     "en": "to get off",
+     "faV": "پیاده شُدَن",
+     "a": "758cad9855f9"
+    },
+    {
+     "fa": "زمین خوردن",
+     "r": "zamin khordan",
+     "en": "to fall over",
+     "faV": "زَمین خوردَن",
+     "a": "50c18830cbfa"
+    },
+    {
+     "fa": "تصمیم گرفتن",
+     "r": "tasmim gereftan",
+     "en": "to decide",
+     "faV": "تَصمیم گِرِفتَن",
+     "a": "deb6e7eb9e32"
+    },
+    {
+     "fa": "قدم زدن",
+     "r": "ghadam zadan",
+     "en": "to go for a walk",
+     "faV": "قَدَم زَدَن",
+     "a": "5e8a52b92d5d"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right form",
+   "items": [
+    {
+     "q": "'I don't work on Fridays.'",
+     "options": [
+      "جمعه‌ها نمی‌کار کنم.",
+      "جمعه‌ها کار نمی‌کنم.",
+      "جمعه‌ها کار نکردم."
+     ],
+     "answer": 1,
+     "explain": "nemi- goes on the light verb: kār nemi-konam."
+    },
+    {
+     "q": "Which light verb goes with زنگ (to phone)?",
+     "options": [
+      "کردن",
+      "دادن",
+      "زدن"
+     ],
+     "answer": 2,
+     "explain": "zang zadan – literally 'to hit the bell'."
+    },
+    {
+     "q": "'I learned Persian.'",
+     "options": [
+      "فارسی یاد دادم.",
+      "فارسی یاد گرفتم.",
+      "فارسی یاد کردم."
+     ],
+     "answer": 1,
+     "explain": "yād gereftan (take memory) is 'to learn'; yād dādan (give memory) is 'to teach'."
+    },
+    {
+     "q": "'The film finished at ten.'",
+     "options": [
+      "فیلم ساعت ده تمام شد.",
+      "فیلم ساعت ده تمام کرد.",
+      "فیلم ساعت ده تمام زد."
+     ],
+     "answer": 0,
+     "explain": "Something that ends by itself takes shodan: tamām shod."
+    },
+    {
+     "q": "'I haven't decided yet.'",
+     "options": [
+      "هنوز تصمیم نکرده‌ام.",
+      "هنوز تصمیم نداده‌ام.",
+      "هنوز تصمیم نگرفته‌ام."
+     ],
+     "answer": 2,
+     "explain": "tasmim goes with gereftan, and na- goes on the light verb."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the compound verbs",
+   "items": [
+    {
+     "fa": "دیروز به مادرم زنگ ___.",
+     "r": "diruz be mādar-am zang ___.",
+     "en": "Yesterday I didn't ring my mother.",
+     "answer": "نزدم",
+     "hint": "zadan, I, past, negative"
+    },
+    {
+     "fa": "صبح‌ها ساعت هفت ___ می‌شوم.",
+     "r": "sobh-hā sā'at-e haft ___ mi-shavam.",
+     "en": "In the mornings I wake up at seven.",
+     "answer": "بیدار",
+     "hint": "awake"
+    },
+    {
+     "fa": "تام در تهران فارسی یاد ___.",
+     "r": "Tām dar Tehrān fārsi yād ___.",
+     "en": "Tom learned Persian in Tehran.",
+     "answer": "گرفت",
+     "hint": "gereftan, he, past"
+    },
+    {
+     "fa": "لطفاً به من گوش ___!",
+     "r": "lotfan be man gush ___!",
+     "en": "Please listen to me!",
+     "answer": "بده",
+     "hint": "dādan, imperative"
+    },
+    {
+     "fa": "در ایستگاه بعدی پیاده ___.",
+     "r": "dar istgāh-e ba'di piyāde ___.",
+     "en": "We're getting off at the next station.",
+     "answer": "می‌شویم",
+     "hint": "shodan, we, present"
+    },
+    {
+     "fa": "غصه ___، همه چیز درست می‌شود.",
+     "r": "ghosse ___, hame chiz dorost mi-shavad.",
+     "en": "Don't worry, everything will be all right.",
+     "answer": "نخور",
+     "hint": "khordan, negative imperative"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "امروز کار نمی‌کنم.",
+     "r": "emruz kār nemi-konam.",
+     "en": "I'm not working today.",
+     "faV": "اِمروز کار نِمی‌کُنَم.",
+     "a": "6bcc91cefe32"
+    },
+    {
+     "fa": "به مادرم زنگ نزدم.",
+     "r": "be mādar-am zang na-zadam.",
+     "en": "I didn't ring my mother.",
+     "faV": "به مادَرَم زَنگ نَزَدَم.",
+     "a": "5732b8495f71"
+    },
+    {
+     "fa": "می‌توانم کمکتان کنم؟",
+     "r": "mi-tavānam komak-etān konam?",
+     "en": "Can I help you?",
+     "faV": "می‌تَوانَم کُمَکِتان کُنَم؟",
+     "a": "27f10b8c5200"
+    },
+    {
+     "fa": "در ایستگاه بعدی پیاده می‌شویم.",
+     "r": "dar istgāh-e ba'di piyāde mi-shavim.",
+     "en": "We're getting off at the next station.",
+     "faV": "دَر ایستگاهِ بَعدی پیاده می‌شَویم.",
+     "a": "b3219f21990e"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "سرما خورده‌ام.",
+     "r": "sarmā khorde-am.",
+     "en": "I've caught a cold.",
+     "options": [
+      "I'm cold.",
+      "I've caught a cold.",
+      "I've eaten."
+     ],
+     "answer": 1,
+     "faV": "سَرما خورده‌اَم.",
+     "a": "c92702ab519a"
+    },
+    {
+     "fa": "غصه نخور!",
+     "r": "ghosse na-khor!",
+     "en": "Don't worry!",
+     "options": [
+      "Don't eat!",
+      "Don't be late!",
+      "Don't worry!"
+     ],
+     "answer": 2,
+     "faV": "غُصّه نَخور!",
+     "a": "44811fc6987e"
+    },
+    {
+     "fa": "چرا جواب نمی‌دهی؟",
+     "r": "cherā javāb nemi-dahi?",
+     "en": "Why aren't you answering?",
+     "options": [
+      "Why aren't you answering?",
+      "Why didn't you ask?",
+      "What's the answer?"
+     ],
+     "answer": 0,
+     "faV": "چِرا جَواب نِمی‌دَهی؟",
+     "a": "71219baf2eb4"
+    },
+    {
+     "fa": "بالاخره تصمیم گرفتم.",
+     "r": "bālākhare tasmim gereftam.",
+     "en": "I've finally decided.",
+     "options": [
+      "I haven't decided yet.",
+      "I've finally decided.",
+      "I took the bus."
+     ],
+     "answer": 1,
+     "faV": "بالاخَره تَصمیم گِرِفتَم.",
+     "a": "eb991f39e056"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "I don't work on Fridays.",
+     "fa": "جمعه‌ها کار نمی‌کنم.",
+     "r": "jom'e-hā kār nemi-konam.",
+     "faV": "جُمعه‌ها کار نِمی‌کُنَم.",
+     "a": "8d73e930a818"
+    },
+    {
+     "en": "I'll ring you tomorrow.",
+     "fa": "فردا به تو زنگ می‌زنم.",
+     "r": "fardā be to zang mi-zanam.",
+     "faV": "فَردا به تو زَنگ می‌زَنَم.",
+     "a": "42e3b29591d4"
+    },
+    {
+     "en": "The door opened.",
+     "fa": "در باز شد.",
+     "r": "dar bāz shod.",
+     "faV": "دَر باز شُد.",
+     "a": "7006576ae2d6"
+    },
+    {
+     "en": "We got on the bus at Tajrish.",
+     "fa": "در تجریش سوار اتوبوس شدیم.",
+     "r": "dar Tajrish savār-e otobus shodim.",
+     "faV": "دَر تَجریش سَوارِ اُتوبوس شُدیم.",
+     "a": "f48af653923a"
+    },
+    {
+     "en": "Don't worry, everything will be all right.",
+     "fa": "غصه نخور، همه چیز درست می‌شود.",
+     "r": "ghosse na-khor, hame chiz dorost mi-shavad.",
+     "faV": "غُصّه نَخور، هَمه چیز دُرُست می‌شَوَد.",
+     "a": "0bd80a274c69"
+    }
+   ]
+  }
+ ],
+ "titleV": "کُمَکَت می‌کُنَم!",
+ "titleA": "b425853edb12"
+}

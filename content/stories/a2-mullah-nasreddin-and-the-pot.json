@@ -1,0 +1,305 @@
+{
+ "id": "a2-mullah-nasreddin-and-the-pot",
+ "level": "A2",
+ "kind": "humour",
+ "title": "Mullah Nasreddin and the pot",
+ "titleFa": "ملا و دیگ همسایه",
+ "titleR": "Mollā o dig-e hamsāye",
+ "image": "nasreddin",
+ "intro": "Mullah Nasreddin (ملا نصرالدین) is the wise fool of Iran, Turkey and Central Asia: a little man in a big turban whose jokes always hide a lesson. In this famous anecdote he borrows his neighbour's cooking pot – and gives it back with a surprise inside. Read it for the simple past, compound verbs like قرض گرفتن 'to borrow' and باور کردن 'to believe', and که 'that' after verbs of thinking and seeing.",
+ "source": "Retold from a traditional Mullah Nasreddin anecdote (public domain).",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "روزی ملا برای یک مهمانی دیگ بزرگی لازم داشت.",
+     "r": "ruz-i Mollā barā-ye yek mehmāni dig-e bozorg-i lāzem dāsht.",
+     "en": "One day the Mullah needed a big pot for a party.",
+     "faV": "روزی مُلّا بَرایِ یِک مِهمانی دیگِ بُزُرگی لازِم داشت.",
+     "a": "aa575548e06a"
+    },
+    {
+     "fa": "پس به خانه‌ی همسایه رفت و دیگ او را قرض گرفت.",
+     "r": "pas be khāne-ye hamsāye raft o dig-e u rā gharz gereft.",
+     "en": "So he went to his neighbour's house and borrowed his pot.",
+     "faV": "پَس به خانه‌یِ هَمسایه رَفت و دیگِ او را قَرض گِرِفت.",
+     "a": "b978a88d12cb"
+    },
+    {
+     "fa": "چند روز بعد، ملا دیگ را پس برد.",
+     "r": "chand ruz ba'd, Mollā dig rā pas bord.",
+     "en": "A few days later, the Mullah took the pot back.",
+     "faV": "چَند روز بَعد، مُلّا دیگ را پَس بُرد.",
+     "a": "6af87d7be952"
+    },
+    {
+     "fa": "همسایه دید که داخل دیگ بزرگ یک دیگ کوچک هم هست.",
+     "r": "hamsāye did ke dākhel-e dig-e bozorg yek dig-e kuchak ham hast.",
+     "en": "The neighbour saw that inside the big pot there was a little pot as well.",
+     "faV": "هَمسایه دید که داخِلِ دیگِ بُزُرگ یِک دیگِ کوچَک هَم هَست.",
+     "a": "14b76762a955"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "با تعجب پرسید: «این دیگ کوچک چیست؟»",
+     "r": "bā ta'ajjob porsid: «in dig-e kuchak chist?»",
+     "en": "Surprised, he asked: \"What's this little pot?\"",
+     "faV": "با تَعَجُّب پُرسید: «این دیگِ کوچَک چیست؟»",
+     "a": "2acc0c1a788d"
+    },
+    {
+     "fa": "ملا گفت: «مبارک باشد! دیگ شما در خانه‌ی من زایید.»",
+     "r": "Mollā goft: «mobārak bāshad! dig-e shomā dar khāne-ye man zāyid.»",
+     "en": "The Mullah said: \"Congratulations! Your pot gave birth at my house.\"",
+     "faV": "مُلّا گُفت: «مُبارَک باشَد! دیگِ شُما دَر خانه‌یِ مَن زایید.»",
+     "a": "11bfe6c31f8e"
+    },
+    {
+     "fa": "همسایه فکر کرد که ملا دیوانه شده است، اما چیزی نگفت.",
+     "r": "hamsāye fekr kard ke Mollā divāne shode ast, ammā chiz-i na-goft.",
+     "en": "The neighbour thought the Mullah had gone mad, but he said nothing.",
+     "faV": "هَمسایه فِکر کَرد که مُلّا دیوانه شُده اَست، اَمّا چیزی نَگُفت.",
+     "a": "68e6ebba5087"
+    },
+    {
+     "fa": "خوشحال شد و هر دو دیگ را برداشت.",
+     "r": "khosh-hāl shod o har do dig rā bar-dāsht.",
+     "en": "He was pleased, and he kept both pots.",
+     "faV": "خوشحال شُد و هَر دو دیگ را بَرداشت.",
+     "a": "787d799c46ca"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "یک ماه بعد، ملا دوباره به در خانه‌ی همسایه رفت.",
+     "r": "yek māh ba'd, Mollā dobāre be dar-e khāne-ye hamsāye raft.",
+     "en": "A month later, the Mullah came to the neighbour's door again.",
+     "faV": "یِک ماه بَعد، مُلّا دوباره به دَرِ خانه‌یِ هَمسایه رَفت.",
+     "a": "ab0f6ccc0c4a"
+    },
+    {
+     "fa": "این بار همسایه با خوشحالی دیگ را به او داد.",
+     "r": "in bār hamsāye bā khosh-hāli dig rā be u dād.",
+     "en": "This time the neighbour gladly lent him the pot.",
+     "faV": "این بار هَمسایه با خوشحالی دیگ را به او داد.",
+     "a": "16bf4da9beb1"
+    },
+    {
+     "fa": "اما چند هفته گذشت و ملا دیگ را پس نیاورد.",
+     "r": "ammā chand hafte gozasht o Mollā dig rā pas na-yāvard.",
+     "en": "But several weeks went by and the Mullah did not bring the pot back.",
+     "faV": "اَمّا چَند هَفته گُذَشت و مُلّا دیگ را پَس نَیاوَرد.",
+     "a": "bb5552dfb7be"
+    },
+    {
+     "fa": "بالاخره همسایه به خانه‌ی ملا رفت و دیگش را خواست.",
+     "r": "bālākhare hamsāye be khāne-ye Mollā raft o dig-ash rā khāst.",
+     "en": "In the end the neighbour went to the Mullah's house and asked for his pot.",
+     "faV": "بالاخَره هَمسایه به خانه‌یِ مُلّا رَفت و دیگَش را خواست.",
+     "a": "4fb87476c705"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "ملا با ناراحتی گفت: «متأسفم، دیگ شما مرد!»",
+     "r": "Mollā bā nārāhati goft: «mote'assef-am, dig-e shomā mord!»",
+     "en": "The Mullah said sadly: \"I'm sorry, your pot has died!\"",
+     "faV": "مُلّا با ناراحَتی گُفت: «مُتِأَسِّفَم، دیگِ شُما مُرد!»",
+     "a": "78e2c087f7a5"
+    },
+    {
+     "fa": "همسایه فریاد زد: «چه می‌گویی، ملا؟ دیگ که نمی‌میرد!»",
+     "r": "hamsāye faryād zad: «che mi-guyi, Mollā? dig ke nemi-mirad!»",
+     "en": "The neighbour shouted: \"What are you talking about, Mullah? A pot can't die!\"",
+     "faV": "هَمسایه فَریاد زَد: «چه می‌گویی، مُلّا؟ دیگ که نِمی‌میرَد!»",
+     "a": "f26c88285c48"
+    },
+    {
+     "fa": "ملا آرام جواب داد: «اگر دیگ می‌تواند بزاید، پس می‌تواند بمیرد.»",
+     "r": "Mollā ārām javāb dād: «agar dig mi-tavānad be-zāyad, pas mi-tavānad be-mirad.»",
+     "en": "The Mullah calmly replied: \"If a pot can give birth, then it can die.\"",
+     "faV": "مُلّا آرام جَواب داد: «اَگَر دیگ می‌تَوانَد بِزایَد، پَس می‌تَوانَد بِمیرَد.»",
+     "a": "3817d2415516"
+    },
+    {
+     "fa": "«شما باور کردید که دیگ زایید؛ چرا حالا باور نمی‌کنید که مرد؟»",
+     "r": "«shomā bāvar kardid ke dig zāyid; cherā hālā bāvar nemi-konid ke mord?»",
+     "en": "\"You believed that your pot gave birth – so why won't you believe that it died?\"",
+     "faV": "«شُما باوَر کَردید که دیگ زایید؛ چِرا حالا باوَر نِمی‌کُنید که مُرد؟»",
+     "a": "e9dc520dcae6"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "دیگ",
+   "r": "dig",
+   "en": "large cooking pot",
+   "faV": "دیگ",
+   "a": "087fb9b95e75"
+  },
+  {
+   "fa": "همسایه",
+   "r": "hamsāye",
+   "en": "neighbour",
+   "faV": "هَمسایه",
+   "a": "1eebc0594655"
+  },
+  {
+   "fa": "مهمانی",
+   "r": "mehmāni",
+   "en": "party, dinner party",
+   "faV": "مِهمانی",
+   "a": "793dedd636fc"
+  },
+  {
+   "fa": "لازم داشتن",
+   "r": "lāzem dāshtan",
+   "en": "to need",
+   "faV": "لازِم داشتَن",
+   "a": "efe8766b1a83"
+  },
+  {
+   "fa": "قرض گرفتن",
+   "r": "gharz gereftan",
+   "en": "to borrow",
+   "faV": "قَرض گِرِفتَن",
+   "a": "8f32d8661209"
+  },
+  {
+   "fa": "پس بردن",
+   "r": "pas bordan",
+   "en": "to take back",
+   "faV": "پَس بُردَن",
+   "a": "dfc1d1920193"
+  },
+  {
+   "fa": "پس آوردن",
+   "r": "pas āvardan",
+   "en": "to bring back",
+   "faV": "پَس آوَردَن",
+   "a": "3a9e78696a31"
+  },
+  {
+   "fa": "داخل",
+   "r": "dākhel",
+   "en": "inside",
+   "faV": "داخِل",
+   "a": "93669369b470"
+  },
+  {
+   "fa": "تعجب",
+   "r": "ta'ajjob",
+   "en": "surprise (با تعجب: in surprise)",
+   "faV": "تَعَجُّب",
+   "a": "79ed54fd2faf"
+  },
+  {
+   "fa": "مبارک باشد",
+   "r": "mobārak bāshad",
+   "en": "congratulations",
+   "faV": "مُبارَک باشَد",
+   "a": "27c7c343b251"
+  },
+  {
+   "fa": "زاییدن",
+   "r": "zāyidan",
+   "en": "to give birth (of animals)",
+   "faV": "زاییدَن",
+   "a": "8bea87ea6308"
+  },
+  {
+   "fa": "دیوانه",
+   "r": "divāne",
+   "en": "mad, crazy",
+   "faV": "دیوانه",
+   "a": "d119f6061edc"
+  },
+  {
+   "fa": "بالاخره",
+   "r": "bālākhare",
+   "en": "finally, in the end",
+   "faV": "بالاخَره",
+   "a": "67399975d7fd"
+  },
+  {
+   "fa": "متأسفم",
+   "r": "mote'assef-am",
+   "en": "I'm sorry",
+   "faV": "مُتِأَسِّفَم",
+   "a": "efb68d3a9d5e"
+  },
+  {
+   "fa": "مردن",
+   "r": "mordan",
+   "en": "to die",
+   "faV": "مُردَن",
+   "a": "63003be5dc3c"
+  },
+  {
+   "fa": "باور کردن",
+   "r": "bāvar kardan",
+   "en": "to believe",
+   "faV": "باوَر کَردَن",
+   "a": "5630177c6fad"
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why did the Mullah borrow the pot the first time?",
+   "options": [
+    "his own pot was broken",
+    "he needed it for a party",
+    "he wanted to sell it"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What did the neighbour find when the pot came back?",
+   "options": [
+    "a little pot inside it",
+    "some rice inside it",
+    "a hole in it"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Why did the neighbour accept the little pot without arguing?",
+   "options": [
+    "he was afraid of the Mullah",
+    "he thought pots really give birth",
+    "he was happy to get an extra pot"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What did the Mullah say the second time?",
+   "options": [
+    "that the pot had given birth again",
+    "that the pot had died",
+    "that a thief had taken the pot"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What is the Mullah's point?",
+   "options": [
+    "if you believe a convenient lie, you must accept an inconvenient one too",
+    "pots are alive",
+    "never lend anything to a neighbour"
+   ],
+   "answer": 0
+  }
+ ],
+ "after": "Notice how Persian talks about lending and borrowing: قرض گرفتن 'to take as a loan' (borrow) and قرض دادن 'to give as a loan' (lend); پس بردن 'to take back' and پس آوردن 'to bring back'. زاییدن 'to give birth' is used for animals – for people Persian says به دنیا آوردن. In «دیگ که نمی‌میرد!» the little word که does not mean 'that': it adds emphasis, like 'but a pot can't die!'. And «مبارک باشد» 'may it be blessed' is how you congratulate anyone on a birth, a wedding or a new car. In Iran the hero of these anecdotes is usually just called ملا, 'the Mullah', and his stories often end like this one, with the other person's own logic turned against him.",
+ "titleV": "مُلّا و دیگِ هَمسایه",
+ "titleA": "9fc43372f2b7"
+}

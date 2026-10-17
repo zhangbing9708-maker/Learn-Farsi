@@ -49,7 +49,11 @@ Tell stories in the past, give instructions, make comparisons, express opinions 
 1. [What were you doing? The past continuous](lessons/a2-01-what-were-you-doing.md) — چه کار می‌کردی؟
 2. [Have you ever…? The present perfect](lessons/a2-02-have-you-ever.md) — تا حالا به شیراز رفته‌ای؟
 3. [Bigger and best: comparing Iranian cities](lessons/a2-03-bigger-and-best.md) — کدام شهر قشنگ‌تر است؟
+4. [I must, I can: the subjunctive](lessons/a2-04-i-must-i-can.md) — باید بروم، نمی‌توانم بمانم
+5. [Compound verbs: I'll help you](lessons/a2-05-compound-verbs.md) — کمکت می‌کنم!
 9. [Do this! Instructions and a recipe](lessons/a2-09-do-this.md) — این کار را بکن!
+10. [In my opinion: agreeing, disagreeing and giving reasons](lessons/a2-10-in-my-opinion.md) — به نظر من
+11. [Travelling: the station, the airport and the hotel](lessons/a2-11-travelling.md) — سفر به اصفهان
 
 ## Part 4. Intermediate (B1) — میانی
 
@@ -66,6 +70,13 @@ Graded readers, from very easy to literary.
 - [The cat and the fish](stories/a1-the-cat-and-the-fish.md) — گربه و ماهی
 - [Sara goes to school](stories/a1-sara-goes-to-school.md) — سارا به مدرسه می‌رود
 - [A day in the bazaar](stories/a1-a-day-in-the-bazaar.md) — یک روز در بازار
+- [The little house](stories/a1-the-little-house.md) — خانه‌ی کوچک
+- [Grandmother's tea](stories/a1-grandmother-tea.md) — چای مادربزرگ
+- [At the bakery](stories/a1-at-the-bakery.md) — در نانوایی
+
+**Elementary (A2)**
+
+- [Mullah Nasreddin and the pot](stories/a2-mullah-nasreddin-and-the-pot.md) — ملا و دیگ همسایه
 
 **Intermediate (B1)**
 
@@ -107,9 +118,15 @@ Graded readers, from very easy to literary.
 - [Eating out in Iran](culture/food-eating-out-in-iran.md) — بیرون غذا خوردن
 - [Fruit and ajil](culture/food-fruit-and-ajil.md) — میوه و آجیل
 
+**Arts**
+
+- [Persian carpets](culture/arts-persian-carpets.md) — فرش ایرانی
+- [Persian miniature painting](culture/arts-miniature-painting.md) — نگارگری ایرانی
+
 ## Part 7. Reference
 
 - [Phrasebook](phrasebook.md)
+- [Proverbs and idioms](idioms.md)
 - [Verbs and their stems](verbs.md)
 - [Dictionary of the 5,000 most common words](https://zhangbing9708-maker.github.io/Learn-Farsi/dictionary/index.html) (website)
 

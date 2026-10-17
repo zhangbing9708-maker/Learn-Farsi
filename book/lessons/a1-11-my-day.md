@@ -289,10 +289,10 @@ The week has its own rhythm too. Saturday, شنبه (*shanbe*), is the first wor
 
 **Put the words in order**
 
-1. می‌شوم. / زود / صبح / هر / روز / بیدار / من — I get up early every morning.
-2. بعد / می‌کنم. / از / کمی / استراحت / ناهار — After lunch I rest a little.
-3. مترو / می‌رود. / سر / رضا / با / کار — Reza goes to work by metro.
-4. شب‌ها / یازده / می‌خوابم. / ساعت — At night I go to bed at eleven.
+1. می‌شوم. / من / بیدار / زود / صبح / روز / هر — I get up early every morning.
+2. استراحت / ناهار / می‌کنم. / کمی / از / بعد — After lunch I rest a little.
+3. می‌رود. / سر / کار / مترو / رضا / با — Reza goes to work by metro.
+4. می‌خوابم. / شب‌ها / یازده / ساعت — At night I go to bed at eleven.
 
 <details><summary>Answers</summary>
 

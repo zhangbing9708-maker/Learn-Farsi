@@ -32,37 +32,218 @@
   }
  ],
  "sentences": [
-  {"fa": "مادرم برای نوروز آش رشته می‌پزد.", "r": "mādar-am barā-ye nowruz āsh-e reshte mi-pazad.", "en": "My mother cooks ash reshteh for Nowruz."},
-  {"fa": "روی آش کشک و پیازداغ و نعناداغ بریز.", "r": "ru-ye āsh kashk o piyāz-dāgh o na'nā-dāgh be-riz.", "en": "Top the ash with kashk, fried onions and fried mint."},
-  {"fa": "رشته را آخر از همه به آش اضافه کن.", "r": "reshte rā ākhar az hame be āsh ezāfe kon.", "en": "Add the noodles to the ash last of all."},
-  {"fa": "وقتی کسی به سفر می‌رود، برایش آش پشت پا می‌پزند.", "r": "vaghti kasi be safar mi-ravad, barā-yash āsh-e posht-e pā mi-pazand.", "en": "When someone goes on a journey, people cook 'posht-e pa' ash for them."},
-  {"fa": "یک کاسه آش داغ در زمستان خیلی می‌چسبد.", "r": "yek kāse āsh-e dāgh dar zemestān kheyli mi-chasbad.", "en": "A bowl of hot ash really hits the spot in winter.", "lit": "a bowl of hot ash sticks very much in winter"},
-  {"fa": "آبگوشت را باید ساعت‌ها روی آتش ملایم پخت.", "r": "ābgusht rā bāyad sā'at-hā ru-ye ātash-e molāyem pokht.", "en": "Abgoosht has to cook for hours over a low flame."},
-  {"fa": "اول نان را در آب دیزی ترید کن.", "r": "avval nān rā dar āb-e dizi terid kon.", "en": "First soak the bread in the dizi broth."},
-  {"fa": "بعد گوشت و نخود را با گوشت‌کوب بکوب.", "r": "ba'd gusht o nokhod rā bā gusht-kub be-kub.", "en": "Then pound the meat and chickpeas with the pestle."},
-  {"fa": "آبگوشت را با پیاز خام و سبزی و ترشی می‌خوریم.", "r": "ābgusht rā bā piyāz-e khām va sabzi va torshi mi-khorim.", "en": "We eat abgoosht with raw onion, herbs and pickles."},
-  {"fa": "بیا به دیزی‌سرا برویم؛ من مهمانت می‌کنم.", "r": "bi-yā be dizi-sarā be-ravim; man mehmān-at mi-konam.", "en": "Let's go to a dizi house – my treat.", "lit": "come, let's go to the dizi house; I'll make you my guest", "col": "بیا بریم دیزی‌سرا؛ من مهمونت می‌کنم.", "colR": "bi-yā be-rim dizi-sarā; man mehmun-et mi-konam."},
-  {"fa": "نخود هر آشی نباش!", "r": "nokhod-e har āshi na-bāsh!", "en": "Don't poke your nose into everything!", "lit": "don't be the chickpea of every ash"}
+  {
+   "fa": "مادرم برای نوروز آش رشته می‌پزد.",
+   "r": "mādar-am barā-ye nowruz āsh-e reshte mi-pazad.",
+   "en": "My mother cooks ash reshteh for Nowruz.",
+   "faV": "مادَرَم بَرایِ نَوروز آشِ رِشته می‌پَزَد.",
+   "a": "202cdef8239e"
+  },
+  {
+   "fa": "روی آش کشک و پیازداغ و نعناداغ بریز.",
+   "r": "ru-ye āsh kashk o piyāz-dāgh o na'nā-dāgh be-riz.",
+   "en": "Top the ash with kashk, fried onions and fried mint.",
+   "faV": "رویِ آش کَشک و پیازداغ و نَعناداغ بِریز.",
+   "a": "4e15cdb1de4d"
+  },
+  {
+   "fa": "رشته را آخر از همه به آش اضافه کن.",
+   "r": "reshte rā ākhar az hame be āsh ezāfe kon.",
+   "en": "Add the noodles to the ash last of all.",
+   "faV": "رِشته را آخَر اَز هَمه به آش اِضافه کُن.",
+   "a": "ac796b9ba8c2"
+  },
+  {
+   "fa": "وقتی کسی به سفر می‌رود، برایش آش پشت پا می‌پزند.",
+   "r": "vaghti kasi be safar mi-ravad, barā-yash āsh-e posht-e pā mi-pazand.",
+   "en": "When someone goes on a journey, people cook 'posht-e pa' ash for them.",
+   "faV": "وَقتی کَسی به سَفَر می‌رَوَد، بَرایَش آشِ پُشتِ پا می‌پَزَند.",
+   "a": "20c9a722967e"
+  },
+  {
+   "fa": "یک کاسه آش داغ در زمستان خیلی می‌چسبد.",
+   "r": "yek kāse āsh-e dāgh dar zemestān kheyli mi-chasbad.",
+   "en": "A bowl of hot ash really hits the spot in winter.",
+   "lit": "a bowl of hot ash sticks very much in winter",
+   "faV": "یِک کاسه آشِ داغ دَر زِمِستان خَیلی می‌چَسبَد.",
+   "a": "8916bb932ab4"
+  },
+  {
+   "fa": "آبگوشت را باید ساعت‌ها روی آتش ملایم پخت.",
+   "r": "ābgusht rā bāyad sā'at-hā ru-ye ātash-e molāyem pokht.",
+   "en": "Abgoosht has to cook for hours over a low flame.",
+   "faV": "آبگوشت را بایَد ساعَت‌ها رویِ آتَشِ مُلایِم پُخت.",
+   "a": "36fd607fb64a"
+  },
+  {
+   "fa": "اول نان را در آب دیزی ترید کن.",
+   "r": "avval nān rā dar āb-e dizi terid kon.",
+   "en": "First soak the bread in the dizi broth.",
+   "faV": "اَوَّل نان را دَر آبِ دیزی تِرید کُن.",
+   "a": "ab570c6937a5"
+  },
+  {
+   "fa": "بعد گوشت و نخود را با گوشت‌کوب بکوب.",
+   "r": "ba'd gusht o nokhod rā bā gusht-kub be-kub.",
+   "en": "Then pound the meat and chickpeas with the pestle.",
+   "faV": "بَعد گوشت و نُخود را با گوشت‌کوب بِکوب.",
+   "a": "46267b531a44"
+  },
+  {
+   "fa": "آبگوشت را با پیاز خام و سبزی و ترشی می‌خوریم.",
+   "r": "ābgusht rā bā piyāz-e khām va sabzi va torshi mi-khorim.",
+   "en": "We eat abgoosht with raw onion, herbs and pickles.",
+   "faV": "آبگوشت را با پیازِ خام و سَبزی و تُرشی می‌خوریم.",
+   "a": "5e154cc15534"
+  },
+  {
+   "fa": "بیا به دیزی‌سرا برویم؛ من مهمانت می‌کنم.",
+   "r": "bi-yā be dizi-sarā be-ravim; man mehmān-at mi-konam.",
+   "en": "Let's go to a dizi house – my treat.",
+   "lit": "come, let's go to the dizi house; I'll make you my guest",
+   "col": "بیا بریم دیزی‌سرا؛ من مهمونت می‌کنم.",
+   "colR": "bi-yā be-rim dizi-sarā; man mehmun-et mi-konam.",
+   "faV": "بیا به دیزی‌سَرا بِرَویم؛ مَن مِهمانَت می‌کُنَم.",
+   "a": "c821750decf1",
+   "colV": "بیا بِریم دیزی‌سَرا؛ مَن مِهمونِت می‌کُنَم.",
+   "colA": "72c9530a0f80"
+  },
+  {
+   "fa": "نخود هر آشی نباش!",
+   "r": "nokhod-e har āshi na-bāsh!",
+   "en": "Don't poke your nose into everything!",
+   "lit": "don't be the chickpea of every ash",
+   "faV": "نُخودِ هَر آشی نَباش!",
+   "a": "91c7c7d0f15a"
+  }
  ],
  "vocab": [
-  {"fa": "آش", "r": "āsh", "en": "ash, thick soup"},
-  {"fa": "آشپز", "r": "āshpaz", "en": "cook"},
-  {"fa": "آشپزخانه", "r": "āshpazkhāne", "en": "kitchen"},
-  {"fa": "رشته", "r": "reshte", "en": "noodles; thread"},
-  {"fa": "کشک", "r": "kashk", "en": "kashk, fermented whey"},
-  {"fa": "نخود", "r": "nokhod", "en": "chickpea"},
-  {"fa": "عدس", "r": "adas", "en": "lentil"},
-  {"fa": "اسفناج", "r": "esfenāj", "en": "spinach"},
-  {"fa": "شوید", "r": "shevid", "en": "dill"},
-  {"fa": "پیازداغ", "r": "piyāz-dāgh", "en": "fried onions"},
-  {"fa": "نعناداغ", "r": "na'nā-dāgh", "en": "dried mint fried in oil"},
-  {"fa": "آبگوشت", "r": "ābgusht", "en": "abgoosht, lamb and bean broth"},
-  {"fa": "دیزی", "r": "dizi", "en": "dizi (stone pot; the dish cooked in it)"},
-  {"fa": "دنبه", "r": "dombe", "en": "sheep's tail fat"},
-  {"fa": "گوشت‌کوب", "r": "gusht-kub", "en": "meat pounder, pestle"},
-  {"fa": "کاسه", "r": "kāse", "en": "bowl"},
-  {"fa": "ملاقه", "r": "malāghe", "en": "ladle"},
-  {"fa": "خام", "r": "khām", "en": "raw"}
+  {
+   "fa": "آش",
+   "r": "āsh",
+   "en": "ash, thick soup",
+   "faV": "آش",
+   "a": "52b8aabf2c8b"
+  },
+  {
+   "fa": "آشپز",
+   "r": "āshpaz",
+   "en": "cook",
+   "faV": "آشپَز",
+   "a": "876c8f0a94ff"
+  },
+  {
+   "fa": "آشپزخانه",
+   "r": "āshpazkhāne",
+   "en": "kitchen",
+   "faV": "آشپَزخانه",
+   "a": "9390963e9c61"
+  },
+  {
+   "fa": "رشته",
+   "r": "reshte",
+   "en": "noodles; thread",
+   "faV": "رِشته",
+   "a": "a56d6049c72d"
+  },
+  {
+   "fa": "کشک",
+   "r": "kashk",
+   "en": "kashk, fermented whey",
+   "faV": "کَشک",
+   "a": "4d1b1102b043"
+  },
+  {
+   "fa": "نخود",
+   "r": "nokhod",
+   "en": "chickpea",
+   "faV": "نُخود",
+   "a": "bf84075a4f53"
+  },
+  {
+   "fa": "عدس",
+   "r": "adas",
+   "en": "lentil",
+   "faV": "عَدَس",
+   "a": "6828a679dbb3"
+  },
+  {
+   "fa": "اسفناج",
+   "r": "esfenāj",
+   "en": "spinach",
+   "faV": "اِسفِناج",
+   "a": "f4fb33cc3356"
+  },
+  {
+   "fa": "شوید",
+   "r": "shevid",
+   "en": "dill",
+   "faV": "شِوید",
+   "a": "783241d11b3c"
+  },
+  {
+   "fa": "پیازداغ",
+   "r": "piyāz-dāgh",
+   "en": "fried onions",
+   "faV": "پیازداغ",
+   "a": "19e536f70814"
+  },
+  {
+   "fa": "نعناداغ",
+   "r": "na'nā-dāgh",
+   "en": "dried mint fried in oil",
+   "faV": "نَعناداغ",
+   "a": "4eaad0b510d8"
+  },
+  {
+   "fa": "آبگوشت",
+   "r": "ābgusht",
+   "en": "abgoosht, lamb and bean broth",
+   "faV": "آبگوشت",
+   "a": "82be9ea539fa"
+  },
+  {
+   "fa": "دیزی",
+   "r": "dizi",
+   "en": "dizi (stone pot; the dish cooked in it)",
+   "faV": "دیزی",
+   "a": "4069562bcb97"
+  },
+  {
+   "fa": "دنبه",
+   "r": "dombe",
+   "en": "sheep's tail fat",
+   "faV": "دُنبه",
+   "a": "997cc472dfd6"
+  },
+  {
+   "fa": "گوشت‌کوب",
+   "r": "gusht-kub",
+   "en": "meat pounder, pestle",
+   "faV": "گوشت‌کوب",
+   "a": "ccea783e5ce4"
+  },
+  {
+   "fa": "کاسه",
+   "r": "kāse",
+   "en": "bowl",
+   "faV": "کاسه",
+   "a": "e2ea37bba35e"
+  },
+  {
+   "fa": "ملاقه",
+   "r": "malāghe",
+   "en": "ladle",
+   "faV": "مَلاقه",
+   "a": "73d56cd11953"
+  },
+  {
+   "fa": "خام",
+   "r": "khām",
+   "en": "raw",
+   "faV": "خام",
+   "a": "e2a373cb7cfa"
+  }
  ],
  "facts": [
   "The Persian words āshpaz 'cook' and āshpazkhāne 'kitchen' are built on āsh.",
@@ -71,5 +252,7 @@
   "Kashk is made from yoghurt or buttermilk that is drained and dried; it is sold as hard balls or as a thick liquid.",
   "Abgoosht is eaten in two stages: first the broth with bread (terid), then the pounded meat and beans (gusht-kubideh).",
   "The idiom nokhod-e har ashi, 'the chickpea in every ash', describes a busybody."
- ]
+ ],
+ "titleV": "آش و آبگوشت",
+ "titleA": "f90aa118a1e0"
 }

@@ -1,0 +1,278 @@
+{
+ "id": "arts-persian-carpets",
+ "topic": "arts",
+ "title": "Persian carpets",
+ "titleFa": "فرش ایرانی",
+ "titleR": "farsh-e irāni",
+ "image": "persian-carpet",
+ "summary": "Tied by hand, one knot at a time, the Persian carpet is Iran's best-known art. How a carpet is woven, the two knots, the great weaving towns from Tabriz to Kerman, the nomads' gabbeh – and how to read the motifs.",
+ "body": [
+  {
+   "h": "More than a floor covering",
+   "md": "In an Iranian home the first thing you notice is the floor. Carpets cover it from wall to wall, families sit and eat on them, and shoes come off at the door. Persian has several words: [[فرش|farsh|carpet]] for any carpet, [[قالی|ghāli|knotted carpet]] for a large pile carpet, [[قالیچه|ghāliche|rug]] for a small one, and [[گلیم|gelim|kilim]] for a flat-woven rug with no pile.\n\nWeaving here is ancient. The oldest pile carpet known, found frozen in a Siberian tomb of the 5th century BC, may be Persian work, and medieval historians describe a vast Sasanian carpet, the 'Spring of Khosrow', that showed a garden in silk, gold and jewels."
+  },
+  {
+   "h": "How a carpet is woven",
+   "md": "Carpets are woven on a loom, the [[دار قالی|dār-e ghāli|carpet loom]]. Nomads peg a horizontal loom to the ground and roll it up when they move; town workshops use tall upright ones. The threads stretched on the loom and the threads passed across them are [[تار و پود|tār o pud|warp and weft]] – a phrase that also means 'the very fabric' of something.\n\nThe weaver loops a strand of coloured [[پشم|pashm|wool]] or [[ابریشم|abrisham|silk]] around the warp, cuts it and moves on, one [[گره|gereh|knot]] after another, following a design drawn square by square on graph paper, the [[نقشه|naghshe|design; also 'map']]. Each row is beaten down with a heavy metal comb. The wool is dyed first: red comes from [[روناس|runās|madder root]], blue from indigo, browns and yellows from walnut husks and pomegranate peel. Finally the pile is clipped and the carpet is washed."
+  },
+  {
+   "h": "Two kinds of knot",
+   "md": "Iranian weavers use two knots. The symmetrical [[گره ترکی|gereh-e torki|Turkish knot]] wraps around two warp threads; it is used in Tabriz and across the north-west. The asymmetrical [[گره فارسی|gereh-e fārsi|Persian knot]] wraps one thread and only passes behind the next, which allows finer, more curving drawing; it is the knot of Kashan, Isfahan, Qom and Kerman. Tabriz weavers tie theirs with a small hook-knife, which makes the work very fast. A fine carpet can have several hundred knots in a single square inch."
+  },
+  {
+   "h": "The great city carpets",
+   "md": "Each weaving town has a style that dealers recognise at a glance:\n\n- **Tabriz**, one of the oldest and largest centres, weaves everything from medallion carpets to hunting scenes and pictures.\n- **Kashan** is famous for dense, velvety wool carpets, often with a red field and a central medallion.\n- **Isfahan** makes some of Iran's finest carpets, on silk warps, in designs that echo its tiled domes.\n- **Qom**, a younger centre, is known above all for delicate all-silk rugs.\n- **Kerman** is loved for flowing floral designs in soft, rich colours.\n\nIn Safavid times royal workshops in these cities wove carpets of silk with gold and silver thread for the shah's palaces and as gifts for foreign kings.",
+   "image": "tabriz-bazaar"
+  },
+  {
+   "h": "Nomads and the gabbeh",
+   "md": "Iran's [[عشایر|'ashāyer|nomadic tribes]] – the Qashqai of Fars, the Bakhtiari of the Zagros, the Turkmen, the Baluch and others – weave for their own tents: kilims, saddlebags and pile rugs. Women do most of the weaving, usually from memory rather than from a drawing, so no two pieces are the same.\n\nThe best-known tribal rug is the [[گبه|gabbe|gabbeh]]: thick, soft and loosely knotted, with a long pile and bold, simple designs – a lion, a tree, a line of goats, or a field of plain colour. Mohsen Makhmalbaf's film *Gabbeh* (1996) turned one into a love story.",
+   "image": "qashqai"
+  },
+  {
+   "h": "Reading the motifs",
+   "md": "Most city carpets are framed like a picture: a wide [[حاشیه|hāshiye|border]] around a central field. The classic layout is [[لچک و ترنج|lachak o toranj|corners and medallion]] – a central medallion, the [[ترنج|toranj|medallion; also 'citron']], with quarter-medallions in the corners. Look up into the dome of the Sheikh Lotfollah Mosque in Isfahan and you will see a very similar design.\n\nOther favourites are the [[بته‌جقه|bote-jeghe|boteh]], the teardrop that English calls paisley; the [[شاه‌عباسی|shāh-'abbāsi|Shah Abbasi]] palmette flower; curling arabesques, [[اسلیمی|eslimi|arabesque]]; garden carpets crossed by water channels; and prayer rugs with an arched niche.",
+   "image": "sheikh-lotfollah"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "فرش ایرانی در همه‌ی دنیا معروف است.",
+   "r": "farsh-e irāni dar hame-ye donyā ma'ruf ast.",
+   "en": "Persian carpets are famous all over the world.",
+   "faV": "فَرشِ ایرانی دَر هَمه‌یِ دُنیا مَعروف اَست.",
+   "a": "22ec8c879df2"
+  },
+  {
+   "fa": "در بیشتر خانه‌های ایرانی فرش روی زمین پهن است.",
+   "r": "dar bishtar-e khāne-hā-ye irāni farsh ru-ye zamin pahn ast.",
+   "en": "In most Iranian homes there are carpets spread on the floor.",
+   "faV": "دَر بیشتَرِ خانه‌هایِ ایرانی فَرش رویِ زَمین پَهن اَست.",
+   "a": "898f749b140f"
+  },
+  {
+   "fa": "ایرانی‌ها با کفش روی فرش راه نمی‌روند.",
+   "r": "irāni-hā bā kafsh ru-ye farsh rāh nemi-ravand.",
+   "en": "Iranians don't walk on carpets in their shoes.",
+   "faV": "ایرانی‌ها با کَفش رویِ فَرش راه نِمی‌رَوَند.",
+   "a": "cd27fcfd9339"
+  },
+  {
+   "fa": "قالی را با دست و گره به گره می‌بافند.",
+   "r": "ghāli rā bā dast va gereh be gereh mi-bāfand.",
+   "en": "Carpets are woven by hand, knot by knot.",
+   "lit": "they weave the carpet by hand and knot by knot",
+   "faV": "قالی را با دَست و گِرِه به گِرِه می‌بافَند.",
+   "a": "31b251102e1f"
+  },
+  {
+   "fa": "بافتن یک فرش بزرگ گاهی چند سال طول می‌کشد.",
+   "r": "bāftan-e yek farsh-e bozorg gāhi chand sāl tul mi-keshad.",
+   "en": "Weaving a large carpet sometimes takes several years.",
+   "faV": "بافتَنِ یِک فَرشِ بُزُرگ گاهی چَند سال طول می‌کِشَد.",
+   "a": "15bf5a85e8ef"
+  },
+  {
+   "fa": "رنگ قرمز را از ریشه‌ی روناس می‌گیرند.",
+   "r": "rang-e ghermez rā az rishe-ye runās mi-girand.",
+   "en": "The red dye comes from madder root.",
+   "lit": "they take the red colour from the root of madder",
+   "faV": "رَنگِ قِرمِز را اَز ریشه‌یِ روناس می‌گیرَند.",
+   "a": "3142ec4784a1"
+  },
+  {
+   "fa": "بافنده‌های تبریز گره ترکی می‌زنند.",
+   "r": "bāfande-hā-ye Tabriz gereh-e torki mi-zanand.",
+   "en": "The weavers of Tabriz tie the Turkish knot.",
+   "faV": "بافَنده‌هایِ تَبریز گِرِهِ تُرکی می‌زَنَند.",
+   "a": "db819ca51b84"
+  },
+  {
+   "fa": "در کاشان و اصفهان بیشتر از گره فارسی استفاده می‌کنند.",
+   "r": "dar Kāshān va Esfahān bishtar az gereh-e fārsi estefāde mi-konand.",
+   "en": "In Kashan and Isfahan they mostly use the Persian knot.",
+   "faV": "دَر کاشان و اِصفَهان بیشتَر اَز گِرِهِ فارسی اِستِفاده می‌کُنَند.",
+   "a": "756eff880a9c"
+  },
+  {
+   "fa": "فرش‌های ابریشمی قم بسیار ظریف و گران هستند.",
+   "r": "farsh-hā-ye abrishami-ye Ghom besyār zarif va gerān hastand.",
+   "en": "The silk carpets of Qom are very fine and expensive.",
+   "faV": "فَرش‌هایِ اَبریشَمیِ قُم بِسیار ظَریف و گِران هَستَند.",
+   "a": "e771927b6ca3"
+  },
+  {
+   "fa": "زنان عشایر گبه را از حفظ می‌بافند.",
+   "r": "zanān-e 'ashāyer gabbe rā az hefz mi-bāfand.",
+   "en": "Nomad women weave gabbehs from memory.",
+   "faV": "زَنانِ عَشایِر گَبّه را اَز حِفظ می‌بافَند.",
+   "a": "9e7082c0a677"
+  },
+  {
+   "fa": "ترنج یک نقش بزرگ در وسط فرش است.",
+   "r": "toranj yek naghsh-e bozorg dar vasat-e farsh ast.",
+   "en": "The toranj is a large motif in the middle of the carpet.",
+   "faV": "تُرَنج یِک نَقشِ بُزُرگ دَر وَسَطِ فَرش اَست.",
+   "a": "1205566f7510"
+  },
+  {
+   "fa": "این قالی دست‌باف است، نه ماشینی.",
+   "r": "in ghāli dast-bāf ast, na māshini.",
+   "en": "This carpet is handwoven, not machine-made.",
+   "faV": "این قالی دَست‌باف اَست، نه ماشینی.",
+   "a": "663ba9ca2552"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "فرش",
+   "r": "farsh",
+   "en": "carpet, rug",
+   "faV": "فَرش",
+   "a": "c47d09fc9bac"
+  },
+  {
+   "fa": "قالی",
+   "r": "ghāli",
+   "en": "carpet (knotted, with a pile)",
+   "faV": "قالی",
+   "a": "c0ccc5a94ee7"
+  },
+  {
+   "fa": "قالیچه",
+   "r": "ghāliche",
+   "en": "small rug",
+   "faV": "قالیچه",
+   "a": "fcf36759b3d5"
+  },
+  {
+   "fa": "گلیم",
+   "r": "gelim",
+   "en": "kilim, flat-woven rug",
+   "faV": "گِلیم",
+   "a": "5f8ecec27522"
+  },
+  {
+   "fa": "گبه",
+   "r": "gabbe",
+   "en": "gabbeh, thick tribal rug",
+   "faV": "گَبّه",
+   "a": "9967db1fb2a1"
+  },
+  {
+   "fa": "بافتن",
+   "r": "bāftan",
+   "en": "to weave; to knit",
+   "faV": "بافتَن",
+   "a": "8a039e6576db"
+  },
+  {
+   "fa": "بافنده",
+   "r": "bāfande",
+   "en": "weaver",
+   "faV": "بافَنده",
+   "a": "c91b3b39b670"
+  },
+  {
+   "fa": "دار قالی",
+   "r": "dār-e ghāli",
+   "en": "carpet loom",
+   "faV": "دارِ قالی",
+   "a": "05b004547710"
+  },
+  {
+   "fa": "گره",
+   "r": "gereh",
+   "en": "knot",
+   "faV": "گِرِه",
+   "a": "f3c85ee2f011"
+  },
+  {
+   "fa": "تار و پود",
+   "r": "tār o pud",
+   "en": "warp and weft",
+   "faV": "تار و پود",
+   "a": "8dcb4506994a"
+  },
+  {
+   "fa": "پشم",
+   "r": "pashm",
+   "en": "wool",
+   "faV": "پَشم",
+   "a": "2745e472ca8e"
+  },
+  {
+   "fa": "ابریشم",
+   "r": "abrisham",
+   "en": "silk",
+   "faV": "اَبریشَم",
+   "a": "827da4bfe788"
+  },
+  {
+   "fa": "نقش",
+   "r": "naghsh",
+   "en": "motif, pattern",
+   "faV": "نَقش",
+   "a": "f4e8de818e11"
+  },
+  {
+   "fa": "نقشه",
+   "r": "naghshe",
+   "en": "carpet design; map",
+   "faV": "نَقشه",
+   "a": "a8f9a38f6ae7"
+  },
+  {
+   "fa": "ترنج",
+   "r": "toranj",
+   "en": "medallion; citron",
+   "faV": "تُرَنج",
+   "a": "606e994ccd27"
+  },
+  {
+   "fa": "حاشیه",
+   "r": "hāshiye",
+   "en": "border, edge",
+   "faV": "حاشیه",
+   "a": "19c9e7a80d84"
+  },
+  {
+   "fa": "رنگرزی",
+   "r": "rangrazi",
+   "en": "dyeing",
+   "faV": "رَنگرَزی",
+   "a": "64d32140db32"
+  },
+  {
+   "fa": "دست‌باف",
+   "r": "dast-bāf",
+   "en": "handwoven",
+   "faV": "دَست‌باف",
+   "a": "776b3573076e"
+  },
+  {
+   "fa": "عشایر",
+   "r": "'ashāyer",
+   "en": "nomadic tribes",
+   "faV": "عَشایِر",
+   "a": "fe3382aab3db"
+  },
+  {
+   "fa": "بته‌جقه",
+   "r": "bote-jeghe",
+   "en": "boteh, the paisley motif",
+   "faV": "بُته‌جِقه",
+   "a": "08f9381bfbb8"
+  }
+ ],
+ "facts": [
+  "The oldest surviving pile carpet, the Pazyryk carpet (about the 5th century BC), was found frozen in a tomb in the Altai mountains of Siberia; it is now in the Hermitage in St Petersburg, and many scholars link its design to Achaemenid Persia.",
+  "The Ardabil Carpet, made for the shrine of Sheikh Safi in Ardabil and dated 1539–40, is one of the oldest dated carpets in the world. Its inscription quotes a couplet of Hafez and names its maker, Maqsud of Kashan; it is now in the Victoria and Albert Museum in London.",
+  "'Polonaise' carpets – silk rugs brocaded with gold and silver thread, woven in Isfahan and Kashan around 1600 – got their name because many were found in Polish noble collections and were long thought to be Polish.",
+  "The traditional skills of carpet weaving in Fars and in Kashan were added to UNESCO's list of the Intangible Cultural Heritage of Humanity in 2010.",
+  "English calls the boteh 'paisley' after the Scottish town whose mills copied it from Kashmir shawls in the 19th century; in Persian it is bote-jeghe.",
+  "Iranians often describe a carpet by its area: a 'twelve-metre' carpet, [[فرش دوازده‌متری|farsh-e davāzdah-metri]], 3 by 4 metres, is the classic size for a living room."
+ ],
+ "titleV": "فَرشِ ایرانی",
+ "titleA": "848ce45271c6"
+}

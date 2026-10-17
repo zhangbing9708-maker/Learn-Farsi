@@ -32,37 +32,215 @@
   }
  ],
  "sentences": [
-  {"fa": "هفت‌سین ما سمنو و سنجد و سیب دارد.", "r": "haft-sin-e mā samanu va senjed va sib dārad.", "en": "Our haft-sin has samanu, oleaster and apples."},
-  {"fa": "شب عید سبزی‌پلو با ماهی می‌خوریم.", "r": "shab-e eyd sabzi-polow bā māhi mi-khorim.", "en": "On New Year's Eve we eat herb rice with fish."},
-  {"fa": "سمنو را تمام شب هم می‌زنند.", "r": "samanu rā tamām-e shab ham mi-zanand.", "en": "They stir the samanu all night long."},
-  {"fa": "سبزی‌ها را خرد کن و لای برنج بریز.", "r": "sabzi-hā rā khord kon va lā-ye berenj be-riz.", "en": "Chop the herbs and layer them in the rice."},
-  {"fa": "برای عیددیدنی آجیل و شیرینی خریده‌ایم.", "r": "barā-ye eyd-didani ājil o shirini kharide-im.", "en": "We've bought ajil and pastries for the New Year visits."},
-  {"fa": "روز سیزده‌به‌در همه به طبیعت می‌روند.", "r": "ruz-e sizdah-be-dar hame be tabi'at mi-ravand.", "en": "On Sizdah Bedar everyone goes out into nature."},
-  {"fa": "کاهو را در سکنجبین بزن و بخور.", "r": "kāhu rā dar sekanjabin be-zan va bo-khor.", "en": "Dip the lettuce in sekanjabin and eat it."},
-  {"fa": "شب یلدا بلندترین شب سال است.", "r": "shab-e yaldā boland-tarin shab-e sāl ast.", "en": "Yalda night is the longest night of the year."},
-  {"fa": "شب یلدا انار و هندوانه می‌خوریم و فال حافظ می‌گیریم.", "r": "shab-e yaldā anār o hendevāne mi-khorim va fāl-e Hāfez mi-girim.", "en": "On Yalda night we eat pomegranate and watermelon and take a fortune from Hafez."},
-  {"fa": "انار را دانه کن و رویش گلپر بریز.", "r": "anār rā dāne kon va ru-yash golpar be-riz.", "en": "Seed the pomegranate and sprinkle golpar on it."},
-  {"fa": "عیدتان مبارک؛ بفرمایید آجیل!", "r": "eyd-etān mobārak; befarmāyid ājil!", "en": "Happy New Year – please have some ajil!", "col": "عیدتون مبارک؛ بفرمایین آجیل!", "colR": "eyd-etun mobārak; befarmāyin ājil!"}
+  {
+   "fa": "هفت‌سین ما سمنو و سنجد و سیب دارد.",
+   "r": "haft-sin-e mā samanu va senjed va sib dārad.",
+   "en": "Our haft-sin has samanu, oleaster and apples.",
+   "faV": "هَفت‌سینِ ما سَمَنو و سِنجِد و سیب دارَد.",
+   "a": "4d95c93e2c7f"
+  },
+  {
+   "fa": "شب عید سبزی‌پلو با ماهی می‌خوریم.",
+   "r": "shab-e eyd sabzi-polow bā māhi mi-khorim.",
+   "en": "On New Year's Eve we eat herb rice with fish.",
+   "faV": "شَبِ عَید سَبزی‌پُلَو با ماهی می‌خوریم.",
+   "a": "566e95ea84a2"
+  },
+  {
+   "fa": "سمنو را تمام شب هم می‌زنند.",
+   "r": "samanu rā tamām-e shab ham mi-zanand.",
+   "en": "They stir the samanu all night long.",
+   "faV": "سَمَنو را تَمامِ شَب هَم می‌زَنَند.",
+   "a": "690d18a45bce"
+  },
+  {
+   "fa": "سبزی‌ها را خرد کن و لای برنج بریز.",
+   "r": "sabzi-hā rā khord kon va lā-ye berenj be-riz.",
+   "en": "Chop the herbs and layer them in the rice.",
+   "faV": "سَبزی‌ها را خُرد کُن و لایِ بِرِنج بِریز.",
+   "a": "bf6ec70fa43e"
+  },
+  {
+   "fa": "برای عیددیدنی آجیل و شیرینی خریده‌ایم.",
+   "r": "barā-ye eyd-didani ājil o shirini kharide-im.",
+   "en": "We've bought ajil and pastries for the New Year visits.",
+   "faV": "بَرایِ عَیددیدَنی آجیل و شیرینی خَریده‌ایم.",
+   "a": "dededa86cd1a"
+  },
+  {
+   "fa": "روز سیزده‌به‌در همه به طبیعت می‌روند.",
+   "r": "ruz-e sizdah-be-dar hame be tabi'at mi-ravand.",
+   "en": "On Sizdah Bedar everyone goes out into nature.",
+   "faV": "روزِ سیزدَه‌به‌دَر هَمه به طَبیعَت می‌رَوَند.",
+   "a": "fee1accc2822"
+  },
+  {
+   "fa": "کاهو را در سکنجبین بزن و بخور.",
+   "r": "kāhu rā dar sekanjabin be-zan va bo-khor.",
+   "en": "Dip the lettuce in sekanjabin and eat it.",
+   "faV": "کاهو را دَر سِکَنجَبین بِزَن و بُخور.",
+   "a": "f843efd089c8"
+  },
+  {
+   "fa": "شب یلدا بلندترین شب سال است.",
+   "r": "shab-e yaldā boland-tarin shab-e sāl ast.",
+   "en": "Yalda night is the longest night of the year.",
+   "faV": "شَبِ یَلدا بُلَندتَرین شَبِ سال اَست.",
+   "a": "0c09ea41f412"
+  },
+  {
+   "fa": "شب یلدا انار و هندوانه می‌خوریم و فال حافظ می‌گیریم.",
+   "r": "shab-e yaldā anār o hendevāne mi-khorim va fāl-e Hāfez mi-girim.",
+   "en": "On Yalda night we eat pomegranate and watermelon and take a fortune from Hafez.",
+   "faV": "شَبِ یَلدا اَنار و هِندِوانه می‌خوریم و فالِ حافِظ می‌گیریم.",
+   "a": "c1189beade0e"
+  },
+  {
+   "fa": "انار را دانه کن و رویش گلپر بریز.",
+   "r": "anār rā dāne kon va ru-yash golpar be-riz.",
+   "en": "Seed the pomegranate and sprinkle golpar on it.",
+   "faV": "اَنار را دانه کُن و رویَش گُلپَر بِریز.",
+   "a": "2896aa9bffd2"
+  },
+  {
+   "fa": "عیدتان مبارک؛ بفرمایید آجیل!",
+   "r": "eyd-etān mobārak; befarmāyid ājil!",
+   "en": "Happy New Year – please have some ajil!",
+   "col": "عیدتون مبارک؛ بفرمایین آجیل!",
+   "colR": "eyd-etun mobārak; befarmāyin ājil!",
+   "faV": "عَیدِتان مُبارَک؛ بِفَرمایید آجیل!",
+   "a": "08a915e4a136",
+   "colV": "عَیدِتون مُبارَک؛ بِفَرمایین آجیل!",
+   "colA": "2b7f493565ed"
+  }
  ],
  "vocab": [
-  {"fa": "نوروز", "r": "nowruz", "en": "Nowruz, the Iranian New Year"},
-  {"fa": "هفت‌سین", "r": "haft-sin", "en": "haft-sin, the New Year table"},
-  {"fa": "سمنو", "r": "samanu", "en": "samanu, wheat-sprout pudding"},
-  {"fa": "سنجد", "r": "senjed", "en": "oleaster (dried fruit)"},
-  {"fa": "سرکه", "r": "serke", "en": "vinegar"},
-  {"fa": "سبزه", "r": "sabze", "en": "sprouted greens"},
-  {"fa": "شب عید", "r": "shab-e eyd", "en": "New Year's Eve"},
-  {"fa": "رشته‌پلو", "r": "reshte-polow", "en": "rice with toasted noodles"},
-  {"fa": "عیددیدنی", "r": "eyd-didani", "en": "New Year visit"},
-  {"fa": "آجیل", "r": "ājil", "en": "mixed nuts and dried fruit"},
-  {"fa": "کاهو", "r": "kāhu", "en": "lettuce"},
-  {"fa": "سکنجبین", "r": "sekanjabin", "en": "vinegar-and-mint syrup"},
-  {"fa": "شب یلدا", "r": "shab-e yaldā", "en": "Yalda night"},
-  {"fa": "انار", "r": "anār", "en": "pomegranate"},
-  {"fa": "هندوانه", "r": "hendevāne", "en": "watermelon"},
-  {"fa": "گلپر", "r": "golpar", "en": "golpar, ground hogweed seed"},
-  {"fa": "فال", "r": "fāl", "en": "fortune, omen"},
-  {"fa": "کرسی", "r": "korsi", "en": "korsi, low heated table"}
+  {
+   "fa": "نوروز",
+   "r": "nowruz",
+   "en": "Nowruz, the Iranian New Year",
+   "faV": "نَوروز",
+   "a": "45d9fa9f1366"
+  },
+  {
+   "fa": "هفت‌سین",
+   "r": "haft-sin",
+   "en": "haft-sin, the New Year table",
+   "faV": "هَفت‌سین",
+   "a": "b0a09c0ba8ac"
+  },
+  {
+   "fa": "سمنو",
+   "r": "samanu",
+   "en": "samanu, wheat-sprout pudding",
+   "faV": "سَمَنو",
+   "a": "11cc21e1b2bf"
+  },
+  {
+   "fa": "سنجد",
+   "r": "senjed",
+   "en": "oleaster (dried fruit)",
+   "faV": "سِنجِد",
+   "a": "f7dc1352a366"
+  },
+  {
+   "fa": "سرکه",
+   "r": "serke",
+   "en": "vinegar",
+   "faV": "سِرکه",
+   "a": "c2bf450859f8"
+  },
+  {
+   "fa": "سبزه",
+   "r": "sabze",
+   "en": "sprouted greens",
+   "faV": "سَبزه",
+   "a": "6366f4a8e134"
+  },
+  {
+   "fa": "شب عید",
+   "r": "shab-e eyd",
+   "en": "New Year's Eve",
+   "faV": "شَبِ عَید",
+   "a": "a8a6a77fda2f"
+  },
+  {
+   "fa": "رشته‌پلو",
+   "r": "reshte-polow",
+   "en": "rice with toasted noodles",
+   "faV": "رِشته‌پُلَو",
+   "a": "bab89a7d368e"
+  },
+  {
+   "fa": "عیددیدنی",
+   "r": "eyd-didani",
+   "en": "New Year visit",
+   "faV": "عَیددیدَنی",
+   "a": "fb1b027db49d"
+  },
+  {
+   "fa": "آجیل",
+   "r": "ājil",
+   "en": "mixed nuts and dried fruit",
+   "faV": "آجیل",
+   "a": "2138287559aa"
+  },
+  {
+   "fa": "کاهو",
+   "r": "kāhu",
+   "en": "lettuce",
+   "faV": "کاهو",
+   "a": "dcc0eb1bc5aa"
+  },
+  {
+   "fa": "سکنجبین",
+   "r": "sekanjabin",
+   "en": "vinegar-and-mint syrup",
+   "faV": "سِکَنجَبین",
+   "a": "0f4f9e8f98af"
+  },
+  {
+   "fa": "شب یلدا",
+   "r": "shab-e yaldā",
+   "en": "Yalda night",
+   "faV": "شَبِ یَلدا",
+   "a": "90256b0da032"
+  },
+  {
+   "fa": "انار",
+   "r": "anār",
+   "en": "pomegranate",
+   "faV": "اَنار",
+   "a": "6c4e904dbad0"
+  },
+  {
+   "fa": "هندوانه",
+   "r": "hendevāne",
+   "en": "watermelon",
+   "faV": "هِندِوانه",
+   "a": "cbdf0ac6bd6a"
+  },
+  {
+   "fa": "گلپر",
+   "r": "golpar",
+   "en": "golpar, ground hogweed seed",
+   "faV": "گُلپَر",
+   "a": "bb9827c0db78"
+  },
+  {
+   "fa": "فال",
+   "r": "fāl",
+   "en": "fortune, omen",
+   "faV": "فال",
+   "a": "1a913753f7b5"
+  },
+  {
+   "fa": "کرسی",
+   "r": "korsi",
+   "en": "korsi, low heated table",
+   "faV": "کُرسی",
+   "a": "fda88940fee0"
+  }
  ],
  "facts": [
   "The haft-sin includes several foods – samanu, senjed, apple, garlic, sumac and vinegar – all beginning with the letter sin (س).",
@@ -71,5 +249,7 @@
   "Eating watermelon on Yalda night is said to protect against the colds of winter.",
   "Lettuce dipped in sekanjabin, a syrup of vinegar, sugar and mint, is a classic Sizdah Bedar picnic food.",
   "Nan-e nokhodchi, chickpea-flour cookies, are traditionally cut in the shape of a four-leaf clover."
- ]
+ ],
+ "titleV": "غَذاهایِ نَوروز و یَلدا",
+ "titleA": "02a6cd256ae4"
 }

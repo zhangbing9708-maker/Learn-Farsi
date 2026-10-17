@@ -33,40 +33,243 @@
   }
  ],
  "sentences": [
-  {"fa": "غذای ایرانی تند نیست، ولی پر از طعم است.", "r": "ghazā-ye irāni tond nist, vali por az ta'm ast.", "en": "Iranian food isn't spicy, but it is full of flavour."},
-  {"fa": "ایرانی‌ها بیشتر غذاها را با برنج یا نان می‌خورند.", "r": "irāni-hā bishtar-e ghazā-hā rā bā berenj yā nān mi-khorand.", "en": "Iranians eat most dishes with rice or bread."},
-  {"fa": "سفره را روی زمین پهن می‌کنیم و دور آن می‌نشینیم.", "r": "sofre rā ru-ye zamin pahn mi-konim va dowr-e ān mi-neshinim.", "en": "We spread the sofreh on the floor and sit around it."},
-  {"fa": "سبزی خوردن و ماست همیشه سر سفره‌ی ما هست.", "r": "sabzi khordan o māst hamishe sar-e sofre-ye mā hast.", "en": "There are always fresh herbs and yoghurt at our meals."},
-  {"fa": "مادربزرگم می‌گوید خرما و عسل «گرم» هستند.", "r": "mādarbozorg-am mi-guyad khormā o asal «garm» hastand.", "en": "My grandmother says dates and honey are 'hot'."},
-  {"fa": "ماست و ماهی و هندوانه «سرد» هستند.", "r": "māst o māhi o hendevāne «sard» hastand.", "en": "Yoghurt, fish and watermelon are 'cold'."},
-  {"fa": "صبحانه معمولاً نان و پنیر و چای است.", "r": "sobhāne ma'mulan nān o panir o chāy ast.", "en": "Breakfast is usually bread, cheese and tea."},
-  {"fa": "ناهار غذای اصلی روز است.", "r": "nāhār ghazā-ye asli-ye ruz ast.", "en": "Lunch is the main meal of the day."},
-  {"fa": "شام سبک‌تر از ناهار است.", "r": "shām sabok-tar az nāhār ast.", "en": "Dinner is lighter than lunch."},
-  {"fa": "مهمان حبیب خداست.", "r": "mehmān habib-e khodā-st.", "en": "A guest is the friend of God.", "note": "A proverb about hospitality."},
-  {"fa": "بفرمایید سر سفره!", "r": "befarmāyid sar-e sofre!", "en": "Please come and eat!", "lit": "please, to the sofreh", "col": "بفرمایین سر سفره!", "colR": "befarmāyin sar-e sofre!"},
-  {"fa": "دستتان درد نکند، خیلی خوشمزه بود.", "r": "dast-etān dard na-konad, kheyli khoshmazze bud.", "en": "Thank you, it was delicious.", "lit": "may your hand not hurt, it was very tasty", "col": "دستتون درد نکنه، خیلی خوشمزه بود.", "colR": "dast-etun dard na-kone, kheyli khoshmazze bud."}
+  {
+   "fa": "غذای ایرانی تند نیست، ولی پر از طعم است.",
+   "r": "ghazā-ye irāni tond nist, vali por az ta'm ast.",
+   "en": "Iranian food isn't spicy, but it is full of flavour.",
+   "faV": "غَذایِ ایرانی تُند نیست، وَلی پُر اَز طَعم اَست.",
+   "a": "948518d45629"
+  },
+  {
+   "fa": "ایرانی‌ها بیشتر غذاها را با برنج یا نان می‌خورند.",
+   "r": "irāni-hā bishtar-e ghazā-hā rā bā berenj yā nān mi-khorand.",
+   "en": "Iranians eat most dishes with rice or bread.",
+   "faV": "ایرانی‌ها بیشتَرِ غَذاها را با بِرِنج یا نان می‌خورَند.",
+   "a": "c8b8349bb43b"
+  },
+  {
+   "fa": "سفره را روی زمین پهن می‌کنیم و دور آن می‌نشینیم.",
+   "r": "sofre rā ru-ye zamin pahn mi-konim va dowr-e ān mi-neshinim.",
+   "en": "We spread the sofreh on the floor and sit around it.",
+   "faV": "سُفره را رویِ زَمین پَهن می‌کُنیم و دَورِ آن می‌نِشینیم.",
+   "a": "ee09f048be86"
+  },
+  {
+   "fa": "سبزی خوردن و ماست همیشه سر سفره‌ی ما هست.",
+   "r": "sabzi khordan o māst hamishe sar-e sofre-ye mā hast.",
+   "en": "There are always fresh herbs and yoghurt at our meals.",
+   "faV": "سَبزی خوردَن و ماست هَمیشه سَرِ سُفره‌یِ ما هَست.",
+   "a": "2c3afdba9b6f"
+  },
+  {
+   "fa": "مادربزرگم می‌گوید خرما و عسل «گرم» هستند.",
+   "r": "mādarbozorg-am mi-guyad khormā o asal «garm» hastand.",
+   "en": "My grandmother says dates and honey are 'hot'.",
+   "faV": "مادَربُزُرگَم می‌گویَد خُرما و عَسَل «گَرم» هَستَند.",
+   "a": "b89febbf9ae3"
+  },
+  {
+   "fa": "ماست و ماهی و هندوانه «سرد» هستند.",
+   "r": "māst o māhi o hendevāne «sard» hastand.",
+   "en": "Yoghurt, fish and watermelon are 'cold'.",
+   "faV": "ماست و ماهی و هِندِوانه «سَرد» هَستَند.",
+   "a": "e3da7a62c060"
+  },
+  {
+   "fa": "صبحانه معمولاً نان و پنیر و چای است.",
+   "r": "sobhāne ma'mulan nān o panir o chāy ast.",
+   "en": "Breakfast is usually bread, cheese and tea.",
+   "faV": "صُبحانه مَعمولاً نان و پَنیر و چای اَست.",
+   "a": "340a3430d404"
+  },
+  {
+   "fa": "ناهار غذای اصلی روز است.",
+   "r": "nāhār ghazā-ye asli-ye ruz ast.",
+   "en": "Lunch is the main meal of the day.",
+   "faV": "ناهار غَذایِ اَصلیِ روز اَست.",
+   "a": "e05339d5420e"
+  },
+  {
+   "fa": "شام سبک‌تر از ناهار است.",
+   "r": "shām sabok-tar az nāhār ast.",
+   "en": "Dinner is lighter than lunch.",
+   "faV": "شام سَبُک‌تَر اَز ناهار اَست.",
+   "a": "8c08c917665b"
+  },
+  {
+   "fa": "مهمان حبیب خداست.",
+   "r": "mehmān habib-e khodā-st.",
+   "en": "A guest is the friend of God.",
+   "note": "A proverb about hospitality.",
+   "faV": "مِهمان حَبیبِ خُداست.",
+   "a": "315fa2194f86"
+  },
+  {
+   "fa": "بفرمایید سر سفره!",
+   "r": "befarmāyid sar-e sofre!",
+   "en": "Please come and eat!",
+   "lit": "please, to the sofreh",
+   "col": "بفرمایین سر سفره!",
+   "colR": "befarmāyin sar-e sofre!",
+   "faV": "بِفَرمایید سَرِ سُفره!",
+   "a": "f356211c4c90",
+   "colV": "بِفَرمایین سَرِ سُفره!",
+   "colA": "d41a8d7ee55a"
+  },
+  {
+   "fa": "دستتان درد نکند، خیلی خوشمزه بود.",
+   "r": "dast-etān dard na-konad, kheyli khoshmazze bud.",
+   "en": "Thank you, it was delicious.",
+   "lit": "may your hand not hurt, it was very tasty",
+   "col": "دستتون درد نکنه، خیلی خوشمزه بود.",
+   "colR": "dast-etun dard na-kone, kheyli khoshmazze bud.",
+   "faV": "دَستِتان دَرد نَکُنَد، خَیلی خوشمَزّه بود.",
+   "a": "725a901b228f",
+   "colV": "دَستِتون دَرد نَکُنه، خَیلی خوشمَزّه بود.",
+   "colA": "7870e1bec93f"
+  }
  ],
  "vocab": [
-  {"fa": "آشپزی", "r": "āshpazi", "en": "cooking, cuisine"},
-  {"fa": "غذا", "r": "ghazā", "en": "food; dish, meal"},
-  {"fa": "برنج", "r": "berenj", "en": "rice"},
-  {"fa": "خورش", "r": "khoresh", "en": "stew (served with rice)"},
-  {"fa": "کباب", "r": "kabāb", "en": "kebab, grilled meat"},
-  {"fa": "نان", "r": "nān", "en": "bread"},
-  {"fa": "سبزی", "r": "sabzi", "en": "herbs, greens; vegetables"},
-  {"fa": "ماست", "r": "māst", "en": "yoghurt"},
-  {"fa": "دوغ", "r": "dugh", "en": "doogh, salty yoghurt drink"},
-  {"fa": "ترشی", "r": "torshi", "en": "pickles"},
-  {"fa": "سفره", "r": "sofre", "en": "cloth spread for a meal"},
-  {"fa": "صبحانه", "r": "sobhāne", "en": "breakfast"},
-  {"fa": "ناهار", "r": "nāhār", "en": "lunch"},
-  {"fa": "عصرانه", "r": "asrāne", "en": "afternoon tea, snack"},
-  {"fa": "شام", "r": "shām", "en": "dinner"},
-  {"fa": "گرم", "r": "garm", "en": "warm; 'hot' (by nature)"},
-  {"fa": "سرد", "r": "sard", "en": "cold; 'cold' (by nature)"},
-  {"fa": "مهمان", "r": "mehmān", "en": "guest"},
-  {"fa": "خوشمزه", "r": "khoshmazze", "en": "delicious, tasty"},
-  {"fa": "طعم", "r": "ta'm", "en": "taste, flavour"}
+  {
+   "fa": "آشپزی",
+   "r": "āshpazi",
+   "en": "cooking, cuisine",
+   "faV": "آشپَزی",
+   "a": "8b3a83283b9f"
+  },
+  {
+   "fa": "غذا",
+   "r": "ghazā",
+   "en": "food; dish, meal",
+   "faV": "غَذا",
+   "a": "5f0123156397"
+  },
+  {
+   "fa": "برنج",
+   "r": "berenj",
+   "en": "rice",
+   "faV": "بِرِنج",
+   "a": "1df26caba216"
+  },
+  {
+   "fa": "خورش",
+   "r": "khoresh",
+   "en": "stew (served with rice)",
+   "faV": "خورِش",
+   "a": "0be16373e263"
+  },
+  {
+   "fa": "کباب",
+   "r": "kabāb",
+   "en": "kebab, grilled meat",
+   "faV": "کَباب",
+   "a": "63d676f6f765"
+  },
+  {
+   "fa": "نان",
+   "r": "nān",
+   "en": "bread",
+   "faV": "نان",
+   "a": "9787c0c0fc1e"
+  },
+  {
+   "fa": "سبزی",
+   "r": "sabzi",
+   "en": "herbs, greens; vegetables",
+   "faV": "سَبزی",
+   "a": "f72deaeaf822"
+  },
+  {
+   "fa": "ماست",
+   "r": "māst",
+   "en": "yoghurt",
+   "faV": "ماست",
+   "a": "4c8bc514be1c"
+  },
+  {
+   "fa": "دوغ",
+   "r": "dugh",
+   "en": "doogh, salty yoghurt drink",
+   "faV": "دوغ",
+   "a": "95cc5efa5903"
+  },
+  {
+   "fa": "ترشی",
+   "r": "torshi",
+   "en": "pickles",
+   "faV": "تُرشی",
+   "a": "cf1ac47b59c8"
+  },
+  {
+   "fa": "سفره",
+   "r": "sofre",
+   "en": "cloth spread for a meal",
+   "faV": "سُفره",
+   "a": "a5e83036b4e5"
+  },
+  {
+   "fa": "صبحانه",
+   "r": "sobhāne",
+   "en": "breakfast",
+   "faV": "صُبحانه",
+   "a": "4c37a2a6e99d"
+  },
+  {
+   "fa": "ناهار",
+   "r": "nāhār",
+   "en": "lunch",
+   "faV": "ناهار",
+   "a": "b657fa3ae12a"
+  },
+  {
+   "fa": "عصرانه",
+   "r": "asrāne",
+   "en": "afternoon tea, snack",
+   "faV": "عَصرانه",
+   "a": "48b1c6964763"
+  },
+  {
+   "fa": "شام",
+   "r": "shām",
+   "en": "dinner",
+   "faV": "شام",
+   "a": "0066c0f57bda"
+  },
+  {
+   "fa": "گرم",
+   "r": "garm",
+   "en": "warm; 'hot' (by nature)",
+   "faV": "گَرم",
+   "a": "6776bb281a83"
+  },
+  {
+   "fa": "سرد",
+   "r": "sard",
+   "en": "cold; 'cold' (by nature)",
+   "faV": "سَرد",
+   "a": "d684e3e468c8"
+  },
+  {
+   "fa": "مهمان",
+   "r": "mehmān",
+   "en": "guest",
+   "faV": "مِهمان",
+   "a": "d96e2860a669"
+  },
+  {
+   "fa": "خوشمزه",
+   "r": "khoshmazze",
+   "en": "delicious, tasty",
+   "faV": "خوشمَزّه",
+   "a": "49162c96bfc8"
+  },
+  {
+   "fa": "طعم",
+   "r": "ta'm",
+   "en": "taste, flavour",
+   "faV": "طَعم",
+   "a": "92e5da8729fa"
+  }
  ],
  "facts": [
   "Iran has no official national dish, but chelow kabab and ghormeh sabzi are the usual candidates.",
@@ -75,5 +278,7 @@
   "Avicenna's Canon of Medicine (completed 1025) describes foods by their temperament – hot or cold, moist or dry – the basis of the Iranian sardi o garmi system.",
   "The Persian words āshpaz 'cook' and āshpazkhāne 'kitchen' are built on āsh, 'thick soup'.",
   "In Iran the main meal is lunch; dinner is often eaten after 8 p.m."
- ]
+ ],
+ "titleV": "آشپَزیِ ایرانی",
+ "titleA": "fa624a96e6b4"
 }

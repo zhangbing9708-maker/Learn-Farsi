@@ -32,38 +32,248 @@
   }
  ],
  "sentences": [
-  {"fa": "یک میز برای چهار نفر دارید؟", "r": "yek miz barā-ye chahār nafar dārid?", "en": "Do you have a table for four?"},
-  {"fa": "منو را می‌آورید، لطفاً؟", "r": "menu rā mi-āvarid, lotfan?", "en": "Could you bring the menu, please?", "col": "منو رو می‌آرین، لطفاً؟", "colR": "menu ro mi-ārin, lotfan?"},
-  {"fa": "غذای امروز چیست؟", "r": "ghazā-ye emruz chist?", "en": "What's today's dish?", "col": "غذای امروز چیه؟", "colR": "ghazā-ye emruz chiye?"},
-  {"fa": "برای من یک پرس جوجه‌کباب با دوغ بیاورید.", "r": "barā-ye man yek pors juje-kabāb bā dugh bi-yāvarid.", "en": "Bring me a portion of chicken kebab with doogh.", "col": "برای من یه پرس جوجه‌کباب با دوغ بیارین.", "colR": "barā-ye man ye pors juje-kabāb bā dugh bi-yārin."},
-  {"fa": "سیر شدم، دستتان درد نکند.", "r": "sir shodam, dast-etān dard na-konad.", "en": "I'm full – thank you.", "col": "سیر شدم، دستتون درد نکنه.", "colR": "sir shodam, dast-etun dard na-kone."},
-  {"fa": "نوش جان!", "r": "nush-e jān!", "en": "Enjoy! (said to someone who is eating or has eaten)"},
-  {"fa": "صورت‌حساب را بیاورید، لطفاً.", "r": "surat-hesāb rā bi-yāvarid, lotfan.", "en": "The bill, please.", "col": "صورت‌حساب رو بیارین، لطفاً.", "colR": "surat-hesāb ro bi-yārin, lotfan."},
-  {"fa": "این دفعه مهمان من باشید.", "r": "in daf'e mehmān-e man bāshid.", "en": "This time, be my guest.", "col": "این دفعه مهمون من باشین.", "colR": "in daf'e mehmun-e man bāshin."},
-  {"fa": "نه، اصلاً؛ حساب را من می‌دهم.", "r": "na, aslan; hesāb rā man mi-daham.", "en": "No, absolutely not – I'm paying."},
-  {"fa": "حساب را دنگی حساب کنیم؟", "r": "hesāb rā dongi hesāb konim?", "en": "Shall we split the bill?"},
-  {"fa": "قابل ندارد.", "r": "ghābel na-dārad.", "en": "It's nothing – no need to pay.", "lit": "it is not worthy (of you)", "note": "Ta'arof: thank them and insist on paying.", "col": "قابل نداره.", "colR": "ghābel na-dāre."},
-  {"fa": "شب‌ها جگرکی‌ها تا دیروقت باز هستند.", "r": "shab-hā jegaraki-hā tā dir-vaght bāz hastand.", "en": "At night the liver-kebab stalls stay open late."}
+  {
+   "fa": "یک میز برای چهار نفر دارید؟",
+   "r": "yek miz barā-ye chahār nafar dārid?",
+   "en": "Do you have a table for four?",
+   "faV": "یِک میز بَرایِ چَهار نَفَر دارید؟",
+   "a": "d4349540fde6"
+  },
+  {
+   "fa": "منو را می‌آورید، لطفاً؟",
+   "r": "menu rā mi-āvarid, lotfan?",
+   "en": "Could you bring the menu, please?",
+   "col": "منو رو می‌آرین، لطفاً؟",
+   "colR": "menu ro mi-ārin, lotfan?",
+   "faV": "مِنو را می‌آوَرید، لُطفاً؟",
+   "a": "a1830f63b33a",
+   "colV": "مِنو رو می‌آرین، لُطفاً؟",
+   "colA": "28bbaf5e8bb8"
+  },
+  {
+   "fa": "غذای امروز چیست؟",
+   "r": "ghazā-ye emruz chist?",
+   "en": "What's today's dish?",
+   "col": "غذای امروز چیه؟",
+   "colR": "ghazā-ye emruz chiye?",
+   "faV": "غَذایِ اِمروز چیست؟",
+   "a": "b2b9e49313b5",
+   "colV": "غَذایِ اِمروز چیه؟",
+   "colA": "27378094c71f"
+  },
+  {
+   "fa": "برای من یک پرس جوجه‌کباب با دوغ بیاورید.",
+   "r": "barā-ye man yek pors juje-kabāb bā dugh bi-yāvarid.",
+   "en": "Bring me a portion of chicken kebab with doogh.",
+   "col": "برای من یه پرس جوجه‌کباب با دوغ بیارین.",
+   "colR": "barā-ye man ye pors juje-kabāb bā dugh bi-yārin.",
+   "faV": "بَرایِ مَن یِک پُرس جوجه‌کَباب با دوغ بیاوَرید.",
+   "a": "2b2054ed9d48",
+   "colV": "بَرایِ مَن یه پُرس جوجه‌کَباب با دوغ بیارین.",
+   "colA": "479f1560f206"
+  },
+  {
+   "fa": "سیر شدم، دستتان درد نکند.",
+   "r": "sir shodam, dast-etān dard na-konad.",
+   "en": "I'm full – thank you.",
+   "col": "سیر شدم، دستتون درد نکنه.",
+   "colR": "sir shodam, dast-etun dard na-kone.",
+   "faV": "سیر شُدَم، دَستِتان دَرد نَکُنَد.",
+   "a": "119fead1f098",
+   "colV": "سیر شُدَم، دَستِتون دَرد نَکُنه.",
+   "colA": "4a3a5dd06f38"
+  },
+  {
+   "fa": "نوش جان!",
+   "r": "nush-e jān!",
+   "en": "Enjoy! (said to someone who is eating or has eaten)",
+   "faV": "نوشِ جان!",
+   "a": "12d6f54c3b1e"
+  },
+  {
+   "fa": "صورت‌حساب را بیاورید، لطفاً.",
+   "r": "surat-hesāb rā bi-yāvarid, lotfan.",
+   "en": "The bill, please.",
+   "col": "صورت‌حساب رو بیارین، لطفاً.",
+   "colR": "surat-hesāb ro bi-yārin, lotfan.",
+   "faV": "صورَت‌حِساب را بیاوَرید، لُطفاً.",
+   "a": "6d134fb9c1e6",
+   "colV": "صورَت‌حِساب رو بیارین، لُطفاً.",
+   "colA": "6e1c3ecfca6a"
+  },
+  {
+   "fa": "این دفعه مهمان من باشید.",
+   "r": "in daf'e mehmān-e man bāshid.",
+   "en": "This time, be my guest.",
+   "col": "این دفعه مهمون من باشین.",
+   "colR": "in daf'e mehmun-e man bāshin.",
+   "faV": "این دَفعه مِهمانِ مَن باشید.",
+   "a": "f4c467e72a8f",
+   "colV": "این دَفعه مِهمونِ مَن باشین.",
+   "colA": "abb79ecfb7e5"
+  },
+  {
+   "fa": "نه، اصلاً؛ حساب را من می‌دهم.",
+   "r": "na, aslan; hesāb rā man mi-daham.",
+   "en": "No, absolutely not – I'm paying.",
+   "faV": "نه، اَصلاً؛ حِساب را مَن می‌دَهَم.",
+   "a": "7703fc33d0db"
+  },
+  {
+   "fa": "حساب را دنگی حساب کنیم؟",
+   "r": "hesāb rā dongi hesāb konim?",
+   "en": "Shall we split the bill?",
+   "faV": "حِساب را دُنگی حِساب کُنیم؟",
+   "a": "70e4efc5121f"
+  },
+  {
+   "fa": "قابل ندارد.",
+   "r": "ghābel na-dārad.",
+   "en": "It's nothing – no need to pay.",
+   "lit": "it is not worthy (of you)",
+   "note": "Ta'arof: thank them and insist on paying.",
+   "col": "قابل نداره.",
+   "colR": "ghābel na-dāre.",
+   "faV": "قابِل نَدارَد.",
+   "a": "ac255db26e53",
+   "colV": "قابِل نَداره.",
+   "colA": "849b8bff2c0b"
+  },
+  {
+   "fa": "شب‌ها جگرکی‌ها تا دیروقت باز هستند.",
+   "r": "shab-hā jegaraki-hā tā dir-vaght bāz hastand.",
+   "en": "At night the liver-kebab stalls stay open late.",
+   "faV": "شَب‌ها جِگَرَکی‌ها تا دیروَقت باز هَستَند.",
+   "a": "920a48bd137d"
+  }
  ],
  "vocab": [
-  {"fa": "رستوران", "r": "restorān", "en": "restaurant"},
-  {"fa": "کبابی", "r": "kabābi", "en": "kebab house"},
-  {"fa": "سفره‌خانه", "r": "sofre-khāne", "en": "traditional restaurant, teahouse"},
-  {"fa": "کافه", "r": "kāfe", "en": "café"},
-  {"fa": "منو", "r": "menu", "en": "menu"},
-  {"fa": "میز", "r": "miz", "en": "table"},
-  {"fa": "سفارش دادن", "r": "sefāresh dādan", "en": "to order"},
-  {"fa": "پرس", "r": "pors", "en": "portion"},
-  {"fa": "صورت‌حساب", "r": "surat-hesāb", "en": "bill"},
-  {"fa": "حساب", "r": "hesāb", "en": "account; the bill"},
-  {"fa": "صندوق", "r": "sandugh", "en": "cash desk; box"},
-  {"fa": "تومان", "r": "tumān", "en": "toman (ten rials)"},
-  {"fa": "انعام", "r": "an'ām", "en": "tip"},
-  {"fa": "سیر", "r": "sir", "en": "full (after eating)"},
-  {"fa": "گرسنه", "r": "gorosne", "en": "hungry"},
-  {"fa": "نوش جان", "r": "nush-e jān", "en": "enjoy! (after eating)"},
-  {"fa": "دنگی", "r": "dongi", "en": "split (a bill)"},
-  {"fa": "قلیان", "r": "ghalyān", "en": "water pipe"}
+  {
+   "fa": "رستوران",
+   "r": "restorān",
+   "en": "restaurant",
+   "faV": "رِستوران",
+   "a": "254d54abf2ec"
+  },
+  {
+   "fa": "کبابی",
+   "r": "kabābi",
+   "en": "kebab house",
+   "faV": "کَبابی",
+   "a": "17aad9bcd6e4"
+  },
+  {
+   "fa": "سفره‌خانه",
+   "r": "sofre-khāne",
+   "en": "traditional restaurant, teahouse",
+   "faV": "سُفره‌خانه",
+   "a": "e74b481b3a9d"
+  },
+  {
+   "fa": "کافه",
+   "r": "kāfe",
+   "en": "café",
+   "faV": "کافه",
+   "a": "4e4994e07e3b"
+  },
+  {
+   "fa": "منو",
+   "r": "menu",
+   "en": "menu",
+   "faV": "مِنو",
+   "a": "fd9544c1b239"
+  },
+  {
+   "fa": "میز",
+   "r": "miz",
+   "en": "table",
+   "faV": "میز",
+   "a": "24d579c1b749"
+  },
+  {
+   "fa": "سفارش دادن",
+   "r": "sefāresh dādan",
+   "en": "to order",
+   "faV": "سِفارِش دادَن",
+   "a": "6f562817f358"
+  },
+  {
+   "fa": "پرس",
+   "r": "pors",
+   "en": "portion",
+   "faV": "پُرس",
+   "a": "95c4c15fd1a6"
+  },
+  {
+   "fa": "صورت‌حساب",
+   "r": "surat-hesāb",
+   "en": "bill",
+   "faV": "صورَت‌حِساب",
+   "a": "a44bc0b90f87"
+  },
+  {
+   "fa": "حساب",
+   "r": "hesāb",
+   "en": "account; the bill",
+   "faV": "حِساب",
+   "a": "72a42fba0501"
+  },
+  {
+   "fa": "صندوق",
+   "r": "sandugh",
+   "en": "cash desk; box",
+   "faV": "صَندوق",
+   "a": "328736347ba7"
+  },
+  {
+   "fa": "تومان",
+   "r": "tumān",
+   "en": "toman (ten rials)",
+   "faV": "تومان",
+   "a": "306eba506939"
+  },
+  {
+   "fa": "انعام",
+   "r": "an'ām",
+   "en": "tip",
+   "faV": "اَنعام",
+   "a": "4bcba8a63d33"
+  },
+  {
+   "fa": "سیر",
+   "r": "sir",
+   "en": "full (after eating)",
+   "faV": "سیر",
+   "a": "757a86eaf3b4"
+  },
+  {
+   "fa": "گرسنه",
+   "r": "gorosne",
+   "en": "hungry",
+   "faV": "گُرُسنه",
+   "a": "490e2629fd98"
+  },
+  {
+   "fa": "نوش جان",
+   "r": "nush-e jān",
+   "en": "enjoy! (after eating)",
+   "faV": "نوشِ جان",
+   "a": "743617f708a1"
+  },
+  {
+   "fa": "دنگی",
+   "r": "dongi",
+   "en": "split (a bill)",
+   "faV": "دُنگی",
+   "a": "f17a32108ff4"
+  },
+  {
+   "fa": "قلیان",
+   "r": "ghalyān",
+   "en": "water pipe",
+   "faV": "قَلیان",
+   "a": "6f7e87351cb9"
+  }
  ],
  "facts": [
   "In many Iranian restaurants you pay at the cash desk (sandugh), not at the table.",
@@ -72,5 +282,7 @@
   "Abadan and Ahvaz in Khuzestan are famous for spicy falafel.",
   "Boiled beetroot (labu) and boiled broad beans (baghali) are classic winter street foods.",
   "Traditional sofrekhanehs seat diners on carpeted wooden day-beds called takht."
- ]
+ ],
+ "titleV": "بیرون غَذا خوردَن",
+ "titleA": "4c3b06857120"
 }

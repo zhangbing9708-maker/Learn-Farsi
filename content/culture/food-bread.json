@@ -32,37 +32,212 @@
   }
  ],
  "sentences": [
-  {"fa": "دو تا سنگک، لطفاً.", "r": "do tā sangak, lotfan.", "en": "Two sangaks, please."},
-  {"fa": "نان بربری را با پنیر و گردو می‌خوریم.", "r": "nān-e barbari rā bā panir o gerdu mi-khorim.", "en": "We eat barbari bread with cheese and walnuts."},
-  {"fa": "صف نانوایی امروز خیلی طولانی است.", "r": "saff-e nānvāyi emruz kheyli tulāni ast.", "en": "The bakery queue is very long today."},
-  {"fa": "ببخشید، آخر صف کجاست؟", "r": "be-bakhshid, ākhar-e saff kojā-st?", "en": "Excuse me, where's the end of the queue?"},
-  {"fa": "سنگک را روی سنگ‌ریزه‌های داغ می‌پزند.", "r": "sangak rā ru-ye sang-rize-hā-ye dāgh mi-pazand.", "en": "Sangak is baked on hot pebbles."},
-  {"fa": "نان داغ را تا نکن، خمیر می‌شود.", "r": "nān-e dāgh rā tā na-kon, khamir mi-shavad.", "en": "Don't fold hot bread – it turns doughy."},
-  {"fa": "لواش خشک را با کمی آب نرم کن.", "r": "lavāsh-e khoshk rā bā kami āb narm kon.", "en": "Soften dry lavash with a little water."},
-  {"fa": "نانوایی سر کوچه‌ی ما بربری خیلی خوبی دارد.", "r": "nānvāyi-ye sar-e kuche-ye mā barbari-ye kheyli khub-i dārad.", "en": "The bakery at the end of our street has really good barbari."},
-  {"fa": "ما با هم نان و نمک خورده‌ایم.", "r": "mā bā ham nān o namak khorde-im.", "en": "We have shared bread and salt.", "note": "That is: we are bound by friendship and loyalty."},
-  {"fa": "نان را دور نریز؛ نان برکت است.", "r": "nān rā dur na-riz; nān barakat ast.", "en": "Don't throw bread away – bread is a blessing."},
-  {"fa": "هر روز صبح نان تازه می‌خرم.", "r": "har ruz sobh nān-e tāze mi-kharam.", "en": "Every morning I buy fresh bread."}
+  {
+   "fa": "دو تا سنگک، لطفاً.",
+   "r": "do tā sangak, lotfan.",
+   "en": "Two sangaks, please.",
+   "faV": "دو تا سَنگَک، لُطفاً.",
+   "a": "424bcfa38fba"
+  },
+  {
+   "fa": "نان بربری را با پنیر و گردو می‌خوریم.",
+   "r": "nān-e barbari rā bā panir o gerdu mi-khorim.",
+   "en": "We eat barbari bread with cheese and walnuts.",
+   "faV": "نانِ بَربَری را با پَنیر و گِردو می‌خوریم.",
+   "a": "fd69ce443273"
+  },
+  {
+   "fa": "صف نانوایی امروز خیلی طولانی است.",
+   "r": "saff-e nānvāyi emruz kheyli tulāni ast.",
+   "en": "The bakery queue is very long today.",
+   "faV": "صَفِّ نانوایی اِمروز خَیلی طولانی اَست.",
+   "a": "8a93025409c3"
+  },
+  {
+   "fa": "ببخشید، آخر صف کجاست؟",
+   "r": "be-bakhshid, ākhar-e saff kojā-st?",
+   "en": "Excuse me, where's the end of the queue?",
+   "faV": "بِبَخشید، آخَرِ صَفّ کُجاست؟",
+   "a": "00c13403a41d"
+  },
+  {
+   "fa": "سنگک را روی سنگ‌ریزه‌های داغ می‌پزند.",
+   "r": "sangak rā ru-ye sang-rize-hā-ye dāgh mi-pazand.",
+   "en": "Sangak is baked on hot pebbles.",
+   "faV": "سَنگَک را رویِ سَنگ‌ریزه‌هایِ داغ می‌پَزَند.",
+   "a": "f5917ae46f66"
+  },
+  {
+   "fa": "نان داغ را تا نکن، خمیر می‌شود.",
+   "r": "nān-e dāgh rā tā na-kon, khamir mi-shavad.",
+   "en": "Don't fold hot bread – it turns doughy.",
+   "faV": "نانِ داغ را تا نَکُن، خَمیر می‌شَوَد.",
+   "a": "bb634d06daec"
+  },
+  {
+   "fa": "لواش خشک را با کمی آب نرم کن.",
+   "r": "lavāsh-e khoshk rā bā kami āb narm kon.",
+   "en": "Soften dry lavash with a little water.",
+   "faV": "لَواشِ خُشک را با کَمی آب نَرم کُن.",
+   "a": "c4f68d77a506"
+  },
+  {
+   "fa": "نانوایی سر کوچه‌ی ما بربری خیلی خوبی دارد.",
+   "r": "nānvāyi-ye sar-e kuche-ye mā barbari-ye kheyli khub-i dārad.",
+   "en": "The bakery at the end of our street has really good barbari.",
+   "faV": "نانواییِ سَرِ کوچه‌یِ ما بَربَریِ خَیلی خوبی دارَد.",
+   "a": "361dfa812752"
+  },
+  {
+   "fa": "ما با هم نان و نمک خورده‌ایم.",
+   "r": "mā bā ham nān o namak khorde-im.",
+   "en": "We have shared bread and salt.",
+   "note": "That is: we are bound by friendship and loyalty.",
+   "faV": "ما با هَم نان و نَمَک خورده‌ایم.",
+   "a": "5f0dfb8f2989"
+  },
+  {
+   "fa": "نان را دور نریز؛ نان برکت است.",
+   "r": "nān rā dur na-riz; nān barakat ast.",
+   "en": "Don't throw bread away – bread is a blessing.",
+   "faV": "نان را دور نَریز؛ نان بَرَکَت اَست.",
+   "a": "e65de2a2ffe0"
+  },
+  {
+   "fa": "هر روز صبح نان تازه می‌خرم.",
+   "r": "har ruz sobh nān-e tāze mi-kharam.",
+   "en": "Every morning I buy fresh bread.",
+   "faV": "هَر روز صُبح نانِ تازه می‌خَرَم.",
+   "a": "d5c00f4f3376"
+  }
  ],
  "vocab": [
-  {"fa": "نان", "r": "nān", "en": "bread"},
-  {"fa": "نانوایی", "r": "nānvāyi", "en": "bakery"},
-  {"fa": "نانوا", "r": "nānvā", "en": "baker"},
-  {"fa": "سنگک", "r": "sangak", "en": "sangak, bread baked on pebbles"},
-  {"fa": "بربری", "r": "barbari", "en": "barbari bread"},
-  {"fa": "لواش", "r": "lavāsh", "en": "lavash, thin flatbread"},
-  {"fa": "تافتون", "r": "tāftun", "en": "taftun bread"},
-  {"fa": "سنگ‌ریزه", "r": "sang-rize", "en": "pebble"},
-  {"fa": "تنور", "r": "tanur", "en": "clay oven"},
-  {"fa": "خمیر", "r": "khamir", "en": "dough"},
-  {"fa": "کنجد", "r": "konjed", "en": "sesame"},
-  {"fa": "صف", "r": "saff", "en": "queue, line"},
-  {"fa": "تازه", "r": "tāze", "en": "fresh"},
-  {"fa": "داغ", "r": "dāgh", "en": "hot (to the touch)"},
-  {"fa": "پنیر", "r": "panir", "en": "cheese"},
-  {"fa": "نمک", "r": "namak", "en": "salt"},
-  {"fa": "برکت", "r": "barakat", "en": "blessing, abundance"},
-  {"fa": "نمک‌نشناس", "r": "namak-nashenās", "en": "ungrateful"}
+  {
+   "fa": "نان",
+   "r": "nān",
+   "en": "bread",
+   "faV": "نان",
+   "a": "9787c0c0fc1e"
+  },
+  {
+   "fa": "نانوایی",
+   "r": "nānvāyi",
+   "en": "bakery",
+   "faV": "نانوایی",
+   "a": "72758770616e"
+  },
+  {
+   "fa": "نانوا",
+   "r": "nānvā",
+   "en": "baker",
+   "faV": "نانوا",
+   "a": "005f0f32a09b"
+  },
+  {
+   "fa": "سنگک",
+   "r": "sangak",
+   "en": "sangak, bread baked on pebbles",
+   "faV": "سَنگَک",
+   "a": "edc08a9f59b2"
+  },
+  {
+   "fa": "بربری",
+   "r": "barbari",
+   "en": "barbari bread",
+   "faV": "بَربَری",
+   "a": "69c75af13264"
+  },
+  {
+   "fa": "لواش",
+   "r": "lavāsh",
+   "en": "lavash, thin flatbread",
+   "faV": "لَواش",
+   "a": "335324b1313d"
+  },
+  {
+   "fa": "تافتون",
+   "r": "tāftun",
+   "en": "taftun bread",
+   "faV": "تافتون",
+   "a": "38076b48f1ed"
+  },
+  {
+   "fa": "سنگ‌ریزه",
+   "r": "sang-rize",
+   "en": "pebble",
+   "faV": "سَنگ‌ریزه",
+   "a": "6f2bca8d5e71"
+  },
+  {
+   "fa": "تنور",
+   "r": "tanur",
+   "en": "clay oven",
+   "faV": "تَنور",
+   "a": "2078773e8c1c"
+  },
+  {
+   "fa": "خمیر",
+   "r": "khamir",
+   "en": "dough",
+   "faV": "خَمیر",
+   "a": "ec1c1226cd30"
+  },
+  {
+   "fa": "کنجد",
+   "r": "konjed",
+   "en": "sesame",
+   "faV": "کُنجِد",
+   "a": "dc8ac3e201c7"
+  },
+  {
+   "fa": "صف",
+   "r": "saff",
+   "en": "queue, line",
+   "faV": "صَفّ",
+   "a": "6b9cfe5b9f4c"
+  },
+  {
+   "fa": "تازه",
+   "r": "tāze",
+   "en": "fresh",
+   "faV": "تازه",
+   "a": "84202befc222"
+  },
+  {
+   "fa": "داغ",
+   "r": "dāgh",
+   "en": "hot (to the touch)",
+   "faV": "داغ",
+   "a": "35824b791e3d"
+  },
+  {
+   "fa": "پنیر",
+   "r": "panir",
+   "en": "cheese",
+   "faV": "پَنیر",
+   "a": "8c5b0504a445"
+  },
+  {
+   "fa": "نمک",
+   "r": "namak",
+   "en": "salt",
+   "faV": "نَمَک",
+   "a": "afa0d44a978a"
+  },
+  {
+   "fa": "برکت",
+   "r": "barakat",
+   "en": "blessing, abundance",
+   "faV": "بَرَکَت",
+   "a": "79a8202e383a"
+  },
+  {
+   "fa": "نمک‌نشناس",
+   "r": "namak-nashenās",
+   "en": "ungrateful",
+   "faV": "نَمَک‌نَشِناس",
+   "a": "8551daef1f63"
+  }
  ],
  "facts": [
   "A traditional Iranian bakery usually bakes only one kind of bread, so neighbourhoods have separate sangak, barbari and lavash bakeries.",
@@ -71,5 +246,7 @@
   "Barbari is named after the Barbari (Hazara) people, who are said to have brought it to Tehran in the Qajar era.",
   "Namak-nashenās, 'not knowing the salt', is the Persian word for an ungrateful person.",
   "The Zagros foothills of western Iran are among the places where wheat and barley were first cultivated."
- ]
+ ],
+ "titleV": "نان",
+ "titleA": "9787c0c0fc1e"
 }

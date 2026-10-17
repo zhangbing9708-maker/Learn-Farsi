@@ -32,37 +32,211 @@
   }
  ],
  "sentences": [
-  {"fa": "سپاه عرب در قرن هفتم میلادی به ایران آمد.", "r": "sepāh-e arab dar gharn-e haftom-e milādi be Irān āmad.", "en": "The Arab army came to Iran in the seventh century AD."},
-  {"fa": "بیشتر ایرانیان به‌تدریج مسلمان شدند.", "r": "bishtar-e irāniyān be-tadrij mosalmān shodand.", "en": "Most Iranians gradually became Muslims."},
-  {"fa": "زبان عربی زبان دین و علم شد.", "r": "zabān-e arabi zabān-e din va elm shod.", "en": "Arabic became the language of religion and science."},
-  {"fa": "سامانیان در بخارا از شاعران فارسی‌زبان حمایت می‌کردند.", "r": "Sāmāniyān dar Bokhārā az shā'erān-e fārsi-zabān hemāyat mi-kardand.", "en": "In Bukhara the Samanids supported poets who wrote in Persian."},
-  {"fa": "رودکی را پدر شعر فارسی می‌نامند.", "r": "Rudaki rā pedar-e she'r-e fārsi mi-nāmand.", "en": "Rudaki is called the father of Persian poetry."},
-  {"fa": "فردوسی در شهر توس، نزدیک مشهد، به دنیا آمد.", "r": "Ferdowsi dar shahr-e Tus, nazdik-e Mashhad, be donyā āmad.", "en": "Ferdowsi was born in the town of Tus, near Mashhad."},
-  {"fa": "او حدود سی سال روی شاهنامه کار کرد.", "r": "u hodud-e si sāl ru-ye Shāhnāme kār kard.", "en": "He worked on the Shahnameh for about thirty years."},
-  {"fa": "شاهنامه داستان پادشاهان و پهلوانان ایران است.", "r": "Shāhnāme dāstān-e pādshāhān va pahlavānān-e Irān ast.", "en": "The Shahnameh is the story of the kings and heroes of Iran."},
-  {"fa": "فارسی خط عربی را گرفت اما دستور زبانش ایرانی ماند.", "r": "fārsi khatt-e arabi rā gereft ammā dastur-e zabān-ash irāni mānd.", "en": "Persian took the Arabic script, but its grammar remained Iranian."},
-  {"fa": "چهار حرف «پ»، «چ»، «ژ» و «گ» در عربی نیستند.", "r": "chahār harf-e «pe», «che», «zhe» va «gāf» dar arabi nistand.", "en": "The four letters p, ch, zh and g do not exist in Arabic."},
-  {"fa": "محمود غزنوی ترک بود اما دربارش فارسی‌زبان بود.", "r": "Mahmud-e Ghaznavi tork bud ammā darbār-ash fārsi-zabān bud.", "en": "Mahmud of Ghazni was a Turk, but his court spoke Persian."},
-  {"fa": "کودکان ایرانی هنوز شعرهای فردوسی را از بر می‌کنند.", "r": "kudakān-e irāni hanuz she'r-hā-ye Ferdowsi rā az bar mi-konand.", "en": "Iranian children still learn Ferdowsi's poems by heart."}
+  {
+   "fa": "سپاه عرب در قرن هفتم میلادی به ایران آمد.",
+   "r": "sepāh-e arab dar gharn-e haftom-e milādi be Irān āmad.",
+   "en": "The Arab army came to Iran in the seventh century AD.",
+   "faV": "سِپاهِ عَرَب دَر قَرنِ هَفتُمِ میلادی به ایران آمَد.",
+   "a": "489e1391471b"
+  },
+  {
+   "fa": "بیشتر ایرانیان به‌تدریج مسلمان شدند.",
+   "r": "bishtar-e irāniyān be-tadrij mosalmān shodand.",
+   "en": "Most Iranians gradually became Muslims.",
+   "faV": "بیشتَرِ ایرانیان به‌تَدریج مُسَلمان شُدَند.",
+   "a": "4a6157450606"
+  },
+  {
+   "fa": "زبان عربی زبان دین و علم شد.",
+   "r": "zabān-e arabi zabān-e din va elm shod.",
+   "en": "Arabic became the language of religion and science.",
+   "faV": "زَبانِ عَرَبی زَبانِ دین و عِلم شُد.",
+   "a": "2500ae9d541b"
+  },
+  {
+   "fa": "سامانیان در بخارا از شاعران فارسی‌زبان حمایت می‌کردند.",
+   "r": "Sāmāniyān dar Bokhārā az shā'erān-e fārsi-zabān hemāyat mi-kardand.",
+   "en": "In Bukhara the Samanids supported poets who wrote in Persian.",
+   "faV": "سامانیان دَر بُخارا اَز شاعِرانِ فارسی‌زَبان حِمایَت می‌کَردَند.",
+   "a": "34989f692ede"
+  },
+  {
+   "fa": "رودکی را پدر شعر فارسی می‌نامند.",
+   "r": "Rudaki rā pedar-e she'r-e fārsi mi-nāmand.",
+   "en": "Rudaki is called the father of Persian poetry.",
+   "faV": "رودَکی را پِدَرِ شِعرِ فارسی می‌نامَند.",
+   "a": "598a531cbf96"
+  },
+  {
+   "fa": "فردوسی در شهر توس، نزدیک مشهد، به دنیا آمد.",
+   "r": "Ferdowsi dar shahr-e Tus, nazdik-e Mashhad, be donyā āmad.",
+   "en": "Ferdowsi was born in the town of Tus, near Mashhad.",
+   "faV": "فِردَوسی دَر شَهرِ توس، نَزدیکِ مَشهَد، به دُنیا آمَد.",
+   "a": "f5d2c1e80681"
+  },
+  {
+   "fa": "او حدود سی سال روی شاهنامه کار کرد.",
+   "r": "u hodud-e si sāl ru-ye Shāhnāme kār kard.",
+   "en": "He worked on the Shahnameh for about thirty years.",
+   "faV": "او حُدودِ سی سال رویِ شاهنامه کار کَرد.",
+   "a": "7db0419f97fc"
+  },
+  {
+   "fa": "شاهنامه داستان پادشاهان و پهلوانان ایران است.",
+   "r": "Shāhnāme dāstān-e pādshāhān va pahlavānān-e Irān ast.",
+   "en": "The Shahnameh is the story of the kings and heroes of Iran.",
+   "faV": "شاهنامه داستانِ پادشاهان و پَهلَوانانِ ایران اَست.",
+   "a": "ff9713b65869"
+  },
+  {
+   "fa": "فارسی خط عربی را گرفت اما دستور زبانش ایرانی ماند.",
+   "r": "fārsi khatt-e arabi rā gereft ammā dastur-e zabān-ash irāni mānd.",
+   "en": "Persian took the Arabic script, but its grammar remained Iranian.",
+   "faV": "فارسی خَطِّ عَرَبی را گِرِفت اَمّا دَستورِ زَبانَش ایرانی ماند.",
+   "a": "2d40f3ac88a1"
+  },
+  {
+   "fa": "چهار حرف «پ»، «چ»، «ژ» و «گ» در عربی نیستند.",
+   "r": "chahār harf-e «pe», «che», «zhe» va «gāf» dar arabi nistand.",
+   "en": "The four letters p, ch, zh and g do not exist in Arabic.",
+   "faV": "چَهار حَرفِ «پ»، «چ»، «ژ» و «گ» دَر عَرَبی نیستَند.",
+   "a": "16da3a059702"
+  },
+  {
+   "fa": "محمود غزنوی ترک بود اما دربارش فارسی‌زبان بود.",
+   "r": "Mahmud-e Ghaznavi tork bud ammā darbār-ash fārsi-zabān bud.",
+   "en": "Mahmud of Ghazni was a Turk, but his court spoke Persian.",
+   "faV": "مَحمودِ غَزنَوی تُرک بود اَمّا دَربارَش فارسی‌زَبان بود.",
+   "a": "e870bd70d5c6"
+  },
+  {
+   "fa": "کودکان ایرانی هنوز شعرهای فردوسی را از بر می‌کنند.",
+   "r": "kudakān-e irāni hanuz she'r-hā-ye Ferdowsi rā az bar mi-konand.",
+   "en": "Iranian children still learn Ferdowsi's poems by heart.",
+   "faV": "کودَکانِ ایرانی هَنوز شِعرهایِ فِردَوسی را اَز بَر می‌کُنَند.",
+   "a": "294a69dfafec"
+  }
  ],
  "vocab": [
-  {"fa": "اسلام", "r": "Eslām", "en": "Islam"},
-  {"fa": "مسلمان", "r": "mosalmān", "en": "Muslim"},
-  {"fa": "عرب", "r": "arab", "en": "Arab"},
-  {"fa": "عربی", "r": "arabi", "en": "Arabic (language); Arab (adj.)"},
-  {"fa": "خلیفه", "r": "khalife", "en": "caliph"},
-  {"fa": "قرن", "r": "gharn", "en": "century"},
-  {"fa": "شاعر", "r": "shā'er", "en": "poet"},
-  {"fa": "شعر", "r": "she'r", "en": "poem, poetry"},
-  {"fa": "پهلوان", "r": "pahlavān", "en": "hero, champion"},
-  {"fa": "داستان", "r": "dāstān", "en": "story"},
-  {"fa": "دربار", "r": "darbār", "en": "royal court"},
-  {"fa": "حمایت کردن", "r": "hemāyat kardan", "en": "to support, be a patron of"},
-  {"fa": "زنده کردن", "r": "zende kardan", "en": "to bring back to life, revive"},
-  {"fa": "به‌تدریج", "r": "be-tadrij", "en": "gradually"},
-  {"fa": "حرف", "r": "harf", "en": "letter (of the alphabet); word, talk"},
-  {"fa": "دستور زبان", "r": "dastur-e zabān", "en": "grammar"},
-  {"fa": "از بر کردن", "r": "az bar kardan", "en": "to learn by heart"}
+  {
+   "fa": "اسلام",
+   "r": "Eslām",
+   "en": "Islam",
+   "faV": "اِسلام",
+   "a": "4ae82979f072"
+  },
+  {
+   "fa": "مسلمان",
+   "r": "mosalmān",
+   "en": "Muslim",
+   "faV": "مُسَلمان",
+   "a": "b2ddaacac8d2"
+  },
+  {
+   "fa": "عرب",
+   "r": "arab",
+   "en": "Arab",
+   "faV": "عَرَب",
+   "a": "c39f5c09da1b"
+  },
+  {
+   "fa": "عربی",
+   "r": "arabi",
+   "en": "Arabic (language); Arab (adj.)",
+   "faV": "عَرَبی",
+   "a": "fab755816957"
+  },
+  {
+   "fa": "خلیفه",
+   "r": "khalife",
+   "en": "caliph",
+   "faV": "خَلیفه",
+   "a": "55ddb4c2db5c"
+  },
+  {
+   "fa": "قرن",
+   "r": "gharn",
+   "en": "century",
+   "faV": "قَرن",
+   "a": "0733ab96d6e0"
+  },
+  {
+   "fa": "شاعر",
+   "r": "shā'er",
+   "en": "poet",
+   "faV": "شاعِر",
+   "a": "45d6a2ecdeca"
+  },
+  {
+   "fa": "شعر",
+   "r": "she'r",
+   "en": "poem, poetry",
+   "faV": "شِعر",
+   "a": "116393d466d1"
+  },
+  {
+   "fa": "پهلوان",
+   "r": "pahlavān",
+   "en": "hero, champion",
+   "faV": "پَهلَوان",
+   "a": "9af59f46901a"
+  },
+  {
+   "fa": "داستان",
+   "r": "dāstān",
+   "en": "story",
+   "faV": "داستان",
+   "a": "b134def87a95"
+  },
+  {
+   "fa": "دربار",
+   "r": "darbār",
+   "en": "royal court",
+   "faV": "دَربار",
+   "a": "575a325bff06"
+  },
+  {
+   "fa": "حمایت کردن",
+   "r": "hemāyat kardan",
+   "en": "to support, be a patron of",
+   "faV": "حِمایَت کَردَن",
+   "a": "eb9792c9791c"
+  },
+  {
+   "fa": "زنده کردن",
+   "r": "zende kardan",
+   "en": "to bring back to life, revive",
+   "faV": "زِنده کَردَن",
+   "a": "a727792bebf6"
+  },
+  {
+   "fa": "به‌تدریج",
+   "r": "be-tadrij",
+   "en": "gradually",
+   "faV": "به‌تَدریج",
+   "a": "e9105bdc895b"
+  },
+  {
+   "fa": "حرف",
+   "r": "harf",
+   "en": "letter (of the alphabet); word, talk",
+   "faV": "حَرف",
+   "a": "21fd66798cca"
+  },
+  {
+   "fa": "دستور زبان",
+   "r": "dastur-e zabān",
+   "en": "grammar",
+   "faV": "دَستورِ زَبان",
+   "a": "e9a8d114ba9d"
+  },
+  {
+   "fa": "از بر کردن",
+   "r": "az bar kardan",
+   "en": "to learn by heart",
+   "faV": "اَز بَر کَردَن",
+   "a": "e588b7a493af"
+  }
  ],
  "facts": [
   "The Shahnameh, finished in 1010, has about 50,000 couplets – one of the longest poems ever written by a single poet.",
@@ -72,5 +246,7 @@
   "A Persian translation of al-Tabari's commentary on the Qur'an, made under the Samanids in the 960s, is among the oldest surviving works of Persian prose.",
   "Avicenna wrote most of his books in Arabic, but his Dānesh-nāme ('Book of Knowledge') was the first philosophical encyclopedia in Persian.",
   "Ferdowsi's present tomb at Tus was built in 1934 for the thousandth anniversary of his birth."
- ]
+ ],
+ "titleV": "اِسلام و نَوزاییِ فارسی",
+ "titleA": "d2dee0e5114b"
 }

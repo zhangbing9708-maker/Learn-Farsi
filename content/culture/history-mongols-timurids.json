@@ -32,37 +32,211 @@
   }
  ],
  "sentences": [
-  {"fa": "چنگیز خان در سال ۱۲۱۹ به ایران حمله کرد.", "r": "Changiz Khān dar sāl-e hezār-o-devist-o-nuzdah be Irān hamle kard.", "en": "Genghis Khan attacked Iran in 1219."},
-  {"fa": "مغول‌ها شهرهای بزرگی مثل نیشابور را ویران کردند.", "r": "moghol-hā shahr-hā-ye bozorg-i mesl-e Neyshābur rā virān kardand.", "en": "The Mongols destroyed great cities such as Nishapur."},
-  {"fa": "هلاکو نوه‌ی چنگیز خان بود.", "r": "Holāku nave-ye Changiz Khān bud.", "en": "Hulagu was a grandson of Genghis Khan."},
-  {"fa": "هلاکو در سال ۱۲۵۸ بغداد را گرفت.", "r": "Holāku dar sāl-e hezār-o-devist-o-panjāh-o-hasht Baghdād rā gereft.", "en": "Hulagu took Baghdad in 1258."},
-  {"fa": "خواجه نصیر توسی در مراغه رصدخانه‌ای بزرگ ساخت.", "r": "Khāje Nasir-e Tusi dar Marāghe rasadkhāne-i bozorg sākht.", "en": "Nasir al-Din Tusi built a great observatory in Maragheh."},
-  {"fa": "گنبد سلطانیه یکی از بزرگ‌ترین گنبدهای آجری جهان است.", "r": "gonbad-e Soltāniye yek-i az bozorg-tarin gonbad-hā-ye ājori-ye jahān ast.", "en": "The dome of Soltaniyeh is one of the largest brick domes in the world."},
-  {"fa": "سعدی و حافظ در شیراز زندگی می‌کردند.", "r": "Sa'di va Hāfez dar Shirāz zendegi mi-kardand.", "en": "Saadi and Hafez lived in Shiraz."},
-  {"fa": "تیمور لنگ سرزمین‌های زیادی را از هند تا ترکیه گرفت.", "r": "Teymur-e Lang sarzamin-hā-ye ziyād-i rā az Hend tā Torkiye gereft.", "en": "Timur the Lame conquered many lands, from India to Turkey."},
-  {"fa": "پایتخت تیمور شهر سمرقند بود.", "r": "pāytakht-e Teymur shahr-e Samarghand bud.", "en": "Timur's capital was the city of Samarkand."},
-  {"fa": "نوادگان تیمور از هنرمندان و دانشمندان حمایت می‌کردند.", "r": "navādegān-e Teymur az honarmandān va dāneshmandān hemāyat mi-kardand.", "en": "Timur's descendants were patrons of artists and scholars."},
-  {"fa": "الغ بیگ، نوه‌ی تیمور، ستاره‌شناس بزرگی بود.", "r": "Ologh Beyg, nave-ye Teymur, setāre-shenās-e bozorg-i bud.", "en": "Ulugh Beg, Timur's grandson, was a great astronomer."},
-  {"fa": "بهزاد بزرگ‌ترین نگارگر هرات بود.", "r": "Behzād bozorg-tarin negārgar-e Herāt bud.", "en": "Behzad was the greatest painter of Herat."}
+  {
+   "fa": "چنگیز خان در سال ۱۲۱۹ به ایران حمله کرد.",
+   "r": "Changiz Khān dar sāl-e hezār-o-devist-o-nuzdah be Irān hamle kard.",
+   "en": "Genghis Khan attacked Iran in 1219.",
+   "faV": "چَنگیز خان دَر سالِ ۱۲۱۹ به ایران حَمله کَرد.",
+   "a": "2430ed5a7243"
+  },
+  {
+   "fa": "مغول‌ها شهرهای بزرگی مثل نیشابور را ویران کردند.",
+   "r": "moghol-hā shahr-hā-ye bozorg-i mesl-e Neyshābur rā virān kardand.",
+   "en": "The Mongols destroyed great cities such as Nishapur.",
+   "faV": "مُغول‌ها شَهرهایِ بُزُرگی مِثلِ نَیشابور را ویران کَردَند.",
+   "a": "4c121b8e4d2b"
+  },
+  {
+   "fa": "هلاکو نوه‌ی چنگیز خان بود.",
+   "r": "Holāku nave-ye Changiz Khān bud.",
+   "en": "Hulagu was a grandson of Genghis Khan.",
+   "faV": "هُلاکو نَوه‌یِ چَنگیز خان بود.",
+   "a": "de600044ec4b"
+  },
+  {
+   "fa": "هلاکو در سال ۱۲۵۸ بغداد را گرفت.",
+   "r": "Holāku dar sāl-e hezār-o-devist-o-panjāh-o-hasht Baghdād rā gereft.",
+   "en": "Hulagu took Baghdad in 1258.",
+   "faV": "هُلاکو دَر سالِ ۱۲۵۸ بَغداد را گِرِفت.",
+   "a": "9e18a78d670f"
+  },
+  {
+   "fa": "خواجه نصیر توسی در مراغه رصدخانه‌ای بزرگ ساخت.",
+   "r": "Khāje Nasir-e Tusi dar Marāghe rasadkhāne-i bozorg sākht.",
+   "en": "Nasir al-Din Tusi built a great observatory in Maragheh.",
+   "faV": "خواجه نَصیرِ توسی دَر مَراغه رَصَدخانه‌ای بُزُرگ ساخت.",
+   "a": "ac9addded4ce"
+  },
+  {
+   "fa": "گنبد سلطانیه یکی از بزرگ‌ترین گنبدهای آجری جهان است.",
+   "r": "gonbad-e Soltāniye yek-i az bozorg-tarin gonbad-hā-ye ājori-ye jahān ast.",
+   "en": "The dome of Soltaniyeh is one of the largest brick domes in the world.",
+   "faV": "گُنبَدِ سُلطانیه یِکی اَز بُزُرگ‌تَرین گُنبَدهایِ آجُریِ جَهان اَست.",
+   "a": "f874276f6b91"
+  },
+  {
+   "fa": "سعدی و حافظ در شیراز زندگی می‌کردند.",
+   "r": "Sa'di va Hāfez dar Shirāz zendegi mi-kardand.",
+   "en": "Saadi and Hafez lived in Shiraz.",
+   "faV": "سَعدی و حافِظ دَر شیراز زِندِگی می‌کَردَند.",
+   "a": "0d4bb598081f"
+  },
+  {
+   "fa": "تیمور لنگ سرزمین‌های زیادی را از هند تا ترکیه گرفت.",
+   "r": "Teymur-e Lang sarzamin-hā-ye ziyād-i rā az Hend tā Torkiye gereft.",
+   "en": "Timur the Lame conquered many lands, from India to Turkey.",
+   "faV": "تَیمورِ لَنگ سَرزَمین‌هایِ زیادی را اَز هِند تا تُرکیه گِرِفت.",
+   "a": "83ff7473a563"
+  },
+  {
+   "fa": "پایتخت تیمور شهر سمرقند بود.",
+   "r": "pāytakht-e Teymur shahr-e Samarghand bud.",
+   "en": "Timur's capital was the city of Samarkand.",
+   "faV": "پایتَختِ تَیمور شَهرِ سَمَرقَند بود.",
+   "a": "8620ab370f48"
+  },
+  {
+   "fa": "نوادگان تیمور از هنرمندان و دانشمندان حمایت می‌کردند.",
+   "r": "navādegān-e Teymur az honarmandān va dāneshmandān hemāyat mi-kardand.",
+   "en": "Timur's descendants were patrons of artists and scholars.",
+   "faV": "نَوادِگانِ تَیمور اَز هُنَرمَندان و دانِشمَندان حِمایَت می‌کَردَند.",
+   "a": "fdc11d8a6bbe"
+  },
+  {
+   "fa": "الغ بیگ، نوه‌ی تیمور، ستاره‌شناس بزرگی بود.",
+   "r": "Ologh Beyg, nave-ye Teymur, setāre-shenās-e bozorg-i bud.",
+   "en": "Ulugh Beg, Timur's grandson, was a great astronomer.",
+   "faV": "اُلُغ بَیگ، نَوه‌یِ تَیمور، سِتاره‌شِناسِ بُزُرگی بود.",
+   "a": "6963a877dec2"
+  },
+  {
+   "fa": "بهزاد بزرگ‌ترین نگارگر هرات بود.",
+   "r": "Behzād bozorg-tarin negārgar-e Herāt bud.",
+   "en": "Behzad was the greatest painter of Herat.",
+   "faV": "بِهزاد بُزُرگ‌تَرین نِگارگَرِ هِرات بود.",
+   "a": "eb306c43fed8"
+  }
  ],
  "vocab": [
-  {"fa": "مغول", "r": "moghol", "en": "Mongol"},
-  {"fa": "حمله کردن", "r": "hamle kardan", "en": "to attack"},
-  {"fa": "ویران کردن", "r": "virān kardan", "en": "to destroy, lay waste"},
-  {"fa": "ویرانی", "r": "virāni", "en": "destruction, ruin"},
-  {"fa": "لشکر", "r": "lashkar", "en": "army"},
-  {"fa": "کشورگشا", "r": "keshvar-goshā", "en": "conqueror (lit. 'country-opener')"},
-  {"fa": "نوه", "r": "nave", "en": "grandchild"},
-  {"fa": "نوادگان", "r": "navādegān", "en": "descendants"},
-  {"fa": "رصدخانه", "r": "rasadkhāne", "en": "observatory"},
-  {"fa": "ستاره‌شناس", "r": "setāre-shenās", "en": "astronomer"},
-  {"fa": "گنبد", "r": "gonbad", "en": "dome"},
-  {"fa": "آجر", "r": "ājor", "en": "brick"},
-  {"fa": "هنرمند", "r": "honarmand", "en": "artist"},
-  {"fa": "نگارگری", "r": "negārgari", "en": "Persian miniature painting"},
-  {"fa": "تاریخ‌نویس", "r": "tārikh-nevis", "en": "historian"},
-  {"fa": "حامی", "r": "hāmi", "en": "patron, supporter"},
-  {"fa": "لنگ", "r": "lang", "en": "lame, limping"}
+  {
+   "fa": "مغول",
+   "r": "moghol",
+   "en": "Mongol",
+   "faV": "مُغول",
+   "a": "c8d9eba69a8f"
+  },
+  {
+   "fa": "حمله کردن",
+   "r": "hamle kardan",
+   "en": "to attack",
+   "faV": "حَمله کَردَن",
+   "a": "974d9bcc9bf1"
+  },
+  {
+   "fa": "ویران کردن",
+   "r": "virān kardan",
+   "en": "to destroy, lay waste",
+   "faV": "ویران کَردَن",
+   "a": "e96cf8a6301f"
+  },
+  {
+   "fa": "ویرانی",
+   "r": "virāni",
+   "en": "destruction, ruin",
+   "faV": "ویرانی",
+   "a": "707aa728b49f"
+  },
+  {
+   "fa": "لشکر",
+   "r": "lashkar",
+   "en": "army",
+   "faV": "لَشکَر",
+   "a": "04e83468d1a1"
+  },
+  {
+   "fa": "کشورگشا",
+   "r": "keshvar-goshā",
+   "en": "conqueror (lit. 'country-opener')",
+   "faV": "کِشوَرگُشا",
+   "a": "4dc64b238553"
+  },
+  {
+   "fa": "نوه",
+   "r": "nave",
+   "en": "grandchild",
+   "faV": "نَوه",
+   "a": "21bcda631711"
+  },
+  {
+   "fa": "نوادگان",
+   "r": "navādegān",
+   "en": "descendants",
+   "faV": "نَوادِگان",
+   "a": "e5ca5030cd81"
+  },
+  {
+   "fa": "رصدخانه",
+   "r": "rasadkhāne",
+   "en": "observatory",
+   "faV": "رَصَدخانه",
+   "a": "92a3dd5c527c"
+  },
+  {
+   "fa": "ستاره‌شناس",
+   "r": "setāre-shenās",
+   "en": "astronomer",
+   "faV": "سِتاره‌شِناس",
+   "a": "f44c5d63ff0a"
+  },
+  {
+   "fa": "گنبد",
+   "r": "gonbad",
+   "en": "dome",
+   "faV": "گُنبَد",
+   "a": "73758d4a2ef1"
+  },
+  {
+   "fa": "آجر",
+   "r": "ājor",
+   "en": "brick",
+   "faV": "آجُر",
+   "a": "643d669e140c"
+  },
+  {
+   "fa": "هنرمند",
+   "r": "honarmand",
+   "en": "artist",
+   "faV": "هُنَرمَند",
+   "a": "b3a86efd8273"
+  },
+  {
+   "fa": "نگارگری",
+   "r": "negārgari",
+   "en": "Persian miniature painting",
+   "faV": "نِگارگَری",
+   "a": "14b85a0112c0"
+  },
+  {
+   "fa": "تاریخ‌نویس",
+   "r": "tārikh-nevis",
+   "en": "historian",
+   "faV": "تاریخ‌نِویس",
+   "a": "943c7cc5b913"
+  },
+  {
+   "fa": "حامی",
+   "r": "hāmi",
+   "en": "patron, supporter",
+   "faV": "حامی",
+   "a": "32f3c0a94fab"
+  },
+  {
+   "fa": "لنگ",
+   "r": "lang",
+   "en": "lame, limping",
+   "faV": "لَنگ",
+   "a": "78b83a5378bb"
+  }
  ],
  "facts": [
   "Hulagu's capture of Baghdad in 1258 ended the Abbasid caliphate after five centuries.",
@@ -72,5 +246,7 @@
   "Ulugh Beg's star catalogue of 1437 listed about a thousand stars.",
   "The Mughal emperors of India were Timurids, and Persian was the language of their court.",
   "Behzad's 'Seduction of Yusuf' (1488), painted in Herat for a copy of Saadi's Bustan, is one of the masterpieces of Persian art."
- ]
+ ],
+ "titleV": "مُغول‌ها و تَیموریان",
+ "titleA": "da0aab8dbbca"
 }

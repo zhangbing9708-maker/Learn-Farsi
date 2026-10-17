@@ -1,224 +1,4127 @@
 {
-  "verbs": [
-    {"inf": "بودن", "r": "budan", "stem": "باش", "stemR": "bāsh", "subj": "باش", "subjR": "bāsh", "en": "to be", "cat": "being", "level": "A1", "note": "irregular: the present is هستم، هستی، است… or the short endings ـم، ـی، ـست (خوبم = I'm fine); negative نیستم; subjunctive باشم and imperative باش have no be-", "ex": {"fa": "دیروز کجا بودی؟", "r": "diruz kojā budi?", "en": "Where were you yesterday?"}},
-    {"inf": "داشتن", "r": "dāshtan", "stem": "دار", "stemR": "dār", "subj": "داشته باش", "subjR": "dāshte bāsh", "en": "to have", "cat": "being", "level": "A1", "note": "no mi- in the present or past: دارم، داشتم (dāram, dāshtam); subjunctive داشته باشم, imperative داشته باش; دارم + present makes the progressive: دارم می‌روم (I'm going)", "ex": {"fa": "من دو برادر و یک خواهر دارم.", "r": "man do barādar o yek khāhar dāram.", "en": "I have two brothers and a sister."}},
-    {"inf": "شدن", "r": "shodan", "stem": "شو", "stemR": "shav", "en": "to become, get", "cat": "change", "level": "A1", "note": "also makes the passive: ساخته شد (it was built); spoken present می‌شم (mi-sham)", "ex": {"fa": "هوا کم‌کم سرد شد.", "r": "havā kam-kam sard shod.", "en": "Little by little the weather got cold."}},
-    {"inf": "کردن", "r": "kardan", "stem": "کن", "stemR": "kon", "pre": "bo", "en": "to do, make", "cat": "daily", "level": "A1", "note": "the commonest helper of compound verbs: کار کردن، صحبت کردن; subjunctive بکنم (bokonam)", "ex": {"fa": "امروز چه کار کردی؟", "r": "emruz che kār kardi?", "en": "What did you do today?"}},
-    {"inf": "رفتن", "r": "raftan", "stem": "رو", "stemR": "rav", "en": "to go", "cat": "motion", "level": "A1", "note": "imperative برو is pronounced boro; spoken present می‌رم (mi-ram)", "ex": {"fa": "هر روز به دانشگاه می‌روم.", "r": "har ruz be dāneshgāh mi-ravam.", "en": "I go to university every day."}},
-    {"inf": "آمدن", "r": "āmadan", "stem": "آ", "stemR": "ā", "subj": "بیا", "subjR": "biyā", "en": "to come", "cat": "motion", "level": "A1", "note": "present می‌آیم (mi-āyam), subjunctive بیایم (biyāyam), imperative بیا (biyā); باران می‌آید = it's raining", "ex": {"fa": "کی به ایران آمدی؟", "r": "key be Irān āmadi?", "en": "When did you come to Iran?"}},
-    {"inf": "خواستن", "r": "khāstan", "stem": "خواه", "stemR": "khāh", "en": "to want", "cat": "feelings", "level": "A1", "note": "the و is silent; followed by the subjunctive: می‌خواهم بروم (I want to go); without mi- it makes the future: خواهم رفت (I will go)", "ex": {"fa": "می‌خواهم فارسی یاد بگیرم.", "r": "mi-khāham fārsi yād be-giram.", "en": "I want to learn Persian."}},
-    {"inf": "توانستن", "r": "tavānestan", "stem": "توان", "stemR": "tavān", "en": "to be able, can", "cat": "other", "level": "A1", "note": "followed by the subjunctive: می‌توانم بیایم (I can come)", "ex": {"fa": "می‌توانی فردا بیایی؟", "r": "mi-tavāni fardā biyāyi?", "en": "Can you come tomorrow?"}},
-    {"inf": "دانستن", "r": "dānestan", "stem": "دان", "stemR": "dān", "en": "to know (a fact)", "cat": "mind", "level": "A1", "note": "for knowing people and places use شناختن", "ex": {"fa": "نمی‌دانم کتابم کجاست.", "r": "nemi-dānam ketāb-am kojā-st.", "en": "I don't know where my book is."}},
-    {"inf": "گفتن", "r": "goftan", "stem": "گو", "stemR": "gu", "en": "to say, tell", "cat": "talk", "level": "A1", "note": "present می‌گویم (mi-guyam), spoken می‌گم (mi-gam); imperative بگو (begu)", "ex": {"fa": "به او گفتم که فردا می‌آیم.", "r": "be u goftam ke fardā mi-āyam.", "en": "I told him I'd come tomorrow."}},
-    {"inf": "دیدن", "r": "didan", "stem": "بین", "stemR": "bin", "en": "to see", "cat": "body", "level": "A1", "note": "irregular stem: می‌بینم، ببین", "ex": {"fa": "دیشب یک فیلم خوب دیدم.", "r": "dishab yek film-e khub didam.", "en": "Last night I saw a good film."}},
-    {"inf": "دادن", "r": "dādan", "stem": "ده", "stemR": "dah", "en": "to give", "cat": "give-take", "level": "A1", "note": "imperative بده (bedeh, spoken bede); the helper of many compounds: جواب دادن، گوش دادن", "ex": {"fa": "لطفاً آن کتاب را به من بدهید.", "r": "lotfan ān ketāb rā be man be-dahid.", "en": "Please give me that book."}},
-    {"inf": "گرفتن", "r": "gereftan", "stem": "گیر", "stemR": "gir", "en": "to take, get", "cat": "give-take", "level": "A1", "note": "irregular stem: می‌گیرم، بگیر", "ex": {"fa": "از کتابخانه دو کتاب گرفتم.", "r": "az ketābkhāne do ketāb gereftam.", "en": "I got two books from the library."}},
-    {"inf": "خوردن", "r": "khordan", "stem": "خور", "stemR": "khor", "pre": "bo", "en": "to eat; to drink", "cat": "food", "level": "A1", "note": "used for drinks too: چای خوردن; imperative بخور (bokhor)", "ex": {"fa": "صبحانه نان و پنیر می‌خوریم.", "r": "sobhāne nān o panir mi-khorim.", "en": "We have bread and cheese for breakfast."}},
-    {"inf": "نوشیدن", "r": "nushidan", "stem": "نوش", "stemR": "nush", "en": "to drink", "cat": "food", "level": "A1", "note": "a little formal; in speech خوردن is more usual", "ex": {"fa": "یک لیوان آب بنوش.", "r": "yek livān āb be-nush.", "en": "Drink a glass of water."}},
-    {"inf": "خوابیدن", "r": "khābidan", "stem": "خواب", "stemR": "khāb", "en": "to sleep, go to bed", "cat": "daily", "level": "A1", "ex": {"fa": "شب‌ها ساعت یازده می‌خوابم.", "r": "shab-hā sā'at-e yāzdah mi-khābam.", "en": "At night I go to bed at eleven."}},
-    {"inf": "نشستن", "r": "neshastan", "stem": "نشین", "stemR": "neshin", "en": "to sit (down)", "cat": "body", "level": "A1", "note": "irregular stem: می‌نشینم، بنشین", "ex": {"fa": "بفرمایید، این‌جا بنشینید.", "r": "be-farmāyid, in-jā be-neshinid.", "en": "Please, sit here."}},
-    {"inf": "خواندن", "r": "khāndan", "stem": "خوان", "stemR": "khān", "en": "to read; to sing; to study", "cat": "talk", "level": "A1", "note": "the و is silent; spoken stem خون (khun): می‌خونم", "ex": {"fa": "هر شب قبل از خواب کتاب می‌خوانم.", "r": "har shab ghabl az khāb ketāb mi-khānam.", "en": "Every night I read before I go to sleep."}},
-    {"inf": "نوشتن", "r": "neveshtan", "stem": "نویس", "stemR": "nevis", "en": "to write", "cat": "talk", "level": "A1", "ex": {"fa": "اسمت را این‌جا بنویس.", "r": "esm-at rā in-jā be-nevis.", "en": "Write your name here."}},
-    {"inf": "خریدن", "r": "kharidan", "stem": "خر", "stemR": "khar", "en": "to buy", "cat": "buy", "level": "A1", "ex": {"fa": "دیروز یک کیف تازه خریدم.", "r": "diruz yek kif-e tāze kharidam.", "en": "Yesterday I bought a new bag."}},
-    {"inf": "زدن", "r": "zadan", "stem": "زن", "stemR": "zan", "en": "to hit, strike; to play (an instrument)", "cat": "other", "level": "A1", "note": "the helper of many compounds: حرف زدن، زنگ زدن", "ex": {"fa": "کسی در می‌زند.", "r": "kas-i dar mi-zanad.", "en": "Someone is knocking at the door."}},
-    {"inf": "پرسیدن", "r": "porsidan", "stem": "پرس", "stemR": "pors", "en": "to ask", "cat": "talk", "level": "A1", "ex": {"fa": "می‌توانم یک سؤال بپرسم؟", "r": "mi-tavānam yek so'āl be-porsam?", "en": "May I ask a question?"}},
-    {"inf": "آوردن", "r": "āvardan", "stem": "آور", "stemR": "āvar", "subj": "بیاور", "subjR": "biyāvar", "en": "to bring", "cat": "give-take", "level": "A1", "note": "subjunctive بیاورم, imperative بیاور (spoken بیار, biyār); often pronounced āvordan", "ex": {"fa": "فردا عکس‌هایت را بیاور.", "r": "fardā aks-hā-yat rā biyāvar.", "en": "Bring your photos tomorrow."}},
-    {"inf": "بردن", "r": "bordan", "stem": "بر", "stemR": "bar", "en": "to take (away), carry; to win", "cat": "give-take", "level": "A1", "ex": {"fa": "بچه‌ها را به پارک بردم.", "r": "bacche-hā rā be pārk bordam.", "en": "I took the children to the park."}},
-    {"inf": "گذاشتن", "r": "gozāshtan", "stem": "گذار", "stemR": "gozār", "en": "to put, place; to let", "cat": "give-take", "level": "A1", "note": "بگذار + subjunctive = let …: بگذار ببینم (let me see)", "ex": {"fa": "کلید را روی میز گذاشتم.", "r": "kelid rā ru-ye miz gozāshtam.", "en": "I put the key on the table."}},
-    {"inf": "رسیدن", "r": "residan", "stem": "رس", "stemR": "res", "en": "to arrive, reach", "cat": "motion", "level": "A1", "note": "به … رسیدن = to reach …", "ex": {"fa": "قطار ساعت هشت به تهران می‌رسد.", "r": "ghatār sā'at-e hasht be Tehrān mi-resad.", "en": "The train arrives in Tehran at eight."}},
-    {"inf": "شناختن", "r": "shenākhtan", "stem": "شناس", "stemR": "shenās", "en": "to know (a person or place), recognise", "cat": "mind", "level": "A1", "ex": {"fa": "او را می‌شناسی؟", "r": "u rā mi-shenāsi?", "en": "Do you know her?"}},
-    {"inf": "فهمیدن", "r": "fahmidan", "stem": "فهم", "stemR": "fahm", "en": "to understand", "cat": "mind", "level": "A1", "ex": {"fa": "ببخشید، نفهمیدم چه گفتید.", "r": "be-bakhshid, na-fahmidam che goftid.", "en": "Sorry, I didn't understand what you said."}},
-    {"inf": "ماندن", "r": "māndan", "stem": "مان", "stemR": "mān", "en": "to stay, remain", "cat": "being", "level": "A1", "ex": {"fa": "دو هفته در شیراز ماندیم.", "r": "do hafte dar Shirāz māndim.", "en": "We stayed in Shiraz for two weeks."}},
-    {"inf": "برگشتن", "r": "bargashtan", "stem": "برگرد", "stemR": "bargard", "subj": "برگرد", "subjR": "bargard", "en": "to come back, return", "cat": "motion", "level": "A1", "note": "prefix verb: mi- goes after بر – برمی‌گردم، برنمی‌گردم (bar-mi-gardam); subjunctive and imperative have no be-: برگردم، برگرد", "ex": {"fa": "کی از سفر برمی‌گردی؟", "r": "key az safar bar-mi-gardi?", "en": "When are you coming back from your trip?"}},
-    {"inf": "ایستادن", "r": "istādan", "stem": "ایست", "stemR": "ist", "subj": "بایست", "subjR": "bāyest", "en": "to stand; to stop", "cat": "body", "level": "A1", "note": "subjunctive بایستم (bāyestam), imperative بایست! (stop!)", "ex": {"fa": "لطفاً سر کوچه بایستید.", "r": "lotfan sar-e kuche bāyestid.", "en": "Please stop at the end of the lane."}},
-    {"inf": "پوشیدن", "r": "pushidan", "stem": "پوش", "stemR": "push", "en": "to put on, wear", "cat": "daily", "level": "A1", "ex": {"fa": "هوا سرد است، کاپشنت را بپوش.", "r": "havā sard ast, kāpshan-at rā be-push.", "en": "It's cold – put your jacket on."}},
-    {"inf": "پختن", "r": "pokhtan", "stem": "پز", "stemR": "paz", "en": "to cook", "cat": "food", "level": "A1", "ex": {"fa": "مادرم بهترین قورمه‌سبزی دنیا را می‌پزد.", "r": "mādar-am behtarin ghorme-sabzi-ye donyā rā mi-pazad.", "en": "My mother cooks the best ghormeh sabzi in the world."}},
-    {"inf": "باریدن", "r": "bāridan", "stem": "بار", "stemR": "bār", "en": "to rain, snow (to fall, of rain or snow)", "cat": "other", "level": "A1", "note": "باران می‌بارد = it's raining; in speech usually باران می‌آید", "ex": {"fa": "دیشب در تهران برف بارید.", "r": "dishab dar Tehrān barf bārid.", "en": "Last night it snowed in Tehran."}},
-    {"inf": "پیچیدن", "r": "pichidan", "stem": "پیچ", "stemR": "pich", "en": "to turn (a corner); to twist, wrap", "cat": "motion", "level": "A1", "ex": {"fa": "سر چهارراه به چپ بپیچید.", "r": "sar-e chahār-rāh be chap be-pichid.", "en": "Turn left at the crossroads."}},
-    {"inf": "فرمودن", "r": "farmudan", "stem": "فرما", "stemR": "farmā", "en": "to command; (polite) to say, come, do", "cat": "talk", "level": "A1", "note": "used for other people out of respect: بفرمایید (please – come in, sit down, help yourself), چه فرمودید؟ (what did you say?)", "ex": {"fa": "بفرمایید چای، تازه دم است.", "r": "be-farmāyid chāy, tāze dam ast.", "en": "Please have some tea – it's freshly brewed."}},
-    {"inf": "بخشیدن", "r": "bakhshidan", "stem": "بخش", "stemR": "bakhsh", "en": "to forgive; to give away", "cat": "talk", "level": "A1", "note": "ببخشید = excuse me; sorry", "ex": {"fa": "ببخشید، ایستگاه مترو کجاست؟", "r": "be-bakhshid, istgāh-e metro kojā-st?", "en": "Excuse me, where is the metro station?"}},
-    {"inf": "شنیدن", "r": "shenidan", "stem": "شنو", "stemR": "shenav", "en": "to hear", "cat": "body", "level": "A1", "ex": {"fa": "صدای باران را می‌شنوی؟", "r": "sedā-ye bārān rā mi-shenavi?", "en": "Can you hear the rain?"}},
-    {"inf": "شستن", "r": "shostan", "stem": "شوی", "stemR": "shuy", "en": "to wash", "cat": "home", "level": "A2", "note": "written present می‌شویم (mi-shuyam); spoken می‌شورم (mi-shuram)", "ex": {"fa": "بعد از شام ظرف‌ها را شستیم.", "r": "ba'd az shām zarf-hā rā shostim.", "en": "After dinner we washed the dishes."}},
-    {"inf": "فروختن", "r": "forukhtan", "stem": "فروش", "stemR": "forush", "en": "to sell", "cat": "buy", "level": "A2", "ex": {"fa": "ماشینش را ارزان فروخت.", "r": "māshin-ash rā arzān forukht.", "en": "He sold his car cheaply."}},
-    {"inf": "دویدن", "r": "davidan", "stem": "دو", "stemR": "dav", "en": "to run", "cat": "motion", "level": "A2", "ex": {"fa": "هر صبح در پارک می‌دوم.", "r": "har sobh dar pārk mi-davam.", "en": "Every morning I run in the park."}},
-    {"inf": "افتادن", "r": "oftādan", "stem": "افت", "stemR": "oft", "subj": "بیفت", "subjR": "biyoft", "en": "to fall", "cat": "motion", "level": "A2", "note": "subjunctive بیفتم (biyoftam), negative نیفتم (na-yoftam)", "ex": {"fa": "مواظب باش، نیفتی!", "r": "movāzeb bāsh, na-yofti!", "en": "Careful, don't fall!"}},
-    {"inf": "انداختن", "r": "andākhtan", "stem": "انداز", "stemR": "andāz", "subj": "بینداز", "subjR": "biyandāz", "en": "to throw, drop", "cat": "give-take", "level": "A2", "note": "subjunctive بیندازم (biyandāzam), negative نینداز", "ex": {"fa": "توپ را به من بینداز.", "r": "tup rā be man biyandāz.", "en": "Throw me the ball."}},
-    {"inf": "ساختن", "r": "sākhtan", "stem": "ساز", "stemR": "sāz", "en": "to build, make", "cat": "work", "level": "A2", "ex": {"fa": "این پل را چهارصد سال پیش ساختند.", "r": "in pol rā chahārsad sāl pish sākhtand.", "en": "They built this bridge four hundred years ago."}},
-    {"inf": "شکستن", "r": "shekastan", "stem": "شکن", "stemR": "shekan", "en": "to break", "cat": "change", "level": "A2", "ex": {"fa": "لیوان از دستم افتاد و شکست.", "r": "livān az dast-am oftād o shekast.", "en": "The glass fell from my hand and broke."}},
-    {"inf": "بستن", "r": "bastan", "stem": "بند", "stemR": "band", "en": "to close, shut; to tie", "cat": "home", "level": "A2", "ex": {"fa": "لطفاً پنجره را ببند.", "r": "lotfan panjare rā be-band.", "en": "Please close the window."}},
-    {"inf": "کشیدن", "r": "keshidan", "stem": "کش", "stemR": "kesh", "en": "to pull; to draw; to smoke", "cat": "other", "level": "A2", "ex": {"fa": "بچه‌ها روی کاغذ یک خانه کشیدند.", "r": "bacche-hā ru-ye kāghaz yek khāne keshidand.", "en": "The children drew a house on the paper."}},
-    {"inf": "فرستادن", "r": "ferestādan", "stem": "فرست", "stemR": "ferest", "en": "to send", "cat": "give-take", "level": "A2", "ex": {"fa": "عکس‌ها را برایت فرستادم.", "r": "aks-hā rā barā-yat ferestādam.", "en": "I've sent you the photos."}},
-    {"inf": "خندیدن", "r": "khandidan", "stem": "خند", "stemR": "khand", "en": "to laugh", "cat": "feelings", "level": "A2", "ex": {"fa": "همه به شوخی‌اش خندیدند.", "r": "hame be shukhi-ash khandidand.", "en": "Everyone laughed at his joke."}},
-    {"inf": "ترسیدن", "r": "tarsidan", "stem": "ترس", "stemR": "tars", "en": "to be afraid", "cat": "feelings", "level": "A2", "note": "از … ترسیدن = to be afraid of …", "ex": {"fa": "از سگ می‌ترسی؟", "r": "az sag mi-tarsi?", "en": "Are you afraid of dogs?"}},
-    {"inf": "پریدن", "r": "paridan", "stem": "پر", "stemR": "par", "en": "to jump; to fly", "cat": "motion", "level": "A2", "ex": {"fa": "گربه از روی دیوار پرید.", "r": "gorbe az ru-ye divār parid.", "en": "The cat jumped off the wall."}},
-    {"inf": "گذشتن", "r": "gozashtan", "stem": "گذر", "stemR": "gozar", "en": "to pass, go by; to cross", "cat": "motion", "level": "A2", "note": "don't confuse with گذاشتن (to put): گذشت = it passed, گذاشت = he put", "ex": {"fa": "یک سال از آن روز گذشت.", "r": "yek sāl az ān ruz gozasht.", "en": "A year has passed since that day."}},
-    {"inf": "ریختن", "r": "rikhtan", "stem": "ریز", "stemR": "riz", "en": "to pour; to spill", "cat": "home", "level": "A2", "ex": {"fa": "چای را در استکان ریخت.", "r": "chāy rā dar estekān rikht.", "en": "She poured the tea into the glass."}},
-    {"inf": "بریدن", "r": "boridan", "stem": "بر", "stemR": "bor", "en": "to cut", "cat": "home", "level": "A2", "ex": {"fa": "نان را با چاقو برید.", "r": "nān rā bā chāghu borid.", "en": "He cut the bread with a knife."}},
-    {"inf": "رقصیدن", "r": "raghsidan", "stem": "رقص", "stemR": "raghs", "en": "to dance", "cat": "body", "level": "A2", "ex": {"fa": "در عروسی تا نیمه‌شب رقصیدیم.", "r": "dar arusi tā nime-shab raghsidim.", "en": "We danced till midnight at the wedding."}},
-    {"inf": "بوسیدن", "r": "busidan", "stem": "بوس", "stemR": "bus", "en": "to kiss", "cat": "feelings", "level": "A2", "ex": {"fa": "مادربزرگ صورت نوه‌اش را بوسید.", "r": "mādar-bozorg surat-e nave-ash rā busid.", "en": "Grandma kissed her grandchild's cheek."}},
-    {"inf": "گشتن", "r": "gashtan", "stem": "گرد", "stemR": "gard", "en": "to wander, go around; to search", "cat": "motion", "level": "A2", "note": "دنبال … گشتن = to look for …", "ex": {"fa": "همه‌جا دنبال کلیدم گشتم.", "r": "hame-jā donbāl-e kelid-am gashtam.", "en": "I looked everywhere for my key."}},
-    {"inf": "شمردن", "r": "shemordan", "stem": "شمار", "stemR": "shomār", "en": "to count", "cat": "mind", "level": "A2", "ex": {"fa": "پول‌ها را دوباره بشمار.", "r": "pul-hā rā dobāre be-shomār.", "en": "Count the money again."}},
-    {"inf": "باختن", "r": "bākhtan", "stem": "باز", "stemR": "bāz", "en": "to lose (a game, a bet)", "cat": "other", "level": "A2", "note": "the opposite is بردن (to win)", "ex": {"fa": "تیم ما دیشب باخت.", "r": "tim-e mā dishab bākht.", "en": "Our team lost last night."}},
-    {"inf": "برداشتن", "r": "bardāshtan", "stem": "بردار", "stemR": "bardār", "subj": "بردار", "subjR": "bardār", "en": "to pick up, take", "cat": "give-take", "level": "A2", "note": "prefix verb: mi- goes after بر – برمی‌دارم (bar-mi-dāram); subjunctive and imperative have no be-: بردارم، بردار", "ex": {"fa": "کتابت را از روی میز بردار.", "r": "ketāb-at rā az ru-ye miz bardār.", "en": "Pick your book up off the table."}},
-    {"inf": "مردن", "r": "mordan", "stem": "میر", "stemR": "mir", "en": "to die", "cat": "being", "level": "A2", "note": "for people, more politely: فوت کردن or درگذشتن", "ex": {"fa": "گل‌ها از بی‌آبی مردند.", "r": "gol-hā az bi-ābi mordand.", "en": "The flowers died for lack of water."}},
-    {"inf": "سوختن", "r": "sukhtan", "stem": "سوز", "stemR": "suz", "en": "to burn", "cat": "change", "level": "A2", "ex": {"fa": "دستم به اجاق خورد و سوخت.", "r": "dast-am be ojāgh khord o sukht.", "en": "My hand touched the stove and got burnt."}},
-    {"inf": "کشتن", "r": "koshtan", "stem": "کش", "stemR": "kosh", "pre": "bo", "en": "to kill", "cat": "other", "level": "B1", "note": "its stem is spelled like that of کشیدن but said kosh: می‌کشد is mi-koshad (kills) or mi-keshad (pulls)", "ex": {"fa": "یک پشه را کشتم.", "r": "yek pashe rā koshtam.", "en": "I killed a mosquito."}},
-    {"inf": "یافتن", "r": "yāftan", "stem": "یاب", "stemR": "yāb", "en": "to find", "cat": "other", "level": "B1", "note": "formal; in speech پیدا کردن", "ex": {"fa": "پلیس ماشین دزدیده‌شده را یافت.", "r": "polis māshin-e dozdide-shode rā yāft.", "en": "The police found the stolen car."}},
-    {"inf": "پذیرفتن", "r": "paziroftan", "stem": "پذیر", "stemR": "pazir", "en": "to accept; to admit", "cat": "mind", "level": "B1", "note": "formal; in speech قبول کردن", "ex": {"fa": "پیشنهاد ما را پذیرفتند.", "r": "pishnahād-e mā rā paziroftand.", "en": "They accepted our offer."}},
-    {"inf": "آموختن", "r": "āmukhtan", "stem": "آموز", "stemR": "āmuz", "subj": "بیاموز", "subjR": "biyāmuz", "en": "to learn; to teach", "cat": "mind", "level": "B1", "note": "formal; in speech یاد گرفتن (to learn) and یاد دادن (to teach)", "ex": {"fa": "از پدرم صبر آموختم.", "r": "az pedar-am sabr āmukhtam.", "en": "I learned patience from my father."}},
-    {"inf": "پرداختن", "r": "pardākhtan", "stem": "پرداز", "stemR": "pardāz", "en": "to pay; to deal with", "cat": "buy", "level": "B1", "note": "به … پرداختن = to deal with, devote oneself to …", "ex": {"fa": "هزینه‌ی سفر را خودم پرداختم.", "r": "hazine-ye safar rā khod-am pardākhtam.", "en": "I paid for the trip myself."}},
-    {"inf": "رساندن", "r": "resāndan", "stem": "رسان", "stemR": "resān", "en": "to deliver; to give someone a lift", "cat": "motion", "level": "B1", "note": "the causative of رسیدن (to make arrive)", "ex": {"fa": "می‌توانی مرا تا ایستگاه برسانی؟", "r": "mi-tavāni marā tā istgāh be-resāni?", "en": "Can you give me a lift to the station?"}},
-    {"inf": "گذراندن", "r": "gozarāndan", "stem": "گذران", "stemR": "gozarān", "en": "to spend (time); to pass (a course)", "cat": "daily", "level": "B1", "ex": {"fa": "تعطیلات را در شمال گذراندیم.", "r": "ta'tilāt rā dar shomāl gozarāndim.", "en": "We spent the holidays in the north."}},
-    {"inf": "ترساندن", "r": "tarsāndan", "stem": "ترسان", "stemR": "tarsān", "en": "to frighten", "cat": "feelings", "level": "B1", "note": "the causative of ترسیدن", "ex": {"fa": "صدای رعد بچه را ترساند.", "r": "sedā-ye ra'd bacche rā tarsānd.", "en": "The sound of thunder frightened the child."}},
-    {"inf": "پسندیدن", "r": "pasandidan", "stem": "پسند", "stemR": "pasand", "en": "to like, approve of", "cat": "feelings", "level": "B1", "ex": {"fa": "مشتری هیچ‌کدام از کفش‌ها را نپسندید.", "r": "moshtari hich-kodām az kafsh-hā rā na-pasandid.", "en": "The customer didn't like any of the shoes."}},
-    {"inf": "چشیدن", "r": "cheshidan", "stem": "چش", "stemR": "chesh", "en": "to taste", "cat": "food", "level": "B1", "ex": {"fa": "این خورش را بچش، نمکش کافی است؟", "r": "in khoresh rā be-chesh, namak-ash kāfi ast?", "en": "Taste this stew – is there enough salt?"}},
-    {"inf": "دزدیدن", "r": "dozdidan", "stem": "دزد", "stemR": "dozd", "en": "to steal", "cat": "other", "level": "B1", "ex": {"fa": "کیفم را در اتوبوس دزدیدند.", "r": "kif-am rā dar otobus dozdidand.", "en": "My bag was stolen on the bus."}},
-    {"inf": "سپردن", "r": "sepordan", "stem": "سپار", "stemR": "sepār", "en": "to entrust, leave with someone", "cat": "give-take", "level": "B1", "note": "به خاطر سپردن = to memorise", "ex": {"fa": "کلید خانه را به همسایه سپردیم.", "r": "kelid-e khāne rā be hamsāye sepordim.", "en": "We left the house key with the neighbour."}},
-    {"inf": "افزودن", "r": "afzudan", "stem": "افزا", "stemR": "afzā", "subj": "بیفزا", "subjR": "biyafzā", "en": "to add; to increase", "cat": "talk", "level": "B1", "note": "news Persian: او افزود که … (he added that …); in speech اضافه کردن", "ex": {"fa": "وزیر افزود که قیمت‌ها پایین می‌آید.", "r": "vazir afzud ke gheymat-hā pāyin mi-āyad.", "en": "The minister added that prices will come down."}},
-    {"inf": "درآوردن", "r": "darāvardan", "stem": "درآور", "stemR": "darāvar", "subj": "دربیاور", "subjR": "darbiyāvar", "en": "to take out, take off; to earn", "cat": "give-take", "level": "B1", "note": "prefix verb: mi- goes after در – درمی‌آورم (dar-mi-āvaram); imperative دربیاور; پول درآوردن = to earn money", "ex": {"fa": "کفش‌هایت را دم در دربیاور.", "r": "kafsh-hā-yat rā dam-e dar darbiyāvar.", "en": "Take your shoes off at the door."}},
-    {"inf": "برگرداندن", "r": "bargardāndan", "stem": "برگردان", "stemR": "bargardān", "subj": "برگردان", "subjR": "bargardān", "en": "to give back, return; to translate", "cat": "give-take", "level": "B1", "note": "prefix verb: mi- goes after بر – برمی‌گردانم (bar-mi-gardānam); subjunctive and imperative have no be-: برگردانم، برگردان", "ex": {"fa": "کتاب را فردا به کتابخانه برمی‌گردانم.", "r": "ketāb rā fardā be ketābkhāne bar-mi-gardānam.", "en": "I'll take the book back to the library tomorrow."}},
-    {"inf": "اندیشیدن", "r": "andishidan", "stem": "اندیش", "stemR": "andish", "subj": "بیندیش", "subjR": "biyandish", "en": "to think, reflect", "cat": "mind", "level": "B2", "note": "literary; in speech فکر کردن", "ex": {"fa": "پیش از سخن گفتن بیندیش.", "r": "pish az sokhan goftan biyandish.", "en": "Think before you speak."}},
-    {"inf": "کوشیدن", "r": "kushidan", "stem": "کوش", "stemR": "kush", "en": "to strive, try hard", "cat": "work", "level": "B2", "note": "formal; in speech سعی کردن", "ex": {"fa": "او همیشه می‌کوشد بهترین باشد.", "r": "u hamishe mi-kushad behtarin bāshad.", "en": "She always strives to be the best."}},
-    {"inf": "نمودن", "r": "nemudan", "stem": "نما", "stemR": "nemā", "en": "to do (formal for کردن); to seem", "cat": "other", "level": "B2", "note": "official letters and notices use it instead of کردن: تشکر می‌نماییم (we thank you)", "ex": {"fa": "از همکاری شما تشکر می‌نماییم.", "r": "az hamkāri-ye shomā tashakkor mi-nemāyim.", "en": "We thank you for your cooperation."}},
-    {"inf": "کار کردن", "r": "kār kardan", "stem": "کار کن", "stemR": "kār kon", "en": "to work", "cat": "work", "level": "A1", "ex": {"fa": "پدرم در یک بیمارستان کار می‌کند.", "r": "pedar-am dar yek bimārestān kār mi-konad.", "en": "My father works in a hospital."}},
-    {"inf": "صحبت کردن", "r": "sohbat kardan", "stem": "صحبت کن", "stemR": "sohbat kon", "en": "to talk, speak", "cat": "talk", "level": "A1", "note": "با کسی صحبت کردن = to talk to someone", "ex": {"fa": "شما فارسی صحبت می‌کنید؟", "r": "shomā fārsi sohbat mi-konid?", "en": "Do you speak Persian?"}},
-    {"inf": "زندگی کردن", "r": "zendegi kardan", "stem": "زندگی کن", "stemR": "zendegi kon", "en": "to live", "cat": "daily", "level": "A1", "ex": {"fa": "ما در یک آپارتمان کوچک زندگی می‌کنیم.", "r": "mā dar yek āpārtemān-e kuchek zendegi mi-konim.", "en": "We live in a small flat."}},
-    {"inf": "فکر کردن", "r": "fekr kardan", "stem": "فکر کن", "stemR": "fekr kon", "en": "to think", "cat": "mind", "level": "A1", "note": "فکر می‌کنم که … = I think that …; به … فکر کردن = to think about …", "ex": {"fa": "فکر می‌کنم فردا باران می‌آید.", "r": "fekr mi-konam fardā bārān mi-āyad.", "en": "I think it'll rain tomorrow."}},
-    {"inf": "درس خواندن", "r": "dars khāndan", "stem": "درس خوان", "stemR": "dars khān", "en": "to study", "cat": "work", "level": "A1", "ex": {"fa": "برای امتحان فردا درس می‌خوانم.", "r": "barā-ye emtehān-e fardā dars mi-khānam.", "en": "I'm studying for tomorrow's exam."}},
-    {"inf": "درست کردن", "r": "dorost kardan", "stem": "درست کن", "stemR": "dorost kon", "en": "to make, prepare; to fix", "cat": "work", "level": "A1", "ex": {"fa": "برای شام املت درست کردم.", "r": "barā-ye shām omlet dorost kardam.", "en": "I made an omelette for dinner."}},
-    {"inf": "باز کردن", "r": "bāz kardan", "stem": "باز کن", "stemR": "bāz kon", "en": "to open", "cat": "home", "level": "A1", "ex": {"fa": "می‌شود پنجره را باز کنید؟", "r": "mi-shavad panjare rā bāz konid?", "en": "Could you open the window?"}},
-    {"inf": "پیدا کردن", "r": "peydā kardan", "stem": "پیدا کن", "stemR": "peydā kon", "en": "to find", "cat": "other", "level": "A1", "ex": {"fa": "بالاخره کلیدم را پیدا کردم.", "r": "bālākhare kelid-am rā peydā kardam.", "en": "I finally found my key."}},
-    {"inf": "نگاه کردن", "r": "negāh kardan", "stem": "نگاه کن", "stemR": "negāh kon", "en": "to look (at), watch", "cat": "body", "level": "A1", "note": "به … نگاه کردن = to look at …", "ex": {"fa": "به این عکس نگاه کن!", "r": "be in aks negāh kon!", "en": "Look at this photo!"}},
-    {"inf": "کمک کردن", "r": "komak kardan", "stem": "کمک کن", "stemR": "komak kon", "en": "to help", "cat": "other", "level": "A1", "note": "به کسی کمک کردن = to help someone", "ex": {"fa": "می‌توانی به من کمک کنی؟", "r": "mi-tavāni be man komak koni?", "en": "Can you help me?"}},
-    {"inf": "بازی کردن", "r": "bāzi kardan", "stem": "بازی کن", "stemR": "bāzi kon", "en": "to play", "cat": "daily", "level": "A1", "ex": {"fa": "بچه‌ها در حیاط فوتبال بازی می‌کنند.", "r": "bacche-hā dar hayāt futbāl bāzi mi-konand.", "en": "The children are playing football in the yard."}},
-    {"inf": "گریه کردن", "r": "gerye kardan", "stem": "گریه کن", "stemR": "gerye kon", "en": "to cry", "cat": "feelings", "level": "A1", "ex": {"fa": "چرا گریه می‌کنی؟", "r": "cherā gerye mi-koni?", "en": "Why are you crying?"}},
-    {"inf": "سفر کردن", "r": "safar kardan", "stem": "سفر کن", "stemR": "safar kon", "en": "to travel", "cat": "motion", "level": "A1", "ex": {"fa": "تابستان به اصفهان سفر کردیم.", "r": "tābestān be Esfahān safar kardim.", "en": "In the summer we travelled to Isfahan."}},
-    {"inf": "فراموش کردن", "r": "farāmush kardan", "stem": "فراموش کن", "stemR": "farāmush kon", "en": "to forget", "cat": "mind", "level": "A1", "ex": {"fa": "اسمش را فراموش کردم.", "r": "esm-ash rā farāmush kardam.", "en": "I've forgotten his name."}},
-    {"inf": "شروع کردن", "r": "shoru' kardan", "stem": "شروع کن", "stemR": "shoru' kon", "en": "to begin, start", "cat": "change", "level": "A1", "note": "without an object: شروع شدن (to begin)", "ex": {"fa": "کلاس را ساعت نه شروع می‌کنیم.", "r": "kelās rā sā'at-e noh shoru' mi-konim.", "en": "We start the class at nine."}},
-    {"inf": "روشن کردن", "r": "roshan kardan", "stem": "روشن کن", "stemR": "roshan kon", "en": "to turn on, light", "cat": "home", "level": "A1", "ex": {"fa": "چراغ را روشن کن، این‌جا تاریک است.", "r": "cherāgh rā roshan kon, in-jā tārik ast.", "en": "Turn on the light, it's dark in here."}},
-    {"inf": "خاموش کردن", "r": "khāmush kardan", "stem": "خاموش کن", "stemR": "khāmush kon", "en": "to turn off, put out", "cat": "home", "level": "A1", "ex": {"fa": "لطفاً تلفن‌هایتان را خاموش کنید.", "r": "lotfan telefon-hā-yetān rā khāmush konid.", "en": "Please switch off your phones."}},
-    {"inf": "خرید کردن", "r": "kharid kardan", "stem": "خرید کن", "stemR": "kharid kon", "en": "to shop, do the shopping", "cat": "buy", "level": "A1", "ex": {"fa": "پنجشنبه‌ها از بازار خرید می‌کنم.", "r": "panjshanbe-hā az bāzār kharid mi-konam.", "en": "On Thursdays I do my shopping at the bazaar."}},
-    {"inf": "تماشا کردن", "r": "tamāshā kardan", "stem": "تماشا کن", "stemR": "tamāshā kon", "en": "to watch", "cat": "daily", "level": "A1", "ex": {"fa": "شب‌ها با هم فیلم تماشا می‌کنیم.", "r": "shab-hā bā ham film tamāshā mi-konim.", "en": "In the evenings we watch films together."}},
-    {"inf": "سلام کردن", "r": "salām kardan", "stem": "سلام کن", "stemR": "salām kon", "en": "to say hello, greet", "cat": "talk", "level": "A1", "ex": {"fa": "وارد کلاس شد و به همه سلام کرد.", "r": "vāred-e kelās shod o be hame salām kard.", "en": "He came into the classroom and said hello to everyone."}},
-    {"inf": "درد کردن", "r": "dard kardan", "stem": "درد کن", "stemR": "dard kon", "en": "to hurt, ache", "cat": "body", "level": "A1", "note": "the part that hurts is the subject: سرم درد می‌کند (my head hurts)", "ex": {"fa": "سرم خیلی درد می‌کند.", "r": "sar-am kheyli dard mi-konad.", "en": "My head really hurts."}},
-    {"inf": "خواهش کردن", "r": "khāhesh kardan", "stem": "خواهش کن", "stemR": "khāhesh kon", "en": "to ask, request", "cat": "talk", "level": "A1", "note": "خواهش می‌کنم = please; you're welcome", "ex": {"fa": "از شما خواهش می‌کنم کمی آرام‌تر صحبت کنید.", "r": "az shomā khāhesh mi-konam kam-i ārām-tar sohbat konid.", "en": "Could you please speak a little more slowly?"}},
-    {"inf": "حرف زدن", "r": "harf zadan", "stem": "حرف زن", "stemR": "harf zan", "en": "to talk, speak", "cat": "talk", "level": "A1", "note": "less formal than صحبت کردن; با کسی حرف زدن = to talk to someone", "ex": {"fa": "دیشب با مادرم تلفنی حرف زدم.", "r": "dishab bā mādar-am telefoni harf zadam.", "en": "Last night I talked to my mother on the phone."}},
-    {"inf": "زنگ زدن", "r": "zang zadan", "stem": "زنگ زن", "stemR": "zang zan", "en": "to ring, phone", "cat": "talk", "level": "A1", "note": "به کسی زنگ زدن = to call someone", "ex": {"fa": "فردا به تو زنگ می‌زنم.", "r": "fardā be to zang mi-zanam.", "en": "I'll call you tomorrow."}},
-    {"inf": "گوش دادن", "r": "gush dādan", "stem": "گوش ده", "stemR": "gush dah", "en": "to listen", "cat": "body", "level": "A1", "note": "به … گوش دادن = to listen to …; also گوش کردن", "ex": {"fa": "هر روز صبح به رادیو گوش می‌دهم.", "r": "har ruz sobh be rādiyo gush mi-daham.", "en": "Every morning I listen to the radio."}},
-    {"inf": "جواب دادن", "r": "javāb dādan", "stem": "جواب ده", "stemR": "javāb dah", "en": "to answer", "cat": "talk", "level": "A1", "ex": {"fa": "چرا تلفنت را جواب نمی‌دهی؟", "r": "cherā telefon-at rā javāb nemi-dahi?", "en": "Why don't you answer your phone?"}},
-    {"inf": "درس دادن", "r": "dars dādan", "stem": "درس ده", "stemR": "dars dah", "en": "to teach", "cat": "work", "level": "A1", "ex": {"fa": "خواهرم در یک مدرسه ریاضی درس می‌دهد.", "r": "khāhar-am dar yek madrese riyāzi dars mi-dahad.", "en": "My sister teaches maths at a school."}},
-    {"inf": "یاد گرفتن", "r": "yād gereftan", "stem": "یاد گیر", "stemR": "yād gir", "en": "to learn", "cat": "mind", "level": "A1", "note": "the opposite is یاد دادن (to teach)", "ex": {"fa": "کجا فارسی یاد گرفتی؟", "r": "kojā fārsi yād gerefti?", "en": "Where did you learn Persian?"}},
-    {"inf": "دوست داشتن", "r": "dust dāshtan", "stem": "دوست دار", "stemR": "dust dār", "subj": "دوست داشته باش", "subjR": "dust dāshte bāsh", "en": "to like, love", "cat": "feelings", "level": "A1", "note": "like داشتن, no mi- in the present: دوست دارم (I like); subjunctive دوست داشته باشم", "ex": {"fa": "من چای را بیشتر از قهوه دوست دارم.", "r": "man chāy rā bish-tar az ghahve dust dāram.", "en": "I like tea more than coffee."}},
-    {"inf": "لازم داشتن", "r": "lāzem dāshtan", "stem": "لازم دار", "stemR": "lāzem dār", "subj": "لازم داشته باش", "subjR": "lāzem dāshte bāsh", "en": "to need", "cat": "other", "level": "A1", "note": "no mi- in the present: لازم دارم (I need)", "ex": {"fa": "برای این کار یک چکش لازم دارم.", "r": "barā-ye in kār yek chakosh lāzem dāram.", "en": "I need a hammer for this job."}},
-    {"inf": "بیدار شدن", "r": "bidār shodan", "stem": "بیدار شو", "stemR": "bidār shav", "en": "to wake up", "cat": "daily", "level": "A1", "ex": {"fa": "صبح‌ها ساعت شش بیدار می‌شوم.", "r": "sobh-hā sā'at-e shesh bidār mi-shavam.", "en": "I wake up at six in the morning."}},
-    {"inf": "سوار شدن", "r": "savār shodan", "stem": "سوار شو", "stemR": "savār shav", "en": "to get on, get in (a vehicle); to ride", "cat": "motion", "level": "A1", "ex": {"fa": "سوار تاکسی شدیم و به فرودگاه رفتیم.", "r": "savār-e tāksi shodim o be forudgāh raftim.", "en": "We got into a taxi and went to the airport."}},
-    {"inf": "پیاده شدن", "r": "piyāde shodan", "stem": "پیاده شو", "stemR": "piyāde shav", "en": "to get off, get out (of a vehicle)", "cat": "motion", "level": "A1", "ex": {"fa": "ایستگاه بعد پیاده می‌شوم.", "r": "istgāh-e ba'd piyāde mi-shavam.", "en": "I'm getting off at the next stop."}},
-    {"inf": "بلند شدن", "r": "boland shodan", "stem": "بلند شو", "stemR": "boland shav", "en": "to get up, stand up", "cat": "body", "level": "A1", "ex": {"fa": "همه بلند شدند و دست زدند.", "r": "hame boland shodand o dast zadand.", "en": "Everyone stood up and clapped."}},
-    {"inf": "تمام شدن", "r": "tamām shodan", "stem": "تمام شو", "stemR": "tamām shav", "en": "to finish, end; to run out", "cat": "change", "level": "A1", "ex": {"fa": "فیلم کی تمام می‌شود؟", "r": "film key tamām mi-shavad?", "en": "When does the film finish?"}},
-    {"inf": "راه رفتن", "r": "rāh raftan", "stem": "راه رو", "stemR": "rāh rav", "en": "to walk", "cat": "motion", "level": "A1", "ex": {"fa": "بعد از شام کمی راه می‌رویم.", "r": "ba'd az shām kam-i rāh mi-ravim.", "en": "After dinner we walk a little."}},
-    {"inf": "بیرون رفتن", "r": "birun raftan", "stem": "بیرون رو", "stemR": "birun rav", "en": "to go out", "cat": "motion", "level": "A1", "ex": {"fa": "امشب با دوستانم بیرون می‌روم.", "r": "emshab bā dustān-am birun mi-ravam.", "en": "Tonight I'm going out with my friends."}},
-    {"inf": "بلد بودن", "r": "balad budan", "stem": "بلد باش", "stemR": "balad bāsh", "subj": "بلد باش", "subjR": "balad bāsh", "en": "to know how to", "cat": "mind", "level": "A1", "note": "present بلدم or بلد هستم (I know how to), negative بلد نیستم; past بلد بودم", "ex": {"fa": "رانندگی بلدی؟", "r": "rānandegi balad-i?", "en": "Do you know how to drive?"}},
-    {"inf": "عوض کردن", "r": "avaz kardan", "stem": "عوض کن", "stemR": "avaz kon", "en": "to change", "cat": "change", "level": "A2", "ex": {"fa": "لباسم را عوض کردم و بیرون رفتم.", "r": "lebās-am rā avaz kardam o birun raftam.", "en": "I changed my clothes and went out."}},
-    {"inf": "تمیز کردن", "r": "tamiz kardan", "stem": "تمیز کن", "stemR": "tamiz kon", "en": "to clean", "cat": "home", "level": "A2", "ex": {"fa": "آخر هفته خانه را تمیز می‌کنیم.", "r": "ākhar-e hafte khāne rā tamiz mi-konim.", "en": "We clean the house at the weekend."}},
-    {"inf": "استفاده کردن", "r": "estefāde kardan", "stem": "استفاده کن", "stemR": "estefāde kon", "en": "to use", "cat": "other", "level": "A2", "note": "از … استفاده کردن = to use …", "ex": {"fa": "می‌توانم از تلفن شما استفاده کنم؟", "r": "mi-tavānam az telefon-e shomā estefāde konam?", "en": "May I use your phone?"}},
-    {"inf": "ازدواج کردن", "r": "ezdevāj kardan", "stem": "ازدواج کن", "stemR": "ezdevāj kon", "en": "to get married", "cat": "feelings", "level": "A2", "note": "با کسی ازدواج کردن = to marry someone", "ex": {"fa": "خواهرم پارسال ازدواج کرد.", "r": "khāhar-am pārsāl ezdevāj kard.", "en": "My sister got married last year."}},
-    {"inf": "عجله کردن", "r": "ajale kardan", "stem": "عجله کن", "stemR": "ajale kon", "en": "to hurry", "cat": "motion", "level": "A2", "ex": {"fa": "عجله کن، دیرمان شد!", "r": "ajale kon, dir-emān shod!", "en": "Hurry up, we're late!"}},
-    {"inf": "دیر کردن", "r": "dir kardan", "stem": "دیر کن", "stemR": "dir kon", "en": "to be late", "cat": "other", "level": "A2", "ex": {"fa": "ببخشید که دیر کردم.", "r": "be-bakhshid ke dir kardam.", "en": "Sorry I'm late."}},
-    {"inf": "سعی کردن", "r": "sa'y kardan", "stem": "سعی کن", "stemR": "sa'y kon", "en": "to try", "cat": "work", "level": "A2", "note": "followed by the subjunctive: سعی می‌کنم بیایم (I'll try to come)", "ex": {"fa": "سعی می‌کنم زود بیایم.", "r": "sa'y mi-konam zud biyāyam.", "en": "I'll try to come early."}},
-    {"inf": "صبر کردن", "r": "sabr kardan", "stem": "صبر کن", "stemR": "sabr kon", "en": "to wait; to be patient", "cat": "other", "level": "A2", "ex": {"fa": "یک لحظه صبر کنید، لطفاً.", "r": "yek lahze sabr konid, lotfan.", "en": "Wait a moment, please."}},
-    {"inf": "رانندگی کردن", "r": "rānandegi kardan", "stem": "رانندگی کن", "stemR": "rānandegi kon", "en": "to drive", "cat": "motion", "level": "A2", "ex": {"fa": "رانندگی کردن در تهران سخت است.", "r": "rānandegi kardan dar Tehrān sakht ast.", "en": "Driving in Tehran is hard."}},
-    {"inf": "آشپزی کردن", "r": "āshpazi kardan", "stem": "آشپزی کن", "stemR": "āshpazi kon", "en": "to cook", "cat": "food", "level": "A2", "ex": {"fa": "پدرم آخر هفته‌ها آشپزی می‌کند.", "r": "pedar-am ākhar-e hafte-hā āshpazi mi-konad.", "en": "My father cooks at the weekends."}},
-    {"inf": "ورزش کردن", "r": "varzesh kardan", "stem": "ورزش کن", "stemR": "varzesh kon", "en": "to exercise, do sport", "cat": "body", "level": "A2", "ex": {"fa": "هفته‌ای سه بار ورزش می‌کنم.", "r": "hafte-i se bār varzesh mi-konam.", "en": "I exercise three times a week."}},
-    {"inf": "تشکر کردن", "r": "tashakkor kardan", "stem": "تشکر کن", "stemR": "tashakkor kon", "en": "to thank", "cat": "talk", "level": "A2", "note": "از کسی تشکر کردن = to thank someone", "ex": {"fa": "از کمکتان خیلی تشکر می‌کنم.", "r": "az komak-etān kheyli tashakkor mi-konam.", "en": "Thank you very much for your help."}},
-    {"inf": "گم کردن", "r": "gom kardan", "stem": "گم کن", "stemR": "gom kon", "en": "to lose (something)", "cat": "other", "level": "A2", "ex": {"fa": "کیف پولم را گم کرده‌ام.", "r": "kif-e pul-am rā gom karde-am.", "en": "I've lost my wallet."}},
-    {"inf": "جمع کردن", "r": "jam' kardan", "stem": "جمع کن", "stemR": "jam' kon", "en": "to collect, gather; to tidy up", "cat": "home", "level": "A2", "ex": {"fa": "اتاقت را جمع کن!", "r": "otāgh-at rā jam' kon!", "en": "Tidy up your room!"}},
-    {"inf": "انتخاب کردن", "r": "entekhāb kardan", "stem": "انتخاب کن", "stemR": "entekhāb kon", "en": "to choose", "cat": "mind", "level": "A2", "ex": {"fa": "کدام رنگ را انتخاب کردی؟", "r": "kodām rang rā entekhāb kardi?", "en": "Which colour did you choose?"}},
-    {"inf": "قبول کردن", "r": "ghabul kardan", "stem": "قبول کن", "stemR": "ghabul kon", "en": "to accept, agree to", "cat": "mind", "level": "A2", "ex": {"fa": "دعوتشان را با کمال میل قبول کردیم.", "r": "da'vat-eshān rā bā kamāl-e meyl ghabul kardim.", "en": "We gladly accepted their invitation."}},
-    {"inf": "باور کردن", "r": "bāvar kardan", "stem": "باور کن", "stemR": "bāvar kon", "en": "to believe", "cat": "mind", "level": "A2", "ex": {"fa": "باور نمی‌کنم، واقعاً؟", "r": "bāvar nemi-konam, vāghe'an?", "en": "I don't believe it – really?"}},
-    {"inf": "تمرین کردن", "r": "tamrin kardan", "stem": "تمرین کن", "stemR": "tamrin kon", "en": "to practise", "cat": "work", "level": "A2", "ex": {"fa": "هر روز نیم ساعت فارسی تمرین می‌کنم.", "r": "har ruz nim sā'at fārsi tamrin mi-konam.", "en": "I practise Persian for half an hour every day."}},
-    {"inf": "ترجمه کردن", "r": "tarjome kardan", "stem": "ترجمه کن", "stemR": "tarjome kon", "en": "to translate", "cat": "talk", "level": "A2", "ex": {"fa": "می‌توانی این نامه را برایم ترجمه کنی؟", "r": "mi-tavāni in nāme rā barā-yam tarjome koni?", "en": "Can you translate this letter for me?"}},
-    {"inf": "تعریف کردن", "r": "ta'rif kardan", "stem": "تعریف کن", "stemR": "ta'rif kon", "en": "to tell (a story); to praise", "cat": "talk", "level": "A2", "note": "از … تعریف کردن = to praise …", "ex": {"fa": "از سفرت برایمان تعریف کن!", "r": "az safar-at barā-yemān ta'rif kon!", "en": "Tell us about your trip!"}},
-    {"inf": "دعوت کردن", "r": "da'vat kardan", "stem": "دعوت کن", "stemR": "da'vat kon", "en": "to invite", "cat": "talk", "level": "A2", "ex": {"fa": "ما را برای شام دعوت کردند.", "r": "mā rā barā-ye shām da'vat kardand.", "en": "They invited us to dinner."}},
-    {"inf": "شوخی کردن", "r": "shukhi kardan", "stem": "شوخی کن", "stemR": "shukhi kon", "en": "to joke", "cat": "talk", "level": "A2", "ex": {"fa": "ناراحت نشو، شوخی کردم!", "r": "nārāhat na-show, shukhi kardam!", "en": "Don't be upset – I was joking!"}},
-    {"inf": "اشتباه کردن", "r": "eshtebāh kardan", "stem": "اشتباه کن", "stemR": "eshtebāh kon", "en": "to make a mistake", "cat": "mind", "level": "A2", "ex": {"fa": "ببخشید، اشتباه کردم.", "r": "be-bakhshid, eshtebāh kardam.", "en": "Sorry, I made a mistake."}},
-    {"inf": "استراحت کردن", "r": "esterāhat kardan", "stem": "استراحت کن", "stemR": "esterāhat kon", "en": "to rest", "cat": "daily", "level": "A2", "ex": {"fa": "خسته‌ای، کمی استراحت کن.", "r": "khaste-i, kam-i esterāhat kon.", "en": "You're tired – rest a little."}},
-    {"inf": "خرج کردن", "r": "kharj kardan", "stem": "خرج کن", "stemR": "kharj kon", "en": "to spend (money)", "cat": "buy", "level": "A2", "ex": {"fa": "این ماه خیلی پول خرج کردم.", "r": "in māh kheyli pul kharj kardam.", "en": "I spent a lot of money this month."}},
-    {"inf": "کم کردن", "r": "kam kardan", "stem": "کم کن", "stemR": "kam kon", "en": "to reduce, turn down; to take away", "cat": "change", "level": "A2", "note": "وزن کم کردن = to lose weight", "ex": {"fa": "صدای رادیو را کم کن.", "r": "sedā-ye rādiyo rā kam kon.", "en": "Turn the radio down."}},
-    {"inf": "اضافه کردن", "r": "ezāfe kardan", "stem": "اضافه کن", "stemR": "ezāfe kon", "en": "to add", "cat": "change", "level": "A2", "ex": {"fa": "کمی نمک اضافه کن.", "r": "kam-i namak ezāfe kon.", "en": "Add a little salt."}},
-    {"inf": "فرق کردن", "r": "fargh kardan", "stem": "فرق کن", "stemR": "fargh kon", "en": "to be different; to vary", "cat": "other", "level": "A2", "note": "فرق می‌کند = it depends; it's different", "ex": {"fa": "این دو کلمه با هم فرق می‌کنند.", "r": "in do kalame bā ham fargh mi-konand.", "en": "These two words are different."}},
-    {"inf": "خداحافظی کردن", "r": "khodā-hāfezi kardan", "stem": "خداحافظی کن", "stemR": "khodā-hāfezi kon", "en": "to say goodbye", "cat": "talk", "level": "A2", "ex": {"fa": "بدون خداحافظی رفت.", "r": "bedun-e khodā-hāfezi raft.", "en": "He left without saying goodbye."}},
-    {"inf": "داد زدن", "r": "dād zadan", "stem": "داد زن", "stemR": "dād zan", "en": "to shout", "cat": "talk", "level": "A2", "note": "سر کسی داد زدن = to shout at someone", "ex": {"fa": "سر من داد نزن!", "r": "sar-e man dād na-zan!", "en": "Don't shout at me!"}},
-    {"inf": "دست زدن", "r": "dast zadan", "stem": "دست زن", "stemR": "dast zan", "en": "to touch; to clap", "cat": "body", "level": "A2", "note": "به … دست زدن = to touch …; برای کسی دست زدن = to clap for someone", "ex": {"fa": "به این تابلو دست نزنید.", "r": "be in tāblo dast na-zanid.", "en": "Don't touch this painting."}},
-    {"inf": "انجام دادن", "r": "anjām dādan", "stem": "انجام ده", "stemR": "anjām dah", "en": "to do, carry out", "cat": "work", "level": "A2", "ex": {"fa": "تکالیفت را انجام دادی؟", "r": "takālif-at rā anjām dādi?", "en": "Have you done your homework?"}},
-    {"inf": "نشان دادن", "r": "neshān dādan", "stem": "نشان ده", "stemR": "neshān dah", "en": "to show", "cat": "give-take", "level": "A2", "ex": {"fa": "عکس‌های عروسی را به ما نشان داد.", "r": "aks-hā-ye arusi rā be mā neshān dād.", "en": "She showed us the wedding photos."}},
-    {"inf": "توضیح دادن", "r": "towzih dādan", "stem": "توضیح ده", "stemR": "towzih dah", "en": "to explain", "cat": "talk", "level": "A2", "ex": {"fa": "معلم درس را دوباره توضیح داد.", "r": "mo'allem dars rā dobāre towzih dād.", "en": "The teacher explained the lesson again."}},
-    {"inf": "ادامه دادن", "r": "edāme dādan", "stem": "ادامه ده", "stemR": "edāme dah", "en": "to continue, go on", "cat": "change", "level": "A2", "ex": {"fa": "لطفاً ادامه بدهید.", "r": "lotfan edāme be-dahid.", "en": "Please go on."}},
-    {"inf": "اجازه دادن", "r": "ejāze dādan", "stem": "اجازه ده", "stemR": "ejāze dah", "en": "to allow, let", "cat": "talk", "level": "A2", "note": "اجازه بدهید … = allow me …", "ex": {"fa": "پدرم اجازه نمی‌دهد تنها سفر کنم.", "r": "pedar-am ejāze nemi-dahad tanhā safar konam.", "en": "My father won't let me travel alone."}},
-    {"inf": "پیام دادن", "r": "payām dādan", "stem": "پیام ده", "stemR": "payām dah", "en": "to text, send a message", "cat": "talk", "level": "A2", "ex": {"fa": "وقتی رسیدی، به من پیام بده.", "r": "vaghti residi, be man payām be-deh.", "en": "Text me when you get there."}},
-    {"inf": "قول دادن", "r": "ghowl dādan", "stem": "قول ده", "stemR": "ghowl dah", "en": "to promise", "cat": "talk", "level": "A2", "ex": {"fa": "قول می‌دهم دیگر دیر نکنم.", "r": "ghowl mi-daham digar dir na-konam.", "en": "I promise I won't be late again."}},
-    {"inf": "سفارش دادن", "r": "sefāresh dādan", "stem": "سفارش ده", "stemR": "sefāresh dah", "en": "to order", "cat": "food", "level": "A2", "ex": {"fa": "برای شام پیتزا سفارش دادیم.", "r": "barā-ye shām pitzā sefāresh dādim.", "en": "We ordered pizza for dinner."}},
-    {"inf": "تصمیم گرفتن", "r": "tasmim gereftan", "stem": "تصمیم گیر", "stemR": "tasmim gir", "en": "to decide", "cat": "mind", "level": "A2", "ex": {"fa": "تصمیم گرفتم فارسی یاد بگیرم.", "r": "tasmim gereftam fārsi yād be-giram.", "en": "I decided to learn Persian."}},
-    {"inf": "دوش گرفتن", "r": "dush gereftan", "stem": "دوش گیر", "stemR": "dush gir", "en": "to take a shower", "cat": "daily", "level": "A2", "ex": {"fa": "بعد از ورزش دوش می‌گیرم.", "r": "ba'd az varzesh dush mi-giram.", "en": "I take a shower after exercise."}},
-    {"inf": "عکس گرفتن", "r": "aks gereftan", "stem": "عکس گیر", "stemR": "aks gir", "en": "to take a photo", "cat": "other", "level": "A2", "ex": {"fa": "می‌شود از ما یک عکس بگیرید؟", "r": "mi-shavad az mā yek aks be-girid?", "en": "Could you take a photo of us?"}},
-    {"inf": "تماس گرفتن", "r": "tamās gereftan", "stem": "تماس گیر", "stemR": "tamās gir", "en": "to contact, call", "cat": "talk", "level": "A2", "note": "با کسی تماس گرفتن; more formal than زنگ زدن", "ex": {"fa": "لطفاً با این شماره تماس بگیرید.", "r": "lotfan bā in shomāre tamās be-girid.", "en": "Please call this number."}},
-    {"inf": "نیاز داشتن", "r": "niyāz dāshtan", "stem": "نیاز دار", "stemR": "niyāz dār", "subj": "نیاز داشته باش", "subjR": "niyāz dāshte bāsh", "en": "to need", "cat": "other", "level": "A2", "note": "no mi- in the present: به … نیاز دارم (I need …)", "ex": {"fa": "به کمک تو نیاز دارم.", "r": "be komak-e to niyāz dāram.", "en": "I need your help."}},
-    {"inf": "نگه داشتن", "r": "negah dāshtan", "stem": "نگه دار", "stemR": "negah dār", "en": "to keep, hold; to stop (a car)", "cat": "give-take", "level": "A2", "note": "unlike داشتن it takes mi-: نگه می‌دارم", "ex": {"fa": "آقا، لطفاً همین‌جا نگه دارید.", "r": "āghā, lotfan hamin-jā negah dārid.", "en": "Please stop right here, sir."}},
-    {"inf": "خسته شدن", "r": "khaste shodan", "stem": "خسته شو", "stemR": "khaste shav", "en": "to get tired", "cat": "feelings", "level": "A2", "note": "از … خسته شدن = to get tired of …", "ex": {"fa": "از این همه کار خسته شدم.", "r": "az in hame kār khaste shodam.", "en": "I'm tired of all this work."}},
-    {"inf": "ناراحت شدن", "r": "nārāhat shodan", "stem": "ناراحت شو", "stemR": "nārāhat shav", "en": "to get upset", "cat": "feelings", "level": "A2", "ex": {"fa": "از حرفش ناراحت شدم.", "r": "az harf-ash nārāhat shodam.", "en": "What he said upset me."}},
-    {"inf": "عصبانی شدن", "r": "asabāni shodan", "stem": "عصبانی شو", "stemR": "asabāni shav", "en": "to get angry", "cat": "feelings", "level": "A2", "ex": {"fa": "وقتی دیر رسیدم، رئیسم عصبانی شد.", "r": "vaghti dir residam, ra'is-am asabāni shod.", "en": "When I arrived late, my boss got angry."}},
-    {"inf": "گم شدن", "r": "gom shodan", "stem": "گم شو", "stemR": "gom shav", "en": "to get lost", "cat": "other", "level": "A2", "note": "the imperative گم شو! is rude: get lost!", "ex": {"fa": "در بازار بزرگ تهران گم شدیم.", "r": "dar bāzār-e bozorg-e Tehrān gom shodim.", "en": "We got lost in Tehran's Grand Bazaar."}},
-    {"inf": "آشنا شدن", "r": "āshnā shodan", "stem": "آشنا شو", "stemR": "āshnā shav", "en": "to get to know, meet", "cat": "other", "level": "A2", "note": "با کسی آشنا شدن; از آشنایی‌تان خوشوقتم = pleased to meet you", "ex": {"fa": "ما در دانشگاه با هم آشنا شدیم.", "r": "mā dar dāneshgāh bā ham āshnā shodim.", "en": "We met at university."}},
-    {"inf": "بزرگ شدن", "r": "bozorg shodan", "stem": "بزرگ شو", "stemR": "bozorg shav", "en": "to grow up", "cat": "change", "level": "A2", "ex": {"fa": "من در یک روستای کوچک بزرگ شدم.", "r": "man dar yek rustā-ye kuchek bozorg shodam.", "en": "I grew up in a small village."}},
-    {"inf": "مریض شدن", "r": "mariz shodan", "stem": "مریض شو", "stemR": "mariz shav", "en": "to get ill", "cat": "body", "level": "A2", "ex": {"fa": "دیروز مریض شدم و سر کار نرفتم.", "r": "diruz mariz shodam o sar-e kār na-raftam.", "en": "Yesterday I got ill and didn't go to work."}},
-    {"inf": "آماده شدن", "r": "āmāde shodan", "stem": "آماده شو", "stemR": "āmāde shav", "en": "to get ready", "cat": "daily", "level": "A2", "ex": {"fa": "زود آماده شو، مهمان‌ها دارند می‌آیند!", "r": "zud āmāde show, mehmān-hā dārand mi-āyand!", "en": "Get ready quickly – the guests are coming!"}},
-    {"inf": "خراب شدن", "r": "kharāb shodan", "stem": "خراب شو", "stemR": "kharāb shav", "en": "to break down, be ruined", "cat": "change", "level": "A2", "ex": {"fa": "ماشینم وسط راه خراب شد.", "r": "māshin-am vasat-e rāh kharāb shod.", "en": "My car broke down on the way."}},
-    {"inf": "سیر شدن", "r": "sir shodan", "stem": "سیر شو", "stemR": "sir shav", "en": "to be full (after eating)", "cat": "food", "level": "A2", "note": "the polite way to refuse more food: مرسی، سیر شدم", "ex": {"fa": "دستتان درد نکند، سیر شدم.", "r": "dast-etān dard na-konad, sir shodam.", "en": "Thank you, I'm full."}},
-    {"inf": "سرما خوردن", "r": "sarmā khordan", "stem": "سرما خور", "stemR": "sarmā khor", "pre": "bo", "en": "to catch a cold", "cat": "body", "level": "A2", "ex": {"fa": "سرما خورده‌ام و گلویم درد می‌کند.", "r": "sarmā khorde-am o galu-yam dard mi-konad.", "en": "I've caught a cold and my throat hurts."}},
-    {"inf": "زمین خوردن", "r": "zamin khordan", "stem": "زمین خور", "stemR": "zamin khor", "pre": "bo", "en": "to fall over", "cat": "body", "level": "A2", "ex": {"fa": "روی یخ زمین خوردم.", "r": "ru-ye yakh zamin khordam.", "en": "I fell over on the ice."}},
-    {"inf": "طول کشیدن", "r": "tul keshidan", "stem": "طول کش", "stemR": "tul kesh", "en": "to take (time), last", "cat": "other", "level": "A2", "note": "usually third person: چقدر طول می‌کشد؟ (how long does it take?)", "ex": {"fa": "تا فرودگاه چقدر طول می‌کشد؟", "r": "tā forudgāh cheghadr tul mi-keshad?", "en": "How long does it take to get to the airport?"}},
-    {"inf": "خجالت کشیدن", "r": "khejālat keshidan", "stem": "خجالت کش", "stemR": "khejālat kesh", "en": "to be shy, be embarrassed", "cat": "feelings", "level": "A2", "ex": {"fa": "خجالت نکش، بیا تو!", "r": "khejālat na-kesh, biyā tu!", "en": "Don't be shy, come in!"}},
-    {"inf": "زحمت کشیدن", "r": "zahmat keshidan", "stem": "زحمت کش", "stemR": "zahmat kesh", "en": "to take trouble, work hard", "cat": "work", "level": "A2", "note": "خیلی زحمت کشیدید = thank you for all your trouble", "ex": {"fa": "خیلی زحمت کشیدید، دستتان درد نکند.", "r": "kheyli zahmat keshidid, dast-etān dard na-konad.", "en": "You've gone to so much trouble – thank you."}},
-    {"inf": "قرار گذاشتن", "r": "gharār gozāshtan", "stem": "قرار گذار", "stemR": "gharār gozār", "en": "to arrange to meet, make a date", "cat": "talk", "level": "A2", "ex": {"fa": "با دوستم ساعت پنج جلوی سینما قرار گذاشتم.", "r": "bā dust-am sā'at-e panj jelow-ye sinemā gharār gozāshtam.", "en": "I've arranged to meet my friend at five outside the cinema."}},
-    {"inf": "جا گذاشتن", "r": "jā gozāshtan", "stem": "جا گذار", "stemR": "jā gozār", "en": "to leave behind (by mistake)", "cat": "give-take", "level": "A2", "ex": {"fa": "عینکم را در تاکسی جا گذاشتم.", "r": "eynak-am rā dar tāksi jā gozāshtam.", "en": "I left my glasses in the taxi."}},
-    {"inf": "به دنیا آمدن", "r": "be donyā āmadan", "stem": "به دنیا آ", "stemR": "be donyā ā", "subj": "به دنیا بیا", "subjR": "be donyā biyā", "en": "to be born", "cat": "being", "level": "A2", "ex": {"fa": "نوه‌ی اولم دیروز به دنیا آمد.", "r": "nave-ye avval-am diruz be donyā āmad.", "en": "My first grandchild was born yesterday."}},
-    {"inf": "لذت بردن", "r": "lezzat bordan", "stem": "لذت بر", "stemR": "lezzat bar", "en": "to enjoy", "cat": "feelings", "level": "A2", "note": "از … لذت بردن = to enjoy …", "ex": {"fa": "از سفر به یزد خیلی لذت بردیم.", "r": "az safar be Yazd kheyli lezzat bordim.", "en": "We really enjoyed the trip to Yazd."}},
-    {"inf": "اتفاق افتادن", "r": "ettefāgh oftādan", "stem": "اتفاق افت", "stemR": "ettefāgh oft", "subj": "اتفاق بیفت", "subjR": "ettefāgh biyoft", "en": "to happen", "cat": "other", "level": "A2", "note": "usually third person: چه اتفاقی افتاد؟ (what happened?)", "ex": {"fa": "دیروز در خیابان ما یک تصادف اتفاق افتاد.", "r": "diruz dar khiyābān-e mā yek tasādof ettefāgh oftād.", "en": "Yesterday there was an accident in our street."}},
-    {"inf": "راه افتادن", "r": "rāh oftādan", "stem": "راه افت", "stemR": "rāh oft", "subj": "راه بیفت", "subjR": "rāh biyoft", "en": "to set off; to get going", "cat": "motion", "level": "A2", "ex": {"fa": "ساعت هفت صبح راه افتادیم.", "r": "sā'at-e haft-e sobh rāh oftādim.", "en": "We set off at seven in the morning."}},
-    {"inf": "خواب دیدن", "r": "khāb didan", "stem": "خواب بین", "stemR": "khāb bin", "en": "to dream", "cat": "daily", "level": "A2", "ex": {"fa": "دیشب خواب دیدم در اصفهان هستم.", "r": "dishab khāb didam dar Esfahān hastam.", "en": "Last night I dreamt I was in Isfahan."}},
-    {"inf": "منتظر ماندن", "r": "montazer māndan", "stem": "منتظر مان", "stemR": "montazer mān", "en": "to wait", "cat": "other", "level": "A2", "note": "منتظر کسی ماندن = to wait for someone; also منتظر بودن", "ex": {"fa": "لطفاً چند دقیقه منتظر بمانید.", "r": "lotfan chand daghighe montazer be-mānid.", "en": "Please wait a few minutes."}},
-    {"inf": "مواظب بودن", "r": "movāzeb budan", "stem": "مواظب باش", "stemR": "movāzeb bāsh", "subj": "مواظب باش", "subjR": "movāzeb bāsh", "en": "to be careful, look after", "cat": "other", "level": "A2", "note": "present مواظبم or مواظب هستم; imperative مواظب باش! (be careful!)", "ex": {"fa": "مواظب خودت باش!", "r": "movāzeb-e khod-at bāsh!", "en": "Take care of yourself!"}},
-    {"inf": "نگران بودن", "r": "negarān budan", "stem": "نگران باش", "stemR": "negarān bāsh", "subj": "نگران باش", "subjR": "negarān bāsh", "en": "to be worried", "cat": "feelings", "level": "A2", "note": "present نگرانم or نگران هستم; نگران نباش = don't worry", "ex": {"fa": "نگران نباش، همه چیز درست می‌شود.", "r": "negarān na-bāsh, hame chiz dorost mi-shavad.", "en": "Don't worry, everything will be all right."}},
-    {"inf": "موافق بودن", "r": "movāfegh budan", "stem": "موافق باش", "stemR": "movāfegh bāsh", "subj": "موافق باش", "subjR": "movāfegh bāsh", "en": "to agree", "cat": "mind", "level": "A2", "note": "present موافقم (I agree); the opposite is مخالف بودن", "ex": {"fa": "با نظر شما موافقم.", "r": "bā nazar-e shomā movāfegh-am.", "en": "I agree with you."}},
-    {"inf": "آرزو کردن", "r": "ārezu kardan", "stem": "آرزو کن", "stemR": "ārezu kon", "en": "to wish", "cat": "feelings", "level": "A2", "ex": {"fa": "برایت موفقیت آرزو می‌کنم.", "r": "barā-yat movaffaghiyyat ārezu mi-konam.", "en": "I wish you success."}},
-    {"inf": "تلاش کردن", "r": "talāsh kardan", "stem": "تلاش کن", "stemR": "talāsh kon", "en": "to try hard, make an effort", "cat": "work", "level": "B1", "ex": {"fa": "خیلی تلاش کرد تا در کنکور قبول شود.", "r": "kheyli talāsh kard tā dar konkur ghabul shavad.", "en": "She worked very hard to pass the university entrance exam."}},
-    {"inf": "حرکت کردن", "r": "harekat kardan", "stem": "حرکت کن", "stemR": "harekat kon", "en": "to move; to set off, depart", "cat": "motion", "level": "B1", "ex": {"fa": "قطار ساعت ده حرکت می‌کند.", "r": "ghatār sā'at-e dah harekat mi-konad.", "en": "The train leaves at ten."}},
-    {"inf": "عذرخواهی کردن", "r": "ozr-khāhi kardan", "stem": "عذرخواهی کن", "stemR": "ozr-khāhi kon", "en": "to apologise", "cat": "talk", "level": "B1", "note": "از کسی عذرخواهی کردن = to apologise to someone", "ex": {"fa": "به خاطر دیر آمدنم عذرخواهی می‌کنم.", "r": "be khāter-e dir āmadan-am ozr-khāhi mi-konam.", "en": "I apologise for coming late."}},
-    {"inf": "تعجب کردن", "r": "ta'ajjob kardan", "stem": "تعجب کن", "stemR": "ta'ajjob kon", "en": "to be surprised", "cat": "feelings", "level": "B1", "ex": {"fa": "از دیدنش در آن‌جا تعجب کردم.", "r": "az didan-ash dar ān-jā ta'ajjob kardam.", "en": "I was surprised to see him there."}},
-    {"inf": "احساس کردن", "r": "ehsās kardan", "stem": "احساس کن", "stemR": "ehsās kon", "en": "to feel", "cat": "feelings", "level": "B1", "ex": {"fa": "احساس می‌کنم کسی مرا نگاه می‌کند.", "r": "ehsās mi-konam kas-i marā negāh mi-konad.", "en": "I feel that someone is watching me."}},
-    {"inf": "اعلام کردن", "r": "e'lām kardan", "stem": "اعلام کن", "stemR": "e'lām kon", "en": "to announce, declare", "cat": "talk", "level": "B1", "ex": {"fa": "دولت فردا را تعطیل اعلام کرد.", "r": "dowlat fardā rā ta'til e'lām kard.", "en": "The government declared tomorrow a holiday."}},
-    {"inf": "بررسی کردن", "r": "barrasi kardan", "stem": "بررسی کن", "stemR": "barrasi kon", "en": "to examine, look into", "cat": "work", "level": "B1", "ex": {"fa": "پلیس موضوع را بررسی می‌کند.", "r": "polis mowzu' rā barrasi mi-konad.", "en": "The police are looking into the matter."}},
-    {"inf": "عادت کردن", "r": "ādat kardan", "stem": "عادت کن", "stemR": "ādat kon", "en": "to get used to", "cat": "mind", "level": "B1", "note": "به … عادت کردن = to get used to …", "ex": {"fa": "کم‌کم به هوای این‌جا عادت کردم.", "r": "kam-kam be havā-ye in-jā ādat kardam.", "en": "Little by little I got used to the weather here."}},
-    {"inf": "توجه کردن", "r": "tavajjoh kardan", "stem": "توجه کن", "stemR": "tavajjoh kon", "en": "to pay attention", "cat": "mind", "level": "B1", "note": "به … توجه کردن = to pay attention to …", "ex": {"fa": "به علامت‌های راهنمایی توجه کنید.", "r": "be alāmat-hā-ye rāhnamāyi tavajjoh konid.", "en": "Pay attention to the traffic signs."}},
-    {"inf": "شرکت کردن", "r": "sherkat kardan", "stem": "شرکت کن", "stemR": "sherkat kon", "en": "to take part", "cat": "work", "level": "B1", "note": "در … شرکت کردن = to take part in …", "ex": {"fa": "در مسابقه‌ی نقاشی مدرسه شرکت کردم.", "r": "dar mosābeghe-ye naghghāshi-ye madrese sherkat kardam.", "en": "I took part in the school painting competition."}},
-    {"inf": "ترجیح دادن", "r": "tarjih dādan", "stem": "ترجیح ده", "stemR": "tarjih dah", "en": "to prefer", "cat": "mind", "level": "B1", "ex": {"fa": "ترجیح می‌دهم امشب در خانه بمانم.", "r": "tarjih mi-daham emshab dar khāne be-mānam.", "en": "I'd rather stay at home tonight."}},
-    {"inf": "پیشنهاد دادن", "r": "pishnahād dādan", "stem": "پیشنهاد ده", "stemR": "pishnahād dah", "en": "to suggest, offer", "cat": "talk", "level": "B1", "ex": {"fa": "دوستم یک رستوران خوب پیشنهاد داد.", "r": "dust-am yek resturān-e khub pishnahād dād.", "en": "My friend suggested a good restaurant."}},
-    {"inf": "گزارش دادن", "r": "gozāresh dādan", "stem": "گزارش ده", "stemR": "gozāresh dah", "en": "to report", "cat": "talk", "level": "B1", "ex": {"fa": "خبرنگار از محل حادثه گزارش داد.", "r": "khabarnegār az mahall-e hādese gozāresh dād.", "en": "The reporter reported from the scene of the accident."}},
-    {"inf": "از دست دادن", "r": "az dast dādan", "stem": "از دست ده", "stemR": "az dast dah", "en": "to lose (a person, a chance)", "cat": "give-take", "level": "B1", "ex": {"fa": "این فرصت را از دست نده!", "r": "in forsat rā az dast na-deh!", "en": "Don't miss this opportunity!"}},
-    {"inf": "وجود داشتن", "r": "vojud dāshtan", "stem": "وجود دار", "stemR": "vojud dār", "subj": "وجود داشته باش", "subjR": "vojud dāshte bāsh", "en": "to exist; there is, there are", "cat": "being", "level": "B1", "note": "no mi- in the present: وجود دارد (there is)", "ex": {"fa": "در این شهر سه دانشگاه وجود دارد.", "r": "dar in shahr se dāneshgāh vojud dārad.", "en": "There are three universities in this city."}},
-    {"inf": "انتظار داشتن", "r": "entezār dāshtan", "stem": "انتظار دار", "stemR": "entezār dār", "subj": "انتظار داشته باش", "subjR": "entezār dāshte bāsh", "en": "to expect", "cat": "mind", "level": "B1", "note": "no mi- in the present: انتظار دارم (I expect)", "ex": {"fa": "از تو چنین رفتاری انتظار نداشتم.", "r": "az to chenin raftār-i entezār na-dāshtam.", "en": "I didn't expect such behaviour from you."}},
-    {"inf": "بستگی داشتن", "r": "bastegi dāshtan", "stem": "بستگی دار", "stemR": "bastegi dār", "subj": "بستگی داشته باش", "subjR": "bastegi dāshte bāsh", "en": "to depend", "cat": "other", "level": "B1", "note": "no mi- in the present: به … بستگی دارد = it depends on …", "ex": {"fa": "به هوا بستگی دارد.", "r": "be havā bastegi dārad.", "en": "It depends on the weather."}},
-    {"inf": "متوجه شدن", "r": "motevajjeh shodan", "stem": "متوجه شو", "stemR": "motevajjeh shav", "en": "to notice; to understand", "cat": "mind", "level": "B1", "ex": {"fa": "متوجه شدی چه گفت؟", "r": "motevajjeh shodi che goft?", "en": "Did you understand what he said?"}},
-    {"inf": "موفق شدن", "r": "movaffagh shodan", "stem": "موفق شو", "stemR": "movaffagh shav", "en": "to succeed, manage to", "cat": "work", "level": "B1", "ex": {"fa": "بالاخره موفق شد گواهینامه بگیرد.", "r": "bālākhare movaffagh shod govāhināme be-girad.", "en": "She finally managed to get her driving licence."}},
-    {"inf": "باعث شدن", "r": "bā'es shodan", "stem": "باعث شو", "stemR": "bā'es shav", "en": "to cause", "cat": "other", "level": "B1", "note": "followed by the subjunctive: باعث شد بمانیم (it made us stay)", "ex": {"fa": "باران باعث شد مسابقه لغو شود.", "r": "bārān bā'es shod mosābeghe laghv shavad.", "en": "The rain caused the match to be cancelled."}},
-    {"inf": "به نظر رسیدن", "r": "be nazar residan", "stem": "به نظر رس", "stemR": "be nazar res", "en": "to seem, look", "cat": "mind", "level": "B1", "ex": {"fa": "خسته به نظر می‌رسی.", "r": "khaste be nazar mi-resi.", "en": "You look tired."}},
-    {"inf": "وارد شدن", "r": "vāred shodan", "stem": "وارد شو", "stemR": "vāred shav", "en": "to enter, come in", "cat": "motion", "level": "B1", "ex": {"fa": "مهمان‌ها وارد سالن شدند.", "r": "mehmān-hā vāred-e sālon shodand.", "en": "The guests came into the hall."}},
-    {"inf": "تغییر کردن", "r": "taghyir kardan", "stem": "تغییر کن", "stemR": "taghyir kon", "en": "to change (become different)", "cat": "change", "level": "B1", "ex": {"fa": "شهر خیلی تغییر کرده است.", "r": "shahr kheyli taghyir karde ast.", "en": "The city has changed a lot."}},
-    {"inf": "تغییر دادن", "r": "taghyir dādan", "stem": "تغییر ده", "stemR": "taghyir dah", "en": "to change (something)", "cat": "change", "level": "B1", "ex": {"fa": "برنامه‌ام را تغییر دادم.", "r": "barnāme-am rā taghyir dādam.", "en": "I changed my plans."}},
-    {"inf": "به دست آوردن", "r": "be dast āvardan", "stem": "به دست آور", "stemR": "be dast āvar", "subj": "به دست بیاور", "subjR": "be dast biyāvar", "en": "to obtain, win", "cat": "give-take", "level": "B1", "ex": {"fa": "تیم ما مدال طلا به دست آورد.", "r": "tim-e mā medāl-e talā be dast āvard.", "en": "Our team won a gold medal."}},
-    {"inf": "قبول شدن", "r": "ghabul shodan", "stem": "قبول شو", "stemR": "ghabul shav", "en": "to pass (an exam), be accepted", "cat": "work", "level": "B1", "ex": {"fa": "در امتحان رانندگی قبول شدی؟", "r": "dar emtehān-e rānandegi ghabul shodi?", "en": "Did you pass your driving test?"}},
-    {"inf": "کنار آمدن", "r": "kenār āmadan", "stem": "کنار آ", "stemR": "kenār ā", "subj": "کنار بیا", "subjR": "kenār biyā", "en": "to come to terms (with); to get along (with)", "cat": "other", "level": "B2", "note": "با … کنار آمدن", "ex": {"fa": "باید با این مشکل کنار بیاییم.", "r": "bāyad bā in moshkel kenār biyāyim.", "en": "We have to come to terms with this problem."}},
-    {"inf": "کوتاه آمدن", "r": "kutāh āmadan", "stem": "کوتاه آ", "stemR": "kutāh ā", "subj": "کوتاه بیا", "subjR": "kutāh biyā", "en": "to back down, give in", "cat": "other", "level": "B2", "ex": {"fa": "او هیچ‌وقت کوتاه نمی‌آید.", "r": "u hich-vaght kutāh nemi-āyad.", "en": "He never backs down."}},
-    {"inf": "پی بردن", "r": "pey bordan", "stem": "پی بر", "stemR": "pey bar", "en": "to realise, find out", "cat": "mind", "level": "B2", "note": "به … پی بردن = to realise …", "ex": {"fa": "کم‌کم به اشتباهم پی بردم.", "r": "kam-kam be eshtebāh-am pey bordam.", "en": "Gradually I realised my mistake."}},
-    {"inf": "در نظر گرفتن", "r": "dar nazar gereftan", "stem": "در نظر گیر", "stemR": "dar nazar gir", "en": "to take into account, consider", "cat": "mind", "level": "B2", "ex": {"fa": "همه‌ی جوانب را در نظر بگیر.", "r": "hame-ye javāneb rā dar nazar be-gir.", "en": "Take every aspect into account."}}
-  ]
+ "verbs": [
+  {
+   "inf": "بودن",
+   "r": "budan",
+   "stem": "باش",
+   "stemR": "bāsh",
+   "subj": "باش",
+   "subjR": "bāsh",
+   "en": "to be",
+   "cat": "being",
+   "level": "A1",
+   "note": "irregular: the present is هستم، هستی، است… or the short endings ـم، ـی، ـست (خوبم = I'm fine); negative نیستم; subjunctive باشم and imperative باش have no be-",
+   "ex": {
+    "fa": "دیروز کجا بودی؟",
+    "r": "diruz kojā budi?",
+    "en": "Where were you yesterday?",
+    "faV": "دیروز کُجا بودی؟",
+    "a": "9428f0698f61"
+   },
+   "infV": "بودَن",
+   "a": "05569098c3ba"
+  },
+  {
+   "inf": "داشتن",
+   "r": "dāshtan",
+   "stem": "دار",
+   "stemR": "dār",
+   "subj": "داشته باش",
+   "subjR": "dāshte bāsh",
+   "en": "to have",
+   "cat": "being",
+   "level": "A1",
+   "note": "no mi- in the present or past: دارم، داشتم (dāram, dāshtam); subjunctive داشته باشم, imperative داشته باش; دارم + present makes the progressive: دارم می‌روم (I'm going)",
+   "ex": {
+    "fa": "من دو برادر و یک خواهر دارم.",
+    "r": "man do barādar o yek khāhar dāram.",
+    "en": "I have two brothers and a sister.",
+    "faV": "مَن دو بَرادَر و یِک خواهَر دارَم.",
+    "a": "63ea652fa708"
+   },
+   "infV": "داشتَن",
+   "a": "716bbc7bcb86"
+  },
+  {
+   "inf": "شدن",
+   "r": "shodan",
+   "stem": "شو",
+   "stemR": "shav",
+   "en": "to become, get",
+   "cat": "change",
+   "level": "A1",
+   "note": "also makes the passive: ساخته شد (it was built); spoken present می‌شم (mi-sham)",
+   "ex": {
+    "fa": "هوا کم‌کم سرد شد.",
+    "r": "havā kam-kam sard shod.",
+    "en": "Little by little the weather got cold.",
+    "faV": "هَوا کَم‌کَم سَرد شُد.",
+    "a": "f3e7219c9eef"
+   },
+   "infV": "شُدَن",
+   "a": "24986452cfe8"
+  },
+  {
+   "inf": "کردن",
+   "r": "kardan",
+   "stem": "کن",
+   "stemR": "kon",
+   "pre": "bo",
+   "en": "to do, make",
+   "cat": "daily",
+   "level": "A1",
+   "note": "the commonest helper of compound verbs: کار کردن، صحبت کردن; subjunctive بکنم (bokonam)",
+   "ex": {
+    "fa": "امروز چه کار کردی؟",
+    "r": "emruz che kār kardi?",
+    "en": "What did you do today?",
+    "faV": "اِمروز چه کار کَردی؟",
+    "a": "3028208d51dc"
+   },
+   "infV": "کَردَن",
+   "a": "4effd6bb5bf6"
+  },
+  {
+   "inf": "رفتن",
+   "r": "raftan",
+   "stem": "رو",
+   "stemR": "rav",
+   "en": "to go",
+   "cat": "motion",
+   "level": "A1",
+   "note": "imperative برو is pronounced boro; spoken present می‌رم (mi-ram)",
+   "ex": {
+    "fa": "هر روز به دانشگاه می‌روم.",
+    "r": "har ruz be dāneshgāh mi-ravam.",
+    "en": "I go to university every day.",
+    "faV": "هَر روز به دانِشگاه می‌رَوَم.",
+    "a": "81f5a97cf6c1"
+   },
+   "infV": "رَفتَن",
+   "a": "896aeefbcfc5"
+  },
+  {
+   "inf": "آمدن",
+   "r": "āmadan",
+   "stem": "آ",
+   "stemR": "ā",
+   "subj": "بیا",
+   "subjR": "biyā",
+   "en": "to come",
+   "cat": "motion",
+   "level": "A1",
+   "note": "present می‌آیم (mi-āyam), subjunctive بیایم (biyāyam), imperative بیا (biyā); باران می‌آید = it's raining",
+   "ex": {
+    "fa": "کی به ایران آمدی؟",
+    "r": "key be Irān āmadi?",
+    "en": "When did you come to Iran?",
+    "faV": "کَی به ایران آمَدی؟",
+    "a": "0bfb70305c96"
+   },
+   "infV": "آمَدَن",
+   "a": "b956084a52b7"
+  },
+  {
+   "inf": "خواستن",
+   "r": "khāstan",
+   "stem": "خواه",
+   "stemR": "khāh",
+   "en": "to want",
+   "cat": "feelings",
+   "level": "A1",
+   "note": "the و is silent; followed by the subjunctive: می‌خواهم بروم (I want to go); without mi- it makes the future: خواهم رفت (I will go)",
+   "ex": {
+    "fa": "می‌خواهم فارسی یاد بگیرم.",
+    "r": "mi-khāham fārsi yād be-giram.",
+    "en": "I want to learn Persian.",
+    "faV": "می‌خواهَم فارسی یاد بِگیرَم.",
+    "a": "b9703c296f4d"
+   },
+   "infV": "خواستَن",
+   "a": "2112d69f9f58"
+  },
+  {
+   "inf": "توانستن",
+   "r": "tavānestan",
+   "stem": "توان",
+   "stemR": "tavān",
+   "en": "to be able, can",
+   "cat": "other",
+   "level": "A1",
+   "note": "followed by the subjunctive: می‌توانم بیایم (I can come)",
+   "ex": {
+    "fa": "می‌توانی فردا بیایی؟",
+    "r": "mi-tavāni fardā biyāyi?",
+    "en": "Can you come tomorrow?",
+    "faV": "می‌تَوانی فَردا بیایی؟",
+    "a": "7b221f75f8d9"
+   },
+   "infV": "تَوانِستَن",
+   "a": "569e90ad5229"
+  },
+  {
+   "inf": "دانستن",
+   "r": "dānestan",
+   "stem": "دان",
+   "stemR": "dān",
+   "en": "to know (a fact)",
+   "cat": "mind",
+   "level": "A1",
+   "note": "for knowing people and places use شناختن",
+   "ex": {
+    "fa": "نمی‌دانم کتابم کجاست.",
+    "r": "nemi-dānam ketāb-am kojā-st.",
+    "en": "I don't know where my book is.",
+    "faV": "نِمی‌دانَم کِتابَم کُجاست.",
+    "a": "77675784fc19"
+   },
+   "infV": "دانِستَن",
+   "a": "7313fe7c452e"
+  },
+  {
+   "inf": "گفتن",
+   "r": "goftan",
+   "stem": "گو",
+   "stemR": "gu",
+   "en": "to say, tell",
+   "cat": "talk",
+   "level": "A1",
+   "note": "present می‌گویم (mi-guyam), spoken می‌گم (mi-gam); imperative بگو (begu)",
+   "ex": {
+    "fa": "به او گفتم که فردا می‌آیم.",
+    "r": "be u goftam ke fardā mi-āyam.",
+    "en": "I told him I'd come tomorrow.",
+    "faV": "به او گُفتَم که فَردا می‌آیَم.",
+    "a": "dfc9eb530c2c"
+   },
+   "infV": "گُفتَن",
+   "a": "023566feb09e"
+  },
+  {
+   "inf": "دیدن",
+   "r": "didan",
+   "stem": "بین",
+   "stemR": "bin",
+   "en": "to see",
+   "cat": "body",
+   "level": "A1",
+   "note": "irregular stem: می‌بینم، ببین",
+   "ex": {
+    "fa": "دیشب یک فیلم خوب دیدم.",
+    "r": "dishab yek film-e khub didam.",
+    "en": "Last night I saw a good film.",
+    "faV": "دیشَب یِک فیلمِ خوب دیدَم.",
+    "a": "2b4a2e807e39"
+   },
+   "infV": "دیدَن",
+   "a": "f77446a25019"
+  },
+  {
+   "inf": "دادن",
+   "r": "dādan",
+   "stem": "ده",
+   "stemR": "dah",
+   "en": "to give",
+   "cat": "give-take",
+   "level": "A1",
+   "note": "imperative بده (bedeh, spoken bede); the helper of many compounds: جواب دادن، گوش دادن",
+   "ex": {
+    "fa": "لطفاً آن کتاب را به من بدهید.",
+    "r": "lotfan ān ketāb rā be man be-dahid.",
+    "en": "Please give me that book.",
+    "faV": "لُطفاً آن کِتاب را به مَن بِدَهید.",
+    "a": "8f0a59bb646c"
+   },
+   "infV": "دادَن",
+   "a": "61cc1fe7b8d6"
+  },
+  {
+   "inf": "گرفتن",
+   "r": "gereftan",
+   "stem": "گیر",
+   "stemR": "gir",
+   "en": "to take, get",
+   "cat": "give-take",
+   "level": "A1",
+   "note": "irregular stem: می‌گیرم، بگیر",
+   "ex": {
+    "fa": "از کتابخانه دو کتاب گرفتم.",
+    "r": "az ketābkhāne do ketāb gereftam.",
+    "en": "I got two books from the library.",
+    "faV": "اَز کِتابخانه دو کِتاب گِرِفتَم.",
+    "a": "375803d2b982"
+   },
+   "infV": "گِرِفتَن",
+   "a": "85b1da2ee749"
+  },
+  {
+   "inf": "خوردن",
+   "r": "khordan",
+   "stem": "خور",
+   "stemR": "khor",
+   "pre": "bo",
+   "en": "to eat; to drink",
+   "cat": "food",
+   "level": "A1",
+   "note": "used for drinks too: چای خوردن; imperative بخور (bokhor)",
+   "ex": {
+    "fa": "صبحانه نان و پنیر می‌خوریم.",
+    "r": "sobhāne nān o panir mi-khorim.",
+    "en": "We have bread and cheese for breakfast.",
+    "faV": "صُبحانه نان و پَنیر می‌خوریم.",
+    "a": "142b9a3413dc"
+   },
+   "infV": "خوردَن",
+   "a": "bfeb0a9e4b76"
+  },
+  {
+   "inf": "نوشیدن",
+   "r": "nushidan",
+   "stem": "نوش",
+   "stemR": "nush",
+   "en": "to drink",
+   "cat": "food",
+   "level": "A1",
+   "note": "a little formal; in speech خوردن is more usual",
+   "ex": {
+    "fa": "یک لیوان آب بنوش.",
+    "r": "yek livān āb be-nush.",
+    "en": "Drink a glass of water.",
+    "faV": "یِک لیوان آب بِنوش.",
+    "a": "3a9eb21f7153"
+   },
+   "infV": "نوشیدَن",
+   "a": "67c69c8317a2"
+  },
+  {
+   "inf": "خوابیدن",
+   "r": "khābidan",
+   "stem": "خواب",
+   "stemR": "khāb",
+   "en": "to sleep, go to bed",
+   "cat": "daily",
+   "level": "A1",
+   "ex": {
+    "fa": "شب‌ها ساعت یازده می‌خوابم.",
+    "r": "shab-hā sā'at-e yāzdah mi-khābam.",
+    "en": "At night I go to bed at eleven.",
+    "faV": "شَب‌ها ساعَتِ یازدَه می‌خوابَم.",
+    "a": "1424cbbe6c20"
+   },
+   "infV": "خوابیدَن",
+   "a": "55bf26410c75"
+  },
+  {
+   "inf": "نشستن",
+   "r": "neshastan",
+   "stem": "نشین",
+   "stemR": "neshin",
+   "en": "to sit (down)",
+   "cat": "body",
+   "level": "A1",
+   "note": "irregular stem: می‌نشینم، بنشین",
+   "ex": {
+    "fa": "بفرمایید، این‌جا بنشینید.",
+    "r": "be-farmāyid, in-jā be-neshinid.",
+    "en": "Please, sit here.",
+    "faV": "بِفَرمایید، این‌جا بِنِشینید.",
+    "a": "a3daeada2093"
+   },
+   "infV": "نِشَستَن",
+   "a": "8600d789726d"
+  },
+  {
+   "inf": "خواندن",
+   "r": "khāndan",
+   "stem": "خوان",
+   "stemR": "khān",
+   "en": "to read; to sing; to study",
+   "cat": "talk",
+   "level": "A1",
+   "note": "the و is silent; spoken stem خون (khun): می‌خونم",
+   "ex": {
+    "fa": "هر شب قبل از خواب کتاب می‌خوانم.",
+    "r": "har shab ghabl az khāb ketāb mi-khānam.",
+    "en": "Every night I read before I go to sleep.",
+    "faV": "هَر شَب قَبل اَز خواب کِتاب می‌خوانَم.",
+    "a": "9d23b85e0ae8"
+   },
+   "infV": "خواندَن",
+   "a": "8bb897d814dc"
+  },
+  {
+   "inf": "نوشتن",
+   "r": "neveshtan",
+   "stem": "نویس",
+   "stemR": "nevis",
+   "en": "to write",
+   "cat": "talk",
+   "level": "A1",
+   "ex": {
+    "fa": "اسمت را این‌جا بنویس.",
+    "r": "esm-at rā in-jā be-nevis.",
+    "en": "Write your name here.",
+    "faV": "اِسمَت را این‌جا بِنِویس.",
+    "a": "b39f98674947"
+   },
+   "infV": "نِوِشتَن",
+   "a": "1f97437d5c3f"
+  },
+  {
+   "inf": "خریدن",
+   "r": "kharidan",
+   "stem": "خر",
+   "stemR": "khar",
+   "en": "to buy",
+   "cat": "buy",
+   "level": "A1",
+   "ex": {
+    "fa": "دیروز یک کیف تازه خریدم.",
+    "r": "diruz yek kif-e tāze kharidam.",
+    "en": "Yesterday I bought a new bag.",
+    "faV": "دیروز یِک کیفِ تازه خَریدَم.",
+    "a": "78cf17a9b89a"
+   },
+   "infV": "خَریدَن",
+   "a": "4aab98bae182"
+  },
+  {
+   "inf": "زدن",
+   "r": "zadan",
+   "stem": "زن",
+   "stemR": "zan",
+   "en": "to hit, strike; to play (an instrument)",
+   "cat": "other",
+   "level": "A1",
+   "note": "the helper of many compounds: حرف زدن، زنگ زدن",
+   "ex": {
+    "fa": "کسی در می‌زند.",
+    "r": "kas-i dar mi-zanad.",
+    "en": "Someone is knocking at the door.",
+    "faV": "کَسی دَر می‌زَنَد.",
+    "a": "e298c13567d8"
+   },
+   "infV": "زَدَن",
+   "a": "7337f7598091"
+  },
+  {
+   "inf": "پرسیدن",
+   "r": "porsidan",
+   "stem": "پرس",
+   "stemR": "pors",
+   "en": "to ask",
+   "cat": "talk",
+   "level": "A1",
+   "ex": {
+    "fa": "می‌توانم یک سؤال بپرسم؟",
+    "r": "mi-tavānam yek so'āl be-porsam?",
+    "en": "May I ask a question?",
+    "faV": "می‌تَوانَم یِک سُؤال بِپُرسَم؟",
+    "a": "df839bfe856f"
+   },
+   "infV": "پُرسیدَن",
+   "a": "b4d4c2f0a0be"
+  },
+  {
+   "inf": "آوردن",
+   "r": "āvardan",
+   "stem": "آور",
+   "stemR": "āvar",
+   "subj": "بیاور",
+   "subjR": "biyāvar",
+   "en": "to bring",
+   "cat": "give-take",
+   "level": "A1",
+   "note": "subjunctive بیاورم, imperative بیاور (spoken بیار, biyār); often pronounced āvordan",
+   "ex": {
+    "fa": "فردا عکس‌هایت را بیاور.",
+    "r": "fardā aks-hā-yat rā biyāvar.",
+    "en": "Bring your photos tomorrow.",
+    "faV": "فَردا عَکس‌هایَت را بیاوَر.",
+    "a": "be85d4fb4ee7"
+   },
+   "infV": "آوَردَن",
+   "a": "c8733522d54e"
+  },
+  {
+   "inf": "بردن",
+   "r": "bordan",
+   "stem": "بر",
+   "stemR": "bar",
+   "en": "to take (away), carry; to win",
+   "cat": "give-take",
+   "level": "A1",
+   "ex": {
+    "fa": "بچه‌ها را به پارک بردم.",
+    "r": "bacche-hā rā be pārk bordam.",
+    "en": "I took the children to the park.",
+    "faV": "بَچّه‌ها را به پارک بُردَم.",
+    "a": "abb34cfdf163"
+   },
+   "infV": "بُردَن",
+   "a": "8987533d5bfa"
+  },
+  {
+   "inf": "گذاشتن",
+   "r": "gozāshtan",
+   "stem": "گذار",
+   "stemR": "gozār",
+   "en": "to put, place; to let",
+   "cat": "give-take",
+   "level": "A1",
+   "note": "بگذار + subjunctive = let …: بگذار ببینم (let me see)",
+   "ex": {
+    "fa": "کلید را روی میز گذاشتم.",
+    "r": "kelid rā ru-ye miz gozāshtam.",
+    "en": "I put the key on the table.",
+    "faV": "کِلید را رویِ میز گُذاشتَم.",
+    "a": "9141995fa991"
+   },
+   "infV": "گُذاشتَن",
+   "a": "a67b6f6d10bd"
+  },
+  {
+   "inf": "رسیدن",
+   "r": "residan",
+   "stem": "رس",
+   "stemR": "res",
+   "en": "to arrive, reach",
+   "cat": "motion",
+   "level": "A1",
+   "note": "به … رسیدن = to reach …",
+   "ex": {
+    "fa": "قطار ساعت هشت به تهران می‌رسد.",
+    "r": "ghatār sā'at-e hasht be Tehrān mi-resad.",
+    "en": "The train arrives in Tehran at eight.",
+    "faV": "قَطار ساعَتِ هَشت به تِهران می‌رِسَد.",
+    "a": "b475aa20ea6e"
+   },
+   "infV": "رِسیدَن",
+   "a": "8cd9550163e3"
+  },
+  {
+   "inf": "شناختن",
+   "r": "shenākhtan",
+   "stem": "شناس",
+   "stemR": "shenās",
+   "en": "to know (a person or place), recognise",
+   "cat": "mind",
+   "level": "A1",
+   "ex": {
+    "fa": "او را می‌شناسی؟",
+    "r": "u rā mi-shenāsi?",
+    "en": "Do you know her?",
+    "faV": "او را می‌شِناسی؟",
+    "a": "68c39434a84f"
+   },
+   "infV": "شِناختَن",
+   "a": "c831a6efab49"
+  },
+  {
+   "inf": "فهمیدن",
+   "r": "fahmidan",
+   "stem": "فهم",
+   "stemR": "fahm",
+   "en": "to understand",
+   "cat": "mind",
+   "level": "A1",
+   "ex": {
+    "fa": "ببخشید، نفهمیدم چه گفتید.",
+    "r": "be-bakhshid, na-fahmidam che goftid.",
+    "en": "Sorry, I didn't understand what you said.",
+    "faV": "بِبَخشید، نَفَهمیدَم چه گُفتید.",
+    "a": "479c9547ab6e"
+   },
+   "infV": "فَهمیدَن",
+   "a": "f8119c70160b"
+  },
+  {
+   "inf": "ماندن",
+   "r": "māndan",
+   "stem": "مان",
+   "stemR": "mān",
+   "en": "to stay, remain",
+   "cat": "being",
+   "level": "A1",
+   "ex": {
+    "fa": "دو هفته در شیراز ماندیم.",
+    "r": "do hafte dar Shirāz māndim.",
+    "en": "We stayed in Shiraz for two weeks.",
+    "faV": "دو هَفته دَر شیراز ماندیم.",
+    "a": "4d269b2896ac"
+   },
+   "infV": "ماندَن",
+   "a": "a0404d8d94cd"
+  },
+  {
+   "inf": "برگشتن",
+   "r": "bargashtan",
+   "stem": "برگرد",
+   "stemR": "bargard",
+   "subj": "برگرد",
+   "subjR": "bargard",
+   "en": "to come back, return",
+   "cat": "motion",
+   "level": "A1",
+   "note": "prefix verb: mi- goes after بر – برمی‌گردم، برنمی‌گردم (bar-mi-gardam); subjunctive and imperative have no be-: برگردم، برگرد",
+   "ex": {
+    "fa": "کی از سفر برمی‌گردی؟",
+    "r": "key az safar bar-mi-gardi?",
+    "en": "When are you coming back from your trip?",
+    "faV": "کَی اَز سَفَر بَرمی‌گَردی؟",
+    "a": "5d55d6fa4584"
+   },
+   "infV": "بَرگَشتَن",
+   "a": "ee208679bee8"
+  },
+  {
+   "inf": "ایستادن",
+   "r": "istādan",
+   "stem": "ایست",
+   "stemR": "ist",
+   "subj": "بایست",
+   "subjR": "bāyest",
+   "en": "to stand; to stop",
+   "cat": "body",
+   "level": "A1",
+   "note": "subjunctive بایستم (bāyestam), imperative بایست! (stop!)",
+   "ex": {
+    "fa": "لطفاً سر کوچه بایستید.",
+    "r": "lotfan sar-e kuche bāyestid.",
+    "en": "Please stop at the end of the lane.",
+    "faV": "لُطفاً سَرِ کوچه بایِستید.",
+    "a": "114102994869"
+   },
+   "infV": "ایستادَن",
+   "a": "c0c1c8f1e56b"
+  },
+  {
+   "inf": "پوشیدن",
+   "r": "pushidan",
+   "stem": "پوش",
+   "stemR": "push",
+   "en": "to put on, wear",
+   "cat": "daily",
+   "level": "A1",
+   "ex": {
+    "fa": "هوا سرد است، کاپشنت را بپوش.",
+    "r": "havā sard ast, kāpshan-at rā be-push.",
+    "en": "It's cold – put your jacket on.",
+    "faV": "هَوا سَرد اَست، کاپشَنَت را بِپوش.",
+    "a": "819f2028f2e8"
+   },
+   "infV": "پوشیدَن",
+   "a": "c74ff04c6412"
+  },
+  {
+   "inf": "پختن",
+   "r": "pokhtan",
+   "stem": "پز",
+   "stemR": "paz",
+   "en": "to cook",
+   "cat": "food",
+   "level": "A1",
+   "ex": {
+    "fa": "مادرم بهترین قورمه‌سبزی دنیا را می‌پزد.",
+    "r": "mādar-am behtarin ghorme-sabzi-ye donyā rā mi-pazad.",
+    "en": "My mother cooks the best ghormeh sabzi in the world.",
+    "faV": "مادَرَم بِهتَرین قورمه‌سَبزیِ دُنیا را می‌پَزَد.",
+    "a": "65c382762f7a"
+   },
+   "infV": "پُختَن",
+   "a": "6cd2fd8f66a5"
+  },
+  {
+   "inf": "باریدن",
+   "r": "bāridan",
+   "stem": "بار",
+   "stemR": "bār",
+   "en": "to rain, snow (to fall, of rain or snow)",
+   "cat": "other",
+   "level": "A1",
+   "note": "باران می‌بارد = it's raining; in speech usually باران می‌آید",
+   "ex": {
+    "fa": "دیشب در تهران برف بارید.",
+    "r": "dishab dar Tehrān barf bārid.",
+    "en": "Last night it snowed in Tehran.",
+    "faV": "دیشَب دَر تِهران بَرف بارید.",
+    "a": "61d2f22da66e"
+   },
+   "infV": "باریدَن",
+   "a": "b79b3c2b2aa5"
+  },
+  {
+   "inf": "پیچیدن",
+   "r": "pichidan",
+   "stem": "پیچ",
+   "stemR": "pich",
+   "en": "to turn (a corner); to twist, wrap",
+   "cat": "motion",
+   "level": "A1",
+   "ex": {
+    "fa": "سر چهارراه به چپ بپیچید.",
+    "r": "sar-e chahār-rāh be chap be-pichid.",
+    "en": "Turn left at the crossroads.",
+    "faV": "سَرِ چَهارراه به چَپ بِپیچید.",
+    "a": "21f04933ea99"
+   },
+   "infV": "پیچیدَن",
+   "a": "77223e079be4"
+  },
+  {
+   "inf": "فرمودن",
+   "r": "farmudan",
+   "stem": "فرما",
+   "stemR": "farmā",
+   "en": "to command; (polite) to say, come, do",
+   "cat": "talk",
+   "level": "A1",
+   "note": "used for other people out of respect: بفرمایید (please – come in, sit down, help yourself), چه فرمودید؟ (what did you say?)",
+   "ex": {
+    "fa": "بفرمایید چای، تازه دم است.",
+    "r": "be-farmāyid chāy, tāze dam ast.",
+    "en": "Please have some tea – it's freshly brewed.",
+    "faV": "بِفَرمایید چای، تازه دَم اَست.",
+    "a": "b1ee66c61371"
+   },
+   "infV": "فَرمودَن",
+   "a": "973db11744ab"
+  },
+  {
+   "inf": "بخشیدن",
+   "r": "bakhshidan",
+   "stem": "بخش",
+   "stemR": "bakhsh",
+   "en": "to forgive; to give away",
+   "cat": "talk",
+   "level": "A1",
+   "note": "ببخشید = excuse me; sorry",
+   "ex": {
+    "fa": "ببخشید، ایستگاه مترو کجاست؟",
+    "r": "be-bakhshid, istgāh-e metro kojā-st?",
+    "en": "Excuse me, where is the metro station?",
+    "faV": "بِبَخشید، ایستگاهِ مِترو کُجاست؟",
+    "a": "4a5fc0e9d808"
+   },
+   "infV": "بَخشیدَن",
+   "a": "93c2f1c6dd6d"
+  },
+  {
+   "inf": "شنیدن",
+   "r": "shenidan",
+   "stem": "شنو",
+   "stemR": "shenav",
+   "en": "to hear",
+   "cat": "body",
+   "level": "A1",
+   "ex": {
+    "fa": "صدای باران را می‌شنوی؟",
+    "r": "sedā-ye bārān rā mi-shenavi?",
+    "en": "Can you hear the rain?",
+    "faV": "صِدایِ باران را می‌شِنَوی؟",
+    "a": "689bc0d739d4"
+   },
+   "infV": "شِنیدَن",
+   "a": "665d52a6f0db"
+  },
+  {
+   "inf": "شستن",
+   "r": "shostan",
+   "stem": "شوی",
+   "stemR": "shuy",
+   "en": "to wash",
+   "cat": "home",
+   "level": "A2",
+   "note": "written present می‌شویم (mi-shuyam); spoken می‌شورم (mi-shuram)",
+   "ex": {
+    "fa": "بعد از شام ظرف‌ها را شستیم.",
+    "r": "ba'd az shām zarf-hā rā shostim.",
+    "en": "After dinner we washed the dishes.",
+    "faV": "بَعد اَز شام ظَرف‌ها را شُستیم.",
+    "a": "775b66167cc1"
+   },
+   "infV": "شُستَن",
+   "a": "1b3ddc8dbc62"
+  },
+  {
+   "inf": "فروختن",
+   "r": "forukhtan",
+   "stem": "فروش",
+   "stemR": "forush",
+   "en": "to sell",
+   "cat": "buy",
+   "level": "A2",
+   "ex": {
+    "fa": "ماشینش را ارزان فروخت.",
+    "r": "māshin-ash rā arzān forukht.",
+    "en": "He sold his car cheaply.",
+    "faV": "ماشینَش را اَرزان فُروخت.",
+    "a": "157da2507629"
+   },
+   "infV": "فُروختَن",
+   "a": "dfb8a68ddd4f"
+  },
+  {
+   "inf": "دویدن",
+   "r": "davidan",
+   "stem": "دو",
+   "stemR": "dav",
+   "en": "to run",
+   "cat": "motion",
+   "level": "A2",
+   "ex": {
+    "fa": "هر صبح در پارک می‌دوم.",
+    "r": "har sobh dar pārk mi-davam.",
+    "en": "Every morning I run in the park.",
+    "faV": "هَر صُبح دَر پارک می‌دَوَم.",
+    "a": "c0f1871a441a"
+   },
+   "infV": "دَویدَن",
+   "a": "f29d64d6e5e1"
+  },
+  {
+   "inf": "افتادن",
+   "r": "oftādan",
+   "stem": "افت",
+   "stemR": "oft",
+   "subj": "بیفت",
+   "subjR": "biyoft",
+   "en": "to fall",
+   "cat": "motion",
+   "level": "A2",
+   "note": "subjunctive بیفتم (biyoftam), negative نیفتم (na-yoftam)",
+   "ex": {
+    "fa": "مواظب باش، نیفتی!",
+    "r": "movāzeb bāsh, na-yofti!",
+    "en": "Careful, don't fall!",
+    "faV": "مُواظِب باش، نَیُفتی!",
+    "a": "f6a2f649306f"
+   },
+   "infV": "اُفتادَن",
+   "a": "4f1826ccfe08"
+  },
+  {
+   "inf": "انداختن",
+   "r": "andākhtan",
+   "stem": "انداز",
+   "stemR": "andāz",
+   "subj": "بینداز",
+   "subjR": "biyandāz",
+   "en": "to throw, drop",
+   "cat": "give-take",
+   "level": "A2",
+   "note": "subjunctive بیندازم (biyandāzam), negative نینداز",
+   "ex": {
+    "fa": "توپ را به من بینداز.",
+    "r": "tup rā be man biyandāz.",
+    "en": "Throw me the ball.",
+    "faV": "توپ را به مَن بیَنداز.",
+    "a": "f5019a00488d"
+   },
+   "infV": "اَنداختَن",
+   "a": "3a8a2a946f64"
+  },
+  {
+   "inf": "ساختن",
+   "r": "sākhtan",
+   "stem": "ساز",
+   "stemR": "sāz",
+   "en": "to build, make",
+   "cat": "work",
+   "level": "A2",
+   "ex": {
+    "fa": "این پل را چهارصد سال پیش ساختند.",
+    "r": "in pol rā chahārsad sāl pish sākhtand.",
+    "en": "They built this bridge four hundred years ago.",
+    "faV": "این پُل را چَهارصَد سال پیش ساختَند.",
+    "a": "6f202d534fa5"
+   },
+   "infV": "ساختَن",
+   "a": "b477c4ea3aff"
+  },
+  {
+   "inf": "شکستن",
+   "r": "shekastan",
+   "stem": "شکن",
+   "stemR": "shekan",
+   "en": "to break",
+   "cat": "change",
+   "level": "A2",
+   "ex": {
+    "fa": "لیوان از دستم افتاد و شکست.",
+    "r": "livān az dast-am oftād o shekast.",
+    "en": "The glass fell from my hand and broke.",
+    "faV": "لیوان اَز دَستَم اُفتاد و شِکَست.",
+    "a": "2fbdba24ebea"
+   },
+   "infV": "شِکَستَن",
+   "a": "0decfae2b94c"
+  },
+  {
+   "inf": "بستن",
+   "r": "bastan",
+   "stem": "بند",
+   "stemR": "band",
+   "en": "to close, shut; to tie",
+   "cat": "home",
+   "level": "A2",
+   "ex": {
+    "fa": "لطفاً پنجره را ببند.",
+    "r": "lotfan panjare rā be-band.",
+    "en": "Please close the window.",
+    "faV": "لُطفاً پَنجَره را بِبَند.",
+    "a": "518f515409c0"
+   },
+   "infV": "بَستَن",
+   "a": "d907cc6ee73b"
+  },
+  {
+   "inf": "کشیدن",
+   "r": "keshidan",
+   "stem": "کش",
+   "stemR": "kesh",
+   "en": "to pull; to draw; to smoke",
+   "cat": "other",
+   "level": "A2",
+   "ex": {
+    "fa": "بچه‌ها روی کاغذ یک خانه کشیدند.",
+    "r": "bacche-hā ru-ye kāghaz yek khāne keshidand.",
+    "en": "The children drew a house on the paper.",
+    "faV": "بَچّه‌ها رویِ کاغَذ یِک خانه کِشیدَند.",
+    "a": "10e073f063b5"
+   },
+   "infV": "کِشیدَن",
+   "a": "d341ddb06387"
+  },
+  {
+   "inf": "فرستادن",
+   "r": "ferestādan",
+   "stem": "فرست",
+   "stemR": "ferest",
+   "en": "to send",
+   "cat": "give-take",
+   "level": "A2",
+   "ex": {
+    "fa": "عکس‌ها را برایت فرستادم.",
+    "r": "aks-hā rā barā-yat ferestādam.",
+    "en": "I've sent you the photos.",
+    "faV": "عَکس‌ها را بَرایَت فِرِستادَم.",
+    "a": "1284359de276"
+   },
+   "infV": "فِرِستادَن",
+   "a": "d0e62b790773"
+  },
+  {
+   "inf": "خندیدن",
+   "r": "khandidan",
+   "stem": "خند",
+   "stemR": "khand",
+   "en": "to laugh",
+   "cat": "feelings",
+   "level": "A2",
+   "ex": {
+    "fa": "همه به شوخی‌اش خندیدند.",
+    "r": "hame be shukhi-ash khandidand.",
+    "en": "Everyone laughed at his joke.",
+    "faV": "هَمه به شوخی‌اَش خَندیدَند.",
+    "a": "da5e40a39e92"
+   },
+   "infV": "خَندیدَن",
+   "a": "6456af638563"
+  },
+  {
+   "inf": "ترسیدن",
+   "r": "tarsidan",
+   "stem": "ترس",
+   "stemR": "tars",
+   "en": "to be afraid",
+   "cat": "feelings",
+   "level": "A2",
+   "note": "از … ترسیدن = to be afraid of …",
+   "ex": {
+    "fa": "از سگ می‌ترسی؟",
+    "r": "az sag mi-tarsi?",
+    "en": "Are you afraid of dogs?",
+    "faV": "اَز سَگ می‌تَرسی؟",
+    "a": "60ea31a65a20"
+   },
+   "infV": "تَرسیدَن",
+   "a": "7b13be1e7387"
+  },
+  {
+   "inf": "پریدن",
+   "r": "paridan",
+   "stem": "پر",
+   "stemR": "par",
+   "en": "to jump; to fly",
+   "cat": "motion",
+   "level": "A2",
+   "ex": {
+    "fa": "گربه از روی دیوار پرید.",
+    "r": "gorbe az ru-ye divār parid.",
+    "en": "The cat jumped off the wall.",
+    "faV": "گُربه اَز رویِ دیوار پَرید.",
+    "a": "3be33c0fa39b"
+   },
+   "infV": "پَریدَن",
+   "a": "b2b02014a460"
+  },
+  {
+   "inf": "گذشتن",
+   "r": "gozashtan",
+   "stem": "گذر",
+   "stemR": "gozar",
+   "en": "to pass, go by; to cross",
+   "cat": "motion",
+   "level": "A2",
+   "note": "don't confuse with گذاشتن (to put): گذشت = it passed, گذاشت = he put",
+   "ex": {
+    "fa": "یک سال از آن روز گذشت.",
+    "r": "yek sāl az ān ruz gozasht.",
+    "en": "A year has passed since that day.",
+    "faV": "یِک سال اَز آن روز گُذَشت.",
+    "a": "dab56b55d24c"
+   },
+   "infV": "گُذَشتَن",
+   "a": "695d56d4018e"
+  },
+  {
+   "inf": "ریختن",
+   "r": "rikhtan",
+   "stem": "ریز",
+   "stemR": "riz",
+   "en": "to pour; to spill",
+   "cat": "home",
+   "level": "A2",
+   "ex": {
+    "fa": "چای را در استکان ریخت.",
+    "r": "chāy rā dar estekān rikht.",
+    "en": "She poured the tea into the glass.",
+    "faV": "چای را دَر اِستِکان ریخت.",
+    "a": "d3bc36472457"
+   },
+   "infV": "ریختَن",
+   "a": "dd90bcc51735"
+  },
+  {
+   "inf": "بریدن",
+   "r": "boridan",
+   "stem": "بر",
+   "stemR": "bor",
+   "en": "to cut",
+   "cat": "home",
+   "level": "A2",
+   "ex": {
+    "fa": "نان را با چاقو برید.",
+    "r": "nān rā bā chāghu borid.",
+    "en": "He cut the bread with a knife.",
+    "faV": "نان را با چاقو بُرید.",
+    "a": "2b7fc9e492ca"
+   },
+   "infV": "بُریدَن",
+   "a": "ee1410c625d8"
+  },
+  {
+   "inf": "رقصیدن",
+   "r": "raghsidan",
+   "stem": "رقص",
+   "stemR": "raghs",
+   "en": "to dance",
+   "cat": "body",
+   "level": "A2",
+   "ex": {
+    "fa": "در عروسی تا نیمه‌شب رقصیدیم.",
+    "r": "dar arusi tā nime-shab raghsidim.",
+    "en": "We danced till midnight at the wedding.",
+    "faV": "دَر عَروسی تا نیمه‌شَب رَقصیدیم.",
+    "a": "3da456a453a2"
+   },
+   "infV": "رَقصیدَن",
+   "a": "48d424873a7e"
+  },
+  {
+   "inf": "بوسیدن",
+   "r": "busidan",
+   "stem": "بوس",
+   "stemR": "bus",
+   "en": "to kiss",
+   "cat": "feelings",
+   "level": "A2",
+   "ex": {
+    "fa": "مادربزرگ صورت نوه‌اش را بوسید.",
+    "r": "mādar-bozorg surat-e nave-ash rā busid.",
+    "en": "Grandma kissed her grandchild's cheek.",
+    "faV": "مادَربُزُرگ صورَتِ نَوه‌اَش را بوسید.",
+    "a": "8d38b0884128"
+   },
+   "infV": "بوسیدَن",
+   "a": "2a5848bd840f"
+  },
+  {
+   "inf": "گشتن",
+   "r": "gashtan",
+   "stem": "گرد",
+   "stemR": "gard",
+   "en": "to wander, go around; to search",
+   "cat": "motion",
+   "level": "A2",
+   "note": "دنبال … گشتن = to look for …",
+   "ex": {
+    "fa": "همه‌جا دنبال کلیدم گشتم.",
+    "r": "hame-jā donbāl-e kelid-am gashtam.",
+    "en": "I looked everywhere for my key.",
+    "faV": "هَمه‌جا دُنبالِ کِلیدَم گَشتَم.",
+    "a": "9c2045d83c9d"
+   },
+   "infV": "گَشتَن",
+   "a": "49bcec6e2fb9"
+  },
+  {
+   "inf": "شمردن",
+   "r": "shemordan",
+   "stem": "شمار",
+   "stemR": "shomār",
+   "en": "to count",
+   "cat": "mind",
+   "level": "A2",
+   "ex": {
+    "fa": "پول‌ها را دوباره بشمار.",
+    "r": "pul-hā rā dobāre be-shomār.",
+    "en": "Count the money again.",
+    "faV": "پول‌ها را دوباره بِشُمار.",
+    "a": "f074b5752043"
+   },
+   "infV": "شِمُردَن",
+   "a": "747eb698721b"
+  },
+  {
+   "inf": "باختن",
+   "r": "bākhtan",
+   "stem": "باز",
+   "stemR": "bāz",
+   "en": "to lose (a game, a bet)",
+   "cat": "other",
+   "level": "A2",
+   "note": "the opposite is بردن (to win)",
+   "ex": {
+    "fa": "تیم ما دیشب باخت.",
+    "r": "tim-e mā dishab bākht.",
+    "en": "Our team lost last night.",
+    "faV": "تیمِ ما دیشَب باخت.",
+    "a": "de18c56a6d1b"
+   },
+   "infV": "باختَن",
+   "a": "499c5a4f0817"
+  },
+  {
+   "inf": "برداشتن",
+   "r": "bardāshtan",
+   "stem": "بردار",
+   "stemR": "bardār",
+   "subj": "بردار",
+   "subjR": "bardār",
+   "en": "to pick up, take",
+   "cat": "give-take",
+   "level": "A2",
+   "note": "prefix verb: mi- goes after بر – برمی‌دارم (bar-mi-dāram); subjunctive and imperative have no be-: بردارم، بردار",
+   "ex": {
+    "fa": "کتابت را از روی میز بردار.",
+    "r": "ketāb-at rā az ru-ye miz bardār.",
+    "en": "Pick your book up off the table.",
+    "faV": "کِتابَت را اَز رویِ میز بَردار.",
+    "a": "a7ac355d0694"
+   },
+   "infV": "بَرداشتَن",
+   "a": "b55ba86f112c"
+  },
+  {
+   "inf": "مردن",
+   "r": "mordan",
+   "stem": "میر",
+   "stemR": "mir",
+   "en": "to die",
+   "cat": "being",
+   "level": "A2",
+   "note": "for people, more politely: فوت کردن or درگذشتن",
+   "ex": {
+    "fa": "گل‌ها از بی‌آبی مردند.",
+    "r": "gol-hā az bi-ābi mordand.",
+    "en": "The flowers died for lack of water.",
+    "faV": "گُل‌ها اَز بی‌آبی مُردَند.",
+    "a": "259f8648c86d"
+   },
+   "infV": "مُردَن",
+   "a": "63003be5dc3c"
+  },
+  {
+   "inf": "سوختن",
+   "r": "sukhtan",
+   "stem": "سوز",
+   "stemR": "suz",
+   "en": "to burn",
+   "cat": "change",
+   "level": "A2",
+   "ex": {
+    "fa": "دستم به اجاق خورد و سوخت.",
+    "r": "dast-am be ojāgh khord o sukht.",
+    "en": "My hand touched the stove and got burnt.",
+    "faV": "دَستَم به اُجاق خورد و سوخت.",
+    "a": "29dc9c2096ea"
+   },
+   "infV": "سوختَن",
+   "a": "984cb5ee828f"
+  },
+  {
+   "inf": "کشتن",
+   "r": "koshtan",
+   "stem": "کش",
+   "stemR": "kosh",
+   "pre": "bo",
+   "en": "to kill",
+   "cat": "other",
+   "level": "B1",
+   "note": "its stem is spelled like that of کشیدن but said kosh: می‌کشد is mi-koshad (kills) or mi-keshad (pulls)",
+   "ex": {
+    "fa": "یک پشه را کشتم.",
+    "r": "yek pashe rā koshtam.",
+    "en": "I killed a mosquito.",
+    "faV": "یِک پَشه را کُشتَم.",
+    "a": "2498dcc631c8"
+   },
+   "infV": "کُشتَن",
+   "a": "b94bcb6aefc6"
+  },
+  {
+   "inf": "یافتن",
+   "r": "yāftan",
+   "stem": "یاب",
+   "stemR": "yāb",
+   "en": "to find",
+   "cat": "other",
+   "level": "B1",
+   "note": "formal; in speech پیدا کردن",
+   "ex": {
+    "fa": "پلیس ماشین دزدیده‌شده را یافت.",
+    "r": "polis māshin-e dozdide-shode rā yāft.",
+    "en": "The police found the stolen car.",
+    "faV": "پُلیس ماشینِ دُزدیده‌شُده را یافت.",
+    "a": "39ad29d1c7ff"
+   },
+   "infV": "یافتَن",
+   "a": "5703428eb370"
+  },
+  {
+   "inf": "پذیرفتن",
+   "r": "paziroftan",
+   "stem": "پذیر",
+   "stemR": "pazir",
+   "en": "to accept; to admit",
+   "cat": "mind",
+   "level": "B1",
+   "note": "formal; in speech قبول کردن",
+   "ex": {
+    "fa": "پیشنهاد ما را پذیرفتند.",
+    "r": "pishnahād-e mā rā paziroftand.",
+    "en": "They accepted our offer.",
+    "faV": "پیشنَهادِ ما را پَذیرُفتَند.",
+    "a": "2288f69ef385"
+   },
+   "infV": "پَذیرُفتَن",
+   "a": "f78860021ea4"
+  },
+  {
+   "inf": "آموختن",
+   "r": "āmukhtan",
+   "stem": "آموز",
+   "stemR": "āmuz",
+   "subj": "بیاموز",
+   "subjR": "biyāmuz",
+   "en": "to learn; to teach",
+   "cat": "mind",
+   "level": "B1",
+   "note": "formal; in speech یاد گرفتن (to learn) and یاد دادن (to teach)",
+   "ex": {
+    "fa": "از پدرم صبر آموختم.",
+    "r": "az pedar-am sabr āmukhtam.",
+    "en": "I learned patience from my father.",
+    "faV": "اَز پِدَرَم صَبر آموختَم.",
+    "a": "9c00ed5247eb"
+   },
+   "infV": "آموختَن",
+   "a": "f0a87ed555b9"
+  },
+  {
+   "inf": "پرداختن",
+   "r": "pardākhtan",
+   "stem": "پرداز",
+   "stemR": "pardāz",
+   "en": "to pay; to deal with",
+   "cat": "buy",
+   "level": "B1",
+   "note": "به … پرداختن = to deal with, devote oneself to …",
+   "ex": {
+    "fa": "هزینه‌ی سفر را خودم پرداختم.",
+    "r": "hazine-ye safar rā khod-am pardākhtam.",
+    "en": "I paid for the trip myself.",
+    "faV": "هَزینه‌یِ سَفَر را خودَم پَرداختَم.",
+    "a": "80cfac0d6e3f"
+   },
+   "infV": "پَرداختَن",
+   "a": "8e3b1f93a7a4"
+  },
+  {
+   "inf": "رساندن",
+   "r": "resāndan",
+   "stem": "رسان",
+   "stemR": "resān",
+   "en": "to deliver; to give someone a lift",
+   "cat": "motion",
+   "level": "B1",
+   "note": "the causative of رسیدن (to make arrive)",
+   "ex": {
+    "fa": "می‌توانی مرا تا ایستگاه برسانی؟",
+    "r": "mi-tavāni marā tā istgāh be-resāni?",
+    "en": "Can you give me a lift to the station?",
+    "faV": "می‌تَوانی مَرا تا ایستگاه بِرِسانی؟",
+    "a": "76bf6e01f64b"
+   },
+   "infV": "رِساندَن",
+   "a": "9c56e6eb935b"
+  },
+  {
+   "inf": "گذراندن",
+   "r": "gozarāndan",
+   "stem": "گذران",
+   "stemR": "gozarān",
+   "en": "to spend (time); to pass (a course)",
+   "cat": "daily",
+   "level": "B1",
+   "ex": {
+    "fa": "تعطیلات را در شمال گذراندیم.",
+    "r": "ta'tilāt rā dar shomāl gozarāndim.",
+    "en": "We spent the holidays in the north.",
+    "faV": "تَعطیلات را دَر شُمال گُذَراندیم.",
+    "a": "c7d41f9232b4"
+   },
+   "infV": "گُذَراندَن",
+   "a": "8b03dd745135"
+  },
+  {
+   "inf": "ترساندن",
+   "r": "tarsāndan",
+   "stem": "ترسان",
+   "stemR": "tarsān",
+   "en": "to frighten",
+   "cat": "feelings",
+   "level": "B1",
+   "note": "the causative of ترسیدن",
+   "ex": {
+    "fa": "صدای رعد بچه را ترساند.",
+    "r": "sedā-ye ra'd bacche rā tarsānd.",
+    "en": "The sound of thunder frightened the child.",
+    "faV": "صِدایِ رَعد بَچّه را تَرساند.",
+    "a": "bcff3a38931d"
+   },
+   "infV": "تَرساندَن",
+   "a": "9a86b54ca082"
+  },
+  {
+   "inf": "پسندیدن",
+   "r": "pasandidan",
+   "stem": "پسند",
+   "stemR": "pasand",
+   "en": "to like, approve of",
+   "cat": "feelings",
+   "level": "B1",
+   "ex": {
+    "fa": "مشتری هیچ‌کدام از کفش‌ها را نپسندید.",
+    "r": "moshtari hich-kodām az kafsh-hā rā na-pasandid.",
+    "en": "The customer didn't like any of the shoes.",
+    "faV": "مُشتَری هیچ‌کُدام اَز کَفش‌ها را نَپَسَندید.",
+    "a": "f2b52f0b4657"
+   },
+   "infV": "پَسَندیدَن",
+   "a": "d36bc4bafce9"
+  },
+  {
+   "inf": "چشیدن",
+   "r": "cheshidan",
+   "stem": "چش",
+   "stemR": "chesh",
+   "en": "to taste",
+   "cat": "food",
+   "level": "B1",
+   "ex": {
+    "fa": "این خورش را بچش، نمکش کافی است؟",
+    "r": "in khoresh rā be-chesh, namak-ash kāfi ast?",
+    "en": "Taste this stew – is there enough salt?",
+    "faV": "این خورِش را بِچِش، نَمَکَش کافی اَست؟",
+    "a": "4673f6796d93"
+   },
+   "infV": "چِشیدَن",
+   "a": "d74571be13fa"
+  },
+  {
+   "inf": "دزدیدن",
+   "r": "dozdidan",
+   "stem": "دزد",
+   "stemR": "dozd",
+   "en": "to steal",
+   "cat": "other",
+   "level": "B1",
+   "ex": {
+    "fa": "کیفم را در اتوبوس دزدیدند.",
+    "r": "kif-am rā dar otobus dozdidand.",
+    "en": "My bag was stolen on the bus.",
+    "faV": "کیفَم را دَر اُتوبوس دُزدیدَند.",
+    "a": "e778f13fc4e0"
+   },
+   "infV": "دُزدیدَن",
+   "a": "88ace4cfab53"
+  },
+  {
+   "inf": "سپردن",
+   "r": "sepordan",
+   "stem": "سپار",
+   "stemR": "sepār",
+   "en": "to entrust, leave with someone",
+   "cat": "give-take",
+   "level": "B1",
+   "note": "به خاطر سپردن = to memorise",
+   "ex": {
+    "fa": "کلید خانه را به همسایه سپردیم.",
+    "r": "kelid-e khāne rā be hamsāye sepordim.",
+    "en": "We left the house key with the neighbour.",
+    "faV": "کِلیدِ خانه را به هَمسایه سِپُردیم.",
+    "a": "a5dd4562c44e"
+   },
+   "infV": "سِپُردَن",
+   "a": "d6ee545325cd"
+  },
+  {
+   "inf": "افزودن",
+   "r": "afzudan",
+   "stem": "افزا",
+   "stemR": "afzā",
+   "subj": "بیفزا",
+   "subjR": "biyafzā",
+   "en": "to add; to increase",
+   "cat": "talk",
+   "level": "B1",
+   "note": "news Persian: او افزود که … (he added that …); in speech اضافه کردن",
+   "ex": {
+    "fa": "وزیر افزود که قیمت‌ها پایین می‌آید.",
+    "r": "vazir afzud ke gheymat-hā pāyin mi-āyad.",
+    "en": "The minister added that prices will come down.",
+    "faV": "وَزیر اَفزود که قَیمَت‌ها پایین می‌آیَد.",
+    "a": "e7eb7842012e"
+   },
+   "infV": "اَفزودَن",
+   "a": "7fd5577b5b78"
+  },
+  {
+   "inf": "درآوردن",
+   "r": "darāvardan",
+   "stem": "درآور",
+   "stemR": "darāvar",
+   "subj": "دربیاور",
+   "subjR": "darbiyāvar",
+   "en": "to take out, take off; to earn",
+   "cat": "give-take",
+   "level": "B1",
+   "note": "prefix verb: mi- goes after در – درمی‌آورم (dar-mi-āvaram); imperative دربیاور; پول درآوردن = to earn money",
+   "ex": {
+    "fa": "کفش‌هایت را دم در دربیاور.",
+    "r": "kafsh-hā-yat rā dam-e dar darbiyāvar.",
+    "en": "Take your shoes off at the door.",
+    "faV": "کَفش‌هایَت را دَمِ دَر دَربیاوَر.",
+    "a": "33382cfce75b"
+   },
+   "infV": "دَرآوَردَن",
+   "a": "c84a0276da62"
+  },
+  {
+   "inf": "برگرداندن",
+   "r": "bargardāndan",
+   "stem": "برگردان",
+   "stemR": "bargardān",
+   "subj": "برگردان",
+   "subjR": "bargardān",
+   "en": "to give back, return; to translate",
+   "cat": "give-take",
+   "level": "B1",
+   "note": "prefix verb: mi- goes after بر – برمی‌گردانم (bar-mi-gardānam); subjunctive and imperative have no be-: برگردانم، برگردان",
+   "ex": {
+    "fa": "کتاب را فردا به کتابخانه برمی‌گردانم.",
+    "r": "ketāb rā fardā be ketābkhāne bar-mi-gardānam.",
+    "en": "I'll take the book back to the library tomorrow.",
+    "faV": "کِتاب را فَردا به کِتابخانه بَرمی‌گَردانَم.",
+    "a": "5ce2220f9721"
+   },
+   "infV": "بَرگَرداندَن",
+   "a": "e08c82f77bab"
+  },
+  {
+   "inf": "اندیشیدن",
+   "r": "andishidan",
+   "stem": "اندیش",
+   "stemR": "andish",
+   "subj": "بیندیش",
+   "subjR": "biyandish",
+   "en": "to think, reflect",
+   "cat": "mind",
+   "level": "B2",
+   "note": "literary; in speech فکر کردن",
+   "ex": {
+    "fa": "پیش از سخن گفتن بیندیش.",
+    "r": "pish az sokhan goftan biyandish.",
+    "en": "Think before you speak.",
+    "faV": "پیش اَز سُخَن گُفتَن بیَندیش.",
+    "a": "24eab434cd80"
+   },
+   "infV": "اَندیشیدَن",
+   "a": "096d9fd3c31b"
+  },
+  {
+   "inf": "کوشیدن",
+   "r": "kushidan",
+   "stem": "کوش",
+   "stemR": "kush",
+   "en": "to strive, try hard",
+   "cat": "work",
+   "level": "B2",
+   "note": "formal; in speech سعی کردن",
+   "ex": {
+    "fa": "او همیشه می‌کوشد بهترین باشد.",
+    "r": "u hamishe mi-kushad behtarin bāshad.",
+    "en": "She always strives to be the best.",
+    "faV": "او هَمیشه می‌کوشَد بِهتَرین باشَد.",
+    "a": "bdabf76885f5"
+   },
+   "infV": "کوشیدَن",
+   "a": "511cef5209d2"
+  },
+  {
+   "inf": "نمودن",
+   "r": "nemudan",
+   "stem": "نما",
+   "stemR": "nemā",
+   "en": "to do (formal for کردن); to seem",
+   "cat": "other",
+   "level": "B2",
+   "note": "official letters and notices use it instead of کردن: تشکر می‌نماییم (we thank you)",
+   "ex": {
+    "fa": "از همکاری شما تشکر می‌نماییم.",
+    "r": "az hamkāri-ye shomā tashakkor mi-nemāyim.",
+    "en": "We thank you for your cooperation.",
+    "faV": "اَز هَمکاریِ شُما تَشَکُّر می‌نِماییم.",
+    "a": "8c6bc78c46b2"
+   },
+   "infV": "نِمودَن",
+   "a": "fb0dfaeddd34"
+  },
+  {
+   "inf": "کار کردن",
+   "r": "kār kardan",
+   "stem": "کار کن",
+   "stemR": "kār kon",
+   "en": "to work",
+   "cat": "work",
+   "level": "A1",
+   "ex": {
+    "fa": "پدرم در یک بیمارستان کار می‌کند.",
+    "r": "pedar-am dar yek bimārestān kār mi-konad.",
+    "en": "My father works in a hospital.",
+    "faV": "پِدَرَم دَر یِک بیمارِستان کار می‌کُنَد.",
+    "a": "9ac7b8074ac5"
+   },
+   "infV": "کار کَردَن",
+   "a": "998253a5144b"
+  },
+  {
+   "inf": "صحبت کردن",
+   "r": "sohbat kardan",
+   "stem": "صحبت کن",
+   "stemR": "sohbat kon",
+   "en": "to talk, speak",
+   "cat": "talk",
+   "level": "A1",
+   "note": "با کسی صحبت کردن = to talk to someone",
+   "ex": {
+    "fa": "شما فارسی صحبت می‌کنید؟",
+    "r": "shomā fārsi sohbat mi-konid?",
+    "en": "Do you speak Persian?",
+    "faV": "شُما فارسی صُحبَت می‌کُنید؟",
+    "a": "abbdfbd4239a"
+   },
+   "infV": "صُحبَت کَردَن",
+   "a": "f7a64d6fff33"
+  },
+  {
+   "inf": "زندگی کردن",
+   "r": "zendegi kardan",
+   "stem": "زندگی کن",
+   "stemR": "zendegi kon",
+   "en": "to live",
+   "cat": "daily",
+   "level": "A1",
+   "ex": {
+    "fa": "ما در یک آپارتمان کوچک زندگی می‌کنیم.",
+    "r": "mā dar yek āpārtemān-e kuchek zendegi mi-konim.",
+    "en": "We live in a small flat.",
+    "faV": "ما دَر یِک آپارتِمانِ کوچِک زِندِگی می‌کُنیم.",
+    "a": "d2d8e694270b"
+   },
+   "infV": "زِندِگی کَردَن",
+   "a": "86a14530e22b"
+  },
+  {
+   "inf": "فکر کردن",
+   "r": "fekr kardan",
+   "stem": "فکر کن",
+   "stemR": "fekr kon",
+   "en": "to think",
+   "cat": "mind",
+   "level": "A1",
+   "note": "فکر می‌کنم که … = I think that …; به … فکر کردن = to think about …",
+   "ex": {
+    "fa": "فکر می‌کنم فردا باران می‌آید.",
+    "r": "fekr mi-konam fardā bārān mi-āyad.",
+    "en": "I think it'll rain tomorrow.",
+    "faV": "فِکر می‌کُنَم فَردا باران می‌آیَد.",
+    "a": "e4ae9d86b9b2"
+   },
+   "infV": "فِکر کَردَن",
+   "a": "5f495a2a1534"
+  },
+  {
+   "inf": "درس خواندن",
+   "r": "dars khāndan",
+   "stem": "درس خوان",
+   "stemR": "dars khān",
+   "en": "to study",
+   "cat": "work",
+   "level": "A1",
+   "ex": {
+    "fa": "برای امتحان فردا درس می‌خوانم.",
+    "r": "barā-ye emtehān-e fardā dars mi-khānam.",
+    "en": "I'm studying for tomorrow's exam.",
+    "faV": "بَرایِ اِمتِحانِ فَردا دَرس می‌خوانَم.",
+    "a": "1fcd61b27185"
+   },
+   "infV": "دَرس خواندَن",
+   "a": "30551cecc033"
+  },
+  {
+   "inf": "درست کردن",
+   "r": "dorost kardan",
+   "stem": "درست کن",
+   "stemR": "dorost kon",
+   "en": "to make, prepare; to fix",
+   "cat": "work",
+   "level": "A1",
+   "ex": {
+    "fa": "برای شام املت درست کردم.",
+    "r": "barā-ye shām omlet dorost kardam.",
+    "en": "I made an omelette for dinner.",
+    "faV": "بَرایِ شام اُملِت دُرُست کَردَم.",
+    "a": "0c2cb48e3263"
+   },
+   "infV": "دُرُست کَردَن",
+   "a": "549dd8d3af17"
+  },
+  {
+   "inf": "باز کردن",
+   "r": "bāz kardan",
+   "stem": "باز کن",
+   "stemR": "bāz kon",
+   "en": "to open",
+   "cat": "home",
+   "level": "A1",
+   "ex": {
+    "fa": "می‌شود پنجره را باز کنید؟",
+    "r": "mi-shavad panjare rā bāz konid?",
+    "en": "Could you open the window?",
+    "faV": "می‌شَوَد پَنجَره را باز کُنید؟",
+    "a": "3c9cdea1d588"
+   },
+   "infV": "باز کَردَن",
+   "a": "d2d9d5b7f055"
+  },
+  {
+   "inf": "پیدا کردن",
+   "r": "peydā kardan",
+   "stem": "پیدا کن",
+   "stemR": "peydā kon",
+   "en": "to find",
+   "cat": "other",
+   "level": "A1",
+   "ex": {
+    "fa": "بالاخره کلیدم را پیدا کردم.",
+    "r": "bālākhare kelid-am rā peydā kardam.",
+    "en": "I finally found my key.",
+    "faV": "بالاخَره کِلیدَم را پَیدا کَردَم.",
+    "a": "f0293b103e0e"
+   },
+   "infV": "پَیدا کَردَن",
+   "a": "de0c227f64f0"
+  },
+  {
+   "inf": "نگاه کردن",
+   "r": "negāh kardan",
+   "stem": "نگاه کن",
+   "stemR": "negāh kon",
+   "en": "to look (at), watch",
+   "cat": "body",
+   "level": "A1",
+   "note": "به … نگاه کردن = to look at …",
+   "ex": {
+    "fa": "به این عکس نگاه کن!",
+    "r": "be in aks negāh kon!",
+    "en": "Look at this photo!",
+    "faV": "به این عَکس نِگاه کُن!",
+    "a": "0e55bfef28fe"
+   },
+   "infV": "نِگاه کَردَن",
+   "a": "ae1a9c76b7fe"
+  },
+  {
+   "inf": "کمک کردن",
+   "r": "komak kardan",
+   "stem": "کمک کن",
+   "stemR": "komak kon",
+   "en": "to help",
+   "cat": "other",
+   "level": "A1",
+   "note": "به کسی کمک کردن = to help someone",
+   "ex": {
+    "fa": "می‌توانی به من کمک کنی؟",
+    "r": "mi-tavāni be man komak koni?",
+    "en": "Can you help me?",
+    "faV": "می‌تَوانی به مَن کُمَک کُنی؟",
+    "a": "56a796d42c6e"
+   },
+   "infV": "کُمَک کَردَن",
+   "a": "3b77f445d513"
+  },
+  {
+   "inf": "بازی کردن",
+   "r": "bāzi kardan",
+   "stem": "بازی کن",
+   "stemR": "bāzi kon",
+   "en": "to play",
+   "cat": "daily",
+   "level": "A1",
+   "ex": {
+    "fa": "بچه‌ها در حیاط فوتبال بازی می‌کنند.",
+    "r": "bacche-hā dar hayāt futbāl bāzi mi-konand.",
+    "en": "The children are playing football in the yard.",
+    "faV": "بَچّه‌ها دَر حَیاط فوتبال بازی می‌کُنَند.",
+    "a": "bf73c5d6930b"
+   },
+   "infV": "بازی کَردَن",
+   "a": "2ceb9410bc62"
+  },
+  {
+   "inf": "گریه کردن",
+   "r": "gerye kardan",
+   "stem": "گریه کن",
+   "stemR": "gerye kon",
+   "en": "to cry",
+   "cat": "feelings",
+   "level": "A1",
+   "ex": {
+    "fa": "چرا گریه می‌کنی؟",
+    "r": "cherā gerye mi-koni?",
+    "en": "Why are you crying?",
+    "faV": "چِرا گِریه می‌کُنی؟",
+    "a": "dfb1a928ee16"
+   },
+   "infV": "گِریه کَردَن",
+   "a": "4b93dac9dd5c"
+  },
+  {
+   "inf": "سفر کردن",
+   "r": "safar kardan",
+   "stem": "سفر کن",
+   "stemR": "safar kon",
+   "en": "to travel",
+   "cat": "motion",
+   "level": "A1",
+   "ex": {
+    "fa": "تابستان به اصفهان سفر کردیم.",
+    "r": "tābestān be Esfahān safar kardim.",
+    "en": "In the summer we travelled to Isfahan.",
+    "faV": "تابِستان به اِصفَهان سَفَر کَردیم.",
+    "a": "35743b16893a"
+   },
+   "infV": "سَفَر کَردَن",
+   "a": "3960baf5bd57"
+  },
+  {
+   "inf": "فراموش کردن",
+   "r": "farāmush kardan",
+   "stem": "فراموش کن",
+   "stemR": "farāmush kon",
+   "en": "to forget",
+   "cat": "mind",
+   "level": "A1",
+   "ex": {
+    "fa": "اسمش را فراموش کردم.",
+    "r": "esm-ash rā farāmush kardam.",
+    "en": "I've forgotten his name.",
+    "faV": "اِسمَش را فَراموش کَردَم.",
+    "a": "584469caf117"
+   },
+   "infV": "فَراموش کَردَن",
+   "a": "1b9d92f8421b"
+  },
+  {
+   "inf": "شروع کردن",
+   "r": "shoru' kardan",
+   "stem": "شروع کن",
+   "stemR": "shoru' kon",
+   "en": "to begin, start",
+   "cat": "change",
+   "level": "A1",
+   "note": "without an object: شروع شدن (to begin)",
+   "ex": {
+    "fa": "کلاس را ساعت نه شروع می‌کنیم.",
+    "r": "kelās rā sā'at-e noh shoru' mi-konim.",
+    "en": "We start the class at nine.",
+    "faV": "کِلاس را ساعَتِ نُه شُروع می‌کُنیم.",
+    "a": "b1aaf16421d3"
+   },
+   "infV": "شُروع کَردَن",
+   "a": "fb9a34a5dccd"
+  },
+  {
+   "inf": "روشن کردن",
+   "r": "roshan kardan",
+   "stem": "روشن کن",
+   "stemR": "roshan kon",
+   "en": "to turn on, light",
+   "cat": "home",
+   "level": "A1",
+   "ex": {
+    "fa": "چراغ را روشن کن، این‌جا تاریک است.",
+    "r": "cherāgh rā roshan kon, in-jā tārik ast.",
+    "en": "Turn on the light, it's dark in here.",
+    "faV": "چِراغ را روشَن کُن، این‌جا تاریک اَست.",
+    "a": "78b3fbf70329"
+   },
+   "infV": "روشَن کَردَن",
+   "a": "0b318796c4f8"
+  },
+  {
+   "inf": "خاموش کردن",
+   "r": "khāmush kardan",
+   "stem": "خاموش کن",
+   "stemR": "khāmush kon",
+   "en": "to turn off, put out",
+   "cat": "home",
+   "level": "A1",
+   "ex": {
+    "fa": "لطفاً تلفن‌هایتان را خاموش کنید.",
+    "r": "lotfan telefon-hā-yetān rā khāmush konid.",
+    "en": "Please switch off your phones.",
+    "faV": "لُطفاً تِلِفُن‌هایِتان را خاموش کُنید.",
+    "a": "228b2cff4063"
+   },
+   "infV": "خاموش کَردَن",
+   "a": "331121d5307f"
+  },
+  {
+   "inf": "خرید کردن",
+   "r": "kharid kardan",
+   "stem": "خرید کن",
+   "stemR": "kharid kon",
+   "en": "to shop, do the shopping",
+   "cat": "buy",
+   "level": "A1",
+   "ex": {
+    "fa": "پنجشنبه‌ها از بازار خرید می‌کنم.",
+    "r": "panjshanbe-hā az bāzār kharid mi-konam.",
+    "en": "On Thursdays I do my shopping at the bazaar.",
+    "faV": "پَنجشَنبه‌ها اَز بازار خَرید می‌کُنَم.",
+    "a": "91ed3bb4f192"
+   },
+   "infV": "خَرید کَردَن",
+   "a": "c8095066eee5"
+  },
+  {
+   "inf": "تماشا کردن",
+   "r": "tamāshā kardan",
+   "stem": "تماشا کن",
+   "stemR": "tamāshā kon",
+   "en": "to watch",
+   "cat": "daily",
+   "level": "A1",
+   "ex": {
+    "fa": "شب‌ها با هم فیلم تماشا می‌کنیم.",
+    "r": "shab-hā bā ham film tamāshā mi-konim.",
+    "en": "In the evenings we watch films together.",
+    "faV": "شَب‌ها با هَم فیلم تَماشا می‌کُنیم.",
+    "a": "526b522bac0c"
+   },
+   "infV": "تَماشا کَردَن",
+   "a": "466450b38774"
+  },
+  {
+   "inf": "سلام کردن",
+   "r": "salām kardan",
+   "stem": "سلام کن",
+   "stemR": "salām kon",
+   "en": "to say hello, greet",
+   "cat": "talk",
+   "level": "A1",
+   "ex": {
+    "fa": "وارد کلاس شد و به همه سلام کرد.",
+    "r": "vāred-e kelās shod o be hame salām kard.",
+    "en": "He came into the classroom and said hello to everyone.",
+    "faV": "وارِدِ کِلاس شُد و به هَمه سَلام کَرد.",
+    "a": "192283361498"
+   },
+   "infV": "سَلام کَردَن",
+   "a": "a95ac0985733"
+  },
+  {
+   "inf": "درد کردن",
+   "r": "dard kardan",
+   "stem": "درد کن",
+   "stemR": "dard kon",
+   "en": "to hurt, ache",
+   "cat": "body",
+   "level": "A1",
+   "note": "the part that hurts is the subject: سرم درد می‌کند (my head hurts)",
+   "ex": {
+    "fa": "سرم خیلی درد می‌کند.",
+    "r": "sar-am kheyli dard mi-konad.",
+    "en": "My head really hurts.",
+    "faV": "سَرَم خَیلی دَرد می‌کُنَد.",
+    "a": "24272c7026f0"
+   },
+   "infV": "دَرد کَردَن",
+   "a": "f2591f1474a9"
+  },
+  {
+   "inf": "خواهش کردن",
+   "r": "khāhesh kardan",
+   "stem": "خواهش کن",
+   "stemR": "khāhesh kon",
+   "en": "to ask, request",
+   "cat": "talk",
+   "level": "A1",
+   "note": "خواهش می‌کنم = please; you're welcome",
+   "ex": {
+    "fa": "از شما خواهش می‌کنم کمی آرام‌تر صحبت کنید.",
+    "r": "az shomā khāhesh mi-konam kam-i ārām-tar sohbat konid.",
+    "en": "Could you please speak a little more slowly?",
+    "faV": "اَز شُما خواهِش می‌کُنَم کَمی آرام‌تَر صُحبَت کُنید.",
+    "a": "fd40ef7dddf8"
+   },
+   "infV": "خواهِش کَردَن",
+   "a": "0bf8801f1818"
+  },
+  {
+   "inf": "حرف زدن",
+   "r": "harf zadan",
+   "stem": "حرف زن",
+   "stemR": "harf zan",
+   "en": "to talk, speak",
+   "cat": "talk",
+   "level": "A1",
+   "note": "less formal than صحبت کردن; با کسی حرف زدن = to talk to someone",
+   "ex": {
+    "fa": "دیشب با مادرم تلفنی حرف زدم.",
+    "r": "dishab bā mādar-am telefoni harf zadam.",
+    "en": "Last night I talked to my mother on the phone.",
+    "faV": "دیشَب با مادَرَم تِلِفُنی حَرف زَدَم.",
+    "a": "6c5e65d9fb57"
+   },
+   "infV": "حَرف زَدَن",
+   "a": "5636de6a2814"
+  },
+  {
+   "inf": "زنگ زدن",
+   "r": "zang zadan",
+   "stem": "زنگ زن",
+   "stemR": "zang zan",
+   "en": "to ring, phone",
+   "cat": "talk",
+   "level": "A1",
+   "note": "به کسی زنگ زدن = to call someone",
+   "ex": {
+    "fa": "فردا به تو زنگ می‌زنم.",
+    "r": "fardā be to zang mi-zanam.",
+    "en": "I'll call you tomorrow.",
+    "faV": "فَردا به تو زَنگ می‌زَنَم.",
+    "a": "42e3b29591d4"
+   },
+   "infV": "زَنگ زَدَن",
+   "a": "233b87a155c5"
+  },
+  {
+   "inf": "گوش دادن",
+   "r": "gush dādan",
+   "stem": "گوش ده",
+   "stemR": "gush dah",
+   "en": "to listen",
+   "cat": "body",
+   "level": "A1",
+   "note": "به … گوش دادن = to listen to …; also گوش کردن",
+   "ex": {
+    "fa": "هر روز صبح به رادیو گوش می‌دهم.",
+    "r": "har ruz sobh be rādiyo gush mi-daham.",
+    "en": "Every morning I listen to the radio.",
+    "faV": "هَر روز صُبح به رادیو گوش می‌دَهَم.",
+    "a": "96cb4eedc79c"
+   },
+   "infV": "گوش دادَن",
+   "a": "967f0cead8e3"
+  },
+  {
+   "inf": "جواب دادن",
+   "r": "javāb dādan",
+   "stem": "جواب ده",
+   "stemR": "javāb dah",
+   "en": "to answer",
+   "cat": "talk",
+   "level": "A1",
+   "ex": {
+    "fa": "چرا تلفنت را جواب نمی‌دهی؟",
+    "r": "cherā telefon-at rā javāb nemi-dahi?",
+    "en": "Why don't you answer your phone?",
+    "faV": "چِرا تِلِفُنَت را جَواب نِمی‌دَهی؟",
+    "a": "89117c6a5818"
+   },
+   "infV": "جَواب دادَن",
+   "a": "282cbada6fdf"
+  },
+  {
+   "inf": "درس دادن",
+   "r": "dars dādan",
+   "stem": "درس ده",
+   "stemR": "dars dah",
+   "en": "to teach",
+   "cat": "work",
+   "level": "A1",
+   "ex": {
+    "fa": "خواهرم در یک مدرسه ریاضی درس می‌دهد.",
+    "r": "khāhar-am dar yek madrese riyāzi dars mi-dahad.",
+    "en": "My sister teaches maths at a school.",
+    "faV": "خواهَرَم دَر یِک مَدرِسه ریاضی دَرس می‌دَهَد.",
+    "a": "c4091e3f04b8"
+   },
+   "infV": "دَرس دادَن",
+   "a": "9024ed16f953"
+  },
+  {
+   "inf": "یاد گرفتن",
+   "r": "yād gereftan",
+   "stem": "یاد گیر",
+   "stemR": "yād gir",
+   "en": "to learn",
+   "cat": "mind",
+   "level": "A1",
+   "note": "the opposite is یاد دادن (to teach)",
+   "ex": {
+    "fa": "کجا فارسی یاد گرفتی؟",
+    "r": "kojā fārsi yād gerefti?",
+    "en": "Where did you learn Persian?",
+    "faV": "کُجا فارسی یاد گِرِفتی؟",
+    "a": "27a766f3f02d"
+   },
+   "infV": "یاد گِرِفتَن",
+   "a": "80a03a53d90a"
+  },
+  {
+   "inf": "دوست داشتن",
+   "r": "dust dāshtan",
+   "stem": "دوست دار",
+   "stemR": "dust dār",
+   "subj": "دوست داشته باش",
+   "subjR": "dust dāshte bāsh",
+   "en": "to like, love",
+   "cat": "feelings",
+   "level": "A1",
+   "note": "like داشتن, no mi- in the present: دوست دارم (I like); subjunctive دوست داشته باشم",
+   "ex": {
+    "fa": "من چای را بیشتر از قهوه دوست دارم.",
+    "r": "man chāy rā bish-tar az ghahve dust dāram.",
+    "en": "I like tea more than coffee.",
+    "faV": "مَن چای را بیشتَر اَز قَهوه دوست دارَم.",
+    "a": "b3023e902ae4"
+   },
+   "infV": "دوست داشتَن",
+   "a": "2cb9c997882a"
+  },
+  {
+   "inf": "لازم داشتن",
+   "r": "lāzem dāshtan",
+   "stem": "لازم دار",
+   "stemR": "lāzem dār",
+   "subj": "لازم داشته باش",
+   "subjR": "lāzem dāshte bāsh",
+   "en": "to need",
+   "cat": "other",
+   "level": "A1",
+   "note": "no mi- in the present: لازم دارم (I need)",
+   "ex": {
+    "fa": "برای این کار یک چکش لازم دارم.",
+    "r": "barā-ye in kār yek chakosh lāzem dāram.",
+    "en": "I need a hammer for this job.",
+    "faV": "بَرایِ این کار یِک چَکُش لازِم دارَم.",
+    "a": "98e85073b3b2"
+   },
+   "infV": "لازِم داشتَن",
+   "a": "efe8766b1a83"
+  },
+  {
+   "inf": "بیدار شدن",
+   "r": "bidār shodan",
+   "stem": "بیدار شو",
+   "stemR": "bidār shav",
+   "en": "to wake up",
+   "cat": "daily",
+   "level": "A1",
+   "ex": {
+    "fa": "صبح‌ها ساعت شش بیدار می‌شوم.",
+    "r": "sobh-hā sā'at-e shesh bidār mi-shavam.",
+    "en": "I wake up at six in the morning.",
+    "faV": "صُبح‌ها ساعَتِ شِش بیدار می‌شَوَم.",
+    "a": "f353f6fc42b7"
+   },
+   "infV": "بیدار شُدَن",
+   "a": "7b99f56beb0e"
+  },
+  {
+   "inf": "سوار شدن",
+   "r": "savār shodan",
+   "stem": "سوار شو",
+   "stemR": "savār shav",
+   "en": "to get on, get in (a vehicle); to ride",
+   "cat": "motion",
+   "level": "A1",
+   "ex": {
+    "fa": "سوار تاکسی شدیم و به فرودگاه رفتیم.",
+    "r": "savār-e tāksi shodim o be forudgāh raftim.",
+    "en": "We got into a taxi and went to the airport.",
+    "faV": "سَوارِ تاکسی شُدیم و به فُرودگاه رَفتیم.",
+    "a": "965522a20355"
+   },
+   "infV": "سَوار شُدَن",
+   "a": "1cd15286fcec"
+  },
+  {
+   "inf": "پیاده شدن",
+   "r": "piyāde shodan",
+   "stem": "پیاده شو",
+   "stemR": "piyāde shav",
+   "en": "to get off, get out (of a vehicle)",
+   "cat": "motion",
+   "level": "A1",
+   "ex": {
+    "fa": "ایستگاه بعد پیاده می‌شوم.",
+    "r": "istgāh-e ba'd piyāde mi-shavam.",
+    "en": "I'm getting off at the next stop.",
+    "faV": "ایستگاهِ بَعد پیاده می‌شَوَم.",
+    "a": "908b5b7ed215"
+   },
+   "infV": "پیاده شُدَن",
+   "a": "758cad9855f9"
+  },
+  {
+   "inf": "بلند شدن",
+   "r": "boland shodan",
+   "stem": "بلند شو",
+   "stemR": "boland shav",
+   "en": "to get up, stand up",
+   "cat": "body",
+   "level": "A1",
+   "ex": {
+    "fa": "همه بلند شدند و دست زدند.",
+    "r": "hame boland shodand o dast zadand.",
+    "en": "Everyone stood up and clapped.",
+    "faV": "هَمه بُلَند شُدَند و دَست زَدَند.",
+    "a": "3c4b0afa666d"
+   },
+   "infV": "بُلَند شُدَن",
+   "a": "75b87c183ba3"
+  },
+  {
+   "inf": "تمام شدن",
+   "r": "tamām shodan",
+   "stem": "تمام شو",
+   "stemR": "tamām shav",
+   "en": "to finish, end; to run out",
+   "cat": "change",
+   "level": "A1",
+   "ex": {
+    "fa": "فیلم کی تمام می‌شود؟",
+    "r": "film key tamām mi-shavad?",
+    "en": "When does the film finish?",
+    "faV": "فیلم کَی تَمام می‌شَوَد؟",
+    "a": "4b7cadda2025"
+   },
+   "infV": "تَمام شُدَن",
+   "a": "7cef233338f3"
+  },
+  {
+   "inf": "راه رفتن",
+   "r": "rāh raftan",
+   "stem": "راه رو",
+   "stemR": "rāh rav",
+   "en": "to walk",
+   "cat": "motion",
+   "level": "A1",
+   "ex": {
+    "fa": "بعد از شام کمی راه می‌رویم.",
+    "r": "ba'd az shām kam-i rāh mi-ravim.",
+    "en": "After dinner we walk a little.",
+    "faV": "بَعد اَز شام کَمی راه می‌رَویم.",
+    "a": "05ce7bd7675c"
+   },
+   "infV": "راه رَفتَن",
+   "a": "939832a923c1"
+  },
+  {
+   "inf": "بیرون رفتن",
+   "r": "birun raftan",
+   "stem": "بیرون رو",
+   "stemR": "birun rav",
+   "en": "to go out",
+   "cat": "motion",
+   "level": "A1",
+   "ex": {
+    "fa": "امشب با دوستانم بیرون می‌روم.",
+    "r": "emshab bā dustān-am birun mi-ravam.",
+    "en": "Tonight I'm going out with my friends.",
+    "faV": "اِمشَب با دوستانَم بیرون می‌رَوَم.",
+    "a": "24702581c3c8"
+   },
+   "infV": "بیرون رَفتَن",
+   "a": "f58c31f04b00"
+  },
+  {
+   "inf": "بلد بودن",
+   "r": "balad budan",
+   "stem": "بلد باش",
+   "stemR": "balad bāsh",
+   "subj": "بلد باش",
+   "subjR": "balad bāsh",
+   "en": "to know how to",
+   "cat": "mind",
+   "level": "A1",
+   "note": "present بلدم or بلد هستم (I know how to), negative بلد نیستم; past بلد بودم",
+   "ex": {
+    "fa": "رانندگی بلدی؟",
+    "r": "rānandegi balad-i?",
+    "en": "Do you know how to drive?",
+    "faV": "رانَندِگی بَلَدی؟",
+    "a": "8cef784531a1"
+   },
+   "infV": "بَلَد بودَن",
+   "a": "eedb3dedcca2"
+  },
+  {
+   "inf": "عوض کردن",
+   "r": "avaz kardan",
+   "stem": "عوض کن",
+   "stemR": "avaz kon",
+   "en": "to change",
+   "cat": "change",
+   "level": "A2",
+   "ex": {
+    "fa": "لباسم را عوض کردم و بیرون رفتم.",
+    "r": "lebās-am rā avaz kardam o birun raftam.",
+    "en": "I changed my clothes and went out.",
+    "faV": "لِباسَم را عَوَض کَردَم و بیرون رَفتَم.",
+    "a": "efd7f7b8e1dc"
+   },
+   "infV": "عَوَض کَردَن",
+   "a": "ba3c93d63ed1"
+  },
+  {
+   "inf": "تمیز کردن",
+   "r": "tamiz kardan",
+   "stem": "تمیز کن",
+   "stemR": "tamiz kon",
+   "en": "to clean",
+   "cat": "home",
+   "level": "A2",
+   "ex": {
+    "fa": "آخر هفته خانه را تمیز می‌کنیم.",
+    "r": "ākhar-e hafte khāne rā tamiz mi-konim.",
+    "en": "We clean the house at the weekend.",
+    "faV": "آخَرِ هَفته خانه را تَمیز می‌کُنیم.",
+    "a": "7e8272f2b3bc"
+   },
+   "infV": "تَمیز کَردَن",
+   "a": "7743bd982262"
+  },
+  {
+   "inf": "استفاده کردن",
+   "r": "estefāde kardan",
+   "stem": "استفاده کن",
+   "stemR": "estefāde kon",
+   "en": "to use",
+   "cat": "other",
+   "level": "A2",
+   "note": "از … استفاده کردن = to use …",
+   "ex": {
+    "fa": "می‌توانم از تلفن شما استفاده کنم؟",
+    "r": "mi-tavānam az telefon-e shomā estefāde konam?",
+    "en": "May I use your phone?",
+    "faV": "می‌تَوانَم اَز تِلِفُنِ شُما اِستِفاده کُنَم؟",
+    "a": "a99682e27a06"
+   },
+   "infV": "اِستِفاده کَردَن",
+   "a": "8fba0b310a47"
+  },
+  {
+   "inf": "ازدواج کردن",
+   "r": "ezdevāj kardan",
+   "stem": "ازدواج کن",
+   "stemR": "ezdevāj kon",
+   "en": "to get married",
+   "cat": "feelings",
+   "level": "A2",
+   "note": "با کسی ازدواج کردن = to marry someone",
+   "ex": {
+    "fa": "خواهرم پارسال ازدواج کرد.",
+    "r": "khāhar-am pārsāl ezdevāj kard.",
+    "en": "My sister got married last year.",
+    "faV": "خواهَرَم پارسال اِزدِواج کَرد.",
+    "a": "e84546521dce"
+   },
+   "infV": "اِزدِواج کَردَن",
+   "a": "703235e266dc"
+  },
+  {
+   "inf": "عجله کردن",
+   "r": "ajale kardan",
+   "stem": "عجله کن",
+   "stemR": "ajale kon",
+   "en": "to hurry",
+   "cat": "motion",
+   "level": "A2",
+   "ex": {
+    "fa": "عجله کن، دیرمان شد!",
+    "r": "ajale kon, dir-emān shod!",
+    "en": "Hurry up, we're late!",
+    "faV": "عَجَله کُن، دیرِمان شُد!",
+    "a": "ce395254be61"
+   },
+   "infV": "عَجَله کَردَن",
+   "a": "5827af1c3e09"
+  },
+  {
+   "inf": "دیر کردن",
+   "r": "dir kardan",
+   "stem": "دیر کن",
+   "stemR": "dir kon",
+   "en": "to be late",
+   "cat": "other",
+   "level": "A2",
+   "ex": {
+    "fa": "ببخشید که دیر کردم.",
+    "r": "be-bakhshid ke dir kardam.",
+    "en": "Sorry I'm late.",
+    "faV": "بِبَخشید که دیر کَردَم.",
+    "a": "0d4bbf9e8419"
+   },
+   "infV": "دیر کَردَن",
+   "a": "09f5c2dfcad8"
+  },
+  {
+   "inf": "سعی کردن",
+   "r": "sa'y kardan",
+   "stem": "سعی کن",
+   "stemR": "sa'y kon",
+   "en": "to try",
+   "cat": "work",
+   "level": "A2",
+   "note": "followed by the subjunctive: سعی می‌کنم بیایم (I'll try to come)",
+   "ex": {
+    "fa": "سعی می‌کنم زود بیایم.",
+    "r": "sa'y mi-konam zud biyāyam.",
+    "en": "I'll try to come early.",
+    "faV": "سَعی می‌کُنَم زود بیایَم.",
+    "a": "30c7175a0e98"
+   },
+   "infV": "سَعی کَردَن",
+   "a": "264f7f5ef71b"
+  },
+  {
+   "inf": "صبر کردن",
+   "r": "sabr kardan",
+   "stem": "صبر کن",
+   "stemR": "sabr kon",
+   "en": "to wait; to be patient",
+   "cat": "other",
+   "level": "A2",
+   "ex": {
+    "fa": "یک لحظه صبر کنید، لطفاً.",
+    "r": "yek lahze sabr konid, lotfan.",
+    "en": "Wait a moment, please.",
+    "faV": "یِک لَحظه صَبر کُنید، لُطفاً.",
+    "a": "ac975217edb1"
+   },
+   "infV": "صَبر کَردَن",
+   "a": "cdaf2fba0798"
+  },
+  {
+   "inf": "رانندگی کردن",
+   "r": "rānandegi kardan",
+   "stem": "رانندگی کن",
+   "stemR": "rānandegi kon",
+   "en": "to drive",
+   "cat": "motion",
+   "level": "A2",
+   "ex": {
+    "fa": "رانندگی کردن در تهران سخت است.",
+    "r": "rānandegi kardan dar Tehrān sakht ast.",
+    "en": "Driving in Tehran is hard.",
+    "faV": "رانَندِگی کَردَن دَر تِهران سَخت اَست.",
+    "a": "565f70e7d35a"
+   },
+   "infV": "رانَندِگی کَردَن",
+   "a": "ec73ab039f40"
+  },
+  {
+   "inf": "آشپزی کردن",
+   "r": "āshpazi kardan",
+   "stem": "آشپزی کن",
+   "stemR": "āshpazi kon",
+   "en": "to cook",
+   "cat": "food",
+   "level": "A2",
+   "ex": {
+    "fa": "پدرم آخر هفته‌ها آشپزی می‌کند.",
+    "r": "pedar-am ākhar-e hafte-hā āshpazi mi-konad.",
+    "en": "My father cooks at the weekends.",
+    "faV": "پِدَرَم آخَرِ هَفته‌ها آشپَزی می‌کُنَد.",
+    "a": "2089de1027aa"
+   },
+   "infV": "آشپَزی کَردَن",
+   "a": "e37af52a5908"
+  },
+  {
+   "inf": "ورزش کردن",
+   "r": "varzesh kardan",
+   "stem": "ورزش کن",
+   "stemR": "varzesh kon",
+   "en": "to exercise, do sport",
+   "cat": "body",
+   "level": "A2",
+   "ex": {
+    "fa": "هفته‌ای سه بار ورزش می‌کنم.",
+    "r": "hafte-i se bār varzesh mi-konam.",
+    "en": "I exercise three times a week.",
+    "faV": "هَفته‌ای سه بار وَرزِش می‌کُنَم.",
+    "a": "ce936bfbe842"
+   },
+   "infV": "وَرزِش کَردَن",
+   "a": "749e0df8ad00"
+  },
+  {
+   "inf": "تشکر کردن",
+   "r": "tashakkor kardan",
+   "stem": "تشکر کن",
+   "stemR": "tashakkor kon",
+   "en": "to thank",
+   "cat": "talk",
+   "level": "A2",
+   "note": "از کسی تشکر کردن = to thank someone",
+   "ex": {
+    "fa": "از کمکتان خیلی تشکر می‌کنم.",
+    "r": "az komak-etān kheyli tashakkor mi-konam.",
+    "en": "Thank you very much for your help.",
+    "faV": "اَز کُمَکِتان خَیلی تَشَکُّر می‌کُنَم.",
+    "a": "b6e6f669ecf2"
+   },
+   "infV": "تَشَکُّر کَردَن",
+   "a": "a8861cd544ff"
+  },
+  {
+   "inf": "گم کردن",
+   "r": "gom kardan",
+   "stem": "گم کن",
+   "stemR": "gom kon",
+   "en": "to lose (something)",
+   "cat": "other",
+   "level": "A2",
+   "ex": {
+    "fa": "کیف پولم را گم کرده‌ام.",
+    "r": "kif-e pul-am rā gom karde-am.",
+    "en": "I've lost my wallet.",
+    "faV": "کیفِ پولَم را گُم کَرده‌اَم.",
+    "a": "5679c2af9827"
+   },
+   "infV": "گُم کَردَن",
+   "a": "39dbea24df85"
+  },
+  {
+   "inf": "جمع کردن",
+   "r": "jam' kardan",
+   "stem": "جمع کن",
+   "stemR": "jam' kon",
+   "en": "to collect, gather; to tidy up",
+   "cat": "home",
+   "level": "A2",
+   "ex": {
+    "fa": "اتاقت را جمع کن!",
+    "r": "otāgh-at rā jam' kon!",
+    "en": "Tidy up your room!",
+    "faV": "اُتاقَت را جَمع کُن!",
+    "a": "b6971d59ee85"
+   },
+   "infV": "جَمع کَردَن",
+   "a": "fbdb4682e010"
+  },
+  {
+   "inf": "انتخاب کردن",
+   "r": "entekhāb kardan",
+   "stem": "انتخاب کن",
+   "stemR": "entekhāb kon",
+   "en": "to choose",
+   "cat": "mind",
+   "level": "A2",
+   "ex": {
+    "fa": "کدام رنگ را انتخاب کردی؟",
+    "r": "kodām rang rā entekhāb kardi?",
+    "en": "Which colour did you choose?",
+    "faV": "کُدام رَنگ را اِنتِخاب کَردی؟",
+    "a": "39aa748154f6"
+   },
+   "infV": "اِنتِخاب کَردَن",
+   "a": "d3fddb34a28c"
+  },
+  {
+   "inf": "قبول کردن",
+   "r": "ghabul kardan",
+   "stem": "قبول کن",
+   "stemR": "ghabul kon",
+   "en": "to accept, agree to",
+   "cat": "mind",
+   "level": "A2",
+   "ex": {
+    "fa": "دعوتشان را با کمال میل قبول کردیم.",
+    "r": "da'vat-eshān rā bā kamāl-e meyl ghabul kardim.",
+    "en": "We gladly accepted their invitation.",
+    "faV": "دَعوَتِشان را با کَمالِ مَیل قَبول کَردیم.",
+    "a": "f7ad2fa969d8"
+   },
+   "infV": "قَبول کَردَن",
+   "a": "b920690ffe55"
+  },
+  {
+   "inf": "باور کردن",
+   "r": "bāvar kardan",
+   "stem": "باور کن",
+   "stemR": "bāvar kon",
+   "en": "to believe",
+   "cat": "mind",
+   "level": "A2",
+   "ex": {
+    "fa": "باور نمی‌کنم، واقعاً؟",
+    "r": "bāvar nemi-konam, vāghe'an?",
+    "en": "I don't believe it – really?",
+    "faV": "باوَر نِمی‌کُنَم، واقِعاً؟",
+    "a": "6f5cf368d74a"
+   },
+   "infV": "باوَر کَردَن",
+   "a": "5630177c6fad"
+  },
+  {
+   "inf": "تمرین کردن",
+   "r": "tamrin kardan",
+   "stem": "تمرین کن",
+   "stemR": "tamrin kon",
+   "en": "to practise",
+   "cat": "work",
+   "level": "A2",
+   "ex": {
+    "fa": "هر روز نیم ساعت فارسی تمرین می‌کنم.",
+    "r": "har ruz nim sā'at fārsi tamrin mi-konam.",
+    "en": "I practise Persian for half an hour every day.",
+    "faV": "هَر روز نیم ساعَت فارسی تَمرین می‌کُنَم.",
+    "a": "b855e893566b"
+   },
+   "infV": "تَمرین کَردَن",
+   "a": "39e1da43f4aa"
+  },
+  {
+   "inf": "ترجمه کردن",
+   "r": "tarjome kardan",
+   "stem": "ترجمه کن",
+   "stemR": "tarjome kon",
+   "en": "to translate",
+   "cat": "talk",
+   "level": "A2",
+   "ex": {
+    "fa": "می‌توانی این نامه را برایم ترجمه کنی؟",
+    "r": "mi-tavāni in nāme rā barā-yam tarjome koni?",
+    "en": "Can you translate this letter for me?",
+    "faV": "می‌تَوانی این نامه را بَرایَم تَرجُمه کُنی؟",
+    "a": "4ac12d37c70d"
+   },
+   "infV": "تَرجُمه کَردَن",
+   "a": "48a5ac418d52"
+  },
+  {
+   "inf": "تعریف کردن",
+   "r": "ta'rif kardan",
+   "stem": "تعریف کن",
+   "stemR": "ta'rif kon",
+   "en": "to tell (a story); to praise",
+   "cat": "talk",
+   "level": "A2",
+   "note": "از … تعریف کردن = to praise …",
+   "ex": {
+    "fa": "از سفرت برایمان تعریف کن!",
+    "r": "az safar-at barā-yemān ta'rif kon!",
+    "en": "Tell us about your trip!",
+    "faV": "اَز سَفَرَت بَرایِمان تَعریف کُن!",
+    "a": "78597e14d0e0"
+   },
+   "infV": "تَعریف کَردَن",
+   "a": "0b99a18d53d4"
+  },
+  {
+   "inf": "دعوت کردن",
+   "r": "da'vat kardan",
+   "stem": "دعوت کن",
+   "stemR": "da'vat kon",
+   "en": "to invite",
+   "cat": "talk",
+   "level": "A2",
+   "ex": {
+    "fa": "ما را برای شام دعوت کردند.",
+    "r": "mā rā barā-ye shām da'vat kardand.",
+    "en": "They invited us to dinner.",
+    "faV": "ما را بَرایِ شام دَعوَت کَردَند.",
+    "a": "2a31bec6f1d7"
+   },
+   "infV": "دَعوَت کَردَن",
+   "a": "b208c092c83e"
+  },
+  {
+   "inf": "شوخی کردن",
+   "r": "shukhi kardan",
+   "stem": "شوخی کن",
+   "stemR": "shukhi kon",
+   "en": "to joke",
+   "cat": "talk",
+   "level": "A2",
+   "ex": {
+    "fa": "ناراحت نشو، شوخی کردم!",
+    "r": "nārāhat na-show, shukhi kardam!",
+    "en": "Don't be upset – I was joking!",
+    "faV": "ناراحَت نَشَو، شوخی کَردَم!",
+    "a": "e112206c0470"
+   },
+   "infV": "شوخی کَردَن",
+   "a": "3cc69d4fb98d"
+  },
+  {
+   "inf": "اشتباه کردن",
+   "r": "eshtebāh kardan",
+   "stem": "اشتباه کن",
+   "stemR": "eshtebāh kon",
+   "en": "to make a mistake",
+   "cat": "mind",
+   "level": "A2",
+   "ex": {
+    "fa": "ببخشید، اشتباه کردم.",
+    "r": "be-bakhshid, eshtebāh kardam.",
+    "en": "Sorry, I made a mistake.",
+    "faV": "بِبَخشید، اِشتِباه کَردَم.",
+    "a": "9da17dd733ec"
+   },
+   "infV": "اِشتِباه کَردَن",
+   "a": "90e810318a13"
+  },
+  {
+   "inf": "استراحت کردن",
+   "r": "esterāhat kardan",
+   "stem": "استراحت کن",
+   "stemR": "esterāhat kon",
+   "en": "to rest",
+   "cat": "daily",
+   "level": "A2",
+   "ex": {
+    "fa": "خسته‌ای، کمی استراحت کن.",
+    "r": "khaste-i, kam-i esterāhat kon.",
+    "en": "You're tired – rest a little.",
+    "faV": "خَسته‌ای، کَمی اِستِراحَت کُن.",
+    "a": "b5650557b5e1"
+   },
+   "infV": "اِستِراحَت کَردَن",
+   "a": "0ef0fdc250b6"
+  },
+  {
+   "inf": "خرج کردن",
+   "r": "kharj kardan",
+   "stem": "خرج کن",
+   "stemR": "kharj kon",
+   "en": "to spend (money)",
+   "cat": "buy",
+   "level": "A2",
+   "ex": {
+    "fa": "این ماه خیلی پول خرج کردم.",
+    "r": "in māh kheyli pul kharj kardam.",
+    "en": "I spent a lot of money this month.",
+    "faV": "این ماه خَیلی پول خَرج کَردَم.",
+    "a": "225eec4ed38c"
+   },
+   "infV": "خَرج کَردَن",
+   "a": "f2d6b1d0e1b5"
+  },
+  {
+   "inf": "کم کردن",
+   "r": "kam kardan",
+   "stem": "کم کن",
+   "stemR": "kam kon",
+   "en": "to reduce, turn down; to take away",
+   "cat": "change",
+   "level": "A2",
+   "note": "وزن کم کردن = to lose weight",
+   "ex": {
+    "fa": "صدای رادیو را کم کن.",
+    "r": "sedā-ye rādiyo rā kam kon.",
+    "en": "Turn the radio down.",
+    "faV": "صِدایِ رادیو را کَم کُن.",
+    "a": "ccd408dac7fd"
+   },
+   "infV": "کَم کَردَن",
+   "a": "30a0fae5a559"
+  },
+  {
+   "inf": "اضافه کردن",
+   "r": "ezāfe kardan",
+   "stem": "اضافه کن",
+   "stemR": "ezāfe kon",
+   "en": "to add",
+   "cat": "change",
+   "level": "A2",
+   "ex": {
+    "fa": "کمی نمک اضافه کن.",
+    "r": "kam-i namak ezāfe kon.",
+    "en": "Add a little salt.",
+    "faV": "کَمی نَمَک اِضافه کُن.",
+    "a": "101193a1c075"
+   },
+   "infV": "اِضافه کَردَن",
+   "a": "b0ebb0244db4"
+  },
+  {
+   "inf": "فرق کردن",
+   "r": "fargh kardan",
+   "stem": "فرق کن",
+   "stemR": "fargh kon",
+   "en": "to be different; to vary",
+   "cat": "other",
+   "level": "A2",
+   "note": "فرق می‌کند = it depends; it's different",
+   "ex": {
+    "fa": "این دو کلمه با هم فرق می‌کنند.",
+    "r": "in do kalame bā ham fargh mi-konand.",
+    "en": "These two words are different.",
+    "faV": "این دو کَلَمه با هَم فَرق می‌کُنَند.",
+    "a": "4105f9a23f96"
+   },
+   "infV": "فَرق کَردَن",
+   "a": "535bd10f5e58"
+  },
+  {
+   "inf": "خداحافظی کردن",
+   "r": "khodā-hāfezi kardan",
+   "stem": "خداحافظی کن",
+   "stemR": "khodā-hāfezi kon",
+   "en": "to say goodbye",
+   "cat": "talk",
+   "level": "A2",
+   "ex": {
+    "fa": "بدون خداحافظی رفت.",
+    "r": "bedun-e khodā-hāfezi raft.",
+    "en": "He left without saying goodbye.",
+    "faV": "بِدونِ خُداحافِظی رَفت.",
+    "a": "82d7a9831860"
+   },
+   "infV": "خُداحافِظی کَردَن",
+   "a": "2cb88951179d"
+  },
+  {
+   "inf": "داد زدن",
+   "r": "dād zadan",
+   "stem": "داد زن",
+   "stemR": "dād zan",
+   "en": "to shout",
+   "cat": "talk",
+   "level": "A2",
+   "note": "سر کسی داد زدن = to shout at someone",
+   "ex": {
+    "fa": "سر من داد نزن!",
+    "r": "sar-e man dād na-zan!",
+    "en": "Don't shout at me!",
+    "faV": "سَرِ مَن داد نَزَن!",
+    "a": "b9ef8e9a908a"
+   },
+   "infV": "داد زَدَن",
+   "a": "c498397a0a92"
+  },
+  {
+   "inf": "دست زدن",
+   "r": "dast zadan",
+   "stem": "دست زن",
+   "stemR": "dast zan",
+   "en": "to touch; to clap",
+   "cat": "body",
+   "level": "A2",
+   "note": "به … دست زدن = to touch …; برای کسی دست زدن = to clap for someone",
+   "ex": {
+    "fa": "به این تابلو دست نزنید.",
+    "r": "be in tāblo dast na-zanid.",
+    "en": "Don't touch this painting.",
+    "faV": "به این تابلو دَست نَزَنید.",
+    "a": "1016f5354fdf"
+   },
+   "infV": "دَست زَدَن",
+   "a": "6aeeda66f963"
+  },
+  {
+   "inf": "انجام دادن",
+   "r": "anjām dādan",
+   "stem": "انجام ده",
+   "stemR": "anjām dah",
+   "en": "to do, carry out",
+   "cat": "work",
+   "level": "A2",
+   "ex": {
+    "fa": "تکالیفت را انجام دادی؟",
+    "r": "takālif-at rā anjām dādi?",
+    "en": "Have you done your homework?",
+    "faV": "تَکالیفَت را اَنجام دادی؟",
+    "a": "155f6791f2c3"
+   },
+   "infV": "اَنجام دادَن",
+   "a": "5d7f17570582"
+  },
+  {
+   "inf": "نشان دادن",
+   "r": "neshān dādan",
+   "stem": "نشان ده",
+   "stemR": "neshān dah",
+   "en": "to show",
+   "cat": "give-take",
+   "level": "A2",
+   "ex": {
+    "fa": "عکس‌های عروسی را به ما نشان داد.",
+    "r": "aks-hā-ye arusi rā be mā neshān dād.",
+    "en": "She showed us the wedding photos.",
+    "faV": "عَکس‌هایِ عَروسی را به ما نِشان داد.",
+    "a": "21212fb956de"
+   },
+   "infV": "نِشان دادَن",
+   "a": "9fb12148a406"
+  },
+  {
+   "inf": "توضیح دادن",
+   "r": "towzih dādan",
+   "stem": "توضیح ده",
+   "stemR": "towzih dah",
+   "en": "to explain",
+   "cat": "talk",
+   "level": "A2",
+   "ex": {
+    "fa": "معلم درس را دوباره توضیح داد.",
+    "r": "mo'allem dars rā dobāre towzih dād.",
+    "en": "The teacher explained the lesson again.",
+    "faV": "مُعَلِّم دَرس را دوباره تَوضیح داد.",
+    "a": "176c9e3fc7ae"
+   },
+   "infV": "تَوضیح دادَن",
+   "a": "c06dd5c605d0"
+  },
+  {
+   "inf": "ادامه دادن",
+   "r": "edāme dādan",
+   "stem": "ادامه ده",
+   "stemR": "edāme dah",
+   "en": "to continue, go on",
+   "cat": "change",
+   "level": "A2",
+   "ex": {
+    "fa": "لطفاً ادامه بدهید.",
+    "r": "lotfan edāme be-dahid.",
+    "en": "Please go on.",
+    "faV": "لُطفاً اِدامه بِدَهید.",
+    "a": "c88e267a3eff"
+   },
+   "infV": "اِدامه دادَن",
+   "a": "0e2c742ad396"
+  },
+  {
+   "inf": "اجازه دادن",
+   "r": "ejāze dādan",
+   "stem": "اجازه ده",
+   "stemR": "ejāze dah",
+   "en": "to allow, let",
+   "cat": "talk",
+   "level": "A2",
+   "note": "اجازه بدهید … = allow me …",
+   "ex": {
+    "fa": "پدرم اجازه نمی‌دهد تنها سفر کنم.",
+    "r": "pedar-am ejāze nemi-dahad tanhā safar konam.",
+    "en": "My father won't let me travel alone.",
+    "faV": "پِدَرَم اِجازه نِمی‌دَهَد تَنها سَفَر کُنَم.",
+    "a": "7d56731f86ff"
+   },
+   "infV": "اِجازه دادَن",
+   "a": "8961c601731c"
+  },
+  {
+   "inf": "پیام دادن",
+   "r": "payām dādan",
+   "stem": "پیام ده",
+   "stemR": "payām dah",
+   "en": "to text, send a message",
+   "cat": "talk",
+   "level": "A2",
+   "ex": {
+    "fa": "وقتی رسیدی، به من پیام بده.",
+    "r": "vaghti residi, be man payām be-deh.",
+    "en": "Text me when you get there.",
+    "faV": "وَقتی رِسیدی، به مَن پَیام بِدِه.",
+    "a": "357dc9fdccd6"
+   },
+   "infV": "پَیام دادَن",
+   "a": "254961e3cc1f"
+  },
+  {
+   "inf": "قول دادن",
+   "r": "ghowl dādan",
+   "stem": "قول ده",
+   "stemR": "ghowl dah",
+   "en": "to promise",
+   "cat": "talk",
+   "level": "A2",
+   "ex": {
+    "fa": "قول می‌دهم دیگر دیر نکنم.",
+    "r": "ghowl mi-daham digar dir na-konam.",
+    "en": "I promise I won't be late again.",
+    "faV": "قَول می‌دَهَم دیگَر دیر نَکُنَم.",
+    "a": "7dc2d34c4148"
+   },
+   "infV": "قَول دادَن",
+   "a": "44ed05d756ce"
+  },
+  {
+   "inf": "سفارش دادن",
+   "r": "sefāresh dādan",
+   "stem": "سفارش ده",
+   "stemR": "sefāresh dah",
+   "en": "to order",
+   "cat": "food",
+   "level": "A2",
+   "ex": {
+    "fa": "برای شام پیتزا سفارش دادیم.",
+    "r": "barā-ye shām pitzā sefāresh dādim.",
+    "en": "We ordered pizza for dinner.",
+    "faV": "بَرایِ شام پیتزا سِفارِش دادیم.",
+    "a": "a54231c4cc93"
+   },
+   "infV": "سِفارِش دادَن",
+   "a": "6f562817f358"
+  },
+  {
+   "inf": "تصمیم گرفتن",
+   "r": "tasmim gereftan",
+   "stem": "تصمیم گیر",
+   "stemR": "tasmim gir",
+   "en": "to decide",
+   "cat": "mind",
+   "level": "A2",
+   "ex": {
+    "fa": "تصمیم گرفتم فارسی یاد بگیرم.",
+    "r": "tasmim gereftam fārsi yād be-giram.",
+    "en": "I decided to learn Persian.",
+    "faV": "تَصمیم گِرِفتَم فارسی یاد بِگیرَم.",
+    "a": "4f7cfdbbdba4"
+   },
+   "infV": "تَصمیم گِرِفتَن",
+   "a": "deb6e7eb9e32"
+  },
+  {
+   "inf": "دوش گرفتن",
+   "r": "dush gereftan",
+   "stem": "دوش گیر",
+   "stemR": "dush gir",
+   "en": "to take a shower",
+   "cat": "daily",
+   "level": "A2",
+   "ex": {
+    "fa": "بعد از ورزش دوش می‌گیرم.",
+    "r": "ba'd az varzesh dush mi-giram.",
+    "en": "I take a shower after exercise.",
+    "faV": "بَعد اَز وَرزِش دوش می‌گیرَم.",
+    "a": "27b0bd194751"
+   },
+   "infV": "دوش گِرِفتَن",
+   "a": "27888c41bf7c"
+  },
+  {
+   "inf": "عکس گرفتن",
+   "r": "aks gereftan",
+   "stem": "عکس گیر",
+   "stemR": "aks gir",
+   "en": "to take a photo",
+   "cat": "other",
+   "level": "A2",
+   "ex": {
+    "fa": "می‌شود از ما یک عکس بگیرید؟",
+    "r": "mi-shavad az mā yek aks be-girid?",
+    "en": "Could you take a photo of us?",
+    "faV": "می‌شَوَد اَز ما یِک عَکس بِگیرید؟",
+    "a": "d585835c4427"
+   },
+   "infV": "عَکس گِرِفتَن",
+   "a": "3fc243b7c046"
+  },
+  {
+   "inf": "تماس گرفتن",
+   "r": "tamās gereftan",
+   "stem": "تماس گیر",
+   "stemR": "tamās gir",
+   "en": "to contact, call",
+   "cat": "talk",
+   "level": "A2",
+   "note": "با کسی تماس گرفتن; more formal than زنگ زدن",
+   "ex": {
+    "fa": "لطفاً با این شماره تماس بگیرید.",
+    "r": "lotfan bā in shomāre tamās be-girid.",
+    "en": "Please call this number.",
+    "faV": "لُطفاً با این شُماره تَماس بِگیرید.",
+    "a": "3976c4afd8fd"
+   },
+   "infV": "تَماس گِرِفتَن",
+   "a": "7544e0f0f3e6"
+  },
+  {
+   "inf": "نیاز داشتن",
+   "r": "niyāz dāshtan",
+   "stem": "نیاز دار",
+   "stemR": "niyāz dār",
+   "subj": "نیاز داشته باش",
+   "subjR": "niyāz dāshte bāsh",
+   "en": "to need",
+   "cat": "other",
+   "level": "A2",
+   "note": "no mi- in the present: به … نیاز دارم (I need …)",
+   "ex": {
+    "fa": "به کمک تو نیاز دارم.",
+    "r": "be komak-e to niyāz dāram.",
+    "en": "I need your help.",
+    "faV": "به کُمَکِ تو نیاز دارَم.",
+    "a": "25ff1b20ab42"
+   },
+   "infV": "نیاز داشتَن",
+   "a": "ccd0fbcb1882"
+  },
+  {
+   "inf": "نگه داشتن",
+   "r": "negah dāshtan",
+   "stem": "نگه دار",
+   "stemR": "negah dār",
+   "en": "to keep, hold; to stop (a car)",
+   "cat": "give-take",
+   "level": "A2",
+   "note": "unlike داشتن it takes mi-: نگه می‌دارم",
+   "ex": {
+    "fa": "آقا، لطفاً همین‌جا نگه دارید.",
+    "r": "āghā, lotfan hamin-jā negah dārid.",
+    "en": "Please stop right here, sir.",
+    "faV": "آقا، لُطفاً هَمین‌جا نِگَه دارید.",
+    "a": "a2244636f691"
+   },
+   "infV": "نِگَه داشتَن",
+   "a": "bbe6c106ac47"
+  },
+  {
+   "inf": "خسته شدن",
+   "r": "khaste shodan",
+   "stem": "خسته شو",
+   "stemR": "khaste shav",
+   "en": "to get tired",
+   "cat": "feelings",
+   "level": "A2",
+   "note": "از … خسته شدن = to get tired of …",
+   "ex": {
+    "fa": "از این همه کار خسته شدم.",
+    "r": "az in hame kār khaste shodam.",
+    "en": "I'm tired of all this work.",
+    "faV": "اَز این هَمه کار خَسته شُدَم.",
+    "a": "02c276fd3b09"
+   },
+   "infV": "خَسته شُدَن",
+   "a": "4e8aa57f1fe0"
+  },
+  {
+   "inf": "ناراحت شدن",
+   "r": "nārāhat shodan",
+   "stem": "ناراحت شو",
+   "stemR": "nārāhat shav",
+   "en": "to get upset",
+   "cat": "feelings",
+   "level": "A2",
+   "ex": {
+    "fa": "از حرفش ناراحت شدم.",
+    "r": "az harf-ash nārāhat shodam.",
+    "en": "What he said upset me.",
+    "faV": "اَز حَرفَش ناراحَت شُدَم.",
+    "a": "8841bbf73e02"
+   },
+   "infV": "ناراحَت شُدَن",
+   "a": "5c6dcc973444"
+  },
+  {
+   "inf": "عصبانی شدن",
+   "r": "asabāni shodan",
+   "stem": "عصبانی شو",
+   "stemR": "asabāni shav",
+   "en": "to get angry",
+   "cat": "feelings",
+   "level": "A2",
+   "ex": {
+    "fa": "وقتی دیر رسیدم، رئیسم عصبانی شد.",
+    "r": "vaghti dir residam, ra'is-am asabāni shod.",
+    "en": "When I arrived late, my boss got angry.",
+    "faV": "وَقتی دیر رِسیدَم، رَئیسَم عَصَبانی شُد.",
+    "a": "f51e47e727ea"
+   },
+   "infV": "عَصَبانی شُدَن",
+   "a": "beee03e2117e"
+  },
+  {
+   "inf": "گم شدن",
+   "r": "gom shodan",
+   "stem": "گم شو",
+   "stemR": "gom shav",
+   "en": "to get lost",
+   "cat": "other",
+   "level": "A2",
+   "note": "the imperative گم شو! is rude: get lost!",
+   "ex": {
+    "fa": "در بازار بزرگ تهران گم شدیم.",
+    "r": "dar bāzār-e bozorg-e Tehrān gom shodim.",
+    "en": "We got lost in Tehran's Grand Bazaar.",
+    "faV": "دَر بازارِ بُزُرگِ تِهران گُم شُدیم.",
+    "a": "7b99be5c0da5"
+   },
+   "infV": "گُم شُدَن",
+   "a": "27c988242279"
+  },
+  {
+   "inf": "آشنا شدن",
+   "r": "āshnā shodan",
+   "stem": "آشنا شو",
+   "stemR": "āshnā shav",
+   "en": "to get to know, meet",
+   "cat": "other",
+   "level": "A2",
+   "note": "با کسی آشنا شدن; از آشنایی‌تان خوشوقتم = pleased to meet you",
+   "ex": {
+    "fa": "ما در دانشگاه با هم آشنا شدیم.",
+    "r": "mā dar dāneshgāh bā ham āshnā shodim.",
+    "en": "We met at university.",
+    "faV": "ما دَر دانِشگاه با هَم آشنا شُدیم.",
+    "a": "b217eb9e2629"
+   },
+   "infV": "آشنا شُدَن",
+   "a": "1a4e20996239"
+  },
+  {
+   "inf": "بزرگ شدن",
+   "r": "bozorg shodan",
+   "stem": "بزرگ شو",
+   "stemR": "bozorg shav",
+   "en": "to grow up",
+   "cat": "change",
+   "level": "A2",
+   "ex": {
+    "fa": "من در یک روستای کوچک بزرگ شدم.",
+    "r": "man dar yek rustā-ye kuchek bozorg shodam.",
+    "en": "I grew up in a small village.",
+    "faV": "مَن دَر یِک روستایِ کوچِک بُزُرگ شُدَم.",
+    "a": "693c2a594e03"
+   },
+   "infV": "بُزُرگ شُدَن",
+   "a": "3e435290c8bd"
+  },
+  {
+   "inf": "مریض شدن",
+   "r": "mariz shodan",
+   "stem": "مریض شو",
+   "stemR": "mariz shav",
+   "en": "to get ill",
+   "cat": "body",
+   "level": "A2",
+   "ex": {
+    "fa": "دیروز مریض شدم و سر کار نرفتم.",
+    "r": "diruz mariz shodam o sar-e kār na-raftam.",
+    "en": "Yesterday I got ill and didn't go to work.",
+    "faV": "دیروز مَریض شُدَم و سَرِ کار نَرَفتَم.",
+    "a": "25189f84a7b5"
+   },
+   "infV": "مَریض شُدَن",
+   "a": "dfdaaf86191a"
+  },
+  {
+   "inf": "آماده شدن",
+   "r": "āmāde shodan",
+   "stem": "آماده شو",
+   "stemR": "āmāde shav",
+   "en": "to get ready",
+   "cat": "daily",
+   "level": "A2",
+   "ex": {
+    "fa": "زود آماده شو، مهمان‌ها دارند می‌آیند!",
+    "r": "zud āmāde show, mehmān-hā dārand mi-āyand!",
+    "en": "Get ready quickly – the guests are coming!",
+    "faV": "زود آماده شَو، مِهمان‌ها دارَند می‌آیَند!",
+    "a": "5bca950c3342"
+   },
+   "infV": "آماده شُدَن",
+   "a": "3a147df11134"
+  },
+  {
+   "inf": "خراب شدن",
+   "r": "kharāb shodan",
+   "stem": "خراب شو",
+   "stemR": "kharāb shav",
+   "en": "to break down, be ruined",
+   "cat": "change",
+   "level": "A2",
+   "ex": {
+    "fa": "ماشینم وسط راه خراب شد.",
+    "r": "māshin-am vasat-e rāh kharāb shod.",
+    "en": "My car broke down on the way.",
+    "faV": "ماشینَم وَسَطِ راه خَراب شُد.",
+    "a": "78b517b87032"
+   },
+   "infV": "خَراب شُدَن",
+   "a": "b55e100f7da7"
+  },
+  {
+   "inf": "سیر شدن",
+   "r": "sir shodan",
+   "stem": "سیر شو",
+   "stemR": "sir shav",
+   "en": "to be full (after eating)",
+   "cat": "food",
+   "level": "A2",
+   "note": "the polite way to refuse more food: مرسی، سیر شدم",
+   "ex": {
+    "fa": "دستتان درد نکند، سیر شدم.",
+    "r": "dast-etān dard na-konad, sir shodam.",
+    "en": "Thank you, I'm full.",
+    "faV": "دَستِتان دَرد نَکُنَد، سیر شُدَم.",
+    "a": "bda7aaf8ef28"
+   },
+   "infV": "سیر شُدَن",
+   "a": "bb398c7bf50a"
+  },
+  {
+   "inf": "سرما خوردن",
+   "r": "sarmā khordan",
+   "stem": "سرما خور",
+   "stemR": "sarmā khor",
+   "pre": "bo",
+   "en": "to catch a cold",
+   "cat": "body",
+   "level": "A2",
+   "ex": {
+    "fa": "سرما خورده‌ام و گلویم درد می‌کند.",
+    "r": "sarmā khorde-am o galu-yam dard mi-konad.",
+    "en": "I've caught a cold and my throat hurts.",
+    "faV": "سَرما خورده‌اَم و گَلویَم دَرد می‌کُنَد.",
+    "a": "b4c9481bfddf"
+   },
+   "infV": "سَرما خوردَن",
+   "a": "88020a9a9fd4"
+  },
+  {
+   "inf": "زمین خوردن",
+   "r": "zamin khordan",
+   "stem": "زمین خور",
+   "stemR": "zamin khor",
+   "pre": "bo",
+   "en": "to fall over",
+   "cat": "body",
+   "level": "A2",
+   "ex": {
+    "fa": "روی یخ زمین خوردم.",
+    "r": "ru-ye yakh zamin khordam.",
+    "en": "I fell over on the ice.",
+    "faV": "رویِ یَخ زَمین خوردَم.",
+    "a": "40986b58a119"
+   },
+   "infV": "زَمین خوردَن",
+   "a": "50c18830cbfa"
+  },
+  {
+   "inf": "طول کشیدن",
+   "r": "tul keshidan",
+   "stem": "طول کش",
+   "stemR": "tul kesh",
+   "en": "to take (time), last",
+   "cat": "other",
+   "level": "A2",
+   "note": "usually third person: چقدر طول می‌کشد؟ (how long does it take?)",
+   "ex": {
+    "fa": "تا فرودگاه چقدر طول می‌کشد؟",
+    "r": "tā forudgāh cheghadr tul mi-keshad?",
+    "en": "How long does it take to get to the airport?",
+    "faV": "تا فُرودگاه چِقَدر طول می‌کِشَد؟",
+    "a": "a1137afd8b07"
+   },
+   "infV": "طول کِشیدَن",
+   "a": "17962e6cfb3d"
+  },
+  {
+   "inf": "خجالت کشیدن",
+   "r": "khejālat keshidan",
+   "stem": "خجالت کش",
+   "stemR": "khejālat kesh",
+   "en": "to be shy, be embarrassed",
+   "cat": "feelings",
+   "level": "A2",
+   "ex": {
+    "fa": "خجالت نکش، بیا تو!",
+    "r": "khejālat na-kesh, biyā tu!",
+    "en": "Don't be shy, come in!",
+    "faV": "خِجالَت نَکِش، بیا تو!",
+    "a": "af57ce7851c9"
+   },
+   "infV": "خِجالَت کِشیدَن",
+   "a": "feb1773aa881"
+  },
+  {
+   "inf": "زحمت کشیدن",
+   "r": "zahmat keshidan",
+   "stem": "زحمت کش",
+   "stemR": "zahmat kesh",
+   "en": "to take trouble, work hard",
+   "cat": "work",
+   "level": "A2",
+   "note": "خیلی زحمت کشیدید = thank you for all your trouble",
+   "ex": {
+    "fa": "خیلی زحمت کشیدید، دستتان درد نکند.",
+    "r": "kheyli zahmat keshidid, dast-etān dard na-konad.",
+    "en": "You've gone to so much trouble – thank you.",
+    "faV": "خَیلی زَحمَت کِشیدید، دَستِتان دَرد نَکُنَد.",
+    "a": "cf915f09c945"
+   },
+   "infV": "زَحمَت کِشیدَن",
+   "a": "e63513741cfe"
+  },
+  {
+   "inf": "قرار گذاشتن",
+   "r": "gharār gozāshtan",
+   "stem": "قرار گذار",
+   "stemR": "gharār gozār",
+   "en": "to arrange to meet, make a date",
+   "cat": "talk",
+   "level": "A2",
+   "ex": {
+    "fa": "با دوستم ساعت پنج جلوی سینما قرار گذاشتم.",
+    "r": "bā dust-am sā'at-e panj jelow-ye sinemā gharār gozāshtam.",
+    "en": "I've arranged to meet my friend at five outside the cinema.",
+    "faV": "با دوستَم ساعَتِ پَنج جِلَویِ سینِما قَرار گُذاشتَم.",
+    "a": "d85c855d0bd3"
+   },
+   "infV": "قَرار گُذاشتَن",
+   "a": "177a75ff4fe5"
+  },
+  {
+   "inf": "جا گذاشتن",
+   "r": "jā gozāshtan",
+   "stem": "جا گذار",
+   "stemR": "jā gozār",
+   "en": "to leave behind (by mistake)",
+   "cat": "give-take",
+   "level": "A2",
+   "ex": {
+    "fa": "عینکم را در تاکسی جا گذاشتم.",
+    "r": "eynak-am rā dar tāksi jā gozāshtam.",
+    "en": "I left my glasses in the taxi.",
+    "faV": "عَینَکَم را دَر تاکسی جا گُذاشتَم.",
+    "a": "b19da1cb38d2"
+   },
+   "infV": "جا گُذاشتَن",
+   "a": "3418b3fdb5eb"
+  },
+  {
+   "inf": "به دنیا آمدن",
+   "r": "be donyā āmadan",
+   "stem": "به دنیا آ",
+   "stemR": "be donyā ā",
+   "subj": "به دنیا بیا",
+   "subjR": "be donyā biyā",
+   "en": "to be born",
+   "cat": "being",
+   "level": "A2",
+   "ex": {
+    "fa": "نوه‌ی اولم دیروز به دنیا آمد.",
+    "r": "nave-ye avval-am diruz be donyā āmad.",
+    "en": "My first grandchild was born yesterday.",
+    "faV": "نَوه‌یِ اَوَّلَم دیروز به دُنیا آمَد.",
+    "a": "43b99cde049b"
+   },
+   "infV": "به دُنیا آمَدَن",
+   "a": "baddb8fc6357"
+  },
+  {
+   "inf": "لذت بردن",
+   "r": "lezzat bordan",
+   "stem": "لذت بر",
+   "stemR": "lezzat bar",
+   "en": "to enjoy",
+   "cat": "feelings",
+   "level": "A2",
+   "note": "از … لذت بردن = to enjoy …",
+   "ex": {
+    "fa": "از سفر به یزد خیلی لذت بردیم.",
+    "r": "az safar be Yazd kheyli lezzat bordim.",
+    "en": "We really enjoyed the trip to Yazd.",
+    "faV": "اَز سَفَر به یَزد خَیلی لِذَّت بُردیم.",
+    "a": "e12e08030fe9"
+   },
+   "infV": "لِذَّت بُردَن",
+   "a": "e8aaa74d2823"
+  },
+  {
+   "inf": "اتفاق افتادن",
+   "r": "ettefāgh oftādan",
+   "stem": "اتفاق افت",
+   "stemR": "ettefāgh oft",
+   "subj": "اتفاق بیفت",
+   "subjR": "ettefāgh biyoft",
+   "en": "to happen",
+   "cat": "other",
+   "level": "A2",
+   "note": "usually third person: چه اتفاقی افتاد؟ (what happened?)",
+   "ex": {
+    "fa": "دیروز در خیابان ما یک تصادف اتفاق افتاد.",
+    "r": "diruz dar khiyābān-e mā yek tasādof ettefāgh oftād.",
+    "en": "Yesterday there was an accident in our street.",
+    "faV": "دیروز دَر خیابانِ ما یِک تَصادُف اِتِّفاق اُفتاد.",
+    "a": "0d59466df5ec"
+   },
+   "infV": "اِتِّفاق اُفتادَن",
+   "a": "4a6429a2f271"
+  },
+  {
+   "inf": "راه افتادن",
+   "r": "rāh oftādan",
+   "stem": "راه افت",
+   "stemR": "rāh oft",
+   "subj": "راه بیفت",
+   "subjR": "rāh biyoft",
+   "en": "to set off; to get going",
+   "cat": "motion",
+   "level": "A2",
+   "ex": {
+    "fa": "ساعت هفت صبح راه افتادیم.",
+    "r": "sā'at-e haft-e sobh rāh oftādim.",
+    "en": "We set off at seven in the morning.",
+    "faV": "ساعَتِ هَفتِ صُبح راه اُفتادیم.",
+    "a": "a716c88e6be5"
+   },
+   "infV": "راه اُفتادَن",
+   "a": "fe706587363f"
+  },
+  {
+   "inf": "خواب دیدن",
+   "r": "khāb didan",
+   "stem": "خواب بین",
+   "stemR": "khāb bin",
+   "en": "to dream",
+   "cat": "daily",
+   "level": "A2",
+   "ex": {
+    "fa": "دیشب خواب دیدم در اصفهان هستم.",
+    "r": "dishab khāb didam dar Esfahān hastam.",
+    "en": "Last night I dreamt I was in Isfahan.",
+    "faV": "دیشَب خواب دیدَم دَر اِصفَهان هَستَم.",
+    "a": "a353cae0b38a"
+   },
+   "infV": "خواب دیدَن",
+   "a": "4e5f3db6843c"
+  },
+  {
+   "inf": "منتظر ماندن",
+   "r": "montazer māndan",
+   "stem": "منتظر مان",
+   "stemR": "montazer mān",
+   "en": "to wait",
+   "cat": "other",
+   "level": "A2",
+   "note": "منتظر کسی ماندن = to wait for someone; also منتظر بودن",
+   "ex": {
+    "fa": "لطفاً چند دقیقه منتظر بمانید.",
+    "r": "lotfan chand daghighe montazer be-mānid.",
+    "en": "Please wait a few minutes.",
+    "faV": "لُطفاً چَند دَقیقه مُنتَظِر بِمانید.",
+    "a": "fbc28acba38c"
+   },
+   "infV": "مُنتَظِر ماندَن",
+   "a": "a221c1d25790"
+  },
+  {
+   "inf": "مواظب بودن",
+   "r": "movāzeb budan",
+   "stem": "مواظب باش",
+   "stemR": "movāzeb bāsh",
+   "subj": "مواظب باش",
+   "subjR": "movāzeb bāsh",
+   "en": "to be careful, look after",
+   "cat": "other",
+   "level": "A2",
+   "note": "present مواظبم or مواظب هستم; imperative مواظب باش! (be careful!)",
+   "ex": {
+    "fa": "مواظب خودت باش!",
+    "r": "movāzeb-e khod-at bāsh!",
+    "en": "Take care of yourself!",
+    "faV": "مُواظِبِ خودَت باش!",
+    "a": "d474c2facd36"
+   },
+   "infV": "مُواظِب بودَن",
+   "a": "83a43fb1040e"
+  },
+  {
+   "inf": "نگران بودن",
+   "r": "negarān budan",
+   "stem": "نگران باش",
+   "stemR": "negarān bāsh",
+   "subj": "نگران باش",
+   "subjR": "negarān bāsh",
+   "en": "to be worried",
+   "cat": "feelings",
+   "level": "A2",
+   "note": "present نگرانم or نگران هستم; نگران نباش = don't worry",
+   "ex": {
+    "fa": "نگران نباش، همه چیز درست می‌شود.",
+    "r": "negarān na-bāsh, hame chiz dorost mi-shavad.",
+    "en": "Don't worry, everything will be all right.",
+    "faV": "نِگَران نَباش، هَمه چیز دُرُست می‌شَوَد.",
+    "a": "6a8790226944"
+   },
+   "infV": "نِگَران بودَن",
+   "a": "b213d30ce65a"
+  },
+  {
+   "inf": "موافق بودن",
+   "r": "movāfegh budan",
+   "stem": "موافق باش",
+   "stemR": "movāfegh bāsh",
+   "subj": "موافق باش",
+   "subjR": "movāfegh bāsh",
+   "en": "to agree",
+   "cat": "mind",
+   "level": "A2",
+   "note": "present موافقم (I agree); the opposite is مخالف بودن",
+   "ex": {
+    "fa": "با نظر شما موافقم.",
+    "r": "bā nazar-e shomā movāfegh-am.",
+    "en": "I agree with you.",
+    "faV": "با نَظَرِ شُما مُوافِقَم.",
+    "a": "f26ad2df80b0"
+   },
+   "infV": "مُوافِق بودَن",
+   "a": "27f6dcd63056"
+  },
+  {
+   "inf": "آرزو کردن",
+   "r": "ārezu kardan",
+   "stem": "آرزو کن",
+   "stemR": "ārezu kon",
+   "en": "to wish",
+   "cat": "feelings",
+   "level": "A2",
+   "ex": {
+    "fa": "برایت موفقیت آرزو می‌کنم.",
+    "r": "barā-yat movaffaghiyyat ārezu mi-konam.",
+    "en": "I wish you success.",
+    "faV": "بَرایَت مُوَفَّقیَّت آرِزو می‌کُنَم.",
+    "a": "129209202010"
+   },
+   "infV": "آرِزو کَردَن",
+   "a": "2f5efabbd33a"
+  },
+  {
+   "inf": "تلاش کردن",
+   "r": "talāsh kardan",
+   "stem": "تلاش کن",
+   "stemR": "talāsh kon",
+   "en": "to try hard, make an effort",
+   "cat": "work",
+   "level": "B1",
+   "ex": {
+    "fa": "خیلی تلاش کرد تا در کنکور قبول شود.",
+    "r": "kheyli talāsh kard tā dar konkur ghabul shavad.",
+    "en": "She worked very hard to pass the university entrance exam.",
+    "faV": "خَیلی تَلاش کَرد تا دَر کُنکور قَبول شَوَد.",
+    "a": "63bb506ee75a"
+   },
+   "infV": "تَلاش کَردَن",
+   "a": "2d0571f0d28e"
+  },
+  {
+   "inf": "حرکت کردن",
+   "r": "harekat kardan",
+   "stem": "حرکت کن",
+   "stemR": "harekat kon",
+   "en": "to move; to set off, depart",
+   "cat": "motion",
+   "level": "B1",
+   "ex": {
+    "fa": "قطار ساعت ده حرکت می‌کند.",
+    "r": "ghatār sā'at-e dah harekat mi-konad.",
+    "en": "The train leaves at ten.",
+    "faV": "قَطار ساعَتِ دَه حَرِکَت می‌کُنَد.",
+    "a": "224e8b46083e"
+   },
+   "infV": "حَرِکَت کَردَن",
+   "a": "aeb97b120cfe"
+  },
+  {
+   "inf": "عذرخواهی کردن",
+   "r": "ozr-khāhi kardan",
+   "stem": "عذرخواهی کن",
+   "stemR": "ozr-khāhi kon",
+   "en": "to apologise",
+   "cat": "talk",
+   "level": "B1",
+   "note": "از کسی عذرخواهی کردن = to apologise to someone",
+   "ex": {
+    "fa": "به خاطر دیر آمدنم عذرخواهی می‌کنم.",
+    "r": "be khāter-e dir āmadan-am ozr-khāhi mi-konam.",
+    "en": "I apologise for coming late.",
+    "faV": "به خاطِرِ دیر آمَدَنَم عُذرخواهی می‌کُنَم.",
+    "a": "c2f2293209f7"
+   },
+   "infV": "عُذرخواهی کَردَن",
+   "a": "a9bf8a5d3a50"
+  },
+  {
+   "inf": "تعجب کردن",
+   "r": "ta'ajjob kardan",
+   "stem": "تعجب کن",
+   "stemR": "ta'ajjob kon",
+   "en": "to be surprised",
+   "cat": "feelings",
+   "level": "B1",
+   "ex": {
+    "fa": "از دیدنش در آن‌جا تعجب کردم.",
+    "r": "az didan-ash dar ān-jā ta'ajjob kardam.",
+    "en": "I was surprised to see him there.",
+    "faV": "اَز دیدَنَش دَر آن‌جا تَعَجُّب کَردَم.",
+    "a": "3fac080ec351"
+   },
+   "infV": "تَعَجُّب کَردَن",
+   "a": "838399a81a0d"
+  },
+  {
+   "inf": "احساس کردن",
+   "r": "ehsās kardan",
+   "stem": "احساس کن",
+   "stemR": "ehsās kon",
+   "en": "to feel",
+   "cat": "feelings",
+   "level": "B1",
+   "ex": {
+    "fa": "احساس می‌کنم کسی مرا نگاه می‌کند.",
+    "r": "ehsās mi-konam kas-i marā negāh mi-konad.",
+    "en": "I feel that someone is watching me.",
+    "faV": "اِحساس می‌کُنَم کَسی مَرا نِگاه می‌کُنَد.",
+    "a": "6b6386c2691b"
+   },
+   "infV": "اِحساس کَردَن",
+   "a": "0dbfb15fdfb8"
+  },
+  {
+   "inf": "اعلام کردن",
+   "r": "e'lām kardan",
+   "stem": "اعلام کن",
+   "stemR": "e'lām kon",
+   "en": "to announce, declare",
+   "cat": "talk",
+   "level": "B1",
+   "ex": {
+    "fa": "دولت فردا را تعطیل اعلام کرد.",
+    "r": "dowlat fardā rā ta'til e'lām kard.",
+    "en": "The government declared tomorrow a holiday.",
+    "faV": "دَولَت فَردا را تَعطیل اِعلام کَرد.",
+    "a": "6639d1f0d260"
+   },
+   "infV": "اِعلام کَردَن",
+   "a": "39a9cd70fea6"
+  },
+  {
+   "inf": "بررسی کردن",
+   "r": "barrasi kardan",
+   "stem": "بررسی کن",
+   "stemR": "barrasi kon",
+   "en": "to examine, look into",
+   "cat": "work",
+   "level": "B1",
+   "ex": {
+    "fa": "پلیس موضوع را بررسی می‌کند.",
+    "r": "polis mowzu' rā barrasi mi-konad.",
+    "en": "The police are looking into the matter.",
+    "faV": "پُلیس مَوضوع را بَررَسی می‌کُنَد.",
+    "a": "ea7e9558a590"
+   },
+   "infV": "بَررَسی کَردَن",
+   "a": "4285f6e53d8e"
+  },
+  {
+   "inf": "عادت کردن",
+   "r": "ādat kardan",
+   "stem": "عادت کن",
+   "stemR": "ādat kon",
+   "en": "to get used to",
+   "cat": "mind",
+   "level": "B1",
+   "note": "به … عادت کردن = to get used to …",
+   "ex": {
+    "fa": "کم‌کم به هوای این‌جا عادت کردم.",
+    "r": "kam-kam be havā-ye in-jā ādat kardam.",
+    "en": "Little by little I got used to the weather here.",
+    "faV": "کَم‌کَم به هَوایِ این‌جا عادَت کَردَم.",
+    "a": "3798a490bc84"
+   },
+   "infV": "عادَت کَردَن",
+   "a": "cd50cc290db5"
+  },
+  {
+   "inf": "توجه کردن",
+   "r": "tavajjoh kardan",
+   "stem": "توجه کن",
+   "stemR": "tavajjoh kon",
+   "en": "to pay attention",
+   "cat": "mind",
+   "level": "B1",
+   "note": "به … توجه کردن = to pay attention to …",
+   "ex": {
+    "fa": "به علامت‌های راهنمایی توجه کنید.",
+    "r": "be alāmat-hā-ye rāhnamāyi tavajjoh konid.",
+    "en": "Pay attention to the traffic signs.",
+    "faV": "به عَلامَت‌هایِ راهنَمایی تَوَجُّه کُنید.",
+    "a": "7c99679a900e"
+   },
+   "infV": "تَوَجُّه کَردَن",
+   "a": "9ce1ddbe426a"
+  },
+  {
+   "inf": "شرکت کردن",
+   "r": "sherkat kardan",
+   "stem": "شرکت کن",
+   "stemR": "sherkat kon",
+   "en": "to take part",
+   "cat": "work",
+   "level": "B1",
+   "note": "در … شرکت کردن = to take part in …",
+   "ex": {
+    "fa": "در مسابقه‌ی نقاشی مدرسه شرکت کردم.",
+    "r": "dar mosābeghe-ye naghghāshi-ye madrese sherkat kardam.",
+    "en": "I took part in the school painting competition.",
+    "faV": "دَر مُسابِقه‌یِ نَقّاشیِ مَدرِسه شِرکَت کَردَم.",
+    "a": "fcc9dc757ef6"
+   },
+   "infV": "شِرکَت کَردَن",
+   "a": "794e61cd9cef"
+  },
+  {
+   "inf": "ترجیح دادن",
+   "r": "tarjih dādan",
+   "stem": "ترجیح ده",
+   "stemR": "tarjih dah",
+   "en": "to prefer",
+   "cat": "mind",
+   "level": "B1",
+   "ex": {
+    "fa": "ترجیح می‌دهم امشب در خانه بمانم.",
+    "r": "tarjih mi-daham emshab dar khāne be-mānam.",
+    "en": "I'd rather stay at home tonight.",
+    "faV": "تَرجیح می‌دَهَم اِمشَب دَر خانه بِمانَم.",
+    "a": "610b7b3c739e"
+   },
+   "infV": "تَرجیح دادَن",
+   "a": "6cab5e1b4f92"
+  },
+  {
+   "inf": "پیشنهاد دادن",
+   "r": "pishnahād dādan",
+   "stem": "پیشنهاد ده",
+   "stemR": "pishnahād dah",
+   "en": "to suggest, offer",
+   "cat": "talk",
+   "level": "B1",
+   "ex": {
+    "fa": "دوستم یک رستوران خوب پیشنهاد داد.",
+    "r": "dust-am yek resturān-e khub pishnahād dād.",
+    "en": "My friend suggested a good restaurant.",
+    "faV": "دوستَم یِک رِستورانِ خوب پیشنَهاد داد.",
+    "a": "7e8e4f644417"
+   },
+   "infV": "پیشنَهاد دادَن",
+   "a": "37372933cb8c"
+  },
+  {
+   "inf": "گزارش دادن",
+   "r": "gozāresh dādan",
+   "stem": "گزارش ده",
+   "stemR": "gozāresh dah",
+   "en": "to report",
+   "cat": "talk",
+   "level": "B1",
+   "ex": {
+    "fa": "خبرنگار از محل حادثه گزارش داد.",
+    "r": "khabarnegār az mahall-e hādese gozāresh dād.",
+    "en": "The reporter reported from the scene of the accident.",
+    "faV": "خَبَرنِگار اَز مَحَلِّ حادِثه گُزارِش داد.",
+    "a": "c3470ee92671"
+   },
+   "infV": "گُزارِش دادَن",
+   "a": "6d831b069746"
+  },
+  {
+   "inf": "از دست دادن",
+   "r": "az dast dādan",
+   "stem": "از دست ده",
+   "stemR": "az dast dah",
+   "en": "to lose (a person, a chance)",
+   "cat": "give-take",
+   "level": "B1",
+   "ex": {
+    "fa": "این فرصت را از دست نده!",
+    "r": "in forsat rā az dast na-deh!",
+    "en": "Don't miss this opportunity!",
+    "faV": "این فُرصَت را اَز دَست نَدِه!",
+    "a": "7313ca749ddb"
+   },
+   "infV": "اَز دَست دادَن",
+   "a": "dc133fb96152"
+  },
+  {
+   "inf": "وجود داشتن",
+   "r": "vojud dāshtan",
+   "stem": "وجود دار",
+   "stemR": "vojud dār",
+   "subj": "وجود داشته باش",
+   "subjR": "vojud dāshte bāsh",
+   "en": "to exist; there is, there are",
+   "cat": "being",
+   "level": "B1",
+   "note": "no mi- in the present: وجود دارد (there is)",
+   "ex": {
+    "fa": "در این شهر سه دانشگاه وجود دارد.",
+    "r": "dar in shahr se dāneshgāh vojud dārad.",
+    "en": "There are three universities in this city.",
+    "faV": "دَر این شَهر سه دانِشگاه وُجود دارَد.",
+    "a": "bcdb7f914ebe"
+   },
+   "infV": "وُجود داشتَن",
+   "a": "3b756aea10f1"
+  },
+  {
+   "inf": "انتظار داشتن",
+   "r": "entezār dāshtan",
+   "stem": "انتظار دار",
+   "stemR": "entezār dār",
+   "subj": "انتظار داشته باش",
+   "subjR": "entezār dāshte bāsh",
+   "en": "to expect",
+   "cat": "mind",
+   "level": "B1",
+   "note": "no mi- in the present: انتظار دارم (I expect)",
+   "ex": {
+    "fa": "از تو چنین رفتاری انتظار نداشتم.",
+    "r": "az to chenin raftār-i entezār na-dāshtam.",
+    "en": "I didn't expect such behaviour from you.",
+    "faV": "اَز تو چِنین رَفتاری اِنتِظار نَداشتَم.",
+    "a": "badf4aed0cfa"
+   },
+   "infV": "اِنتِظار داشتَن",
+   "a": "75bd7247d62d"
+  },
+  {
+   "inf": "بستگی داشتن",
+   "r": "bastegi dāshtan",
+   "stem": "بستگی دار",
+   "stemR": "bastegi dār",
+   "subj": "بستگی داشته باش",
+   "subjR": "bastegi dāshte bāsh",
+   "en": "to depend",
+   "cat": "other",
+   "level": "B1",
+   "note": "no mi- in the present: به … بستگی دارد = it depends on …",
+   "ex": {
+    "fa": "به هوا بستگی دارد.",
+    "r": "be havā bastegi dārad.",
+    "en": "It depends on the weather.",
+    "faV": "به هَوا بَستِگی دارَد.",
+    "a": "203d20a47076"
+   },
+   "infV": "بَستِگی داشتَن",
+   "a": "abd927be0041"
+  },
+  {
+   "inf": "متوجه شدن",
+   "r": "motevajjeh shodan",
+   "stem": "متوجه شو",
+   "stemR": "motevajjeh shav",
+   "en": "to notice; to understand",
+   "cat": "mind",
+   "level": "B1",
+   "ex": {
+    "fa": "متوجه شدی چه گفت؟",
+    "r": "motevajjeh shodi che goft?",
+    "en": "Did you understand what he said?",
+    "faV": "مُتِوَجِّه شُدی چه گُفت؟",
+    "a": "828507c93696"
+   },
+   "infV": "مُتِوَجِّه شُدَن",
+   "a": "d0b8d8bf6166"
+  },
+  {
+   "inf": "موفق شدن",
+   "r": "movaffagh shodan",
+   "stem": "موفق شو",
+   "stemR": "movaffagh shav",
+   "en": "to succeed, manage to",
+   "cat": "work",
+   "level": "B1",
+   "ex": {
+    "fa": "بالاخره موفق شد گواهینامه بگیرد.",
+    "r": "bālākhare movaffagh shod govāhināme be-girad.",
+    "en": "She finally managed to get her driving licence.",
+    "faV": "بالاخَره مُوَفَّق شُد گُواهینامه بِگیرَد.",
+    "a": "6c231fda6b7d"
+   },
+   "infV": "مُوَفَّق شُدَن",
+   "a": "a43665c6d9c9"
+  },
+  {
+   "inf": "باعث شدن",
+   "r": "bā'es shodan",
+   "stem": "باعث شو",
+   "stemR": "bā'es shav",
+   "en": "to cause",
+   "cat": "other",
+   "level": "B1",
+   "note": "followed by the subjunctive: باعث شد بمانیم (it made us stay)",
+   "ex": {
+    "fa": "باران باعث شد مسابقه لغو شود.",
+    "r": "bārān bā'es shod mosābeghe laghv shavad.",
+    "en": "The rain caused the match to be cancelled.",
+    "faV": "باران باعِث شُد مُسابِقه لَغو شَوَد.",
+    "a": "2bcb9c1fc1b6"
+   },
+   "infV": "باعِث شُدَن",
+   "a": "68501f23a2ed"
+  },
+  {
+   "inf": "به نظر رسیدن",
+   "r": "be nazar residan",
+   "stem": "به نظر رس",
+   "stemR": "be nazar res",
+   "en": "to seem, look",
+   "cat": "mind",
+   "level": "B1",
+   "ex": {
+    "fa": "خسته به نظر می‌رسی.",
+    "r": "khaste be nazar mi-resi.",
+    "en": "You look tired.",
+    "faV": "خَسته به نَظَر می‌رِسی.",
+    "a": "37d54868f1a0"
+   },
+   "infV": "به نَظَر رِسیدَن",
+   "a": "259ef4ef3ec6"
+  },
+  {
+   "inf": "وارد شدن",
+   "r": "vāred shodan",
+   "stem": "وارد شو",
+   "stemR": "vāred shav",
+   "en": "to enter, come in",
+   "cat": "motion",
+   "level": "B1",
+   "ex": {
+    "fa": "مهمان‌ها وارد سالن شدند.",
+    "r": "mehmān-hā vāred-e sālon shodand.",
+    "en": "The guests came into the hall.",
+    "faV": "مِهمان‌ها وارِدِ سالُن شُدَند.",
+    "a": "b33e9f742607"
+   },
+   "infV": "وارِد شُدَن",
+   "a": "8e352b7ec2e7"
+  },
+  {
+   "inf": "تغییر کردن",
+   "r": "taghyir kardan",
+   "stem": "تغییر کن",
+   "stemR": "taghyir kon",
+   "en": "to change (become different)",
+   "cat": "change",
+   "level": "B1",
+   "ex": {
+    "fa": "شهر خیلی تغییر کرده است.",
+    "r": "shahr kheyli taghyir karde ast.",
+    "en": "The city has changed a lot.",
+    "faV": "شَهر خَیلی تَغییر کَرده اَست.",
+    "a": "47f6bb7b16fc"
+   },
+   "infV": "تَغییر کَردَن",
+   "a": "ccb507711b9c"
+  },
+  {
+   "inf": "تغییر دادن",
+   "r": "taghyir dādan",
+   "stem": "تغییر ده",
+   "stemR": "taghyir dah",
+   "en": "to change (something)",
+   "cat": "change",
+   "level": "B1",
+   "ex": {
+    "fa": "برنامه‌ام را تغییر دادم.",
+    "r": "barnāme-am rā taghyir dādam.",
+    "en": "I changed my plans.",
+    "faV": "بَرنامه‌اَم را تَغییر دادَم.",
+    "a": "f3f12ae24e50"
+   },
+   "infV": "تَغییر دادَن",
+   "a": "0c27f1c5d39a"
+  },
+  {
+   "inf": "به دست آوردن",
+   "r": "be dast āvardan",
+   "stem": "به دست آور",
+   "stemR": "be dast āvar",
+   "subj": "به دست بیاور",
+   "subjR": "be dast biyāvar",
+   "en": "to obtain, win",
+   "cat": "give-take",
+   "level": "B1",
+   "ex": {
+    "fa": "تیم ما مدال طلا به دست آورد.",
+    "r": "tim-e mā medāl-e talā be dast āvard.",
+    "en": "Our team won a gold medal.",
+    "faV": "تیمِ ما مِدالِ طَلا به دَست آوَرد.",
+    "a": "df5437200649"
+   },
+   "infV": "به دَست آوَردَن",
+   "a": "ed31d64b867e"
+  },
+  {
+   "inf": "قبول شدن",
+   "r": "ghabul shodan",
+   "stem": "قبول شو",
+   "stemR": "ghabul shav",
+   "en": "to pass (an exam), be accepted",
+   "cat": "work",
+   "level": "B1",
+   "ex": {
+    "fa": "در امتحان رانندگی قبول شدی؟",
+    "r": "dar emtehān-e rānandegi ghabul shodi?",
+    "en": "Did you pass your driving test?",
+    "faV": "دَر اِمتِحانِ رانَندِگی قَبول شُدی؟",
+    "a": "79aaf84b28de"
+   },
+   "infV": "قَبول شُدَن",
+   "a": "44ff3e8f1a54"
+  },
+  {
+   "inf": "کنار آمدن",
+   "r": "kenār āmadan",
+   "stem": "کنار آ",
+   "stemR": "kenār ā",
+   "subj": "کنار بیا",
+   "subjR": "kenār biyā",
+   "en": "to come to terms (with); to get along (with)",
+   "cat": "other",
+   "level": "B2",
+   "note": "با … کنار آمدن",
+   "ex": {
+    "fa": "باید با این مشکل کنار بیاییم.",
+    "r": "bāyad bā in moshkel kenār biyāyim.",
+    "en": "We have to come to terms with this problem.",
+    "faV": "بایَد با این مُشکِل کِنار بیاییم.",
+    "a": "d1d4fe9da387"
+   },
+   "infV": "کِنار آمَدَن",
+   "a": "052aa5c7a4dd"
+  },
+  {
+   "inf": "کوتاه آمدن",
+   "r": "kutāh āmadan",
+   "stem": "کوتاه آ",
+   "stemR": "kutāh ā",
+   "subj": "کوتاه بیا",
+   "subjR": "kutāh biyā",
+   "en": "to back down, give in",
+   "cat": "other",
+   "level": "B2",
+   "ex": {
+    "fa": "او هیچ‌وقت کوتاه نمی‌آید.",
+    "r": "u hich-vaght kutāh nemi-āyad.",
+    "en": "He never backs down.",
+    "faV": "او هیچ‌وَقت کوتاه نِمی‌آیَد.",
+    "a": "f11ed7ea9eb4"
+   },
+   "infV": "کوتاه آمَدَن",
+   "a": "5cf1f054f108"
+  },
+  {
+   "inf": "پی بردن",
+   "r": "pey bordan",
+   "stem": "پی بر",
+   "stemR": "pey bar",
+   "en": "to realise, find out",
+   "cat": "mind",
+   "level": "B2",
+   "note": "به … پی بردن = to realise …",
+   "ex": {
+    "fa": "کم‌کم به اشتباهم پی بردم.",
+    "r": "kam-kam be eshtebāh-am pey bordam.",
+    "en": "Gradually I realised my mistake.",
+    "faV": "کَم‌کَم به اِشتِباهَم پَی بُردَم.",
+    "a": "de2b51bee815"
+   },
+   "infV": "پَی بُردَن",
+   "a": "c9fedb633590"
+  },
+  {
+   "inf": "در نظر گرفتن",
+   "r": "dar nazar gereftan",
+   "stem": "در نظر گیر",
+   "stemR": "dar nazar gir",
+   "en": "to take into account, consider",
+   "cat": "mind",
+   "level": "B2",
+   "ex": {
+    "fa": "همه‌ی جوانب را در نظر بگیر.",
+    "r": "hame-ye javāneb rā dar nazar be-gir.",
+    "en": "Take every aspect into account.",
+    "faV": "هَمه‌یِ جَوانِب را دَر نَظَر بِگیر.",
+    "a": "d585232da6f6"
+   },
+   "infV": "دَر نَظَر گِرِفتَن",
+   "a": "be38941d74c9"
+  }
+ ]
 }

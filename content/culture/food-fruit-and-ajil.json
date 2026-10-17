@@ -32,38 +32,230 @@
   }
  ],
  "sentences": [
-  {"fa": "بفرمایید میوه؛ تعارف نکنید.", "r": "befarmāyid mive; ta'ārof na-konid.", "en": "Please have some fruit – don't be shy.", "col": "بفرمایین میوه؛ تعارف نکنین.", "colR": "befarmāyin mive; ta'ārof na-konin."},
-  {"fa": "در ایران خیار هم جزو میوه است.", "r": "dar Irān khiyār ham jozv-e mive ast.", "en": "In Iran cucumber counts as a fruit too."},
-  {"fa": "انار ساوه خیلی معروف است.", "r": "anār-e Sāve kheyli ma'ruf ast.", "en": "Saveh pomegranates are very famous."},
-  {"fa": "این انار شیرین است یا ترش؟", "r": "in anār shirin ast yā torsh?", "en": "Is this pomegranate sweet or sour?"},
-  {"fa": "یک کیلو پسته‌ی خندان می‌خواهم.", "r": "yek kilu peste-ye khandān mi-khāham.", "en": "I'd like a kilo of open pistachios.", "col": "یه کیلو پسته‌ی خندون می‌خوام.", "colR": "ye kilu peste-ye khandun mi-khām."},
-  {"fa": "آجیل شب یلدا را خریدی؟", "r": "ājil-e shab-e yaldā rā kharidi?", "en": "Did you buy the ajil for Yalda night?"},
-  {"fa": "در سفر همیشه تخمه می‌شکنیم.", "r": "dar safar hamishe tokhme mi-shekanim.", "en": "On trips we always crack seeds."},
-  {"fa": "گوجه‌سبز را با نمک می‌خورند.", "r": "gowje-sabz rā bā namak mi-khorand.", "en": "Green plums are eaten with salt."},
-  {"fa": "بچه‌ها عاشق لواشک‌اند.", "r": "bacche-hā āshegh-e lavāshak-and.", "en": "Children love fruit leather."},
-  {"fa": "هندوانه را خنک کن، بعد قاچ کن.", "r": "hendevāne rā khonak kon, ba'd ghāch kon.", "en": "Chill the watermelon, then cut it into slices."},
-  {"fa": "این خربزه مثل عسل شیرین است.", "r": "in kharboze mesl-e asal shirin ast.", "en": "This melon is as sweet as honey."},
-  {"fa": "پوست میوه را برایتان بکنم؟", "r": "pust-e mive rā barā-yetān be-kanam?", "en": "Shall I peel the fruit for you?", "col": "پوست میوه رو براتون بکنم؟", "colR": "pust-e mive ro barā-tun be-kanam?"}
+  {
+   "fa": "بفرمایید میوه؛ تعارف نکنید.",
+   "r": "befarmāyid mive; ta'ārof na-konid.",
+   "en": "Please have some fruit – don't be shy.",
+   "col": "بفرمایین میوه؛ تعارف نکنین.",
+   "colR": "befarmāyin mive; ta'ārof na-konin.",
+   "faV": "بِفَرمایید میوه؛ تَعارُف نَکُنید.",
+   "a": "dd4fac847b44",
+   "colV": "بِفَرمایین میوه؛ تَعارُف نَکُنین.",
+   "colA": "735c6d11e52c"
+  },
+  {
+   "fa": "در ایران خیار هم جزو میوه است.",
+   "r": "dar Irān khiyār ham jozv-e mive ast.",
+   "en": "In Iran cucumber counts as a fruit too.",
+   "faV": "دَر ایران خیار هَم جُزوِ میوه اَست.",
+   "a": "35c34a0d746b"
+  },
+  {
+   "fa": "انار ساوه خیلی معروف است.",
+   "r": "anār-e Sāve kheyli ma'ruf ast.",
+   "en": "Saveh pomegranates are very famous.",
+   "faV": "اَنارِ ساوه خَیلی مَعروف اَست.",
+   "a": "c4f557c389d7"
+  },
+  {
+   "fa": "این انار شیرین است یا ترش؟",
+   "r": "in anār shirin ast yā torsh?",
+   "en": "Is this pomegranate sweet or sour?",
+   "faV": "این اَنار شیرین اَست یا تُرش؟",
+   "a": "60c8be1f6940"
+  },
+  {
+   "fa": "یک کیلو پسته‌ی خندان می‌خواهم.",
+   "r": "yek kilu peste-ye khandān mi-khāham.",
+   "en": "I'd like a kilo of open pistachios.",
+   "col": "یه کیلو پسته‌ی خندون می‌خوام.",
+   "colR": "ye kilu peste-ye khandun mi-khām.",
+   "faV": "یِک کیلو پِسته‌یِ خَندان می‌خواهَم.",
+   "a": "27dd41846db5",
+   "colV": "یه کیلو پِسته‌یِ خَندون می‌خوام.",
+   "colA": "2077259c1889"
+  },
+  {
+   "fa": "آجیل شب یلدا را خریدی؟",
+   "r": "ājil-e shab-e yaldā rā kharidi?",
+   "en": "Did you buy the ajil for Yalda night?",
+   "faV": "آجیلِ شَبِ یَلدا را خَریدی؟",
+   "a": "a40537f0e1cd"
+  },
+  {
+   "fa": "در سفر همیشه تخمه می‌شکنیم.",
+   "r": "dar safar hamishe tokhme mi-shekanim.",
+   "en": "On trips we always crack seeds.",
+   "faV": "دَر سَفَر هَمیشه تُخمه می‌شِکَنیم.",
+   "a": "191ea2089149"
+  },
+  {
+   "fa": "گوجه‌سبز را با نمک می‌خورند.",
+   "r": "gowje-sabz rā bā namak mi-khorand.",
+   "en": "Green plums are eaten with salt.",
+   "faV": "گَوجه‌سَبز را با نَمَک می‌خورَند.",
+   "a": "c3c1fdb4827a"
+  },
+  {
+   "fa": "بچه‌ها عاشق لواشک‌اند.",
+   "r": "bacche-hā āshegh-e lavāshak-and.",
+   "en": "Children love fruit leather.",
+   "faV": "بَچّه‌ها عاشِقِ لَواشَک‌اَند.",
+   "a": "f35bab643bff"
+  },
+  {
+   "fa": "هندوانه را خنک کن، بعد قاچ کن.",
+   "r": "hendevāne rā khonak kon, ba'd ghāch kon.",
+   "en": "Chill the watermelon, then cut it into slices.",
+   "faV": "هِندِوانه را خُنَک کُن، بَعد قاچ کُن.",
+   "a": "aca493deb698"
+  },
+  {
+   "fa": "این خربزه مثل عسل شیرین است.",
+   "r": "in kharboze mesl-e asal shirin ast.",
+   "en": "This melon is as sweet as honey.",
+   "faV": "این خَربُزه مِثلِ عَسَل شیرین اَست.",
+   "a": "59ad3c067815"
+  },
+  {
+   "fa": "پوست میوه را برایتان بکنم؟",
+   "r": "pust-e mive rā barā-yetān be-kanam?",
+   "en": "Shall I peel the fruit for you?",
+   "col": "پوست میوه رو براتون بکنم؟",
+   "colR": "pust-e mive ro barā-tun be-kanam?",
+   "faV": "پوستِ میوه را بَرایِتان بِکَنَم؟",
+   "a": "c7ebeefc6721",
+   "colV": "پوستِ میوه رو بَراتون بِکَنَم؟",
+   "colA": "24c446ef9723"
+  }
  ],
  "vocab": [
-  {"fa": "میوه", "r": "mive", "en": "fruit"},
-  {"fa": "انار", "r": "anār", "en": "pomegranate"},
-  {"fa": "پسته", "r": "peste", "en": "pistachio"},
-  {"fa": "بادام", "r": "bādām", "en": "almond"},
-  {"fa": "فندق", "r": "fandogh", "en": "hazelnut"},
-  {"fa": "گردو", "r": "gerdu", "en": "walnut"},
-  {"fa": "تخمه", "r": "tokhme", "en": "roasted seeds (sunflower, pumpkin, watermelon)"},
-  {"fa": "کشمش", "r": "keshmesh", "en": "raisins"},
-  {"fa": "نخودچی", "r": "nokhodchi", "en": "roasted chickpeas"},
-  {"fa": "آجیل", "r": "ājil", "en": "mixed nuts and dried fruit"},
-  {"fa": "هندوانه", "r": "hendevāne", "en": "watermelon"},
-  {"fa": "خربزه", "r": "kharboze", "en": "musk melon"},
-  {"fa": "طالبی", "r": "tālebi", "en": "cantaloupe"},
-  {"fa": "گوجه‌سبز", "r": "gowje-sabz", "en": "green sour plum"},
-  {"fa": "آلبالو", "r": "ālbālu", "en": "sour cherry"},
-  {"fa": "لواشک", "r": "lavāshak", "en": "fruit leather"},
-  {"fa": "خندان", "r": "khandān", "en": "laughing; (of pistachios) split open"},
-  {"fa": "پوست کندن", "r": "pust kandan", "en": "to peel"}
+  {
+   "fa": "میوه",
+   "r": "mive",
+   "en": "fruit",
+   "faV": "میوه",
+   "a": "ea3dde5c87a9"
+  },
+  {
+   "fa": "انار",
+   "r": "anār",
+   "en": "pomegranate",
+   "faV": "اَنار",
+   "a": "6c4e904dbad0"
+  },
+  {
+   "fa": "پسته",
+   "r": "peste",
+   "en": "pistachio",
+   "faV": "پِسته",
+   "a": "17b713fc6193"
+  },
+  {
+   "fa": "بادام",
+   "r": "bādām",
+   "en": "almond",
+   "faV": "بادام",
+   "a": "d37231c2df2c"
+  },
+  {
+   "fa": "فندق",
+   "r": "fandogh",
+   "en": "hazelnut",
+   "faV": "فَندُق",
+   "a": "586262f909ba"
+  },
+  {
+   "fa": "گردو",
+   "r": "gerdu",
+   "en": "walnut",
+   "faV": "گِردو",
+   "a": "70cef9fc4f4a"
+  },
+  {
+   "fa": "تخمه",
+   "r": "tokhme",
+   "en": "roasted seeds (sunflower, pumpkin, watermelon)",
+   "faV": "تُخمه",
+   "a": "7aa804851139"
+  },
+  {
+   "fa": "کشمش",
+   "r": "keshmesh",
+   "en": "raisins",
+   "faV": "کِشمِش",
+   "a": "02616f189485"
+  },
+  {
+   "fa": "نخودچی",
+   "r": "nokhodchi",
+   "en": "roasted chickpeas",
+   "faV": "نُخودچی",
+   "a": "ff5f544fef20"
+  },
+  {
+   "fa": "آجیل",
+   "r": "ājil",
+   "en": "mixed nuts and dried fruit",
+   "faV": "آجیل",
+   "a": "2138287559aa"
+  },
+  {
+   "fa": "هندوانه",
+   "r": "hendevāne",
+   "en": "watermelon",
+   "faV": "هِندِوانه",
+   "a": "cbdf0ac6bd6a"
+  },
+  {
+   "fa": "خربزه",
+   "r": "kharboze",
+   "en": "musk melon",
+   "faV": "خَربُزه",
+   "a": "6645b60b39c8"
+  },
+  {
+   "fa": "طالبی",
+   "r": "tālebi",
+   "en": "cantaloupe",
+   "faV": "طالِبی",
+   "a": "46503c4400fd"
+  },
+  {
+   "fa": "گوجه‌سبز",
+   "r": "gowje-sabz",
+   "en": "green sour plum",
+   "faV": "گَوجه‌سَبز",
+   "a": "9d68340aae1c"
+  },
+  {
+   "fa": "آلبالو",
+   "r": "ālbālu",
+   "en": "sour cherry",
+   "faV": "آلبالو",
+   "a": "859923f6581e"
+  },
+  {
+   "fa": "لواشک",
+   "r": "lavāshak",
+   "en": "fruit leather",
+   "faV": "لَواشَک",
+   "a": "7dfacf06a3d4"
+  },
+  {
+   "fa": "خندان",
+   "r": "khandān",
+   "en": "laughing; (of pistachios) split open",
+   "faV": "خَندان",
+   "a": "107f9e3e8e54"
+  },
+  {
+   "fa": "پوست کندن",
+   "r": "pust kandan",
+   "en": "to peel",
+   "faV": "پوست کَندَن",
+   "a": "a663b13cd018"
+  }
  ],
  "facts": [
   "The pomegranate is native to the region from Iran to northern India.",
@@ -72,5 +264,7 @@
   "In Iran cucumbers go in the fruit bowl and are eaten with salt.",
   "Lavashak, Iranian fruit leather, is cooked fruit purée – often sour plum – spread thin and dried.",
   "Ajil is a must for Nowruz visits and for Yalda night."
- ]
+ ],
+ "titleV": "میوه و آجیل",
+ "titleA": "f9024f8469cb"
 }
