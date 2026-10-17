@@ -1,0 +1,76 @@
+{
+ "id": "food-eating-out-in-iran",
+ "topic": "food",
+ "title": "Eating out in Iran",
+ "titleFa": "بیرون غذا خوردن",
+ "titleR": "birun ghazā khordan",
+ "image": "kabab-barg",
+ "summary": "Kebab houses and carpeted teahouses, busy cafés and street carts selling beetroot and broad beans – plus the art of ta'arof at the table and the polite battle over who pays.",
+ "body": [
+  {
+   "h": "Where to eat",
+   "md": "For Iranians home cooking is the gold standard, and many of the best stews and polos are hard to find on menus. But there is plenty to eat out:\n\n- the [[کبابی|kabābi|kebab house]] or [[چلوکبابی|chelow-kabābi|chelow kabab restaurant]]: kebab, rice and doogh, served fast;\n- the [[سفره‌خانه|sofre-khāne|traditional restaurant]]: carpets, cushions and wooden day-beds ([[تخت|takht|day-bed]]) where you sit cross-legged to eat dizi, drink tea and smoke a water pipe ([[قلیان|ghalyān|water pipe]]);\n- the [[رستوران|restorān|restaurant]], from simple to grand, with Iranian classics and, in the big cities, pizza, burgers and foreign cuisines;\n- the [[کافه|kāfe|café]], hugely popular with young people in Tehran and other cities.\n\nOn summer evenings Tehranis head up to Darband and Darakeh at the foot of the mountains, where restaurants set their day-beds beside the stream.",
+   "image": "darband"
+  },
+  {
+   "h": "Street food",
+   "md": "Street food follows the seasons. In winter, carts sell steaming [[لبو|labu|boiled beetroot]] and broad beans ([[باقالی|bāghāli|broad beans]]) boiled with golpar and vinegar; in summer, corn on the cob ([[بلال|balāl|corn on the cob]]) is grilled over charcoal and dipped in salt water. [[جگرکی|jegaraki|liver-kebab stall]]s grill lamb's liver, heart and kidneys late into the night. Khuzestan is famous for spicy [[فلافل|falāfel|falafel]], and every city has [[ساندویچی|sāndevichi|sandwich shop]]s selling sausage and [[الویه|olviye|chicken and potato salad]] sandwiches. And before dawn the [[کله‌پزی|kalle-pazi|sheep's-head restaurant]] serves [[کله‌پاچه|kalle-pāche|sheep's head and trotters]] – a winter breakfast for the brave.",
+   "image": "kalleh-pacheh"
+  },
+  {
+   "h": "Ordering and paying",
+   "md": "In simple places you often order and pay at the counter ([[صندوق|sandugh|cash desk]]) first; in others you ask for the bill ([[صورت‌حساب|surat-hesāb|bill]]) at the end and pay the cashier on the way out. Menus often give prices in [[تومان|tumān|toman]] – one toman is ten rials – and people almost always talk in tomans. Some restaurants add a service charge; otherwise a small tip ([[انعام|an'ām|tip]]) is welcome but not expected.",
+   "image": "iranian-rial"
+  },
+  {
+   "h": "Ta'arof at the table",
+   "md": "[[تعارف|ta'ārof|ritual politeness]] shapes every meal with guests. The host says [[بفرمایید|befarmāyid|please, go ahead]] and keeps filling your plate; a guest is expected to protest a little, and a clean plate is quickly refilled – so if you are truly full, leave a little and say [[سیر شدم|sir shodam|I'm full]]. After the meal, thank the cook with [[دستتان درد نکند|dast-etān dard na-konad|thank you; lit. 'may your hand not hurt']]; the answer is [[نوش جان|nush-e jān|enjoy it; lit. 'sweet to your soul']]."
+  },
+  {
+   "h": "Who pays?",
+   "md": "When friends eat out, the bill starts a polite battle. Everyone reaches for a wallet, insisting [[مهمان من باشید|mehmān-e man bāshid|be my guest]], and an experienced payer slips away to the cash desk before dessert. Splitting the bill – [[دنگی|dongi|going Dutch]] – is now common among students and young colleagues, but with older relatives or a visitor from abroad, someone will insist on paying. And if a taxi driver or shopkeeper says [[قابل ندارد|ghābel na-dārad|it's not worthy of you]] when you ask the price, that too is ta'arof: thank them and insist on paying."
+  }
+ ],
+ "sentences": [
+  {"fa": "یک میز برای چهار نفر دارید؟", "r": "yek miz barā-ye chahār nafar dārid?", "en": "Do you have a table for four?"},
+  {"fa": "منو را می‌آورید، لطفاً؟", "r": "menu rā mi-āvarid, lotfan?", "en": "Could you bring the menu, please?", "col": "منو رو می‌آرین، لطفاً؟", "colR": "menu ro mi-ārin, lotfan?"},
+  {"fa": "غذای امروز چیست؟", "r": "ghazā-ye emruz chist?", "en": "What's today's dish?", "col": "غذای امروز چیه؟", "colR": "ghazā-ye emruz chiye?"},
+  {"fa": "برای من یک پرس جوجه‌کباب با دوغ بیاورید.", "r": "barā-ye man yek pors juje-kabāb bā dugh bi-yāvarid.", "en": "Bring me a portion of chicken kebab with doogh.", "col": "برای من یه پرس جوجه‌کباب با دوغ بیارین.", "colR": "barā-ye man ye pors juje-kabāb bā dugh bi-yārin."},
+  {"fa": "سیر شدم، دستتان درد نکند.", "r": "sir shodam, dast-etān dard na-konad.", "en": "I'm full – thank you.", "col": "سیر شدم، دستتون درد نکنه.", "colR": "sir shodam, dast-etun dard na-kone."},
+  {"fa": "نوش جان!", "r": "nush-e jān!", "en": "Enjoy! (said to someone who is eating or has eaten)"},
+  {"fa": "صورت‌حساب را بیاورید، لطفاً.", "r": "surat-hesāb rā bi-yāvarid, lotfan.", "en": "The bill, please.", "col": "صورت‌حساب رو بیارین، لطفاً.", "colR": "surat-hesāb ro bi-yārin, lotfan."},
+  {"fa": "این دفعه مهمان من باشید.", "r": "in daf'e mehmān-e man bāshid.", "en": "This time, be my guest.", "col": "این دفعه مهمون من باشین.", "colR": "in daf'e mehmun-e man bāshin."},
+  {"fa": "نه، اصلاً؛ حساب را من می‌دهم.", "r": "na, aslan; hesāb rā man mi-daham.", "en": "No, absolutely not – I'm paying."},
+  {"fa": "حساب را دنگی حساب کنیم؟", "r": "hesāb rā dongi hesāb konim?", "en": "Shall we split the bill?"},
+  {"fa": "قابل ندارد.", "r": "ghābel na-dārad.", "en": "It's nothing – no need to pay.", "lit": "it is not worthy (of you)", "note": "Ta'arof: thank them and insist on paying.", "col": "قابل نداره.", "colR": "ghābel na-dāre."},
+  {"fa": "شب‌ها جگرکی‌ها تا دیروقت باز هستند.", "r": "shab-hā jegaraki-hā tā dir-vaght bāz hastand.", "en": "At night the liver-kebab stalls stay open late."}
+ ],
+ "vocab": [
+  {"fa": "رستوران", "r": "restorān", "en": "restaurant"},
+  {"fa": "کبابی", "r": "kabābi", "en": "kebab house"},
+  {"fa": "سفره‌خانه", "r": "sofre-khāne", "en": "traditional restaurant, teahouse"},
+  {"fa": "کافه", "r": "kāfe", "en": "café"},
+  {"fa": "منو", "r": "menu", "en": "menu"},
+  {"fa": "میز", "r": "miz", "en": "table"},
+  {"fa": "سفارش دادن", "r": "sefāresh dādan", "en": "to order"},
+  {"fa": "پرس", "r": "pors", "en": "portion"},
+  {"fa": "صورت‌حساب", "r": "surat-hesāb", "en": "bill"},
+  {"fa": "حساب", "r": "hesāb", "en": "account; the bill"},
+  {"fa": "صندوق", "r": "sandugh", "en": "cash desk; box"},
+  {"fa": "تومان", "r": "tumān", "en": "toman (ten rials)"},
+  {"fa": "انعام", "r": "an'ām", "en": "tip"},
+  {"fa": "سیر", "r": "sir", "en": "full (after eating)"},
+  {"fa": "گرسنه", "r": "gorosne", "en": "hungry"},
+  {"fa": "نوش جان", "r": "nush-e jān", "en": "enjoy! (after eating)"},
+  {"fa": "دنگی", "r": "dongi", "en": "split (a bill)"},
+  {"fa": "قلیان", "r": "ghalyān", "en": "water pipe"}
+ ],
+ "facts": [
+  "In many Iranian restaurants you pay at the cash desk (sandugh), not at the table.",
+  "Iranians usually speak of prices in tomans; one toman is ten rials.",
+  "Ghābel nadārad, 'it is not worthy (of you)', is ta'arof: the customer is expected to insist on paying.",
+  "Abadan and Ahvaz in Khuzestan are famous for spicy falafel.",
+  "Boiled beetroot (labu) and boiled broad beans (baghali) are classic winter street foods.",
+  "Traditional sofrekhanehs seat diners on carpeted wooden day-beds called takht."
+ ]
+}
