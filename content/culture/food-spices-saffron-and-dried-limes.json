@@ -1,0 +1,75 @@
+{
+ "id": "food-spices-saffron-and-dried-limes",
+ "topic": "food",
+ "title": "Saffron, dried limes and spices",
+ "titleFa": "زعفران، لیمو عمانی و ادویه",
+ "titleR": "za'farān, limu omāni va adviye",
+ "image": "saffron",
+ "summary": "Iranian food is fragrant rather than fiery. Its spice box holds saffron, the 'red gold' of Khorasan, sour dried limes, turmeric for every stew and the rose-scented mixture called advieh.",
+ "body": [
+  {
+   "h": "Fragrant, not fiery",
+   "md": "Visitors who expect fiery curries are often surprised: Iranian cooks use spices gently, to perfume a dish rather than burn it. The basic kit is short – [[زردچوبه|zardchube|turmeric]], black pepper, salt, [[زعفران|za'farān|saffron]], [[دارچین|dārchin|cinnamon]], dried limes and dried herbs – and the neighbourhood herbalist, the [[عطاری|attāri|herb and spice shop]], supplies the rest. Turmeric is the quiet workhorse: almost every khoresh begins with onions fried golden with a spoonful of it."
+  },
+  {
+   "h": "Saffron, the red gold",
+   "md": "[[زعفران|za'farān|saffron]] is the dried red stigma of a purple autumn crocus. Each flower has only three, and they are picked by hand in October and November, early in the morning; it takes well over a hundred thousand flowers to make a single kilo. No wonder Iranians call it [[طلای سرخ|talā-ye sorkh|red gold]]. Iran grows the great majority of the world's saffron, above all in Khorasan around [[تربت حیدریه|Torbat-e Heydariye|Torbat-e Heydarieh]], Gonabad and [[قائنات|Ghā'enāt|Qaenat]], and sells it by the [[مثقال|mesghāl|mesghal, about 4.6 g]].\n\nTo use it, grind a pinch of threads in a small mortar ([[هاون|hāvan|mortar]]) with a lump of sugar, pour on a few spoonfuls of hot water – or put an ice cube on top – and let it brew ([[دم کردن|dam kardan|to brew]]) for ten minutes or more. A few drops of this golden liquid colour a whole pot of rice."
+  },
+  {
+   "h": "Dried limes and the love of sour",
+   "md": "[[لیمو عمانی|limu omāni|dried lime]] – 'Omani lime', a name that recalls the old Gulf trade with Oman – is a small lime boiled in brine and dried in the sun until it is hard, light and brown or black. Pierced and dropped into ghormeh sabzi or gheymeh, it gives a sour, slightly bitter, almost smoky taste; ground, it seasons rice and soups.\n\nIranians love [[ترش|torsh|sour]] flavours, and dried lime is only one way to get them. Others are [[آبغوره|ābghure|verjuice]], the juice of unripe grapes; [[رب انار|rob-e anār|pomegranate molasses]]; bitter oranges in the north; and tamarind ([[تمر هندی|tamr-e hendi|tamarind]]) on the Gulf coast.",
+   "image": "black-lime"
+  },
+  {
+   "h": "Advieh, sumac and golpar",
+   "md": "[[ادویه|adviye|spice mix]] simply means 'spices', but every family has its own blend. The mix for rice usually contains dried rose petals ([[گل محمدی|gol-e mohammadi|Damask rose]]), cinnamon, cardamom ([[هل|hel|cardamom]]) and cumin ([[زیره|zire|cumin]]); the mix for stews may add turmeric, black pepper, ginger and nutmeg. Sour red barberries ([[زرشک|zereshk|barberries]]), fried in butter, jewel the rice; [[سماق|somāgh|sumac]] goes on kebab; and [[گلپر|golpar|golpar]], the ground seed of the Persian hogweed, is sprinkled on pomegranate seeds, boiled broad beans and potatoes. Kerman's cumin is so famous that [[زیره به کرمان بردن|zire be Kermān bordan|taking cumin to Kerman]] means bringing something to a place that already has plenty.",
+   "image": "barberry"
+  },
+  {
+   "h": "Rosewater and the herbalist",
+   "md": "Kashan and the nearby village of [[قمصر|Ghamsar|Qamsar]] are famous for [[گلاب|golāb|rosewater]], distilled from pink Damask roses every May in the season of [[گلاب‌گیری|golāb-giri|rosewater making]]. It flavours sweets, puddings and drinks.\n\nTo buy any of these, go to an [[عطار|attār|herbalist]] in the bazaar: a narrow shop lined with jars and sacks of dried flowers, seeds and roots, where the owner will happily recommend a herbal tea for your cough as well. The medieval poet Attar of Nishapur took his name from this very trade.",
+   "image": "grand-bazaar-tehran"
+  }
+ ],
+ "sentences": [
+  {"fa": "زعفران را با کمی قند در هاون بساب.", "r": "za'farān rā bā kami ghand dar hāvan be-sāb.", "en": "Grind the saffron with a little sugar in a mortar."},
+  {"fa": "زعفران ساییده را با آب جوش دم کن.", "r": "za'farān-e sāyide rā bā āb-e jush dam kon.", "en": "Brew the ground saffron with boiling water."},
+  {"fa": "بیشتر زعفران ایران در خراسان کاشته می‌شود.", "r": "bishtar-e za'farān-e Irān dar Khorāsān kāshte mi-shavad.", "en": "Most of Iran's saffron is grown in Khorasan."},
+  {"fa": "یک مثقال زعفران خوب چند است؟", "r": "yek mesghāl za'farān-e khub chand ast?", "en": "How much is a mesghal of good saffron?", "col": "یه مثقال زعفرون خوب چنده؟", "colR": "ye mesghāl za'farun-e khub chand-e?"},
+  {"fa": "لیمو عمانی را قبل از ریختن در خورش سوراخ کن.", "r": "limu omāni rā ghabl az rikhtan dar khoresh surākh kon.", "en": "Pierce the dried lime before you put it in the stew."},
+  {"fa": "این خورش به خاطر لیمو عمانی کمی ترش است.", "r": "in khoresh be khāter-e limu omāni kami torsh ast.", "en": "This stew is a little sour because of the dried lime."},
+  {"fa": "پیاز را با یک قاشق زردچوبه سرخ کن.", "r": "piyāz rā bā yek ghāshogh zardchube sorkh kon.", "en": "Fry the onion with a spoonful of turmeric."},
+  {"fa": "روی کباب سماق بپاشید.", "r": "ru-ye kabāb somāgh be-pāshid.", "en": "Sprinkle sumac on the kebab."},
+  {"fa": "گلاب قمصر کاشان خیلی معروف است.", "r": "golāb-e Ghamsar-e Kāshān kheyli ma'ruf ast.", "en": "The rosewater of Qamsar, near Kashan, is very famous."},
+  {"fa": "از عطاری سر کوچه کمی دارچین و هل بخر.", "r": "az attāri-ye sar-e kuche kami dārchin o hel be-khar.", "en": "Buy a little cinnamon and cardamom at the herb shop on the corner."},
+  {"fa": "زیره به کرمان می‌بری؟", "r": "zire be Kermān mi-bari?", "en": "Are you taking cumin to Kerman?", "note": "Said when someone brings something to a place that already has plenty – like 'coals to Newcastle'."}
+ ],
+ "vocab": [
+  {"fa": "ادویه", "r": "adviye", "en": "spices; spice mix"},
+  {"fa": "زعفران", "r": "za'farān", "en": "saffron"},
+  {"fa": "زردچوبه", "r": "zardchube", "en": "turmeric"},
+  {"fa": "دارچین", "r": "dārchin", "en": "cinnamon"},
+  {"fa": "هل", "r": "hel", "en": "cardamom"},
+  {"fa": "زیره", "r": "zire", "en": "cumin"},
+  {"fa": "فلفل سیاه", "r": "felfel-e siyāh", "en": "black pepper"},
+  {"fa": "سماق", "r": "somāgh", "en": "sumac"},
+  {"fa": "گلپر", "r": "golpar", "en": "golpar, ground hogweed seed"},
+  {"fa": "لیمو عمانی", "r": "limu omāni", "en": "dried lime"},
+  {"fa": "آبغوره", "r": "ābghure", "en": "verjuice, sour grape juice"},
+  {"fa": "گلاب", "r": "golāb", "en": "rosewater"},
+  {"fa": "گل محمدی", "r": "gol-e mohammadi", "en": "Damask rose"},
+  {"fa": "عطاری", "r": "attāri", "en": "herbalist's shop"},
+  {"fa": "هاون", "r": "hāvan", "en": "mortar (for grinding)"},
+  {"fa": "ساییدن", "r": "sāyidan", "en": "to grind"},
+  {"fa": "پاشیدن", "r": "pāshidan", "en": "to sprinkle"},
+  {"fa": "مثقال", "r": "mesghāl", "en": "mesghal (a unit of about 4.6 g)"}
+ ],
+ "facts": [
+  "Saffron is the stigma of the saffron crocus (Crocus sativus); each flower has only three, picked by hand.",
+  "Iran produces the great majority of the world's saffron, mostly in Razavi and South Khorasan.",
+  "In Iran saffron is sold by the mesghal, a traditional unit of about 4.6 grams.",
+  "Limu omani, 'Omani lime', is named after the old Persian Gulf trade with Oman.",
+  "Qamsar near Kashan distils rosewater from Damask roses every May.",
+  "The poet Attar of Nishapur took his name from his trade: an attar is a perfumer and herbalist."
+ ]
+}

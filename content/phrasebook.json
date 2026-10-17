@@ -1,5 +1,5 @@
 {
- "intro": "Where the two differ, every phrase is given twice: first in standard written Persian – correct, polite and understood everywhere – and then, marked 🗣, in the everyday spoken Persian of Tehran, which is what you will actually hear in shops, taxis and homes. Learn to say the spoken form and to recognise both. Persian has two words for 'you': shomā, for anyone you don't know well, anyone older than you and any official (it is also the plural), and to, for friends, family and children. Phrases marked formal use shomā – verbs end in -id, spoken -in – or the polite register; the others use to – verbs end in -i – and are for people you are close to. When in doubt, use shomā: nobody minds too much respect, and when an Iranian friend starts calling you to, you can answer in kind. Tap a phrase to hear it.",
+ "intro": "Where the two differ, every phrase is given twice: first in standard written Persian – correct, polite and understood everywhere – and then, marked 🗣, in the everyday spoken Persian of Tehran, which is what you will actually hear in shops, taxis and homes. Learn to say the spoken form and to recognise both. Persian has two words for 'you': shomā, for anyone you don't know well, anyone older than you and any official (it is also the plural), and to, for friends, family and children. Phrases marked formal use shomā – verbs end in -id, spoken -in – or the polite register; the others use to – verbs end in -i – or are casual, and are for people you are close to. When in doubt, use shomā: nobody minds too much respect, and when an Iranian friend starts calling you to, you can answer in kind. Tap a phrase to hear it.",
  "sections": [
   {
    "id": "greetings",
@@ -28,7 +28,7 @@
     {"fa": "خدا نگهدار.", "r": "khodā negahdār.", "en": "Goodbye. (God keep you.)", "formal": true, "note": "A warm alternative to khodā hāfez, often said in reply to it."},
     {"fa": "فعلاً!", "r": "fe'lan!", "en": "See you! / Bye for now!", "formal": false, "note": "Very casual, among friends."},
     {"fa": "روز خوبی داشته باشید!", "r": "ruz-e khub-i dāshte bāshid!", "en": "Have a good day!", "col": "روز خوبی داشته باشین!", "colR": "ruz-e khub-i dāshte bāshin!", "formal": true},
-    {"fa": "مواظب خودتان باشید.", "r": "movāzeb-e khod-etān bāshid.", "en": "Take care of yourself.", "col": "مواظب خودتون باشین.", "colR": "movāzeb-e khod-etun bāshin.", "formal": true}
+    {"fa": "مواظب خودتان باشید.", "r": "movāzeb-e khod-etān bāshid.", "en": "Take care of yourself.", "col": "مواظب خودتون باشین.", "colR": "movāzeb-e khod-etun bāshin.", "formal": true, "note": "To a friend: movāzeb-e khod-et bāsh."}
    ]
   },
   {
@@ -69,9 +69,9 @@
    "intro": "Ta'ārof is the ritual politeness that runs through Iranian life: offering what you don't expect to be accepted, refusing what you would like, insisting that the other person go first. The rule of thumb is to refuse an offer once or twice and accept the third time – and when a shopkeeper or driver says your money is 'not worthy', thank them and pay anyway.",
    "items": [
     {"fa": "ممنون.", "r": "mamnun.", "en": "Thanks.", "formal": true, "note": "The everyday thank-you, fine with anyone."},
-    {"fa": "مرسی.", "r": "mersi.", "en": "Thanks.", "formal": false, "note": "Borrowed from French; heard everywhere in the cities, a touch casual."},
+    {"fa": "مرسی.", "r": "mersi.", "en": "Thanks.", "formal": true, "note": "Borrowed from French; heard everywhere in the cities, a touch casual."},
     {"fa": "خیلی متشکرم.", "r": "kheyli motshakker-am.", "en": "Thank you very much.", "formal": true},
-    {"fa": "دستتان درد نکند.", "r": "dast-etān dard na-konad.", "en": "Thank you (for all your trouble).", "lit": "may your hand not hurt", "col": "دستتون درد نکنه.", "colR": "dast-etun dard na-kone.", "formal": true, "note": "Thanks for something someone has made or done for you – a meal, a favour, a gift."},
+    {"fa": "دستتان درد نکند.", "r": "dast-etān dard na-konad.", "en": "Thank you (for all your trouble).", "lit": "may your hand not hurt", "col": "دستتون درد نکنه.", "colR": "dast-etun dard na-kone.", "formal": true, "note": "Thanks for something someone has made or done for you – a meal, a favour, a gift. To a friend: dast-et dard na-kone."},
     {"fa": "خواهش می‌کنم.", "r": "khāhesh mi-konam.", "en": "You're welcome.", "formal": true, "note": "Also 'please' when you ask a favour."},
     {"fa": "قابل شما را ندارد.", "r": "ghābel-e shomā rā na-dārad.", "en": "It's nothing – please, it's yours.", "lit": "it is not worthy of you", "col": "قابل نداره.", "colR": "ghābel na-dāre.", "formal": true, "note": "Said when giving a present – and by shopkeepers and drivers when you ask the price. It is courtesy: insist, and pay."},
     {"fa": "لطف دارید. چقدر شد؟", "r": "lotf dārid. cheghadr shod?", "en": "That's kind of you. How much is it?", "col": "لطف دارین. چقدر شد؟", "colR": "lotf dārin. cheghadr shod?", "formal": true, "note": "The right answer to ghābel na-dāre: thank them, then ask again."},
@@ -433,7 +433,7 @@
     {"fa": "دلم برایت تنگ شده است.", "r": "del-am barā-yat tang shode ast.", "en": "I miss you. (to a friend)", "lit": "my heart has grown tight for you", "col": "دلم برات تنگ شده.", "colR": "del-am barā-t tang shode.", "formal": false},
     {"fa": "دلم برای خانواده‌ام تنگ شده است.", "r": "del-am barā-ye khānevāde-am tang shode ast.", "en": "I miss my family.", "col": "دلم برای خانواده‌م تنگ شده.", "colR": "del-am barā-ye khānevāde-m tang shode.", "formal": true},
     {"fa": "دلم می‌خواهد به یزد بروم.", "r": "del-am mi-khāhad be Yazd be-ravam.", "en": "I'd love to go to Yazd.", "col": "دلم می‌خواد برم یزد.", "colR": "del-am mi-khād be-ram Yazd.", "formal": true},
-    {"fa": "نگران نباشید.", "r": "negarān na-bāshid.", "en": "Don't worry.", "col": "نگران نباشین.", "colR": "negarān na-bāshin.", "formal": true},
+    {"fa": "نگران نباشید.", "r": "negarān na-bāshid.", "en": "Don't worry.", "col": "نگران نباشین.", "colR": "negarān na-bāshin.", "formal": true, "note": "To a friend: negarān na-bāsh."},
     {"fa": "چه بد!", "r": "che bad!", "en": "Oh no! / What a shame!", "formal": true},
     {"fa": "چه عالی!", "r": "che āli!", "en": "Great! / How wonderful!", "formal": true},
     {"fa": "به نظر من خیلی خوب است.", "r": "be nazar-e man kheyli khub ast.", "en": "I think it's very good.", "col": "به نظرم خیلی خوبه.", "colR": "be nazar-am kheyli khub-e.", "formal": true},

@@ -256,10 +256,10 @@ To drink: دوغ (*dugh*), the salty yoghurt drink that goes with kebab, and end
 
 **Put the words in order**
 
-1. کباب / دوست / دارم. / من — I like kebab.
-2. چای / لطفاً. / بدهید، / یک — Give me a tea, please.
-3. می‌خواهید؟ / چه / شما — What would you like?
-4. غذای / گوشت / دارید؟ / بدون — Do you have food without meat?
+1. من / دارم. / کباب / دوست — I like kebab.
+2. لطفاً. / یک / چای / بدهید، — Give me a tea, please.
+3. چه / شما / می‌خواهید؟ — What would you like?
+4. گوشت / دارید؟ / غذای / بدون — Do you have food without meat?
 
 <details><summary>Answers</summary>
 

@@ -317,10 +317,10 @@ The friendly rivalry is a national sport, and the comparatives fly: *hich jā me
 
 **Put the words in order**
 
-1. بزرگ‌تر / تهران / است. / اصفهان / از — Tehran is bigger than Isfahan.
-2. این‌جا / رستوران / بهترین / کجاست؟ — Where is the best restaurant around here?
-3. اندازه‌ی / شلوغ / به / شیراز / نیست. / تهران — Shiraz isn't as busy as Tehran.
-4. قدیمی‌ترین / دنیاست. / یکی / یزد / از / شهرهای — Yazd is one of the oldest cities in the world.
+1. تهران / از / است. / اصفهان / بزرگ‌تر — Tehran is bigger than Isfahan.
+2. کجاست؟ / بهترین / این‌جا / رستوران — Where is the best restaurant around here?
+3. به / تهران / نیست. / شیراز / اندازه‌ی / شلوغ — Shiraz isn't as busy as Tehran.
+4. قدیمی‌ترین / از / یکی / یزد / شهرهای / دنیاست. — Yazd is one of the oldest cities in the world.
 
 <details><summary>Answers</summary>
 

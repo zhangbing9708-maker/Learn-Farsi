@@ -1,6 +1,6 @@
 # Phrasebook
 
-Where the two differ, every phrase is given twice: first in standard written Persian – correct, polite and understood everywhere – and then, marked 🗣, in the everyday spoken Persian of Tehran, which is what you will actually hear in shops, taxis and homes. Learn to say the spoken form and to recognise both. Persian has two words for 'you': shomā, for anyone you don't know well, anyone older than you and any official (it is also the plural), and to, for friends, family and children. Phrases marked formal use shomā – verbs end in -id, spoken -in – or the polite register; the others use to – verbs end in -i – and are for people you are close to. When in doubt, use shomā: nobody minds too much respect, and when an Iranian friend starts calling you to, you can answer in kind. Tap a phrase to hear it.
+Where the two differ, every phrase is given twice: first in standard written Persian – correct, polite and understood everywhere – and then, marked 🗣, in the everyday spoken Persian of Tehran, which is what you will actually hear in shops, taxis and homes. Learn to say the spoken form and to recognise both. Persian has two words for 'you': shomā, for anyone you don't know well, anyone older than you and any official (it is also the plural), and to, for friends, family and children. Phrases marked formal use shomā – verbs end in -id, spoken -in – or the polite register; the others use to – verbs end in -i – or are casual, and are for people you are close to. When in doubt, use shomā: nobody minds too much respect, and when an Iranian friend starts calling you to, you can answer in kind. Tap a phrase to hear it.
 
 [Open the phrasebook with audio](https://zhangbing9708-maker.github.io/Learn-Farsi/phrasebook/index.html)
 
@@ -69,7 +69,8 @@ Salām works at any hour and with anyone, and the person who arrives says it fir
   Spoken: روز خوبی داشته باشین! *ruz-e khub-i dāshte bāshin!*
 - مواظب خودتان باشید.  
   *movāzeb-e khod-etān bāshid.* — Take care of yourself.  
-  Spoken: مواظب خودتون باشین. *movāzeb-e khod-etun bāshin.*
+  Spoken: مواظب خودتون باشین. *movāzeb-e khod-etun bāshin.*  
+  _To a friend: movāzeb-e khod-et bāsh._
 
 ## Introductions — معرفی و آشنایی
 
@@ -158,7 +159,7 @@ Ta'ārof is the ritual politeness that runs through Iranian life: offering what 
   *dast-etān dard na-konad.* — Thank you (for all your trouble).  
   Spoken: دستتون درد نکنه. *dast-etun dard na-kone.*  
   Literally: may your hand not hurt  
-  _Thanks for something someone has made or done for you – a meal, a favour, a gift._
+  _Thanks for something someone has made or done for you – a meal, a favour, a gift. To a friend: dast-et dard na-kone._
 - خواهش می‌کنم.  
   *khāhesh mi-konam.* — You're welcome.  
   _Also 'please' when you ask a favour._
@@ -963,7 +964,8 @@ Persian puts feelings in the del – the heart, or the stomach: a heart 'grows t
   Spoken: دلم می‌خواد برم یزد. *del-am mi-khād be-ram Yazd.*
 - نگران نباشید.  
   *negarān na-bāshid.* — Don't worry.  
-  Spoken: نگران نباشین. *negarān na-bāshin.*
+  Spoken: نگران نباشین. *negarān na-bāshin.*  
+  _To a friend: negarān na-bāsh._
 - چه بد!  
   *che bad!* — Oh no! / What a shame!
 - چه عالی!  

@@ -103,6 +103,7 @@ Graded readers, from very easy to literary.
 - [Tea and the samovar](culture/food-tea-and-the-samovar.md) — چای و سماور
 - [Sweets and desserts](culture/food-sweets-and-desserts.md) — شیرینی‌های ایرانی
 - [Foods of Nowruz and Yalda](culture/food-nowruz-table-foods.md) — غذاهای نوروز و یلدا
+- [Saffron, dried limes and spices](culture/food-spices-saffron-and-dried-limes.md) — زعفران، لیمو عمانی و ادویه
 
 ## Part 7. Reference
 

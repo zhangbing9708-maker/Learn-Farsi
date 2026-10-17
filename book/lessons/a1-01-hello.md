@@ -233,9 +233,9 @@ Notice also جان (*jān*, ‘dear, soul’) after a name: *Rezā jān*. It is 
 
 **Put the words in order**
 
-1. حال / است؟ / چطور / شما — How are you?
-2. هم / خوبم. / من — I am well too.
-3. خوبی / باشید! / روز / داشته — Have a good day!
+1. حال / چطور / است؟ / شما — How are you?
+2. خوبم. / من / هم — I am well too.
+3. خوبی / روز / داشته / باشید! — Have a good day!
 
 <details><summary>Answers</summary>
 
