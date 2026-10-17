@@ -1,0 +1,1423 @@
+{
+ "id": "b2-01-hafez",
+ "level": "B2",
+ "n": 1,
+ "title": "Hafez: the first ghazal",
+ "titleFa": "حافظ و نخستین غزل دیوان",
+ "titleR": "Hāfez o nakhostin ghazal-e divān",
+ "intro": "Every edition of the Divan of Hafez opens with the same ghazal – and its very first half-line is Arabic, not Persian. In this lesson you read all seven couplets half-line by half-line, put each one into modern Persian, and learn the handful of images – the cupbearer, wine, the cup, the tress, the tavern, the rogue and the elder of the Magi – that carry a double meaning through the whole of Persian lyric poetry. Then you visit the poet's tomb in Shiraz and see how Iranians still open his book to ask about their future.",
+ "goals": [
+  "read the seven couplets of Hafez's first ghazal aloud and follow each one in a modern Persian paraphrase",
+  "recognise the key images – ساقی، می، جام، زلف، میخانه، رند، پیر مغان – and give both their earthly and their mystical reading",
+  "untangle the old forms of poetry: مرا، گرت، ز، کز، زان، نبود 'is not', همی‌، مشو",
+  "take a fāl-e Hāfez and talk about Yalda night and the Hafezieh in Shiraz"
+ ],
+ "image": "tomb-of-hafez",
+ "sections": [
+  {
+   "type": "reading",
+   "title": "The first ghazal of the Divan",
+   "intro": "Read each half-line ([[مصراع|mesrā']]) aloud before you look at the English. Only the first and the last half-lines are Arabic; everything in between is the Persian of fourteenth-century Shiraz – and most of it is still understood today.",
+   "sentences": [
+    {
+     "fa": "الا یا ایها الساقی ادر کأساً و ناولها",
+     "r": "alā yā ayyohā as-sāghi ader ka'san va nāvelhā",
+     "en": "Ho, cupbearer, pass the cup around and hand it to me –",
+     "note": "Arabic. In recitation the vowel of the article is swallowed: *ayyohas-sāghi*. [[ادر|ader|pass round]] and [[ناولها|nāvelhā|hand it over]] are Arabic commands; the final *-hā* is the Arabic pronoun 'it', which sounds exactly like the Persian plural – and gives the whole poem its rhyme.",
+     "faV": "اَلا یا اَیُّها اَلسّاقی اَدِر کَأساً و ناوِلها",
+     "a": "d321189207e8"
+    },
+    {
+     "fa": "که عشق آسان نمود اول ولی افتاد مشکل‌ها",
+     "r": "ke eshgh āsān nemud avval vali oftād moshkel-hā",
+     "en": "for love seemed easy at first, but then the troubles came.",
+     "note": "[[نمود|nemud]] here means 'seemed', not 'did'. [[افتاد مشکل‌ها|oftād moshkel-hā]] puts the verb before its subject; today we would say [[مشکل‌ها پیش آمد|moshkel-hā pish āmad]].",
+     "faV": "که عِشق آسان نِمود اَوَّل وَلی اُفتاد مُشکِل‌ها",
+     "a": "e72f18fb6266"
+    },
+    {
+     "fa": "به بوی نافه‌ای کاخر صبا زان طره بگشاید",
+     "r": "be bu-ye nāfe-i k-ākhar sabā z-ān torre bogshāyad",
+     "en": "Waiting for the musk that the east wind will at last shake loose from those locks,",
+     "lit": "in hope of the scent of a musk-pod which at last the morning breeze may open from that lock",
+     "note": "[[کاخر|kākhar]] = [[که آخر|ke ākhar]]; [[زان|zān]] = [[از آن|az ān]]. [[صبا|sabā]], the morning wind, carries messages between lovers in Persian poetry.",
+     "faV": "به بویِ نافه‌ای کاخَر صَبا زان طُرّه بُگشایَد",
+     "a": "b6945f18723d"
+    },
+    {
+     "fa": "ز تاب جعد مشکینش چه خون افتاد در دل‌ها",
+     "r": "ze tāb-e ja'd-e meshkin-ash che khun oftād dar del-hā",
+     "en": "how many hearts have filled with blood from the twist of those musk-black curls!",
+     "lit": "from the twist of its musky curl what blood fell into hearts",
+     "note": "A heart 'full of blood' ([[دل پرخون|del-e por-khun]]) is a heart in torment. The beloved's hair is beautiful and it is a trap.",
+     "faV": "ز تابِ جَعدِ مِشکینَش چه خون اُفتاد دَر دِل‌ها",
+     "a": "80fee8f6ccb7"
+    },
+    {
+     "fa": "مرا در منزل جانان چه امن عیش چون هر دم",
+     "r": "marā dar manzel-e jānān che amn-e eysh chon har dam",
+     "en": "What safety, what pleasure can I have at the beloved's lodging, when every moment",
+     "note": "[[مرا|marā]] = 'for me'. A [[منزل|manzel]] is a stopping place on a caravan road; [[جانان|jānān]], 'soul of souls', is the beloved.",
+     "faV": "مَرا دَر مَنزِلِ جانان چه اَمنِ عَیش چون هَر دَم",
+     "a": "df1995d28e45"
+    },
+    {
+     "fa": "جرس فریاد می‌دارد که بربندید محمل‌ها",
+     "r": "jaras faryād mi-dārad ke barbandid mahmel-hā",
+     "en": "the caravan bell cries out, 'Tie on your litters!'",
+     "note": "The [[جرس|jaras]] hangs on the lead camel; a [[محمل|mahmel]] is the litter a traveller rode in. Life is a caravan that never lets you stay.",
+     "faV": "جَرَس فَریاد می‌دارَد که بَربَندید مَحمِل‌ها",
+     "a": "b4c8f76ca916"
+    },
+    {
+     "fa": "به می سجاده رنگین کن گرت پیر مغان گوید",
+     "r": "be mey sajjāde rangin kon gar-at pir-e moghān guyad",
+     "en": "Stain your prayer mat with wine if the elder of the Magi tells you to,",
+     "note": "The most scandalous half-line of the poem: wine on a prayer mat. [[گرت|garat]] = [[اگر به تو|agar be to]] – the pronoun hangs on the 'if'.",
+     "faV": "به مَی سَجّاده رَنگین کُن گَرَت پیرِ مُغان گویَد",
+     "a": "501ff7ab43e1"
+    },
+    {
+     "fa": "که سالک بی‌خبر نبود ز راه و رسم منزل‌ها",
+     "r": "ke sālek bi-khabar nabvad ze rāh o rasm-e manzel-hā",
+     "en": "for the traveller on the path is not ignorant of the ways and customs of its stages.",
+     "note": "[[نبود|nabvad]] is the old present 'is not', from [[بود|bovad]] – not the past *nabud* 'was not'. The metre tells you which: it needs two long syllables, *nab-vad*. A [[سالک|sālek]] is a traveller on the Sufi path.",
+     "faV": "که سالِک بی‌خَبَر نَبوَد ز راه و رَسمِ مَنزِل‌ها",
+     "a": "d0be54f7f4fc"
+    },
+    {
+     "fa": "شب تاریک و بیم موج و گردابی چنین هایل",
+     "r": "shab-e tārik o bim-e mowj o gerdāb-i chenin hāyel",
+     "en": "A dark night, the fear of the waves and a whirlpool so terrible –",
+     "note": "There is no verb at all: three nouns piled up like the waves themselves.",
+     "faV": "شَبِ تاریک و بیمِ مَوج و گِردابی چِنین هایِل",
+     "a": "6966013466f8"
+    },
+    {
+     "fa": "کجا دانند حال ما سبکباران ساحل‌ها",
+     "r": "kojā dānand hāl-e mā sabokbārān-e sāhel-hā",
+     "en": "how could they know our state, those who walk lightly laden on the shore?",
+     "note": "[[کجا|kojā]] 'where?' makes a rhetorical question: 'how could they?' means 'they cannot'. [[سبکبار|sabokbār]] 'with a light load' – people with nothing at stake.",
+     "faV": "کُجا دانَند حالِ ما سَبُکبارانِ ساحِل‌ها",
+     "a": "7c01d41ca5f6"
+    },
+    {
+     "fa": "همه کارم ز خودکامی به بدنامی کشید آخر",
+     "r": "hame kār-am ze khodkāmi be badnāmi keshid ākhar",
+     "en": "Going my own way has brought all my affairs, in the end, to disgrace:",
+     "note": "[[خودکامی|khodkāmi]] 'doing as one pleases', [[بدنامی|badnāmi]] 'a bad name'. The rend accepts a bad reputation as the price of being honest.",
+     "faV": "هَمه کارَم ز خودکامی به بَدنامی کِشید آخَر",
+     "a": "a7f2d1784d6f"
+    },
+    {
+     "fa": "نهان کی ماند آن رازی کز او سازند محفل‌ها",
+     "r": "nahān key mānad ān rāz-i k-az u sāzand mahfel-hā",
+     "en": "how could a secret stay hidden when people hold gatherings to talk about it?",
+     "lit": "when will that secret stay hidden of which they make gatherings",
+     "note": "[[کی|key]] 'when?' is another question that means 'never'. [[کز او|kaz u]] = [[که از آن|ke az ān]].",
+     "faV": "نَهان کَی مانَد آن رازی کَز او سازَند مَحفِل‌ها",
+     "a": "8f57e7911674"
+    },
+    {
+     "fa": "حضوری گر همی‌خواهی از او غایب مشو حافظ",
+     "r": "hozur-i gar hami-khāhi az u ghāyeb masho Hāfez",
+     "en": "If you want his presence, Hafez, do not be absent from him:",
+     "note": "The poet names himself in the last couplet – his pen name, [[تخلص|takhallos]]. [[همی‌خواهی|hami-khāhi]] = [[می‌خواهی|mi-khāhi]]; [[مشو|masho]] = [[نشو|na-sho]].",
+     "faV": "حُضوری گَر هَمی‌خواهی اَز او غایِب مَشو حافِظ",
+     "a": "2bcf88537392"
+    },
+    {
+     "fa": "متی ما تلق من تهوی دع الدنیا و اهملها",
+     "r": "matā mā talgha man tahvā da' ed-donyā va ahmelhā",
+     "en": "when you meet the one you love, leave the world and let it go.",
+     "note": "Arabic again. The last word, [[اهملها|ahmelhā|abandon it]], rhymes with [[ناولها|nāvelhā]] in the first line: the poem ends where it began.",
+     "faV": "مَتی ما تَلقَ مَن تَهوی دَع اِلدُّنیا و اَهمِلها",
+     "a": "2d6cd48e8711"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What does the caravan bell (جرس) keep crying?",
+     "options": [
+      "'Pour more wine!'",
+      "'Tie on your litters – it is time to go!'",
+      "'Hafez, do not be absent!'"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Who are «سبکباران ساحل‌ها»?",
+     "options": [
+      "sailors caught in the storm",
+      "people safe on the shore who cannot understand those at sea",
+      "camel drivers of the caravan"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "In which couplet does the poet name himself?",
+     "options": [
+      "the first",
+      "the fourth",
+      "the last"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "How the ghazal works – and why this one comes first",
+   "md": "A **ghazal** ([[غزل|ghazal]]) is a short lyric, usually of five to twelve couplets ([[بیت|beyt]]), each made of two half-lines ([[مصراع|mesrā']]). In the first couplet, the [[مطلع|matla']], both halves rhyme; after that only the second half of each couplet does. Here the rhyme is *-elhā*: [[ناولها|nāvelhā]], [[مشکل‌ها|moshkel-hā]], [[دل‌ها|del-hā]], [[محمل‌ها|mahmel-hā]], [[منزل‌ها|manzel-hā]], [[ساحل‌ها|sāhel-hā]], [[محفل‌ها|mahfel-hā]], [[اهملها|ahmelhā]]. Hafez is playing a game: the Arabic pronoun *-hā* 'it' at the start and at the end of the poem sounds exactly like the Persian plural *-hā* in between.\n\nEach couplet is complete in itself – a string of pearls rather than a story – and in the last one the poet signs with his pen name, the [[تخلص|takhallos]]. The metre is *hazaj*: four times *da-DUM-DUM-DUM* in every half-line. Tap the beat as you read the first line: *a-LĀ-YĀ-AY / yo-HAS-SĀ-GHI / a-DER-KA'-SAN / va-NĀ-VEL-HĀ*.\n\nWhy does the *Divan* begin here? After Hafez's death his poems were arranged in the alphabetical order of the last letter of their rhyme, so the ghazals that rhyme on *alef* come first, and this one stands at their head. Its theme suits an opening: love looks easy and is not; life is a caravan that will not let you rest, a night sea in a storm; the only way through is to let go of the world.\n\n**Two readings at once.** On the surface the poem is about wine, a beautiful beloved with dark curls and a drinker who no longer cares what people say. Read as the Sufis read it, the wine is the love of God, the beloved is God, the caravan is the soul's journey and the elder of the Magi is the spiritual master. Hafez never tells you which reading is the right one – and Iranians have argued about it for six hundred years.",
+   "image": "divan-hafez"
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "غزل",
+     "r": "ghazal",
+     "en": "ghazal, love lyric",
+     "pos": "n",
+     "ex": {
+      "fa": "حافظ استاد غزل است.",
+      "r": "Hāfez ostād-e ghazal ast.",
+      "en": "Hafez is the master of the ghazal.",
+      "faV": "حافِظ اُستادِ غَزَل اَست.",
+      "a": "51ec4c5e7e4d"
+     },
+     "faV": "غَزَل",
+     "a": "684bd52a69c8"
+    },
+    {
+     "fa": "بیت",
+     "r": "beyt",
+     "en": "couplet, verse",
+     "pos": "n",
+     "note": "In Arabic بیت means 'house': each couplet is a house of the poem.",
+     "faV": "بَیت",
+     "a": "fbe61494fd80"
+    },
+    {
+     "fa": "مصراع",
+     "r": "mesrā'",
+     "en": "half-line, hemistich",
+     "pos": "n",
+     "faV": "مِصراع",
+     "a": "2461a98e3ed4"
+    },
+    {
+     "fa": "دیوان",
+     "r": "divān",
+     "en": "the collected poems of one poet",
+     "pos": "n",
+     "ex": {
+      "fa": "دیوان حافظ در هر خانه‌ای پیدا می‌شود.",
+      "r": "divān-e Hāfez dar har khāne-i peydā mi-shavad.",
+      "en": "The Divan of Hafez can be found in every home.",
+      "faV": "دیوانِ حافِظ دَر هَر خانه‌ای پَیدا می‌شَوَد.",
+      "a": "f9f03b9eb804"
+     },
+     "faV": "دیوان",
+     "a": "990e80bfe2c0"
+    },
+    {
+     "fa": "ساقی",
+     "r": "sāghi",
+     "en": "cupbearer, the one who pours the wine",
+     "pos": "n",
+     "faV": "ساقی",
+     "a": "8f7799df163e"
+    },
+    {
+     "fa": "می",
+     "r": "mey",
+     "en": "wine (poetic)",
+     "pos": "n",
+     "note": "Not the verb prefix mi-! Poetry also says [[باده|bāde]]; everyday Persian says [[شراب|sharāb]].",
+     "faV": "مَی",
+     "a": "da91745afd3f"
+    },
+    {
+     "fa": "جام",
+     "r": "jām",
+     "en": "cup, goblet",
+     "pos": "n",
+     "note": "[[جام جم|jām-e Jam]], the cup of the legendary king Jamshid, showed him the whole world.",
+     "faV": "جام",
+     "a": "cb39a311b3b9"
+    },
+    {
+     "fa": "زلف",
+     "r": "zolf",
+     "en": "lock of hair, tress",
+     "pos": "n",
+     "faV": "زُلف",
+     "a": "d3776104d4a7"
+    },
+    {
+     "fa": "میخانه",
+     "r": "meykhāne",
+     "en": "tavern, wine-house",
+     "pos": "n",
+     "note": "Also [[خرابات|kharābāt]], literally 'the ruins' – the taverns stood on the edge of town.",
+     "faV": "مَیخانه",
+     "a": "778bd42e7f06"
+    },
+    {
+     "fa": "رند",
+     "r": "rend",
+     "en": "rogue; a free spirit who scorns hypocrisy",
+     "pos": "n",
+     "note": "The abstract noun is [[رندی|rendi]].",
+     "faV": "رِند",
+     "a": "71264281db22"
+    },
+    {
+     "fa": "پیر مغان",
+     "r": "pir-e moghān",
+     "en": "the elder of the Magi: the tavern keeper; the spiritual master",
+     "pos": "n",
+     "faV": "پیرِ مُغان",
+     "a": "c59dc5da569c"
+    },
+    {
+     "fa": "زاهد",
+     "r": "zāhed",
+     "en": "ascetic; the self-righteous pious man",
+     "pos": "n",
+     "faV": "زاهِد",
+     "a": "0086a011cad6"
+    },
+    {
+     "fa": "عاشق",
+     "r": "āshegh",
+     "en": "lover; in love",
+     "pos": "n",
+     "faV": "عاشِق",
+     "a": "9cd5308e8525"
+    },
+    {
+     "fa": "معشوق",
+     "r": "ma'shugh",
+     "en": "beloved",
+     "pos": "n",
+     "note": "Poetry also says [[یار|yār]], [[جانان|jānān]] and [[دوست|dust]].",
+     "faV": "مَعشوق",
+     "a": "ea3eaffba94a"
+    },
+    {
+     "fa": "صبا",
+     "r": "sabā",
+     "en": "the east wind of morning, the lovers' messenger",
+     "pos": "n",
+     "faV": "صَبا",
+     "a": "8dce1596889f"
+    },
+    {
+     "fa": "منزل",
+     "r": "manzel",
+     "en": "stage, stopping place on a journey; home",
+     "pos": "n",
+     "faV": "مَنزِل",
+     "a": "b3d61442ab07"
+    },
+    {
+     "fa": "سالک",
+     "r": "sālek",
+     "en": "traveller on the Sufi path",
+     "pos": "n",
+     "faV": "سالِک",
+     "a": "43801dd988a7"
+    },
+    {
+     "fa": "سجاده",
+     "r": "sajjāde",
+     "en": "prayer mat",
+     "pos": "n",
+     "faV": "سَجّاده",
+     "a": "6a47777960c9"
+    },
+    {
+     "fa": "گرداب",
+     "r": "gerdāb",
+     "en": "whirlpool",
+     "pos": "n",
+     "faV": "گِرداب",
+     "a": "892ca034be18"
+    },
+    {
+     "fa": "ساحل",
+     "r": "sāhel",
+     "en": "shore, coast",
+     "pos": "n",
+     "faV": "ساحِل",
+     "a": "8aeb54c4bda1"
+    },
+    {
+     "fa": "راز",
+     "r": "rāz",
+     "en": "secret",
+     "pos": "n",
+     "faV": "راز",
+     "a": "2d2188eaa593"
+    },
+    {
+     "fa": "بدنامی",
+     "r": "badnāmi",
+     "en": "disgrace, a bad reputation",
+     "pos": "n",
+     "faV": "بَدنامی",
+     "a": "e13fc2fdb342"
+    },
+    {
+     "fa": "ریا",
+     "r": "riyā",
+     "en": "hypocrisy, piety for show",
+     "pos": "n",
+     "note": "A hypocrite is a [[ریاکار|riyākār]].",
+     "faV": "ریا",
+     "a": "cdd35dd54388"
+    },
+    {
+     "fa": "فال گرفتن",
+     "r": "fāl gereftan",
+     "en": "to take an omen, consult a book about one's fortune",
+     "pos": "v",
+     "ex": {
+      "fa": "از حافظ فال گرفتیم.",
+      "r": "az Hāfez fāl gereftim.",
+      "en": "We took an omen from Hafez.",
+      "faV": "اَز حافِظ فال گِرِفتیم.",
+      "a": "285b221fe009"
+     },
+     "faV": "فال گِرِفتَن",
+     "a": "5cc0265c4a1b"
+    },
+    {
+     "fa": "نیت کردن",
+     "r": "niyyat kardan",
+     "en": "to make a wish, form an intention",
+     "pos": "v",
+     "faV": "نیَّت کَردَن",
+     "a": "37d8a261d11a"
+    },
+    {
+     "fa": "آرامگاه",
+     "r": "ārāmgāh",
+     "en": "tomb, mausoleum",
+     "pos": "n",
+     "faV": "آرامگاه",
+     "a": "0acb7fd637bb"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The ghazal in modern Persian",
+   "md": "Iranian schoolchildren learn to understand a classical couplet the way you should: by **turning it into prose** ([[به نثر برگرداندن|be nasr bargardāndan]]). Four moves do most of the work:\n\n1. **Put the verb at the end** and the subject first: [[افتاد مشکل‌ها|oftād moshkel-hā]] → [[مشکل‌ها پیش آمد|moshkel-hā pish āmad]].\n2. **Open the contractions**: [[زان|zān]] → [[از آن|az ān]], [[کز|kaz]] → [[که از|ke az]], [[گرت|garat]] → [[اگر به تو|agar be to]].\n3. **Swap old words for today's**: [[جانان|jānān]] → [[معشوق|ma'shugh]], [[نهان|nahān]] → [[پنهان|penhān]], [[هایل|hāyel]] → [[هولناک|howlnāk]], [[می|mey]] → [[شراب|sharāb]].\n4. **Add what the poem leaves out** – a verb, a 'when', a 'because'.\n\nThe table gives the hardest phrase of each couplet. Below it, each couplet is retold in plain modern Persian: read the two versions side by side.",
+   "table": {
+    "head": [
+     "Couplet",
+     "Hafez",
+     "Modern Persian",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "1",
+      "[[ادر کأساً و ناولها|ader ka'san va nāvelhā]]",
+      "[[جام را بگردان و به من بده|jām rā begardān o be man bedeh]]",
+      "pass the cup round and give it to me"
+     ],
+     [
+      "2",
+      "[[زان طره بگشاید|z-ān torre bogshāyad]]",
+      "[[از آن زلف باز کند|az ān zolf bāz konad]]",
+      "(that) it may release from that lock"
+     ],
+     [
+      "3",
+      "[[چه امن عیش|che amn-e eysh]]",
+      "[[چه آرامشی برای خوشی|che ārāmesh-i barā-ye khoshi]]",
+      "what safety for my pleasure?"
+     ],
+     [
+      "4",
+      "[[گرت پیر مغان گوید|gar-at pir-e moghān guyad]]",
+      "[[اگر پیر مغان به تو بگوید|agar pir-e moghān be to beguyad]]",
+      "if the elder of the Magi tells you"
+     ],
+     [
+      "5",
+      "[[سبکباران ساحل‌ها|sabokbārān-e sāhel-hā]]",
+      "[[کسانی که سبکبار در ساحل هستند|kasān-i ke sabokbār dar sāhel hastand]]",
+      "those who stand lightly laden on the shore"
+     ],
+     [
+      "6",
+      "[[کز او سازند محفل‌ها|k-az u sāzand mahfel-hā]]",
+      "[[که در مجلس‌ها از آن حرف می‌زنند|ke dar majles-hā az ān harf mi-zanand]]",
+      "that people gather to talk about"
+     ],
+     [
+      "7",
+      "[[حضوری گر همی‌خواهی|hozur-i gar hami-khāhi]]",
+      "[[اگر حضور می‌خواهی|agar hozur mi-khāhi]]",
+      "if you want to be in his presence"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "ای ساقی، جام را بگردان و به من بده، چون عشق اول آسان به نظر می‌آمد ولی بعد مشکل‌ها پیش آمد.",
+     "r": "ey sāghi, jām rā begardān o be man bedeh, chon eshgh avval āsān be nazar mi-āmad vali ba'd moshkel-hā pish āmad.",
+     "en": "Couplet 1: Cupbearer, pass the cup round and give it to me, because love seemed easy at first, but then the troubles came.",
+     "faV": "اَی ساقی، جام را بِگَردان و به مَن بِدِه، چون عِشق اَوَّل آسان به نَظَر می‌آمَد وَلی بَعد مُشکِل‌ها پیش آمَد.",
+     "a": "98741c3b4fa7"
+    },
+    {
+     "fa": "به امید بوی خوشی که سرانجام باد صبا از آن زلف پخش کند، از پیچ و تاب موهای سیاه یار دل‌های بسیاری خون شد.",
+     "r": "be omid-e bu-ye khosh-i ke saranjām bād-e sabā az ān zolf pakhsh konad, az pich o tāb-e mu-hā-ye siyāh-e yār del-hā-ye besyār-i khun shod.",
+     "en": "Couplet 2: Hoping for the fragrance the morning breeze will at last spread from that lock, many hearts have bled from the twists of the beloved's black hair.",
+     "faV": "به اُمیدِ بویِ خوشی که سَراَنجام بادِ صَبا اَز آن زُلف پَخش کُنَد، اَز پیچ و تابِ موهایِ سیاهِ یار دِل‌هایِ بِسیاری خون شُد.",
+     "a": "7d7c1f1784c9"
+    },
+    {
+     "fa": "من در خانه‌ی معشوق چه آرامشی دارم، وقتی هر لحظه زنگ کاروان فریاد می‌زند که بارها را ببندید؟",
+     "r": "man dar khāne-ye ma'shugh che ārāmesh-i dāram, vaghti har lahze zang-e kārvān faryād mi-zanad ke bār-hā rā bebandid?",
+     "en": "Couplet 3: What peace can I have in the beloved's house, when every moment the caravan bell cries, 'Pack your loads'?",
+     "faV": "مَن دَر خانه‌یِ مَعشوق چه آرامِشی دارَم، وَقتی هَر لَحظه زَنگِ کاروان فَریاد می‌زَنَد که بارها را بِبَندید؟",
+     "a": "78a56886b6bc"
+    },
+    {
+     "fa": "اگر پیر مغان به تو بگوید، سجاده‌ات را با شراب رنگین کن، چون رهرو این راه آداب منزل‌ها را می‌داند.",
+     "r": "agar pir-e moghān be to beguyad, sajjāde-at rā bā sharāb rangin kon, chon rahrow-e in rāh ādāb-e manzel-hā rā mi-dānad.",
+     "en": "Couplet 4: If the elder of the Magi tells you to, stain your prayer mat with wine, because whoever travels this road knows the customs of its stages.",
+     "faV": "اَگَر پیرِ مُغان به تو بِگویَد، سَجّاده‌اَت را با شَراب رَنگین کُن، چون رَهرُوِ این راه آدابِ مَنزِل‌ها را می‌دانَد.",
+     "a": "6757350e65bf"
+    },
+    {
+     "fa": "در این شب تاریک، با ترس از موج و گردابی به این هولناکی، کسانی که سبکبار در ساحل هستند حال ما را چه می‌دانند؟",
+     "r": "dar in shab-e tārik, bā tars az mowj o gerdāb-i be in howlnāki, kasān-i ke sabokbār dar sāhel hastand hāl-e mā rā che mi-dānand?",
+     "en": "Couplet 5: On this dark night, afraid of the waves and of such a terrible whirlpool – what do those standing lightly laden on the shore know of our state?",
+     "faV": "دَر این شَبِ تاریک، با تَرس اَز مَوج و گِردابی به این هَولناکی، کَسانی که سَبُکبار دَر ساحِل هَستَند حالِ ما را چه می‌دانَند؟",
+     "a": "7b87e5f085d9"
+    },
+    {
+     "fa": "خودخواهی‌ام سرانجام کارم را به بدنامی کشاند؛ رازی که در همه‌ی مجلس‌ها از آن حرف می‌زنند، چطور پنهان می‌ماند؟",
+     "r": "khodkhāhi-am saranjām kār-am rā be badnāmi keshānd; rāz-i ke dar hame-ye majles-hā az ān harf mi-zanand, chetowr penhān mi-mānad?",
+     "en": "Couplet 6: My self-will brought me to disgrace in the end; how can a secret that every gathering talks about stay hidden?",
+     "faV": "خودخواهی‌اَم سَراَنجام کارَم را به بَدنامی کِشاند؛ رازی که دَر هَمه‌یِ مَجلِس‌ها اَز آن حَرف می‌زَنَند، چِطَور پِنهان می‌مانَد؟",
+     "a": "0a80f8d3bc41"
+    },
+    {
+     "fa": "حافظ، اگر حضور او را می‌خواهی، از او غایب نشو؛ هر وقت به کسی که دوستش داری رسیدی، دنیا را رها کن.",
+     "r": "Hāfez, agar hozur-e u rā mi-khāhi, az u ghāyeb na-sho; har vaght be kas-i ke dust-ash dāri residi, donyā rā rahā kon.",
+     "en": "Couplet 7: Hafez, if you want to be with him, do not be absent from him; whenever you reach the one you love, let go of the world.",
+     "faV": "حافِظ، اَگَر حُضورِ او را می‌خواهی، اَز او غایِب نَشو؛ هَر وَقت به کَسی که دوستَش داری رِسیدی، دُنیا را رَها کُن.",
+     "a": "cb17d98b3494"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Seven images, two readings",
+   "md": "Persian lyric poetry works with a small, fixed set of images, and Hafez uses them all. Each has an **earthly** meaning – a real tavern, real wine, a real beautiful face – and a **mystical** one that Sufi readers find beneath it. The double reading is not a code to be cracked once and for all; it is what lets one couplet of Hafez fit a wedding, a funeral and a prayer.\n\nWatch also for the poem's villains: the [[زاهد|zāhed]] (the ascetic), the [[صوفی|sufi]] in his patched cloak and the [[محتسب|mohtaseb]], the inspector of public morals. In Hafez they are almost always hypocrites, while the drinker in the tavern is honest. That reversal is the heart of his poetry.",
+   "table": {
+    "head": [
+     "Image",
+     "On the surface",
+     "In the Sufi reading"
+    ],
+    "rows": [
+     [
+      "[[ساقی|sāghi]]",
+      "the cupbearer, often a beautiful youth, who pours the wine",
+      "the master, or the grace of God, that gives the soul love"
+     ],
+     [
+      "[[می|mey]] / [[باده|bāde]]",
+      "wine",
+      "the love of God, the ecstasy in which you forget yourself"
+     ],
+     [
+      "[[جام|jām]]",
+      "the cup",
+      "the heart that receives that love; [[جام جم|jām-e Jam]], the world-revealing cup, is the heart that sees the truth"
+     ],
+     [
+      "[[زلف|zolf]]",
+      "the beloved's long dark hair",
+      "the many things of this world, which both hide the face of God and draw us towards it"
+     ],
+     [
+      "[[میخانه|meykhāne]] / [[خرابات|kharābāt]]",
+      "the tavern on the edge of town, kept by non-Muslims",
+      "the house of the Sufi master, where all pretence is left at the door"
+     ],
+     [
+      "[[رند|rend]]",
+      "a rogue, a drinker who does not care about his reputation",
+      "the free soul who is honest before God and despises hypocrisy"
+     ],
+     [
+      "[[پیر مغان|pir-e moghān]]",
+      "the old Zoroastrian who keeps the tavern",
+      "the spiritual guide, the perfect master"
+     ],
+     [
+      "[[زاهد|zāhed]]",
+      "the ascetic who preaches against wine",
+      "the hypocrite who prays to be seen praying"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "ساقی کسی است که در مجلس، جام را میان مهمانان می‌گرداند.",
+     "r": "sāghi kas-i ast ke dar majles, jām rā miyān-e mehmānān mi-gardānad.",
+     "en": "The sāghi is the one who passes the cup among the guests at a gathering.",
+     "faV": "ساقی کَسی اَست که دَر مَجلِس، جام را میانِ مِهمانان می‌گَردانَد.",
+     "a": "ff34dc71e56a"
+    },
+    {
+     "fa": "در خوانش عرفانی، شراب همان عشق الهی است.",
+     "r": "dar khānesh-e erfāni, sharāb hamān eshgh-e elāhi ast.",
+     "en": "In the mystical reading, wine is the love of God itself.",
+     "faV": "دَر خوانِشِ عِرفانی، شَراب هَمان عِشقِ اِلهی اَست.",
+     "a": "62020d19ea54"
+    },
+    {
+     "fa": "زلف یار هم زیباست و هم دامی برای دل عاشق.",
+     "r": "zolf-e yār ham zibā-st o ham dām-i barā-ye del-e āshegh.",
+     "en": "The beloved's hair is both beautiful and a trap for the lover's heart.",
+     "faV": "زُلفِ یار هَم زیباست و هَم دامی بَرایِ دِلِ عاشِق.",
+     "a": "ec64e40be5a8"
+    },
+    {
+     "fa": "در شعر حافظ، میخانه جای صداقت است و صومعه جای ریا.",
+     "r": "dar she'r-e Hāfez, meykhāne jā-ye sedāghat ast o sowme'e jā-ye riyā.",
+     "en": "In Hafez's poetry the tavern is the place of honesty and the cloister the place of hypocrisy.",
+     "faV": "دَر شِعرِ حافِظ، مَیخانه جایِ صِداقَت اَست و صَومِعه جایِ ریا.",
+     "a": "4f0de0093c91"
+    },
+    {
+     "fa": "رند به حرف مردم اهمیت نمی‌دهد، اما از ریا بیزار است.",
+     "r": "rend be harf-e mardom ahammiyat nemi-dahad, ammā az riyā bizār ast.",
+     "en": "The rend does not care what people say, but he hates hypocrisy.",
+     "faV": "رِند به حَرفِ مَردُم اَهَمّیَت نِمی‌دَهَد، اَمّا اَز ریا بیزار اَست.",
+     "a": "56f286833d1e"
+    },
+    {
+     "fa": "پیر مغان در اصل پیرمردی زرتشتی بود که شراب می‌فروخت.",
+     "r": "pir-e moghān dar asl pirmard-i zartoshti bud ke sharāb mi-forukht.",
+     "en": "The 'elder of the Magi' was originally an old Zoroastrian who sold wine.",
+     "faV": "پیرِ مُغان دَر اَصل پیرمَردی زَرتُشتی بود که شَراب می‌فُروخت.",
+     "a": "536767f10b0b"
+    },
+    {
+     "fa": "زاهد مردم را از شراب می‌ترساند، ولی خودش ریاکار است.",
+     "r": "zāhed mardom rā az sharāb mi-tarsānad, vali khod-ash riyākār ast.",
+     "en": "The ascetic frightens people away from wine, but he himself is a hypocrite.",
+     "faV": "زاهِد مَردُم را اَز شَراب می‌تَرسانَد، وَلی خودَش ریاکار اَست.",
+     "a": "d069877d396e"
+    },
+    {
+     "fa": "هر بیت حافظ را می‌توان هم زمینی خواند و هم آسمانی.",
+     "r": "har beyt-e Hāfez rā mi-tavān ham zamini khānd o ham āsemāni.",
+     "en": "Every couplet of Hafez can be read both as earthly and as heavenly.",
+     "faV": "هَر بَیتِ حافِظ را می‌تَوان هَم زَمینی خواند و هَم آسِمانی.",
+     "a": "fa7aa0b4cd41"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Poetic grammar: the old forms in this ghazal",
+   "md": "Hafez's Persian is close enough to today's that a Tehran newspaper reader follows most of it, but a handful of old forms turn up in almost every couplet. Learn the ones in this table and most classical poetry opens up (lesson 4 of this level goes further).\n\nThe examples are other famous couplets of Hafez that use the same forms. Many of them are quoted every day – a half-line of Hafez is the Iranian answer to a proverb.",
+   "table": {
+    "head": [
+     "In Hafez",
+     "Today",
+     "What is going on",
+     "Couplet"
+    ],
+    "rows": [
+     [
+      "[[مرا|marā]]",
+      "[[برای من|barā-ye man]]، [[به من|be man]]",
+      "را meant 'for, to' as well as marking the object",
+      "3"
+     ],
+     [
+      "[[گرت|garat]]",
+      "[[اگر به تو|agar be to]]",
+      "a pronoun ending hangs on the first word of the clause",
+      "4"
+     ],
+     [
+      "[[ز|ze]]",
+      "[[از|az]]",
+      "short form of از",
+      "2, 4, 6"
+     ],
+     [
+      "[[زان|zān]]، [[کز|kaz]]، [[کاخر|kākhar]]",
+      "[[از آن|az ān]]، [[که از|ke az]]، [[که آخر|ke ākhar]]",
+      "two words run together",
+      "2, 6"
+     ],
+     [
+      "[[نبود|nabvad]]",
+      "[[نیست|nist]]",
+      "the old present of بودن: بود (bovad) 'is'",
+      "4"
+     ],
+     [
+      "[[همی‌خواهی|hami-khāhi]]",
+      "[[می‌خواهی|mi-khāhi]]",
+      "همی is the old form of the prefix می",
+      "7"
+     ],
+     [
+      "[[مشو|masho]]",
+      "[[نشو|na-sho]]",
+      "the old negative imperative with مـ",
+      "7"
+     ],
+     [
+      "[[گوید|guyad]]، [[دانند|dānand]]",
+      "[[بگوید|beguyad]]، [[می‌دانند|mi-dānand]]",
+      "the bare present serves for both 'may say' and 'they know'",
+      "4, 5"
+     ],
+     [
+      "[[فریاد می‌دارد|faryād mi-dārad]]",
+      "[[فریاد می‌زند|faryād mi-zanad]]",
+      "a compound verb with a different light verb",
+      "3"
+     ],
+     [
+      "[[افتاد مشکل‌ها|oftād moshkel-hā]]",
+      "[[مشکل‌ها پیش آمد|moshkel-hā pish āmad]]",
+      "the verb may come before its subject",
+      "1"
+     ],
+     [
+      "[[کجا دانند|kojā dānand]]",
+      "[[نمی‌دانند|nemi-dānand]]",
+      "a question that means 'not at all'",
+      "5, 6"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "صلاح کار کجا و من خراب کجا / ببین تفاوت ره کز کجاست تا به کجا",
+     "r": "salāh-e kār kojā o man-e kharāb kojā / bebin tafāvot-e rah k-az kojā-st tā be kojā",
+     "en": "Where is right conduct, and where am I, the ruined one? See how long the road is – from where to where!",
+     "note": "[[کز|kaz]] = [[که از|ke az]]; [[ره|rah]] = [[راه|rāh]]. «X کجا و Y کجا» is still everyday Persian for 'X and Y are worlds apart'.",
+     "faV": "صَلاحِ کار کُجا و مَنِ خَراب کُجا / بِبین تَفاوُتِ رَه کَز کُجاست تا به کُجا",
+     "a": "1a24bfd79dbf"
+    },
+    {
+     "fa": "یوسف گم‌گشته بازآید به کنعان غم مخور / کلبه‌ی احزان شود روزی گلستان غم مخور",
+     "r": "Yusof-e gom-gashte bāz-āyad be Kan'ān gham ma-khor / kolbe-ye ahzān shavad ruz-i golestān gham ma-khor",
+     "en": "Lost Joseph will come back to Canaan – do not grieve; the hut of sorrows will one day be a rose garden – do not grieve.",
+     "note": "[[بازآید|bāz-āyad]] = [[برمی‌گردد|bar-mi-gardad]] (a bare present for the future); [[مخور|makhor]] = [[نخور|na-khor]]. [[غم خوردن|gham khordan]] 'to grieve' is still in daily use.",
+     "faV": "یوسُفِ گُم‌گَشته بازآیَد به کَنعان غَم مَخور / کُلبه‌یِ اَحزان شَوَد روزی گُلِستان غَم مَخور",
+     "a": "7ab3765e3f5b"
+    },
+    {
+     "fa": "هرگز نمیرد آن که دلش زنده شد به عشق / ثبت است بر جریده‌ی عالم دوام ما",
+     "r": "hargez namirad ān ke del-ash zende shod be eshgh / sabt ast bar jaride-ye ālam davām-e mā",
+     "en": "He whose heart has come alive through love will never die: our lasting is written in the register of the world.",
+     "note": "[[نمیرد|namirad]] = [[نمی‌میرد|nemi-mirad]]. In [[زنده شد به عشق|zende shod be eshgh]] the phrase with به follows the verb; in the second half the subject [[دوام ما|davām-e mā]] comes last.",
+     "faV": "هَرگِز نَمیرَد آن که دِلَش زِنده شُد به عِشق / ثَبت اَست بَر جَریده‌یِ عالَم دَوامِ ما",
+     "a": "0aa7ec460b03"
+    },
+    {
+     "fa": "دوش دیدم که ملایک در میخانه زدند / گل آدم بسرشتند و به پیمانه زدند",
+     "r": "dush didam ke malāyek dar-e meykhāne zadand / gel-e ādam besereshtand o be peymāne zadand",
+     "en": "Last night I saw the angels knocking at the tavern door; they kneaded the clay of Adam and cast it in the wine measure.",
+     "note": "[[دوش|dush]] 'last night' is a poetic word. In [[بسرشتند|besereshtand]] the be- on a past verb is common in classical Persian and adds nothing to the meaning.",
+     "faV": "دوش دیدَم که مَلایِک دَرِ مَیخانه زَدَند / گِلِ آدَم بِسِرِشتَند و به پَیمانه زَدَند",
+     "a": "409d75b09d5f"
+    },
+    {
+     "fa": "ساقی به نور باده برافروز جام ما / مطرب بگو که کار جهان شد به کام ما",
+     "r": "sāghi be nur-e bāde barafruz jām-e mā / motreb begu ke kār-e jahān shod be kām-e mā",
+     "en": "Cupbearer, light up our cup with the glow of wine; minstrel, sing that the world has gone the way we wished.",
+     "note": "[[شد به کام ما|shod be kām-e mā]] = [[به کام ما شد|be kām-e mā shod]]: the verb comes early again. [[بگو|begu]] here means 'sing'.",
+     "faV": "ساقی به نورِ باده بَراَفروز جامِ ما / مُطرِب بِگو که کارِ جَهان شُد به کامِ ما",
+     "a": "b524b36ac4ba"
+    },
+    {
+     "fa": "سال‌ها دل طلب جام جم از ما می‌کرد / وان چه خود داشت ز بیگانه تمنا می‌کرد",
+     "r": "sāl-hā del talab-e jām-e Jam az mā mi-kard / v-ān che khod dāsht ze bigāne tamannā mi-kard",
+     "en": "For years my heart asked me for Jamshid's cup – begging from strangers for what it already had.",
+     "note": "[[وان چه|vān che]] = [[و آنچه|va ān-che]] 'and that which'; [[ز|ze]] = [[از|az]]. The cup that shows the world was in the heart all along.",
+     "faV": "سال‌ها دِل طَلَبِ جامِ جَم اَز ما می‌کَرد / وان چه خود داشت ز بیگانه تَمَنّا می‌کَرد",
+     "a": "4f9b717b9fdd"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Hafez of Shiraz",
+   "intro": "A short life of the poet in plain modern Persian – the kind of text you would find in a school book or on a board at the tomb.",
+   "sentences": [
+    {
+     "fa": "خواجه شمس‌الدین محمد حافظ شیرازی در قرن هشتم هجری در شیراز به دنیا آمد.",
+     "r": "khāje Shams-od-din Mohammad Hāfez-e Shirāzi dar gharn-e hashtom-e hejri dar Shirāz be donyā āmad.",
+     "en": "Khwaja Shams al-Din Mohammad Hafez of Shiraz was born in Shiraz in the eighth century of the Hijra (the fourteenth century AD).",
+     "faV": "خواجه شَمس‌اُلدّین مُحَمَّد حافِظِ شیرازی دَر قَرنِ هَشتُمِ هِجری دَر شیراز به دُنیا آمَد.",
+     "a": "3b6d059bf8ad"
+    },
+    {
+     "fa": "او را «حافظ» می‌نامیدند، چون قرآن را از بر داشت.",
+     "r": "u rā «Hāfez» mi-nāmidand, chon Ghor'ān rā az bar dāsht.",
+     "en": "He was called 'Hafez' because he knew the Quran by heart.",
+     "note": "[[حافظ|hāfez]] means 'keeper, one who has memorised'; it comes from the same root as [[حفظ کردن|hefz kardan|to memorise]].",
+     "faV": "او را «حافِظ» می‌نامیدَند، چون قُرآن را اَز بَر داشت.",
+     "a": "8838602fd994"
+    },
+    {
+     "fa": "تقریباً همه‌ی عمرش را در شیراز گذراند و کمتر از این شهر بیرون رفت.",
+     "r": "taghriban hame-ye omr-ash rā dar Shirāz gozarānd o kam-tar az in shahr birun raft.",
+     "en": "He spent almost his whole life in Shiraz and seldom left the city.",
+     "faV": "تَقریباً هَمه‌یِ عُمرَش را دَر شیراز گُذَراند و کَمتَر اَز این شَهر بیرون رَفت.",
+     "a": "0da1884fc030"
+    },
+    {
+     "fa": "در روزگار او شیراز بارها دست به دست شد و شاهان و امیران می‌آمدند و می‌رفتند.",
+     "r": "dar ruzgār-e u Shirāz bār-hā dast be dast shod o shāhān o amirān mi-āmadand o mi-raftand.",
+     "en": "In his time Shiraz changed hands again and again; kings and princes came and went.",
+     "faV": "دَر روزگارِ او شیراز بارها دَست به دَست شُد و شاهان و اَمیران می‌آمَدَند و می‌رَفتَند.",
+     "a": "aedaf5a34320"
+    },
+    {
+     "fa": "حافظ در شعرهایش از بعضی از این فرمانروایان ستایش کرده است.",
+     "r": "Hāfez dar she'r-hā-yash az ba'zi az in farmānravāyān setāyesh karde ast.",
+     "en": "In his poems Hafez praised some of these rulers.",
+     "faV": "حافِظ دَر شِعرهایَش اَز بَعضی اَز این فَرمانرَوایان سِتایِش کَرده اَست.",
+     "a": "fa7474569f68"
+    },
+    {
+     "fa": "اما بیشتر شعرهای او درباره‌ی عشق، شراب، ریا و آزادی است.",
+     "r": "ammā bishtar-e she'r-hā-ye u darbāre-ye eshgh, sharāb, riyā o āzādi ast.",
+     "en": "But most of his poems are about love, wine, hypocrisy and freedom.",
+     "faV": "اَمّا بیشتَرِ شِعرهایِ او دَرباره‌یِ عِشق، شَراب، ریا و آزادی اَست.",
+     "a": "51104002815b"
+    },
+    {
+     "fa": "دیوان او نزدیک به پانصد غزل دارد و بیشتر این غزل‌ها کوتاه‌اند.",
+     "r": "divān-e u nazdik be pānsad ghazal dārad o bishtar-e in ghazal-hā kutāh-and.",
+     "en": "His Divan contains nearly five hundred ghazals, and most of them are short.",
+     "faV": "دیوانِ او نَزدیک به پانصَد غَزَل دارَد و بیشتَرِ این غَزَل‌ها کوتاه‌اَند.",
+     "a": "1229035f9c1a"
+    },
+    {
+     "fa": "می‌گویند دوستش محمد گلندام شعرهای او را پس از مرگش جمع کرد.",
+     "r": "mi-guyand dust-ash Mohammad Golandām she'r-hā-ye u rā pas az marg-ash jam' kard.",
+     "en": "It is said that his friend Mohammad Golandam collected his poems after his death.",
+     "faV": "می‌گویَند دوستَش مُحَمَّد گُلَندام شِعرهایِ او را پَس اَز مَرگَش جَمع کَرد.",
+     "a": "38b0dc1641fb"
+    },
+    {
+     "fa": "حافظ در سال ۷۹۲ هجری قمری، یعنی ۱۳۹۰ میلادی، در شیراز درگذشت.",
+     "r": "Hāfez dar sāl-e haftsad-o-navad-o-do-ye hejri-ye ghamari, ya'ni hezār-o-sisad-o-navad-e milādi, dar Shirāz dargozasht.",
+     "en": "Hafez died in Shiraz in the year 792 of the lunar Hijri calendar, that is, 1390 AD.",
+     "faV": "حافِظ دَر سالِ ۷۹۲ هِجریِ قَمَری، یَعنی ۱۳۹۰ میلادی، دَر شیراز دَرگُذَشت.",
+     "a": "e6a2ba98ccf8"
+    },
+    {
+     "fa": "آرامگاه او در باغی به نام حافظیه است و هر روز هزاران نفر به دیدنش می‌روند.",
+     "r": "ārāmgāh-e u dar bāgh-i be nām-e Hāfeziye ast o har ruz hezārān nafar be didan-ash mi-ravand.",
+     "en": "His tomb is in a garden called the Hafezieh, and every day thousands of people go to visit it.",
+     "faV": "آرامگاهِ او دَر باغی به نامِ حافِظیه اَست و هَر روز هِزاران نَفَر به دیدَنَش می‌رَوَند.",
+     "a": "6fff94322a0e"
+    },
+    {
+     "fa": "بنای کنونی آرامگاه را در سال ۱۳۱۴ خورشیدی ساختند.",
+     "r": "banā-ye konuni-ye ārāmgāh rā dar sāl-e hezār-o-sisad-o-chahārdah-e khorshidi sākhtand.",
+     "en": "The present building of the tomb was put up in the solar year 1314 (1935).",
+     "faV": "بَنایِ کُنونیِ آرامگاه را دَر سالِ ۱۳۱۴ خورشیدی ساختَند.",
+     "a": "05166766e9b3"
+    },
+    {
+     "fa": "روی سنگ قبر او بیت‌هایی از غزل‌هایش کنده شده است.",
+     "r": "ru-ye sang-e ghabr-e u beyt-hā-yi az ghazal-hā-yash kande shode ast.",
+     "en": "Couplets from his ghazals are carved on his tombstone.",
+     "faV": "رویِ سَنگِ قَبرِ او بَیت‌هایی اَز غَزَل‌هایَش کَنده شُده اَست.",
+     "a": "231c99318fc5"
+    },
+    {
+     "fa": "می‌گویند در هر خانه‌ی ایرانی دو کتاب پیدا می‌شود: قرآن و دیوان حافظ.",
+     "r": "mi-guyand dar har khāne-ye irāni do ketāb peydā mi-shavad: Ghor'ān o divān-e Hāfez.",
+     "en": "They say that in every Iranian home you will find two books: the Quran and the Divan of Hafez.",
+     "faV": "می‌گویَند دَر هَر خانه‌یِ ایرانی دو کِتاب پَیدا می‌شَوَد: قُرآن و دیوانِ حافِظ.",
+     "a": "e698a103ea61"
+    },
+    {
+     "fa": "خیلی‌ها هنوز در لحظه‌های تردید دیوان را باز می‌کنند و از حافظ فال می‌گیرند.",
+     "r": "kheyli-hā hanuz dar lahze-hā-ye tardid divān rā bāz mi-konand o az Hāfez fāl mi-girand.",
+     "en": "Many people still open the Divan in moments of doubt and take an omen from Hafez.",
+     "faV": "خَیلی‌ها هَنوز دَر لَحظه‌هایِ تَردید دیوان را باز می‌کُنَند و اَز حافِظ فال می‌گیرَند.",
+     "a": "5cb01659ee72"
+    },
+    {
+     "fa": "به همین دلیل به او «لسان‌الغیب» یعنی «زبان غیب» می‌گویند.",
+     "r": "be hamin dalil be u «lesān-ol-gheyb» ya'ni «zabān-e gheyb» mi-guyand.",
+     "en": "That is why he is called *Lesān al-Gheyb*, 'the Tongue of the Unseen'.",
+     "faV": "به هَمین دَلیل به او «لِسان‌اُلغَیب» یَعنی «زَبانِ غَیب» می‌گویَند.",
+     "a": "12e306e2836f"
+    },
+    {
+     "fa": "گوته، شاعر آلمانی، چنان شیفته‌ی حافظ شد که «دیوان غربی‌شرقی» را با الهام از او سرود.",
+     "r": "Gote, shā'er-e ālmāni, chonān shifte-ye Hāfez shod ke «divān-e gharbi-sharghi» rā bā elhām az u sorud.",
+     "en": "Goethe, the German poet, was so taken with Hafez that he wrote his *West–Eastern Divan* inspired by him.",
+     "faV": "گوته، شاعِرِ آلمانی، چُنان شیفته‌یِ حافِظ شُد که «دیوانِ غَربی‌شَرقی» را با اِلهام اَز او سُرود.",
+     "a": "fe5562409ab4"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why was the poet called 'Hafez'?",
+     "options": [
+      "because he was born in Shiraz",
+      "because he knew the Quran by heart",
+      "because he wrote five hundred ghazals"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What does «لسان‌الغیب» mean?",
+     "options": [
+      "the King of Poets",
+      "the Tongue of the Unseen",
+      "the Master of Love"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Who is said to have collected Hafez's poems?",
+     "options": [
+      "Goethe",
+      "his friend Mohammad Golandam",
+      "the rulers of Shiraz"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "dialogue",
+   "title": "At the Hafezieh",
+   "context": "Tom is spending the Nowruz holidays in Shiraz. At sunset Leila takes him to the Hafezieh, where people sit by the tomb reading poems. Listen for how Leila explains the fāl, and for the words people say to Hafez before they open the book.",
+   "lines": [
+    {
+     "who": "Tom",
+     "fa": "چرا این‌قدر شلوغ است؟ امروز تعطیل است؟",
+     "r": "cherā in-ghadr sholugh ast? emruz ta'til ast?",
+     "en": "Why is it so crowded? Is today a holiday?",
+     "col": "چرا این‌قدر شلوغه؟ امروز تعطیله؟",
+     "colR": "cherā in-ghadr sholugh-e? emruz ta'til-e?",
+     "faV": "چِرا این‌قَدر شُلوغ اَست؟ اِمروز تَعطیل اَست؟",
+     "a": "ff8e0e477956",
+     "colV": "چِرا این‌قَدر شُلوغه؟ اِمروز تَعطیله؟",
+     "colA": "eca794887a57"
+    },
+    {
+     "who": "Leila",
+     "fa": "نه، غروب‌ها همیشه همین‌طور است. مردم به این‌جا می‌آیند تا کنار حافظ شعر بخوانند.",
+     "r": "na, ghorub-hā hamishe hamin-towr ast. mardom be in-jā mi-āyand tā kenār-e Hāfez she'r bekhānand.",
+     "en": "No, it's always like this at sunset. People come here to read poetry beside Hafez.",
+     "col": "نه، غروبا همیشه همین‌طوره. مردم میان این‌جا که کنار حافظ شعر بخونن.",
+     "colR": "na, ghorub-ā hamishe hamin-towr-e. mardom miyān in-jā ke kenār-e Hāfez she'r bekhunan.",
+     "faV": "نه، غُروب‌ها هَمیشه هَمین‌طَور اَست. مَردُم به این‌جا می‌آیَند تا کِنارِ حافِظ شِعر بِخوانَند.",
+     "a": "9b3a7355a14e",
+     "colV": "نه، غُروبا هَمیشه هَمین‌طَوره. مَردُم میان این‌جا که کِنارِ حافِظ شِعر بِخونَن.",
+     "colA": "f593a5f83b22"
+    },
+    {
+     "who": "Tom",
+     "fa": "آن آقا کنار قبر چه کار می‌کند؟ دارد گریه می‌کند؟",
+     "r": "ān āghā kenār-e ghabr che kār mi-konad? dārad gerye mi-konad?",
+     "en": "What is that man doing by the grave? Is he crying?",
+     "col": "اون آقا کنار قبر چی کار می‌کنه؟ داره گریه می‌کنه؟",
+     "colR": "un āghā kenār-e ghabr chi kār mi-kone? dāre gerye mi-kone?",
+     "faV": "آن آقا کِنارِ قَبر چه کار می‌کُنَد؟ دارَد گِریه می‌کُنَد؟",
+     "a": "a48939d703fc",
+     "colV": "اون آقا کِنارِ قَبر چی کار می‌کُنه؟ داره گِریه می‌کُنه؟",
+     "colA": "a57836c3383d"
+    },
+    {
+     "who": "Leila",
+     "fa": "نه، دارد غزل می‌خواند. بعضی‌ها همه‌ی دیوان را حفظ‌اند.",
+     "r": "na, dārad ghazal mi-khānad. ba'zi-hā hame-ye divān rā hefz-and.",
+     "en": "No, he's reciting a ghazal. Some people know the whole Divan by heart.",
+     "col": "نه، داره غزل می‌خونه. بعضیا کل دیوون رو حفظن.",
+     "colR": "na, dāre ghazal mi-khune. ba'zi-yā koll-e divun ro hefz-an.",
+     "faV": "نه، دارَد غَزَل می‌خوانَد. بَعضی‌ها هَمه‌یِ دیوان را حِفظ‌اَند.",
+     "a": "d7bf75662949",
+     "colV": "نه، داره غَزَل می‌خونه. بَعضیا کُلِّ دیوون رو حِفظَن.",
+     "colA": "ff405406bf5c"
+    },
+    {
+     "who": "Tom",
+     "fa": "شنیده‌ام که این‌جا فال حافظ هم می‌گیرند. تو تا حالا فال گرفته‌ای؟",
+     "r": "shenide-am ke in-jā fāl-e Hāfez ham mi-girand. to tā hālā fāl gerefte-i?",
+     "en": "I've heard people take a fāl of Hafez here too. Have you ever done it?",
+     "col": "شنیدم این‌جا فال حافظ هم می‌گیرن. تو تا حالا فال گرفتی؟",
+     "colR": "shenidam in-jā fāl-e Hāfez ham mi-giran. to tā hālā fāl gerefti?",
+     "faV": "شِنیده‌اَم که این‌جا فالِ حافِظ هَم می‌گیرَند. تو تا حالا فال گِرِفته‌ای؟",
+     "a": "a8a919651974",
+     "colV": "شِنیدَم این‌جا فالِ حافِظ هَم می‌گیرَن. تو تا حالا فال گِرِفتی؟",
+     "colA": "82ad67f7546c"
+    },
+    {
+     "who": "Leila",
+     "fa": "معلوم است! هر سال شب یلدا مادربزرگم برای همه‌ی ما فال می‌گیرد.",
+     "r": "ma'lum ast! har sāl shab-e Yaldā mādarbozorg-am barā-ye hame-ye mā fāl mi-girad.",
+     "en": "Of course! Every year on Yalda night my grandmother takes a fāl for all of us.",
+     "col": "معلومه! هر سال شب یلدا مامان‌بزرگم واسه‌ی همه‌مون فال می‌گیره.",
+     "colR": "ma'lum-e! har sāl shab-e Yaldā māmān-bozorg-am vāse-ye hame-mun fāl mi-gire.",
+     "faV": "مَعلوم اَست! هَر سال شَبِ یَلدا مادَربُزُرگَم بَرایِ هَمه‌یِ ما فال می‌گیرَد.",
+     "a": "fae4d2ca62bd",
+     "colV": "مَعلومه! هَر سال شَبِ یَلدا مامان‌بُزُرگَم واسه‌یِ هَمه‌مون فال می‌گیره.",
+     "colA": "88f52c686214"
+    },
+    {
+     "who": "Tom",
+     "fa": "چطوری؟ فقط کتاب را باز می‌کنید؟",
+     "r": "chetowri? faghat ketāb rā bāz mi-konid?",
+     "en": "How? You just open the book?",
+     "col": "چطوری؟ فقط کتابو باز می‌کنین؟",
+     "colR": "chetowri? faghat ketāb-o bāz mi-konin?",
+     "faV": "چِطَوری؟ فَقَط کِتاب را باز می‌کُنید؟",
+     "a": "cc01dc6d6512",
+     "colV": "چِطَوری؟ فَقَط کِتابو باز می‌کُنین؟",
+     "colA": "6f2dff5acb94"
+    },
+    {
+     "who": "Leila",
+     "fa": "نه، اول نیت می‌کنی، یعنی آرزویت را در دلت می‌گویی و به کسی نمی‌گویی.",
+     "r": "na, avval niyyat mi-koni, ya'ni ārezu-yat rā dar del-at mi-guyi o be kas-i nemi-guyi.",
+     "en": "No, first you make your intention – you say your wish in your heart and tell no one.",
+     "col": "نه، اول نیت می‌کنی، یعنی آرزوتو تو دلت می‌گی و به کسی نمی‌گی.",
+     "colR": "na, avval niyyat mi-koni, ya'ni ārezu-t-o tu del-at mi-gi o be kas-i nemi-gi.",
+     "faV": "نه، اَوَّل نیَّت می‌کُنی، یَعنی آرِزویَت را دَر دِلَت می‌گویی و به کَسی نِمی‌گویی.",
+     "a": "d32be16bafb7",
+     "colV": "نه، اَوَّل نیَّت می‌کُنی، یَعنی آرِزوتو تو دِلَت می‌گی و به کَسی نِمی‌گی.",
+     "colA": "30d8a963811f"
+    },
+    {
+     "who": "Tom",
+     "fa": "بعد؟",
+     "r": "ba'd?",
+     "en": "And then?",
+     "faV": "بَعد؟",
+     "a": "761eaaa36f8b"
+    },
+    {
+     "who": "Leila",
+     "fa": "بعد می‌گویی «ای حافظ شیرازی، تو محرم هر رازی» و اولین غزلی را که می‌آید می‌خوانی.",
+     "r": "ba'd mi-guyi «ey Hāfez-e Shirāzi, to mahram-e har rāz-i» o avvalin ghazal-i rā ke mi-āyad mi-khāni.",
+     "en": "Then you say, 'O Hafez of Shiraz, you who know every secret,' and you read the first ghazal that comes up.",
+     "col": "بعد می‌گی «ای حافظ شیرازی، تو محرم هر رازی» و اولین غزلی رو که میاد می‌خونی.",
+     "colR": "ba'd mi-gi «ey Hāfez-e Shirāzi, to mahram-e har rāz-i» o avvalin ghazal-i ro ke miyād mi-khuni.",
+     "faV": "بَعد می‌گویی «اَی حافِظِ شیرازی، تو مَحرَمِ هَر رازی» و اَوَّلین غَزَلی را که می‌آیَد می‌خوانی.",
+     "a": "71df5450b6f3",
+     "colV": "بَعد می‌گی «اَی حافِظِ شیرازی، تو مَحرَمِ هَر رازی» و اَوَّلین غَزَلی رو که میاد می‌خونی.",
+     "colA": "e0be9ed3d420"
+    },
+    {
+     "who": "Tom",
+     "fa": "باشد، نیت کردم. ای حافظ شیرازی، تو محرم هر رازی…",
+     "r": "bāshad, niyyat kardam. ey Hāfez-e Shirāzi, to mahram-e har rāz-i…",
+     "en": "All right, I've made my wish. O Hafez of Shiraz, you who know every secret…",
+     "col": "باشه، نیت کردم. ای حافظ شیرازی، تو محرم هر رازی…",
+     "colR": "bāshe, niyyat kardam. ey Hāfez-e Shirāzi, to mahram-e har rāz-i…",
+     "faV": "باشَد، نیَّت کَردَم. اَی حافِظِ شیرازی، تو مَحرَمِ هَر رازی…",
+     "a": "0a20da05b317",
+     "colV": "باشه، نیَّت کَردَم. اَی حافِظِ شیرازی، تو مَحرَمِ هَر رازی…",
+     "colA": "b3dbde463cc8"
+    },
+    {
+     "who": "Leila",
+     "fa": "ببین چه آمد: «یوسف گم‌گشته بازآید به کنعان غم مخور»!",
+     "r": "bebin che āmad: «Yusof-e gom-gashte bāz-āyad be Kan'ān gham ma-khor»!",
+     "en": "Look what came up: 'Lost Joseph will come back to Canaan – do not grieve!'",
+     "col": "ببین چی اومد: «یوسف گم‌گشته بازآید به کنعان غم مخور»!",
+     "colR": "bebin chi umad: «Yusof-e gom-gashte bāz-āyad be Kan'ān gham ma-khor»!",
+     "faV": "بِبین چه آمَد: «یوسُفِ گُم‌گَشته بازآیَد به کَنعان غَم مَخور»!",
+     "a": "af4c9045bd08",
+     "colV": "بِبین چی اومَد: «یوسُفِ گُم‌گَشته بازآیَد به کَنعان غَم مَخور»!",
+     "colA": "e7be9138bfe9"
+    },
+    {
+     "who": "Tom",
+     "fa": "یعنی چه؟ من که یوسف نیستم!",
+     "r": "ya'ni che? man ke Yusof nistam!",
+     "en": "What does that mean? I'm not Joseph!",
+     "col": "یعنی چی؟ من که یوسف نیستم!",
+     "colR": "ya'ni chi? man ke Yusof nistam!",
+     "faV": "یَعنی چه؟ مَن که یوسُف نیستَم!",
+     "a": "1f44f8ebd1c3",
+     "colV": "یَعنی چی؟ مَن که یوسُف نیستَم!",
+     "colA": "0f44747c5de6"
+    },
+    {
+     "who": "Leila",
+     "fa": "یعنی غصه نخور؛ کسی که دلت برایش تنگ شده برمی‌گردد. برای همین به حافظ لسان‌الغیب می‌گویند!",
+     "r": "ya'ni ghosse na-khor; kas-i ke del-at barā-yash tang shode bar-mi-gardad. barā-ye hamin be Hāfez lesān-ol-gheyb mi-guyand!",
+     "en": "It means don't be sad: the person you miss will come back. That's why they call Hafez the Tongue of the Unseen!",
+     "col": "یعنی غصه نخور؛ کسی که دلت براش تنگ شده برمی‌گرده. واسه همین به حافظ می‌گن لسان‌الغیب!",
+     "colR": "ya'ni ghosse na-khor; kas-i ke del-at barā-sh tang shode bar-mi-garde. vāse hamin be Hāfez mi-gan lesān-ol-gheyb!",
+     "faV": "یَعنی غُصّه نَخور؛ کَسی که دِلَت بَرایَش تَنگ شُده بَرمی‌گَردَد. بَرایِ هَمین به حافِظ لِسان‌اُلغَیب می‌گویَند!",
+     "a": "ec4e141ebae0",
+     "colV": "یَعنی غُصّه نَخور؛ کَسی که دِلَت بَراش تَنگ شُده بَرمی‌گَرده. واسه هَمین به حافِظ می‌گَن لِسان‌اُلغَیب!",
+     "colA": "030ecd7d99f8"
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Asking Hafez: the fāl, Yalda and the tomb",
+   "md": "**The fāl.** No other poet is used the way Hafez is. To take a [[فال حافظ|fāl-e Hāfez]] you hold a question or a wish in your mind ([[نیت کردن|niyyat kardan]]), often say a little formula – [[ای حافظ شیرازی، تو محرم هر رازی|ey Hāfez-e Shirāzi, to mahram-e har rāz-i|O Hafez of Shiraz, confidant of every secret]] – and some add an oath 'by your Shakh-e Nabat', the beloved of the Hafez legends. Then you open the *Divan* at random and read the ghazal in front of you. Because his couplets are so open, almost any ghazal can be read as an answer, and the reader – usually the oldest person in the room – explains it with great seriousness and some mischief.\n\n**Yalda.** On [[شب یلدا|shab-e Yaldā]], the longest night of the year (the night before the first of Dey, around 21 December), families sit up late around watermelon, pomegranates and dried fruit and nuts, and the *Divan* comes out: everyone gets a fāl. For many Iranians a Yalda without Hafez is not Yalda.\n\n**In the street.** At traffic lights in Tehran children sell little envelopes with a ghazal inside – a [[فال|fāl]] for a few thousand tomans – and in parks you may still meet a [[فال‌گیر|fālgir]] with a small bird that picks a card for you.\n\n**The tomb.** The [[حافظیه|Hāfeziye]] in Shiraz is a garden of orange trees and cypresses with an open pavilion of eight columns over the poet's tombstone. People come at dusk, touch the stone, recite, sing and – of course – take a fāl. The 20th of Mehr (around 12 October) is Hafez Day in the Iranian calendar, and the garden is full of readings and music.\n\nOne old story claims that Hafez borrowed his Arabic first line from a verse attributed to the Umayyad caliph Yazid – a scandal for Shi'i readers, who remember Yazid as the killer of Imam Hossein. Scholars doubt the story, but Iranians still enjoy telling it, together with the joking defence that 'the property of an unbeliever is lawful for a believer'.",
+   "image": "yalda"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "Read a couplet aloud before you translate it. The metre often decides an ambiguous word: نبود in couplet 4 must be *nabvad* 'is not' (two long syllables), not *nabud* 'was not'.",
+    "Nine-tenths of the 'difficulty' of classical poetry is contractions. When you see ز، زان، کز، کاخر، وان, read از، از آن، که از، که آخر، و آن.",
+    "Don't try to decide whether a ghazal is 'really' about wine or about God. Iranian readers keep both meanings in mind at once – that is the pleasure of it.",
+    "The beloved in Persian poetry has no gender: او is both 'he' and 'she'. Translators have to choose; in Persian you never do.",
+    "Look up the modern word, not the poetic one: نهان → پنهان، هایل → هولناک، جانان → معشوق، می → شراب. Dictionaries of everyday Persian often leave the poetic words out.",
+    "Learn two or three couplets by heart. Iranians quote Hafez constantly, and a well-chosen half-line at the dinner table is the best compliment you can pay your hosts."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the couplets",
+   "items": [
+    {
+     "fa": "الا یا ایها الساقی ادر کأساً و ___",
+     "r": "alā yā ayyohā as-sāghi ader ka'san va ___",
+     "en": "Ho, cupbearer, pass the cup around and hand it to me –",
+     "answer": "ناولها",
+     "hint": "the Arabic 'hand it over' – it rhymes with مشکل‌ها"
+    },
+    {
+     "fa": "که عشق آسان نمود اول ولی افتاد ___",
+     "r": "ke eshgh āsān nemud avval vali oftād ___",
+     "en": "for love seemed easy at first, but then the troubles came.",
+     "answer": "مشکل‌ها",
+     "hint": "troubles, difficulties"
+    },
+    {
+     "fa": "شب تاریک و بیم موج و ___ چنین هایل",
+     "r": "shab-e tārik o bim-e mowj o ___ chenin hāyel",
+     "en": "A dark night, the fear of the waves and a whirlpool so terrible –",
+     "answer": "گردابی",
+     "hint": "a whirlpool"
+    },
+    {
+     "fa": "کجا دانند حال ما سبکباران ___",
+     "r": "kojā dānand hāl-e mā sabokbārān-e ___",
+     "en": "how could they know our state, those who walk lightly laden on the shore?",
+     "answer": "ساحل‌ها",
+     "hint": "shores"
+    },
+    {
+     "fa": "حضوری گر همی‌خواهی از او غایب مشو ___",
+     "r": "hozur-i gar hami-khāhi az u ghāyeb masho ___",
+     "en": "If you want his presence, Hafez, do not be absent from him.",
+     "answer": "حافظ",
+     "hint": "the poet's pen name"
+    },
+    {
+     "fa": "شب یلدا از دیوان حافظ ___ می‌گیریم.",
+     "r": "shab-e Yaldā az divān-e Hāfez ___ mi-girim.",
+     "en": "On Yalda night we take an omen from the Divan of Hafez.",
+     "answer": "فال",
+     "hint": "omen"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Images, grammar and customs",
+   "items": [
+    {
+     "q": "In the Sufi reading, what does wine ([[می|mey]], [[باده|bāde]]) stand for?",
+     "options": [
+      "the pleasures of this world",
+      "the love of God",
+      "money and power"
+     ],
+     "answer": 1,
+     "explain": "Wine makes you forget yourself – the state the mystic seeks before God."
+    },
+    {
+     "q": "Who is the [[پیر مغان|pir-e moghān]] on the surface of the poem?",
+     "options": [
+      "the king of Shiraz",
+      "a preacher in the mosque",
+      "the old Zoroastrian who keeps the tavern"
+     ],
+     "answer": 2,
+     "explain": "In medieval Iran wine was sold by non-Muslims, so the tavern keeper is an old Magian. Sufi readers see in him the spiritual master."
+    },
+    {
+     "q": "[[گرت پیر مغان گوید|gar-at pir-e moghān guyad]] means…",
+     "options": [
+      "if the elder of the Magi tells you",
+      "your elder told the Magi",
+      "the elder of the Magi told him"
+     ],
+     "answer": 0,
+     "explain": "گرت = اگر + ـت: the pronoun 'you' hangs on the 'if', and گوید is a bare present used as a subjunctive."
+    },
+    {
+     "q": "In couplet 4, [[نبود|nabvad]] means…",
+     "options": [
+      "was not",
+      "is not",
+      "will not be"
+     ],
+     "answer": 1,
+     "explain": "بود (bovad) is the old present of بودن; the metre needs two long syllables, nab-vad."
+    },
+    {
+     "q": "What is the [[زاهد|zāhed]] usually like in Hafez's poems?",
+     "options": [
+      "a wise and gentle teacher",
+      "a hypocrite who prays to be seen",
+      "a generous host"
+     ],
+     "answer": 1,
+     "explain": "Hafez turns the usual values upside down: the drinker is honest, the ascetic is a fraud."
+    },
+    {
+     "q": "When do Iranian families traditionally read Hafez together all night?",
+     "options": [
+      "on the first day of spring",
+      "on Yalda, the longest night of the year",
+      "on the 20th of Mehr"
+     ],
+     "answer": 1,
+     "explain": "Yalda falls at the end of Azar, around 21 December. The 20th of Mehr is Hafez Day, celebrated mainly at the tomb in Shiraz."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "The language of the ghazal",
+   "items": [
+    {
+     "fa": "ساقی",
+     "r": "sāghi",
+     "en": "cupbearer",
+     "faV": "ساقی",
+     "a": "8f7799df163e"
+    },
+    {
+     "fa": "زلف",
+     "r": "zolf",
+     "en": "lock of hair",
+     "faV": "زُلف",
+     "a": "d3776104d4a7"
+    },
+    {
+     "fa": "رند",
+     "r": "rend",
+     "en": "free-spirited rogue",
+     "faV": "رِند",
+     "a": "71264281db22"
+    },
+    {
+     "fa": "میخانه",
+     "r": "meykhāne",
+     "en": "tavern",
+     "faV": "مَیخانه",
+     "a": "778bd42e7f06"
+    },
+    {
+     "fa": "صبا",
+     "r": "sabā",
+     "en": "the morning east wind",
+     "faV": "صَبا",
+     "a": "8dce1596889f"
+    },
+    {
+     "fa": "سالک",
+     "r": "sālek",
+     "en": "traveller on the Sufi path",
+     "faV": "سالِک",
+     "a": "43801dd988a7"
+    },
+    {
+     "fa": "جرس",
+     "r": "jaras",
+     "en": "caravan bell",
+     "faV": "جَرَس",
+     "a": "e445ba970fb5"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "Love seemed easy at first, but then the troubles came.",
+     "fa": "عشق اول آسان به نظر می‌آمد، ولی بعد مشکل‌ها پیش آمد.",
+     "r": "eshgh avval āsān be nazar mi-āmad, vali ba'd moshkel-hā pish āmad.",
+     "faV": "عِشق اَوَّل آسان به نَظَر می‌آمَد، وَلی بَعد مُشکِل‌ها پیش آمَد.",
+     "a": "fcc08d731403"
+    },
+    {
+     "en": "In Hafez's poetry the tavern is a place of honesty.",
+     "fa": "در شعر حافظ، میخانه جای صداقت است.",
+     "r": "dar she'r-e Hāfez, meykhāne jā-ye sedāghat ast.",
+     "faV": "دَر شِعرِ حافِظ، مَیخانه جایِ صِداقَت اَست.",
+     "a": "4537ee44e07c"
+    },
+    {
+     "en": "On Yalda night my grandmother takes a fāl of Hafez for everyone.",
+     "fa": "شب یلدا مادربزرگم برای همه فال حافظ می‌گیرد.",
+     "r": "shab-e Yaldā mādarbozorg-am barā-ye hame fāl-e Hāfez mi-girad.",
+     "faV": "شَبِ یَلدا مادَربُزُرگَم بَرایِ هَمه فالِ حافِظ می‌گیرَد.",
+     "a": "74756f0a89e7"
+    },
+    {
+     "en": "Some people know the whole Divan by heart.",
+     "fa": "بعضی‌ها همه‌ی دیوان را از بر دارند.",
+     "r": "ba'zi-hā hame-ye divān rā az bar dārand.",
+     "faV": "بَعضی‌ها هَمه‌یِ دیوان را اَز بَر دارَند.",
+     "a": "b9cc632054d9"
+    },
+    {
+     "en": "First make a wish, then open the book.",
+     "fa": "اول نیت کن، بعد کتاب را باز کن.",
+     "r": "avval niyyat kon, ba'd ketāb rā bāz kon.",
+     "faV": "اَوَّل نیَّت کُن، بَعد کِتاب را باز کُن.",
+     "a": "3f22323cb248"
+    },
+    {
+     "en": "The tomb of Hafez is in a garden in Shiraz.",
+     "fa": "آرامگاه حافظ در باغی در شیراز است.",
+     "r": "ārāmgāh-e Hāfez dar bāgh-i dar Shirāz ast.",
+     "faV": "آرامگاهِ حافِظ دَر باغی دَر شیراز اَست.",
+     "a": "aca43a01fec2"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "حافظ در شیراز به دنیا آمد.",
+     "r": "Hāfez dar Shirāz be donyā āmad.",
+     "en": "Hafez was born in Shiraz.",
+     "faV": "حافِظ دَر شیراز به دُنیا آمَد.",
+     "a": "70760a4ef1e6"
+    },
+    {
+     "fa": "جرس فریاد می‌دارد که بربندید محمل‌ها",
+     "r": "jaras faryād mi-dārad ke barbandid mahmel-hā",
+     "en": "The caravan bell cries out, 'Tie on your litters!'",
+     "faV": "جَرَس فَریاد می‌دارَد که بَربَندید مَحمِل‌ها",
+     "a": "b4c8f76ca916"
+    },
+    {
+     "fa": "زاهد مردم را از شراب می‌ترساند.",
+     "r": "zāhed mardom rā az sharāb mi-tarsānad.",
+     "en": "The ascetic frightens people away from wine.",
+     "faV": "زاهِد مَردُم را اَز شَراب می‌تَرسانَد.",
+     "a": "d625275a7f30"
+    },
+    {
+     "fa": "خیلی‌ها هنوز از حافظ فال می‌گیرند.",
+     "r": "kheyli-hā hanuz az Hāfez fāl mi-girand.",
+     "en": "Many people still take omens from Hafez.",
+     "faV": "خَیلی‌ها هَنوز اَز حافِظ فال می‌گیرَند.",
+     "a": "5d154edd816c"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "کجا دانند حال ما سبکباران ساحل‌ها",
+     "r": "kojā dānand hāl-e mā sabokbārān-e sāhel-hā",
+     "en": "How could they know our state, those lightly laden on the shore?",
+     "options": [
+      "How could they know our state, those lightly laden on the shore?",
+      "The caravan bell cries, 'Tie on your litters!'",
+      "Love seemed easy at first."
+     ],
+     "answer": 0,
+     "faV": "کُجا دانَند حالِ ما سَبُکبارانِ ساحِل‌ها",
+     "a": "7c01d41ca5f6"
+    },
+    {
+     "fa": "به همین دلیل به او لسان‌الغیب می‌گویند.",
+     "r": "be hamin dalil be u lesān-ol-gheyb mi-guyand.",
+     "en": "That is why they call him the Tongue of the Unseen.",
+     "options": [
+      "That is why he lived in Shiraz.",
+      "That is why they call him the Tongue of the Unseen.",
+      "That is why his tomb is in a garden."
+     ],
+     "answer": 1,
+     "faV": "به هَمین دَلیل به او لِسان‌اُلغَیب می‌گویَند.",
+     "a": "5dcbfc7e43a0"
+    },
+    {
+     "fa": "پیر مغان در اصل فروشنده‌ی شراب بود.",
+     "r": "pir-e moghān dar asl forushande-ye sharāb bud.",
+     "en": "The elder of the Magi was originally a wine seller.",
+     "options": [
+      "The cupbearer sold the tavern.",
+      "The elder of the Magi built a mosque.",
+      "The elder of the Magi was originally a wine seller."
+     ],
+     "answer": 2,
+     "faV": "پیرِ مُغان دَر اَصل فُروشَنده‌یِ شَراب بود.",
+     "a": "2ea573b263e1"
+    },
+    {
+     "fa": "یوسف گم‌گشته بازآید به کنعان غم مخور",
+     "r": "Yusof-e gom-gashte bāz-āyad be Kan'ān gham ma-khor",
+     "en": "Lost Joseph will come back to Canaan – do not grieve.",
+     "options": [
+      "Lost Joseph will come back to Canaan – do not grieve.",
+      "Joseph lost his way to Canaan.",
+      "Do not drink wine in Canaan."
+     ],
+     "answer": 0,
+     "faV": "یوسُفِ گُم‌گَشته بازآیَد به کَنعان غَم مَخور",
+     "a": "98f5266b90ca"
+    }
+   ]
+  }
+ ],
+ "titleV": "حافِظ و نَخُستین غَزَلِ دیوان",
+ "titleA": "0bbeb8617820"
+}

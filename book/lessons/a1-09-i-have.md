@@ -255,10 +255,10 @@ Offering tea is the first thing a host does, and the answer to *chāy mi-khori?*
 
 **Put the words in order**
 
-1. من / خواهر / یک / دارم. — I have one sister.
-2. گربه / تو / داری؟ — Do you have a cat?
+1. دارم. / خواهر / یک / من — I have one sister.
+2. داری؟ / تو / گربه — Do you have a cat?
 3. نداریم. / شیر / متأسفانه — Unfortunately we don't have milk.
-4. تا / از / او / دارم. / عکس / چند — I have a few photos of her.
+4. دارم. / از / او / عکس / چند / تا — I have a few photos of her.
 
 <details><summary>Answers</summary>
 

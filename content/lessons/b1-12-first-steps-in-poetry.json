@@ -1,0 +1,1301 @@
+{
+ "id": "b1-12-first-steps-in-poetry",
+ "level": "B1",
+ "n": 12,
+ "title": "First steps in poetry: reading a classical poem",
+ "titleFa": "نخستین گام‌ها در شعر",
+ "titleR": "nakhostin gām-hā dar she'r",
+ "intro": "Iranians quote poetry the way other people quote proverbs, and almost all of it is classical. In this lesson you learn how a classical poem is put together – the بیت and its two halves, the rhyme and the refrain, the poet's pen name – how to hear the rhythm by counting long and short syllables, and the old short forms that poets use. Then you read Saadi's بنی‌آدم line by line and find out how Iranians ask Hafez about their future on Yalda night.",
+ "goals": [
+  "name the parts of a poem: بیت، مصراع، قافیه، ردیف، تخلص",
+  "tell a غزل from a رباعی، a مثنوی and a قصیده",
+  "hear the metre by counting long and short syllables",
+  "recognise the poetic forms ز، چو، همی، -ا، دگر، کز and give their modern equivalents",
+  "read Saadi's بنی‌آدم line by line and explain fāl-e Hāfez"
+ ],
+ "image": "divan-hafez",
+ "sections": [
+  {
+   "type": "reading",
+   "title": "Children of Adam",
+   "intro": "Saadi of Shiraz finished his *Golestan* ('The Rose Garden') in 1258. Here is the story behind its most famous lines, and the three bayts themselves, each followed by a plain modern version that begins with یعنی 'that is'. Watch for the short forms ز، چو، دگر and کز.",
+   "sentences": [
+    {
+     "fa": "سعدی، شاعر بزرگ شیراز، حدود هشتصد سال پیش زندگی می‌کرد.",
+     "r": "Sa'di, shā'er-e bozorg-e Shirāz, hodud-e hashtsad sāl pish zendegi mi-kard.",
+     "en": "Saadi, the great poet of Shiraz, lived about eight hundred years ago.",
+     "faV": "سَعدی، شاعِرِ بُزُرگِ شیراز، حُدودِ هَشتصَد سال پیش زِندِگی می‌کَرد.",
+     "a": "41a92b6047f7"
+    },
+    {
+     "fa": "در کتاب گلستان، داستانی هست که در مسجد بزرگ دمشق اتفاق می‌افتد.",
+     "r": "dar ketāb-e Golestān, dāstān-i hast ke dar masjed-e bozorg-e Dameshgh ettefāgh mi-oftad.",
+     "en": "In his book the Golestan there is a story that takes place in the Great Mosque of Damascus.",
+     "faV": "دَر کِتابِ گُلِستان، داستانی هَست که دَر مَسجِدِ بُزُرگِ دَمِشق اِتِّفاق می‌اُفتَد.",
+     "a": "cffe73159772"
+    },
+    {
+     "fa": "سعدی کنار آرامگاه حضرت یحیی نشسته بود که پادشاهی ستمگر نزد او آمد.",
+     "r": "Sa'di kenār-e ārāmgāh-e hazrat-e Yahyā neshaste bud ke pādeshāh-i setamgar nazd-e u āmad.",
+     "en": "Saadi was sitting beside the tomb of the prophet John (Yahya) when an unjust king came to him.",
+     "faV": "سَعدی کِنارِ آرامگاهِ حَضرَتِ یَحیی نِشَسته بود که پادِشاهی سِتَمگَر نَزدِ او آمَد.",
+     "a": "1d3c99340dfc"
+    },
+    {
+     "fa": "پادشاه از سعدی خواست که برایش دعا کند.",
+     "r": "pādeshāh az Sa'di khāst ke barā-yash do'ā konad.",
+     "en": "The king asked Saadi to pray for him.",
+     "faV": "پادِشاه اَز سَعدی خواست که بَرایَش دُعا کُنَد.",
+     "a": "5c4a27ae6c16"
+    },
+    {
+     "fa": "سعدی به او گفت که به مردم ضعیف رحم کند و این سه بیت را خواند.",
+     "r": "Sa'di be u goft ke be mardom-e za'if rahm konad va in se beyt rā khānd.",
+     "en": "Saadi told him to have mercy on the weak, and recited these three bayts.",
+     "faV": "سَعدی به او گُفت که به مَردُمِ ضَعیف رَحم کُنَد و این سه بَیت را خواند.",
+     "a": "74f131bbd491"
+    },
+    {
+     "fa": "بنی‌آدم اعضای یکدیگرند / که در آفرینش ز یک گوهرند",
+     "r": "bani-ādam a'zā-ye yekdigar-and / ke dar āfarinesh ze yek gowhar-and",
+     "en": "The children of Adam are limbs of one another, / for in creation they are made of one essence.",
+     "note": "[[ز|ze]] = [[از|az]]; [[یکدیگرند|yekdigar-and]] = [[یکدیگر هستند|yekdigar hastand]]. Many people quote the first half as «بنی‌آدم اعضای یک پیکرند» – 'limbs of one body'.",
+     "faV": "بَنی‌آدَم اَعضایِ یِکدیگَرَند / که دَر آفَرینِش ز یِک گَوهَرَند",
+     "a": "7f1424f16878"
+    },
+    {
+     "fa": "یعنی همه‌ی انسان‌ها اعضای یک بدن هستند، چون از یک اصل آفریده شده‌اند.",
+     "r": "ya'ni hame-ye ensān-hā a'zā-ye yek badan hastand, chon az yek asl āfaride shode-and.",
+     "en": "In other words, all human beings are limbs of one body, because they were created from one origin.",
+     "faV": "یَعنی هَمه‌یِ اِنسان‌ها اَعضایِ یِک بَدَن هَستَند، چون اَز یِک اَصل آفَریده شُده‌اَند.",
+     "a": "5e0b0685428e"
+    },
+    {
+     "fa": "چو عضوی به درد آورد روزگار / دگر عضوها را نماند قرار",
+     "r": "cho 'ozvi be dard āvarad ruzgār / degar 'ozv-hā rā namānad gharār",
+     "en": "When the world brings pain to one limb, / the other limbs can find no rest.",
+     "note": "[[چو|cho]] = [[وقتی که|vaghti ke]]; [[دگر|degar]] = [[دیگر|digar]]; [[عضوها را|'ozv-hā rā]] = 'for the limbs'. The verbs [[آورد|āvarad]] and [[نماند|namānad]] have no می: this is always true.",
+     "faV": "چو عُضوی به دَرد آوَرَد روزگار / دِگَر عُضوها را نَمانَد قَرار",
+     "a": "c42e172b0f30"
+    },
+    {
+     "fa": "یعنی وقتی یک عضو بدن درد می‌کشد، عضوهای دیگر هم آرام نمی‌گیرند.",
+     "r": "ya'ni vaghti yek 'ozv-e badan dard mi-keshad, 'ozv-hā-ye digar ham ārām nemi-girand.",
+     "en": "In other words, when one limb of the body hurts, the other limbs cannot rest either.",
+     "faV": "یَعنی وَقتی یِک عُضوِ بَدَن دَرد می‌کِشَد، عُضوهایِ دیگَر هَم آرام نِمی‌گیرَند.",
+     "a": "2812c77ba387"
+    },
+    {
+     "fa": "تو کز محنت دیگران بی‌غمی / نشاید که نامت نهند آدمی",
+     "r": "to kaz mehnat-e digarān bi-ghami / nashāyad ke nām-at nahand ādami",
+     "en": "You who feel no grief at the suffering of others / do not deserve to be called human.",
+     "lit": "you who from the suffering of others are without-sorrow, it is not fitting that they put your name 'human'",
+     "note": "[[کز|kaz]] = [[که از|ke az]]; [[نشاید|nashāyad]] = 'it is not fitting' (from the old verb شایستن); [[نهند|nahand]] = 'they put' (نهادن = گذاشتن).",
+     "faV": "تو کَز مِحنَتِ دیگَران بی‌غَمی / نَشایَد که نامَت نَهَند آدَمی",
+     "a": "58dbe40b0182"
+    },
+    {
+     "fa": "یعنی اگر از رنج دیگران غمگین نمی‌شوی، شایسته نیست که تو را انسان بنامند.",
+     "r": "ya'ni agar az ranj-e digarān ghamgin nemi-shavi, shāyeste nist ke to rā ensān benāmand.",
+     "en": "In other words, if the suffering of others does not sadden you, you do not deserve to be called human.",
+     "faV": "یَعنی اَگَر اَز رَنجِ دیگَران غَمگین نِمی‌شَوی، شایِسته نیست که تو را اِنسان بِنامَند.",
+     "a": "36693fc2633b"
+    },
+    {
+     "fa": "امروز بچه‌های ایرانی این شعر را در مدرسه از بر می‌کنند.",
+     "r": "emruz bacche-hā-ye irāni in she'r rā dar madrese az bar mi-konand.",
+     "en": "Today Iranian children learn this poem by heart at school.",
+     "faV": "اِمروز بَچّه‌هایِ ایرانی این شِعر را دَر مَدرِسه اَز بَر می‌کُنَند.",
+     "a": "3043f699f475"
+    },
+    {
+     "fa": "بعد از هر زلزله یا سیل، مردم بیت اول آن را در پیام‌هایشان می‌نویسند.",
+     "r": "ba'd az har zelzele yā seyl, mardom beyt-e avval-e ān rā dar payām-hā-yeshān mi-nevisand.",
+     "en": "After every earthquake or flood, people write its first bayt in their messages.",
+     "faV": "بَعد اَز هَر زِلزِله یا سَیل، مَردُم بَیتِ اَوَّلِ آن را دَر پَیام‌هایِشان می‌نِویسَند.",
+     "a": "931489bbda04"
+    },
+    {
+     "fa": "این شعر روی فرشی در ساختمان سازمان ملل در نیویورک هم بافته شده است.",
+     "r": "in she'r ru-ye farsh-i dar sākhtemān-e sāzmān-e melal dar Niyuyork ham bāfte shode ast.",
+     "en": "This poem has even been woven into a carpet in the United Nations building in New York.",
+     "faV": "این شِعر رویِ فَرشی دَر ساختِمانِ سازمانِ مِلَل دَر نیویورک هَم بافته شُده اَست.",
+     "a": "8bb8a3aa15e3"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Where does Saadi's story take place?",
+     "options": [
+      "in Shiraz",
+      "in the Great Mosque of Damascus",
+      "at the United Nations"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "In ز یک گوهرند, the word ز means…",
+     "options": [
+      "and",
+      "from, of",
+      "with"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "According to the last bayt, who does not deserve to be called human?",
+     "options": [
+      "someone who is poor",
+      "someone untouched by other people's pain",
+      "a king who asks for prayers"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "How to read a bayt",
+   "md": "Iranians quote poetry the way English speakers quote proverbs – at weddings and funerals, in arguments, in text messages – and almost all of it is **classical**, written between the 10th and the 15th centuries. Persian has changed so little since then that a schoolchild in Tehran can read Saadi. What makes old poems hard is not so much the words as the way they are put together.\n\nA classical poem is a chain of [[بیت|beyt|bayts]]: lines in two halves. Each half is a [[مصراع|mesrā']]. Books print the two halves side by side – read the **right-hand half first**, then the left – and in this course they are separated by ` / `.\n\nFour things will surprise you after modern prose:\n\n1. **Free word order.** To fit the rhythm, a verb can come before its subject: [[چو عضوی به درد آورد روزگار|cho 'ozvi be dard āvarad ruzgār]] is literally *when a limb to pain brings – the world*.\n2. **Short forms.** [[ز|ze]] for [[از|az]], [[چو|cho]] for [[چون|chon]], [[دگر|degar]] for [[دیگر|digar]]: a syllable shorter, to fit the metre.\n3. **No می.** The bare present [[آورد|āvarad]] means *brings – always brings*: a general truth.\n4. **Arabic.** Poets mixed in Arabic words and sometimes whole Arabic half-lines; Hafez's very first line begins in Arabic.\n\nThe good news: the world of the poems is small. The same cupbearer, wine, garden, nightingale and cruel beloved come back again and again, so every poem you read makes the next one easier."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "شاعر",
+     "r": "shā'er",
+     "en": "poet",
+     "pos": "n",
+     "note": "plural شاعران (shā'erān)",
+     "faV": "شاعِر",
+     "a": "45d6a2ecdeca"
+    },
+    {
+     "fa": "بیت",
+     "r": "beyt",
+     "en": "bayt: a line of verse in two halves, a couplet",
+     "pos": "n",
+     "ex": {
+      "fa": "این غزل هفت بیت دارد.",
+      "r": "in ghazal haft beyt dārad.",
+      "en": "This ghazal has seven bayts.",
+      "faV": "این غَزَل هَفت بَیت دارَد.",
+      "a": "47e324bb460a"
+     },
+     "faV": "بَیت",
+     "a": "fbe61494fd80"
+    },
+    {
+     "fa": "مصراع",
+     "r": "mesrā'",
+     "en": "half-line, hemistich",
+     "pos": "n",
+     "note": "also written مصرع (mesra')",
+     "faV": "مِصراع",
+     "a": "2461a98e3ed4"
+    },
+    {
+     "fa": "قافیه",
+     "r": "ghāfiye",
+     "en": "rhyme",
+     "pos": "n",
+     "faV": "قافیه",
+     "a": "875afb337808"
+    },
+    {
+     "fa": "ردیف",
+     "r": "radif",
+     "en": "refrain (words repeated after the rhyme); row",
+     "pos": "n",
+     "faV": "رَدیف",
+     "a": "6c4771fcc564"
+    },
+    {
+     "fa": "تخلص",
+     "r": "takhallos",
+     "en": "pen name (worked into the last bayt of a ghazal)",
+     "pos": "n",
+     "faV": "تَخَلُّص",
+     "a": "f74e2b6c3e36"
+    },
+    {
+     "fa": "غزل",
+     "r": "ghazal",
+     "en": "ghazal: a short lyric poem, usually about love",
+     "pos": "n",
+     "faV": "غَزَل",
+     "a": "684bd52a69c8"
+    },
+    {
+     "fa": "رباعی",
+     "r": "robā'i",
+     "en": "quatrain (robā'i)",
+     "pos": "n",
+     "faV": "رُباعی",
+     "a": "e2e34fcbddb5"
+    },
+    {
+     "fa": "مثنوی",
+     "r": "masnavi",
+     "en": "masnavi: a long poem in rhyming couplets",
+     "pos": "n",
+     "faV": "مَثنَوی",
+     "a": "0013ee8f2dbc"
+    },
+    {
+     "fa": "قصیده",
+     "r": "ghaside",
+     "en": "qasida: a long ode on a single rhyme",
+     "pos": "n",
+     "faV": "قَصیده",
+     "a": "d002e83e80f1"
+    },
+    {
+     "fa": "وزن",
+     "r": "vazn",
+     "en": "metre (of a poem); weight",
+     "pos": "n",
+     "faV": "وَزن",
+     "a": "1c93d688d7d3"
+    },
+    {
+     "fa": "هجا",
+     "r": "hejā",
+     "en": "syllable",
+     "pos": "n",
+     "ex": {
+      "fa": "کلمه‌ی «کتاب» دو هجا دارد.",
+      "r": "kalame-ye «ketāb» do hejā dārad.",
+      "en": "The word ketāb has two syllables.",
+      "faV": "کَلَمه‌یِ «کِتاب» دو هِجا دارَد.",
+      "a": "bf210db6d700"
+     },
+     "faV": "هِجا",
+     "a": "08229928e447"
+    },
+    {
+     "fa": "سرودن",
+     "r": "sorudan",
+     "en": "to compose (a poem)",
+     "pos": "v",
+     "note": "present stem سرا (sarā)",
+     "ex": {
+      "fa": "حافظ این غزل را بیش از ششصد سال پیش سرود.",
+      "r": "Hāfez in ghazal rā bish az sheshsad sāl pish sorud.",
+      "en": "Hafez composed this ghazal more than six hundred years ago.",
+      "faV": "حافِظ این غَزَل را بیش اَز شِشصَد سال پیش سُرود.",
+      "a": "091f303eff31"
+     },
+     "faV": "سُرودَن",
+     "a": "a71472a0e333"
+    },
+    {
+     "fa": "از بر کردن",
+     "r": "az bar kardan",
+     "en": "to learn by heart",
+     "pos": "v",
+     "note": "also از حفظ کردن (az hefz kardan)",
+     "faV": "اَز بَر کَردَن",
+     "a": "e588b7a493af"
+    },
+    {
+     "fa": "آفریدن",
+     "r": "āfaridan",
+     "en": "to create",
+     "pos": "v",
+     "note": "present stem آفرین (āfarin); آفرینش (āfarinesh) creation",
+     "faV": "آفَریدَن",
+     "a": "057c3cd468de"
+    },
+    {
+     "fa": "عضو",
+     "r": "'ozv",
+     "en": "limb; member",
+     "pos": "n",
+     "note": "Arabic plural اعضا (a'zā)",
+     "faV": "عُضو",
+     "a": "731bb4bbb692"
+    },
+    {
+     "fa": "گوهر",
+     "r": "gowhar",
+     "en": "jewel; essence, nature",
+     "pos": "n",
+     "faV": "گَوهَر",
+     "a": "e73ba8d1f249"
+    },
+    {
+     "fa": "روزگار",
+     "r": "ruzgār",
+     "en": "the times; the world; fate",
+     "pos": "n",
+     "faV": "روزگار",
+     "a": "b2130d33a8f3"
+    },
+    {
+     "fa": "رنج",
+     "r": "ranj",
+     "en": "suffering, hardship",
+     "pos": "n",
+     "note": "the everyday word for the poem's محنت (mehnat)",
+     "faV": "رَنج",
+     "a": "b02afcd821bf"
+    },
+    {
+     "fa": "شایسته",
+     "r": "shāyeste",
+     "en": "worthy, fitting, deserving",
+     "pos": "adj",
+     "ex": {
+      "fa": "شایسته نیست که این‌طور حرف بزنی.",
+      "r": "shāyeste nist ke in-towr harf bezani.",
+      "en": "It isn't right for you to talk like that.",
+      "faV": "شایِسته نیست که این‌طَور حَرف بِزَنی.",
+      "a": "2190db533604"
+     },
+     "faV": "شایِسته",
+     "a": "2586225368f1"
+    },
+    {
+     "fa": "ستمگر",
+     "r": "setamgar",
+     "en": "unjust, tyrannical; a tyrant",
+     "pos": "adj",
+     "faV": "سِتَمگَر",
+     "a": "690cd3ce8029"
+    },
+    {
+     "fa": "ساقی",
+     "r": "sāghi",
+     "en": "cupbearer: the one who pours the wine",
+     "pos": "n",
+     "faV": "ساقی",
+     "a": "8f7799df163e"
+    },
+    {
+     "fa": "معشوق",
+     "r": "ma'shugh",
+     "en": "the beloved",
+     "pos": "n",
+     "note": "the lover is عاشق ('āshegh)",
+     "faV": "مَعشوق",
+     "a": "ea3eaffba94a"
+    },
+    {
+     "fa": "نیت",
+     "r": "niyyat",
+     "en": "intention; the silent wish before a fāl",
+     "pos": "n",
+     "ex": {
+      "fa": "اول نیت کن، بعد دیوان را باز کن.",
+      "r": "avval niyyat kon, ba'd divān rā bāz kon.",
+      "en": "First make your wish, then open the Divan.",
+      "faV": "اَوَّل نیَّت کُن، بَعد دیوان را باز کُن.",
+      "a": "421f27408eed"
+     },
+     "faV": "نیَّت",
+     "a": "e78818c6b787"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The anatomy of a poem: bayt, rhyme, refrain – and the four forms",
+   "md": "Every classical poem is built from the same parts.\n\nThe **rhyme**, [[قافیه|ghāfiye]], is the sound that comes back at the end of the lines. After it there may be a **refrain**, [[ردیف|radif]]: one or more words repeated, unchanged, at the end of every rhyming line. A rhyme is compulsory; a radif is a choice – and the great poets love it, because it makes every bayt land on the same words.\n\n- In Hafez's first ghazal the rhyme is *-el* and the radif is only [[ها|-hā]]: nāv**el-hā**, moshk**el-hā**, d**el-hā**, manz**el-hā**, sāh**el-hā**, mahf**el-hā**…\n- In his ghazal of Joseph the radif is a whole phrase, [[غم مخور|gham ma-khor|do not grieve]], and the rhyme is the word just before it: Kan'**ān**, golest**ān**…\n- Saadi's بنی‌آدم has rhymes but no radif – and each of its bayts rhymes on its own, like a small masnavi.\n\nIn a **ghazal** both halves of the first bayt rhyme; after that only the second half of each bayt does: *aa ba ca da…* The last bayt usually names the poet by his pen name, the [[تخلص|takhallos]]: Hafez and Saadi often speak to themselves in their last lines. The other forms differ in length and in how they rhyme:",
+   "table": {
+    "head": [
+     "Persian",
+     "Reading",
+     "What it is",
+     "Example"
+    ],
+    "rows": [
+     [
+      "[[بیت|beyt]]",
+      "beyt",
+      "a line in two halves – the unit of every poem",
+      "Saadi's بنی‌آدم has three"
+     ],
+     [
+      "[[مصراع|mesrā']]",
+      "mesrā'",
+      "one half of a bayt",
+      "[[بنی‌آدم اعضای یکدیگرند|bani-ādam a'zā-ye yekdigar-and]]"
+     ],
+     [
+      "[[قافیه|ghāfiye]]",
+      "ghāfiye",
+      "the rhyme: the sound that comes back at the end of the lines",
+      "[[یکدیگرند|yekdigar-and]] / [[گوهرند|gowhar-and]]"
+     ],
+     [
+      "[[ردیف|radif]]",
+      "radif",
+      "a refrain: words repeated unchanged after the rhyme",
+      "[[کنعان غم مخور|Kan'ān gham ma-khor]] / [[گلستان غم مخور|golestān gham ma-khor]]"
+     ],
+     [
+      "[[تخلص|takhallos]]",
+      "takhallos",
+      "the poet's pen name, worked into the last bayt of a ghazal",
+      "[[حافظ|Hāfez]], [[سعدی|Sa'di]]"
+     ],
+     [
+      "[[غزل|ghazal]]",
+      "ghazal",
+      "usually 7–12 bayts of love and longing; rhyme aa ba ca da…",
+      "Hafez, Saadi"
+     ],
+     [
+      "[[رباعی|robā'i]]",
+      "robā'i",
+      "a quatrain: two bayts, rhyme aa ba, with a sting in the last line",
+      "Khayyam"
+     ],
+     [
+      "[[مثنوی|masnavi]]",
+      "masnavi",
+      "a long poem in couplets, each bayt with its own rhyme: aa bb cc… – the form for stories",
+      "Ferdowsi's Shahnameh, Rumi's Masnavi"
+     ],
+     [
+      "[[قصیده|ghaside]]",
+      "ghaside",
+      "a long poem, often 20 to 100 bayts or more, on a single rhyme – for praise, wisdom and description",
+      "Rudaki, Naser Khosrow"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "الا یا ایها الساقی ادر کأساً و ناولها / که عشق آسان نمود اول ولی افتاد مشکل‌ها",
+     "r": "alā yā ayyoh as-sāghi ader ka'san va nāvelhā / ke 'eshgh āsān nemud avval vali oftād moshkel-hā",
+     "en": "Ho, cupbearer! Pass round the cup and hand it on – / for love seemed easy at first, but then came the troubles.",
+     "lit": "ho, O cupbearer, turn a cup and hand it – for love showed easy at first, but difficulties fell",
+     "note": "The first bayt of the Divan of Hafez – a ghazal, so both halves rhyme. The first half is Arabic. Rhyme: [[ناول|nāvel]] / [[مشکل|moshkel]] (-el); radif: [[ها|-hā]].",
+     "faV": "اَلا یا اَیُّها اَلسّاقی اَدِر کَأساً و ناوِلها / که عِشق آسان نِمود اَوَّل وَلی اُفتاد مُشکِل‌ها",
+     "a": "3a1fda6b14da"
+    },
+    {
+     "fa": "حضوری گر همی‌خواهی از او غایب مشو حافظ",
+     "r": "hozur-i gar hami-khāhi az u ghāyeb ma-show Hāfez",
+     "en": "If you want to be in His presence, do not be absent from Him, Hafez.",
+     "note": "The first half of the last bayt of the same ghazal: the poet speaks to himself by his takhallos, [[حافظ|Hāfez]].",
+     "faV": "حُضوری گَر هَمی‌خواهی اَز او غایِب مَشَو حافِظ",
+     "a": "e823d6126729"
+    },
+    {
+     "fa": "یوسف گم‌گشته باز آید به کنعان غم مخور / کلبه‌ی احزان شود روزی گلستان غم مخور",
+     "r": "Yusef-e gom-gashte bāz āyad be Kan'ān gham ma-khor / kolbe-ye ahzān shavad ruz-i golestān gham ma-khor",
+     "en": "Lost Joseph will come back to Canaan – do not grieve; / the hut of sorrows will one day be a rose garden – do not grieve.",
+     "note": "Hafez again. Radif: [[غم مخور|gham ma-khor]]; rhyme: [[کنعان|Kan'ān]] / [[گلستان|golestān]]. The 'hut of sorrows' is where Jacob mourned his lost son Joseph until he came home.",
+     "faV": "یوسِفِ گُم‌گَشته باز آیَد به کَنعان غَم مَخور / کُلبه‌یِ اَحزان شَوَد روزی گُلِستان غَم مَخور",
+     "a": "49ff1cf82c3a"
+    },
+    {
+     "fa": "این قافله‌ی عمر عجب می‌گذرد / دریاب دمی که با طرب می‌گذرد",
+     "r": "in ghāfele-ye 'omr 'ajab mi-gozarad / daryāb dam-i ke bā tarab mi-gozarad",
+     "en": "How strangely this caravan of life goes by! / Seize the moment that passes in joy.",
+     "note": "A robā'i attributed to Khayyam, first bayt. Rhyme: [[عجب|'ajab]] / [[طرب|tarab]]; radif: [[می‌گذرد|mi-gozarad]].",
+     "faV": "این قافِله‌یِ عُمر عَجَب می‌گُذَرَد / دَریاب دَمی که با طَرَب می‌گُذَرَد",
+     "a": "66e301edb0d6"
+    },
+    {
+     "fa": "ساقی غم فردای حریفان چه خوری / پیش آر پیاله را که شب می‌گذرد",
+     "r": "sāghi gham-e fardā-ye harifān che khori / pish ār piyāle rā ke shab mi-gozarad",
+     "en": "Cupbearer, why grieve over your companions' tomorrow? / Bring the cup, for the night is passing.",
+     "note": "The second bayt: the third line does not rhyme, the fourth comes back to [[شب|shab]] + [[می‌گذرد|mi-gozarad]] – the pattern aa ba.",
+     "faV": "ساقی غَمِ فَردایِ حَریفان چه خوری / پیش آر پیاله را که شَب می‌گُذَرَد",
+     "a": "aa14a3939fd9"
+    },
+    {
+     "fa": "بشنو این نی چون شکایت می‌کند / از جدایی‌ها حکایت می‌کند",
+     "r": "beshnow in ney chon shekāyat mi-konad / az jodāyi-hā hekāyat mi-konad",
+     "en": "Listen to this reed, how it complains, / telling the tale of separations.",
+     "note": "The first bayt of Rumi's Masnavi, which runs to over 25,000 bayts, each rhyming on its own: here [[شکایت|shekāyat]] / [[حکایت|hekāyat]] with the radif [[می‌کند|mi-konad]]. Often quoted as «بشنو از نی چون حکایت می‌کند / از جدایی‌ها شکایت می‌کند».",
+     "faV": "بِشنَو این نَی چون شِکایَت می‌کُنَد / اَز جُدایی‌ها حِکایَت می‌کُنَد",
+     "a": "40623c717190"
+    },
+    {
+     "fa": "بوی جوی مولیان آید همی / یاد یار مهربان آید همی",
+     "r": "bu-ye ju-ye Muliyān āyad hami / yād-e yār-e mehrabān āyad hami",
+     "en": "The scent of the Muliyan stream comes to me, / the memory of a dear friend comes to me.",
+     "note": "The opening of a qasida by Rudaki (died 941), the first great poet of Persian. The Samanid emir had stayed too long in Herat; when Rudaki sang this, the story goes, he jumped on his horse without his boots and rode home to Bukhara. Radif: [[آید همی|āyad hami]]; rhyme: [[مولیان|Muliyān]] / [[مهربان|mehrabān]].",
+     "faV": "بویِ جویِ مولیان آیَد هَمی / یادِ یارِ مِهرَبان آیَد هَمی",
+     "a": "0fcf8a80daf6"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Long and short: hearing the metre",
+   "md": "Classical verse has a strict rhythm, its [[وزن|vazn|metre]]: a fixed pattern of long and short syllables, [[هجا|hejā]]. You don't need the technical names to hear it – just two rules:\n\n- **Short** (∪): a consonant + a short vowel *a, e, o* that ends the syllable: *ba, ke, ze, ye*.\n- **Long** (–): a long vowel *ā, i, u* or *ow, ey* – *ni, ā, gow* – or any vowel closed by a consonant: *dar, yek, nesh*.\n\nTwo more facts make it work. Words **run together** across the space, so *ādam a'zā* is read *ā-da-ma'-zā*. And the last syllable of a mesrā' always counts as long.\n\nSaadi's lines are in the metre called [[متقارب|motaghāreb]], the metre of Ferdowsi's *Shahnameh*: three groups of ∪ – – and a short ∪ –, *da-DUM-DUM da-DUM-DUM da-DUM-DUM da-DUM*. Hafez's first ghazal is in [[هزج|hazaj]], four groups of ∪ – – –. Rumi's *Masnavi* is in [[رمل|ramal]]: – ∪ – –, – ∪ – –, – ∪ –. Tap the long syllables as you read aloud and you will hear the difference.",
+   "table": {
+    "head": [
+     "Line",
+     "Group 1",
+     "Group 2",
+     "Group 3",
+     "Group 4"
+    ],
+    "rows": [
+     [
+      "[[بنی‌آدم اعضای یکدیگرند|bani-ādam a'zā-ye yekdigar-and]]",
+      "ba · ni · ā",
+      "da · ma' · zā",
+      "ye · yek · di",
+      "ga · rand"
+     ],
+     [
+      "Saadi, first half",
+      "∪ – –",
+      "∪ – –",
+      "∪ – –",
+      "∪ –"
+     ],
+     [
+      "[[که در آفرینش ز یک گوهرند|ke dar āfarinesh ze yek gowhar-and]]",
+      "ke · dar · ā",
+      "fa · ri · nesh",
+      "ze · yek · gow",
+      "ha · rand"
+     ],
+     [
+      "Saadi, second half",
+      "∪ – –",
+      "∪ – –",
+      "∪ – –",
+      "∪ –"
+     ],
+     [
+      "[[الا یا ایها الساقی ادر کأساً و ناولها|alā yā ayyoh as-sāghi ader ka'san va nāvelhā]]",
+      "a · lā · yā · ay",
+      "yo · has · sā · ghi",
+      "a · der · ka' · san",
+      "va · nā · vel · hā"
+     ],
+     [
+      "Hafez",
+      "∪ – – –",
+      "∪ – – –",
+      "∪ – – –",
+      "∪ – – –"
+     ],
+     [
+      "[[از جدایی‌ها حکایت می‌کند|az jodāyi-hā hekāyat mi-konad]]",
+      "az · jo · dā · yi",
+      "hā · he · kā · yat",
+      "mi · ko · nad",
+      ""
+     ],
+     [
+      "Rumi",
+      "– ∪ – –",
+      "– ∪ – –",
+      "– ∪ –",
+      ""
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "بنی‌آدم اعضای یکدیگرند / که در آفرینش ز یک گوهرند",
+     "r": "bani-ādam a'zā-ye yekdigar-and / ke dar āfarinesh ze yek gowhar-and",
+     "en": "The children of Adam are limbs of one another, / for in creation they are made of one essence.",
+     "note": "∪ – – ∪ – – ∪ – – ∪ – in each half.",
+     "faV": "بَنی‌آدَم اَعضایِ یِکدیگَرَند / که دَر آفَرینِش ز یِک گَوهَرَند",
+     "a": "7f1424f16878"
+    },
+    {
+     "fa": "توانا بود هر که دانا بود / ز دانش دل پیر برنا بود",
+     "r": "tavānā bovad har ke dānā bovad / ze dānesh del-e pir barnā bovad",
+     "en": "Whoever has knowledge has power; / through knowledge an old heart grows young.",
+     "note": "Ferdowsi: *ta-vā-nā bo-vad har ke dā-nā bo-vad* – the same da-DUM-DUM as Saadi, the beat of the whole Shahnameh. [[بود|bovad]] is the old 'is'.",
+     "faV": "تَوانا بُوَد هَر که دانا بُوَد / ز دانِش دِلِ پیر بَرنا بُوَد",
+     "a": "7ce7743028fa"
+    },
+    {
+     "fa": "الا یا ایها الساقی ادر کأساً و ناولها",
+     "r": "alā yā ayyoh as-sāghi ader ka'san va nāvelhā",
+     "en": "Ho, cupbearer! Pass round the cup and hand it on.",
+     "note": "*a-lā-yā-ay / yo-has-sā-ghi / a-der-ka'-san / va-nā-vel-hā*: ∪ – – – four times.",
+     "faV": "اَلا یا اَیُّها اَلسّاقی اَدِر کَأساً و ناوِلها",
+     "a": "d321189207e8"
+    },
+    {
+     "fa": "که عشق آسان نمود اول ولی افتاد مشکل‌ها",
+     "r": "ke 'eshgh āsān nemud avval vali oftād moshkel-hā",
+     "en": "For love seemed easy at first, but then came the troubles.",
+     "note": "*ke-'esh-ghā-sān / ne-mu-dav-val / va-li-of-tā / d-mosh-kel-hā*. The syllable *tād* (a long vowel + a consonant) counts as long + short: its *d* is the short beat that opens the last group.",
+     "faV": "که عِشق آسان نِمود اَوَّل وَلی اُفتاد مُشکِل‌ها",
+     "a": "e72f18fb6266"
+    },
+    {
+     "fa": "بشنو این نی چون شکایت می‌کند / از جدایی‌ها حکایت می‌کند",
+     "r": "beshnow in ney chon shekāyat mi-konad / az jodāyi-hā hekāyat mi-konad",
+     "en": "Listen to this reed, how it complains, / telling the tale of separations.",
+     "note": "*besh-no-vin-ney / chon-she-kā-yat / mi-ko-nad*: – ∪ – –, – ∪ – –, – ∪ –. The *ow* of *beshnow* becomes *o-v* before the vowel of *in*.",
+     "faV": "بِشنَو این نَی چون شِکایَت می‌کُنَد / اَز جُدایی‌ها حِکایَت می‌کُنَد",
+     "a": "40623c717190"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The poet's short forms: ز، چو، همی، -ا، دگر، کز",
+   "md": "Poets needed words that were a syllable shorter or longer, so poetry kept old and short forms that modern prose has dropped. Learn them once and you can read a thousand years of verse – and many proverbs, which are often lines of poetry.\n\nMost are simply **short forms**: [[ز|ze]] is [[از|az]], [[دگر|degar]] is [[دیگر|digar]], [[گر|gar]] is [[اگر|agar]]. Some are **two words run together**: [[کز|kaz]] = [[که از|ke az]], [[کاین|kin]] = [[که این|ke in]], [[زان|zān]] = [[از آن|az ān]].\n\nThe **-ā** at the end of a word has two jobs. On a person it calls them: [[ساقیا|sāghiyā|O cupbearer!]], [[حافظا|Hāfezā|O Hafez!]], [[خدایا|khodāyā|O God!]] – the last one is still everyday Persian. On a few words it means *how much!*: [[بسا|basā|many a…]] (from [[بس|bas|much]]), which lives on in [[چه بسا|che basā|quite possibly]].\n\n[[همی|hami]] is the old form of [[می‌|mi-]], and in early poems it can even stand after the verb: [[آید همی|āyad hami]] = [[می‌آید|mi-āyad|keeps coming]]. Very often there is no prefix at all: the bare present [[آورد|āvarad]] = [[می‌آورد|mi-āvarad]], used for what is always true.",
+   "table": {
+    "head": [
+     "In poems",
+     "Today",
+     "Meaning",
+     "Example"
+    ],
+    "rows": [
+     [
+      "[[ز|ze]]",
+      "[[از|az]]",
+      "from, of",
+      "[[ز یک گوهرند|ze yek gowhar-and|are of one essence]]"
+     ],
+     [
+      "[[چو|cho]]",
+      "[[چون|chon]], [[وقتی که|vaghti ke]]",
+      "when; like, as",
+      "[[چو عضوی به درد آورد روزگار|cho 'ozvi be dard āvarad ruzgār]]"
+     ],
+     [
+      "[[همی|hami]]",
+      "[[می‌|mi-]]",
+      "keeps doing, used to do",
+      "[[آید همی|āyad hami]] = [[می‌آید|mi-āyad]]"
+     ],
+     [
+      "[[بسا|basā]]",
+      "[[بسیار|besyār]], [[چه بسا|che basā]]",
+      "many a…; quite possibly",
+      "[[بسا شب‌ها|basā shab-hā|many a night]]"
+     ],
+     [
+      "[[ساقیا|sāghiyā]]",
+      "[[ای ساقی|ey sāghi]]",
+      "O cupbearer! – the -ā of calling",
+      "[[خدایا|khodāyā|O God!]]"
+     ],
+     [
+      "[[دگر|degar]]",
+      "[[دیگر|digar]]",
+      "other; again, any more",
+      "[[دگر عضوها|degar 'ozv-hā|the other limbs]]"
+     ],
+     [
+      "[[کز|kaz]]",
+      "[[که از|ke az]]",
+      "who / that … from",
+      "[[تو کز محنت دیگران بی‌غمی|to kaz mehnat-e digarān bi-ghami]]"
+     ],
+     [
+      "[[گر|gar]], [[ار|ar]]",
+      "[[اگر|agar]]",
+      "if",
+      "[[حضوری گر همی‌خواهی|hozur-i gar hami-khāhi|if you want presence]]"
+     ],
+     [
+      "[[زان|zān]], [[کاخر|kākhar]]",
+      "[[از آن|az ān]], [[که آخر|ke ākhar]]",
+      "two words run together",
+      "[[کاخر صبا زان طره بگشاید|kākhar sabā zān torre begoshāyad|which the breeze will at last loosen from that curl]]"
+     ],
+     [
+      "[[آورد|āvarad]], [[نماند|namānad]]",
+      "[[می‌آورد|mi-āvarad]], [[نمی‌ماند|nemi-mānad]]",
+      "the bare present: what is always true",
+      "[[دگر عضوها را نماند قرار|degar 'ozv-hā rā namānad gharār]]"
+     ],
+     [
+      "[[را|rā]]",
+      "[[برای|barā-ye]], [[به|be]]",
+      "to, for – the old 'to'",
+      "[[عضوها را نماند قرار|'ozv-hā rā namānad gharār|the limbs have no rest]]"
+     ],
+     [
+      "[[بود|bovad]]",
+      "[[است|ast]], [[می‌باشد|mi-bāshad]]",
+      "is (always, in general)",
+      "[[توانا بود هر که دانا بود|tavānā bovad har ke dānā bovad]]"
+     ],
+     [
+      "[[مخور|ma-khor]], [[مشو|ma-show]]",
+      "[[نخور|na-khor]], [[نشو|na-show]]",
+      "don't! – the old ma- of commands",
+      "[[غم مخور|gham ma-khor|don't grieve]]"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "بوی جوی مولیان آید همی",
+     "r": "bu-ye ju-ye Muliyān āyad hami",
+     "en": "The scent of the Muliyan stream keeps coming.",
+     "note": "Rudaki, 10th century: [[همی|hami]] after the verb.",
+     "faV": "بویِ جویِ مولیان آیَد هَمی",
+     "a": "88fe3cc592fa"
+    },
+    {
+     "fa": "بوی جوی مولیان می‌آید.",
+     "r": "bu-ye ju-ye Muliyān mi-āyad.",
+     "en": "The scent of the Muliyan stream is coming.",
+     "note": "The same in modern prose.",
+     "faV": "بویِ جویِ مولیان می‌آیَد.",
+     "a": "1bf67a132b09"
+    },
+    {
+     "fa": "حضوری گر همی‌خواهی از او غایب مشو حافظ",
+     "r": "hozur-i gar hami-khāhi az u ghāyeb ma-show Hāfez",
+     "en": "If you want to be in His presence, do not be absent from Him, Hafez.",
+     "note": "[[گر|gar]] = [[اگر|agar]]; [[همی‌خواهی|hami-khāhi]] = [[می‌خواهی|mi-khāhi]]; [[مشو|ma-show]] = [[نشو|na-show]].",
+     "faV": "حُضوری گَر هَمی‌خواهی اَز او غایِب مَشَو حافِظ",
+     "a": "e823d6126729"
+    },
+    {
+     "fa": "حافظ، اگر حضور می‌خواهی، از او غایب نشو.",
+     "r": "Hāfez, agar hozur mi-khāhi, az u ghāyeb na-show.",
+     "en": "Hafez, if you want to be with Him, don't be absent from Him.",
+     "note": "Modern prose: the name comes first and the verb goes last.",
+     "faV": "حافِظ، اَگَر حُضور می‌خواهی، اَز او غایِب نَشَو.",
+     "a": "f7ddd7915ceb"
+    },
+    {
+     "fa": "ساقیا برخیز و درده جام را / خاک بر سر کن غم ایام را",
+     "r": "sāghiyā bar-khiz o dar-deh jām rā / khāk bar sar kon gham-e ayyām rā",
+     "en": "Cupbearer, rise and pour the cup, / and throw dust on the sorrows of the days.",
+     "note": "Hafez: [[ساقیا|sāghiyā]] = [[ای ساقی|ey sāghi]]; [[درده|dar-deh]] = 'pour out, give'.",
+     "faV": "ساقیا بَرخیز و دَردِه جام را / خاک بَر سَر کُن غَمِ اَیّام را",
+     "a": "a217c1aae134"
+    },
+    {
+     "fa": "ای ساقی، بلند شو و جام را بده؛ غم روزگار را فراموش کن.",
+     "r": "ey sāghi, boland show o jām rā bedeh; gham-e ruzgār rā farāmush kon.",
+     "en": "O cupbearer, get up and give me the cup; forget the sorrows of the world.",
+     "faV": "اَی ساقی، بُلَند شَو و جام را بِدِه؛ غَمِ روزگار را فَراموش کُن.",
+     "a": "c8fd5827af52"
+    },
+    {
+     "fa": "ز دانش دل پیر برنا بود",
+     "r": "ze dānesh del-e pir barnā bovad",
+     "en": "Through knowledge an old heart grows young.",
+     "note": "Ferdowsi: [[ز|ze]] = [[از|az]]; [[بود|bovad]] = 'is, always is'; [[برنا|barnā]] = 'young'.",
+     "faV": "ز دانِش دِلِ پیر بَرنا بُوَد",
+     "a": "218fc011b866"
+    },
+    {
+     "fa": "با دانش، دل آدم پیر هم جوان می‌ماند.",
+     "r": "bā dānesh, del-e ādam-e pir ham javān mi-mānad.",
+     "en": "With knowledge, even an old person's heart stays young.",
+     "faV": "با دانِش، دِلِ آدَمِ پیر هَم جَوان می‌مانَد.",
+     "a": "cd6fd34a6977"
+    }
+   ]
+  },
+  {
+   "type": "dialogue",
+   "title": "A fortune from Hafez",
+   "context": "It is Yalda night at Leila's family home. Tom saw a Hafez fortune taken last year but did not understand a word, so Leila explains – and then takes one for him.",
+   "lines": [
+    {
+     "who": "Tom",
+     "fa": "لیلا، پارسال در خانه‌ی پدربزرگ مینا فال حافظ گرفتیم، ولی من چیزی از شعرش نفهمیدم.",
+     "r": "Leylā, pārsāl dar khāne-ye pedar-bozorg-e Minā fāl-e Hāfez gereftim, vali man chiz-i az she'r-ash na-fahmidam.",
+     "en": "Leila, last year we took a Hafez fortune at Mina's grandfather's house, but I didn't understand anything of the poem.",
+     "col": "لیلا، پارسال خونه‌ی پدربزرگ مینا فال حافظ گرفتیم، ولی من هیچی از شعرش نفهمیدم.",
+     "colR": "Leylā, pārsāl khune-ye pedar-bozorg-e Minā fāl-e Hāfez gereftim, vali man hichi az she'r-esh na-fahmidam.",
+     "faV": "لَیلا، پارسال دَر خانه‌یِ پِدَربُزُرگِ مینا فالِ حافِظ گِرِفتیم، وَلی مَن چیزی اَز شِعرَش نَفَهمیدَم.",
+     "a": "31951ff3bd22",
+     "colV": "لَیلا، پارسال خونه‌یِ پِدَربُزُرگِ مینا فالِ حافِظ گِرِفتیم، وَلی مَن هیچی اَز شِعرِش نَفَهمیدَم.",
+     "colA": "167fdf17bed5"
+    },
+    {
+     "who": "Leila",
+     "fa": "طبیعی است! غزل‌های حافظ برای خود ایرانی‌ها هم آسان نیست.",
+     "r": "tabi'i ast! ghazal-hā-ye Hāfez barā-ye khod-e irāni-hā ham āsān nist.",
+     "en": "That's natural! Hafez's ghazals aren't easy even for Iranians.",
+     "col": "طبیعیه! غزلای حافظ واسه خود ایرانیا هم آسون نیست.",
+     "colR": "tabi'i-ye! ghazal-ā-ye Hāfez vāse khod-e irāni-yā ham āsun nist.",
+     "faV": "طَبیعی اَست! غَزَل‌هایِ حافِظ بَرایِ خودِ ایرانی‌ها هَم آسان نیست.",
+     "a": "55a178bf5807",
+     "colV": "طَبیعیه! غَزَلایِ حافِظ واسه خودِ ایرانیا هَم آسون نیست.",
+     "colA": "669406197c91"
+    },
+    {
+     "who": "Tom",
+     "fa": "پس چرا همه آن‌قدر جدی گوش می‌دادند؟",
+     "r": "pas cherā hame ān-ghadr jeddi gush mi-dādand?",
+     "en": "Then why was everyone listening so seriously?",
+     "col": "پس چرا همه اون‌قدر جدی گوش می‌دادن؟",
+     "colR": "pas cherā hame un-ghadr jeddi gush mi-dādan?",
+     "faV": "پَس چِرا هَمه آن‌قَدر جِدّی گوش می‌دادَند؟",
+     "a": "7419b7dd42a7",
+     "colV": "پَس چِرا هَمه اون‌قَدر جِدّی گوش می‌دادَن؟",
+     "colA": "dfd1e936d8d9"
+    },
+    {
+     "who": "Leila",
+     "fa": "چون حافظ را «لسان‌الغیب» می‌دانند؛ یعنی کسی که از دنیای پنهان خبر دارد.",
+     "r": "chon Hāfez rā «lesān-ol-gheyb» mi-dānand; ya'ni kas-i ke az donyā-ye penhān khabar dārad.",
+     "en": "Because they consider Hafez 'the Tongue of the Unseen' – someone who knows about the hidden world.",
+     "col": "چون حافظو «لسان‌الغیب» می‌دونن؛ یعنی کسی که از دنیای پنهان خبر داره.",
+     "colR": "chon Hāfez-o «lesān-ol-gheyb» mi-dunan; ya'ni kas-i ke az donyā-ye penhān khabar dāre.",
+     "faV": "چون حافِظ را «لِسان‌اُلغَیب» می‌دانَند؛ یَعنی کَسی که اَز دُنیایِ پِنهان خَبَر دارَد.",
+     "a": "ebc4b7c9e14b",
+     "colV": "چون حافِظو «لِسان‌اُلغَیب» می‌دونَن؛ یَعنی کَسی که اَز دُنیایِ پِنهان خَبَر داره.",
+     "colA": "ae6b7cbb511d"
+    },
+    {
+     "who": "Tom",
+     "fa": "خب، فال حافظ را چطور می‌گیرند؟",
+     "r": "khob, fāl-e Hāfez rā chetor mi-girand?",
+     "en": "So how do you take a Hafez fortune?",
+     "col": "خب، فال حافظو چطوری می‌گیرن؟",
+     "colR": "khob, fāl-e Hāfez-o chetori mi-giran?",
+     "faV": "خُب، فالِ حافِظ را چِطور می‌گیرَند؟",
+     "a": "da7e244441a4",
+     "colV": "خُب، فالِ حافِظو چِطوری می‌گیرَن؟",
+     "colA": "7c1b729501db"
+    },
+    {
+     "who": "Leila",
+     "fa": "اول نیت می‌کنی؛ یعنی در دلت آرزویی می‌کنی یا سؤالی می‌پرسی، ولی به کسی نمی‌گویی.",
+     "r": "avval niyyat mi-koni; ya'ni dar del-at ārezu-yi mi-koni yā so'āl-i mi-porsi, vali be kas-i nemi-guyi.",
+     "en": "First you make a niyyat: you make a wish or ask a question in your heart, but you don't tell anyone.",
+     "col": "اول نیت می‌کنی؛ یعنی تو دلت یه آرزویی می‌کنی یا یه سؤالی می‌پرسی، ولی به کسی نمی‌گی.",
+     "colR": "avval niyyat mi-koni; ya'ni tu del-et ye ārezu-yi mi-koni yā ye so'āl-i mi-porsi, vali be kas-i nemi-gi.",
+     "faV": "اَوَّل نیَّت می‌کُنی؛ یَعنی دَر دِلَت آرِزویی می‌کُنی یا سُؤالی می‌پُرسی، وَلی به کَسی نِمی‌گویی.",
+     "a": "bbdce94deea3",
+     "colV": "اَوَّل نیَّت می‌کُنی؛ یَعنی تو دِلِت یه آرِزویی می‌کُنی یا یه سُؤالی می‌پُرسی، وَلی به کَسی نِمی‌گی.",
+     "colA": "cc8cc66aefa7"
+    },
+    {
+     "who": "Tom",
+     "fa": "بعد چه؟ کتاب را همین‌طوری باز می‌کنی؟",
+     "r": "ba'd che? ketāb rā hamin-towri bāz mi-koni?",
+     "en": "Then what? You just open the book anywhere?",
+     "col": "بعد چی؟ کتابو همین‌جوری باز می‌کنی؟",
+     "colR": "ba'd chi? ketāb-o hamin-juri bāz mi-koni?",
+     "faV": "بَعد چه؟ کِتاب را هَمین‌طَوری باز می‌کُنی؟",
+     "a": "d8ac6859e569",
+     "colV": "بَعد چی؟ کِتابو هَمین‌جوری باز می‌کُنی؟",
+     "colA": "c4d7ddd29322"
+    },
+    {
+     "who": "Leila",
+     "fa": "نه، قبلش می‌گویی: «ای حافظ شیرازی، تو محرم هر رازی؛ تو را به شاخ نباتت قسم!»",
+     "r": "na, ghabl-ash mi-guyi: «ey Hāfez-e Shirāzi, to mahram-e har rāz-i; to rā be shākh-e nabāt-at ghasam!»",
+     "en": "No – before that you say: 'O Hafez of Shiraz, you who keep every secret – I beg you by your Shakh-e Nabat!'",
+     "col": "نه، قبلش می‌گی: «ای حافظ شیرازی، تو محرم هر رازی؛ تو رو به شاخ نباتت قسم!»",
+     "colR": "na, ghabl-esh mi-gi: «ey Hāfez-e Shirāzi, to mahram-e har rāz-i; to ro be shākh-e nabāt-et ghasam!»",
+     "faV": "نه، قَبلَش می‌گویی: «اَی حافِظِ شیرازی، تو مَحرَمِ هَر رازی؛ تو را به شاخِ نَباتَت قَسَم!»",
+     "a": "d6310a3ce71d",
+     "colV": "نه، قَبلِش می‌گی: «اَی حافِظِ شیرازی، تو مَحرَمِ هَر رازی؛ تو رو به شاخِ نَباتِت قَسَم!»",
+     "colA": "6378899d0452"
+    },
+    {
+     "who": "Tom",
+     "fa": "شاخ نبات دیگر کیست؟",
+     "r": "shākh-e nabāt digar kist?",
+     "en": "And who on earth is Shakh-e Nabat?",
+     "col": "شاخ نبات دیگه کیه؟",
+     "colR": "shākh-e nabāt dige kiye?",
+     "faV": "شاخِ نَبات دیگَر کیست؟",
+     "a": "af5c4447d053",
+     "colV": "شاخِ نَبات دیگه کیه؟",
+     "colA": "0ec205492dad"
+    },
+    {
+     "who": "Leila",
+     "fa": "می‌گویند معشوق حافظ بوده است. حالا ساکت باش، می‌خواهم فالت را بخوانم!",
+     "r": "mi-guyand ma'shugh-e Hāfez bude ast. hālā sāket bāsh, mi-khāham fāl-at rā bekhānam!",
+     "en": "They say she was Hafez's beloved. Now be quiet – I want to read your fortune!",
+     "col": "می‌گن معشوق حافظ بوده. حالا ساکت باش، می‌خوام فالتو بخونم!",
+     "colR": "mi-gan ma'shugh-e Hāfez bude. hālā sāket bāsh, mi-khām fāl-et-o bekhunam!",
+     "faV": "می‌گویَند مَعشوقِ حافِظ بوده اَست. حالا ساکِت باش، می‌خواهَم فالَت را بِخوانَم!",
+     "a": "0a23c8c18106",
+     "colV": "می‌گَن مَعشوقِ حافِظ بوده. حالا ساکِت باش، می‌خوام فالِتو بِخونَم!",
+     "colA": "586d113b5434"
+    },
+    {
+     "who": "Leila",
+     "fa": "یوسف گم‌گشته باز آید به کنعان غم مخور / کلبه‌ی احزان شود روزی گلستان غم مخور",
+     "r": "Yusef-e gom-gashte bāz āyad be Kan'ān gham ma-khor / kolbe-ye ahzān shavad ruz-i golestān gham ma-khor",
+     "en": "'Lost Joseph will come back to Canaan – do not grieve; / the hut of sorrows will one day be a rose garden – do not grieve.'",
+     "faV": "یوسِفِ گُم‌گَشته باز آیَد به کَنعان غَم مَخور / کُلبه‌یِ اَحزان شَوَد روزی گُلِستان غَم مَخور",
+     "a": "49ff1cf82c3a"
+    },
+    {
+     "who": "Tom",
+     "fa": "یعنی حافظ به من می‌گوید غصه نخور؟",
+     "r": "ya'ni Hāfez be man mi-guyad ghosse na-khor?",
+     "en": "So Hafez is telling me not to worry?",
+     "col": "یعنی حافظ بهم می‌گه غصه نخور؟",
+     "colR": "ya'ni Hāfez behem mi-ge ghosse na-khor?",
+     "faV": "یَعنی حافِظ به مَن می‌گویَد غُصّه نَخور؟",
+     "a": "03b324254897",
+     "colV": "یَعنی حافِظ بِهِم می‌گه غُصّه نَخور؟",
+     "colA": "93dc7a36e713"
+    },
+    {
+     "who": "Leila",
+     "fa": "دقیقاً! ببین، «غم مخور» در آخر هر بیت تکرار می‌شود؛ این ردیف است. «کنعان» و «گلستان» هم قافیه‌اند.",
+     "r": "daghighan! bebin, «gham ma-khor» dar ākhar-e har beyt tekrār mi-shavad; in radif ast. «Kan'ān» va «golestān» ham ghāfiye-and.",
+     "en": "Exactly! Look: 'gham ma-khor' comes back at the end of every bayt – that's the radif. And 'Kan'ān' and 'golestān' are the rhyme.",
+     "col": "دقیقاً! ببین، «غم مخور» آخر هر بیت تکرار می‌شه؛ این ردیفه. «کنعان» و «گلستان» هم قافیه‌ان.",
+     "colR": "daghighan! bebin, «gham ma-khor» ākhar-e har beyt tekrār mi-she; in radif-e. «Kan'ān» o «golestān» ham ghāfiye-an.",
+     "faV": "دَقیقاً! بِبین، «غَم مَخور» دَر آخَرِ هَر بَیت تِکرار می‌شَوَد؛ این رَدیف اَست. «کَنعان» و «گُلِستان» هَم قافیه‌اَند.",
+     "a": "17d923dfe1a8",
+     "colV": "دَقیقاً! بِبین، «غَم مَخور» آخَرِ هَر بَیت تِکرار می‌شه؛ این رَدیفه. «کَنعان» و «گُلِستان» هَم قافیه‌اَن.",
+     "colA": "eada5a3b080d"
+    },
+    {
+     "who": "Tom",
+     "fa": "پس امشب هم شعر یاد گرفتم، هم فالم خوب آمد. یلدا مبارک!",
+     "r": "pas emshab ham she'r yād gereftam, ham fāl-am khub āmad. yaldā mobārak!",
+     "en": "So tonight I've learnt some poetry and got a good fortune too. Happy Yalda!",
+     "col": "پس امشب هم شعر یاد گرفتم، هم فالم خوب اومد. یلدا مبارک!",
+     "colR": "pas emshab ham she'r yād gereftam, ham fāl-am khub umad. yaldā mobārak!",
+     "faV": "پَس اِمشَب هَم شِعر یاد گِرِفتَم، هَم فالَم خوب آمَد. یَلدا مُبارَک!",
+     "a": "baa430aae066",
+     "colV": "پَس اِمشَب هَم شِعر یاد گِرِفتَم، هَم فالَم خوب اومَد. یَلدا مُبارَک!",
+     "colA": "f9d7d463ac2b"
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Hafez in the garden, Hafez in song",
+   "md": "**The Hāfeziye.** Hafez died in Shiraz in 1390 and was buried in a garden outside the city. His tomb, the [[حافظیه|Hāfeziye]], is an open pavilion of eight columns under a dome tiled on the inside, among orange trees – less a monument than a meeting place. Visitors lay a hand on the carved stone and murmur a ghazal, students come at sunset, couples come on dates, and fortune-sellers at the gate offer a folded verse, sometimes picked out of a box by a canary. On [[۲۰ مهر|bistom-e Mehr]] (12 October), the Day of Hafez, the garden is full of readers; Saadi has his own day on [[۱ اردیبهشت|avval-e Ordibehesht]] (21 April), at his own tomb a few kilometres away.\n\n**Poetry you can hear.** The word [[ردیف|radif]] has a second life: it is also the name of the traditional repertoire of Persian classical music, the melodies that masters pass on to their students by ear. Singers of [[آواز|āvāz]] choose a ghazal by Hafez, Saadi or Rumi and stretch it over the melody, long syllables long and short ones short, exactly where the metre puts them. Many Iranians first learn the great ghazals from songs – one reason they feel the metre without ever studying it.\n\n**By heart.** Children learn poems [[از بر|az bar|by heart]] at school, and many adults can recite dozens of ghazals. Quote a well-chosen bayt at the right moment and an Iranian friend will often answer with another.",
+   "image": "tomb-of-hafez"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "Read the right-hand mesrā' first, then the left. In books the two halves stand side by side; online they are often on two lines or separated by a slash.",
+    "Find the verb first – it may be anywhere in the line – then the subject, then put the line into modern prose order in your head: چو عضوی به درد آورد روزگار → وقتی روزگار عضوی را به درد می‌آورد.",
+    "When you meet ز، چو، کز، دگر، گر، همی, say the modern form silently: از، چون، که از، دیگر، اگر، می. After a few poems you will stop noticing them.",
+    "Read aloud. If the rhythm limps, you have probably misread a vowel: the metre tells you where an ezafe goes and where it does not.",
+    "A long vowel + a consonant (tād, ruz) or a short vowel + two consonants (dard, 'ozv) counts as long + short – a beat and a half. That is how lines that look too short still fill the pattern.",
+    "Learn one bayt a week by heart. Quoting Saadi or Hafez at the right moment is the warmest compliment you can pay the language – and Iranians will notice."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "From the poem to today",
+   "items": [
+    {
+     "fa": "همه‌ی انسان‌ها ___ یک گوهر آفریده شده‌اند.",
+     "r": "hame-ye ensān-hā ___ yek gowhar āfaride shode-and.",
+     "en": "All human beings have been created from one essence.",
+     "answer": "از",
+     "hint": "today's form of ز"
+    },
+    {
+     "fa": "___ یک عضو درد می‌کشد، عضوهای دیگر هم آرام نمی‌گیرند.",
+     "r": "___ yek 'ozv dard mi-keshad, 'ozv-hā-ye digar ham ārām nemi-girand.",
+     "en": "When one limb hurts, the other limbs cannot rest either.",
+     "answer": "وقتی",
+     "hint": "today's word for چو"
+    },
+    {
+     "fa": "عضوهای ___ آرام نمی‌مانند.",
+     "r": "'ozv-hā-ye ___ ārām nemi-mānand.",
+     "en": "The other limbs do not stay calm.",
+     "answer": "دیگر",
+     "hint": "today's form of دگر"
+    },
+    {
+     "fa": "___ حضور می‌خواهی، از او غایب نشو.",
+     "r": "___ hozur mi-khāhi, az u ghāyeb na-show.",
+     "en": "If you want to be with him, don't be absent from him.",
+     "answer": "اگر",
+     "hint": "today's form of گر"
+    },
+    {
+     "fa": "بوی جوی مولیان ___.",
+     "r": "bu-ye ju-ye Muliyān ___.",
+     "en": "The scent of the Muliyan stream keeps coming.",
+     "answer": "می‌آید",
+     "hint": "today's form of آید همی"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Know your terms",
+   "items": [
+    {
+     "q": "What do you call one half of a bayt?",
+     "options": [
+      "قافیه",
+      "مصراع",
+      "ردیف"
+     ],
+     "answer": 1,
+     "explain": "Every bayt has two مصراع; books print them side by side."
+    },
+    {
+     "q": "In [[یوسف گم‌گشته باز آید به کنعان غم مخور|Yusef-e gom-gashte bāz āyad be Kan'ān gham ma-khor]], which words are the radif?",
+     "options": [
+      "یوسف گم‌گشته",
+      "غم مخور",
+      "به کنعان"
+     ],
+     "answer": 1,
+     "explain": "The radif comes back unchanged at the end of every bayt, after the rhyme word (کنعان، گلستان…)."
+    },
+    {
+     "q": "Which form has four mesrā's rhyming aa ba?",
+     "options": [
+      "غزل",
+      "رباعی",
+      "مثنوی",
+      "قصیده"
+     ],
+     "answer": 1,
+     "explain": "The robā'i (from the Arabic for 'fourfold') – Khayyam's form."
+    },
+    {
+     "q": "Ferdowsi told the story of Iran's kings and heroes in some 50,000 bayts. Which form did he use?",
+     "options": [
+      "رباعی",
+      "غزل",
+      "مثنوی"
+     ],
+     "answer": 2,
+     "explain": "In a masnavi every bayt has its own rhyme, so the poet never runs out of rhyming words, however long the story."
+    },
+    {
+     "q": "Is the first syllable of [[بنی‌آدم|bani-ādam]] long or short?",
+     "options": [
+      "long",
+      "short"
+     ],
+     "answer": 1,
+     "explain": "ba is a consonant + the short vowel a with nothing after it: short. The next syllable, ni, has a long i: long."
+    },
+    {
+     "q": "In a ghazal by Saadi, which word would you expect to find in the last bayt?",
+     "options": [
+      "حافظ",
+      "سعدی",
+      "ساقی"
+     ],
+     "answer": 1,
+     "explain": "The last bayt usually carries the poet's takhallos – his own pen name."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Old forms and new",
+   "items": [
+    {
+     "fa": "ز",
+     "r": "ze",
+     "en": "from, of (az)",
+     "faV": "ز",
+     "a": "d8c018d350b6"
+    },
+    {
+     "fa": "چو",
+     "r": "cho",
+     "en": "when; like (chon)",
+     "faV": "چو",
+     "a": "3c9a559fdf04"
+    },
+    {
+     "fa": "دگر",
+     "r": "degar",
+     "en": "other (digar)",
+     "faV": "دِگَر",
+     "a": "38cb27ad9840"
+    },
+    {
+     "fa": "کز",
+     "r": "kaz",
+     "en": "who … from (ke az)",
+     "faV": "کَز",
+     "a": "a77257c84f58"
+    },
+    {
+     "fa": "گر",
+     "r": "gar",
+     "en": "if (agar)",
+     "faV": "گَر",
+     "a": "e01bad9599fa"
+    },
+    {
+     "fa": "همی",
+     "r": "hami",
+     "en": "keeps doing (mi-)",
+     "faV": "هَمی",
+     "a": "19001eb30719"
+    },
+    {
+     "fa": "بسا",
+     "r": "basā",
+     "en": "many a… (besyār)",
+     "faV": "بَسا",
+     "a": "477c424840b8"
+    },
+    {
+     "fa": "ساقیا",
+     "r": "sāghiyā",
+     "en": "O cupbearer! (ey sāghi)",
+     "faV": "ساقیا",
+     "a": "c7285c62133a"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "حافظ در قرن چهاردهم میلادی در شیراز زندگی می‌کرد.",
+     "r": "Hāfez dar gharn-e chahārdahom-e milādi dar Shirāz zendegi mi-kard.",
+     "en": "Hafez lived in Shiraz in the fourteenth century AD.",
+     "faV": "حافِظ دَر قَرنِ چَهاردَهُمِ میلادی دَر شیراز زِندِگی می‌کَرد.",
+     "a": "a035fcfef53a"
+    },
+    {
+     "fa": "هر بیت از دو مصراع ساخته شده است.",
+     "r": "har beyt az do mesrā' sākhte shode ast.",
+     "en": "Every bayt is made of two mesrā's.",
+     "faV": "هَر بَیت اَز دو مِصراع ساخته شُده اَست.",
+     "a": "7139d85c8e11"
+    },
+    {
+     "fa": "ردیف بعد از قافیه می‌آید.",
+     "r": "radif ba'd az ghāfiye mi-āyad.",
+     "en": "The radif comes after the rhyme.",
+     "faV": "رَدیف بَعد اَز قافیه می‌آیَد.",
+     "a": "6d216b2f78a7"
+    },
+    {
+     "fa": "بچه‌ها این شعر را در مدرسه از بر می‌کنند.",
+     "r": "bacche-hā in she'r rā dar madrese az bar mi-konand.",
+     "en": "Children learn this poem by heart at school.",
+     "faV": "بَچّه‌ها این شِعر را دَر مَدرِسه اَز بَر می‌کُنَند.",
+     "a": "7134757564d6"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "Saadi is one of the greatest poets of the Persian language.",
+     "fa": "سعدی یکی از بزرگ‌ترین شاعران زبان فارسی است.",
+     "r": "Sa'di yek-i az bozorg-tarin shā'erān-e zabān-e fārsi ast.",
+     "faV": "سَعدی یِکی اَز بُزُرگ‌تَرین شاعِرانِ زَبانِ فارسی اَست.",
+     "a": "bbd577d30a5c"
+    },
+    {
+     "en": "This ghazal has eight bayts.",
+     "fa": "این غزل هشت بیت دارد.",
+     "r": "in ghazal hasht beyt dārad.",
+     "faV": "این غَزَل هَشت بَیت دارَد.",
+     "a": "2de14430870a"
+    },
+    {
+     "en": "The last bayt of a ghazal contains the poet's pen name.",
+     "fa": "بیت آخر غزل تخلص شاعر را دارد.",
+     "r": "beyt-e ākhar-e ghazal takhallos-e shā'er rā dārad.",
+     "faV": "بَیتِ آخَرِ غَزَل تَخَلُّصِ شاعِر را دارَد.",
+     "a": "355a775b1745"
+    },
+    {
+     "en": "Make a wish, then open the Divan.",
+     "fa": "نیت کن، بعد دیوان را باز کن.",
+     "r": "niyyat kon, ba'd divān rā bāz kon.",
+     "faV": "نیَّت کُن، بَعد دیوان را باز کُن.",
+     "a": "d45bfb4337c9"
+    },
+    {
+     "en": "All human beings are limbs of one body.",
+     "fa": "همه‌ی انسان‌ها اعضای یک بدن هستند.",
+     "r": "hame-ye ensān-hā a'zā-ye yek badan hastand.",
+     "faV": "هَمه‌یِ اِنسان‌ها اَعضایِ یِک بَدَن هَستَند.",
+     "a": "fc1b0d07f6eb"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "یوسف گم‌گشته باز آید به کنعان غم مخور",
+     "r": "Yusef-e gom-gashte bāz āyad be Kan'ān gham ma-khor",
+     "en": "Lost Joseph will come back to Canaan – do not grieve.",
+     "options": [
+      "Joseph went to Canaan and was sad.",
+      "Lost Joseph will come back to Canaan – do not grieve.",
+      "Don't eat in Canaan."
+     ],
+     "answer": 1,
+     "faV": "یوسِفِ گُم‌گَشته باز آیَد به کَنعان غَم مَخور",
+     "a": "ea874c3965df"
+    },
+    {
+     "fa": "بنی‌آدم اعضای یکدیگرند",
+     "r": "bani-ādam a'zā-ye yekdigar-and",
+     "en": "The children of Adam are limbs of one another.",
+     "options": [
+      "The children of Adam are limbs of one another.",
+      "Adam's children live far from each other.",
+      "All people are poets."
+     ],
+     "answer": 0,
+     "faV": "بَنی‌آدَم اَعضایِ یِکدیگَرَند",
+     "a": "d220aeb8b2b3"
+    },
+    {
+     "fa": "این غزل را از بر کرده‌ام.",
+     "r": "in ghazal rā az bar karde-am.",
+     "en": "I have learnt this ghazal by heart.",
+     "options": [
+      "I have written this ghazal.",
+      "I don't like this ghazal.",
+      "I have learnt this ghazal by heart."
+     ],
+     "answer": 2,
+     "faV": "این غَزَل را اَز بَر کَرده‌اَم.",
+     "a": "26acedd85eee"
+    },
+    {
+     "fa": "فالت چه آمد؟",
+     "r": "fāl-at che āmad?",
+     "en": "What did your fortune say?",
+     "options": [
+      "What did your fortune say?",
+      "When did you come?",
+      "Did you buy a Divan?"
+     ],
+     "answer": 0,
+     "faV": "فالَت چه آمَد؟",
+     "a": "fec8cfa90c3e"
+    }
+   ]
+  }
+ ],
+ "titleV": "نَخُستین گام‌ها دَر شِعر",
+ "titleA": "06380465bb9e"
+}

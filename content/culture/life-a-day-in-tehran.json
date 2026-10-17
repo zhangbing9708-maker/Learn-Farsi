@@ -1,0 +1,315 @@
+{
+ "id": "life-a-day-in-tehran",
+ "topic": "life",
+ "title": "A day in Tehran",
+ "titleFa": "یک روز در تهران",
+ "titleR": "yek ruz dar Tehrān",
+ "image": "tehran",
+ "summary": "From the bread queue at dawn to dinner close to midnight: how a working day unfolds in Iran's capital – the metro and the bus lanes, the Thursday–Friday weekend, the famous traffic, and evenings in Tajrish or on Tabiat Bridge.",
+ "body": [
+  {
+   "h": "Bread at dawn",
+   "md": "A Tehran morning often begins in a queue. Before work someone from the family walks to the neighbourhood [[نانوایی|nānvāyi|bakery]] and waits in the [[صف|saf|queue]] for bread straight from the oven: the long, dimpled [[سنگک|sangak|sangak]], baked on a bed of hot pebbles, the thick golden [[بربری|barbari|barbari]], or paper-thin [[لواش|lavāsh|lavash]]. Customers lay the hot sheets on a rack for a minute to let the steam out, then fold them and hurry home.\n\n[[صبحانه|sobhāne|Breakfast]] is simple: bread with white [[پنیر|panir|cheese]], walnuts or fresh herbs, butter and jam, and a glass of [[چای|chāy|tea]]. On cold winter mornings some people stop at a stall instead for a bowl of [[حلیم|halim|wheat-and-meat porridge]], topped with cinnamon and sugar.",
+   "image": "sangak"
+  },
+  {
+   "h": "Underground and in the bus lane",
+   "md": "To cross a city of almost nine million people, many Tehranis go underground. The [[مترو|metro|metro]] began with a single line in 1999 and now has several, and at rush hour the carriages are packed. The carriages at each end of the train are reserved for women, though women may ride in the others too. Listen for the [[ایستگاه بعدی|istgāh-e ba'di|next station]] announcement and the polite [[ببخشید|be-bakhshid|excuse me]] of people squeezing towards the doors.\n\nAbove ground, the [[اتوبوس تندرو|otobus-e tondrow|rapid-transit (BRT) bus]] runs in its own lane along the big avenues, so it beats the traffic. Passengers tap a rechargeable card or pay with a phone app, and on city buses men usually sit at the front and women at the back.",
+   "image": "tehran-metro"
+  },
+  {
+   "h": "The working week",
+   "md": "The Iranian week begins on [[شنبه|shanbe|Saturday]], and the next days are counted from it: [[یکشنبه|yekshanbe|Sunday]] is literally 'one-Saturday', [[دوشنبه|doshanbe|Monday]] 'two-Saturday', and so on up to [[پنجشنبه|panjshanbe|Thursday]]. The weekly day off is [[جمعه|jom'e|Friday]]. Many offices also close on Thursday or work only in the morning, so by Thursday afternoon the weekend has begun. Thursday evening is called [[شب جمعه|shab-e jom'e|'Friday night']] – in the Persian way of counting, a night belongs to the day that follows – and it is the favourite time for parties and family visits.\n\nOffices tend to start early, at seven or eight, and empty in the afternoon. Shops open mid-morning and stay open well into the evening."
+  },
+  {
+   "h": "Traffic",
+   "md": "Tehran's [[ترافیک|terāfik|traffic]] is legendary. At rush hour the motorways are jammed, drivers invent their own lanes, and the quickest way across town is often the back seat of a motorbike taxi weaving between the cars. To keep the old centre breathable, cars need a permit to enter the [[طرح ترافیک|tarh-e terāfik|traffic zone]], and the city has also tried an [[زوج و فرد|zowj o fard|odd–even]] scheme that lets cars in on alternate days according to their number plates.\n\nThe backbone of the city is [[خیابان ولیعصر|khiyābān-e Vali'asr|Valiasr Street]], some 18 kilometres of shops and old plane trees running from the railway station in the south up to Tajrish in the north. In winter, still air can trap smog over the city, and on the worst days of [[آلودگی هوا|āludegi-ye havā|air pollution]] schools may close.",
+   "image": "valiasr-street"
+  },
+  {
+   "h": "Evening in Tajrish and on Tabiat Bridge",
+   "md": "As the heat goes out of the day, the city comes outside. Up in the north, [[میدان تجریش|meydān-e Tajrish|Tajrish Square]] is busy until late, with the covered [[بازار تجریش|bāzār-e Tajrish|Tajrish bazaar]] piled high with fruit, pickles and herbs, the shrine of [[امامزاده صالح|Emāmzāde Sāleh|Imamzadeh Saleh]], and the road up to the tea houses of [[دربند|Darband|Darband]].\n\nFurther south, [[پل طبیعت|Pol-e Tabi'at|Tabiat ('Nature') Bridge]] carries walkers over the Modarres motorway between two parks. Designed by the young architect Leila Araghian and opened in 2014, it has three levels with benches, cafés and views of the mountains. On summer evenings it is full of families and friends eating [[بستنی|bastani|ice cream]].",
+   "image": "tabiat-bridge"
+  },
+  {
+   "h": "Dinner at ten",
+   "md": "Tehranis eat late. [[ناهار|nāhār|Lunch]], around one or two o'clock, is the main meal of the day; [[شام|shām|dinner]] rarely comes before nine, and with guests or in summer it can be close to midnight. Evenings are also the time for visiting relatives: you will be offered tea, fruit and sweets, and if you stay, dinner. When you finally leave, your hosts will probably walk you all the way to the car."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "هر روز صبح برای خرید نان به نانوایی می‌روم.",
+   "r": "har ruz sobh barā-ye kharid-e nān be nānvāyi mi-ravam.",
+   "en": "Every morning I go to the bakery to buy bread.",
+   "col": "هر روز صبح برای خرید نون می‌رم نونوایی.",
+   "colR": "har ruz sobh barā-ye kharid-e nun mi-ram nunvāyi.",
+   "faV": "هَر روز صُبح بَرایِ خَریدِ نان به نانوایی می‌رَوَم.",
+   "a": "35b7d74a82f2",
+   "colV": "هَر روز صُبح بَرایِ خَریدِ نون می‌رَم نونوایی.",
+   "colA": "e7c931dcecfe"
+  },
+  {
+   "fa": "صف نانوایی امروز خیلی طولانی بود.",
+   "r": "saf-e nānvāyi emruz kheyli tulāni bud.",
+   "en": "The queue at the bakery was very long today.",
+   "col": "صف نونوایی امروز خیلی طولانی بود.",
+   "colR": "saf-e nunvāyi emruz kheyli tulāni bud.",
+   "faV": "صَفِ نانوایی اِمروز خَیلی طولانی بود.",
+   "a": "6fed546754d5",
+   "colV": "صَفِ نونوایی اِمروز خَیلی طولانی بود.",
+   "colA": "b37b71f78d05"
+  },
+  {
+   "fa": "با مترو به سر کار می‌روم، چون از ماشین سریع‌تر است.",
+   "r": "bā metro be sar-e kār mi-ravam, chon az māshin sari'-tar ast.",
+   "en": "I go to work by metro, because it's faster than going by car.",
+   "col": "با مترو می‌رم سر کار، چون از ماشین سریع‌تره.",
+   "colR": "bā metro mi-ram sar-e kār, chon az māshin sari'-tar-e.",
+   "faV": "با مِترو به سَرِ کار می‌رَوَم، چون اَز ماشین سَریع‌تَر اَست.",
+   "a": "553044de88c1",
+   "colV": "با مِترو می‌رَم سَرِ کار، چون اَز ماشین سَریع‌تَره.",
+   "colA": "b3e2e9c91590"
+  },
+  {
+   "fa": "ببخشید، ایستگاه بعدی تجریش است؟",
+   "r": "be-bakhshid, istgāh-e ba'di Tajrish ast?",
+   "en": "Excuse me, is the next station Tajrish?",
+   "col": "ببخشید، ایستگاه بعدی تجریشه؟",
+   "colR": "be-bakhshid, istgāh-e ba'di Tajrish-e?",
+   "faV": "بِبَخشید، ایستگاهِ بَعدی تَجریش اَست؟",
+   "a": "00600502639a",
+   "colV": "بِبَخشید، ایستگاهِ بَعدی تَجریشه؟",
+   "colA": "5715e0a7823a"
+  },
+  {
+   "fa": "پنجشنبه‌ها اداره‌ی ما فقط تا ظهر کار می‌کند.",
+   "r": "panjshanbe-hā edāre-ye mā faghat tā zohr kār mi-konad.",
+   "en": "On Thursdays our office only works until noon.",
+   "col": "پنجشنبه‌ها اداره‌ی ما فقط تا ظهر کار می‌کنه.",
+   "colR": "panjshanbe-hā edāre-ye mā faghat tā zohr kār mi-kone.",
+   "faV": "پَنجشَنبه‌ها اِداره‌یِ ما فَقَط تا ظُهر کار می‌کُنَد.",
+   "a": "65c8d14f3b68",
+   "colV": "پَنجشَنبه‌ها اِداره‌یِ ما فَقَط تا ظُهر کار می‌کُنه.",
+   "colA": "bdfd6e92550a"
+  },
+  {
+   "fa": "جمعه تعطیل است و همه دیر از خواب بیدار می‌شوند.",
+   "r": "jom'e ta'til ast va hame dir az khāb bidār mi-shavand.",
+   "en": "Friday is a holiday, and everyone wakes up late.",
+   "col": "جمعه تعطیله و همه دیر از خواب پا می‌شن.",
+   "colR": "jom'e ta'til-e o hame dir az khāb pā mi-shan.",
+   "faV": "جُمعه تَعطیل اَست و هَمه دیر اَز خواب بیدار می‌شَوَند.",
+   "a": "bd4c612d7d3b",
+   "colV": "جُمعه تَعطیله و هَمه دیر اَز خواب پا می‌شَن.",
+   "colA": "074ecbb22cf8"
+  },
+  {
+   "fa": "ساعت شش عصر ترافیک خیابان‌ها وحشتناک است.",
+   "r": "sā'at-e shesh-e asr terāfik-e khiyābān-hā vahshatnāk ast.",
+   "en": "At six in the evening the traffic in the streets is terrible.",
+   "col": "ساعت شیش عصر ترافیک خیابونا وحشتناکه.",
+   "colR": "sā'at-e shish-e asr terāfik-e khiyābun-ā vahshatnāk-e.",
+   "faV": "ساعَتِ شِشِ عَصر تِرافیکِ خیابان‌ها وَحشَتناک اَست.",
+   "a": "19636b8c6f79",
+   "colV": "ساعَتِ شیشِ عَصر تِرافیکِ خیابونا وَحشَتناکه.",
+   "colA": "fdea37459f24"
+  },
+  {
+   "fa": "شب‌ها با دوستانم روی پل طبیعت قدم می‌زنیم.",
+   "r": "shab-hā bā dustān-am ru-ye Pol-e Tabi'at ghadam mi-zanim.",
+   "en": "In the evenings my friends and I go for a walk on Tabiat Bridge.",
+   "col": "شبا با دوستام روی پل طبیعت قدم می‌زنیم.",
+   "colR": "shab-ā bā dustām ru-ye Pol-e Tabi'at ghadam mi-zanim.",
+   "faV": "شَب‌ها با دوستانَم رویِ پُلِ طَبیعَت قَدَم می‌زَنیم.",
+   "a": "b10c0ab20ae8",
+   "colV": "شَبا با دوستام رویِ پُلِ طَبیعَت قَدَم می‌زَنیم.",
+   "colA": "55e711433e88"
+  },
+  {
+   "fa": "در تهران مردم معمولاً دیر شام می‌خورند.",
+   "r": "dar Tehrān mardom ma'mulan dir shām mi-khorand.",
+   "en": "In Tehran people usually have dinner late.",
+   "col": "تو تهران مردم معمولاً دیر شام می‌خورن.",
+   "colR": "tu Tehrān mardom ma'mulan dir shām mi-khoran.",
+   "faV": "دَر تِهران مَردُم مَعمولاً دیر شام می‌خورَند.",
+   "a": "95a621680cfb",
+   "colV": "تو تِهران مَردُم مَعمولاً دیر شام می‌خورَن.",
+   "colA": "763e3160b524"
+  },
+  {
+   "fa": "از تجریش تا راه‌آهن با اتوبوس چقدر طول می‌کشد؟",
+   "r": "az Tajrish tā rāh-āhan bā otobus cheghadr tul mi-keshad?",
+   "en": "How long does it take by bus from Tajrish to the railway station?",
+   "col": "از تجریش تا راه‌آهن با اتوبوس چقدر طول می‌کشه؟",
+   "colR": "az Tajrish tā rāh-āhan bā otobus cheghadr tul mi-keshe?",
+   "faV": "اَز تَجریش تا راه‌آهَن با اُتوبوس چِقَدر طول می‌کِشَد؟",
+   "a": "4abfff96e671",
+   "colV": "اَز تَجریش تا راه‌آهَن با اُتوبوس چِقَدر طول می‌کِشه؟",
+   "colA": "d740099fc855"
+  },
+  {
+   "fa": "تاکسی بگیرم یا با مترو بروم؟",
+   "r": "tāksi be-giram yā bā metro be-ravam?",
+   "en": "Should I take a taxi or go by metro?",
+   "col": "تاکسی بگیرم یا با مترو برم؟",
+   "colR": "tāksi be-giram yā bā metro be-ram?",
+   "faV": "تاکسی بِگیرَم یا با مِترو بِرَوَم؟",
+   "a": "0af918feb4b1",
+   "colV": "تاکسی بِگیرَم یا با مِترو بِرَم؟",
+   "colA": "82e0171dff3e"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "نانوایی",
+   "r": "nānvāyi",
+   "en": "bakery",
+   "faV": "نانوایی",
+   "a": "72758770616e"
+  },
+  {
+   "fa": "صف",
+   "r": "saf",
+   "en": "queue, line",
+   "faV": "صَف",
+   "a": "a6076d159180"
+  },
+  {
+   "fa": "صبحانه",
+   "r": "sobhāne",
+   "en": "breakfast",
+   "faV": "صُبحانه",
+   "a": "4c37a2a6e99d"
+  },
+  {
+   "fa": "ناهار",
+   "r": "nāhār",
+   "en": "lunch",
+   "faV": "ناهار",
+   "a": "b657fa3ae12a"
+  },
+  {
+   "fa": "شام",
+   "r": "shām",
+   "en": "dinner, supper",
+   "faV": "شام",
+   "a": "0066c0f57bda"
+  },
+  {
+   "fa": "مترو",
+   "r": "metro",
+   "en": "metro, underground",
+   "faV": "مِترو",
+   "a": "fbdf9c6e337d"
+  },
+  {
+   "fa": "ایستگاه",
+   "r": "istgāh",
+   "en": "station, stop",
+   "faV": "ایستگاه",
+   "a": "320c86a1080b"
+  },
+  {
+   "fa": "اتوبوس",
+   "r": "otobus",
+   "en": "bus",
+   "faV": "اُتوبوس",
+   "a": "39a8affda802"
+  },
+  {
+   "fa": "ترافیک",
+   "r": "terāfik",
+   "en": "traffic; traffic jam",
+   "faV": "تِرافیک",
+   "a": "54c0dfab069b"
+  },
+  {
+   "fa": "اداره",
+   "r": "edāre",
+   "en": "office (especially a government office)",
+   "faV": "اِداره",
+   "a": "29b97acc2441"
+  },
+  {
+   "fa": "سر کار",
+   "r": "sar-e kār",
+   "en": "at work, to work",
+   "faV": "سَرِ کار",
+   "a": "d35d48896788"
+  },
+  {
+   "fa": "تعطیل",
+   "r": "ta'til",
+   "en": "closed; holiday, day off",
+   "faV": "تَعطیل",
+   "a": "9d128a5097d1"
+  },
+  {
+   "fa": "آخر هفته",
+   "r": "ākhar-e hafte",
+   "en": "weekend",
+   "faV": "آخَرِ هَفته",
+   "a": "23a6cb6c81bc"
+  },
+  {
+   "fa": "پنجشنبه",
+   "r": "panjshanbe",
+   "en": "Thursday",
+   "faV": "پَنجشَنبه",
+   "a": "bfedbee56956"
+  },
+  {
+   "fa": "جمعه",
+   "r": "jom'e",
+   "en": "Friday",
+   "faV": "جُمعه",
+   "a": "1f1f1c508969"
+  },
+  {
+   "fa": "میدان",
+   "r": "meydān",
+   "en": "square; roundabout",
+   "faV": "مَیدان",
+   "a": "6db664e67e08"
+  },
+  {
+   "fa": "خیابان",
+   "r": "khiyābān",
+   "en": "street, avenue",
+   "faV": "خیابان",
+   "a": "3807383806c3"
+  },
+  {
+   "fa": "پل",
+   "r": "pol",
+   "en": "bridge",
+   "faV": "پُل",
+   "a": "295caf771580"
+  },
+  {
+   "fa": "قدم زدن",
+   "r": "ghadam zadan",
+   "en": "to stroll, go for a walk",
+   "faV": "قَدَم زَدَن",
+   "a": "5e8a52b92d5d"
+  },
+  {
+   "fa": "شلوغ",
+   "r": "sholugh",
+   "en": "crowded, busy",
+   "faV": "شُلوغ",
+   "a": "1d0afff107f1"
+  }
+ ],
+ "facts": [
+  "Tehran's first metro service, the line to Karaj, began in March 1999; on every train the carriages at each end are reserved for women.",
+  "Valiasr Street runs for about 18 kilometres, from the railway station in the south to Tajrish Square in the north, under rows of old plane trees.",
+  "Tabiat Bridge, 270 metres long, opened in 2014 and won the Aga Khan Award for Architecture in 2016.",
+  "The Persian week begins on Saturday: Sunday is yekshanbe, 'one-shanbe', and the count goes up to panjshanbe, 'five-shanbe', Thursday.",
+  "Thursday evening is called shab-e jom'e, 'Friday night', because a night is counted with the day that follows it.",
+  "Sangak bread is baked on hot pebbles – its name means 'little stone'.",
+  "Cars need a permit to enter the traffic-restricted zone, the tarh-e terāfik, in central Tehran."
+ ],
+ "titleV": "یِک روز دَر تِهران",
+ "titleA": "2e50afb5ef98"
+}

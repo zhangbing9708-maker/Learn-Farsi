@@ -74,8 +74,16 @@ Read real texts, follow the news, argue a point, understand idioms and proverbs 
 5. [If only: unreal conditions, wishes and regrets](lessons/b1-05-if-only.md) — کاش می‌دانستم
 6. [Building words: suffixes and prefixes](lessons/b1-06-building-words.md) — پسوندها و پیشوندها
 7. [Arabic in Persian: roots, plurals and tanvin](lessons/b1-07-arabic-in-persian.md) — عربی در فارسی
+12. [First steps in poetry: reading a classical poem](lessons/b1-12-first-steps-in-poetry.md) — نخستین گام‌ها در شعر
+13. [Telling a story: three past tenses together](lessons/b1-13-telling-a-story.md) — یکی بود یکی نبود
 
-## Part 5. Stories — داستان‌ها
+## Part 5. Upper intermediate (B2) — پیشرفته
+
+Classical poetry, literary prose, the history of the language, dialects and Dari and Tajik – and the fine points that make Persian sound Persian.
+
+1. [Hafez: the first ghazal](lessons/b2-01-hafez.md) — حافظ و نخستین غزل دیوان
+
+## Part 6. Stories — داستان‌ها
 
 Graded readers, from very easy to literary.
 
@@ -119,8 +127,10 @@ Graded readers, from very easy to literary.
 **Upper intermediate (B2)**
 
 - [Rostam and the White Demon](stories/b2-rostam-and-the-white-demon.md) — رستم و دیو سپید
+- [The Conference of the Birds](stories/b2-the-conference-of-the-birds.md) — سی مرغ و سیمرغ
+- [The tent-maker of Nishapur](stories/b2-the-tent-maker-of-nishapur.md) — خیمه‌دوز نیشابور
 
-## Part 6. Iran in pictures and stories — فرهنگ ایران
+## Part 7. Iran in pictures and stories — فرهنگ ایران
 
 **History**
 
@@ -198,11 +208,19 @@ Graded readers, from very easy to literary.
 - [The Shahnameh](culture/arts-shahnameh.md) — شاهنامه
 - [Gardens and water](culture/arts-gardens-and-water.md) — باغ و آب
 
-## Part 7. Poetry — شعر
+**Everyday life**
+
+- [A day in Tehran](culture/life-a-day-in-tehran.md) — یک روز در تهران
+- [The bazaar](culture/life-the-bazaar.md) — بازار
+- [Family](culture/life-family.md) — خانواده
+- [School and university](culture/life-school-and-university.md) — مدرسه و دانشگاه
+- [The nomads](culture/life-nomads.md) — عشایر ایران
+
+## Part 8. Poetry — شعر
 
 - [Children of Adam](poetry/saadi-bani-adam.md) — Saadi
 
-## Part 8. Reference
+## Part 9. Reference
 
 - [Phrasebook](phrasebook.md)
 - [Proverbs and idioms](idioms.md)

@@ -1,0 +1,155 @@
+{
+ "id": "life-family",
+ "topic": "life",
+ "title": "Family",
+ "titleFa": "خانواده",
+ "titleR": "khānevāde",
+ "image": "sofreh",
+ "summary": "Grandparents at the head of the room, cousins who grow up like siblings, New Year visits that must be returned – and a word for every aunt, uncle and in-law. A guide to the Iranian family and how to talk about it.",
+ "body": [
+  {
+   "h": "Family first",
+   "md": "In Iran, family means much more than parents and children. Grandparents, aunts, uncles and cousins form a close network that meets often and helps out in good times and bad. Persian has two words here: [[خانواده|khānevāde|family]] is your household and closest kin, while [[فامیل|fāmil|relatives]] – a false friend for English speakers – means the whole wider clan, and also your surname. Many young people live with their parents until they marry, and cousins often grow up together almost like brothers and sisters."
+  },
+  {
+   "h": "Visits and return visits",
+   "md": "Family life runs on visits. The great season is [[نوروز|nowruz|the Persian New Year]], when everyone does the rounds of [[دید و بازدید|did o bāzdid|visits and return visits]]. The young call on the old first, so the first days are spent at the homes of grandparents and the eldest aunts and uncles, and every visit is later returned. The hosts bring out tea, fruit, sweets and [[آجیل|ājil|mixed nuts]], and the elders give the children [[عیدی|eydi|a New Year gift]], usually crisp new banknotes. Visits also mark births, weddings, illnesses and deaths, and the rule is always the same: a visit should be repaid.",
+   "image": "haft-sin"
+  },
+  {
+   "h": "Respect for elders",
+   "md": "Age brings [[احترام|ehterām|respect]]. When an older relative comes into the room, people stand up; the elder is greeted first, served first and given the best seat, at the [[بالای مجلس|bālā-ye majles|head of the room]]. Many families use the polite [[شما|shomā|you (formal)]] even with their own parents and grandparents. Grandparents are lovingly called [[بابابزرگ|bābā-bozorg|grandpa]] and [[مامان‌بزرگ|māmān-bozorg|grandma]], and on long winter nights such as Yalda the family gathers at their house. Kinship words even reach beyond the family: children call a friendly shopkeeper [[عمو|amu|uncle]] and a neighbour [[خاله|khāle|auntie]].",
+   "image": "yalda"
+  },
+  {
+   "h": "An aunt for every side",
+   "md": "Persian names every relative precisely, according to the parent who links you:\n\n- father's brother [[عمو|amu]], father's sister [[عمه|amme]]\n- mother's brother [[دایی|dāyi]], mother's sister [[خاله|khāle]]\n- their spouses: [[زن‌عمو|zan-amu|a paternal uncle's wife]], [[شوهرعمه|showhar-amme|a paternal aunt's husband]], [[زن‌دایی|zan-dāyi|a maternal uncle's wife]], [[شوهرخاله|showhar-khāle|a maternal aunt's husband]]\n\nCousins are named through the same four words: [[پسرعمو|pesar-amu|son of a paternal uncle]], [[دخترعمه|dokhtar-amme|daughter of a paternal aunt]], [[پسردایی|pesar-dāyi|son of a maternal uncle]], [[دخترخاله|dokhtar-khāle|daughter of a maternal aunt]] and so on – eight words where English has one. Add [[جان|jān|dear]] to sound warm: [[خاله‌جان|khāle-jān|dear auntie]], [[عموجان|amu-jān|dear uncle]]."
+  },
+  {
+   "h": "In-laws",
+   "md": "Marriage brings a second set of words. A husband's mother is the [[مادرشوهر|mādar-showhar|mother-in-law]], a wife's mother the [[مادرزن|mādar-zan|mother-in-law]], and the fathers are [[پدرشوهر|pedar-showhar]] and [[پدرزن|pedar-zan]]. The [[عروس|arus|bride; daughter-in-law]] and the [[داماد|dāmād|groom; son-in-law]] keep those titles for life. There are even words for the in-laws of in-laws: two women married to brothers are each other's [[جاری|jāri]], and two men married to sisters are [[باجناق|bājenāgh]]. The mother-in-law and the husband's sister, the [[خواهرشوهر|khāhar-showhar|sister-in-law]], are favourite characters in jokes and television comedies."
+  },
+  {
+   "h": "Weddings, briefly",
+   "md": "A marriage traditionally begins with [[خواستگاری|khāstegāri|the proposal visit]], when the young man's family calls on the young woman's family to ask for her hand. Then come the [[عقد|aghd|marriage ceremony]], held in front of a spread of symbolic objects, and the [[عروسی|arusi|wedding party]], with dancing late into the night. Wish the couple [[مبارک باشد|mobārak bāshad|congratulations]] – and see *An Iranian wedding* for the whole story.",
+   "image": "iranian-wedding"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "خانواده‌ی ما خیلی بزرگ است.",
+   "r": "khānevāde-ye mā kheyli bozorg ast.",
+   "en": "Our family is very big.",
+   "col": "خانواده‌ی ما خیلی بزرگه.",
+   "colR": "khānevāde-ye mā kheyli bozorg-e."
+  },
+  {
+   "fa": "من سه عمو و دو خاله دارم.",
+   "r": "man se amu va do khāle dāram.",
+   "en": "I have three uncles on my father's side and two aunts on my mother's side.",
+   "col": "من سه تا عمو و دو تا خاله دارم.",
+   "colR": "man se tā amu o do tā khāle dāram."
+  },
+  {
+   "fa": "دخترخاله‌ام بهترین دوست من است.",
+   "r": "dokhtar-khāle-am behtarin dust-e man ast.",
+   "en": "My cousin – my mother's sister's daughter – is my best friend.",
+   "col": "دخترخاله‌م بهترین دوستمه.",
+   "colR": "dokhtar-khāle-m behtarin dust-am-e."
+  },
+  {
+   "fa": "عید اول به خانه‌ی پدربزرگ و مادربزرگ می‌رویم.",
+   "r": "eyd avval be khāne-ye pedar-bozorg va mādar-bozorg mi-ravim.",
+   "en": "At New Year we go to our grandparents' house first.",
+   "col": "عید اول می‌ریم خونه‌ی بابابزرگ و مامان‌بزرگ.",
+   "colR": "eyd avval mi-rim khune-ye bābā-bozorg o māmān-bozorg."
+  },
+  {
+   "fa": "عمه‌ام هفته‌ی پیش به دیدن ما آمد و فردا به بازدیدش می‌رویم.",
+   "r": "amme-am hafte-ye pish be didan-e mā āmad va fardā be bāzdid-ash mi-ravim.",
+   "en": "My aunt (my father's sister) came to see us last week, and tomorrow we are returning her visit.",
+   "col": "عمه‌م هفته‌ی پیش اومد دیدن ما، فردا می‌ریم بازدیدش.",
+   "colR": "amme-m hafte-ye pish umad didan-e mā, fardā mi-rim bāzdid-esh."
+  },
+  {
+   "fa": "وقتی پدربزرگ وارد اتاق می‌شود، همه بلند می‌شوند.",
+   "r": "vaghti pedar-bozorg vāred-e otāgh mi-shavad, hame boland mi-shavand.",
+   "en": "When grandfather comes into the room, everyone stands up.",
+   "col": "وقتی بابابزرگ میاد تو اتاق، همه پا می‌شن.",
+   "colR": "vaghti bābā-bozorg miyād tu otāgh, hame pā mi-shan."
+  },
+  {
+   "fa": "پسرعموی من در کانادا زندگی می‌کند.",
+   "r": "pesar-amu-ye man dar Kānādā zendegi mi-konad.",
+   "en": "My cousin (my father's brother's son) lives in Canada.",
+   "col": "پسرعموی من تو کانادا زندگی می‌کنه.",
+   "colR": "pesar-amu-ye man tu Kānādā zendegi mi-kone."
+  },
+  {
+   "fa": "مادرشوهرم زن مهربانی است.",
+   "r": "mādar-showhar-am zan-e mehrabān-i ast.",
+   "en": "My mother-in-law is a kind woman.",
+   "col": "مادرشوهرم زن مهربونیه.",
+   "colR": "mādar-showhar-am zan-e mehrabuni-ye."
+  },
+  {
+   "fa": "شوهرم و شوهر خواهرم با هم باجناق هستند.",
+   "r": "showhar-am va showhar-e khāhar-am bā ham bājenāgh hastand.",
+   "en": "My husband and my sister's husband are 'bajenagh' – married to two sisters.",
+   "col": "شوهرم و شوهر خواهرم با هم باجناقن.",
+   "colR": "showhar-am o showhar-e khāhar-am bā ham bājenāgh-an."
+  },
+  {
+   "fa": "عروسی دخترخاله‌ام ماه دیگر است.",
+   "r": "arusi-ye dokhtar-khāle-am māh-e digar ast.",
+   "en": "My cousin's wedding is next month.",
+   "col": "عروسی دخترخاله‌م ماه دیگه‌ست.",
+   "colR": "arusi-ye dokhtar-khāle-m māh-e dige-st."
+  },
+  {
+   "fa": "فامیل شما چیست؟",
+   "r": "fāmil-e shomā chist?",
+   "en": "What's your surname?",
+   "col": "فامیلتون چیه؟",
+   "colR": "fāmil-etun chiye?"
+  },
+  {
+   "fa": "خاله‌جان، دستتان درد نکند!",
+   "r": "khāle-jān, dast-etān dard na-konad!",
+   "en": "Thank you, auntie!",
+   "lit": "dear auntie, may your hand not hurt!",
+   "col": "خاله‌جون، دستتون درد نکنه!",
+   "colR": "khāle-jun, dast-etun dard na-kone!"
+  }
+ ],
+ "vocab": [
+  {"fa": "خانواده", "r": "khānevāde", "en": "family, household"},
+  {"fa": "فامیل", "r": "fāmil", "en": "relatives; surname"},
+  {"fa": "پدربزرگ", "r": "pedar-bozorg", "en": "grandfather"},
+  {"fa": "مادربزرگ", "r": "mādar-bozorg", "en": "grandmother"},
+  {"fa": "عمو", "r": "amu", "en": "uncle (father's brother)"},
+  {"fa": "عمه", "r": "amme", "en": "aunt (father's sister)"},
+  {"fa": "دایی", "r": "dāyi", "en": "uncle (mother's brother)"},
+  {"fa": "خاله", "r": "khāle", "en": "aunt (mother's sister)"},
+  {"fa": "پسرعمو", "r": "pesar-amu", "en": "cousin (son of a father's brother)"},
+  {"fa": "دخترخاله", "r": "dokhtar-khāle", "en": "cousin (daughter of a mother's sister)"},
+  {"fa": "مادرشوهر", "r": "mādar-showhar", "en": "mother-in-law (husband's mother)"},
+  {"fa": "پدرزن", "r": "pedar-zan", "en": "father-in-law (wife's father)"},
+  {"fa": "عروس", "r": "arus", "en": "bride; daughter-in-law"},
+  {"fa": "داماد", "r": "dāmād", "en": "groom; son-in-law"},
+  {"fa": "جاری", "r": "jāri", "en": "wife of one's husband's brother"},
+  {"fa": "باجناق", "r": "bājenāgh", "en": "husband of one's wife's sister"},
+  {"fa": "دید و بازدید", "r": "did o bāzdid", "en": "exchange of visits"},
+  {"fa": "احترام", "r": "ehterām", "en": "respect"},
+  {"fa": "بزرگ‌تر", "r": "bozorg-tar", "en": "older; an elder"}
+ ],
+ "facts": [
+  "Persian has separate words for a father's brother (amu), a father's sister (amme), a mother's brother (dāyi) and a mother's sister (khāle).",
+  "Cousins are named after the relative who links them – pesar-amu, dokhtar-amme, pesar-dāyi, dokhtar-khāle and so on: eight words where English has one.",
+  "Fāmil means 'relatives' or 'surname', not 'family'; the household is the khānevāde.",
+  "Two men married to sisters are bājenāgh; two women married to brothers are jāri.",
+  "At Nowruz the younger generation visits the elders first, and the elders give the children eydi, usually in new banknotes.",
+  "Children call friendly adults amu ('uncle') and khāle ('auntie') even when they are not related.",
+  "A marriage traditionally begins with khāstegāri, a formal visit by the young man's family to the young woman's family."
+ ]
+}

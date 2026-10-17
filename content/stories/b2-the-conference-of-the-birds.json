@@ -1,0 +1,441 @@
+{
+ "id": "b2-the-conference-of-the-birds",
+ "level": "B2",
+ "kind": "fable",
+ "title": "The Conference of the Birds",
+ "titleFa": "سی مرغ و سیمرغ",
+ "titleR": "si morgh o Simorgh",
+ "image": "attar",
+ "intro": "Attar of Nishapur's great allegory of the soul's journey. The birds of the world want a king, and the hoopoe offers to lead them to the Simorgh, who lives behind Mount Qaf. Most of them find excuses; most of those who set out die in the seven valleys; thirty arrive – and discover what their number means. Notice the reported speech of the birds' excuses, the timeless present used for the seven valleys, and the conditionals with اگر.",
+ "source": "Retold in prose from Attar's Manteq-ot-teyr (The Conference of the Birds, completed 1177, public domain).",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "روزگاری مرغان جهان گرد هم آمدند و گفتند: «هر سرزمینی پادشاهی دارد؛ چرا ما بی‌پادشاه مانده‌ایم؟»",
+     "r": "ruzgār-i morghān-e jahān gerd-e ham āmadand o goftand: «har sarzamin-i pādeshāh-i dārad; cherā mā bi-pādeshāh mānde-im?»",
+     "en": "Once upon a time the birds of the world gathered and said: \"Every land has a king; why are we left without one?\"",
+     "faV": "روزگاری مُرغانِ جَهان گِردِ هَم آمَدَند و گُفتَند: «هَر سَرزَمینی پادِشاهی دارَد؛ چِرا ما بی‌پادِشاه مانده‌ایم؟»",
+     "a": "f0a3e94094b3"
+    },
+    {
+     "fa": "آن‌گاه هدهد، که زمانی پیک سلیمان بود و تاجی از پر بر سر داشت، پیش آمد و گفت: «ما پادشاهی داریم به نام سیمرغ که در پس کوه قاف منزل دارد.»",
+     "r": "ān-gāh hodhod, ke zamān-i peyk-e Soleymān bud o tāj-i az par bar sar dāsht, pish āmad o goft: «mā pādeshāh-i dārim be nām-e Simorgh ke dar pas-e kuh-e Ghāf manzel dārad.»",
+     "en": "Then the hoopoe, who had once been Solomon's messenger and wore a crown of feathers on his head, stepped forward and said: \"We have a king, called the Simorgh, who dwells behind Mount Qaf.\"",
+     "faV": "آن‌گاه هُدهُد، که زَمانی پَیکِ سُلَیمان بود و تاجی اَز پَر بَر سَر داشت، پیش آمَد و گُفت: «ما پادِشاهی داریم به نامِ سیمُرغ که دَر پَسِ کوهِ قاف مَنزِل دارَد.»",
+     "a": "f943887b60c1"
+    },
+    {
+     "fa": "او گفت که راه درگاه سیمرغ بسیار دراز و پرخطر است و هر که بخواهد به آن برسد، باید از جان و آرزوهای خود بگذرد.",
+     "r": "u goft ke rāh-e dargāh-e Simorgh besyār derāz o por-khatar ast o har ke be-khāhad be ān be-rasad, bāyad az jān o ārezu-hā-ye khod be-gozarad.",
+     "en": "He said that the road to the Simorgh's court was very long and full of danger, and that whoever wished to reach it must be ready to give up his life and all his desires.",
+     "faV": "او گُفت که راهِ دَرگاهِ سیمُرغ بِسیار دِراز و پُرخَطَر اَست و هَر که بِخواهَد به آن بِرَسَد، بایَد اَز جان و آرِزوهایِ خود بِگُذَرَد.",
+     "a": "0e350cdc20d4"
+    },
+    {
+     "fa": "سپس داستانی شگفت گفت: نخستین بار که سیمرغ پدیدار شد، نیمه‌شبی از فراز چین گذشت و پری از او بر زمین افتاد، و هر نقش زیبایی که در جهان هست، از روی همان پر کشیده شده است.",
+     "r": "sepas dāstān-i shegeft goft: nakhostin bār ke Simorgh padidār shod, nime-shab-i az farāz-e Chin gozasht o par-i az u bar zamin oftād, va har naghsh-e zibā-yi ke dar jahān hast, az ru-ye hamān par keshide shode ast.",
+     "en": "Then he told a strange tale: the first time the Simorgh appeared, it flew over China at midnight and a feather fell from it to the ground – and every beautiful design in the world has been drawn from that one feather.",
+     "faV": "سِپَس داستانی شِگِفت گُفت: نَخُستین بار که سیمُرغ پَدیدار شُد، نیمه‌شَبی اَز فَرازِ چین گُذَشت و پَری اَز او بَر زَمین اُفتاد، و هَر نَقشِ زیبایی که دَر جَهان هَست، اَز رویِ هَمان پَر کِشیده شُده اَست.",
+     "a": "663904ad4b50"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "مرغان شوق سفر یافتند، اما چون از دشواری راه آگاه شدند، یکایک بهانه آوردند.",
+     "r": "morghān showgh-e safar yāftand, ammā chon az doshvāri-ye rāh āgāh shodand, yekāyek bahāne āvardand.",
+     "en": "The birds were filled with longing for the journey, but once they understood how hard the road was, one by one they made excuses.",
+     "faV": "مُرغان شَوقِ سَفَر یافتَند، اَمّا چون اَز دُشواریِ راه آگاه شُدَند، یِکایِک بَهانه آوَردَند.",
+     "a": "55daf7c3a518"
+    },
+    {
+     "fa": "بلبل گفت که عاشق گل است و نمی‌تواند حتی یک شب از او دور بماند.",
+     "r": "bolbol goft ke āshegh-e gol ast o nemi-tavānad hattā yek shab az u dur be-mānad.",
+     "en": "The nightingale said that he was in love with the rose and could not stay away from her for even one night.",
+     "faV": "بُلبُل گُفت که عاشِقِ گُل اَست و نِمی‌تَوانَد حَتّی یِک شَب اَز او دور بِمانَد.",
+     "a": "38930d1b195f"
+    },
+    {
+     "fa": "طوطی گفت که در قفس زندانی است و تنها آرزویش آب حیات است؛ طاووس گفت که بهشت را می‌خواهد، همان بهشتی که روزی از آن رانده شده بود.",
+     "r": "tuti goft ke dar ghafas zendāni ast o tanhā ārezu-yash āb-e hayāt ast; tāvus goft ke behesht rā mi-khāhad, hamān behesht-i ke ruz-i az ān rānde shode bud.",
+     "en": "The parrot said that it was a prisoner in a cage and that its only wish was the water of life; the peacock said that it wanted paradise – the very paradise from which it had once been driven out.",
+     "faV": "طوطی گُفت که دَر قَفَس زِندانی اَست و تَنها آرِزویَش آبِ حَیات اَست؛ طاووس گُفت که بِهِشت را می‌خواهَد، هَمان بِهِشتی که روزی اَز آن رانده شُده بود.",
+     "a": "70f415d4beee"
+    },
+    {
+     "fa": "بط گفت که بی‌آب نمی‌تواند زیست؛ کبک دل به گوهرهای کوهستان بسته بود، و باز به این می‌نازید که بر دست شاهان می‌نشیند.",
+     "r": "bat goft ke bi-āb nemi-tavānad zist; kabk del be gowhar-hā-ye kuhestān baste bud, va bāz be in mi-nāzid ke bar dast-e shāhān mi-neshinad.",
+     "en": "The duck said it could not live without water; the partridge had given its heart to the jewels of the mountains; and the falcon prided itself on sitting on the hands of kings.",
+     "faV": "بَط گُفت که بی‌آب نِمی‌تَوانَد زیست؛ کَبک دِل به گَوهَرهایِ کوهِستان بَسته بود، و باز به این می‌نازید که بَر دَستِ شاهان می‌نِشینَد.",
+     "a": "da85c09e731d"
+    },
+    {
+     "fa": "جغد گفت که ویرانه‌ها را دوست دارد، زیرا گنج در ویرانه پنهان است؛ و گنجشک گفت که ناتوان‌تر از آن است که چنین راهی را بپیماید.",
+     "r": "joghd goft ke virāne-hā rā dust dārad, zirā ganj dar virāne penhān ast; va gonjeshk goft ke nātavān-tar az ān ast ke chenin rāh-i rā be-peymāyad.",
+     "en": "The owl said that it loved ruins, because treasure lies hidden in ruins; and the sparrow said it was too weak to travel such a road.",
+     "faV": "جُغد گُفت که ویرانه‌ها را دوست دارَد، زیرا گَنج دَر ویرانه پِنهان اَست؛ و گُنجِشک گُفت که ناتَوان‌تَر اَز آن اَست که چِنین راهی را بِپَیمایَد.",
+     "a": "d1d999810101"
+    },
+    {
+     "fa": "هدهد به هر یک پاسخی داد و گفت: «اگر دل به گل و گنج و قفس خود ببندید، هرگز به آن‌چه سزاوارش هستید نخواهید رسید.»",
+     "r": "hodhod be har yek pāsokh-i dād o goft: «agar del be gol o ganj o ghafas-e khod be-bandid, hargez be ān-che sezāvār-ash hastid na-khāhid resid.»",
+     "en": "The hoopoe answered each of them and said: \"If you tie your hearts to your rose, your treasure and your cage, you will never reach what you truly deserve.\"",
+     "faV": "هُدهُد به هَر یِک پاسُخی داد و گُفت: «اَگَر دِل به گُل و گَنج و قَفَسِ خود بِبَندید، هَرگِز به آن‌چه سِزاوارَش هَستید نَخواهید رِسید.»",
+     "a": "71a986c10bfb"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "سرانجام هزاران مرغ آماده‌ی سفر شدند، قرعه زدند و قرعه به نام هدهد افتاد.",
+     "r": "saranjām hezārān morgh āmāde-ye safar shodand, ghor'e zadand o ghor'e be nām-e hodhod oftād.",
+     "en": "In the end thousands of birds made ready for the journey; they drew lots for a leader, and the lot fell to the hoopoe.",
+     "faV": "سَراَنجام هِزاران مُرغ آماده‌یِ سَفَر شُدَند، قُرعه زَدَند و قُرعه به نامِ هُدهُد اُفتاد.",
+     "a": "b0a0d6ed09aa"
+    },
+    {
+     "fa": "هدهد گفت که بر سر راه هفت وادی است و تاکنون هیچ‌کس از پایان آن خبری بازنیاورده است.",
+     "r": "hodhod goft ke bar sar-e rāh haft vādi ast o tākonun hich-kas az pāyān-e ān khabar-i bāz-na-yāvarde ast.",
+     "en": "The hoopoe said that seven valleys lay across the road, and that so far no one had ever brought back news of where it ended.",
+     "faV": "هُدهُد گُفت که بَر سَرِ راه هَفت وادی اَست و تاکُنون هیچ‌کَس اَز پایانِ آن خَبَری بازنَیاوَرده اَست.",
+     "a": "6d976a8cef65"
+    },
+    {
+     "fa": "نخست وادی طلب بود، که رهرو در آن باید از همه‌ی دارایی‌اش دست بکشد؛ پس از آن وادی عشق می‌آمد، سراسر آتش، که هر که به آن پا بگذارد، دیگر به سود و زیان نمی‌اندیشد.",
+     "r": "nakhost vādi-ye talab bud, ke rahrow dar ān bāyad az hame-ye dārāyi-ash dast be-keshad; pas az ān vādi-ye eshgh mi-āmad, sarāsar ātash, ke har ke be ān pā be-gozārad, digar be sud o ziyān nemi-andishad.",
+     "en": "First came the Valley of the Quest, where the traveller must let go of everything he owns; after it came the Valley of Love, all fire, where whoever sets foot thinks no more of profit or loss.",
+     "faV": "نَخُست وادیِ طَلَب بود، که رَهرَو دَر آن بایَد اَز هَمه‌یِ دارایی‌اَش دَست بِکِشَد؛ پَس اَز آن وادیِ عِشق می‌آمَد، سَراسَر آتَش، که هَر که به آن پا بِگُذارَد، دیگَر به سود و زیان نِمی‌اَندیشَد.",
+     "a": "bfae393c8be7"
+    },
+    {
+     "fa": "در وادی معرفت هر کس به اندازه‌ی توان خود راهی می‌بیند، و در وادی استغنا جهان در چشم رهرو چنان خرد می‌شود که گویی هشت بهشت و هفت دوزخ برگ کاهی بیش نیستند.",
+     "r": "dar vādi-ye ma'refat har kas be andāze-ye tavān-e khod rāh-i mi-binad, va dar vādi-ye esteghnā jahān dar cheshm-e rahrow chenān khord mi-shavad ke guyi hasht behesht o haft duzakh barg-e kāh-i bish nistand.",
+     "en": "In the Valley of Knowledge each sees a path according to his own strength, and in the Valley of Detachment the world grows so small in the traveller's eyes that eight heavens and seven hells seem no more than a blade of straw.",
+     "faV": "دَر وادیِ مَعرِفَت هَر کَس به اَندازه‌یِ تَوانِ خود راهی می‌بینَد، و دَر وادیِ اِستِغنا جَهان دَر چِشمِ رَهرَو چِنان خُرد می‌شَوَد که گویی هَشت بِهِشت و هَفت دوزَخ بَرگِ کاهی بیش نیستَند.",
+     "a": "7c1eb06f2092"
+    },
+    {
+     "fa": "در وادی توحید همه چیز یکی می‌شود، و در وادی حیرت رهرو آن‌چنان سرگشته می‌ماند که دیگر نمی‌داند هست یا نیست.",
+     "r": "dar vādi-ye towhid hame chiz yek-i mi-shavad, va dar vādi-ye heyrat rahrow ān-chenān sargashte mi-mānad ke digar nemi-dānad hast yā nist.",
+     "en": "In the Valley of Unity all things become one, and in the Valley of Bewilderment the traveller is left so lost that he no longer knows whether he exists or not.",
+     "faV": "دَر وادیِ تَوحید هَمه چیز یِکی می‌شَوَد، و دَر وادیِ حَیرَت رَهرَو آن‌چِنان سَرگَشته می‌مانَد که دیگَر نِمی‌دانَد هَست یا نیست.",
+     "a": "d17f9809c232"
+    },
+    {
+     "fa": "و واپسین وادی، وادی فقر و فناست، جایی که قطره در دریا گم می‌شود.",
+     "r": "va vāpasin vādi, vādi-ye faghr o fanā-st, jā-yi ke ghatre dar daryā gom mi-shavad.",
+     "en": "And the last valley is the Valley of Poverty and Annihilation, where the drop is lost in the sea.",
+     "faV": "و واپَسین وادی، وادیِ فَقر و فَناست، جایی که قَطره دَر دَریا گُم می‌شَوَد.",
+     "a": "b0066f924f1a"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "سال‌ها گذشت.",
+     "r": "sāl-hā gozasht.",
+     "en": "Years went by.",
+     "faV": "سال‌ها گُذَشت.",
+     "a": "dd3cd6230bda"
+    },
+    {
+     "fa": "بسیاری از مرغان در دریاها غرق شدند، بسیاری بر کوه‌ها از تشنگی و گرما جان سپردند، گروهی را درندگان دریدند و گروهی دیگر فریفته‌ی چیزهای کوچک شدند و در میانه‌ی راه ماندند.",
+     "r": "besyār-i az morghān dar daryā-hā ghargh shodand, besyār-i bar kuh-hā az teshnegi o garmā jān sepordand, goruh-i rā darandegān daridand o goruh-i digar farifte-ye chiz-hā-ye kuchak shodand o dar miyāne-ye rāh māndand.",
+     "en": "Many of the birds drowned in the seas, many died of thirst and heat on the mountains, some were torn apart by wild beasts, and others were tempted by small things and stayed behind halfway.",
+     "faV": "بِسیاری اَز مُرغان دَر دَریاها غَرق شُدَند، بِسیاری بَر کوه‌ها اَز تِشنِگی و گَرما جان سِپُردَند، گُروهی را دَرَندِگان دَریدَند و گُروهی دیگَر فَریفته‌یِ چیزهایِ کوچَک شُدَند و دَر میانه‌یِ راه ماندَند.",
+     "a": "0ce7ba7c0c61"
+    },
+    {
+     "fa": "از آن هزاران مرغ، تنها سی مرغ خسته، بی‌بال و پر و دل‌شکسته به درگاه سیمرغ رسیدند.",
+     "r": "az ān hezārān morgh, tanhā si morgh-e khaste, bi-bāl o par o del-shekaste be dargāh-e Simorgh residand.",
+     "en": "Of all those thousands, only thirty birds – exhausted, stripped of wing and feather, broken-hearted – reached the court of the Simorgh.",
+     "faV": "اَز آن هِزاران مُرغ، تَنها سی مُرغِ خَسته، بی‌بال و پَر و دِل‌شِکَسته به دَرگاهِ سیمُرغ رِسیدَند.",
+     "a": "678e1feed0c5"
+    },
+    {
+     "fa": "پرده‌داری به پیشوازشان آمد و با بی‌اعتنایی پرسید: «شما کیستید و این‌جا چه می‌خواهید؟ سیمرغ را به مشتی مرغ ناتوان چه نیاز است؟»",
+     "r": "parde-dār-i be pishvāz-eshān āmad o bā bi-e'tenāyi porsid: «shomā ki-stid o in-jā che mi-khāhid? Simorgh rā be mosht-i morgh-e nātavān che niyāz ast?»",
+     "en": "A chamberlain came out to meet them and asked with disdain: \"Who are you, and what do you want here? What need has the Simorgh of a handful of feeble birds?\"",
+     "faV": "پَرده‌داری به پیشوازِشان آمَد و با بی‌اِعتِنایی پُرسید: «شُما کیستید و این‌جا چه می‌خواهید؟ سیمُرغ را به مُشتی مُرغِ ناتَوان چه نیاز اَست؟»",
+     "a": "241887129101"
+    },
+    {
+     "fa": "مرغان گفتند که راهی دراز را پیموده‌اند و اگر بازگردانده شوند، بهتر است همان‌جا بمیرند.",
+     "r": "morghān goftand ke rāh-i derāz rā peymude-and o agar bāz-gardānde shavand, behtar ast hamān-jā be-mirand.",
+     "en": "The birds replied that they had travelled a long road, and that if they were sent back, they would rather die on the spot.",
+     "faV": "مُرغان گُفتَند که راهی دِراز را پَیموده‌اَند و اَگَر بازگَردانده شَوَند، بِهتَر اَست هَمان‌جا بِمیرَند.",
+     "a": "6c905e8e995a"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "عاقبت درها گشوده شد و مرغان را به درون بردند.",
+     "r": "āghebat dar-hā goshude shod o morghān rā be darun bordand.",
+     "en": "At last the doors were opened and the birds were led inside.",
+     "faV": "عاقِبَت دَرها گُشوده شُد و مُرغان را به دَرون بُردَند.",
+     "a": "4369f728681d"
+    },
+    {
+     "fa": "آنان چشم گشودند تا پادشاه را ببینند؛ چون به سیمرغ نگریستند، سی مرغ را دیدند، و چون به خود نگریستند، سیمرغ را دیدند.",
+     "r": "ānān cheshm goshudand tā pādeshāh rā be-binand; chon be Simorgh negaristand, si morgh rā didand, va chon be khod negaristand, Simorgh rā didand.",
+     "en": "They opened their eyes to see their king; when they looked at the Simorgh, they saw thirty birds, and when they looked at themselves, they saw the Simorgh.",
+     "faV": "آنان چِشم گُشودَند تا پادِشاه را بِبینَند؛ چون به سیمُرغ نِگَریستَند، سی مُرغ را دیدَند، و چون به خود نِگَریستَند، سیمُرغ را دیدَند.",
+     "a": "b1d3481d3580"
+    },
+    {
+     "fa": "عطار این لحظه را چنین سروده است: «چون نگه کردند آن سی مرغ زود / بی‌شک این سی مرغ آن سیمرغ بود»",
+     "r": "Attār in lahze rā chenin sorude ast: «chon negah kardand ān si morgh zud / bi-shak in si morgh ān Simorgh bud»",
+     "en": "Attar tells the moment like this: \"When those thirty birds looked, in that instant – / without a doubt, these thirty birds were that Simorgh.\"",
+     "faV": "عَطّار این لَحظه را چِنین سُروده اَست: «چون نِگَه کَردَند آن سی مُرغ زود / بی‌شَک این سی مُرغ آن سیمُرغ بود»",
+     "a": "baf9a6a5c58f"
+    },
+    {
+     "fa": "آن‌گاه دانستند که آن‌چه سال‌ها در جست‌وجویش بودند، از آغاز در درون خودشان بوده است.",
+     "r": "ān-gāh dānestand ke ān-che sāl-hā dar jost-o-ju-yash budand, az āghāz dar darun-e khod-eshān bude ast.",
+     "en": "Then they understood that what they had spent years searching for had been inside them from the very beginning.",
+     "faV": "آن‌گاه دانِستَند که آن‌چه سال‌ها دَر جُست‌وجویَش بودَند، اَز آغاز دَر دَرونِ خودِشان بوده اَست.",
+     "a": "3bd10a92c594"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "سیمرغ بی‌آن‌که سخنی بگوید به آنان فهماند که آینه‌ای بیش نیست: هر که به او بنگرد، خود را در او می‌بیند.",
+     "r": "Simorgh bi-ān-ke sokhan-i be-guyad be ānān fahmānd ke āyene-i bish nist: har ke be u be-negarad, khod rā dar u mi-binad.",
+     "en": "Without speaking a word, the Simorgh made them understand that it was nothing but a mirror: whoever looks at it sees himself in it.",
+     "faV": "سیمُرغ بی‌آن‌که سُخَنی بِگویَد به آنان فَهماند که آیِنه‌ای بیش نیست: هَر که به او بِنِگَرَد، خود را دَر او می‌بینَد.",
+     "a": "47d1705f13fc"
+    },
+    {
+     "fa": "گویی به آنان می‌گفت: «چون سی مرغ به این‌جا آمده‌اید، سی مرغ می‌بینید؛ اگر چهل یا پنجاه مرغ بودید، چهل یا پنجاه مرغ می‌دیدید.»",
+     "r": "guyi be ānān mi-goft: «chon si morgh be in-jā āmade-id, si morgh mi-binid; agar chehel yā panjāh morgh budid, chehel yā panjāh morgh mi-didid.»",
+     "en": "It was as if it were telling them: \"Because you came here as thirty birds, you see thirty birds; had you been forty or fifty, you would have seen forty or fifty.\"",
+     "faV": "گویی به آنان می‌گُفت: «چون سی مُرغ به این‌جا آمَده‌اید، سی مُرغ می‌بینید؛ اَگَر چِهِل یا پَنجاه مُرغ بودید، چِهِل یا پَنجاه مُرغ می‌دیدید.»",
+     "a": "08c6f75e453b"
+    },
+    {
+     "fa": "سرانجام، چنان‌که سایه در روشنی خورشید ناپدید می‌شود، آن سی مرغ در سیمرغ محو شدند.",
+     "r": "saranjām, chenān-ke sāye dar rowshani-ye khorshid nāpadid mi-shavad, ān si morgh dar Simorgh mahv shodand.",
+     "en": "In the end, as a shadow vanishes in the light of the sun, those thirty birds were lost in the Simorgh.",
+     "faV": "سَراَنجام، چِنان‌که سایه دَر رَوشَنیِ خورشید ناپَدید می‌شَوَد، آن سی مُرغ دَر سیمُرغ مَحو شُدَند.",
+     "a": "cd951c0a28e7"
+    },
+    {
+     "fa": "و چنین بود که مرغانی که در جست‌وجوی پادشاهی دوردست به راه افتاده بودند، او را در خویشتن یافتند.",
+     "r": "va chenin bud ke morghān-i ke dar jost-o-ju-ye pādeshāh-i dur-dast be rāh oftāde budand, u rā dar khishtan yāftand.",
+     "en": "And so it was that the birds who had set out in search of a faraway king found him within themselves.",
+     "faV": "و چِنین بود که مُرغانی که دَر جُست‌وجویِ پادِشاهی دوردَست به راه اُفتاده بودَند، او را دَر خویشتَن یافتَند.",
+     "a": "85312824dd85"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "هدهد",
+   "r": "hodhod",
+   "en": "hoopoe",
+   "faV": "هُدهُد",
+   "a": "483437e7c1d8"
+  },
+  {
+   "fa": "پیک",
+   "r": "peyk",
+   "en": "messenger",
+   "faV": "پَیک",
+   "a": "a54a5277f1f9"
+  },
+  {
+   "fa": "درگاه",
+   "r": "dargāh",
+   "en": "court, threshold (of a king)",
+   "faV": "دَرگاه",
+   "a": "e0a34b921a24"
+  },
+  {
+   "fa": "بهانه آوردن",
+   "r": "bahāne āvardan",
+   "en": "to make excuses",
+   "faV": "بَهانه آوَردَن",
+   "a": "a11e19ba5c8f"
+  },
+  {
+   "fa": "قفس",
+   "r": "ghafas",
+   "en": "cage",
+   "faV": "قَفَس",
+   "a": "7319da07d089"
+  },
+  {
+   "fa": "رانده شدن",
+   "r": "rānde shodan",
+   "en": "to be driven out",
+   "faV": "رانده شُدَن",
+   "a": "fae457df0504"
+  },
+  {
+   "fa": "نازیدن",
+   "r": "nāzidan",
+   "en": "to take pride (in), to boast",
+   "faV": "نازیدَن",
+   "a": "de99c44e874c"
+  },
+  {
+   "fa": "ویرانه",
+   "r": "virāne",
+   "en": "ruin",
+   "faV": "ویرانه",
+   "a": "b2c8ca2aaa01"
+  },
+  {
+   "fa": "ناتوان",
+   "r": "nātavān",
+   "en": "weak, feeble",
+   "faV": "ناتَوان",
+   "a": "a1c44b38e8d7"
+  },
+  {
+   "fa": "سزاوار",
+   "r": "sezāvār",
+   "en": "worthy, deserving",
+   "faV": "سِزاوار",
+   "a": "de383e4595d2"
+  },
+  {
+   "fa": "قرعه",
+   "r": "ghor'e",
+   "en": "lot (drawn to decide something)",
+   "faV": "قُرعه",
+   "a": "a0deb3eb7c2a"
+  },
+  {
+   "fa": "وادی",
+   "r": "vādi",
+   "en": "valley (literary)",
+   "faV": "وادی",
+   "a": "9b0bc50a975f"
+  },
+  {
+   "fa": "رهرو",
+   "r": "rahrow",
+   "en": "wayfarer, traveller on a (spiritual) path",
+   "faV": "رَهرَو",
+   "a": "a19fd262bcce"
+  },
+  {
+   "fa": "سرگشته",
+   "r": "sargashte",
+   "en": "bewildered, lost",
+   "faV": "سَرگَشته",
+   "a": "1278432ae72f"
+  },
+  {
+   "fa": "فنا",
+   "r": "fanā",
+   "en": "annihilation, passing away (of the self)",
+   "faV": "فَنا",
+   "a": "c5cd883a112d"
+  },
+  {
+   "fa": "جان سپردن",
+   "r": "jān sepordan",
+   "en": "to die, to give up one's life",
+   "faV": "جان سِپُردَن",
+   "a": "86ccdabb4398"
+  },
+  {
+   "fa": "پرده‌دار",
+   "r": "parde-dār",
+   "en": "chamberlain, keeper of the curtain",
+   "faV": "پَرده‌دار",
+   "a": "79072d9a7ace"
+  },
+  {
+   "fa": "نگریستن",
+   "r": "negaristan",
+   "en": "to look, to gaze (literary)",
+   "faV": "نِگَریستَن",
+   "a": "69b0c56393f7"
+  },
+  {
+   "fa": "آینه",
+   "r": "āyene",
+   "en": "mirror",
+   "faV": "آیِنه",
+   "a": "f22dd71e1b85"
+  },
+  {
+   "fa": "محو شدن",
+   "r": "mahv shodan",
+   "en": "to fade away, to be effaced",
+   "faV": "مَحو شُدَن",
+   "a": "de7418dbea76"
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the hoopoe tell the birds about their king?",
+   "options": [
+    "that they had none and must elect one",
+    "that he is called the Simorgh and lives behind Mount Qaf",
+    "that he lives in China"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What was the nightingale's excuse?",
+   "options": [
+    "he was in love with the rose",
+    "he could not live without water",
+    "he loved ruins"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Why did the owl not want to go?",
+   "options": [
+    "it was too weak",
+    "it loved ruins, where treasure lies hidden",
+    "it sat on the hands of kings"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "How did the hoopoe become the leader?",
+   "options": [
+    "the birds drew lots",
+    "he was the strongest bird",
+    "the Simorgh sent for him"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What happens in the Valley of Detachment?",
+   "options": [
+    "all things become one",
+    "the world grows so small that heaven and hell seem like straw",
+    "the traveller must give up everything he owns"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What did the thirty birds find at the Simorgh's court?",
+   "options": [
+    "a huge bird of fire on a throne",
+    "themselves: the thirty birds were the Simorgh",
+    "an empty palace"
+   ],
+   "answer": 1
+  }
+ ],
+ "after": "Farid al-Din Attar, a druggist of Nishapur who died about 1221, finished the poem in 1177. Its Persian title, منطق‌الطیر (manteq-ot-teyr), 'the speech of the birds', comes from the Qur'an, where Solomon says he has been taught the language of the birds – which is why the hoopoe, Solomon's messenger, leads them. The whole poem turns on one pun: سی مرغ, 'thirty birds', and سیمرغ, the Simorgh. Notice how Persian reports speech: it keeps the speaker's own tense, so بلبل گفت که عاشق گل است is literally 'the nightingale said that he is in love with the rose'. Notice too the present tense for the timeless valleys (می‌شود, نمی‌داند), ناتوان‌تر از آن است که … 'too weak to …', and درها گشوده شد – in literary Persian a plural subject that is not a person can take a singular verb.",
+ "titleV": "سی مُرغ و سیمُرغ",
+ "titleA": "610fce3ded9e"
+}

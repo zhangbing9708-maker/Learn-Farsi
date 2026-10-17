@@ -254,10 +254,10 @@ The English word *bazaar* is itself Persian (بازار (*bāzār*)), one of a l
 
 **Put the words in order**
 
-1. فارسی / این / کتاب / است. — This is a Persian book.
-2. آن / امیر / گوشی / است. — That is Amir's phone.
-3. من / کیف / کجاست؟ — Where is my bag?
-4. صندلی‌های / این‌ها / کلاس / هستند. — These are the classroom chairs.
+1. است. / کتاب / فارسی / این — This is a Persian book.
+2. است. / امیر / آن / گوشی — That is Amir's phone.
+3. کیف / من / کجاست؟ — Where is my bag?
+4. هستند. / کلاس / صندلی‌های / این‌ها — These are the classroom chairs.
 
 <details><summary>Answers</summary>
 

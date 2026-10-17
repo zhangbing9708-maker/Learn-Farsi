@@ -1,0 +1,1038 @@
+{
+ "id": "b1-13-telling-a-story",
+ "level": "B1",
+ "n": 13,
+ "title": "Telling a story: three past tenses together",
+ "titleFa": "یکی بود یکی نبود",
+ "titleR": "yek-i bud yek-i na-bud",
+ "intro": "Every Persian folk tale starts the same way: یکی بود یکی نبود. In this lesson you learn to tell a story the way Iranians do – the simple past for what happened, the past continuous for the background and the past perfect for what had happened before – and to move it along with ناگهان، همین که، تا این‌که and the other time words. You read a famous tale from Rumi to retell, and listen to a friend telling a true story over tea, the spoken way.",
+ "goals": [
+  "use the simple past, the past continuous and the past perfect together in a story",
+  "form the past perfect (رفته بودم) and know when to use it",
+  "link events with ناگهان، بعد از این‌که، پیش از آن‌که، همین که، وقتی که، تا این‌که، سرانجام",
+  "open and close a folk tale the traditional way",
+  "tell and follow a spoken anecdote, with the listener's replies"
+ ],
+ "image": "kalila-wa-dimna",
+ "sections": [
+  {
+   "type": "reading",
+   "title": "The merchant and the parrot",
+   "intro": "A tale every Iranian knows, retold from Rumi's *Masnavi* (13th century). Watch the three past tenses: what happened (simple past), what was going on in the background (past continuous), and what had happened before (past perfect) – and the little words that move the story on.",
+   "sentences": [
+    {
+     "fa": "یکی بود یکی نبود، غیر از خدا هیچ‌کس نبود.",
+     "r": "yek-i bud yek-i na-bud, gheyr az khodā hich-kas na-bud.",
+     "en": "Once upon a time – there was one, there wasn't one, there was nobody but God.",
+     "lit": "one was, one was not; other than God nobody was"
+    },
+    {
+     "fa": "در زمان‌های قدیم، بازرگانی بود که طوطی زیبایی در قفس داشت.",
+     "r": "dar zamān-hā-ye ghadim, bāzargān-i bud ke tuti-ye zibā-yi dar ghafas dāsht.",
+     "en": "Long ago there was a merchant who kept a beautiful parrot in a cage."
+    },
+    {
+     "fa": "طوطی را سال‌ها پیش از هندوستان آورده بودند و او خیلی شیرین حرف می‌زد.",
+     "r": "tuti rā sāl-hā pish az Hendustān āvarde budand va u kheyli shirin harf mi-zad.",
+     "en": "The parrot had been brought from India years before, and it talked very sweetly."
+    },
+    {
+     "fa": "یک روز بازرگان داشت برای سفری به هندوستان آماده می‌شد.",
+     "r": "yek ruz bāzargān dāsht barā-ye safar-i be Hendustān āmāde mi-shod.",
+     "en": "One day the merchant was getting ready for a journey to India."
+    },
+    {
+     "fa": "پیش از آن‌که راه بیفتد، از طوطی پرسید: «از هندوستان چه سوغاتی برایت بیاورم؟»",
+     "r": "pish az ān-ke rāh biyoftad, az tuti porsid: «az Hendustān che sowghāti barā-yat biyāvaram?»",
+     "en": "Before he set off, he asked the parrot: 'What present shall I bring you from India?'"
+    },
+    {
+     "fa": "طوطی گفت: «سوغاتی نمی‌خواهم؛ فقط به طوطی‌های هندوستان بگو که دوستتان در قفس است.»",
+     "r": "tuti goft: «sowghāti nemi-khāham; faghat be tuti-hā-ye Hendustān begu ke dust-etān dar ghafas ast.»",
+     "en": "The parrot said: 'I don't want a present; just tell the parrots of India that their friend is in a cage.'"
+    },
+    {
+     "fa": "بازرگان مدتی در هندوستان خرید و فروش کرد، تا این‌که یک روز به جنگلی رسید.",
+     "r": "bāzargān moddat-i dar Hendustān kharid o forush kard, tā in-ke yek ruz be jangal-i resid.",
+     "en": "The merchant traded in India for a while, until one day he came to a forest."
+    },
+    {
+     "fa": "چند طوطی روی شاخه‌های درختی نشسته بودند و آواز می‌خواندند.",
+     "r": "chand tuti ru-ye shākhe-hā-ye derakht-i neshaste budand va āvāz mi-khāndand.",
+     "en": "A few parrots were sitting on the branches of a tree, singing."
+    },
+    {
+     "fa": "همین که بازرگان پیغام را گفت، یکی از طوطی‌ها لرزید، از درخت افتاد و مرد.",
+     "r": "hamin ke bāzargān peyghām rā goft, yek-i az tuti-hā larzid, az derakht oftād va mord.",
+     "en": "As soon as the merchant gave the message, one of the parrots trembled, fell from the tree and died."
+    },
+    {
+     "fa": "بعد از این‌که بازرگان به خانه برگشت، با ناراحتی ماجرا را برای طوطی خودش تعریف کرد.",
+     "r": "ba'd az in-ke bāzargān be khāne bar-gasht, bā nārāhati mājarā rā barā-ye tuti-ye khod-ash ta'rif kard.",
+     "en": "After the merchant got home, he sadly told the whole story to his own parrot."
+    },
+    {
+     "fa": "ناگهان طوطی در قفس لرزید، افتاد و دیگر تکان نخورد.",
+     "r": "nāgahān tuti dar ghafas larzid, oftād va digar tekān na-khord.",
+     "en": "Suddenly the parrot trembled in its cage, fell, and did not move again."
+    },
+    {
+     "fa": "وقتی که بازرگان با چشم گریان طوطی را از قفس بیرون انداخت، طوطی پرید و روی دیوار نشست.",
+     "r": "vaghti ke bāzargān bā cheshm-e geryān tuti rā az ghafas birun andākht, tuti parid va ru-ye divār neshast.",
+     "en": "When the merchant, in tears, threw the parrot out of the cage, the parrot flew up and sat on the wall."
+    },
+    {
+     "fa": "طوطی گفت: «آن طوطی هندی نمرده بود؛ او به من یاد داد که چطور آزاد شوم.»",
+     "r": "tuti goft: «ān tuti-ye hendi na-morde bud; u be man yād dād ke chetor āzād shavam.»",
+     "en": "The parrot said: 'That Indian parrot hadn't died; it taught me how to be free.'"
+    },
+    {
+     "fa": "سرانجام خداحافظی کرد و به سوی هندوستان پرواز کرد.",
+     "r": "saranjām khodāhāfezi kard va be su-ye Hendustān parvāz kard.",
+     "en": "In the end it said goodbye and flew away towards India."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What did the parrot want from India?",
+     "options": [
+      "a new cage",
+      "nothing – only that its message be given",
+      "Indian sweets"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What happened as soon as the merchant gave the message?",
+     "options": [
+      "the Indian parrots flew away",
+      "one of the Indian parrots fell from the tree",
+      "the merchant fell ill"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Why did the merchant's parrot fall down 'dead'?",
+     "options": [
+      "it was ill",
+      "it had understood the Indian parrot's trick",
+      "it was sad that the merchant had gone away"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "How a Persian story goes",
+   "md": "Every Iranian child knows how a story begins: [[یکی بود یکی نبود، غیر از خدا هیچ‌کس نبود|yek-i bud yek-i na-bud, gheyr az khodā hich-kas na-bud]] – *there was one, there wasn't one; apart from God there was nobody*. It is the Persian *once upon a time*, and it tells the listener that what follows happened nowhere and everywhere. Many tellers go on [[زیر گنبد کبود|zir-e gonbad-e kabud|under the blue dome of the sky]] before they name the hero.\n\nThen the story moves on three levels, just as in English: the **simple past** for the chain of events, the **past continuous** for the scenery and the background, and the **past perfect** whenever the teller steps back to something that had already happened. Between the sentences, small time words – *suddenly, as soon as, until one day, in the end* – keep the listener moving.\n\nAnd a folk tale ends with a joke in rhyme: [[قصه‌ی ما به سر رسید، کلاغه به خونه‌اش نرسید|ghesse-ye mā be sar resid, kalāghe be khune-ash na-resid]] – *our story reached its end, the crow never reached its home*.\n\nOne more thing you will notice at once in conversation: when Iranians tell a true story, they often jump into the **present** at the exciting moment – [[یهو می‌بینم یه پیرمرد داره میاد|yeho mi-binam ye pirmard dāre miyād|suddenly I see an old man coming]] – just as English speakers say *so I'm standing there, and this man comes up to me*."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "قصه",
+     "r": "ghesse",
+     "en": "story, tale",
+     "pos": "n",
+     "note": "also داستان (dāstān); قصه گفتن to tell a story"
+    },
+    {
+     "fa": "تعریف کردن",
+     "r": "ta'rif kardan",
+     "en": "to tell (what happened), to describe; to praise",
+     "pos": "v",
+     "ex": {
+      "fa": "ماجرا را برایم تعریف کن.",
+      "r": "mājarā rā barā-yam ta'rif kon.",
+      "en": "Tell me what happened."
+     }
+    },
+    {
+     "fa": "ماجرا",
+     "r": "mājarā",
+     "en": "what happened, the whole story; adventure",
+     "pos": "n"
+    },
+    {
+     "fa": "اتفاق افتادن",
+     "r": "ettefāgh oftādan",
+     "en": "to happen",
+     "pos": "v",
+     "ex": {
+      "fa": "دیشب چه اتفاقی افتاد؟",
+      "r": "dishab che ettefāgh-i oftād?",
+      "en": "What happened last night?"
+     }
+    },
+    {
+     "fa": "بازرگان",
+     "r": "bāzargān",
+     "en": "merchant",
+     "pos": "n"
+    },
+    {
+     "fa": "طوطی",
+     "r": "tuti",
+     "en": "parrot",
+     "pos": "n"
+    },
+    {
+     "fa": "قفس",
+     "r": "ghafas",
+     "en": "cage",
+     "pos": "n"
+    },
+    {
+     "fa": "سوغاتی",
+     "r": "sowghāti",
+     "en": "a present brought back from a journey",
+     "pos": "n"
+    },
+    {
+     "fa": "پیغام",
+     "r": "peyghām",
+     "en": "message",
+     "pos": "n"
+    },
+    {
+     "fa": "راه افتادن",
+     "r": "rāh oftādan",
+     "en": "to set off",
+     "pos": "v",
+     "ex": {
+      "fa": "ساعت شش صبح راه افتادیم.",
+      "r": "sā'at-e shesh-e sobh rāh oftādim.",
+      "en": "We set off at six in the morning."
+     }
+    },
+    {
+     "fa": "لرزیدن",
+     "r": "larzidan",
+     "en": "to tremble, to shiver",
+     "pos": "v"
+    },
+    {
+     "fa": "تکان خوردن",
+     "r": "tekān khordan",
+     "en": "to move, to stir",
+     "pos": "v"
+    },
+    {
+     "fa": "پرواز کردن",
+     "r": "parvāz kardan",
+     "en": "to fly",
+     "pos": "v"
+    },
+    {
+     "fa": "آزاد",
+     "r": "āzād",
+     "en": "free",
+     "pos": "adj"
+    },
+    {
+     "fa": "پشیمان",
+     "r": "pashimān",
+     "en": "sorry, regretful",
+     "pos": "adj",
+     "ex": {
+      "fa": "از حرفم پشیمانم.",
+      "r": "az harf-am pashimān-am.",
+      "en": "I regret what I said."
+     }
+    },
+    {
+     "fa": "همین که",
+     "r": "hamin ke",
+     "en": "as soon as",
+     "pos": "conj"
+    },
+    {
+     "fa": "تا این‌که",
+     "r": "tā in-ke",
+     "en": "until (at last)",
+     "pos": "conj"
+    },
+    {
+     "fa": "پیش از آن‌که",
+     "r": "pish az ān-ke",
+     "en": "before (+ subjunctive)",
+     "pos": "conj",
+     "note": "spoken قبل از این‌که (ghabl az in-ke)"
+    },
+    {
+     "fa": "بعد از این‌که",
+     "r": "ba'd az in-ke",
+     "en": "after",
+     "pos": "conj"
+    },
+    {
+     "fa": "سرانجام",
+     "r": "saranjām",
+     "en": "finally, in the end",
+     "pos": "adv",
+     "note": "spoken بالاخره (bālākhare) or آخرش (ākhar-esh)"
+    },
+    {
+     "fa": "جاده",
+     "r": "jādde",
+     "en": "road (between towns)",
+     "pos": "n"
+    },
+    {
+     "fa": "چراغ‌قوه",
+     "r": "cherāgh-ghove",
+     "en": "torch, flashlight",
+     "pos": "n"
+    },
+    {
+     "fa": "مهمان‌نواز",
+     "r": "mehmān-navāz",
+     "en": "hospitable",
+     "pos": "adj"
+    },
+    {
+     "fa": "سر زدن",
+     "r": "sar zadan",
+     "en": "to drop in on, to visit (به)",
+     "pos": "v",
+     "ex": {
+      "fa": "هر هفته به مادربزرگم سر می‌زنم.",
+      "r": "har hafte be mādar-bozorg-am sar mi-zanam.",
+      "en": "I drop in on my grandmother every week."
+     }
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The past perfect: رفته بودم 'I had gone'",
+   "md": "A story often has to step back in time: *the parrot **had been brought** from India years before*. For this Persian has the **past perfect**, [[ماضی بعید|māzi-ye ba'id|the distant past]]. You already know its first half, the past participle ([[رفته|rafte]], [[دیده|dide]], [[آورده|āvarde]]), from the present perfect. Instead of the short endings, add the simple past of [[بودن|budan]]: [[رفته بودم|rafte budam|I had gone]]. The participle never changes; بودن carries the person.\n\nThe negative puts **na-** on the participle, as in the perfect: [[نرفته بودم|na-rafte budam|I hadn't gone]]; in a compound verb it goes on the verb part: [[تعریف نکرده بود|ta'rif na-karde bud|he hadn't told]].\n\nWith verbs of position – [[نشستن|neshastan|to sit]], [[ایستادن|istādan|to stand]], [[خوابیدن|khābidan|to lie, to sleep]] – the past perfect usually describes a **state**: [[نشسته بودند|neshaste budand]] is *they were sitting*, not *they had sat down*.\n\nIn speech only the plural endings change, as everywhere: [[رفته بودن|rafte budan]], [[رفته بودین|rafte budin]].",
+   "table": {
+    "head": [
+     "Person",
+     "Written",
+     "Spoken",
+     "English"
+    ],
+    "rows": [
+     [
+      "I",
+      "[[رفته بودم|rafte budam]]",
+      "[[رفته بودم|rafte budam]]",
+      "I had gone"
+     ],
+     [
+      "you",
+      "[[رفته بودی|rafte budi]]",
+      "[[رفته بودی|rafte budi]]",
+      "you had gone"
+     ],
+     [
+      "he / she",
+      "[[رفته بود|rafte bud]]",
+      "[[رفته بود|rafte bud]]",
+      "he / she had gone"
+     ],
+     [
+      "we",
+      "[[رفته بودیم|rafte budim]]",
+      "[[رفته بودیم|rafte budim]]",
+      "we had gone"
+     ],
+     [
+      "you (polite, plural)",
+      "[[رفته بودید|rafte budid]]",
+      "[[رفته بودین|rafte budin]]",
+      "you had gone"
+     ],
+     [
+      "they",
+      "[[رفته بودند|rafte budand]]",
+      "[[رفته بودن|rafte budan]]",
+      "they had gone"
+     ],
+     [
+      "negative",
+      "[[نرفته بودم|na-rafte budam]]",
+      "[[نرفته بودم|na-rafte budam]]",
+      "I hadn't gone"
+     ],
+     [
+      "compound verb",
+      "[[تعریف کرده بود|ta'rif karde bud]]",
+      "[[تعریف کرده بود|ta'rif karde bud]]",
+      "he / she had told"
+     ],
+     [
+      "position verb",
+      "[[نشسته بودند|neshaste budand]]",
+      "[[نشسته بودن|neshaste budan]]",
+      "they were sitting"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "وقتی به ایستگاه رسیدم، قطار رفته بود.",
+     "r": "vaghti be istgāh residam, ghatār rafte bud.",
+     "en": "When I got to the station, the train had gone.",
+     "col": "وقتی رسیدم ایستگاه، قطار رفته بود.",
+     "colR": "vaghti residam istgāh, ghatār rafte bud."
+    },
+    {
+     "fa": "سارا قبلاً هیچ‌وقت دریا ندیده بود.",
+     "r": "Sārā ghablan hich-vaght daryā na-dide bud.",
+     "en": "Sara had never seen the sea before."
+    },
+    {
+     "fa": "بازرگان پشیمان شد که آن پیغام را رسانده بود.",
+     "r": "bāzargān pashimān shod ke ān peyghām rā resānde bud.",
+     "en": "The merchant was sorry that he had delivered the message."
+    },
+    {
+     "fa": "مهمان‌ها رفته بودند و خانه ساکت بود.",
+     "r": "mehmān-hā rafte budand va khāne sāket bud.",
+     "en": "The guests had left and the house was quiet.",
+     "col": "مهمونا رفته بودن و خونه ساکت بود.",
+     "colR": "mehmun-ā rafte budan o khune sāket bud."
+    },
+    {
+     "fa": "تا آن روز به کسی دروغ نگفته بودم.",
+     "r": "tā ān ruz be kas-i dorugh na-gofte budam.",
+     "en": "Until that day I had never lied to anyone.",
+     "col": "تا اون روز به کسی دروغ نگفته بودم.",
+     "colR": "tā un ruz be kas-i dorugh na-gofte budam."
+    },
+    {
+     "fa": "امیر شام را درست کرده بود، ولی کسی گرسنه نبود.",
+     "r": "Amir shām rā dorost karde bud, vali kas-i gorosne na-bud.",
+     "en": "Amir had made dinner, but nobody was hungry.",
+     "col": "امیر شامو درست کرده بود، ولی کسی گشنه نبود.",
+     "colR": "Amir shām-o dorost karde bud, vali kas-i goshne na-bud."
+    },
+    {
+     "fa": "در را باز کردم؛ کسی پشت در ایستاده بود.",
+     "r": "dar rā bāz kardam; kas-i posht-e dar istāde bud.",
+     "en": "I opened the door; someone was standing behind it.",
+     "col": "درو باز کردم؛ یکی پشت در وایساده بود.",
+     "colR": "dar-o bāz kardam; yek-i posht-e dar vāysāde bud.",
+     "note": "A position verb: [[ایستاده بود|istāde bud]] = *was standing*. Spoken Persian uses [[وایسادن|vāysādan]] for ایستادن."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Three tenses, three jobs",
+   "md": "In a story each past tense has its own job:\n\n- The **simple past** is the line of events, one after another: [[لرزید، از درخت افتاد و مرد|larzid, az derakht oftād va mord|it trembled, fell from the tree and died]]. If you can put *and then…* in front of it, it is an event.\n- The **past continuous** paints the background – what was going on, what used to happen: [[آواز می‌خواندند|āvāz mi-khāndand|they were singing]], [[خیلی شیرین حرف می‌زد|kheyli shirin harf mi-zad|it used to talk very sweetly]]. With [[داشتن|dāshtan]] in front, it is an action caught in the middle, usually just before something interrupts it: [[داشت آماده می‌شد|dāsht āmāde mi-shod|he was getting ready]].\n- The **past perfect** steps back to something that had already happened: [[طوطی را از هندوستان آورده بودند|tuti rā az Hendustān āvarde budand|the parrot had been brought from India]]. Use it only for the step back; once you are there, go on in the simple past.\n\nThe classic pattern of an anecdote is *background + sudden event*, joined by [[که|ke]] – which here means *when*: [[داشتم می‌خوابیدم که تلفن زنگ زد|dāshtam mi-khābidam ke telefon zang zad|I was falling asleep when the phone rang]]. Here is one sentence in all the past tenses you know:",
+   "table": {
+    "head": [
+     "What it does",
+     "Persian",
+     "English"
+    ],
+    "rows": [
+     [
+      "an event",
+      "[[بازرگان به هندوستان رفت.|bāzargān be Hendustān raft.]]",
+      "The merchant went to India."
+     ],
+     [
+      "background, habit",
+      "[[بازرگان به هندوستان می‌رفت.|bāzargān be Hendustān mi-raft.]]",
+      "The merchant was going / used to go to India."
+     ],
+     [
+      "in the middle of it",
+      "[[بازرگان داشت به هندوستان می‌رفت.|bāzargān dāsht be Hendustān mi-raft.]]",
+      "The merchant was on his way to India."
+     ],
+     [
+      "earlier than the story",
+      "[[بازرگان به هندوستان رفته بود.|bāzargān be Hendustān rafte bud.]]",
+      "The merchant had gone to India."
+     ],
+     [
+      "result now (not for stories)",
+      "[[بازرگان به هندوستان رفته است.|bāzargān be Hendustān rafte ast.]]",
+      "The merchant has gone to India (and is there now)."
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "داشتم می‌خوابیدم که تلفن زنگ زد.",
+     "r": "dāshtam mi-khābidam ke telefon zang zad.",
+     "en": "I was falling asleep when the phone rang."
+    },
+    {
+     "fa": "باران می‌بارید و خیابان‌ها خلوت بود.",
+     "r": "bārān mi-bārid va khiyābān-hā khalvat bud.",
+     "en": "It was raining and the streets were empty.",
+     "col": "بارون می‌بارید و خیابونا خلوت بود.",
+     "colR": "bārun mi-bārid o khiyābun-ā khalvat bud."
+    },
+    {
+     "fa": "وقتی رسیدیم، فیلم شروع شده بود.",
+     "r": "vaghti residim, film shoru' shode bud.",
+     "en": "When we arrived, the film had started."
+    },
+    {
+     "fa": "مینا تازه از سفر برگشته بود و خیلی خسته بود.",
+     "r": "Minā tāze az safar bar-gashte bud va kheyli khaste bud.",
+     "en": "Mina had just come back from a trip and was very tired."
+    },
+    {
+     "fa": "بچه که بودم، هر تابستان به خانه‌ی مادربزرگم می‌رفتیم.",
+     "r": "bacche ke budam, har tābestān be khāne-ye mādar-bozorg-am mi-raftim.",
+     "en": "When I was a child, we used to go to my grandmother's every summer.",
+     "col": "بچه که بودم، هر تابستون می‌رفتیم خونه‌ی مادربزرگم.",
+     "colR": "bacche ke budam, har tābestun mi-raftim khune-ye mādar-bozorg-am."
+    },
+    {
+     "fa": "آقای کریمی کلیدش را گم کرده بود، برای همین پشت در ماند.",
+     "r": "āghā-ye Karimi kelid-ash rā gom karde bud, barā-ye hamin posht-e dar mānd.",
+     "en": "Mr Karimi had lost his key, so he was stuck outside the door.",
+     "col": "آقای کریمی کلیدشو گم کرده بود، واسه همین پشت در موند.",
+     "colR": "āghā-ye Karimi kelid-esh-o gom karde bud, vāse hamin posht-e dar mund."
+    },
+    {
+     "fa": "همه منتظر بودند، ولی عروس هنوز نیامده بود.",
+     "r": "hame montazer budand, vali 'arus hanuz na-yāmade bud.",
+     "en": "Everyone was waiting, but the bride hadn't arrived yet.",
+     "col": "همه منتظر بودن، ولی عروس هنوز نیومده بود.",
+     "colR": "hame montazer budan, vali 'arus hanuz na-yumade bud."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Moving the story on: time words",
+   "md": "The small words between the sentences make a story flow. With each one, watch two things: which tense follows, and whether it needs [[که|ke]].\n\n- [[پیش از آن‌که|pish az ān-ke|before]] (spoken [[قبل از این‌که|ghabl az in-ke]]) is always followed by the **subjunctive**, even in a story about the past – at that moment the event has not happened yet: [[پیش از آن‌که راه بیفتد|pish az ān-ke rāh biyoftad|before he set off]].\n- [[بعد از این‌که|ba'd az in-ke|after]] takes an ordinary past tense, usually the simple past: [[بعد از این‌که برگشت|ba'd az in-ke bar-gasht|after he came back]].\n- [[وقتی که|vaghti ke|when]], [[همین که|hamin ke|as soon as]] and [[تا این‌که|tā in-ke|until (at last)]] take the simple past for a single event. In speech [[تا|tā]] alone often means *as soon as*: [[تا منو دید|tā man-o did|as soon as he saw me]].\n- [[ناگهان|nāgahān|suddenly]] and [[سرانجام|saranjām|in the end]] are adverbs: no که, no change of tense. In speech you hear [[یهو|yeho]] and [[بالاخره|bālākhare]] instead.\n\nBefore a noun, use the short prepositions without که: [[پیش از سفر|pish az safar|before the journey]], [[بعد از شام|ba'd az shām|after dinner]].",
+   "table": {
+    "head": [
+     "Written",
+     "Spoken",
+     "Meaning",
+     "Verb after it"
+    ],
+    "rows": [
+     [
+      "[[وقتی که|vaghti ke]]",
+      "[[وقتی|vaghti]]",
+      "when",
+      "any past tense"
+     ],
+     [
+      "[[همین که|hamin ke]]",
+      "[[همین که|hamin ke]], [[تا|tā]]",
+      "as soon as",
+      "simple past"
+     ],
+     [
+      "[[بعد از این‌که|ba'd az in-ke]]",
+      "[[بعد از این‌که|ba'd az in-ke]]",
+      "after",
+      "simple past (or past perfect)"
+     ],
+     [
+      "[[پیش از آن‌که|pish az ān-ke]]",
+      "[[قبل از این‌که|ghabl az in-ke]]",
+      "before",
+      "subjunctive – always"
+     ],
+     [
+      "[[تا این‌که|tā in-ke]]",
+      "[[تا این‌که|tā in-ke]]",
+      "until (at last)",
+      "simple past"
+     ],
+     [
+      "[[ناگهان|nāgahān]]",
+      "[[یهو|yeho]], [[یک‌دفعه|yek-daf'e]]",
+      "suddenly",
+      "no change (adverb)"
+     ],
+     [
+      "[[سرانجام|saranjām]]",
+      "[[بالاخره|bālākhare]], [[آخرش|ākhar-esh]]",
+      "finally, in the end",
+      "no change (adverb)"
+     ],
+     [
+      "[[در همین موقع|dar hamin mowghe']]",
+      "[[همون موقع|hamun mowghe']]",
+      "just then",
+      "no change (adverb)"
+     ],
+     [
+      "[[یک روز|yek ruz]]",
+      "[[یه روز|ye ruz]]",
+      "one day",
+      "sets the scene"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "پیش از آن‌که مهمان‌ها برسند، خانه را تمیز کردیم.",
+     "r": "pish az ān-ke mehmān-hā beresand, khāne rā tamiz kardim.",
+     "en": "Before the guests arrived, we cleaned the house.",
+     "col": "قبل از این‌که مهمونا برسن، خونه رو تمیز کردیم.",
+     "colR": "ghabl az in-ke mehmun-ā beresan, khune ro tamiz kardim.",
+     "note": "Subjunctive [[برسند|beresand]], although the whole sentence is in the past."
+    },
+    {
+     "fa": "بعد از این‌که شام خوردیم، پدربزرگ قصه گفت.",
+     "r": "ba'd az in-ke shām khordim, pedar-bozorg ghesse goft.",
+     "en": "After we had dinner, Grandfather told a story.",
+     "col": "بعد از این‌که شام خوردیم، بابابزرگ قصه گفت.",
+     "colR": "ba'd az in-ke shām khordim, bābā-bozorg ghesse goft."
+    },
+    {
+     "fa": "همین که در را باز کردم، گربه فرار کرد.",
+     "r": "hamin ke dar rā bāz kardam, gorbe farār kard.",
+     "en": "As soon as I opened the door, the cat ran away.",
+     "col": "تا درو باز کردم، گربه فرار کرد.",
+     "colR": "tā dar-o bāz kardam, gorbe farār kard."
+    },
+    {
+     "fa": "یک ساعت منتظر ماندیم، تا این‌که بالاخره اتوبوس آمد.",
+     "r": "yek sā'at montazer māndim, tā in-ke bālākhare otobus āmad.",
+     "en": "We waited for an hour, until at last the bus came.",
+     "col": "یه ساعت منتظر موندیم، تا این‌که بالاخره اتوبوس اومد.",
+     "colR": "ye sā'at montazer mundim, tā in-ke bālākhare otobus umad."
+    },
+    {
+     "fa": "داشتیم در پارک قدم می‌زدیم که ناگهان باران گرفت.",
+     "r": "dāshtim dar pārk ghadam mi-zadim ke nāgahān bārān gereft.",
+     "en": "We were walking in the park when suddenly it started to rain.",
+     "col": "داشتیم تو پارک قدم می‌زدیم که یهو بارون گرفت.",
+     "colR": "dāshtim tu pārk ghadam mi-zadim ke yeho bārun gereft."
+    },
+    {
+     "fa": "وقتی که تام به تهران آمد، یک کلمه فارسی بلد نبود.",
+     "r": "vaghti ke Tām be Tehrān āmad, yek kalame fārsi balad na-bud.",
+     "en": "When Tom came to Tehran, he didn't know a word of Persian.",
+     "col": "وقتی تام اومد تهران، یه کلمه فارسی بلد نبود.",
+     "colR": "vaghti Tām umad Tehrān, ye kalame fārsi balad na-bud."
+    },
+    {
+     "fa": "سرانجام بعد از سه سال، خانه‌ای را که می‌خواستند خریدند.",
+     "r": "saranjām ba'd az se sāl, khāne-i rā ke mi-khāstand kharidand.",
+     "en": "Finally, after three years, they bought the house they wanted.",
+     "col": "آخرش بعد از سه سال، خونه‌ای رو که می‌خواستن خریدن.",
+     "colR": "ākhar-esh ba'd az se sāl, khune-i ro ke mi-khāstan kharidan."
+    }
+   ]
+  },
+  {
+   "type": "dialogue",
+   "title": "A night on the Chalus road",
+   "context": "Over tea, Mahsa asks Dariush to tell Tom what happened to him last winter on the Chalus road, the mountain road from Tehran to the Caspian. Listen to how a true story is told in speech – and how the listeners keep it going.",
+   "lines": [
+    {
+     "who": "Mahsa",
+     "fa": "داریوش، آن ماجرای جاده‌ی چالوس را برای تام تعریف کن!",
+     "r": "Dāryush, ān mājarā-ye jādde-ye Chālus rā barā-ye Tām ta'rif kon!",
+     "en": "Dariush, tell Tom that story about the Chalus road!",
+     "col": "داریوش، اون ماجرای جاده‌ی چالوسو برای تام تعریف کن!",
+     "colR": "Dāryush, un mājarā-ye jādde-ye Chālus-o barā-ye Tām ta'rif kon!"
+    },
+    {
+     "who": "Dariush",
+     "fa": "زمستان پارسال بود. داشتم تنها به شمال می‌رفتم و برف سنگینی می‌آمد.",
+     "r": "zemestān-e pārsāl bud. dāshtam tanhā be shomāl mi-raftam va barf-e sangin-i mi-āmad.",
+     "en": "It was last winter. I was driving up to the north on my own, and it was snowing heavily.",
+     "col": "زمستون پارسال بود. داشتم تنهایی می‌رفتم شمال، برف سنگینی هم میومد.",
+     "colR": "zemestun-e pārsāl bud. dāshtam tanhāyi mi-raftam shomāl, barf-e sangin-i ham miyumad."
+    },
+    {
+     "who": "Dariush",
+     "fa": "نزدیک‌های نیمه‌شب بود که ناگهان ماشین خاموش شد.",
+     "r": "nazdik-hā-ye nime-shab bud ke nāgahān māshin khāmush shod.",
+     "en": "It was nearly midnight when suddenly the car died.",
+     "col": "نزدیکای نصفه‌شب بود که یهو ماشین خاموش شد.",
+     "colR": "nazdik-ā-ye nesfe-shab bud ke yeho māshin khāmush shod."
+    },
+    {
+     "who": "Tom",
+     "fa": "وای! وسط کوه؟ بعدش چه شد؟",
+     "r": "vāy! vasat-e kuh? ba'd-ash che shod?",
+     "en": "Oh no! In the middle of the mountains? What happened next?",
+     "col": "وای! وسط کوه؟ بعدش چی شد؟",
+     "colR": "vāy! vasat-e kuh? ba'd-esh chi shod?"
+    },
+    {
+     "who": "Dariush",
+     "fa": "هیچ! موبایلم آنتن نمی‌داد و شارژش هم تمام شده بود، چون صبح یادم رفته بود آن را شارژ کنم.",
+     "r": "hich! mobāyl-am ānten nemi-dād va shārzh-ash ham tamām shode bud, chon sobh yād-am rafte bud ān rā shārzh konam.",
+     "en": "Nothing! My phone had no signal, and the battery had run out too, because I'd forgotten to charge it that morning.",
+     "col": "هیچی! موبایلم آنتن نمی‌داد، شارژشم تموم شده بود، چون صبح یادم رفته بود شارژش کنم.",
+     "colR": "hichi! mobāyl-am ānten nemi-dād, shārzh-esh-am tamum shode bud, chon sobh yād-am rafte bud shārzh-esh konam."
+    },
+    {
+     "who": "Mahsa",
+     "fa": "اگر من بودم، از ترس می‌مردم!",
+     "r": "agar man budam, az tars mi-mordam!",
+     "en": "If it had been me, I'd have died of fright!",
+     "col": "من بودم از ترس می‌مردم!",
+     "colR": "man budam az tars mi-mordam!"
+    },
+    {
+     "who": "Dariush",
+     "fa": "راستش خودم هم خیلی ترسیده بودم. یک ساعت در ماشین نشستم و منتظر ماندم.",
+     "r": "rāst-ash khod-am ham kheyli tarside budam. yek sā'at dar māshin neshastam va montazer māndam.",
+     "en": "To be honest, I was really scared myself. I sat in the car for an hour and waited.",
+     "col": "راستش خودمم خیلی ترسیده بودم. یه ساعت تو ماشین نشستم و منتظر موندم.",
+     "colR": "rāst-esh khod-am-am kheyli tarside budam. ye sā'at tu māshin neshastam o montazer mundam."
+    },
+    {
+     "who": "Dariush",
+     "fa": "تا این‌که یک نور کوچک از دور پیدا شد. یک پیرمرد با چراغ‌قوه داشت به طرف من می‌آمد!",
+     "r": "tā in-ke yek nur-e kuchak az dur peydā shod. yek pirmard bā cherāgh-ghove dāsht be taraf-e man mi-āmad!",
+     "en": "Until a little light appeared in the distance. An old man with a torch was coming towards me!",
+     "col": "تا این‌که یه نور کوچیک از دور پیدا شد. می‌بینم یه پیرمرد با چراغ‌قوه داره میاد طرف من!",
+     "colR": "tā in-ke ye nur-e kuchik az dur peydā shod. mi-binam ye pirmard bā cherāgh-ghove dāre miyād taraf-e man!",
+     "note": "In the spoken version Dariush jumps into the present – [[می‌بینم|mi-binam|I see]] … [[داره میاد|dāre miyād|he's coming]] – to bring the big moment closer."
+    },
+    {
+     "who": "Tom",
+     "fa": "جدی؟ آن وقت شب؟",
+     "r": "jeddi? ān vaght-e shab?",
+     "en": "Really? At that time of night?",
+     "col": "جدی؟ اون وقت شب؟",
+     "colR": "jeddi? un vaght-e shab?"
+    },
+    {
+     "who": "Dariush",
+     "fa": "بله! خانه‌اش همان نزدیکی بود و صدای ماشین را شنیده بود. مرا به خانه‌اش برد و زنش برایم چای و آش آورد.",
+     "r": "bale! khāne-ash hamān nazdiki bud va sedā-ye māshin rā shenide bud. marā be khāne-ash bord va zan-ash barā-yam chāy o āsh āvard.",
+     "en": "Yes! His house was close by and he had heard the car. He took me home with him, and his wife brought me tea and āsh.",
+     "col": "آره! خونه‌ش همون نزدیکی بود، صدای ماشینو شنیده بود. منو برد خونه‌ش، زنش هم برام چایی و آش آورد.",
+     "colR": "āre! khune-sh hamun nazdiki bud, sedā-ye māshin-o shenide bud. man-o bord khune-sh, zan-esh ham barā-m chāyi o āsh āvord."
+    },
+    {
+     "who": "Mahsa",
+     "fa": "دیدی! همیشه می‌گویم مردم روستا از همه مهمان‌نوازترند.",
+     "r": "didi! hamishe mi-guyam mardom-e rustā az hame mehmān-navāz-tar-and.",
+     "en": "You see! I always say village people are the most hospitable of all.",
+     "col": "دیدی! همیشه می‌گم مردم روستا از همه مهمون‌نوازترن.",
+     "colR": "didi! hamishe mi-gam mardom-e rustā az hame mehmun-navāz-tar-an."
+    },
+    {
+     "who": "Dariush",
+     "fa": "صبح پسرش ماشین را درست کرد و پولی هم قبول نکرد. حالا هر سال عید به آن‌ها سر می‌زنم.",
+     "r": "sobh pesar-ash māshin rā dorost kard va pul-i ham ghabul na-kard. hālā har sāl 'eyd be ān-hā sar mi-zanam.",
+     "en": "In the morning his son fixed the car and wouldn't take any money. Now I visit them every year at Nowruz.",
+     "col": "صبح پسرش ماشینو درست کرد، پول هم قبول نکرد. حالا هر سال عید بهشون سر می‌زنم.",
+     "colR": "sobh pesar-esh māshin-o dorost kard, pul ham ghabul na-kard. hālā har sāl 'eyd behe-shun sar mi-zanam."
+    },
+    {
+     "who": "Tom",
+     "fa": "چه جالب! پس آن شب بدترین شب زمستان نبود، بهترینش بود!",
+     "r": "che jāleb! pas ān shab badtarin shab-e zemestān na-bud, behtarin-ash bud!",
+     "en": "How lovely! So that night wasn't the worst night of the winter – it was the best!",
+     "col": "چه جالب! پس اون شب بدترین شب زمستون نبود، بهترینش بود!",
+     "colR": "che jāleb! pas un shab badtarin shab-e zemestun na-bud, behtarin-esh bud!"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "قصه‌ی ما به سر رسید، کلاغه به خانه‌اش نرسید!",
+     "r": "ghesse-ye mā be sar resid, kalāghe be khāne-ash na-resid!",
+     "en": "And so our story ends – and the crow never got home!",
+     "lit": "our story reached its end, the crow did not reach its home",
+     "col": "قصه‌ی ما به سر رسید، کلاغه به خونه‌ش نرسید!",
+     "colR": "ghesse-ye mā be sar resid, kalāghe be khune-sh na-resid!"
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "From grandmother to the naqqāl",
+   "md": "**Winter nights.** Before television, stories filled the long winter evenings. Grandmothers told [[قصه|ghesse|tales]] around the [[کرسی|korsi]] – a low table over a brazier, covered with a quilt that everyone pulled up to the chin. The heroes were clever bald boys ([[کچل|kachal]]), demons ([[دیو|div]]), kings with three sons and talking animals. In the 1940s and 50s Fazlollah Sobhi collected hundreds of these tales and told them on Radio Tehran, and a generation of children grew up with his voice.\n\n**The naqqāl.** In the coffee houses, a professional storyteller, the [[نقال|naghghāl]], performed the heroes of Ferdowsi's *Shahnameh* – Rostam, Sohrab, Esfandiyar – for men drinking tea. He walked, shouted, whispered and fought with his stick, sometimes in front of a large painted canvas of the battle. A good naqqāl stopped at the most exciting moment, so that the audience would come back the next night. In 2011 UNESCO listed naqqāli as heritage in need of urgent safeguarding; a few masters still perform, and young naqqāls, women among them, are learning the art again.\n\n**A thousand and one nights.** The most famous storyteller of all has a Persian name: [[شهرزاد|Shahrzād]], who kept herself alive by telling a king a new story every night and stopping at dawn. Her collection probably goes back to a lost Persian book, [[هزار افسان|hezār afsān|a thousand tales]].",
+   "image": "iranian-coffeehouse-painting"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "Before you retell a story, sort it: which sentences are the line of events (simple past), which are the scenery (past continuous)? If you can say 'and then…' in front of it, it is an event.",
+    "پیش از آن‌که and قبل از این‌که always take the subjunctive, even about the past: قبل از این‌که برسیم – never *قبل از این‌که رسیدیم.",
+    "Don't overuse the past perfect. Step back with it once (آورده بودند), then carry on in the simple past – exactly as in English.",
+    "In speech, که often joins the background and the event: داشتم می‌رفتم که دیدمش 'I was walking along when I saw him'. Here که means 'when', not 'that'.",
+    "Listeners keep a story alive: جدی؟ (really?), خب، بعدش چی شد؟ (so what happened next?), نه بابا! (no way!), وای! (oh no!). Use them – an Iranian storyteller expects them.",
+    "To retell the parrot story, first tell it in five sentences using only the time words (یک روز… پیش از آن‌که… تا این‌که… همین که… سرانجام…), then add the background and the past perfects."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Which past?",
+   "items": [
+    {
+     "fa": "وقتی به ایستگاه رسیدم، قطار ___ بود.",
+     "r": "vaghti be istgāh residam, ghatār ___ bud.",
+     "en": "When I reached the station, the train had left.",
+     "answer": "رفته",
+     "hint": "past perfect of رفتن"
+    },
+    {
+     "fa": "داشتم شام ___ که برق رفت.",
+     "r": "dāshtam shām ___ ke bargh raft.",
+     "en": "I was having dinner when the power went off.",
+     "answer": "می‌خوردم",
+     "hint": "past continuous of خوردن"
+    },
+    {
+     "fa": "پیش از آن‌که مهمان‌ها ___، خانه را تمیز کردیم.",
+     "r": "pish az ān-ke mehmān-hā ___, khāne rā tamiz kardim.",
+     "en": "Before the guests arrived, we cleaned the house.",
+     "answer": "برسند",
+     "hint": "subjunctive of رسیدن"
+    },
+    {
+     "fa": "یک ساعت منتظر ماندیم، ___ این‌که اتوبوس آمد.",
+     "r": "yek sā'at montazer māndim, ___ in-ke otobus āmad.",
+     "en": "We waited for an hour, until the bus came.",
+     "answer": "تا",
+     "hint": "until (at last)"
+    },
+    {
+     "fa": "طوطی هندی ___ بود؛ فقط خودش را به مردن زده بود.",
+     "r": "tuti-ye hendi ___ bud; faghat khod-ash rā be mordan zade bud.",
+     "en": "The Indian parrot hadn't died; it had only pretended to be dead.",
+     "answer": "نمرده",
+     "hint": "negative past perfect of مردن"
+    },
+    {
+     "fa": "بچه که بودم، هر تابستان به شمال ___.",
+     "r": "bacche ke budam, har tābestān be shomāl ___.",
+     "en": "When I was a child, we used to go to the north every summer.",
+     "answer": "می‌رفتیم",
+     "hint": "a habit in the past"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Tenses and time words",
+   "items": [
+    {
+     "q": "Which time word is always followed by the subjunctive?",
+     "options": [
+      "بعد از این‌که",
+      "پیش از آن‌که",
+      "همین که"
+     ],
+     "answer": 1,
+     "explain": "پیش از آن‌که / قبل از این‌که: at that point in the story the event has not happened yet."
+    },
+    {
+     "q": "[[داشتم می‌خوابیدم که تلفن زنگ زد.|dāshtam mi-khābidam ke telefon zang zad.]] – which action was interrupted?",
+     "options": [
+      "the phone ringing",
+      "falling asleep",
+      "neither"
+     ],
+     "answer": 1,
+     "explain": "داشتم می‌خوابیدم is the background caught in the middle; زنگ زد is the sudden event."
+    },
+    {
+     "q": "Which sentence means 'When I arrived, they had eaten'?",
+     "options": [
+      "وقتی رسیدم، غذا خوردند.",
+      "وقتی رسیدم، غذا خورده بودند.",
+      "وقتی رسیدم، غذا می‌خوردند."
+     ],
+     "answer": 1,
+     "explain": "خورده بودند = they had (already) eaten. خوردند = they ate (after I came); می‌خوردند = they were eating."
+    },
+    {
+     "q": "How does a Persian folk tale traditionally begin?",
+     "options": [
+      "قصه‌ی ما به سر رسید",
+      "یکی بود یکی نبود",
+      "خسته نباشید"
+     ],
+     "answer": 1,
+     "explain": "…and قصه‌ی ما به سر رسید، کلاغه به خونه‌اش نرسید is how it ends."
+    },
+    {
+     "q": "In a spoken anecdote, [[یهو|yeho]] means…",
+     "options": [
+      "finally",
+      "suddenly",
+      "before"
+     ],
+     "answer": 1,
+     "explain": "یهو and یک‌دفعه are the spoken words for ناگهان."
+    },
+    {
+     "q": "[[چند طوطی روی شاخه نشسته بودند.|chand tuti ru-ye shākhe neshaste budand.]] means…",
+     "options": [
+      "A few parrots had sat on the branch and left.",
+      "A few parrots were sitting on the branch.",
+      "A few parrots will sit on the branch."
+     ],
+     "answer": 1,
+     "explain": "With position verbs (نشستن، ایستادن، خوابیدن) the past perfect describes a state."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Retell the tale: put the words in order",
+   "items": [
+    {
+     "fa": "یکی بود یکی نبود، غیر از خدا هیچ‌کس نبود.",
+     "r": "yek-i bud yek-i na-bud, gheyr az khodā hich-kas na-bud.",
+     "en": "Once upon a time, there was nobody but God."
+    },
+    {
+     "fa": "طوطی را سال‌ها پیش از هندوستان آورده بودند.",
+     "r": "tuti rā sāl-hā pish az Hendustān āvarde budand.",
+     "en": "The parrot had been brought from India years before."
+    },
+    {
+     "fa": "بازرگان داشت برای سفر آماده می‌شد.",
+     "r": "bāzargān dāsht barā-ye safar āmāde mi-shod.",
+     "en": "The merchant was getting ready for the journey."
+    },
+    {
+     "fa": "همین که پیغام را گفت، طوطی از درخت افتاد.",
+     "r": "hamin ke peyghām rā goft, tuti az derakht oftād.",
+     "en": "As soon as he gave the message, the parrot fell from the tree."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Time words",
+   "items": [
+    {
+     "fa": "ناگهان",
+     "r": "nāgahān",
+     "en": "suddenly"
+    },
+    {
+     "fa": "بعد از این‌که",
+     "r": "ba'd az in-ke",
+     "en": "after"
+    },
+    {
+     "fa": "پیش از آن‌که",
+     "r": "pish az ān-ke",
+     "en": "before"
+    },
+    {
+     "fa": "همین که",
+     "r": "hamin ke",
+     "en": "as soon as"
+    },
+    {
+     "fa": "وقتی که",
+     "r": "vaghti ke",
+     "en": "when"
+    },
+    {
+     "fa": "تا این‌که",
+     "r": "tā in-ke",
+     "en": "until (at last)"
+    },
+    {
+     "fa": "سرانجام",
+     "r": "saranjām",
+     "en": "finally, in the end"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "When we got to the cinema, the film had started.",
+     "fa": "وقتی به سینما رسیدیم، فیلم شروع شده بود.",
+     "r": "vaghti be sinamā residim, film shoru' shode bud."
+    },
+    {
+     "en": "I was reading a book when suddenly the lights went out.",
+     "fa": "داشتم کتاب می‌خواندم که ناگهان چراغ‌ها خاموش شدند.",
+     "r": "dāshtam ketāb mi-khāndam ke nāgahān cherāgh-hā khāmush shodand."
+    },
+    {
+     "en": "Before he left, he said goodbye to everyone.",
+     "fa": "پیش از آن‌که برود، با همه خداحافظی کرد.",
+     "r": "pish az ān-ke beravad, bā hame khodāhāfezi kard."
+    },
+    {
+     "en": "After the parrot flew away, the merchant sat alone in the garden.",
+     "fa": "بعد از این‌که طوطی پرواز کرد، بازرگان تنها در باغ نشست.",
+     "r": "ba'd az in-ke tuti parvāz kard, bāzargān tanhā dar bāgh neshast."
+    },
+    {
+     "en": "Once upon a time there was a poor shepherd.",
+     "fa": "یکی بود یکی نبود، چوپان فقیری بود.",
+     "r": "yek-i bud yek-i na-bud, chupān-e faghir-i bud."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "همین که مرا دید، فرار کرد.",
+     "r": "hamin ke marā did, farār kard.",
+     "en": "As soon as he saw me, he ran away.",
+     "options": [
+      "As soon as he saw me, he ran away.",
+      "Before he saw me, he ran away.",
+      "He saw me and stayed."
+     ],
+     "answer": 0
+    },
+    {
+     "fa": "وقتی رسیدیم، کنسرت تمام شده بود.",
+     "r": "vaghti residim, konsert tamām shode bud.",
+     "en": "When we arrived, the concert had finished.",
+     "options": [
+      "When we arrived, the concert was starting.",
+      "When we arrived, the concert had finished.",
+      "We arrived after the concert had started."
+     ],
+     "answer": 1
+    },
+    {
+     "fa": "داشتم رانندگی می‌کردم که ماشین خاموش شد.",
+     "r": "dāshtam rānandegi mi-kardam ke māshin khāmush shod.",
+     "en": "I was driving when the car died.",
+     "options": [
+      "I was driving when the car died.",
+      "The car died before I drove it.",
+      "I wasn't driving the car."
+     ],
+     "answer": 0
+    },
+    {
+     "fa": "قصه‌ی ما به سر رسید.",
+     "r": "ghesse-ye mā be sar resid.",
+     "en": "Our story has come to an end.",
+     "options": [
+      "Our story has just begun.",
+      "Our story has come to an end.",
+      "Tell us a story."
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

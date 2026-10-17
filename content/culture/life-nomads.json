@@ -1,0 +1,144 @@
+{
+ "id": "life-nomads",
+ "topic": "life",
+ "title": "The nomads",
+ "titleFa": "عشایر ایران",
+ "titleR": "ashāyer-e Irān",
+ "image": "iranian-nomads",
+ "summary": "Twice a year Iran's nomadic tribes move their flocks between mountain and plain. Meet the Qashqai, the Bakhtiari and the Shahsavan, their black tents and domed felt tents, and the gabbeh rugs their women weave.",
+ "body": [
+  {
+   "h": "Life on the move",
+   "md": "For thousands of years part of Iran's population has lived on the move. The [[عشایر|ashāyer|nomads]], organised in clans, tribes and great tribal confederations – each one an [[ایل|il|tribe]] – raise sheep and goats and follow the grass. Twice a year they make the [[کوچ|kuch|seasonal migration]]: in spring up to the cool mountain pastures of the [[ییلاق|yeylāgh|summer quarters]], in autumn down to the warm lowlands of the [[قشلاق|gheshlāgh|winter quarters]]. Both words come from Turkic. Today many tribal families have settled in towns and villages, and some move their flocks by truck, but the great migrations still take place every year."
+  },
+  {
+   "h": "The Qashqai",
+   "md": "The [[قشقایی|Ghashghāyi|Qashqai]] are a Turkic-speaking confederation of Fars province. In spring they drive their flocks north from the plains near the Persian Gulf to summer pastures in the high Zagros, a journey of several hundred kilometres, and in autumn they come back down. Qashqai women are known for their bright dresses with many layered skirts, and for their weaving: kilims, saddlebags and, above all, the gabbeh.",
+   "image": "qashqai"
+  },
+  {
+   "h": "The Bakhtiari",
+   "md": "The [[بختیاری|Bakhtiyāri|Bakhtiari]] speak a form of Luri and live in the central Zagros. Their migration between the plains of Khuzestan and the high valleys of Chaharmahal and Bakhtiari is famous for its hardship: families cross snowy passes and swift rivers such as the Karun with all their animals and belongings. The 1925 documentary *Grass* followed one of these journeys. Bakhtiari men can be recognised by the [[چوقا|chughā|chugha]], a woollen cloak woven with vertical stripes.",
+   "image": "bakhtiari"
+  },
+  {
+   "h": "The Shahsavan",
+   "md": "In the north-west, the [[شاهسون|Shāhsavan|Shahsavan]] spend the winter on the Moghan steppe, by the border with the Republic of Azerbaijan, and the summer on the slopes of Mount [[سبلان|Sabalān|Sabalan]], near Ardabil. They speak Azerbaijani Turkish, and their name – 'those who love the shah' – goes back to Safavid times. Instead of a black tent they live in the [[آلاچیق|ālāchigh|alachiq]], a round, domed tent of felt over a wooden frame, and their women weave fine flat-woven rugs and bags."
+  },
+  {
+   "h": "The black tent",
+   "md": "The home of most Zagros nomads is the [[سیاه‌چادر|siyāh-chādor|black tent]], woven by the women from black goat hair. When it rains the hair swells and the cloth keeps the water out; in summer the sides are raised to let the breeze through. Inside, the bedding is stacked neatly against the back wall, there is a hearth for bread and tea, and a goatskin bag, the [[مشک|mashk|goatskin bag]], is rocked back and forth to churn milk into butter and [[دوغ|dugh|buttermilk]]. Guests are received with the famous [[مهمان‌نوازی|mehmān-navāzi|hospitality]] of the tribes."
+  },
+  {
+   "h": "The gabbeh",
+   "md": "The [[گبه|gabbe|gabbeh]] is the nomads' own rug: thick, soft and loosely knotted, with a long pile and only a few bold motifs – a lion, a tree, a row of goats, a few human figures – in wide fields of colour. The lion stands for courage and strength. Weavers work from memory rather than from a drawing, so no two gabbehs are alike. Made for the tent floor, they were once hardly known outside the tribes; today their simple, modern-looking designs are sold all over the world. The nomads also weave the flat [[گلیم|gelim|kilim]] and the striped [[جاجیم|jājim|jajim]]."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "عشایر در بهار به ییلاق کوچ می‌کنند.",
+   "r": "ashāyer dar bahār be yeylāgh kuch mi-konand.",
+   "en": "In spring the nomads migrate to their summer pastures."
+  },
+  {
+   "fa": "در پاییز به قشلاق برمی‌گردند.",
+   "r": "dar pāyiz be gheshlāgh bar-mi-gardand.",
+   "en": "In autumn they return to their winter quarters.",
+   "col": "پاییز برمی‌گردن قشلاق.",
+   "colR": "pāyiz bar-mi-gardan gheshlāgh."
+  },
+  {
+   "fa": "قشقایی‌ها در استان فارس زندگی می‌کنند و به ترکی حرف می‌زنند.",
+   "r": "Ghashghāyi-hā dar ostān-e Fārs zendegi mi-konand va be torki harf mi-zanand.",
+   "en": "The Qashqai live in Fars province and speak Turkic.",
+   "col": "قشقایی‌ها تو استان فارس زندگی می‌کنن و ترکی حرف می‌زنن.",
+   "colR": "Ghashghāyi-hā tu ostān-e Fārs zendegi mi-konan o torki harf mi-zanan."
+  },
+  {
+   "fa": "کوچ بختیاری‌ها از کوه‌های بلند زاگرس می‌گذرد.",
+   "r": "kuch-e Bakhtiyāri-hā az kuh-hā-ye boland-e Zāgros mi-gozarad.",
+   "en": "The Bakhtiari migration crosses the high Zagros mountains."
+  },
+  {
+   "fa": "کوچ ممکن است چند هفته طول بکشد.",
+   "r": "kuch momken ast chand hafte tul be-keshad.",
+   "en": "The migration can take several weeks.",
+   "col": "کوچ ممکنه چند هفته طول بکشه.",
+   "colR": "kuch momken-e chand hafte tul be-keshe."
+  },
+  {
+   "fa": "چوپان گله را به کوه می‌برد.",
+   "r": "chupān galle rā be kuh mi-barad.",
+   "en": "The shepherd takes the flock up the mountain.",
+   "col": "چوپان گله رو می‌بره کوه.",
+   "colR": "chupān galle ro mi-bare kuh."
+  },
+  {
+   "fa": "زنان سیاه‌چادر را از موی بز می‌بافند.",
+   "r": "zanān siyāh-chādor rā az mu-ye boz mi-bāfand.",
+   "en": "The women weave the black tent from goat hair."
+  },
+  {
+   "fa": "شاهسون‌ها تابستان را در دامنه‌ی کوه سبلان می‌گذرانند.",
+   "r": "Shāhsavan-hā tābestān rā dar dāmane-ye kuh-e Sabalān mi-gozarānand.",
+   "en": "The Shahsavan spend the summer on the slopes of Mount Sabalan."
+  },
+  {
+   "fa": "آن‌ها از شیر گوسفند ماست و کره و دوغ درست می‌کنند.",
+   "r": "ān-hā az shir-e gusfand māst va kare va dugh dorost mi-konand.",
+   "en": "They make yogurt, butter and buttermilk from sheep's milk.",
+   "col": "اونا از شیر گوسفند ماست و کره و دوغ درست می‌کنن.",
+   "colR": "un-ā az shir-e gusfand māst o kare o dugh dorost mi-konan."
+  },
+  {
+   "fa": "گبه فرشی ضخیم با نقش‌های ساده است.",
+   "r": "gabbe farsh-i zakhim bā naghsh-hā-ye sāde ast.",
+   "en": "A gabbeh is a thick rug with simple designs.",
+   "col": "گبه یه فرش ضخیم با نقشای ساده‌ست.",
+   "colR": "gabbe ye farsh-e zakhim bā naghsh-ā-ye sāde-st."
+  },
+  {
+   "fa": "مهمان‌نوازی عشایر معروف است.",
+   "r": "mehmān-navāzi-ye ashāyer ma'ruf ast.",
+   "en": "The nomads' hospitality is famous.",
+   "col": "مهمون‌نوازی عشایر معروفه.",
+   "colR": "mehmun-navāzi-ye ashāyer ma'ruf-e."
+  },
+  {
+   "fa": "خیلی از عشایر امروز در شهرها و روستاها ساکن شده‌اند.",
+   "r": "kheyli az ashāyer emruz dar shahr-hā va rustā-hā sāken shode-and.",
+   "en": "Many nomads have now settled in towns and villages.",
+   "col": "خیلی از عشایر الان تو شهرا و روستاها ساکن شدن.",
+   "colR": "kheyli az ashāyer alān tu shahr-ā o rustā-hā sāken shodan."
+  }
+ ],
+ "vocab": [
+  {"fa": "عشایر", "r": "ashāyer", "en": "nomads, nomadic tribes"},
+  {"fa": "ایل", "r": "il", "en": "tribe, tribal confederation"},
+  {"fa": "طایفه", "r": "tāyefe", "en": "clan"},
+  {"fa": "کوچ", "r": "kuch", "en": "seasonal migration"},
+  {"fa": "کوچ کردن", "r": "kuch kardan", "en": "to migrate"},
+  {"fa": "ییلاق", "r": "yeylāgh", "en": "summer pasture, summer quarters"},
+  {"fa": "قشلاق", "r": "gheshlāgh", "en": "winter pasture, winter quarters"},
+  {"fa": "چادر", "r": "chādor", "en": "tent; chador"},
+  {"fa": "سیاه‌چادر", "r": "siyāh-chādor", "en": "black (goat-hair) tent"},
+  {"fa": "گله", "r": "galle", "en": "flock, herd"},
+  {"fa": "چوپان", "r": "chupān", "en": "shepherd"},
+  {"fa": "گوسفند", "r": "gusfand", "en": "sheep"},
+  {"fa": "بز", "r": "boz", "en": "goat"},
+  {"fa": "گبه", "r": "gabbe", "en": "gabbeh, a thick tribal rug"},
+  {"fa": "گلیم", "r": "gelim", "en": "kilim, flat-woven rug"},
+  {"fa": "بافتن", "r": "bāftan", "en": "to weave; to knit"},
+  {"fa": "مهمان‌نوازی", "r": "mehmān-navāzi", "en": "hospitality"},
+  {"fa": "ساکن شدن", "r": "sāken shodan", "en": "to settle (down)"}
+ ],
+ "facts": [
+  "Nomads migrate twice a year between yeylāgh, summer pastures in the mountains, and gheshlāgh, winter pastures in the lowlands – both words come from Turkic.",
+  "The Qashqai, a Turkic-speaking confederation of Fars province, are famous for their colourful dress and their gabbehs.",
+  "The 1925 documentary Grass, filmed by Merian C. Cooper and Ernest Schoedsack – later the makers of King Kong – followed a Bakhtiari migration across the Karun and the Zagros.",
+  "The Shahsavan of the north-west winter on the Moghan steppe and spend the summer on the slopes of Mount Sabalan.",
+  "Black tents are woven from goat hair, which swells in the rain and keeps the water out.",
+  "The Shahsavan live in the ālāchigh, a domed felt tent, rather than in a black tent.",
+  "Chādor means both 'tent' and the full-length cloak worn by many Iranian women."
+ ]
+}

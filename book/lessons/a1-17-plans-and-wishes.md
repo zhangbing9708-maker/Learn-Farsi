@@ -297,10 +297,10 @@ And when a long weekend or a holiday comes, Tehran empties northwards. شمال 
 
 **Put the words in order**
 
-1. می‌رویم. / جمعه / توچال / ما / به — We're going to Tochal on Friday.
-2. را / می‌خواهم / ببینم. / خزر / دریای — I want to see the Caspian Sea.
-3. بیایی؟ / داری / دوست / ما / با — Would you like to come with us?
-4. می‌رویم. / بعد / به / هفته‌ی / شمال — Next week we're going north.
+1. جمعه / ما / توچال / به / می‌رویم. — We're going to Tochal on Friday.
+2. خزر / را / می‌خواهم / دریای / ببینم. — I want to see the Caspian Sea.
+3. دوست / بیایی؟ / داری / ما / با — Would you like to come with us?
+4. شمال / هفته‌ی / به / بعد / می‌رویم. — Next week we're going north.
 
 <details><summary>Answers</summary>
 

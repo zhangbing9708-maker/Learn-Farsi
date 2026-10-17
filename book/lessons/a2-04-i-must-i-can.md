@@ -322,10 +322,10 @@ Universities, offices and groups of friends often have their own گروه کوه
 
 **Put the words in order**
 
-1. شش / باشی. / آن‌جا / باید / ساعت — You have to be there at six.
-2. بلند / در / حرف / کتابخانه / نباید / بزنید. — You mustn't talk loudly in the library.
-3. کنی؟ / رانندگی / می‌توانی — Can you drive?
-4. سینما / برویم. / امشب / به / شاید — We might go to the cinema tonight.
+1. ساعت / آن‌جا / شش / باید / باشی. — You have to be there at six.
+2. در / بلند / کتابخانه / نباید / حرف / بزنید. — You mustn't talk loudly in the library.
+3. رانندگی / می‌توانی / کنی؟ — Can you drive?
+4. سینما / امشب / برویم. / به / شاید — We might go to the cinema tonight.
 
 <details><summary>Answers</summary>
 

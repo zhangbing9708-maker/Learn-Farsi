@@ -1,0 +1,308 @@
+{
+ "id": "life-the-bazaar",
+ "topic": "life",
+ "title": "The bazaar",
+ "titleFa": "بازار",
+ "titleR": "bāzār",
+ "image": "grand-bazaar-tehran",
+ "summary": "Rows of shops grouped by trade, hidden caravanserais, domed halls and merchants who seal deals over a glass of tea: how the traditional Iranian bazaar works – with the phrases you need to bargain in it.",
+ "body": [
+  {
+   "h": "A city under one roof",
+   "md": "In the old cities of Iran the [[بازار|bāzār|bazaar]] is not just a market but the spine of the town: a covered street of brick vaults, sometimes several kilometres long, often linking a city gate with the [[مسجد جامع|masjed-e jāme'|Friday mosque]]. Light falls through openings in the domes, the air stays cool in summer and dry in winter, and inside there are not only shops but mosques, schools, bathhouses, tea houses and workshops. English borrowed the word itself from Persian."
+  },
+  {
+   "h": "Rows by trade",
+   "md": "A traditional bazaar is organised by trade. Each [[راسته|rāste|row]] belongs to one craft or one kind of goods and often carries its name: the row of the [[مسگر|mesgar|coppersmith]]s, ringing with hammers; the goldsmiths' row of the [[زرگر|zargar|goldsmith]]s; the carpet sellers; the shoemakers; the [[عطاری|attāri|herbalist's shop]]s with their sacks of dried flowers, roots and spices. Customers can compare prices from shop to shop, and the members of each [[صنف|senf|guild]] keep an eye on one another. Where two main rows cross, a great dome rises over the [[چهارسو|chahār-su|crossing]].",
+   "image": "zanjan"
+  },
+  {
+   "h": "Caravanserais and timchehs",
+   "md": "Behind the shopfronts open quieter courtyards. A [[کاروانسرا|kārvānsarā|caravanserai]], or simply [[سرا|sarā|sara]], inside the bazaar is where caravans once unloaded: a courtyard with a pool, surrounded by two storeys of rooms used as storerooms and merchants' offices. A [[تیمچه|timche|timcheh]] is a smaller, roofed version, often crowned by a magnificent dome and given over to a single trade such as carpets or fine cloth. Each little shop or office is a [[حجره|hojre|hojreh]], and many have been in the same family for generations.",
+   "image": "caravanserai"
+  },
+  {
+   "h": "The bazaari",
+   "md": "The [[بازاری|bāzāri|bazaar merchant]] is a figure of his own in Iranian life. Many are wholesalers whose business rests on family ties, trust and a promise kept: large deals can be agreed over a glass of tea and paid by cheque months later. Bazaar merchants have long paid for mosques, schools and charities, and in the month of Muharram the guilds organise mourning processions and cook food to give away. Apprentices, each one a [[شاگرد|shāgerd|apprentice; shop boy]], start young and learn by watching, while the [[باربر|bārbar|porter]]s push heavy carts through the crowd, calling for people to make way."
+  },
+  {
+   "h": "Four great bazaars",
+   "md": "- **Tehran**: the [[بازار بزرگ|bāzār-e bozorg|Grand Bazaar]], just south of the Golestan Palace, is a working market where wholesalers still trade in everything from fabric to kitchenware.\n- **Tabriz**: one of the largest covered bazaars in the world and a great stop on the Silk Road, a UNESCO World Heritage Site since 2010. Its Mozaffariyeh hall is the place for carpets.\n- **Isfahan**: the bazaar begins at the Qeysariyeh gate on Naqsh-e Jahan Square and winds north-east to the old Friday Mosque.\n- **Kashan**: smaller but beautiful, with the Qajar-era [[تیمچه‌ی امین‌الدوله|timche-ye Amin-od-dowle|Amin od-Dowleh timcheh]], whose dome of interlocking ribs and skylights is a favourite of photographers.",
+   "image": "tabriz-bazaar"
+  },
+  {
+   "h": "Bargaining",
+   "md": "In the bazaar, prices for carpets, crafts and antiques are the start of a conversation; for food, spices and everyday goods they are usually fixed. Useful phrases:\n\n- [[چند است؟|chand ast?|how much is it?]] – in speech, [[چنده؟|chand-e?|how much?]]\n- [[خیلی گران است|kheyli gerān ast|it's very expensive]] – in speech, [[خیلی گرونه|kheyli gerun-e]]\n- [[تخفیف بدهید|takhfif be-dahid|give me a discount]]\n- [[آخرش چند؟|ākhar-esh chand?|what's your last price?]]\n- [[بیشتر از این نمی‌دهم|bishtar az in nemi-daham|I won't pay more than this]]\n\nIf the seller says [[قابل ندارد|ghābel na-dārad|it's not worthy of you]], he is not giving the thing away: this is [[تعارف|ta'ārof|ritual politeness]]. Thank him, insist, and ask the price again."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "بازار بزرگ تهران نزدیک کاخ گلستان است.",
+   "r": "bāzār-e bozorg-e Tehrān nazdik-e kākh-e Golestān ast.",
+   "en": "Tehran's Grand Bazaar is near the Golestan Palace.",
+   "col": "بازار بزرگ تهران نزدیک کاخ گلستانه.",
+   "colR": "bāzār-e bozorg-e Tehrān nazdik-e kākh-e Golestān-e.",
+   "faV": "بازارِ بُزُرگِ تِهران نَزدیکِ کاخِ گُلِستان اَست.",
+   "a": "12e78cbd33b6",
+   "colV": "بازارِ بُزُرگِ تِهران نَزدیکِ کاخِ گُلِستانه.",
+   "colA": "0325d1d3fc7a"
+  },
+  {
+   "fa": "در هر راسته‌ی بازار یک نوع جنس می‌فروشند.",
+   "r": "dar har rāste-ye bāzār yek now' jens mi-forushand.",
+   "en": "In each row of the bazaar they sell one kind of goods.",
+   "col": "تو هر راسته‌ی بازار یه جور جنس می‌فروشن.",
+   "colR": "tu har rāste-ye bāzār ye jur jens mi-forushan.",
+   "faV": "دَر هَر راسته‌یِ بازار یِک نَوع جِنس می‌فُروشَند.",
+   "a": "d0f2f5f5146a",
+   "colV": "تو هَر راسته‌یِ بازار یه جور جِنس می‌فُروشَن.",
+   "colA": "955db9bde690"
+  },
+  {
+   "fa": "ببخشید، راسته‌ی فرش‌فروش‌ها کجاست؟",
+   "r": "be-bakhshid, rāste-ye farsh-forush-hā kojā-st?",
+   "en": "Excuse me, where is the carpet sellers' row?",
+   "faV": "بِبَخشید، راسته‌یِ فَرش‌فُروش‌ها کُجاست؟",
+   "a": "e11e53690d2f"
+  },
+  {
+   "fa": "این قالیچه چند است؟",
+   "r": "in ghāliche chand ast?",
+   "en": "How much is this rug?",
+   "col": "این قالیچه چنده؟",
+   "colR": "in ghāliche chand-e?",
+   "faV": "این قالیچه چَند اَست؟",
+   "a": "222a66faddf8",
+   "colV": "این قالیچه چَنده؟",
+   "colA": "c1e22d392b85"
+  },
+  {
+   "fa": "خیلی گران است؛ تخفیف نمی‌دهید؟",
+   "r": "kheyli gerān ast; takhfif nemi-dahid?",
+   "en": "That's very expensive – won't you give me a discount?",
+   "col": "خیلی گرونه؛ تخفیف نمی‌دین؟",
+   "colR": "kheyli gerun-e; takhfif nemi-din?",
+   "faV": "خَیلی گِران اَست؛ تَخفیف نِمی‌دَهید؟",
+   "a": "87d9eaebfdfb",
+   "colV": "خَیلی گِرونه؛ تَخفیف نِمی‌دین؟",
+   "colA": "c41cb1dbbc7f"
+  },
+  {
+   "fa": "آخرش چند می‌دهید؟",
+   "r": "ākhar-ash chand mi-dahid?",
+   "en": "What's your final price?",
+   "lit": "in the end, for how much will you give (it)?",
+   "col": "آخرش چند می‌دین؟",
+   "colR": "ākhar-esh chand mi-din?",
+   "faV": "آخَرَش چَند می‌دَهید؟",
+   "a": "650e1a208707",
+   "colV": "آخَرِش چَند می‌دین؟",
+   "colA": "ad879a95e11b"
+  },
+  {
+   "fa": "قابل شما را ندارد.",
+   "r": "ghābel-e shomā rā na-dārad.",
+   "en": "It's not worthy of you – please, take it.",
+   "note": "Ta'arof: the seller does not mean it is free. Thank him and ask the price again.",
+   "col": "قابل شما رو نداره.",
+   "colR": "ghābel-e shomā ro na-dāre.",
+   "faV": "قابِلِ شُما را نَدارَد.",
+   "a": "6501c35baffa",
+   "colV": "قابِلِ شُما رو نَداره.",
+   "colA": "0a9377ea8aa7"
+  },
+  {
+   "fa": "پدربزرگم سی سال در این حجره کار کرد.",
+   "r": "pedar-bozorg-am si sāl dar in hojre kār kard.",
+   "en": "My grandfather worked in this shop for thirty years.",
+   "col": "بابابزرگم سی سال تو این حجره کار کرد.",
+   "colR": "bābā-bozorg-am si sāl tu in hojre kār kard.",
+   "faV": "پِدَربُزُرگَم سی سال دَر این حُجره کار کَرد.",
+   "a": "5ed4d76e4bd5",
+   "colV": "بابابُزُرگَم سی سال تو این حُجره کار کَرد.",
+   "colA": "8628263a0e78"
+  },
+  {
+   "fa": "کاروان‌ها بارشان را در کاروانسرا خالی می‌کردند.",
+   "r": "kārvān-hā bār-eshān rā dar kārvānsarā khāli mi-kardand.",
+   "en": "The caravans used to unload their goods in the caravanserai.",
+   "faV": "کاروان‌ها بارِشان را دَر کاروانسَرا خالی می‌کَردَند.",
+   "a": "7d299f642def"
+  },
+  {
+   "fa": "بازار جمعه‌ها تعطیل است.",
+   "r": "bāzār jom'e-hā ta'til ast.",
+   "en": "The bazaar is closed on Fridays.",
+   "col": "بازار جمعه‌ها تعطیله.",
+   "colR": "bāzār jom'e-hā ta'til-e.",
+   "faV": "بازار جُمعه‌ها تَعطیل اَست.",
+   "a": "02497759441c",
+   "colV": "بازار جُمعه‌ها تَعطیله.",
+   "colA": "bed45c786749"
+  },
+  {
+   "fa": "بازار تبریز یکی از بزرگ‌ترین بازارهای سرپوشیده‌ی جهان است.",
+   "r": "bāzār-e Tabriz yek-i az bozorg-tarin bāzār-hā-ye sarpushide-ye jahān ast.",
+   "en": "The Tabriz bazaar is one of the largest covered bazaars in the world.",
+   "faV": "بازارِ تَبریز یِکی اَز بُزُرگ‌تَرین بازارهایِ سَرپوشیده‌یِ جَهان اَست.",
+   "a": "75ac0768b976"
+  },
+  {
+   "fa": "فروشنده برای ما چای آورد.",
+   "r": "forushande barā-ye mā chāy āvard.",
+   "en": "The shopkeeper brought us some tea.",
+   "col": "فروشنده واسه‌مون چایی آورد.",
+   "colR": "forushande vāse-mun chāyi āvord.",
+   "faV": "فُروشَنده بَرایِ ما چای آوَرد.",
+   "a": "1ab74bb10275",
+   "colV": "فُروشَنده واسه‌مون چایی آوُرد.",
+   "colA": "8df5d9efb06b"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "بازار",
+   "r": "bāzār",
+   "en": "bazaar, market",
+   "faV": "بازار",
+   "a": "05299979b024"
+  },
+  {
+   "fa": "بازاری",
+   "r": "bāzāri",
+   "en": "bazaar merchant",
+   "faV": "بازاری",
+   "a": "4feb3a4fbfe3"
+  },
+  {
+   "fa": "راسته",
+   "r": "rāste",
+   "en": "row of shops of one trade",
+   "faV": "راسته",
+   "a": "6bee51a1abcc"
+  },
+  {
+   "fa": "حجره",
+   "r": "hojre",
+   "en": "small shop or office in a bazaar",
+   "faV": "حُجره",
+   "a": "1286e38ef920"
+  },
+  {
+   "fa": "تیمچه",
+   "r": "timche",
+   "en": "timcheh, a roofed hall in a bazaar",
+   "faV": "تیمچه",
+   "a": "d2c100a608d4"
+  },
+  {
+   "fa": "کاروانسرا",
+   "r": "kārvānsarā",
+   "en": "caravanserai",
+   "faV": "کاروانسَرا",
+   "a": "6495162454cf"
+  },
+  {
+   "fa": "چهارسو",
+   "r": "chahār-su",
+   "en": "domed crossing of two bazaar rows",
+   "faV": "چَهارسو",
+   "a": "cc17821e2a96"
+  },
+  {
+   "fa": "صنف",
+   "r": "senf",
+   "en": "guild, trade",
+   "faV": "صِنف",
+   "a": "a910e7c5cfe8"
+  },
+  {
+   "fa": "فروشنده",
+   "r": "forushande",
+   "en": "seller, shopkeeper",
+   "faV": "فُروشَنده",
+   "a": "9c251cd1f097"
+  },
+  {
+   "fa": "مشتری",
+   "r": "moshtari",
+   "en": "customer",
+   "faV": "مُشتَری",
+   "a": "236c6e9e95f2"
+  },
+  {
+   "fa": "جنس",
+   "r": "jens",
+   "en": "goods; material",
+   "faV": "جِنس",
+   "a": "44c03720fe68"
+  },
+  {
+   "fa": "قیمت",
+   "r": "gheymat",
+   "en": "price",
+   "faV": "قَیمَت",
+   "a": "916161310ef7"
+  },
+  {
+   "fa": "گران",
+   "r": "gerān",
+   "en": "expensive",
+   "faV": "گِران",
+   "a": "2ebc489acbc8"
+  },
+  {
+   "fa": "ارزان",
+   "r": "arzān",
+   "en": "cheap",
+   "faV": "اَرزان",
+   "a": "0072439bbc3e"
+  },
+  {
+   "fa": "تخفیف",
+   "r": "takhfif",
+   "en": "discount",
+   "faV": "تَخفیف",
+   "a": "130cca416c2c"
+  },
+  {
+   "fa": "چانه زدن",
+   "r": "chāne zadan",
+   "en": "to bargain, haggle",
+   "faV": "چانه زَدَن",
+   "a": "586c265d399f"
+  },
+  {
+   "fa": "باربر",
+   "r": "bārbar",
+   "en": "porter",
+   "faV": "باربَر",
+   "a": "d465ffc6e18f"
+  },
+  {
+   "fa": "سرپوشیده",
+   "r": "sarpushide",
+   "en": "covered, roofed",
+   "faV": "سَرپوشیده",
+   "a": "28dd79f5a75f"
+  },
+  {
+   "fa": "عطاری",
+   "r": "attāri",
+   "en": "herbalist's and spice shop",
+   "faV": "عَطّاری",
+   "a": "05e01a61288c"
+  }
+ ],
+ "facts": [
+  "The Historic Bazaar Complex of Tabriz was inscribed as a UNESCO World Heritage Site in 2010.",
+  "English 'bazaar' and 'caravanserai' both come from Persian: bāzār, and kārvānsarā, 'caravan house'.",
+  "In a traditional bazaar each trade has its own row (rāste), so coppersmiths, goldsmiths or carpet sellers work side by side.",
+  "Isfahan's bazaar begins at the Qeysariyeh gate on the north side of Naqsh-e Jahan Square.",
+  "The Timche-ye Amin od-Dowleh in Kashan's bazaar dates from the Qajar period and is famous for its spectacular dome.",
+  "Chāne zadan, 'to bargain', literally means 'to beat the chin'.",
+  "Most shops in Iran's traditional bazaars close on Fridays."
+ ],
+ "titleV": "بازار",
+ "titleA": "05299979b024"
+}

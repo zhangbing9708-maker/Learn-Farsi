@@ -20,24 +20,126 @@
    "title": "Two languages, one dictionary",
    "intro": "A short history of Arabic in Persian. Many of the words in it are Arabic themselves – the word list and the grammar below show you how to spot them.",
    "sentences": [
-    {"fa": "زبان فارسی و زبان عربی از دو خانواده‌ی متفاوت هستند.", "r": "zabān-e fārsi va zabān-e arabi az do khānevāde-ye motafāvet hastand.", "en": "Persian and Arabic come from two different language families."},
-    {"fa": "فارسی یک زبان هندواروپایی است، اما عربی یک زبان سامی است.", "r": "fārsi yek zabān-e hendo-orupāyi ast, ammā arabi yek zabān-e sāmi ast.", "en": "Persian is an Indo-European language, while Arabic is a Semitic one."},
-    {"fa": "بعد از ورود اسلام به ایران، کلمه‌های عربی کم‌کم وارد زبان فارسی شدند.", "r": "ba'd az vorud-e eslām be Irān, kalame-hā-ye arabi kam-kam vāred-e zabān-e fārsi shodand.", "en": "After Islam came to Iran, Arabic words gradually entered the Persian language."},
-    {"fa": "اما دستور زبان فارسی تغییر نکرد و فارسی، فارسی ماند.", "r": "ammā dastur-e zabān-e fārsi taghyir nakard o fārsi, fārsi mānd.", "en": "But Persian grammar did not change, and Persian stayed Persian."},
-    {"fa": "فردوسی در شاهنامه از کلمه‌های عربی بسیار کم استفاده کرد.", "r": "Ferdowsi dar Shāhnāme az kalame-hā-ye arabi besyār kam estefāde kard.", "en": "Ferdowsi used very few Arabic words in the Shahnameh."},
-    {"fa": "سعدی و حافظ آزادانه از هر دو زبان استفاده کردند.", "r": "Sa'di va Hāfez āzādāne az har do zabān estefāde kardand.", "en": "Saadi and Hafez drew freely on both languages."},
-    {"fa": "امروز تقریباً هر جمله‌ی فارسی چند کلمه‌ی عربی دارد.", "r": "emruz taghriban har jomle-ye fārsi chand kalame-ye arabi dārad.", "en": "Today almost every Persian sentence contains a few Arabic words."},
-    {"fa": "مثلاً در جمله‌ی «معلم کتاب را روی میز گذاشت»، «معلم» و «کتاب» عربی‌اند.", "r": "masalan dar jomle-ye «mo'allem ketāb rā ru-ye miz gozāsht», «mo'allem» va «ketāb» arabi-and.", "en": "For example, in the sentence 'The teacher put the book on the table', 'teacher' and 'book' are Arabic."},
-    {"fa": "این کلمه‌ها بیشتر از ریشه‌های سه‌حرفی ساخته شده‌اند.", "r": "in kalame-hā bishtar az rishe-hā-ye se-harfi sākhte shode-and.", "en": "These words are mostly built from three-letter roots."},
-    {"fa": "مثلاً عالم، معلم، معلوم و تعلیم همه از ریشه‌ی «علم» هستند.", "r": "masalan ālem, mo'allem, ma'lum va ta'lim hame az rishe-ye «elm» hastand.", "en": "For example, ālem (scholar), mo'allem (teacher), ma'lum (known) and ta'lim (teaching) all come from the root of elm (knowledge)."},
-    {"fa": "بیشتر این کلمات را با الگوهای مشخصی می‌سازند.", "r": "bishtar-e in kalamāt rā bā olgu-hā-ye moshakhkhas-i mi-sāzand.", "en": "Most of these words are made with fixed patterns."},
-    {"fa": "اگر این الگوها را بشناسید، معنی بسیاری از کلمه‌های تازه را حدس می‌زنید.", "r": "agar in olgu-hā rā beshenāsid, ma'ni-ye besyār-i az kalame-hā-ye tāze rā hads mi-zanid.", "en": "If you know these patterns, you can guess the meaning of many new words."},
-    {"fa": "برای ایرانی‌ها این کلمه‌ها دیگر عربی نیستند؛ آن‌ها کاملاً فارسی‌اند.", "r": "barā-ye irāni-hā in kalame-hā digar arabi nistand; ān-hā kāmelan fārsi-and.", "en": "For Iranians these words are no longer Arabic: they are completely Persian."}
+    {
+     "fa": "زبان فارسی و زبان عربی از دو خانواده‌ی متفاوت هستند.",
+     "r": "zabān-e fārsi va zabān-e arabi az do khānevāde-ye motafāvet hastand.",
+     "en": "Persian and Arabic come from two different language families.",
+     "faV": "زَبانِ فارسی و زَبانِ عَرَبی اَز دو خانِواده‌یِ مُتَفاوِت هَستَند.",
+     "a": "6f5e5cacca0c"
+    },
+    {
+     "fa": "فارسی یک زبان هندواروپایی است، اما عربی یک زبان سامی است.",
+     "r": "fārsi yek zabān-e hendo-orupāyi ast, ammā arabi yek zabān-e sāmi ast.",
+     "en": "Persian is an Indo-European language, while Arabic is a Semitic one.",
+     "faV": "فارسی یِک زَبانِ هِندواُروپایی اَست، اَمّا عَرَبی یِک زَبانِ سامی اَست.",
+     "a": "b8986bcf3b41"
+    },
+    {
+     "fa": "بعد از ورود اسلام به ایران، کلمه‌های عربی کم‌کم وارد زبان فارسی شدند.",
+     "r": "ba'd az vorud-e eslām be Irān, kalame-hā-ye arabi kam-kam vāred-e zabān-e fārsi shodand.",
+     "en": "After Islam came to Iran, Arabic words gradually entered the Persian language.",
+     "faV": "بَعد اَز وُرودِ اِسلام به ایران، کَلَمه‌هایِ عَرَبی کَم‌کَم وارِدِ زَبانِ فارسی شُدَند.",
+     "a": "3cd32ec585a1"
+    },
+    {
+     "fa": "اما دستور زبان فارسی تغییر نکرد و فارسی، فارسی ماند.",
+     "r": "ammā dastur-e zabān-e fārsi taghyir nakard o fārsi, fārsi mānd.",
+     "en": "But Persian grammar did not change, and Persian stayed Persian.",
+     "faV": "اَمّا دَستورِ زَبانِ فارسی تَغییر نَکَرد و فارسی، فارسی ماند.",
+     "a": "19824bab353d"
+    },
+    {
+     "fa": "فردوسی در شاهنامه از کلمه‌های عربی بسیار کم استفاده کرد.",
+     "r": "Ferdowsi dar Shāhnāme az kalame-hā-ye arabi besyār kam estefāde kard.",
+     "en": "Ferdowsi used very few Arabic words in the Shahnameh.",
+     "faV": "فِردَوسی دَر شاهنامه اَز کَلَمه‌هایِ عَرَبی بِسیار کَم اِستِفاده کَرد.",
+     "a": "9e785c7555f0"
+    },
+    {
+     "fa": "سعدی و حافظ آزادانه از هر دو زبان استفاده کردند.",
+     "r": "Sa'di va Hāfez āzādāne az har do zabān estefāde kardand.",
+     "en": "Saadi and Hafez drew freely on both languages.",
+     "faV": "سَعدی و حافِظ آزادانه اَز هَر دو زَبان اِستِفاده کَردَند.",
+     "a": "46d02ab58058"
+    },
+    {
+     "fa": "امروز تقریباً هر جمله‌ی فارسی چند کلمه‌ی عربی دارد.",
+     "r": "emruz taghriban har jomle-ye fārsi chand kalame-ye arabi dārad.",
+     "en": "Today almost every Persian sentence contains a few Arabic words.",
+     "faV": "اِمروز تَقریباً هَر جُمله‌یِ فارسی چَند کَلَمه‌یِ عَرَبی دارَد.",
+     "a": "0cbaf0b7491f"
+    },
+    {
+     "fa": "مثلاً در جمله‌ی «معلم کتاب را روی میز گذاشت»، «معلم» و «کتاب» عربی‌اند.",
+     "r": "masalan dar jomle-ye «mo'allem ketāb rā ru-ye miz gozāsht», «mo'allem» va «ketāb» arabi-and.",
+     "en": "For example, in the sentence 'The teacher put the book on the table', 'teacher' and 'book' are Arabic.",
+     "faV": "مَثَلاً دَر جُمله‌یِ «مُعَلِّم کِتاب را رویِ میز گُذاشت»، «مُعَلِّم» و «کِتاب» عَرَبی‌اَند.",
+     "a": "b0a0af216fc9"
+    },
+    {
+     "fa": "این کلمه‌ها بیشتر از ریشه‌های سه‌حرفی ساخته شده‌اند.",
+     "r": "in kalame-hā bishtar az rishe-hā-ye se-harfi sākhte shode-and.",
+     "en": "These words are mostly built from three-letter roots.",
+     "faV": "این کَلَمه‌ها بیشتَر اَز ریشه‌هایِ سه‌حَرفی ساخته شُده‌اَند.",
+     "a": "2e9749dc663d"
+    },
+    {
+     "fa": "مثلاً عالم، معلم، معلوم و تعلیم همه از ریشه‌ی «علم» هستند.",
+     "r": "masalan ālem, mo'allem, ma'lum va ta'lim hame az rishe-ye «elm» hastand.",
+     "en": "For example, ālem (scholar), mo'allem (teacher), ma'lum (known) and ta'lim (teaching) all come from the root of elm (knowledge).",
+     "faV": "مَثَلاً عالِم، مُعَلِّم، مَعلوم و تَعلیم هَمه اَز ریشه‌یِ «عِلم» هَستَند.",
+     "a": "e8ff8cf99630"
+    },
+    {
+     "fa": "بیشتر این کلمات را با الگوهای مشخصی می‌سازند.",
+     "r": "bishtar-e in kalamāt rā bā olgu-hā-ye moshakhkhas-i mi-sāzand.",
+     "en": "Most of these words are made with fixed patterns.",
+     "faV": "بیشتَرِ این کَلَمات را با اُلگوهایِ مُشَخَّصی می‌سازَند.",
+     "a": "ebfc28bd761c"
+    },
+    {
+     "fa": "اگر این الگوها را بشناسید، معنی بسیاری از کلمه‌های تازه را حدس می‌زنید.",
+     "r": "agar in olgu-hā rā beshenāsid, ma'ni-ye besyār-i az kalame-hā-ye tāze rā hads mi-zanid.",
+     "en": "If you know these patterns, you can guess the meaning of many new words.",
+     "faV": "اَگَر این اُلگوها را بِشِناسید، مَعنیِ بِسیاری اَز کَلَمه‌هایِ تازه را حَدس می‌زَنید.",
+     "a": "4841b232798a"
+    },
+    {
+     "fa": "برای ایرانی‌ها این کلمه‌ها دیگر عربی نیستند؛ آن‌ها کاملاً فارسی‌اند.",
+     "r": "barā-ye irāni-hā in kalame-hā digar arabi nistand; ān-hā kāmelan fārsi-and.",
+     "en": "For Iranians these words are no longer Arabic: they are completely Persian.",
+     "faV": "بَرایِ ایرانی‌ها این کَلَمه‌ها دیگَر عَرَبی نیستَند؛ آن‌ها کامِلاً فارسی‌اَند.",
+     "a": "fda126536a05"
+    }
    ],
    "questions": [
-    {"q": "What did NOT change when Arabic words entered Persian?", "options": ["the vocabulary", "the grammar", "the way people write"], "answer": 1},
-    {"q": "Which poet used very few Arabic words?", "options": ["Saadi", "Hafez", "Ferdowsi"], "answer": 2},
-    {"q": "Which word in the text is an Arabic plural?", "options": ["کلمات", "کلمه‌ها", "الگوها"], "answer": 0}
+    {
+     "q": "What did NOT change when Arabic words entered Persian?",
+     "options": [
+      "the vocabulary",
+      "the grammar",
+      "the way people write"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Which poet used very few Arabic words?",
+     "options": [
+      "Saadi",
+      "Hafez",
+      "Ferdowsi"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "Which word in the text is an Arabic plural?",
+     "options": [
+      "کلمات",
+      "کلمه‌ها",
+      "الگوها"
+     ],
+     "answer": 0
+    }
    ]
   },
   {
@@ -49,30 +151,217 @@
    "type": "vocab",
    "title": "Words",
    "items": [
-    {"fa": "ریشه", "r": "rishe", "en": "root", "pos": "n"},
-    {"fa": "الگو", "r": "olgu", "en": "pattern, model", "pos": "n"},
-    {"fa": "عربی", "r": "arabi", "en": "Arabic", "pos": "adj"},
-    {"fa": "مفرد", "r": "mofrad", "en": "singular", "pos": "n"},
-    {"fa": "جمع", "r": "jam'", "en": "plural; sum, total", "pos": "n"},
-    {"fa": "علم", "r": "elm", "en": "science, knowledge", "pos": "n", "note": "plural علوم"},
-    {"fa": "عالم", "r": "ālem", "en": "scholar", "pos": "n", "note": "plural علما"},
-    {"fa": "معلم", "r": "mo'allem", "en": "teacher", "pos": "n"},
-    {"fa": "معلوم", "r": "ma'lum", "en": "known, obvious", "pos": "adj"},
-    {"fa": "تعلیم", "r": "ta'lim", "en": "teaching, instruction", "pos": "n"},
-    {"fa": "کاتب", "r": "kāteb", "en": "scribe", "pos": "n"},
-    {"fa": "مکتوب", "r": "maktub", "en": "written; (a) letter", "pos": "adj"},
-    {"fa": "خبر", "r": "khabar", "en": "piece of news", "pos": "n", "note": "plural اخبار"},
-    {"fa": "اثر", "r": "asar", "en": "work (of art); trace, effect", "pos": "n", "note": "plural آثار"},
-    {"fa": "اطلاعات", "r": "ettelā'āt", "en": "information", "pos": "n", "note": "Arabic plural of اطلاع"},
-    {"fa": "استفاده", "r": "estefāde", "en": "use", "pos": "n", "ex": {"fa": "از این اتاق استفاده نمی‌شود.", "r": "az in otāgh estefāde nemi-shavad.", "en": "This room is not used."}},
-    {"fa": "مذاکره", "r": "mozākere", "en": "negotiation, talks", "pos": "n"},
-    {"fa": "تشکر", "r": "tashakkor", "en": "thanks", "pos": "n", "ex": {"fa": "از شما تشکر می‌کنم.", "r": "az shomā tashakkor mi-konam.", "en": "Thank you."}},
-    {"fa": "همزه", "r": "hamze", "en": "hamza, the glottal-stop sign ء", "pos": "n"},
-    {"fa": "لطفاً", "r": "lotfan", "en": "please", "pos": "adv"},
-    {"fa": "مثلاً", "r": "masalan", "en": "for example", "pos": "adv"},
-    {"fa": "تقریباً", "r": "taghriban", "en": "almost, about", "pos": "adv"},
-    {"fa": "معمولاً", "r": "ma'mulan", "en": "usually", "pos": "adv"},
-    {"fa": "حدس زدن", "r": "hads zadan", "en": "to guess", "pos": "v"}
+    {
+     "fa": "ریشه",
+     "r": "rishe",
+     "en": "root",
+     "pos": "n",
+     "faV": "ریشه",
+     "a": "a5e8e6f3c96f"
+    },
+    {
+     "fa": "الگو",
+     "r": "olgu",
+     "en": "pattern, model",
+     "pos": "n",
+     "faV": "اُلگو",
+     "a": "df1a3f7148bc"
+    },
+    {
+     "fa": "عربی",
+     "r": "arabi",
+     "en": "Arabic",
+     "pos": "adj",
+     "faV": "عَرَبی",
+     "a": "fab755816957"
+    },
+    {
+     "fa": "مفرد",
+     "r": "mofrad",
+     "en": "singular",
+     "pos": "n",
+     "faV": "مُفرَد",
+     "a": "c5bb229e940c"
+    },
+    {
+     "fa": "جمع",
+     "r": "jam'",
+     "en": "plural; sum, total",
+     "pos": "n",
+     "faV": "جَمع",
+     "a": "07a2a6247b4d"
+    },
+    {
+     "fa": "علم",
+     "r": "elm",
+     "en": "science, knowledge",
+     "pos": "n",
+     "note": "plural علوم",
+     "faV": "عِلم",
+     "a": "f1195d339684"
+    },
+    {
+     "fa": "عالم",
+     "r": "ālem",
+     "en": "scholar",
+     "pos": "n",
+     "note": "plural علما",
+     "faV": "عالِم",
+     "a": "acf0ef32f792"
+    },
+    {
+     "fa": "معلم",
+     "r": "mo'allem",
+     "en": "teacher",
+     "pos": "n",
+     "faV": "مُعَلِّم",
+     "a": "63d83fae3594"
+    },
+    {
+     "fa": "معلوم",
+     "r": "ma'lum",
+     "en": "known, obvious",
+     "pos": "adj",
+     "faV": "مَعلوم",
+     "a": "bad3d2f100db"
+    },
+    {
+     "fa": "تعلیم",
+     "r": "ta'lim",
+     "en": "teaching, instruction",
+     "pos": "n",
+     "faV": "تَعلیم",
+     "a": "aefd19384417"
+    },
+    {
+     "fa": "کاتب",
+     "r": "kāteb",
+     "en": "scribe",
+     "pos": "n",
+     "faV": "کاتِب",
+     "a": "cf5823fa874d"
+    },
+    {
+     "fa": "مکتوب",
+     "r": "maktub",
+     "en": "written; (a) letter",
+     "pos": "adj",
+     "faV": "مَکتوب",
+     "a": "a97ce3978c08"
+    },
+    {
+     "fa": "خبر",
+     "r": "khabar",
+     "en": "piece of news",
+     "pos": "n",
+     "note": "plural اخبار",
+     "faV": "خَبَر",
+     "a": "ee19bd175c6a"
+    },
+    {
+     "fa": "اثر",
+     "r": "asar",
+     "en": "work (of art); trace, effect",
+     "pos": "n",
+     "note": "plural آثار",
+     "faV": "اَثَر",
+     "a": "0e762fe7f4cc"
+    },
+    {
+     "fa": "اطلاعات",
+     "r": "ettelā'āt",
+     "en": "information",
+     "pos": "n",
+     "note": "Arabic plural of اطلاع",
+     "faV": "اِطِّلاعات",
+     "a": "ecb1ec54941a"
+    },
+    {
+     "fa": "استفاده",
+     "r": "estefāde",
+     "en": "use",
+     "pos": "n",
+     "ex": {
+      "fa": "از این اتاق استفاده نمی‌شود.",
+      "r": "az in otāgh estefāde nemi-shavad.",
+      "en": "This room is not used.",
+      "faV": "اَز این اُتاق اِستِفاده نِمی‌شَوَد.",
+      "a": "d900b2de9a60"
+     },
+     "faV": "اِستِفاده",
+     "a": "28d67efa8491"
+    },
+    {
+     "fa": "مذاکره",
+     "r": "mozākere",
+     "en": "negotiation, talks",
+     "pos": "n",
+     "faV": "مُذاکِره",
+     "a": "682e3d9d5005"
+    },
+    {
+     "fa": "تشکر",
+     "r": "tashakkor",
+     "en": "thanks",
+     "pos": "n",
+     "ex": {
+      "fa": "از شما تشکر می‌کنم.",
+      "r": "az shomā tashakkor mi-konam.",
+      "en": "Thank you.",
+      "faV": "اَز شُما تَشَکُّر می‌کُنَم.",
+      "a": "3ddcd632dd97"
+     },
+     "faV": "تَشَکُّر",
+     "a": "0067447472fa"
+    },
+    {
+     "fa": "همزه",
+     "r": "hamze",
+     "en": "hamza, the glottal-stop sign ء",
+     "pos": "n",
+     "faV": "هَمزه",
+     "a": "abb0dfea0f4e"
+    },
+    {
+     "fa": "لطفاً",
+     "r": "lotfan",
+     "en": "please",
+     "pos": "adv",
+     "faV": "لُطفاً",
+     "a": "ee0968580fcb"
+    },
+    {
+     "fa": "مثلاً",
+     "r": "masalan",
+     "en": "for example",
+     "pos": "adv",
+     "faV": "مَثَلاً",
+     "a": "7db2fabcdd62"
+    },
+    {
+     "fa": "تقریباً",
+     "r": "taghriban",
+     "en": "almost, about",
+     "pos": "adv",
+     "faV": "تَقریباً",
+     "a": "6f2bfa810a79"
+    },
+    {
+     "fa": "معمولاً",
+     "r": "ma'mulan",
+     "en": "usually",
+     "pos": "adv",
+     "faV": "مَعمولاً",
+     "a": "450de55ea35d"
+    },
+    {
+     "fa": "حدس زدن",
+     "r": "hads zadan",
+     "en": "to guess",
+     "pos": "v",
+     "faV": "حَدس زَدَن",
+     "a": "4f5bfe4f5714"
+    }
    ]
   },
   {
@@ -80,30 +369,154 @@
    "title": "Eleven patterns worth knowing",
    "md": "Each pattern below is named after the dummy root ف ع ل. To use the table, look at the letters around the three root consonants: an initial [[م|m]] often means a doer, a thing done or a place; an initial [[ت|t]] often means an action; [[است|est-]] at the start means seeking or using. Then check the meaning in context – patterns are a guide, not a law.\n\nMost of the action nouns (تفعیل، مفاعله، افعال، افتعال، استفعال) become verbs with [[کردن|kardan]] and [[شدن|shodan]]: [[تعمیر کردن|ta'mir kardan|to repair]], [[مذاکره کردن|mozākere kardan|to negotiate]], [[اعلام شدن|e'lām shodan|to be announced]], [[استخدام کردن|estekhdām kardan|to hire]].",
    "table": {
-    "head": ["Pattern", "Meaning", "Examples", "English"],
+    "head": [
+     "Pattern",
+     "Meaning",
+     "Examples",
+     "English"
+    ],
     "rows": [
-     ["[[فاعل|fā'el]]", "the doer, -er, -ing", "[[کاتب|kāteb]]، [[عالم|ālem]]، [[حاضر|hāzer]]", "scribe, scholar, present"],
-     ["[[مفعول|maf'ul]]", "done to, -ed", "[[مکتوب|maktub]]، [[معلوم|ma'lum]]، [[مشهور|mashhur]]", "written, known, famous"],
-     ["[[مفعل، مفعله|maf'al, maf'ale]]", "place", "[[مکتب|maktab]]، [[مدرسه|madrese]]، [[مرکز|markaz]]", "old-style school, school, centre"],
-     ["[[فعیل|fa'il]]", "adjective (a quality)", "[[جدید|jadid]]، [[قدیم|ghadim]]، [[عظیم|azim]]", "new, old, huge"],
-     ["[[مفعّل|mofa''el]]", "one who makes others do", "[[معلم|mo'allem]]، [[مدرس|modarres]]، [[مربی|morabbi]]", "teacher, lecturer, coach"],
-     ["[[تفعیل|taf'il]]", "the action (of making)", "[[تعلیم|ta'lim]]، [[تعمیر|ta'mir]]، [[تعطیل|ta'til]]", "teaching, repair, closure"],
-     ["[[تفعّل|tafa''ol]]", "the action (on oneself)", "[[تشکر|tashakkor]]، [[تولد|tavallod]]، [[تصور|tasavvor]]", "thanks, birth, imagination"],
-     ["[[مفاعله|mofā'ele]]", "doing together", "[[مذاکره|mozākere]]، [[مسابقه|mosābeghe]]، [[مکاتبه|mokātebe]]", "negotiation, competition, correspondence"],
-     ["[[افعال|ef'āl]]", "the action (of causing)", "[[اعلام|e'lām]]، [[ارسال|ersāl]]، [[احساس|ehsās]]", "announcement, sending, feeling"],
-     ["[[افتعال|efte'āl]]", "the action (for oneself)", "[[انتخاب|entekhāb]]، [[احترام|ehterām]]، [[انتظار|entezār]]", "choice, election; respect; waiting"],
-     ["[[استفعال|estef'āl]]", "seeking, using", "[[استفاده|estefāde]]، [[استقبال|esteghbāl]]، [[استخدام|estekhdām]]", "use, welcome, employment"]
+     [
+      "[[فاعل|fā'el]]",
+      "the doer, -er, -ing",
+      "[[کاتب|kāteb]]، [[عالم|ālem]]، [[حاضر|hāzer]]",
+      "scribe, scholar, present"
+     ],
+     [
+      "[[مفعول|maf'ul]]",
+      "done to, -ed",
+      "[[مکتوب|maktub]]، [[معلوم|ma'lum]]، [[مشهور|mashhur]]",
+      "written, known, famous"
+     ],
+     [
+      "[[مفعل، مفعله|maf'al, maf'ale]]",
+      "place",
+      "[[مکتب|maktab]]، [[مدرسه|madrese]]، [[مرکز|markaz]]",
+      "old-style school, school, centre"
+     ],
+     [
+      "[[فعیل|fa'il]]",
+      "adjective (a quality)",
+      "[[جدید|jadid]]، [[قدیم|ghadim]]، [[عظیم|azim]]",
+      "new, old, huge"
+     ],
+     [
+      "[[مفعّل|mofa''el]]",
+      "one who makes others do",
+      "[[معلم|mo'allem]]، [[مدرس|modarres]]، [[مربی|morabbi]]",
+      "teacher, lecturer, coach"
+     ],
+     [
+      "[[تفعیل|taf'il]]",
+      "the action (of making)",
+      "[[تعلیم|ta'lim]]، [[تعمیر|ta'mir]]، [[تعطیل|ta'til]]",
+      "teaching, repair, closure"
+     ],
+     [
+      "[[تفعّل|tafa''ol]]",
+      "the action (on oneself)",
+      "[[تشکر|tashakkor]]، [[تولد|tavallod]]، [[تصور|tasavvor]]",
+      "thanks, birth, imagination"
+     ],
+     [
+      "[[مفاعله|mofā'ele]]",
+      "doing together",
+      "[[مذاکره|mozākere]]، [[مسابقه|mosābeghe]]، [[مکاتبه|mokātebe]]",
+      "negotiation, competition, correspondence"
+     ],
+     [
+      "[[افعال|ef'āl]]",
+      "the action (of causing)",
+      "[[اعلام|e'lām]]، [[ارسال|ersāl]]، [[احساس|ehsās]]",
+      "announcement, sending, feeling"
+     ],
+     [
+      "[[افتعال|efte'āl]]",
+      "the action (for oneself)",
+      "[[انتخاب|entekhāb]]، [[احترام|ehterām]]، [[انتظار|entezār]]",
+      "choice, election; respect; waiting"
+     ],
+     [
+      "[[استفعال|estef'āl]]",
+      "seeking, using",
+      "[[استفاده|estefāde]]، [[استقبال|esteghbāl]]، [[استخدام|estekhdām]]",
+      "use, welcome, employment"
+     ]
     ]
    },
    "examples": [
-    {"fa": "مدرسه‌ی ما فردا به خاطر برف تعطیل است.", "r": "madrese-ye mā fardā be khāter-e barf ta'til ast.", "en": "Our school is closed tomorrow because of the snow.", "col": "مدرسه‌مون فردا به خاطر برف تعطیله.", "colR": "madrese-mun fardā be khāter-e barf ta'tile."},
-    {"fa": "دو کشور درباره‌ی قیمت نفت مذاکره می‌کنند.", "r": "do keshvar darbāre-ye gheymat-e naft mozākere mi-konand.", "en": "The two countries are negotiating about the price of oil."},
-    {"fa": "از کمک شما خیلی تشکر می‌کنم.", "r": "az komak-e shomā kheyli tashakkor mi-konam.", "en": "Thank you very much for your help.", "col": "از کمکتون خیلی ممنونم.", "colR": "az komak-etun kheyli mamnun-am."},
-    {"fa": "شرکت ما سه مهندس جدید استخدام کرد.", "r": "sherkat-e mā se mohandes-e jadid estekhdām kard.", "en": "Our company has taken on three new engineers.", "col": "شرکتمون سه تا مهندس جدید استخدام کرد.", "colR": "sherkat-emun se tā mohandes-e jadid estekhdām kard."},
-    {"fa": "این شاعر در همه‌ی دنیا مشهور است.", "r": "in shā'er dar hame-ye donyā mashhur ast.", "en": "This poet is famous all over the world.", "col": "این شاعر تو همه‌ی دنیا مشهوره.", "colR": "in shā'er tu hame-ye donyā mashhure."},
-    {"fa": "نتیجه‌ی انتخابات هنوز معلوم نیست.", "r": "natije-ye entekhābāt hanuz ma'lum nist.", "en": "The election result is not known yet."},
-    {"fa": "همه‌ی دانشجویان سر کلاس حاضر بودند.", "r": "hame-ye dāneshjuyān sar-e kelās hāzer budand.", "en": "All the students were present in class."},
-    {"fa": "وزیر استعفای خود را اعلام کرد.", "r": "vazir este'fā-ye khod rā e'lām kard.", "en": "The minister announced his resignation."}
+    {
+     "fa": "مدرسه‌ی ما فردا به خاطر برف تعطیل است.",
+     "r": "madrese-ye mā fardā be khāter-e barf ta'til ast.",
+     "en": "Our school is closed tomorrow because of the snow.",
+     "col": "مدرسه‌مون فردا به خاطر برف تعطیله.",
+     "colR": "madrese-mun fardā be khāter-e barf ta'tile.",
+     "faV": "مَدرِسه‌یِ ما فَردا به خاطِرِ بَرف تَعطیل اَست.",
+     "a": "0a60452492e6",
+     "colV": "مَدرِسه‌مون فَردا به خاطِرِ بَرف تَعطیله.",
+     "colA": "a39d1565b56b"
+    },
+    {
+     "fa": "دو کشور درباره‌ی قیمت نفت مذاکره می‌کنند.",
+     "r": "do keshvar darbāre-ye gheymat-e naft mozākere mi-konand.",
+     "en": "The two countries are negotiating about the price of oil.",
+     "faV": "دو کِشوَر دَرباره‌یِ قَیمَتِ نَفت مُذاکِره می‌کُنَند.",
+     "a": "e60f4a6471ae"
+    },
+    {
+     "fa": "از کمک شما خیلی تشکر می‌کنم.",
+     "r": "az komak-e shomā kheyli tashakkor mi-konam.",
+     "en": "Thank you very much for your help.",
+     "col": "از کمکتون خیلی ممنونم.",
+     "colR": "az komak-etun kheyli mamnun-am.",
+     "faV": "اَز کُمَکِ شُما خَیلی تَشَکُّر می‌کُنَم.",
+     "a": "92644f11281b",
+     "colV": "اَز کُمَکِتون خَیلی مَمنونَم.",
+     "colA": "ff490d1cb7c1"
+    },
+    {
+     "fa": "شرکت ما سه مهندس جدید استخدام کرد.",
+     "r": "sherkat-e mā se mohandes-e jadid estekhdām kard.",
+     "en": "Our company has taken on three new engineers.",
+     "col": "شرکتمون سه تا مهندس جدید استخدام کرد.",
+     "colR": "sherkat-emun se tā mohandes-e jadid estekhdām kard.",
+     "faV": "شِرکَتِ ما سه مُهَندِسِ جَدید اِستِخدام کَرد.",
+     "a": "e8ee23f59760",
+     "colV": "شِرکَتِمون سه تا مُهَندِسِ جَدید اِستِخدام کَرد.",
+     "colA": "f8d74291487a"
+    },
+    {
+     "fa": "این شاعر در همه‌ی دنیا مشهور است.",
+     "r": "in shā'er dar hame-ye donyā mashhur ast.",
+     "en": "This poet is famous all over the world.",
+     "col": "این شاعر تو همه‌ی دنیا مشهوره.",
+     "colR": "in shā'er tu hame-ye donyā mashhure.",
+     "faV": "این شاعِر دَر هَمه‌یِ دُنیا مَشهور اَست.",
+     "a": "1d7f74945392",
+     "colV": "این شاعِر تو هَمه‌یِ دُنیا مَشهوره.",
+     "colA": "ca93cd47d8cf"
+    },
+    {
+     "fa": "نتیجه‌ی انتخابات هنوز معلوم نیست.",
+     "r": "natije-ye entekhābāt hanuz ma'lum nist.",
+     "en": "The election result is not known yet.",
+     "faV": "نَتیجه‌یِ اِنتِخابات هَنوز مَعلوم نیست.",
+     "a": "f22e78491a5e"
+    },
+    {
+     "fa": "همه‌ی دانشجویان سر کلاس حاضر بودند.",
+     "r": "hame-ye dāneshjuyān sar-e kelās hāzer budand.",
+     "en": "All the students were present in class.",
+     "faV": "هَمه‌یِ دانِشجویان سَرِ کِلاس حاضِر بودَند.",
+     "a": "c7aa49650882"
+    },
+    {
+     "fa": "وزیر استعفای خود را اعلام کرد.",
+     "r": "vazir este'fā-ye khod rā e'lām kard.",
+     "en": "The minister announced his resignation.",
+     "faV": "وَزیر اِستِعفایِ خود را اِعلام کَرد.",
+     "a": "4bc1cf538fba"
+    }
    ]
   },
   {
@@ -111,30 +524,153 @@
    "title": "Broken plurals",
    "md": "Arabic often makes a plural by changing the inside of the word, like English *man – men* or *mouse – mice*: [[کتاب|ketāb]] → [[کتب|kotob|books]]. These are called **broken plurals** ([[جمع مکسر|jam'-e mokassar]]). Arabic also has regular endings: [[ـات|-āt]], mostly for things, and [[ـین|-in]] for people ([[اطلاعات|ettelā'āt|information]], [[معلمین|mo'allemin|teachers]]).\n\nPersian borrowed many of these plurals, but you can almost always use the Persian plural instead – and in speech you should: [[کتاب‌ها|ketāb-hā]], not کتب. Broken plurals live in formal writing, and a few have become ordinary words with a meaning of their own: [[اخبار|akhbār|the news]], [[اطلاعات|ettelā'āt|information]], [[آثار|āsār|works (of an artist)]], [[حقوق|hoghugh|salary; law; rights]], [[ادبیات|adabiyāt|literature]].\n\nThe Arabic ending [[ـات|-āt]] has even spread to Persian words: [[ده|deh|village]] → [[دهات|dehāt|villages]], [[باغ|bāgh|garden]] → [[باغات|bāghāt|orchards]], and, after a vowel, [[ـجات|-jāt]]: [[سبزی|sabzi]] → [[سبزیجات|sabzijāt|vegetables]], [[میوه|mive]] → [[میوه‌جات|mive-jāt|fruit of all kinds]].",
    "table": {
-    "head": ["Singular", "Arabic plural", "Persian plural", "English"],
+    "head": [
+     "Singular",
+     "Arabic plural",
+     "Persian plural",
+     "English"
+    ],
     "rows": [
-     ["[[کتاب|ketāb]]", "[[کتب|kotob]]", "[[کتاب‌ها|ketāb-hā]]", "books"],
-     ["[[خبر|khabar]]", "[[اخبار|akhbār]]", "[[خبرها|khabar-hā]]", "news (items)"],
-     ["[[عالم|ālem]]", "[[علما|olamā]]", "[[عالمان|ālemān]]", "scholars"],
-     ["[[علم|elm]]", "[[علوم|olum]]", "[[علم‌ها|elm-hā]]", "sciences"],
-     ["[[فکر|fekr]]", "[[افکار|afkār]]", "[[فکرها|fekr-hā]]", "thoughts, ideas"],
-     ["[[اثر|asar]]", "[[آثار|āsār]]", "[[اثرها|asar-hā]]", "works; traces, effects"],
-     ["[[شخص|shakhs]]", "[[اشخاص|ashkhās]]", "[[شخص‌ها|shakhs-hā]]", "persons"],
-     ["[[مسئله|mas'ale]]", "[[مسائل|masā'el]]", "[[مسئله‌ها|mas'ale-hā]]", "problems, issues"],
-     ["[[مدرسه|madrese]]", "[[مدارس|madāres]]", "[[مدرسه‌ها|madrese-hā]]", "schools"],
-     ["[[قانون|ghānun]]", "[[قوانین|ghavānin]]", "[[قانون‌ها|ghānun-hā]]", "laws"],
-     ["[[کلمه|kalame]]", "[[کلمات|kalamāt]]", "[[کلمه‌ها|kalame-hā]]", "words"],
-     ["[[معلم|mo'allem]]", "[[معلمین|mo'allemin]]", "[[معلم‌ها|mo'allem-hā]]، [[معلمان|mo'allemān]]", "teachers"]
+     [
+      "[[کتاب|ketāb]]",
+      "[[کتب|kotob]]",
+      "[[کتاب‌ها|ketāb-hā]]",
+      "books"
+     ],
+     [
+      "[[خبر|khabar]]",
+      "[[اخبار|akhbār]]",
+      "[[خبرها|khabar-hā]]",
+      "news (items)"
+     ],
+     [
+      "[[عالم|ālem]]",
+      "[[علما|olamā]]",
+      "[[عالمان|ālemān]]",
+      "scholars"
+     ],
+     [
+      "[[علم|elm]]",
+      "[[علوم|olum]]",
+      "[[علم‌ها|elm-hā]]",
+      "sciences"
+     ],
+     [
+      "[[فکر|fekr]]",
+      "[[افکار|afkār]]",
+      "[[فکرها|fekr-hā]]",
+      "thoughts, ideas"
+     ],
+     [
+      "[[اثر|asar]]",
+      "[[آثار|āsār]]",
+      "[[اثرها|asar-hā]]",
+      "works; traces, effects"
+     ],
+     [
+      "[[شخص|shakhs]]",
+      "[[اشخاص|ashkhās]]",
+      "[[شخص‌ها|shakhs-hā]]",
+      "persons"
+     ],
+     [
+      "[[مسئله|mas'ale]]",
+      "[[مسائل|masā'el]]",
+      "[[مسئله‌ها|mas'ale-hā]]",
+      "problems, issues"
+     ],
+     [
+      "[[مدرسه|madrese]]",
+      "[[مدارس|madāres]]",
+      "[[مدرسه‌ها|madrese-hā]]",
+      "schools"
+     ],
+     [
+      "[[قانون|ghānun]]",
+      "[[قوانین|ghavānin]]",
+      "[[قانون‌ها|ghānun-hā]]",
+      "laws"
+     ],
+     [
+      "[[کلمه|kalame]]",
+      "[[کلمات|kalamāt]]",
+      "[[کلمه‌ها|kalame-hā]]",
+      "words"
+     ],
+     [
+      "[[معلم|mo'allem]]",
+      "[[معلمین|mo'allemin]]",
+      "[[معلم‌ها|mo'allem-hā]]، [[معلمان|mo'allemān]]",
+      "teachers"
+     ]
     ]
    },
    "examples": [
-    {"fa": "اخبار ساعت نه را دیدی؟", "r": "akhbār-e sā'at-e noh rā didi?", "en": "Did you see the nine o'clock news?", "col": "اخبار ساعت نه رو دیدی؟", "colR": "akhbār-e sā'at-e noh ro didi?"},
-    {"fa": "آثار حافظ به زبان‌های زیادی ترجمه شده است.", "r": "āsār-e Hāfez be zabān-hā-ye ziyād-i tarjome shode ast.", "en": "Hafez's works have been translated into many languages."},
-    {"fa": "علمای دین درباره‌ی این مسئله نظرهای متفاوتی دارند.", "r": "olamā-ye din darbāre-ye in mas'ale nazar-hā-ye motafāvet-i dārand.", "en": "Religious scholars hold differing views on this question."},
-    {"fa": "برای این کار به اطلاعات بیشتری نیاز داریم.", "r": "barā-ye in kār be ettelā'āt-e bishtar-i niyāz dārim.", "en": "We need more information for this job.", "col": "برای این کار اطلاعات بیشتری لازم داریم.", "colR": "barā-ye in kār ettelā'āt-e bishtar-i lāzem dārim."},
-    {"fa": "مسائل اقتصادی برای مردم از همه مهم‌تر است.", "r": "masā'el-e eghtesādi barā-ye mardom az hame mohem-tar ast.", "en": "Economic issues matter more to people than anything else."},
-    {"fa": "در دهات اطراف یزد هنوز قنات‌های قدیمی هست.", "r": "dar dehāt-e atrāf-e Yazd hanuz ghanāt-hā-ye ghadimi hast.", "en": "In the villages around Yazd there are still old qanats.", "col": "تو دهات اطراف یزد هنوز قنات‌های قدیمی هست.", "colR": "tu dehāt-e atrāf-e Yazd hanuz ghanāt-hā-ye ghadimi hast."},
-    {"fa": "سبزیجات تازه را از بازار خریدم.", "r": "sabzijāt-e tāze rā az bāzār kharidam.", "en": "I bought fresh vegetables at the market.", "col": "سبزیجات تازه رو از بازار خریدم.", "colR": "sabzijāt-e tāze ro az bāzār kharidam."}
+    {
+     "fa": "اخبار ساعت نه را دیدی؟",
+     "r": "akhbār-e sā'at-e noh rā didi?",
+     "en": "Did you see the nine o'clock news?",
+     "col": "اخبار ساعت نه رو دیدی؟",
+     "colR": "akhbār-e sā'at-e noh ro didi?",
+     "faV": "اَخبارِ ساعَتِ نُه را دیدی؟",
+     "a": "44fbe6db2827",
+     "colV": "اَخبارِ ساعَتِ نُه رو دیدی؟",
+     "colA": "f7f848cb5677"
+    },
+    {
+     "fa": "آثار حافظ به زبان‌های زیادی ترجمه شده است.",
+     "r": "āsār-e Hāfez be zabān-hā-ye ziyād-i tarjome shode ast.",
+     "en": "Hafez's works have been translated into many languages.",
+     "faV": "آثارِ حافِظ به زَبان‌هایِ زیادی تَرجُمه شُده اَست.",
+     "a": "46f0ed20bed2"
+    },
+    {
+     "fa": "علمای دین درباره‌ی این مسئله نظرهای متفاوتی دارند.",
+     "r": "olamā-ye din darbāre-ye in mas'ale nazar-hā-ye motafāvet-i dārand.",
+     "en": "Religious scholars hold differing views on this question.",
+     "faV": "عُلَمایِ دین دَرباره‌یِ این مَسئَله نَظَرهایِ مُتَفاوِتی دارَند.",
+     "a": "98d83d7ada29"
+    },
+    {
+     "fa": "برای این کار به اطلاعات بیشتری نیاز داریم.",
+     "r": "barā-ye in kār be ettelā'āt-e bishtar-i niyāz dārim.",
+     "en": "We need more information for this job.",
+     "col": "برای این کار اطلاعات بیشتری لازم داریم.",
+     "colR": "barā-ye in kār ettelā'āt-e bishtar-i lāzem dārim.",
+     "faV": "بَرایِ این کار به اِطِّلاعاتِ بیشتَری نیاز داریم.",
+     "a": "be297da73723",
+     "colV": "بَرایِ این کار اِطِّلاعاتِ بیشتَری لازِم داریم.",
+     "colA": "6f276aa43893"
+    },
+    {
+     "fa": "مسائل اقتصادی برای مردم از همه مهم‌تر است.",
+     "r": "masā'el-e eghtesādi barā-ye mardom az hame mohem-tar ast.",
+     "en": "Economic issues matter more to people than anything else.",
+     "faV": "مَسائِلِ اِقتِصادی بَرایِ مَردُم اَز هَمه مُهِم‌تَر اَست.",
+     "a": "65d39e45796f"
+    },
+    {
+     "fa": "در دهات اطراف یزد هنوز قنات‌های قدیمی هست.",
+     "r": "dar dehāt-e atrāf-e Yazd hanuz ghanāt-hā-ye ghadimi hast.",
+     "en": "In the villages around Yazd there are still old qanats.",
+     "col": "تو دهات اطراف یزد هنوز قنات‌های قدیمی هست.",
+     "colR": "tu dehāt-e atrāf-e Yazd hanuz ghanāt-hā-ye ghadimi hast.",
+     "faV": "دَر دِهاتِ اَطرافِ یَزد هَنوز قَنات‌هایِ قَدیمی هَست.",
+     "a": "84a04d2966c1",
+     "colV": "تو دِهاتِ اَطرافِ یَزد هَنوز قَنات‌هایِ قَدیمی هَست.",
+     "colA": "2b863a34d92d"
+    },
+    {
+     "fa": "سبزیجات تازه را از بازار خریدم.",
+     "r": "sabzijāt-e tāze rā az bāzār kharidam.",
+     "en": "I bought fresh vegetables at the market.",
+     "col": "سبزیجات تازه رو از بازار خریدم.",
+     "colR": "sabzijāt-e tāze ro az bāzār kharidam.",
+     "faV": "سَبزیجاتِ تازه را اَز بازار خَریدَم.",
+     "a": "139bad04cb20",
+     "colV": "سَبزیجاتِ تازه رو اَز بازار خَریدَم.",
+     "colA": "c0fec4e87e5f"
+    }
    ]
   },
   {
@@ -142,34 +678,191 @@
    "title": "Tanvin, ة and ء",
    "md": "**Tanvin.** The ending [[ـاً|-an]] – an alef with two little strokes on top – turns an Arabic noun or adjective into an adverb, like English *-ly*: [[کامل|kāmel|complete]] → [[کاملاً|kāmelan|completely]]. You hear these adverbs all day long, in the most informal speech: [[لطفاً|lotfan|please]], [[مثلاً|masalan|for example; like]], [[حتماً|hatman|definitely]], [[اصلاً|aslan|(not) at all]]. Use tanvin only with Arabic words: [[گاهاً|gāhan]] (from Persian [[گاه|gāh]]) is common but considered wrong – say [[گاهی|gāhi|sometimes]].\n\n**ة** ([[تای گرد|tā-ye gerd|round t]]) ends many Arabic feminine nouns. Persian rewrites it: as [[ت|t]] where it is pronounced *t* – [[رحمت|rahmat|mercy]], [[دولت|dowlat|government]] – and as [[ه|e]] where it is pronounced *e* – [[مدرسه|madrese|school]], [[جمله|jomle|sentence]]. You will see ة itself only in a few fixed phrases, like [[دایرةالمعارف|dāyerat-ol-ma'āref|encyclopedia]].\n\n**ء** ([[همزه|hamze|hamza]]) is a glottal stop, the catch in English *uh-oh*; in Persian it sounds just like [[ع|'eyn]]. On its own it appears at the end of a few words ([[جزء|joz'|part]], [[شیء|shey'|object]], [[سوء|su'|bad, mis-]]); inside a word it sits on a 'seat': ئ ([[مسئول|mas'ul]]), أ ([[تأثیر|ta'sir]]), ؤ ([[سؤال|so'āl]]). At the end of many words Persian simply drops it: Arabic املاء becomes Persian [[املا|emlā|dictation]].",
    "table": {
-    "head": ["Sign", "Words", "Reading", "English"],
+    "head": [
+     "Sign",
+     "Words",
+     "Reading",
+     "English"
+    ],
     "rows": [
-     ["[[ـاً|-an]]", "[[لطفاً|lotfan]]", "lotfan", "please"],
-     ["[[ـاً|-an]]", "[[مثلاً|masalan]]", "masalan", "for example"],
-     ["[[ـاً|-an]]", "[[تقریباً|taghriban]]", "taghriban", "almost, about"],
-     ["[[ـاً|-an]]", "[[حتماً|hatman]]", "hatman", "definitely, surely"],
-     ["[[ـاً|-an]]", "[[اصلاً|aslan]]", "aslan", "(not) at all; originally"],
-     ["[[ـاً|-an]]", "[[معمولاً|ma'mulan]]", "ma'mulan", "usually"],
-     ["[[ـاً|-an]]", "[[واقعاً|vāghe'an]]", "vāghe'an", "really"],
-     ["[[ـاً|-an]]", "[[فوراً|fowran]]", "fowran", "immediately"],
-     ["[[ـاً|-an]]", "[[قبلاً|ghablan]]، [[بعداً|ba'dan]]", "ghablan, ba'dan", "before, later"],
-     ["ة → ت", "[[رحمت|rahmat]]، [[قدرت|ghodrat]]، [[دولت|dowlat]]", "rahmat, ghodrat, dowlat", "mercy, power, government"],
-     ["ة → ه", "[[مدرسه|madrese]]، [[جمله|jomle]]، [[دقیقه|daghighe]]", "madrese, jomle, daghighe", "school, sentence, minute"],
-     ["ء", "[[جزء|joz']]، [[شیء|shey']]، [[سوء|su']]", "joz', shey', su'", "part, object, bad"],
-     ["ئ", "[[مسئول|mas'ul]]، [[رئیس|ra'is]]، [[مسئله|mas'ale]]", "mas'ul, ra'is, mas'ale", "responsible, boss, problem"],
-     ["أ", "[[تأثیر|ta'sir]]، [[مأمور|ma'mur]]، [[تأخیر|ta'khir]]", "ta'sir, ma'mur, ta'khir", "influence, official, delay"],
-     ["ؤ", "[[سؤال|so'āl]]، [[مؤسسه|mo'assese]]، [[مؤمن|mo'men]]", "so'āl, mo'assese, mo'men", "question, institute, believer"]
+     [
+      "[[ـاً|-an]]",
+      "[[لطفاً|lotfan]]",
+      "lotfan",
+      "please"
+     ],
+     [
+      "[[ـاً|-an]]",
+      "[[مثلاً|masalan]]",
+      "masalan",
+      "for example"
+     ],
+     [
+      "[[ـاً|-an]]",
+      "[[تقریباً|taghriban]]",
+      "taghriban",
+      "almost, about"
+     ],
+     [
+      "[[ـاً|-an]]",
+      "[[حتماً|hatman]]",
+      "hatman",
+      "definitely, surely"
+     ],
+     [
+      "[[ـاً|-an]]",
+      "[[اصلاً|aslan]]",
+      "aslan",
+      "(not) at all; originally"
+     ],
+     [
+      "[[ـاً|-an]]",
+      "[[معمولاً|ma'mulan]]",
+      "ma'mulan",
+      "usually"
+     ],
+     [
+      "[[ـاً|-an]]",
+      "[[واقعاً|vāghe'an]]",
+      "vāghe'an",
+      "really"
+     ],
+     [
+      "[[ـاً|-an]]",
+      "[[فوراً|fowran]]",
+      "fowran",
+      "immediately"
+     ],
+     [
+      "[[ـاً|-an]]",
+      "[[قبلاً|ghablan]]، [[بعداً|ba'dan]]",
+      "ghablan, ba'dan",
+      "before, later"
+     ],
+     [
+      "ة → ت",
+      "[[رحمت|rahmat]]، [[قدرت|ghodrat]]، [[دولت|dowlat]]",
+      "rahmat, ghodrat, dowlat",
+      "mercy, power, government"
+     ],
+     [
+      "ة → ه",
+      "[[مدرسه|madrese]]، [[جمله|jomle]]، [[دقیقه|daghighe]]",
+      "madrese, jomle, daghighe",
+      "school, sentence, minute"
+     ],
+     [
+      "ء",
+      "[[جزء|joz']]، [[شیء|shey']]، [[سوء|su']]",
+      "joz', shey', su'",
+      "part, object, bad"
+     ],
+     [
+      "ئ",
+      "[[مسئول|mas'ul]]، [[رئیس|ra'is]]، [[مسئله|mas'ale]]",
+      "mas'ul, ra'is, mas'ale",
+      "responsible, boss, problem"
+     ],
+     [
+      "أ",
+      "[[تأثیر|ta'sir]]، [[مأمور|ma'mur]]، [[تأخیر|ta'khir]]",
+      "ta'sir, ma'mur, ta'khir",
+      "influence, official, delay"
+     ],
+     [
+      "ؤ",
+      "[[سؤال|so'āl]]، [[مؤسسه|mo'assese]]، [[مؤمن|mo'men]]",
+      "so'āl, mo'assese, mo'men",
+      "question, institute, believer"
+     ]
     ]
    },
    "examples": [
-    {"fa": "لطفاً چند دقیقه صبر کنید.", "r": "lotfan chand daghighe sabr konid.", "en": "Please wait a few minutes.", "col": "لطفاً چند دقیقه صبر کنین.", "colR": "lotfan chand daghighe sabr konin."},
-    {"fa": "مثلاً می‌توانیم با قطار برویم.", "r": "masalan mi-tavānim bā ghatār beravim.", "en": "We could go by train, for example.", "col": "مثلاً می‌تونیم با قطار بریم.", "colR": "masalan mi-tunim bā ghatār berim."},
-    {"fa": "تقریباً همه‌ی مهمان‌ها آمده‌اند.", "r": "taghriban hame-ye mehmān-hā āmade-and.", "en": "Almost all the guests have arrived.", "col": "تقریباً همه‌ی مهمونا اومدن.", "colR": "taghriban hame-ye mehmunā umadan."},
-    {"fa": "اصلاً نمی‌دانستم که ازدواج کرده‌ای!", "r": "aslan nemi-dānestam ke ezdevāj karde-i!", "en": "I had no idea you'd got married!", "col": "اصلاً نمی‌دونستم ازدواج کردی!", "colR": "aslan nemi-dunestam ezdevāj kardi!"},
-    {"fa": "حتماً فردا به تو زنگ می‌زنم.", "r": "hatman fardā be to zang mi-zanam.", "en": "I'll definitely call you tomorrow.", "col": "حتماً فردا بهت زنگ می‌زنم.", "colR": "hatman fardā behet zang mi-zanam."},
-    {"fa": "مسئول این بخش فعلاً در جلسه است.", "r": "mas'ul-e in bakhsh fe'lan dar jalase ast.", "en": "The person in charge of this department is in a meeting at the moment.", "col": "مسئول این بخش فعلاً تو جلسه‌ست.", "colR": "mas'ul-e in bakhsh fe'lan tu jalase-st."},
-    {"fa": "این سوءتفاهم روی کار ما تأثیر بدی گذاشت.", "r": "in su'-e-tafāhom ru-ye kār-e mā ta'sir-e bad-i gozāsht.", "en": "This misunderstanding had a bad effect on our work."},
-    {"fa": "ببخشید، یک سؤال داشتم.", "r": "bebakhshid, yek so'āl dāshtam.", "en": "Excuse me, I have a question.", "lit": "I had a question", "col": "ببخشید، یه سؤال داشتم.", "colR": "bebakhshid, ye so'āl dāshtam."}
+    {
+     "fa": "لطفاً چند دقیقه صبر کنید.",
+     "r": "lotfan chand daghighe sabr konid.",
+     "en": "Please wait a few minutes.",
+     "col": "لطفاً چند دقیقه صبر کنین.",
+     "colR": "lotfan chand daghighe sabr konin.",
+     "faV": "لُطفاً چَند دَقیقه صَبر کُنید.",
+     "a": "219da09b7612",
+     "colV": "لُطفاً چَند دَقیقه صَبر کُنین.",
+     "colA": "f588ea572ef1"
+    },
+    {
+     "fa": "مثلاً می‌توانیم با قطار برویم.",
+     "r": "masalan mi-tavānim bā ghatār beravim.",
+     "en": "We could go by train, for example.",
+     "col": "مثلاً می‌تونیم با قطار بریم.",
+     "colR": "masalan mi-tunim bā ghatār berim.",
+     "faV": "مَثَلاً می‌تَوانیم با قَطار بِرَویم.",
+     "a": "c30c35ca07d4",
+     "colV": "مَثَلاً می‌تونیم با قَطار بِریم.",
+     "colA": "db548963026e"
+    },
+    {
+     "fa": "تقریباً همه‌ی مهمان‌ها آمده‌اند.",
+     "r": "taghriban hame-ye mehmān-hā āmade-and.",
+     "en": "Almost all the guests have arrived.",
+     "col": "تقریباً همه‌ی مهمونا اومدن.",
+     "colR": "taghriban hame-ye mehmunā umadan.",
+     "faV": "تَقریباً هَمه‌یِ مِهمان‌ها آمَده‌اَند.",
+     "a": "83cd8875ef43",
+     "colV": "تَقریباً هَمه‌یِ مِهمونا اومَدَن.",
+     "colA": "2dd9b1e8a764"
+    },
+    {
+     "fa": "اصلاً نمی‌دانستم که ازدواج کرده‌ای!",
+     "r": "aslan nemi-dānestam ke ezdevāj karde-i!",
+     "en": "I had no idea you'd got married!",
+     "col": "اصلاً نمی‌دونستم ازدواج کردی!",
+     "colR": "aslan nemi-dunestam ezdevāj kardi!",
+     "faV": "اَصلاً نِمی‌دانِستَم که اِزدِواج کَرده‌ای!",
+     "a": "f58861865afa",
+     "colV": "اَصلاً نِمی‌دونِستَم اِزدِواج کَردی!",
+     "colA": "f847c3e1695f"
+    },
+    {
+     "fa": "حتماً فردا به تو زنگ می‌زنم.",
+     "r": "hatman fardā be to zang mi-zanam.",
+     "en": "I'll definitely call you tomorrow.",
+     "col": "حتماً فردا بهت زنگ می‌زنم.",
+     "colR": "hatman fardā behet zang mi-zanam.",
+     "faV": "حَتماً فَردا به تو زَنگ می‌زَنَم.",
+     "a": "838c6543ee14",
+     "colV": "حَتماً فَردا بِهِت زَنگ می‌زَنَم.",
+     "colA": "bbee59d17f8c"
+    },
+    {
+     "fa": "مسئول این بخش فعلاً در جلسه است.",
+     "r": "mas'ul-e in bakhsh fe'lan dar jalase ast.",
+     "en": "The person in charge of this department is in a meeting at the moment.",
+     "col": "مسئول این بخش فعلاً تو جلسه‌ست.",
+     "colR": "mas'ul-e in bakhsh fe'lan tu jalase-st.",
+     "faV": "مَسئولِ این بَخش فِعلاً دَر جَلَسه اَست.",
+     "a": "f8489dda20d4",
+     "colV": "مَسئولِ این بَخش فِعلاً تو جَلَسه‌ست.",
+     "colA": "72964400eef2"
+    },
+    {
+     "fa": "این سوءتفاهم روی کار ما تأثیر بدی گذاشت.",
+     "r": "in su'-e-tafāhom ru-ye kār-e mā ta'sir-e bad-i gozāsht.",
+     "en": "This misunderstanding had a bad effect on our work.",
+     "faV": "این سوءِتَفاهُم رویِ کارِ ما تَأثیرِ بَدی گُذاشت.",
+     "a": "f0e815df1caf"
+    },
+    {
+     "fa": "ببخشید، یک سؤال داشتم.",
+     "r": "bebakhshid, yek so'āl dāshtam.",
+     "en": "Excuse me, I have a question.",
+     "lit": "I had a question",
+     "col": "ببخشید، یه سؤال داشتم.",
+     "colR": "bebakhshid, ye so'āl dāshtam.",
+     "faV": "بِبَخشید، یِک سُؤال داشتَم.",
+     "a": "a4ec8c70ab6e",
+     "colV": "بِبَخشید، یه سُؤال داشتَم.",
+     "colA": "600175796e59"
+    }
    ]
   },
   {
@@ -177,18 +870,126 @@
    "title": "Why two plurals?",
    "context": "In his Persian class, Tom asks Ms Ahmadi about the Arabic words he keeps meeting in the newspaper. Ms Ahmadi speaks the careful Persian of the classroom; Tom speaks like his Tehrani friends.",
    "lines": [
-    {"who": "Tom", "fa": "خانم احمدی، در روزنامه نوشته بود «اخبار». این همان «خبرها» است؟", "r": "khānom-e Ahmadi, dar ruznāme neveshte bud «akhbār». in hamān «khabar-hā» ast?", "en": "Ms Ahmadi, the paper said 'akhbār'. Is that the same as 'khabar-hā'?", "col": "خانم احمدی، تو روزنامه نوشته بود «اخبار». یعنی همون «خبرها»؟", "colR": "khānom-e Ahmadi, tu ruznāme neveshte bud «akhbār». ya'ni hamun «khabar-hā»?"},
-    {"who": "Ms Ahmadi", "fa": "بله. «اخبار» جمع عربی «خبر» است و بیشتر در نوشته‌های رسمی به کار می‌رود.", "r": "bale. «akhbār» jam'-e arabi-ye «khabar» ast va bishtar dar neveshte-hā-ye rasmi be kār mi-ravad.", "en": "Yes. 'Akhbār' is the Arabic plural of 'khabar', and it's used mostly in formal writing."},
-    {"who": "Tom", "fa": "پس «کتب» هم یعنی «کتاب‌ها»؟", "r": "pas «kotob» ham ya'ni «ketāb-hā»?", "en": "So 'kotob' means 'ketāb-hā' too?", "col": "پس «کتب» هم یعنی «کتابا»؟", "colR": "pas «kotob» ham ya'ni «ketābā»?"},
-    {"who": "Ms Ahmadi", "fa": "دقیقاً! اما در گفتگو معمولاً «کتاب‌ها» می‌گوییم.", "r": "daghighan! ammā dar goftogu ma'mulan «ketāb-hā» mi-guyim.", "en": "Exactly! But in conversation we usually say 'ketāb-hā'."},
-    {"who": "Tom", "fa": "چرا «معلم» و «تعلیم» و «علم» این‌قدر شبیه هم هستند؟", "r": "cherā «mo'allem» va «ta'lim» va «elm» in-ghadr shabih-e ham hastand?", "en": "Why are 'mo'allem', 'ta'lim' and 'elm' so alike?", "col": "چرا «معلم» و «تعلیم» و «علم» این‌قدر شبیه همن؟", "colR": "cherā «mo'allem» o «ta'lim» o «elm» in-ghadr shabih-e ham-an?"},
-    {"who": "Ms Ahmadi", "fa": "چون همه از یک ریشه‌اند: ع، ل، م – یعنی دانستن.", "r": "chon hame az yek rishe-and: eyn, lām, mim – ya'ni dānestan.", "en": "Because they all come from one root – ʿ, l, m – which means 'knowing'."},
-    {"who": "Tom", "fa": "و آن حرف عجیب وسط «دایرةالمعارف» چیست؟", "r": "va ān harf-e ajib-e vasat-e «dāyerat-ol-ma'āref» chist?", "en": "And what's that strange letter in the middle of 'dāyerat-ol-ma'āref'?", "col": "اون حرف عجیب وسط «دایرةالمعارف» چیه؟", "colR": "un harf-e ajib-e vasat-e «dāyerat-ol-ma'āref» chiye?"},
-    {"who": "Ms Ahmadi", "fa": "آن «ة» است، یک حرف عربی. در فارسی معمولاً «ت» یا «ه» می‌شود: «رحمت» و «مدرسه».", "r": "ān «tā» ast, yek harf-e arabi. dar fārsi ma'mulan «te» yā «he» mi-shavad: «rahmat» va «madrese».", "en": "That's ة, an Arabic letter. In Persian it usually becomes ت or ه: rahmat (mercy), madrese (school)."},
-    {"who": "Tom", "fa": "و «ء» در «سوءتفاهم»؟", "r": "va «hamze» dar «su'-e-tafāhom»?", "en": "And the ء in 'su'-e tafāhom' (misunderstanding)?", "col": "«ء» تو «سوءتفاهم» چی؟", "colR": "«hamze» tu «su'-e-tafāhom» chi?"},
-    {"who": "Ms Ahmadi", "fa": "آن همزه است، یعنی یک مکث کوچک در صدا، مثل «ع».", "r": "ān hamze ast, ya'ni yek maks-e kuchak dar sedā, mesl-e «eyn».", "en": "That's the hamza – a little catch in the voice, like ع."},
-    {"who": "Tom", "fa": "فارسی واقعاً پر از عربی است!", "r": "fārsi vāghe'an por az arabi ast!", "en": "Persian really is full of Arabic!", "col": "فارسی واقعاً پر از عربیه!", "colR": "fārsi vāghe'an por az arabi-ye!"},
-    {"who": "Ms Ahmadi", "fa": "اتفاقاً «واقعاً» هم عربی است!", "r": "ettefāghan «vāghe'an» ham arabi ast!", "en": "As it happens, 'vāghe'an' – 'really' – is Arabic too!"}
+    {
+     "who": "Tom",
+     "fa": "خانم احمدی، در روزنامه نوشته بود «اخبار». این همان «خبرها» است؟",
+     "r": "khānom-e Ahmadi, dar ruznāme neveshte bud «akhbār». in hamān «khabar-hā» ast?",
+     "en": "Ms Ahmadi, the paper said 'akhbār'. Is that the same as 'khabar-hā'?",
+     "col": "خانم احمدی، تو روزنامه نوشته بود «اخبار». یعنی همون «خبرها»؟",
+     "colR": "khānom-e Ahmadi, tu ruznāme neveshte bud «akhbār». ya'ni hamun «khabar-hā»?",
+     "faV": "خانُمِ اَحمَدی، دَر روزنامه نِوِشته بود «اَخبار». این هَمان «خَبَرها» اَست؟",
+     "a": "b8bfc01a2afb",
+     "colV": "خانُمِ اَحمَدی، تو روزنامه نِوِشته بود «اَخبار». یَعنی هَمون «خَبَرها»؟",
+     "colA": "df1a59da5a23"
+    },
+    {
+     "who": "Ms Ahmadi",
+     "fa": "بله. «اخبار» جمع عربی «خبر» است و بیشتر در نوشته‌های رسمی به کار می‌رود.",
+     "r": "bale. «akhbār» jam'-e arabi-ye «khabar» ast va bishtar dar neveshte-hā-ye rasmi be kār mi-ravad.",
+     "en": "Yes. 'Akhbār' is the Arabic plural of 'khabar', and it's used mostly in formal writing.",
+     "faV": "بَله. «اَخبار» جَمعِ عَرَبیِ «خَبَر» اَست و بیشتَر دَر نِوِشته‌هایِ رَسمی به کار می‌رَوَد.",
+     "a": "968b8d705b45"
+    },
+    {
+     "who": "Tom",
+     "fa": "پس «کتب» هم یعنی «کتاب‌ها»؟",
+     "r": "pas «kotob» ham ya'ni «ketāb-hā»?",
+     "en": "So 'kotob' means 'ketāb-hā' too?",
+     "col": "پس «کتب» هم یعنی «کتابا»؟",
+     "colR": "pas «kotob» ham ya'ni «ketābā»?",
+     "faV": "پَس «کُتُب» هَم یَعنی «کِتاب‌ها»؟",
+     "a": "22db9a37a15a",
+     "colV": "پَس «کُتُب» هَم یَعنی «کِتابا»؟",
+     "colA": "b2b705dc4833"
+    },
+    {
+     "who": "Ms Ahmadi",
+     "fa": "دقیقاً! اما در گفتگو معمولاً «کتاب‌ها» می‌گوییم.",
+     "r": "daghighan! ammā dar goftogu ma'mulan «ketāb-hā» mi-guyim.",
+     "en": "Exactly! But in conversation we usually say 'ketāb-hā'.",
+     "faV": "دَقیقاً! اَمّا دَر گُفتُگو مَعمولاً «کِتاب‌ها» می‌گوییم.",
+     "a": "4dac6fc3d98b"
+    },
+    {
+     "who": "Tom",
+     "fa": "چرا «معلم» و «تعلیم» و «علم» این‌قدر شبیه هم هستند؟",
+     "r": "cherā «mo'allem» va «ta'lim» va «elm» in-ghadr shabih-e ham hastand?",
+     "en": "Why are 'mo'allem', 'ta'lim' and 'elm' so alike?",
+     "col": "چرا «معلم» و «تعلیم» و «علم» این‌قدر شبیه همن؟",
+     "colR": "cherā «mo'allem» o «ta'lim» o «elm» in-ghadr shabih-e ham-an?",
+     "faV": "چِرا «مُعَلِّم» و «تَعلیم» و «عِلم» این‌قَدر شَبیهِ هَم هَستَند؟",
+     "a": "b02aa3c6f045",
+     "colV": "چِرا «مُعَلِّم» و «تَعلیم» و «عِلم» این‌قَدر شَبیهِ هَمَن؟",
+     "colA": "dad177a87fc5"
+    },
+    {
+     "who": "Ms Ahmadi",
+     "fa": "چون همه از یک ریشه‌اند: ع، ل، م – یعنی دانستن.",
+     "r": "chon hame az yek rishe-and: eyn, lām, mim – ya'ni dānestan.",
+     "en": "Because they all come from one root – ʿ, l, m – which means 'knowing'.",
+     "faV": "چون هَمه اَز یِک ریشه‌اَند: ع، ل، م – یَعنی دانِستَن.",
+     "a": "cd87889954d9"
+    },
+    {
+     "who": "Tom",
+     "fa": "و آن حرف عجیب وسط «دایرةالمعارف» چیست؟",
+     "r": "va ān harf-e ajib-e vasat-e «dāyerat-ol-ma'āref» chist?",
+     "en": "And what's that strange letter in the middle of 'dāyerat-ol-ma'āref'?",
+     "col": "اون حرف عجیب وسط «دایرةالمعارف» چیه؟",
+     "colR": "un harf-e ajib-e vasat-e «dāyerat-ol-ma'āref» chiye?",
+     "faV": "و آن حَرفِ عَجیبِ وَسَطِ «دایِرَةاُلمَعارِف» چیست؟",
+     "a": "83e98eef29bb",
+     "colV": "اون حَرفِ عَجیبِ وَسَطِ «دایِرَةاُلمَعارِف» چیه؟",
+     "colA": "dcb03d3281e7"
+    },
+    {
+     "who": "Ms Ahmadi",
+     "fa": "آن «ة» است، یک حرف عربی. در فارسی معمولاً «ت» یا «ه» می‌شود: «رحمت» و «مدرسه».",
+     "r": "ān «tā» ast, yek harf-e arabi. dar fārsi ma'mulan «te» yā «he» mi-shavad: «rahmat» va «madrese».",
+     "en": "That's ة, an Arabic letter. In Persian it usually becomes ت or ه: rahmat (mercy), madrese (school).",
+     "faV": "آن «ة» اَست، یِک حَرفِ عَرَبی. دَر فارسی مَعمولاً «ت» یا «ه» می‌شَوَد: «رَحمَت» و «مَدرِسه».",
+     "a": "b61c8e5cef0b"
+    },
+    {
+     "who": "Tom",
+     "fa": "و «ء» در «سوءتفاهم»؟",
+     "r": "va «hamze» dar «su'-e-tafāhom»?",
+     "en": "And the ء in 'su'-e tafāhom' (misunderstanding)?",
+     "col": "«ء» تو «سوءتفاهم» چی؟",
+     "colR": "«hamze» tu «su'-e-tafāhom» chi?",
+     "faV": "و «ء» دَر «سوءِتَفاهُم»؟",
+     "a": "36106363f6bc",
+     "colV": "«ء» تو «سوءِتَفاهُم» چی؟",
+     "colA": "4c2e2ed44154"
+    },
+    {
+     "who": "Ms Ahmadi",
+     "fa": "آن همزه است، یعنی یک مکث کوچک در صدا، مثل «ع».",
+     "r": "ān hamze ast, ya'ni yek maks-e kuchak dar sedā, mesl-e «eyn».",
+     "en": "That's the hamza – a little catch in the voice, like ع.",
+     "faV": "آن هَمزه اَست، یَعنی یِک مَکثِ کوچَک دَر صِدا، مِثلِ «ع».",
+     "a": "76c23a9dc211"
+    },
+    {
+     "who": "Tom",
+     "fa": "فارسی واقعاً پر از عربی است!",
+     "r": "fārsi vāghe'an por az arabi ast!",
+     "en": "Persian really is full of Arabic!",
+     "col": "فارسی واقعاً پر از عربیه!",
+     "colR": "fārsi vāghe'an por az arabi-ye!",
+     "faV": "فارسی واقِعاً پُر اَز عَرَبی اَست!",
+     "a": "9196b01f4ac5",
+     "colV": "فارسی واقِعاً پُر اَز عَرَبیه!",
+     "colA": "409fc669604e"
+    },
+    {
+     "who": "Ms Ahmadi",
+     "fa": "اتفاقاً «واقعاً» هم عربی است!",
+     "r": "ettefāghan «vāghe'an» ham arabi ast!",
+     "en": "As it happens, 'vāghe'an' – 'really' – is Arabic too!",
+     "faV": "اِتِّفاقاً «واقِعاً» هَم عَرَبی اَست!",
+     "a": "62f3cbb36906"
+    }
    ]
   },
   {
@@ -214,14 +1015,62 @@
    "kind": "match",
    "title": "Match the Arabic plurals",
    "items": [
-    {"fa": "کتب", "r": "kotob", "en": "books"},
-    {"fa": "اخبار", "r": "akhbār", "en": "news"},
-    {"fa": "علما", "r": "olamā", "en": "scholars"},
-    {"fa": "آثار", "r": "āsār", "en": "works (of art), monuments"},
-    {"fa": "افکار", "r": "afkār", "en": "thoughts"},
-    {"fa": "قوانین", "r": "ghavānin", "en": "laws"},
-    {"fa": "مدارس", "r": "madāres", "en": "schools"},
-    {"fa": "اطلاعات", "r": "ettelā'āt", "en": "information"}
+    {
+     "fa": "کتب",
+     "r": "kotob",
+     "en": "books",
+     "faV": "کُتُب",
+     "a": "9426d41e4256"
+    },
+    {
+     "fa": "اخبار",
+     "r": "akhbār",
+     "en": "news",
+     "faV": "اَخبار",
+     "a": "3fc512c2872d"
+    },
+    {
+     "fa": "علما",
+     "r": "olamā",
+     "en": "scholars",
+     "faV": "عُلَما",
+     "a": "fc1954c3b212"
+    },
+    {
+     "fa": "آثار",
+     "r": "āsār",
+     "en": "works (of art), monuments",
+     "faV": "آثار",
+     "a": "bb19b91554eb"
+    },
+    {
+     "fa": "افکار",
+     "r": "afkār",
+     "en": "thoughts",
+     "faV": "اَفکار",
+     "a": "a9127a9ea1ce"
+    },
+    {
+     "fa": "قوانین",
+     "r": "ghavānin",
+     "en": "laws",
+     "faV": "قَوانین",
+     "a": "5d9a03290d5c"
+    },
+    {
+     "fa": "مدارس",
+     "r": "madāres",
+     "en": "schools",
+     "faV": "مَدارِس",
+     "a": "e25509f270e9"
+    },
+    {
+     "fa": "اطلاعات",
+     "r": "ettelā'āt",
+     "en": "information",
+     "faV": "اِطِّلاعات",
+     "a": "ecb1ec54941a"
+    }
    ]
   },
   {
@@ -229,12 +1078,66 @@
    "kind": "mcq",
    "title": "Roots, patterns, plurals",
    "items": [
-    {"q": "Which word means 'teacher'?", "options": ["معلم", "معلوم", "عالم"], "answer": 0, "explain": "All three share the root ع ل م: معلم 'teacher', معلوم 'known', عالم 'scholar'."},
-    {"q": "The pattern مفعول usually means…", "options": ["the doer", "the thing done to, '-ed'", "a place"], "answer": 1, "explain": "مکتوب 'written', معلوم 'known', مشهور 'famous'."},
-    {"q": "[[استفاده|estefāde]] is built on the pattern…", "options": ["تفعیل", "استفعال", "مفاعله"], "answer": 1, "explain": "است- at the start is the sign of استفعال: استفاده، استقبال، استخدام."},
-    {"q": "Which plural of خبر would you use in conversation about two bits of news?", "options": ["اخبار", "خبرها", "خبرات"], "answer": 1, "explain": "The Persian plural is the everyday one; اخبار is formal, or means 'the news (programme)'."},
-    {"q": "Which of these is considered incorrect?", "options": ["لطفاً", "گاهاً", "معمولاً"], "answer": 1, "explain": "گاه is a Persian word, so it should not take Arabic tanvin. Say گاهی."},
-    {"q": "In Persian spelling, the ة of Arabic مدرسة becomes…", "options": ["ت", "ه", "ء"], "answer": 1, "explain": "It is pronounced e, so it is written ه: مدرسه."}
+    {
+     "q": "Which word means 'teacher'?",
+     "options": [
+      "معلم",
+      "معلوم",
+      "عالم"
+     ],
+     "answer": 0,
+     "explain": "All three share the root ع ل م: معلم 'teacher', معلوم 'known', عالم 'scholar'."
+    },
+    {
+     "q": "The pattern مفعول usually means…",
+     "options": [
+      "the doer",
+      "the thing done to, '-ed'",
+      "a place"
+     ],
+     "answer": 1,
+     "explain": "مکتوب 'written', معلوم 'known', مشهور 'famous'."
+    },
+    {
+     "q": "[[استفاده|estefāde]] is built on the pattern…",
+     "options": [
+      "تفعیل",
+      "استفعال",
+      "مفاعله"
+     ],
+     "answer": 1,
+     "explain": "است- at the start is the sign of استفعال: استفاده، استقبال، استخدام."
+    },
+    {
+     "q": "Which plural of خبر would you use in conversation about two bits of news?",
+     "options": [
+      "اخبار",
+      "خبرها",
+      "خبرات"
+     ],
+     "answer": 1,
+     "explain": "The Persian plural is the everyday one; اخبار is formal, or means 'the news (programme)'."
+    },
+    {
+     "q": "Which of these is considered incorrect?",
+     "options": [
+      "لطفاً",
+      "گاهاً",
+      "معمولاً"
+     ],
+     "answer": 1,
+     "explain": "گاه is a Persian word, so it should not take Arabic tanvin. Say گاهی."
+    },
+    {
+     "q": "In Persian spelling, the ة of Arabic مدرسة becomes…",
+     "options": [
+      "ت",
+      "ه",
+      "ء"
+     ],
+     "answer": 1,
+     "explain": "It is pronounced e, so it is written ه: مدرسه."
+    }
    ]
   },
   {
@@ -242,12 +1145,44 @@
    "kind": "fill",
    "title": "The right word",
    "items": [
-    {"fa": "___ چند دقیقه صبر کنید.", "r": "___ chand daghighe sabr konid.", "en": "Please wait a few minutes.", "answer": "لطفاً"},
-    {"fa": "این کار ___ دو ساعت طول می‌کشد.", "r": "in kār ___ do sā'at tul mi-keshad.", "en": "This job takes about two hours.", "answer": "تقریباً"},
-    {"fa": "من ___ صبح‌ها قهوه می‌خورم.", "r": "man ___ sobh-hā ghahve mi-khoram.", "en": "I usually drink coffee in the mornings.", "answer": "معمولاً"},
-    {"fa": "شرکت دو مهندس جدید ___ کرد.", "r": "sherkat do mohandes-e jadid ___ kard.", "en": "The company hired two new engineers.", "answer": "استخدام", "hint": "the استفعال pattern"},
-    {"fa": "دو کشور درباره‌ی نفت ___ می‌کنند.", "r": "do keshvar darbāre-ye naft ___ mi-konand.", "en": "The two countries are negotiating about oil.", "answer": "مذاکره", "hint": "the مفاعله pattern: doing together"},
-    {"fa": "حرف شما ___ درست است.", "r": "harf-e shomā ___ dorost ast.", "en": "What you say is completely right.", "answer": "کاملاً"}
+    {
+     "fa": "___ چند دقیقه صبر کنید.",
+     "r": "___ chand daghighe sabr konid.",
+     "en": "Please wait a few minutes.",
+     "answer": "لطفاً"
+    },
+    {
+     "fa": "این کار ___ دو ساعت طول می‌کشد.",
+     "r": "in kār ___ do sā'at tul mi-keshad.",
+     "en": "This job takes about two hours.",
+     "answer": "تقریباً"
+    },
+    {
+     "fa": "من ___ صبح‌ها قهوه می‌خورم.",
+     "r": "man ___ sobh-hā ghahve mi-khoram.",
+     "en": "I usually drink coffee in the mornings.",
+     "answer": "معمولاً"
+    },
+    {
+     "fa": "شرکت دو مهندس جدید ___ کرد.",
+     "r": "sherkat do mohandes-e jadid ___ kard.",
+     "en": "The company hired two new engineers.",
+     "answer": "استخدام",
+     "hint": "the استفعال pattern"
+    },
+    {
+     "fa": "دو کشور درباره‌ی نفت ___ می‌کنند.",
+     "r": "do keshvar darbāre-ye naft ___ mi-konand.",
+     "en": "The two countries are negotiating about oil.",
+     "answer": "مذاکره",
+     "hint": "the مفاعله pattern: doing together"
+    },
+    {
+     "fa": "حرف شما ___ درست است.",
+     "r": "harf-e shomā ___ dorost ast.",
+     "en": "What you say is completely right.",
+     "answer": "کاملاً"
+    }
    ]
   },
   {
@@ -255,12 +1190,48 @@
    "kind": "translate",
    "title": "Say it in Persian",
    "items": [
-    {"en": "Please close the door.", "fa": "لطفاً در را ببندید.", "r": "lotfan dar rā bebandid."},
-    {"en": "I usually read the news in the morning.", "fa": "معمولاً صبح‌ها اخبار را می‌خوانم.", "r": "ma'mulan sobh-hā akhbār rā mi-khānam."},
-    {"en": "Hafez's works are famous all over the world.", "fa": "آثار حافظ در همه‌ی دنیا مشهور است.", "r": "āsār-e Hāfez dar hame-ye donyā mashhur ast."},
-    {"en": "Thank you for your help.", "fa": "از کمک شما تشکر می‌کنم.", "r": "az komak-e shomā tashakkor mi-konam."},
-    {"en": "Who is responsible for this office?", "fa": "مسئول این دفتر کیست؟", "r": "mas'ul-e in daftar kist?"},
-    {"en": "It was a misunderstanding.", "fa": "یک سوءتفاهم بود.", "r": "yek su'-e-tafāhom bud."}
+    {
+     "en": "Please close the door.",
+     "fa": "لطفاً در را ببندید.",
+     "r": "lotfan dar rā bebandid.",
+     "faV": "لُطفاً دَر را بِبَندید.",
+     "a": "ae4fd7c9978a"
+    },
+    {
+     "en": "I usually read the news in the morning.",
+     "fa": "معمولاً صبح‌ها اخبار را می‌خوانم.",
+     "r": "ma'mulan sobh-hā akhbār rā mi-khānam.",
+     "faV": "مَعمولاً صُبح‌ها اَخبار را می‌خوانَم.",
+     "a": "358f2a5efc8f"
+    },
+    {
+     "en": "Hafez's works are famous all over the world.",
+     "fa": "آثار حافظ در همه‌ی دنیا مشهور است.",
+     "r": "āsār-e Hāfez dar hame-ye donyā mashhur ast.",
+     "faV": "آثارِ حافِظ دَر هَمه‌یِ دُنیا مَشهور اَست.",
+     "a": "3c928605f473"
+    },
+    {
+     "en": "Thank you for your help.",
+     "fa": "از کمک شما تشکر می‌کنم.",
+     "r": "az komak-e shomā tashakkor mi-konam.",
+     "faV": "اَز کُمَکِ شُما تَشَکُّر می‌کُنَم.",
+     "a": "fff744b52694"
+    },
+    {
+     "en": "Who is responsible for this office?",
+     "fa": "مسئول این دفتر کیست؟",
+     "r": "mas'ul-e in daftar kist?",
+     "faV": "مَسئولِ این دَفتَر کیست؟",
+     "a": "937246270f0a"
+    },
+    {
+     "en": "It was a misunderstanding.",
+     "fa": "یک سوءتفاهم بود.",
+     "r": "yek su'-e-tafāhom bud.",
+     "faV": "یِک سوءِتَفاهُم بود.",
+     "a": "5307a2e727cc"
+    }
    ]
   },
   {
@@ -268,10 +1239,34 @@
    "kind": "order",
    "title": "Put the words in order",
    "items": [
-    {"fa": "لطفاً چند دقیقه صبر کنید.", "r": "lotfan chand daghighe sabr konid.", "en": "Please wait a few minutes."},
-    {"fa": "آثار حافظ به زبان‌های زیادی ترجمه شده است.", "r": "āsār-e Hāfez be zabān-hā-ye ziyād-i tarjome shode ast.", "en": "Hafez's works have been translated into many languages."},
-    {"fa": "تقریباً همه‌ی مهمان‌ها آمده‌اند.", "r": "taghriban hame-ye mehmān-hā āmade-and.", "en": "Almost all the guests have arrived."},
-    {"fa": "دو کشور درباره‌ی نفت مذاکره می‌کنند.", "r": "do keshvar darbāre-ye naft mozākere mi-konand.", "en": "The two countries are negotiating about oil."}
+    {
+     "fa": "لطفاً چند دقیقه صبر کنید.",
+     "r": "lotfan chand daghighe sabr konid.",
+     "en": "Please wait a few minutes.",
+     "faV": "لُطفاً چَند دَقیقه صَبر کُنید.",
+     "a": "219da09b7612"
+    },
+    {
+     "fa": "آثار حافظ به زبان‌های زیادی ترجمه شده است.",
+     "r": "āsār-e Hāfez be zabān-hā-ye ziyād-i tarjome shode ast.",
+     "en": "Hafez's works have been translated into many languages.",
+     "faV": "آثارِ حافِظ به زَبان‌هایِ زیادی تَرجُمه شُده اَست.",
+     "a": "46f0ed20bed2"
+    },
+    {
+     "fa": "تقریباً همه‌ی مهمان‌ها آمده‌اند.",
+     "r": "taghriban hame-ye mehmān-hā āmade-and.",
+     "en": "Almost all the guests have arrived.",
+     "faV": "تَقریباً هَمه‌یِ مِهمان‌ها آمَده‌اَند.",
+     "a": "83cd8875ef43"
+    },
+    {
+     "fa": "دو کشور درباره‌ی نفت مذاکره می‌کنند.",
+     "r": "do keshvar darbāre-ye naft mozākere mi-konand.",
+     "en": "The two countries are negotiating about oil.",
+     "faV": "دو کِشوَر دَرباره‌یِ نَفت مُذاکِره می‌کُنَند.",
+     "a": "b5638d899186"
+    }
    ]
   },
   {
@@ -279,10 +1274,48 @@
    "kind": "listen",
    "title": "Listen and choose",
    "items": [
-    {"fa": "مثلاً می‌توانیم فردا برویم.", "r": "masalan mi-tavānim fardā beravim.", "en": "We could go tomorrow, for example.", "options": ["We could go tomorrow, for example.", "We definitely went yesterday.", "Maybe we can't go tomorrow."], "answer": 0},
-    {"fa": "اخبار ساعت نه شروع شد.", "r": "akhbār-e sā'at-e noh shoru' shod.", "en": "The nine o'clock news has started.", "options": ["The news will start at nine.", "The nine o'clock news has started.", "Nine people heard the news."], "answer": 1},
-    {"fa": "مسئول این بخش فعلاً نیست.", "r": "mas'ul-e in bakhsh fe'lan nist.", "en": "The person in charge of this department isn't here at the moment.", "options": ["This department is closed for good.", "Nobody is responsible for this.", "The person in charge of this department isn't here at the moment."], "answer": 2}
+    {
+     "fa": "مثلاً می‌توانیم فردا برویم.",
+     "r": "masalan mi-tavānim fardā beravim.",
+     "en": "We could go tomorrow, for example.",
+     "options": [
+      "We could go tomorrow, for example.",
+      "We definitely went yesterday.",
+      "Maybe we can't go tomorrow."
+     ],
+     "answer": 0,
+     "faV": "مَثَلاً می‌تَوانیم فَردا بِرَویم.",
+     "a": "a6941e7d05b8"
+    },
+    {
+     "fa": "اخبار ساعت نه شروع شد.",
+     "r": "akhbār-e sā'at-e noh shoru' shod.",
+     "en": "The nine o'clock news has started.",
+     "options": [
+      "The news will start at nine.",
+      "The nine o'clock news has started.",
+      "Nine people heard the news."
+     ],
+     "answer": 1,
+     "faV": "اَخبارِ ساعَتِ نُه شُروع شُد.",
+     "a": "b299fba00534"
+    },
+    {
+     "fa": "مسئول این بخش فعلاً نیست.",
+     "r": "mas'ul-e in bakhsh fe'lan nist.",
+     "en": "The person in charge of this department isn't here at the moment.",
+     "options": [
+      "This department is closed for good.",
+      "Nobody is responsible for this.",
+      "The person in charge of this department isn't here at the moment."
+     ],
+     "answer": 2,
+     "faV": "مَسئولِ این بَخش فِعلاً نیست.",
+     "a": "11bb466f57ea"
+    }
    ]
   }
- ]
+ ],
+ "titleV": "عَرَبی دَر فارسی",
+ "titleA": "06cf50c522b1"
 }
