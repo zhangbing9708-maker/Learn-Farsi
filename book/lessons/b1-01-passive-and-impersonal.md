@@ -301,10 +301,10 @@ In Isfahan, Si-o-se-pol is where the city goes for its evening walk. Under the a
 
 **Put the words in order**
 
-1. ساخته / پل / این / اصفهان / شد. / در — This bridge was built in Isfahan.
-2. ترجمه / شده‌اند. / زبان / به / او / کتاب‌های / چند — His books have been translated into several languages.
-3. بهترین / می‌گویند / او / مکانیک / است. / شهر — They say he is the best mechanic in town.
-4. پارک / خیابان / کرد. / این / نمی‌شود / در — One can't park on this street.
+1. اصفهان / در / شد. / این / پل / ساخته — This bridge was built in Isfahan.
+2. زبان / شده‌اند. / ترجمه / به / او / کتاب‌های / چند — His books have been translated into several languages.
+3. شهر / مکانیک / می‌گویند / بهترین / او / است. — They say he is the best mechanic in town.
+4. کرد. / خیابان / در / این / نمی‌شود / پارک — One can't park on this street.
 
 <details><summary>Answers</summary>
 

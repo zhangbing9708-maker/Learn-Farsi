@@ -37,36 +37,204 @@
   }
  ],
  "sentences": [
-  {"fa": "در افغانستان به فارسی «دری» می‌گویند.", "r": "dar Afghānestān be fārsi «Dari» mi-guyand.", "en": "In Afghanistan Persian is called 'Dari'."},
-  {"fa": "تاجیکی را با خط سیریلیک می‌نویسند.", "r": "tājiki rā bā khatt-e sirilik mi-nevisand.", "en": "Tajik is written in the Cyrillic alphabet."},
-  {"fa": "یک فارسی‌زبان در بخارا و سمرقند می‌تواند با مردم حرف بزند.", "r": "yek fārsi-zabān dar Bokhārā va Samarghand mi-tavānad bā mardom harf be-zanad.", "en": "A Persian speaker can talk with people in Bukhara and Samarkand."},
-  {"fa": "رودکی پدر شعر فارسی است.", "r": "Rudaki pedar-e she'r-e fārsi ast.", "en": "Rudaki is the father of Persian poetry."},
-  {"fa": "جامی و بهزاد در هرات زندگی می‌کردند.", "r": "Jāmi va Behzād dar Herāt zendegi mi-kardand.", "en": "Jami and Behzad lived in Herat."},
-  {"fa": "منار کلان را در سال ۱۱۲۷ ساختند.", "r": "Menār-e Kalān rā dar sāl-e hezār-o-sad-o-bist-o-haft sākhtand.", "en": "The Kalon Minaret was built in 1127."},
-  {"fa": "سمرقند پایتخت تیمور بود.", "r": "Samarghand pāytakht-e Teymur bud.", "en": "Samarkand was Timur's capital."},
-  {"fa": "ریگستان یعنی «جای ریگ».", "r": "Rigestān ya'ni «jā-ye rig».", "en": "Registan means 'the sandy place'."},
-  {"fa": "در کابل می‌گویند «چطور استی؟».", "r": "dar Kābol mi-guyand «chetor asti?».", "en": "In Kabul they say 'chetor asti?' (how are you?)."},
-  {"fa": "در دوشنبه به جای «مرسی» می‌گویند «رحمت».", "r": "dar Dushanbe be jā-ye «mersi» mi-guyand «rahmat».", "en": "In Dushanbe they say 'rahmat' instead of 'mersi'."},
-  {"fa": "در افغانستان به سیب‌زمینی «کچالو» می‌گویند.", "r": "dar Afghānestān be sib-zamini «kachālu» mi-guyand.", "en": "In Afghanistan they call a potato 'kachalu'."},
-  {"fa": "بهترین فصل سفر به سمرقند بهار و پاییز است.", "r": "beh-tarin fasl-e safar be Samarghand bahār o pāyiz ast.", "en": "The best seasons for a trip to Samarkand are spring and autumn."}
+  {
+   "fa": "در افغانستان به فارسی «دری» می‌گویند.",
+   "r": "dar Afghānestān be fārsi «Dari» mi-guyand.",
+   "en": "In Afghanistan Persian is called 'Dari'.",
+   "faV": "دَر اَفغانِستان به فارسی «دَری» می‌گویَند.",
+   "a": "a9351d46c59b"
+  },
+  {
+   "fa": "تاجیکی را با خط سیریلیک می‌نویسند.",
+   "r": "tājiki rā bā khatt-e sirilik mi-nevisand.",
+   "en": "Tajik is written in the Cyrillic alphabet.",
+   "faV": "تاجیکی را با خَطِّ سیریلیک می‌نِویسَند.",
+   "a": "7c2db6b80d6a"
+  },
+  {
+   "fa": "یک فارسی‌زبان در بخارا و سمرقند می‌تواند با مردم حرف بزند.",
+   "r": "yek fārsi-zabān dar Bokhārā va Samarghand mi-tavānad bā mardom harf be-zanad.",
+   "en": "A Persian speaker can talk with people in Bukhara and Samarkand.",
+   "faV": "یِک فارسی‌زَبان دَر بُخارا و سَمَرقَند می‌تَوانَد با مَردُم حَرف بِزَنَد.",
+   "a": "262221799f06"
+  },
+  {
+   "fa": "رودکی پدر شعر فارسی است.",
+   "r": "Rudaki pedar-e she'r-e fārsi ast.",
+   "en": "Rudaki is the father of Persian poetry.",
+   "faV": "رودَکی پِدَرِ شِعرِ فارسی اَست.",
+   "a": "0bef32f3ec50"
+  },
+  {
+   "fa": "جامی و بهزاد در هرات زندگی می‌کردند.",
+   "r": "Jāmi va Behzād dar Herāt zendegi mi-kardand.",
+   "en": "Jami and Behzad lived in Herat.",
+   "faV": "جامی و بِهزاد دَر هِرات زِندِگی می‌کَردَند.",
+   "a": "0f22c6edc1ca"
+  },
+  {
+   "fa": "منار کلان را در سال ۱۱۲۷ ساختند.",
+   "r": "Menār-e Kalān rā dar sāl-e hezār-o-sad-o-bist-o-haft sākhtand.",
+   "en": "The Kalon Minaret was built in 1127.",
+   "faV": "مِنارِ کَلان را دَر سالِ ۱۱۲۷ ساختَند.",
+   "a": "4d5c74efbbdc"
+  },
+  {
+   "fa": "سمرقند پایتخت تیمور بود.",
+   "r": "Samarghand pāytakht-e Teymur bud.",
+   "en": "Samarkand was Timur's capital.",
+   "faV": "سَمَرقَند پایتَختِ تَیمور بود.",
+   "a": "99909e404422"
+  },
+  {
+   "fa": "ریگستان یعنی «جای ریگ».",
+   "r": "Rigestān ya'ni «jā-ye rig».",
+   "en": "Registan means 'the sandy place'.",
+   "faV": "ریگِستان یَعنی «جایِ ریگ».",
+   "a": "965be7432ebe"
+  },
+  {
+   "fa": "در کابل می‌گویند «چطور استی؟».",
+   "r": "dar Kābol mi-guyand «chetor asti?».",
+   "en": "In Kabul they say 'chetor asti?' (how are you?).",
+   "faV": "دَر کابُل می‌گویَند «چِطور اَستی؟».",
+   "a": "430b44f24197"
+  },
+  {
+   "fa": "در دوشنبه به جای «مرسی» می‌گویند «رحمت».",
+   "r": "dar Dushanbe be jā-ye «mersi» mi-guyand «rahmat».",
+   "en": "In Dushanbe they say 'rahmat' instead of 'mersi'.",
+   "faV": "دَر دوشَنبه به جایِ «مِرسی» می‌گویَند «رَحمَت».",
+   "a": "9f49b1864f86"
+  },
+  {
+   "fa": "در افغانستان به سیب‌زمینی «کچالو» می‌گویند.",
+   "r": "dar Afghānestān be sib-zamini «kachālu» mi-guyand.",
+   "en": "In Afghanistan they call a potato 'kachalu'.",
+   "faV": "دَر اَفغانِستان به سیب‌زَمینی «کَچالو» می‌گویَند.",
+   "a": "b241d9543df8"
+  },
+  {
+   "fa": "بهترین فصل سفر به سمرقند بهار و پاییز است.",
+   "r": "beh-tarin fasl-e safar be Samarghand bahār o pāyiz ast.",
+   "en": "The best seasons for a trip to Samarkand are spring and autumn.",
+   "faV": "بِهتَرین فَصلِ سَفَر به سَمَرقَند بَهار و پاییز اَست.",
+   "a": "45817d3feaeb"
+  }
  ],
  "vocab": [
-  {"fa": "دری", "r": "Dari", "en": "Dari, the Persian of Afghanistan"},
-  {"fa": "تاجیکی", "r": "tājiki", "en": "Tajik, the Persian of Tajikistan"},
-  {"fa": "فارسی‌زبان", "r": "fārsi-zabān", "en": "Persian-speaking; a Persian speaker"},
-  {"fa": "همسایه", "r": "hamsāye", "en": "neighbour"},
-  {"fa": "مدرسه", "r": "madrese", "en": "school; (historic) madrasa"},
-  {"fa": "کاشی‌کاری", "r": "kāshi-kāri", "en": "tilework"},
-  {"fa": "رصدخانه", "r": "rasad-khāne", "en": "observatory"},
-  {"fa": "ستاره‌شناس", "r": "setāre-shenās", "en": "astronomer"},
-  {"fa": "دربار", "r": "darbār", "en": "royal court"},
-  {"fa": "غزل", "r": "ghazal", "en": "ghazal, lyric poem"},
-  {"fa": "خال", "r": "khāl", "en": "beauty spot, mole"},
-  {"fa": "کاروان", "r": "kārvān", "en": "caravan"},
-  {"fa": "جاده‌ی ابریشم", "r": "jādde-ye abrisham", "en": "the Silk Road"},
-  {"fa": "تشکر", "r": "tashakkor", "en": "thanks, thank you"},
-  {"fa": "مسافر", "r": "mosāfer", "en": "traveller, passenger"},
-  {"fa": "سفر", "r": "safar", "en": "journey, trip"}
+  {
+   "fa": "دری",
+   "r": "Dari",
+   "en": "Dari, the Persian of Afghanistan",
+   "faV": "دَری",
+   "a": "f9c0fef80771"
+  },
+  {
+   "fa": "تاجیکی",
+   "r": "tājiki",
+   "en": "Tajik, the Persian of Tajikistan",
+   "faV": "تاجیکی",
+   "a": "f5c2d27680e1"
+  },
+  {
+   "fa": "فارسی‌زبان",
+   "r": "fārsi-zabān",
+   "en": "Persian-speaking; a Persian speaker",
+   "faV": "فارسی‌زَبان",
+   "a": "535d014af06a"
+  },
+  {
+   "fa": "همسایه",
+   "r": "hamsāye",
+   "en": "neighbour",
+   "faV": "هَمسایه",
+   "a": "1eebc0594655"
+  },
+  {
+   "fa": "مدرسه",
+   "r": "madrese",
+   "en": "school; (historic) madrasa",
+   "faV": "مَدرِسه",
+   "a": "f8d376cd80f6"
+  },
+  {
+   "fa": "کاشی‌کاری",
+   "r": "kāshi-kāri",
+   "en": "tilework",
+   "faV": "کاشی‌کاری",
+   "a": "d022b749a615"
+  },
+  {
+   "fa": "رصدخانه",
+   "r": "rasad-khāne",
+   "en": "observatory",
+   "faV": "رَصَدخانه",
+   "a": "92a3dd5c527c"
+  },
+  {
+   "fa": "ستاره‌شناس",
+   "r": "setāre-shenās",
+   "en": "astronomer",
+   "faV": "سِتاره‌شِناس",
+   "a": "f44c5d63ff0a"
+  },
+  {
+   "fa": "دربار",
+   "r": "darbār",
+   "en": "royal court",
+   "faV": "دَربار",
+   "a": "575a325bff06"
+  },
+  {
+   "fa": "غزل",
+   "r": "ghazal",
+   "en": "ghazal, lyric poem",
+   "faV": "غَزَل",
+   "a": "684bd52a69c8"
+  },
+  {
+   "fa": "خال",
+   "r": "khāl",
+   "en": "beauty spot, mole",
+   "faV": "خال",
+   "a": "d186bd9833e8"
+  },
+  {
+   "fa": "کاروان",
+   "r": "kārvān",
+   "en": "caravan",
+   "faV": "کاروان",
+   "a": "29d681dd5f6a"
+  },
+  {
+   "fa": "جاده‌ی ابریشم",
+   "r": "jādde-ye abrisham",
+   "en": "the Silk Road",
+   "faV": "جادّه‌یِ اَبریشَم",
+   "a": "9853563f7012"
+  },
+  {
+   "fa": "تشکر",
+   "r": "tashakkor",
+   "en": "thanks, thank you",
+   "faV": "تَشَکُّر",
+   "a": "0067447472fa"
+  },
+  {
+   "fa": "مسافر",
+   "r": "mosāfer",
+   "en": "traveller, passenger",
+   "faV": "مُسافِر",
+   "a": "10db1dff73df"
+  },
+  {
+   "fa": "سفر",
+   "r": "safar",
+   "en": "journey, trip",
+   "faV": "سَفَر",
+   "a": "30c5fae3f3fc"
+  }
  ],
  "facts": [
   "Tajik has been written in the Cyrillic alphabet since 1940; before that it used a Latin alphabet (1928–1940) and, earlier, the Perso-Arabic script.",
@@ -76,5 +244,7 @@
   "Rudaki (died c. 941), court poet of the Samanids at Bukhara, is often called the father of Persian poetry.",
   "Queen Goharshad built both the Musalla complex in Herat and the Goharshad Mosque in Mashhad.",
   "Ulugh Beg's observatory in Samarkand was built in the 1420s."
- ]
+ ],
+ "titleV": "هِرات، بُخارا و سَمَرقَند",
+ "titleA": "a05068ebcdbd"
 }

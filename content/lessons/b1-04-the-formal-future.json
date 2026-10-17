@@ -20,23 +20,119 @@
    "title": "The weekend forecast",
    "intro": "A weather report as you might read it on a news website. Almost every verb is in the formal future: خواهد شد، خواهد بارید، خواهد بود.",
    "sentences": [
-    {"fa": "به گزارش سازمان هواشناسی، از فردا هوای بیشتر نقاط کشور سرد خواهد شد.", "r": "be gozāresh-e sāzmān-e havāshenāsi, az fardā havā-ye bishtar-e noghāt-e keshvar sard khāhad shod.", "en": "According to the Meteorological Organisation, from tomorrow the weather in most parts of the country will turn cold."},
-    {"fa": "یک توده‌ی هوای سرد از شمال غرب وارد کشور خواهد شد.", "r": "yek tude-ye havā-ye sard az shomāl-e gharb vāred-e keshvar khāhad shod.", "en": "A mass of cold air will enter the country from the north-west."},
-    {"fa": "دمای هوای تهران تا ده درجه کاهش خواهد یافت.", "r": "damā-ye havā-ye Tehrān tā dah daraje kāhesh khāhad yāft.", "en": "Temperatures in Tehran will fall by as much as ten degrees."},
-    {"fa": "در ارتفاعات البرز برف سنگینی خواهد بارید.", "r": "dar ertefā'āt-e Alborz barf-e sangin-i khāhad bārid.", "en": "Heavy snow will fall in the Alborz mountains."},
-    {"fa": "به همین دلیل، جاده‌ی چالوس از عصر پنجشنبه بسته خواهد بود.", "r": "be hamin dalil, jādde-ye Chālus az asr-e panjshanbe baste khāhad bud.", "en": "For this reason the Chalus road will be closed from Thursday afternoon."},
-    {"fa": "پلیس راه از مسافران خواست که بدون زنجیر چرخ به سفر نروند.", "r": "polis-e rāh az mosāferān khāst ke bedun-e zanjir-e charkh be safar naravand.", "en": "The highway police have asked travellers not to set off without snow chains."},
-    {"fa": "در استان‌های جنوبی، هوا گرم و آفتابی خواهد ماند.", "r": "dar ostān-hā-ye jonubi, havā garm o āftābi khāhad mānd.", "en": "In the southern provinces the weather will stay warm and sunny."},
-    {"fa": "باران از شنبه در گیلان و مازندران شروع خواهد شد و تا دوشنبه ادامه خواهد داشت.", "r": "bārān az shanbe dar Gilān o Māzandarān shoru' khāhad shod o tā doshanbe edāme khāhad dāsht.", "en": "Rain will begin in Gilan and Mazandaran on Saturday and will continue until Monday."},
-    {"fa": "کارشناسان پیش‌بینی می‌کنند که آلودگی هوای تهران با وزش باد کمتر خواهد شد.", "r": "kārshenāsān pish-bini mi-konand ke āludegi-ye havā-ye Tehrān bā vazesh-e bād kam-tar khāhad shod.", "en": "Experts predict that Tehran's air pollution will ease as the wind picks up."},
-    {"fa": "مدرسه‌های تهران روز شنبه تعطیل نخواهند بود.", "r": "madrese-hā-ye Tehrān ruz-e shanbe ta'til nakhāhand bud.", "en": "Tehran's schools will not be closed on Saturday."},
-    {"fa": "هواشناسی هشدار داد که در روزهای آینده احتمال یخبندان وجود خواهد داشت.", "r": "havāshenāsi hoshdār dād ke dar ruz-hā-ye āyande ehtemāl-e yakhbandān vojud khāhad dāsht.", "en": "The weather service warned that there will be a risk of frost in the coming days."},
-    {"fa": "گزارش بعدی ساعت شش عصر منتشر خواهد شد.", "r": "gozāresh-e ba'di sā'at-e shesh-e asr montasher khāhad shod.", "en": "The next report will be published at six in the evening."}
+    {
+     "fa": "به گزارش سازمان هواشناسی، از فردا هوای بیشتر نقاط کشور سرد خواهد شد.",
+     "r": "be gozāresh-e sāzmān-e havāshenāsi, az fardā havā-ye bishtar-e noghāt-e keshvar sard khāhad shod.",
+     "en": "According to the Meteorological Organisation, from tomorrow the weather in most parts of the country will turn cold.",
+     "faV": "به گُزارِشِ سازمانِ هَواشِناسی، اَز فَردا هَوایِ بیشتَرِ نُقاطِ کِشوَر سَرد خواهَد شُد.",
+     "a": "741a6175fdbf"
+    },
+    {
+     "fa": "یک توده‌ی هوای سرد از شمال غرب وارد کشور خواهد شد.",
+     "r": "yek tude-ye havā-ye sard az shomāl-e gharb vāred-e keshvar khāhad shod.",
+     "en": "A mass of cold air will enter the country from the north-west.",
+     "faV": "یِک توده‌یِ هَوایِ سَرد اَز شُمالِ غَرب وارِدِ کِشوَر خواهَد شُد.",
+     "a": "637e60bd9033"
+    },
+    {
+     "fa": "دمای هوای تهران تا ده درجه کاهش خواهد یافت.",
+     "r": "damā-ye havā-ye Tehrān tā dah daraje kāhesh khāhad yāft.",
+     "en": "Temperatures in Tehran will fall by as much as ten degrees.",
+     "faV": "دَمایِ هَوایِ تِهران تا دَه دَرَجه کاهِش خواهَد یافت.",
+     "a": "686bd6dabdc9"
+    },
+    {
+     "fa": "در ارتفاعات البرز برف سنگینی خواهد بارید.",
+     "r": "dar ertefā'āt-e Alborz barf-e sangin-i khāhad bārid.",
+     "en": "Heavy snow will fall in the Alborz mountains.",
+     "faV": "دَر اِرتِفاعاتِ اَلبُرز بَرفِ سَنگینی خواهَد بارید.",
+     "a": "c6f69c0dd21a"
+    },
+    {
+     "fa": "به همین دلیل، جاده‌ی چالوس از عصر پنجشنبه بسته خواهد بود.",
+     "r": "be hamin dalil, jādde-ye Chālus az asr-e panjshanbe baste khāhad bud.",
+     "en": "For this reason the Chalus road will be closed from Thursday afternoon.",
+     "faV": "به هَمین دَلیل، جادّه‌یِ چالوس اَز عَصرِ پَنجشَنبه بَسته خواهَد بود.",
+     "a": "152b8726d8e5"
+    },
+    {
+     "fa": "پلیس راه از مسافران خواست که بدون زنجیر چرخ به سفر نروند.",
+     "r": "polis-e rāh az mosāferān khāst ke bedun-e zanjir-e charkh be safar naravand.",
+     "en": "The highway police have asked travellers not to set off without snow chains.",
+     "faV": "پُلیسِ راه اَز مُسافِران خواست که بِدونِ زَنجیرِ چَرخ به سَفَر نَرَوَند.",
+     "a": "98144a532b3e"
+    },
+    {
+     "fa": "در استان‌های جنوبی، هوا گرم و آفتابی خواهد ماند.",
+     "r": "dar ostān-hā-ye jonubi, havā garm o āftābi khāhad mānd.",
+     "en": "In the southern provinces the weather will stay warm and sunny.",
+     "faV": "دَر اُستان‌هایِ جُنوبی، هَوا گَرم و آفتابی خواهَد ماند.",
+     "a": "20b6feecaa55"
+    },
+    {
+     "fa": "باران از شنبه در گیلان و مازندران شروع خواهد شد و تا دوشنبه ادامه خواهد داشت.",
+     "r": "bārān az shanbe dar Gilān o Māzandarān shoru' khāhad shod o tā doshanbe edāme khāhad dāsht.",
+     "en": "Rain will begin in Gilan and Mazandaran on Saturday and will continue until Monday.",
+     "faV": "باران اَز شَنبه دَر گیلان و مازَندَران شُروع خواهَد شُد و تا دوشَنبه اِدامه خواهَد داشت.",
+     "a": "78af78853d82"
+    },
+    {
+     "fa": "کارشناسان پیش‌بینی می‌کنند که آلودگی هوای تهران با وزش باد کمتر خواهد شد.",
+     "r": "kārshenāsān pish-bini mi-konand ke āludegi-ye havā-ye Tehrān bā vazesh-e bād kam-tar khāhad shod.",
+     "en": "Experts predict that Tehran's air pollution will ease as the wind picks up.",
+     "faV": "کارشِناسان پیش‌بینی می‌کُنَند که آلودِگیِ هَوایِ تِهران با وَزِشِ باد کَمتَر خواهَد شُد.",
+     "a": "6f69c9e8a7a9"
+    },
+    {
+     "fa": "مدرسه‌های تهران روز شنبه تعطیل نخواهند بود.",
+     "r": "madrese-hā-ye Tehrān ruz-e shanbe ta'til nakhāhand bud.",
+     "en": "Tehran's schools will not be closed on Saturday.",
+     "faV": "مَدرِسه‌هایِ تِهران روزِ شَنبه تَعطیل نَخواهَند بود.",
+     "a": "6c9af046f441"
+    },
+    {
+     "fa": "هواشناسی هشدار داد که در روزهای آینده احتمال یخبندان وجود خواهد داشت.",
+     "r": "havāshenāsi hoshdār dād ke dar ruz-hā-ye āyande ehtemāl-e yakhbandān vojud khāhad dāsht.",
+     "en": "The weather service warned that there will be a risk of frost in the coming days.",
+     "faV": "هَواشِناسی هُشدار داد که دَر روزهایِ آیَنده اِحتِمالِ یَخبَندان وُجود خواهَد داشت.",
+     "a": "c80c84663c91"
+    },
+    {
+     "fa": "گزارش بعدی ساعت شش عصر منتشر خواهد شد.",
+     "r": "gozāresh-e ba'di sā'at-e shesh-e asr montasher khāhad shod.",
+     "en": "The next report will be published at six in the evening.",
+     "faV": "گُزارِشِ بَعدی ساعَتِ شِشِ عَصر مُنتَشِر خواهَد شُد.",
+     "a": "3dd627d07cb9"
+    }
    ],
    "questions": [
-    {"q": "Where will heavy snow fall?", "options": ["in the southern provinces", "in the Alborz mountains", "in central Tehran"], "answer": 1},
-    {"q": "What will happen to the Chalus road?", "options": ["It will be closed.", "It will be repaired.", "It will be busier than usual."], "answer": 0},
-    {"q": "Which form means 'will not be'?", "options": ["نخواهند بود", "خواهد بود", "نمی‌خواهند"], "answer": 0}
+    {
+     "q": "Where will heavy snow fall?",
+     "options": [
+      "in the southern provinces",
+      "in the Alborz mountains",
+      "in central Tehran"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What will happen to the Chalus road?",
+     "options": [
+      "It will be closed.",
+      "It will be repaired.",
+      "It will be busier than usual."
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Which form means 'will not be'?",
+     "options": [
+      "نخواهند بود",
+      "خواهد بود",
+      "نمی‌خواهند"
+     ],
+     "answer": 0
+    }
    ]
   },
   {
@@ -48,30 +144,215 @@
    "type": "vocab",
    "title": "Words",
    "items": [
-    {"fa": "پیش‌بینی کردن", "r": "pish-bini kardan", "en": "to forecast, predict", "pos": "v"},
-    {"fa": "هواشناسی", "r": "havāshenāsi", "en": "meteorology; the weather service", "pos": "n"},
-    {"fa": "دما", "r": "damā", "en": "temperature", "pos": "n"},
-    {"fa": "درجه", "r": "daraje", "en": "degree", "pos": "n"},
-    {"fa": "کاهش یافتن", "r": "kāhesh yāftan", "en": "to decrease, fall (formal)", "pos": "v", "note": "everyday: کم شدن"},
-    {"fa": "افزایش یافتن", "r": "afzāyesh yāftan", "en": "to increase, rise (formal)", "pos": "v", "note": "everyday: زیاد شدن"},
-    {"fa": "ارتفاعات", "r": "ertefā'āt", "en": "heights, high mountains", "pos": "n", "note": "Arabic plural of ارتفاع 'height'"},
-    {"fa": "باریدن", "r": "bāridan", "en": "to fall (of rain or snow)", "pos": "v"},
-    {"fa": "جاده", "r": "jādde", "en": "road", "pos": "n"},
-    {"fa": "زنجیر چرخ", "r": "zanjir-e charkh", "en": "snow chains", "pos": "n"},
-    {"fa": "مسافر", "r": "mosāfer", "en": "traveller, passenger", "pos": "n"},
-    {"fa": "استان", "r": "ostān", "en": "province", "pos": "n"},
-    {"fa": "آلودگی", "r": "āludegi", "en": "pollution", "pos": "n"},
-    {"fa": "یخبندان", "r": "yakhbandān", "en": "frost, freezing weather", "pos": "n"},
-    {"fa": "احتمال", "r": "ehtemāl", "en": "probability, chance", "pos": "n"},
-    {"fa": "وجود داشتن", "r": "vojud dāshtan", "en": "to exist; there to be", "pos": "v"},
-    {"fa": "ادامه داشتن", "r": "edāme dāshtan", "en": "to continue, go on", "pos": "v"},
-    {"fa": "منتشر شدن", "r": "montasher shodan", "en": "to be published", "pos": "v"},
-    {"fa": "قرار بودن", "r": "gharār budan", "en": "to be planned, be supposed to", "pos": "v", "ex": {"fa": "قرار است فردا برسند.", "r": "gharār ast fardā beresand.", "en": "They're due to arrive tomorrow."}},
-    {"fa": "راه افتادن", "r": "rāh oftādan", "en": "to set off", "pos": "v"},
-    {"fa": "گوینده", "r": "guyande", "en": "(news) presenter, announcer", "pos": "n"},
-    {"fa": "هرگز", "r": "hargez", "en": "never", "pos": "adv"},
-    {"fa": "رسمی", "r": "rasmi", "en": "formal, official", "pos": "adj"},
-    {"fa": "آینده", "r": "āyande", "en": "future; next, coming", "pos": "n", "ex": {"fa": "هفته‌ی آینده", "r": "hafte-ye āyande", "en": "next week"}}
+    {
+     "fa": "پیش‌بینی کردن",
+     "r": "pish-bini kardan",
+     "en": "to forecast, predict",
+     "pos": "v",
+     "faV": "پیش‌بینی کَردَن",
+     "a": "1f1fb7bc6eef"
+    },
+    {
+     "fa": "هواشناسی",
+     "r": "havāshenāsi",
+     "en": "meteorology; the weather service",
+     "pos": "n",
+     "faV": "هَواشِناسی",
+     "a": "90f5a820d956"
+    },
+    {
+     "fa": "دما",
+     "r": "damā",
+     "en": "temperature",
+     "pos": "n",
+     "faV": "دَما",
+     "a": "8c704f7a19af"
+    },
+    {
+     "fa": "درجه",
+     "r": "daraje",
+     "en": "degree",
+     "pos": "n",
+     "faV": "دَرَجه",
+     "a": "cfeda5e96bce"
+    },
+    {
+     "fa": "کاهش یافتن",
+     "r": "kāhesh yāftan",
+     "en": "to decrease, fall (formal)",
+     "pos": "v",
+     "note": "everyday: کم شدن",
+     "faV": "کاهِش یافتَن",
+     "a": "760eda2f0d38"
+    },
+    {
+     "fa": "افزایش یافتن",
+     "r": "afzāyesh yāftan",
+     "en": "to increase, rise (formal)",
+     "pos": "v",
+     "note": "everyday: زیاد شدن",
+     "faV": "اَفزایِش یافتَن",
+     "a": "ec0995affd42"
+    },
+    {
+     "fa": "ارتفاعات",
+     "r": "ertefā'āt",
+     "en": "heights, high mountains",
+     "pos": "n",
+     "note": "Arabic plural of ارتفاع 'height'",
+     "faV": "اِرتِفاعات",
+     "a": "642f33d6b1d0"
+    },
+    {
+     "fa": "باریدن",
+     "r": "bāridan",
+     "en": "to fall (of rain or snow)",
+     "pos": "v",
+     "faV": "باریدَن",
+     "a": "b79b3c2b2aa5"
+    },
+    {
+     "fa": "جاده",
+     "r": "jādde",
+     "en": "road",
+     "pos": "n",
+     "faV": "جادّه",
+     "a": "f74af9c695db"
+    },
+    {
+     "fa": "زنجیر چرخ",
+     "r": "zanjir-e charkh",
+     "en": "snow chains",
+     "pos": "n",
+     "faV": "زَنجیرِ چَرخ",
+     "a": "9a6af6b2acb8"
+    },
+    {
+     "fa": "مسافر",
+     "r": "mosāfer",
+     "en": "traveller, passenger",
+     "pos": "n",
+     "faV": "مُسافِر",
+     "a": "10db1dff73df"
+    },
+    {
+     "fa": "استان",
+     "r": "ostān",
+     "en": "province",
+     "pos": "n",
+     "faV": "اُستان",
+     "a": "73cb885dea3c"
+    },
+    {
+     "fa": "آلودگی",
+     "r": "āludegi",
+     "en": "pollution",
+     "pos": "n",
+     "faV": "آلودِگی",
+     "a": "bdce533ac6ae"
+    },
+    {
+     "fa": "یخبندان",
+     "r": "yakhbandān",
+     "en": "frost, freezing weather",
+     "pos": "n",
+     "faV": "یَخبَندان",
+     "a": "d2d7b9274cf9"
+    },
+    {
+     "fa": "احتمال",
+     "r": "ehtemāl",
+     "en": "probability, chance",
+     "pos": "n",
+     "faV": "اِحتِمال",
+     "a": "d8c87710612f"
+    },
+    {
+     "fa": "وجود داشتن",
+     "r": "vojud dāshtan",
+     "en": "to exist; there to be",
+     "pos": "v",
+     "faV": "وُجود داشتَن",
+     "a": "3b756aea10f1"
+    },
+    {
+     "fa": "ادامه داشتن",
+     "r": "edāme dāshtan",
+     "en": "to continue, go on",
+     "pos": "v",
+     "faV": "اِدامه داشتَن",
+     "a": "f3f6faa1da62"
+    },
+    {
+     "fa": "منتشر شدن",
+     "r": "montasher shodan",
+     "en": "to be published",
+     "pos": "v",
+     "faV": "مُنتَشِر شُدَن",
+     "a": "96f3a437f0f8"
+    },
+    {
+     "fa": "قرار بودن",
+     "r": "gharār budan",
+     "en": "to be planned, be supposed to",
+     "pos": "v",
+     "ex": {
+      "fa": "قرار است فردا برسند.",
+      "r": "gharār ast fardā beresand.",
+      "en": "They're due to arrive tomorrow.",
+      "faV": "قَرار اَست فَردا بِرِسَند.",
+      "a": "f5d43290e2eb"
+     },
+     "faV": "قَرار بودَن",
+     "a": "a03d5c69c6a3"
+    },
+    {
+     "fa": "راه افتادن",
+     "r": "rāh oftādan",
+     "en": "to set off",
+     "pos": "v",
+     "faV": "راه اُفتادَن",
+     "a": "fe706587363f"
+    },
+    {
+     "fa": "گوینده",
+     "r": "guyande",
+     "en": "(news) presenter, announcer",
+     "pos": "n",
+     "faV": "گویَنده",
+     "a": "e2a9f91911f6"
+    },
+    {
+     "fa": "هرگز",
+     "r": "hargez",
+     "en": "never",
+     "pos": "adv",
+     "faV": "هَرگِز",
+     "a": "5b154ab15043"
+    },
+    {
+     "fa": "رسمی",
+     "r": "rasmi",
+     "en": "formal, official",
+     "pos": "adj",
+     "faV": "رَسمی",
+     "a": "fb5d484fd3cf"
+    },
+    {
+     "fa": "آینده",
+     "r": "āyande",
+     "en": "future; next, coming",
+     "pos": "n",
+     "ex": {
+      "fa": "هفته‌ی آینده",
+      "r": "hafte-ye āyande",
+      "en": "next week",
+      "faV": "هَفته‌یِ آیَنده",
+      "a": "68c1482ff2d2"
+     },
+     "faV": "آیَنده",
+     "a": "8d4b7551c7f8"
+    }
    ]
   },
   {
@@ -79,25 +360,112 @@
    "title": "Building the formal future",
    "md": "The future has two parts:\n\n1. the auxiliary [[خواه|khāh]] – the present stem of [[خواستن|khāstan]] – with the personal endings: [[خواهم|khāham]], [[خواهی|khāhi]], [[خواهد|khāhad]], [[خواهیم|khāhim]], [[خواهید|khāhid]], [[خواهند|khāhand]];\n2. the **short infinitive** of the main verb, which is simply its past stem and never changes: [[رفت|raft]], [[کرد|kard]], [[بود|bud]], [[شد|shod]].\n\nThe main verb takes **neither** می- **nor** بـ-: [[خواهم رفت|khāham raft]], never *خواهم می‌روم or *خواهم بروم. For the negative, put ن- on the auxiliary: [[نخواهم رفت|nakhāham raft|I will not go]].\n\nKeep it apart from [[می‌خواهم بروم|mi-khāham beravam|I want to go]] – the verb *want* with می- and a subjunctive. One syllable, a completely different meaning.",
    "table": {
-    "head": ["Person", "Future", "Negative", "English"],
+    "head": [
+     "Person",
+     "Future",
+     "Negative",
+     "English"
+    ],
     "rows": [
-     ["[[من|man]]", "[[خواهم رفت|khāham raft]]", "[[نخواهم رفت|nakhāham raft]]", "I will go / will not go"],
-     ["[[تو|to]]", "[[خواهی رفت|khāhi raft]]", "[[نخواهی رفت|nakhāhi raft]]", "you will go"],
-     ["[[او|u]]", "[[خواهد رفت|khāhad raft]]", "[[نخواهد رفت|nakhāhad raft]]", "he / she will go"],
-     ["[[ما|mā]]", "[[خواهیم رفت|khāhim raft]]", "[[نخواهیم رفت|nakhāhim raft]]", "we will go"],
-     ["[[شما|shomā]]", "[[خواهید رفت|khāhid raft]]", "[[نخواهید رفت|nakhāhid raft]]", "you (plural, polite) will go"],
-     ["[[آن‌ها|ān-hā]]", "[[خواهند رفت|khāhand raft]]", "[[نخواهند رفت|nakhāhand raft]]", "they will go"]
+     [
+      "[[من|man]]",
+      "[[خواهم رفت|khāham raft]]",
+      "[[نخواهم رفت|nakhāham raft]]",
+      "I will go / will not go"
+     ],
+     [
+      "[[تو|to]]",
+      "[[خواهی رفت|khāhi raft]]",
+      "[[نخواهی رفت|nakhāhi raft]]",
+      "you will go"
+     ],
+     [
+      "[[او|u]]",
+      "[[خواهد رفت|khāhad raft]]",
+      "[[نخواهد رفت|nakhāhad raft]]",
+      "he / she will go"
+     ],
+     [
+      "[[ما|mā]]",
+      "[[خواهیم رفت|khāhim raft]]",
+      "[[نخواهیم رفت|nakhāhim raft]]",
+      "we will go"
+     ],
+     [
+      "[[شما|shomā]]",
+      "[[خواهید رفت|khāhid raft]]",
+      "[[نخواهید رفت|nakhāhid raft]]",
+      "you (plural, polite) will go"
+     ],
+     [
+      "[[آن‌ها|ān-hā]]",
+      "[[خواهند رفت|khāhand raft]]",
+      "[[نخواهند رفت|nakhāhand raft]]",
+      "they will go"
+     ]
     ]
    },
    "examples": [
-    {"fa": "فردا در شمال کشور باران خواهد بارید.", "r": "fardā dar shomāl-e keshvar bārān khāhad bārid.", "en": "Tomorrow it will rain in the north of the country."},
-    {"fa": "نتیجه‌ی انتخابات امشب اعلام خواهد شد.", "r": "natije-ye entekhābāt emshab e'lām khāhad shod.", "en": "The election result will be announced tonight."},
-    {"fa": "ما سال آینده به ایران خواهیم رفت.", "r": "mā sāl-e āyande be Irān khāhim raft.", "en": "We will go to Iran next year.", "col": "سال دیگه می‌ریم ایران.", "colR": "sāl-e dige mi-rim Irān."},
-    {"fa": "این قانون از اول فروردین اجرا خواهد شد.", "r": "in ghānun az avval-e Farvardin ejrā khāhad shod.", "en": "This law will come into force on 1 Farvardin."},
-    {"fa": "به زودی خبرهای بیشتری خواهید شنید.", "r": "be zudi khabar-hā-ye bishtar-i khāhid shenid.", "en": "You will hear more news soon."},
-    {"fa": "قیمت بلیت هواپیما در تابستان بالا خواهد رفت.", "r": "gheymat-e belit-e havāpeymā dar tābestān bālā khāhad raft.", "en": "Air fares will go up in the summer."},
-    {"fa": "آیا وزیر در جلسه حضور خواهد داشت؟", "r": "āyā vazir dar jalase hozur khāhad dāsht?", "en": "Will the minister attend the meeting?"},
-    {"fa": "تا وقتی زنده‌ام، این روز را فراموش نخواهم کرد.", "r": "tā vaghti zende-am, in ruz rā farāmush nakhāham kard.", "en": "As long as I live, I will not forget this day."}
+    {
+     "fa": "فردا در شمال کشور باران خواهد بارید.",
+     "r": "fardā dar shomāl-e keshvar bārān khāhad bārid.",
+     "en": "Tomorrow it will rain in the north of the country.",
+     "faV": "فَردا دَر شُمالِ کِشوَر باران خواهَد بارید.",
+     "a": "29bb869016a9"
+    },
+    {
+     "fa": "نتیجه‌ی انتخابات امشب اعلام خواهد شد.",
+     "r": "natije-ye entekhābāt emshab e'lām khāhad shod.",
+     "en": "The election result will be announced tonight.",
+     "faV": "نَتیجه‌یِ اِنتِخابات اِمشَب اِعلام خواهَد شُد.",
+     "a": "d9a8be66d901"
+    },
+    {
+     "fa": "ما سال آینده به ایران خواهیم رفت.",
+     "r": "mā sāl-e āyande be Irān khāhim raft.",
+     "en": "We will go to Iran next year.",
+     "col": "سال دیگه می‌ریم ایران.",
+     "colR": "sāl-e dige mi-rim Irān.",
+     "faV": "ما سالِ آیَنده به ایران خواهیم رَفت.",
+     "a": "0f83e48fe024",
+     "colV": "سالِ دیگه می‌ریم ایران.",
+     "colA": "806b7dcc7aca"
+    },
+    {
+     "fa": "این قانون از اول فروردین اجرا خواهد شد.",
+     "r": "in ghānun az avval-e Farvardin ejrā khāhad shod.",
+     "en": "This law will come into force on 1 Farvardin.",
+     "faV": "این قانون اَز اَوَّلِ فَروَردین اِجرا خواهَد شُد.",
+     "a": "ab386c0b1207"
+    },
+    {
+     "fa": "به زودی خبرهای بیشتری خواهید شنید.",
+     "r": "be zudi khabar-hā-ye bishtar-i khāhid shenid.",
+     "en": "You will hear more news soon.",
+     "faV": "به زودی خَبَرهایِ بیشتَری خواهید شِنید.",
+     "a": "e7fb28be8ad1"
+    },
+    {
+     "fa": "قیمت بلیت هواپیما در تابستان بالا خواهد رفت.",
+     "r": "gheymat-e belit-e havāpeymā dar tābestān bālā khāhad raft.",
+     "en": "Air fares will go up in the summer.",
+     "faV": "قَیمَتِ بِلیتِ هَواپَیما دَر تابِستان بالا خواهَد رَفت.",
+     "a": "4eacb38952e5"
+    },
+    {
+     "fa": "آیا وزیر در جلسه حضور خواهد داشت؟",
+     "r": "āyā vazir dar jalase hozur khāhad dāsht?",
+     "en": "Will the minister attend the meeting?",
+     "faV": "آیا وَزیر دَر جَلَسه حُضور خواهَد داشت؟",
+     "a": "2357696f81f1"
+    },
+    {
+     "fa": "تا وقتی زنده‌ام، این روز را فراموش نخواهم کرد.",
+     "r": "tā vaghti zende-am, in ruz rā farāmush nakhāham kard.",
+     "en": "As long as I live, I will not forget this day.",
+     "faV": "تا وَقتی زِنده‌اَم، این روز را فَراموش نَخواهَم کَرد.",
+     "a": "43825d3f71e6"
+    }
    ]
   },
   {
@@ -105,26 +473,121 @@
    "title": "Compound verbs, prefixed verbs and the passive",
    "md": "With a compound verb, the auxiliary goes **inside**, between the noun or adjective and the verb: [[کار کردن|kār kardan]] → [[کار خواهم کرد|kār khāham kard|I will work]]; [[تمام شدن|tamām shodan]] → [[تمام خواهد شد|tamām khāhad shod|it will end]]. The negative stays on the auxiliary: [[کار نخواهم کرد|kār nakhāham kard]].\n\nWith a **prefixed** verb – [[برگشتن|bargashtan]], [[بازگشتن|bāzgashtan]], [[درآمدن|darāmadan]] – the auxiliary comes after the prefix: [[برخواهم گشت|bar-khāham gasht|I will come back]], [[بازخواهد گشت|bāz-khāhad gasht|he will return]].\n\nThe **passive** works the same way, with [[شدن|shodan]] as the main verb: [[ساخته خواهد شد|sākhte khāhad shod|it will be built]], [[دیده نخواهد شد|dide nakhāhad shod|it will not be seen]].",
    "table": {
-    "head": ["Verb", "Future", "Negative", "English"],
+    "head": [
+     "Verb",
+     "Future",
+     "Negative",
+     "English"
+    ],
     "rows": [
-     ["[[کار کردن|kār kardan]]", "[[کار خواهم کرد|kār khāham kard]]", "[[کار نخواهم کرد|kār nakhāham kard]]", "I will (not) work"],
-     ["[[زنگ زدن|zang zadan]]", "[[زنگ خواهیم زد|zang khāhim zad]]", "[[زنگ نخواهیم زد|zang nakhāhim zad]]", "we will (not) call"],
-     ["[[تمام شدن|tamām shodan]]", "[[تمام خواهد شد|tamām khāhad shod]]", "[[تمام نخواهد شد|tamām nakhāhad shod]]", "it will (not) end"],
-     ["[[ادامه دادن|edāme dādan]]", "[[ادامه خواهند داد|edāme khāhand dād]]", "[[ادامه نخواهند داد|edāme nakhāhand dād]]", "they will (not) continue"],
-     ["[[بیدار شدن|bidār shodan]]", "[[بیدار خواهی شد|bidār khāhi shod]]", "[[بیدار نخواهی شد|bidār nakhāhi shod]]", "you will (not) wake up"],
-     ["[[برگشتن|bargashtan]]", "[[برخواهم گشت|bar-khāham gasht]]", "[[برنخواهم گشت|bar-nakhāham gasht]]", "I will (not) come back"],
-     ["[[ساخته شدن|sākhte shodan]]", "[[ساخته خواهد شد|sākhte khāhad shod]]", "[[ساخته نخواهد شد|sākhte nakhāhad shod]]", "it will (not) be built"],
-     ["[[برگزار شدن|bargozār shodan]]", "[[برگزار خواهد شد|bargozār khāhad shod]]", "[[برگزار نخواهد شد|bargozār nakhāhad shod]]", "it will (not) be held"]
+     [
+      "[[کار کردن|kār kardan]]",
+      "[[کار خواهم کرد|kār khāham kard]]",
+      "[[کار نخواهم کرد|kār nakhāham kard]]",
+      "I will (not) work"
+     ],
+     [
+      "[[زنگ زدن|zang zadan]]",
+      "[[زنگ خواهیم زد|zang khāhim zad]]",
+      "[[زنگ نخواهیم زد|zang nakhāhim zad]]",
+      "we will (not) call"
+     ],
+     [
+      "[[تمام شدن|tamām shodan]]",
+      "[[تمام خواهد شد|tamām khāhad shod]]",
+      "[[تمام نخواهد شد|tamām nakhāhad shod]]",
+      "it will (not) end"
+     ],
+     [
+      "[[ادامه دادن|edāme dādan]]",
+      "[[ادامه خواهند داد|edāme khāhand dād]]",
+      "[[ادامه نخواهند داد|edāme nakhāhand dād]]",
+      "they will (not) continue"
+     ],
+     [
+      "[[بیدار شدن|bidār shodan]]",
+      "[[بیدار خواهی شد|bidār khāhi shod]]",
+      "[[بیدار نخواهی شد|bidār nakhāhi shod]]",
+      "you will (not) wake up"
+     ],
+     [
+      "[[برگشتن|bargashtan]]",
+      "[[برخواهم گشت|bar-khāham gasht]]",
+      "[[برنخواهم گشت|bar-nakhāham gasht]]",
+      "I will (not) come back"
+     ],
+     [
+      "[[ساخته شدن|sākhte shodan]]",
+      "[[ساخته خواهد شد|sākhte khāhad shod]]",
+      "[[ساخته نخواهد شد|sākhte nakhāhad shod]]",
+      "it will (not) be built"
+     ],
+     [
+      "[[برگزار شدن|bargozār shodan]]",
+      "[[برگزار خواهد شد|bargozār khāhad shod]]",
+      "[[برگزار نخواهد شد|bargozār nakhāhad shod]]",
+      "it will (not) be held"
+     ]
     ]
    },
    "examples": [
-    {"fa": "از هفته‌ی آینده در یک شرکت دیگر کار خواهم کرد.", "r": "az hafte-ye āyande dar yek sherkat-e digar kār khāham kard.", "en": "From next week I will be working at another company.", "col": "از هفته‌ی بعد تو یه شرکت دیگه کار می‌کنم.", "colR": "az hafte-ye ba'd tu ye sherkat-e dige kār mi-konam."},
-    {"fa": "مسابقه ساعت هشت شروع خواهد شد و تا نیمه‌شب ادامه خواهد داشت.", "r": "mosābeghe sā'at-e hasht shoru' khāhad shod o tā nime-shab edāme khāhad dāsht.", "en": "The match will start at eight and go on until midnight."},
-    {"fa": "پدرم گفت که دیگر سیگار نخواهد کشید.", "r": "pedar-am goft ke digar sigār nakhāhad keshid.", "en": "My father said he would never smoke again."},
-    {"fa": "سفیر هفته‌ی آینده به تهران بازخواهد گشت.", "r": "safir hafte-ye āyande be Tehrān bāz-khāhad gasht.", "en": "The ambassador will return to Tehran next week."},
-    {"fa": "جشنواره‌ی فیلم فجر امسال هم در بهمن برگزار خواهد شد.", "r": "jashnvāre-ye film-e Fajr emsāl ham dar Bahman bargozār khāhad shod.", "en": "The Fajr Film Festival will again be held in Bahman this year."},
-    {"fa": "نگران نباش، به تو زنگ خواهم زد.", "r": "negarān nabāsh, be to zang khāham zad.", "en": "Don't worry, I will call you.", "col": "نگران نباش، بهت زنگ می‌زنم.", "colR": "negarān nabāsh, behet zang mi-zanam."},
-    {"fa": "این پل تا دو سال دیگر ساخته خواهد شد.", "r": "in pol tā do sāl-e digar sākhte khāhad shod.", "en": "This bridge will be built within two years."}
+    {
+     "fa": "از هفته‌ی آینده در یک شرکت دیگر کار خواهم کرد.",
+     "r": "az hafte-ye āyande dar yek sherkat-e digar kār khāham kard.",
+     "en": "From next week I will be working at another company.",
+     "col": "از هفته‌ی بعد تو یه شرکت دیگه کار می‌کنم.",
+     "colR": "az hafte-ye ba'd tu ye sherkat-e dige kār mi-konam.",
+     "faV": "اَز هَفته‌یِ آیَنده دَر یِک شِرکَتِ دیگَر کار خواهَم کَرد.",
+     "a": "0113198c96ac",
+     "colV": "اَز هَفته‌یِ بَعد تو یه شِرکَتِ دیگه کار می‌کُنَم.",
+     "colA": "9ead146cdb1c"
+    },
+    {
+     "fa": "مسابقه ساعت هشت شروع خواهد شد و تا نیمه‌شب ادامه خواهد داشت.",
+     "r": "mosābeghe sā'at-e hasht shoru' khāhad shod o tā nime-shab edāme khāhad dāsht.",
+     "en": "The match will start at eight and go on until midnight.",
+     "faV": "مُسابِقه ساعَتِ هَشت شُروع خواهَد شُد و تا نیمه‌شَب اِدامه خواهَد داشت.",
+     "a": "77b59ce52b83"
+    },
+    {
+     "fa": "پدرم گفت که دیگر سیگار نخواهد کشید.",
+     "r": "pedar-am goft ke digar sigār nakhāhad keshid.",
+     "en": "My father said he would never smoke again.",
+     "faV": "پِدَرَم گُفت که دیگَر سیگار نَخواهَد کِشید.",
+     "a": "651e532edff4"
+    },
+    {
+     "fa": "سفیر هفته‌ی آینده به تهران بازخواهد گشت.",
+     "r": "safir hafte-ye āyande be Tehrān bāz-khāhad gasht.",
+     "en": "The ambassador will return to Tehran next week.",
+     "faV": "سَفیر هَفته‌یِ آیَنده به تِهران بازخواهَد گَشت.",
+     "a": "9fdfffebac0b"
+    },
+    {
+     "fa": "جشنواره‌ی فیلم فجر امسال هم در بهمن برگزار خواهد شد.",
+     "r": "jashnvāre-ye film-e Fajr emsāl ham dar Bahman bargozār khāhad shod.",
+     "en": "The Fajr Film Festival will again be held in Bahman this year.",
+     "faV": "جَشنواره‌یِ فیلمِ فَجر اِمسال هَم دَر بَهمَن بَرگُزار خواهَد شُد.",
+     "a": "8a126a7e1e2e"
+    },
+    {
+     "fa": "نگران نباش، به تو زنگ خواهم زد.",
+     "r": "negarān nabāsh, be to zang khāham zad.",
+     "en": "Don't worry, I will call you.",
+     "col": "نگران نباش، بهت زنگ می‌زنم.",
+     "colR": "negarān nabāsh, behet zang mi-zanam.",
+     "faV": "نِگَران نَباش، به تو زَنگ خواهَم زَد.",
+     "a": "fe967bed4abc",
+     "colV": "نِگَران نَباش، بِهِت زَنگ می‌زَنَم.",
+     "colA": "ce6dc102aaee"
+    },
+    {
+     "fa": "این پل تا دو سال دیگر ساخته خواهد شد.",
+     "r": "in pol tā do sāl-e digar sākhte khāhad shod.",
+     "en": "This bridge will be built within two years.",
+     "faV": "این پُل تا دو سالِ دیگَر ساخته خواهَد شُد.",
+     "a": "e1093a48e36a"
+    }
    ]
   },
   {
@@ -132,25 +595,123 @@
    "title": "When to use it – and what to say instead",
    "md": "Use the formal future when you write, when you read aloud, and when you want to sound solemn. In conversation choose one of these:\n\n- **the present tense** for plans and predictions: [[فردا می‌رم|fardā mi-ram|I'm going tomorrow]];\n- [[قرار بودن|gharār budan]] + subjunctive for arrangements and schedules – *is due to, is supposed to*: [[قراره ساعت هشت برسن|gharāre sā'at-e hasht beresan|they're supposed to arrive at eight]]. This one is also very common in the news: [[قرار است وزیر فردا به شیراز سفر کند|gharār ast vazir fardā be Shirāz safar konad|the minister is due to travel to Shiraz tomorrow]];\n- [[خواستن|khāstan]] + subjunctive for intentions – *going to*: [[می‌خوام استعفا بدم|mi-khām este'fā bedam|I'm going to resign]];\n- [[داشتن|dāshtan]] + present for something that is about to happen: [[داره بارون میاد|dāre bārun miyād|it's starting to rain]].\n\nOne more construction belongs to journalists: [[می‌رود که|mi-ravad ke]] or [[می‌رود تا|mi-ravad tā]] + subjunctive, *is on its way to, is set to*: [[این فیلم می‌رود تا رکورد فروش را بشکند|in film mi-ravad tā rekord-e forush rā beshkanad|this film is set to break the box-office record]].",
    "table": {
-    "head": ["Situation", "Written / formal", "Spoken", "English"],
+    "head": [
+     "Situation",
+     "Written / formal",
+     "Spoken",
+     "English"
+    ],
     "rows": [
-     ["plan", "[[سال آینده به شیراز خواهیم رفت.|sāl-e āyande be Shirāz khāhim raft.]]", "[[سال دیگه می‌ریم شیراز.|sāl-e dige mi-rim Shirāz.]]", "We're going to Shiraz next year."],
-     ["prediction", "[[فردا باران خواهد بارید.|fardā bārān khāhad bārid.]]", "[[فردا بارون میاد.|fardā bārun miyād.]]", "It'll rain tomorrow."],
-     ["schedule", "[[جلسه ساعت ده برگزار خواهد شد.|jalase sā'at-e dah bargozār khāhad shod.]]", "[[قراره جلسه ساعت ده باشه.|gharāre jalase sā'at-e dah bāshe.]]", "The meeting is at ten."],
-     ["intention", "[[قصد دارم استعفا بدهم.|ghasd dāram este'fā bedaham.]]", "[[می‌خوام استعفا بدم.|mi-khām este'fā bedam.]]", "I'm going to resign."],
-     ["about to happen", "[[قطار به زودی حرکت خواهد کرد.|ghatār be zudi harekat khāhad kard.]]", "[[قطار داره راه می‌افته.|ghatār dāre rāh mi-ofte.]]", "The train is about to leave."],
-     ["promise", "[[هرگز تو را فراموش نخواهم کرد.|hargez to rā farāmush nakhāham kard.]]", "[[هیچ‌وقت فراموشت نمی‌کنم.|hich-vaght farāmush-at nemi-konam.]]", "I'll never forget you."],
-     ["trend (journalism)", "[[این سنت می‌رود که فراموش شود.|in sonnat mi-ravad ke farāmush shavad.]]", "–", "This tradition is on its way to being forgotten."]
+     [
+      "plan",
+      "[[سال آینده به شیراز خواهیم رفت.|sāl-e āyande be Shirāz khāhim raft.]]",
+      "[[سال دیگه می‌ریم شیراز.|sāl-e dige mi-rim Shirāz.]]",
+      "We're going to Shiraz next year."
+     ],
+     [
+      "prediction",
+      "[[فردا باران خواهد بارید.|fardā bārān khāhad bārid.]]",
+      "[[فردا بارون میاد.|fardā bārun miyād.]]",
+      "It'll rain tomorrow."
+     ],
+     [
+      "schedule",
+      "[[جلسه ساعت ده برگزار خواهد شد.|jalase sā'at-e dah bargozār khāhad shod.]]",
+      "[[قراره جلسه ساعت ده باشه.|gharāre jalase sā'at-e dah bāshe.]]",
+      "The meeting is at ten."
+     ],
+     [
+      "intention",
+      "[[قصد دارم استعفا بدهم.|ghasd dāram este'fā bedaham.]]",
+      "[[می‌خوام استعفا بدم.|mi-khām este'fā bedam.]]",
+      "I'm going to resign."
+     ],
+     [
+      "about to happen",
+      "[[قطار به زودی حرکت خواهد کرد.|ghatār be zudi harekat khāhad kard.]]",
+      "[[قطار داره راه می‌افته.|ghatār dāre rāh mi-ofte.]]",
+      "The train is about to leave."
+     ],
+     [
+      "promise",
+      "[[هرگز تو را فراموش نخواهم کرد.|hargez to rā farāmush nakhāham kard.]]",
+      "[[هیچ‌وقت فراموشت نمی‌کنم.|hich-vaght farāmush-at nemi-konam.]]",
+      "I'll never forget you."
+     ],
+     [
+      "trend (journalism)",
+      "[[این سنت می‌رود که فراموش شود.|in sonnat mi-ravad ke farāmush shavad.]]",
+      "–",
+      "This tradition is on its way to being forgotten."
+     ]
     ]
    },
    "examples": [
-    {"fa": "فردا به دیدن مادربزرگم می‌روم.", "r": "fardā be didan-e mādarbozorg-am mi-ravam.", "en": "Tomorrow I'm going to see my grandmother.", "col": "فردا می‌رم دیدن مادربزرگم.", "colR": "fardā mi-ram didan-e mādarbozorg-am."},
-    {"fa": "قرار است مهمان‌ها ساعت هشت برسند.", "r": "gharār ast mehmān-hā sā'at-e hasht beresand.", "en": "The guests are supposed to arrive at eight.", "col": "قراره مهمونا ساعت هشت برسن.", "colR": "gharāre mehmunā sā'at-e hasht beresan."},
-    {"fa": "می‌خواهیم تابستان خانه را رنگ کنیم.", "r": "mi-khāhim tābestān khāne rā rang konim.", "en": "We're going to paint the house in the summer.", "col": "می‌خوایم تابستون خونه رو رنگ کنیم.", "colR": "mi-khāyim tābestun khune ro rang konim."},
-    {"fa": "عجله کن، فیلم دارد شروع می‌شود!", "r": "ajale kon, film dārad shoru' mi-shavad!", "en": "Hurry up, the film is about to start!", "col": "عجله کن، فیلم داره شروع می‌شه!", "colR": "ajale kon, film dāre shoru' mi-she!"},
-    {"fa": "قرار است وزیر فردا به شیراز سفر کند.", "r": "gharār ast vazir fardā be Shirāz safar konad.", "en": "The minister is due to travel to Shiraz tomorrow."},
-    {"fa": "این سنت قدیمی می‌رود که فراموش شود.", "r": "in sonnat-e ghadimi mi-ravad ke farāmush shavad.", "en": "This old tradition is on its way to being forgotten."},
-    {"fa": "به شما قول می‌دهم که این اشتباه تکرار نخواهد شد.", "r": "be shomā ghowl mi-daham ke in eshtebāh tekrār nakhāhad shod.", "en": "I promise you this mistake will not happen again."}
+    {
+     "fa": "فردا به دیدن مادربزرگم می‌روم.",
+     "r": "fardā be didan-e mādarbozorg-am mi-ravam.",
+     "en": "Tomorrow I'm going to see my grandmother.",
+     "col": "فردا می‌رم دیدن مادربزرگم.",
+     "colR": "fardā mi-ram didan-e mādarbozorg-am.",
+     "faV": "فَردا به دیدَنِ مادَربُزُرگَم می‌رَوَم.",
+     "a": "f206cef86f7c",
+     "colV": "فَردا می‌رَم دیدَنِ مادَربُزُرگَم.",
+     "colA": "9aa4e9a603aa"
+    },
+    {
+     "fa": "قرار است مهمان‌ها ساعت هشت برسند.",
+     "r": "gharār ast mehmān-hā sā'at-e hasht beresand.",
+     "en": "The guests are supposed to arrive at eight.",
+     "col": "قراره مهمونا ساعت هشت برسن.",
+     "colR": "gharāre mehmunā sā'at-e hasht beresan.",
+     "faV": "قَرار اَست مِهمان‌ها ساعَتِ هَشت بِرِسَند.",
+     "a": "3d6182827b45",
+     "colV": "قَراره مِهمونا ساعَتِ هَشت بِرِسَن.",
+     "colA": "cbf0666d8ac3"
+    },
+    {
+     "fa": "می‌خواهیم تابستان خانه را رنگ کنیم.",
+     "r": "mi-khāhim tābestān khāne rā rang konim.",
+     "en": "We're going to paint the house in the summer.",
+     "col": "می‌خوایم تابستون خونه رو رنگ کنیم.",
+     "colR": "mi-khāyim tābestun khune ro rang konim.",
+     "faV": "می‌خواهیم تابِستان خانه را رَنگ کُنیم.",
+     "a": "60add975477d",
+     "colV": "می‌خوایم تابِستون خونه رو رَنگ کُنیم.",
+     "colA": "58118f41e8d7"
+    },
+    {
+     "fa": "عجله کن، فیلم دارد شروع می‌شود!",
+     "r": "ajale kon, film dārad shoru' mi-shavad!",
+     "en": "Hurry up, the film is about to start!",
+     "col": "عجله کن، فیلم داره شروع می‌شه!",
+     "colR": "ajale kon, film dāre shoru' mi-she!",
+     "faV": "عَجَله کُن، فیلم دارَد شُروع می‌شَوَد!",
+     "a": "1c5bf9a172a7",
+     "colV": "عَجَله کُن، فیلم داره شُروع می‌شه!",
+     "colA": "304699ca3361"
+    },
+    {
+     "fa": "قرار است وزیر فردا به شیراز سفر کند.",
+     "r": "gharār ast vazir fardā be Shirāz safar konad.",
+     "en": "The minister is due to travel to Shiraz tomorrow.",
+     "faV": "قَرار اَست وَزیر فَردا به شیراز سَفَر کُنَد.",
+     "a": "bcc7f808cb87"
+    },
+    {
+     "fa": "این سنت قدیمی می‌رود که فراموش شود.",
+     "r": "in sonnat-e ghadimi mi-ravad ke farāmush shavad.",
+     "en": "This old tradition is on its way to being forgotten.",
+     "faV": "این سُنَّتِ قَدیمی می‌رَوَد که فَراموش شَوَد.",
+     "a": "c21fabd4f26c"
+    },
+    {
+     "fa": "به شما قول می‌دهم که این اشتباه تکرار نخواهد شد.",
+     "r": "be shomā ghowl mi-daham ke in eshtebāh tekrār nakhāhad shod.",
+     "en": "I promise you this mistake will not happen again.",
+     "faV": "به شُما قَول می‌دَهَم که این اِشتِباه تِکرار نَخواهَد شُد.",
+     "a": "1767014ba20a"
+    }
    ]
   },
   {
@@ -158,18 +719,150 @@
    "title": "Are we still going north?",
    "context": "Mina and Reza have planned a weekend by the Caspian Sea, and they have just heard the forecast. Notice that they talk about the future in the present tense – until Mina gets dramatic.",
    "lines": [
-    {"who": "Reza", "fa": "شنیدی؟ رادیو گفت که آخر هفته در جاده‌ی چالوس برف می‌آید.", "r": "shenidi? rādyo goft ke ākhar-e hafte dar jādde-ye Chālus barf mi-āyad.", "en": "Did you hear? The radio said it's going to snow on the Chalus road at the weekend.", "col": "شنیدی؟ رادیو گفت آخر هفته جاده‌ی چالوس برف میاد.", "colR": "shenidi? rādyo goft ākhar-e hafte jādde-ye Chālus barf miyād."},
-    {"who": "Mina", "fa": "یعنی به شمال نمی‌رویم؟", "r": "ya'ni be shomāl nemi-ravim?", "en": "You mean we're not going north?", "col": "یعنی نمی‌ریم شمال؟", "colR": "ya'ni nemi-rim shomāl?"},
-    {"who": "Reza", "fa": "چرا، می‌رویم، ولی از راه قزوین و رشت.", "r": "cherā, mi-ravim, vali az rāh-e Ghazvin o Rasht.", "en": "Of course we are, but via Qazvin and Rasht.", "col": "چرا، می‌ریم، ولی از راه قزوین و رشت.", "colR": "cherā, mi-rim, vali az rāh-e Ghazvin o Rasht."},
-    {"who": "Mina", "fa": "آن راه طولانی‌تر است. کی راه می‌افتیم؟", "r": "ān rāh tulāni-tar ast. key rāh mi-oftim?", "en": "That way is longer. When are we setting off?", "col": "اون راه طولانی‌تره. کی راه می‌افتیم؟", "colR": "un rāh tulāni-tare. key rāh mi-oftim?"},
-    {"who": "Reza", "fa": "پنجشنبه صبح زود. ساعت شش بیدارت می‌کنم.", "r": "panjshanbe sobh-e zud. sā'at-e shesh bidār-at mi-konam.", "en": "Early on Thursday morning. I'll wake you at six.", "col": "پنجشنبه صبح زود. ساعت شیش بیدارت می‌کنم.", "colR": "panjshanbe sobh-e zud. sā'at-e shish bidār-et mi-konam."},
-    {"who": "Mina", "fa": "ساعت شش؟ من هرگز آن ساعت بیدار نخواهم شد!", "r": "sā'at-e shesh? man hargez ān sā'at bidār nakhāham shod!", "en": "Six o'clock? I shall never wake up at that hour!", "col": "ساعت شیش؟ من هرگز اون ساعت بیدار نخواهم شد!", "colR": "sā'at-e shish? man hargez un sā'at bidār nakhāham shod!"},
-    {"who": "Reza", "fa": "چه رسمی! مثل گوینده‌ی اخبار حرف می‌زنی.", "r": "che rasmi! mesl-e guyande-ye akhbār harf mi-zani.", "en": "How formal! You sound like a newsreader.", "col": "چه رسمی! عین گوینده‌ی اخبار حرف می‌زنی.", "colR": "che rasmi! eyn-e guyande-ye akhbār harf mi-zani."},
-    {"who": "Mina", "fa": "خب، تو هم قول بده که در راه قهوه می‌خریم.", "r": "khob, to ham ghowl bede ke dar rāh ghahve mi-kharim.", "en": "Well, you promise me we'll buy coffee on the way.", "col": "خب، تو هم قول بده تو راه قهوه می‌خریم.", "colR": "khob, to ham ghowl bede tu rāh ghahve mi-kharim."},
-    {"who": "Reza", "fa": "قول می‌دهم. اگر زنجیر چرخ را فراموش نکنیم، همه چیز خوب پیش می‌رود.", "r": "ghowl mi-daham. agar zanjir-e charkh rā farāmush nakonim, hame chiz khub pish mi-ravad.", "en": "I promise. If we don't forget the snow chains, everything will go fine.", "col": "قول می‌دم. اگه زنجیر چرخو یادمون نره، همه چی خوب پیش می‌ره.", "colR": "ghowl mi-dam. age zanjir-e charkh-o yād-emun nare, hame chi khub pish mi-re."},
-    {"who": "Mina", "fa": "راستی، مادرت هم با ما می‌آید؟", "r": "rāsti, mādar-at ham bā mā mi-āyad?", "en": "By the way, is your mother coming with us?", "col": "راستی، مامانت هم باهامون میاد؟", "colR": "rāsti, māmān-et ham bāhāmun miyād?"},
-    {"who": "Reza", "fa": "نه، قرار است با خواهرم برود.", "r": "na, gharār ast bā khāhar-am beravad.", "en": "No, she's supposed to be going with my sister.", "col": "نه، قراره با خواهرم بره.", "colR": "na, gharāre bā khāhar-am bere."},
-    {"who": "Mina", "fa": "پس من جلو می‌نشینم و تمام راه می‌خوابم!", "r": "pas man jelow mi-neshinam o tamām-e rāh mi-khābam!", "en": "Then I'll sit in the front and sleep the whole way!", "col": "پس من جلو می‌شینم و کل راهو می‌خوابم!", "colR": "pas man jelo mi-shinam o kol-e rāh-o mi-khābam!"}
+    {
+     "who": "Reza",
+     "fa": "شنیدی؟ رادیو گفت که آخر هفته در جاده‌ی چالوس برف می‌آید.",
+     "r": "shenidi? rādyo goft ke ākhar-e hafte dar jādde-ye Chālus barf mi-āyad.",
+     "en": "Did you hear? The radio said it's going to snow on the Chalus road at the weekend.",
+     "col": "شنیدی؟ رادیو گفت آخر هفته جاده‌ی چالوس برف میاد.",
+     "colR": "shenidi? rādyo goft ākhar-e hafte jādde-ye Chālus barf miyād.",
+     "faV": "شِنیدی؟ رادیو گُفت که آخَرِ هَفته دَر جادّه‌یِ چالوس بَرف می‌آیَد.",
+     "a": "b225d21f1819",
+     "colV": "شِنیدی؟ رادیو گُفت آخَرِ هَفته جادّه‌یِ چالوس بَرف میاد.",
+     "colA": "e5dee3cbbb6b"
+    },
+    {
+     "who": "Mina",
+     "fa": "یعنی به شمال نمی‌رویم؟",
+     "r": "ya'ni be shomāl nemi-ravim?",
+     "en": "You mean we're not going north?",
+     "col": "یعنی نمی‌ریم شمال؟",
+     "colR": "ya'ni nemi-rim shomāl?",
+     "faV": "یَعنی به شُمال نِمی‌رَویم؟",
+     "a": "fd0692542ce5",
+     "colV": "یَعنی نِمی‌ریم شُمال؟",
+     "colA": "8c3dab86bfab"
+    },
+    {
+     "who": "Reza",
+     "fa": "چرا، می‌رویم، ولی از راه قزوین و رشت.",
+     "r": "cherā, mi-ravim, vali az rāh-e Ghazvin o Rasht.",
+     "en": "Of course we are, but via Qazvin and Rasht.",
+     "col": "چرا، می‌ریم، ولی از راه قزوین و رشت.",
+     "colR": "cherā, mi-rim, vali az rāh-e Ghazvin o Rasht.",
+     "faV": "چِرا، می‌رَویم، وَلی اَز راهِ قَزوین و رَشت.",
+     "a": "11a4212594e5",
+     "colV": "چِرا، می‌ریم، وَلی اَز راهِ قَزوین و رَشت.",
+     "colA": "4070a2bde61d"
+    },
+    {
+     "who": "Mina",
+     "fa": "آن راه طولانی‌تر است. کی راه می‌افتیم؟",
+     "r": "ān rāh tulāni-tar ast. key rāh mi-oftim?",
+     "en": "That way is longer. When are we setting off?",
+     "col": "اون راه طولانی‌تره. کی راه می‌افتیم؟",
+     "colR": "un rāh tulāni-tare. key rāh mi-oftim?",
+     "faV": "آن راه طولانی‌تَر اَست. کَی راه می‌اُفتیم؟",
+     "a": "4530dd395e02",
+     "colV": "اون راه طولانی‌تَره. کَی راه می‌اُفتیم؟",
+     "colA": "5eebfb409949"
+    },
+    {
+     "who": "Reza",
+     "fa": "پنجشنبه صبح زود. ساعت شش بیدارت می‌کنم.",
+     "r": "panjshanbe sobh-e zud. sā'at-e shesh bidār-at mi-konam.",
+     "en": "Early on Thursday morning. I'll wake you at six.",
+     "col": "پنجشنبه صبح زود. ساعت شیش بیدارت می‌کنم.",
+     "colR": "panjshanbe sobh-e zud. sā'at-e shish bidār-et mi-konam.",
+     "faV": "پَنجشَنبه صُبحِ زود. ساعَتِ شِش بیدارَت می‌کُنَم.",
+     "a": "a1c5880c5dba",
+     "colV": "پَنجشَنبه صُبحِ زود. ساعَتِ شیش بیدارِت می‌کُنَم.",
+     "colA": "f5ac7a3b9b5b"
+    },
+    {
+     "who": "Mina",
+     "fa": "ساعت شش؟ من هرگز آن ساعت بیدار نخواهم شد!",
+     "r": "sā'at-e shesh? man hargez ān sā'at bidār nakhāham shod!",
+     "en": "Six o'clock? I shall never wake up at that hour!",
+     "col": "ساعت شیش؟ من هرگز اون ساعت بیدار نخواهم شد!",
+     "colR": "sā'at-e shish? man hargez un sā'at bidār nakhāham shod!",
+     "faV": "ساعَتِ شِش؟ مَن هَرگِز آن ساعَت بیدار نَخواهَم شُد!",
+     "a": "7f8f92db9790",
+     "colV": "ساعَتِ شیش؟ مَن هَرگِز اون ساعَت بیدار نَخواهَم شُد!",
+     "colA": "e04eb876681a"
+    },
+    {
+     "who": "Reza",
+     "fa": "چه رسمی! مثل گوینده‌ی اخبار حرف می‌زنی.",
+     "r": "che rasmi! mesl-e guyande-ye akhbār harf mi-zani.",
+     "en": "How formal! You sound like a newsreader.",
+     "col": "چه رسمی! عین گوینده‌ی اخبار حرف می‌زنی.",
+     "colR": "che rasmi! eyn-e guyande-ye akhbār harf mi-zani.",
+     "faV": "چه رَسمی! مِثلِ گویَنده‌یِ اَخبار حَرف می‌زَنی.",
+     "a": "1dd9ac6c8697",
+     "colV": "چه رَسمی! عَینِ گویَنده‌یِ اَخبار حَرف می‌زَنی.",
+     "colA": "fd1cdad7fcd2"
+    },
+    {
+     "who": "Mina",
+     "fa": "خب، تو هم قول بده که در راه قهوه می‌خریم.",
+     "r": "khob, to ham ghowl bede ke dar rāh ghahve mi-kharim.",
+     "en": "Well, you promise me we'll buy coffee on the way.",
+     "col": "خب، تو هم قول بده تو راه قهوه می‌خریم.",
+     "colR": "khob, to ham ghowl bede tu rāh ghahve mi-kharim.",
+     "faV": "خُب، تو هَم قَول بِده که دَر راه قَهوه می‌خَریم.",
+     "a": "ae771e9af605",
+     "colV": "خُب، تو هَم قَول بِده تو راه قَهوه می‌خَریم.",
+     "colA": "454c34016198"
+    },
+    {
+     "who": "Reza",
+     "fa": "قول می‌دهم. اگر زنجیر چرخ را فراموش نکنیم، همه چیز خوب پیش می‌رود.",
+     "r": "ghowl mi-daham. agar zanjir-e charkh rā farāmush nakonim, hame chiz khub pish mi-ravad.",
+     "en": "I promise. If we don't forget the snow chains, everything will go fine.",
+     "col": "قول می‌دم. اگه زنجیر چرخو یادمون نره، همه چی خوب پیش می‌ره.",
+     "colR": "ghowl mi-dam. age zanjir-e charkh-o yād-emun nare, hame chi khub pish mi-re.",
+     "faV": "قَول می‌دَهَم. اَگَر زَنجیرِ چَرخ را فَراموش نَکُنیم، هَمه چیز خوب پیش می‌رَوَد.",
+     "a": "32f8b49d23b1",
+     "colV": "قَول می‌دَم. اَگه زَنجیرِ چَرخو یادِمون نَره، هَمه چی خوب پیش می‌ره.",
+     "colA": "16fc4bc3831e"
+    },
+    {
+     "who": "Mina",
+     "fa": "راستی، مادرت هم با ما می‌آید؟",
+     "r": "rāsti, mādar-at ham bā mā mi-āyad?",
+     "en": "By the way, is your mother coming with us?",
+     "col": "راستی، مامانت هم باهامون میاد؟",
+     "colR": "rāsti, māmān-et ham bāhāmun miyād?",
+     "faV": "راستی، مادَرَت هَم با ما می‌آیَد؟",
+     "a": "d98ecb0f71b7",
+     "colV": "راستی، مامانِت هَم باهامون میاد؟",
+     "colA": "8552c6c6a7de"
+    },
+    {
+     "who": "Reza",
+     "fa": "نه، قرار است با خواهرم برود.",
+     "r": "na, gharār ast bā khāhar-am beravad.",
+     "en": "No, she's supposed to be going with my sister.",
+     "col": "نه، قراره با خواهرم بره.",
+     "colR": "na, gharāre bā khāhar-am bere.",
+     "faV": "نه، قَرار اَست با خواهَرَم بِرَوَد.",
+     "a": "14ab71081978",
+     "colV": "نه، قَراره با خواهَرَم بِره.",
+     "colA": "88a8fc6fffac"
+    },
+    {
+     "who": "Mina",
+     "fa": "پس من جلو می‌نشینم و تمام راه می‌خوابم!",
+     "r": "pas man jelow mi-neshinam o tamām-e rāh mi-khābam!",
+     "en": "Then I'll sit in the front and sleep the whole way!",
+     "col": "پس من جلو می‌شینم و کل راهو می‌خوابم!",
+     "colR": "pas man jelo mi-shinam o kol-e rāh-o mi-khābam!",
+     "faV": "پَس مَن جِلَو می‌نِشینَم و تَمامِ راه می‌خوابَم!",
+     "a": "e0880a50a144",
+     "colV": "پَس مَن جِلو می‌شینَم و کُلِ راهو می‌خوابَم!",
+     "colA": "e9b1dd97d2fa"
+    }
    ]
   },
   {
@@ -194,12 +887,48 @@
    "kind": "fill",
    "title": "Make it future",
    "items": [
-    {"fa": "فردا در شمال کشور باران ___ بارید.", "r": "fardā dar shomāl-e keshvar bārān ___ bārid.", "en": "Tomorrow it will rain in the north of the country.", "answer": "خواهد", "hint": "auxiliary, 3rd person singular"},
-    {"fa": "ما سال آینده به یزد ___ رفت.", "r": "mā sāl-e āyande be Yazd ___ raft.", "en": "We will go to Yazd next year.", "answer": "خواهیم", "hint": "auxiliary, 'we'"},
-    {"fa": "این پل تا سال آینده ساخته ___ شد.", "r": "in pol tā sāl-e āyande sākhte ___ shod.", "en": "This bridge will be built by next year.", "answer": "خواهد", "hint": "future passive"},
-    {"fa": "نگران نباش، هرگز تو را فراموش ___ کرد.", "r": "negarān nabāsh, hargez to rā farāmush ___ kard.", "en": "Don't worry, I will never forget you.", "answer": "نخواهم", "hint": "negative auxiliary, 'I'"},
-    {"fa": "جلسه ساعت ده شروع خواهد ___.", "r": "jalase sā'at-e dah shoru' khāhad ___.", "en": "The meeting will start at ten.", "answer": "شد", "hint": "short infinitive of شدن"},
-    {"fa": "آن‌ها فردا به ما زنگ ___ زد.", "r": "ān-hā fardā be mā zang ___ zad.", "en": "They will call us tomorrow.", "answer": "خواهند", "hint": "auxiliary, 'they'"}
+    {
+     "fa": "فردا در شمال کشور باران ___ بارید.",
+     "r": "fardā dar shomāl-e keshvar bārān ___ bārid.",
+     "en": "Tomorrow it will rain in the north of the country.",
+     "answer": "خواهد",
+     "hint": "auxiliary, 3rd person singular"
+    },
+    {
+     "fa": "ما سال آینده به یزد ___ رفت.",
+     "r": "mā sāl-e āyande be Yazd ___ raft.",
+     "en": "We will go to Yazd next year.",
+     "answer": "خواهیم",
+     "hint": "auxiliary, 'we'"
+    },
+    {
+     "fa": "این پل تا سال آینده ساخته ___ شد.",
+     "r": "in pol tā sāl-e āyande sākhte ___ shod.",
+     "en": "This bridge will be built by next year.",
+     "answer": "خواهد",
+     "hint": "future passive"
+    },
+    {
+     "fa": "نگران نباش، هرگز تو را فراموش ___ کرد.",
+     "r": "negarān nabāsh, hargez to rā farāmush ___ kard.",
+     "en": "Don't worry, I will never forget you.",
+     "answer": "نخواهم",
+     "hint": "negative auxiliary, 'I'"
+    },
+    {
+     "fa": "جلسه ساعت ده شروع خواهد ___.",
+     "r": "jalase sā'at-e dah shoru' khāhad ___.",
+     "en": "The meeting will start at ten.",
+     "answer": "شد",
+     "hint": "short infinitive of شدن"
+    },
+    {
+     "fa": "آن‌ها فردا به ما زنگ ___ زد.",
+     "r": "ān-hā fardā be mā zang ___ zad.",
+     "en": "They will call us tomorrow.",
+     "answer": "خواهند",
+     "hint": "auxiliary, 'they'"
+    }
    ]
   },
   {
@@ -207,12 +936,66 @@
    "kind": "mcq",
    "title": "Will, want or going to?",
    "items": [
-    {"q": "Which is the correct formal future of 'I will go'?", "options": ["خواهم بروم", "خواهم رفت", "خواهم می‌روم"], "answer": 1, "explain": "خواهم + the short infinitive (past stem), with no می and no بـ."},
-    {"q": "[[می‌خواهم بروم|mi-khāham beravam]] means…", "options": ["I will go", "I want to go", "I went"], "answer": 1, "explain": "With می and a subjunctive, خواستن keeps its meaning 'to want'."},
-    {"q": "Where does the auxiliary go in the future of تمام شدن?", "options": ["خواهد تمام شد", "تمام خواهد شد", "تمام شد خواهد"], "answer": 1, "explain": "In compound verbs the auxiliary sits between the two parts."},
-    {"q": "How would most Iranians say 'I'll call you tomorrow' to a friend?", "options": ["فردا بهت زنگ می‌زنم.", "فردا به تو زنگ خواهم زد.", "فردا به تو زنگ زدم."], "answer": 0, "explain": "In conversation the present tense is the normal future; the second sentence is correct but sounds formal."},
-    {"q": "[[قرار است وزیر فردا به شیراز سفر کند.|gharār ast vazir fardā be Shirāz safar konad.]] means…", "options": ["The minister is due to travel to Shiraz tomorrow.", "The minister travelled to Shiraz yesterday.", "The minister wants to live in Shiraz."], "answer": 0, "explain": "قرار است + subjunctive = is scheduled, is supposed to."},
-    {"q": "The negative of [[خواهیم رفت|khāhim raft]] is…", "options": ["خواهیم نرفت", "نخواهیم رفت", "نمی‌خواهیم رفت"], "answer": 1, "explain": "ن- goes on the auxiliary. نمی‌خواهیم means 'we don't want'."}
+    {
+     "q": "Which is the correct formal future of 'I will go'?",
+     "options": [
+      "خواهم بروم",
+      "خواهم رفت",
+      "خواهم می‌روم"
+     ],
+     "answer": 1,
+     "explain": "خواهم + the short infinitive (past stem), with no می and no بـ."
+    },
+    {
+     "q": "[[می‌خواهم بروم|mi-khāham beravam]] means…",
+     "options": [
+      "I will go",
+      "I want to go",
+      "I went"
+     ],
+     "answer": 1,
+     "explain": "With می and a subjunctive, خواستن keeps its meaning 'to want'."
+    },
+    {
+     "q": "Where does the auxiliary go in the future of تمام شدن?",
+     "options": [
+      "خواهد تمام شد",
+      "تمام خواهد شد",
+      "تمام شد خواهد"
+     ],
+     "answer": 1,
+     "explain": "In compound verbs the auxiliary sits between the two parts."
+    },
+    {
+     "q": "How would most Iranians say 'I'll call you tomorrow' to a friend?",
+     "options": [
+      "فردا بهت زنگ می‌زنم.",
+      "فردا به تو زنگ خواهم زد.",
+      "فردا به تو زنگ زدم."
+     ],
+     "answer": 0,
+     "explain": "In conversation the present tense is the normal future; the second sentence is correct but sounds formal."
+    },
+    {
+     "q": "[[قرار است وزیر فردا به شیراز سفر کند.|gharār ast vazir fardā be Shirāz safar konad.]] means…",
+     "options": [
+      "The minister is due to travel to Shiraz tomorrow.",
+      "The minister travelled to Shiraz yesterday.",
+      "The minister wants to live in Shiraz."
+     ],
+     "answer": 0,
+     "explain": "قرار است + subjunctive = is scheduled, is supposed to."
+    },
+    {
+     "q": "The negative of [[خواهیم رفت|khāhim raft]] is…",
+     "options": [
+      "خواهیم نرفت",
+      "نخواهیم رفت",
+      "نمی‌خواهیم رفت"
+     ],
+     "answer": 1,
+     "explain": "ن- goes on the auxiliary. نمی‌خواهیم means 'we don't want'."
+    }
    ]
   },
   {
@@ -220,12 +1003,48 @@
    "kind": "translate",
    "title": "Say it in Persian",
    "items": [
-    {"en": "The museum will be closed on Friday.", "fa": "موزه روز جمعه بسته خواهد بود.", "r": "muze ruz-e jom'e baste khāhad bud."},
-    {"en": "We will never forget this trip.", "fa": "هرگز این سفر را فراموش نخواهیم کرد.", "r": "hargez in safar rā farāmush nakhāhim kard."},
-    {"en": "Prices will rise next year.", "fa": "قیمت‌ها سال آینده افزایش خواهند یافت.", "r": "gheymat-hā sāl-e āyande afzāyesh khāhand yāft."},
-    {"en": "I'm going to Isfahan tomorrow. (to a friend)", "fa": "فردا به اصفهان می‌روم.", "r": "fardā be Esfahān mi-ravam."},
-    {"en": "The new metro line will connect the airport to the city centre.", "fa": "خط جدید مترو فرودگاه را به مرکز شهر وصل خواهد کرد.", "r": "khatt-e jadid-e metro forudgāh rā be markaz-e shahr vasl khāhad kard."},
-    {"en": "He said he would not come.", "fa": "او گفت که نخواهد آمد.", "r": "u goft ke nakhāhad āmad."}
+    {
+     "en": "The museum will be closed on Friday.",
+     "fa": "موزه روز جمعه بسته خواهد بود.",
+     "r": "muze ruz-e jom'e baste khāhad bud.",
+     "faV": "موزه روزِ جُمعه بَسته خواهَد بود.",
+     "a": "c9340f1d7d16"
+    },
+    {
+     "en": "We will never forget this trip.",
+     "fa": "هرگز این سفر را فراموش نخواهیم کرد.",
+     "r": "hargez in safar rā farāmush nakhāhim kard.",
+     "faV": "هَرگِز این سَفَر را فَراموش نَخواهیم کَرد.",
+     "a": "1551587cb69c"
+    },
+    {
+     "en": "Prices will rise next year.",
+     "fa": "قیمت‌ها سال آینده افزایش خواهند یافت.",
+     "r": "gheymat-hā sāl-e āyande afzāyesh khāhand yāft.",
+     "faV": "قَیمَت‌ها سالِ آیَنده اَفزایِش خواهَند یافت.",
+     "a": "24e12d2bd066"
+    },
+    {
+     "en": "I'm going to Isfahan tomorrow. (to a friend)",
+     "fa": "فردا به اصفهان می‌روم.",
+     "r": "fardā be Esfahān mi-ravam.",
+     "faV": "فَردا به اِصفَهان می‌رَوَم.",
+     "a": "ff923c29f6b7"
+    },
+    {
+     "en": "The new metro line will connect the airport to the city centre.",
+     "fa": "خط جدید مترو فرودگاه را به مرکز شهر وصل خواهد کرد.",
+     "r": "khatt-e jadid-e metro forudgāh rā be markaz-e shahr vasl khāhad kard.",
+     "faV": "خَطِّ جَدیدِ مِترو فُرودگاه را به مَرکَزِ شَهر وَصل خواهَد کَرد.",
+     "a": "78c893a65d1c"
+    },
+    {
+     "en": "He said he would not come.",
+     "fa": "او گفت که نخواهد آمد.",
+     "r": "u goft ke nakhāhad āmad.",
+     "faV": "او گُفت که نَخواهَد آمَد.",
+     "a": "7e7ae1503f0e"
+    }
    ]
   },
   {
@@ -233,10 +1052,34 @@
    "kind": "order",
    "title": "Put the words in order",
    "items": [
-    {"fa": "نتیجه‌ی مسابقه فردا اعلام خواهد شد.", "r": "natije-ye mosābeghe fardā e'lām khāhad shod.", "en": "The result of the competition will be announced tomorrow."},
-    {"fa": "ما هفته‌ی آینده به شیراز خواهیم رفت.", "r": "mā hafte-ye āyande be Shirāz khāhim raft.", "en": "We will go to Shiraz next week."},
-    {"fa": "هرگز این روز را فراموش نخواهم کرد.", "r": "hargez in ruz rā farāmush nakhāham kard.", "en": "I will never forget this day."},
-    {"fa": "قرار است مهمان‌ها ساعت هشت برسند.", "r": "gharār ast mehmān-hā sā'at-e hasht beresand.", "en": "The guests are supposed to arrive at eight."}
+    {
+     "fa": "نتیجه‌ی مسابقه فردا اعلام خواهد شد.",
+     "r": "natije-ye mosābeghe fardā e'lām khāhad shod.",
+     "en": "The result of the competition will be announced tomorrow.",
+     "faV": "نَتیجه‌یِ مُسابِقه فَردا اِعلام خواهَد شُد.",
+     "a": "ad0f021a39d3"
+    },
+    {
+     "fa": "ما هفته‌ی آینده به شیراز خواهیم رفت.",
+     "r": "mā hafte-ye āyande be Shirāz khāhim raft.",
+     "en": "We will go to Shiraz next week.",
+     "faV": "ما هَفته‌یِ آیَنده به شیراز خواهیم رَفت.",
+     "a": "c82e8e8634a1"
+    },
+    {
+     "fa": "هرگز این روز را فراموش نخواهم کرد.",
+     "r": "hargez in ruz rā farāmush nakhāham kard.",
+     "en": "I will never forget this day.",
+     "faV": "هَرگِز این روز را فَراموش نَخواهَم کَرد.",
+     "a": "b631f83c3f80"
+    },
+    {
+     "fa": "قرار است مهمان‌ها ساعت هشت برسند.",
+     "r": "gharār ast mehmān-hā sā'at-e hasht beresand.",
+     "en": "The guests are supposed to arrive at eight.",
+     "faV": "قَرار اَست مِهمان‌ها ساعَتِ هَشت بِرِسَند.",
+     "a": "3d6182827b45"
+    }
    ]
   },
   {
@@ -244,14 +1087,62 @@
    "kind": "match",
    "title": "Match the future forms",
    "items": [
-    {"fa": "خواهم رفت", "r": "khāham raft", "en": "I will go"},
-    {"fa": "نخواهد آمد", "r": "nakhāhad āmad", "en": "he will not come"},
-    {"fa": "کار خواهیم کرد", "r": "kār khāhim kard", "en": "we will work"},
-    {"fa": "برخواهند گشت", "r": "bar-khāhand gasht", "en": "they will come back"},
-    {"fa": "خواهد بود", "r": "khāhad bud", "en": "it will be"},
-    {"fa": "تمام خواهد شد", "r": "tamām khāhad shod", "en": "it will end"},
-    {"fa": "خواهید دید", "r": "khāhid did", "en": "you will see"},
-    {"fa": "زنگ نخواهم زد", "r": "zang nakhāham zad", "en": "I will not call"}
+    {
+     "fa": "خواهم رفت",
+     "r": "khāham raft",
+     "en": "I will go",
+     "faV": "خواهَم رَفت",
+     "a": "1756a25a705f"
+    },
+    {
+     "fa": "نخواهد آمد",
+     "r": "nakhāhad āmad",
+     "en": "he will not come",
+     "faV": "نَخواهَد آمَد",
+     "a": "e5619ceaa6e8"
+    },
+    {
+     "fa": "کار خواهیم کرد",
+     "r": "kār khāhim kard",
+     "en": "we will work",
+     "faV": "کار خواهیم کَرد",
+     "a": "3eb17dfaa2d9"
+    },
+    {
+     "fa": "برخواهند گشت",
+     "r": "bar-khāhand gasht",
+     "en": "they will come back",
+     "faV": "بَرخواهَند گَشت",
+     "a": "9b9b97ba18c9"
+    },
+    {
+     "fa": "خواهد بود",
+     "r": "khāhad bud",
+     "en": "it will be",
+     "faV": "خواهَد بود",
+     "a": "15d88f8849d9"
+    },
+    {
+     "fa": "تمام خواهد شد",
+     "r": "tamām khāhad shod",
+     "en": "it will end",
+     "faV": "تَمام خواهَد شُد",
+     "a": "c6f696354882"
+    },
+    {
+     "fa": "خواهید دید",
+     "r": "khāhid did",
+     "en": "you will see",
+     "faV": "خواهید دید",
+     "a": "194f1d52cb7d"
+    },
+    {
+     "fa": "زنگ نخواهم زد",
+     "r": "zang nakhāham zad",
+     "en": "I will not call",
+     "faV": "زَنگ نَخواهَم زَد",
+     "a": "29cef53a3692"
+    }
    ]
   },
   {
@@ -259,10 +1150,48 @@
    "kind": "listen",
    "title": "Listen and choose",
    "items": [
-    {"fa": "فردا هوا سرد خواهد شد.", "r": "fardā havā sard khāhad shod.", "en": "The weather will turn cold tomorrow.", "options": ["It was cold yesterday.", "The weather will turn cold tomorrow.", "It is cold today."], "answer": 1},
-    {"fa": "مدرسه‌ها شنبه باز نخواهند بود.", "r": "madrese-hā shanbe bāz nakhāhand bud.", "en": "The schools will not be open on Saturday.", "options": ["The schools will not be open on Saturday.", "The schools were closed on Saturday.", "The schools will open on Saturday."], "answer": 0},
-    {"fa": "قرار است قطار ساعت نه حرکت کند.", "r": "gharār ast ghatār sā'at-e noh harekat konad.", "en": "The train is due to leave at nine.", "options": ["The train left at nine.", "The train is due to leave at nine.", "The train wants to leave at nine."], "answer": 1}
+    {
+     "fa": "فردا هوا سرد خواهد شد.",
+     "r": "fardā havā sard khāhad shod.",
+     "en": "The weather will turn cold tomorrow.",
+     "options": [
+      "It was cold yesterday.",
+      "The weather will turn cold tomorrow.",
+      "It is cold today."
+     ],
+     "answer": 1,
+     "faV": "فَردا هَوا سَرد خواهَد شُد.",
+     "a": "3f779eb73e11"
+    },
+    {
+     "fa": "مدرسه‌ها شنبه باز نخواهند بود.",
+     "r": "madrese-hā shanbe bāz nakhāhand bud.",
+     "en": "The schools will not be open on Saturday.",
+     "options": [
+      "The schools will not be open on Saturday.",
+      "The schools were closed on Saturday.",
+      "The schools will open on Saturday."
+     ],
+     "answer": 0,
+     "faV": "مَدرِسه‌ها شَنبه باز نَخواهَند بود.",
+     "a": "28be8ec2c391"
+    },
+    {
+     "fa": "قرار است قطار ساعت نه حرکت کند.",
+     "r": "gharār ast ghatār sā'at-e noh harekat konad.",
+     "en": "The train is due to leave at nine.",
+     "options": [
+      "The train left at nine.",
+      "The train is due to leave at nine.",
+      "The train wants to leave at nine."
+     ],
+     "answer": 1,
+     "faV": "قَرار اَست قَطار ساعَتِ نُه حَرِکَت کُنَد.",
+     "a": "7fbf6fa2d5ae"
+    }
    ]
   }
- ]
+ ],
+ "titleV": "خواهَم رَفت",
+ "titleA": "1756a25a705f"
 }

@@ -20,25 +20,133 @@
    "title": "The coppersmith",
    "intro": "A morning with Mr Karimi in the bazaar of Isfahan. Almost every second word is built from a root and a suffix – the notes in the word list show how.",
    "sentences": [
-    {"fa": "آقای کریمی چهل سال است که در بازار اصفهان مسگری می‌کند.", "r": "āghā-ye Karimi chehel sāl ast ke dar bāzār-e Esfahān mesgari mi-konad.", "en": "Mr Karimi has worked as a coppersmith in the Isfahan bazaar for forty years."},
-    {"fa": "پدر و پدربزرگش هم مسگر بودند.", "r": "pedar o pedarbozorg-ash ham mesgar budand.", "en": "His father and grandfather were coppersmiths too."},
-    {"fa": "هر روز صبح، قبل از باز شدن مغازه‌ها، نگهبان بازار در بزرگ را باز می‌کند.", "r": "har ruz sobh, ghabl az bāz shodan-e maghāze-hā, negahbān-e bāzār dar-e bozorg rā bāz mi-konad.", "en": "Every morning, before the shops open, the bazaar's watchman opens the big gate."},
-    {"fa": "اولین کسی که می‌آید، قهوه‌چی است.", "r": "avvalin kas-i ke mi-āyad, ghahve-chi ast.", "en": "The first person to arrive is the tea-house keeper."},
-    {"fa": "او در قهوه‌خانه‌ی کوچکش سماور را روشن می‌کند و برای کاسب‌ها چای می‌برد.", "r": "u dar ghahve-khāne-ye kuchak-ash samāvar rā roshan mi-konad o barā-ye kāseb-hā chāy mi-barad.", "en": "He lights the samovar in his little tea-house and takes tea round to the shopkeepers."},
-    {"fa": "آقای کریمی چای را در استکان می‌خورد و قند را از قندان برمی‌دارد.", "r": "āghā-ye Karimi chāy rā dar estekān mi-khorad o ghand rā az ghandān bar-mi-dārad.", "en": "Mr Karimi drinks his tea from a small glass and takes sugar lumps from the sugar bowl."},
-    {"fa": "صدای چکش مسگرها از صبح تا شب در بازار شنیده می‌شود.", "r": "sedā-ye chakosh-e mesgar-hā az sobh tā shab dar bāzār shenide mi-shavad.", "en": "The sound of the coppersmiths' hammers is heard in the bazaar from morning till night."},
-    {"fa": "مسگری کار سخت و گاهی خطرناکی است.", "r": "mesgari kār-e sakht o gāhi khatarnāk-i ast.", "en": "Coppersmithing is hard and sometimes dangerous work."},
-    {"fa": "اما آقای کریمی می‌گوید که مسگری هنر است و هر مسگر خوب یک هنرمند است.", "r": "ammā āghā-ye Karimi mi-guyad ke mesgari honar ast o har mesgar-e khub yek honarmand ast.", "en": "But Mr Karimi says that coppersmithing is an art and every good coppersmith is an artist."},
-    {"fa": "امروز بیشتر خریداران او جهانگردانی هستند که از کشورهای دیگر می‌آیند.", "r": "emruz bishtar-e kharidārān-e u jahāngardān-i hastand ke az keshvar-hā-ye digar mi-āyand.", "en": "Today most of his customers are tourists who come from other countries."},
-    {"fa": "او با آن‌ها دوستانه رفتار می‌کند و با دست و چند کلمه‌ی انگلیسی حرف می‌زند.", "r": "u bā ān-hā dustāne raftār mi-konad o bā dast o chand kalame-ye engelisi harf mi-zanad.", "en": "He is friendly with them and talks with his hands and a few words of English."},
-    {"fa": "پسرش در دانشگاه مهندسی خوانده و حالا در یک شرکت کار می‌کند.", "r": "pesar-ash dar dāneshgāh mohandesi khānde o hālā dar yek sherkat kār mi-konad.", "en": "His son studied engineering at university and now works for a company."},
-    {"fa": "اما آقای کریمی ناامید نیست؛ او به نوه‌اش مسگری یاد می‌دهد.", "r": "ammā āghā-ye Karimi nā-omid nist; u be nave-ash mesgari yād mi-dahad.", "en": "But Mr Karimi has not lost hope: he is teaching the craft to his grandson."},
-    {"fa": "او می‌گوید: «تا وقتی این صدا هست، بازار زنده است.»", "r": "u mi-guyad: «tā vaghti in sedā hast, bāzār zende ast.»", "en": "He says: 'As long as this sound is here, the bazaar is alive.'"}
+    {
+     "fa": "آقای کریمی چهل سال است که در بازار اصفهان مسگری می‌کند.",
+     "r": "āghā-ye Karimi chehel sāl ast ke dar bāzār-e Esfahān mesgari mi-konad.",
+     "en": "Mr Karimi has worked as a coppersmith in the Isfahan bazaar for forty years.",
+     "faV": "آقایِ کَریمی چِهِل سال اَست که دَر بازارِ اِصفَهان مِسگَری می‌کُنَد.",
+     "a": "9aaed3f23e7c"
+    },
+    {
+     "fa": "پدر و پدربزرگش هم مسگر بودند.",
+     "r": "pedar o pedarbozorg-ash ham mesgar budand.",
+     "en": "His father and grandfather were coppersmiths too.",
+     "faV": "پِدَر و پِدَربُزُرگَش هَم مِسگَر بودَند.",
+     "a": "367b1a4c3ce2"
+    },
+    {
+     "fa": "هر روز صبح، قبل از باز شدن مغازه‌ها، نگهبان بازار در بزرگ را باز می‌کند.",
+     "r": "har ruz sobh, ghabl az bāz shodan-e maghāze-hā, negahbān-e bāzār dar-e bozorg rā bāz mi-konad.",
+     "en": "Every morning, before the shops open, the bazaar's watchman opens the big gate.",
+     "faV": "هَر روز صُبح، قَبل اَز باز شُدَنِ مَغازه‌ها، نِگَهبانِ بازار دَرِ بُزُرگ را باز می‌کُنَد.",
+     "a": "2eb28ebe1151"
+    },
+    {
+     "fa": "اولین کسی که می‌آید، قهوه‌چی است.",
+     "r": "avvalin kas-i ke mi-āyad, ghahve-chi ast.",
+     "en": "The first person to arrive is the tea-house keeper.",
+     "faV": "اَوَّلین کَسی که می‌آیَد، قَهوه‌چی اَست.",
+     "a": "a7b9c5e15873"
+    },
+    {
+     "fa": "او در قهوه‌خانه‌ی کوچکش سماور را روشن می‌کند و برای کاسب‌ها چای می‌برد.",
+     "r": "u dar ghahve-khāne-ye kuchak-ash samāvar rā roshan mi-konad o barā-ye kāseb-hā chāy mi-barad.",
+     "en": "He lights the samovar in his little tea-house and takes tea round to the shopkeepers.",
+     "faV": "او دَر قَهوه‌خانه‌یِ کوچَکَش سَماوَر را روشَن می‌کُنَد و بَرایِ کاسِب‌ها چای می‌بَرَد.",
+     "a": "d4d92e36ece0"
+    },
+    {
+     "fa": "آقای کریمی چای را در استکان می‌خورد و قند را از قندان برمی‌دارد.",
+     "r": "āghā-ye Karimi chāy rā dar estekān mi-khorad o ghand rā az ghandān bar-mi-dārad.",
+     "en": "Mr Karimi drinks his tea from a small glass and takes sugar lumps from the sugar bowl.",
+     "faV": "آقایِ کَریمی چای را دَر اِستِکان می‌خورَد و قَند را اَز قَندان بَرمی‌دارَد.",
+     "a": "77de53b56bd9"
+    },
+    {
+     "fa": "صدای چکش مسگرها از صبح تا شب در بازار شنیده می‌شود.",
+     "r": "sedā-ye chakosh-e mesgar-hā az sobh tā shab dar bāzār shenide mi-shavad.",
+     "en": "The sound of the coppersmiths' hammers is heard in the bazaar from morning till night.",
+     "faV": "صِدایِ چَکُشِ مِسگَرها اَز صُبح تا شَب دَر بازار شِنیده می‌شَوَد.",
+     "a": "10cef46a590a"
+    },
+    {
+     "fa": "مسگری کار سخت و گاهی خطرناکی است.",
+     "r": "mesgari kār-e sakht o gāhi khatarnāk-i ast.",
+     "en": "Coppersmithing is hard and sometimes dangerous work.",
+     "faV": "مِسگَری کارِ سَخت و گاهی خَطَرناکی اَست.",
+     "a": "208e85cc4b00"
+    },
+    {
+     "fa": "اما آقای کریمی می‌گوید که مسگری هنر است و هر مسگر خوب یک هنرمند است.",
+     "r": "ammā āghā-ye Karimi mi-guyad ke mesgari honar ast o har mesgar-e khub yek honarmand ast.",
+     "en": "But Mr Karimi says that coppersmithing is an art and every good coppersmith is an artist.",
+     "faV": "اَمّا آقایِ کَریمی می‌گویَد که مِسگَری هُنَر اَست و هَر مِسگَرِ خوب یِک هُنَرمَند اَست.",
+     "a": "ec55e0704f0b"
+    },
+    {
+     "fa": "امروز بیشتر خریداران او جهانگردانی هستند که از کشورهای دیگر می‌آیند.",
+     "r": "emruz bishtar-e kharidārān-e u jahāngardān-i hastand ke az keshvar-hā-ye digar mi-āyand.",
+     "en": "Today most of his customers are tourists who come from other countries.",
+     "faV": "اِمروز بیشتَرِ خَریدارانِ او جَهانگَردانی هَستَند که اَز کِشوَرهایِ دیگَر می‌آیَند.",
+     "a": "a20b5146a0d7"
+    },
+    {
+     "fa": "او با آن‌ها دوستانه رفتار می‌کند و با دست و چند کلمه‌ی انگلیسی حرف می‌زند.",
+     "r": "u bā ān-hā dustāne raftār mi-konad o bā dast o chand kalame-ye engelisi harf mi-zanad.",
+     "en": "He is friendly with them and talks with his hands and a few words of English.",
+     "faV": "او با آن‌ها دوستانه رَفتار می‌کُنَد و با دَست و چَند کَلَمه‌یِ اِنگِلیسی حَرف می‌زَنَد.",
+     "a": "531a573154b0"
+    },
+    {
+     "fa": "پسرش در دانشگاه مهندسی خوانده و حالا در یک شرکت کار می‌کند.",
+     "r": "pesar-ash dar dāneshgāh mohandesi khānde o hālā dar yek sherkat kār mi-konad.",
+     "en": "His son studied engineering at university and now works for a company.",
+     "faV": "پِسَرَش دَر دانِشگاه مُهَندِسی خوانده و حالا دَر یِک شِرکَت کار می‌کُنَد.",
+     "a": "6778d6933152"
+    },
+    {
+     "fa": "اما آقای کریمی ناامید نیست؛ او به نوه‌اش مسگری یاد می‌دهد.",
+     "r": "ammā āghā-ye Karimi nā-omid nist; u be nave-ash mesgari yād mi-dahad.",
+     "en": "But Mr Karimi has not lost hope: he is teaching the craft to his grandson.",
+     "faV": "اَمّا آقایِ کَریمی نااُمید نیست؛ او به نَوه‌اَش مِسگَری یاد می‌دَهَد.",
+     "a": "706d891ada27"
+    },
+    {
+     "fa": "او می‌گوید: «تا وقتی این صدا هست، بازار زنده است.»",
+     "r": "u mi-guyad: «tā vaghti in sedā hast, bāzār zende ast.»",
+     "en": "He says: 'As long as this sound is here, the bazaar is alive.'",
+     "faV": "او می‌گویَد: «تا وَقتی این صِدا هَست، بازار زِنده اَست.»",
+     "a": "835db36b90f2"
+    }
    ],
    "questions": [
-    {"q": "What is Mr Karimi's trade?", "options": ["tea-house keeper", "coppersmith", "watchman"], "answer": 1},
-    {"q": "Who are most of his customers today?", "options": ["other coppersmiths", "tourists from other countries", "his own family"], "answer": 1},
-    {"q": "Which word is made with the suffix ـمند 'having'?", "options": ["هنرمند", "خطرناک", "قهوه‌چی"], "answer": 0}
+    {
+     "q": "What is Mr Karimi's trade?",
+     "options": [
+      "tea-house keeper",
+      "coppersmith",
+      "watchman"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Who are most of his customers today?",
+     "options": [
+      "other coppersmiths",
+      "tourists from other countries",
+      "his own family"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Which word is made with the suffix ـمند 'having'?",
+     "options": [
+      "هنرمند",
+      "خطرناک",
+      "قهوه‌چی"
+     ],
+     "answer": 0
+    }
    ]
   },
   {
@@ -50,30 +158,212 @@
    "type": "vocab",
    "title": "Words",
    "items": [
-    {"fa": "مسگر", "r": "mesgar", "en": "coppersmith", "pos": "n", "note": "مس 'copper' + ـگر"},
-    {"fa": "مسگری", "r": "mesgari", "en": "coppersmithing; a coppersmith's workshop", "pos": "n", "note": "مسگر + ـی"},
-    {"fa": "نگهبان", "r": "negahbān", "en": "watchman, guard", "pos": "n", "note": "نگه 'keeping' + ـبان"},
-    {"fa": "قهوه‌خانه", "r": "ghahve-khāne", "en": "traditional tea-house", "pos": "n", "note": "literally 'coffee-house', but it serves tea"},
-    {"fa": "قهوه‌چی", "r": "ghahve-chi", "en": "tea-house keeper", "pos": "n", "note": "قهوه + ـچی"},
-    {"fa": "سماور", "r": "samāvar", "en": "samovar", "pos": "n"},
-    {"fa": "استکان", "r": "estekān", "en": "small tea glass", "pos": "n"},
-    {"fa": "قندان", "r": "ghandān", "en": "sugar bowl", "pos": "n", "note": "قند 'sugar lump' + ـدان"},
-    {"fa": "کاسب", "r": "kāseb", "en": "shopkeeper, tradesman", "pos": "n"},
-    {"fa": "چکش", "r": "chakosh", "en": "hammer", "pos": "n"},
-    {"fa": "خطرناک", "r": "khatarnāk", "en": "dangerous", "pos": "adj", "note": "خطر 'danger' + ـناک"},
-    {"fa": "هنرمند", "r": "honarmand", "en": "artist", "pos": "n", "note": "هنر 'art' + ـمند"},
-    {"fa": "خریدار", "r": "kharidār", "en": "buyer, customer", "pos": "n", "note": "خرید 'buying' + ـار"},
-    {"fa": "جهانگرد", "r": "jahāngard", "en": "tourist, traveller", "pos": "n", "note": "جهان 'world' + گرد 'wanderer'"},
-    {"fa": "دوستانه", "r": "dustāne", "en": "friendly; in a friendly way", "pos": "adj", "note": "دوست + ـانه"},
-    {"fa": "رفتار کردن", "r": "raftār kardan", "en": "to behave, treat (someone)", "pos": "v"},
-    {"fa": "ناامید", "r": "nā-omid", "en": "hopeless; disappointed", "pos": "adj", "note": "نا + امید 'hope'"},
-    {"fa": "نوه", "r": "nave", "en": "grandchild", "pos": "n"},
-    {"fa": "زنده", "r": "zende", "en": "alive", "pos": "adj"},
-    {"fa": "ریشه", "r": "rishe", "en": "root", "pos": "n"},
-    {"fa": "پسوند", "r": "pasvand", "en": "suffix", "pos": "n", "note": "پس 'after' + وند"},
-    {"fa": "پیشوند", "r": "pishvand", "en": "prefix", "pos": "n", "note": "پیش 'before' + وند"},
-    {"fa": "کلمه", "r": "kalame", "en": "word", "pos": "n"},
-    {"fa": "معنی", "r": "ma'ni", "en": "meaning", "pos": "n"}
+    {
+     "fa": "مسگر",
+     "r": "mesgar",
+     "en": "coppersmith",
+     "pos": "n",
+     "note": "مس 'copper' + ـگر",
+     "faV": "مِسگَر",
+     "a": "4f608c4b8a72"
+    },
+    {
+     "fa": "مسگری",
+     "r": "mesgari",
+     "en": "coppersmithing; a coppersmith's workshop",
+     "pos": "n",
+     "note": "مسگر + ـی",
+     "faV": "مِسگَری",
+     "a": "762202918089"
+    },
+    {
+     "fa": "نگهبان",
+     "r": "negahbān",
+     "en": "watchman, guard",
+     "pos": "n",
+     "note": "نگه 'keeping' + ـبان",
+     "faV": "نِگَهبان",
+     "a": "6dc38b435f85"
+    },
+    {
+     "fa": "قهوه‌خانه",
+     "r": "ghahve-khāne",
+     "en": "traditional tea-house",
+     "pos": "n",
+     "note": "literally 'coffee-house', but it serves tea",
+     "faV": "قَهوه‌خانه",
+     "a": "160dd8ad08c4"
+    },
+    {
+     "fa": "قهوه‌چی",
+     "r": "ghahve-chi",
+     "en": "tea-house keeper",
+     "pos": "n",
+     "note": "قهوه + ـچی",
+     "faV": "قَهوه‌چی",
+     "a": "e2ce724e6d11"
+    },
+    {
+     "fa": "سماور",
+     "r": "samāvar",
+     "en": "samovar",
+     "pos": "n",
+     "faV": "سَماوَر",
+     "a": "796eea281098"
+    },
+    {
+     "fa": "استکان",
+     "r": "estekān",
+     "en": "small tea glass",
+     "pos": "n",
+     "faV": "اِستِکان",
+     "a": "6b3e23c953c0"
+    },
+    {
+     "fa": "قندان",
+     "r": "ghandān",
+     "en": "sugar bowl",
+     "pos": "n",
+     "note": "قند 'sugar lump' + ـدان",
+     "faV": "قَندان",
+     "a": "6e7a02ec3556"
+    },
+    {
+     "fa": "کاسب",
+     "r": "kāseb",
+     "en": "shopkeeper, tradesman",
+     "pos": "n",
+     "faV": "کاسِب",
+     "a": "adcd0450797c"
+    },
+    {
+     "fa": "چکش",
+     "r": "chakosh",
+     "en": "hammer",
+     "pos": "n",
+     "faV": "چَکُش",
+     "a": "7e8e0367368d"
+    },
+    {
+     "fa": "خطرناک",
+     "r": "khatarnāk",
+     "en": "dangerous",
+     "pos": "adj",
+     "note": "خطر 'danger' + ـناک",
+     "faV": "خَطَرناک",
+     "a": "49b0e315742e"
+    },
+    {
+     "fa": "هنرمند",
+     "r": "honarmand",
+     "en": "artist",
+     "pos": "n",
+     "note": "هنر 'art' + ـمند",
+     "faV": "هُنَرمَند",
+     "a": "b3a86efd8273"
+    },
+    {
+     "fa": "خریدار",
+     "r": "kharidār",
+     "en": "buyer, customer",
+     "pos": "n",
+     "note": "خرید 'buying' + ـار",
+     "faV": "خَریدار",
+     "a": "717b48dcf350"
+    },
+    {
+     "fa": "جهانگرد",
+     "r": "jahāngard",
+     "en": "tourist, traveller",
+     "pos": "n",
+     "note": "جهان 'world' + گرد 'wanderer'",
+     "faV": "جَهانگَرد",
+     "a": "ecc73962cb0e"
+    },
+    {
+     "fa": "دوستانه",
+     "r": "dustāne",
+     "en": "friendly; in a friendly way",
+     "pos": "adj",
+     "note": "دوست + ـانه",
+     "faV": "دوستانه",
+     "a": "eeb1acfaf066"
+    },
+    {
+     "fa": "رفتار کردن",
+     "r": "raftār kardan",
+     "en": "to behave, treat (someone)",
+     "pos": "v",
+     "faV": "رَفتار کَردَن",
+     "a": "9d4693ced72a"
+    },
+    {
+     "fa": "ناامید",
+     "r": "nā-omid",
+     "en": "hopeless; disappointed",
+     "pos": "adj",
+     "note": "نا + امید 'hope'",
+     "faV": "نااُمید",
+     "a": "f356b280e8f8"
+    },
+    {
+     "fa": "نوه",
+     "r": "nave",
+     "en": "grandchild",
+     "pos": "n",
+     "faV": "نَوه",
+     "a": "21bcda631711"
+    },
+    {
+     "fa": "زنده",
+     "r": "zende",
+     "en": "alive",
+     "pos": "adj",
+     "faV": "زِنده",
+     "a": "e5f480fad6b4"
+    },
+    {
+     "fa": "ریشه",
+     "r": "rishe",
+     "en": "root",
+     "pos": "n",
+     "faV": "ریشه",
+     "a": "a5e8e6f3c96f"
+    },
+    {
+     "fa": "پسوند",
+     "r": "pasvand",
+     "en": "suffix",
+     "pos": "n",
+     "note": "پس 'after' + وند",
+     "faV": "پَسوَند",
+     "a": "28d5cc371fe0"
+    },
+    {
+     "fa": "پیشوند",
+     "r": "pishvand",
+     "en": "prefix",
+     "pos": "n",
+     "note": "پیش 'before' + وند",
+     "faV": "پیشوَند",
+     "a": "06ec6ac5c43f"
+    },
+    {
+     "fa": "کلمه",
+     "r": "kalame",
+     "en": "word",
+     "pos": "n",
+     "faV": "کَلَمه",
+     "a": "1472bd7fd603"
+    },
+    {
+     "fa": "معنی",
+     "r": "ma'ni",
+     "en": "meaning",
+     "pos": "n",
+     "faV": "مَعنی",
+     "a": "627f3246ff56"
+    }
    ]
   },
   {
@@ -81,32 +371,170 @@
    "title": "Thirteen suffixes",
    "md": "A suffix goes on the end of a noun, an adjective or a verb stem. Most are written **joined** to the word ([[باغبان|bāghbān]], [[خطرناک|khatarnāk]]); after a silent [[ه|e]], and in long words, they take a ZWNJ ([[دروازه‌بان|darvāze-bān]], [[موفقیت‌آمیز|movaffaghiyat-āmiz]]).\n\n- **People:** [[ـگر|-gar]], [[ـگار|-gār]], [[ـبان|-bān]], [[ـچی|-chi]] (from Turkish), and [[ـمند|-mand]] when it means *a person who has*.\n- **Places:** [[ـستان|-stān]], [[ـزار|-zār]], [[ـگاه|-gāh]]. Countries and provinces use [[ـستان|-stān]] too: [[کردستان|Kordestān]], [[افغانستان|Afghānestān]].\n- **Things:** [[ـدان|-dān]] for containers. After a noun of knowledge, [[ـدان|-dān]] can also mean *one who knows*: [[ریاضی‌دان|riyāzi-dān|mathematician]].\n- **Qualities:** [[ـمند|-mand]], [[ـناک|-nāk]], [[ـآمیز|-āmiz]], [[ـانه|-āne]] and [[ـی|-i]].\n\n[[ـی|-i]] is the hardest worker of all. It makes adjectives of origin and material ([[ایرانی|irāni|Iranian]], [[چوبی|chubi|wooden]]), abstract nouns ([[دوستی|dusti|friendship]]), and trades and shops ([[نانوایی|nānvāyi|bakery]], [[مسگری|mesgari]]). Don't confuse it with the indefinite -i: in [[ایرانی|irāni]] it is stressed, in [[کتابی|ketāb-i|a book]] it is not.",
    "table": {
-    "head": ["Suffix", "Meaning", "Examples", "English"],
+    "head": [
+     "Suffix",
+     "Meaning",
+     "Examples",
+     "English"
+    ],
     "rows": [
-     ["[[ـی|-i]]", "of, made of; -ness; trade, shop", "[[ایرانی|irāni]]، [[چوبی|chubi]]، [[دوستی|dusti]]", "Iranian, wooden, friendship"],
-     ["[[ـگر|-gar]]", "one who works with", "[[بازیگر|bāzigar]]، [[آهنگر|āhangar]]، [[رفتگر|roftegar]]", "actor, blacksmith, street sweeper"],
-     ["[[ـگار|-gār]]", "doer (often from a verb)", "[[آموزگار|āmuzgār]]، [[خواستگار|khāstgār]]، [[ماندگار|māndegār]]", "primary-school teacher, suitor, lasting"],
-     ["[[ـبان|-bān]]", "keeper, guardian", "[[باغبان|bāghbān]]، [[دروازه‌بان|darvāze-bān]]، [[مهربان|mehrabān]]", "gardener, goalkeeper, kind"],
-     ["[[ـچی|-chi]]", "person with a job", "[[پستچی|postchi]]، [[تماشاچی|tamāshāchi]]، [[شکارچی|shekārchi]]", "postman, spectator, hunter"],
-     ["[[ـستان|-stān]]", "place of, land of", "[[بیمارستان|bimārestān]]، [[دبیرستان|dabirestān]]، [[کوهستان|kuhestān]]", "hospital, secondary school, mountain country"],
-     ["[[ـدان|-dān]]", "container", "[[گلدان|goldān]]، [[نمکدان|namakdān]]، [[زباله‌دان|zobāle-dān]]", "vase, salt cellar, rubbish bin"],
-     ["[[ـزار|-zār]]", "field of, place full of", "[[چمنزار|chamanzār]]، [[نیزار|neyzār]]، [[لاله‌زار|lāle-zār]]", "meadow, reed bed, tulip field"],
-     ["[[ـگاه|-gāh]]", "place (or time)", "[[فرودگاه|forudgāh]]، [[ایستگاه|istgāh]]، [[آرامگاه|ārāmgāh]]", "airport, station, mausoleum"],
-     ["[[ـمند|-mand]]", "having, -ful", "[[ثروتمند|servatmand]]، [[دانشمند|dāneshmand]]، [[علاقه‌مند|alāghe-mand]]", "wealthy, scientist, interested"],
-     ["[[ـناک|-nāk]]", "full of (often something bad)", "[[ترسناک|tarsnāk]]، [[دردناک|dardnāk]]، [[غمناک|ghamnāk]]", "frightening, painful, sorrowful"],
-     ["[[ـآمیز|-āmiz]]", "mixed with, -ful (formal)", "[[موفقیت‌آمیز|movaffaghiyat-āmiz]]، [[صلح‌آمیز|solh-āmiz]]، [[توهین‌آمیز|towhin-āmiz]]", "successful, peaceful, insulting"],
-     ["[[ـانه|-āne]]", "-ly, -like; per", "[[دوستانه|dustāne]]، [[سالانه|sālāne]]، [[عاقلانه|āghelāne]]", "friendly, annual, sensible"]
+     [
+      "[[ـی|-i]]",
+      "of, made of; -ness; trade, shop",
+      "[[ایرانی|irāni]]، [[چوبی|chubi]]، [[دوستی|dusti]]",
+      "Iranian, wooden, friendship"
+     ],
+     [
+      "[[ـگر|-gar]]",
+      "one who works with",
+      "[[بازیگر|bāzigar]]، [[آهنگر|āhangar]]، [[رفتگر|roftegar]]",
+      "actor, blacksmith, street sweeper"
+     ],
+     [
+      "[[ـگار|-gār]]",
+      "doer (often from a verb)",
+      "[[آموزگار|āmuzgār]]، [[خواستگار|khāstgār]]، [[ماندگار|māndegār]]",
+      "primary-school teacher, suitor, lasting"
+     ],
+     [
+      "[[ـبان|-bān]]",
+      "keeper, guardian",
+      "[[باغبان|bāghbān]]، [[دروازه‌بان|darvāze-bān]]، [[مهربان|mehrabān]]",
+      "gardener, goalkeeper, kind"
+     ],
+     [
+      "[[ـچی|-chi]]",
+      "person with a job",
+      "[[پستچی|postchi]]، [[تماشاچی|tamāshāchi]]، [[شکارچی|shekārchi]]",
+      "postman, spectator, hunter"
+     ],
+     [
+      "[[ـستان|-stān]]",
+      "place of, land of",
+      "[[بیمارستان|bimārestān]]، [[دبیرستان|dabirestān]]، [[کوهستان|kuhestān]]",
+      "hospital, secondary school, mountain country"
+     ],
+     [
+      "[[ـدان|-dān]]",
+      "container",
+      "[[گلدان|goldān]]، [[نمکدان|namakdān]]، [[زباله‌دان|zobāle-dān]]",
+      "vase, salt cellar, rubbish bin"
+     ],
+     [
+      "[[ـزار|-zār]]",
+      "field of, place full of",
+      "[[چمنزار|chamanzār]]، [[نیزار|neyzār]]، [[لاله‌زار|lāle-zār]]",
+      "meadow, reed bed, tulip field"
+     ],
+     [
+      "[[ـگاه|-gāh]]",
+      "place (or time)",
+      "[[فرودگاه|forudgāh]]، [[ایستگاه|istgāh]]، [[آرامگاه|ārāmgāh]]",
+      "airport, station, mausoleum"
+     ],
+     [
+      "[[ـمند|-mand]]",
+      "having, -ful",
+      "[[ثروتمند|servatmand]]، [[دانشمند|dāneshmand]]، [[علاقه‌مند|alāghe-mand]]",
+      "wealthy, scientist, interested"
+     ],
+     [
+      "[[ـناک|-nāk]]",
+      "full of (often something bad)",
+      "[[ترسناک|tarsnāk]]، [[دردناک|dardnāk]]، [[غمناک|ghamnāk]]",
+      "frightening, painful, sorrowful"
+     ],
+     [
+      "[[ـآمیز|-āmiz]]",
+      "mixed with, -ful (formal)",
+      "[[موفقیت‌آمیز|movaffaghiyat-āmiz]]، [[صلح‌آمیز|solh-āmiz]]، [[توهین‌آمیز|towhin-āmiz]]",
+      "successful, peaceful, insulting"
+     ],
+     [
+      "[[ـانه|-āne]]",
+      "-ly, -like; per",
+      "[[دوستانه|dustāne]]، [[سالانه|sālāne]]، [[عاقلانه|āghelāne]]",
+      "friendly, annual, sensible"
+     ]
     ]
    },
    "examples": [
-    {"fa": "پدربزرگم سی سال باغبان این باغ بود.", "r": "pedarbozorg-am si sāl bāghbān-e in bāgh bud.", "en": "My grandfather was the gardener of this garden for thirty years."},
-    {"fa": "این فیلم برای بچه‌ها خیلی ترسناک است.", "r": "in film barā-ye bacche-hā kheyli tarsnāk ast.", "en": "This film is very scary for children.", "col": "این فیلم برای بچه‌ها خیلی ترسناکه.", "colR": "in film barā-ye bacche-hā kheyli tarsnāke."},
-    {"fa": "پستچی هر روز ساعت ده نامه‌ها را می‌آورد.", "r": "postchi har ruz sā'at-e dah nāme-hā rā mi-āvarad.", "en": "The postman brings the letters at ten every day.", "col": "پستچی هر روز ساعت ده نامه‌ها رو میاره.", "colR": "postchi har ruz sā'at-e dah nāme-hā ro miyāre."},
-    {"fa": "مذاکرات دو کشور موفقیت‌آمیز بود.", "r": "mozākerāt-e do keshvar movaffaghiyat-āmiz bud.", "en": "The talks between the two countries were successful."},
-    {"fa": "خواهرم در یک دبیرستان دخترانه درس می‌دهد.", "r": "khāhar-am dar yek dabirestān-e dokhtarāne dars mi-dahad.", "en": "My sister teaches at a girls' secondary school.", "col": "خواهرم تو یه دبیرستان دخترونه درس می‌ده.", "colR": "khāhar-am tu ye dabirestān-e dokhtarune dars mi-de."},
-    {"fa": "او به تاریخ ایران خیلی علاقه‌مند است.", "r": "u be tārikh-e Irān kheyli alāghe-mand ast.", "en": "She is very interested in Iranian history.", "col": "اون به تاریخ ایران خیلی علاقه‌منده.", "colR": "un be tārikh-e Irān kheyli alāghe-mande."},
-    {"fa": "این جشنواره‌ی سالانه هر سال هزاران تماشاچی دارد.", "r": "in jashnvāre-ye sālāne har sāl hezārān tamāshāchi dārad.", "en": "This annual festival draws thousands of spectators every year."},
-    {"fa": "گلدان را روی میز بگذار.", "r": "goldān rā ru-ye miz begozār.", "en": "Put the vase on the table.", "col": "گلدونو بذار رو میز.", "colR": "goldun-o bezār ru miz."}
+    {
+     "fa": "پدربزرگم سی سال باغبان این باغ بود.",
+     "r": "pedarbozorg-am si sāl bāghbān-e in bāgh bud.",
+     "en": "My grandfather was the gardener of this garden for thirty years.",
+     "faV": "پِدَربُزُرگَم سی سال باغبانِ این باغ بود.",
+     "a": "59a2fa61d109"
+    },
+    {
+     "fa": "این فیلم برای بچه‌ها خیلی ترسناک است.",
+     "r": "in film barā-ye bacche-hā kheyli tarsnāk ast.",
+     "en": "This film is very scary for children.",
+     "col": "این فیلم برای بچه‌ها خیلی ترسناکه.",
+     "colR": "in film barā-ye bacche-hā kheyli tarsnāke.",
+     "faV": "این فیلم بَرایِ بَچّه‌ها خَیلی تَرسناک اَست.",
+     "a": "6100a49bb47b",
+     "colV": "این فیلم بَرایِ بَچّه‌ها خَیلی تَرسناکه.",
+     "colA": "c8c870a8a37f"
+    },
+    {
+     "fa": "پستچی هر روز ساعت ده نامه‌ها را می‌آورد.",
+     "r": "postchi har ruz sā'at-e dah nāme-hā rā mi-āvarad.",
+     "en": "The postman brings the letters at ten every day.",
+     "col": "پستچی هر روز ساعت ده نامه‌ها رو میاره.",
+     "colR": "postchi har ruz sā'at-e dah nāme-hā ro miyāre.",
+     "faV": "پُستچی هَر روز ساعَتِ دَه نامه‌ها را می‌آوَرَد.",
+     "a": "452c69a7f541",
+     "colV": "پُستچی هَر روز ساعَتِ دَه نامه‌ها رو میاره.",
+     "colA": "2a9d6dfc88cd"
+    },
+    {
+     "fa": "مذاکرات دو کشور موفقیت‌آمیز بود.",
+     "r": "mozākerāt-e do keshvar movaffaghiyat-āmiz bud.",
+     "en": "The talks between the two countries were successful.",
+     "faV": "مُذاکِراتِ دو کِشوَر مُوَفَّقیَت‌آمیز بود.",
+     "a": "908809c3ebce"
+    },
+    {
+     "fa": "خواهرم در یک دبیرستان دخترانه درس می‌دهد.",
+     "r": "khāhar-am dar yek dabirestān-e dokhtarāne dars mi-dahad.",
+     "en": "My sister teaches at a girls' secondary school.",
+     "col": "خواهرم تو یه دبیرستان دخترونه درس می‌ده.",
+     "colR": "khāhar-am tu ye dabirestān-e dokhtarune dars mi-de.",
+     "faV": "خواهَرَم دَر یِک دَبیرِستانِ دُختَرانه دَرس می‌دَهَد.",
+     "a": "33d6c22678ce",
+     "colV": "خواهَرَم تو یه دَبیرِستانِ دُختَرونه دَرس می‌ده.",
+     "colA": "17c83efd7d04"
+    },
+    {
+     "fa": "او به تاریخ ایران خیلی علاقه‌مند است.",
+     "r": "u be tārikh-e Irān kheyli alāghe-mand ast.",
+     "en": "She is very interested in Iranian history.",
+     "col": "اون به تاریخ ایران خیلی علاقه‌منده.",
+     "colR": "un be tārikh-e Irān kheyli alāghe-mande.",
+     "faV": "او به تاریخِ ایران خَیلی عَلاقه‌مَند اَست.",
+     "a": "c11d51992971",
+     "colV": "اون به تاریخِ ایران خَیلی عَلاقه‌مَنده.",
+     "colA": "f1a340726be4"
+    },
+    {
+     "fa": "این جشنواره‌ی سالانه هر سال هزاران تماشاچی دارد.",
+     "r": "in jashnvāre-ye sālāne har sāl hezārān tamāshāchi dārad.",
+     "en": "This annual festival draws thousands of spectators every year.",
+     "faV": "این جَشنواره‌یِ سالانه هَر سال هِزاران تَماشاچی دارَد.",
+     "a": "630936185fd9"
+    },
+    {
+     "fa": "گلدان را روی میز بگذار.",
+     "r": "goldān rā ru-ye miz begozār.",
+     "en": "Put the vase on the table.",
+     "col": "گلدونو بذار رو میز.",
+     "colR": "goldun-o bezār ru miz.",
+     "faV": "گُلدان را رویِ میز بِگُذار.",
+     "a": "de54f10c1105",
+     "colV": "گُلدونو بِذار رو میز.",
+     "colA": "23c9a688d5aa"
+    }
    ]
   },
   {
@@ -114,24 +542,121 @@
    "title": "Six prefixes",
    "md": "Prefixes go at the front. Two of them make opposites – [[نا|nā-]] (*un-, in-*), usually with adjectives, and [[بی|bi-]] (*without, -less*), with nouns – and four add a direction in time or space.\n\nSpelling: [[بی|bi-]], [[پیش|pish-]] and [[پس|pas-]] usually take a ZWNJ ([[بی‌کار|bi-kār]], [[پیش‌غذا|pish-ghazā]], [[پس‌فردا|pas-fardā]]); [[نا|nā-]] and [[باز|bāz-]] are joined ([[ناراحت|nārāhat]], [[بازسازی|bāzsāzi]]); [[هم|ham-]] is joined in old, everyday words ([[همکار|hamkār]], [[همسایه|hamsāye]]) and takes a ZWNJ in newer ones ([[هم‌کلاسی|ham-kelāsi|classmate]]).\n\nMany words have both a prefix and a suffix: [[بی‌کاری|bi-kāri|unemployment]] = بی + کار + ی; [[ناامیدی|nā-omidi|despair]] = نا + امید + ی.",
    "table": {
-    "head": ["Prefix", "Meaning", "Examples", "English"],
+    "head": [
+     "Prefix",
+     "Meaning",
+     "Examples",
+     "English"
+    ],
     "rows": [
-     ["[[نا|nā-]]", "un-, in-, not", "[[ناراحت|nārāhat]]، [[نادرست|nādorost]]، [[ناشناس|nāshenās]]", "upset, incorrect, unknown"],
-     ["[[بی|bi-]]", "without, -less", "[[بی‌کار|bi-kār]]، [[بی‌ادب|bi-adab]]، [[بی‌نظیر|bi-nazir]]", "unemployed, rude, unique"],
-     ["[[هم|ham-]]", "together, fellow", "[[همکار|hamkār]]، [[همسایه|hamsāye]]، [[هم‌وطن|ham-vatan]]", "colleague, neighbour, compatriot"],
-     ["[[باز|bāz-]]", "again, re-, back", "[[بازسازی|bāzsāzi]]، [[بازنشسته|bāzneshaste]]، [[بازدید|bāzdid]]", "renovation, retired, visit"],
-     ["[[پیش|pish-]]", "before, pre-", "[[پیش‌غذا|pish-ghazā]]، [[پیش‌نویس|pish-nevis]]، [[پیش‌پرداخت|pish-pardākht]]", "starter, draft, deposit"],
-     ["[[پس|pas-]]", "after, behind", "[[پس‌فردا|pas-fardā]]، [[پس‌انداز|pas-andāz]]، [[پس‌کوچه|pas-kuche]]", "the day after tomorrow, savings, back alley"]
+     [
+      "[[نا|nā-]]",
+      "un-, in-, not",
+      "[[ناراحت|nārāhat]]، [[نادرست|nādorost]]، [[ناشناس|nāshenās]]",
+      "upset, incorrect, unknown"
+     ],
+     [
+      "[[بی|bi-]]",
+      "without, -less",
+      "[[بی‌کار|bi-kār]]، [[بی‌ادب|bi-adab]]، [[بی‌نظیر|bi-nazir]]",
+      "unemployed, rude, unique"
+     ],
+     [
+      "[[هم|ham-]]",
+      "together, fellow",
+      "[[همکار|hamkār]]، [[همسایه|hamsāye]]، [[هم‌وطن|ham-vatan]]",
+      "colleague, neighbour, compatriot"
+     ],
+     [
+      "[[باز|bāz-]]",
+      "again, re-, back",
+      "[[بازسازی|bāzsāzi]]، [[بازنشسته|bāzneshaste]]، [[بازدید|bāzdid]]",
+      "renovation, retired, visit"
+     ],
+     [
+      "[[پیش|pish-]]",
+      "before, pre-",
+      "[[پیش‌غذا|pish-ghazā]]، [[پیش‌نویس|pish-nevis]]، [[پیش‌پرداخت|pish-pardākht]]",
+      "starter, draft, deposit"
+     ],
+     [
+      "[[پس|pas-]]",
+      "after, behind",
+      "[[پس‌فردا|pas-fardā]]، [[پس‌انداز|pas-andāz]]، [[پس‌کوچه|pas-kuche]]",
+      "the day after tomorrow, savings, back alley"
+     ]
     ]
    },
    "examples": [
-    {"fa": "او دو سال است که بی‌کار است.", "r": "u do sāl ast ke bi-kār ast.", "en": "He has been out of work for two years.", "col": "دو ساله که بی‌کاره.", "colR": "do sāle ke bi-kāre."},
-    {"fa": "همکارم امروز خیلی ناراحت بود.", "r": "hamkār-am emruz kheyli nārāhat bud.", "en": "My colleague was very upset today."},
-    {"fa": "پدرم سال پیش بازنشسته شد.", "r": "pedar-am sāl-e pish bāzneshaste shod.", "en": "My father retired last year.", "col": "بابام پارسال بازنشسته شد.", "colR": "bābā-m pārsāl bāzneshaste shod."},
-    {"fa": "پس‌فردا به دیدن شما می‌آییم.", "r": "pas-fardā be didan-e shomā mi-āyim.", "en": "We'll come and see you the day after tomorrow.", "col": "پس‌فردا میایم دیدنتون.", "colR": "pas-fardā miyāyim didan-etun."},
-    {"fa": "این جواب نادرست است.", "r": "in javāb nādorost ast.", "en": "This answer is incorrect."},
-    {"fa": "ماهی یک میلیون تومان پس‌انداز می‌کنیم.", "r": "māhi yek milyun tomān pas-andāz mi-konim.", "en": "We save a million tomans a month.", "col": "ماهی یه میلیون تومن پس‌انداز می‌کنیم.", "colR": "māhi ye milyun toman pas-andāz mi-konim."},
-    {"fa": "بازسازی این خانه‌ی قدیمی دو سال طول کشید.", "r": "bāzsāzi-ye in khāne-ye ghadimi do sāl tul keshid.", "en": "Renovating this old house took two years.", "col": "بازسازی این خونه‌ی قدیمی دو سال طول کشید.", "colR": "bāzsāzi-ye in khune-ye ghadimi do sāl tul keshid."}
+    {
+     "fa": "او دو سال است که بی‌کار است.",
+     "r": "u do sāl ast ke bi-kār ast.",
+     "en": "He has been out of work for two years.",
+     "col": "دو ساله که بی‌کاره.",
+     "colR": "do sāle ke bi-kāre.",
+     "faV": "او دو سال اَست که بی‌کار اَست.",
+     "a": "c9b789c6fd98",
+     "colV": "دو ساله که بی‌کاره.",
+     "colA": "49352aab9c15"
+    },
+    {
+     "fa": "همکارم امروز خیلی ناراحت بود.",
+     "r": "hamkār-am emruz kheyli nārāhat bud.",
+     "en": "My colleague was very upset today.",
+     "faV": "هَمکارَم اِمروز خَیلی ناراحَت بود.",
+     "a": "e51dfe92e226"
+    },
+    {
+     "fa": "پدرم سال پیش بازنشسته شد.",
+     "r": "pedar-am sāl-e pish bāzneshaste shod.",
+     "en": "My father retired last year.",
+     "col": "بابام پارسال بازنشسته شد.",
+     "colR": "bābā-m pārsāl bāzneshaste shod.",
+     "faV": "پِدَرَم سالِ پیش بازنِشَسته شُد.",
+     "a": "4c8fe693faa6",
+     "colV": "بابام پارسال بازنِشَسته شُد.",
+     "colA": "de8b3e723c6e"
+    },
+    {
+     "fa": "پس‌فردا به دیدن شما می‌آییم.",
+     "r": "pas-fardā be didan-e shomā mi-āyim.",
+     "en": "We'll come and see you the day after tomorrow.",
+     "col": "پس‌فردا میایم دیدنتون.",
+     "colR": "pas-fardā miyāyim didan-etun.",
+     "faV": "پَس‌فَردا به دیدَنِ شُما می‌آییم.",
+     "a": "0be4a4ade94f",
+     "colV": "پَس‌فَردا میایم دیدَنِتون.",
+     "colA": "1eaff8782194"
+    },
+    {
+     "fa": "این جواب نادرست است.",
+     "r": "in javāb nādorost ast.",
+     "en": "This answer is incorrect.",
+     "faV": "این جَواب نادُرُست اَست.",
+     "a": "113642b3f3e7"
+    },
+    {
+     "fa": "ماهی یک میلیون تومان پس‌انداز می‌کنیم.",
+     "r": "māhi yek milyun tomān pas-andāz mi-konim.",
+     "en": "We save a million tomans a month.",
+     "col": "ماهی یه میلیون تومن پس‌انداز می‌کنیم.",
+     "colR": "māhi ye milyun toman pas-andāz mi-konim.",
+     "faV": "ماهی یِک میلیون تومان پَس‌اَنداز می‌کُنیم.",
+     "a": "e467a3920979",
+     "colV": "ماهی یه میلیون تومَن پَس‌اَنداز می‌کُنیم.",
+     "colA": "291c60400ec4"
+    },
+    {
+     "fa": "بازسازی این خانه‌ی قدیمی دو سال طول کشید.",
+     "r": "bāzsāzi-ye in khāne-ye ghadimi do sāl tul keshid.",
+     "en": "Renovating this old house took two years.",
+     "col": "بازسازی این خونه‌ی قدیمی دو سال طول کشید.",
+     "colR": "bāzsāzi-ye in khune-ye ghadimi do sāl tul keshid.",
+     "faV": "بازسازیِ این خانه‌یِ قَدیمی دو سال طول کِشید.",
+     "a": "46cf73a0660c",
+     "colV": "بازسازیِ این خونه‌یِ قَدیمی دو سال طول کِشید.",
+     "colA": "1603a0ccf958"
+    }
    ]
   },
   {
@@ -139,31 +664,155 @@
    "title": "Joining rules and word families",
    "md": "Three spelling rules cover almost every join:\n\n1. **Silent ه + ـی or ـانه → ـگی, ـگانه.** A hidden *g* from old Persian comes back: [[هفته|hafte]] → [[هفتگی|haftegi|weekly]], [[خانه|khāne]] → [[خانگی|khānegi|home-made]], [[زنده|zende]] → [[زندگی|zendegi|life]], [[بچه|bachche]] → [[بچگانه|bachchegāne|childish]]. The same happens with the plural [[ـان|-ān]]: [[پرنده|parande]] → [[پرندگان|parandegān|birds]].\n2. **Long ā or u + ـی → ـیی.** A [[ی|y]] slips in: [[زیبا|zibā]] → [[زیبایی|zibāyi|beauty]], [[نانوا|nānvā]] → [[نانوایی|nānvāyi|bakery]], [[آشنا|āshnā]] → [[آشنایی|āshnāyi|acquaintance]].\n3. **Two alefs meet.** Both are written: [[نا|nā]] + [[امید|omid]] → [[ناامید|nā-omid]].\n\nThen build families. The table shows what one root, [[کار|kār|work]], and another, [[دانش|dānesh|knowledge]] (from [[دانستن|dānestan|to know]]), can do.",
    "table": {
-    "head": ["Word", "Built from", "English"],
+    "head": [
+     "Word",
+     "Built from",
+     "English"
+    ],
     "rows": [
-     ["[[کارگر|kārgar]]", "کار + ـگر", "worker, labourer"],
-     ["[[کارمند|kārmand]]", "کار + ـمند", "employee, office worker"],
-     ["[[کارگاه|kārgāh]]", "کار + ـگاه", "workshop"],
-     ["[[کاردان|kārdān]]", "کار + ـدان", "competent, capable"],
-     ["[[بی‌کار|bi-kār]]", "بی + کار", "unemployed"],
-     ["[[همکار|hamkār]]", "هم + کار", "colleague"],
-     ["[[دانشمند|dāneshmand]]", "دانش + ـمند", "scientist"],
-     ["[[دانشگاه|dāneshgāh]]", "دانش + ـگاه", "university"],
-     ["[[دانشجو|dāneshju]]", "دانش + جو (seeker)", "university student"],
-     ["[[دانش‌آموز|dānesh-āmuz]]", "دانش + آموز (learner)", "school pupil"],
-     ["[[دانشکده|dāneshkade]]", "دانش + کده (house)", "faculty, college"],
-     ["[[نادان|nādān]]", "نا + دان (knowing)", "ignorant"]
+     [
+      "[[کارگر|kārgar]]",
+      "کار + ـگر",
+      "worker, labourer"
+     ],
+     [
+      "[[کارمند|kārmand]]",
+      "کار + ـمند",
+      "employee, office worker"
+     ],
+     [
+      "[[کارگاه|kārgāh]]",
+      "کار + ـگاه",
+      "workshop"
+     ],
+     [
+      "[[کاردان|kārdān]]",
+      "کار + ـدان",
+      "competent, capable"
+     ],
+     [
+      "[[بی‌کار|bi-kār]]",
+      "بی + کار",
+      "unemployed"
+     ],
+     [
+      "[[همکار|hamkār]]",
+      "هم + کار",
+      "colleague"
+     ],
+     [
+      "[[دانشمند|dāneshmand]]",
+      "دانش + ـمند",
+      "scientist"
+     ],
+     [
+      "[[دانشگاه|dāneshgāh]]",
+      "دانش + ـگاه",
+      "university"
+     ],
+     [
+      "[[دانشجو|dāneshju]]",
+      "دانش + جو (seeker)",
+      "university student"
+     ],
+     [
+      "[[دانش‌آموز|dānesh-āmuz]]",
+      "دانش + آموز (learner)",
+      "school pupil"
+     ],
+     [
+      "[[دانشکده|dāneshkade]]",
+      "دانش + کده (house)",
+      "faculty, college"
+     ],
+     [
+      "[[نادان|nādān]]",
+      "نا + دان (knowing)",
+      "ignorant"
+     ]
     ]
    },
    "examples": [
-    {"fa": "بچگی‌ام را در شیراز گذراندم.", "r": "bachchegi-am rā dar Shirāz gozarāndam.", "en": "I spent my childhood in Shiraz.", "col": "بچگیمو شیراز گذروندم.", "colR": "bachchegi-m-o Shirāz gozarundam."},
-    {"fa": "این مربا خانگی است.", "r": "in morabbā khānegi ast.", "en": "This jam is home-made.", "col": "این مربا خونگیه.", "colR": "in morabbā khunegi-ye."},
-    {"fa": "جلسه‌های ما هفتگی است.", "r": "jalase-hā-ye mā haftegi ast.", "en": "Our meetings are weekly.", "col": "جلسه‌هامون هفتگیه.", "colR": "jalase-hā-mun haftegi-ye."},
-    {"fa": "رفتار تو خیلی بچگانه بود.", "r": "raftār-e to kheyli bachchegāne bud.", "en": "Your behaviour was very childish.", "col": "رفتارت خیلی بچگونه بود.", "colR": "raftār-et kheyli bachchegune bud."},
-    {"fa": "پرندگان در پاییز به جنوب کوچ می‌کنند.", "r": "parandegān dar pāyiz be jonub kuch mi-konand.", "en": "Birds migrate south in autumn."},
-    {"fa": "زیبایی اصفهان در معماری آن است.", "r": "zibāyi-ye Esfahān dar me'māri-ye ān ast.", "en": "The beauty of Isfahan lies in its architecture."},
-    {"fa": "از آشنایی با شما خوشوقتم.", "r": "az āshnāyi bā shomā khoshvaght-am.", "en": "Pleased to meet you.", "col": "از آشنایی‌تون خوشحالم.", "colR": "az āshnāyi-tun khoshhāl-am."},
-    {"fa": "نانوایی سر کوچه ساعت شش صبح باز می‌شود.", "r": "nānvāyi-ye sar-e kuche sā'at-e shesh-e sobh bāz mi-shavad.", "en": "The bakery at the end of the street opens at six in the morning.", "col": "نونوایی سر کوچه ساعت شیش صبح باز می‌شه.", "colR": "nunvāyi-ye sar-e kuche sā'at-e shish-e sobh bāz mi-she."}
+    {
+     "fa": "بچگی‌ام را در شیراز گذراندم.",
+     "r": "bachchegi-am rā dar Shirāz gozarāndam.",
+     "en": "I spent my childhood in Shiraz.",
+     "col": "بچگیمو شیراز گذروندم.",
+     "colR": "bachchegi-m-o Shirāz gozarundam.",
+     "faV": "بَچِّگی‌اَم را دَر شیراز گُذَراندَم.",
+     "a": "c95c48fbb8d4",
+     "colV": "بَچِّگیمو شیراز گُذَروندَم.",
+     "colA": "4471e6386f4b"
+    },
+    {
+     "fa": "این مربا خانگی است.",
+     "r": "in morabbā khānegi ast.",
+     "en": "This jam is home-made.",
+     "col": "این مربا خونگیه.",
+     "colR": "in morabbā khunegi-ye.",
+     "faV": "این مُرَبّا خانِگی اَست.",
+     "a": "574c61ca6487",
+     "colV": "این مُرَبّا خونِگیه.",
+     "colA": "49eaf7475e00"
+    },
+    {
+     "fa": "جلسه‌های ما هفتگی است.",
+     "r": "jalase-hā-ye mā haftegi ast.",
+     "en": "Our meetings are weekly.",
+     "col": "جلسه‌هامون هفتگیه.",
+     "colR": "jalase-hā-mun haftegi-ye.",
+     "faV": "جَلَسه‌هایِ ما هَفتِگی اَست.",
+     "a": "8288a0249013",
+     "colV": "جَلَسه‌هامون هَفتِگیه.",
+     "colA": "590bf43ff929"
+    },
+    {
+     "fa": "رفتار تو خیلی بچگانه بود.",
+     "r": "raftār-e to kheyli bachchegāne bud.",
+     "en": "Your behaviour was very childish.",
+     "col": "رفتارت خیلی بچگونه بود.",
+     "colR": "raftār-et kheyli bachchegune bud.",
+     "faV": "رَفتارِ تو خَیلی بَچِّگانه بود.",
+     "a": "50b0da763409",
+     "colV": "رَفتارِت خَیلی بَچِّگونه بود.",
+     "colA": "dcd3ae85b756"
+    },
+    {
+     "fa": "پرندگان در پاییز به جنوب کوچ می‌کنند.",
+     "r": "parandegān dar pāyiz be jonub kuch mi-konand.",
+     "en": "Birds migrate south in autumn.",
+     "faV": "پَرَندِگان دَر پاییز به جُنوب کوچ می‌کُنَند.",
+     "a": "f6ce076f58d0"
+    },
+    {
+     "fa": "زیبایی اصفهان در معماری آن است.",
+     "r": "zibāyi-ye Esfahān dar me'māri-ye ān ast.",
+     "en": "The beauty of Isfahan lies in its architecture.",
+     "faV": "زیباییِ اِصفَهان دَر مِعماریِ آن اَست.",
+     "a": "25150d83b3e3"
+    },
+    {
+     "fa": "از آشنایی با شما خوشوقتم.",
+     "r": "az āshnāyi bā shomā khoshvaght-am.",
+     "en": "Pleased to meet you.",
+     "col": "از آشنایی‌تون خوشحالم.",
+     "colR": "az āshnāyi-tun khoshhāl-am.",
+     "faV": "اَز آشنایی با شُما خوشوَقتَم.",
+     "a": "051e1601c418",
+     "colV": "اَز آشنایی‌تون خوشحالَم.",
+     "colA": "c06f4bce58c9"
+    },
+    {
+     "fa": "نانوایی سر کوچه ساعت شش صبح باز می‌شود.",
+     "r": "nānvāyi-ye sar-e kuche sā'at-e shesh-e sobh bāz mi-shavad.",
+     "en": "The bakery at the end of the street opens at six in the morning.",
+     "col": "نونوایی سر کوچه ساعت شیش صبح باز می‌شه.",
+     "colR": "nunvāyi-ye sar-e kuche sā'at-e shish-e sobh bāz mi-she.",
+     "faV": "نانواییِ سَرِ کوچه ساعَتِ شِشِ صُبح باز می‌شَوَد.",
+     "a": "eb6b32125b9f",
+     "colV": "نونواییِ سَرِ کوچه ساعَتِ شیشِ صُبح باز می‌شه.",
+     "colA": "97db3ee3fc6b"
+    }
    ]
   },
   {
@@ -171,18 +820,150 @@
    "title": "What will you study?",
    "context": "Sara has just finished school and must choose a university course. Her mother, Ms Ahmadi, has opinions. Almost every job and quality they mention is built with a suffix or a prefix.",
    "lines": [
-    {"who": "Ms Ahmadi", "fa": "سارا، بالاخره تصمیم گرفتی در دانشگاه چه بخوانی؟", "r": "Sārā, bel-akhare tasmim gerefti dar dāneshgāh che bekhāni?", "en": "Sara, have you finally decided what to study at university?", "col": "سارا، بالاخره تصمیم گرفتی تو دانشگاه چی بخونی؟", "colR": "Sārā, bel-akhare tasmim gerefti tu dāneshgāh chi bekhuni?"},
-    {"who": "Sara", "fa": "هنوز نه. شاید بازیگری بخوانم.", "r": "hanuz na. shāyad bāzigari bekhānam.", "en": "Not yet. Maybe I'll study acting.", "col": "هنوز نه. شاید بازیگری بخونم.", "colR": "hanuz na. shāyad bāzigari bekhunam."},
-    {"who": "Ms Ahmadi", "fa": "بازیگری؟ بازیگرها بیشتر وقت‌ها بی‌کارند!", "r": "bāzigari? bāzigar-hā bishtar-e vaght-hā bi-kār-and!", "en": "Acting? Actors are out of work most of the time!", "col": "بازیگری؟ بازیگرا بیشتر وقتا بی‌کارن!", "colR": "bāzigari? bāzigarā bishtar-e vaghtā bi-kār-an!"},
-    {"who": "Sara", "fa": "همه نه. بعضی‌شان خیلی ثروتمند و مشهورند.", "r": "hame na. ba'zi-shān kheyli servatmand o mashhur-and.", "en": "Not all of them. Some of them are very rich and famous.", "col": "همه نه. بعضیاشون خیلی پولدار و معروفن.", "colR": "hame na. ba'ziyā-shun kheyli puldār o ma'ruf-an."},
-    {"who": "Ms Ahmadi", "fa": "پدرت دوست دارد که دندان‌پزشک شوی.", "r": "pedar-at dust dārad ke dandān-pezeshk shavi.", "en": "Your father would like you to become a dentist.", "col": "بابات دوست داره دندون‌پزشک بشی.", "colR": "bābā-t dust dāre dandun-pezeshk beshi."},
-    {"who": "Sara", "fa": "دندان‌پزشکی؟ من از بیمارستان و دندان‌پزشک می‌ترسم!", "r": "dandān-pezeshki? man az bimārestān o dandān-pezeshk mi-tarsam!", "en": "Dentistry? I'm scared of hospitals and dentists!", "col": "دندون‌پزشکی؟ من از بیمارستان و دندون‌پزشک می‌ترسم!", "colR": "dandun-pezeshki? man az bimārestān o dandun-pezeshk mi-tarsam!"},
-    {"who": "Ms Ahmadi", "fa": "خب، روزنامه‌نگاری چطور؟ تو همیشه خوب می‌نویسی.", "r": "khob, ruznāme-negāri chetowr? to hamishe khub mi-nevisi.", "en": "Well, what about journalism? You've always written well.", "col": "خب، روزنامه‌نگاری چطوره؟ تو همیشه خوب می‌نویسی.", "colR": "khob, ruznāme-negāri chetore? to hamishe khub mi-nevisi."},
-    {"who": "Sara", "fa": "روزنامه‌نگاری جالب است، اما من به هنر علاقه‌مندم.", "r": "ruznāme-negāri jāleb ast, ammā man be honar alāghe-mand-am.", "en": "Journalism is interesting, but I'm interested in art.", "col": "روزنامه‌نگاری جالبه، ولی من به هنر علاقه‌مندم.", "colR": "ruznāme-negāri jālebe, vali man be honar alāghe-mand-am."},
-    {"who": "Ms Ahmadi", "fa": "پس چرا معماری نمی‌خوانی؟ هم هنر است، هم کار دارد.", "r": "pas cherā me'māri nemi-khāni? ham honar ast, ham kār dārad.", "en": "Then why not study architecture? It's an art, and there are jobs in it.", "col": "پس چرا معماری نمی‌خونی؟ هم هنره، هم کار داره.", "colR": "pas cherā me'māri nemi-khuni? ham honare, ham kār dāre."},
-    {"who": "Sara", "fa": "معماری… بد نیست. می‌توانم خانه‌های قدیمی را بازسازی کنم.", "r": "me'māri… bad nist. mi-tavānam khāne-hā-ye ghadimi rā bāzsāzi konam.", "en": "Architecture… not bad. I could restore old houses.", "col": "معماری… بد نیست. می‌تونم خونه‌های قدیمی رو بازسازی کنم.", "colR": "me'māri… bad nist. mi-tunam khune-hā-ye ghadimi ro bāzsāzi konam."},
-    {"who": "Ms Ahmadi", "fa": "آفرین! پیشنهاد خیلی عاقلانه‌ای بود، نه؟", "r": "āfarin! pishnahād-e kheyli āghelāne-i bud, na?", "en": "Well done! That was a very sensible suggestion, wasn't it?", "col": "آفرین! پیشنهاد خیلی عاقلانه‌ای بود، نه؟", "colR": "āfarin! pishnahād-e kheyli āghelāne-i bud, na?"},
-    {"who": "Sara", "fa": "بله مامان، مثل همه‌ی پیشنهادهای شما!", "r": "bale māmān, mesl-e hame-ye pishnahād-hā-ye shomā!", "en": "Yes, Mum – like all your suggestions!", "col": "آره مامان، مثل همه‌ی پیشنهادای شما!", "colR": "āre māmān, mesl-e hame-ye pishnahādā-ye shomā!"}
+    {
+     "who": "Ms Ahmadi",
+     "fa": "سارا، بالاخره تصمیم گرفتی در دانشگاه چه بخوانی؟",
+     "r": "Sārā, bel-akhare tasmim gerefti dar dāneshgāh che bekhāni?",
+     "en": "Sara, have you finally decided what to study at university?",
+     "col": "سارا، بالاخره تصمیم گرفتی تو دانشگاه چی بخونی؟",
+     "colR": "Sārā, bel-akhare tasmim gerefti tu dāneshgāh chi bekhuni?",
+     "faV": "سارا، باِلاَخَره تَصمیم گِرِفتی دَر دانِشگاه چه بِخوانی؟",
+     "a": "2ac4f0dffb62",
+     "colV": "سارا، باِلاَخَره تَصمیم گِرِفتی تو دانِشگاه چی بِخونی؟",
+     "colA": "3a84bcf0acef"
+    },
+    {
+     "who": "Sara",
+     "fa": "هنوز نه. شاید بازیگری بخوانم.",
+     "r": "hanuz na. shāyad bāzigari bekhānam.",
+     "en": "Not yet. Maybe I'll study acting.",
+     "col": "هنوز نه. شاید بازیگری بخونم.",
+     "colR": "hanuz na. shāyad bāzigari bekhunam.",
+     "faV": "هَنوز نه. شایَد بازیگَری بِخوانَم.",
+     "a": "4c944c8e3526",
+     "colV": "هَنوز نه. شایَد بازیگَری بِخونَم.",
+     "colA": "83689a8a6eb5"
+    },
+    {
+     "who": "Ms Ahmadi",
+     "fa": "بازیگری؟ بازیگرها بیشتر وقت‌ها بی‌کارند!",
+     "r": "bāzigari? bāzigar-hā bishtar-e vaght-hā bi-kār-and!",
+     "en": "Acting? Actors are out of work most of the time!",
+     "col": "بازیگری؟ بازیگرا بیشتر وقتا بی‌کارن!",
+     "colR": "bāzigari? bāzigarā bishtar-e vaghtā bi-kār-an!",
+     "faV": "بازیگَری؟ بازیگَرها بیشتَرِ وَقت‌ها بی‌کارَند!",
+     "a": "0230bb2417e2",
+     "colV": "بازیگَری؟ بازیگَرا بیشتَرِ وَقتا بی‌کارَن!",
+     "colA": "eaff0c36135d"
+    },
+    {
+     "who": "Sara",
+     "fa": "همه نه. بعضی‌شان خیلی ثروتمند و مشهورند.",
+     "r": "hame na. ba'zi-shān kheyli servatmand o mashhur-and.",
+     "en": "Not all of them. Some of them are very rich and famous.",
+     "col": "همه نه. بعضیاشون خیلی پولدار و معروفن.",
+     "colR": "hame na. ba'ziyā-shun kheyli puldār o ma'ruf-an.",
+     "faV": "هَمه نه. بَعضی‌شان خَیلی ثِروَتمَند و مَشهورَند.",
+     "a": "f57dc4acae57",
+     "colV": "هَمه نه. بَعضیاشون خَیلی پولدار و مَعروفَن.",
+     "colA": "ebeef87663b8"
+    },
+    {
+     "who": "Ms Ahmadi",
+     "fa": "پدرت دوست دارد که دندان‌پزشک شوی.",
+     "r": "pedar-at dust dārad ke dandān-pezeshk shavi.",
+     "en": "Your father would like you to become a dentist.",
+     "col": "بابات دوست داره دندون‌پزشک بشی.",
+     "colR": "bābā-t dust dāre dandun-pezeshk beshi.",
+     "faV": "پِدَرَت دوست دارَد که دَندان‌پِزِشک شَوی.",
+     "a": "453cedb87ff7",
+     "colV": "بابات دوست داره دَندون‌پِزِشک بِشی.",
+     "colA": "5e65b9288d56"
+    },
+    {
+     "who": "Sara",
+     "fa": "دندان‌پزشکی؟ من از بیمارستان و دندان‌پزشک می‌ترسم!",
+     "r": "dandān-pezeshki? man az bimārestān o dandān-pezeshk mi-tarsam!",
+     "en": "Dentistry? I'm scared of hospitals and dentists!",
+     "col": "دندون‌پزشکی؟ من از بیمارستان و دندون‌پزشک می‌ترسم!",
+     "colR": "dandun-pezeshki? man az bimārestān o dandun-pezeshk mi-tarsam!",
+     "faV": "دَندان‌پِزِشکی؟ مَن اَز بیمارِستان و دَندان‌پِزِشک می‌تَرسَم!",
+     "a": "4dcec36ade35",
+     "colV": "دَندون‌پِزِشکی؟ مَن اَز بیمارِستان و دَندون‌پِزِشک می‌تَرسَم!",
+     "colA": "5ab250298747"
+    },
+    {
+     "who": "Ms Ahmadi",
+     "fa": "خب، روزنامه‌نگاری چطور؟ تو همیشه خوب می‌نویسی.",
+     "r": "khob, ruznāme-negāri chetowr? to hamishe khub mi-nevisi.",
+     "en": "Well, what about journalism? You've always written well.",
+     "col": "خب، روزنامه‌نگاری چطوره؟ تو همیشه خوب می‌نویسی.",
+     "colR": "khob, ruznāme-negāri chetore? to hamishe khub mi-nevisi.",
+     "faV": "خُب، روزنامه‌نِگاری چِطَور؟ تو هَمیشه خوب می‌نِویسی.",
+     "a": "de188780a147",
+     "colV": "خُب، روزنامه‌نِگاری چِطوره؟ تو هَمیشه خوب می‌نِویسی.",
+     "colA": "985c8f2d96ba"
+    },
+    {
+     "who": "Sara",
+     "fa": "روزنامه‌نگاری جالب است، اما من به هنر علاقه‌مندم.",
+     "r": "ruznāme-negāri jāleb ast, ammā man be honar alāghe-mand-am.",
+     "en": "Journalism is interesting, but I'm interested in art.",
+     "col": "روزنامه‌نگاری جالبه، ولی من به هنر علاقه‌مندم.",
+     "colR": "ruznāme-negāri jālebe, vali man be honar alāghe-mand-am.",
+     "faV": "روزنامه‌نِگاری جالِب اَست، اَمّا مَن به هُنَر عَلاقه‌مَندَم.",
+     "a": "4e6acd84170c",
+     "colV": "روزنامه‌نِگاری جالِبه، وَلی مَن به هُنَر عَلاقه‌مَندَم.",
+     "colA": "af07cb467fda"
+    },
+    {
+     "who": "Ms Ahmadi",
+     "fa": "پس چرا معماری نمی‌خوانی؟ هم هنر است، هم کار دارد.",
+     "r": "pas cherā me'māri nemi-khāni? ham honar ast, ham kār dārad.",
+     "en": "Then why not study architecture? It's an art, and there are jobs in it.",
+     "col": "پس چرا معماری نمی‌خونی؟ هم هنره، هم کار داره.",
+     "colR": "pas cherā me'māri nemi-khuni? ham honare, ham kār dāre.",
+     "faV": "پَس چِرا مِعماری نِمی‌خوانی؟ هَم هُنَر اَست، هَم کار دارَد.",
+     "a": "31078cbeb211",
+     "colV": "پَس چِرا مِعماری نِمی‌خونی؟ هَم هُنَره، هَم کار داره.",
+     "colA": "66519961cfef"
+    },
+    {
+     "who": "Sara",
+     "fa": "معماری… بد نیست. می‌توانم خانه‌های قدیمی را بازسازی کنم.",
+     "r": "me'māri… bad nist. mi-tavānam khāne-hā-ye ghadimi rā bāzsāzi konam.",
+     "en": "Architecture… not bad. I could restore old houses.",
+     "col": "معماری… بد نیست. می‌تونم خونه‌های قدیمی رو بازسازی کنم.",
+     "colR": "me'māri… bad nist. mi-tunam khune-hā-ye ghadimi ro bāzsāzi konam.",
+     "faV": "مِعماری… بَد نیست. می‌تَوانَم خانه‌هایِ قَدیمی را بازسازی کُنَم.",
+     "a": "586d5d6bbe8c",
+     "colV": "مِعماری… بَد نیست. می‌تونَم خونه‌هایِ قَدیمی رو بازسازی کُنَم.",
+     "colA": "3a2fa487e3df"
+    },
+    {
+     "who": "Ms Ahmadi",
+     "fa": "آفرین! پیشنهاد خیلی عاقلانه‌ای بود، نه؟",
+     "r": "āfarin! pishnahād-e kheyli āghelāne-i bud, na?",
+     "en": "Well done! That was a very sensible suggestion, wasn't it?",
+     "col": "آفرین! پیشنهاد خیلی عاقلانه‌ای بود، نه؟",
+     "colR": "āfarin! pishnahād-e kheyli āghelāne-i bud, na?",
+     "faV": "آفَرین! پیشنَهادِ خَیلی عاقِلانه‌ای بود، نه؟",
+     "a": "0393bc894038",
+     "colV": "آفَرین! پیشنَهادِ خَیلی عاقِلانه‌ای بود، نه؟",
+     "colA": "0393bc894038"
+    },
+    {
+     "who": "Sara",
+     "fa": "بله مامان، مثل همه‌ی پیشنهادهای شما!",
+     "r": "bale māmān, mesl-e hame-ye pishnahād-hā-ye shomā!",
+     "en": "Yes, Mum – like all your suggestions!",
+     "col": "آره مامان، مثل همه‌ی پیشنهادای شما!",
+     "colR": "āre māmān, mesl-e hame-ye pishnahādā-ye shomā!",
+     "faV": "بَله مامان، مِثلِ هَمه‌یِ پیشنَهادهایِ شُما!",
+     "a": "bbd85ece9443",
+     "colV": "آره مامان، مِثلِ هَمه‌یِ پیشنَهادایِ شُما!",
+     "colA": "524e60d6d49c"
+    }
    ]
   },
   {
@@ -208,12 +989,48 @@
    "kind": "fill",
    "title": "Find the word",
    "items": [
-    {"fa": "پدربزرگم سی سال در این باغ ___ بود.", "r": "pedarbozorg-am si sāl dar in bāgh ___ bud.", "en": "My grandfather was the gardener in this garden for thirty years.", "answer": "باغبان", "hint": "باغ + the 'keeper' suffix"},
-    {"fa": "این فیلم برای بچه‌ها خیلی ___ است.", "r": "in film barā-ye bacche-hā kheyli ___ ast.", "en": "This film is very scary for children.", "answer": "ترسناک", "hint": "ترس + 'full of'"},
-    {"fa": "هواپیما ساعت ده در ___ نشست.", "r": "havāpeymā sā'at-e dah dar ___ neshast.", "en": "The plane landed at the airport at ten.", "answer": "فرودگاه", "hint": "فرود 'landing' + 'place'"},
-    {"fa": "برادرم ___ است و در تئاتر کار می‌کند.", "r": "barādar-am ___ ast o dar te'ātr kār mi-konad.", "en": "My brother is an actor and works in the theatre.", "answer": "بازیگر", "hint": "بازی 'play' + ـگر"},
-    {"fa": "دو سال است که ___ است و دنبال کار می‌گردد.", "r": "do sāl ast ke ___ ast o donbāl-e kār mi-gardad.", "en": "He has been unemployed for two years and is looking for work.", "answer": "بی‌کار", "hint": "'without' + کار"},
-    {"fa": "رفتارش با ما خیلی ___ بود.", "r": "raftār-ash bā mā kheyli ___ bud.", "en": "He was very friendly towards us.", "answer": "دوستانه", "hint": "دوست + ـانه"}
+    {
+     "fa": "پدربزرگم سی سال در این باغ ___ بود.",
+     "r": "pedarbozorg-am si sāl dar in bāgh ___ bud.",
+     "en": "My grandfather was the gardener in this garden for thirty years.",
+     "answer": "باغبان",
+     "hint": "باغ + the 'keeper' suffix"
+    },
+    {
+     "fa": "این فیلم برای بچه‌ها خیلی ___ است.",
+     "r": "in film barā-ye bacche-hā kheyli ___ ast.",
+     "en": "This film is very scary for children.",
+     "answer": "ترسناک",
+     "hint": "ترس + 'full of'"
+    },
+    {
+     "fa": "هواپیما ساعت ده در ___ نشست.",
+     "r": "havāpeymā sā'at-e dah dar ___ neshast.",
+     "en": "The plane landed at the airport at ten.",
+     "answer": "فرودگاه",
+     "hint": "فرود 'landing' + 'place'"
+    },
+    {
+     "fa": "برادرم ___ است و در تئاتر کار می‌کند.",
+     "r": "barādar-am ___ ast o dar te'ātr kār mi-konad.",
+     "en": "My brother is an actor and works in the theatre.",
+     "answer": "بازیگر",
+     "hint": "بازی 'play' + ـگر"
+    },
+    {
+     "fa": "دو سال است که ___ است و دنبال کار می‌گردد.",
+     "r": "do sāl ast ke ___ ast o donbāl-e kār mi-gardad.",
+     "en": "He has been unemployed for two years and is looking for work.",
+     "answer": "بی‌کار",
+     "hint": "'without' + کار"
+    },
+    {
+     "fa": "رفتارش با ما خیلی ___ بود.",
+     "r": "raftār-ash bā mā kheyli ___ bud.",
+     "en": "He was very friendly towards us.",
+     "answer": "دوستانه",
+     "hint": "دوست + ـانه"
+    }
    ]
   },
   {
@@ -221,14 +1038,62 @@
    "kind": "match",
    "title": "Match the words",
    "items": [
-    {"fa": "باغبان", "r": "bāghbān", "en": "gardener"},
-    {"fa": "بیمارستان", "r": "bimārestān", "en": "hospital"},
-    {"fa": "نمکدان", "r": "namakdān", "en": "salt cellar"},
-    {"fa": "ثروتمند", "r": "servatmand", "en": "wealthy"},
-    {"fa": "دردناک", "r": "dardnāk", "en": "painful"},
-    {"fa": "همکار", "r": "hamkār", "en": "colleague"},
-    {"fa": "پس‌فردا", "r": "pas-fardā", "en": "the day after tomorrow"},
-    {"fa": "بازنشسته", "r": "bāzneshaste", "en": "retired"}
+    {
+     "fa": "باغبان",
+     "r": "bāghbān",
+     "en": "gardener",
+     "faV": "باغبان",
+     "a": "ab5f6618a6ec"
+    },
+    {
+     "fa": "بیمارستان",
+     "r": "bimārestān",
+     "en": "hospital",
+     "faV": "بیمارِستان",
+     "a": "6386b5e043c7"
+    },
+    {
+     "fa": "نمکدان",
+     "r": "namakdān",
+     "en": "salt cellar",
+     "faV": "نَمَکدان",
+     "a": "c65f5986f15c"
+    },
+    {
+     "fa": "ثروتمند",
+     "r": "servatmand",
+     "en": "wealthy",
+     "faV": "ثِروَتمَند",
+     "a": "47dfc212287d"
+    },
+    {
+     "fa": "دردناک",
+     "r": "dardnāk",
+     "en": "painful",
+     "faV": "دَردناک",
+     "a": "f91a14182ee3"
+    },
+    {
+     "fa": "همکار",
+     "r": "hamkār",
+     "en": "colleague",
+     "faV": "هَمکار",
+     "a": "26b4e63414cf"
+    },
+    {
+     "fa": "پس‌فردا",
+     "r": "pas-fardā",
+     "en": "the day after tomorrow",
+     "faV": "پَس‌فَردا",
+     "a": "4dbafb3d83e7"
+    },
+    {
+     "fa": "بازنشسته",
+     "r": "bāzneshaste",
+     "en": "retired",
+     "faV": "بازنِشَسته",
+     "a": "88b315e46ec8"
+    }
    ]
   },
   {
@@ -236,12 +1101,66 @@
    "kind": "mcq",
    "title": "What does the piece add?",
    "items": [
-    {"q": "What does ـستان add to بیمار in [[بیمارستان|bimārestān]]?", "options": ["a person", "a place", "'full of'"], "answer": 1, "explain": "ـستان means 'place of, land of': a hospital is 'the place of the sick'."},
-    {"q": "Which word means 'unemployed'?", "options": ["بی‌کار", "همکار", "کارگر"], "answer": 0, "explain": "بی- 'without' + کار 'work'. همکار is a colleague, کارگر a worker."},
-    {"q": "The adjective 'weekly', from هفته, is…", "options": ["هفتگی", "هفته‌ناک", "هفته‌گر"], "answer": 0, "explain": "After a silent ه, ـی becomes ـگی."},
-    {"q": "Which suffix makes containers, as in گلدان and قندان?", "options": ["ـدان", "ـزار", "ـگاه"], "answer": 0, "explain": "ـزار is a field, ـگاه a place."},
-    {"q": "[[صلح‌آمیز|solh-āmiz]] means…", "options": ["peaceful", "warlike", "peacekeeper"], "answer": 0, "explain": "صلح 'peace' + ـآمیز 'mixed with'."},
-    {"q": "Which of these is a person?", "options": ["قندان", "شکارچی", "چمنزار"], "answer": 1, "explain": "ـچی makes people: شکارچی 'hunter'. The others are a sugar bowl and a meadow."}
+    {
+     "q": "What does ـستان add to بیمار in [[بیمارستان|bimārestān]]?",
+     "options": [
+      "a person",
+      "a place",
+      "'full of'"
+     ],
+     "answer": 1,
+     "explain": "ـستان means 'place of, land of': a hospital is 'the place of the sick'."
+    },
+    {
+     "q": "Which word means 'unemployed'?",
+     "options": [
+      "بی‌کار",
+      "همکار",
+      "کارگر"
+     ],
+     "answer": 0,
+     "explain": "بی- 'without' + کار 'work'. همکار is a colleague, کارگر a worker."
+    },
+    {
+     "q": "The adjective 'weekly', from هفته, is…",
+     "options": [
+      "هفتگی",
+      "هفته‌ناک",
+      "هفته‌گر"
+     ],
+     "answer": 0,
+     "explain": "After a silent ه, ـی becomes ـگی."
+    },
+    {
+     "q": "Which suffix makes containers, as in گلدان and قندان?",
+     "options": [
+      "ـدان",
+      "ـزار",
+      "ـگاه"
+     ],
+     "answer": 0,
+     "explain": "ـزار is a field, ـگاه a place."
+    },
+    {
+     "q": "[[صلح‌آمیز|solh-āmiz]] means…",
+     "options": [
+      "peaceful",
+      "warlike",
+      "peacekeeper"
+     ],
+     "answer": 0,
+     "explain": "صلح 'peace' + ـآمیز 'mixed with'."
+    },
+    {
+     "q": "Which of these is a person?",
+     "options": [
+      "قندان",
+      "شکارچی",
+      "چمنزار"
+     ],
+     "answer": 1,
+     "explain": "ـچی makes people: شکارچی 'hunter'. The others are a sugar bowl and a meadow."
+    }
    ]
   },
   {
@@ -249,12 +1168,48 @@
    "kind": "translate",
    "title": "Say it in Persian",
    "items": [
-    {"en": "My colleague is very kind.", "fa": "همکارم خیلی مهربان است.", "r": "hamkār-am kheyli mehrabān ast."},
-    {"en": "The meeting was successful.", "fa": "جلسه موفقیت‌آمیز بود.", "r": "jalase movaffaghiyat-āmiz bud."},
-    {"en": "This road is dangerous at night.", "fa": "این جاده شب‌ها خطرناک است.", "r": "in jādde shab-hā khatarnāk ast."},
-    {"en": "My father retired last year.", "fa": "پدرم سال پیش بازنشسته شد.", "r": "pedar-am sāl-e pish bāzneshaste shod."},
-    {"en": "We'll see you the day after tomorrow.", "fa": "پس‌فردا شما را می‌بینیم.", "r": "pas-fardā shomā rā mi-binim."},
-    {"en": "She is interested in Persian poetry.", "fa": "او به شعر فارسی علاقه‌مند است.", "r": "u be she'r-e fārsi alāghe-mand ast."}
+    {
+     "en": "My colleague is very kind.",
+     "fa": "همکارم خیلی مهربان است.",
+     "r": "hamkār-am kheyli mehrabān ast.",
+     "faV": "هَمکارَم خَیلی مِهرَبان اَست.",
+     "a": "0b4850a3632f"
+    },
+    {
+     "en": "The meeting was successful.",
+     "fa": "جلسه موفقیت‌آمیز بود.",
+     "r": "jalase movaffaghiyat-āmiz bud.",
+     "faV": "جَلَسه مُوَفَّقیَت‌آمیز بود.",
+     "a": "fe4af151bad6"
+    },
+    {
+     "en": "This road is dangerous at night.",
+     "fa": "این جاده شب‌ها خطرناک است.",
+     "r": "in jādde shab-hā khatarnāk ast.",
+     "faV": "این جادّه شَب‌ها خَطَرناک اَست.",
+     "a": "23b7bbb50214"
+    },
+    {
+     "en": "My father retired last year.",
+     "fa": "پدرم سال پیش بازنشسته شد.",
+     "r": "pedar-am sāl-e pish bāzneshaste shod.",
+     "faV": "پِدَرَم سالِ پیش بازنِشَسته شُد.",
+     "a": "4c8fe693faa6"
+    },
+    {
+     "en": "We'll see you the day after tomorrow.",
+     "fa": "پس‌فردا شما را می‌بینیم.",
+     "r": "pas-fardā shomā rā mi-binim.",
+     "faV": "پَس‌فَردا شُما را می‌بینیم.",
+     "a": "bbed17ef0040"
+    },
+    {
+     "en": "She is interested in Persian poetry.",
+     "fa": "او به شعر فارسی علاقه‌مند است.",
+     "r": "u be she'r-e fārsi alāghe-mand ast.",
+     "faV": "او به شِعرِ فارسی عَلاقه‌مَند اَست.",
+     "a": "f352a74fc7ce"
+    }
    ]
   },
   {
@@ -262,10 +1217,34 @@
    "kind": "order",
    "title": "Put the words in order",
    "items": [
-    {"fa": "پستچی هر روز ساعت ده می‌آید.", "r": "postchi har ruz sā'at-e dah mi-āyad.", "en": "The postman comes at ten every day."},
-    {"fa": "این فیلم برای بچه‌ها ترسناک است.", "r": "in film barā-ye bacche-hā tarsnāk ast.", "en": "This film is scary for children."},
-    {"fa": "همکارم سال پیش بازنشسته شد.", "r": "hamkār-am sāl-e pish bāzneshaste shod.", "en": "My colleague retired last year."},
-    {"fa": "باغبان گل‌ها را در گلدان گذاشت.", "r": "bāghbān gol-hā rā dar goldān gozāsht.", "en": "The gardener put the flowers in the vase."}
+    {
+     "fa": "پستچی هر روز ساعت ده می‌آید.",
+     "r": "postchi har ruz sā'at-e dah mi-āyad.",
+     "en": "The postman comes at ten every day.",
+     "faV": "پُستچی هَر روز ساعَتِ دَه می‌آیَد.",
+     "a": "75025275e1c2"
+    },
+    {
+     "fa": "این فیلم برای بچه‌ها ترسناک است.",
+     "r": "in film barā-ye bacche-hā tarsnāk ast.",
+     "en": "This film is scary for children.",
+     "faV": "این فیلم بَرایِ بَچّه‌ها تَرسناک اَست.",
+     "a": "736a25d3e6e0"
+    },
+    {
+     "fa": "همکارم سال پیش بازنشسته شد.",
+     "r": "hamkār-am sāl-e pish bāzneshaste shod.",
+     "en": "My colleague retired last year.",
+     "faV": "هَمکارَم سالِ پیش بازنِشَسته شُد.",
+     "a": "1cd873928394"
+    },
+    {
+     "fa": "باغبان گل‌ها را در گلدان گذاشت.",
+     "r": "bāghbān gol-hā rā dar goldān gozāsht.",
+     "en": "The gardener put the flowers in the vase.",
+     "faV": "باغبان گُل‌ها را دَر گُلدان گُذاشت.",
+     "a": "43742493d24f"
+    }
    ]
   },
   {
@@ -273,10 +1252,48 @@
    "kind": "listen",
    "title": "Listen and choose",
    "items": [
-    {"fa": "نانوایی سر کوچه بسته است.", "r": "nānvāyi-ye sar-e kuche baste ast.", "en": "The bakery at the end of the street is closed.", "options": ["The bakery at the end of the street is closed.", "The bank at the end of the street is open.", "The bakery is far away."], "answer": 0},
-    {"fa": "دوستم در بیمارستان پرستار است.", "r": "dust-am dar bimārestān parastār ast.", "en": "My friend is a nurse at the hospital.", "options": ["My friend is ill in hospital.", "My friend is a nurse at the hospital.", "My friend is a doctor at the university."], "answer": 1},
-    {"fa": "این کار عاقلانه نیست.", "r": "in kār āghelāne nist.", "en": "This is not a sensible thing to do.", "options": ["This job is for clever people.", "This is not a sensible thing to do.", "This work is easy."], "answer": 1}
+    {
+     "fa": "نانوایی سر کوچه بسته است.",
+     "r": "nānvāyi-ye sar-e kuche baste ast.",
+     "en": "The bakery at the end of the street is closed.",
+     "options": [
+      "The bakery at the end of the street is closed.",
+      "The bank at the end of the street is open.",
+      "The bakery is far away."
+     ],
+     "answer": 0,
+     "faV": "نانواییِ سَرِ کوچه بَسته اَست.",
+     "a": "03fcad507688"
+    },
+    {
+     "fa": "دوستم در بیمارستان پرستار است.",
+     "r": "dust-am dar bimārestān parastār ast.",
+     "en": "My friend is a nurse at the hospital.",
+     "options": [
+      "My friend is ill in hospital.",
+      "My friend is a nurse at the hospital.",
+      "My friend is a doctor at the university."
+     ],
+     "answer": 1,
+     "faV": "دوستَم دَر بیمارِستان پَرَستار اَست.",
+     "a": "b96fd65423c8"
+    },
+    {
+     "fa": "این کار عاقلانه نیست.",
+     "r": "in kār āghelāne nist.",
+     "en": "This is not a sensible thing to do.",
+     "options": [
+      "This job is for clever people.",
+      "This is not a sensible thing to do.",
+      "This work is easy."
+     ],
+     "answer": 1,
+     "faV": "این کار عاقِلانه نیست.",
+     "a": "516a43d7f680"
+    }
    ]
   }
- ]
+ ],
+ "titleV": "پَسوَندها و پیشوَندها",
+ "titleA": "d8074b0a10af"
 }

@@ -116,6 +116,10 @@ Graded readers, from very easy to literary.
 - [The carpet weaver of Kashan](stories/b1-the-carpet-weaver-of-kashan.md) — قالی‌باف کاشان
 - [Chaharshanbe Suri](stories/b1-chaharshanbe-suri.md) — چهارشنبه‌سوری
 
+**Upper intermediate (B2)**
+
+- [Rostam and the White Demon](stories/b2-rostam-and-the-white-demon.md) — رستم و دیو سپید
+
 ## Part 6. Iran in pictures and stories — فرهنگ ایران
 
 **History**

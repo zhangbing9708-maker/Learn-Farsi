@@ -36,36 +36,204 @@
   }
  ],
  "sentences": [
-  {"fa": "واژه‌ی «پردیس» به معنی باغ است.", "r": "vāzhe-ye «pardis» be ma'ni-ye bāgh ast.", "en": "The word 'pardis' means garden."},
-  {"fa": "باغ ایرانی دیوار بلندی دارد.", "r": "bāgh-e irāni divār-e boland-i dārad.", "en": "A Persian garden has a high wall."},
-  {"fa": "آب از قنات به باغ می‌آید.", "r": "āb az ghanāt be bāgh mi-āyad.", "en": "The water comes into the garden from a qanat."},
-  {"fa": "دو جوی آب باغ را به چهار قسمت تقسیم می‌کنند.", "r": "do juy-e āb bāgh rā be chahār ghesmat taghsim mi-konand.", "en": "Two water channels divide the garden into four parts."},
-  {"fa": "فواره‌های باغ فین بدون پمپ کار می‌کنند.", "r": "favvāre-hā-ye Bāgh-e Fin bedun-e pomp kār mi-konand.", "en": "The fountains of the Fin Garden work without pumps."},
-  {"fa": "چهل‌ستون بیست ستون دارد، نه چهل ستون!", "r": "Chehel-sotun bist sotun dārad, na chehel sotun!", "en": "Chehel Sotoun has twenty columns, not forty!"},
-  {"fa": "عکس ستون‌ها در حوض افتاده است.", "r": "aks-e sotun-hā dar howz oftāde ast.", "en": "The columns are reflected in the pool."},
-  {"fa": "زیر سایه‌ی درخت‌های چنار بنشینیم.", "r": "zir-e sāye-ye derakht-hā-ye chenār be-neshinim.", "en": "Let's sit in the shade of the plane trees."},
-  {"fa": "باغبان هر روز به گل‌ها آب می‌دهد.", "r": "bāghbān har ruz be gol-hā āb mi-dahad.", "en": "The gardener waters the flowers every day."},
-  {"fa": "در بهار درخت‌های باغ پر از شکوفه‌اند.", "r": "dar bahār derakht-hā-ye bāgh por az shokufe-and.", "en": "In spring the trees of the garden are full of blossom."},
-  {"fa": "پیک‌نیک در این باغ ممنوع است.", "r": "pik-nik dar in bāgh mamnu' ast.", "en": "Picnics are not allowed in this garden."},
-  {"fa": "باغ دولت‌آباد بلندترین بادگیر ایران را دارد.", "r": "Bāgh-e Dowlat-ābād boland-tarin bādgir-e Irān rā dārad.", "en": "The Dowlat Abad Garden has the tallest windcatcher in Iran."}
+  {
+   "fa": "واژه‌ی «پردیس» به معنی باغ است.",
+   "r": "vāzhe-ye «pardis» be ma'ni-ye bāgh ast.",
+   "en": "The word 'pardis' means garden.",
+   "faV": "واژه‌یِ «پَردیس» به مَعنیِ باغ اَست.",
+   "a": "af32db857a17"
+  },
+  {
+   "fa": "باغ ایرانی دیوار بلندی دارد.",
+   "r": "bāgh-e irāni divār-e boland-i dārad.",
+   "en": "A Persian garden has a high wall.",
+   "faV": "باغِ ایرانی دیوارِ بُلَندی دارَد.",
+   "a": "f6e83f9b90ee"
+  },
+  {
+   "fa": "آب از قنات به باغ می‌آید.",
+   "r": "āb az ghanāt be bāgh mi-āyad.",
+   "en": "The water comes into the garden from a qanat.",
+   "faV": "آب اَز قَنات به باغ می‌آیَد.",
+   "a": "d573bd95bae8"
+  },
+  {
+   "fa": "دو جوی آب باغ را به چهار قسمت تقسیم می‌کنند.",
+   "r": "do juy-e āb bāgh rā be chahār ghesmat taghsim mi-konand.",
+   "en": "Two water channels divide the garden into four parts.",
+   "faV": "دو جویِ آب باغ را به چَهار قِسمَت تَقسیم می‌کُنَند.",
+   "a": "b9a5c9a997e5"
+  },
+  {
+   "fa": "فواره‌های باغ فین بدون پمپ کار می‌کنند.",
+   "r": "favvāre-hā-ye Bāgh-e Fin bedun-e pomp kār mi-konand.",
+   "en": "The fountains of the Fin Garden work without pumps.",
+   "faV": "فَوّاره‌هایِ باغِ فین بِدونِ پُمپ کار می‌کُنَند.",
+   "a": "3bdbf551ccaa"
+  },
+  {
+   "fa": "چهل‌ستون بیست ستون دارد، نه چهل ستون!",
+   "r": "Chehel-sotun bist sotun dārad, na chehel sotun!",
+   "en": "Chehel Sotoun has twenty columns, not forty!",
+   "faV": "چِهِل‌سُتون بیست سُتون دارَد، نه چِهِل سُتون!",
+   "a": "032b4f4133ac"
+  },
+  {
+   "fa": "عکس ستون‌ها در حوض افتاده است.",
+   "r": "aks-e sotun-hā dar howz oftāde ast.",
+   "en": "The columns are reflected in the pool.",
+   "faV": "عَکسِ سُتون‌ها دَر حَوض اُفتاده اَست.",
+   "a": "4c104957d784"
+  },
+  {
+   "fa": "زیر سایه‌ی درخت‌های چنار بنشینیم.",
+   "r": "zir-e sāye-ye derakht-hā-ye chenār be-neshinim.",
+   "en": "Let's sit in the shade of the plane trees.",
+   "faV": "زیرِ سایه‌یِ دِرَخت‌هایِ چِنار بِنِشینیم.",
+   "a": "d60403731a75"
+  },
+  {
+   "fa": "باغبان هر روز به گل‌ها آب می‌دهد.",
+   "r": "bāghbān har ruz be gol-hā āb mi-dahad.",
+   "en": "The gardener waters the flowers every day.",
+   "faV": "باغبان هَر روز به گُل‌ها آب می‌دَهَد.",
+   "a": "44c02da91bb3"
+  },
+  {
+   "fa": "در بهار درخت‌های باغ پر از شکوفه‌اند.",
+   "r": "dar bahār derakht-hā-ye bāgh por az shokufe-and.",
+   "en": "In spring the trees of the garden are full of blossom.",
+   "faV": "دَر بَهار دِرَخت‌هایِ باغ پُر اَز شُکوفه‌اَند.",
+   "a": "092b1c2a6380"
+  },
+  {
+   "fa": "پیک‌نیک در این باغ ممنوع است.",
+   "r": "pik-nik dar in bāgh mamnu' ast.",
+   "en": "Picnics are not allowed in this garden.",
+   "faV": "پیک‌نیک دَر این باغ مَمنوع اَست.",
+   "a": "e04e7410ee68"
+  },
+  {
+   "fa": "باغ دولت‌آباد بلندترین بادگیر ایران را دارد.",
+   "r": "Bāgh-e Dowlat-ābād boland-tarin bādgir-e Irān rā dārad.",
+   "en": "The Dowlat Abad Garden has the tallest windcatcher in Iran.",
+   "faV": "باغِ دَولَت‌آباد بُلَندتَرین بادگیرِ ایران را دارَد.",
+   "a": "d17473cb6e19"
+  }
  ],
  "vocab": [
-  {"fa": "باغ", "r": "bāgh", "en": "garden; orchard"},
-  {"fa": "باغچه", "r": "bāghche", "en": "small garden, flower bed"},
-  {"fa": "باغبان", "r": "bāghbān", "en": "gardener"},
-  {"fa": "پردیس", "r": "pardis", "en": "paradise; (university) campus"},
-  {"fa": "چهارباغ", "r": "chahār-bāgh", "en": "fourfold garden"},
-  {"fa": "کوشک", "r": "kushk", "en": "pavilion"},
-  {"fa": "عمارت", "r": "emārat", "en": "mansion, building (in a garden)"},
-  {"fa": "دیوار", "r": "divār", "en": "wall"},
-  {"fa": "جوی", "r": "juy", "en": "channel, small stream"},
-  {"fa": "فواره", "r": "favvāre", "en": "fountain"},
-  {"fa": "درخت", "r": "derakht", "en": "tree"},
-  {"fa": "چنار", "r": "chenār", "en": "plane tree"},
-  {"fa": "شکوفه", "r": "shokufe", "en": "blossom"},
-  {"fa": "گل سرخ", "r": "gol-e sorkh", "en": "rose"},
-  {"fa": "آبیاری", "r": "ābyāri", "en": "watering, irrigation"},
-  {"fa": "بهشت", "r": "behesht", "en": "heaven, paradise"}
+  {
+   "fa": "باغ",
+   "r": "bāgh",
+   "en": "garden; orchard",
+   "faV": "باغ",
+   "a": "56f735b72c6f"
+  },
+  {
+   "fa": "باغچه",
+   "r": "bāghche",
+   "en": "small garden, flower bed",
+   "faV": "باغچه",
+   "a": "fd0a35306e58"
+  },
+  {
+   "fa": "باغبان",
+   "r": "bāghbān",
+   "en": "gardener",
+   "faV": "باغبان",
+   "a": "ab5f6618a6ec"
+  },
+  {
+   "fa": "پردیس",
+   "r": "pardis",
+   "en": "paradise; (university) campus",
+   "faV": "پَردیس",
+   "a": "d17f06501594"
+  },
+  {
+   "fa": "چهارباغ",
+   "r": "chahār-bāgh",
+   "en": "fourfold garden",
+   "faV": "چَهارباغ",
+   "a": "5fef1a04d838"
+  },
+  {
+   "fa": "کوشک",
+   "r": "kushk",
+   "en": "pavilion",
+   "faV": "کوشک",
+   "a": "24a8621d605e"
+  },
+  {
+   "fa": "عمارت",
+   "r": "emārat",
+   "en": "mansion, building (in a garden)",
+   "faV": "عِمارَت",
+   "a": "caa2351038a0"
+  },
+  {
+   "fa": "دیوار",
+   "r": "divār",
+   "en": "wall",
+   "faV": "دیوار",
+   "a": "e96bf5776b53"
+  },
+  {
+   "fa": "جوی",
+   "r": "juy",
+   "en": "channel, small stream",
+   "faV": "جوی",
+   "a": "8eae3b9ba131"
+  },
+  {
+   "fa": "فواره",
+   "r": "favvāre",
+   "en": "fountain",
+   "faV": "فَوّاره",
+   "a": "ec7449255f5a"
+  },
+  {
+   "fa": "درخت",
+   "r": "derakht",
+   "en": "tree",
+   "faV": "دِرَخت",
+   "a": "82c2ea0896eb"
+  },
+  {
+   "fa": "چنار",
+   "r": "chenār",
+   "en": "plane tree",
+   "faV": "چِنار",
+   "a": "860e5d0b2ec0"
+  },
+  {
+   "fa": "شکوفه",
+   "r": "shokufe",
+   "en": "blossom",
+   "faV": "شُکوفه",
+   "a": "3f4e5e556228"
+  },
+  {
+   "fa": "گل سرخ",
+   "r": "gol-e sorkh",
+   "en": "rose",
+   "faV": "گُلِ سُرخ",
+   "a": "dfc069631dc3"
+  },
+  {
+   "fa": "آبیاری",
+   "r": "ābyāri",
+   "en": "watering, irrigation",
+   "faV": "آبیاری",
+   "a": "64119065fe66"
+  },
+  {
+   "fa": "بهشت",
+   "r": "behesht",
+   "en": "heaven, paradise",
+   "faV": "بِهِشت",
+   "a": "2d3179ee4e79"
+  }
  ],
  "facts": [
   "UNESCO inscribed nine Iranian gardens together as 'The Persian Garden' in 2011.",
@@ -75,5 +243,7 @@
   "Chehel Sotoun's twenty wooden columns are reflected in its pool – twenty and twenty make 'forty'.",
   "The windcatcher of the Dowlat Abad Garden in Yazd is 33.8 metres tall.",
   "The gardens of the Taj Mahal follow the Persian chahar bagh plan."
- ]
+ ],
+ "titleV": "باغ‌هایِ ایرانی",
+ "titleA": "92aa3bb70ca3"
 }
