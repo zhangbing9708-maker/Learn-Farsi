@@ -19,20 +19,174 @@
    "title": "First day at the office",
    "context": "Mina is starting a new job as an editor at a publishing house in Tehran. Ms Ahmadi, the office manager, welcomes her; Mr Karimi, the director, is in a meeting. Everyone is being formal – listen for بنده, ایشان, تشریف, فرمودید and عرض کنم. Notice that formal Persian is still *spoken* Persian: the spoken line shows how it really sounds.",
    "lines": [
-    {"who": "Ms Ahmadi", "fa": "سلام، بفرمایید. امری داشتید؟", "r": "salām, befarmāyid. amr-i dāshtid?", "en": "Hello, please come in. How can I help you? (lit. did you have an order?)", "col": "سلام، بفرمایین. امری داشتین؟", "colR": "salām, befarmāyin. amr-i dāshtin?"},
-    {"who": "Mina", "fa": "سلام. بنده مینا صادقی هستم. امروز اولین روز کارم است.", "r": "salām. bande Minā Sādeghi hastam. emruz avvalin ruz-e kār-am ast.", "en": "Hello. I'm Mina Sadeghi. Today is my first day at work.", "col": "سلام. بنده مینا صادقی هستم. امروز اولین روز کارمه.", "colR": "salām. bande Minā Sādeghi hastam. emruz avvalin ruz-e kār-am-e."},
-    {"who": "Ms Ahmadi", "fa": "خیلی خوش آمدید! جناب آقای کریمی منتظرتان بودند، ولی الان در جلسه تشریف دارند.", "r": "kheyli khosh āmadid! jenāb-e āghā-ye Karimi montazer-etān budand, vali alān dar jalase tashrif dārand.", "en": "Welcome! Mr Karimi was expecting you, but he's in a meeting at the moment.", "col": "خیلی خوش اومدین! جناب آقای کریمی منتظرتون بودن، ولی الان تو جلسه تشریف دارن.", "colR": "kheyli khosh umadin! jenāb-e āghā-ye Karimi montazer-etun budan, vali alān tu jalase tashrif dāran."},
-    {"who": "Mina", "fa": "اشکالی ندارد، منتظر می‌مانم.", "r": "eshkāl-i na-dārad, montazer mi-mānam.", "en": "That's all right, I'll wait.", "col": "اشکالی نداره، منتظر می‌مونم.", "colR": "eshkāl-i na-dāre, montazer mi-munam."},
-    {"who": "Ms Ahmadi", "fa": "بفرمایید بنشینید. چای میل دارید یا قهوه؟", "r": "befarmāyid beneshinid. chāy meyl dārid yā ghahve?", "en": "Please, have a seat. Would you like tea or coffee?", "col": "بفرمایین بشینین. چای میل دارین یا قهوه؟", "colR": "befarmāyin beshinin. chāy meyl dārin yā ghahve?"},
-    {"who": "Mina", "fa": "خیلی ممنون، زحمت نکشید.", "r": "kheyli mamnun, zahmat na-keshid.", "en": "Thank you very much – please don't go to any trouble.", "col": "خیلی ممنون، زحمت نکشین.", "colR": "kheyli mamnun, zahmat na-keshin."},
-    {"who": "Mr Karimi", "fa": "سلام خانم صادقی، خوش آمدید! ببخشید که منتظر ماندید.", "r": "salām khānom-e Sādeghi, khosh āmadid! bebakhshid ke montazer māndid.", "en": "Hello Ms Sadeghi, welcome! I'm sorry to have kept you waiting.", "col": "سلام خانم صادقی، خوش اومدین! ببخشید که منتظر موندین.", "colR": "salām khānom-e Sādeghi, khosh umadin! bebakhshid ke montazer mundin."},
-    {"who": "Mina", "fa": "خواهش می‌کنم، اختیار دارید. بنده تازه رسیدم.", "r": "khāhesh mi-konam, ekhtiyār dārid. bande tāze residam.", "en": "Not at all, please. I've only just arrived.", "col": "خواهش می‌کنم، اختیار دارین. بنده تازه رسیدم.", "colR": "khāhesh mi-konam, ekhtiyār dārin. bande tāze residam."},
-    {"who": "Mr Karimi", "fa": "خانم احمدی گفتند که شما سه سال در یک انتشارات دیگر کار کرده‌اید.", "r": "khānom-e Ahmadi goftand ke shomā se sāl dar yek enteshārāt-e digar kār karde-id.", "en": "Ms Ahmadi tells me you've worked at another publisher for three years.", "col": "خانم احمدی گفتن که شما سه سال تو یه انتشارات دیگه کار کردین.", "colR": "khānom-e Ahmadi goftan ke shomā se sāl tu ye enteshārāt-e dige kār kardin."},
-    {"who": "Mina", "fa": "بله، همان‌طور که فرمودید. عرض کنم که بیشتر در بخش ویرایش کار می‌کردم.", "r": "bale, hamān-tor ke farmudid. arz konam ke bishtar dar bakhsh-e virāyesh kār mi-kardam.", "en": "Yes, just as you say. I should mention that I worked mostly in editing.", "col": "بله، همون‌طور که فرمودین. عرض کنم که بیشتر تو بخش ویرایش کار می‌کردم.", "colR": "bale, hamun-tor ke farmudin. arz konam ke bishtar tu bakhsh-e virāyesh kār mi-kardam."},
-    {"who": "Mr Karimi", "fa": "عالی است. خانم احمدی، لطفاً میزشان را به ایشان نشان بدهید.", "r": "āli ast. khānom-e Ahmadi, lotfan miz-eshān rā be ishān neshān bedahid.", "en": "Excellent. Ms Ahmadi, please show her to her desk.", "col": "عالیه. خانم احمدی، لطفاً میزشونو به ایشون نشون بدین.", "colR": "āli-ye. khānom-e Ahmadi, lotfan miz-eshun-o be ishun neshun bedin."},
-    {"who": "Ms Ahmadi", "fa": "چشم، همین الان. بفرمایید از این طرف.", "r": "chashm, hamin alān. befarmāyid az in taraf.", "en": "Certainly, right away. This way, please.", "col": "چشم، همین الان. بفرمایین از این طرف.", "colR": "chashm, hamin alān. befarmāyin az in taraf."},
-    {"who": "Mina", "fa": "خیلی لطف کردید. با اجازه‌تان.", "r": "kheyli lotf kardid. bā ejāze-tān.", "en": "That's very kind of you. Excuse me (lit. with your permission).", "col": "خیلی لطف کردین. با اجازه‌تون.", "colR": "kheyli lotf kardin. bā ejāze-tun."},
-    {"who": "Mr Karimi", "fa": "خواهش می‌کنم. موفق باشید.", "r": "khāhesh mi-konam. movaffagh bāshid.", "en": "You're welcome. Good luck (lit. be successful).", "col": "خواهش می‌کنم. موفق باشین.", "colR": "khāhesh mi-konam. movaffagh bāshin."}
+    {
+     "who": "Ms Ahmadi",
+     "fa": "سلام، بفرمایید. امری داشتید؟",
+     "r": "salām, befarmāyid. amr-i dāshtid?",
+     "en": "Hello, please come in. How can I help you? (lit. did you have an order?)",
+     "col": "سلام، بفرمایین. امری داشتین؟",
+     "colR": "salām, befarmāyin. amr-i dāshtin?",
+     "faV": "سَلام، بِفَرمایید. اَمری داشتید؟",
+     "a": "ebbd5e5f7c97",
+     "colV": "سَلام، بِفَرمایین. اَمری داشتین؟",
+     "colA": "12d704eff6f6"
+    },
+    {
+     "who": "Mina",
+     "fa": "سلام. بنده مینا صادقی هستم. امروز اولین روز کارم است.",
+     "r": "salām. bande Minā Sādeghi hastam. emruz avvalin ruz-e kār-am ast.",
+     "en": "Hello. I'm Mina Sadeghi. Today is my first day at work.",
+     "col": "سلام. بنده مینا صادقی هستم. امروز اولین روز کارمه.",
+     "colR": "salām. bande Minā Sādeghi hastam. emruz avvalin ruz-e kār-am-e.",
+     "faV": "سَلام. بَنده مینا صادِقی هَستَم. اِمروز اَوَّلین روزِ کارَم اَست.",
+     "a": "ec48c32e613f",
+     "colV": "سَلام. بَنده مینا صادِقی هَستَم. اِمروز اَوَّلین روزِ کارَمه.",
+     "colA": "645ef4dfabfb"
+    },
+    {
+     "who": "Ms Ahmadi",
+     "fa": "خیلی خوش آمدید! جناب آقای کریمی منتظرتان بودند، ولی الان در جلسه تشریف دارند.",
+     "r": "kheyli khosh āmadid! jenāb-e āghā-ye Karimi montazer-etān budand, vali alān dar jalase tashrif dārand.",
+     "en": "Welcome! Mr Karimi was expecting you, but he's in a meeting at the moment.",
+     "col": "خیلی خوش اومدین! جناب آقای کریمی منتظرتون بودن، ولی الان تو جلسه تشریف دارن.",
+     "colR": "kheyli khosh umadin! jenāb-e āghā-ye Karimi montazer-etun budan, vali alān tu jalase tashrif dāran.",
+     "faV": "خَیلی خوش آمَدید! جِنابِ آقایِ کَریمی مُنتَظِرِتان بودَند، وَلی اَلان دَر جَلَسه تَشریف دارَند.",
+     "a": "eaecf7786ed4",
+     "colV": "خَیلی خوش اومَدین! جِنابِ آقایِ کَریمی مُنتَظِرِتون بودَن، وَلی اَلان تو جَلَسه تَشریف دارَن.",
+     "colA": "76fb892d4310"
+    },
+    {
+     "who": "Mina",
+     "fa": "اشکالی ندارد، منتظر می‌مانم.",
+     "r": "eshkāl-i na-dārad, montazer mi-mānam.",
+     "en": "That's all right, I'll wait.",
+     "col": "اشکالی نداره، منتظر می‌مونم.",
+     "colR": "eshkāl-i na-dāre, montazer mi-munam.",
+     "faV": "اِشکالی نَدارَد، مُنتَظِر می‌مانَم.",
+     "a": "b87cd320c1d9",
+     "colV": "اِشکالی نَداره، مُنتَظِر می‌مونَم.",
+     "colA": "895f5155430e"
+    },
+    {
+     "who": "Ms Ahmadi",
+     "fa": "بفرمایید بنشینید. چای میل دارید یا قهوه؟",
+     "r": "befarmāyid beneshinid. chāy meyl dārid yā ghahve?",
+     "en": "Please, have a seat. Would you like tea or coffee?",
+     "col": "بفرمایین بشینین. چای میل دارین یا قهوه؟",
+     "colR": "befarmāyin beshinin. chāy meyl dārin yā ghahve?",
+     "faV": "بِفَرمایید بِنِشینید. چای مَیل دارید یا قَهوه؟",
+     "a": "1e3e776e9c13",
+     "colV": "بِفَرمایین بِشینین. چای مَیل دارین یا قَهوه؟",
+     "colA": "5e71c6d4a595"
+    },
+    {
+     "who": "Mina",
+     "fa": "خیلی ممنون، زحمت نکشید.",
+     "r": "kheyli mamnun, zahmat na-keshid.",
+     "en": "Thank you very much – please don't go to any trouble.",
+     "col": "خیلی ممنون، زحمت نکشین.",
+     "colR": "kheyli mamnun, zahmat na-keshin.",
+     "faV": "خَیلی مَمنون، زَحمَت نَکِشید.",
+     "a": "8150757d2423",
+     "colV": "خَیلی مَمنون، زَحمَت نَکِشین.",
+     "colA": "92ad67669dc1"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "سلام خانم صادقی، خوش آمدید! ببخشید که منتظر ماندید.",
+     "r": "salām khānom-e Sādeghi, khosh āmadid! bebakhshid ke montazer māndid.",
+     "en": "Hello Ms Sadeghi, welcome! I'm sorry to have kept you waiting.",
+     "col": "سلام خانم صادقی، خوش اومدین! ببخشید که منتظر موندین.",
+     "colR": "salām khānom-e Sādeghi, khosh umadin! bebakhshid ke montazer mundin.",
+     "faV": "سَلام خانُمِ صادِقی، خوش آمَدید! بِبَخشید که مُنتَظِر ماندید.",
+     "a": "6997726d8a08",
+     "colV": "سَلام خانُمِ صادِقی، خوش اومَدین! بِبَخشید که مُنتَظِر موندین.",
+     "colA": "661780e1adcd"
+    },
+    {
+     "who": "Mina",
+     "fa": "خواهش می‌کنم، اختیار دارید. بنده تازه رسیدم.",
+     "r": "khāhesh mi-konam, ekhtiyār dārid. bande tāze residam.",
+     "en": "Not at all, please. I've only just arrived.",
+     "col": "خواهش می‌کنم، اختیار دارین. بنده تازه رسیدم.",
+     "colR": "khāhesh mi-konam, ekhtiyār dārin. bande tāze residam.",
+     "faV": "خواهِش می‌کُنَم، اِختیار دارید. بَنده تازه رِسیدَم.",
+     "a": "478e89ca45de",
+     "colV": "خواهِش می‌کُنَم، اِختیار دارین. بَنده تازه رِسیدَم.",
+     "colA": "7ef1f3bb3136"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "خانم احمدی گفتند که شما سه سال در یک انتشارات دیگر کار کرده‌اید.",
+     "r": "khānom-e Ahmadi goftand ke shomā se sāl dar yek enteshārāt-e digar kār karde-id.",
+     "en": "Ms Ahmadi tells me you've worked at another publisher for three years.",
+     "col": "خانم احمدی گفتن که شما سه سال تو یه انتشارات دیگه کار کردین.",
+     "colR": "khānom-e Ahmadi goftan ke shomā se sāl tu ye enteshārāt-e dige kār kardin.",
+     "faV": "خانُمِ اَحمَدی گُفتَند که شُما سه سال دَر یِک اِنتِشاراتِ دیگَر کار کَرده‌اید.",
+     "a": "ff4c5a307ab2",
+     "colV": "خانُمِ اَحمَدی گُفتَن که شُما سه سال تو یه اِنتِشاراتِ دیگه کار کَردین.",
+     "colA": "91b4c4ae845c"
+    },
+    {
+     "who": "Mina",
+     "fa": "بله، همان‌طور که فرمودید. عرض کنم که بیشتر در بخش ویرایش کار می‌کردم.",
+     "r": "bale, hamān-tor ke farmudid. arz konam ke bishtar dar bakhsh-e virāyesh kār mi-kardam.",
+     "en": "Yes, just as you say. I should mention that I worked mostly in editing.",
+     "col": "بله، همون‌طور که فرمودین. عرض کنم که بیشتر تو بخش ویرایش کار می‌کردم.",
+     "colR": "bale, hamun-tor ke farmudin. arz konam ke bishtar tu bakhsh-e virāyesh kār mi-kardam.",
+     "faV": "بَله، هَمان‌طور که فَرمودید. عَرض کُنَم که بیشتَر دَر بَخشِ ویرایِش کار می‌کَردَم.",
+     "a": "8da89ca0eb06",
+     "colV": "بَله، هَمون‌طور که فَرمودین. عَرض کُنَم که بیشتَر تو بَخشِ ویرایِش کار می‌کَردَم.",
+     "colA": "9437a498b0b1"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "عالی است. خانم احمدی، لطفاً میزشان را به ایشان نشان بدهید.",
+     "r": "āli ast. khānom-e Ahmadi, lotfan miz-eshān rā be ishān neshān bedahid.",
+     "en": "Excellent. Ms Ahmadi, please show her to her desk.",
+     "col": "عالیه. خانم احمدی، لطفاً میزشونو به ایشون نشون بدین.",
+     "colR": "āli-ye. khānom-e Ahmadi, lotfan miz-eshun-o be ishun neshun bedin.",
+     "faV": "عالی اَست. خانُمِ اَحمَدی، لُطفاً میزِشان را به ایشان نِشان بِدَهید.",
+     "a": "fbe553642bef",
+     "colV": "عالیه. خانُمِ اَحمَدی، لُطفاً میزِشونو به ایشون نِشون بِدین.",
+     "colA": "376ee57f022d"
+    },
+    {
+     "who": "Ms Ahmadi",
+     "fa": "چشم، همین الان. بفرمایید از این طرف.",
+     "r": "chashm, hamin alān. befarmāyid az in taraf.",
+     "en": "Certainly, right away. This way, please.",
+     "col": "چشم، همین الان. بفرمایین از این طرف.",
+     "colR": "chashm, hamin alān. befarmāyin az in taraf.",
+     "faV": "چَشم، هَمین اَلان. بِفَرمایید اَز این طَرَف.",
+     "a": "a1f21113b2bc",
+     "colV": "چَشم، هَمین اَلان. بِفَرمایین اَز این طَرَف.",
+     "colA": "506bb7c0174c"
+    },
+    {
+     "who": "Mina",
+     "fa": "خیلی لطف کردید. با اجازه‌تان.",
+     "r": "kheyli lotf kardid. bā ejāze-tān.",
+     "en": "That's very kind of you. Excuse me (lit. with your permission).",
+     "col": "خیلی لطف کردین. با اجازه‌تون.",
+     "colR": "kheyli lotf kardin. bā ejāze-tun.",
+     "faV": "خَیلی لُطف کَردید. با اِجازه‌تان.",
+     "a": "d69c95ef6905",
+     "colV": "خَیلی لُطف کَردین. با اِجازه‌تون.",
+     "colA": "98a489f4ba4e"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "خواهش می‌کنم. موفق باشید.",
+     "r": "khāhesh mi-konam. movaffagh bāshid.",
+     "en": "You're welcome. Good luck (lit. be successful).",
+     "col": "خواهش می‌کنم. موفق باشین.",
+     "colR": "khāhesh mi-konam. movaffagh bāshin.",
+     "faV": "خواهِش می‌کُنَم. مُوَفَّق باشید.",
+     "a": "61bc8f4739a9",
+     "colV": "خواهِش می‌کُنَم. مُوَفَّق باشین.",
+     "colA": "92ff30236d4e"
+    }
    ]
   },
   {
@@ -44,30 +198,285 @@
    "type": "vocab",
    "title": "Words",
    "items": [
-    {"fa": "رسمی", "r": "rasmi", "en": "formal, official", "pos": "adj"},
-    {"fa": "خودمانی", "r": "khodemāni", "en": "informal, familiar, among friends", "pos": "adj"},
-    {"fa": "محاوره‌ای", "r": "mohāvere-i", "en": "colloquial, conversational", "pos": "adj"},
-    {"fa": "احترام", "r": "ehterām", "en": "respect", "pos": "n", "ex": {"fa": "به بزرگ‌ترها احترام بگذار.", "r": "be bozorg-tar-hā ehterām begozār.", "en": "Respect your elders."}},
-    {"fa": "بنده", "r": "bande", "en": "I (humble); servant", "pos": "pron", "note": "literally 'servant'; replaces من in polite speech and in letters, with a singular verb"},
-    {"fa": "ایشان", "r": "ishān", "en": "he, she (respectful); they", "pos": "pron", "note": "spoken ایشون (ishun); always with a plural verb"},
-    {"fa": "جناب", "r": "jenāb", "en": "Mr (very formal); Excellency", "pos": "n", "ex": {"fa": "جناب آقای کریمی", "r": "jenāb-e āghā-ye Karimi", "en": "Mr Karimi (formal)"}},
-    {"fa": "سرکار", "r": "sarkār", "en": "Ms, Madam (very formal)", "pos": "n", "ex": {"fa": "سرکار خانم احمدی", "r": "sarkār-e khānom-e Ahmadi", "en": "Ms Ahmadi (formal)"}},
-    {"fa": "حضرت‌عالی", "r": "hazrat-āli", "en": "you (very respectful: 'Your Excellency')", "pos": "pron"},
-    {"fa": "فرمودن", "r": "farmudan", "en": "to say, to command (of someone you respect)", "pos": "v", "note": "present stem فرما (farmā), as in بفرمایید"},
-    {"fa": "تشریف آوردن", "r": "tashrif āvardan", "en": "to come (respectful)", "pos": "v"},
-    {"fa": "تشریف بردن", "r": "tashrif bordan", "en": "to go, to leave (respectful)", "pos": "v"},
-    {"fa": "تشریف داشتن", "r": "tashrif dāshtan", "en": "to be (somewhere) (respectful)", "pos": "v"},
-    {"fa": "میل کردن", "r": "meyl kardan", "en": "to eat, to drink, to have (polite, when offering)", "pos": "v", "ex": {"fa": "چیزی میل دارید؟", "r": "chiz-i meyl dārid?", "en": "Would you like something to eat or drink?"}},
-    {"fa": "عرض کردن", "r": "arz kardan", "en": "to say (humble: of yourself)", "pos": "v", "ex": {"fa": "عرض کنم که…", "r": "arz konam ke…", "en": "Let me say that…"}},
-    {"fa": "خدمت", "r": "khedmat", "en": "service; the presence of (someone respected)", "pos": "n", "ex": {"fa": "در خدمت شما هستم.", "r": "dar khedmat-e shomā hastam.", "en": "I'm at your service."}},
-    {"fa": "مرخص شدن", "r": "morakkhas shodan", "en": "to take one's leave; to be discharged", "pos": "v"},
-    {"fa": "اجازه", "r": "ejāze", "en": "permission", "pos": "n", "ex": {"fa": "با اجازه!", "r": "bā ejāze!", "en": "Excuse me! (when leaving, or passing in front of someone)"}},
-    {"fa": "امر", "r": "amr", "en": "order, command; (polite) request", "pos": "n", "ex": {"fa": "امری ندارید؟", "r": "amr-i na-dārid?", "en": "Is there anything else I can do for you?"}},
-    {"fa": "لطف", "r": "lotf", "en": "kindness, favour", "pos": "n", "ex": {"fa": "لطف دارید.", "r": "lotf dārid.", "en": "You're very kind."}},
-    {"fa": "محترم", "r": "mohtaram", "en": "respected; Dear (in letters)", "pos": "adj", "ex": {"fa": "مدیر محترم", "r": "modir-e mohtaram", "en": "Dear Director (lit. respected director)"}},
-    {"fa": "ارادتمند", "r": "erādatmand", "en": "devoted; Yours sincerely (closing a letter)", "pos": "adj"},
-    {"fa": "پیوست", "r": "peyvast", "en": "attachment; attached", "pos": "n", "ex": {"fa": "فایل را پیوست کردم.", "r": "fāyl rā peyvast kardam.", "en": "I've attached the file."}},
-    {"fa": "سپاسگزار", "r": "sepāsgozār", "en": "grateful", "pos": "adj", "ex": {"fa": "از لطف شما سپاسگزارم.", "r": "az lotf-e shomā sepāsgozār-am.", "en": "I am grateful for your kindness."}}
+    {
+     "fa": "رسمی",
+     "r": "rasmi",
+     "en": "formal, official",
+     "pos": "adj",
+     "faV": "رَسمی",
+     "a": "fb5d484fd3cf"
+    },
+    {
+     "fa": "خودمانی",
+     "r": "khodemāni",
+     "en": "informal, familiar, among friends",
+     "pos": "adj",
+     "faV": "خودِمانی",
+     "a": "9caaf8315ed9"
+    },
+    {
+     "fa": "محاوره‌ای",
+     "r": "mohāvere-i",
+     "en": "colloquial, conversational",
+     "pos": "adj",
+     "faV": "مُحاوِره‌ای",
+     "a": "c21b9afd7686"
+    },
+    {
+     "fa": "احترام",
+     "r": "ehterām",
+     "en": "respect",
+     "pos": "n",
+     "ex": {
+      "fa": "به بزرگ‌ترها احترام بگذار.",
+      "r": "be bozorg-tar-hā ehterām begozār.",
+      "en": "Respect your elders.",
+      "faV": "به بُزُرگ‌تَرها اِحتِرام بِگُذار.",
+      "a": "35b56a2fa7c1"
+     },
+     "faV": "اِحتِرام",
+     "a": "cc970dd300f2"
+    },
+    {
+     "fa": "بنده",
+     "r": "bande",
+     "en": "I (humble); servant",
+     "pos": "pron",
+     "note": "literally 'servant'; replaces من in polite speech and in letters, with a singular verb",
+     "faV": "بَنده",
+     "a": "ea06b688760e"
+    },
+    {
+     "fa": "ایشان",
+     "r": "ishān",
+     "en": "he, she (respectful); they",
+     "pos": "pron",
+     "note": "spoken ایشون (ishun); always with a plural verb",
+     "faV": "ایشان",
+     "a": "7b22c740fb21"
+    },
+    {
+     "fa": "جناب",
+     "r": "jenāb",
+     "en": "Mr (very formal); Excellency",
+     "pos": "n",
+     "ex": {
+      "fa": "جناب آقای کریمی",
+      "r": "jenāb-e āghā-ye Karimi",
+      "en": "Mr Karimi (formal)",
+      "faV": "جِنابِ آقایِ کَریمی",
+      "a": "36711af6c948"
+     },
+     "faV": "جِناب",
+     "a": "38cd273a89e2"
+    },
+    {
+     "fa": "سرکار",
+     "r": "sarkār",
+     "en": "Ms, Madam (very formal)",
+     "pos": "n",
+     "ex": {
+      "fa": "سرکار خانم احمدی",
+      "r": "sarkār-e khānom-e Ahmadi",
+      "en": "Ms Ahmadi (formal)",
+      "faV": "سَرکارِ خانُمِ اَحمَدی",
+      "a": "dc79b7ab9ffd"
+     },
+     "faV": "سَرکار",
+     "a": "8c54d4e4bf1e"
+    },
+    {
+     "fa": "حضرت‌عالی",
+     "r": "hazrat-āli",
+     "en": "you (very respectful: 'Your Excellency')",
+     "pos": "pron",
+     "faV": "حَضرَت‌عالی",
+     "a": "46b050383fc4"
+    },
+    {
+     "fa": "فرمودن",
+     "r": "farmudan",
+     "en": "to say, to command (of someone you respect)",
+     "pos": "v",
+     "note": "present stem فرما (farmā), as in بفرمایید",
+     "faV": "فَرمودَن",
+     "a": "973db11744ab"
+    },
+    {
+     "fa": "تشریف آوردن",
+     "r": "tashrif āvardan",
+     "en": "to come (respectful)",
+     "pos": "v",
+     "faV": "تَشریف آوَردَن",
+     "a": "fd846e31018c"
+    },
+    {
+     "fa": "تشریف بردن",
+     "r": "tashrif bordan",
+     "en": "to go, to leave (respectful)",
+     "pos": "v",
+     "faV": "تَشریف بُردَن",
+     "a": "e35ccd98cafe"
+    },
+    {
+     "fa": "تشریف داشتن",
+     "r": "tashrif dāshtan",
+     "en": "to be (somewhere) (respectful)",
+     "pos": "v",
+     "faV": "تَشریف داشتَن",
+     "a": "d482edcde469"
+    },
+    {
+     "fa": "میل کردن",
+     "r": "meyl kardan",
+     "en": "to eat, to drink, to have (polite, when offering)",
+     "pos": "v",
+     "ex": {
+      "fa": "چیزی میل دارید؟",
+      "r": "chiz-i meyl dārid?",
+      "en": "Would you like something to eat or drink?",
+      "faV": "چیزی مَیل دارید؟",
+      "a": "f74c0509220e"
+     },
+     "faV": "مَیل کَردَن",
+     "a": "fbccc4b5da04"
+    },
+    {
+     "fa": "عرض کردن",
+     "r": "arz kardan",
+     "en": "to say (humble: of yourself)",
+     "pos": "v",
+     "ex": {
+      "fa": "عرض کنم که…",
+      "r": "arz konam ke…",
+      "en": "Let me say that…",
+      "faV": "عَرض کُنَم که…",
+      "a": "fbe583e7525a"
+     },
+     "faV": "عَرض کَردَن",
+     "a": "bb9612ab02b4"
+    },
+    {
+     "fa": "خدمت",
+     "r": "khedmat",
+     "en": "service; the presence of (someone respected)",
+     "pos": "n",
+     "ex": {
+      "fa": "در خدمت شما هستم.",
+      "r": "dar khedmat-e shomā hastam.",
+      "en": "I'm at your service.",
+      "faV": "دَر خِدمَتِ شُما هَستَم.",
+      "a": "1bf779940520"
+     },
+     "faV": "خِدمَت",
+     "a": "76b6162adac6"
+    },
+    {
+     "fa": "مرخص شدن",
+     "r": "morakkhas shodan",
+     "en": "to take one's leave; to be discharged",
+     "pos": "v",
+     "faV": "مُرَخَّص شُدَن",
+     "a": "b3fd7c0c5a87"
+    },
+    {
+     "fa": "اجازه",
+     "r": "ejāze",
+     "en": "permission",
+     "pos": "n",
+     "ex": {
+      "fa": "با اجازه!",
+      "r": "bā ejāze!",
+      "en": "Excuse me! (when leaving, or passing in front of someone)",
+      "faV": "با اِجازه!",
+      "a": "35f546b7143c"
+     },
+     "faV": "اِجازه",
+     "a": "63e56b1ae642"
+    },
+    {
+     "fa": "امر",
+     "r": "amr",
+     "en": "order, command; (polite) request",
+     "pos": "n",
+     "ex": {
+      "fa": "امری ندارید؟",
+      "r": "amr-i na-dārid?",
+      "en": "Is there anything else I can do for you?",
+      "faV": "اَمری نَدارید؟",
+      "a": "756545b932c6"
+     },
+     "faV": "اَمر",
+     "a": "5c9d9330e2cd"
+    },
+    {
+     "fa": "لطف",
+     "r": "lotf",
+     "en": "kindness, favour",
+     "pos": "n",
+     "ex": {
+      "fa": "لطف دارید.",
+      "r": "lotf dārid.",
+      "en": "You're very kind.",
+      "faV": "لُطف دارید.",
+      "a": "6beaa0d20a02"
+     },
+     "faV": "لُطف",
+     "a": "5dd22b36b75d"
+    },
+    {
+     "fa": "محترم",
+     "r": "mohtaram",
+     "en": "respected; Dear (in letters)",
+     "pos": "adj",
+     "ex": {
+      "fa": "مدیر محترم",
+      "r": "modir-e mohtaram",
+      "en": "Dear Director (lit. respected director)",
+      "faV": "مُدیرِ مُحتَرَم",
+      "a": "3ed095484e40"
+     },
+     "faV": "مُحتَرَم",
+     "a": "33cb23a0bc33"
+    },
+    {
+     "fa": "ارادتمند",
+     "r": "erādatmand",
+     "en": "devoted; Yours sincerely (closing a letter)",
+     "pos": "adj",
+     "faV": "اِرادَتمَند",
+     "a": "a16cfd2575ba"
+    },
+    {
+     "fa": "پیوست",
+     "r": "peyvast",
+     "en": "attachment; attached",
+     "pos": "n",
+     "ex": {
+      "fa": "فایل را پیوست کردم.",
+      "r": "fāyl rā peyvast kardam.",
+      "en": "I've attached the file.",
+      "faV": "فایل را پَیوَست کَردَم.",
+      "a": "810727a235fb"
+     },
+     "faV": "پَیوَست",
+     "a": "ef2008846a97"
+    },
+    {
+     "fa": "سپاسگزار",
+     "r": "sepāsgozār",
+     "en": "grateful",
+     "pos": "adj",
+     "ex": {
+      "fa": "از لطف شما سپاسگزارم.",
+      "r": "az lotf-e shomā sepāsgozār-am.",
+      "en": "I am grateful for your kindness.",
+      "faV": "اَز لُطفِ شُما سِپاسگُزارَم.",
+      "a": "385823d08daa"
+     },
+     "faV": "سِپاسگُزار",
+     "a": "7c1670d3c5ba"
+    }
    ]
   },
   {
@@ -75,44 +484,252 @@
    "title": "Three shelves: formal, everyday and spoken",
    "md": "Think of Persian vocabulary as three shelves.\n\n- On the **top shelf** is formal written Persian: official letters, the news, speeches, academic writing. It has words of its own, many of them Arabic or literary – [[می‌باشد|mi-bāshad]], [[اکنون|aknun]], [[زیرا|zirā]], [[نیز|niz]], [[وی|vey]] – and it loves compound verbs built on a noun of action: [[مراجعه کردن|morāje'e kardan|to go (to an office) in person]], [[دریافت کردن|daryāft kardan|to receive]].\n- On the **middle shelf** is everyday written Persian – the main line of this course, novels, most of the internet.\n- On the **bottom shelf** is spoken Tehrani, which changes the *sounds* of the middle shelf (A2 lesson 16) and swaps in a few words of its own: [[الان|alān]], [[آره|āre]], [[واسه|vāse]].\n\nThe top shelf is not 'better' Persian, only more formal: an essay full of می‌باشد sounds pompous, and editors cross it out. And **don't mix shelves in one sentence**: *اکنون می‌رم خونه* sounds about as natural as 'I shall now pop home, mate'.",
    "table": {
-    "head": ["Formal written", "Everyday written", "Spoken Tehrani", "English"],
+    "head": [
+     "Formal written",
+     "Everyday written",
+     "Spoken Tehrani",
+     "English"
+    ],
     "rows": [
-     ["[[می‌باشد|mi-bāshad]]", "[[است|ast]]", "[[ـه|-e]]: [[خوبه|khub-e]]", "is"],
-     ["[[اکنون|aknun]]", "[[حالا|hālā]]", "[[الان|alān]]", "now"],
-     ["[[بسیار|besyār]]", "[[خیلی|kheyli]]", "[[خیلی|kheyli]]", "very"],
-     ["[[زیرا|zirā]]", "[[چون|chon]]", "[[چون|chon]]، [[آخه|ākhe]]", "because"],
-     ["[[اما|ammā]]", "[[ولی|vali]]", "[[ولی|vali]]", "but"],
-     ["[[نیز|niz]]", "[[هم|ham]]", "[[هم|ham]]، [[منم|man-am|me too]]", "also"],
-     ["[[وی|vey]]", "[[او|u]]", "[[اون|un]]", "he, she"],
-     ["[[آن|ān]]", "[[آن|ān]]", "[[اون|un]]", "that"],
-     ["[[چگونه|chegune]]", "[[چطور|chetor]]", "[[چطوری|chetori]]", "how"],
-     ["[[این‌گونه|in-gune]]", "[[این‌طور|in-tor]]", "[[این‌جوری|in-juri]]", "like this"],
-     ["[[منزل|manzel]]", "[[خانه|khāne]]", "[[خونه|khune]]", "home"],
-     ["[[سخن گفتن|sokhan goftan]]", "[[صحبت کردن|sohbat kardan]]", "[[حرف زدن|harf zadan]]", "to speak"],
-     ["[[دریافت کردن|daryāft kardan]]", "[[گرفتن|gereftan]]", "[[گرفتن|gereftan]]", "to receive, to get"],
-     ["[[مراجعه کردن|morāje'e kardan]]", "[[رفتن|raftan]]، [[آمدن|āmadan]]", "[[رفتن|raftan]]، [[اومدن|umadan]]", "to go / come (to an office)"],
-     ["[[آغاز کردن|āghāz kardan]]", "[[شروع کردن|shoru' kardan]]", "[[شروع کردن|shoru' kardan]]", "to begin"],
-     ["[[به پایان رسیدن|be pāyān residan]]", "[[تمام شدن|tamām shodan]]", "[[تموم شدن|tamum shodan]]", "to end, to be over"],
-     ["[[آیا|āyā]] + question", "[[آیا|āyā]] or intonation", "intonation only", "yes/no questions"],
-     ["[[می‌روم|mi-ravam]]", "[[می‌روم|mi-ravam]]", "[[می‌رم|mi-ram]]", "I go"],
-     ["[[می‌گویید|mi-guyid]]", "[[می‌گویید|mi-guyid]]", "[[می‌گین|mi-gin]]", "you (pl.) say"],
-     ["[[را|rā]]", "[[را|rā]]", "[[رو|ro]]، [[ـو|-o]]", "(object marker)"],
-     ["[[یک|yek]]", "[[یک|yek]]", "[[یه|ye]]", "a, one"],
-     ["[[به او|be u]]", "[[به او|be u]]", "[[بهش|behesh]]", "to him, to her"],
-     ["[[برای|barā-ye]]", "[[برای|barā-ye]]", "[[واسه|vāse]]", "for"],
-     ["[[در|dar]]", "[[در|dar]]", "[[تو|tu]]", "in"],
-     ["[[اگر|agar]]", "[[اگر|agar]]", "[[اگه|age]]", "if"],
-     ["[[بله|bale]]", "[[بله|bale]]", "[[آره|āre]]", "yes"]
+     [
+      "[[می‌باشد|mi-bāshad]]",
+      "[[است|ast]]",
+      "[[ـه|-e]]: [[خوبه|khub-e]]",
+      "is"
+     ],
+     [
+      "[[اکنون|aknun]]",
+      "[[حالا|hālā]]",
+      "[[الان|alān]]",
+      "now"
+     ],
+     [
+      "[[بسیار|besyār]]",
+      "[[خیلی|kheyli]]",
+      "[[خیلی|kheyli]]",
+      "very"
+     ],
+     [
+      "[[زیرا|zirā]]",
+      "[[چون|chon]]",
+      "[[چون|chon]]، [[آخه|ākhe]]",
+      "because"
+     ],
+     [
+      "[[اما|ammā]]",
+      "[[ولی|vali]]",
+      "[[ولی|vali]]",
+      "but"
+     ],
+     [
+      "[[نیز|niz]]",
+      "[[هم|ham]]",
+      "[[هم|ham]]، [[منم|man-am|me too]]",
+      "also"
+     ],
+     [
+      "[[وی|vey]]",
+      "[[او|u]]",
+      "[[اون|un]]",
+      "he, she"
+     ],
+     [
+      "[[آن|ān]]",
+      "[[آن|ān]]",
+      "[[اون|un]]",
+      "that"
+     ],
+     [
+      "[[چگونه|chegune]]",
+      "[[چطور|chetor]]",
+      "[[چطوری|chetori]]",
+      "how"
+     ],
+     [
+      "[[این‌گونه|in-gune]]",
+      "[[این‌طور|in-tor]]",
+      "[[این‌جوری|in-juri]]",
+      "like this"
+     ],
+     [
+      "[[منزل|manzel]]",
+      "[[خانه|khāne]]",
+      "[[خونه|khune]]",
+      "home"
+     ],
+     [
+      "[[سخن گفتن|sokhan goftan]]",
+      "[[صحبت کردن|sohbat kardan]]",
+      "[[حرف زدن|harf zadan]]",
+      "to speak"
+     ],
+     [
+      "[[دریافت کردن|daryāft kardan]]",
+      "[[گرفتن|gereftan]]",
+      "[[گرفتن|gereftan]]",
+      "to receive, to get"
+     ],
+     [
+      "[[مراجعه کردن|morāje'e kardan]]",
+      "[[رفتن|raftan]]، [[آمدن|āmadan]]",
+      "[[رفتن|raftan]]، [[اومدن|umadan]]",
+      "to go / come (to an office)"
+     ],
+     [
+      "[[آغاز کردن|āghāz kardan]]",
+      "[[شروع کردن|shoru' kardan]]",
+      "[[شروع کردن|shoru' kardan]]",
+      "to begin"
+     ],
+     [
+      "[[به پایان رسیدن|be pāyān residan]]",
+      "[[تمام شدن|tamām shodan]]",
+      "[[تموم شدن|tamum shodan]]",
+      "to end, to be over"
+     ],
+     [
+      "[[آیا|āyā]] + question",
+      "[[آیا|āyā]] or intonation",
+      "intonation only",
+      "yes/no questions"
+     ],
+     [
+      "[[می‌روم|mi-ravam]]",
+      "[[می‌روم|mi-ravam]]",
+      "[[می‌رم|mi-ram]]",
+      "I go"
+     ],
+     [
+      "[[می‌گویید|mi-guyid]]",
+      "[[می‌گویید|mi-guyid]]",
+      "[[می‌گین|mi-gin]]",
+      "you (pl.) say"
+     ],
+     [
+      "[[را|rā]]",
+      "[[را|rā]]",
+      "[[رو|ro]]، [[ـو|-o]]",
+      "(object marker)"
+     ],
+     [
+      "[[یک|yek]]",
+      "[[یک|yek]]",
+      "[[یه|ye]]",
+      "a, one"
+     ],
+     [
+      "[[به او|be u]]",
+      "[[به او|be u]]",
+      "[[بهش|behesh]]",
+      "to him, to her"
+     ],
+     [
+      "[[برای|barā-ye]]",
+      "[[برای|barā-ye]]",
+      "[[واسه|vāse]]",
+      "for"
+     ],
+     [
+      "[[در|dar]]",
+      "[[در|dar]]",
+      "[[تو|tu]]",
+      "in"
+     ],
+     [
+      "[[اگر|agar]]",
+      "[[اگر|agar]]",
+      "[[اگه|age]]",
+      "if"
+     ],
+     [
+      "[[بله|bale]]",
+      "[[بله|bale]]",
+      "[[آره|āre]]",
+      "yes"
+     ]
     ]
    },
    "examples": [
-    {"fa": "اکنون در منزل هستم.", "r": "aknun dar manzel hastam.", "en": "I am at home now.", "col": "الان خونه‌ام.", "colR": "alān khune-am."},
-    {"fa": "وی نیز با این طرح موافق می‌باشد، زیرا هزینه‌ی آن کم است.", "r": "vey niz bā in tarh movāfegh mi-bāshad, zirā hazine-ye ān kam ast.", "en": "He, too, is in favour of this plan, because its cost is low.", "col": "اونم با این طرح موافقه، چون خرجش کمه.", "colR": "un-am bā in tarh movāfegh-e, chon kharj-esh kam-e.", "note": "Top shelf to bottom shelf: almost every word changes."},
-    {"fa": "لطفاً برای دریافت مدارک به این دفتر مراجعه کنید.", "r": "lotfan barā-ye daryāft-e madārek be in daftar morāje'e konid.", "en": "Please come to this office to collect the documents.", "col": "لطفاً واسه گرفتن مدارک بیاین این دفتر.", "colR": "lotfan vāse gereftan-e madārek biyāyn in daftar."},
-    {"fa": "جلسه ساعت ده آغاز شد و ساعت دوازده به پایان رسید.", "r": "jalase sā'at-e dah āghāz shod va sā'at-e davāzdah be pāyān resid.", "en": "The meeting began at ten and ended at twelve.", "col": "جلسه ساعت ده شروع شد و ساعت دوازده تموم شد.", "colR": "jalase sā'at-e dah shoru' shod o sā'at-e davāzdah tamum shod."},
-    {"fa": "این مسئله را چگونه می‌توان حل کرد؟", "r": "in mas'ale rā chegune mi-tavān hal kard?", "en": "How can this problem be solved?", "col": "این مسئله رو چطوری می‌شه حل کرد؟", "colR": "in mas'ale ro chetori mi-she hal kard?"},
-    {"fa": "آیا شما نیز در جلسه حضور خواهید داشت؟", "r": "āyā shomā niz dar jalase hozur khāhid dāsht?", "en": "Will you also be attending the meeting?", "col": "شما هم میاین جلسه؟", "colR": "shomā ham miyāyn jalase?", "note": "آیا at the start of a yes/no question is purely written; in speech, intonation does the job."},
-    {"fa": "فردا با دوستانم به سینما می‌روم.", "r": "fardā bā dustān-am be sinamā mi-ravam.", "en": "Tomorrow I'm going to the cinema with my friends.", "col": "فردا با دوستام می‌رم سینما.", "colR": "fardā bā dust-ā-m mi-ram sinamā.", "note": "The middle shelf. Speech changes the sounds and puts the destination after the verb."}
+    {
+     "fa": "اکنون در منزل هستم.",
+     "r": "aknun dar manzel hastam.",
+     "en": "I am at home now.",
+     "col": "الان خونه‌ام.",
+     "colR": "alān khune-am.",
+     "faV": "اَکنون دَر مَنزِل هَستَم.",
+     "a": "7b301b9eb559",
+     "colV": "اَلان خونه‌اَم.",
+     "colA": "4af1e628a604"
+    },
+    {
+     "fa": "وی نیز با این طرح موافق می‌باشد، زیرا هزینه‌ی آن کم است.",
+     "r": "vey niz bā in tarh movāfegh mi-bāshad, zirā hazine-ye ān kam ast.",
+     "en": "He, too, is in favour of this plan, because its cost is low.",
+     "col": "اونم با این طرح موافقه، چون خرجش کمه.",
+     "colR": "un-am bā in tarh movāfegh-e, chon kharj-esh kam-e.",
+     "note": "Top shelf to bottom shelf: almost every word changes.",
+     "faV": "وَی نیز با این طَرح مُوافِق می‌باشَد، زیرا هَزینه‌یِ آن کَم اَست.",
+     "a": "208443771847",
+     "colV": "اونَم با این طَرح مُوافِقه، چون خَرجِش کَمه.",
+     "colA": "769b42aad51d"
+    },
+    {
+     "fa": "لطفاً برای دریافت مدارک به این دفتر مراجعه کنید.",
+     "r": "lotfan barā-ye daryāft-e madārek be in daftar morāje'e konid.",
+     "en": "Please come to this office to collect the documents.",
+     "col": "لطفاً واسه گرفتن مدارک بیاین این دفتر.",
+     "colR": "lotfan vāse gereftan-e madārek biyāyn in daftar.",
+     "faV": "لُطفاً بَرایِ دَریافتِ مَدارِک به این دَفتَر مُراجِعه کُنید.",
+     "a": "ae510e6adf41",
+     "colV": "لُطفاً واسه گِرِفتَنِ مَدارِک بیاین این دَفتَر.",
+     "colA": "b4f0d34b30ac"
+    },
+    {
+     "fa": "جلسه ساعت ده آغاز شد و ساعت دوازده به پایان رسید.",
+     "r": "jalase sā'at-e dah āghāz shod va sā'at-e davāzdah be pāyān resid.",
+     "en": "The meeting began at ten and ended at twelve.",
+     "col": "جلسه ساعت ده شروع شد و ساعت دوازده تموم شد.",
+     "colR": "jalase sā'at-e dah shoru' shod o sā'at-e davāzdah tamum shod.",
+     "faV": "جَلَسه ساعَتِ دَه آغاز شُد و ساعَتِ دَوازدَه به پایان رِسید.",
+     "a": "d053638baeb2",
+     "colV": "جَلَسه ساعَتِ دَه شُروع شُد و ساعَتِ دَوازدَه تَموم شُد.",
+     "colA": "02221f65c97e"
+    },
+    {
+     "fa": "این مسئله را چگونه می‌توان حل کرد؟",
+     "r": "in mas'ale rā chegune mi-tavān hal kard?",
+     "en": "How can this problem be solved?",
+     "col": "این مسئله رو چطوری می‌شه حل کرد؟",
+     "colR": "in mas'ale ro chetori mi-she hal kard?",
+     "faV": "این مَسئَله را چِگونه می‌تَوان حَل کَرد؟",
+     "a": "623b56705557",
+     "colV": "این مَسئَله رو چِطوری می‌شه حَل کَرد؟",
+     "colA": "18a8893440bf"
+    },
+    {
+     "fa": "آیا شما نیز در جلسه حضور خواهید داشت؟",
+     "r": "āyā shomā niz dar jalase hozur khāhid dāsht?",
+     "en": "Will you also be attending the meeting?",
+     "col": "شما هم میاین جلسه؟",
+     "colR": "shomā ham miyāyn jalase?",
+     "note": "آیا at the start of a yes/no question is purely written; in speech, intonation does the job.",
+     "faV": "آیا شُما نیز دَر جَلَسه حُضور خواهید داشت؟",
+     "a": "67e6668de7f8",
+     "colV": "شُما هَم میاین جَلَسه؟",
+     "colA": "5eeae5ebec7b"
+    },
+    {
+     "fa": "فردا با دوستانم به سینما می‌روم.",
+     "r": "fardā bā dustān-am be sinamā mi-ravam.",
+     "en": "Tomorrow I'm going to the cinema with my friends.",
+     "col": "فردا با دوستام می‌رم سینما.",
+     "colR": "fardā bā dust-ā-m mi-ram sinamā.",
+     "note": "The middle shelf. Speech changes the sounds and puts the destination after the verb.",
+     "faV": "فَردا با دوستانَم به سینَما می‌رَوَم.",
+     "a": "da7f6fbfb4bb",
+     "colV": "فَردا با دوستام می‌رَم سینَما.",
+     "colA": "3a61582918c4"
+    }
    ]
   },
   {
@@ -120,31 +737,160 @@
    "title": "Honorifics and the plural of respect",
    "md": "In A2 you met شما with a plural verb, and [[ایشان|ishān]]. Here is the whole system.\n\n**The plural of respect.** To speak *about* someone you respect – a teacher, a doctor, a manager, a parent or grandparent, anyone older or important – use [[ایشان|ishān]] (spoken *ishun*) instead of [[او|u]], and a **plural verb** for one person: [[ایشان آمدند|ishān āmadand|he/she has come]], [[پدرم گفتند|pedar-am goftand|my father said]]. Do it most of all when the person is present: pointing at someone with او sounds rude.\n\n**The humble I.** The other side of respect is modesty. [[بنده|bande]] – literally *servant* – replaces [[من|man]] in polite speech and in letters; the verb stays singular: [[بنده موافقم|bande movāfegh-am|I agree]].\n\n**Titles.** For a man, [[آقای|āghā-ye]] (Mr) becomes [[جناب آقای|jenāb-e āghā-ye]] in letters, speeches and introductions; for a woman, [[خانم|khānom]] becomes [[سرکار خانم|sarkār-e khānom]]. Professional titles stack on top: [[جناب آقای دکتر کریمی|jenāb-e āghā-ye doktor Karimi]]. For *you*, the most deferential forms are [[حضرت‌عالی|hazrat-āli]] and [[جناب‌عالی|jenāb-āli]] – roughly *Your Excellency*. Between friends they are a joke.",
    "table": {
-    "head": ["Neutral", "Respectful or humble", "When to use it"],
+    "head": [
+     "Neutral",
+     "Respectful or humble",
+     "When to use it"
+    ],
     "rows": [
-     ["[[من|man]]", "[[بنده|bande]]", "I – humble, in polite speech and letters"],
-     ["[[تو|to]]", "[[شما|shomā]] + plural verb", "you – to anyone who is not family or a close friend"],
-     ["[[شما|shomā]]", "[[حضرت‌عالی|hazrat-āli]]، [[جناب‌عالی|jenāb-āli]]", "you – very deferential; among friends, ironic"],
-     ["[[او|u]]", "[[ایشان|ishān]] + plural verb", "he, she – a respected person, especially one who is present"],
-     ["[[او آمد|u āmad]]", "[[ایشان آمدند|ishān āmadand]]", "he/she came – one person, plural verb"],
-     ["[[پدرم گفت|pedar-am goft]]", "[[پدرم گفتند|pedar-am goftand]]", "my father said – parents and grandparents, in many families"],
-     ["[[آقای کریمی|āghā-ye Karimi]]", "[[جناب آقای کریمی|jenāb-e āghā-ye Karimi]]", "Mr Karimi – letters, speeches, introductions"],
-     ["[[خانم احمدی|khānom-e Ahmadi]]", "[[سرکار خانم احمدی|sarkār-e khānom-e Ahmadi]]", "Ms Ahmadi – letters, speeches, introductions"],
-     ["[[دکتر کریمی|doktor Karimi]]", "[[آقای دکتر|āghā-ye doktor]]، [[خانم مهندس|khānom mohandes]]", "titles – used even without the name"],
-     ["[[اسمت چیست؟|esm-at chist?]]", "[[اسم شریفتان چیست؟|esm-e sharif-etān chist?]]", "what's your name? – lit. 'your noble name'"],
-     ["[[حالت چطور است؟|hāl-at chetor ast?]]", "[[احوال شما؟|ahvāl-e shomā?]]", "how are you? – polite, a little old-fashioned"],
-     ["[[خانه‌ی شما|khāne-ye shomā]]", "[[منزل شما|manzel-e shomā]]", "your home"]
+     [
+      "[[من|man]]",
+      "[[بنده|bande]]",
+      "I – humble, in polite speech and letters"
+     ],
+     [
+      "[[تو|to]]",
+      "[[شما|shomā]] + plural verb",
+      "you – to anyone who is not family or a close friend"
+     ],
+     [
+      "[[شما|shomā]]",
+      "[[حضرت‌عالی|hazrat-āli]]، [[جناب‌عالی|jenāb-āli]]",
+      "you – very deferential; among friends, ironic"
+     ],
+     [
+      "[[او|u]]",
+      "[[ایشان|ishān]] + plural verb",
+      "he, she – a respected person, especially one who is present"
+     ],
+     [
+      "[[او آمد|u āmad]]",
+      "[[ایشان آمدند|ishān āmadand]]",
+      "he/she came – one person, plural verb"
+     ],
+     [
+      "[[پدرم گفت|pedar-am goft]]",
+      "[[پدرم گفتند|pedar-am goftand]]",
+      "my father said – parents and grandparents, in many families"
+     ],
+     [
+      "[[آقای کریمی|āghā-ye Karimi]]",
+      "[[جناب آقای کریمی|jenāb-e āghā-ye Karimi]]",
+      "Mr Karimi – letters, speeches, introductions"
+     ],
+     [
+      "[[خانم احمدی|khānom-e Ahmadi]]",
+      "[[سرکار خانم احمدی|sarkār-e khānom-e Ahmadi]]",
+      "Ms Ahmadi – letters, speeches, introductions"
+     ],
+     [
+      "[[دکتر کریمی|doktor Karimi]]",
+      "[[آقای دکتر|āghā-ye doktor]]، [[خانم مهندس|khānom mohandes]]",
+      "titles – used even without the name"
+     ],
+     [
+      "[[اسمت چیست؟|esm-at chist?]]",
+      "[[اسم شریفتان چیست؟|esm-e sharif-etān chist?]]",
+      "what's your name? – lit. 'your noble name'"
+     ],
+     [
+      "[[حالت چطور است؟|hāl-at chetor ast?]]",
+      "[[احوال شما؟|ahvāl-e shomā?]]",
+      "how are you? – polite, a little old-fashioned"
+     ],
+     [
+      "[[خانه‌ی شما|khāne-ye shomā]]",
+      "[[منزل شما|manzel-e shomā]]",
+      "your home"
+     ]
     ]
    },
    "examples": [
-    {"fa": "ایشان استاد ما هستند.", "r": "ishān ostād-e mā hastand.", "en": "She is our professor.", "col": "ایشون استاد ما هستن.", "colR": "ishun ostād-e mā hastan."},
-    {"fa": "پدربزرگم دیروز از مشهد آمدند.", "r": "pedar-bozorg-am diruz az Mashhad āmadand.", "en": "My grandfather arrived from Mashhad yesterday.", "col": "بابابزرگم دیروز از مشهد اومدن.", "colR": "bābā-bozorg-am diruz az Mashhad umadan.", "note": "One grandfather, a plural verb: respect."},
-    {"fa": "جناب آقای کریمی، به جلسه خوش آمدید.", "r": "jenāb-e āghā-ye Karimi, be jalase khosh āmadid.", "en": "Mr Karimi, welcome to the meeting.", "col": "جناب آقای کریمی، به جلسه خوش اومدین.", "colR": "jenāb-e āghā-ye Karimi, be jalase khosh umadin."},
-    {"fa": "سرکار خانم احمدی، لطفاً بفرمایید.", "r": "sarkār-e khānom-e Ahmadi, lotfan befarmāyid.", "en": "Ms Ahmadi, the floor is yours (lit. please, go ahead).", "col": "سرکار خانم احمدی، لطفاً بفرمایین.", "colR": "sarkār-e khānom-e Ahmadi, lotfan befarmāyin."},
-    {"fa": "بنده هم با نظر شما موافقم.", "r": "bande ham bā nazar-e shomā movāfegh-am.", "en": "I, too, agree with you (lit. with your view)."},
-    {"fa": "حضرت‌عالی فردا وقت دارید؟", "r": "hazrat-āli fardā vaght dārid?", "en": "Would you have time tomorrow, sir?", "col": "حضرت‌عالی فردا وقت دارین؟", "colR": "hazrat-āli fardā vaght dārin?"},
-    {"fa": "اسم شریفتان چیست؟", "r": "esm-e sharif-etān chist?", "en": "May I ask your name? (lit. what is your noble name?)", "col": "اسم شریفتون چیه؟", "colR": "esm-e sharif-etun chiye?"},
-    {"fa": "مادرم سلام رساندند.", "r": "mādar-am salām resāndand.", "en": "My mother sends her regards.", "col": "مامانم سلام رسوندن.", "colR": "māmān-am salām resundan."}
+    {
+     "fa": "ایشان استاد ما هستند.",
+     "r": "ishān ostād-e mā hastand.",
+     "en": "She is our professor.",
+     "col": "ایشون استاد ما هستن.",
+     "colR": "ishun ostād-e mā hastan.",
+     "faV": "ایشان اُستادِ ما هَستَند.",
+     "a": "6799816a6815",
+     "colV": "ایشون اُستادِ ما هَستَن.",
+     "colA": "77ba7cd3641b"
+    },
+    {
+     "fa": "پدربزرگم دیروز از مشهد آمدند.",
+     "r": "pedar-bozorg-am diruz az Mashhad āmadand.",
+     "en": "My grandfather arrived from Mashhad yesterday.",
+     "col": "بابابزرگم دیروز از مشهد اومدن.",
+     "colR": "bābā-bozorg-am diruz az Mashhad umadan.",
+     "note": "One grandfather, a plural verb: respect.",
+     "faV": "پِدَربُزُرگَم دیروز اَز مَشهَد آمَدَند.",
+     "a": "1aa3c7e29dab",
+     "colV": "بابابُزُرگَم دیروز اَز مَشهَد اومَدَن.",
+     "colA": "c4296ca2467d"
+    },
+    {
+     "fa": "جناب آقای کریمی، به جلسه خوش آمدید.",
+     "r": "jenāb-e āghā-ye Karimi, be jalase khosh āmadid.",
+     "en": "Mr Karimi, welcome to the meeting.",
+     "col": "جناب آقای کریمی، به جلسه خوش اومدین.",
+     "colR": "jenāb-e āghā-ye Karimi, be jalase khosh umadin.",
+     "faV": "جِنابِ آقایِ کَریمی، به جَلَسه خوش آمَدید.",
+     "a": "45135a3b2b08",
+     "colV": "جِنابِ آقایِ کَریمی، به جَلَسه خوش اومَدین.",
+     "colA": "a6d6d02b94e0"
+    },
+    {
+     "fa": "سرکار خانم احمدی، لطفاً بفرمایید.",
+     "r": "sarkār-e khānom-e Ahmadi, lotfan befarmāyid.",
+     "en": "Ms Ahmadi, the floor is yours (lit. please, go ahead).",
+     "col": "سرکار خانم احمدی، لطفاً بفرمایین.",
+     "colR": "sarkār-e khānom-e Ahmadi, lotfan befarmāyin.",
+     "faV": "سَرکارِ خانُمِ اَحمَدی، لُطفاً بِفَرمایید.",
+     "a": "b8231afb6c44",
+     "colV": "سَرکارِ خانُمِ اَحمَدی، لُطفاً بِفَرمایین.",
+     "colA": "0dbb8b094aa0"
+    },
+    {
+     "fa": "بنده هم با نظر شما موافقم.",
+     "r": "bande ham bā nazar-e shomā movāfegh-am.",
+     "en": "I, too, agree with you (lit. with your view).",
+     "faV": "بَنده هَم با نَظَرِ شُما مُوافِقَم.",
+     "a": "a89fce8f970f"
+    },
+    {
+     "fa": "حضرت‌عالی فردا وقت دارید؟",
+     "r": "hazrat-āli fardā vaght dārid?",
+     "en": "Would you have time tomorrow, sir?",
+     "col": "حضرت‌عالی فردا وقت دارین؟",
+     "colR": "hazrat-āli fardā vaght dārin?",
+     "faV": "حَضرَت‌عالی فَردا وَقت دارید؟",
+     "a": "95e0705c3a79",
+     "colV": "حَضرَت‌عالی فَردا وَقت دارین؟",
+     "colA": "d63fde8ff923"
+    },
+    {
+     "fa": "اسم شریفتان چیست؟",
+     "r": "esm-e sharif-etān chist?",
+     "en": "May I ask your name? (lit. what is your noble name?)",
+     "col": "اسم شریفتون چیه؟",
+     "colR": "esm-e sharif-etun chiye?",
+     "faV": "اِسمِ شَریفِتان چیست؟",
+     "a": "0f043281b744",
+     "colV": "اِسمِ شَریفِتون چیه؟",
+     "colA": "4e39356cb8cb"
+    },
+    {
+     "fa": "مادرم سلام رساندند.",
+     "r": "mādar-am salām resāndand.",
+     "en": "My mother sends her regards.",
+     "col": "مامانم سلام رسوندن.",
+     "colR": "māmān-am salām resundan.",
+     "faV": "مادَرَم سَلام رِساندَند.",
+     "a": "746677fb4a3c",
+     "colV": "مامانَم سَلام رِسوندَن.",
+     "colA": "5fb3a55d1124"
+    }
    ]
   },
   {
@@ -152,28 +898,158 @@
    "title": "Polite verbs: lifting others, lowering yourself",
    "md": "Persian has pairs of verbs for everyday actions: a **respectful** one for what *other* people do, and a **humble** one for what *you* do. Using a respectful verb about yourself is the classic learner's mistake – it sounds as if you think rather highly of yourself.\n\n- [[فرمودن|farmudan]] – *to say, to command*, of others. Its present stem [[فرما|farmā]] gives [[بفرمایید|befarmāyid]], the most useful word in polite Persian.\n- [[تشریف آوردن|tashrif āvardan]] – literally *to bring one's honour* – is *to come*; [[تشریف بردن|tashrif bordan]] is *to go*, [[تشریف داشتن|tashrif dāshtan]] *to be there*.\n- [[میل کردن|meyl kardan]] – *to eat, to drink* – is for offering: [[چای میل دارید؟|chāy meyl dārid?]] For yourself, just eat: [[می‌خورم|mi-khoram]] (though [[میل ندارم|meyl na-dāram|I don't feel like any]] is fine).\n- [[عرض کردن|arz kardan]] – *to say*, of yourself: [[عرض کنم که…|arz konam ke…|let me say that…]], [[عرض کردم|arz kardam|I said]], and as a noun, [[عرضی داشتم|arz-i dāshtam|I had something to say]].\n- [[خدمت رسیدن|khedmat residan]] – *to come and see you* – and [[مرخص شدن|morakkhas shodan]] – *to take my leave* – are the humble verbs of arriving and leaving.",
    "table": {
-    "head": ["Plain verb", "For others (respectful)", "For yourself (humble)", "English"],
+    "head": [
+     "Plain verb",
+     "For others (respectful)",
+     "For yourself (humble)",
+     "English"
+    ],
     "rows": [
-     ["[[گفتن|goftan]]", "[[فرمودن|farmudan]]", "[[عرض کردن|arz kardan]]", "to say"],
-     ["[[آمدن|āmadan]]", "[[تشریف آوردن|tashrif āvardan]]", "[[خدمت رسیدن|khedmat residan]]", "to come"],
-     ["[[رفتن|raftan]]", "[[تشریف بردن|tashrif bordan]]", "[[مرخص شدن|morakkhas shodan]]", "to go, to leave"],
-     ["[[بودن|budan]] (somewhere)", "[[تشریف داشتن|tashrif dāshtan]]", "[[در خدمت بودن|dar khedmat budan]]", "to be (there)"],
-     ["[[خوردن|khordan]]", "[[میل کردن|meyl kardan]]", "[[خوردن|khordan]]", "to eat, to drink"],
-     ["[[دادن|dādan]]", "[[لطف کردن|lotf kardan]]، [[مرحمت کردن|marhamat kardan]]", "[[تقدیم کردن|taghdim kardan]]", "to give"],
-     ["[[خواستن|khāstan]] (to want something)", "[[امر داشتن|amr dāshtan]]", "[[عرض داشتن|arz dāshtan]]", "to have a request, something to say"],
-     ["[[خوابیدن|khābidan]]", "[[استراحت کردن|esterāhat kardan]]", "[[خوابیدن|khābidan]]", "to sleep, to rest"],
-     ["[[دیدن|didan]] (a person)", "[[ملاقات کردن|molāghāt kardan]]", "[[زیارت کردن|ziyārat kardan]] (joking)", "to see, to meet"]
+     [
+      "[[گفتن|goftan]]",
+      "[[فرمودن|farmudan]]",
+      "[[عرض کردن|arz kardan]]",
+      "to say"
+     ],
+     [
+      "[[آمدن|āmadan]]",
+      "[[تشریف آوردن|tashrif āvardan]]",
+      "[[خدمت رسیدن|khedmat residan]]",
+      "to come"
+     ],
+     [
+      "[[رفتن|raftan]]",
+      "[[تشریف بردن|tashrif bordan]]",
+      "[[مرخص شدن|morakkhas shodan]]",
+      "to go, to leave"
+     ],
+     [
+      "[[بودن|budan]] (somewhere)",
+      "[[تشریف داشتن|tashrif dāshtan]]",
+      "[[در خدمت بودن|dar khedmat budan]]",
+      "to be (there)"
+     ],
+     [
+      "[[خوردن|khordan]]",
+      "[[میل کردن|meyl kardan]]",
+      "[[خوردن|khordan]]",
+      "to eat, to drink"
+     ],
+     [
+      "[[دادن|dādan]]",
+      "[[لطف کردن|lotf kardan]]، [[مرحمت کردن|marhamat kardan]]",
+      "[[تقدیم کردن|taghdim kardan]]",
+      "to give"
+     ],
+     [
+      "[[خواستن|khāstan]] (to want something)",
+      "[[امر داشتن|amr dāshtan]]",
+      "[[عرض داشتن|arz dāshtan]]",
+      "to have a request, something to say"
+     ],
+     [
+      "[[خوابیدن|khābidan]]",
+      "[[استراحت کردن|esterāhat kardan]]",
+      "[[خوابیدن|khābidan]]",
+      "to sleep, to rest"
+     ],
+     [
+      "[[دیدن|didan]] (a person)",
+      "[[ملاقات کردن|molāghāt kardan]]",
+      "[[زیارت کردن|ziyārat kardan]] (joking)",
+      "to see, to meet"
+     ]
     ]
    },
    "examples": [
-    {"fa": "استاد فرمودند که امتحان هفته‌ی بعد است.", "r": "ostād farmudand ke emtehān hafte-ye ba'd ast.", "en": "The professor said the exam is next week.", "col": "استاد فرمودن امتحان هفته‌ی بعده.", "colR": "ostād farmudan emtehān hafte-ye ba'd-e."},
-    {"fa": "کی تشریف می‌آورید؟", "r": "key tashrif mi-āvarid?", "en": "When will you be coming?", "col": "کی تشریف میارین؟", "colR": "key tashrif miyārin?"},
-    {"fa": "آقای کریمی تشریف بردند.", "r": "āghā-ye Karimi tashrif bordand.", "en": "Mr Karimi has left.", "col": "آقای کریمی تشریف بردن.", "colR": "āghā-ye Karimi tashrif bordan."},
-    {"fa": "بفرمایید، شیرینی میل کنید.", "r": "befarmāyid, shirini meyl konid.", "en": "Please, have some pastries.", "col": "بفرمایین، شیرینی میل کنین.", "colR": "befarmāyin, shirini meyl konin."},
-    {"fa": "عرض کردم که فردا خدمت می‌رسم.", "r": "arz kardam ke fardā khedmat mi-resam.", "en": "I said I'd come and see you tomorrow.", "col": "عرض کردم فردا خدمت می‌رسم.", "colR": "arz kardam fardā khedmat mi-resam."},
-    {"fa": "اگر اجازه بدهید، بنده مرخص می‌شوم.", "r": "agar ejāze bedahid, bande morakkhas mi-shavam.", "en": "If you'll allow me, I'll take my leave.", "col": "اگه اجازه بدین، بنده مرخص می‌شم.", "colR": "age ejāze bedin, bande morakkhas mi-sham."},
-    {"fa": "ببخشید، آقای دکتر تشریف دارند؟", "r": "bebakhshid, āghā-ye doktor tashrif dārand?", "en": "Excuse me, is the doctor in?", "col": "ببخشید، آقای دکتر تشریف دارن؟", "colR": "bebakhshid, āghā-ye doktor tashrif dāran?"},
-    {"fa": "یک عرضی داشتم.", "r": "yek arz-i dāshtam.", "en": "There's something I wanted to say to you.", "col": "یه عرضی داشتم.", "colR": "ye arz-i dāshtam."}
+    {
+     "fa": "استاد فرمودند که امتحان هفته‌ی بعد است.",
+     "r": "ostād farmudand ke emtehān hafte-ye ba'd ast.",
+     "en": "The professor said the exam is next week.",
+     "col": "استاد فرمودن امتحان هفته‌ی بعده.",
+     "colR": "ostād farmudan emtehān hafte-ye ba'd-e.",
+     "faV": "اُستاد فَرمودَند که اِمتِحان هَفته‌یِ بَعد اَست.",
+     "a": "1515c02194d8",
+     "colV": "اُستاد فَرمودَن اِمتِحان هَفته‌یِ بَعده.",
+     "colA": "91e34848460f"
+    },
+    {
+     "fa": "کی تشریف می‌آورید؟",
+     "r": "key tashrif mi-āvarid?",
+     "en": "When will you be coming?",
+     "col": "کی تشریف میارین؟",
+     "colR": "key tashrif miyārin?",
+     "faV": "کَی تَشریف می‌آوَرید؟",
+     "a": "cbde38190117",
+     "colV": "کَی تَشریف میارین؟",
+     "colA": "24dcb4ec3f16"
+    },
+    {
+     "fa": "آقای کریمی تشریف بردند.",
+     "r": "āghā-ye Karimi tashrif bordand.",
+     "en": "Mr Karimi has left.",
+     "col": "آقای کریمی تشریف بردن.",
+     "colR": "āghā-ye Karimi tashrif bordan.",
+     "faV": "آقایِ کَریمی تَشریف بُردَند.",
+     "a": "32ec5cbba54b",
+     "colV": "آقایِ کَریمی تَشریف بُردَن.",
+     "colA": "b63599516d99"
+    },
+    {
+     "fa": "بفرمایید، شیرینی میل کنید.",
+     "r": "befarmāyid, shirini meyl konid.",
+     "en": "Please, have some pastries.",
+     "col": "بفرمایین، شیرینی میل کنین.",
+     "colR": "befarmāyin, shirini meyl konin.",
+     "faV": "بِفَرمایید، شیرینی مَیل کُنید.",
+     "a": "b056d3a4250b",
+     "colV": "بِفَرمایین، شیرینی مَیل کُنین.",
+     "colA": "437c8ffa7e06"
+    },
+    {
+     "fa": "عرض کردم که فردا خدمت می‌رسم.",
+     "r": "arz kardam ke fardā khedmat mi-resam.",
+     "en": "I said I'd come and see you tomorrow.",
+     "col": "عرض کردم فردا خدمت می‌رسم.",
+     "colR": "arz kardam fardā khedmat mi-resam.",
+     "faV": "عَرض کَردَم که فَردا خِدمَت می‌رِسَم.",
+     "a": "415176bc271d",
+     "colV": "عَرض کَردَم فَردا خِدمَت می‌رِسَم.",
+     "colA": "fe9cd056f07a"
+    },
+    {
+     "fa": "اگر اجازه بدهید، بنده مرخص می‌شوم.",
+     "r": "agar ejāze bedahid, bande morakkhas mi-shavam.",
+     "en": "If you'll allow me, I'll take my leave.",
+     "col": "اگه اجازه بدین، بنده مرخص می‌شم.",
+     "colR": "age ejāze bedin, bande morakkhas mi-sham.",
+     "faV": "اَگَر اِجازه بِدَهید، بَنده مُرَخَّص می‌شَوَم.",
+     "a": "c8413fa87a58",
+     "colV": "اَگه اِجازه بِدین، بَنده مُرَخَّص می‌شَم.",
+     "colA": "267071f449a6"
+    },
+    {
+     "fa": "ببخشید، آقای دکتر تشریف دارند؟",
+     "r": "bebakhshid, āghā-ye doktor tashrif dārand?",
+     "en": "Excuse me, is the doctor in?",
+     "col": "ببخشید، آقای دکتر تشریف دارن؟",
+     "colR": "bebakhshid, āghā-ye doktor tashrif dāran?",
+     "faV": "بِبَخشید، آقایِ دُکتُر تَشریف دارَند؟",
+     "a": "dda0d50bac87",
+     "colV": "بِبَخشید، آقایِ دُکتُر تَشریف دارَن؟",
+     "colA": "c2a1fdf96a75"
+    },
+    {
+     "fa": "یک عرضی داشتم.",
+     "r": "yek arz-i dāshtam.",
+     "en": "There's something I wanted to say to you.",
+     "col": "یه عرضی داشتم.",
+     "colR": "ye arz-i dāshtam.",
+     "faV": "یِک عَرضی داشتَم.",
+     "a": "2d532c9b9a6e",
+     "colV": "یه عَرضی داشتَم.",
+     "colA": "2e299851559c"
+    }
    ]
   },
   {
@@ -186,21 +1062,109 @@
    "title": "A formal email",
    "intro": "A week later Mina falls ill and has to miss Monday's meeting. This is her email to the director. Almost every line is a fixed formula of formal correspondence.",
    "sentences": [
-    {"fa": "موضوع: درخواست تغییر زمان جلسه", "r": "mowzu': darkhāst-e taghyir-e zamān-e jalase", "en": "Subject: Request to change the time of the meeting", "note": "Subject lines are noun phrases with no verb, like newspaper headlines."},
-    {"fa": "جناب آقای کریمی، مدیر محترم انتشارات", "r": "jenāb-e āghā-ye Karimi, modir-e mohtaram-e enteshārāt", "en": "Mr Karimi, Director (lit. the respected director of the publishing house)"},
-    {"fa": "با سلام و احترام،", "r": "bā salām va ehterām,", "en": "Dear Mr Karimi, (lit. with greetings and respect)"},
-    {"fa": "احتراماً، به استحضار می‌رساند که بنده به دلیل بیماری قادر به حضور در جلسه‌ی روز دوشنبه نیستم.", "r": "ehterāman, be estehzār mi-resānad ke bande be dalil-e bimāri ghāder be hozur dar jalase-ye ruz-e doshanbe nistam.", "en": "I am writing to inform you that, because of illness, I am unable to attend Monday's meeting.", "note": "احتراماً، به استحضار می‌رساند – literally 'respectfully, (this letter) brings to (your) attention' – is the classic first line of an official letter. قادر به … نیستم is the formal way to say نمی‌توانم."},
-    {"fa": "متأسفانه پزشک سه روز استراحت تجویز کرده است.", "r": "mota'assefāne pezeshk se ruz esterāhat tajviz karde ast.", "en": "Unfortunately the doctor has prescribed three days' rest."},
-    {"fa": "خواهشمند است در صورت امکان، جلسه به روز چهارشنبه موکول شود.", "r": "khāheshmand ast dar surat-e emkān, jalase be ruz-e chahārshanbe mowkul shavad.", "en": "If possible, I would ask that the meeting be postponed to Wednesday.", "note": "خواهشمند است + a subjunctive passive is the impersonal, written way to say 'please'. موکول شدن به – to be postponed to."},
-    {"fa": "گزارش ماهانه‌ی بخش ویرایش نیز به پیوست تقدیم می‌شود.", "r": "gozāresh-e māhāne-ye bakhsh-e virāyesh niz be peyvast taghdim mi-shavad.", "en": "Please also find attached the editing department's monthly report (lit. is presented as an attachment).", "note": "نیز is the written 'also'; تقدیم شدن – to be presented – is the humble verb for giving."},
-    {"fa": "پیشاپیش از لطف و همکاری حضرت‌عالی سپاسگزارم.", "r": "pishāpish az lotf va hamkāri-ye hazrat-āli sepāsgozār-am.", "en": "Thank you in advance for your kindness and cooperation."},
-    {"fa": "با تشکر و احترام،", "r": "bā tashakkor va ehterām,", "en": "With thanks and respect (= Yours sincerely),"},
-    {"fa": "مینا صادقی، کارشناس ویرایش", "r": "Minā Sādeghi, kārshenās-e virāyesh", "en": "Mina Sadeghi, editor"}
+    {
+     "fa": "موضوع: درخواست تغییر زمان جلسه",
+     "r": "mowzu': darkhāst-e taghyir-e zamān-e jalase",
+     "en": "Subject: Request to change the time of the meeting",
+     "note": "Subject lines are noun phrases with no verb, like newspaper headlines.",
+     "faV": "مَوضوع: دَرخواستِ تَغییرِ زَمانِ جَلَسه",
+     "a": "f3f5f77aa1b5"
+    },
+    {
+     "fa": "جناب آقای کریمی، مدیر محترم انتشارات",
+     "r": "jenāb-e āghā-ye Karimi, modir-e mohtaram-e enteshārāt",
+     "en": "Mr Karimi, Director (lit. the respected director of the publishing house)",
+     "faV": "جِنابِ آقایِ کَریمی، مُدیرِ مُحتَرَمِ اِنتِشارات",
+     "a": "7d0699ffe8e3"
+    },
+    {
+     "fa": "با سلام و احترام،",
+     "r": "bā salām va ehterām,",
+     "en": "Dear Mr Karimi, (lit. with greetings and respect)",
+     "faV": "با سَلام و اِحتِرام،",
+     "a": "8cafd6fdc857"
+    },
+    {
+     "fa": "احتراماً، به استحضار می‌رساند که بنده به دلیل بیماری قادر به حضور در جلسه‌ی روز دوشنبه نیستم.",
+     "r": "ehterāman, be estehzār mi-resānad ke bande be dalil-e bimāri ghāder be hozur dar jalase-ye ruz-e doshanbe nistam.",
+     "en": "I am writing to inform you that, because of illness, I am unable to attend Monday's meeting.",
+     "note": "احتراماً، به استحضار می‌رساند – literally 'respectfully, (this letter) brings to (your) attention' – is the classic first line of an official letter. قادر به … نیستم is the formal way to say نمی‌توانم.",
+     "faV": "اِحتِراماً، به اِستِحضار می‌رِسانَد که بَنده به دَلیلِ بیماری قادِر به حُضور دَر جَلَسه‌یِ روزِ دوشَنبه نیستَم.",
+     "a": "e0f7db4c3502"
+    },
+    {
+     "fa": "متأسفانه پزشک سه روز استراحت تجویز کرده است.",
+     "r": "mota'assefāne pezeshk se ruz esterāhat tajviz karde ast.",
+     "en": "Unfortunately the doctor has prescribed three days' rest.",
+     "faV": "مُتَأَسِّفانه پِزِشک سه روز اِستِراحَت تَجویز کَرده اَست.",
+     "a": "a3f8db99a3ef"
+    },
+    {
+     "fa": "خواهشمند است در صورت امکان، جلسه به روز چهارشنبه موکول شود.",
+     "r": "khāheshmand ast dar surat-e emkān, jalase be ruz-e chahārshanbe mowkul shavad.",
+     "en": "If possible, I would ask that the meeting be postponed to Wednesday.",
+     "note": "خواهشمند است + a subjunctive passive is the impersonal, written way to say 'please'. موکول شدن به – to be postponed to.",
+     "faV": "خواهِشمَند اَست دَر صورَتِ اِمکان، جَلَسه به روزِ چَهارشَنبه مَوکول شَوَد.",
+     "a": "17a41a082bc9"
+    },
+    {
+     "fa": "گزارش ماهانه‌ی بخش ویرایش نیز به پیوست تقدیم می‌شود.",
+     "r": "gozāresh-e māhāne-ye bakhsh-e virāyesh niz be peyvast taghdim mi-shavad.",
+     "en": "Please also find attached the editing department's monthly report (lit. is presented as an attachment).",
+     "note": "نیز is the written 'also'; تقدیم شدن – to be presented – is the humble verb for giving.",
+     "faV": "گُزارِشِ ماهانه‌یِ بَخشِ ویرایِش نیز به پَیوَست تَقدیم می‌شَوَد.",
+     "a": "beb1ba4eecfb"
+    },
+    {
+     "fa": "پیشاپیش از لطف و همکاری حضرت‌عالی سپاسگزارم.",
+     "r": "pishāpish az lotf va hamkāri-ye hazrat-āli sepāsgozār-am.",
+     "en": "Thank you in advance for your kindness and cooperation.",
+     "faV": "پیشاپیش اَز لُطف و هَمکاریِ حَضرَت‌عالی سِپاسگُزارَم.",
+     "a": "708473b16a95"
+    },
+    {
+     "fa": "با تشکر و احترام،",
+     "r": "bā tashakkor va ehterām,",
+     "en": "With thanks and respect (= Yours sincerely),",
+     "faV": "با تَشَکُّر و اِحتِرام،",
+     "a": "68b70d256f18"
+    },
+    {
+     "fa": "مینا صادقی، کارشناس ویرایش",
+     "r": "Minā Sādeghi, kārshenās-e virāyesh",
+     "en": "Mina Sadeghi, editor",
+     "faV": "مینا صادِقی، کارشِناسِ ویرایِش",
+     "a": "53265b170572"
+    }
    ],
    "questions": [
-    {"q": "Why can't Mina come to the meeting?", "options": ["She is on holiday.", "She is ill.", "She has another meeting."], "answer": 1},
-    {"q": "What does she ask for?", "options": ["to cancel the meeting", "to move the meeting to Wednesday", "to hold the meeting online"], "answer": 1},
-    {"q": "Which phrase means 'attached'?", "options": ["به پیوست", "پیشاپیش", "در صورت امکان"], "answer": 0}
+    {
+     "q": "Why can't Mina come to the meeting?",
+     "options": [
+      "She is on holiday.",
+      "She is ill.",
+      "She has another meeting."
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What does she ask for?",
+     "options": [
+      "to cancel the meeting",
+      "to move the meeting to Wednesday",
+      "to hold the meeting online"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Which phrase means 'attached'?",
+     "options": [
+      "به پیوست",
+      "پیشاپیش",
+      "در صورت امکان"
+     ],
+     "answer": 0
+    }
    ]
   },
   {
@@ -208,16 +1172,122 @@
    "title": "The same message as a text",
    "context": "Then Mina texts her colleague and friend Sara, who will be at the same meeting. The main line shows each message in standard spelling; the spoken line is what Mina and Sara actually type – Iranians write chat messages the way they talk.",
    "lines": [
-    {"who": "Mina", "fa": "سلام سارا جان! خوبی؟", "r": "salām Sārā jān! khub-i?", "en": "Hi Sara dear! How are you?", "col": "سلام سارا جون! خوبی؟", "colR": "salām Sārā jun! khub-i?"},
-    {"who": "Sara", "fa": "سلام عزیزم! چه خبر؟", "r": "salām aziz-am! che khabar?", "en": "Hi dear! What's new?"},
-    {"who": "Mina", "fa": "ببخشید، دوشنبه نمی‌توانم به جلسه بیایم؛ مریض شده‌ام.", "r": "bebakhshid, doshanbe nemi-tavānam be jalase biyāyam; mariz shode-am.", "en": "Sorry, I can't come to the meeting on Monday – I'm ill.", "col": "ببخشید، دوشنبه نمی‌تونم بیام جلسه؛ مریض شدم.", "colR": "bebakhshid, doshanbe nemi-tunam biyām jalase; mariz shodam."},
-    {"who": "Sara", "fa": "وای، دور از جان! چه شده است؟", "r": "vāy, dur az jān! che shode ast?", "en": "Oh no, poor you! What's wrong? (lit. far from your soul!)", "col": "وای، دور از جون! چی شده؟", "colR": "vāy, dur az jun! chi shode?"},
-    {"who": "Mina", "fa": "سرما خورده‌ام. دکتر گفته است سه روز استراحت کنم.", "r": "sarmā khorde-am. doktor gofte ast se ruz esterāhat konam.", "en": "I've caught a cold. The doctor says I should rest for three days.", "col": "سرما خوردم. دکتر گفته سه روز استراحت کنم.", "colR": "sarmā khordam. doktor gofte se ruz esterāhat konam."},
-    {"who": "Sara", "fa": "پس جلسه را چه کار کنیم؟", "r": "pas jalase rā che kār konim?", "en": "So what shall we do about the meeting?", "col": "پس جلسه رو چی کار کنیم؟", "colR": "pas jalase ro chi kār konim?"},
-    {"who": "Mina", "fa": "می‌شود آن را به چهارشنبه بیندازیم؟ به آقای کریمی هم ایمیل زدم.", "r": "mi-shavad ān rā be chahārshanbe biyandāzim? be āghā-ye Karimi ham imeyl zadam.", "en": "Can we put it off till Wednesday? I've emailed Mr Karimi too.", "col": "می‌شه بندازیمش چهارشنبه؟ به آقای کریمی هم ایمیل زدم.", "colR": "mi-she bendāzim-esh chahārshanbe? be āghā-ye Karimi ham imeyl zadam."},
-    {"who": "Sara", "fa": "حتماً. گزارش را هم برایم بفرست.", "r": "hatman. gozāresh rā ham barā-yam befrest.", "en": "Sure. Send me the report too.", "col": "حتماً. گزارشو هم برام بفرست.", "colR": "hatman. gozāresh-o ham barām befrest."},
-    {"who": "Mina", "fa": "فرستادم. خیلی ممنون، قربانت بروم!", "r": "ferestādam. kheyli mamnun, ghorbān-at beravam!", "en": "Done (lit. I've sent it). Thanks so much – you're a star! (lit. may I be your sacrifice)", "col": "فرستادم. مرسی، قربونت برم!", "colR": "ferestādam. mersi, ghorbun-et beram!"},
-    {"who": "Sara", "fa": "قربانت. مراقب خودت باش!", "r": "ghorbān-at. morāgheb-e khod-at bāsh!", "en": "Love you. Take care of yourself!", "col": "قربونت. مراقب خودت باش!", "colR": "ghorbun-et. morāgheb-e khod-et bāsh!"}
+    {
+     "who": "Mina",
+     "fa": "سلام سارا جان! خوبی؟",
+     "r": "salām Sārā jān! khub-i?",
+     "en": "Hi Sara dear! How are you?",
+     "col": "سلام سارا جون! خوبی؟",
+     "colR": "salām Sārā jun! khub-i?",
+     "faV": "سَلام سارا جان! خوبی؟",
+     "a": "b3cccfcd9aa1",
+     "colV": "سَلام سارا جون! خوبی؟",
+     "colA": "ed90b06e0175"
+    },
+    {
+     "who": "Sara",
+     "fa": "سلام عزیزم! چه خبر؟",
+     "r": "salām aziz-am! che khabar?",
+     "en": "Hi dear! What's new?",
+     "faV": "سَلام عَزیزَم! چه خَبَر؟",
+     "a": "408246654a6f"
+    },
+    {
+     "who": "Mina",
+     "fa": "ببخشید، دوشنبه نمی‌توانم به جلسه بیایم؛ مریض شده‌ام.",
+     "r": "bebakhshid, doshanbe nemi-tavānam be jalase biyāyam; mariz shode-am.",
+     "en": "Sorry, I can't come to the meeting on Monday – I'm ill.",
+     "col": "ببخشید، دوشنبه نمی‌تونم بیام جلسه؛ مریض شدم.",
+     "colR": "bebakhshid, doshanbe nemi-tunam biyām jalase; mariz shodam.",
+     "faV": "بِبَخشید، دوشَنبه نِمی‌تَوانَم به جَلَسه بیایَم؛ مَریض شُده‌اَم.",
+     "a": "6c13395bb86c",
+     "colV": "بِبَخشید، دوشَنبه نِمی‌تونَم بیام جَلَسه؛ مَریض شُدَم.",
+     "colA": "c05f48903381"
+    },
+    {
+     "who": "Sara",
+     "fa": "وای، دور از جان! چه شده است؟",
+     "r": "vāy, dur az jān! che shode ast?",
+     "en": "Oh no, poor you! What's wrong? (lit. far from your soul!)",
+     "col": "وای، دور از جون! چی شده؟",
+     "colR": "vāy, dur az jun! chi shode?",
+     "faV": "وای، دور اَز جان! چه شُده اَست؟",
+     "a": "6dee4960019c",
+     "colV": "وای، دور اَز جون! چی شُده؟",
+     "colA": "59cba279dc86"
+    },
+    {
+     "who": "Mina",
+     "fa": "سرما خورده‌ام. دکتر گفته است سه روز استراحت کنم.",
+     "r": "sarmā khorde-am. doktor gofte ast se ruz esterāhat konam.",
+     "en": "I've caught a cold. The doctor says I should rest for three days.",
+     "col": "سرما خوردم. دکتر گفته سه روز استراحت کنم.",
+     "colR": "sarmā khordam. doktor gofte se ruz esterāhat konam.",
+     "faV": "سَرما خورده‌اَم. دُکتُر گُفته اَست سه روز اِستِراحَت کُنَم.",
+     "a": "e06459762d1b",
+     "colV": "سَرما خوردَم. دُکتُر گُفته سه روز اِستِراحَت کُنَم.",
+     "colA": "4c2568ebb957"
+    },
+    {
+     "who": "Sara",
+     "fa": "پس جلسه را چه کار کنیم؟",
+     "r": "pas jalase rā che kār konim?",
+     "en": "So what shall we do about the meeting?",
+     "col": "پس جلسه رو چی کار کنیم؟",
+     "colR": "pas jalase ro chi kār konim?",
+     "faV": "پَس جَلَسه را چه کار کُنیم؟",
+     "a": "06dd4d683427",
+     "colV": "پَس جَلَسه رو چی کار کُنیم؟",
+     "colA": "1af2ac8222b5"
+    },
+    {
+     "who": "Mina",
+     "fa": "می‌شود آن را به چهارشنبه بیندازیم؟ به آقای کریمی هم ایمیل زدم.",
+     "r": "mi-shavad ān rā be chahārshanbe biyandāzim? be āghā-ye Karimi ham imeyl zadam.",
+     "en": "Can we put it off till Wednesday? I've emailed Mr Karimi too.",
+     "col": "می‌شه بندازیمش چهارشنبه؟ به آقای کریمی هم ایمیل زدم.",
+     "colR": "mi-she bendāzim-esh chahārshanbe? be āghā-ye Karimi ham imeyl zadam.",
+     "faV": "می‌شَوَد آن را به چَهارشَنبه بیَندازیم؟ به آقایِ کَریمی هَم ایمَیل زَدَم.",
+     "a": "61bfbc259b50",
+     "colV": "می‌شه بِندازیمِش چَهارشَنبه؟ به آقایِ کَریمی هَم ایمَیل زَدَم.",
+     "colA": "f7986023f342"
+    },
+    {
+     "who": "Sara",
+     "fa": "حتماً. گزارش را هم برایم بفرست.",
+     "r": "hatman. gozāresh rā ham barā-yam befrest.",
+     "en": "Sure. Send me the report too.",
+     "col": "حتماً. گزارشو هم برام بفرست.",
+     "colR": "hatman. gozāresh-o ham barām befrest.",
+     "faV": "حَتماً. گُزارِش را هَم بَرایَم بِفرِست.",
+     "a": "9e525cf5b686",
+     "colV": "حَتماً. گُزارِشو هَم بَرام بِفرِست.",
+     "colA": "8c058505169f"
+    },
+    {
+     "who": "Mina",
+     "fa": "فرستادم. خیلی ممنون، قربانت بروم!",
+     "r": "ferestādam. kheyli mamnun, ghorbān-at beravam!",
+     "en": "Done (lit. I've sent it). Thanks so much – you're a star! (lit. may I be your sacrifice)",
+     "col": "فرستادم. مرسی، قربونت برم!",
+     "colR": "ferestādam. mersi, ghorbun-et beram!",
+     "faV": "فِرِستادَم. خَیلی مَمنون، قُربانَت بِرَوَم!",
+     "a": "ea8a6d8ca6c4",
+     "colV": "فِرِستادَم. مِرسی، قُربونِت بِرَم!",
+     "colA": "0a19c029ab82"
+    },
+    {
+     "who": "Sara",
+     "fa": "قربانت. مراقب خودت باش!",
+     "r": "ghorbān-at. morāgheb-e khod-at bāsh!",
+     "en": "Love you. Take care of yourself!",
+     "col": "قربونت. مراقب خودت باش!",
+     "colR": "ghorbun-et. morāgheb-e khod-et bāsh!",
+     "faV": "قُربانَت. مُراقِبِ خودَت باش!",
+     "a": "199bf4fb7d42",
+     "colV": "قُربونِت. مُراقِبِ خودِت باش!",
+     "colA": "cb40a2af4d6b"
+    }
    ]
   },
   {
@@ -243,12 +1313,47 @@
    "kind": "fill",
    "title": "Choose the polite word",
    "items": [
-    {"fa": "استاد ___ که کلاس فردا تعطیل است.", "r": "ostād ___ ke kelās-e fardā ta'til ast.", "en": "The professor said that tomorrow's class is cancelled.", "answer": "فرمودند", "hint": "respectful 'said', plural of respect"},
-    {"fa": "بنده فقط می‌خواستم ___ کنم که کمی دیر می‌رسم.", "r": "bande faghat mi-khāstam ___ konam ke kam-i dir mi-resam.", "en": "I only wanted to let you know that I'll be a little late.", "answer": "عرض", "hint": "humble 'say'"},
-    {"fa": "بفرمایید، چای ___ کنید.", "r": "befarmāyid, chāy ___ konid.", "en": "Please, have some tea.", "answer": "میل", "hint": "polite 'eat, drink'"},
-    {"fa": "آقای دکتر هنوز ___ نیاورده‌اند.", "r": "āghā-ye doktor hanuz ___ na-yāvarde-and.", "en": "The doctor hasn't arrived yet.", "answer": "تشریف"},
-    {"fa": "___ آقای کریمی، به جلسه خوش آمدید.", "r": "___ āghā-ye Karimi, be jalase khosh āmadid.", "en": "Mr Karimi, welcome to the meeting.", "answer": "جناب", "hint": "the formal title before آقای"},
-    {"fa": "اگر اجازه بدهید، ___ مرخص می‌شوم.", "r": "agar ejāze bedahid, ___ morakkhas mi-shavam.", "en": "If you'll allow me, I'll take my leave.", "answer": "بنده", "hint": "humble 'I'"}
+    {
+     "fa": "استاد ___ که کلاس فردا تعطیل است.",
+     "r": "ostād ___ ke kelās-e fardā ta'til ast.",
+     "en": "The professor said that tomorrow's class is cancelled.",
+     "answer": "فرمودند",
+     "hint": "respectful 'said', plural of respect"
+    },
+    {
+     "fa": "بنده فقط می‌خواستم ___ کنم که کمی دیر می‌رسم.",
+     "r": "bande faghat mi-khāstam ___ konam ke kam-i dir mi-resam.",
+     "en": "I only wanted to let you know that I'll be a little late.",
+     "answer": "عرض",
+     "hint": "humble 'say'"
+    },
+    {
+     "fa": "بفرمایید، چای ___ کنید.",
+     "r": "befarmāyid, chāy ___ konid.",
+     "en": "Please, have some tea.",
+     "answer": "میل",
+     "hint": "polite 'eat, drink'"
+    },
+    {
+     "fa": "آقای دکتر هنوز ___ نیاورده‌اند.",
+     "r": "āghā-ye doktor hanuz ___ na-yāvarde-and.",
+     "en": "The doctor hasn't arrived yet.",
+     "answer": "تشریف"
+    },
+    {
+     "fa": "___ آقای کریمی، به جلسه خوش آمدید.",
+     "r": "___ āghā-ye Karimi, be jalase khosh āmadid.",
+     "en": "Mr Karimi, welcome to the meeting.",
+     "answer": "جناب",
+     "hint": "the formal title before آقای"
+    },
+    {
+     "fa": "اگر اجازه بدهید، ___ مرخص می‌شوم.",
+     "r": "agar ejāze bedahid, ___ morakkhas mi-shavam.",
+     "en": "If you'll allow me, I'll take my leave.",
+     "answer": "بنده",
+     "hint": "humble 'I'"
+    }
    ]
   },
   {
@@ -256,12 +1361,65 @@
    "kind": "mcq",
    "title": "Which register?",
    "items": [
-    {"q": "Which sentence would you write in a report?", "options": ["این طرح خیلی خوبه.", "این طرح بسیار خوب است.", "این طرح خیلی خوب است دیگه."], "answer": 1, "explain": "بسیار … است is written style; خوبه and دیگه belong to speech."},
-    {"q": "Your friend's grandmother is standing next to you. You introduce her:", "options": ["او مادربزرگ دوستم است.", "ایشان مادربزرگ دوستم هستند.", "اون مادربزرگ دوستمه."], "answer": 1, "explain": "ایشان and a plural verb – the plural of respect, especially for someone who can hear you."},
-    {"q": "Someone offers you tea: [[چای میل دارید؟|chāy meyl dārid?]] Which reply is wrong?", "options": ["خیلی ممنون، زحمت نکشید.", "ممنون، میل ندارم.", "بله، چای میل می‌فرمایم."], "answer": 2, "explain": "فرمودن is only for other people. Both other replies are polite; میل ندارم means 'I don't feel like any'."},
-    {"q": "Which is the spoken form of [[می‌خواهم بروم.|mi-khāham beravam.]]?", "options": ["می‌خوام برم.", "می‌خوام بروم.", "می‌خواهم برم."], "answer": 0, "explain": "Both verbs shrink in speech; a written verb next to a spoken one sounds odd."},
-    {"q": "How does a formal Persian email usually begin?", "options": ["سلام عزیزم!", "با سلام و احترام،", "چطوری؟"], "answer": 1},
-    {"q": "[[حضرت‌عالی|hazrat-āli]] means…", "options": ["I (humble)", "you (very respectful)", "he (respectful)"], "answer": 1, "explain": "Between friends it is used as a joke."}
+    {
+     "q": "Which sentence would you write in a report?",
+     "options": [
+      "این طرح خیلی خوبه.",
+      "این طرح بسیار خوب است.",
+      "این طرح خیلی خوب است دیگه."
+     ],
+     "answer": 1,
+     "explain": "بسیار … است is written style; خوبه and دیگه belong to speech."
+    },
+    {
+     "q": "Your friend's grandmother is standing next to you. You introduce her:",
+     "options": [
+      "او مادربزرگ دوستم است.",
+      "ایشان مادربزرگ دوستم هستند.",
+      "اون مادربزرگ دوستمه."
+     ],
+     "answer": 1,
+     "explain": "ایشان and a plural verb – the plural of respect, especially for someone who can hear you."
+    },
+    {
+     "q": "Someone offers you tea: [[چای میل دارید؟|chāy meyl dārid?]] Which reply is wrong?",
+     "options": [
+      "خیلی ممنون، زحمت نکشید.",
+      "ممنون، میل ندارم.",
+      "بله، چای میل می‌فرمایم."
+     ],
+     "answer": 2,
+     "explain": "فرمودن is only for other people. Both other replies are polite; میل ندارم means 'I don't feel like any'."
+    },
+    {
+     "q": "Which is the spoken form of [[می‌خواهم بروم.|mi-khāham beravam.]]?",
+     "options": [
+      "می‌خوام برم.",
+      "می‌خوام بروم.",
+      "می‌خواهم برم."
+     ],
+     "answer": 0,
+     "explain": "Both verbs shrink in speech; a written verb next to a spoken one sounds odd."
+    },
+    {
+     "q": "How does a formal Persian email usually begin?",
+     "options": [
+      "سلام عزیزم!",
+      "با سلام و احترام،",
+      "چطوری؟"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "[[حضرت‌عالی|hazrat-āli]] means…",
+     "options": [
+      "I (humble)",
+      "you (very respectful)",
+      "he (respectful)"
+     ],
+     "answer": 1,
+     "explain": "Between friends it is used as a joke."
+    }
    ]
   },
   {
@@ -269,12 +1427,48 @@
    "kind": "translate",
    "title": "Say it politely",
    "items": [
-    {"en": "Excuse me, is Dr Ahmadi in?", "fa": "ببخشید، خانم دکتر احمدی تشریف دارند؟", "r": "bebakhshid, khānom-e doktor Ahmadi tashrif dārand?"},
-    {"en": "My father sends his regards.", "fa": "پدرم سلام رساندند.", "r": "pedar-am salām resāndand."},
-    {"en": "When will you come? (respectful)", "fa": "کی تشریف می‌آورید؟", "r": "key tashrif mi-āvarid?"},
-    {"en": "I wanted to say that I agree.", "fa": "می‌خواستم عرض کنم که موافقم.", "r": "mi-khāstam arz konam ke movāfegh-am."},
-    {"en": "Thank you in advance for your cooperation.", "fa": "پیشاپیش از همکاری شما سپاسگزارم.", "r": "pishāpish az hamkāri-ye shomā sepāsgozār-am."},
-    {"en": "With your permission, I'll take my leave.", "fa": "با اجازه‌ی شما، مرخص می‌شوم.", "r": "bā ejāze-ye shomā, morakkhas mi-shavam."}
+    {
+     "en": "Excuse me, is Dr Ahmadi in?",
+     "fa": "ببخشید، خانم دکتر احمدی تشریف دارند؟",
+     "r": "bebakhshid, khānom-e doktor Ahmadi tashrif dārand?",
+     "faV": "بِبَخشید، خانُمِ دُکتُر اَحمَدی تَشریف دارَند؟",
+     "a": "db8938408af1"
+    },
+    {
+     "en": "My father sends his regards.",
+     "fa": "پدرم سلام رساندند.",
+     "r": "pedar-am salām resāndand.",
+     "faV": "پِدَرَم سَلام رِساندَند.",
+     "a": "745969fe74a0"
+    },
+    {
+     "en": "When will you come? (respectful)",
+     "fa": "کی تشریف می‌آورید؟",
+     "r": "key tashrif mi-āvarid?",
+     "faV": "کَی تَشریف می‌آوَرید؟",
+     "a": "cbde38190117"
+    },
+    {
+     "en": "I wanted to say that I agree.",
+     "fa": "می‌خواستم عرض کنم که موافقم.",
+     "r": "mi-khāstam arz konam ke movāfegh-am.",
+     "faV": "می‌خواستَم عَرض کُنَم که مُوافِقَم.",
+     "a": "915c7dcf0665"
+    },
+    {
+     "en": "Thank you in advance for your cooperation.",
+     "fa": "پیشاپیش از همکاری شما سپاسگزارم.",
+     "r": "pishāpish az hamkāri-ye shomā sepāsgozār-am.",
+     "faV": "پیشاپیش اَز هَمکاریِ شُما سِپاسگُزارَم.",
+     "a": "6f7b705ff89f"
+    },
+    {
+     "en": "With your permission, I'll take my leave.",
+     "fa": "با اجازه‌ی شما، مرخص می‌شوم.",
+     "r": "bā ejāze-ye shomā, morakkhas mi-shavam.",
+     "faV": "با اِجازه‌یِ شُما، مُرَخَّص می‌شَوَم.",
+     "a": "16cc6440aa27"
+    }
    ]
   },
   {
@@ -282,10 +1476,34 @@
    "kind": "order",
    "title": "Put the words in order",
    "items": [
-    {"fa": "ایشان استاد ما هستند.", "r": "ishān ostād-e mā hastand.", "en": "She is our professor."},
-    {"fa": "بفرمایید، چای میل کنید.", "r": "befarmāyid, chāy meyl konid.", "en": "Please, have some tea."},
-    {"fa": "خواهشمند است جلسه به چهارشنبه موکول شود.", "r": "khāheshmand ast jalase be chahārshanbe mowkul shavad.", "en": "Please postpone the meeting to Wednesday."},
-    {"fa": "بنده با نظر شما موافقم.", "r": "bande bā nazar-e shomā movāfegh-am.", "en": "I agree with your view."}
+    {
+     "fa": "ایشان استاد ما هستند.",
+     "r": "ishān ostād-e mā hastand.",
+     "en": "She is our professor.",
+     "faV": "ایشان اُستادِ ما هَستَند.",
+     "a": "6799816a6815"
+    },
+    {
+     "fa": "بفرمایید، چای میل کنید.",
+     "r": "befarmāyid, chāy meyl konid.",
+     "en": "Please, have some tea.",
+     "faV": "بِفَرمایید، چای مَیل کُنید.",
+     "a": "7c0913aa0909"
+    },
+    {
+     "fa": "خواهشمند است جلسه به چهارشنبه موکول شود.",
+     "r": "khāheshmand ast jalase be chahārshanbe mowkul shavad.",
+     "en": "Please postpone the meeting to Wednesday.",
+     "faV": "خواهِشمَند اَست جَلَسه به چَهارشَنبه مَوکول شَوَد.",
+     "a": "ada2322cec2c"
+    },
+    {
+     "fa": "بنده با نظر شما موافقم.",
+     "r": "bande bā nazar-e shomā movāfegh-am.",
+     "en": "I agree with your view.",
+     "faV": "بَنده با نَظَرِ شُما مُوافِقَم.",
+     "a": "0ec39794063f"
+    }
    ]
   },
   {
@@ -293,14 +1511,62 @@
    "kind": "match",
    "title": "Match the spoken form with its meaning",
    "items": [
-    {"fa": "می‌رم", "r": "mi-ram", "en": "I go (written می‌روم)"},
-    {"fa": "خونه", "r": "khune", "en": "house, home (written خانه)"},
-    {"fa": "اون", "r": "un", "en": "that (written آن)"},
-    {"fa": "بهش", "r": "behesh", "en": "to him, to her (written به او)"},
-    {"fa": "می‌خوام", "r": "mi-khām", "en": "I want (written می‌خواهم)"},
-    {"fa": "دیگه", "r": "dige", "en": "any more; other (written دیگر)"},
-    {"fa": "ایشون", "r": "ishun", "en": "he, she – respectful (written ایشان)"},
-    {"fa": "تموم", "r": "tamum", "en": "finished (written تمام)"}
+    {
+     "fa": "می‌رم",
+     "r": "mi-ram",
+     "en": "I go (written می‌روم)",
+     "faV": "می‌رَم",
+     "a": "ddb0eaad1b93"
+    },
+    {
+     "fa": "خونه",
+     "r": "khune",
+     "en": "house, home (written خانه)",
+     "faV": "خونه",
+     "a": "932489616f88"
+    },
+    {
+     "fa": "اون",
+     "r": "un",
+     "en": "that (written آن)",
+     "faV": "اون",
+     "a": "83c620f763e1"
+    },
+    {
+     "fa": "بهش",
+     "r": "behesh",
+     "en": "to him, to her (written به او)",
+     "faV": "بِهِش",
+     "a": "b536463e734e"
+    },
+    {
+     "fa": "می‌خوام",
+     "r": "mi-khām",
+     "en": "I want (written می‌خواهم)",
+     "faV": "می‌خوام",
+     "a": "32201dfebb87"
+    },
+    {
+     "fa": "دیگه",
+     "r": "dige",
+     "en": "any more; other (written دیگر)",
+     "faV": "دیگه",
+     "a": "5e3fe4589148"
+    },
+    {
+     "fa": "ایشون",
+     "r": "ishun",
+     "en": "he, she – respectful (written ایشان)",
+     "faV": "ایشون",
+     "a": "84aa8ffbbd04"
+    },
+    {
+     "fa": "تموم",
+     "r": "tamum",
+     "en": "finished (written تمام)",
+     "faV": "تَموم",
+     "a": "9eeafdb960ec"
+    }
    ]
   },
   {
@@ -308,11 +1574,61 @@
    "kind": "listen",
    "title": "Listen and choose",
    "items": [
-    {"fa": "ایشان هنوز تشریف نیاورده‌اند.", "r": "ishān hanuz tashrif na-yāvarde-and.", "en": "He hasn't arrived yet.", "options": ["They have already left.", "He hasn't arrived yet.", "She is still asleep."], "answer": 1},
-    {"fa": "بفرمایید، شیرینی میل کنید.", "r": "befarmāyid, shirini meyl konid.", "en": "Please have some pastries.", "options": ["Please have some pastries.", "Please sit down.", "Please don't go to any trouble."], "answer": 0},
-    {"fa": "عرض کردم که فردا خدمت می‌رسم.", "r": "arz kardam ke fardā khedmat mi-resam.", "en": "I said I would come and see you tomorrow.", "options": ["You said you would come tomorrow.", "He said he would call tomorrow.", "I said I would come and see you tomorrow."], "answer": 2},
-    {"fa": "با اجازه‌ی شما، مرخص می‌شوم.", "r": "bā ejāze-ye shomā, morakkhas mi-shavam.", "en": "With your permission, I'll take my leave.", "options": ["May I come in?", "With your permission, I'll take my leave.", "Please give me permission to speak."], "answer": 1}
+    {
+     "fa": "ایشان هنوز تشریف نیاورده‌اند.",
+     "r": "ishān hanuz tashrif na-yāvarde-and.",
+     "en": "He hasn't arrived yet.",
+     "options": [
+      "They have already left.",
+      "He hasn't arrived yet.",
+      "She is still asleep."
+     ],
+     "answer": 1,
+     "faV": "ایشان هَنوز تَشریف نَیاوَرده‌اَند.",
+     "a": "4b7a06bf497b"
+    },
+    {
+     "fa": "بفرمایید، شیرینی میل کنید.",
+     "r": "befarmāyid, shirini meyl konid.",
+     "en": "Please have some pastries.",
+     "options": [
+      "Please have some pastries.",
+      "Please sit down.",
+      "Please don't go to any trouble."
+     ],
+     "answer": 0,
+     "faV": "بِفَرمایید، شیرینی مَیل کُنید.",
+     "a": "b056d3a4250b"
+    },
+    {
+     "fa": "عرض کردم که فردا خدمت می‌رسم.",
+     "r": "arz kardam ke fardā khedmat mi-resam.",
+     "en": "I said I would come and see you tomorrow.",
+     "options": [
+      "You said you would come tomorrow.",
+      "He said he would call tomorrow.",
+      "I said I would come and see you tomorrow."
+     ],
+     "answer": 2,
+     "faV": "عَرض کَردَم که فَردا خِدمَت می‌رِسَم.",
+     "a": "415176bc271d"
+    },
+    {
+     "fa": "با اجازه‌ی شما، مرخص می‌شوم.",
+     "r": "bā ejāze-ye shomā, morakkhas mi-shavam.",
+     "en": "With your permission, I'll take my leave.",
+     "options": [
+      "May I come in?",
+      "With your permission, I'll take my leave.",
+      "Please give me permission to speak."
+     ],
+     "answer": 1,
+     "faV": "با اِجازه‌یِ شُما، مُرَخَّص می‌شَوَم.",
+     "a": "16cc6440aa27"
+    }
    ]
   }
- ]
+ ],
+ "titleV": "رَسمی و خودِمانی",
+ "titleA": "ba6ffea23309"
 }

@@ -367,10 +367,10 @@ Every spring the city also holds the نمایشگاه بین‌المللی کت
 
 **Put the words in order**
 
-1. رزومه‌ی / خواندم. / شما / را — I have read your CV.
-2. کنید؟ / می‌توانید / کی / شروع — When can you start?
-3. سال / کردم. / در / شرکت / کار / یک / دو — I worked at a company for two years.
-4. می‌خواهم / در / آینده / مترجم / شوم. — In the future I want to become a translator.
+1. شما / رزومه‌ی / خواندم. / را — I have read your CV.
+2. کنید؟ / شروع / می‌توانید / کی — When can you start?
+3. سال / شرکت / کردم. / دو / کار / در / یک — I worked at a company for two years.
+4. مترجم / می‌خواهم / آینده / در / شوم. — In the future I want to become a translator.
 
 <details><summary>Answers</summary>
 

@@ -1,0 +1,75 @@
+{
+ "id": "people-hafez",
+ "topic": "people",
+ "title": "Hafez",
+ "titleFa": "حافظ",
+ "titleR": "Hāfez",
+ "image": "hafez",
+ "summary": "Six hundred years after his death, Hafez is the poet Iranians quote, sing and consult about the future. Who he was, why his ghazals can be read in two ways at once, how the fāl works, and his tomb in Shiraz.",
+ "body": [
+  {
+   "h": "A poet of Shiraz",
+   "md": "Shams al-Din Mohammad, known as Hafez, was born in Shiraz around 1325 and spent nearly his whole life there. His pen-name, [[حافظ|hāfez|one who knows the Quran by heart]], says something about his education: in one poem he boasts that he can recite the Quran in fourteen different readings. He lived by teaching and by writing for the court, rising and falling with the rulers of a troubled century – the Inju princes, the Mozaffarids, and finally Timur, who took Shiraz in 1387.\n\nA later legend has the conqueror scolding the poet for offering Samarkand and Bukhara for the mole on his beloved's cheek; Hafez replies that such generosity is why he is so poor. He died in Shiraz in 1389 or 1390."
+  },
+  {
+   "h": "The Divan",
+   "md": "His [[دیوان|divān|collected poems]], gathered after his death, contains about 500 [[غزل|ghazal|lyrics]]. They are short, polished and full of double meanings. The same words – wine, the tavern, the beloved, the [[ساقی|sāghi|cupbearer]] – can be read as a love poem, a drinking song or a Sufi hymn to God, and Iranians have argued for six centuries about which he meant. Hafez also mocks hypocrites: the preacher who drinks in secret, the ascetic who makes a show of his piety. His hero is the [[رند|rend|free spirit, 'rogue']], who cares nothing for reputation.\n\nThe very first ghazal of the Divan sets the tone: [[که عشق آسان نمود اول ولی افتاد مشکل‌ها|ke 'eshgh āsān nemud avval vali oftād moshkel-hā|for love seemed easy at first, but then came the troubles]].",
+   "image": "divan-hafez"
+  },
+  {
+   "h": "Asking Hafez: the fāl",
+   "md": "Hafez is called [[لسان‌الغیب|lesān-ol-gheyb|the Tongue of the Unseen]], and many Iranians use his Divan to ask about the future. This is the [[فال حافظ|fāl-e Hāfez|Hafez divination]]: you make a wish or ask a question in your heart – your [[نیت|niyyat|intention]] – often addressing the poet by name, then open the book at random and read the ghazal on the page. Its meaning is your answer. A fāl is a must on Yalda, the longest night of the year, and at Nowruz, and in the streets of Tehran and Shiraz fortune-sellers have a small bird pick out a card printed with a verse.",
+   "image": "yalda"
+  },
+  {
+   "h": "Hafez and the world",
+   "md": "In 1812–13 the Austrian orientalist Joseph von Hammer-Purgstall published a German translation of the Divan. It so moved Goethe that he wrote his own *West-Eastern Divan* (1819), a book of poems in dialogue with Hafez. In Weimar a monument of two stone chairs facing each other, unveiled in 2000, honours the two poets. Hafez has since been translated into most major languages, though translators agree that his music and his double meanings are almost impossible to carry over."
+  },
+  {
+   "h": "The Hafezieh",
+   "md": "Hafez lies in a garden in the north of Shiraz, the [[حافظیه|Hāfeziyye|Hafezieh]]. Karim Khan Zand built a hall over the grave in the 18th century, and the present pavilion – eight columns under a copper dome shaped like a dervish's hat – was designed in 1935 by the French architect André Godard. In the evenings the garden fills with visitors who touch the alabaster tombstone, recite lines they know by heart and open the Divan for a fāl. 20 Mehr (around 12 October) is Hafez Day in Iran.",
+   "image": "tomb-of-hafez"
+  }
+ ],
+ "sentences": [
+  {"fa": "حافظ در قرن هشتم هجری در شیراز زندگی می‌کرد.", "r": "Hāfez dar gharn-e hashtom-e hejri dar Shirāz zendegi mi-kard.", "en": "Hafez lived in Shiraz in the eighth century of the Islamic calendar (the 14th century AD)."},
+  {"fa": "«حافظ» یعنی کسی که قرآن را از حفظ می‌داند.", "r": "«Hāfez» ya'ni kas-i ke Ghor'ān rā az hefz mi-dānad.", "en": "'Hafez' means someone who knows the Quran by heart."},
+  {"fa": "دیوان حافظ حدود پانصد غزل دارد.", "r": "divān-e Hāfez hodud-e pānsad ghazal dārad.", "en": "The Divan of Hafez has about five hundred ghazals."},
+  {"fa": "غزل‌های حافظ پر از رمز و راز است.", "r": "ghazal-hā-ye Hāfez por az ramz o rāz ast.", "en": "Hafez's ghazals are full of mystery."},
+  {"fa": "ایرانی‌ها با دیوان حافظ فال می‌گیرند.", "r": "irāni-hā bā divān-e Hāfez fāl mi-girand.", "en": "Iranians tell their fortunes with the Divan of Hafez."},
+  {"fa": "اول نیت می‌کنند و بعد کتاب را باز می‌کنند.", "r": "avval niyyat mi-konand va ba'd ketāb rā bāz mi-konand.", "en": "First they make a wish, and then they open the book."},
+  {"fa": "در شب یلدا خیلی‌ها فال حافظ می‌گیرند.", "r": "dar shab-e Yaldā kheyli-hā fāl-e Hāfez mi-girand.", "en": "On Yalda night many people consult Hafez."},
+  {"fa": "به حافظ «لسان‌الغیب» هم می‌گویند.", "r": "be Hāfez «Lesān-ol-gheyb» ham mi-guyand.", "en": "Hafez is also called 'the Tongue of the Unseen'."},
+  {"fa": "گوته، شاعر آلمانی، از حافظ الهام گرفت.", "r": "Gote, shā'er-e ālmāni, az Hāfez elhām gereft.", "en": "Goethe, the German poet, was inspired by Hafez."},
+  {"fa": "آرامگاه حافظ در باغی زیبا در شیراز است.", "r": "ārāmgāh-e Hāfez dar bāgh-i zibā dar Shirāz ast.", "en": "Hafez's tomb is in a beautiful garden in Shiraz."},
+  {"fa": "مردم شب‌ها کنار آرامگاه حافظ شعر می‌خوانند.", "r": "mardom shab-hā kenār-e ārāmgāh-e Hāfez she'r mi-khānand.", "en": "In the evenings people recite poetry by Hafez's tomb."},
+  {"fa": "در بسیاری از خانه‌های ایرانی یک دیوان حافظ هست.", "r": "dar besyāri az khāne-hā-ye irāni yek divān-e Hāfez hast.", "en": "There is a Divan of Hafez in many Iranian homes."}
+ ],
+ "vocab": [
+  {"fa": "دیوان", "r": "divān", "en": "collected poems of a poet"},
+  {"fa": "غزل", "r": "ghazal", "en": "ghazal, love lyric"},
+  {"fa": "فال", "r": "fāl", "en": "fortune, omen"},
+  {"fa": "فال گرفتن", "r": "fāl gereftan", "en": "to tell a fortune"},
+  {"fa": "نیت", "r": "niyyat", "en": "intention; a silent wish"},
+  {"fa": "از حفظ", "r": "az hefz", "en": "by heart"},
+  {"fa": "حفظ کردن", "r": "hefz kardan", "en": "to memorise; to protect"},
+  {"fa": "رمز", "r": "ramz", "en": "code, symbol; secret"},
+  {"fa": "راز", "r": "rāz", "en": "secret, mystery"},
+  {"fa": "عاشق", "r": "'āshegh", "en": "lover; in love"},
+  {"fa": "معشوق", "r": "ma'shugh", "en": "beloved"},
+  {"fa": "می", "r": "mey", "en": "wine (poetic)"},
+  {"fa": "ساقی", "r": "sāghi", "en": "cupbearer"},
+  {"fa": "میخانه", "r": "meykhāne", "en": "tavern"},
+  {"fa": "رند", "r": "rend", "en": "free spirit, 'rogue' (in poetry)"},
+  {"fa": "الهام", "r": "elhām", "en": "inspiration"}
+ ],
+ "facts": [
+  "Hafez was born in Shiraz around 1325 and died there in 1389 or 1390.",
+  "His Divan, about 500 ghazals, was collected after his death – traditionally by his friend Mohammad Golandam.",
+  "Hāfez is a title for anyone who has memorised the whole Quran.",
+  "Goethe's West-Eastern Divan (1819) was inspired by Hammer-Purgstall's German translation of Hafez.",
+  "The Goethe–Hafez monument in Weimar, unveiled in 2000, is a pair of stone chairs facing each other.",
+  "The present pavilion over his grave was designed in 1935 by the French architect André Godard.",
+  "20 Mehr (around 12 October) is Hafez Day in Iran."
+ ]
+}

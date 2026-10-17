@@ -1,7 +1,880 @@
 {
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "intro": "Real news, retold in simple Persian. Every story has the Farsi text sentence by sentence with transliteration, a natural English translation, the key words, and a short background note in English. Read the Farsi first, tap a sentence to hear it, then check yourself with the English.",
  "stories": [
+  {
+   "id": "2026-10-17-ai-ciphers",
+   "date": "2026-10-17",
+   "tag": "Technology",
+   "level": "B1",
+   "title": "AI breaks the code of a letter from Napoleon – and other old ciphers",
+   "titleFa": "هوش مصنوعی رمز نامه‌ای از ناپلئون و رمزهای قدیمی دیگر را شکست",
+   "titleR": "hush-e masnu'i ramz-e nāme-i az Nāpel'on o ramz-hā-ye ghadimi-ye digar rā shekast",
+   "source": "AFP / Taipei Times",
+   "url": "https://www.taipeitimes.com/News/world/archives/2026/10/17/2003866143",
+   "image": "behistun",
+   "sentences": [
+    {
+     "fa": "در سال ۱۸۰۹، ناپلئون برای یکی از ژنرال‌هایش نامه‌ای رمزی فرستاد.",
+     "r": "dar sāl-e hezār-o-hashtsad-o-noh, Nāpel'on barā-ye yeki az zhenerāl-hā-yash nāme-i ramzi ferestād.",
+     "en": "In 1809 Napoleon sent a coded letter to one of his generals."
+    },
+    {
+     "fa": "در این نامه، جای سربازان فرانسوی و متحدانشان با نشانه‌ها، عددها و حرف‌ها نوشته شده بود.",
+     "r": "dar in nāme, jā-ye sarbāzān-e farānsavi o mottahedān-eshān bā neshāne-hā, adad-hā o harf-hā neveshte shode bud.",
+     "en": "In the letter, the positions of the French soldiers and their allies were written in symbols, numbers and letters."
+    },
+    {
+     "fa": "بیش از دویست سال کسی نتوانسته بود این رمز را بخواند.",
+     "r": "bish az devist sāl kas-i na-tavānaste bud in ramz rā bekhānad.",
+     "en": "For more than two hundred years nobody had been able to read this code."
+    },
+    {
+     "fa": "کارتر چرچ، یک مهندس ۲۷ ساله در یک شرکت آمریکایی، رمز را با کمک هوش مصنوعی شکست.",
+     "r": "Kārter Charch, yek mohandes-e bist-o-haft sāle dar yek sherkat-e āmrikāyi, ramz rā bā komak-e hush-e masnu'i shekast.",
+     "en": "Carter Church, a 27-year-old engineer at an American company, broke the code with the help of artificial intelligence."
+    },
+    {
+     "fa": "او از تازه‌ترین مدل شرکت اوپن‌ای‌آی استفاده کرد و کار فقط شش ساعت طول کشید.",
+     "r": "u az tāze-tarin model-e sherkat-e Open-ey-āy estefāde kard o kār faghat shesh sā'at tul keshid.",
+     "en": "He used OpenAI's newest model, and the work took only six hours."
+    },
+    {
+     "fa": "ساتوشی توموکیو، مهندسی ژاپنی، فهرستی از رمزهای حل‌نشده‌ی تاریخ را نگه می‌دارد.",
+     "r": "Sātoshi Tomokiyo, mohandes-i zhāponi, fehrest-i az ramz-hā-ye hal-na-shode-ye tārikh rā negah mi-dārad.",
+     "en": "Satoshi Tomokiyo, a Japanese engineer, keeps a list of history's unsolved codes."
+    },
+    {
+     "fa": "به گفته‌ی او، از نیمه‌ی سپتامبر بیشتر رمزهای این فهرست با هوش مصنوعی حل شده‌اند.",
+     "r": "be gofte-ye u, az nime-ye septāmbr bishtar-e ramz-hā-ye in fehrest bā hush-e masnu'i hal shode-and.",
+     "en": "According to him, since mid-September most of the codes on this list have been solved with AI."
+    },
+    {
+     "fa": "توموکیو می‌گوید احساس دوگانه‌ای دارد، چون هوش مصنوعی این مسئله‌های سخت را خیلی آسان حل کرد.",
+     "r": "Tomokiyo mi-guyad ehsās-e dogāne-i dārad, chon hush-e masnu'i in mas'ale-hā-ye sakht rā kheyli āsān hal kard.",
+     "en": "Tomokiyo says he has mixed feelings, because AI solved these hard problems so easily."
+    },
+    {
+     "fa": "یکی از رمزشکن‌های دیگر به او گفته است: «احساس می‌کنم دیگر به درد نمی‌خورم.»",
+     "r": "yeki az ramz-shekan-hā-ye digar be u gofte ast: «ehsās mi-konam digar be dard nemi-khoram.»",
+     "en": "Another code-breaker told him: \"I feel useless.\""
+    },
+    {
+     "fa": "هوش مصنوعی حالا به خواندن دست‌نوشته‌های قدیمی و طومارهای سوخته‌ی دوران روم هم کمک می‌کند.",
+     "r": "hush-e masnu'i hālā be khāndan-e dast-neveshte-hā-ye ghadimi o tumār-hā-ye sukhte-ye dowrān-e Rum ham komak mi-konad.",
+     "en": "AI is now also helping to read old manuscripts and burnt scrolls from Roman times."
+    }
+   ],
+   "vocab": [
+    {
+     "fa": "هوش مصنوعی",
+     "r": "hush-e masnu'i",
+     "en": "artificial intelligence"
+    },
+    {
+     "fa": "رمز",
+     "r": "ramz",
+     "en": "code, cipher; password"
+    },
+    {
+     "fa": "رمزی",
+     "r": "ramzi",
+     "en": "coded, secret"
+    },
+    {
+     "fa": "سرباز",
+     "r": "sarbāz",
+     "en": "soldier"
+    },
+    {
+     "fa": "متحد",
+     "r": "mottahed",
+     "en": "ally"
+    },
+    {
+     "fa": "نشانه",
+     "r": "neshāne",
+     "en": "sign, symbol"
+    },
+    {
+     "fa": "مهندس",
+     "r": "mohandes",
+     "en": "engineer"
+    },
+    {
+     "fa": "فهرست",
+     "r": "fehrest",
+     "en": "list"
+    },
+    {
+     "fa": "حل کردن",
+     "r": "hal kardan",
+     "en": "to solve"
+    },
+    {
+     "fa": "احساس دوگانه",
+     "r": "ehsās-e dogāne",
+     "en": "mixed feelings"
+    },
+    {
+     "fa": "به درد خوردن",
+     "r": "be dard khordan",
+     "en": "to be useful"
+    },
+    {
+     "fa": "دست‌نوشته",
+     "r": "dast-neveshte",
+     "en": "manuscript"
+    }
+   ],
+   "why": "Historical ciphers – letters written in secret symbols by kings, generals and spies – have long been a puzzle for amateur code-breakers. According to AFP, the newest AI models have solved most of the ciphers on Satoshi Tomokiyo's online list in about a month; AI is also reading the scrolls of Herculaneum, carbonised by Vesuvius in AD 79, and transcribing millions of pages of medieval manuscripts. Iran has a famous decipherment of its own: Darius the Great's inscription at Bisotun (pictured) helped 19th-century scholars to read cuneiform. Persian هوش مصنوعی (hush-e masnu'i) is literally 'man-made intelligence', and رمز (ramz) means both 'code' and 'password'.",
+   "questions": [
+    {
+     "q": "How long did it take to break Napoleon's code with AI?",
+     "options": [
+      "six hours",
+      "six weeks",
+      "two hundred years"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Why does Satoshi Tomokiyo have mixed feelings?",
+     "options": [
+      "the AI made many mistakes",
+      "the AI solved hard problems so easily",
+      "the letter was lost"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-pezeshkian-yerevan",
+   "date": "2026-10-16",
+   "tag": "World",
+   "level": "B1",
+   "title": "Pezeshkian in Yerevan: the war in the region is 'ecocide'",
+   "titleFa": "پزشکیان در ایروان: جنگ منطقه «نسل‌کشی زیست‌محیطی» است",
+   "titleR": "Pezeshkiān dar Iravān: jang-e mantaghe «nasl-koshi-ye zist-mohiti» ast",
+   "source": "AFP / Dawn",
+   "url": "https://www.dawn.com/news/2037759/irans-president-says-mideast-conflict-amounts-to-ecocide",
+   "image": "iran-flag",
+   "sentences": [
+    {
+     "fa": "مسعود پزشکیان، رئیس‌جمهور ایران، روز جمعه به ایروان، پایتخت ارمنستان، رفت.",
+     "r": "Mas'ud Pezeshkiān, ra'is-jomhur-e Irān, ruz-e jom'e be Iravān, pāytakht-e Armanestān, raft.",
+     "en": "Masoud Pezeshkian, Iran's president, travelled on Friday to Yerevan, the capital of Armenia."
+    },
+    {
+     "fa": "او در نشست سران کنفرانس تنوع زیستی سازمان ملل سخنرانی کرد.",
+     "r": "u dar neshast-e sarān-e konferāns-e tanavvo'-e zisti-ye sāzmān-e melal sokhanrāni kard.",
+     "en": "He spoke at the leaders' summit of the UN biodiversity conference."
+    },
+    {
+     "fa": "پزشکیان گفت جنگ‌ها در غزه و دیگر نقاط منطقه به طبیعت آسیب زیادی زده‌اند.",
+     "r": "Pezeshkiān goft jang-hā dar Ghazze o digar noghāt-e mantaghe be tabi'at āsib-e ziyād-i zade-and.",
+     "en": "Pezeshkian said the wars in Gaza and elsewhere in the region have done great damage to nature."
+    },
+    {
+     "fa": "به گفته‌ی او، این آسیب‌ها محدود به مرز کشورها نیستند و راه‌حل بین‌المللی لازم دارند.",
+     "r": "be gofte-ye u, in āsib-hā mahdud be marz-e keshvar-hā nistand o rāh-hal-e beyn-ol-melali lāzem dārand.",
+     "en": "According to him, this damage does not stop at national borders and needs international solutions."
+    },
+    {
+     "fa": "او این وضع را «نسل‌کشی زیست‌محیطی» نامید و گفت باید محکوم شود.",
+     "r": "u in vaz' rā «nasl-koshi-ye zist-mohiti» nāmid o goft bāyad mahkum shavad.",
+     "en": "He called the situation \"ecocide\" – \"environmental genocide\" – and said it must be condemned."
+    },
+    {
+     "fa": "رئیس‌جمهور ایران بار دیگر گفت ایران به دنبال سلاح هسته‌ای نیست.",
+     "r": "ra'is-jomhur-e Irān bār-e digar goft Irān be donbāl-e selāh-e haste-i nist.",
+     "en": "Iran's president said once again that Iran is not seeking nuclear weapons."
+    },
+    {
+     "fa": "او گفت: «ما همیشه برای گفت‌وگو آماده بوده‌ایم.»",
+     "r": "u goft: «mā hamishe barā-ye goft-o-gu āmāde bude-im.»",
+     "en": "He said: \"We have always been ready for dialogue.\""
+    },
+    {
+     "fa": "پزشکیان تحریم‌های آمریکا را «توجیه‌ناپذیر و غیرانسانی» خواند.",
+     "r": "Pezeshkiān tahrim-hā-ye Āmrikā rā «towjih-nāpazir o gheyr-ensāni» khānd.",
+     "en": "Pezeshkian called the US sanctions \"unjustifiable and inhumane\"."
+    },
+    {
+     "fa": "او در حاشیه‌ی نشست با نخست‌وزیر گرجستان هم دیدار کرد.",
+     "r": "u dar hāshiye-ye neshast bā nokhost-vazir-e Gorjestān ham didār kard.",
+     "en": "On the sidelines of the summit he also met the prime minister of Georgia."
+    }
+   ],
+   "vocab": [
+    {
+     "fa": "نشست سران",
+     "r": "neshast-e sarān",
+     "en": "summit (literally 'meeting of the heads')"
+    },
+    {
+     "fa": "سخنرانی کردن",
+     "r": "sokhanrāni kardan",
+     "en": "to give a speech"
+    },
+    {
+     "fa": "طبیعت",
+     "r": "tabi'at",
+     "en": "nature"
+    },
+    {
+     "fa": "آسیب",
+     "r": "āsib",
+     "en": "damage, harm"
+    },
+    {
+     "fa": "مرز",
+     "r": "marz",
+     "en": "border"
+    },
+    {
+     "fa": "راه‌حل",
+     "r": "rāh-hal",
+     "en": "solution"
+    },
+    {
+     "fa": "زیست‌محیطی",
+     "r": "zist-mohiti",
+     "en": "environmental"
+    },
+    {
+     "fa": "محکوم کردن",
+     "r": "mahkum kardan",
+     "en": "to condemn"
+    },
+    {
+     "fa": "سلاح هسته‌ای",
+     "r": "selāh-e haste-i",
+     "en": "nuclear weapon"
+    },
+    {
+     "fa": "گفت‌وگو",
+     "r": "goft-o-gu",
+     "en": "dialogue, conversation"
+    },
+    {
+     "fa": "در حاشیه‌ی",
+     "r": "dar hāshiye-ye",
+     "en": "on the sidelines of"
+    },
+    {
+     "fa": "دیدار کردن",
+     "r": "didār kardan",
+     "en": "to meet (officially)"
+    }
+   ],
+   "why": "The war that began with US and Israeli strikes in February 2026 has hit oil installations, ports and shipping across the region. Pezeshkian spoke on 16 October at a leaders' meeting in Yerevan ahead of the UN biodiversity conference (COP17), which UN Secretary-General António Guterres also attended. Iran and the United States are still negotiating indirectly, and President Trump has said there will be no US strikes before the 3 November midterm elections. Persian builds its word for 'ecocide' from نسل 'generation', کشی 'killing' and زیست‌محیطی 'environmental'.",
+   "questions": [
+    {
+     "q": "Where did Pezeshkian speak on Friday?",
+     "options": [
+      "at the UN in New York",
+      "at a UN biodiversity summit in Yerevan",
+      "in Tehran"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What did he say about nuclear weapons?",
+     "options": [
+      "Iran is not seeking them",
+      "Iran will build them soon",
+      "he did not talk about them"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Whom did he meet on the sidelines of the summit?",
+     "options": [
+      "the prime minister of Georgia",
+      "the president of the United States",
+      "the king of Saudi Arabia"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-cop17-nature-money",
+   "date": "2026-10-16",
+   "tag": "Environment",
+   "level": "B1",
+   "title": "Ahead of the Yerevan summit, the money to protect nature falls short",
+   "titleFa": "پیش از نشست ایروان، پول کافی برای حفاظت از طبیعت جمع نشده است",
+   "titleR": "pish az neshast-e Iravān, pul-e kāfi barā-ye hefāzat az tabi'at jam' na-shode ast",
+   "source": "AP / PBS NewsHour",
+   "url": "https://www.pbs.org/newshour/amp/world/fundraising-to-protect-key-natural-sites-falls-short-ahead-of-un-biodiversity-summit",
+   "image": "hyrcanian-forests",
+   "sentences": [
+    {
+     "fa": "کنفرانس تنوع زیستی سازمان ملل روز دوشنبه در ایروان، پایتخت ارمنستان، آغاز می‌شود.",
+     "r": "konferāns-e tanavvo'-e zisti-ye sāzmān-e melal ruz-e doshanbe dar Iravān, pāytakht-e Armanestān, āghāz mi-shavad.",
+     "en": "The UN biodiversity conference opens on Monday in Yerevan, the capital of Armenia."
+    },
+    {
+     "fa": "نزدیک به دویست کشور عضو این پیمان هستند؛ آمریکا عضو نیست.",
+     "r": "nazdik be devist keshvar ozv-e in peymān hastand; Āmrikā ozv nist.",
+     "en": "Nearly two hundred countries are members of this treaty; the United States is not."
+    },
+    {
+     "fa": "کشورها در سال ۲۰۲۲ در مونترال قول دادند تا سال ۲۰۳۰ از سی درصد خشکی‌ها و دریاهای جهان حفاظت کنند.",
+     "r": "keshvar-hā dar sāl-e do-hezār-o-bist-o-do dar Montrāl ghowl dādand tā sāl-e do-hezār-o-si az si darsad-e khoshki-hā o daryā-hā-ye jahān hefāzat konand.",
+     "en": "In Montreal in 2022, countries promised to protect thirty percent of the world's land and seas by 2030."
+    },
+    {
+     "fa": "آن‌ها همچنین قول دادند تا سال ۲۰۳۰ هر سال دویست میلیارد دلار برای طبیعت جمع کنند.",
+     "r": "ān-hā hamchenin ghowl dādand tā sāl-e do-hezār-o-si har sāl devist milyārd dolār barā-ye tabi'at jam' konand.",
+     "en": "They also promised to raise two hundred billion dollars a year for nature by 2030."
+    },
+    {
+     "fa": "طبق آمار سازمان همکاری و توسعه‌ی اقتصادی، کشورها هنوز کمتر از نصف این پول را جمع کرده‌اند.",
+     "r": "tebgh-e āmār-e sāzmān-e hamkāri va towse'e-ye eghtesādi, keshvar-hā hanuz kamtar az nesf-e in pul rā jam' karde-and.",
+     "en": "According to OECD figures, countries have so far raised less than half of this money."
+    },
+    {
+     "fa": "یک گزارش تازه‌ی سازمان ملل می‌گوید کمتر از نیمی از هدف‌های کشورها در مسیر درست هستند.",
+     "r": "yek gozāresh-e tāze-ye sāzmān-e melal mi-guyad kamtar az nimi az hadaf-hā-ye keshvar-hā dar masir-e dorost hastand.",
+     "en": "A new UN report says fewer than half of the countries' targets are on track."
+    },
+    {
+     "fa": "با برنامه‌های فعلی، تا سال ۲۰۳۰ فقط ۲۶ درصد خشکی‌ها و ۱۲ درصد دریاها حفاظت می‌شوند.",
+     "r": "bā barnāme-hā-ye fe'li, tā sāl-e do-hezār-o-si faghat bist-o-shesh darsad-e khoshki-hā o davāzdah darsad-e daryā-hā hefāzat mi-shavand.",
+     "en": "With current plans, only 26 percent of the land and 12 percent of the seas will be protected by 2030."
+    },
+    {
+     "fa": "آسترید شوماکر، دبیر اجرایی این پیمان، گفت: «ما به اندازه‌ی کافی سریع پیش نمی‌رویم.»",
+     "r": "Āstrid Shumāker, dabir-e ejrāyi-ye in peymān, goft: «mā be andāze-ye kāfi sari' pish nemi-ravim.»",
+     "en": "Astrid Schomaker, the treaty's executive secretary, said: \"We're not moving fast enough.\""
+    },
+    {
+     "fa": "به گزارش صندوق جهانی طبیعت، جمعیت حیوانات وحشی از سال ۱۹۷۰ تا ۲۰۲۲ به‌طور میانگین ۷۳ درصد کم شده است.",
+     "r": "be gozāresh-e sandugh-e jahāni-ye tabi'at, jam'iyat-e heyvānāt-e vahshi az sāl-e hezār-o-nohsad-o-haftād tā do-hezār-o-bist-o-do be-towr-e miyāngin haftād-o-se darsad kam shode ast.",
+     "en": "According to WWF, wildlife populations fell by an average of 73 percent between 1970 and 2022."
+    },
+    {
+     "fa": "روز جمعه هفده کشور گروهی تازه برای کمک به گونه‌های در خطر تشکیل دادند.",
+     "r": "ruz-e jom'e hefdah keshvar goruh-i tāze barā-ye komak be gune-hā-ye dar khatar tashkil dādand.",
+     "en": "On Friday seventeen countries formed a new group to help endangered species."
+    }
+   ],
+   "vocab": [
+    {
+     "fa": "تنوع زیستی",
+     "r": "tanavvo'-e zisti",
+     "en": "biodiversity"
+    },
+    {
+     "fa": "پیمان",
+     "r": "peymān",
+     "en": "treaty, pact"
+    },
+    {
+     "fa": "عضو",
+     "r": "ozv",
+     "en": "member"
+    },
+    {
+     "fa": "قول دادن",
+     "r": "ghowl dādan",
+     "en": "to promise"
+    },
+    {
+     "fa": "خشکی",
+     "r": "khoshki",
+     "en": "land (as opposed to sea)"
+    },
+    {
+     "fa": "حفاظت",
+     "r": "hefāzat",
+     "en": "protection"
+    },
+    {
+     "fa": "میلیارد",
+     "r": "milyārd",
+     "en": "billion"
+    },
+    {
+     "fa": "نصف",
+     "r": "nesf",
+     "en": "half"
+    },
+    {
+     "fa": "هدف",
+     "r": "hadaf",
+     "en": "target, goal"
+    },
+    {
+     "fa": "حیوانات وحشی",
+     "r": "heyvānāt-e vahshi",
+     "en": "wild animals, wildlife"
+    },
+    {
+     "fa": "گونه",
+     "r": "gune",
+     "en": "species"
+    },
+    {
+     "fa": "در خطر",
+     "r": "dar khatar",
+     "en": "in danger, endangered"
+    }
+   ],
+   "why": "The UN Convention on Biological Diversity (1992) has 196 parties; the United States signed it but never ratified it. In Montreal in 2022 countries agreed 23 targets for 2030, including '30 by 30' – protecting 30% of land and sea – and COP17 in Yerevan (19–30 October) reviews the progress. According to AP, rich countries were close to their 2025 goal of $20 billion a year in nature aid for poorer countries, but cuts in foreign aid raise doubts. Armenia is Iran's northern neighbour; the two share a short border along the Aras river. Persian تنوع زیستی (tanavvo'-e zisti) is literally 'variety of life', and گونه (gune) means both 'species' and 'cheek'.",
+   "questions": [
+    {
+     "q": "What did countries promise in Montreal in 2022?",
+     "options": [
+      "to protect 30% of the world's land and seas by 2030",
+      "to plant a tree for every person",
+      "to close all factories"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "How much of the promised money have countries raised so far?",
+     "options": [
+      "all of it",
+      "more than half",
+      "less than half"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "According to WWF, how much did wildlife populations fall between 1970 and 2022?",
+     "options": [
+      "7 percent",
+      "37 percent",
+      "73 percent"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-iran-daily-life",
+   "date": "2026-10-16",
+   "tag": "Society",
+   "level": "A2",
+   "title": "Everyday life in Iran: everything has become more expensive",
+   "titleFa": "زندگی روزمره در ایران: همه‌چیز گران‌تر شده است",
+   "titleR": "zendegi-ye ruzmarre dar Irān: hame-chiz gerān-tar shode ast",
+   "source": "Newsweek",
+   "url": "https://www.newsweek.com/iran-economic-crisis-us-war-ordinary-life-12574822",
+   "image": "tajrish-bazaar",
+   "sentences": [
+    {
+     "fa": "حمله‌ها به ایران فعلاً متوقف شده‌اند، اما زندگی هنوز سخت است.",
+     "r": "hamle-hā be Irān fe'lan motevaghghef shode-and, ammā zendegi hanuz sakht ast.",
+     "en": "The attacks on Iran have stopped for now, but life is still hard."
+    },
+    {
+     "fa": "مجله‌ی نیوزویک با پنج ایرانی درباره‌ی زندگی روزمره‌شان گفت‌وگو کرده است.",
+     "r": "majalle-ye Nyuzvik bā panj irāni dar-bāre-ye zendegi-ye ruzmarre-shān goft-o-gu karde ast.",
+     "en": "Newsweek magazine has talked with five Iranians about their everyday lives."
+    },
+    {
+     "fa": "مریم، مادری ۵۳ ساله، می‌گوید همه‌چیز از قبل گران‌تر است.",
+     "r": "Maryam, mādar-i panjāh-o-se sāle, mi-guyad hame-chiz az ghabl gerān-tar ast.",
+     "en": "Maryam, a 53-year-old mother, says everything costs more than before."
+    },
+    {
+     "fa": "در محله‌ی او، یک مغازه‌دار به کسانی که پول ندارند، چیزهای ضروری را بدون پرداخت می‌دهد.",
+     "r": "dar mahalle-ye u, yek maghāze-dār be kasān-i ke pul na-dārand, chiz-hā-ye zaruri rā bedun-e pardākht mi-dahad.",
+     "en": "In her neighbourhood, a shopkeeper lets people who have no money take essentials without paying."
+    },
+    {
+     "fa": "همسایه‌ها و دوستان هم وقتی پول کم است، به هم کمک می‌کنند.",
+     "r": "hamsāye-hā o dustān ham vaghti pul kam ast, be ham komak mi-konand.",
+     "en": "Neighbours and friends also help each other when money is short."
+    },
+    {
+     "fa": "مریم خوشحال است که مدرسه‌ها دوباره باز شده‌اند.",
+     "r": "Maryam khoshhāl ast ke madrese-hā dobāre bāz shode-and.",
+     "en": "Maryam is glad that the schools have opened again."
+    },
+    {
+     "fa": "رضا در اصفهان کسب‌وکار دارد و برای دیدن مشتری‌هایش در دبی باید از راه ترکیه برود.",
+     "r": "Rezā dar Esfahān kasb-o-kār dārad o barā-ye didan-e moshtari-hā-yash dar Dobey bāyad az rāh-e Torkiye beravad.",
+     "en": "Reza has a business in Isfahan, and to see his customers in Dubai he has to travel via Turkey."
+    },
+    {
+     "fa": "کارمندان علی در شیراز حقوق بیشتری می‌خواهند، چون دیگر نمی‌توانند چیزهای لازم را بخرند.",
+     "r": "kārmandān-e Ali dar Shirāz hoghugh-e bishtar-i mi-khāhand, chon digar nemi-tavānand chiz-hā-ye lāzem rā bekharand.",
+     "en": "Ali's employees in Shiraz want higher pay, because they can no longer afford the things they need."
+    }
+   ],
+   "vocab": [
+    {
+     "fa": "زندگی روزمره",
+     "r": "zendegi-ye ruzmarre",
+     "en": "everyday life"
+    },
+    {
+     "fa": "گران",
+     "r": "gerān",
+     "en": "expensive"
+    },
+    {
+     "fa": "محله",
+     "r": "mahalle",
+     "en": "neighbourhood"
+    },
+    {
+     "fa": "مغازه‌دار",
+     "r": "maghāze-dār",
+     "en": "shopkeeper"
+    },
+    {
+     "fa": "ضروری",
+     "r": "zaruri",
+     "en": "essential, necessary"
+    },
+    {
+     "fa": "پرداخت",
+     "r": "pardākht",
+     "en": "payment"
+    },
+    {
+     "fa": "همسایه",
+     "r": "hamsāye",
+     "en": "neighbour"
+    },
+    {
+     "fa": "خوشحال",
+     "r": "khoshhāl",
+     "en": "glad, happy"
+    },
+    {
+     "fa": "کسب‌وکار",
+     "r": "kasb-o-kār",
+     "en": "business"
+    },
+    {
+     "fa": "مشتری",
+     "r": "moshtari",
+     "en": "customer, client"
+    },
+    {
+     "fa": "کارمند",
+     "r": "kārmand",
+     "en": "employee"
+    }
+   ],
+   "why": "On 8 October President Trump said the United States would not strike Iran before the 3 November midterm elections, but the US naval blockade of Iranian ports goes on, and the war is now felt mostly through prices: Iran's Statistical Centre put year-on-year inflation at almost 90% in September. Newsweek gives only the first names of the five people it spoke to. Notice how Persian builds everyday words: مغازه‌دار (maghāze-dār) is 'shopkeeper', literally 'shop-having', and کسب‌وکار (kasb-o-kār, 'earning and work') is a business.",
+   "questions": [
+    {
+     "q": "What does the shopkeeper in Maryam's neighbourhood do?",
+     "options": [
+      "closes the shop early",
+      "lets people without money take essentials without paying",
+      "sells only bread"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Why do Ali's employees want higher pay?",
+     "options": [
+      "they can no longer afford the things they need",
+      "they want to travel to Dubai",
+      "they work at night"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "How does Reza get to his customers in Dubai?",
+     "options": [
+      "by ship",
+      "via Turkey",
+      "he no longer goes"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "2026-10-15-leap-second",
+   "date": "2026-10-15",
+   "tag": "Science",
+   "level": "A2",
+   "title": "The world says goodbye to the leap second",
+   "titleFa": "جهان با «ثانیه‌ی کبیسه» خداحافظی می‌کند",
+   "titleR": "jahān bā «sāniye-ye kabise» khodāhāfezi mi-konad",
+   "source": "Euronews / CTV News",
+   "url": "https://uk.news.yahoo.com/global-timekeeping-rules-change-leap-165417260.html",
+   "image": "tabriz",
+   "sentences": [
+    {
+     "fa": "زمین هر روز یک بار دور خودش می‌چرخد، اما سرعتش همیشه یکسان نیست.",
+     "r": "zamin har ruz yek bār dowr-e khod-ash mi-charkhad, ammā sor'at-ash hamishe yeksān nist.",
+     "en": "The Earth turns once on its axis every day, but its speed is not always the same."
+    },
+    {
+     "fa": "ساعت‌های اتمی زمان را بسیار دقیق اندازه می‌گیرند.",
+     "r": "sā'at-hā-ye atomi zamān rā besyār daghigh andāze mi-girand.",
+     "en": "Atomic clocks measure time very precisely."
+    },
+    {
+     "fa": "گاهی یک «ثانیه‌ی کبیسه» به ساعت جهانی اضافه می‌شد تا ساعت‌ها با زمین هماهنگ بمانند.",
+     "r": "gāhi yek «sāniye-ye kabise» be sā'at-e jahāni ezāfe mi-shod tā sā'at-hā bā zamin hamāhang bemānand.",
+     "en": "From time to time a \"leap second\" was added to world time, so that the clocks stayed in step with the Earth."
+    },
+    {
+     "fa": "از سال ۱۹۷۲ تا حالا، این کار ۲۷ بار انجام شده است.",
+     "r": "az sāl-e hezār-o-nohsad-o-haftād-o-do tā hālā, in kār bist-o-haft bār anjām shode ast.",
+     "en": "Since 1972 this has been done 27 times."
+    },
+    {
+     "fa": "روز پنج‌شنبه، نمایندگان کشورها در ورسای فرانسه رأی دادند که این کار تمام شود.",
+     "r": "ruz-e panj-shanbe, namāyandegān-e keshvar-hā dar Versāy-e Farānse ra'y dādand ke in kār tamām shavad.",
+     "en": "On Thursday, representatives of many countries voted in Versailles, France, to end the practice."
+    },
+    {
+     "fa": "از ماه مه ۲۰۲۷ دیگر ثانیه‌ی کبیسه اضافه نمی‌شود.",
+     "r": "az māh-e meh-e do-hezār-o-bist-o-haft digar sāniye-ye kabise ezāfe nemi-shavad.",
+     "en": "From May 2027 no more leap seconds will be added."
+    },
+    {
+     "fa": "به گفته‌ی کارشناسان، ثانیه‌ی کبیسه برای رایانه‌ها، شبکه‌ها و ماهواره‌ها مشکل درست می‌کرد.",
+     "r": "be gofte-ye kārshenāsān, sāniye-ye kabise barā-ye rāyāne-hā, shabake-hā o māhvāre-hā moshkel dorost mi-kard.",
+     "en": "According to experts, the leap second caused problems for computers, networks and satellites."
+    },
+    {
+     "fa": "حالا اختلاف ساعت‌ها با چرخش زمین می‌تواند تا یک ساعت بزرگ شود، اما رسیدن به این اختلاف شاید هزاران سال طول بکشد.",
+     "r": "hālā ekhtelāf-e sā'at-hā bā charkhesh-e zamin mi-tavānad tā yek sā'at bozorg shavad, ammā residan be in ekhtelāf shāyad hezārān sāl tul bekeshad.",
+     "en": "Now the gap between the clocks and the Earth's rotation may grow to as much as an hour, but reaching that could take thousands of years."
+    }
+   ],
+   "vocab": [
+    {
+     "fa": "زمین",
+     "r": "zamin",
+     "en": "the Earth; ground"
+    },
+    {
+     "fa": "چرخیدن",
+     "r": "charkhidan",
+     "en": "to turn, spin"
+    },
+    {
+     "fa": "سرعت",
+     "r": "sor'at",
+     "en": "speed"
+    },
+    {
+     "fa": "یکسان",
+     "r": "yeksān",
+     "en": "the same, equal"
+    },
+    {
+     "fa": "ساعت اتمی",
+     "r": "sā'at-e atomi",
+     "en": "atomic clock"
+    },
+    {
+     "fa": "دقیق",
+     "r": "daghigh",
+     "en": "precise, exact"
+    },
+    {
+     "fa": "ثانیه",
+     "r": "sāniye",
+     "en": "second"
+    },
+    {
+     "fa": "کبیسه",
+     "r": "kabise",
+     "en": "leap (as in leap year)"
+    },
+    {
+     "fa": "هماهنگ",
+     "r": "hamāhang",
+     "en": "in step, coordinated"
+    },
+    {
+     "fa": "نماینده",
+     "r": "namāyande",
+     "en": "representative, delegate"
+    },
+    {
+     "fa": "ماهواره",
+     "r": "māhvāre",
+     "en": "satellite"
+    },
+    {
+     "fa": "اختلاف",
+     "r": "ekhtelāf",
+     "en": "difference, gap"
+    }
+   ],
+   "why": "Clock time (UTC) is kept by atomic clocks, but the length of a day depends on the Earth's spin, which changes slightly. Since 1972, 27 leap seconds have been added to keep the two together, the last at the end of 2016. Lately the Earth has been spinning a little faster, which raised the possibility of the first-ever 'negative' leap second – and since that has never been done, nobody knew how well computer systems would cope. On 15 October the General Conference on Weights and Measures, meeting in Versailles, voted to stop adding leap seconds from 20 May 2027 and to let the gap grow, up to an hour. In Persian, سال کبیسه (sāl-e kabise) is a leap year – in the Iranian calendar, the year in which Esfand has 30 days instead of 29.",
+   "questions": [
+    {
+     "q": "How many times has a leap second been added since 1972?",
+     "options": [
+      "seven",
+      "twenty-seven",
+      "seventy-two"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "From when will no more leap seconds be added?",
+     "options": [
+      "from next week",
+      "from May 2027",
+      "from the year 3000"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "2026-10-15-busan-majidi",
+   "date": "2026-10-15",
+   "tag": "Culture",
+   "level": "A2",
+   "title": "Busan's top prize goes to Majid Majidi's new film",
+   "titleFa": "جایزه‌ی بزرگ جشنواره‌ی بوسان به فیلم مجید مجیدی رسید",
+   "titleR": "jāyeze-ye bozorg-e jashnvāre-ye Busān be film-e Majid Majidi resid",
+   "source": "AFP / The Express Tribune",
+   "url": "https://tribune.com.pk/story/2635052/irans-midday-meal-takes-top-prize-at-asias-biggest-film-festival",
+   "image": "iranian-cinema",
+   "sentences": [
+    {
+     "fa": "جشنواره‌ی فیلم بوسان در کره‌ی جنوبی، بزرگ‌ترین جشنواره‌ی فیلم در آسیا است.",
+     "r": "jashnvāre-ye film-e Busān dar Kore-ye Jonubi, bozorg-tarin jashnvāre-ye film dar Āsiyā ast.",
+     "en": "The Busan film festival in South Korea is the biggest film festival in Asia."
+    },
+    {
+     "fa": "این جشنواره روز پنج‌شنبه به پایان رسید.",
+     "r": "in jashnvāre ruz-e panj-shanbe be pāyān resid.",
+     "en": "The festival ended on Thursday."
+    },
+    {
+     "fa": "جایزه‌ی بهترین فیلم به «غذای نیمروز» ساخته‌ی مجید مجیدی رسید.",
+     "r": "jāyeze-ye behtarin film be «ghazā-ye nimruz» sākhte-ye Majid Majidi resid.",
+     "en": "The prize for best film went to \"Midday Meal\", made by Majid Majidi."
+    },
+    {
+     "fa": "داستان فیلم درباره‌ی معلمی در یک روستای فقیر است.",
+     "r": "dāstān-e film dar-bāre-ye mo'allem-i dar yek rustā-ye faghir ast.",
+     "en": "The film is about a teacher in a poor village."
+    },
+    {
+     "fa": "او برای این‌که مدرسه‌اش باز بماند، به قاچاق رو می‌آورد.",
+     "r": "u barā-ye in-ke madrese-ash bāz bemānad, be ghāchāgh ru mi-āvarad.",
+     "en": "To keep his school open, he turns to smuggling."
+    },
+    {
+     "fa": "به گفته‌ی ژانگ ییمو، رئیس داوران، همه‌ی داوران به این فیلم رأی دادند.",
+     "r": "be gofte-ye Zhāng Yimu, ra'is-e dāvarān, hame-ye dāvarān be in film ra'y dādand.",
+     "en": "According to Zhang Yimou, the head of the jury, all the jurors voted for this film."
+    },
+    {
+     "fa": "مجیدی از مادرش تشکر کرد که چند ماه پیش از ساخت فیلم درگذشت.",
+     "r": "Majidi az mādar-ash tashakkor kard ke chand māh pish az sākht-e film dargozasht.",
+     "en": "Majidi thanked his mother, who died a few months before the film was made."
+    },
+    {
+     "fa": "او در پایان گفت آرزو دارد دنیایی بدون جنگ ببیند.",
+     "r": "u dar pāyān goft ārezu dārad donyā-yi bedun-e jang bebinad.",
+     "en": "At the end he said he wishes to see a world without war."
+    }
+   ],
+   "vocab": [
+    {
+     "fa": "بهترین",
+     "r": "behtarin",
+     "en": "best"
+    },
+    {
+     "fa": "داستان",
+     "r": "dāstān",
+     "en": "story"
+    },
+    {
+     "fa": "روستا",
+     "r": "rustā",
+     "en": "village"
+    },
+    {
+     "fa": "فقیر",
+     "r": "faghir",
+     "en": "poor"
+    },
+    {
+     "fa": "قاچاق",
+     "r": "ghāchāgh",
+     "en": "smuggling"
+    },
+    {
+     "fa": "رو آوردن به",
+     "r": "ru āvardan be",
+     "en": "to turn to"
+    },
+    {
+     "fa": "داور",
+     "r": "dāvar",
+     "en": "juror, judge (of a contest)"
+    },
+    {
+     "fa": "رأی دادن",
+     "r": "ra'y dādan",
+     "en": "to vote"
+    },
+    {
+     "fa": "تشکر کردن",
+     "r": "tashakkor kardan",
+     "en": "to thank"
+    },
+    {
+     "fa": "درگذشتن",
+     "r": "dargozashtan",
+     "en": "to pass away"
+    },
+    {
+     "fa": "آرزو داشتن",
+     "r": "ārezu dāshtan",
+     "en": "to wish, hope"
+    }
+   ],
+   "why": "Majid Majidi (born 1959) is one of Iran's best-known directors; his Children of Heaven (بچه‌های آسمان, 1997) was the first Iranian film nominated for an Oscar. According to AFP, the win in Busan makes Midday Meal eligible for the Oscar for best international feature film; some Korean reports translate its title as 'Bread and Books'. The Persian title, غذای نیمروز (ghazā-ye nimruz), uses the literary word نیمروز 'midday' – نیم 'half' and روز 'day'; in everyday speech you would say ظهر (zohr).",
+   "questions": [
+    {
+     "q": "What is the film about?",
+     "options": [
+      "a football team",
+      "a teacher in a poor village",
+      "a family in Tehran"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How many of the jurors voted for the film?",
+     "options": [
+      "all of them",
+      "half of them",
+      "none of them"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What does Majidi wish for?",
+     "options": [
+      "a bigger cinema",
+      "a world without war",
+      "a new school"
+     ],
+     "answer": 1
+    }
+   ]
+  },
   {
    "id": "2026-10-16-oil-hormuz",
    "date": "2026-10-16",

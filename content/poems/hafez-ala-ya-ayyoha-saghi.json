@@ -1,118 +1,330 @@
 {
-  "id": "hafez-ala-ya-ayyoha-saghi",
-  "poet": "Hafez",
-  "poetFa": "حافظ",
-  "work": "Divan",
-  "century": "14th",
-  "title": "Come, cupbearer",
-  "titleFa": "الا یا ایها الساقی",
-  "titleR": "alā yā ayyoh as-sāghi",
-  "form": "ghazal",
-  "intro": "Hafez of Shiraz (about 1315–1390) is the best-loved poet of Iran: his *Divan*, about 500 ghazals gathered after his death, is in almost every Iranian home. The poems are arranged by the last letter of their rhyme, so a ghazal rhyming in *alef* comes first – and this is the one that opens the book. It begins and ends in Arabic. An old story, probably a legend, says the first half-line was borrowed from a verse by the Umayyad caliph Yazid, the most hated man in Shi'i history, and a later poet imagined Hafez answering in a dream that an unbeliever's goods are lawful for a believer to take. In seven couplets the poem moves from the tavern to a dark night at sea, and from a love that 'seemed easy at first' to the poet's advice to himself.",
-  "lines": [
-    {
-      "fa": "الا یا ایها الساقی ادر کأساً و ناولها / که عشق آسان نمود اول ولی افتاد مشکل‌ها",
-      "r": "alā yā ayyoh as-sāghi ader ka'san va nāvelhā / ke 'eshgh āsān nemud avval vali oftād moshkel-hā",
-      "en": "Come, cupbearer, pass the cup round and hand it to me, / for love seemed easy at first, but then came the troubles.",
-      "note": "The first half-line is Arabic, recited *alā yā ayyohas-sāghi ader ka'san va nāvelhā* – 'Ho, cupbearer! Pass a cup round and hand it over.' In the Persian half, نمود means 'seemed', not 'showed'.",
-      "words": [
-        ["الا یا ایها الساقی", "alā yā ayyohas-sāghi", "ho, O cupbearer! (Arabic)"],
-        ["ادر کأساً", "ader ka'san", "pass a cup round (Arabic)"],
-        ["و ناولها", "va nāvelhā", "and hand it over (Arabic)"],
-        ["آسان نمودن", "āsān nemudan", "to seem easy (نمودن 'to seem, to appear')"],
-        ["اول", "avval", "at first"],
-        ["افتاد", "oftād", "fell; here 'came about, happened'"],
-        ["مشکل‌ها", "moshkel-hā", "difficulties, troubles"]
-      ]
-    },
-    {
-      "fa": "به بوی نافه‌ای کاخر صبا زان طره بگشاید / ز تاب جعد مشکینش چه خون افتاد در دل‌ها",
-      "r": "be bu-ye nāfe-i kākhar sabā zān torre begshāyad / ze tāb-e ja'd-e moshkin-ash che khun oftād dar del-hā",
-      "en": "Waiting for the musk the east wind will at last shake loose from that lock of hair, / how many hearts have bled at the twist of those musky curls!",
-      "note": "نافه is the musk pod of the musk deer; the beloved's dark, scented hair is compared to it. صبا *sabā*, the morning breeze from the east, carries scents and messages between lovers all through Hafez.",
-      "words": [
-        ["به بوی", "be bu-ye", "in hope of (lit. 'for the scent of')"],
-        ["نافه", "nāfe", "musk pod"],
-        ["کاخر", "kākhar", "that in the end – که + آخر"],
-        ["صبا", "sabā", "the east wind, the morning breeze"],
-        ["طره", "torre", "lock of hair, forelock"],
-        ["جعد", "ja'd", "curl"],
-        ["مشکین", "moshkin", "musky, black as musk"]
-      ]
-    },
-    {
-      "fa": "مرا در منزل جانان چه امن عیش چون هر دم / جرس فریاد می‌دارد که بربندید محمل‌ها",
-      "r": "marā dar manzel-e jānān che amn-e 'eysh chon har dam / jaras faryād mi-dārad ke barbandid mahmel-hā",
-      "en": "What peace can I enjoy at my beloved's house, when every moment / the caravan bell cries out: 'Tie on the litters, we are moving on!'",
-      "words": [
-        ["منزل", "manzel", "stopping place on a journey; house"],
-        ["جانان", "jānān", "the beloved"],
-        ["امن عیش", "amn-e 'eysh", "peaceful enjoyment"],
-        ["هر دم", "har dam", "every moment"],
-        ["جرس", "jaras", "the bell of a caravan"],
-        ["بربستن", "bar bastan", "to tie on, to load"],
-        ["محمل", "mahmel", "a litter carried by a camel"]
-      ]
-    },
-    {
-      "fa": "به می سجاده رنگین کن گرت پیر مغان گوید / که سالک بی‌خبر نبود ز راه و رسم منزل‌ها",
-      "r": "be mey sajjāde rangin kon gar-at pir-e moghān guyad / ke sālek bi-khabar nabvad ze rāh o rasm-e manzel-hā",
-      "en": "Stain your prayer rug with wine if the old Magian master tells you to, / for one who travels the path knows its ways and its stations.",
-      "note": "In Hafez the *pir-e moghān*, the old Zoroastrian who keeps the tavern, stands for a spiritual guide who knows more than the official preachers. The couplet is a famous provocation: obey the true master, even if he tells you to stain the prayer rug.",
-      "words": [
-        ["سجاده", "sajjāde", "prayer rug"],
-        ["رنگین کردن", "rangin kardan", "to colour, to stain"],
-        ["گرت", "gar-at", "if … you – گر + ـت; the ـت belongs to the verb: 'if he tells you'"],
-        ["پیر مغان", "pir-e moghān", "the old master of the Magians, the tavern keeper"],
-        ["سالک", "sālek", "traveller on the (Sufi) path"],
-        ["نبود", "nabvad", "is not – the old present of بودن (today نیست)"],
-        ["راه و رسم", "rāh o rasm", "ways and customs"]
-      ]
-    },
-    {
-      "fa": "شب تاریک و بیم موج و گردابی چنین هایل / کجا دانند حال ما سبکباران ساحل‌ها",
-      "r": "shab-e tārik o bim-e mowj o gerdābi chonin hāyel / kojā dānand hāl-e mā sabokbārān-e sāhel-hā",
-      "en": "A dark night, the fear of the waves and a whirlpool so terrible – / how could those who stroll lightly on the shore know how we fare?",
-      "words": [
-        ["تاریک", "tārik", "dark"],
-        ["بیم", "bim", "fear, dread"],
-        ["موج", "mowj", "wave"],
-        ["گرداب", "gerdāb", "whirlpool"],
-        ["هایل", "hāyel", "terrifying (Arabic; also spelled هائل)"],
-        ["سبکبار", "sabokbār", "lightly laden, carefree"],
-        ["ساحل", "sāhel", "shore"]
-      ]
-    },
-    {
-      "fa": "همه کارم ز خودکامی به بدنامی کشید آخر / نهان کی ماند آن رازی کز او سازند محفل‌ها",
-      "r": "hame kār-am ze khodkāmi be badnāmi keshid ākhar / nahān key mānad ān rāzi kaz u sāzand mahfel-hā",
-      "en": "Doing as I pleased, I ended up with a bad name; / how can a secret stay hidden when people gather to talk about it?",
-      "words": [
-        ["همه کارم", "hame kār-am", "all my affairs, everything I did"],
-        ["خودکامی", "khodkāmi", "following one's own desires, wilfulness"],
-        ["بدنامی", "badnāmi", "a bad name, disgrace"],
-        ["کشیدن به", "keshidan be", "to lead to, to end in"],
-        ["کی", "key", "when?; here 'how could…?'"],
-        ["کز او", "kaz u", "that from it – که + از او"],
-        ["محفل", "mahfel", "gathering, party"]
-      ]
-    },
-    {
-      "fa": "حضوری گر همی‌خواهی از او غایب مشو حافظ / متی ما تلق من تهوی دع الدنیا و اهملها",
-      "r": "hozuri gar hami-khāhi az u ghāyeb masho hāfez / matā mā talgha man tahvā da' ed-donyā va ahmelhā",
-      "en": "If you want to be in his presence, Hafez, do not be absent from him: / when you meet the one you love, leave the world and let it go.",
-      "note": "The last half-line is Arabic again, recited *matā mā talgha man tahvā da'ed-donyā va ahmelhā* – 'whenever you meet the one you desire, leave the world and neglect it'. Hafez names himself in the last couplet of nearly every ghazal; this signature is called the تخلص *takhallos*.",
-      "words": [
-        ["حضور", "hozur", "presence"],
-        ["گر", "gar", "if – short for اگر"],
-        ["همی‌خواهی", "hami-khāhi", "you want – همی is the old form of می‌"],
-        ["غایب", "ghāyeb", "absent"],
-        ["مشو", "masho", "do not become – the old negative imperative (today نشو)"],
-        ["متی ما تلق من تهوی", "matā mā talgha man tahvā", "whenever you meet the one you love (Arabic)"],
-        ["دع الدنیا و اهملها", "da'ed-donyā va ahmelhā", "leave the world and neglect it (Arabic)"]
-      ]
-    }
-  ],
-  "commentary": "**The images.** Hafez braids three worlds together. There is the tavern: the cupbearer, the wine, the old Magian master, a prayer rug stained red. There is the beloved, whose musky curls make lovers' hearts bleed. And there is the journey: the caravan bell that will not let anyone rest, the night sea with its whirlpool. All three say the same thing – love looked easy at the start, and it is not. Read one way, the beloved is God and the wine is the joy of being near him; read another, this is simply a lover's poem. Hafez never lets you settle on one reading for good, and that is half of his charm.\n\n**The rhythm.** The ghazal is in *hazaj*, the commonest metre of Persian: four even steps to the half-line, *da-DUM-DUM-DUM* four times over. You can hear it in the first Persian words of the poem: *ke 'esh-ghā-sān ne-mud av-val*. Every couplet ends in the same rhyme – [[ناولها|nāvelhā]], [[مشکل‌ها|moshkel-hā]], [[دل‌ها|del-hā]], [[محمل‌ها|mahmel-hā]] – so that the Persian plural [[ها|-hā]] rhymes with the Arabic [[ها|-hā]] 'it'.\n\n**The grammar.** Two Arabic half-lines frame the poem, but the Persian between them is close to today's. Look for [[ز|ze]] for [[از|az]], [[گر|gar]] for [[اگر|agar]], [[کز|kaz]] for [[که از|ke az]], [[همی‌خواهی|hami-khāhi]] for [[می‌خواهی|mi-khāhi]], [[مشو|masho]] for [[نشو|nasho]] and [[نبود|nabvad]] for [[نیست|nist]]. In [[گرت پیر مغان گوید|gar-at pir-e moghān guyad]] the little [[ـت|-at]] 'you' hangs on the first word of the clause but belongs to the verb: 'if the old master tells you'. Couplet 6 in modern prose: [[سرانجام همه‌ی کارهایم از خودکامی به بدنامی کشید؛ رازی که درباره‌اش محفل‌ها می‌سازند چطور پنهان می‌ماند؟|saranjām hame-ye kār-hā-yam az khodkāmi be badnāmi keshid; rāzi ke darbāre-ash mahfel-hā mi-sāzand chetowr penhān mi-mānad?]]\n\n**Using it.** Iranians open the *Divan* at random to take a *fāl*, an omen, especially on Yalda, the longest night of the year – and whoever opens it at the first page meets this ghazal. [[عشق آسان نمود اول ولی افتاد مشکل‌ها|'eshgh āsān nemud avval vali oftād moshkel-hā]] is said of any plan that turned out harder than it looked, and [[سبکباران ساحل‌ها|sabokbārān-e sāhel-hā]] of people who judge a struggle from a safe distance.",
-  "image": "divan-hafez"
+ "id": "hafez-ala-ya-ayyoha-saghi",
+ "poet": "Hafez",
+ "poetFa": "حافظ",
+ "work": "Divan",
+ "century": "14th",
+ "title": "Come, cupbearer",
+ "titleFa": "الا یا ایها الساقی",
+ "titleR": "alā yā ayyoh as-sāghi",
+ "form": "ghazal",
+ "intro": "Hafez of Shiraz (about 1315–1390) is the best-loved poet of Iran: his *Divan*, about 500 ghazals gathered after his death, is in almost every Iranian home. The poems are arranged by the last letter of their rhyme, so a ghazal rhyming in *alef* comes first – and this is the one that opens the book. It begins and ends in Arabic. An old story, probably a legend, says the first half-line was borrowed from a verse by the Umayyad caliph Yazid, the most hated man in Shi'i history, and a later poet imagined Hafez answering in a dream that an unbeliever's goods are lawful for a believer to take. In seven couplets the poem moves from the tavern to a dark night at sea, and from a love that 'seemed easy at first' to the poet's advice to himself.",
+ "lines": [
+  {
+   "fa": "الا یا ایها الساقی ادر کأساً و ناولها / که عشق آسان نمود اول ولی افتاد مشکل‌ها",
+   "r": "alā yā ayyoh as-sāghi ader ka'san va nāvelhā / ke 'eshgh āsān nemud avval vali oftād moshkel-hā",
+   "en": "Come, cupbearer, pass the cup round and hand it to me, / for love seemed easy at first, but then came the troubles.",
+   "note": "The first half-line is Arabic, recited *alā yā ayyohas-sāghi ader ka'san va nāvelhā* – 'Ho, cupbearer! Pass a cup round and hand it over.' In the Persian half, نمود means 'seemed', not 'showed'.",
+   "words": [
+    [
+     "الا یا ایها الساقی",
+     "alā yā ayyohas-sāghi",
+     "ho, O cupbearer! (Arabic)"
+    ],
+    [
+     "ادر کأساً",
+     "ader ka'san",
+     "pass a cup round (Arabic)"
+    ],
+    [
+     "و ناولها",
+     "va nāvelhā",
+     "and hand it over (Arabic)"
+    ],
+    [
+     "آسان نمودن",
+     "āsān nemudan",
+     "to seem easy (نمودن 'to seem, to appear')"
+    ],
+    [
+     "اول",
+     "avval",
+     "at first"
+    ],
+    [
+     "افتاد",
+     "oftād",
+     "fell; here 'came about, happened'"
+    ],
+    [
+     "مشکل‌ها",
+     "moshkel-hā",
+     "difficulties, troubles"
+    ]
+   ],
+   "faV": "اَلا یا اَیُّها اَلسّاقی اَدِر کَأساً و ناوِلها / که عِشق آسان نِمود اَوَّل وَلی اُفتاد مُشکِل‌ها",
+   "a": "3a1fda6b14da"
+  },
+  {
+   "fa": "به بوی نافه‌ای کاخر صبا زان طره بگشاید / ز تاب جعد مشکینش چه خون افتاد در دل‌ها",
+   "r": "be bu-ye nāfe-i kākhar sabā zān torre begshāyad / ze tāb-e ja'd-e moshkin-ash che khun oftād dar del-hā",
+   "en": "Waiting for the musk the east wind will at last shake loose from that lock of hair, / how many hearts have bled at the twist of those musky curls!",
+   "note": "نافه is the musk pod of the musk deer; the beloved's dark, scented hair is compared to it. صبا *sabā*, the morning breeze from the east, carries scents and messages between lovers all through Hafez.",
+   "words": [
+    [
+     "به بوی",
+     "be bu-ye",
+     "in hope of (lit. 'for the scent of')"
+    ],
+    [
+     "نافه",
+     "nāfe",
+     "musk pod"
+    ],
+    [
+     "کاخر",
+     "kākhar",
+     "that in the end – که + آخر"
+    ],
+    [
+     "صبا",
+     "sabā",
+     "the east wind, the morning breeze"
+    ],
+    [
+     "طره",
+     "torre",
+     "lock of hair, forelock"
+    ],
+    [
+     "جعد",
+     "ja'd",
+     "curl"
+    ],
+    [
+     "مشکین",
+     "moshkin",
+     "musky, black as musk"
+    ]
+   ],
+   "faV": "به بویِ نافه‌ای کاخَر صَبا زان طُرّه بِگشایَد / ز تابِ جَعدِ مُشکینَش چه خون اُفتاد دَر دِل‌ها",
+   "a": "5d35a67865e8"
+  },
+  {
+   "fa": "مرا در منزل جانان چه امن عیش چون هر دم / جرس فریاد می‌دارد که بربندید محمل‌ها",
+   "r": "marā dar manzel-e jānān che amn-e 'eysh chon har dam / jaras faryād mi-dārad ke barbandid mahmel-hā",
+   "en": "What peace can I enjoy at my beloved's house, when every moment / the caravan bell cries out: 'Tie on the litters, we are moving on!'",
+   "words": [
+    [
+     "منزل",
+     "manzel",
+     "stopping place on a journey; house"
+    ],
+    [
+     "جانان",
+     "jānān",
+     "the beloved"
+    ],
+    [
+     "امن عیش",
+     "amn-e 'eysh",
+     "peaceful enjoyment"
+    ],
+    [
+     "هر دم",
+     "har dam",
+     "every moment"
+    ],
+    [
+     "جرس",
+     "jaras",
+     "the bell of a caravan"
+    ],
+    [
+     "بربستن",
+     "bar bastan",
+     "to tie on, to load"
+    ],
+    [
+     "محمل",
+     "mahmel",
+     "a litter carried by a camel"
+    ]
+   ],
+   "faV": "مَرا دَر مَنزِلِ جانان چه اَمنِ عَیش چون هَر دَم / جَرَس فَریاد می‌دارَد که بَربَندید مَحمِل‌ها",
+   "a": "86f64a403e34"
+  },
+  {
+   "fa": "به می سجاده رنگین کن گرت پیر مغان گوید / که سالک بی‌خبر نبود ز راه و رسم منزل‌ها",
+   "r": "be mey sajjāde rangin kon gar-at pir-e moghān guyad / ke sālek bi-khabar nabvad ze rāh o rasm-e manzel-hā",
+   "en": "Stain your prayer rug with wine if the old Magian master tells you to, / for one who travels the path knows its ways and its stations.",
+   "note": "In Hafez the *pir-e moghān*, the old Zoroastrian who keeps the tavern, stands for a spiritual guide who knows more than the official preachers. The couplet is a famous provocation: obey the true master, even if he tells you to stain the prayer rug.",
+   "words": [
+    [
+     "سجاده",
+     "sajjāde",
+     "prayer rug"
+    ],
+    [
+     "رنگین کردن",
+     "rangin kardan",
+     "to colour, to stain"
+    ],
+    [
+     "گرت",
+     "gar-at",
+     "if … you – گر + ـت; the ـت belongs to the verb: 'if he tells you'"
+    ],
+    [
+     "پیر مغان",
+     "pir-e moghān",
+     "the old master of the Magians, the tavern keeper"
+    ],
+    [
+     "سالک",
+     "sālek",
+     "traveller on the (Sufi) path"
+    ],
+    [
+     "نبود",
+     "nabvad",
+     "is not – the old present of بودن (today نیست)"
+    ],
+    [
+     "راه و رسم",
+     "rāh o rasm",
+     "ways and customs"
+    ]
+   ],
+   "faV": "به مَی سَجّاده رَنگین کُن گَرَت پیرِ مُغان گویَد / که سالِک بی‌خَبَر نَبوَد ز راه و رَسمِ مَنزِل‌ها",
+   "a": "a8468910eb92"
+  },
+  {
+   "fa": "شب تاریک و بیم موج و گردابی چنین هایل / کجا دانند حال ما سبکباران ساحل‌ها",
+   "r": "shab-e tārik o bim-e mowj o gerdābi chonin hāyel / kojā dānand hāl-e mā sabokbārān-e sāhel-hā",
+   "en": "A dark night, the fear of the waves and a whirlpool so terrible – / how could those who stroll lightly on the shore know how we fare?",
+   "words": [
+    [
+     "تاریک",
+     "tārik",
+     "dark"
+    ],
+    [
+     "بیم",
+     "bim",
+     "fear, dread"
+    ],
+    [
+     "موج",
+     "mowj",
+     "wave"
+    ],
+    [
+     "گرداب",
+     "gerdāb",
+     "whirlpool"
+    ],
+    [
+     "هایل",
+     "hāyel",
+     "terrifying (Arabic; also spelled هائل)"
+    ],
+    [
+     "سبکبار",
+     "sabokbār",
+     "lightly laden, carefree"
+    ],
+    [
+     "ساحل",
+     "sāhel",
+     "shore"
+    ]
+   ],
+   "faV": "شَبِ تاریک و بیمِ مَوج و گِردابی چُنین هایِل / کُجا دانَند حالِ ما سَبُکبارانِ ساحِل‌ها",
+   "a": "60507e37541c"
+  },
+  {
+   "fa": "همه کارم ز خودکامی به بدنامی کشید آخر / نهان کی ماند آن رازی کز او سازند محفل‌ها",
+   "r": "hame kār-am ze khodkāmi be badnāmi keshid ākhar / nahān key mānad ān rāzi kaz u sāzand mahfel-hā",
+   "en": "Doing as I pleased, I ended up with a bad name; / how can a secret stay hidden when people gather to talk about it?",
+   "words": [
+    [
+     "همه کارم",
+     "hame kār-am",
+     "all my affairs, everything I did"
+    ],
+    [
+     "خودکامی",
+     "khodkāmi",
+     "following one's own desires, wilfulness"
+    ],
+    [
+     "بدنامی",
+     "badnāmi",
+     "a bad name, disgrace"
+    ],
+    [
+     "کشیدن به",
+     "keshidan be",
+     "to lead to, to end in"
+    ],
+    [
+     "کی",
+     "key",
+     "when?; here 'how could…?'"
+    ],
+    [
+     "کز او",
+     "kaz u",
+     "that from it – که + از او"
+    ],
+    [
+     "محفل",
+     "mahfel",
+     "gathering, party"
+    ]
+   ],
+   "faV": "هَمه کارَم ز خودکامی به بَدنامی کِشید آخَر / نَهان کَی مانَد آن رازی کَز او سازَند مَحفِل‌ها",
+   "a": "4dde44c35183"
+  },
+  {
+   "fa": "حضوری گر همی‌خواهی از او غایب مشو حافظ / متی ما تلق من تهوی دع الدنیا و اهملها",
+   "r": "hozuri gar hami-khāhi az u ghāyeb masho hāfez / matā mā talgha man tahvā da' ed-donyā va ahmelhā",
+   "en": "If you want to be in his presence, Hafez, do not be absent from him: / when you meet the one you love, leave the world and let it go.",
+   "note": "The last half-line is Arabic again, recited *matā mā talgha man tahvā da'ed-donyā va ahmelhā* – 'whenever you meet the one you desire, leave the world and neglect it'. Hafez names himself in the last couplet of nearly every ghazal; this signature is called the تخلص *takhallos*.",
+   "words": [
+    [
+     "حضور",
+     "hozur",
+     "presence"
+    ],
+    [
+     "گر",
+     "gar",
+     "if – short for اگر"
+    ],
+    [
+     "همی‌خواهی",
+     "hami-khāhi",
+     "you want – همی is the old form of می‌"
+    ],
+    [
+     "غایب",
+     "ghāyeb",
+     "absent"
+    ],
+    [
+     "مشو",
+     "masho",
+     "do not become – the old negative imperative (today نشو)"
+    ],
+    [
+     "متی ما تلق من تهوی",
+     "matā mā talgha man tahvā",
+     "whenever you meet the one you love (Arabic)"
+    ],
+    [
+     "دع الدنیا و اهملها",
+     "da'ed-donyā va ahmelhā",
+     "leave the world and neglect it (Arabic)"
+    ]
+   ],
+   "faV": "حُضوری گَر هَمی‌خواهی اَز او غایِب مَشو حافِظ / مَتی ما تَلقَ مَن تَهوی دَع اِلدُّنیا و اَهمِلها",
+   "a": "7ad7d68b4550"
+  }
+ ],
+ "commentary": "**The images.** Hafez braids three worlds together. There is the tavern: the cupbearer, the wine, the old Magian master, a prayer rug stained red. There is the beloved, whose musky curls make lovers' hearts bleed. And there is the journey: the caravan bell that will not let anyone rest, the night sea with its whirlpool. All three say the same thing – love looked easy at the start, and it is not. Read one way, the beloved is God and the wine is the joy of being near him; read another, this is simply a lover's poem. Hafez never lets you settle on one reading for good, and that is half of his charm.\n\n**The rhythm.** The ghazal is in *hazaj*, the commonest metre of Persian: four even steps to the half-line, *da-DUM-DUM-DUM* four times over. You can hear it in the first Persian words of the poem: *ke 'esh-ghā-sān ne-mud av-val*. Every couplet ends in the same rhyme – [[ناولها|nāvelhā]], [[مشکل‌ها|moshkel-hā]], [[دل‌ها|del-hā]], [[محمل‌ها|mahmel-hā]] – so that the Persian plural [[ها|-hā]] rhymes with the Arabic [[ها|-hā]] 'it'.\n\n**The grammar.** Two Arabic half-lines frame the poem, but the Persian between them is close to today's. Look for [[ز|ze]] for [[از|az]], [[گر|gar]] for [[اگر|agar]], [[کز|kaz]] for [[که از|ke az]], [[همی‌خواهی|hami-khāhi]] for [[می‌خواهی|mi-khāhi]], [[مشو|masho]] for [[نشو|nasho]] and [[نبود|nabvad]] for [[نیست|nist]]. In [[گرت پیر مغان گوید|gar-at pir-e moghān guyad]] the little [[ـت|-at]] 'you' hangs on the first word of the clause but belongs to the verb: 'if the old master tells you'. Couplet 6 in modern prose: [[سرانجام همه‌ی کارهایم از خودکامی به بدنامی کشید؛ رازی که درباره‌اش محفل‌ها می‌سازند چطور پنهان می‌ماند؟|saranjām hame-ye kār-hā-yam az khodkāmi be badnāmi keshid; rāzi ke darbāre-ash mahfel-hā mi-sāzand chetowr penhān mi-mānad?]]\n\n**Using it.** Iranians open the *Divan* at random to take a *fāl*, an omen, especially on Yalda, the longest night of the year – and whoever opens it at the first page meets this ghazal. [[عشق آسان نمود اول ولی افتاد مشکل‌ها|'eshgh āsān nemud avval vali oftād moshkel-hā]] is said of any plan that turned out harder than it looked, and [[سبکباران ساحل‌ها|sabokbārān-e sāhel-hā]] of people who judge a struggle from a safe distance.",
+ "image": "divan-hafez",
+ "titleV": "اَلا یا اَیُّها اَلسّاقی",
+ "titleA": "beb35de4752f"
 }

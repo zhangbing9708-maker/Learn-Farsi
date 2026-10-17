@@ -357,10 +357,10 @@ And at bedtime, Iranian mothers and grandmothers still sing the old lullaby that
 
 **Put the words in order**
 
-1. بچه / مینا / ساعت / نه / خواباند. / را — Mina put the baby to sleep at nine.
-2. همسایه‌ها / دیشب / بخوابیم. / نگذاشتند — The neighbours didn't let us sleep last night.
-3. فرودگاه / رساند. / مرا / برادرم / به — My brother drove me to the airport.
-4. داد. / آشپزی / مادربزرگم / من / به / یاد — My grandmother taught me to cook.
+1. مینا / ساعت / نه / بچه / را / خواباند. — Mina put the baby to sleep at nine.
+2. دیشب / همسایه‌ها / نگذاشتند / بخوابیم. — The neighbours didn't let us sleep last night.
+3. فرودگاه / به / مرا / رساند. / برادرم — My brother drove me to the airport.
+4. به / آشپزی / یاد / داد. / مادربزرگم / من — My grandmother taught me to cook.
 
 <details><summary>Answers</summary>
 

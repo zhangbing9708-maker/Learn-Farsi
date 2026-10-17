@@ -1,252 +1,686 @@
 {
-  "id": "rumi-ney-name",
-  "poet": "Rumi",
-  "poetFa": "مولوی",
-  "work": "Masnavi",
-  "century": "13th",
-  "title": "The Song of the Reed",
-  "titleFa": "نی‌نامه",
-  "titleR": "ney-nāme",
-  "form": "masnavi (rhyming couplets)",
-  "intro": "Jalal al-Din Rumi (1207–1273), born in Balkh and settled in Konya in Anatolia, spent the last fifteen years of his life dictating the *Masnavi-ye Ma'navi* ('Spiritual Couplets') to his disciple Hosam al-Din Chalabi: six books and some 26,000 couplets of stories, teaching and jokes. Iranians call it simply the *Masnavi*, and its first eighteen couplets, the *Ney-nāme* or 'Song of the Reed', are the most famous lines in it. An old story says Rumi already had them written on a slip of paper in his turban when Hosam al-Din asked him for a book. The reed flute, the *ney*, was cut from its reed bed, and every note it plays is a lament for home; readers have always heard in it the soul, cut off from its source and longing to go back.",
-  "lines": [
-    {
-      "fa": "بشنو این نی چون شکایت می‌کند / از جدایی‌ها حکایت می‌کند",
-      "r": "beshnow in ney chon shekāyat mi-konad / az jodāyi-hā hekāyat mi-konad",
-      "en": "Listen to this reed, how it complains, / how it tells the story of separations.",
-      "note": "The best-known form of this line, quoted everywhere and printed in many popular editions, is «بشنو از نی چون حکایت می‌کند / از جدایی‌ها شکایت می‌کند» *beshnow az ney chon hekāyat mi-konad / az jodāyi-hā shekāyat mi-konad* – 'listen to the reed, how it tells its tale, / how it complains of separations'. Nicholson's edition, following the oldest manuscripts, has «بشنو این نی چون شکایت می‌کند», with 'complaint' and 'tale' the other way round.",
-      "words": [
-        ["بشنو", "beshnow", "listen! – imperative of شنیدن (today usually said beshno)"],
-        ["نی", "ney", "reed; the reed flute"],
-        ["چون", "chon", "how (here); also 'when, like, because'"],
-        ["شکایت کردن", "shekāyat kardan", "to complain, to lament"],
-        ["جدایی‌ها", "jodāyi-hā", "separations, partings"],
-        ["حکایت کردن", "hekāyat kardan", "to tell (a story)"]
-      ]
-    },
-    {
-      "fa": "کز نیستان تا مرا ببریده‌اند / در نفیرم مرد و زن نالیده‌اند",
-      "r": "kaz neyestān tā marā bobride-and / dar nafir-am mard o zan nālide-and",
-      "en": "'Ever since they cut me from the reed bed, / men and women have wept at my cry.'",
-      "note": "Some editions read «از نفیرم» *az nafir-am* 'at my cry'. From this couplet on, the reed itself is speaking.",
-      "words": [
-        ["کز", "kaz", "that from – که + از; here 'since'"],
-        ["نیستان", "neyestān", "reed bed (نی + ـستان 'place of')"],
-        ["تا", "tā", "ever since (here)"],
-        ["ببریده‌اند", "bobride-and", "they have cut (old ب- prefix + بریدن)"],
-        ["نفیر", "nafir", "cry, wail; the blast of a horn"],
-        ["نالیدن", "nālidan", "to moan, to lament"]
-      ]
-    },
-    {
-      "fa": "سینه خواهم شرحه شرحه از فراق / تا بگویم شرح درد اشتیاق",
-      "r": "sine khāham sharhe sharhe az ferāgh / tā beguyam sharh-e dard-e eshtiyāgh",
-      "en": "'I want a breast torn to shreds by parting, / so that I can tell the pain of longing in full.'",
-      "lit": "a breast I want, strip by strip from separation, so that I tell the explanation of the pain of longing",
-      "note": "A play on two words that look alike: شرحه *sharhe* 'a strip of flesh' and شرح *sharh* 'a full account'.",
-      "words": [
-        ["سینه", "sine", "breast, chest"],
-        ["خواهم", "khāham", "I want – no می‌ in the classical present"],
-        ["شرحه شرحه", "sharhe sharhe", "torn in strips, in shreds"],
-        ["فراق", "ferāgh", "separation (from the beloved)"],
-        ["شرح", "sharh", "explanation, a full account"],
-        ["اشتیاق", "eshtiyāgh", "longing, yearning"]
-      ]
-    },
-    {
-      "fa": "هر کسی کو دور ماند از اصل خویش / باز جوید روزگار وصل خویش",
-      "r": "har kasi ku dur mānd az asl-e khish / bāz juyad ruzgār-e vasl-e khish",
-      "en": "'Whoever is left far from their origin / longs to find again the days of union.'",
-      "words": [
-        ["کو", "ku", "who – که + او"],
-        ["ماند", "mānd", "remained, was left (past of ماندن)"],
-        ["اصل", "asl", "root, origin"],
-        ["خویش", "khish", "one's own – the same as خود"],
-        ["باز جستن", "bāz jostan", "to seek again"],
-        ["روزگار وصل", "ruzgār-e vasl", "the time of union"]
-      ]
-    },
-    {
-      "fa": "من به هر جمعیتی نالان شدم / جفت بدحالان و خوش‌حالان شدم",
-      "r": "man be har jam'iyyati nālān shodam / joft-e bad-hālān o khosh-hālān shodam",
-      "en": "'I have wept in every company; / I have kept company with the unhappy and the happy.'",
-      "words": [
-        ["جمعیت", "jam'iyyat", "gathering, a company of people (today 'population')"],
-        ["نالان", "nālān", "moaning, lamenting"],
-        ["جفت", "joft", "pair, companion"],
-        ["بدحال", "bad-hāl", "in a bad way, unhappy"],
-        ["خوش‌حال", "khosh-hāl", "happy"]
-      ]
-    },
-    {
-      "fa": "هر کسی از ظن خود شد یار من / از درون من نجست اسرار من",
-      "r": "har kasi az zann-e khod shod yār-e man / az darun-e man najost asrār-e man",
-      "en": "'Everyone became my friend through their own guesswork; / no one looked for the secrets within me.'",
-      "words": [
-        ["ظن", "zann", "guess, opinion (Arabic)"],
-        ["یار", "yār", "friend, companion"],
-        ["درون", "darun", "inside, the inner self"],
-        ["نجست", "najost", "did not seek (past of جستن)"],
-        ["اسرار", "asrār", "secrets (Arabic plural of سر)"]
-      ]
-    },
-    {
-      "fa": "سر من از ناله‌ی من دور نیست / لیک چشم و گوش را آن نور نیست",
-      "r": "serr-e man az nāle-ye man dur nist / lik cheshm o gush rā ān nur nist",
-      "en": "'My secret is not far from my lament, / but eye and ear do not have the light to find it.'",
-      "words": [
-        ["سر", "serr", "secret – not سر sar 'head'"],
-        ["ناله", "nāle", "moan, lament"],
-        ["لیک", "lik", "but – short for لیکن"],
-        ["چشم و گوش", "cheshm o gush", "eye and ear"],
-        ["نور", "nur", "light"]
-      ]
-    },
-    {
-      "fa": "تن ز جان و جان ز تن مستور نیست / لیک کس را دید جان دستور نیست",
-      "r": "tan ze jān o jān ze tan mastur nist / lik kas rā did-e jān dastur nist",
-      "en": "'Body is not hidden from soul, nor soul from body, / yet no one is allowed to see the soul.'",
-      "words": [
-        ["تن", "tan", "body"],
-        ["جان", "jān", "soul, life"],
-        ["ز", "ze", "from – the poetic short form of از"],
-        ["مستور", "mastur", "hidden, veiled"],
-        ["دید", "did", "seeing, sight – the past stem used as a noun"],
-        ["دستور", "dastur", "permission (the old meaning; today 'instruction, grammar')"]
-      ]
-    },
-    {
-      "fa": "آتش است این بانگ نای و نیست باد / هر که این آتش ندارد نیست باد",
-      "r": "ātash ast in bāng-e nāy o nist bād / har ke in ātash nadārad nist bād",
-      "en": "'This cry of the reed is fire, not wind; / whoever does not have this fire – may he be nothing!'",
-      "note": "Both halves end in the same two words, نیست باد, with two meanings: 'is not wind' and 'may he not be'. A rhyme on one word with two meanings is called جناس *jenās*.",
-      "words": [
-        ["بانگ", "bāng", "cry, call, sound"],
-        ["نای", "nāy", "reed flute – another form of نی"],
-        ["باد", "bād", "wind, breath; also 'may it be'"],
-        ["نیست باد", "nist bād", "may he be nothing, may he perish"]
-      ]
-    },
-    {
-      "fa": "آتش عشق است کاندر نی فتاد / جوشش عشق است کاندر می فتاد",
-      "r": "ātash-e 'eshgh ast kandar ney fetād / jushesh-e 'eshgh ast kandar mey fetād",
-      "en": "'It is the fire of love that has fallen into the reed; / it is the ferment of love that has fallen into the wine.'",
-      "words": [
-        ["کاندر", "kandar", "that into – که + اندر"],
-        ["اندر", "andar", "in, into – the old form of در"],
-        ["فتاد", "fetād", "fell – short for افتاد"],
-        ["جوشش", "jushesh", "boiling, fermenting (from جوشیدن)"],
-        ["می", "mey", "wine"]
-      ]
-    },
-    {
-      "fa": "نی حریف هر که از یاری برید / پرده‌هایش پرده‌های ما درید",
-      "r": "ney harif-e har ke az yāri borid / parde-hā-yash parde-hā-ye mā darid",
-      "en": "'The reed is the companion of all who are cut off from a friend; / its melodies have torn away our veils.'",
-      "note": "پرده is both a curtain or veil and a note or mode in music: the reed's tunes tear away the veils we hide behind.",
-      "words": [
-        ["حریف", "harif", "companion, fellow (today also 'rival, opponent')"],
-        ["یاری", "yāri", "a friend (یار + ـی)"],
-        ["بریدن از", "boridan az", "to be cut off from, to break with"],
-        ["پرده", "parde", "curtain, veil; a mode or note in music"],
-        ["دریدن", "daridan", "to tear"]
-      ]
-    },
-    {
-      "fa": "همچو نی زهری و تریاقی که دید / همچو نی دمساز و مشتاقی که دید",
-      "r": "hamcho ney zahri o taryāghi ke did / hamcho ney damsāz o moshtāghi ke did",
-      "en": "'Who ever saw a poison and an antidote like the reed? / Who ever saw a friend and a lover like the reed?'",
-      "words": [
-        ["همچو", "hamcho", "like, just like"],
-        ["زهر", "zahr", "poison"],
-        ["تریاق", "taryāgh", "antidote (from Greek *thēriakē*)"],
-        ["که دید", "ke did", "who has seen? – a question expecting 'no one'"],
-        ["دمساز", "damsāz", "close friend, confidant – one who breathes in tune"],
-        ["مشتاق", "moshtāgh", "longing, a lover"]
-      ]
-    },
-    {
-      "fa": "نی حدیث راه پر خون می‌کند / قصه‌های عشق مجنون می‌کند",
-      "r": "ney hadis-e rāh-e por khun mi-konad / ghesse-hā-ye 'eshgh-e majnun mi-konad",
-      "en": "'The reed tells of the road soaked in blood; / it tells the tales of Majnun's love.'",
-      "note": "Majnun, 'the possessed', is the madman of love whose story Nezami told in *Leyli and Majnun*.",
-      "words": [
-        ["حدیث", "hadis", "talk, account, story"],
-        ["حدیث کردن", "hadis kardan", "to tell, to speak of"],
-        ["پر خون", "por khun", "full of blood"],
-        ["قصه", "ghesse", "story, tale"],
-        ["مجنون", "majnun", "mad, possessed – the lover of Leyli"]
-      ]
-    },
-    {
-      "fa": "محرم این هوش جز بی‌هوش نیست / مر زبان را مشتری جز گوش نیست",
-      "r": "mahram-e in hush joz bi-hush nist / mar zabān rā moshtari joz gush nist",
-      "en": "'Only the senseless are let into this sense, / just as the tongue has no buyer but the ear.'",
-      "lit": "the confidant of this mind is none but the mindless; for the tongue there is no buyer but the ear",
-      "words": [
-        ["محرم", "mahram", "one allowed inside, a confidant"],
-        ["هوش", "hush", "mind, understanding, awareness"],
-        ["بی‌هوش", "bi-hush", "unconscious, senseless – here 'out of oneself'"],
-        ["جز", "joz", "except, but"],
-        ["مر … را", "mar … rā", "an old way of marking 'for, to' or the object; مر adds no meaning"],
-        ["مشتری", "moshtari", "buyer, customer"]
-      ]
-    },
-    {
-      "fa": "در غم ما روزها بیگاه شد / روزها با سوزها همراه شد",
-      "r": "dar gham-e mā ruz-hā bigāh shod / ruz-hā bā suz-hā hamrāh shod",
-      "en": "'In our grief the days have grown late; / the days have gone hand in hand with burning.'",
-      "note": "The verbs are singular (شد) after the plural روزها: in classical Persian, things that are not people often take a singular verb.",
-      "words": [
-        ["غم", "gham", "grief, sorrow"],
-        ["روزها", "ruz-hā", "days"],
-        ["بیگاه", "bigāh", "late, untimely (بی + گاه 'time')"],
-        ["سوز", "suz", "burning, heartache"],
-        ["همراه", "hamrāh", "together with, companion"]
-      ]
-    },
-    {
-      "fa": "روزها گر رفت گو رو باک نیست / تو بمان ای آن که چون تو پاک نیست",
-      "r": "ruz-hā gar raft gu row bāk nist / to bemān ey ān ke chon to pāk nist",
-      "en": "'If the days have gone, say: let them go, it does not matter – / only you remain, O you, the purest of all.'",
-      "lit": "the days, if they went, say 'go', there is no fear; you stay, O that one like whom none is pure",
-      "words": [
-        ["گر", "gar", "if – short for اگر"],
-        ["گو", "gu", "say! – imperative of گفتن (today بگو)"],
-        ["رو", "row", "go! – imperative of رفتن (today برو)"],
-        ["باک", "bāk", "fear, worry; باک نیست 'no matter'"],
-        ["بمان", "bemān", "stay! remain!"],
-        ["پاک", "pāk", "pure, clean"]
-      ]
-    },
-    {
-      "fa": "هر که جز ماهی ز آبش سیر شد / هر که بی‌روزیست روزش دیر شد",
-      "r": "har ke joz māhi ze āb-ash sir shod / har ke bi-ruzist ruz-ash dir shod",
-      "en": "'All but the fish have had their fill of water; / whoever lacks his daily bread finds the day long.'",
-      "note": "روز 'day' and روزی 'daily bread' are another play on words. The fish is the true lover: it never has enough of the water it lives in.",
-      "words": [
-        ["ماهی", "māhi", "fish"],
-        ["ز آبش", "ze āb-ash", "of its water, of the water"],
-        ["سیر شدن", "sir shodan", "to be full, to have had enough"],
-        ["روزی", "ruzi", "daily bread, one's portion (from روز 'day')"],
-        ["بی‌روزیست", "bi-ruzist", "is without his daily bread – بی‌روزی است"],
-        ["دیر", "dir", "late, long"]
-      ]
-    },
-    {
-      "fa": "در نیابد حال پخته هیچ خام / پس سخن کوتاه باید والسلام",
-      "r": "dar nayābad hāl-e pokhte hich khām / pas sokhan kutāh bāyad vas-salām",
-      "en": "'No one raw can grasp the state of the ripe, / so the talk must be short – and that is all.'",
-      "words": [
-        ["در یافتن", "dar yāftan", "to grasp, to understand – here split: در نیابد 'does not grasp'"],
-        ["پخته", "pokhte", "cooked, ripe – mature in experience"],
-        ["خام", "khām", "raw, unripe – inexperienced"],
-        ["هیچ", "hich", "any; with a negative verb, 'no one'"],
-        ["کوتاه", "kutāh", "short"],
-        ["والسلام", "vas-salām", "'and peace' (Arabic) – and that's that, end of story"]
-      ]
-    }
-  ],
-  "commentary": "**The image.** The *ney*, the end-blown reed flute of Persian music, is cut from a reed bed, hollowed out and pierced, and it only sings when someone breathes into it. Rumi makes it the voice of every soul cut off from where it came from: its music is homesickness, and only those who have lost something hear what it is really saying. Notice how the speaker changes – Rumi asks us to listen in the first couplet, and from the second on the reed talks itself. Notice too the paradoxes: the reed is poison and cure; its song is fire, not wind; its 'mind' is open only to those who are out of their minds. In the last couplet Rumi breaks off: the raw cannot understand the cooked, so the talk must be short.\n\n**The rhythm.** The whole *Masnavi* is in *ramal*, the metre of Attar's *Conference of the Birds*: three beats to the half-line, *DUM-da-DUM-DUM DUM-da-DUM-DUM DUM-da-DUM*. Read the first half-line slowly: *besh-na-vin ney chon she-kā-yat mi-ko-nad*. In a masnavi each couplet has its own rhyme – [[شکایت|shekāyat]] / [[حکایت|hekāyat]], [[فراق|ferāgh]] / [[اشتیاق|eshtiyāgh]] – which is why the form can run on for 26,000 couplets. Many couplets also repeat a word after the rhyme, as [[می‌کند|mi-konad]], [[شدم|shodam]] and [[نیست|nist]] do here.\n\n**The grammar.** The language is easier than it looks. Watch for the run-together forms [[کز|kaz]] (که + از), [[کو|ku]] (که + او) and [[کاندر|kandar]] (که + اندر), for [[فتاد|fetād]] instead of [[افتاد|oftād]] and [[لیک|lik]] instead of [[لیکن|liken]], and for imperatives without [[ب|be-]]: [[گو|gu]] 'say', [[رو|row]] 'go'. The old word [[مر|mar]] in [[مر زبان را|mar zabān rā]] only strengthens [[را|rā]]. Couplet 4 in modern prose: [[هر کسی که از اصل خودش دور بماند، دوباره دنبال روزگار وصل خودش می‌گردد|har kasi ke az asl-e khod-ash dur bemānad, dobāre donbāl-e ruzgār-e vasl-e khod-ash mi-gardad]].\n\n**Using it.** Recitals of the *Masnavi* begin with these lines, and singers and ney players have set them again and again. [[بشنو از نی|beshnow az ney]], in the popular reading, is a phrase in its own right. People quote [[هر کسی از ظن خود شد یار من|har kasi az zann-e khod shod yār-e man]] about friends who only see in us what they want to see, and [[پس سخن کوتاه باید والسلام|pas sokhan kutāh bāyad vas-salām]] to cut a long argument short.",
-  "image": "ney"
+ "id": "rumi-ney-name",
+ "poet": "Rumi",
+ "poetFa": "مولوی",
+ "work": "Masnavi",
+ "century": "13th",
+ "title": "The Song of the Reed",
+ "titleFa": "نی‌نامه",
+ "titleR": "ney-nāme",
+ "form": "masnavi (rhyming couplets)",
+ "intro": "Jalal al-Din Rumi (1207–1273), born in Balkh and settled in Konya in Anatolia, spent the last fifteen years of his life dictating the *Masnavi-ye Ma'navi* ('Spiritual Couplets') to his disciple Hosam al-Din Chalabi: six books and some 26,000 couplets of stories, teaching and jokes. Iranians call it simply the *Masnavi*, and its first eighteen couplets, the *Ney-nāme* or 'Song of the Reed', are the most famous lines in it. An old story says Rumi already had them written on a slip of paper in his turban when Hosam al-Din asked him for a book. The reed flute, the *ney*, was cut from its reed bed, and every note it plays is a lament for home; readers have always heard in it the soul, cut off from its source and longing to go back.",
+ "lines": [
+  {
+   "fa": "بشنو این نی چون شکایت می‌کند / از جدایی‌ها حکایت می‌کند",
+   "r": "beshnow in ney chon shekāyat mi-konad / az jodāyi-hā hekāyat mi-konad",
+   "en": "Listen to this reed, how it complains, / how it tells the story of separations.",
+   "note": "The best-known form of this line, quoted everywhere and printed in many popular editions, is «بشنو از نی چون حکایت می‌کند / از جدایی‌ها شکایت می‌کند» *beshnow az ney chon hekāyat mi-konad / az jodāyi-hā shekāyat mi-konad* – 'listen to the reed, how it tells its tale, / how it complains of separations'. Nicholson's edition, following the oldest manuscripts, has «بشنو این نی چون شکایت می‌کند», with 'complaint' and 'tale' the other way round.",
+   "words": [
+    [
+     "بشنو",
+     "beshnow",
+     "listen! – imperative of شنیدن (today usually said beshno)"
+    ],
+    [
+     "نی",
+     "ney",
+     "reed; the reed flute"
+    ],
+    [
+     "چون",
+     "chon",
+     "how (here); also 'when, like, because'"
+    ],
+    [
+     "شکایت کردن",
+     "shekāyat kardan",
+     "to complain, to lament"
+    ],
+    [
+     "جدایی‌ها",
+     "jodāyi-hā",
+     "separations, partings"
+    ],
+    [
+     "حکایت کردن",
+     "hekāyat kardan",
+     "to tell (a story)"
+    ]
+   ],
+   "faV": "بِشنَو این نَی چون شِکایَت می‌کُنَد / اَز جُدایی‌ها حِکایَت می‌کُنَد",
+   "a": "40623c717190"
+  },
+  {
+   "fa": "کز نیستان تا مرا ببریده‌اند / در نفیرم مرد و زن نالیده‌اند",
+   "r": "kaz neyestān tā marā bobride-and / dar nafir-am mard o zan nālide-and",
+   "en": "'Ever since they cut me from the reed bed, / men and women have wept at my cry.'",
+   "note": "Some editions read «از نفیرم» *az nafir-am* 'at my cry'. From this couplet on, the reed itself is speaking.",
+   "words": [
+    [
+     "کز",
+     "kaz",
+     "that from – که + از; here 'since'"
+    ],
+    [
+     "نیستان",
+     "neyestān",
+     "reed bed (نی + ـستان 'place of')"
+    ],
+    [
+     "تا",
+     "tā",
+     "ever since (here)"
+    ],
+    [
+     "ببریده‌اند",
+     "bobride-and",
+     "they have cut (old ب- prefix + بریدن)"
+    ],
+    [
+     "نفیر",
+     "nafir",
+     "cry, wail; the blast of a horn"
+    ],
+    [
+     "نالیدن",
+     "nālidan",
+     "to moan, to lament"
+    ]
+   ],
+   "faV": "کَز نِیِستان تا مَرا بُبریده‌اَند / دَر نَفیرَم مَرد و زَن نالیده‌اَند",
+   "a": "5e5f6471c34f"
+  },
+  {
+   "fa": "سینه خواهم شرحه شرحه از فراق / تا بگویم شرح درد اشتیاق",
+   "r": "sine khāham sharhe sharhe az ferāgh / tā beguyam sharh-e dard-e eshtiyāgh",
+   "en": "'I want a breast torn to shreds by parting, / so that I can tell the pain of longing in full.'",
+   "lit": "a breast I want, strip by strip from separation, so that I tell the explanation of the pain of longing",
+   "note": "A play on two words that look alike: شرحه *sharhe* 'a strip of flesh' and شرح *sharh* 'a full account'.",
+   "words": [
+    [
+     "سینه",
+     "sine",
+     "breast, chest"
+    ],
+    [
+     "خواهم",
+     "khāham",
+     "I want – no می‌ in the classical present"
+    ],
+    [
+     "شرحه شرحه",
+     "sharhe sharhe",
+     "torn in strips, in shreds"
+    ],
+    [
+     "فراق",
+     "ferāgh",
+     "separation (from the beloved)"
+    ],
+    [
+     "شرح",
+     "sharh",
+     "explanation, a full account"
+    ],
+    [
+     "اشتیاق",
+     "eshtiyāgh",
+     "longing, yearning"
+    ]
+   ],
+   "faV": "سینه خواهَم شَرحه شَرحه اَز فِراق / تا بِگویَم شَرحِ دَردِ اِشتیاق",
+   "a": "808a00ae0955"
+  },
+  {
+   "fa": "هر کسی کو دور ماند از اصل خویش / باز جوید روزگار وصل خویش",
+   "r": "har kasi ku dur mānd az asl-e khish / bāz juyad ruzgār-e vasl-e khish",
+   "en": "'Whoever is left far from their origin / longs to find again the days of union.'",
+   "words": [
+    [
+     "کو",
+     "ku",
+     "who – که + او"
+    ],
+    [
+     "ماند",
+     "mānd",
+     "remained, was left (past of ماندن)"
+    ],
+    [
+     "اصل",
+     "asl",
+     "root, origin"
+    ],
+    [
+     "خویش",
+     "khish",
+     "one's own – the same as خود"
+    ],
+    [
+     "باز جستن",
+     "bāz jostan",
+     "to seek again"
+    ],
+    [
+     "روزگار وصل",
+     "ruzgār-e vasl",
+     "the time of union"
+    ]
+   ],
+   "faV": "هَر کَسی کو دور ماند اَز اَصلِ خویش / باز جویَد روزگارِ وَصلِ خویش",
+   "a": "61b653910fc0"
+  },
+  {
+   "fa": "من به هر جمعیتی نالان شدم / جفت بدحالان و خوش‌حالان شدم",
+   "r": "man be har jam'iyyati nālān shodam / joft-e bad-hālān o khosh-hālān shodam",
+   "en": "'I have wept in every company; / I have kept company with the unhappy and the happy.'",
+   "words": [
+    [
+     "جمعیت",
+     "jam'iyyat",
+     "gathering, a company of people (today 'population')"
+    ],
+    [
+     "نالان",
+     "nālān",
+     "moaning, lamenting"
+    ],
+    [
+     "جفت",
+     "joft",
+     "pair, companion"
+    ],
+    [
+     "بدحال",
+     "bad-hāl",
+     "in a bad way, unhappy"
+    ],
+    [
+     "خوش‌حال",
+     "khosh-hāl",
+     "happy"
+    ]
+   ],
+   "faV": "مَن به هَر جَمعیَّتی نالان شُدَم / جُفتِ بَدحالان و خوش‌حالان شُدَم",
+   "a": "b6877ea0357d"
+  },
+  {
+   "fa": "هر کسی از ظن خود شد یار من / از درون من نجست اسرار من",
+   "r": "har kasi az zann-e khod shod yār-e man / az darun-e man najost asrār-e man",
+   "en": "'Everyone became my friend through their own guesswork; / no one looked for the secrets within me.'",
+   "words": [
+    [
+     "ظن",
+     "zann",
+     "guess, opinion (Arabic)"
+    ],
+    [
+     "یار",
+     "yār",
+     "friend, companion"
+    ],
+    [
+     "درون",
+     "darun",
+     "inside, the inner self"
+    ],
+    [
+     "نجست",
+     "najost",
+     "did not seek (past of جستن)"
+    ],
+    [
+     "اسرار",
+     "asrār",
+     "secrets (Arabic plural of سر)"
+    ]
+   ],
+   "faV": "هَر کَسی اَز ظَنِّ خود شُد یارِ مَن / اَز دَرونِ مَن نَجُست اَسرارِ مَن",
+   "a": "fa029b1632eb"
+  },
+  {
+   "fa": "سر من از ناله‌ی من دور نیست / لیک چشم و گوش را آن نور نیست",
+   "r": "serr-e man az nāle-ye man dur nist / lik cheshm o gush rā ān nur nist",
+   "en": "'My secret is not far from my lament, / but eye and ear do not have the light to find it.'",
+   "words": [
+    [
+     "سر",
+     "serr",
+     "secret – not سر sar 'head'"
+    ],
+    [
+     "ناله",
+     "nāle",
+     "moan, lament"
+    ],
+    [
+     "لیک",
+     "lik",
+     "but – short for لیکن"
+    ],
+    [
+     "چشم و گوش",
+     "cheshm o gush",
+     "eye and ear"
+    ],
+    [
+     "نور",
+     "nur",
+     "light"
+    ]
+   ],
+   "faV": "سِرِّ مَن اَز ناله‌یِ مَن دور نیست / لیک چِشم و گوش را آن نور نیست",
+   "a": "55b46613dfb9"
+  },
+  {
+   "fa": "تن ز جان و جان ز تن مستور نیست / لیک کس را دید جان دستور نیست",
+   "r": "tan ze jān o jān ze tan mastur nist / lik kas rā did-e jān dastur nist",
+   "en": "'Body is not hidden from soul, nor soul from body, / yet no one is allowed to see the soul.'",
+   "words": [
+    [
+     "تن",
+     "tan",
+     "body"
+    ],
+    [
+     "جان",
+     "jān",
+     "soul, life"
+    ],
+    [
+     "ز",
+     "ze",
+     "from – the poetic short form of از"
+    ],
+    [
+     "مستور",
+     "mastur",
+     "hidden, veiled"
+    ],
+    [
+     "دید",
+     "did",
+     "seeing, sight – the past stem used as a noun"
+    ],
+    [
+     "دستور",
+     "dastur",
+     "permission (the old meaning; today 'instruction, grammar')"
+    ]
+   ],
+   "faV": "تَن ز جان و جان ز تَن مَستور نیست / لیک کَس را دیدِ جان دَستور نیست",
+   "a": "b44eb61fa7df"
+  },
+  {
+   "fa": "آتش است این بانگ نای و نیست باد / هر که این آتش ندارد نیست باد",
+   "r": "ātash ast in bāng-e nāy o nist bād / har ke in ātash nadārad nist bād",
+   "en": "'This cry of the reed is fire, not wind; / whoever does not have this fire – may he be nothing!'",
+   "note": "Both halves end in the same two words, نیست باد, with two meanings: 'is not wind' and 'may he not be'. A rhyme on one word with two meanings is called جناس *jenās*.",
+   "words": [
+    [
+     "بانگ",
+     "bāng",
+     "cry, call, sound"
+    ],
+    [
+     "نای",
+     "nāy",
+     "reed flute – another form of نی"
+    ],
+    [
+     "باد",
+     "bād",
+     "wind, breath; also 'may it be'"
+    ],
+    [
+     "نیست باد",
+     "nist bād",
+     "may he be nothing, may he perish"
+    ]
+   ],
+   "faV": "آتَش اَست این بانگِ نای و نیست باد / هَر که این آتَش نَدارَد نیست باد",
+   "a": "bb0118866cf6"
+  },
+  {
+   "fa": "آتش عشق است کاندر نی فتاد / جوشش عشق است کاندر می فتاد",
+   "r": "ātash-e 'eshgh ast kandar ney fetād / jushesh-e 'eshgh ast kandar mey fetād",
+   "en": "'It is the fire of love that has fallen into the reed; / it is the ferment of love that has fallen into the wine.'",
+   "words": [
+    [
+     "کاندر",
+     "kandar",
+     "that into – که + اندر"
+    ],
+    [
+     "اندر",
+     "andar",
+     "in, into – the old form of در"
+    ],
+    [
+     "فتاد",
+     "fetād",
+     "fell – short for افتاد"
+    ],
+    [
+     "جوشش",
+     "jushesh",
+     "boiling, fermenting (from جوشیدن)"
+    ],
+    [
+     "می",
+     "mey",
+     "wine"
+    ]
+   ],
+   "faV": "آتَشِ عِشق اَست کاَندَر نَی فِتاد / جوشِشِ عِشق اَست کاَندَر مَی فِتاد",
+   "a": "dd22e699797a"
+  },
+  {
+   "fa": "نی حریف هر که از یاری برید / پرده‌هایش پرده‌های ما درید",
+   "r": "ney harif-e har ke az yāri borid / parde-hā-yash parde-hā-ye mā darid",
+   "en": "'The reed is the companion of all who are cut off from a friend; / its melodies have torn away our veils.'",
+   "note": "پرده is both a curtain or veil and a note or mode in music: the reed's tunes tear away the veils we hide behind.",
+   "words": [
+    [
+     "حریف",
+     "harif",
+     "companion, fellow (today also 'rival, opponent')"
+    ],
+    [
+     "یاری",
+     "yāri",
+     "a friend (یار + ـی)"
+    ],
+    [
+     "بریدن از",
+     "boridan az",
+     "to be cut off from, to break with"
+    ],
+    [
+     "پرده",
+     "parde",
+     "curtain, veil; a mode or note in music"
+    ],
+    [
+     "دریدن",
+     "daridan",
+     "to tear"
+    ]
+   ],
+   "faV": "نَی حَریفِ هَر که اَز یاری بُرید / پَرده‌هایَش پَرده‌هایِ ما دَرید",
+   "a": "4fd214d4bed3"
+  },
+  {
+   "fa": "همچو نی زهری و تریاقی که دید / همچو نی دمساز و مشتاقی که دید",
+   "r": "hamcho ney zahri o taryāghi ke did / hamcho ney damsāz o moshtāghi ke did",
+   "en": "'Who ever saw a poison and an antidote like the reed? / Who ever saw a friend and a lover like the reed?'",
+   "words": [
+    [
+     "همچو",
+     "hamcho",
+     "like, just like"
+    ],
+    [
+     "زهر",
+     "zahr",
+     "poison"
+    ],
+    [
+     "تریاق",
+     "taryāgh",
+     "antidote (from Greek *thēriakē*)"
+    ],
+    [
+     "که دید",
+     "ke did",
+     "who has seen? – a question expecting 'no one'"
+    ],
+    [
+     "دمساز",
+     "damsāz",
+     "close friend, confidant – one who breathes in tune"
+    ],
+    [
+     "مشتاق",
+     "moshtāgh",
+     "longing, a lover"
+    ]
+   ],
+   "faV": "هَمچو نَی زَهری و تَریاقی که دید / هَمچو نَی دَمساز و مُشتاقی که دید",
+   "a": "03da3a84b837"
+  },
+  {
+   "fa": "نی حدیث راه پر خون می‌کند / قصه‌های عشق مجنون می‌کند",
+   "r": "ney hadis-e rāh-e por khun mi-konad / ghesse-hā-ye 'eshgh-e majnun mi-konad",
+   "en": "'The reed tells of the road soaked in blood; / it tells the tales of Majnun's love.'",
+   "note": "Majnun, 'the possessed', is the madman of love whose story Nezami told in *Leyli and Majnun*.",
+   "words": [
+    [
+     "حدیث",
+     "hadis",
+     "talk, account, story"
+    ],
+    [
+     "حدیث کردن",
+     "hadis kardan",
+     "to tell, to speak of"
+    ],
+    [
+     "پر خون",
+     "por khun",
+     "full of blood"
+    ],
+    [
+     "قصه",
+     "ghesse",
+     "story, tale"
+    ],
+    [
+     "مجنون",
+     "majnun",
+     "mad, possessed – the lover of Leyli"
+    ]
+   ],
+   "faV": "نَی حَدیثِ راهِ پُر خون می‌کُنَد / قِصّه‌هایِ عِشقِ مَجنون می‌کُنَد",
+   "a": "155a849217c5"
+  },
+  {
+   "fa": "محرم این هوش جز بی‌هوش نیست / مر زبان را مشتری جز گوش نیست",
+   "r": "mahram-e in hush joz bi-hush nist / mar zabān rā moshtari joz gush nist",
+   "en": "'Only the senseless are let into this sense, / just as the tongue has no buyer but the ear.'",
+   "lit": "the confidant of this mind is none but the mindless; for the tongue there is no buyer but the ear",
+   "words": [
+    [
+     "محرم",
+     "mahram",
+     "one allowed inside, a confidant"
+    ],
+    [
+     "هوش",
+     "hush",
+     "mind, understanding, awareness"
+    ],
+    [
+     "بی‌هوش",
+     "bi-hush",
+     "unconscious, senseless – here 'out of oneself'"
+    ],
+    [
+     "جز",
+     "joz",
+     "except, but"
+    ],
+    [
+     "مر … را",
+     "mar … rā",
+     "an old way of marking 'for, to' or the object; مر adds no meaning"
+    ],
+    [
+     "مشتری",
+     "moshtari",
+     "buyer, customer"
+    ]
+   ],
+   "faV": "مَحرَمِ این هوش جُز بی‌هوش نیست / مَر زَبان را مُشتَری جُز گوش نیست",
+   "a": "94a66a11d8cb"
+  },
+  {
+   "fa": "در غم ما روزها بیگاه شد / روزها با سوزها همراه شد",
+   "r": "dar gham-e mā ruz-hā bigāh shod / ruz-hā bā suz-hā hamrāh shod",
+   "en": "'In our grief the days have grown late; / the days have gone hand in hand with burning.'",
+   "note": "The verbs are singular (شد) after the plural روزها: in classical Persian, things that are not people often take a singular verb.",
+   "words": [
+    [
+     "غم",
+     "gham",
+     "grief, sorrow"
+    ],
+    [
+     "روزها",
+     "ruz-hā",
+     "days"
+    ],
+    [
+     "بیگاه",
+     "bigāh",
+     "late, untimely (بی + گاه 'time')"
+    ],
+    [
+     "سوز",
+     "suz",
+     "burning, heartache"
+    ],
+    [
+     "همراه",
+     "hamrāh",
+     "together with, companion"
+    ]
+   ],
+   "faV": "دَر غَمِ ما روزها بیگاه شُد / روزها با سوزها هَمراه شُد",
+   "a": "b1e19273a362"
+  },
+  {
+   "fa": "روزها گر رفت گو رو باک نیست / تو بمان ای آن که چون تو پاک نیست",
+   "r": "ruz-hā gar raft gu row bāk nist / to bemān ey ān ke chon to pāk nist",
+   "en": "'If the days have gone, say: let them go, it does not matter – / only you remain, O you, the purest of all.'",
+   "lit": "the days, if they went, say 'go', there is no fear; you stay, O that one like whom none is pure",
+   "words": [
+    [
+     "گر",
+     "gar",
+     "if – short for اگر"
+    ],
+    [
+     "گو",
+     "gu",
+     "say! – imperative of گفتن (today بگو)"
+    ],
+    [
+     "رو",
+     "row",
+     "go! – imperative of رفتن (today برو)"
+    ],
+    [
+     "باک",
+     "bāk",
+     "fear, worry; باک نیست 'no matter'"
+    ],
+    [
+     "بمان",
+     "bemān",
+     "stay! remain!"
+    ],
+    [
+     "پاک",
+     "pāk",
+     "pure, clean"
+    ]
+   ],
+   "faV": "روزها گَر رَفت گو رَو باک نیست / تو بِمان اَی آن که چون تو پاک نیست",
+   "a": "8abfd308f702"
+  },
+  {
+   "fa": "هر که جز ماهی ز آبش سیر شد / هر که بی‌روزیست روزش دیر شد",
+   "r": "har ke joz māhi ze āb-ash sir shod / har ke bi-ruzist ruz-ash dir shod",
+   "en": "'All but the fish have had their fill of water; / whoever lacks his daily bread finds the day long.'",
+   "note": "روز 'day' and روزی 'daily bread' are another play on words. The fish is the true lover: it never has enough of the water it lives in.",
+   "words": [
+    [
+     "ماهی",
+     "māhi",
+     "fish"
+    ],
+    [
+     "ز آبش",
+     "ze āb-ash",
+     "of its water, of the water"
+    ],
+    [
+     "سیر شدن",
+     "sir shodan",
+     "to be full, to have had enough"
+    ],
+    [
+     "روزی",
+     "ruzi",
+     "daily bread, one's portion (from روز 'day')"
+    ],
+    [
+     "بی‌روزیست",
+     "bi-ruzist",
+     "is without his daily bread – بی‌روزی است"
+    ],
+    [
+     "دیر",
+     "dir",
+     "late, long"
+    ]
+   ],
+   "faV": "هَر که جُز ماهی ز آبَش سیر شُد / هَر که بی‌روزیست روزَش دیر شُد",
+   "a": "68f60e53d14c"
+  },
+  {
+   "fa": "در نیابد حال پخته هیچ خام / پس سخن کوتاه باید والسلام",
+   "r": "dar nayābad hāl-e pokhte hich khām / pas sokhan kutāh bāyad vas-salām",
+   "en": "'No one raw can grasp the state of the ripe, / so the talk must be short – and that is all.'",
+   "words": [
+    [
+     "در یافتن",
+     "dar yāftan",
+     "to grasp, to understand – here split: در نیابد 'does not grasp'"
+    ],
+    [
+     "پخته",
+     "pokhte",
+     "cooked, ripe – mature in experience"
+    ],
+    [
+     "خام",
+     "khām",
+     "raw, unripe – inexperienced"
+    ],
+    [
+     "هیچ",
+     "hich",
+     "any; with a negative verb, 'no one'"
+    ],
+    [
+     "کوتاه",
+     "kutāh",
+     "short"
+    ],
+    [
+     "والسلام",
+     "vas-salām",
+     "'and peace' (Arabic) – and that's that, end of story"
+    ]
+   ],
+   "faV": "دَر نَیابَد حالِ پُخته هیچ خام / پَس سُخَن کوتاه بایَد والسلام",
+   "a": "feee801dd1c8"
+  }
+ ],
+ "commentary": "**The image.** The *ney*, the end-blown reed flute of Persian music, is cut from a reed bed, hollowed out and pierced, and it only sings when someone breathes into it. Rumi makes it the voice of every soul cut off from where it came from: its music is homesickness, and only those who have lost something hear what it is really saying. Notice how the speaker changes – Rumi asks us to listen in the first couplet, and from the second on the reed talks itself. Notice too the paradoxes: the reed is poison and cure; its song is fire, not wind; its 'mind' is open only to those who are out of their minds. In the last couplet Rumi breaks off: the raw cannot understand the cooked, so the talk must be short.\n\n**The rhythm.** The whole *Masnavi* is in *ramal*, the metre of Attar's *Conference of the Birds*: three beats to the half-line, *DUM-da-DUM-DUM DUM-da-DUM-DUM DUM-da-DUM*. Read the first half-line slowly: *besh-na-vin ney chon she-kā-yat mi-ko-nad*. In a masnavi each couplet has its own rhyme – [[شکایت|shekāyat]] / [[حکایت|hekāyat]], [[فراق|ferāgh]] / [[اشتیاق|eshtiyāgh]] – which is why the form can run on for 26,000 couplets. Many couplets also repeat a word after the rhyme, as [[می‌کند|mi-konad]], [[شدم|shodam]] and [[نیست|nist]] do here.\n\n**The grammar.** The language is easier than it looks. Watch for the run-together forms [[کز|kaz]] (که + از), [[کو|ku]] (که + او) and [[کاندر|kandar]] (که + اندر), for [[فتاد|fetād]] instead of [[افتاد|oftād]] and [[لیک|lik]] instead of [[لیکن|liken]], and for imperatives without [[ب|be-]]: [[گو|gu]] 'say', [[رو|row]] 'go'. The old word [[مر|mar]] in [[مر زبان را|mar zabān rā]] only strengthens [[را|rā]]. Couplet 4 in modern prose: [[هر کسی که از اصل خودش دور بماند، دوباره دنبال روزگار وصل خودش می‌گردد|har kasi ke az asl-e khod-ash dur bemānad, dobāre donbāl-e ruzgār-e vasl-e khod-ash mi-gardad]].\n\n**Using it.** Recitals of the *Masnavi* begin with these lines, and singers and ney players have set them again and again. [[بشنو از نی|beshnow az ney]], in the popular reading, is a phrase in its own right. People quote [[هر کسی از ظن خود شد یار من|har kasi az zann-e khod shod yār-e man]] about friends who only see in us what they want to see, and [[پس سخن کوتاه باید والسلام|pas sokhan kutāh bāyad vas-salām]] to cut a long argument short.",
+ "image": "ney",
+ "titleV": "نَی‌نامه",
+ "titleA": "391bccfb2119"
 }

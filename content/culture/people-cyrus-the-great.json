@@ -36,38 +36,218 @@
   }
  ],
  "sentences": [
-  {"fa": "کوروش بزرگ بنیان‌گذار شاهنشاهی هخامنشی بود.", "r": "Kurosh-e bozorg bonyān-gozār-e shāhanshāhi-ye Hakhāmaneshi bud.", "en": "Cyrus the Great was the founder of the Achaemenid Empire."},
-  {"fa": "پدر کوروش پادشاه انشان بود.", "r": "pedar-e Kurosh pādshāh-e Anshān bud.", "en": "Cyrus's father was the king of Anshan."},
-  {"fa": "کوروش در سال ۵۳۹ پیش از میلاد بابل را گرفت.", "r": "Kurosh dar sāl-e pānsad-o-si-o-noh pish az milād Bābel rā gereft.", "en": "Cyrus took Babylon in 539 BC."},
-  {"fa": "او به یهودیان اجازه داد به اورشلیم برگردند.", "r": "u be yahudiyān ejāze dād be Urshalim bargardand.", "en": "He allowed the Jews to return to Jerusalem."},
-  {"fa": "منشور کوروش به خط میخی روی یک استوانه‌ی گلی نوشته شده است.", "r": "manshur-e Kurosh be khatt-e mikhi ru-ye yek ostovāne-ye geli neveshte shode ast.", "en": "The Cyrus Cylinder is written in cuneiform on a clay cylinder."},
-  {"fa": "این استوانه امروز در موزه‌ی بریتانیا در لندن است.", "r": "in ostovāne emruz dar muze-ye Beritāniyā dar Landan ast.", "en": "Today this cylinder is in the British Museum in London."},
-  {"fa": "آرامگاه کوروش در پاسارگاد در استان فارس است.", "r": "ārāmgāh-e Kurosh dar Pāsārgād dar ostān-e Fārs ast.", "en": "Cyrus's tomb is at Pasargadae in Fars province."},
-  {"fa": "آرامگاه کوروش از سنگ ساخته شده و شش پله دارد.", "r": "ārāmgāh-e Kurosh az sang sākhte shode va shesh pelle dārad.", "en": "Cyrus's tomb is built of stone and has six steps."},
-  {"fa": "یونانی‌ها هم درباره‌ی کوروش کتاب نوشتند.", "r": "yunāni-hā ham darbāre-ye Kurosh ketāb neveshtand.", "en": "The Greeks also wrote books about Cyrus."},
-  {"fa": "در کتاب مقدس هم نام کوروش آمده است.", "r": "dar ketāb-e moghaddas ham nām-e Kurosh āmade ast.", "en": "Cyrus's name also appears in the Bible."},
-  {"fa": "کوروش در سال ۵۳۰ پیش از میلاد درگذشت.", "r": "Kurosh dar sāl-e pānsad-o-si pish az milād dargozasht.", "en": "Cyrus died in 530 BC."},
-  {"fa": "بسیاری از ایرانی‌ها کوروش را «پدر ایران» می‌دانند.", "r": "besyāri az irāni-hā Kurosh rā «pedar-e Irān» mi-dānand.", "en": "Many Iranians regard Cyrus as 'the father of Iran'."}
+  {
+   "fa": "کوروش بزرگ بنیان‌گذار شاهنشاهی هخامنشی بود.",
+   "r": "Kurosh-e bozorg bonyān-gozār-e shāhanshāhi-ye Hakhāmaneshi bud.",
+   "en": "Cyrus the Great was the founder of the Achaemenid Empire.",
+   "faV": "کوروشِ بُزُرگ بُنیان‌گُذارِ شاهَنشاهیِ هَخامَنِشی بود.",
+   "a": "2fbe05e145bd"
+  },
+  {
+   "fa": "پدر کوروش پادشاه انشان بود.",
+   "r": "pedar-e Kurosh pādshāh-e Anshān bud.",
+   "en": "Cyrus's father was the king of Anshan.",
+   "faV": "پِدَرِ کوروش پادشاهِ اَنشان بود.",
+   "a": "11155a7a7f8e"
+  },
+  {
+   "fa": "کوروش در سال ۵۳۹ پیش از میلاد بابل را گرفت.",
+   "r": "Kurosh dar sāl-e pānsad-o-si-o-noh pish az milād Bābel rā gereft.",
+   "en": "Cyrus took Babylon in 539 BC.",
+   "faV": "کوروش دَر سالِ ۵۳۹ پیش اَز میلاد بابِل را گِرِفت.",
+   "a": "cd6a8b65d5b3"
+  },
+  {
+   "fa": "او به یهودیان اجازه داد به اورشلیم برگردند.",
+   "r": "u be yahudiyān ejāze dād be Urshalim bargardand.",
+   "en": "He allowed the Jews to return to Jerusalem.",
+   "faV": "او به یَهودیان اِجازه داد به اورشَلیم بَرگَردَند.",
+   "a": "bf1512f7d998"
+  },
+  {
+   "fa": "منشور کوروش به خط میخی روی یک استوانه‌ی گلی نوشته شده است.",
+   "r": "manshur-e Kurosh be khatt-e mikhi ru-ye yek ostovāne-ye geli neveshte shode ast.",
+   "en": "The Cyrus Cylinder is written in cuneiform on a clay cylinder.",
+   "faV": "مَنشورِ کوروش به خَطِّ میخی رویِ یِک اُستُوانه‌یِ گِلی نِوِشته شُده اَست.",
+   "a": "c2220538f536"
+  },
+  {
+   "fa": "این استوانه امروز در موزه‌ی بریتانیا در لندن است.",
+   "r": "in ostovāne emruz dar muze-ye Beritāniyā dar Landan ast.",
+   "en": "Today this cylinder is in the British Museum in London.",
+   "faV": "این اُستُوانه اِمروز دَر موزه‌یِ بِریتانیا دَر لَندَن اَست.",
+   "a": "b7a6c80c56ab"
+  },
+  {
+   "fa": "آرامگاه کوروش در پاسارگاد در استان فارس است.",
+   "r": "ārāmgāh-e Kurosh dar Pāsārgād dar ostān-e Fārs ast.",
+   "en": "Cyrus's tomb is at Pasargadae in Fars province.",
+   "faV": "آرامگاهِ کوروش دَر پاسارگاد دَر اُستانِ فارس اَست.",
+   "a": "901c6b619387"
+  },
+  {
+   "fa": "آرامگاه کوروش از سنگ ساخته شده و شش پله دارد.",
+   "r": "ārāmgāh-e Kurosh az sang sākhte shode va shesh pelle dārad.",
+   "en": "Cyrus's tomb is built of stone and has six steps.",
+   "faV": "آرامگاهِ کوروش اَز سَنگ ساخته شُده و شِش پِلّه دارَد.",
+   "a": "991a2e73141f"
+  },
+  {
+   "fa": "یونانی‌ها هم درباره‌ی کوروش کتاب نوشتند.",
+   "r": "yunāni-hā ham darbāre-ye Kurosh ketāb neveshtand.",
+   "en": "The Greeks also wrote books about Cyrus.",
+   "faV": "یونانی‌ها هَم دَرباره‌یِ کوروش کِتاب نِوِشتَند.",
+   "a": "79ccee487903"
+  },
+  {
+   "fa": "در کتاب مقدس هم نام کوروش آمده است.",
+   "r": "dar ketāb-e moghaddas ham nām-e Kurosh āmade ast.",
+   "en": "Cyrus's name also appears in the Bible.",
+   "faV": "دَر کِتابِ مُقَدَّس هَم نامِ کوروش آمَده اَست.",
+   "a": "95c9a2d1abe4"
+  },
+  {
+   "fa": "کوروش در سال ۵۳۰ پیش از میلاد درگذشت.",
+   "r": "Kurosh dar sāl-e pānsad-o-si pish az milād dargozasht.",
+   "en": "Cyrus died in 530 BC.",
+   "faV": "کوروش دَر سالِ ۵۳۰ پیش اَز میلاد دَرگُذَشت.",
+   "a": "c2b6f80e621e"
+  },
+  {
+   "fa": "بسیاری از ایرانی‌ها کوروش را «پدر ایران» می‌دانند.",
+   "r": "besyāri az irāni-hā Kurosh rā «pedar-e Irān» mi-dānand.",
+   "en": "Many Iranians regard Cyrus as 'the father of Iran'.",
+   "faV": "بِسیاری اَز ایرانی‌ها کوروش را «پِدَرِ ایران» می‌دانَند.",
+   "a": "7535a781fb1f"
+  }
  ],
  "vocab": [
-  {"fa": "بزرگ", "r": "bozorg", "en": "great, big"},
-  {"fa": "پادشاه", "r": "pādshāh", "en": "king"},
-  {"fa": "شاهنشاهی", "r": "shāhanshāhi", "en": "empire"},
-  {"fa": "بنیان‌گذار", "r": "bonyān-gozār", "en": "founder"},
-  {"fa": "فتح کردن", "r": "fath kardan", "en": "to conquer"},
-  {"fa": "پایتخت", "r": "pāytakht", "en": "capital city"},
-  {"fa": "آرامگاه", "r": "ārāmgāh", "en": "tomb, mausoleum"},
-  {"fa": "پله", "r": "pelle", "en": "step, stair"},
-  {"fa": "منشور", "r": "manshur", "en": "charter"},
-  {"fa": "استوانه", "r": "ostovāne", "en": "cylinder"},
-  {"fa": "گل", "r": "gel", "en": "clay, mud (gol = flower)"},
-  {"fa": "خط میخی", "r": "khatt-e mikhi", "en": "cuneiform (literally 'nail script')"},
-  {"fa": "پیش از میلاد", "r": "pish az milād", "en": "BC (literally 'before the birth')"},
-  {"fa": "اجازه دادن", "r": "ejāze dādan", "en": "to allow"},
-  {"fa": "مدارا", "r": "modārā", "en": "tolerance"},
-  {"fa": "دین", "r": "din", "en": "religion"},
-  {"fa": "یونانی", "r": "yunāni", "en": "Greek"},
-  {"fa": "کتاب مقدس", "r": "ketāb-e moghaddas", "en": "the Bible (literally 'the holy book')"}
+  {
+   "fa": "بزرگ",
+   "r": "bozorg",
+   "en": "great, big",
+   "faV": "بُزُرگ",
+   "a": "65220b7cb8d1"
+  },
+  {
+   "fa": "پادشاه",
+   "r": "pādshāh",
+   "en": "king",
+   "faV": "پادشاه",
+   "a": "9f02731db003"
+  },
+  {
+   "fa": "شاهنشاهی",
+   "r": "shāhanshāhi",
+   "en": "empire",
+   "faV": "شاهَنشاهی",
+   "a": "482cd53501c3"
+  },
+  {
+   "fa": "بنیان‌گذار",
+   "r": "bonyān-gozār",
+   "en": "founder",
+   "faV": "بُنیان‌گُذار",
+   "a": "f94e015e867e"
+  },
+  {
+   "fa": "فتح کردن",
+   "r": "fath kardan",
+   "en": "to conquer",
+   "faV": "فَتح کَردَن",
+   "a": "a617664ea95c"
+  },
+  {
+   "fa": "پایتخت",
+   "r": "pāytakht",
+   "en": "capital city",
+   "faV": "پایتَخت",
+   "a": "cc64448038c2"
+  },
+  {
+   "fa": "آرامگاه",
+   "r": "ārāmgāh",
+   "en": "tomb, mausoleum",
+   "faV": "آرامگاه",
+   "a": "0acb7fd637bb"
+  },
+  {
+   "fa": "پله",
+   "r": "pelle",
+   "en": "step, stair",
+   "faV": "پِلّه",
+   "a": "2a4279624315"
+  },
+  {
+   "fa": "منشور",
+   "r": "manshur",
+   "en": "charter",
+   "faV": "مَنشور",
+   "a": "4eea06b7e0f6"
+  },
+  {
+   "fa": "استوانه",
+   "r": "ostovāne",
+   "en": "cylinder",
+   "faV": "اُستُوانه",
+   "a": "e841f5d8f85f"
+  },
+  {
+   "fa": "گل",
+   "r": "gel",
+   "en": "clay, mud (gol = flower)",
+   "faV": "گِل",
+   "a": "7fded2c92b28"
+  },
+  {
+   "fa": "خط میخی",
+   "r": "khatt-e mikhi",
+   "en": "cuneiform (literally 'nail script')",
+   "faV": "خَطِّ میخی",
+   "a": "37e8e072850b"
+  },
+  {
+   "fa": "پیش از میلاد",
+   "r": "pish az milād",
+   "en": "BC (literally 'before the birth')",
+   "faV": "پیش اَز میلاد",
+   "a": "64c1eebf1fc1"
+  },
+  {
+   "fa": "اجازه دادن",
+   "r": "ejāze dādan",
+   "en": "to allow",
+   "faV": "اِجازه دادَن",
+   "a": "8961c601731c"
+  },
+  {
+   "fa": "مدارا",
+   "r": "modārā",
+   "en": "tolerance",
+   "faV": "مُدارا",
+   "a": "de46c7b59c0d"
+  },
+  {
+   "fa": "دین",
+   "r": "din",
+   "en": "religion",
+   "faV": "دین",
+   "a": "415d4a68797c"
+  },
+  {
+   "fa": "یونانی",
+   "r": "yunāni",
+   "en": "Greek",
+   "faV": "یونانی",
+   "a": "fe56af1751f0"
+  },
+  {
+   "fa": "کتاب مقدس",
+   "r": "ketāb-e moghaddas",
+   "en": "the Bible (literally 'the holy book')",
+   "faV": "کِتابِ مُقَدَّس",
+   "a": "1fe7a01f1d2d"
+  }
  ],
  "facts": [
   "Cyrus became king of Anshan around 559 BC and died in 530 BC, after a reign of about thirty years.",
@@ -77,5 +257,7 @@
   "Pasargadae has been a UNESCO World Heritage site since 2004.",
   "Xenophon's Cyropaedia (4th century BC) presents Cyrus as the model ruler.",
   "The English name comes through Greek Kyros from Old Persian Kūrush; the Hebrew form is Koresh."
- ]
+ ],
+ "titleV": "کوروشِ بُزُرگ",
+ "titleA": "be0243fcd8dc"
 }

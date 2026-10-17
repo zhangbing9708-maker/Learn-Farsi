@@ -32,37 +32,211 @@
   }
  ],
  "sentences": [
-  {"fa": "فردوسی حدود هزار سال پیش در توس زندگی می‌کرد.", "r": "Ferdowsi hodud-e hezār sāl pish dar Tus zendegi mi-kard.", "en": "Ferdowsi lived in Tus about a thousand years ago."},
-  {"fa": "توس شهری قدیمی نزدیک مشهد است.", "r": "Tus shahr-i ghadimi nazdik-e Mashhad ast.", "en": "Tus is an old town near Mashhad."},
-  {"fa": "فردوسی سی سال روی شاهنامه کار کرد.", "r": "Ferdowsi si sāl ru-ye Shāhnāme kār kard.", "en": "Ferdowsi worked on the Shahnameh for thirty years."},
-  {"fa": "شاهنامه حدود پنجاه هزار بیت دارد.", "r": "Shāhnāme hodud-e panjāh hezār beyt dārad.", "en": "The Shahnameh has about fifty thousand couplets."},
-  {"fa": "شاهنامه داستان پادشاهان و پهلوانان ایران است.", "r": "Shāhnāme dāstān-e pādshāhān va pahlavānān-e Irān ast.", "en": "The Shahnameh is the story of the kings and heroes of Iran."},
-  {"fa": "رستم مشهورترین پهلوان شاهنامه است.", "r": "Rostam mashhur-tarin pahlavān-e Shāhnāme ast.", "en": "Rostam is the most famous hero of the Shahnameh."},
-  {"fa": "فردوسی کتابش را به سلطان محمود غزنوی تقدیم کرد.", "r": "Ferdowsi ketāb-ash rā be Soltān Mahmud-e Ghaznavi taghdim kard.", "en": "Ferdowsi dedicated his book to Sultan Mahmud of Ghazni."},
-  {"fa": "طبق یک داستان، سلطان به جای سکه‌ی طلا به او سکه‌ی نقره داد.", "r": "tebgh-e yek dāstān, soltān be jā-ye sekke-ye talā be u sekke-ye noghre dād.", "en": "According to one story, the sultan gave him silver coins instead of gold."},
-  {"fa": "آرامگاه فردوسی در توس است.", "r": "ārāmgāh-e Ferdowsi dar Tus ast.", "en": "Ferdowsi's tomb is in Tus."},
-  {"fa": "فردوسی زبان فارسی را زنده نگه داشت.", "r": "Ferdowsi zabān-e fārsi rā zende negah dāsht.", "en": "Ferdowsi kept the Persian language alive."},
-  {"fa": "هنوز هم در قهوه‌خانه‌ها داستان‌های شاهنامه را نقل می‌کنند.", "r": "hanuz ham dar ghahve-khāne-hā dāstān-hā-ye Shāhnāme rā naghl mi-konand.", "en": "Stories from the Shahnameh are still told in coffee houses."},
-  {"fa": "روز ۲۵ اردیبهشت روز بزرگداشت فردوسی است.", "r": "ruz-e bist-o-panj-e Ordibehesht ruz-e bozorgdāsht-e Ferdowsi ast.", "en": "25 Ordibehesht is the day Iran honours Ferdowsi."}
+  {
+   "fa": "فردوسی حدود هزار سال پیش در توس زندگی می‌کرد.",
+   "r": "Ferdowsi hodud-e hezār sāl pish dar Tus zendegi mi-kard.",
+   "en": "Ferdowsi lived in Tus about a thousand years ago.",
+   "faV": "فِردَوسی حُدودِ هِزار سال پیش دَر توس زِندِگی می‌کَرد.",
+   "a": "f1f5ffa50239"
+  },
+  {
+   "fa": "توس شهری قدیمی نزدیک مشهد است.",
+   "r": "Tus shahr-i ghadimi nazdik-e Mashhad ast.",
+   "en": "Tus is an old town near Mashhad.",
+   "faV": "توس شَهری قَدیمی نَزدیکِ مَشهَد اَست.",
+   "a": "60b81c99d627"
+  },
+  {
+   "fa": "فردوسی سی سال روی شاهنامه کار کرد.",
+   "r": "Ferdowsi si sāl ru-ye Shāhnāme kār kard.",
+   "en": "Ferdowsi worked on the Shahnameh for thirty years.",
+   "faV": "فِردَوسی سی سال رویِ شاهنامه کار کَرد.",
+   "a": "091d21fc70b5"
+  },
+  {
+   "fa": "شاهنامه حدود پنجاه هزار بیت دارد.",
+   "r": "Shāhnāme hodud-e panjāh hezār beyt dārad.",
+   "en": "The Shahnameh has about fifty thousand couplets.",
+   "faV": "شاهنامه حُدودِ پَنجاه هِزار بَیت دارَد.",
+   "a": "4a292b369eff"
+  },
+  {
+   "fa": "شاهنامه داستان پادشاهان و پهلوانان ایران است.",
+   "r": "Shāhnāme dāstān-e pādshāhān va pahlavānān-e Irān ast.",
+   "en": "The Shahnameh is the story of the kings and heroes of Iran.",
+   "faV": "شاهنامه داستانِ پادشاهان و پَهلَوانانِ ایران اَست.",
+   "a": "ff9713b65869"
+  },
+  {
+   "fa": "رستم مشهورترین پهلوان شاهنامه است.",
+   "r": "Rostam mashhur-tarin pahlavān-e Shāhnāme ast.",
+   "en": "Rostam is the most famous hero of the Shahnameh.",
+   "faV": "رُستَم مَشهورتَرین پَهلَوانِ شاهنامه اَست.",
+   "a": "6d6ddd1481e2"
+  },
+  {
+   "fa": "فردوسی کتابش را به سلطان محمود غزنوی تقدیم کرد.",
+   "r": "Ferdowsi ketāb-ash rā be Soltān Mahmud-e Ghaznavi taghdim kard.",
+   "en": "Ferdowsi dedicated his book to Sultan Mahmud of Ghazni.",
+   "faV": "فِردَوسی کِتابَش را به سُلطان مَحمودِ غَزنَوی تَقدیم کَرد.",
+   "a": "f5a589a9b23e"
+  },
+  {
+   "fa": "طبق یک داستان، سلطان به جای سکه‌ی طلا به او سکه‌ی نقره داد.",
+   "r": "tebgh-e yek dāstān, soltān be jā-ye sekke-ye talā be u sekke-ye noghre dād.",
+   "en": "According to one story, the sultan gave him silver coins instead of gold.",
+   "faV": "طِبقِ یِک داستان، سُلطان به جایِ سِکّه‌یِ طَلا به او سِکّه‌یِ نُقره داد.",
+   "a": "82d0b871e2a6"
+  },
+  {
+   "fa": "آرامگاه فردوسی در توس است.",
+   "r": "ārāmgāh-e Ferdowsi dar Tus ast.",
+   "en": "Ferdowsi's tomb is in Tus.",
+   "faV": "آرامگاهِ فِردَوسی دَر توس اَست.",
+   "a": "c20e5e0e6a6b"
+  },
+  {
+   "fa": "فردوسی زبان فارسی را زنده نگه داشت.",
+   "r": "Ferdowsi zabān-e fārsi rā zende negah dāsht.",
+   "en": "Ferdowsi kept the Persian language alive.",
+   "faV": "فِردَوسی زَبانِ فارسی را زِنده نِگَه داشت.",
+   "a": "64ed1dd21e2b"
+  },
+  {
+   "fa": "هنوز هم در قهوه‌خانه‌ها داستان‌های شاهنامه را نقل می‌کنند.",
+   "r": "hanuz ham dar ghahve-khāne-hā dāstān-hā-ye Shāhnāme rā naghl mi-konand.",
+   "en": "Stories from the Shahnameh are still told in coffee houses.",
+   "faV": "هَنوز هَم دَر قَهوه‌خانه‌ها داستان‌هایِ شاهنامه را نَقل می‌کُنَند.",
+   "a": "2081edec03f9"
+  },
+  {
+   "fa": "روز ۲۵ اردیبهشت روز بزرگداشت فردوسی است.",
+   "r": "ruz-e bist-o-panj-e Ordibehesht ruz-e bozorgdāsht-e Ferdowsi ast.",
+   "en": "25 Ordibehesht is the day Iran honours Ferdowsi.",
+   "faV": "روزِ ۲۵ اُردیبِهِشت روزِ بُزُرگداشتِ فِردَوسی اَست.",
+   "a": "7dc74e50375b"
+  }
  ],
  "vocab": [
-  {"fa": "شاعر", "r": "shā'er", "en": "poet"},
-  {"fa": "شعر", "r": "she'r", "en": "poem, poetry"},
-  {"fa": "بیت", "r": "beyt", "en": "couplet, verse"},
-  {"fa": "حماسه", "r": "hamāse", "en": "epic"},
-  {"fa": "پهلوان", "r": "pahlavān", "en": "hero, champion"},
-  {"fa": "قهرمان", "r": "ghahremān", "en": "hero; (sports) champion"},
-  {"fa": "داستان", "r": "dāstān", "en": "story"},
-  {"fa": "اسطوره", "r": "osture", "en": "myth"},
-  {"fa": "سلطان", "r": "soltān", "en": "sultan"},
-  {"fa": "سکه", "r": "sekke", "en": "coin"},
-  {"fa": "طلا", "r": "talā", "en": "gold"},
-  {"fa": "نقره", "r": "noghre", "en": "silver"},
-  {"fa": "زبان", "r": "zabān", "en": "language; tongue"},
-  {"fa": "زنده", "r": "zende", "en": "alive"},
-  {"fa": "حکیم", "r": "hakim", "en": "sage, wise man"},
-  {"fa": "نقال", "r": "naghghāl", "en": "storyteller (of epic tales)"},
-  {"fa": "قهوه‌خانه", "r": "ghahve-khāne", "en": "coffee house"}
+  {
+   "fa": "شاعر",
+   "r": "shā'er",
+   "en": "poet",
+   "faV": "شاعِر",
+   "a": "45d6a2ecdeca"
+  },
+  {
+   "fa": "شعر",
+   "r": "she'r",
+   "en": "poem, poetry",
+   "faV": "شِعر",
+   "a": "116393d466d1"
+  },
+  {
+   "fa": "بیت",
+   "r": "beyt",
+   "en": "couplet, verse",
+   "faV": "بَیت",
+   "a": "fbe61494fd80"
+  },
+  {
+   "fa": "حماسه",
+   "r": "hamāse",
+   "en": "epic",
+   "faV": "حَماسه",
+   "a": "c188fd42171a"
+  },
+  {
+   "fa": "پهلوان",
+   "r": "pahlavān",
+   "en": "hero, champion",
+   "faV": "پَهلَوان",
+   "a": "9af59f46901a"
+  },
+  {
+   "fa": "قهرمان",
+   "r": "ghahremān",
+   "en": "hero; (sports) champion",
+   "faV": "قَهرِمان",
+   "a": "f9ff47ec0a99"
+  },
+  {
+   "fa": "داستان",
+   "r": "dāstān",
+   "en": "story",
+   "faV": "داستان",
+   "a": "b134def87a95"
+  },
+  {
+   "fa": "اسطوره",
+   "r": "osture",
+   "en": "myth",
+   "faV": "اُسطوره",
+   "a": "f594b48fbec2"
+  },
+  {
+   "fa": "سلطان",
+   "r": "soltān",
+   "en": "sultan",
+   "faV": "سُلطان",
+   "a": "ff5c1007ab5d"
+  },
+  {
+   "fa": "سکه",
+   "r": "sekke",
+   "en": "coin",
+   "faV": "سِکّه",
+   "a": "0f9f6fa03f07"
+  },
+  {
+   "fa": "طلا",
+   "r": "talā",
+   "en": "gold",
+   "faV": "طَلا",
+   "a": "df9b08b3b477"
+  },
+  {
+   "fa": "نقره",
+   "r": "noghre",
+   "en": "silver",
+   "faV": "نُقره",
+   "a": "49efab855865"
+  },
+  {
+   "fa": "زبان",
+   "r": "zabān",
+   "en": "language; tongue",
+   "faV": "زَبان",
+   "a": "a97a2b11b019"
+  },
+  {
+   "fa": "زنده",
+   "r": "zende",
+   "en": "alive",
+   "faV": "زِنده",
+   "a": "e5f480fad6b4"
+  },
+  {
+   "fa": "حکیم",
+   "r": "hakim",
+   "en": "sage, wise man",
+   "faV": "حَکیم",
+   "a": "0e58e36607ca"
+  },
+  {
+   "fa": "نقال",
+   "r": "naghghāl",
+   "en": "storyteller (of epic tales)",
+   "faV": "نَقّال",
+   "a": "951705d3c64d"
+  },
+  {
+   "fa": "قهوه‌خانه",
+   "r": "ghahve-khāne",
+   "en": "coffee house",
+   "faV": "قَهوه‌خانه",
+   "a": "160dd8ad08c4"
+  }
  ],
  "facts": [
   "Ferdowsi was born around 940 near Tus in Khorasan and died around 1020.",
@@ -72,5 +246,7 @@
   "The story of the silver coins first appears in Nezami Aruzi's Chahar Maqala ('Four Discourses'), written in the mid-12th century.",
   "25 Ordibehesht (15 May) is Ferdowsi Day in Iran, also kept as a day for the Persian language.",
   "Naqqāli, the dramatic telling of Shahnameh stories, was added to UNESCO's list of intangible heritage in need of urgent safeguarding in 2011."
- ]
+ ],
+ "titleV": "فِردَوسی",
+ "titleA": "f77667076e6f"
 }

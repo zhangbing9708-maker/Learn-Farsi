@@ -25,7 +25,11 @@
      "r": "khob, dustān, sherkat mi-khāhad darbāre-ye dur-kāri tasmim begirad. nazar-e shomā chist? do ruz dar hafte az khāne kār konim yā na?",
      "en": "Right, everyone, the company wants to decide about remote work. What do you think? Should we work from home two days a week or not?",
      "col": "خب، دوستان، شرکت می‌خواد درباره‌ی دورکاری تصمیم بگیره. نظرتون چیه؟ هفته‌ای دو روز از خونه کار کنیم یا نه؟",
-     "colR": "khob, dustān, sherkat mi-khād darbāre-ye dur-kāri tasmim begire. nazar-etun chiye? hafte-i do ruz az khune kār konim yā na?"
+     "colR": "khob, dustān, sherkat mi-khād darbāre-ye dur-kāri tasmim begire. nazar-etun chiye? hafte-i do ruz az khune kār konim yā na?",
+     "faV": "خُب، دوستان، شِرکَت می‌خواهَد دَرباره‌یِ دورکاری تَصمیم بِگیرَد. نَظَرِ شُما چیست؟ دو روز دَر هَفته اَز خانه کار کُنیم یا نه؟",
+     "a": "61b9f88bc5c7",
+     "colV": "خُب، دوستان، شِرکَت می‌خواد دَرباره‌یِ دورکاری تَصمیم بِگیره. نَظَرِتون چیه؟ هَفته‌ای دو روز اَز خونه کار کُنیم یا نه؟",
+     "colA": "ec7440fcd040"
     },
     {
      "who": "Reza",
@@ -33,7 +37,11 @@
      "r": "man kāmelan movāfegh-am! be nazar-e man dur-kāri bedun-e shak behtar ast. har ruz do sā'at dar terāfik-e Tehrān vaght-am hadar mi-ravad.",
      "en": "I completely agree! In my opinion remote work is without doubt better. Every day I waste two hours in Tehran traffic.",
      "col": "من کاملاً موافقم! به نظرم دورکاری بی‌شک بهتره. هر روز دو ساعت تو ترافیک تهرون وقتم هدر می‌ره.",
-     "colR": "man kāmelan movāfegh-am! be nazar-am dur-kāri bi-shak behtar-e. har ruz do sā'at tu terāfik-e Tehrun vaght-am hadar mi-re."
+     "colR": "man kāmelan movāfegh-am! be nazar-am dur-kāri bi-shak behtar-e. har ruz do sā'at tu terāfik-e Tehrun vaght-am hadar mi-re.",
+     "faV": "مَن کامِلاً مُوافِقَم! به نَظَرِ مَن دورکاری بِدونِ شَک بِهتَر اَست. هَر روز دو ساعَت دَر تِرافیکِ تِهران وَقتَم هَدَر می‌رَوَد.",
+     "a": "166fc0825c07",
+     "colV": "مَن کامِلاً مُوافِقَم! به نَظَرَم دورکاری بی‌شَک بِهتَره. هَر روز دو ساعَت تو تِرافیکِ تِهرون وَقتَم هَدَر می‌ره.",
+     "colA": "92887b7321ba"
     },
     {
      "who": "Sara",
@@ -41,7 +49,11 @@
      "r": "bebakhshid, vali man in-towr fekr nemi-konam. kār-e timi faghat bā imeyl va payām pish nemi-ravad.",
      "en": "Sorry, but I don't see it that way. Teamwork doesn't get done with just emails and messages.",
      "col": "ببخشید، ولی من این‌طوری فکر نمی‌کنم. کار تیمی فقط با ایمیل و پیام پیش نمی‌ره.",
-     "colR": "bebakhshid, vali man in-towri fekr nemi-konam. kār-e timi faghat bā imeyl o payām pish nemi-re."
+     "colR": "bebakhshid, vali man in-towri fekr nemi-konam. kār-e timi faghat bā imeyl o payām pish nemi-re.",
+     "faV": "بِبَخشید، وَلی مَن این‌طَور فِکر نِمی‌کُنَم. کارِ تیمی فَقَط با ایمَیل و پَیام پیش نِمی‌رَوَد.",
+     "a": "d330e2995d65",
+     "colV": "بِبَخشید، وَلی مَن این‌طَوری فِکر نِمی‌کُنَم. کارِ تیمی فَقَط با ایمَیل و پَیام پیش نِمی‌ره.",
+     "colA": "f82dad61ba04"
     },
     {
      "who": "Reza",
@@ -49,7 +61,11 @@
      "r": "ghabul dāram ke jalase-ye hozuri mohem ast, vali…",
      "en": "I accept that face-to-face meetings matter, but…",
      "col": "قبول دارم که جلسه‌ی حضوری مهمه، ولی…",
-     "colR": "ghabul dāram ke jalase-ye hozuri mohem-e, vali…"
+     "colR": "ghabul dāram ke jalase-ye hozuri mohem-e, vali…",
+     "faV": "قَبول دارَم که جَلَسه‌یِ حُضوری مُهِم اَست، وَلی…",
+     "a": "e1e9247789a0",
+     "colV": "قَبول دارَم که جَلَسه‌یِ حُضوری مُهِمه، وَلی…",
+     "colA": "baedc3c6383d"
     },
     {
      "who": "Sara",
@@ -57,7 +73,11 @@
      "r": "bebakhshid ke vasat-e harf-etān mi-param, vali faghat jalase nist. vaghti hame dar daftar hastim, moshkel-hā rā dar panj daghighe hal mi-konim.",
      "en": "Sorry to cut in, but it isn't just meetings. When we're all in the office, we solve problems in five minutes.",
      "col": "ببخشید که وسط حرفتون می‌پرم، ولی فقط جلسه نیست. وقتی همه تو دفتریم، مشکلا رو تو پنج دقیقه حل می‌کنیم.",
-     "colR": "bebakhshid ke vasat-e harf-etun mi-param, vali faghat jalase nist. vaghti hame tu daftar-im, moshkel-ā ro tu panj daghighe hal mi-konim."
+     "colR": "bebakhshid ke vasat-e harf-etun mi-param, vali faghat jalase nist. vaghti hame tu daftar-im, moshkel-ā ro tu panj daghighe hal mi-konim.",
+     "faV": "بِبَخشید که وَسَطِ حَرفِتان می‌پَرَم، وَلی فَقَط جَلَسه نیست. وَقتی هَمه دَر دَفتَر هَستیم، مُشکِل‌ها را دَر پَنج دَقیقه حَل می‌کُنیم.",
+     "a": "8b64fce10dc4",
+     "colV": "بِبَخشید که وَسَطِ حَرفِتون می‌پَرَم، وَلی فَقَط جَلَسه نیست. وَقتی هَمه تو دَفتَریم، مُشکِلا رو تو پَنج دَقیقه حَل می‌کُنیم.",
+     "colA": "034f88b251f1"
     },
     {
      "who": "Dariush",
@@ -65,7 +85,11 @@
      "r": "yek lahze, Sārā jān. manzur-etān in ast ke dar khāne kam-tar kār mi-konim?",
      "en": "Just a moment, Sara. Do you mean that we work less at home?",
      "col": "یه لحظه، سارا جان. منظورتون اینه که تو خونه کمتر کار می‌کنیم؟",
-     "colR": "ye lahze, Sārā jān. manzur-etun in-e ke tu khune kam-tar kār mi-konim?"
+     "colR": "ye lahze, Sārā jān. manzur-etun in-e ke tu khune kam-tar kār mi-konim?",
+     "faV": "یِک لَحظه، سارا جان. مَنظورِتان این اَست که دَر خانه کَمتَر کار می‌کُنیم؟",
+     "a": "7fe0f8757678",
+     "colV": "یه لَحظه، سارا جان. مَنظورِتون اینه که تو خونه کَمتَر کار می‌کُنیم؟",
+     "colA": "9261cb3b97fb"
     },
     {
      "who": "Sara",
@@ -73,7 +97,11 @@
      "r": "na, manzur-am in nist. manzur-am in ast ke ertebāt za'if-tar mi-shavad va ādam ehsās-e tanhāyi mi-konad.",
      "en": "No, that's not what I mean. I mean that communication gets weaker and you feel lonely.",
      "col": "نه، منظورم این نیست. منظورم اینه که ارتباط ضعیف‌تر می‌شه و آدم احساس تنهایی می‌کنه.",
-     "colR": "na, manzur-am in nist. manzur-am in-e ke ertebāt za'if-tar mi-she o ādam ehsās-e tanhāyi mi-kone."
+     "colR": "na, manzur-am in nist. manzur-am in-e ke ertebāt za'if-tar mi-she o ādam ehsās-e tanhāyi mi-kone.",
+     "faV": "نه، مَنظورَم این نیست. مَنظورَم این اَست که اِرتِباط ضَعیف‌تَر می‌شَوَد و آدَم اِحساسِ تَنهایی می‌کُنَد.",
+     "a": "e3f7d1a85650",
+     "colV": "نه، مَنظورَم این نیست. مَنظورَم اینه که اِرتِباط ضَعیف‌تَر می‌شه و آدَم اِحساسِ تَنهایی می‌کُنه.",
+     "colA": "02c969e917db"
     },
     {
      "who": "Reza",
@@ -81,7 +109,11 @@
      "r": "hagh bā shomā-st, tanhāyi vāghe'an moshkel ast. vali be nazar-am kas-i ke do sā'at dar terāfik na-mānde, bā enerzhi-ye bishtar-i kār mi-konad.",
      "en": "You're right, loneliness really is a problem. But I think someone who hasn't sat in traffic for two hours works with more energy.",
      "col": "حق با شماست، تنهایی واقعاً مشکله. ولی به نظرم کسی که دو ساعت تو ترافیک نمونده، با انرژی بیشتری کار می‌کنه.",
-     "colR": "hagh bā shomā-st, tanhāyi vāghe'an moshkel-e. vali be nazar-am kas-i ke do sā'at tu terāfik na-munde, bā enerzhi-ye bishtar-i kār mi-kone."
+     "colR": "hagh bā shomā-st, tanhāyi vāghe'an moshkel-e. vali be nazar-am kas-i ke do sā'at tu terāfik na-munde, bā enerzhi-ye bishtar-i kār mi-kone.",
+     "faV": "حَق با شُماست، تَنهایی واقِعاً مُشکِل اَست. وَلی به نَظَرَم کَسی که دو ساعَت دَر تِرافیک نَمانده، با اِنِرژیِ بیشتَری کار می‌کُنَد.",
+     "a": "19cc4f6792b8",
+     "colV": "حَق با شُماست، تَنهایی واقِعاً مُشکِله. وَلی به نَظَرَم کَسی که دو ساعَت تو تِرافیک نَمونده، با اِنِرژیِ بیشتَری کار می‌کُنه.",
+     "colA": "fa02fe41e67e"
     },
     {
      "who": "Dariush",
@@ -89,7 +121,11 @@
      "r": "āghā Rezā, mi-shavad yek mesāl bezanid?",
      "en": "Reza, could you give us an example?",
      "col": "آقا رضا، می‌شه یه مثال بزنین؟",
-     "colR": "āghā Rezā, mi-she ye mesāl bezanin?"
+     "colR": "āghā Rezā, mi-she ye mesāl bezanin?",
+     "faV": "آقا رِضا، می‌شَوَد یِک مِثال بِزَنید؟",
+     "a": "f1edc84ab8c8",
+     "colV": "آقا رِضا، می‌شه یه مِثال بِزَنین؟",
+     "colA": "4ba1e70c4633"
     },
     {
      "who": "Reza",
@@ -97,7 +133,11 @@
      "r": "bale. pārsāl se māh az khāne kār kardam va bishtar az hamishe kār anjām dādam. albatte ghabul dāram ke gāhi del-am barā-ye hamkār-hā tang mi-shod.",
      "en": "Yes. Last year I worked from home for three months and got more done than ever. Though I admit I sometimes missed my colleagues.",
      "col": "آره. پارسال سه ماه از خونه کار کردم، از همیشه بیشتر کار انجام دادم. البته قبول دارم که گاهی دلم واسه همکارا تنگ می‌شد.",
-     "colR": "āre. pārsāl se māh az khune kār kardam, az hamishe bishtar kār anjām dādam. albatte ghabul dāram ke gāhi del-am vāse hamkār-ā tang mi-shod."
+     "colR": "āre. pārsāl se māh az khune kār kardam, az hamishe bishtar kār anjām dādam. albatte ghabul dāram ke gāhi del-am vāse hamkār-ā tang mi-shod.",
+     "faV": "بَله. پارسال سه ماه اَز خانه کار کَردَم و بیشتَر اَز هَمیشه کار اَنجام دادَم. اَلبَتّه قَبول دارَم که گاهی دِلَم بَرایِ هَمکارها تَنگ می‌شُد.",
+     "a": "15f6e6063768",
+     "colV": "آره. پارسال سه ماه اَز خونه کار کَردَم، اَز هَمیشه بیشتَر کار اَنجام دادَم. اَلبَتّه قَبول دارَم که گاهی دِلَم واسه هَمکارا تَنگ می‌شُد.",
+     "colA": "4b36eabf7ba4"
     },
     {
      "who": "Sara",
@@ -105,7 +145,11 @@
      "r": "daghighan! khod-etān ham goftid: del-etān tang mi-shod. ya'ni dur-kāri barā-ye hame monāseb nist.",
      "en": "Exactly! You said it yourself: you missed them. That means remote work isn't right for everyone.",
      "col": "دقیقاً! خودتون هم گفتین: دلتون تنگ می‌شد. یعنی دورکاری واسه همه مناسب نیست.",
-     "colR": "daghighan! khod-etun ham goftin: del-etun tang mi-shod. ya'ni dur-kāri vāse hame monāseb nist."
+     "colR": "daghighan! khod-etun ham goftin: del-etun tang mi-shod. ya'ni dur-kāri vāse hame monāseb nist.",
+     "faV": "دَقیقاً! خودِتان هَم گُفتید: دِلِتان تَنگ می‌شُد. یَعنی دورکاری بَرایِ هَمه مُناسِب نیست.",
+     "a": "30d1a9ce0520",
+     "colV": "دَقیقاً! خودِتون هَم گُفتین: دِلِتون تَنگ می‌شُد. یَعنی دورکاری واسه هَمه مُناسِب نیست.",
+     "colA": "2b339fb15f1e"
     },
     {
      "who": "Reza",
@@ -113,7 +157,11 @@
      "r": "shāyad. vali ba'id ast ke kas-i del-ash barā-ye terāfik tang shavad!",
      "en": "Maybe. But it's unlikely that anyone will miss the traffic!",
      "col": "شاید. ولی بعیده کسی دلش واسه ترافیک تنگ بشه!",
-     "colR": "shāyad. vali ba'id-e kas-i del-esh vāse terāfik tang beshe!"
+     "colR": "shāyad. vali ba'id-e kas-i del-esh vāse terāfik tang beshe!",
+     "faV": "شایَد. وَلی بَعید اَست که کَسی دِلَش بَرایِ تِرافیک تَنگ شَوَد!",
+     "a": "abf0ebb23242",
+     "colV": "شایَد. وَلی بَعیده کَسی دِلِش واسه تِرافیک تَنگ بِشه!",
+     "colA": "b597edd3f942"
     },
     {
      "who": "Dariush",
@@ -121,7 +169,11 @@
      "r": "khob, biyāyid jam'-bandi konim: az yek taraf, dur-kāri dar vaght va enerzhi-ye mā sarfe-juyi mi-konad; az taraf-e digar, ertebāt-e tim rā za'if mi-konad.",
      "en": "Right, let's sum up: on the one hand, remote work saves our time and energy; on the other hand, it weakens communication in the team.",
      "col": "خب، بیاین جمع‌بندی کنیم: از یه طرف، دورکاری تو وقت و انرژیمون صرفه‌جویی می‌کنه؛ از طرف دیگه، ارتباط تیمو ضعیف می‌کنه.",
-     "colR": "khob, biyāyn jam'-bandi konim: az ye taraf, dur-kāri tu vaght o enerzhi-mun sarfe-juyi mi-kone; az taraf-e dige, ertebāt-e tim-o za'if mi-kone."
+     "colR": "khob, biyāyn jam'-bandi konim: az ye taraf, dur-kāri tu vaght o enerzhi-mun sarfe-juyi mi-kone; az taraf-e dige, ertebāt-e tim-o za'if mi-kone.",
+     "faV": "خُب، بیایید جَمع‌بَندی کُنیم: اَز یِک طَرَف، دورکاری دَر وَقت و اِنِرژیِ ما صَرفه‌جویی می‌کُنَد؛ اَز طَرَفِ دیگَر، اِرتِباطِ تیم را ضَعیف می‌کُنَد.",
+     "a": "63b28e725f70",
+     "colV": "خُب، بیاین جَمع‌بَندی کُنیم: اَز یه طَرَف، دورکاری تو وَقت و اِنِرژیمون صَرفه‌جویی می‌کُنه؛ اَز طَرَفِ دیگه، اِرتِباطِ تیمو ضَعیف می‌کُنه.",
+     "colA": "bcb9dcb85b14"
     },
     {
      "who": "Sara",
@@ -129,7 +181,11 @@
      "r": "pas shāyad hafte-i yek ruz dur-kāri behtarin rāh bāshad. in-towr ham Rezā kam-tar dar terāfik mi-mānad, ham mā hamdigar rā mi-binim.",
      "en": "So perhaps one day a week from home is the best solution. That way Reza spends less time in traffic, and we still see each other.",
      "col": "پس شاید هفته‌ای یه روز دورکاری بهترین راه باشه. این‌طوری هم رضا کمتر تو ترافیک می‌مونه، هم ما همدیگه رو می‌بینیم.",
-     "colR": "pas shāyad hafte-i ye ruz dur-kāri behtarin rāh bāshe. in-towri ham Rezā kam-tar tu terāfik mi-mune, ham mā hamdige ro mi-binim."
+     "colR": "pas shāyad hafte-i ye ruz dur-kāri behtarin rāh bāshe. in-towri ham Rezā kam-tar tu terāfik mi-mune, ham mā hamdige ro mi-binim.",
+     "faV": "پَس شایَد هَفته‌ای یِک روز دورکاری بِهتَرین راه باشَد. این‌طَور هَم رِضا کَمتَر دَر تِرافیک می‌مانَد، هَم ما هَمدیگَر را می‌بینیم.",
+     "a": "b45e2505f07b",
+     "colV": "پَس شایَد هَفته‌ای یه روز دورکاری بِهتَرین راه باشه. این‌طَوری هَم رِضا کَمتَر تو تِرافیک می‌مونه، هَم ما هَمدیگه رو می‌بینیم.",
+     "colA": "072f9e08ee88"
     }
    ]
   },
@@ -146,20 +202,26 @@
      "fa": "مناظره",
      "r": "monāzere",
      "en": "(formal) debate",
-     "pos": "n"
+     "pos": "n",
+     "faV": "مُناظِره",
+     "a": "852befb4a030"
     },
     {
      "fa": "استدلال",
      "r": "estedlāl",
      "en": "reasoning, line of argument",
      "pos": "n",
-     "note": "استدلال کردن to argue (a case)"
+     "note": "استدلال کردن to argue (a case)",
+     "faV": "اِستِدلال",
+     "a": "79756c91c03f"
     },
     {
      "fa": "دیدگاه",
      "r": "didgāh",
      "en": "point of view",
-     "pos": "n"
+     "pos": "n",
+     "faV": "دیدگاه",
+     "a": "e4b65ead8290"
     },
     {
      "fa": "قبول داشتن",
@@ -169,21 +231,29 @@
      "ex": {
       "fa": "قبول دارم که حق با شماست.",
       "r": "ghabul dāram ke hagh bā shomā-st.",
-      "en": "I admit that you're right."
-     }
+      "en": "I admit that you're right.",
+      "faV": "قَبول دارَم که حَق با شُماست.",
+      "a": "f73724a55324"
+     },
+     "faV": "قَبول داشتَن",
+     "a": "0b0fd0caf272"
     },
     {
      "fa": "مخالفت کردن",
      "r": "mokhālefat kardan",
      "en": "to oppose, to object (با to)",
-     "pos": "v"
+     "pos": "v",
+     "faV": "مُخالِفَت کَردَن",
+     "a": "5f92751f74c5"
     },
     {
      "fa": "حرف کسی را قطع کردن",
      "r": "harf-e kas-i rā ghat' kardan",
      "en": "to interrupt someone",
      "pos": "phrase",
-     "note": "more colloquial: وسط حرف کسی پریدن, to jump into the middle of someone's words"
+     "note": "more colloquial: وسط حرف کسی پریدن, to jump into the middle of someone's words",
+     "faV": "حَرفِ کَسی را قَطع کَردَن",
+     "a": "009272822df0"
     },
     {
      "fa": "منظور",
@@ -193,77 +263,103 @@
      "ex": {
       "fa": "منظورتان چیست؟",
       "r": "manzur-etān chist?",
-      "en": "What do you mean?"
-     }
+      "en": "What do you mean?",
+      "faV": "مَنظورِتان چیست؟",
+      "a": "bdc8f602e141"
+     },
+     "faV": "مَنظور",
+     "a": "94e81b9f8346"
     },
     {
      "fa": "توضیح دادن",
      "r": "towzih dādan",
      "en": "to explain",
-     "pos": "v"
+     "pos": "v",
+     "faV": "تَوضیح دادَن",
+     "a": "c06dd5c605d0"
     },
     {
      "fa": "جمع‌بندی",
      "r": "jam'-bandi",
      "en": "summing up, summary",
      "pos": "n",
-     "note": "جمع‌بندی کردن to sum up"
+     "note": "جمع‌بندی کردن to sum up",
+     "faV": "جَمع‌بَندی",
+     "a": "c5327b7170c5"
     },
     {
      "fa": "خلاصه",
      "r": "kholāse",
      "en": "summary; in short",
-     "pos": "n"
+     "pos": "n",
+     "faV": "خُلاصه",
+     "a": "ac84adafc65c"
     },
     {
      "fa": "دورکاری",
      "r": "dur-kāri",
      "en": "remote work, working from home",
-     "pos": "n"
+     "pos": "n",
+     "faV": "دورکاری",
+     "a": "51bf02d9d3ca"
     },
     {
      "fa": "حضوری",
      "r": "hozuri",
      "en": "in person, face-to-face",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "حُضوری",
+     "a": "31478897b487"
     },
     {
      "fa": "همکار",
      "r": "hamkār",
      "en": "colleague",
-     "pos": "n"
+     "pos": "n",
+     "faV": "هَمکار",
+     "a": "26b4e63414cf"
     },
     {
      "fa": "ارتباط",
      "r": "ertebāt",
      "en": "communication; connection",
-     "pos": "n"
+     "pos": "n",
+     "faV": "اِرتِباط",
+     "a": "92bf795774ca"
     },
     {
      "fa": "تمرکز",
      "r": "tamarkoz",
      "en": "concentration, focus",
-     "pos": "n"
+     "pos": "n",
+     "faV": "تَمَرکُز",
+     "a": "53b211706b6f"
     },
     {
      "fa": "هدر رفتن",
      "r": "hadar raftan",
      "en": "to be wasted",
-     "pos": "v"
+     "pos": "v",
+     "faV": "هَدَر رَفتَن",
+     "a": "9fda4bc7c2fc"
     },
     {
      "fa": "صرفه‌جویی",
      "r": "sarfe-juyi",
      "en": "saving (money, time)",
      "pos": "n",
-     "note": "در چیزی صرفه‌جویی کردن to save on something"
+     "note": "در چیزی صرفه‌جویی کردن to save on something",
+     "faV": "صَرفه‌جویی",
+     "a": "039a4d15086d"
     },
     {
      "fa": "پیشنهاد",
      "r": "pishnahād",
      "en": "suggestion, proposal",
      "pos": "n",
-     "note": "پیشنهاد کردن / دادن to suggest"
+     "note": "پیشنهاد کردن / دادن to suggest",
+     "faV": "پیشنَهاد",
+     "a": "485bc0e5e5d3"
     },
     {
      "fa": "بعید",
@@ -273,33 +369,45 @@
      "ex": {
       "fa": "بعید است که امروز بیاید.",
       "r": "ba'id ast ke emruz biyāyad.",
-      "en": "It's unlikely that he'll come today."
-     }
+      "en": "It's unlikely that he'll come today.",
+      "faV": "بَعید اَست که اِمروز بیایَد.",
+      "a": "61f4536e2f40"
+     },
+     "faV": "بَعید",
+     "a": "d5310ac2dc4a"
     },
     {
      "fa": "مزیت",
      "r": "maziyyat",
      "en": "advantage",
      "pos": "n",
-     "note": "plural مزایا (mazāyā)"
+     "note": "plural مزایا (mazāyā)",
+     "faV": "مَزیَّت",
+     "a": "9e221f294aae"
     },
     {
      "fa": "عیب",
      "r": "'eyb",
      "en": "drawback, fault",
-     "pos": "n"
+     "pos": "n",
+     "faV": "عَیب",
+     "a": "cd04aa029b6f"
     },
     {
      "fa": "طرفدار",
      "r": "tarafdār",
      "en": "supporter, fan",
-     "pos": "n"
+     "pos": "n",
+     "faV": "طَرَفدار",
+     "a": "9232365e8bac"
     },
     {
      "fa": "اغراق کردن",
      "r": "eghrāgh kardan",
      "en": "to exaggerate",
-     "pos": "v"
+     "pos": "v",
+     "faV": "اِغراق کَردَن",
+     "a": "7f9f44126cb0"
     },
     {
      "fa": "قانع کردن",
@@ -309,8 +417,12 @@
      "ex": {
       "fa": "شما مرا قانع کردید.",
       "r": "shomā marā ghāne' kardid.",
-      "en": "You've convinced me."
-     }
+      "en": "You've convinced me.",
+      "faV": "شُما مَرا قانِع کَردید.",
+      "a": "facfe12c5dec"
+     },
+     "faV": "قانِع کَردَن",
+     "a": "afc6b27c34f3"
     }
    ]
   },
@@ -394,49 +506,77 @@
      "r": "motma'en-am ke in tarh movaffagh mi-shavad.",
      "en": "I'm sure this plan will succeed.",
      "col": "مطمئنم این طرح موفق می‌شه.",
-     "colR": "motma'en-am in tarh movaffagh mi-she."
+     "colR": "motma'en-am in tarh movaffagh mi-she.",
+     "faV": "مُطمَئِنَم که این طَرح مُوَفَّق می‌شَوَد.",
+     "a": "e2fbcd911c7a",
+     "colV": "مُطمَئِنَم این طَرح مُوَفَّق می‌شه.",
+     "colA": "2edc493137a3"
     },
     {
      "fa": "فکر نمی‌کنم که مدیر قبول کند.",
      "r": "fekr nemi-konam ke modir ghabul konad.",
      "en": "I don't think the manager will agree.",
      "col": "فکر نمی‌کنم مدیر قبول کنه.",
-     "colR": "fekr nemi-konam modir ghabul kone."
+     "colR": "fekr nemi-konam modir ghabul kone.",
+     "faV": "فِکر نِمی‌کُنَم که مُدیر قَبول کُنَد.",
+     "a": "6113081542b6",
+     "colV": "فِکر نِمی‌کُنَم مُدیر قَبول کُنه.",
+     "colA": "dd63823fa39d"
     },
     {
      "fa": "شاید حق با شما باشد، ولی من هنوز مطمئن نیستم.",
      "r": "shāyad hagh bā shomā bāshad, vali man hanuz motma'en nistam.",
      "en": "You may be right, but I'm still not sure.",
      "col": "شاید حق با شما باشه، ولی من هنوز مطمئن نیستم.",
-     "colR": "shāyad hagh bā shomā bāshe, vali man hanuz motma'en nistam."
+     "colR": "shāyad hagh bā shomā bāshe, vali man hanuz motma'en nistam.",
+     "faV": "شایَد حَق با شُما باشَد، وَلی مَن هَنوز مُطمَئِن نیستَم.",
+     "a": "3adc6d96f849",
+     "colV": "شایَد حَق با شُما باشه، وَلی مَن هَنوز مُطمَئِن نیستَم.",
+     "colA": "2198e9f82266"
     },
     {
      "fa": "بعید است که قیمت‌ها پایین بیاید.",
      "r": "ba'id ast ke gheymat-hā pāyin biyāyad.",
      "en": "It's unlikely that prices will come down.",
      "col": "بعیده قیمتا بیاد پایین.",
-     "colR": "ba'id-e gheymat-ā biyād pāyin."
+     "colR": "ba'id-e gheymat-ā biyād pāyin.",
+     "faV": "بَعید اَست که قَیمَت‌ها پایین بیایَد.",
+     "a": "ed5c5f2aee0f",
+     "colV": "بَعیده قَیمَتا بیاد پایین.",
+     "colA": "ef104c26a489"
     },
     {
      "fa": "به نظرم یک کم اغراق می‌کنید.",
      "r": "be nazar-am yek kam eghrāgh mi-konid.",
      "en": "I think you're exaggerating a little.",
      "col": "به نظرم یه کم اغراق می‌کنین.",
-     "colR": "be nazar-am ye kam eghrāgh mi-konin."
+     "colR": "be nazar-am ye kam eghrāgh mi-konin.",
+     "faV": "به نَظَرَم یِک کَم اِغراق می‌کُنید.",
+     "a": "d4ae1976f476",
+     "colV": "به نَظَرَم یه کَم اِغراق می‌کُنین.",
+     "colA": "a835f3b27ea6"
     },
     {
      "fa": "من به هیچ وجه با این طرح موافق نیستم.",
      "r": "man be hich vajh bā in tarh movāfegh nistam.",
      "en": "I'm not in favour of this plan at all.",
      "col": "من اصلاً با این طرح موافق نیستم.",
-     "colR": "man aslan bā in tarh movāfegh nistam."
+     "colR": "man aslan bā in tarh movāfegh nistam.",
+     "faV": "مَن به هیچ وَجه با این طَرح مُوافِق نیستَم.",
+     "a": "f3b691257d58",
+     "colV": "مَن اَصلاً با این طَرح مُوافِق نیستَم.",
+     "colA": "f89ac766892d"
     },
     {
      "fa": "فکر نمی‌کنید که هزینه‌اش خیلی زیاد است؟",
      "r": "fekr nemi-konid ke hazine-ash kheyli ziyād ast?",
      "en": "Don't you think it costs too much?",
      "col": "فکر نمی‌کنین هزینه‌ش خیلی زیاده؟",
-     "colR": "fekr nemi-konin hazine-sh kheyli ziyād-e?"
+     "colR": "fekr nemi-konin hazine-sh kheyli ziyād-e?",
+     "faV": "فِکر نِمی‌کُنید که هَزینه‌اَش خَیلی زیاد اَست؟",
+     "a": "7a7738e294a6",
+     "colV": "فِکر نِمی‌کُنین هَزینه‌ش خَیلی زیاده؟",
+     "colA": "38e94ef1bcaf"
     }
    ]
   },
@@ -520,21 +660,33 @@
      "r": "ghabul dāram ke dur-kāri rāhat ast, vali barā-ye hame monāseb nist.",
      "en": "I accept that remote work is convenient, but it isn't right for everyone.",
      "col": "قبول دارم که دورکاری راحته، ولی واسه همه مناسب نیست.",
-     "colR": "ghabul dāram ke dur-kāri rāhat-e, vali vāse hame monāseb nist."
+     "colR": "ghabul dāram ke dur-kāri rāhat-e, vali vāse hame monāseb nist.",
+     "faV": "قَبول دارَم که دورکاری راحَت اَست، وَلی بَرایِ هَمه مُناسِب نیست.",
+     "a": "b7ba78b8d8f0",
+     "colV": "قَبول دارَم که دورکاری راحَته، وَلی واسه هَمه مُناسِب نیست.",
+     "colA": "693312387aca"
     },
     {
      "fa": "درست است که تهران شلوغ است، اما همه‌ی امکانات این‌جاست.",
      "r": "dorost ast ke Tehrān sholugh ast, ammā hame-ye emkānāt in-jā-st.",
      "en": "It's true that Tehran is crowded, but everything you need is here.",
      "col": "درسته که تهران شلوغه، ولی همه‌ی امکانات این‌جاست.",
-     "colR": "dorost-e ke Tehrān sholugh-e, vali hame-ye emkānāt in-jā-st."
+     "colR": "dorost-e ke Tehrān sholugh-e, vali hame-ye emkānāt in-jā-st.",
+     "faV": "دُرُست اَست که تِهران شُلوغ اَست، اَمّا هَمه‌یِ اِمکانات این‌جاست.",
+     "a": "efd554c5d9c6",
+     "colV": "دُرُسته که تِهران شُلوغه، وَلی هَمه‌یِ اِمکانات این‌جاست.",
+     "colA": "21d930b469ac"
     },
     {
      "fa": "با این‌که حقوقش کم بود، کارش را دوست داشت.",
      "r": "bā in-ke hoghugh-ash kam bud, kār-ash rā dust dāsht.",
      "en": "Although his salary was low, he loved his job.",
      "col": "با این‌که حقوقش کم بود، کارشو دوست داشت.",
-     "colR": "bā in-ke hoghugh-esh kam bud, kār-esh-o dust dāsht."
+     "colR": "bā in-ke hoghugh-esh kam bud, kār-esh-o dust dāsht.",
+     "faV": "با این‌که حُقوقَش کَم بود، کارَش را دوست داشت.",
+     "a": "03e6a42bbe82",
+     "colV": "با این‌که حُقوقِش کَم بود، کارِشو دوست داشت.",
+     "colA": "ca06bc85eb15"
     },
     {
      "fa": "اگرچه هوا سرد بود، باز هم به کوه رفتیم.",
@@ -542,27 +694,41 @@
      "en": "Although it was cold, we still went to the mountains.",
      "col": "با این‌که هوا سرد بود، باز هم رفتیم کوه.",
      "colR": "bā in-ke havā sard bud, bāz ham raftim kuh.",
-     "note": "[[اگرچه|agar-che]] belongs to writing; in speech people say [[با این‌که|bā in-ke]]."
+     "note": "[[اگرچه|agar-che]] belongs to writing; in speech people say [[با این‌که|bā in-ke]].",
+     "faV": "اَگَرچه هَوا سَرد بود، باز هَم به کوه رَفتیم.",
+     "a": "b951406320e8",
+     "colV": "با این‌که هَوا سَرد بود، باز هَم رَفتیم کوه.",
+     "colA": "ef2489c4f348"
     },
     {
      "fa": "از یک طرف دلم برای خانواده‌ام تنگ است، از طرف دیگر کارم این‌جاست.",
      "r": "az yek taraf del-am barā-ye khānevāde-am tang ast, az taraf-e digar kār-am in-jā-st.",
      "en": "On the one hand I miss my family; on the other hand my work is here.",
      "col": "از یه طرف دلم واسه خانواده‌م تنگه، از طرف دیگه کارم این‌جاست.",
-     "colR": "az ye taraf del-am vāse khānevāde-m tang-e, az taraf-e dige kār-am in-jā-st."
+     "colR": "az ye taraf del-am vāse khānevāde-m tang-e, az taraf-e dige kār-am in-jā-st.",
+     "faV": "اَز یِک طَرَف دِلَم بَرایِ خانِواده‌اَم تَنگ اَست، اَز طَرَفِ دیگَر کارَم این‌جاست.",
+     "a": "0f61f20340c0",
+     "colV": "اَز یه طَرَف دِلَم واسه خانِواده‌م تَنگه، اَز طَرَفِ دیگه کارَم این‌جاست.",
+     "colA": "7788cdcf0f04"
     },
     {
      "fa": "حق با شماست؛ با این حال، باید هزینه را هم در نظر بگیریم.",
      "r": "hagh bā shomā-st; bā in hāl, bāyad hazine rā ham dar nazar begirim.",
      "en": "You're right; even so, we must take the cost into account too.",
      "col": "حق با شماست؛ ولی خب، باید هزینه رو هم در نظر بگیریم.",
-     "colR": "hagh bā shomā-st; vali khob, bāyad hazine ro ham dar nazar begirim."
+     "colR": "hagh bā shomā-st; vali khob, bāyad hazine ro ham dar nazar begirim.",
+     "faV": "حَق با شُماست؛ با این حال، بایَد هَزینه را هَم دَر نَظَر بِگیریم.",
+     "a": "4a5df31a0c93",
+     "colV": "حَق با شُماست؛ وَلی خُب، بایَد هَزینه رو هَم دَر نَظَر بِگیریم.",
+     "colA": "4f1a38d569bd"
     },
     {
      "fa": "هر چند فردوسی فقیر مرد، نامش جاودانه ماند.",
      "r": "har chand Ferdowsi faghir mord, nām-ash jāvdāne mānd.",
      "en": "Although Ferdowsi died poor, his name lives on for ever.",
-     "note": "[[هر چند|har chand]] is for writing and speeches."
+     "note": "[[هر چند|har chand]] is for writing and speeches.",
+     "faV": "هَر چَند فِردَوسی فَقیر مُرد، نامَش جاودانه ماند.",
+     "a": "ebfa5d2c38d1"
     }
    ]
   },
@@ -766,47 +932,73 @@
      "r": "bebakhshid ke vasat-e harf-etān mi-param, vali in 'adad dorost nist.",
      "en": "Sorry to cut in, but that figure isn't right.",
      "col": "ببخشید که وسط حرفتون می‌پرم، ولی این عدد درست نیست.",
-     "colR": "bebakhshid ke vasat-e harf-etun mi-param, vali in 'adad dorost nist."
+     "colR": "bebakhshid ke vasat-e harf-etun mi-param, vali in 'adad dorost nist.",
+     "faV": "بِبَخشید که وَسَطِ حَرفِتان می‌پَرَم، وَلی این عَدَد دُرُست نیست.",
+     "a": "2723a80d91b4",
+     "colV": "بِبَخشید که وَسَطِ حَرفِتون می‌پَرَم، وَلی این عَدَد دُرُست نیست.",
+     "colA": "615b0e39eb57"
     },
     {
      "fa": "اجازه بدهید من هم نظرم را بگویم.",
      "r": "ejāze bedahid man ham nazar-am rā beguyam.",
      "en": "Allow me to give my opinion too.",
      "col": "اجازه بدین منم نظرمو بگم.",
-     "colR": "ejāze bedin man-am nazar-am-o begam."
+     "colR": "ejāze bedin man-am nazar-am-o begam.",
+     "faV": "اِجازه بِدَهید مَن هَم نَظَرَم را بِگویَم.",
+     "a": "cf785ce010d4",
+     "colV": "اِجازه بِدین مَنَم نَظَرَمو بِگَم.",
+     "colA": "91e0efc148eb"
     },
     {
      "fa": "منظورتان این است که باید طرح را عوض کنیم؟",
      "r": "manzur-etān in ast ke bāyad tarh rā 'avaz konim?",
      "en": "Do you mean we should change the plan?",
      "col": "منظورتون اینه که باید طرحو عوض کنیم؟",
-     "colR": "manzur-etun in-e ke bāyad tarh-o 'avaz konim?"
+     "colR": "manzur-etun in-e ke bāyad tarh-o 'avaz konim?",
+     "faV": "مَنظورِتان این اَست که بایَد طَرح را عَوَض کُنیم؟",
+     "a": "240a0a7b8c1d",
+     "colV": "مَنظورِتون اینه که بایَد طَرحو عَوَض کُنیم؟",
+     "colA": "14eae6538c4e"
     },
     {
      "fa": "می‌شود یک مثال بزنید؟ دقیقاً متوجه نشدم.",
      "r": "mi-shavad yek mesāl bezanid? daghighan motavajjeh na-shodam.",
      "en": "Could you give an example? I didn't quite follow.",
      "col": "می‌شه یه مثال بزنین؟ دقیقاً متوجه نشدم.",
-     "colR": "mi-she ye mesāl bezanin? daghighan motavajjeh na-shodam."
+     "colR": "mi-she ye mesāl bezanin? daghighan motavajjeh na-shodam.",
+     "faV": "می‌شَوَد یِک مِثال بِزَنید؟ دَقیقاً مُتَوَجِّه نَشُدَم.",
+     "a": "1ea692da309a",
+     "colV": "می‌شه یه مِثال بِزَنین؟ دَقیقاً مُتَوَجِّه نَشُدَم.",
+     "colA": "51c4060f84d3"
     },
     {
      "fa": "خلاصه این‌که هر دو طرف دلایل خوبی دارند.",
      "r": "kholāse in-ke har do taraf dalāyel-e khub-i dārand.",
      "en": "In short, both sides have good reasons.",
      "col": "خلاصه این‌که هر دو طرف دلیلای خوبی دارن.",
-     "colR": "kholāse in-ke har do taraf dalil-ā-ye khub-i dāran."
+     "colR": "kholāse in-ke har do taraf dalil-ā-ye khub-i dāran.",
+     "faV": "خُلاصه این‌که هَر دو طَرَف دَلایِلِ خوبی دارَند.",
+     "a": "33b23be244d6",
+     "colV": "خُلاصه این‌که هَر دو طَرَف دَلیلایِ خوبی دارَن.",
+     "colA": "2d1de27d2ca8"
     },
     {
      "fa": "در مجموع، به نظر می‌رسد که بیشتر مردم با این طرح موافق‌اند.",
      "r": "dar majmu', be nazar mi-resad ke bishtar-e mardom bā in tarh movāfegh-and.",
-     "en": "All in all, it seems that most people support this plan."
+     "en": "All in all, it seems that most people support this plan.",
+     "faV": "دَر مَجموع، به نَظَر می‌رِسَد که بیشتَرِ مَردُم با این طَرح مُوافِق‌اَند.",
+     "a": "415fc6efa91b"
     },
     {
      "fa": "پس به این نتیجه رسیدیم که هفته‌ای یک روز دورکاری کافی است.",
      "r": "pas be in natije residim ke hafte-i yek ruz dur-kāri kāfi ast.",
      "en": "So we've come to the conclusion that one day a week of remote work is enough.",
      "col": "پس به این نتیجه رسیدیم که هفته‌ای یه روز دورکاری کافیه.",
-     "colR": "pas be in natije residim ke hafte-i ye ruz dur-kāri kāfi-ye."
+     "colR": "pas be in natije residim ke hafte-i ye ruz dur-kāri kāfi-ye.",
+     "faV": "پَس به این نَتیجه رِسیدیم که هَفته‌ای یِک روز دورکاری کافی اَست.",
+     "a": "027394e4f76b",
+     "colV": "پَس به این نَتیجه رِسیدیم که هَفته‌ای یه روز دورکاری کافیه.",
+     "colA": "108ff2c8de78"
     }
    ]
   },
@@ -818,62 +1010,86 @@
     {
      "fa": "در چند دهه‌ی گذشته، میلیون‌ها ایرانی روستاها را ترک کرده و به شهرها آمده‌اند.",
      "r": "dar chand dahe-ye gozashte, milyun-hā irāni rustā-hā rā tark karde va be shahr-hā āmade-and.",
-     "en": "Over the past few decades, millions of Iranians have left the villages and moved to the cities."
+     "en": "Over the past few decades, millions of Iranians have left the villages and moved to the cities.",
+     "faV": "دَر چَند دَهه‌یِ گُذَشته، میلیون‌ها ایرانی روستاها را تَرک کَرده و به شَهرها آمَده‌اَند.",
+     "a": "f04e3d28b791"
     },
     {
      "fa": "امروز بیش از سه‌چهارم مردم ایران در شهرها زندگی می‌کنند.",
      "r": "emruz bish az se-chahārom-e mardom-e Irān dar shahr-hā zendegi mi-konand.",
-     "en": "Today more than three quarters of Iran's people live in cities."
+     "en": "Today more than three quarters of Iran's people live in cities.",
+     "faV": "اِمروز بیش اَز سه‌چَهارُمِ مَردُمِ ایران دَر شَهرها زِندِگی می‌کُنَند.",
+     "a": "a55a17b7dc37"
     },
     {
      "fa": "اما این روزها گروهی از جوانان راه برعکس را انتخاب می‌کنند و به روستا برمی‌گردند.",
      "r": "ammā in ruz-hā goruh-i az javānān rāh-e bar-'aks rā entekhāb mi-konand va be rustā bar-mi-gardand.",
-     "en": "But these days a group of young people are choosing the opposite path and going back to the village."
+     "en": "But these days a group of young people are choosing the opposite path and going back to the village.",
+     "faV": "اَمّا این روزها گُروهی اَز جَوانان راهِ بَرعَکس را اِنتِخاب می‌کُنَند و به روستا بَرمی‌گَردَند.",
+     "a": "34fd7cd8b77a"
     },
     {
      "fa": "از یک سو، طرفداران زندگی روستایی می‌گویند که هوای پاک، غذای سالم و آرامش را در هیچ شهری نمی‌توان پیدا کرد.",
      "r": "az yek su, tarafdārān-e zendegi-ye rustāyi mi-guyand ke havā-ye pāk, ghazā-ye sālem va ārāmesh rā dar hich shahr-i nemi-tavān peydā kard.",
-     "en": "On the one hand, supporters of village life say that clean air, healthy food and peace cannot be found in any city."
+     "en": "On the one hand, supporters of village life say that clean air, healthy food and peace cannot be found in any city.",
+     "faV": "اَز یِک سو، طَرَفدارانِ زِندِگیِ روستایی می‌گویَند که هَوایِ پاک، غَذایِ سالِم و آرامِش را دَر هیچ شَهری نِمی‌تَوان پَیدا کَرد.",
+     "a": "1257badae5e4"
     },
     {
      "fa": "از سوی دیگر، مخالفان یادآوری می‌کنند که در بسیاری از روستاها کار، مدرسه‌ی خوب و بیمارستان وجود ندارد.",
      "r": "az su-ye digar, mokhālefān yād-āvari mi-konand ke dar besyāri az rustā-hā kār, madrese-ye khub va bimārestān vojud na-dārad.",
-     "en": "On the other hand, opponents point out that many villages have no jobs, no good school and no hospital."
+     "en": "On the other hand, opponents point out that many villages have no jobs, no good school and no hospital.",
+     "faV": "اَز سویِ دیگَر، مُخالِفان یادآوَری می‌کُنَند که دَر بِسیاری اَز روستاها کار، مَدرِسه‌یِ خوب و بیمارِستان وُجود نَدارَد.",
+     "a": "d9efd930e874"
     },
     {
      "fa": "به نظر آن‌ها، دولت باید پیش از هر چیز امکانات روستاها را بهتر کند.",
      "r": "be nazar-e ān-hā, dowlat bāyad pish az har chiz emkānāt-e rustā-hā rā behtar konad.",
-     "en": "In their view, the government must first of all improve facilities in the villages."
+     "en": "In their view, the government must first of all improve facilities in the villages.",
+     "faV": "به نَظَرِ آن‌ها، دَولَت بایَد پیش اَز هَر چیز اِمکاناتِ روستاها را بِهتَر کُنَد.",
+     "a": "f7c7dbe2bac1"
     },
     {
      "fa": "هر دو گروه تا حدی حق دارند.",
      "r": "har do goruh tā hadd-i hagh dārand.",
-     "en": "Both sides are right up to a point."
+     "en": "Both sides are right up to a point.",
+     "faV": "هَر دو گُروه تا حَدّی حَق دارَند.",
+     "a": "3ef160ce2135"
     },
     {
      "fa": "درست است که اینترنت امروز به بعضی‌ها اجازه می‌دهد از روستا کار کنند، اما این برای همه ممکن نیست.",
      "r": "dorost ast ke internet emruz be ba'zi-hā ejāze mi-dahad az rustā kār konand, ammā in barā-ye hame momken nist.",
-     "en": "It is true that the internet now lets some people work from a village, but this isn't possible for everyone."
+     "en": "It is true that the internet now lets some people work from a village, but this isn't possible for everyone.",
+     "faV": "دُرُست اَست که اینتِرنِت اِمروز به بَعضی‌ها اِجازه می‌دَهَد اَز روستا کار کُنَند، اَمّا این بَرایِ هَمه مُمکِن نیست.",
+     "a": "9a361f1686c1"
     },
     {
      "fa": "یک کشاورز جوان با این‌که زمین و خانه دارد، ممکن است برای فروش محصولش بازاری پیدا نکند.",
      "r": "yek keshāvarz-e javān bā in-ke zamin va khāne dārad, momken ast barā-ye forush-e mahsul-ash bāzār-i peydā na-konad.",
-     "en": "A young farmer, although he has land and a house, may not find a market for his crops."
+     "en": "A young farmer, although he has land and a house, may not find a market for his crops.",
+     "faV": "یِک کِشاوَرزِ جَوان با این‌که زَمین و خانه دارَد، مُمکِن اَست بَرایِ فُروشِ مَحصولَش بازاری پَیدا نَکُنَد.",
+     "a": "30b54ee4f651"
     },
     {
      "fa": "به عقیده‌ی نگارنده، مسئله «شهر یا روستا» نیست، بلکه «زندگی خوب برای همه» است.",
      "r": "be 'aghide-ye negārande, mas'ale «shahr yā rustā» nist, balke «zendegi-ye khub barā-ye hame» ast.",
-     "en": "In the present writer's view, the question is not 'city or village' but 'a good life for everyone'."
+     "en": "In the present writer's view, the question is not 'city or village' but 'a good life for everyone'.",
+     "faV": "به عَقیده‌یِ نِگارَنده، مَسئَله «شَهر یا روستا» نیست، بَلکه «زِندِگیِ خوب بَرایِ هَمه» اَست.",
+     "a": "b307e308d0c7"
     },
     {
      "fa": "اگر روستاها مدرسه، درمانگاه و کار داشته باشند، کمتر کسی مجبور می‌شود خانه‌اش را ترک کند.",
      "r": "agar rustā-hā madrese, darmāngāh va kār dāshte bāshand, kam-tar kas-i majbur mi-shavad khāne-ash rā tark konad.",
-     "en": "If villages have schools, clinics and jobs, fewer people will be forced to leave their homes."
+     "en": "If villages have schools, clinics and jobs, fewer people will be forced to leave their homes.",
+     "faV": "اَگَر روستاها مَدرِسه، دَرمانگاه و کار داشته باشَند، کَمتَر کَسی مَجبور می‌شَوَد خانه‌اَش را تَرک کُنَد.",
+     "a": "fc9b7576d5d9"
     },
     {
      "fa": "خلاصه این‌که، انتخاب میان شهر و روستا باید یک انتخاب آزاد باشد، نه یک اجبار.",
      "r": "kholāse in-ke, entekhāb miyān-e shahr va rustā bāyad yek entekhāb-e āzād bāshad, na yek ejbār.",
-     "en": "In short, the choice between city and village should be a free choice, not something people are forced into."
+     "en": "In short, the choice between city and village should be a free choice, not something people are forced into.",
+     "faV": "خُلاصه این‌که، اِنتِخاب میانِ شَهر و روستا بایَد یِک اِنتِخابِ آزاد باشَد، نه یِک اِجبار.",
+     "a": "0277939cca5e"
     }
    ],
    "questions": [
@@ -1048,42 +1264,58 @@
     {
      "fa": "کاملاً موافقم.",
      "r": "kāmelan movāfegh-am.",
-     "en": "I completely agree."
+     "en": "I completely agree.",
+     "faV": "کامِلاً مُوافِقَم.",
+     "a": "8db4baf7cae9"
     },
     {
      "fa": "حق با شماست.",
      "r": "hagh bā shomā-st.",
-     "en": "You're right."
+     "en": "You're right.",
+     "faV": "حَق با شُماست.",
+     "a": "d41abb611e34"
     },
     {
      "fa": "قبول دارم، ولی…",
      "r": "ghabul dāram, vali…",
-     "en": "I accept that, but…"
+     "en": "I accept that, but…",
+     "faV": "قَبول دارَم، وَلی…",
+     "a": "8390f37bfc5d"
     },
     {
      "fa": "منظورتان چیست؟",
      "r": "manzur-etān chist?",
-     "en": "What do you mean?"
+     "en": "What do you mean?",
+     "faV": "مَنظورِتان چیست؟",
+     "a": "bdc8f602e141"
     },
     {
      "fa": "یک لحظه!",
      "r": "yek lahze!",
-     "en": "Just a moment!"
+     "en": "Just a moment!",
+     "faV": "یِک لَحظه!",
+     "a": "41d3b3a1648d"
     },
     {
      "fa": "در مجموع",
      "r": "dar majmu'",
-     "en": "all in all"
+     "en": "all in all",
+     "faV": "دَر مَجموع",
+     "a": "706de7f5339d"
     },
     {
      "fa": "به هیچ وجه",
      "r": "be hich vajh",
-     "en": "in no way, not at all"
+     "en": "in no way, not at all",
+     "faV": "به هیچ وَجه",
+     "a": "3a5c2c9d2b50"
     },
     {
      "fa": "بدون شک",
      "r": "bedun-e shak",
-     "en": "without a doubt"
+     "en": "without a doubt",
+     "faV": "بِدونِ شَک",
+     "a": "2ae356ffb40d"
     }
    ]
   },
@@ -1095,22 +1327,30 @@
     {
      "fa": "ببخشید، ولی من این‌طور فکر نمی‌کنم.",
      "r": "bebakhshid, vali man in-towr fekr nemi-konam.",
-     "en": "Sorry, but I don't think so."
+     "en": "Sorry, but I don't think so.",
+     "faV": "بِبَخشید، وَلی مَن این‌طَور فِکر نِمی‌کُنَم.",
+     "a": "f719d3c562c2"
     },
     {
      "fa": "منظورتان این است که باید صبر کنیم؟",
      "r": "manzur-etān in ast ke bāyad sabr konim?",
-     "en": "Do you mean that we should wait?"
+     "en": "Do you mean that we should wait?",
+     "faV": "مَنظورِتان این اَست که بایَد صَبر کُنیم؟",
+     "a": "e6c86430b6e6"
     },
     {
      "fa": "از یک طرف شلوغ است، از طرف دیگر جالب است.",
      "r": "az yek taraf sholugh ast, az taraf-e digar jāleb ast.",
-     "en": "On the one hand it's crowded, on the other hand it's interesting."
+     "en": "On the one hand it's crowded, on the other hand it's interesting.",
+     "faV": "اَز یِک طَرَف شُلوغ اَست، اَز طَرَفِ دیگَر جالِب اَست.",
+     "a": "781b2bcb7478"
     },
     {
      "fa": "بیایید بحث را جمع‌بندی کنیم.",
      "r": "biyāyid bahs rā jam'-bandi konim.",
-     "en": "Let's sum up the discussion."
+     "en": "Let's sum up the discussion.",
+     "faV": "بیایید بَحث را جَمع‌بَندی کُنیم.",
+     "a": "cc22bb3e88d1"
     }
    ]
   },
@@ -1122,27 +1362,37 @@
     {
      "en": "I'm sure that less time is wasted with remote work.",
      "fa": "مطمئنم که با دورکاری وقت کمتری هدر می‌رود.",
-     "r": "motma'en-am ke bā dur-kāri vaght-e kam-tar-i hadar mi-ravad."
+     "r": "motma'en-am ke bā dur-kāri vaght-e kam-tar-i hadar mi-ravad.",
+     "faV": "مُطمَئِنَم که با دورکاری وَقتِ کَمتَری هَدَر می‌رَوَد.",
+     "a": "79677e7f6391"
     },
     {
      "en": "Although the village is beautiful, there is no work there.",
      "fa": "با این‌که روستا زیباست، آن‌جا کاری نیست.",
-     "r": "bā in-ke rustā zibā-st, ān-jā kār-i nist."
+     "r": "bā in-ke rustā zibā-st, ān-jā kār-i nist.",
+     "faV": "با این‌که روستا زیباست، آن‌جا کاری نیست.",
+     "a": "a29e0ede2e4b"
     },
     {
      "en": "You're right, but we must think about the cost too.",
      "fa": "حق با شماست، ولی باید به هزینه هم فکر کنیم.",
-     "r": "hagh bā shomā-st, vali bāyad be hazine ham fekr konim."
+     "r": "hagh bā shomā-st, vali bāyad be hazine ham fekr konim.",
+     "faV": "حَق با شُماست، وَلی بایَد به هَزینه هَم فِکر کُنیم.",
+     "a": "409267973cd3"
     },
     {
      "en": "Sorry to interrupt, but could you explain a bit more?",
      "fa": "ببخشید که وسط حرفتان می‌پرم، ولی می‌شود بیشتر توضیح بدهید؟",
-     "r": "bebakhshid ke vasat-e harf-etān mi-param, vali mi-shavad bishtar towzih bedahid?"
+     "r": "bebakhshid ke vasat-e harf-etān mi-param, vali mi-shavad bishtar towzih bedahid?",
+     "faV": "بِبَخشید که وَسَطِ حَرفِتان می‌پَرَم، وَلی می‌شَوَد بیشتَر تَوضیح بِدَهید؟",
+     "a": "ffb6f06478ae"
     },
     {
      "en": "In short, both sides are partly right.",
      "fa": "خلاصه این‌که هر دو طرف تا حدی حق دارند.",
-     "r": "kholāse in-ke har do taraf tā hadd-i hagh dārand."
+     "r": "kholāse in-ke har do taraf tā hadd-i hagh dārand.",
+     "faV": "خُلاصه این‌که هَر دو طَرَف تا حَدّی حَق دارَند.",
+     "a": "afe8b5432d03"
     }
    ]
   },
@@ -1160,7 +1410,9 @@
       "You're right, but I'm still not sure.",
       "You're wrong – I'm sure."
      ],
-     "answer": 1
+     "answer": 1,
+     "faV": "حَق با شُماست، وَلی مَن هَنوز مُطمَئِن نیستَم.",
+     "a": "073f94245225"
     },
     {
      "fa": "یعنی می‌گویید که شهر بهتر است؟",
@@ -1171,7 +1423,9 @@
       "I say the city is better.",
       "Is the village better than the city?"
      ],
-     "answer": 0
+     "answer": 0,
+     "faV": "یَعنی می‌گویید که شَهر بِهتَر اَست؟",
+     "a": "432a8a7a4968"
     },
     {
      "fa": "بعید است که قیمت‌ها پایین بیاید.",
@@ -1182,7 +1436,9 @@
       "It's unlikely that prices will come down.",
       "Prices came down a long time ago."
      ],
-     "answer": 1
+     "answer": 1,
+     "faV": "بَعید اَست که قَیمَت‌ها پایین بیایَد.",
+     "a": "ed5c5f2aee0f"
     },
     {
      "fa": "بیایید جمع‌بندی کنیم.",
@@ -1193,9 +1449,13 @@
       "Let's sum up.",
       "Let's take a break."
      ],
-     "answer": 1
+     "answer": 1,
+     "faV": "بیایید جَمع‌بَندی کُنیم.",
+     "a": "0613581d6f74"
     }
    ]
   }
- ]
+ ],
+ "titleV": "قَبول دارَم، وَلی…",
+ "titleA": "8390f37bfc5d"
 }

@@ -134,6 +134,7 @@ Graded readers, from very easy to literary.
 - [The tent-maker of Nishapur](stories/b2-the-tent-maker-of-nishapur.md) — خیمه‌دوز نیشابور
 - [Ferdowsi and the Sultan](stories/b2-ferdowsi-and-the-sultan.md) — فردوسی و سلطان
 - [The blind owl of the bazaar](stories/b2-the-blind-owl-of-the-bazaar.md) — بوف کور بازار
+- [Layli and Majnun](stories/b2-layli-and-majnun.md) — لیلی و مجنون
 
 ## Part 7. Iran in pictures and stories — فرهنگ ایران
 
@@ -218,6 +219,14 @@ Graded readers, from very easy to literary.
 - [Cyrus the Great](culture/people-cyrus-the-great.md) — کوروش بزرگ
 - [Ferdowsi](culture/people-ferdowsi.md) — فردوسی
 - [Avicenna](culture/people-avicenna.md) — ابن سینا
+- [Omar Khayyam](culture/people-khayyam.md) — عمر خیام
+- [Rumi](culture/people-rumi.md) — مولانا
+- [Saadi](culture/people-saadi.md) — سعدی
+- [Hafez](culture/people-hafez.md) — حافظ
+
+**Language**
+
+- [The history of Persian](culture/language-history-of-persian.md) — تاریخ زبان فارسی
 
 **Everyday life**
 
@@ -230,6 +239,7 @@ Graded readers, from very easy to literary.
 - [Money and shopping](culture/life-money-and-shopping.md) — پول و خرید
 - [Getting around](culture/life-transport.md) — حمل و نقل
 - [Tea houses and cafés](culture/life-tea-houses-and-cafes.md) — قهوه‌خانه و کافه
+- [Persian cats and other animals](culture/life-iranian-cats-and-animals.md) — گربه‌ی ایرانی و جانوران دیگر
 
 ## Part 8. Poetry — شعر
 
@@ -237,6 +247,10 @@ Graded readers, from very easy to literary.
 - [The Song of the Reed](poetry/rumi-ney-name.md) — Rumi
 - [Come, cupbearer](poetry/hafez-ala-ya-ayyoha-saghi.md) — Hafez
 - [Whoever knows is strong](poetry/ferdowsi-tavana-bovad.md) — Ferdowsi
+- [This caravan of life](poetry/khayyam-in-ghafele.md) — Khayyam
+- [The palace of Jamshid](poetry/khayyam-an-ghasr.md) — Khayyam
+- [The scent of the Muliyan](poetry/rudaki-bu-ye-juy-e-muliyan.md) — Rudaki
+- [The eye and the heart](poetry/baba-taher-del.md) — Baba Taher
 
 ## Part 9. Reference
 

@@ -40,103 +40,265 @@
    "r": "in pirāhan chand ast?",
    "en": "How much is this shirt?",
    "col": "این پیرهن چنده؟",
-   "colR": "in pirhan chand-e?"
+   "colR": "in pirhan chand-e?",
+   "faV": "این پیراهَن چَند اَست؟",
+   "a": "d795a46b1be7",
+   "colV": "این پیرهَن چَنده؟",
+   "colA": "4142aef58b08"
   },
   {
    "fa": "قیمتش به تومان است یا ریال؟",
    "r": "gheymat-ash be tumān ast yā riyāl?",
    "en": "Is the price in tomans or in rials?",
    "col": "قیمتش تومنه یا ریال؟",
-   "colR": "gheymat-esh toman-e yā riyāl?"
+   "colR": "gheymat-esh toman-e yā riyāl?",
+   "faV": "قَیمَتَش به تومان اَست یا ریال؟",
+   "a": "829a45ea0429",
+   "colV": "قَیمَتِش تومَنه یا ریال؟",
+   "colA": "37390171d86b"
   },
   {
    "fa": "ده تومان یعنی صد ریال.",
    "r": "dah tumān ya'ni sad riyāl.",
    "en": "Ten tomans means a hundred rials.",
    "col": "ده تومن یعنی صد ریال.",
-   "colR": "dah toman ya'ni sad riyāl."
+   "colR": "dah toman ya'ni sad riyāl.",
+   "faV": "دَه تومان یَعنی صَد ریال.",
+   "a": "256e382d8481",
+   "colV": "دَه تومَن یَعنی صَد ریال.",
+   "colA": "220aaafba90d"
   },
   {
    "fa": "با کارت حساب می‌کنم.",
    "r": "bā kārt hesāb mi-konam.",
-   "en": "I'll pay by card."
+   "en": "I'll pay by card.",
+   "faV": "با کارت حِساب می‌کُنَم.",
+   "a": "1810df5c34a1"
   },
   {
    "fa": "رمزتان را بزنید، لطفاً.",
    "r": "ramz-etān rā be-zanid, lotfan.",
    "en": "Please enter your PIN.",
    "col": "رمزتون رو بزنین، لطفاً.",
-   "colR": "ramz-etun ro be-zanin, lotfan."
+   "colR": "ramz-etun ro be-zanin, lotfan.",
+   "faV": "رَمزِتان را بِزَنید، لُطفاً.",
+   "a": "071a85f2abba",
+   "colV": "رَمزِتون رو بِزَنین، لُطفاً.",
+   "colA": "801603ff9b1b"
   },
   {
    "fa": "رسید می‌خواهید؟",
    "r": "resid mi-khāhid?",
    "en": "Do you want the receipt?",
    "col": "رسید می‌خواین؟",
-   "colR": "resid mi-khāyn?"
+   "colR": "resid mi-khāyn?",
+   "faV": "رِسید می‌خواهید؟",
+   "a": "098dfef911c2",
+   "colV": "رِسید می‌خواین؟",
+   "colA": "0b0f6aeb492f"
   },
   {
    "fa": "یک کیلو سیب و نیم کیلو انگور می‌خواهم.",
    "r": "yek kilu sib va nim kilu angur mi-khāham.",
    "en": "I'd like a kilo of apples and half a kilo of grapes.",
    "col": "یه کیلو سیب و نیم کیلو انگور می‌خوام.",
-   "colR": "ye kilu sib o nim kilu angur mi-khām."
+   "colR": "ye kilu sib o nim kilu angur mi-khām.",
+   "faV": "یِک کیلو سیب و نیم کیلو اَنگور می‌خواهَم.",
+   "a": "cd62f8d3e104",
+   "colV": "یه کیلو سیب و نیم کیلو اَنگور می‌خوام.",
+   "colA": "96b538d08b01"
   },
   {
    "fa": "قیمت‌ها این روزها خیلی زود عوض می‌شوند.",
    "r": "gheymat-hā in ruz-hā kheyli zud avaz mi-shavand.",
    "en": "Prices change very quickly these days.",
    "col": "قیمتا این روزا خیلی زود عوض می‌شن.",
-   "colR": "gheymat-ā in ruz-ā kheyli zud avaz mi-shan."
+   "colR": "gheymat-ā in ruz-ā kheyli zud avaz mi-shan.",
+   "faV": "قَیمَت‌ها این روزها خَیلی زود عَوَض می‌شَوَند.",
+   "a": "7504a1b06cdb",
+   "colV": "قَیمَتا این روزا خَیلی زود عَوَض می‌شَن.",
+   "colA": "68176c6967e5"
   },
   {
    "fa": "ببخشید، این را می‌شود عوض کرد؟",
    "r": "be-bakhshid, in rā mi-shavad avaz kard?",
    "en": "Excuse me, can I exchange this?",
    "col": "ببخشید، اینو می‌شه عوض کرد؟",
-   "colR": "be-bakhshid, in-o mi-she avaz kard?"
+   "colR": "be-bakhshid, in-o mi-she avaz kard?",
+   "faV": "بِبَخشید، این را می‌شَوَد عَوَض کَرد؟",
+   "a": "d7be20030d0e",
+   "colV": "بِبَخشید، اینو می‌شه عَوَض کَرد؟",
+   "colA": "08c592156f04"
   },
   {
    "fa": "فاکتور را هم بدهید، لطفاً.",
    "r": "fāktor rā ham be-dahid, lotfan.",
    "en": "Could I have the itemised bill too, please?",
    "col": "فاکتور رو هم بدین، لطفاً.",
-   "colR": "fāktor ro ham be-din, lotfan."
+   "colR": "fāktor ro ham be-din, lotfan.",
+   "faV": "فاکتور را هَم بِدَهید، لُطفاً.",
+   "a": "a27619a516bc",
+   "colV": "فاکتور رو هَم بِدین، لُطفاً.",
+   "colA": "0c0407a0f0f5"
   },
   {
    "fa": "چقدر تقدیم کنم؟",
    "r": "cheghadr taghdim konam?",
    "en": "How much do I owe you?",
    "lit": "how much shall I offer?",
-   "note": "A very polite way to ask the price, especially after the shopkeeper's ta'arof."
+   "note": "A very polite way to ask the price, especially after the shopkeeper's ta'arof.",
+   "faV": "چِقَدر تَقدیم کُنَم؟",
+   "a": "1038de34e5d3"
   },
   {
    "fa": "این‌جا قیمت‌ها مقطوع است.",
    "r": "in-jā gheymat-hā maghtu' ast.",
-   "en": "Prices here are fixed."
+   "en": "Prices here are fixed.",
+   "faV": "این‌جا قَیمَت‌ها مَقطوع اَست.",
+   "a": "93f9d8f3b888"
   }
  ],
  "vocab": [
-  {"fa": "پول", "r": "pul", "en": "money"},
-  {"fa": "ریال", "r": "riyāl", "en": "rial (the official currency)"},
-  {"fa": "تومان", "r": "tumān", "en": "toman (ten rials)"},
-  {"fa": "قیمت", "r": "gheymat", "en": "price"},
-  {"fa": "گران", "r": "gerān", "en": "expensive"},
-  {"fa": "ارزان", "r": "arzān", "en": "cheap"},
-  {"fa": "خرید", "r": "kharid", "en": "shopping; purchase"},
-  {"fa": "خریدن", "r": "kharidan", "en": "to buy"},
-  {"fa": "مغازه", "r": "maghāze", "en": "shop"},
-  {"fa": "فروشگاه", "r": "forushgāh", "en": "store, department store"},
-  {"fa": "کارت بانکی", "r": "kārt-e bānki", "en": "bank card"},
-  {"fa": "کارت‌خوان", "r": "kārt-khān", "en": "card reader"},
-  {"fa": "رمز", "r": "ramz", "en": "PIN; password"},
-  {"fa": "پول نقد", "r": "pul-e naghd", "en": "cash"},
-  {"fa": "اسکناس", "r": "eskenās", "en": "banknote"},
-  {"fa": "صرافی", "r": "sarrāfi", "en": "exchange office"},
-  {"fa": "رسید", "r": "resid", "en": "receipt"},
-  {"fa": "فاکتور", "r": "fāktor", "en": "itemised bill, invoice"},
-  {"fa": "تخفیف", "r": "takhfif", "en": "discount"},
-  {"fa": "عوض کردن", "r": "avaz kardan", "en": "to change, exchange"}
+  {
+   "fa": "پول",
+   "r": "pul",
+   "en": "money",
+   "faV": "پول",
+   "a": "63dd1c041899"
+  },
+  {
+   "fa": "ریال",
+   "r": "riyāl",
+   "en": "rial (the official currency)",
+   "faV": "ریال",
+   "a": "00ef6aa9fc0d"
+  },
+  {
+   "fa": "تومان",
+   "r": "tumān",
+   "en": "toman (ten rials)",
+   "faV": "تومان",
+   "a": "306eba506939"
+  },
+  {
+   "fa": "قیمت",
+   "r": "gheymat",
+   "en": "price",
+   "faV": "قَیمَت",
+   "a": "916161310ef7"
+  },
+  {
+   "fa": "گران",
+   "r": "gerān",
+   "en": "expensive",
+   "faV": "گِران",
+   "a": "2ebc489acbc8"
+  },
+  {
+   "fa": "ارزان",
+   "r": "arzān",
+   "en": "cheap",
+   "faV": "اَرزان",
+   "a": "0072439bbc3e"
+  },
+  {
+   "fa": "خرید",
+   "r": "kharid",
+   "en": "shopping; purchase",
+   "faV": "خَرید",
+   "a": "6299ce091a9f"
+  },
+  {
+   "fa": "خریدن",
+   "r": "kharidan",
+   "en": "to buy",
+   "faV": "خَریدَن",
+   "a": "4aab98bae182"
+  },
+  {
+   "fa": "مغازه",
+   "r": "maghāze",
+   "en": "shop",
+   "faV": "مَغازه",
+   "a": "0b69e97732e4"
+  },
+  {
+   "fa": "فروشگاه",
+   "r": "forushgāh",
+   "en": "store, department store",
+   "faV": "فُروشگاه",
+   "a": "04da7501d004"
+  },
+  {
+   "fa": "کارت بانکی",
+   "r": "kārt-e bānki",
+   "en": "bank card",
+   "faV": "کارتِ بانکی",
+   "a": "64a7c01c5f8f"
+  },
+  {
+   "fa": "کارت‌خوان",
+   "r": "kārt-khān",
+   "en": "card reader",
+   "faV": "کارت‌خوان",
+   "a": "7cc60f107550"
+  },
+  {
+   "fa": "رمز",
+   "r": "ramz",
+   "en": "PIN; password",
+   "faV": "رَمز",
+   "a": "679e44da0658"
+  },
+  {
+   "fa": "پول نقد",
+   "r": "pul-e naghd",
+   "en": "cash",
+   "faV": "پولِ نَقد",
+   "a": "d01b7c90f1e8"
+  },
+  {
+   "fa": "اسکناس",
+   "r": "eskenās",
+   "en": "banknote",
+   "faV": "اِسکِناس",
+   "a": "2b9e8addff65"
+  },
+  {
+   "fa": "صرافی",
+   "r": "sarrāfi",
+   "en": "exchange office",
+   "faV": "صَرّافی",
+   "a": "5be0c7c40b13"
+  },
+  {
+   "fa": "رسید",
+   "r": "resid",
+   "en": "receipt",
+   "faV": "رِسید",
+   "a": "8fb632f2a49a"
+  },
+  {
+   "fa": "فاکتور",
+   "r": "fāktor",
+   "en": "itemised bill, invoice",
+   "faV": "فاکتور",
+   "a": "2ce6226eb873"
+  },
+  {
+   "fa": "تخفیف",
+   "r": "takhfif",
+   "en": "discount",
+   "faV": "تَخفیف",
+   "a": "130cca416c2c"
+  },
+  {
+   "fa": "عوض کردن",
+   "r": "avaz kardan",
+   "en": "to change, exchange",
+   "faV": "عَوَض کَردَن",
+   "a": "ba3c93d63ed1"
+  }
  ],
  "facts": [
   "Iran's official currency is the rial, but people almost always count in tomans: one toman is ten rials.",
@@ -146,5 +308,7 @@
   "In Iran a supermārket is usually a small neighbourhood grocery; big stores are called forushgāh.",
   "Most Iranians pay even small amounts by bank card at a kārt-khān, a 'card reader'; foreign bank cards do not work in Iran.",
   "Fāktor, an itemised bill, comes from French facture."
- ]
+ ],
+ "titleV": "پول و خَرید",
+ "titleA": "82a7ac603ef8"
 }

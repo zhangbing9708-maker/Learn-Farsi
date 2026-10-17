@@ -39,106 +39,266 @@
   {
    "fa": "آقا، مستقیم؟",
    "r": "āghā, mostaghim?",
-   "en": "Are you going straight on? (to a passing shared taxi)"
+   "en": "Are you going straight on? (to a passing shared taxi)",
+   "faV": "آقا، مُستَقیم؟",
+   "a": "8aeae34ab44e"
   },
   {
    "fa": "دربست تا فرودگاه چند می‌گیرید؟",
    "r": "darbast tā forudgāh chand mi-girid?",
    "en": "How much do you charge for a private ride to the airport?",
    "col": "دربست تا فرودگاه چند می‌گیرین؟",
-   "colR": "darbast tā forudgāh chand mi-girin?"
+   "colR": "darbast tā forudgāh chand mi-girin?",
+   "faV": "دَربَست تا فُرودگاه چَند می‌گیرید؟",
+   "a": "fe7b669b9d3d",
+   "colV": "دَربَست تا فُرودگاه چَند می‌گیرین؟",
+   "colA": "642162004574"
   },
   {
    "fa": "لطفاً همین‌جا نگه دارید.",
    "r": "lotfan hamin-jā negah dārid.",
    "en": "Please stop right here.",
    "col": "لطفاً همین‌جا نگه دارین.",
-   "colR": "lotfan hamin-jā negah dārin."
+   "colR": "lotfan hamin-jā negah dārin.",
+   "faV": "لُطفاً هَمین‌جا نِگَه دارید.",
+   "a": "085ffc896120",
+   "colV": "لُطفاً هَمین‌جا نِگَه دارین.",
+   "colA": "8cb62b299139"
   },
   {
    "fa": "کرایه چقدر می‌شود؟",
    "r": "kerāye cheghadr mi-shavad?",
    "en": "How much is the fare?",
    "col": "کرایه چقدر می‌شه؟",
-   "colR": "kerāye cheghadr mi-she?"
+   "colR": "kerāye cheghadr mi-she?",
+   "faV": "کِرایه چِقَدر می‌شَوَد؟",
+   "a": "f567b675f2c9",
+   "colV": "کِرایه چِقَدر می‌شه؟",
+   "colA": "a3944bffeebf"
   },
   {
    "fa": "ببخشید، این اتوبوس به میدان آزادی می‌رود؟",
    "r": "be-bakhshid, in otobus be meydān-e Āzādi mi-ravad?",
    "en": "Excuse me, does this bus go to Azadi Square?",
    "col": "ببخشید، این اتوبوس میره میدون آزادی؟",
-   "colR": "be-bakhshid, in otobus mi-re meydun-e Āzādi?"
+   "colR": "be-bakhshid, in otobus mi-re meydun-e Āzādi?",
+   "faV": "بِبَخشید، این اُتوبوس به مَیدانِ آزادی می‌رَوَد؟",
+   "a": "24e2d3c839a9",
+   "colV": "بِبَخشید، این اُتوبوس میره مَیدونِ آزادی؟",
+   "colA": "13ae1f015dd9"
   },
   {
    "fa": "برای رفتن به راه‌آهن کجا باید خط را عوض کنم؟",
    "r": "barā-ye raftan be rāh-āhan kojā bāyad khatt rā avaz konam?",
    "en": "Where do I have to change lines to get to the railway station?",
    "col": "واسه رفتن به راه‌آهن کجا باید خط عوض کنم؟",
-   "colR": "vāse raftan be rāh-āhan kojā bāyad khatt avaz konam?"
+   "colR": "vāse raftan be rāh-āhan kojā bāyad khatt avaz konam?",
+   "faV": "بَرایِ رَفتَن به راه‌آهَن کُجا بایَد خَطّ را عَوَض کُنَم؟",
+   "a": "c59f74342f8d",
+   "colV": "واسه رَفتَن به راه‌آهَن کُجا بایَد خَطّ عَوَض کُنَم؟",
+   "colA": "4db1c366e8f5"
   },
   {
    "fa": "یک بلیت قطار برای مشهد می‌خواهم.",
    "r": "yek belit-e ghatār barā-ye Mashhad mi-khāham.",
    "en": "I'd like a train ticket to Mashhad.",
    "col": "یه بلیت قطار واسه مشهد می‌خوام.",
-   "colR": "ye belit-e ghatār vāse Mashhad mi-khām."
+   "colR": "ye belit-e ghatār vāse Mashhad mi-khām.",
+   "faV": "یِک بِلیتِ قَطار بَرایِ مَشهَد می‌خواهَم.",
+   "a": "b2ef8a10ff15",
+   "colV": "یه بِلیتِ قَطار واسه مَشهَد می‌خوام.",
+   "colA": "802bad96f185"
   },
   {
    "fa": "قطار ما ساعت ده شب حرکت می‌کند.",
    "r": "ghatār-e mā sā'at-e dah-e shab harekat mi-konad.",
    "en": "Our train leaves at ten at night.",
    "col": "قطارمون ساعت ده شب راه می‌افته.",
-   "colR": "ghatār-emun sā'at-e dah-e shab rāh mi-ofte."
+   "colR": "ghatār-emun sā'at-e dah-e shab rāh mi-ofte.",
+   "faV": "قَطارِ ما ساعَتِ دَهِ شَب حَرِکَت می‌کُنَد.",
+   "a": "f04148d6c898",
+   "colV": "قَطارِمون ساعَتِ دَهِ شَب راه می‌اُفته.",
+   "colA": "da77c438f494"
   },
   {
    "fa": "اتوبوس‌های وی‌آی‌پی صندلی‌های راحتی دارند.",
    "r": "otobus-hā-ye vi-āy-pi sandali-hā-ye rāhat-i dārand.",
    "en": "VIP coaches have comfortable seats.",
    "col": "اتوبوسای وی‌آی‌پی صندلیای راحتی دارن.",
-   "colR": "otobus-ā-ye vi-āy-pi sandali-yā-ye rāhat-i dāran."
+   "colR": "otobus-ā-ye vi-āy-pi sandali-yā-ye rāhat-i dāran.",
+   "faV": "اُتوبوس‌هایِ وی‌آی‌پی صَندَلی‌هایِ راحَتی دارَند.",
+   "a": "16503f8bb5f1",
+   "colV": "اُتوبوسایِ وی‌آی‌پی صَندَلیایِ راحَتی دارَن.",
+   "colA": "ebaaec0869f6"
   },
   {
    "fa": "از ترمینال جنوب به اصفهان اتوبوس زیاد است.",
    "r": "az termināl-e jonub be Esfahān otobus ziyād ast.",
    "en": "There are plenty of buses to Isfahan from the South Terminal.",
    "col": "از ترمینال جنوب واسه اصفهان اتوبوس زیاده.",
-   "colR": "az termināl-e jonub vāse Esfahān otobus ziyād-e."
+   "colR": "az termināl-e jonub vāse Esfahān otobus ziyād-e.",
+   "faV": "اَز تِرمینالِ جُنوب به اِصفَهان اُتوبوس زیاد اَست.",
+   "a": "23d2dda67621",
+   "colV": "اَز تِرمینالِ جُنوب واسه اِصفَهان اُتوبوس زیاده.",
+   "colA": "ff132dc34b4c"
   },
   {
    "fa": "در تهران رانندگی کار آسانی نیست.",
    "r": "dar Tehrān rānandegi kār-e āsān-i nist.",
    "en": "Driving in Tehran is no easy job.",
    "col": "تو تهران رانندگی کار آسونی نیست.",
-   "colR": "tu Tehrān rānandegi kār-e āsun-i nist."
+   "colR": "tu Tehrān rānandegi kār-e āsun-i nist.",
+   "faV": "دَر تِهران رانَندِگی کارِ آسانی نیست.",
+   "a": "12867e73a79d",
+   "colV": "تو تِهران رانَندِگی کارِ آسونی نیست.",
+   "colA": "e9bd1be72d38"
   },
   {
    "fa": "موقع رد شدن از خیابان مواظب موتورها باش!",
    "r": "mowghe'-e rad shodan az khiyābān movāzeb-e motor-hā bāsh!",
    "en": "Watch out for motorbikes when you cross the street!",
    "col": "موقع رد شدن از خیابون مواظب موتورا باش!",
-   "colR": "mowghe'-e rad shodan az khiyābun movāzeb-e motor-ā bāsh!"
+   "colR": "mowghe'-e rad shodan az khiyābun movāzeb-e motor-ā bāsh!",
+   "faV": "مَوقِعِ رَد شُدَن اَز خیابان مُواظِبِ موتورها باش!",
+   "a": "1854415efe72",
+   "colV": "مَوقِعِ رَد شُدَن اَز خیابون مُواظِبِ موتورا باش!",
+   "colA": "393664a2c01b"
   }
  ],
  "vocab": [
-  {"fa": "تاکسی", "r": "tāksi", "en": "taxi"},
-  {"fa": "دربست", "r": "darbast", "en": "private hire (the whole taxi)"},
-  {"fa": "کرایه", "r": "kerāye", "en": "fare; rent"},
-  {"fa": "مسافر", "r": "mosāfer", "en": "passenger; traveller"},
-  {"fa": "راننده", "r": "rānande", "en": "driver"},
-  {"fa": "سوار شدن", "r": "savār shodan", "en": "to get on, get in"},
-  {"fa": "پیاده شدن", "r": "piyāde shodan", "en": "to get off, get out"},
-  {"fa": "نگه داشتن", "r": "negah dāshtan", "en": "to stop (a vehicle); to keep"},
-  {"fa": "ایستگاه", "r": "istgāh", "en": "station, stop"},
-  {"fa": "خط", "r": "khatt", "en": "line; route"},
-  {"fa": "ترمینال", "r": "termināl", "en": "bus terminal, coach station"},
-  {"fa": "قطار", "r": "ghatār", "en": "train"},
-  {"fa": "راه‌آهن", "r": "rāh-āhan", "en": "railway; railway station"},
-  {"fa": "بلیت", "r": "belit", "en": "ticket"},
-  {"fa": "کوپه", "r": "kupe", "en": "train compartment"},
-  {"fa": "فرودگاه", "r": "forudgāh", "en": "airport"},
-  {"fa": "جاده", "r": "jādde", "en": "road (between towns)"},
-  {"fa": "رانندگی", "r": "rānandegi", "en": "driving"},
-  {"fa": "بوق", "r": "bugh", "en": "(car) horn"}
+  {
+   "fa": "تاکسی",
+   "r": "tāksi",
+   "en": "taxi",
+   "faV": "تاکسی",
+   "a": "5d09a6404522"
+  },
+  {
+   "fa": "دربست",
+   "r": "darbast",
+   "en": "private hire (the whole taxi)",
+   "faV": "دَربَست",
+   "a": "d38b1881a659"
+  },
+  {
+   "fa": "کرایه",
+   "r": "kerāye",
+   "en": "fare; rent",
+   "faV": "کِرایه",
+   "a": "3cfe4a1254a3"
+  },
+  {
+   "fa": "مسافر",
+   "r": "mosāfer",
+   "en": "passenger; traveller",
+   "faV": "مُسافِر",
+   "a": "10db1dff73df"
+  },
+  {
+   "fa": "راننده",
+   "r": "rānande",
+   "en": "driver",
+   "faV": "رانَنده",
+   "a": "a08d01db0708"
+  },
+  {
+   "fa": "سوار شدن",
+   "r": "savār shodan",
+   "en": "to get on, get in",
+   "faV": "سَوار شُدَن",
+   "a": "1cd15286fcec"
+  },
+  {
+   "fa": "پیاده شدن",
+   "r": "piyāde shodan",
+   "en": "to get off, get out",
+   "faV": "پیاده شُدَن",
+   "a": "758cad9855f9"
+  },
+  {
+   "fa": "نگه داشتن",
+   "r": "negah dāshtan",
+   "en": "to stop (a vehicle); to keep",
+   "faV": "نِگَه داشتَن",
+   "a": "bbe6c106ac47"
+  },
+  {
+   "fa": "ایستگاه",
+   "r": "istgāh",
+   "en": "station, stop",
+   "faV": "ایستگاه",
+   "a": "320c86a1080b"
+  },
+  {
+   "fa": "خط",
+   "r": "khatt",
+   "en": "line; route",
+   "faV": "خَطّ",
+   "a": "005ba86f27ca"
+  },
+  {
+   "fa": "ترمینال",
+   "r": "termināl",
+   "en": "bus terminal, coach station",
+   "faV": "تِرمینال",
+   "a": "1bebeb942e3e"
+  },
+  {
+   "fa": "قطار",
+   "r": "ghatār",
+   "en": "train",
+   "faV": "قَطار",
+   "a": "05045b9ba535"
+  },
+  {
+   "fa": "راه‌آهن",
+   "r": "rāh-āhan",
+   "en": "railway; railway station",
+   "faV": "راه‌آهَن",
+   "a": "485b5f689e63"
+  },
+  {
+   "fa": "بلیت",
+   "r": "belit",
+   "en": "ticket",
+   "faV": "بِلیت",
+   "a": "ec23e5ed52a2"
+  },
+  {
+   "fa": "کوپه",
+   "r": "kupe",
+   "en": "train compartment",
+   "faV": "کوپه",
+   "a": "679f63f35c6d"
+  },
+  {
+   "fa": "فرودگاه",
+   "r": "forudgāh",
+   "en": "airport",
+   "faV": "فُرودگاه",
+   "a": "6dc58197d442"
+  },
+  {
+   "fa": "جاده",
+   "r": "jādde",
+   "en": "road (between towns)",
+   "faV": "جادّه",
+   "a": "f74af9c695db"
+  },
+  {
+   "fa": "رانندگی",
+   "r": "rānandegi",
+   "en": "driving",
+   "faV": "رانَندِگی",
+   "a": "abad0b1ab90a"
+  },
+  {
+   "fa": "بوق",
+   "r": "bugh",
+   "en": "(car) horn",
+   "faV": "بوق",
+   "a": "f60e06b06248"
+  }
  ],
  "facts": [
   "Say darbast! to a taxi driver to hire the whole car instead of sharing it.",
@@ -148,5 +308,7 @@
   "Kupe comes from French coupé, and otobus from French autobus.",
   "The Chalus road crosses the Alborz from Karaj to the Caspian coast and is one of the most scenic drives in Iran.",
   "In Tehran, domestic flights use Mehrabad Airport in the city, while international flights use Imam Khomeini Airport to the south."
- ]
+ ],
+ "titleV": "حَمل و نَقل",
+ "titleA": "ae39cd0880e2"
 }

@@ -1,0 +1,136 @@
+{
+ "id": "language-history-of-persian",
+ "topic": "language",
+ "title": "The history of Persian",
+ "titleFa": "تاریخ زبان فارسی",
+ "titleR": "tārikh-e zabān-e fārsi",
+ "image": "behistun",
+ "summary": "Persian has been written for 2,500 years: in cuneiform, in a script borrowed from Aramaic and, since the 9th century, in Arabic letters. This is how the language of Darius lost its endings, found its poets and became the language of courts from Delhi to Istanbul.",
+ "body": [
+  {
+   "h": "Old Persian: the language of Darius",
+   "md": "The oldest Persian we can read is cut into stone. Around 520 BC Darius the Great had the story of his reign carved on the cliff of [[بیستون|Bisotun|Behistun]] in three languages, one of them [[فارسی باستان|fārsi-ye bāstān|Old Persian]]. It was written in [[خط میخی|khatt-e mikhi|cuneiform]], 'nail writing', with only 36 sound signs – probably designed for the royal inscriptions. Old Persian worked more like Latin or Sanskrit than like modern Persian: nouns had genders and several cases, and verbs had long tables of endings.\n\nYet many words are easy to recognise. *Pitā* is [[پدر|pedar|father]] and *brātā* is [[برادر|barādar|brother]]. *Xšāyaθiya*, 'king', became [[شاه|shāh|king]] by way of Middle Persian, and *dahyu*, a whole province of the empire, slowly shrank into [[ده|deh|village]].",
+   "image": "old-persian-cuneiform"
+  },
+  {
+   "h": "Middle Persian: the endings fall away",
+   "md": "Under the Sasanians (224–651) the language had become [[فارسی میانه|fārsi-ye miyāne|Middle Persian]], usually called [[پهلوی|pahlavi|Pahlavi]]. Most of the old endings were gone, and small words took over their work – words Persian still uses. An old relative pronoun turned into the linking *ī* that is the ancestor of the ezafe in [[کتاب من|ketāb-e man|my book]], and Old Persian *rādiy*, 'for the sake of', became the object marker [[را|rā]].\n\nPahlavi was written in an alphabet borrowed from Aramaic, with so few letters that one sign could stand for several sounds. Scribes even wrote some common words in Aramaic and read them in Persian: they wrote *MLKA*, Aramaic for 'king', and said *shāh*. Such spellings are called [[هزوارش|hozvāresh]].",
+   "image": "pahlavi-scripts"
+  },
+  {
+   "h": "New Persian in Arabic letters",
+   "md": "After the Arab conquest in the 7th century, Arabic became the language of religion and government, and Persian returned first in the east. A chronicle tells how [[یعقوب لیث|Ya'ghub-e Leys]], a 9th-century ruler of Sistan who knew no Arabic, stopped a poet praising him in Arabic: why recite what I cannot understand? His secretary answered with a poem in Persian. Under the Samanids of Bukhara the spoken court language, [[دری|dari]], became a great literary language – the language of [[رودکی|Rudaki]] and then of [[فردوسی|Ferdowsi]].\n\nNew Persian was written in the Arabic alphabet plus four letters for sounds Arabic lacks: [[پ|pe]], [[چ|che]], [[ژ|zhe]] and [[گ|gāf]]. The script writes long vowels but leaves out short ones, so [[کرد|kard|did]] can also be read *kord*, 'Kurd' – which is why this site gives a transliteration. Thousands of Arabic words came in, but the grammar stayed Persian.",
+   "image": "rudaki"
+  },
+  {
+   "h": "Classical and modern sounds",
+   "md": "Since Rudaki, Persian grammar and vocabulary have changed surprisingly little, but pronunciation has moved on. Classical Persian had two more long vowels, *ē* and *ō*: 'lion' was *shēr* and 'milk' was *shīr*, and 'day' was *rōz*. In Iran these merged with *i* and *u*, so the animal and the drink are now both [[شیر|shir]] and the day is [[روز|ruz]] – but Dari in Afghanistan still keeps them apart. The classical prefix [[همی|hami|continually]] wore down into the [[می|mi]] of [[می‌روم|mi-ravam|I go]].\n\nThe happy result for a learner: a modern Iranian reads Saadi's *Golestan* of 1258 more easily than an English speaker reads Chaucer, who wrote more than a century later."
+  },
+  {
+   "h": "From Delhi to Istanbul",
+   "md": "From the 10th century to the 19th, Persian was the language of culture across a vast region that historians call the Persianate world. Turkic dynasties such as the Ghaznavids and the Seljuks ran their courts in it. In Konya, in Anatolia, [[مولانا|Mowlānā|Rumi]] wrote his *Masnavi* in Persian, and the Ottoman sultan Selim I left a collection of Persian poems. In India, Persian served the Delhi sultans and then the Mughal emperors, who made it the language of government; the British kept it in the law courts until 1837.\n\nA secretary in Delhi, a scholar in Samarkand and a poet in Istanbul could all read the same [[دیوان|divān|collection of poems]] of Hafez. That is why Urdu, Hindi, Turkish and Bengali are full of Persian words – and why some of them reached English too.",
+   "image": "khamsa-nizami"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "فارسی باستان زبان شاهان هخامنشی بود.",
+   "r": "fārsi-ye bāstān zabān-e shāhān-e Hakhāmaneshi bud.",
+   "en": "Old Persian was the language of the Achaemenid kings."
+  },
+  {
+   "fa": "داریوش در بیستون کتیبه‌ای به سه زبان نوشت.",
+   "r": "Dāriush dar Bisotun katibe-i be se zabān nevesht.",
+   "en": "At Bisotun, Darius wrote an inscription in three languages."
+  },
+  {
+   "fa": "واژه‌ی «شاه» از فارسی باستان به ما رسیده است.",
+   "r": "vāzhe-ye «shāh» az fārsi-ye bāstān be mā reside ast.",
+   "en": "The word shāh has come down to us from Old Persian."
+  },
+  {
+   "fa": "فارسی میانه از فارسی باستان ساده‌تر بود.",
+   "r": "fārsi-ye miyāne az fārsi-ye bāstān sāde-tar bud.",
+   "en": "Middle Persian was simpler than Old Persian."
+  },
+  {
+   "fa": "خط پهلوی از خط آرامی گرفته شده بود.",
+   "r": "khatt-e pahlavi az khatt-e ārāmi gerefte shode bud.",
+   "en": "The Pahlavi script came from the Aramaic script."
+  },
+  {
+   "fa": "فارسی نو در قرن نهم میلادی در خراسان شکل گرفت.",
+   "r": "fārsi-ye now dar gharn-e nohom-e milādi dar Khorāsān shekl gereft.",
+   "en": "New Persian took shape in Khorasan in the 9th century AD."
+  },
+  {
+   "fa": "به رودکی پدر شعر فارسی می‌گویند.",
+   "r": "be Rudaki pedar-e she'r-e fārsi mi-guyand.",
+   "en": "Rudaki is called the father of Persian poetry.",
+   "col": "به رودکی می‌گن پدر شعر فارسی.",
+   "colR": "be Rudaki mi-gan pedar-e she'r-e fārsi."
+  },
+  {
+   "fa": "الفبای فارسی چهار حرف بیشتر از الفبای عربی دارد.",
+   "r": "alefbā-ye fārsi chahār harf bishtar az alefbā-ye arabi dārad.",
+   "en": "The Persian alphabet has four more letters than the Arabic alphabet.",
+   "col": "الفبای فارسی چهار تا حرف بیشتر از الفبای عربی داره.",
+   "colR": "alefbā-ye fārsi chahār tā harf bishtar az alefbā-ye arabi dāre."
+  },
+  {
+   "fa": "در خط فارسی مصوت‌های کوتاه را نمی‌نویسند.",
+   "r": "dar khatt-e fārsi mosavvat-hā-ye kutāh rā nemi-nevisand.",
+   "en": "In the Persian script the short vowels are not written.",
+   "col": "تو خط فارسی مصوت‌های کوتاه رو نمی‌نویسن.",
+   "colR": "tu khatt-e fārsi mosavvat-hā-ye kutāh ro nemi-nevisan."
+  },
+  {
+   "fa": "مولانا در قونیه زندگی می‌کرد، اما به فارسی شعر می‌گفت.",
+   "r": "Mowlānā dar Ghunie zendegi mi-kard, ammā be fārsi she'r mi-goft.",
+   "en": "Rumi lived in Konya, but he wrote his poetry in Persian.",
+   "col": "مولانا تو قونیه زندگی می‌کرد، ولی به فارسی شعر می‌گفت.",
+   "colR": "Mowlānā tu Ghunie zendegi mi-kard, vali be fārsi she'r mi-goft."
+  },
+  {
+   "fa": "سلطان سلیم عثمانی هم به فارسی شعر می‌سرود.",
+   "r": "Soltān Salim-e Osmāni ham be fārsi she'r mi-sorud.",
+   "en": "The Ottoman sultan Selim also wrote poems in Persian."
+  },
+  {
+   "fa": "ما هنوز می‌توانیم شعرهای هزار سال پیش را بخوانیم.",
+   "r": "mā hanuz mi-tavānim she'r-hā-ye hezār sāl pish rā be-khānim.",
+   "en": "We can still read poems written a thousand years ago.",
+   "col": "ما هنوز می‌تونیم شعرهای هزار سال پیش رو بخونیم.",
+   "colR": "mā hanuz mi-tunim she'r-hā-ye hezār sāl pish ro be-khunim."
+  }
+ ],
+ "vocab": [
+  {"fa": "فارسی باستان", "r": "fārsi-ye bāstān", "en": "Old Persian"},
+  {"fa": "فارسی میانه", "r": "fārsi-ye miyāne", "en": "Middle Persian"},
+  {"fa": "فارسی نو", "r": "fārsi-ye now", "en": "New Persian"},
+  {"fa": "پهلوی", "r": "pahlavi", "en": "Pahlavi: Middle Persian and its script"},
+  {"fa": "خط میخی", "r": "khatt-e mikhi", "en": "cuneiform (lit. 'nail script')"},
+  {"fa": "کتیبه", "r": "katibe", "en": "inscription"},
+  {"fa": "دری", "r": "dari", "en": "Dari: early New Persian; Persian in Afghanistan"},
+  {"fa": "دربار", "r": "darbār", "en": "royal court"},
+  {"fa": "شاعر", "r": "shā'er", "en": "poet"},
+  {"fa": "شعر", "r": "she'r", "en": "poem; poetry"},
+  {"fa": "قرن", "r": "gharn", "en": "century"},
+  {"fa": "میلادی", "r": "milādi", "en": "AD, of the Christian era"},
+  {"fa": "هجری", "r": "hejri", "en": "of the Hijra, the Islamic era"},
+  {"fa": "مصوت", "r": "mosavvat", "en": "vowel"},
+  {"fa": "امپراتوری", "r": "emperāturi", "en": "empire"},
+  {"fa": "ریشه", "r": "rishe", "en": "root; origin"},
+  {"fa": "تغییر کردن", "r": "taghyir kardan", "en": "to change"},
+  {"fa": "عربی", "r": "arabi", "en": "Arabic"}
+ ],
+ "facts": [
+  "Darius's inscription at Bisotun (c. 520 BC) is in Old Persian, Elamite and Babylonian; in the 19th century it was the key to deciphering cuneiform.",
+  "The object marker را goes back to Old Persian rādiy, 'for the sake of', by way of Middle Persian rāy.",
+  "The ezafe – the -e of ketāb-e man – grew out of an Old Persian relative pronoun, which became ī in Middle Persian.",
+  "Pahlavi scribes wrote some words in Aramaic and read them in Persian: MLKA, 'king', was read shāh.",
+  "The prefix mi- of mi-ravam comes from hamē, 'always'; classical poets still write it as a separate word, hami.",
+  "Classical Persian had the vowels ē and ō, so shēr 'lion' and shīr 'milk' were different words. Iranian Persian merged them; Dari still keeps them apart.",
+  "Persian was the official language of the Mughal Empire and stayed the language of the law courts in British India until 1837."
+ ]
+}

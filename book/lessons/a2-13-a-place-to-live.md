@@ -335,10 +335,10 @@ One custom moved from the old houses into the new buildings. When neighbours bri
 
 **Put the words in order**
 
-1. دارد. / دوم / است / بالکن / بزرگ‌تر / اتاق / و — The second room is bigger and has a balcony.
-2. در / است. / طبقه‌ی / آپارتمان / چهارم / ما — Our flat is on the fourth floor.
-3. سیصد / تومان / است. / رهن / این / آپارتمان / میلیون — The deposit on this flat is three hundred million tomans.
-4. جدید / اسباب‌کشی / کردیم. / آپارتمان / پیش / ماه / یک / به — Last month we moved into a new flat.
+1. و / دارد. / بزرگ‌تر / دوم / اتاق / است / بالکن — The second room is bigger and has a balcony.
+2. ما / است. / چهارم / آپارتمان / در / طبقه‌ی — Our flat is on the fourth floor.
+3. سیصد / میلیون / است. / تومان / رهن / آپارتمان / این — The deposit on this flat is three hundred million tomans.
+4. کردیم. / جدید / پیش / به / اسباب‌کشی / آپارتمان / ماه / یک — Last month we moved into a new flat.
 
 <details><summary>Answers</summary>
 
