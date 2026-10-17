@@ -1,0 +1,150 @@
+{
+ "id": "life-money-and-shopping",
+ "topic": "life",
+ "title": "Money and shopping",
+ "titleFa": "پول و خرید",
+ "titleR": "pul va kharid",
+ "image": "iranian-rial",
+ "summary": "Why Iranians count in tomans when the money says rials, how prices are said, cards and card readers, corner shops and hypermarkets, when to bargain – and what to do with the receipt.",
+ "body": [
+  {
+   "h": "Rials and tomans",
+   "md": "Iran's official currency is the [[ریال|riyāl|rial]], but almost nobody counts in rials. In everyday life prices are given in [[تومان|tumān|tomans]]: one toman is ten rials, so you knock a zero off the rial figure. Banknotes are printed in rials, which means that a note marked 100,000 is worth 10,000 tomans. When you see a price tag, ask [[تومان یا ریال؟|tumān yā riyāl?|tomans or rials?]] – the difference is a factor of ten. The word toman itself goes back to a Mongol word for 'ten thousand'."
+  },
+  {
+   "h": "Saying prices",
+   "md": "Prices change quickly, and people save breath by leaving out zeros. A shopkeeper who says [[پنجاه|panjāh|fifty]] for a kilo of fruit almost certainly means fifty thousand tomans, and bigger sums are shortened in the same way; the context, or a quick question, will tell you which. The numbers themselves are simple: [[هزار|hezār|thousand]], [[میلیون|milyun|million]], [[صد و پنجاه هزار تومان|sad o panjāh hezār tumān|150,000 tomans]]. Price tags, receipts and banknotes use Persian digits – ۰ ۱ ۲ ۳ ۴ ۵ ۶ ۷ ۸ ۹ – so they are worth learning early."
+  },
+  {
+   "h": "Cards and cash",
+   "md": "Iranians pay for almost everything by bank card, from a taxi ride to a loaf of bread. Every shop has a [[کارت‌خوان|kārt-khān|card reader]]: you hand over or tap your card, type your [[رمز|ramz|PIN]], and a moment later a text message from your bank confirms the payment. Phone apps and QR codes are spreading too, while [[پول نقد|pul-e naghd|cash]] is still handy for tips and small stalls. Foreign bank cards do not work in Iran, so visitors bring cash and change it at an exchange office, a [[صرافی|sarrāfi|exchange office]], or buy a prepaid card for tourists."
+  },
+  {
+   "h": "Shops and supermarkets",
+   "md": "Daily shopping is local. The neighbourhood [[سوپرمارکت|supermārket|corner shop]] – in Iran a 'supermarket' is usually a small grocery – sells milk, bread, eggs and cheese; fruit and vegetables come from the [[میوه‌فروشی|mive-forushi|greengrocer]], meat from the [[قصابی|ghassābi|butcher's]], and medicine from the [[داروخانه|dārukhāne|pharmacy]]. Big chain stores and hypermarkets, each called a [[فروشگاه|forushgāh|store]], are popular in the cities. Many shops deliver if you phone them, and fruit and vegetables are sold by the [[کیلو|kilu|kilo]]: [[نیم کیلو|nim kilu|half a kilo]], [[یک کیلو|yek kilu|one kilo]].",
+   "image": "tajrish-bazaar"
+  },
+  {
+   "h": "To bargain or not",
+   "md": "Bargaining belongs to the bazaar: to carpets and handicrafts, to second-hand goods and to taxis without a meter. In supermarkets, pharmacies and shops with price tags, prices are fixed, and a sign may say so: [[قیمت مقطوع|gheymat-e maghtu'|fixed price]]. Even then, [[تعارف|ta'ārof|ritual politeness]] has its place. A shopkeeper may wave away your money with [[قابل ندارد|ghābel na-dārad|it's nothing]]; smile, insist, and ask [[چقدر تقدیم کنم؟|cheghadr taghdim konam?|how much do I owe you? – literally 'how much shall I offer?']].",
+   "image": "kandovan"
+  },
+  {
+   "h": "The receipt",
+   "md": "After you pay by card you will hear [[رسید می‌خواهید؟|resid mi-khāhid?|do you want the receipt?]] – the little slip from the card reader. For bigger purchases ask for a [[فاکتور|fāktor|itemised bill]], from French *facture*, stamped by the shop. Keep it: many small shops will exchange goods but not refund them, and some display the old warning [[جنس فروخته‌شده پس گرفته نمی‌شود|jens-e forukhte-shode pas gerefte nemi-shavad|goods sold cannot be returned]]. If in doubt, ask before you buy whether you can [[عوض کردن|avaz kardan|exchange]] the item."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "این پیراهن چند است؟",
+   "r": "in pirāhan chand ast?",
+   "en": "How much is this shirt?",
+   "col": "این پیرهن چنده؟",
+   "colR": "in pirhan chand-e?"
+  },
+  {
+   "fa": "قیمتش به تومان است یا ریال؟",
+   "r": "gheymat-ash be tumān ast yā riyāl?",
+   "en": "Is the price in tomans or in rials?",
+   "col": "قیمتش تومنه یا ریال؟",
+   "colR": "gheymat-esh toman-e yā riyāl?"
+  },
+  {
+   "fa": "ده تومان یعنی صد ریال.",
+   "r": "dah tumān ya'ni sad riyāl.",
+   "en": "Ten tomans means a hundred rials.",
+   "col": "ده تومن یعنی صد ریال.",
+   "colR": "dah toman ya'ni sad riyāl."
+  },
+  {
+   "fa": "با کارت حساب می‌کنم.",
+   "r": "bā kārt hesāb mi-konam.",
+   "en": "I'll pay by card."
+  },
+  {
+   "fa": "رمزتان را بزنید، لطفاً.",
+   "r": "ramz-etān rā be-zanid, lotfan.",
+   "en": "Please enter your PIN.",
+   "col": "رمزتون رو بزنین، لطفاً.",
+   "colR": "ramz-etun ro be-zanin, lotfan."
+  },
+  {
+   "fa": "رسید می‌خواهید؟",
+   "r": "resid mi-khāhid?",
+   "en": "Do you want the receipt?",
+   "col": "رسید می‌خواین؟",
+   "colR": "resid mi-khāyn?"
+  },
+  {
+   "fa": "یک کیلو سیب و نیم کیلو انگور می‌خواهم.",
+   "r": "yek kilu sib va nim kilu angur mi-khāham.",
+   "en": "I'd like a kilo of apples and half a kilo of grapes.",
+   "col": "یه کیلو سیب و نیم کیلو انگور می‌خوام.",
+   "colR": "ye kilu sib o nim kilu angur mi-khām."
+  },
+  {
+   "fa": "قیمت‌ها این روزها خیلی زود عوض می‌شوند.",
+   "r": "gheymat-hā in ruz-hā kheyli zud avaz mi-shavand.",
+   "en": "Prices change very quickly these days.",
+   "col": "قیمتا این روزا خیلی زود عوض می‌شن.",
+   "colR": "gheymat-ā in ruz-ā kheyli zud avaz mi-shan."
+  },
+  {
+   "fa": "ببخشید، این را می‌شود عوض کرد؟",
+   "r": "be-bakhshid, in rā mi-shavad avaz kard?",
+   "en": "Excuse me, can I exchange this?",
+   "col": "ببخشید، اینو می‌شه عوض کرد؟",
+   "colR": "be-bakhshid, in-o mi-she avaz kard?"
+  },
+  {
+   "fa": "فاکتور را هم بدهید، لطفاً.",
+   "r": "fāktor rā ham be-dahid, lotfan.",
+   "en": "Could I have the itemised bill too, please?",
+   "col": "فاکتور رو هم بدین، لطفاً.",
+   "colR": "fāktor ro ham be-din, lotfan."
+  },
+  {
+   "fa": "چقدر تقدیم کنم؟",
+   "r": "cheghadr taghdim konam?",
+   "en": "How much do I owe you?",
+   "lit": "how much shall I offer?",
+   "note": "A very polite way to ask the price, especially after the shopkeeper's ta'arof."
+  },
+  {
+   "fa": "این‌جا قیمت‌ها مقطوع است.",
+   "r": "in-jā gheymat-hā maghtu' ast.",
+   "en": "Prices here are fixed."
+  }
+ ],
+ "vocab": [
+  {"fa": "پول", "r": "pul", "en": "money"},
+  {"fa": "ریال", "r": "riyāl", "en": "rial (the official currency)"},
+  {"fa": "تومان", "r": "tumān", "en": "toman (ten rials)"},
+  {"fa": "قیمت", "r": "gheymat", "en": "price"},
+  {"fa": "گران", "r": "gerān", "en": "expensive"},
+  {"fa": "ارزان", "r": "arzān", "en": "cheap"},
+  {"fa": "خرید", "r": "kharid", "en": "shopping; purchase"},
+  {"fa": "خریدن", "r": "kharidan", "en": "to buy"},
+  {"fa": "مغازه", "r": "maghāze", "en": "shop"},
+  {"fa": "فروشگاه", "r": "forushgāh", "en": "store, department store"},
+  {"fa": "کارت بانکی", "r": "kārt-e bānki", "en": "bank card"},
+  {"fa": "کارت‌خوان", "r": "kārt-khān", "en": "card reader"},
+  {"fa": "رمز", "r": "ramz", "en": "PIN; password"},
+  {"fa": "پول نقد", "r": "pul-e naghd", "en": "cash"},
+  {"fa": "اسکناس", "r": "eskenās", "en": "banknote"},
+  {"fa": "صرافی", "r": "sarrāfi", "en": "exchange office"},
+  {"fa": "رسید", "r": "resid", "en": "receipt"},
+  {"fa": "فاکتور", "r": "fāktor", "en": "itemised bill, invoice"},
+  {"fa": "تخفیف", "r": "takhfif", "en": "discount"},
+  {"fa": "عوض کردن", "r": "avaz kardan", "en": "to change, exchange"}
+ ],
+ "facts": [
+  "Iran's official currency is the rial, but people almost always count in tomans: one toman is ten rials.",
+  "Banknotes are printed in rials, so a note marked 100,000 rials is worth 10,000 tomans.",
+  "Toman comes from tümen, a Mongol word for 'ten thousand'.",
+  "Price tags and receipts use Persian digits (۰۱۲۳۴۵۶۷۸۹), so they are worth learning early.",
+  "In Iran a supermārket is usually a small neighbourhood grocery; big stores are called forushgāh.",
+  "Most Iranians pay even small amounts by bank card at a kārt-khān, a 'card reader'; foreign bank cards do not work in Iran.",
+  "Fāktor, an itemised bill, comes from French facture."
+ ]
+}

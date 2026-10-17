@@ -40,99 +40,257 @@
    "r": "madrese-hā dar Irān az avval-e Mehr bāz mi-shavand.",
    "en": "Schools in Iran open on the first of Mehr.",
    "col": "مدرسه‌ها تو ایران از اول مهر باز می‌شن.",
-   "colR": "madrese-hā tu Irān az avval-e Mehr bāz mi-shan."
+   "colR": "madrese-hā tu Irān az avval-e Mehr bāz mi-shan.",
+   "faV": "مَدرِسه‌ها دَر ایران اَز اَوَّلِ مِهر باز می‌شَوَند.",
+   "a": "1cd7bb9ff0ef",
+   "colV": "مَدرِسه‌ها تو ایران اَز اَوَّلِ مِهر باز می‌شَن.",
+   "colA": "43ea6f25df42"
   },
   {
    "fa": "برادر کوچکم امسال کلاس اول است.",
    "r": "barādar-e kuchak-am emsāl kelās-e avval ast.",
    "en": "My little brother is in first grade this year.",
    "col": "داداش کوچیکم امسال کلاس اوله.",
-   "colR": "dādāsh-e kuchik-am emsāl kelās-e avval-e."
+   "colR": "dādāsh-e kuchik-am emsāl kelās-e avval-e.",
+   "faV": "بَرادَرِ کوچَکَم اِمسال کِلاسِ اَوَّل اَست.",
+   "a": "20b1b59bdd08",
+   "colV": "داداشِ کوچیکَم اِمسال کِلاسِ اَوَّله.",
+   "colA": "3fd54331228d"
   },
   {
    "fa": "فردا امتحان ریاضی داریم و من هنوز درس نخوانده‌ام.",
    "r": "fardā emtehān-e riyāzi dārim va man hanuz dars na-khānde-am.",
    "en": "We have a maths exam tomorrow and I still haven't studied.",
    "col": "فردا امتحان ریاضی داریم و من هنوز درس نخوندم.",
-   "colR": "fardā emtehān-e riyāzi dārim o man hanuz dars na-khundam."
+   "colR": "fardā emtehān-e riyāzi dārim o man hanuz dars na-khundam.",
+   "faV": "فَردا اِمتِحانِ ریاضی داریم و مَن هَنوز دَرس نَخوانده‌اَم.",
+   "a": "44f3f7004f54",
+   "colV": "فَردا اِمتِحانِ ریاضی داریم و مَن هَنوز دَرس نَخوندَم.",
+   "colA": "e4dcdd794cf3"
   },
   {
    "fa": "در امتحان ریاضی بیست گرفتم!",
    "r": "dar emtehān-e riyāzi bist gereftam!",
    "en": "I got twenty out of twenty in the maths exam!",
    "col": "ریاضی رو بیست گرفتم!",
-   "colR": "riyāzi ro bist gereftam!"
+   "colR": "riyāzi ro bist gereftam!",
+   "faV": "دَر اِمتِحانِ ریاضی بیست گِرِفتَم!",
+   "a": "97b8fcbb2a90",
+   "colV": "ریاضی رو بیست گِرِفتَم!",
+   "colA": "18279244049d"
   },
   {
    "fa": "در درس شیمی رد شدم.",
    "r": "dar dars-e shimi rad shodam.",
    "en": "I failed chemistry.",
    "col": "شیمی رو افتادم.",
-   "colR": "shimi ro oftādam."
+   "colR": "shimi ro oftādam.",
+   "faV": "دَر دَرسِ شیمی رَد شُدَم.",
+   "a": "07ec3af7ae40",
+   "colV": "شیمی رو اُفتادَم.",
+   "colA": "85bb5a6f5527"
   },
   {
    "fa": "او برای کنکور یک سال تمام درس خواند.",
    "r": "u barā-ye konkur yek sāl-e tamām dars khānd.",
    "en": "She studied for the konkur for a whole year.",
    "col": "اون واسه‌ی کنکور یه سال تموم درس خوند.",
-   "colR": "un vāse-ye konkur ye sāl-e tamum dars khund."
+   "colR": "un vāse-ye konkur ye sāl-e tamum dars khund.",
+   "faV": "او بَرایِ کُنکور یِک سالِ تَمام دَرس خواند.",
+   "a": "d12210ae9822",
+   "colV": "اون واسه‌یِ کُنکور یه سالِ تَموم دَرس خوند.",
+   "colA": "4f999c4e97c4"
   },
   {
    "fa": "رتبه‌ات در کنکور چند شد؟",
    "r": "rotbe-at dar konkur chand shod?",
    "en": "What rank did you get in the konkur?",
    "col": "رتبه‌ت تو کنکور چند شد؟",
-   "colR": "rotbe-t tu konkur chand shod?"
+   "colR": "rotbe-t tu konkur chand shod?",
+   "faV": "رُتبه‌اَت دَر کُنکور چَند شُد؟",
+   "a": "64520a000c91",
+   "colV": "رُتبه‌ت تو کُنکور چَند شُد؟",
+   "colA": "635bf1fa1c81"
   },
   {
    "fa": "خواهرم در دانشگاه تهران پزشکی می‌خواند.",
    "r": "khāhar-am dar dāneshgāh-e Tehrān pezeshki mi-khānad.",
    "en": "My sister studies medicine at the University of Tehran.",
    "col": "خواهرم تو دانشگاه تهران پزشکی می‌خونه.",
-   "colR": "khāhar-am tu dāneshgāh-e Tehrān pezeshki mi-khune."
+   "colR": "khāhar-am tu dāneshgāh-e Tehrān pezeshki mi-khune.",
+   "faV": "خواهَرَم دَر دانِشگاهِ تِهران پِزِشکی می‌خوانَد.",
+   "a": "106abd6fb9a3",
+   "colV": "خواهَرَم تو دانِشگاهِ تِهران پِزِشکی می‌خونه.",
+   "colA": "e0409dae4c9a"
   },
   {
    "fa": "این ترم بیست واحد برداشته‌ام.",
    "r": "in term bist vāhed bardāshte-am.",
    "en": "I've taken twenty credits this semester.",
    "col": "این ترم بیست واحد برداشتم.",
-   "colR": "in term bist vāhed bardāshtam."
+   "colR": "in term bist vāhed bardāshtam.",
+   "faV": "این تِرم بیست واحِد بَرداشته‌اَم.",
+   "a": "7e4501667668",
+   "colV": "این تِرم بیست واحِد بَرداشتَم.",
+   "colA": "28e747443793"
   },
   {
    "fa": "شب امتحان تا صبح بیدار ماندم.",
    "r": "shab-e emtehān tā sobh bidār māndam.",
    "en": "The night before the exam I stayed up until morning.",
    "col": "شب امتحان تا صبح بیدار موندم.",
-   "colR": "shab-e emtehān tā sobh bidār mundam."
+   "colR": "shab-e emtehān tā sobh bidār mundam.",
+   "faV": "شَبِ اِمتِحان تا صُبح بیدار ماندَم.",
+   "a": "194b4db9bc48",
+   "colV": "شَبِ اِمتِحان تا صُبح بیدار موندَم.",
+   "colA": "f9d50c5aaa9c"
   },
   {
    "fa": "وقتی معلم وارد کلاس شد، همه بلند شدیم.",
    "r": "vaghti mo'allem vāred-e kelās shod, hame boland shodim.",
    "en": "When the teacher came into the classroom, we all stood up.",
    "col": "وقتی معلم اومد تو کلاس، همه پا شدیم.",
-   "colR": "vaghti mo'allem umad tu kelās, hame pā shodim."
+   "colR": "vaghti mo'allem umad tu kelās, hame pā shodim.",
+   "faV": "وَقتی مُعَلِّم وارِدِ کِلاس شُد، هَمه بُلَند شُدیم.",
+   "a": "d2cb79f67a62",
+   "colV": "وَقتی مُعَلِّم اومَد تو کِلاس، هَمه پا شُدیم.",
+   "colA": "970d8a1c0c27"
   }
  ],
  "vocab": [
-  {"fa": "مدرسه", "r": "madrese", "en": "school"},
-  {"fa": "دبستان", "r": "dabestān", "en": "primary school"},
-  {"fa": "دبیرستان", "r": "dabirestān", "en": "secondary school, high school"},
-  {"fa": "دانشگاه", "r": "dāneshgāh", "en": "university"},
-  {"fa": "دانش‌آموز", "r": "dānesh-āmuz", "en": "pupil, schoolchild"},
-  {"fa": "دانشجو", "r": "dāneshju", "en": "(university) student"},
-  {"fa": "معلم", "r": "mo'allem", "en": "teacher"},
-  {"fa": "استاد", "r": "ostād", "en": "professor; master"},
-  {"fa": "کلاس", "r": "kelās", "en": "class; classroom; school year"},
-  {"fa": "امتحان", "r": "emtehān", "en": "exam, test"},
-  {"fa": "نمره", "r": "nomre", "en": "mark, grade"},
-  {"fa": "معدل", "r": "mo'addel", "en": "grade average"},
-  {"fa": "قبول شدن", "r": "ghabul shodan", "en": "to pass (an exam); to be accepted"},
-  {"fa": "رد شدن", "r": "rad shodan", "en": "to fail (an exam)"},
-  {"fa": "کنکور", "r": "konkur", "en": "university entrance exam"},
-  {"fa": "رتبه", "r": "rotbe", "en": "rank"},
-  {"fa": "درس خواندن", "r": "dars khāndan", "en": "to study"},
-  {"fa": "خوابگاه", "r": "khābgāh", "en": "dormitory, hall of residence"},
-  {"fa": "مهر", "r": "Mehr", "en": "Mehr, the seventh month (late September to late October)"}
+  {
+   "fa": "مدرسه",
+   "r": "madrese",
+   "en": "school",
+   "faV": "مَدرِسه",
+   "a": "f8d376cd80f6"
+  },
+  {
+   "fa": "دبستان",
+   "r": "dabestān",
+   "en": "primary school",
+   "faV": "دَبِستان",
+   "a": "852295040398"
+  },
+  {
+   "fa": "دبیرستان",
+   "r": "dabirestān",
+   "en": "secondary school, high school",
+   "faV": "دَبیرِستان",
+   "a": "81782f6632f8"
+  },
+  {
+   "fa": "دانشگاه",
+   "r": "dāneshgāh",
+   "en": "university",
+   "faV": "دانِشگاه",
+   "a": "890634c6c97a"
+  },
+  {
+   "fa": "دانش‌آموز",
+   "r": "dānesh-āmuz",
+   "en": "pupil, schoolchild",
+   "faV": "دانِش‌آموز",
+   "a": "9f022e75f16b"
+  },
+  {
+   "fa": "دانشجو",
+   "r": "dāneshju",
+   "en": "(university) student",
+   "faV": "دانِشجو",
+   "a": "0cf8e25653d0"
+  },
+  {
+   "fa": "معلم",
+   "r": "mo'allem",
+   "en": "teacher",
+   "faV": "مُعَلِّم",
+   "a": "63d83fae3594"
+  },
+  {
+   "fa": "استاد",
+   "r": "ostād",
+   "en": "professor; master",
+   "faV": "اُستاد",
+   "a": "bc167126bdbf"
+  },
+  {
+   "fa": "کلاس",
+   "r": "kelās",
+   "en": "class; classroom; school year",
+   "faV": "کِلاس",
+   "a": "5de718b86fed"
+  },
+  {
+   "fa": "امتحان",
+   "r": "emtehān",
+   "en": "exam, test",
+   "faV": "اِمتِحان",
+   "a": "ce67eb239ed1"
+  },
+  {
+   "fa": "نمره",
+   "r": "nomre",
+   "en": "mark, grade",
+   "faV": "نُمره",
+   "a": "e74f516dbb22"
+  },
+  {
+   "fa": "معدل",
+   "r": "mo'addel",
+   "en": "grade average",
+   "faV": "مُعَدِّل",
+   "a": "99c446a414f5"
+  },
+  {
+   "fa": "قبول شدن",
+   "r": "ghabul shodan",
+   "en": "to pass (an exam); to be accepted",
+   "faV": "قَبول شُدَن",
+   "a": "44ff3e8f1a54"
+  },
+  {
+   "fa": "رد شدن",
+   "r": "rad shodan",
+   "en": "to fail (an exam)",
+   "faV": "رَد شُدَن",
+   "a": "8af0e13bce22"
+  },
+  {
+   "fa": "کنکور",
+   "r": "konkur",
+   "en": "university entrance exam",
+   "faV": "کُنکور",
+   "a": "6223317a9674"
+  },
+  {
+   "fa": "رتبه",
+   "r": "rotbe",
+   "en": "rank",
+   "faV": "رُتبه",
+   "a": "149a87f30875"
+  },
+  {
+   "fa": "درس خواندن",
+   "r": "dars khāndan",
+   "en": "to study",
+   "faV": "دَرس خواندَن",
+   "a": "30551cecc033"
+  },
+  {
+   "fa": "خوابگاه",
+   "r": "khābgāh",
+   "en": "dormitory, hall of residence",
+   "faV": "خوابگاه",
+   "a": "4fb1b483a8e8"
+  },
+  {
+   "fa": "مهر",
+   "r": "Mehr",
+   "en": "Mehr, the seventh month (late September to late October)",
+   "faV": "مِهر",
+   "a": "60dfd030db0f"
+  }
  ],
  "facts": [
   "The Iranian school year begins on 1 Mehr, around 23 September.",
@@ -142,5 +300,7 @@
   "Maryam Mirzakhani, a graduate of Sharif University of Technology, became the first woman to win the Fields Medal, in 2014.",
   "In Persian a student 'gives' an exam (emtehān dādan) and a teacher 'takes' one (emtehān gereftan).",
   "Most Iranian schools are single-sex, for girls or for boys."
- ]
+ ],
+ "titleV": "مَدرِسه و دانِشگاه",
+ "titleA": "c91ef2ab7d98"
 }

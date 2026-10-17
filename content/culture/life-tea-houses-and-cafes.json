@@ -1,0 +1,145 @@
+{
+ "id": "life-tea-houses-and-cafes",
+ "topic": "life",
+ "title": "Tea houses and cafés",
+ "titleFa": "قهوه‌خانه و کافه",
+ "titleR": "ghahve-khāne va kāfe",
+ "image": "iranian-tea",
+ "summary": "Carpeted day-beds and samovars in the old tea house, the bubbling qalyan, the storyteller who stopped at the most exciting moment – and the espresso-and-laptop cafés of young Iranians today.",
+ "body": [
+  {
+   "h": "The qahve-khaneh",
+   "md": "Despite its name, the traditional [[قهوه‌خانه|ghahve-khāne|coffee house]] serves tea. Coffee was the fashion in the coffee houses of Safavid Isfahan, but tea took over in the nineteenth century and the old name stayed. A classic tea house has tiled walls, old photographs, a row of gleaming samovars and wooden day-beds, each a [[تخت|takht|day-bed]], spread with carpets and bolster cushions, the [[پشتی|poshti|bolster]]. Customers sit cross-legged, order [[دیزی|dizi|lamb and chickpea stew]] at lunchtime and play [[تخته‌نرد|takhte-nard|backgammon]] in the afternoon. The old tea house was a men's world of drivers, porters and bazaar workers; the restored ones in old mansions and in mountain spots such as Darband, above Tehran, welcome families and tourists too.",
+   "image": "darband"
+  },
+  {
+   "h": "Tea rituals",
+   "md": "Tea comes fast and often. The keeper of the tea house, the [[قهوه‌چی|ghahve-chi|tea-house keeper]], brings it [[تازه‌دم|tāze-dam|freshly brewed]] in small glasses on saucers, with a bowl of [[قند|ghand|sugar lumps]] or sticks of saffron rock candy. Many older men pour a little of the hot tea into the saucer, the [[نعلبکی|na'lbeki|saucer]], to cool it and sip it from there, with a sugar lump held between the teeth. Ordering is easy: hold up two fingers and say [[دو تا چای|do tā chāy|two teas]] – or, as Tehranis say, [[دو تا چایی|do tā chāyi|two teas]] – and a refill is never far away.",
+   "image": "samovar"
+  },
+  {
+   "h": "The qalyan",
+   "md": "Many tea houses also serve the [[قلیان|ghalyān|water pipe]]: a glass base full of water, a long hose and a clay bowl of moist [[تنباکو|tanbāku|tobacco]], topped with glowing [[زغال|zoghāl|charcoal]]. The smoke bubbles through the water and the pipe is passed from hand to hand. Today fruit-flavoured tobacco is popular with the young, though doctors warn that the qalyan is no healthier than cigarettes."
+  },
+  {
+   "h": "The storyteller",
+   "md": "The tea house was also a theatre. In the evening a [[نقال|nagghāl|storyteller]] would stand before the audience and perform the tales of the Shahnameh – Rostam's [[هفت‌خان|haft-khān|seven labours]], the tragedy of Rostam and Sohrab – with his voice, his whole body and a stick, often pointing to a huge painted canvas behind him. These [[نقاشی قهوه‌خانه‌ای|nagghāshi-ye ghahve-khāne'i|coffee-house painting]]s, crowded with heroes, battles and religious scenes, became a folk art of their own. A good storyteller stopped at the most exciting moment, so that everyone would come back the next night. In 2011 UNESCO listed [[نقالی|nagghāli|naqqali]] as heritage in need of urgent safeguarding.",
+   "image": "iranian-coffeehouse-painting"
+  },
+  {
+   "h": "The café generation",
+   "md": "In recent decades a new kind of place has spread through Iranian cities: the [[کافه|kāfe|café]]. Here the drink is [[قهوه|ghahve|coffee]] – espresso, cappuccino or Turkish coffee – with cakes and sandwiches, and the customers are mostly young: students with laptops, friends talking for hours, groups playing board games. Cafés have become favourite meeting places, and many double as bookshops or galleries. Yet café culture has older roots. The [[کافه نادری|Kāfe Nāderi|Café Naderi]] in central Tehran, founded by an Armenian immigrant, was once the haunt of writers such as Sadegh Hedayat and Forugh Farrokhzad."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "دو تا چای بیاورید، لطفاً.",
+   "r": "do tā chāy bi-yāvarid, lotfan.",
+   "en": "Two teas, please.",
+   "col": "دو تا چایی بیارین، لطفاً.",
+   "colR": "do tā chāyi bi-yārin, lotfan."
+  },
+  {
+   "fa": "چای تازه‌دم دارید؟",
+   "r": "chāy-e tāze-dam dārid?",
+   "en": "Do you have freshly brewed tea?",
+   "col": "چای تازه‌دم دارین؟",
+   "colR": "chāy-e tāze-dam dārin?"
+  },
+  {
+   "fa": "پدربزرگم چای را در نعلبکی می‌ریزد و می‌نوشد.",
+   "r": "pedar-bozorg-am chāy rā dar na'lbeki mi-rizad va mi-nushad.",
+   "en": "My grandfather pours his tea into the saucer and drinks it.",
+   "col": "بابابزرگم چایی رو تو نعلبکی می‌ریزه و می‌خوره.",
+   "colR": "bābā-bozorg-am chāyi ro tu na'lbeki mi-rize o mi-khore."
+  },
+  {
+   "fa": "در قهوه‌خانه روی تخت می‌نشینیم و دیزی می‌خوریم.",
+   "r": "dar ghahve-khāne ru-ye takht mi-neshinim va dizi mi-khorim.",
+   "en": "In the tea house we sit on a day-bed and eat dizi.",
+   "col": "تو قهوه‌خونه رو تخت می‌شینیم و دیزی می‌خوریم.",
+   "colR": "tu ghahve-khune ru takht mi-shinim o dizi mi-khorim."
+  },
+  {
+   "fa": "یک دست تخته‌نرد بازی کنیم؟",
+   "r": "yek dast takhte-nard bāzi konim?",
+   "en": "Shall we play a game of backgammon?",
+   "col": "یه دست تخته‌نرد بازی کنیم؟",
+   "colR": "ye dast takhte-nard bāzi konim?"
+  },
+  {
+   "fa": "قلیان را با زغال روشن می‌کنند.",
+   "r": "ghalyān rā bā zoghāl rowshan mi-konand.",
+   "en": "They light the qalyan with charcoal.",
+   "col": "قلیون رو با زغال روشن می‌کنن.",
+   "colR": "ghalyun ro bā zoghāl rowshan mi-konan."
+  },
+  {
+   "fa": "نقال داستان رستم و سهراب را تعریف می‌کرد.",
+   "r": "nagghāl dāstān-e Rostam va Sohrāb rā ta'rif mi-kard.",
+   "en": "The storyteller was telling the story of Rostam and Sohrab."
+  },
+  {
+   "fa": "او همیشه در هیجان‌انگیزترین جای داستان دست نگه می‌داشت.",
+   "r": "u hamishe dar hayajān-angiz-tarin jā-ye dāstān dast negah mi-dāsht.",
+   "en": "He always stopped at the most exciting point in the story."
+  },
+  {
+   "fa": "این کافه قهوه‌ی خیلی خوبی دارد.",
+   "r": "in kāfe ghahve-ye kheyli khub-i dārad.",
+   "en": "This café has really good coffee.",
+   "col": "این کافه قهوه‌ی خیلی خوبی داره.",
+   "colR": "in kāfe ghahve-ye kheyli khub-i dāre."
+  },
+  {
+   "fa": "یک کاپوچینو و یک تکه کیک شکلاتی، لطفاً.",
+   "r": "yek kāpuchino va yek tekke keyk-e shokolāti, lotfan.",
+   "en": "A cappuccino and a piece of chocolate cake, please.",
+   "col": "یه کاپوچینو و یه تیکه کیک شکلاتی، لطفاً.",
+   "colR": "ye kāpuchino o ye tike keyk-e shokolāti, lotfan."
+  },
+  {
+   "fa": "رمز وای‌فای را می‌دانید؟",
+   "r": "ramz-e vāy-fāy rā mi-dānid?",
+   "en": "Do you know the wi-fi password?",
+   "col": "رمز وای‌فای رو می‌دونین؟",
+   "colR": "ramz-e vāy-fāy ro mi-dunin?"
+  },
+  {
+   "fa": "جمعه‌ها با دوستانم در کافه همدیگر را می‌بینیم.",
+   "r": "jom'e-hā bā dustān-am dar kāfe hamdigar rā mi-binim.",
+   "en": "On Fridays my friends and I meet at a café.",
+   "col": "جمعه‌ها با دوستام تو کافه همدیگه رو می‌بینیم.",
+   "colR": "jom'e-hā bā dustām tu kāfe hamdige ro mi-binim."
+  }
+ ],
+ "vocab": [
+  {"fa": "قهوه‌خانه", "r": "ghahve-khāne", "en": "(traditional) tea house, coffee house"},
+  {"fa": "قهوه‌چی", "r": "ghahve-chi", "en": "tea-house keeper"},
+  {"fa": "کافه", "r": "kāfe", "en": "café"},
+  {"fa": "چای", "r": "chāy", "en": "tea"},
+  {"fa": "استکان", "r": "estekān", "en": "tea glass"},
+  {"fa": "نعلبکی", "r": "na'lbeki", "en": "saucer"},
+  {"fa": "قند", "r": "ghand", "en": "sugar lump"},
+  {"fa": "تازه‌دم", "r": "tāze-dam", "en": "freshly brewed"},
+  {"fa": "قلیان", "r": "ghalyān", "en": "water pipe, qalyan"},
+  {"fa": "زغال", "r": "zoghāl", "en": "charcoal"},
+  {"fa": "تخت", "r": "takht", "en": "day-bed; bed"},
+  {"fa": "تخته‌نرد", "r": "takhte-nard", "en": "backgammon"},
+  {"fa": "نقال", "r": "nagghāl", "en": "storyteller (performer of naqqali)"},
+  {"fa": "نقالی", "r": "nagghāli", "en": "dramatic storytelling"},
+  {"fa": "داستان", "r": "dāstān", "en": "story"},
+  {"fa": "تعریف کردن", "r": "ta'rif kardan", "en": "to tell (a story); to praise"},
+  {"fa": "قهوه", "r": "ghahve", "en": "coffee"},
+  {"fa": "سفارش دادن", "r": "sefāresh dādan", "en": "to order"}
+ ],
+ "facts": [
+  "Despite the name, a traditional ghahve-khāne ('coffee house') serves tea; coffee was the drink of the Safavid coffee houses of the 17th century.",
+  "Naqqali was inscribed on UNESCO's list of intangible heritage in need of urgent safeguarding in 2011.",
+  "Coffee-house painting is a folk style of large canvases showing Shahnameh heroes and religious scenes, made to hang in tea houses and to illustrate the storyteller's tales.",
+  "Café Naderi in central Tehran was a favourite of writers such as Sadegh Hedayat, Jalal Al-e Ahmad and Forugh Farrokhzad.",
+  "Persian tradition credits the invention of backgammon, takhte-nard, to Bozorgmehr, the wise vizier of the Sasanian king Khosrow I.",
+  "Tehranis often say chāyi rather than chāy for tea.",
+  "Qalyān is the Persian word for the water pipe; its tobacco is tanbāku."
+ ]
+}

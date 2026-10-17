@@ -331,10 +331,10 @@ The table has its own menu: red fruits that stand for the dawn and the warmth of
 
 **Put the words in order**
 
-1. است. / کلاه / پدربزرگ / دارد / مردی / من / که — The man with the hat is my grandfather.
-2. است. / درست / گفتی / چیزی / که — What you said is right.
-3. می‌بارید. / روزی / باران / به / ایران / آمدم، / که — The day I came to Iran, it was raining.
-4. است. / مادربزرگم / دارد / خانمی / عینک / که — The lady with the glasses is my grandmother.
+1. که / دارد / است. / مردی / من / کلاه / پدربزرگ — The man with the hat is my grandfather.
+2. که / است. / چیزی / درست / گفتی — What you said is right.
+3. که / روزی / می‌بارید. / باران / آمدم، / به / ایران — The day I came to Iran, it was raining.
+4. که / دارد / است. / خانمی / مادربزرگم / عینک — The lady with the glasses is my grandmother.
 
 <details><summary>Answers</summary>
 

@@ -382,10 +382,10 @@ Ferdowsi, who wrote the Shahnameh with very few Arabic words a thousand years ag
 
 **Put the words in order**
 
-1. کنید. / چند / صبر / دقیقه / لطفاً — Please wait a few minutes.
-2. است. / آثار / شده / زبان‌های / به / ترجمه / حافظ / زیادی — Hafez's works have been translated into many languages.
-3. همه‌ی / تقریباً / آمده‌اند. / مهمان‌ها — Almost all the guests have arrived.
-4. می‌کنند. / کشور / نفت / دو / مذاکره / درباره‌ی — The two countries are negotiating about oil.
+1. کنید. / صبر / دقیقه / لطفاً / چند — Please wait a few minutes.
+2. شده / آثار / حافظ / است. / زبان‌های / ترجمه / زیادی / به — Hafez's works have been translated into many languages.
+3. آمده‌اند. / تقریباً / مهمان‌ها / همه‌ی — Almost all the guests have arrived.
+4. نفت / کشور / می‌کنند. / مذاکره / درباره‌ی / دو — The two countries are negotiating about oil.
 
 <details><summary>Answers</summary>
 
@@ -414,4 +414,4 @@ Ferdowsi, who wrote the Shahnameh with very few Arabic words a thousand years ag
 
 ---
 
-← [Building words: suffixes and prefixes](b1-06-building-words.md) · [Contents](../README.md) · [First steps in poetry: reading a classical poem](b1-12-first-steps-in-poetry.md) →
+← [Building words: suffixes and prefixes](b1-06-building-words.md) · [Contents](../README.md) · [Formal and informal: registers and respect](b1-08-formal-and-informal.md) →

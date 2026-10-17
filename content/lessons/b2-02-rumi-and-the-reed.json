@@ -1,0 +1,1074 @@
+{
+ "id": "b2-02-rumi-and-the-reed",
+ "level": "B2",
+ "n": 2,
+ "title": "Rumi and the reed",
+ "titleFa": "مولانا و نی‌نامه",
+ "titleR": "Mowlānā o ney-nāme",
+ "intro": "The Masnavi of Rumi – some 26,000 couplets of stories, jokes and teaching – begins with a reed flute complaining that it has been cut from its reed-bed. These opening lines, the 'Song of the Reed', are the most famous verses of Persian mysticism. In this lesson you read all eighteen couplets, retell them in modern Persian, learn the words Sufis use for exile and return, see how a masnavi rhymes, and follow Rumi's life from Khorasan to Konya.",
+ "goals": [
+  "read the eighteen couplets of the Song of the Reed and retell each one in modern Persian",
+  "use the vocabulary of longing and return: عشق، فراق، وصل، نیستان، اصل، سینه، شرحه شرحه",
+  "recognise the masnavi form – a new rhyme in every couplet – and hear its swinging metre",
+  "tell the story of Rumi's life and of his meeting with Shams of Tabriz"
+ ],
+ "image": "rumi",
+ "sections": [
+  {
+   "type": "reading",
+   "title": "The Song of the Reed",
+   "intro": "The opening of the Masnavi, couplet by couplet. From the second couplet on, the reed itself is speaking. Read each line aloud – the metre is easy to feel – and then look at the notes.",
+   "sentences": [
+    {
+     "fa": "بشنو این نی چون شکایت می‌کند / از جدایی‌ها حکایت می‌کند",
+     "r": "beshnow in ney chon shekāyat mi-konad / az jodāyi-hā hekāyat mi-konad",
+     "en": "Listen to this reed, how it complains: it is telling a tale of separations.",
+     "note": "Many Iranians know the line as «بشنو از نی چون حکایت می‌کند / از جدایی‌ها شکایت می‌کند» – 'Listen to the reed as it tells its tale: it complains of separations.' Editions based on the oldest manuscripts have the words given here. [[بشنو|beshnow]] = [[گوش کن|gush kon]] 'listen'."
+    },
+    {
+     "fa": "کز نیستان تا مرا ببریده‌اند / در نفیرم مرد و زن نالیده‌اند",
+     "r": "k-az neyestān tā marā bebride-and / dar nafir-am mard o zan nālide-and",
+     "en": "'Ever since they cut me from the reed-bed, men and women have wept at my cry.'",
+     "note": "From here on the reed speaks. [[کز|kaz]] = [[که از|ke az]]; [[تا|tā]] here means 'ever since'. [[نفیر|nafir]] is a loud, wailing cry."
+    },
+    {
+     "fa": "سینه خواهم شرحه شرحه از فراق / تا بگویم شرح درد اشتیاق",
+     "r": "sine khāham sharhe sharhe az farāgh / tā beguyam sharh-e dard-e eshtiyāgh",
+     "en": "'I want a breast torn to shreds by separation, so that I can tell it the pain of longing.'",
+     "note": "[[شرحه شرحه|sharhe sharhe]] 'cut into strips' plays on [[شرح|sharh]] 'explanation': only a torn heart can understand longing. [[خواهم|khāham]] = [[می‌خواهم|mi-khāham]]."
+    },
+    {
+     "fa": "هر کسی کو دور ماند از اصل خویش / باز جوید روزگار وصل خویش",
+     "r": "har kas-i k-u dur mānd az asl-e khish / bāz juyad ruzgār-e vasl-e khish",
+     "en": "'Whoever is left far from his origin seeks once more the time when he was one with it.'",
+     "note": "[[کو|ku]] = [[که او|ke u]]; [[خویش|khish]] = [[خود|khod]]; [[جوید|juyad]] = [[می‌جوید|mi-juyad]] 'seeks'. This couplet is the key to the whole Masnavi: everything comes from God and longs to go back."
+    },
+    {
+     "fa": "من به هر جمعیتی نالان شدم / جفت بدحالان و خوش‌حالان شدم",
+     "r": "man be har jam'iyyat-i nālān shodam / joft-e bad-hālān o khosh-hālān shodam",
+     "en": "'In every gathering I have wept; I have kept company with the unhappy and the happy alike.'",
+     "note": "[[جمعیت|jam'iyyat]] here is 'a gathering', not 'population'; [[جفت|joft]] is 'a pair, a companion'."
+    },
+    {
+     "fa": "هر کسی از ظن خود شد یار من / از درون من نجست اسرار من",
+     "r": "har kas-i az zann-e khod shod yār-e man / az darun-e man najost asrār-e man",
+     "en": "'Each one became my friend from his own guess; none of them looked for my secrets within me.'",
+     "note": "[[ظن|zann]] 'supposition, guess'. [[نجست|najost]] is the past of [[جستن|jostan]] 'to seek'. People enjoyed the music without asking what it meant."
+    },
+    {
+     "fa": "سر من از ناله‌ی من دور نیست / لیک چشم و گوش را آن نور نیست",
+     "r": "serr-e man az nāle-ye man dur nist / lik cheshm o gush rā ān nur nist",
+     "en": "'My secret is not far from my lament, but eye and ear do not have the light to see it.'",
+     "note": "[[سر|serr]], with a doubled r, is 'secret' – not [[سر|sar]] 'head'. [[لیک|lik]] = [[ولی|vali]]. In [[چشم و گوش را … نیست|cheshm o gush rā … nist]] 'eye and ear do not have', را means 'for'."
+    },
+    {
+     "fa": "تن ز جان و جان ز تن مستور نیست / لیک کس را دید جان دستور نیست",
+     "r": "tan ze jān o jān ze tan mastur nist / lik kas rā did-e jān dastur nist",
+     "en": "'Body is not veiled from soul, nor soul from body – yet no one is permitted to see the soul.'",
+     "note": "[[مستور|mastur]] 'veiled, hidden'. [[دستور|dastur]] meant 'permission'; today it means 'order' or 'grammar'."
+    },
+    {
+     "fa": "آتش است این بانگ نای و نیست باد / هر که این آتش ندارد نیست باد",
+     "r": "ātash ast in bāng-e nāy o nist bād / har ke in ātash nadārad nist bād",
+     "en": "'This cry of the reed is fire, not wind – and whoever does not have this fire, may he be nothing!'",
+     "note": "A pun: [[نیست باد|nist bād]] first means 'it is not wind', then 'may he be nothing' – [[باد|bād]] is also the old wish form of بودن, 'may it be'. [[نای|nāy]] is another form of [[نی|ney]]."
+    },
+    {
+     "fa": "آتش عشق است کاندر نی فتاد / جوشش عشق است کاندر می فتاد",
+     "r": "ātash-e eshgh ast k-andar ney fetād / jushesh-e eshgh ast k-andar mey fetād",
+     "en": "'It is the fire of love that has fallen into the reed; it is the ferment of love that has fallen into the wine.'",
+     "note": "[[کاندر|kāndar]] = [[که اندر|ke andar]], and [[اندر|andar]] is the old [[در|dar]] 'in'; [[فتاد|fetād]] = [[افتاد|oftād]]. Love is what makes the reed sing and the wine ferment."
+    },
+    {
+     "fa": "نی حریف هر که از یاری برید / پرده‌هایش پرده‌های ما درید",
+     "r": "ney harif-e har ke az yār-i borid / parde-hā-yash parde-hā-ye mā darid",
+     "en": "'The reed is the companion of all who have been cut off from a friend; its melodies have torn our veils.'",
+     "note": "[[حریف|harif]] was a 'companion' (today it means 'rival'). [[پرده|parde]] is both a musical mode and a veil: the reed's melodies tear away what hides us."
+    },
+    {
+     "fa": "همچو نی زهری و تریاقی که دید / همچو نی دمساز و مشتاقی که دید",
+     "r": "hamcho ney zahr-i o taryāgh-i ke did / hamcho ney damsāz o moshtāgh-i ke did",
+     "en": "'Who has ever seen a poison and an antidote like the reed? Who has seen a companion and a lover like the reed?'",
+     "note": "[[همچو|hamcho]] = [[مثل|mesl-e]] 'like'; [[که دید؟|ke did?]] 'who has seen?' means 'no one'. The reed wounds with longing and heals with it."
+    },
+    {
+     "fa": "نی حدیث راه پرخون می‌کند / قصه‌های عشق مجنون می‌کند",
+     "r": "ney hadis-e rāh-e porkhun mi-konad / ghesse-hā-ye eshgh-e Majnun mi-konad",
+     "en": "'The reed tells of a road soaked in blood; it tells the stories of Majnun's love.'",
+     "note": "[[مجنون|Majnun]], 'the madman', is the lover of Leyli in the best-known love story of the Islamic world."
+    },
+    {
+     "fa": "محرم این هوش جز بی‌هوش نیست / مر زبان را مشتری جز گوش نیست",
+     "r": "mahram-e in hush joz bi-hush nist / mar zabān rā moshtari joz gush nist",
+     "en": "'None but the senseless may enter this sense, as the tongue has no customer but the ear.'",
+     "note": "A [[محرم|mahram]] is someone close enough to be let into the private part of a house. Only one who is 'out of his mind' ([[بی‌هوش|bi-hush]]) can enter this kind of mind. [[مر زبان را|mar zabān rā]] = [[زبان را|zabān rā]] 'for the tongue'."
+    },
+    {
+     "fa": "در غم ما روزها بیگاه شد / روزها با سوزها همراه شد",
+     "r": "dar gham-e mā ruz-hā bigāh shod / ruz-hā bā suz-hā hamrāh shod",
+     "en": "'In our grief the days have grown late; the days have walked hand in hand with burning pains.'",
+     "note": "[[بیگاه|bigāh]] 'untimely, late'. Hear the inner rhyme [[روزها|ruz-hā]] – [[سوزها|suz-hā]]."
+    },
+    {
+     "fa": "روزها گر رفت گو رو باک نیست / تو بمان ای آن که چون تو پاک نیست",
+     "r": "ruz-hā gar raft gu row bāk nist / to bemān ey ān ke chon to pāk nist",
+     "en": "'If the days are gone, say: let them go, no matter – but you, stay, you who have no equal in purity.'",
+     "note": "[[گو|gu]] = [[بگو|begu]], [[رو|row]] = [[برو|borow]], [[باک نیست|bāk nist]] 'there is no fear' – 'never mind'. The 'you' who must stay is love itself."
+    },
+    {
+     "fa": "هر که جز ماهی ز آبش سیر شد / هر که بی‌روزی است روزش دیر شد",
+     "r": "har ke joz māhi ze āb-ash sir shod / har ke bi-ruzi ast ruz-ash dir shod",
+     "en": "'All but the fish have had their fill of water; for whoever lacks his daily bread, the day drags on.'",
+     "note": "The fish – the lover – can never have enough water – love. [[روزی|ruzi]] is one's daily bread, the share God gives."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What is the reed complaining about?",
+     "options": [
+      "that it has been cut from the reed-bed",
+      "that nobody plays it any more",
+      "that it is made of poison"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What kind of listener does the reed want?",
+     "options": [
+      "a rich and powerful one",
+      "one whose breast has been torn by separation",
+      "one who knows the theory of music"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Who never has enough water?",
+     "options": [
+      "the reed",
+      "the fish",
+      "Majnun"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "A poem in rhyming couplets",
+   "md": "The passage ends with a couplet that closes the door on explanation: [[در نیابد حال پخته هیچ خام / پس سخن کوتاه باید والسلام|dar nayābad hāl-e pokhte hich khām / pas sokhan kutāh bāyad vassalām|no one raw can grasp the state of the ripe – so the words must be short, and farewell]]. [[والسلام|vassalām]], Arabic for 'and peace', is how you end a letter – or an argument.\n\n**A poem in pairs.** The **masnavi** ([[مثنوی|masnavi]]) – the word means 'in pairs' – is the Persian form for long poems. Unlike the ghazal, which keeps one rhyme from beginning to end, a masnavi gives **every couplet its own rhyme**: the two halves of each line rhyme with each other, and the next couplet starts afresh (*aa bb cc…*). Look at the first lines: [[شکایت|shekāyat]] / [[حکایت|hekāyat]], [[ببریده‌اند|bebride-and]] / [[نالیده‌اند|nālide-and]], [[فراق|farāgh]] / [[اشتیاق|eshtiyāgh]]. Because the poet never runs out of rhymes this way, a masnavi can go on for as long as the story needs: Ferdowsi's *Shahnameh*, Nezami's romances and Attar's *Conference of the Birds* are all masnavis.\n\n**The Masnavi.** Rumi's poem is simply called *the* Masnavi, or [[مثنوی معنوی|masnavi-ye ma'navi]], 'the masnavi of inner meaning'. Its six books ([[دفتر|daftar]]) hold some 26,000 couplets of stories, jokes, sermons and prayers, all in the same light, swinging metre, *ramal*: DUM-da-DUM-DUM, DUM-da-DUM-DUM, DUM-da-DUM – [[بشنو این نی چون شکایت می‌کند|beshnow in ney chon shekāyat mi-konad]]. Rumi composed it aloud over many years, and his disciple Hosam al-Din Chalabi wrote it down.\n\n**The reed.** The first eighteen couplets, the **Song of the Reed** ([[نی‌نامه|ney-nāme]]), are the overture. A reed is cut from the reed-bed, hollowed, pierced and played – and everything it plays is a lament for home. The reed is the human soul, cut off from its origin in God; its music is our longing; the breath that makes it sing is love. Whoever hears the song with a torn breast understands. The rest, Rumi says at the end, are 'raw', and with them the talk must be short."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "نی",
+     "r": "ney",
+     "en": "reed; reed flute",
+     "pos": "n",
+     "ex": {
+      "fa": "صدای نی غمگین است.",
+      "r": "sedā-ye ney ghamgin ast.",
+      "en": "The sound of the ney is sad."
+     }
+    },
+    {
+     "fa": "نیستان",
+     "r": "neyestān",
+     "en": "reed-bed",
+     "pos": "n"
+    },
+    {
+     "fa": "شکایت",
+     "r": "shekāyat",
+     "en": "complaint",
+     "pos": "n",
+     "note": "[[شکایت کردن|shekāyat kardan]] 'to complain'"
+    },
+    {
+     "fa": "حکایت",
+     "r": "hekāyat",
+     "en": "tale, story",
+     "pos": "n",
+     "note": "[[حکایت کردن|hekāyat kardan]] 'to tell (a story)'"
+    },
+    {
+     "fa": "جدایی",
+     "r": "jodāyi",
+     "en": "separation",
+     "pos": "n"
+    },
+    {
+     "fa": "فراق",
+     "r": "farāgh",
+     "en": "separation from someone you love",
+     "pos": "n"
+    },
+    {
+     "fa": "وصل",
+     "r": "vasl",
+     "en": "union, being together",
+     "pos": "n",
+     "note": "also [[وصال|vesāl]]"
+    },
+    {
+     "fa": "اصل",
+     "r": "asl",
+     "en": "origin, root; principle",
+     "pos": "n",
+     "ex": {
+      "fa": "او اصلاً اهل شیراز است.",
+      "r": "u aslan ahl-e Shirāz ast.",
+      "en": "He is originally from Shiraz."
+     }
+    },
+    {
+     "fa": "اشتیاق",
+     "r": "eshtiyāgh",
+     "en": "longing, eagerness",
+     "pos": "n"
+    },
+    {
+     "fa": "سینه",
+     "r": "sine",
+     "en": "chest, breast",
+     "pos": "n"
+    },
+    {
+     "fa": "شرحه شرحه",
+     "r": "sharhe sharhe",
+     "en": "torn into strips",
+     "pos": "adj"
+    },
+    {
+     "fa": "شرح دادن",
+     "r": "sharh dādan",
+     "en": "to explain, describe",
+     "pos": "v"
+    },
+    {
+     "fa": "ناله",
+     "r": "nāle",
+     "en": "moan, lament",
+     "pos": "n",
+     "note": "[[ناله کردن|nāle kardan]] or [[نالیدن|nālidan]] 'to moan, lament'"
+    },
+    {
+     "fa": "سر",
+     "r": "serr",
+     "en": "secret",
+     "pos": "n",
+     "note": "plural [[اسرار|asrār]]. Not to be confused with [[سر|sar]] 'head'."
+    },
+    {
+     "fa": "محرم",
+     "r": "mahram",
+     "en": "confidant; one admitted to the inner circle",
+     "pos": "n"
+    },
+    {
+     "fa": "هوش",
+     "r": "hush",
+     "en": "mind, intelligence; consciousness",
+     "pos": "n",
+     "note": "[[بی‌هوش|bi-hush]] 'unconscious', [[باهوش|bā-hush]] 'clever'"
+    },
+    {
+     "fa": "آتش",
+     "r": "ātash",
+     "en": "fire",
+     "pos": "n"
+    },
+    {
+     "fa": "پرده",
+     "r": "parde",
+     "en": "curtain, veil; musical mode",
+     "pos": "n"
+    },
+    {
+     "fa": "زهر",
+     "r": "zahr",
+     "en": "poison",
+     "pos": "n"
+    },
+    {
+     "fa": "همدم",
+     "r": "hamdam",
+     "en": "close companion",
+     "pos": "n",
+     "note": "literally 'one who shares your breath'"
+    },
+    {
+     "fa": "خام",
+     "r": "khām",
+     "en": "raw; inexperienced, naive",
+     "pos": "adj"
+    },
+    {
+     "fa": "پخته",
+     "r": "pokhte",
+     "en": "cooked; mature, experienced",
+     "pos": "adj"
+    },
+    {
+     "fa": "مثنوی",
+     "r": "masnavi",
+     "en": "a poem in rhyming couplets; Rumi's Masnavi",
+     "pos": "n"
+    },
+    {
+     "fa": "دفتر",
+     "r": "daftar",
+     "en": "notebook; one of the six books of the Masnavi",
+     "pos": "n"
+    },
+    {
+     "fa": "سماع",
+     "r": "samā'",
+     "en": "Sufi music and turning dance",
+     "pos": "n"
+    },
+    {
+     "fa": "مرید",
+     "r": "morid",
+     "en": "disciple",
+     "pos": "n",
+     "note": "The master is the [[مراد|morād]] or the [[پیر|pir]]."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The song in modern Persian: couplets 1–9",
+   "md": "Rumi's Persian is a century older than Hafez's, but the method is the same: put the verb last, open the contractions, replace the old words. Rumi adds a favourite of his own, **the pun**: [[شرحه|sharhe]] 'a strip of flesh' and [[شرح|sharh]] 'explanation'; [[نیست باد|nist bād]] 'it is not wind' and 'may he be nothing'; [[پرده|parde]] 'a musical mode' and 'a veil'. A paraphrase has to choose one meaning – which is why Iranians always go back to the original.\n\nHere are the hardest phrases of the first nine couplets, and below them each couplet in plain modern Persian.",
+   "table": {
+    "head": [
+     "Couplet",
+     "Rumi",
+     "Modern Persian",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "1",
+      "[[بشنو|beshnow]]",
+      "[[گوش کن|gush kon]]",
+      "listen"
+     ],
+     [
+      "2",
+      "[[کز نیستان تا مرا ببریده‌اند|k-az neyestān tā marā bebride-and]]",
+      "[[از وقتی مرا از نیستان بریده‌اند|az vaghti marā az neyestān boride-and]]",
+      "ever since they cut me from the reed-bed"
+     ],
+     [
+      "3",
+      "[[سینه خواهم|sine khāham]]",
+      "[[دلی می‌خواهم|del-i mi-khāham]]",
+      "I want a breast (a heart)"
+     ],
+     [
+      "4",
+      "[[کو دور ماند|k-u dur mānd]]",
+      "[[که دور افتاد|ke dur oftād]]",
+      "who was left far away"
+     ],
+     [
+      "5",
+      "[[جفت بدحالان|joft-e bad-hālān]]",
+      "[[همدم آدم‌های غمگین|hamdam-e ādam-hā-ye ghamgin]]",
+      "the companion of the unhappy"
+     ],
+     [
+      "6",
+      "[[از ظن خود|az zann-e khod]]",
+      "[[با گمان خودش|bā gomān-e khod-ash]]",
+      "from his own guess"
+     ],
+     [
+      "7",
+      "[[چشم و گوش را آن نور نیست|cheshm o gush rā ān nur nist]]",
+      "[[چشم و گوش آن نور را ندارند|cheshm o gush ān nur rā nadārand]]",
+      "eye and ear lack that light"
+     ],
+     [
+      "8",
+      "[[کس را دید جان دستور نیست|kas rā did-e jān dastur nist]]",
+      "[[به کسی اجازه‌ی دیدن جان نداده‌اند|be kas-i ejāze-ye didan-e jān na-dāde-and]]",
+      "no one is allowed to see the soul"
+     ],
+     [
+      "9",
+      "[[نیست باد|nist bād]]",
+      "[[باد نیست|bād nist]] – [[نابود باد|nābud bād]]",
+      "it is not wind – may he perish"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "به این نی گوش کن که چگونه شکایت می‌کند و از جدایی‌ها قصه می‌گوید.",
+     "r": "be in ney gush kon ke chegune shekāyat mi-konad o az jodāyi-hā ghesse mi-guyad.",
+     "en": "Couplet 1: Listen to this reed – how it complains and tells the story of separations."
+    },
+    {
+     "fa": "از وقتی مرا از نیستان بریده‌اند، مرد و زن از ناله‌ی من گریسته‌اند.",
+     "r": "az vaghti marā az neyestān boride-and, mard o zan az nāle-ye man geriste-and.",
+     "en": "Couplet 2: Ever since they cut me from the reed-bed, men and women have wept at my lament."
+    },
+    {
+     "fa": "دلی می‌خواهم که از درد جدایی پاره‌پاره شده باشد، تا بتوانم درد اشتیاق را برایش شرح بدهم.",
+     "r": "del-i mi-khāham ke az dard-e jodāyi pāre-pāre shode bāshad, tā betavānam dard-e eshtiyāgh rā barā-yash sharh bedaham.",
+     "en": "Couplet 3: I want a heart that has been torn to pieces by separation, so that I can explain the pain of longing to it."
+    },
+    {
+     "fa": "هر کس که از اصل خود دور بیفتد، دوباره دنبال روزگار وصل خود می‌گردد.",
+     "r": "har kas ke az asl-e khod dur biyoftad, dobāre donbāl-e ruzgār-e vasl-e khod mi-gardad.",
+     "en": "Couplet 4: Anyone who falls far from his origin looks again for the days when he was united with it."
+    },
+    {
+     "fa": "من در هر جمعی ناله کردم و همدم آدم‌های غمگین و شاد شدم.",
+     "r": "man dar har jam'-i nāle kardam o hamdam-e ādam-hā-ye ghamgin o shād shodam.",
+     "en": "Couplet 5: I wept in every gathering and became the companion of sad and happy people alike."
+    },
+    {
+     "fa": "هر کس با گمان خودش دوست من شد، ولی کسی به دنبال رازهای درون من نگشت.",
+     "r": "har kas bā gomān-e khod-ash dust-e man shod, vali kas-i be donbāl-e rāz-hā-ye darun-e man na-gasht.",
+     "en": "Couplet 6: Everyone became my friend according to his own idea of me, but no one looked for the secrets inside me."
+    },
+    {
+     "fa": "راز من از ناله‌ام جدا نیست، اما چشم و گوش آن نور را ندارند که آن را ببینند.",
+     "r": "rāz-e man az nāle-am jodā nist, ammā cheshm o gush ān nur rā nadārand ke ān rā bebinand.",
+     "en": "Couplet 7: My secret is not separate from my lament, but eye and ear do not have the light to see it."
+    },
+    {
+     "fa": "تن از جان و جان از تن پنهان نیست، اما به هیچ کس اجازه نداده‌اند که جان را ببیند.",
+     "r": "tan az jān o jān az tan penhān nist, ammā be hich kas ejāze na-dāde-and ke jān rā bebinad.",
+     "en": "Couplet 8: The body is not hidden from the soul nor the soul from the body, but no one has been allowed to see the soul."
+    },
+    {
+     "fa": "صدای نی آتش است، نه باد؛ هر کس این آتش را ندارد، بهتر است نباشد.",
+     "r": "sedā-ye ney ātash ast, na bād; har kas in ātash rā nadārad, behtar ast na-bāshad.",
+     "en": "Couplet 9: The sound of the reed is fire, not wind; whoever does not have this fire had better not exist."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Couplets 10–18 in modern Persian",
+   "md": "In the second half of the passage, watch for three old forms that come back in lesson 4: [[اندر|andar]] for [[در|dar]] (in [[کاندر|kāndar]] = [[که اندر|ke andar]]); [[مر … را|mar … rā]] wrapped around an object; and short imperatives without be-: [[گو|gu]] 'say', [[رو|row]] 'go'.\n\nTwo everyday words began as metaphors like Rumi's and are still alive: [[خام|khām]] 'raw' and [[پخته|pokhte]] 'cooked'. You can call an inexperienced colleague [[خام|khām]], and say of someone who has grown wiser [[پخته شده است|pokhte shode ast]].",
+   "table": {
+    "head": [
+     "Couplet",
+     "Rumi",
+     "Modern Persian",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "10",
+      "[[کاندر نی فتاد|k-andar ney fetād]]",
+      "[[که در نی افتاد|ke dar ney oftād]]",
+      "that fell into the reed"
+     ],
+     [
+      "11",
+      "[[حریف|harif]]",
+      "[[همدم|hamdam]]",
+      "companion (today: rival)"
+     ],
+     [
+      "12",
+      "[[همچو نی … که دید|hamcho ney … ke did]]",
+      "[[چه کسی مثل نی … دیده است؟|che kas-i mesl-e ney … dide ast?]]",
+      "who has ever seen … like the reed?"
+     ],
+     [
+      "13",
+      "[[حدیث … می‌کند|hadis … mi-konad]]",
+      "[[حرف می‌زند|harf mi-zanad]]",
+      "tells, speaks of"
+     ],
+     [
+      "14",
+      "[[مر زبان را|mar zabān rā]]",
+      "[[برای زبان|barā-ye zabān]]",
+      "for the tongue"
+     ],
+     [
+      "15",
+      "[[بیگاه شد|bigāh shod]]",
+      "[[دیر شد|dir shod]]",
+      "grew late"
+     ],
+     [
+      "16",
+      "[[گو رو باک نیست|gu row bāk nist]]",
+      "[[بگو برو، مهم نیست|begu borow, mohemm nist]]",
+      "say 'go', it doesn't matter"
+     ],
+     [
+      "17",
+      "[[بی‌روزی|bi-ruzi]]",
+      "[[کسی که روزی ندارد|kas-i ke ruzi nadārad]]",
+      "one without daily bread"
+     ],
+     [
+      "18",
+      "[[در نیابد|dar nayābad]]",
+      "[[نمی‌فهمد|nemi-fahmad]]",
+      "does not grasp"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "آتش عشق است که در نی افتاده و جوشش عشق است که در شراب افتاده است.",
+     "r": "ātash-e eshgh ast ke dar ney oftāde va jushesh-e eshgh ast ke dar sharāb oftāde ast.",
+     "en": "Couplet 10: It is the fire of love that has fallen into the reed, and the ferment of love that has fallen into the wine."
+    },
+    {
+     "fa": "نی همدم هر کسی است که از یاری جدا شده؛ نغمه‌هایش پرده‌های ما را پاره کرده است.",
+     "r": "ney hamdam-e har kas-i ast ke az yār-i jodā shode; naghme-hā-yash parde-hā-ye mā rā pāre karde ast.",
+     "en": "Couplet 11: The reed is the companion of everyone parted from a friend; its melodies have torn our veils."
+    },
+    {
+     "fa": "چه کسی زهر و پادزهری مثل نی دیده است؟ چه کسی همدم و عاشقی مثل نی دیده است؟",
+     "r": "che kas-i zahr o pādzahr-i mesl-e ney dide ast? che kas-i hamdam o āshegh-i mesl-e ney dide ast?",
+     "en": "Couplet 12: Who has ever seen a poison and an antidote like the reed? Who has seen a companion and a lover like the reed?"
+    },
+    {
+     "fa": "نی از راهی پر از خون حرف می‌زند و داستان‌های عشق مجنون را می‌گوید.",
+     "r": "ney az rāh-i por az khun harf mi-zanad o dāstān-hā-ye eshgh-e Majnun rā mi-guyad.",
+     "en": "Couplet 13: The reed speaks of a road full of blood and tells the stories of Majnun's love."
+    },
+    {
+     "fa": "فقط کسی که از خود بی‌خود شده، این راز را می‌فهمد؛ همان‌طور که خریدار زبان فقط گوش است.",
+     "r": "faghat kas-i ke az khod bi-khod shode, in rāz rā mi-fahmad; hamān-towr ke kharidār-e zabān faghat gush ast.",
+     "en": "Couplet 14: Only someone who has gone out of himself understands this secret, just as the tongue's only customer is the ear."
+    },
+    {
+     "fa": "در غم عشق، روزهای ما دیر شد و روزها با سوز و درد همراه شد.",
+     "r": "dar gham-e eshgh, ruz-hā-ye mā dir shod o ruz-hā bā suz o dard hamrāh shod.",
+     "en": "Couplet 15: In the grief of love our days grew late, and the days went hand in hand with burning pain."
+    },
+    {
+     "fa": "اگر روزها رفتند، بگو بروند، مهم نیست؛ تو بمان، ای کسی که هیچ‌کس مثل تو پاک نیست.",
+     "r": "agar ruz-hā raftand, begu beravand, mohemm nist; to bemān, ey kas-i ke hich-kas mesl-e to pāk nist.",
+     "en": "Couplet 16: If the days have gone, say: let them go, it doesn't matter; but you, stay – you who are purer than anyone."
+    },
+    {
+     "fa": "همه جز ماهی از آب سیر می‌شوند؛ و برای کسی که روزی ندارد، روز دیر می‌گذرد.",
+     "r": "hame joz māhi az āb sir mi-shavand; va barā-ye kas-i ke ruzi nadārad, ruz dir mi-gozarad.",
+     "en": "Couplet 17: Everyone but the fish has their fill of water; and for someone without daily bread, the day passes slowly."
+    },
+    {
+     "fa": "آدم خام حال آدم پخته را نمی‌فهمد، پس باید سخن را کوتاه کرد و تمام.",
+     "r": "ādam-e khām hāl-e ādam-e pokhte rā nemi-fahmad, pas bāyad sokhan rā kutāh kard o tamām.",
+     "en": "Couplet 18: A raw person does not understand the state of a ripe one, so the talk must be cut short – and that is all."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The words of longing",
+   "md": "The opening of the Masnavi gave Persian a whole vocabulary of longing. Most of these words are ordinary – [[سینه|sine]] is just 'chest', [[اصل|asl]] 'origin, root' – but since Rumi they also tell the story of the soul. Cut from its **reed-bed** ([[نیستان|neyestān]]), the soul lives in **separation** ([[فراق|farāgh]], [[هجران|hejrān]], [[جدایی|jodāyi]]) and longs for **union** ([[وصل|vasl]], [[وصال|vesāl]]) with its **origin** ([[اصل|asl]]). Only **love** ([[عشق|eshgh]]) can carry it back, and only a **torn breast** ([[سینه‌ی شرحه شرحه|sine-ye sharhe sharhe]]) understands the song.\n\nYou will hear these words far outside poetry: in pop songs, in letters between lovers, in the speech of Iranians abroad talking about home.",
+   "table": {
+    "head": [
+     "Word",
+     "Everyday meaning",
+     "In Sufi poetry"
+    ],
+    "rows": [
+     [
+      "[[عشق|eshgh]]",
+      "love",
+      "the force that draws the soul back to God"
+     ],
+     [
+      "[[فراق|farāgh]] / [[هجران|hejrān]]",
+      "separation, absence",
+      "the soul's exile from God"
+     ],
+     [
+      "[[وصل|vasl]] / [[وصال|vesāl]]",
+      "meeting, being together",
+      "union with God"
+     ],
+     [
+      "[[نیستان|neyestān]]",
+      "a reed-bed",
+      "the soul's home before birth, the world of the spirit"
+     ],
+     [
+      "[[اصل|asl]]",
+      "origin, root; principle",
+      "the source of all being"
+     ],
+     [
+      "[[سینه|sine]]",
+      "chest, breast",
+      "the heart, where love is felt"
+     ],
+     [
+      "[[شرحه شرحه|sharhe sharhe]]",
+      "cut into strips",
+      "a heart torn open by longing – and so able to understand"
+     ],
+     [
+      "[[اشتیاق|eshtiyāgh]]",
+      "eagerness, longing",
+      "the soul's desire to return"
+     ],
+     [
+      "[[خام|khām]] / [[پخته|pokhte]]",
+      "raw / cooked; naive / mature",
+      "the beginner / the one who has been 'cooked' by love"
+     ],
+     [
+      "[[محرم|mahram]]",
+      "close family member; confidant",
+      "one who is let into the secret"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "عشق در شعر مولانا نیرویی است که روح را به اصل خود برمی‌گرداند.",
+     "r": "eshgh dar she'r-e Mowlānā niru-yi ast ke ruh rā be asl-e khod bar-mi-gardānad.",
+     "en": "In Rumi's poetry love is a force that brings the soul back to its origin."
+    },
+    {
+     "fa": "سال‌ها در فراق خانواده‌اش زندگی کرد.",
+     "r": "sāl-hā dar farāgh-e khānevāde-ash zendegi kard.",
+     "en": "For years he lived far from his family."
+    },
+    {
+     "fa": "روز وصل بالاخره رسید.",
+     "r": "ruz-e vasl belākhare resid.",
+     "en": "The day of reunion came at last."
+    },
+    {
+     "fa": "دلم از دوری تو شرحه شرحه است.",
+     "r": "del-am az duri-ye to sharhe sharhe ast.",
+     "en": "My heart is torn to pieces by your absence."
+    },
+    {
+     "fa": "هر کس سرانجام به اصل خود برمی‌گردد.",
+     "r": "har kas saranjām be asl-e khod bar-mi-gardad.",
+     "en": "Everyone returns to his origin in the end."
+    },
+    {
+     "fa": "او هنوز خام است و باید پخته شود.",
+     "r": "u hanuz khām ast o bāyad pokhte shavad.",
+     "en": "He is still raw and has to mature."
+    },
+    {
+     "fa": "مولانا را با نی و سماع می‌شناسند.",
+     "r": "Mowlānā rā bā ney o samā' mi-shenāsand.",
+     "en": "People know Rumi through the reed flute and the turning dance."
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Rumi: from Khorasan to Konya",
+   "intro": "The life of the poet in modern written Persian. Notice the past tenses of narration and the many names: Iranians call him Mowlana ('our master') or Mowlavi; the West calls him Rumi.",
+   "sentences": [
+    {
+     "fa": "جلال‌الدین محمد بلخی، که ایرانیان او را «مولانا» یا «مولوی» می‌نامند، در سال ۶۰۴ هجری قمری در خراسان بزرگ به دنیا آمد.",
+     "r": "Jalāl-od-din Mohammad-e Balkhi, ke irāniyān u rā «Mowlānā» yā «Mowlavi» mi-nāmand, dar sāl-e sheshsad-o-chahār-e hejri-ye ghamari dar Khorāsān-e bozorg be donyā āmad.",
+     "en": "Jalal al-Din Mohammad Balkhi, whom Iranians call 'Mowlana' or 'Mowlavi', was born in Greater Khorasan in the year 604 of the Hijra (1207)."
+    },
+    {
+     "fa": "در غرب او را «رومی» می‌شناسند، چون بیشتر عمرش را در آناتولی، یعنی سرزمین «روم»، گذراند.",
+     "r": "dar gharb u rā «Rumi» mi-shenāsand, chon bishtar-e omr-ash rā dar Ānātoli, ya'ni sarzamin-e «Rum», gozarānd.",
+     "en": "In the West he is known as 'Rumi', because he spent most of his life in Anatolia, the land of 'Rum'."
+    },
+    {
+     "fa": "پدرش واعظ و عالمی مشهور بود.",
+     "r": "pedar-ash vā'ez o ālem-i mashhur bud.",
+     "en": "His father was a famous preacher and scholar."
+    },
+    {
+     "fa": "وقتی جلال‌الدین کودک بود، خانواده‌اش، شاید از ترس مغول‌ها، از خراسان کوچ کرد.",
+     "r": "vaghti Jalāl-od-din kudak bud, khānevāde-ash, shāyad az tars-e moghol-hā, az Khorāsān kuch kard.",
+     "en": "When Jalal al-Din was a child, his family left Khorasan – perhaps for fear of the Mongols."
+    },
+    {
+     "fa": "آن‌ها پس از سال‌ها سفر در قونیه ساکن شدند.",
+     "r": "ān-hā pas az sāl-hā safar dar Ghuniye sāken shodand.",
+     "en": "After years of travelling they settled in Konya."
+    },
+    {
+     "fa": "جلال‌الدین بعد از پدرش استاد و واعظ شهر شد و شاگردان زیادی داشت.",
+     "r": "Jalāl-od-din ba'd az pedar-ash ostād o vā'ez-e shahr shod o shāgerdān-e ziyād-i dāsht.",
+     "en": "After his father, Jalal al-Din became the city's teacher and preacher and had many students."
+    },
+    {
+     "fa": "در سال ۶۴۲، درویشی به نام شمس تبریزی به قونیه آمد و زندگی او را زیر و رو کرد.",
+     "r": "dar sāl-e sheshsad-o-chehel-o-do, darvish-i be nām-e Shams-e Tabrizi be Ghuniye āmad o zendegi-ye u rā zir o ru kard.",
+     "en": "In 642 (1244), a dervish called Shams of Tabriz came to Konya and turned his life upside down."
+    },
+    {
+     "fa": "مولانا درس و منبر را رها کرد و شاعر شد.",
+     "r": "Mowlānā dars o menbar rā rahā kard o shā'er shod.",
+     "en": "Mowlana gave up the lecture hall and the pulpit and became a poet."
+    },
+    {
+     "fa": "شمس پس از مدتی ناپدید شد و مولانا در فراق او هزاران غزل سرود.",
+     "r": "Shams pas az moddat-i nāpadid shod o Mowlānā dar farāgh-e u hezārān ghazal sorud.",
+     "en": "After a while Shams disappeared, and in his absence Mowlana composed thousands of ghazals."
+    },
+    {
+     "fa": "این غزل‌ها را در «دیوان شمس» جمع کرده‌اند.",
+     "r": "in ghazal-hā rā dar «divān-e Shams» jam' karde-and.",
+     "en": "These ghazals have been collected in the 'Divan of Shams'."
+    },
+    {
+     "fa": "مثنوی را در سال‌های آخر عمرش سرود و شاگردش حسام‌الدین چلبی آن را می‌نوشت.",
+     "r": "masnavi rā dar sāl-hā-ye ākhar-e omr-ash sorud va shāgerd-ash Hosām-od-din Chalabi ān rā mi-nevesht.",
+     "en": "He composed the Masnavi in the last years of his life, and his disciple Hosam al-Din Chalabi wrote it down."
+    },
+    {
+     "fa": "مولانا در سال ۶۷۲ در قونیه درگذشت.",
+     "r": "Mowlānā dar sāl-e sheshsad-o-haftād-o-do dar Ghuniye dargozasht.",
+     "en": "Mowlana died in Konya in 672 (1273)."
+    },
+    {
+     "fa": "می‌گویند در تشییع جنازه‌اش مسلمانان، مسیحیان و یهودیان همه گریه می‌کردند.",
+     "r": "mi-guyand dar tashyi'-e jenāze-ash mosalmānān, masihiyān o yahudiyān hame gerye mi-kardand.",
+     "en": "It is said that Muslims, Christians and Jews all wept at his funeral."
+    },
+    {
+     "fa": "پسرش سلطان ولد و شاگردانش طریقت مولویه را بنیان گذاشتند.",
+     "r": "pesar-ash Soltān Valad va shāgerdān-ash tarighat-e Mowlaviye rā bonyān gozāshtand.",
+     "en": "His son Sultan Valad and his disciples founded the Mevlevi order."
+    },
+    {
+     "fa": "امروز آرامگاه او در قونیه با گنبد سبزش زیارتگاه مردم سراسر جهان است.",
+     "r": "emruz ārāmgāh-e u dar Ghuniye bā gonbad-e sabz-ash ziyāratgāh-e mardom-e sarāsar-e jahān ast.",
+     "en": "Today his tomb in Konya, with its green dome, is a place of pilgrimage for people from all over the world."
+    },
+    {
+     "fa": "در آمریکا، ترجمه‌های شعر او از پرفروش‌ترین کتاب‌های شعر بوده است.",
+     "r": "dar Āmrikā, tarjome-hā-ye she'r-e u az porforush-tarin ketāb-hā-ye she'r bude ast.",
+     "en": "In America, translations of his poetry have been among the best-selling books of poetry."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why is he called 'Rumi' in the West?",
+     "options": [
+      "because he was born in Rome",
+      "because he spent most of his life in Anatolia, the land of 'Rum'",
+      "because his father was called Rumi"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Who turned Rumi's life upside down in 1244?",
+     "options": [
+      "Hosam al-Din Chalabi",
+      "Shams of Tabriz",
+      "his son Sultan Valad"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Who wrote down the Masnavi as Rumi composed it?",
+     "options": [
+      "Shams of Tabriz",
+      "Hosam al-Din Chalabi",
+      "his father"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "The reed flute and the turning dervishes",
+   "md": "**The ney.** The Persian [[نی|ney]] is nothing but a length of reed with six finger holes, yet its breathy, almost human voice is the sound of Persian classical music – and of mourning. Because of Rumi, every ney player is also, a little, playing the Song of the Reed: concerts often begin with a ney solo, and singers set its couplets to music.\n\n**Sama'.** Rumi loved music and the turning dance. After his death his followers, the Mevlevi order, made it into a ceremony, the [[سماع|samā']]: dervishes in white robes and tall felt hats turn slowly, the right hand raised to receive grace from heaven, the left lowered to pass it on to the earth, while the ney plays. In Konya the anniversary of Rumi's death, 17 December, is celebrated as his 'wedding night' ([[شب عروس|shab-e arus]]) – the night he was united with God.\n\n**Whose poet?** Rumi was born in Khorasan, wrote in Persian and lived in Anatolia, so Afghanistan, Iran, Tajikistan and Turkey all call him their own. Iranians call him [[مولانا|Mowlānā]] 'our master' or [[مولوی|Mowlavi]]; Turks say *Mevlânâ*. In Iran the Song of the Reed is learned at school, and [[هر کسی کو دور ماند از اصل خویش|har kas-i k-u dur mānd az asl-e khish]] is the line people reach for when they talk about exile and homesickness.",
+   "image": "ney"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "Read the Song of the Reed with its metre: DUM-da-DUM-DUM, DUM-da-DUM-DUM, DUM-da-DUM. The beat tells you to read ماند in couplet 4 as one syllable, *mānd*, and بشنو as *besh-now*.",
+    "In Rumi, ز، کز، کو، کاندر are contractions: از، که از، که او، که اندر.",
+    "Some words have moved on since the 13th century: حریف 'companion' → 'rival', دستور 'permission' → 'order, grammar', جمعیت 'gathering' → 'population'. Ask yourself whether a word you know meant something else then.",
+    "سر is two words: *sar* 'head' and *serr* 'secret' (plural اسرار). In poetry about love, it is usually the secret.",
+    "خام and پخته are useful today: آدم خامی است 'he is naive', خیلی پخته شده 'she has really matured'.",
+    "Most Iranians quote the popular first line, «بشنو از نی چون حکایت می‌کند / از جدایی‌ها شکایت می‌کند». Recognise both versions – and don't correct anyone."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the couplets",
+   "items": [
+    {
+     "fa": "بشنو این نی چون شکایت می‌کند / از جدایی‌ها ___ می‌کند",
+     "r": "beshnow in ney chon shekāyat mi-konad / az jodāyi-hā ___ mi-konad",
+     "en": "Listen to this reed, how it complains: it is telling a tale of separations.",
+     "answer": "حکایت",
+     "hint": "a tale – it rhymes with شکایت"
+    },
+    {
+     "fa": "کز ___ تا مرا ببریده‌اند / در نفیرم مرد و زن نالیده‌اند",
+     "r": "k-az ___ tā marā bebride-and / dar nafir-am mard o zan nālide-and",
+     "en": "Ever since they cut me from the reed-bed, men and women have wept at my cry.",
+     "answer": "نیستان",
+     "hint": "reed-bed"
+    },
+    {
+     "fa": "سینه خواهم شرحه شرحه از ___",
+     "r": "sine khāham sharhe sharhe az ___",
+     "en": "I want a breast torn to shreds by separation.",
+     "answer": "فراق",
+     "hint": "separation – it rhymes with اشتیاق"
+    },
+    {
+     "fa": "هر کسی کو دور ماند از ___ خویش",
+     "r": "har kas-i k-u dur mānd az ___-e khish",
+     "en": "Whoever is left far from his origin…",
+     "answer": "اصل",
+     "hint": "origin, root"
+    },
+    {
+     "fa": "باز جوید روزگار ___ خویش",
+     "r": "bāz juyad ruzgār-e ___-e khish",
+     "en": "…seeks once more the time of his union.",
+     "answer": "وصل",
+     "hint": "union"
+    },
+    {
+     "fa": "در نیابد حال پخته هیچ ___",
+     "r": "dar nayābad hāl-e pokhte hich ___",
+     "en": "No one raw can grasp the state of the ripe.",
+     "answer": "خام",
+     "hint": "raw"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Form, meaning and life",
+   "items": [
+    {
+     "q": "How does a masnavi rhyme?",
+     "options": [
+      "one rhyme for the whole poem",
+      "the two halves of each couplet rhyme, and every couplet has a new rhyme",
+      "it does not rhyme"
+     ],
+     "answer": 1,
+     "explain": "aa bb cc… – that is why a masnavi can be as long as the Shahnameh."
+    },
+    {
+     "q": "In the Sufi reading, what does the reed stand for?",
+     "options": [
+      "the human soul, cut off from its origin",
+      "the poet's pen",
+      "the caravan bell"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "[[کاندر|kāndar]] means…",
+     "options": [
+      "that in",
+      "when",
+      "inside out"
+     ],
+     "answer": 0,
+     "explain": "که + اندر, and اندر is the old form of در 'in'."
+    },
+    {
+     "q": "What is the pun in [[نیست باد|nist bād]]?",
+     "options": [
+      "'reed' and 'wind'",
+      "'it is not wind' and 'may he be nothing'",
+      "'fire' and 'water'"
+     ],
+     "answer": 1,
+     "explain": "باد is 'wind', but it is also the old wish form of بودن: نیست باد 'may he not exist'."
+    },
+    {
+     "q": "In couplet 11, [[حریف|harif]] means…",
+     "options": [
+      "rival",
+      "companion",
+      "enemy"
+     ],
+     "answer": 1,
+     "explain": "Today حریف is an opponent; in Rumi's time it was a companion – someone you drank or played with."
+    },
+    {
+     "q": "Who was Shams of Tabriz?",
+     "options": [
+      "Rumi's father",
+      "a wandering dervish who transformed Rumi's life",
+      "the scribe who wrote down the Masnavi"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "The words of longing",
+   "items": [
+    {
+     "fa": "فراق",
+     "r": "farāgh",
+     "en": "separation"
+    },
+    {
+     "fa": "وصل",
+     "r": "vasl",
+     "en": "union"
+    },
+    {
+     "fa": "نیستان",
+     "r": "neyestān",
+     "en": "reed-bed"
+    },
+    {
+     "fa": "اصل",
+     "r": "asl",
+     "en": "origin"
+    },
+    {
+     "fa": "سینه",
+     "r": "sine",
+     "en": "breast, chest"
+    },
+    {
+     "fa": "اشتیاق",
+     "r": "eshtiyāgh",
+     "en": "longing"
+    },
+    {
+     "fa": "محرم",
+     "r": "mahram",
+     "en": "confidant"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "Listen to the reed: it is telling a story of separation.",
+     "fa": "به نی گوش کن؛ از جدایی قصه می‌گوید.",
+     "r": "be ney gush kon; az jodāyi ghesse mi-guyad."
+    },
+    {
+     "en": "Everyone returns to his origin in the end.",
+     "fa": "هر کس سرانجام به اصل خود برمی‌گردد.",
+     "r": "har kas saranjām be asl-e khod bar-mi-gardad."
+    },
+    {
+     "en": "He is still raw; he has to mature.",
+     "fa": "او هنوز خام است؛ باید پخته شود.",
+     "r": "u hanuz khām ast; bāyad pokhte shavad."
+    },
+    {
+     "en": "For years he lived far from his homeland.",
+     "fa": "سال‌ها دور از وطنش زندگی کرد.",
+     "r": "sāl-hā dur az vatan-ash zendegi kard."
+    },
+    {
+     "en": "The Masnavi has six books.",
+     "fa": "مثنوی شش دفتر دارد.",
+     "r": "masnavi shesh daftar dārad."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "مولانا در قونیه درگذشت.",
+     "r": "Mowlānā dar Ghuniye dargozasht.",
+     "en": "Mowlana died in Konya."
+    },
+    {
+     "fa": "شمس زندگی مولانا را زیر و رو کرد.",
+     "r": "Shams zendegi-ye Mowlānā rā zir o ru kard.",
+     "en": "Shams turned Mowlana's life upside down."
+    },
+    {
+     "fa": "هر کسی کو دور ماند از اصل خویش",
+     "r": "har kas-i k-u dur mānd az asl-e khish",
+     "en": "Whoever is left far from his origin…"
+    },
+    {
+     "fa": "نی از جدایی‌ها حکایت می‌کند.",
+     "r": "ney az jodāyi-hā hekāyat mi-konad.",
+     "en": "The reed tells a tale of separations."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "سر من از ناله‌ی من دور نیست",
+     "r": "serr-e man az nāle-ye man dur nist",
+     "en": "My secret is not far from my lament.",
+     "options": [
+      "My head is far from my lament.",
+      "My secret is not far from my lament.",
+      "My lament is a secret."
+     ],
+     "answer": 1
+    },
+    {
+     "fa": "شاگردش مثنوی را می‌نوشت.",
+     "r": "shāgerd-ash masnavi rā mi-nevesht.",
+     "en": "His disciple wrote the Masnavi down.",
+     "options": [
+      "His disciple wrote the Masnavi down.",
+      "His disciple read the Masnavi aloud.",
+      "His disciple wrote a new Masnavi."
+     ],
+     "answer": 0
+    },
+    {
+     "fa": "آتش است این بانگ نای و نیست باد",
+     "r": "ātash ast in bāng-e nāy o nist bād",
+     "en": "This cry of the reed is fire, not wind.",
+     "options": [
+      "The wind blows the fire.",
+      "This cry of the reed is fire, not wind.",
+      "There is no fire without wind."
+     ],
+     "answer": 1
+    },
+    {
+     "fa": "در نیابد حال پخته هیچ خام",
+     "r": "dar nayābad hāl-e pokhte hich khām",
+     "en": "No one raw can grasp the state of the ripe.",
+     "options": [
+      "Nothing raw is ever cooked.",
+      "The cook has no raw food.",
+      "No one raw can grasp the state of the ripe."
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ ]
+}

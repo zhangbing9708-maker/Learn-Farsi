@@ -1,0 +1,304 @@
+{
+ "id": "life-sport",
+ "topic": "life",
+ "title": "Sport",
+ "titleFa": "ورزش",
+ "titleR": "varzesh",
+ "image": "azadi-stadium",
+ "summary": "Red against blue in the Tehran derby, wrestlers who become national heroes, the drum and clubs of the zurkhaneh, and Friday mornings on the mountain trails: how Iranians play, watch and talk about sport.",
+ "body": [
+  {
+   "h": "Football first",
+   "md": "[[فوتبال|futbāl|football]] is Iran's favourite sport by far. When the [[تیم ملی|tim-e melli|national team]] plays, cafés fill with fans, horns blare in the streets after a win, and every [[گل|gol|goal]] – the same word as 'flower' – is shouted all over the country. Iran first played at the World Cup in 1978 and has qualified many times since. Its greatest goalscorer, Ali Daei, scored 109 goals for his country, a world record in men's international football until 2021.",
+   "image": "iran-football-team"
+  },
+  {
+   "h": "Red against blue",
+   "md": "Club football is a tale of two Tehran teams: [[پرسپولیس|Perspolis|Persepolis]] in red and [[استقلال|Esteghlāl|Esteghlal]] in blue. Their match, the [[شهرآورد|shahr-āvard|city derby]], is played at the huge [[ورزشگاه آزادی|varzeshgāh-e Āzādi|Azadi Stadium]], and the two clubs together are nicknamed the [[سرخابی|sorkhābi|'red-blues']]. The rivalry divides families, offices and classrooms, and the question [[پرسپولیسی هستی یا استقلالی؟|Perspolisi hasti yā Esteghlāli?|are you Persepolis or Esteghlal?]] is a serious one."
+  },
+  {
+   "h": "Wrestling",
+   "md": "If football is the passion, [[کشتی|koshti|wrestling]] is the pride. It has won Iran more Olympic medals than any other sport, in both freestyle and Greco-Roman, and its champions are national heroes. The most beloved is Gholamreza Takhti, Olympic champion in 1956, remembered as much for his kindness and modesty as for his victories – a model of [[جوانمردی|javānmardi|chivalry]]. Watch the vowels: the same letters, کشتی, also spell [[کشتی|kashti|ship]]."
+  },
+  {
+   "h": "The house of strength",
+   "md": "Older still is the [[زورخانه|zurkhāne|'house of strength']], the traditional gymnasium. Its door is built low, so that everyone must bow on entering. The athletes train in a sunken octagonal pit, the [[گود|gowd|pit]], while the [[مرشد|morshed|master]] sits on a raised seat, beats a large goblet drum, the [[ضرب|zarb|drum]], rings a bell and chants verses from the Shahnameh. To his rhythm the men swing heavy wooden clubs, [[میل|mil|clubs]], lift wooden shields called [[سنگ|sang|'stones']], do push-ups on a board – [[شنا|shenā|push-ups; also 'swimming']] – and whirl on the spot, [[چرخ|charkh|spinning]]. The best of them is honoured as a [[پهلوان|pahlavān|champion]]. In 2010 UNESCO added these rituals to its list of intangible heritage.",
+   "image": "zurkhaneh"
+  },
+  {
+   "h": "Volleyball, polo and more",
+   "md": "[[والیبال|vālibāl|volleyball]] fills arenas too, and Iran's men's team has long been one of the strongest in Asia. Iranians also shine at weightlifting, taekwondo and futsal. And one famous game was born here: polo, [[چوگان|chowgān|polo]], played by Persian kings and by the heroes of the Shahnameh. In Isfahan the stone goalposts of a Safavid polo ground still stand at both ends of Naqsh-e Jahan Square.",
+   "image": "chovgan"
+  },
+  {
+   "h": "Friday on the mountain",
+   "md": "On Friday mornings Tehran heads uphill. Families and groups of friends set off early for some [[کوه‌نوردی|kuh-navardi|hill walking]] in the Alborz – up the trails of Darband, Darakeh or Tochal – stopping at tea houses for bread, cheese and tea or a bowl of [[عدسی|adasi|lentil soup]] on the way to the [[قله|gholle|summit]]. Ask a Tehrani what they did at the weekend and the answer is often [[رفتیم کوه|raftim kuh|we went to the mountain]]. The keenest climb Damavand, at about 5,600 metres the highest peak in Iran.",
+   "image": "tochal"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "پسرم طرفدار پرسپولیس است و من طرفدار استقلال.",
+   "r": "pesar-am tarafdār-e Perspolis ast va man tarafdār-e Esteghlāl.",
+   "en": "My son supports Persepolis and I support Esteghlal.",
+   "col": "پسرم پرسپولیسیه، من استقلالی‌ام.",
+   "colR": "pesar-am Perspolisi-ye, man Esteghlāli-am.",
+   "faV": "پِسَرَم طَرَفدارِ پِرسپولیس اَست و مَن طَرَفدارِ اِستِقلال.",
+   "a": "974064ba0a91",
+   "colV": "پِسَرَم پِرسپولیسیه، مَن اِستِقلالی‌اَم.",
+   "colA": "6792c1763b8f"
+  },
+  {
+   "fa": "به بازی پرسپولیس و استقلال شهرآورد می‌گویند.",
+   "r": "be bāzi-ye Perspolis va Esteghlāl shahr-āvard mi-guyand.",
+   "en": "The match between Persepolis and Esteghlal is called the derby.",
+   "col": "به بازی پرسپولیس و استقلال می‌گن دربی.",
+   "colR": "be bāzi-ye Perspolis o Esteghlāl mi-gan darbi.",
+   "faV": "به بازیِ پِرسپولیس و اِستِقلال شَهرآوَرد می‌گویَند.",
+   "a": "4045d75acdd1",
+   "colV": "به بازیِ پِرسپولیس و اِستِقلال می‌گَن دَربی.",
+   "colA": "d981c792c007"
+  },
+  {
+   "fa": "دیشب بازی را در ورزشگاه آزادی دیدیم.",
+   "r": "dishab bāzi rā dar varzeshgāh-e Āzādi didim.",
+   "en": "Last night we watched the match at Azadi Stadium.",
+   "col": "دیشب بازی رو تو ورزشگاه آزادی دیدیم.",
+   "colR": "dishab bāzi ro tu varzeshgāh-e Āzādi didim.",
+   "faV": "دیشَب بازی را دَر وَرزِشگاهِ آزادی دیدیم.",
+   "a": "38c0d792bd91",
+   "colV": "دیشَب بازی رو تو وَرزِشگاهِ آزادی دیدیم.",
+   "colA": "fab14aae735a"
+  },
+  {
+   "fa": "کدام تیم برد؟",
+   "r": "kodām tim bord?",
+   "en": "Which team won?",
+   "col": "کدوم تیم برد؟",
+   "colR": "kodum tim bord?",
+   "faV": "کُدام تیم بُرد؟",
+   "a": "cd3d0d17af0d",
+   "colV": "کُدوم تیم بُرد؟",
+   "colA": "fa12a7411284"
+  },
+  {
+   "fa": "تیم ملی دو بر یک برد.",
+   "r": "tim-e melli do bar yek bord.",
+   "en": "The national team won two–one.",
+   "faV": "تیمِ مِلّی دو بَر یِک بُرد.",
+   "a": "d4f69664aa37"
+  },
+  {
+   "fa": "کشتی یکی از محبوب‌ترین ورزش‌های ایران است.",
+   "r": "koshti yek-i az mahbub-tarin varzesh-hā-ye Irān ast.",
+   "en": "Wrestling is one of the most popular sports in Iran.",
+   "col": "کشتی یکی از محبوب‌ترین ورزشای ایرانه.",
+   "colR": "koshti yek-i az mahbub-tarin varzesh-ā-ye Irān-e.",
+   "faV": "کُشتی یِکی اَز مَحبوب‌تَرین وَرزِش‌هایِ ایران اَست.",
+   "a": "31357b69e346",
+   "colV": "کُشتی یِکی اَز مَحبوب‌تَرین وَرزِشایِ ایرانه.",
+   "colA": "5a947c044cee"
+  },
+  {
+   "fa": "در زورخانه، مرشد ضرب می‌زند و شعر می‌خواند.",
+   "r": "dar zurkhāne, morshed zarb mi-zanad va she'r mi-khānad.",
+   "en": "In the zurkhaneh, the morshed beats the drum and chants verses.",
+   "col": "تو زورخونه، مرشد ضرب می‌زنه و شعر می‌خونه.",
+   "colR": "tu zurkhune, morshed zarb mi-zane o she'r mi-khune.",
+   "faV": "دَر زورخانه، مُرشِد ضَرب می‌زَنَد و شِعر می‌خوانَد.",
+   "a": "1d9f5e14bc7d",
+   "colV": "تو زورخونه، مُرشِد ضَرب می‌زَنه و شِعر می‌خونه.",
+   "colA": "acfc8018690e"
+  },
+  {
+   "fa": "ورزشکاران با میل‌های چوبی ورزش می‌کنند.",
+   "r": "varzeshkārān bā mil-hā-ye chubi varzesh mi-konand.",
+   "en": "The athletes train with wooden clubs.",
+   "col": "ورزشکارا با میلای چوبی ورزش می‌کنن.",
+   "colR": "varzeshkār-ā bā mil-ā-ye chubi varzesh mi-konan.",
+   "faV": "وَرزِشکاران با میل‌هایِ چوبی وَرزِش می‌کُنَند.",
+   "a": "62f4d05ec6d0",
+   "colV": "وَرزِشکارا با میلایِ چوبی وَرزِش می‌کُنَن.",
+   "colA": "ac2f81fe7dc7"
+  },
+  {
+   "fa": "تیم والیبال ایران در آسیا خیلی قوی است.",
+   "r": "tim-e vālibāl-e Irān dar Āsiyā kheyli ghavi ast.",
+   "en": "Iran's volleyball team is very strong in Asia.",
+   "col": "تیم والیبال ایران تو آسیا خیلی قویه.",
+   "colR": "tim-e vālibāl-e Irān tu Āsiyā kheyli ghavi-ye.",
+   "faV": "تیمِ والیبالِ ایران دَر آسیا خَیلی قَوی اَست.",
+   "a": "3163328ffebf",
+   "colV": "تیمِ والیبالِ ایران تو آسیا خَیلی قَویه.",
+   "colA": "61cbcc1df15d"
+  },
+  {
+   "fa": "جمعه صبح زود با دوستانم به کوه می‌رویم.",
+   "r": "jom'e sobh-e zud bā dustān-am be kuh mi-ravim.",
+   "en": "Early on Friday morning my friends and I go up the mountain.",
+   "col": "جمعه صبح زود با دوستام می‌ریم کوه.",
+   "colR": "jom'e sobh-e zud bā dustām mi-rim kuh.",
+   "faV": "جُمعه صُبحِ زود با دوستانَم به کوه می‌رَویم.",
+   "a": "a34f61ceb564",
+   "colV": "جُمعه صُبحِ زود با دوستام می‌ریم کوه.",
+   "colA": "7754d7762cca"
+  },
+  {
+   "fa": "در راه قله، در یک قهوه‌خانه صبحانه خوردیم.",
+   "r": "dar rāh-e gholle, dar yek ghahve-khāne sobhāne khordim.",
+   "en": "On the way to the summit we had breakfast in a tea house.",
+   "col": "تو راه قله، تو یه قهوه‌خونه صبحونه خوردیم.",
+   "colR": "tu rāh-e gholle, tu ye ghahve-khune sobhune khordim.",
+   "faV": "دَر راهِ قُلّه، دَر یِک قَهوه‌خانه صُبحانه خوردیم.",
+   "a": "9a6773cbb644",
+   "colV": "تو راهِ قُلّه، تو یه قَهوه‌خونه صُبحونه خوردیم.",
+   "colA": "596095d37469"
+  },
+  {
+   "fa": "تو هم فوتبال بازی می‌کنی؟",
+   "r": "to ham futbāl bāzi mi-koni?",
+   "en": "Do you play football too?",
+   "faV": "تو هَم فوتبال بازی می‌کُنی؟",
+   "a": "8d1ed0e4bcf0"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "ورزش",
+   "r": "varzesh",
+   "en": "sport; exercise",
+   "faV": "وَرزِش",
+   "a": "738e9f2e0aa9"
+  },
+  {
+   "fa": "ورزشکار",
+   "r": "varzeshkār",
+   "en": "athlete, sportsperson",
+   "faV": "وَرزِشکار",
+   "a": "5c4faa199de5"
+  },
+  {
+   "fa": "ورزشگاه",
+   "r": "varzeshgāh",
+   "en": "stadium",
+   "faV": "وَرزِشگاه",
+   "a": "b6c099952e50"
+  },
+  {
+   "fa": "فوتبال",
+   "r": "futbāl",
+   "en": "football",
+   "faV": "فوتبال",
+   "a": "05d5066b2024"
+  },
+  {
+   "fa": "تیم ملی",
+   "r": "tim-e melli",
+   "en": "national team",
+   "faV": "تیمِ مِلّی",
+   "a": "2d4a65253386"
+  },
+  {
+   "fa": "بازی",
+   "r": "bāzi",
+   "en": "game, match; play",
+   "faV": "بازی",
+   "a": "9200b13f5c3c"
+  },
+  {
+   "fa": "بردن",
+   "r": "bordan",
+   "en": "to win; to take away",
+   "faV": "بُردَن",
+   "a": "8987533d5bfa"
+  },
+  {
+   "fa": "باختن",
+   "r": "bākhtan",
+   "en": "to lose (a game)",
+   "faV": "باختَن",
+   "a": "499c5a4f0817"
+  },
+  {
+   "fa": "گل",
+   "r": "gol",
+   "en": "goal; flower",
+   "faV": "گُل",
+   "a": "bd5d76c36abc"
+  },
+  {
+   "fa": "طرفدار",
+   "r": "tarafdār",
+   "en": "fan, supporter",
+   "faV": "طَرَفدار",
+   "a": "9232365e8bac"
+  },
+  {
+   "fa": "کشتی",
+   "r": "koshti",
+   "en": "wrestling",
+   "faV": "کُشتی",
+   "a": "820a78c943cc"
+  },
+  {
+   "fa": "زورخانه",
+   "r": "zurkhāne",
+   "en": "zurkhaneh, traditional gymnasium",
+   "faV": "زورخانه",
+   "a": "00c6beaffe5f"
+  },
+  {
+   "fa": "پهلوان",
+   "r": "pahlavān",
+   "en": "champion, hero",
+   "faV": "پَهلَوان",
+   "a": "9af59f46901a"
+  },
+  {
+   "fa": "مرشد",
+   "r": "morshed",
+   "en": "master who leads the zurkhaneh",
+   "faV": "مُرشِد",
+   "a": "bf0a74313c06"
+  },
+  {
+   "fa": "والیبال",
+   "r": "vālibāl",
+   "en": "volleyball",
+   "faV": "والیبال",
+   "a": "b80f0fad6862"
+  },
+  {
+   "fa": "چوگان",
+   "r": "chowgān",
+   "en": "polo",
+   "faV": "چَوگان",
+   "a": "426b86c199bf"
+  },
+  {
+   "fa": "کوه‌نوردی",
+   "r": "kuh-navardi",
+   "en": "hill walking, mountaineering",
+   "faV": "کوه‌نَوَردی",
+   "a": "20d99650b272"
+  },
+  {
+   "fa": "قله",
+   "r": "gholle",
+   "en": "peak, summit",
+   "faV": "قُلّه",
+   "a": "ab2c526321db"
+  }
+ ],
+ "facts": [
+  "The Tehran derby between Persepolis (red) and Esteghlal (blue) is the shahr-āvard; the two clubs together are the sorkhābi, from sorkh 'red' and ābi 'blue'.",
+  "Wrestling has won Iran more Olympic medals than any other sport.",
+  "Gholamreza Takhti, Olympic wrestling champion in 1956, is remembered as a model of javānmardi, chivalry.",
+  "Ali Daei scored 109 goals for Iran, the men's international record until Cristiano Ronaldo passed it in 2021.",
+  "UNESCO inscribed the pahlavāni and zurkhaneh rituals on its intangible heritage list in 2010, and chowgān, Iranian polo, in 2017.",
+  "The stone goalposts of a Safavid polo ground still stand at both ends of Naqsh-e Jahan Square in Isfahan.",
+  "Damavand, about 5,600 metres high, is Iran's highest mountain and the highest volcano in Asia."
+ ],
+ "titleV": "وَرزِش",
+ "titleA": "738e9f2e0aa9"
+}

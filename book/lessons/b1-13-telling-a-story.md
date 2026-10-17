@@ -345,10 +345,10 @@ _Over tea, Mahsa asks Dariush to tell Tom what happened to him last winter on th
 
 **Put the words in order**
 
-1. خدا / از / نبود. / هیچ‌کس / بود / غیر / یکی / یکی / نبود، — Once upon a time, there was nobody but God.
-2. را / طوطی / پیش / هندوستان / سال‌ها / از / آورده / بودند. — The parrot had been brought from India years before.
-3. آماده / برای / می‌شد. / داشت / سفر / بازرگان — The merchant was getting ready for the journey.
-4. را / طوطی / درخت / از / گفت، / همین / پیغام / افتاد. / که — As soon as he gave the message, the parrot fell from the tree.
+1. نبود. / خدا / هیچ‌کس / از / نبود، / بود / یکی / یکی / غیر — Once upon a time, there was nobody but God.
+2. بودند. / هندوستان / از / سال‌ها / آورده / پیش / طوطی / را — The parrot had been brought from India years before.
+3. داشت / بازرگان / می‌شد. / آماده / سفر / برای — The merchant was getting ready for the journey.
+4. همین / که / از / افتاد. / گفت، / پیغام / طوطی / را / درخت — As soon as he gave the message, the parrot fell from the tree.
 
 <details><summary>Answers</summary>
 
@@ -423,4 +423,4 @@ _Over tea, Mahsa asks Dariush to tell Tom what happened to him last winter on th
 
 ---
 
-← [First steps in poetry: reading a classical poem](b1-12-first-steps-in-poetry.md) · [Contents](../README.md) · [Hafez: the first ghazal](b2-01-hafez.md) →
+← [First steps in poetry: reading a classical poem](b1-12-first-steps-in-poetry.md) · [Contents](../README.md) · [Debate: agreeing, conceding and disagreeing politely](b1-14-debate.md) →

@@ -38,99 +38,247 @@
   {
    "fa": "عشایر در بهار به ییلاق کوچ می‌کنند.",
    "r": "ashāyer dar bahār be yeylāgh kuch mi-konand.",
-   "en": "In spring the nomads migrate to their summer pastures."
+   "en": "In spring the nomads migrate to their summer pastures.",
+   "faV": "عَشایِر دَر بَهار به یَیلاق کوچ می‌کُنَند.",
+   "a": "a2c1fac22e23"
   },
   {
    "fa": "در پاییز به قشلاق برمی‌گردند.",
    "r": "dar pāyiz be gheshlāgh bar-mi-gardand.",
    "en": "In autumn they return to their winter quarters.",
    "col": "پاییز برمی‌گردن قشلاق.",
-   "colR": "pāyiz bar-mi-gardan gheshlāgh."
+   "colR": "pāyiz bar-mi-gardan gheshlāgh.",
+   "faV": "دَر پاییز به قِشلاق بَرمی‌گَردَند.",
+   "a": "0c4fbfb8a9b0",
+   "colV": "پاییز بَرمی‌گَردَن قِشلاق.",
+   "colA": "cb87e039d5c6"
   },
   {
    "fa": "قشقایی‌ها در استان فارس زندگی می‌کنند و به ترکی حرف می‌زنند.",
    "r": "Ghashghāyi-hā dar ostān-e Fārs zendegi mi-konand va be torki harf mi-zanand.",
    "en": "The Qashqai live in Fars province and speak Turkic.",
    "col": "قشقایی‌ها تو استان فارس زندگی می‌کنن و ترکی حرف می‌زنن.",
-   "colR": "Ghashghāyi-hā tu ostān-e Fārs zendegi mi-konan o torki harf mi-zanan."
+   "colR": "Ghashghāyi-hā tu ostān-e Fārs zendegi mi-konan o torki harf mi-zanan.",
+   "faV": "قَشقایی‌ها دَر اُستانِ فارس زِندِگی می‌کُنَند و به تُرکی حَرف می‌زَنَند.",
+   "a": "f48eedebaf25",
+   "colV": "قَشقایی‌ها تو اُستانِ فارس زِندِگی می‌کُنَن و تُرکی حَرف می‌زَنَن.",
+   "colA": "2c3f0f5baf72"
   },
   {
    "fa": "کوچ بختیاری‌ها از کوه‌های بلند زاگرس می‌گذرد.",
    "r": "kuch-e Bakhtiyāri-hā az kuh-hā-ye boland-e Zāgros mi-gozarad.",
-   "en": "The Bakhtiari migration crosses the high Zagros mountains."
+   "en": "The Bakhtiari migration crosses the high Zagros mountains.",
+   "faV": "کوچِ بَختیاری‌ها اَز کوه‌هایِ بُلَندِ زاگرُس می‌گُذَرَد.",
+   "a": "cdf361d2aeea"
   },
   {
    "fa": "کوچ ممکن است چند هفته طول بکشد.",
    "r": "kuch momken ast chand hafte tul be-keshad.",
    "en": "The migration can take several weeks.",
    "col": "کوچ ممکنه چند هفته طول بکشه.",
-   "colR": "kuch momken-e chand hafte tul be-keshe."
+   "colR": "kuch momken-e chand hafte tul be-keshe.",
+   "faV": "کوچ مُمکِن اَست چَند هَفته طول بِکِشَد.",
+   "a": "3ffea2fadd09",
+   "colV": "کوچ مُمکِنه چَند هَفته طول بِکِشه.",
+   "colA": "fe80c0a019a8"
   },
   {
    "fa": "چوپان گله را به کوه می‌برد.",
    "r": "chupān galle rā be kuh mi-barad.",
    "en": "The shepherd takes the flock up the mountain.",
    "col": "چوپان گله رو می‌بره کوه.",
-   "colR": "chupān galle ro mi-bare kuh."
+   "colR": "chupān galle ro mi-bare kuh.",
+   "faV": "چوپان گَلّه را به کوه می‌بَرَد.",
+   "a": "e116f9e39e18",
+   "colV": "چوپان گَلّه رو می‌بَره کوه.",
+   "colA": "2c672cab6983"
   },
   {
    "fa": "زنان سیاه‌چادر را از موی بز می‌بافند.",
    "r": "zanān siyāh-chādor rā az mu-ye boz mi-bāfand.",
-   "en": "The women weave the black tent from goat hair."
+   "en": "The women weave the black tent from goat hair.",
+   "faV": "زَنان سیاه‌چادُر را اَز مویِ بُز می‌بافَند.",
+   "a": "20c4cbcaba3b"
   },
   {
    "fa": "شاهسون‌ها تابستان را در دامنه‌ی کوه سبلان می‌گذرانند.",
    "r": "Shāhsavan-hā tābestān rā dar dāmane-ye kuh-e Sabalān mi-gozarānand.",
-   "en": "The Shahsavan spend the summer on the slopes of Mount Sabalan."
+   "en": "The Shahsavan spend the summer on the slopes of Mount Sabalan.",
+   "faV": "شاهسَوَن‌ها تابِستان را دَر دامَنه‌یِ کوهِ سَبَلان می‌گُذَرانَند.",
+   "a": "9f09cba81e97"
   },
   {
    "fa": "آن‌ها از شیر گوسفند ماست و کره و دوغ درست می‌کنند.",
    "r": "ān-hā az shir-e gusfand māst va kare va dugh dorost mi-konand.",
    "en": "They make yogurt, butter and buttermilk from sheep's milk.",
    "col": "اونا از شیر گوسفند ماست و کره و دوغ درست می‌کنن.",
-   "colR": "un-ā az shir-e gusfand māst o kare o dugh dorost mi-konan."
+   "colR": "un-ā az shir-e gusfand māst o kare o dugh dorost mi-konan.",
+   "faV": "آن‌ها اَز شیرِ گوسفَند ماست و کَره و دوغ دُرُست می‌کُنَند.",
+   "a": "8f79099fa567",
+   "colV": "اونا اَز شیرِ گوسفَند ماست و کَره و دوغ دُرُست می‌کُنَن.",
+   "colA": "a52e321f6372"
   },
   {
    "fa": "گبه فرشی ضخیم با نقش‌های ساده است.",
    "r": "gabbe farsh-i zakhim bā naghsh-hā-ye sāde ast.",
    "en": "A gabbeh is a thick rug with simple designs.",
    "col": "گبه یه فرش ضخیم با نقشای ساده‌ست.",
-   "colR": "gabbe ye farsh-e zakhim bā naghsh-ā-ye sāde-st."
+   "colR": "gabbe ye farsh-e zakhim bā naghsh-ā-ye sāde-st.",
+   "faV": "گَبّه فَرشی ضَخیم با نَقش‌هایِ ساده اَست.",
+   "a": "0eacc17d51d9",
+   "colV": "گَبّه یه فَرشِ ضَخیم با نَقشایِ ساده‌ست.",
+   "colA": "26a354bba673"
   },
   {
    "fa": "مهمان‌نوازی عشایر معروف است.",
    "r": "mehmān-navāzi-ye ashāyer ma'ruf ast.",
    "en": "The nomads' hospitality is famous.",
    "col": "مهمون‌نوازی عشایر معروفه.",
-   "colR": "mehmun-navāzi-ye ashāyer ma'ruf-e."
+   "colR": "mehmun-navāzi-ye ashāyer ma'ruf-e.",
+   "faV": "مِهمان‌نَوازیِ عَشایِر مَعروف اَست.",
+   "a": "5a56605e243a",
+   "colV": "مِهمون‌نَوازیِ عَشایِر مَعروفه.",
+   "colA": "2eb81f7fa294"
   },
   {
    "fa": "خیلی از عشایر امروز در شهرها و روستاها ساکن شده‌اند.",
    "r": "kheyli az ashāyer emruz dar shahr-hā va rustā-hā sāken shode-and.",
    "en": "Many nomads have now settled in towns and villages.",
    "col": "خیلی از عشایر الان تو شهرا و روستاها ساکن شدن.",
-   "colR": "kheyli az ashāyer alān tu shahr-ā o rustā-hā sāken shodan."
+   "colR": "kheyli az ashāyer alān tu shahr-ā o rustā-hā sāken shodan.",
+   "faV": "خَیلی اَز عَشایِر اِمروز دَر شَهرها و روستاها ساکِن شُده‌اَند.",
+   "a": "abe3d1528bbb",
+   "colV": "خَیلی اَز عَشایِر اَلان تو شَهرا و روستاها ساکِن شُدَن.",
+   "colA": "75a3a542425a"
   }
  ],
  "vocab": [
-  {"fa": "عشایر", "r": "ashāyer", "en": "nomads, nomadic tribes"},
-  {"fa": "ایل", "r": "il", "en": "tribe, tribal confederation"},
-  {"fa": "طایفه", "r": "tāyefe", "en": "clan"},
-  {"fa": "کوچ", "r": "kuch", "en": "seasonal migration"},
-  {"fa": "کوچ کردن", "r": "kuch kardan", "en": "to migrate"},
-  {"fa": "ییلاق", "r": "yeylāgh", "en": "summer pasture, summer quarters"},
-  {"fa": "قشلاق", "r": "gheshlāgh", "en": "winter pasture, winter quarters"},
-  {"fa": "چادر", "r": "chādor", "en": "tent; chador"},
-  {"fa": "سیاه‌چادر", "r": "siyāh-chādor", "en": "black (goat-hair) tent"},
-  {"fa": "گله", "r": "galle", "en": "flock, herd"},
-  {"fa": "چوپان", "r": "chupān", "en": "shepherd"},
-  {"fa": "گوسفند", "r": "gusfand", "en": "sheep"},
-  {"fa": "بز", "r": "boz", "en": "goat"},
-  {"fa": "گبه", "r": "gabbe", "en": "gabbeh, a thick tribal rug"},
-  {"fa": "گلیم", "r": "gelim", "en": "kilim, flat-woven rug"},
-  {"fa": "بافتن", "r": "bāftan", "en": "to weave; to knit"},
-  {"fa": "مهمان‌نوازی", "r": "mehmān-navāzi", "en": "hospitality"},
-  {"fa": "ساکن شدن", "r": "sāken shodan", "en": "to settle (down)"}
+  {
+   "fa": "عشایر",
+   "r": "ashāyer",
+   "en": "nomads, nomadic tribes",
+   "faV": "عَشایِر",
+   "a": "fe3382aab3db"
+  },
+  {
+   "fa": "ایل",
+   "r": "il",
+   "en": "tribe, tribal confederation",
+   "faV": "ایل",
+   "a": "8a2d6ca0f987"
+  },
+  {
+   "fa": "طایفه",
+   "r": "tāyefe",
+   "en": "clan",
+   "faV": "طایِفه",
+   "a": "8b74e0d464b2"
+  },
+  {
+   "fa": "کوچ",
+   "r": "kuch",
+   "en": "seasonal migration",
+   "faV": "کوچ",
+   "a": "bfcbf7d9c7d8"
+  },
+  {
+   "fa": "کوچ کردن",
+   "r": "kuch kardan",
+   "en": "to migrate",
+   "faV": "کوچ کَردَن",
+   "a": "522086099e84"
+  },
+  {
+   "fa": "ییلاق",
+   "r": "yeylāgh",
+   "en": "summer pasture, summer quarters",
+   "faV": "یَیلاق",
+   "a": "5cada1d4bdf6"
+  },
+  {
+   "fa": "قشلاق",
+   "r": "gheshlāgh",
+   "en": "winter pasture, winter quarters",
+   "faV": "قِشلاق",
+   "a": "0b7f9ceb97c7"
+  },
+  {
+   "fa": "چادر",
+   "r": "chādor",
+   "en": "tent; chador",
+   "faV": "چادُر",
+   "a": "6917308bad57"
+  },
+  {
+   "fa": "سیاه‌چادر",
+   "r": "siyāh-chādor",
+   "en": "black (goat-hair) tent",
+   "faV": "سیاه‌چادُر",
+   "a": "1a51ac8ebd03"
+  },
+  {
+   "fa": "گله",
+   "r": "galle",
+   "en": "flock, herd",
+   "faV": "گَلّه",
+   "a": "050a74c7db45"
+  },
+  {
+   "fa": "چوپان",
+   "r": "chupān",
+   "en": "shepherd",
+   "faV": "چوپان",
+   "a": "ecedcd1ad85c"
+  },
+  {
+   "fa": "گوسفند",
+   "r": "gusfand",
+   "en": "sheep",
+   "faV": "گوسفَند",
+   "a": "8885370f4972"
+  },
+  {
+   "fa": "بز",
+   "r": "boz",
+   "en": "goat",
+   "faV": "بُز",
+   "a": "1d655c98154c"
+  },
+  {
+   "fa": "گبه",
+   "r": "gabbe",
+   "en": "gabbeh, a thick tribal rug",
+   "faV": "گَبّه",
+   "a": "9967db1fb2a1"
+  },
+  {
+   "fa": "گلیم",
+   "r": "gelim",
+   "en": "kilim, flat-woven rug",
+   "faV": "گِلیم",
+   "a": "5f8ecec27522"
+  },
+  {
+   "fa": "بافتن",
+   "r": "bāftan",
+   "en": "to weave; to knit",
+   "faV": "بافتَن",
+   "a": "8a039e6576db"
+  },
+  {
+   "fa": "مهمان‌نوازی",
+   "r": "mehmān-navāzi",
+   "en": "hospitality",
+   "faV": "مِهمان‌نَوازی",
+   "a": "6d695f62f3a1"
+  },
+  {
+   "fa": "ساکن شدن",
+   "r": "sāken shodan",
+   "en": "to settle (down)",
+   "faV": "ساکِن شُدَن",
+   "a": "5248393864b4"
+  }
  ],
  "facts": [
   "Nomads migrate twice a year between yeylāgh, summer pastures in the mountains, and gheshlāgh, winter pastures in the lowlands – both words come from Turkic.",
@@ -140,5 +288,7 @@
   "Black tents are woven from goat hair, which swells in the rain and keeps the water out.",
   "The Shahsavan live in the ālāchigh, a domed felt tent, rather than in a black tent.",
   "Chādor means both 'tent' and the full-length cloak worn by many Iranian women."
- ]
+ ],
+ "titleV": "عَشایِرِ ایران",
+ "titleA": "8437a4f3117f"
 }

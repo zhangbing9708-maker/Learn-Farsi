@@ -382,10 +382,10 @@ _It is Yalda night at Leila's family home. Tom saw a Hafez fortune taken last ye
 
 **Put the words in order**
 
-1. در / در / شیراز / می‌کرد. / زندگی / چهاردهم / حافظ / قرن / میلادی — Hafez lived in Shiraz in the fourteenth century AD.
-2. است. / ساخته / شده / هر / از / بیت / مصراع / دو — Every bayt is made of two mesrā's.
-3. از / ردیف / می‌آید. / قافیه / بعد — The radif comes after the rhyme.
-4. می‌کنند. / را / در / از / مدرسه / شعر / بر / بچه‌ها / این — Children learn this poem by heart at school.
+1. زندگی / حافظ / در / در / میلادی / قرن / چهاردهم / شیراز / می‌کرد. — Hafez lived in Shiraz in the fourteenth century AD.
+2. شده / است. / از / هر / بیت / مصراع / ساخته / دو — Every bayt is made of two mesrā's.
+3. از / بعد / ردیف / قافیه / می‌آید. — The radif comes after the rhyme.
+4. در / بچه‌ها / از / بر / این / شعر / می‌کنند. / مدرسه / را — Children learn this poem by heart at school.
 
 <details><summary>Answers</summary>
 
@@ -436,4 +436,4 @@ _It is Yalda night at Leila's family home. Tom saw a Hafez fortune taken last ye
 
 ---
 
-← [Arabic in Persian: roots, plurals and tanvin](b1-07-arabic-in-persian.md) · [Contents](../README.md) · [Telling a story: three past tenses together](b1-13-telling-a-story.md) →
+← [Formal and informal: registers and respect](b1-08-formal-and-informal.md) · [Contents](../README.md) · [Telling a story: three past tenses together](b1-13-telling-a-story.md) →

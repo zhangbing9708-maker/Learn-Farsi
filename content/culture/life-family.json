@@ -41,77 +41,121 @@
    "r": "khānevāde-ye mā kheyli bozorg ast.",
    "en": "Our family is very big.",
    "col": "خانواده‌ی ما خیلی بزرگه.",
-   "colR": "khānevāde-ye mā kheyli bozorg-e."
+   "colR": "khānevāde-ye mā kheyli bozorg-e.",
+   "faV": "خانِواده‌یِ ما خَیلی بُزُرگ اَست.",
+   "a": "32dea102a32d",
+   "colV": "خانِواده‌یِ ما خَیلی بُزُرگه.",
+   "colA": "2d85301b77ba"
   },
   {
    "fa": "من سه عمو و دو خاله دارم.",
    "r": "man se amu va do khāle dāram.",
    "en": "I have three uncles on my father's side and two aunts on my mother's side.",
    "col": "من سه تا عمو و دو تا خاله دارم.",
-   "colR": "man se tā amu o do tā khāle dāram."
+   "colR": "man se tā amu o do tā khāle dāram.",
+   "faV": "مَن سه عَمو و دو خاله دارَم.",
+   "a": "9e4974de387e",
+   "colV": "مَن سه تا عَمو و دو تا خاله دارَم.",
+   "colA": "0e6a31e99e2f"
   },
   {
    "fa": "دخترخاله‌ام بهترین دوست من است.",
    "r": "dokhtar-khāle-am behtarin dust-e man ast.",
    "en": "My cousin – my mother's sister's daughter – is my best friend.",
    "col": "دخترخاله‌م بهترین دوستمه.",
-   "colR": "dokhtar-khāle-m behtarin dust-am-e."
+   "colR": "dokhtar-khāle-m behtarin dust-am-e.",
+   "faV": "دُختَرخاله‌اَم بِهتَرین دوستِ مَن اَست.",
+   "a": "1b8600c9b387",
+   "colV": "دُختَرخاله‌م بِهتَرین دوستَمه.",
+   "colA": "aebc77aab724"
   },
   {
    "fa": "عید اول به خانه‌ی پدربزرگ و مادربزرگ می‌رویم.",
    "r": "eyd avval be khāne-ye pedar-bozorg va mādar-bozorg mi-ravim.",
    "en": "At New Year we go to our grandparents' house first.",
    "col": "عید اول می‌ریم خونه‌ی بابابزرگ و مامان‌بزرگ.",
-   "colR": "eyd avval mi-rim khune-ye bābā-bozorg o māmān-bozorg."
+   "colR": "eyd avval mi-rim khune-ye bābā-bozorg o māmān-bozorg.",
+   "faV": "عَید اَوَّل به خانه‌یِ پِدَربُزُرگ و مادَربُزُرگ می‌رَویم.",
+   "a": "f96cccaac370",
+   "colV": "عَید اَوَّل می‌ریم خونه‌یِ بابابُزُرگ و مامان‌بُزُرگ.",
+   "colA": "89b4d93a71ce"
   },
   {
    "fa": "عمه‌ام هفته‌ی پیش به دیدن ما آمد و فردا به بازدیدش می‌رویم.",
    "r": "amme-am hafte-ye pish be didan-e mā āmad va fardā be bāzdid-ash mi-ravim.",
    "en": "My aunt (my father's sister) came to see us last week, and tomorrow we are returning her visit.",
    "col": "عمه‌م هفته‌ی پیش اومد دیدن ما، فردا می‌ریم بازدیدش.",
-   "colR": "amme-m hafte-ye pish umad didan-e mā, fardā mi-rim bāzdid-esh."
+   "colR": "amme-m hafte-ye pish umad didan-e mā, fardā mi-rim bāzdid-esh.",
+   "faV": "عَمّه‌اَم هَفته‌یِ پیش به دیدَنِ ما آمَد و فَردا به بازدیدَش می‌رَویم.",
+   "a": "e75960df5bd6",
+   "colV": "عَمّه‌م هَفته‌یِ پیش اومَد دیدَنِ ما، فَردا می‌ریم بازدیدِش.",
+   "colA": "2627da2448d1"
   },
   {
    "fa": "وقتی پدربزرگ وارد اتاق می‌شود، همه بلند می‌شوند.",
    "r": "vaghti pedar-bozorg vāred-e otāgh mi-shavad, hame boland mi-shavand.",
    "en": "When grandfather comes into the room, everyone stands up.",
    "col": "وقتی بابابزرگ میاد تو اتاق، همه پا می‌شن.",
-   "colR": "vaghti bābā-bozorg miyād tu otāgh, hame pā mi-shan."
+   "colR": "vaghti bābā-bozorg miyād tu otāgh, hame pā mi-shan.",
+   "faV": "وَقتی پِدَربُزُرگ وارِدِ اُتاق می‌شَوَد، هَمه بُلَند می‌شَوَند.",
+   "a": "6d18469fa69e",
+   "colV": "وَقتی بابابُزُرگ میاد تو اُتاق، هَمه پا می‌شَن.",
+   "colA": "0ddd2d38dec0"
   },
   {
    "fa": "پسرعموی من در کانادا زندگی می‌کند.",
    "r": "pesar-amu-ye man dar Kānādā zendegi mi-konad.",
    "en": "My cousin (my father's brother's son) lives in Canada.",
    "col": "پسرعموی من تو کانادا زندگی می‌کنه.",
-   "colR": "pesar-amu-ye man tu Kānādā zendegi mi-kone."
+   "colR": "pesar-amu-ye man tu Kānādā zendegi mi-kone.",
+   "faV": "پِسَرعَمویِ مَن دَر کانادا زِندِگی می‌کُنَد.",
+   "a": "1f63981a2a72",
+   "colV": "پِسَرعَمویِ مَن تو کانادا زِندِگی می‌کُنه.",
+   "colA": "28ec1cea8b86"
   },
   {
    "fa": "مادرشوهرم زن مهربانی است.",
    "r": "mādar-showhar-am zan-e mehrabān-i ast.",
    "en": "My mother-in-law is a kind woman.",
    "col": "مادرشوهرم زن مهربونیه.",
-   "colR": "mādar-showhar-am zan-e mehrabuni-ye."
+   "colR": "mādar-showhar-am zan-e mehrabuni-ye.",
+   "faV": "مادَرشَوهَرَم زَنِ مِهرَبانی اَست.",
+   "a": "587f63e3b4b1",
+   "colV": "مادَرشَوهَرَم زَنِ مِهرَبونیه.",
+   "colA": "1d2306fd0b0e"
   },
   {
    "fa": "شوهرم و شوهر خواهرم با هم باجناق هستند.",
    "r": "showhar-am va showhar-e khāhar-am bā ham bājenāgh hastand.",
    "en": "My husband and my sister's husband are 'bajenagh' – married to two sisters.",
    "col": "شوهرم و شوهر خواهرم با هم باجناقن.",
-   "colR": "showhar-am o showhar-e khāhar-am bā ham bājenāgh-an."
+   "colR": "showhar-am o showhar-e khāhar-am bā ham bājenāgh-an.",
+   "faV": "شَوهَرَم و شَوهَرِ خواهَرَم با هَم باجِناق هَستَند.",
+   "a": "4f931d13a98c",
+   "colV": "شَوهَرَم و شَوهَرِ خواهَرَم با هَم باجِناقَن.",
+   "colA": "c1495511a0f2"
   },
   {
    "fa": "عروسی دخترخاله‌ام ماه دیگر است.",
    "r": "arusi-ye dokhtar-khāle-am māh-e digar ast.",
    "en": "My cousin's wedding is next month.",
    "col": "عروسی دخترخاله‌م ماه دیگه‌ست.",
-   "colR": "arusi-ye dokhtar-khāle-m māh-e dige-st."
+   "colR": "arusi-ye dokhtar-khāle-m māh-e dige-st.",
+   "faV": "عَروسیِ دُختَرخاله‌اَم ماهِ دیگَر اَست.",
+   "a": "bf61c6f6708f",
+   "colV": "عَروسیِ دُختَرخاله‌م ماهِ دیگه‌ست.",
+   "colA": "a9c16050b70d"
   },
   {
    "fa": "فامیل شما چیست؟",
    "r": "fāmil-e shomā chist?",
    "en": "What's your surname?",
    "col": "فامیلتون چیه؟",
-   "colR": "fāmil-etun chiye?"
+   "colR": "fāmil-etun chiye?",
+   "faV": "فامیلِ شُما چیست؟",
+   "a": "37a2974d7bb4",
+   "colV": "فامیلِتون چیه؟",
+   "colA": "e4d98ca2f0be"
   },
   {
    "fa": "خاله‌جان، دستتان درد نکند!",
@@ -119,29 +163,147 @@
    "en": "Thank you, auntie!",
    "lit": "dear auntie, may your hand not hurt!",
    "col": "خاله‌جون، دستتون درد نکنه!",
-   "colR": "khāle-jun, dast-etun dard na-kone!"
+   "colR": "khāle-jun, dast-etun dard na-kone!",
+   "faV": "خاله‌جان، دَستِتان دَرد نَکُنَد!",
+   "a": "f18ef3430c83",
+   "colV": "خاله‌جون، دَستِتون دَرد نَکُنه!",
+   "colA": "37a46f4da607"
   }
  ],
  "vocab": [
-  {"fa": "خانواده", "r": "khānevāde", "en": "family, household"},
-  {"fa": "فامیل", "r": "fāmil", "en": "relatives; surname"},
-  {"fa": "پدربزرگ", "r": "pedar-bozorg", "en": "grandfather"},
-  {"fa": "مادربزرگ", "r": "mādar-bozorg", "en": "grandmother"},
-  {"fa": "عمو", "r": "amu", "en": "uncle (father's brother)"},
-  {"fa": "عمه", "r": "amme", "en": "aunt (father's sister)"},
-  {"fa": "دایی", "r": "dāyi", "en": "uncle (mother's brother)"},
-  {"fa": "خاله", "r": "khāle", "en": "aunt (mother's sister)"},
-  {"fa": "پسرعمو", "r": "pesar-amu", "en": "cousin (son of a father's brother)"},
-  {"fa": "دخترخاله", "r": "dokhtar-khāle", "en": "cousin (daughter of a mother's sister)"},
-  {"fa": "مادرشوهر", "r": "mādar-showhar", "en": "mother-in-law (husband's mother)"},
-  {"fa": "پدرزن", "r": "pedar-zan", "en": "father-in-law (wife's father)"},
-  {"fa": "عروس", "r": "arus", "en": "bride; daughter-in-law"},
-  {"fa": "داماد", "r": "dāmād", "en": "groom; son-in-law"},
-  {"fa": "جاری", "r": "jāri", "en": "wife of one's husband's brother"},
-  {"fa": "باجناق", "r": "bājenāgh", "en": "husband of one's wife's sister"},
-  {"fa": "دید و بازدید", "r": "did o bāzdid", "en": "exchange of visits"},
-  {"fa": "احترام", "r": "ehterām", "en": "respect"},
-  {"fa": "بزرگ‌تر", "r": "bozorg-tar", "en": "older; an elder"}
+  {
+   "fa": "خانواده",
+   "r": "khānevāde",
+   "en": "family, household",
+   "faV": "خانِواده",
+   "a": "cb19bad29743"
+  },
+  {
+   "fa": "فامیل",
+   "r": "fāmil",
+   "en": "relatives; surname",
+   "faV": "فامیل",
+   "a": "5046d87f003d"
+  },
+  {
+   "fa": "پدربزرگ",
+   "r": "pedar-bozorg",
+   "en": "grandfather",
+   "faV": "پِدَربُزُرگ",
+   "a": "be007b4d3e58"
+  },
+  {
+   "fa": "مادربزرگ",
+   "r": "mādar-bozorg",
+   "en": "grandmother",
+   "faV": "مادَربُزُرگ",
+   "a": "65c57d9d30b9"
+  },
+  {
+   "fa": "عمو",
+   "r": "amu",
+   "en": "uncle (father's brother)",
+   "faV": "عَمو",
+   "a": "f3d4d6df8864"
+  },
+  {
+   "fa": "عمه",
+   "r": "amme",
+   "en": "aunt (father's sister)",
+   "faV": "عَمّه",
+   "a": "39f6fa52247f"
+  },
+  {
+   "fa": "دایی",
+   "r": "dāyi",
+   "en": "uncle (mother's brother)",
+   "faV": "دایی",
+   "a": "09485efcff38"
+  },
+  {
+   "fa": "خاله",
+   "r": "khāle",
+   "en": "aunt (mother's sister)",
+   "faV": "خاله",
+   "a": "6442e53c4f01"
+  },
+  {
+   "fa": "پسرعمو",
+   "r": "pesar-amu",
+   "en": "cousin (son of a father's brother)",
+   "faV": "پِسَرعَمو",
+   "a": "7e3624886b79"
+  },
+  {
+   "fa": "دخترخاله",
+   "r": "dokhtar-khāle",
+   "en": "cousin (daughter of a mother's sister)",
+   "faV": "دُختَرخاله",
+   "a": "7906e72a89c6"
+  },
+  {
+   "fa": "مادرشوهر",
+   "r": "mādar-showhar",
+   "en": "mother-in-law (husband's mother)",
+   "faV": "مادَرشَوهَر",
+   "a": "b987be52b662"
+  },
+  {
+   "fa": "پدرزن",
+   "r": "pedar-zan",
+   "en": "father-in-law (wife's father)",
+   "faV": "پِدَرزَن",
+   "a": "32a4c722489e"
+  },
+  {
+   "fa": "عروس",
+   "r": "arus",
+   "en": "bride; daughter-in-law",
+   "faV": "عَروس",
+   "a": "e3a0609942a9"
+  },
+  {
+   "fa": "داماد",
+   "r": "dāmād",
+   "en": "groom; son-in-law",
+   "faV": "داماد",
+   "a": "1cef21f589c2"
+  },
+  {
+   "fa": "جاری",
+   "r": "jāri",
+   "en": "wife of one's husband's brother",
+   "faV": "جاری",
+   "a": "befbbea8962e"
+  },
+  {
+   "fa": "باجناق",
+   "r": "bājenāgh",
+   "en": "husband of one's wife's sister",
+   "faV": "باجِناق",
+   "a": "9f62fe14050f"
+  },
+  {
+   "fa": "دید و بازدید",
+   "r": "did o bāzdid",
+   "en": "exchange of visits",
+   "faV": "دید و بازدید",
+   "a": "36f6cf74d994"
+  },
+  {
+   "fa": "احترام",
+   "r": "ehterām",
+   "en": "respect",
+   "faV": "اِحتِرام",
+   "a": "cc970dd300f2"
+  },
+  {
+   "fa": "بزرگ‌تر",
+   "r": "bozorg-tar",
+   "en": "older; an elder",
+   "faV": "بُزُرگ‌تَر",
+   "a": "27d125e0e3b5"
+  }
  ],
  "facts": [
   "Persian has separate words for a father's brother (amu), a father's sister (amme), a mother's brother (dāyi) and a mother's sister (khāle).",
@@ -151,5 +313,7 @@
   "At Nowruz the younger generation visits the elders first, and the elders give the children eydi, usually in new banknotes.",
   "Children call friendly adults amu ('uncle') and khāle ('auntie') even when they are not related.",
   "A marriage traditionally begins with khāstegāri, a formal visit by the young man's family to the young woman's family."
- ]
+ ],
+ "titleV": "خانِواده",
+ "titleA": "cb19bad29743"
 }

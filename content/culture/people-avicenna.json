@@ -1,0 +1,77 @@
+{
+ "id": "people-avicenna",
+ "topic": "people",
+ "title": "Avicenna",
+ "titleFa": "ابن سینا",
+ "titleR": "Ebn-e Sinā",
+ "image": "avicenna",
+ "summary": "Doctor, philosopher and royal minister, Ibn Sina – Avicenna to Europe – wrote the medical textbook that universities used for six hundred years. From the library of Bukhara to his tomb in Hamadan.",
+ "body": [
+  {
+   "h": "A prodigy in Bukhara",
+   "md": "Abu Ali Hossein ibn Sina – [[ابن سینا|Ebn-e Sinā|Ibn Sina]] in Persian, Avicenna in Latin – was born around 980 in a village near [[بخارا|Bokhārā|Bukhara]], the capital of the Samanid kings. His father, a man from Balkh, worked for the Samanid government and filled the house with scholars.\n\nAccording to the autobiography he dictated to his pupil Juzjani, Ibn Sina knew the Quran by heart at ten and taught himself medicine as a teenager. He read Aristotle's *Metaphysics* forty times without understanding it, until he bought a cheap commentary by al-Farabi in the book market. At about seventeen he cured the Samanid emir, and as a reward he was allowed to read in the royal [[کتابخانه|ketābkhāne|library]].",
+   "image": "bukhara"
+  },
+  {
+   "h": "A wandering scholar",
+   "md": "When the Samanid state collapsed in 999, Ibn Sina began a life of travel from court to court: Gurganj in Khwarazm, Gorgan near the Caspian, Rey, and then [[همدان|Hamedān|Hamadan]], where the Buyid ruler made him his [[وزیر|vazir|minister]]. Politics was dangerous. He was imprisoned for some months in a castle near Hamadan and went on writing there. His last years were spent mostly in Isfahan, at the court of Ala al-Dowleh, where he worked by day and wrote by night, dictating to his students.",
+   "image": "hamadan"
+  },
+  {
+   "h": "The Canon of Medicine",
+   "md": "His most famous work is [[قانون|Ghānun|the Canon]], an encyclopedia of medicine in five books, finished around 1025. It joined the Greek medicine of Hippocrates and Galen with Persian and Indian knowledge and his own observations – on contagious diseases, on the pulse, and on rules for testing new medicines. Translated into Latin by Gerard of Cremona in the 12th century, it was a standard textbook in European universities until the 17th century. In Iran it is still a symbol of [[طب سنتی|tebb-e sonnati|traditional medicine]]."
+  },
+  {
+   "h": "The Book of Healing",
+   "md": "Despite its name, [[شفا|Shefā|healing]] – *The Book of Healing* – is not about medicine. It is an encyclopedia of philosophy and science in the tradition of Aristotle, covering logic, physics, mathematics, music and metaphysics, written to cure the soul of ignorance. In it he describes the 'floating man': a person created in mid-air, unable to see or feel anything, would still know that he exists.\n\nLike most scholars of his time he wrote mainly in Arabic, but his [[دانشنامه‌ی علایی|Dāneshnāme-ye 'Alā'i|Book of Knowledge for Ala al-Dowleh]] was among the first works of philosophy written in Persian."
+  },
+  {
+   "h": "Hamadan and Bu-Ali today",
+   "md": "Ibn Sina died in 1037 in Hamadan, while travelling with his patron on a military campaign, and was buried there. His mausoleum, built in the early 1950s for the thousandth anniversary of his birth by the Islamic calendar, has a tall tower inspired by the ancient brick tower of Gonbad-e Qabus.\n\nIranians usually call him [[بوعلی سینا|Bu-'Ali Sinā]] or [[شیخ‌الرئیس|Sheykh-or-ra'is|the Chief Master]]. Hospitals, schools and a university in Hamadan bear his name, and his birthday, 1 Shahrivar (23 August), is [[روز پزشک|ruz-e pezeshk|Doctors' Day]] in Iran.",
+   "image": "avicenna-mausoleum"
+  }
+ ],
+ "sentences": [
+  {"fa": "ابن سینا در سال ۹۸۰ میلادی نزدیک بخارا به دنیا آمد.", "r": "Ebn-e Sinā dar sāl-e nohsad-o-hashtād-e milādi nazdik-e Bokhārā be donyā āmad.", "en": "Avicenna was born near Bukhara in 980 AD."},
+  {"fa": "پدرش در دولت سامانیان کار می‌کرد.", "r": "pedar-ash dar dowlat-e Sāmāniyān kār mi-kard.", "en": "His father worked for the Samanid government."},
+  {"fa": "او در جوانی پزشک مشهوری شد.", "r": "u dar javāni pezeshk-e mashhur-i shod.", "en": "He became a famous doctor while still young."},
+  {"fa": "ابن سینا امیر سامانی را درمان کرد.", "r": "Ebn-e Sinā amir-e Sāmāni rā darmān kard.", "en": "Avicenna cured the Samanid emir."},
+  {"fa": "امیر به او اجازه داد از کتابخانه‌ی سلطنتی استفاده کند.", "r": "amir be u ejāze dād az ketābkhāne-ye saltanati estefāde konad.", "en": "The emir allowed him to use the royal library."},
+  {"fa": "مهم‌ترین کتاب پزشکی او «قانون» نام دارد.", "r": "mohem-tarin ketāb-e pezeshki-ye u «Ghānun» nām dārad.", "en": "His most important medical book is called 'The Canon'."},
+  {"fa": "کتاب قانون صدها سال در اروپا تدریس می‌شد.", "r": "ketāb-e Ghānun sad-hā sāl dar Orupā tadris mi-shod.", "en": "The Canon was taught in Europe for hundreds of years."},
+  {"fa": "«شفا» یک دانشنامه‌ی بزرگ فلسفه و علم است.", "r": "«Shefā» yek dāneshnāme-ye bozorg-e falsafe va 'elm ast.", "en": "The Shefa is a large encyclopedia of philosophy and science."},
+  {"fa": "او بیشتر کتاب‌هایش را به عربی نوشت.", "r": "u bish-tar-e ketāb-hā-yash rā be 'arabi nevesht.", "en": "He wrote most of his books in Arabic."},
+  {"fa": "«دانشنامه‌ی علایی» را به فارسی نوشت.", "r": "«Dāneshnāme-ye 'Alā'i» rā be fārsi nevesht.", "en": "He wrote the Daneshnameh-ye Alai in Persian."},
+  {"fa": "ابن سینا در همدان درگذشت.", "r": "Ebn-e Sinā dar Hamedān dargozasht.", "en": "Avicenna died in Hamadan."},
+  {"fa": "در ایران روز تولد ابن سینا روز پزشک است.", "r": "dar Irān ruz-e tavallod-e Ebn-e Sinā ruz-e pezeshk ast.", "en": "In Iran, Avicenna's birthday is Doctors' Day."}
+ ],
+ "vocab": [
+  {"fa": "پزشک", "r": "pezeshk", "en": "doctor, physician"},
+  {"fa": "پزشکی", "r": "pezeshki", "en": "medicine (the science); medical"},
+  {"fa": "دارو", "r": "dāru", "en": "medicine, drug"},
+  {"fa": "بیمار", "r": "bimār", "en": "ill; patient"},
+  {"fa": "بیماری", "r": "bimāri", "en": "illness, disease"},
+  {"fa": "درمان", "r": "darmān", "en": "treatment, cure"},
+  {"fa": "درمان کردن", "r": "darmān kardan", "en": "to treat, to cure"},
+  {"fa": "فیلسوف", "r": "filsuf", "en": "philosopher"},
+  {"fa": "فلسفه", "r": "falsafe", "en": "philosophy"},
+  {"fa": "دانشمند", "r": "dāneshmand", "en": "scientist, scholar"},
+  {"fa": "کتابخانه", "r": "ketābkhāne", "en": "library"},
+  {"fa": "شفا", "r": "shefā", "en": "healing, cure"},
+  {"fa": "قانون", "r": "ghānun", "en": "law; canon"},
+  {"fa": "دانشنامه", "r": "dāneshnāme", "en": "encyclopedia"},
+  {"fa": "امیر", "r": "amir", "en": "emir, prince"},
+  {"fa": "وزیر", "r": "vazir", "en": "minister, vizier"},
+  {"fa": "زندان", "r": "zendān", "en": "prison"},
+  {"fa": "تولد", "r": "tavallod", "en": "birth; birthday"}
+ ],
+ "facts": [
+  "Ibn Sina was born around 980 near Bukhara and died in Hamadan in 1037.",
+  "The Canon of Medicine, finished around 1025, has five books; its Latin translation was printed many times in Renaissance Europe.",
+  "In his autobiography he says he read Aristotle's Metaphysics forty times before a commentary by al-Farabi made it clear to him.",
+  "Well over a hundred works are attributed to him, most of them in Arabic.",
+  "1 Shahrivar (23 August), his birthday, is Doctors' Day in Iran.",
+  "His mausoleum in Hamadan, built in the early 1950s, has a tower modelled on Gonbad-e Qabus.",
+  "His title Sheykh-or-ra'is means 'the chief master'."
+ ]
+}

@@ -74,14 +74,17 @@ Read real texts, follow the news, argue a point, understand idioms and proverbs 
 5. [If only: unreal conditions, wishes and regrets](lessons/b1-05-if-only.md) — کاش می‌دانستم
 6. [Building words: suffixes and prefixes](lessons/b1-06-building-words.md) — پسوندها و پیشوندها
 7. [Arabic in Persian: roots, plurals and tanvin](lessons/b1-07-arabic-in-persian.md) — عربی در فارسی
+8. [Formal and informal: registers and respect](lessons/b1-08-formal-and-informal.md) — رسمی و خودمانی
 12. [First steps in poetry: reading a classical poem](lessons/b1-12-first-steps-in-poetry.md) — نخستین گام‌ها در شعر
 13. [Telling a story: three past tenses together](lessons/b1-13-telling-a-story.md) — یکی بود یکی نبود
+14. [Debate: agreeing, conceding and disagreeing politely](lessons/b1-14-debate.md) — قبول دارم، ولی…
 
 ## Part 5. Upper intermediate (B2) — پیشرفته
 
 Classical poetry, literary prose, the history of the language, dialects and Dari and Tajik – and the fine points that make Persian sound Persian.
 
 1. [Hafez: the first ghazal](lessons/b2-01-hafez.md) — حافظ و نخستین غزل دیوان
+2. [Rumi and the reed](lessons/b2-02-rumi-and-the-reed.md) — مولانا و نی‌نامه
 
 ## Part 6. Stories — داستان‌ها
 
@@ -129,6 +132,8 @@ Graded readers, from very easy to literary.
 - [Rostam and the White Demon](stories/b2-rostam-and-the-white-demon.md) — رستم و دیو سپید
 - [The Conference of the Birds](stories/b2-the-conference-of-the-birds.md) — سی مرغ و سیمرغ
 - [The tent-maker of Nishapur](stories/b2-the-tent-maker-of-nishapur.md) — خیمه‌دوز نیشابور
+- [Ferdowsi and the Sultan](stories/b2-ferdowsi-and-the-sultan.md) — فردوسی و سلطان
+- [The blind owl of the bazaar](stories/b2-the-blind-owl-of-the-bazaar.md) — بوف کور بازار
 
 ## Part 7. Iran in pictures and stories — فرهنگ ایران
 
@@ -208,6 +213,12 @@ Graded readers, from very easy to literary.
 - [The Shahnameh](culture/arts-shahnameh.md) — شاهنامه
 - [Gardens and water](culture/arts-gardens-and-water.md) — باغ و آب
 
+**People**
+
+- [Cyrus the Great](culture/people-cyrus-the-great.md) — کوروش بزرگ
+- [Ferdowsi](culture/people-ferdowsi.md) — فردوسی
+- [Avicenna](culture/people-avicenna.md) — ابن سینا
+
 **Everyday life**
 
 - [A day in Tehran](culture/life-a-day-in-tehran.md) — یک روز در تهران
@@ -215,10 +226,17 @@ Graded readers, from very easy to literary.
 - [Family](culture/life-family.md) — خانواده
 - [School and university](culture/life-school-and-university.md) — مدرسه و دانشگاه
 - [The nomads](culture/life-nomads.md) — عشایر ایران
+- [Sport](culture/life-sport.md) — ورزش
+- [Money and shopping](culture/life-money-and-shopping.md) — پول و خرید
+- [Getting around](culture/life-transport.md) — حمل و نقل
+- [Tea houses and cafés](culture/life-tea-houses-and-cafes.md) — قهوه‌خانه و کافه
 
 ## Part 8. Poetry — شعر
 
 - [Children of Adam](poetry/saadi-bani-adam.md) — Saadi
+- [The Song of the Reed](poetry/rumi-ney-name.md) — Rumi
+- [Come, cupbearer](poetry/hafez-ala-ya-ayyoha-saghi.md) — Hafez
+- [Whoever knows is strong](poetry/ferdowsi-tavana-bovad.md) — Ferdowsi
 
 ## Part 9. Reference
 

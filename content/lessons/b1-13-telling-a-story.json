@@ -24,72 +24,100 @@
      "fa": "یکی بود یکی نبود، غیر از خدا هیچ‌کس نبود.",
      "r": "yek-i bud yek-i na-bud, gheyr az khodā hich-kas na-bud.",
      "en": "Once upon a time – there was one, there wasn't one, there was nobody but God.",
-     "lit": "one was, one was not; other than God nobody was"
+     "lit": "one was, one was not; other than God nobody was",
+     "faV": "یِکی بود یِکی نَبود، غَیر اَز خُدا هیچ‌کَس نَبود.",
+     "a": "30efae46f7e7"
     },
     {
      "fa": "در زمان‌های قدیم، بازرگانی بود که طوطی زیبایی در قفس داشت.",
      "r": "dar zamān-hā-ye ghadim, bāzargān-i bud ke tuti-ye zibā-yi dar ghafas dāsht.",
-     "en": "Long ago there was a merchant who kept a beautiful parrot in a cage."
+     "en": "Long ago there was a merchant who kept a beautiful parrot in a cage.",
+     "faV": "دَر زَمان‌هایِ قَدیم، بازَرگانی بود که طوطیِ زیبایی دَر قَفَس داشت.",
+     "a": "c9db6c7defcd"
     },
     {
      "fa": "طوطی را سال‌ها پیش از هندوستان آورده بودند و او خیلی شیرین حرف می‌زد.",
      "r": "tuti rā sāl-hā pish az Hendustān āvarde budand va u kheyli shirin harf mi-zad.",
-     "en": "The parrot had been brought from India years before, and it talked very sweetly."
+     "en": "The parrot had been brought from India years before, and it talked very sweetly.",
+     "faV": "طوطی را سال‌ها پیش اَز هِندوستان آوَرده بودَند و او خَیلی شیرین حَرف می‌زَد.",
+     "a": "419b29793f76"
     },
     {
      "fa": "یک روز بازرگان داشت برای سفری به هندوستان آماده می‌شد.",
      "r": "yek ruz bāzargān dāsht barā-ye safar-i be Hendustān āmāde mi-shod.",
-     "en": "One day the merchant was getting ready for a journey to India."
+     "en": "One day the merchant was getting ready for a journey to India.",
+     "faV": "یِک روز بازَرگان داشت بَرایِ سَفَری به هِندوستان آماده می‌شُد.",
+     "a": "fa6d19da0ede"
     },
     {
      "fa": "پیش از آن‌که راه بیفتد، از طوطی پرسید: «از هندوستان چه سوغاتی برایت بیاورم؟»",
      "r": "pish az ān-ke rāh biyoftad, az tuti porsid: «az Hendustān che sowghāti barā-yat biyāvaram?»",
-     "en": "Before he set off, he asked the parrot: 'What present shall I bring you from India?'"
+     "en": "Before he set off, he asked the parrot: 'What present shall I bring you from India?'",
+     "faV": "پیش اَز آن‌که راه بیُفتَد، اَز طوطی پُرسید: «اَز هِندوستان چه سَوغاتی بَرایَت بیاوَرَم؟»",
+     "a": "95b897a14fa8"
     },
     {
      "fa": "طوطی گفت: «سوغاتی نمی‌خواهم؛ فقط به طوطی‌های هندوستان بگو که دوستتان در قفس است.»",
      "r": "tuti goft: «sowghāti nemi-khāham; faghat be tuti-hā-ye Hendustān begu ke dust-etān dar ghafas ast.»",
-     "en": "The parrot said: 'I don't want a present; just tell the parrots of India that their friend is in a cage.'"
+     "en": "The parrot said: 'I don't want a present; just tell the parrots of India that their friend is in a cage.'",
+     "faV": "طوطی گُفت: «سَوغاتی نِمی‌خواهَم؛ فَقَط به طوطی‌هایِ هِندوستان بِگو که دوستِتان دَر قَفَس اَست.»",
+     "a": "63f8a2847ebc"
     },
     {
      "fa": "بازرگان مدتی در هندوستان خرید و فروش کرد، تا این‌که یک روز به جنگلی رسید.",
      "r": "bāzargān moddat-i dar Hendustān kharid o forush kard, tā in-ke yek ruz be jangal-i resid.",
-     "en": "The merchant traded in India for a while, until one day he came to a forest."
+     "en": "The merchant traded in India for a while, until one day he came to a forest.",
+     "faV": "بازَرگان مُدَّتی دَر هِندوستان خَرید و فُروش کَرد، تا این‌که یِک روز به جَنگَلی رِسید.",
+     "a": "103dd1c74776"
     },
     {
      "fa": "چند طوطی روی شاخه‌های درختی نشسته بودند و آواز می‌خواندند.",
      "r": "chand tuti ru-ye shākhe-hā-ye derakht-i neshaste budand va āvāz mi-khāndand.",
-     "en": "A few parrots were sitting on the branches of a tree, singing."
+     "en": "A few parrots were sitting on the branches of a tree, singing.",
+     "faV": "چَند طوطی رویِ شاخه‌هایِ دِرَختی نِشَسته بودَند و آواز می‌خواندَند.",
+     "a": "49a08935d394"
     },
     {
      "fa": "همین که بازرگان پیغام را گفت، یکی از طوطی‌ها لرزید، از درخت افتاد و مرد.",
      "r": "hamin ke bāzargān peyghām rā goft, yek-i az tuti-hā larzid, az derakht oftād va mord.",
-     "en": "As soon as the merchant gave the message, one of the parrots trembled, fell from the tree and died."
+     "en": "As soon as the merchant gave the message, one of the parrots trembled, fell from the tree and died.",
+     "faV": "هَمین که بازَرگان پَیغام را گُفت، یِکی اَز طوطی‌ها لَرزید، اَز دِرَخت اُفتاد و مُرد.",
+     "a": "1e941e22d0a6"
     },
     {
      "fa": "بعد از این‌که بازرگان به خانه برگشت، با ناراحتی ماجرا را برای طوطی خودش تعریف کرد.",
      "r": "ba'd az in-ke bāzargān be khāne bar-gasht, bā nārāhati mājarā rā barā-ye tuti-ye khod-ash ta'rif kard.",
-     "en": "After the merchant got home, he sadly told the whole story to his own parrot."
+     "en": "After the merchant got home, he sadly told the whole story to his own parrot.",
+     "faV": "بَعد اَز این‌که بازَرگان به خانه بَرگَشت، با ناراحَتی ماجَرا را بَرایِ طوطیِ خودَش تَعریف کَرد.",
+     "a": "0f2129efeb1e"
     },
     {
      "fa": "ناگهان طوطی در قفس لرزید، افتاد و دیگر تکان نخورد.",
      "r": "nāgahān tuti dar ghafas larzid, oftād va digar tekān na-khord.",
-     "en": "Suddenly the parrot trembled in its cage, fell, and did not move again."
+     "en": "Suddenly the parrot trembled in its cage, fell, and did not move again.",
+     "faV": "ناگَهان طوطی دَر قَفَس لَرزید، اُفتاد و دیگَر تِکان نَخورد.",
+     "a": "2d1526d17bd4"
     },
     {
      "fa": "وقتی که بازرگان با چشم گریان طوطی را از قفس بیرون انداخت، طوطی پرید و روی دیوار نشست.",
      "r": "vaghti ke bāzargān bā cheshm-e geryān tuti rā az ghafas birun andākht, tuti parid va ru-ye divār neshast.",
-     "en": "When the merchant, in tears, threw the parrot out of the cage, the parrot flew up and sat on the wall."
+     "en": "When the merchant, in tears, threw the parrot out of the cage, the parrot flew up and sat on the wall.",
+     "faV": "وَقتی که بازَرگان با چِشمِ گِریان طوطی را اَز قَفَس بیرون اَنداخت، طوطی پَرید و رویِ دیوار نِشَست.",
+     "a": "899f47eb8847"
     },
     {
      "fa": "طوطی گفت: «آن طوطی هندی نمرده بود؛ او به من یاد داد که چطور آزاد شوم.»",
      "r": "tuti goft: «ān tuti-ye hendi na-morde bud; u be man yād dād ke chetor āzād shavam.»",
-     "en": "The parrot said: 'That Indian parrot hadn't died; it taught me how to be free.'"
+     "en": "The parrot said: 'That Indian parrot hadn't died; it taught me how to be free.'",
+     "faV": "طوطی گُفت: «آن طوطیِ هِندی نَمُرده بود؛ او به مَن یاد داد که چِطور آزاد شَوَم.»",
+     "a": "11906262b0be"
     },
     {
      "fa": "سرانجام خداحافظی کرد و به سوی هندوستان پرواز کرد.",
      "r": "saranjām khodāhāfezi kard va be su-ye Hendustān parvāz kard.",
-     "en": "In the end it said goodbye and flew away towards India."
+     "en": "In the end it said goodbye and flew away towards India.",
+     "faV": "سَراَنجام خُداحافِظی کَرد و به سویِ هِندوستان پَرواز کَرد.",
+     "a": "0a15d7bc62fb"
     }
    ],
    "questions": [
@@ -136,7 +164,9 @@
      "r": "ghesse",
      "en": "story, tale",
      "pos": "n",
-     "note": "also داستان (dāstān); قصه گفتن to tell a story"
+     "note": "also داستان (dāstān); قصه گفتن to tell a story",
+     "faV": "قِصّه",
+     "a": "abc9e60a9767"
     },
     {
      "fa": "تعریف کردن",
@@ -146,14 +176,20 @@
      "ex": {
       "fa": "ماجرا را برایم تعریف کن.",
       "r": "mājarā rā barā-yam ta'rif kon.",
-      "en": "Tell me what happened."
-     }
+      "en": "Tell me what happened.",
+      "faV": "ماجَرا را بَرایَم تَعریف کُن.",
+      "a": "73f1a418aaf3"
+     },
+     "faV": "تَعریف کَردَن",
+     "a": "0b99a18d53d4"
     },
     {
      "fa": "ماجرا",
      "r": "mājarā",
      "en": "what happened, the whole story; adventure",
-     "pos": "n"
+     "pos": "n",
+     "faV": "ماجَرا",
+     "a": "c4a801610ebb"
     },
     {
      "fa": "اتفاق افتادن",
@@ -163,38 +199,52 @@
      "ex": {
       "fa": "دیشب چه اتفاقی افتاد؟",
       "r": "dishab che ettefāgh-i oftād?",
-      "en": "What happened last night?"
-     }
+      "en": "What happened last night?",
+      "faV": "دیشَب چه اِتِّفاقی اُفتاد؟",
+      "a": "8c122b07fe17"
+     },
+     "faV": "اِتِّفاق اُفتادَن",
+     "a": "4a6429a2f271"
     },
     {
      "fa": "بازرگان",
      "r": "bāzargān",
      "en": "merchant",
-     "pos": "n"
+     "pos": "n",
+     "faV": "بازَرگان",
+     "a": "3df2414bccdd"
     },
     {
      "fa": "طوطی",
      "r": "tuti",
      "en": "parrot",
-     "pos": "n"
+     "pos": "n",
+     "faV": "طوطی",
+     "a": "9863358dc03b"
     },
     {
      "fa": "قفس",
      "r": "ghafas",
      "en": "cage",
-     "pos": "n"
+     "pos": "n",
+     "faV": "قَفَس",
+     "a": "7319da07d089"
     },
     {
      "fa": "سوغاتی",
      "r": "sowghāti",
      "en": "a present brought back from a journey",
-     "pos": "n"
+     "pos": "n",
+     "faV": "سَوغاتی",
+     "a": "2b086c773843"
     },
     {
      "fa": "پیغام",
      "r": "peyghām",
      "en": "message",
-     "pos": "n"
+     "pos": "n",
+     "faV": "پَیغام",
+     "a": "6a9db16d534f"
     },
     {
      "fa": "راه افتادن",
@@ -204,32 +254,44 @@
      "ex": {
       "fa": "ساعت شش صبح راه افتادیم.",
       "r": "sā'at-e shesh-e sobh rāh oftādim.",
-      "en": "We set off at six in the morning."
-     }
+      "en": "We set off at six in the morning.",
+      "faV": "ساعَتِ شِشِ صُبح راه اُفتادیم.",
+      "a": "c4e9f324a198"
+     },
+     "faV": "راه اُفتادَن",
+     "a": "fe706587363f"
     },
     {
      "fa": "لرزیدن",
      "r": "larzidan",
      "en": "to tremble, to shiver",
-     "pos": "v"
+     "pos": "v",
+     "faV": "لَرزیدَن",
+     "a": "fb76c20a6193"
     },
     {
      "fa": "تکان خوردن",
      "r": "tekān khordan",
      "en": "to move, to stir",
-     "pos": "v"
+     "pos": "v",
+     "faV": "تِکان خوردَن",
+     "a": "ab7781c9aa8b"
     },
     {
      "fa": "پرواز کردن",
      "r": "parvāz kardan",
      "en": "to fly",
-     "pos": "v"
+     "pos": "v",
+     "faV": "پَرواز کَردَن",
+     "a": "6b8aa58a3ffc"
     },
     {
      "fa": "آزاد",
      "r": "āzād",
      "en": "free",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "آزاد",
+     "a": "d92d7218c843"
     },
     {
      "fa": "پشیمان",
@@ -239,58 +301,78 @@
      "ex": {
       "fa": "از حرفم پشیمانم.",
       "r": "az harf-am pashimān-am.",
-      "en": "I regret what I said."
-     }
+      "en": "I regret what I said.",
+      "faV": "اَز حَرفَم پَشیمانَم.",
+      "a": "44d17ca70535"
+     },
+     "faV": "پَشیمان",
+     "a": "49f7f7922c11"
     },
     {
      "fa": "همین که",
      "r": "hamin ke",
      "en": "as soon as",
-     "pos": "conj"
+     "pos": "conj",
+     "faV": "هَمین که",
+     "a": "81320b6c6bec"
     },
     {
      "fa": "تا این‌که",
      "r": "tā in-ke",
      "en": "until (at last)",
-     "pos": "conj"
+     "pos": "conj",
+     "faV": "تا این‌که",
+     "a": "3a0888705e2f"
     },
     {
      "fa": "پیش از آن‌که",
      "r": "pish az ān-ke",
      "en": "before (+ subjunctive)",
      "pos": "conj",
-     "note": "spoken قبل از این‌که (ghabl az in-ke)"
+     "note": "spoken قبل از این‌که (ghabl az in-ke)",
+     "faV": "پیش اَز آن‌که",
+     "a": "a72506c06753"
     },
     {
      "fa": "بعد از این‌که",
      "r": "ba'd az in-ke",
      "en": "after",
-     "pos": "conj"
+     "pos": "conj",
+     "faV": "بَعد اَز این‌که",
+     "a": "85ecb2c10883"
     },
     {
      "fa": "سرانجام",
      "r": "saranjām",
      "en": "finally, in the end",
      "pos": "adv",
-     "note": "spoken بالاخره (bālākhare) or آخرش (ākhar-esh)"
+     "note": "spoken بالاخره (bālākhare) or آخرش (ākhar-esh)",
+     "faV": "سَراَنجام",
+     "a": "0d5fc4081c2c"
     },
     {
      "fa": "جاده",
      "r": "jādde",
      "en": "road (between towns)",
-     "pos": "n"
+     "pos": "n",
+     "faV": "جادّه",
+     "a": "f74af9c695db"
     },
     {
      "fa": "چراغ‌قوه",
      "r": "cherāgh-ghove",
      "en": "torch, flashlight",
-     "pos": "n"
+     "pos": "n",
+     "faV": "چِراغ‌قُوه",
+     "a": "3e391a727958"
     },
     {
      "fa": "مهمان‌نواز",
      "r": "mehmān-navāz",
      "en": "hospitable",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "مِهمان‌نَواز",
+     "a": "fbcd92afd983"
     },
     {
      "fa": "سر زدن",
@@ -300,8 +382,12 @@
      "ex": {
       "fa": "هر هفته به مادربزرگم سر می‌زنم.",
       "r": "har hafte be mādar-bozorg-am sar mi-zanam.",
-      "en": "I drop in on my grandmother every week."
-     }
+      "en": "I drop in on my grandmother every week.",
+      "faV": "هَر هَفته به مادَربُزُرگَم سَر می‌زَنَم.",
+      "a": "13c4497188e0"
+     },
+     "faV": "سَر زَدَن",
+     "a": "26327e0c33fa"
     }
    ]
   },
@@ -379,38 +465,58 @@
      "r": "vaghti be istgāh residam, ghatār rafte bud.",
      "en": "When I got to the station, the train had gone.",
      "col": "وقتی رسیدم ایستگاه، قطار رفته بود.",
-     "colR": "vaghti residam istgāh, ghatār rafte bud."
+     "colR": "vaghti residam istgāh, ghatār rafte bud.",
+     "faV": "وَقتی به ایستگاه رِسیدَم، قَطار رَفته بود.",
+     "a": "5a5fe01b19cb",
+     "colV": "وَقتی رِسیدَم ایستگاه، قَطار رَفته بود.",
+     "colA": "73aa68cbef4f"
     },
     {
      "fa": "سارا قبلاً هیچ‌وقت دریا ندیده بود.",
      "r": "Sārā ghablan hich-vaght daryā na-dide bud.",
-     "en": "Sara had never seen the sea before."
+     "en": "Sara had never seen the sea before.",
+     "faV": "سارا قَبلاً هیچ‌وَقت دَریا نَدیده بود.",
+     "a": "16aa90210fa4"
     },
     {
      "fa": "بازرگان پشیمان شد که آن پیغام را رسانده بود.",
      "r": "bāzargān pashimān shod ke ān peyghām rā resānde bud.",
-     "en": "The merchant was sorry that he had delivered the message."
+     "en": "The merchant was sorry that he had delivered the message.",
+     "faV": "بازَرگان پَشیمان شُد که آن پَیغام را رِسانده بود.",
+     "a": "3b79069935e3"
     },
     {
      "fa": "مهمان‌ها رفته بودند و خانه ساکت بود.",
      "r": "mehmān-hā rafte budand va khāne sāket bud.",
      "en": "The guests had left and the house was quiet.",
      "col": "مهمونا رفته بودن و خونه ساکت بود.",
-     "colR": "mehmun-ā rafte budan o khune sāket bud."
+     "colR": "mehmun-ā rafte budan o khune sāket bud.",
+     "faV": "مِهمان‌ها رَفته بودَند و خانه ساکِت بود.",
+     "a": "e32759f22034",
+     "colV": "مِهمونا رَفته بودَن و خونه ساکِت بود.",
+     "colA": "d8f3816a43c3"
     },
     {
      "fa": "تا آن روز به کسی دروغ نگفته بودم.",
      "r": "tā ān ruz be kas-i dorugh na-gofte budam.",
      "en": "Until that day I had never lied to anyone.",
      "col": "تا اون روز به کسی دروغ نگفته بودم.",
-     "colR": "tā un ruz be kas-i dorugh na-gofte budam."
+     "colR": "tā un ruz be kas-i dorugh na-gofte budam.",
+     "faV": "تا آن روز به کَسی دُروغ نَگُفته بودَم.",
+     "a": "a0fa3e4857dd",
+     "colV": "تا اون روز به کَسی دُروغ نَگُفته بودَم.",
+     "colA": "2ea426d1f11d"
     },
     {
      "fa": "امیر شام را درست کرده بود، ولی کسی گرسنه نبود.",
      "r": "Amir shām rā dorost karde bud, vali kas-i gorosne na-bud.",
      "en": "Amir had made dinner, but nobody was hungry.",
      "col": "امیر شامو درست کرده بود، ولی کسی گشنه نبود.",
-     "colR": "Amir shām-o dorost karde bud, vali kas-i goshne na-bud."
+     "colR": "Amir shām-o dorost karde bud, vali kas-i goshne na-bud.",
+     "faV": "اَمیر شام را دُرُست کَرده بود، وَلی کَسی گُرُسنه نَبود.",
+     "a": "dd5bde2c4e2e",
+     "colV": "اَمیر شامو دُرُست کَرده بود، وَلی کَسی گُشنه نَبود.",
+     "colA": "bfdaeadb3c3a"
     },
     {
      "fa": "در را باز کردم؛ کسی پشت در ایستاده بود.",
@@ -418,7 +524,11 @@
      "en": "I opened the door; someone was standing behind it.",
      "col": "درو باز کردم؛ یکی پشت در وایساده بود.",
      "colR": "dar-o bāz kardam; yek-i posht-e dar vāysāde bud.",
-     "note": "A position verb: [[ایستاده بود|istāde bud]] = *was standing*. Spoken Persian uses [[وایسادن|vāysādan]] for ایستادن."
+     "note": "A position verb: [[ایستاده بود|istāde bud]] = *was standing*. Spoken Persian uses [[وایسادن|vāysādan]] for ایستادن.",
+     "faV": "دَر را باز کَردَم؛ کَسی پُشتِ دَر ایستاده بود.",
+     "a": "c586928162ee",
+     "colV": "دَرو باز کَردَم؛ یِکی پُشتِ دَر وایساده بود.",
+     "colA": "07c4c3a890d0"
     }
    ]
   },
@@ -464,45 +574,67 @@
     {
      "fa": "داشتم می‌خوابیدم که تلفن زنگ زد.",
      "r": "dāshtam mi-khābidam ke telefon zang zad.",
-     "en": "I was falling asleep when the phone rang."
+     "en": "I was falling asleep when the phone rang.",
+     "faV": "داشتَم می‌خوابیدَم که تِلِفُن زَنگ زَد.",
+     "a": "114f8fbefd55"
     },
     {
      "fa": "باران می‌بارید و خیابان‌ها خلوت بود.",
      "r": "bārān mi-bārid va khiyābān-hā khalvat bud.",
      "en": "It was raining and the streets were empty.",
      "col": "بارون می‌بارید و خیابونا خلوت بود.",
-     "colR": "bārun mi-bārid o khiyābun-ā khalvat bud."
+     "colR": "bārun mi-bārid o khiyābun-ā khalvat bud.",
+     "faV": "باران می‌بارید و خیابان‌ها خَلوَت بود.",
+     "a": "7a5dea841c46",
+     "colV": "بارون می‌بارید و خیابونا خَلوَت بود.",
+     "colA": "7ff203668802"
     },
     {
      "fa": "وقتی رسیدیم، فیلم شروع شده بود.",
      "r": "vaghti residim, film shoru' shode bud.",
-     "en": "When we arrived, the film had started."
+     "en": "When we arrived, the film had started.",
+     "faV": "وَقتی رِسیدیم، فیلم شُروع شُده بود.",
+     "a": "c216136d5e1c"
     },
     {
      "fa": "مینا تازه از سفر برگشته بود و خیلی خسته بود.",
      "r": "Minā tāze az safar bar-gashte bud va kheyli khaste bud.",
-     "en": "Mina had just come back from a trip and was very tired."
+     "en": "Mina had just come back from a trip and was very tired.",
+     "faV": "مینا تازه اَز سَفَر بَرگَشته بود و خَیلی خَسته بود.",
+     "a": "330636466933"
     },
     {
      "fa": "بچه که بودم، هر تابستان به خانه‌ی مادربزرگم می‌رفتیم.",
      "r": "bacche ke budam, har tābestān be khāne-ye mādar-bozorg-am mi-raftim.",
      "en": "When I was a child, we used to go to my grandmother's every summer.",
      "col": "بچه که بودم، هر تابستون می‌رفتیم خونه‌ی مادربزرگم.",
-     "colR": "bacche ke budam, har tābestun mi-raftim khune-ye mādar-bozorg-am."
+     "colR": "bacche ke budam, har tābestun mi-raftim khune-ye mādar-bozorg-am.",
+     "faV": "بَچّه که بودَم، هَر تابِستان به خانه‌یِ مادَربُزُرگَم می‌رَفتیم.",
+     "a": "f0c2a858da7c",
+     "colV": "بَچّه که بودَم، هَر تابِستون می‌رَفتیم خونه‌یِ مادَربُزُرگَم.",
+     "colA": "1d622da36d9d"
     },
     {
      "fa": "آقای کریمی کلیدش را گم کرده بود، برای همین پشت در ماند.",
      "r": "āghā-ye Karimi kelid-ash rā gom karde bud, barā-ye hamin posht-e dar mānd.",
      "en": "Mr Karimi had lost his key, so he was stuck outside the door.",
      "col": "آقای کریمی کلیدشو گم کرده بود، واسه همین پشت در موند.",
-     "colR": "āghā-ye Karimi kelid-esh-o gom karde bud, vāse hamin posht-e dar mund."
+     "colR": "āghā-ye Karimi kelid-esh-o gom karde bud, vāse hamin posht-e dar mund.",
+     "faV": "آقایِ کَریمی کِلیدَش را گُم کَرده بود، بَرایِ هَمین پُشتِ دَر ماند.",
+     "a": "3b8161de1b02",
+     "colV": "آقایِ کَریمی کِلیدِشو گُم کَرده بود، واسه هَمین پُشتِ دَر موند.",
+     "colA": "d89aac36b1f9"
     },
     {
      "fa": "همه منتظر بودند، ولی عروس هنوز نیامده بود.",
      "r": "hame montazer budand, vali 'arus hanuz na-yāmade bud.",
      "en": "Everyone was waiting, but the bride hadn't arrived yet.",
      "col": "همه منتظر بودن، ولی عروس هنوز نیومده بود.",
-     "colR": "hame montazer budan, vali 'arus hanuz na-yumade bud."
+     "colR": "hame montazer budan, vali 'arus hanuz na-yumade bud.",
+     "faV": "هَمه مُنتَظِر بودَند، وَلی عَروس هَنوز نَیامَده بود.",
+     "a": "b18e1d7c313b",
+     "colV": "هَمه مُنتَظِر بودَن، وَلی عَروس هَنوز نَیومَده بود.",
+     "colA": "6548903da78c"
     }
    ]
   },
@@ -581,49 +713,77 @@
      "en": "Before the guests arrived, we cleaned the house.",
      "col": "قبل از این‌که مهمونا برسن، خونه رو تمیز کردیم.",
      "colR": "ghabl az in-ke mehmun-ā beresan, khune ro tamiz kardim.",
-     "note": "Subjunctive [[برسند|beresand]], although the whole sentence is in the past."
+     "note": "Subjunctive [[برسند|beresand]], although the whole sentence is in the past.",
+     "faV": "پیش اَز آن‌که مِهمان‌ها بِرِسَند، خانه را تَمیز کَردیم.",
+     "a": "0166242a68f7",
+     "colV": "قَبل اَز این‌که مِهمونا بِرِسَن، خونه رو تَمیز کَردیم.",
+     "colA": "81f7082c0be4"
     },
     {
      "fa": "بعد از این‌که شام خوردیم، پدربزرگ قصه گفت.",
      "r": "ba'd az in-ke shām khordim, pedar-bozorg ghesse goft.",
      "en": "After we had dinner, Grandfather told a story.",
      "col": "بعد از این‌که شام خوردیم، بابابزرگ قصه گفت.",
-     "colR": "ba'd az in-ke shām khordim, bābā-bozorg ghesse goft."
+     "colR": "ba'd az in-ke shām khordim, bābā-bozorg ghesse goft.",
+     "faV": "بَعد اَز این‌که شام خوردیم، پِدَربُزُرگ قِصّه گُفت.",
+     "a": "f6d7f2a7c102",
+     "colV": "بَعد اَز این‌که شام خوردیم، بابابُزُرگ قِصّه گُفت.",
+     "colA": "bd39d63c2f6d"
     },
     {
      "fa": "همین که در را باز کردم، گربه فرار کرد.",
      "r": "hamin ke dar rā bāz kardam, gorbe farār kard.",
      "en": "As soon as I opened the door, the cat ran away.",
      "col": "تا درو باز کردم، گربه فرار کرد.",
-     "colR": "tā dar-o bāz kardam, gorbe farār kard."
+     "colR": "tā dar-o bāz kardam, gorbe farār kard.",
+     "faV": "هَمین که دَر را باز کَردَم، گُربه فَرار کَرد.",
+     "a": "45ebe23342bf",
+     "colV": "تا دَرو باز کَردَم، گُربه فَرار کَرد.",
+     "colA": "abab5b242590"
     },
     {
      "fa": "یک ساعت منتظر ماندیم، تا این‌که بالاخره اتوبوس آمد.",
      "r": "yek sā'at montazer māndim, tā in-ke bālākhare otobus āmad.",
      "en": "We waited for an hour, until at last the bus came.",
      "col": "یه ساعت منتظر موندیم، تا این‌که بالاخره اتوبوس اومد.",
-     "colR": "ye sā'at montazer mundim, tā in-ke bālākhare otobus umad."
+     "colR": "ye sā'at montazer mundim, tā in-ke bālākhare otobus umad.",
+     "faV": "یِک ساعَت مُنتَظِر ماندیم، تا این‌که بالاخَره اُتوبوس آمَد.",
+     "a": "977a960afc51",
+     "colV": "یه ساعَت مُنتَظِر موندیم، تا این‌که بالاخَره اُتوبوس اومَد.",
+     "colA": "068927e553cb"
     },
     {
      "fa": "داشتیم در پارک قدم می‌زدیم که ناگهان باران گرفت.",
      "r": "dāshtim dar pārk ghadam mi-zadim ke nāgahān bārān gereft.",
      "en": "We were walking in the park when suddenly it started to rain.",
      "col": "داشتیم تو پارک قدم می‌زدیم که یهو بارون گرفت.",
-     "colR": "dāshtim tu pārk ghadam mi-zadim ke yeho bārun gereft."
+     "colR": "dāshtim tu pārk ghadam mi-zadim ke yeho bārun gereft.",
+     "faV": "داشتیم دَر پارک قَدَم می‌زَدیم که ناگَهان باران گِرِفت.",
+     "a": "de28ac81eff2",
+     "colV": "داشتیم تو پارک قَدَم می‌زَدیم که یِهو بارون گِرِفت.",
+     "colA": "9099776abe52"
     },
     {
      "fa": "وقتی که تام به تهران آمد، یک کلمه فارسی بلد نبود.",
      "r": "vaghti ke Tām be Tehrān āmad, yek kalame fārsi balad na-bud.",
      "en": "When Tom came to Tehran, he didn't know a word of Persian.",
      "col": "وقتی تام اومد تهران، یه کلمه فارسی بلد نبود.",
-     "colR": "vaghti Tām umad Tehrān, ye kalame fārsi balad na-bud."
+     "colR": "vaghti Tām umad Tehrān, ye kalame fārsi balad na-bud.",
+     "faV": "وَقتی که تام به تِهران آمَد، یِک کَلَمه فارسی بَلَد نَبود.",
+     "a": "c1e0558b7dbd",
+     "colV": "وَقتی تام اومَد تِهران، یه کَلَمه فارسی بَلَد نَبود.",
+     "colA": "8b899736341f"
     },
     {
      "fa": "سرانجام بعد از سه سال، خانه‌ای را که می‌خواستند خریدند.",
      "r": "saranjām ba'd az se sāl, khāne-i rā ke mi-khāstand kharidand.",
      "en": "Finally, after three years, they bought the house they wanted.",
      "col": "آخرش بعد از سه سال، خونه‌ای رو که می‌خواستن خریدن.",
-     "colR": "ākhar-esh ba'd az se sāl, khune-i ro ke mi-khāstan kharidan."
+     "colR": "ākhar-esh ba'd az se sāl, khune-i ro ke mi-khāstan kharidan.",
+     "faV": "سَراَنجام بَعد اَز سه سال، خانه‌ای را که می‌خواستَند خَریدَند.",
+     "a": "00dfc3207514",
+     "colV": "آخَرِش بَعد اَز سه سال، خونه‌ای رو که می‌خواستَن خَریدَن.",
+     "colA": "1efe4c2b2767"
     }
    ]
   },
@@ -638,7 +798,11 @@
      "r": "Dāryush, ān mājarā-ye jādde-ye Chālus rā barā-ye Tām ta'rif kon!",
      "en": "Dariush, tell Tom that story about the Chalus road!",
      "col": "داریوش، اون ماجرای جاده‌ی چالوسو برای تام تعریف کن!",
-     "colR": "Dāryush, un mājarā-ye jādde-ye Chālus-o barā-ye Tām ta'rif kon!"
+     "colR": "Dāryush, un mājarā-ye jādde-ye Chālus-o barā-ye Tām ta'rif kon!",
+     "faV": "داریوش، آن ماجَرایِ جادّه‌یِ چالوس را بَرایِ تام تَعریف کُن!",
+     "a": "9270b35509a2",
+     "colV": "داریوش، اون ماجَرایِ جادّه‌یِ چالوسو بَرایِ تام تَعریف کُن!",
+     "colA": "ebf25b0d5002"
     },
     {
      "who": "Dariush",
@@ -646,7 +810,11 @@
      "r": "zemestān-e pārsāl bud. dāshtam tanhā be shomāl mi-raftam va barf-e sangin-i mi-āmad.",
      "en": "It was last winter. I was driving up to the north on my own, and it was snowing heavily.",
      "col": "زمستون پارسال بود. داشتم تنهایی می‌رفتم شمال، برف سنگینی هم میومد.",
-     "colR": "zemestun-e pārsāl bud. dāshtam tanhāyi mi-raftam shomāl, barf-e sangin-i ham miyumad."
+     "colR": "zemestun-e pārsāl bud. dāshtam tanhāyi mi-raftam shomāl, barf-e sangin-i ham miyumad.",
+     "faV": "زِمِستانِ پارسال بود. داشتَم تَنها به شُمال می‌رَفتَم و بَرفِ سَنگینی می‌آمَد.",
+     "a": "18900155402d",
+     "colV": "زِمِستونِ پارسال بود. داشتَم تَنهایی می‌رَفتَم شُمال، بَرفِ سَنگینی هَم میومَد.",
+     "colA": "ea3ec0fb97af"
     },
     {
      "who": "Dariush",
@@ -654,7 +822,11 @@
      "r": "nazdik-hā-ye nime-shab bud ke nāgahān māshin khāmush shod.",
      "en": "It was nearly midnight when suddenly the car died.",
      "col": "نزدیکای نصفه‌شب بود که یهو ماشین خاموش شد.",
-     "colR": "nazdik-ā-ye nesfe-shab bud ke yeho māshin khāmush shod."
+     "colR": "nazdik-ā-ye nesfe-shab bud ke yeho māshin khāmush shod.",
+     "faV": "نَزدیک‌هایِ نیمه‌شَب بود که ناگَهان ماشین خاموش شُد.",
+     "a": "ffb23be1ff73",
+     "colV": "نَزدیکایِ نِصفه‌شَب بود که یِهو ماشین خاموش شُد.",
+     "colA": "c8b6d3fe8757"
     },
     {
      "who": "Tom",
@@ -662,7 +834,11 @@
      "r": "vāy! vasat-e kuh? ba'd-ash che shod?",
      "en": "Oh no! In the middle of the mountains? What happened next?",
      "col": "وای! وسط کوه؟ بعدش چی شد؟",
-     "colR": "vāy! vasat-e kuh? ba'd-esh chi shod?"
+     "colR": "vāy! vasat-e kuh? ba'd-esh chi shod?",
+     "faV": "وای! وَسَطِ کوه؟ بَعدَش چه شُد؟",
+     "a": "11e4e399aa5e",
+     "colV": "وای! وَسَطِ کوه؟ بَعدِش چی شُد؟",
+     "colA": "a0bf37d164a2"
     },
     {
      "who": "Dariush",
@@ -670,7 +846,11 @@
      "r": "hich! mobāyl-am ānten nemi-dād va shārzh-ash ham tamām shode bud, chon sobh yād-am rafte bud ān rā shārzh konam.",
      "en": "Nothing! My phone had no signal, and the battery had run out too, because I'd forgotten to charge it that morning.",
      "col": "هیچی! موبایلم آنتن نمی‌داد، شارژشم تموم شده بود، چون صبح یادم رفته بود شارژش کنم.",
-     "colR": "hichi! mobāyl-am ānten nemi-dād, shārzh-esh-am tamum shode bud, chon sobh yād-am rafte bud shārzh-esh konam."
+     "colR": "hichi! mobāyl-am ānten nemi-dād, shārzh-esh-am tamum shode bud, chon sobh yād-am rafte bud shārzh-esh konam.",
+     "faV": "هیچ! موبایلَم آنتِن نِمی‌داد و شارژَش هَم تَمام شُده بود، چون صُبح یادَم رَفته بود آن را شارژ کُنَم.",
+     "a": "74c29ba3fd96",
+     "colV": "هیچی! موبایلَم آنتِن نِمی‌داد، شارژِشَم تَموم شُده بود، چون صُبح یادَم رَفته بود شارژِش کُنَم.",
+     "colA": "10cfe27ba232"
     },
     {
      "who": "Mahsa",
@@ -678,7 +858,11 @@
      "r": "agar man budam, az tars mi-mordam!",
      "en": "If it had been me, I'd have died of fright!",
      "col": "من بودم از ترس می‌مردم!",
-     "colR": "man budam az tars mi-mordam!"
+     "colR": "man budam az tars mi-mordam!",
+     "faV": "اَگَر مَن بودَم، اَز تَرس می‌مُردَم!",
+     "a": "bd65c8671738",
+     "colV": "مَن بودَم اَز تَرس می‌مُردَم!",
+     "colA": "fbb336ce8cc9"
     },
     {
      "who": "Dariush",
@@ -686,7 +870,11 @@
      "r": "rāst-ash khod-am ham kheyli tarside budam. yek sā'at dar māshin neshastam va montazer māndam.",
      "en": "To be honest, I was really scared myself. I sat in the car for an hour and waited.",
      "col": "راستش خودمم خیلی ترسیده بودم. یه ساعت تو ماشین نشستم و منتظر موندم.",
-     "colR": "rāst-esh khod-am-am kheyli tarside budam. ye sā'at tu māshin neshastam o montazer mundam."
+     "colR": "rāst-esh khod-am-am kheyli tarside budam. ye sā'at tu māshin neshastam o montazer mundam.",
+     "faV": "راستَش خودَم هَم خَیلی تَرسیده بودَم. یِک ساعَت دَر ماشین نِشَستَم و مُنتَظِر ماندَم.",
+     "a": "9dde9d70e071",
+     "colV": "راستِش خودَمَم خَیلی تَرسیده بودَم. یه ساعَت تو ماشین نِشَستَم و مُنتَظِر موندَم.",
+     "colA": "bc8679d86294"
     },
     {
      "who": "Dariush",
@@ -695,7 +883,11 @@
      "en": "Until a little light appeared in the distance. An old man with a torch was coming towards me!",
      "col": "تا این‌که یه نور کوچیک از دور پیدا شد. می‌بینم یه پیرمرد با چراغ‌قوه داره میاد طرف من!",
      "colR": "tā in-ke ye nur-e kuchik az dur peydā shod. mi-binam ye pirmard bā cherāgh-ghove dāre miyād taraf-e man!",
-     "note": "In the spoken version Dariush jumps into the present – [[می‌بینم|mi-binam|I see]] … [[داره میاد|dāre miyād|he's coming]] – to bring the big moment closer."
+     "note": "In the spoken version Dariush jumps into the present – [[می‌بینم|mi-binam|I see]] … [[داره میاد|dāre miyād|he's coming]] – to bring the big moment closer.",
+     "faV": "تا این‌که یِک نورِ کوچَک اَز دور پَیدا شُد. یِک پیرمَرد با چِراغ‌قُوه داشت به طَرَفِ مَن می‌آمَد!",
+     "a": "afcd20e6b198",
+     "colV": "تا این‌که یه نورِ کوچیک اَز دور پَیدا شُد. می‌بینَم یه پیرمَرد با چِراغ‌قُوه داره میاد طَرَفِ مَن!",
+     "colA": "6c9272f152a8"
     },
     {
      "who": "Tom",
@@ -703,7 +895,11 @@
      "r": "jeddi? ān vaght-e shab?",
      "en": "Really? At that time of night?",
      "col": "جدی؟ اون وقت شب؟",
-     "colR": "jeddi? un vaght-e shab?"
+     "colR": "jeddi? un vaght-e shab?",
+     "faV": "جِدّی؟ آن وَقتِ شَب؟",
+     "a": "39ddf0db42d4",
+     "colV": "جِدّی؟ اون وَقتِ شَب؟",
+     "colA": "eaf3138a3e18"
     },
     {
      "who": "Dariush",
@@ -711,7 +907,11 @@
      "r": "bale! khāne-ash hamān nazdiki bud va sedā-ye māshin rā shenide bud. marā be khāne-ash bord va zan-ash barā-yam chāy o āsh āvard.",
      "en": "Yes! His house was close by and he had heard the car. He took me home with him, and his wife brought me tea and āsh.",
      "col": "آره! خونه‌ش همون نزدیکی بود، صدای ماشینو شنیده بود. منو برد خونه‌ش، زنش هم برام چایی و آش آورد.",
-     "colR": "āre! khune-sh hamun nazdiki bud, sedā-ye māshin-o shenide bud. man-o bord khune-sh, zan-esh ham barā-m chāyi o āsh āvord."
+     "colR": "āre! khune-sh hamun nazdiki bud, sedā-ye māshin-o shenide bud. man-o bord khune-sh, zan-esh ham barā-m chāyi o āsh āvord.",
+     "faV": "بَله! خانه‌اَش هَمان نَزدیکی بود و صِدایِ ماشین را شِنیده بود. مَرا به خانه‌اَش بُرد و زَنَش بَرایَم چای و آش آوَرد.",
+     "a": "b57c9f8ef1c2",
+     "colV": "آره! خونه‌ش هَمون نَزدیکی بود، صِدایِ ماشینو شِنیده بود. مَنو بُرد خونه‌ش، زَنِش هَم بَرام چایی و آش آوُرد.",
+     "colA": "2ad7095461ee"
     },
     {
      "who": "Mahsa",
@@ -719,7 +919,11 @@
      "r": "didi! hamishe mi-guyam mardom-e rustā az hame mehmān-navāz-tar-and.",
      "en": "You see! I always say village people are the most hospitable of all.",
      "col": "دیدی! همیشه می‌گم مردم روستا از همه مهمون‌نوازترن.",
-     "colR": "didi! hamishe mi-gam mardom-e rustā az hame mehmun-navāz-tar-an."
+     "colR": "didi! hamishe mi-gam mardom-e rustā az hame mehmun-navāz-tar-an.",
+     "faV": "دیدی! هَمیشه می‌گویَم مَردُمِ روستا اَز هَمه مِهمان‌نَوازتَرَند.",
+     "a": "57234dd22054",
+     "colV": "دیدی! هَمیشه می‌گَم مَردُمِ روستا اَز هَمه مِهمون‌نَوازتَرَن.",
+     "colA": "54ce809f2890"
     },
     {
      "who": "Dariush",
@@ -727,7 +931,11 @@
      "r": "sobh pesar-ash māshin rā dorost kard va pul-i ham ghabul na-kard. hālā har sāl 'eyd be ān-hā sar mi-zanam.",
      "en": "In the morning his son fixed the car and wouldn't take any money. Now I visit them every year at Nowruz.",
      "col": "صبح پسرش ماشینو درست کرد، پول هم قبول نکرد. حالا هر سال عید بهشون سر می‌زنم.",
-     "colR": "sobh pesar-esh māshin-o dorost kard, pul ham ghabul na-kard. hālā har sāl 'eyd behe-shun sar mi-zanam."
+     "colR": "sobh pesar-esh māshin-o dorost kard, pul ham ghabul na-kard. hālā har sāl 'eyd behe-shun sar mi-zanam.",
+     "faV": "صُبح پِسَرَش ماشین را دُرُست کَرد و پولی هَم قَبول نَکَرد. حالا هَر سال عَید به آن‌ها سَر می‌زَنَم.",
+     "a": "e97fabebbde4",
+     "colV": "صُبح پِسَرِش ماشینو دُرُست کَرد، پول هَم قَبول نَکَرد. حالا هَر سال عَید بِهِشون سَر می‌زَنَم.",
+     "colA": "37705b4f246f"
     },
     {
      "who": "Tom",
@@ -735,7 +943,11 @@
      "r": "che jāleb! pas ān shab badtarin shab-e zemestān na-bud, behtarin-ash bud!",
      "en": "How lovely! So that night wasn't the worst night of the winter – it was the best!",
      "col": "چه جالب! پس اون شب بدترین شب زمستون نبود، بهترینش بود!",
-     "colR": "che jāleb! pas un shab badtarin shab-e zemestun na-bud, behtarin-esh bud!"
+     "colR": "che jāleb! pas un shab badtarin shab-e zemestun na-bud, behtarin-esh bud!",
+     "faV": "چه جالِب! پَس آن شَب بَدتَرین شَبِ زِمِستان نَبود، بِهتَرینَش بود!",
+     "a": "1864657b0188",
+     "colV": "چه جالِب! پَس اون شَب بَدتَرین شَبِ زِمِستون نَبود، بِهتَرینِش بود!",
+     "colA": "064b17105a8d"
     },
     {
      "who": "Mahsa",
@@ -744,7 +956,11 @@
      "en": "And so our story ends – and the crow never got home!",
      "lit": "our story reached its end, the crow did not reach its home",
      "col": "قصه‌ی ما به سر رسید، کلاغه به خونه‌ش نرسید!",
-     "colR": "ghesse-ye mā be sar resid, kalāghe be khune-sh na-resid!"
+     "colR": "ghesse-ye mā be sar resid, kalāghe be khune-sh na-resid!",
+     "faV": "قِصّه‌یِ ما به سَر رِسید، کَلاغه به خانه‌اَش نَرِسید!",
+     "a": "d61cae02aa07",
+     "colV": "قِصّه‌یِ ما به سَر رِسید، کَلاغه به خونه‌ش نَرِسید!",
+     "colA": "4499ccedd4af"
     }
    ]
   },
@@ -890,22 +1106,30 @@
     {
      "fa": "یکی بود یکی نبود، غیر از خدا هیچ‌کس نبود.",
      "r": "yek-i bud yek-i na-bud, gheyr az khodā hich-kas na-bud.",
-     "en": "Once upon a time, there was nobody but God."
+     "en": "Once upon a time, there was nobody but God.",
+     "faV": "یِکی بود یِکی نَبود، غَیر اَز خُدا هیچ‌کَس نَبود.",
+     "a": "30efae46f7e7"
     },
     {
      "fa": "طوطی را سال‌ها پیش از هندوستان آورده بودند.",
      "r": "tuti rā sāl-hā pish az Hendustān āvarde budand.",
-     "en": "The parrot had been brought from India years before."
+     "en": "The parrot had been brought from India years before.",
+     "faV": "طوطی را سال‌ها پیش اَز هِندوستان آوَرده بودَند.",
+     "a": "cf420720e4f1"
     },
     {
      "fa": "بازرگان داشت برای سفر آماده می‌شد.",
      "r": "bāzargān dāsht barā-ye safar āmāde mi-shod.",
-     "en": "The merchant was getting ready for the journey."
+     "en": "The merchant was getting ready for the journey.",
+     "faV": "بازَرگان داشت بَرایِ سَفَر آماده می‌شُد.",
+     "a": "6f57eba4b983"
     },
     {
      "fa": "همین که پیغام را گفت، طوطی از درخت افتاد.",
      "r": "hamin ke peyghām rā goft, tuti az derakht oftād.",
-     "en": "As soon as he gave the message, the parrot fell from the tree."
+     "en": "As soon as he gave the message, the parrot fell from the tree.",
+     "faV": "هَمین که پَیغام را گُفت، طوطی اَز دِرَخت اُفتاد.",
+     "a": "45a3f67b4cba"
     }
    ]
   },
@@ -917,37 +1141,51 @@
     {
      "fa": "ناگهان",
      "r": "nāgahān",
-     "en": "suddenly"
+     "en": "suddenly",
+     "faV": "ناگَهان",
+     "a": "532313350472"
     },
     {
      "fa": "بعد از این‌که",
      "r": "ba'd az in-ke",
-     "en": "after"
+     "en": "after",
+     "faV": "بَعد اَز این‌که",
+     "a": "85ecb2c10883"
     },
     {
      "fa": "پیش از آن‌که",
      "r": "pish az ān-ke",
-     "en": "before"
+     "en": "before",
+     "faV": "پیش اَز آن‌که",
+     "a": "a72506c06753"
     },
     {
      "fa": "همین که",
      "r": "hamin ke",
-     "en": "as soon as"
+     "en": "as soon as",
+     "faV": "هَمین که",
+     "a": "81320b6c6bec"
     },
     {
      "fa": "وقتی که",
      "r": "vaghti ke",
-     "en": "when"
+     "en": "when",
+     "faV": "وَقتی که",
+     "a": "f4b3cac01520"
     },
     {
      "fa": "تا این‌که",
      "r": "tā in-ke",
-     "en": "until (at last)"
+     "en": "until (at last)",
+     "faV": "تا این‌که",
+     "a": "3a0888705e2f"
     },
     {
      "fa": "سرانجام",
      "r": "saranjām",
-     "en": "finally, in the end"
+     "en": "finally, in the end",
+     "faV": "سَراَنجام",
+     "a": "0d5fc4081c2c"
     }
    ]
   },
@@ -959,27 +1197,37 @@
     {
      "en": "When we got to the cinema, the film had started.",
      "fa": "وقتی به سینما رسیدیم، فیلم شروع شده بود.",
-     "r": "vaghti be sinamā residim, film shoru' shode bud."
+     "r": "vaghti be sinamā residim, film shoru' shode bud.",
+     "faV": "وَقتی به سینَما رِسیدیم، فیلم شُروع شُده بود.",
+     "a": "92de3bcd720c"
     },
     {
      "en": "I was reading a book when suddenly the lights went out.",
      "fa": "داشتم کتاب می‌خواندم که ناگهان چراغ‌ها خاموش شدند.",
-     "r": "dāshtam ketāb mi-khāndam ke nāgahān cherāgh-hā khāmush shodand."
+     "r": "dāshtam ketāb mi-khāndam ke nāgahān cherāgh-hā khāmush shodand.",
+     "faV": "داشتَم کِتاب می‌خواندَم که ناگَهان چِراغ‌ها خاموش شُدَند.",
+     "a": "17883d7e322c"
     },
     {
      "en": "Before he left, he said goodbye to everyone.",
      "fa": "پیش از آن‌که برود، با همه خداحافظی کرد.",
-     "r": "pish az ān-ke beravad, bā hame khodāhāfezi kard."
+     "r": "pish az ān-ke beravad, bā hame khodāhāfezi kard.",
+     "faV": "پیش اَز آن‌که بِرَوَد، با هَمه خُداحافِظی کَرد.",
+     "a": "0c1d027a7a54"
     },
     {
      "en": "After the parrot flew away, the merchant sat alone in the garden.",
      "fa": "بعد از این‌که طوطی پرواز کرد، بازرگان تنها در باغ نشست.",
-     "r": "ba'd az in-ke tuti parvāz kard, bāzargān tanhā dar bāgh neshast."
+     "r": "ba'd az in-ke tuti parvāz kard, bāzargān tanhā dar bāgh neshast.",
+     "faV": "بَعد اَز این‌که طوطی پَرواز کَرد، بازَرگان تَنها دَر باغ نِشَست.",
+     "a": "d6ab232ca27a"
     },
     {
      "en": "Once upon a time there was a poor shepherd.",
      "fa": "یکی بود یکی نبود، چوپان فقیری بود.",
-     "r": "yek-i bud yek-i na-bud, chupān-e faghir-i bud."
+     "r": "yek-i bud yek-i na-bud, chupān-e faghir-i bud.",
+     "faV": "یِکی بود یِکی نَبود، چوپانِ فَقیری بود.",
+     "a": "3fd301e9ef2f"
     }
    ]
   },
@@ -997,7 +1245,9 @@
       "Before he saw me, he ran away.",
       "He saw me and stayed."
      ],
-     "answer": 0
+     "answer": 0,
+     "faV": "هَمین که مَرا دید، فَرار کَرد.",
+     "a": "eb0dff5e6eac"
     },
     {
      "fa": "وقتی رسیدیم، کنسرت تمام شده بود.",
@@ -1008,7 +1258,9 @@
       "When we arrived, the concert had finished.",
       "We arrived after the concert had started."
      ],
-     "answer": 1
+     "answer": 1,
+     "faV": "وَقتی رِسیدیم، کُنسِرت تَمام شُده بود.",
+     "a": "4abbadd72762"
     },
     {
      "fa": "داشتم رانندگی می‌کردم که ماشین خاموش شد.",
@@ -1019,7 +1271,9 @@
       "The car died before I drove it.",
       "I wasn't driving the car."
      ],
-     "answer": 0
+     "answer": 0,
+     "faV": "داشتَم رانَندِگی می‌کَردَم که ماشین خاموش شُد.",
+     "a": "a9d260526a35"
     },
     {
      "fa": "قصه‌ی ما به سر رسید.",
@@ -1030,9 +1284,13 @@
       "Our story has come to an end.",
       "Tell us a story."
      ],
-     "answer": 1
+     "answer": 1,
+     "faV": "قِصّه‌یِ ما به سَر رِسید.",
+     "a": "f9350659fc59"
     }
    ]
   }
- ]
+ ],
+ "titleV": "یِکی بود یِکی نَبود",
+ "titleA": "23b93b143a83"
 }

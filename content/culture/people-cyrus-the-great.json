@@ -1,0 +1,81 @@
+{
+ "id": "people-cyrus-the-great",
+ "topic": "people",
+ "title": "Cyrus the Great",
+ "titleFa": "کوروش بزرگ",
+ "titleR": "Kurosh-e bozorg",
+ "image": "cyrus-the-great",
+ "summary": "A prince from a small kingdom in Fars who built the largest empire the world had yet seen, and is remembered by Greeks, Jews and Iranians alike as a just king. His life, his capital at Pasargadae, the famous Cylinder, and the foreign sources that tell his story.",
+ "body": [
+  {
+   "h": "A prince from Anshan",
+   "md": "Cyrus II – [[کوروش|Kurosh|Cyrus]] in Persian – was born in the late 7th or early 6th century BC into the royal family of Anshan, a small kingdom in [[پارس|Pārs|Persia, today's Fars]]. His father was Cambyses I, and the family traced itself back to an ancestor called Achaemenes; that is why the dynasty is called [[هخامنشی|Hakhāmaneshi|Achaemenid]].\n\nAlmost nothing certain is known about his youth. The Greek historian Herodotus tells a fairy-tale version: Cyrus's grandfather, the Median king Astyages, dreamed that the baby would overthrow him and ordered him killed, but a herdsman raised the child in secret. Historians treat it as legend."
+  },
+  {
+   "h": "Building an empire",
+   "md": "Cyrus became king of Anshan around 559 BC. In about 550 BC he defeated Astyages and took the Median capital, Ecbatana (modern [[همدان|Hamedān|Hamadan]]). A few years later he conquered Lydia in western Anatolia, the kingdom of the proverbially rich Croesus, and in 539 BC his army entered Babylon, the greatest city of the Near East, almost without a fight.\n\nIn twenty years he had built a [[شاهنشاهی|shāhanshāhi|empire, literally 'kingdom of kings']] reaching from the Aegean Sea to Central Asia. He died in 530 BC on a campaign in the north-east. Herodotus says he fell fighting the Massagetae and their queen, Tomyris; other Greek writers tell the story differently.",
+   "image": "achaemenid-empire"
+  },
+  {
+   "h": "Pasargadae",
+   "md": "Cyrus built his capital, [[پاسارگاد|Pāsārgād|Pasargadae]], on a high plain in Fars. Its palaces stood in a park crossed by stone water channels, often described as the earliest Persian [[باغ|bāgh|garden]].\n\nHis [[آرامگاه|ārāmgāh|tomb]] still stands: a small stone chamber with a gabled roof, raised on six great steps. In Islamic times local people called it the tomb of the mother of Solomon, [[مشهد مادر سلیمان|Mashhad-e Mādar-e Soleymān]], which may have helped to protect it. Greek historians report that Alexander the Great found the tomb robbed and ordered it repaired. Pasargadae became a UNESCO World Heritage site in 2004.",
+   "image": "tomb-of-cyrus"
+  },
+  {
+   "h": "The Cylinder",
+   "md": "In 1879 excavators in Babylon found a barrel-shaped clay cylinder, about 23 centimetres long, covered in Babylonian cuneiform. In it Cyrus says that Marduk, the god of Babylon, chose him to rule; that he entered the city in peace; and that he returned the statues of gods to their temples and let deported peoples go home.\n\nIranians call it [[منشور کوروش|manshur-e Kurosh|the Charter of Cyrus]]. Since the 1960s it has often been presented as the first declaration of human rights, and a replica stands at the United Nations in New York. Historians are more cautious: they read it as a royal building inscription in an old Mesopotamian tradition, written to show the new king as a good ruler. Either way, it shows a conqueror ruling through local gods and customs. The original is in the British Museum, which lent it to the National Museum of Iran in 2010–11.",
+   "image": "cyrus-cylinder"
+  },
+  {
+   "h": "Greek and Biblical sources",
+   "md": "Much of what we know about Cyrus was written by foreigners. Herodotus, writing about a century after his death, admired him. Xenophon's *Cyropaedia* ('The Education of Cyrus') turned him into the ideal ruler, and the book was read as a guide for princes from antiquity to the Renaissance.\n\nThe Hebrew Bible is even warmer. Cyrus ended the Babylonian exile of the Jews, and the Book of Ezra says he allowed them to return to Jerusalem and rebuild their Temple. The Book of Isaiah calls him the Lord's 'anointed' – a title it gives to no other foreign king. In Persian the Bible is [[کتاب مقدس|ketāb-e moghaddas|the Holy Book]], and the Hebrew form of the name, Koresh, is close to the Persian."
+  },
+  {
+   "h": "Cyrus in Iran today",
+   "md": "Iran's own traditions forgot him: the [[شاهنامه|Shāhnāme|Book of Kings]] does not mention him, and Iranians rediscovered him through Greek texts, the Bible and archaeology in the 19th and 20th centuries. Today he is [[کوروش بزرگ|Kurosh-e bozorg|Cyrus the Great]], often called [[پدر ایران|pedar-e Irān|the father of Iran]]. Kurosh is a popular boy's name, and every year in late October, around [[هفتم آبان|haftom-e Ābān|7 Aban]], some Iranians gather at Pasargadae for an unofficial 'Cyrus Day'."
+  }
+ ],
+ "sentences": [
+  {"fa": "کوروش بزرگ بنیان‌گذار شاهنشاهی هخامنشی بود.", "r": "Kurosh-e bozorg bonyān-gozār-e shāhanshāhi-ye Hakhāmaneshi bud.", "en": "Cyrus the Great was the founder of the Achaemenid Empire."},
+  {"fa": "پدر کوروش پادشاه انشان بود.", "r": "pedar-e Kurosh pādshāh-e Anshān bud.", "en": "Cyrus's father was the king of Anshan."},
+  {"fa": "کوروش در سال ۵۳۹ پیش از میلاد بابل را گرفت.", "r": "Kurosh dar sāl-e pānsad-o-si-o-noh pish az milād Bābel rā gereft.", "en": "Cyrus took Babylon in 539 BC."},
+  {"fa": "او به یهودیان اجازه داد به اورشلیم برگردند.", "r": "u be yahudiyān ejāze dād be Urshalim bargardand.", "en": "He allowed the Jews to return to Jerusalem."},
+  {"fa": "منشور کوروش به خط میخی روی یک استوانه‌ی گلی نوشته شده است.", "r": "manshur-e Kurosh be khatt-e mikhi ru-ye yek ostovāne-ye geli neveshte shode ast.", "en": "The Cyrus Cylinder is written in cuneiform on a clay cylinder."},
+  {"fa": "این استوانه امروز در موزه‌ی بریتانیا در لندن است.", "r": "in ostovāne emruz dar muze-ye Beritāniyā dar Landan ast.", "en": "Today this cylinder is in the British Museum in London."},
+  {"fa": "آرامگاه کوروش در پاسارگاد در استان فارس است.", "r": "ārāmgāh-e Kurosh dar Pāsārgād dar ostān-e Fārs ast.", "en": "Cyrus's tomb is at Pasargadae in Fars province."},
+  {"fa": "آرامگاه کوروش از سنگ ساخته شده و شش پله دارد.", "r": "ārāmgāh-e Kurosh az sang sākhte shode va shesh pelle dārad.", "en": "Cyrus's tomb is built of stone and has six steps."},
+  {"fa": "یونانی‌ها هم درباره‌ی کوروش کتاب نوشتند.", "r": "yunāni-hā ham darbāre-ye Kurosh ketāb neveshtand.", "en": "The Greeks also wrote books about Cyrus."},
+  {"fa": "در کتاب مقدس هم نام کوروش آمده است.", "r": "dar ketāb-e moghaddas ham nām-e Kurosh āmade ast.", "en": "Cyrus's name also appears in the Bible."},
+  {"fa": "کوروش در سال ۵۳۰ پیش از میلاد درگذشت.", "r": "Kurosh dar sāl-e pānsad-o-si pish az milād dargozasht.", "en": "Cyrus died in 530 BC."},
+  {"fa": "بسیاری از ایرانی‌ها کوروش را «پدر ایران» می‌دانند.", "r": "besyāri az irāni-hā Kurosh rā «pedar-e Irān» mi-dānand.", "en": "Many Iranians regard Cyrus as 'the father of Iran'."}
+ ],
+ "vocab": [
+  {"fa": "بزرگ", "r": "bozorg", "en": "great, big"},
+  {"fa": "پادشاه", "r": "pādshāh", "en": "king"},
+  {"fa": "شاهنشاهی", "r": "shāhanshāhi", "en": "empire"},
+  {"fa": "بنیان‌گذار", "r": "bonyān-gozār", "en": "founder"},
+  {"fa": "فتح کردن", "r": "fath kardan", "en": "to conquer"},
+  {"fa": "پایتخت", "r": "pāytakht", "en": "capital city"},
+  {"fa": "آرامگاه", "r": "ārāmgāh", "en": "tomb, mausoleum"},
+  {"fa": "پله", "r": "pelle", "en": "step, stair"},
+  {"fa": "منشور", "r": "manshur", "en": "charter"},
+  {"fa": "استوانه", "r": "ostovāne", "en": "cylinder"},
+  {"fa": "گل", "r": "gel", "en": "clay, mud (gol = flower)"},
+  {"fa": "خط میخی", "r": "khatt-e mikhi", "en": "cuneiform (literally 'nail script')"},
+  {"fa": "پیش از میلاد", "r": "pish az milād", "en": "BC (literally 'before the birth')"},
+  {"fa": "اجازه دادن", "r": "ejāze dādan", "en": "to allow"},
+  {"fa": "مدارا", "r": "modārā", "en": "tolerance"},
+  {"fa": "دین", "r": "din", "en": "religion"},
+  {"fa": "یونانی", "r": "yunāni", "en": "Greek"},
+  {"fa": "کتاب مقدس", "r": "ketāb-e moghaddas", "en": "the Bible (literally 'the holy book')"}
+ ],
+ "facts": [
+  "Cyrus became king of Anshan around 559 BC and died in 530 BC, after a reign of about thirty years.",
+  "He conquered Media (c. 550 BC), Lydia (c. 547 BC) and Babylon (539 BC).",
+  "The Cyrus Cylinder, found in Babylon in 1879, is written in Babylonian cuneiform and is kept in the British Museum.",
+  "In Islamic times Cyrus's tomb at Pasargadae was known as the tomb of the mother of Solomon.",
+  "Pasargadae has been a UNESCO World Heritage site since 2004.",
+  "Xenophon's Cyropaedia (4th century BC) presents Cyrus as the model ruler.",
+  "The English name comes through Greek Kyros from Old Persian Kūrush; the Hebrew form is Koresh."
+ ]
+}

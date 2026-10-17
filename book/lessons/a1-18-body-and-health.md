@@ -299,10 +299,10 @@ The system goes back to Galen and to **Avicenna** – ابن سینا (*Ebn-e Si
 
 **Put the words in order**
 
-1. سرم / می‌کند. / خیلی / درد — I have a bad headache.
-2. آب / بخورید. / باید / زیاد — You should drink a lot of water.
-3. داروخانه / ببخشید، / کجاست؟ — Excuse me, where is the pharmacy?
-4. امروز / خوب / نیست. / حالم — I don't feel well today.
+1. می‌کند. / سرم / خیلی / درد — I have a bad headache.
+2. بخورید. / زیاد / باید / آب — You should drink a lot of water.
+3. کجاست؟ / ببخشید، / داروخانه — Excuse me, where is the pharmacy?
+4. نیست. / امروز / حالم / خوب — I don't feel well today.
 
 <details><summary>Answers</summary>
 

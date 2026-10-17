@@ -1,0 +1,76 @@
+{
+ "id": "people-ferdowsi",
+ "topic": "people",
+ "title": "Ferdowsi",
+ "titleFa": "فردوسی",
+ "titleR": "Ferdowsi",
+ "image": "ferdowsi",
+ "summary": "A landowner from Tus who spent some thirty years turning Iran's ancient stories into the Shahnameh, the Book of Kings. Why Iranians say he saved their language – and the legend of the sultan who paid him in silver.",
+ "body": [
+  {
+   "h": "A landowner from Tus",
+   "md": "Abu'l-Qasem Ferdowsi was born around 940 near [[توس|Tus]], an old town in [[خراسان|Khorāsān|Khorasan]], close to today's Mashhad. His family were [[دهقان|dehghān|landowning gentry]] – the class that, three centuries after the Arab conquest, still kept alive the stories of Iran's ancient kings and heroes. Khorasan was then ruled by the Samanids, a Persian dynasty that encouraged poetry in Persian rather than Arabic."
+  },
+  {
+   "h": "Thirty years on the Shahnameh",
+   "md": "In the 970s Ferdowsi set out to put the old stories into verse. He worked from a Persian prose book of kings compiled in Tus in 957, and took over about a thousand couplets written by an earlier poet, Daqiqi, who had been murdered. Tradition says the work took him thirty years; he finished the final version in 1010.\n\nThe result, the [[شاهنامه|Shāhnāme|Book of Kings]], has about 50,000 [[بیت|beyt|couplets]], all in one swinging metre. It runs from the first king, Kayumars, through the age of heroes – [[رستم|Rostam]], his son Sohrab, the innocent prince Siyavash – to the Sasanian kings and the Arab conquest of the 7th century. Its first line is known to every Iranian schoolchild: [[به نام خداوند جان و خرد|be nām-e khodāvand-e jān o kherad|in the name of the Lord of soul and wisdom]].",
+   "image": "shahnameh-shah-tahmasp"
+  },
+  {
+   "h": "The sultan and the silver",
+   "md": "By the time Ferdowsi finished, the Samanids had fallen, and he dedicated the book to [[سلطان محمود غزنوی|Soltān Mahmud-e Ghaznavi|Sultan Mahmud of Ghazni]]. A famous story, told by Nezami Aruzi more than a century later, says that Mahmud had promised a gold coin for every couplet but sent silver instead. Insulted, Ferdowsi gave the money away to a bath attendant and a sherbet seller, and fled. Years later the sultan repented and sent a caravan of gifts to Tus – but as it entered one gate of the town, the poet's body was being carried out of another.\n\nHistorians doubt much of this. Later writers explained Mahmud's coldness in different ways: Ferdowsi was a Shi'i and the sultan a Sunni; the poem glorified Iranian kings at a Turkish court; or jealous courtiers turned the ruler against him."
+  },
+  {
+   "h": "A tomb in his garden",
+   "md": "Ferdowsi died around 1020. According to Nezami Aruzi, a local preacher refused to allow his burial in the Muslim cemetery, so he was buried in his own garden. The present [[آرامگاه|ārāmgāh|tomb]] at Tus was first built in 1934 for the thousandth anniversary of his birth, in a style that recalls Achaemenid architecture, and was later rebuilt. Verses and scenes from the Shahnameh are carved on and inside it.",
+   "image": "tomb-of-ferdowsi"
+  },
+  {
+   "h": "The saviour of Persian",
+   "md": "Iranians call him [[حکیم|hakim|the sage]] Ferdowsi and credit him with saving their language. The Shahnameh uses relatively few Arabic words, and at a time when Arabic was the language of religion and science, it proved that Persian could carry a great epic. A thousand years later a modern reader can still follow much of it.\n\nIts stories live outside books too. In traditional coffee houses a [[نقال|naghghāl|storyteller]] performs them in front of a painted screen, and in the [[زورخانه|zurkhāne|'house of strength']] athletes train to verses from the epic. Names such as Rostam, Sohrab, Siyavash and Tahmineh are still common, and 25 Ordibehesht (15 May) is celebrated as Ferdowsi Day.",
+   "image": "rostam"
+  }
+ ],
+ "sentences": [
+  {"fa": "فردوسی حدود هزار سال پیش در توس زندگی می‌کرد.", "r": "Ferdowsi hodud-e hezār sāl pish dar Tus zendegi mi-kard.", "en": "Ferdowsi lived in Tus about a thousand years ago."},
+  {"fa": "توس شهری قدیمی نزدیک مشهد است.", "r": "Tus shahr-i ghadimi nazdik-e Mashhad ast.", "en": "Tus is an old town near Mashhad."},
+  {"fa": "فردوسی سی سال روی شاهنامه کار کرد.", "r": "Ferdowsi si sāl ru-ye Shāhnāme kār kard.", "en": "Ferdowsi worked on the Shahnameh for thirty years."},
+  {"fa": "شاهنامه حدود پنجاه هزار بیت دارد.", "r": "Shāhnāme hodud-e panjāh hezār beyt dārad.", "en": "The Shahnameh has about fifty thousand couplets."},
+  {"fa": "شاهنامه داستان پادشاهان و پهلوانان ایران است.", "r": "Shāhnāme dāstān-e pādshāhān va pahlavānān-e Irān ast.", "en": "The Shahnameh is the story of the kings and heroes of Iran."},
+  {"fa": "رستم مشهورترین پهلوان شاهنامه است.", "r": "Rostam mashhur-tarin pahlavān-e Shāhnāme ast.", "en": "Rostam is the most famous hero of the Shahnameh."},
+  {"fa": "فردوسی کتابش را به سلطان محمود غزنوی تقدیم کرد.", "r": "Ferdowsi ketāb-ash rā be Soltān Mahmud-e Ghaznavi taghdim kard.", "en": "Ferdowsi dedicated his book to Sultan Mahmud of Ghazni."},
+  {"fa": "طبق یک داستان، سلطان به جای سکه‌ی طلا به او سکه‌ی نقره داد.", "r": "tebgh-e yek dāstān, soltān be jā-ye sekke-ye talā be u sekke-ye noghre dād.", "en": "According to one story, the sultan gave him silver coins instead of gold."},
+  {"fa": "آرامگاه فردوسی در توس است.", "r": "ārāmgāh-e Ferdowsi dar Tus ast.", "en": "Ferdowsi's tomb is in Tus."},
+  {"fa": "فردوسی زبان فارسی را زنده نگه داشت.", "r": "Ferdowsi zabān-e fārsi rā zende negah dāsht.", "en": "Ferdowsi kept the Persian language alive."},
+  {"fa": "هنوز هم در قهوه‌خانه‌ها داستان‌های شاهنامه را نقل می‌کنند.", "r": "hanuz ham dar ghahve-khāne-hā dāstān-hā-ye Shāhnāme rā naghl mi-konand.", "en": "Stories from the Shahnameh are still told in coffee houses."},
+  {"fa": "روز ۲۵ اردیبهشت روز بزرگداشت فردوسی است.", "r": "ruz-e bist-o-panj-e Ordibehesht ruz-e bozorgdāsht-e Ferdowsi ast.", "en": "25 Ordibehesht is the day Iran honours Ferdowsi."}
+ ],
+ "vocab": [
+  {"fa": "شاعر", "r": "shā'er", "en": "poet"},
+  {"fa": "شعر", "r": "she'r", "en": "poem, poetry"},
+  {"fa": "بیت", "r": "beyt", "en": "couplet, verse"},
+  {"fa": "حماسه", "r": "hamāse", "en": "epic"},
+  {"fa": "پهلوان", "r": "pahlavān", "en": "hero, champion"},
+  {"fa": "قهرمان", "r": "ghahremān", "en": "hero; (sports) champion"},
+  {"fa": "داستان", "r": "dāstān", "en": "story"},
+  {"fa": "اسطوره", "r": "osture", "en": "myth"},
+  {"fa": "سلطان", "r": "soltān", "en": "sultan"},
+  {"fa": "سکه", "r": "sekke", "en": "coin"},
+  {"fa": "طلا", "r": "talā", "en": "gold"},
+  {"fa": "نقره", "r": "noghre", "en": "silver"},
+  {"fa": "زبان", "r": "zabān", "en": "language; tongue"},
+  {"fa": "زنده", "r": "zende", "en": "alive"},
+  {"fa": "حکیم", "r": "hakim", "en": "sage, wise man"},
+  {"fa": "نقال", "r": "naghghāl", "en": "storyteller (of epic tales)"},
+  {"fa": "قهوه‌خانه", "r": "ghahve-khāne", "en": "coffee house"}
+ ],
+ "facts": [
+  "Ferdowsi was born around 940 near Tus in Khorasan and died around 1020.",
+  "The Shahnameh has about 50,000 couplets, all in the same metre, the motaghāreb.",
+  "Ferdowsi finished the final version of the Shahnameh in 1010.",
+  "About a thousand couplets of the Shahnameh, on King Goshtasp and the coming of Zoroaster, were written by the earlier poet Daqiqi.",
+  "The story of the silver coins first appears in Nezami Aruzi's Chahar Maqala ('Four Discourses'), written in the mid-12th century.",
+  "25 Ordibehesht (15 May) is Ferdowsi Day in Iran, also kept as a day for the Persian language.",
+  "Naqqāli, the dramatic telling of Shahnameh stories, was added to UNESCO's list of intangible heritage in need of urgent safeguarding in 2011."
+ ]
+}
