@@ -40,85 +40,229 @@
   {
    "fa": "باغ ایرانی دیوار، آب و درخت دارد.",
    "r": "bāgh-e irāni divār, āb va derakht dārad.",
-   "en": "A Persian garden has walls, water and trees."
+   "en": "A Persian garden has walls, water and trees.",
+   "faV": "باغِ ایرانی دیوار، آب و دِرَخت دارَد.",
+   "a": "bf1ce00972ba"
   },
   {
    "fa": "چهارباغ با دو جوی آب به چهار قسمت تقسیم می‌شود.",
    "r": "chahār-bāgh bā do juy-e āb be chahār ghesmat taghsim mi-shavad.",
-   "en": "A chahar bagh is divided into four parts by two water channels."
+   "en": "A chahar bagh is divided into four parts by two water channels.",
+   "faV": "چَهارباغ با دو جویِ آب به چَهار قِسمَت تَقسیم می‌شَوَد.",
+   "a": "7f0af82c3e0a"
   },
   {
    "fa": "باغ پاسارگاد قدیمی‌ترین باغ ایرانی است.",
    "r": "bāgh-e Pāsārgād ghadimi-tarin bāgh-e irāni ast.",
-   "en": "The garden of Pasargadae is the oldest known Persian garden."
+   "en": "The garden of Pasargadae is the oldest known Persian garden.",
+   "faV": "باغِ پاسارگاد قَدیمی‌تَرین باغِ ایرانی اَست.",
+   "a": "1b6c64231372"
   },
   {
    "fa": "کلمه‌ی انگلیسی «پارادایس» از «پردیس» آمده است.",
    "r": "kalame-ye engelisi-ye «pārādāys» az «pardis» āmade ast.",
-   "en": "The English word 'paradise' comes from 'pardis'."
+   "en": "The English word 'paradise' comes from 'pardis'.",
+   "faV": "کَلَمه‌یِ اِنگِلیسیِ «پارادایس» اَز «پَردیس» آمَده اَست.",
+   "a": "70b136d6e308"
   },
   {
    "fa": "امروز به محوطه‌ی دانشگاه هم پردیس می‌گویند.",
    "r": "emruz be mohavvate-ye dāneshgāh ham pardis mi-guyand.",
-   "en": "Today a university campus is also called a pardis."
+   "en": "Today a university campus is also called a pardis.",
+   "faV": "اِمروز به مُحَوَّطه‌یِ دانِشگاه هَم پَردیس می‌گویَند.",
+   "a": "5fb2f6d04b23"
   },
   {
    "fa": "آب از قنات به باغ می‌رسد.",
    "r": "āb az ghanāt be bāgh mi-resad.",
-   "en": "Water reaches the garden from a qanat."
+   "en": "Water reaches the garden from a qanat.",
+   "faV": "آب اَز قَنات به باغ می‌رِسَد.",
+   "a": "101c402f0fb8"
   },
   {
    "fa": "در وسط حیاط یک حوض آبی بود.",
    "r": "dar vasat-e hayāt yek howz-e ābi bud.",
-   "en": "There was a blue pool in the middle of the courtyard."
+   "en": "There was a blue pool in the middle of the courtyard.",
+   "faV": "دَر وَسَطِ حَیاط یِک حَوضِ آبی بود.",
+   "a": "5026fcb3b336"
   },
   {
    "fa": "فواره‌های باغ فین بدون پمپ کار می‌کنند.",
    "r": "favvāre-hā-ye bāgh-e Fin bedun-e pomp kār mi-konand.",
-   "en": "The fountains of the Fin Garden work without pumps."
+   "en": "The fountains of the Fin Garden work without pumps.",
+   "faV": "فَوّاره‌هایِ باغِ فین بِدونِ پُمپ کار می‌کُنَند.",
+   "a": "3bdbf551ccaa"
   },
   {
    "fa": "ستون‌های چهل‌ستون در آب حوض دو برابر می‌شوند.",
    "r": "sotun-hā-ye Chehel-sotun dar āb-e howz do barābar mi-shavand.",
-   "en": "The columns of Chehel Sotoun are doubled in the water of the pool."
+   "en": "The columns of Chehel Sotoun are doubled in the water of the pool.",
+   "faV": "سُتون‌هایِ چِهِل‌سُتون دَر آبِ حَوض دو بَرابَر می‌شَوَند.",
+   "a": "1ca317bd880d"
   },
   {
    "fa": "سرو در شعر فارسی نماد قد بلند یار است.",
    "r": "sarv dar she'r-e fārsi namād-e ghadd-e boland-e yār ast.",
-   "en": "In Persian poetry the cypress stands for the beloved's tall, graceful figure."
+   "en": "In Persian poetry the cypress stands for the beloved's tall, graceful figure.",
+   "faV": "سَرو دَر شِعرِ فارسی نَمادِ قَدِّ بُلَندِ یار اَست.",
+   "a": "f107ea2553ee"
   },
   {
    "fa": "باغ ایرانی در سال ۲۰۱۱ در فهرست میراث جهانی یونسکو ثبت شد.",
    "r": "bāgh-e irāni dar sāl-e do-hezār-o-yāzdah dar fehrest-e mirās-e jahāni-ye Yunesko sabt shod.",
-   "en": "The Persian Garden was inscribed on UNESCO's World Heritage list in 2011."
+   "en": "The Persian Garden was inscribed on UNESCO's World Heritage list in 2011.",
+   "faV": "باغِ ایرانی دَر سالِ ۲۰۱۱ دَر فِهرِستِ میراثِ جَهانیِ یونِسکو ثَبت شُد.",
+   "a": "65fe03c1fae8"
   },
   {
    "fa": "روز سیزده‌بدر مردم به باغ و پارک می‌روند.",
    "r": "ruz-e Sizdah-bedar mardom be bāgh va pārk mi-ravand.",
-   "en": "On Sizdah Bedar people go out to gardens and parks."
+   "en": "On Sizdah Bedar people go out to gardens and parks.",
+   "faV": "روزِ سیزدَه‌بِدَر مَردُم به باغ و پارک می‌رَوَند.",
+   "a": "e25830fd50ab"
   }
  ],
  "vocab": [
-  {"fa": "باغ", "r": "bāgh", "en": "garden; orchard"},
-  {"fa": "باغبان", "r": "bāghbān", "en": "gardener"},
-  {"fa": "چهارباغ", "r": "chahār-bāgh", "en": "four-part garden, chahar bagh"},
-  {"fa": "پردیس", "r": "pardis", "en": "walled garden, paradise; campus"},
-  {"fa": "بهشت", "r": "behesht", "en": "paradise, heaven"},
-  {"fa": "کوشک", "r": "kushk", "en": "garden pavilion"},
-  {"fa": "آب", "r": "āb", "en": "water"},
-  {"fa": "جوی", "r": "juy", "en": "stream, water channel"},
-  {"fa": "حوض", "r": "howz", "en": "pool, basin"},
-  {"fa": "فواره", "r": "favvāre", "en": "fountain"},
-  {"fa": "آبشار", "r": "ābshār", "en": "waterfall, cascade"},
-  {"fa": "درخت", "r": "derakht", "en": "tree"},
-  {"fa": "سرو", "r": "sarv", "en": "cypress"},
-  {"fa": "چنار", "r": "chenār", "en": "plane tree"},
-  {"fa": "گل", "r": "gol", "en": "flower; rose"},
-  {"fa": "سایه", "r": "sāye", "en": "shade, shadow"},
-  {"fa": "دیوار", "r": "divār", "en": "wall"},
-  {"fa": "میوه", "r": "mive", "en": "fruit"},
-  {"fa": "حیاط", "r": "hayāt", "en": "courtyard"},
-  {"fa": "میراث جهانی", "r": "mirās-e jahāni", "en": "world heritage"}
+  {
+   "fa": "باغ",
+   "r": "bāgh",
+   "en": "garden; orchard",
+   "faV": "باغ",
+   "a": "56f735b72c6f"
+  },
+  {
+   "fa": "باغبان",
+   "r": "bāghbān",
+   "en": "gardener",
+   "faV": "باغبان",
+   "a": "ab5f6618a6ec"
+  },
+  {
+   "fa": "چهارباغ",
+   "r": "chahār-bāgh",
+   "en": "four-part garden, chahar bagh",
+   "faV": "چَهارباغ",
+   "a": "5fef1a04d838"
+  },
+  {
+   "fa": "پردیس",
+   "r": "pardis",
+   "en": "walled garden, paradise; campus",
+   "faV": "پَردیس",
+   "a": "d17f06501594"
+  },
+  {
+   "fa": "بهشت",
+   "r": "behesht",
+   "en": "paradise, heaven",
+   "faV": "بِهِشت",
+   "a": "2d3179ee4e79"
+  },
+  {
+   "fa": "کوشک",
+   "r": "kushk",
+   "en": "garden pavilion",
+   "faV": "کوشک",
+   "a": "24a8621d605e"
+  },
+  {
+   "fa": "آب",
+   "r": "āb",
+   "en": "water",
+   "faV": "آب",
+   "a": "1c5141e4daf8"
+  },
+  {
+   "fa": "جوی",
+   "r": "juy",
+   "en": "stream, water channel",
+   "faV": "جوی",
+   "a": "8eae3b9ba131"
+  },
+  {
+   "fa": "حوض",
+   "r": "howz",
+   "en": "pool, basin",
+   "faV": "حَوض",
+   "a": "f345c8ffe7de"
+  },
+  {
+   "fa": "فواره",
+   "r": "favvāre",
+   "en": "fountain",
+   "faV": "فَوّاره",
+   "a": "ec7449255f5a"
+  },
+  {
+   "fa": "آبشار",
+   "r": "ābshār",
+   "en": "waterfall, cascade",
+   "faV": "آبشار",
+   "a": "6dc2516c0471"
+  },
+  {
+   "fa": "درخت",
+   "r": "derakht",
+   "en": "tree",
+   "faV": "دِرَخت",
+   "a": "82c2ea0896eb"
+  },
+  {
+   "fa": "سرو",
+   "r": "sarv",
+   "en": "cypress",
+   "faV": "سَرو",
+   "a": "1de006ef0022"
+  },
+  {
+   "fa": "چنار",
+   "r": "chenār",
+   "en": "plane tree",
+   "faV": "چِنار",
+   "a": "860e5d0b2ec0"
+  },
+  {
+   "fa": "گل",
+   "r": "gol",
+   "en": "flower; rose",
+   "faV": "گُل",
+   "a": "bd5d76c36abc"
+  },
+  {
+   "fa": "سایه",
+   "r": "sāye",
+   "en": "shade, shadow",
+   "faV": "سایه",
+   "a": "d3cb4226f73d"
+  },
+  {
+   "fa": "دیوار",
+   "r": "divār",
+   "en": "wall",
+   "faV": "دیوار",
+   "a": "e96bf5776b53"
+  },
+  {
+   "fa": "میوه",
+   "r": "mive",
+   "en": "fruit",
+   "faV": "میوه",
+   "a": "ea3dde5c87a9"
+  },
+  {
+   "fa": "حیاط",
+   "r": "hayāt",
+   "en": "courtyard",
+   "faV": "حَیاط",
+   "a": "423af25d0b64"
+  },
+  {
+   "fa": "میراث جهانی",
+   "r": "mirās-e jahāni",
+   "en": "world heritage",
+   "faV": "میراثِ جَهانی",
+   "a": "fed64225b560"
+  }
  ],
  "facts": [
   "UNESCO inscribed 'The Persian Garden', a group of nine gardens across Iran, on its World Heritage list in 2011.",
@@ -127,5 +271,7 @@
   "The cypress of Abarkuh, in Yazd province, is said to be about 4,000 years old – one of the oldest living trees in Asia.",
   "Saadi's *Bustan* ('The Orchard', 1257) and *Golestan* ('The Rose Garden', 1258) are both named after gardens.",
   "Eram Garden in Shiraz is now the botanical garden of Shiraz University."
- ]
+ ],
+ "titleV": "باغ و آب",
+ "titleA": "30aaa65a490b"
 }

@@ -291,10 +291,10 @@ The zeros come from years of inflation. In 2025 Iran passed a law to remove four
 
 **Put the words in order**
 
-1. ترمه / چند / این / است؟ — How much is this termeh?
-2. در / بازار / ارزان‌تر / است. / میوه — Fruit is cheaper in the bazaar.
-3. می‌شود؟ / هم / روی / چقدر — How much does it all come to?
-4. لیلا / می‌خرد. / کیلو / سیب / دو — Leila buys two kilos of apples.
+1. ترمه / این / چند / است؟ — How much is this termeh?
+2. میوه / بازار / ارزان‌تر / در / است. — Fruit is cheaper in the bazaar.
+3. روی / می‌شود؟ / هم / چقدر — How much does it all come to?
+4. سیب / دو / لیلا / کیلو / می‌خرد. — Leila buys two kilos of apples.
 
 <details><summary>Answers</summary>
 

@@ -20,19 +20,162 @@
    "title": "The landlord called",
    "context": "Tom and his flatmate Amir rent a flat in Tehran. Tom comes home, and Amir passes on a message from the landlord, Mr Karimi. Notice that every reported sentence keeps the tense the landlord used.",
    "lines": [
-    {"who": "Amir", "fa": "تام، صاحب‌خانه زنگ زد.", "r": "Tām, sāheb-khāne zang zad.", "en": "Tom, the landlord rang.", "col": "تام، صاحب‌خونه زنگ زد.", "colR": "Tām, sāheb-khune zang zad."},
-    {"who": "Tom", "fa": "آقای کریمی؟ چه گفت؟", "r": "āghā-ye Karimi? che goft?", "en": "Mr Karimi? What did he say?", "col": "آقای کریمی؟ چی گفت؟", "colR": "āghā-ye Karimi? chi goft?"},
-    {"who": "Amir", "fa": "گفت که فردا ساعت ده برای دیدن آشپزخانه می‌آید.", "r": "goft ke fardā sā'at-e dah barā-ye didan-e āshpazkhāne mi-āyad.", "en": "He said he'd come tomorrow at ten to look at the kitchen.", "col": "گفت فردا ساعت ده میاد آشپزخونه رو ببینه.", "colR": "goft fardā sā'at-e dah miyād āshpazkhune ro bebine."},
-    {"who": "Tom", "fa": "برای چه؟ آشپزخانه که مشکلی ندارد.", "r": "barā-ye che? āshpazkhāne ke moshkel-i nadārad.", "en": "What for? There's nothing wrong with the kitchen.", "col": "واسه چی؟ آشپزخونه که مشکلی نداره.", "colR": "vāse chi? āshpazkhune ke moshkel-i nadāre."},
-    {"who": "Amir", "fa": "گفت همسایه‌ی طبقه‌ی پایین شکایت کرده است که از سقفش آب می‌چکد.", "r": "goft hamsāye-ye tabaghe-ye pāyin shekāyat karde ast ke az saghf-ash āb mi-chekad.", "en": "He said the neighbour downstairs has complained that water is dripping from his ceiling.", "col": "گفت همسایه‌ی طبقه‌ی پایین شکایت کرده که از سقفش آب می‌چکه.", "colR": "goft hamsāye-ye tabaghe-ye pāyin shekāyat karde ke az saghf-ash āb mi-cheke."},
-    {"who": "Tom", "fa": "وای! دیگر چه گفت؟", "r": "vāy! digar che goft?", "en": "Oh no! What else did he say?", "col": "وای! دیگه چی گفت؟", "colR": "vāy! dige chi goft?"},
-    {"who": "Amir", "fa": "پرسید که آیا اجاره‌ی این ماه را پرداخته‌ایم.", "r": "porsid ke āyā ejāre-ye in māh rā pardākhte-im.", "en": "He asked whether we had paid this month's rent.", "col": "پرسید اجاره‌ی این ماهو دادیم یا نه.", "colR": "porsid ejāre-ye in māh-o dādim yā na."},
-    {"who": "Tom", "fa": "تو چه جواب دادی؟", "r": "to che javāb dādi?", "en": "What did you tell him?", "col": "تو چی جواب دادی؟", "colR": "to chi javāb dādi?"},
-    {"who": "Amir", "fa": "گفتم که تو دیروز پول را به حسابش واریز کرده‌ای.", "r": "goftam ke to diruz pul rā be hesāb-ash vāriz karde-i.", "en": "I said you'd paid the money into his account yesterday.", "col": "گفتم تو دیروز پولو ریختی به حسابش.", "colR": "goftam to diruz pul-o rikhti be hesāb-esh."},
-    {"who": "Tom", "fa": "درست است. چیز دیگری نپرسید؟", "r": "dorost ast. chiz-e digar-i naporsid?", "en": "That's right. Didn't he ask anything else?", "col": "درسته. چیز دیگه‌ای نپرسید؟", "colR": "doroste. chiz-e dige-i naporsid?"},
-    {"who": "Amir", "fa": "چرا، پرسید کی قرارداد را تمدید می‌کنیم و گفت که از ماه بعد اجاره را بالا می‌برد.", "r": "cherā, porsid key gharārdād rā tamdid mi-konim o goft ke az māh-e ba'd ejāre rā bālā mi-barad.", "en": "Yes – he asked when we were renewing the contract, and said he's putting the rent up from next month.", "col": "چرا، پرسید کی قراردادو تمدید می‌کنیم و گفت از ماه بعد اجاره رو می‌بره بالا.", "colR": "cherā, porsid key gharārdād-o tamdid mi-konim o goft az māh-e ba'd ejāre ro mi-bare bālā."},
-    {"who": "Tom", "fa": "همیشه همین را می‌گوید! به او بگو که اول باید سقف را درست کند.", "r": "hamishe hamin rā mi-guyad! be u begu ke avval bāyad saghf rā dorost konad.", "en": "He always says that! Tell him he has to fix the ceiling first.", "col": "همیشه همینو می‌گه! بهش بگو اول باید سقفو درست کنه.", "colR": "hamishe hamin-o mi-ge! behesh begu avval bāyad saghf-o dorost kone."},
-    {"who": "Amir", "fa": "باشد، ولی فردا خودت به او بگو. من ساعت ده کلاس دارم!", "r": "bāshad, vali fardā khod-at be u begu. man sā'at-e dah kelās dāram!", "en": "OK, but tomorrow you tell him yourself. I've got a class at ten!", "col": "باشه، ولی فردا خودت بهش بگو. من ساعت ده کلاس دارم!", "colR": "bāshe, vali fardā khod-et behesh begu. man sā'at-e dah kelās dāram!"}
+    {
+     "who": "Amir",
+     "fa": "تام، صاحب‌خانه زنگ زد.",
+     "r": "Tām, sāheb-khāne zang zad.",
+     "en": "Tom, the landlord rang.",
+     "col": "تام، صاحب‌خونه زنگ زد.",
+     "colR": "Tām, sāheb-khune zang zad.",
+     "faV": "تام، صاحِب‌خانه زَنگ زَد.",
+     "a": "cfca75b96b00",
+     "colV": "تام، صاحِب‌خونه زَنگ زَد.",
+     "colA": "495f0e2082b0"
+    },
+    {
+     "who": "Tom",
+     "fa": "آقای کریمی؟ چه گفت؟",
+     "r": "āghā-ye Karimi? che goft?",
+     "en": "Mr Karimi? What did he say?",
+     "col": "آقای کریمی؟ چی گفت؟",
+     "colR": "āghā-ye Karimi? chi goft?",
+     "faV": "آقایِ کَریمی؟ چه گُفت؟",
+     "a": "39f7f1c03daf",
+     "colV": "آقایِ کَریمی؟ چی گُفت؟",
+     "colA": "9d2d73d81d5c"
+    },
+    {
+     "who": "Amir",
+     "fa": "گفت که فردا ساعت ده برای دیدن آشپزخانه می‌آید.",
+     "r": "goft ke fardā sā'at-e dah barā-ye didan-e āshpazkhāne mi-āyad.",
+     "en": "He said he'd come tomorrow at ten to look at the kitchen.",
+     "col": "گفت فردا ساعت ده میاد آشپزخونه رو ببینه.",
+     "colR": "goft fardā sā'at-e dah miyād āshpazkhune ro bebine.",
+     "faV": "گُفت که فَردا ساعَتِ دَه بَرایِ دیدَنِ آشپَزخانه می‌آیَد.",
+     "a": "7100b5fc96b1",
+     "colV": "گُفت فَردا ساعَتِ دَه میاد آشپَزخونه رو بِبینه.",
+     "colA": "91ef2b194ec7"
+    },
+    {
+     "who": "Tom",
+     "fa": "برای چه؟ آشپزخانه که مشکلی ندارد.",
+     "r": "barā-ye che? āshpazkhāne ke moshkel-i nadārad.",
+     "en": "What for? There's nothing wrong with the kitchen.",
+     "col": "واسه چی؟ آشپزخونه که مشکلی نداره.",
+     "colR": "vāse chi? āshpazkhune ke moshkel-i nadāre.",
+     "faV": "بَرایِ چه؟ آشپَزخانه که مُشکِلی نَدارَد.",
+     "a": "fce25d55103e",
+     "colV": "واسه چی؟ آشپَزخونه که مُشکِلی نَداره.",
+     "colA": "59e7c62e269c"
+    },
+    {
+     "who": "Amir",
+     "fa": "گفت همسایه‌ی طبقه‌ی پایین شکایت کرده است که از سقفش آب می‌چکد.",
+     "r": "goft hamsāye-ye tabaghe-ye pāyin shekāyat karde ast ke az saghf-ash āb mi-chekad.",
+     "en": "He said the neighbour downstairs has complained that water is dripping from his ceiling.",
+     "col": "گفت همسایه‌ی طبقه‌ی پایین شکایت کرده که از سقفش آب می‌چکه.",
+     "colR": "goft hamsāye-ye tabaghe-ye pāyin shekāyat karde ke az saghf-ash āb mi-cheke.",
+     "faV": "گُفت هَمسایه‌یِ طَبَقه‌یِ پایین شِکایَت کَرده اَست که اَز سَقفَش آب می‌چِکَد.",
+     "a": "5f2b7c3c4ef1",
+     "colV": "گُفت هَمسایه‌یِ طَبَقه‌یِ پایین شِکایَت کَرده که اَز سَقفَش آب می‌چِکه.",
+     "colA": "fb8a08d60e09"
+    },
+    {
+     "who": "Tom",
+     "fa": "وای! دیگر چه گفت؟",
+     "r": "vāy! digar che goft?",
+     "en": "Oh no! What else did he say?",
+     "col": "وای! دیگه چی گفت؟",
+     "colR": "vāy! dige chi goft?",
+     "faV": "وای! دیگَر چه گُفت؟",
+     "a": "4b8ea80dea6e",
+     "colV": "وای! دیگه چی گُفت؟",
+     "colA": "1aeb7528922f"
+    },
+    {
+     "who": "Amir",
+     "fa": "پرسید که آیا اجاره‌ی این ماه را پرداخته‌ایم.",
+     "r": "porsid ke āyā ejāre-ye in māh rā pardākhte-im.",
+     "en": "He asked whether we had paid this month's rent.",
+     "col": "پرسید اجاره‌ی این ماهو دادیم یا نه.",
+     "colR": "porsid ejāre-ye in māh-o dādim yā na.",
+     "faV": "پُرسید که آیا اِجاره‌یِ این ماه را پَرداخته‌ایم.",
+     "a": "a8e4762f2253",
+     "colV": "پُرسید اِجاره‌یِ این ماهو دادیم یا نه.",
+     "colA": "2411d52cd8b7"
+    },
+    {
+     "who": "Tom",
+     "fa": "تو چه جواب دادی؟",
+     "r": "to che javāb dādi?",
+     "en": "What did you tell him?",
+     "col": "تو چی جواب دادی؟",
+     "colR": "to chi javāb dādi?",
+     "faV": "تو چه جَواب دادی؟",
+     "a": "6de880744b06",
+     "colV": "تو چی جَواب دادی؟",
+     "colA": "d30d5865ab92"
+    },
+    {
+     "who": "Amir",
+     "fa": "گفتم که تو دیروز پول را به حسابش واریز کرده‌ای.",
+     "r": "goftam ke to diruz pul rā be hesāb-ash vāriz karde-i.",
+     "en": "I said you'd paid the money into his account yesterday.",
+     "col": "گفتم تو دیروز پولو ریختی به حسابش.",
+     "colR": "goftam to diruz pul-o rikhti be hesāb-esh.",
+     "faV": "گُفتَم که تو دیروز پول را به حِسابَش واریز کَرده‌ای.",
+     "a": "b000aabc7a1e",
+     "colV": "گُفتَم تو دیروز پولو ریختی به حِسابِش.",
+     "colA": "b59fc78ce9f2"
+    },
+    {
+     "who": "Tom",
+     "fa": "درست است. چیز دیگری نپرسید؟",
+     "r": "dorost ast. chiz-e digar-i naporsid?",
+     "en": "That's right. Didn't he ask anything else?",
+     "col": "درسته. چیز دیگه‌ای نپرسید؟",
+     "colR": "doroste. chiz-e dige-i naporsid?",
+     "faV": "دُرُست اَست. چیزِ دیگَری نَپُرسید؟",
+     "a": "ef3bd15de251",
+     "colV": "دُرُسته. چیزِ دیگه‌ای نَپُرسید؟",
+     "colA": "b26c403d3cdd"
+    },
+    {
+     "who": "Amir",
+     "fa": "چرا، پرسید کی قرارداد را تمدید می‌کنیم و گفت که از ماه بعد اجاره را بالا می‌برد.",
+     "r": "cherā, porsid key gharārdād rā tamdid mi-konim o goft ke az māh-e ba'd ejāre rā bālā mi-barad.",
+     "en": "Yes – he asked when we were renewing the contract, and said he's putting the rent up from next month.",
+     "col": "چرا، پرسید کی قراردادو تمدید می‌کنیم و گفت از ماه بعد اجاره رو می‌بره بالا.",
+     "colR": "cherā, porsid key gharārdād-o tamdid mi-konim o goft az māh-e ba'd ejāre ro mi-bare bālā.",
+     "faV": "چِرا، پُرسید کَی قَرارداد را تَمدید می‌کُنیم و گُفت که اَز ماهِ بَعد اِجاره را بالا می‌بَرَد.",
+     "a": "90c791aad449",
+     "colV": "چِرا، پُرسید کَی قَراردادو تَمدید می‌کُنیم و گُفت اَز ماهِ بَعد اِجاره رو می‌بَره بالا.",
+     "colA": "b4bb762c5079"
+    },
+    {
+     "who": "Tom",
+     "fa": "همیشه همین را می‌گوید! به او بگو که اول باید سقف را درست کند.",
+     "r": "hamishe hamin rā mi-guyad! be u begu ke avval bāyad saghf rā dorost konad.",
+     "en": "He always says that! Tell him he has to fix the ceiling first.",
+     "col": "همیشه همینو می‌گه! بهش بگو اول باید سقفو درست کنه.",
+     "colR": "hamishe hamin-o mi-ge! behesh begu avval bāyad saghf-o dorost kone.",
+     "faV": "هَمیشه هَمین را می‌گویَد! به او بِگو که اَوَّل بایَد سَقف را دُرُست کُنَد.",
+     "a": "6faf365113b8",
+     "colV": "هَمیشه هَمینو می‌گه! بِهِش بِگو اَوَّل بایَد سَقفو دُرُست کُنه.",
+     "colA": "a2c340709b73"
+    },
+    {
+     "who": "Amir",
+     "fa": "باشد، ولی فردا خودت به او بگو. من ساعت ده کلاس دارم!",
+     "r": "bāshad, vali fardā khod-at be u begu. man sā'at-e dah kelās dāram!",
+     "en": "OK, but tomorrow you tell him yourself. I've got a class at ten!",
+     "col": "باشه، ولی فردا خودت بهش بگو. من ساعت ده کلاس دارم!",
+     "colR": "bāshe, vali fardā khod-et behesh begu. man sā'at-e dah kelās dāram!",
+     "faV": "باشَد، وَلی فَردا خودَت به او بِگو. مَن ساعَتِ دَه کِلاس دارَم!",
+     "a": "513f2115c2d2",
+     "colV": "باشه، وَلی فَردا خودِت بِهِش بِگو. مَن ساعَتِ دَه کِلاس دارَم!",
+     "colA": "b6db99f94717"
+    }
    ]
   },
   {
@@ -44,30 +187,213 @@
    "type": "vocab",
    "title": "Words",
    "items": [
-    {"fa": "صاحب‌خانه", "r": "sāheb-khāne", "en": "landlord, landlady; owner of the house", "pos": "n"},
-    {"fa": "اجاره", "r": "ejāre", "en": "rent", "pos": "n", "ex": {"fa": "اجاره را بالا برد.", "r": "ejāre rā bālā bord.", "en": "He put the rent up."}},
-    {"fa": "قرارداد", "r": "gharārdād", "en": "contract", "pos": "n"},
-    {"fa": "تمدید کردن", "r": "tamdid kardan", "en": "to renew, extend", "pos": "v"},
-    {"fa": "همسایه", "r": "hamsāye", "en": "neighbour", "pos": "n"},
-    {"fa": "سقف", "r": "saghf", "en": "ceiling; roof", "pos": "n"},
-    {"fa": "چکیدن", "r": "chekidan", "en": "to drip", "pos": "v"},
-    {"fa": "شکایت کردن", "r": "shekāyat kardan", "en": "to complain", "pos": "v"},
-    {"fa": "واریز کردن", "r": "vāriz kardan", "en": "to pay in, transfer (money)", "pos": "v"},
-    {"fa": "حساب", "r": "hesāb", "en": "account; bill", "pos": "n"},
-    {"fa": "پرسیدن", "r": "porsidan", "en": "to ask (a question)", "pos": "v", "note": "present stem پرس; ask someone: از کسی پرسیدن"},
-    {"fa": "آیا", "r": "āyā", "en": "whether; marks a yes/no question in writing", "pos": "part"},
-    {"fa": "جواب دادن", "r": "javāb dādan", "en": "to answer, reply", "pos": "v"},
-    {"fa": "توضیح دادن", "r": "towzih dādan", "en": "to explain", "pos": "v"},
-    {"fa": "قول دادن", "r": "ghowl dādan", "en": "to promise", "pos": "v"},
-    {"fa": "اصرار کردن", "r": "esrār kardan", "en": "to insist", "pos": "v"},
-    {"fa": "ادعا کردن", "r": "edde'ā kardan", "en": "to claim", "pos": "v"},
-    {"fa": "اعتراف کردن", "r": "e'terāf kardan", "en": "to admit, confess", "pos": "v"},
-    {"fa": "انکار کردن", "r": "enkār kardan", "en": "to deny", "pos": "v"},
-    {"fa": "هشدار دادن", "r": "hoshdār dādan", "en": "to warn", "pos": "v"},
-    {"fa": "پیشنهاد کردن", "r": "pishnahād kardan", "en": "to suggest, propose", "pos": "v"},
-    {"fa": "تعریف کردن", "r": "ta'rif kardan", "en": "to tell (a story), recount; to praise", "pos": "v"},
-    {"fa": "پیغام", "r": "peyghām", "en": "message", "pos": "n", "ex": {"fa": "پیغام شما را به او می‌رسانم.", "r": "peyghām-e shomā rā be u mi-resānam.", "en": "I'll pass your message on to him."}},
-    {"fa": "مصاحبه", "r": "mosāhebe", "en": "interview", "pos": "n"}
+    {
+     "fa": "صاحب‌خانه",
+     "r": "sāheb-khāne",
+     "en": "landlord, landlady; owner of the house",
+     "pos": "n",
+     "faV": "صاحِب‌خانه",
+     "a": "f1daa7be6693"
+    },
+    {
+     "fa": "اجاره",
+     "r": "ejāre",
+     "en": "rent",
+     "pos": "n",
+     "ex": {
+      "fa": "اجاره را بالا برد.",
+      "r": "ejāre rā bālā bord.",
+      "en": "He put the rent up.",
+      "faV": "اِجاره را بالا بُرد.",
+      "a": "e35a44d76c61"
+     },
+     "faV": "اِجاره",
+     "a": "a2eba43332d4"
+    },
+    {
+     "fa": "قرارداد",
+     "r": "gharārdād",
+     "en": "contract",
+     "pos": "n",
+     "faV": "قَرارداد",
+     "a": "366cae5d2a2f"
+    },
+    {
+     "fa": "تمدید کردن",
+     "r": "tamdid kardan",
+     "en": "to renew, extend",
+     "pos": "v",
+     "faV": "تَمدید کَردَن",
+     "a": "cd37dbb99416"
+    },
+    {
+     "fa": "همسایه",
+     "r": "hamsāye",
+     "en": "neighbour",
+     "pos": "n",
+     "faV": "هَمسایه",
+     "a": "1eebc0594655"
+    },
+    {
+     "fa": "سقف",
+     "r": "saghf",
+     "en": "ceiling; roof",
+     "pos": "n",
+     "faV": "سَقف",
+     "a": "661216353699"
+    },
+    {
+     "fa": "چکیدن",
+     "r": "chekidan",
+     "en": "to drip",
+     "pos": "v",
+     "faV": "چِکیدَن",
+     "a": "62a91ff3247c"
+    },
+    {
+     "fa": "شکایت کردن",
+     "r": "shekāyat kardan",
+     "en": "to complain",
+     "pos": "v",
+     "faV": "شِکایَت کَردَن",
+     "a": "f49a113298e2"
+    },
+    {
+     "fa": "واریز کردن",
+     "r": "vāriz kardan",
+     "en": "to pay in, transfer (money)",
+     "pos": "v",
+     "faV": "واریز کَردَن",
+     "a": "fd71fc8392b1"
+    },
+    {
+     "fa": "حساب",
+     "r": "hesāb",
+     "en": "account; bill",
+     "pos": "n",
+     "faV": "حِساب",
+     "a": "72a42fba0501"
+    },
+    {
+     "fa": "پرسیدن",
+     "r": "porsidan",
+     "en": "to ask (a question)",
+     "pos": "v",
+     "note": "present stem پرس; ask someone: از کسی پرسیدن",
+     "faV": "پُرسیدَن",
+     "a": "b4d4c2f0a0be"
+    },
+    {
+     "fa": "آیا",
+     "r": "āyā",
+     "en": "whether; marks a yes/no question in writing",
+     "pos": "part",
+     "faV": "آیا",
+     "a": "942d936fd2b3"
+    },
+    {
+     "fa": "جواب دادن",
+     "r": "javāb dādan",
+     "en": "to answer, reply",
+     "pos": "v",
+     "faV": "جَواب دادَن",
+     "a": "282cbada6fdf"
+    },
+    {
+     "fa": "توضیح دادن",
+     "r": "towzih dādan",
+     "en": "to explain",
+     "pos": "v",
+     "faV": "تَوضیح دادَن",
+     "a": "c06dd5c605d0"
+    },
+    {
+     "fa": "قول دادن",
+     "r": "ghowl dādan",
+     "en": "to promise",
+     "pos": "v",
+     "faV": "قَول دادَن",
+     "a": "44ed05d756ce"
+    },
+    {
+     "fa": "اصرار کردن",
+     "r": "esrār kardan",
+     "en": "to insist",
+     "pos": "v",
+     "faV": "اِصرار کَردَن",
+     "a": "b993ada24acb"
+    },
+    {
+     "fa": "ادعا کردن",
+     "r": "edde'ā kardan",
+     "en": "to claim",
+     "pos": "v",
+     "faV": "اِدِّعا کَردَن",
+     "a": "740808fa0f00"
+    },
+    {
+     "fa": "اعتراف کردن",
+     "r": "e'terāf kardan",
+     "en": "to admit, confess",
+     "pos": "v",
+     "faV": "اِعتِراف کَردَن",
+     "a": "13c962457b4b"
+    },
+    {
+     "fa": "انکار کردن",
+     "r": "enkār kardan",
+     "en": "to deny",
+     "pos": "v",
+     "faV": "اِنکار کَردَن",
+     "a": "39cb6ac7d9d1"
+    },
+    {
+     "fa": "هشدار دادن",
+     "r": "hoshdār dādan",
+     "en": "to warn",
+     "pos": "v",
+     "faV": "هُشدار دادَن",
+     "a": "b0dfe83b2031"
+    },
+    {
+     "fa": "پیشنهاد کردن",
+     "r": "pishnahād kardan",
+     "en": "to suggest, propose",
+     "pos": "v",
+     "faV": "پیشنَهاد کَردَن",
+     "a": "cec7d40af39e"
+    },
+    {
+     "fa": "تعریف کردن",
+     "r": "ta'rif kardan",
+     "en": "to tell (a story), recount; to praise",
+     "pos": "v",
+     "faV": "تَعریف کَردَن",
+     "a": "0b99a18d53d4"
+    },
+    {
+     "fa": "پیغام",
+     "r": "peyghām",
+     "en": "message",
+     "pos": "n",
+     "ex": {
+      "fa": "پیغام شما را به او می‌رسانم.",
+      "r": "peyghām-e shomā rā be u mi-resānam.",
+      "en": "I'll pass your message on to him.",
+      "faV": "پَیغامِ شُما را به او می‌رِسانَم.",
+      "a": "7dfbc0390de8"
+     },
+     "faV": "پَیغام",
+     "a": "6a9db16d534f"
+    },
+    {
+     "fa": "مصاحبه",
+     "r": "mosāhebe",
+     "en": "interview",
+     "pos": "n",
+     "faV": "مُصاحِبه",
+     "a": "428893528238"
+    }
    ]
   },
   {
@@ -75,26 +401,128 @@
    "title": "Same tense, new person",
    "md": "To report a statement, use [[گفتن|goftan]] (or another reporting verb) + optional [[که|ke]] + the sentence **in its original tense**. Change *I* to *he* or *she*, *you* to *I*, and so on – just as in English – but leave the tense alone.\n\nOne thing is different: when someone tells you about a **past** event, Persian very often reports it with the **perfect**: [[دیروز رفتم|diruz raftam|I went yesterday]] → [[گفت که دیروز رفته است|goft ke diruz rafte ast|he said he had gone yesterday]]. The perfect is the Persian tense of hearsay – of things you know only because someone told you. The simple past ([[گفت که دیروز رفت|goft ke diruz raft]]) is also correct.\n\nIn conversation people also quote directly, keeping the original *I*: [[گفت: «من فردا میام.»|goft: «man fardā miyām.»|he said, 'I'm coming tomorrow']]. The person ending of the verb tells you which one you are hearing.",
    "table": {
-    "head": ["Direct speech", "Reported", "English"],
+    "head": [
+     "Direct speech",
+     "Reported",
+     "English"
+    ],
     "rows": [
-     ["[[«خسته‌ام.»|«khaste-am.»]]", "[[گفت که خسته است.|goft ke khaste ast.]]", "She said she was tired."],
-     ["[[«فردا می‌آیم.»|«fardā mi-āyam.»]]", "[[گفت که فردا می‌آید.|goft ke fardā mi-āyad.]]", "He said he would come tomorrow."],
-     ["[[«دارم کار می‌کنم.»|«dāram kār mi-konam.»]]", "[[گفت که دارد کار می‌کند.|goft ke dārad kār mi-konad.]]", "He said he was working."],
-     ["[[«دیروز رفتم.»|«diruz raftam.»]]", "[[گفت که دیروز رفته است.|goft ke diruz rafte ast.]]", "He said he had gone yesterday."],
-     ["[[«تا حالا ایران نرفته‌ام.»|«tā hālā Irān narafte-am.»]]", "[[گفت که تا حالا ایران نرفته است.|goft ke tā hālā Irān narafte ast.]]", "She said she had never been to Iran."],
-     ["[[«می‌توانم کمک کنم.»|«mi-tavānam komak konam.»]]", "[[گفت که می‌تواند کمک کند.|goft ke mi-tavānad komak konad.]]", "He said he could help."],
-     ["[[«باید بروم.»|«bāyad beravam.»]]", "[[گفت که باید برود.|goft ke bāyad beravad.]]", "She said she had to go."],
-     ["[[«شما را دوست دارم.»|«shomā rā dust dāram.»]]", "[[گفت که مرا دوست دارد.|goft ke marā dust dārad.]]", "He said he loved me."]
+     [
+      "[[«خسته‌ام.»|«khaste-am.»]]",
+      "[[گفت که خسته است.|goft ke khaste ast.]]",
+      "She said she was tired."
+     ],
+     [
+      "[[«فردا می‌آیم.»|«fardā mi-āyam.»]]",
+      "[[گفت که فردا می‌آید.|goft ke fardā mi-āyad.]]",
+      "He said he would come tomorrow."
+     ],
+     [
+      "[[«دارم کار می‌کنم.»|«dāram kār mi-konam.»]]",
+      "[[گفت که دارد کار می‌کند.|goft ke dārad kār mi-konad.]]",
+      "He said he was working."
+     ],
+     [
+      "[[«دیروز رفتم.»|«diruz raftam.»]]",
+      "[[گفت که دیروز رفته است.|goft ke diruz rafte ast.]]",
+      "He said he had gone yesterday."
+     ],
+     [
+      "[[«تا حالا ایران نرفته‌ام.»|«tā hālā Irān narafte-am.»]]",
+      "[[گفت که تا حالا ایران نرفته است.|goft ke tā hālā Irān narafte ast.]]",
+      "She said she had never been to Iran."
+     ],
+     [
+      "[[«می‌توانم کمک کنم.»|«mi-tavānam komak konam.»]]",
+      "[[گفت که می‌تواند کمک کند.|goft ke mi-tavānad komak konad.]]",
+      "He said he could help."
+     ],
+     [
+      "[[«باید بروم.»|«bāyad beravam.»]]",
+      "[[گفت که باید برود.|goft ke bāyad beravad.]]",
+      "She said she had to go."
+     ],
+     [
+      "[[«شما را دوست دارم.»|«shomā rā dust dāram.»]]",
+      "[[گفت که مرا دوست دارد.|goft ke marā dust dārad.]]",
+      "He said he loved me."
+     ]
     ]
    },
    "examples": [
-    {"fa": "مینا گفت که امشب دیر به خانه می‌آید.", "r": "Minā goft ke emshab dir be khāne mi-āyad.", "en": "Mina said she would be home late tonight.", "col": "مینا گفت امشب دیر میاد خونه.", "colR": "Minā goft emshab dir miyād khune."},
-    {"fa": "پزشک گفت که باید یک هفته استراحت کنم.", "r": "pezeshk goft ke bāyad yek hafte esterāhat konam.", "en": "The doctor said I had to rest for a week.", "col": "دکتر گفت باید یه هفته استراحت کنم.", "colR": "doktor goft bāyad ye hafte esterāhat konam."},
-    {"fa": "رضا گفت که کلیدش را گم کرده است.", "r": "Rezā goft ke kelid-ash rā gom karde ast.", "en": "Reza said he had lost his key.", "col": "رضا گفت کلیدشو گم کرده.", "colR": "Rezā goft kelid-esh-o gom karde."},
-    {"fa": "همه می‌گفتند که این رستوران بهترین کباب شهر را دارد.", "r": "hame mi-goftand ke in restorān behtarin kabāb-e shahr rā dārad.", "en": "Everyone said this restaurant had the best kebab in town.", "col": "همه می‌گفتن این رستوران بهترین کباب شهرو داره.", "colR": "hame mi-goftan in restorān behtarin kabāb-e shahr-o dāre."},
-    {"fa": "گفتم که نمی‌توانم بیایم، اما او اصرار کرد.", "r": "goftam ke nemi-tavānam biyāyam, ammā u esrār kard.", "en": "I said I couldn't come, but he insisted.", "col": "گفتم نمی‌تونم بیام، ولی اون اصرار کرد.", "colR": "goftam nemi-tunam biyām, vali un esrār kard."},
-    {"fa": "سارا گفت که خسته است و زود می‌خوابد.", "r": "Sārā goft ke khaste ast o zud mi-khābad.", "en": "Sara said she was tired and was going to bed early.", "col": "سارا گفت خسته‌ست و زود می‌خوابه.", "colR": "Sārā goft khaste-st o zud mi-khābe."},
-    {"fa": "در نامه نوشته بود که ماه آینده به تهران برمی‌گردد.", "r": "dar nāme neveshte bud ke māh-e āyande be Tehrān bar-mi-gardad.", "en": "He had written in the letter that he was coming back to Tehran next month."}
+    {
+     "fa": "مینا گفت که امشب دیر به خانه می‌آید.",
+     "r": "Minā goft ke emshab dir be khāne mi-āyad.",
+     "en": "Mina said she would be home late tonight.",
+     "col": "مینا گفت امشب دیر میاد خونه.",
+     "colR": "Minā goft emshab dir miyād khune.",
+     "faV": "مینا گُفت که اِمشَب دیر به خانه می‌آیَد.",
+     "a": "73c7d5b30bf7",
+     "colV": "مینا گُفت اِمشَب دیر میاد خونه.",
+     "colA": "bb76f5346f61"
+    },
+    {
+     "fa": "پزشک گفت که باید یک هفته استراحت کنم.",
+     "r": "pezeshk goft ke bāyad yek hafte esterāhat konam.",
+     "en": "The doctor said I had to rest for a week.",
+     "col": "دکتر گفت باید یه هفته استراحت کنم.",
+     "colR": "doktor goft bāyad ye hafte esterāhat konam.",
+     "faV": "پِزِشک گُفت که بایَد یِک هَفته اِستِراحَت کُنَم.",
+     "a": "8dd56f4bb3ef",
+     "colV": "دُکتُر گُفت بایَد یه هَفته اِستِراحَت کُنَم.",
+     "colA": "99540e4b7f26"
+    },
+    {
+     "fa": "رضا گفت که کلیدش را گم کرده است.",
+     "r": "Rezā goft ke kelid-ash rā gom karde ast.",
+     "en": "Reza said he had lost his key.",
+     "col": "رضا گفت کلیدشو گم کرده.",
+     "colR": "Rezā goft kelid-esh-o gom karde.",
+     "faV": "رِضا گُفت که کِلیدَش را گُم کَرده اَست.",
+     "a": "ca76d8ad4431",
+     "colV": "رِضا گُفت کِلیدِشو گُم کَرده.",
+     "colA": "6ba1889687c6"
+    },
+    {
+     "fa": "همه می‌گفتند که این رستوران بهترین کباب شهر را دارد.",
+     "r": "hame mi-goftand ke in restorān behtarin kabāb-e shahr rā dārad.",
+     "en": "Everyone said this restaurant had the best kebab in town.",
+     "col": "همه می‌گفتن این رستوران بهترین کباب شهرو داره.",
+     "colR": "hame mi-goftan in restorān behtarin kabāb-e shahr-o dāre.",
+     "faV": "هَمه می‌گُفتَند که این رِستوران بِهتَرین کَبابِ شَهر را دارَد.",
+     "a": "8f6d9b28530a",
+     "colV": "هَمه می‌گُفتَن این رِستوران بِهتَرین کَبابِ شَهرو داره.",
+     "colA": "a5f55caabae7"
+    },
+    {
+     "fa": "گفتم که نمی‌توانم بیایم، اما او اصرار کرد.",
+     "r": "goftam ke nemi-tavānam biyāyam, ammā u esrār kard.",
+     "en": "I said I couldn't come, but he insisted.",
+     "col": "گفتم نمی‌تونم بیام، ولی اون اصرار کرد.",
+     "colR": "goftam nemi-tunam biyām, vali un esrār kard.",
+     "faV": "گُفتَم که نِمی‌تَوانَم بیایَم، اَمّا او اِصرار کَرد.",
+     "a": "8b02157f8eaa",
+     "colV": "گُفتَم نِمی‌تونَم بیام، وَلی اون اِصرار کَرد.",
+     "colA": "17955f582015"
+    },
+    {
+     "fa": "سارا گفت که خسته است و زود می‌خوابد.",
+     "r": "Sārā goft ke khaste ast o zud mi-khābad.",
+     "en": "Sara said she was tired and was going to bed early.",
+     "col": "سارا گفت خسته‌ست و زود می‌خوابه.",
+     "colR": "Sārā goft khaste-st o zud mi-khābe.",
+     "faV": "سارا گُفت که خَسته اَست و زود می‌خوابَد.",
+     "a": "b15612255443",
+     "colV": "سارا گُفت خَسته‌ست و زود می‌خوابه.",
+     "colA": "3ef4bedb3a49"
+    },
+    {
+     "fa": "در نامه نوشته بود که ماه آینده به تهران برمی‌گردد.",
+     "r": "dar nāme neveshte bud ke māh-e āyande be Tehrān bar-mi-gardad.",
+     "en": "He had written in the letter that he was coming back to Tehran next month.",
+     "faV": "دَر نامه نِوِشته بود که ماهِ آیَنده به تِهران بَرمی‌گَردَد.",
+     "a": "7f5d2fa6acdc"
+    }
    ]
   },
   {
@@ -102,27 +530,133 @@
    "title": "Reporting questions, requests and orders",
    "md": "**Yes/no questions.** In writing, put [[آیا|āyā|whether]] after [[پرسید که|porsid ke|he asked]]: [[پرسید که آیا می‌آیم|porsid ke āyā mi-āyam|he asked whether I was coming]]. In speech, leave out آیا and add [[یا نه|yā na|or not]] at the end: [[پرسید میام یا نه|porsid miyām yā na]].\n\n**Wh-questions** keep their question word where it was – there is no change of word order, unlike English: [[کجا زندگی می‌کنی؟|kojā zendegi mi-koni?|where do you live?]] → [[پرسید کجا زندگی می‌کنم|porsid kojā zendegi mi-konam|he asked where I lived]]. Never use آیا here.\n\n**Requests and orders** become a **subjunctive**: [[بنشین!|beneshin!|sit down!]] → [[گفت که بنشینم|goft ke beneshinam|he told me to sit down]]; [[لطفاً صبر کنید|lotfan sabr konid|please wait]] → [[از ما خواست که صبر کنیم|az mā khāst ke sabr konim|she asked us to wait]].\n\nMind the prepositions: you ask a question *from* someone ([[از کسی پرسیدن|az kas-i porsidan]]), ask *from* someone to do something ([[از کسی خواستن|az kas-i khāstan]]), but tell *to* someone ([[به کسی گفتن|be kas-i goftan]]).",
    "table": {
-    "head": ["Direct question or order", "Reported", "English"],
+    "head": [
+     "Direct question or order",
+     "Reported",
+     "English"
+    ],
     "rows": [
-     ["[[«می‌آیی؟»|«mi-āyi?»]]", "[[پرسید که آیا می‌آیم.|porsid ke āyā mi-āyam.]]", "He asked whether I was coming."],
-     ["[[«میای؟»|«miyāy?»]] (spoken)", "[[پرسید میام یا نه.|porsid miyām yā na.]]", "He asked if I was coming or not."],
-     ["[[«کجا زندگی می‌کنی؟»|«kojā zendegi mi-koni?»]]", "[[پرسید کجا زندگی می‌کنم.|porsid kojā zendegi mi-konam.]]", "He asked where I lived."],
-     ["[[«چرا دیر کردی؟»|«cherā dir kardi?»]]", "[[پرسید چرا دیر کرده‌ام.|porsid cherā dir karde-am.]]", "She asked why I was late."],
-     ["[[«کی برمی‌گردی؟»|«key bar-mi-gardi?»]]", "[[پرسید کی برمی‌گردم.|porsid key bar-mi-gardam.]]", "He asked when I was coming back."],
-     ["[[«چند سالت است؟»|«chand sāl-at ast?»]]", "[[پرسید چند سالم است.|porsid chand sāl-am ast.]]", "She asked how old I was."],
-     ["[[«بنشین!»|«beneshin!»]]", "[[گفت که بنشینم.|goft ke beneshinam.]]", "He told me to sit down."],
-     ["[[«لطفاً صبر کنید.»|«lotfan sabr konid.»]]", "[[از ما خواست که صبر کنیم.|az mā khāst ke sabr konim.]]", "She asked us to wait."],
-     ["[[«دیر نکن!»|«dir nakon!»]]", "[[گفت که دیر نکنم.|goft ke dir nakonam.]]", "He told me not to be late."]
+     [
+      "[[«می‌آیی؟»|«mi-āyi?»]]",
+      "[[پرسید که آیا می‌آیم.|porsid ke āyā mi-āyam.]]",
+      "He asked whether I was coming."
+     ],
+     [
+      "[[«میای؟»|«miyāy?»]] (spoken)",
+      "[[پرسید میام یا نه.|porsid miyām yā na.]]",
+      "He asked if I was coming or not."
+     ],
+     [
+      "[[«کجا زندگی می‌کنی؟»|«kojā zendegi mi-koni?»]]",
+      "[[پرسید کجا زندگی می‌کنم.|porsid kojā zendegi mi-konam.]]",
+      "He asked where I lived."
+     ],
+     [
+      "[[«چرا دیر کردی؟»|«cherā dir kardi?»]]",
+      "[[پرسید چرا دیر کرده‌ام.|porsid cherā dir karde-am.]]",
+      "She asked why I was late."
+     ],
+     [
+      "[[«کی برمی‌گردی؟»|«key bar-mi-gardi?»]]",
+      "[[پرسید کی برمی‌گردم.|porsid key bar-mi-gardam.]]",
+      "He asked when I was coming back."
+     ],
+     [
+      "[[«چند سالت است؟»|«chand sāl-at ast?»]]",
+      "[[پرسید چند سالم است.|porsid chand sāl-am ast.]]",
+      "She asked how old I was."
+     ],
+     [
+      "[[«بنشین!»|«beneshin!»]]",
+      "[[گفت که بنشینم.|goft ke beneshinam.]]",
+      "He told me to sit down."
+     ],
+     [
+      "[[«لطفاً صبر کنید.»|«lotfan sabr konid.»]]",
+      "[[از ما خواست که صبر کنیم.|az mā khāst ke sabr konim.]]",
+      "She asked us to wait."
+     ],
+     [
+      "[[«دیر نکن!»|«dir nakon!»]]",
+      "[[گفت که دیر نکنم.|goft ke dir nakonam.]]",
+      "He told me not to be late."
+     ]
     ]
    },
    "examples": [
-    {"fa": "مأمور گمرک پرسید که آیا چیزی برای اظهار دارم.", "r": "ma'mur-e gomrok porsid ke āyā chiz-i barā-ye ezhār dāram.", "en": "The customs officer asked whether I had anything to declare."},
-    {"fa": "مادرم پرسید که آیا غذا خورده‌ام.", "r": "mādar-am porsid ke āyā ghazā khorde-am.", "en": "My mother asked whether I had eaten.", "col": "مامانم پرسید غذا خوردم یا نه.", "colR": "māmān-am porsid ghazā khordam yā na."},
-    {"fa": "از راننده پرسیدم که تا میدان آزادی چقدر راه است.", "r": "az rānande porsidam ke tā meydān-e Āzādi cheghadr rāh ast.", "en": "I asked the driver how far it was to Azadi Square.", "col": "از راننده پرسیدم تا میدون آزادی چقدر راهه.", "colR": "az rānande porsidam tā meydun-e Āzādi cheghadr rāhe."},
-    {"fa": "نمی‌دانم که آیا او راست می‌گوید.", "r": "nemi-dānam ke āyā u rāst mi-guyad.", "en": "I don't know whether he's telling the truth.", "col": "نمی‌دونم راست می‌گه یا نه.", "colR": "nemi-dunam rāst mi-ge yā na."},
-    {"fa": "استاد از ما خواست که تمرین‌ها را تا شنبه تحویل بدهیم.", "r": "ostād az mā khāst ke tamrin-hā rā tā shanbe tahvil bedahim.", "en": "The lecturer asked us to hand in the exercises by Saturday.", "col": "استاد ازمون خواست تمرینا رو تا شنبه تحویل بدیم.", "colR": "ostād azemun khāst tamrinā ro tā shanbe tahvil bedim."},
-    {"fa": "به او گفتم که نگران نباشد.", "r": "be u goftam ke negarān nabāshad.", "en": "I told him not to worry.", "col": "بهش گفتم نگران نباشه.", "colR": "behesh goftam negarān nabāshe."},
-    {"fa": "پلیس به راننده گفت که کنار خیابان بایستد.", "r": "polis be rānande goft ke kenār-e khiyābān beistad.", "en": "The police officer told the driver to pull over.", "col": "پلیس به راننده گفت بزنه کنار.", "colR": "polis be rānande goft bezane kenār."}
+    {
+     "fa": "مأمور گمرک پرسید که آیا چیزی برای اظهار دارم.",
+     "r": "ma'mur-e gomrok porsid ke āyā chiz-i barā-ye ezhār dāram.",
+     "en": "The customs officer asked whether I had anything to declare.",
+     "faV": "مَأمورِ گُمرُک پُرسید که آیا چیزی بَرایِ اِظهار دارَم.",
+     "a": "8b8dcd08ba26"
+    },
+    {
+     "fa": "مادرم پرسید که آیا غذا خورده‌ام.",
+     "r": "mādar-am porsid ke āyā ghazā khorde-am.",
+     "en": "My mother asked whether I had eaten.",
+     "col": "مامانم پرسید غذا خوردم یا نه.",
+     "colR": "māmān-am porsid ghazā khordam yā na.",
+     "faV": "مادَرَم پُرسید که آیا غَذا خورده‌اَم.",
+     "a": "8d8d99158ffb",
+     "colV": "مامانَم پُرسید غَذا خوردَم یا نه.",
+     "colA": "58668124e5a1"
+    },
+    {
+     "fa": "از راننده پرسیدم که تا میدان آزادی چقدر راه است.",
+     "r": "az rānande porsidam ke tā meydān-e Āzādi cheghadr rāh ast.",
+     "en": "I asked the driver how far it was to Azadi Square.",
+     "col": "از راننده پرسیدم تا میدون آزادی چقدر راهه.",
+     "colR": "az rānande porsidam tā meydun-e Āzādi cheghadr rāhe.",
+     "faV": "اَز رانَنده پُرسیدَم که تا مَیدانِ آزادی چِقَدر راه اَست.",
+     "a": "6e60a3308c13",
+     "colV": "اَز رانَنده پُرسیدَم تا مَیدونِ آزادی چِقَدر راهه.",
+     "colA": "3f456cc29a2e"
+    },
+    {
+     "fa": "نمی‌دانم که آیا او راست می‌گوید.",
+     "r": "nemi-dānam ke āyā u rāst mi-guyad.",
+     "en": "I don't know whether he's telling the truth.",
+     "col": "نمی‌دونم راست می‌گه یا نه.",
+     "colR": "nemi-dunam rāst mi-ge yā na.",
+     "faV": "نِمی‌دانَم که آیا او راست می‌گویَد.",
+     "a": "cfc3886b6bf0",
+     "colV": "نِمی‌دونَم راست می‌گه یا نه.",
+     "colA": "ebae402a4125"
+    },
+    {
+     "fa": "استاد از ما خواست که تمرین‌ها را تا شنبه تحویل بدهیم.",
+     "r": "ostād az mā khāst ke tamrin-hā rā tā shanbe tahvil bedahim.",
+     "en": "The lecturer asked us to hand in the exercises by Saturday.",
+     "col": "استاد ازمون خواست تمرینا رو تا شنبه تحویل بدیم.",
+     "colR": "ostād azemun khāst tamrinā ro tā shanbe tahvil bedim.",
+     "faV": "اُستاد اَز ما خواست که تَمرین‌ها را تا شَنبه تَحویل بِدَهیم.",
+     "a": "825c5972c45e",
+     "colV": "اُستاد اَزِمون خواست تَمرینا رو تا شَنبه تَحویل بِدیم.",
+     "colA": "dd15bcafd39d"
+    },
+    {
+     "fa": "به او گفتم که نگران نباشد.",
+     "r": "be u goftam ke negarān nabāshad.",
+     "en": "I told him not to worry.",
+     "col": "بهش گفتم نگران نباشه.",
+     "colR": "behesh goftam negarān nabāshe.",
+     "faV": "به او گُفتَم که نِگَران نَباشَد.",
+     "a": "a7edd217c27a",
+     "colV": "بِهِش گُفتَم نِگَران نَباشه.",
+     "colA": "df7b04b5b6e4"
+    },
+    {
+     "fa": "پلیس به راننده گفت که کنار خیابان بایستد.",
+     "r": "polis be rānande goft ke kenār-e khiyābān beistad.",
+     "en": "The police officer told the driver to pull over.",
+     "col": "پلیس به راننده گفت بزنه کنار.",
+     "colR": "polis be rānande goft bezane kenār.",
+     "faV": "پُلیس به رانَنده گُفت که کِنارِ خیابان باِیستَد.",
+     "a": "218700a4a688",
+     "colV": "پُلیس به رانَنده گُفت بِزَنه کِنار.",
+     "colA": "f7e99754c6d2"
+    }
    ]
   },
   {
@@ -130,32 +664,150 @@
    "title": "More precise than گفتن: reporting verbs",
    "md": "[[گفتن|goftan]] can report anything, but good Persian – and every news bulletin – uses more precise verbs. Almost all of them are compounds with [[کردن|kardan]] or [[دادن|dādan]], and all can be followed by [[که|ke]] and a clause.\n\nVerbs that look forward to an action that has not happened yet – *promise, insist, suggest, ask (someone to do)* – take the **subjunctive**: [[قول داد که زود بیاید|ghowl dād ke zud biyāyad|he promised to come early]]. Verbs that report a fact – *explain, admit, deny, claim, announce* – keep the ordinary tense: [[اعتراف کرد که دروغ گفته است|e'terāf kard ke dorugh gofte ast|he admitted that he had lied]].",
    "table": {
-    "head": ["Verb", "Pattern", "English"],
+    "head": [
+     "Verb",
+     "Pattern",
+     "English"
+    ],
     "rows": [
-     ["[[گفتن|goftan]]", "[[به کسی گفت که…|be kas-i goft ke…]]", "to say; to tell (someone)"],
-     ["[[پرسیدن|porsidan]]", "[[از کسی پرسید که (آیا)…|az kas-i porsid ke (āyā)…]]", "to ask (a question)"],
-     ["[[خواستن|khāstan]]", "[[از کسی خواست که…|az kas-i khāst ke…]]", "to ask (someone to do something) – + subjunctive"],
-     ["[[جواب دادن|javāb dādan]]", "[[جواب داد که…|javāb dād ke…]]", "to answer"],
-     ["[[توضیح دادن|towzih dādan]]", "[[توضیح داد که…|towzih dād ke…]]", "to explain"],
-     ["[[قول دادن|ghowl dādan]]", "[[قول داد که…|ghowl dād ke…]]", "to promise – + subjunctive"],
-     ["[[اصرار کردن|esrār kardan]]", "[[اصرار کرد که…|esrār kard ke…]]", "to insist – + subjunctive"],
-     ["[[پیشنهاد کردن|pishnahād kardan]]", "[[پیشنهاد کرد که…|pishnahād kard ke…]]", "to suggest – + subjunctive"],
-     ["[[هشدار دادن|hoshdār dādan]]", "[[هشدار داد که…|hoshdār dād ke…]]", "to warn"],
-     ["[[ادعا کردن|edde'ā kardan]]", "[[ادعا کرد که…|edde'ā kard ke…]]", "to claim"],
-     ["[[اعتراف کردن|e'terāf kardan]]", "[[اعتراف کرد که…|e'terāf kard ke…]]", "to admit"],
-     ["[[انکار کردن|enkār kardan]]", "[[انکار کرد که…|enkār kard ke…]]", "to deny"],
-     ["[[اعلام کردن|e'lām kardan]]", "[[اعلام کرد که…|e'lām kard ke…]]", "to announce"],
-     ["[[تأکید کردن|ta'kid kardan]]", "[[تأکید کرد که…|ta'kid kard ke…]]", "to stress, emphasise"]
+     [
+      "[[گفتن|goftan]]",
+      "[[به کسی گفت که…|be kas-i goft ke…]]",
+      "to say; to tell (someone)"
+     ],
+     [
+      "[[پرسیدن|porsidan]]",
+      "[[از کسی پرسید که (آیا)…|az kas-i porsid ke (āyā)…]]",
+      "to ask (a question)"
+     ],
+     [
+      "[[خواستن|khāstan]]",
+      "[[از کسی خواست که…|az kas-i khāst ke…]]",
+      "to ask (someone to do something) – + subjunctive"
+     ],
+     [
+      "[[جواب دادن|javāb dādan]]",
+      "[[جواب داد که…|javāb dād ke…]]",
+      "to answer"
+     ],
+     [
+      "[[توضیح دادن|towzih dādan]]",
+      "[[توضیح داد که…|towzih dād ke…]]",
+      "to explain"
+     ],
+     [
+      "[[قول دادن|ghowl dādan]]",
+      "[[قول داد که…|ghowl dād ke…]]",
+      "to promise – + subjunctive"
+     ],
+     [
+      "[[اصرار کردن|esrār kardan]]",
+      "[[اصرار کرد که…|esrār kard ke…]]",
+      "to insist – + subjunctive"
+     ],
+     [
+      "[[پیشنهاد کردن|pishnahād kardan]]",
+      "[[پیشنهاد کرد که…|pishnahād kard ke…]]",
+      "to suggest – + subjunctive"
+     ],
+     [
+      "[[هشدار دادن|hoshdār dādan]]",
+      "[[هشدار داد که…|hoshdār dād ke…]]",
+      "to warn"
+     ],
+     [
+      "[[ادعا کردن|edde'ā kardan]]",
+      "[[ادعا کرد که…|edde'ā kard ke…]]",
+      "to claim"
+     ],
+     [
+      "[[اعتراف کردن|e'terāf kardan]]",
+      "[[اعتراف کرد که…|e'terāf kard ke…]]",
+      "to admit"
+     ],
+     [
+      "[[انکار کردن|enkār kardan]]",
+      "[[انکار کرد که…|enkār kard ke…]]",
+      "to deny"
+     ],
+     [
+      "[[اعلام کردن|e'lām kardan]]",
+      "[[اعلام کرد که…|e'lām kard ke…]]",
+      "to announce"
+     ],
+     [
+      "[[تأکید کردن|ta'kid kardan]]",
+      "[[تأکید کرد که…|ta'kid kard ke…]]",
+      "to stress, emphasise"
+     ]
     ]
    },
    "examples": [
-    {"fa": "رضا قول داد که دیگر دیر نکند.", "r": "Rezā ghowl dād ke digar dir nakonad.", "en": "Reza promised not to be late again.", "col": "رضا قول داد دیگه دیر نکنه.", "colR": "Rezā ghowl dād dige dir nakone."},
-    {"fa": "دوستم پیشنهاد کرد که با قطار به مشهد برویم.", "r": "dust-am pishnahād kard ke bā ghatār be Mashhad beravim.", "en": "My friend suggested we go to Mashhad by train.", "col": "دوستم پیشنهاد داد با قطار بریم مشهد.", "colR": "dust-am pishnahād dād bā ghatār berim Mashhad."},
-    {"fa": "متهم انکار کرد که آن شب در خانه بوده است.", "r": "mottaham enkār kard ke ān shab dar khāne bude ast.", "en": "The accused denied that he had been at home that night."},
-    {"fa": "هواشناسی هشدار داد که فردا برف سنگینی می‌بارد.", "r": "havāshenāsi hoshdār dād ke fardā barf-e sangin-i mi-bārad.", "en": "The weather service warned that heavy snow will fall tomorrow."},
-    {"fa": "مهمان‌ها اصرار کردند که ما هم با آن‌ها شام بخوریم.", "r": "mehmān-hā esrār kardand ke mā ham bā ān-hā shām bokhorim.", "en": "The guests insisted that we have dinner with them too.", "col": "مهمونا اصرار کردن ما هم باهاشون شام بخوریم.", "colR": "mehmunā esrār kardan mā ham bāhāshun shām bokhorim."},
-    {"fa": "وزیر آموزش و پرورش اعلام کرد که مدرسه‌ها شنبه باز می‌شوند.", "r": "vazir-e āmuzesh o parvaresh e'lām kard ke madrese-hā shanbe bāz mi-shavand.", "en": "The education minister announced that schools would open on Saturday."},
-    {"fa": "بالاخره اعتراف کرد که اشتباه کرده است.", "r": "bel-akhare e'terāf kard ke eshtebāh karde ast.", "en": "In the end he admitted that he had made a mistake.", "col": "آخرش اعتراف کرد که اشتباه کرده.", "colR": "ākhar-esh e'terāf kard ke eshtebāh karde."}
+    {
+     "fa": "رضا قول داد که دیگر دیر نکند.",
+     "r": "Rezā ghowl dād ke digar dir nakonad.",
+     "en": "Reza promised not to be late again.",
+     "col": "رضا قول داد دیگه دیر نکنه.",
+     "colR": "Rezā ghowl dād dige dir nakone.",
+     "faV": "رِضا قَول داد که دیگَر دیر نَکُنَد.",
+     "a": "05816cc8bc1e",
+     "colV": "رِضا قَول داد دیگه دیر نَکُنه.",
+     "colA": "45bea79a4adb"
+    },
+    {
+     "fa": "دوستم پیشنهاد کرد که با قطار به مشهد برویم.",
+     "r": "dust-am pishnahād kard ke bā ghatār be Mashhad beravim.",
+     "en": "My friend suggested we go to Mashhad by train.",
+     "col": "دوستم پیشنهاد داد با قطار بریم مشهد.",
+     "colR": "dust-am pishnahād dād bā ghatār berim Mashhad.",
+     "faV": "دوستَم پیشنَهاد کَرد که با قَطار به مَشهَد بِرَویم.",
+     "a": "e971c509b088",
+     "colV": "دوستَم پیشنَهاد داد با قَطار بِریم مَشهَد.",
+     "colA": "fc28dc91fe99"
+    },
+    {
+     "fa": "متهم انکار کرد که آن شب در خانه بوده است.",
+     "r": "mottaham enkār kard ke ān shab dar khāne bude ast.",
+     "en": "The accused denied that he had been at home that night.",
+     "faV": "مُتَّهَم اِنکار کَرد که آن شَب دَر خانه بوده اَست.",
+     "a": "28de105f1e5a"
+    },
+    {
+     "fa": "هواشناسی هشدار داد که فردا برف سنگینی می‌بارد.",
+     "r": "havāshenāsi hoshdār dād ke fardā barf-e sangin-i mi-bārad.",
+     "en": "The weather service warned that heavy snow will fall tomorrow.",
+     "faV": "هَواشِناسی هُشدار داد که فَردا بَرفِ سَنگینی می‌بارَد.",
+     "a": "3581456adc80"
+    },
+    {
+     "fa": "مهمان‌ها اصرار کردند که ما هم با آن‌ها شام بخوریم.",
+     "r": "mehmān-hā esrār kardand ke mā ham bā ān-hā shām bokhorim.",
+     "en": "The guests insisted that we have dinner with them too.",
+     "col": "مهمونا اصرار کردن ما هم باهاشون شام بخوریم.",
+     "colR": "mehmunā esrār kardan mā ham bāhāshun shām bokhorim.",
+     "faV": "مِهمان‌ها اِصرار کَردَند که ما هَم با آن‌ها شام بُخوریم.",
+     "a": "6b8868d1c1a8",
+     "colV": "مِهمونا اِصرار کَردَن ما هَم باهاشون شام بُخوریم.",
+     "colA": "78b3580b505c"
+    },
+    {
+     "fa": "وزیر آموزش و پرورش اعلام کرد که مدرسه‌ها شنبه باز می‌شوند.",
+     "r": "vazir-e āmuzesh o parvaresh e'lām kard ke madrese-hā shanbe bāz mi-shavand.",
+     "en": "The education minister announced that schools would open on Saturday.",
+     "faV": "وَزیرِ آموزِش و پَروَرِش اِعلام کَرد که مَدرِسه‌ها شَنبه باز می‌شَوَند.",
+     "a": "a86f69293392"
+    },
+    {
+     "fa": "بالاخره اعتراف کرد که اشتباه کرده است.",
+     "r": "bel-akhare e'terāf kard ke eshtebāh karde ast.",
+     "en": "In the end he admitted that he had made a mistake.",
+     "col": "آخرش اعتراف کرد که اشتباه کرده.",
+     "colR": "ākhar-esh e'terāf kard ke eshtebāh karde.",
+     "faV": "باِلاَخَره اِعتِراف کَرد که اِشتِباه کَرده اَست.",
+     "a": "e41465d891ff",
+     "colV": "آخَرِش اِعتِراف کَرد که اِشتِباه کَرده.",
+     "colA": "49ae748c978d"
+    }
    ]
   },
   {
@@ -163,23 +815,119 @@
    "title": "The interview",
    "intro": "Leila tells the story of her job interview – entirely in reported speech. Notice آیا in the yes/no questions, the subjunctive after خواستن and قول دادن, and the perfect for things that had already happened.",
    "sentences": [
-    {"fa": "لیلا دیروز برای کار در یک شرکت نرم‌افزاری مصاحبه داشت.", "r": "Leylā diruz barā-ye kār dar yek sherkat-e narm-afzāri mosāhebe dāsht.", "en": "Yesterday Leila had an interview for a job at a software company."},
-    {"fa": "مدیر شرکت اول از او پرسید که چند سال سابقه‌ی کار دارد.", "r": "modir-e sherkat avval az u porsid ke chand sāl sābeghe-ye kār dārad.", "en": "The manager first asked her how many years of work experience she had."},
-    {"fa": "لیلا گفت که پنج سال در یک بانک کار کرده است.", "r": "Leylā goft ke panj sāl dar yek bānk kār karde ast.", "en": "Leila said she had worked in a bank for five years."},
-    {"fa": "مدیر پرسید چرا کار قبلی‌اش را رها کرده است.", "r": "modir porsid cherā kār-e ghabli-ash rā rahā karde ast.", "en": "The manager asked why she had left her previous job."},
-    {"fa": "لیلا توضیح داد که در آن بانک فرصتی برای پیشرفت نداشته است.", "r": "Leylā towzih dād ke dar ān bānk forsat-i barā-ye pishraft nadāshte ast.", "en": "Leila explained that at the bank she had had no chance to move up."},
-    {"fa": "مدیر پرسید که آیا می‌تواند گاهی آخر هفته‌ها هم کار کند.", "r": "modir porsid ke āyā mi-tavānad gāhi ākhar-e hafte-hā ham kār konad.", "en": "The manager asked whether she could sometimes work at weekends too."},
-    {"fa": "لیلا جواب داد که اگر لازم باشد، مشکلی ندارد.", "r": "Leylā javāb dād ke agar lāzem bāshad, moshkel-i nadārad.", "en": "Leila answered that if it was necessary, she didn't mind."},
-    {"fa": "بعد از او خواستند که درباره‌ی بزرگ‌ترین اشتباهش صحبت کند.", "r": "ba'd az u khāstand ke darbāre-ye bozorg-tarin eshtebāh-ash sohbat konad.", "en": "Then they asked her to talk about her biggest mistake."},
-    {"fa": "لیلا با خنده تعریف کرد که یک بار یک ایمیل خصوصی را اشتباهی برای همه‌ی همکارانش فرستاده است.", "r": "Leylā bā khande ta'rif kard ke yek bār yek imeyl-e khosusi rā eshtebāhi barā-ye hame-ye hamkārān-ash ferestāde ast.", "en": "Laughing, Leila told them that she had once sent a private email to all her colleagues by mistake."},
-    {"fa": "در پایان، مدیر قول داد که تا آخر هفته به او خبر بدهد.", "r": "dar pāyān, modir ghowl dād ke tā ākhar-e hafte be u khabar bedahad.", "en": "At the end, the manager promised to let her know by the end of the week."},
-    {"fa": "امروز صبح منشی شرکت زنگ زد و گفت که لیلا را استخدام کرده‌اند.", "r": "emruz sobh monshi-ye sherkat zang zad o goft ke Leylā rā estekhdām karde-and.", "en": "This morning the company's secretary rang and said they had hired Leila."},
-    {"fa": "منشی پرسید که آیا می‌تواند از شنبه‌ی آینده شروع کند.", "r": "monshi porsid ke āyā mi-tavānad az shanbe-ye āyande shoru' konad.", "en": "The secretary asked whether she could start next Saturday."}
+    {
+     "fa": "لیلا دیروز برای کار در یک شرکت نرم‌افزاری مصاحبه داشت.",
+     "r": "Leylā diruz barā-ye kār dar yek sherkat-e narm-afzāri mosāhebe dāsht.",
+     "en": "Yesterday Leila had an interview for a job at a software company.",
+     "faV": "لَیلا دیروز بَرایِ کار دَر یِک شِرکَتِ نَرم‌اَفزاری مُصاحِبه داشت.",
+     "a": "377729ff0d4e"
+    },
+    {
+     "fa": "مدیر شرکت اول از او پرسید که چند سال سابقه‌ی کار دارد.",
+     "r": "modir-e sherkat avval az u porsid ke chand sāl sābeghe-ye kār dārad.",
+     "en": "The manager first asked her how many years of work experience she had.",
+     "faV": "مُدیرِ شِرکَت اَوَّل اَز او پُرسید که چَند سال سابِقه‌یِ کار دارَد.",
+     "a": "4f0f29a840f4"
+    },
+    {
+     "fa": "لیلا گفت که پنج سال در یک بانک کار کرده است.",
+     "r": "Leylā goft ke panj sāl dar yek bānk kār karde ast.",
+     "en": "Leila said she had worked in a bank for five years.",
+     "faV": "لَیلا گُفت که پَنج سال دَر یِک بانک کار کَرده اَست.",
+     "a": "64c652d902b9"
+    },
+    {
+     "fa": "مدیر پرسید چرا کار قبلی‌اش را رها کرده است.",
+     "r": "modir porsid cherā kār-e ghabli-ash rā rahā karde ast.",
+     "en": "The manager asked why she had left her previous job.",
+     "faV": "مُدیر پُرسید چِرا کارِ قَبلی‌اَش را رَها کَرده اَست.",
+     "a": "f319eb0a6994"
+    },
+    {
+     "fa": "لیلا توضیح داد که در آن بانک فرصتی برای پیشرفت نداشته است.",
+     "r": "Leylā towzih dād ke dar ān bānk forsat-i barā-ye pishraft nadāshte ast.",
+     "en": "Leila explained that at the bank she had had no chance to move up.",
+     "faV": "لَیلا تَوضیح داد که دَر آن بانک فُرصَتی بَرایِ پیشرَفت نَداشته اَست.",
+     "a": "40b086573235"
+    },
+    {
+     "fa": "مدیر پرسید که آیا می‌تواند گاهی آخر هفته‌ها هم کار کند.",
+     "r": "modir porsid ke āyā mi-tavānad gāhi ākhar-e hafte-hā ham kār konad.",
+     "en": "The manager asked whether she could sometimes work at weekends too.",
+     "faV": "مُدیر پُرسید که آیا می‌تَوانَد گاهی آخَرِ هَفته‌ها هَم کار کُنَد.",
+     "a": "c42946d60c55"
+    },
+    {
+     "fa": "لیلا جواب داد که اگر لازم باشد، مشکلی ندارد.",
+     "r": "Leylā javāb dād ke agar lāzem bāshad, moshkel-i nadārad.",
+     "en": "Leila answered that if it was necessary, she didn't mind.",
+     "faV": "لَیلا جَواب داد که اَگَر لازِم باشَد، مُشکِلی نَدارَد.",
+     "a": "aa1170730f93"
+    },
+    {
+     "fa": "بعد از او خواستند که درباره‌ی بزرگ‌ترین اشتباهش صحبت کند.",
+     "r": "ba'd az u khāstand ke darbāre-ye bozorg-tarin eshtebāh-ash sohbat konad.",
+     "en": "Then they asked her to talk about her biggest mistake.",
+     "faV": "بَعد اَز او خواستَند که دَرباره‌یِ بُزُرگ‌تَرین اِشتِباهَش صُحبَت کُنَد.",
+     "a": "a6bab1c0f8cf"
+    },
+    {
+     "fa": "لیلا با خنده تعریف کرد که یک بار یک ایمیل خصوصی را اشتباهی برای همه‌ی همکارانش فرستاده است.",
+     "r": "Leylā bā khande ta'rif kard ke yek bār yek imeyl-e khosusi rā eshtebāhi barā-ye hame-ye hamkārān-ash ferestāde ast.",
+     "en": "Laughing, Leila told them that she had once sent a private email to all her colleagues by mistake.",
+     "faV": "لَیلا با خَنده تَعریف کَرد که یِک بار یِک ایمَیلِ خُصوصی را اِشتِباهی بَرایِ هَمه‌یِ هَمکارانَش فِرِستاده اَست.",
+     "a": "33eb5065986f"
+    },
+    {
+     "fa": "در پایان، مدیر قول داد که تا آخر هفته به او خبر بدهد.",
+     "r": "dar pāyān, modir ghowl dād ke tā ākhar-e hafte be u khabar bedahad.",
+     "en": "At the end, the manager promised to let her know by the end of the week.",
+     "faV": "دَر پایان، مُدیر قَول داد که تا آخَرِ هَفته به او خَبَر بِدَهَد.",
+     "a": "4dc6b25fcb59"
+    },
+    {
+     "fa": "امروز صبح منشی شرکت زنگ زد و گفت که لیلا را استخدام کرده‌اند.",
+     "r": "emruz sobh monshi-ye sherkat zang zad o goft ke Leylā rā estekhdām karde-and.",
+     "en": "This morning the company's secretary rang and said they had hired Leila.",
+     "faV": "اِمروز صُبح مُنشیِ شِرکَت زَنگ زَد و گُفت که لَیلا را اِستِخدام کَرده‌اَند.",
+     "a": "e567c02fd0d0"
+    },
+    {
+     "fa": "منشی پرسید که آیا می‌تواند از شنبه‌ی آینده شروع کند.",
+     "r": "monshi porsid ke āyā mi-tavānad az shanbe-ye āyande shoru' konad.",
+     "en": "The secretary asked whether she could start next Saturday.",
+     "faV": "مُنشی پُرسید که آیا می‌تَوانَد اَز شَنبه‌یِ آیَنده شُروع کُنَد.",
+     "a": "01117fb3ae6b"
+    }
    ],
    "questions": [
-    {"q": "How long did Leila work at a bank?", "options": ["two years", "five years", "ten years"], "answer": 1},
-    {"q": "What did the manager promise?", "options": ["a higher salary", "to let her know by the end of the week", "to phone her old bank"], "answer": 1},
-    {"q": "Which words introduce a reported yes/no question?", "options": ["پرسید که آیا", "قول داد که", "توضیح داد که"], "answer": 0}
+    {
+     "q": "How long did Leila work at a bank?",
+     "options": [
+      "two years",
+      "five years",
+      "ten years"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What did the manager promise?",
+     "options": [
+      "a higher salary",
+      "to let her know by the end of the week",
+      "to phone her old bank"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Which words introduce a reported yes/no question?",
+     "options": [
+      "پرسید که آیا",
+      "قول داد که",
+      "توضیح داد که"
+     ],
+     "answer": 0
+    }
    ]
   },
   {
@@ -204,12 +952,48 @@
    "kind": "fill",
    "title": "Report it",
    "items": [
-    {"fa": "او گفت که فردا ___.", "r": "u goft ke fardā ___.", "en": "He said he would come tomorrow.", "answer": "می‌آید", "hint": "he said: فردا می‌آیم"},
-    {"fa": "سارا گفت که خیلی خسته ___.", "r": "Sārā goft ke kheyli khaste ___.", "en": "Sara said she was very tired.", "answer": "است", "hint": "no tense shift"},
-    {"fa": "از من پرسید که ___ قهوه می‌خواهم.", "r": "az man porsid ke ___ ghahve mi-khāham.", "en": "He asked me whether I wanted coffee.", "answer": "آیا", "hint": "the written marker of a yes/no question"},
-    {"fa": "دکتر به من گفت که سیگار ___.", "r": "doktor be man goft ke sigār ___.", "en": "The doctor told me not to smoke.", "answer": "نکشم", "hint": "negative subjunctive of کشیدن, 'I'"},
-    {"fa": "رضا گفت که کیفش را در تاکسی جا ___ است.", "r": "Rezā goft ke kif-ash rā dar tāksi jā ___ ast.", "en": "Reza said he had left his bag in the taxi.", "answer": "گذاشته", "hint": "جا گذاشتن 'to leave behind', perfect"},
-    {"fa": "مدیر قول داد که تا فردا به ما خبر ___.", "r": "modir ghowl dād ke tā fardā be mā khabar ___.", "en": "The manager promised to let us know by tomorrow.", "answer": "بدهد", "hint": "subjunctive of دادن"}
+    {
+     "fa": "او گفت که فردا ___.",
+     "r": "u goft ke fardā ___.",
+     "en": "He said he would come tomorrow.",
+     "answer": "می‌آید",
+     "hint": "he said: فردا می‌آیم"
+    },
+    {
+     "fa": "سارا گفت که خیلی خسته ___.",
+     "r": "Sārā goft ke kheyli khaste ___.",
+     "en": "Sara said she was very tired.",
+     "answer": "است",
+     "hint": "no tense shift"
+    },
+    {
+     "fa": "از من پرسید که ___ قهوه می‌خواهم.",
+     "r": "az man porsid ke ___ ghahve mi-khāham.",
+     "en": "He asked me whether I wanted coffee.",
+     "answer": "آیا",
+     "hint": "the written marker of a yes/no question"
+    },
+    {
+     "fa": "دکتر به من گفت که سیگار ___.",
+     "r": "doktor be man goft ke sigār ___.",
+     "en": "The doctor told me not to smoke.",
+     "answer": "نکشم",
+     "hint": "negative subjunctive of کشیدن, 'I'"
+    },
+    {
+     "fa": "رضا گفت که کیفش را در تاکسی جا ___ است.",
+     "r": "Rezā goft ke kif-ash rā dar tāksi jā ___ ast.",
+     "en": "Reza said he had left his bag in the taxi.",
+     "answer": "گذاشته",
+     "hint": "جا گذاشتن 'to leave behind', perfect"
+    },
+    {
+     "fa": "مدیر قول داد که تا فردا به ما خبر ___.",
+     "r": "modir ghowl dād ke tā fardā be mā khabar ___.",
+     "en": "The manager promised to let us know by tomorrow.",
+     "answer": "بدهد",
+     "hint": "subjunctive of دادن"
+    }
    ]
   },
   {
@@ -217,12 +1001,66 @@
    "kind": "mcq",
    "title": "How do you report it?",
    "items": [
-    {"q": "[[«من ایرانی هستم.»|«man irāni hastam.»]] How do you report it – 'He said he was Iranian'?", "options": ["گفت که ایرانی بود.", "گفت که ایرانی است.", "گفت که ایرانی هستم."], "answer": 1, "explain": "Keep the tense, change the person. ایرانی بود would mean he used to be Iranian; ایرانی هستم is a direct quote."},
-    {"q": "Which sentence reports the question [[کجا کار می‌کنی؟|kojā kār mi-koni?]]?", "options": ["پرسید کجا کار می‌کنم.", "پرسید که آیا کجا کار می‌کنم.", "گفت کجا کار کردم."], "answer": 0, "explain": "Wh-questions keep their question word and never take آیا."},
-    {"q": "[[از ما خواست که ساکت باشیم.|az mā khāst ke sāket bāshim.]] means…", "options": ["He wanted to be quiet with us.", "He asked us to be quiet.", "We asked him to be quiet."], "answer": 1, "explain": "از کسی خواستن که + subjunctive = to ask someone to do something."},
-    {"q": "Which verb means 'to deny'?", "options": ["انکار کردن", "اعتراف کردن", "اصرار کردن"], "answer": 0, "explain": "اعتراف کردن is 'to admit', اصرار کردن 'to insist'."},
-    {"q": "Which is the natural spoken way to report 'He asked if I was coming'?", "options": ["پرسید میام یا نه.", "پرسید که آیا می‌آیم.", "پرسید آیا میام."], "answer": 0, "explain": "آیا belongs to writing; the spoken version ends with یا نه."},
-    {"q": "[[گفت که دیروز رفته است.|goft ke diruz rafte ast.]] Why the perfect رفته است?", "options": ["It reports a past event the speaker only heard about.", "It means he will go.", "It is a mistake for رفت."], "answer": 0, "explain": "The perfect is the usual tense for reported, second-hand past events."}
+    {
+     "q": "[[«من ایرانی هستم.»|«man irāni hastam.»]] How do you report it – 'He said he was Iranian'?",
+     "options": [
+      "گفت که ایرانی بود.",
+      "گفت که ایرانی است.",
+      "گفت که ایرانی هستم."
+     ],
+     "answer": 1,
+     "explain": "Keep the tense, change the person. ایرانی بود would mean he used to be Iranian; ایرانی هستم is a direct quote."
+    },
+    {
+     "q": "Which sentence reports the question [[کجا کار می‌کنی؟|kojā kār mi-koni?]]?",
+     "options": [
+      "پرسید کجا کار می‌کنم.",
+      "پرسید که آیا کجا کار می‌کنم.",
+      "گفت کجا کار کردم."
+     ],
+     "answer": 0,
+     "explain": "Wh-questions keep their question word and never take آیا."
+    },
+    {
+     "q": "[[از ما خواست که ساکت باشیم.|az mā khāst ke sāket bāshim.]] means…",
+     "options": [
+      "He wanted to be quiet with us.",
+      "He asked us to be quiet.",
+      "We asked him to be quiet."
+     ],
+     "answer": 1,
+     "explain": "از کسی خواستن که + subjunctive = to ask someone to do something."
+    },
+    {
+     "q": "Which verb means 'to deny'?",
+     "options": [
+      "انکار کردن",
+      "اعتراف کردن",
+      "اصرار کردن"
+     ],
+     "answer": 0,
+     "explain": "اعتراف کردن is 'to admit', اصرار کردن 'to insist'."
+    },
+    {
+     "q": "Which is the natural spoken way to report 'He asked if I was coming'?",
+     "options": [
+      "پرسید میام یا نه.",
+      "پرسید که آیا می‌آیم.",
+      "پرسید آیا میام."
+     ],
+     "answer": 0,
+     "explain": "آیا belongs to writing; the spoken version ends with یا نه."
+    },
+    {
+     "q": "[[گفت که دیروز رفته است.|goft ke diruz rafte ast.]] Why the perfect رفته است?",
+     "options": [
+      "It reports a past event the speaker only heard about.",
+      "It means he will go.",
+      "It is a mistake for رفت."
+     ],
+     "answer": 0,
+     "explain": "The perfect is the usual tense for reported, second-hand past events."
+    }
    ]
   },
   {
@@ -230,12 +1068,48 @@
    "kind": "translate",
    "title": "Say it in Persian",
    "items": [
-    {"en": "She said she was a doctor.", "fa": "او گفت که پزشک است.", "r": "u goft ke pezeshk ast."},
-    {"en": "He asked me where the station was.", "fa": "از من پرسید که ایستگاه کجاست.", "r": "az man porsid ke istgāh kojāst."},
-    {"en": "I asked them whether they had seen the film.", "fa": "از آن‌ها پرسیدم که آیا فیلم را دیده‌اند.", "r": "az ān-hā porsidam ke āyā film rā dide-and."},
-    {"en": "The teacher told us to open our books.", "fa": "معلم به ما گفت که کتاب‌هایمان را باز کنیم.", "r": "mo'allem be mā goft ke ketāb-hā-yemān rā bāz konim."},
-    {"en": "He promised he would call me.", "fa": "قول داد که به من زنگ بزند.", "r": "ghowl dād ke be man zang bezanad."},
-    {"en": "They said the shop would be closed tomorrow.", "fa": "گفتند که مغازه فردا بسته است.", "r": "goftand ke maghāze fardā baste ast."}
+    {
+     "en": "She said she was a doctor.",
+     "fa": "او گفت که پزشک است.",
+     "r": "u goft ke pezeshk ast.",
+     "faV": "او گُفت که پِزِشک اَست.",
+     "a": "4b92fe518066"
+    },
+    {
+     "en": "He asked me where the station was.",
+     "fa": "از من پرسید که ایستگاه کجاست.",
+     "r": "az man porsid ke istgāh kojāst.",
+     "faV": "اَز مَن پُرسید که ایستگاه کُجاست.",
+     "a": "4e684a50c5f8"
+    },
+    {
+     "en": "I asked them whether they had seen the film.",
+     "fa": "از آن‌ها پرسیدم که آیا فیلم را دیده‌اند.",
+     "r": "az ān-hā porsidam ke āyā film rā dide-and.",
+     "faV": "اَز آن‌ها پُرسیدَم که آیا فیلم را دیده‌اَند.",
+     "a": "de1eaf9c44ee"
+    },
+    {
+     "en": "The teacher told us to open our books.",
+     "fa": "معلم به ما گفت که کتاب‌هایمان را باز کنیم.",
+     "r": "mo'allem be mā goft ke ketāb-hā-yemān rā bāz konim.",
+     "faV": "مُعَلِّم به ما گُفت که کِتاب‌هایِمان را باز کُنیم.",
+     "a": "5e3d0e6ce130"
+    },
+    {
+     "en": "He promised he would call me.",
+     "fa": "قول داد که به من زنگ بزند.",
+     "r": "ghowl dād ke be man zang bezanad.",
+     "faV": "قَول داد که به مَن زَنگ بِزَنَد.",
+     "a": "ba5ffca8a099"
+    },
+    {
+     "en": "They said the shop would be closed tomorrow.",
+     "fa": "گفتند که مغازه فردا بسته است.",
+     "r": "goftand ke maghāze fardā baste ast.",
+     "faV": "گُفتَند که مَغازه فَردا بَسته اَست.",
+     "a": "bf3937e31371"
+    }
    ]
   },
   {
@@ -243,10 +1117,34 @@
    "kind": "order",
    "title": "Put the words in order",
    "items": [
-    {"fa": "مینا گفت که امشب دیر می‌آید.", "r": "Minā goft ke emshab dir mi-āyad.", "en": "Mina said she would be late tonight."},
-    {"fa": "از او پرسیدم که آیا گرسنه است.", "r": "az u porsidam ke āyā gorosne ast.", "en": "I asked him whether he was hungry."},
-    {"fa": "مدیر از ما خواست که صبر کنیم.", "r": "modir az mā khāst ke sabr konim.", "en": "The manager asked us to wait."},
-    {"fa": "رضا قول داد که دیگر دیر نکند.", "r": "Rezā ghowl dād ke digar dir nakonad.", "en": "Reza promised not to be late again."}
+    {
+     "fa": "مینا گفت که امشب دیر می‌آید.",
+     "r": "Minā goft ke emshab dir mi-āyad.",
+     "en": "Mina said she would be late tonight.",
+     "faV": "مینا گُفت که اِمشَب دیر می‌آیَد.",
+     "a": "4d67eda37d4c"
+    },
+    {
+     "fa": "از او پرسیدم که آیا گرسنه است.",
+     "r": "az u porsidam ke āyā gorosne ast.",
+     "en": "I asked him whether he was hungry.",
+     "faV": "اَز او پُرسیدَم که آیا گُرُسنه اَست.",
+     "a": "6130ac2f07e5"
+    },
+    {
+     "fa": "مدیر از ما خواست که صبر کنیم.",
+     "r": "modir az mā khāst ke sabr konim.",
+     "en": "The manager asked us to wait.",
+     "faV": "مُدیر اَز ما خواست که صَبر کُنیم.",
+     "a": "b1e3946fc798"
+    },
+    {
+     "fa": "رضا قول داد که دیگر دیر نکند.",
+     "r": "Rezā ghowl dād ke digar dir nakonad.",
+     "en": "Reza promised not to be late again.",
+     "faV": "رِضا قَول داد که دیگَر دیر نَکُنَد.",
+     "a": "05816cc8bc1e"
+    }
    ]
   },
   {
@@ -254,14 +1152,62 @@
    "kind": "match",
    "title": "Match the reporting verbs",
    "items": [
-    {"fa": "توضیح دادن", "r": "towzih dādan", "en": "to explain"},
-    {"fa": "قول دادن", "r": "ghowl dādan", "en": "to promise"},
-    {"fa": "اصرار کردن", "r": "esrār kardan", "en": "to insist"},
-    {"fa": "ادعا کردن", "r": "edde'ā kardan", "en": "to claim"},
-    {"fa": "هشدار دادن", "r": "hoshdār dādan", "en": "to warn"},
-    {"fa": "اعتراف کردن", "r": "e'terāf kardan", "en": "to admit"},
-    {"fa": "انکار کردن", "r": "enkār kardan", "en": "to deny"},
-    {"fa": "پیشنهاد کردن", "r": "pishnahād kardan", "en": "to suggest"}
+    {
+     "fa": "توضیح دادن",
+     "r": "towzih dādan",
+     "en": "to explain",
+     "faV": "تَوضیح دادَن",
+     "a": "c06dd5c605d0"
+    },
+    {
+     "fa": "قول دادن",
+     "r": "ghowl dādan",
+     "en": "to promise",
+     "faV": "قَول دادَن",
+     "a": "44ed05d756ce"
+    },
+    {
+     "fa": "اصرار کردن",
+     "r": "esrār kardan",
+     "en": "to insist",
+     "faV": "اِصرار کَردَن",
+     "a": "b993ada24acb"
+    },
+    {
+     "fa": "ادعا کردن",
+     "r": "edde'ā kardan",
+     "en": "to claim",
+     "faV": "اِدِّعا کَردَن",
+     "a": "740808fa0f00"
+    },
+    {
+     "fa": "هشدار دادن",
+     "r": "hoshdār dādan",
+     "en": "to warn",
+     "faV": "هُشدار دادَن",
+     "a": "b0dfe83b2031"
+    },
+    {
+     "fa": "اعتراف کردن",
+     "r": "e'terāf kardan",
+     "en": "to admit",
+     "faV": "اِعتِراف کَردَن",
+     "a": "13c962457b4b"
+    },
+    {
+     "fa": "انکار کردن",
+     "r": "enkār kardan",
+     "en": "to deny",
+     "faV": "اِنکار کَردَن",
+     "a": "39cb6ac7d9d1"
+    },
+    {
+     "fa": "پیشنهاد کردن",
+     "r": "pishnahād kardan",
+     "en": "to suggest",
+     "faV": "پیشنَهاد کَردَن",
+     "a": "cec7d40af39e"
+    }
    ]
   },
   {
@@ -269,10 +1215,48 @@
    "kind": "listen",
    "title": "Listen and choose",
    "items": [
-    {"fa": "گفت که فردا نمی‌تواند بیاید.", "r": "goft ke fardā nemi-tavānad biyāyad.", "en": "He said he couldn't come tomorrow.", "options": ["He said he couldn't come tomorrow.", "He said he came yesterday.", "He asked if he could come tomorrow."], "answer": 0},
-    {"fa": "پرسید که آیا شما ایرانی هستید.", "r": "porsid ke āyā shomā irāni hastid.", "en": "He asked whether you were Iranian.", "options": ["He said you were Iranian.", "He asked whether you were Iranian.", "He asked where you were from."], "answer": 1},
-    {"fa": "از من خواست که در را ببندم.", "r": "az man khāst ke dar rā bebandam.", "en": "She asked me to close the door.", "options": ["She asked me to close the door.", "She asked me to open the door.", "She wanted to close the door."], "answer": 0}
+    {
+     "fa": "گفت که فردا نمی‌تواند بیاید.",
+     "r": "goft ke fardā nemi-tavānad biyāyad.",
+     "en": "He said he couldn't come tomorrow.",
+     "options": [
+      "He said he couldn't come tomorrow.",
+      "He said he came yesterday.",
+      "He asked if he could come tomorrow."
+     ],
+     "answer": 0,
+     "faV": "گُفت که فَردا نِمی‌تَوانَد بیایَد.",
+     "a": "e87dbb8146ed"
+    },
+    {
+     "fa": "پرسید که آیا شما ایرانی هستید.",
+     "r": "porsid ke āyā shomā irāni hastid.",
+     "en": "He asked whether you were Iranian.",
+     "options": [
+      "He said you were Iranian.",
+      "He asked whether you were Iranian.",
+      "He asked where you were from."
+     ],
+     "answer": 1,
+     "faV": "پُرسید که آیا شُما ایرانی هَستید.",
+     "a": "0a852591e605"
+    },
+    {
+     "fa": "از من خواست که در را ببندم.",
+     "r": "az man khāst ke dar rā bebandam.",
+     "en": "She asked me to close the door.",
+     "options": [
+      "She asked me to close the door.",
+      "She asked me to open the door.",
+      "She wanted to close the door."
+     ],
+     "answer": 0,
+     "faV": "اَز مَن خواست که دَر را بِبَندَم.",
+     "a": "0e290d75e7be"
+    }
    ]
   }
- ]
+ ],
+ "titleV": "گُفت که می‌آیَد",
+ "titleA": "2860e06b919f"
 }

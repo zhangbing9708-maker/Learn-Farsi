@@ -72,6 +72,8 @@ Read real texts, follow the news, argue a point, understand idioms and proverbs 
 3. [He said that…: reported speech](lessons/b1-03-he-said-that.md) — گفت که می‌آید
 4. [The formal future: 'it will be'](lessons/b1-04-the-formal-future.md) — خواهم رفت
 5. [If only: unreal conditions, wishes and regrets](lessons/b1-05-if-only.md) — کاش می‌دانستم
+6. [Building words: suffixes and prefixes](lessons/b1-06-building-words.md) — پسوندها و پیشوندها
+7. [Arabic in Persian: roots, plurals and tanvin](lessons/b1-07-arabic-in-persian.md) — عربی در فارسی
 
 ## Part 5. Stories — داستان‌ها
 

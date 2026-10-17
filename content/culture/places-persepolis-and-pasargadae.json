@@ -32,36 +32,208 @@
   }
  ],
  "sentences": [
-  {"fa": "یک دربست برای تخت جمشید و نقش رستم می‌خواهیم.", "r": "yek darbast barā-ye Takht-e Jamshid o Naghsh-e Rostam mi-khāhim.", "en": "We'd like a private taxi to Persepolis and Naqsh-e Rostam.", "col": "یه دربست برای تخت جمشید و نقش رستم می‌خوایم.", "colR": "ye darbast barā-ye Takht-e Jamshid o Naghsh-e Rostam mi-khāym."},
-  {"fa": "بلیت تخت جمشید را کجا می‌فروشند؟", "r": "belit-e Takht-e Jamshid rā kojā mi-forushand?", "en": "Where do they sell tickets for Persepolis?"},
-  {"fa": "صبح زود بیایید؛ ظهر خیلی گرم می‌شود.", "r": "sobh-e zud bi-yāyid; zohr kheyli garm mi-shavad.", "en": "Come early in the morning; it gets very hot at midday."},
-  {"fa": "این پلکان به دروازه‌ی ملل می‌رسد.", "r": "in pellekān be Darvāze-ye Melal mi-resad.", "en": "This staircase leads to the Gate of All Nations."},
-  {"fa": "روی این سنگ‌نگاره نمایندگان ملت‌ها هدیه می‌آورند.", "r": "ru-ye in sang-negāre namāyandegān-e mellat-hā hedye mi-āvarand.", "en": "On this relief the delegates of the nations are bringing gifts."},
-  {"fa": "چهار آرامگاه شاهان هخامنشی در نقش رستم است.", "r": "chahār ārāmgāh-e shāhān-e Hakhāmaneshi dar Naghsh-e Rostam ast.", "en": "Four tombs of Achaemenid kings are at Naqsh-e Rostam."},
-  {"fa": "شاپور در این نقش برجسته سوار بر اسب است.", "r": "Shāpur dar in naghsh-e barjaste savār bar asb ast.", "en": "In this relief Shapur is on horseback."},
-  {"fa": "آرامگاه کوروش شش پله دارد.", "r": "ārāmgāh-e Kurosh shesh pelle dārad.", "en": "The tomb of Cyrus has six steps."},
-  {"fa": "مردم قدیم فکر می‌کردند این آرامگاه مادر سلیمان است.", "r": "mardom-e ghadim fekr mi-kardand in ārāmgāh-e mādar-e Soleymān ast.", "en": "People in the old days thought this was the tomb of Solomon's mother."},
-  {"fa": "باغ پاسارگاد قدیمی‌ترین باغ ایرانی شناخته‌شده است.", "r": "bāgh-e Pāsārgād ghadimi-tarin bāgh-e irāni-ye shenākhte-shode ast.", "en": "The garden at Pasargadae is the oldest known Persian garden."},
-  {"fa": "در ایران این‌جا را «تخت جمشید» می‌نامند.", "r": "dar Irān in-jā rā «Takht-e Jamshid» mi-nāmand.", "en": "In Iran this place is called 'Takht-e Jamshid'."},
-  {"fa": "آب و کلاه یادتان نرود.", "r": "āb o kolāh yād-etān na-ravad.", "en": "Don't forget water and a hat."}
+  {
+   "fa": "یک دربست برای تخت جمشید و نقش رستم می‌خواهیم.",
+   "r": "yek darbast barā-ye Takht-e Jamshid o Naghsh-e Rostam mi-khāhim.",
+   "en": "We'd like a private taxi to Persepolis and Naqsh-e Rostam.",
+   "col": "یه دربست برای تخت جمشید و نقش رستم می‌خوایم.",
+   "colR": "ye darbast barā-ye Takht-e Jamshid o Naghsh-e Rostam mi-khāym.",
+   "faV": "یِک دَربَست بَرایِ تَختِ جَمشید و نَقشِ رُستَم می‌خواهیم.",
+   "a": "9a7aa2c688b5",
+   "colV": "یه دَربَست بَرایِ تَختِ جَمشید و نَقشِ رُستَم می‌خوایم.",
+   "colA": "3fd1fdd66fa5"
+  },
+  {
+   "fa": "بلیت تخت جمشید را کجا می‌فروشند؟",
+   "r": "belit-e Takht-e Jamshid rā kojā mi-forushand?",
+   "en": "Where do they sell tickets for Persepolis?",
+   "faV": "بِلیتِ تَختِ جَمشید را کُجا می‌فُروشَند؟",
+   "a": "e070a8453cf3"
+  },
+  {
+   "fa": "صبح زود بیایید؛ ظهر خیلی گرم می‌شود.",
+   "r": "sobh-e zud bi-yāyid; zohr kheyli garm mi-shavad.",
+   "en": "Come early in the morning; it gets very hot at midday.",
+   "faV": "صُبحِ زود بیایید؛ ظُهر خَیلی گَرم می‌شَوَد.",
+   "a": "0892cef305c9"
+  },
+  {
+   "fa": "این پلکان به دروازه‌ی ملل می‌رسد.",
+   "r": "in pellekān be Darvāze-ye Melal mi-resad.",
+   "en": "This staircase leads to the Gate of All Nations.",
+   "faV": "این پِلِّکان به دَروازه‌یِ مِلَل می‌رِسَد.",
+   "a": "a9547a1ead9b"
+  },
+  {
+   "fa": "روی این سنگ‌نگاره نمایندگان ملت‌ها هدیه می‌آورند.",
+   "r": "ru-ye in sang-negāre namāyandegān-e mellat-hā hedye mi-āvarand.",
+   "en": "On this relief the delegates of the nations are bringing gifts.",
+   "faV": "رویِ این سَنگ‌نِگاره نَمایَندِگانِ مِلَّت‌ها هِدیه می‌آوَرَند.",
+   "a": "80ff3d242bf9"
+  },
+  {
+   "fa": "چهار آرامگاه شاهان هخامنشی در نقش رستم است.",
+   "r": "chahār ārāmgāh-e shāhān-e Hakhāmaneshi dar Naghsh-e Rostam ast.",
+   "en": "Four tombs of Achaemenid kings are at Naqsh-e Rostam.",
+   "faV": "چَهار آرامگاهِ شاهانِ هَخامَنِشی دَر نَقشِ رُستَم اَست.",
+   "a": "aebbbd1cc6bc"
+  },
+  {
+   "fa": "شاپور در این نقش برجسته سوار بر اسب است.",
+   "r": "Shāpur dar in naghsh-e barjaste savār bar asb ast.",
+   "en": "In this relief Shapur is on horseback.",
+   "faV": "شاپور دَر این نَقشِ بَرجَسته سَوار بَر اَسب اَست.",
+   "a": "471299c7b7f0"
+  },
+  {
+   "fa": "آرامگاه کوروش شش پله دارد.",
+   "r": "ārāmgāh-e Kurosh shesh pelle dārad.",
+   "en": "The tomb of Cyrus has six steps.",
+   "faV": "آرامگاهِ کوروش شِش پِلّه دارَد.",
+   "a": "d5c3b8026c39"
+  },
+  {
+   "fa": "مردم قدیم فکر می‌کردند این آرامگاه مادر سلیمان است.",
+   "r": "mardom-e ghadim fekr mi-kardand in ārāmgāh-e mādar-e Soleymān ast.",
+   "en": "People in the old days thought this was the tomb of Solomon's mother.",
+   "faV": "مَردُمِ قَدیم فِکر می‌کَردَند این آرامگاهِ مادَرِ سُلَیمان اَست.",
+   "a": "cd9491151785"
+  },
+  {
+   "fa": "باغ پاسارگاد قدیمی‌ترین باغ ایرانی شناخته‌شده است.",
+   "r": "bāgh-e Pāsārgād ghadimi-tarin bāgh-e irāni-ye shenākhte-shode ast.",
+   "en": "The garden at Pasargadae is the oldest known Persian garden.",
+   "faV": "باغِ پاسارگاد قَدیمی‌تَرین باغِ ایرانیِ شِناخته‌شُده اَست.",
+   "a": "884b118b955e"
+  },
+  {
+   "fa": "در ایران این‌جا را «تخت جمشید» می‌نامند.",
+   "r": "dar Irān in-jā rā «Takht-e Jamshid» mi-nāmand.",
+   "en": "In Iran this place is called 'Takht-e Jamshid'.",
+   "faV": "دَر ایران این‌جا را «تَختِ جَمشید» می‌نامَند.",
+   "a": "debe60464f7c"
+  },
+  {
+   "fa": "آب و کلاه یادتان نرود.",
+   "r": "āb o kolāh yād-etān na-ravad.",
+   "en": "Don't forget water and a hat.",
+   "faV": "آب و کُلاه یادِتان نَرَوَد.",
+   "a": "73e19087b3fc"
+  }
  ],
  "vocab": [
-  {"fa": "شاهنشاه", "r": "shāhanshāh", "en": "king of kings, emperor"},
-  {"fa": "امپراتوری", "r": "emperāturi", "en": "empire"},
-  {"fa": "هخامنشی", "r": "Hakhāmaneshi", "en": "Achaemenid"},
-  {"fa": "ساسانی", "r": "Sāsāni", "en": "Sasanian"},
-  {"fa": "آرامگاه", "r": "ārāmgāh", "en": "tomb, mausoleum"},
-  {"fa": "سرستون", "r": "sar-sotun", "en": "capital (top of a column)"},
-  {"fa": "گاو بالدار", "r": "gāv-e bāldār", "en": "winged bull"},
-  {"fa": "سنگ‌نگاره", "r": "sang-negāre", "en": "rock relief"},
-  {"fa": "کتیبه", "r": "katibe", "en": "inscription"},
-  {"fa": "اسطوره", "r": "osture", "en": "myth, legend"},
-  {"fa": "باستانی", "r": "bāstāni", "en": "ancient"},
-  {"fa": "شکوه", "r": "shokuh", "en": "splendour, grandeur"},
-  {"fa": "سایه", "r": "sāye", "en": "shade, shadow"},
-  {"fa": "کلاه", "r": "kolāh", "en": "hat"},
-  {"fa": "بلیت‌فروشی", "r": "belit-forushi", "en": "ticket office"},
-  {"fa": "راهنمای تور", "r": "rāhnamā-ye tur", "en": "tour guide"}
+  {
+   "fa": "شاهنشاه",
+   "r": "shāhanshāh",
+   "en": "king of kings, emperor",
+   "faV": "شاهَنشاه",
+   "a": "52509610fa2c"
+  },
+  {
+   "fa": "امپراتوری",
+   "r": "emperāturi",
+   "en": "empire",
+   "faV": "اِمپِراتوری",
+   "a": "2b8a9101ccb7"
+  },
+  {
+   "fa": "هخامنشی",
+   "r": "Hakhāmaneshi",
+   "en": "Achaemenid",
+   "faV": "هَخامَنِشی",
+   "a": "dbf48d0638b9"
+  },
+  {
+   "fa": "ساسانی",
+   "r": "Sāsāni",
+   "en": "Sasanian",
+   "faV": "ساسانی",
+   "a": "83b6aab733b6"
+  },
+  {
+   "fa": "آرامگاه",
+   "r": "ārāmgāh",
+   "en": "tomb, mausoleum",
+   "faV": "آرامگاه",
+   "a": "0acb7fd637bb"
+  },
+  {
+   "fa": "سرستون",
+   "r": "sar-sotun",
+   "en": "capital (top of a column)",
+   "faV": "سَرسُتون",
+   "a": "4f193a5e4fb2"
+  },
+  {
+   "fa": "گاو بالدار",
+   "r": "gāv-e bāldār",
+   "en": "winged bull",
+   "faV": "گاوِ بالدار",
+   "a": "971af03801ab"
+  },
+  {
+   "fa": "سنگ‌نگاره",
+   "r": "sang-negāre",
+   "en": "rock relief",
+   "faV": "سَنگ‌نِگاره",
+   "a": "dc479bf978bf"
+  },
+  {
+   "fa": "کتیبه",
+   "r": "katibe",
+   "en": "inscription",
+   "faV": "کَتیبه",
+   "a": "11260b2b9be2"
+  },
+  {
+   "fa": "اسطوره",
+   "r": "osture",
+   "en": "myth, legend",
+   "faV": "اُسطوره",
+   "a": "f594b48fbec2"
+  },
+  {
+   "fa": "باستانی",
+   "r": "bāstāni",
+   "en": "ancient",
+   "faV": "باستانی",
+   "a": "6fae0e3e789f"
+  },
+  {
+   "fa": "شکوه",
+   "r": "shokuh",
+   "en": "splendour, grandeur",
+   "faV": "شُکوه",
+   "a": "ffb11554452d"
+  },
+  {
+   "fa": "سایه",
+   "r": "sāye",
+   "en": "shade, shadow",
+   "faV": "سایه",
+   "a": "d3cb4226f73d"
+  },
+  {
+   "fa": "کلاه",
+   "r": "kolāh",
+   "en": "hat",
+   "faV": "کُلاه",
+   "a": "53a280740327"
+  },
+  {
+   "fa": "بلیت‌فروشی",
+   "r": "belit-forushi",
+   "en": "ticket office",
+   "faV": "بِلیت‌فُروشی",
+   "a": "010eb02a7c2f"
+  },
+  {
+   "fa": "راهنمای تور",
+   "r": "rāhnamā-ye tur",
+   "en": "tour guide",
+   "faV": "راهنَمایِ تور",
+   "a": "73fad8a4249f"
+  }
  ],
  "facts": [
   "Persepolis was inscribed on the UNESCO World Heritage list in 1979, and Pasargadae in 2004.",
@@ -71,5 +243,7 @@
   "Valerian, captured by Shapur I in AD 260, was the only Roman emperor ever taken prisoner.",
   "Naqsh-e Rostam means 'picture of Rostam': later Iranians thought the reliefs showed the hero of the Shahnameh.",
   "The Persepolis museum occupies part of the so-called Harem of Xerxes, rebuilt by archaeologists in the 1930s."
- ]
+ ],
+ "titleV": "تَختِ جَمشید و پاسارگاد",
+ "titleA": "97648dfd931d"
 }

@@ -199,6 +199,7 @@ def main():
     col = Collector()
     data_files = collect_data_files(col)
     content = {}
+    loaded_at = {}      # file -> mtime when read, so a file edited while we record is not overwritten
     extra = [os.path.join(DATA, "numbers.json")]
     import time
     for p in sorted(glob.glob(os.path.join(CONTENT, "**", "*.json"), recursive=True)) + [x for x in extra if os.path.exists(x)]:
@@ -214,6 +215,7 @@ def main():
             continue
         col.walk_content(x, p)
         content[p] = x
+        loaded_at[p] = os.stat(p).st_mtime_ns
 
     os.makedirs(AUDIO_DIR, exist_ok=True)
     todo = {i: t for i, t in col.jobs.items() if not os.path.exists(os.path.join(AUDIO_DIR, i + ".mp3"))}
@@ -273,6 +275,9 @@ def main():
     for p, x in content.items():
         if p in col.changed:
             st = os.stat(p)
+            if st.st_mtime_ns != loaded_at.get(p):
+                print("  changed while recording, not updated (run again):", os.path.relpath(p, ROOT))
+                continue
             open(p, "w", encoding="utf-8").write(json.dumps(x, ensure_ascii=False, indent=1) + "\n")
             os.utime(p, ns=(st.st_atime_ns, st.st_mtime_ns))   # adding audio fields is not an edit: keep the file "settled"
 
