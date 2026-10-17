@@ -1,6 +1,6 @@
 # Being polite: ta'arof, invitations and phone calls
 ## تعارف نکنید!
-*ta'ārof na-konid!* — Beginner (A1), lesson 20. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a1-20-being-polite.html)
+*ta'ārof na-konid!* — Beginner (A1), lesson 20. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a1-20-being-polite.html)
 
 Iranians are famous for their courtesy, and it comes with a whole set of phrases: what you say when you arrive, when you are offered tea, when someone has cooked for you, when someone is working, when you leave. Behind them lies تعارف – ta'arof, the elaborate politeness of offering and refusing. In this last A1 lesson you learn the formulas, how to accept an invitation, and how to get through a simple phone call.
 
@@ -316,10 +316,10 @@ Foreigners are forgiven almost everything. A safe rule: refuse an offer once, ac
 
 **Put the words in order**
 
-1. بود، / نکند. / خیلی / درد / خوشمزه / دستتان — It was delicious, thank you.
-2. این‌جا / بفرمایید، / بنشینید. — Please, sit here.
-3. هستند؟ / کریمی / آقای / ببخشید، — Excuse me, is Mr Karimi there?
-4. فردا / باشید. / ما / شب / مهمان — Be our guests tomorrow night.
+1. نکند. / بود، / خیلی / دستتان / خوشمزه / درد — It was delicious, thank you.
+2. بنشینید. / این‌جا / بفرمایید، — Please, sit here.
+3. آقای / ببخشید، / هستند؟ / کریمی — Excuse me, is Mr Karimi there?
+4. فردا / شب / باشید. / مهمان / ما — Be our guests tomorrow night.
 
 <details><summary>Answers</summary>
 

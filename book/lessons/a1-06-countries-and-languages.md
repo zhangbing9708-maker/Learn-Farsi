@@ -1,6 +1,6 @@
 # Do you speak Persian? Countries and languages
 ## فارسی بلدید؟
-*fārsi balad-id?* — Beginner (A1), lesson 6. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a1-06-countries-and-languages.html)
+*fārsi balad-id?* — Beginner (A1), lesson 6. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a1-06-countries-and-languages.html)
 
 'You speak Persian!' is something you will hear again and again in Iran – usually with delight. In this lesson you learn to say which languages you speak, where you live and where people come from, and you meet the most important pattern in Persian grammar: the present tense, mi- + stem + ending.
 
@@ -288,10 +288,10 @@ Iran, for its part, is home to many languages. In the north-west, around Tabriz,
 
 **Put the words in order**
 
-1. من / فارسی / کمی / صحبت / می‌کنم. — I speak a little Persian.
-2. برادرم / زندگی / کانادا / می‌کند. / در — My brother lives in Canada.
-3. بلدید؟ / شما / انگلیسی — Do you speak English?
-4. من / مادری / است. / انگلیسی / زبان — My mother tongue is English.
+1. می‌کنم. / فارسی / کمی / من / صحبت — I speak a little Persian.
+2. در / برادرم / می‌کند. / زندگی / کانادا — My brother lives in Canada.
+3. انگلیسی / شما / بلدید؟ — Do you speak English?
+4. است. / مادری / انگلیسی / زبان / من — My mother tongue is English.
 
 <details><summary>Answers</summary>
 

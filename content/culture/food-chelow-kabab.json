@@ -1,0 +1,76 @@
+{
+ "id": "food-chelow-kabab",
+ "topic": "food",
+ "title": "Chelow kabab",
+ "titleFa": "چلوکباب",
+ "titleR": "chelow-kabāb",
+ "image": "chelow-kabab",
+ "summary": "Buttery saffron rice, a skewer of charcoal-grilled meat, a blistered tomato and a sprinkle of sumac: chelow kabab is the closest thing Iran has to a national dish. What goes into it, how it is grilled and how to order it.",
+ "body": [
+  {
+   "h": "The national dish",
+   "md": "Ask Iranians to name their national dish and many will say [[چلوکباب|chelow-kabāb|chelow kabab]]: a mound of white rice ([[چلو|chelow|plain steamed rice]]) with one or two skewers of grilled meat. It is the classic restaurant meal, the quick lunch of the bazaar and the dish a family orders when it has something to celebrate.\n\nMeat grilled on skewers is as old as fire, but chelow kabab as a dish is usually dated to the Qajar era (1789–1925), when cooks in Tehran began serving kebab on steamed rice rather than on bread. By the twentieth century it had its own restaurants, the [[چلوکبابی|chelow-kabābi|chelow kabab restaurant]], and its own small rituals of butter, sumac and raw onion."
+  },
+  {
+   "h": "Which kabab?",
+   "md": "Kababis have a short menu, and every Iranian knows it by heart:\n\n- [[کباب کوبیده|kabāb-e kubide|minced kebab]]: minced lamb or beef mixed with grated onion, salt and pepper and pressed by hand onto wide, flat skewers. *Kubide* means 'pounded' – the meat was once beaten by hand.\n- [[کباب برگ|kabāb-e barg|'leaf' kebab]]: thin strips of lamb or beef fillet marinated in onion juice, saffron and oil; *barg* means 'leaf'.\n- [[جوجه‌کباب|juje-kabāb|chicken kebab]]: pieces of chicken marinated in saffron, lemon juice and onion.\n- [[کباب سلطانی|kabāb-e soltāni|'the sultan's kebab']]: one barg and one koobideh together, for the very hungry.\n- [[کباب بختیاری|kabāb-e bakhtiyāri|Bakhtiari kebab]]: lamb and chicken on the same skewer.",
+   "image": "kabab-koobideh"
+  },
+  {
+   "h": "How koobideh is made",
+   "md": "Koobideh needs little more than meat, onion and salt, but it takes practice to keep it on the skewer.\n\n1. Grate two onions and squeeze out all their juice – too much liquid and the meat will slide off.\n2. Knead the minced meat ([[گوشت چرخ‌کرده|gusht-e charkh-karde|minced meat]]) with the onion, salt and black pepper for several minutes, until it is sticky. Rest it in the fridge for at least an hour.\n3. With wet hands, press a handful along each wide skewer ([[سیخ|sikh|skewer]]) and pinch ridges into it with your fingers.\n4. Grill over glowing charcoal ([[زغال|zoghāl|charcoal]]) on a [[منقل|manghal|charcoal brazier]], turning the skewers constantly at first so that the meat sets and does not drop.\n5. Grill tomatoes alongside, and slide the kabab off the skewer with a piece of flat bread, which soaks up the juices."
+  },
+  {
+   "h": "On the plate",
+   "md": "In a good kababi the rice arrives with a pat of butter ([[کره|kare|butter]]) melting on top, and in old-fashioned places a raw egg yolk to stir into it. On every table stands a shaker of [[سماق|somāgh|sumac]], whose sour red powder goes on both meat and rice. Beside the plate come grilled tomatoes, raw onion, a basket of herbs, flat bread and a glass of [[دوغ|dugh|doogh]], the salty yoghurt drink that many Iranians consider the only proper partner for kebab. Plenty of people eat a bite of raw onion with every mouthful of meat.",
+   "image": "doogh"
+  },
+  {
+   "h": "Kabab at home and on picnics",
+   "md": "In a kababi you order by the portion – [[یک پرس|yek pors|one portion]] of koobideh, or of joojeh – while a butcher or kebab stall will sell by the skewer: [[دو سیخ|do sikh|two skewers]] to take away.\n\nAt home, kabab is a weekend treat. On Fridays families grill it on the balcony or in the yard, and an Iranian picnic in the mountains or by a river almost always involves a brazier, a bag of charcoal and a pot of marinated chicken. The cook fans the coals with a little fan ([[بادبزن|bādbezan|hand fan]]), and the first skewers are eaten the moment they leave the fire. Kabab even has its own idiom: [[دلم کباب شد|del-am kabāb shod|'my heart turned to kebab']] means 'I felt terribly sorry for them'.",
+   "image": "jujeh-kabab"
+  }
+ ],
+ "sentences": [
+  {"fa": "یک پرس چلوکباب کوبیده، لطفاً.", "r": "yek pors chelow-kabāb-e kubide, lotfan.", "en": "One portion of chelow kabab koobideh, please.", "col": "یه پرس چلوکباب کوبیده، لطفاً.", "colR": "ye pors chelow-kabāb-e kubide, lotfan."},
+  {"fa": "کباب برگ را با گوشت گوسفند درست می‌کنند.", "r": "kabāb-e barg rā bā gusht-e gusfand dorost mi-konand.", "en": "Kabab barg is made with lamb."},
+  {"fa": "گوشت را با پیاز رنده‌شده مخلوط کن.", "r": "gusht rā bā piyāz-e rande-shode makhlut kon.", "en": "Mix the meat with grated onion."},
+  {"fa": "آب پیاز را خوب بگیر تا کباب از سیخ نیفتد.", "r": "āb-e piyāz rā khub be-gir tā kabāb az sikh na-yoftad.", "en": "Squeeze the juice out of the onion well, so the kabab doesn't fall off the skewer."},
+  {"fa": "سیخ‌ها را مدام بچرخان.", "r": "sikh-hā rā modām be-charkhān.", "en": "Keep turning the skewers."},
+  {"fa": "روی کباب کمی سماق بریزید.", "r": "ru-ye kabāb kami somāgh be-rizid.", "en": "Sprinkle a little sumac on the kabab."},
+  {"fa": "جوجه‌کباب را با زعفران و آب‌لیمو درست می‌کنند.", "r": "juje-kabāb rā bā za'farān va āb-limu dorost mi-konand.", "en": "Joojeh kabab is made with saffron and lemon juice."},
+  {"fa": "دوغ هم دارید؟", "r": "dugh ham dārid?", "en": "Do you have doogh too?", "col": "دوغ هم دارین؟", "colR": "dugh ham dārin?"},
+  {"fa": "این کباب خیلی آبدار و خوشمزه است.", "r": "in kabāb kheyli ābdār o khoshmazze ast.", "en": "This kabab is very juicy and tasty."},
+  {"fa": "جمعه‌ها در حیاط کباب درست می‌کنیم.", "r": "jom'e-hā dar hayāt kabāb dorost mi-konim.", "en": "On Fridays we make kabab in the yard."},
+  {"fa": "بفرمایید، تا داغ است بخورید.", "r": "befarmāyid, tā dāgh ast bo-khorid.", "en": "Please, eat it while it's hot.", "col": "بفرمایین، تا داغه بخورین.", "colR": "befarmāyin, tā dāgh-e bo-khorin."}
+ ],
+ "vocab": [
+  {"fa": "چلوکباب", "r": "chelow-kabāb", "en": "chelow kabab, rice with kebab"},
+  {"fa": "چلو", "r": "chelow", "en": "plain steamed rice"},
+  {"fa": "کباب کوبیده", "r": "kabāb-e kubide", "en": "minced-meat kebab"},
+  {"fa": "کباب برگ", "r": "kabāb-e barg", "en": "kebab of thin fillet strips"},
+  {"fa": "جوجه‌کباب", "r": "juje-kabāb", "en": "chicken kebab"},
+  {"fa": "سیخ", "r": "sikh", "en": "skewer"},
+  {"fa": "زغال", "r": "zoghāl", "en": "charcoal"},
+  {"fa": "منقل", "r": "manghal", "en": "charcoal brazier, grill"},
+  {"fa": "سماق", "r": "somāgh", "en": "sumac"},
+  {"fa": "کره", "r": "kare", "en": "butter"},
+  {"fa": "پیاز", "r": "piyāz", "en": "onion"},
+  {"fa": "گوجه‌فرنگی", "r": "gowje-farangi", "en": "tomato"},
+  {"fa": "گوشت چرخ‌کرده", "r": "gusht-e charkh-karde", "en": "minced meat"},
+  {"fa": "گوشت گوسفند", "r": "gusht-e gusfand", "en": "lamb, mutton"},
+  {"fa": "پرس", "r": "pors", "en": "portion, serving"},
+  {"fa": "رنده کردن", "r": "rande kardan", "en": "to grate"},
+  {"fa": "مخلوط کردن", "r": "makhlut kardan", "en": "to mix"},
+  {"fa": "آبدار", "r": "ābdār", "en": "juicy"},
+  {"fa": "داغ", "r": "dāgh", "en": "hot (to the touch)"}
+ ],
+ "facts": [
+  "Chelow kabab is usually dated to the Qajar era (1789–1925).",
+  "Koobideh is grilled on wide, flat skewers so that the soft minced meat can grip them.",
+  "Kabab soltani, 'the sultan's kebab', is one skewer of barg and one of koobideh served together.",
+  "Traditionally chelow kabab comes with butter and a raw egg yolk to stir into the hot rice.",
+  "Sumac, the sour red spice on every kababi table, is made from the dried, ground berries of the sumac shrub.",
+  "'Del-am kabāb shod' – 'my heart turned to kebab' – means 'I felt deeply sorry'."
+ ]
+}

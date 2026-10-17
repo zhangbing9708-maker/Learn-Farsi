@@ -1,6 +1,6 @@
 # Learn Farsi – the book
 
-The whole course as a book you can read here on GitHub. For recorded audio, interactive exercises, flashcards, the dictionary and the verb conjugator, use the website: **https://zhangbing9708-maker.github.io/learn-farsi/**
+The whole course as a book you can read here on GitHub. For recorded audio, interactive exercises, flashcards, the dictionary and the verb conjugator, use the website: **https://zhangbing9708-maker.github.io/Learn-Farsi/**
 
 Persian is written right to left. Every Persian line is followed by its pronunciation in *italics* (ā as in *father*, kh as in *loch*, gh a throaty r, ' a catch in the throat) and its meaning.
 
@@ -47,6 +47,7 @@ Greet, introduce yourself, count, shop, order food, find your way and talk about
 Tell stories in the past, give instructions, make comparisons, express opinions and start to understand how Iranians really speak.
 
 1. [What were you doing? The past continuous](lessons/a2-01-what-were-you-doing.md) — چه کار می‌کردی؟
+2. [Have you ever…? The present perfect](lessons/a2-02-have-you-ever.md) — تا حالا به شیراز رفته‌ای؟
 9. [Do this! Instructions and a recipe](lessons/a2-09-do-this.md) — این کار را بکن!
 
 ## Part 4. Intermediate (B1) — میانی
@@ -78,13 +79,17 @@ Graded readers, from very easy to literary.
 - [Persepolis](culture/history-persepolis.md) — تخت جمشید
 - [Alexander, the Parthians and the Sasanians](culture/history-alexander-parthians-sasanians.md) — اسکندر، اشکانیان و ساسانیان
 - [Zoroaster and the fire](culture/history-zoroaster-and-the-fire.md) — زرتشت و آتش
+- [Islam and the Persian renaissance](culture/history-islam-and-the-persian-renaissance.md) — اسلام و نوزایی فارسی
+- [The Silk Road](culture/history-the-silk-road.md) — جاده‌ی ابریشم
 
 **Food**
 
 - [Iranian cuisine](culture/food-iranian-cuisine.md) — آشپزی ایرانی
+- [Chelow kabab](culture/food-chelow-kabab.md) — چلوکباب
+- [Ghormeh sabzi](culture/food-ghormeh-sabzi.md) — قورمه‌سبزی
 
 ## Part 7. Reference
 
 - [Phrasebook](phrasebook.md)
-- [Dictionary of the 5,000 most common words](https://zhangbing9708-maker.github.io/learn-farsi/dictionary/index.html) (website)
+- [Dictionary of the 5,000 most common words](https://zhangbing9708-maker.github.io/Learn-Farsi/dictionary/index.html) (website)
 

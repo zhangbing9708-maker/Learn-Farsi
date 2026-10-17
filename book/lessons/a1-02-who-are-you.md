@@ -1,6 +1,6 @@
 # Who are you? Names and where you are from
 ## شما کی هستید؟
-*shomā ki hastid?* — Beginner (A1), lesson 2. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a1-02-who-are-you.html)
+*shomā ki hastid?* — Beginner (A1), lesson 2. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a1-02-who-are-you.html)
 
 Now that you can say hello, it is time to say who you are. In this lesson you introduce yourself, ask someone's name, say where you are from and what you are – and you meet the full set of Persian pronouns and the verb 'to be'.
 
@@ -255,10 +255,10 @@ Surnames are young – they were made compulsory only in 1925 – and often tell
 
 **Put the words in order**
 
-1. اسم / شما / چیست؟ — What is your name?
-2. من / هستم. / اهل / شیراز — I am from Shiraz.
-3. نیست. / او / ما / معلم — He is not our teacher.
-4. آن‌ها / هم / دانشجو / هستند. — They are students too.
+1. چیست؟ / شما / اسم — What is your name?
+2. اهل / من / شیراز / هستم. — I am from Shiraz.
+3. معلم / او / نیست. / ما — He is not our teacher.
+4. دانشجو / آن‌ها / هستند. / هم — They are students too.
 
 <details><summary>Answers</summary>
 

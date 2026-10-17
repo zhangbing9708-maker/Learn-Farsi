@@ -1,6 +1,6 @@
 # Nun, vāv, he, ye – and the hamza
 ## ن، و، ه، ی
-*nun, vāv, he, ye* — The script, lesson 7. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/script-07-nun-vav-he-ye.html)
+*nun, vāv, he, ye* — The script, lesson 7. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/script-07-nun-vav-he-ye.html)
 
 The last four letters – and the busiest. Nun completes the tooth family; vāv and ye are both consonants and long vowels; he is either an h or a silent final e. You also meet the hamza, a small sign for the glottal stop, and learn how the ezafe is written after a silent e. By the end of this lesson you know all 32 letters.
 

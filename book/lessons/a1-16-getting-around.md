@@ -1,6 +1,6 @@
 # Getting around: taxi, metro and directions
 ## در شهر: تاکسی، مترو و مسیر
-*dar shahr: tāksi, metro o masir* — Beginner (A1), lesson 16. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a1-16-getting-around.html)
+*dar shahr: tāksi, metro o masir* — Beginner (A1), lesson 16. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a1-16-getting-around.html)
 
 Tehran is a city of twelve million people, shared taxis, a clean metro and legendary traffic. In this lesson you learn to take a taxi and the metro, ask the way and understand the answer – and you meet the imperative, the verb form for telling people what to do: go, turn, stop.
 
@@ -251,10 +251,10 @@ The road that matters most is خیابان ولیعصر (*khiyābān-e Valiasr*)
 
 **Put the words in order**
 
-1. لطفاً / این‌جا / نگه / دارید. — Please stop here.
-2. به / چهارراه / چپ. / بپیچید / سر — At the crossroads turn left.
-3. من / می‌روم. / به / بازار / با / مترو — I go to the bazaar by metro.
-4. ایستگاه / است؟ / دور / مترو — Is the metro station far?
+1. دارید. / نگه / لطفاً / این‌جا — Please stop here.
+2. به / چپ. / بپیچید / چهارراه / سر — At the crossroads turn left.
+3. می‌روم. / با / به / من / بازار / مترو — I go to the bazaar by metro.
+4. است؟ / ایستگاه / دور / مترو — Is the metro station far?
 
 <details><summary>Answers</summary>
 

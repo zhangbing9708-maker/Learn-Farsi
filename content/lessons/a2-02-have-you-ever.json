@@ -1,0 +1,244 @@
+{
+ "id": "a2-02-have-you-ever",
+ "level": "A2",
+ "n": 2,
+ "title": "Have you ever…? The present perfect",
+ "titleFa": "تا حالا به شیراز رفته‌ای؟",
+ "titleR": "tā hālā be Shirāz rafte-i?",
+ "intro": "Have you ever been to Shiraz? Have you tried fesenjan? Not yet? This lesson is about experiences – the things you have and haven't done so far. Persian builds its present perfect from two pieces you already have: the past stem from A1 plus -e, and the short endings of 'to be'. You will also learn ever, never, not yet and just, and how spoken Persian squeezes رفته‌ام into something that sounds almost like رفتم.",
+ "goals": ["talk about experiences with the present perfect: رفته‌ام، دیده‌ام", "ask 'have you ever…?' with تا حالا", "say 'never', 'not yet' and 'just' with هیچ‌وقت، هنوز، تازه", "say how often: یک بار، دو بار، چند بار", "choose between the simple past (پارسال رفتم) and the perfect (رفته‌ام)"],
+ "image": "shiraz",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "Have you ever been to Shiraz?",
+   "context": "Mahsa and Tom are having tea after class. Mahsa loves Shiraz; Tom has been in Iran for six months.",
+   "lines": [
+    {"who": "Mahsa", "fa": "تام، تا حالا به شیراز رفته‌ای؟", "r": "Tām, tā hālā be Shirāz rafte-i?", "en": "Tom, have you ever been to Shiraz?", "col": "تام، تا حالا شیراز رفتی؟", "colR": "Tām, tā hālā Shirāz rafti?"},
+    {"who": "Tom", "fa": "نه، هنوز نرفته‌ام. اما اصفهان و یزد را دیده‌ام.", "r": "na, hanuz na-rafte-am. ammā Esfahān o Yazd rā dide-am.", "en": "No, not yet. But I've seen Isfahan and Yazd.", "col": "نه، هنوز نرفتم. ولی اصفهان و یزد رو دیدم.", "colR": "na, hanuz na-raftam. vali Esfahān o Yazd ro didam."},
+    {"who": "Mahsa", "fa": "یزد را دوست داشتی؟", "r": "Yazd rā dust dāshti?", "en": "Did you like Yazd?", "col": "یزد رو دوست داشتی؟", "colR": "Yazd ro dust dāshti?"},
+    {"who": "Tom", "fa": "خیلی! من هیچ‌وقت شهری مثل یزد ندیده‌ام.", "r": "kheyli! man hich-vaght shahr-i mesl-e Yazd na-dide-am.", "en": "Very much! I've never seen a city like Yazd.", "col": "خیلی! من هیچ‌وقت شهری مثل یزد ندیدم.", "colR": "kheyli! man hich-vaght shahr-i mesl-e Yazd na-didam."},
+    {"who": "Mahsa", "fa": "شیراز هم خیلی قشنگ است. من سه بار آن‌جا رفته‌ام.", "r": "Shirāz ham kheyli ghashang ast. man se bār ān-jā rafte-am.", "en": "Shiraz is very beautiful too. I've been there three times.", "col": "شیراز هم خیلی قشنگه. من سه بار اون‌جا رفتم.", "colR": "Shirāz ham kheyli ghashange. man se bār un-jā raftam."},
+    {"who": "Tom", "fa": "آرامگاه حافظ را دیده‌ای؟", "r": "ārāmgāh-e Hāfez rā dide-i?", "en": "Have you seen the tomb of Hafez?", "col": "آرامگاه حافظ رو دیدی؟", "colR": "ārāmgāh-e Hāfez ro didi?"},
+    {"who": "Mahsa", "fa": "البته! هر بار به آن‌جا رفته‌ام و فال حافظ گرفته‌ام.", "r": "albatte! har bār be ān-jā rafte-am o fāl-e Hāfez gerefte-am.", "en": "Of course! Every time I've gone there and had a Hafez fortune reading.", "col": "البته! هر دفعه رفتم اون‌جا و فال حافظ گرفتم.", "colR": "albatte! har daf'e raftam un-jā o fāl-e Hāfez gereftam."},
+    {"who": "Tom", "fa": "فال حافظ؟ آن چیست؟", "r": "fāl-e Hāfez? ān chist?", "en": "A Hafez fortune? What's that?", "col": "فال حافظ؟ اون چیه؟", "colR": "fāl-e Hāfez? un chiye?"},
+    {"who": "Mahsa", "fa": "نیت می‌کنی، دیوان حافظ را باز می‌کنی و شعر جواب تو را می‌دهد. هنوز امتحان نکرده‌ای؟", "r": "niyyat mi-koni, divān-e Hāfez rā bāz mi-koni o she'r javāb-e to rā mi-dahad. hanuz emtehān na-karde-i?", "en": "You make a wish, open the Divan of Hafez, and the poem gives you your answer. You still haven't tried it?", "col": "نیت می‌کنی، دیوان حافظ رو باز می‌کنی و شعر جوابتو می‌ده. هنوز امتحان نکردی؟", "colR": "niyyat mi-koni, divān-e Hāfez ro bāz mi-koni o she'r javāb-eto mi-de. hanuz emtehān na-kardi?"},
+    {"who": "Tom", "fa": "نه، هیچ‌وقت. باید امتحان کنم!", "r": "na, hich-vaght. bāyad emtehān konam!", "en": "No, never. I must try it!"},
+    {"who": "Mahsa", "fa": "پس ماه بعد با هم به شیراز برویم!", "r": "pas māh-e ba'd bā ham be Shirāz beravim!", "en": "Then let's go to Shiraz together next month!", "col": "پس ماه بعد با هم بریم شیراز!", "colR": "pas māh-e ba'd bā ham berim Shirāz!"},
+    {"who": "Tom", "fa": "عالی است! تا حالا با اتوبوس شبانه سفر نکرده‌ام.", "r": "āli ast! tā hālā bā otobus-e shabāne safar na-karde-am.", "en": "Great! I've never travelled on a night bus.", "col": "عالیه! تا حالا با اتوبوس شبونه سفر نکردم.", "colR": "āliye! tā hālā bā otobus-e shabune safar na-kardam."}
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Two pieces you already know",
+   "md": "English *have you ever been* is Persian *until now have you gone*: [[تا حالا رفته‌ای؟|tā hālā rafte-i?]] The new tense, the **present perfect** ([[ماضی نقلی|māzi-ye naghli]]), is built from two things you learned at A1.\n\n1. The **past participle**: the past stem plus **-e** (written ه). [[رفت|raft]] → [[رفته|rafte|gone]], [[دید|did]] → [[دیده|dide|seen]], [[خورد|khord]] → [[خورده|khorde|eaten]]. It is the Persian *gone, seen, eaten*.\n2. The short endings of *to be*: **-am, -i, -im, -id, -and**, joined to the participle with a ZWNJ: [[رفته‌ام|rafte-am|I have gone]]. Only *he / she* takes the full word [[است|ast]], written separately: [[رفته است|rafte ast]].\n\nYou use it, as in English, for experiences (*I've been to Yazd*), for things not yet done (*I haven't tried it*) and for a past action whose result matters now (*I've lost my key*)."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {"fa": "تا حالا", "r": "tā hālā", "en": "ever (in questions); so far, until now", "pos": "phrase", "ex": {"fa": "تا حالا ایران رفته‌اید؟", "r": "tā hālā Irān rafte-id?", "en": "Have you ever been to Iran?"}},
+    {"fa": "تا به حال", "r": "tā be hāl", "en": "ever, until now (more formal)", "pos": "phrase"},
+    {"fa": "هنوز", "r": "hanuz", "en": "still; (with a negative verb) not yet", "pos": "adv", "ex": {"fa": "هنوز نیامده است.", "r": "hanuz na-yāmade ast.", "en": "He hasn't come yet."}},
+    {"fa": "هیچ‌وقت", "r": "hich-vaght", "en": "never (with a negative verb)", "pos": "adv"},
+    {"fa": "تازه", "r": "tāze", "en": "just (a moment ago); fresh", "pos": "adv", "ex": {"fa": "تازه رسیده‌ام.", "r": "tāze reside-am.", "en": "I've just arrived."}},
+    {"fa": "یک بار", "r": "yek bār", "en": "once", "pos": "phrase", "note": "دو بار twice, سه بار three times"},
+    {"fa": "چند بار", "r": "chand bār", "en": "how many times?; several times", "pos": "phrase"},
+    {"fa": "قبلاً", "r": "ghablan", "en": "before, previously", "pos": "adv", "ex": {"fa": "قبلاً این‌جا آمده‌ام.", "r": "ghablan in-jā āmade-am.", "en": "I've been here before."}},
+    {"fa": "سفر", "r": "safar", "en": "journey, trip", "pos": "n", "note": "سفر کردن safar kardan, to travel"},
+    {"fa": "دیدن کردن", "r": "didan kardan", "en": "to visit (a place)", "pos": "v", "ex": {"fa": "از تخت جمشید دیدن کرده‌اید؟", "r": "az Takht-e Jamshid didan karde-id?", "en": "Have you visited Persepolis?"}},
+    {"fa": "تجربه", "r": "tajrobe", "en": "experience", "pos": "n"},
+    {"fa": "فال", "r": "fāl", "en": "fortune, omen", "pos": "n", "note": "فال گرفتن fāl gereftan, to have one's fortune told"},
+    {"fa": "دیوان", "r": "divān", "en": "collected poems (of one poet)", "pos": "n"},
+    {"fa": "شعر", "r": "she'r", "en": "poem; poetry", "pos": "n"},
+    {"fa": "آرامگاه", "r": "ārāmgāh", "en": "tomb, mausoleum", "pos": "n", "note": "literally 'place of rest'"},
+    {"fa": "امتحان کردن", "r": "emtehān kardan", "en": "to try (out), to test", "pos": "v"},
+    {"fa": "خارج", "r": "khārej", "en": "abroad; outside", "pos": "n", "ex": {"fa": "به خارج سفر کرده‌ای؟", "r": "be khārej safar karde-i?", "en": "Have you travelled abroad?"}},
+    {"fa": "هواپیما", "r": "havāpeymā", "en": "aeroplane", "pos": "n"},
+    {"fa": "عالی", "r": "āli", "en": "excellent, great", "pos": "adj"},
+    {"fa": "یاد گرفتن", "r": "yād gereftan", "en": "to learn", "pos": "v"},
+    {"fa": "اصلاً", "r": "aslan", "en": "(not) at all", "pos": "adv", "ex": {"fa": "اصلاً سفر نکرده‌ام.", "r": "aslan safar na-karde-am.", "en": "I haven't travelled at all."}}
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The present perfect: رفته‌ام، دیده‌ام",
+   "md": "Participle + short ending, with a ZWNJ between them. For the negative, put **na-** on the participle: [[نرفته‌ام|na-rafte-am|I haven't gone]]. In compound verbs, na- goes on the verb part: [[سفر نکرده‌ام|safar na-karde-am|I haven't travelled]].\n\nThe he / she form is written [[رفته است|rafte ast]], but in speech and in much informal writing the [[است|ast]] disappears: [[رفته|rafte|he has gone]].\n\nOne use English doesn't share: Persian often uses the perfect for facts about the past that are still 'on record' – in history books, the news and reported information: [[حافظ در شیراز به دنیا آمده است.|Hāfez dar Shirāz be donyā āmade ast.|Hafez was born in Shiraz.]]",
+   "table": {
+    "head": ["Person", "go: rafte", "see: dide", "negative", "English"],
+    "rows": [
+     ["I", "[[رفته‌ام|rafte-am]]", "[[دیده‌ام|dide-am]]", "[[نرفته‌ام|na-rafte-am]]", "I have gone / seen; I haven't gone"],
+     ["you", "[[رفته‌ای|rafte-i]]", "[[دیده‌ای|dide-i]]", "[[نرفته‌ای|na-rafte-i]]", "you have gone / seen"],
+     ["he / she", "[[رفته است|rafte ast]]", "[[دیده است|dide ast]]", "[[نرفته است|na-rafte ast]]", "he / she has gone / seen"],
+     ["we", "[[رفته‌ایم|rafte-im]]", "[[دیده‌ایم|dide-im]]", "[[نرفته‌ایم|na-rafte-im]]", "we have gone / seen"],
+     ["you (polite, pl.)", "[[رفته‌اید|rafte-id]]", "[[دیده‌اید|dide-id]]", "[[نرفته‌اید|na-rafte-id]]", "you have gone / seen"],
+     ["they", "[[رفته‌اند|rafte-and]]", "[[دیده‌اند|dide-and]]", "[[نرفته‌اند|na-rafte-and]]", "they have gone / seen"]
+    ]
+   },
+   "examples": [
+    {"fa": "من دو بار به مشهد رفته‌ام.", "r": "man do bār be Mashhad rafte-am.", "en": "I've been to Mashhad twice.", "col": "من دو بار رفتم مشهد.", "colR": "man do bār raftam Mashhad."},
+    {"fa": "سارا این فیلم را سه بار دیده است.", "r": "Sārā in film rā se bār dide ast.", "en": "Sara has seen this film three times.", "col": "سارا این فیلم رو سه بار دیده.", "colR": "Sārā in film ro se bār dide."},
+    {"fa": "ما قبلاً همدیگر را دیده‌ایم؟", "r": "mā ghablan hamdigar rā dide-im?", "en": "Have we met before?", "col": "ما قبلاً همدیگه رو دیدیم؟", "colR": "mā ghablan hamdige ro didim?"},
+    {"fa": "حافظ در شیراز به دنیا آمده است.", "r": "Hāfez dar Shirāz be donyā āmade ast.", "en": "Hafez was born in Shiraz.", "note": "a fact 'on record': the perfect, where English uses the simple past"},
+    {"fa": "آن‌ها هنوز شام نخورده‌اند.", "r": "ān-hā hanuz shām na-khorde-and.", "en": "They haven't had dinner yet.", "col": "اونا هنوز شام نخوردن.", "colR": "unā hanuz shām na-khordan."}
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Ever, never, not yet, just: تا حالا، هیچ‌وقت، هنوز، تازه",
+   "md": "- [[تا حالا|tā hālā|until now]] in a question means **ever**; in a statement, **so far**: [[تا حالا سه کتاب فارسی خوانده‌ام.|tā hālā se ketāb-e fārsi khānde-am.|So far I've read three Persian books.]] A more formal version is [[تا به حال|tā be hāl]].\n- [[هیچ‌وقت|hich-vaght|never]] always goes with a **negative** verb – Persian doubles the negative, and that is correct: [[هیچ‌وقت نرفته‌ام|hich-vaght na-rafte-am|I've never been]]. The same goes for [[هیچ‌کس|hich-kas|nobody]] and [[هیچ‌جا|hich-jā|nowhere]].\n- [[هنوز|hanuz]] with a positive verb means **still**; with a negative verb, **not yet**. On its own, [[هنوز نه|hanuz na]] is *not yet*.\n- [[تازه|tāze]] with the perfect means **just**: [[تازه رسیده‌ام|tāze reside-am|I've just arrived]].\n- To count: [[یک بار|yek bār|once]], [[دو بار|do bār|twice]], [[چند بار؟|chand bār?|how many times?]]",
+   "table": {
+    "head": ["", "Persian", "English"],
+    "rows": [
+     ["the question", "[[تا حالا کباب خورده‌ای؟|tā hālā kabāb khorde-i?]]", "Have you ever eaten kebab?"],
+     ["yes, often", "[[بله، خیلی خورده‌ام.|bale, kheyli khorde-am.]]", "Yes, lots of times."],
+     ["yes, once", "[[بله، یک بار خورده‌ام.|bale, yek bār khorde-am.]]", "Yes, once."],
+     ["not yet", "[[نه، هنوز نخورده‌ام.|na, hanuz na-khorde-am.]]", "No, not yet."],
+     ["never", "[[نه، هیچ‌وقت نخورده‌ام.|na, hich-vaght na-khorde-am.]]", "No, never."],
+     ["just", "[[تازه خورده‌ام!|tāze khorde-am!]]", "I've just eaten!"],
+     ["how often?", "[[چند بار به اصفهان رفته‌ای؟|chand bār be Esfahān rafte-i?]]", "How many times have you been to Isfahan?"]
+    ]
+   },
+   "examples": [
+    {"fa": "تا حالا دوغ خورده‌اید؟", "r": "tā hālā dugh khorde-id?", "en": "Have you ever drunk doogh?", "col": "تا حالا دوغ خوردین؟", "colR": "tā hālā dugh khordin?"},
+    {"fa": "من هیچ‌وقت برف ندیده‌ام.", "r": "man hich-vaght barf na-dide-am.", "en": "I've never seen snow.", "col": "من هیچ‌وقت برف ندیدم.", "colR": "man hich-vaght barf na-didam."},
+    {"fa": "هنوز فارسی را خوب یاد نگرفته‌ام.", "r": "hanuz fārsi rā khub yād na-gerefte-am.", "en": "I haven't learned Persian properly yet.", "col": "هنوز فارسی رو خوب یاد نگرفتم.", "colR": "hanuz fārsi ro khub yād na-gereftam."},
+    {"fa": "رضا هنوز خواب است.", "r": "Rezā hanuz khāb ast.", "en": "Reza is still asleep.", "note": "hanuz + positive verb = still"},
+    {"fa": "تازه از سفر برگشته‌ایم.", "r": "tāze az safar bargashte-im.", "en": "We've just come back from a trip.", "col": "تازه از سفر برگشتیم.", "colR": "tāze az safar bargashtim."}
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Spoken Persian, and perfect or simple past?",
+   "md": "In speech the **-e** of the participle melts into the ending: [[رفته‌ام|rafte-am]] becomes *raftam*, [[دیده‌ای|dide-i]] becomes *didi*. That looks exactly like the simple past – informal writing even spells it the same – but the **stress** is different. In the simple past the stress is on the stem; in the spoken perfect it is on the very end:\n\n- *RAF-tam* – I went\n- *raf-TAM* – I have gone (I've been)\n\nWhich tense? Exactly as in English: if you name a **finished time** – [[دیروز|diruz]], [[پارسال|pārsāl]], [[سه سال پیش|se sāl pish]] – use the simple past. For experience with no time, or for *ever, never, yet, just*, use the perfect. *Yesterday I have gone* is as wrong in Persian as in English.",
+   "table": {
+    "head": ["Written", "Spoken", "stress", "English"],
+    "rows": [
+     ["[[رفته‌ام|rafte-am]]", "[[رفتم|raftam]]", "raf-TAM", "I have gone"],
+     ["[[رفته‌ای|rafte-i]]", "[[رفتی|rafti]]", "raf-TI", "you have gone"],
+     ["[[رفته است|rafte ast]]", "[[رفته|rafte]]", "raf-TE", "he / she has gone"],
+     ["[[رفته‌ایم|rafte-im]]", "[[رفتیم|raftim]]", "raf-TIM", "we have gone"],
+     ["[[رفته‌اید|rafte-id]]", "[[رفتین|raftin]]", "raf-TIN", "you have gone"],
+     ["[[رفته‌اند|rafte-and]]", "[[رفتن|raftan]]", "raf-TAN", "they have gone"],
+     ["compare: [[رفتم|raftam]]", "[[رفتم|raftam]]", "RAF-tam", "I went (simple past)"]
+    ]
+   },
+   "examples": [
+    {"fa": "پارسال به شیراز رفتم.", "r": "pārsāl be Shirāz raftam.", "en": "Last year I went to Shiraz.", "note": "a finished time: simple past"},
+    {"fa": "به شیراز رفته‌ام، اما به کرمان نرفته‌ام.", "r": "be Shirāz rafte-am, ammā be Kermān na-rafte-am.", "en": "I've been to Shiraz, but I haven't been to Kerman.", "col": "شیراز رفتم، ولی کرمان نرفتم.", "colR": "Shirāz raftam, vali Kermān na-raftam."},
+    {"fa": "کلیدم را گم کرده‌ام!", "r": "kelid-am rā gom karde-am!", "en": "I've lost my key!", "col": "کلیدم رو گم کردم!", "colR": "kelid-am ro gom kardam!", "note": "the result matters now"},
+    {"fa": "دیروز کجا رفتی؟", "r": "diruz kojā rafti?", "en": "Where did you go yesterday?", "note": "with diruz, never the perfect"}
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Ms Ahmadi has seen it all",
+   "intro": "Ms Ahmadi teaches geography – and she has been everywhere in Iran. Almost every verb here is in the present perfect.",
+   "sentences": [
+    {"fa": "خانم احمدی معلم جغرافی است و خیلی سفر کرده است.", "r": "khānom-e Ahmadi mo'allem-e joghrāfi ast o kheyli safar karde ast.", "en": "Ms Ahmadi is a geography teacher and has travelled a lot."},
+    {"fa": "او به همه‌ی استان‌های ایران رفته است.", "r": "u be hame-ye ostān-hā-ye Irān rafte ast.", "en": "She has been to every province of Iran."},
+    {"fa": "در کویر لوت زیر آسمان پر از ستاره خوابیده است.", "r": "dar kavir-e Lut zir-e āsmān-e por az setāre khābide ast.", "en": "In the Lut desert she has slept under a sky full of stars."},
+    {"fa": "دو بار به قله‌ی دماوند رفته است.", "r": "do bār be gholle-ye Damāvand rafte ast.", "en": "She has climbed to the top of Damavand twice."},
+    {"fa": "در جزیره‌ی هرمز ساحل‌های قرمز را دیده است.", "r": "dar jazire-ye Hormoz sāhel-hā-ye ghermez rā dide ast.", "en": "On Hormuz Island she has seen the red beaches."},
+    {"fa": "اما او هنوز به خارج سفر نکرده است.", "r": "ammā u hanuz be khārej safar na-karde ast.", "en": "But she hasn't travelled abroad yet."},
+    {"fa": "تا حالا هیچ‌وقت سوار هواپیما نشده است!", "r": "tā hālā hich-vaght savār-e havāpeymā na-shode ast!", "en": "She has never been on a plane!"},
+    {"fa": "او می‌گوید: «چرا به خارج بروم؟ ایران خودش یک دنیاست!»", "r": "u mi-guyad: «cherā be khārej beravam? Irān khod-ash yek donyā-st!»", "en": "She says: \"Why go abroad? Iran is a world of its own!\""},
+    {"fa": "شاگردانش می‌پرسند: «خانم، تا حالا کجا را بیشتر از همه دوست داشته‌اید؟»", "r": "shāgerdān-ash mi-porsand: «khānom, tā hālā kojā rā bishtar az hame dust dāshte-id?»", "en": "Her pupils ask: \"Miss, which place have you liked best so far?\""},
+    {"fa": "او همیشه جواب می‌دهد: «جایی که هنوز ندیده‌ام!»", "r": "u hamishe javāb mi-dahad: «jā-yi ke hanuz na-dide-am!»", "en": "She always answers: \"The place I haven't seen yet!\""}
+   ],
+   "questions": [
+    {"q": "What does Ms Ahmadi teach?", "options": ["history", "geography", "Persian"], "answer": 1},
+    {"q": "How many times has she climbed Damavand?", "options": ["once", "twice", "never"], "answer": 1},
+    {"q": "What has she never done?", "options": ["slept in the desert", "travelled by plane", "seen Hormuz Island"], "answer": 1},
+    {"q": "Which phrase is in the present perfect?", "options": ["او می‌گوید", "دو بار به قله‌ی دماوند رفته است", "شاگردانش می‌پرسند"], "answer": 1}
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Asking Hafez",
+   "md": "Ask an Iranian [[تا حالا فال حافظ گرفته‌ای؟|tā hālā fāl-e Hāfez gerefte-i?|have you ever had a Hafez reading?]] and the answer is almost always yes. Hafez, the 14th-century poet of Shiraz, is called [[لسان‌الغیب|Lesān-ol-Gheyb|the Tongue of the Unseen]], and his [[دیوان|divān]] – his collected ghazals – is in nearly every Iranian home, often next to the Quran.\n\nThe ritual is simple. You make a silent wish or ask a question in your heart, the [[نیت|niyyat]], open the Divan at random and read the ghazal on the page: the poem is Hafez's answer. Families do it together on [[شب یلدا|shab-e Yaldā]], the longest night of the year, and at Nowruz. At the poet's tomb in Shiraz, the [[حافظیه|Hāfeziye]], men with small birds in cages earn a living from it: the bird picks a card with a verse for you.\n\nWhether or not you believe in it, a *fāl* is a wonderful way into Persian poetry – and a good question to ask Iranian friends: *tā hālā fāl-e Hāfez gerefte-id? chi umad?* – what came up?",
+   "image": "tomb-of-hafez"
+  },
+  {
+   "type": "tips",
+   "title": "Watch out",
+   "items": [
+    "The participle ends in a silent ه, so the endings are joined with a ZWNJ: رفته‌ام، دیده‌ای، خورده‌اند. Only the he / she form is two words: رفته است.",
+    "Double negatives are correct and necessary: *hich-vaght na-rafte-am* is literally 'never I haven't gone'. Without na- it is wrong.",
+    "In speech the perfect sounds like the simple past with the stress on the end: *raf-TAM* (I have gone) vs *RAF-tam* (I went). Listen for the stress.",
+    "History books and the news use the perfect for past facts: *in masjed dar gharn-e shānzdahom sākhte shode ast* – this mosque was built in the 16th century.",
+    "*hanuz na* on its own is 'not yet': *shām khordi? – hanuz na.* (Have you eaten? – Not yet.)"
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the forms",
+   "items": [
+    {"fa": "رفته‌ام", "r": "rafte-am", "en": "I have gone"},
+    {"fa": "دیده‌ای", "r": "dide-i", "en": "you have seen"},
+    {"fa": "خورده است", "r": "khorde ast", "en": "he has eaten"},
+    {"fa": "نرفته‌ایم", "r": "na-rafte-im", "en": "we haven't gone"},
+    {"fa": "سفر کرده‌اند", "r": "safar karde-and", "en": "they have travelled"},
+    {"fa": "یاد گرفته‌اید", "r": "yād gerefte-id", "en": "you (pl.) have learned"},
+    {"fa": "هنوز نه", "r": "hanuz na", "en": "not yet"}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right form",
+   "items": [
+    {"q": "'Have you ever been to Yazd?'", "options": ["تا حالا به یزد رفته‌ای؟", "دیروز به یزد رفتی؟", "به یزد می‌روی؟"], "answer": 0, "explain": "tā hālā (ever) + the present perfect rafte-i."},
+    {"q": "'I've never seen snow.'", "options": ["همیشه برف دیده‌ام.", "هیچ‌وقت برف ندیده‌ام.", "هیچ‌وقت برف دیده‌ام."], "answer": 1, "explain": "hich-vaght needs a negative verb: na-dide-am."},
+    {"q": "Which verb goes with دیروز (yesterday)?", "options": ["رفته‌ام", "رفتم", "نرفته‌ام"], "answer": 1, "explain": "A finished time takes the simple past: diruz raftam."},
+    {"q": "هنوز نیامده است means…", "options": ["He has still come.", "He hasn't come yet.", "He never comes."], "answer": 1, "explain": "hanuz + a negative verb = not yet."},
+    {"q": "In spoken Persian, رفته‌اید becomes…", "options": ["رفتین", "می‌رفتین", "رفته‌این"], "answer": 0, "explain": "rafte-id → raftin, with the stress at the end: raf-TIN."}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete with the present perfect",
+   "items": [
+    {"fa": "من دو بار به مشهد ___.", "r": "man do bār be Mashhad ___.", "en": "I've been to Mashhad twice.", "answer": "رفته‌ام", "hint": "raftan, I"},
+    {"fa": "تا ___ سوار هواپیما شده‌ای؟", "r": "tā ___ savār-e havāpeymā shode-i?", "en": "Have you ever been on a plane?", "answer": "حالا", "hint": "now"},
+    {"fa": "آن‌ها ___ شام نخورده‌اند.", "r": "ān-hā ___ shām na-khorde-and.", "en": "They haven't had dinner yet.", "answer": "هنوز", "hint": "yet"},
+    {"fa": "من هیچ‌وقت کباب ___.", "r": "man hich-vaght kabāb ___.", "en": "I've never eaten kebab.", "answer": "نخورده‌ام", "hint": "khordan, I, negative"},
+    {"fa": "سارا این فیلم را سه بار ___ است.", "r": "Sārā in film rā se bār ___ ast.", "en": "Sara has seen this film three times.", "answer": "دیده", "hint": "participle of didan"}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {"fa": "تا حالا به ایران رفته‌ای؟", "r": "tā hālā be Irān rafte-i?", "en": "Have you ever been to Iran?"},
+    {"fa": "من هنوز شام نخورده‌ام.", "r": "man hanuz shām na-khorde-am.", "en": "I haven't had dinner yet."},
+    {"fa": "هیچ‌وقت برف ندیده‌ام.", "r": "hich-vaght barf na-dide-am.", "en": "I've never seen snow."},
+    {"fa": "ما دو بار به شیراز رفته‌ایم.", "r": "mā do bār be Shirāz rafte-im.", "en": "We've been to Shiraz twice."}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {"fa": "تا حالا فال حافظ گرفته‌ای؟", "r": "tā hālā fāl-e Hāfez gerefte-i?", "en": "Have you ever had a Hafez fortune reading?", "options": ["Have you ever had a Hafez fortune reading?", "Do you like Hafez?", "Have you been to the tomb of Hafez?"], "answer": 0},
+    {"fa": "هنوز نه.", "r": "hanuz na.", "en": "Not yet.", "options": ["Never.", "Not yet.", "Still."], "answer": 1},
+    {"fa": "تازه رسیده‌ایم.", "r": "tāze reside-im.", "en": "We've just arrived.", "options": ["We arrived yesterday.", "We've just arrived.", "We haven't arrived yet."], "answer": 1}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {"en": "Have you ever eaten fesenjan? (to a friend)", "fa": "تا حالا فسنجان خورده‌ای؟", "r": "tā hālā fesenjān khorde-i?"},
+    {"en": "I've been to Isfahan, but I haven't been to Shiraz yet.", "fa": "به اصفهان رفته‌ام، اما هنوز به شیراز نرفته‌ام.", "r": "be Esfahān rafte-am, ammā hanuz be Shirāz na-rafte-am."},
+    {"en": "We have never travelled abroad.", "fa": "ما هیچ‌وقت به خارج سفر نکرده‌ایم.", "r": "mā hich-vaght be khārej safar na-karde-im."},
+    {"en": "How many times have you seen this film? (polite)", "fa": "چند بار این فیلم را دیده‌اید؟", "r": "chand bār in film rā dide-id?"}
+   ]
+  }
+ ]
+}

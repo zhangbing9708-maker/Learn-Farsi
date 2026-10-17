@@ -1,6 +1,6 @@
 # Jim, che, he, khe, dāl, zāl
 ## ج، چ، ح، خ، د، ذ
-*jim, che, he, khe, dāl, zāl* — The script, lesson 3. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/script-03-jim-che-he-khe-dal-zal.html)
+*jim, che, he, khe, dāl, zāl* — The script, lesson 3. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/script-03-jim-che-he-khe-dal-zal.html)
 
 Two new families today: the four 'hook' letters jim, che, he and khe, which share one shape and differ by their dots, and the pair dāl and zāl, which never join the letter after them. You also meet kh, the sound English does not have.
 

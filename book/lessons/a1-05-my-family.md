@@ -1,6 +1,6 @@
 # My family
 ## خانواده‌ی من
-*khānevāde-ye man* — Beginner (A1), lesson 5. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a1-05-my-family.html)
+*khānevāde-ye man* — Beginner (A1), lesson 5. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a1-05-my-family.html)
 
 Get out your phone and show someone a photo of your family. In this lesson you learn the words for the people in your family – including four different uncles and aunts – how to say 'my', 'your' and 'his' with short endings, how to say whose someone is, and how to use 'to have' for brothers, sisters and children.
 
@@ -289,10 +289,10 @@ Family life is close. Fridays often mean a long lunch at the grandparents' house
 
 **Put the words in order**
 
-1. پدرم / سال / دارد. / شصت — My father is sixty.
-2. خواهر / تو / برادر / داری؟ / و — Do you have brothers and sisters?
-3. اسم / برادرت / چیست؟ — What's your brother's name?
-4. پنج / ما / خانواده‌ی / نفر / است. — There are five people in our family.
+1. شصت / پدرم / دارد. / سال — My father is sixty.
+2. داری؟ / تو / و / خواهر / برادر — Do you have brothers and sisters?
+3. چیست؟ / برادرت / اسم — What's your brother's name?
+4. پنج / خانواده‌ی / است. / نفر / ما — There are five people in our family.
 
 <details><summary>Answers</summary>
 

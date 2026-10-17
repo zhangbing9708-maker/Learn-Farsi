@@ -1,6 +1,6 @@
 # Sara goes to school
 ## سارا به مدرسه می‌رود
-*Sārā be madrese mi-ravad* — Beginner (A1), everyday life. [Read with audio](https://zhangbing9708-maker.github.io/learn-farsi/stories/a1-sara-goes-to-school.html)
+*Sārā be madrese mi-ravad* — Beginner (A1), everyday life. [Read with audio](https://zhangbing9708-maker.github.io/Learn-Farsi/stories/a1-sara-goes-to-school.html)
 
 A morning in the life of Sara, a nine-year-old in Tehran. This story practises the present tense of everyday verbs – wakes up, eats, goes, learns – and the words for school and family. Iranian schools start early, around 7:30, and the school week runs from Saturday to Wednesday or Thursday.
 

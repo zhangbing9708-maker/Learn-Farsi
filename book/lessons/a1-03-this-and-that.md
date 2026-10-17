@@ -1,6 +1,6 @@
 # This and that: what is it?
 ## این چیست؟
-*in chist?* — Beginner (A1), lesson 3. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a1-03-this-and-that.html)
+*in chist?* — Beginner (A1), lesson 3. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a1-03-this-and-that.html)
 
 Point at anything and ask what it is. In this lesson you learn to name the things around you, to say 'a book' and 'the books', and to link words together with the ezafe – the small sound that holds Persian sentences together.
 
@@ -254,10 +254,10 @@ The English word *bazaar* is itself Persian (بازار (*bāzār*)), one of a l
 
 **Put the words in order**
 
-1. این / فارسی / کتاب / است. — This is a Persian book.
-2. امیر / آن / است. / گوشی — That is Amir's phone.
+1. کتاب / است. / فارسی / این — This is a Persian book.
+2. است. / گوشی / امیر / آن — That is Amir's phone.
 3. من / کیف / کجاست؟ — Where is my bag?
-4. صندلی‌های / کلاس / این‌ها / هستند. — These are the classroom chairs.
+4. صندلی‌های / هستند. / این‌ها / کلاس — These are the classroom chairs.
 
 <details><summary>Answers</summary>
 

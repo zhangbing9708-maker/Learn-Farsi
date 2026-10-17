@@ -1,6 +1,6 @@
 # How Persian is written
 ## خط فارسی چگونه نوشته می‌شود؟
-*khatt-e fārsi chegune neveshte mi-shavad?* — The script, lesson 1. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/script-01-how-persian-is-written.html)
+*khatt-e fārsi chegune neveshte mi-shavad?* — The script, lesson 1. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/script-01-how-persian-is-written.html)
 
 Before you learn a single letter, take ten minutes to see how the whole system works. Persian writing looks mysterious from the outside, but it rests on a handful of simple rules – and once you know them, the 32 letters fall into place in a week.
 

@@ -1,6 +1,6 @@
 # Cyrus and the Achaemenids
 ## کوروش و هخامنشیان
-*Kurosh o Hakhāmaneshiyān* — [read on the website with audio](https://zhangbing9708-maker.github.io/learn-farsi/culture/history-cyrus-and-the-achaemenids.html)
+*Kurosh o Hakhāmaneshiyān* — [read on the website with audio](https://zhangbing9708-maker.github.io/Learn-Farsi/culture/history-cyrus-and-the-achaemenids.html)
 
 _In twenty years a prince from Fars built the largest empire the world had yet seen. The Achaemenids ruled from the Indus to the Aegean for more than two centuries, and Iranians still call Cyrus the father of their country._
 

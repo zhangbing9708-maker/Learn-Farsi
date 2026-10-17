@@ -1,6 +1,6 @@
 # Colours and clothes: describing things and people
 ## رنگ‌ها و لباس‌ها
-*rang-hā o lebās-hā* — Beginner (A1), lesson 14. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a1-14-colours-and-clothes.html)
+*rang-hā o lebās-hā* — Beginner (A1), lesson 14. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a1-14-colours-and-clothes.html)
 
 A white shirt, black shoes, a turquoise scarf: in this lesson you learn the colours and the clothes, and the most important pattern for describing anything in Persian – the adjective comes after the noun, joined by the ezafe -e: pirāhan-e sefid. You also learn that adjectives never change, how to say 'very' and 'this one, that one', and how to shop for clothes in your size.
 
@@ -290,10 +290,10 @@ Clothes in Iran are as varied as the country. Since 1979 women have been expecte
 
 **Put the words in order**
 
-1. من / قرمز / کلاه / یک / دارم. — I have a red hat.
-2. خیلی / این / مانتوی / قشنگ / است. / سرمه‌ای — This navy manteau is very pretty.
-3. پدرم / کت / مشکی / است. — My father's jacket is black.
-4. هم / کوتاه‌تر / دارید؟ — Do you have a shorter one too?
+1. یک / قرمز / من / کلاه / دارم. — I have a red hat.
+2. مانتوی / سرمه‌ای / است. / خیلی / قشنگ / این — This navy manteau is very pretty.
+3. است. / مشکی / پدرم / کت — My father's jacket is black.
+4. کوتاه‌تر / دارید؟ / هم — Do you have a shorter one too?
 
 <details><summary>Answers</summary>
 

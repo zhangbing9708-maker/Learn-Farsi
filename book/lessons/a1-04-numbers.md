@@ -1,6 +1,6 @@
 # One, two, three: numbers, ages and prices
 ## یک، دو، سه
-*yek, do, se* — Beginner (A1), lesson 4. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a1-04-numbers.html)
+*yek, do, se* — Beginner (A1), lesson 4. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a1-04-numbers.html)
 
 Numbers open up daily life: how old you are, your phone number, the price of a book, how many people are in the room. In this lesson you learn to count from zero to a thousand, to ask and give ages and phone numbers, and to understand the prices you hear in an Iranian shop – where even a glass of tea costs thousands.
 
@@ -295,10 +295,10 @@ The word *tomān* itself is old: it comes from Mongolian *tümen*, 'ten thousand
 
 **Put the words in order**
 
-1. چند / سال / شما / دارید؟ — How old are you?
-2. من / سال / چهار / بیست / و / دارم. — I am twenty-four.
-3. است؟ / چند / شماره‌ی / تلفن / شما — What is your phone number?
-4. ما / دانشجو / کلاس / دارد. / دوازده — Our class has twelve students.
+1. چند / شما / دارید؟ / سال — How old are you?
+2. بیست / چهار / من / و / سال / دارم. — I am twenty-four.
+3. چند / تلفن / است؟ / شماره‌ی / شما — What is your phone number?
+4. دوازده / دانشجو / دارد. / کلاس / ما — Our class has twelve students.
 
 <details><summary>Answers</summary>
 

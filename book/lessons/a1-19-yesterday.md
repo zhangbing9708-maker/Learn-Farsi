@@ -1,6 +1,6 @@
 # Yesterday: the simple past
 ## دیروز چه کار کردی؟
-*diruz che kār kardi?* — Beginner (A1), lesson 19. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a1-19-yesterday.html)
+*diruz che kār kardi?* — Beginner (A1), lesson 19. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a1-19-yesterday.html)
 
 Good news: the Persian past tense is the most regular thing in the language. Every verb has a past stem, the past stem is simply the infinitive without -an, and the endings are ones you already know. In this lesson you learn to say what you did yesterday, where you were and what you didn't do – and to ask the question every Iranian asks after a weekend: خوش گذشت؟
 
@@ -300,9 +300,9 @@ If you missed a good outing, your friends will tell you جای شما خالی �
 **Put the words in order**
 
 1. رفتم. / دیروز / به / بازار — Yesterday I went to the bazaar.
-2. نخوردم. / شام / دیشب — I didn't have dinner last night.
-3. به / پارسال / رفتند. / اصفهان — Last year they went to Isfahan.
-4. دیروز / بود. / سرد / هوا — Yesterday it was cold.
+2. شام / نخوردم. / دیشب — I didn't have dinner last night.
+3. پارسال / اصفهان / به / رفتند. — Last year they went to Isfahan.
+4. بود. / دیروز / سرد / هوا — Yesterday it was cold.
 
 <details><summary>Answers</summary>
 

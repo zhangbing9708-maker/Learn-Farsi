@@ -2,7 +2,7 @@
 
 Where the two differ, every phrase is given twice: first in standard written Persian – correct, polite and understood everywhere – and then, marked 🗣, in the everyday spoken Persian of Tehran, which is what you will actually hear in shops, taxis and homes. Learn to say the spoken form and to recognise both. Persian has two words for 'you': shomā, for anyone you don't know well, anyone older than you and any official (it is also the plural), and to, for friends, family and children. Phrases marked formal use shomā – verbs end in -id, spoken -in – or the polite register; the others use to – verbs end in -i – and are for people you are close to. When in doubt, use shomā: nobody minds too much respect, and when an Iranian friend starts calling you to, you can answer in kind. Tap a phrase to hear it.
 
-[Open the phrasebook with audio](https://zhangbing9708-maker.github.io/learn-farsi/phrasebook/index.html)
+[Open the phrasebook with audio](https://zhangbing9708-maker.github.io/Learn-Farsi/phrasebook/index.html)
 
 ## Greetings and goodbyes — سلام و خداحافظی
 

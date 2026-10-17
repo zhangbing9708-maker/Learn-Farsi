@@ -1,6 +1,6 @@
 # Fe, ghāf, kāf, gāf, lām, mim
 ## ف، ق، ک، گ، ل، م
-*fe, ghāf, kāf, gāf, lām, mim* — The script, lesson 6. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/script-06-fe-ghaf-kaf-gaf-lam-mim.html)
+*fe, ghāf, kāf, gāf, lām, mim* — The script, lesson 6. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/script-06-fe-ghaf-kaf-gaf-lam-mim.html)
 
 Six letters, and with them some of the first words anyone learns: salām, ketāb, kelās. You meet the second way of writing gh, the slanted letters k and g, and lām-alef, the one place where two letters melt into a single shape.
 

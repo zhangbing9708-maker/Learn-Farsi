@@ -1,0 +1,74 @@
+{
+ "id": "food-ghormeh-sabzi",
+ "topic": "food",
+ "title": "Ghormeh sabzi",
+ "titleFa": "قورمه‌سبزی",
+ "titleR": "ghorme-sabzi",
+ "image": "ghormeh-sabzi",
+ "summary": "A dark green stew of slow-fried herbs, lamb, kidney beans and dried limes, ghormeh sabzi is the dish many Iranians miss most when they are far from home.",
+ "body": [
+  {
+   "h": "Iran's favourite stew",
+   "md": "If chelow kabab is the restaurant classic, [[قورمه‌سبزی|ghorme-sabzi|ghormeh sabzi]] is the taste of home. It is a [[خورش|khoresh|stew]] – the word for any slow-cooked dish served over rice – made from a mountain of chopped herbs fried until dark green, with lamb or beef, red kidney beans and whole dried limes. It is cooked all over Iran for family lunches and for guests, and for Iranians abroad it is the dish that tastes most of home.\n\nThe name joins two words: [[قورمه|ghorme|braised meat]], from a Turkic word for meat that is fried or braised, and [[سبزی|sabzi|herbs, greens]]. Like most home dishes it has no known inventor or date. Every family has its own version – and every family's version is the best."
+  },
+  {
+   "h": "The herbs",
+   "md": "The secret is the herbs:\n\n- [[جعفری|ja'fari|parsley]] – the biggest share;\n- [[تره|tare|Persian leek, garlic chives]] – or the green tops of spring onions;\n- [[گشنیز|geshniz|coriander]] – a smaller amount;\n- [[شنبلیله|shanbalile|fenugreek]] – only a little, but it gives ghormeh sabzi its famous smell. Too much makes the stew bitter.\n\nSome cooks add spinach for a softer taste. The herbs are washed, dried and chopped very fine; greengrocers sell bags of ready-chopped [[سبزی قورمه|sabzi-ye ghorme|ghormeh herbs]], fresh or frozen, and abroad many cooks use dried ones. Don't confuse them with [[سبزی خوردن|sabzi khordan|herbs for eating]], the plate of raw herbs served beside the meal.",
+   "image": "sabzi-khordan"
+  },
+  {
+   "h": "How it is made",
+   "md": "1. Soak red kidney beans ([[لوبیا قرمز|lubiyā ghermez|red kidney beans]]) overnight.\n2. Fry a chopped onion with [[زردچوبه|zardchube|turmeric]], then brown cubes of lamb or beef in it.\n3. Add water and the beans, cover and simmer for about an hour.\n4. Meanwhile fry the chopped herbs slowly in oil, stirring often, for 20–30 minutes, until they are dark green and smell rich. This step makes or breaks the dish.\n5. Add the herbs and four or five dried limes ([[لیمو عمانی|limu omāni|dried limes]]), pierced with a fork, to the pot, and season with salt.\n6. Cook on the lowest heat for two hours or more, until a layer of oil rises to the top and the stew has 'settled' – [[جا افتادن|jā oftādan|to settle, to mellow]], as Iranian cooks say.",
+   "image": "black-lime"
+  },
+  {
+   "h": "Serving and variations",
+   "md": "Ghormeh sabzi is eaten with [[چلو|chelow|steamed rice]], ideally with a piece of crisp [[ته‌دیگ|tah-dig|tahdig]], and with yoghurt, pickles ([[ترشی|torshi|pickles]]) and fresh herbs on the side. Many Iranians insist it is even better the next day, when the flavours have settled further.\n\nVariations are a matter of family pride. Some cooks use black-eyed or pinto beans instead of kidney beans, some cook it with lamb shank, and vegetarians make it with mushrooms or extra beans. On the Persian Gulf coast its southern cousin is [[قلیه‌ی ماهی|ghaliye-ye māhi|fish and herb stew]], made with fish, coriander, fenugreek and sour tamarind.",
+   "image": "tahdig"
+  },
+  {
+   "h": "A smell you cannot hide",
+   "md": "Fenugreek has such a strong scent that a whole building knows when someone is making ghormeh sabzi, and the smell clings to your clothes for the rest of the day. For many Iranians it is the smell of Friday lunch at their grandmother's. If you are served it, praise the cook – [[دستتان درد نکند|dast-etān dard na-konad|thank you; lit. 'may your hands not hurt']] – and expect a second plate."
+  }
+ ],
+ "sentences": [
+  {"fa": "قورمه‌سبزی غذای محبوب من است.", "r": "ghorme-sabzi ghazā-ye mahbub-e man ast.", "en": "Ghormeh sabzi is my favourite dish."},
+  {"fa": "سبزی قورمه را خیلی ریز خرد کن.", "r": "sabzi-ye ghorme rā kheyli riz khord kon.", "en": "Chop the ghormeh herbs very finely."},
+  {"fa": "سبزی را آرام آرام در روغن سرخ می‌کنیم.", "r": "sabzi rā ārām ārām dar rowghan sorkh mi-konim.", "en": "We fry the herbs slowly in oil."},
+  {"fa": "شنبلیله‌ی زیاد خورش را تلخ می‌کند.", "r": "shanbalile-ye ziyād khoresh rā talkh mi-konad.", "en": "Too much fenugreek makes the stew bitter."},
+  {"fa": "لوبیا قرمز را از شب قبل خیس کنید.", "r": "lubiyā ghermez rā az shab-e ghabl khis konid.", "en": "Soak the kidney beans the night before."},
+  {"fa": "لیمو عمانی را سوراخ کن و در خورش بینداز.", "r": "limu omāni rā surākh kon va dar khoresh bi-yandāz.", "en": "Pierce the dried limes and drop them into the stew."},
+  {"fa": "خورش باید سه ساعت روی آتش ملایم بماند تا جا بیفتد.", "r": "khoresh bāyad se sā'at ru-ye ātash-e molāyem be-mānad tā jā bi-yoftad.", "en": "The stew has to sit on a low flame for three hours to settle."},
+  {"fa": "قورمه‌سبزی فردایش خوشمزه‌تر است.", "r": "ghorme-sabzi fardā-yash khoshmazze-tar ast.", "en": "Ghormeh sabzi tastes even better the next day."},
+  {"fa": "بوی قورمه‌سبزی همه‌ی خانه را پر کرده است.", "r": "bu-ye ghorme-sabzi hame-ye khāne rā por karde ast.", "en": "The smell of ghormeh sabzi has filled the whole house."},
+  {"fa": "امشب قورمه‌سبزی داریم؛ شما هم بیایید.", "r": "emshab ghorme-sabzi dārim; shomā ham bi-yāyid.", "en": "We're having ghormeh sabzi tonight – do come too.", "col": "امشب قورمه‌سبزی داریم؛ شما هم بیاین.", "colR": "emshab ghorme-sabzi dārim; shomā ham bi-yāyn."},
+  {"fa": "به‌به، چه قورمه‌سبزی خوشمزه‌ای!", "r": "bah-bah, che ghorme-sabzi-ye khoshmazze-i!", "en": "Mmm, what a delicious ghormeh sabzi!"}
+ ],
+ "vocab": [
+  {"fa": "قورمه‌سبزی", "r": "ghorme-sabzi", "en": "ghormeh sabzi, herb stew"},
+  {"fa": "خورش", "r": "khoresh", "en": "stew"},
+  {"fa": "سبزی", "r": "sabzi", "en": "herbs, greens"},
+  {"fa": "جعفری", "r": "ja'fari", "en": "parsley"},
+  {"fa": "گشنیز", "r": "geshniz", "en": "coriander"},
+  {"fa": "تره", "r": "tare", "en": "Persian leek, garlic chives"},
+  {"fa": "شنبلیله", "r": "shanbalile", "en": "fenugreek"},
+  {"fa": "لوبیا قرمز", "r": "lubiyā ghermez", "en": "red kidney beans"},
+  {"fa": "لیمو عمانی", "r": "limu omāni", "en": "dried lime"},
+  {"fa": "زردچوبه", "r": "zardchube", "en": "turmeric"},
+  {"fa": "روغن", "r": "rowghan", "en": "oil"},
+  {"fa": "سرخ کردن", "r": "sorkh kardan", "en": "to fry"},
+  {"fa": "خرد کردن", "r": "khord kardan", "en": "to chop"},
+  {"fa": "خیس کردن", "r": "khis kardan", "en": "to soak"},
+  {"fa": "جا افتادن", "r": "jā oftādan", "en": "to settle, to mellow (of a stew)"},
+  {"fa": "ملایم", "r": "molāyem", "en": "gentle, low (of heat)"},
+  {"fa": "تلخ", "r": "talkh", "en": "bitter"},
+  {"fa": "بو", "r": "bu", "en": "smell"}
+ ],
+ "facts": [
+  "The herbs of ghormeh sabzi are parsley, leek or chives, coriander and a little fenugreek, which gives the stew its famous aroma.",
+  "The herbs are fried slowly before they go into the pot – the step that gives the stew its dark colour and deep flavour.",
+  "Ghorme comes from a Turkic word for fried or braised meat (compare Turkish kavurma).",
+  "Iranian greengrocers sell sabzi-ye ghorme, herbs washed and chopped ready for the stew.",
+  "Ghaliyeh mahi, the fish and herb stew of the Persian Gulf coast, is a southern cousin of ghormeh sabzi."
+ ]
+}

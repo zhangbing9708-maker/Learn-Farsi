@@ -21,8 +21,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONTENT = os.path.join(ROOT, "content")
 DATA = os.path.join(ROOT, "data")
 ASSETS = os.path.join(ROOT, "assets")
-SITE_URL = "https://zhangbing9708-maker.github.io/learn-farsi/"
-REPO_URL = "https://github.com/zhangbing9708-maker/learn-farsi"
+SITE_URL = "https://zhangbing9708-maker.github.io/Learn-Farsi/"
+REPO_URL = "https://github.com/zhangbing9708-maker/Learn-Farsi"
 PERSIAN = re.compile("[؀-ۿ]")
 FA_DIGITS = str.maketrans("0123456789", "۰۱۲۳۴۵۶۷۸۹")
 
@@ -1090,10 +1090,10 @@ def build_404():
     page("404.html", "Page not found", body, section="", depth=0)
     # GitHub Pages serves 404.html from any depth, so links must be absolute
     p = os.path.join(ROOT, "404.html")
-    s = open(p, encoding="utf-8").read().replace('data-root=""', 'data-root="/learn-farsi/"')
-    s = s.replace('href="assets/', 'href="/learn-farsi/assets/').replace('src="assets/', 'src="/learn-farsi/assets/')
-    s = re.sub(r'href="(?!https?:|/|#|mailto:)([^"]+)"', r'href="/learn-farsi/\1"', s)
-    s = s.replace('action="search/', 'action="/learn-farsi/search/')
+    s = open(p, encoding="utf-8").read().replace('data-root=""', 'data-root="/Learn-Farsi/"')
+    s = s.replace('href="assets/', 'href="/Learn-Farsi/assets/').replace('src="assets/', 'src="/Learn-Farsi/assets/')
+    s = re.sub(r'href="(?!https?:|/|#|mailto:)([^"]+)"', r'href="/Learn-Farsi/\1"', s)
+    s = s.replace('action="search/', 'action="/Learn-Farsi/search/')
     open(p, "w", encoding="utf-8").write(s)
 
 

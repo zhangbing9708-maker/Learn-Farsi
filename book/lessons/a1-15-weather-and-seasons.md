@@ -1,6 +1,6 @@
 # Weather and seasons
 ## هوا و فصل‌ها
-*havā o fasl-hā* — Beginner (A1), lesson 15. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a1-15-weather-and-seasons.html)
+*havā o fasl-hā* — Beginner (A1), lesson 15. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a1-15-weather-and-seasons.html)
 
 Iran has four real seasons – snow in Tabriz, sun in Bandar Abbas, and both in Tehran. In this lesson you talk about the weather, name the seasons, say what weather you like and understand the little impersonal sentences Iranians use every morning: havā sard ast, bārān mi-āyad.
 
@@ -251,10 +251,10 @@ Tehranis escape the summer heat by driving north to the Caspian for the weekend 
 
 **Put the words in order**
 
-1. خیلی / سرد / است. / هوا / امروز — Today the weather is very cold.
-2. من / دوست / را / بهار / دارم. — I like spring.
-3. برف / در / تبریز / می‌آید. — It snows in Tabriz.
-4. آفتابی / فردا / است. / هوا — Tomorrow the weather is sunny.
+1. است. / سرد / خیلی / امروز / هوا — Today the weather is very cold.
+2. را / بهار / من / دوست / دارم. — I like spring.
+3. در / تبریز / می‌آید. / برف — It snows in Tabriz.
+4. فردا / است. / آفتابی / هوا — Tomorrow the weather is sunny.
 
 <details><summary>Answers</summary>
 

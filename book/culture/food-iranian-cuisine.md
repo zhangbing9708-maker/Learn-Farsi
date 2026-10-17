@@ -1,6 +1,6 @@
 # Iranian cuisine
 ## آشپزی ایرانی
-*āshpazi-ye irāni* — [read on the website with audio](https://zhangbing9708-maker.github.io/learn-farsi/culture/food-iranian-cuisine.html)
+*āshpazi-ye irāni* — [read on the website with audio](https://zhangbing9708-maker.github.io/Learn-Farsi/culture/food-iranian-cuisine.html)
 
 _Rice and slow-cooked stews, fresh herbs, a cloth spread on the floor and the old belief that every food is either 'hot' or 'cold': an introduction to how Iranians cook and eat, from the Caspian to the Persian Gulf._
 

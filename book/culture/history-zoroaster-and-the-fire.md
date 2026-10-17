@@ -1,6 +1,6 @@
 # Zoroaster and the fire
 ## زرتشت و آتش
-*Zartosht o ātash* — [read on the website with audio](https://zhangbing9708-maker.github.io/learn-farsi/culture/history-zoroaster-and-the-fire.html)
+*Zartosht o ātash* — [read on the website with audio](https://zhangbing9708-maker.github.io/Learn-Farsi/culture/history-zoroaster-and-the-fire.html)
 
 _Long before Islam, Iranians followed the teachings of Zarathustra: one wise god, a cosmic struggle between truth and the lie, and fire as the sign of purity. The religion is small today, but its festivals, words and symbols are everywhere in Iranian life._
 

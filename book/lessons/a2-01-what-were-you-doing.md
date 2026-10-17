@@ -1,6 +1,6 @@
 # What were you doing? The past continuous
 ## چه کار می‌کردی؟
-*che kār mi-kardi?* — Elementary (A2), lesson 1. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a2-01-what-were-you-doing.html)
+*che kār mi-kardi?* — Elementary (A2), lesson 1. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a2-01-what-were-you-doing.html)
 
 At A1 you learned to say what happened (رفتم – I went). Now you learn to paint the background: what was going on, what you used to do as a child, and what you were in the middle of doing when something interrupted. Persian does this with one small prefix you already know – می – stuck onto the past.
 
@@ -261,9 +261,9 @@ Ask any Tehrani about childhood and you will hear about شمال (*shomāl*, ‘
 
 **Put the words in order**
 
-1. داشتم / می‌پختم. / شام — I was cooking dinner.
-2. به / دانشگاه / می‌رفتم. / روز / با / هر / مترو — Every day I went to the university by metro.
-3. زدی، / که / می‌خوابیدم. / وقتی / زنگ — When you rang, I was sleeping.
+1. می‌پختم. / شام / داشتم — I was cooking dinner.
+2. روز / دانشگاه / با / می‌رفتم. / به / مترو / هر — Every day I went to the university by metro.
+3. زدی، / که / زنگ / می‌خوابیدم. / وقتی — When you rang, I was sleeping.
 
 <details><summary>Answers</summary>
 
@@ -309,4 +309,4 @@ Ask any Tehrani about childhood and you will hear about شمال (*shomāl*, ‘
 
 ---
 
-← [Being polite: ta'arof, invitations and phone calls](a1-20-being-polite.md) · [Contents](../README.md) · [Do this! Instructions and a recipe](a2-09-do-this.md) →
+← [Being polite: ta'arof, invitations and phone calls](a1-20-being-polite.md) · [Contents](../README.md) · [Have you ever…? The present perfect](a2-02-have-you-ever.md) →

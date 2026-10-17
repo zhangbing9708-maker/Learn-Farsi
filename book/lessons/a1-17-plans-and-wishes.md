@@ -1,6 +1,6 @@
 # Plans and wishes: the weekend and beyond
 ## برنامه‌ها و آرزوها
-*barnāme-hā o ārezu-hā* — Beginner (A1), lesson 17. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a1-17-plans-and-wishes.html)
+*barnāme-hā o ārezu-hā* — Beginner (A1), lesson 17. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a1-17-plans-and-wishes.html)
 
 What are you doing this weekend? In this lesson you talk about plans and wishes: 'I want to go', 'I'd like to see', 'let's go!'. You meet the subjunctive – the be- form of the verb that follows mi-khāham – and learn that Persian simply uses the present tense for the future: fardā mi-ravam, 'I'm going tomorrow'. And you go where Tehranis go at the weekend: up to Darband and Tochal, and north to the Caspian.
 
@@ -297,10 +297,10 @@ And when a long weekend or a holiday comes, Tehran empties northwards. شمال 
 
 **Put the words in order**
 
-1. جمعه / ما / می‌رویم. / به / توچال — We're going to Tochal on Friday.
-2. می‌خواهم / خزر / را / ببینم. / دریای — I want to see the Caspian Sea.
-3. بیایی؟ / ما / دوست / داری / با — Would you like to come with us?
-4. می‌رویم. / بعد / به / شمال / هفته‌ی — Next week we're going north.
+1. جمعه / توچال / می‌رویم. / به / ما — We're going to Tochal on Friday.
+2. را / دریای / ببینم. / خزر / می‌خواهم — I want to see the Caspian Sea.
+3. بیایی؟ / با / دوست / داری / ما — Would you like to come with us?
+4. هفته‌ی / می‌رویم. / بعد / به / شمال — Next week we're going north.
 
 <details><summary>Answers</summary>
 

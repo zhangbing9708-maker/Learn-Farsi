@@ -1,6 +1,6 @@
 # Elam and the first cities
 ## ایلام و نخستین شهرها
-*Ilām o nokhostin shahr-hā* — [read on the website with audio](https://zhangbing9708-maker.github.io/learn-farsi/culture/history-elam-and-the-first-cities.html)
+*Ilām o nokhostin shahr-hā* — [read on the website with audio](https://zhangbing9708-maker.github.io/Learn-Farsi/culture/history-elam-and-the-first-cities.html)
 
 _Long before there were Persians, the Iranian plateau was home to cities, ziggurats and writing. The story of Iran begins with Elam, Jiroft and the Burnt City – five thousand years ago._
 

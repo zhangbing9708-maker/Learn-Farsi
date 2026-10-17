@@ -1,6 +1,6 @@
 # Sād, zād, tā, zā, eyn, gheyn – the Arabic letters
 ## ص، ض، ط، ظ، ع، غ
-*sād, zād, tā, zā, eyn, gheyn* — The script, lesson 5. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/script-05-sad-zad-ta-za-eyn-gheyn.html)
+*sād, zād, tā, zā, eyn, gheyn* — The script, lesson 5. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/script-05-sad-zad-ta-za-eyn-gheyn.html)
 
 Six letters that came into Persian with Arabic words. Four of them bring no new sound at all – sād sounds like sin, zād and zā like ze, tā like te – so all you learn is which words use them. The other two are eyn, a small catch in the throat, and gheyn, a gargled gh. With them you can read clock, food, poem and garden.
 

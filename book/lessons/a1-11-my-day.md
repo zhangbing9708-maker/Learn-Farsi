@@ -1,6 +1,6 @@
 # My day: the daily routine
 ## روز من
-*ruz-e man* — Beginner (A1), lesson 11. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a1-11-my-day.html)
+*ruz-e man* — Beginner (A1), lesson 11. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a1-11-my-day.html)
 
 What do you do every day? In this lesson you describe your daily routine – getting up, having breakfast, going to work or class, coming home and going to bed – with the present tense of the most common Persian verbs. You learn the stems that do not follow the rules (rav-, ā-, shav-), the words for the parts of the day, and how to put your day in order with avval 'first' and ba'd 'then'.
 
@@ -289,10 +289,10 @@ The week has its own rhythm too. Saturday, شنبه (*shanbe*), is the first wor
 
 **Put the words in order**
 
-1. من / زود / صبح / بیدار / می‌شوم. / روز / هر — I get up early every morning.
-2. کمی / بعد / استراحت / از / ناهار / می‌کنم. — After lunch I rest a little.
-3. می‌رود. / رضا / با / کار / مترو / سر — Reza goes to work by metro.
-4. می‌خوابم. / یازده / شب‌ها / ساعت — At night I go to bed at eleven.
+1. روز / زود / می‌شوم. / صبح / من / بیدار / هر — I get up early every morning.
+2. می‌کنم. / بعد / از / کمی / استراحت / ناهار — After lunch I rest a little.
+3. می‌رود. / با / کار / رضا / مترو / سر — Reza goes to work by metro.
+4. می‌خوابم. / شب‌ها / ساعت / یازده — At night I go to bed at eleven.
 
 <details><summary>Answers</summary>
 

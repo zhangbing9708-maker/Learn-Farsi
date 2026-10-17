@@ -1,6 +1,6 @@
 # Numbers and reading practice
 ## عددها و تمرین خواندن
-*'adad-hā va tamrin-e khāndan* — The script, lesson 8. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/script-08-numbers-and-reading-practice.html)
+*'adad-hā va tamrin-e khāndan* — The script, lesson 8. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/script-08-numbers-and-reading-practice.html)
 
 You know all 32 letters – now put them to work. This lesson covers the Persian digits (which, surprisingly, run left to right), the punctuation marks, and twenty signs you will see in any Iranian street, station or shop. It ends with practical notes on handwriting, on typing Persian, and on the two great styles of the script, Naskh and Nastaliq.
 

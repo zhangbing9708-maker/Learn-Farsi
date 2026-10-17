@@ -1,6 +1,6 @@
 # Time and dates: days, months and birthdays
 ## ساعت و تاریخ
-*sā'at o tārikh* — Beginner (A1), lesson 12. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a1-12-time-and-dates.html)
+*sā'at o tārikh* — Beginner (A1), lesson 12. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a1-12-time-and-dates.html)
 
 What time is it, what day is it, when is your birthday? In this lesson you learn to tell the time with sā'at, the seven days of the Iranian week – which starts on Saturday – and the twelve months of the Iranian solar calendar, from Farvardin in spring to Esfand in winter. You also find out why the Iranian year begins on the first day of spring, with Nowruz.
 
@@ -299,10 +299,10 @@ The biggest date of all is نوروز (*nowruz*, ‘new day’). The exact momen
 
 **Put the words in order**
 
-1. تو / است؟ / تولد / کِی — When is your birthday?
-2. ربع / است. / ساعت / سه / و — It's a quarter past three.
-3. جمعه‌ها / می‌روم. / به / خانه‌ی / مادربزرگم — On Fridays I go to my grandmother's house.
-4. باز / می‌شوند. / مهر / مدرسه‌ها / اول — Schools open on the first of Mehr.
+1. کِی / است؟ / تولد / تو — When is your birthday?
+2. است. / سه / و / ساعت / ربع — It's a quarter past three.
+3. مادربزرگم / می‌روم. / به / خانه‌ی / جمعه‌ها — On Fridays I go to my grandmother's house.
+4. مهر / مدرسه‌ها / می‌شوند. / اول / باز — Schools open on the first of Mehr.
 
 <details><summary>Answers</summary>
 

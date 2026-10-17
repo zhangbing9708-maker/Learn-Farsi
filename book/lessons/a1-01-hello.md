@@ -1,6 +1,6 @@
 # Hello! Greetings and goodbyes
 ## سلام!
-*salām!* — Beginner (A1), lesson 1. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a1-01-hello.html)
+*salām!* — Beginner (A1), lesson 1. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a1-01-hello.html)
 
 Your first conversation in Persian. By the end of this lesson you can greet people at any time of day, ask how they are, answer, and say goodbye – and you will have met the two most important words in Iranian life: salām and merci.
 
@@ -233,9 +233,9 @@ Notice also جان (*jān*, ‘dear, soul’) after a name: *Rezā jān*. It is 
 
 **Put the words in order**
 
-1. است؟ / حال / چطور / شما — How are you?
-2. من / هم / خوبم. — I am well too.
-3. باشید! / روز / داشته / خوبی — Have a good day!
+1. است؟ / شما / حال / چطور — How are you?
+2. خوبم. / من / هم — I am well too.
+3. داشته / روز / خوبی / باشید! — Have a good day!
 
 <details><summary>Answers</summary>
 

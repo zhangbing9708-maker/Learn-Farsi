@@ -1,6 +1,6 @@
 # Food and drink: ordering and liking
 ## خوراک و نوشیدنی
-*khorāk o nushidani* — Beginner (A1), lesson 10. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a1-10-food-and-drink.html)
+*khorāk o nushidani* — Beginner (A1), lesson 10. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a1-10-food-and-drink.html)
 
 Persian food is one of the great pleasures of learning the language – and one of the easiest things to talk about. In this lesson you order in a restaurant and a café, ask for the bill, and say what you like and dislike with the verb dust dāshtan. Along the way you meet the dishes you will see on every menu in Iran.
 
@@ -256,10 +256,10 @@ To drink: دوغ (*dugh*), the salty yoghurt drink that goes with kebab, and end
 
 **Put the words in order**
 
-1. من / دوست / کباب / دارم. — I like kebab.
-2. لطفاً. / یک / چای / بدهید، — Give me a tea, please.
-3. چه / شما / می‌خواهید؟ — What would you like?
-4. گوشت / غذای / بدون / دارید؟ — Do you have food without meat?
+1. کباب / من / دوست / دارم. — I like kebab.
+2. بدهید، / لطفاً. / یک / چای — Give me a tea, please.
+3. می‌خواهید؟ / شما / چه — What would you like?
+4. گوشت / دارید؟ / غذای / بدون — Do you have food without meat?
 
 <details><summary>Answers</summary>
 

@@ -1,6 +1,6 @@
 # What do you do? Work and study
 ## چه‌کار می‌کنید؟
-*che-kār mi-konid?* — Beginner (A1), lesson 7. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a1-07-jobs.html)
+*che-kār mi-konid?* — Beginner (A1), lesson 7. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a1-07-jobs.html)
 
 After 'where are you from?', the next question Iranians ask is 'what do you do?' In this lesson you learn to name jobs and workplaces, to say where you work or study, and to ask other people about their work – with lots of practice of the present tense from lesson 6.
 
@@ -279,10 +279,10 @@ In daily life, many Iranians have more than one job. A teacher may also give pri
 
 **Put the words in order**
 
-1. کجا / شما / می‌کنید؟ / کار — Where do you work?
-2. من / یک / در / شرکت / کار / می‌کنم. — I work for a company.
-3. خواهرم / دانشگاه / پزشکی / در / می‌خواند. — My sister studies medicine at university.
-4. است. / راننده‌ی / رضا / پدر / تاکسی — Reza's father is a taxi driver.
+1. شما / می‌کنید؟ / کار / کجا — Where do you work?
+2. در / می‌کنم. / یک / من / کار / شرکت — I work for a company.
+3. خواهرم / پزشکی / در / دانشگاه / می‌خواند. — My sister studies medicine at university.
+4. است. / راننده‌ی / پدر / تاکسی / رضا — Reza's father is a taxi driver.
 
 <details><summary>Answers</summary>
 

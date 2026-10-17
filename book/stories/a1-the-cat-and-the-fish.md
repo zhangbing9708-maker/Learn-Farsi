@@ -1,6 +1,6 @@
 # The cat and the fish
 ## گربه و ماهی
-*gorbe o māhi* — Beginner (A1), everyday life. [Read with audio](https://zhangbing9708-maker.github.io/learn-farsi/stories/a1-the-cat-and-the-fish.html)
+*gorbe o māhi* — Beginner (A1), everyday life. [Read with audio](https://zhangbing9708-maker.github.io/Learn-Farsi/stories/a1-the-cat-and-the-fish.html)
 
 Your very first story in Persian. A small white cat lives in Mina's house in Tehran, and she has one great wish. Every sentence uses only what you learn in the first A1 lessons: 'is', 'has', 'wants' and a few everyday words. Read it slowly, tap each sentence to hear it, and notice how often the verb comes last.
 

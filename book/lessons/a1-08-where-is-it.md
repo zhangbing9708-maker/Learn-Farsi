@@ -1,6 +1,6 @@
 # Where is it? Places and positions
 ## کجاست؟
-*kojā-st?* — Beginner (A1), lesson 8. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a1-08-where-is-it.html)
+*kojā-st?* — Beginner (A1), lesson 8. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a1-08-where-is-it.html)
 
 Where is the bank? Is there a pharmacy near here? And where are my keys? In this lesson you learn the places of an Iranian neighbourhood and the things in a flat, the little words that say where things are – on, under, next to, behind, in front of, between – and how to say 'there is' and 'there isn't'.
 
@@ -285,10 +285,10 @@ If you get lost, ask. Iranians give directions generously – often with a long 
 
 **Put the words in order**
 
-1. بانک / کنار / است. / داروخانه — The pharmacy is next to the bank.
-2. ایستگاه / کجاست؟ / مترو — Where is the metro station?
-3. میز / روی / یک / کتاب / هست. — There is a book on the table.
-4. پشت / مدرسه / است. / مسجد — The school is behind the mosque.
+1. کنار / بانک / است. / داروخانه — The pharmacy is next to the bank.
+2. ایستگاه / مترو / کجاست؟ — Where is the metro station?
+3. کتاب / یک / هست. / میز / روی — There is a book on the table.
+4. مسجد / پشت / است. / مدرسه — The school is behind the mosque.
 
 <details><summary>Answers</summary>
 

@@ -14,7 +14,7 @@ import shutil
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BOOK = os.path.join(ROOT, "book")
-SITE = "https://zhangbing9708-maker.github.io/learn-farsi/"
+SITE = "https://zhangbing9708-maker.github.io/Learn-Farsi/"
 INLINE = re.compile(r"\[\[([^\]|]+)(?:\|([^\]|]*))?(?:\|([^\]]*))?\]\]")
 
 

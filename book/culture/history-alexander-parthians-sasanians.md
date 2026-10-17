@@ -1,6 +1,6 @@
 # Alexander, the Parthians and the Sasanians
 ## اسکندر، اشکانیان و ساسانیان
-*Eskandar, Ashkāniyān o Sāsāniyān* — [read on the website with audio](https://zhangbing9708-maker.github.io/learn-farsi/culture/history-alexander-parthians-sasanians.html)
+*Eskandar, Ashkāniyān o Sāsāniyān* — [read on the website with audio](https://zhangbing9708-maker.github.io/Learn-Farsi/culture/history-alexander-parthians-sasanians.html)
 
 _After Alexander, Iran was ruled first by Greek kings, then for almost five centuries by the Parthian horse-archers, and then for four more by the Sasanians – the last great Iranian empire before Islam and Rome's most dangerous rival._
 

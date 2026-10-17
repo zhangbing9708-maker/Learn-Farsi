@@ -1,6 +1,6 @@
 # Body and health: my head hurts
 ## سرم درد می‌کند
-*sar-am dard mi-konad* — Beginner (A1), lesson 18. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a1-18-body-and-health.html)
+*sar-am dard mi-konad* — Beginner (A1), lesson 18. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a1-18-body-and-health.html)
 
 Sooner or later every traveller needs a pharmacy. In this lesson you learn the parts of the body, how to say what hurts – in Persian your head 'does pain' – how to describe a cold or a fever, and how to understand the advice you get: you should rest, you must drink water. That last one uses باید, Persian's word for 'must', with the be- form of the verb you met in the imperative.
 
@@ -299,10 +299,10 @@ The system goes back to Galen and to **Avicenna** – ابن سینا (*Ebn-e Si
 
 **Put the words in order**
 
-1. خیلی / درد / می‌کند. / سرم — I have a bad headache.
-2. آب / زیاد / باید / بخورید. — You should drink a lot of water.
-3. کجاست؟ / داروخانه / ببخشید، — Excuse me, where is the pharmacy?
-4. نیست. / خوب / حالم / امروز — I don't feel well today.
+1. خیلی / سرم / می‌کند. / درد — I have a bad headache.
+2. باید / آب / بخورید. / زیاد — You should drink a lot of water.
+3. ببخشید، / داروخانه / کجاست؟ — Excuse me, where is the pharmacy?
+4. خوب / امروز / نیست. / حالم — I don't feel well today.
 
 <details><summary>Answers</summary>
 

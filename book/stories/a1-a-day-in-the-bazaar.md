@@ -1,6 +1,6 @@
 # A day in the bazaar
 ## یک روز در بازار
-*yek ruz dar bāzār* — Beginner (A1), everyday life. [Read with audio](https://zhangbing9708-maker.github.io/learn-farsi/stories/a1-a-day-in-the-bazaar.html)
+*yek ruz dar bāzār* — Beginner (A1), everyday life. [Read with audio](https://zhangbing9708-maker.github.io/Learn-Farsi/stories/a1-a-day-in-the-bazaar.html)
 
 Tom, an Australian student in Tehran, visits the Grand Bazaar with his friend Reza. The story practises shopping language: 'how much is it?', numbers, 'expensive' and 'cheap', and the famous Persian habit of bargaining. Prices in Iran are spoken in tomans, even though the money says rials.
 

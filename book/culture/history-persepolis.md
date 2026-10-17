@@ -1,6 +1,6 @@
 # Persepolis
 ## تخت جمشید
-*Takht-e Jamshid* — [read on the website with audio](https://zhangbing9708-maker.github.io/learn-farsi/culture/history-persepolis.html)
+*Takht-e Jamshid* — [read on the website with audio](https://zhangbing9708-maker.github.io/Learn-Farsi/culture/history-persepolis.html)
 
 _Darius the Great's palace city in Fars was the showpiece of the Achaemenid Empire. Burned by Alexander and half-buried for two thousand years, its staircases still show the peoples of the ancient world bringing gifts to the king of kings._
 

@@ -1,6 +1,6 @@
 # Do this! Instructions and a recipe
 ## این کار را بکن!
-*in kār rā bekon!* — Elementary (A2), lesson 9. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a2-09-do-this.html)
+*in kār rā bekon!* — Elementary (A2), lesson 9. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a2-09-do-this.html)
 
 Recipes, directions, a teacher's commands and a mother's 'don't touch that!' all use the imperative. In this lesson you learn the plain and the polite imperative, how to say 'don't', and how to give the steps of a task in order – and you cook a pot of āsh-e reshte, the noodle soup that Iranians eat when someone sets off on a journey.
 
@@ -283,10 +283,10 @@ The word آش (*āsh*) is old; it gave Persian its words for cook, آشپز (*ā
 
 **Put the words in order**
 
-1. لطفاً / این‌جا / بنشینید. — Please sit here.
-2. نکن. / را / کلیدها / فراموش — Don't forget the keys.
-3. بگذار / یک / بپزد. / ساعت — Let it cook for an hour.
-4. کن. / آب / را / زیرش / بریز / روشن / دو / و / لیوان — Pour in two glasses of water and turn on the heat under it.
+1. بنشینید. / لطفاً / این‌جا — Please sit here.
+2. را / فراموش / کلیدها / نکن. — Don't forget the keys.
+3. یک / بپزد. / بگذار / ساعت — Let it cook for an hour.
+4. زیرش / را / آب / دو / روشن / بریز / کن. / لیوان / و — Pour in two glasses of water and turn on the heat under it.
 
 <details><summary>Answers</summary>
 
@@ -337,4 +337,4 @@ The word آش (*āsh*) is old; it gave Persian its words for cook, آشپز (*ā
 
 ---
 
-← [What were you doing? The past continuous](a2-01-what-were-you-doing.md) · [Contents](../README.md) · [Passive and impersonal: 'it was built', 'they say'](b1-01-passive-and-impersonal.md) →
+← [Have you ever…? The present perfect](a2-02-have-you-ever.md) · [Contents](../README.md) · [Passive and impersonal: 'it was built', 'they say'](b1-01-passive-and-impersonal.md) →

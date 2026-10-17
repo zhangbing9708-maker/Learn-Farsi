@@ -1,6 +1,6 @@
 # Rostam and Sohrab
 ## رستم و سهراب
-*Rostam o Sohrāb* — Intermediate (B1), legend. [Read with audio](https://zhangbing9708-maker.github.io/learn-farsi/stories/b1-rostam-and-sohrab.html)
+*Rostam o Sohrāb* — Intermediate (B1), legend. [Read with audio](https://zhangbing9708-maker.github.io/Learn-Farsi/stories/b1-rostam-and-sohrab.html)
 
 The most famous tragedy of the Shahnameh, Ferdowsi's eleventh-century epic: a father and a son who meet on the battlefield without knowing each other. Every Iranian knows how it ends. Read it for the past tenses – simple past, past continuous and perfect – and for the way Persian narrates with short, strong sentences.
 

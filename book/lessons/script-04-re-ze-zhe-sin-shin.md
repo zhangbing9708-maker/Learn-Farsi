@@ -1,6 +1,6 @@
 # Re, ze, zhe, sin, shin
 ## ر، ز، ژ، س، ش
-*re, ze, zhe, sin, shin* — The script, lesson 4. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/script-04-re-ze-zhe-sin-shin.html)
+*re, ze, zhe, sin, shin* — The script, lesson 4. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/script-04-re-ze-zhe-sin-shin.html)
 
 Five letters that open up a lot of everyday words: re, ze and zhe, three little slides that never join the letter after them, and sin and shin, the letters with three teeth. By the end of this lesson you can read hand, night, brother and bazaar – and you will have met zhe, one of the rarest letters in the alphabet.
 

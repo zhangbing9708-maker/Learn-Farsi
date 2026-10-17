@@ -1,6 +1,6 @@
 # I have, I don't have, I need
 ## دارم، ندارم، لازم دارم
-*dāram, na-dāram, lāzem dāram* — Beginner (A1), lesson 9. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a1-09-i-have.html)
+*dāram, na-dāram, lāzem dāram* — Beginner (A1), lesson 9. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a1-09-i-have.html)
 
 One verb opens up a whole world of conversation: dāshtan, 'to have'. In this lesson you learn all its forms, how to say you do not have something, how to ask how many of something someone has, and how to say what you need – at home, in a shop and at a friend's house with a very curious cat.
 
@@ -255,10 +255,10 @@ Offering tea is the first thing a host does, and the answer to *chāy mi-khori?*
 
 **Put the words in order**
 
-1. من / خواهر / یک / دارم. — I have one sister.
-2. گربه / تو / داری؟ — Do you have a cat?
-3. نداریم. / متأسفانه / شیر — Unfortunately we don't have milk.
-4. او / تا / چند / عکس / از / دارم. — I have a few photos of her.
+1. یک / من / خواهر / دارم. — I have one sister.
+2. داری؟ / تو / گربه — Do you have a cat?
+3. متأسفانه / نداریم. / شیر — Unfortunately we don't have milk.
+4. تا / چند / از / عکس / او / دارم. — I have a few photos of her.
 
 <details><summary>Answers</summary>
 

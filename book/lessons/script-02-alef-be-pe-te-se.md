@@ -1,6 +1,6 @@
 # Alef, be, pe, te, se – and the vowels
 ## الف، ب، پ، ت، ث
-*alef, be, pe, te, se* — The script, lesson 2. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/script-02-alef-be-pe-te-se.html)
+*alef, be, pe, te, se* — The script, lesson 2. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/script-02-alef-be-pe-te-se.html)
 
 Your first five letters: the tall stroke alef and the four 'dish' letters that differ only in their dots. With them, and with the three vowel marks, you can already read and write real words – water, father, foot, fever.
 

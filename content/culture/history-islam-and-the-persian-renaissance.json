@@ -1,0 +1,76 @@
+{
+ "id": "history-islam-and-the-persian-renaissance",
+ "topic": "history",
+ "title": "Islam and the Persian renaissance",
+ "titleFa": "اسلام و نوزایی فارسی",
+ "titleR": "Eslām o nowzāyi-ye fārsi",
+ "image": "shahnameh-shah-tahmasp",
+ "summary": "The Arab conquest brought Islam and Arabic to Iran, and for two centuries Persian was hardly written. Then, at the courts of the eastern dynasties, poets like Rudaki and Ferdowsi made it a great literary language again – one reason why Iranians, unlike Egyptians or Syrians, never switched to Arabic.",
+ "body": [
+  {
+   "h": "The Arab conquest",
+   "md": "In the 630s the armies of the new Muslim state in Arabia attacked the two exhausted superpowers of the day, Byzantium and Sasanian Iran. The Persians lost at Qadisiyya (636) and Nahavand (642), and by 651 the last Sasanian king was dead. Iran became part of the caliphate – ruled from Damascus by the Umayyads and, after 750, from Baghdad by the Abbasids, who came to power with the help of an army from Khorasan led by the Iranian general Abu Muslim.\n\nConversion to [[اسلام|Eslām|Islam]] was slow. Zoroastrians, Christians and Jews could keep their faith if they paid a special tax, and it probably took two or three centuries before most Iranians were Muslims."
+  },
+  {
+   "h": "Two centuries of silence?",
+   "md": "Arabic became the language of religion, government and science, and Iranians mastered it brilliantly: a Persian, Sibawayh, wrote the first great grammar of Arabic, and another, Ibn al-Muqaffa', translated the Middle Persian fables of [[کلیله و دمنه|Kalile o Demne|Kalila and Dimna]] into Arabic. The historian Abdolhossein Zarrinkoub called this period [[دو قرن سکوت|do gharn sokut|two centuries of silence]], because almost nothing was written in Persian.\n\nYet Persian was not silent in the streets. A new form of it, [[دری|dari]] – 'the language of the court' – had spread across Khorasan and Central Asia. When it came to be written again, it used the Arabic alphabet with four extra letters for Persian sounds, [[پ|pe]], [[چ|che]], [[ژ|zhe]] and [[گ|gāf]], and borrowed thousands of Arabic words while keeping its own grammar."
+  },
+  {
+   "h": "The eastern dynasties",
+   "md": "As the caliphs' power weakened, Iranian dynasties took over the east. [[یعقوب لیث|Ya'ghub-e Leys|Ya'qub the Coppersmith]], founder of the Saffarid dynasty in Sistan, is said to have stopped a poet who was praising him in Arabic: 'Why say something I do not understand?' From then on, the story goes, his poets wrote in Persian.\n\nThe great patrons were the [[سامانیان|Sāmāniyān|Samanids]] (819–999), who ruled from Bukhara and claimed descent from a Sasanian noble. Under them Persian became a language of literature and learning again: their vizier Bal'ami turned al-Tabari's huge Arabic history into Persian, and a young physician from near Bukhara, Avicenna, read his way through their royal library.",
+   "image": "samanid-empire"
+  },
+  {
+   "h": "Rudaki and Ferdowsi",
+   "md": "The first great poet of New Persian was [[رودکی|Rudaki]] (c. 858–941), born near Panjakent in today's Tajikistan and court poet of the Samanid emir Nasr II. Iranians call him [[پدر شعر فارسی|pedar-e she'r-e fārsi|the father of Persian poetry]]. In his best-known poem, the mere scent of a river near Bukhara makes the homesick emir ride straight back to his capital.\n\nA generation later [[فردوسی|Ferdowsi]] (c. 940–1020), a landowner from Tus near Mashhad, spent some thirty years putting the old Iranian legends and histories into verse. His [[شاهنامه|Shāhnāme|Book of Kings]], finished in 1010, runs to about 50,000 couplets and tells the story of Iran from the first king to the fall of the Sasanians. A line often attributed to him sums up the achievement: 'I suffered greatly these thirty years; I brought the Persians back to life with this Persian.'",
+   "image": "rudaki"
+  },
+  {
+   "h": "Why Persian survived",
+   "md": "In Egypt, Syria and Iraq, Arabic replaced the old languages. Iran is the great exception, and historians give several reasons: the country was large and far from Arabia; the Persian scribes who ran the caliphs' offices kept their culture alive; independent dynasties in the east wanted a language of their own; and the poets gave Persian a prestige that made every ruler want to be praised in it. Even the Turkic conquerors who followed – the Ghaznavids and the Seljuks – made Persian the language of their courts and carried it to India and Anatolia.\n\nThe result is a language that is Iranian in its grammar and core vocabulary but full of Arabic words – rather as English is Germanic with a huge layer of French and Latin. Ferdowsi's tomb at Tus is still a place of pilgrimage for everyone who loves the language.",
+   "image": "tomb-of-ferdowsi"
+  }
+ ],
+ "sentences": [
+  {"fa": "سپاه عرب در قرن هفتم میلادی به ایران آمد.", "r": "sepāh-e arab dar gharn-e haftom-e milādi be Irān āmad.", "en": "The Arab army came to Iran in the seventh century AD."},
+  {"fa": "بیشتر ایرانیان به‌تدریج مسلمان شدند.", "r": "bishtar-e irāniyān be-tadrij mosalmān shodand.", "en": "Most Iranians gradually became Muslims."},
+  {"fa": "زبان عربی زبان دین و علم شد.", "r": "zabān-e arabi zabān-e din va elm shod.", "en": "Arabic became the language of religion and science."},
+  {"fa": "سامانیان در بخارا از شاعران فارسی‌زبان حمایت می‌کردند.", "r": "Sāmāniyān dar Bokhārā az shā'erān-e fārsi-zabān hemāyat mi-kardand.", "en": "In Bukhara the Samanids supported poets who wrote in Persian."},
+  {"fa": "رودکی را پدر شعر فارسی می‌نامند.", "r": "Rudaki rā pedar-e she'r-e fārsi mi-nāmand.", "en": "Rudaki is called the father of Persian poetry."},
+  {"fa": "فردوسی در شهر توس، نزدیک مشهد، به دنیا آمد.", "r": "Ferdowsi dar shahr-e Tus, nazdik-e Mashhad, be donyā āmad.", "en": "Ferdowsi was born in the town of Tus, near Mashhad."},
+  {"fa": "او حدود سی سال روی شاهنامه کار کرد.", "r": "u hodud-e si sāl ru-ye Shāhnāme kār kard.", "en": "He worked on the Shahnameh for about thirty years."},
+  {"fa": "شاهنامه داستان پادشاهان و پهلوانان ایران است.", "r": "Shāhnāme dāstān-e pādshāhān va pahlavānān-e Irān ast.", "en": "The Shahnameh is the story of the kings and heroes of Iran."},
+  {"fa": "فارسی خط عربی را گرفت اما دستور زبانش ایرانی ماند.", "r": "fārsi khatt-e arabi rā gereft ammā dastur-e zabān-ash irāni mānd.", "en": "Persian took the Arabic script, but its grammar remained Iranian."},
+  {"fa": "چهار حرف «پ»، «چ»، «ژ» و «گ» در عربی نیستند.", "r": "chahār harf-e «pe», «che», «zhe» va «gāf» dar arabi nistand.", "en": "The four letters p, ch, zh and g do not exist in Arabic."},
+  {"fa": "محمود غزنوی ترک بود اما دربارش فارسی‌زبان بود.", "r": "Mahmud-e Ghaznavi tork bud ammā darbār-ash fārsi-zabān bud.", "en": "Mahmud of Ghazni was a Turk, but his court spoke Persian."},
+  {"fa": "کودکان ایرانی هنوز شعرهای فردوسی را از بر می‌کنند.", "r": "kudakān-e irāni hanuz she'r-hā-ye Ferdowsi rā az bar mi-konand.", "en": "Iranian children still learn Ferdowsi's poems by heart."}
+ ],
+ "vocab": [
+  {"fa": "اسلام", "r": "Eslām", "en": "Islam"},
+  {"fa": "مسلمان", "r": "mosalmān", "en": "Muslim"},
+  {"fa": "عرب", "r": "arab", "en": "Arab"},
+  {"fa": "عربی", "r": "arabi", "en": "Arabic (language); Arab (adj.)"},
+  {"fa": "خلیفه", "r": "khalife", "en": "caliph"},
+  {"fa": "قرن", "r": "gharn", "en": "century"},
+  {"fa": "شاعر", "r": "shā'er", "en": "poet"},
+  {"fa": "شعر", "r": "she'r", "en": "poem, poetry"},
+  {"fa": "پهلوان", "r": "pahlavān", "en": "hero, champion"},
+  {"fa": "داستان", "r": "dāstān", "en": "story"},
+  {"fa": "دربار", "r": "darbār", "en": "royal court"},
+  {"fa": "حمایت کردن", "r": "hemāyat kardan", "en": "to support, be a patron of"},
+  {"fa": "زنده کردن", "r": "zende kardan", "en": "to bring back to life, revive"},
+  {"fa": "به‌تدریج", "r": "be-tadrij", "en": "gradually"},
+  {"fa": "حرف", "r": "harf", "en": "letter (of the alphabet); word, talk"},
+  {"fa": "دستور زبان", "r": "dastur-e zabān", "en": "grammar"},
+  {"fa": "از بر کردن", "r": "az bar kardan", "en": "to learn by heart"}
+ ],
+ "facts": [
+  "The Shahnameh, finished in 1010, has about 50,000 couplets – one of the longest poems ever written by a single poet.",
+  "Persian added four letters to the Arabic alphabet: پ (p), چ (ch), ژ (zh) and گ (g).",
+  "Sibawayh (d. c. 796), the most famous grammarian of Arabic, was a Persian from Fars.",
+  "The Samanid Mausoleum in Bukhara, built in the early 10th century, is one of the oldest surviving buildings of Islamic Central Asia.",
+  "A Persian translation of al-Tabari's commentary on the Qur'an, made under the Samanids in the 960s, is among the oldest surviving works of Persian prose.",
+  "Avicenna wrote most of his books in Arabic, but his Dānesh-nāme ('Book of Knowledge') was the first philosophical encyclopedia in Persian.",
+  "Ferdowsi's present tomb at Tus was built in 1934 for the thousandth anniversary of his birth."
+ ]
+}

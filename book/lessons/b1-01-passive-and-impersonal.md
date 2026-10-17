@@ -1,6 +1,6 @@
 # Passive and impersonal: 'it was built', 'they say'
 ## ساخته شد، می‌گویند
-*sākhte shod, mi-guyand* — Intermediate (B1), lesson 1. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/b1-01-passive-and-impersonal.html)
+*sākhte shod, mi-guyand* — Intermediate (B1), lesson 1. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/b1-01-passive-and-impersonal.html)
 
 Persian can say that something was done without saying who did it – but it does so far less often than English. In this lesson you learn how the passive is built with شدن, when Iranians actually use it, and the three everyday ways of being impersonal: 'they say', 'one can', and 'a person'.
 
@@ -301,10 +301,10 @@ In Isfahan, Si-o-se-pol is where the city goes for its evening walk. Under the a
 
 **Put the words in order**
 
-1. این / ساخته / اصفهان / شد. / در / پل — This bridge was built in Isfahan.
-2. او / شده‌اند. / کتاب‌های / چند / به / زبان / ترجمه — His books have been translated into several languages.
-3. او / بهترین / مکانیک / می‌گویند / است. / شهر — They say he is the best mechanic in town.
-4. خیابان / پارک / نمی‌شود / این / در / کرد. — One can't park on this street.
+1. در / اصفهان / شد. / این / ساخته / پل — This bridge was built in Isfahan.
+2. چند / ترجمه / زبان / به / او / شده‌اند. / کتاب‌های — His books have been translated into several languages.
+3. بهترین / مکانیک / است. / شهر / او / می‌گویند — They say he is the best mechanic in town.
+4. در / خیابان / کرد. / نمی‌شود / پارک / این — One can't park on this street.
 
 <details><summary>Answers</summary>
 

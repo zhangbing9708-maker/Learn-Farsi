@@ -1,6 +1,6 @@
 # Shopping and money: prices and bargaining
 ## خرید و پول
-*kharid o pul* — Beginner (A1), lesson 13. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/learn-farsi/course/a1-13-shopping-and-money.html)
+*kharid o pul* — Beginner (A1), lesson 13. [Open this lesson with audio and interactive exercises](https://zhangbing9708-maker.github.io/Learn-Farsi/course/a1-13-shopping-and-money.html)
 
 Iran is a wonderful place to shop – from the great covered bazaars to the fruit stalls on every corner – but the money takes some getting used to. In this lesson you ask prices with chand and cheghadr, learn the difference between rials and tomans (and why nobody says all the zeros), say that something is expensive or cheap, compare with -tar, and ask for a discount like a local.
 
@@ -291,10 +291,10 @@ The zeros come from years of inflation. In 2025 Iran passed a law to remove four
 
 **Put the words in order**
 
-1. این / ترمه / است؟ / چند — How much is this termeh?
-2. میوه / بازار / است. / در / ارزان‌تر — Fruit is cheaper in the bazaar.
-3. چقدر / هم / روی / می‌شود؟ — How much does it all come to?
-4. سیب / لیلا / کیلو / می‌خرد. / دو — Leila buys two kilos of apples.
+1. ترمه / چند / است؟ / این — How much is this termeh?
+2. در / است. / ارزان‌تر / میوه / بازار — Fruit is cheaper in the bazaar.
+3. می‌شود؟ / روی / هم / چقدر — How much does it all come to?
+4. سیب / دو / لیلا / کیلو / می‌خرد. — Leila buys two kilos of apples.
 
 <details><summary>Answers</summary>
 

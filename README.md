@@ -2,7 +2,7 @@
 
 **A free, open course in Persian (Farsi) – from the first letter of the alphabet to reading Hafez.**
 
-🌐 **Website (with audio and exercises): https://zhangbing9708-maker.github.io/learn-farsi/**
+🌐 **Website (with audio and exercises): https://zhangbing9708-maker.github.io/Learn-Farsi/**
 📖 **Read it as a book here on GitHub: [book/README.md](book/README.md)**
 
 Learn Farsi is written like an open textbook: every lesson, story and article is a plain JSON file in
@@ -23,7 +23,7 @@ Everything works on a phone. Progress and saved words stay in the learner's brow
 
 ## How to use it
 
-1. Can't read Persian yet? Start with **[the alphabet](https://zhangbing9708-maker.github.io/learn-farsi/course/script-01-how-persian-is-written.html)** – eight short lessons.
+1. Can't read Persian yet? Start with **[the alphabet](https://zhangbing9708-maker.github.io/Learn-Farsi/course/script-01-how-persian-is-written.html)** – eight short lessons.
 2. Work through the course in order. Listen to every line and say it aloud; then hide the English and the transliteration and read again.
 3. Save words with **+** and review them for ten minutes a day on the flashcards page.
 4. From the end of A1, read a story a week; from A2, the news in simple Persian.
@@ -51,7 +51,7 @@ python3 tools/build_book.py      # rebuilds the book
 ## Sources and credits
 
 - **Audio**: synthesised with the open-source Piper "gyro" Persian voice, run with [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx). Vowel marks for the voice are derived from each sentence's transliteration (`tools/vowelize_text.py`).
-- **Photos**: Wikimedia Commons, used under the licence shown with each photo and listed on the [photo credits page](https://zhangbing9708-maker.github.io/learn-farsi/about/photos.html).
+- **Photos**: Wikimedia Commons, used under the licence shown with each photo and listed on the [photo credits page](https://zhangbing9708-maker.github.io/Learn-Farsi/about/photos.html).
 - **Dictionary**: word list, frequency ranks, glosses and topics from Corey Miller and Karineh Aghajanian-Stewart, *A Frequency Dictionary of Persian* (Routledge, 2018); example sentences come from this course.
 - **Poems**: public-domain classical poetry; translations and notes are new.
 - **News**: original summaries in simple Persian of the reports linked on each story.
