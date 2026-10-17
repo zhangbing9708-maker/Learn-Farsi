@@ -37,101 +37,253 @@
    "r": "do tā chāy bi-yāvarid, lotfan.",
    "en": "Two teas, please.",
    "col": "دو تا چایی بیارین، لطفاً.",
-   "colR": "do tā chāyi bi-yārin, lotfan."
+   "colR": "do tā chāyi bi-yārin, lotfan.",
+   "faV": "دو تا چای بیاوَرید، لُطفاً.",
+   "a": "7f84f496b330",
+   "colV": "دو تا چایی بیارین، لُطفاً.",
+   "colA": "b20395485988"
   },
   {
    "fa": "چای تازه‌دم دارید؟",
    "r": "chāy-e tāze-dam dārid?",
    "en": "Do you have freshly brewed tea?",
    "col": "چای تازه‌دم دارین؟",
-   "colR": "chāy-e tāze-dam dārin?"
+   "colR": "chāy-e tāze-dam dārin?",
+   "faV": "چایِ تازه‌دَم دارید؟",
+   "a": "ecd956fede3d",
+   "colV": "چایِ تازه‌دَم دارین؟",
+   "colA": "a43f7debba24"
   },
   {
    "fa": "پدربزرگم چای را در نعلبکی می‌ریزد و می‌نوشد.",
    "r": "pedar-bozorg-am chāy rā dar na'lbeki mi-rizad va mi-nushad.",
    "en": "My grandfather pours his tea into the saucer and drinks it.",
    "col": "بابابزرگم چایی رو تو نعلبکی می‌ریزه و می‌خوره.",
-   "colR": "bābā-bozorg-am chāyi ro tu na'lbeki mi-rize o mi-khore."
+   "colR": "bābā-bozorg-am chāyi ro tu na'lbeki mi-rize o mi-khore.",
+   "faV": "پِدَربُزُرگَم چای را دَر نَعلبِکی می‌ریزَد و می‌نوشَد.",
+   "a": "ceda6eb08738",
+   "colV": "بابابُزُرگَم چایی رو تو نَعلبِکی می‌ریزه و می‌خوره.",
+   "colA": "7eea32a5a95d"
   },
   {
    "fa": "در قهوه‌خانه روی تخت می‌نشینیم و دیزی می‌خوریم.",
    "r": "dar ghahve-khāne ru-ye takht mi-neshinim va dizi mi-khorim.",
    "en": "In the tea house we sit on a day-bed and eat dizi.",
    "col": "تو قهوه‌خونه رو تخت می‌شینیم و دیزی می‌خوریم.",
-   "colR": "tu ghahve-khune ru takht mi-shinim o dizi mi-khorim."
+   "colR": "tu ghahve-khune ru takht mi-shinim o dizi mi-khorim.",
+   "faV": "دَر قَهوه‌خانه رویِ تَخت می‌نِشینیم و دیزی می‌خوریم.",
+   "a": "defff5f2aae5",
+   "colV": "تو قَهوه‌خونه رو تَخت می‌شینیم و دیزی می‌خوریم.",
+   "colA": "ff6d0a110706"
   },
   {
    "fa": "یک دست تخته‌نرد بازی کنیم؟",
    "r": "yek dast takhte-nard bāzi konim?",
    "en": "Shall we play a game of backgammon?",
    "col": "یه دست تخته‌نرد بازی کنیم؟",
-   "colR": "ye dast takhte-nard bāzi konim?"
+   "colR": "ye dast takhte-nard bāzi konim?",
+   "faV": "یِک دَست تَخته‌نَرد بازی کُنیم؟",
+   "a": "d3941c77b3f7",
+   "colV": "یه دَست تَخته‌نَرد بازی کُنیم؟",
+   "colA": "c0e107325466"
   },
   {
    "fa": "قلیان را با زغال روشن می‌کنند.",
    "r": "ghalyān rā bā zoghāl rowshan mi-konand.",
    "en": "They light the qalyan with charcoal.",
    "col": "قلیون رو با زغال روشن می‌کنن.",
-   "colR": "ghalyun ro bā zoghāl rowshan mi-konan."
+   "colR": "ghalyun ro bā zoghāl rowshan mi-konan.",
+   "faV": "قَلیان را با زُغال رَوشَن می‌کُنَند.",
+   "a": "24eeee2e944c",
+   "colV": "قَلیون رو با زُغال رَوشَن می‌کُنَن.",
+   "colA": "3aecf06c8d3b"
   },
   {
    "fa": "نقال داستان رستم و سهراب را تعریف می‌کرد.",
    "r": "nagghāl dāstān-e Rostam va Sohrāb rā ta'rif mi-kard.",
-   "en": "The storyteller was telling the story of Rostam and Sohrab."
+   "en": "The storyteller was telling the story of Rostam and Sohrab.",
+   "faV": "نَقّال داستانِ رُستَم و سُهراب را تَعریف می‌کَرد.",
+   "a": "cbe0163651fd"
   },
   {
    "fa": "او همیشه در هیجان‌انگیزترین جای داستان دست نگه می‌داشت.",
    "r": "u hamishe dar hayajān-angiz-tarin jā-ye dāstān dast negah mi-dāsht.",
-   "en": "He always stopped at the most exciting point in the story."
+   "en": "He always stopped at the most exciting point in the story.",
+   "faV": "او هَمیشه دَر هَیَجان‌اَنگیزتَرین جایِ داستان دَست نِگَه می‌داشت.",
+   "a": "e7226370cc39"
   },
   {
    "fa": "این کافه قهوه‌ی خیلی خوبی دارد.",
    "r": "in kāfe ghahve-ye kheyli khub-i dārad.",
    "en": "This café has really good coffee.",
    "col": "این کافه قهوه‌ی خیلی خوبی داره.",
-   "colR": "in kāfe ghahve-ye kheyli khub-i dāre."
+   "colR": "in kāfe ghahve-ye kheyli khub-i dāre.",
+   "faV": "این کافه قَهوه‌یِ خَیلی خوبی دارَد.",
+   "a": "fb5cf213cd45",
+   "colV": "این کافه قَهوه‌یِ خَیلی خوبی داره.",
+   "colA": "ef348ce09d10"
   },
   {
    "fa": "یک کاپوچینو و یک تکه کیک شکلاتی، لطفاً.",
    "r": "yek kāpuchino va yek tekke keyk-e shokolāti, lotfan.",
    "en": "A cappuccino and a piece of chocolate cake, please.",
    "col": "یه کاپوچینو و یه تیکه کیک شکلاتی، لطفاً.",
-   "colR": "ye kāpuchino o ye tike keyk-e shokolāti, lotfan."
+   "colR": "ye kāpuchino o ye tike keyk-e shokolāti, lotfan.",
+   "faV": "یِک کاپوچینو و یِک تِکّه کَیکِ شُکُلاتی، لُطفاً.",
+   "a": "87d625595291",
+   "colV": "یه کاپوچینو و یه تیکه کَیکِ شُکُلاتی، لُطفاً.",
+   "colA": "9ddaf568a0d5"
   },
   {
    "fa": "رمز وای‌فای را می‌دانید؟",
    "r": "ramz-e vāy-fāy rā mi-dānid?",
    "en": "Do you know the wi-fi password?",
    "col": "رمز وای‌فای رو می‌دونین؟",
-   "colR": "ramz-e vāy-fāy ro mi-dunin?"
+   "colR": "ramz-e vāy-fāy ro mi-dunin?",
+   "faV": "رَمزِ وای‌فای را می‌دانید؟",
+   "a": "aa2adc88e2eb",
+   "colV": "رَمزِ وای‌فای رو می‌دونین؟",
+   "colA": "f12828ad0dbe"
   },
   {
    "fa": "جمعه‌ها با دوستانم در کافه همدیگر را می‌بینیم.",
    "r": "jom'e-hā bā dustān-am dar kāfe hamdigar rā mi-binim.",
    "en": "On Fridays my friends and I meet at a café.",
    "col": "جمعه‌ها با دوستام تو کافه همدیگه رو می‌بینیم.",
-   "colR": "jom'e-hā bā dustām tu kāfe hamdige ro mi-binim."
+   "colR": "jom'e-hā bā dustām tu kāfe hamdige ro mi-binim.",
+   "faV": "جُمعه‌ها با دوستانَم دَر کافه هَمدیگَر را می‌بینیم.",
+   "a": "447ac75492aa",
+   "colV": "جُمعه‌ها با دوستام تو کافه هَمدیگه رو می‌بینیم.",
+   "colA": "708d5260cf28"
   }
  ],
  "vocab": [
-  {"fa": "قهوه‌خانه", "r": "ghahve-khāne", "en": "(traditional) tea house, coffee house"},
-  {"fa": "قهوه‌چی", "r": "ghahve-chi", "en": "tea-house keeper"},
-  {"fa": "کافه", "r": "kāfe", "en": "café"},
-  {"fa": "چای", "r": "chāy", "en": "tea"},
-  {"fa": "استکان", "r": "estekān", "en": "tea glass"},
-  {"fa": "نعلبکی", "r": "na'lbeki", "en": "saucer"},
-  {"fa": "قند", "r": "ghand", "en": "sugar lump"},
-  {"fa": "تازه‌دم", "r": "tāze-dam", "en": "freshly brewed"},
-  {"fa": "قلیان", "r": "ghalyān", "en": "water pipe, qalyan"},
-  {"fa": "زغال", "r": "zoghāl", "en": "charcoal"},
-  {"fa": "تخت", "r": "takht", "en": "day-bed; bed"},
-  {"fa": "تخته‌نرد", "r": "takhte-nard", "en": "backgammon"},
-  {"fa": "نقال", "r": "nagghāl", "en": "storyteller (performer of naqqali)"},
-  {"fa": "نقالی", "r": "nagghāli", "en": "dramatic storytelling"},
-  {"fa": "داستان", "r": "dāstān", "en": "story"},
-  {"fa": "تعریف کردن", "r": "ta'rif kardan", "en": "to tell (a story); to praise"},
-  {"fa": "قهوه", "r": "ghahve", "en": "coffee"},
-  {"fa": "سفارش دادن", "r": "sefāresh dādan", "en": "to order"}
+  {
+   "fa": "قهوه‌خانه",
+   "r": "ghahve-khāne",
+   "en": "(traditional) tea house, coffee house",
+   "faV": "قَهوه‌خانه",
+   "a": "160dd8ad08c4"
+  },
+  {
+   "fa": "قهوه‌چی",
+   "r": "ghahve-chi",
+   "en": "tea-house keeper",
+   "faV": "قَهوه‌چی",
+   "a": "e2ce724e6d11"
+  },
+  {
+   "fa": "کافه",
+   "r": "kāfe",
+   "en": "café",
+   "faV": "کافه",
+   "a": "4e4994e07e3b"
+  },
+  {
+   "fa": "چای",
+   "r": "chāy",
+   "en": "tea",
+   "faV": "چای",
+   "a": "0f9abd5af4a8"
+  },
+  {
+   "fa": "استکان",
+   "r": "estekān",
+   "en": "tea glass",
+   "faV": "اِستِکان",
+   "a": "6b3e23c953c0"
+  },
+  {
+   "fa": "نعلبکی",
+   "r": "na'lbeki",
+   "en": "saucer",
+   "faV": "نَعلبِکی",
+   "a": "2833f3d335b6"
+  },
+  {
+   "fa": "قند",
+   "r": "ghand",
+   "en": "sugar lump",
+   "faV": "قَند",
+   "a": "d15bd743d660"
+  },
+  {
+   "fa": "تازه‌دم",
+   "r": "tāze-dam",
+   "en": "freshly brewed",
+   "faV": "تازه‌دَم",
+   "a": "5d11f9d8e4ad"
+  },
+  {
+   "fa": "قلیان",
+   "r": "ghalyān",
+   "en": "water pipe, qalyan",
+   "faV": "قَلیان",
+   "a": "6f7e87351cb9"
+  },
+  {
+   "fa": "زغال",
+   "r": "zoghāl",
+   "en": "charcoal",
+   "faV": "زُغال",
+   "a": "1b047aa111e6"
+  },
+  {
+   "fa": "تخت",
+   "r": "takht",
+   "en": "day-bed; bed",
+   "faV": "تَخت",
+   "a": "512dffb7486a"
+  },
+  {
+   "fa": "تخته‌نرد",
+   "r": "takhte-nard",
+   "en": "backgammon",
+   "faV": "تَخته‌نَرد",
+   "a": "351c664242ba"
+  },
+  {
+   "fa": "نقال",
+   "r": "nagghāl",
+   "en": "storyteller (performer of naqqali)",
+   "faV": "نَقّال",
+   "a": "951705d3c64d"
+  },
+  {
+   "fa": "نقالی",
+   "r": "nagghāli",
+   "en": "dramatic storytelling",
+   "faV": "نَقّالی",
+   "a": "b374bd7e65e0"
+  },
+  {
+   "fa": "داستان",
+   "r": "dāstān",
+   "en": "story",
+   "faV": "داستان",
+   "a": "b134def87a95"
+  },
+  {
+   "fa": "تعریف کردن",
+   "r": "ta'rif kardan",
+   "en": "to tell (a story); to praise",
+   "faV": "تَعریف کَردَن",
+   "a": "0b99a18d53d4"
+  },
+  {
+   "fa": "قهوه",
+   "r": "ghahve",
+   "en": "coffee",
+   "faV": "قَهوه",
+   "a": "5c539131b98e"
+  },
+  {
+   "fa": "سفارش دادن",
+   "r": "sefāresh dādan",
+   "en": "to order",
+   "faV": "سِفارِش دادَن",
+   "a": "6f562817f358"
+  }
  ],
  "facts": [
   "Despite the name, a traditional ghahve-khāne ('coffee house') serves tea; coffee was the drink of the Safavid coffee houses of the 17th century.",
@@ -141,5 +293,7 @@
   "Persian tradition credits the invention of backgammon, takhte-nard, to Bozorgmehr, the wise vizier of the Sasanian king Khosrow I.",
   "Tehranis often say chāyi rather than chāy for tea.",
   "Qalyān is the Persian word for the water pipe; its tobacco is tanbāku."
- ]
+ ],
+ "titleV": "قَهوه‌خانه و کافه",
+ "titleA": "b8016a800129"
 }

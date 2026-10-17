@@ -75,6 +75,7 @@ Read real texts, follow the news, argue a point, understand idioms and proverbs 
 6. [Building words: suffixes and prefixes](lessons/b1-06-building-words.md) — پسوندها و پیشوندها
 7. [Arabic in Persian: roots, plurals and tanvin](lessons/b1-07-arabic-in-persian.md) — عربی در فارسی
 8. [Formal and informal: registers and respect](lessons/b1-08-formal-and-informal.md) — رسمی و خودمانی
+9. [Proverbs and idioms: as the old folks say](lessons/b1-09-proverbs-and-idioms.md) — به قول قدیمی‌ها
 12. [First steps in poetry: reading a classical poem](lessons/b1-12-first-steps-in-poetry.md) — نخستین گام‌ها در شعر
 13. [Telling a story: three past tenses together](lessons/b1-13-telling-a-story.md) — یکی بود یکی نبود
 14. [Debate: agreeing, conceding and disagreeing politely](lessons/b1-14-debate.md) — قبول دارم، ولی…
@@ -223,6 +224,7 @@ Graded readers, from very easy to literary.
 - [Rumi](culture/people-rumi.md) — مولانا
 - [Saadi](culture/people-saadi.md) — سعدی
 - [Hafez](culture/people-hafez.md) — حافظ
+- [Attar and Nezami](culture/people-attar-and-nezami.md) — عطار و نظامی
 
 **Language**
 
@@ -251,6 +253,7 @@ Graded readers, from very easy to literary.
 - [The palace of Jamshid](poetry/khayyam-an-ghasr.md) — Khayyam
 - [The scent of the Muliyan](poetry/rudaki-bu-ye-juy-e-muliyan.md) — Rudaki
 - [The eye and the heart](poetry/baba-taher-del.md) — Baba Taher
+- [Thanks be to God](poetry/saadi-golestan-opening.md) — Saadi
 
 ## Part 9. Reference
 

@@ -36,37 +36,211 @@
   }
  ],
  "sentences": [
-  {"fa": "خیام در نیشابور به دنیا آمد.", "r": "Khayyām dar Neyshābur be donyā āmad.", "en": "Khayyam was born in Nishapur."},
-  {"fa": "خیام ریاضی‌دان، ستاره‌شناس و شاعر بود.", "r": "Khayyām riyāzi-dān, setāre-shenās va shā'er bud.", "en": "Khayyam was a mathematician, an astronomer and a poet."},
-  {"fa": "او معادله‌های درجه‌ی سوم را با هندسه حل کرد.", "r": "u mo'ādele-hā-ye daraje-ye sevvom rā bā hendese hall kard.", "en": "He solved cubic equations with geometry."},
-  {"fa": "سلطان ملکشاه او را به اصفهان دعوت کرد.", "r": "Soltān Malekshāh u rā be Esfahān da'vat kard.", "en": "Sultan Malik-Shah invited him to Isfahan."},
-  {"fa": "خیام و همکارانش تقویم جلالی را ساختند.", "r": "Khayyām va ham-kārān-ash taghvim-e Jalāli rā sākhtand.", "en": "Khayyam and his colleagues created the Jalali calendar."},
-  {"fa": "سال در این تقویم با نوروز شروع می‌شود.", "r": "sāl dar in taghvim bā Nowruz shoru' mi-shavad.", "en": "In this calendar the year begins with Nowruz."},
-  {"fa": "تقویم امروز ایران بر پایه‌ی تقویم جلالی است.", "r": "taghvim-e emruz-e Irān bar pāye-ye taghvim-e Jalāli ast.", "en": "Iran's calendar today is based on the Jalali calendar."},
-  {"fa": "رباعی شعری با چهار مصراع است.", "r": "robā'i she'r-i bā chahār mesrā' ast.", "en": "A quatrain is a poem with four lines."},
-  {"fa": "رباعیات خیام به زبان‌های زیادی ترجمه شده است.", "r": "robā'iyyāt-e Khayyām be zabān-hā-ye ziyād-i tarjome shode ast.", "en": "Khayyam's quatrains have been translated into many languages."},
-  {"fa": "فیتزجرالد رباعیات را به انگلیسی برگرداند.", "r": "Fitzjerāld robā'iyyāt rā be engelisi bargardānd.", "en": "FitzGerald put the quatrains into English."},
-  {"fa": "بسیاری از رباعیات خیام درباره‌ی کوتاهی زندگی است.", "r": "besyāri az robā'iyyāt-e Khayyām darbāre-ye kutāhi-ye zendegi ast.", "en": "Many of Khayyam's quatrains are about the shortness of life."},
-  {"fa": "آرامگاه خیام در باغی در نیشابور است.", "r": "ārāmgāh-e Khayyām dar bāgh-i dar Neyshābur ast.", "en": "Khayyam's tomb is in a garden in Nishapur."}
+  {
+   "fa": "خیام در نیشابور به دنیا آمد.",
+   "r": "Khayyām dar Neyshābur be donyā āmad.",
+   "en": "Khayyam was born in Nishapur.",
+   "faV": "خَیّام دَر نَیشابور به دُنیا آمَد.",
+   "a": "4ab692d7b9fc"
+  },
+  {
+   "fa": "خیام ریاضی‌دان، ستاره‌شناس و شاعر بود.",
+   "r": "Khayyām riyāzi-dān, setāre-shenās va shā'er bud.",
+   "en": "Khayyam was a mathematician, an astronomer and a poet.",
+   "faV": "خَیّام ریاضی‌دان، سِتاره‌شِناس و شاعِر بود.",
+   "a": "38a8d69573cb"
+  },
+  {
+   "fa": "او معادله‌های درجه‌ی سوم را با هندسه حل کرد.",
+   "r": "u mo'ādele-hā-ye daraje-ye sevvom rā bā hendese hall kard.",
+   "en": "He solved cubic equations with geometry.",
+   "faV": "او مُعادِله‌هایِ دَرَجه‌یِ سِوُّم را با هِندِسه حَلّ کَرد.",
+   "a": "27ad3cef8ada"
+  },
+  {
+   "fa": "سلطان ملکشاه او را به اصفهان دعوت کرد.",
+   "r": "Soltān Malekshāh u rā be Esfahān da'vat kard.",
+   "en": "Sultan Malik-Shah invited him to Isfahan.",
+   "faV": "سُلطان مَلِکشاه او را به اِصفَهان دَعوَت کَرد.",
+   "a": "ec56e8178394"
+  },
+  {
+   "fa": "خیام و همکارانش تقویم جلالی را ساختند.",
+   "r": "Khayyām va ham-kārān-ash taghvim-e Jalāli rā sākhtand.",
+   "en": "Khayyam and his colleagues created the Jalali calendar.",
+   "faV": "خَیّام و هَمکارانَش تَقویمِ جَلالی را ساختَند.",
+   "a": "4525e3ff73d2"
+  },
+  {
+   "fa": "سال در این تقویم با نوروز شروع می‌شود.",
+   "r": "sāl dar in taghvim bā Nowruz shoru' mi-shavad.",
+   "en": "In this calendar the year begins with Nowruz.",
+   "faV": "سال دَر این تَقویم با نَوروز شُروع می‌شَوَد.",
+   "a": "74da0c557146"
+  },
+  {
+   "fa": "تقویم امروز ایران بر پایه‌ی تقویم جلالی است.",
+   "r": "taghvim-e emruz-e Irān bar pāye-ye taghvim-e Jalāli ast.",
+   "en": "Iran's calendar today is based on the Jalali calendar.",
+   "faV": "تَقویمِ اِمروزِ ایران بَر پایه‌یِ تَقویمِ جَلالی اَست.",
+   "a": "20e27d404e71"
+  },
+  {
+   "fa": "رباعی شعری با چهار مصراع است.",
+   "r": "robā'i she'r-i bā chahār mesrā' ast.",
+   "en": "A quatrain is a poem with four lines.",
+   "faV": "رُباعی شِعری با چَهار مِصراع اَست.",
+   "a": "120af8cbe45a"
+  },
+  {
+   "fa": "رباعیات خیام به زبان‌های زیادی ترجمه شده است.",
+   "r": "robā'iyyāt-e Khayyām be zabān-hā-ye ziyād-i tarjome shode ast.",
+   "en": "Khayyam's quatrains have been translated into many languages.",
+   "faV": "رُباعیّاتِ خَیّام به زَبان‌هایِ زیادی تَرجُمه شُده اَست.",
+   "a": "2f89dd07b478"
+  },
+  {
+   "fa": "فیتزجرالد رباعیات را به انگلیسی برگرداند.",
+   "r": "Fitzjerāld robā'iyyāt rā be engelisi bargardānd.",
+   "en": "FitzGerald put the quatrains into English.",
+   "faV": "فیتزجِرالد رُباعیّات را به اِنگِلیسی بَرگَرداند.",
+   "a": "e398145b4add"
+  },
+  {
+   "fa": "بسیاری از رباعیات خیام درباره‌ی کوتاهی زندگی است.",
+   "r": "besyāri az robā'iyyāt-e Khayyām darbāre-ye kutāhi-ye zendegi ast.",
+   "en": "Many of Khayyam's quatrains are about the shortness of life.",
+   "faV": "بِسیاری اَز رُباعیّاتِ خَیّام دَرباره‌یِ کوتاهیِ زِندِگی اَست.",
+   "a": "d8cf7e42ee24"
+  },
+  {
+   "fa": "آرامگاه خیام در باغی در نیشابور است.",
+   "r": "ārāmgāh-e Khayyām dar bāgh-i dar Neyshābur ast.",
+   "en": "Khayyam's tomb is in a garden in Nishapur.",
+   "faV": "آرامگاهِ خَیّام دَر باغی دَر نَیشابور اَست.",
+   "a": "284f2afbacdd"
+  }
  ],
  "vocab": [
-  {"fa": "ریاضی", "r": "riyāzi", "en": "mathematics; mathematical"},
-  {"fa": "ریاضی‌دان", "r": "riyāzi-dān", "en": "mathematician"},
-  {"fa": "ستاره", "r": "setāre", "en": "star"},
-  {"fa": "ستاره‌شناس", "r": "setāre-shenās", "en": "astronomer"},
-  {"fa": "نجوم", "r": "nojum", "en": "astronomy"},
-  {"fa": "رصدخانه", "r": "rasadkhāne", "en": "observatory"},
-  {"fa": "تقویم", "r": "taghvim", "en": "calendar"},
-  {"fa": "سال کبیسه", "r": "sāl-e kabise", "en": "leap year"},
-  {"fa": "معادله", "r": "mo'ādele", "en": "equation"},
-  {"fa": "هندسه", "r": "hendese", "en": "geometry"},
-  {"fa": "جبر", "r": "jabr", "en": "algebra"},
-  {"fa": "رباعی", "r": "robā'i", "en": "quatrain"},
-  {"fa": "مصراع", "r": "mesrā'", "en": "half-line of verse, hemistich"},
-  {"fa": "خیمه", "r": "kheyme", "en": "tent"},
-  {"fa": "شراب", "r": "sharāb", "en": "wine"},
-  {"fa": "عمر", "r": "'omr", "en": "life, lifetime"},
-  {"fa": "لحظه", "r": "lahze", "en": "moment"}
+  {
+   "fa": "ریاضی",
+   "r": "riyāzi",
+   "en": "mathematics; mathematical",
+   "faV": "ریاضی",
+   "a": "04d3fa946fae"
+  },
+  {
+   "fa": "ریاضی‌دان",
+   "r": "riyāzi-dān",
+   "en": "mathematician",
+   "faV": "ریاضی‌دان",
+   "a": "b1932f820965"
+  },
+  {
+   "fa": "ستاره",
+   "r": "setāre",
+   "en": "star",
+   "faV": "سِتاره",
+   "a": "5805beb0866e"
+  },
+  {
+   "fa": "ستاره‌شناس",
+   "r": "setāre-shenās",
+   "en": "astronomer",
+   "faV": "سِتاره‌شِناس",
+   "a": "f44c5d63ff0a"
+  },
+  {
+   "fa": "نجوم",
+   "r": "nojum",
+   "en": "astronomy",
+   "faV": "نُجوم",
+   "a": "7e3bddd9338d"
+  },
+  {
+   "fa": "رصدخانه",
+   "r": "rasadkhāne",
+   "en": "observatory",
+   "faV": "رَصَدخانه",
+   "a": "92a3dd5c527c"
+  },
+  {
+   "fa": "تقویم",
+   "r": "taghvim",
+   "en": "calendar",
+   "faV": "تَقویم",
+   "a": "0de309051d23"
+  },
+  {
+   "fa": "سال کبیسه",
+   "r": "sāl-e kabise",
+   "en": "leap year",
+   "faV": "سالِ کَبیسه",
+   "a": "efae51a9b728"
+  },
+  {
+   "fa": "معادله",
+   "r": "mo'ādele",
+   "en": "equation",
+   "faV": "مُعادِله",
+   "a": "9ac3656f0582"
+  },
+  {
+   "fa": "هندسه",
+   "r": "hendese",
+   "en": "geometry",
+   "faV": "هِندِسه",
+   "a": "94a0f0648ab1"
+  },
+  {
+   "fa": "جبر",
+   "r": "jabr",
+   "en": "algebra",
+   "faV": "جَبر",
+   "a": "7ba54452a143"
+  },
+  {
+   "fa": "رباعی",
+   "r": "robā'i",
+   "en": "quatrain",
+   "faV": "رُباعی",
+   "a": "e2e34fcbddb5"
+  },
+  {
+   "fa": "مصراع",
+   "r": "mesrā'",
+   "en": "half-line of verse, hemistich",
+   "faV": "مِصراع",
+   "a": "2461a98e3ed4"
+  },
+  {
+   "fa": "خیمه",
+   "r": "kheyme",
+   "en": "tent",
+   "faV": "خَیمه",
+   "a": "d8943753368c"
+  },
+  {
+   "fa": "شراب",
+   "r": "sharāb",
+   "en": "wine",
+   "faV": "شَراب",
+   "a": "ef79c5d26355"
+  },
+  {
+   "fa": "عمر",
+   "r": "'omr",
+   "en": "life, lifetime",
+   "faV": "عُمر",
+   "a": "3b77bd643b43"
+  },
+  {
+   "fa": "لحظه",
+   "r": "lahze",
+   "en": "moment",
+   "faV": "لَحظه",
+   "a": "e01b107890ec"
+  }
  ],
  "facts": [
   "Khayyam was born in Nishapur in 1048 and died there around 1131.",
@@ -76,5 +250,7 @@
   "FitzGerald's Rubaiyat was first published, anonymously, in 1859.",
   "A crater on the far side of the Moon is named after Omar Khayyam.",
   "His mausoleum in Nishapur, designed by Houshang Seyhoun, was completed in 1963."
- ]
+ ],
+ "titleV": "عُمَر خَیّام",
+ "titleA": "12a2f0427034"
 }

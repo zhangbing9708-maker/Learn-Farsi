@@ -32,38 +32,218 @@
   }
  ],
  "sentences": [
-  {"fa": "ابن سینا در سال ۹۸۰ میلادی نزدیک بخارا به دنیا آمد.", "r": "Ebn-e Sinā dar sāl-e nohsad-o-hashtād-e milādi nazdik-e Bokhārā be donyā āmad.", "en": "Avicenna was born near Bukhara in 980 AD."},
-  {"fa": "پدرش در دولت سامانیان کار می‌کرد.", "r": "pedar-ash dar dowlat-e Sāmāniyān kār mi-kard.", "en": "His father worked for the Samanid government."},
-  {"fa": "او در جوانی پزشک مشهوری شد.", "r": "u dar javāni pezeshk-e mashhur-i shod.", "en": "He became a famous doctor while still young."},
-  {"fa": "ابن سینا امیر سامانی را درمان کرد.", "r": "Ebn-e Sinā amir-e Sāmāni rā darmān kard.", "en": "Avicenna cured the Samanid emir."},
-  {"fa": "امیر به او اجازه داد از کتابخانه‌ی سلطنتی استفاده کند.", "r": "amir be u ejāze dād az ketābkhāne-ye saltanati estefāde konad.", "en": "The emir allowed him to use the royal library."},
-  {"fa": "مهم‌ترین کتاب پزشکی او «قانون» نام دارد.", "r": "mohem-tarin ketāb-e pezeshki-ye u «Ghānun» nām dārad.", "en": "His most important medical book is called 'The Canon'."},
-  {"fa": "کتاب قانون صدها سال در اروپا تدریس می‌شد.", "r": "ketāb-e Ghānun sad-hā sāl dar Orupā tadris mi-shod.", "en": "The Canon was taught in Europe for hundreds of years."},
-  {"fa": "«شفا» یک دانشنامه‌ی بزرگ فلسفه و علم است.", "r": "«Shefā» yek dāneshnāme-ye bozorg-e falsafe va 'elm ast.", "en": "The Shefa is a large encyclopedia of philosophy and science."},
-  {"fa": "او بیشتر کتاب‌هایش را به عربی نوشت.", "r": "u bish-tar-e ketāb-hā-yash rā be 'arabi nevesht.", "en": "He wrote most of his books in Arabic."},
-  {"fa": "«دانشنامه‌ی علایی» را به فارسی نوشت.", "r": "«Dāneshnāme-ye 'Alā'i» rā be fārsi nevesht.", "en": "He wrote the Daneshnameh-ye Alai in Persian."},
-  {"fa": "ابن سینا در همدان درگذشت.", "r": "Ebn-e Sinā dar Hamedān dargozasht.", "en": "Avicenna died in Hamadan."},
-  {"fa": "در ایران روز تولد ابن سینا روز پزشک است.", "r": "dar Irān ruz-e tavallod-e Ebn-e Sinā ruz-e pezeshk ast.", "en": "In Iran, Avicenna's birthday is Doctors' Day."}
+  {
+   "fa": "ابن سینا در سال ۹۸۰ میلادی نزدیک بخارا به دنیا آمد.",
+   "r": "Ebn-e Sinā dar sāl-e nohsad-o-hashtād-e milādi nazdik-e Bokhārā be donyā āmad.",
+   "en": "Avicenna was born near Bukhara in 980 AD.",
+   "faV": "اِبنِ سینا دَر سالِ ۹۸۰ میلادی نَزدیکِ بُخارا به دُنیا آمَد.",
+   "a": "d37f9ac6e1a3"
+  },
+  {
+   "fa": "پدرش در دولت سامانیان کار می‌کرد.",
+   "r": "pedar-ash dar dowlat-e Sāmāniyān kār mi-kard.",
+   "en": "His father worked for the Samanid government.",
+   "faV": "پِدَرَش دَر دَولَتِ سامانیان کار می‌کَرد.",
+   "a": "afc561820dd3"
+  },
+  {
+   "fa": "او در جوانی پزشک مشهوری شد.",
+   "r": "u dar javāni pezeshk-e mashhur-i shod.",
+   "en": "He became a famous doctor while still young.",
+   "faV": "او دَر جَوانی پِزِشکِ مَشهوری شُد.",
+   "a": "5a0840f0cdd8"
+  },
+  {
+   "fa": "ابن سینا امیر سامانی را درمان کرد.",
+   "r": "Ebn-e Sinā amir-e Sāmāni rā darmān kard.",
+   "en": "Avicenna cured the Samanid emir.",
+   "faV": "اِبنِ سینا اَمیرِ سامانی را دَرمان کَرد.",
+   "a": "de4a85347d2d"
+  },
+  {
+   "fa": "امیر به او اجازه داد از کتابخانه‌ی سلطنتی استفاده کند.",
+   "r": "amir be u ejāze dād az ketābkhāne-ye saltanati estefāde konad.",
+   "en": "The emir allowed him to use the royal library.",
+   "faV": "اَمیر به او اِجازه داد اَز کِتابخانه‌یِ سَلطَنَتی اِستِفاده کُنَد.",
+   "a": "04845d316cdc"
+  },
+  {
+   "fa": "مهم‌ترین کتاب پزشکی او «قانون» نام دارد.",
+   "r": "mohem-tarin ketāb-e pezeshki-ye u «Ghānun» nām dārad.",
+   "en": "His most important medical book is called 'The Canon'.",
+   "faV": "مُهِم‌تَرین کِتابِ پِزِشکیِ او «قانون» نام دارَد.",
+   "a": "9f0dfab58c36"
+  },
+  {
+   "fa": "کتاب قانون صدها سال در اروپا تدریس می‌شد.",
+   "r": "ketāb-e Ghānun sad-hā sāl dar Orupā tadris mi-shod.",
+   "en": "The Canon was taught in Europe for hundreds of years.",
+   "faV": "کِتابِ قانون صَدها سال دَر اُروپا تَدریس می‌شُد.",
+   "a": "b1ec904ae9c5"
+  },
+  {
+   "fa": "«شفا» یک دانشنامه‌ی بزرگ فلسفه و علم است.",
+   "r": "«Shefā» yek dāneshnāme-ye bozorg-e falsafe va 'elm ast.",
+   "en": "The Shefa is a large encyclopedia of philosophy and science.",
+   "faV": "«شِفا» یِک دانِشنامه‌یِ بُزُرگِ فَلسَفه و عِلم اَست.",
+   "a": "9014a794b96c"
+  },
+  {
+   "fa": "او بیشتر کتاب‌هایش را به عربی نوشت.",
+   "r": "u bish-tar-e ketāb-hā-yash rā be 'arabi nevesht.",
+   "en": "He wrote most of his books in Arabic.",
+   "faV": "او بیشتَرِ کِتاب‌هایَش را به عَرَبی نِوِشت.",
+   "a": "ef5dcf8ee1b9"
+  },
+  {
+   "fa": "«دانشنامه‌ی علایی» را به فارسی نوشت.",
+   "r": "«Dāneshnāme-ye 'Alā'i» rā be fārsi nevesht.",
+   "en": "He wrote the Daneshnameh-ye Alai in Persian.",
+   "faV": "«دانِشنامه‌یِ عَلایی» را به فارسی نِوِشت.",
+   "a": "c387eeebc24b"
+  },
+  {
+   "fa": "ابن سینا در همدان درگذشت.",
+   "r": "Ebn-e Sinā dar Hamedān dargozasht.",
+   "en": "Avicenna died in Hamadan.",
+   "faV": "اِبنِ سینا دَر هَمِدان دَرگُذَشت.",
+   "a": "c1fe31d98ef9"
+  },
+  {
+   "fa": "در ایران روز تولد ابن سینا روز پزشک است.",
+   "r": "dar Irān ruz-e tavallod-e Ebn-e Sinā ruz-e pezeshk ast.",
+   "en": "In Iran, Avicenna's birthday is Doctors' Day.",
+   "faV": "دَر ایران روزِ تَوَلُّدِ اِبنِ سینا روزِ پِزِشک اَست.",
+   "a": "7c695ff9e693"
+  }
  ],
  "vocab": [
-  {"fa": "پزشک", "r": "pezeshk", "en": "doctor, physician"},
-  {"fa": "پزشکی", "r": "pezeshki", "en": "medicine (the science); medical"},
-  {"fa": "دارو", "r": "dāru", "en": "medicine, drug"},
-  {"fa": "بیمار", "r": "bimār", "en": "ill; patient"},
-  {"fa": "بیماری", "r": "bimāri", "en": "illness, disease"},
-  {"fa": "درمان", "r": "darmān", "en": "treatment, cure"},
-  {"fa": "درمان کردن", "r": "darmān kardan", "en": "to treat, to cure"},
-  {"fa": "فیلسوف", "r": "filsuf", "en": "philosopher"},
-  {"fa": "فلسفه", "r": "falsafe", "en": "philosophy"},
-  {"fa": "دانشمند", "r": "dāneshmand", "en": "scientist, scholar"},
-  {"fa": "کتابخانه", "r": "ketābkhāne", "en": "library"},
-  {"fa": "شفا", "r": "shefā", "en": "healing, cure"},
-  {"fa": "قانون", "r": "ghānun", "en": "law; canon"},
-  {"fa": "دانشنامه", "r": "dāneshnāme", "en": "encyclopedia"},
-  {"fa": "امیر", "r": "amir", "en": "emir, prince"},
-  {"fa": "وزیر", "r": "vazir", "en": "minister, vizier"},
-  {"fa": "زندان", "r": "zendān", "en": "prison"},
-  {"fa": "تولد", "r": "tavallod", "en": "birth; birthday"}
+  {
+   "fa": "پزشک",
+   "r": "pezeshk",
+   "en": "doctor, physician",
+   "faV": "پِزِشک",
+   "a": "dd5b8a2aa402"
+  },
+  {
+   "fa": "پزشکی",
+   "r": "pezeshki",
+   "en": "medicine (the science); medical",
+   "faV": "پِزِشکی",
+   "a": "4112e80ddf1f"
+  },
+  {
+   "fa": "دارو",
+   "r": "dāru",
+   "en": "medicine, drug",
+   "faV": "دارو",
+   "a": "3b72256534dd"
+  },
+  {
+   "fa": "بیمار",
+   "r": "bimār",
+   "en": "ill; patient",
+   "faV": "بیمار",
+   "a": "fa52adfbd0dc"
+  },
+  {
+   "fa": "بیماری",
+   "r": "bimāri",
+   "en": "illness, disease",
+   "faV": "بیماری",
+   "a": "14d599b37273"
+  },
+  {
+   "fa": "درمان",
+   "r": "darmān",
+   "en": "treatment, cure",
+   "faV": "دَرمان",
+   "a": "d97af84e049b"
+  },
+  {
+   "fa": "درمان کردن",
+   "r": "darmān kardan",
+   "en": "to treat, to cure",
+   "faV": "دَرمان کَردَن",
+   "a": "16d9e9daebe0"
+  },
+  {
+   "fa": "فیلسوف",
+   "r": "filsuf",
+   "en": "philosopher",
+   "faV": "فیلسوف",
+   "a": "7ce71007fa67"
+  },
+  {
+   "fa": "فلسفه",
+   "r": "falsafe",
+   "en": "philosophy",
+   "faV": "فَلسَفه",
+   "a": "05c857285aac"
+  },
+  {
+   "fa": "دانشمند",
+   "r": "dāneshmand",
+   "en": "scientist, scholar",
+   "faV": "دانِشمَند",
+   "a": "f46b05901811"
+  },
+  {
+   "fa": "کتابخانه",
+   "r": "ketābkhāne",
+   "en": "library",
+   "faV": "کِتابخانه",
+   "a": "8cd845cbc502"
+  },
+  {
+   "fa": "شفا",
+   "r": "shefā",
+   "en": "healing, cure",
+   "faV": "شِفا",
+   "a": "ec64cf1eab41"
+  },
+  {
+   "fa": "قانون",
+   "r": "ghānun",
+   "en": "law; canon",
+   "faV": "قانون",
+   "a": "d1ec9be1a369"
+  },
+  {
+   "fa": "دانشنامه",
+   "r": "dāneshnāme",
+   "en": "encyclopedia",
+   "faV": "دانِشنامه",
+   "a": "10b32ca87353"
+  },
+  {
+   "fa": "امیر",
+   "r": "amir",
+   "en": "emir, prince",
+   "faV": "اَمیر",
+   "a": "b62d36c90b1a"
+  },
+  {
+   "fa": "وزیر",
+   "r": "vazir",
+   "en": "minister, vizier",
+   "faV": "وَزیر",
+   "a": "61597c817d25"
+  },
+  {
+   "fa": "زندان",
+   "r": "zendān",
+   "en": "prison",
+   "faV": "زِندان",
+   "a": "d24dae09791e"
+  },
+  {
+   "fa": "تولد",
+   "r": "tavallod",
+   "en": "birth; birthday",
+   "faV": "تَوَلُّد",
+   "a": "6dfc90d9080f"
+  }
  ],
  "facts": [
   "Ibn Sina was born around 980 near Bukhara and died in Hamadan in 1037.",
@@ -73,5 +253,7 @@
   "1 Shahrivar (23 August), his birthday, is Doctors' Day in Iran.",
   "His mausoleum in Hamadan, built in the early 1950s, has a tower modelled on Gonbad-e Qabus.",
   "His title Sheykh-or-ra'is means 'the chief master'."
- ]
+ ],
+ "titleV": "اِبنِ سینا",
+ "titleA": "d360380f6d6d"
 }

@@ -14,22 +14,30 @@
     {
      "fa": "در یکی از راسته‌های تاریک بازار بزرگ تهران، میان فرش‌فروش‌ها و عطاری‌ها، کتاب‌فروشی کوچکی هست که کمتر کسی آن را می‌بیند.",
      "r": "dar yek-i az rāste-hā-ye tārik-e bāzār-e bozorg-e Tehrān, miyān-e farsh-forush-hā o attāri-hā, ketāb-forushi-ye kuchak-i hast ke kamtar kas-i ān rā mi-binad.",
-     "en": "In one of the dark passages of Tehran's Grand Bazaar, between the carpet dealers and the herbalists, there is a small bookshop that hardly anyone notices."
+     "en": "In one of the dark passages of Tehran's Grand Bazaar, between the carpet dealers and the herbalists, there is a small bookshop that hardly anyone notices.",
+     "faV": "دَر یِکی اَز راسته‌هایِ تاریکِ بازارِ بُزُرگِ تِهران، میانِ فَرش‌فُروش‌ها و عَطّاری‌ها، کِتاب‌فُروشیِ کوچَکی هَست که کَمتَر کَسی آن را می‌بینَد.",
+     "a": "649986a68e88"
     },
     {
      "fa": "صاحبش، آقای صبوری، نزدیک به پنجاه سال است که هر روز صبح کرکره‌ی دکان را بالا می‌زند و تا غروب پشت پیشخوان چوبی‌اش می‌نشیند.",
      "r": "sāheb-ash, āghā-ye Saburi, nazdik be panjāh sāl ast ke har ruz sobh kerkere-ye dokkān rā bālā mi-zanad o tā ghorub posht-e pishkhān-e chubi-ash mi-neshinad.",
-     "en": "Its owner, Mr Saburi, has been pulling up the shop's shutter every morning for nearly fifty years and sitting behind his wooden counter until sunset."
+     "en": "Its owner, Mr Saburi, has been pulling up the shop's shutter every morning for nearly fifty years and sitting behind his wooden counter until sunset.",
+     "faV": "صاحِبَش، آقایِ صَبوری، نَزدیک به پَنجاه سال اَست که هَر روز صُبح کِرکِره‌یِ دُکّان را بالا می‌زَنَد و تا غُروب پُشتِ پیشخوانِ چوبی‌اَش می‌نِشینَد.",
+     "a": "a3fe3edb08e7"
     },
     {
      "fa": "عینکش به کلفتی ته استکان است، و چون کمتر از دکان نیمه‌تاریکش بیرون می‌آید، شاگردهای بازار او را «بوف کور بازار» صدا می‌زنند.",
      "r": "eynak-ash be kolofti-ye tah-e estekān ast, va chon kamtar az dokkān-e nime-tārik-ash birun mi-āyad, shāgerd-hā-ye bāzār u rā «buf-e kur-e bāzār» sedā mi-zanand.",
-     "en": "His glasses are as thick as the bottom of a tea glass, and because he seldom leaves his half-dark shop, the bazaar apprentices call him \"the blind owl of the bazaar\"."
+     "en": "His glasses are as thick as the bottom of a tea glass, and because he seldom leaves his half-dark shop, the bazaar apprentices call him \"the blind owl of the bazaar\".",
+     "faV": "عَینَکَش به کُلُفتیِ تَهِ اِستِکان اَست، و چون کَمتَر اَز دُکّانِ نیمه‌تاریکَش بیرون می‌آیَد، شاگِردهایِ بازار او را «بوفِ کورِ بازار» صِدا می‌زَنَند.",
+     "a": "b2810b398f72"
     },
     {
      "fa": "خودش از این لقب بدش نمی‌آید؛ می‌گوید: «بوف کور بهترین رمان فارسی است، و من هم کور نیستم، فقط کم‌سو هستم.»",
      "r": "khod-ash az in laghab bad-ash nemi-āyad; mi-guyad: «buf-e kur behtarin romān-e fārsi ast, va man ham kur nistam, faghat kam-su hastam.»",
-     "en": "He does not mind the nickname. \"The Blind Owl is the finest Persian novel,\" he says, \"and I'm not blind anyway – just short-sighted.\""
+     "en": "He does not mind the nickname. \"The Blind Owl is the finest Persian novel,\" he says, \"and I'm not blind anyway – just short-sighted.\"",
+     "faV": "خودَش اَز این لَقَب بَدَش نِمی‌آیَد؛ می‌گویَد: «بوفِ کور بِهتَرین رُمانِ فارسی اَست، و مَن هَم کور نیستَم، فَقَط کَم‌سو هَستَم.»",
+     "a": "94097e39ba96"
     }
    ]
   },
@@ -38,17 +46,23 @@
     {
      "fa": "یک بعد از ظهر پاییزی، دختری جوان با چتری خیس وارد دکان شد و سلام کرد.",
      "r": "yek ba'd az zohr-e pāyizi, dokhtar-i javān bā chatr-i khis vāred-e dokkān shod o salām kard.",
-     "en": "One autumn afternoon a young woman with a wet umbrella came into the shop and said hello."
+     "en": "One autumn afternoon a young woman with a wet umbrella came into the shop and said hello.",
+     "faV": "یِک بَعد اَز ظُهرِ پاییزی، دُختَری جَوان با چَتری خیس وارِدِ دُکّان شُد و سَلام کَرد.",
+     "a": "dcf87127f2b6"
     },
     {
      "fa": "نامش مهتاب بود، در دانشگاه تهران ادبیات فارسی می‌خواند و استادش از دانشجویان خواسته بود که درباره‌ی رمان معروف صادق هدایت، «بوف کور»، مقاله‌ای بنویسند.",
      "r": "nām-ash Mahtāb bud, dar dāneshgāh-e Tehrān adabiyāt-e fārsi mi-khānd o ostād-ash az dāneshjuyān khāste bud ke darbāre-ye romān-e ma'ruf-e Sādegh Hedāyat, «buf-e kur», maghāle-i be-nevisand.",
-     "en": "Her name was Mahtab; she was studying Persian literature at the University of Tehran, and her professor had asked the students to write an essay on Sadegh Hedayat's famous novel, The Blind Owl."
+     "en": "Her name was Mahtab; she was studying Persian literature at the University of Tehran, and her professor had asked the students to write an essay on Sadegh Hedayat's famous novel, The Blind Owl.",
+     "faV": "نامَش مَهتاب بود، دَر دانِشگاهِ تِهران اَدَبیاتِ فارسی می‌خواند و اُستادَش اَز دانِشجویان خواسته بود که دَرباره‌یِ رُمانِ مَعروفِ صادِق هِدایَت، «بوفِ کور»، مَقاله‌ای بِنِویسَند.",
+     "a": "619025637836"
     },
     {
      "fa": "گفت: «چاپ تازه‌اش در کتاب‌فروشی‌های خیابان انقلاب تمام شده است. اگر نسخه‌ای کهنه و ارزان داشته باشید، ممنون می‌شوم.»",
      "r": "goft: «chāp-e tāze-ash dar ketāb-forushi-hā-ye khiyābān-e Enghelāb tamām shode ast. agar noskhe-i kohne o arzān dāshte bāshid, mamnun mi-shavam.»",
-     "en": "She said: \"The new printing has sold out in the bookshops on Enghelab Street. If you have an old, cheap copy, I'd be very grateful.\""
+     "en": "She said: \"The new printing has sold out in the bookshops on Enghelab Street. If you have an old, cheap copy, I'd be very grateful.\"",
+     "faV": "گُفت: «چاپِ تازه‌اَش دَر کِتاب‌فُروشی‌هایِ خیابانِ اِنقِلاب تَمام شُده اَست. اَگَر نُسخه‌ای کُهنه و اَرزان داشته باشید، مَمنون می‌شَوَم.»",
+     "a": "a39283fc905e"
     }
    ]
   },
@@ -57,17 +71,23 @@
     {
      "fa": "آقای صبوری مدتی بی‌حرکت به او نگاه کرد، گویی می‌خواست بداند که این دختر چه‌قدر جدی است.",
      "r": "āghā-ye Saburi moddat-i bi-harakat be u negāh kard, guyi mi-khāst be-dānad ke in dokhtar che-ghadr jeddi ast.",
-     "en": "Mr Saburi looked at her for a while without moving, as if he wanted to know how serious this girl was."
+     "en": "Mr Saburi looked at her for a while without moving, as if he wanted to know how serious this girl was.",
+     "faV": "آقایِ صَبوری مُدَّتی بی‌حَرَکَت به او نِگاه کَرد، گویی می‌خواست بِدانَد که این دُختَر چه‌قَدر جِدّی اَست.",
+     "a": "906a5ca475a1"
     },
     {
      "fa": "سپس از جا برخاست، کلیدی از جیب جلیقه‌اش درآورد و کشوی قفل‌شده‌ای را زیر پیشخوان باز کرد.",
      "r": "sepas az jā bar-khāst, kelid-i az jib-e jelighe-ash dar-āvard o keshow-ye ghofl-shode-i rā zir-e pishkhān bāz kard.",
-     "en": "Then he got up, took a key from his waistcoat pocket, and unlocked a drawer under the counter."
+     "en": "Then he got up, took a key from his waistcoat pocket, and unlocked a drawer under the counter.",
+     "faV": "سِپَس اَز جا بَرخاست، کِلیدی اَز جیبِ جِلیقه‌اَش دَرآوَرد و کِشَویِ قُفل‌شُده‌ای را زیرِ پیشخوان باز کَرد.",
+     "a": "e073e714dbd6"
     },
     {
      "fa": "از آن کتابی بیرون آورد که در پارچه‌ای سبز پیچیده شده بود: جلدش پاره بود، برگ‌هایش زرد شده بود و در حاشیه‌ها یادداشت‌هایی با مداد کم‌رنگ نوشته شده بود.",
      "r": "az ān ketāb-i birun āvard ke dar pārche-i sabz pichide shode bud: jeld-ash pāre bud, barg-hā-yash zard shode bud o dar hāshiye-hā yād-dāsht-hā-yi bā medād-e kam-rang neveshte shode bud.",
-     "en": "From it he took out a book wrapped in a piece of green cloth: its cover was torn, its pages had turned yellow, and notes had been written in the margins in faint pencil."
+     "en": "From it he took out a book wrapped in a piece of green cloth: its cover was torn, its pages had turned yellow, and notes had been written in the margins in faint pencil.",
+     "faV": "اَز آن کِتابی بیرون آوَرد که دَر پارچه‌ای سَبز پیچیده شُده بود: جِلدَش پاره بود، بَرگ‌هایَش زَرد شُده بود و دَر حاشیه‌ها یادداشت‌هایی با مِدادِ کَم‌رَنگ نِوِشته شُده بود.",
+     "a": "259997785046"
     }
    ]
   },
@@ -76,22 +96,30 @@
     {
      "fa": "آقای صبوری کتاب را روی پیشخوان گذاشت و آرام گفت که هدایت این رمان را در سال ۱۳۱۵، هنگامی که در هند بود، به خط خودش در حدود پنجاه نسخه در بمبئی تکثیر کرد.",
      "r": "āghā-ye Saburi ketāb rā ru-ye pishkhān gozāsht o ārām goft ke Hedāyat in romān rā dar sāl-e hezār-o-sisad-o-pānzdah, hengām-i ke dar Hend bud, be khatt-e khod-ash dar hodud-e panjāh noskhe dar Bamba'i taksir kard.",
-     "en": "Mr Saburi laid the book on the counter and said quietly that in 1936, while he was in India, Hedayat had written this novel out in his own hand and run off about fifty copies of it in Bombay."
+     "en": "Mr Saburi laid the book on the counter and said quietly that in 1936, while he was in India, Hedayat had written this novel out in his own hand and run off about fifty copies of it in Bombay.",
+     "faV": "آقایِ صَبوری کِتاب را رویِ پیشخوان گُذاشت و آرام گُفت که هِدایَت این رُمان را دَر سالِ ۱۳۱۵، هِنگامی که دَر هِند بود، به خَطِّ خودَش دَر حُدودِ پَنجاه نُسخه دَر بَمبَئی تَکثیر کَرد.",
+     "a": "a1ca7d128ce9"
     },
     {
      "fa": "او روی نسخه‌ها نوشته بود که چاپ و فروششان در ایران ممنوع است، و از این رو بیشتر ایرانیان تنها چند سال بعد توانستند آن را بخوانند.",
      "r": "u ru-ye noskhe-hā neveshte bud ke chāp o forush-eshān dar Irān mamnu' ast, va az in ru bishtar-e irāniyān tanhā chand sāl ba'd tavānestand ān rā be-khānand.",
-     "en": "He had written on the copies that printing or selling them in Iran was forbidden, and so most Iranians were able to read it only some years later."
+     "en": "He had written on the copies that printing or selling them in Iran was forbidden, and so most Iranians were able to read it only some years later.",
+     "faV": "او رویِ نُسخه‌ها نِوِشته بود که چاپ و فُروشِشان دَر ایران مَمنوع اَست، و اَز این رو بیشتَرِ ایرانیان تَنها چَند سال بَعد تَوانِستَند آن را بِخوانَند.",
+     "a": "4d595e39fb30"
     },
     {
      "fa": "راوی رمان نقاشی تنهاست که روی جلد قلمدان‌ها نقاشی می‌کند و همیشه یک صحنه را می‌کشد: پیرمردی زیر درخت سروی نشسته است و دختری سیاه‌پوش، از آن سوی جوی آبی، گل نیلوفر کبودی به او می‌دهد.",
      "r": "rāvi-ye romān naghghāsh-i tanhā-st ke ru-ye jeld-e ghalamdān-hā naghghāshi mi-konad o hamishe yek sahne rā mi-keshad: pir-mard-i zir-e derakht-e sarv-i neshaste ast o dokhtar-i siyāh-push, az ān su-ye ju-ye āb-i, gol-e nilufar-e kabud-i be u mi-dahad.",
-     "en": "The novel's narrator is a lonely painter who decorates the covers of pen-cases and always paints the same scene: an old man sitting under a cypress tree, and a girl in black offering him a blue water-lily from the other side of a stream."
+     "en": "The novel's narrator is a lonely painter who decorates the covers of pen-cases and always paints the same scene: an old man sitting under a cypress tree, and a girl in black offering him a blue water-lily from the other side of a stream.",
+     "faV": "راویِ رُمان نَقّاشی تَنهاست که رویِ جِلدِ قَلَمدان‌ها نَقّاشی می‌کُنَد و هَمیشه یِک صَحنه را می‌کِشَد: پیرمَردی زیرِ دِرَختِ سَروی نِشَسته اَست و دُختَری سیاه‌پوش، اَز آن سویِ جویِ آبی، گُلِ نیلوفَرِ کَبودی به او می‌دَهَد.",
+     "a": "a60dcacfc09a"
     },
     {
      "fa": "این کتاب به کابوسی می‌ماند که در آن زمان‌ها و آدم‌ها در هم می‌آمیزند، و راوی داستانش را تنها برای سایه‌ی خود می‌نویسد که بر دیوار افتاده و به جغدی می‌ماند.",
      "r": "in ketāb be kābus-i mi-mānad ke dar ān zamān-hā o ādam-hā dar ham mi-āmizand, va rāvi dāstān-ash rā tanhā barā-ye sāye-ye khod mi-nevisad ke bar divār oftāde o be joghd-i mi-mānad.",
-     "en": "The book is like a nightmare in which times and people melt into one another, and the narrator writes his story only for his own shadow, which falls on the wall and looks like an owl."
+     "en": "The book is like a nightmare in which times and people melt into one another, and the narrator writes his story only for his own shadow, which falls on the wall and looks like an owl.",
+     "faV": "این کِتاب به کابوسی می‌مانَد که دَر آن زَمان‌ها و آدَم‌ها دَر هَم می‌آمیزَند، و راوی داستانَش را تَنها بَرایِ سایه‌یِ خود می‌نِویسَد که بَر دیوار اُفتاده و به جُغدی می‌مانَد.",
+     "a": "6a48d4030b82"
     }
    ]
   },
@@ -100,27 +128,37 @@
     {
      "fa": "مهتاب پرسید: «قیمتش چند است؟»",
      "r": "Mahtāb porsid: «gheymat-ash chand ast?»",
-     "en": "Mahtab asked: \"How much is it?\""
+     "en": "Mahtab asked: \"How much is it?\"",
+     "faV": "مَهتاب پُرسید: «قَیمَتَش چَند اَست؟»",
+     "a": "30c464063134"
     },
     {
      "fa": "پیرمرد سر تکان داد و گفت: «این را نمی‌فروشم. شصت سال پیش، وقتی دانشجو بودم، آن را از همین دکان خریدم، و این یادداشت‌ها را خودم نوشته‌ام.»",
      "r": "pir-mard sar tekān dād o goft: «in rā nemi-forusham. shast sāl pish, vaghti dāneshju budam, ān rā az hamin dokkān kharidam, va in yād-dāsht-hā rā khod-am neveshte-am.»",
-     "en": "The old man shook his head and said: \"This one I don't sell. Sixty years ago, when I was a student, I bought it in this very shop, and I wrote these notes myself.\""
+     "en": "The old man shook his head and said: \"This one I don't sell. Sixty years ago, when I was a student, I bought it in this very shop, and I wrote these notes myself.\"",
+     "faV": "پیرمَرد سَر تِکان داد و گُفت: «این را نِمی‌فُروشَم. شَصت سال پیش، وَقتی دانِشجو بودَم، آن را اَز هَمین دُکّان خَریدَم، و این یادداشت‌ها را خودَم نِوِشته‌اَم.»",
+     "a": "ced001d65e99"
     },
     {
      "fa": "مهتاب دلسرد شد و چترش را برداشت تا برود.",
      "r": "Mahtāb delsard shod o chatr-ash rā bar-dāsht tā be-ravad.",
-     "en": "Mahtab's face fell, and she picked up her umbrella to leave."
+     "en": "Mahtab's face fell, and she picked up her umbrella to leave.",
+     "faV": "مَهتاب دِلسَرد شُد و چَترَش را بَرداشت تا بِرَوَد.",
+     "a": "bcb736ae6573"
     },
     {
      "fa": "اما آقای صبوری صدایش کرد: «صبر کن. نمی‌فروشمش، ولی می‌توانم آن را به تو امانت بدهم، به یک شرط.»",
      "r": "ammā āghā-ye Saburi sedā-yash kard: «sabr kon. nemi-forusham-ash, vali mi-tavānam ān rā be to amānat be-daham, be yek shart.»",
-     "en": "But Mr Saburi called her back: \"Wait. I won't sell it, but I can lend it to you – on one condition.\""
+     "en": "But Mr Saburi called her back: \"Wait. I won't sell it, but I can lend it to you – on one condition.\"",
+     "faV": "اَمّا آقایِ صَبوری صِدایَش کَرد: «صَبر کُن. نِمی‌فُروشَمَش، وَلی می‌تَوانَم آن را به تو اَمانَت بِدَهَم، به یِک شَرط.»",
+     "a": "fd257a9cf9a1"
     },
     {
      "fa": "شرطش این بود که مهتاب کتاب را تا یک ماه دیگر پس بیاورد، هر چه می‌خواهد با مداد در کنار یادداشت‌های او بنویسد، و برایش تعریف کند که از آن چه فهمیده است.",
      "r": "shart-ash in bud ke Mahtāb ketāb rā tā yek māh-e digar pas biyāvarad, har che mi-khāhad bā medād dar kenār-e yād-dāsht-hā-ye u be-nevisad, va barā-yash ta'rif konad ke az ān che fahmide ast.",
-     "en": "His condition was that Mahtab should bring the book back within a month, write whatever she liked in pencil beside his notes, and tell him what she had understood from it."
+     "en": "His condition was that Mahtab should bring the book back within a month, write whatever she liked in pencil beside his notes, and tell him what she had understood from it.",
+     "faV": "شَرطَش این بود که مَهتاب کِتاب را تا یِک ماهِ دیگَر پَس بیاوَرَد، هَر چه می‌خواهَد با مِداد دَر کِنارِ یادداشت‌هایِ او بِنِویسَد، و بَرایَش تَعریف کُنَد که اَز آن چه فَهمیده اَست.",
+     "a": "c409ce7febc4"
     }
    ]
   },
@@ -129,84 +167,240 @@
     {
      "fa": "یک ماه بعد، مهتاب با کتاب برگشت.",
      "r": "yek māh ba'd, Mahtāb bā ketāb bar-gasht.",
-     "en": "A month later, Mahtab came back with the book."
+     "en": "A month later, Mahtab came back with the book.",
+     "faV": "یِک ماه بَعد، مَهتاب با کِتاب بَرگَشت.",
+     "a": "73a995d7484b"
     },
     {
      "fa": "چشمانش از بی‌خوابی سرخ بود؛ گفت که چند شب نتوانسته است بخوابد، و هرچند هنوز همه‌ی کتاب را نفهمیده، احساس می‌کند که کتاب او را فهمیده است.",
      "r": "cheshmān-ash az bi-khābi sorkh bud; goft ke chand shab na-tavāneste ast be-khābad, va harchand hanuz hame-ye ketāb rā na-fahmide, ehsās mi-konad ke ketāb u rā fahmide ast.",
-     "en": "Her eyes were red from lack of sleep; she said she had not been able to sleep for several nights, and that although she still had not understood the whole book, she felt that the book had understood her."
+     "en": "Her eyes were red from lack of sleep; she said she had not been able to sleep for several nights, and that although she still had not understood the whole book, she felt that the book had understood her.",
+     "faV": "چِشمانَش اَز بی‌خوابی سُرخ بود؛ گُفت که چَند شَب نَتَوانِسته اَست بِخوابَد، و هَرچَند هَنوز هَمه‌یِ کِتاب را نَفَهمیده، اِحساس می‌کُنَد که کِتاب او را فَهمیده اَست.",
+     "a": "76d2b47c0a03"
     },
     {
      "fa": "آقای صبوری کتاب را ورق زد: کنار خط کم‌رنگ و لرزان او، اکنون خطی تازه و ریز دیده می‌شد.",
      "r": "āghā-ye Saburi ketāb rā varagh zad: kenār-e khatt-e kam-rang o larzān-e u, aknun khatt-i tāze o riz dide mi-shod.",
-     "en": "Mr Saburi leafed through the book: beside his own faint, shaky handwriting there was now a new, small, neat one."
+     "en": "Mr Saburi leafed through the book: beside his own faint, shaky handwriting there was now a new, small, neat one.",
+     "faV": "آقایِ صَبوری کِتاب را وَرَق زَد: کِنارِ خَطِّ کَم‌رَنگ و لَرزانِ او، اَکنون خَطّی تازه و ریز دیده می‌شُد.",
+     "a": "97332f82e775"
     },
     {
      "fa": "لبخندی زد که شاگردهای بازار سال‌ها بر لب او ندیده بودند، و گفت: «کتاب‌ها هم مثل راسته‌های این بازارند؛ هر کس از آن‌ها می‌گذرد، رد پایی بر جا می‌گذارد.»",
      "r": "labkhand-i zad ke shāgerd-hā-ye bāzār sāl-hā bar lab-e u na-dide budand, va goft: «ketāb-hā ham mesl-e rāste-hā-ye in bāzār-and; har kas az ān-hā mi-gozarad, radd-e pā-yi bar jā mi-gozārad.»",
-     "en": "He gave a smile the bazaar apprentices had not seen on his face for years, and said: \"Books are like the passages of this bazaar: everyone who passes through leaves a footprint behind.\""
+     "en": "He gave a smile the bazaar apprentices had not seen on his face for years, and said: \"Books are like the passages of this bazaar: everyone who passes through leaves a footprint behind.\"",
+     "faV": "لَبخَندی زَد که شاگِردهایِ بازار سال‌ها بَر لَبِ او نَدیده بودَند، و گُفت: «کِتاب‌ها هَم مِثلِ راسته‌هایِ این بازارَند؛ هَر کَس اَز آن‌ها می‌گُذَرَد، رَدِّ پایی بَر جا می‌گُذارَد.»",
+     "a": "b49755a62ca4"
     },
     {
      "fa": "سپس کتاب را دوباره در پارچه‌ی سبز پیچید و به مهتاب داد: «این دیگر مال توست. فقط روزی آن را به کسی بده که لایقش باشد.»",
      "r": "sepas ketāb rā dobāre dar pārche-ye sabz pichid o be Mahtāb dād: «in digar māl-e to-st. faghat ruz-i ān rā be kas-i be-deh ke lāyegh-ash bāshad.»",
-     "en": "Then he wrapped the book in the green cloth again and handed it to Mahtab: \"It's yours now. Only, one day, give it to someone who deserves it.\""
+     "en": "Then he wrapped the book in the green cloth again and handed it to Mahtab: \"It's yours now. Only, one day, give it to someone who deserves it.\"",
+     "faV": "سِپَس کِتاب را دوباره دَر پارچه‌یِ سَبز پیچید و به مَهتاب داد: «این دیگَر مالِ توست. فَقَط روزی آن را به کَسی بِدِه که لایِقَش باشَد.»",
+     "a": "25e300f41693"
     }
    ]
   }
  ],
  "vocab": [
-  {"fa": "راسته", "r": "rāste", "en": "row of shops, passage (in a bazaar)"},
-  {"fa": "عطاری", "r": "attāri", "en": "herbalist's shop"},
-  {"fa": "کرکره", "r": "kerkere", "en": "roller shutter"},
-  {"fa": "پیشخوان", "r": "pishkhān", "en": "counter (in a shop)"},
-  {"fa": "کم‌سو", "r": "kam-su", "en": "weak-sighted (literally 'of little light')"},
-  {"fa": "نسخه", "r": "noskhe", "en": "copy (of a book); manuscript"},
-  {"fa": "کشو", "r": "keshow", "en": "drawer"},
-  {"fa": "حاشیه", "r": "hāshiye", "en": "margin"},
-  {"fa": "یادداشت", "r": "yād-dāsht", "en": "note"},
-  {"fa": "تکثیر کردن", "r": "taksir kardan", "en": "to make copies, to reproduce"},
-  {"fa": "راوی", "r": "rāvi", "en": "narrator"},
-  {"fa": "قلمدان", "r": "ghalamdān", "en": "pen-case (often painted and lacquered)"},
-  {"fa": "کابوس", "r": "kābus", "en": "nightmare"},
-  {"fa": "در هم آمیختن", "r": "dar ham āmikhtan", "en": "to blend into one another"},
-  {"fa": "به … ماندن", "r": "be … māndan", "en": "to resemble, to look like (literary)"},
-  {"fa": "دلسرد", "r": "delsard", "en": "disheartened, disappointed"},
-  {"fa": "امانت دادن", "r": "amānat dādan", "en": "to lend, to entrust"},
-  {"fa": "بی‌خوابی", "r": "bi-khābi", "en": "sleeplessness"},
-  {"fa": "ورق زدن", "r": "varagh zadan", "en": "to leaf through"},
-  {"fa": "لایق", "r": "lāyegh", "en": "worthy, deserving"}
+  {
+   "fa": "راسته",
+   "r": "rāste",
+   "en": "row of shops, passage (in a bazaar)",
+   "faV": "راسته",
+   "a": "6bee51a1abcc"
+  },
+  {
+   "fa": "عطاری",
+   "r": "attāri",
+   "en": "herbalist's shop",
+   "faV": "عَطّاری",
+   "a": "05e01a61288c"
+  },
+  {
+   "fa": "کرکره",
+   "r": "kerkere",
+   "en": "roller shutter",
+   "faV": "کِرکِره",
+   "a": "99f4acab82b1"
+  },
+  {
+   "fa": "پیشخوان",
+   "r": "pishkhān",
+   "en": "counter (in a shop)",
+   "faV": "پیشخوان",
+   "a": "0eaa48f2d57e"
+  },
+  {
+   "fa": "کم‌سو",
+   "r": "kam-su",
+   "en": "weak-sighted (literally 'of little light')",
+   "faV": "کَم‌سو",
+   "a": "dce1a9336ca9"
+  },
+  {
+   "fa": "نسخه",
+   "r": "noskhe",
+   "en": "copy (of a book); manuscript",
+   "faV": "نُسخه",
+   "a": "be9846965a66"
+  },
+  {
+   "fa": "کشو",
+   "r": "keshow",
+   "en": "drawer",
+   "faV": "کِشَو",
+   "a": "0cf8d7e6ffc7"
+  },
+  {
+   "fa": "حاشیه",
+   "r": "hāshiye",
+   "en": "margin",
+   "faV": "حاشیه",
+   "a": "19c9e7a80d84"
+  },
+  {
+   "fa": "یادداشت",
+   "r": "yād-dāsht",
+   "en": "note",
+   "faV": "یادداشت",
+   "a": "2c09d41caf47"
+  },
+  {
+   "fa": "تکثیر کردن",
+   "r": "taksir kardan",
+   "en": "to make copies, to reproduce",
+   "faV": "تَکثیر کَردَن",
+   "a": "4af6b3c1e8b4"
+  },
+  {
+   "fa": "راوی",
+   "r": "rāvi",
+   "en": "narrator",
+   "faV": "راوی",
+   "a": "0fb1fef78997"
+  },
+  {
+   "fa": "قلمدان",
+   "r": "ghalamdān",
+   "en": "pen-case (often painted and lacquered)",
+   "faV": "قَلَمدان",
+   "a": "42b9709b741d"
+  },
+  {
+   "fa": "کابوس",
+   "r": "kābus",
+   "en": "nightmare",
+   "faV": "کابوس",
+   "a": "59b6ab3a3d1a"
+  },
+  {
+   "fa": "در هم آمیختن",
+   "r": "dar ham āmikhtan",
+   "en": "to blend into one another",
+   "faV": "دَر هَم آمیختَن",
+   "a": "bcfc76e64b0c"
+  },
+  {
+   "fa": "به … ماندن",
+   "r": "be … māndan",
+   "en": "to resemble, to look like (literary)",
+   "faV": "به … ماندَن",
+   "a": "e553f841f324"
+  },
+  {
+   "fa": "دلسرد",
+   "r": "delsard",
+   "en": "disheartened, disappointed",
+   "faV": "دِلسَرد",
+   "a": "85ca421873b1"
+  },
+  {
+   "fa": "امانت دادن",
+   "r": "amānat dādan",
+   "en": "to lend, to entrust",
+   "faV": "اَمانَت دادَن",
+   "a": "a0b1ffd6226f"
+  },
+  {
+   "fa": "بی‌خوابی",
+   "r": "bi-khābi",
+   "en": "sleeplessness",
+   "faV": "بی‌خوابی",
+   "a": "d0a919871f14"
+  },
+  {
+   "fa": "ورق زدن",
+   "r": "varagh zadan",
+   "en": "to leaf through",
+   "faV": "وَرَق زَدَن",
+   "a": "b5700a0ca1e2"
+  },
+  {
+   "fa": "لایق",
+   "r": "lāyegh",
+   "en": "worthy, deserving",
+   "faV": "لایِق",
+   "a": "a1518e31d24b"
+  }
  ],
  "questions": [
   {
    "q": "Why do the bazaar apprentices call Mr Saburi \"the blind owl of the bazaar\"?",
-   "options": ["he is completely blind", "his glasses are very thick and he seldom leaves his dim shop", "he only ever sells one book"],
+   "options": [
+    "he is completely blind",
+    "his glasses are very thick and he seldom leaves his dim shop",
+    "he only ever sells one book"
+   ],
    "answer": 1
   },
   {
    "q": "Why did Mahtab need The Blind Owl?",
-   "options": ["her professor had asked for an essay on it", "she wanted to give it as a present", "she collects old books"],
+   "options": [
+    "her professor had asked for an essay on it",
+    "she wanted to give it as a present",
+    "she collects old books"
+   ],
    "answer": 0
   },
   {
    "q": "How was the novel first published, according to Mr Saburi?",
-   "options": ["in a large printing in Tehran", "in Paris, in a French translation", "in Bombay, in about fifty copies in Hedayat's own handwriting"],
+   "options": [
+    "in a large printing in Tehran",
+    "in Paris, in a French translation",
+    "in Bombay, in about fifty copies in Hedayat's own handwriting"
+   ],
    "answer": 2
   },
   {
    "q": "What does the novel's narrator paint again and again?",
-   "options": ["an owl on a wall", "an old man under a cypress and a girl offering him a flower across a stream", "the passages of the bazaar"],
+   "options": [
+    "an owl on a wall",
+    "an old man under a cypress and a girl offering him a flower across a stream",
+    "the passages of the bazaar"
+   ],
    "answer": 1
   },
   {
    "q": "What was Mr Saburi's condition for lending the book?",
-   "options": ["she had to pay a deposit", "she must never write in it", "she had to bring it back within a month, add her own notes and tell him what she understood"],
+   "options": [
+    "she had to pay a deposit",
+    "she must never write in it",
+    "she had to bring it back within a month, add her own notes and tell him what she understood"
+   ],
    "answer": 2
   },
   {
    "q": "What did he do at the end?",
-   "options": ["he gave her the book and asked her to pass it on one day to someone who deserves it", "he sold it to her at half price", "he locked it away in the drawer again"],
+   "options": [
+    "he gave her the book and asked her to pass it on one day to someone who deserves it",
+    "he sold it to her at half price",
+    "he locked it away in the drawer again"
+   ],
    "answer": 0
   }
  ],
- "after": "Sadegh Hedayat (1903–1951) was a pioneer of modern Persian fiction, and The Blind Owl is the most famous – and most argued-about – Persian novel of the twentieth century. It reached Iranian readers in 1941, after Reza Shah's abdication, in instalments in a Tehran daily; Hedayat died in Paris ten years later. Notice the present with است که for something that has been going on for a time: نزدیک به پنجاه سال است که … بالا می‌زند 'he has been pulling up … for nearly fifty years'. Notice too the subjunctive in a polite request (اگر نسخه‌ای … داشته باشید، ممنون می‌شوم 'if you have…, I'd be grateful'), the object pronoun stuck to the verb in نمی‌فروشمش 'I won't sell it', the present perfect in reported speech (گفت که … نتوانسته است بخوابد), and the literary به … ماندن 'to look like': به کابوسی می‌ماند 'it is like a nightmare'."
+ "after": "Sadegh Hedayat (1903–1951) was a pioneer of modern Persian fiction, and The Blind Owl is the most famous – and most argued-about – Persian novel of the twentieth century. It reached Iranian readers in 1941, after Reza Shah's abdication, in instalments in a Tehran daily; Hedayat died in Paris ten years later. Notice the present with است که for something that has been going on for a time: نزدیک به پنجاه سال است که … بالا می‌زند 'he has been pulling up … for nearly fifty years'. Notice too the subjunctive in a polite request (اگر نسخه‌ای … داشته باشید، ممنون می‌شوم 'if you have…, I'd be grateful'), the object pronoun stuck to the verb in نمی‌فروشمش 'I won't sell it', the present perfect in reported speech (گفت که … نتوانسته است بخوابد), and the literary به … ماندن 'to look like': به کابوسی می‌ماند 'it is like a nightmare'.",
+ "titleV": "بوفِ کورِ بازار",
+ "titleA": "9daca138c242"
 }

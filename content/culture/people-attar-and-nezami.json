@@ -1,0 +1,76 @@
+{
+ "id": "people-attar-and-nezami",
+ "topic": "people",
+ "title": "Attar and Nezami",
+ "titleFa": "عطار و نظامی",
+ "titleR": "'Attār o Nezāmi",
+ "image": "attar",
+ "summary": "Two 12th-century poets who told the stories Persian literature has lived on ever since: Attar of Nishapur, whose birds set out to find their king, and Nezami of Ganja, whose five romances gave us Khosrow and Shirin and Leyli and Majnun.",
+ "body": [
+  {
+   "h": "The perfumer of Nishapur",
+   "md": "Farid al-Din Attar was born near [[نیشابور|Neyshābur|Nishapur]] around 1145. His name tells his trade: an [[عطار|'attār|perfumer, druggist]] sold perfumes, herbs and medicines, and Attar ran a pharmacy where, he tells us, he saw many patients a day while writing his poems. He became one of the great Sufi poets, the author of long mystical poems and of a prose collection of the lives of saints, the [[تذکرة‌الاولیا|Tazkerat-ol-owliyā|Memorial of the Saints]]. He died around 1221 – according to tradition, killed when the Mongols took Nishapur.",
+   "image": "nishapur"
+  },
+  {
+   "h": "The Conference of the Birds",
+   "md": "Attar's masterpiece is the [[منطق‌الطیر|Manteq-ot-teyr|the Language of the Birds]], known in English as *The Conference of the Birds*. The birds of the world gather to find a king, and the [[هدهد|hodhod|hoopoe]] tells them of the [[سیمرغ|Simorgh]], who lives beyond the mountain of Qaf. One by one they make excuses – the nightingale cannot leave the rose, the peacock wants paradise, the duck will not leave the water – and the hoopoe answers each with a story.\n\nThe travellers cross seven [[وادی|vādi|valleys]]: quest, love, knowledge, detachment, unity, bewilderment, and poverty and annihilation. Of thousands that set out, only thirty reach the Simorgh's court, and there they discover that they themselves are the Simorgh – for in Persian [[سی مرغ|si morgh|thirty birds]] sounds just like Simorgh.",
+   "image": "simurgh"
+  },
+  {
+   "h": "Nezami of Ganja",
+   "md": "Nezami was born around 1141 in [[گنجه|Ganje|Ganja]] in the Caucasus, today in the Republic of Azerbaijan, and seems to have spent almost his whole life there. Unlike many poets he did not live at court; he wrote for distant princes, who sent gifts in return. Ganja then belonged to the Persian-speaking world, and Nezami wrote entirely in Persian, in a rich, image-filled style that later poets found hard to equal. Today Azerbaijan honours him as a national poet, and Iran as one of the masters of Persian verse. He died around 1209.",
+   "image": "nizami"
+  },
+  {
+   "h": "The Khamseh",
+   "md": "Nezami's five long poems are known as the [[خمسه|Khamse|the Quintet]] or the [[پنج گنج|panj ganj|Five Treasures]]:\n\n- *Makhzan al-Asrar* ('The Treasury of Mysteries'), a book of moral teaching;\n- *Khosrow and Shirin*, the love of a Sasanian king for an Armenian princess – and of Farhad, the stonecutter who carves through Mount Bisotun for her;\n- *Leyli and Majnun*, an Arab tale of a young man driven mad by love;\n- *Haft Peykar* ('Seven Beauties'), in which King Bahram Gur visits seven princesses in seven domes of seven colours, and each tells him a story – one of them an early version of the tale Europe knows as Turandot;\n- the *Eskandar-nāme*, the life of Alexander the Great.",
+   "image": "khamsa-nizami"
+  },
+  {
+   "h": "Their legacy",
+   "md": "Both poets shaped everything that came after. Rumi is said to have revered Attar, and Persian Sufi poetry is full of his birds and valleys. Nezami's Khamseh was imitated by Amir Khosrow of Delhi, Jami of Herat and the Turkic poet Navai, and it became one of the most often illustrated books in Persian painting. His lovers live on in everyday speech: a devoted couple are [[لیلی و مجنون|Leyli o Majnun]], and Farhad the [[کوه‌کن|kuh-kan|mountain-digger]] stands for anyone who toils impossibly hard for love. Attar's tomb, like Khayyam's, stands in a garden in Nishapur."
+  }
+ ],
+ "sentences": [
+  {"fa": "عطار در نیشابور داروخانه داشت.", "r": "'Attār dar Neyshābur dārukhāne dāsht.", "en": "Attar had a pharmacy in Nishapur."},
+  {"fa": "«عطار» یعنی کسی که عطر و دارو می‌فروشد.", "r": "«'Attār» ya'ni kas-i ke 'atr va dāru mi-forushad.", "en": "'Attar' means someone who sells perfume and medicines."},
+  {"fa": "در کتاب عطار، پرندگان به دنبال سیمرغ می‌روند.", "r": "dar ketāb-e 'Attār, parandegān be donbāl-e Simorgh mi-ravand.", "en": "In Attar's book, the birds go in search of the Simorgh."},
+  {"fa": "هدهد راهنمای پرندگان است.", "r": "hodhod rāhnamā-ye parandegān ast.", "en": "The hoopoe is the birds' guide."},
+  {"fa": "فقط سی پرنده به کوه قاف رسیدند.", "r": "faghat si parande be kuh-e Ghāf residand.", "en": "Only thirty birds reached Mount Qaf."},
+  {"fa": "«سیمرغ» و «سی مرغ» بازی با کلمات است.", "r": "«Simorgh» va «si morgh» bāzi bā kalamāt ast.", "en": "'Simorgh' and 'si morgh' (thirty birds) are a play on words."},
+  {"fa": "نظامی تقریباً تمام عمرش را در گنجه گذراند.", "r": "Nezāmi taghriban tamām-e 'omr-ash rā dar Ganje gozarānd.", "en": "Nezami spent almost his whole life in Ganja."},
+  {"fa": "گنجه امروز در جمهوری آذربایجان است.", "r": "Ganje emruz dar jomhuri-ye Āzarbāyjān ast.", "en": "Ganja is in the Republic of Azerbaijan today."},
+  {"fa": "نظامی شعرهایش را به فارسی سرود.", "r": "Nezāmi she'r-hā-yash rā be fārsi sorud.", "en": "Nezami composed his poems in Persian."},
+  {"fa": "خمسه‌ی نظامی پنج منظومه دارد.", "r": "Khamse-ye Nezāmi panj manzume dārad.", "en": "Nezami's Khamseh is made up of five long poems."},
+  {"fa": "لیلی و مجنون یک داستان عاشقانه‌ی غمگین است.", "r": "Leyli va Majnun yek dāstān-e 'āsheghāne-ye ghamgin ast.", "en": "Leyli and Majnun is a sad love story."},
+  {"fa": "فرهاد برای شیرین کوه بیستون را کند.", "r": "Farhād barā-ye Shirin kuh-e Bisotun rā kand.", "en": "Farhad dug through Mount Bisotun for Shirin."}
+ ],
+ "vocab": [
+  {"fa": "عطار", "r": "'attār", "en": "perfumer, druggist"},
+  {"fa": "عطر", "r": "'atr", "en": "perfume"},
+  {"fa": "داروخانه", "r": "dārukhāne", "en": "pharmacy"},
+  {"fa": "پرنده", "r": "parande", "en": "bird"},
+  {"fa": "هدهد", "r": "hodhod", "en": "hoopoe"},
+  {"fa": "سیمرغ", "r": "simorgh", "en": "the Simorgh, a mythical bird"},
+  {"fa": "وادی", "r": "vādi", "en": "valley; (in Sufi poetry) a stage of the journey"},
+  {"fa": "جست‌وجو", "r": "jost-o-ju", "en": "search, quest"},
+  {"fa": "راهنما", "r": "rāhnamā", "en": "guide"},
+  {"fa": "عاشقانه", "r": "'āsheghāne", "en": "romantic, about love"},
+  {"fa": "منظومه", "r": "manzume", "en": "long narrative poem"},
+  {"fa": "گنج", "r": "ganj", "en": "treasure"},
+  {"fa": "شاهزاده", "r": "shāhzāde", "en": "prince, princess"},
+  {"fa": "دیوانه", "r": "divāne", "en": "mad, crazy"},
+  {"fa": "کوه", "r": "kuh", "en": "mountain"},
+  {"fa": "نقاشی", "r": "naghghāshi", "en": "painting"}
+ ],
+ "facts": [
+  "Attar was born near Nishapur around 1145 and died around 1221, perhaps when the Mongols took the city.",
+  "In the Conference of the Birds, thirty birds – si morgh – reach the Simorgh and find that they are the Simorgh.",
+  "Nezami was born in Ganja around 1141 and died there around 1209.",
+  "The five poems of the Khamseh are Makhzan al-Asrar, Khosrow and Shirin, Leyli and Majnun, Haft Peykar and the Eskandar-nameh.",
+  "Amir Khosrow of Delhi, Jami and Navai all wrote their own sets of five poems in imitation of Nezami.",
+  "A celebrated illustrated Khamseh made for Shah Tahmasp in 1539–43 is now in the British Library.",
+  "Majnun, the name of Leyli's lover, means 'possessed' or 'mad' in Arabic."
+ ]
+}

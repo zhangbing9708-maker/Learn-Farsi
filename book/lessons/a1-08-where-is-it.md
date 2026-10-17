@@ -285,10 +285,10 @@ If you get lost, ask. Iranians give directions generously – often with a long 
 
 **Put the words in order**
 
-1. است. / کنار / داروخانه / بانک — The pharmacy is next to the bank.
-2. ایستگاه / کجاست؟ / مترو — Where is the metro station?
-3. کتاب / میز / هست. / روی / یک — There is a book on the table.
-4. مدرسه / است. / مسجد / پشت — The school is behind the mosque.
+1. بانک / کنار / داروخانه / است. — The pharmacy is next to the bank.
+2. مترو / کجاست؟ / ایستگاه — Where is the metro station?
+3. یک / کتاب / هست. / روی / میز — There is a book on the table.
+4. پشت / مسجد / مدرسه / است. — The school is behind the mosque.
 
 <details><summary>Answers</summary>
 

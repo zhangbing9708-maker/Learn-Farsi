@@ -41,57 +41,87 @@
    "r": "gorbe-ye irāni mu-ye boland va narm-i dārad.",
    "en": "The Persian cat has long, soft fur.",
    "col": "گربه‌ی ایرانی موی بلند و نرمی داره.",
-   "colR": "gorbe-ye irāni mu-ye boland o narm-i dāre."
+   "colR": "gorbe-ye irāni mu-ye boland o narm-i dāre.",
+   "faV": "گُربه‌یِ ایرانی مویِ بُلَند و نَرمی دارَد.",
+   "a": "9e3313f88b0b",
+   "colV": "گُربه‌یِ ایرانی مویِ بُلَند و نَرمی داره.",
+   "colA": "b617da47f67b"
   },
   {
    "fa": "ما در خانه یک گربه داریم.",
    "r": "mā dar khāne yek gorbe dārim.",
    "en": "We have a cat at home.",
    "col": "ما تو خونه یه گربه داریم.",
-   "colR": "mā tu khune ye gorbe dārim."
+   "colR": "mā tu khune ye gorbe dārim.",
+   "faV": "ما دَر خانه یِک گُربه داریم.",
+   "a": "32e06a994e9b",
+   "colV": "ما تو خونه یه گُربه داریم.",
+   "colA": "687fe97f5511"
   },
   {
    "fa": "یوزپلنگ ایرانی فقط در ایران زندگی می‌کند.",
    "r": "yuzpalang-e irāni faghat dar Irān zendegi mi-konad.",
    "en": "The Asiatic cheetah lives only in Iran.",
    "col": "یوزپلنگ ایرانی فقط تو ایران زندگی می‌کنه.",
-   "colR": "yuzpalang-e irāni faghat tu Irān zendegi mi-kone."
+   "colR": "yuzpalang-e irāni faghat tu Irān zendegi mi-kone.",
+   "faV": "یوزپَلَنگِ ایرانی فَقَط دَر ایران زِندِگی می‌کُنَد.",
+   "a": "66d0813861a2",
+   "colV": "یوزپَلَنگِ ایرانی فَقَط تو ایران زِندِگی می‌کُنه.",
+   "colA": "713a267776f5"
   },
   {
    "fa": "یوزپلنگ سریع‌ترین حیوان خشکی است.",
    "r": "yuzpalang sari'-tarin heyvān-e khoshki ast.",
    "en": "The cheetah is the fastest land animal.",
    "col": "یوزپلنگ سریع‌ترین حیوون خشکیه.",
-   "colR": "yuzpalang sari'-tarin heyvun-e khoshki-ye."
+   "colR": "yuzpalang sari'-tarin heyvun-e khoshki-ye.",
+   "faV": "یوزپَلَنگ سَریع‌تَرین حَیوانِ خُشکی اَست.",
+   "a": "a22841ff87a9",
+   "colV": "یوزپَلَنگ سَریع‌تَرین حَیوونِ خُشکیه.",
+   "colA": "a02e681fe6e7"
   },
   {
    "fa": "پلنگ ایرانی در کوه‌های البرز و زاگرس زندگی می‌کند.",
    "r": "palang-e irāni dar kuh-hā-ye Alborz va Zāgros zendegi mi-konad.",
-   "en": "The Persian leopard lives in the Alborz and Zagros mountains."
+   "en": "The Persian leopard lives in the Alborz and Zagros mountains.",
+   "faV": "پَلَنگِ ایرانی دَر کوه‌هایِ اَلبُرز و زاگرُس زِندِگی می‌کُنَد.",
+   "a": "c879fb36b122"
   },
   {
    "fa": "شیر هم حیوان است، هم نوشیدنی!",
    "r": "shir ham heyvān ast, ham nushidani!",
    "en": "Shir is both an animal (a lion) and a drink (milk)!",
    "col": "شیر هم حیوونه، هم نوشیدنی!",
-   "colR": "shir ham heyvun-e, ham nushidani!"
+   "colR": "shir ham heyvun-e, ham nushidani!",
+   "faV": "شیر هَم حَیوان اَست، هَم نوشیدَنی!",
+   "a": "2e9db56c7558",
+   "colV": "شیر هَم حَیوونه، هَم نوشیدَنی!",
+   "colA": "5443bcef9ac5"
   },
   {
    "fa": "گورخر ایرانی در دشت‌های توران زندگی می‌کند.",
    "r": "gur-khar-e irāni dar dasht-hā-ye Turān zendegi mi-konad.",
-   "en": "The Persian onager lives on the plains of Touran."
+   "en": "The Persian onager lives on the plains of Touran.",
+   "faV": "گورخَرِ ایرانی دَر دَشت‌هایِ توران زِندِگی می‌کُنَد.",
+   "a": "c73544f2659c"
   },
   {
    "fa": "بلبل در شعر فارسی عاشق گل است.",
    "r": "bolbol dar she'r-e fārsi āshegh-e gol ast.",
-   "en": "In Persian poetry the nightingale is in love with the rose."
+   "en": "In Persian poetry the nightingale is in love with the rose.",
+   "faV": "بُلبُل دَر شِعرِ فارسی عاشِقِ گُل اَست.",
+   "a": "2bdaa47c1a6d"
   },
   {
    "fa": "در کلیله و دمنه حیوانات مثل آدم‌ها حرف می‌زنند.",
    "r": "dar Kalile va Demne heyvānāt mesl-e ādam-hā harf mi-zanand.",
    "en": "In Kalila and Dimna the animals talk like people.",
    "col": "تو کلیله و دمنه حیوونا مثل آدما حرف می‌زنن.",
-   "colR": "tu Kalile o Demne heyvun-ā mesl-e ādam-ā harf mi-zanan."
+   "colR": "tu Kalile o Demne heyvun-ā mesl-e ādam-ā harf mi-zanan.",
+   "faV": "دَر کَلیله و دِمنه حَیوانات مِثلِ آدَم‌ها حَرف می‌زَنَند.",
+   "a": "f2e9edb135b8",
+   "colV": "تو کَلیله و دِمنه حَیوونا مِثلِ آدَما حَرف می‌زَنَن.",
+   "colA": "de03b2fe2b32"
   },
   {
    "fa": "جوجه را آخر پاییز می‌شمارند.",
@@ -99,7 +129,11 @@
    "en": "Don't count your chickens before they hatch.",
    "lit": "chicks are counted at the end of autumn",
    "col": "جوجه رو آخر پاییز می‌شمرن.",
-   "colR": "juje ro ākhar-e pāyiz mi-shomoran."
+   "colR": "juje ro ākhar-e pāyiz mi-shomoran.",
+   "faV": "جوجه را آخَرِ پاییز می‌شُمارَند.",
+   "a": "d4ca05f7850d",
+   "colV": "جوجه رو آخَرِ پاییز می‌شُمُرَن.",
+   "colA": "7d24d3f1cee8"
   },
   {
    "fa": "گربه دستش به گوشت نمی‌رسد، می‌گوید بو می‌دهد.",
@@ -107,34 +141,148 @@
    "en": "Sour grapes.",
    "lit": "the cat can't reach the meat, so it says the meat smells",
    "col": "گربه دستش به گوشت نمی‌رسه، می‌گه بو می‌ده.",
-   "colR": "gorbe dast-esh be gusht nemi-rese, mi-ge bu mi-de."
+   "colR": "gorbe dast-esh be gusht nemi-rese, mi-ge bu mi-de.",
+   "faV": "گُربه دَستَش به گوشت نِمی‌رَسَد، می‌گویَد بو می‌دَهَد.",
+   "a": "9a30f5f4337f",
+   "colV": "گُربه دَستِش به گوشت نِمی‌رِسه، می‌گه بو می‌ده.",
+   "colA": "b8700c19eb7c"
   },
   {
    "fa": "شتر دیدی؟ ندیدی!",
    "r": "shotor didi? na-didi!",
    "en": "You saw nothing – keep it to yourself!",
-   "lit": "did you see a camel? you didn't see it!"
+   "lit": "did you see a camel? you didn't see it!",
+   "faV": "شُتُر دیدی؟ نَدیدی!",
+   "a": "ba48c1938d6d"
   }
  ],
  "vocab": [
-  {"fa": "حیوان", "r": "heyvān", "en": "animal"},
-  {"fa": "جانور", "r": "jānevar", "en": "animal, creature"},
-  {"fa": "گربه", "r": "gorbe", "en": "cat"},
-  {"fa": "سگ", "r": "sag", "en": "dog"},
-  {"fa": "یوزپلنگ", "r": "yuzpalang", "en": "cheetah"},
-  {"fa": "پلنگ", "r": "palang", "en": "leopard"},
-  {"fa": "شیر", "r": "shir", "en": "lion; milk; tap"},
-  {"fa": "ببر", "r": "babr", "en": "tiger"},
-  {"fa": "گورخر", "r": "gur-khar", "en": "zebra; (gur-khar-e irāni) onager"},
-  {"fa": "آهو", "r": "āhu", "en": "gazelle, deer"},
-  {"fa": "شتر", "r": "shotor", "en": "camel"},
-  {"fa": "پرنده", "r": "parande", "en": "bird"},
-  {"fa": "بلبل", "r": "bolbol", "en": "nightingale"},
-  {"fa": "عقاب", "r": "oghāb", "en": "eagle"},
-  {"fa": "کبوتر", "r": "kabutar", "en": "pigeon, dove"},
-  {"fa": "هدهد", "r": "hodhod", "en": "hoopoe"},
-  {"fa": "محیط زیست", "r": "mohit-e zist", "en": "the environment"},
-  {"fa": "در خطر انقراض", "r": "dar khatar-e engherāz", "en": "endangered"}
+  {
+   "fa": "حیوان",
+   "r": "heyvān",
+   "en": "animal",
+   "faV": "حَیوان",
+   "a": "5d25f5cceec5"
+  },
+  {
+   "fa": "جانور",
+   "r": "jānevar",
+   "en": "animal, creature",
+   "faV": "جانِوَر",
+   "a": "5d631ef9f554"
+  },
+  {
+   "fa": "گربه",
+   "r": "gorbe",
+   "en": "cat",
+   "faV": "گُربه",
+   "a": "b4420219a5e3"
+  },
+  {
+   "fa": "سگ",
+   "r": "sag",
+   "en": "dog",
+   "faV": "سَگ",
+   "a": "f5b42d6a3471"
+  },
+  {
+   "fa": "یوزپلنگ",
+   "r": "yuzpalang",
+   "en": "cheetah",
+   "faV": "یوزپَلَنگ",
+   "a": "b82518fe09cf"
+  },
+  {
+   "fa": "پلنگ",
+   "r": "palang",
+   "en": "leopard",
+   "faV": "پَلَنگ",
+   "a": "a1e93314e4ec"
+  },
+  {
+   "fa": "شیر",
+   "r": "shir",
+   "en": "lion; milk; tap",
+   "faV": "شیر",
+   "a": "0fc1b4c99b7f"
+  },
+  {
+   "fa": "ببر",
+   "r": "babr",
+   "en": "tiger",
+   "faV": "بَبر",
+   "a": "0a9aed415f66"
+  },
+  {
+   "fa": "گورخر",
+   "r": "gur-khar",
+   "en": "zebra; (gur-khar-e irāni) onager",
+   "faV": "گورخَر",
+   "a": "7146170def24"
+  },
+  {
+   "fa": "آهو",
+   "r": "āhu",
+   "en": "gazelle, deer",
+   "faV": "آهو",
+   "a": "b268f24e08cd"
+  },
+  {
+   "fa": "شتر",
+   "r": "shotor",
+   "en": "camel",
+   "faV": "شُتُر",
+   "a": "e430fd2af41b"
+  },
+  {
+   "fa": "پرنده",
+   "r": "parande",
+   "en": "bird",
+   "faV": "پَرَنده",
+   "a": "b6066c033778"
+  },
+  {
+   "fa": "بلبل",
+   "r": "bolbol",
+   "en": "nightingale",
+   "faV": "بُلبُل",
+   "a": "0122ecd6252e"
+  },
+  {
+   "fa": "عقاب",
+   "r": "oghāb",
+   "en": "eagle",
+   "faV": "عُقاب",
+   "a": "9aaa6176c214"
+  },
+  {
+   "fa": "کبوتر",
+   "r": "kabutar",
+   "en": "pigeon, dove",
+   "faV": "کَبوتَر",
+   "a": "6371b88e47dd"
+  },
+  {
+   "fa": "هدهد",
+   "r": "hodhod",
+   "en": "hoopoe",
+   "faV": "هُدهُد",
+   "a": "483437e7c1d8"
+  },
+  {
+   "fa": "محیط زیست",
+   "r": "mohit-e zist",
+   "en": "the environment",
+   "faV": "مُحیطِ زیست",
+   "a": "a4e9c2335e49"
+  },
+  {
+   "fa": "در خطر انقراض",
+   "r": "dar khatar-e engherāz",
+   "en": "endangered",
+   "faV": "دَر خَطَرِ اِنقِراض",
+   "a": "ba76bc9a020e"
+  }
  ],
  "facts": [
   "The Asiatic cheetah now survives in the wild only in Iran, and it is critically endangered.",
@@ -145,5 +293,7 @@
   "In Attar's Conference of the Birds, the hoopoe leads the birds on their journey in search of the Simorgh.",
   "Isfahan's old pigeon towers were built to collect pigeon droppings as fertiliser for the fields.",
   "Shir means 'lion', 'milk' and 'tap' – only the context tells you which."
- ]
+ ],
+ "titleV": "گُربه‌یِ ایرانی و جانِوَرانِ دیگَر",
+ "titleA": "4a690121c32b"
 }

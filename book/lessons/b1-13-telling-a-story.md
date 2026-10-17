@@ -345,10 +345,10 @@ _Over tea, Mahsa asks Dariush to tell Tom what happened to him last winter on th
 
 **Put the words in order**
 
-1. غیر / نبود، / خدا / نبود. / یکی / یکی / از / بود / هیچ‌کس — Once upon a time, there was nobody but God.
-2. سال‌ها / طوطی / بودند. / پیش / هندوستان / از / را / آورده — The parrot had been brought from India years before.
-3. می‌شد. / داشت / آماده / بازرگان / سفر / برای — The merchant was getting ready for the journey.
-4. همین / طوطی / درخت / از / را / گفت، / پیغام / که / افتاد. — As soon as he gave the message, the parrot fell from the tree.
+1. غیر / یکی / یکی / از / بود / نبود، / نبود. / خدا / هیچ‌کس — Once upon a time, there was nobody but God.
+2. را / هندوستان / پیش / سال‌ها / از / بودند. / آورده / طوطی — The parrot had been brought from India years before.
+3. سفر / می‌شد. / برای / آماده / بازرگان / داشت — The merchant was getting ready for the journey.
+4. افتاد. / را / که / درخت / گفت، / همین / از / پیغام / طوطی — As soon as he gave the message, the parrot fell from the tree.
 
 <details><summary>Answers</summary>
 
