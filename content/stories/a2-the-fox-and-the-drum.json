@@ -1,0 +1,312 @@
+{
+ "id": "a2-the-fox-and-the-drum",
+ "level": "A2",
+ "kind": "fable",
+ "title": "The fox and the drum",
+ "titleFa": "روباه و طبل",
+ "titleR": "rubāh o tabl",
+ "image": "kalila-wa-dimna",
+ "intro": "Kalila and Dimna is a book of animal fables that travelled from India to Persia some 1,500 years ago and became a classic of Persian prose. In this short fable a hungry fox hears a terrible noise in the forest. Read it for the past continuous of repeated actions (هر وقت باد می‌آمد 'whenever the wind blew'), a که-clause describing an animal (حیوانی که…), the superlative, and شاید 'perhaps' with the subjunctive.",
+ "source": "Retold from Kalila and Dimna (the 12th-century Persian version of Nasrollah Monshi, public domain).",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "روزی روباهی گرسنه در جنگل دنبال غذا می‌گشت.",
+     "r": "ruz-i rubāh-i gorosne dar jangal donbāl-e ghazā mi-gasht.",
+     "en": "One day a hungry fox was roaming the forest in search of food.",
+     "faV": "روزی روباهی گُرُسنه دَر جَنگَل دُنبالِ غَذا می‌گَشت.",
+     "a": "a9ccca9523b0"
+    },
+    {
+     "fa": "شکمش خالی بود و پاهایش خسته بودند.",
+     "r": "shekam-ash khāli bud o pā-hā-yash khaste budand.",
+     "en": "His belly was empty and his legs were tired.",
+     "faV": "شِکَمَش خالی بود و پاهایَش خَسته بودَند.",
+     "a": "46a2b8b767c6"
+    },
+    {
+     "fa": "ناگهان صدای خیلی بلندی از طرف درختی شنید.",
+     "r": "nāgahān sedā-ye kheyli boland-i az taraf-e derakht-i shenid.",
+     "en": "Suddenly he heard a very loud noise coming from a tree.",
+     "faV": "ناگَهان صِدایِ خَیلی بُلَندی اَز طَرَفِ دِرَختی شِنید.",
+     "a": "730f13aefd30"
+    },
+    {
+     "fa": "روباه ترسید و پشت یک سنگ قایم شد.",
+     "r": "rubāh tarsid o posht-e yek sang ghāyem shod.",
+     "en": "The fox took fright and hid behind a rock.",
+     "faV": "روباه تَرسید و پُشتِ یِک سَنگ قایِم شُد.",
+     "a": "917f01858ecf"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "کمی بعد، آرام آرام جلو رفت و نگاه کرد.",
+     "r": "kami ba'd, ārām ārām jelo raft o negāh kard.",
+     "en": "After a while he crept forward and looked.",
+     "faV": "کَمی بَعد، آرام آرام جِلو رَفت و نِگاه کَرد.",
+     "a": "2b7542243877"
+    },
+    {
+     "fa": "یک طبل بزرگ به شاخه‌ی درخت آویزان بود.",
+     "r": "yek tabl-e bozorg be shākhe-ye derakht āvizān bud.",
+     "en": "A big drum was hanging from a branch of the tree.",
+     "faV": "یِک طَبلِ بُزُرگ به شاخه‌یِ دِرَخت آویزان بود.",
+     "a": "7f190f776aab"
+    },
+    {
+     "fa": "هر وقت باد می‌آمد، شاخه‌ها به طبل می‌خوردند و طبل صدا می‌داد.",
+     "r": "har vaght bād mi-āmad, shākhe-hā be tabl mi-khordand o tabl sedā mi-dād.",
+     "en": "Whenever the wind blew, the branches knocked against the drum and the drum boomed.",
+     "faV": "هَر وَقت باد می‌آمَد، شاخه‌ها به طَبل می‌خوردَند و طَبل صِدا می‌داد.",
+     "a": "5b81897e6a29"
+    },
+    {
+     "fa": "روباه فکر کرد: «حیوانی که چنین صدای بلندی دارد، حتماً بزرگ و چاق است!»",
+     "r": "rubāh fekr kard: «heyvān-i ke chenin sedā-ye boland-i dārad, hatman bozorg o chāgh ast!»",
+     "en": "The fox thought: \"An animal with such a loud voice must be big and fat!\"",
+     "faV": "روباه فِکر کَرد: «حَیوانی که چِنین صِدایِ بُلَندی دارَد، حَتماً بُزُرگ و چاق اَست!»",
+     "a": "40ce8478556c"
+    },
+    {
+     "fa": "«اگر آن را بخورم، تا یک ماه سیر می‌مانم!»",
+     "r": "«agar ān rā bekhoram, tā yek māh sir mi-mānam!»",
+     "en": "\"If I eat it, I'll be full for a month!\"",
+     "faV": "«اَگَر آن را بِخورَم، تا یِک ماه سیر می‌مانَم!»",
+     "a": "2242e4a30f07"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "پس با دندان و چنگال به جان طبل افتاد.",
+     "r": "pas bā dandān o changāl be jān-e tabl oftād.",
+     "en": "So he set upon the drum with his teeth and claws.",
+     "faV": "پَس با دَندان و چَنگال به جانِ طَبل اُفتاد.",
+     "a": "9ded98381650"
+    },
+    {
+     "fa": "خیلی زحمت کشید تا پوست طبل را پاره کرد.",
+     "r": "kheyli zahmat keshid tā pust-e tabl rā pāre kard.",
+     "en": "It took him a lot of hard work to tear open the drum's skin.",
+     "faV": "خَیلی زَحمَت کِشید تا پوستِ طَبل را پاره کَرد.",
+     "a": "0c6f6ac24452"
+    },
+    {
+     "fa": "اما داخل طبل هیچ چیز نبود، جز هوا!",
+     "r": "ammā dākhel-e tabl hich chiz na-bud, joz havā!",
+     "en": "But there was nothing inside the drum – nothing but air!",
+     "faV": "اَمّا داخِلِ طَبل هیچ چیز نَبود، جُز هَوا!",
+     "a": "10d8d2a6f86e"
+    },
+    {
+     "fa": "روباه خسته و ناامید نشست.",
+     "r": "rubāh khaste o nā-omid neshast.",
+     "en": "The fox sat down, tired and disappointed.",
+     "faV": "روباه خَسته و نااُمید نِشَست.",
+     "a": "ad211bb8ba20"
+    },
+    {
+     "fa": "او با خودش گفت: «امروز یاد گرفتم که بلندترین صدا گاهی از خالی‌ترین چیز می‌آید.»",
+     "r": "u bā khod-ash goft: «emruz yād gereftam ke boland-tarin sedā gāhi az khāli-tarin chiz mi-āyad.»",
+     "en": "He said to himself: \"Today I learned that the loudest noise sometimes comes from the emptiest thing.\"",
+     "faV": "او با خودَش گُفت: «اِمروز یاد گِرِفتَم که بُلَندتَرین صِدا گاهی اَز خالی‌تَرین چیز می‌آیَد.»",
+     "a": "025077377c04"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "در کلیله و دمنه، شغالی به نام دمنه این داستان را برای شیر تعریف می‌کند.",
+     "r": "dar Kalile o Demne, shoghāl-i be nām-e Demne in dāstān rā barā-ye shir ta'rif mi-konad.",
+     "en": "In Kalila and Dimna, a jackal called Dimna tells this story to the lion.",
+     "faV": "دَر کَلیله و دِمنه، شُغالی به نامِ دِمنه این داستان را بَرایِ شیر تَعریف می‌کُنَد.",
+     "a": "65db94156d9f"
+    },
+    {
+     "fa": "شیر از صدای بلند یک گاو می‌ترسید.",
+     "r": "shir az sedā-ye boland-e yek gāv mi-tarsid.",
+     "en": "The lion was afraid of the loud bellowing of a bull.",
+     "faV": "شیر اَز صِدایِ بُلَندِ یِک گاو می‌تَرسید.",
+     "a": "701b22d17c97"
+    },
+    {
+     "fa": "دمنه به او گفت: «از هر صدای بلندی نترس؛ شاید آن هم یک طبل خالی باشد!»",
+     "r": "Demne be u goft: «az har sedā-ye boland-i na-tars; shāyad ān ham yek tabl-e khāli bāshad!»",
+     "en": "Dimna told him: \"Don't be afraid of every loud noise – it may be just another empty drum!\"",
+     "faV": "دِمنه به او گُفت: «اَز هَر صِدایِ بُلَندی نَتَرس؛ شایَد آن هَم یِک طَبلِ خالی باشَد!»",
+     "a": "bc8a59d2cf46"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "روباه",
+   "r": "rubāh",
+   "en": "fox",
+   "faV": "روباه",
+   "a": "82a1fc5e940a"
+  },
+  {
+   "fa": "طبل",
+   "r": "tabl",
+   "en": "drum",
+   "faV": "طَبل",
+   "a": "f715873d585f"
+  },
+  {
+   "fa": "دنبال چیزی گشتن",
+   "r": "donbāl-e chiz-i gashtan",
+   "en": "to look for something",
+   "faV": "دُنبالِ چیزی گَشتَن",
+   "a": "a72ba8bbda4a"
+  },
+  {
+   "fa": "ناگهان",
+   "r": "nāgahān",
+   "en": "suddenly",
+   "faV": "ناگَهان",
+   "a": "532313350472"
+  },
+  {
+   "fa": "شاخه",
+   "r": "shākhe",
+   "en": "branch",
+   "faV": "شاخه",
+   "a": "698c3f808314"
+  },
+  {
+   "fa": "آویزان",
+   "r": "āvizān",
+   "en": "hanging",
+   "faV": "آویزان",
+   "a": "95a27ca88c4a"
+  },
+  {
+   "fa": "حتماً",
+   "r": "hatman",
+   "en": "certainly, must be",
+   "faV": "حَتماً",
+   "a": "c23a990ac802"
+  },
+  {
+   "fa": "سیر",
+   "r": "sir",
+   "en": "full (not hungry)",
+   "faV": "سیر",
+   "a": "757a86eaf3b4"
+  },
+  {
+   "fa": "چنگال",
+   "r": "changāl",
+   "en": "claw; fork",
+   "faV": "چَنگال",
+   "a": "0aae0b326c24"
+  },
+  {
+   "fa": "به جان چیزی افتادن",
+   "r": "be jān-e chiz-i oftādan",
+   "en": "to set upon something, attack it",
+   "faV": "به جانِ چیزی اُفتادَن",
+   "a": "188e5dc1586d"
+  },
+  {
+   "fa": "زحمت کشیدن",
+   "r": "zahmat keshidan",
+   "en": "to work hard, take trouble",
+   "faV": "زَحمَت کِشیدَن",
+   "a": "e63513741cfe"
+  },
+  {
+   "fa": "پوست",
+   "r": "pust",
+   "en": "skin",
+   "faV": "پوست",
+   "a": "b948f9b2e3d8"
+  },
+  {
+   "fa": "جز",
+   "r": "joz",
+   "en": "except, apart from",
+   "faV": "جُز",
+   "a": "2e35ce327dce"
+  },
+  {
+   "fa": "ناامید",
+   "r": "nā-omid",
+   "en": "disappointed, without hope",
+   "faV": "نااُمید",
+   "a": "f356b280e8f8"
+  },
+  {
+   "fa": "شغال",
+   "r": "shoghāl",
+   "en": "jackal",
+   "faV": "شُغال",
+   "a": "cf8d7cce6d8e"
+  },
+  {
+   "fa": "گاو",
+   "r": "gāv",
+   "en": "cow, bull, ox",
+   "faV": "گاو",
+   "a": "c9c062bc154b"
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why did the fox go up to the drum?",
+   "options": [
+    "he wanted to play music on it",
+    "he thought it was a big, fat animal",
+    "he wanted to hide inside it"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What made the drum sound?",
+   "options": [
+    "a man was playing it",
+    "the lion was hitting it",
+    "the branches knocked against it in the wind"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What did the fox find inside the drum?",
+   "options": [
+    "nothing but air",
+    "meat",
+    "a bird's nest"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What lesson did the fox learn?",
+   "options": [
+    "drums are good to eat",
+    "the loudest noise can come from the emptiest thing",
+    "never go into the forest"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "In Kalila and Dimna, why does Dimna tell this story?",
+   "options": [
+    "to show the lion that a loud voice need not be feared",
+    "to make the fox laugh",
+    "to frighten the bull"
+   ],
+   "answer": 0
+  }
+ ],
+ "after": "The fable gave Persian an idiom: طبل توخالی (tabl-e tu-khāli), 'an empty drum', is someone who makes a lot of noise with nothing behind it – a big talker. Kalila and Dimna began as the Indian Panchatantra; it was translated into Middle Persian in the 6th century, into Arabic by Ibn al-Muqaffa' in the 8th, and in the 12th into the Persian prose classic of Nasrollah Monshi. Kalila and Dimna are two jackals at the lion's court, and their fables are stories within stories, like this one. Grammar: شاید 'perhaps' takes the subjunctive (شاید … باشد), the habit in the past uses می‌ (هر وقت باد می‌آمد), and superlatives in -tarin come before the noun: بلندترین صدا 'the loudest noise', خالی‌ترین چیز 'the emptiest thing'.",
+ "titleV": "روباه و طَبل",
+ "titleA": "dcf8c270a286"
+}

@@ -1,0 +1,267 @@
+{
+ "id": "festivals-yalda",
+ "topic": "festivals",
+ "title": "Yalda, the longest night",
+ "titleFa": "شب یلدا",
+ "titleR": "shab-e yaldā",
+ "image": "yalda",
+ "summary": "On the winter solstice Iranian families sit up together through the longest night of the year, with pomegranates and watermelon on the table and a fortune read from the poems of Hafez.",
+ "body": [
+  {
+   "h": "The longest night",
+   "md": "[[شب یلدا|shab-e yaldā|Yalda night]] is the night between the last day of autumn and the first day of winter – from the evening of 30 [[آذر|Āzar]] to the morning of 1 [[دی|Dey]], around 20–21 December. It is the longest night of the year, and from the next day the light begins to win again. Its other name, [[شب چله|shab-e chelle|the night of the forty]], comes from the [[چله‌ی بزرگ|chelle-ye bozorg|great forty]], the forty coldest days of winter, which begin that night."
+  },
+  {
+   "h": "Where it comes from",
+   "md": "The word [[یلدا|yaldā]] is Syriac and means 'birth'; Syriac-speaking Christians brought it to Iran, where it came to stand for the rebirth of the sun. In old Iranian belief the long darkness belonged to the forces of evil, so people stayed awake together until dawn, keeping fires and lamps burning. Many Iranians today also connect the night with the birth of [[مهر|Mehr|Mithra]], the ancient god of light, although historians debate how old that link really is. In 2022 UNESCO added 'Yalda/Chella' to its intangible heritage list, on a joint nomination from Iran and Afghanistan."
+  },
+  {
+   "h": "Red fruit for a dark night",
+   "md": "Families gather in the evening at the home of the eldest – often the grandparents – and sit up past midnight. The table is red, the colour of dawn and of life: [[انار|anār|pomegranates]], seeded into bowls and sprinkled with salt or [[گلپر|golpar|ground hogweed seed]], and [[هندوانه|hendevāne|watermelon]], because whoever eats watermelon on Yalda night, people say, will not catch cold all winter. Around them go [[آجیل|ājil|nuts and dried fruit]], [[خرمالو|khormālu|persimmons]], sweets and pots of tea. In the old days everyone sat with their legs under the [[کرسی|korsi|a low table over a brazier, covered with a quilt]].",
+   "image": "pomegranate"
+  },
+  {
+   "h": "Hafez at midnight",
+   "md": "The high point of the evening is the [[فال حافظ|fāl-e Hāfez|Hafez fortune]]. Each person makes a silent wish, a [[نیت|niyyat|intention]]; then the eldest opens the [[دیوان|divān|collected poems]] of Hafez at random and reads the ghazal on the page aloud. Its verses are taken as the poet's answer – and since Hafez can be read in many ways, everyone usually finds what they hoped for. Before opening the book, many people address the poet: 'O Hafez of Shiraz, you who know every secret.' Some families also read from the Shahnameh, and the grandparents tell old stories.",
+   "image": "divan-hafez"
+  },
+  {
+   "h": "Gifts and good wishes",
+   "md": "Yalda is also a night for the newly engaged: the groom's family often sends the bride a decorated [[خوانچه|khānche|tray]] of fruit, sweets and presents, sometimes with a watermelon carved like a flower basket. For a visitor the rules are easy: bring pomegranates, sweets or nuts, expect to stay late, and be ready to have your own fortune read. The greeting is [[شب یلدا مبارک|shab-e yaldā mobārak|happy Yalda night]].",
+   "image": "samovar"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "شب یلدا مبارک!",
+   "r": "shab-e yaldā mobārak!",
+   "en": "Happy Yalda night!",
+   "faV": "شَبِ یَلدا مُبارَک!",
+   "a": "485f904ddde0"
+  },
+  {
+   "fa": "یلدایتان مبارک!",
+   "r": "yaldā-yetān mobārak!",
+   "en": "Happy Yalda to you all!",
+   "col": "یلداتون مبارک!",
+   "colR": "yaldā-tun mobārak!",
+   "faV": "یَلدایِتان مُبارَک!",
+   "a": "593fdbb0da4f",
+   "colV": "یَلداتون مُبارَک!",
+   "colA": "76a4434d3f45"
+  },
+  {
+   "fa": "امشب طولانی‌ترین شب سال است.",
+   "r": "emshab tulāni-tarin shab-e sāl ast.",
+   "en": "Tonight is the longest night of the year.",
+   "faV": "اِمشَب طولانی‌تَرین شَبِ سال اَست.",
+   "a": "5796518ebba5"
+  },
+  {
+   "fa": "همه در خانه‌ی مادربزرگ جمع می‌شویم.",
+   "r": "hame dar khāne-ye mādar-bozorg jam' mi-shavim.",
+   "en": "We all gather at Grandma's house.",
+   "faV": "هَمه دَر خانه‌یِ مادَربُزُرگ جَمع می‌شَویم.",
+   "a": "cd0293e9a6b6"
+  },
+  {
+   "fa": "تا نیمه‌شب بیدار می‌مانیم و قصه می‌گوییم.",
+   "r": "tā nime-shab bidār mi-mānim va ghesse mi-guyim.",
+   "en": "We stay up till midnight telling stories.",
+   "faV": "تا نیمه‌شَب بیدار می‌مانیم و قِصّه می‌گوییم.",
+   "a": "e6eaab38d32d"
+  },
+  {
+   "fa": "انار را دانه کردم؛ بفرمایید!",
+   "r": "anār rā dāne kardam; befarmāyid!",
+   "en": "I've seeded the pomegranate – help yourselves!",
+   "faV": "اَنار را دانه کَردَم؛ بِفَرمایید!",
+   "a": "12ceaa4a3b3b"
+  },
+  {
+   "fa": "می‌گویند هر کس شب یلدا هندوانه بخورد، در زمستان سرما نمی‌خورد.",
+   "r": "mi-guyand har kas shab-e yaldā hendevāne bo-khorad, dar zemestān sarmā nemi-khorad.",
+   "en": "They say whoever eats watermelon on Yalda night won't catch a cold all winter.",
+   "faV": "می‌گویَند هَر کَس شَبِ یَلدا هِندِوانه بُخورَد، دَر زِمِستان سَرما نِمی‌خورَد.",
+   "a": "df0215efd385"
+  },
+  {
+   "fa": "یک فال حافظ برایم بگیر.",
+   "r": "yek fāl-e Hāfez barā-yam be-gir.",
+   "en": "Read me a fortune from Hafez.",
+   "col": "یه فال حافظ برام بگیر.",
+   "colR": "ye fāl-e Hāfez barā-m be-gir.",
+   "faV": "یِک فالِ حافِظ بَرایَم بِگیر.",
+   "a": "24ef3575fb4d",
+   "colV": "یه فالِ حافِظ بَرام بِگیر.",
+   "colA": "0bc86e3ecec6"
+  },
+  {
+   "fa": "اول نیت کن، بعد کتاب را باز کن.",
+   "r": "avval niyyat kon, ba'd ketāb rā bāz kon.",
+   "en": "First make a wish, then open the book.",
+   "faV": "اَوَّل نیَّت کُن، بَعد کِتاب را باز کُن.",
+   "a": "3f22323cb248"
+  },
+  {
+   "fa": "ای حافظ شیرازی، تو محرم هر رازی!",
+   "r": "ey Hāfez-e Shirāzi, to mahram-e har rāz-i!",
+   "en": "O Hafez of Shiraz, you who know every secret!",
+   "note": "Said to the poet before opening the Divan for a fortune.",
+   "faV": "اَی حافِظِ شیرازی، تو مَحرَمِ هَر رازی!",
+   "a": "77d9a1dc7191"
+  },
+  {
+   "fa": "از فردا روزها بلندتر می‌شوند.",
+   "r": "az fardā ruz-hā boland-tar mi-shavand.",
+   "en": "From tomorrow the days get longer.",
+   "faV": "اَز فَردا روزها بُلَندتَر می‌شَوَند.",
+   "a": "3cf7ccc45b43"
+  },
+  {
+   "fa": "داماد برای عروس خوانچه‌ی شب یلدا فرستاد.",
+   "r": "dāmād barā-ye arus khānche-ye shab-e yaldā ferestād.",
+   "en": "The groom sent his bride a Yalda gift tray.",
+   "faV": "داماد بَرایِ عَروس خوانچه‌یِ شَبِ یَلدا فِرِستاد.",
+   "a": "b261951c7079"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "یلدا",
+   "r": "yaldā",
+   "en": "Yalda, the longest night",
+   "faV": "یَلدا",
+   "a": "332b8b672e41"
+  },
+  {
+   "fa": "شب چله",
+   "r": "shab-e chelle",
+   "en": "'night of the forty', another name for Yalda",
+   "faV": "شَبِ چِلّه",
+   "a": "528565d59c18"
+  },
+  {
+   "fa": "چله",
+   "r": "chelle",
+   "en": "a period of forty days",
+   "faV": "چِلّه",
+   "a": "4040d71d98dc"
+  },
+  {
+   "fa": "طولانی",
+   "r": "tulāni",
+   "en": "long (in time)",
+   "faV": "طولانی",
+   "a": "788d33476cec"
+  },
+  {
+   "fa": "زمستان",
+   "r": "zemestān",
+   "en": "winter",
+   "faV": "زِمِستان",
+   "a": "855c9a97c4fc"
+  },
+  {
+   "fa": "انار",
+   "r": "anār",
+   "en": "pomegranate",
+   "faV": "اَنار",
+   "a": "6c4e904dbad0"
+  },
+  {
+   "fa": "دانه کردن",
+   "r": "dāne kardan",
+   "en": "to seed (a pomegranate)",
+   "faV": "دانه کَردَن",
+   "a": "19c88cb11ba8"
+  },
+  {
+   "fa": "هندوانه",
+   "r": "hendevāne",
+   "en": "watermelon",
+   "faV": "هِندِوانه",
+   "a": "cbdf0ac6bd6a"
+  },
+  {
+   "fa": "خرمالو",
+   "r": "khormālu",
+   "en": "persimmon",
+   "faV": "خُرمالو",
+   "a": "abb5836cb7ca"
+  },
+  {
+   "fa": "گلپر",
+   "r": "golpar",
+   "en": "ground hogweed seed (a sour spice)",
+   "faV": "گُلپَر",
+   "a": "bb9827c0db78"
+  },
+  {
+   "fa": "فال",
+   "r": "fāl",
+   "en": "fortune, omen",
+   "faV": "فال",
+   "a": "1a913753f7b5"
+  },
+  {
+   "fa": "دیوان",
+   "r": "divān",
+   "en": "collected poems of one poet",
+   "faV": "دیوان",
+   "a": "990e80bfe2c0"
+  },
+  {
+   "fa": "نیت",
+   "r": "niyyat",
+   "en": "intention; silent wish",
+   "faV": "نیَّت",
+   "a": "e78818c6b787"
+  },
+  {
+   "fa": "قصه",
+   "r": "ghesse",
+   "en": "story, tale",
+   "faV": "قِصّه",
+   "a": "abc9e60a9767"
+  },
+  {
+   "fa": "بیدار ماندن",
+   "r": "bidār māndan",
+   "en": "to stay awake",
+   "faV": "بیدار ماندَن",
+   "a": "1030bc609153"
+  },
+  {
+   "fa": "سرما خوردن",
+   "r": "sarmā khordan",
+   "en": "to catch a cold",
+   "faV": "سَرما خوردَن",
+   "a": "88020a9a9fd4"
+  },
+  {
+   "fa": "کرسی",
+   "r": "korsi",
+   "en": "low heated table under a quilt",
+   "faV": "کُرسی",
+   "a": "fda88940fee0"
+  },
+  {
+   "fa": "خوانچه",
+   "r": "khānche",
+   "en": "decorated tray of gifts",
+   "faV": "خوانچه",
+   "a": "09584b0b0a29"
+  }
+ ],
+ "facts": [
+  "Yalda is the night between 30 Azar and 1 Dey, around 20–21 December – the winter solstice.",
+  "Its other name, Shab-e Chelle, marks the start of the 'great chelle', the forty coldest days of winter.",
+  "Yalda is a Syriac word meaning 'birth'.",
+  "UNESCO inscribed 'Yalda/Chella' on its intangible heritage list in 2022, on a joint nomination by Iran and Afghanistan.",
+  "Pomegranates and watermelon are eaten for their red colour, the colour of dawn and of life.",
+  "For a Hafez fortune the Divan is opened at random; the ghazal on the page is read as the answer to your wish."
+ ],
+ "titleV": "شَبِ یَلدا",
+ "titleA": "90256b0da032"
+}

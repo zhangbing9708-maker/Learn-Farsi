@@ -1,0 +1,282 @@
+{
+ "id": "festivals-nowruz",
+ "topic": "festivals",
+ "title": "Nowruz, the Persian New Year",
+ "titleFa": "نوروز، جشن سال نو",
+ "titleR": "nowruz, jashn-e sāl-e now",
+ "image": "haft-sin",
+ "summary": "Nowruz, the 'new day', begins the Iranian year at the spring equinox. Weeks of cleaning and shopping lead up to one exact moment around the haft-sin table – followed by two weeks of visits, eydi and sweets.",
+ "body": [
+  {
+   "h": "A new day",
+   "md": "[[نوروز|nowruz|Nowruz]] means 'new day'. It is the first day of [[فروردین|Farvardin|the first month]] and of the Iranian solar year, and it falls on the spring equinox, around 20–21 March. The festival is far older than Islam in Iran. In the Shahnameh, Ferdowsi tells how the legendary king [[جمشید|Jamshid]] rose into the sky on a jewelled throne and the people named that day the new day; by Sasanian times it was the greatest feast of the year. Today Nowruz is shared far beyond Iran – by Kurds, Afghans, Tajiks, Azerbaijanis and many others – and since 2010 the United Nations has marked 21 March as the International Day of Nowruz."
+  },
+  {
+   "h": "Shaking the house",
+   "md": "Preparations begin weeks ahead with [[خانه‌تکانی|khāne-tekāni|'shaking the house']], a top-to-bottom spring clean: carpets are washed, curtains taken down, windows polished and broken things thrown out. Everyone gets [[لباس نو|lebās-e now|new clothes]], and the bazaars stay open late. About two weeks before the New Year, someone soaks wheat or lentils and spreads them on a plate to grow the [[سبزه|sabze|sprouted greens]]. On the last Tuesday evening of the year comes the fire festival of [[چهارشنبه‌سوری|chahārshanbe-suri|Chaharshanbe Suri]].",
+   "image": "sabzeh"
+  },
+  {
+   "h": "The haft-sin, item by item",
+   "md": "The heart of Nowruz is the [[سفره‌ی هفت‌سین|sofre-ye haft-sin|haft-sin spread]]: a cloth laid with seven things whose names begin with the letter *sin* (س). Each carries a wish – these are the meanings families usually give them:\n\n- [[سبزه|sabze|sprouts]] – rebirth and growth\n- [[سمنو|samanu|sweet wheat pudding]] – plenty\n- [[سنجد|senjed|dried oleaster fruit]] – love\n- [[سیب|sib|apple]] – health and beauty\n- [[سیر|sir|garlic]] – medicine\n- [[سماق|somāgh|sumac]] – the colour of sunrise\n- [[سرکه|serke|vinegar]] – age and patience\n\nA coin, [[سکه|sekke]], or a hyacinth, [[سنبل|sonbol]], may take the place of any of them. Around the seven go a [[آینه|āyene|mirror]], candles, [[تخم‌مرغ رنگی|tokhm-e morgh-e rangi|painted eggs]], a bowl with a [[ماهی قرمز|māhi-ye ghermez|goldfish]], and a book: the Quran in many homes, the Divan of Hafez or the Shahnameh in others.",
+   "image": "iranian-new-year-goldfish"
+  },
+  {
+   "h": "The moment the year turns",
+   "md": "Nowruz does not begin at midnight. It begins at the exact moment of the equinox, [[تحویل سال|tahvil-e sāl|the turning of the year]], which can fall at any hour – in the middle of the afternoon or at four in the morning. Families gather in their new clothes around the haft-sin while the television counts down the last seconds, and many say a short prayer asking God to turn their state 'to the best of states'. Then the year turns: everyone hugs and kisses, says [[عید شما مبارک|eyd-e shomā mobārak|happy New Year to you]], and the eldest hands out [[عیدی|eydi|New Year money]] – crisp new banknotes, often kept between the pages of the book on the spread."
+  },
+  {
+   "h": "Visits and eydi",
+   "md": "The days that follow are for [[دید و بازدید|did o bāzdid|visits and return visits]]. The order matters: the young call first on the oldest of the family – grandparents, then elder uncles and aunts – who return the visits later. Every home keeps tea, fruit, [[آجیل|ājil|nuts and dried fruit]] and [[شیرینی|shirini|pastries]] ready, and children collect eydi in house after house. Offices close for the first four days and schools for about two weeks, so Tehran empties as families travel. If you are invited, take pastries or flowers and expect to be fed generously. The holiday ends on the thirteenth day with the picnic of [[سیزده‌به‌در|sizdah-be-dar|Sizdah Bedar]]."
+  },
+  {
+   "h": "Hajji Firuz and Amu Nowruz",
+   "md": "In the weeks before Nowruz you may meet [[حاجی فیروز|Hāji Firuz|Hajji Firuz]] in the street: a merry herald in red satin and a pointed hat who beats a [[دایره|dāyere|frame drum]] and sings [[حاجی فیروزه، سالی یه روزه|Hāji Firuz-e, sāli ye ruz-e|it's Hajji Firuz, it comes one day a year]]. His face is traditionally blackened with soot, a custom many now criticise, and some performers have dropped it. His gentle counterpart is [[عمو نوروز|Amu Nowruz|Uncle Nowruz]], a white-bearded old man in a felt hat who brings presents for children. In the folk tale his sweetheart, [[ننه سرما|Nane Sarmā|Granny Cold]], waits for him every year but always falls asleep just before he arrives.",
+   "image": "hajji-firuz"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "نوروز مبارک!",
+   "r": "nowruz mobārak!",
+   "en": "Happy Nowruz!",
+   "faV": "نَوروز مُبارَک!",
+   "a": "8e77a3f0d80d"
+  },
+  {
+   "fa": "سال نو مبارک!",
+   "r": "sāl-e now mobārak!",
+   "en": "Happy New Year!",
+   "faV": "سالِ نَو مُبارَک!",
+   "a": "981a0ffaf002"
+  },
+  {
+   "fa": "عید شما هم مبارک!",
+   "r": "eyd-e shomā ham mobārak!",
+   "en": "Happy New Year to you too!",
+   "note": "The usual reply to a New Year greeting.",
+   "faV": "عَیدِ شُما هَم مُبارَک!",
+   "a": "66387e410ac0"
+  },
+  {
+   "fa": "صد سال به این سال‌ها!",
+   "r": "sad sāl be in sāl-hā!",
+   "en": "May you see a hundred more years like this one!",
+   "lit": "a hundred years to these years",
+   "faV": "صَد سال به این سال‌ها!",
+   "a": "c5dcda2f2f12"
+  },
+  {
+   "fa": "هر روزتان نوروز، نوروزتان پیروز!",
+   "r": "har ruz-etān nowruz, nowruz-etān piruz!",
+   "en": "May every day be Nowruz for you, and every Nowruz a happy one!",
+   "lit": "your every day Nowruz, your Nowruz victorious",
+   "faV": "هَر روزِتان نَوروز، نَوروزِتان پیروز!",
+   "a": "db609f9b9326"
+  },
+  {
+   "fa": "سال خوبی داشته باشید.",
+   "r": "sāl-e khub-i dāshte bāshid.",
+   "en": "Have a good year.",
+   "faV": "سالِ خوبی داشته باشید.",
+   "a": "f704fc268042"
+  },
+  {
+   "fa": "قبل از عید خانه‌تکانی می‌کنیم.",
+   "r": "ghabl az eyd khāne-tekāni mi-konim.",
+   "en": "Before the New Year we give the whole house a spring clean.",
+   "faV": "قَبل اَز عَید خانه‌تِکانی می‌کُنیم.",
+   "a": "541728576503"
+  },
+  {
+   "fa": "سفره‌ی هفت‌سین را کنار پنجره چیده‌ایم.",
+   "r": "sofre-ye haft-sin rā kenār-e panjere chide-im.",
+   "en": "We've laid out the haft-sin by the window.",
+   "faV": "سُفره‌یِ هَفت‌سین را کِنارِ پَنجِره چیده‌ایم.",
+   "a": "aec68f854236"
+  },
+  {
+   "fa": "سال ساعت چند تحویل می‌شود؟",
+   "r": "sāl sā'at-e chand tahvil mi-shavad?",
+   "en": "What time does the new year begin?",
+   "lit": "at what hour is the year handed over?",
+   "col": "سال ساعت چند تحویل می‌شه؟",
+   "colR": "sāl sā'at-e chand tahvil mi-she?",
+   "faV": "سال ساعَتِ چَند تَحویل می‌شَوَد؟",
+   "a": "7f31d9db0d7b",
+   "colV": "سال ساعَتِ چَند تَحویل می‌شه؟",
+   "colA": "5486500f0c6b"
+  },
+  {
+   "fa": "بچه‌ها از پدربزرگ عیدی گرفتند.",
+   "r": "bacche-hā az pedar-bozorg eydi gereftand.",
+   "en": "The children got their New Year money from Grandpa.",
+   "faV": "بَچّه‌ها اَز پِدَربُزُرگ عَیدی گِرِفتَند.",
+   "a": "c662332e8a8c"
+  },
+  {
+   "fa": "فردا برای عیددیدنی به خانه‌ی مادربزرگ می‌رویم.",
+   "r": "fardā barā-ye eyd-didani be khāne-ye mādar-bozorg mi-ravim.",
+   "en": "Tomorrow we're going to Grandma's for a New Year visit.",
+   "col": "فردا برای عیددیدنی می‌ریم خونه‌ی مادربزرگ.",
+   "colR": "fardā barā-ye eyd-didani mi-rim khune-ye mādar-bozorg.",
+   "faV": "فَردا بَرایِ عَیددیدَنی به خانه‌یِ مادَربُزُرگ می‌رَویم.",
+   "a": "b86bad9ca5a2",
+   "colV": "فَردا بَرایِ عَیددیدَنی می‌ریم خونه‌یِ مادَربُزُرگ.",
+   "colA": "6ae793871745"
+  },
+  {
+   "fa": "حاجی فیروز با دایره در خیابان می‌خواند.",
+   "r": "Hāji Firuz bā dāyere dar khiyābān mi-khānad.",
+   "en": "Hajji Firuz sings in the street, beating his drum.",
+   "faV": "حاجی فیروز با دایِره دَر خیابان می‌خوانَد.",
+   "a": "1bc3018466a9"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "نوروز",
+   "r": "nowruz",
+   "en": "Nowruz, the New Year ('new day')",
+   "faV": "نَوروز",
+   "a": "45d9fa9f1366"
+  },
+  {
+   "fa": "سال نو",
+   "r": "sāl-e now",
+   "en": "the new year",
+   "faV": "سالِ نَو",
+   "a": "2749a047ddd6"
+  },
+  {
+   "fa": "تحویل سال",
+   "r": "tahvil-e sāl",
+   "en": "the moment the year turns",
+   "faV": "تَحویلِ سال",
+   "a": "cc20e932cb74"
+  },
+  {
+   "fa": "هفت‌سین",
+   "r": "haft-sin",
+   "en": "the 'seven S' table",
+   "faV": "هَفت‌سین",
+   "a": "b0a09c0ba8ac"
+  },
+  {
+   "fa": "سفره",
+   "r": "sofre",
+   "en": "cloth spread (for a meal or a ceremony)",
+   "faV": "سُفره",
+   "a": "a5e83036b4e5"
+  },
+  {
+   "fa": "سبزه",
+   "r": "sabze",
+   "en": "sprouted greens",
+   "faV": "سَبزه",
+   "a": "6366f4a8e134"
+  },
+  {
+   "fa": "سمنو",
+   "r": "samanu",
+   "en": "sweet wheat-sprout pudding",
+   "faV": "سَمَنو",
+   "a": "11cc21e1b2bf"
+  },
+  {
+   "fa": "سنجد",
+   "r": "senjed",
+   "en": "oleaster, a dried fruit",
+   "faV": "سِنجِد",
+   "a": "f7dc1352a366"
+  },
+  {
+   "fa": "سکه",
+   "r": "sekke",
+   "en": "coin",
+   "faV": "سِکّه",
+   "a": "0f9f6fa03f07"
+  },
+  {
+   "fa": "آینه",
+   "r": "āyene",
+   "en": "mirror",
+   "faV": "آیِنه",
+   "a": "f22dd71e1b85"
+  },
+  {
+   "fa": "شمع",
+   "r": "sham'",
+   "en": "candle",
+   "faV": "شَمع",
+   "a": "5f788b1ce494"
+  },
+  {
+   "fa": "ماهی قرمز",
+   "r": "māhi-ye ghermez",
+   "en": "goldfish",
+   "faV": "ماهیِ قِرمِز",
+   "a": "d15fa4777277"
+  },
+  {
+   "fa": "خانه‌تکانی",
+   "r": "khāne-tekāni",
+   "en": "spring cleaning ('shaking the house')",
+   "faV": "خانه‌تِکانی",
+   "a": "7d21890ac6d8"
+  },
+  {
+   "fa": "لباس نو",
+   "r": "lebās-e now",
+   "en": "new clothes",
+   "faV": "لِباسِ نَو",
+   "a": "fae481e6a343"
+  },
+  {
+   "fa": "عیدی",
+   "r": "eydi",
+   "en": "New Year money or present",
+   "faV": "عَیدی",
+   "a": "e2d0e4f6084d"
+  },
+  {
+   "fa": "دید و بازدید",
+   "r": "did o bāzdid",
+   "en": "visits and return visits",
+   "faV": "دید و بازدید",
+   "a": "36f6cf74d994"
+  },
+  {
+   "fa": "عیددیدنی",
+   "r": "eyd-didani",
+   "en": "New Year visit",
+   "faV": "عَیددیدَنی",
+   "a": "fb1b027db49d"
+  },
+  {
+   "fa": "بزرگ‌تر",
+   "r": "bozorg-tar",
+   "en": "elder, older relative",
+   "faV": "بُزُرگ‌تَر",
+   "a": "27d125e0e3b5"
+  },
+  {
+   "fa": "مبارک",
+   "r": "mobārak",
+   "en": "blessed; happy (in wishes)",
+   "faV": "مُبارَک",
+   "a": "ca5046904541"
+  }
+ ],
+ "facts": [
+  "Nowruz falls on the March equinox, 1 Farvardin, the first day of the Iranian solar year.",
+  "The year turns at the exact astronomical moment of the equinox, so families may gather round the haft-sin at any hour of the day or night.",
+  "In the Shahnameh, Ferdowsi credits the legendary king Jamshid with the first Nowruz.",
+  "UNESCO first inscribed Nowruz on its list of the intangible heritage of humanity in 2009, as a festival shared by several countries.",
+  "In 2010 the UN General Assembly proclaimed 21 March the International Day of Nowruz.",
+  "Iran's official Nowruz holiday is the first four days of Farvardin, but schools stay closed until after Sizdah Bedar.",
+  "Before Nowruz people queue at banks for crisp new banknotes to give as eydi."
+ ],
+ "titleV": "نَوروز، جَشنِ سالِ نَو",
+ "titleA": "433df3b99855"
+}

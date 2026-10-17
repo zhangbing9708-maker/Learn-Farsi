@@ -354,10 +354,10 @@ It is a family job, and the verbs of this lesson fill the house: فرش‌ها �
 
 **Put the words in order**
 
-1. امروز / کار / نمی‌کنم. — I'm not working today.
-2. زنگ / نزدم. / به / مادرم — I didn't ring my mother.
-3. کنم؟ / می‌توانم / کمکتان — Can I help you?
-4. ایستگاه / در / بعدی / می‌شویم. / پیاده — We're getting off at the next station.
+1. کار / امروز / نمی‌کنم. — I'm not working today.
+2. نزدم. / به / زنگ / مادرم — I didn't ring my mother.
+3. می‌توانم / کنم؟ / کمکتان — Can I help you?
+4. بعدی / ایستگاه / پیاده / در / می‌شویم. — We're getting off at the next station.
 
 <details><summary>Answers</summary>
 
@@ -408,4 +408,4 @@ It is a family job, and the verbs of this lesson fill the house: فرش‌ها �
 
 ---
 
-← [I must, I can: the subjunctive](a2-04-i-must-i-can.md) · [Contents](../README.md) · [Do this! Instructions and a recipe](a2-09-do-this.md) →
+← [I must, I can: the subjunctive](a2-04-i-must-i-can.md) · [Contents](../README.md) · [The object marker را: I've lost my wallet!](a2-06-the-object-marker-ra.md) →

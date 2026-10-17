@@ -1,0 +1,286 @@
+{
+ "id": "festivals-muharram-and-nazri",
+ "topic": "festivals",
+ "title": "Muharram, Ashura and nazri",
+ "titleFa": "محرم، عاشورا و نذری",
+ "titleR": "Moharram, āshurā va nazri",
+ "image": "muharram",
+ "summary": "Muharram is the month in which Shia Iranians mourn Imam Hussein, killed at Karbala in AD 680. It is a time of black banners, processions, passion plays – and of nazri, food cooked in great pots and shared with everyone.",
+ "body": [
+  {
+   "h": "Karbala",
+   "md": "[[محرم|Moharram|Muharram]] is the first month of the Islamic lunar calendar, and for Shia Muslims – the great majority of Iranians – it is the month of mourning. On its tenth day, in AD 680, [[امام حسین|Emām Hoseyn|Imam Hussein]], grandson of the Prophet Muhammad, was killed with his family and companions at [[کربلا|Karbalā|Karbala]], in today's Iraq, after refusing to pledge allegiance to the caliph Yazid. For Shia Muslims his stand is the great example of sacrifice and of resistance to injustice, and the story is retold every year in sermons, songs, paintings and plays. Because the lunar year is shorter than the solar one, Muharram comes about eleven days earlier each year.",
+   "image": "iranian-coffeehouse-painting"
+  },
+  {
+   "h": "The first ten days",
+   "md": "As the month begins, the cities change colour. Black banners hang from mosques and shops, many people wear black, and each neighbourhood's [[هیئت|hey'at|mourning association]] holds evening gatherings in a mosque or a [[حسینیه|hoseyniye|Muharram hall]]. A preacher recounts the events of Karbala, and singers lead [[نوحه|nowhe|laments]] while the men beat their chests in rhythm, [[سینه‌زنی|sine-zani|chest-beating]]. Many families put off weddings and parties until the mourning is over."
+  },
+  {
+   "h": "Tasua and Ashura",
+   "md": "The ninth and tenth days, [[تاسوعا|tāsu'ā|Tasua]] and [[عاشورا|āshurā|Ashura]], are public holidays. Processions of mourners, [[دسته|daste|dasteh]], move through the streets to drums and cymbals, carrying a great steel standard, the [[علم|alam|alam]], and green, red and black flags. Some groups strike their backs with bundles of light chains in time with the music. On the evening of Ashura, the [[شام غریبان|shām-e gharibān|evening of the strangers]], lights are dimmed and people sit with candles, remembering the women and children of Hussein's family, left alone after the battle.",
+   "image": "iranian-peoples"
+  },
+  {
+   "h": "Ta'zieh",
+   "md": "The most theatrical form of mourning is [[تعزیه|ta'ziye|ta'zieh]], a sung passion play that tells the story of Karbala. It is performed in the round, in a courtyard or a special building, the [[تکیه|takiye|takyeh]], with the audience close around the actors. Colours tell the story: Hussein and his followers wear green and sing their lines, while their enemies wear red and declaim theirs. Women's parts are traditionally played by men. In 2010 UNESCO recognised ta'zieh as part of the intangible heritage of humanity.",
+   "image": "tazieh"
+  },
+  {
+   "h": "Nazri: food for everyone",
+   "md": "Muharram is also the season of [[نذری|nazri|votive food]]. Someone who has made a [[نذر|nazr|vow]] – for a sick relative to recover, for an exam, or simply out of devotion – fulfils it by cooking and giving food away. Neighbours gather around huge pots, [[دیگ|dig|cauldrons]], from before dawn; each person takes a turn stirring and makes a wish. The classic Muharram dish is [[قیمه|gheyme|split-pea stew]] with rice, but there is also [[شله‌زرد|shole-zard|saffron rice pudding]] decorated with cinnamon, [[حلیم|halim|wheat-and-meat porridge]], and free tea and sherbet at roadside stands. Anyone may receive nazri: join the queue, take your portion and say thank you.",
+   "image": "nazri"
+  },
+  {
+   "h": "What to say and do",
+   "md": "This is a time of mourning, not a festival, so don't wish anyone a happy day. People say [[قبول باشد|ghabul bāshad|may it be accepted]] to someone who has given nazri or prayed, and [[التماس دعا|eltemās-e do'ā|pray for me]] when they part. Visitors are welcome to watch the processions: dress soberly, ask before photographing people close up, and accept tea or food when it is offered. Many restaurants and shops close on Tasua and Ashura."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "التماس دعا.",
+   "r": "eltemās-e do'ā.",
+   "en": "Please remember me in your prayers.",
+   "note": "Said when parting, especially at religious times and places.",
+   "faV": "اِلتِماسِ دُعا.",
+   "a": "6848b49440b6"
+  },
+  {
+   "fa": "قبول باشد.",
+   "r": "ghabul bāshad.",
+   "en": "May it be accepted (by God).",
+   "note": "Said to someone who has prayed, fasted or given nazri.",
+   "col": "قبول باشه.",
+   "colR": "ghabul bāshe.",
+   "faV": "قَبول باشَد.",
+   "a": "dd8a6070ed13",
+   "colV": "قَبول باشه.",
+   "colA": "a1ea9ad16a17"
+  },
+  {
+   "fa": "نذرتان قبول باشد.",
+   "r": "nazr-etān ghabul bāshad.",
+   "en": "May your vow be accepted.",
+   "col": "نذرتون قبول باشه.",
+   "colR": "nazr-etun ghabul bāshe.",
+   "faV": "نَذرِتان قَبول باشَد.",
+   "a": "8728eb45fbe1",
+   "colV": "نَذرِتون قَبول باشه.",
+   "colA": "9483d72aa90a"
+  },
+  {
+   "fa": "تاسوعا و عاشورا در ایران تعطیل رسمی است.",
+   "r": "tāsu'ā va āshurā dar Irān ta'til-e rasmi ast.",
+   "en": "Tasua and Ashura are public holidays in Iran.",
+   "faV": "تاسوعا و عاشورا دَر ایران تَعطیلِ رَسمی اَست.",
+   "a": "4422212c09de"
+  },
+  {
+   "fa": "در دهه‌ی اول محرم، بسیاری از مردم سیاه می‌پوشند.",
+   "r": "dar dahe-ye avval-e Moharram, besyāri az mardom siyāh mi-pushand.",
+   "en": "In the first ten days of Muharram many people wear black.",
+   "faV": "دَر دَهه‌یِ اَوَّلِ مُحَرَّم، بِسیاری اَز مَردُم سیاه می‌پوشَند.",
+   "a": "87685576fe01"
+  },
+  {
+   "fa": "دسته‌های عزاداری با طبل و سنج از خیابان می‌گذرند.",
+   "r": "daste-hā-ye azādāri bā tabl va sanj az khiyābān mi-gozarand.",
+   "en": "Mourning processions pass down the street with drums and cymbals.",
+   "faV": "دَسته‌هایِ عَزاداری با طَبل و سَنج اَز خیابان می‌گُذَرَند.",
+   "a": "f9f42c544f8c"
+  },
+  {
+   "fa": "امام حسین در روز عاشورا در کربلا شهید شد.",
+   "r": "Emām Hoseyn dar ruz-e āshurā dar Karbalā shahid shod.",
+   "en": "Imam Hussein was martyred at Karbala on the day of Ashura.",
+   "note": "Shahid shodan, 'to be martyred', is how Shia Iranians speak of his death.",
+   "faV": "اِمام حُسَین دَر روزِ عاشورا دَر کَربَلا شَهید شُد.",
+   "a": "6f88e73ed68b"
+  },
+  {
+   "fa": "تعزیه داستان کربلا را نمایش می‌دهد.",
+   "r": "ta'ziye dāstān-e Karbalā rā namāyesh mi-dahad.",
+   "en": "Ta'zieh acts out the story of Karbala.",
+   "faV": "تَعزیه داستانِ کَربَلا را نَمایِش می‌دَهَد.",
+   "a": "cc20d3f48a01"
+  },
+  {
+   "fa": "همسایه‌ها با هم قیمه‌ی نذری می‌پزند.",
+   "r": "hamsāye-hā bā ham gheyme-ye nazri mi-pazand.",
+   "en": "The neighbours cook gheymeh nazri together.",
+   "faV": "هَمسایه‌ها با هَم قَیمه‌یِ نَذری می‌پَزَند.",
+   "a": "bb643ce9588a"
+  },
+  {
+   "fa": "هر کس دیگ را هم می‌زند و آرزویی می‌کند.",
+   "r": "har kas dig rā ham mi-zanad va ārezu-yi mi-konad.",
+   "en": "Everyone gives the pot a stir and makes a wish.",
+   "faV": "هَر کَس دیگ را هَم می‌زَنَد و آرِزویی می‌کُنَد.",
+   "a": "4d0c4f7eb1a1"
+  },
+  {
+   "fa": "برایتان شله‌زرد نذری آورده‌ام.",
+   "r": "barā-yetān shole-zard-e nazri āvarde-am.",
+   "en": "I've brought you some nazri sholeh zard.",
+   "col": "براتون شله‌زرد نذری آوردم.",
+   "colR": "barā-tun shole-zard-e nazri āvordam.",
+   "faV": "بَرایِتان شُله‌زَردِ نَذری آوَرده‌اَم.",
+   "a": "893f826bfa06",
+   "colV": "بَراتون شُله‌زَردِ نَذری آوُردَم.",
+   "colA": "24949c2dc12a"
+  },
+  {
+   "fa": "در ایستگاه صلواتی به همه چای می‌دهند.",
+   "r": "dar istgāh-e salavāti be hame chāy mi-dahand.",
+   "en": "At the roadside stand they give everyone free tea.",
+   "faV": "دَر ایستگاهِ صَلَواتی به هَمه چای می‌دَهَند.",
+   "a": "d5a8e0dbde8c"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "محرم",
+   "r": "Moharram",
+   "en": "Muharram, the first month of the Islamic year",
+   "faV": "مُحَرَّم",
+   "a": "5f836e35f00a"
+  },
+  {
+   "fa": "تاسوعا",
+   "r": "tāsu'ā",
+   "en": "Tasua, the ninth of Muharram",
+   "faV": "تاسوعا",
+   "a": "9c4ee7e1e600"
+  },
+  {
+   "fa": "عاشورا",
+   "r": "āshurā",
+   "en": "Ashura, the tenth of Muharram",
+   "faV": "عاشورا",
+   "a": "520978229a14"
+  },
+  {
+   "fa": "عزاداری",
+   "r": "azādāri",
+   "en": "mourning (ritual)",
+   "faV": "عَزاداری",
+   "a": "1dcc5e82ff9a"
+  },
+  {
+   "fa": "دسته",
+   "r": "daste",
+   "en": "procession of mourners; group",
+   "faV": "دَسته",
+   "a": "87c7095d5070"
+  },
+  {
+   "fa": "هیئت",
+   "r": "hey'at",
+   "en": "mourning association",
+   "faV": "هَیئَت",
+   "a": "17350dea02f0"
+  },
+  {
+   "fa": "حسینیه",
+   "r": "hoseyniye",
+   "en": "hall for Muharram gatherings",
+   "faV": "حُسَینیه",
+   "a": "645775d391df"
+  },
+  {
+   "fa": "نوحه",
+   "r": "nowhe",
+   "en": "lament, elegy",
+   "faV": "نَوحه",
+   "a": "6ec234421b40"
+  },
+  {
+   "fa": "سینه‌زنی",
+   "r": "sine-zani",
+   "en": "rhythmic chest-beating",
+   "faV": "سینه‌زَنی",
+   "a": "ffbeac7ddb78"
+  },
+  {
+   "fa": "علم",
+   "r": "alam",
+   "en": "standard carried in processions",
+   "faV": "عَلَم",
+   "a": "6f59d1d38fee"
+  },
+  {
+   "fa": "تعزیه",
+   "r": "ta'ziye",
+   "en": "passion play",
+   "faV": "تَعزیه",
+   "a": "cdc3d147edbf"
+  },
+  {
+   "fa": "شهید",
+   "r": "shahid",
+   "en": "martyr",
+   "faV": "شَهید",
+   "a": "76d11e6f8fe8"
+  },
+  {
+   "fa": "نذر",
+   "r": "nazr",
+   "en": "vow",
+   "faV": "نَذر",
+   "a": "16d38dd5fffe"
+  },
+  {
+   "fa": "نذری",
+   "r": "nazri",
+   "en": "food given away to fulfil a vow",
+   "faV": "نَذری",
+   "a": "2d3fbd9827b4"
+  },
+  {
+   "fa": "دیگ",
+   "r": "dig",
+   "en": "cauldron, big pot",
+   "faV": "دیگ",
+   "a": "087fb9b95e75"
+  },
+  {
+   "fa": "قیمه",
+   "r": "gheyme",
+   "en": "split-pea stew",
+   "faV": "قَیمه",
+   "a": "62b19290cef0"
+  },
+  {
+   "fa": "شله‌زرد",
+   "r": "shole-zard",
+   "en": "saffron rice pudding",
+   "faV": "شُله‌زَرد",
+   "a": "38295afcaad0"
+  },
+  {
+   "fa": "صلواتی",
+   "r": "salavāti",
+   "en": "free, offered for a blessing",
+   "faV": "صَلَواتی",
+   "a": "96ae9ffd8020"
+  },
+  {
+   "fa": "التماس دعا",
+   "r": "eltemās-e do'ā",
+   "en": "'pray for me'",
+   "faV": "اِلتِماسِ دُعا",
+   "a": "8da699df83b7"
+  }
+ ],
+ "facts": [
+  "Muharram is the first month of the Islamic lunar calendar, so it begins about eleven days earlier each year.",
+  "Imam Hussein, the Prophet Muhammad's grandson, was killed at Karbala on 10 Muharram 61 AH – AD 680.",
+  "Tasua and Ashura, the 9th and 10th of Muharram, are public holidays in Iran.",
+  "In ta'zieh, Hussein's side traditionally wears green and sings, while the enemy side wears red and declaims.",
+  "UNESCO inscribed the ritual dramatic art of ta'zieh on its intangible heritage list in 2010.",
+  "Arbaeen, forty days after Ashura, draws huge crowds of pilgrims to Karbala, many of them Iranians who walk the last stretch from Najaf.",
+  "Nazri is food given away in fulfilment of a vow; it is shared with anyone who comes, neighbour or stranger."
+ ],
+ "titleV": "مُحَرَّم، عاشورا و نَذری",
+ "titleA": "40bfb5c20cee"
+}

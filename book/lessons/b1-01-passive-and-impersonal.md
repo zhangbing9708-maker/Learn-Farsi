@@ -301,10 +301,10 @@ In Isfahan, Si-o-se-pol is where the city goes for its evening walk. Under the a
 
 **Put the words in order**
 
-1. ساخته / این / پل / در / اصفهان / شد. — This bridge was built in Isfahan.
-2. کتاب‌های / چند / ترجمه / به / شده‌اند. / زبان / او — His books have been translated into several languages.
-3. مکانیک / بهترین / می‌گویند / است. / او / شهر — They say he is the best mechanic in town.
-4. این / پارک / در / نمی‌شود / کرد. / خیابان — One can't park on this street.
+1. این / شد. / ساخته / پل / اصفهان / در — This bridge was built in Isfahan.
+2. کتاب‌های / زبان / چند / به / او / ترجمه / شده‌اند. — His books have been translated into several languages.
+3. می‌گویند / شهر / مکانیک / او / است. / بهترین — They say he is the best mechanic in town.
+4. کرد. / این / پارک / خیابان / نمی‌شود / در — One can't park on this street.
 
 <details><summary>Answers</summary>
 
@@ -357,4 +357,4 @@ In Isfahan, Si-o-se-pol is where the city goes for its evening walk. Under the a
 
 ---
 
-← [Travelling: the station, the airport and the hotel](a2-11-travelling.md) · [Contents](../README.md)
+← [How people really talk: spoken Tehrani Persian](a2-16-how-people-really-talk.md) · [Contents](../README.md) · [Making things happen: 'put to sleep', 'drop off', 'let'](b1-02-making-things-happen.md) →

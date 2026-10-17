@@ -1,0 +1,313 @@
+{
+ "id": "a2-shangul-and-mangul",
+ "level": "A2",
+ "kind": "folk tale",
+ "title": "Shangul and Mangul",
+ "titleFa": "شنگول و منگول",
+ "titleR": "Shangul o Mangul",
+ "image": "hawraman",
+ "intro": "Shangul and Mangul is the Iranian tale of the wolf and the kids: a mother goat, her three little ones, and a wolf who learns the family's secret song. Every Iranian child can sing the goat's song. Read it for the past tenses, تا 'so that' with the subjunctive (تا صدایش نازک شود), the pronoun endings on nouns (صدایش 'his voice', شاخ‌هایش 'her horns'), and the simple اگر of a very angry mother.",
+ "source": "Retold from a traditional Iranian folk tale (public domain).",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "روزی روزگاری، یک بز با سه بزغاله‌اش در خانه‌ای کوچک زندگی می‌کرد.",
+     "r": "ruz-i ruzegār-i, yek boz bā se bozghāle-ash dar khāne-i kuchak zendegi mi-kard.",
+     "en": "Once upon a time, a nanny goat lived with her three kids in a little house.",
+     "faV": "روزی روزِگاری، یِک بُز با سه بُزغاله‌اَش دَر خانه‌ای کوچَک زِندِگی می‌کَرد.",
+     "a": "dec880f64d19"
+    },
+    {
+     "fa": "اسم بزغاله‌ها شنگول، منگول و حبه‌ی انگور بود.",
+     "r": "esm-e bozghāle-hā Shangul, Mangul o Habbe-ye Angur bud.",
+     "en": "The kids were called Shangul, Mangul and Habbe-ye Angur, 'Little Grape'.",
+     "faV": "اِسمِ بُزغاله‌ها شَنگول، مَنگول و حَبّه‌یِ اَنگور بود.",
+     "a": "b70f8fb0ea8a"
+    },
+    {
+     "fa": "هر روز صبح، مادر برای پیدا کردن علف به صحرا می‌رفت.",
+     "r": "har ruz sobh, mādar barā-ye peydā kardan-e alaf be sahrā mi-raft.",
+     "en": "Every morning their mother went out into the fields to find grass.",
+     "faV": "هَر روز صُبح، مادَر بَرایِ پَیدا کَردَنِ عَلَف به صَحرا می‌رَفت.",
+     "a": "247ca64e6194"
+    },
+    {
+     "fa": "او همیشه می‌گفت: «در را فقط برای من باز کنید.»",
+     "r": "u hamishe mi-goft: «dar rā faghat barā-ye man bāz konid.»",
+     "en": "She always said: \"Open the door only for me.\"",
+     "faV": "او هَمیشه می‌گُفت: «دَر را فَقَط بَرایِ مَن باز کُنید.»",
+     "a": "7e710d01d7af"
+    },
+    {
+     "fa": "«وقتی برگشتم، می‌خوانم: شنگول من، منگول من، حبه‌ی انگور من، در را باز کنید!»",
+     "r": "«vaghti bar-gashtam, mi-khānam: Shangul-e man, Mangul-e man, Habbe-ye Angur-e man, dar rā bāz konid!»",
+     "en": "\"When I come back, I'll sing: My Shangul, my Mangul, my Little Grape, open the door!\"",
+     "faV": "«وَقتی بَرگَشتَم، می‌خوانَم: شَنگولِ مَن، مَنگولِ مَن، حَبّه‌یِ اَنگورِ مَن، دَر را باز کُنید!»",
+     "a": "a6049b56e3be"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "یک روز، گرگی پشت در قایم شد و آواز بز را شنید.",
+     "r": "yek ruz, gorg-i posht-e dar ghāyem shod o āvāz-e boz rā shenid.",
+     "en": "One day a wolf hid behind the door and heard the goat's song.",
+     "faV": "یِک روز، گُرگی پُشتِ دَر قایِم شُد و آوازِ بُز را شِنید.",
+     "a": "6412f0133ab2"
+    },
+    {
+     "fa": "وقتی بز رفت، گرگ در زد و با صدای کلفتش آواز را خواند.",
+     "r": "vaghti boz raft, gorg dar zad o bā sedā-ye koloft-ash āvāz rā khānd.",
+     "en": "When the goat had gone, the wolf knocked and sang the song in his deep, gruff voice.",
+     "faV": "وَقتی بُز رَفت، گُرگ دَر زَد و با صِدایِ کُلُفتَش آواز را خواند.",
+     "a": "054106c7f1ee"
+    },
+    {
+     "fa": "بزغاله‌ها خندیدند و گفتند: «تو مادر ما نیستی! صدای مادر ما نازک است.»",
+     "r": "bozghāle-hā khandidand o goftand: «to mādar-e mā nisti! sedā-ye mādar-e mā nāzok ast.»",
+     "en": "The kids laughed and said: \"You're not our mother! Our mother has a soft, high voice.\"",
+     "faV": "بُزغاله‌ها خَندیدَند و گُفتَند: «تو مادَرِ ما نیستی! صِدایِ مادَرِ ما نازُک اَست.»",
+     "a": "4b6513bdd23c"
+    },
+    {
+     "fa": "گرگ رفت و عسل خورد تا صدایش نازک شود.",
+     "r": "gorg raft o asal khord tā sedā-yash nāzok shavad.",
+     "en": "The wolf went off and ate honey to make his voice high and soft.",
+     "faV": "گُرگ رَفت و عَسَل خورد تا صِدایَش نازُک شَوَد.",
+     "a": "c4fe909fea91"
+    },
+    {
+     "fa": "بعد برگشت و با صدای نازک آواز خواند.",
+     "r": "ba'd bar-gasht o bā sedā-ye nāzok āvāz khānd.",
+     "en": "Then he came back and sang in a sweet, high voice.",
+     "faV": "بَعد بَرگَشت و با صِدایِ نازُک آواز خواند.",
+     "a": "4a616e0bfaa7"
+    },
+    {
+     "fa": "شنگول و منگول در را باز کردند، اما حبه‌ی انگور زیر سبد قایم شد.",
+     "r": "Shangul o Mangul dar rā bāz kardand, ammā Habbe-ye Angur zir-e sabad ghāyem shod.",
+     "en": "Shangul and Mangul opened the door, but Little Grape hid under a basket.",
+     "faV": "شَنگول و مَنگول دَر را باز کَردَند، اَمّا حَبّه‌یِ اَنگور زیرِ سَبَد قایِم شُد.",
+     "a": "d7404eb7b372"
+    },
+    {
+     "fa": "گرگ شنگول و منگول را خورد و رفت.",
+     "r": "gorg Shangul o Mangul rā khord o raft.",
+     "en": "The wolf gobbled up Shangul and Mangul and went away.",
+     "faV": "گُرگ شَنگول و مَنگول را خورد و رَفت.",
+     "a": "652486c68115"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "وقتی بز برگشت، حبه‌ی انگور گریه کرد و همه چیز را تعریف کرد.",
+     "r": "vaghti boz bar-gasht, Habbe-ye Angur gerye kard o hame chiz rā ta'rif kard.",
+     "en": "When the goat came home, Little Grape burst into tears and told her everything.",
+     "faV": "وَقتی بُز بَرگَشت، حَبّه‌یِ اَنگور گِریه کَرد و هَمه چیز را تَعریف کَرد.",
+     "a": "a26b679fb022"
+    },
+    {
+     "fa": "بز خیلی عصبانی شد و شاخ‌هایش را تیز کرد.",
+     "r": "boz kheyli asabāni shod o shākh-hā-yash rā tiz kard.",
+     "en": "The goat was furious, and she sharpened her horns.",
+     "faV": "بُز خَیلی عَصَبانی شُد و شاخ‌هایَش را تیز کَرد.",
+     "a": "1eca0506dee4"
+    },
+    {
+     "fa": "او به خانه‌ی گرگ رفت و گفت: «اگر شجاع هستی، بیا بیرون و با من بجنگ!»",
+     "r": "u be khāne-ye gorg raft o goft: «agar shojā' hasti, biyā birun o bā man bejang!»",
+     "en": "She went to the wolf's house and said: \"If you're so brave, come out and fight me!\"",
+     "faV": "او به خانه‌یِ گُرگ رَفت و گُفت: «اَگَر شُجاع هَستی، بیا بیرون و با مَن بِجَنگ!»",
+     "a": "660605f9d341"
+    },
+    {
+     "fa": "گرگ بیرون آمد و جنگ شروع شد.",
+     "r": "gorg birun āmad o jang shoru' shod.",
+     "en": "The wolf came out, and the fight began.",
+     "faV": "گُرگ بیرون آمَد و جَنگ شُروع شُد.",
+     "a": "21a14f0a0995"
+    },
+    {
+     "fa": "بز با شاخ‌های تیزش شکم گرگ را پاره کرد.",
+     "r": "boz bā shākh-hā-ye tiz-ash shekam-e gorg rā pāre kard.",
+     "en": "With her sharp horns the goat ripped open the wolf's belly.",
+     "faV": "بُز با شاخ‌هایِ تیزَش شِکَمِ گُرگ را پاره کَرد.",
+     "a": "c4d3ee118c93"
+    },
+    {
+     "fa": "شنگول و منگول زنده و سالم از شکم گرگ بیرون پریدند.",
+     "r": "Shangul o Mangul zende o sālem az shekam-e gorg birun paridand.",
+     "en": "Out of the wolf's belly jumped Shangul and Mangul, alive and well.",
+     "faV": "شَنگول و مَنگول زِنده و سالِم اَز شِکَمِ گُرگ بیرون پَریدَند.",
+     "a": "064a46b7200b"
+    },
+    {
+     "fa": "از آن روز به بعد، بزغاله‌ها در را برای هیچ غریبه‌ای باز نکردند.",
+     "r": "az ān ruz be ba'd, bozghāle-hā dar rā barā-ye hich gharibe-i bāz na-kardand.",
+     "en": "From that day on, the kids never opened the door to a stranger again.",
+     "faV": "اَز آن روز به بَعد، بُزغاله‌ها دَر را بَرایِ هیچ غَریبه‌ای باز نَکَردَند.",
+     "a": "0b298bf3ad7b"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "روزی روزگاری",
+   "r": "ruz-i ruzegār-i",
+   "en": "once upon a time",
+   "faV": "روزی روزِگاری",
+   "a": "b2c9c4f5cfe8"
+  },
+  {
+   "fa": "بز",
+   "r": "boz",
+   "en": "goat",
+   "faV": "بُز",
+   "a": "1d655c98154c"
+  },
+  {
+   "fa": "بزغاله",
+   "r": "bozghāle",
+   "en": "kid, young goat",
+   "faV": "بُزغاله",
+   "a": "b0130e10deab"
+  },
+  {
+   "fa": "حبه‌ی انگور",
+   "r": "habbe-ye angur",
+   "en": "a single grape",
+   "faV": "حَبّه‌یِ اَنگور",
+   "a": "79b1da27afb7"
+  },
+  {
+   "fa": "علف",
+   "r": "alaf",
+   "en": "grass",
+   "faV": "عَلَف",
+   "a": "0fa00222201e"
+  },
+  {
+   "fa": "قایم شدن",
+   "r": "ghāyem shodan",
+   "en": "to hide (oneself)",
+   "faV": "قایِم شُدَن",
+   "a": "4712e02c3ade"
+  },
+  {
+   "fa": "آواز",
+   "r": "āvāz",
+   "en": "song, singing",
+   "faV": "آواز",
+   "a": "e62d36001c3d"
+  },
+  {
+   "fa": "در زدن",
+   "r": "dar zadan",
+   "en": "to knock (at the door)",
+   "faV": "دَر زَدَن",
+   "a": "15a678899ffd"
+  },
+  {
+   "fa": "کلفت",
+   "r": "koloft",
+   "en": "thick; deep, gruff (of a voice)",
+   "faV": "کُلُفت",
+   "a": "1200a928035d"
+  },
+  {
+   "fa": "نازک",
+   "r": "nāzok",
+   "en": "thin; soft and high (of a voice)",
+   "faV": "نازُک",
+   "a": "9ca31476ac00"
+  },
+  {
+   "fa": "عسل",
+   "r": "asal",
+   "en": "honey",
+   "faV": "عَسَل",
+   "a": "cff3004b3ed5"
+  },
+  {
+   "fa": "سبد",
+   "r": "sabad",
+   "en": "basket",
+   "faV": "سَبَد",
+   "a": "5b134b893a86"
+  },
+  {
+   "fa": "تعریف کردن",
+   "r": "ta'rif kardan",
+   "en": "to tell, recount (a story)",
+   "faV": "تَعریف کَردَن",
+   "a": "0b99a18d53d4"
+  },
+  {
+   "fa": "شاخ",
+   "r": "shākh",
+   "en": "horn",
+   "faV": "شاخ",
+   "a": "9d091fcb36e6"
+  },
+  {
+   "fa": "شکم",
+   "r": "shekam",
+   "en": "belly, stomach",
+   "faV": "شِکَم",
+   "a": "9a2b8a80a48d"
+  },
+  {
+   "fa": "غریبه",
+   "r": "gharibe",
+   "en": "stranger",
+   "faV": "غَریبه",
+   "a": "af7f34e3a4db"
+  }
+ ],
+ "questions": [
+  {
+   "q": "What are the names of the three kids?",
+   "options": [
+    "Shangul, Mangul and Habbe-ye Angur",
+    "Pishi, Mangul and Little Grape",
+    "Rostam, Sohrab and Zal"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How did the kids know it was not their mother the first time?",
+   "options": [
+    "he didn't know the song",
+    "his voice was too deep",
+    "he came at night"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Where did Habbe-ye Angur hide?",
+   "options": [
+    "on the roof",
+    "in the oven",
+    "under a basket"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "How did the mother goat save her kids?",
+   "options": [
+    "she called the villagers",
+    "she gave the wolf honey",
+    "she ripped open the wolf's belly with her horns"
+   ],
+   "answer": 2
+  }
+ ],
+ "after": "شنگول (shangul) is a real word meaning 'cheerful, full of beans'; منگول (mangul) is there mostly to rhyme with it, and حبه‌ی انگور is 'a single grape' – the littlest kid. Notice how the pronoun endings join a noun: after a consonant they join directly (کلفتش koloft-ash, تیزش tiz-ash), after a vowel a ی is added (صدایش sedā-yash 'his voice', شاخ‌هایش shākh-hā-yash 'her horns'). تا + subjunctive gives the purpose: عسل خورد تا صدایش نازک شود 'he ate honey so that his voice would become soft'. And her challenge uses the simple 'if' with the present of 'to be': اگر شجاع هستی 'if you are brave'. In longer tellings the wolf tries more tricks before the kids open the door, and the goat sings a longer song; the details change from family to family, but the happy ending never does.",
+ "titleV": "شَنگول و مَنگول",
+ "titleA": "bdd798081d06"
+}

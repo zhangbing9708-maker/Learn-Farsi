@@ -1,0 +1,131 @@
+{
+ "id": "arts-gardens-and-water",
+ "topic": "arts",
+ "title": "Gardens and water",
+ "titleFa": "باغ و آب",
+ "titleR": "bāgh o āb",
+ "image": "fin-garden",
+ "summary": "In a dry land a garden is paradise – and the word 'paradise' itself is Persian. The four-part chahar bagh, singing water and mirror-like pools, cypress and shade, and the nine gardens that UNESCO calls 'The Persian Garden'.",
+ "body": [
+  {
+   "h": "A garden in a dry land",
+   "md": "Most of Iran is mountain and desert, so the garden – [[باغ|bāgh|garden]] – has always been a dream made real: a walled space where water runs, trees give shade and fruit, and the noise and dust of the world stay outside. Persian poets filled their verse with gardens, weavers wove them into carpets, and Saadi named his two great books [[گلستان|Golestān|the Rose Garden]] and [[بوستان|Bustān|the Orchard]]."
+  },
+  {
+   "h": "The four gardens",
+   "md": "The classic Persian garden is the [[چهارباغ|chahār-bāgh|'four gardens']]: a rectangle divided into four by two water channels crossing at right angles, with a pavilion, a [[کوشک|kushk|pavilion]], at the centre or at one end. The idea is very old. At Pasargadae, the capital of Cyrus the Great in the 6th century BC, archaeologists have traced the stone water channels that framed his royal garden, often called the earliest known example. Later, Muslim Iranians saw in the four channels the four rivers of paradise, and Shah Abbas gave the name Chahar Bagh to the great garden avenue of Isfahan.",
+   "image": "pasargadae"
+  },
+  {
+   "h": "From pardis to paradise",
+   "md": "The ancient Iranians called a walled park by a word meaning 'wall around', which survives in Persian as [[پردیس|pardis|walled garden; today also 'campus']]. Greek writers who visited the Persian kings' hunting parks borrowed it as *paradeisos*; it passed into Latin and the Bible, and English made it *paradise*. Arabic took it too, as *firdaws* – and Ferdowsi's pen name is usually explained as 'of paradise'. In Iran the word is alive again: a university campus is a pardis, and so is a big multi-screen cinema.",
+   "image": "pardis"
+  },
+  {
+   "h": "Water that sings",
+   "md": "Water is the soul of the garden. Brought from the mountains by a qanat, it runs along narrow channels, spills over little cascades, rests in a pool, a [[حوض|howz|pool]], and leaps from a [[فواره|favvāre|fountain]] – often with no pump at all, pushed only by the slope of the land. In the Fin Garden at Kashan it flows from a spring through channels lined with turquoise tiles. At Chehel Sotoun in Isfahan, 'Forty Columns', the twenty wooden pillars of the palace porch are reflected in a long pool and so become forty. Tall [[سرو|sarv|cypress]] trees, symbols of life that never fades, line the paths.",
+   "image": "chehel-sotoun"
+  },
+  {
+   "h": "The nine gardens of UNESCO",
+   "md": "In 2011 UNESCO added 'The Persian Garden' to its World Heritage list – nine gardens spread across the country:\n\n- **Pasargadae**, the garden of Cyrus in Fars;\n- **Chehel Sotoun** in Isfahan;\n- **Fin** in Kashan;\n- **Eram** in Shiraz, famous for its cypresses and roses;\n- **Abbasabad** near Behshahr, in the Caspian forests;\n- **Shazdeh** at Mahan near Kerman, a terraced oasis in the desert;\n- **Dowlat Abad** in Yazd, with one of Iran's tallest windcatchers;\n- **Pahlavanpur** at Mehriz near Yazd;\n- **Akbarieh** in Birjand.\n\nMost are open to visitors, and on spring afternoons they fill with families.",
+   "image": "eram-garden"
+  },
+  {
+   "h": "A garden at home",
+   "md": "The garden idea shrinks to fit every home. A traditional house turns its back on the street and opens onto a courtyard with a pool in the middle and a few trees; even a city flat has pots of geraniums on the balcony. And on the thirteenth day of the New Year, [[سیزده‌بدر|Sizdah-bedar|Sizdah Bedar]], Iranians leave their homes to picnic in parks and gardens."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "باغ ایرانی دیوار، آب و درخت دارد.",
+   "r": "bāgh-e irāni divār, āb va derakht dārad.",
+   "en": "A Persian garden has walls, water and trees."
+  },
+  {
+   "fa": "چهارباغ با دو جوی آب به چهار قسمت تقسیم می‌شود.",
+   "r": "chahār-bāgh bā do juy-e āb be chahār ghesmat taghsim mi-shavad.",
+   "en": "A chahar bagh is divided into four parts by two water channels."
+  },
+  {
+   "fa": "باغ پاسارگاد قدیمی‌ترین باغ ایرانی است.",
+   "r": "bāgh-e Pāsārgād ghadimi-tarin bāgh-e irāni ast.",
+   "en": "The garden of Pasargadae is the oldest known Persian garden."
+  },
+  {
+   "fa": "کلمه‌ی انگلیسی «پارادایس» از «پردیس» آمده است.",
+   "r": "kalame-ye engelisi-ye «pārādāys» az «pardis» āmade ast.",
+   "en": "The English word 'paradise' comes from 'pardis'."
+  },
+  {
+   "fa": "امروز به محوطه‌ی دانشگاه هم پردیس می‌گویند.",
+   "r": "emruz be mohavvate-ye dāneshgāh ham pardis mi-guyand.",
+   "en": "Today a university campus is also called a pardis."
+  },
+  {
+   "fa": "آب از قنات به باغ می‌رسد.",
+   "r": "āb az ghanāt be bāgh mi-resad.",
+   "en": "Water reaches the garden from a qanat."
+  },
+  {
+   "fa": "در وسط حیاط یک حوض آبی بود.",
+   "r": "dar vasat-e hayāt yek howz-e ābi bud.",
+   "en": "There was a blue pool in the middle of the courtyard."
+  },
+  {
+   "fa": "فواره‌های باغ فین بدون پمپ کار می‌کنند.",
+   "r": "favvāre-hā-ye bāgh-e Fin bedun-e pomp kār mi-konand.",
+   "en": "The fountains of the Fin Garden work without pumps."
+  },
+  {
+   "fa": "ستون‌های چهل‌ستون در آب حوض دو برابر می‌شوند.",
+   "r": "sotun-hā-ye Chehel-sotun dar āb-e howz do barābar mi-shavand.",
+   "en": "The columns of Chehel Sotoun are doubled in the water of the pool."
+  },
+  {
+   "fa": "سرو در شعر فارسی نماد قد بلند یار است.",
+   "r": "sarv dar she'r-e fārsi namād-e ghadd-e boland-e yār ast.",
+   "en": "In Persian poetry the cypress stands for the beloved's tall, graceful figure."
+  },
+  {
+   "fa": "باغ ایرانی در سال ۲۰۱۱ در فهرست میراث جهانی یونسکو ثبت شد.",
+   "r": "bāgh-e irāni dar sāl-e do-hezār-o-yāzdah dar fehrest-e mirās-e jahāni-ye Yunesko sabt shod.",
+   "en": "The Persian Garden was inscribed on UNESCO's World Heritage list in 2011."
+  },
+  {
+   "fa": "روز سیزده‌بدر مردم به باغ و پارک می‌روند.",
+   "r": "ruz-e Sizdah-bedar mardom be bāgh va pārk mi-ravand.",
+   "en": "On Sizdah Bedar people go out to gardens and parks."
+  }
+ ],
+ "vocab": [
+  {"fa": "باغ", "r": "bāgh", "en": "garden; orchard"},
+  {"fa": "باغبان", "r": "bāghbān", "en": "gardener"},
+  {"fa": "چهارباغ", "r": "chahār-bāgh", "en": "four-part garden, chahar bagh"},
+  {"fa": "پردیس", "r": "pardis", "en": "walled garden, paradise; campus"},
+  {"fa": "بهشت", "r": "behesht", "en": "paradise, heaven"},
+  {"fa": "کوشک", "r": "kushk", "en": "garden pavilion"},
+  {"fa": "آب", "r": "āb", "en": "water"},
+  {"fa": "جوی", "r": "juy", "en": "stream, water channel"},
+  {"fa": "حوض", "r": "howz", "en": "pool, basin"},
+  {"fa": "فواره", "r": "favvāre", "en": "fountain"},
+  {"fa": "آبشار", "r": "ābshār", "en": "waterfall, cascade"},
+  {"fa": "درخت", "r": "derakht", "en": "tree"},
+  {"fa": "سرو", "r": "sarv", "en": "cypress"},
+  {"fa": "چنار", "r": "chenār", "en": "plane tree"},
+  {"fa": "گل", "r": "gol", "en": "flower; rose"},
+  {"fa": "سایه", "r": "sāye", "en": "shade, shadow"},
+  {"fa": "دیوار", "r": "divār", "en": "wall"},
+  {"fa": "میوه", "r": "mive", "en": "fruit"},
+  {"fa": "حیاط", "r": "hayāt", "en": "courtyard"},
+  {"fa": "میراث جهانی", "r": "mirās-e jahāni", "en": "world heritage"}
+ ],
+ "facts": [
+  "UNESCO inscribed 'The Persian Garden', a group of nine gardens across Iran, on its World Heritage list in 2011.",
+  "The English word 'paradise' comes, through Greek and Latin, from an Old Iranian word for a walled enclosure – the ancestor of Persian [[پردیس|pardis]].",
+  "Amir Kabir, the reforming chief minister of Naser al-Din Shah, was murdered in 1852 in the bathhouse of the Fin Garden in Kashan.",
+  "The cypress of Abarkuh, in Yazd province, is said to be about 4,000 years old – one of the oldest living trees in Asia.",
+  "Saadi's *Bustan* ('The Orchard', 1257) and *Golestan* ('The Rose Garden', 1258) are both named after gardens.",
+  "Eram Garden in Shiraz is now the botanical garden of Shiraz University."
+ ]
+}

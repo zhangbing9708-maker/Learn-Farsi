@@ -1,0 +1,380 @@
+{
+ "id": "a2-kadu-ghelghelezan",
+ "level": "A2",
+ "kind": "folk tale",
+ "title": "The rolling pumpkin",
+ "titleFa": "کدو قلقله‌زن",
+ "titleR": "kadu ghelghele-zan",
+ "image": "hyrcanian-forests",
+ "intro": "کدو قلقله‌زن (Kadu Ghelghelezan), 'the rolling pumpkin', is one of the best-loved Iranian bedtime stories. A clever old woman sets off through the forest to visit her daughter and has to get past a wolf, a tiger and a lion – on the way there and on the way back. Read it for the narrative past, the classic opening یکی بود، یکی نبود, the simple اگر of the old woman's bargain, and the little rhyme she sings from inside the pumpkin.",
+ "source": "Retold from a traditional Iranian folk tale (public domain).",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "یکی بود، یکی نبود.",
+     "r": "yeki bud, yeki na-bud.",
+     "en": "Once upon a time…",
+     "lit": "There was one, there was not one.",
+     "faV": "یِکی بود، یِکی نَبود.",
+     "a": "92d71d7020bc"
+    },
+    {
+     "fa": "پیرزنی در یک خانه‌ی کوچک زندگی می‌کرد.",
+     "r": "pirezan-i dar yek khāne-ye kuchak zendegi mi-kard.",
+     "en": "There was an old woman who lived in a little house.",
+     "faV": "پیرِزَنی دَر یِک خانه‌یِ کوچَک زِندِگی می‌کَرد.",
+     "a": "a0bdf0a518c7"
+    },
+    {
+     "fa": "دخترش آن طرف جنگل زندگی می‌کرد.",
+     "r": "dokhtar-ash ān taraf-e jangal zendegi mi-kard.",
+     "en": "Her daughter lived on the other side of the forest.",
+     "faV": "دُختَرَش آن طَرَفِ جَنگَل زِندِگی می‌کَرد.",
+     "a": "a6c64e6670b4"
+    },
+    {
+     "fa": "یک روز پیرزن تصمیم گرفت که به دیدن دخترش برود.",
+     "r": "yek ruz pirezan tasmim gereft ke be didan-e dokhtar-ash beravad.",
+     "en": "One day the old woman decided to go and visit her daughter.",
+     "faV": "یِک روز پیرِزَن تَصمیم گِرِفت که به دیدَنِ دُختَرَش بِرَوَد.",
+     "a": "5fe4a5e71e41"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "در جنگل، یک گرگ گرسنه جلوی او را گرفت.",
+     "r": "dar jangal, yek gorg-e gorosne jelo-ye u rā gereft.",
+     "en": "In the forest, a hungry wolf blocked her way.",
+     "faV": "دَر جَنگَل، یِک گُرگِ گُرُسنه جِلویِ او را گِرِفت.",
+     "a": "53b9421b7981"
+    },
+    {
+     "fa": "گرگ گفت: «پیرزن، می‌خواهم تو را بخورم!»",
+     "r": "gorg goft: «pirezan, mi-khāham to rā bekhoram!»",
+     "en": "The wolf said: \"Old woman, I'm going to eat you!\"",
+     "faV": "گُرگ گُفت: «پیرِزَن، می‌خواهَم تو را بِخورَم!»",
+     "a": "21d2502e4f64"
+    },
+    {
+     "fa": "پیرزن گفت: «من الان لاغر و پیر هستم.»",
+     "r": "pirezan goft: «man alān lāghar o pir hastam.»",
+     "en": "The old woman said: \"Right now I'm old and thin.\"",
+     "faV": "پیرِزَن گُفت: «مَن اَلان لاغَر و پیر هَستَم.»",
+     "a": "22c234382db4"
+    },
+    {
+     "fa": "«اگر صبر کنی، به خانه‌ی دخترم می‌روم و چاق می‌شوم.»",
+     "r": "«agar sabr koni, be khāne-ye dokhtar-am mi-ravam o chāgh mi-shavam.»",
+     "en": "\"If you wait, I'll go to my daughter's house and get nice and fat.\"",
+     "faV": "«اَگَر صَبر کُنی، به خانه‌یِ دُختَرَم می‌رَوَم و چاق می‌شَوَم.»",
+     "a": "c08022bc9f2b"
+    },
+    {
+     "fa": "«وقتی برگشتم، مرا بخور!»",
+     "r": "«vaghti bar-gashtam, ma-rā bekhor!»",
+     "en": "\"When I come back, you can eat me!\"",
+     "faV": "«وَقتی بَرگَشتَم، مَرا بِخور!»",
+     "a": "3d25f7dd15a9"
+    },
+    {
+     "fa": "گرگ قبول کرد.",
+     "r": "gorg ghabul kard.",
+     "en": "The wolf agreed.",
+     "faV": "گُرگ قَبول کَرد.",
+     "a": "b6571ebd20b6"
+    },
+    {
+     "fa": "بعد ببر و شیر هم سر راهش آمدند و همین جواب را شنیدند.",
+     "r": "ba'd babr o shir ham sar-e rāh-ash āmadand o hamin javāb rā shenidand.",
+     "en": "Then a tiger and a lion also crossed her path, and they got the same answer.",
+     "faV": "بَعد بَبر و شیر هَم سَرِ راهَش آمَدَند و هَمین جَواب را شِنیدَند.",
+     "a": "4df955e674b8"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "پیرزن چند هفته در خانه‌ی دخترش ماند.",
+     "r": "pirezan chand hafte dar khāne-ye dokhtar-ash mānd.",
+     "en": "The old woman stayed at her daughter's house for a few weeks.",
+     "faV": "پیرِزَن چَند هَفته دَر خانه‌یِ دُختَرَش ماند.",
+     "a": "458d000ad48d"
+    },
+    {
+     "fa": "او برنج و کباب و حلوا خورد و حسابی چاق شد.",
+     "r": "u berenj o kabāb o halvā khord o hesābi chāgh shod.",
+     "en": "She ate rice and kebab and halva, and she got really fat.",
+     "faV": "او بِرِنج و کَباب و حَلوا خورد و حِسابی چاق شُد.",
+     "a": "51522369351f"
+    },
+    {
+     "fa": "اما برای برگشتن می‌ترسید.",
+     "r": "ammā barā-ye bar-gashtan mi-tarsid.",
+     "en": "But she was afraid to go back.",
+     "faV": "اَمّا بَرایِ بَرگَشتَن می‌تَرسید.",
+     "a": "7dc371925ef6"
+    },
+    {
+     "fa": "دخترش وسط یک کدوی بزرگ را خالی کرد و مادرش را داخل آن گذاشت.",
+     "r": "dokhtar-ash vasat-e yek kadu-ye bozorg rā khāli kard o mādar-ash rā dākhel-e ān gozāsht.",
+     "en": "Her daughter hollowed out a big pumpkin and put her mother inside it.",
+     "faV": "دُختَرَش وَسَطِ یِک کَدویِ بُزُرگ را خالی کَرد و مادَرَش را داخِلِ آن گُذاشت.",
+     "a": "e1670625c891"
+    },
+    {
+     "fa": "بعد کدو را در جاده هل داد.",
+     "r": "ba'd kadu rā dar jādde hol dād.",
+     "en": "Then she gave the pumpkin a push down the road.",
+     "faV": "بَعد کَدو را دَر جادّه هُل داد.",
+     "a": "c504a9b72af5"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "کدو قل خورد و قل خورد تا به گرگ رسید.",
+     "r": "kadu ghel khord o ghel khord tā be gorg resid.",
+     "en": "The pumpkin rolled and rolled until it came to the wolf.",
+     "faV": "کَدو قِل خورد و قِل خورد تا به گُرگ رِسید.",
+     "a": "5082feb51f65"
+    },
+    {
+     "fa": "گرگ پرسید: «کدو، کدو، پیرزن را ندیدی؟»",
+     "r": "gorg porsid: «kadu, kadu, pirezan rā na-didi?»",
+     "en": "The wolf asked: \"Pumpkin, pumpkin, haven't you seen the old woman?\"",
+     "faV": "گُرگ پُرسید: «کَدو، کَدو، پیرِزَن را نَدیدی؟»",
+     "a": "15ee8ad3038d"
+    },
+    {
+     "fa": "پیرزن از داخل کدو جواب داد: «نه دیدم، نه شنیدم! من کدوی قلقله‌زنم!»",
+     "r": "pirezan az dākhel-e kadu javāb dād: «na didam, na shenidam! man kadu-ye ghelghele-zan-am!»",
+     "en": "From inside the pumpkin the old woman answered: \"I've seen nothing, I've heard nothing! I'm the rolling pumpkin!\"",
+     "faV": "پیرِزَن اَز داخِلِ کَدو جَواب داد: «نه دیدَم، نه شِنیدَم! مَن کَدویِ قِلقِله‌زَنَم!»",
+     "a": "e5f12e100e25"
+    },
+    {
+     "fa": "گرگ کنار رفت و کدو از کنارش گذشت.",
+     "r": "gorg kenār raft o kadu az kenār-ash gozasht.",
+     "en": "The wolf stepped aside and the pumpkin rolled past him.",
+     "faV": "گُرگ کِنار رَفت و کَدو اَز کِنارَش گُذَشت.",
+     "a": "c3ceb2391ae6"
+    },
+    {
+     "fa": "ببر هم همین سؤال را کرد و همین جواب را شنید.",
+     "r": "babr ham hamin so'āl rā kard o hamin javāb rā shenid.",
+     "en": "The tiger asked the same question and got the same answer.",
+     "faV": "بَبر هَم هَمین سُؤال را کَرد و هَمین جَواب را شِنید.",
+     "a": "cb6be920b5d2"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "اما شیر باهوش بود.",
+     "r": "ammā shir bāhush bud.",
+     "en": "But the lion was clever.",
+     "faV": "اَمّا شیر باهوش بود.",
+     "a": "a941bc395f82"
+    },
+    {
+     "fa": "گفت: «کدویی که حرف می‌زند؟ عجیب است!»",
+     "r": "goft: «kadu-yi ke harf mi-zanad? ajib ast!»",
+     "en": "He said: \"A pumpkin that talks? How strange!\"",
+     "faV": "گُفت: «کَدویی که حَرف می‌زَنَد؟ عَجیب اَست!»",
+     "a": "f757b80bb80c"
+    },
+    {
+     "fa": "او با پنجه به کدو زد و کدو شکست.",
+     "r": "u bā panje be kadu zad o kadu shekast.",
+     "en": "He struck the pumpkin with his paw, and it broke open.",
+     "faV": "او با پَنجه به کَدو زَد و کَدو شِکَست.",
+     "a": "2e0963d114ad"
+    },
+    {
+     "fa": "پیرزن چاق از کدو بیرون پرید و تا خانه دوید.",
+     "r": "pirezan-e chāgh az kadu birun parid o tā khāne david.",
+     "en": "The fat old woman jumped out of the pumpkin and ran all the way home.",
+     "faV": "پیرِزَنِ چاق اَز کَدو بیرون پَرید و تا خانه دَوید.",
+     "a": "7cb69457864b"
+    },
+    {
+     "fa": "او در را بست و شیر گرسنه پشت در ماند.",
+     "r": "u dar rā bast o shir-e gorosne posht-e dar mānd.",
+     "en": "She shut the door, and the hungry lion was left outside.",
+     "faV": "او دَر را بَست و شیرِ گُرُسنه پُشتِ دَر ماند.",
+     "a": "4e0dfd2b9b5c"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "یکی بود، یکی نبود",
+   "r": "yeki bud, yeki na-bud",
+   "en": "once upon a time",
+   "faV": "یِکی بود، یِکی نَبود",
+   "a": "3aede10eb768"
+  },
+  {
+   "fa": "پیرزن",
+   "r": "pirezan",
+   "en": "old woman",
+   "faV": "پیرِزَن",
+   "a": "0648481205f5"
+  },
+  {
+   "fa": "جنگل",
+   "r": "jangal",
+   "en": "forest",
+   "faV": "جَنگَل",
+   "a": "3b061673332d"
+  },
+  {
+   "fa": "تصمیم گرفتن",
+   "r": "tasmim gereftan",
+   "en": "to decide",
+   "faV": "تَصمیم گِرِفتَن",
+   "a": "deb6e7eb9e32"
+  },
+  {
+   "fa": "به دیدن کسی رفتن",
+   "r": "be didan-e kas-i raftan",
+   "en": "to go and visit someone",
+   "faV": "به دیدَنِ کَسی رَفتَن",
+   "a": "1d9aa93cf258"
+  },
+  {
+   "fa": "جلوی کسی را گرفتن",
+   "r": "jelo-ye kas-i rā gereftan",
+   "en": "to stop someone, block someone's way",
+   "faV": "جِلویِ کَسی را گِرِفتَن",
+   "a": "0b8742ac4daa"
+  },
+  {
+   "fa": "لاغر",
+   "r": "lāghar",
+   "en": "thin",
+   "faV": "لاغَر",
+   "a": "ffc2a7848ae2"
+  },
+  {
+   "fa": "چاق",
+   "r": "chāgh",
+   "en": "fat",
+   "faV": "چاق",
+   "a": "33d93cd5ea56"
+  },
+  {
+   "fa": "صبر کردن",
+   "r": "sabr kardan",
+   "en": "to wait",
+   "faV": "صَبر کَردَن",
+   "a": "cdaf2fba0798"
+  },
+  {
+   "fa": "قبول کردن",
+   "r": "ghabul kardan",
+   "en": "to accept, agree",
+   "faV": "قَبول کَردَن",
+   "a": "b920690ffe55"
+  },
+  {
+   "fa": "ببر",
+   "r": "babr",
+   "en": "tiger",
+   "faV": "بَبر",
+   "a": "0a9aed415f66"
+  },
+  {
+   "fa": "کدو",
+   "r": "kadu",
+   "en": "pumpkin, squash",
+   "faV": "کَدو",
+   "a": "ceceb5ad8726"
+  },
+  {
+   "fa": "خالی کردن",
+   "r": "khāli kardan",
+   "en": "to empty, hollow out",
+   "faV": "خالی کَردَن",
+   "a": "c605137f09d3"
+  },
+  {
+   "fa": "قل خوردن",
+   "r": "ghel khordan",
+   "en": "to roll",
+   "faV": "قِل خوردَن",
+   "a": "983287e8bbb5"
+  },
+  {
+   "fa": "باهوش",
+   "r": "bāhush",
+   "en": "clever",
+   "faV": "باهوش",
+   "a": "2df8ca96af77"
+  },
+  {
+   "fa": "شکستن",
+   "r": "shekastan",
+   "en": "to break",
+   "faV": "شِکَستَن",
+   "a": "0decfae2b94c"
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why did the old woman go through the forest?",
+   "options": [
+    "to buy a pumpkin",
+    "to visit her daughter",
+    "to look for the lion"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What did she promise the wolf?",
+   "options": [
+    "that he could eat her when she came back fat",
+    "that she would bring him kebab",
+    "that she would never come back"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How did she travel home?",
+   "options": [
+    "on the lion's back",
+    "with her daughter",
+    "inside a pumpkin"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Why did the lion stop the pumpkin?",
+   "options": [
+    "he wanted to eat pumpkin",
+    "he thought a talking pumpkin was strange",
+    "the pumpkin hit him"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "How does the story end?",
+   "options": [
+    "the old woman runs home and shuts the door",
+    "the lion eats the old woman",
+    "the wolf and the lion become her friends"
+   ],
+   "answer": 0
+  }
+ ],
+ "after": "یکی بود، یکی نبود – 'there was one, there was not one' – is how Persian folk tales begin; storytellers often go on غیر از خدا هیچ‌کس نبود, 'apart from God there was no one'. Notice the old woman's clever grammar in «وقتی برگشتم، مرا بخور»: after وقتی, Persian uses the past (برگشتم) for a moment that is still in the future ('when I have come back'). Her bargain is the simple 'if': اگر صبر کنی (subjunctive), می‌روم و چاق می‌شوم (present for the future). Compound verbs carry the whole story: تصمیم گرفتن 'to decide', قبول کردن 'to agree', قل خوردن 'to roll', هل دادن 'to push'. The pumpkin's name plays on قل (ghel), the sound and movement of something rolling. Families tell the tale in different ways – in some the animals are a wolf, a leopard and a lion, and the rhyme changes from house to house.",
+ "titleV": "کَدو قِلقِله‌زَن",
+ "titleA": "344e89434eda"
+}

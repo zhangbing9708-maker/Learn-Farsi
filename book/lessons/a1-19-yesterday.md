@@ -299,10 +299,10 @@ If you missed a good outing, your friends will tell you جای شما خالی �
 
 **Put the words in order**
 
-1. دیروز / به / بازار / رفتم. — Yesterday I went to the bazaar.
+1. رفتم. / به / دیروز / بازار — Yesterday I went to the bazaar.
 2. شام / دیشب / نخوردم. — I didn't have dinner last night.
-3. پارسال / به / اصفهان / رفتند. — Last year they went to Isfahan.
-4. دیروز / سرد / هوا / بود. — Yesterday it was cold.
+3. رفتند. / اصفهان / به / پارسال — Last year they went to Isfahan.
+4. هوا / سرد / دیروز / بود. — Yesterday it was cold.
 
 <details><summary>Answers</summary>
 

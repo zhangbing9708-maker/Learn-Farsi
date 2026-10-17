@@ -1,0 +1,309 @@
+{
+ "id": "b1-cyrus-and-the-cylinder",
+ "level": "B1",
+ "kind": "history",
+ "title": "Cyrus and the cylinder",
+ "titleFa": "کوروش و استوانه",
+ "titleR": "Kurosh o estevāne",
+ "image": "cyrus-cylinder",
+ "intro": "In 539 BC Cyrus the Great entered Babylon, and soon afterwards a clay cylinder was inscribed in his name. Two and a half thousand years later it is one of the most famous objects in Iranian history. Read it for the passive with شدن (نوشته شد، پیدا شد), for dates in Persian, and for the vocabulary of history.",
+ "source": "Based on the text of the Cyrus Cylinder (6th century BC) and the history of the Achaemenid period.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "کوروش بزرگ حدود دو هزار و ششصد سال پیش در سرزمین پارس به دنیا آمد.",
+     "r": "Kurosh-e bozorg hodud-e do hezār o sheshsad sāl pish dar sarzamin-e Pārs be donyā āmad.",
+     "en": "Cyrus the Great was born about two thousand six hundred years ago in the land of Pars.",
+     "faV": "کوروشِ بُزُرگ حُدودِ دو هِزار و شِشصَد سال پیش دَر سَرزَمینِ پارس به دُنیا آمَد.",
+     "a": "f3e85ce3b3a8"
+    },
+    {
+     "fa": "او پارسیان و مادها را متحد کرد و شاهنشاهی هخامنشی را بنیان گذاشت که از دریای مدیترانه تا آسیای میانه گسترده بود.",
+     "r": "u pārsiyān o Mād-hā rā mottahed kard o shāhanshāhi-ye Hakhāmaneshi rā bonyān gozāsht ke az daryā-ye Mediterāne tā āsiyā-ye miyāne gostarde bud.",
+     "en": "He united the Persians and the Medes and founded the Achaemenid Empire, which stretched from the Mediterranean to Central Asia.",
+     "faV": "او پارسیان و مادها را مُتَّحِد کَرد و شاهَنشاهیِ هَخامَنِشی را بُنیان گُذاشت که اَز دَریایِ مِدیتِرانه تا آسیایِ میانه گُستَرده بود.",
+     "a": "233149db9bfb"
+    },
+    {
+     "fa": "در سال ۵۳۹ پیش از میلاد، سپاه کوروش به بابل رسید؛ بابل در آن زمان یکی از بزرگ‌ترین و ثروتمندترین شهرهای جهان بود.",
+     "r": "dar sāl-e pānsad-o-si-o-noh pish az milād, sepāh-e Kurosh be Bābel resid; Bābel dar ān zamān yek-i az bozorg-tarin o servatmand-tarin shahr-hā-ye jahān bud.",
+     "en": "In 539 BC Cyrus's army reached Babylon, at that time one of the largest and richest cities in the world.",
+     "faV": "دَر سالِ ۵۳۹ پیش اَز میلاد، سِپاهِ کوروش به بابِل رِسید؛ بابِل دَر آن زَمان یِکی اَز بُزُرگ‌تَرین و ثِروَتمَندتَرین شَهرهایِ جَهان بود.",
+     "a": "a7620d727f13"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "بسیاری از مردم بابل از شاه خود، نبونید، ناراضی بودند، چون می‌گفتند او به خدای بزرگ شهر، مردوک، بی‌احترامی کرده است.",
+     "r": "besyār-i az mardom-e Bābel az shāh-e khod, Nabonid, nārāzi budand, chon mi-goftand u be khodā-ye bozorg-e shahr, Marduk, bi-ehterāmi karde ast.",
+     "en": "Many Babylonians were unhappy with their own king, Nabonidus, because, they said, he had shown disrespect to the city's great god, Marduk.",
+     "faV": "بِسیاری اَز مَردُمِ بابِل اَز شاهِ خود، نَبونید، ناراضی بودَند، چون می‌گُفتَند او به خُدایِ بُزُرگِ شَهر، مَردوک، بی‌اِحتِرامی کَرده اَست.",
+     "a": "612f561576f4"
+    },
+    {
+     "fa": "سپاه پارس بدون جنگ وارد شهر شد و کوروش اجازه نداد که سربازانش خانه‌ها را غارت کنند یا مردم را بترسانند.",
+     "r": "sepāh-e Pārs bedun-e jang vāred-e shahr shod o Kurosh ejāze na-dād ke sarbāzān-ash khāne-hā rā ghārat konand yā mardom rā be-tarsānand.",
+     "en": "The Persian army entered the city without a battle, and Cyrus did not allow his soldiers to plunder the houses or frighten the people.",
+     "faV": "سِپاهِ پارس بِدونِ جَنگ وارِدِ شَهر شُد و کوروش اِجازه نَداد که سَربازانَش خانه‌ها را غارَت کُنَند یا مَردُم را بِتَرسانَند.",
+     "a": "621a6c20ebcf"
+    },
+    {
+     "fa": "او به پرستشگاه‌ها و خدایان مردم احترام گذاشت و به کسانی که به زور به بابل آورده شده بودند، اجازه داد به سرزمین‌های خود برگردند.",
+     "r": "u be parastesh-gāh-hā o khodāyān-e mardom ehterām gozāsht o be kasāni ke be zur be Bābel āvarde shode budand, ejāze dād be sarzamin-hā-ye khod bar-gardand.",
+     "en": "He respected the people's temples and gods, and allowed those who had been brought to Babylon by force to return to their own lands.",
+     "faV": "او به پَرَستِشگاه‌ها و خُدایانِ مَردُم اِحتِرام گُذاشت و به کَسانی که به زور به بابِل آوَرده شُده بودَند، اِجازه داد به سَرزَمین‌هایِ خود بَرگَردَند.",
+     "a": "9010767f2c07"
+    },
+    {
+     "fa": "یهودیان هم که سال‌ها پیش از اورشلیم به بابل برده شده بودند، به سرزمین خود بازگشتند تا پرستشگاه خود را دوباره بسازند.",
+     "r": "yahudiyān ham ke sāl-hā pish az Urshalim be Bābel borde shode budand, be sarzamin-e khod bāz-gashtand tā parastesh-gāh-e khod rā dobāre be-sāzand.",
+     "en": "The Jews, too, who had been carried off from Jerusalem to Babylon years before, went home to rebuild their temple.",
+     "faV": "یَهودیان هَم که سال‌ها پیش اَز اورشَلیم به بابِل بُرده شُده بودَند، به سَرزَمینِ خود بازگَشتَند تا پَرَستِشگاهِ خود را دوباره بِسازَند.",
+     "a": "a43fdb24c8ce"
+    },
+    {
+     "fa": "به همین دلیل، در کتاب مقدس از کوروش با احترام بسیار یاد شده است.",
+     "r": "be hamin dalil, dar ketāb-e moghaddas az Kurosh bā ehterām-e besyār yād shode ast.",
+     "en": "That is why the Bible speaks of Cyrus with great respect.",
+     "faV": "به هَمین دَلیل، دَر کِتابِ مُقَدَّس اَز کوروش با اِحتِرامِ بِسیار یاد شُده اَست.",
+     "a": "ca596237e07f"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "پس از فتح بابل، متنی به نام کوروش روی استوانه‌ای از گل پخته نوشته شد.",
+     "r": "pas az fath-e Bābel, matn-i be nām-e Kurosh ru-ye estevāne-i az gel-e pokhte neveshte shod.",
+     "en": "After the conquest of Babylon, a text in Cyrus's name was written on a cylinder of baked clay.",
+     "faV": "پَس اَز فَتحِ بابِل، مَتنی به نامِ کوروش رویِ اِستِوانه‌ای اَز گِلِ پُخته نِوِشته شُد.",
+     "a": "f8bff9ffb275"
+    },
+    {
+     "fa": "این متن به زبان اکدی و به خط میخی است و کوروش در آن می‌گوید: «من کوروش هستم، شاه جهان، شاه بزرگ، شاه توانا، شاه بابل، شاه سومر و اکد، شاه چهار گوشه‌ی جهان.»",
+     "r": "in matn be zabān-e akkadi o be khatt-e mikhi ast o Kurosh dar ān mi-guyad: «man Kurosh hastam, shāh-e jahān, shāh-e bozorg, shāh-e tavānā, shāh-e Bābel, shāh-e Sumer o Akkad, shāh-e chahār gushe-ye jahān.»",
+     "en": "The text is in the Akkadian language and cuneiform script, and in it Cyrus says: \"I am Cyrus, king of the world, great king, mighty king, king of Babylon, king of Sumer and Akkad, king of the four corners of the world.\"",
+     "faV": "این مَتن به زَبانِ اَکَّدی و به خَطِّ میخی اَست و کوروش دَر آن می‌گویَد: «مَن کوروش هَستَم، شاهِ جَهان، شاهِ بُزُرگ، شاهِ تَوانا، شاهِ بابِل، شاهِ سومِر و اَکَّد، شاهِ چَهار گوشه‌یِ جَهان.»",
+     "a": "f38a3d5e1458"
+    },
+    {
+     "fa": "در ادامه، کوروش از صلح در بابل و از بازگشت مردم و خدایانشان به شهرهای خود سخن می‌گوید.",
+     "r": "dar edāme, Kurosh az solh dar Bābel o az bāzgasht-e mardom o khodāyān-eshān be shahr-hā-ye khod sokhan mi-guyad.",
+     "en": "Further on, Cyrus speaks of peace in Babylon and of peoples and their gods returning to their own cities.",
+     "faV": "دَر اِدامه، کوروش اَز صُلح دَر بابِل و اَز بازگَشتِ مَردُم و خُدایانِشان به شَهرهایِ خود سُخَن می‌گویَد.",
+     "a": "d43bd7985cf0"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "استوانه در سال ۱۸۷۹ میلادی در ویرانه‌های بابل پیدا شد و امروز در موزه‌ی بریتانیا در لندن نگهداری می‌شود.",
+     "r": "estevāne dar sāl-e hezār-o-hashtsad-o-haftād-o-noh-e milādi dar virāne-hā-ye Bābel peydā shod o emruz dar muze-ye Beritāniyā dar Landan negahdāri mi-shavad.",
+     "en": "The cylinder was found in the ruins of Babylon in 1879 and is kept today in the British Museum in London.",
+     "faV": "اِستِوانه دَر سالِ ۱۸۷۹ میلادی دَر ویرانه‌هایِ بابِل پَیدا شُد و اِمروز دَر موزه‌یِ بِریتانیا دَر لَندَن نِگَهداری می‌شَوَد.",
+     "a": "876b0d9d4576"
+    },
+    {
+     "fa": "در سال ۲۰۱۰، استوانه برای چند ماه به تهران آورده شد و صدها هزار نفر برای دیدنش به موزه‌ی ملی ایران رفتند.",
+     "r": "dar sāl-e do-hezār-o-dah, estevāne barā-ye chand māh be Tehrān āvarde shod o sad-hā hezār nafar barā-ye didan-ash be muze-ye melli-ye Irān raftand.",
+     "en": "In 2010 the cylinder was brought to Tehran for a few months, and hundreds of thousands of people went to the National Museum of Iran to see it.",
+     "faV": "دَر سالِ ۲۰۱۰، اِستِوانه بَرایِ چَند ماه به تِهران آوَرده شُد و صَدها هِزار نَفَر بَرایِ دیدَنَش به موزه‌یِ مِلّیِ ایران رَفتَند.",
+     "a": "3a1e2ce33f3d"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "بسیاری از ایرانیان این استوانه را نخستین منشور حقوق بشر می‌دانند و نسخه‌ای از آن در سازمان ملل در نیویورک نگهداری می‌شود.",
+     "r": "besyār-i az irāniyān in estevāne rā nakhostin manshur-e hoghugh-e bashar mi-dānand o noskhe-i az ān dar sāzmān-e melal dar Niyuyork negahdāri mi-shavad.",
+     "en": "Many Iranians regard the cylinder as the first charter of human rights, and a copy of it is kept at the United Nations in New York.",
+     "faV": "بِسیاری اَز ایرانیان این اِستِوانه را نَخُستین مَنشورِ حُقوقِ بَشَر می‌دانَند و نُسخه‌ای اَز آن دَر سازمانِ مِلَل دَر نیویورک نِگَهداری می‌شَوَد.",
+     "a": "39ee8d7b3b4b"
+    },
+    {
+     "fa": "تاریخ‌دانان یادآوری می‌کنند که چنین متن‌هایی در بابل رسم بود، اما پیام آن، یعنی مدارا با مردمان دیگر، هنوز هم ارزشمند است.",
+     "r": "tārikh-dānān yād-āvari mi-konand ke chenin matn-hā-yi dar Bābel rasm bud, ammā payām-e ān, ya'ni modārā bā mardomān-e digar, hanuz ham arzeshmand ast.",
+     "en": "Historians point out that texts like this were a Babylonian custom, but its message – tolerance towards other peoples – is still worth hearing.",
+     "faV": "تاریخ‌دانان یادآوَری می‌کُنَند که چِنین مَتن‌هایی دَر بابِل رَسم بود، اَمّا پَیامِ آن، یَعنی مُدارا با مَردُمانِ دیگَر، هَنوز هَم اَرزِشمَند اَست.",
+     "a": "fc2a84914735"
+    },
+    {
+     "fa": "آرامگاه کوروش در پاسارگاد، در استان فارس، هنوز پابرجاست.",
+     "r": "ārāmgāh-e Kurosh dar Pāsārgād, dar ostān-e Fārs, hanuz pā-bar-jā-st.",
+     "en": "Cyrus's tomb at Pasargadae, in Fars province, still stands.",
+     "faV": "آرامگاهِ کوروش دَر پاسارگاد، دَر اُستانِ فارس، هَنوز پابَرجاست.",
+     "a": "25ad0f1c4aa3"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "شاهنشاهی",
+   "r": "shāhanshāhi",
+   "en": "empire",
+   "faV": "شاهَنشاهی",
+   "a": "482cd53501c3"
+  },
+  {
+   "fa": "متحد کردن",
+   "r": "mottahed kardan",
+   "en": "to unite",
+   "faV": "مُتَّحِد کَردَن",
+   "a": "983d7ddbc4c7"
+  },
+  {
+   "fa": "بنیان گذاشتن",
+   "r": "bonyān gozāshtan",
+   "en": "to found",
+   "faV": "بُنیان گُذاشتَن",
+   "a": "05ff8d193b5e"
+  },
+  {
+   "fa": "ناراضی",
+   "r": "nārāzi",
+   "en": "dissatisfied, unhappy",
+   "faV": "ناراضی",
+   "a": "c92b416f068d"
+  },
+  {
+   "fa": "غارت کردن",
+   "r": "ghārat kardan",
+   "en": "to plunder, to loot",
+   "faV": "غارَت کَردَن",
+   "a": "7b12b746bda0"
+  },
+  {
+   "fa": "پرستشگاه",
+   "r": "parastesh-gāh",
+   "en": "temple, place of worship",
+   "faV": "پَرَستِشگاه",
+   "a": "f30f30d5148a"
+  },
+  {
+   "fa": "به زور",
+   "r": "be zur",
+   "en": "by force",
+   "faV": "به زور",
+   "a": "c5cf7978a8d2"
+  },
+  {
+   "fa": "یاد شدن",
+   "r": "yād shodan",
+   "en": "to be mentioned, to be remembered",
+   "faV": "یاد شُدَن",
+   "a": "0e803055eb38"
+  },
+  {
+   "fa": "فتح",
+   "r": "fath",
+   "en": "conquest",
+   "faV": "فَتح",
+   "a": "d2207a408651"
+  },
+  {
+   "fa": "استوانه",
+   "r": "estevāne",
+   "en": "cylinder",
+   "faV": "اِستِوانه",
+   "a": "c85cec2e2507"
+  },
+  {
+   "fa": "گل پخته",
+   "r": "gel-e pokhte",
+   "en": "baked clay",
+   "faV": "گِلِ پُخته",
+   "a": "f2eb8b3f8e67"
+  },
+  {
+   "fa": "خط میخی",
+   "r": "khatt-e mikhi",
+   "en": "cuneiform (script)",
+   "faV": "خَطِّ میخی",
+   "a": "37e8e072850b"
+  },
+  {
+   "fa": "ویرانه",
+   "r": "virāne",
+   "en": "ruin",
+   "faV": "ویرانه",
+   "a": "b2c8ca2aaa01"
+  },
+  {
+   "fa": "نگهداری شدن",
+   "r": "negahdāri shodan",
+   "en": "to be kept",
+   "faV": "نِگَهداری شُدَن",
+   "a": "c0f82029220f"
+  },
+  {
+   "fa": "منشور",
+   "r": "manshur",
+   "en": "charter",
+   "faV": "مَنشور",
+   "a": "4eea06b7e0f6"
+  },
+  {
+   "fa": "مدارا",
+   "r": "modārā",
+   "en": "tolerance",
+   "faV": "مُدارا",
+   "a": "de46c7b59c0d"
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why were many Babylonians unhappy with Nabonidus?",
+   "options": [
+    "he had raised their taxes",
+    "they said he had shown disrespect to the god Marduk",
+    "he had lost a war"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "How did Cyrus's army enter Babylon?",
+   "options": [
+    "after a long siege",
+    "without a battle",
+    "after burning the city gates"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What is the cylinder made of?",
+   "options": [
+    "stone",
+    "baked clay",
+    "gold"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Where is the original cylinder kept today?",
+   "options": [
+    "in the National Museum of Iran",
+    "in the British Museum in London",
+    "at the United Nations in New York"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What do historians point out about the text?",
+   "options": [
+    "it was written by Darius, not Cyrus",
+    "texts like it were a Babylonian custom",
+    "it is a modern copy"
+   ],
+   "answer": 1
+  }
+ ],
+ "after": "A history text is full of passives with شدن: نوشته شد 'was written', پیدا شد 'was found', آورده شد 'was brought', نگهداری می‌شود 'is kept', یاد شده است 'has been mentioned', and the past perfect passive برده شده بودند 'had been carried off'. For dates, پیش از میلاد (also written ق.م.) means BC and میلادی AD; Iranians also count years in their own solar calendar, so the cylinder's visit to Tehran was in ۱۳۸۹. Cyrus is a popular name again in Iran, and 29 October (۷ آبان) has become an unofficial Cyrus Day, when people gather at his tomb in Pasargadae.",
+ "titleV": "کوروش و اِستِوانه",
+ "titleA": "83a18e16a6e1"
+}

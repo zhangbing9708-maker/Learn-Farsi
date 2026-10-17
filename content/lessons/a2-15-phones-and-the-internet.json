@@ -1,0 +1,1039 @@
+{
+ "id": "a2-15-phones-and-the-internet",
+ "level": "A2",
+ "n": 15,
+ "title": "Phones and the internet: messages, apps and Finglish",
+ "titleFa": "موبایل و اینترنت",
+ "titleR": "mobāyl o internet",
+ "intro": "Iranians live on their phones: family groups, voice messages, Instagram shops and endless chats. In this lesson you learn to talk about phones, apps and social media; to use the English loanwords that Persian turns into verbs with کردن (چت کردن، لایک کردن); to understand the -افزار words such as نرم‌افزار (software); to give the short commands people type to each other; and to read Finglish – Persian typed in Latin letters.",
+ "goals": [
+  "talk about phones, messages, apps and social media",
+  "use loan verbs like چت کردن، لایک کردن، دانلود کردن – and know their Persian alternatives",
+  "understand words built with افزار: نرم‌افزار، سخت‌افزار، بدافزار",
+  "give and understand the short spoken commands used in messages",
+  "read Finglish, Persian typed in Latin letters"
+ ],
+ "image": "milad-tower",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "The group chat",
+   "context": "It is Sara's birthday on Friday. Amir starts a group chat with Mahsa and Tom – without Sara – to plan a surprise. Chats are typed the way people speak, so here the spoken lines are what actually appears on the screen; the written lines give the same messages in standard Persian.",
+   "lines": [
+    {
+     "who": "Amir",
+     "fa": "سلام بچه‌ها! جمعه تولد سارا است. یک جشن کوچک بگیریم؟",
+     "r": "salām bacche-hā! jom'e tavallod-e Sārā ast. yek jashn-e kuchak begirim?",
+     "en": "Hi guys! Friday is Sara's birthday. Shall we throw a little party?",
+     "col": "سلام بچه‌ها! جمعه تولد ساراست. یه جشن کوچیک بگیریم؟",
+     "colR": "salām bacche-hā! jom'e tavallod-e Sārā-st. ye jashn-e kuchik begirim?"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "عالی است! من حتماً می‌آیم. کجا؟",
+     "r": "āli ast! man hatman mi-āyam. kojā?",
+     "en": "Great! I'll definitely come. Where?",
+     "col": "عالیه! من حتماً میام. کجا؟",
+     "colR": "āliye! man hatman miyām. kojā?"
+    },
+    {
+     "who": "Amir",
+     "fa": "کافه‌ی نزدیک دانشگاه، ساعت هفت. به سارا چیزی نگویید!",
+     "r": "kāfe-ye nazdik-e dāneshgāh, sā'at-e haft. be Sārā chiz-i na-guyid!",
+     "en": "The café near the university, at seven. Don't tell Sara anything!",
+     "col": "کافه‌ی نزدیک دانشگاه، ساعت هفت. به سارا چیزی نگین!",
+     "colR": "kāfe-ye nazdik-e dāneshgāh, sā'at-e haft. be Sārā chizi na-gin!"
+    },
+    {
+     "who": "Tom",
+     "fa": "سلام! ببخشید که دیر جواب می‌دهم. با کیبورد فارسی هنوز آهسته تایپ می‌کنم.",
+     "r": "salām! bebakhshid ke dir javāb mi-daham. bā kibord-e fārsi hanuz āheste tāyp mi-konam.",
+     "en": "Hi! Sorry I'm slow to reply. I still type slowly on the Persian keyboard.",
+     "col": "سلام! ببخشید که دیر جواب می‌دم. با کیبورد فارسی هنوز یواش تایپ می‌کنم.",
+     "colR": "salām! bebakhshid ke dir javāb mi-dam. bā kibord-e fārsi hanuz yavāsh tāyp mi-konam."
+    },
+    {
+     "who": "Mahsa",
+     "fa": "اشکالی ندارد. اگر سخت است، فینگلیش بنویس!",
+     "r": "eshkāl-i na-dārad. agar sakht ast, finglish benevis!",
+     "en": "No problem. If it's hard, write in Finglish!",
+     "col": "اشکال نداره. اگه سخته، فینگلیش بنویس!",
+     "colR": "eshkāl na-dāre. age sakht-e, finglish benevis!"
+    },
+    {
+     "who": "Tom",
+     "fa": "فینگلیش؟ یعنی چه؟",
+     "r": "finglish? ya'ni che?",
+     "en": "Finglish? What's that?",
+     "col": "فینگلیش؟ یعنی چی؟",
+     "colR": "finglish? ya'ni chi?"
+    },
+    {
+     "who": "Amir",
+     "fa": "فارسی با حروف انگلیسی. ولی فارسی بنویس؛ این‌طوری زودتر یاد می‌گیری!",
+     "r": "fārsi bā horuf-e engelisi. vali fārsi benevis; in-towri zud-tar yād mi-giri!",
+     "en": "Persian in English letters. But write in Persian – that way you'll learn faster!",
+     "col": "فارسی با حروف انگلیسی. ولی فارسی بنویس؛ این‌جوری زودتر یاد می‌گیری!",
+     "colR": "fārsi bā horuf-e engelisi. vali fārsi benevis; in-juri zud-tar yād mi-giri!"
+    },
+    {
+     "who": "Tom",
+     "fa": "باشد. حالا برای سارا چه کادویی بخریم؟",
+     "r": "bāshad. hālā barā-ye Sārā che kādo-yi bekharim?",
+     "en": "OK. So what present shall we get Sara?",
+     "col": "باشه. حالا واسه سارا چه کادویی بخریم؟",
+     "colR": "bāshe. hālā vāse Sārā che kādo-yi bekharim?"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "یک لینک برایتان می‌فرستم. این کیف را ببینید و نظر بدهید.",
+     "r": "yek link barā-yetān mi-ferestam. in kif rā bebinid o nazar bedahid.",
+     "en": "I'll send you a link. Look at this bag and tell me what you think.",
+     "col": "یه لینک براتون می‌فرستم. این کیفو ببینین و نظر بدین.",
+     "colR": "ye link barā-tun mi-ferestam. in kif-o bebinin o nazar bedin."
+    },
+    {
+     "who": "Amir",
+     "fa": "خیلی قشنگ است! لایکش کردم.",
+     "r": "kheyli ghashang ast! lāyk-ash kardam.",
+     "en": "It's really nice! I've liked it.",
+     "col": "خیلی قشنگه! لایکش کردم.",
+     "colR": "kheyli ghashang-e! lāyk-esh kardam."
+    },
+    {
+     "who": "Tom",
+     "fa": "من هم موافقم. پول را چطور بدهیم؟",
+     "r": "man ham movāfegh-am. pul rā chetor bedahim?",
+     "en": "I agree too. How shall we pay?",
+     "col": "منم موافقم. پولو چطوری بدیم؟",
+     "colR": "man-am movāfegh-am. pul-o chetori bedim?"
+    },
+    {
+     "who": "Amir",
+     "fa": "کارت به کارت کنید. شماره‌ی کارتم را در گروه می‌گذارم.",
+     "r": "kārt be kārt konid. shomāre-ye kārt-am rā dar goruh mi-gozāram.",
+     "en": "Do a card-to-card transfer. I'll put my card number in the group.",
+     "col": "کارت به کارت کنین. شماره‌ی کارتمو تو گروه می‌ذارم.",
+     "colR": "kārt be kārt konin. shomāre-ye kārt-am-o tu goruh mi-zāram."
+    },
+    {
+     "who": "Mahsa",
+     "fa": "عالی است. فقط یادتان باشد: سارا نباید بفهمد!",
+     "r": "āli ast. faghat yād-etān bāshad: Sārā na-bāyad befahmad!",
+     "en": "Great. Just remember: Sara mustn't find out!",
+     "col": "عالیه. فقط یادتون باشه: سارا نباید بفهمه!",
+     "colR": "āliye. faghat yād-etun bāshe: Sārā na-bāyad befahme!"
+    },
+    {
+     "who": "Tom",
+     "fa": "قول می‌دهم! من چیزی نمی‌گویم. شب بخیر!",
+     "r": "ghowl mi-daham! man chiz-i nemi-guyam. shab bekheyr!",
+     "en": "I promise! I won't say a thing. Good night!",
+     "col": "قول می‌دم! من چیزی نمی‌گم. شب بخیر!",
+     "colR": "ghowl mi-dam! man chizi nemi-gam. shab bekheyr!"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Phone Persian",
+   "md": "A mobile phone is a [[موبایل|mobāyl]] or, just as often, a [[گوشی|gushi|handset – from گوش, ear]]. You [[زنگ زدن|zang zadan|ring]] someone, send a [[پیام|payām|message]] or leave a [[پیام صوتی|payām-e sowti|voice message]], which most people simply call a [[ویس|veys|voice]]. Chats happen in a [[پیام‌رسان|payām-resān|messenger app – 'message-deliverer']], in a [[گروه|goruh|group]] or one to one, and on social media – [[شبکه‌های اجتماعی|shabake-hā-ye ejtemā'i]] – people [[پست گذاشتن|post gozāshtan|post]], comment and [[فالو کردن|fālo kardan|follow]].\n\nTwo things stand out in the dialogue. First, chats are typed in **spoken** Persian: [[میام|miyām]], [[براتون|barā-tun]], [[عالیه|āliye]]. In a chat the spoken lines are not just how the messages sound – they are what is on the screen. Second, the vocabulary is full of English: [[لینک|link]], [[تایپ|tāyp]], [[لایک|lāyk]]. Persian simply borrows the word and makes a verb out of it with [[کردن|kardan]].\n\nOne more word every Iranian knows: many foreign apps and websites are *filtered* (blocked) in Iran, so a VPN is a [[فیلترشکن|filter-shekan|'filter-breaker']], and it is one of the first things people install on a new phone."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "موبایل",
+     "r": "mobāyl",
+     "en": "mobile phone",
+     "pos": "n",
+     "note": "in formal writing تلفن همراه, 'companion phone'"
+    },
+    {
+     "fa": "گوشی",
+     "r": "gushi",
+     "en": "phone, handset",
+     "pos": "n",
+     "note": "from گوش, ear",
+     "ex": {
+      "fa": "گوشی‌ام شارژ ندارد.",
+      "r": "gushi-am shārzh na-dārad.",
+      "en": "My phone's battery is flat.",
+      "col": "گوشیم شارژ نداره.",
+      "colR": "gushi-m shārzh na-dāre."
+     }
+    },
+    {
+     "fa": "پیام",
+     "r": "payām",
+     "en": "message",
+     "pos": "n",
+     "ex": {
+      "fa": "به من پیام بده.",
+      "r": "be man payām bedeh.",
+      "en": "Message me.",
+      "col": "بهم پیام بده.",
+      "colR": "behem payām bede."
+     }
+    },
+    {
+     "fa": "پیامک",
+     "r": "payāmak",
+     "en": "text message, SMS",
+     "pos": "n",
+     "note": "payām + -ak 'little'; in speech often اس‌ام‌اس"
+    },
+    {
+     "fa": "پیام‌رسان",
+     "r": "payām-resān",
+     "en": "messenger app",
+     "pos": "n",
+     "note": "'message-deliverer'"
+    },
+    {
+     "fa": "اینترنت",
+     "r": "internet",
+     "en": "internet",
+     "pos": "n"
+    },
+    {
+     "fa": "برنامه",
+     "r": "barnāme",
+     "en": "app; programme; plan",
+     "pos": "n",
+     "note": "also اپ (ap) or اپلیکیشن (aplikeyshen)"
+    },
+    {
+     "fa": "نرم‌افزار",
+     "r": "narm-afzār",
+     "en": "software",
+     "pos": "n",
+     "note": "'soft tool'"
+    },
+    {
+     "fa": "گروه",
+     "r": "goruh",
+     "en": "group; chat group",
+     "pos": "n"
+    },
+    {
+     "fa": "لینک",
+     "r": "link",
+     "en": "link",
+     "pos": "n"
+    },
+    {
+     "fa": "رمز",
+     "r": "ramz",
+     "en": "password; code",
+     "pos": "n",
+     "note": "on login screens رمز عبور, 'passing code'"
+    },
+    {
+     "fa": "چت کردن",
+     "r": "chat kardan",
+     "en": "to chat (online)",
+     "pos": "v"
+    },
+    {
+     "fa": "لایک کردن",
+     "r": "lāyk kardan",
+     "en": "to like (a post)",
+     "pos": "v",
+     "ex": {
+      "fa": "پست جدیدت را لایک کردم.",
+      "r": "post-e jadid-at rā lāyk kardam.",
+      "en": "I liked your new post.",
+      "col": "پست جدیدتو لایک کردم.",
+      "colR": "post-e jadid-et-o lāyk kardam."
+     }
+    },
+    {
+     "fa": "دانلود کردن",
+     "r": "dānlod kardan",
+     "en": "to download",
+     "pos": "v",
+     "note": "the Academy's word is بارگیری کردن"
+    },
+    {
+     "fa": "فرستادن",
+     "r": "ferestādan",
+     "en": "to send",
+     "pos": "v",
+     "note": "present stem فرست ferest: بفرست! send it!",
+     "ex": {
+      "fa": "یک عکس از کلاس برای مادرم فرستادم.",
+      "r": "yek aks az kelās barā-ye mādar-am ferestādam.",
+      "en": "I sent my mother a photo of the class.",
+      "col": "یه عکس از کلاس واسه مامانم فرستادم.",
+      "colR": "ye aks az kelās vāse māmān-am ferestādam."
+     }
+    },
+    {
+     "fa": "خاموش",
+     "r": "khāmush",
+     "en": "off, switched off",
+     "pos": "adj",
+     "note": "on is روشن (roshan): گوشی‌ات را روشن کن, switch your phone on",
+     "ex": {
+      "fa": "ببخشید، گوشی‌ام خاموش بود.",
+      "r": "bebakhshid, gushi-am khāmush bud.",
+      "en": "Sorry, my phone was off.",
+      "col": "ببخشید، گوشیم خاموش بود.",
+      "colR": "bebakhshid, gushi-m khāmush bud."
+     }
+    },
+    {
+     "fa": "شارژ",
+     "r": "shārzh",
+     "en": "battery charge; phone credit",
+     "pos": "n",
+     "note": "from French charge; شارژ کردن, to charge"
+    },
+    {
+     "fa": "آنلاین",
+     "r": "ānlāyn",
+     "en": "online",
+     "pos": "adj",
+     "note": "offline is آفلاین (āflāyn)"
+    },
+    {
+     "fa": "فیلترشکن",
+     "r": "filter-shekan",
+     "en": "VPN",
+     "pos": "n",
+     "note": "'filter-breaker'"
+    },
+    {
+     "fa": "کارت به کارت",
+     "r": "kārt be kārt",
+     "en": "card-to-card bank transfer",
+     "pos": "phrase",
+     "note": "the everyday way to send a friend money from your phone: کارت به کارت کردن"
+    },
+    {
+     "fa": "یادت باشد",
+     "r": "yād-at bāshad",
+     "en": "remember! don't forget",
+     "pos": "phrase",
+     "note": "literally 'let it be in your memory'; polite یادتان باشد; spoken یادت باشه"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Loan verbs: borrow a word, add کردن",
+   "md": "Persian has a very simple way of taking in new technology: borrow the English (or French) word and add [[کردن|kardan|to do]]. The result is an ordinary compound verb, exactly like the ones in lesson 5: [[چت می‌کنیم|chat mi-konim|we chat]], [[لایک نکردم|lāyk na-kardam|I didn't like it]], [[دانلود کن!|dānlod kon!|download it!]]. The mi- and the negative go on کردن; the borrowed word never changes.\n\nThe [[فرهنگستان زبان و ادب فارسی|farhangestān-e zabān o adab-e fārsi|Academy of Persian Language and Literature]] proposes Persian alternatives for many of these words. Some have caught on, especially in writing, on official websites and in the news, and phone menus in Persian use them; others are mostly ignored in conversation. Learn both: the loanword for chatting with friends, the Persian word for reading and writing.",
+   "table": {
+    "head": [
+     "English",
+     "Everyday word",
+     "Persian alternative"
+    ],
+    "rows": [
+     [
+      "to chat",
+      "[[چت کردن|chat kardan]]",
+      "[[گپ زدن|gap zadan]]"
+     ],
+     [
+      "to like",
+      "[[لایک کردن|lāyk kardan]]",
+      "[[پسندیدن|pasandidan]]"
+     ],
+     [
+      "to download",
+      "[[دانلود کردن|dānlod kardan]]",
+      "[[بارگیری کردن|bārgiri kardan]]"
+     ],
+     [
+      "to upload",
+      "[[آپلود کردن|āplod kardan]]",
+      "[[بارگذاری کردن|bārgozāri kardan]]"
+     ],
+     [
+      "to save",
+      "[[سیو کردن|seyv kardan]]",
+      "[[ذخیره کردن|zakhire kardan]]"
+     ],
+     [
+      "to share",
+      "[[شیر کردن|sheyr kardan]]",
+      "[[به اشتراک گذاشتن|be eshterāk gozāshtan]]"
+     ],
+     [
+      "to follow",
+      "[[فالو کردن|fālo kardan]]",
+      "[[دنبال کردن|donbāl kardan]]"
+     ],
+     [
+      "to block",
+      "[[بلاک کردن|belāk kardan]]",
+      "[[مسدود کردن|masdud kardan]]"
+     ],
+     [
+      "to delete",
+      "[[دیلیت کردن|dilit kardan]]",
+      "[[پاک کردن|pāk kardan]]"
+     ],
+     [
+      "text message",
+      "[[اس‌ام‌اس|es-em-es]]",
+      "[[پیامک|payāmak]]"
+     ],
+     [
+      "email",
+      "[[ایمیل|imeyl]]",
+      "[[رایانامه|rāyānāme]]"
+     ],
+     [
+      "computer",
+      "[[کامپیوتر|kāmpyuter]]",
+      "[[رایانه|rāyāne]]"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "دیشب تا ساعت دوازده با دوستم چت کردم.",
+     "r": "dishab tā sā'at-e davāzdah bā dust-am chat kardam.",
+     "en": "Last night I chatted with my friend until midnight."
+    },
+    {
+     "fa": "عکس‌هایت را لایک کردم.",
+     "r": "aks-hā-yat rā lāyk kardam.",
+     "en": "I liked your photos.",
+     "col": "عکساتو لایک کردم.",
+     "colR": "aks-ā-to lāyk kardam."
+    },
+    {
+     "fa": "این برنامه را دانلود کن؛ رایگان است.",
+     "r": "in barnāme rā dānlod kon; rāygān ast.",
+     "en": "Download this app – it's free.",
+     "col": "این برنامه رو دانلود کن؛ مجانیه.",
+     "colR": "in barnāme ro dānlod kon; majjāni-ye."
+    },
+    {
+     "fa": "فایل را ذخیره نکردی؟",
+     "r": "fāyl rā zakhire na-kardi?",
+     "en": "Didn't you save the file?",
+     "col": "فایلو سیو نکردی؟",
+     "colR": "fāyl-o seyv na-kardi?",
+     "note": "in speech the loanword often replaces the Persian word"
+    },
+    {
+     "fa": "مینا من را در اینستاگرام فالو کرده است.",
+     "r": "Minā man rā dar Instāgrām fālo karde ast.",
+     "en": "Mina has followed me on Instagram.",
+     "col": "مینا منو تو اینستاگرام فالو کرده.",
+     "colR": "Minā man-o tu Instāgrām fālo karde."
+    },
+    {
+     "fa": "آن عکس را برای همه فوروارد نکن!",
+     "r": "ān aks rā barā-ye hame forvārd na-kon!",
+     "en": "Don't forward that photo to everyone!",
+     "col": "اون عکسو واسه همه فوروارد نکن!",
+     "colR": "un aks-o vāse hame forvārd na-kon!"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "-افزار and other home-made tech words",
+   "md": "[[افزار|afzār]] is an old Persian word for *tool, instrument* – another form of [[ابزار|abzār|tool]]. When computers arrived, Persian used it to translate the *-ware* of *software* and *hardware*, and the pattern spread to other new words, always written as one compound with a ZWNJ: [[نرم‌افزار|narm-afzār]], never نرم افزار.\n\nThe same do-it-yourself spirit produced a handful of other tech words from old parts. Some live mainly in writing, but you will see them on signs, in phone menus and in the news. [[پیامک|payāmak]] is [[پیام|payām|message]] + the 'little' ending [[ـک|-ak]]: a *little message*. A [[پیام‌رسان|payām-resān]] *delivers messages*. And a programmer is a [[برنامه‌نویس|barnāme-nevis|program-writer]], with the stem *nevis* of [[نویسنده|nevisande]] from lesson 14. The table shows the words you are most likely to meet.",
+   "table": {
+    "head": [
+     "Persian",
+     "Literally",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[نرم‌افزار|narm-afzār]]",
+      "soft tool",
+      "software"
+     ],
+     [
+      "[[سخت‌افزار|sakht-afzār]]",
+      "hard tool",
+      "hardware"
+     ],
+     [
+      "[[بدافزار|bad-afzār]]",
+      "bad tool",
+      "malware"
+     ],
+     [
+      "[[جاسوس‌افزار|jāsus-afzār]]",
+      "spy tool",
+      "spyware"
+     ],
+     [
+      "[[جنگ‌افزار|jang-afzār]]",
+      "war tool",
+      "weapon (formal)"
+     ],
+     [
+      "[[نوار ابزار|navār-e abzār]]",
+      "strip of tools",
+      "toolbar"
+     ],
+     [
+      "[[پیامک|payāmak]]",
+      "little message",
+      "text message"
+     ],
+     [
+      "[[پیام‌رسان|payām-resān]]",
+      "message-deliverer",
+      "messenger app"
+     ],
+     [
+      "[[برنامه‌نویس|barnāme-nevis]]",
+      "program-writer",
+      "programmer"
+     ],
+     [
+      "[[گوشی هوشمند|gushi-ye hushmand]]",
+      "clever handset",
+      "smartphone"
+     ],
+     [
+      "[[رایانه|rāyāne]]",
+      "'arranger' (a coined word)",
+      "computer; everyday [[کامپیوتر|kāmpyuter]]"
+     ],
+     [
+      "[[رایانامه|rāyānāme]]",
+      "computer letter",
+      "email; everyday [[ایمیل|imeyl]]"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "این نرم‌افزار رایگان است.",
+     "r": "in narm-afzār rāygān ast.",
+     "en": "This software is free.",
+     "col": "این نرم‌افزار مجانیه.",
+     "colR": "in narm-afzār majjāni-ye."
+    },
+    {
+     "fa": "سخت‌افزار این گوشی خوب است، اما نرم‌افزارش قدیمی است.",
+     "r": "sakht-afzār-e in gushi khub ast, ammā narm-afzār-ash ghadimi ast.",
+     "en": "This phone's hardware is good, but its software is old.",
+     "col": "سخت‌افزار این گوشی خوبه، ولی نرم‌افزارش قدیمیه.",
+     "colR": "sakht-afzār-e in gushi khub-e, vali narm-afzār-esh ghadimi-ye."
+    },
+    {
+     "fa": "کامپیوترم بدافزار گرفته است.",
+     "r": "kāmpyuter-am bad-afzār gerefte ast.",
+     "en": "My computer has got malware.",
+     "col": "کامپیوترم بدافزار گرفته.",
+     "colR": "kāmpyuter-am bad-afzār gerefte."
+    },
+    {
+     "fa": "برادرم برنامه‌نویس است و برای یک شرکت نرم‌افزار می‌نویسد.",
+     "r": "barādar-am barnāme-nevis ast o barā-ye yek sherkat narm-afzār mi-nevisad.",
+     "en": "My brother is a programmer and writes software for a company.",
+     "col": "داداشم برنامه‌نویسه و واسه یه شرکت نرم‌افزار می‌نویسه.",
+     "colR": "dādāsh-am barnāme-nevis-e o vāse ye sherkat narm-afzār mi-nevise."
+    },
+    {
+     "fa": "بانک برایم یک پیامک فرستاد.",
+     "r": "bānk barā-yam yek payāmak ferestād.",
+     "en": "The bank sent me a text message.",
+     "col": "بانک برام یه اس‌ام‌اس فرستاد.",
+     "colR": "bānk barā-m ye es-em-es ferestād."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Short commands for short messages",
+   "md": "Messages are full of imperatives – *send it, ring me, come* – and they are typed in their spoken form. You know the written forms from lesson 9; this is how they look on a phone screen. The polite plural *-id* becomes [[ـین|-in]], and the stems that are shorter in speech are shorter here too.\n\nTwo messages you will receive all the time: [[رسیدی، خبر بده|residi, khabar bede|let me know when you get there]], said to anyone setting off on a journey, even across town; and [[زنگ بزن|zang bezan|ring me]], which often just means *goodbye, stay in touch*.",
+   "table": {
+    "head": [
+     "Written",
+     "Typed (spoken)",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[بیایید|biyāyid]]",
+      "[[بیاین|biyāyn]]",
+      "come (to several people)"
+     ],
+     [
+      "[[بده|bedeh]]",
+      "[[بده|bede]]",
+      "give"
+     ],
+     [
+      "[[بدهید|bedahid]]",
+      "[[بدین|bedin]]",
+      "give (polite)"
+     ],
+     [
+      "[[بگویید|beguyid]]",
+      "[[بگین|begin]]",
+      "say, tell (polite)"
+     ],
+     [
+      "[[بگذار|begozār]]",
+      "[[بذار|bezār]]",
+      "put; let"
+     ],
+     [
+      "[[بفرستید|beferestid]]",
+      "[[بفرستین|beferestin]]",
+      "send (polite)"
+     ],
+     [
+      "[[ببین|bebin]]",
+      "[[ببین|bebin]]",
+      "look; listen (to begin a message)"
+     ],
+     [
+      "[[زنگ بزن|zang bezan]]",
+      "[[زنگ بزن|zang bezan]]",
+      "ring (me)"
+     ],
+     [
+      "[[خبر بده|khabar bedeh]]",
+      "[[خبر بده|khabar bede]]",
+      "let me know"
+     ],
+     [
+      "[[صبر کن|sabr kon]]",
+      "[[صبر کن|sabr kon]]",
+      "wait"
+     ],
+     [
+      "[[نگران نباش|negarān na-bāsh]]",
+      "[[نگران نباش|negarān na-bāsh]]",
+      "don't worry"
+     ],
+     [
+      "[[فراموش نکن|farāmush na-kon]]",
+      "[[یادت نره|yād-et nare]]",
+      "don't forget"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "وقتی رسیدی، به من خبر بده.",
+     "r": "vaghti residi, be man khabar bedeh.",
+     "en": "Let me know when you get there.",
+     "col": "رسیدی، بهم خبر بده.",
+     "colR": "residi, behem khabar bede."
+    },
+    {
+     "fa": "عکس‌ها را برایم بفرست.",
+     "r": "aks-hā rā barā-yam beferest.",
+     "en": "Send me the photos.",
+     "col": "عکسا رو برام بفرست.",
+     "colR": "aks-ā ro barā-m beferest."
+    },
+    {
+     "fa": "یادت نرود که فردا امتحان داریم!",
+     "r": "yād-at na-ravad ke fardā emtehān dārim!",
+     "en": "Don't forget we have an exam tomorrow!",
+     "col": "یادت نره فردا امتحان داریم!",
+     "colR": "yād-et nare fardā emtehān dārim!"
+    },
+    {
+     "fa": "جواب بده! چرا گوشی را برنمی‌داری؟",
+     "r": "javāb bedeh! cherā gushi rā bar-nemi-dāri?",
+     "en": "Answer! Why aren't you picking up?",
+     "col": "جواب بده! چرا گوشی رو برنمی‌داری؟",
+     "colR": "javāb bede! cherā gushi ro bar-nemi-dāri?"
+    },
+    {
+     "fa": "یک لحظه صبر کن، دارم می‌آیم!",
+     "r": "yek lahze sabr kon, dāram mi-āyam!",
+     "en": "Hang on a moment, I'm coming!",
+     "col": "یه لحظه صبر کن، دارم میام!",
+     "colR": "ye lahze sabr kon, dāram miyām!"
+    },
+    {
+     "fa": "لطفاً بعد از شنیدن صدای بوق پیام بگذارید.",
+     "r": "lotfan ba'd az shenidan-e sedā-ye bugh payām begozārid.",
+     "en": "Please leave a message after the beep.",
+     "note": "a recorded voicemail greeting – always in the written, polite form"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "The family group",
+   "intro": "Almost every Iranian family has a group chat. Dariush describes his – watch for the loan verbs and the -ande words.",
+   "sentences": [
+    {
+     "fa": "خانواده‌ی داریوش در یک پیام‌رسان گروهی دارند.",
+     "r": "khānevāde-ye Dāriush dar yek payām-resān goruh-i dārand.",
+     "en": "Dariush's family has a group on a messenger app."
+    },
+    {
+     "fa": "اسم گروه «خانواده‌ی خوشبخت» است و ۳۲ عضو دارد.",
+     "r": "esm-e goruh «khānevāde-ye khoshbakht» ast o si-o-do ozv dārad.",
+     "en": "The group is called 'The Happy Family', and it has 32 members."
+    },
+    {
+     "fa": "هر روز صبح، پدربزرگ یک عکس گل با جمله‌ی «صبح بخیر» می‌فرستد.",
+     "r": "har ruz sobh, pedar-bozorg yek aks-e gol bā jomle-ye «sobh bekheyr» mi-ferestad.",
+     "en": "Every morning Grandfather sends a picture of flowers with the words 'Good morning'."
+    },
+    {
+     "fa": "مادر داریوش همه‌ی خبر‌ها را فوروارد می‌کند، حتی خبر‌های قدیمی را.",
+     "r": "mādar-e Dāriush hame-ye khabar-hā rā forvārd mi-konad, hattā khabar-hā-ye ghadimi rā.",
+     "en": "Dariush's mother forwards all the news – even old news."
+    },
+    {
+     "fa": "عمه‌اش پیام صوتی می‌فرستد، چون تایپ کردن را دوست ندارد.",
+     "r": "amme-ash payām-e sowti mi-ferestad, chon tāyp kardan rā dust na-dārad.",
+     "en": "His aunt sends voice messages, because she doesn't like typing."
+    },
+    {
+     "fa": "پیام‌های صوتی او گاهی پنج دقیقه طول می‌کشد!",
+     "r": "payām-hā-ye sowti-ye u gāhi panj daghighe tul mi-keshad!",
+     "en": "Her voice messages sometimes last five minutes!"
+    },
+    {
+     "fa": "داریوش گاهی گروه را بی‌صدا می‌کند تا بتواند درس بخواند.",
+     "r": "Dāriush gāhi goruh rā bi-sedā mi-konad tā betavānad dars bekhānad.",
+     "en": "Sometimes Dariush mutes the group so that he can study."
+    },
+    {
+     "fa": "اما وقتی تولد کسی است، همه در گروه به او تبریک می‌گویند.",
+     "r": "ammā vaghti tavallod-e kas-i ast, hame dar goruh be u tabrik mi-guyand.",
+     "en": "But when it's someone's birthday, everyone in the group congratulates them."
+    },
+    {
+     "fa": "دیشب پدربزرگ اولین استیکرش را فرستاد و همه خندیدند.",
+     "r": "dishab pedar-bozorg avvalin estiker-ash rā ferestād o hame khandidand.",
+     "en": "Last night Grandfather sent his first sticker, and everyone laughed."
+    },
+    {
+     "fa": "حالا او هر روز ده استیکر می‌فرستد!",
+     "r": "hālā u har ruz dah estiker mi-ferestad!",
+     "en": "Now he sends ten stickers a day!"
+    },
+    {
+     "fa": "داریوش می‌گوید: «گروه ما خیلی شلوغ است، اما بدون آن زندگی سخت است.»",
+     "r": "Dāriush mi-guyad: «goruh-e mā kheyli sholugh ast, ammā bedun-e ān zendegi sakht ast.»",
+     "en": "Dariush says: 'Our group is very busy, but life would be hard without it.'"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What does Grandfather send every morning?",
+     "options": [
+      "the news",
+      "a picture of flowers saying 'good morning'",
+      "a voice message"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Why does the aunt send voice messages?",
+     "options": [
+      "She doesn't like typing.",
+      "Her phone has no keyboard.",
+      "She likes singing."
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What does Dariush do when he wants to study?",
+     "options": [
+      "He leaves the group.",
+      "He switches off the internet.",
+      "He mutes the group."
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Finglish",
+   "md": "Before phones had Persian keyboards, Iranians texted and emailed in Latin letters, and the habit has never quite died. **Finglish** ([[فینگلیش|finglish]], from *Farsi* + *English*) is still common in messages from Iranians abroad, in usernames and in quick chats, and you will meet it everywhere online.\n\nFinglish has no fixed rules – everyone spells by ear, usually the English way. Long *ā* is just *a* (or *aa*), *u* is often *oo*, and *i* may be *ee*:\n\n- *salam, chetori?* = [[سلام، چطوری؟|salām, chetori?|hi, how are you?]]\n- *merci, khoobam* = [[مرسی، خوبم|mersi, khub-am|thanks, I'm fine]]\n- *kojaei?* = [[کجایی؟|kojā-yi?|where are you?]]\n- *daram miam* = [[دارم میام|dāram miyām|I'm on my way]]\n- *bashe, ta farda* = [[باشه، تا فردا|bāshe, tā fardā|OK, see you tomorrow]]\n- *ghorboonet beram* = [[قربونت برم|ghorbun-et beram|thanks, dear – literally 'may I be sacrificed for you']]\n\nThe transliteration on this site is a stricter cousin of Finglish: it writes *ā*, *kh*, *gh* and every vowel the same way every time, so that you can pronounce a word you have never heard. Finglish is what real people type – read it aloud and it turns into Persian. But don't let it replace the alphabet: Iranians are delighted by a foreigner who writes to them in Persian letters, typos and all.",
+   "image": "persian-language"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "Loan verbs keep the borrowed word unchanged: *lāyk mi-konam, lāyk kardam, lāyk na-kon*. Only کردن changes.",
+    "Add a Persian keyboard to your phone and learn where ی, ک and the half-space (**نیم‌فاصله**, the ZWNJ) are. Many people skip the half-space in chats (میخوام), but in careful writing it separates می‌ from the verb.",
+    "**مرسی** (from French *merci*) is the most common thank-you in Tehran; **ممنون** and **دستت درد نکنه** are just as friendly.",
+    "On a phone call, **گوشی دستت باشه** – literally 'keep the receiver in your hand' – means 'hold the line'.",
+    "A final **ه** in a chat is usually the spoken -e: عالیه (it's great), باشه (OK), می‌ره (he goes). Lesson 16 explains them all."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the words",
+   "items": [
+    {
+     "fa": "نرم‌افزار",
+     "r": "narm-afzār",
+     "en": "software"
+    },
+    {
+     "fa": "سخت‌افزار",
+     "r": "sakht-afzār",
+     "en": "hardware"
+    },
+    {
+     "fa": "پیامک",
+     "r": "payāmak",
+     "en": "text message"
+    },
+    {
+     "fa": "گوشی",
+     "r": "gushi",
+     "en": "phone, handset"
+    },
+    {
+     "fa": "رمز",
+     "r": "ramz",
+     "en": "password"
+    },
+    {
+     "fa": "پیام‌رسان",
+     "r": "payām-resān",
+     "en": "messenger app"
+    },
+    {
+     "fa": "فیلترشکن",
+     "r": "filter-shekan",
+     "en": "VPN"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right answer",
+   "items": [
+    {
+     "q": "A friend texts: *kojaei? daram miam.* What does it mean?",
+     "options": [
+      "Where are you? I'm on my way.",
+      "Who are you? I'm busy.",
+      "Where is it? I don't know."
+     ],
+     "answer": 0,
+     "explain": "kojaei = کجایی (where are you?), daram miam = دارم میام (I'm coming)."
+    },
+    {
+     "q": "Which is the Persian alternative to دانلود کردن?",
+     "options": [
+      "بارگذاری کردن",
+      "بارگیری کردن",
+      "ذخیره کردن"
+     ],
+     "answer": 1,
+     "explain": "bārgiri, 'load-taking', is download; bārgozāri, 'load-putting', is upload."
+    },
+    {
+     "q": "[[بدافزار|bad-afzār]] is…",
+     "options": [
+      "software",
+      "malware",
+      "hardware"
+     ],
+     "answer": 1,
+     "explain": "bad 'bad' + afzār 'tool'."
+    },
+    {
+     "q": "'I didn't like the photo' (on social media) is…",
+     "options": [
+      "عکس را لایک نکردم.",
+      "عکس را نلایک کردم.",
+      "عکس را لایک کردم نه."
+     ],
+     "answer": 0,
+     "explain": "The negative goes on kardan: lāyk na-kardam."
+    },
+    {
+     "q": "In a chat, *bedin* stands for the written…",
+     "options": [
+      "بدهید",
+      "بدهم",
+      "بدهند"
+     ],
+     "answer": 0,
+     "explain": "The polite -id ending becomes -in in speech: bedahid → bedin."
+    },
+    {
+     "q": "What does [[رسیدی، خبر بده|residi, khabar bede]] ask you to do?",
+     "options": [
+      "Bring the news when you come.",
+      "Let them know when you have arrived.",
+      "Ring before you leave."
+     ],
+     "answer": 1,
+     "explain": "khabar dādan, to let someone know. Iranians say it to anyone setting off on a journey."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {
+     "fa": "عکس‌ها را برایم ___.",
+     "r": "aks-hā rā barā-yam ___.",
+     "en": "Send me the photos.",
+     "answer": "بفرست",
+     "hint": "ferestādan, stem ferest"
+    },
+    {
+     "fa": "دیشب تا دیروقت با دوستم چت ___.",
+     "r": "dishab tā dir-vaght bā dust-am chat ___.",
+     "en": "Last night I chatted with my friend until late.",
+     "answer": "کردم",
+     "hint": "the past of kardan, I"
+    },
+    {
+     "fa": "این برنامه را ___ کن، رایگان است.",
+     "r": "in barnāme rā ___ kon, rāygān ast.",
+     "en": "Download this app, it's free.",
+     "answer": "دانلود",
+     "hint": "the English word"
+    },
+    {
+     "fa": "گوشی‌ام ___ ندارد.",
+     "r": "gushi-am ___ na-dārad.",
+     "en": "My phone's battery is flat.",
+     "answer": "شارژ",
+     "hint": "charge"
+    },
+    {
+     "fa": "این ___ رایگان است.",
+     "r": "in ___ rāygān ast.",
+     "en": "This software is free.",
+     "answer": "نرم‌افزار",
+     "hint": "soft + tool"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "یک لینک برایتان می‌فرستم.",
+     "r": "yek link barā-yetān mi-ferestam.",
+     "en": "I'll send you a link."
+    },
+    {
+     "fa": "شماره‌ی کارتم را در گروه می‌گذارم.",
+     "r": "shomāre-ye kārt-am rā dar goruh mi-gozāram.",
+     "en": "I'll put my card number in the group."
+    },
+    {
+     "fa": "وقتی رسیدی، به من خبر بده.",
+     "r": "vaghti residi, be man khabar bedeh.",
+     "en": "Let me know when you get there."
+    },
+    {
+     "fa": "سخت‌افزار این گوشی خوب است.",
+     "r": "sakht-afzār-e in gushi khub ast.",
+     "en": "This phone's hardware is good."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "به سارا چیزی نگویید!",
+     "r": "be Sārā chiz-i na-guyid!",
+     "en": "Don't tell Sara anything!",
+     "options": [
+      "Tell Sara everything!",
+      "Don't tell Sara anything!",
+      "Did Sara say anything?"
+     ],
+     "answer": 1
+    },
+    {
+     "fa": "گوشی‌ام شارژ ندارد.",
+     "r": "gushi-am shārzh na-dārad.",
+     "en": "My phone's battery is flat.",
+     "options": [
+      "My phone is new.",
+      "My phone's battery is flat.",
+      "I don't have a phone."
+     ],
+     "answer": 1
+    },
+    {
+     "fa": "عکس‌هایت را لایک کردم.",
+     "r": "aks-hā-yat rā lāyk kardam.",
+     "en": "I liked your photos.",
+     "options": [
+      "I liked your photos.",
+      "I sent your photos.",
+      "I deleted your photos."
+     ],
+     "answer": 0
+    },
+    {
+     "fa": "یک لحظه صبر کن، دارم می‌آیم!",
+     "r": "yek lahze sabr kon, dāram mi-āyam!",
+     "en": "Hang on a moment, I'm coming!",
+     "options": [
+      "Wait a moment, I'm coming!",
+      "Come quickly, I'm waiting!",
+      "I'll come next week."
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "Message me.",
+     "fa": "به من پیام بده.",
+     "r": "be man payām bedeh."
+    },
+    {
+     "en": "Don't forward that photo to everyone!",
+     "fa": "آن عکس را برای همه فوروارد نکن!",
+     "r": "ān aks rā barā-ye hame forvārd na-kon!"
+    },
+    {
+     "en": "My brother is a programmer.",
+     "fa": "برادرم برنامه‌نویس است.",
+     "r": "barādar-am barnāme-nevis ast."
+    },
+    {
+     "en": "I still type slowly on the Persian keyboard.",
+     "fa": "با کیبورد فارسی هنوز آهسته تایپ می‌کنم.",
+     "r": "bā kibord-e fārsi hanuz āheste tāyp mi-konam."
+    },
+    {
+     "en": "Mina has followed me on Instagram.",
+     "fa": "مینا من را در اینستاگرام فالو کرده است.",
+     "r": "Minā man rā dar Instāgrām fālo karde ast."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "id": "places-persian-gulf-islands",
+ "topic": "places",
+ "title": "The Persian Gulf islands",
+ "titleFa": "جزیره‌های خلیج فارس",
+ "titleR": "jazire-hā-ye Khalij-e Fārs",
+ "image": "qeshm",
+ "summary": "Hot, humid and open to the sea, Iran's south is a world apart. The port of Bandar Abbas, the rainbow island of Hormuz, the mangroves and canyons of Qeshm, and the holiday island of Kish.",
+ "body": [
+  {
+   "h": "Iran's south coast",
+   "md": "Iran's southern shore runs for more than a thousand kilometres along the [[خلیج فارس|Khalij-e Fārs|Persian Gulf]] and the Gulf of Oman. It is a world apart from the plateau: hot, humid, lined with palm trees and open to the sea, home to people whose families have mixed for centuries with Arabs, Africans, Indians and Baluch. Across Iran they are called [[بندری|bandari|people of the ports]], and Bandari music, with its fast rhythms and dances, is played at parties all over the country.",
+   "image": "persian-gulf"
+  },
+  {
+   "h": "Bandar Abbas",
+   "md": "The gateway to the islands is [[بندرعباس|Bandar-Abbās|Bandar Abbas]], capital of Hormozgan province and Iran's main port. It is named after Shah Abbas I, who developed it after his forces, helped by English ships, drove the Portuguese from the island of Hormuz in 1622; before that it was a small port that Europeans called Gombroon.\n\nWalk along the seafront in the evening, visit the fish market and the old Hindu temple built for Indian merchants, and look out for women wearing the [[برقع|borgha'|face mask]], an embroidered mask that is part of the traditional dress of the coast.",
+   "image": "bandar-abbas"
+  },
+  {
+   "h": "Hormuz: the rainbow island",
+   "md": "Half an hour by speedboat from Bandar Abbas, the small island of [[هرمز|Hormoz|Hormuz]] – just 42 square kilometres – is made of salt and minerals in every colour: red, ochre, yellow, purple and white. Its beaches have red sand, and islanders use the red earth both as a paint and as a spice. Over the harbour stand the ruins of the fort the Portuguese built after they seized the island in 1507, when Hormuz controlled the trade of the whole Gulf.",
+   "image": "hormuz-island"
+  },
+  {
+   "h": "Qeshm: mangroves and canyons",
+   "md": "[[قشم|Gheshm|Qeshm]], about 1,500 square kilometres, is the largest island in the Persian Gulf. On its north side, boats wind through the [[جنگل حرا|jangal-e Harā|Hara forest]], a mangrove forest that grows in salt water and fills with birds. Inland, wind and rain have carved the [[دره‌ی ستارگان|darre-ye setāregān|Valley of the Stars]] and deep canyons, and the [[غار نمکدان|ghār-e Namakdān|Namakdan salt cave]], 6.6 kilometres long, is one of the longest salt caves in the world.\n\nIn the coastal villages, carpenters still build the wooden [[لنج|lenj|dhow]] by hand, a skill now on UNESCO's list of intangible heritage."
+  },
+  {
+   "h": "Kish: the holiday island",
+   "md": "Further west, [[کیش|Kish|Kish]] is an island of hotels, shopping malls and coral beaches, a free trade zone since 1989, where Iranians come to shop, dive and relax. Its sights include the rusting [[کشتی یونانی|kashti-ye yunāni|Greek Ship]], a cargo ship that ran aground in 1966 and a favourite place to watch the sunset, the ruins of the medieval town of Harireh, and an old underground [[کاریز|kāriz|water channel]] that has been turned into a gallery.",
+   "image": "kish-island"
+  },
+  {
+   "h": "Fish, spice and words of the south",
+   "md": "Southern food is spicy by Iranian standards. Try [[قلیه‌ماهی|ghalye-māhi|fish stew]], cooked with tamarind, coriander and fenugreek, or [[میگوپلو|meygu-polow|shrimp rice]], and buy dates at the bazaar. Sailors' words such as [[ناخدا|nākhodā|captain]] and *lenj* belong to the whole Gulf, and the local dialects have borrowed words from Arabic, Hindi and English. One southern word every visitor learns is [[شرجی|sharji|hot and humid]]."
+  },
+  {
+   "h": "Getting there and when to go",
+   "md": "There are flights to Bandar Abbas, Qeshm and Kish from Tehran and other cities, and ferries and speedboats link Bandar Abbas with Qeshm and Hormuz. Come between November and March, when the days are warm and sunny. From May to October the heat and humidity are fierce, with temperatures often above 40°C."
+  }
+ ],
+ "sentences": [
+  {"fa": "قایق بعدی به هرمز کی حرکت می‌کند؟", "r": "ghāyegh-e ba'di be Hormoz key harekat mi-konad?", "en": "When does the next boat to Hormuz leave?", "col": "قایق بعدی برای هرمز کی راه می‌افته؟", "colR": "ghāyegh-e ba'di barā-ye Hormoz key rāh mi-ofte?"},
+  {"fa": "خاک قرمز هرمز را در غذا هم می‌ریزند.", "r": "khāk-e ghermez-e Hormoz rā dar ghazā ham mi-rizand.", "en": "They even put the red earth of Hormuz in food."},
+  {"fa": "قشم بزرگ‌ترین جزیره‌ی خلیج فارس است.", "r": "Gheshm bozorg-tarin jazire-ye Khalij-e Fārs ast.", "en": "Qeshm is the largest island in the Persian Gulf."},
+  {"fa": "با قایق از میان جنگل حرا گذشتیم.", "r": "bā ghāyegh az miyān-e jangal-e Harā gozashtim.", "en": "We went through the Hara forest by boat."},
+  {"fa": "درختان حرا در آب شور زندگی می‌کنند.", "r": "derakhtān-e Harā dar āb-e shur zendegi mi-konand.", "en": "Mangrove trees live in salt water."},
+  {"fa": "لنج را با چوب و با دست می‌سازند.", "r": "lenj rā bā chub va bā dast mi-sāzand.", "en": "A lenj is built of wood, by hand."},
+  {"fa": "ناخدا گفت امروز دریا آرام است.", "r": "nākhodā goft emruz daryā ārām ast.", "en": "The captain said the sea is calm today."},
+  {"fa": "غروب کنار کشتی یونانی خیلی قشنگ است.", "r": "ghorub kenār-e kashti-ye yunāni kheyli ghashang ast.", "en": "Sunset by the Greek Ship is very beautiful."},
+  {"fa": "کیش منطقه‌ی آزاد تجاری است.", "r": "Kish mantaghe-ye āzād-e tejāri ast.", "en": "Kish is a free trade zone."},
+  {"fa": "قلیه‌ماهی کمی تند است.", "r": "ghalye-māhi kami tond ast.", "en": "Ghalyeh mahi is a little spicy.", "col": "قلیه‌ماهی یه کم تنده.", "colR": "ghalye-māhi ye kam tonde."},
+  {"fa": "از اردیبهشت تا مهر هوا خیلی گرم و شرجی است.", "r": "az Ordibehesht tā Mehr havā kheyli garm o sharji ast.", "en": "From Ordibehesht to Mehr (late April to October) the weather is very hot and humid."},
+  {"fa": "زمستان بهترین فصل سفر به جزیره‌هاست.", "r": "zemestān beh-tarin fasl-e safar be jazire-hāst.", "en": "Winter is the best season for a trip to the islands."}
+ ],
+ "vocab": [
+  {"fa": "جزیره", "r": "jazire", "en": "island"},
+  {"fa": "خلیج", "r": "khalij", "en": "gulf, bay"},
+  {"fa": "تنگه", "r": "tange", "en": "strait; narrow pass"},
+  {"fa": "بندر", "r": "bandar", "en": "port"},
+  {"fa": "اسکله", "r": "eskele", "en": "jetty, pier"},
+  {"fa": "لنج", "r": "lenj", "en": "lenj, wooden dhow"},
+  {"fa": "ناخدا", "r": "nākhodā", "en": "ship's captain"},
+  {"fa": "موج", "r": "mowj", "en": "wave"},
+  {"fa": "شرجی", "r": "sharji", "en": "hot and humid (weather)"},
+  {"fa": "مرجان", "r": "marjān", "en": "coral"},
+  {"fa": "غواصی", "r": "ghavvāsi", "en": "diving"},
+  {"fa": "حرا", "r": "harā", "en": "grey mangrove"},
+  {"fa": "غروب", "r": "ghorub", "en": "sunset"},
+  {"fa": "خاک", "r": "khāk", "en": "earth, soil"},
+  {"fa": "نمک", "r": "namak", "en": "salt"},
+  {"fa": "آب شور", "r": "āb-e shur", "en": "salt water"},
+  {"fa": "تند", "r": "tond", "en": "spicy; fast"}
+ ],
+ "facts": [
+  "Qeshm, about 1,500 square kilometres, is the largest island in the Persian Gulf.",
+  "The Portuguese held Hormuz from 1507 until 1622, when Safavid forces, helped by English ships, drove them out.",
+  "Bandar Abbas is named after Shah Abbas I; Europeans once called it Gombroon.",
+  "The Namakdan salt cave on Qeshm, about 6.6 kilometres long, is one of the longest salt caves in the world.",
+  "The skills of building and sailing lenj boats were added to UNESCO's list of intangible heritage in 2011.",
+  "The 'Greek Ship' off Kish is the Koula F, a cargo ship that ran aground in 1966.",
+  "At its narrowest the Strait of Hormuz is about 39 kilometres wide, and roughly a fifth of the world's oil passes through it."
+ ]
+}

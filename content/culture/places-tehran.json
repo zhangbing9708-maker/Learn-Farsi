@@ -1,0 +1,272 @@
+{
+ "id": "places-tehran",
+ "topic": "places",
+ "title": "Tehran",
+ "titleFa": "تهران",
+ "titleR": "Tehrān",
+ "image": "tehran",
+ "summary": "Iran's sprawling capital climbs from the dry plain to the foot of the Alborz mountains. Palaces and a great bazaar in the south, mountain trails and tea houses in the north, and a metro that ties it all together.",
+ "body": [
+  {
+   "h": "A capital under the mountains",
+   "md": "In the 18th century [[تهران|Tehrān|Tehran]] was a small walled town near the ruins of ancient [[ری|Rey|Rey]]. Agha Mohammad Khan, founder of the Qajar dynasty, made it his capital in 1786, and today almost nine million people live in the city, with millions more in the towns around it.\n\nTehran lies on a slope. The south, at about 1,000 metres, faces the dry plain; the north climbs to 2,000 metres against the wall of the [[البرز|Alborz|Alborz]] mountains. Tehranis describe their city by height: [[بالای شهر|bālā-ye shahr|uptown]] is the greener, richer north, and [[پایین شهر|pāyin-e shahr|downtown]] the older, busier south."
+  },
+  {
+   "h": "Palaces, museums and jewels",
+   "md": "The old centre holds the [[کاخ گلستان|Kākh-e Golestān|Golestan Palace]], the Qajar royal residence of mirror halls and tiled courtyards, a UNESCO World Heritage Site since 2013. Nearby, the [[موزه‌ی ملی ایران|muze-ye melli-ye Irān|National Museum of Iran]] runs from prehistoric pottery to Achaemenid reliefs, and the vaults of the Central Bank keep the crown jewels of the shahs, among them the [[دریای نور|Daryā-ye Nur|Sea of Light]], one of the largest pink diamonds in the world.\n\nIn the north, the former royal estates of [[سعدآباد|Sa'dābād|Sa'dabad]] and [[نیاوران|Niyāvarān|Niavaran]] are now museums set in shady parks.",
+   "image": "golestan-palace"
+  },
+  {
+   "h": "Bazaars old and new",
+   "md": "South of the palace, the [[بازار بزرگ|bāzār-e bozorg|Grand Bazaar]] is a maze of vaulted lanes where each [[راسته|rāste|row]] has its own trade: carpets, copper, spices, gold, wedding dresses. It is a working market, not a museum, so go in the morning, step aside when porters push their carts through, and remember that most shops close on Fridays.\n\nUp in the north, [[بازار تجریش|bāzār-e Tajrish|Tajrish bazaar]], beside the shrine of [[امامزاده صالح|Emāmzāde Sāleh|Imamzadeh Saleh]], is the place for fruit, pickles, dried herbs and a glass of fresh pomegranate juice.",
+   "image": "grand-bazaar-tehran"
+  },
+  {
+   "h": "Up into the mountains",
+   "md": "When Tehranis want fresh air, they go up. At [[دربند|Darband|Darband]] a path follows a mountain stream past tea houses where you sit on carpeted platforms and eat [[دیزی|dizi|lamb and chickpea stew]] or kebab; on Friday mornings the trail is as busy as a city street. The [[تله‌کابین توچال|tele-kābin-e Tochāl|Tochal cable car]] climbs 7.5 kilometres to 3,740 metres, with skiing at the top in winter.\n\nBack in town, three landmarks stand for modern Tehran: the [[برج آزادی|Borj-e Āzādi|Azadi Tower]] (1971), the 435-metre [[برج میلاد|Borj-e Milād|Milad Tower]] and the [[پل طبیعت|Pol-e Tabi'at|Nature Bridge]], a walkway over a motorway designed by the architect Leila Araghian.",
+   "image": "darband"
+  },
+  {
+   "h": "Speaking Tehrani",
+   "md": "The everyday Persian of Iranian films and television is Tehrani speech, so the capital is the place to tune your ear. Its best-known habit turns a long *ā* before *n* or *m* into *u*: [[نان|nān|bread]] becomes *nun*, [[خیابان|khiyābān|street]] becomes *khiyābun*, and the city itself is *Tehrun*. Verbs shrink too: [[می‌خواهم|mi-khāham|I want]] becomes *mi-khām*.\n\nTaxi Persian is worth learning. A shared taxi follows a fixed route and picks up passengers on the way; to have the car to yourself, ask for a [[دربست|darbast|private hire]]. Most people now book rides through apps such as [[اسنپ|Esnap|Snapp]]."
+  },
+  {
+   "h": "Getting there and when to go",
+   "md": "International flights land at [[فرودگاه امام خمینی|forudgāh-e Emām Khomeyni|Imam Khomeini Airport]], about an hour's drive south of the city; domestic flights use [[مهرآباد|Mehrābād|Mehrabad]] in the west. Trains from every corner of Iran arrive at the railway station in the south. In town, take the [[مترو|metro|metro]]: it is cheap, it avoids the famous traffic, and some carriages are reserved for women.\n\nThe best months are April–May and October–November. Summers are hot, and in winter still air can trap smog over the city. The calmest time of all is Nowruz in late March, when millions of Tehranis leave for the provinces and the streets fall quiet.",
+   "image": "tehran-metro"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "ببخشید، نزدیک‌ترین ایستگاه مترو کجاست؟",
+   "r": "bebakhshid, nazdik-tarin istgāh-e metro kojāst?",
+   "en": "Excuse me, where is the nearest metro station?",
+   "faV": "بِبَخشید، نَزدیک‌تَرین ایستگاهِ مِترو کُجاست؟",
+   "a": "0898fd3c5a42"
+  },
+  {
+   "fa": "یک بلیت برای کاخ گلستان، لطفاً.",
+   "r": "yek belit barā-ye Kākh-e Golestān, lotfan.",
+   "en": "One ticket for the Golestan Palace, please.",
+   "faV": "یِک بِلیت بَرایِ کاخِ گُلِستان، لُطفاً.",
+   "a": "aa3dfa8cf85d"
+  },
+  {
+   "fa": "این واگن مخصوص بانوان است.",
+   "r": "in vāgon makhsus-e bānovān ast.",
+   "en": "This carriage is for women only.",
+   "faV": "این واگُن مَخصوصِ بانُوان اَست.",
+   "a": "4ad41e31743a"
+  },
+  {
+   "fa": "این قطار به تجریش می‌رود؟",
+   "r": "in ghatār be Tajrish mi-ravad?",
+   "en": "Does this train go to Tajrish?",
+   "col": "این قطار می‌ره تجریش؟",
+   "colR": "in ghatār mi-re Tajrish?",
+   "faV": "این قَطار به تَجریش می‌رَوَد؟",
+   "a": "63c1762d0cc0",
+   "colV": "این قَطار می‌ره تَجریش؟",
+   "colA": "d063bf17f15a"
+  },
+  {
+   "fa": "دربست تا دربند چند می‌شود؟",
+   "r": "darbast tā Darband chand mi-shavad?",
+   "en": "How much is a private taxi to Darband?",
+   "col": "دربست تا دربند چند می‌شه؟",
+   "colR": "darbast tā Darband chand mi-she?",
+   "faV": "دَربَست تا دَربَند چَند می‌شَوَد؟",
+   "a": "28fff80563dc",
+   "colV": "دَربَست تا دَربَند چَند می‌شه؟",
+   "colA": "e2323ef57ccd"
+  },
+  {
+   "fa": "بازار بزرگ جمعه‌ها تعطیل است.",
+   "r": "bāzār-e bozorg jom'e-hā ta'til ast.",
+   "en": "The Grand Bazaar is closed on Fridays.",
+   "faV": "بازارِ بُزُرگ جُمعه‌ها تَعطیل اَست.",
+   "a": "7738bfc1ce10"
+  },
+  {
+   "fa": "جمعه‌ها خیلی از تهرانی‌ها به کوه می‌روند.",
+   "r": "jom'e-hā kheyli az tehrāni-hā be kuh mi-ravand.",
+   "en": "On Fridays many Tehranis go to the mountains.",
+   "faV": "جُمعه‌ها خَیلی اَز تِهرانی‌ها به کوه می‌رَوَند.",
+   "a": "a5f921b9ec04"
+  },
+  {
+   "fa": "در روزهای صاف، قله‌ی دماوند از تهران پیداست.",
+   "r": "dar ruz-hā-ye sāf, gholle-ye Damāvand az Tehrān peydāst.",
+   "en": "On clear days you can see the peak of Damavand from Tehran.",
+   "faV": "دَر روزهایِ صاف، قُلّه‌یِ دَماوَند اَز تِهران پَیداست.",
+   "a": "e6a0af375b84"
+  },
+  {
+   "fa": "از بالای برج میلاد تمام شهر را می‌بینید.",
+   "r": "az bālā-ye borj-e Milād tamām-e shahr rā mi-binid.",
+   "en": "From the top of the Milad Tower you can see the whole city.",
+   "faV": "اَز بالایِ بُرجِ میلاد تَمامِ شَهر را می‌بینید.",
+   "a": "ce0494839343"
+  },
+  {
+   "fa": "امروز هوا آلوده است و مدرسه‌ها تعطیل‌اند.",
+   "r": "emruz havā ālude ast va madrese-hā ta'til-and.",
+   "en": "Today the air is polluted and the schools are closed.",
+   "faV": "اِمروز هَوا آلوده اَست و مَدرِسه‌ها تَعطیل‌اَند.",
+   "a": "00fbbd063ed5"
+  },
+  {
+   "fa": "شمال شهر از جنوب شهر خنک‌تر است.",
+   "r": "shomāl-e shahr az jonub-e shahr khonak-tar ast.",
+   "en": "The north of the city is cooler than the south.",
+   "faV": "شُمالِ شَهر اَز جُنوبِ شَهر خُنَک‌تَر اَست.",
+   "a": "241490c22a99"
+  },
+  {
+   "fa": "در ساعت شلوغی با مترو زودتر می‌رسید.",
+   "r": "dar sā'at-e sholughi bā metro zud-tar mi-resid.",
+   "en": "At rush hour you'll get there faster by metro.",
+   "faV": "دَر ساعَتِ شُلوغی با مِترو زودتَر می‌رِسید.",
+   "a": "e972a7985ae7"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "پایتخت",
+   "r": "pāytakht",
+   "en": "capital city",
+   "faV": "پایتَخت",
+   "a": "cc64448038c2"
+  },
+  {
+   "fa": "کاخ",
+   "r": "kākh",
+   "en": "palace",
+   "faV": "کاخ",
+   "a": "882ce17e5b40"
+  },
+  {
+   "fa": "موزه",
+   "r": "muze",
+   "en": "museum",
+   "faV": "موزه",
+   "a": "9ea833021018"
+  },
+  {
+   "fa": "بازار",
+   "r": "bāzār",
+   "en": "bazaar, market",
+   "faV": "بازار",
+   "a": "05299979b024"
+  },
+  {
+   "fa": "راسته",
+   "r": "rāste",
+   "en": "row of shops of one trade (in a bazaar)",
+   "faV": "راسته",
+   "a": "6bee51a1abcc"
+  },
+  {
+   "fa": "مترو",
+   "r": "metro",
+   "en": "metro, underground",
+   "faV": "مِترو",
+   "a": "fbdf9c6e337d"
+  },
+  {
+   "fa": "ایستگاه",
+   "r": "istgāh",
+   "en": "station, stop",
+   "faV": "ایستگاه",
+   "a": "320c86a1080b"
+  },
+  {
+   "fa": "بلیت",
+   "r": "belit",
+   "en": "ticket",
+   "faV": "بِلیت",
+   "a": "ec23e5ed52a2"
+  },
+  {
+   "fa": "واگن",
+   "r": "vāgon",
+   "en": "carriage (of a train)",
+   "faV": "واگُن",
+   "a": "bd1ff13eb003"
+  },
+  {
+   "fa": "دربست",
+   "r": "darbast",
+   "en": "private taxi hire",
+   "faV": "دَربَست",
+   "a": "d38b1881a659"
+  },
+  {
+   "fa": "ترافیک",
+   "r": "terāfik",
+   "en": "traffic",
+   "faV": "تِرافیک",
+   "a": "54c0dfab069b"
+  },
+  {
+   "fa": "آلودگی هوا",
+   "r": "āludegi-ye havā",
+   "en": "air pollution",
+   "faV": "آلودِگیِ هَوا",
+   "a": "ea26842b8ca2"
+  },
+  {
+   "fa": "کوه",
+   "r": "kuh",
+   "en": "mountain",
+   "faV": "کوه",
+   "a": "dce9030c3b67"
+  },
+  {
+   "fa": "قله",
+   "r": "gholle",
+   "en": "peak, summit",
+   "faV": "قُلّه",
+   "a": "ab2c526321db"
+  },
+  {
+   "fa": "برج",
+   "r": "borj",
+   "en": "tower",
+   "faV": "بُرج",
+   "a": "ce942b0df679"
+  },
+  {
+   "fa": "تله‌کابین",
+   "r": "tele-kābin",
+   "en": "cable car",
+   "faV": "تِله‌کابین",
+   "a": "14ac6104b739"
+  },
+  {
+   "fa": "بالای شهر",
+   "r": "bālā-ye shahr",
+   "en": "uptown (the north of Tehran)",
+   "faV": "بالایِ شَهر",
+   "a": "4398b212c406"
+  },
+  {
+   "fa": "پایین شهر",
+   "r": "pāyin-e shahr",
+   "en": "downtown (the south of Tehran)",
+   "faV": "پایینِ شَهر",
+   "a": "d45e41b8bad2"
+  }
+ ],
+ "facts": [
+  "Agha Mohammad Khan Qajar made Tehran the capital of Iran in 1786.",
+  "The 2016 census counted about 8.7 million people in the city of Tehran.",
+  "The city rises from about 1,000 metres above sea level in the south to about 2,000 metres in the north.",
+  "The Golestan Palace became a UNESCO World Heritage Site in 2013.",
+  "The Azadi Tower was completed in 1971 for the celebration of 2,500 years of the Persian monarchy; it was first named Shahyad, 'the Shah's memorial'.",
+  "The Milad Tower is 435 metres tall, one of the tallest telecommunication towers in the world.",
+  "The Darya-ye Noor ('Sea of Light') in the National Jewels Treasury is one of the largest pink diamonds in the world."
+ ],
+ "titleV": "تِهران",
+ "titleA": "0a69c086557d"
+}

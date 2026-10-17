@@ -1,0 +1,344 @@
+{
+ "id": "b1-zal-and-the-simorgh",
+ "level": "B1",
+ "kind": "legend",
+ "title": "Zal and the Simorgh",
+ "titleFa": "زال و سیمرغ",
+ "titleR": "Zāl o Simorgh",
+ "image": "zal",
+ "intro": "Before Rostam there was his father, Zal – a baby born with white hair, whom his own father left to die on a mountain. In this legend from Ferdowsi's Shahnameh the Simorgh, the great wise bird of Persian myth, raises him in her nest. Look for relative clauses with که, the passive with شدن, and the promise the Simorgh makes with اگر.",
+ "source": "Retold in prose from Ferdowsi's Shahnameh (10th–11th century, public domain).",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "سام، پهلوان بزرگ ایران، سال‌ها آرزو داشت که پسری داشته باشد.",
+     "r": "Sām, pahlavān-e bozorg-e Irān, sāl-hā ārezu dāsht ke pesar-i dāshte bāshad.",
+     "en": "Sam, the great champion of Iran, had wished for years for a son.",
+     "faV": "سام، پَهلَوانِ بُزُرگِ ایران، سال‌ها آرِزو داشت که پِسَری داشته باشَد.",
+     "a": "88f2646aee53"
+    },
+    {
+     "fa": "سرانجام همسرش پسری به دنیا آورد که صورتش مثل ماه زیبا بود، اما موهایش مثل موی پیرمردان سفید بود.",
+     "r": "saranjām hamsar-ash pesar-i be donyā āvard ke surat-ash mesl-e māh zibā bud, ammā mu-hā-yash mesl-e mu-ye pir-mardān sefid bud.",
+     "en": "At last his wife gave birth to a boy whose face was as beautiful as the moon, but whose hair was as white as an old man's.",
+     "faV": "سَراَنجام هَمسَرَش پِسَری به دُنیا آوَرد که صورَتَش مِثلِ ماه زیبا بود، اَمّا موهایَش مِثلِ مویِ پیرمَردان سِفید بود.",
+     "a": "3c514f76690d"
+    },
+    {
+     "fa": "وقتی سام فرزندش را دید، شرمنده شد و ترسید که مردم بگویند پسر سام بچه‌ی دیو است.",
+     "r": "vaghti Sām farzand-ash rā did, sharmande shod o tarsid ke mardom be-guyand pesar-e Sām bacche-ye div ast.",
+     "en": "When Sam saw his child he was ashamed, and afraid that people would say Sam's son was the child of a demon.",
+     "faV": "وَقتی سام فَرزَندَش را دید، شَرمَنده شُد و تَرسید که مَردُم بِگویَند پِسَرِ سام بَچّه‌یِ دیو اَست.",
+     "a": "15308f068530"
+    },
+    {
+     "fa": "پس به دستور او، کودک به کوه البرز برده شد و همان‌جا تنها رها شد.",
+     "r": "pas be dastur-e u, kudak be kuh-e Alborz borde shod o hamān-jā tanhā rahā shod.",
+     "en": "So, on his orders, the baby was carried to Mount Alborz and left there alone.",
+     "faV": "پَس به دَستورِ او، کودَک به کوهِ اَلبُرز بُرده شُد و هَمان‌جا تَنها رَها شُد.",
+     "a": "80c46c3e2bf7"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "بر بلندترین قله‌ی البرز، سیمرغ لانه داشت؛ پرنده‌ای بزرگ و دانا که از همه چیز خبر داشت.",
+     "r": "bar boland-tarin gholle-ye Alborz, Simorgh lāne dāsht; parande-i bozorg o dānā ke az hame chiz khabar dāsht.",
+     "en": "On the highest peak of Alborz the Simorgh had her nest: a great, wise bird who knew of all things.",
+     "faV": "بَر بُلَندتَرین قُلّه‌یِ اَلبُرز، سیمُرغ لانه داشت؛ پَرَنده‌ای بُزُرگ و دانا که اَز هَمه چیز خَبَر داشت.",
+     "a": "26582a5a6566"
+    },
+    {
+     "fa": "سیمرغ برای جوجه‌هایش دنبال غذا می‌گشت که صدای گریه‌ی نوزادی را شنید.",
+     "r": "Simorgh barā-ye juje-hā-yash donbāl-e ghazā mi-gasht ke sedā-ye gerye-ye nowzād-i rā shenid.",
+     "en": "The Simorgh was out looking for food for her chicks when she heard a newborn baby crying.",
+     "faV": "سیمُرغ بَرایِ جوجه‌هایَش دُنبالِ غَذا می‌گَشت که صِدایِ گِریه‌یِ نَوزادی را شِنید.",
+     "a": "95dd3c5dfed8"
+    },
+    {
+     "fa": "او بچه را با چنگال‌هایش برداشت تا برای جوجه‌ها ببرد، اما خدا مهر این کودک را در دل سیمرغ انداخت.",
+     "r": "u bacche rā bā changāl-hā-yash bar-dāsht tā barā-ye juje-hā be-barad, ammā khodā mehr-e in kudak rā dar del-e Simorgh andākht.",
+     "en": "She picked the baby up in her claws to carry him to her chicks, but God put love for the child into the Simorgh's heart.",
+     "faV": "او بَچّه را با چَنگال‌هایَش بَرداشت تا بَرایِ جوجه‌ها بِبَرَد، اَمّا خُدا مِهرِ این کودَک را دَر دِلِ سیمُرغ اَنداخت.",
+     "a": "662a9e538e83"
+    },
+    {
+     "fa": "سیمرغ کودک را در لانه‌ی خود نگه داشت و او را همراه جوجه‌هایش بزرگ کرد.",
+     "r": "Simorgh kudak rā dar lāne-ye khod negah dāsht o u rā hamrāh-e juje-hā-yash bozorg kard.",
+     "en": "The Simorgh kept the child in her nest and brought him up together with her chicks.",
+     "faV": "سیمُرغ کودَک را دَر لانه‌یِ خود نِگَه داشت و او را هَمراهِ جوجه‌هایَش بُزُرگ کَرد.",
+     "a": "2bc70bd8ad0d"
+    },
+    {
+     "fa": "سیمرغ نام او را دستان گذاشت، اما ما او را با نام زال می‌شناسیم، یعنی «سپیدموی».",
+     "r": "Simorgh nām-e u rā Dastān gozāsht, ammā mā u rā bā nām-e Zāl mi-shenāsim, ya'ni «sepid-muy».",
+     "en": "The Simorgh named him Dastan, but we know him by the name Zal, which means 'white-haired'.",
+     "faV": "سیمُرغ نامِ او را دَستان گُذاشت، اَمّا ما او را با نامِ زال می‌شِناسیم، یَعنی «سِپیدموی».",
+     "a": "44fc2d46b852"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "سال‌ها گذشت و کودک به جوانی بلندقد و نیرومند تبدیل شد.",
+     "r": "sāl-hā gozasht o kudak be javān-i boland-ghad o nirumand tabdil shod.",
+     "en": "Years passed, and the child grew into a tall, strong young man.",
+     "faV": "سال‌ها گُذَشت و کودَک به جَوانی بُلَندقَد و نیرومَند تَبدیل شُد.",
+     "a": "ed92c8d206f7"
+    },
+    {
+     "fa": "کاروان‌هایی که از کنار کوه می‌گذشتند، گاهی او را می‌دیدند و داستان جوانی با موهای سفید را همه جا تعریف می‌کردند.",
+     "r": "kārvān-hā-yi ke az kenār-e kuh mi-gozashtand, gāh-i u rā mi-didand o dāstān-e javān-i bā mu-hā-ye sefid rā hame jā ta'rif mi-kardand.",
+     "en": "Caravans passing the mountain sometimes caught sight of him, and everywhere they went they told the story of a young man with white hair.",
+     "faV": "کاروان‌هایی که اَز کِنارِ کوه می‌گُذَشتَند، گاهی او را می‌دیدَند و داستانِ جَوانی با موهایِ سِفید را هَمه جا تَعریف می‌کَردَند.",
+     "a": "ab9901fa58c7"
+    },
+    {
+     "fa": "یک شب سام خواب دید که مردی سوار بر اسب به او گفت: «تو فرزندت را به خاطر رنگ مویش رها کردی، اما او زنده است.»",
+     "r": "yek shab Sām khāb did ke mard-i savār bar asb be u goft: «to farzand-at rā be khāter-e rang-e mu-yash rahā kardi, ammā u zende ast.»",
+     "en": "One night Sam dreamed that a man on horseback said to him: \"You abandoned your child because of the colour of his hair, but he is alive.\"",
+     "faV": "یِک شَب سام خواب دید که مَردی سَوار بَر اَسب به او گُفت: «تو فَرزَندَت را به خاطِرِ رَنگِ مویَش رَها کَردی، اَمّا او زِنده اَست.»",
+     "a": "2dce13836a54"
+    },
+    {
+     "fa": "سام از خواب بیدار شد، از کار خود پشیمان شد و به سوی البرز رفت.",
+     "r": "Sām az khāb bidār shod, az kār-e khod pashimān shod o be su-ye Alborz raft.",
+     "en": "Sam woke up, regretted what he had done and set out for Alborz.",
+     "faV": "سام اَز خواب بیدار شُد، اَز کارِ خود پَشیمان شُد و به سویِ اَلبُرز رَفت.",
+     "a": "3c66e7a6d834"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "سیمرغ از بالای کوه سام را دید و به جوان گفت: «پدرت به دنبال تو آمده است؛ وقت آن رسیده که به دنیای آدم‌ها برگردی.»",
+     "r": "Simorgh az bālā-ye kuh Sām rā did o be javān goft: «pedar-at be donbāl-e to āmade ast; vaght-e ān reside ke be donyā-ye ādam-hā bar-gardi.»",
+     "en": "From the mountaintop the Simorgh saw Sam and said to the young man: \"Your father has come for you; it is time for you to go back to the world of people.\"",
+     "faV": "سیمُرغ اَز بالایِ کوه سام را دید و به جَوان گُفت: «پِدَرَت به دُنبالِ تو آمَده اَست؛ وَقتِ آن رِسیده که به دُنیایِ آدَم‌ها بَرگَردی.»",
+     "a": "b2162f1ff45d"
+    },
+    {
+     "fa": "جوان غمگین شد و پرسید: «مگر از من خسته شده‌ای؟ من جز این لانه خانه‌ای ندارم.»",
+     "r": "javān ghamgin shod o porsid: «magar az man khaste shode-i? man joz in lāne khāne-i na-dāram.»",
+     "en": "The young man was sad and asked: \"Have you grown tired of me? I have no home but this nest.\"",
+     "faV": "جَوان غَمگین شُد و پُرسید: «مَگَر اَز مَن خَسته شُده‌ای؟ مَن جُز این لانه خانه‌ای نَدارَم.»",
+     "a": "c3510f386788"
+    },
+    {
+     "fa": "سیمرغ پاسخ داد: «نه، فرزندم؛ اما جای تو در میان مردم است.»",
+     "r": "Simorgh pāsokh dād: «na, farzand-am; ammā jā-ye to dar miyān-e mardom ast.»",
+     "en": "The Simorgh answered: \"No, my child; but your place is among people.\"",
+     "faV": "سیمُرغ پاسُخ داد: «نه، فَرزَندَم؛ اَمّا جایِ تو دَر میانِ مَردُم اَست.»",
+     "a": "f0dabe12908a"
+    },
+    {
+     "fa": "سپس پری از بال خود برکند، به او داد و گفت: «اگر روزی در سختی افتادی، این پر را در آتش بینداز تا فوراً پیش تو بیایم.»",
+     "r": "sepas par-i az bāl-e khod bar-kand, be u dād o goft: «agar ruz-i dar sakhti oftādi, in par rā dar ātash bi-yandāz tā foran pish-e to bi-yāyam.»",
+     "en": "Then she plucked a feather from her wing, gave it to him and said: \"If you are ever in trouble, throw this feather into the fire and I will come to you at once.\"",
+     "faV": "سِپَس پَری اَز بالِ خود بَرکَند، به او داد و گُفت: «اَگَر روزی دَر سَختی اُفتادی، این پَر را دَر آتَش بیَنداز تا فوراً پیشِ تو بیایَم.»",
+     "a": "6040f13c3fa7"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "سام پسرش را در آغوش گرفت، گریه کرد و از او پوزش خواست.",
+     "r": "Sām pesar-ash rā dar āghush gereft, gerye kard o az u puzesh khāst.",
+     "en": "Sam took his son in his arms, wept and asked his forgiveness.",
+     "faV": "سام پِسَرَش را دَر آغوش گِرِفت، گِریه کَرد و اَز او پوزِش خواست.",
+     "a": "8ada696b2488"
+    },
+    {
+     "fa": "زال همراه پدرش به زابلستان رفت و بعدها یکی از بزرگ‌ترین پهلوانان ایران شد.",
+     "r": "Zāl hamrāh-e pedar-ash be Zābolestān raft o ba'd-hā yek-i az bozorg-tarin pahlavānān-e Irān shod.",
+     "en": "Zal went home with his father to Zabulistan and later became one of the greatest champions of Iran.",
+     "faV": "زال هَمراهِ پِدَرَش به زابُلِستان رَفت و بَعدها یِکی اَز بُزُرگ‌تَرین پَهلَوانانِ ایران شُد.",
+     "a": "78abe70d0929"
+    },
+    {
+     "fa": "سال‌ها بعد، وقتی همسرش رودابه نمی‌توانست فرزندش را به دنیا بیاورد، زال پر سیمرغ را در آتش انداخت.",
+     "r": "sāl-hā ba'd, vaghti hamsar-ash Rudābe nemi-tavānest farzand-ash rā be donyā bi-yāvarad, Zāl par-e Simorgh rā dar ātash andākht.",
+     "en": "Years later, when his wife Rudabeh could not give birth to her child, Zal threw the Simorgh's feather into the fire.",
+     "faV": "سال‌ها بَعد، وَقتی هَمسَرَش رودابه نِمی‌تَوانِست فَرزَندَش را به دُنیا بیاوَرَد، زال پَرِ سیمُرغ را دَر آتَش اَنداخت.",
+     "a": "70e223102708"
+    },
+    {
+     "fa": "سیمرغ فوراً آمد و به آن‌ها یاد داد که چگونه کودک را سالم به دنیا بیاورند؛ آن کودک رستم بود.",
+     "r": "Simorgh foran āmad o be ān-hā yād dād ke chegune kudak rā sālem be donyā bi-yāvarand; ān kudak Rostam bud.",
+     "en": "The Simorgh came at once and showed them how to bring the child safely into the world; that child was Rostam.",
+     "faV": "سیمُرغ فوراً آمَد و به آن‌ها یاد داد که چِگونه کودَک را سالِم به دُنیا بیاوَرَند؛ آن کودَک رُستَم بود.",
+     "a": "f81065b130c4"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "آرزو داشتن",
+   "r": "ārezu dāshtan",
+   "en": "to wish, to long for",
+   "faV": "آرِزو داشتَن",
+   "a": "c4e879d0e189"
+  },
+  {
+   "fa": "شرمنده",
+   "r": "sharmande",
+   "en": "ashamed",
+   "faV": "شَرمَنده",
+   "a": "be00b3035815"
+  },
+  {
+   "fa": "دیو",
+   "r": "div",
+   "en": "demon, div",
+   "faV": "دیو",
+   "a": "92b788c2977a"
+  },
+  {
+   "fa": "رها کردن",
+   "r": "rahā kardan",
+   "en": "to abandon, to let go",
+   "faV": "رَها کَردَن",
+   "a": "7b52ecb0e44c"
+  },
+  {
+   "fa": "قله",
+   "r": "gholle",
+   "en": "peak, summit",
+   "faV": "قُلّه",
+   "a": "ab2c526321db"
+  },
+  {
+   "fa": "لانه",
+   "r": "lāne",
+   "en": "nest",
+   "faV": "لانه",
+   "a": "02665cceaacc"
+  },
+  {
+   "fa": "دانا",
+   "r": "dānā",
+   "en": "wise",
+   "faV": "دانا",
+   "a": "9eeadb694352"
+  },
+  {
+   "fa": "جوجه",
+   "r": "juje",
+   "en": "chick",
+   "faV": "جوجه",
+   "a": "5d8b1ae0ba7a"
+  },
+  {
+   "fa": "چنگال",
+   "r": "changāl",
+   "en": "claw, talon",
+   "faV": "چَنگال",
+   "a": "0aae0b326c24"
+  },
+  {
+   "fa": "نیرومند",
+   "r": "nirumand",
+   "en": "strong, mighty",
+   "faV": "نیرومَند",
+   "a": "f6fc9e15c52b"
+  },
+  {
+   "fa": "کاروان",
+   "r": "kārvān",
+   "en": "caravan",
+   "faV": "کاروان",
+   "a": "29d681dd5f6a"
+  },
+  {
+   "fa": "پشیمان شدن",
+   "r": "pashimān shodan",
+   "en": "to regret, to be sorry",
+   "faV": "پَشیمان شُدَن",
+   "a": "f0b6addbb0c1"
+  },
+  {
+   "fa": "آغوش",
+   "r": "āghush",
+   "en": "embrace, arms",
+   "faV": "آغوش",
+   "a": "f3e71b59be39"
+  },
+  {
+   "fa": "پوزش خواستن",
+   "r": "puzesh khāstan",
+   "en": "to apologise",
+   "faV": "پوزِش خواستَن",
+   "a": "1c68073bebca"
+  },
+  {
+   "fa": "پر",
+   "r": "par",
+   "en": "feather",
+   "faV": "پَر",
+   "a": "09295e5104e5"
+  },
+  {
+   "fa": "به دنیا آوردن",
+   "r": "be donyā āvardan",
+   "en": "to give birth to",
+   "faV": "به دُنیا آوَردَن",
+   "a": "e5cb434c3d32"
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why did Sam abandon his son?",
+   "options": [
+    "the baby was sick",
+    "he was ashamed of the baby's white hair",
+    "a dream told him to"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Why didn't the Simorgh feed the baby to her chicks?",
+   "options": [
+    "God put love for the child in her heart",
+    "the baby was too heavy to carry",
+    "Sam had asked her to protect him"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How did Sam learn that his son was alive?",
+   "options": [
+    "a caravan brought him a letter",
+    "the Simorgh flew to his palace",
+    "a man on horseback told him in a dream"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What did the Simorgh give Zal before he left?",
+   "options": [
+    "one of her feathers",
+    "a sword",
+    "a horse"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Who was the child the Simorgh helped bring into the world?",
+   "options": [
+    "Sohrab",
+    "Rostam",
+    "Sam"
+   ],
+   "answer": 1
+  }
+ ],
+ "after": "Zal's story leads straight into Rostam's: the feather brings the Simorgh to help at Rostam's birth, and again, years later, to heal Rostam after his fight with Esfandiyar. Ferdowsi's Simorgh explains the name دستان, 'trick': your father played a trick on you. Notice the passives برده شد and رها شد, the narrative که in می‌گشت که صدای گریه‌ی نوزادی را شنید ('she was searching when she heard…'), the simple past after اگر for a possible future (اگر روزی در سختی افتادی), and مگر, which makes a question mean 'surely not…?'. In Attar's *Conference of the Birds*, thirty birds – سی مرغ, *si morgh* – go in search of the Simorgh and find that they themselves are what they were seeking.",
+ "titleV": "زال و سیمُرغ",
+ "titleA": "d3d006310ab5"
+}

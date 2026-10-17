@@ -1,0 +1,265 @@
+{
+ "id": "places-shiraz",
+ "topic": "places",
+ "title": "Shiraz",
+ "titleFa": "شیراز",
+ "titleR": "Shirāz",
+ "image": "shiraz",
+ "summary": "The city of Saadi and Hafez, of rose gardens, orange blossom and a mosque that fills with coloured light. What to see in Shiraz, what to eat, and how to hear the soft Shirazi accent.",
+ "body": [
+  {
+   "h": "The city of poets and roses",
+   "md": "[[شیراز|Shirāz|Shiraz]], capital of the southern province of [[فارس|Fārs|Fars]], is the city Iranians link with poetry, gardens and an easy-going way of life. Two of the greatest Persian poets were born and buried here – [[سعدی|Sa'di|Saadi]] in the 13th century and [[حافظ|Hāfez|Hafez]] in the 14th – and in spring the scent of [[بهارنارنج|bahār-nārenj|bitter-orange blossom]] fills the streets.\n\nShiraz had its own golden age in the 18th century under [[کریم‌خان زند|Karim-khān-e Zand|Karim Khan Zand]], who ruled from here but refused the title of shah and called himself [[وکیل|vakil|the representative]] of the people. His citadel, the [[ارگ کریم‌خان|Arg-e Karim-khān|Arg of Karim Khan]], still stands in the centre – look for its leaning corner tower – beside the Vakil bazaar, mosque and bathhouse that carry his title."
+  },
+  {
+   "h": "Hafez and Saadi",
+   "md": "The tomb of Hafez, the [[حافظیه|Hāfeziye|Hafezieh]], stands among orange trees under an open pavilion. Iranians do not only visit it – they come to read. Many open a copy of his [[دیوان|divān|collected poems]] at random to take a [[فال حافظ|fāl-e Hāfez|Hafez reading]], a poem believed to answer the question in their heart, and at sunset the garden fills with people reciting his verses by heart.\n\nSaadi's tomb, the [[سعدیه|Sa'diye|Saadieh]], lies in a quieter garden at the foot of the hills in the north-east of the city.",
+   "image": "tomb-of-hafez"
+  },
+  {
+   "h": "Coloured light and walled gardens",
+   "md": "Come early to the [[مسجد نصیرالملک|Masjed-e Nasir-ol-molk|Nasir al-Mulk Mosque]], built between 1876 and 1888. On sunny mornings, especially in autumn and winter when the sun is low, light pours through its stained-glass windows and throws pools of red, blue and yellow across the carpets; visitors call it the Pink Mosque for its rose-coloured tiles.\n\n[[باغ ارم|Bāgh-e Eram|Eram Garden]], now the botanical garden of Shiraz University, is one of the nine gardens on UNESCO's list of Persian gardens, with tall [[سرو|sarv|cypress]] trees and a Qajar pavilion reflected in a long pool. The smaller [[نارنجستان قوام|Nārenjestān-e Ghavām|Narenjestan Qavam]], 'the orange grove of the Qavam family', has a mirror-work pavilion and a courtyard of bitter-orange trees.",
+   "image": "nasir-al-mulk"
+  },
+  {
+   "h": "Faloodeh and Shirazi salad",
+   "md": "Shiraz's famous dessert is [[فالوده‌ی شیرازی|fālude-ye shirāzi|Shirazi faloodeh]]: thin frozen noodles in rose-water syrup, eaten with a squeeze of lime or a spoon of sour-cherry syrup – perfect on a hot afternoon. The city has also given its name to [[سالاد شیرازی|sālād-e shirāzi|Shirazi salad]], diced cucumber, tomato and onion with lime juice or [[آبغوره|āb-ghure|sour grape juice]] and dried mint, which appears beside rice all over Iran. For a main course, try [[کلم‌پلو|kalam-polow|cabbage rice]], rice layered with cabbage, herbs and little meatballs.",
+   "image": "faloodeh"
+  },
+  {
+   "h": "Kākā and the Shirazi accent",
+   "md": "Shirazis have a reputation, which they rather enjoy, for being relaxed and never in a hurry, and you can hear it in their soft, slow melody. The classic Shirazi way to address a friend is [[کاکا|kākā|brother, mate]], and you may hear [[مو|mo|I]] instead of [[من|man|I]]. A visitor who manages a friendly *kākā* will always get a smile."
+  },
+  {
+   "h": "Getting there and when to go",
+   "md": "Shiraz is the base for visiting [[تخت جمشید|Takht-e Jamshid|Persepolis]], about an hour's drive to the north-east, and [[پاسارگاد|Pāsārgād|Pasargadae]], about two hours away. The city has an international airport, buses come from all over Iran, and trains run from Tehran and Isfahan.\n\nThe classic season is spring, when the orange trees are in flower and the gardens are at their best, though Nowruz brings huge crowds. Autumn is pleasant too. In summer the afternoon heat can pass 40°C, so do your sightseeing in the morning and spend the afternoon in a garden with a bowl of faloodeh.",
+   "image": "eram-garden"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "ببخشید، حافظیه کجاست؟",
+   "r": "bebakhshid, Hāfeziye kojāst?",
+   "en": "Excuse me, where is the tomb of Hafez?",
+   "faV": "بِبَخشید، حافِظیه کُجاست؟",
+   "a": "1fffec400764"
+  },
+  {
+   "fa": "بیا یک فال حافظ بگیریم.",
+   "r": "biyā yek fāl-e Hāfez be-girim.",
+   "en": "Let's take a reading from Hafez.",
+   "col": "بیا یه فال حافظ بگیریم.",
+   "colR": "biyā ye fāl-e Hāfez be-girim.",
+   "faV": "بیا یِک فالِ حافِظ بِگیریم.",
+   "a": "aea503a31561",
+   "colV": "بیا یه فالِ حافِظ بِگیریم.",
+   "colA": "421dd54434d0"
+  },
+  {
+   "fa": "مسجد نصیرالملک را باید صبح زود دید.",
+   "r": "Masjed-e Nasir-ol-molk rā bāyad sobh-e zud did.",
+   "en": "You should see the Nasir al-Mulk Mosque early in the morning.",
+   "faV": "مَسجِدِ نَصیراُلمُلک را بایَد صُبحِ زود دید.",
+   "a": "f2d7262da099"
+  },
+  {
+   "fa": "نور از شیشه‌های رنگی روی فرش‌ها می‌افتد.",
+   "r": "nur az shishe-hā-ye rangi ru-ye farsh-hā mi-oftad.",
+   "en": "The light falls through the coloured glass onto the carpets.",
+   "faV": "نور اَز شیشه‌هایِ رَنگی رویِ فَرش‌ها می‌اُفتَد.",
+   "a": "b9d808181da5"
+  },
+  {
+   "fa": "باغ ارم در بهار خیلی قشنگ است.",
+   "r": "Bāgh-e Eram dar bahār kheyli ghashang ast.",
+   "en": "Eram Garden is very beautiful in spring.",
+   "col": "باغ ارم بهار خیلی قشنگه.",
+   "colR": "Bāgh-e Eram bahār kheyli ghashange.",
+   "faV": "باغِ اِرَم دَر بَهار خَیلی قَشَنگ اَست.",
+   "a": "8d8d49f5be74",
+   "colV": "باغِ اِرَم بَهار خَیلی قَشَنگه.",
+   "colA": "035ee66683bc"
+  },
+  {
+   "fa": "بوی بهارنارنج همه‌ی شهر را پر کرده است.",
+   "r": "bu-ye bahār-nārenj hame-ye shahr rā por karde ast.",
+   "en": "The scent of orange blossom has filled the whole city.",
+   "faV": "بویِ بَهارنارِنج هَمه‌یِ شَهر را پُر کَرده اَست.",
+   "a": "c8250c970c20"
+  },
+  {
+   "fa": "دو تا فالوده با آب‌لیمو، لطفاً.",
+   "r": "do tā fālude bā āb-limu, lotfan.",
+   "en": "Two faloodehs with lime juice, please.",
+   "faV": "دو تا فالوده با آب‌لیمو، لُطفاً.",
+   "a": "8012e90d9601"
+  },
+  {
+   "fa": "سالاد شیرازی را با آبغوره درست می‌کنند.",
+   "r": "sālād-e shirāzi rā bā āb-ghure dorost mi-konand.",
+   "en": "Shirazi salad is made with sour grape juice.",
+   "faV": "سالادِ شیرازی را با آبغوره دُرُست می‌کُنَند.",
+   "a": "f09b015a4869"
+  },
+  {
+   "fa": "کاکا، چطوری؟",
+   "r": "kākā, chetori?",
+   "en": "How are you, mate?",
+   "faV": "کاکا، چِطوری؟",
+   "a": "1057ab55a74c"
+  },
+  {
+   "fa": "دروازه‌ی قرآن ورودی شهر است.",
+   "r": "Darvāze-ye Ghor'ān vorudi-ye shahr ast.",
+   "en": "The Quran Gate is the entrance to the city.",
+   "faV": "دَروازه‌یِ قُرآن وُرودیِ شَهر اَست.",
+   "a": "8fe578425870"
+  },
+  {
+   "fa": "تخت جمشید یک ساعت با شیراز فاصله دارد.",
+   "r": "Takht-e Jamshid yek sā'at bā Shirāz fāsele dārad.",
+   "en": "Persepolis is an hour from Shiraz.",
+   "faV": "تَختِ جَمشید یِک ساعَت با شیراز فاصِله دارَد.",
+   "a": "f8f94a23aa16"
+  },
+  {
+   "fa": "تابستان ظهرها خیلی گرم است.",
+   "r": "tābestān zohr-hā kheyli garm ast.",
+   "en": "In summer it is very hot at midday.",
+   "faV": "تابِستان ظُهرها خَیلی گَرم اَست.",
+   "a": "17b6afc9a581"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "شاعر",
+   "r": "shā'er",
+   "en": "poet",
+   "faV": "شاعِر",
+   "a": "45d6a2ecdeca"
+  },
+  {
+   "fa": "شعر",
+   "r": "she'r",
+   "en": "poem, poetry",
+   "faV": "شِعر",
+   "a": "116393d466d1"
+  },
+  {
+   "fa": "آرامگاه",
+   "r": "ārāmgāh",
+   "en": "tomb, mausoleum",
+   "faV": "آرامگاه",
+   "a": "0acb7fd637bb"
+  },
+  {
+   "fa": "دیوان",
+   "r": "divān",
+   "en": "collected poems (of one poet)",
+   "faV": "دیوان",
+   "a": "990e80bfe2c0"
+  },
+  {
+   "fa": "فال",
+   "r": "fāl",
+   "en": "fortune, omen",
+   "faV": "فال",
+   "a": "1a913753f7b5"
+  },
+  {
+   "fa": "باغ",
+   "r": "bāgh",
+   "en": "garden",
+   "faV": "باغ",
+   "a": "56f735b72c6f"
+  },
+  {
+   "fa": "سرو",
+   "r": "sarv",
+   "en": "cypress",
+   "faV": "سَرو",
+   "a": "1de006ef0022"
+  },
+  {
+   "fa": "بهارنارنج",
+   "r": "bahār-nārenj",
+   "en": "bitter-orange blossom",
+   "faV": "بَهارنارِنج",
+   "a": "52a6490ddd9e"
+  },
+  {
+   "fa": "شیشه‌ی رنگی",
+   "r": "shishe-ye rangi",
+   "en": "stained glass",
+   "faV": "شیشه‌یِ رَنگی",
+   "a": "c8396da38895"
+  },
+  {
+   "fa": "ارگ",
+   "r": "arg",
+   "en": "citadel",
+   "faV": "اَرگ",
+   "a": "2ba2bd03cf54"
+  },
+  {
+   "fa": "وکیل",
+   "r": "vakil",
+   "en": "representative; lawyer",
+   "faV": "وَکیل",
+   "a": "47a4bb429ea3"
+  },
+  {
+   "fa": "فالوده",
+   "r": "fālude",
+   "en": "faloodeh, frozen noodle dessert",
+   "faV": "فالوده",
+   "a": "6c24f6aa4d6e"
+  },
+  {
+   "fa": "آبغوره",
+   "r": "āb-ghure",
+   "en": "sour grape juice, verjuice",
+   "faV": "آبغوره",
+   "a": "7ffdd3508181"
+  },
+  {
+   "fa": "لیمو",
+   "r": "limu",
+   "en": "lime, lemon",
+   "faV": "لیمو",
+   "a": "183bd07b5560"
+  },
+  {
+   "fa": "کاکا",
+   "r": "kākā",
+   "en": "brother, mate (Shirazi)",
+   "faV": "کاکا",
+   "a": "90b24a44d3d4"
+  },
+  {
+   "fa": "بو",
+   "r": "bu",
+   "en": "smell, scent",
+   "faV": "بو",
+   "a": "f2244a9e5ea0"
+  },
+  {
+   "fa": "گرم",
+   "r": "garm",
+   "en": "hot, warm",
+   "faV": "گَرم",
+   "a": "6776bb281a83"
+  }
+ ],
+ "facts": [
+  "Saadi (13th century) and Hafez (14th century) were both born and buried in Shiraz.",
+  "Karim Khan Zand ruled from Shiraz from 1751 to 1779 as 'Vakil', the people's representative, rather than as shah.",
+  "The Nasir al-Mulk Mosque was built between 1876 and 1888 for Mirza Hasan Ali Nasir al-Molk.",
+  "Eram Garden is one of the nine gardens inscribed together on the UNESCO list as 'The Persian Garden' in 2011.",
+  "The Quran Gate was first built in the 10th century; two large hand-written Qurans once kept in its upper room are now in the Pars Museum.",
+  "Despite the name, DNA studies show that the Shiraz (Syrah) grape comes from south-eastern France, not from Iran.",
+  "Persepolis lies about 60 kilometres north-east of Shiraz."
+ ],
+ "titleV": "شیراز",
+ "titleA": "af61b109adee"
+}

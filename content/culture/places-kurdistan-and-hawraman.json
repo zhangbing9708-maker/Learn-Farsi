@@ -1,0 +1,78 @@
+{
+ "id": "places-kurdistan-and-hawraman",
+ "topic": "places",
+ "title": "Kurdistan and Hawraman",
+ "titleFa": "کردستان و اورامان",
+ "titleR": "Kordestān o Owrāmān",
+ "image": "hawraman",
+ "summary": "In the Zagros mountains of western Iran, stepped villages cling to the slopes of the Hawraman valleys. Kurdish and Hawrami speech, the daf, a midwinter festival, mountain food and how to get there.",
+ "body": [
+  {
+   "h": "Iranian Kurdistan",
+   "md": "Kurds live in the mountains of western Iran, in the provinces of [[کردستان|Kordestān|Kurdistan]], Kermanshah, West Azerbaijan and Ilam, and across the borders in Iraq and Turkey. Their language, [[کردی|kordi|Kurdish]], belongs like Persian to the Iranian family, so a learner of Persian will notice many shared words.\n\nThe capital of Kurdistan province is [[سنندج|Sanandaj|Sanandaj]], which Kurds call Sine. It grew up in the 17th century as the seat of the Ardalan rulers, and its bazaar is known for carpets, woodwork and the hand-woven cotton shoes called [[کلاش|klāsh|klash]].",
+   "image": "kurds-iran"
+  },
+  {
+   "h": "Hawraman: villages on the mountainside",
+   "md": "In 2021 the valleys of [[اورامان|Owrāmān|Hawraman]], on the border between Kurdistan and Kermanshah provinces, became a UNESCO World Heritage Site. Here villages climb slopes so steep that, as in Masuleh, the roof of one house is the terrace of the house above. The Hawrami people have farmed these valleys for thousands of years, building dry-stone terraces for walnuts, mulberries, pomegranates and figs and moving their flocks up to summer pastures.\n\nThe best-known villages are [[اورامان تخت|Owrāmān-e Takht|Hawraman Takht]] and [[پالنگان|Pālangān|Palangan]], whose houses rise in steps above a rushing stream.",
+   "image": "palangan"
+  },
+  {
+   "h": "Hawrami and Kurdish",
+   "md": "The people of Hawraman speak [[هورامی|Hurāmi|Hawrami]], also called Gorani, which most of its speakers consider a form of Kurdish; it was once the literary language of the Ardalan court. In Sanandaj people speak Sorani Kurdish. Both are written in a version of the Arabic script.\n\nTwo words are easy to learn. Kurds address a man as [[کاک|kāk|brother, Mr]] – *Kak Ahmad* – and say [[سپاس|sepās|thank you]], a word Persian shares."
+  },
+  {
+   "h": "The daf and the Pir Shalyar festival",
+   "md": "Kurdistan is the home of the [[دف|daf|daf]], a large frame drum with metal rings hung inside, which can sound like rain and thunder at once. It is played in Sufi gatherings and at weddings, where the guests dance the [[هلپرکه|halparke|halparke]], a line dance with linked hands and shoulders moving as one.\n\nIn midwinter, Hawraman Takht celebrates [[پیرشالیار|Pir-shāliyār|Pir Shalyar]], an old festival in three stages over three weeks: first children carry walnuts to every house, then animals are sacrificed and the daf is played, and finally sun-shaped breads of wheat and walnut are shared at the tomb of Pir Shalyar.",
+   "image": "daf"
+  },
+  {
+   "h": "Mountain food",
+   "md": "Kurdish cooking is mountain food: flatbread baked on a griddle, fresh cheese, honey, yoghurt and wild herbs gathered on the hills in spring. Try [[کلانه|kalāne|kalaneh]], a flatbread stuffed with wild leek, and take home dried mulberries from the terraces of Hawraman."
+  },
+  {
+   "h": "Getting there and when to go",
+   "md": "Sanandaj has an airport and buses from Tehran, and Kermanshah is the other gateway. From either city it is a few hours' drive on mountain roads to Hawraman, by way of Marivan or Paveh; a car with a local driver is the easiest way to go.\n\nThe best seasons are spring, when the hills are green and the streams full of snow-melt, and early autumn, the time of the walnut and pomegranate harvest. Winters are snowy, and the mountain roads can close."
+  }
+ ],
+ "sentences": [
+  {"fa": "مردم کردستان به زبان کردی حرف می‌زنند.", "r": "mardom-e Kordestān be zabān-e kordi harf mi-zanand.", "en": "The people of Kurdistan speak Kurdish."},
+  {"fa": "کردی و فارسی هر دو زبان‌های ایرانی هستند.", "r": "kordi va fārsi har do zabān-hā-ye irāni hastand.", "en": "Kurdish and Persian are both Iranian languages."},
+  {"fa": "در اورامان خانه‌ها مثل پله روی کوه ساخته شده‌اند.", "r": "dar Owrāmān khāne-hā mesl-e pelle ru-ye kuh sākhte shode-and.", "en": "In Hawraman the houses are built like steps up the mountain."},
+  {"fa": "این روستا گردو و توت زیادی دارد.", "r": "in rustā gerdu va tut-e ziyād-i dārad.", "en": "This village has lots of walnuts and mulberries."},
+  {"fa": "صدای دف مثل باران است.", "r": "sedā-ye daf mesl-e bārān ast.", "en": "The sound of the daf is like rain."},
+  {"fa": "در عروسی‌های کردی همه هلپرکه می‌رقصند.", "r": "dar arusi-hā-ye kordi hame halparke mi-raghsand.", "en": "At Kurdish weddings everyone dances the halparke."},
+  {"fa": "کاک احمد، خیلی ممنون!", "r": "Kāk Ahmad, kheyli mamnun!", "en": "Thank you very much, Kak Ahmad!"},
+  {"fa": "این کلاش را با دست بافته‌اند.", "r": "in klāsh rā bā dast bāfte-and.", "en": "These klash shoes were woven by hand."},
+  {"fa": "جشن پیرشالیار در زمستان برگزار می‌شود.", "r": "jashn-e Pir-shāliyār dar zemestān bar-gozār mi-shavad.", "en": "The Pir Shalyar festival is held in winter."},
+  {"fa": "جاده‌ی اورامان کوهستانی و پرپیچ است.", "r": "jādde-ye Owrāmān kuhestāni va por-pich ast.", "en": "The road to Hawraman is mountainous and winding."},
+  {"fa": "بهار، کوه‌های کردستان سبز و پر از گل است.", "r": "bahār, kuh-hā-ye Kordestān sabz o por az gol ast.", "en": "In spring the mountains of Kurdistan are green and full of flowers."},
+  {"fa": "یک نان کلانه‌ی داغ، لطفاً.", "r": "yek nān-e kalāne-ye dāgh, lotfan.", "en": "One hot kalaneh bread, please."}
+ ],
+ "vocab": [
+  {"fa": "کرد", "r": "kord", "en": "a Kurd"},
+  {"fa": "کردی", "r": "kordi", "en": "Kurdish"},
+  {"fa": "کوهستان", "r": "kuhestān", "en": "mountains, mountain region"},
+  {"fa": "پله", "r": "pelle", "en": "step, stair"},
+  {"fa": "پلکانی", "r": "pellekāni", "en": "stepped, terraced"},
+  {"fa": "گردو", "r": "gerdu", "en": "walnut"},
+  {"fa": "توت", "r": "tut", "en": "mulberry"},
+  {"fa": "انار", "r": "anār", "en": "pomegranate"},
+  {"fa": "انجیر", "r": "anjir", "en": "fig"},
+  {"fa": "دف", "r": "daf", "en": "daf, frame drum"},
+  {"fa": "رقص", "r": "raghs", "en": "dance"},
+  {"fa": "عروسی", "r": "arusi", "en": "wedding"},
+  {"fa": "جشن", "r": "jashn", "en": "celebration, festival"},
+  {"fa": "گله", "r": "galle", "en": "flock, herd"},
+  {"fa": "چوپان", "r": "chupān", "en": "shepherd"},
+  {"fa": "مرز", "r": "marz", "en": "border"}
+ ],
+ "facts": [
+  "The Cultural Landscape of Hawraman/Uramanat became a UNESCO World Heritage Site in 2021.",
+  "UNESCO describes the Hawrami people as living in these valleys since about 3000 BC.",
+  "Kurdish, like Persian, belongs to the Iranian branch of the Indo-European languages.",
+  "Hawrami, or Gorani, was the traditional literary language of the Kurdish court of Ardalan.",
+  "Sanandaj grew up in the 17th century as the seat of the Ardalan rulers.",
+  "The Pir Shalyar ceremony in Hawraman Takht is held in three stages over three weeks in midwinter."
+ ]
+}

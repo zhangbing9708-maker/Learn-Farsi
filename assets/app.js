@@ -822,4 +822,43 @@
       run();
     });
   }
+
+  /* ---------------------------------------------------------- offline */
+  var canCache = "serviceWorker" in navigator && "caches" in window && (location.protocol === "https:" || location.hostname === "localhost" || location.hostname === "127.0.0.1");
+  if (canCache) {
+    window.addEventListener("load", function () { navigator.serviceWorker.register(R + "sw.js").catch(function () {}); });
+    var pageUrl = location.href.split("#")[0].split("?")[0];
+    $$("[data-offline]").forEach(function (btn) {
+      var ids = [];
+      $$("main [data-a]").forEach(function (el) { var a = el.getAttribute("data-a"); if (a && ids.indexOf(a) < 0) ids.push(a); });
+      btn.hidden = false;
+      caches.open("lf-saved").then(function (c) { return c.match(pageUrl); }).then(function (hit) { if (hit) { btn.textContent = "Saved offline ✓"; btn.classList.add("on"); } }).catch(function () {});
+      btn.addEventListener("click", function () {
+        if (btn.disabled) return;
+        btn.disabled = true;
+        var urls = ids.map(function (a) { return new URL(R + "data/audio/fa/" + a + ".mp3", location.href).href; }), i = 0, done = 0;
+        caches.open("lf-audio").then(function (c) {
+          function next() {
+            if (i >= urls.length) return Promise.resolve();
+            var u = urls[i++];
+            return c.match(u).then(function (hit) { return hit || fetch(u).then(function (r) { if (r.ok) return c.put(u, r); }); })
+              .catch(function () {}).then(function () { done++; btn.textContent = "Saving " + done + " / " + urls.length; return next(); });
+          }
+          return Promise.all([next(), next(), next(), next(), next(), next()]);
+        }).then(function () {
+          return Promise.all([caches.open("lf-pages").then(function (c) { return c.add(pageUrl); }),
+            caches.open("lf-saved").then(function (c) { return c.put(pageUrl, new Response(document.title.replace(/ – Learn Farsi$/, ""), { headers: { "Content-Type": "text/plain; charset=utf-8" } })); })]);
+        }).then(function () { btn.textContent = "Saved offline ✓"; btn.classList.add("on"); btn.disabled = false; })
+          .catch(function () { btn.textContent = "Couldn't save – try again"; btn.disabled = false; });
+      });
+    });
+    var offList = $("[data-offline-list]");
+    if (offList) caches.open("lf-saved").then(function (c) {
+      return c.keys().then(function (keys) { return Promise.all(keys.map(function (k) { return c.match(k).then(function (r) { return r.text(); }).then(function (t) { return [k.url, t]; }); })); });
+    }).then(function (rows) {
+      offList.innerHTML = "";
+      if (!rows.length) { offList.append(h("li", { text: "Nothing saved yet. Pages you have opened before may still work – try the back button." })); return; }
+      rows.sort(function (a, b) { return a[1] < b[1] ? -1 : 1; }).forEach(function (r) { offList.append(h("li", null, h("a", { href: r[0], text: r[1] }))); });
+    }).catch(function () {});
+  }
 })();

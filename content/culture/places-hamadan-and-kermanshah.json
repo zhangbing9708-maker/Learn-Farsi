@@ -1,0 +1,80 @@
+{
+ "id": "places-hamadan-and-kermanshah",
+ "topic": "places",
+ "title": "Hamadan and Kermanshah",
+ "titleFa": "همدان و کرمانشاه",
+ "titleR": "Hamedān o Kermānshāh",
+ "image": "hamadan",
+ "summary": "Two cities of the Zagros on the ancient road west: Hamadan, the old Median capital with the tombs of Avicenna and Baba Taher, and Kermanshah, where Achaemenid and Sasanian kings carved their deeds into the cliffs.",
+ "body": [
+  {
+   "h": "Hamadan: the city of the Medes",
+   "md": "[[همدان|Hamedān|Hamadan]], high in the Zagros at about 1,800 metres, is one of the oldest cities in Iran. As [[هگمتانه|Hegmatāne|Ecbatana]] it was the capital of the Medes and later a summer capital of the Achaemenid kings, and the excavated hill of Hegmataneh lies in the middle of the modern town.\n\nSouth-west of the city, at [[گنج‌نامه|Ganj-nāme|Ganjnameh]], two panels of cuneiform carved for Darius I and Xerxes stand beside a waterfall on the slopes of Mount [[الوند|Alvand|Alvand]]. Locals once believed the writing gave directions to a buried treasure – hence the name, 'the treasure book'. Hamadan also holds the tomb said to be that of [[استر و مردخای|Ester o Mordakhāy|Esther and Mordecai]], a place of pilgrimage for Iran's Jews."
+  },
+  {
+   "h": "Avicenna and Baba Taher",
+   "md": "The great physician and philosopher [[ابن سینا|Ebn-e Sinā|Avicenna]], whom Iranians call [[بوعلی سینا|Bu-Ali Sinā|Bu Ali Sina]], died in Hamadan in 1037. His mausoleum, completed in 1953, has a tall, slender tower modelled on the thousand-year-old brick tower of Gonbad-e Qabus.\n\nIn the north of the city lies the tomb of [[باباطاهر|Bābā Tāher|Baba Taher]], the 11th-century poet of [[دوبیتی|dobeyti|two-couplet poems]] in a local dialect, whose simple songs of love and longing are still sung today.",
+   "image": "avicenna-mausoleum"
+  },
+  {
+   "h": "The water cave of Ali Sadr",
+   "md": "About 100 kilometres north of Hamadan, [[غار علیصدر|ghār-e Alisadr|Ali Sadr cave]] is one of the largest water caves in the world. Visitors are paddled in boats along underground lakes and channels between walls of white and grey stone.\n\nHamadan province is also known for leather and pottery: the town of [[لالجین|Lālejin|Lalejin]] is full of potters' workshops.",
+   "image": "ali-sadr-cave"
+  },
+  {
+   "h": "Kermanshah: kings carved in rock",
+   "md": "Three hours to the west, [[کرمانشاه|Kermānshāh|Kermanshah]] guards the old road from the Iranian plateau down to Mesopotamia, and the kings who travelled it carved their deeds into the cliffs. At [[بیستون|Bisotun|Bisotun]], about 100 metres up a cliff, Darius I had his victories inscribed around 520 BC in three languages: Old Persian, Elamite and Babylonian. In the 1830s and 1840s the British officer Henry Rawlinson climbed up to copy it, and the inscription became the key to reading cuneiform; it has been a UNESCO World Heritage Site since 2006.\n\nAt the foot of the same mountain reclines a Greek-style statue of Hercules, carved in 148 BC.",
+   "image": "behistun"
+  },
+  {
+   "h": "Taq-e Bostan and Farhad's mountain",
+   "md": "In a park at the edge of Kermanshah, beside a spring-fed pool, the Sasanian kings cut arched grottoes into the rock at [[طاق بستان|Tāgh-e Bostān|Taq-e Bostan]]. Their reliefs, from the 4th to the 7th century AD, show kings receiving their crowns from the gods, royal hunts of deer and boar, and a mounted king in armour, often identified as Khosrow II on his horse [[شبدیز|Shabdiz|Shabdiz]].\n\nPersian poetry adds a legend of its own: the lovesick sculptor [[فرهاد|Farhād|Farhad]], who in Nezami's *Khosrow and Shirin* tries to cut a road through the mountain of Bisotun to win Shirin.",
+   "image": "taq-e-bostan"
+  },
+  {
+   "h": "Food, words and when to go",
+   "md": "Kermanshah is proud of its [[نان برنجی|nān-e berenji|rice-flour cookies]], scented with cardamom and rosewater, and of [[روغن کرمانشاهی|rowghan-e kermānshāhi|Kermanshahi ghee]], the clarified butter that goes into the best rice dishes. Locals often call their city [[کرماشان|Kermāshān|Kermashan]].\n\nHamadan is four to five hours by road from Tehran, and Kermanshah about three hours further on. Hamadan is cool in summer and very cold in winter, which makes it a popular summer escape; Kermanshah is warmer and best in spring and autumn."
+  }
+ ],
+ "sentences": [
+  {"fa": "همدان یکی از قدیمی‌ترین شهرهای ایران است.", "r": "Hamedān yek-i az ghadimi-tarin shahr-hā-ye Irān ast.", "en": "Hamadan is one of the oldest cities in Iran."},
+  {"fa": "نام قدیم همدان «هگمتانه» بود.", "r": "nām-e ghadim-e Hamedān «Hegmatāne» bud.", "en": "The old name of Hamadan was Hegmataneh (Ecbatana)."},
+  {"fa": "مردم فکر می‌کردند گنج‌نامه نقشه‌ی یک گنج است.", "r": "mardom fekr mi-kardand Ganj-nāme naghshe-ye yek ganj ast.", "en": "People thought the Ganjnameh was a map to a treasure."},
+  {"fa": "آرامگاه بوعلی‌سینا در مرکز همدان است.", "r": "ārāmgāh-e Bu-Ali-Sinā dar markaz-e Hamedān ast.", "en": "Avicenna's tomb is in the centre of Hamadan."},
+  {"fa": "باباطاهر دوبیتی‌هایش را به زبان محلی گفته است.", "r": "Bābā-tāher dobeyti-hā-yash rā be zabān-e mahalli gofte ast.", "en": "Baba Taher composed his quatrains in the local dialect."},
+  {"fa": "در غار علیصدر با قایق می‌روید.", "r": "dar ghār-e Alisadr bā ghāyegh mi-ravid.", "en": "In Ali Sadr cave you go by boat."},
+  {"fa": "داخل غار هوا خنک است؛ یک لباس گرم بیاورید.", "r": "dākhel-e ghār havā khonak ast; yek lebās-e garm bi-yāvarid.", "en": "It's cool inside the cave – bring something warm to wear."},
+  {"fa": "کتیبه‌ی بیستون به سه زبان نوشته شده است.", "r": "katibe-ye Bisotun be se zabān neveshte shode ast.", "en": "The Bisotun inscription is written in three languages."},
+  {"fa": "فرهاد برای شیرین کوه را کند.", "r": "Farhād barā-ye Shirin kuh rā kand.", "en": "Farhad dug through the mountain for Shirin."},
+  {"fa": "طاق بستان کنار یک چشمه‌ی زیباست.", "r": "Tāgh-e Bostān kenār-e yek cheshme-ye zibāst.", "en": "Taq-e Bostan is beside a beautiful spring."},
+  {"fa": "یک جعبه نان برنجی کرمانشاه، لطفاً.", "r": "yek ja'be nān-e berenji-ye Kermānshāh, lotfan.", "en": "A box of Kermanshah rice cookies, please."},
+  {"fa": "همدان تابستان‌ها خنک و زمستان‌ها خیلی سرد است.", "r": "Hamedān tābestān-hā khonak va zemestān-hā kheyli sard ast.", "en": "Hamadan is cool in summer and very cold in winter."}
+ ],
+ "vocab": [
+  {"fa": "کتیبه", "r": "katibe", "en": "inscription"},
+  {"fa": "خط میخی", "r": "khatt-e mikhi", "en": "cuneiform"},
+  {"fa": "سنگ‌نگاره", "r": "sang-negāre", "en": "rock relief"},
+  {"fa": "صخره", "r": "sakhre", "en": "rock, cliff"},
+  {"fa": "پادشاه", "r": "pādshāh", "en": "king"},
+  {"fa": "گنج", "r": "ganj", "en": "treasure"},
+  {"fa": "پزشک", "r": "pezeshk", "en": "doctor, physician"},
+  {"fa": "فیلسوف", "r": "filsuf", "en": "philosopher"},
+  {"fa": "دوبیتی", "r": "dobeyti", "en": "two-couplet poem, quatrain"},
+  {"fa": "عاشق", "r": "āshegh", "en": "lover; in love"},
+  {"fa": "زبان محلی", "r": "zabān-e mahalli", "en": "local dialect"},
+  {"fa": "سفال", "r": "sofāl", "en": "pottery, earthenware"},
+  {"fa": "چرم", "r": "charm", "en": "leather"},
+  {"fa": "شکار", "r": "shekār", "en": "hunting, hunt"},
+  {"fa": "اسب", "r": "asb", "en": "horse"},
+  {"fa": "قایق‌سواری", "r": "ghāyegh-savāri", "en": "boat ride"}
+ ],
+ "facts": [
+  "Hamadan, ancient Ecbatana, was the capital of the Medes.",
+  "Avicenna died in Hamadan in 1037; his mausoleum, designed by Houshang Seyhoun, was completed in 1953.",
+  "Ali Sadr cave was rediscovered by Iranian mountaineers in 1963; its surveyed passages run for more than 11 kilometres.",
+  "The Bisotun inscription of Darius I, about 100 metres up a cliff, is written in Old Persian, Elamite and Babylonian; UNESCO listed the site in 2006.",
+  "Henry Rawlinson's copies of the Bisotun inscription, made between 1835 and 1847, helped scholars decipher cuneiform.",
+  "The reclining Hercules at Bisotun was carved in 148 BC for a Seleucid governor.",
+  "The reliefs of Taq-e Bostan date from the Sasanian period, between the 4th and 7th centuries AD."
+ ]
+}

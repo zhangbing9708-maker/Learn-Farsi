@@ -1,0 +1,80 @@
+{
+ "id": "places-kerman-and-the-lut",
+ "topic": "places",
+ "title": "Kerman and the Lut desert",
+ "titleFa": "کرمان و دشت لوت",
+ "titleR": "Kermān o Dasht-e Lut",
+ "image": "lut-desert",
+ "summary": "A carpet and pistachio city on the edge of one of the hottest places on Earth, with a Safavid bazaar, a desert garden, the mud-brick citadel of Bam and the wind-carved ridges of the Lut.",
+ "body": [
+  {
+   "h": "A city on the edge of the desert",
+   "md": "[[کرمان|Kermān|Kerman]], capital of the south-eastern province of the same name, lies at about 1,750 metres on a high plain between the mountains and the desert. For centuries it lived from carpets, caravans and crops that need little water. Kerman carpets are among the most famous in Iran, the province grows much of the country's pistachios around [[رفسنجان|Rafsanjān|Rafsanjan]], and the dates of [[بم|Bam|Bam]] are known all over Iran.\n\nKerman's cumin was once so famous that Persian has an idiom for pointless effort: [[زیره به کرمان بردن|zire be Kermān bordan|taking cumin to Kerman]], the Persian 'coals to Newcastle'.",
+   "image": "pistachio"
+  },
+  {
+   "h": "The Ganjali Khan complex",
+   "md": "The heart of old Kerman is the [[مجموعه‌ی گنجعلی‌خان|majmu'e-ye Ganj-ali-khān|Ganjali Khan complex]], built between 1596 and 1631 for the Safavid governor Ganjali Khan: a square, a caravanserai, a mint, a small mosque and a magnificent [[حمام|hammām|bathhouse]] of 1611. The bathhouse is now a museum, where life-size figures show how Iranians once bathed, talked and had their hair cut. Beside it runs the long vaulted [[بازار وکیل|bāzār-e Vakil|Vakil bazaar]], where an old bathhouse now serves tea.",
+   "image": "ganjali-khan"
+  },
+  {
+   "h": "Mahan and Bam",
+   "md": "Forty minutes from Kerman, the small town of [[ماهان|Māhān|Mahan]] holds the blue-domed shrine of the Sufi master and poet [[شاه نعمت‌الله ولی|Shāh Ne'matollāh-e Vali|Shah Nematollah Vali]]. Just outside it, the [[باغ شازده|Bāgh-e Shāzde|Shazdeh Garden]], 'the Prince's Garden', is a Qajar garden whose fountains step down the slope in terraces – a green rectangle in the brown desert.\n\nFurther south-east, [[ارگ بم|Arg-e Bam|Arg-e Bam]], the citadel of Bam, was once the largest mud-brick building in the world. On 26 December 2003 an earthquake destroyed most of it and much of the town, killing tens of thousands of people; rebuilding has gone on ever since. The smaller mud-brick citadel of [[راین|Rāyen|Rayen]] gives an idea of what Bam once looked like.",
+   "image": "bam-citadel"
+  },
+  {
+   "h": "The Lut: the hottest place on Earth",
+   "md": "East of Kerman begins the [[دشت لوت|Dasht-e Lut|Lut desert]], about 50,000 square kilometres of sand, salt and stone, and in 2016 Iran's first natural World Heritage Site. In 2005 a NASA satellite measured a ground temperature of 70.7°C there, one of the highest ever recorded on Earth.\n\nNear the oasis of [[شهداد|Shahdād|Shahdad]], the wind has carved the clay into giant ridges, some as tall as a tower block, called [[کلوت|kalut|kalut]] – the landforms geographers call yardangs. Desert tours leave from Kerman and Shahdad: never go in alone, and never in summer."
+  },
+  {
+   "h": "Kolompeh, kashk and the Kermani accent",
+   "md": "Kerman's sweet is [[کلمپه|kolompe|kolompeh]], a round pastry filled with dates, walnuts and cardamom. Its dishes are hearty: [[بزقورمه|boz-ghorme|bozghormeh]], lamb and chickpeas served with [[کشک|kashk|dried whey]], and [[کله‌جوش|kalle-jush|kalleh-jush]], a quick soup of kashk, walnuts, fried onion and dried mint. Other Iranians often call the Kermani accent 'sweet', with its slow, gentle melody.",
+   "image": "koloocheh"
+  },
+  {
+   "h": "Getting there and when to go",
+   "md": "Kerman has an airport and is linked by train and bus to Tehran, Yazd and Bandar Abbas. Visit between October and April, when the desert is beautiful and bearable – but take warm clothes, because desert nights can be very cold. In summer the Lut is dangerously hot and the tours stop."
+  }
+ ],
+ "sentences": [
+  {"fa": "حمام گنجعلی‌خان حالا موزه است.", "r": "hammām-e Ganj-ali-khān hālā muze ast.", "en": "The Ganjali Khan bathhouse is now a museum."},
+  {"fa": "زیره به کرمان بردن یعنی کار بیهوده.", "r": "zire be Kermān bordan ya'ni kār-e bihude.", "en": "'Taking cumin to Kerman' means a pointless task."},
+  {"fa": "فرش کرمان در همه‌ی دنیا معروف است.", "r": "farsh-e Kermān dar hame-ye donyā ma'ruf ast.", "en": "Kerman carpets are famous all over the world."},
+  {"fa": "پسته‌ی رفسنجان معروف است.", "r": "peste-ye Rafsanjān ma'ruf ast.", "en": "Rafsanjan pistachios are famous."},
+  {"fa": "خرمای بم خیلی شیرین است.", "r": "khormā-ye Bam kheyli shirin ast.", "en": "Bam dates are very sweet."},
+  {"fa": "ارگ بم در زلزله‌ی ۱۳۸۲ ویران شد.", "r": "Arg-e Bam dar zelzele-ye hezār-o-sisad-o-hashtād-o-do virān shod.", "en": "The citadel of Bam was destroyed in the earthquake of 1382 (2003)."},
+  {"fa": "باغ شازده مثل یک بهشت سبز در کویر است.", "r": "Bāgh-e Shāzde mesl-e yek behesht-e sabz dar kavir ast.", "en": "The Shazdeh Garden is like a green paradise in the desert."},
+  {"fa": "دمای زمین در لوت به هفتاد درجه رسیده است.", "r": "damā-ye zamin dar Lut be haftād daraje reside ast.", "en": "The ground temperature in the Lut has reached seventy degrees."},
+  {"fa": "کلوت‌ها را باد ساخته است.", "r": "kalut-hā rā bād sākhte ast.", "en": "The kaluts were made by the wind."},
+  {"fa": "بدون راهنما وارد کویر نشوید.", "r": "bedun-e rāhnamā vāred-e kavir na-shavid.", "en": "Do not go into the desert without a guide."},
+  {"fa": "تابستان هیچ توری به لوت نمی‌رود.", "r": "tābestān hich tur-i be Lut nemi-ravad.", "en": "In summer no tours go to the Lut."},
+  {"fa": "یک جعبه کلمپه برای سوغاتی می‌خواهم.", "r": "yek ja'be kolompe barā-ye soghāti mi-khāham.", "en": "I'd like a box of kolompeh as a souvenir.", "col": "یه جعبه کلمپه برای سوغاتی می‌خوام.", "colR": "ye ja'be kolompe barā-ye soghāti mi-khām."}
+ ],
+ "vocab": [
+  {"fa": "دشت", "r": "dasht", "en": "plain; open desert"},
+  {"fa": "شن", "r": "shen", "en": "sand"},
+  {"fa": "تپه‌ی شنی", "r": "tappe-ye sheni", "en": "sand dune"},
+  {"fa": "کلوت", "r": "kalut", "en": "kalut, a wind-carved ridge (yardang)"},
+  {"fa": "سراب", "r": "sarāb", "en": "mirage"},
+  {"fa": "دما", "r": "damā", "en": "temperature"},
+  {"fa": "درجه", "r": "daraje", "en": "degree"},
+  {"fa": "گرما", "r": "garmā", "en": "heat"},
+  {"fa": "راهنما", "r": "rāhnamā", "en": "guide"},
+  {"fa": "شتر", "r": "shotor", "en": "camel"},
+  {"fa": "خرما", "r": "khormā", "en": "date (fruit)"},
+  {"fa": "زیره", "r": "zire", "en": "cumin"},
+  {"fa": "کشک", "r": "kashk", "en": "kashk, dried whey"},
+  {"fa": "کاروانسرا", "r": "kārvānsarā", "en": "caravanserai"},
+  {"fa": "قلعه", "r": "ghal'e", "en": "castle, fort"},
+  {"fa": "ویران", "r": "virān", "en": "ruined, destroyed"},
+  {"fa": "بازسازی", "r": "bāz-sāzi", "en": "rebuilding, reconstruction"}
+ ],
+ "facts": [
+  "The Lut desert became Iran's first natural World Heritage Site in 2016.",
+  "In 2005 the MODIS instrument on NASA's Aqua satellite measured a land-surface temperature of 70.7°C in the Lut.",
+  "Before the earthquake of 26 December 2003, Arg-e Bam was the largest adobe building in the world; 'Bam and its Cultural Landscape' was inscribed by UNESCO in 2004.",
+  "The Ganjali Khan complex was built between 1596 and 1631 for the Safavid governor Ganjali Khan.",
+  "The Shazdeh Garden at Mahan is one of the nine gardens of UNESCO's 'Persian Garden' listing.",
+  "'Zire be Kermān bordan' – taking cumin to Kerman – is the Persian way of saying 'carrying coals to Newcastle'."
+ ]
+}

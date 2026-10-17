@@ -1,0 +1,131 @@
+{
+ "id": "arts-shahnameh",
+ "topic": "arts",
+ "title": "The Shahnameh",
+ "titleFa": "شاهنامه",
+ "titleR": "Shāhnāme",
+ "image": "shahnameh",
+ "summary": "Ferdowsi's Book of Kings is Iran's national epic: tyrants and blacksmiths, a magic bird, the hero Rostam and the tragedies of fathers and sons – told in a Persian that Iranians can still read, and acted out by storytellers in tea houses.",
+ "body": [
+  {
+   "h": "The Book of Kings",
+   "md": "The [[شاهنامه|Shāhnāme|Book of Kings]] is Iran's national epic: about 50,000 rhyming couplets telling the story of Iran from the first king of the world to the Arab conquest in the 7th century. It was written by [[فردوسی|Ferdowsi|Ferdowsi]] (about 940–1020), a landowner from Tus near Mashhad, who spent more than thirty years on it and finished it around 1010. It falls into three parts – the myths of the first kings, the age of heroes, and the history of the Sasanian kings – and is full of battles, love stories and tragedies.",
+   "image": "tomb-of-ferdowsi"
+  },
+  {
+   "h": "Tyrants and a blacksmith",
+   "md": "The mythical kings bring the gifts of civilisation – fire, iron, clothing and, in the case of Jamshid, the festival of Nowruz. Then comes [[ضحاک|Zahhāk|Zahhak]], a tyrant with two snakes growing from his shoulders that must be fed every day with human brains. The people find their champion in [[کاوه|Kāve|Kaveh]] the blacksmith, who raises his leather apron on a spear as a banner of revolt. The young prince Fereydun defeats Zahhak and chains him inside Mount Damavand – where, the story says, he is still bound."
+  },
+  {
+   "h": "Zal, the Simorgh and Rostam",
+   "md": "In the age of heroes the great family is that of Sistan. [[زال|Zāl|Zal]] is born with white hair, and his father, ashamed, leaves him on a mountain, where he is raised by the wise magical bird, the [[سیمرغ|Simorgh|Simorgh]]. Zal's son is [[رستم|Rostam|Rostam]], the greatest hero of Persian legend: huge, loyal and almost unbeatable, wrapped in his famous animal-skin coat and riding his faithful horse [[رخش|Rakhsh|Rakhsh]]. On his 'seven labours' he crosses a waterless desert and fights a dragon, a witch and finally the White Demon of Mazandaran.",
+   "image": "zal"
+  },
+  {
+   "h": "Fathers and sons",
+   "md": "The Shahnameh's most famous stories are tragedies. Rostam marries Tahmineh, a princess of Samangan, and leaves the next morning. Years later their son [[سهراب|Sohrāb|Sohrab]], now a young champion of the enemy, Turan, meets him in single combat; neither knows the other, and Rostam kills his son before he sees the armband he once gave Tahmineh. Prince [[سیاوش|Siyāvash|Siyavash]] rides through a mountain of fire to prove his innocence, only to be murdered in exile. Again and again, the good are destroyed by fate, pride and the ambitions of kings.",
+   "image": "rostam-and-sohrab"
+  },
+  {
+   "h": "Ferdowsi's Persian",
+   "md": "Ferdowsi wrote at a time when Arabic was the language of learning, yet he chose Persian and used remarkably few Arabic words. His galloping metre and plain, powerful language helped to preserve Persian itself, and Iranian schoolchildren can still follow much of the poem a thousand years later. A famous line attributed to him sums up his pride: [[عجم زنده کردم بدین پارسی|'ajam zende kardam bedin pārsi|I brought the Persians back to life with this Persian]].\n\nLegend says Sultan Mahmud of Ghazni paid him in silver instead of gold. When the sultan relented and sent the reward, Ferdowsi's coffin was leaving Tus by another gate."
+  },
+  {
+   "h": "Naqqali: the epic in the tea house",
+   "md": "For centuries most Iranians met the Shahnameh not in books but in the [[قهوه‌خانه|ghahve-khāne|tea house]]. There a [[نقال|nagghāl|storyteller]] performs [[نقالی|nagghāli|dramatic storytelling]]: pacing, shouting and whispering, swinging a stick as a sword, he tells one story over many evenings and always stops at the most exciting moment, so that the audience comes back. Some performed in front of large painted canvases of the heroes, and in the [[زورخانه|zurkhāne|house of strength]], the traditional gym, athletes still train to Ferdowsi's verses. Naqqali is now rare, and UNESCO lists it as heritage in urgent need of safeguarding.",
+   "image": "iranian-coffeehouse-painting"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "شاهنامه کتاب بزرگ حماسی ایران است.",
+   "r": "Shāhnāme ketāb-e bozorg-e hamāsi-ye Irān ast.",
+   "en": "The Shahnameh is Iran's great epic."
+  },
+  {
+   "fa": "فردوسی شاهنامه را در حدود سی سال سرود.",
+   "r": "Ferdowsi Shāhnāme rā dar hodud-e si sāl sorud.",
+   "en": "Ferdowsi composed the Shahnameh over about thirty years."
+  },
+  {
+   "fa": "شاهنامه حدود پنجاه هزار بیت دارد.",
+   "r": "Shāhnāme hodud-e panjāh hezār beyt dārad.",
+   "en": "The Shahnameh has about fifty thousand couplets."
+  },
+  {
+   "fa": "کاوه‌ی آهنگر در برابر ضحاک ایستاد.",
+   "r": "Kāve-ye āhangar dar barābar-e Zahhāk istād.",
+   "en": "Kaveh the blacksmith stood up against Zahhak."
+  },
+  {
+   "fa": "سیمرغ زال را در کوه بزرگ کرد.",
+   "r": "Simorgh Zāl rā dar kuh bozorg kard.",
+   "en": "The Simorgh raised Zal on the mountain."
+  },
+  {
+   "fa": "رستم بزرگ‌ترین پهلوان شاهنامه است.",
+   "r": "Rostam bozorg-tarin pahlavān-e Shāhnāme ast.",
+   "en": "Rostam is the greatest hero of the Shahnameh."
+  },
+  {
+   "fa": "اسب رستم رخش نام دارد.",
+   "r": "asb-e Rostam Rakhsh nām dārad.",
+   "en": "Rostam's horse is called Rakhsh."
+  },
+  {
+   "fa": "رستم پسرش سهراب را نشناخت و او را کشت.",
+   "r": "Rostam pesar-ash Sohrāb rā na-shenākht va u rā kosht.",
+   "en": "Rostam did not recognise his son Sohrab and killed him."
+  },
+  {
+   "fa": "فردوسی از کلمه‌های عربی کم استفاده کرد.",
+   "r": "Ferdowsi az kalame-hā-ye 'arabi kam estefāde kard.",
+   "en": "Ferdowsi used Arabic words sparingly."
+  },
+  {
+   "fa": "نقال داستان‌های شاهنامه را در قهوه‌خانه تعریف می‌کند.",
+   "r": "nagghāl dāstān-hā-ye Shāhnāme rā dar ghahve-khāne ta'rif mi-konad.",
+   "en": "The storyteller tells stories from the Shahnameh in the tea house."
+  },
+  {
+   "fa": "بسیاری از ایرانی‌ها نام قهرمانان شاهنامه را روی بچه‌هایشان می‌گذارند.",
+   "r": "besyāri az irāni-hā nām-e ghahremānān-e Shāhnāme rā ru-ye bacche-hā-yeshān mi-gozārand.",
+   "en": "Many Iranians name their children after the heroes of the Shahnameh."
+  },
+  {
+   "fa": "آرامگاه فردوسی در توس، نزدیک مشهد است.",
+   "r": "ārāmgāh-e Ferdowsi dar Tus, nazdik-e Mashhad ast.",
+   "en": "Ferdowsi's tomb is in Tus, near Mashhad."
+  }
+ ],
+ "vocab": [
+  {"fa": "شاهنامه", "r": "Shāhnāme", "en": "the Shahnameh, Book of Kings"},
+  {"fa": "حماسه", "r": "hamāse", "en": "epic"},
+  {"fa": "حماسی", "r": "hamāsi", "en": "epic (adjective)"},
+  {"fa": "پهلوان", "r": "pahlavān", "en": "hero, champion"},
+  {"fa": "قهرمان", "r": "ghahremān", "en": "hero; champion"},
+  {"fa": "اسطوره", "r": "osture", "en": "myth"},
+  {"fa": "افسانه", "r": "afsāne", "en": "legend, tale"},
+  {"fa": "جنگ", "r": "jang", "en": "war, battle"},
+  {"fa": "شاه", "r": "shāh", "en": "king, shah"},
+  {"fa": "دیو", "r": "div", "en": "demon, div"},
+  {"fa": "اژدها", "r": "ezhdehā", "en": "dragon"},
+  {"fa": "سیمرغ", "r": "Simorgh", "en": "the Simorgh, a magical bird"},
+  {"fa": "سرودن", "r": "sorudan", "en": "to compose (poetry)"},
+  {"fa": "بیت", "r": "beyt", "en": "couplet, verse"},
+  {"fa": "داستان", "r": "dāstān", "en": "story"},
+  {"fa": "نقال", "r": "nagghāl", "en": "storyteller (of epic tales)"},
+  {"fa": "نقالی", "r": "nagghāli", "en": "dramatic storytelling, naqqali"},
+  {"fa": "قهوه‌خانه", "r": "ghahve-khāne", "en": "tea house, coffee house"},
+  {"fa": "زورخانه", "r": "zurkhāne", "en": "zurkhaneh, traditional gym"},
+  {"fa": "آهنگر", "r": "āhangar", "en": "blacksmith"}
+ ],
+ "facts": [
+  "Ferdowsi finished the Shahnameh around 1010, after more than thirty years of work; it has about 50,000 couplets.",
+  "Naqqali, Iranian dramatic storytelling, was added in 2011 to UNESCO's list of intangible heritage in need of urgent safeguarding.",
+  "The Baysonghori Shahnameh, made in Herat in 1430 and kept in the Golestan Palace in Tehran, is on UNESCO's Memory of the World Register.",
+  "Ferdowsi's tomb at Tus was built for the thousandth anniversary of his birth, celebrated in 1934.",
+  "The banner of Kaveh the blacksmith, the [[درفش کاویانی|derafsh-e Kāviyāni]], became the legendary standard of the Persian kings.",
+  "Many everyday Iranian names come from the Shahnameh: Rostam, Sohrab, Siyavash, Bizhan, Tahmineh, Manizheh and Rudabeh."
+ ]
+}

@@ -1,0 +1,1326 @@
+{
+ "id": "a2-14-work-and-study",
+ "level": "A2",
+ "n": 14,
+ "title": "Work and study: a job interview and university life",
+ "titleFa": "کار و تحصیل",
+ "titleR": "kār o tahsil",
+ "intro": "Say what you studied and where you have worked, read the headings of a Persian CV, get through a job interview and talk about university life. On the way you learn two of the most useful word-building tricks in Persian – the endings -esh and -ande, which turn verbs into nouns like دانش (knowledge) and نویسنده (writer) – and the polite, formal Persian you use with a manager, a professor or anyone you do not know well.",
+ "goals": [
+  "say what you studied and where you have worked",
+  "read the headings of a Persian CV and answer interview questions",
+  "make nouns from verbs with -esh (آموزش) and -ande (نویسنده)",
+  "speak formally: شما with a plural verb, آقای / خانم + family name, بفرمایید, ایشان",
+  "talk about university life: رشته، ترم، امتحان، کنکور"
+ ],
+ "image": "university-of-tehran",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "The interview",
+   "context": "Mina has finished her degree and has a job interview at a publishing house in Tehran. Mr Karimi, the manager, asks the questions. Listen for شما and the plural verbs – and notice that even in a formal interview people use the spoken forms.",
+   "lines": [
+    {
+     "who": "Mr Karimi",
+     "fa": "سلام، خوش آمدید. بفرمایید بنشینید.",
+     "r": "salām, khosh āmadid. befarmāyid beneshinid.",
+     "en": "Hello, welcome. Please have a seat.",
+     "col": "سلام، خوش اومدین. بفرمایین بشینین.",
+     "colR": "salām, khosh umadin. befarmāyin beshinin.",
+     "faV": "سَلام، خوش آمَدید. بِفَرمایید بِنِشینید.",
+     "a": "a7c468a9c777",
+     "colV": "سَلام، خوش اومَدین. بِفَرمایین بِشینین.",
+     "colA": "97f3b64abb5b"
+    },
+    {
+     "who": "Mina",
+     "fa": "سلام آقای کریمی. خیلی ممنون که وقت گذاشتید.",
+     "r": "salām āghā-ye Karimi. kheyli mamnun ke vaght gozāshtid.",
+     "en": "Hello, Mr Karimi. Thank you very much for your time.",
+     "col": "سلام آقای کریمی. خیلی ممنون که وقت گذاشتین.",
+     "colR": "salām āghā-ye Karimi. kheyli mamnun ke vaght gozāshtin.",
+     "faV": "سَلام آقایِ کَریمی. خَیلی مَمنون که وَقت گُذاشتید.",
+     "a": "98b317534b24",
+     "colV": "سَلام آقایِ کَریمی. خَیلی مَمنون که وَقت گُذاشتین.",
+     "colA": "e2f0db580d1a"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "خواهش می‌کنم. رزومه‌ی شما را خواندم. شما زبان انگلیسی خوانده‌اید، درست است؟",
+     "r": "khāhesh mi-konam. rezume-ye shomā rā khāndam. shomā zabān-e engelisi khānde-id, dorost ast?",
+     "en": "Not at all. I've read your CV. You studied English, is that right?",
+     "col": "خواهش می‌کنم. رزومه‌تون رو خوندم. شما زبان انگلیسی خوندین، درسته؟",
+     "colR": "khāhesh mi-konam. rezume-tun ro khundam. shomā zabān-e engelisi khundin, doroste?",
+     "faV": "خواهِش می‌کُنَم. رِزومه‌یِ شُما را خواندَم. شُما زَبانِ اِنگِلیسی خوانده‌اید، دُرُست اَست؟",
+     "a": "dd2bab2bfc22",
+     "colV": "خواهِش می‌کُنَم. رِزومه‌تون رو خوندَم. شُما زَبانِ اِنگِلیسی خوندین، دُرُسته؟",
+     "colA": "e8fe911f2004"
+    },
+    {
+     "who": "Mina",
+     "fa": "بله. لیسانسم را از دانشگاه تهران گرفتم. بعد دو سال در یک شرکت کار کردم.",
+     "r": "bale. lisāns-am rā az dāneshgāh-e Tehrān gereftam. ba'd do sāl dar yek sherkat kār kardam.",
+     "en": "Yes. I got my bachelor's degree from the University of Tehran. Then I worked for two years at a company.",
+     "col": "بله. لیسانسمو از دانشگاه تهران گرفتم. بعد دو سال تو یه شرکت کار کردم.",
+     "colR": "bale. lisāns-am-o az dāneshgāh-e Tehrān gereftam. ba'd do sāl tu ye sherkat kār kardam.",
+     "faV": "بَله. لیسانسَم را اَز دانِشگاهِ تِهران گِرِفتَم. بَعد دو سال دَر یِک شِرکَت کار کَردَم.",
+     "a": "d93aa965098a",
+     "colV": "بَله. لیسانسَمو اَز دانِشگاهِ تِهران گِرِفتَم. بَعد دو سال تو یه شِرکَت کار کَردَم.",
+     "colA": "bd7da880bf54"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "در آن شرکت چه کار می‌کردید؟",
+     "r": "dar ān sherkat che kār mi-kardid?",
+     "en": "What did you do at that company?",
+     "col": "تو اون شرکت چی کار می‌کردین؟",
+     "colR": "tu un sherkat chi kār mi-kardin?",
+     "faV": "دَر آن شِرکَت چه کار می‌کَردید؟",
+     "a": "6d4649a727e6",
+     "colV": "تو اون شِرکَت چی کار می‌کَردین؟",
+     "colA": "66171103a215"
+    },
+    {
+     "who": "Mina",
+     "fa": "مترجم بودم. نامه‌ها و قرارداد‌های شرکت را ترجمه می‌کردم.",
+     "r": "motarjem budam. nāme-hā o gharārdād-hā-ye sherkat rā tarjome mi-kardam.",
+     "en": "I was a translator. I translated the company's letters and contracts.",
+     "col": "مترجم بودم. نامه‌ها و قراردادای شرکتو ترجمه می‌کردم.",
+     "colR": "motarjem budam. nāme-hā o gharārdād-ā-ye sherkat-o tarjome mi-kardam.",
+     "faV": "مُتَرجِم بودَم. نامه‌ها و قَرارداد‌هایِ شِرکَت را تَرجُمه می‌کَردَم.",
+     "a": "65d54e4abc87",
+     "colV": "مُتَرجِم بودَم. نامه‌ها و قَراردادایِ شِرکَتو تَرجُمه می‌کَردَم.",
+     "colA": "e39c25323578"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "چرا می‌خواهید در انتشارات ما کار کنید؟",
+     "r": "cherā mi-khāhid dar enteshārāt-e mā kār konid?",
+     "en": "Why do you want to work at our publishing house?",
+     "col": "چرا می‌خواین تو انتشارات ما کار کنین؟",
+     "colR": "cherā mi-khāyn tu enteshārāt-e mā kār konin?",
+     "faV": "چِرا می‌خواهید دَر اِنتِشاراتِ ما کار کُنید؟",
+     "a": "9f4b987be986",
+     "colV": "چِرا می‌خواین تو اِنتِشاراتِ ما کار کُنین؟",
+     "colA": "9abab9384def"
+    },
+    {
+     "who": "Mina",
+     "fa": "چون عاشق کتاب هستم. ترجمه‌ی کتاب همیشه آرزوی من بوده است.",
+     "r": "chon āshegh-e ketāb hastam. tarjome-ye ketāb hamishe ārezu-ye man bude ast.",
+     "en": "Because I love books. Translating books has always been my dream.",
+     "col": "چون عاشق کتابم. ترجمه‌ی کتاب همیشه آرزوم بوده.",
+     "colR": "chon āshegh-e ketāb-am. tarjome-ye ketāb hamishe ārezu-m bude.",
+     "faV": "چون عاشِقِ کِتاب هَستَم. تَرجُمه‌یِ کِتاب هَمیشه آرِزویِ مَن بوده اَست.",
+     "a": "8e23e5b3e1de",
+     "colV": "چون عاشِقِ کِتابَم. تَرجُمه‌یِ کِتاب هَمیشه آرِزوم بوده.",
+     "colA": "fe0c440d6c64"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "بسیار خوب. نقطه‌ی قوت و نقطه‌ی ضعف شما چیست؟",
+     "r": "besyār khub. noghte-ye ghovvat o noghte-ye za'f-e shomā chist?",
+     "en": "Very good. What are your strengths and weaknesses?",
+     "lit": "your point of strength and point of weakness",
+     "col": "خیلی خب. نقطه‌ی قوت و ضعفتون چیه؟",
+     "colR": "kheyli khob. noghte-ye ghovvat o za'f-etun chiye?",
+     "faV": "بِسیار خوب. نُقطه‌یِ قُوَّت و نُقطه‌یِ ضَعفِ شُما چیست؟",
+     "a": "524a8737593f",
+     "colV": "خَیلی خُب. نُقطه‌یِ قُوَّت و ضَعفِتون چیه؟",
+     "colA": "bcfb82c97984"
+    },
+    {
+     "who": "Mina",
+     "fa": "نقطه‌ی قوتم دقت است. نقطه‌ی ضعفم؟ شاید این‌که گاهی خیلی زیاد کار می‌کنم!",
+     "r": "noghte-ye ghovvat-am deghghat ast. noghte-ye za'f-am? shāyad in-ke gāhi kheyli ziyād kār mi-konam!",
+     "en": "My strength is precision. My weakness? Maybe that I sometimes work far too much!",
+     "col": "نقطه‌ی قوتم دقته. نقطه‌ی ضعفم؟ شاید این‌که گاهی خیلی زیاد کار می‌کنم!",
+     "colR": "noghte-ye ghovvat-am deghghat-e. noghte-ye za'f-am? shāyad in-ke gāhi kheyli ziyād kār mi-konam!",
+     "faV": "نُقطه‌یِ قُوَّتَم دِقَّت اَست. نُقطه‌یِ ضَعفَم؟ شایَد این‌که گاهی خَیلی زیاد کار می‌کُنَم!",
+     "a": "9298b6a27c8b",
+     "colV": "نُقطه‌یِ قُوَّتَم دِقَّته. نُقطه‌یِ ضَعفَم؟ شایَد این‌که گاهی خَیلی زیاد کار می‌کُنَم!",
+     "colA": "4f13e862aad8"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "این که ضعف نیست! کی می‌توانید شروع کنید؟",
+     "r": "in ke za'f nist! key mi-tavānid shoru' konid?",
+     "en": "That's not a weakness! When can you start?",
+     "col": "این که ضعف نیست! کی می‌تونین شروع کنین؟",
+     "colR": "in ke za'f nist! key mi-tunin shoru' konin?",
+     "faV": "این که ضَعف نیست! کَی می‌تَوانید شُروع کُنید؟",
+     "a": "8ed6795343ae",
+     "colV": "این که ضَعف نیست! کَی می‌تونین شُروع کُنین؟",
+     "colA": "e2e9a7b1f069"
+    },
+    {
+     "who": "Mina",
+     "fa": "از اول ماه بعد. البته اگر شما بخواهید.",
+     "r": "az avval-e māh-e ba'd. albatte agar shomā bekhāhid.",
+     "en": "From the beginning of next month. If that suits you, of course.",
+     "col": "از اول ماه بعد. البته اگه شما بخواین.",
+     "colR": "az avval-e māh-e ba'd. albatte age shomā bekhāyn.",
+     "faV": "اَز اَوَّلِ ماهِ بَعد. اَلبَتّه اَگَر شُما بِخواهید.",
+     "a": "a9197d1ed4e7",
+     "colV": "اَز اَوَّلِ ماهِ بَعد. اَلبَتّه اَگه شُما بِخواین.",
+     "colA": "c01f4514bd1e"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "خیلی خوب. تا آخر هفته با شما تماس می‌گیریم. موفق باشید!",
+     "r": "kheyli khub. tā ākhar-e hafte bā shomā tamās mi-girim. movaffagh bāshid!",
+     "en": "Very good. We'll contact you by the end of the week. Good luck!",
+     "col": "خیلی خب. تا آخر هفته باهاتون تماس می‌گیریم. موفق باشین!",
+     "colR": "kheyli khob. tā ākhar-e hafte bāhā-tun tamās mi-girim. movaffagh bāshin!",
+     "faV": "خَیلی خوب. تا آخَرِ هَفته با شُما تَماس می‌گیریم. مُوَفَّق باشید!",
+     "a": "42d001e2b58a",
+     "colV": "خَیلی خُب. تا آخَرِ هَفته باهاتون تَماس می‌گیریم. مُوَفَّق باشین!",
+     "colA": "4b1397a3299f"
+    },
+    {
+     "who": "Mina",
+     "fa": "خیلی ممنونم. خدانگهدار.",
+     "r": "kheyli mamnun-am. khodā-negahdār.",
+     "en": "Thank you very much. Goodbye.",
+     "note": "خدانگهدار, 'God keep you', is a more formal goodbye than خداحافظ",
+     "faV": "خَیلی مَمنونَم. خُدانِگَهدار.",
+     "a": "c73cd8402f30"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Formal – but still spoken",
+   "md": "A job interview is one of the most formal conversations you will have, and Persian marks it clearly:\n\n- Everyone says [[شما|shomā|you]], never [[تو|to]], and the verb is plural even for one person: [[می‌توانید|mi-tavānid|you can]], [[بخواهید|bekhāhid|you want]].\n- People are addressed by title and **family** name: [[آقای کریمی|āghā-ye Karimi|Mr Karimi]], [[خانم احمدی|khānom-e Ahmadi|Ms Ahmadi]].\n- Every offer comes with [[بفرمایید|befarmāyid]], and every thank-you is answered with [[خواهش می‌کنم|khāhesh mi-konam|not at all]].\n\nBut formal is not the same as *written*. Look at the spoken lines: Mr Karimi says [[بفرمایین بشینین|befarmāyin beshinin]] and [[می‌تونین|mi-tunin]], with everyday pronunciation. Politeness lives in the **words** you choose – شما, بفرمایید, the plural verb – not in a bookish accent. Lesson 16 sets out all the spoken changes.\n\nThe rest of this lesson is about where people learn their trade: the university, its exams and its words – many of them built from verbs you already know with two endings, **-esh** and **-ande**."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "مصاحبه",
+     "r": "mosāhebe",
+     "en": "interview",
+     "pos": "n",
+     "ex": {
+      "fa": "فردا مصاحبه‌ی کاری دارم.",
+      "r": "fardā mosāhebe-ye kāri dāram.",
+      "en": "I have a job interview tomorrow.",
+      "faV": "فَردا مُصاحِبه‌یِ کاری دارَم.",
+      "a": "df01df2b6462"
+     },
+     "faV": "مُصاحِبه",
+     "a": "428893528238"
+    },
+    {
+     "fa": "رزومه",
+     "r": "rezume",
+     "en": "CV, résumé",
+     "pos": "n",
+     "note": "from French; the official Persian is سوابق کاری, 'work records'",
+     "faV": "رِزومه",
+     "a": "aefa20e65b20"
+    },
+    {
+     "fa": "شرکت",
+     "r": "sherkat",
+     "en": "company, firm",
+     "pos": "n",
+     "note": "also 'taking part': شرکت کردن, to take part",
+     "faV": "شِرکَت",
+     "a": "e61de97beeff"
+    },
+    {
+     "fa": "مدیر",
+     "r": "modir",
+     "en": "manager, director; head teacher",
+     "pos": "n",
+     "faV": "مُدیر",
+     "a": "7de349979ed6"
+    },
+    {
+     "fa": "کارمند",
+     "r": "kārmand",
+     "en": "employee, office worker",
+     "pos": "n",
+     "note": "kār 'work' + -mand 'having'",
+     "faV": "کارمَند",
+     "a": "f425e847ad18"
+    },
+    {
+     "fa": "مترجم",
+     "r": "motarjem",
+     "en": "translator",
+     "pos": "n",
+     "note": "ترجمه کردن, to translate",
+     "faV": "مُتَرجِم",
+     "a": "e28645068447"
+    },
+    {
+     "fa": "حقوق",
+     "r": "hoghugh",
+     "en": "salary; law; rights",
+     "pos": "n",
+     "ex": {
+      "fa": "حقوق این کار خوب است.",
+      "r": "hoghugh-e in kār khub ast.",
+      "en": "The salary for this job is good.",
+      "col": "حقوق این کار خوبه.",
+      "colR": "hoghugh-e in kār khub-e.",
+      "faV": "حُقوقِ این کار خوب اَست.",
+      "a": "4a754cabbf0a",
+      "colV": "حُقوقِ این کار خوبه.",
+      "colA": "2bbe1da8d6b2"
+     },
+     "faV": "حُقوق",
+     "a": "16026426b9a7"
+    },
+    {
+     "fa": "سابقه‌ی کار",
+     "r": "sābeghe-ye kār",
+     "en": "work experience",
+     "pos": "n",
+     "ex": {
+      "fa": "سه سال سابقه‌ی کار دارم.",
+      "r": "se sāl sābeghe-ye kār dāram.",
+      "en": "I have three years' work experience.",
+      "faV": "سه سال سابِقه‌یِ کار دارَم.",
+      "a": "39da5d555bd4"
+     },
+     "faV": "سابِقه‌یِ کار",
+     "a": "18b2169d02be"
+    },
+    {
+     "fa": "تجربه",
+     "r": "tajrobe",
+     "en": "experience",
+     "pos": "n",
+     "note": "the general word: تجربه‌ی خوبی بود, it was a good experience",
+     "faV": "تَجرُبه",
+     "a": "adc693327158"
+    },
+    {
+     "fa": "استخدام کردن",
+     "r": "estekhdām kardan",
+     "en": "to hire, to employ",
+     "pos": "v",
+     "ex": {
+      "fa": "این شرکت دو مترجم استخدام می‌کند.",
+      "r": "in sherkat do motarjem estekhdām mi-konad.",
+      "en": "This company is hiring two translators.",
+      "col": "این شرکت دو تا مترجم استخدام می‌کنه.",
+      "colR": "in sherkat do tā motarjem estekhdām mi-kone.",
+      "faV": "این شِرکَت دو مُتَرجِم اِستِخدام می‌کُنَد.",
+      "a": "69af2c14657f",
+      "colV": "این شِرکَت دو تا مُتَرجِم اِستِخدام می‌کُنه.",
+      "colA": "934a5a69287a"
+     },
+     "faV": "اِستِخدام کَردَن",
+     "a": "7283bf9840d1"
+    },
+    {
+     "fa": "تماس گرفتن",
+     "r": "tamās gereftan",
+     "en": "to contact, to get in touch",
+     "pos": "v",
+     "note": "با + person: با شما تماس می‌گیریم, we will contact you",
+     "faV": "تَماس گِرِفتَن",
+     "a": "7544e0f0f3e6"
+    },
+    {
+     "fa": "دانشگاه",
+     "r": "dāneshgāh",
+     "en": "university",
+     "pos": "n",
+     "note": "dānesh 'knowledge' + -gāh 'place'",
+     "faV": "دانِشگاه",
+     "a": "890634c6c97a"
+    },
+    {
+     "fa": "دانشجو",
+     "r": "dāneshju",
+     "en": "university student",
+     "pos": "n",
+     "note": "'knowledge-seeker'; a school pupil is دانش‌آموز, 'knowledge-learner'",
+     "faV": "دانِشجو",
+     "a": "0cf8e25653d0"
+    },
+    {
+     "fa": "استاد",
+     "r": "ostād",
+     "en": "professor, lecturer; master of a craft",
+     "pos": "n",
+     "faV": "اُستاد",
+     "a": "bc167126bdbf"
+    },
+    {
+     "fa": "رشته",
+     "r": "reshte",
+     "en": "subject, major (field of study)",
+     "pos": "n",
+     "note": "the same word as the noodles in āsh-e reshte: a 'thread' of study",
+     "ex": {
+      "fa": "رشته‌ی شما چیست؟",
+      "r": "reshte-ye shomā chist?",
+      "en": "What is your subject?",
+      "col": "رشته‌تون چیه؟",
+      "colR": "reshte-tun chiye?",
+      "faV": "رِشته‌یِ شُما چیست؟",
+      "a": "7959ce4aaafb",
+      "colV": "رِشته‌تون چیه؟",
+      "colA": "aa62b158c69e"
+     },
+     "faV": "رِشته",
+     "a": "a56d6049c72d"
+    },
+    {
+     "fa": "ترم",
+     "r": "term",
+     "en": "semester, term",
+     "pos": "n",
+     "faV": "تِرم",
+     "a": "26af357bdb2d"
+    },
+    {
+     "fa": "امتحان",
+     "r": "emtehān",
+     "en": "exam",
+     "pos": "n",
+     "note": "امتحان دادن, to take an exam; امتحان گرفتن, to give one",
+     "ex": {
+      "fa": "فردا امتحان ریاضی داریم.",
+      "r": "fardā emtehān-e riyāzi dārim.",
+      "en": "We have a maths exam tomorrow.",
+      "faV": "فَردا اِمتِحانِ ریاضی داریم.",
+      "a": "dcc039a241e9"
+     },
+     "faV": "اِمتِحان",
+     "a": "ce67eb239ed1"
+    },
+    {
+     "fa": "کنکور",
+     "r": "konkur",
+     "en": "the national university entrance exam",
+     "pos": "n",
+     "note": "from French concours, 'competition'",
+     "faV": "کُنکور",
+     "a": "6223317a9674"
+    },
+    {
+     "fa": "قبول شدن",
+     "r": "ghabul shodan",
+     "en": "to pass (an exam); to be accepted",
+     "pos": "v",
+     "ex": {
+      "fa": "برادرم در کنکور قبول شد.",
+      "r": "barādar-am dar konkur ghabul shod.",
+      "en": "My brother passed the konkur.",
+      "faV": "بَرادَرَم دَر کُنکور قَبول شُد.",
+      "a": "b783a5b6a3f9"
+     },
+     "faV": "قَبول شُدَن",
+     "a": "44ff3e8f1a54"
+    },
+    {
+     "fa": "لیسانس",
+     "r": "lisāns",
+     "en": "bachelor's degree",
+     "pos": "n",
+     "note": "officially کارشناسی; a master's is فوق‌لیسانس or کارشناسی ارشد, a doctorate دکترا",
+     "faV": "لیسانس",
+     "a": "eb35528adf68"
+    },
+    {
+     "fa": "دقیق",
+     "r": "daghigh",
+     "en": "precise, careful, exact",
+     "pos": "adj",
+     "note": "the noun is دقت, precision",
+     "faV": "دَقیق",
+     "a": "db0a4678318c"
+    },
+    {
+     "fa": "موفق",
+     "r": "movaffagh",
+     "en": "successful",
+     "pos": "adj",
+     "note": "موفق باشید! good luck! (literally 'be successful')",
+     "faV": "مُوَفَّق",
+     "a": "1e2b8c1d9a18"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "-esh: nouns of action from the present stem",
+   "md": "Take the **present stem** of a verb – the part that follows [[می|mi]] – and add [[ـش|-esh]]: you get a noun for the action or its result. You have been using one since your first week: [[خواهش می‌کنم|khāhesh mi-konam]] is literally *I make a request*, and [[خواهش|khāhesh|request]] is [[خواه|khāh|want]] + -esh.\n\nAfter a stem that ends in a vowel, a [[ی|y]] slips in: [[نما|namā|show]] → [[نمایش|namāyesh|a show, a play]], [[گو|gu|say]] → [[گویش|guyesh|dialect]].\n\nThese words are the backbone of the Persian of schools and offices. The Ministry of Education is called [[آموزش و پرورش|āmuzesh o parvaresh]] – *teaching and upbringing* – and the front desk of a university, a hospital or a hotel is the [[پذیرش|paziresh|admission, 'acceptance']].",
+   "table": {
+    "head": [
+     "Infinitive",
+     "Present stem",
+     "Noun with -esh",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[دانستن|dānestan]] to know",
+      "[[دان|dān]]",
+      "[[دانش|dānesh]]",
+      "knowledge"
+     ],
+     [
+      "[[آموختن|āmukhtan]] to learn, to teach",
+      "[[آموز|āmuz]]",
+      "[[آموزش|āmuzesh]]",
+      "education, training"
+     ],
+     [
+      "[[پرسیدن|porsidan]] to ask",
+      "[[پرس|pors]]",
+      "[[پرسش|porsesh]]",
+      "question"
+     ],
+     [
+      "[[خواستن|khāstan]] to want",
+      "[[خواه|khāh]]",
+      "[[خواهش|khāhesh]]",
+      "request"
+     ],
+     [
+      "[[رفتن|raftan]] to go",
+      "[[رو|rav]]",
+      "[[روش|ravesh]]",
+      "method, way of doing"
+     ],
+     [
+      "[[کوشیدن|kushidan]] to strive",
+      "[[کوش|kush]]",
+      "[[کوشش|kushesh]]",
+      "effort"
+     ],
+     [
+      "[[ورزیدن|varzidan]] to practise",
+      "[[ورز|varz]]",
+      "[[ورزش|varzesh]]",
+      "sport, exercise"
+     ],
+     [
+      "[[پذیرفتن|paziroftan]] to accept",
+      "[[پذیر|pazir]]",
+      "[[پذیرش|paziresh]]",
+      "admission; reception desk"
+     ],
+     [
+      "[[پروردن|parvardan]] to bring up",
+      "[[پرور|parvar]]",
+      "[[پرورش|parvaresh]]",
+      "upbringing"
+     ],
+     [
+      "[[سنجیدن|sanjidan]] to measure",
+      "[[سنج|sanj]]",
+      "[[سنجش|sanjesh]]",
+      "assessment, testing"
+     ],
+     [
+      "[[نمودن|namudan]] to show",
+      "[[نما|namā]]",
+      "[[نمایش|namāyesh]]",
+      "show, play"
+     ],
+     [
+      "[[گفتن|goftan]] to say",
+      "[[گو|gu]]",
+      "[[گویش|guyesh]]",
+      "dialect"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "آموزش زبان در این دانشگاه خیلی خوب است.",
+     "r": "āmuzesh-e zabān dar in dāneshgāh kheyli khub ast.",
+     "en": "Language teaching at this university is very good.",
+     "col": "آموزش زبان تو این دانشگاه خیلی خوبه.",
+     "colR": "āmuzesh-e zabān tu in dāneshgāh kheyli khub-e.",
+     "faV": "آموزِشِ زَبان دَر این دانِشگاه خَیلی خوب اَست.",
+     "a": "817083a600f7",
+     "colV": "آموزِشِ زَبان تو این دانِشگاه خَیلی خوبه.",
+     "colA": "0ee3c369422c"
+    },
+    {
+     "fa": "ببخشید استاد، یک پرسش دارم.",
+     "r": "bebakhshid ostād, yek porsesh dāram.",
+     "en": "Excuse me, professor, I have a question.",
+     "note": "پرسش is the Persian word; in everyday speech people more often use the Arabic loan سؤال (so'āl)",
+     "faV": "بِبَخشید اُستاد، یِک پُرسِش دارَم.",
+     "a": "1b737b2899d3"
+    },
+    {
+     "fa": "روش شما برای یاد گرفتن لغت چیست؟",
+     "r": "ravesh-e shomā barā-ye yād gereftan-e loghat chist?",
+     "en": "What is your method for learning vocabulary?",
+     "col": "روش شما واسه یاد گرفتن لغت چیه؟",
+     "colR": "ravesh-e shomā vāse yād gereftan-e loghat chiye?",
+     "faV": "رَوِشِ شُما بَرایِ یاد گِرِفتَنِ لُغَت چیست؟",
+     "a": "fe756d137701",
+     "colV": "رَوِشِ شُما واسه یاد گِرِفتَنِ لُغَت چیه؟",
+     "colA": "b7ea05d9671e"
+    },
+    {
+     "fa": "تام هر روز صبح ورزش می‌کند.",
+     "r": "Tām har ruz sobh varzesh mi-konad.",
+     "en": "Tom exercises every morning.",
+     "col": "تام هر روز صبح ورزش می‌کنه.",
+     "colR": "Tām har ruz sobh varzesh mi-kone.",
+     "faV": "تام هَر روز صُبح وَرزِش می‌کُنَد.",
+     "a": "c33d177942f2",
+     "colV": "تام هَر روز صُبح وَرزِش می‌کُنه.",
+     "colA": "a6543029e90e"
+    },
+    {
+     "fa": "پذیرش دانشگاه از ساعت هشت باز است.",
+     "r": "paziresh-e dāneshgāh az sā'at-e hasht bāz ast.",
+     "en": "The university admissions office is open from eight o'clock.",
+     "col": "پذیرش دانشگاه از ساعت هشت بازه.",
+     "colR": "paziresh-e dāneshgāh az sā'at-e hasht bāz-e.",
+     "faV": "پَذیرِشِ دانِشگاه اَز ساعَتِ هَشت باز اَست.",
+     "a": "34a6bf3f2bb3",
+     "colV": "پَذیرِشِ دانِشگاه اَز ساعَتِ هَشت بازه.",
+     "colA": "493e8ccd9003"
+    },
+    {
+     "fa": "دیشب یک نمایش خیلی خوب دیدیم.",
+     "r": "dishab yek namāyesh-e kheyli khub didim.",
+     "en": "Last night we saw a very good play.",
+     "col": "دیشب یه نمایش خیلی خوب دیدیم.",
+     "colR": "dishab ye namāyesh-e kheyli khub didim.",
+     "faV": "دیشَب یِک نَمایِشِ خَیلی خوب دیدیم.",
+     "a": "dc4ffd373498",
+     "colV": "دیشَب یه نَمایِشِ خَیلی خوب دیدیم.",
+     "colA": "fb95ecdc52f7"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "-ande: the person who does it",
+   "md": "Add [[ـنده|-ande]] to the same present stem and you get the **doer**: [[نویس|nevis|write]] → [[نویسنده|nevisande|writer]], [[ران|rān|drive]] → [[راننده|rānande|driver]]. Many job words are made this way. After a vowel a [[ی|y]] appears again: [[آ|ā|come]] → [[آینده|āyande|the future – 'the one that is coming']].\n\nWith a compound verb, -ande goes on [[کن|kon]], the stem of کردن: [[شرکت کردن|sherkat kardan|to take part]] → [[شرکت‌کننده|sherkat-konande|participant]], [[خسته کردن|khaste kardan|to tire]] → [[خسته‌کننده|khaste-konande|tiring, boring]] – the word for a long lecture.\n\nIn speech the plural is [[ـها|-hā]]; in writing it is often [[ـگان|-gān]], and the silent ه turns into گ: [[نویسنده|nevisande]] → [[نویسندگان|nevisandegān|writers]].",
+   "table": {
+    "head": [
+     "Infinitive",
+     "Present stem",
+     "Noun with -ande",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[نوشتن|neveshtan]] to write",
+      "[[نویس|nevis]]",
+      "[[نویسنده|nevisande]]",
+      "writer"
+     ],
+     [
+      "[[خواندن|khāndan]] to read, to sing",
+      "[[خوان|khān]]",
+      "[[خواننده|khānande]]",
+      "singer; reader"
+     ],
+     [
+      "[[راندن|rāndan]] to drive",
+      "[[ران|rān]]",
+      "[[راننده|rānande]]",
+      "driver"
+     ],
+     [
+      "[[فروختن|forukhtan]] to sell",
+      "[[فروش|forush]]",
+      "[[فروشنده|forushande]]",
+      "shop assistant, seller"
+     ],
+     [
+      "[[دیدن|didan]] to see",
+      "[[بین|bin]]",
+      "[[بیننده|binande]]",
+      "viewer"
+     ],
+     [
+      "[[شنیدن|shenidan]] to hear",
+      "[[شنو|shenav]]",
+      "[[شنونده|shenavande]]",
+      "listener"
+     ],
+     [
+      "[[بردن|bordan]] to carry off, to win",
+      "[[بر|bar]]",
+      "[[برنده|barande]]",
+      "winner"
+     ],
+     [
+      "[[پریدن|paridan]] to fly, to jump",
+      "[[پر|par]]",
+      "[[پرنده|parande]]",
+      "bird"
+     ],
+     [
+      "[[آمدن|āmadan]] to come",
+      "[[آ|ā]]",
+      "[[آینده|āyande]]",
+      "future"
+     ],
+     [
+      "[[نمودن|namudan]] to show",
+      "[[نما|namā]]",
+      "[[نماینده|namāyande]]",
+      "representative"
+     ],
+     [
+      "[[گفتن|goftan]] to say",
+      "[[گو|gu]]",
+      "[[گوینده|guyande]]",
+      "(radio, TV) announcer"
+     ],
+     [
+      "[[شرکت کردن|sherkat kardan]] to take part",
+      "[[کن|kon]]",
+      "[[شرکت‌کننده|sherkat-konande]]",
+      "participant"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "پدرم راننده‌ی تاکسی است.",
+     "r": "pedar-am rānande-ye tāksi ast.",
+     "en": "My father is a taxi driver.",
+     "col": "بابام راننده‌ی تاکسیه.",
+     "colR": "bābā-m rānande-ye tāksi-ye.",
+     "faV": "پِدَرَم رانَنده‌یِ تاکسی اَست.",
+     "a": "50f75696163d",
+     "colV": "بابام رانَنده‌یِ تاکسیه.",
+     "colA": "7f3c19f2c491"
+    },
+    {
+     "fa": "سعدی یکی از بزرگ‌ترین نویسندگان ایران است.",
+     "r": "Sa'di yek-i az bozorg-tarin nevisandegān-e Irān ast.",
+     "en": "Saadi is one of Iran's greatest writers.",
+     "faV": "سَعدی یِکی اَز بُزُرگ‌تَرین نِویسَندِگانِ ایران اَست.",
+     "a": "530e5a529514"
+    },
+    {
+     "fa": "فروشنده گفت که این کتاب تمام شده است.",
+     "r": "forushande goft ke in ketāb tamām shode ast.",
+     "en": "The shop assistant said this book has sold out.",
+     "col": "فروشنده گفت این کتاب تموم شده.",
+     "colR": "forushande goft in ketāb tamum shode.",
+     "faV": "فُروشَنده گُفت که این کِتاب تَمام شُده اَست.",
+     "a": "f211450c2fb3",
+     "colV": "فُروشَنده گُفت این کِتاب تَموم شُده.",
+     "colA": "3e39099c9125"
+    },
+    {
+     "fa": "این کلاس خیلی خسته‌کننده است!",
+     "r": "in kelās kheyli khaste-konande ast!",
+     "en": "This class is so boring!",
+     "col": "این کلاس خیلی خسته‌کننده‌ست!",
+     "colR": "in kelās kheyli khaste-konande-st!",
+     "faV": "این کِلاس خَیلی خَسته‌کُنَنده اَست!",
+     "a": "31883902a517",
+     "colV": "این کِلاس خَیلی خَسته‌کُنَنده‌ست!",
+     "colA": "ea235dc80b5f"
+    },
+    {
+     "fa": "برنده‌ی مسابقه یک کتاب جایزه گرفت.",
+     "r": "barande-ye mosābeghe yek ketāb jāyeze gereft.",
+     "en": "The winner of the competition got a book as a prize.",
+     "faV": "بَرَنده‌یِ مُسابِقه یِک کِتاب جایِزه گِرِفت.",
+     "a": "f99a2900ff14"
+    },
+    {
+     "fa": "در آینده می‌خواهم مترجم شوم.",
+     "r": "dar āyande mi-khāham motarjem shavam.",
+     "en": "In the future I want to become a translator.",
+     "col": "تو آینده می‌خوام مترجم بشم.",
+     "colR": "tu āyande mi-khām motarjem besham.",
+     "faV": "دَر آیَنده می‌خواهَم مُتَرجِم شَوَم.",
+     "a": "8a88929b97c9",
+     "colV": "تو آیَنده می‌خوام مُتَرجِم بِشَم.",
+     "colA": "2caad3774b1a"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Formal address: شما, titles and polite verbs",
+   "md": "With a manager, a professor, an official or any adult you do not know, use [[شما|shomā]] and a **plural verb**, even for one person – the polite *-id* imperative of lesson 9 is part of the same system. With friends, family and children, [[تو|to]] and the singular are normal; شما to a close friend sounds cold, or like a joke.\n\nFormally, use title + **family name**: [[آقای کریمی|āghā-ye Karimi]], [[خانم احمدی|khānom-e Ahmadi]], or a professional title such as [[دکتر|doktor]] (lesson 7 of A1). A warmer form that is still respectful puts the title next to the **first** name: [[آقا رضا|āghā Rezā]], [[مینا خانم|Minā khānom]] – note that خانم comes after the name.\n\nTo talk *about* a respected person, use [[ایشان|ishān]] and a plural verb: [[ایشان آمدند|ishān āmadand|he / she has come]]. And polite Persian has a few special verbs. You don't need to use them yet, but you will hear them every day:",
+   "table": {
+    "head": [
+     "Everyday",
+     "Formal / polite",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[تو|to]]",
+      "[[شما|shomā]]",
+      "you"
+     ],
+     [
+      "[[من|man]]",
+      "[[بنده|bande]]",
+      "I (humble – literally 'your servant')"
+     ],
+     [
+      "[[او|u]]",
+      "[[ایشان|ishān]] + plural verb",
+      "he, she"
+     ],
+     [
+      "[[بیا تو|biyā tu]]",
+      "[[بفرمایید تو|befarmāyid tu]]",
+      "come in"
+     ],
+     [
+      "[[بنشین|beneshin]]",
+      "[[بفرمایید بنشینید|befarmāyid beneshinid]]",
+      "sit down"
+     ],
+     [
+      "[[آمدی|āmadi]]",
+      "[[تشریف آوردید|tashrif āvardid]]",
+      "you came"
+     ],
+     [
+      "[[هستی؟|hasti?]]",
+      "[[تشریف دارید؟|tashrif dārid?]]",
+      "are you in? are you there?"
+     ],
+     [
+      "[[گفتی|gofti]]",
+      "[[فرمودید|farmudid]]",
+      "you said"
+     ],
+     [
+      "[[چه می‌خوری؟|che mi-khori?]]",
+      "[[چه میل دارید؟|che meyl dārid?]]",
+      "what will you have?"
+     ],
+     [
+      "[[می‌گویم|mi-guyam]]",
+      "[[عرض می‌کنم|arz mi-konam]]",
+      "I say (humble)"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "آقای کریمی، کی تشریف می‌آورید؟",
+     "r": "āghā-ye Karimi, key tashrif mi-āvarid?",
+     "en": "Mr Karimi, when will you come?",
+     "col": "آقای کریمی، کی تشریف میارین؟",
+     "colR": "āghā-ye Karimi, key tashrif miyārin?",
+     "faV": "آقایِ کَریمی، کَی تَشریف می‌آوَرید؟",
+     "a": "a93a7bc05915",
+     "colV": "آقایِ کَریمی، کَی تَشریف میارین؟",
+     "colA": "a3b904b1f1cf"
+    },
+    {
+     "fa": "ایشان مدیر شرکت هستند.",
+     "r": "ishān modir-e sherkat hastand.",
+     "en": "He is the director of the company.",
+     "note": "one person, but a plural verb, hastand: a mark of respect",
+     "faV": "ایشان مُدیرِ شِرکَت هَستَند.",
+     "a": "1532e4a80f5d"
+    },
+    {
+     "fa": "خانم احمدی فرمودند که امتحان هفته‌ی بعد است.",
+     "r": "khānom-e Ahmadi farmudand ke emtehān hafte-ye ba'd ast.",
+     "en": "Ms Ahmadi said that the exam is next week.",
+     "col": "خانم احمدی فرمودن که امتحان هفته‌ی بعده.",
+     "colR": "khānom-e Ahmadi farmudan ke emtehān hafte-ye ba'd-e.",
+     "faV": "خانُمِ اَحمَدی فَرمودَند که اِمتِحان هَفته‌یِ بَعد اَست.",
+     "a": "4bfcca1fc600",
+     "colV": "خانُمِ اَحمَدی فَرمودَن که اِمتِحان هَفته‌یِ بَعده.",
+     "colA": "d1381f37d4cd"
+    },
+    {
+     "fa": "بنده مینا هستم، از دانشگاه تهران.",
+     "r": "bande Minā hastam, az dāneshgāh-e Tehrān.",
+     "en": "This is Mina, from the University of Tehran.",
+     "note": "bande is humble and formal: on the phone, in letters, at an interview",
+     "faV": "بَنده مینا هَستَم، اَز دانِشگاهِ تِهران.",
+     "a": "8569bec7e6b5"
+    },
+    {
+     "fa": "چای میل دارید یا قهوه؟",
+     "r": "chāy meyl dārid yā ghahve?",
+     "en": "Would you like tea or coffee?",
+     "col": "چای میل دارین یا قهوه؟",
+     "colR": "chāy meyl dārin yā ghahve?",
+     "faV": "چای مَیل دارید یا قَهوه؟",
+     "a": "1ce5ee99cba5",
+     "colV": "چای مَیل دارین یا قَهوه؟",
+     "colA": "892f28439dc1"
+    },
+    {
+     "fa": "ببخشید، دکتر احمدی تشریف دارند؟",
+     "r": "bebakhshid, doktor Ahmadi tashrif dārand?",
+     "en": "Excuse me, is Dr Ahmadi in?",
+     "col": "ببخشید، دکتر احمدی تشریف دارن؟",
+     "colR": "bebakhshid, doktor Ahmadi tashrif dāran?",
+     "faV": "بِبَخشید، دُکتُر اَحمَدی تَشریف دارَند؟",
+     "a": "963a92cd0eed",
+     "colV": "بِبَخشید، دُکتُر اَحمَدی تَشریف دارَن؟",
+     "colA": "86faf336909c"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "A Persian CV",
+   "md": "A [[رزومه|rezume]] in Iran has the same parts as anywhere else. These are the headings you will see:\n\n- [[مشخصات فردی|moshakhkhasāt-e fardi|personal details]]: [[نام|nām|first name]], [[نام خانوادگی|nām-e khānevādegi|family name]], [[تاریخ تولد|tārikh-e tavallod|date of birth]], [[تلفن|telefon|phone]], [[ایمیل|imeyl|email]]\n- [[سوابق تحصیلی|savābegh-e tahsili|education]]: the degree, the [[رشته|reshte|subject]], the [[دانشگاه|dāneshgāh|university]] and the year\n- [[سوابق کاری|savābegh-e kāri|work experience]]: the job, the [[شرکت|sherkat|company]] and the years\n- [[مهارت‌ها|mahārat-hā|skills]] and [[زبان‌ها|zabān-hā|languages]]\n\nYears are in the Iranian calendar, so Mina's first line reads [[کارشناسی زبان انگلیسی، دانشگاه تهران، ۱۴۰۱|kārshenāsi-ye zabān-e engelisi, dāneshgāh-e Tehrān, hezār-o-chahārsad-o-yek|BA in English, University of Tehran, 1401 (2022)]]. A CV uses the official [[کارشناسی|kārshenāsi]] for a bachelor's degree; in conversation people say [[لیسانس|lisāns]]."
+  },
+  {
+   "type": "reading",
+   "title": "Tom at the University of Tehran",
+   "intro": "Tom describes a semester at the University of Tehran. Look for the -esh and -ande words and the university vocabulary.",
+   "sentences": [
+    {
+     "fa": "تام دانشجوی زبان و ادبیات فارسی در دانشگاه تهران است.",
+     "r": "Tām dāneshju-ye zabān o adabiyyāt-e fārsi dar dāneshgāh-e Tehrān ast.",
+     "en": "Tom is a student of Persian language and literature at the University of Tehran.",
+     "faV": "تام دانِشجویِ زَبان و اَدَبیّاتِ فارسی دَر دانِشگاهِ تِهران اَست.",
+     "a": "c29e1bcd39dd"
+    },
+    {
+     "fa": "دانشگاه تهران یکی از قدیمی‌ترین و بزرگ‌ترین دانشگاه‌های ایران است.",
+     "r": "dāneshgāh-e Tehrān yek-i az ghadimi-tarin o bozorg-tarin dāneshgāh-hā-ye Irān ast.",
+     "en": "The University of Tehran is one of the oldest and largest universities in Iran.",
+     "faV": "دانِشگاهِ تِهران یِکی اَز قَدیمی‌تَرین و بُزُرگ‌تَرین دانِشگاه‌هایِ ایران اَست.",
+     "a": "fbbaf789b318"
+    },
+    {
+     "fa": "دانشجو‌های ایرانی برای ورود به دانشگاه باید در کنکور قبول شوند.",
+     "r": "dāneshju-hā-ye Irāni barā-ye vorud be dāneshgāh bāyad dar konkur ghabul shavand.",
+     "en": "Iranian students have to pass the konkur to get into university.",
+     "faV": "دانِشجو‌هایِ ایرانی بَرایِ وُرود به دانِشگاه بایَد دَر کُنکور قَبول شَوَند.",
+     "a": "932fad661380"
+    },
+    {
+     "fa": "تام کنکور نداده است، اما یک امتحان زبان داده است.",
+     "r": "Tām konkur na-dāde ast, ammā yek emtehān-e zabān dāde ast.",
+     "en": "Tom hasn't taken the konkur, but he has taken a language exam.",
+     "faV": "تام کُنکور نَداده اَست، اَمّا یِک اِمتِحانِ زَبان داده اَست.",
+     "a": "9a1598c60ab4"
+    },
+    {
+     "fa": "او هر ترم شش درس دارد و بیشتر کلاس‌ها صبح هستند.",
+     "r": "u har term shesh dars dārad o bishtar-e kelās-hā sobh hastand.",
+     "en": "He has six courses each semester, and most of the classes are in the morning.",
+     "faV": "او هَر تِرم شِش دَرس دارَد و بیشتَرِ کِلاس‌ها صُبح هَستَند.",
+     "a": "c6d7ac9af2b6"
+    },
+    {
+     "fa": "استاد‌ها به فارسی درس می‌دهند و تام همه چیز را در دفترش می‌نویسد.",
+     "r": "ostād-hā be fārsi dars mi-dahand o Tām hame chiz rā dar daftar-ash mi-nevisad.",
+     "en": "The professors teach in Persian, and Tom writes everything down in his notebook.",
+     "faV": "اُستاد‌ها به فارسی دَرس می‌دَهَند و تام هَمه چیز را دَر دَفتَرَش می‌نِویسَد.",
+     "a": "7798b3412bae"
+    },
+    {
+     "fa": "سخت‌ترین قسمت برای او فهمیدن جزوه‌های دست‌نویس هم‌کلاسی‌هایش است.",
+     "r": "sakht-tarin ghesmat barā-ye u fahmidan-e jozve-hā-ye dast-nevis-e ham-kelāsi-hā-yash ast.",
+     "en": "The hardest part for him is understanding his classmates' handwritten notes.",
+     "note": "جزوه: lecture notes, which students copy and pass round before exams",
+     "faV": "سَخت‌تَرین قِسمَت بَرایِ او فَهمیدَنِ جُزوه‌هایِ دَست‌نِویسِ هَم‌کِلاسی‌هایَش اَست.",
+     "a": "8ce794e5f1a4"
+    },
+    {
+     "fa": "ظهر ناهار را در سلف دانشگاه می‌خورد، چون ارزان و خوشمزه است.",
+     "r": "zohr nāhār rā dar self-e dāneshgāh mi-khorad, chon arzān o khoshmaze ast.",
+     "en": "At noon he has lunch in the university canteen, because it's cheap and tasty.",
+     "note": "سلف, from English 'self-service', is what every Iranian student calls the canteen",
+     "faV": "ظُهر ناهار را دَر سِلفِ دانِشگاه می‌خورَد، چون اَرزان و خوشمَزه اَست.",
+     "a": "5cf07ac37616"
+    },
+    {
+     "fa": "بعد از کلاس، با دوستانش به کتابخانه‌ی مرکزی می‌رود.",
+     "r": "ba'd az kelās, bā dustān-ash be ketāb-khāne-ye markazi mi-ravad.",
+     "en": "After class he goes to the central library with his friends.",
+     "faV": "بَعد اَز کِلاس، با دوستانَش به کِتابخانه‌یِ مَرکَزی می‌رَوَد.",
+     "a": "ddd8e9f2455c"
+    },
+    {
+     "fa": "آخر ترم، کتابخانه پر از دانشجو‌های خسته است.",
+     "r": "ākhar-e term, ketāb-khāne por az dāneshju-hā-ye khaste ast.",
+     "en": "At the end of the semester the library is full of tired students.",
+     "faV": "آخَرِ تِرم، کِتابخانه پُر اَز دانِشجو‌هایِ خَسته اَست.",
+     "a": "cab38c4deb03"
+    },
+    {
+     "fa": "تام می‌گوید: «در آینده می‌خواهم مترجم یا نویسنده شوم.»",
+     "r": "Tām mi-guyad: «dar āyande mi-khāham motarjem yā nevisande shavam.»",
+     "en": "Tom says: 'In the future I want to become a translator or a writer.'",
+     "faV": "تام می‌گویَد: «دَر آیَنده می‌خواهَم مُتَرجِم یا نِویسَنده شَوَم.»",
+     "a": "b5f0cf79a6ef"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What do Iranian students need to get into university?",
+     "options": [
+      "a letter from a professor",
+      "a pass in the konkur",
+      "two years of work experience"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What is the hardest part of university for Tom?",
+     "options": [
+      "the food in the canteen",
+      "his classmates' handwritten notes",
+      "the morning classes"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Which word in the text means 'writer'?",
+     "options": [
+      "نویسنده",
+      "دست‌نویس",
+      "می‌نویسد"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "The street of books",
+   "md": "Opposite the main gate of the University of Tehran, [[خیابان انقلاب|khiyābān-e Enghelāb|Enghelab Street]] is lined for well over a kilometre with bookshops and publishers' showrooms. This is where students buy their textbooks, dictionaries and photocopied [[جزوه|jozve|lecture notes]], where publishers like the one Mina hopes to work for have their windows, and where you can find a Persian translation of almost any famous novel – translation is a large and respected profession in Iran.\n\nEvery spring the city also holds the [[نمایشگاه بین‌المللی کتاب تهران|namāyeshgāh-e beyn-ol-melali-ye ketāb-e Tehrān|Tehran International Book Fair]], one of the largest in Asia. For about ten days whole families come to browse, and students carry home bags of discounted books. Look at the word for *exhibition*: [[نمایشگاه|namāyeshgāh]] is [[نمایش|namāyesh|show]] + [[گاه|gāh|place]] – the *-esh* of this lesson at work, inside a word you will see on posters all over Iran.",
+   "image": "university-of-tehran"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "Learn every verb with its **present stem**. One stem gives you the verb (می‌نویسم), the command (بنویس), the doer (نویسنده) and often an -esh noun – four words for the price of one.",
+    "**دانشجو** is a university student, **دانش‌آموز** a school pupil; **استاد** teaches at a university, **معلم** at a school.",
+    "Some -esh and -ande words come from verbs that are now rare or literary: **ارزش** (value, from ارزیدن 'to be worth'), **آرامش** (calm, from آرامیدن 'to rest'), **پرنده** (bird, from پریدن). Use the pattern to understand new words rather than to invent them.",
+    "At an interview, answer a compliment modestly – **نظر لطف شماست** ('that's kind of you', literally 'it is your kind view') – and leave with **ممنون از وقتی که گذاشتید** ('thank you for your time').",
+    "Both endings are stressed: nevisan**de**, ver**zesh** – like almost every Persian noun, on the last syllable."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the words",
+   "items": [
+    {
+     "fa": "نویسنده",
+     "r": "nevisande",
+     "en": "writer",
+     "faV": "نِویسَنده",
+     "a": "aa236a6e6733"
+    },
+    {
+     "fa": "راننده",
+     "r": "rānande",
+     "en": "driver",
+     "faV": "رانَنده",
+     "a": "a08d01db0708"
+    },
+    {
+     "fa": "فروشنده",
+     "r": "forushande",
+     "en": "shop assistant",
+     "faV": "فُروشَنده",
+     "a": "9c251cd1f097"
+    },
+    {
+     "fa": "آموزش",
+     "r": "āmuzesh",
+     "en": "education, training",
+     "faV": "آموزِش",
+     "a": "5c29b2ef231e"
+    },
+    {
+     "fa": "پرسش",
+     "r": "porsesh",
+     "en": "question",
+     "faV": "پُرسِش",
+     "a": "6b0b936c0324"
+    },
+    {
+     "fa": "ورزش",
+     "r": "varzesh",
+     "en": "sport",
+     "faV": "وَرزِش",
+     "a": "738e9f2e0aa9"
+    },
+    {
+     "fa": "آینده",
+     "r": "āyande",
+     "en": "future",
+     "faV": "آیَنده",
+     "a": "8d4b7551c7f8"
+    },
+    {
+     "fa": "دانشجو",
+     "r": "dāneshju",
+     "en": "university student",
+     "faV": "دانِشجو",
+     "a": "0cf8e25653d0"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right answer",
+   "items": [
+    {
+     "q": "You meet Mr Karimi for the first time. What do you say?",
+     "options": [
+      "سلام آقای کریمی، حالت چطور است؟",
+      "سلام آقای کریمی، حال شما چطور است؟",
+      "سلام کریمی، چطوری؟"
+     ],
+     "answer": 1,
+     "explain": "With a manager or a stranger use shomā: hāl-e shomā chetor ast?"
+    },
+    {
+     "q": "What is a [[خواننده|khānande]]?",
+     "options": [
+      "a singer",
+      "a house",
+      "a student"
+     ],
+     "answer": 0,
+     "explain": "khān (read, sing) + -ande: the one who sings – or reads."
+    },
+    {
+     "q": "Which word means 'knowledge'?",
+     "options": [
+      "دانشجو",
+      "دانش",
+      "دانشگاه"
+     ],
+     "answer": 1,
+     "explain": "dān (know) + -esh = dānesh. A dāneshju is a knowledge-seeker (a student), a dāneshgāh a knowledge-place (a university)."
+    },
+    {
+     "q": "A boring lecture is…",
+     "options": [
+      "خسته‌کننده",
+      "خسته",
+      "شرکت‌کننده"
+     ],
+     "answer": 0,
+     "explain": "khaste-konande, 'tiring': the lecture makes you khaste (tired)."
+    },
+    {
+     "q": "The secretary says: [[آقای کریمی تشریف ندارند.|āghā-ye Karimi tashrif na-dārand.]] What does she mean?",
+     "options": [
+      "Mr Karimi is not in.",
+      "Mr Karimi doesn't want to see you.",
+      "Mr Karimi has no time."
+     ],
+     "answer": 0,
+     "explain": "tashrif dāshtan is the polite 'to be there'; the plural verb shows respect."
+    },
+    {
+     "q": "'Good luck!' at the end of an interview is…",
+     "options": [
+      "خوش آمدید!",
+      "موفق باشید!",
+      "خواهش می‌کنم!"
+     ],
+     "answer": 1,
+     "explain": "movaffagh bāshid – literally 'be successful'."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {
+     "fa": "پدرم ___ است.",
+     "r": "pedar-am ___ ast.",
+     "en": "My father is a driver.",
+     "answer": "راننده",
+     "hint": "rān (drive) + -ande"
+    },
+    {
+     "fa": "ببخشید استاد، یک ___ دارم.",
+     "r": "bebakhshid ostād, yek ___ dāram.",
+     "en": "Excuse me, professor, I have a question.",
+     "answer": "پرسش",
+     "hint": "pors (ask) + -esh"
+    },
+    {
+     "fa": "برادرم در کنکور قبول ___.",
+     "r": "barādar-am dar konkur ghabul ___.",
+     "en": "My brother passed the konkur.",
+     "answer": "شد",
+     "hint": "the past of shodan"
+    },
+    {
+     "fa": "تا آخر هفته با شما ___ می‌گیریم.",
+     "r": "tā ākhar-e hafte bā shomā ___ mi-girim.",
+     "en": "We'll contact you by the end of the week.",
+     "answer": "تماس",
+     "hint": "contact"
+    },
+    {
+     "fa": "خانم احمدی، چای میل ___؟",
+     "r": "khānom-e Ahmadi, chāy meyl ___?",
+     "en": "Ms Ahmadi, would you like some tea?",
+     "answer": "دارید",
+     "hint": "dāshtan, polite plural"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "رزومه‌ی شما را خواندم.",
+     "r": "rezume-ye shomā rā khāndam.",
+     "en": "I have read your CV.",
+     "faV": "رِزومه‌یِ شُما را خواندَم.",
+     "a": "fe834d93a813"
+    },
+    {
+     "fa": "کی می‌توانید شروع کنید؟",
+     "r": "key mi-tavānid shoru' konid?",
+     "en": "When can you start?",
+     "faV": "کَی می‌تَوانید شُروع کُنید؟",
+     "a": "6f071e6ab0d2"
+    },
+    {
+     "fa": "دو سال در یک شرکت کار کردم.",
+     "r": "do sāl dar yek sherkat kār kardam.",
+     "en": "I worked at a company for two years.",
+     "faV": "دو سال دَر یِک شِرکَت کار کَردَم.",
+     "a": "784947ac25d5"
+    },
+    {
+     "fa": "در آینده می‌خواهم مترجم شوم.",
+     "r": "dar āyande mi-khāham motarjem shavam.",
+     "en": "In the future I want to become a translator.",
+     "faV": "دَر آیَنده می‌خواهَم مُتَرجِم شَوَم.",
+     "a": "8a88929b97c9"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "موفق باشید!",
+     "r": "movaffagh bāshid!",
+     "en": "Good luck!",
+     "options": [
+      "Welcome!",
+      "Good luck!",
+      "Goodbye!"
+     ],
+     "answer": 1,
+     "faV": "مُوَفَّق باشید!",
+     "a": "bf924a8f0c15"
+    },
+    {
+     "fa": "رشته‌ی شما چیست؟",
+     "r": "reshte-ye shomā chist?",
+     "en": "What is your subject?",
+     "options": [
+      "What is your name?",
+      "What is your subject?",
+      "Where is your university?"
+     ],
+     "answer": 1,
+     "faV": "رِشته‌یِ شُما چیست؟",
+     "a": "7959ce4aaafb"
+    },
+    {
+     "fa": "این کلاس خیلی خسته‌کننده است!",
+     "r": "in kelās kheyli khaste-konande ast!",
+     "en": "This class is so boring!",
+     "options": [
+      "This class is very tired!",
+      "This class is so boring!",
+      "This class is very big!"
+     ],
+     "answer": 1,
+     "faV": "این کِلاس خَیلی خَسته‌کُنَنده اَست!",
+     "a": "31883902a517"
+    },
+    {
+     "fa": "بفرمایید بنشینید.",
+     "r": "befarmāyid beneshinid.",
+     "en": "Please have a seat.",
+     "options": [
+      "Please come in.",
+      "Please have a seat.",
+      "Please have some tea."
+     ],
+     "answer": 1,
+     "faV": "بِفَرمایید بِنِشینید.",
+     "a": "145abd1b585f"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "I studied English at the University of Tehran.",
+     "fa": "در دانشگاه تهران زبان انگلیسی خواندم.",
+     "r": "dar dāneshgāh-e Tehrān zabān-e engelisi khāndam.",
+     "faV": "دَر دانِشگاهِ تِهران زَبانِ اِنگِلیسی خواندَم.",
+     "a": "6b7e75bd4043"
+    },
+    {
+     "en": "I have three years' work experience.",
+     "fa": "سه سال سابقه‌ی کار دارم.",
+     "r": "se sāl sābeghe-ye kār dāram.",
+     "faV": "سه سال سابِقه‌یِ کار دارَم.",
+     "a": "39da5d555bd4"
+    },
+    {
+     "en": "Why do you want to work at our company? (formal)",
+     "fa": "چرا می‌خواهید در شرکت ما کار کنید؟",
+     "r": "cherā mi-khāhid dar sherkat-e mā kār konid?",
+     "faV": "چِرا می‌خواهید دَر شِرکَتِ ما کار کُنید؟",
+     "a": "67a9ae5ffd26"
+    },
+    {
+     "en": "My sister is a writer.",
+     "fa": "خواهرم نویسنده است.",
+     "r": "khāhar-am nevisande ast.",
+     "faV": "خواهَرَم نِویسَنده اَست.",
+     "a": "62240a0ec5cc"
+    },
+    {
+     "en": "Thank you for your time.",
+     "fa": "ممنون از وقتی که گذاشتید.",
+     "r": "mamnun az vaght-i ke gozāshtid.",
+     "faV": "مَمنون اَز وَقتی که گُذاشتید.",
+     "a": "26b2107df21c"
+    }
+   ]
+  }
+ ],
+ "titleV": "کار و تَحصیل",
+ "titleA": "a1d210a13d56"
+}

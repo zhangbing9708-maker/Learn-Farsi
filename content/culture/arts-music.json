@@ -1,0 +1,278 @@
+{
+ "id": "arts-music",
+ "topic": "arts",
+ "title": "Persian music",
+ "titleFa": "موسیقی ایرانی",
+ "titleR": "musighi-ye irāni",
+ "image": "persian-music",
+ "summary": "Persian classical music is poetry set free: a repertoire of melodies called the radif, twelve modal families, a handful of beautiful instruments – and great singers such as Mohammad-Reza Shajarian.",
+ "body": [
+  {
+   "h": "Music and poetry",
+   "md": "Persian classical music – [[موسیقی سنتی|musighi-ye sonnati|traditional music]] – is music for listening closely. It is played by small groups, often just a singer and two or three instruments, and at its heart is poetry: singers take their words from Hafez, Saadi and Rumi, and a good performance makes an old verse sound newly felt. Iranians love pop, folk and much else, but this is the music they call [[اصیل|asil|noble, authentic]]."
+  },
+  {
+   "h": "The radif and the dastgahs",
+   "md": "The tradition rests on the [[ردیف|radif|'row' – the repertoire]]: hundreds of short melodies, each called a [[گوشه|gushe|'corner']], grouped into twelve families. Seven large ones are called [[دستگاه|dastgāh|modal system]] – Shur, Mahur, Homayun, Segah, Chahargah, Nava and Rast-Panjgah – and five smaller ones that branch off them are called [[آواز|āvāz|song; mode]]. Each has its own scale and mood: Mahur is bright and majestic, Chahargah heroic, Shur and Segah full of longing.\n\nThe radif took its present shape in the 19th century, in the version of the tar master Mirza Abdollah, and is still learnt by heart, [[سینه‌به‌سینه|sine-be-sine|'chest to chest']], from teacher to student. Once musicians know it, they do not repeat it but improvise on it, so no two performances are the same."
+  },
+  {
+   "h": "Strings: tar, setar and santur",
+   "md": "The [[تار|tār|string]] is the backbone of the ensemble: a long-necked lute with a double-bowled body of mulberry wood, a sound-skin of thin lambskin and six strings, played with a small brass pick. The [[سه‌تار|se-tār|'three strings']] is its quiet cousin, plucked with the index fingernail – an instrument for playing alone late at night, much loved by Sufis. Despite its name it has four strings. The [[سنتور|santur|santur]] is a trapezoid box strung with 72 strings and struck with two feather-light wooden hammers, giving a shimmering, bell-like sound.",
+   "image": "tar"
+  },
+  {
+   "h": "Kamancheh and ney",
+   "md": "The [[کمانچه|kamānche|kamancheh, 'little bow']] is a spike fiddle: a small round body on a long neck, held upright on the knee. The player turns the instrument to meet the bow, and its sound is the closest thing to a human voice in the ensemble.\n\nThe [[نی|ney|reed flute]] is just a reed with six holes, but the Persian way of playing it, with the tip held against the teeth, gives it a warm, breathy tone. In poetry it stands for the soul longing for home, and Rumi's *Masnavi* opens with it: [[بشنو از نی چون حکایت می‌کند|beshnow az ney chon hekāyat mi-konad|Listen to the reed, how it tells its tale]].",
+   "image": "kamancheh"
+  },
+  {
+   "h": "Drums: tonbak and daf",
+   "md": "Rhythm comes from the [[تنبک|tombak|tonbak]], a goblet-shaped drum carved from a single block of wood and played with the fingers and palms. Good players can make it whisper, roll and crack, and in the 20th century Hossein Tehrani turned it into a solo instrument. The [[دف|daf|frame drum]] is a large frame drum with metal rings inside the rim that jingle when it is struck. For centuries it was played at Sufi gatherings, especially in Kurdistan; today a row of dafs is one of the most thrilling sights at an Iranian concert.",
+   "image": "daf"
+  },
+  {
+   "h": "Shajarian",
+   "md": "No voice is loved more than that of [[محمدرضا شجریان|Mohammad-Rezā Shajariyān|Mohammad-Reza Shajarian]] (1940–2020), born in Mashhad and known as [[خسرو آواز ایران|Khosrow-e āvāz-e Irān|the king of Persian song]]. For half a century his recordings defined classical singing, and his *Rabbana* prayer was for decades the sound of sunset in Ramadan, when the fast is broken. When he died in October 2020, crowds gathered outside his hospital in Tehran to sing his songs. He was buried in Tus, beside the tomb of Ferdowsi.",
+   "image": "shajarian"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "موسیقی سنتی ایران با شعر پیوند دارد.",
+   "r": "musighi-ye sonnati-ye Irān bā she'r peyvand dārad.",
+   "en": "Iranian classical music is closely bound up with poetry.",
+   "faV": "موسیقیِ سُنَّتیِ ایران با شِعر پَیوَند دارَد.",
+   "a": "ccce5a20f3f0"
+  },
+  {
+   "fa": "موسیقی ایرانی هفت دستگاه دارد.",
+   "r": "musighi-ye irāni haft dastgāh dārad.",
+   "en": "Persian music has seven dastgahs.",
+   "faV": "موسیقیِ ایرانی هَفت دَستگاه دارَد.",
+   "a": "e0bac365377d"
+  },
+  {
+   "fa": "دستگاه ماهور شاد و باشکوه است.",
+   "r": "dastgāh-e Māhur shād va bā-shokuh ast.",
+   "en": "The Mahur dastgah is joyful and majestic.",
+   "faV": "دَستگاهِ ماهور شاد و باشُکوه اَست.",
+   "a": "932166cbc73c"
+  },
+  {
+   "fa": "ردیف را سینه‌به‌سینه یاد می‌گیرند.",
+   "r": "radif rā sine-be-sine yād mi-girand.",
+   "en": "The radif is learnt by heart, from teacher to student.",
+   "lit": "they learn the radif chest to chest",
+   "faV": "رَدیف را سینه‌به‌سینه یاد می‌گیرَند.",
+   "a": "339cc7679046"
+  },
+  {
+   "fa": "نوازنده‌ها روی گوشه‌های ردیف بداهه‌نوازی می‌کنند.",
+   "r": "navāzande-hā ru-ye gushe-hā-ye radif bedāhe-navāzi mi-konand.",
+   "en": "Musicians improvise on the melodies of the radif.",
+   "faV": "نَوازَنده‌ها رویِ گوشه‌هایِ رَدیف بِداهه‌نَوازی می‌کُنَند.",
+   "a": "f7d7d5e64aa2"
+  },
+  {
+   "fa": "تار شش سیم دارد و سه‌تار چهار سیم.",
+   "r": "tār shesh sim dārad va se-tār chahār sim.",
+   "en": "The tar has six strings and the setar four.",
+   "faV": "تار شِش سیم دارَد و سه‌تار چَهار سیم.",
+   "a": "b56fafeb594b"
+  },
+  {
+   "fa": "سنتور را با دو مضراب کوچک می‌نوازند.",
+   "r": "santur rā bā do mezrāb-e kuchak mi-navāzand.",
+   "en": "The santur is played with two small hammers.",
+   "faV": "سَنتور را با دو مِضرابِ کوچَک می‌نَوازَند.",
+   "a": "f43be2db6e17"
+  },
+  {
+   "fa": "صدای کمانچه به صدای انسان نزدیک است.",
+   "r": "sedā-ye kamānche be sedā-ye ensān nazdik ast.",
+   "en": "The sound of the kamancheh is close to the human voice.",
+   "faV": "صِدایِ کَمانچه به صِدایِ اِنسان نَزدیک اَست.",
+   "a": "707a80ba5762"
+  },
+  {
+   "fa": "نی در شعر فارسی نماد دل عاشق است.",
+   "r": "ney dar she'r-e fārsi namād-e del-e 'āshegh ast.",
+   "en": "In Persian poetry the ney is a symbol of the lover's heart.",
+   "faV": "نَی دَر شِعرِ فارسی نَمادِ دِلِ عاشِق اَست.",
+   "a": "0f122389cb79"
+  },
+  {
+   "fa": "دف در کردستان ساز مهمی است.",
+   "r": "daf dar Kordestān sāz-e mohemm-i ast.",
+   "en": "The daf is an important instrument in Kurdistan.",
+   "faV": "دَف دَر کُردِستان سازِ مُهِمّی اَست.",
+   "a": "262d02c46bfb"
+  },
+  {
+   "fa": "شجریان را خسرو آواز ایران می‌نامند.",
+   "r": "Shajariyān rā Khosrow-e āvāz-e Irān mi-nāmand.",
+   "en": "Shajarian is called the king of Persian song.",
+   "faV": "شَجَریان را خُسرُوِ آوازِ ایران می‌نامَند.",
+   "a": "6b17f2844043"
+  },
+  {
+   "fa": "شجریان در توس، کنار آرامگاه فردوسی، به خاک سپرده شد.",
+   "r": "Shajariyān dar Tus, kenār-e ārāmgāh-e Ferdowsi, be khāk seporde shod.",
+   "en": "Shajarian was buried in Tus, next to the tomb of Ferdowsi.",
+   "faV": "شَجَریان دَر توس، کِنارِ آرامگاهِ فِردَوسی، به خاک سِپُرده شُد.",
+   "a": "a037a76f310a"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "موسیقی",
+   "r": "musighi",
+   "en": "music",
+   "faV": "موسیقی",
+   "a": "16350c72b626"
+  },
+  {
+   "fa": "موسیقی سنتی",
+   "r": "musighi-ye sonnati",
+   "en": "Persian classical music",
+   "faV": "موسیقیِ سُنَّتی",
+   "a": "786aff8e95a2"
+  },
+  {
+   "fa": "ساز",
+   "r": "sāz",
+   "en": "musical instrument",
+   "faV": "ساز",
+   "a": "b0b9923daa78"
+  },
+  {
+   "fa": "نواختن",
+   "r": "navākhtan",
+   "en": "to play (an instrument)",
+   "faV": "نَواختَن",
+   "a": "ac63dc63f50e"
+  },
+  {
+   "fa": "نوازنده",
+   "r": "navāzande",
+   "en": "musician, player",
+   "faV": "نَوازَنده",
+   "a": "e738db773d0b"
+  },
+  {
+   "fa": "خواننده",
+   "r": "khānande",
+   "en": "singer",
+   "faV": "خوانَنده",
+   "a": "af1ad3f06e5d"
+  },
+  {
+   "fa": "آواز",
+   "r": "āvāz",
+   "en": "singing, song; a secondary mode",
+   "faV": "آواز",
+   "a": "e62d36001c3d"
+  },
+  {
+   "fa": "دستگاه",
+   "r": "dastgāh",
+   "en": "dastgah, modal system; machine",
+   "faV": "دَستگاه",
+   "a": "e0da2dbe3b2c"
+  },
+  {
+   "fa": "ردیف",
+   "r": "radif",
+   "en": "the radif, the repertoire; row",
+   "faV": "رَدیف",
+   "a": "6c4771fcc564"
+  },
+  {
+   "fa": "گوشه",
+   "r": "gushe",
+   "en": "melody of the radif; corner",
+   "faV": "گوشه",
+   "a": "210a089eb882"
+  },
+  {
+   "fa": "تار",
+   "r": "tār",
+   "en": "tar (lute); string",
+   "faV": "تار",
+   "a": "46461fc1c5b6"
+  },
+  {
+   "fa": "سه‌تار",
+   "r": "se-tār",
+   "en": "setar",
+   "faV": "سه‌تار",
+   "a": "0acaa94e8124"
+  },
+  {
+   "fa": "سنتور",
+   "r": "santur",
+   "en": "santur, hammered dulcimer",
+   "faV": "سَنتور",
+   "a": "d55ad8c49da8"
+  },
+  {
+   "fa": "کمانچه",
+   "r": "kamānche",
+   "en": "kamancheh, spike fiddle",
+   "faV": "کَمانچه",
+   "a": "d7aa995afdb7"
+  },
+  {
+   "fa": "نی",
+   "r": "ney",
+   "en": "ney, reed flute",
+   "faV": "نَی",
+   "a": "c2eef05e87a9"
+  },
+  {
+   "fa": "تنبک",
+   "r": "tombak",
+   "en": "tonbak, goblet drum",
+   "faV": "تُنبَک",
+   "a": "efe828e99c8d"
+  },
+  {
+   "fa": "دف",
+   "r": "daf",
+   "en": "daf, frame drum",
+   "faV": "دَف",
+   "a": "54d15eed25fc"
+  },
+  {
+   "fa": "سیم",
+   "r": "sim",
+   "en": "string; wire",
+   "faV": "سیم",
+   "a": "3a13a659913d"
+  },
+  {
+   "fa": "مضراب",
+   "r": "mezrāb",
+   "en": "plectrum; santur hammer",
+   "faV": "مِضراب",
+   "a": "3b4ffbf0e873"
+  },
+  {
+   "fa": "شعر",
+   "r": "she'r",
+   "en": "poem, poetry",
+   "faV": "شِعر",
+   "a": "116393d466d1"
+  }
+ ],
+ "facts": [
+  "The radif of Iranian music was added to UNESCO's list of the Intangible Cultural Heritage of Humanity in 2009.",
+  "In 2017 UNESCO listed the art of making and playing the kamancheh, nominated jointly by Iran and Azerbaijan.",
+  "The signs koron (a quarter-tone flat) and sori (a quarter-tone sharp), used to write the in-between notes of Persian music, were invented by Ali-Naqi Vaziri in the early 20th century.",
+  "The setar's fourth string is said to have been added by the 18th-century Sufi musician Moshtaq Ali Shah.",
+  "A classical concert often moves from a composed overture, the [[پیش‌درآمد|pish-darāmad]], through free, improvised singing, the [[آواز|āvāz]], to a song with a regular beat, the [[تصنیف|tasnif]], and ends with a lively dance piece, the [[رنگ|reng]].",
+  "The Persian santur has 72 strings, in groups of four over 18 bridges."
+ ],
+ "titleV": "موسیقیِ ایرانی",
+ "titleA": "eca5b71976be"
+}

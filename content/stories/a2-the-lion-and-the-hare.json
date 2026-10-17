@@ -1,0 +1,326 @@
+{
+ "id": "a2-the-lion-and-the-hare",
+ "level": "A2",
+ "kind": "fable",
+ "title": "The lion and the hare",
+ "titleFa": "شیر و خرگوش",
+ "titleR": "shir o khargush",
+ "image": "kalila-wa-dimna",
+ "intro": "Another fable from Kalila and Dimna, and one of the most retold stories in Persian – Rumi tells it in his Masnavi too. A cruel lion rules the forest, and the smallest animal finds a way to defeat him. Read it for the narrative past, the past continuous for an action that was interrupted (می‌آمدم 'I was coming'), که-clauses after 'say' and 'realise', and the simple اگر of the animals' deal.",
+ "source": "Retold from Kalila and Dimna (12th-century Persian version, public domain); Rumi retells the same story in the Masnavi.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "در جنگلی سبز، شیری قوی و بی‌رحم زندگی می‌کرد.",
+     "r": "dar jangal-i sabz, shir-i ghavi o bi-rahm zendegi mi-kard.",
+     "en": "In a green forest there lived a strong and cruel lion.",
+     "faV": "دَر جَنگَلی سَبز، شیری قَوی و بی‌رَحم زِندِگی می‌کَرد.",
+     "a": "db0cc1991284"
+    },
+    {
+     "fa": "او هر روز چند حیوان را شکار می‌کرد و همه از او می‌ترسیدند.",
+     "r": "u har ruz chand heyvān rā shekār mi-kard o hame az u mi-tarsidand.",
+     "en": "Every day he hunted several animals, and everyone lived in fear of him.",
+     "faV": "او هَر روز چَند حَیوان را شِکار می‌کَرد و هَمه اَز او می‌تَرسیدَند.",
+     "a": "4e69c75e9cba"
+    },
+    {
+     "fa": "یک روز حیوانات جمع شدند و پیش شیر رفتند.",
+     "r": "yek ruz heyvānāt jam' shodand o pish-e shir raftand.",
+     "en": "One day the animals got together and went to see the lion.",
+     "faV": "یِک روز حَیوانات جَمع شُدَند و پیشِ شیر رَفتَند.",
+     "a": "86a29a586d62"
+    },
+    {
+     "fa": "آن‌ها گفتند: «اگر شکار نکنی، ما هر روز یک حیوان برایت می‌فرستیم.»",
+     "r": "ān-hā goftand: «agar shekār na-koni, mā har ruz yek heyvān barā-yat mi-ferestim.»",
+     "en": "They said: \"If you stop hunting, we will send you one animal every day.\"",
+     "faV": "آن‌ها گُفتَند: «اَگَر شِکار نَکُنی، ما هَر روز یِک حَیوان بَرایَت می‌فِرِستیم.»",
+     "a": "3d42c4a794f0"
+    },
+    {
+     "fa": "شیر قبول کرد، چون دیگر لازم نبود که خودش زحمت بکشد.",
+     "r": "shir ghabul kard, chon digar lāzem na-bud ke khod-ash zahmat bekeshad.",
+     "en": "The lion agreed, because then he would not have to take the trouble himself.",
+     "faV": "شیر قَبول کَرد، چون دیگَر لازِم نَبود که خودَش زَحمَت بِکِشَد.",
+     "a": "306ce4d41e4f"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "هر روز با قرعه یک حیوان را انتخاب می‌کردند.",
+     "r": "har ruz bā ghor'e yek heyvān rā entekhāb mi-kardand.",
+     "en": "Each day they chose one animal by drawing lots.",
+     "faV": "هَر روز با قُرعه یِک حَیوان را اِنتِخاب می‌کَردَند.",
+     "a": "fde4b3fa3e52"
+    },
+    {
+     "fa": "یک روز قرعه به نام خرگوش افتاد.",
+     "r": "yek ruz ghor'e be nām-e khargush oftād.",
+     "en": "One day the lot fell to the hare.",
+     "faV": "یِک روز قُرعه به نامِ خَرگوش اُفتاد.",
+     "a": "c239a7a1effc"
+    },
+    {
+     "fa": "خرگوش کوچک بود، اما خیلی باهوش بود.",
+     "r": "khargush kuchak bud, ammā kheyli bāhush bud.",
+     "en": "The hare was small, but very clever.",
+     "faV": "خَرگوش کوچَک بود، اَمّا خَیلی باهوش بود.",
+     "a": "b2cf3250fced"
+    },
+    {
+     "fa": "او آهسته آهسته راه رفت و ظهر به لانه‌ی شیر رسید.",
+     "r": "u āheste āheste rāh raft o zohr be lāne-ye shir resid.",
+     "en": "He walked very, very slowly and reached the lion's den at noon.",
+     "faV": "او آهِسته آهِسته راه رَفت و ظُهر به لانه‌یِ شیر رِسید.",
+     "a": "6e22851df2b0"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "شیر گرسنه و عصبانی غرید: «چرا این‌قدر دیر آمدی؟»",
+     "r": "shir-e gorosne o asabāni ghorrid: «cherā in-ghadr dir āmadi?»",
+     "en": "The hungry, angry lion roared: \"Why are you so late?\"",
+     "faV": "شیرِ گُرُسنه و عَصَبانی غُرّید: «چِرا این‌قَدر دیر آمَدی؟»",
+     "a": "7d9c212966e1"
+    },
+    {
+     "fa": "خرگوش با ترس گفت: «قربان، من با یک خرگوش دیگر برای شما می‌آمدم.»",
+     "r": "khargush bā tars goft: «ghorbān, man bā yek khargush-e digar barā-ye shomā mi-āmadam.»",
+     "en": "Trembling, the hare said: \"Your Majesty, I was on my way to you with another hare.\"",
+     "faV": "خَرگوش با تَرس گُفت: «قُربان، مَن با یِک خَرگوشِ دیگَر بَرایِ شُما می‌آمَدَم.»",
+     "a": "996cd7a019e0"
+    },
+    {
+     "fa": "«اما در راه، یک شیر دیگر او را گرفت و گفت که پادشاه این جنگل اوست.»",
+     "r": "«ammā dar rāh, yek shir-e digar u rā gereft o goft ke pādeshāh-e in jangal u-st.»",
+     "en": "\"But on the way another lion seized him and said that he is the king of this forest.\"",
+     "faV": "«اَمّا دَر راه، یِک شیرِ دیگَر او را گِرِفت و گُفت که پادِشاهِ این جَنگَل اوست.»",
+     "a": "6fcb68b526ea"
+    },
+    {
+     "fa": "شیر فریاد زد: «پادشاه این جنگل منم! آن شیر کجاست؟ زود مرا پیش او ببر!»",
+     "r": "shir faryād zad: «pādeshāh-e in jangal man-am! ān shir kojā-st? zud ma-rā pish-e u bebar!»",
+     "en": "The lion bellowed: \"I am the king of this forest! Where is that lion? Take me to him at once!\"",
+     "faV": "شیر فَریاد زَد: «پادِشاهِ این جَنگَل مَنَم! آن شیر کُجاست؟ زود مَرا پیشِ او بِبَر!»",
+     "a": "4f4156ffeed3"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "خرگوش شیر را کنار یک چاه عمیق برد و گفت: «او این‌جا، ته این چاه است.»",
+     "r": "khargush shir rā kenār-e yek chāh-e amigh bord o goft: «u in-jā, tah-e in chāh ast.»",
+     "en": "The hare led the lion to the edge of a deep well and said: \"He's here, at the bottom of this well.\"",
+     "faV": "خَرگوش شیر را کِنارِ یِک چاهِ عَمیق بُرد و گُفت: «او این‌جا، تَهِ این چاه اَست.»",
+     "a": "430d99a1cb9b"
+    },
+    {
+     "fa": "شیر به داخل چاه نگاه کرد و در آب، شیری خشمگین دید.",
+     "r": "shir be dākhel-e chāh negāh kard o dar āb, shir-i khashmgin did.",
+     "en": "The lion looked down into the well and saw a furious lion in the water.",
+     "faV": "شیر به داخِلِ چاه نِگاه کَرد و دَر آب، شیری خَشمگین دید.",
+     "a": "d8900abb5fd3"
+    },
+    {
+     "fa": "او غرید و شیر داخل آب هم غرید.",
+     "r": "u ghorrid o shir-e dākhel-e āb ham ghorrid.",
+     "en": "He roared, and the lion in the water roared back.",
+     "faV": "او غُرّید و شیرِ داخِلِ آب هَم غُرّید.",
+     "a": "d9ef67c60fd4"
+    },
+    {
+     "fa": "شیر نفهمید که آن عکس خودش است و با خشم به داخل چاه پرید.",
+     "r": "shir na-fahmid ke ān aks-e khod-ash ast o bā khashm be dākhel-e chāh parid.",
+     "en": "The lion did not realise that it was his own reflection, and he leapt furiously into the well.",
+     "faV": "شیر نَفَهمید که آن عَکسِ خودَش اَست و با خَشم به داخِلِ چاه پَرید.",
+     "a": "1bcb47f23713"
+    },
+    {
+     "fa": "او دیگر هرگز بیرون نیامد.",
+     "r": "u digar hargez birun na-yāmad.",
+     "en": "He never came out again.",
+     "faV": "او دیگَر هَرگِز بیرون نَیامَد.",
+     "a": "3494a301fc0e"
+    },
+    {
+     "fa": "خرگوش به جنگل برگشت و حیوانات تا شب جشن گرفتند.",
+     "r": "khargush be jangal bar-gasht o heyvānāt tā shab jashn gereftand.",
+     "en": "The hare went back to the forest, and the animals celebrated until nightfall.",
+     "faV": "خَرگوش به جَنگَل بَرگَشت و حَیوانات تا شَب جَشن گِرِفتَند.",
+     "a": "e1f362371b9e"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "بی‌رحم",
+   "r": "bi-rahm",
+   "en": "cruel, merciless",
+   "faV": "بی‌رَحم",
+   "a": "c961dc1294d7"
+  },
+  {
+   "fa": "شکار کردن",
+   "r": "shekār kardan",
+   "en": "to hunt",
+   "faV": "شِکار کَردَن",
+   "a": "4b7706e89824"
+  },
+  {
+   "fa": "جمع شدن",
+   "r": "jam' shodan",
+   "en": "to gather, get together",
+   "faV": "جَمع شُدَن",
+   "a": "3c7a6662f6e5"
+  },
+  {
+   "fa": "زحمت کشیدن",
+   "r": "zahmat keshidan",
+   "en": "to take trouble, make an effort",
+   "faV": "زَحمَت کِشیدَن",
+   "a": "e63513741cfe"
+  },
+  {
+   "fa": "قرعه",
+   "r": "ghor'e",
+   "en": "lot (in a draw)",
+   "faV": "قُرعه",
+   "a": "a0deb3eb7c2a"
+  },
+  {
+   "fa": "قرعه به نام کسی افتادن",
+   "r": "ghor'e be nām-e kas-i oftādan",
+   "en": "the lot falls to someone",
+   "faV": "قُرعه به نامِ کَسی اُفتادَن",
+   "a": "9fc4e09b69bd"
+  },
+  {
+   "fa": "خرگوش",
+   "r": "khargush",
+   "en": "hare, rabbit",
+   "faV": "خَرگوش",
+   "a": "dec125a151d9"
+  },
+  {
+   "fa": "آهسته",
+   "r": "āheste",
+   "en": "slowly; quietly",
+   "faV": "آهِسته",
+   "a": "c3b860dbe9c8"
+  },
+  {
+   "fa": "لانه",
+   "r": "lāne",
+   "en": "den, nest",
+   "faV": "لانه",
+   "a": "02665cceaacc"
+  },
+  {
+   "fa": "غریدن",
+   "r": "ghorridan",
+   "en": "to roar, growl",
+   "faV": "غُرّیدَن",
+   "a": "fb1eb5a69917"
+  },
+  {
+   "fa": "قربان",
+   "r": "ghorbān",
+   "en": "Your Majesty; sir (literally 'sacrifice')",
+   "faV": "قُربان",
+   "a": "96975ba29ef5"
+  },
+  {
+   "fa": "پادشاه",
+   "r": "pādeshāh",
+   "en": "king",
+   "faV": "پادِشاه",
+   "a": "a4b8d0e0d41b"
+  },
+  {
+   "fa": "چاه",
+   "r": "chāh",
+   "en": "well",
+   "faV": "چاه",
+   "a": "475fd32f7f06"
+  },
+  {
+   "fa": "عمیق",
+   "r": "amigh",
+   "en": "deep",
+   "faV": "عَمیق",
+   "a": "5b0dbafd2f4c"
+  },
+  {
+   "fa": "عکس",
+   "r": "aks",
+   "en": "reflection; photo, picture",
+   "faV": "عَکس",
+   "a": "c589fb40e49b"
+  },
+  {
+   "fa": "جشن گرفتن",
+   "r": "jashn gereftan",
+   "en": "to celebrate",
+   "faV": "جَشن گِرِفتَن",
+   "a": "dc5a1305a24d"
+  }
+ ],
+ "questions": [
+  {
+   "q": "What deal did the animals offer the lion?",
+   "options": [
+    "they would leave the forest",
+    "one animal every day if he stopped hunting",
+    "fruit and honey every week"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "How did the hare make the lion angry?",
+   "options": [
+    "he arrived very late",
+    "he laughed at him",
+    "he refused to come"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the hare say had happened on the way?",
+   "options": [
+    "he had got lost",
+    "he had fallen asleep",
+    "another lion had seized the other hare"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What did the lion see in the well?",
+   "options": [
+    "another real lion",
+    "his own reflection",
+    "the other hare"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What happened to the lion in the end?",
+   "options": [
+    "he jumped into the well and never came out",
+    "he became friends with the hare",
+    "he left the forest"
+   ],
+   "answer": 0
+  }
+ ],
+ "after": "The moral is often summed up with a line from Ferdowsi's Shahnameh that every Iranian knows: توانا بود هر که دانا بود (tavānā bovad har ke dānā bovad), 'whoever is wise is powerful'. Notice how Persian reports speech: گفت که پادشاه این جنگل اوست 'he said that he is the king of this forest' – the tense of the original words does not change. The past continuous می‌آمدم 'I was coming' sets up an action that something interrupted. قربان (ghorbān, 'Your Majesty, sir') literally means 'sacrifice'; قربانت بروم 'may I be your sacrifice' is still an everyday, affectionate thank-you. And قرعه به نام خرگوش افتاد 'the lot fell to the hare' is how Persian still talks about the luck of a draw.",
+ "titleV": "شیر و خَرگوش",
+ "titleA": "b318b971c58a"
+}

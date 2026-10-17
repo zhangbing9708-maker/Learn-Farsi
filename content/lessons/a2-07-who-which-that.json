@@ -1,0 +1,1136 @@
+{
+ "id": "a2-07-who-which-that",
+ "level": "A2",
+ "n": 7,
+ "title": "Who, which, that: the man by the window",
+ "titleFa": "مردی که کنار پنجره نشسته است",
+ "titleR": "mard-i ke kenār-e panjare neshaste ast",
+ "intro": "To describe people and things in detail – the man who is sitting by the window, the book I bought yesterday, the place where I work – Persian uses one little word, که, and one small ending, -i, on the noun before it. In this lesson you learn to build these relative clauses, to use the handy patterns کسی که (the person who), چیزی که (what) and جایی که (where), and to say 'whose' and 'with whom'. You also spend Yalda, the longest night of the year, with Leila's family.",
+ "goals": [
+  "describe people and things with a relative clause: مردی که آن‌جا نشسته است",
+  "add the -i before که in all its spellings: مردی، خانه‌ای، آقایی",
+  "use کسی که، چیزی که، جایی که and هر چیزی که",
+  "say 'whose', 'with whom' and 'in which' with a pronoun inside the clause",
+  "know where را goes when a noun has a relative clause"
+ ],
+ "image": "yalda",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "Who's who on Yalda night",
+   "context": "It is Yalda night, the longest night of the year. Leila has invited Tom to her grandparents' house, where the whole family has gathered.",
+   "lines": [
+    {
+     "who": "Tom",
+     "fa": "لیلا، آن آقایی که کنار پنجره نشسته است کیست؟",
+     "r": "Leylā, ān āghā-yi ke kenār-e panjare neshaste ast kist?",
+     "en": "Leila, who's that man sitting by the window?",
+     "col": "لیلا، اون آقاهه که کنار پنجره نشسته کیه؟",
+     "colR": "Leylā, un āghā-he ke kenār-e panjare neshaste ki-ye?",
+     "faV": "لَیلا، آن آقایی که کِنارِ پَنجَره نِشَسته اَست کیست؟",
+     "a": "c8740b45ea00",
+     "colV": "لَیلا، اون آقاهه که کِنارِ پَنجَره نِشَسته کیه؟",
+     "colA": "2e5b670a0eb7"
+    },
+    {
+     "who": "Leila",
+     "fa": "او پدربزرگ من است؛ همان کسی که قبلاً معلم بود.",
+     "r": "u pedar-bozorg-e man ast; hamān kas-i ke ghablan mo'allem bud.",
+     "en": "He's my grandfather – the one who used to be a teacher.",
+     "col": "اون بابابزرگمه؛ همون کسی که قبلاً معلم بود.",
+     "colR": "un bābā-bozorg-am-e; hamun kas-i ke ghablan mo'allem bud.",
+     "faV": "او پِدَربُزُرگِ مَن اَست؛ هَمان کَسی که قَبلاً مُعَلِّم بود.",
+     "a": "743266c6a077",
+     "colV": "اون بابابُزُرگَمه؛ هَمون کَسی که قَبلاً مُعَلِّم بود.",
+     "colA": "28230433ec0c"
+    },
+    {
+     "who": "Tom",
+     "fa": "آهان! و خانمی که دارد چای می‌ریزد؟",
+     "r": "āhān! va khānom-i ke dārad chāy mi-rizad?",
+     "en": "Ah! And the lady who's pouring the tea?",
+     "col": "آهان! اون خانمی که داره چای می‌ریزه چی؟",
+     "colR": "āhān! un khānom-i ke dāre chāy mi-rize chi?",
+     "faV": "آهان! و خانُمی که دارَد چای می‌ریزَد؟",
+     "a": "04e1c334627c",
+     "colV": "آهان! اون خانُمی که داره چای می‌ریزه چی؟",
+     "colA": "29849233d8a1"
+    },
+    {
+     "who": "Leila",
+     "fa": "مادربزرگم است؛ کسی که همه‌ی این غذاها را پخته است.",
+     "r": "mādar-bozorg-am ast; kas-i ke hame-ye in ghazā-hā rā pokhte ast.",
+     "en": "That's my grandmother – the person who cooked all this food.",
+     "col": "مامان‌بزرگمه؛ همون که همه‌ی این غذاها رو پخته.",
+     "colR": "māmān-bozorg-am-e; hamun ke hame-ye in ghazā-hā ro pokhte.",
+     "faV": "مادَربُزُرگَم اَست؛ کَسی که هَمه‌یِ این غَذاها را پُخته اَست.",
+     "a": "9fc2777a0c06",
+     "colV": "مامان‌بُزُرگَمه؛ هَمون که هَمه‌یِ این غَذاها رو پُخته.",
+     "colA": "e3722b682b90"
+    },
+    {
+     "who": "Tom",
+     "fa": "غذاهایش عالی است! آن دختری که با گربه بازی می‌کند خواهرت است؟",
+     "r": "ghazā-hā-yash āli ast! ān dokhtar-i ke bā gorbe bāzi mi-konad khāhar-at ast?",
+     "en": "Her food is wonderful! Is that girl who's playing with the cat your sister?",
+     "col": "غذاهاش عالیه! اون دختره که داره با گربه بازی می‌کنه خواهرته؟",
+     "colR": "ghazā-hā-sh āli-ye! un dokhtar-e ke dāre bā gorbe bāzi mi-kone khāhar-et-e?",
+     "faV": "غَذاهایَش عالی اَست! آن دُختَری که با گُربه بازی می‌کُنَد خواهَرَت اَست؟",
+     "a": "14a03de603ea",
+     "colV": "غَذاهاش عالیه! اون دُختَره که داره با گُربه بازی می‌کُنه خواهَرِته؟",
+     "colA": "2178e4bdc6a7"
+    },
+    {
+     "who": "Leila",
+     "fa": "نه، دخترخاله‌ام است؛ همان دختری که عکسش را نشانت دادم.",
+     "r": "na, dokhtar-khāle-am ast; hamān dokhtar-i ke aks-ash rā neshān-at dādam.",
+     "en": "No, she's my cousin – the girl whose photo I showed you.",
+     "faV": "نه، دُختَرخاله‌اَم اَست؛ هَمان دُختَری که عَکسَش را نِشانَت دادَم.",
+     "a": "093b807f658c"
+    },
+    {
+     "who": "Tom",
+     "fa": "یادم آمد! همان دختری که می‌خواهد خواننده شود؟",
+     "r": "yād-am āmad! hamān dokhtar-i ke mi-khāhad khānande shavad?",
+     "en": "I remember! The girl who wants to be a singer?",
+     "col": "یادم اومد! همون دختری که می‌خواد خواننده بشه؟",
+     "colR": "yād-am umad! hamun dokhtar-i ke mi-khād khānande beshe?",
+     "faV": "یادَم آمَد! هَمان دُختَری که می‌خواهَد خوانَنده شَوَد؟",
+     "a": "23281280dfec",
+     "colV": "یادَم اومَد! هَمون دُختَری که می‌خواد خوانَنده بِشه؟",
+     "colA": "2e1197d1c812"
+    },
+    {
+     "who": "Leila",
+     "fa": "بله! صدایی دارد که آدم را جادو می‌کند.",
+     "r": "bale! sedā-yi dārad ke ādam rā jādu mi-konad.",
+     "en": "Yes! She has a voice that casts a spell on you.",
+     "col": "آره! یه صدایی داره که آدمو جادو می‌کنه.",
+     "colR": "āre! ye sedā-yi dāre ke ādam-o jādu mi-kone.",
+     "faV": "بَله! صِدایی دارَد که آدَم را جادو می‌کُنَد.",
+     "a": "82ffaac2e432",
+     "colV": "آره! یه صِدایی داره که آدَمو جادو می‌کُنه.",
+     "colA": "f9de1a34bd9f"
+    },
+    {
+     "who": "Tom",
+     "fa": "راستی، چیزی که در آن ظرف بزرگ است چیست؟",
+     "r": "rāsti, chiz-i ke dar ān zarf-e bozorg ast chist?",
+     "en": "By the way, what's that in the big bowl?",
+     "col": "راستی، اون چیزی که تو اون ظرف بزرگه چیه؟",
+     "colR": "rāsti, un chiz-i ke tu un zarf-e bozorg-e chi-ye?",
+     "faV": "راستی، چیزی که دَر آن ظَرفِ بُزُرگ اَست چیست؟",
+     "a": "38c68c628a88",
+     "colV": "راستی، اون چیزی که تو اون ظَرفِ بُزُرگه چیه؟",
+     "colA": "be671ab84e1f"
+    },
+    {
+     "who": "Leila",
+     "fa": "آجیل شب یلداست. هر چیزی که دوست داری بردار!",
+     "r": "ājil-e shab-e Yaldā-st. har chiz-i ke dust dāri bardār!",
+     "en": "It's Yalda-night nuts. Take whatever you like!",
+     "col": "آجیل شب یلداست. هر چی دوست داری بردار!",
+     "colR": "ājil-e shab-e Yaldā-st. har chi dust dāri bardār!",
+     "faV": "آجیلِ شَبِ یَلداست. هَر چیزی که دوست داری بَردار!",
+     "a": "433112d14f24",
+     "colV": "آجیلِ شَبِ یَلداست. هَر چی دوست داری بَردار!",
+     "colA": "a1bfa9e285e4"
+    },
+    {
+     "who": "Tom",
+     "fa": "ممنون. این اولین شب یلدایی است که در ایران هستم.",
+     "r": "mamnun. in avvalin shab-e Yaldā-yi ast ke dar Irān hastam.",
+     "en": "Thank you. This is the first Yalda night I've spent in Iran.",
+     "col": "مرسی. این اولین شب یلداییه که ایرانم.",
+     "colR": "mersi. in avvalin shab-e Yaldā-yi-ye ke Irān-am.",
+     "faV": "مَمنون. این اَوَّلین شَبِ یَلدایی اَست که دَر ایران هَستَم.",
+     "a": "fc90121e092d",
+     "colV": "مِرسی. این اَوَّلین شَبِ یَلداییه که ایرانَم.",
+     "colA": "0029a7fc1045"
+    },
+    {
+     "who": "Leila",
+     "fa": "پس باید فال حافظ بگیری! این کاری است که همه در شب یلدا می‌کنند.",
+     "r": "pas bāyad fāl-e Hāfez begiri! in kār-i ast ke hame dar shab-e Yaldā mi-konand.",
+     "en": "Then you must have your fortune read from Hafez! It's something everyone does on Yalda night.",
+     "col": "پس باید فال حافظ بگیری! این کاریه که همه شب یلدا می‌کنن.",
+     "colR": "pas bāyad fāl-e Hāfez begiri! in kār-i-ye ke hame shab-e Yaldā mi-konan.",
+     "faV": "پَس بایَد فالِ حافِظ بِگیری! این کاری اَست که هَمه دَر شَبِ یَلدا می‌کُنَند.",
+     "a": "5f001f535046",
+     "colV": "پَس بایَد فالِ حافِظ بِگیری! این کاریه که هَمه شَبِ یَلدا می‌کُنَن.",
+     "colA": "a45278ab30ab"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Describing with که",
+   "md": "Each of Tom's questions points at someone or something and describes it with a whole clause: [[آن آقایی که کنار پنجره نشسته است|ān āghā-yi ke kenār-e panjare neshaste ast|that man who is sitting by the window]], [[خانمی که دارد چای می‌ریزد|khānom-i ke dārad chāy mi-rizad|the lady who is pouring tea]], [[چیزی که در آن ظرف است|chiz-i ke dar ān zarf ast|the thing that is in that bowl]].\n\nThe recipe is always the same:\n\n1. the noun, with the ending **-i**: [[آقایی|āghā-yi]], [[خانمی|khānom-i]], [[چیزی|chiz-i]];\n2. the word [[که|ke]] – Persian's one word for *who*, *which* and *that*;\n3. an ordinary sentence, with its verb at the end.\n\nThe relative clause comes straight after the noun, and then the main sentence carries on. So a Persian sentence can have two verbs side by side: [[مردی که آمد رفت.|mard-i ke āmad raft.|The man who came has left.]] – read it as *the man [who came] left*."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "که",
+     "r": "ke",
+     "en": "who, which, that",
+     "pos": "conj",
+     "note": "one word for people and things",
+     "ex": {
+      "fa": "دوستی که در شیراز دارم معلم است.",
+      "r": "dust-i ke dar Shirāz dāram mo'allem ast.",
+      "en": "The friend I have in Shiraz is a teacher.",
+      "faV": "دوستی که دَر شیراز دارَم مُعَلِّم اَست.",
+      "a": "4b850eeead5f"
+     },
+     "faV": "که",
+     "a": "2688fa7219e4"
+    },
+    {
+     "fa": "کسی که",
+     "r": "kas-i ke",
+     "en": "the person who; someone who",
+     "pos": "phrase",
+     "ex": {
+      "fa": "کسی که زنگ زد برادرت بود.",
+      "r": "kas-i ke zang zad barādar-at bud.",
+      "en": "The person who rang was your brother.",
+      "faV": "کَسی که زَنگ زَد بَرادَرَت بود.",
+      "a": "b33245f34882"
+     },
+     "faV": "کَسی که",
+     "a": "0d9dd473bacc"
+    },
+    {
+     "fa": "چیزی که",
+     "r": "chiz-i ke",
+     "en": "the thing that, what",
+     "pos": "phrase",
+     "faV": "چیزی که",
+     "a": "e77a174f563a"
+    },
+    {
+     "fa": "جایی که",
+     "r": "jā-yi ke",
+     "en": "the place where",
+     "pos": "phrase",
+     "faV": "جایی که",
+     "a": "736e5b0c3e95"
+    },
+    {
+     "fa": "همان",
+     "r": "hamān",
+     "en": "the same, that very",
+     "pos": "det",
+     "note": "همان کسی که 'the very person who, the one who'",
+     "col": "همون",
+     "colR": "hamun",
+     "faV": "هَمان",
+     "a": "d48bd18ebfac",
+     "colV": "هَمون",
+     "colA": "52755d0162f8"
+    },
+    {
+     "fa": "پدربزرگ",
+     "r": "pedar-bozorg",
+     "en": "grandfather",
+     "pos": "n",
+     "col": "بابابزرگ",
+     "colR": "bābā-bozorg",
+     "faV": "پِدَربُزُرگ",
+     "a": "be007b4d3e58",
+     "colV": "بابابُزُرگ",
+     "colA": "603657461692"
+    },
+    {
+     "fa": "مادربزرگ",
+     "r": "mādar-bozorg",
+     "en": "grandmother",
+     "pos": "n",
+     "col": "مامان‌بزرگ",
+     "colR": "māmān-bozorg",
+     "faV": "مادَربُزُرگ",
+     "a": "65c57d9d30b9",
+     "colV": "مامان‌بُزُرگ",
+     "colA": "d0a885b6ccea"
+    },
+    {
+     "fa": "دخترخاله",
+     "r": "dokhtar-khāle",
+     "en": "(girl) cousin – your mother's sister's daughter",
+     "pos": "n",
+     "note": "Persian has a word for each kind of cousin: دخترعمو، پسرعمو، دخترخاله، پسرخاله، دختردایی…",
+     "faV": "دُختَرخاله",
+     "a": "7906e72a89c6"
+    },
+    {
+     "fa": "نشستن",
+     "r": "neshastan",
+     "en": "to sit",
+     "pos": "v",
+     "note": "present stem نشین neshin; نشسته است 'is sitting' (literally 'has sat')",
+     "faV": "نِشَستَن",
+     "a": "8600d789726d"
+    },
+    {
+     "fa": "خواننده",
+     "r": "khānande",
+     "en": "singer",
+     "pos": "n",
+     "note": "also 'reader' – from خواندن 'to read; to sing'",
+     "faV": "خوانَنده",
+     "a": "af1ad3f06e5d"
+    },
+    {
+     "fa": "صدا",
+     "r": "sedā",
+     "en": "voice; sound",
+     "pos": "n",
+     "faV": "صِدا",
+     "a": "df5fbb786c2a"
+    },
+    {
+     "fa": "ظرف",
+     "r": "zarf",
+     "en": "dish, bowl",
+     "pos": "n",
+     "note": "ظرف شستن 'to do the washing-up'",
+     "faV": "ظَرف",
+     "a": "00ad9c1d88d5"
+    },
+    {
+     "fa": "آجیل",
+     "r": "ājil",
+     "en": "mixed nuts and dried fruit",
+     "pos": "n",
+     "faV": "آجیل",
+     "a": "2138287559aa"
+    },
+    {
+     "fa": "انار",
+     "r": "anār",
+     "en": "pomegranate",
+     "pos": "n",
+     "faV": "اَنار",
+     "a": "6c4e904dbad0"
+    },
+    {
+     "fa": "هندوانه",
+     "r": "hendevāne",
+     "en": "watermelon",
+     "pos": "n",
+     "note": "literally 'the Indian (fruit)'",
+     "faV": "هِندِوانه",
+     "a": "cbdf0ac6bd6a"
+    },
+    {
+     "fa": "فال",
+     "r": "fāl",
+     "en": "fortune, omen",
+     "pos": "n",
+     "note": "فال گرفتن 'to have your fortune told'",
+     "faV": "فال",
+     "a": "1a913753f7b5"
+    },
+    {
+     "fa": "یادم آمد",
+     "r": "yād-am āmad",
+     "en": "I remember (now)",
+     "pos": "phrase",
+     "note": "literally 'it came to my memory'; the opposite of یادم رفت 'I forgot'",
+     "faV": "یادَم آمَد",
+     "a": "4fa6c4feb329"
+    },
+    {
+     "fa": "شبیه",
+     "r": "shabih",
+     "en": "similar, like",
+     "pos": "adj",
+     "ex": {
+      "fa": "تو خیلی شبیه مادرت هستی.",
+      "r": "to kheyli shabih-e mādar-at hasti.",
+      "en": "You look a lot like your mother.",
+      "faV": "تو خَیلی شَبیهِ مادَرَت هَستی.",
+      "a": "779e0de281a4"
+     },
+     "faV": "شَبیه",
+     "a": "7ffb0abe44f5"
+    },
+    {
+     "fa": "قدبلند",
+     "r": "ghad-boland",
+     "en": "tall",
+     "pos": "adj",
+     "note": "قدکوتاه 'short'",
+     "faV": "قَدبُلَند",
+     "a": "502f2144e32f"
+    },
+    {
+     "fa": "عینک",
+     "r": "eynak",
+     "en": "glasses",
+     "pos": "n",
+     "note": "عینک زدن 'to wear glasses'",
+     "faV": "عَینَک",
+     "a": "9bef4ab3427b"
+    },
+    {
+     "fa": "موهای مشکی",
+     "r": "mu-hā-ye meshki",
+     "en": "black hair",
+     "pos": "phrase",
+     "note": "مو 'hair' is usually plural in Persian: موهایش 'her hair'",
+     "faV": "موهایِ مِشکی",
+     "a": "8f2f5c599fd9"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The man who…: noun + -i + که",
+   "md": "Add **-i** to the noun you are describing, then [[که|ke]] and the clause. It is the same ending as the *-i* of *a, some* ([[کتابی|ketāb-i|a book]]), but here it points forward: *the book that…*. It is spelled like this:\n\n- after a consonant: [[مردی|mard-i]], [[کتابی|ketāb-i]];\n- after a silent *-e*: [[خانه‌ای|khāne-i]];\n- after *ā* or *u*: [[آقایی|āghā-yi]], [[دانشجویی|dāneshju-yi]];\n- after a plural: [[دوست‌هایی|dust-hā-yi]], [[دانشجویانی|dāneshjuyān-i]].\n\nIf the noun has adjectives, the *-i* goes at the end of the whole phrase: [[پسر کوچکی که|pesar-e kuchak-i ke|the little boy who]]. Words like [[آن|ān|that]] and [[همان|hamān|the same]] in front change nothing: [[آن مردی که|ān mard-i ke|that man who]].",
+   "table": {
+    "head": [
+     "Noun",
+     "Noun + -i",
+     "With a clause",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[مرد|mard]]",
+      "[[مردی|mard-i]]",
+      "[[مردی که آن‌جاست|mard-i ke ān-jā-st]]",
+      "the man who is over there"
+     ],
+     [
+      "[[زن|zan]]",
+      "[[زنی|zan-i]]",
+      "[[زنی که چای می‌ریزد|zan-i ke chāy mi-rizad]]",
+      "the woman who is pouring tea"
+     ],
+     [
+      "[[کتاب|ketāb]]",
+      "[[کتابی|ketāb-i]]",
+      "[[کتابی که خریدم|ketāb-i ke kharidam]]",
+      "the book (that) I bought"
+     ],
+     [
+      "[[خانه|khāne]]",
+      "[[خانه‌ای|khāne-i]]",
+      "[[خانه‌ای که در آن زندگی می‌کنیم|khāne-i ke dar ān zendegi mi-konim]]",
+      "the house we live in"
+     ],
+     [
+      "[[آقا|āghā]]",
+      "[[آقایی|āghā-yi]]",
+      "[[آقایی که کنار پنجره نشسته|āghā-yi ke kenār-e panjare neshaste]]",
+      "the man sitting by the window"
+     ],
+     [
+      "[[دانشجو|dāneshju]]",
+      "[[دانشجویی|dāneshju-yi]]",
+      "[[دانشجویی که از استرالیا آمده|dāneshju-yi ke az Ostorāliyā āmade]]",
+      "the student who has come from Australia"
+     ],
+     [
+      "[[دوست‌ها|dust-hā]]",
+      "[[دوست‌هایی|dust-hā-yi]]",
+      "[[دوست‌هایی که دعوت کردیم|dust-hā-yi ke da'vat kardim]]",
+      "the friends (that) we invited"
+     ],
+     [
+      "[[پسر کوچک|pesar-e kuchak]]",
+      "[[پسر کوچکی|pesar-e kuchak-i]]",
+      "[[پسر کوچکی که گل دارد|pesar-e kuchak-i ke gol dārad]]",
+      "the little boy who has the flowers"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "مردی که کلاه دارد پدربزرگ لیلا است.",
+     "r": "mard-i ke kolāh dārad pedar-bozorg-e Leylā ast.",
+     "en": "The man with the hat is Leila's grandfather.",
+     "lit": "the man who has a hat",
+     "faV": "مَردی که کُلاه دارَد پِدَربُزُرگِ لَیلا اَست.",
+     "a": "1e310d499bc0"
+    },
+    {
+     "fa": "کتابی که دیروز خریدم خیلی جالب است.",
+     "r": "ketāb-i ke diruz kharidam kheyli jāleb ast.",
+     "en": "The book I bought yesterday is very interesting.",
+     "col": "کتابی که دیروز خریدم خیلی جالبه.",
+     "colR": "ketāb-i ke diruz kharidam kheyli jāleb-e.",
+     "faV": "کِتابی که دیروز خَریدَم خَیلی جالِب اَست.",
+     "a": "e44614f96290",
+     "colV": "کِتابی که دیروز خَریدَم خَیلی جالِبه.",
+     "colA": "44e51f13e8f9"
+    },
+    {
+     "fa": "خانه‌ای که در آن بزرگ شدم در شیراز است.",
+     "r": "khāne-i ke dar ān bozorg shodam dar Shirāz ast.",
+     "en": "The house I grew up in is in Shiraz.",
+     "faV": "خانه‌ای که دَر آن بُزُرگ شُدَم دَر شیراز اَست.",
+     "a": "8d2f685f371e"
+    },
+    {
+     "fa": "آن خانمی که عینک دارد معلم ماست.",
+     "r": "ān khānom-i ke eynak dārad mo'allem-e mā-st.",
+     "en": "That lady with the glasses is our teacher.",
+     "faV": "آن خانُمی که عَینَک دارَد مُعَلِّمِ ماست.",
+     "a": "fa7639ee2151"
+    },
+    {
+     "fa": "دانشجویانی که فارسی یاد می‌گیرند باید این کتاب را بخوانند.",
+     "r": "dāneshjuyān-i ke fārsi yād mi-girand bāyad in ketāb rā bekhānand.",
+     "en": "Students who are learning Persian should read this book.",
+     "faV": "دانِشجویانی که فارسی یاد می‌گیرَند بایَد این کِتاب را بِخوانَند.",
+     "a": "b3d46c2ef527"
+    },
+    {
+     "fa": "مردی که آمد رفت.",
+     "r": "mard-i ke āmad raft.",
+     "en": "The man who came has left.",
+     "note": "two verbs side by side: the man [who came] + left",
+     "faV": "مَردی که آمَد رَفت.",
+     "a": "e1f6ba348a1b"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The person who, what, where: کسی که، چیزی که، جایی که",
+   "md": "A few very general nouns + *-i* + [[که|ke]] give you English *the one who*, *what* and *where*:\n\n- [[کسی که|kas-i ke]] – the person who, someone who; [[کسانی که|kasān-i ke]] – people who, those who;\n- [[چیزی که|chiz-i ke]] – the thing that, *what*: [[چیزی که گفتی|chiz-i ke gofti|what you said]];\n- [[جایی که|jā-yi ke]] – the place where, *where*;\n- [[وقتی که|vaghti ke]], [[روزی که|ruz-i ke]] – when, the day (that).\n\nPut [[هر|har|every]] in front and you get *whoever*, *whatever*, *wherever*: [[هر کسی که|har kas-i ke]], [[هر چیزی که|har chiz-i ke]], [[هر جایی که|har jā-yi ke]]. In speech these are short: [[هر کی|har ki]], [[هر چی|har chi]], [[هر جا|har jā]].\n\nWhen you talk about someone or something that may not exist – *anyone who*, *something that* – the verb of the clause is often in the subjunctive: [[کسی که دیر بیاید|kas-i ke dir biyāyad|whoever comes late]], [[دنبال کسی هستم که انگلیسی بلد باشد|donbāl-e kas-i hastam ke engelisi balad bāshad|I'm looking for someone who knows English]].",
+   "table": {
+    "head": [
+     "Persian",
+     "English",
+     "Example",
+     "Example in English"
+    ],
+    "rows": [
+     [
+      "[[کسی که|kas-i ke]]",
+      "the person who, someone who",
+      "[[کسی که زنگ زد|kas-i ke zang zad]]",
+      "the person who rang"
+     ],
+     [
+      "[[کسانی که|kasān-i ke]]",
+      "people who, those who",
+      "[[کسانی که آمدند|kasān-i ke āmadand]]",
+      "the people who came"
+     ],
+     [
+      "[[چیزی که|chiz-i ke]]",
+      "the thing that, what",
+      "[[چیزی که گفتی|chiz-i ke gofti]]",
+      "what you said"
+     ],
+     [
+      "[[جایی که|jā-yi ke]]",
+      "the place where, where",
+      "[[جایی که کار می‌کنم|jā-yi ke kār mi-konam]]",
+      "where I work"
+     ],
+     [
+      "[[روزی که|ruz-i ke]]",
+      "the day (that)",
+      "[[روزی که به ایران آمدم|ruz-i ke be Irān āmadam]]",
+      "the day I came to Iran"
+     ],
+     [
+      "[[هر کسی که|har kas-i ke]] ([[هر کی|har ki]])",
+      "whoever",
+      "[[هر کسی که می‌خواهد|har kas-i ke mi-khāhad]]",
+      "whoever wants to"
+     ],
+     [
+      "[[هر چیزی که|har chiz-i ke]] ([[هر چی|har chi]])",
+      "whatever",
+      "[[هر چیزی که دوست داری|har chiz-i ke dust dāri]]",
+      "whatever you like"
+     ],
+     [
+      "[[هر جایی که|har jā-yi ke]] ([[هر جا|har jā]])",
+      "wherever",
+      "[[هر جایی که بروی|har jā-yi ke beravi]]",
+      "wherever you go"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "کسی که دیر بیاید، شام ندارد!",
+     "r": "kas-i ke dir biyāyad, shām na-dārad!",
+     "en": "Whoever comes late gets no dinner!",
+     "faV": "کَسی که دیر بیایَد، شام نَدارَد!",
+     "a": "b567bacb190e"
+    },
+    {
+     "fa": "چیزی که گفتی درست است.",
+     "r": "chiz-i ke gofti dorost ast.",
+     "en": "What you said is right.",
+     "col": "چیزی که گفتی درسته.",
+     "colR": "chiz-i ke gofti dorost-e.",
+     "faV": "چیزی که گُفتی دُرُست اَست.",
+     "a": "d1ded81c26dd",
+     "colV": "چیزی که گُفتی دُرُسته.",
+     "colA": "e7a7a93d7c0e"
+    },
+    {
+     "fa": "جایی که کار می‌کنم نزدیک میدان آزادی است.",
+     "r": "jā-yi ke kār mi-konam nazdik-e meydān-e Āzādi ast.",
+     "en": "The place where I work is near Azadi Square.",
+     "faV": "جایی که کار می‌کُنَم نَزدیکِ مَیدانِ آزادی اَست.",
+     "a": "eb0c7f1bde07"
+    },
+    {
+     "fa": "روزی که به ایران آمدم، باران می‌بارید.",
+     "r": "ruz-i ke be Irān āmadam, bārān mi-bārid.",
+     "en": "The day I came to Iran, it was raining.",
+     "faV": "روزی که به ایران آمَدَم، باران می‌بارید.",
+     "a": "0cbbacce596f"
+    },
+    {
+     "fa": "هر چیزی که دوست داری سفارش بده.",
+     "r": "har chiz-i ke dust dāri sefāresh bedeh.",
+     "en": "Order whatever you like.",
+     "col": "هر چی دوست داری سفارش بده.",
+     "colR": "har chi dust dāri sefāresh bede.",
+     "faV": "هَر چیزی که دوست داری سِفارِش بِدِه.",
+     "a": "14f64401421c",
+     "colV": "هَر چی دوست داری سِفارِش بِده.",
+     "colA": "13bae0911468"
+    },
+    {
+     "fa": "دنبال کسی هستم که انگلیسی بلد باشد.",
+     "r": "donbāl-e kas-i hastam ke engelisi balad bāshad.",
+     "en": "I'm looking for someone who knows English.",
+     "note": "the clause can follow the verb; the subjunctive, because such a person may not exist",
+     "faV": "دُنبالِ کَسی هَستَم که اِنگِلیسی بَلَد باشَد.",
+     "a": "f4891eb8479a"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Whose, with whom, in which – and where را goes",
+   "md": "Inside the clause, Persian often repeats the noun with a pronoun – something English never does. If the noun is the subject or the direct object of the clause, you don't need it: [[دختری که آواز می‌خواند|dokhtar-i ke āvāz mi-khānad|the girl who sings]], [[دختری که دیدی|dokhtar-i ke didi|the girl you saw]]. But for *whose*, *with whom*, *about which* and *in which*, the pronoun must be there:\n\n- [[دختری که اسمش سارا است|dokhtar-i ke esm-ash Sārā ast|the girl whose name is Sara]] – literally *the girl that her name is Sara*;\n- [[دوستی که با او رفتم|dust-i ke bā u raftam|the friend I went with]] – *with him*;\n- [[شهری که در آن زندگی می‌کنی|shahr-i ke dar ān zendegi mi-koni|the city you live in]] – *in it*; or simply [[شهری که آن‌جا زندگی می‌کنی|shahr-i ke ān-jā zendegi mi-koni|the city where you live]].\n\n**را with a relative clause.** In careful writing را stays with its noun, before که: [[کتابی را که به من دادی خواندم.|ketāb-i rā ke be man dādi khāndam.|I read the book you gave me.]] In speech it usually comes after the whole clause: [[کتابی که بهم دادی رو خوندم.|ketāb-i ke beh-am dādi ro khundam.]]",
+   "table": {
+    "head": [
+     "In the clause, the noun is…",
+     "Persian",
+     "English"
+    ],
+    "rows": [
+     [
+      "the subject",
+      "[[دختری که آواز می‌خواند|dokhtar-i ke āvāz mi-khānad]]",
+      "the girl who sings"
+     ],
+     [
+      "the object",
+      "[[دختری که دیدی|dokhtar-i ke didi]]",
+      "the girl (that) you saw"
+     ],
+     [
+      "the owner: whose",
+      "[[دختری که اسمش سارا است|dokhtar-i ke esm-ash Sārā ast]]",
+      "the girl whose name is Sara"
+     ],
+     [
+      "after a preposition",
+      "[[دختری که با او حرف زدی|dokhtar-i ke bā u harf zadi]]",
+      "the girl you talked to"
+     ],
+     [
+      "a place: in which",
+      "[[شهری که در آن زندگی می‌کنی|shahr-i ke dar ān zendegi mi-koni]]",
+      "the city you live in"
+     ],
+     [
+      "a place: where",
+      "[[شهری که آن‌جا زندگی می‌کنی|shahr-i ke ān-jā zendegi mi-koni]]",
+      "the city where you live"
+     ],
+     [
+      "a thing: about which",
+      "[[فیلمی که درباره‌اش حرف زدیم|film-i ke darbāre-ash harf zadim]]",
+      "the film we talked about"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "کتابی را که به من دادی خواندم.",
+     "r": "ketāb-i rā ke be man dādi khāndam.",
+     "en": "I read the book you gave me.",
+     "col": "کتابی که بهم دادی رو خوندم.",
+     "colR": "ketāb-i ke beh-am dādi ro khundam.",
+     "faV": "کِتابی را که به مَن دادی خواندَم.",
+     "a": "683fb8431a33",
+     "colV": "کِتابی که بِهَم دادی رو خوندَم.",
+     "colA": "1e177540dbba"
+    },
+    {
+     "fa": "مردی که ماشینش را دزدیدند به پلیس زنگ زد.",
+     "r": "mard-i ke māshin-ash rā dozdidand be polis zang zad.",
+     "en": "The man whose car was stolen rang the police.",
+     "lit": "the man that they stole his car",
+     "faV": "مَردی که ماشینَش را دُزدیدَند به پُلیس زَنگ زَد.",
+     "a": "ef471333dfcc"
+    },
+    {
+     "fa": "این همان رستورانی است که درباره‌اش به تو گفتم.",
+     "r": "in hamān resturān-i ast ke darbāre-ash be to goftam.",
+     "en": "This is the restaurant I told you about.",
+     "faV": "این هَمان رِستورانی اَست که دَرباره‌اَش به تو گُفتَم.",
+     "a": "bd3455a72dff"
+    },
+    {
+     "fa": "دوستانی که با آن‌ها به کوه رفتیم خیلی مهربان بودند.",
+     "r": "dustān-i ke bā ān-hā be kuh raftim kheyli mehrabān budand.",
+     "en": "The friends we went to the mountains with were very kind.",
+     "faV": "دوستانی که با آن‌ها به کوه رَفتیم خَیلی مِهرَبان بودَند.",
+     "a": "928a44c3c79b"
+    },
+    {
+     "fa": "دختری که عکسش را دیدی دخترخاله‌ی من است.",
+     "r": "dokhtar-i ke aks-ash rā didi dokhtar-khāle-ye man ast.",
+     "en": "The girl whose photo you saw is my cousin.",
+     "faV": "دُختَری که عَکسَش را دیدی دُختَرخاله‌یِ مَن اَست.",
+     "a": "73708d49a199"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "An old wedding photo",
+   "intro": "Leila shows Tom an old photo from her parents' wedding. Almost every sentence has a relative clause – find the noun with -i and the که that follows it.",
+   "sentences": [
+    {
+     "fa": "این عکسی است که سی سال پیش در عروسی پدر و مادرم گرفته‌اند.",
+     "r": "in aks-i ast ke si sāl pish dar arusi-ye pedar o mādar-am gerefte-and.",
+     "en": "This is a photo that was taken at my parents' wedding thirty years ago.",
+     "lit": "a photo that they have taken",
+     "faV": "این عَکسی اَست که سی سال پیش دَر عَروسیِ پِدَر و مادَرَم گِرِفته‌اَند.",
+     "a": "2d6c10e89d2c"
+    },
+    {
+     "fa": "مردی که کت و شلوار سیاه پوشیده است پدر من است.",
+     "r": "mard-i ke kot o shalvār-e siyāh pushide ast pedar-e man ast.",
+     "en": "The man in the black suit is my father.",
+     "faV": "مَردی که کُت و شَلوارِ سیاه پوشیده اَست پِدَرِ مَن اَست.",
+     "a": "583ca8bbcf0a"
+    },
+    {
+     "fa": "زنی که لباس سفید پوشیده است مادر من است.",
+     "r": "zan-i ke lebās-e sefid pushide ast mādar-e man ast.",
+     "en": "The woman in the white dress is my mother.",
+     "faV": "زَنی که لِباسِ سِفید پوشیده اَست مادَرِ مَن اَست.",
+     "a": "bfc602fd0605"
+    },
+    {
+     "fa": "پسر کوچکی که گل در دست دارد دایی من است.",
+     "r": "pesar-e kuchak-i ke gol dar dast dārad dāyi-ye man ast.",
+     "en": "The little boy holding the flowers is my uncle.",
+     "faV": "پِسَرِ کوچَکی که گُل دَر دَست دارَد داییِ مَن اَست.",
+     "a": "68182c2b08b8"
+    },
+    {
+     "fa": "او حالا مهندسی است که در یک شرکت بزرگ کار می‌کند.",
+     "r": "u hālā mohandes-i ast ke dar yek sherkat-e bozorg kār mi-konad.",
+     "en": "Today he's an engineer who works for a big company.",
+     "faV": "او حالا مُهَندِسی اَست که دَر یِک شِرکَتِ بُزُرگ کار می‌کُنَد.",
+     "a": "7f2dd2c9eb9e"
+    },
+    {
+     "fa": "خانمی که عینک دارد مادربزرگم است.",
+     "r": "khānom-i ke eynak dārad mādar-bozorg-am ast.",
+     "en": "The lady with the glasses is my grandmother.",
+     "faV": "خانُمی که عَینَک دارَد مادَربُزُرگَم اَست.",
+     "a": "609c266d15a2"
+    },
+    {
+     "fa": "او زنی بود که همیشه برای همه قصه می‌گفت.",
+     "r": "u zan-i bud ke hamishe barā-ye hame ghesse mi-goft.",
+     "en": "She was a woman who was always telling everyone stories.",
+     "faV": "او زَنی بود که هَمیشه بَرایِ هَمه قِصّه می‌گُفت.",
+     "a": "60e0ca2467cd"
+    },
+    {
+     "fa": "جایی که عکس را گرفته‌اند باغ خانه‌ی پدربزرگم در شیراز است.",
+     "r": "jā-yi ke aks rā gerefte-and bāgh-e khāne-ye pedar-bozorg-am dar Shirāz ast.",
+     "en": "The place where they took the photo is the garden of my grandfather's house in Shiraz.",
+     "faV": "جایی که عَکس را گِرِفته‌اَند باغِ خانه‌یِ پِدَربُزُرگَم دَر شیراز اَست.",
+     "a": "87b3343ce857"
+    },
+    {
+     "fa": "آن خانه را چند سال پیش فروختند.",
+     "r": "ān khāne rā chand sāl pish forukhtand.",
+     "en": "They sold that house a few years ago.",
+     "faV": "آن خانه را چَند سال پیش فُروختَند.",
+     "a": "867fbbaf0009"
+    },
+    {
+     "fa": "ولی هر وقت این عکس را می‌بینم، بوی گل‌های آن باغ یادم می‌آید.",
+     "r": "vali har vaght in aks rā mi-binam, bu-ye gol-hā-ye ān bāgh yād-am mi-āyad.",
+     "en": "But whenever I see this photo, I remember the scent of the flowers in that garden.",
+     "faV": "وَلی هَر وَقت این عَکس را می‌بینَم، بویِ گُل‌هایِ آن باغ یادَم می‌آیَد.",
+     "a": "06179b663e09"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Who is the man in the black suit?",
+     "options": [
+      "Leila's grandfather",
+      "Leila's father",
+      "Leila's uncle"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What does the little boy with the flowers do today?",
+     "options": [
+      "he's an engineer",
+      "he's a teacher",
+      "he's a singer"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Where was the photo taken?",
+     "options": [
+      "in a hotel in Tehran",
+      "in a garden in Shiraz",
+      "in a park in Isfahan"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "In «پسر کوچکی که», where is the -i?",
+     "options": [
+      "on پسر",
+      "on کوچک – at the end of the whole phrase",
+      "on که"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Yalda, the longest night",
+   "md": "On the night of 20 or 21 December – the last night of autumn and the longest of the year – Iranian families gather for [[شب یلدا|shab-e Yaldā]], also called [[شب چله|shab-e chelle]]. People go to the home of the oldest relatives, usually the grandparents, and sit up late, talking, eating and reading poetry, keeping each other company through the long dark until the sun is 'born again'. The name *Yaldā* comes from a Syriac word meaning *birth*.\n\nThe table has its own menu: red fruits that stand for the dawn and the warmth of life – [[هندوانه|hendevāne|watermelon]], which is said to keep winter illness away, and [[انار|anār|pomegranate]] – with bowls of [[آجیل|ājil]], nuts and dried fruit. Late in the evening someone takes down the Divan of Hafez for a [[فال حافظ|fāl-e Hāfez]]: you make a silent wish, open the book at random, and the ghazal on that page is read aloud as the poet's answer.",
+   "image": "yalda"
+  },
+  {
+   "type": "tips",
+   "title": "Watch out",
+   "items": [
+    "**که** is used for people and things alike – Persian has no separate *who* and *which*.",
+    "Don't forget the **-i**: *mard-i ke…* 'the man who…', not *mard ke…*. A name or a pronoun takes no -i: *Leylā, ke…* 'Leila, who…'. In speech, Tehranis often use the 'that one' ending *-e* instead: *un dokhtar-e ke…* 'that girl who…'.",
+    "The verb comes at the end of the relative clause, so two verbs often meet: *ketāb-i ke kharidam gom shod* 'the book I bought got lost'. Read such a sentence in two parts.",
+    "In careful writing را stays with its noun: *ketāb-i rā ke kharidi khāndam*; in speech it moves after the clause: *ketābi ke kharidi ro khundam*.",
+    "For *whose* and *with whom*, put a pronoun inside the clause: *dokhtar-i ke esm-ash…* 'the girl whose name…', *kas-i ke bā u…* 'the person with whom…'."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the phrases",
+   "items": [
+    {
+     "fa": "کسی که",
+     "r": "kas-i ke",
+     "en": "the person who",
+     "faV": "کَسی که",
+     "a": "0d9dd473bacc"
+    },
+    {
+     "fa": "چیزی که",
+     "r": "chiz-i ke",
+     "en": "what, the thing that",
+     "faV": "چیزی که",
+     "a": "e77a174f563a"
+    },
+    {
+     "fa": "جایی که",
+     "r": "jā-yi ke",
+     "en": "the place where",
+     "faV": "جایی که",
+     "a": "736e5b0c3e95"
+    },
+    {
+     "fa": "هر چیزی که",
+     "r": "har chiz-i ke",
+     "en": "whatever",
+     "faV": "هَر چیزی که",
+     "a": "5c6e45f67322"
+    },
+    {
+     "fa": "روزی که",
+     "r": "ruz-i ke",
+     "en": "the day (that)",
+     "faV": "روزی که",
+     "a": "abb94c7d8e11"
+    },
+    {
+     "fa": "کسانی که",
+     "r": "kasān-i ke",
+     "en": "the people who, those who",
+     "faV": "کَسانی که",
+     "a": "ecdff016bef9"
+    },
+    {
+     "fa": "هر جایی که",
+     "r": "har jā-yi ke",
+     "en": "wherever",
+     "faV": "هَر جایی که",
+     "a": "c8f5e32a2751"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right form",
+   "items": [
+    {
+     "q": "'the man who is sitting by the window'",
+     "options": [
+      "مرد که کنار پنجره نشسته است",
+      "مردی کنار پنجره که نشسته است",
+      "مردی که کنار پنجره نشسته است"
+     ],
+     "answer": 2,
+     "explain": "The noun with -i, then که, then the clause with its verb at the end."
+    },
+    {
+     "q": "Add the relative -i to خانه:",
+     "options": [
+      "خانه‌ای که",
+      "خانه‌ی که",
+      "خانهی که"
+     ],
+     "answer": 0,
+     "explain": "After a silent -e the -i is written ‌ای: خانه‌ای. خانه‌ی is the ezafe, not the -i."
+    },
+    {
+     "q": "'What you said is right.'",
+     "options": [
+      "کسی که گفتی درست است.",
+      "چیزی که گفتی درست است.",
+      "جایی که گفتی درست است."
+     ],
+     "answer": 1,
+     "explain": "'What' is chiz-i ke, 'the thing that'."
+    },
+    {
+     "q": "'the city you live in'",
+     "options": [
+      "شهری که در آن زندگی می‌کنی",
+      "شهری در آن که زندگی می‌کنی",
+      "شهر که زندگی می‌کنی در"
+     ],
+     "answer": 0,
+     "explain": "Persian repeats the place inside the clause: dar ān, 'in it'."
+    },
+    {
+     "q": "'the girl whose name is Sara'",
+     "options": [
+      "دختری که اسم سارا است",
+      "دختری که اسمش سارا است",
+      "دختر اسمش که سارا است"
+     ],
+     "answer": 1,
+     "explain": "For 'whose', put a possessive ending inside the clause: esm-ash, 'her name'."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {
+     "fa": "مردی ___ کلاه دارد پدربزرگ من است.",
+     "r": "mard-i ___ kolāh dārad pedar-bozorg-e man ast.",
+     "en": "The man with the hat is my grandfather.",
+     "answer": "که",
+     "hint": "who"
+    },
+    {
+     "fa": "___ که دیروز خریدم خیلی جالب است.",
+     "r": "___ ke diruz kharidam kheyli jāleb ast.",
+     "en": "The book I bought yesterday is very interesting.",
+     "answer": "کتابی",
+     "hint": "book + -i"
+    },
+    {
+     "fa": "___ که دیر بیاید، شام ندارد!",
+     "r": "___ ke dir biyāyad, shām na-dārad!",
+     "en": "Whoever comes late gets no dinner!",
+     "answer": "کسی",
+     "hint": "person + -i"
+    },
+    {
+     "fa": "___ که کار می‌کنم نزدیک میدان آزادی است.",
+     "r": "___ ke kār mi-konam nazdik-e meydān-e Āzādi ast.",
+     "en": "The place where I work is near Azadi Square.",
+     "answer": "جایی",
+     "hint": "place + -i"
+    },
+    {
+     "fa": "هر ___ که دوست داری بردار!",
+     "r": "har ___ ke dust dāri bardār!",
+     "en": "Take whatever you like!",
+     "answer": "چیزی",
+     "hint": "thing + -i"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "مردی که کلاه دارد پدربزرگ من است.",
+     "r": "mard-i ke kolāh dārad pedar-bozorg-e man ast.",
+     "en": "The man with the hat is my grandfather.",
+     "faV": "مَردی که کُلاه دارَد پِدَربُزُرگِ مَن اَست.",
+     "a": "4d2c892b7247"
+    },
+    {
+     "fa": "چیزی که گفتی درست است.",
+     "r": "chiz-i ke gofti dorost ast.",
+     "en": "What you said is right.",
+     "faV": "چیزی که گُفتی دُرُست اَست.",
+     "a": "d1ded81c26dd"
+    },
+    {
+     "fa": "روزی که به ایران آمدم، باران می‌بارید.",
+     "r": "ruz-i ke be Irān āmadam, bārān mi-bārid.",
+     "en": "The day I came to Iran, it was raining.",
+     "faV": "روزی که به ایران آمَدَم، باران می‌بارید.",
+     "a": "0cbbacce596f"
+    },
+    {
+     "fa": "خانمی که عینک دارد مادربزرگم است.",
+     "r": "khānom-i ke eynak dārad mādar-bozorg-am ast.",
+     "en": "The lady with the glasses is my grandmother.",
+     "faV": "خانُمی که عَینَک دارَد مادَربُزُرگَم اَست.",
+     "a": "609c266d15a2"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "کسی که دیر بیاید، شام ندارد!",
+     "r": "kas-i ke dir biyāyad, shām na-dārad!",
+     "en": "Whoever comes late gets no dinner!",
+     "options": [
+      "Someone came late to dinner.",
+      "Whoever comes late gets no dinner!",
+      "Nobody is late for dinner."
+     ],
+     "answer": 1,
+     "faV": "کَسی که دیر بیایَد، شام نَدارَد!",
+     "a": "b567bacb190e"
+    },
+    {
+     "fa": "چیزی که گفتی درست است.",
+     "r": "chiz-i ke gofti dorost ast.",
+     "en": "What you said is right.",
+     "options": [
+      "Say something right.",
+      "You didn't say anything.",
+      "What you said is right."
+     ],
+     "answer": 2,
+     "faV": "چیزی که گُفتی دُرُست اَست.",
+     "a": "d1ded81c26dd"
+    },
+    {
+     "fa": "جایی که کار می‌کنم نزدیک است.",
+     "r": "jā-yi ke kār mi-konam nazdik ast.",
+     "en": "The place where I work is close.",
+     "options": [
+      "The place where I work is close.",
+      "I'm looking for work nearby.",
+      "Where do you work?"
+     ],
+     "answer": 0,
+     "faV": "جایی که کار می‌کُنَم نَزدیک اَست.",
+     "a": "e043795760dc"
+    },
+    {
+     "fa": "دختری که عکسش را دیدی دخترخاله‌ی من است.",
+     "r": "dokhtar-i ke aks-ash rā didi dokhtar-khāle-ye man ast.",
+     "en": "The girl whose photo you saw is my cousin.",
+     "options": [
+      "The girl you saw took my photo.",
+      "The girl whose photo you saw is my cousin.",
+      "My cousin saw your photo."
+     ],
+     "answer": 1,
+     "faV": "دُختَری که عَکسَش را دیدی دُختَرخاله‌یِ مَن اَست.",
+     "a": "73708d49a199"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "Who is the man sitting by the window?",
+     "fa": "مردی که کنار پنجره نشسته است کیست؟",
+     "r": "mard-i ke kenār-e panjare neshaste ast kist?",
+     "faV": "مَردی که کِنارِ پَنجَره نِشَسته اَست کیست؟",
+     "a": "3770acf16b4f"
+    },
+    {
+     "en": "The book I bought yesterday is very interesting.",
+     "fa": "کتابی که دیروز خریدم خیلی جالب است.",
+     "r": "ketāb-i ke diruz kharidam kheyli jāleb ast.",
+     "faV": "کِتابی که دیروز خَریدَم خَیلی جالِب اَست.",
+     "a": "e44614f96290"
+    },
+    {
+     "en": "Take whatever you like!",
+     "fa": "هر چیزی که دوست داری بردار!",
+     "r": "har chiz-i ke dust dāri bardār!",
+     "faV": "هَر چیزی که دوست داری بَردار!",
+     "a": "d502a9325b43"
+    },
+    {
+     "en": "The day I came to Iran, it was raining.",
+     "fa": "روزی که به ایران آمدم، باران می‌بارید.",
+     "r": "ruz-i ke be Irān āmadam, bārān mi-bārid.",
+     "faV": "روزی که به ایران آمَدَم، باران می‌بارید.",
+     "a": "0cbbacce596f"
+    },
+    {
+     "en": "I'm looking for someone who knows English.",
+     "fa": "دنبال کسی هستم که انگلیسی بلد باشد.",
+     "r": "donbāl-e kas-i hastam ke engelisi balad bāshad.",
+     "faV": "دُنبالِ کَسی هَستَم که اِنگِلیسی بَلَد باشَد.",
+     "a": "f4891eb8479a"
+    }
+   ]
+  }
+ ],
+ "titleV": "مَردی که کِنارِ پَنجَره نِشَسته اَست",
+ "titleA": "3363a3426f39"
+}

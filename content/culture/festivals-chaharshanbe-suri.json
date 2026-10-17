@@ -1,0 +1,274 @@
+{
+ "id": "festivals-chaharshanbe-suri",
+ "topic": "festivals",
+ "title": "Chaharshanbe Suri, the festival of fire",
+ "titleFa": "چهارشنبه‌سوری",
+ "titleR": "chahārshanbe-suri",
+ "image": "chaharshanbe-suri",
+ "summary": "On the last Tuesday evening of the year, Iranians light bonfires in the streets and jump over them to burn away the old year's troubles – with spoon-banging, eavesdropping for omens and bowls of 'problem-solving' nuts.",
+ "body": [
+  {
+   "h": "The last Tuesday of the year",
+   "md": "On the evening of the last Tuesday before Nowruz, Iran lights up. The festival takes its name from [[چهارشنبه|chahārshanbe|Wednesday]]: in Persian the night before a day belongs to that day, so Tuesday evening is already [[شب چهارشنبه|shab-e chahārshanbe|'Wednesday night']], the eve of the year's last Wednesday. [[سوری|suri]] is usually explained as 'red', for the fire, or as 'festive'. Whatever the word, the idea is simple: to burn away the troubles of the old year before the new one arrives."
+  },
+  {
+   "h": "Where it comes from",
+   "md": "Fire has been honoured in Iran since Zoroastrian times, and the festival's roots are older than Islam, though their exact shape is debated. Most scholars link it to the ancient feast of the last days of the year, when the spirits of the dead were believed to come home and fires were lit on the rooftops to welcome them. The Wednesday came later: in the Islamic period the last Wednesday of the year was thought unlucky, and the fire chased the bad luck away.",
+   "image": "yazd-fire-temple"
+  },
+  {
+   "h": "Jumping over the fire",
+   "md": "At sunset people pile up [[بوته|bute|dry brushwood]] in the alleys and squares, often in rows of small fires, and light them. Then everyone – grandparents, children, neighbours – jumps over the flames, singing [[زردی من از تو، سرخی تو از من|zardi-ye man az to, sorkhi-ye to az man|my yellow to you, your red to me]]: take my pallor and sickness, give me your healthy glow. The ashes are never brought back into the house. Traditionally one of the women carries them out to a crossroads and throws them away; when she knocks on her way back, those inside ask where she has been, and she answers that she brings health and happiness."
+  },
+  {
+   "h": "Spoons, eavesdropping and broken jugs",
+   "md": "Other customs follow in the dark. In [[قاشق‌زنی|ghāshogh-zani|spoon-banging]], people wrapped in a chador or a sheet so as not to be recognised go from door to door banging a spoon on a bowl, and the neighbours drop in sweets, nuts or a little money. In [[فال‌گوش|fāl-gush|eavesdropping for an omen]], someone with a secret wish stands at a crossroads and takes the first words of passers-by as the answer. And some families throw an old [[کوزه|kuze|clay jug]] down from the roof, smashing the bad luck of the year with it."
+  },
+  {
+   "h": "Ajil and supper",
+   "md": "The night has its own snack, [[آجیل مشکل‌گشا|ājil-e moshkel-goshā|'problem-solving' nuts]]: a mix of nuts and dried fruit – pistachios, almonds, hazelnuts, raisins, figs, often seven kinds – bought on the day and shared with others, with a wish that the year's problems will be solved. An old tale about a poor thorn-gatherer is sometimes told as it is handed round. For supper many families make [[آش رشته|āsh-e reshte|herb and noodle soup]], which comes back again at Nowruz.",
+   "image": "pistachio"
+  },
+  {
+   "h": "If you are there",
+   "md": "Today the bonfires share the night with fireworks and loud homemade [[ترقه|targhe|firecrackers]], and every year hospitals and fire brigades are on alert. Wear clothes that do not catch fire easily, keep away from anyone setting off explosives, and jump only over small fires. The greeting is simply [[چهارشنبه‌سوری مبارک|chahārshanbe-suri mobārak|happy Chaharshanbe Suri]]. Above all, join in: this is a street festival, and neighbours who have hardly spoken all year stand round the same fire."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "چهارشنبه‌سوری مبارک!",
+   "r": "chahārshanbe-suri mobārak!",
+   "en": "Happy Chaharshanbe Suri!",
+   "faV": "چَهارشَنبه‌سوری مُبارَک!",
+   "a": "e6f38b7f29db"
+  },
+  {
+   "fa": "زردی من از تو، سرخی تو از من!",
+   "r": "zardi-ye man az to, sorkhi-ye to az man!",
+   "en": "Take my pallor, give me your glow!",
+   "lit": "my yellowness (is) yours, your redness (is) mine",
+   "note": "Sung while jumping over the fire.",
+   "faV": "زَردیِ مَن اَز تو، سُرخیِ تو اَز مَن!",
+   "a": "4c9fe8a5b729"
+  },
+  {
+   "fa": "شب آخرین چهارشنبه‌ی سال آتش روشن می‌کنیم.",
+   "r": "shab-e ākharin chahārshanbe-ye sāl ātash roshan mi-konim.",
+   "en": "On the eve of the last Wednesday of the year we light fires.",
+   "faV": "شَبِ آخَرین چَهارشَنبه‌یِ سال آتَش روشَن می‌کُنیم.",
+   "a": "98215df8abb8"
+  },
+  {
+   "fa": "بچه‌ها از روی آتش می‌پرند.",
+   "r": "bacche-hā az ru-ye ātash mi-parand.",
+   "en": "The children jump over the fire.",
+   "faV": "بَچّه‌ها اَز رویِ آتَش می‌پَرَند.",
+   "a": "678577155ac3"
+  },
+  {
+   "fa": "مواظب باش، لباست آتش نگیرد!",
+   "r": "movāzeb bāsh, lebās-at ātash na-girad!",
+   "en": "Careful – don't let your clothes catch fire!",
+   "col": "مواظب باش، لباست آتیش نگیره!",
+   "colR": "movāzeb bāsh, lebās-et ātish na-gire!",
+   "faV": "مُواظِب باش، لِباسَت آتَش نَگیرَد!",
+   "a": "0a09b0376d42",
+   "colV": "مُواظِب باش، لِباسِت آتیش نَگیره!",
+   "colA": "b8b690bd42db"
+  },
+  {
+   "fa": "بچه‌ها با کاسه و قاشق در خانه‌ها را می‌زنند.",
+   "r": "bacche-hā bā kāse va ghāshogh dar-e khāne-hā rā mi-zanand.",
+   "en": "The children knock on people's doors with a bowl and a spoon.",
+   "faV": "بَچّه‌ها با کاسه و قاشُق دَرِ خانه‌ها را می‌زَنَند.",
+   "a": "b0130494f546"
+  },
+  {
+   "fa": "صاحب‌خانه در کاسه‌شان آجیل و شیرینی ریخت.",
+   "r": "sāheb-khāne dar kāse-shān ājil o shirini rikht.",
+   "en": "The owner of the house put nuts and sweets in their bowl.",
+   "faV": "صاحِب‌خانه دَر کاسه‌شان آجیل و شیرینی ریخت.",
+   "a": "8a01c24ba0b6"
+  },
+  {
+   "fa": "آجیل مشکل‌گشا را با همسایه‌ها قسمت می‌کنیم.",
+   "r": "ājil-e moshkel-goshā rā bā hamsāye-hā ghesmat mi-konim.",
+   "en": "We share our 'problem-solving' nuts with the neighbours.",
+   "faV": "آجیلِ مُشکِل‌گُشا را با هَمسایه‌ها قِسمَت می‌کُنیم.",
+   "a": "fd13052499d8"
+  },
+  {
+   "fa": "او سر چهارراه فال‌گوش ایستاد.",
+   "r": "u sar-e chahār-rāh fāl-gush istād.",
+   "en": "She stood at the crossroads, listening for an omen.",
+   "faV": "او سَرِ چَهارراه فال‌گوش ایستاد.",
+   "a": "679a505619de"
+  },
+  {
+   "fa": "خاکستر آتش را به خانه برنمی‌گردانیم.",
+   "r": "khākestar-e ātash rā be khāne bar-nemi-gardānim.",
+   "en": "We never bring the ashes of the fire back into the house.",
+   "faV": "خاکِستَرِ آتَش را به خانه بَرنِمی‌گَردانیم.",
+   "a": "aec149ee6182"
+  },
+  {
+   "fa": "کوزه‌ی کهنه را از پشت‌بام پایین می‌اندازند.",
+   "r": "kuze-ye kohne rā az posht-bām pāyin mi-andāzand.",
+   "en": "They throw an old clay jug down from the roof.",
+   "faV": "کوزه‌یِ کُهنه را اَز پُشت‌بام پایین می‌اَندازَند.",
+   "a": "77b1a6214a2e"
+  },
+  {
+   "fa": "مراقب ترقه‌ها باشید!",
+   "r": "morāgheb-e targhe-hā bāshid!",
+   "en": "Watch out for the firecrackers!",
+   "faV": "مُراقِبِ تَرقه‌ها باشید!",
+   "a": "47d1e756da16"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "چهارشنبه",
+   "r": "chahārshanbe",
+   "en": "Wednesday",
+   "faV": "چَهارشَنبه",
+   "a": "c76e161090f2"
+  },
+  {
+   "fa": "سه‌شنبه",
+   "r": "se-shanbe",
+   "en": "Tuesday",
+   "faV": "سه‌شَنبه",
+   "a": "46865534e4ac"
+  },
+  {
+   "fa": "آتش",
+   "r": "ātash",
+   "en": "fire",
+   "faV": "آتَش",
+   "a": "c6215dd436c9"
+  },
+  {
+   "fa": "بوته",
+   "r": "bute",
+   "en": "bush; brushwood",
+   "faV": "بوته",
+   "a": "3c5d09c38987"
+  },
+  {
+   "fa": "پریدن",
+   "r": "paridan",
+   "en": "to jump",
+   "faV": "پَریدَن",
+   "a": "b2b02014a460"
+  },
+  {
+   "fa": "زرد",
+   "r": "zard",
+   "en": "yellow; pale",
+   "faV": "زَرد",
+   "a": "3c27f803b54a"
+  },
+  {
+   "fa": "سرخ",
+   "r": "sorkh",
+   "en": "red",
+   "faV": "سُرخ",
+   "a": "e5b75a1dbc48"
+  },
+  {
+   "fa": "قاشق",
+   "r": "ghāshogh",
+   "en": "spoon",
+   "faV": "قاشُق",
+   "a": "d44d91e35ae3"
+  },
+  {
+   "fa": "کاسه",
+   "r": "kāse",
+   "en": "bowl",
+   "faV": "کاسه",
+   "a": "e2ea37bba35e"
+  },
+  {
+   "fa": "فال",
+   "r": "fāl",
+   "en": "omen, fortune",
+   "faV": "فال",
+   "a": "1a913753f7b5"
+  },
+  {
+   "fa": "فال‌گوش",
+   "r": "fāl-gush",
+   "en": "eavesdropping for an omen",
+   "faV": "فال‌گوش",
+   "a": "6af4b292b426"
+  },
+  {
+   "fa": "کوزه",
+   "r": "kuze",
+   "en": "clay jug",
+   "faV": "کوزه",
+   "a": "7f31a1d700d0"
+  },
+  {
+   "fa": "آجیل",
+   "r": "ājil",
+   "en": "mixed nuts and dried fruit",
+   "faV": "آجیل",
+   "a": "2138287559aa"
+  },
+  {
+   "fa": "مشکل‌گشا",
+   "r": "moshkel-goshā",
+   "en": "'problem-solving'",
+   "faV": "مُشکِل‌گُشا",
+   "a": "92e60a784365"
+  },
+  {
+   "fa": "چهارراه",
+   "r": "chahār-rāh",
+   "en": "crossroads",
+   "faV": "چَهارراه",
+   "a": "551eb05f7025"
+  },
+  {
+   "fa": "خاکستر",
+   "r": "khākestar",
+   "en": "ash, ashes",
+   "faV": "خاکِستَر",
+   "a": "b7e2ea677197"
+  },
+  {
+   "fa": "ترقه",
+   "r": "targhe",
+   "en": "firecracker",
+   "faV": "تَرقه",
+   "a": "8809d18c054a"
+  },
+  {
+   "fa": "همسایه",
+   "r": "hamsāye",
+   "en": "neighbour",
+   "faV": "هَمسایه",
+   "a": "1eebc0594655"
+  },
+  {
+   "fa": "بدشانسی",
+   "r": "bad-shānsi",
+   "en": "bad luck",
+   "faV": "بَدشانسی",
+   "a": "0d90a6ea786d"
+  }
+ ],
+ "facts": [
+  "Chaharshanbe Suri is held on the evening of the last Tuesday before Nowruz – in Persian, 'Wednesday night' is the night before Wednesday.",
+  "The Persian week starts on Saturday, shanbe; chahārshanbe, Wednesday, is literally 'four (after) Saturday'.",
+  "People jump over the fire singing 'zardi-ye man az to, sorkhi-ye to az man' – my yellow (pallor) to you, your red (health) to me.",
+  "In ghashogh-zani, disguised neighbours bang spoons on bowls at doors and are given sweets and nuts – rather like trick-or-treating.",
+  "The ashes of the fire are not brought back into the house but thrown away, traditionally at a crossroads.",
+  "Scholars link the festival to the ancient feast of the last days of the year, when the spirits of the dead were believed to return home."
+ ],
+ "titleV": "چَهارشَنبه‌سوری",
+ "titleA": "63171e1696a0"
+}

@@ -1,0 +1,1176 @@
+{
+ "id": "a2-12-at-the-doctor",
+ "level": "A2",
+ "n": 12,
+ "title": "At the doctor's: symptoms, advice and the pharmacy",
+ "titleFa": "در مطب دکتر",
+ "titleR": "dar matab-e doktor",
+ "intro": "In A1 you learned to say what hurts and to buy something at the pharmacy. Now you go further: you make an appointment, describe your symptoms to a doctor, understand the advice you are given – باید, نباید and the gentler بهتر است – and follow the instructions on a box of tablets or a bottle of syrup. You also learn what Iranians say to someone who is ill.",
+ "goals": [
+  "make an appointment and describe your symptoms",
+  "say how long you have been ill with از … and … است که",
+  "understand and give advice with باید، نباید and بهتر است",
+  "follow the instructions for tablets, syrup and injections",
+  "say the right thing to someone who is ill"
+ ],
+ "image": "al-razi",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "In Dr Mahsa's surgery",
+   "context": "Tom has felt ill for three days. Sara sends him to her sister Mahsa, a doctor who works in a hospital in the mornings and sees patients in her own surgery in the evenings.",
+   "lines": [
+    {
+     "who": "Mahsa",
+     "fa": "سلام، بفرمایید بنشینید. چه شده است؟",
+     "r": "salām, befarmāyid beneshinid. che shode ast?",
+     "en": "Hello, please sit down. What's the matter?",
+     "col": "سلام، بفرمایید بشینید. چی شده؟",
+     "colR": "salām, befarmāyid beshinid. chi shode?",
+     "faV": "سَلام، بِفَرمایید بِنِشینید. چه شُده اَست؟",
+     "a": "a724f74a0803",
+     "colV": "سَلام، بِفَرمایید بِشینید. چی شُده؟",
+     "colA": "a5d63e306b00"
+    },
+    {
+     "who": "Tom",
+     "fa": "سلام، خانم دکتر. فکر می‌کنم سرما خورده‌ام.",
+     "r": "salām, khānom doktor. fekr mi-konam sarmā khorde-am.",
+     "en": "Hello, doctor. I think I've caught a cold.",
+     "col": "سلام، خانم دکتر. فکر کنم سرما خوردم.",
+     "colR": "salām, khānom doktor. fekr konam sarmā khordam.",
+     "faV": "سَلام، خانُم دُکتُر. فِکر می‌کُنَم سَرما خورده‌اَم.",
+     "a": "3b43e2aaad6c",
+     "colV": "سَلام، خانُم دُکتُر. فِکر کُنَم سَرما خوردَم.",
+     "colA": "e1ba02df5d10"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "از کی مریض هستید؟",
+     "r": "az key mariz hastid?",
+     "en": "How long have you been ill?",
+     "lit": "since when are you ill?",
+     "col": "از کی مریضین؟",
+     "colR": "az key mariz-in?",
+     "faV": "اَز کَی مَریض هَستید؟",
+     "a": "b42e5ea25893",
+     "colV": "اَز کَی مَریضین؟",
+     "colA": "f3e331532408"
+    },
+    {
+     "who": "Tom",
+     "fa": "از سه روز پیش. گلویم درد می‌کند و خیلی سرفه می‌کنم.",
+     "r": "az se ruz-e pish. galu-yam dard mi-konad o kheyli sorfe mi-konam.",
+     "en": "Since three days ago. My throat hurts and I'm coughing a lot.",
+     "col": "از سه روز پیش. گلوم درد می‌کنه و خیلی سرفه می‌کنم.",
+     "colR": "az se ruz-e pish. galu-m dard mi-kone o kheyli sorfe mi-konam.",
+     "faV": "اَز سه روزِ پیش. گَلویَم دَرد می‌کُنَد و خَیلی سُرفه می‌کُنَم.",
+     "a": "e3c9535947e3",
+     "colV": "اَز سه روزِ پیش. گَلوم دَرد می‌کُنه و خَیلی سُرفه می‌کُنَم.",
+     "colA": "65d3d2cd145c"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "تب هم دارید؟",
+     "r": "tab ham dārid?",
+     "en": "Do you have a temperature too?",
+     "col": "تب هم دارین؟",
+     "colR": "tab ham dārin?",
+     "faV": "تَب هَم دارید؟",
+     "a": "d6a3a267c7cc",
+     "colV": "تَب هَم دارین؟",
+     "colA": "391f336442cc"
+    },
+    {
+     "who": "Tom",
+     "fa": "دیشب کمی تب داشتم و سرم هم درد می‌کرد.",
+     "r": "dishab kam-i tab dāshtam o sar-am ham dard mi-kard.",
+     "en": "Last night I had a slight temperature, and my head was aching too.",
+     "col": "دیشب یه کم تب داشتم، سرم هم درد می‌کرد.",
+     "colR": "dishab ye kam tab dāshtam, sar-am ham dard mi-kard.",
+     "faV": "دیشَب کَمی تَب داشتَم و سَرَم هَم دَرد می‌کَرد.",
+     "a": "33b3c5327fd4",
+     "colV": "دیشَب یه کَم تَب داشتَم، سَرَم هَم دَرد می‌کَرد.",
+     "colA": "2325f3887a4e"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "لطفاً دهانتان را باز کنید. بله، گلویتان کمی قرمز است.",
+     "r": "lotfan dahān-etān rā bāz konid. bale, galu-yetān kam-i ghermez ast.",
+     "en": "Open your mouth, please. Yes, your throat is a little red.",
+     "col": "لطفاً دهنتونو باز کنین. بله، گلوتون یه کم قرمزه.",
+     "colR": "lotfan dahan-etun-o bāz konin. bale, galu-tun ye kam ghermez-e.",
+     "faV": "لُطفاً دَهانِتان را باز کُنید. بَله، گَلویِتان کَمی قِرمِز اَست.",
+     "a": "1ce1b3f3bf2b",
+     "colV": "لُطفاً دَهَنِتونو باز کُنین. بَله، گَلوتون یه کَم قِرمِزه.",
+     "colA": "2475f0eefbb5"
+    },
+    {
+     "who": "Tom",
+     "fa": "خطرناک است؟ باید نگران باشم؟",
+     "r": "khatarnāk ast? bāyad negarān bāsham?",
+     "en": "Is it dangerous? Should I be worried?",
+     "col": "خطرناکه؟ باید نگران باشم؟",
+     "colR": "khatarnāk-e? bāyad negarān bāsham?",
+     "faV": "خَطَرناک اَست؟ بایَد نِگَران باشَم؟",
+     "a": "1534e0ec4fa4",
+     "colV": "خَطَرناکه؟ بایَد نِگَران باشَم؟",
+     "colA": "ac846ff364b3"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "نه، نگران نباشید. یک سرماخوردگی ساده است.",
+     "r": "na, negarān na-bāshid. yek sarmā-khordegi-ye sāde ast.",
+     "en": "No, don't worry. It's just an ordinary cold.",
+     "col": "نه، نگران نباشین. یه سرماخوردگی ساده‌ست.",
+     "colR": "na, negarān na-bāshin. ye sarmā-khordegi-ye sāde-st.",
+     "faV": "نه، نِگَران نَباشید. یِک سَرماخوردِگیِ ساده اَست.",
+     "a": "9490c2e2dda6",
+     "colV": "نه، نِگَران نَباشین. یه سَرماخوردِگیِ ساده‌ست.",
+     "colA": "0a3ca4a3a8a1"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "باید چند روز در خانه استراحت کنید و زیاد مایعات بخورید.",
+     "r": "bāyad chand ruz dar khāne esterāhat konid o ziyād māye'āt bokhorid.",
+     "en": "You should rest at home for a few days and drink plenty of fluids.",
+     "col": "باید چند روز خونه استراحت کنین و زیاد مایعات بخورین.",
+     "colR": "bāyad chand ruz khune esterāhat konin o ziyād māye'āt bokhorin.",
+     "faV": "بایَد چَند روز دَر خانه اِستِراحَت کُنید و زیاد مایِعات بُخورید.",
+     "a": "12560dbd2ee5",
+     "colV": "بایَد چَند روز خونه اِستِراحَت کُنین و زیاد مایِعات بُخورین.",
+     "colA": "57b2237f99a3"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "برایتان قرص و شربت می‌نویسم. آنتی‌بیوتیک لازم نیست.",
+     "r": "barā-yetān ghors o sharbat mi-nevisam. āntibiyotik lāzem nist.",
+     "en": "I'll prescribe you some tablets and a syrup. You don't need antibiotics.",
+     "faV": "بَرایِتان قُرص و شَربَت می‌نِویسَم. آنتی‌بیوتیک لازِم نیست.",
+     "a": "512ee4bff9ac"
+    },
+    {
+     "who": "Tom",
+     "fa": "آمپول هم لازم است؟ من از آمپول می‌ترسم!",
+     "r": "āmpul ham lāzem ast? man az āmpul mi-tarsam!",
+     "en": "Do I need an injection as well? I'm scared of injections!",
+     "col": "آمپول هم لازمه؟ من از آمپول می‌ترسم!",
+     "colR": "āmpul ham lāzem-e? man az āmpul mi-tarsam!",
+     "faV": "آمپول هَم لازِم اَست؟ مَن اَز آمپول می‌تَرسَم!",
+     "a": "38084fdb28ea",
+     "colV": "آمپول هَم لازِمه؟ مَن اَز آمپول می‌تَرسَم!",
+     "colA": "c384387b2751"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "نه، آمپول لازم نیست. اما بهتر است تا پنج‌شنبه به کلاس نروید.",
+     "r": "na, āmpul lāzem nist. ammā behtar ast tā panj-shanbe be kelās na-ravid.",
+     "en": "No, you don't need an injection. But you'd better not go to class until Thursday.",
+     "col": "نه، آمپول لازم نیست. ولی بهتره تا پنج‌شنبه کلاس نرین.",
+     "colR": "na, āmpul lāzem nist. vali behtar-e tā panj-shanbe kelās na-rin.",
+     "faV": "نه، آمپول لازِم نیست. اَمّا بِهتَر اَست تا پَنج‌شَنبه به کِلاس نَرَوید.",
+     "a": "91e536428bce",
+     "colV": "نه، آمپول لازِم نیست. وَلی بِهتَره تا پَنج‌شَنبه کِلاس نَرین.",
+     "colA": "2fe8a17c3519"
+    },
+    {
+     "who": "Tom",
+     "fa": "چشم، خانم دکتر. خیلی ممنون.",
+     "r": "chashm, khānom doktor. kheyli mamnun.",
+     "en": "I will, doctor. Thank you very much.",
+     "faV": "چَشم، خانُم دُکتُر. خَیلی مَمنون.",
+     "a": "777c64ef2546"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Three things a doctor's visit adds",
+   "md": "In A1 you said what hurts: [[سرم درد می‌کند|sar-am dard mi-konad|my head hurts]]. A visit to the doctor adds three things.\n\n**How long?** Persian uses the *present* with [[از|az|since]] where English uses *have been*: [[از سه روز پیش مریضم|az se ruz-e pish mariz-am|I've been ill for three days]] – literally *I am ill since three days ago*. A second pattern puts the time first: [[سه روز است که سرفه می‌کنم|se ruz ast ke sorfe mi-konam|I've been coughing for three days]] – *it is three days that I cough*.\n\n**Eating your medicine.** You catch a cold by *eating* it – [[سرما خوردن|sarmā khordan|to catch a cold]], literally *to eat cold* – and you *eat* the cure too: [[قرص بخورید|ghors bokhorid|take the tablets]], [[شربت بخورید|sharbat bokhorid|take the syrup]].\n\n**Advice.** Doctors use [[باید|bāyad|must, should]] and the softer [[بهتر است|behtar ast|it's better, you'd better]], both followed by the subjunctive: [[بهتر است به کلاس نروید|behtar ast be kelās na-ravid|you'd better not go to class]]."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "پزشک",
+     "r": "pezeshk",
+     "en": "doctor, physician",
+     "pos": "n",
+     "note": "the formal word; everyday دکتر doktor. A GP is پزشک عمومی pezeshk-e omumi",
+     "faV": "پِزِشک",
+     "a": "dd5b8a2aa402"
+    },
+    {
+     "fa": "مطب",
+     "r": "matab",
+     "en": "doctor's surgery, practice",
+     "pos": "n",
+     "faV": "مَطَب",
+     "a": "6e99d58fc45a"
+    },
+    {
+     "fa": "نوبت",
+     "r": "nowbat",
+     "en": "appointment; turn",
+     "pos": "n",
+     "note": "نوبت گرفتن = to make an appointment",
+     "ex": {
+      "fa": "برای فردا ساعت پنج نوبت گرفتم.",
+      "r": "barā-ye fardā sā'at-e panj nowbat gereftam.",
+      "en": "I made an appointment for five o'clock tomorrow.",
+      "faV": "بَرایِ فَردا ساعَتِ پَنج نَوبَت گِرِفتَم.",
+      "a": "30ff1efb64f4"
+     },
+     "faV": "نَوبَت",
+     "a": "1a5343575802"
+    },
+    {
+     "fa": "منشی",
+     "r": "monshi",
+     "en": "receptionist, secretary",
+     "pos": "n",
+     "faV": "مُنشی",
+     "a": "c6096905fa32"
+    },
+    {
+     "fa": "معاینه کردن",
+     "r": "mo'āyene kardan",
+     "en": "to examine",
+     "pos": "v",
+     "ex": {
+      "fa": "دکتر بچه را معاینه کرد.",
+      "r": "doktor bacche rā mo'āyene kard.",
+      "en": "The doctor examined the child.",
+      "faV": "دُکتُر بَچّه را مُعایِنه کَرد.",
+      "a": "c3b2e4b2318f"
+     },
+     "faV": "مُعایِنه کَردَن",
+     "a": "230052bcd25f"
+    },
+    {
+     "fa": "سرما خوردن",
+     "r": "sarmā khordan",
+     "en": "to catch a cold",
+     "pos": "v",
+     "note": "literally 'to eat cold'; the noun is سرماخوردگی sarmā-khordegi",
+     "ex": {
+      "fa": "فکر می‌کنم سرما خورده‌ام.",
+      "r": "fekr mi-konam sarmā khorde-am.",
+      "en": "I think I've caught a cold.",
+      "faV": "فِکر می‌کُنَم سَرما خورده‌اَم.",
+      "a": "35eb57372d02"
+     },
+     "faV": "سَرما خوردَن",
+     "a": "88020a9a9fd4"
+    },
+    {
+     "fa": "آنفولانزا",
+     "r": "ānfolānzā",
+     "en": "flu",
+     "pos": "n",
+     "faV": "آنفولانزا",
+     "a": "1ea633ad825e"
+    },
+    {
+     "fa": "گلودرد",
+     "r": "galu-dard",
+     "en": "sore throat",
+     "pos": "n",
+     "faV": "گَلودَرد",
+     "a": "3351d3ea736e"
+    },
+    {
+     "fa": "سردرد",
+     "r": "sar-dard",
+     "en": "headache",
+     "pos": "n",
+     "faV": "سَردَرد",
+     "a": "df256b60b5b2"
+    },
+    {
+     "fa": "بینی",
+     "r": "bini",
+     "en": "nose",
+     "pos": "n",
+     "note": "بینی‌ام گرفته است – my nose is blocked",
+     "faV": "بینی",
+     "a": "8c9604014dbc"
+    },
+    {
+     "fa": "حالت تهوع",
+     "r": "hālat-e tahavvo'",
+     "en": "nausea",
+     "pos": "n",
+     "note": "حالت تهوع دارم – I feel sick",
+     "faV": "حالَتِ تَهَوُّع",
+     "a": "4dc77356f91c"
+    },
+    {
+     "fa": "حساسیت",
+     "r": "hassāsiyyat",
+     "en": "allergy; sensitivity",
+     "pos": "n",
+     "ex": {
+      "fa": "به پنی‌سیلین حساسیت دارم.",
+      "r": "be penisilin hassāsiyyat dāram.",
+      "en": "I'm allergic to penicillin.",
+      "faV": "به پِنی‌سیلین حَسّاسیَّت دارَم.",
+      "a": "80a3456470a7"
+     },
+     "faV": "حَسّاسیَّت",
+     "a": "ba7d49c2d56a"
+    },
+    {
+     "fa": "عفونت",
+     "r": "ofunat",
+     "en": "infection",
+     "pos": "n",
+     "faV": "عُفونَت",
+     "a": "ded93499700e"
+    },
+    {
+     "fa": "دارو",
+     "r": "dāru",
+     "en": "medicine, drug",
+     "pos": "n",
+     "note": "داروخانه, a pharmacy, is literally 'medicine house'",
+     "faV": "دارو",
+     "a": "3b72256534dd"
+    },
+    {
+     "fa": "نسخه",
+     "r": "noskhe",
+     "en": "prescription",
+     "pos": "n",
+     "note": "نسخه نوشتن = to write a prescription",
+     "faV": "نُسخه",
+     "a": "be9846965a66"
+    },
+    {
+     "fa": "قرص",
+     "r": "ghors",
+     "en": "tablet, pill",
+     "pos": "n",
+     "faV": "قُرص",
+     "a": "1eb2098c2211"
+    },
+    {
+     "fa": "شربت",
+     "r": "sharbat",
+     "en": "syrup (medicine); a sweet cold drink",
+     "pos": "n",
+     "note": "the word behind English 'sherbet'",
+     "faV": "شَربَت",
+     "a": "2b66be29b9b1"
+    },
+    {
+     "fa": "آمپول",
+     "r": "āmpul",
+     "en": "injection, jab",
+     "pos": "n",
+     "note": "آمپول زدن = to give or to have an injection",
+     "faV": "آمپول",
+     "a": "aee95251e3ed"
+    },
+    {
+     "fa": "داروساز",
+     "r": "dāru-sāz",
+     "en": "pharmacist",
+     "pos": "n",
+     "note": "literally 'medicine maker'",
+     "faV": "داروساز",
+     "a": "4156edf631cc"
+    },
+    {
+     "fa": "مایعات",
+     "r": "māye'āt",
+     "en": "fluids",
+     "pos": "n",
+     "faV": "مایِعات",
+     "a": "0abe46edea90"
+    },
+    {
+     "fa": "بهتر است",
+     "r": "behtar ast",
+     "en": "it's better (to), you'd better",
+     "pos": "phrase",
+     "col": "بهتره",
+     "colR": "behtar-e",
+     "faV": "بِهتَر اَست",
+     "a": "6e14138623d3",
+     "colV": "بِهتَره",
+     "colA": "c1f4e9d01a18"
+    },
+    {
+     "fa": "خوب شدن",
+     "r": "khub shodan",
+     "en": "to get better",
+     "pos": "v",
+     "ex": {
+      "fa": "زودتر خوب شوید!",
+      "r": "zud-tar khub shavid!",
+      "en": "Get well soon!",
+      "faV": "زودتَر خوب شَوید!",
+      "a": "5e2e064248d7"
+     },
+     "faV": "خوب شُدَن",
+     "a": "ef902506d0f5"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Saying what's wrong – and for how long",
+   "md": "Symptoms come in three patterns. Some you *have*: [[تب دارم|tab dāram|I have a temperature]], [[سرفه دارم|sorfe dāram|I have a cough]]. Some are a body part that *does pain*, with the possessive ending: [[سرم درد می‌کند|sar-am dard mi-konad|my head hurts]]. And some are compound verbs: [[سرفه می‌کنم|sorfe mi-konam|I'm coughing]], [[سرما خورده‌ام|sarmā khorde-am|I've caught a cold]] – the present perfect from lesson 2, because the cold began in the past and is still with you.\n\nFor **how long**, Persian keeps the present tense: [[از دیروز تب دارم|az diruz tab dāram|I've had a temperature since yesterday]]. Or turn it round with [[است که|ast ke]]: [[دو روز است که سرفه می‌کنم|do ruz ast ke sorfe mi-konam|I've been coughing for two days]]. The doctor asks [[از کی؟|az key?|since when?]] or [[چند وقت است؟|chand vaght ast?|how long has it been?]]",
+   "table": {
+    "head": [
+     "English",
+     "Persian",
+     "Literally"
+    ],
+    "rows": [
+     [
+      "I have a temperature",
+      "[[تب دارم|tab dāram]]",
+      "fever I-have"
+     ],
+     [
+      "I have a cough, I'm coughing",
+      "[[سرفه می‌کنم|sorfe mi-konam]]",
+      "cough I-do"
+     ],
+     [
+      "I've caught a cold",
+      "[[سرما خورده‌ام|sarmā khorde-am]]",
+      "cold I-have-eaten"
+     ],
+     [
+      "I have a headache",
+      "[[سرم درد می‌کند|sar-am dard mi-konad]]",
+      "my head does pain"
+     ],
+     [
+      "I have a sore throat",
+      "[[گلویم درد می‌کند|galu-yam dard mi-konad]]",
+      "my throat does pain"
+     ],
+     [
+      "My nose is blocked",
+      "[[بینی‌ام گرفته است|bini-am gerefte ast]]",
+      "my nose is taken"
+     ],
+     [
+      "I feel sick",
+      "[[حالت تهوع دارم|hālat-e tahavvo' dāram]]",
+      "a state of nausea I-have"
+     ],
+     [
+      "I feel dizzy",
+      "[[سرم گیج می‌رود|sar-am gij mi-ravad]]",
+      "my head goes dizzy"
+     ],
+     [
+      "I've no appetite",
+      "[[اشتها ندارم|eshtehā na-dāram]]",
+      "appetite I-don't-have"
+     ],
+     [
+      "I'm allergic to…",
+      "[[به … حساسیت دارم|be … hassāsiyyat dāram]]",
+      "to … sensitivity I-have"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "از دیروز تب دارم و سرم درد می‌کند.",
+     "r": "az diruz tab dāram o sar-am dard mi-konad.",
+     "en": "I've had a temperature since yesterday and my head aches.",
+     "lit": "since yesterday I have fever and my head does pain",
+     "faV": "اَز دیروز تَب دارَم و سَرَم دَرد می‌کُنَد.",
+     "a": "d2465fd55ebf"
+    },
+    {
+     "fa": "دو روز است که بچه‌ام سرفه می‌کند.",
+     "r": "do ruz ast ke bacche-am sorfe mi-konad.",
+     "en": "My child has been coughing for two days.",
+     "lit": "it is two days that my child coughs",
+     "faV": "دو روز اَست که بَچّه‌اَم سُرفه می‌کُنَد.",
+     "a": "fd16c839b9de"
+    },
+    {
+     "fa": "فکر می‌کنم آنفولانزا گرفته‌ام.",
+     "r": "fekr mi-konam ānfolānzā gerefte-am.",
+     "en": "I think I've got the flu.",
+     "col": "فکر کنم آنفولانزا گرفتم.",
+     "colR": "fekr konam ānfolānzā gereftam.",
+     "faV": "فِکر می‌کُنَم آنفولانزا گِرِفته‌اَم.",
+     "a": "7486dad6956a",
+     "colV": "فِکر کُنَم آنفولانزا گِرِفتَم.",
+     "colA": "741a3faa747c"
+    },
+    {
+     "fa": "از دیشب حالت تهوع دارم و اشتها ندارم.",
+     "r": "az dishab hālat-e tahavvo' dāram o eshtehā na-dāram.",
+     "en": "I've felt sick since last night and I have no appetite.",
+     "faV": "اَز دیشَب حالَتِ تَهَوُّع دارَم و اِشتِها نَدارَم.",
+     "a": "8238211c67e3"
+    },
+    {
+     "fa": "به پنی‌سیلین حساسیت دارم.",
+     "r": "be penisilin hassāsiyyat dāram.",
+     "en": "I'm allergic to penicillin.",
+     "faV": "به پِنی‌سیلین حَسّاسیَّت دارَم.",
+     "a": "80a3456470a7"
+    },
+    {
+     "fa": "سرم گیج می‌رود و بینی‌ام گرفته است.",
+     "r": "sar-am gij mi-ravad o bini-am gerefte ast.",
+     "en": "I feel dizzy and my nose is blocked.",
+     "col": "سرم گیج می‌ره و بینیم گرفته.",
+     "colR": "sar-am gij mi-re o bini-m gerefte.",
+     "faV": "سَرَم گیج می‌رَوَد و بینی‌اَم گِرِفته اَست.",
+     "a": "96759bd314ea",
+     "colV": "سَرَم گیج می‌ره و بینیم گِرِفته.",
+     "colA": "b6a9f81ae432"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Advice: باید، نباید and بهتر است",
+   "md": "[[باید|bāyad|must, should]] never changes; the verb after it is in the subjunctive and carries the person: [[باید استراحت کنید|bāyad esterāhat konid|you should rest]], [[باید بخوابم|bāyad bekhābam|I must sleep]]. Its negative [[نباید|na-bāyad]] means *must not*: [[نباید سیگار بکشید|na-bāyad sigār bekeshid|you mustn't smoke]].\n\nDoctors, parents and friends often prefer the gentler [[بهتر است|behtar ast|it's better]] – again with the subjunctive. To advise someone *not* to do something, make the subjunctive negative: [[بهتر است بیرون نروید|behtar ast birun na-ravid|you'd better not go out]]. In speech it shrinks to [[بهتره|behtare]].\n\n*There's no need* is [[لازم نیست|lāzem nist]] + subjunctive – useful for calming a nervous patient.",
+   "table": {
+    "head": [
+     "Persian",
+     "English",
+     "Tone"
+    ],
+    "rows": [
+     [
+      "[[باید استراحت کنید.|bāyad esterāhat konid.]]",
+      "You must / should rest.",
+      "firm"
+     ],
+     [
+      "[[نباید سیگار بکشید.|na-bāyad sigār bekeshid.]]",
+      "You mustn't smoke.",
+      "firm"
+     ],
+     [
+      "[[بهتر است استراحت کنید.|behtar ast esterāhat konid.]]",
+      "You'd better rest. / It's best to rest.",
+      "gentle"
+     ],
+     [
+      "[[بهتر است بیرون نروید.|behtar ast birun na-ravid.]]",
+      "You'd better not go out.",
+      "gentle"
+     ],
+     [
+      "[[لازم است آزمایش خون بدهید.|lāzem ast āzmāyesh-e khun bedahid.]]",
+      "You need to have a blood test.",
+      "neutral"
+     ],
+     [
+      "[[لازم نیست به بیمارستان بروید.|lāzem nist be bimārestān beravid.]]",
+      "There's no need to go to hospital.",
+      "reassuring"
+     ],
+     [
+      "[[اگر بهتر نشدید، دوباره بیایید.|agar behtar na-shodid, dobāre biyāyid.]]",
+      "If you don't get better, come back.",
+      "اگر + past, as in lesson 8"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "باید روزی سه بار از این قرص بخورید.",
+     "r": "bāyad ruz-i se bār az in ghors bokhorid.",
+     "en": "You should take this tablet three times a day.",
+     "faV": "بایَد روزی سه بار اَز این قُرص بُخورید.",
+     "a": "0c45267498f8"
+    },
+    {
+     "fa": "نباید با معده‌ی خالی دارو بخورید.",
+     "r": "na-bāyad bā me'de-ye khāli dāru bokhorid.",
+     "en": "You mustn't take medicine on an empty stomach.",
+     "faV": "نَبایَد با مِعده‌یِ خالی دارو بُخورید.",
+     "a": "b624945c949a"
+    },
+    {
+     "fa": "بهتر است امشب زود بخوابی.",
+     "r": "behtar ast emshab zud bekhābi.",
+     "en": "You'd better go to bed early tonight.",
+     "col": "بهتره امشب زود بخوابی.",
+     "colR": "behtar-e emshab zud bekhābi.",
+     "faV": "بِهتَر اَست اِمشَب زود بِخوابی.",
+     "a": "23118c999094",
+     "colV": "بِهتَره اِمشَب زود بِخوابی.",
+     "colA": "89c85746eaba"
+    },
+    {
+     "fa": "بهتر است چند روز سر کار نروید.",
+     "r": "behtar ast chand ruz sar-e kār na-ravid.",
+     "en": "It's best not to go to work for a few days.",
+     "faV": "بِهتَر اَست چَند روز سَرِ کار نَرَوید.",
+     "a": "a624a599ce37"
+    },
+    {
+     "fa": "لازم نیست نگران باشید.",
+     "r": "lāzem nist negarān bāshid.",
+     "en": "There's no need to worry.",
+     "faV": "لازِم نیست نِگَران باشید.",
+     "a": "3d4116a6f3f8"
+    },
+    {
+     "fa": "با این تب نباید ورزش کنی.",
+     "r": "bā in tab na-bāyad varzesh koni.",
+     "en": "With this temperature you shouldn't do any sport.",
+     "faV": "با این تَب نَبایَد وَرزِش کُنی.",
+     "a": "ddd08bc2a32e"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "At the pharmacy: how much and how often",
+   "md": "Medicine comes as [[قرص|ghors|tablets]], [[کپسول|kapsul|capsules]], [[شربت|sharbat|syrup]], [[قطره|ghatre|drops]], [[پماد|pomād|ointment]] or [[آمپول|āmpul|an injection]] – and you *eat* most of them: [[قرص بخورید|ghors bokhorid|take the tablets]]. Ointment and injections are *struck* instead: [[پماد بزنید|pomād bezanid|put on the ointment]], [[آمپول بزنید|āmpul bezanid|have the injection]].\n\nThe instructions use one neat trick: the indefinite [[ـی|-i]] on a time word means *per*: [[روزی سه بار|ruz-i se bār|three times a day]], [[هفته‌ای یک بار|hafte-i yek bār|once a week]]. [[هر|har|every]] works too: [[هر هشت ساعت|har hasht sā'at|every eight hours]].",
+   "table": {
+    "head": [
+     "Persian",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[روزی سه بار|ruz-i se bār]]",
+      "three times a day"
+     ],
+     [
+      "[[هر هشت ساعت یک قرص|har hasht sā'at yek ghors]]",
+      "one tablet every eight hours"
+     ],
+     [
+      "[[یک قاشق شربت|yek ghāshogh sharbat]]",
+      "a spoonful of syrup"
+     ],
+     [
+      "[[قبل از غذا|ghabl az ghazā]]",
+      "before meals"
+     ],
+     [
+      "[[بعد از غذا|ba'd az ghazā]]",
+      "after meals"
+     ],
+     [
+      "[[ناشتا|nāshtā]]",
+      "on an empty stomach"
+     ],
+     [
+      "[[شب‌ها قبل از خواب|shab-hā ghabl az khāb]]",
+      "at night, before bed"
+     ],
+     [
+      "[[روزی دو قطره در هر چشم|ruz-i do ghatre dar har chashm]]",
+      "two drops in each eye a day"
+     ],
+     [
+      "[[بدون نسخه|bedun-e noskhe]]",
+      "without a prescription"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "روزی سه بار، بعد از غذا، یک قرص بخورید.",
+     "r": "ruz-i se bār, ba'd az ghazā, yek ghors bokhorid.",
+     "en": "Take one tablet three times a day, after meals.",
+     "faV": "روزی سه بار، بَعد اَز غَذا، یِک قُرص بُخورید.",
+     "a": "b3b6fc52de3f"
+    },
+    {
+     "fa": "این شربت را هر هشت ساعت یک قاشق بخورید.",
+     "r": "in sharbat rā har hasht sā'at yek ghāshogh bokhorid.",
+     "en": "Take a spoonful of this syrup every eight hours.",
+     "faV": "این شَربَت را هَر هَشت ساعَت یِک قاشُق بُخورید.",
+     "a": "41a333375cca"
+    },
+    {
+     "fa": "ببخشید، برای سرفه چیزی دارید؟",
+     "r": "bebakhshid, barā-ye sorfe chiz-i dārid?",
+     "en": "Excuse me, have you got anything for a cough?",
+     "faV": "بِبَخشید، بَرایِ سُرفه چیزی دارید؟",
+     "a": "38560265c3c7"
+    },
+    {
+     "fa": "این دارو را بدون نسخه می‌دهید؟",
+     "r": "in dāru rā bedun-e noskhe mi-dahid?",
+     "en": "Do you sell this medicine without a prescription?",
+     "col": "این دارو رو بدون نسخه می‌دین؟",
+     "colR": "in dāru ro bedun-e noskhe mi-din?",
+     "faV": "این دارو را بِدونِ نُسخه می‌دَهید؟",
+     "a": "1db133655bc8",
+     "colV": "این دارو رو بِدونِ نُسخه می‌دین؟",
+     "colA": "4aaa019e4fad"
+    },
+    {
+     "fa": "آمپول را در تزریقات داروخانه می‌زنند.",
+     "r": "āmpul rā dar tazrighāt-e dāru-khāne mi-zanand.",
+     "en": "Injections are given in the pharmacy's injection room.",
+     "lit": "they strike the injection in the injections (room) of the pharmacy",
+     "faV": "آمپول را دَر تَزریقاتِ داروخانه می‌زَنَند.",
+     "a": "c60ba642fd60"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Tom's email to Mr Karimi",
+   "intro": "Tom writes to his teacher to explain why he will miss class. Notice how he reports what the doctor said with گفت که … باید.",
+   "sentences": [
+    {
+     "fa": "آقای کریمی عزیز، سلام.",
+     "r": "āghā-ye Karimi-ye aziz, salām.",
+     "en": "Dear Mr Karimi, hello.",
+     "faV": "آقایِ کَریمیِ عَزیز، سَلام.",
+     "a": "49bbe8887153"
+    },
+    {
+     "fa": "متأسفانه این هفته نمی‌توانم سر کلاس بیایم.",
+     "r": "mota'assefāne in hafte nemi-tavānam sar-e kelās biyāyam.",
+     "en": "Unfortunately I can't come to class this week.",
+     "faV": "مُتَأَسِّفانه این هَفته نِمی‌تَوانَم سَرِ کِلاس بیایَم.",
+     "a": "a91428fb9b4f"
+    },
+    {
+     "fa": "از شنبه سرما خورده‌ام و حالم اصلاً خوب نیست.",
+     "r": "az shanbe sarmā khorde-am o hāl-am aslan khub nist.",
+     "en": "I've had a cold since Saturday and I really don't feel well.",
+     "faV": "اَز شَنبه سَرما خورده‌اَم و حالَم اَصلاً خوب نیست.",
+     "a": "f23fc9cab97c"
+    },
+    {
+     "fa": "دیروز صبح به مطب دکتر زنگ زدم و برای عصر نوبت گرفتم.",
+     "r": "diruz sobh be matab-e doktor zang zadam o barā-ye asr nowbat gereftam.",
+     "en": "Yesterday morning I rang the doctor's surgery and made an appointment for the afternoon.",
+     "faV": "دیروز صُبح به مَطَبِ دُکتُر زَنگ زَدَم و بَرایِ عَصر نَوبَت گِرِفتَم.",
+     "a": "ba59e99d6bf0"
+    },
+    {
+     "fa": "دکتر مرا معاینه کرد و گفت که گلویم عفونت ندارد.",
+     "r": "doktor marā mo'āyene kard o goft ke galu-yam ofunat na-dārad.",
+     "en": "The doctor examined me and said that my throat isn't infected.",
+     "faV": "دُکتُر مَرا مُعایِنه کَرد و گُفت که گَلویَم عُفونَت نَدارَد.",
+     "a": "f8d2ae115d09"
+    },
+    {
+     "fa": "او گفت که باید سه روز در خانه بمانم و زیاد مایعات بخورم.",
+     "r": "u goft ke bāyad se ruz dar khāne bemānam o ziyād māye'āt bokhoram.",
+     "en": "She said I should stay at home for three days and drink plenty of fluids.",
+     "faV": "او گُفت که بایَد سه روز دَر خانه بِمانَم و زیاد مایِعات بُخورَم.",
+     "a": "69d4b739cfae"
+    },
+    {
+     "fa": "بعد از مطب به داروخانه رفتم و نسخه را به داروساز دادم.",
+     "r": "ba'd az matab be dāru-khāne raftam o noskhe rā be dāru-sāz dādam.",
+     "en": "After the surgery I went to the pharmacy and gave the prescription to the pharmacist.",
+     "faV": "بَعد اَز مَطَب به داروخانه رَفتَم و نُسخه را به داروساز دادَم.",
+     "a": "880ddebad1db"
+    },
+    {
+     "fa": "داروساز یک شربت سرفه و یک بسته قرص به من داد.",
+     "r": "dāru-sāz yek sharbat-e sorfe o yek baste ghors be man dād.",
+     "en": "The pharmacist gave me a cough syrup and a packet of tablets.",
+     "faV": "داروساز یِک شَربَتِ سُرفه و یِک بَسته قُرص به مَن داد.",
+     "a": "da73feb55655"
+    },
+    {
+     "fa": "او گفت: «روزی سه بار، بعد از غذا.»",
+     "r": "u goft: «ruz-i se bār, ba'd az ghazā.»",
+     "en": "He said: 'Three times a day, after meals.'",
+     "faV": "او گُفت: «روزی سه بار، بَعد اَز غَذا.»",
+     "a": "9a81fc2488a7"
+    },
+    {
+     "fa": "خوشبختانه آمپول لازم نبود!",
+     "r": "khoshbakhtāne āmpul lāzem na-bud!",
+     "en": "Luckily I didn't need an injection!",
+     "faV": "خوشبَختانه آمپول لازِم نَبود!",
+     "a": "3c0dec3ed91c"
+    },
+    {
+     "fa": "امیدوارم که هفته‌ی بعد دوباره سر کلاس باشم.",
+     "r": "omidvār-am ke hafte-ye ba'd dobāre sar-e kelās bāsham.",
+     "en": "I hope to be back in class next week.",
+     "faV": "اُمیدوارَم که هَفته‌یِ بَعد دوباره سَرِ کِلاس باشَم.",
+     "a": "55eb8a5366d1"
+    },
+    {
+     "fa": "با احترام، تام",
+     "r": "bā ehterām, Tām",
+     "en": "With best wishes, Tom",
+     "faV": "با اِحتِرام، تام",
+     "a": "2b94ec26a388"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What is wrong with Tom?",
+     "options": [
+      "a broken arm",
+      "a cold",
+      "a stomach ache"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What did the doctor tell him to do?",
+     "options": [
+      "stay at home for three days and drink plenty of fluids",
+      "go to hospital",
+      "have an injection"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "How often should he take his medicine?",
+     "options": [
+      "once a day",
+      "every hour",
+      "three times a day, after meals"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Doctors, pharmacies and a cure called nabat",
+   "md": "Many Iranian doctors lead double lives: in the morning they work in a hospital, and in the late afternoon and evening they see patients in their own [[مطب|matab|surgery]]. You book a [[نوبت|nowbat|appointment]] by phone or online, give your name to the [[منشی|monshi|receptionist]] when you arrive – and then wait, often for a long time. Doctors are addressed as [[خانم دکتر|khānom doktor]] or [[آقای دکتر|āghā-ye doktor]], and the title sticks: friends call a doctor *doktor* at parties too.\n\nPharmacies are everywhere, and there is always a [[داروخانه‌ی شبانه‌روزی|dāru-khāne-ye shabāne-ruzi|24-hour pharmacy]] not far away. Many have a small [[تزریقات|tazrighāt|injection room]] at the back, because injections have long been popular in Iran. Iran's Pharmacists' Day falls on the birthday of the great physician [[رازی|Rāzi]] (Rhazes), who worked in Rey, just south of today's Tehran, more than a thousand years ago.\n\nAt home, the first remedies are older. For a cold there is boiled turnip, [[شلغم|shalgham]], sold steaming from carts on winter evenings; for an upset stomach or a shock, hot water with [[نبات|nabāt]], golden rock sugar flavoured with saffron. And when someone tells you they are ill, say [[بلا دور باشد|balā dur bāshad|may harm stay far away]] – or the everyday wish [[زودتر خوب شوید|zud-tar khub shavid|get well soon]].",
+   "image": "nabat"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "**You *eat* your medicine.** Tablets, syrup, water and tea all take **خوردن**: قرص بخورید، آب بخورید. **نوشیدن** (to drink) is bookish.",
+    "**Since and for:** Persian says *I am ill since three days ago* – **از سه روز پیش مریضم** – with the present tense, not the present perfect.",
+    "**بهتر است** is the polite way to give advice to anyone – a patient, a guest, your boss. **باید** said to a stranger can sound bossy.",
+    "Address a doctor as **خانم دکتر** or **آقای دکتر**, with or without the surname – the same goes for anyone with a doctorate.",
+    "When someone says they're ill: **بلا دور باشد!** or **ان‌شاءالله زود خوب می‌شوید** (God willing, you'll soon be better). In speech **بهتر است** is **بهتره** and **لازم است** is **لازمه**."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the words",
+   "items": [
+    {
+     "fa": "پزشک",
+     "r": "pezeshk",
+     "en": "doctor",
+     "faV": "پِزِشک",
+     "a": "dd5b8a2aa402"
+    },
+    {
+     "fa": "نسخه",
+     "r": "noskhe",
+     "en": "prescription",
+     "faV": "نُسخه",
+     "a": "be9846965a66"
+    },
+    {
+     "fa": "قرص",
+     "r": "ghors",
+     "en": "tablet",
+     "faV": "قُرص",
+     "a": "1eb2098c2211"
+    },
+    {
+     "fa": "شربت",
+     "r": "sharbat",
+     "en": "syrup",
+     "faV": "شَربَت",
+     "a": "2b66be29b9b1"
+    },
+    {
+     "fa": "آمپول",
+     "r": "āmpul",
+     "en": "injection",
+     "faV": "آمپول",
+     "a": "aee95251e3ed"
+    },
+    {
+     "fa": "تب",
+     "r": "tab",
+     "en": "temperature, fever",
+     "faV": "تَب",
+     "a": "f69f47369d24"
+    },
+    {
+     "fa": "سرفه",
+     "r": "sorfe",
+     "en": "cough",
+     "faV": "سُرفه",
+     "a": "a078e5e4cc6f"
+    },
+    {
+     "fa": "نوبت",
+     "r": "nowbat",
+     "en": "appointment",
+     "faV": "نَوبَت",
+     "a": "1a5343575802"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right answer",
+   "items": [
+    {
+     "q": "'I've caught a cold.'",
+     "options": [
+      "سردم است.",
+      "سرما خورده‌ام.",
+      "هوا سرد است."
+     ],
+     "answer": 1,
+     "explain": "sarmā khordan, literally 'to eat cold'. سردم است means 'I feel cold', and هوا سرد است 'the weather is cold'."
+    },
+    {
+     "q": "The doctor gives gentle advice: 'You'd better rest.'",
+     "options": [
+      "بهتر است استراحت کنید.",
+      "بهتر است استراحت می‌کنید.",
+      "بهتر استراحت کردید."
+     ],
+     "answer": 0,
+     "explain": "behtar ast is followed by the subjunctive: esterāhat konid."
+    },
+    {
+     "q": "Which means 'three times a day'?",
+     "options": [
+      "سه روز",
+      "روزی سه بار",
+      "هر سه روز"
+     ],
+     "answer": 1,
+     "explain": "The -i on ruz means 'per': ruz-i se bār."
+    },
+    {
+     "q": "'You mustn't go out.'",
+     "options": [
+      "نمی‌خواهید بیرون بروید.",
+      "بیرون رفتید.",
+      "نباید بیرون بروید."
+     ],
+     "answer": 2,
+     "explain": "na-bāyad + subjunctive = must not."
+    },
+    {
+     "q": "At the pharmacy you want something for a cough. You say:",
+     "options": [
+      "برای سرفه چیزی دارید؟",
+      "سرفه کجاست؟",
+      "سرفه می‌خواهم."
+     ],
+     "answer": 0,
+     "explain": "barā-ye … chiz-i dārid? – have you got anything for …?"
+    },
+    {
+     "q": "'I've had a temperature since yesterday.'",
+     "options": [
+      "از دیروز تب دارم.",
+      "دیروز تب داشتم.",
+      "تا دیروز تب دارم."
+     ],
+     "answer": 0,
+     "explain": "Persian uses the present with az, 'since': az diruz tab dāram."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {
+     "fa": "از دیروز ___ دارم.",
+     "r": "az diruz ___ dāram.",
+     "en": "I've had a temperature since yesterday.",
+     "answer": "تب",
+     "hint": "fever"
+    },
+    {
+     "fa": "فکر می‌کنم سرما ___.",
+     "r": "fekr mi-konam sarmā ___.",
+     "en": "I think I've caught a cold.",
+     "answer": "خورده‌ام",
+     "hint": "khordan, present perfect, I"
+    },
+    {
+     "fa": "باید چند روز در خانه استراحت ___.",
+     "r": "bāyad chand ruz dar khāne esterāhat ___.",
+     "en": "You should rest at home for a few days.",
+     "answer": "کنید",
+     "hint": "kardan, subjunctive, you (polite)"
+    },
+    {
+     "fa": "بهتر است فردا سر کار ___.",
+     "r": "behtar ast fardā sar-e kār ___.",
+     "en": "You'd better not go to work tomorrow.",
+     "answer": "نروید",
+     "hint": "raftan, negative subjunctive, you (polite)"
+    },
+    {
+     "fa": "روزی سه ___، بعد از غذا.",
+     "r": "ruz-i se ___, ba'd az ghazā.",
+     "en": "Three times a day, after meals.",
+     "answer": "بار",
+     "hint": "times"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "گلویم درد می‌کند و سرفه می‌کنم.",
+     "r": "galu-yam dard mi-konad o sorfe mi-konam.",
+     "en": "My throat hurts and I'm coughing.",
+     "faV": "گَلویَم دَرد می‌کُنَد و سُرفه می‌کُنَم.",
+     "a": "4934c7dd0b0a"
+    },
+    {
+     "fa": "باید روزی سه بار از این قرص بخورید.",
+     "r": "bāyad ruz-i se bār az in ghors bokhorid.",
+     "en": "You should take this tablet three times a day.",
+     "faV": "بایَد روزی سه بار اَز این قُرص بُخورید.",
+     "a": "0c45267498f8"
+    },
+    {
+     "fa": "برای فردا ساعت ده نوبت دارم.",
+     "r": "barā-ye fardā sā'at-e dah nowbat dāram.",
+     "en": "I have an appointment at ten tomorrow.",
+     "faV": "بَرایِ فَردا ساعَتِ دَه نَوبَت دارَم.",
+     "a": "c0ec8b86f427"
+    },
+    {
+     "fa": "بهتر است امشب زود بخوابی.",
+     "r": "behtar ast emshab zud bekhābi.",
+     "en": "You'd better go to bed early tonight.",
+     "faV": "بِهتَر اَست اِمشَب زود بِخوابی.",
+     "a": "23118c999094"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "سرم درد می‌کند.",
+     "r": "sar-am dard mi-konad.",
+     "en": "My head hurts.",
+     "options": [
+      "My back hurts.",
+      "My head hurts.",
+      "My eyes hurt."
+     ],
+     "answer": 1,
+     "faV": "سَرَم دَرد می‌کُنَد.",
+     "a": "ba656324898e"
+    },
+    {
+     "fa": "لازم نیست نگران باشید.",
+     "r": "lāzem nist negarān bāshid.",
+     "en": "There's no need to worry.",
+     "options": [
+      "You must worry.",
+      "Don't be late.",
+      "There's no need to worry."
+     ],
+     "answer": 2,
+     "faV": "لازِم نیست نِگَران باشید.",
+     "a": "3d4116a6f3f8"
+    },
+    {
+     "fa": "آمپول لازم نیست.",
+     "r": "āmpul lāzem nist.",
+     "en": "You don't need an injection.",
+     "options": [
+      "You don't need an injection.",
+      "You need an injection.",
+      "The injection is ready."
+     ],
+     "answer": 0,
+     "faV": "آمپول لازِم نیست.",
+     "a": "77752b866441"
+    },
+    {
+     "fa": "برای فردا نوبت دارید؟",
+     "r": "barā-ye fardā nowbat dārid?",
+     "en": "Do you have an appointment for tomorrow?",
+     "options": [
+      "Are you coming tomorrow?",
+      "Do you have an appointment for tomorrow?",
+      "Do you have a prescription?"
+     ],
+     "answer": 1,
+     "faV": "بَرایِ فَردا نَوبَت دارید؟",
+     "a": "c7981c0d90a6"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "My throat hurts and I have a temperature.",
+     "fa": "گلویم درد می‌کند و تب دارم.",
+     "r": "galu-yam dard mi-konad o tab dāram.",
+     "faV": "گَلویَم دَرد می‌کُنَد و تَب دارَم.",
+     "a": "733e57dfe31f"
+    },
+    {
+     "en": "You should drink plenty of fluids.",
+     "fa": "باید زیاد مایعات بخورید.",
+     "r": "bāyad ziyād māye'āt bokhorid.",
+     "faV": "بایَد زیاد مایِعات بُخورید.",
+     "a": "284902da67b1"
+    },
+    {
+     "en": "You'd better not go to class tomorrow.",
+     "fa": "بهتر است فردا به کلاس نروید.",
+     "r": "behtar ast fardā be kelās na-ravid.",
+     "faV": "بِهتَر اَست فَردا به کِلاس نَرَوید.",
+     "a": "32933840550d"
+    },
+    {
+     "en": "Have you got anything for a cough?",
+     "fa": "برای سرفه چیزی دارید؟",
+     "r": "barā-ye sorfe chiz-i dārid?",
+     "faV": "بَرایِ سُرفه چیزی دارید؟",
+     "a": "0c8741f34cab"
+    },
+    {
+     "en": "I've been coughing for two days.",
+     "fa": "دو روز است که سرفه می‌کنم.",
+     "r": "do ruz ast ke sorfe mi-konam.",
+     "faV": "دو روز اَست که سُرفه می‌کُنَم.",
+     "a": "6bf047a642ea"
+    }
+   ]
+  }
+ ],
+ "titleV": "دَر مَطَبِ دُکتُر",
+ "titleA": "a1fe58d2e133"
+}

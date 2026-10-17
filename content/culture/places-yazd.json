@@ -1,0 +1,261 @@
+{
+ "id": "places-yazd",
+ "topic": "places",
+ "title": "Yazd",
+ "titleFa": "یزد",
+ "titleR": "Yazd",
+ "image": "yazd",
+ "summary": "A desert city of mud brick, windcatchers and underground water channels, and the heart of Iran's Zoroastrian community. What to see in Yazd, what to eat, and when to go.",
+ "body": [
+  {
+   "h": "A city of mud brick",
+   "md": "[[یزد|Yazd|Yazd]] lies in the middle of Iran, between two great deserts: the [[دشت کویر|Dasht-e Kavir|Dasht-e Kavir]] to the north and the [[دشت لوت|Dasht-e Lut|Dasht-e Lut]] to the south-east. Its old town, built almost entirely of [[خشت|khesht|sun-dried mud brick]], became a UNESCO World Heritage Site in 2017.\n\nWalk its narrow lanes, the [[کوچه|kuche|alley]], and you pass under [[ساباط|sābāt|covered passages]] that keep off the sun, past wooden doors with two knockers: a heavy one for men and a light ring for women, so that the people inside knew who was calling."
+  },
+  {
+   "h": "Windcatchers, qanats and ice houses",
+   "md": "Yazd survives the desert with clever engineering. Above the roofs rise hundreds of [[بادگیر|bādgir|windcatchers]], towers that catch the slightest breeze and send it down into the rooms below. The tallest, in the [[باغ دولت‌آباد|Bāgh-e Dowlat-ābād|Dowlat Abad Garden]], is 33.8 metres high.\n\nWater comes from [[قنات|ghanāt|qanats]], underground channels that carry groundwater for kilometres from the foot of the mountains; the city's Water Museum shows how they were dug and how the water was shared. In desert towns nearby, such as Meybod, you can still see a [[یخچال|yakhchāl|ice house]], a domed pit where winter ice was stored for the summer – which is why the Persian word for 'fridge' is *yakhchāl* today.",
+   "image": "dowlat-abad-garden"
+  },
+  {
+   "h": "Mosques and Amir Chakhmaq",
+   "md": "The [[مسجد جامع یزد|Masjed-e Jāme'-e Yazd|Jameh Mosque of Yazd]], mostly 14th century, has a tiled entrance crowned by twin minarets 52 metres high, the tallest in Iran. A short walk away, the [[امیرچخماق|Amir Chakhmāgh|Amir Chakhmaq]] complex shows a three-storey façade of arched niches that glows after dark. In front of it stands a [[نخل|nakhl|nakhl]], a huge wooden frame that men carry through the streets in the mourning processions of [[محرم|Moharram|Muharram]].",
+   "image": "amir-chakhmaq"
+  },
+  {
+   "h": "The Zoroastrians of Yazd",
+   "md": "Yazd is the centre of Iran's [[زرتشتی|zartoshti|Zoroastrian]] community. In the [[آتشکده|ātashkade|fire temple]], built in 1934, a sacred fire burns behind glass; Zoroastrians believe it has been kept alight since about AD 470. On the hills at the edge of town stand two [[دخمه|dakhme|towers of silence]], where the dead were once laid out for the vultures so that a body would not pollute the earth; they were last used in the 1970s.\n\nIn the desert mountains near Ardakan, the cave shrine of [[چک‌چک|Chak-chak|Chak Chak]], named after the sound of dripping water, draws Zoroastrian pilgrims every June.",
+   "image": "yazd-fire-temple"
+  },
+  {
+   "h": "Sweets, termeh and local words",
+   "md": "Yazd is Iran's sweet shop. Try [[باقلوا|bāghlavā|baklava]], little cardamom [[کیک یزدی|keyk-e yazdi|Yazdi cupcakes]], almond-filled [[قطاب|ghotāb|ghotab]] and [[پشمک|pashmak|Persian candy floss]], spun from sugar and sesame. The city's traditional cloth is [[ترمه|terme|termeh]], a fine woven fabric patterned with the [[بته‌جقه|bote-jeghe|paisley]] motif.\n\nOther Iranians recognise the Yazdi accent at once, and Yazdis are proud of it – and of their reputation for hard work and thrift. Listen also for the words of the old town itself: *bādgir*, *sābāt*, *ghanāt* and [[آب‌انبار|āb-anbār|water cistern]].",
+   "image": "termeh"
+  },
+  {
+   "h": "Getting there and when to go",
+   "md": "Yazd has an airport and lies on the railway between Tehran and Kerman, and buses arrive from Isfahan, Shiraz and every other big city. Many visitors stay in a restored courtyard house in the old town. Come between October and April: summer afternoons often pass 40°C, while desert nights in winter are cold. Good day trips go to the villages of [[خرانق|Kharānagh|Kharanaq]] and [[میبد|Meybod|Meybod]], or out into the desert for a night under the stars."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "این خانه را از خشت ساخته‌اند.",
+   "r": "in khāne rā az khesht sākhte-and.",
+   "en": "This house is built of mud brick.",
+   "faV": "این خانه را اَز خِشت ساخته‌اَند.",
+   "a": "625c0bd59622"
+  },
+  {
+   "fa": "بادگیر هوای خنک را به خانه می‌آورد.",
+   "r": "bādgir havā-ye khonak rā be khāne mi-āvarad.",
+   "en": "The windcatcher brings cool air into the house.",
+   "faV": "بادگیر هَوایِ خُنَک را به خانه می‌آوَرَد.",
+   "a": "e8c562704ecd"
+  },
+  {
+   "fa": "آب این قنات از کوه می‌آید.",
+   "r": "āb-e in ghanāt az kuh mi-āyad.",
+   "en": "The water of this qanat comes from the mountains.",
+   "faV": "آبِ این قَنات اَز کوه می‌آیَد.",
+   "a": "86d88cd43b78"
+  },
+  {
+   "fa": "در قدیم، یخ را در یخچال نگه می‌داشتند.",
+   "r": "dar ghadim, yakh rā dar yakhchāl negah mi-dāshtand.",
+   "en": "In the old days they kept ice in an ice house.",
+   "faV": "دَر قَدیم، یَخ را دَر یَخچال نِگَه می‌داشتَند.",
+   "a": "64ad3a8ef0ee"
+  },
+  {
+   "fa": "در خانه‌های قدیمی دو کوبه روی در است.",
+   "r": "dar khāne-hā-ye ghadimi do kube ru-ye dar ast.",
+   "en": "In old houses there are two knockers on the door.",
+   "faV": "دَر خانه‌هایِ قَدیمی دو کوبه رویِ دَر اَست.",
+   "a": "416cc1988e6f"
+  },
+  {
+   "fa": "ببخشید، این کوچه به مسجد جامع می‌رسد؟",
+   "r": "bebakhshid, in kuche be Masjed-e Jāme' mi-resad?",
+   "en": "Excuse me, does this alley lead to the Jameh Mosque?",
+   "col": "ببخشید، این کوچه می‌رسه به مسجد جامع؟",
+   "colR": "bebakhshid, in kuche mi-rese be Masjed-e Jāme'?",
+   "faV": "بِبَخشید، این کوچه به مَسجِدِ جامِع می‌رِسَد؟",
+   "a": "319579ca49e9",
+   "colV": "بِبَخشید، این کوچه می‌رِسه به مَسجِدِ جامِع؟",
+   "colA": "e6a6c2cffdbe"
+  },
+  {
+   "fa": "می‌گویند آتش این آتشکده از ۱۵۰۰ سال پیش روشن است.",
+   "r": "mi-guyand ātash-e in ātashkade az hezār-o-pānsad sāl pish rowshan ast.",
+   "en": "They say the fire in this temple has been burning for 1,500 years.",
+   "faV": "می‌گویَند آتَشِ این آتَشکَده اَز ۱۵۰۰ سال پیش رَوشَن اَست.",
+   "a": "bb98fd3b7df3"
+  },
+  {
+   "fa": "زرتشتیان هر سال در خرداد به چک‌چک می‌روند.",
+   "r": "zartoshtiyān har sāl dar Khordād be Chak-chak mi-ravand.",
+   "en": "Every year in Khordad (June) Zoroastrians go to Chak Chak.",
+   "faV": "زَرتُشتیان هَر سال دَر خُرداد به چَک‌چَک می‌رَوَند.",
+   "a": "b390850f73af"
+  },
+  {
+   "fa": "یک کیک یزدی و یک چای، لطفاً.",
+   "r": "yek keyk-e yazdi va yek chāy, lotfan.",
+   "en": "A Yazdi cupcake and a tea, please.",
+   "faV": "یِک کَیکِ یَزدی و یِک چای، لُطفاً.",
+   "a": "b39a71f334fc"
+  },
+  {
+   "fa": "این پارچه‌ی ترمه دست‌باف است؟",
+   "r": "in pārche-ye terme dast-bāf ast?",
+   "en": "Is this termeh cloth hand-woven?",
+   "faV": "این پارچه‌یِ تِرمه دَست‌باف اَست؟",
+   "a": "6bf8a3eb56e0"
+  },
+  {
+   "fa": "تابستان‌ها هوای یزد خیلی گرم و خشک است.",
+   "r": "tābestān-hā havā-ye Yazd kheyli garm o khoshk ast.",
+   "en": "In summer the weather in Yazd is very hot and dry.",
+   "faV": "تابِستان‌ها هَوایِ یَزد خَیلی گَرم و خُشک اَست.",
+   "a": "e67cc3ffa124"
+  },
+  {
+   "fa": "شب در کویر آسمان پر از ستاره است.",
+   "r": "shab dar kavir āsmān por az setāre ast.",
+   "en": "At night in the desert the sky is full of stars.",
+   "faV": "شَب دَر کَویر آسمان پُر اَز سِتاره اَست.",
+   "a": "dbd8d14380d6"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "کویر",
+   "r": "kavir",
+   "en": "salt desert",
+   "faV": "کَویر",
+   "a": "ab2c8e341d3e"
+  },
+  {
+   "fa": "بیابان",
+   "r": "biyābān",
+   "en": "desert",
+   "faV": "بیابان",
+   "a": "64969f60b12d"
+  },
+  {
+   "fa": "خشت",
+   "r": "khesht",
+   "en": "mud brick, sun-dried brick",
+   "faV": "خِشت",
+   "a": "80bc406f0e55"
+  },
+  {
+   "fa": "کوچه",
+   "r": "kuche",
+   "en": "alley, lane",
+   "faV": "کوچه",
+   "a": "57050bd35029"
+  },
+  {
+   "fa": "ساباط",
+   "r": "sābāt",
+   "en": "covered passageway",
+   "faV": "ساباط",
+   "a": "cfa7d12087e3"
+  },
+  {
+   "fa": "بادگیر",
+   "r": "bādgir",
+   "en": "windcatcher",
+   "faV": "بادگیر",
+   "a": "2448968802bd"
+  },
+  {
+   "fa": "قنات",
+   "r": "ghanāt",
+   "en": "qanat, underground water channel",
+   "faV": "قَنات",
+   "a": "b0342ce0163e"
+  },
+  {
+   "fa": "آب‌انبار",
+   "r": "āb-anbār",
+   "en": "water cistern",
+   "faV": "آب‌اَنبار",
+   "a": "e66df24a7d9d"
+  },
+  {
+   "fa": "یخچال",
+   "r": "yakhchāl",
+   "en": "ice house; fridge",
+   "faV": "یَخچال",
+   "a": "12b603fcb68c"
+  },
+  {
+   "fa": "آتشکده",
+   "r": "ātashkade",
+   "en": "fire temple",
+   "faV": "آتَشکَده",
+   "a": "a20773b93565"
+  },
+  {
+   "fa": "زرتشتی",
+   "r": "zartoshti",
+   "en": "Zoroastrian",
+   "faV": "زَرتُشتی",
+   "a": "785cc8a72155"
+  },
+  {
+   "fa": "دخمه",
+   "r": "dakhme",
+   "en": "tower of silence",
+   "faV": "دَخمه",
+   "a": "6cfd2969dee0"
+  },
+  {
+   "fa": "ترمه",
+   "r": "terme",
+   "en": "termeh, fine woven cloth",
+   "faV": "تِرمه",
+   "a": "dcf76d057c81"
+  },
+  {
+   "fa": "کوبه",
+   "r": "kube",
+   "en": "door knocker",
+   "faV": "کوبه",
+   "a": "7719c1237bf5"
+  },
+  {
+   "fa": "خنک",
+   "r": "khonak",
+   "en": "cool",
+   "faV": "خُنَک",
+   "a": "7991794a7655"
+  },
+  {
+   "fa": "خشک",
+   "r": "khoshk",
+   "en": "dry",
+   "faV": "خُشک",
+   "a": "01abf629a6be"
+  },
+  {
+   "fa": "ستاره",
+   "r": "setāre",
+   "en": "star",
+   "faV": "سِتاره",
+   "a": "5805beb0866e"
+  }
+ ],
+ "facts": [
+  "The historic city of Yazd was inscribed on the UNESCO World Heritage list in 2017.",
+  "The windcatcher of the Dowlat Abad Garden, laid out in the mid-18th century, is 33.8 metres tall.",
+  "The twin minarets of the Jameh Mosque of Yazd, 52 metres high, are the tallest in Iran.",
+  "Zoroastrians say the fire in Yazd's fire temple has burned since about AD 470; the present temple building dates from 1934.",
+  "Yazd's towers of silence were last used in the 1970s.",
+  "Yakhchāl, literally 'ice pit', once meant an ice house; today it is the everyday word for a fridge.",
+  "Zoroastrian pilgrims gather at the shrine of Chak Chak each year in mid-June."
+ ],
+ "titleV": "یَزد",
+ "titleA": "cc41307b9210"
+}

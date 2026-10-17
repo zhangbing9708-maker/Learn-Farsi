@@ -1,0 +1,278 @@
+{
+ "id": "arts-architecture",
+ "topic": "arts",
+ "title": "Iranian architecture",
+ "titleFa": "معماری ایرانی",
+ "titleR": "me'māri-ye irāni",
+ "image": "jameh-mosque-isfahan",
+ "summary": "Iwans and domes that lift the spirit, windcatchers, qanats and ice houses that beat the desert heat, and bridges built for strolling: a short guide to reading an Iranian building.",
+ "body": [
+  {
+   "h": "Brick, light and shade",
+   "md": "Iranian architecture has two great talents: making buildings that lift the spirit, and making buildings that keep people alive in a hot, dry land. Its materials are humble – sun-dried [[خشت|khesht|mud brick]], fired [[آجر|ājor|brick]], plaster and glazed [[کاشی|kāshi|tile]] – yet with them builders created some of the most beautiful spaces in the world. Learn a handful of words and you can read almost any Iranian building."
+  },
+  {
+   "h": "The iwan and the four-iwan mosque",
+   "md": "The signature form is the [[ایوان|eyvān|iwan]]: a tall vaulted hall, closed on three sides and open on the fourth, like a giant porch. Iwans go back to the Parthians, and the Sasanian palace arch at Ctesiphon, Taq Kasra, is still one of the largest brick vaults ever built.\n\nIn the 12th century, under the Seljuks, builders placed an iwan in the middle of each side of a courtyard. This [[چهارایوانی|chahār-eyvāni|four-iwan]] plan, made classic by the Jameh Mosque of Isfahan, became the standard layout for Iranian mosques, schools and caravanserais. The Shah Mosque on Isfahan's Naqsh-e Jahan Square follows it too: four iwans around a courtyard pool, and behind the iwan that faces Mecca, a great dome."
+  },
+  {
+   "h": "Domes and muqarnas",
+   "md": "How do you put a round dome on a square room? The Sasanians solved it with the squinch, a small arch across each corner that turns the square into an octagon. Their fire temples – four arches under a dome, the [[چهارطاق|chahār-tāgh|four arches]] – are the ancestors of every Iranian [[گنبد|gombad|dome]]. Later builders made domes taller and lighter with two shells, an inner ceiling and an outer skin.\n\nCorners and portals are filled with [[مقرنس|mogharnas|muqarnas]]: tiers of tiny niches that look like a honeycomb or hanging icicles. Covered in mirror, plaster or tile, they catch the light and make heavy brick seem to dissolve.",
+   "image": "muqarnas"
+  },
+  {
+   "h": "Wind and water",
+   "md": "In the desert cities the skyline is made of towers. A [[بادگیر|bādgir|windcatcher]] rises above the roof with vents that catch the slightest breeze and send it down into the house, while hot air escapes upwards. Yazd has so many that it is called the city of windcatchers.\n\nWater came from underground. A [[قنات|ghanāt|qanat]] is a gently sloping tunnel that taps groundwater at the foot of the mountains and carries it for kilometres to villages and fields, with a line of shafts above it for air and digging – from the air they look like rows of craters. Iranians have dug qanats for about three thousand years, and many still flow.",
+   "image": "windcatcher"
+  },
+  {
+   "h": "Ice in summer",
+   "md": "How did a desert town have ice in July? It built a [[یخچال|yakhchāl|ice house]]. In winter, water was let into long shallow pools shaded by a high wall, where it froze overnight. The ice was cut and stored in a deep pit under a tall, cone-shaped mud dome. Thick walls of [[ساروج|sāruj|sarooj]], a waterproof mortar made with lime, clay, sand and ash, kept it cold until summer. Today yakhchāl is simply the Persian word for a fridge.",
+   "image": "yakhchal"
+  },
+  {
+   "h": "The bridges of Isfahan",
+   "md": "Isfahan's river, the Zayandeh Rud, is crossed by bridges that are also places to stroll and meet. [[سی‌وسه‌پل|Si-o-se-pol|the Bridge of Thirty-three Arches]], built around 1600 for Shah Abbas, carries its walkway between two storeys of arches. The Khaju Bridge, about fifty years younger, is a bridge and a dam in one: sluices under its arches control the water, and a pavilion in the middle was kept for the shah. On summer evenings people still gather under the arches to sing for the echo – even in the years when the river runs dry.",
+   "image": "khaju-bridge"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "ایوان سالنی است که یک طرفش باز است.",
+   "r": "eyvān sālon-i ast ke yek taraf-ash bāz ast.",
+   "en": "An iwan is a hall that is open on one side.",
+   "faV": "اَیوان سالُنی اَست که یِک طَرَفَش باز اَست.",
+   "a": "1332fac5a0c4"
+  },
+  {
+   "fa": "مسجد جامع اصفهان چهار ایوان دارد.",
+   "r": "masjed-e jāme'-e Esfahān chahār eyvān dārad.",
+   "en": "The Jameh Mosque of Isfahan has four iwans.",
+   "faV": "مَسجِدِ جامِعِ اِصفَهان چَهار اَیوان دارَد.",
+   "a": "9d860e7048e3"
+  },
+  {
+   "fa": "گنبدهای ایرانی را با کاشی آبی می‌پوشاندند.",
+   "r": "gombad-hā-ye irāni rā bā kāshi-ye ābi mi-pushāndand.",
+   "en": "Iranian domes were covered with blue tiles.",
+   "lit": "they used to cover Iranian domes with blue tile",
+   "faV": "گُنبَدهایِ ایرانی را با کاشیِ آبی می‌پوشاندَند.",
+   "a": "7e931b7e5bd3"
+  },
+  {
+   "fa": "مقرنس‌ها شبیه کندوی عسل هستند.",
+   "r": "mogharnas-hā shabih-e kandu-ye 'asal hastand.",
+   "en": "Muqarnas look like a honeycomb.",
+   "faV": "مُقَرنَس‌ها شَبیهِ کَندویِ عَسَل هَستَند.",
+   "a": "54865569e655"
+  },
+  {
+   "fa": "بادگیر هوای خنک را به داخل خانه می‌فرستد.",
+   "r": "bādgir havā-ye khonak rā be dākhel-e khāne mi-ferestad.",
+   "en": "A windcatcher sends cool air into the house.",
+   "faV": "بادگیر هَوایِ خُنَک را به داخِلِ خانه می‌فِرِستَد.",
+   "a": "3ce6e7a45907"
+  },
+  {
+   "fa": "یزد را شهر بادگیرها می‌نامند.",
+   "r": "Yazd rā shahr-e bādgir-hā mi-nāmand.",
+   "en": "Yazd is called the city of windcatchers.",
+   "faV": "یَزد را شَهرِ بادگیرها می‌نامَند.",
+   "a": "8b4731db9edb"
+  },
+  {
+   "fa": "قنات آب را از زیر زمین به روستا می‌آورد.",
+   "r": "ghanāt āb rā az zir-e zamin be rustā mi-āvarad.",
+   "en": "A qanat brings water from under the ground to the village.",
+   "faV": "قَنات آب را اَز زیرِ زَمین به روستا می‌آوَرَد.",
+   "a": "519a50a70650"
+  },
+  {
+   "fa": "ایرانی‌ها حدود سه هزار سال است که قنات می‌سازند.",
+   "r": "irāni-hā hodud-e se hezār sāl ast ke ghanāt mi-sāzand.",
+   "en": "Iranians have been building qanats for about three thousand years.",
+   "faV": "ایرانی‌ها حُدودِ سه هِزار سال اَست که قَنات می‌سازَند.",
+   "a": "e740ea640325"
+  },
+  {
+   "fa": "در یخچال‌های قدیمی، یخ را تا تابستان نگه می‌داشتند.",
+   "r": "dar yakhchāl-hā-ye ghadimi, yakh rā tā tābestān negah mi-dāshtand.",
+   "en": "In the old ice houses, ice was kept until summer.",
+   "faV": "دَر یَخچال‌هایِ قَدیمی، یَخ را تا تابِستان نِگَه می‌داشتَند.",
+   "a": "a42fbae76e0c"
+  },
+  {
+   "fa": "امروز به یخچال برقی هم یخچال می‌گویند.",
+   "r": "emruz be yakhchāl-e barghi ham yakhchāl mi-guyand.",
+   "en": "Today an electric fridge is also called a yakhchal.",
+   "faV": "اِمروز به یَخچالِ بَرقی هَم یَخچال می‌گویَند.",
+   "a": "bd13d6704c08"
+  },
+  {
+   "fa": "سی‌وسه‌پل سی و سه دهانه دارد.",
+   "r": "Si-o-se-pol si o se dahāne dārad.",
+   "en": "Si-o-se Pol has thirty-three arches.",
+   "faV": "سی‌وسه‌پُل سی و سه دَهانه دارَد.",
+   "a": "3eeb1d08ebc6"
+  },
+  {
+   "fa": "مردم شب‌ها زیر پل خواجو آواز می‌خوانند.",
+   "r": "mardom shab-hā zir-e pol-e Khāju āvāz mi-khānand.",
+   "en": "In the evenings people sing under the Khaju Bridge.",
+   "faV": "مَردُم شَب‌ها زیرِ پُلِ خواجو آواز می‌خوانَند.",
+   "a": "f6a55edf9bb4"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "معماری",
+   "r": "me'māri",
+   "en": "architecture",
+   "faV": "مِعماری",
+   "a": "7cceef3edda0"
+  },
+  {
+   "fa": "معمار",
+   "r": "me'mār",
+   "en": "architect",
+   "faV": "مِعمار",
+   "a": "293f0a579a0f"
+  },
+  {
+   "fa": "ایوان",
+   "r": "eyvān",
+   "en": "iwan, vaulted hall open on one side",
+   "faV": "اَیوان",
+   "a": "0ebc92b1683d"
+  },
+  {
+   "fa": "گنبد",
+   "r": "gombad",
+   "en": "dome",
+   "faV": "گُنبَد",
+   "a": "73758d4a2ef1"
+  },
+  {
+   "fa": "مناره",
+   "r": "manāre",
+   "en": "minaret",
+   "faV": "مَناره",
+   "a": "18beed65ee7c"
+  },
+  {
+   "fa": "حیاط",
+   "r": "hayāt",
+   "en": "courtyard",
+   "faV": "حَیاط",
+   "a": "423af25d0b64"
+  },
+  {
+   "fa": "کاشی",
+   "r": "kāshi",
+   "en": "glazed tile",
+   "faV": "کاشی",
+   "a": "087178ee6f1a"
+  },
+  {
+   "fa": "آجر",
+   "r": "ājor",
+   "en": "fired brick",
+   "faV": "آجُر",
+   "a": "643d669e140c"
+  },
+  {
+   "fa": "خشت",
+   "r": "khesht",
+   "en": "mud brick",
+   "faV": "خِشت",
+   "a": "80bc406f0e55"
+  },
+  {
+   "fa": "مقرنس",
+   "r": "mogharnas",
+   "en": "muqarnas, honeycomb vaulting",
+   "faV": "مُقَرنَس",
+   "a": "deb3c7b35f4e"
+  },
+  {
+   "fa": "طاق",
+   "r": "tāgh",
+   "en": "arch, vault",
+   "faV": "طاق",
+   "a": "a4b11032d073"
+  },
+  {
+   "fa": "بادگیر",
+   "r": "bādgir",
+   "en": "windcatcher",
+   "faV": "بادگیر",
+   "a": "2448968802bd"
+  },
+  {
+   "fa": "قنات",
+   "r": "ghanāt",
+   "en": "qanat, underground water channel",
+   "faV": "قَنات",
+   "a": "b0342ce0163e"
+  },
+  {
+   "fa": "آب‌انبار",
+   "r": "āb-anbār",
+   "en": "water cistern",
+   "faV": "آب‌اَنبار",
+   "a": "e66df24a7d9d"
+  },
+  {
+   "fa": "یخچال",
+   "r": "yakhchāl",
+   "en": "ice house; refrigerator",
+   "faV": "یَخچال",
+   "a": "12b603fcb68c"
+  },
+  {
+   "fa": "پل",
+   "r": "pol",
+   "en": "bridge",
+   "faV": "پُل",
+   "a": "295caf771580"
+  },
+  {
+   "fa": "مسجد",
+   "r": "masjed",
+   "en": "mosque",
+   "faV": "مَسجِد",
+   "a": "49ee1117cef1"
+  },
+  {
+   "fa": "ساختن",
+   "r": "sākhtan",
+   "en": "to build, to make",
+   "faV": "ساختَن",
+   "a": "b477c4ea3aff"
+  },
+  {
+   "fa": "خنک",
+   "r": "khonak",
+   "en": "cool",
+   "faV": "خُنَک",
+   "a": "7991794a7655"
+  },
+  {
+   "fa": "کویر",
+   "r": "kavir",
+   "en": "desert",
+   "faV": "کَویر",
+   "a": "ab2c8e341d3e"
+  }
+ ],
+ "facts": [
+  "Taq Kasra, the Sasanian palace arch at Ctesiphon near Baghdad, is still one of the largest single-span brick vaults in the world.",
+  "The Jameh Mosque of Isfahan, with building work from more than a thousand years, was added to UNESCO's World Heritage list in 2012.",
+  "The dome of Soltaniyeh (1302–12), built as the tomb of the Mongol ruler Oljeitu, is one of the largest brick domes in the world and a UNESCO site since 2005.",
+  "In 2016 UNESCO added 'The Persian Qanat', a group of eleven qanats, to its World Heritage list.",
+  "The word [[کاشی|kāshi|tile]] comes from Kashan, a great centre of tile-making in the Middle Ages.",
+  "Si-o-se Pol is named after its 33 arches; it is also called the Allahverdi Khan Bridge, after the general of Shah Abbas who built it."
+ ],
+ "titleV": "مِعماریِ ایرانی",
+ "titleA": "42414b590f1f"
+}

@@ -1,0 +1,289 @@
+{
+ "id": "festivals-weddings",
+ "topic": "festivals",
+ "title": "An Iranian wedding",
+ "titleFa": "عروسی ایرانی",
+ "titleR": "arusi-ye irāni",
+ "image": "iranian-wedding",
+ "summary": "From the formal proposal over a tray of tea to the sofreh-ye aghd with its mirror, candles and sugar cones, and a party that dances past midnight: how Iranians get married, step by step.",
+ "body": [
+  {
+   "h": "Khastegari: asking for her hand",
+   "md": "An Iranian marriage traditionally begins with [[خواستگاری|khāstegāri|the formal proposal]]. Even when a couple have met on their own, the young man's parents – often with a grandmother or an uncle – telephone the young woman's family and ask to visit. On the evening everyone sits in their best clothes, the families talk about everything except the reason they are there, and at some point the young woman carries in a tray of tea. If both sides are happy, the couple talk alone for a while, and further meetings follow.",
+   "image": "iranian-tea"
+  },
+  {
+   "h": "Agreement and engagement",
+   "md": "At the [[بله‌برون|bale-borun|'taking the yes']] the families agree on the details, above all the [[مهریه|mehriye|mehriyeh]], a gift the groom pledges to the bride in the marriage contract, which she can claim whenever she wishes. It is often counted in gold coins. A small party, the [[شیرینی‌خوران|shirini-khorān|'sweet-eating']], then announces the engagement, rings are exchanged and the couple become [[نامزد|nāmzad|engaged]]."
+  },
+  {
+   "h": "The sofreh-ye aghd, item by item",
+   "md": "The legal and religious ceremony, the [[عقد|aghd|marriage contract]], takes place before the [[سفره‌ی عقد|sofre-ye aghd|wedding spread]], laid on the floor or a low table over a cloth of silk or [[ترمه|terme|Yazd brocade]]. Every item has a meaning:\n\n- [[آینه و شمعدان|āyene va sham'dān|a mirror and two candlesticks]] – light and a bright future; the groom first sees his bride in the mirror\n- [[نان|nān|bread]], cheese and herbs – plenty in the new home\n- [[تخم‌مرغ|tokhm-e morgh|eggs]] and nuts in their shells – fertility\n- a bowl of [[عسل|asal|honey]] – sweetness\n- [[اسفند|esfand|wild-rue seeds]] – burned against the evil eye\n- [[نقل|noghl|sugared almonds]] and gold coins – a sweet and prosperous life\n- a needle and coloured thread, and the Quran or a Divan of Hafez",
+   "image": "termeh"
+  },
+  {
+   "h": "'Bride, do I have your consent?'",
+   "md": "The couple sit side by side, facing the mirror. Happily married women of the family hold a white cloth over their heads and rub two [[کله‌قند|kalle-ghand|sugar cones]] together, so that sugar snows down on the marriage, while another sews the cloth with needle and thread – to sew shut the tongue of the mother-in-law, they joke. The officiant reads the contract and asks the bride: [[عروس خانم، وکیلم؟|arus khānom, vakil-am?|Bride, do I have your consent?]] The first time, someone calls out that she has gone to pick flowers; the second time, that she has gone to fetch rose-water. Only at the third asking does she answer: with my parents' permission, yes! Then the couple feed each other honey from their little fingers."
+  },
+  {
+   "h": "The party",
+   "md": "The [[عروسی|arusi|wedding party]] is usually held in the evening in a hall or a garden, sometimes on the day of the aghd, sometimes weeks later. Many families keep separate halls for men and women. There is a band or a DJ, plenty of dancing, and the [[رقص چاقو|raghs-e chāghu|knife dance]]: before the cake can be cut, guests dance with the knife, and the groom must pay to get it back. Dinner comes late – rice dishes such as [[شیرین‌پلو|shirin-polo|sweet jewelled rice]], kababs and stews. At the end a convoy of cars, honking all the way, follows the decorated bridal car through the streets.",
+   "image": "shirin-polo"
+  },
+  {
+   "h": "If you are invited",
+   "md": "Dress up – an Iranian wedding is formal and glamorous. The usual present is money or a gold coin in an envelope, handed to the couple or dropped in a box at the entrance. Say [[مبارک باشد|mobārak bāshad|congratulations]] and [[به پای هم پیر شوید|be pā-ye ham pir shavid|may you grow old together]], and don't plan to leave early: the dancing goes on past midnight."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "مبارک باشد!",
+   "r": "mobārak bāshad!",
+   "en": "Congratulations!",
+   "col": "مبارک باشه!",
+   "colR": "mobārak bāshe!",
+   "faV": "مُبارَک باشَد!",
+   "a": "826aa4b1ec04",
+   "colV": "مُبارَک باشه!",
+   "colA": "0848f7c9422f"
+  },
+  {
+   "fa": "به پای هم پیر شوید!",
+   "r": "be pā-ye ham pir shavid!",
+   "en": "May you grow old together!",
+   "lit": "may you grow old at each other's feet",
+   "col": "به پای هم پیر بشین!",
+   "colR": "be pā-ye ham pir be-shin!",
+   "faV": "به پایِ هَم پیر شَوید!",
+   "a": "94e556d31a34",
+   "colV": "به پایِ هَم پیر بِشین!",
+   "colA": "e8b2d6ad5dd0"
+  },
+  {
+   "fa": "خوشبخت شوید!",
+   "r": "khoshbakht shavid!",
+   "en": "Wishing you every happiness!",
+   "col": "خوشبخت بشین!",
+   "colR": "khoshbakht be-shin!",
+   "faV": "خوشبَخت شَوید!",
+   "a": "128179bc68ce",
+   "colV": "خوشبَخت بِشین!",
+   "colA": "21afc7372d7f"
+  },
+  {
+   "fa": "خانواده‌ی داماد برای خواستگاری آمدند.",
+   "r": "khānevāde-ye dāmād barā-ye khāstegāri āmadand.",
+   "en": "The groom's family came to ask for her hand.",
+   "faV": "خانِواده‌یِ داماد بَرایِ خواستِگاری آمَدَند.",
+   "a": "251542322100"
+  },
+  {
+   "fa": "عروس با یک سینی چای وارد شد.",
+   "r": "arus bā yek sini chāy vāred shod.",
+   "en": "The bride came in with a tray of tea.",
+   "faV": "عَروس با یِک سینی چای وارِد شُد.",
+   "a": "a313afdc7b3f"
+  },
+  {
+   "fa": "عروس خانم، وکیلم؟",
+   "r": "arus khānom, vakil-am?",
+   "en": "Bride, do I have your consent?",
+   "lit": "Miss Bride, am I (your) representative?",
+   "note": "The officiant asks this three times.",
+   "faV": "عَروس خانُم، وَکیلَم؟",
+   "a": "668f7ad162bc"
+  },
+  {
+   "fa": "عروس رفته گل بچیند!",
+   "r": "arus rafte gol be-chinad!",
+   "en": "The bride has gone to pick flowers!",
+   "note": "The playful answer to the first asking.",
+   "col": "عروس رفته گل بچینه!",
+   "colR": "arus rafte gol be-chine!",
+   "faV": "عَروس رَفته گُل بِچینَد!",
+   "a": "e76ec69caf06",
+   "colV": "عَروس رَفته گُل بِچینه!",
+   "colA": "298c2edeaa82"
+  },
+  {
+   "fa": "با اجازه‌ی پدر و مادرم، بله!",
+   "r": "bā ejāze-ye pedar o mādar-am, bale!",
+   "en": "With my parents' permission – yes!",
+   "faV": "با اِجازه‌یِ پِدَر و مادَرَم، بَله!",
+   "a": "f36d011b961d"
+  },
+  {
+   "fa": "بالای سر عروس و داماد قند می‌سابند.",
+   "r": "bālā-ye sar-e arus o dāmād ghand mi-sāband.",
+   "en": "They rub sugar cones together above the heads of the bride and groom.",
+   "faV": "بالایِ سَرِ عَروس و داماد قَند می‌سابَند.",
+   "a": "cf0246820329"
+  },
+  {
+   "fa": "عروس و داماد به هم عسل دادند.",
+   "r": "arus o dāmād be ham asal dādand.",
+   "en": "The bride and groom fed each other honey.",
+   "faV": "عَروس و داماد به هَم عَسَل دادَند.",
+   "a": "b17f405674c7"
+  },
+  {
+   "fa": "جشن عروسی تا نیمه‌شب طول کشید.",
+   "r": "jashn-e arusi tā nime-shab tul keshid.",
+   "en": "The wedding party went on until midnight.",
+   "faV": "جَشنِ عَروسی تا نیمه‌شَب طول کِشید.",
+   "a": "6d3873776db4"
+  },
+  {
+   "fa": "بعد از جشن، ماشین‌ها بوق‌زنان دنبال ماشین عروس رفتند.",
+   "r": "ba'd az jashn, māshin-hā bugh-zanān donbāl-e māshin-e arus raftand.",
+   "en": "After the party the cars followed the bridal car, honking their horns.",
+   "faV": "بَعد اَز جَشن، ماشین‌ها بوق‌زَنان دُنبالِ ماشینِ عَروس رَفتَند.",
+   "a": "fc2a61c81438"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "عروسی",
+   "r": "arusi",
+   "en": "wedding",
+   "faV": "عَروسی",
+   "a": "03fa50bc2913"
+  },
+  {
+   "fa": "عروس",
+   "r": "arus",
+   "en": "bride; daughter-in-law",
+   "faV": "عَروس",
+   "a": "e3a0609942a9"
+  },
+  {
+   "fa": "داماد",
+   "r": "dāmād",
+   "en": "groom; son-in-law",
+   "faV": "داماد",
+   "a": "1cef21f589c2"
+  },
+  {
+   "fa": "خواستگاری",
+   "r": "khāstegāri",
+   "en": "formal marriage proposal",
+   "faV": "خواستِگاری",
+   "a": "9245ab4bae59"
+  },
+  {
+   "fa": "بله‌برون",
+   "r": "bale-borun",
+   "en": "betrothal meeting ('taking the yes')",
+   "faV": "بَله‌بُرون",
+   "a": "13a6e8249653"
+  },
+  {
+   "fa": "نامزد",
+   "r": "nāmzad",
+   "en": "fiancé, fiancée",
+   "faV": "نامزَد",
+   "a": "b16cf52e82e8"
+  },
+  {
+   "fa": "مهریه",
+   "r": "mehriye",
+   "en": "marriage gift pledged to the bride",
+   "faV": "مِهریه",
+   "a": "ca6e6a56ac57"
+  },
+  {
+   "fa": "عقد",
+   "r": "aghd",
+   "en": "marriage ceremony; contract",
+   "faV": "عَقد",
+   "a": "5bf03b7e1b40"
+  },
+  {
+   "fa": "سفره‌ی عقد",
+   "r": "sofre-ye aghd",
+   "en": "wedding spread",
+   "faV": "سُفره‌یِ عَقد",
+   "a": "4495fb7882b7"
+  },
+  {
+   "fa": "آینه و شمعدان",
+   "r": "āyene va sham'dān",
+   "en": "mirror and candlesticks",
+   "faV": "آیِنه و شَمعدان",
+   "a": "c62702427b34"
+  },
+  {
+   "fa": "کله‌قند",
+   "r": "kalle-ghand",
+   "en": "sugar cone",
+   "faV": "کَلّه‌قَند",
+   "a": "cb408d3a1d47"
+  },
+  {
+   "fa": "عسل",
+   "r": "asal",
+   "en": "honey",
+   "faV": "عَسَل",
+   "a": "cff3004b3ed5"
+  },
+  {
+   "fa": "اسفند",
+   "r": "esfand",
+   "en": "wild-rue seeds; also the month Esfand",
+   "faV": "اِسفَند",
+   "a": "65a9e71ee837"
+  },
+  {
+   "fa": "وکیل",
+   "r": "vakil",
+   "en": "representative; lawyer",
+   "faV": "وَکیل",
+   "a": "47a4bb429ea3"
+  },
+  {
+   "fa": "اجازه",
+   "r": "ejāze",
+   "en": "permission",
+   "faV": "اِجازه",
+   "a": "63e56b1ae642"
+  },
+  {
+   "fa": "بله",
+   "r": "bale",
+   "en": "yes",
+   "faV": "بَله",
+   "a": "9891baf1c8e2"
+  },
+  {
+   "fa": "خوشبخت",
+   "r": "khoshbakht",
+   "en": "happy, fortunate",
+   "faV": "خوشبَخت",
+   "a": "ca5c1138e012"
+  },
+  {
+   "fa": "جشن",
+   "r": "jashn",
+   "en": "party, celebration",
+   "faV": "جَشن",
+   "a": "21709bf796d7"
+  },
+  {
+   "fa": "سکه‌ی طلا",
+   "r": "sekke-ye talā",
+   "en": "gold coin",
+   "faV": "سِکّه‌یِ طَلا",
+   "a": "8328dbc81710"
+  }
+ ],
+ "facts": [
+  "In the aghd ceremony the bride is asked for her consent three times; by tradition she says yes only the third time.",
+  "Above the couple, women rub two sugar cones together over a white cloth so that sweetness falls on the marriage.",
+  "The mehriyeh, the gift pledged to the bride in the marriage contract, is often counted in gold coins.",
+  "Many Iranian weddings have separate halls for men and women.",
+  "In the knife dance, guests dance with the cake knife until the groom pays to get it back.",
+  "After the wedding, relatives may gather for the pātakhti, when the new couple receive gifts for their home."
+ ],
+ "titleV": "عَروسیِ ایرانی",
+ "titleA": "0ec837dd3ffc"
+}

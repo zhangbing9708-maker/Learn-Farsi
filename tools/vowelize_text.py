@@ -91,6 +91,20 @@ def split_token(tok):
     return tok[:i], tok[i:j], tok[j:]
 
 
+APOS = "'ʼ’‘`"
+
+
+def split_r(tok):
+    """Like split_token, for a transliteration: an apostrophe touching a letter is ع/ء, not punctuation
+    (tama' = طمع, 'ozv = عضو)."""
+    i, j = 0, len(tok)
+    while i < j and tok[i] in PUNCT and not (tok[i] in APOS and i + 1 < j and tok[i + 1].isalpha()):
+        i += 1
+    while j > i and tok[j - 1] in PUNCT and not (tok[j - 1] in APOS and j - 2 >= i and tok[j - 2].isalpha()):
+        j -= 1
+    return tok[:i], tok[i:j], tok[j:]
+
+
 def apply_ops(word, ops):
     """Write the marks that an alignment asks for (same conventions as tools/vowelize.py)."""
     L = list(word)
@@ -117,7 +131,7 @@ def vowelize_token(fa, r, threshold=2.6):
     if len(core) == 1:            # a letter on its own: the voice says its name
         return fa, True
     if r:
-        ipa = r_to_ipa(split_token(r)[1])
+        ipa = r_to_ipa(split_r(r)[1])
         if ipa:
             res = V.align(core, ipa)
             if res is not None and res[0] <= threshold:

@@ -1,0 +1,132 @@
+{
+ "id": "arts-cinema",
+ "topic": "arts",
+ "title": "Iranian cinema",
+ "titleFa": "سینمای ایران",
+ "titleR": "sinamā-ye Irān",
+ "image": "iranian-cinema",
+ "summary": "From popular melodramas to the New Wave, from Kiarostami's winding roads to Farhadi's family dramas, Iranian cinema has become one of the most admired in the world – at home and, more and more, abroad.",
+ "body": [
+  {
+   "h": "A century of cinema",
+   "md": "Cinema reached Iran in 1900, when the shah's court photographer bought a camera in Europe and filmed a flower parade in Belgium. The first Persian talking picture, *The Lor Girl*, followed in 1933. By the 1960s Tehran's cinemas were full of popular melodramas with songs, dances and tough-guy heroes – a genre critics called, with a touch of scorn, [[فیلم‌فارسی|film-fārsi|'Persian film']]."
+  },
+  {
+   "h": "The New Wave",
+   "md": "Then a few artists began to film real life. In 1962 the poet Forugh Farrokhzad made *The House Is Black*, a short, deeply humane documentary about a leper colony. In 1969 Dariush Mehrjui's *The Cow* – the story of a villager who loses his beloved cow and comes to believe he has become it – announced the [[موج نو|mowj-e now|New Wave]]. Bahram Beyzai, Sohrab Shahid-Saless and others followed, and a state institute for children, the Kanun, gave a young graphic designer called Abbas Kiarostami his first chance to direct.",
+   "image": "forugh-farrokhzad"
+  },
+  {
+   "h": "Children, villages and journeys",
+   "md": "After the revolution of 1979 cinema survived, but under strict rules about what could be shown. Many directors turned to subjects that were safe and universal: children, villages, journeys. In Kiarostami's *Where Is the Friend's House?* (1987) a boy searches a neighbouring village to return his friend's notebook; in Majid Majidi's *Children of Heaven* (1997) a brother and sister share one pair of shoes; in Jafar Panahi's *The White Balloon* (1995) a girl loses the money for her New Year goldfish. Simple stories like these won prizes all over the world."
+  },
+  {
+   "h": "Abbas Kiarostami",
+   "md": "[[عباس کیارستمی|'Abbās Kiyārostami|Abbas Kiarostami]] (1940–2016) became the best known of all Iranian directors. His films are quiet and open-ended: long takes, cars winding up zigzag roads through the hills, and non-professional actors – a [[نابازیگر|nā-bāzigar|non-actor]] – playing versions of themselves. In *Close-Up* (1990) a real man who had pretended to be a famous director re-enacts his own story. *Taste of Cherry*, about a man driving around the edge of Tehran with a desperate plan, won the Palme d'Or at Cannes in 1997 – a first for Iran.",
+   "image": "kiarostami"
+  },
+  {
+   "h": "Makhmalbaf and Panahi",
+   "md": "[[محسن مخملباف|Mohsen Makhmalbāf|Mohsen Makhmalbaf]], a self-taught former revolutionary, made colourful, poetic films such as *Gabbeh* and *Kandahar* and turned his family into a film school: his daughter Samira directed her first feature at seventeen. He has lived abroad since the 2000s.\n\n[[جعفر پناهی|Ja'far Panāhi|Jafar Panahi]], once Kiarostami's assistant, made films about women and the city, such as *The Circle* and *Offside*, about girls who dress as boys to get into a football match. Since 2010 he has been banned from filmmaking and jailed more than once, yet he keeps making films, often in secret; in 2025 *It Was Just an Accident* won him the Palme d'Or."
+  },
+  {
+   "h": "Farhadi and Iranian films abroad",
+   "md": "[[اصغر فرهادی|Asghar Farhādi|Asghar Farhadi]] (born 1972) makes tense moral dramas about middle-class families, built like thrillers, in which every character has a good reason. *A Separation* (2011), about a couple's divorce and a quarrel that spirals out of control, won Iran's first Oscar, and *The Salesman* a second in 2017.\n\nToday Iranian cinema lives both at home and abroad. Films made in Iran still fill festival programmes, while Mohammad Rasoulof, Marjane Satrapi – whose animated *Persepolis* told the story of her childhood in Tehran – and many younger directors of the diaspora tell Iranian stories from Europe and America.",
+   "image": "asghar-farhadi"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "سینما در سال ۱۹۰۰ به ایران آمد.",
+   "r": "sinamā dar sāl-e hezār-o-nohsad be Irān āmad.",
+   "en": "Cinema came to Iran in 1900."
+  },
+  {
+   "fa": "«گاو» یکی از اولین فیلم‌های موج نو بود.",
+   "r": "«Gāv» yek-i az avvalin film-hā-ye mowj-e now bud.",
+   "en": "'The Cow' was one of the first films of the New Wave."
+  },
+  {
+   "fa": "کیارستمی بیشتر با نابازیگرها کار می‌کرد.",
+   "r": "Kiyārostami bishtar bā nā-bāzigar-hā kār mi-kard.",
+   "en": "Kiarostami mostly worked with non-professional actors."
+  },
+  {
+   "fa": "در فیلم‌های او ماشین و جاده زیاد دیده می‌شود.",
+   "r": "dar film-hā-ye u māshin va jādde ziyād dide mi-shavad.",
+   "en": "Cars and roads appear a lot in his films."
+  },
+  {
+   "fa": "«طعم گیلاس» در سال ۱۹۹۷ نخل طلای کن را برد.",
+   "r": "«Ta'm-e gilās» dar sāl-e hezār-o-nohsad-o-navad-o-haft nakhl-e talā-ye Kan rā bord.",
+   "en": "'Taste of Cherry' won the Palme d'Or at Cannes in 1997.",
+   "lit": "won the golden palm of Cannes"
+  },
+  {
+   "fa": "بچه‌ها قهرمان بسیاری از فیلم‌های ایرانی هستند.",
+   "r": "bacche-hā ghahremān-e besyāri az film-hā-ye irāni hastand.",
+   "en": "Children are the heroes of many Iranian films."
+  },
+  {
+   "fa": "پناهی سال‌ها اجازه‌ی فیلم ساختن نداشت.",
+   "r": "Panāhi sāl-hā ejāze-ye film sākhtan na-dāsht.",
+   "en": "For years Panahi was not allowed to make films."
+  },
+  {
+   "fa": "«جدایی نادر از سیمین» اولین اسکار را برای ایران برد.",
+   "r": "«Jodāyi-ye Nāder az Simin» avvalin Oskār rā barā-ye Irān bord.",
+   "en": "'A Separation' won Iran's first Oscar.",
+   "lit": "'the separation of Nader from Simin' won the first Oscar for Iran"
+  },
+  {
+   "fa": "فرهادی درباره‌ی خانواده‌های طبقه‌ی متوسط فیلم می‌سازد.",
+   "r": "Farhādi darbāre-ye khānevāde-hā-ye tabaghe-ye motavasset film mi-sāzad.",
+   "en": "Farhadi makes films about middle-class families."
+  },
+  {
+   "fa": "جشنواره‌ی فیلم فجر هر سال در تهران برگزار می‌شود.",
+   "r": "jashnvāre-ye film-e Fajr har sāl dar Tehrān bargozār mi-shavad.",
+   "en": "The Fajr Film Festival is held in Tehran every year."
+  },
+  {
+   "fa": "بسیاری از فیلم‌سازان ایرانی امروز خارج از ایران کار می‌کنند.",
+   "r": "besyāri az film-sāzān-e irāni emruz khārej az Irān kār mi-konand.",
+   "en": "Many Iranian filmmakers work outside Iran today."
+  },
+  {
+   "fa": "ایرانی‌ها سینما را خیلی دوست دارند.",
+   "r": "irāni-hā sinamā rā kheyli dust dārand.",
+   "en": "Iranians love the cinema."
+  }
+ ],
+ "vocab": [
+  {"fa": "سینما", "r": "sinamā", "en": "cinema"},
+  {"fa": "فیلم", "r": "film", "en": "film"},
+  {"fa": "کارگردان", "r": "kārgardān", "en": "film director"},
+  {"fa": "بازیگر", "r": "bāzigar", "en": "actor, actress"},
+  {"fa": "نابازیگر", "r": "nā-bāzigar", "en": "non-professional actor"},
+  {"fa": "فیلم‌نامه", "r": "film-nāme", "en": "screenplay"},
+  {"fa": "فیلم‌ساز", "r": "film-sāz", "en": "filmmaker"},
+  {"fa": "مستند", "r": "mostanad", "en": "documentary"},
+  {"fa": "جشنواره", "r": "jashnvāre", "en": "festival"},
+  {"fa": "جایزه", "r": "jāyeze", "en": "prize, award"},
+  {"fa": "تماشاگر", "r": "tamāshāgar", "en": "viewer, member of the audience"},
+  {"fa": "اکران", "r": "ekrān", "en": "screening, release (of a film)"},
+  {"fa": "صحنه", "r": "sahne", "en": "scene; stage"},
+  {"fa": "داستان", "r": "dāstān", "en": "story"},
+  {"fa": "قهرمان", "r": "ghahremān", "en": "hero; champion"},
+  {"fa": "موج نو", "r": "mowj-e now", "en": "New Wave"},
+  {"fa": "جاده", "r": "jādde", "en": "road"},
+  {"fa": "فیلم ساختن", "r": "film sākhtan", "en": "to make a film"},
+  {"fa": "سانسور", "r": "sānsur", "en": "censorship"},
+  {"fa": "بلیت", "r": "belit", "en": "ticket"}
+ ],
+ "facts": [
+  "The first film shot by an Iranian was made in 1900, when Mirza Ebrahim Khan Akkas-bashi, photographer to Mozaffar ad-Din Shah, filmed a flower festival in Ostend, Belgium.",
+  "The first Persian sound film, *The Lor Girl* (1933), was made in Bombay by Abdolhossein Sepanta and Ardeshir Irani.",
+  "Kiarostami's *Taste of Cherry* shared the 1997 Palme d'Or with Shohei Imamura's *The Eel*.",
+  "Majid Majidi's *Children of Heaven* was the first Iranian film to be nominated for an Oscar.",
+  "*A Separation* won both the Golden Bear in Berlin (2011) and the Oscar for best foreign-language film (2012).",
+  "The Fajr Film Festival, Iran's main film festival, is held in Tehran every February."
+ ]
+}

@@ -1,0 +1,130 @@
+{
+ "id": "arts-poetry-in-everyday-life",
+ "topic": "arts",
+ "title": "Poetry in everyday life",
+ "titleFa": "شعر در زندگی روزمره",
+ "titleR": "she'r dar zendegi-ye ruzmarre",
+ "image": "tomb-of-hafez",
+ "summary": "In Iran poetry is not only for books: people take omens from Hafez, paint verses on walls and trucks, play verse-capping games on winter nights and drop a well-chosen line into ordinary conversation.",
+ "body": [
+  {
+   "h": "A nation that quotes poetry",
+   "md": "Ask an Iranian taxi driver about Hafez and you may well hear a whole ghazal by heart. Poetry in Iran is not a school subject people forget; it is part of everyday speech. The Divan of Hafez sits on the shelf in countless homes, often beside the Quran. The tombs of Hafez and Saadi in Shiraz, of Ferdowsi in Tus and of Khayyam in Nishapur are visited like shrines, and the calendar has days in honour of the great poets. Reading verse aloud even has its own word: [[شعرخوانی|she'r-khāni|poetry reading]]."
+  },
+  {
+   "h": "Asking Hafez",
+   "md": "Hafez is also consulted. To take a [[فال حافظ|fāl-e Hāfez|Hafez omen]], you make a silent wish – a [[نیت|niyyat|intention]] – open the Divan at random and read the ghazal on the page. Its lines are Hafez's answer, and someone who knows the poems well explains what they mean for you. That is why Iranians call him [[لسان‌الغیب|lesān-ol-gheyb|the Tongue of the Unseen]].\n\nFamilies take a fāl on Yalda night and at Nowruz, and in Tehran's streets fortune-sellers offer folded verses, sometimes picked out by a small trained bird. Everyone hopes for the famous line that tells the sad to take heart: [[یوسف گم‌گشته بازآید به کنعان، غم مخور|Yusof-e gom-gashte bāz āyad be Kan'ān, gham makhor|Lost Joseph will come back to Canaan – do not grieve]].",
+   "image": "divan-hafez"
+  },
+  {
+   "h": "Verses on walls and trucks",
+   "md": "Poetry is written all over the country. Lines of Hafez and Saadi run in tile across shrines and gateways, tea houses hang framed verses, and gravestones and wedding invitations quote the classics. A line of Ferdowsi is painted on the walls of many schools: [[توانا بود هر که دانا بود|tavānā bovad har ke dānā bovad|whoever has knowledge has power]].\n\nOn the road, truck and bus drivers paint verses, prayers and jokes on their bumpers and on the backs of their cabs – a folk genre Iranians call, with affection, [[ادبیات کامیونی|adabiyāt-e kāmiyoni|truck literature]].",
+   "image": "nastaliq"
+  },
+  {
+   "h": "The verse game",
+   "md": "At family gatherings someone is always asked to recite, and a good reader is admired like a good singer. On long winter evenings, especially on Yalda night, families play [[مشاعره|moshā'ere|the verse-capping game]]: one person recites a line of poetry, and the next must answer with a line that begins with the last letter of the one before. Run out of verses and you are out. Schools hold mosha'ere contests, and television has run them too.",
+   "image": "yalda"
+  },
+  {
+   "h": "Poetry nights",
+   "md": "New poetry has its stage as well. At a [[شب شعر|shab-e she'r|poetry night]] poets read their work to an audience, which answers with sighs, applause and cries of [[مکرر|mokarrar|'again!']] when a line deserves to be heard twice. Cultural centres, universities, cafés and literary circles hold them all year. The most famous were ten nights of readings in Tehran in October 1977, which drew thousands of listeners and became a landmark in the country's cultural life."
+  },
+  {
+   "h": "A verse for every occasion",
+   "md": "Above all, Iranians quote. A well-chosen line can comfort a friend, win an argument, soften a refusal or round off a speech, and people who could never write a poem can find the right verse for any moment. To say that all people belong together, they turn to Saadi: [[بنی‌آدم اعضای یک پیکرند|bani-ādam a'zā-ye yek peykar-and|the children of Adam are limbs of one body]]. Learn a few lines by heart and you will be surprised how often you hear them – and how warmly people react when you quote one back.",
+   "image": "saadi"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "بسیاری از ایرانی‌ها شعرهای حافظ را از حفظ می‌دانند.",
+   "r": "besyāri az irāni-hā she'r-hā-ye Hāfez rā az hefz mi-dānand.",
+   "en": "Many Iranians know Hafez's poems by heart."
+  },
+  {
+   "fa": "در بیشتر خانه‌ها یک دیوان حافظ هست.",
+   "r": "dar bishtar-e khāne-hā yek divān-e Hāfez hast.",
+   "en": "There is a Divan of Hafez in most homes."
+  },
+  {
+   "fa": "شب یلدا فال حافظ می‌گیریم.",
+   "r": "shab-e Yaldā fāl-e Hāfez mi-girim.",
+   "en": "On Yalda night we take a Hafez omen."
+  },
+  {
+   "fa": "اول نیت کن، بعد دیوان را باز کن.",
+   "r": "avval niyyat kon, ba'd divān rā bāz kon.",
+   "en": "First make a wish, then open the Divan."
+  },
+  {
+   "fa": "فالت چه آمد؟",
+   "r": "fāl-at che āmad?",
+   "en": "What did your omen say?",
+   "lit": "what came for your omen?"
+  },
+  {
+   "fa": "حافظ را «لسان‌الغیب» می‌نامند.",
+   "r": "Hāfez rā «lesān-ol-gheyb» mi-nāmand.",
+   "en": "Hafez is called 'the Tongue of the Unseen'."
+  },
+  {
+   "fa": "روی دیوار مدرسه‌ی ما یک شعر از فردوسی نوشته‌اند.",
+   "r": "ru-ye divār-e madrese-ye mā yek she'r az Ferdowsi neveshte-and.",
+   "en": "A line by Ferdowsi has been written on the wall of our school."
+  },
+  {
+   "fa": "راننده‌های کامیون پشت ماشینشان شعر می‌نویسند.",
+   "r": "rānande-hā-ye kāmiyon posht-e māshin-eshān she'r mi-nevisand.",
+   "en": "Truck drivers write poetry on the backs of their vehicles."
+  },
+  {
+   "fa": "در مهمانی‌ها گاهی مشاعره می‌کنیم.",
+   "r": "dar mehmāni-hā gāhi moshā'ere mi-konim.",
+   "en": "At parties we sometimes play the verse game."
+  },
+  {
+   "fa": "در مشاعره، هر بیت باید با حرف آخر بیت قبلی شروع شود.",
+   "r": "dar moshā'ere, har beyt bāyad bā harf-e ākhar-e beyt-e ghabli shoru' shavad.",
+   "en": "In mosha'ere, each verse must begin with the last letter of the verse before."
+  },
+  {
+   "fa": "امشب در کتابخانه شب شعر است.",
+   "r": "emshab dar ketābkhāne shab-e she'r ast.",
+   "en": "Tonight there is a poetry night at the library."
+  },
+  {
+   "fa": "او برای هر موقعیتی یک بیت شعر بلد است.",
+   "r": "u barā-ye har mowghe'iyyat-i yek beyt she'r balad ast.",
+   "en": "He knows a verse for every occasion."
+  }
+ ],
+ "vocab": [
+  {"fa": "شعر", "r": "she'r", "en": "poem, poetry; a line of verse"},
+  {"fa": "شاعر", "r": "shā'er", "en": "poet"},
+  {"fa": "بیت", "r": "beyt", "en": "verse, couplet"},
+  {"fa": "غزل", "r": "ghazal", "en": "ghazal, lyric poem"},
+  {"fa": "دیوان", "r": "divān", "en": "collected poems of a poet"},
+  {"fa": "فال", "r": "fāl", "en": "omen, fortune"},
+  {"fa": "فال گرفتن", "r": "fāl gereftan", "en": "to take an omen, to have one's fortune told"},
+  {"fa": "نیت", "r": "niyyat", "en": "intention, silent wish"},
+  {"fa": "از حفظ", "r": "az hefz", "en": "by heart"},
+  {"fa": "شعرخوانی", "r": "she'r-khāni", "en": "poetry reading, recital"},
+  {"fa": "مشاعره", "r": "moshā'ere", "en": "verse-capping game"},
+  {"fa": "شب شعر", "r": "shab-e she'r", "en": "poetry night"},
+  {"fa": "آرامگاه", "r": "ārāmgāh", "en": "tomb, mausoleum"},
+  {"fa": "کامیون", "r": "kāmiyon", "en": "truck, lorry"},
+  {"fa": "مکرر", "r": "mokarrar", "en": "repeated; 'again!' (at a reading)"},
+  {"fa": "ادبیات", "r": "adabiyāt", "en": "literature"},
+  {"fa": "یاد گرفتن", "r": "yād gereftan", "en": "to learn"},
+  {"fa": "خواندن", "r": "khāndan", "en": "to read; to recite; to sing"}
+ ],
+ "facts": [
+  "Iran's calendar honours its poets: Hafez Day falls on 20 Mehr (around 12 October), Saadi Day on 1 Ordibehesht (around 21 April) and Ferdowsi Day on 25 Ordibehesht (around 15 May).",
+  "The Divan of Hafez holds about 500 ghazals, and it often has a place on the haft-sin table at Nowruz.",
+  "The tomb of Hafez in Shiraz, the [[حافظیه|Hāfeziyye]], is busiest at sunset, when visitors read his verses aloud and take a fāl.",
+  "Saadi's 'Children of Adam' is woven into a Persian carpet given to the United Nations, which hangs at its headquarters in New York.",
+  "The 'Ten Nights' of poetry in October 1977 were organised by the Writers' Association of Iran in the garden of the Goethe-Institut in Tehran.",
+  "In Iranian Persian the same verb, [[خواندن|khāndan]], means to read, to recite and to sing."
+ ]
+}

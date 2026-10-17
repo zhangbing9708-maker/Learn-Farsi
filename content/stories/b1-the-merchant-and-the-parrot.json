@@ -1,0 +1,333 @@
+{
+ "id": "b1-the-merchant-and-the-parrot",
+ "level": "B1",
+ "kind": "fable",
+ "title": "The merchant and the parrot",
+ "titleFa": "بازرگان و طوطی",
+ "titleR": "bāzargān o tuti",
+ "image": "rumi",
+ "intro": "One of the best-loved stories in Rumi's Masnavi: a merchant, a caged parrot, and a message carried to the parrots of India. Like all of Rumi's tales it is really a riddle about freedom. Read it for reported speech, the past perfect, and کاش for regrets.",
+ "source": "Retold in prose from Rumi's Masnavi, Book One (13th century, public domain).",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "بازرگانی طوطی زیبایی داشت که در قفسی در خانه‌اش زندگی می‌کرد و شیرین سخن می‌گفت.",
+     "r": "bāzargān-i tuti-ye zibā-yi dāsht ke dar ghafas-i dar khāne-ash zendegi mi-kard o shirin sokhan mi-goft.",
+     "en": "A merchant had a beautiful parrot that lived in a cage in his house and talked sweetly.",
+     "faV": "بازَرگانی طوطیِ زیبایی داشت که دَر قَفَسی دَر خانه‌اَش زِندِگی می‌کَرد و شیرین سُخَن می‌گُفت.",
+     "a": "0905f5181dea"
+    },
+    {
+     "fa": "روزی بازرگان تصمیم گرفت برای تجارت به هندوستان برود.",
+     "r": "ruz-i bāzargān tasmim gereft barā-ye tejārat be Hendustān be-ravad.",
+     "en": "One day the merchant decided to travel to India to trade.",
+     "faV": "روزی بازَرگان تَصمیم گِرِفت بَرایِ تِجارَت به هِندوستان بِرَوَد.",
+     "a": "752bd23e3de8"
+    },
+    {
+     "fa": "از همه‌ی اهل خانه پرسید که چه سوغاتی می‌خواهند و هر کس چیزی خواست.",
+     "r": "az hame-ye ahl-e khāne porsid ke che sowghāti mi-khāhand o har kas chiz-i khāst.",
+     "en": "He asked everyone in the household what present they would like him to bring back, and each of them asked for something.",
+     "faV": "اَز هَمه‌یِ اَهلِ خانه پُرسید که چه سَوغاتی می‌خواهَند و هَر کَس چیزی خواست.",
+     "a": "65fc06c8ac41"
+    },
+    {
+     "fa": "وقتی نوبت طوطی رسید، او گفت: «من سوغات نمی‌خواهم؛ فقط وقتی طوطی‌های هندوستان را دیدی، سلام مرا به آن‌ها برسان.»",
+     "r": "vaghti nowbat-e tuti resid, u goft: «man sowghāt nemi-khāham; faghat vaghti tuti-hā-ye Hendustān rā didi, salām-e ma-rā be ān-hā be-resān.»",
+     "en": "When it was the parrot's turn, it said: \"I don't want a present; only, when you see the parrots of India, give them my greetings.\"",
+     "faV": "وَقتی نَوبَتِ طوطی رِسید، او گُفت: «مَن سَوغات نِمی‌خواهَم؛ فَقَط وَقتی طوطی‌هایِ هِندوستان را دیدی، سَلامِ مَرا به آن‌ها بِرِسان.»",
+     "a": "618c62d461f2"
+    },
+    {
+     "fa": "«به آن‌ها بگو: دوست شما در قفس است و شما در باغ‌ها آزادید؛ آیا این انصاف است؟»",
+     "r": "«be ān-hā be-gu: dust-e shomā dar ghafas ast o shomā dar bāgh-hā āzād-id; āyā in ensāf ast?»",
+     "en": "\"Tell them: your friend is in a cage while you fly free in the gardens – is that fair?\"",
+     "faV": "«به آن‌ها بِگو: دوستِ شُما دَر قَفَس اَست و شُما دَر باغ‌ها آزادید؛ آیا این اِنصاف اَست؟»",
+     "a": "be07be2cae3d"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "بازرگان به هندوستان رسید و در دشتی چند طوطی را روی درختی دید.",
+     "r": "bāzargān be Hendustān resid o dar dasht-i chand tuti rā ru-ye derakht-i did.",
+     "en": "The merchant reached India, and out on a plain he saw some parrots in a tree.",
+     "faV": "بازَرگان به هِندوستان رِسید و دَر دَشتی چَند طوطی را رویِ دِرَختی دید.",
+     "a": "76608c47c827"
+    },
+    {
+     "fa": "اسبش را نگه داشت و پیام طوطی خود را به آن‌ها گفت.",
+     "r": "asb-ash rā negah dāsht o payām-e tuti-ye khod rā be ān-hā goft.",
+     "en": "He reined in his horse and gave them his parrot's message.",
+     "faV": "اَسبَش را نِگَه داشت و پَیامِ طوطیِ خود را به آن‌ها گُفت.",
+     "a": "5225d60f6c41"
+    },
+    {
+     "fa": "ناگهان یکی از طوطی‌ها لرزید، از شاخه افتاد و بی‌حرکت روی زمین ماند.",
+     "r": "nāgahān yek-i az tuti-hā larzid, az shākhe oftād o bi-harekat ru-ye zamin mānd.",
+     "en": "Suddenly one of the parrots trembled, fell from its branch and lay motionless on the ground.",
+     "faV": "ناگَهان یِکی اَز طوطی‌ها لَرزید، اَز شاخه اُفتاد و بی‌حَرِکَت رویِ زَمین ماند.",
+     "a": "fb25eed2ee07"
+    },
+    {
+     "fa": "بازرگان پشیمان شد و با خود گفت: «کاش این پیام را نگفته بودم؛ شاید این طوطی از خویشان طوطی من بود.»",
+     "r": "bāzargān pashimān shod o bā khod goft: «kāsh in payām rā na-gofte budam; shāyad in tuti az khishān-e tuti-ye man bud.»",
+     "en": "The merchant was filled with regret and said to himself: \"If only I hadn't passed on that message! Perhaps this parrot was a relative of my own.\"",
+     "faV": "بازَرگان پَشیمان شُد و با خود گُفت: «کاش این پَیام را نَگُفته بودَم؛ شایَد این طوطی اَز خویشانِ طوطیِ مَن بود.»",
+     "a": "9ae905792e59"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "کار بازرگان در هندوستان خوب پیش رفت، اما در تمام راه بازگشت به آن طوطی فکر می‌کرد.",
+     "r": "kār-e bāzargān dar Hendustān khub pish raft, ammā dar tamām-e rāh-e bāzgasht be ān tuti fekr mi-kard.",
+     "en": "The merchant's business in India went well, but all the way home he kept thinking about that parrot.",
+     "faV": "کارِ بازَرگان دَر هِندوستان خوب پیش رَفت، اَمّا دَر تَمامِ راهِ بازگَشت به آن طوطی فِکر می‌کَرد.",
+     "a": "a61f21a5e798"
+    },
+    {
+     "fa": "وقتی به خانه برگشت، به هر کس سوغاتش را داد.",
+     "r": "vaghti be khāne bar-gasht, be har kas sowghāt-ash rā dād.",
+     "en": "When he got home he gave everyone their present.",
+     "faV": "وَقتی به خانه بَرگَشت، به هَر کَس سَوغاتَش را داد.",
+     "a": "476d2d6adaab"
+    },
+    {
+     "fa": "طوطی پرسید: «از دوستانم چه خبر؟» و بازرگان با ناراحتی تعریف کرد که چه دیده بود.",
+     "r": "tuti porsid: «az dustān-am che khabar?» o bāzargān bā nārāhati ta'rif kard ke che dide bud.",
+     "en": "The parrot asked: \"What news of my friends?\" and, sadly, the merchant told it what he had seen.",
+     "faV": "طوطی پُرسید: «اَز دوستانَم چه خَبَر؟» و بازَرگان با ناراحَتی تَعریف کَرد که چه دیده بود.",
+     "a": "95c7a0bb013c"
+    },
+    {
+     "fa": "همین که حرفش تمام شد، طوطی او هم لرزید و بی‌جان کف قفس افتاد.",
+     "r": "hamin ke harf-ash tamām shod, tuti-ye u ham larzid o bi-jān kaf-e ghafas oftād.",
+     "en": "As soon as he had finished, his own parrot trembled too and fell lifeless to the floor of the cage.",
+     "faV": "هَمین که حَرفَش تَمام شُد، طوطیِ او هَم لَرزید و بی‌جان کَفِ قَفَس اُفتاد.",
+     "a": "2b2d49678a78"
+    },
+    {
+     "fa": "بازرگان فریاد زد، کلاهش را بر زمین زد و گریه کرد: «ای طوطی شیرین‌سخن من! چه کسی حالا برای من حرف خواهد زد؟»",
+     "r": "bāzargān faryād zad, kolāh-ash rā bar zamin zad o gerye kard: «ey tuti-ye shirin-sokhan-e man! che kas-i hālā barā-ye man harf khāhad zad?»",
+     "en": "The merchant cried out, threw his hat to the ground and wept: \"O my sweet-voiced parrot! Who will talk to me now?\"",
+     "faV": "بازَرگان فَریاد زَد، کُلاهَش را بَر زَمین زَد و گِریه کَرد: «اَی طوطیِ شیرین‌سُخَنِ مَن! چه کَسی حالا بَرایِ مَن حَرف خواهَد زَد؟»",
+     "a": "5bef6e3fb674"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "سپس در قفس را باز کرد و طوطی را بیرون انداخت.",
+     "r": "sepas dar-e ghafas rā bāz kard o tuti rā birun andākht.",
+     "en": "Then he opened the cage door and threw the parrot out.",
+     "faV": "سِپَس دَرِ قَفَس را باز کَرد و طوطی را بیرون اَنداخت.",
+     "a": "918ca4d345c5"
+    },
+    {
+     "fa": "ناگهان طوطی پر زد و روی بلندترین شاخه‌ی درخت نشست.",
+     "r": "nāgahān tuti par zad o ru-ye boland-tarin shākhe-ye derakht neshast.",
+     "en": "At once the parrot spread its wings and flew up to the highest branch of the tree.",
+     "faV": "ناگَهان طوطی پَر زَد و رویِ بُلَندتَرین شاخه‌یِ دِرَخت نِشَست.",
+     "a": "6626aa977604"
+    },
+    {
+     "fa": "بازرگان حیران ماند و پرسید: «این چه رازی بود؟»",
+     "r": "bāzargān heyrān mānd o porsid: «in che rāz-i bud?»",
+     "en": "The merchant stood astonished and asked: \"What secret is this?\"",
+     "faV": "بازَرگان حَیران ماند و پُرسید: «این چه رازی بود؟»",
+     "a": "92568c4638fd"
+    },
+    {
+     "fa": "طوطی گفت: «آن طوطی هندوستان با کارش به من پیام داد: صدای شیرینت تو را زندانی کرده است؛ خودت را به مردن بزن تا آزاد شوی.»",
+     "r": "tuti goft: «ān tuti-ye Hendustān bā kār-ash be man payām dād: sedā-ye shirin-at to rā zendāni karde ast; khod-at rā be mordan be-zan tā āzād shavi.»",
+     "en": "The parrot said: \"That parrot in India sent me a message through what it did: your sweet voice has made you a prisoner; play dead, and you will be free.\"",
+     "faV": "طوطی گُفت: «آن طوطیِ هِندوستان با کارَش به مَن پَیام داد: صِدایِ شیرینَت تو را زِندانی کَرده اَست؛ خودَت را به مُردَن بِزَن تا آزاد شَوی.»",
+     "a": "d7dd0e5420cd"
+    },
+    {
+     "fa": "طوطی با بازرگان خداحافظی کرد و به سوی هندوستان پرواز کرد.",
+     "r": "tuti bā bāzargān khodā-hāfezi kard o be su-ye Hendustān parvāz kard.",
+     "en": "The parrot said goodbye to the merchant and flew off towards India.",
+     "faV": "طوطی با بازَرگان خُداحافِظی کَرد و به سویِ هِندوستان پَرواز کَرد.",
+     "a": "5457e79c3a9b"
+    },
+    {
+     "fa": "بازرگان به آسمان نگاه کرد و گفت: «در پناه خدا برو! تو به من هم راه تازه‌ای نشان دادی.»",
+     "r": "bāzargān be āsemān negāh kard o goft: «dar panāh-e khodā be-ro! to be man ham rāh-e tāze-i neshān dādi.»",
+     "en": "The merchant looked up at the sky and said: \"Go, and God keep you! You have shown me a new way too.\"",
+     "faV": "بازَرگان به آسِمان نِگاه کَرد و گُفت: «دَر پَناهِ خُدا بِرو! تو به مَن هَم راهِ تازه‌ای نِشان دادی.»",
+     "a": "4909b4b91c88"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "بازرگان",
+   "r": "bāzargān",
+   "en": "merchant",
+   "faV": "بازَرگان",
+   "a": "3df2414bccdd"
+  },
+  {
+   "fa": "طوطی",
+   "r": "tuti",
+   "en": "parrot",
+   "faV": "طوطی",
+   "a": "9863358dc03b"
+  },
+  {
+   "fa": "قفس",
+   "r": "ghafas",
+   "en": "cage",
+   "faV": "قَفَس",
+   "a": "7319da07d089"
+  },
+  {
+   "fa": "تجارت",
+   "r": "tejārat",
+   "en": "trade",
+   "faV": "تِجارَت",
+   "a": "f5e135d6ef4d"
+  },
+  {
+   "fa": "سوغات",
+   "r": "sowghāt",
+   "en": "a present brought back from a journey",
+   "faV": "سَوغات",
+   "a": "e5240a2cc6ca"
+  },
+  {
+   "fa": "سلام رساندن",
+   "r": "salām resāndan",
+   "en": "to pass on someone's greetings",
+   "faV": "سَلام رِساندَن",
+   "a": "a92ca1c87bd9"
+  },
+  {
+   "fa": "انصاف",
+   "r": "ensāf",
+   "en": "fairness",
+   "faV": "اِنصاف",
+   "a": "4f363c9007a3"
+  },
+  {
+   "fa": "شاخه",
+   "r": "shākhe",
+   "en": "branch",
+   "faV": "شاخه",
+   "a": "698c3f808314"
+  },
+  {
+   "fa": "لرزیدن",
+   "r": "larzidan",
+   "en": "to tremble",
+   "faV": "لَرزیدَن",
+   "a": "fb76c20a6193"
+  },
+  {
+   "fa": "بی‌حرکت",
+   "r": "bi-harekat",
+   "en": "motionless",
+   "faV": "بی‌حَرِکَت",
+   "a": "19889eb92afb"
+  },
+  {
+   "fa": "کاش",
+   "r": "kāsh",
+   "en": "if only, I wish",
+   "faV": "کاش",
+   "a": "fd83672aa877"
+  },
+  {
+   "fa": "خویشان",
+   "r": "khishān",
+   "en": "relatives",
+   "faV": "خویشان",
+   "a": "4b6cb06ef430"
+  },
+  {
+   "fa": "بی‌جان",
+   "r": "bi-jān",
+   "en": "lifeless",
+   "faV": "بی‌جان",
+   "a": "0bc20029f95c"
+  },
+  {
+   "fa": "حیران",
+   "r": "heyrān",
+   "en": "astonished, bewildered",
+   "faV": "حَیران",
+   "a": "3fbfa954e4f0"
+  },
+  {
+   "fa": "زندانی کردن",
+   "r": "zendāni kardan",
+   "en": "to imprison",
+   "faV": "زِندانی کَردَن",
+   "a": "a18efe1d9f6d"
+  },
+  {
+   "fa": "خود را به مردن زدن",
+   "r": "khod rā be mordan zadan",
+   "en": "to play dead",
+   "faV": "خود را به مُردَن زَدَن",
+   "a": "3b990e563d60"
+  }
+ ],
+ "questions": [
+  {
+   "q": "What present did the parrot ask for?",
+   "options": [
+    "a golden cage",
+    "nothing – only that the merchant pass on its message",
+    "seeds from India"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What happened when the merchant gave the message in India?",
+   "options": [
+    "the parrots flew away",
+    "one parrot trembled and fell as if dead",
+    "the parrots sent an answer back"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "How did the merchant feel after that?",
+   "options": [
+    "proud of himself",
+    "full of regret – he wished he hadn't said it",
+    "angry with his own parrot"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "How did the parrot get out of its cage?",
+   "options": [
+    "it broke the door with its beak",
+    "it played dead and the merchant threw it out",
+    "the merchant set it free as a present"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "According to the parrot, what had kept it in the cage?",
+   "options": [
+    "its sweet voice",
+    "its bright feathers",
+    "its long beak"
+   ],
+   "answer": 0
+  }
+ ],
+ "after": "Rumi – مولوی (Mowlavi) or مولانا (Mowlānā) to Iranians – tells this story in Book One of the Masnavi, and readers have explained the parrot's riddle in many ways: the cage is the body or the ego, the parrots of India are free souls, and playing dead means 'dying before you die' – letting go of the self, even of the gifts we are praised for, in order to be free. Grammar to notice: کاش + past perfect for a regret about the past (کاش نگفته بودم, 'if only I hadn't said it'), reported questions with no change of tense (پرسید که چه سوغاتی می‌خواهند), and همین که, 'as soon as'. سوغات is the present you bring home from a journey – coming back without one is still a small social crime.",
+ "titleV": "بازَرگان و طوطی",
+ "titleA": "4ec35e828e16"
+}

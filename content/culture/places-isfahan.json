@@ -1,0 +1,276 @@
+{
+ "id": "places-isfahan",
+ "topic": "places",
+ "title": "Isfahan",
+ "titleFa": "اصفهان",
+ "titleR": "Esfahān",
+ "image": "isfahan",
+ "summary": "Shah Abbas's capital of blue domes, arched bridges and one of the largest squares in the world. How to spend three days in 'half the world', what to eat there and when to go.",
+ "body": [
+  {
+   "h": "Half the world",
+   "md": "Iranians have a rhyme for [[اصفهان|Esfahān|Isfahan]]: [[اصفهان نصف جهان|Esfahān nesf-e jahān|Isfahan is half the world]]. Shah Abbas I made the city his capital in 1598 and filled it with mosques, palaces, bridges and gardens, and for many travellers it is still the high point of a trip to Iran.\n\nToday Isfahan is the country's third-largest city, an industrial centre of about two million people, but its heart is the Safavid city along the [[زاینده‌رود|Zāyande-rud|Zayandeh river]], whose name means 'the life-giving river'."
+  },
+  {
+   "h": "Naqsh-e Jahan Square",
+   "md": "The [[میدان نقش جهان|meydān-e Naghsh-e Jahān|Naqsh-e Jahan Square]], 560 metres long, was once a royal polo ground. Today families picnic on its lawns in the evening and horse-drawn carriages circle the fountains. On the south side stands the Shah Mosque, now the [[مسجد امام|Masjed-e Emām|Imam Mosque]], a mountain of blue tiles. On the east is the smaller [[مسجد شیخ لطف‌الله|Masjed-e Sheykh Lotfollāh|Sheikh Lotfollah Mosque]], with no minarets and no courtyard: go inside and look up, where a ray of light completes the figure of a peacock at the centre of the dome.\n\nOpposite rises the [[عالی‌قاپو|Āli-ghāpu|Ali Qapu]] palace, whose music room has a ceiling cut with vase-shaped niches, and at the north end a great gateway leads into the bazaar.",
+   "image": "sheikh-lotfollah"
+  },
+  {
+   "h": "Bridges over the river",
+   "md": "Shah Abbas's avenue, the [[چهارباغ|Chahārbāgh|Chaharbagh]], runs down to the river and the 33 arches of [[سی‌وسه‌پل|Si-o-se-pol|Si-o-se Pol]], built between 1599 and 1602. Further east, the [[پل خواجو|Pol-e Khāju|Khaju Bridge]] is also a dam, with wide steps down to the water; in the evening people gather under its arches to sing, because the vaults carry the voice beautifully.\n\nIn recent years the river has often been dry for much of the year, because of drought and heavy use of its water upstream. When the water is let through, the whole city comes out to see it.",
+   "image": "si-o-se-pol"
+  },
+  {
+   "h": "Jolfa and the Jameh Mosque",
+   "md": "South of the river lies [[جلفا|Jolfā|New Julfa]], the Armenian quarter founded when Shah Abbas brought Armenian merchants and craftsmen to Isfahan in 1604. Behind the plain brick walls of its [[کلیسای وانک|kelisā-ye Vānk|Vank Cathedral]], finished in 1664, every surface is painted, and the lanes around it are full of cafés.\n\nFor the oldest Isfahan, go to the [[مسجد جامع|Masjed-e Jāme'|Jameh Mosque]] in the north of the old city, where a thousand years of building – Seljuk brick domes, Mongol stucco, Safavid tiles – stand side by side.",
+   "image": "vank-cathedral"
+  },
+  {
+   "h": "Gaz, beryani and the Isfahani accent",
+   "md": "Isfahan's sweet is [[گز|gaz|nougat]], soft white nougat full of pistachios; a box of it is the classic souvenir. Its savoury speciality is [[بریانی|beryāni|beryani]], minced lamb cooked flat in a small pan and served on flatbread with cinnamon, raw onion and basil. The bazaar is the place for crafts: [[قلمکار|ghalamkār|block-printed cloth]], [[میناکاری|minākāri|enamel work]] and [[خاتم|khātam|inlay]].\n\nOther Iranians recognise the Isfahani accent at once by its musical, drawn-out melody, and Isfahanis are the heroes of countless jokes about being clever with money – jokes they usually tell best themselves.",
+   "image": "gaz"
+  },
+  {
+   "h": "Getting there and when to go",
+   "md": "Isfahan is an hour's flight or five to six hours by bus or train from Tehran, and it sits on the main routes to Shiraz and Yazd. The best seasons are spring and autumn; summer days are hot but dry, and winter nights can be frosty. Unless you enjoy crowds, avoid the Nowruz holiday in late March, when half of Iran seems to come here. Give the city at least three days: one for the square, one for the bridges and Jolfa, and one to get lost in the bazaar."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "ببخشید، میدان نقش جهان از این طرف است؟",
+   "r": "bebakhshid, meydān-e Naghsh-e Jahān az in taraf ast?",
+   "en": "Excuse me, is Naqsh-e Jahan Square this way?",
+   "col": "ببخشید، میدون نقش جهان از این طرفه؟",
+   "colR": "bebakhshid, meydun-e Naghsh-e Jahān az in tarafe?",
+   "faV": "بِبَخشید، مَیدانِ نَقشِ جَهان اَز این طَرَف اَست؟",
+   "a": "4e10e641b8eb",
+   "colV": "بِبَخشید، مَیدونِ نَقشِ جَهان اَز این طَرَفه؟",
+   "colA": "a3e20541db9f"
+  },
+  {
+   "fa": "مسجد شیخ لطف‌الله مناره ندارد.",
+   "r": "Masjed-e Sheykh Lotfollāh manāre na-dārad.",
+   "en": "The Sheikh Lotfollah Mosque has no minarets.",
+   "faV": "مَسجِدِ شَیخ لُطف‌اُلله مَناره نَدارَد.",
+   "a": "0456626d6013"
+  },
+  {
+   "fa": "مردم عصرها در میدان پیک‌نیک می‌کنند.",
+   "r": "mardom asr-hā dar meydān pik-nik mi-konand.",
+   "en": "In the evenings people have picnics in the square.",
+   "faV": "مَردُم عَصرها دَر مَیدان پیک‌نیک می‌کُنَند.",
+   "a": "d33fc7c98865"
+  },
+  {
+   "fa": "درشکه‌سواری دور میدان چقدر است؟",
+   "r": "doroshke-savāri dowr-e meydān cheghadr ast?",
+   "en": "How much is a carriage ride around the square?",
+   "col": "درشکه‌سواری دور میدون چنده؟",
+   "colR": "doroshke-savāri dowr-e meydun chande?",
+   "faV": "دُرُشکه‌سَواری دَورِ مَیدان چِقَدر اَست؟",
+   "a": "38388a2e785e",
+   "colV": "دُرُشکه‌سَواری دَورِ مَیدون چَنده؟",
+   "colA": "b22f615cd196"
+  },
+  {
+   "fa": "عصرها زیر پل خواجو آواز می‌خوانند.",
+   "r": "asr-hā zir-e Pol-e Khāju āvāz mi-khānand.",
+   "en": "In the evenings people sing under the Khaju Bridge.",
+   "faV": "عَصرها زیرِ پُلِ خواجو آواز می‌خوانَند.",
+   "a": "9c36d67e989c"
+  },
+  {
+   "fa": "امسال زاینده‌رود آب دارد؟",
+   "r": "emsāl Zāyande-rud āb dārad?",
+   "en": "Is there water in the Zayandeh river this year?",
+   "col": "امسال زاینده‌رود آب داره؟",
+   "colR": "emsāl Zāyande-rud āb dāre?",
+   "faV": "اِمسال زایَنده‌رود آب دارَد؟",
+   "a": "43cd94a10970",
+   "colV": "اِمسال زایَنده‌رود آب داره؟",
+   "colA": "b6f7b3490ca0"
+  },
+  {
+   "fa": "یک جعبه گز پسته‌ای، لطفاً.",
+   "r": "yek ja'be gaz-e peste-i, lotfan.",
+   "en": "A box of pistachio gaz, please.",
+   "faV": "یِک جَعبه گَزِ پِسته‌ای، لُطفاً.",
+   "a": "2faca8a3b007"
+  },
+  {
+   "fa": "بریانی را با نان و پیاز و ریحان می‌خورند.",
+   "r": "beryāni rā bā nān o piyāz o reyhān mi-khorand.",
+   "en": "Beryani is eaten with bread, onion and basil.",
+   "faV": "بِریانی را با نان و پیاز و رَیحان می‌خورَند.",
+   "a": "fb4d6f6255a1"
+  },
+  {
+   "fa": "عکس گرفتن داخل کلیسا آزاد است؟",
+   "r": "aks gereftan dākhel-e kelisā āzād ast?",
+   "en": "Is it all right to take photos inside the church?",
+   "faV": "عَکس گِرِفتَن داخِلِ کِلیسا آزاد اَست؟",
+   "a": "9c406f3ebb77"
+  },
+  {
+   "fa": "این میناکاری دست‌ساز است؟",
+   "r": "in minākāri dast-sāz ast?",
+   "en": "Is this enamel work handmade?",
+   "faV": "این میناکاری دَست‌ساز اَست؟",
+   "a": "6cde49a53fe6"
+  },
+  {
+   "fa": "اصفهان سومین شهر بزرگ ایران است.",
+   "r": "Esfahān sevvomin shahr-e bozorg-e Irān ast.",
+   "en": "Isfahan is Iran's third-largest city.",
+   "faV": "اِصفَهان سِوُّمین شَهرِ بُزُرگِ ایران اَست.",
+   "a": "a3dc135f42bd"
+  },
+  {
+   "fa": "برای دیدن اصفهان دست‌کم سه روز لازم است.",
+   "r": "barā-ye didan-e Esfahān dast-e-kam se ruz lāzem ast.",
+   "en": "You need at least three days to see Isfahan.",
+   "faV": "بَرایِ دیدَنِ اِصفَهان دَستِ‌کَم سه روز لازِم اَست.",
+   "a": "ea39a754a70b"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "میدان",
+   "r": "meydān",
+   "en": "square",
+   "faV": "مَیدان",
+   "a": "6db664e67e08"
+  },
+  {
+   "fa": "مسجد",
+   "r": "masjed",
+   "en": "mosque",
+   "faV": "مَسجِد",
+   "a": "49ee1117cef1"
+  },
+  {
+   "fa": "گنبد",
+   "r": "gonbad",
+   "en": "dome",
+   "faV": "گُنبَد",
+   "a": "73758d4a2ef1"
+  },
+  {
+   "fa": "مناره",
+   "r": "manāre",
+   "en": "minaret",
+   "faV": "مَناره",
+   "a": "18beed65ee7c"
+  },
+  {
+   "fa": "کاشی",
+   "r": "kāshi",
+   "en": "tile",
+   "faV": "کاشی",
+   "a": "087178ee6f1a"
+  },
+  {
+   "fa": "پل",
+   "r": "pol",
+   "en": "bridge",
+   "faV": "پُل",
+   "a": "295caf771580"
+  },
+  {
+   "fa": "رود",
+   "r": "rud",
+   "en": "river",
+   "faV": "رود",
+   "a": "95d365ebb09c"
+  },
+  {
+   "fa": "دهانه",
+   "r": "dahāne",
+   "en": "arch, span (of a bridge)",
+   "faV": "دَهانه",
+   "a": "5c7bd0a9cf77"
+  },
+  {
+   "fa": "کلیسا",
+   "r": "kelisā",
+   "en": "church",
+   "faV": "کِلیسا",
+   "a": "0b0b083a7412"
+  },
+  {
+   "fa": "محله",
+   "r": "mahalle",
+   "en": "neighbourhood, quarter",
+   "faV": "مَحَلّه",
+   "a": "847e3c3afa95"
+  },
+  {
+   "fa": "گز",
+   "r": "gaz",
+   "en": "gaz, Isfahan nougat",
+   "faV": "گَز",
+   "a": "a41936053c92"
+  },
+  {
+   "fa": "پسته",
+   "r": "peste",
+   "en": "pistachio",
+   "faV": "پِسته",
+   "a": "17b713fc6193"
+  },
+  {
+   "fa": "صنایع دستی",
+   "r": "sanāye'-e dasti",
+   "en": "handicrafts",
+   "faV": "صَنایِعِ دَستی",
+   "a": "48e0993d969c"
+  },
+  {
+   "fa": "درشکه",
+   "r": "doroshke",
+   "en": "horse-drawn carriage",
+   "faV": "دُرُشکه",
+   "a": "acec4055604c"
+  },
+  {
+   "fa": "آواز",
+   "r": "āvāz",
+   "en": "singing, song",
+   "faV": "آواز",
+   "a": "e62d36001c3d"
+  },
+  {
+   "fa": "نصف",
+   "r": "nesf",
+   "en": "half",
+   "faV": "نِصف",
+   "a": "d5f70bd1af51"
+  },
+  {
+   "fa": "جهان",
+   "r": "jahān",
+   "en": "world",
+   "faV": "جَهان",
+   "a": "d2cc1081b20a"
+  },
+  {
+   "fa": "سوغاتی",
+   "r": "soghāti",
+   "en": "souvenir, a gift brought back from a trip",
+   "faV": "سوغاتی",
+   "a": "eee2ef9adbf7"
+  }
+ ],
+ "facts": [
+  "Shah Abbas I made Isfahan the Safavid capital in 1598.",
+  "Naqsh-e Jahan Square, about 560 by 160 metres, was inscribed on the UNESCO World Heritage list in 1979; the Jameh Mosque of Isfahan followed in 2012.",
+  "Si-o-se Pol is almost 300 metres long and was built between 1599 and 1602.",
+  "The Sheikh Lotfollah Mosque has neither minarets nor a courtyard: it was built for the royal household.",
+  "Vank Cathedral in New Julfa was completed in 1664.",
+  "Zayandeh Rud means 'the life-giving river'.",
+  "With about two million people (2016 census), Isfahan is Iran's third-largest city."
+ ],
+ "titleV": "اِصفَهان",
+ "titleA": "e41b9910a1a3"
+}

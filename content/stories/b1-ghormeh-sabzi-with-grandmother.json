@@ -1,0 +1,319 @@
+{
+ "id": "b1-ghormeh-sabzi-with-grandmother",
+ "level": "B1",
+ "kind": "everyday life",
+ "title": "Ghormeh sabzi with Grandmother",
+ "titleFa": "قورمه‌سبزی با مادربزرگ",
+ "titleR": "ghorme-sabzi bā mādar-bozorg",
+ "image": "ghormeh-sabzi",
+ "intro": "Mina spends a Friday morning in her grandmother's kitchen learning to make ghormeh sabzi, the herb stew many Iranians call their national dish. While the pot simmers, her grandmother tells the story of the first ghormeh sabzi she ever cooked. Look for conditionals with اگر, the past perfect, and reported questions (پرسید که…).",
+ "source": "An original story for Learn Farsi.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "جمعه صبح مینا به خانه‌ی مادربزرگش رفت تا پختن قورمه‌سبزی را یاد بگیرد.",
+     "r": "jom'e sobh Minā be khāne-ye mādar-bozorg-ash raft tā pokhtan-e ghorme-sabzi rā yād be-girad.",
+     "en": "On Friday morning Mina went to her grandmother's house to learn how to cook ghormeh sabzi.",
+     "faV": "جُمعه صُبح مینا به خانه‌یِ مادَربُزُرگَش رَفت تا پُختَنِ قورمه‌سَبزی را یاد بِگیرَد.",
+     "a": "337c7676bb43"
+    },
+    {
+     "fa": "مادربزرگ همه چیز را آماده کرده بود: سبزی تازه، گوشت گوسفند، لوبیا قرمز، پیاز و لیمو عمانی.",
+     "r": "mādar-bozorg hame chiz rā āmāde karde bud: sabzi-ye tāze, gusht-e gusfand, lubiyā ghermez, piyāz o limu omāni.",
+     "en": "Grandmother had everything ready: fresh herbs, lamb, red kidney beans, onions and dried limes.",
+     "faV": "مادَربُزُرگ هَمه چیز را آماده کَرده بود: سَبزیِ تازه، گوشتِ گوسفَند، لوبیا قِرمِز، پیاز و لیمو عُمانی.",
+     "a": "ac951bec1af3"
+    },
+    {
+     "fa": "سبزی‌ها تره، جعفری، گشنیز و کمی شنبلیله بودند که شب قبل شسته و خرد شده بودند.",
+     "r": "sabzi-hā tare, ja'fari, geshniz o kam-i shanbalile budand ke shab-e ghabl shoste o khord shode budand.",
+     "en": "The herbs were Persian leek, parsley, coriander and a little fenugreek, which had been washed and chopped the night before.",
+     "faV": "سَبزی‌ها تَره، جَعفَری، گِشنیز و کَمی شَنبَلیله بودَند که شَبِ قَبل شُسته و خُرد شُده بودَند.",
+     "a": "7a9ec8c3a3d7"
+    },
+    {
+     "fa": "مادربزرگ گفت: «اگر سبزی را درست سرخ نکنی، قورمه‌سبزی‌ات بو و رنگ نخواهد داشت.»",
+     "r": "mādar-bozorg goft: «agar sabzi rā dorost sorkh na-koni, ghorme-sabzi-at bu o rang na-khāhad dāsht.»",
+     "en": "Grandmother said: \"If you don't fry the herbs properly, your ghormeh sabzi will have no smell and no colour.\"",
+     "faV": "مادَربُزُرگ گُفت: «اَگَر سَبزی را دُرُست سُرخ نَکُنی، قورمه‌سَبزی‌اَت بو و رَنگ نَخواهَد داشت.»",
+     "a": "01d009a261f1"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "اول سبزی را در روغن ریختند و آرام آرام سرخ کردند تا رنگش تیره شد و بوی خوبی در آشپزخانه پیچید.",
+     "r": "avval sabzi rā dar rowghan rikhtand o ārām ārām sorkh kardand tā rang-ash tire shod o bu-ye khub-i dar āshpaz-khāne pichid.",
+     "en": "First they put the herbs into the oil and fried them slowly, until they turned dark and a wonderful smell filled the kitchen.",
+     "faV": "اَوَّل سَبزی را دَر رَوغَن ریختَند و آرام آرام سُرخ کَردَند تا رَنگَش تیره شُد و بویِ خوبی دَر آشپَزخانه پیچید.",
+     "a": "baf270e4d665"
+    },
+    {
+     "fa": "بعد پیاز را با زردچوبه سرخ کردند، گوشت را اضافه کردند و وقتی گوشت رنگ گرفت، آب و لوبیا را ریختند.",
+     "r": "ba'd piyāz rā bā zard-chube sorkh kardand, gusht rā ezāfe kardand o vaghti gusht rang gereft, āb o lubiyā rā rikhtand.",
+     "en": "Then they fried the onion with turmeric and added the meat, and when the meat had browned they poured in water and the beans.",
+     "faV": "بَعد پیاز را با زَردچوبه سُرخ کَردَند، گوشت را اِضافه کَردَند و وَقتی گوشت رَنگ گِرِفت، آب و لوبیا را ریختَند.",
+     "a": "bab0a7734027"
+    },
+    {
+     "fa": "مادربزرگ لیموها را با چاقو سوراخ کرد و آن‌ها را هم در قابلمه انداخت.",
+     "r": "mādar-bozorg limu-hā rā bā chāghu surākh kard o ān-hā rā ham dar ghāblame andākht.",
+     "en": "Grandmother pierced the limes with a knife and dropped them into the pot as well.",
+     "faV": "مادَربُزُرگ لیموها را با چاقو سوراخ کَرد و آن‌ها را هَم دَر قابلَمه اَنداخت.",
+     "a": "8865c07632dd"
+    },
+    {
+     "fa": "در آخر سبزی سرخ‌شده را اضافه کردند و در قابلمه را گذاشتند تا خورش سه ساعت روی آتش کم بپزد و جا بیفتد.",
+     "r": "dar ākhar sabzi-ye sorkh-shode rā ezāfe kardand o dar-e ghāblame rā gozāshtand tā khoresh se sā'at ru-ye ātash-e kam be-pazad o jā bi-yoftad.",
+     "en": "Finally they added the fried herbs and put the lid on the pot, so that the stew could cook for three hours over a low flame and 'settle'.",
+     "faV": "دَر آخَر سَبزیِ سُرخ‌شُده را اِضافه کَردَند و دَرِ قابلَمه را گُذاشتَند تا خورِش سه ساعَت رویِ آتَشِ کَم بِپَزَد و جا بیُفتَد.",
+     "a": "debda428c61b"
+    },
+    {
+     "fa": "مادربزرگ گفت: «راز قورمه‌سبزی صبر است، دخترم؛ مثل زندگی.»",
+     "r": "mādar-bozorg goft: «rāz-e ghorme-sabzi sabr ast, dokhtar-am; mesl-e zendegi.»",
+     "en": "Grandmother said: \"The secret of ghormeh sabzi is patience, my girl – just like life.\"",
+     "faV": "مادَربُزُرگ گُفت: «رازِ قورمه‌سَبزی صَبر اَست، دُختَرَم؛ مِثلِ زِندِگی.»",
+     "a": "6ed280ed1be8"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "وقتی منتظر بودند، مینا پرسید که مادربزرگ این غذا را از چه کسی یاد گرفته است.",
+     "r": "vaghti montazer budand, Minā porsid ke mādar-bozorg in ghazā rā az che kas-i yād gerefte ast.",
+     "en": "While they waited, Mina asked who Grandmother had learned this dish from.",
+     "faV": "وَقتی مُنتَظِر بودَند، مینا پُرسید که مادَربُزُرگ این غَذا را اَز چه کَسی یاد گِرِفته اَست.",
+     "a": "3e1256924633"
+    },
+    {
+     "fa": "مادربزرگ خندید و گفت: «از مادرشوهرم؛ اما اول یک اشتباه بزرگ کردم.»",
+     "r": "mādar-bozorg khandid o goft: «az mādar-showhar-am; ammā avval yek eshtebāh-e bozorg kardam.»",
+     "en": "Grandmother laughed and said: \"From my mother-in-law – but first I made a big mistake.\"",
+     "faV": "مادَربُزُرگ خَندید و گُفت: «اَز مادَرشَوهَرَم؛ اَمّا اَوَّل یِک اِشتِباهِ بُزُرگ کَردَم.»",
+     "a": "207510985896"
+    },
+    {
+     "fa": "«سال اول ازدواجمان، می‌خواستم برای خانواده‌ی پدربزرگت قورمه‌سبزی بپزم و فکر می‌کردم هر چه شنبلیله بیشتر باشد، خورش خوشمزه‌تر می‌شود.»",
+     "r": "«sāl-e avval-e ezdevāj-emān, mi-khāstam barā-ye khānevāde-ye pedar-bozorg-at ghorme-sabzi be-pazam o fekr mi-kardam har che shanbalile bish-tar bāshad, khoresh khoshmaze-tar mi-shavad.»",
+     "en": "\"In the first year of our marriage I wanted to cook ghormeh sabzi for your grandfather's family, and I thought that the more fenugreek I put in, the tastier the stew would be.\"",
+     "faV": "«سالِ اَوَّلِ اِزدِواجِمان، می‌خواستَم بَرایِ خانِواده‌یِ پِدَربُزُرگَت قورمه‌سَبزی بِپَزَم و فِکر می‌کَردَم هَر چه شَنبَلیله بیشتَر باشَد، خورِش خوشمَزه‌تَر می‌شَوَد.»",
+     "a": "2b6aa9de1cf3"
+    },
+    {
+     "fa": "«خورش آن‌قدر تلخ شد که هیچ‌کس نمی‌توانست آن را بخورد، ولی پدربزرگت دو بشقاب خورد و گفت که تا حالا غذایی به این خوشمزگی نخورده است!»",
+     "r": "«khoresh ān-ghadr talkh shod ke hich-kas nemi-tavānest ān rā be-khorad, vali pedar-bozorg-at do boshghāb khord o goft ke tā hālā ghazā-yi be in khoshmazegi na-khorde ast!»",
+     "en": "\"The stew came out so bitter that nobody could eat it – but your grandfather ate two plates and said he had never tasted anything so delicious!\"",
+     "faV": "«خورِش آن‌قَدر تَلخ شُد که هیچ‌کَس نِمی‌تَوانِست آن را بِخورَد، وَلی پِدَربُزُرگَت دو بُشقاب خورد و گُفت که تا حالا غَذایی به این خوشمَزِگی نَخورده اَست!»",
+     "a": "1715ae6a2580"
+    },
+    {
+     "fa": "«فردای آن روز، مادرشوهرم مرا به آشپزخانه برد و همه‌ی مراحل را یکی‌یکی به من یاد داد.»",
+     "r": "«fardā-ye ān ruz, mādar-showhar-am ma-rā be āshpaz-khāne bord o hame-ye marāhel rā yeki-yeki be man yād dād.»",
+     "en": "\"The next day my mother-in-law took me into the kitchen and taught me every step, one by one.\"",
+     "faV": "«فَردایِ آن روز، مادَرشَوهَرَم مَرا به آشپَزخانه بُرد و هَمه‌یِ مَراحِل را یِکی‌یِکی به مَن یاد داد.»",
+     "a": "9c62052c8fc2"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "ظهر که پدربزرگ به خانه برگشت، بوی قورمه‌سبزی همه‌ی خانه را پر کرده بود.",
+     "r": "zohr ke pedar-bozorg be khāne bar-gasht, bu-ye ghorme-sabzi hame-ye khāne rā por karde bud.",
+     "en": "When Grandfather came home at noon, the smell of ghormeh sabzi had filled the whole house.",
+     "faV": "ظُهر که پِدَربُزُرگ به خانه بَرگَشت، بویِ قورمه‌سَبزی هَمه‌یِ خانه را پُر کَرده بود.",
+     "a": "d04b36a61d1a"
+    },
+    {
+     "fa": "مینا برنج را دم کرد و مادربزرگ ته‌دیگ طلایی را با افتخار سر سفره آورد.",
+     "r": "Minā berenj rā dam kard o mādar-bozorg tah-dig-e talā-yi rā bā eftekhār sar-e sofre āvard.",
+     "en": "Mina steamed the rice, and Grandmother proudly carried the golden tahdig to the sofreh.",
+     "faV": "مینا بِرِنج را دَم کَرد و مادَربُزُرگ تَه‌دیگِ طَلایی را با اِفتِخار سَرِ سُفره آوَرد.",
+     "a": "6caf9c139119"
+    },
+    {
+     "fa": "پدربزرگ اولین قاشق را خورد، چشمکی به مینا زد و گفت: «کمی تلخ است!» و همه خندیدند.",
+     "r": "pedar-bozorg avvalin ghāshogh rā khord, cheshmak-i be Minā zad o goft: «kam-i talkh ast!» o hame khandidand.",
+     "en": "Grandfather took the first spoonful, winked at Mina and said: \"It's a little bitter!\" – and everyone laughed.",
+     "faV": "پِدَربُزُرگ اَوَّلین قاشُق را خورد، چِشمَکی به مینا زَد و گُفت: «کَمی تَلخ اَست!» و هَمه خَندیدَند.",
+     "a": "61a883b9eb48"
+    },
+    {
+     "fa": "مینا تصمیم گرفت که دفعه‌ی بعد خودش تنهایی قورمه‌سبزی بپزد و پدر و مادرش را غافلگیر کند.",
+     "r": "Minā tasmim gereft ke daf'e-ye ba'd khod-ash tanhā-yi ghorme-sabzi be-pazad o pedar o mādar-ash rā ghāfelgir konad.",
+     "en": "Mina decided that next time she would cook ghormeh sabzi all by herself and surprise her parents.",
+     "faV": "مینا تَصمیم گِرِفت که دَفعه‌یِ بَعد خودَش تَنهایی قورمه‌سَبزی بِپَزَد و پِدَر و مادَرَش را غافِلگیر کُنَد.",
+     "a": "935a32cd1b29"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "سبزی",
+   "r": "sabzi",
+   "en": "herbs, greens",
+   "faV": "سَبزی",
+   "a": "f72deaeaf822"
+  },
+  {
+   "fa": "شنبلیله",
+   "r": "shanbalile",
+   "en": "fenugreek",
+   "faV": "شَنبَلیله",
+   "a": "dd8315a38772"
+  },
+  {
+   "fa": "لیمو عمانی",
+   "r": "limu omāni",
+   "en": "dried lime",
+   "faV": "لیمو عُمانی",
+   "a": "b3d9e34e2c12"
+  },
+  {
+   "fa": "خرد کردن",
+   "r": "khord kardan",
+   "en": "to chop",
+   "faV": "خُرد کَردَن",
+   "a": "dae3d86d370d"
+  },
+  {
+   "fa": "سرخ کردن",
+   "r": "sorkh kardan",
+   "en": "to fry",
+   "faV": "سُرخ کَردَن",
+   "a": "768534ca6b42"
+  },
+  {
+   "fa": "روغن",
+   "r": "rowghan",
+   "en": "oil",
+   "faV": "رَوغَن",
+   "a": "534a3beadddd"
+  },
+  {
+   "fa": "زردچوبه",
+   "r": "zard-chube",
+   "en": "turmeric",
+   "faV": "زَردچوبه",
+   "a": "d52c60220811"
+  },
+  {
+   "fa": "سوراخ کردن",
+   "r": "surākh kardan",
+   "en": "to pierce, to make a hole in",
+   "faV": "سوراخ کَردَن",
+   "a": "8b3458ece39f"
+  },
+  {
+   "fa": "قابلمه",
+   "r": "ghāblame",
+   "en": "cooking pot",
+   "faV": "قابلَمه",
+   "a": "8be135216ba0"
+  },
+  {
+   "fa": "جا افتادن",
+   "r": "jā oftādan",
+   "en": "(of a stew) to cook through and settle",
+   "faV": "جا اُفتادَن",
+   "a": "b1d0a77dcf33"
+  },
+  {
+   "fa": "صبر",
+   "r": "sabr",
+   "en": "patience",
+   "faV": "صَبر",
+   "a": "5631ac8da593"
+  },
+  {
+   "fa": "مادرشوهر",
+   "r": "mādar-showhar",
+   "en": "mother-in-law (a husband's mother)",
+   "faV": "مادَرشَوهَر",
+   "a": "b987be52b662"
+  },
+  {
+   "fa": "تلخ",
+   "r": "talkh",
+   "en": "bitter",
+   "faV": "تَلخ",
+   "a": "28f8b7b3b26c"
+  },
+  {
+   "fa": "مراحل",
+   "r": "marāhel",
+   "en": "steps, stages (singular مرحله)",
+   "faV": "مَراحِل",
+   "a": "abc371ebf50a"
+  },
+  {
+   "fa": "دم کردن",
+   "r": "dam kardan",
+   "en": "to steam (rice); to brew (tea)",
+   "faV": "دَم کَردَن",
+   "a": "6266f39e9334"
+  },
+  {
+   "fa": "ته‌دیگ",
+   "r": "tah-dig",
+   "en": "tahdig, the crisp rice from the bottom of the pot",
+   "faV": "تَه‌دیگ",
+   "a": "eb24fd517141"
+  }
+ ],
+ "questions": [
+  {
+   "q": "What had been done to the herbs the night before?",
+   "options": [
+    "they had been dried in the sun",
+    "they had been washed and chopped",
+    "they had been fried"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Why does Grandmother say the herbs must be fried properly?",
+   "options": [
+    "otherwise the stew has no smell or colour",
+    "otherwise the meat stays hard",
+    "otherwise the limes burst"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What was Grandmother's mistake in the first year of her marriage?",
+   "options": [
+    "she burned the rice",
+    "she forgot the meat",
+    "she put in far too much fenugreek"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What did Grandfather do when he tasted that first, bitter stew?",
+   "options": [
+    "he sent it back to the kitchen",
+    "he ate two plates and praised it",
+    "he cooked a new one himself"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Why does everyone laugh at the end?",
+   "options": [
+    "Grandfather repeats his old joke about the stew being bitter",
+    "the tahdig is burnt",
+    "Mina drops the pot"
+   ],
+   "answer": 0
+  }
+ ],
+ "after": "Ghormeh sabzi (قورمه‌سبزی) is often called Iran's national dish; قورمه comes from a Turkic word for 'fried' or 'braised', which fits, since everything is fried before it simmers. When a stew has cooked long enough it has جا افتاده, 'fallen into place' – and a person who has become mature and settled is جاافتاده too. Grammar to notice: the past perfect for what was done before the story starts (آماده کرده بود، خرد شده بودند); اگر with the subjunctive and the future for a real condition (اگر … سرخ نکنی، … نخواهد داشت); هر چه … بیشتر … ـتر, 'the more …, the more …'; and آن‌قدر … که, 'so … that'.",
+ "titleV": "قورمه‌سَبزی با مادَربُزُرگ",
+ "titleA": "6bd08528c486"
+}

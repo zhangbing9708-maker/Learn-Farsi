@@ -1,0 +1,313 @@
+{
+ "id": "a2-the-taxi-driver",
+ "level": "A2",
+ "kind": "everyday life",
+ "title": "The taxi driver",
+ "titleFa": "راننده‌ی تاکسی",
+ "titleR": "rānande-ye tāksi",
+ "image": "tehran-traffic",
+ "intro": "Tom is late for his Persian class and jumps into a Tehran taxi with a very chatty driver. When he asks the price, the driver answers with the most famous phrase of Persian politeness – and Tom takes it literally. The story practises the past tenses, reported speech with که, compound verbs (دیرش شد 'he was late', پیاده شد 'he got out', تعریف کرد 'he told'), a simple اگر, and the everyday ritual of تعارف (ta'ārof).",
+ "source": "An original story for this course.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "یک روز صبح، تام برای کلاس آقای کریمی دیرش شد.",
+     "r": "yek ruz sobh, Tām barā-ye kelās-e āghā-ye Karimi dir-ash shod.",
+     "en": "One morning Tom was running late for Mr Karimi's class.",
+     "faV": "یِک روز صُبح، تام بَرایِ کِلاسِ آقایِ کَریمی دیرَش شُد.",
+     "a": "9d3fbe6111c1"
+    },
+    {
+     "fa": "پس کنار خیابان ایستاد و یک تاکسی گرفت.",
+     "r": "pas kenār-e khiyābān istād o yek tāksi gereft.",
+     "en": "So he stood at the side of the street and got a taxi.",
+     "faV": "پَس کِنارِ خیابان ایستاد و یِک تاکسی گِرِفت.",
+     "a": "8cf2a6bd7bb1"
+    },
+    {
+     "fa": "راننده مردی شوخ و پرحرف بود.",
+     "r": "rānande mard-i shukh o por-harf bud.",
+     "en": "The driver was a jolly, talkative man.",
+     "faV": "رانَنده مَردی شوخ و پُرحَرف بود.",
+     "a": "d172df26f0c3"
+    },
+    {
+     "fa": "او تا تام را دید، پرسید: «اهل کجایی، آقا؟»",
+     "r": "u tā Tām rā did, porsid: «ahl-e kojā-yi, āghā?»",
+     "en": "As soon as he saw Tom, he asked: \"Where are you from, sir?\"",
+     "faV": "او تا تام را دید، پُرسید: «اَهلِ کُجایی، آقا؟»",
+     "a": "3a07bd5afaa9"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "تام گفت که استرالیایی است و در دانشگاه تهران فارسی می‌خواند.",
+     "r": "Tām goft ke ostorāliyāyi ast o dar dāneshgāh-e Tehrān fārsi mi-khānad.",
+     "en": "Tom said that he was Australian and was studying Persian at the University of Tehran.",
+     "faV": "تام گُفت که اُستُرالیایی اَست و دَر دانِشگاهِ تِهران فارسی می‌خوانَد.",
+     "a": "3a7d1055f097"
+    },
+    {
+     "fa": "راننده خیلی هیجان‌زده شد و گفت: «به‌به! استرالیا! کانگورو!»",
+     "r": "rānande kheyli hayajān-zade shod o goft: «bah-bah! ostorāliyā! kānguru!»",
+     "en": "The driver got very excited and said: \"Wow! Australia! Kangaroos!\"",
+     "faV": "رانَنده خَیلی هَیَجان‌زَده شُد و گُفت: «بَه‌بَه! اُستُرالیا! کانگورو!»",
+     "a": "459adb7845ee"
+    },
+    {
+     "fa": "بعد تا آخر راه درباره‌ی همه چیز حرف زد: ترافیک، فوتبال، قیمت گوشت و هوای تهران.",
+     "r": "ba'd tā ākhar-e rāh darbāre-ye hame chiz harf zad: terāfik, futbāl, gheymat-e gusht o havā-ye Tehrān.",
+     "en": "Then, all the way there, he talked about everything: the traffic, football, the price of meat and Tehran's air.",
+     "faV": "بَعد تا آخَرِ راه دَرباره‌یِ هَمه چیز حَرف زَد: تِرافیک، فوتبال، قَیمَتِ گوشت و هَوایِ تِهران.",
+     "a": "95ab2cb4aa30"
+    },
+    {
+     "fa": "تام فقط نصف حرف‌هایش را می‌فهمید، اما سر تکان می‌داد و می‌گفت: «بله، بله.»",
+     "r": "Tām faghat nesf-e harf-hā-yash rā mi-fahmid, ammā sar tekān mi-dād o mi-goft: «bale, bale.»",
+     "en": "Tom only understood half of what he said, but he kept nodding and saying \"Yes, yes.\"",
+     "faV": "تام فَقَط نِصفِ حَرف‌هایَش را می‌فَهمید، اَمّا سَر تِکان می‌داد و می‌گُفت: «بَله، بَله.»",
+     "a": "85fd31fbce8c"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "وقتی به دانشگاه رسیدند، تام پرسید: «ببخشید، چقدر می‌شود؟»",
+     "r": "vaghti be dāneshgāh residand, Tām porsid: «bebakhshid, cheghadr mi-shavad?»",
+     "en": "When they reached the university, Tom asked: \"Excuse me, how much is it?\"",
+     "faV": "وَقتی به دانِشگاه رِسیدَند، تام پُرسید: «بِبَخشید، چِقَدر می‌شَوَد؟»",
+     "a": "9d68ada572bd"
+    },
+    {
+     "fa": "راننده دستش را روی سینه‌اش گذاشت و گفت: «قابل ندارد، آقا. مهمان ما باشید.»",
+     "r": "rānande dast-ash rā ru-ye sine-ash gozāsht o goft: «ghābel na-dārad, āghā. mehmān-e mā bāshid.»",
+     "en": "The driver put his hand on his heart and said: \"It's nothing, sir. Be our guest.\"",
+     "lit": "It isn't worthy [of you], sir.",
+     "faV": "رانَنده دَستَش را رویِ سینه‌اَش گُذاشت و گُفت: «قابِل نَدارَد، آقا. مِهمانِ ما باشید.»",
+     "a": "9fdd014bf1e0"
+    },
+    {
+     "fa": "تام خیلی خوشحال شد.",
+     "r": "Tām kheyli khosh-hāl shod.",
+     "en": "Tom was delighted.",
+     "faV": "تام خَیلی خوشحال شُد.",
+     "a": "5b69b20baf3e"
+    },
+    {
+     "fa": "گفت: «واقعاً؟ خیلی ممنون!» و از ماشین پیاده شد.",
+     "r": "goft: «vāghe'an? kheyli mamnun!» va az māshin piyāde shod.",
+     "en": "He said, \"Really? Thank you so much!\" and got out of the car.",
+     "faV": "گُفت: «واقِعاً؟ خَیلی مَمنون!» و اَز ماشین پیاده شُد.",
+     "a": "eda85ec1b8cf"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "چند قدم رفت و ناگهان صدای راننده را شنید: «آقا! آقا!»",
+     "r": "chand ghadam raft o nāgahān sedā-ye rānande rā shenid: «āghā! āghā!»",
+     "en": "He had gone a few steps when he heard the driver calling: \"Sir! Sir!\"",
+     "faV": "چَند قَدَم رَفت و ناگَهان صِدایِ رانَنده را شِنید: «آقا! آقا!»",
+     "a": "2e6af77aff19"
+    },
+    {
+     "fa": "راننده با لبخند گفت: «قابل ندارد، ولی کرایه‌اش پنجاه هزار تومان است!»",
+     "r": "rānande bā labkhand goft: «ghābel na-dārad, vali kerāye-ash panjāh hezār tomān ast!»",
+     "en": "The driver smiled and said: \"It's nothing… but the fare is fifty thousand tomans!\"",
+     "faV": "رانَنده با لَبخَند گُفت: «قابِل نَدارَد، وَلی کِرایه‌اَش پَنجاه هِزار تومان اَست!»",
+     "a": "c392c2486fef"
+    },
+    {
+     "fa": "تام قرمز شد، پول را داد و خندید.",
+     "r": "Tām ghermez shod, pul rā dād o khandid.",
+     "en": "Tom turned red, paid, and laughed.",
+     "faV": "تام قِرمِز شُد، پول را داد و خَندید.",
+     "a": "307bc775e378"
+    },
+    {
+     "fa": "سر کلاس، تام ماجرا را برای آقای کریمی تعریف کرد.",
+     "r": "sar-e kelās, Tām mājarā rā barā-ye āghā-ye Karimi ta'rif kard.",
+     "en": "In class, Tom told Mr Karimi what had happened.",
+     "faV": "سَرِ کِلاس، تام ماجَرا را بَرایِ آقایِ کَریمی تَعریف کَرد.",
+     "a": "e83831a834e1"
+    },
+    {
+     "fa": "آقای کریمی خندید و گفت: «این تعارف است! اگر راننده گفت قابل ندارد، شما باید بگویید: خواهش می‌کنم، بفرمایید.»",
+     "r": "āghā-ye Karimi khandid o goft: «in ta'ārof ast! agar rānande goft ghābel na-dārad, shomā bāyad beguyid: khāhesh mi-konam, befarmāyid.»",
+     "en": "Mr Karimi laughed and said: \"That's ta'ārof! If a driver says 'it's nothing', you must say: 'Please, I insist – here you are.'\"",
+     "faV": "آقایِ کَریمی خَندید و گُفت: «این تَعارُف اَست! اَگَر رانَنده گُفت قابِل نَدارَد، شُما بایَد بِگویید: خواهِش می‌کُنَم، بِفَرمایید.»",
+     "a": "c3a543cb6df6"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "دیر شدن",
+   "r": "dir shodan",
+   "en": "to be late (دیرم شد: I was late)",
+   "faV": "دیر شُدَن",
+   "a": "b6a6ae7bfc8f"
+  },
+  {
+   "fa": "تاکسی گرفتن",
+   "r": "tāksi gereftan",
+   "en": "to get a taxi",
+   "faV": "تاکسی گِرِفتَن",
+   "a": "2c44da940875"
+  },
+  {
+   "fa": "راننده",
+   "r": "rānande",
+   "en": "driver",
+   "faV": "رانَنده",
+   "a": "a08d01db0708"
+  },
+  {
+   "fa": "پرحرف",
+   "r": "por-harf",
+   "en": "talkative",
+   "faV": "پُرحَرف",
+   "a": "fc072f69ff01"
+  },
+  {
+   "fa": "اهل کجایی؟",
+   "r": "ahl-e kojā-yi?",
+   "en": "where are you from?",
+   "faV": "اَهلِ کُجایی؟",
+   "a": "8a776511b0bb"
+  },
+  {
+   "fa": "دانشگاه",
+   "r": "dāneshgāh",
+   "en": "university",
+   "faV": "دانِشگاه",
+   "a": "890634c6c97a"
+  },
+  {
+   "fa": "هیجان‌زده",
+   "r": "hayajān-zade",
+   "en": "excited",
+   "faV": "هَیَجان‌زَده",
+   "a": "8ded63c83480"
+  },
+  {
+   "fa": "سر تکان دادن",
+   "r": "sar tekān dādan",
+   "en": "to nod (literally 'to shake the head')",
+   "faV": "سَر تِکان دادَن",
+   "a": "fd7c4b46cb01"
+  },
+  {
+   "fa": "چقدر می‌شود؟",
+   "r": "cheghadr mi-shavad?",
+   "en": "how much is it?",
+   "faV": "چِقَدر می‌شَوَد؟",
+   "a": "56165406cbab"
+  },
+  {
+   "fa": "سینه",
+   "r": "sine",
+   "en": "chest",
+   "faV": "سینه",
+   "a": "5e7e5742fe9a"
+  },
+  {
+   "fa": "قابل ندارد",
+   "r": "ghābel na-dārad",
+   "en": "it's nothing, be my guest (a polite offer, not to be taken literally)",
+   "faV": "قابِل نَدارَد",
+   "a": "2122d4e52c7a"
+  },
+  {
+   "fa": "پیاده شدن",
+   "r": "piyāde shodan",
+   "en": "to get out (of a car), get off",
+   "faV": "پیاده شُدَن",
+   "a": "758cad9855f9"
+  },
+  {
+   "fa": "کرایه",
+   "r": "kerāye",
+   "en": "fare; rent",
+   "faV": "کِرایه",
+   "a": "3cfe4a1254a3"
+  },
+  {
+   "fa": "ماجرا",
+   "r": "mājarā",
+   "en": "what happened, the story, incident",
+   "faV": "ماجَرا",
+   "a": "c4a801610ebb"
+  },
+  {
+   "fa": "تعریف کردن",
+   "r": "ta'rif kardan",
+   "en": "to tell, recount",
+   "faV": "تَعریف کَردَن",
+   "a": "0b99a18d53d4"
+  },
+  {
+   "fa": "خواهش می‌کنم",
+   "r": "khāhesh mi-konam",
+   "en": "please (I insist); you're welcome",
+   "faV": "خواهِش می‌کُنَم",
+   "a": "7734a4d18671"
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why did Tom take a taxi?",
+   "options": [
+    "it was raining",
+    "he was late for class",
+    "he was tired"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What did the driver talk about on the way?",
+   "options": [
+    "only Australia",
+    "nothing at all",
+    "everything: traffic, football, prices, the air"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What did the driver say when Tom asked the price?",
+   "options": [
+    "\"It's nothing, sir. Be our guest.\"",
+    "\"Fifty thousand tomans, please.\"",
+    "\"Get out!\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What mistake did Tom make?",
+   "options": [
+    "he went to the wrong university",
+    "he paid twice",
+    "he took the driver's polite offer literally"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "According to Mr Karimi, what should Tom say next time?",
+   "options": [
+    "\"Please, I insist – here you are.\"",
+    "\"Thank you!\" and leave",
+    "nothing at all"
+   ],
+   "answer": 0
+  }
+ ],
+ "after": "قابل ندارد (ghābel na-dārad; in speech قابلی نداره) literally means '[it] isn't worthy [of you]'. Taxi drivers, shopkeepers and hosts say it all the time, and it almost never means 'free': the polite answer is to insist – خواهش می‌کنم، بفرمایید 'please, here you are' – until the money is accepted, usually at the second or third try. This dance of offering and refusing is تعارف (ta'ārof). Grammar to notice: دیرش شد 'he was late' (literally 'it became late for him'); تا تام را دید 'as soon as he saw Tom'; گفت که استرالیایی است 'he said that he is Australian' – reported speech keeps the tense of the original words; and اگر راننده گفت… 'if the driver says…', where Persian may use the past after اگر for a future event. Prices are spoken in tomans; one toman is ten rials.",
+ "titleV": "رانَنده‌یِ تاکسی",
+ "titleA": "46e6fa9f1e1e"
+}

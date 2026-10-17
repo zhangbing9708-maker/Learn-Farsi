@@ -34,7 +34,7 @@ Everything works on a phone. Progress and saved words stay in the learner's brow
 | --- | --- |
 | `content/` | The course: `lessons/`, `stories/`, `culture/`, `poems/`, `news.json`, `phrasebook.json`, `idioms.json`, `verbs.json`, `course.json` (the order of everything) |
 | `data/` | The frequency dictionary, alphabet, sentence-pattern grammar, photo list and the recorded audio (`data/audio/fa/*.mp3`) |
-| `tools/` | Python scripts: `check_content.py` (validation), `make_audio.py` (records the audio), `build_site.py` (the website), `build_book.py` (the Markdown book), `numbers.py`, `build_images.py` |
+| `tools/` | Python scripts: `check_content.py` (validation), `make_audio.py` (records the audio), `build_site.py` (the website), `build_book.py` (the Markdown book), `persian_numbers.py` (number words), `build_images.py`, `make_icons.py` |
 | `assets/` | The site's stylesheet and script, plus generated search, flashcard and dictionary data |
 | `book/` | The Markdown edition, generated |
 | everything else | The generated website (`index.html`, `course/`, `stories/`, …), served by GitHub Pages |

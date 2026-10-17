@@ -1,0 +1,75 @@
+{
+ "id": "places-persepolis-and-pasargadae",
+ "topic": "places",
+ "title": "Persepolis and Pasargadae",
+ "titleFa": "تخت جمشید و پاسارگاد",
+ "titleR": "Takht-e Jamshid o Pāsārgād",
+ "image": "persepolis",
+ "summary": "A visitor's guide to the heartland of the first Persian empire, north of Shiraz: the terraces of Persepolis, the royal tombs of Naqsh-e Rostam and the lonely tomb of Cyrus at Pasargadae.",
+ "body": [
+  {
+   "h": "A day in the Achaemenid heartland",
+   "md": "North of Shiraz, in the plains of Fars, lie the ruins of the first Persian empire. In one long day from Shiraz you can see [[تخت جمشید|Takht-e Jamshid|Persepolis]], the ceremonial capital of Darius the Great and his successors; [[نقش رستم|Naghsh-e Rostam|Naqsh-e Rostam]], the cliff of royal tombs a few kilometres to the north; the small Sasanian reliefs of [[نقش رجب|Naghsh-e Rajab|Naqsh-e Rajab]] on the way; and, an hour's drive further north, [[پاسارگاد|Pāsārgād|Pasargadae]], the capital of Cyrus the Great. Many visitors split the trip in two and give Persepolis a whole morning."
+  },
+  {
+   "h": "Persepolis: what to see",
+   "md": "Start early, before the heat and the tour groups. A broad double staircase with low, shallow steps leads up to the terrace and the [[دروازه‌ی ملل|darvāze-ye melal|Gate of All Nations]], guarded by winged bulls. Beyond it, the staircases of the [[آپادانا|Āpādānā|Apadana]], the great audience hall, carry the famous procession of delegations bringing gifts to the king: look for the two-humped Bactrian camel, the lion attacking a bull and the guards in their long robes.\n\nThen walk through the [[تچر|Tachar|Tachara]], the palace of Darius, to the Hall of a Hundred Columns, and climb the hill behind the site to the rock tombs of two later kings for the best view over the ruins. The small museum is housed in a rebuilt part of the so-called Harem of Xerxes.",
+   "image": "persian-column"
+  },
+  {
+   "h": "Naqsh-e Rostam",
+   "md": "At Naqsh-e Rostam, four royal tombs are cut high into the cliff in the shape of a cross. An inscription identifies the tomb of Darius I; the others are thought to belong to Xerxes, Artaxerxes I and Darius II. Centuries later the Sasanian kings carved their own reliefs below them. The most famous shows Shapur I on horseback, celebrating his victory over the Roman emperor Valerian, whom he captured in AD 260.\n\nFacing the cliff stands a square stone tower, the [[کعبه‌ی زرتشت|Ka'be-ye Zartosht|Cube of Zoroaster]], whose purpose is still debated. Later Iranians named the whole site after [[رستم|Rostam|Rostam]], the hero of the Shahnameh, believing that the reliefs showed him.",
+   "image": "naqsh-e-rostam"
+  },
+  {
+   "h": "Pasargadae and the tomb of Cyrus",
+   "md": "At Pasargadae there is less to see, but the atmosphere is unforgettable. Alone on the windy plain stands the [[آرامگاه کوروش|ārāmgāh-e Kurosh|tomb of Cyrus]], a gabled stone chamber on six great steps, a little over 11 metres high. After the coming of Islam local people called it the tomb of [[مادر سلیمان|mādar-e Soleymān|Solomon's mother]], and that belief helped to protect it.\n\nNearby are the ruins of Cyrus's palaces, a gate pillar carved with a four-winged figure, and the outline of his palace garden – the earliest known example of the four-part Persian garden.",
+   "image": "pasargadae"
+  },
+  {
+   "h": "Tips and words for the visit",
+   "md": "Bring water, a hat and good shoes: there is little shade on the terrace. Ask a driver for 'Persepolis' and he may think you mean Tehran's most popular football club – ask instead for *Takht-e Jamshid*, 'the throne of Jamshid', named after the mythical king of the Shahnameh. Useful words on the signs are [[کاخ|kākh|palace]], [[ستون|sotun|column]], [[کتیبه|katibe|inscription]] and [[سنگ‌نگاره|sang-negāre|rock relief]].\n\nThe best seasons are spring and autumn. The Nowruz holiday is the busiest time of the year, and in summer the midday heat often passes 40°C."
+  }
+ ],
+ "sentences": [
+  {"fa": "یک دربست برای تخت جمشید و نقش رستم می‌خواهیم.", "r": "yek darbast barā-ye Takht-e Jamshid o Naghsh-e Rostam mi-khāhim.", "en": "We'd like a private taxi to Persepolis and Naqsh-e Rostam.", "col": "یه دربست برای تخت جمشید و نقش رستم می‌خوایم.", "colR": "ye darbast barā-ye Takht-e Jamshid o Naghsh-e Rostam mi-khāym."},
+  {"fa": "بلیت تخت جمشید را کجا می‌فروشند؟", "r": "belit-e Takht-e Jamshid rā kojā mi-forushand?", "en": "Where do they sell tickets for Persepolis?"},
+  {"fa": "صبح زود بیایید؛ ظهر خیلی گرم می‌شود.", "r": "sobh-e zud bi-yāyid; zohr kheyli garm mi-shavad.", "en": "Come early in the morning; it gets very hot at midday."},
+  {"fa": "این پلکان به دروازه‌ی ملل می‌رسد.", "r": "in pellekān be Darvāze-ye Melal mi-resad.", "en": "This staircase leads to the Gate of All Nations."},
+  {"fa": "روی این سنگ‌نگاره نمایندگان ملت‌ها هدیه می‌آورند.", "r": "ru-ye in sang-negāre namāyandegān-e mellat-hā hedye mi-āvarand.", "en": "On this relief the delegates of the nations are bringing gifts."},
+  {"fa": "چهار آرامگاه شاهان هخامنشی در نقش رستم است.", "r": "chahār ārāmgāh-e shāhān-e Hakhāmaneshi dar Naghsh-e Rostam ast.", "en": "Four tombs of Achaemenid kings are at Naqsh-e Rostam."},
+  {"fa": "شاپور در این نقش برجسته سوار بر اسب است.", "r": "Shāpur dar in naghsh-e barjaste savār bar asb ast.", "en": "In this relief Shapur is on horseback."},
+  {"fa": "آرامگاه کوروش شش پله دارد.", "r": "ārāmgāh-e Kurosh shesh pelle dārad.", "en": "The tomb of Cyrus has six steps."},
+  {"fa": "مردم قدیم فکر می‌کردند این آرامگاه مادر سلیمان است.", "r": "mardom-e ghadim fekr mi-kardand in ārāmgāh-e mādar-e Soleymān ast.", "en": "People in the old days thought this was the tomb of Solomon's mother."},
+  {"fa": "باغ پاسارگاد قدیمی‌ترین باغ ایرانی شناخته‌شده است.", "r": "bāgh-e Pāsārgād ghadimi-tarin bāgh-e irāni-ye shenākhte-shode ast.", "en": "The garden at Pasargadae is the oldest known Persian garden."},
+  {"fa": "در ایران این‌جا را «تخت جمشید» می‌نامند.", "r": "dar Irān in-jā rā «Takht-e Jamshid» mi-nāmand.", "en": "In Iran this place is called 'Takht-e Jamshid'."},
+  {"fa": "آب و کلاه یادتان نرود.", "r": "āb o kolāh yād-etān na-ravad.", "en": "Don't forget water and a hat."}
+ ],
+ "vocab": [
+  {"fa": "شاهنشاه", "r": "shāhanshāh", "en": "king of kings, emperor"},
+  {"fa": "امپراتوری", "r": "emperāturi", "en": "empire"},
+  {"fa": "هخامنشی", "r": "Hakhāmaneshi", "en": "Achaemenid"},
+  {"fa": "ساسانی", "r": "Sāsāni", "en": "Sasanian"},
+  {"fa": "آرامگاه", "r": "ārāmgāh", "en": "tomb, mausoleum"},
+  {"fa": "سرستون", "r": "sar-sotun", "en": "capital (top of a column)"},
+  {"fa": "گاو بالدار", "r": "gāv-e bāldār", "en": "winged bull"},
+  {"fa": "سنگ‌نگاره", "r": "sang-negāre", "en": "rock relief"},
+  {"fa": "کتیبه", "r": "katibe", "en": "inscription"},
+  {"fa": "اسطوره", "r": "osture", "en": "myth, legend"},
+  {"fa": "باستانی", "r": "bāstāni", "en": "ancient"},
+  {"fa": "شکوه", "r": "shokuh", "en": "splendour, grandeur"},
+  {"fa": "سایه", "r": "sāye", "en": "shade, shadow"},
+  {"fa": "کلاه", "r": "kolāh", "en": "hat"},
+  {"fa": "بلیت‌فروشی", "r": "belit-forushi", "en": "ticket office"},
+  {"fa": "راهنمای تور", "r": "rāhnamā-ye tur", "en": "tour guide"}
+ ],
+ "facts": [
+  "Persepolis was inscribed on the UNESCO World Heritage list in 1979, and Pasargadae in 2004.",
+  "The tomb of Cyrus stands a little over 11 metres high on a platform of six stone steps.",
+  "The palace garden at Pasargadae is the earliest known example of the chahar bagh, the four-part Persian garden.",
+  "Of the four royal tombs at Naqsh-e Rostam, only that of Darius I is identified by an inscription.",
+  "Valerian, captured by Shapur I in AD 260, was the only Roman emperor ever taken prisoner.",
+  "Naqsh-e Rostam means 'picture of Rostam': later Iranians thought the reliefs showed the hero of the Shahnameh.",
+  "The Persepolis museum occupies part of the so-called Harem of Xerxes, rebuilt by archaeologists in the 1930s."
+ ]
+}

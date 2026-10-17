@@ -1,0 +1,926 @@
+{
+ "id": "a2-08-if",
+ "level": "A2",
+ "n": 8,
+ "title": "If: plans and conditions",
+ "titleFa": "اگر هوا خوب باشد، می‌رویم.",
+ "titleR": "agar havā khub bāshad, mi-ravim.",
+ "intro": "Plans depend on things: the weather, your mother, the traffic. In this lesson you learn to say 'if' with اگر – with the subjunctive for things that may happen, with the present for things that are true now, and with the past for 'once this has happened' – plus 'otherwise' (وگرنه), 'unless' and 'even if'. You also get a first look at imaginary conditions. The setting: a picnic on Sizdah Bedar, the last day of the New Year holidays.",
+ "goals": [
+  "make conditions about the future with اگر + subjunctive: اگر باران بیاید",
+  "use اگر with the present for facts: اگر خسته‌ای",
+  "use اگر with the past for 'once, when': اگر رسیدی، زنگ بزن",
+  "add a warning with وگرنه 'or else'",
+  "say 'unless', 'even if' and 'as long as'",
+  "recognise an imaginary condition: اگر پول داشتم…"
+ ],
+ "image": "sizdah-bedar",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "Plans for Sizdah Bedar",
+   "context": "It is the twelfth day of Nowruz. Mina phones Reza about tomorrow, Sizdah Bedar, when every family goes out for a picnic.",
+   "lines": [
+    {
+     "who": "Mina",
+     "fa": "رضا، فردا سیزده‌به‌در است. برنامه‌ات چیست؟",
+     "r": "Rezā, fardā sizdah-be-dar ast. barnāme-at chist?",
+     "en": "Reza, tomorrow is Sizdah Bedar. What are your plans?",
+     "col": "رضا، فردا سیزده‌به‌دره. برنامه‌ت چیه؟",
+     "colR": "Rezā, fardā sizdah-be-dar-e. barnāme-t chi-ye?"
+    },
+    {
+     "who": "Reza",
+     "fa": "اگر هوا خوب باشد، با خانواده به باغ عمویم در کرج می‌رویم.",
+     "r": "agar havā khub bāshad, bā khānevāde be bāgh-e amu-yam dar Karaj mi-ravim.",
+     "en": "If the weather's good, we're going with the family to my uncle's garden in Karaj.",
+     "col": "اگه هوا خوب باشه، با خانواده می‌ریم باغ عموم تو کرج.",
+     "colR": "age havā khub bāshe, bā khānevāde mi-rim bāgh-e amu-m tu Karaj."
+    },
+    {
+     "who": "Mina",
+     "fa": "چه خوب! ولی اخبار می‌گوید شاید باران بیاید.",
+     "r": "che khub! vali akhbār mi-guyad shāyad bārān biyāyad.",
+     "en": "How lovely! But the news says it might rain.",
+     "col": "چه خوب! ولی اخبار می‌گه شاید بارون بیاد.",
+     "colR": "che khub! vali akhbār mi-ge shāyad bārun biyād."
+    },
+    {
+     "who": "Reza",
+     "fa": "حتی اگر باران بیاید، می‌رویم! سیزده‌به‌در نباید در خانه بمانیم.",
+     "r": "hattā agar bārān biyāyad, mi-ravim! sizdah-be-dar na-bāyad dar khāne bemānim.",
+     "en": "Even if it rains, we're going! On Sizdah Bedar we mustn't stay indoors.",
+     "col": "حتی اگه بارون بیاد، می‌ریم! سیزده‌به‌در نباید تو خونه بمونیم.",
+     "colR": "hattā age bārun biyād, mi-rim! sizdah-be-dar na-bāyad tu khune bemunim."
+    },
+    {
+     "who": "Mina",
+     "fa": "راست می‌گویی. ما هم اگر ماشین داشته باشیم، به پارک چیتگر می‌رویم.",
+     "r": "rāst mi-guyi. mā ham agar māshin dāshte bāshim, be pārk-e Chitgar mi-ravim.",
+     "en": "That's true. As for us, if we have the car, we'll go to Chitgar Park.",
+     "col": "راست می‌گی. ما هم اگه ماشین داشته باشیم، می‌ریم پارک چیتگر.",
+     "colR": "rāst mi-gi. mā ham age māshin dāshte bāshim, mi-rim pārk-e Chitgar."
+    },
+    {
+     "who": "Reza",
+     "fa": "چرا با ما نمی‌آیید؟ اگر بیایید، عمویم خیلی خوشحال می‌شود.",
+     "r": "cherā bā mā nemi-āyid? agar biyāyid, amu-yam kheyli khosh-hāl mi-shavad.",
+     "en": "Why don't you come with us? If you come, my uncle will be really pleased.",
+     "col": "چرا با ما نمیاین؟ اگه بیاین، عموم خیلی خوشحال می‌شه.",
+     "colR": "cherā bā mā nemiyāyn? age biyāyn, amu-m kheyli khosh-hāl mi-she."
+    },
+    {
+     "who": "Mina",
+     "fa": "اگر مادرم اجازه بدهد، حتماً می‌آییم! باید از او بپرسم.",
+     "r": "agar mādar-am ejāze bedahad, hatman mi-āyim! bāyad az u beporsam.",
+     "en": "If my mother agrees, we'll definitely come! I have to ask her.",
+     "col": "اگه مامانم اجازه بده، حتماً میایم! باید ازش بپرسم.",
+     "colR": "age māmān-am ejāze bede, hatman miyāym! bāyad az-ash beporsam."
+    },
+    {
+     "who": "Reza",
+     "fa": "باشد، ولی تا ساعت نه به من خبر بده، وگرنه جا نداریم!",
+     "r": "bāshad, vali tā sā'at-e noh be man khabar bedeh, vagarna jā na-dārim!",
+     "en": "OK, but let me know by nine, or we won't have room!",
+     "col": "باشه، ولی تا ساعت نه بهم خبر بده، وگرنه جا نداریم!",
+     "colR": "bāshe, vali tā sā'at-e noh beh-am khabar bede, vagarna jā na-dārim!"
+    },
+    {
+     "who": "Mina",
+     "fa": "چشم. راستی، سبزه‌مان را هم می‌آورم. باید آن را در آب بیندازیم، نه؟",
+     "r": "chashm. rāsti, sabze-mān rā ham mi-āvaram. bāyad ān rā dar āb biyandāzim, na?",
+     "en": "Will do. Oh, I'll bring our sabzeh too. We have to throw it into the water, don't we?",
+     "col": "چشم. راستی، سبزه‌مونم میارم. باید بندازیمش تو آب، نه؟",
+     "colR": "chashm. rāsti, sabze-mun-am miyāram. bāyad bendāzim-esh tu āb, na?"
+    },
+    {
+     "who": "Reza",
+     "fa": "بله. و می‌گویند اگر یک دختر مجرد سبزه را گره بزند، سال بعد عروس می‌شود!",
+     "r": "bale. va mi-guyand agar yek dokhtar-e mojarrad sabze rā gereh bezanad, sāl-e ba'd arus mi-shavad!",
+     "en": "Yes. And they say that if a single girl ties a knot in the sabzeh, she'll be a bride next year!",
+     "col": "آره. می‌گن اگه یه دختر مجرد سبزه رو گره بزنه، سال بعد عروس می‌شه!",
+     "colR": "āre. mi-gan age ye dokhtar-e mojarrad sabze ro gereh bezane, sāl-e ba'd arus mi-she!"
+    },
+    {
+     "who": "Mina",
+     "fa": "پس حتماً گره می‌زنم! اگر کار کرد، تو را به عروسی دعوت می‌کنم.",
+     "r": "pas hatman gereh mi-zanam! agar kār kard, to rā be arusi da'vat mi-konam.",
+     "en": "Then I'll definitely tie one! If it works, I'll invite you to the wedding.",
+     "col": "پس حتماً گره می‌زنم! اگه جواب داد، تو رو عروسی دعوت می‌کنم.",
+     "colR": "pas hatman gereh mi-zanam! age javāb dād, to ro arusi da'vat mi-konam."
+    },
+    {
+     "who": "Reza",
+     "fa": "قبول! فقط فردا دیر نکن، وگرنه بدون تو می‌رویم!",
+     "r": "ghabul! faghat fardā dir na-kon, vagarna bedun-e to mi-ravim!",
+     "en": "Deal! Just don't be late tomorrow, or we'll go without you!",
+     "col": "قبول! فقط فردا دیر نکن، وگرنه بی تو می‌ریم!",
+     "colR": "ghabul! faghat fardā dir na-kon, vagarna bi to mi-rim!"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "If…: اگر",
+   "md": "Every plan in the dialogue hangs on an [[اگر|agar|if]] (spoken [[اگه|age]]): [[اگر هوا خوب باشد|agar havā khub bāshad|if the weather is good]], [[اگر باران بیاید|agar bārān biyāyad|if it rains]], [[اگر مادرم اجازه بدهد|agar mādar-am ejāze bedahad|if my mother agrees]].\n\nA Persian condition has two halves, usually in this order and separated by a comma: the **if-clause** with [[اگر|agar]], then the **result**. The surprise for English speakers is the verb after *agar*. For something that may or may not happen, Persian uses the **subjunctive** you learned in lesson 4 – literally *if the weather be good* – never the future. The result is in the present (which, as you know, also covers the future) or in the imperative:\n\n[[اگر باران بیاید، در خانه می‌مانیم.|agar bārān biyāyad, dar khāne mi-mānim.|If it rains, we'll stay at home.]]\n\nThere is also a little word for the opposite case, *and if not*: [[وگرنه|vagarna|otherwise, or else]]. You hear it after almost every warning: [[زود بیا، وگرنه بدون تو می‌رویم!|zud biyā, vagarna bedun-e to mi-ravim!|come early, or we'll go without you!]]"
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "اگر",
+     "r": "agar",
+     "en": "if",
+     "pos": "conj",
+     "col": "اگه",
+     "colR": "age",
+     "ex": {
+      "fa": "اگر وقت داری، بیا.",
+      "r": "agar vaght dāri, biyā.",
+      "en": "If you have time, come."
+     }
+    },
+    {
+     "fa": "وگرنه",
+     "r": "vagarna",
+     "en": "otherwise, or else",
+     "pos": "conj",
+     "note": "from و اگر نه 'and if not'",
+     "ex": {
+      "fa": "عجله کن، وگرنه دیر می‌رسیم.",
+      "r": "ajale kon, vagarna dir mi-resim.",
+      "en": "Hurry up, or we'll be late."
+     }
+    },
+    {
+     "fa": "حتی اگر",
+     "r": "hattā agar",
+     "en": "even if",
+     "pos": "conj"
+    },
+    {
+     "fa": "مگر این‌که",
+     "r": "magar in-ke",
+     "en": "unless",
+     "pos": "conj",
+     "note": "followed by the subjunctive"
+    },
+    {
+     "fa": "به شرطی که",
+     "r": "be shart-i ke",
+     "en": "as long as, on condition that",
+     "pos": "conj"
+    },
+    {
+     "fa": "برنامه",
+     "r": "barnāme",
+     "en": "plan; programme",
+     "pos": "n",
+     "ex": {
+      "fa": "برای آخر هفته چه برنامه‌ای داری؟",
+      "r": "barā-ye ākhar-e hafte che barnāme-i dāri?",
+      "en": "What are your plans for the weekend?"
+     }
+    },
+    {
+     "fa": "سیزده‌به‌در",
+     "r": "sizdah-be-dar",
+     "en": "Sizdah Bedar – the picnic day that ends the New Year holidays",
+     "pos": "n",
+     "note": "literally 'the thirteenth out of doors'"
+    },
+    {
+     "fa": "سبزه",
+     "r": "sabze",
+     "en": "sprouted greens (from the haft-sin); grass",
+     "pos": "n"
+    },
+    {
+     "fa": "باغ",
+     "r": "bāgh",
+     "en": "garden, orchard",
+     "pos": "n"
+    },
+    {
+     "fa": "عمو",
+     "r": "amu",
+     "en": "uncle (father's brother)",
+     "pos": "n",
+     "note": "mother's brother is دایی dāyi"
+    },
+    {
+     "fa": "اخبار",
+     "r": "akhbār",
+     "en": "the news",
+     "pos": "n",
+     "note": "plural of خبر khabar 'a piece of news'"
+    },
+    {
+     "fa": "باران آمدن",
+     "r": "bārān āmadan",
+     "en": "to rain",
+     "pos": "v",
+     "note": "literally 'rain comes'; snow: برف آمدن",
+     "col": "بارون اومدن",
+     "colR": "bārun umadan"
+    },
+    {
+     "fa": "اجازه دادن",
+     "r": "ejāze dādan",
+     "en": "to allow, to let",
+     "pos": "v"
+    },
+    {
+     "fa": "خبر دادن",
+     "r": "khabar dādan",
+     "en": "to let (someone) know",
+     "pos": "v",
+     "ex": {
+      "fa": "اگر نتوانستی بیایی، به من خبر بده.",
+      "r": "agar na-tavānesti biyāyi, be man khabar bedeh.",
+      "en": "If you can't come, let me know."
+     }
+    },
+    {
+     "fa": "جا",
+     "r": "jā",
+     "en": "room, space; place",
+     "pos": "n",
+     "note": "جا نداریم 'we have no room'"
+    },
+    {
+     "fa": "انداختن",
+     "r": "andākhtan",
+     "en": "to throw",
+     "pos": "v",
+     "note": "present stem انداز andāz: بیندازیم 'let's throw'"
+    },
+    {
+     "fa": "گره زدن",
+     "r": "gereh zadan",
+     "en": "to tie a knot",
+     "pos": "v"
+    },
+    {
+     "fa": "آرزو کردن",
+     "r": "ārezu kardan",
+     "en": "to wish",
+     "pos": "v",
+     "ex": {
+      "fa": "برایت آرزوی موفقیت می‌کنم.",
+      "r": "barā-yat ārezu-ye movaffaghiyat mi-konam.",
+      "en": "I wish you success."
+     }
+    },
+    {
+     "fa": "عروس",
+     "r": "arus",
+     "en": "bride",
+     "pos": "n",
+     "note": "داماد dāmād 'bridegroom'"
+    },
+    {
+     "fa": "عروسی",
+     "r": "arusi",
+     "en": "wedding",
+     "pos": "n"
+    },
+    {
+     "fa": "دعوت کردن",
+     "r": "da'vat kardan",
+     "en": "to invite",
+     "pos": "v"
+    },
+    {
+     "fa": "قبول",
+     "r": "ghabul",
+     "en": "agreed!, deal!",
+     "pos": "interj",
+     "note": "قبول کردن 'to accept'"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "If it happens: اگر + subjunctive",
+   "md": "For a condition that may or may not come true, use [[اگر|agar]] + **subjunctive**. The result is in the present (with a future meaning), the imperative, or with [[می‌توانم|mi-tavānam]] or [[باید|bāyad]]:\n\n- [[اگر بیایی، خوشحال می‌شوم.|agar biyāyi, khosh-hāl mi-shavam.|If you come, I'll be glad.]]\n- [[اگر خسته باشی، می‌توانی بخوابی.|agar khaste bāshi, mi-tavāni bekhābi.|If you're tired, you can sleep.]]\n\nThe negative is the negative subjunctive: [[اگر نیایی|agar na-yāyi|if you don't come]], [[اگر وقت نداشته باشم|agar vaght na-dāshte bāsham|if I don't have time]]. Never use the future tense after *agar*. In speech *agar* is *age* and the verbs shrink as usual: [[اگه بیای|age biyāy|if you come]].",
+   "table": {
+    "head": [
+     "Person",
+     "if … have time",
+     "if … come",
+     "English"
+    ],
+    "rows": [
+     [
+      "I",
+      "[[اگر وقت داشته باشم|agar vaght dāshte bāsham]]",
+      "[[اگر بیایم|agar biyāyam]]",
+      "if I have time / if I come"
+     ],
+     [
+      "you",
+      "[[اگر وقت داشته باشی|agar vaght dāshte bāshi]]",
+      "[[اگر بیایی|agar biyāyi]]",
+      "if you have time / if you come"
+     ],
+     [
+      "he / she",
+      "[[اگر وقت داشته باشد|agar vaght dāshte bāshad]]",
+      "[[اگر بیاید|agar biyāyad]]",
+      "if he / she has time / comes"
+     ],
+     [
+      "we",
+      "[[اگر وقت داشته باشیم|agar vaght dāshte bāshim]]",
+      "[[اگر بیاییم|agar biyāyim]]",
+      "if we have time / if we come"
+     ],
+     [
+      "you (pl. / polite)",
+      "[[اگر وقت داشته باشید|agar vaght dāshte bāshid]]",
+      "[[اگر بیایید|agar biyāyid]]",
+      "if you have time / if you come"
+     ],
+     [
+      "they",
+      "[[اگر وقت داشته باشند|agar vaght dāshte bāshand]]",
+      "[[اگر بیایند|agar biyāyand]]",
+      "if they have time / if they come"
+     ],
+     [
+      "not (I)",
+      "[[اگر وقت نداشته باشم|agar vaght na-dāshte bāsham]]",
+      "[[اگر نیایم|agar na-yāyam]]",
+      "if I don't have time / if I don't come"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "اگر فردا باران بیاید، در خانه می‌مانیم.",
+     "r": "agar fardā bārān biyāyad, dar khāne mi-mānim.",
+     "en": "If it rains tomorrow, we'll stay at home.",
+     "col": "اگه فردا بارون بیاد، خونه می‌مونیم.",
+     "colR": "age fardā bārun biyād, khune mi-munim."
+    },
+    {
+     "fa": "اگر وقت داشته باشم، به تو سر می‌زنم.",
+     "r": "agar vaght dāshte bāsham, be to sar mi-zanam.",
+     "en": "If I have time, I'll drop in on you.",
+     "col": "اگه وقت داشته باشم، بهت سر می‌زنم.",
+     "colR": "age vaght dāshte bāsham, behet sar mi-zanam."
+    },
+    {
+     "fa": "اگر خسته باشی، می‌توانی این‌جا بخوابی.",
+     "r": "agar khaste bāshi, mi-tavāni in-jā bekhābi.",
+     "en": "If you're tired, you can sleep here."
+    },
+    {
+     "fa": "اگر زود برسیم، جای خوبی پیدا می‌کنیم.",
+     "r": "agar zud beresim, jā-ye khub-i peydā mi-konim.",
+     "en": "If we get there early, we'll find a good spot."
+    },
+    {
+     "fa": "اگر نیایی، ناراحت می‌شوم.",
+     "r": "agar na-yāyi, nārāhat mi-shavam.",
+     "en": "If you don't come, I'll be upset."
+    },
+    {
+     "fa": "اگر کمک لازم داشته باشید، به من بگویید.",
+     "r": "agar komak lāzem dāshte bāshid, be man beguyid.",
+     "en": "If you need any help, tell me."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "If it's true, once it's done: اگر with the present and the past",
+   "md": "Two other tenses are common after [[اگر|agar]].\n\n**The present** – when the condition is a fact now, something you can see or have just heard: [[اگر خسته‌ای، برو بخواب.|agar khaste-i, borow bekhāb.|If you're tired (and you are), go to bed.]] [[اگر می‌خواهی، با ما بیا.|agar mi-khāhi, bā mā biyā.|If you want, come with us.]]\n\n**The simple past** – for a future event that must be *finished* before the result: [[اگر رسیدی، به من زنگ بزن.|agar residi, be man zang bezan.|When you get there, ring me.]] Literally *if you arrived* – think *once you've arrived*. It is very common in notices: [[اگر سؤالی داشتید، بپرسید.|agar so'āl-i dāshtid, beporsid.|If you have any questions, ask.]] The simple past also works for real conditions about the past: [[اگر دیروز آمد، چرا مرا ندید؟|agar diruz āmad, cherā marā na-did?|If he came yesterday, why didn't he see me?]]\n\n**Unlikely or imaginary** conditions move further into the past: [[اگر پولدار بودم، در شمال خانه می‌خریدم.|agar puldār budam, dar shomāl khāne mi-kharidam.|If I were rich, I'd buy a house in the north.]] Just recognise this for now; you will learn it properly at B1.",
+   "table": {
+    "head": [
+     "After اگر",
+     "Example",
+     "English",
+     "Use"
+    ],
+    "rows": [
+     [
+      "subjunctive",
+      "[[اگر باران بیاید، نمی‌رویم.|agar bārān biyāyad, nemi-ravim.]]",
+      "If it rains, we won't go.",
+      "it may happen"
+     ],
+     [
+      "present",
+      "[[اگر خسته‌ای، برو بخواب.|agar khaste-i, borow bekhāb.]]",
+      "If you're tired, go to bed.",
+      "it is true now"
+     ],
+     [
+      "present",
+      "[[اگر می‌خواهی، با ما بیا.|agar mi-khāhi, bā mā biyā.]]",
+      "If you want, come with us.",
+      "it is true now"
+     ],
+     [
+      "simple past",
+      "[[اگر رسیدی، به من زنگ بزن.|agar residi, be man zang bezan.]]",
+      "When you get there, ring me.",
+      "once it has happened"
+     ],
+     [
+      "simple past",
+      "[[اگر دیروز آمد، چرا مرا ندید؟|agar diruz āmad, cherā marā na-did?]]",
+      "If he came yesterday, why didn't he see me?",
+      "a real past condition"
+     ],
+     [
+      "past … past continuous",
+      "[[اگر پول داشتم، ماشین می‌خریدم.|agar pul dāshtam, māshin mi-kharidam.]]",
+      "If I had money, I'd buy a car.",
+      "unlikely, imaginary (B1)"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "اگر گرسنه‌ای، غذا در یخچال است.",
+     "r": "agar gorosne-i, ghazā dar yakhchāl ast.",
+     "en": "If you're hungry, there's food in the fridge.",
+     "col": "اگه گشنه‌ای، غذا تو یخچاله.",
+     "colR": "age goshne-i, ghazā tu yakhchāl-e."
+    },
+    {
+     "fa": "اگر به تهران آمدی، حتماً به ما سر بزن.",
+     "r": "agar be Tehrān āmadi, hatman be mā sar bezan.",
+     "en": "If you come to Tehran, be sure to drop in on us.",
+     "col": "اگه اومدی تهران، حتماً به ما سر بزن.",
+     "colR": "age umadi Tehrān, hatman be mā sar bezan."
+    },
+    {
+     "fa": "اگر کار را تمام کردی، می‌توانی بروی.",
+     "r": "agar kār rā tamām kardi, mi-tavāni beravi.",
+     "en": "Once you've finished the work, you can go."
+    },
+    {
+     "fa": "اگر می‌خواهی فارسی یاد بگیری، باید هر روز تمرین کنی.",
+     "r": "agar mi-khāhi fārsi yād begiri, bāyad har ruz tamrin koni.",
+     "en": "If you want to learn Persian, you have to practise every day."
+    },
+    {
+     "fa": "اگر پولدار بودم، در شمال یک خانه می‌خریدم.",
+     "r": "agar puldār budam, dar shomāl yek khāne mi-kharidam.",
+     "en": "If I were rich, I'd buy a house in the north.",
+     "note": "an imaginary condition – recognise it for now; you will learn it at B1"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Or else, unless, even if: وگرنه، مگر این‌که، حتی اگر",
+   "md": "A few more words build conditions:\n\n- [[وگرنه|vagarna|otherwise, or else]] – short for *va agar na*, 'and if not'. It follows a command, a *must* or a plan and gives the bad result: [[عجله کن، وگرنه به قطار نمی‌رسیم.|ajale kon, vagarna be ghatār nemi-resim.|Hurry up, or we'll miss the train.]]\n- [[اگر نه|agar na|if not]] – after a question or an offer.\n- [[مگر این‌که|magar in-ke|unless]] + subjunctive.\n- [[حتی اگر|hattā agar|even if]] + subjunctive; in everyday speech also *agar … ham*: [[اگر باران هم بیاید|agar bārān ham biyāyad|even if it rains]].\n- [[به شرطی که|be shart-i ke|as long as, on condition that]] + subjunctive.",
+   "table": {
+    "head": [
+     "Persian",
+     "English",
+     "Example",
+     "Example in English"
+    ],
+    "rows": [
+     [
+      "[[وگرنه|vagarna]]",
+      "otherwise, or else",
+      "[[عجله کن، وگرنه دیر می‌رسیم.|ajale kon, vagarna dir mi-resim.]]",
+      "Hurry up, or we'll be late."
+     ],
+     [
+      "[[اگر نه|agar na]]",
+      "if not",
+      "[[می‌آیی؟ اگر نه، تنها می‌روم.|mi-āyi? agar na, tanhā mi-ravam.]]",
+      "Are you coming? If not, I'll go alone."
+     ],
+     [
+      "[[مگر این‌که|magar in-ke]]",
+      "unless",
+      "[[فردا می‌رویم، مگر این‌که باران بیاید.|fardā mi-ravim, magar in-ke bārān biyāyad.]]",
+      "We'll go tomorrow, unless it rains."
+     ],
+     [
+      "[[حتی اگر|hattā agar]]",
+      "even if",
+      "[[حتی اگر دیر شود، صبر می‌کنم.|hattā agar dir shavad, sabr mi-konam.]]",
+      "Even if it gets late, I'll wait."
+     ],
+     [
+      "[[اگر … هم|agar … ham]]",
+      "even if (everyday)",
+      "[[اگر باران هم بیاید، می‌رویم.|agar bārān ham biyāyad, mi-ravim.]]",
+      "Even if it rains, we're going."
+     ],
+     [
+      "[[به شرطی که|be shart-i ke]]",
+      "as long as, on condition that",
+      "[[می‌آیم، به شرطی که زود برگردیم.|mi-āyam, be shart-i ke zud bargardim.]]",
+      "I'll come, as long as we come back early."
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "کاپشنت را بپوش، وگرنه سرما می‌خوری.",
+     "r": "kāpshen-at rā bepush, vagarna sarmā mi-khori.",
+     "en": "Put your jacket on, or you'll catch a cold.",
+     "col": "کاپشنتو بپوش، وگرنه سرما می‌خوری.",
+     "colR": "kāpshen-et-o bepush, vagarna sarmā mi-khori."
+    },
+    {
+     "fa": "باید امشب درس بخوانم، وگرنه فردا امتحان را خراب می‌کنم.",
+     "r": "bāyad emshab dars bekhānam, vagarna fardā emtehān rā kharāb mi-konam.",
+     "en": "I have to study tonight, or I'll mess up the exam tomorrow."
+    },
+    {
+     "fa": "فردا به کوه می‌رویم، مگر این‌که برف بیاید.",
+     "r": "fardā be kuh mi-ravim, magar in-ke barf biyāyad.",
+     "en": "We're going to the mountains tomorrow, unless it snows."
+    },
+    {
+     "fa": "حتی اگر گران باشد، آن را می‌خرم.",
+     "r": "hattā agar gerān bāshad, ān rā mi-kharam.",
+     "en": "Even if it's expensive, I'll buy it."
+    },
+    {
+     "fa": "زود بخواب، وگرنه صبح نمی‌توانی بیدار شوی.",
+     "r": "zud bekhāb, vagarna sobh nemi-tavāni bidār shavi.",
+     "en": "Go to bed early, or you won't be able to get up in the morning.",
+     "col": "زود بخواب، وگرنه صبح نمی‌تونی بیدار شی.",
+     "colR": "zud bekhāb, vagarna sobh nemi-tuni bidār shi."
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "A message from Ms Ahmadi",
+   "intro": "Ms Ahmadi, Tom's Persian teacher, sends her class a message about next week's trip to Isfahan. Count the conditions – and notice which tense comes after each اگر.",
+   "sentences": [
+    {
+     "fa": "دانشجویان عزیز، سلام.",
+     "r": "dāneshjuyān-e aziz, salām.",
+     "en": "Dear students, hello."
+    },
+    {
+     "fa": "پنجشنبه‌ی آینده با هم به اصفهان می‌رویم.",
+     "r": "panjshanbe-ye āyande bā ham be Esfahān mi-ravim.",
+     "en": "Next Thursday we're going to Isfahan together."
+    },
+    {
+     "fa": "اگر می‌خواهید بیایید، تا یکشنبه اسمتان را به من بدهید.",
+     "r": "agar mi-khāhid biyāyid, tā yekshanbe esm-etān rā be man bedahid.",
+     "en": "If you want to come, give me your name by Sunday."
+    },
+    {
+     "fa": "اتوبوس ساعت شش صبح از جلوی دانشگاه حرکت می‌کند.",
+     "r": "otobus sā'at-e shesh-e sobh az jelo-ye dāneshgāh harekat mi-konad.",
+     "en": "The bus leaves from in front of the university at six in the morning."
+    },
+    {
+     "fa": "اگر دیر کنید، اتوبوس منتظر نمی‌ماند!",
+     "r": "agar dir konid, otobus montazer nemi-mānad!",
+     "en": "If you're late, the bus won't wait!"
+    },
+    {
+     "fa": "اگر هوا خوب باشد، عصر کنار زاینده‌رود قدم می‌زنیم.",
+     "r": "agar havā khub bāshad, asr kenār-e Zāyande-rud ghadam mi-zanim.",
+     "en": "If the weather is good, in the afternoon we'll walk along the Zayandeh River."
+    },
+    {
+     "fa": "اگر باران بیاید، به جای آن به موزه می‌رویم.",
+     "r": "agar bārān biyāyad, be jā-ye ān be muze mi-ravim.",
+     "en": "If it rains, we'll go to a museum instead."
+    },
+    {
+     "fa": "کفش راحت بپوشید، وگرنه پاهایتان درد می‌گیرد.",
+     "r": "kafsh-e rāhat bepushid, vagarna pā-hā-yetān dard mi-girad.",
+     "en": "Wear comfortable shoes, or your feet will hurt."
+    },
+    {
+     "fa": "کسی که کارت دانشجویی داشته باشد، بلیت موزه را نصف قیمت می‌خرد.",
+     "r": "kas-i ke kārt-e dāneshjuyi dāshte bāshad, belit-e muze rā nesf-e gheymat mi-kharad.",
+     "en": "Anyone who has a student card pays half price for the museum ticket."
+    },
+    {
+     "fa": "اگر سؤالی داشتید، به من پیام بدهید.",
+     "r": "agar so'āl-i dāshtid, be man payām bedahid.",
+     "en": "If you have any questions, send me a message."
+    },
+    {
+     "fa": "به امید دیدار، خانم احمدی",
+     "r": "be omid-e didār, khānom Ahmadi",
+     "en": "Hoping to see you all, Ms Ahmadi"
+    }
+   ],
+   "questions": [
+    {
+     "q": "When does the bus leave?",
+     "options": [
+      "at six in the morning",
+      "at nine in the morning",
+      "on Sunday"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What will they do if it rains?",
+     "options": [
+      "stay in the hotel",
+      "go to a museum",
+      "go back to Tehran"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Who pays half price at the museum?",
+     "options": [
+      "everyone",
+      "anyone with a student card",
+      "the teacher"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "In «اگر سؤالی داشتید», which tense follows اگر?",
+     "options": [
+      "the subjunctive",
+      "the simple past",
+      "the present"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Sizdah Bedar: thirteen out of doors",
+   "md": "The New Year holidays end on [[سیزده‌به‌در|sizdah-be-dar]], the thirteenth day of Farvardin (1 or 2 April). Thirteen is thought to be an unlucky number, and the cure is to spend the day out of doors – *sizdah be dar* means *thirteen out of the door*. So on that day the cities empty: families take carpets, samovars and pots of food to parks, gardens, riverbanks and even the roadside, and spend the day eating, playing and talking. [[اگر باران هم بیاید|agar bārān ham biyāyad|even if it rains]], people still go out.\n\nEveryone brings the [[سبزه|sabze]] – the sprouted wheat or lentils from the haft-sin table – which is said to have soaked up the bad luck of the year. At the end of the day it is thrown into running water. Before that, unmarried girls tie a knot in a few blades of grass and make a wish, sometimes chanting [[سال دیگر، خانه‌ی شوهر، بچه بغل|sāl-e digar, khāne-ye showhar, bacche baghal|next year, in a husband's house, with a baby in my arms]]. The thirteenth is also a day for tricks and jokes, a little like April Fool's Day: the [[دروغ سیزده|dorugh-e sizdah|the lie of the thirteenth]].",
+   "image": "sizdah-bedar"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "**اگر** is *age* in speech. In writing, the two halves of a condition are separated by a comma.",
+    "Never use the future after اگر. 'If it rains tomorrow' is *agar fardā bārān biyāyad* – the subjunctive does the job.",
+    "**وگرنه** is *va agar na* 'and if not'. Think of it as 'or else': it always follows a command, a 'must' or a plan.",
+    "The past after اگر sounds odd to English ears, but it is everyday Persian: *agar residi, zang bezan* 'ring me when you get there' – literally 'if you arrived'.",
+    "In conversation you will also hear **اگه نه** and **اگه نشد** 'if not, if it doesn't work out': *age na-shod, fardā miyām* 'if it doesn't work out, I'll come tomorrow'."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the words",
+   "items": [
+    {
+     "fa": "اگر",
+     "r": "agar",
+     "en": "if"
+    },
+    {
+     "fa": "وگرنه",
+     "r": "vagarna",
+     "en": "otherwise, or else"
+    },
+    {
+     "fa": "مگر این‌که",
+     "r": "magar in-ke",
+     "en": "unless"
+    },
+    {
+     "fa": "حتی اگر",
+     "r": "hattā agar",
+     "en": "even if"
+    },
+    {
+     "fa": "به شرطی که",
+     "r": "be shart-i ke",
+     "en": "as long as"
+    },
+    {
+     "fa": "اگر نه",
+     "r": "agar na",
+     "en": "if not"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right form",
+   "items": [
+    {
+     "q": "'If it rains, we'll stay at home.'",
+     "options": [
+      "اگر باران خواهد آمد، در خانه می‌مانیم.",
+      "اگر باران بیاید، در خانه می‌مانیم.",
+      "اگر باران بیاید، در خانه ماندیم."
+     ],
+     "answer": 1,
+     "explain": "A possible future condition takes the subjunctive (biyāyad) and the result is in the present (mi-mānim). No future tense after agar."
+    },
+    {
+     "q": "'Hurry up, or we'll be late.'",
+     "options": [
+      "عجله کن، وگرنه دیر می‌رسیم.",
+      "عجله کن، اگر دیر می‌رسیم.",
+      "عجله کن، مگر این‌که دیر برسیم."
+     ],
+     "answer": 0,
+     "explain": "وگرنه 'or else' gives the bad result of not doing it."
+    },
+    {
+     "q": "'Ring me when you get there.' Which is natural Persian?",
+     "options": [
+      "اگر می‌رسی، به من زنگ زدی.",
+      "اگر رسیدن، زنگ بزن.",
+      "اگر رسیدی، به من زنگ بزن."
+     ],
+     "answer": 2,
+     "explain": "agar + simple past means 'once it has happened': agar residi."
+    },
+    {
+     "q": "'We'll go tomorrow, unless it snows.'",
+     "options": [
+      "فردا می‌رویم، حتی اگر برف بیاید.",
+      "فردا می‌رویم، مگر این‌که برف بیاید.",
+      "فردا می‌رویم، وگرنه برف می‌آید."
+     ],
+     "answer": 1,
+     "explain": "مگر این‌که 'unless' + subjunctive."
+    },
+    {
+     "q": "اگر پولدار بودم، ماشین می‌خریدم. This condition is…",
+     "options": [
+      "likely – it may well happen",
+      "imaginary – the speaker is not rich",
+      "a command"
+     ],
+     "answer": 1,
+     "explain": "Moving into the past (budam … mi-kharidam) makes the condition imaginary: 'If I were rich, I'd buy a car.'"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the conditions",
+   "items": [
+    {
+     "fa": "___ فردا هوا خوب باشد، به کوه می‌رویم.",
+     "r": "___ fardā havā khub bāshad, be kuh mi-ravim.",
+     "en": "If the weather is good tomorrow, we'll go to the mountains.",
+     "answer": "اگر",
+     "hint": "if"
+    },
+    {
+     "fa": "اگر وقت داشته ___، به تو سر می‌زنم.",
+     "r": "agar vaght dāshte ___, be to sar mi-zanam.",
+     "en": "If I have time, I'll drop in on you.",
+     "answer": "باشم",
+     "hint": "budan, I, subjunctive"
+    },
+    {
+     "fa": "کاپشنت را بپوش، ___ سرما می‌خوری.",
+     "r": "kāpshen-at rā bepush, ___ sarmā mi-khori.",
+     "en": "Put your jacket on, or you'll catch a cold.",
+     "answer": "وگرنه",
+     "hint": "or else"
+    },
+    {
+     "fa": "اگر باران ___، به موزه می‌رویم.",
+     "r": "agar bārān ___, be muze mi-ravim.",
+     "en": "If it rains, we'll go to a museum.",
+     "answer": "بیاید",
+     "hint": "āmadan, it, subjunctive"
+    },
+    {
+     "fa": "اگر ___، ناراحت می‌شوم.",
+     "r": "agar ___, nārāhat mi-shavam.",
+     "en": "If you don't come, I'll be upset.",
+     "answer": "نیایی",
+     "hint": "āmadan, you, negative subjunctive"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "اگر هوا خوب باشد، می‌رویم.",
+     "r": "agar havā khub bāshad, mi-ravim.",
+     "en": "If the weather is good, we'll go."
+    },
+    {
+     "fa": "اگر رسیدی، به من زنگ بزن.",
+     "r": "agar residi, be man zang bezan.",
+     "en": "Ring me when you get there."
+    },
+    {
+     "fa": "زود بیا، وگرنه بدون تو می‌رویم.",
+     "r": "zud biyā, vagarna bedun-e to mi-ravim.",
+     "en": "Come early, or we'll go without you."
+    },
+    {
+     "fa": "فردا می‌رویم، مگر این‌که برف بیاید.",
+     "r": "fardā mi-ravim, magar in-ke barf biyāyad.",
+     "en": "We'll go tomorrow, unless it snows."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "اگر خسته‌ای، برو بخواب.",
+     "r": "agar khaste-i, borow bekhāb.",
+     "en": "If you're tired, go to bed.",
+     "options": [
+      "I'm tired, I'm going to bed.",
+      "If you're tired, go to bed.",
+      "Don't sleep if you're tired."
+     ],
+     "answer": 1
+    },
+    {
+     "fa": "حتی اگر گران باشد، آن را می‌خرم.",
+     "r": "hattā agar gerān bāshad, ān rā mi-kharam.",
+     "en": "Even if it's expensive, I'll buy it.",
+     "options": [
+      "It's too expensive to buy.",
+      "Even if it's expensive, I'll buy it.",
+      "If it's cheap, I'll buy it."
+     ],
+     "answer": 1
+    },
+    {
+     "fa": "عجله کن، وگرنه دیر می‌رسیم.",
+     "r": "ajale kon, vagarna dir mi-resim.",
+     "en": "Hurry up, or we'll be late.",
+     "options": [
+      "Hurry up, or we'll be late.",
+      "Don't hurry, we're early.",
+      "We arrived late."
+     ],
+     "answer": 0
+    },
+    {
+     "fa": "اگر پول داشتم، ماشین می‌خریدم.",
+     "r": "agar pul dāshtam, māshin mi-kharidam.",
+     "en": "If I had money, I'd buy a car.",
+     "options": [
+      "I bought a car with my money.",
+      "If I have money, I'll buy a car.",
+      "If I had money, I'd buy a car."
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "If it rains tomorrow, we'll stay at home.",
+     "fa": "اگر فردا باران بیاید، در خانه می‌مانیم.",
+     "r": "agar fardā bārān biyāyad, dar khāne mi-mānim."
+    },
+    {
+     "en": "If you want, come with us.",
+     "fa": "اگر می‌خواهی، با ما بیا.",
+     "r": "agar mi-khāhi, bā mā biyā."
+    },
+    {
+     "en": "Don't be late, or we'll go without you!",
+     "fa": "دیر نکن، وگرنه بدون تو می‌رویم!",
+     "r": "dir na-kon, vagarna bedun-e to mi-ravim!"
+    },
+    {
+     "en": "Even if it's expensive, I'll buy it.",
+     "fa": "حتی اگر گران باشد، آن را می‌خرم.",
+     "r": "hattā agar gerān bāshad, ān rā mi-kharam."
+    },
+    {
+     "en": "If you need help, tell me.",
+     "fa": "اگر کمک لازم داشتی، به من بگو.",
+     "r": "agar komak lāzem dāshti, be man begu."
+    }
+   ]
+  }
+ ]
+}

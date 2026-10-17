@@ -1,0 +1,304 @@
+{
+ "id": "a2-the-shepherd-who-cried-wolf",
+ "level": "A2",
+ "kind": "fable",
+ "title": "The shepherd who cried wolf",
+ "titleFa": "چوپان دروغگو",
+ "titleR": "chupān-e dorugh-gu",
+ "image": "iranian-nomads",
+ "intro": "This fable came to Iran from Aesop, and every Iranian schoolchild knows it as چوپان دروغگو, 'the lying shepherd'. A bored young shepherd plays a trick on his village – twice. Read it for the two past tenses working together: the simple past for events (دوید 'he ran', رسیدند 'they arrived') and the past continuous for habits and background (می‌برد 'he used to take', می‌خندید 'he was laughing'), and for the villagers' warning with اگر 'if'.",
+ "source": "Retold from the traditional fable (Aesop), a classic of Iranian schoolbooks (public domain).",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "در یک روستای کوچک، چوپان جوانی زندگی می‌کرد.",
+     "r": "dar yek rustā-ye kuchak, chupān-e javān-i zendegi mi-kard.",
+     "en": "In a small village there lived a young shepherd.",
+     "faV": "دَر یِک روستایِ کوچَک، چوپانِ جَوانی زِندِگی می‌کَرد.",
+     "a": "6d4f9d902dd6"
+    },
+    {
+     "fa": "او هر روز گوسفندهای مردم روستا را به کوه می‌برد.",
+     "r": "u har ruz gusfand-hā-ye mardom-e rustā rā be kuh mi-bord.",
+     "en": "Every day he took the villagers' sheep up the mountain.",
+     "faV": "او هَر روز گوسفَندهایِ مَردُمِ روستا را به کوه می‌بُرد.",
+     "a": "b036d692a673"
+    },
+    {
+     "fa": "اما آن‌جا تنها بود و حوصله‌اش سر می‌رفت.",
+     "r": "ammā ān-jā tanhā bud o hosele-ash sar mi-raft.",
+     "en": "But up there he was all alone, and he got bored.",
+     "faV": "اَمّا آن‌جا تَنها بود و حوصِله‌اَش سَر می‌رَفت.",
+     "a": "944f0c19301b"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "یک روز فکری به سرش زد.",
+     "r": "yek ruz fekr-i be sar-ash zad.",
+     "en": "One day he had an idea.",
+     "lit": "One day a thought struck his head.",
+     "faV": "یِک روز فِکری به سَرَش زَد.",
+     "a": "98da4503f194"
+    },
+    {
+     "fa": "به طرف روستا دوید و فریاد زد: «گرگ! گرگ! کمک کنید!»",
+     "r": "be taraf-e rustā david o faryād zad: «gorg! gorg! komak konid!»",
+     "en": "He ran towards the village and shouted: \"Wolf! Wolf! Help!\"",
+     "faV": "به طَرَفِ روستا دَوید و فَریاد زَد: «گُرگ! گُرگ! کُمَک کُنید!»",
+     "a": "c4258cefd293"
+    },
+    {
+     "fa": "مردم کارشان را رها کردند و با چوب و بیل به کوه دویدند.",
+     "r": "mardom kār-eshān rā rahā kardand o bā chub o bil be kuh davidand.",
+     "en": "The villagers dropped their work and ran up the mountain with sticks and spades.",
+     "faV": "مَردُم کارِشان را رَها کَردَند و با چوب و بیل به کوه دَویدَند.",
+     "a": "33ac42da75b0"
+    },
+    {
+     "fa": "اما وقتی رسیدند، هیچ گرگی آن‌جا نبود.",
+     "r": "ammā vaghti residand, hich gorg-i ān-jā na-bud.",
+     "en": "But when they got there, there was no wolf at all.",
+     "faV": "اَمّا وَقتی رِسیدَند، هیچ گُرگی آن‌جا نَبود.",
+     "a": "141eef8befdb"
+    },
+    {
+     "fa": "چوپان می‌خندید و می‌گفت: «شوخی کردم!»",
+     "r": "chupān mi-khandid o mi-goft: «shukhi kardam!»",
+     "en": "The shepherd was laughing and saying: \"It was a joke!\"",
+     "faV": "چوپان می‌خَندید و می‌گُفت: «شوخی کَردَم!»",
+     "a": "798f8ba528e9"
+    },
+    {
+     "fa": "مردم عصبانی شدند و به روستا برگشتند.",
+     "r": "mardom asabāni shodand o be rustā bar-gashtand.",
+     "en": "The villagers got angry and went back to the village.",
+     "faV": "مَردُم عَصَبانی شُدَند و به روستا بَرگَشتَند.",
+     "a": "c53e0782fffe"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "چند روز بعد، چوپان دوباره همین کار را کرد.",
+     "r": "chand ruz ba'd, chupān dobāre hamin kār rā kard.",
+     "en": "A few days later, the shepherd played the same trick again.",
+     "faV": "چَند روز بَعد، چوپان دوباره هَمین کار را کَرد.",
+     "a": "8ae7cc2c2a23"
+    },
+    {
+     "fa": "باز هم مردم آمدند و باز هم گرگی ندیدند.",
+     "r": "bāz ham mardom āmadand o bāz ham gorg-i na-didand.",
+     "en": "Again the villagers came, and again they found no wolf.",
+     "faV": "باز هَم مَردُم آمَدَند و باز هَم گُرگی نَدیدَند.",
+     "a": "21743a90409b"
+    },
+    {
+     "fa": "این بار به او گفتند: «اگر یک بار دیگر دروغ بگویی، دیگر نمی‌آییم!»",
+     "r": "in bār be u goftand: «agar yek bār-e digar dorugh beguyi, digar nemi-āyim!»",
+     "en": "This time they told him: \"If you lie one more time, we won't come any more!\"",
+     "faV": "این بار به او گُفتَند: «اَگَر یِک بارِ دیگَر دُروغ بِگویی، دیگَر نِمی‌آییم!»",
+     "a": "e4e0c5da4199"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "یک روز عصر، یک گرگ واقعی از پشت سنگ‌ها بیرون آمد.",
+     "r": "yek ruz asr, yek gorg-e vāghe'i az posht-e sang-hā birun āmad.",
+     "en": "One evening a real wolf came out from behind the rocks.",
+     "faV": "یِک روز عَصر، یِک گُرگِ واقِعی اَز پُشتِ سَنگ‌ها بیرون آمَد.",
+     "a": "e69cef2b251c"
+    },
+    {
+     "fa": "چوپان با ترس فریاد زد: «گرگ! گرگ! این بار راست می‌گویم!»",
+     "r": "chupān bā tars faryād zad: «gorg! gorg! in bār rāst mi-guyam!»",
+     "en": "Terrified, the shepherd shouted: \"Wolf! Wolf! This time it's true!\"",
+     "faV": "چوپان با تَرس فَریاد زَد: «گُرگ! گُرگ! این بار راست می‌گویَم!»",
+     "a": "b869fe837818"
+    },
+    {
+     "fa": "اما هیچ کس به کمکش نیامد، چون همه فکر می‌کردند که باز دروغ می‌گوید.",
+     "r": "ammā hich kas be komak-ash na-yāmad, chon hame fekr mi-kardand ke bāz dorugh mi-guyad.",
+     "en": "But nobody came to help him, because they all thought he was lying again.",
+     "faV": "اَمّا هیچ کَس به کُمَکَش نَیامَد، چون هَمه فِکر می‌کَردَند که باز دُروغ می‌گویَد.",
+     "a": "92e86e513ef3"
+    },
+    {
+     "fa": "گرگ چند گوسفند را با خود برد.",
+     "r": "gorg chand gusfand rā bā khod bord.",
+     "en": "The wolf carried off several sheep.",
+     "faV": "گُرگ چَند گوسفَند را با خود بُرد.",
+     "a": "a89d86b3a2f2"
+    },
+    {
+     "fa": "آن روز چوپان فهمید که مردم حرف دروغگو را باور نمی‌کنند، حتی وقتی که راست می‌گوید.",
+     "r": "ān ruz chupān fahmid ke mardom harf-e dorugh-gu rā bāvar nemi-konand, hattā vaghti ke rāst mi-guyad.",
+     "en": "That day the shepherd learned that people don't believe a liar, even when he is telling the truth.",
+     "faV": "آن روز چوپان فَهمید که مَردُم حَرفِ دُروغگو را باوَر نِمی‌کُنَند، حَتّی وَقتی که راست می‌گویَد.",
+     "a": "b32bd9426ae2"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "چوپان",
+   "r": "chupān",
+   "en": "shepherd",
+   "faV": "چوپان",
+   "a": "ecedcd1ad85c"
+  },
+  {
+   "fa": "گوسفند",
+   "r": "gusfand",
+   "en": "sheep",
+   "faV": "گوسفَند",
+   "a": "8885370f4972"
+  },
+  {
+   "fa": "گرگ",
+   "r": "gorg",
+   "en": "wolf",
+   "faV": "گُرگ",
+   "a": "9b21ff8d6108"
+  },
+  {
+   "fa": "تنها",
+   "r": "tanhā",
+   "en": "alone",
+   "faV": "تَنها",
+   "a": "ae70e1bba222"
+  },
+  {
+   "fa": "حوصله سر رفتن",
+   "r": "hosele sar raftan",
+   "en": "to get bored (حوصله‌ام سر رفت: I got bored)",
+   "faV": "حوصِله سَر رَفتَن",
+   "a": "4ec1fb4fc23a"
+  },
+  {
+   "fa": "فکری به سر کسی زدن",
+   "r": "fekr-i be sar-e kas-i zadan",
+   "en": "to have an idea (literally: a thought strikes someone's head)",
+   "faV": "فِکری به سَرِ کَسی زَدَن",
+   "a": "20cfd058dca7"
+  },
+  {
+   "fa": "فریاد زدن",
+   "r": "faryād zadan",
+   "en": "to shout",
+   "faV": "فَریاد زَدَن",
+   "a": "acba193ae85d"
+  },
+  {
+   "fa": "کمک کردن",
+   "r": "komak kardan",
+   "en": "to help",
+   "faV": "کُمَک کَردَن",
+   "a": "3b77f445d513"
+  },
+  {
+   "fa": "رها کردن",
+   "r": "rahā kardan",
+   "en": "to drop, let go of",
+   "faV": "رَها کَردَن",
+   "a": "7b52ecb0e44c"
+  },
+  {
+   "fa": "چوب",
+   "r": "chub",
+   "en": "stick; wood",
+   "faV": "چوب",
+   "a": "791484726440"
+  },
+  {
+   "fa": "شوخی کردن",
+   "r": "shukhi kardan",
+   "en": "to joke",
+   "faV": "شوخی کَردَن",
+   "a": "3cc69d4fb98d"
+  },
+  {
+   "fa": "عصبانی شدن",
+   "r": "asabāni shodan",
+   "en": "to get angry",
+   "faV": "عَصَبانی شُدَن",
+   "a": "beee03e2117e"
+  },
+  {
+   "fa": "دروغ گفتن",
+   "r": "dorugh goftan",
+   "en": "to lie, tell a lie",
+   "faV": "دُروغ گُفتَن",
+   "a": "f7e8417e0df5"
+  },
+  {
+   "fa": "راست گفتن",
+   "r": "rāst goftan",
+   "en": "to tell the truth",
+   "faV": "راست گُفتَن",
+   "a": "0a9040efbeab"
+  },
+  {
+   "fa": "واقعی",
+   "r": "vāghe'i",
+   "en": "real",
+   "faV": "واقِعی",
+   "a": "3960d4bb5df7"
+  },
+  {
+   "fa": "دروغگو",
+   "r": "dorugh-gu",
+   "en": "liar",
+   "faV": "دُروغگو",
+   "a": "aeeee846ff3d"
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why did the shepherd shout 'Wolf!' the first time?",
+   "options": [
+    "he saw a wolf behind the rocks",
+    "he was bored and wanted to play a joke",
+    "he had lost a sheep"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What did the villagers bring with them?",
+   "options": [
+    "sticks and spades",
+    "bread and water",
+    "their dogs"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the villagers say after the second trick?",
+   "options": [
+    "\"Thank you for calling us.\"",
+    "\"We will buy you a dog.\"",
+    "\"If you lie again, we won't come.\""
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Why did nobody come when the real wolf appeared?",
+   "options": [
+    "they thought he was lying again",
+    "they were asleep",
+    "they could not hear him"
+   ],
+   "answer": 0
+  }
+ ],
+ "after": "The two pasts work as a team: هر روز گوسفندها را به کوه می‌برد 'every day he used to take the sheep up' describes a habit, while یک روز فکری به سرش زد 'one day an idea struck him' is a single event. The past continuous also paints the background of a scene: چوپان می‌خندید و می‌گفت 'the shepherd was laughing and saying'. Two idioms worth keeping: حوصله‌ام سر رفت 'I got bored' (literally 'my patience boiled over') and فکری به سرم زد 'an idea came to me'. The villagers' warning shows the simple 'if': اگر + subjunctive (بگویی), then the result in the present (نمی‌آییم). In everyday Tehran speech it would sound like «اگه یه بار دیگه دروغ بگی، دیگه نمیایم!»",
+ "titleV": "چوپانِ دُروغگو",
+ "titleA": "2e0e163ea2d0"
+}

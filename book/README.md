@@ -51,15 +51,26 @@ Tell stories in the past, give instructions, make comparisons, express opinions 
 3. [Bigger and best: comparing Iranian cities](lessons/a2-03-bigger-and-best.md) — کدام شهر قشنگ‌تر است؟
 4. [I must, I can: the subjunctive](lessons/a2-04-i-must-i-can.md) — باید بروم، نمی‌توانم بمانم
 5. [Compound verbs: I'll help you](lessons/a2-05-compound-verbs.md) — کمکت می‌کنم!
+6. [The object marker را: I've lost my wallet!](lessons/a2-06-the-object-marker-ra.md) — کیف پولم را گم کرده‌ام!
+7. [Who, which, that: the man by the window](lessons/a2-07-who-which-that.md) — مردی که کنار پنجره نشسته است
+8. [If: plans and conditions](lessons/a2-08-if.md) — اگر هوا خوب باشد، می‌رویم.
 9. [Do this! Instructions and a recipe](lessons/a2-09-do-this.md) — این کار را بکن!
 10. [In my opinion: agreeing, disagreeing and giving reasons](lessons/a2-10-in-my-opinion.md) — به نظر من
 11. [Travelling: the station, the airport and the hotel](lessons/a2-11-travelling.md) — سفر به اصفهان
+12. [At the doctor's: symptoms, advice and the pharmacy](lessons/a2-12-at-the-doctor.md) — در مطب دکتر
+13. [A place to live: renting a flat](lessons/a2-13-a-place-to-live.md) — خانه‌ی اجاره‌ای
+14. [Work and study: a job interview and university life](lessons/a2-14-work-and-study.md) — کار و تحصیل
+15. [Phones and the internet: messages, apps and Finglish](lessons/a2-15-phones-and-the-internet.md) — موبایل و اینترنت
+16. [How people really talk: spoken Tehrani Persian](lessons/a2-16-how-people-really-talk.md) — زبان کوچه و بازار
 
 ## Part 4. Intermediate (B1) — میانی
 
 Read real texts, follow the news, argue a point, understand idioms and proverbs and meet Persian literature for the first time.
 
 1. [Passive and impersonal: 'it was built', 'they say'](lessons/b1-01-passive-and-impersonal.md) — ساخته شد، می‌گویند
+2. [Making things happen: 'put to sleep', 'drop off', 'let'](lessons/b1-02-making-things-happen.md) — خواباندن، رساندن، گذاشتن
+3. [He said that…: reported speech](lessons/b1-03-he-said-that.md) — گفت که می‌آید
+4. [The formal future: 'it will be'](lessons/b1-04-the-formal-future.md) — خواهم رفت
 
 ## Part 5. Stories — داستان‌ها
 
@@ -77,10 +88,30 @@ Graded readers, from very easy to literary.
 **Elementary (A2)**
 
 - [Mullah Nasreddin and the pot](stories/a2-mullah-nasreddin-and-the-pot.md) — ملا و دیگ همسایه
+- [The shepherd who cried wolf](stories/a2-the-shepherd-who-cried-wolf.md) — چوپان دروغگو
+- [The rolling pumpkin](stories/a2-kadu-ghelghelezan.md) — کدو قلقله‌زن
+- [A trip to Isfahan](stories/a2-a-trip-to-isfahan.md) — سفر به اصفهان
+- [Yalda night](stories/a2-yalda-night.md) — شب یلدا
+- [Shangul and Mangul](stories/a2-shangul-and-mangul.md) — شنگول و منگول
+- [The fox and the drum](stories/a2-the-fox-and-the-drum.md) — روباه و طبل
+- [Nowruz at Aunt Parvin's](stories/a2-nowruz-at-aunt-parvins.md) — نوروز در خانه‌ی خاله پروین
+- [The taxi driver](stories/a2-the-taxi-driver.md) — راننده‌ی تاکسی
+- [The lion and the hare](stories/a2-the-lion-and-the-hare.md) — شیر و خرگوش
 
 **Intermediate (B1)**
 
 - [Rostam and Sohrab](stories/b1-rostam-and-sohrab.md) — رستم و سهراب
+- [Zal and the Simorgh](stories/b1-zal-and-the-simorgh.md) — زال و سیمرغ
+- [The first day in Tehran](stories/b1-the-first-day-in-tehran.md) — روز اول در تهران
+- [Cyrus and the cylinder](stories/b1-cyrus-and-the-cylinder.md) — کوروش و استوانه
+- [Ghormeh sabzi with Grandmother](stories/b1-ghormeh-sabzi-with-grandmother.md) — قورمه‌سبزی با مادربزرگ
+- [The merchant and the parrot](stories/b1-the-merchant-and-the-parrot.md) — بازرگان و طوطی
+- [Kaveh the blacksmith](stories/b1-kaveh-the-blacksmith.md) — کاوه‌ی آهنگر
+- [Arash the archer](stories/b1-arash-the-archer.md) — آرش کمانگیر
+- [The doctor of Bukhara](stories/b1-the-doctor-of-bukhara.md) — پزشک بخارا
+- [A letter from Shiraz](stories/b1-a-letter-from-shiraz.md) — نامه‌ای از شیراز
+- [The carpet weaver of Kashan](stories/b1-the-carpet-weaver-of-kashan.md) — قالی‌باف کاشان
+- [Chaharshanbe Suri](stories/b1-chaharshanbe-suri.md) — چهارشنبه‌سوری
 
 ## Part 6. Iran in pictures and stories — فرهنگ ایران
 
@@ -100,6 +131,23 @@ Graded readers, from very easy to literary.
 - [Iran since 1979](culture/history-iran-since-1979.md) — ایران پس از انقلاب
 - [The Persian language through history](culture/history-the-persian-language.md) — زبان فارسی در گذر تاریخ
 
+**Places**
+
+- [Tehran](culture/places-tehran.md) — تهران
+- [Isfahan](culture/places-isfahan.md) — اصفهان
+- [Shiraz](culture/places-shiraz.md) — شیراز
+- [Yazd](culture/places-yazd.md) — یزد
+- [Kashan](culture/places-kashan.md) — کاشان
+- [Tabriz](culture/places-tabriz.md) — تبریز
+- [Mashhad](culture/places-mashhad.md) — مشهد
+- [Kerman and the Lut desert](culture/places-kerman-and-the-lut.md) — کرمان و دشت لوت
+- [The Caspian coast](culture/places-caspian-coast.md) — گیلان و مازندران
+- [The Persian Gulf islands](culture/places-persian-gulf-islands.md) — جزیره‌های خلیج فارس
+- [Kurdistan and Hawraman](culture/places-kurdistan-and-hawraman.md) — کردستان و اورامان
+- [Hamadan and Kermanshah](culture/places-hamadan-and-kermanshah.md) — همدان و کرمانشاه
+- [Persepolis and Pasargadae](culture/places-persepolis-and-pasargadae.md) — تخت جمشید و پاسارگاد
+- [The Persian gardens](culture/places-persian-gardens.md) — باغ‌های ایرانی
+
 **Food**
 
 - [Iranian cuisine](culture/food-iranian-cuisine.md) — آشپزی ایرانی
@@ -118,12 +166,35 @@ Graded readers, from very easy to literary.
 - [Eating out in Iran](culture/food-eating-out-in-iran.md) — بیرون غذا خوردن
 - [Fruit and ajil](culture/food-fruit-and-ajil.md) — میوه و آجیل
 
+**Festivals**
+
+- [Nowruz, the Persian New Year](culture/festivals-nowruz.md) — نوروز، جشن سال نو
+- [Chaharshanbe Suri, the festival of fire](culture/festivals-chaharshanbe-suri.md) — چهارشنبه‌سوری
+- [Sizdah Bedar, the day out of doors](culture/festivals-sizdah-bedar.md) — سیزده‌به‌در
+- [Yalda, the longest night](culture/festivals-yalda.md) — شب یلدا
+- [Mehregan, Tirgan and Sadeh](culture/festivals-mehregan-tirgan-sadeh.md) — مهرگان، تیرگان و سده
+- [Muharram, Ashura and nazri](culture/festivals-muharram-and-nazri.md) — محرم، عاشورا و نذری
+- [Ramadan and Eid al-Fitr](culture/festivals-ramadan-and-eid.md) — ماه رمضان و عید فطر
+- [An Iranian wedding](culture/festivals-weddings.md) — عروسی ایرانی
+
 **Arts**
 
 - [Persian carpets](culture/arts-persian-carpets.md) — فرش ایرانی
 - [Persian miniature painting](culture/arts-miniature-painting.md) — نگارگری ایرانی
+- [Persian calligraphy](culture/arts-calligraphy.md) — خوشنویسی ایرانی
+- [Iranian architecture](culture/arts-architecture.md) — معماری ایرانی
+- [Persian music](culture/arts-music.md) — موسیقی ایرانی
+- [Iranian cinema](culture/arts-cinema.md) — سینمای ایران
+- [Poetry in everyday life](culture/arts-poetry-in-everyday-life.md) — شعر در زندگی روزمره
+- [Iranian handicrafts](culture/arts-handicrafts.md) — صنایع دستی ایران
+- [The Shahnameh](culture/arts-shahnameh.md) — شاهنامه
+- [Gardens and water](culture/arts-gardens-and-water.md) — باغ و آب
 
-## Part 7. Reference
+## Part 7. Poetry — شعر
+
+- [Children of Adam](poetry/saadi-bani-adam.md) — Saadi
+
+## Part 8. Reference
 
 - [Phrasebook](phrasebook.md)
 - [Proverbs and idioms](idioms.md)

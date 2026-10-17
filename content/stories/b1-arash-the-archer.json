@@ -1,0 +1,326 @@
+{
+ "id": "b1-arash-the-archer",
+ "level": "B1",
+ "kind": "legend",
+ "title": "Arash the archer",
+ "titleFa": "آرش کمانگیر",
+ "titleR": "Ārash-e kamāngir",
+ "image": "arash",
+ "intro": "Iran and Turan have been at war for years, and the new border will be wherever a single arrow lands. This legend is older than the Shahnameh – the scholars al-Biruni and al-Tabari wrote it down – and it lies behind the summer festival of Tirgan. Look for conditionals with اگر, the past perfect, and the passive with شدن.",
+ "source": "Retold from the ancient Iranian legend recorded by al-Biruni and al-Tabari (public domain).",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "سال‌ها میان ایران و توران جنگ بود و مردم ایران از گرسنگی و جنگ خسته شده بودند.",
+     "r": "sāl-hā miyān-e Irān o Turān jang bud o mardom-e Irān az gorosnegi o jang khaste shode budand.",
+     "en": "For years there had been war between Iran and Turan, and the people of Iran were worn out by hunger and fighting.",
+     "faV": "سال‌ها میانِ ایران و توران جَنگ بود و مَردُمِ ایران اَز گُرُسنِگی و جَنگ خَسته شُده بودَند.",
+     "a": "d23af8e9919e"
+    },
+    {
+     "fa": "سپاه منوچهر، شاه ایران، در کوه‌های مازندران محاصره شده بود.",
+     "r": "sepāh-e Manuchehr, shāh-e Irān, dar kuh-hā-ye Māzandarān mohāsere shode bud.",
+     "en": "The army of Manuchehr, the king of Iran, had been surrounded in the mountains of Mazandaran.",
+     "faV": "سِپاهِ مَنوچِهر، شاهِ ایران، دَر کوه‌هایِ مازَندَران مُحاصِره شُده بود.",
+     "a": "3142a6f8bc8b"
+    },
+    {
+     "fa": "سرانجام افراسیاب، شاه توران، پیشنهاد صلح داد، اما شرط عجیبی گذاشت.",
+     "r": "saranjām Afrāsiyāb, shāh-e Turān, pishnahād-e solh dād, ammā shart-e ajib-i gozāsht.",
+     "en": "At last Afrasiab, the king of Turan, offered peace, but he set a strange condition.",
+     "faV": "سَراَنجام اَفراسیاب، شاهِ توران، پیشنَهادِ صُلح داد، اَمّا شَرطِ عَجیبی گُذاشت.",
+     "a": "646fb7f54544"
+    },
+    {
+     "fa": "او گفت: «یک کماندار ایرانی از بالای کوه تیری بیندازد؛ هر جا که تیر به زمین نشست، مرز ایران و توران همان‌جا خواهد بود.»",
+     "r": "u goft: «yek kamāndār-e irāni az bālā-ye kuh tir-i bi-yandāzad; har jā ke tir be zamin neshast, marz-e Irān o Turān hamān-jā khāhad bud.»",
+     "en": "He said: \"Let an Iranian archer shoot an arrow from the top of the mountain; wherever the arrow comes to earth, there the border between Iran and Turan will be.\"",
+     "faV": "او گُفت: «یِک کَماندارِ ایرانی اَز بالایِ کوه تیری بیَندازَد؛ هَر جا که تیر به زَمین نِشَست، مَرزِ ایران و توران هَمان‌جا خواهَد بود.»",
+     "a": "c17b659cc64c"
+    },
+    {
+     "fa": "افراسیاب فکر می‌کرد که هیچ تیری نمی‌تواند بیش از چند صد قدم برود.",
+     "r": "Afrāsiyāb fekr mi-kard ke hich tir-i nemi-tavānad bish az chand sad ghadam be-ravad.",
+     "en": "Afrasiab thought that no arrow could fly more than a few hundred paces.",
+     "faV": "اَفراسیاب فِکر می‌کَرد که هیچ تیری نِمی‌تَوانَد بیش اَز چَند صَد قَدَم بِرَوَد.",
+     "a": "5af9522495cd"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "منوچهر نگران شد، چون اگر تیر در نزدیکی فرود می‌آمد، بیشتر خاک ایران به دست تورانیان می‌افتاد.",
+     "r": "Manuchehr negarān shod, chon agar tir dar nazdiki forud mi-āmad, bish-tar-e khāk-e Irān be dast-e turāniyān mi-oftād.",
+     "en": "Manuchehr was worried, because if the arrow came down close by, most of Iran's land would fall into the hands of the Turanians.",
+     "faV": "مَنوچِهر نِگَران شُد، چون اَگَر تیر دَر نَزدیکی فُرود می‌آمَد، بیشتَرِ خاکِ ایران به دَستِ تورانیان می‌اُفتاد.",
+     "a": "7dfff9e958d2"
+    },
+    {
+     "fa": "در میان ایرانیان، کمانداری به نام آرش بود که همه او را بهترین تیرانداز ایران می‌دانستند.",
+     "r": "dar miyān-e irāniyān, kamāndār-i be nām-e Ārash bud ke hame u rā behtarin tir-andāz-e Irān mi-dānestand.",
+     "en": "Among the Iranians there was an archer called Arash, whom everyone thought the finest bowman in Iran.",
+     "faV": "دَر میانِ ایرانیان، کَمانداری به نامِ آرَش بود که هَمه او را بِهتَرین تیراَندازِ ایران می‌دانِستَند.",
+     "a": "6e1cef7d8a29"
+    },
+    {
+     "fa": "آرش پیش شاه آمد و گفت: «من این تیر را می‌اندازم، هرچند می‌دانم که همه‌ی جانم را در آن خواهم گذاشت.»",
+     "r": "Ārash pish-e shāh āmad o goft: «man in tir rā mi-andāzam, har-chand mi-dānam ke hame-ye jān-am rā dar ān khāham gozāsht.»",
+     "en": "Arash came before the king and said: \"I will shoot this arrow, though I know I shall put my whole life into it.\"",
+     "faV": "آرَش پیشِ شاه آمَد و گُفت: «مَن این تیر را می‌اَندازَم، هَرچَند می‌دانَم که هَمه‌یِ جانَم را دَر آن خواهَم گُذاشت.»",
+     "a": "2f1928602b7f"
+    },
+    {
+     "fa": "سپس لباسش را درآورد و به مردم گفت: «ببینید، تن من سالم است؛ اما بعد از این تیر، دیگر زنده نخواهم ماند.»",
+     "r": "sepas lebās-ash rā dar-āvard o be mardom goft: «be-binid, tan-e man sālem ast; ammā ba'd az in tir, digar zende na-khāham mānd.»",
+     "en": "Then he took off his clothes and said to the people: \"Look, my body is whole and sound; but after this arrow I shall live no longer.\"",
+     "faV": "سِپَس لِباسَش را دَرآوَرد و به مَردُم گُفت: «بِبینید، تَنِ مَن سالِم اَست؛ اَمّا بَعد اَز این تیر، دیگَر زِنده نَخواهَم ماند.»",
+     "a": "ad6e5236141d"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "سپیده‌دم، آرش از کوه دماوند بالا رفت، رو به شرق ایستاد و کمانش را تا آخرین توان کشید.",
+     "r": "sepide-dam, Ārash az kuh-e Damāvand bālā raft, ru be shargh istād o kamān-ash rā tā ākharin tavān keshid.",
+     "en": "At dawn Arash climbed Mount Damavand, stood facing east and drew his bow with every last bit of his strength.",
+     "faV": "سِپیده‌دَم، آرَش اَز کوهِ دَماوَند بالا رَفت، رو به شَرق ایستاد و کَمانَش را تا آخَرین تَوان کِشید.",
+     "a": "695a47be7996"
+    },
+    {
+     "fa": "همه‌ی سپاه در سکوت به او چشم دوخته بودند.",
+     "r": "hame-ye sepāh dar sokut be u cheshm dukhte budand.",
+     "en": "The whole army watched him in silence.",
+     "faV": "هَمه‌یِ سِپاه دَر سُکوت به او چِشم دوخته بودَند.",
+     "a": "1545156d7a13"
+    },
+    {
+     "fa": "تیر از کمان رها شد و آرش همان لحظه بی‌جان بر زمین افتاد.",
+     "r": "tir az kamān rahā shod o Ārash hamān lahze bi-jān bar zamin oftād.",
+     "en": "The arrow left the bow, and in that same moment Arash fell lifeless to the ground.",
+     "faV": "تیر اَز کَمان رَها شُد و آرَش هَمان لَحظه بی‌جان بَر زَمین اُفتاد.",
+     "a": "74f058f592b0"
+    },
+    {
+     "fa": "می‌گویند تیر از صبح تا ظهر در آسمان پرواز کرد، از کوه‌ها و دشت‌ها گذشت و سرانجام در کنار رود جیحون به زمین نشست.",
+     "r": "mi-guyand tir az sobh tā zohr dar āsemān parvāz kard, az kuh-hā o dasht-hā gozasht o saranjām dar kenār-e rud-e Jeyhun be zamin neshast.",
+     "en": "They say the arrow flew through the sky from morning till noon, passing over mountains and plains, and came to earth at last on the bank of the river Oxus.",
+     "faV": "می‌گویَند تیر اَز صُبح تا ظُهر دَر آسِمان پَرواز کَرد، اَز کوه‌ها و دَشت‌ها گُذَشت و سَراَنجام دَر کِنارِ رودِ جَیحون به زَمین نِشَست.",
+     "a": "35a04004b163"
+    },
+    {
+     "fa": "برخی می‌گویند که باد به فرمان خدا تیر را با خود برده بود.",
+     "r": "barkhi mi-guyand ke bād be farmān-e khodā tir rā bā khod borde bud.",
+     "en": "Some say the wind, at God's command, had carried the arrow along.",
+     "faV": "بَرخی می‌گویَند که باد به فَرمانِ خُدا تیر را با خود بُرده بود.",
+     "a": "113914baa6f5"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "افراسیاب نمی‌توانست باور کند، اما به پیمان خود وفادار ماند و جیحون مرز دو کشور شد.",
+     "r": "Afrāsiyāb nemi-tavānest bāvar konad, ammā be peymān-e khod vafādār mānd o Jeyhun marz-e do keshvar shod.",
+     "en": "Afrasiab could not believe it, but he kept his word, and the Oxus became the border between the two countries.",
+     "faV": "اَفراسیاب نِمی‌تَوانِست باوَر کُنَد، اَمّا به پَیمانِ خود وَفادار ماند و جَیحون مَرزِ دو کِشوَر شُد.",
+     "a": "0270cfeccf63"
+    },
+    {
+     "fa": "اگر آرش آن روز جانش را فدا نکرده بود، شاید سرزمین‌های بسیاری از ایران جدا می‌شد.",
+     "r": "agar Ārash ān ruz jān-ash rā fadā na-karde bud, shāyad sarzamin-hā-ye besyār-i az Irān jodā mi-shod.",
+     "en": "If Arash had not given his life that day, many lands might have been cut off from Iran.",
+     "faV": "اَگَر آرَش آن روز جانَش را فَدا نَکَرده بود، شایَد سَرزَمین‌هایِ بِسیاری اَز ایران جُدا می‌شُد.",
+     "a": "b1a5f43de443"
+    },
+    {
+     "fa": "نام آرش از آن روز نشانه‌ی فداکاری برای میهن شد.",
+     "r": "nām-e Ārash az ān ruz neshāne-ye fadākāri barā-ye mihan shod.",
+     "en": "From that day on, Arash's name became a symbol of sacrifice for one's homeland.",
+     "faV": "نامِ آرَش اَز آن روز نِشانه‌یِ فَداکاری بَرایِ میهَن شُد.",
+     "a": "9959ead51ada"
+    },
+    {
+     "fa": "هنوز هم در بعضی از شهرهای ایران، به یاد آن روز، در سیزدهم تیرماه جشن تیرگان برپا می‌شود.",
+     "r": "hanuz ham dar ba'zi az shahr-hā-ye Irān, be yād-e ān ruz, dar sizdahom-e tir-māh jashn-e tirgān bar-pā mi-shavad.",
+     "en": "Even today, in some Iranian towns, the festival of Tirgan is held on the thirteenth of the month of Tir in memory of that day.",
+     "faV": "هَنوز هَم دَر بَعضی اَز شَهرهایِ ایران، به یادِ آن روز، دَر سیزدَهُمِ تیرماه جَشنِ تیرگان بَرپا می‌شَوَد.",
+     "a": "8e1fde82e79d"
+    },
+    {
+     "fa": "در این جشن، مردم به هم آب می‌پاشند و نخ‌های رنگی به مچ دست خود می‌بندند.",
+     "r": "dar in jashn, mardom be ham āb mi-pāshand o nakh-hā-ye rangi be moch-e dast-e khod mi-bandand.",
+     "en": "At this festival people splash water on one another and tie coloured threads around their wrists.",
+     "faV": "دَر این جَشن، مَردُم به هَم آب می‌پاشَند و نَخ‌هایِ رَنگی به مُچِ دَستِ خود می‌بَندَند.",
+     "a": "c8c6934f501d"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "محاصره شدن",
+   "r": "mohāsere shodan",
+   "en": "to be besieged, to be surrounded",
+   "faV": "مُحاصِره شُدَن",
+   "a": "e9579956bcb3"
+  },
+  {
+   "fa": "صلح",
+   "r": "solh",
+   "en": "peace",
+   "faV": "صُلح",
+   "a": "9d9200f874e1"
+  },
+  {
+   "fa": "شرط",
+   "r": "shart",
+   "en": "condition",
+   "faV": "شَرط",
+   "a": "2992424f8526"
+  },
+  {
+   "fa": "کماندار",
+   "r": "kamāndār",
+   "en": "archer",
+   "faV": "کَماندار",
+   "a": "f56727e9e138"
+  },
+  {
+   "fa": "تیر انداختن",
+   "r": "tir andākhtan",
+   "en": "to shoot an arrow",
+   "faV": "تیر اَنداختَن",
+   "a": "e7b5e4066071"
+  },
+  {
+   "fa": "مرز",
+   "r": "marz",
+   "en": "border",
+   "faV": "مَرز",
+   "a": "090a3941de0d"
+  },
+  {
+   "fa": "قدم",
+   "r": "ghadam",
+   "en": "step, pace",
+   "faV": "قَدَم",
+   "a": "118fcda6ca06"
+  },
+  {
+   "fa": "فرود آمدن",
+   "r": "forud āmadan",
+   "en": "to come down, to land",
+   "faV": "فُرود آمَدَن",
+   "a": "2825aae17a64"
+  },
+  {
+   "fa": "جان",
+   "r": "jān",
+   "en": "life, soul",
+   "faV": "جان",
+   "a": "1fc85d18df97"
+  },
+  {
+   "fa": "سپیده‌دم",
+   "r": "sepide-dam",
+   "en": "dawn",
+   "faV": "سِپیده‌دَم",
+   "a": "753880887eba"
+  },
+  {
+   "fa": "کمان",
+   "r": "kamān",
+   "en": "bow",
+   "faV": "کَمان",
+   "a": "6d395e3b1b02"
+  },
+  {
+   "fa": "توان",
+   "r": "tavān",
+   "en": "strength, power",
+   "faV": "تَوان",
+   "a": "ed92890a1f34"
+  },
+  {
+   "fa": "پیمان",
+   "r": "peymān",
+   "en": "pact, promise",
+   "faV": "پَیمان",
+   "a": "200105cf5a82"
+  },
+  {
+   "fa": "وفادار ماندن",
+   "r": "vafādār māndan",
+   "en": "to stay loyal, to keep one's word",
+   "faV": "وَفادار ماندَن",
+   "a": "debef8838859"
+  },
+  {
+   "fa": "فدا کردن",
+   "r": "fadā kardan",
+   "en": "to sacrifice",
+   "faV": "فَدا کَردَن",
+   "a": "57247511faad"
+  },
+  {
+   "fa": "برپا شدن",
+   "r": "bar-pā shodan",
+   "en": "to be held (of a festival or event)",
+   "faV": "بَرپا شُدَن",
+   "a": "9ceb3b6d9df3"
+  }
+ ],
+ "questions": [
+  {
+   "q": "What condition did Afrasiab set for peace?",
+   "options": [
+    "Iran must pay him gold every year",
+    "the border would be wherever an Iranian archer's arrow landed",
+    "Manuchehr must give up his throne"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Why was Afrasiab happy with this condition?",
+   "options": [
+    "he thought no arrow could fly very far",
+    "he knew that Arash was ill",
+    "he wanted Iran to win"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Arash know before he shot?",
+   "options": [
+    "that he would win a great prize",
+    "that the shot would cost him his life",
+    "that the wind would be against him"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Where did the arrow land?",
+   "options": [
+    "at the foot of Damavand",
+    "on the bank of the river Oxus (Jeyhun)",
+    "in Afrasiab's palace"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What do people do at Tirgan?",
+   "options": [
+    "light bonfires and jump over them",
+    "splash water and tie coloured threads round their wrists",
+    "shoot arrows from Damavand"
+   ],
+   "answer": 1
+  }
+ ],
+ "after": "Arash's story is not told in Ferdowsi's Shahnameh; it comes from older Iranian tradition, preserved by the scholars al-Biruni and al-Tabari, and it is linked with the summer festival of تیرگان. The month تیر is associated with Tishtar, the star of rain – and تیر also means 'arrow', which helped the two stories meet. Grammar to notice: the unreal past condition اگر … فدا نکرده بود، … جدا می‌شد, 'if he had not sacrificed …, … would have been cut off'; اگر with the past continuous for an imagined result (اگر … فرود می‌آمد، … می‌افتاد); and the passives محاصره شده بود, 'had been surrounded', and برپا می‌شود, 'is held'.",
+ "titleV": "آرَشِ کَمانگیر",
+ "titleA": "bc87a4a70e7a"
+}

@@ -1,0 +1,1197 @@
+{
+ "id": "a2-16-how-people-really-talk",
+ "level": "A2",
+ "n": 16,
+ "title": "How people really talk: spoken Tehrani Persian",
+ "titleFa": "زبان کوچه و بازار",
+ "titleR": "zabān-e kuche o bāzār",
+ "intro": "Everything you have learned so far is real Persian – but it is the Persian of books, news and signs. Out loud, in shops, on the phone, in films and in every chat, Iranians use a spoken form, and in Tehran it differs from the written language in about a dozen regular ways: نان becomes نون, می‌رود becomes می‌ره, است becomes a simple -e. This lesson sets out those changes as a system, so that you can understand people when they talk – and talk like them.",
+ "goals": [
+  "understand the regular sound changes between written and spoken Tehrani Persian",
+  "turn written verbs into spoken ones: می‌رود → می‌ره، می‌خواهم → می‌خوام، می‌توانم → می‌تونم",
+  "say 'is' the spoken way: خوبه، کیه، کجاس",
+  "use the spoken endings: را → رو / ـو, -etān → -etun, -eshān → -eshun, -hā → -ā",
+  "know when to use written and when spoken Persian"
+ ],
+ "image": "tajrish-bazaar",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "Breakfast in Darband",
+   "context": "Saturday morning. Reza and Sara have come to take Tom up to Darband for breakfast, and Reza rings from the street. Every line has its spoken form – that is the conversation as it really sounded. The written line shows each word as it appears in a book.",
+   "lines": [
+    {
+     "who": "Reza",
+     "fa": "سلام تام! کجا هستی؟ ما جلوی خانه‌ات هستیم.",
+     "r": "salām Tām! kojā hasti? mā jelo-ye khāne-at hastim.",
+     "en": "Hi Tom! Where are you? We're outside your house.",
+     "col": "سلام تام! کجایی؟ ما جلوی خونه‌تیم.",
+     "colR": "salām Tām! kojāyi? mā jelo-ye khune-t-im."
+    },
+    {
+     "who": "Tom",
+     "fa": "سلام! ببخشید، الان می‌آیم. دارم کفش‌هایم را می‌پوشم.",
+     "r": "salām! bebakhshid, alān mi-āyam. dāram kafsh-hā-yam rā mi-pusham.",
+     "en": "Hi! Sorry, I'm just coming. I'm putting my shoes on.",
+     "col": "سلام! ببخشید، الان میام. دارم کفشامو می‌پوشم.",
+     "colR": "salām! bebakhshid, alān miyām. dāram kafsh-ā-mo mi-pusham."
+    },
+    {
+     "who": "Sara",
+     "fa": "تام، نان هم داری؟ ما برای صبحانه نان نخریدیم.",
+     "r": "Tām, nān ham dāri? mā barā-ye sobhāne nān na-kharidim.",
+     "en": "Tom, have you got any bread? We didn't buy bread for breakfast.",
+     "col": "تام، نون هم داری؟ ما واسه صبحونه نون نخریدیم.",
+     "colR": "Tām, nun ham dāri? mā vāse sobhune nun na-kharidim."
+    },
+    {
+     "who": "Tom",
+     "fa": "نه. اما نانوایی سر کوچه است. می‌توانم بخرم.",
+     "r": "na. ammā nānvāyi sar-e kuche ast. mi-tavānam bekharam.",
+     "en": "No. But the bakery is at the end of the street. I can buy some.",
+     "col": "نه. ولی نونوایی سر کوچه‌س. می‌تونم بخرم.",
+     "colR": "na. vali nunvāyi sar-e kuche-s. mi-tunam bekharam."
+    },
+    {
+     "who": "Reza",
+     "fa": "لازم نیست. سارا می‌گوید آن‌جا یک کافه‌ی خوب هست.",
+     "r": "lāzem nist. Sārā mi-guyad ān-jā yek kāfe-ye khub hast.",
+     "en": "No need. Sara says there's a good café up there.",
+     "col": "لازم نیس. سارا می‌گه اون‌جا یه کافه‌ی خوب هس.",
+     "colR": "lāzem nis. Sārā mi-ge un-jā ye kāfe-ye khub has."
+    },
+    {
+     "who": "Sara",
+     "fa": "بله، صبحانه‌اش خیلی خوب است. پدر و مادرم هم آن‌جا را خیلی دوست دارند.",
+     "r": "bale, sobhāne-ash kheyli khub ast. pedar o mādar-am ham ān-jā rā kheyli dust dārand.",
+     "en": "Yes, the breakfast there is really good. My parents love the place too.",
+     "col": "آره، صبحونه‌ش خیلی خوبه. بابا مامانم هم اون‌جا رو خیلی دوست دارن.",
+     "colR": "āre, sobhune-sh kheyli khub-e. bābā māmān-am ham un-jā ro kheyli dust dāran."
+    },
+    {
+     "who": "Tom",
+     "fa": "باشد. پس کیفم را برمی‌دارم و پایین می‌آیم.",
+     "r": "bāshad. pas kif-am rā bar-mi-dāram o pāyin mi-āyam.",
+     "en": "OK. Then I'll grab my bag and come down.",
+     "col": "باشه. پس کیفمو برمی‌دارم میام پایین.",
+     "colR": "bāshe. pas kif-am-o bar-mi-dāram miyām pāyin."
+    },
+    {
+     "who": "Reza",
+     "fa": "زود بیا! اگر دیر برسیم، جا پیدا نمی‌کنیم.",
+     "r": "zud biyā! agar dir berasim, jā peydā nemi-konim.",
+     "en": "Be quick! If we get there late, we won't find a table.",
+     "col": "زود بیا! اگه دیر برسیم، جا پیدا نمی‌کنیم.",
+     "colR": "zud biyā! age dir berasim, jā peydā nemi-konim."
+    },
+    {
+     "who": "Tom",
+     "fa": "دوستانتان هم می‌آیند؟",
+     "r": "dustān-etān ham mi-āyand?",
+     "en": "Are your friends coming too?",
+     "col": "دوستاتون هم میان؟",
+     "colR": "dust-ā-tun ham miyān?"
+    },
+    {
+     "who": "Sara",
+     "fa": "امیر و مهسا می‌آیند. ماشینشان خراب است، با تاکسی می‌آیند.",
+     "r": "Amir o Mahsā mi-āyand. māshin-eshān kharāb ast, bā tāksi mi-āyand.",
+     "en": "Amir and Mahsa are coming. Their car has broken down, so they're coming by taxi.",
+     "col": "امیر و مهسا میان. ماشینشون خرابه، با تاکسی میان.",
+     "colR": "Amir o Mahsā miyān. māshin-eshun kharāb-e, bā tāksi miyān."
+    },
+    {
+     "who": "Tom",
+     "fa": "می‌خواهم امروز فقط فارسی حرف بزنم. کمکم می‌کنید؟",
+     "r": "mi-khāham emruz faghat fārsi harf bezanam. komak-am mi-konid?",
+     "en": "I want to speak only Persian today. Will you help me?",
+     "col": "می‌خوام امروز فقط فارسی حرف بزنم. کمکم می‌کنین؟",
+     "colR": "mi-khām emruz faghat fārsi harf bezanam. komak-am mi-konin?"
+    },
+    {
+     "who": "Reza",
+     "fa": "حتماً! من هر چیزی را دو بار می‌گویم: یک بار تند، یک بار آهسته.",
+     "r": "hatman! man har chiz-i rā do bār mi-guyam: yek bār tond, yek bār āheste.",
+     "en": "Of course! I'll say everything twice: once fast, once slowly.",
+     "col": "حتماً! من هر چیزی رو دو بار می‌گم: یه بار تند، یه بار یواش.",
+     "colR": "hatman! man har chizi ro do bār mi-gam: ye bār tond, ye bār yavāsh."
+    },
+    {
+     "who": "Sara",
+     "fa": "این را هم بدان: در کتاب‌ها یک جور می‌نویسند، در خیابان یک جور دیگر حرف می‌زنند.",
+     "r": "in rā ham bedān: dar ketāb-hā yek jur mi-nevisand, dar khiyābān yek jur-e digar harf mi-zanand.",
+     "en": "And know this: in books people write one way, and in the street they talk another.",
+     "col": "اینو هم بدون: تو کتابا یه جور می‌نویسن، تو خیابون یه جور دیگه حرف می‌زنن.",
+     "colR": "in-o ham bedun: tu ketāb-ā ye jur mi-nevisan, tu khiyābun ye jur-e dige harf mi-zanan."
+    },
+    {
+     "who": "Tom",
+     "fa": "پس کتاب‌هایم را در خانه می‌گذارم و فقط گوش می‌کنم!",
+     "r": "pas ketāb-hā-yam rā dar khāne mi-gozāram o faghat gush mi-konam!",
+     "en": "Then I'll leave my books at home and just listen!",
+     "col": "پس کتابامو تو خونه می‌ذارم و فقط گوش می‌کنم!",
+     "colR": "pas ketāb-ā-mo tu khune mi-zāram o faghat gush mi-konam!"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Two Persians in one",
+   "md": "Read only the written lines of the dialogue and they sound like a newspaper; nobody talks like that. Read the spoken lines and you hear Tehran. Persian has two registers that live side by side:\n\n- **Written Persian** – [[فارسی نوشتاری|fārsi-ye neveshtāri]], or *ketābi*, 'bookish' – is used in books, newspapers, signs, official letters, the news and speeches. It is the same all over Iran, and it is what this course writes in the main line of every sentence.\n- **Spoken Persian** – [[فارسی گفتاری|fārsi-ye goftāri]], or [[محاوره|mohāvere|conversation]] – is used by everyone in every conversation: at home, in shops, at work, in films and songs, and in chats. Its standard is the speech of Tehran.\n\nThe spoken forms are not slang and not mistakes. Professors, ministers and grandmothers all say [[می‌ره|mi-re]], not [[می‌رود|mi-ravad]], and someone who talks in the written forms sounds like a textbook – Iranians call it [[کتابی حرف زدن|ketābi harf zadan|talking like a book]]. Better still, the changes are regular. Learn the patterns in the three tables below and you can turn almost any written sentence into speech – and, just as important, understand what people say to you."
+  },
+  {
+   "type": "vocab",
+   "title": "Words that change",
+   "items": [
+    {
+     "fa": "نان",
+     "r": "nān",
+     "en": "bread",
+     "pos": "n",
+     "col": "نون",
+     "colR": "nun"
+    },
+    {
+     "fa": "خانه",
+     "r": "khāne",
+     "en": "house, home",
+     "pos": "n",
+     "col": "خونه",
+     "colR": "khune",
+     "ex": {
+      "fa": "امشب در خانه هستیم.",
+      "r": "emshab dar khāne hastim.",
+      "en": "We're at home tonight.",
+      "col": "امشب خونه‌ایم.",
+      "colR": "emshab khune-im."
+     }
+    },
+    {
+     "fa": "نانوایی",
+     "r": "nānvāyi",
+     "en": "bakery",
+     "pos": "n",
+     "col": "نونوایی",
+     "colR": "nunvāyi"
+    },
+    {
+     "fa": "صبحانه",
+     "r": "sobhāne",
+     "en": "breakfast",
+     "pos": "n",
+     "col": "صبحونه",
+     "colR": "sobhune"
+    },
+    {
+     "fa": "خیابان",
+     "r": "khiyābān",
+     "en": "street",
+     "pos": "n",
+     "col": "خیابون",
+     "colR": "khiyābun"
+    },
+    {
+     "fa": "آن",
+     "r": "ān",
+     "en": "that; he, she, it",
+     "pos": "pron",
+     "col": "اون",
+     "colR": "un"
+    },
+    {
+     "fa": "آن‌ها",
+     "r": "ān-hā",
+     "en": "they; those",
+     "pos": "pron",
+     "col": "اونا",
+     "colR": "unā"
+    },
+    {
+     "fa": "این‌ها",
+     "r": "in-hā",
+     "en": "these; these people",
+     "pos": "pron",
+     "col": "اینا",
+     "colR": "inā",
+     "note": "also 'and the family': مامان اینا, Mum and the others"
+    },
+    {
+     "fa": "کدام",
+     "r": "kodām",
+     "en": "which",
+     "pos": "pron",
+     "col": "کدوم",
+     "colR": "kodum"
+    },
+    {
+     "fa": "تمام",
+     "r": "tamām",
+     "en": "finished, over; whole",
+     "pos": "adj",
+     "col": "تموم",
+     "colR": "tamum",
+     "ex": {
+      "fa": "کلاس تمام شد.",
+      "r": "kelās tamām shod.",
+      "en": "The class is over.",
+      "col": "کلاس تموم شد.",
+      "colR": "kelās tamum shod."
+     }
+    },
+    {
+     "fa": "آمدن",
+     "r": "āmadan",
+     "en": "to come",
+     "pos": "v",
+     "col": "اومدن",
+     "colR": "umadan",
+     "note": "spoken present: میام، میای، میاد، میایم، میاین، میان"
+    },
+    {
+     "fa": "یک",
+     "r": "yek",
+     "en": "a, one",
+     "pos": "num",
+     "col": "یه",
+     "colR": "ye",
+     "note": "when you count, it stays yek: yek, do, se"
+    },
+    {
+     "fa": "دیگر",
+     "r": "digar",
+     "en": "other; more, any more",
+     "pos": "adj",
+     "col": "دیگه",
+     "colR": "dige"
+    },
+    {
+     "fa": "اگر",
+     "r": "agar",
+     "en": "if",
+     "pos": "conj",
+     "col": "اگه",
+     "colR": "age"
+    },
+    {
+     "fa": "چه",
+     "r": "che",
+     "en": "what",
+     "pos": "pron",
+     "col": "چی",
+     "colR": "chi",
+     "note": "only when it means 'what?'; in 'what a …!' it stays che: چه خوب! how nice!"
+    },
+    {
+     "fa": "در",
+     "r": "dar",
+     "en": "in",
+     "pos": "prep",
+     "col": "تو",
+     "colR": "tu",
+     "note": "before a place it is often dropped altogether: خونه‌ام, I'm (at) home"
+    },
+    {
+     "fa": "برای",
+     "r": "barā-ye",
+     "en": "for",
+     "pos": "prep",
+     "col": "واسه",
+     "colR": "vāse",
+     "note": "برای is said too, shortened before endings: برام، برات، براش"
+    },
+    {
+     "fa": "بله",
+     "r": "bale",
+     "en": "yes",
+     "pos": "adv",
+     "col": "آره",
+     "colR": "āre",
+     "note": "āre is for friends and family; bale is polite and always safe"
+    },
+    {
+     "fa": "آهسته",
+     "r": "āheste",
+     "en": "slowly; quietly",
+     "pos": "adv",
+     "col": "یواش",
+     "colR": "yavāsh"
+    },
+    {
+     "fa": "جوان",
+     "r": "javān",
+     "en": "young",
+     "pos": "adj",
+     "col": "جوون",
+     "colR": "javun"
+    },
+    {
+     "fa": "خانم",
+     "r": "khānom",
+     "en": "Mrs, Ms; lady",
+     "pos": "n",
+     "note": "an exception: it keeps its ā and never becomes 'khunom'"
+    },
+    {
+     "fa": "کتابی",
+     "r": "ketābi",
+     "en": "bookish, in the written style",
+     "pos": "adj",
+     "ex": {
+      "fa": "او خیلی کتابی حرف می‌زند.",
+      "r": "u kheyli ketābi harf mi-zanad.",
+      "en": "He talks like a book.",
+      "col": "اون خیلی کتابی حرف می‌زنه.",
+      "colR": "un kheyli ketābi harf mi-zane."
+     }
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Sounds and little words",
+   "md": "**ā before n or m often becomes u.** This is the best-known Tehrani change: [[نان|nān]] → [[نون|nun]], [[خانه|khāne]] → [[خونه|khune]], [[آن|ān]] → [[اون|un]]. It happens inside verbs too: [[می‌دانم|mi-dānam]] → [[می‌دونم|mi-dunam|I know]], [[می‌توانم|mi-tavānam]] → [[می‌تونم|mi-tunam|I can]], [[آمدم|āmadam]] → [[اومدم|umadam|I came]]. It does **not** happen in every word: names ([[تهران|Tehrān]], [[ایران|Irān]]), learned words ([[زمان|zamān|time]], [[امکان|emkān|possibility]]), [[خانم|khānom]] and even [[خانواده|khānevāde|family]], from the same root as خانه, keep their ā. There is no rule for which words change – but the everyday words do, so you will learn them quickly.\n\n**Final -ar becomes -e** in a few very common words: [[اگر|agar]] → [[اگه|age]], [[دیگر|digar]] → [[دیگه|dige]], [[مگر|magar]] → [[مگه|mage]].\n\n**Little words get shorter or are replaced:** [[یک|yek]] → [[یه|ye]], [[چه|che]] → [[چی|chi]], [[در|dar]] → [[تو|tu]], [[برای|barā-ye]] → [[واسه|vāse]], and with friends [[بله|bale]] → [[آره|āre]].\n\n**Places come after the verb.** In speech the destination usually follows the verb, without [[به|be]]: written [[به خانه می‌روم|be khāne mi-ravam]], spoken [[می‌رم خونه|mi-ram khune|I'm going home]].",
+   "table": {
+    "head": [
+     "Change",
+     "Written",
+     "Spoken",
+     "English"
+    ],
+    "rows": [
+     [
+      "ān → un",
+      "[[نان|nān]]",
+      "[[نون|nun]]",
+      "bread"
+     ],
+     [
+      "ān → un",
+      "[[خانه|khāne]]",
+      "[[خونه|khune]]",
+      "house, home"
+     ],
+     [
+      "ān → un",
+      "[[خیابان|khiyābān]]",
+      "[[خیابون|khiyābun]]",
+      "street"
+     ],
+     [
+      "ān → un",
+      "[[آن|ān]]، [[آن‌ها|ān-hā]]",
+      "[[اون|un]]، [[اونا|unā]]",
+      "that; they"
+     ],
+     [
+      "ān → un",
+      "[[می‌دانم|mi-dānam]]",
+      "[[می‌دونم|mi-dunam]]",
+      "I know"
+     ],
+     [
+      "ām → um",
+      "[[کدام|kodām]]",
+      "[[کدوم|kodum]]",
+      "which"
+     ],
+     [
+      "ām → um",
+      "[[تمام|tamām]]",
+      "[[تموم|tamum]]",
+      "finished"
+     ],
+     [
+      "ām → um",
+      "[[آمدم|āmadam]]",
+      "[[اومدم|umadam]]",
+      "I came"
+     ],
+     [
+      "no change",
+      "[[خانم|khānom]]، [[خانواده|khānevāde]]، [[تهران|Tehrān]]، [[زمان|zamān]]",
+      "the same",
+      "Mrs; family; Tehran; time"
+     ],
+     [
+      "-ar → -e",
+      "[[اگر|agar]]",
+      "[[اگه|age]]",
+      "if"
+     ],
+     [
+      "-ar → -e",
+      "[[دیگر|digar]]",
+      "[[دیگه|dige]]",
+      "other; more"
+     ],
+     [
+      "-ar → -e",
+      "[[مگر|magar]]",
+      "[[مگه|mage]]",
+      "surely not…? unless"
+     ],
+     [
+      "shorter",
+      "[[یک|yek]]",
+      "[[یه|ye]]",
+      "a, one"
+     ],
+     [
+      "shorter",
+      "[[چه|che]]",
+      "[[چی|chi]]",
+      "what"
+     ],
+     [
+      "other word",
+      "[[در|dar]]",
+      "[[تو|tu]]",
+      "in"
+     ],
+     [
+      "other word",
+      "[[برای|barā-ye]]",
+      "[[واسه|vāse]]",
+      "for"
+     ],
+     [
+      "other word",
+      "[[بله|bale]]",
+      "[[آره|āre]]",
+      "yes"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "نان و پنیر برای صبحانه خوب است.",
+     "r": "nān o panir barā-ye sobhāne khub ast.",
+     "en": "Bread and cheese are good for breakfast.",
+     "col": "نون و پنیر واسه صبحونه خوبه.",
+     "colR": "nun o panir vāse sobhune khub-e."
+    },
+    {
+     "fa": "خانه‌ی ما در آن خیابان است.",
+     "r": "khāne-ye mā dar ān khiyābān ast.",
+     "en": "Our house is in that street.",
+     "col": "خونه‌ی ما تو اون خیابونه.",
+     "colR": "khune-ye mā tu un khiyābun-e."
+    },
+    {
+     "fa": "کدام را می‌خواهی؟",
+     "r": "kodām rā mi-khāhi?",
+     "en": "Which one do you want?",
+     "col": "کدومو می‌خوای؟",
+     "colR": "kodum-o mi-khāy?"
+    },
+    {
+     "fa": "اگر باران بیاید، در خانه می‌مانیم.",
+     "r": "agar bārān biyāyad, dar khāne mi-mānim.",
+     "en": "If it rains, we'll stay at home.",
+     "col": "اگه بارون بیاد، خونه می‌مونیم.",
+     "colR": "age bārun biyād, khune mi-munim."
+    },
+    {
+     "fa": "یک چای دیگر می‌خورید؟",
+     "r": "yek chāy-e digar mi-khorid?",
+     "en": "Will you have another tea?",
+     "col": "یه چای دیگه می‌خورین؟",
+     "colR": "ye chāy-e dige mi-khorin?"
+    },
+    {
+     "fa": "به خانه می‌روم، چون کلاس تمام شد.",
+     "r": "be khāne mi-ravam, chon kelās tamām shod.",
+     "en": "I'm going home, because the class is over.",
+     "col": "می‌رم خونه، چون کلاس تموم شد.",
+     "colR": "mi-ram khune, chon kelās tamum shod."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Verbs: shorter stems, softer endings and 'is'",
+   "md": "**Person endings.** In the present tense *-ad* (he, she) becomes **-e**, *-and* (they) becomes **-an**, and *-id* (you, plural or polite) becomes **-in**: [[می‌رود|mi-ravad]] → [[می‌ره|mi-re]], [[می‌روند|mi-ravand]] → [[می‌رن|mi-ran]], [[می‌روید|mi-ravid]] → [[می‌رین|mi-rin]]. The past changes the same way for *they* and *you*: [[رفتند|raftand]] → [[رفتن|raftan]], [[رفتید|raftid]] → [[رفتین|raftin]].\n\n**Short stems.** The most common verbs lose a syllable in the present and the subjunctive: [[می‌روم|mi-ravam]] → [[می‌رم|mi-ram]], [[بروم|beravam]] → [[برم|beram]], and some imperatives shrink too: [[بگذار|begozār]] → [[بذار|bezār]], [[بنشین|beneshin]] → [[بشین|beshin]], [[بیاور|biyāvar]] → [[بیار|biyār]]. The table lists the ones you will hear every day.\n\n**است.** Spoken *is* depends on the sound before it:\n\n- after a consonant it is **-e**: [[خوب است|khub ast]] → [[خوبه|khub-e]]\n- after -i it is **-ye**: [[کی است؟|ki ast?]] → [[کیه؟|ki-ye?|who is it?]]\n- after -o or -u it is **-e**, written ئه: [[مال تو است|māl-e to ast]] → [[مال توئه|māl-e to-e|it's yours]]\n- after -ā or -e it is **-st**, or just **-s**: [[کجا است؟|kojā ast?]] → [[کجاس؟|kojā-s?|where is it?]], [[خسته است|khaste ast]] → [[خسته‌س|khaste-s|he's tired]]\n\nThe *t* also drops in [[نیست|nist]] → [[نیس|nis]] and [[هست|hast]] → [[هس|has]].",
+   "table": {
+    "head": [
+     "Written",
+     "Spoken",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[می‌رود|mi-ravad]]",
+      "[[می‌ره|mi-re]]",
+      "he / she goes"
+     ],
+     [
+      "[[می‌کند|mi-konad]]",
+      "[[می‌کنه|mi-kone]]",
+      "he / she does"
+     ],
+     [
+      "[[دارد|dārad]]",
+      "[[داره|dāre]]",
+      "he / she has"
+     ],
+     [
+      "[[می‌کنند|mi-konand]]",
+      "[[می‌کنن|mi-konan]]",
+      "they do"
+     ],
+     [
+      "[[می‌کنید|mi-konid]]",
+      "[[می‌کنین|mi-konin]]",
+      "you (pl.) do"
+     ],
+     [
+      "[[می‌روم|mi-ravam]]",
+      "[[می‌رم|mi-ram]]",
+      "I go"
+     ],
+     [
+      "[[می‌شود|mi-shavad]]",
+      "[[می‌شه|mi-she]]",
+      "it becomes; it's possible"
+     ],
+     [
+      "[[می‌خواهم|mi-khāham]]",
+      "[[می‌خوام|mi-khām]]",
+      "I want"
+     ],
+     [
+      "[[می‌توانم|mi-tavānam]]",
+      "[[می‌تونم|mi-tunam]]",
+      "I can"
+     ],
+     [
+      "[[می‌گویم|mi-guyam]]",
+      "[[می‌گم|mi-gam]]",
+      "I say"
+     ],
+     [
+      "[[می‌دهم|mi-daham]]",
+      "[[می‌دم|mi-dam]]",
+      "I give"
+     ],
+     [
+      "[[می‌آیم|mi-āyam]]",
+      "[[میام|miyām]]",
+      "I come"
+     ],
+     [
+      "[[می‌آورم|mi-āvaram]]",
+      "[[میارم|miyāram]]",
+      "I bring"
+     ],
+     [
+      "[[می‌گذارم|mi-gozāram]]",
+      "[[می‌ذارم|mi-zāram]]",
+      "I put"
+     ],
+     [
+      "[[می‌نشینم|mi-neshinam]]",
+      "[[می‌شینم|mi-shinam]]",
+      "I sit"
+     ],
+     [
+      "[[خوب است|khub ast]]",
+      "[[خوبه|khub-e]]",
+      "it's good"
+     ],
+     [
+      "[[کی است؟|ki ast?]]",
+      "[[کیه؟|ki-ye?]]",
+      "who is it?"
+     ],
+     [
+      "[[کجا است؟|kojā ast?]]",
+      "[[کجاس؟|kojā-s?]]",
+      "where is it?"
+     ],
+     [
+      "[[نیست|nist]]، [[هست|hast]]",
+      "[[نیس|nis]]، [[هس|has]]",
+      "isn't; there is"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "مینا هر روز با مترو به دانشگاه می‌رود.",
+     "r": "Minā har ruz bā metro be dāneshgāh mi-ravad.",
+     "en": "Mina goes to the university by metro every day.",
+     "col": "مینا هر روز با مترو می‌ره دانشگاه.",
+     "colR": "Minā har ruz bā metro mi-re dāneshgāh."
+    },
+    {
+     "fa": "می‌خواهم فارسی یاد بگیرم.",
+     "r": "mi-khāham fārsi yād begiram.",
+     "en": "I want to learn Persian.",
+     "col": "می‌خوام فارسی یاد بگیرم.",
+     "colR": "mi-khām fārsi yād begiram."
+    },
+    {
+     "fa": "نمی‌توانم بیایم، کار دارم.",
+     "r": "nemi-tavānam biyāyam, kār dāram.",
+     "en": "I can't come, I've got work to do.",
+     "col": "نمی‌تونم بیام، کار دارم.",
+     "colR": "nemi-tunam biyām, kār dāram."
+    },
+    {
+     "fa": "به او چه می‌گویی؟",
+     "r": "be u che mi-guyi?",
+     "en": "What are you going to tell him?",
+     "col": "بهش چی می‌گی؟",
+     "colR": "behesh chi mi-gi?"
+    },
+    {
+     "fa": "رضا کجاست؟ خسته است؟",
+     "r": "Rezā kojā-st? khaste ast?",
+     "en": "Where's Reza? Is he tired?",
+     "col": "رضا کجاس؟ خسته‌س؟",
+     "colR": "Rezā kojā-s? khaste-s?"
+    },
+    {
+     "fa": "این کیف مال تو است؟",
+     "r": "in kif māl-e to ast?",
+     "en": "Is this bag yours?",
+     "col": "این کیف مال توئه؟",
+     "colR": "in kif māl-e to-e?"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Endings: را, ها and the possessives",
+   "md": "**را** has two spoken forms. After a consonant it shrinks to **-o** and joins the word: [[کتاب را|ketāb rā]] → [[کتابو|ketāb-o]], [[این را|in rā]] → [[اینو|in-o]]. After a vowel it is **ro**, written separately: [[خانه را|khāne rā]] → [[خونه رو|khune ro]]. Many people say *ro* everywhere, and you can too.\n\n**ها** loses its h after a consonant: [[کتاب‌ها|ketāb-hā]] → [[کتابا|ketāb-ā]], [[دوست‌ها|dust-hā]] → [[دوستا|dust-ā]]. After a vowel it usually stays: [[بچه‌ها|bacche-hā]].\n\n**The possessive endings** change their vowels: *-at* → **-et**, *-ash* → **-esh**, and the plural ones swap ā for u: *-emān* → **-emun**, *-etān* → **-etun**, *-eshān* → **-eshun**. The singular ones are spelled as before – only the sound changes – while the plural ones are written with و in chats: کتابشون.\n\n**Endings on prepositions.** Instead of a separate pronoun, speech hangs the ending on the preposition: [[به او|be u]] → [[بهش|behesh|to him, to her]], [[با تو|bā to]] → [[باهات|bāhāt|with you]], [[برای من|barā-ye man]] → [[برام|barām|for me]], [[از آن|az ān]] → [[ازش|azesh|from it]].\n\nThe endings stack in a fixed order – noun, plural, possessive, را: [[کتاب‌هایتان را|ketāb-hā-yetān rā]] → [[کتاباتونو|ketāb-ā-tun-o|your books (as the object)]].",
+   "table": {
+    "head": [
+     "Written",
+     "Spoken",
+     "Example"
+    ],
+    "rows": [
+     [
+      "[[را|rā]] after a consonant",
+      "[[ـو|-o]]",
+      "[[کتاب را|ketāb rā]] → [[کتابو|ketāb-o]]"
+     ],
+     [
+      "[[را|rā]] after a vowel",
+      "[[رو|ro]]",
+      "[[خانه را|khāne rā]] → [[خونه رو|khune ro]]"
+     ],
+     [
+      "[[ـها|-hā]]",
+      "[[ـا|-ā]]",
+      "[[کتاب‌ها|ketāb-hā]] → [[کتابا|ketāb-ā]]"
+     ],
+     [
+      "[[ـت|-at]] your",
+      "[[ـت|-et]]",
+      "[[کتابت|ketāb-at]] → [[کتابت|ketāb-et]]"
+     ],
+     [
+      "[[ـش|-ash]] his, her",
+      "[[ـش|-esh]]",
+      "[[کتابش|ketāb-ash]] → [[کتابش|ketāb-esh]]"
+     ],
+     [
+      "[[ـمان|-emān]] our",
+      "[[ـمون|-emun]]",
+      "[[کتابمان|ketāb-emān]] → [[کتابمون|ketāb-emun]]"
+     ],
+     [
+      "[[ـتان|-etān]] your (pl.)",
+      "[[ـتون|-etun]]",
+      "[[کتابتان|ketāb-etān]] → [[کتابتون|ketāb-etun]]"
+     ],
+     [
+      "[[ـشان|-eshān]] their",
+      "[[ـشون|-eshun]]",
+      "[[کتابشان|ketāb-eshān]] → [[کتابشون|ketāb-eshun]]"
+     ],
+     [
+      "[[به او|be u]]",
+      "[[بهش|behesh]]",
+      "[[بهش گفتم|behesh goftam|I told him]]"
+     ],
+     [
+      "[[با تو|bā to]]",
+      "[[باهات|bāhāt]]",
+      "[[باهات میام|bāhāt miyām|I'll come with you]]"
+     ],
+     [
+      "[[برای من|barā-ye man]]",
+      "[[برام|barām]]",
+      "[[برام بفرست|barām beferest|send it to me]]"
+     ],
+     [
+      "[[به ما|be mā]]",
+      "[[بهمون|behemun]]",
+      "[[بهمون بگو|behemun begu|tell us]]"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "کتاب‌هایتان را آوردید؟",
+     "r": "ketāb-hā-yetān rā āvardid?",
+     "en": "Have you brought your books?",
+     "col": "کتاباتونو آوردین؟",
+     "colR": "ketāb-ā-tun-o āvordin?"
+    },
+    {
+     "fa": "دوستانشان را دیدم.",
+     "r": "dustān-eshān rā didam.",
+     "en": "I saw their friends.",
+     "col": "دوستاشونو دیدم.",
+     "colR": "dust-ā-shun-o didam."
+    },
+    {
+     "fa": "اسمتان چیست؟",
+     "r": "esm-etān chist?",
+     "en": "What's your name?",
+     "col": "اسمتون چیه؟",
+     "colR": "esm-etun chiye?"
+    },
+    {
+     "fa": "این را به او بگو.",
+     "r": "in rā be u begu.",
+     "en": "Tell him this.",
+     "col": "اینو بهش بگو.",
+     "colR": "in-o behesh begu."
+    },
+    {
+     "fa": "خانه‌شان خیلی بزرگ است.",
+     "r": "khāne-shān kheyli bozorg ast.",
+     "en": "Their house is very big.",
+     "col": "خونه‌شون خیلی بزرگه.",
+     "colR": "khune-shun kheyli bozorg-e."
+    },
+    {
+     "fa": "با تو می‌آیم.",
+     "r": "bā to mi-āyam.",
+     "en": "I'll come with you.",
+     "col": "باهات میام.",
+     "colR": "bāhāt miyām."
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "A voice message from Mina",
+   "intro": "Mina leaves Leila a voice message. The spoken lines are what Leila hears; compare each one with its written version and find the changes from the tables.",
+   "sentences": [
+    {
+     "fa": "سلام لیلا جان، مینا هستم.",
+     "r": "salām Leylā jān, Minā hastam.",
+     "en": "Hi Leila dear, it's Mina.",
+     "col": "سلام لیلا جون، مینام.",
+     "colR": "salām Leylā jun, Minā-m."
+    },
+    {
+     "fa": "ببخشید که دیروز جواب ندادم؛ گوشی‌ام خاموش بود.",
+     "r": "bebakhshid ke diruz javāb na-dādam; gushi-am khāmush bud.",
+     "en": "Sorry I didn't answer yesterday – my phone was off.",
+     "col": "ببخشید که دیروز جواب ندادم؛ گوشیم خاموش بود.",
+     "colR": "bebakhshid ke diruz javāb na-dādam; gushi-m khāmush bud."
+    },
+    {
+     "fa": "ببین، فردا با بچه‌ها می‌خواهیم به سینما برویم.",
+     "r": "bebin, fardā bā bacche-hā mi-khāhim be sinamā beravim.",
+     "en": "Listen, tomorrow we're going to the cinema with the others.",
+     "col": "ببین، فردا با بچه‌ها می‌خوایم بریم سینما.",
+     "colR": "bebin, fardā bā bacche-hā mi-khāyim berim sinamā."
+    },
+    {
+     "fa": "فیلم ساعت هفت شروع می‌شود.",
+     "r": "film sā'at-e haft shoru' mi-shavad.",
+     "en": "The film starts at seven.",
+     "col": "فیلم ساعت هفت شروع می‌شه.",
+     "colR": "film sā'at-e haft shoru' mi-she."
+    },
+    {
+     "fa": "امیر و مهسا هم می‌آیند، اما رضا نمی‌تواند بیاید.",
+     "r": "Amir o Mahsā ham mi-āyand, ammā Rezā nemi-tavānad biyāyad.",
+     "en": "Amir and Mahsa are coming too, but Reza can't come.",
+     "col": "امیر و مهسا هم میان، ولی رضا نمی‌تونه بیاد.",
+     "colR": "Amir o Mahsā ham miyān, vali Rezā nemi-tune biyād."
+    },
+    {
+     "fa": "می‌گوید امتحان دارد و باید درس بخواند.",
+     "r": "mi-guyad emtehān dārad o bāyad dars bekhānad.",
+     "en": "He says he has an exam and has to study.",
+     "col": "می‌گه امتحان داره و باید درس بخونه.",
+     "colR": "mi-ge emtehān dāre o bāyad dars bekhune."
+    },
+    {
+     "fa": "تو هم می‌آیی؟",
+     "r": "to ham mi-āyi?",
+     "en": "Are you coming too?",
+     "col": "تو هم میای؟",
+     "colR": "to ham miyāy?"
+    },
+    {
+     "fa": "اگر می‌آیی، بلیت تو را هم می‌خرم.",
+     "r": "agar mi-āyi, belit-e to rā ham mi-kharam.",
+     "en": "If you are, I'll buy your ticket as well.",
+     "col": "اگه میای، بلیت تو رو هم می‌خرم.",
+     "colR": "age miyāy, belit-e to ro ham mi-kharam."
+    },
+    {
+     "fa": "بعد از فیلم، شام را در خانه‌ی ما می‌خوریم.",
+     "r": "ba'd az film, shām rā dar khāne-ye mā mi-khorim.",
+     "en": "After the film we'll have dinner at our place.",
+     "col": "بعد از فیلم، شامو خونه‌ی ما می‌خوریم.",
+     "colR": "ba'd az film, shām-o khune-ye mā mi-khorim."
+    },
+    {
+     "fa": "مادرم گفته است که آش رشته درست می‌کند!",
+     "r": "mādar-am gofte ast ke āsh-e reshte dorost mi-konad!",
+     "en": "My mum says she's making āsh-e reshte!",
+     "col": "مامانم گفته آش رشته درست می‌کنه!",
+     "colR": "māmān-am gofte āsh-e reshte dorost mi-kone!"
+    },
+    {
+     "fa": "به من پیام بده یا زنگ بزن.",
+     "r": "be man payām bedeh yā zang bezan.",
+     "en": "Send me a message or give me a ring.",
+     "col": "بهم پیام بده یا زنگ بزن.",
+     "colR": "behem payām bede yā zang bezan."
+    },
+    {
+     "fa": "قربانت بروم، خداحافظ!",
+     "r": "ghorbān-at beravam, khodā-hāfez!",
+     "en": "Lots of love, bye!",
+     "lit": "may I be sacrificed for you, God keep you",
+     "col": "قربونت برم، خدافظ!",
+     "colR": "ghorbun-et beram, khodāfez!"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why didn't Mina answer yesterday?",
+     "options": [
+      "She was at the cinema.",
+      "Her phone was off.",
+      "She was studying."
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Why can't Reza come?",
+     "options": [
+      "He has an exam.",
+      "He is ill.",
+      "He has no ticket."
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Which spoken word in the message stands for می‌خواهیم?",
+     "options": [
+      "می‌خوایم",
+      "میایم",
+      "می‌خوریم"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Tehrani on screen",
+   "md": "Why Tehrani? Tehran has been the capital for more than two hundred years, and its speech is the voice of national television, radio, films and the pop songs everyone sings along to. Foreign films and series are dubbed into Persian in Tehrani speech too – Iranian dubbing, [[دوبله|duble]], is famous, and generations grew up hearing cartoon heroes and Hollywood stars say [[می‌خوام|mi-khām]] and [[بریم|berim|let's go]].\n\nSo whether you are in Shiraz, Mashhad or Tabriz, everyone understands spoken Tehrani – though they may not speak it themselves. Isfahanis have a famous sing-song melody, Shirazis a slow, drawn-out one, and in many provinces people grow up with another language at home: Azerbaijani Turkish, Kurdish, Gilaki, Luri, Baluchi or Arabic (lesson 7 of B2 tours them). The written language, on the other hand, is the same everywhere – it is the glue between all these ways of speaking.\n\nA practical rule: **understand both, write the written form, speak the spoken one.** Use written forms in emails to officials, in essays and on forms, and spoken forms everywhere else. And if a shopkeeper smiles when you ask [[این چقدر است؟|in cheghadr ast?]], try [[این چنده؟|in chande?|how much is this?]] next time.",
+   "image": "iranian-cinema"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "Go back through earlier lessons and read each spoken line aloud after the written one: the pairs train your ear faster than any table.",
+    "Keep to one register in a sentence. *mi-ram khune* and *be khāne mi-ravam* are both fine; *mi-ravam khune* sounds odd.",
+    "The spoken -e has several jobs: *khub-e* (it is good), *mi-kone* (he does), and in *khune* it is simply part of the word. The context always tells you which.",
+    "Stress does not move: *mi-ravad* and *mi-re* are both stressed on *mi*, and *ketāb-hā* and *ketāb-ā* on the last syllable.",
+    "In chats people often write the spoken forms without the half-space – میره، میخوام – and with ه for the spoken -e: خوبه، کجاس. Now you can read them.",
+    "When in doubt, use the written form. It is always understood: you will sound polite and a little bookish, never wrong."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the written word with how it sounds",
+   "items": [
+    {
+     "fa": "می‌خواهم",
+     "r": "mi-khāham",
+     "en": "mi-khām (I want)"
+    },
+    {
+     "fa": "می‌توانم",
+     "r": "mi-tavānam",
+     "en": "mi-tunam (I can)"
+    },
+    {
+     "fa": "می‌گویم",
+     "r": "mi-guyam",
+     "en": "mi-gam (I say)"
+    },
+    {
+     "fa": "می‌رود",
+     "r": "mi-ravad",
+     "en": "mi-re (he / she goes)"
+    },
+    {
+     "fa": "نان",
+     "r": "nān",
+     "en": "nun (bread)"
+    },
+    {
+     "fa": "خانه",
+     "r": "khāne",
+     "en": "khune (house)"
+    },
+    {
+     "fa": "دیگر",
+     "r": "digar",
+     "en": "dige (other, more)"
+    },
+    {
+     "fa": "آن‌ها",
+     "r": "ān-hā",
+     "en": "unā (they)"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Written and spoken",
+   "items": [
+    {
+     "q": "What is the spoken form of [[می‌رود|mi-ravad]]?",
+     "options": [
+      "می‌ره",
+      "می‌رم",
+      "می‌رن"
+     ],
+     "answer": 0,
+     "explain": "-ad (he, she) becomes -e: mi-re. mi-ram is 'I go', mi-ran 'they go'."
+    },
+    {
+     "q": "[[کتاب‌هایشان|ketāb-hā-yeshān]] in speech is…",
+     "options": [
+      "کتاباشون",
+      "کتابامون",
+      "کتاباتون"
+     ],
+     "answer": 0,
+     "explain": "-hā → -ā and -eshān → -eshun: ketāb-ā-shun."
+    },
+    {
+     "q": "Someone asks [[رضا کجاس؟|Rezā kojā-s?]] What is the written form?",
+     "options": [
+      "رضا کجاست؟",
+      "رضا کجا رفت؟",
+      "رضا کجا بود؟"
+     ],
+     "answer": 0,
+     "explain": "After -ā, ast becomes -st or just -s: kojā-st, kojā-s."
+    },
+    {
+     "q": "Which word keeps its ā in spoken Tehrani?",
+     "options": [
+      "خانه",
+      "نان",
+      "خانم"
+     ],
+     "answer": 2,
+     "explain": "khānom never changes; khāne → khune and nān → nun."
+    },
+    {
+     "q": "[[اینو بهش بگو.|in-o behesh begu.]] means…",
+     "options": [
+      "Tell him this.",
+      "Tell me this.",
+      "Did he tell you this?"
+     ],
+     "answer": 0,
+     "explain": "in-o = in rā (this, as the object), behesh = be u (to him / her)."
+    },
+    {
+     "q": "Which is the spoken form of [[اگر می‌توانید، بیایید.|agar mi-tavānid, biyāyid.]]?",
+     "options": [
+      "اگه می‌تونین، بیاین.",
+      "اگه می‌تونم، بیام.",
+      "اگر می‌توانید، بیاین."
+     ],
+     "answer": 0,
+     "explain": "agar → age, mi-tavānid → mi-tunin, biyāyid → biyāyn. The third option mixes the two registers."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Write it the written way",
+   "items": [
+    {
+     "fa": "من فردا به دانشگاه ___.",
+     "r": "man fardā be dāneshgāh ___.",
+     "en": "I'm going to the university tomorrow.",
+     "answer": "می‌روم",
+     "hint": "spoken: mi-ram"
+    },
+    {
+     "fa": "___ فارسی یاد بگیرم.",
+     "r": "___ fārsi yād begiram.",
+     "en": "I want to learn Persian.",
+     "answer": "می‌خواهم",
+     "hint": "spoken: mi-khām"
+    },
+    {
+     "fa": "این کتاب خیلی خوب ___.",
+     "r": "in ketāb kheyli khub ___.",
+     "en": "This book is very good.",
+     "answer": "است",
+     "hint": "spoken: khub-e"
+    },
+    {
+     "fa": "___ تازه است.",
+     "r": "___ tāze ast.",
+     "en": "The bread is fresh.",
+     "answer": "نان",
+     "hint": "spoken: nun"
+    },
+    {
+     "fa": "رضا ___ بیاید.",
+     "r": "Rezā ___ biyāyad.",
+     "en": "Reza can't come.",
+     "answer": "نمی‌تواند",
+     "hint": "spoken: nemi-tune"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "نمی‌توانم بیایم، کار دارم.",
+     "r": "nemi-tavānam biyāyam, kār dāram.",
+     "en": "I can't come, I've got work to do."
+    },
+    {
+     "fa": "این را به او بگو.",
+     "r": "in rā be u begu.",
+     "en": "Tell him this."
+    },
+    {
+     "fa": "خانه‌ی ما در آن خیابان است.",
+     "r": "khāne-ye mā dar ān khiyābān ast.",
+     "en": "Our house is in that street."
+    },
+    {
+     "fa": "فیلم ساعت هفت شروع می‌شود.",
+     "r": "film sā'at-e haft shoru' mi-shavad.",
+     "en": "The film starts at seven."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Hear the written form, choose the spoken one",
+   "items": [
+    {
+     "fa": "می‌خواهم به خانه بروم.",
+     "r": "mi-khāham be khāne beravam.",
+     "en": "I want to go home.",
+     "options": [
+      "می‌خوام برم خونه.",
+      "می‌خوای بری خونه؟",
+      "می‌خوان برن خونه."
+     ],
+     "answer": 0
+    },
+    {
+     "fa": "آن‌ها کجا هستند؟",
+     "r": "ān-hā kojā hastand?",
+     "en": "Where are they?",
+     "options": [
+      "اون کجاس؟",
+      "اونا کجان؟",
+      "اینا کجان؟"
+     ],
+     "answer": 1
+    },
+    {
+     "fa": "کتاب‌هایت را آوردی؟",
+     "r": "ketāb-hā-yat rā āvardi?",
+     "en": "Did you bring your books?",
+     "options": [
+      "کتابامو آوردم.",
+      "کتاباتو آوردی؟",
+      "کتاباشو آورد؟"
+     ],
+     "answer": 1
+    },
+    {
+     "fa": "اگر باران بیاید، در خانه می‌مانیم.",
+     "r": "agar bārān biyāyad, dar khāne mi-mānim.",
+     "en": "If it rains, we'll stay at home.",
+     "options": [
+      "اگه بارون بیاد، خونه می‌مونیم.",
+      "اگه بارون اومد، رفتیم خونه.",
+      "بارون میاد، خونه بمونین."
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian – then say it the spoken way",
+   "items": [
+    {
+     "en": "Where's your house?",
+     "fa": "خانه‌ات کجاست؟",
+     "r": "khāne-at kojā-st?",
+     "col": "خونه‌ت کجاس؟",
+     "colR": "khune-t kojā-s?"
+    },
+    {
+     "en": "I can't come tomorrow.",
+     "fa": "فردا نمی‌توانم بیایم.",
+     "r": "fardā nemi-tavānam biyāyam.",
+     "col": "فردا نمی‌تونم بیام.",
+     "colR": "fardā nemi-tunam biyām."
+    },
+    {
+     "en": "What is he saying?",
+     "fa": "او چه می‌گوید؟",
+     "r": "u che mi-guyad?",
+     "col": "اون چی می‌گه؟",
+     "colR": "un chi mi-ge?"
+    },
+    {
+     "en": "Their car is really nice.",
+     "fa": "ماشینشان خیلی قشنگ است.",
+     "r": "māshin-eshān kheyli ghashang ast.",
+     "col": "ماشینشون خیلی قشنگه.",
+     "colR": "māshin-eshun kheyli ghashang-e."
+    },
+    {
+     "en": "Another tea for me, please.",
+     "fa": "لطفاً یک چای دیگر به من بدهید.",
+     "r": "lotfan yek chāy-e digar be man bedahid.",
+     "col": "لطفاً یه چای دیگه بهم بدین.",
+     "colR": "lotfan ye chāy-e dige behem bedin."
+    }
+   ]
+  }
+ ]
+}

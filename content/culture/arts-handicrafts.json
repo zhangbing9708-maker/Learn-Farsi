@@ -1,0 +1,131 @@
+{
+ "id": "arts-handicrafts",
+ "topic": "arts",
+ "title": "Iranian handicrafts",
+ "titleFa": "صنایع دستی ایران",
+ "titleR": "sanāye'-e dasti-ye Irān",
+ "image": "khatam",
+ "summary": "Mosaics of wood and bone, enamel the colour of the sky, shimmering termeh and hand-printed cotton, copper beaten in the bazaar and pottery as old as Iran itself: a tour of the country's handicrafts.",
+ "body": [
+  {
+   "h": "Made by hand",
+   "md": "Walk through any Iranian bazaar and you will see craftsmen at work: hammering copper, painting enamel, gluing slivers of wood, printing cloth. Persian calls all this [[صنایع دستی|sanāye'-e dasti|handicrafts]]. Skills pass from master to apprentice, often inside a single family, and every town has its speciality. Isfahan has so many that in 2015 the World Crafts Council named it a World Craft City."
+  },
+  {
+   "h": "Khatam: a mosaic of wood and bone",
+   "md": "[[خاتم|khātam|khatam]] is the art of covering boxes, frames, chessboards and doors with tiny geometric mosaics. The craftsman glues thin rods of wood, camel bone and brass wire into bundles whose cross-section forms a star, slices them like a loaf into thin sheets, and fits the sheets together, so that a fingertip covers dozens of pieces. The finished surface shimmers like woven cloth. Shiraz and Isfahan are the great centres, and old shrines and palaces have whole doors in khatam."
+  },
+  {
+   "h": "Copper and enamel",
+   "md": "In Isfahan the lanes around Naqsh-e Jahan Square ring with hammers. In the workshops of the [[مسگر|mesgar|coppersmith]] sheets of [[مس|mes|copper]] are beaten into pots, trays and lanterns. Next door, engravers practise [[قلمزنی|ghalamzani|engraving]], tapping flowers, birds and whole hunting scenes into copper, brass and silver with tiny chisels.\n\nThe most colourful of Isfahan's crafts is [[میناکاری|minākāri|enamelling]]. A copper plate or vase is coated with white enamel and fired; then the artist paints flowers and birds in coloured glazes – above all a deep turquoise blue – and fires it again, so that the colours melt into glass. The word [[مینا|minā|enamel]] also means the blue of the sky.",
+   "image": "naqsh-e-jahan"
+  },
+  {
+   "h": "Termeh and ghalamkar",
+   "md": "[[ترمه|terme|termeh]], the pride of Yazd, is a heavy, shimmering cloth of silk and fine wool, woven with rows of paisley in deep reds, greens and golds. Weaving it by hand was slow and costly, and for centuries it was a luxury; it is still a treasured gift, used to cover the wedding spread and to wrap precious things.\n\n[[قلمکار|ghalamkār|ghalamkar]] from Isfahan is cheaper and cheerful: cotton stamped by hand with carved wooden blocks dipped in dye – red, black, brown and blue. Its tablecloths and bedspreads are among the most popular souvenirs in Iran.",
+   "image": "termeh"
+  },
+  {
+   "h": "Clay and fire",
+   "md": "Pottery is Iran's oldest craft: painted pots from Tepe Sialk near Kashan are thousands of years old. In the Middle Ages Kashan made dazzling tiles and lustreware, and the word [[کاشی|kāshi|tile]] still remembers the city. Today Lalejin, near Hamadan, is famous for its turquoise-glazed [[سفال|sofāl|pottery]], Meybod near Yazd for plates painted with fish and birds, and in the village of Kalpurgan in Baluchestan women still shape pots by hand, without a wheel, as their ancestors did.",
+   "image": "persian-pottery"
+  },
+  {
+   "h": "Buying a souvenir",
+   "md": "A present brought back from a journey is a [[سوغاتی|sowghāti|souvenir]], and Iranians take it seriously: termeh from Yazd, enamel from Isfahan, knives from Zanjan, sweets from almost everywhere. In the bazaar, prices for crafts are rarely fixed, so friendly bargaining is expected – and ask whether a piece is [[دست‌ساز|dast-sāz|handmade]], because machine-made copies are common.",
+   "image": "bazaar"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "صنایع دستی ایران در دنیا معروف است.",
+   "r": "sanāye'-e dasti-ye Irān dar donyā ma'ruf ast.",
+   "en": "Iran's handicrafts are famous around the world."
+  },
+  {
+   "fa": "اصفهان شهر جهانی صنایع دستی است.",
+   "r": "Esfahān shahr-e jahāni-ye sanāye'-e dasti ast.",
+   "en": "Isfahan is a world city of handicrafts."
+  },
+  {
+   "fa": "خاتم‌کاری از چوب، استخوان و فلز درست می‌شود.",
+   "r": "khātam-kāri az chub, ostokhān va felez dorost mi-shavad.",
+   "en": "Khatam is made of wood, bone and metal."
+  },
+  {
+   "fa": "در بازار اصفهان صدای چکش مسگرها را می‌شنوی.",
+   "r": "dar bāzār-e Esfahān sedā-ye chakosh-e mesgar-hā rā mi-shenavi.",
+   "en": "In the Isfahan bazaar you hear the coppersmiths' hammers."
+  },
+  {
+   "fa": "میناکاری یعنی نقاشی با رنگ‌های شیشه‌ای روی فلز.",
+   "r": "minākāri ya'ni nagghāshi bā rang-hā-ye shishe-i ru-ye felez.",
+   "en": "Minakari means painting on metal with glassy colours."
+  },
+  {
+   "fa": "رنگ آبی فیروزه‌ای در میناکاری خیلی رایج است.",
+   "r": "rang-e ābi-ye firuze-i dar minākāri kheyli rāyej ast.",
+   "en": "Turquoise blue is very common in minakari."
+  },
+  {
+   "fa": "ترمه‌ی یزد پارچه‌ای گران‌بها است.",
+   "r": "terme-ye Yazd pārche-i gerān-bahā ast.",
+   "en": "The termeh of Yazd is a precious cloth."
+  },
+  {
+   "fa": "روی ترمه نقش بته‌جقه زیاد دیده می‌شود.",
+   "r": "ru-ye terme naghsh-e bote-jeghe ziyād dide mi-shavad.",
+   "en": "The paisley motif is often seen on termeh."
+  },
+  {
+   "fa": "قلمکار را با مهرهای چوبی چاپ می‌کنند.",
+   "r": "ghalamkār rā bā mohr-hā-ye chubi chāp mi-konand.",
+   "en": "Ghalamkar is printed with wooden stamps."
+  },
+  {
+   "fa": "لالجین را پایتخت سفال ایران می‌دانند.",
+   "r": "Lālejin rā pāytakht-e sofāl-e Irān mi-dānand.",
+   "en": "Lalejin is considered the capital of Iranian pottery."
+  },
+  {
+   "fa": "این سوغاتی را از یزد خریدم.",
+   "r": "in sowghāti rā az Yazd kharidam.",
+   "en": "I bought this souvenir in Yazd."
+  },
+  {
+   "fa": "آیا این کاسه دست‌ساز است؟",
+   "r": "āyā in kāse dast-sāz ast?",
+   "en": "Is this bowl handmade?"
+  }
+ ],
+ "vocab": [
+  {"fa": "صنایع دستی", "r": "sanāye'-e dasti", "en": "handicrafts"},
+  {"fa": "هنرمند", "r": "honarmand", "en": "artist"},
+  {"fa": "استادکار", "r": "ostād-kār", "en": "master craftsman"},
+  {"fa": "کارگاه", "r": "kārgāh", "en": "workshop"},
+  {"fa": "خاتم‌کاری", "r": "khātam-kāri", "en": "khatam, wood-and-bone marquetry"},
+  {"fa": "چوب", "r": "chub", "en": "wood"},
+  {"fa": "استخوان", "r": "ostokhān", "en": "bone"},
+  {"fa": "مس", "r": "mes", "en": "copper"},
+  {"fa": "مسگر", "r": "mesgar", "en": "coppersmith"},
+  {"fa": "قلمزنی", "r": "ghalamzani", "en": "metal engraving"},
+  {"fa": "میناکاری", "r": "minākāri", "en": "enamelling, minakari"},
+  {"fa": "فیروزه", "r": "firuze", "en": "turquoise"},
+  {"fa": "ترمه", "r": "terme", "en": "termeh, woven silk cloth of Yazd"},
+  {"fa": "پارچه", "r": "pārche", "en": "cloth, fabric"},
+  {"fa": "قلمکار", "r": "ghalamkār", "en": "ghalamkar, hand-printed cotton"},
+  {"fa": "سفال", "r": "sofāl", "en": "pottery, earthenware"},
+  {"fa": "کوزه", "r": "kuze", "en": "jug, water jar"},
+  {"fa": "کاسه", "r": "kāse", "en": "bowl"},
+  {"fa": "سوغاتی", "r": "sowghāti", "en": "souvenir, gift from a trip"},
+  {"fa": "دست‌ساز", "r": "dast-sāz", "en": "handmade"}
+ ],
+ "facts": [
+  "The World Crafts Council named Isfahan a World Craft City in 2015.",
+  "Medieval Kashan produced minā'i ware – pottery painted over the glaze in many colours – and lustreware that gleams like metal.",
+  "The Persian word for turquoise, [[فیروزه|firuze]], is related to [[پیروز|piruz|victorious]]; turquoise has been mined near Nishapur for well over a thousand years.",
+  "Zanjan is famous for its knives and for delicate silver filigree, [[ملیله|malile]].",
+  "The name ghalamkar means 'pen-work', a reminder that such cloth was once painted by hand; the same word gave India's kalamkari its name.",
+  "Mirror mosaic, [[آینه‌کاری|āyene-kāri]], covers the inside of many Iranian shrines and palaces, turning a single lamp into thousands of points of light."
+ ]
+}

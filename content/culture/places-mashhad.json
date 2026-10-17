@@ -1,0 +1,79 @@
+{
+ "id": "places-mashhad",
+ "topic": "places",
+ "title": "Mashhad",
+ "titleFa": "مشهد",
+ "titleR": "Mashhad",
+ "image": "imam-reza-shrine",
+ "summary": "Iran's second city and its greatest place of pilgrimage, built around the shrine of Imam Reza – and the gateway to the tombs of Ferdowsi and Khayyam, to saffron fields and to the kebab houses of Shandiz.",
+ "body": [
+  {
+   "h": "The city of the shrine",
+   "md": "[[مشهد|Mashhad|Mashhad]], Iran's second-largest city, grew up around a tomb. In AD 818 the eighth imam of Twelver Shi'a Islam, [[امام رضا|Emām Rezā|Imam Reza]], died in a village near the old city of Tus – Shi'a tradition says he was poisoned – and the shrine raised over his grave became one of the holiest places in the Shi'a world. The name Mashhad means 'place of martyrdom'.\n\nToday millions of pilgrims come every year. A pilgrim is a [[زائر|zā'er|pilgrim]], and the visit itself is a [[زیارت|ziyārat|pilgrimage]]."
+  },
+  {
+   "h": "Visiting the Haram",
+   "md": "The shrine complex, simply called the [[حرم|haram|sanctuary]], is one of the largest religious complexes in the world: a city of courtyards ([[صحن|sahn|courtyard]]), libraries, museums and seminaries around the golden dome over the tomb. Its oldest great building is the [[مسجد گوهرشاد|Masjed-e Gowharshād|Goharshad Mosque]], built in the early 15th century for the Timurid queen Goharshad.\n\nDress modestly; women must wear a [[چادر|chādor|chador]], which can be borrowed at the entrances. Non-Muslim visitors are usually welcome in the courtyards and museums, often with a guide from the shrine's office for foreign visitors, but the inner sanctuary around the tomb is for Muslims only. Pilgrims call Imam Reza [[ضامن آهو|zāmen-e āhu|the guarantor of the deer]], after a legend in which he stood surety for a captured doe so that she could feed her fawns."
+  },
+  {
+   "h": "Ferdowsi, Khayyam and Nader",
+   "md": "Mashhad is also the gateway to the poets of Khorasan. At [[توس|Tus|Tus]], half an hour away, the white stone [[آرامگاه فردوسی|ārāmgāh-e Ferdowsi|tomb of Ferdowsi]] was built in the 1930s for the thousandth anniversary of the birth of the author of the [[شاهنامه|Shāhnāme|Shahnameh]]. About two hours west lies [[نیشابور|Neyshābur|Nishapur]], with the mausoleum of [[خیام|Khayyām|Omar Khayyam]], a lattice of stone completed in 1963, and the tomb of the mystic poet Attar.\n\nIn Mashhad itself, the tomb of [[نادرشاه|Nāder-shāh|Nader Shah]] shows the conqueror on horseback among his soldiers.",
+   "image": "tomb-of-ferdowsi"
+  },
+  {
+   "h": "Saffron, barberries and shishlik",
+   "md": "Khorasan is saffron country. Iran grows most of the world's [[زعفران|za'farān|saffron]], and most of Iran's comes from Khorasan, where the crocus flowers are picked by hand in late autumn. From South Khorasan come [[زرشک|zereshk|barberries]], the sour red berries scattered over rice. The classic souvenirs are saffron, barberries, [[نبات|nabāt|rock sugar]] and turquoise from the mines near Nishapur.\n\nFor a meal out, people drive to [[شاندیز|Shāndiz|Shandiz]] in the hills west of the city, famous for [[شیشلیک|shishlik|grilled lamb chops]]. In town, try [[شله‌ی مشهدی|shole-ye mashhadi|Mashhad sholeh]], a thick, slow-cooked stew of meat, grains and pulses.",
+   "image": "saffron"
+  },
+  {
+   "h": "Mashti and the Mashhadi accent",
+   "md": "Someone who has made the pilgrimage to Mashhad may be called [[مشهدی|Mashhadi|Mashhadi]], or [[مشتی|mashti|Mashti]] for short, just as one who has been to Mecca is called [[حاجی|hāji|Hajji]]. In Tehran slang, *mashti* came to mean a decent, generous, stand-up kind of man. The Mashhadi accent is easy to recognise, and in the countryside of Khorasan you will also hear Kurdish and Turkic speech."
+  },
+  {
+   "h": "Getting there and when to go",
+   "md": "Mashhad has flights from all over Iran and from neighbouring countries, and overnight trains run from Tehran. Spring and autumn are the most comfortable seasons; summers are warm and winters cold. The city is at its busiest at Nowruz, in the summer holidays and on the great religious anniversaries, when hotels fill up weeks ahead – so book early.",
+   "image": "mashhad"
+  }
+ ],
+ "sentences": [
+  {"fa": "زیارت قبول!", "r": "ziyārat ghabul!", "en": "May your pilgrimage be accepted!", "note": "What Iranians say to someone who has just been on a pilgrimage."},
+  {"fa": "ببخشید، ورودی خانم‌ها کجاست؟", "r": "bebakhshid, vorudi-ye khānom-hā kojāst?", "en": "Excuse me, where is the women's entrance?"},
+  {"fa": "خانم‌ها باید در حرم چادر سر کنند.", "r": "khānom-hā bāyad dar haram chādor sar konand.", "en": "Women must wear a chador in the shrine."},
+  {"fa": "می‌توانم چادر امانت بگیرم؟", "r": "mi-tavānam chādor amānat be-giram?", "en": "Can I borrow a chador?", "col": "می‌تونم چادر امانت بگیرم؟", "colR": "mi-tunam chādor amānat be-giram?"},
+  {"fa": "گنبد طلای حرم از دور پیداست.", "r": "gonbad-e talā-ye haram az dur peydāst.", "en": "The golden dome of the shrine can be seen from far away."},
+  {"fa": "مسجد گوهرشاد را یک ملکه‌ی تیموری ساخت.", "r": "Masjed-e Gowharshād rā yek malake-ye teymuri sākht.", "en": "The Goharshad Mosque was built by a Timurid queen."},
+  {"fa": "شب جمعه حرم خیلی شلوغ است.", "r": "shab-e jom'e haram kheyli sholugh ast.", "en": "On Thursday night, the eve of Friday, the shrine is very crowded."},
+  {"fa": "آرامگاه فردوسی در توس است.", "r": "ārāmgāh-e Ferdowsi dar Tus ast.", "en": "Ferdowsi's tomb is in Tus."},
+  {"fa": "زعفران را در پاییز با دست می‌چینند.", "r": "za'farān rā dar pāyiz bā dast mi-chinand.", "en": "Saffron is picked by hand in autumn."},
+  {"fa": "یک مثقال زعفران چند است؟", "r": "yek mesghāl za'farān chand ast?", "en": "How much is a mesghal of saffron?", "col": "یه مثقال زعفران چنده؟", "colR": "ye mesghāl za'farān chande?"},
+  {"fa": "برای سوغاتی زعفران و زرشک و نبات خریدیم.", "r": "barā-ye soghāti za'farān o zereshk o nabāt kharidim.", "en": "We bought saffron, barberries and rock sugar as souvenirs."},
+  {"fa": "برای شام به شاندیز رفتیم و شیشلیک خوردیم.", "r": "barā-ye shām be Shāndiz raftim va shishlik khordim.", "en": "For dinner we went to Shandiz and ate shishlik."}
+ ],
+ "vocab": [
+  {"fa": "حرم", "r": "haram", "en": "shrine, sanctuary"},
+  {"fa": "زائر", "r": "zā'er", "en": "pilgrim"},
+  {"fa": "زیارت", "r": "ziyārat", "en": "pilgrimage, visit to a shrine"},
+  {"fa": "صحن", "r": "sahn", "en": "courtyard (of a shrine or mosque)"},
+  {"fa": "گنبد طلا", "r": "gonbad-e talā", "en": "golden dome"},
+  {"fa": "چادر", "r": "chādor", "en": "chador; tent"},
+  {"fa": "امانت گرفتن", "r": "amānat gereftan", "en": "to borrow"},
+  {"fa": "ملکه", "r": "malake", "en": "queen"},
+  {"fa": "زعفران", "r": "za'farān", "en": "saffron"},
+  {"fa": "زرشک", "r": "zereshk", "en": "barberry"},
+  {"fa": "نبات", "r": "nabāt", "en": "rock sugar"},
+  {"fa": "فیروزه", "r": "firuze", "en": "turquoise"},
+  {"fa": "مثقال", "r": "mesghāl", "en": "mesghal, a weight of about 4.6 g (for saffron and gold)"},
+  {"fa": "شلوغ", "r": "sholugh", "en": "crowded, busy"},
+  {"fa": "قبول", "r": "ghabul", "en": "accepted"},
+  {"fa": "مشتی", "r": "mashti", "en": "pilgrim to Mashhad; (slang) a decent, generous man"}
+ ],
+ "facts": [
+  "Imam Reza, the eighth Shi'a imam, died near Tus in AD 818; Mashhad grew up around his tomb.",
+  "Mashhad is Iran's second-largest city, with about three million people in the 2016 census.",
+  "The name Mashhad is Arabic for 'place of martyrdom'.",
+  "The Goharshad Mosque was built in the early 15th century for Goharshad, wife of the Timurid ruler Shahrukh.",
+  "Ferdowsi's tomb at Tus was built in the 1930s for the millennium of the poet's birth.",
+  "Omar Khayyam's mausoleum in Nishapur, a lattice of stone designed by Houshang Seyhoun, was completed in 1963.",
+  "A mesghal, the traditional unit for selling saffron and gold, weighs about 4.6 grams."
+ ]
+}

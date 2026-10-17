@@ -144,6 +144,11 @@ figcaption .credit a { color: var(--muted); }
 @media (prefers-color-scheme: dark) { .study-bar button[aria-pressed="true"] { color: var(--paper); } }
 .study-bar .play-all { margin-left: auto; border-color: var(--turq); color: var(--turq); }
 .study-bar .play-all.on { background: var(--turq); color: var(--paper); }
+.study-bar .save-off { border-style: dashed; }
+.study-bar .save-off.on { border-style: solid; border-color: var(--good); color: var(--good); background: var(--good-soft); }
+.study-bar .save-off:disabled { cursor: progress; opacity: .85; }
+.saved-pages { padding-left: 1.2rem; }
+.saved-pages li { margin: .3rem 0; }
 body.hide-tr .tr, body.hide-tr .ifa-r.hideable { display: none; }
 body.hide-en .ln:not(.peek) > .ln-b > .en, body.hide-en .ln:not(.peek) > .ln-b > .lit, body.hide-en .vw:not(.peek) .vw-en { filter: blur(6px); cursor: pointer; user-select: none; }
 body.hide-col .col { display: none; }

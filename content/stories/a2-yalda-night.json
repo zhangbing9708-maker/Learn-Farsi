@@ -1,0 +1,298 @@
+{
+ "id": "a2-yalda-night",
+ "level": "A2",
+ "kind": "everyday life",
+ "title": "Yalda night",
+ "titleFa": "شب یلدا",
+ "titleR": "shab-e yaldā",
+ "image": "yalda",
+ "intro": "On the longest night of the year Iranian families gather at the grandparents' house, eat red fruit until late and ask Hafez about the future. Tom is invited to Yalda with Mina's family. The story practises the past tenses, comparatives and superlatives (بلندتر 'longer', طولانی‌ترین 'longest'), and که-clauses after verbs like 'explain' and 'wish'.",
+ "source": "An original story for this course.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "شب یلدا طولانی‌ترین شب سال است.",
+     "r": "shab-e yaldā tulāni-tarin shab-e sāl ast.",
+     "en": "Yalda night is the longest night of the year.",
+     "faV": "شَبِ یَلدا طولانی‌تَرین شَبِ سال اَست.",
+     "a": "ee7926e798e2"
+    },
+    {
+     "fa": "پارسال مینا تام را به خانه‌ی پدربزرگش دعوت کرد.",
+     "r": "pārsāl Minā Tām rā be khāne-ye pedar-bozorg-ash da'vat kard.",
+     "en": "Last year Mina invited Tom to her grandfather's house.",
+     "faV": "پارسال مینا تام را به خانه‌یِ پِدَربُزُرگَش دَعوَت کَرد.",
+     "a": "3e1c19b9c4d1"
+    },
+    {
+     "fa": "همه‌ی خانواده آن‌جا بودند: عموها، خاله‌ها، بچه‌ها و حتی گربه‌ی مادربزرگ!",
+     "r": "hame-ye khānevāde ān-jā budand: amu-hā, khāle-hā, bacche-hā va hattā gorbe-ye mādar-bozorg!",
+     "en": "The whole family was there: uncles, aunts, children and even Grandmother's cat!",
+     "faV": "هَمه‌یِ خانِواده آن‌جا بودَند: عَموها، خاله‌ها، بَچّه‌ها و حَتّی گُربه‌یِ مادَربُزُرگ!",
+     "a": "d33d3bef383d"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "روی سفره انار، هندوانه، آجیل و خرمالو بود.",
+     "r": "ru-ye sofre anār, hendevāne, ājil o khormālu bud.",
+     "en": "On the sofreh there were pomegranates, watermelon, nuts and persimmons.",
+     "faV": "رویِ سُفره اَنار، هِندِوانه، آجیل و خُرمالو بود.",
+     "a": "a8005fecfd3d"
+    },
+    {
+     "fa": "مادربزرگ برای تام توضیح داد که در قدیم، مردم در این شب تا صبح بیدار می‌ماندند.",
+     "r": "mādar-bozorg barā-ye Tām towzih dād ke dar ghadim, mardom dar in shab tā sobh bidār mi-māndand.",
+     "en": "Grandmother explained to Tom that in the old days people stayed awake until morning on this night.",
+     "faV": "مادَربُزُرگ بَرایِ تام تَوضیح داد که دَر قَدیم، مَردُم دَر این شَب تا صُبح بیدار می‌ماندَند.",
+     "a": "14d4e6f11a98"
+    },
+    {
+     "fa": "آن‌ها منتظر طلوع خورشید بودند، چون بعد از یلدا روزها بلندتر می‌شوند.",
+     "r": "ān-hā montazer-e tolu'-e khorshid budand, chon ba'd az yaldā ruz-hā boland-tar mi-shavand.",
+     "en": "They waited for the sun to rise, because after Yalda the days get longer.",
+     "faV": "آن‌ها مُنتَظِرِ طُلوعِ خورشید بودَند، چون بَعد اَز یَلدا روزها بُلَندتَر می‌شَوَند.",
+     "a": "dd409258fb8c"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "بعد از شام، پدربزرگ دیوان حافظ را آورد.",
+     "r": "ba'd az shām, pedar-bozorg divān-e Hāfez rā āvard.",
+     "en": "After dinner, Grandfather brought out the Divan of Hafez.",
+     "faV": "بَعد اَز شام، پِدَربُزُرگ دیوانِ حافِظ را آوَرد.",
+     "a": "2ac839c30a35"
+    },
+    {
+     "fa": "هر کس یک نیت کرد و پدربزرگ برایش یک فال گرفت.",
+     "r": "har kas yek niyyat kard o pedar-bozorg barā-yash yek fāl gereft.",
+     "en": "Each person made a wish, and Grandfather read their fortune for them.",
+     "faV": "هَر کَس یِک نیَّت کَرد و پِدَربُزُرگ بَرایَش یِک فال گِرِفت.",
+     "a": "8f19cdfde692"
+    },
+    {
+     "fa": "نوبت تام شد.",
+     "r": "nowbat-e Tām shod.",
+     "en": "Then it was Tom's turn.",
+     "faV": "نَوبَتِ تام شُد.",
+     "a": "5bfc943185c1"
+    },
+    {
+     "fa": "تام چشم‌هایش را بست و در دلش آرزو کرد که فارسی را خوب یاد بگیرد.",
+     "r": "Tām cheshm-hā-yash rā bast o dar del-ash ārezu kard ke fārsi rā khub yād begirad.",
+     "en": "Tom closed his eyes and wished in his heart that he would learn Persian well.",
+     "faV": "تام چِشم‌هایَش را بَست و دَر دِلَش آرِزو کَرد که فارسی را خوب یاد بِگیرَد.",
+     "a": "27575ac39646"
+    },
+    {
+     "fa": "پدربزرگ کتاب را باز کرد و یک غزل خواند.",
+     "r": "pedar-bozorg ketāb rā bāz kard o yek ghazal khānd.",
+     "en": "Grandfather opened the book and read out a ghazal.",
+     "faV": "پِدَربُزُرگ کِتاب را باز کَرد و یِک غَزَل خواند.",
+     "a": "0520b0904b63"
+    },
+    {
+     "fa": "بعد با لبخند گفت: «حافظ می‌گوید: غم مخور! تو حتماً فارسی را یاد می‌گیری.»",
+     "r": "ba'd bā labkhand goft: «Hāfez mi-guyad: gham ma-khor! to hatman fārsi rā yād mi-giri.»",
+     "en": "Then he smiled and said: \"Hafez says: don't be sad! You will certainly learn Persian.\"",
+     "faV": "بَعد با لَبخَند گُفت: «حافِظ می‌گویَد: غَم مَخور! تو حَتماً فارسی را یاد می‌گیری.»",
+     "a": "bff1aebdf6e8"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "آن شب تا دیروقت بیدار ماندند، انار خوردند و خندیدند.",
+     "r": "ān shab tā dir-vaght bidār māndand, anār khordand o khandidand.",
+     "en": "That night they stayed up late, eating pomegranates and laughing.",
+     "faV": "آن شَب تا دیروَقت بیدار ماندَند، اَنار خوردَند و خَندیدَند.",
+     "a": "370deae12e56"
+    },
+    {
+     "fa": "وقتی تام به خانه برگشت، دست‌هایش از آب انار قرمز بود.",
+     "r": "vaghti Tām be khāne bar-gasht, dast-hā-yash az āb-e anār ghermez bud.",
+     "en": "When Tom got home, his hands were red with pomegranate juice.",
+     "faV": "وَقتی تام به خانه بَرگَشت، دَست‌هایَش اَز آبِ اَنار قِرمِز بود.",
+     "a": "c80be242bfba"
+    },
+    {
+     "fa": "او فکر کرد: «یلدا طولانی‌ترین شب سال است، اما برای من کوتاه‌ترین شب بود!»",
+     "r": "u fekr kard: «yaldā tulāni-tarin shab-e sāl ast, ammā barā-ye man kutāh-tarin shab bud!»",
+     "en": "He thought: \"Yalda is the longest night of the year, but for me it was the shortest!\"",
+     "faV": "او فِکر کَرد: «یَلدا طولانی‌تَرین شَبِ سال اَست، اَمّا بَرایِ مَن کوتاه‌تَرین شَب بود!»",
+     "a": "b16ccb4bc43c"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "یلدا",
+   "r": "yaldā",
+   "en": "Yalda, the longest night of the year",
+   "faV": "یَلدا",
+   "a": "332b8b672e41"
+  },
+  {
+   "fa": "طولانی",
+   "r": "tulāni",
+   "en": "long (in time or length)",
+   "faV": "طولانی",
+   "a": "788d33476cec"
+  },
+  {
+   "fa": "دعوت کردن",
+   "r": "da'vat kardan",
+   "en": "to invite",
+   "faV": "دَعوَت کَردَن",
+   "a": "b208c092c83e"
+  },
+  {
+   "fa": "سفره",
+   "r": "sofre",
+   "en": "cloth spread for a meal",
+   "faV": "سُفره",
+   "a": "a5e83036b4e5"
+  },
+  {
+   "fa": "انار",
+   "r": "anār",
+   "en": "pomegranate",
+   "faV": "اَنار",
+   "a": "6c4e904dbad0"
+  },
+  {
+   "fa": "هندوانه",
+   "r": "hendevāne",
+   "en": "watermelon",
+   "faV": "هِندِوانه",
+   "a": "cbdf0ac6bd6a"
+  },
+  {
+   "fa": "آجیل",
+   "r": "ājil",
+   "en": "mixed nuts and dried fruit",
+   "faV": "آجیل",
+   "a": "2138287559aa"
+  },
+  {
+   "fa": "توضیح دادن",
+   "r": "towzih dādan",
+   "en": "to explain",
+   "faV": "تَوضیح دادَن",
+   "a": "c06dd5c605d0"
+  },
+  {
+   "fa": "بیدار ماندن",
+   "r": "bidār māndan",
+   "en": "to stay awake, stay up",
+   "faV": "بیدار ماندَن",
+   "a": "1030bc609153"
+  },
+  {
+   "fa": "منتظر بودن",
+   "r": "montazer budan",
+   "en": "to wait (for), expect",
+   "faV": "مُنتَظِر بودَن",
+   "a": "5549c0eda845"
+  },
+  {
+   "fa": "طلوع خورشید",
+   "r": "tolu'-e khorshid",
+   "en": "sunrise",
+   "faV": "طُلوعِ خورشید",
+   "a": "bb44ee589b8c"
+  },
+  {
+   "fa": "دیوان",
+   "r": "divān",
+   "en": "collected poems of a poet",
+   "faV": "دیوان",
+   "a": "990e80bfe2c0"
+  },
+  {
+   "fa": "نیت کردن",
+   "r": "niyyat kardan",
+   "en": "to make a wish (before a fortune), to intend",
+   "faV": "نیَّت کَردَن",
+   "a": "37d8a261d11a"
+  },
+  {
+   "fa": "فال گرفتن",
+   "r": "fāl gereftan",
+   "en": "to read someone's fortune",
+   "faV": "فال گِرِفتَن",
+   "a": "5cc0265c4a1b"
+  },
+  {
+   "fa": "آرزو کردن",
+   "r": "ārezu kardan",
+   "en": "to wish",
+   "faV": "آرِزو کَردَن",
+   "a": "2f5efabbd33a"
+  },
+  {
+   "fa": "غم مخور",
+   "r": "gham ma-khor",
+   "en": "don't be sad, don't worry (literary)",
+   "faV": "غَم مَخور",
+   "a": "45498cd4e8f4"
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is Yalda night?",
+   "options": [
+    "the first night of spring",
+    "the longest night of the year",
+    "the night before a wedding"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which of these was on the sofreh?",
+   "options": [
+    "pomegranates and watermelon",
+    "bread and cheese",
+    "rice and kebab"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "In the old days, why did people stay awake on this night?",
+   "options": [
+    "to watch the moon",
+    "they were waiting for a wedding",
+    "they were waiting for the sun to rise"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What did Tom wish for?",
+   "options": [
+    "to learn Persian well",
+    "to visit Shiraz",
+    "a new phone"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Why does Tom call it the shortest night?",
+   "options": [
+    "he went to bed early",
+    "he had such a good time",
+    "he left before dinner"
+   ],
+   "answer": 1
+  }
+ ],
+ "after": "Shab-e Yalda (شب یلدا), also called شب چله, falls on the night of 30 Azar, around 20–21 December: the winter solstice. The word yaldā comes from Syriac and means 'birth' – the birth of the sun, which grows stronger from that night on. Pomegranates, watermelon, nuts and persimmons are the classic foods, and many families end the night with فال حافظ: you make a wish, open the Divan of Hafez at random and read the ghazal you find as the poet's answer. غم مخور 'do not grieve' is the refrain of one of Hafez's best-loved ghazals. Grammar: the superlative -tarin comes before its noun (طولانی‌ترین شب 'the longest night'), while the comparative -tar behaves like any adjective (روزها بلندتر می‌شوند 'the days get longer'). After آرزو کرد که the verb is subjunctive: یاد بگیرد.",
+ "titleV": "شَبِ یَلدا",
+ "titleA": "90256b0da032"
+}

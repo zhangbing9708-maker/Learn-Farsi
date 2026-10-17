@@ -1,0 +1,358 @@
+{
+ "id": "b1-the-first-day-in-tehran",
+ "level": "B1",
+ "kind": "travel",
+ "title": "The first day in Tehran",
+ "titleFa": "روز اول در تهران",
+ "titleR": "ruz-e avval dar Tehrān",
+ "image": "tehran",
+ "intro": "Tom, the Australian student you have met in the lessons, lands in Tehran for a year of study. Between the airport and his host family's front door everything is new: a talkative taxi driver, the metro at rush hour, and a great deal of ta'ārof. Look for reported speech (راننده گفت که…), conditionals with اگر, and compound verbs with کردن and شدن.",
+ "source": "An original story for Learn Farsi.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "هواپیمای تام ساعت چهار صبح در فرودگاه امام خمینی به زمین نشست.",
+     "r": "havā-peymā-ye Tām sā'at-e chahār-e sobh dar forudgāh-e Emām Khomeyni be zamin neshast.",
+     "en": "Tom's plane touched down at Imam Khomeini Airport at four in the morning.",
+     "faV": "هَواپَیمایِ تام ساعَتِ چَهارِ صُبح دَر فُرودگاهِ اِمام خُمَینی به زَمین نِشَست.",
+     "a": "0a8cd31afec1"
+    },
+    {
+     "fa": "او یک دانشجوی استرالیایی بود که برای یک سال تحصیل در دانشگاه تهران به ایران آمده بود.",
+     "r": "u yek dāneshju-ye ostrāliyā-yi bud ke barā-ye yek sāl tahsil dar dāneshgāh-e Tehrān be Irān āmade bud.",
+     "en": "He was an Australian student who had come to Iran to spend a year studying at the University of Tehran.",
+     "faV": "او یِک دانِشجویِ اُسترالیایی بود که بَرایِ یِک سال تَحصیل دَر دانِشگاهِ تِهران به ایران آمَده بود.",
+     "a": "df8b525f0910"
+    },
+    {
+     "fa": "مأمور گذرنامه به عکس تام نگاه کرد، لبخند زد و گفت: «به ایران خوش آمدید!»",
+     "r": "ma'mur-e gozarnāme be aks-e Tām negāh kard, labkhand zad o goft: «be Irān khosh āmadid!»",
+     "en": "The passport officer looked at Tom's photo, smiled and said: \"Welcome to Iran!\"",
+     "faV": "مَأمورِ گُذَرنامه به عَکسِ تام نِگاه کَرد، لَبخَند زَد و گُفت: «به ایران خوش آمَدید!»",
+     "a": "3145563bdbf7"
+    },
+    {
+     "fa": "چمدان‌ها یک ساعت دیر آورده شدند، اما چمدان تام سالم بود.",
+     "r": "chamedān-hā yek sā'at dir āvarde shodand, ammā chamedān-e Tām sālem bud.",
+     "en": "The suitcases came out an hour late, but Tom's was safe and sound.",
+     "faV": "چَمِدان‌ها یِک ساعَت دیر آوَرده شُدَند، اَمّا چَمِدانِ تام سالِم بود.",
+     "a": "efdac754ee42"
+    },
+    {
+     "fa": "تام کمی دلار به ریال تبدیل کرد و تعجب کرد که چقدر اسکناس گرفت.",
+     "r": "Tām kam-i dolār be riyāl tabdil kard o ta'ajjob kard ke cheghadr eskenās gereft.",
+     "en": "Tom changed a few dollars into rials and was amazed at how many banknotes he got.",
+     "faV": "تام کَمی دُلار به ریال تَبدیل کَرد و تَعَجُّب کَرد که چِقَدر اِسکِناس گِرِفت.",
+     "a": "c4f4eb999bcb"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "بیرون فرودگاه یک تاکسی گرفت و آدرس خانواده‌ی کریمی را به راننده نشان داد.",
+     "r": "birun-e forudgāh yek tāksi gereft o ādres-e khānevāde-ye Karimi rā be rānande neshān dād.",
+     "en": "Outside the airport he took a taxi and showed the driver the Karimi family's address.",
+     "faV": "بیرونِ فُرودگاه یِک تاکسی گِرِفت و آدرِسِ خانِواده‌یِ کَریمی را به رانَنده نِشان داد.",
+     "a": "ede24262e0e7"
+    },
+    {
+     "fa": "راننده مرد پرحرف و مهربانی بود؛ پرسید که تام اهل کجاست و وقتی شنید استرالیا، خندید و گفت: «کانگورو!»",
+     "r": "rānande mard-e por-harf o mehrabān-i bud; porsid ke Tām ahl-e kojā-st o vaghti shenid Ostrāliyā, khandid o goft: «kāngoru!»",
+     "en": "The driver was a kind, talkative man; he asked where Tom was from, and when he heard 'Australia' he laughed and said: \"Kangaroo!\"",
+     "faV": "رانَنده مَردِ پُرحَرف و مِهرَبانی بود؛ پُرسید که تام اَهلِ کُجاست و وَقتی شِنید اُسترالیا، خَندید و گُفت: «کانگورو!»",
+     "a": "cdc6808d2732"
+    },
+    {
+     "fa": "در راه، راننده گفت که ترافیک تهران وحشتناک است و اگر تام با تاکسی تا شمال شهر برود، دو ساعت در راه خواهد ماند.",
+     "r": "dar rāh, rānande goft ke terāfik-e Tehrān vahshatnāk ast o agar Tām bā tāksi tā shomāl-e shahr be-ravad, do sā'at dar rāh khāhad mānd.",
+     "en": "On the way the driver said that Tehran's traffic was terrible, and that if Tom went all the way to the north of the city by taxi, he would spend two hours on the road.",
+     "faV": "دَر راه، رانَنده گُفت که تِرافیکِ تِهران وَحشَتناک اَست و اَگَر تام با تاکسی تا شُمالِ شَهر بِرَوَد، دو ساعَت دَر راه خواهَد ماند.",
+     "a": "6a84ef9a286a"
+    },
+    {
+     "fa": "برای همین پیشنهاد کرد که تام را به ایستگاه مترو برساند.",
+     "r": "barā-ye hamin pishnahād kard ke Tām rā be istgāh-e metro be-resānad.",
+     "en": "So he offered to drop Tom at a metro station.",
+     "faV": "بَرایِ هَمین پیشنَهاد کَرد که تام را به ایستگاهِ مِترو بِرِسانَد.",
+     "a": "e701c754550f"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "وقتی رسیدند، تام پرسید: «چقدر می‌شود؟» و راننده گفت: «قابل ندارد!»",
+     "r": "vaghti residand, Tām porsid: «cheghadr mi-shavad?» o rānande goft: «ghābel na-dārad!»",
+     "en": "When they arrived Tom asked: \"How much is it?\" and the driver said: \"It's nothing – be my guest!\"",
+     "faV": "وَقتی رِسیدَند، تام پُرسید: «چِقَدر می‌شَوَد؟» و رانَنده گُفت: «قابِل نَدارَد!»",
+     "a": "221e07d842f4"
+    },
+    {
+     "fa": "تام در کتابش خوانده بود که این تعارف است؛ پس دوباره اصرار کرد، تا این‌که راننده قیمت را گفت و تام با خوشحالی پول را داد.",
+     "r": "Tām dar ketāb-ash khānde bud ke in ta'ārof ast; pas dobāre esrār kard, tā in-ke rānande gheymat rā goft o Tām bā khoshhāli pul rā dād.",
+     "en": "Tom had read in his book that this was ta'arof, so he insisted again, until the driver named the price and Tom happily paid.",
+     "faV": "تام دَر کِتابَش خوانده بود که این تَعارُف اَست؛ پَس دوباره اِصرار کَرد، تا این‌که رانَنده قَیمَت را گُفت و تام با خوشحالی پول را داد.",
+     "a": "e6494c07129d"
+    },
+    {
+     "fa": "راننده دست تام را فشرد و گفت: «تو دیگر یک ایرانی واقعی شده‌ای!»",
+     "r": "rānande dast-e Tām rā feshord o goft: «to digar yek irāni-ye vāghe'i shode-i!»",
+     "en": "The driver shook Tom's hand and said: \"You've become a real Iranian already!\"",
+     "faV": "رانَنده دَستِ تام را فِشُرد و گُفت: «تو دیگَر یِک ایرانیِ واقِعی شُده‌ای!»",
+     "a": "8f3a7e727f4c"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "مترو شلوغ بود و تام نزدیک بود سوار واگن اول شود که یک خانم با لبخند گفت: «آقا، این واگن مخصوص بانوان است!»",
+     "r": "metro sholugh bud o Tām nazdik bud savār-e vāgon-e avval shavad ke yek khānom bā labkhand goft: «āghā, in vāgon makhsus-e bānovān ast!»",
+     "en": "The metro was crowded, and Tom was about to step into the first carriage when a woman said with a smile: \"Sir, this carriage is for women only!\"",
+     "faV": "مِترو شُلوغ بود و تام نَزدیک بود سَوارِ واگُنِ اَوَّل شَوَد که یِک خانُم با لَبخَند گُفت: «آقا، این واگُن مَخصوصِ بانُوان اَست!»",
+     "a": "749733698458"
+    },
+    {
+     "fa": "تام سرخ شد، عذرخواهی کرد و به واگن بعدی رفت.",
+     "r": "Tām sorkh shod, ozr-khāhi kard o be vāgon-e ba'di raft.",
+     "en": "Tom went red, apologised and moved to the next carriage.",
+     "faV": "تام سُرخ شُد، عُذرخواهی کَرد و به واگُنِ بَعدی رَفت.",
+     "a": "4f4c4348a5fd"
+    },
+    {
+     "fa": "در مترو فروشنده‌ها همه چیز می‌فروختند: جوراب، آدامس، شارژر تلفن و حتی گل.",
+     "r": "dar metro forushande-hā hame chiz mi-forukhtand: jurāb, ādāms, shārzher-e telefon o hattā gol.",
+     "en": "In the metro, vendors were selling everything: socks, chewing gum, phone chargers, even flowers.",
+     "faV": "دَر مِترو فُروشَنده‌ها هَمه چیز می‌فُروختَند: جوراب، آدامس، شارژِرِ تِلِفُن و حَتّی گُل.",
+     "a": "d188c24ae555"
+    },
+    {
+     "fa": "مرد جوانی که کنار تام ایستاده بود، به او کمک کرد که در ایستگاه درست پیاده شود.",
+     "r": "mard-e javān-i ke kenār-e Tām istāde bud, be u komak kard ke dar istgāh-e dorost piyāde shavad.",
+     "en": "A young man who was standing next to Tom helped him get off at the right station.",
+     "faV": "مَردِ جَوانی که کِنارِ تام ایستاده بود، به او کُمَک کَرد که دَر ایستگاهِ دُرُست پیاده شَوَد.",
+     "a": "f7c09f3c1017"
+    },
+    {
+     "fa": "وقتی از مترو بیرون آمد، آفتاب درآمده بود و کوه‌های برفی البرز بالای شهر دیده می‌شدند.",
+     "r": "vaghti az metro birun āmad, āftāb dar-āmade bud o kuh-hā-ye barfi-ye Alborz bālā-ye shahr dide mi-shodand.",
+     "en": "When he came out of the metro the sun had risen, and the snowy Alborz mountains could be seen above the city.",
+     "faV": "وَقتی اَز مِترو بیرون آمَد، آفتاب دَرآمَده بود و کوه‌هایِ بَرفیِ اَلبُرز بالایِ شَهر دیده می‌شُدَند.",
+     "a": "4523f17b1cf2"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "خانه‌ی کریمی‌ها در کوچه‌ای آرام نزدیک خیابان ولیعصر بود.",
+     "r": "khāne-ye Karimi-hā dar kuche-i ārām nazdik-e khiyābān-e Vali-asr bud.",
+     "en": "The Karimis' house was in a quiet lane near Valiasr Street.",
+     "faV": "خانه‌یِ کَریمی‌ها دَر کوچه‌ای آرام نَزدیکِ خیابانِ وَلیعَصر بود.",
+     "a": "8756f4814dc7"
+    },
+    {
+     "fa": "آقا و خانم کریمی و پسرشان رضا دم در منتظر او بودند.",
+     "r": "āghā o khānom-e Karimi o pesar-eshān Rezā dam-e dar montazer-e u budand.",
+     "en": "Mr and Mrs Karimi and their son Reza were waiting for him at the door.",
+     "faV": "آقا و خانُمِ کَریمی و پِسَرِشان رِضا دَمِ دَر مُنتَظِرِ او بودَند.",
+     "a": "86e8e836c06f"
+    },
+    {
+     "fa": "خانم کریمی گفت: «خوش آمدی پسرم! حتماً خیلی خسته‌ای.» و فوراً برایش چای و میوه آورد.",
+     "r": "khānom-e Karimi goft: «khosh āmadi pesar-am! hatman kheyli khaste-i.» o foran barā-yash chāy o mive āvard.",
+     "en": "Mrs Karimi said: \"Welcome, my son! You must be very tired,\" and at once brought him tea and fruit.",
+     "faV": "خانُمِ کَریمی گُفت: «خوش آمَدی پِسَرَم! حَتماً خَیلی خَسته‌ای.» و فوراً بَرایَش چای و میوه آوَرد.",
+     "a": "97a0c8a69923"
+    },
+    {
+     "fa": "رضا می‌خواست با تام انگلیسی حرف بزند، اما تام گفت که آمده است فارسی یاد بگیرد.",
+     "r": "Rezā mi-khāst bā Tām engelisi harf be-zanad, ammā Tām goft ke āmade ast fārsi yād be-girad.",
+     "en": "Reza wanted to speak English with Tom, but Tom said he had come to learn Persian.",
+     "faV": "رِضا می‌خواست با تام اِنگِلیسی حَرف بِزَنَد، اَمّا تام گُفت که آمَده اَست فارسی یاد بِگیرَد.",
+     "a": "704039814283"
+    },
+    {
+     "fa": "شام آن شب قورمه‌سبزی بود و تام آن‌قدر خورد که سر سفره خوابش برد.",
+     "r": "shām-e ān shab ghorme-sabzi bud o Tām ān-ghadr khord ke sar-e sofre khāb-ash bord.",
+     "en": "Dinner that night was ghormeh sabzi, and Tom ate so much that he fell asleep right there at the sofreh.",
+     "faV": "شامِ آن شَب قورمه‌سَبزی بود و تام آن‌قَدر خورد که سَرِ سُفره خوابَش بُرد.",
+     "a": "965e3a6721fd"
+    },
+    {
+     "fa": "وقتی بیدار شد، یک پتو رویش بود و خانم کریمی آرام گفت: «این‌جا خانه‌ی خودت است.»",
+     "r": "vaghti bidār shod, yek patu ru-yash bud o khānom-e Karimi ārām goft: «in-jā khāne-ye khod-at ast.»",
+     "en": "When he woke there was a blanket over him, and Mrs Karimi said softly: \"This is your own home now.\"",
+     "faV": "وَقتی بیدار شُد، یِک پَتو رویَش بود و خانُمِ کَریمی آرام گُفت: «این‌جا خانه‌یِ خودَت اَست.»",
+     "a": "987bd07f7f68"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "فرودگاه",
+   "r": "forudgāh",
+   "en": "airport",
+   "faV": "فُرودگاه",
+   "a": "6dc58197d442"
+  },
+  {
+   "fa": "گذرنامه",
+   "r": "gozarnāme",
+   "en": "passport",
+   "faV": "گُذَرنامه",
+   "a": "a8360cf4dbb0"
+  },
+  {
+   "fa": "چمدان",
+   "r": "chamedān",
+   "en": "suitcase",
+   "faV": "چَمِدان",
+   "a": "3ad82a502c1a"
+  },
+  {
+   "fa": "اسکناس",
+   "r": "eskenās",
+   "en": "banknote",
+   "faV": "اِسکِناس",
+   "a": "2b9e8addff65"
+  },
+  {
+   "fa": "پرحرف",
+   "r": "por-harf",
+   "en": "talkative",
+   "faV": "پُرحَرف",
+   "a": "fc072f69ff01"
+  },
+  {
+   "fa": "وحشتناک",
+   "r": "vahshatnāk",
+   "en": "terrible, awful",
+   "faV": "وَحشَتناک",
+   "a": "065a43511361"
+  },
+  {
+   "fa": "پیشنهاد کردن",
+   "r": "pishnahād kardan",
+   "en": "to suggest, to offer",
+   "faV": "پیشنَهاد کَردَن",
+   "a": "cec7d40af39e"
+  },
+  {
+   "fa": "قابل ندارد",
+   "r": "ghābel na-dārad",
+   "en": "it's nothing (polite refusal of payment)",
+   "faV": "قابِل نَدارَد",
+   "a": "2122d4e52c7a"
+  },
+  {
+   "fa": "تعارف",
+   "r": "ta'ārof",
+   "en": "ritual politeness",
+   "faV": "تَعارُف",
+   "a": "3c42bf843630"
+  },
+  {
+   "fa": "اصرار کردن",
+   "r": "esrār kardan",
+   "en": "to insist",
+   "faV": "اِصرار کَردَن",
+   "a": "b993ada24acb"
+  },
+  {
+   "fa": "واگن",
+   "r": "vāgon",
+   "en": "carriage (of a train)",
+   "faV": "واگُن",
+   "a": "bd1ff13eb003"
+  },
+  {
+   "fa": "مخصوص بانوان",
+   "r": "makhsus-e bānovān",
+   "en": "for women only",
+   "faV": "مَخصوصِ بانُوان",
+   "a": "62ed0b8f89cb"
+  },
+  {
+   "fa": "عذرخواهی کردن",
+   "r": "ozr-khāhi kardan",
+   "en": "to apologise",
+   "faV": "عُذرخواهی کَردَن",
+   "a": "a9bf8a5d3a50"
+  },
+  {
+   "fa": "پیاده شدن",
+   "r": "piyāde shodan",
+   "en": "to get off (a bus, train)",
+   "faV": "پیاده شُدَن",
+   "a": "758cad9855f9"
+  },
+  {
+   "fa": "منتظر بودن",
+   "r": "montazer budan",
+   "en": "to be waiting",
+   "faV": "مُنتَظِر بودَن",
+   "a": "5549c0eda845"
+  },
+  {
+   "fa": "خوابش برد",
+   "r": "khāb-ash bord",
+   "en": "he fell asleep",
+   "faV": "خوابَش بُرد",
+   "a": "f3919318c839"
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why had Tom come to Iran?",
+   "options": [
+    "to work as an English teacher",
+    "to study for a year at the University of Tehran",
+    "to visit his friend Reza"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Why did the driver take Tom to a metro station?",
+   "options": [
+    "the taxi had broken down",
+    "Tom had asked him to",
+    "driving to the north of the city would take two hours"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What did Tom do when the driver said «قابل ندارد»?",
+   "options": [
+    "he left without paying",
+    "he insisted until the driver named the price",
+    "he paid twice the price"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What mistake did Tom almost make in the metro?",
+   "options": [
+    "getting into the women's carriage",
+    "getting off at the wrong station",
+    "buying flowers from a vendor"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Why didn't Tom want to speak English with Reza?",
+   "options": [
+    "Reza didn't speak English",
+    "he had come to learn Persian",
+    "Mrs Karimi had asked him not to"
+   ],
+   "answer": 1
+  }
+ ],
+ "after": "Tom meets the most famous phrase of تعارف (ta'ārof), Iran's ritual politeness: a driver or shopkeeper says قابل ندارد, 'it isn't worthy of you', and the right answer is to insist – خواهش می‌کنم, 'please' – until the real price is named. On the Tehran metro the carriages at each end of the train are for women only, though women may ride anywhere. Grammar to notice: reported speech keeps the original tense (گفت که ترافیک وحشتناک است, literally 'said that the traffic *is* terrible'); نزدیک بود … که, 'was about to … when'; آن‌قدر … که, 'so much … that'; and the idiom خوابش برد, literally 'his sleep carried him off'.",
+ "titleV": "روزِ اَوَّل دَر تِهران",
+ "titleA": "63b77107b656"
+}

@@ -1,0 +1,989 @@
+{
+ "id": "a2-13-a-place-to-live",
+ "level": "A2",
+ "n": 13,
+ "title": "A place to live: renting a flat",
+ "titleFa": "خانه‌ی اجاره‌ای",
+ "titleR": "khāne-ye ejāre-i",
+ "intro": "Finding a flat in an Iranian city means learning a whole new set of numbers. In this lesson you describe a home – its rooms, its floor, its size – with ordinal numbers like اول، دوم، سوم and words like دوخوابه, and you find out how renting works in Iran: a monthly اجاره plus a very large deposit called رهن. Since flats are priced in millions of tomans, you also learn to read and say big numbers.",
+ "goals": [
+  "describe a flat or a house: rooms, floor, size and features",
+  "use ordinal numbers: اول، دوم، سوم … and اولین، دومین",
+  "say which floor: طبقه‌ی سوم، همکف، زیرزمین",
+  "read and say big numbers: هزار، میلیون، میلیارد",
+  "understand how اجاره and رهن work"
+ ],
+ "image": "tehran",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "Viewing a flat",
+   "context": "Tom and Reza share a flat, but they need more space. An agent from the local estate agency shows them a flat in a new building nearby.",
+   "lines": [
+    {
+     "who": "Agent",
+     "fa": "بفرمایید، این هم آپارتمان. طبقه‌ی سوم است و آسانسور دارد.",
+     "r": "befarmāyid, in ham āpārtemān. tabaghe-ye sevvom ast o āsānsor dārad.",
+     "en": "Here we are, this is the flat. It's on the third floor, and there's a lift.",
+     "col": "بفرمایید، اینم آپارتمان. طبقه‌ی سومه و آسانسور داره.",
+     "colR": "befarmāyid, in-am āpārtemān. tabaghe-ye sevvom-e o āsānsor dāre."
+    },
+    {
+     "who": "Reza",
+     "fa": "چند متر است؟",
+     "r": "chand metr ast?",
+     "en": "How big is it?",
+     "lit": "how many metres is it?",
+     "col": "چند متره؟",
+     "colR": "chand metr-e?"
+    },
+    {
+     "who": "Agent",
+     "fa": "هشتاد و پنج متر، دوخوابه. پذیرایی‌اش هم خیلی نورگیر است.",
+     "r": "hashtād o panj metr, do-khābe. pazirāyi-ash ham kheyli nur-gir ast.",
+     "en": "Eighty-five square metres, two bedrooms. And the living room gets a lot of light."
+    },
+    {
+     "who": "Tom",
+     "fa": "این اتاق اول است؟ برای من کمی کوچک است.",
+     "r": "in otāgh-e avval ast? barā-ye man kam-i kuchak ast.",
+     "en": "Is this the first bedroom? It's a bit small for me.",
+     "col": "این اتاق اوله؟ برام یه کم کوچیکه.",
+     "colR": "in otāgh-e avval-e? barā-m ye kam kuchik-e."
+    },
+    {
+     "who": "Agent",
+     "fa": "اتاق دوم بزرگ‌تر است و بالکن دارد.",
+     "r": "otāgh-e dovvom bozorg-tar ast o bālkon dārad.",
+     "en": "The second room is bigger and has a balcony.",
+     "col": "اتاق دوم بزرگ‌تره و بالکن داره.",
+     "colR": "otāgh-e dovvom bozorg-tar-e o bālkon dāre."
+    },
+    {
+     "who": "Reza",
+     "fa": "خوب است. پارکینگ و انباری هم دارد؟",
+     "r": "khub ast. pārking o anbāri ham dārad?",
+     "en": "Good. Does it come with a parking space and a storeroom?",
+     "col": "خوبه. پارکینگ و انباری هم داره؟",
+     "colR": "khub-e. pārking o anbāri ham dāre?"
+    },
+    {
+     "who": "Agent",
+     "fa": "بله، هر دو در زیرزمین هستند.",
+     "r": "bale, har do dar zir-zamin hastand.",
+     "en": "Yes, both are in the basement."
+    },
+    {
+     "who": "Tom",
+     "fa": "اجاره‌اش چقدر است؟",
+     "r": "ejāre-ash cheghadr ast?",
+     "en": "How much is the rent?",
+     "col": "اجاره‌ش چقدره؟",
+     "colR": "ejāre-sh cheghadr-e?"
+    },
+    {
+     "who": "Agent",
+     "fa": "سیصد میلیون تومان رهن و ماهی دوازده میلیون اجاره.",
+     "r": "sisad milyun tomān rahn o māh-i davāzdah milyun ejāre.",
+     "en": "A deposit of three hundred million tomans, and twelve million a month in rent.",
+     "col": "سیصد میلیون رهن، ماهی دوازده میلیون اجاره.",
+     "colR": "sisad milyun rahn, māh-i davāzdah milyun ejāre."
+    },
+    {
+     "who": "Tom",
+     "fa": "سیصد میلیون؟! من این‌قدر پول ندارم!",
+     "r": "sisad milyun?! man in-ghadr pul na-dāram!",
+     "en": "Three hundred million?! I don't have that much money!"
+    },
+    {
+     "who": "Reza",
+     "fa": "نگران نباش، رهن را آخر قرارداد پس می‌دهند. پولت گم نمی‌شود!",
+     "r": "negarān na-bāsh, rahn rā ākhar-e gharārdād pas mi-dahand. pul-at gom nemi-shavad!",
+     "en": "Don't worry, you get the deposit back at the end of the contract. Your money doesn't disappear!",
+     "col": "نگران نباش، رهنو آخر قرارداد پس می‌دن. پولت گم نمی‌شه!",
+     "colR": "negarān na-bāsh, rahn-o ākhar-e gharārdād pas mi-dan. pul-et gom nemi-she!"
+    },
+    {
+     "who": "Reza",
+     "fa": "آقا، اگر رهن را کمتر کنیم، اجاره چقدر می‌شود؟",
+     "r": "āghā, agar rahn rā kam-tar konim, ejāre cheghadr mi-shavad?",
+     "en": "If we pay a smaller deposit, how much will the rent be?",
+     "col": "آقا، اگه رهنو کمتر کنیم، اجاره چقدر می‌شه؟",
+     "colR": "āghā, age rahn-o kam-tar konim, ejāre cheghadr mi-she?"
+    },
+    {
+     "who": "Agent",
+     "fa": "اجاره بیشتر می‌شود. اما صاحب‌خانه آدم خوبی است؛ امروز با او صحبت می‌کنم.",
+     "r": "ejāre bishtar mi-shavad. ammā sāheb-khāne ādam-e khub-i ast; emruz bā u sohbat mi-konam.",
+     "en": "The rent goes up. But the landlord is a nice man; I'll talk to him today.",
+     "col": "اجاره بیشتر می‌شه. ولی صاحب‌خونه آدم خوبیه؛ امروز باهاش صحبت می‌کنم.",
+     "colR": "ejāre bishtar mi-she. vali sāheb-khune ādam-e khub-i-ye; emruz bā-hāsh sohbat mi-konam."
+    },
+    {
+     "who": "Tom",
+     "fa": "خیلی ممنون. من این آپارتمان را دوست دارم، مخصوصاً بالکنش را!",
+     "r": "kheyli mamnun. man in āpārtemān rā dust dāram, makhsusan bālkon-ash rā!",
+     "en": "Thanks very much. I like this flat – especially the balcony!"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Renting the Iranian way",
+   "md": "When Iranians rent a home, they talk about two sums of money, not one.\n\n- [[اجاره|ejāre|rent]] is what you pay every month: [[ماهی دوازده میلیون|māh-i davāzdah milyun|twelve million a month]]. Notice the [[ـی|-i]] again: [[ماهی|māh-i]] means *per month*, just as [[روزی|ruz-i]] meant *per day* at the pharmacy.\n- [[رهن|rahn|deposit]] is a large lump sum you give the landlord when you move in. It is not a fee: you get every toman back when you leave. The bigger the deposit, the lower the monthly rent – and if you pay a very large one, a [[رهن کامل|rahn-e kāmel|full deposit]], there is no monthly rent at all.\n\nBecause flats cost hundreds of millions of tomans, house-hunting is excellent practice for big numbers. And because flats are stacked in tall buildings, you need ordinal numbers to say where things are: [[طبقه‌ی سوم|tabaghe-ye sevvom|the third floor]], [[اتاق دوم|otāgh-e dovvom|the second room]]."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "اجاره",
+     "r": "ejāre",
+     "en": "rent",
+     "pos": "n",
+     "ex": {
+      "fa": "اجاره‌ی این خانه چقدر است؟",
+      "r": "ejāre-ye in khāne cheghadr ast?",
+      "en": "How much is the rent on this house?"
+     }
+    },
+    {
+     "fa": "اجاره کردن",
+     "r": "ejāre kardan",
+     "en": "to rent",
+     "pos": "v"
+    },
+    {
+     "fa": "رهن",
+     "r": "rahn",
+     "en": "(rental) deposit",
+     "pos": "n",
+     "note": "the large refundable deposit; in contracts also ودیعه vadi'e"
+    },
+    {
+     "fa": "صاحب‌خانه",
+     "r": "sāheb-khāne",
+     "en": "landlord, landlady",
+     "pos": "n",
+     "note": "literally 'owner of the house'",
+     "col": "صاحب‌خونه",
+     "colR": "sāheb-khune"
+    },
+    {
+     "fa": "مستأجر",
+     "r": "mosta'jer",
+     "en": "tenant",
+     "pos": "n"
+    },
+    {
+     "fa": "بنگاه",
+     "r": "bongāh",
+     "en": "estate agency",
+     "pos": "n",
+     "note": "short for بنگاه املاک; the agent is a مشاور املاک moshāver-e amlāk"
+    },
+    {
+     "fa": "قرارداد",
+     "r": "gharārdād",
+     "en": "contract",
+     "pos": "n",
+     "note": "a lease usually runs for one year"
+    },
+    {
+     "fa": "طبقه",
+     "r": "tabaghe",
+     "en": "floor, storey",
+     "pos": "n",
+     "ex": {
+      "fa": "خانه‌ی ما در طبقه‌ی پنجم است.",
+      "r": "khāne-ye mā dar tabaghe-ye panjom ast.",
+      "en": "Our flat is on the fifth floor."
+     }
+    },
+    {
+     "fa": "همکف",
+     "r": "hamkaf",
+     "en": "ground floor",
+     "pos": "n",
+     "note": "literally 'level with the floor'"
+    },
+    {
+     "fa": "زیرزمین",
+     "r": "zir-zamin",
+     "en": "basement",
+     "pos": "n"
+    },
+    {
+     "fa": "آسانسور",
+     "r": "āsānsor",
+     "en": "lift, elevator",
+     "pos": "n"
+    },
+    {
+     "fa": "پارکینگ",
+     "r": "pārking",
+     "en": "parking space",
+     "pos": "n"
+    },
+    {
+     "fa": "انباری",
+     "r": "anbāri",
+     "en": "storeroom",
+     "pos": "n",
+     "note": "most Tehran flats come with a parking space and a small storeroom in the basement"
+    },
+    {
+     "fa": "اتاق خواب",
+     "r": "otāgh-e khāb",
+     "en": "bedroom",
+     "pos": "n"
+    },
+    {
+     "fa": "پذیرایی",
+     "r": "pazirāyi",
+     "en": "living room",
+     "pos": "n",
+     "note": "literally 'reception', the room for guests; also called هال hāl"
+    },
+    {
+     "fa": "حمام",
+     "r": "hammām",
+     "en": "bathroom",
+     "pos": "n"
+    },
+    {
+     "fa": "دستشویی",
+     "r": "dast-shuyi",
+     "en": "toilet; washbasin",
+     "pos": "n",
+     "note": "literally 'hand-washing'"
+    },
+    {
+     "fa": "بالکن",
+     "r": "bālkon",
+     "en": "balcony",
+     "pos": "n"
+    },
+    {
+     "fa": "نوساز",
+     "r": "now-sāz",
+     "en": "newly built",
+     "pos": "adj"
+    },
+    {
+     "fa": "نورگیر",
+     "r": "nur-gir",
+     "en": "bright, full of light",
+     "pos": "adj",
+     "note": "literally 'light-catching'"
+    },
+    {
+     "fa": "محله",
+     "r": "mahalle",
+     "en": "neighbourhood, district",
+     "pos": "n"
+    },
+    {
+     "fa": "اسباب‌کشی کردن",
+     "r": "asbāb-keshi kardan",
+     "en": "to move house",
+     "pos": "v",
+     "note": "literally 'to pull the belongings'",
+     "ex": {
+      "fa": "ماه پیش اسباب‌کشی کردیم.",
+      "r": "māh-e pish asbāb-keshi kardim.",
+      "en": "We moved house last month."
+     }
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "First, second, third: ordinal numbers",
+   "md": "To make *fourth, fifth, sixth…*, add [[ـم|-om]] to the number: [[چهار|chahār|four]] → [[چهارم|chahārom|fourth]]. Two are a little irregular: [[دوم|dovvom|second]] and [[سوم|sevvom|third]] are spelled with a و and said with a double *v*. *First* has its own word, [[اول|avval]]; [[یکم|yekom]] is used in dates and in compound numbers like [[بیست و یکم|bist o yekom|twenty-first]].\n\nThe ordinal goes **after** the noun, with the ezafe: [[طبقه‌ی سوم|tabaghe-ye sevvom|the third floor]], [[اتاق دوم|otāgh-e dovvom|the second room]]. Add [[ـین|-in]] and it moves **before** the noun, with no ezafe: [[سومین طبقه|sevvomin tabaghe|the third floor]]. The *-in* form is a little more emphatic, and it is the usual one with [[بار|bār|time]]: [[اولین بار|avvalin bār|the first time]].\n\nFloors are counted the British way: [[همکف|hamkaf]] is the ground floor, [[طبقه‌ی اول|tabaghe-ye avval]] is one floor up, and the basement is [[زیرزمین|zir-zamin]].",
+   "table": {
+    "head": [
+     "Number",
+     "Ordinal (after the noun)",
+     "-in form (before the noun)",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[یک|yek]]",
+      "[[اول|avval]], [[یکم|yekom]]",
+      "[[اولین|avvalin]]",
+      "first"
+     ],
+     [
+      "[[دو|do]]",
+      "[[دوم|dovvom]]",
+      "[[دومین|dovvomin]]",
+      "second"
+     ],
+     [
+      "[[سه|se]]",
+      "[[سوم|sevvom]]",
+      "[[سومین|sevvomin]]",
+      "third"
+     ],
+     [
+      "[[چهار|chahār]]",
+      "[[چهارم|chahārom]]",
+      "[[چهارمین|chahāromin]]",
+      "fourth"
+     ],
+     [
+      "[[پنج|panj]]",
+      "[[پنجم|panjom]]",
+      "[[پنجمین|panjomin]]",
+      "fifth"
+     ],
+     [
+      "[[شش|shesh]]",
+      "[[ششم|sheshom]]",
+      "[[ششمین|sheshomin]]",
+      "sixth"
+     ],
+     [
+      "[[هفت|haft]]",
+      "[[هفتم|haftom]]",
+      "[[هفتمین|haftomin]]",
+      "seventh"
+     ],
+     [
+      "[[هشت|hasht]]",
+      "[[هشتم|hashtom]]",
+      "[[هشتمین|hashtomin]]",
+      "eighth"
+     ],
+     [
+      "[[نه|noh]]",
+      "[[نهم|nohom]]",
+      "[[نهمین|nohomin]]",
+      "ninth"
+     ],
+     [
+      "[[ده|dah]]",
+      "[[دهم|dahom]]",
+      "[[دهمین|dahomin]]",
+      "tenth"
+     ],
+     [
+      "[[بیست|bist]]",
+      "[[بیستم|bistom]]",
+      "[[بیستمین|bistomin]]",
+      "twentieth"
+     ],
+     [
+      "[[سی|si]]",
+      "[[سی‌ام|si-yom]]",
+      "[[سی‌امین|si-yomin]]",
+      "thirtieth"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "آپارتمان در طبقه‌ی سوم است.",
+     "r": "āpārtemān dar tabaghe-ye sevvom ast.",
+     "en": "The flat is on the third floor."
+    },
+    {
+     "fa": "این اولین خانه‌ی من در تهران است.",
+     "r": "in avvalin khāne-ye man dar Tehrān ast.",
+     "en": "This is my first home in Tehran."
+    },
+    {
+     "fa": "اتاق دوم کوچک‌تر است.",
+     "r": "otāgh-e dovvom kuchak-tar ast.",
+     "en": "The second room is smaller."
+    },
+    {
+     "fa": "برای اولین بار به یزد رفتم.",
+     "r": "barā-ye avvalin bār be Yazd raftam.",
+     "en": "I went to Yazd for the first time."
+    },
+    {
+     "fa": "تولد من بیست و یکم آبان است.",
+     "r": "tavallod-e man bist o yekom-e Ābān ast.",
+     "en": "My birthday is on the twenty-first of Aban.",
+     "note": "dates use ordinals; Aban is the eighth month, October–November"
+    },
+    {
+     "fa": "خانه‌ی سارا در کوچه‌ی دوم، سمت راست است.",
+     "r": "khāne-ye Sārā dar kuche-ye dovvom, samt-e rāst ast.",
+     "en": "Sara's house is in the second lane, on the right."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Big numbers: هزار، میلیون، میلیارد",
+   "md": "House prices are where Persian numbers get big. You already know [[صد|sad|hundred]] and [[هزار|hezār|thousand]]; add [[میلیون|milyun|million]] and [[میلیارد|milyārd|billion, a thousand million]]. Say the biggest unit first and join the parts with [[و|o]], exactly as you did with smaller numbers: [[دو میلیون و پانصد هزار|do milyun o pānsad hezār|2,500,000]].\n\nAfter a number the noun stays singular – [[سیصد میلیون تومان|sisad milyun tomān|300 million tomans]] – and *millions of* is [[میلیون‌ها|milyun-hā]]: [[میلیون‌ها نفر|milyun-hā nafar|millions of people]].\n\nRemember that prices are *said* in tomans, although official prices are written in rials (one toman is ten rials), and that in speech people often leave out the unit altogether: [[ماهی دوازده میلیون|māh-i davāzdah milyun]] simply means twelve million tomans a month. In Persian texts, long numbers are grouped in threes with the separator ٬ – ۲٬۵۰۰٬۰۰۰ – and, like all Persian numbers, they are written from left to right.",
+   "table": {
+    "head": [
+     "Digits",
+     "Persian",
+     "English"
+    ],
+    "rows": [
+     [
+      "۱٬۰۰۰",
+      "[[هزار|hezār]]",
+      "a thousand"
+     ],
+     [
+      "۱۰٬۰۰۰",
+      "[[ده هزار|dah hezār]]",
+      "ten thousand"
+     ],
+     [
+      "۱۰۰٬۰۰۰",
+      "[[صد هزار|sad hezār]]",
+      "a hundred thousand"
+     ],
+     [
+      "۱٬۰۰۰٬۰۰۰",
+      "[[یک میلیون|yek milyun]]",
+      "a million"
+     ],
+     [
+      "۲٬۵۰۰٬۰۰۰",
+      "[[دو میلیون و پانصد هزار|do milyun o pānsad hezār]]",
+      "two and a half million"
+     ],
+     [
+      "۱۵٬۰۰۰٬۰۰۰",
+      "[[پانزده میلیون|pānzdah milyun]]",
+      "fifteen million"
+     ],
+     [
+      "۳۰۰٬۰۰۰٬۰۰۰",
+      "[[سیصد میلیون|sisad milyun]]",
+      "three hundred million"
+     ],
+     [
+      "۱٬۰۰۰٬۰۰۰٬۰۰۰",
+      "[[یک میلیارد|yek milyārd]]",
+      "a billion"
+     ],
+     [
+      "۲٬۴۰۰٬۰۰۰٬۰۰۰",
+      "[[دو میلیارد و چهارصد میلیون|do milyārd o chahārsad milyun]]",
+      "two billion four hundred million"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "رهن این آپارتمان ۳۰۰ میلیون تومان است.",
+     "r": "rahn-e in āpārtemān sisad milyun tomān ast.",
+     "en": "The deposit on this flat is 300 million tomans."
+    },
+    {
+     "fa": "اجاره‌اش ماهی ۱۲ میلیون است.",
+     "r": "ejāre-ash māh-i davāzdah milyun ast.",
+     "en": "The rent is 12 million a month."
+    },
+    {
+     "fa": "قیمت این خانه دو میلیارد و چهارصد میلیون تومان است.",
+     "r": "gheymat-e in khāne do milyārd o chahārsad milyun tomān ast.",
+     "en": "This house costs two billion four hundred million tomans."
+    },
+    {
+     "fa": "تهران بیش از هشت میلیون نفر جمعیت دارد.",
+     "r": "Tehrān bish az hasht milyun nafar jam'iyyat dārad.",
+     "en": "Tehran has a population of more than eight million."
+    },
+    {
+     "fa": "هر ماه یک میلیون و پانصد هزار تومان پس‌انداز می‌کنم.",
+     "r": "har māh yek milyun o pānsad hezār tomān pas-andāz mi-konam.",
+     "en": "Every month I save one and a half million tomans."
+    },
+    {
+     "fa": "میلیون‌ها نفر در شهرهای بزرگ زندگی می‌کنند.",
+     "r": "milyun-hā nafar dar shahr-hā-ye bozorg zendegi mi-konand.",
+     "en": "Millions of people live in the big cities."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Describing a flat: دوخوابه، ۸۰ متری، پنج‌طبقه",
+   "md": "Flat adverts pack a lot into a few words, using numbers to build adjectives.\n\n- number + noun + [[ـه|-e]]: [[دوخوابه|do-khābe|two-bedroom]] (literally *two-sleep*), [[پنج‌طبقه|panj-tabaghe|five-storey]], [[ده‌ساله|dah-sāle|ten years old]].\n- number + [[متری|metri]], with the adjective [[ـی|-i]]: [[آپارتمان ۸۰ متری|āpārtemān-e hashtād metri|an 80-square-metre flat]]. Flats are always measured in square metres, and [[متر|metr]] on its own means a square metre here.\n\nA few more words do the rest: [[نوساز|now-sāz|newly built]], [[نورگیر|nur-gir|bright]], [[مبله|moble|furnished]], and [[شمالی|shomāli|northern]] – which in a flat advert means that the building stands on the north side of its plot, so its windows face south, into the sun. Iranians pay more for that.",
+   "table": {
+    "head": [
+     "Persian",
+     "English",
+     "Literally"
+    ],
+    "rows": [
+     [
+      "[[یک‌خوابه|yek-khābe]]",
+      "one-bedroom",
+      "one-sleep"
+     ],
+     [
+      "[[دوخوابه|do-khābe]]",
+      "two-bedroom",
+      "two-sleep"
+     ],
+     [
+      "[[۸۰ متری|hashtād metri]]",
+      "80 square metres",
+      "80-metre"
+     ],
+     [
+      "[[پنج‌طبقه|panj-tabaghe]]",
+      "five-storey",
+      "five-floor"
+     ],
+     [
+      "[[ده‌ساله|dah-sāle]]",
+      "ten years old",
+      "ten-year"
+     ],
+     [
+      "[[نوساز|now-sāz]]",
+      "newly built",
+      "new-built"
+     ],
+     [
+      "[[نورگیر|nur-gir]]",
+      "bright, sunny",
+      "light-catching"
+     ],
+     [
+      "[[مبله|moble]]",
+      "furnished",
+      "from French meublé"
+     ],
+     [
+      "[[شمالی|shomāli]]",
+      "on the north of its plot, facing the sun",
+      "northern"
+     ],
+     [
+      "[[نزدیک مترو|nazdik-e metro]]",
+      "near the metro",
+      "near metro"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "یک آپارتمان دوخوابه‌ی ۸۰ متری می‌خواهیم.",
+     "r": "yek āpārtemān-e do-khābe-ye hashtād metri mi-khāhim.",
+     "en": "We want a two-bedroom flat of 80 square metres."
+    },
+    {
+     "fa": "ساختمان پنج‌طبقه است و آسانسور دارد.",
+     "r": "sākhtemān panj-tabaghe ast o āsānsor dārad.",
+     "en": "The building has five floors and a lift."
+    },
+    {
+     "fa": "خانه نوساز و خیلی نورگیر است.",
+     "r": "khāne now-sāz o kheyli nur-gir ast.",
+     "en": "The flat is new and very bright."
+    },
+    {
+     "fa": "این آپارتمان مبله است؟",
+     "r": "in āpārtemān moble ast?",
+     "en": "Is this flat furnished?",
+     "col": "این آپارتمان مبله‌ست؟",
+     "colR": "in āpārtemān moble-st?"
+    },
+    {
+     "fa": "ما در یک ساختمان ده‌ساله زندگی می‌کنیم.",
+     "r": "mā dar yek sākhtemān-e dah-sāle zendegi mi-konim.",
+     "en": "We live in a ten-year-old building."
+    },
+    {
+     "fa": "خانه‌ی ما کوچک است، اما نزدیک مترو است.",
+     "r": "khāne-ye mā kuchak ast, ammā nazdik-e metro ast.",
+     "en": "Our flat is small, but it's near the metro."
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Leila and Dariush's new flat",
+   "intro": "Leila writes to a friend about the flat she and Dariush have just moved into. Look for the ordinals and the big numbers.",
+   "sentences": [
+    {
+     "fa": "ما ماه پیش به یک آپارتمان جدید اسباب‌کشی کردیم.",
+     "r": "mā māh-e pish be yek āpārtemān-e jadid asbāb-keshi kardim.",
+     "en": "Last month we moved into a new flat."
+    },
+    {
+     "fa": "آپارتمان ما در طبقه‌ی چهارم یک ساختمان شش‌طبقه است.",
+     "r": "āpārtemān-e mā dar tabaghe-ye chahārom-e yek sākhtemān-e shesh-tabaghe ast.",
+     "en": "Our flat is on the fourth floor of a six-storey building."
+    },
+    {
+     "fa": "ساختمان نوساز است و آسانسور، پارکینگ و انباری دارد.",
+     "r": "sākhtemān now-sāz ast o āsānsor, pārking o anbāri dārad.",
+     "en": "The building is new, with a lift, parking and a storeroom."
+    },
+    {
+     "fa": "خانه نود متر است و دو اتاق خواب دارد.",
+     "r": "khāne navad metr ast o do otāgh-e khāb dārad.",
+     "en": "The flat is ninety square metres and has two bedrooms."
+    },
+    {
+     "fa": "اتاق اول مال ماست و اتاق دوم اتاق کار داریوش است.",
+     "r": "otāgh-e avval māl-e mā-st o otāgh-e dovvom otāgh-e kār-e Dāriush ast.",
+     "en": "The first room is ours, and the second is Dariush's study."
+    },
+    {
+     "fa": "آشپزخانه کوچک است، اما پذیرایی بزرگ و خیلی نورگیر است.",
+     "r": "āshpaz-khāne kuchak ast, ammā pazirāyi bozorg o kheyli nur-gir ast.",
+     "en": "The kitchen is small, but the living room is big and very bright."
+    },
+    {
+     "fa": "از بالکن، کوه‌های البرز را می‌بینیم.",
+     "r": "az bālkon, kuh-hā-ye Alborz rā mi-binim.",
+     "en": "From the balcony we can see the Alborz mountains."
+    },
+    {
+     "fa": "رهن خانه چهارصد میلیون تومان است و ماهی ده میلیون تومان اجاره می‌دهیم.",
+     "r": "rahn-e khāne chahārsad milyun tomān ast o māh-i dah milyun tomān ejāre mi-dahim.",
+     "en": "The deposit is four hundred million tomans, and we pay ten million tomans a month in rent."
+    },
+    {
+     "fa": "برای رهن، از بانک وام گرفتیم.",
+     "r": "barā-ye rahn, az bānk vām gereftim.",
+     "en": "We took out a bank loan for the deposit."
+    },
+    {
+     "fa": "همسایه‌های ما خیلی مهربان هستند.",
+     "r": "ham-sāye-hā-ye mā kheyli mehrabān hastand.",
+     "en": "Our neighbours are very kind."
+    },
+    {
+     "fa": "روز اول، خانم طبقه‌ی پنجم برای ما یک کاسه آش آورد.",
+     "r": "ruz-e avval, khānom-e tabaghe-ye panjom barā-ye mā yek kāse āsh āvard.",
+     "en": "On the first day, the lady from the fifth floor brought us a bowl of āsh."
+    },
+    {
+     "fa": "حالا این‌جا واقعاً خانه‌ی ماست.",
+     "r": "hālā in-jā vāghe'an khāne-ye mā-st.",
+     "en": "Now this place really is our home."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Which floor is Leila's flat on?",
+     "options": [
+      "the second",
+      "the fourth",
+      "the sixth"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What can they see from the balcony?",
+     "options": [
+      "the Azadi Tower",
+      "the Caspian Sea",
+      "the Alborz mountains"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "How did they pay the deposit?",
+     "options": [
+      "with a bank loan",
+      "in cash from their savings",
+      "the landlord didn't want one"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Rahn, moving day and the dish that never goes back empty",
+   "md": "Renting in Iran works differently from almost anywhere else. Instead of a small bond, the tenant hands the landlord a very large deposit, the [[رهن|rahn]] – in contracts called [[ودیعه|vadi'e]] – which comes back in full at the end of the lease. For the landlord it is money to invest; for the tenant it means a much smaller monthly rent. Leases usually run for a year, and the busiest moving season is summer, before the new school year starts in [[مهر|Mehr]] (late September). Most deals go through a neighbourhood [[بنگاه|bongāh|estate agency]], and both sides pay the agent a fee.\n\nModern Tehran is a city of flats, but the traditional Iranian house looked inward: rooms around a [[حیاط|hayāt|courtyard]] with trees and a pool, the [[حوض|howz]], behind plain walls that showed nothing to the street. The merchants' houses of Kashan, like the Tabatabaei House, are the grandest examples.\n\nOne custom moved from the old houses into the new buildings. When neighbours bring you food – a bowl of [[آش|āsh]] on moving day, [[نذری|nazri|votive food]] on a religious holiday – you never return the dish empty. Wash it, put something in it, even a few sweets, and give it back: [[ظرف خالی پس نمی‌دهند|zarf-e khāli pas nemi-dahand|people don't give back an empty dish]].",
+   "image": "tabatabaei-house"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "**The ordinal goes after the noun, the -in form before it**: **طبقه‌ی سوم** or **سومین طبقه** – never *سوم طبقه*. With بار, the -in form is usual: **اولین بار**, the first time.",
+    "**دوم** and **سوم** are said **dovvom** and **sevvom**, with a double v. **سی‌ام** (thirtieth) is said **si-yom**.",
+    "**The first floor** in Iran means one floor up, as in Britain. Street level is **همکف**, and the basement is **زیرزمین**.",
+    "Flat prices are in **millions of tomans**: say the millions first, then the thousands – **دو میلیون و پانصد هزار**. In speech the word تومان is often left out.",
+    "In speech **خانه** becomes **خونه** and **صاحب‌خانه** becomes **صاحب‌خونه**; **ماهی** (a month, per month) stays the same."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the words",
+   "items": [
+    {
+     "fa": "اجاره",
+     "r": "ejāre",
+     "en": "rent"
+    },
+    {
+     "fa": "رهن",
+     "r": "rahn",
+     "en": "deposit"
+    },
+    {
+     "fa": "صاحب‌خانه",
+     "r": "sāheb-khāne",
+     "en": "landlord"
+    },
+    {
+     "fa": "مستأجر",
+     "r": "mosta'jer",
+     "en": "tenant"
+    },
+    {
+     "fa": "طبقه",
+     "r": "tabaghe",
+     "en": "floor, storey"
+    },
+    {
+     "fa": "آسانسور",
+     "r": "āsānsor",
+     "en": "lift"
+    },
+    {
+     "fa": "پذیرایی",
+     "r": "pazirāyi",
+     "en": "living room"
+    },
+    {
+     "fa": "همسایه",
+     "r": "ham-sāye",
+     "en": "neighbour"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Choose the right answer",
+   "items": [
+    {
+     "q": "'The third floor'",
+     "options": [
+      "سه طبقه",
+      "طبقه‌ی سوم",
+      "طبقه‌ی سه"
+     ],
+     "answer": 1,
+     "explain": "The ordinal follows the noun with the ezafe; سه طبقه means 'three floors'."
+    },
+    {
+     "q": "'For the first time'",
+     "options": [
+      "برای اولین بار",
+      "برای یک بار",
+      "برای بار یک"
+     ],
+     "answer": 0,
+     "explain": "With bār, the -in form before the noun is usual: avvalin bār."
+    },
+    {
+     "q": "How do you say 2,500,000?",
+     "options": [
+      "دو هزار و پانصد میلیون",
+      "بیست و پنج میلیون",
+      "دو میلیون و پانصد هزار"
+     ],
+     "answer": 2,
+     "explain": "The biggest unit first, then و: do milyun o pānsad hezār."
+    },
+    {
+     "q": "What is رهن?",
+     "options": [
+      "the monthly rent",
+      "a large deposit that you get back at the end",
+      "the agent's fee"
+     ],
+     "answer": 1,
+     "explain": "The landlord keeps the rahn during the lease and returns it in full."
+    },
+    {
+     "q": "'A two-bedroom flat'",
+     "options": [
+      "یک آپارتمان دوخوابه",
+      "دو آپارتمان خواب",
+      "یک آپارتمان دوم"
+     ],
+     "answer": 0,
+     "explain": "do-khābe, literally 'two-sleep', describes a two-bedroom flat."
+    },
+    {
+     "q": "Which word means 'ground floor'?",
+     "options": [
+      "زیرزمین",
+      "همکف",
+      "طبقه‌ی اول"
+     ],
+     "answer": 1,
+     "explain": "zir-zamin is the basement, and tabaghe-ye avval is one floor up."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {
+     "fa": "آپارتمان در طبقه‌ی ___ است.",
+     "r": "āpārtemān dar tabaghe-ye ___ ast.",
+     "en": "The flat is on the third floor.",
+     "answer": "سوم",
+     "hint": "third"
+    },
+    {
+     "fa": "اجاره‌اش ___ دوازده میلیون است.",
+     "r": "ejāre-ash ___ davāzdah milyun ast.",
+     "en": "The rent is twelve million a month.",
+     "answer": "ماهی",
+     "hint": "per month"
+    },
+    {
+     "fa": "این ___ خانه‌ی من در تهران است.",
+     "r": "in ___ khāne-ye man dar Tehrān ast.",
+     "en": "This is my first home in Tehran.",
+     "answer": "اولین",
+     "hint": "first, before the noun"
+    },
+    {
+     "fa": "ساختمان پارکینگ و ___ دارد.",
+     "r": "sākhtemān pārking o ___ dārad.",
+     "en": "The building has parking and a lift.",
+     "answer": "آسانسور",
+     "hint": "lift"
+    },
+    {
+     "fa": "___ را آخر قرارداد پس می‌دهند.",
+     "r": "___ rā ākhar-e gharārdād pas mi-dahand.",
+     "en": "You get the deposit back at the end of the contract.",
+     "answer": "رهن",
+     "hint": "deposit"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "اتاق دوم بزرگ‌تر است و بالکن دارد.",
+     "r": "otāgh-e dovvom bozorg-tar ast o bālkon dārad.",
+     "en": "The second room is bigger and has a balcony."
+    },
+    {
+     "fa": "آپارتمان ما در طبقه‌ی چهارم است.",
+     "r": "āpārtemān-e mā dar tabaghe-ye chahārom ast.",
+     "en": "Our flat is on the fourth floor."
+    },
+    {
+     "fa": "رهن این آپارتمان سیصد میلیون تومان است.",
+     "r": "rahn-e in āpārtemān sisad milyun tomān ast.",
+     "en": "The deposit on this flat is three hundred million tomans."
+    },
+    {
+     "fa": "ماه پیش به یک آپارتمان جدید اسباب‌کشی کردیم.",
+     "r": "māh-e pish be yek āpārtemān-e jadid asbāb-keshi kardim.",
+     "en": "Last month we moved into a new flat."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "آپارتمان در طبقه‌ی دوم است.",
+     "r": "āpārtemān dar tabaghe-ye dovvom ast.",
+     "en": "The flat is on the second floor.",
+     "options": [
+      "The flat has two floors.",
+      "The flat is on the second floor.",
+      "The flat is on the twelfth floor."
+     ],
+     "answer": 1
+    },
+    {
+     "fa": "اجاره‌اش چقدر است؟",
+     "r": "ejāre-ash cheghadr ast?",
+     "en": "How much is the rent?",
+     "options": [
+      "How much is the rent?",
+      "Where is the flat?",
+      "How big is it?"
+     ],
+     "answer": 0
+    },
+    {
+     "fa": "پذیرایی خیلی نورگیر است.",
+     "r": "pazirāyi kheyli nur-gir ast.",
+     "en": "The living room is very bright.",
+     "options": [
+      "The kitchen is very dark.",
+      "The living room is very small.",
+      "The living room is very bright."
+     ],
+     "answer": 2
+    },
+    {
+     "fa": "ماهی ده میلیون تومان اجاره می‌دهیم.",
+     "r": "māh-i dah milyun tomān ejāre mi-dahim.",
+     "en": "We pay ten million tomans a month in rent.",
+     "options": [
+      "We pay ten million tomans a month in rent.",
+      "We pay one million tomans a year.",
+      "The flat costs ten million tomans."
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "The flat is on the third floor and has a lift.",
+     "fa": "آپارتمان در طبقه‌ی سوم است و آسانسور دارد.",
+     "r": "āpārtemān dar tabaghe-ye sevvom ast o āsānsor dārad."
+    },
+    {
+     "en": "How much is the rent?",
+     "fa": "اجاره‌اش چقدر است؟",
+     "r": "ejāre-ash cheghadr ast?"
+    },
+    {
+     "en": "We want a two-bedroom flat.",
+     "fa": "یک آپارتمان دوخوابه می‌خواهیم.",
+     "r": "yek āpārtemān-e do-khābe mi-khāhim."
+    },
+    {
+     "en": "The second room is bigger.",
+     "fa": "اتاق دوم بزرگ‌تر است.",
+     "r": "otāgh-e dovvom bozorg-tar ast."
+    },
+    {
+     "en": "This is the first time I've come to Isfahan.",
+     "fa": "این اولین بار است که به اصفهان می‌آیم.",
+     "r": "in avvalin bār ast ke be Esfahān mi-āyam."
+    }
+   ]
+  }
+ ]
+}

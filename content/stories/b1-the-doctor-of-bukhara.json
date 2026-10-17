@@ -1,0 +1,199 @@
+{
+ "id": "b1-the-doctor-of-bukhara",
+ "level": "B1",
+ "kind": "biography",
+ "title": "The doctor of Bukhara",
+ "titleFa": "پزشک بخارا",
+ "titleR": "pezeshk-e Bokhārā",
+ "image": "avicenna",
+ "intro": "Avicenna – Ibn Sina, or Bu Ali Sina as Iranians call him – was one of the great minds of the Middle Ages. Late in life he told a student the story of his youth in Bukhara: the greengrocer who taught him arithmetic, the book he read forty times, and the sick emir he cured at seventeen. Read it for the past continuous and the past perfect, reported speech, and the vocabulary of study and medicine.",
+ "source": "Based on Avicenna's own account of his youth, written down by his student al-Juzjani (11th century).",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "ابوعلی سینا در سال ۹۸۰ میلادی در روستای افشنه، نزدیک بخارا، به دنیا آمد.",
+     "r": "Abu-Ali Sinā dar sāl-e nohsad-o-hashtād-e milādi dar rustā-ye Afshane, nazdik-e Bokhārā, be donyā āmad.",
+     "en": "Abu Ali Sina was born in 980 AD in the village of Afshana, near Bukhara."
+    },
+    {
+     "fa": "پدرش در دستگاه امیران سامانی کار می‌کرد و به علم و دانش علاقه‌ی زیادی داشت.",
+     "r": "pedar-ash dar dastgāh-e amirān-e Sāmāni kār mi-kard o be elm o dānesh alāghe-ye ziyād-i dāsht.",
+     "en": "His father worked in the service of the Samanid emirs and had a great love of learning."
+    },
+    {
+     "fa": "علی کوچک در ده‌سالگی همه‌ی قرآن و بسیاری از شعرها و کتاب‌های ادبی را از بر کرده بود.",
+     "r": "Ali-ye kuchak dar dah-sālegi hame-ye Ghor'ān o besyār-i az she'r-hā o ketāb-hā-ye adabi rā az bar karde bud.",
+     "en": "By the age of ten young Ali had learned the whole Quran and a great deal of poetry and literature by heart."
+    },
+    {
+     "fa": "پدرش او را پیش یک سبزی‌فروش فرستاد که حساب هندی بلد بود، تا از او ریاضی یاد بگیرد.",
+     "r": "pedar-ash u rā pish-e yek sabzi-forush ferestād ke hesāb-e hendi balad bud, tā az u riyāzi yād be-girad.",
+     "en": "His father sent him to a greengrocer who knew Indian arithmetic, so that he could learn mathematics from him."
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "کمی بعد، استادی به نام ناتلی به بخارا آمد و به او منطق درس داد، اما شاگرد خیلی زود از استاد جلو افتاد.",
+     "r": "kam-i ba'd, ostād-i be nām-e Nāteli be Bokhārā āmad o be u mantegh dars dād, ammā shāgerd kheyli zud az ostād jelow oftād.",
+     "en": "A little later a teacher called Natili came to Bukhara and taught him logic, but the pupil very soon overtook his teacher."
+    },
+    {
+     "fa": "از آن به بعد، به تنهایی درس می‌خواند و یک سال و نیم هیچ شبی را کامل نخوابید.",
+     "r": "az ān be ba'd, be tanhā-yi dars mi-khānd o yek sāl o nim hich shab-i rā kāmel na-khābid.",
+     "en": "From then on he studied on his own, and for a year and a half he did not sleep through a single night."
+    },
+    {
+     "fa": "هر وقت مسئله‌ای را نمی‌فهمید، به مسجد می‌رفت و دعا می‌کرد تا راه حل به ذهنش برسد.",
+     "r": "har vaght mas'ale-i rā nemi-fahmid, be masjed mi-raft o do'ā mi-kard tā rāh-e hal be zehn-ash be-resad.",
+     "en": "Whenever he could not understand a problem, he would go to the mosque and pray until the answer came to him."
+    },
+    {
+     "fa": "در شانزده‌سالگی به پزشکی رو آورد و بعدها نوشت که پزشکی از علوم دشوار نیست.",
+     "r": "dar shānzdah-sālegi be pezeshki ru āvard o ba'd-hā nevesht ke pezeshki az olum-e doshvār nist.",
+     "en": "At sixteen he turned to medicine, and he later wrote that medicine is not one of the difficult sciences."
+    },
+    {
+     "fa": "به زودی پزشکان دیگر پیش او می‌آمدند تا از او یاد بگیرند، و او با درمان بیماران چیزهایی یاد می‌گرفت که در هیچ کتابی نبود.",
+     "r": "be zudi pezeshkān-e digar pish-e u mi-āmadand tā az u yād be-girand, o u bā darmān-e bimārān chiz-hā-yi yād mi-gereft ke dar hich ketāb-i na-bud.",
+     "en": "Soon other doctors were coming to learn from him, and by treating patients he learned things that were in no book."
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "اما یک کتاب بود که هیچ از آن سر درنمی‌آورد: متافیزیک ارسطو.",
+     "r": "ammā yek ketāb bud ke hich az ān sar dar-nemi-āvard: metāfizik-e Arastu.",
+     "en": "But there was one book he could make no sense of at all: Aristotle's Metaphysics."
+    },
+    {
+     "fa": "آن را چهل بار خوانده بود و تقریباً از بر کرده بود، ولی هنوز معنایش را نمی‌فهمید.",
+     "r": "ān rā chehel bār khānde bud o taghriban az bar karde bud, vali hanuz ma'nā-yash rā nemi-fahmid.",
+     "en": "He had read it forty times and almost knew it by heart, but he still could not grasp its meaning."
+    },
+    {
+     "fa": "روزی در بازار کتاب‌فروشان، دلالی کتاب کوچکی را به سه درهم به او فروخت که فارابی درباره‌ی همان کتاب نوشته بود.",
+     "r": "ruz-i dar bāzār-e ketāb-forushān, dallāl-i ketāb-e kuchak-i rā be se derham be u forukht ke Fārābi darbāre-ye hamān ketāb neveshte bud.",
+     "en": "One day in the booksellers' bazaar, a broker sold him, for three dirhams, a little book that al-Farabi had written about that very work."
+    },
+    {
+     "fa": "ابن سینا آن را خواند و ناگهان همه چیز برایش روشن شد؛ آن‌قدر خوشحال بود که فردای آن روز به فقیران صدقه داد.",
+     "r": "Ebn-e Sinā ān rā khānd o nāgahān hame chiz barā-yash rowshan shod; ān-ghadr khoshhāl bud ke fardā-ye ān ruz be faghirān sadaghe dād.",
+     "en": "Ibn Sina read it and suddenly everything became clear; he was so happy that the next day he gave alms to the poor."
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "وقتی ابن سینا هفده ساله بود، امیر سامانی بخارا سخت بیمار شد و پزشکان دربار نتوانستند او را درمان کنند.",
+     "r": "vaghti Ebn-e Sinā hefdah sāle bud, amir-e Sāmāni-ye Bokhārā sakht bimār shod o pezeshkān-e darbār na-tavānestand u rā darmān konand.",
+     "en": "When Ibn Sina was seventeen, the Samanid emir of Bukhara fell gravely ill, and the court doctors could not cure him."
+    },
+    {
+     "fa": "ابن سینای جوان به کاخ دعوت شد و امیر به کمک او بهبود یافت.",
+     "r": "Ebn-e Sinā-ye javān be kākh da'vat shod o amir be komak-e u behbud yāft.",
+     "en": "The young Ibn Sina was invited to the palace, and with his help the emir recovered."
+    },
+    {
+     "fa": "امیر به او گفت هر پاداشی بخواهد به او خواهد داد، اما او فقط اجازه خواست که از کتابخانه‌ی سلطنتی استفاده کند.",
+     "r": "amir be u goft har pādāsh-i be-khāhad be u khāhad dād, ammā u faghat ejāze khāst ke az ketāb-khāne-ye saltanati estefāde konad.",
+     "en": "The emir told him he would give him any reward he wanted, but all he asked for was permission to use the royal library."
+    },
+    {
+     "fa": "آن کتابخانه اتاق‌های بسیاری داشت و در هر اتاق، کتاب‌های یک علم نگهداری می‌شد.",
+     "r": "ān ketāb-khāne otāgh-hā-ye besyār-i dāsht o dar har otāgh, ketāb-hā-ye yek elm negahdāri mi-shod.",
+     "en": "The library had many rooms, and in each room the books of a single science were kept."
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "ابن سینا بعدها کتاب «قانون» را در پزشکی نوشت که قرن‌ها در دانشگاه‌های اروپا درس داده می‌شد.",
+     "r": "Ebn-e Sinā ba'd-hā ketāb-e «ghānun» rā dar pezeshki nevesht ke gharn-hā dar dāneshgāh-hā-ye Orupā dars dāde mi-shod.",
+     "en": "Later Ibn Sina wrote the Canon of Medicine, which was taught for centuries in the universities of Europe."
+    },
+    {
+     "fa": "او بیش از صد کتاب نوشت، بیشتر به عربی، اما «دانشنامه‌ی علایی» را به فارسی نوشت.",
+     "r": "u bish az sad ketāb nevesht, bish-tar be arabi, ammā «dāneshnāme-ye Alā'i» rā be fārsi nevesht.",
+     "en": "He wrote more than a hundred books, most of them in Arabic, but he wrote his Daneshnameh-ye Ala'i, a book of philosophy and science, in Persian."
+    },
+    {
+     "fa": "آرامگاه او در همدان است و ایرانیان روز تولدش را روز پزشک نامیده‌اند.",
+     "r": "ārāmgāh-e u dar Hamadān ast o irāniyān ruz-e tavallod-ash rā ruz-e pezeshk nāmide-and.",
+     "en": "His tomb is in Hamadan, and Iranians have made his birthday Doctors' Day."
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {"fa": "از بر کردن", "r": "az bar kardan", "en": "to learn by heart"},
+  {"fa": "سبزی‌فروش", "r": "sabzi-forush", "en": "greengrocer"},
+  {"fa": "حساب", "r": "hesāb", "en": "arithmetic; account"},
+  {"fa": "منطق", "r": "mantegh", "en": "logic"},
+  {"fa": "شاگرد", "r": "shāgerd", "en": "pupil, apprentice"},
+  {"fa": "جلو افتادن", "r": "jelow oftādan", "en": "to get ahead, to overtake"},
+  {"fa": "مسئله", "r": "mas'ale", "en": "problem, question"},
+  {"fa": "راه حل", "r": "rāh-e hal", "en": "solution"},
+  {"fa": "دشوار", "r": "doshvār", "en": "difficult"},
+  {"fa": "درمان کردن", "r": "darmān kardan", "en": "to treat, to cure"},
+  {"fa": "سر درآوردن", "r": "sar dar-āvardan", "en": "to make sense of, to understand"},
+  {"fa": "دلال", "r": "dallāl", "en": "broker, middleman"},
+  {"fa": "صدقه", "r": "sadaghe", "en": "alms, charity"},
+  {"fa": "دربار", "r": "darbār", "en": "royal court"},
+  {"fa": "پاداش", "r": "pādāsh", "en": "reward"},
+  {"fa": "کتابخانه", "r": "ketāb-khāne", "en": "library"}
+ ],
+ "questions": [
+  {
+   "q": "Who taught young Ibn Sina arithmetic?",
+   "options": [
+    "his father",
+    "a greengrocer who knew Indian arithmetic",
+    "one of the emir's doctors"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What did he do when he could not solve a problem?",
+   "options": [
+    "he asked Natili for help",
+    "he went to the mosque to pray",
+    "he gave up and went to sleep"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "How did he finally understand Aristotle's Metaphysics?",
+   "options": [
+    "he read it for the forty-first time",
+    "a little book by al-Farabi explained it",
+    "his teacher explained it to him"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What reward did he ask for after curing the emir?",
+   "options": [
+    "a bag of gold",
+    "a house in Bukhara",
+    "permission to use the royal library"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What is the name of his famous book on medicine?",
+   "options": [
+    "the Canon (قانون)",
+    "the Shahnameh",
+    "the Golestan"
+   ],
+   "answer": 0
+  }
+ ],
+ "after": "Iranians call him ابن سینا or بوعلی سینا, and also شیخ‌الرئیس, 'the chief master'; Europe knew him as Avicenna. His tomb in Hamadan, with a tower of twelve columns, was built in the 1950s, and 1 Shahrivar (23 August), his traditional birthday, is Doctors' Day in Iran. Grammar to notice: the past continuous for habits (می‌رفت و دعا می‌کرد, 'he would go and pray'), the past perfect for what had already happened (چهل بار خوانده بود), the past continuous passive درس داده می‌شد, 'was taught', and reported speech without a change of tense: نوشت که پزشکی از علوم دشوار نیست."
+}

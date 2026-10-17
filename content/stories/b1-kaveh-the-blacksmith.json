@@ -1,0 +1,323 @@
+{
+ "id": "b1-kaveh-the-blacksmith",
+ "level": "B1",
+ "kind": "legend",
+ "title": "Kaveh the blacksmith",
+ "titleFa": "کاوه‌ی آهنگر",
+ "titleR": "Kāve-ye āhangar",
+ "image": "damavand",
+ "intro": "A thousand years of tyranny, two snakes and a blacksmith who says no: the story of Kaveh is the Shahnameh's great tale of rebellion, and his leather apron became the banner of Iran. Read it for the passive with شدن, the past perfect, and reported speech at a king's court.",
+ "source": "Retold in prose from Ferdowsi's Shahnameh (10th–11th century, public domain).",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "در روزگاران کهن، ضحاک بر ایران فرمانروایی می‌کرد؛ شاهی ستمگر که دو مار سیاه بر شانه‌هایش روییده بود.",
+     "r": "dar ruzgārān-e kohan, Zahhāk bar Irān farmān-ravā-yi mi-kard; shāh-i setamgar ke do mār-e siyāh bar shāne-hā-yash ruyide bud.",
+     "en": "In ancient times Iran was ruled by Zahhak, a cruel king from whose shoulders two black snakes had grown.",
+     "faV": "دَر روزگارانِ کُهَن، ضَحّاک بَر ایران فَرمانرَوایی می‌کَرد؛ شاهی سِتَمگَر که دو مارِ سیاه بَر شانه‌هایَش روییده بود.",
+     "a": "458f54b0aa5a"
+    },
+    {
+     "fa": "می‌گویند اهریمن، به شکل آشپزی جوان، شانه‌های او را بوسیده بود و از جای بوسه‌ها دو مار بیرون آمده بود.",
+     "r": "mi-guyand Ahriman, be shekl-e āshpaz-i javān, shāne-hā-ye u rā buside bud o az jā-ye buse-hā do mār birun āmade bud.",
+     "en": "They say that Ahriman, the spirit of evil, disguised as a young cook, had kissed his shoulders, and where he had kissed them two snakes had come out.",
+     "faV": "می‌گویَند اَهریمَن، به شِکلِ آشپَزی جَوان، شانه‌هایِ او را بوسیده بود و اَز جایِ بوسه‌ها دو مار بیرون آمَده بود.",
+     "a": "9b06a4601008"
+    },
+    {
+     "fa": "پزشکان مارها را بریدند، اما مارها دوباره رشد کردند.",
+     "r": "pezeshkān mār-hā rā boridand, ammā mār-hā dobāre roshd kardand.",
+     "en": "Doctors cut the snakes off, but they grew back.",
+     "faV": "پِزِشکان مارها را بُریدَند، اَمّا مارها دوباره رُشد کَردَند.",
+     "a": "923136df905c"
+    },
+    {
+     "fa": "سرانجام اهریمن این بار در لباس پزشک آمد و گفت که مارها فقط با مغز جوانان آرام می‌شوند.",
+     "r": "saranjām Ahriman in bār dar lebās-e pezeshk āmad o goft ke mār-hā faghat bā maghz-e javānān ārām mi-shavand.",
+     "en": "In the end Ahriman came back, this time dressed as a doctor, and said that only the brains of young men would calm the snakes.",
+     "faV": "سَراَنجام اَهریمَن این بار دَر لِباسِ پِزِشک آمَد و گُفت که مارها فَقَط با مَغزِ جَوانان آرام می‌شَوَند.",
+     "a": "3d487572d336"
+    },
+    {
+     "fa": "از آن روز، هر روز دو جوان کشته می‌شدند تا خوراک مارها شوند.",
+     "r": "az ān ruz, har ruz do javān koshte mi-shodand tā khorāk-e mār-hā shavand.",
+     "en": "From that day on, two young men were killed every day to feed the snakes.",
+     "faV": "اَز آن روز، هَر روز دو جَوان کُشته می‌شُدَند تا خوراکِ مارها شَوَند.",
+     "a": "88b3a0f3d571"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "کاوه آهنگری ساده بود که در بازار کار می‌کرد و هجده پسر داشت.",
+     "r": "Kāve āhangar-i sāde bud ke dar bāzār kār mi-kard o hejdah pesar dāsht.",
+     "en": "Kaveh was a simple blacksmith who worked in the bazaar and had eighteen sons.",
+     "faV": "کاوه آهَنگَری ساده بود که دَر بازار کار می‌کَرد و هِجدَه پِسَر داشت.",
+     "a": "16ba2728d36e"
+    },
+    {
+     "fa": "هفده پسرش برای مارهای ضحاک کشته شده بودند و حالا مأموران شاه آخرین پسرش را هم برده بودند.",
+     "r": "hefdah pesar-ash barā-ye mār-hā-ye Zahhāk koshte shode budand o hālā ma'murān-e shāh ākharin pesar-ash rā ham borde budand.",
+     "en": "Seventeen of his sons had been killed for Zahhak's snakes, and now the king's men had taken his last son as well.",
+     "faV": "هِفدَه پِسَرَش بَرایِ مارهایِ ضَحّاک کُشته شُده بودَند و حالا مَأمورانِ شاه آخَرین پِسَرَش را هَم بُرده بودَند.",
+     "a": "ad6b01951542"
+    },
+    {
+     "fa": "در همان روز، ضحاک بزرگان کشور را جمع کرده بود تا نامه‌ای را امضا کنند که می‌گفت او شاهی دادگر است.",
+     "r": "dar hamān ruz, Zahhāk bozorgān-e keshvar rā jam' karde bud tā nāme-i rā emzā konand ke mi-goft u shāh-i dādgar ast.",
+     "en": "That same day Zahhak had gathered the nobles of the land to sign a letter declaring that he was a just king.",
+     "faV": "دَر هَمان روز، ضَحّاک بُزُرگانِ کِشوَر را جَمع کَرده بود تا نامه‌ای را اِمضا کُنَند که می‌گُفت او شاهی دادگَر اَست.",
+     "a": "af38eaf924fa"
+    },
+    {
+     "fa": "کاوه وارد کاخ شد و فریاد زد: «ای شاه، اگر تو دادگری، پسرم را به من برگردان!»",
+     "r": "Kāve vāred-e kākh shod o faryād zad: «ey shāh, agar to dādgar-i, pesar-am rā be man bar-gardān!»",
+     "en": "Kaveh strode into the palace and shouted: \"O king, if you are just, give me back my son!\"",
+     "faV": "کاوه وارِدِ کاخ شُد و فَریاد زَد: «اَی شاه، اَگَر تو دادگَری، پِسَرَم را به مَن بَرگَردان!»",
+     "a": "a8b41cde7b9a"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "ضحاک ترسید و دستور داد که پسر کاوه را آزاد کنند، اما از کاوه خواست که او هم آن نامه را امضا کند.",
+     "r": "Zahhāk tarsid o dastur dād ke pesar-e Kāve rā āzād konand, ammā az Kāve khāst ke u ham ān nāme rā emzā konad.",
+     "en": "Zahhak was afraid and ordered Kaveh's son to be freed, but he asked Kaveh to sign the letter too.",
+     "faV": "ضَحّاک تَرسید و دَستور داد که پِسَرِ کاوه را آزاد کُنَند، اَمّا اَز کاوه خواست که او هَم آن نامه را اِمضا کُنَد.",
+     "a": "ebb576870e97"
+    },
+    {
+     "fa": "کاوه نامه را خواند، آن را پاره کرد و زیر پا انداخت و با پسرش از کاخ بیرون رفت.",
+     "r": "Kāve nāme rā khānd, ān rā pāre kard o zir-e pā andākht o bā pesar-ash az kākh birun raft.",
+     "en": "Kaveh read the letter, tore it up, threw it under his feet and walked out of the palace with his son.",
+     "faV": "کاوه نامه را خواند، آن را پاره کَرد و زیرِ پا اَنداخت و با پِسَرَش اَز کاخ بیرون رَفت.",
+     "a": "9c74c7789e17"
+    },
+    {
+     "fa": "بزرگان از ضحاک پرسیدند که چرا به این آهنگر اجازه داد که چنین کند، و ضحاک گفت: «وقتی او فریاد زد، انگار کوهی از آهن میان ما بالا آمد.»",
+     "r": "bozorgān az Zahhāk porsidand ke cherā be in āhangar ejāze dād ke chenin konad, o Zahhāk goft: «vaghti u faryād zad, engār kuh-i az āhan miyān-e mā bālā āmad.»",
+     "en": "The nobles asked Zahhak why he had let this blacksmith do such a thing, and Zahhak said: \"When he shouted, it was as if a mountain of iron rose up between us.\"",
+     "faV": "بُزُرگان اَز ضَحّاک پُرسیدَند که چِرا به این آهَنگَر اِجازه داد که چِنین کُنَد، و ضَحّاک گُفت: «وَقتی او فَریاد زَد، اِنگار کوهی اَز آهَن میانِ ما بالا آمَد.»",
+     "a": "2af0383444e6"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "کاوه در بازار، پیش‌بند چرمی‌اش را که هنگام کار می‌بست، بر سر نیزه‌ای زد و مردم را به جنگ با ضحاک خواند.",
+     "r": "Kāve dar bāzār, pish-band-e charmi-ash rā ke hengām-e kār mi-bast, bar sar-e neyze-i zad o mardom rā be jang bā Zahhāk khānd.",
+     "en": "In the bazaar Kaveh fixed the leather apron he wore at work to the tip of a spear and called on the people to rise against Zahhak.",
+     "faV": "کاوه دَر بازار، پیش‌بَندِ چَرمی‌اَش را که هِنگامِ کار می‌بَست، بَر سَرِ نَیزه‌ای زَد و مَردُم را به جَنگ با ضَحّاک خواند.",
+     "a": "c16d47e28ddc"
+    },
+    {
+     "fa": "هزاران نفر به دنبال او راه افتادند و به سراغ فریدون رفتند، شاهزاده‌ی جوانی که مادرش او را سال‌ها از چشم ضحاک پنهان کرده بود.",
+     "r": "hezārān nafar be donbāl-e u rāh oftādand o be sorāgh-e Fereydun raftand, shāhzāde-ye javān-i ke mādar-ash u rā sāl-hā az cheshm-e Zahhāk penhān karde bud.",
+     "en": "Thousands followed him to Fereydun, a young prince whose mother had hidden him from Zahhak for years.",
+     "faV": "هِزاران نَفَر به دُنبالِ او راه اُفتادَند و به سُراغِ فِرَیدون رَفتَند، شاهزاده‌یِ جَوانی که مادَرَش او را سال‌ها اَز چِشمِ ضَحّاک پِنهان کَرده بود.",
+     "a": "8df3d4d423a9"
+    },
+    {
+     "fa": "فریدون پیش‌بند کاوه را با جواهر آراست و آن را درفش کاویانی نامید.",
+     "r": "Fereydun pish-band-e Kāve rā bā javāher ārāst o ān rā derafsh-e Kāviyāni nāmid.",
+     "en": "Fereydun decorated Kaveh's apron with jewels and named it the Kaviani banner.",
+     "faV": "فِرَیدون پیش‌بَندِ کاوه را با جَواهِر آراست و آن را دِرَفشِ کاویانی نامید.",
+     "a": "24ff89617e34"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "فریدون با گرزی که سرش مانند سر گاو بود، به جنگ ضحاک رفت و او را شکست داد.",
+     "r": "Fereydun bā gorz-i ke sar-ash mānand-e sar-e gāv bud, be jang-e Zahhāk raft o u rā shekast dād.",
+     "en": "Armed with a mace whose head was shaped like a cow's head, Fereydun went to war against Zahhak and defeated him.",
+     "faV": "فِرَیدون با گُرزی که سَرَش مانَندِ سَرِ گاو بود، به جَنگِ ضَحّاک رَفت و او را شِکَست داد.",
+     "a": "80886b9429b4"
+    },
+    {
+     "fa": "او ضحاک را نکشت، بلکه او را در غاری در کوه دماوند به زنجیر بست.",
+     "r": "u Zahhāk rā na-kosht, balke u rā dar ghār-i dar kuh-e Damāvand be zanjir bast.",
+     "en": "He did not kill Zahhak, but chained him up in a cave on Mount Damavand.",
+     "faV": "او ضَحّاک را نَکُشت، بَلکه او را دَر غاری دَر کوهِ دَماوَند به زَنجیر بَست.",
+     "a": "eb8d7ca2e31b"
+    },
+    {
+     "fa": "درفش کاویانی قرن‌ها پرچم شاهان ایران ماند، و می‌گویند ضحاک هنوز هم در دل دماوند در بند است.",
+     "r": "derafsh-e Kāviyāni gharn-hā parcham-e shāhān-e Irān mānd, o mi-guyand Zahhāk hanuz ham dar del-e Damāvand dar band ast.",
+     "en": "For centuries the Kaviani banner remained the flag of Iran's kings, and they say Zahhak is still bound in chains deep inside Damavand.",
+     "faV": "دِرَفشِ کاویانی قَرن‌ها پَرچَمِ شاهانِ ایران ماند، و می‌گویَند ضَحّاک هَنوز هَم دَر دِلِ دَماوَند دَر بَند اَست.",
+     "a": "2cee64d7684f"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "ستمگر",
+   "r": "setamgar",
+   "en": "cruel, tyrannical; a tyrant",
+   "faV": "سِتَمگَر",
+   "a": "690cd3ce8029"
+  },
+  {
+   "fa": "فرمانروایی کردن",
+   "r": "farmān-ravā-yi kardan",
+   "en": "to rule",
+   "faV": "فَرمانرَوایی کَردَن",
+   "a": "0ccef70be3a1"
+  },
+  {
+   "fa": "شانه",
+   "r": "shāne",
+   "en": "shoulder",
+   "faV": "شانه",
+   "a": "56ff86caf3cd"
+  },
+  {
+   "fa": "اهریمن",
+   "r": "Ahriman",
+   "en": "Ahriman, the spirit of evil",
+   "faV": "اَهریمَن",
+   "a": "ffdc82a0f7a8"
+  },
+  {
+   "fa": "مغز",
+   "r": "maghz",
+   "en": "brain",
+   "faV": "مَغز",
+   "a": "f7d98601c564"
+  },
+  {
+   "fa": "آهنگر",
+   "r": "āhangar",
+   "en": "blacksmith",
+   "faV": "آهَنگَر",
+   "a": "a917198a3c07"
+  },
+  {
+   "fa": "دادگر",
+   "r": "dādgar",
+   "en": "just, fair",
+   "faV": "دادگَر",
+   "a": "0f40662d40d5"
+  },
+  {
+   "fa": "امضا کردن",
+   "r": "emzā kardan",
+   "en": "to sign",
+   "faV": "اِمضا کَردَن",
+   "a": "15aad7b09dfb"
+  },
+  {
+   "fa": "پاره کردن",
+   "r": "pāre kardan",
+   "en": "to tear up",
+   "faV": "پاره کَردَن",
+   "a": "50d98f3ace3f"
+  },
+  {
+   "fa": "پیش‌بند",
+   "r": "pish-band",
+   "en": "apron",
+   "faV": "پیش‌بَند",
+   "a": "c01a8990a642"
+  },
+  {
+   "fa": "چرمی",
+   "r": "charmi",
+   "en": "(made of) leather",
+   "faV": "چَرمی",
+   "a": "554a729827a7"
+  },
+  {
+   "fa": "نیزه",
+   "r": "neyze",
+   "en": "spear",
+   "faV": "نَیزه",
+   "a": "ab0fa5b3cd29"
+  },
+  {
+   "fa": "درفش",
+   "r": "derafsh",
+   "en": "banner, standard",
+   "faV": "دِرَفش",
+   "a": "b9579c1dfc1c"
+  },
+  {
+   "fa": "گرز",
+   "r": "gorz",
+   "en": "mace",
+   "faV": "گُرز",
+   "a": "49c1180013ac"
+  },
+  {
+   "fa": "زنجیر",
+   "r": "zanjir",
+   "en": "chain",
+   "faV": "زَنجیر",
+   "a": "629748b87ba6"
+  },
+  {
+   "fa": "شکست دادن",
+   "r": "shekast dādan",
+   "en": "to defeat",
+   "faV": "شِکَست دادَن",
+   "a": "8c56370d007c"
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where did Zahhak's snakes come from?",
+   "options": [
+    "they were a gift from the king of India",
+    "they grew where Ahriman had kissed his shoulders",
+    "they came out of Mount Damavand"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "How many of his sons had Kaveh already lost?",
+   "options": [
+    "seventeen",
+    "two",
+    "eighteen"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Zahhak want from the nobles?",
+   "options": [
+    "money for a new army",
+    "their sons",
+    "a signed letter saying he was a just king"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What did Kaveh use as a banner?",
+   "options": [
+    "his blacksmith's leather apron",
+    "Zahhak's torn letter",
+    "a piece of the king's robe"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Fereydun do with Zahhak?",
+   "options": [
+    "killed him with his mace",
+    "sent him back to his own country",
+    "chained him in a cave on Mount Damavand"
+   ],
+   "answer": 2
+  }
+ ],
+ "after": "In the Shahnameh the درفش کاویانی (derafsh-e Kāviyāni) grows richer as every king adds jewels to it, until it is lost to the Arab armies at the battle of Qadisiyya in 636. Fereydun's victory is remembered at the autumn festival of Mehregan, and Kaveh's name has stood for revolt ever since – a famous Persian newspaper published in Berlin from 1916 to 1922 was simply called *Kaveh*. Grammar to notice: the past continuous passive کشته می‌شدند, 'were (being) killed'; the past perfect for what had happened before (روییده بود، کشته شده بودند); and causatives such as برگرداندن, 'to give back', from برگشتن, 'to come back'.",
+ "titleV": "کاوه‌یِ آهَنگَر",
+ "titleA": "0f6d1aa11f6f"
+}

@@ -1,0 +1,257 @@
+{
+ "id": "places-kashan",
+ "topic": "places",
+ "title": "Kashan",
+ "titleFa": "کاشان",
+ "titleR": "Kāshān",
+ "image": "kashan",
+ "summary": "An oasis town between the mountains and the desert, with the finest merchants' houses in Iran, the oldest surviving Persian garden and a spring festival of rosewater.",
+ "body": [
+  {
+   "h": "An oasis on the desert's edge",
+   "md": "[[کاشان|Kāshān|Kashan]] sits where the [[کرکس|Karkas|Karkas]] mountains meet the desert, about three hours' drive south of Tehran on the road to Isfahan. People have lived here for a very long time: on the edge of town, the mound of [[تپه‌ی سیلک|Tappe-ye Sialk|Tepe Sialk]] holds villages going back to the 6th millennium BC.\n\nIn the Middle Ages Kashan was famous for its glazed tiles, and the Persian word for tile, [[کاشی|kāshi|tile]], is widely believed to come from the city's name. Its carpets and rosewater are still famous – and in Persian sayings it is also the home of fierce scorpions."
+  },
+  {
+   "h": "The merchants' houses",
+   "md": "Kashan's great sights are the homes its merchants built in the 19th century. From the street you see only blank mud walls; inside, sunken courtyards with pools and gardens are framed by carved stucco, mirror-work and stained glass. The [[خانه‌ی طباطبایی‌ها|khāne-ye Tabātabāyi-hā|Tabatabaei House]] was built for a family of carpet merchants. The story goes that when a young Borujerdi merchant asked to marry a Tabatabaei daughter, her family insisted that she must live in a house as fine as her father's – and so the nearby [[خانه‌ی بروجردی‌ها|khāne-ye Borujerdi-hā|Borujerdi House]] was built, by the same architect.\n\nSuch houses were divided into the [[بیرونی|biruni|outer rooms]] for guests and the [[اندرونی|andaruni|inner rooms]] for the family.",
+   "image": "tabatabaei-house"
+  },
+  {
+   "h": "Fin Garden and the bathhouse",
+   "md": "Just outside town, the [[باغ فین|Bāgh-e Fin|Fin Garden]] is the oldest surviving garden in Iran, completed in 1590 and enlarged under the Qajars. Water from the [[چشمه‌ی سلیمانیه|cheshme-ye Soleymāniye|Soleymaniyeh spring]] runs through turquoise-tiled channels and fountains under old cypresses. The garden also has a dark page in its history: in 1852 the reforming chief minister [[امیرکبیر|Amir-kabir|Amir Kabir]] was murdered in its bathhouse on the orders of Naser al-Din Shah.\n\nBack in town, climb onto the domed roof of the [[حمام سلطان امیر احمد|hammām-e Soltān Amir Ahmad|Sultan Amir Ahmad bathhouse]] for a view over the city, and visit the [[مسجد آقابزرگ|Masjed-e Āghā-bozorg|Agha Bozorg Mosque]], with its sunken courtyard and brick dome.",
+   "image": "fin-garden"
+  },
+  {
+   "h": "Rosewater and the desert",
+   "md": "In May, when the [[گل محمدی|gol-e Mohammadi|Damask rose]] is in flower, the villages of [[قمصر|Ghamsar|Qamsar]] and [[نیاسر|Niyāsar|Niasar]] in the hills above Kashan hold their [[گلاب‌گیری|golāb-giri|rosewater making]]. Petals are picked at dawn and distilled in copper pots, and visitors come from all over Iran to watch, buy rosewater and eat rose-scented sweets.\n\nTo the north-east lies the [[کویر مرنجاب|Kavir-e Maranjāb|Maranjab desert]], with sand dunes, a salt lake and a Safavid caravanserai. Seventy kilometres south-east, high in the mountains, is [[ابیانه|Abyāne|Abyaneh]], a village of red-earth houses whose older women still wear long, flower-patterned headscarves.",
+   "image": "abyaneh"
+  },
+  {
+   "h": "Words to know, and when to go",
+   "md": "Kashan is an easy trip from Tehran or Isfahan by bus or train, and many travellers stop for a night on the way between the two. Its old houses teach you the vocabulary of Persian architecture: the [[هشتی|hashti|octagonal entrance hall]] behind the front door, the [[حیاط|hayāt|courtyard]], the [[حوض|howz|pool]] at its centre and the [[بادگیر|bādgir|windcatcher]] above.\n\nSpring is the best season, especially the rose weeks of May; autumn is pleasant too, but summer is hot and dry.",
+   "image": "borujerdi-house"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "کاشان در کنار کویر است.",
+   "r": "Kāshān dar kenār-e kavir ast.",
+   "en": "Kashan is on the edge of the desert.",
+   "faV": "کاشان دَر کِنارِ کَویر اَست.",
+   "a": "e91a5f324e12"
+  },
+  {
+   "fa": "این خانه برای یک تاجر فرش ساخته شده است.",
+   "r": "in khāne barā-ye yek tājer-e farsh sākhte shode ast.",
+   "en": "This house was built for a carpet merchant.",
+   "faV": "این خانه بَرایِ یِک تاجِرِ فَرش ساخته شُده اَست.",
+   "a": "9c7157b87722"
+  },
+  {
+   "fa": "اتاق‌های اندرونی مخصوص خانواده بود.",
+   "r": "otāgh-hā-ye andaruni makhsus-e khānevāde bud.",
+   "en": "The inner rooms were for the family.",
+   "faV": "اُتاق‌هایِ اَندَرونی مَخصوصِ خانِواده بود.",
+   "a": "5cf7553512c0"
+  },
+  {
+   "fa": "امیرکبیر در حمام باغ فین کشته شد.",
+   "r": "Amir-kabir dar hammām-e Bāgh-e Fin koshte shod.",
+   "en": "Amir Kabir was killed in the bathhouse of the Fin Garden.",
+   "faV": "اَمیرکَبیر دَر حَمّامِ باغِ فین کُشته شُد.",
+   "a": "8ffe78cd3b9b"
+  },
+  {
+   "fa": "آب باغ فین از یک چشمه می‌آید.",
+   "r": "āb-e Bāgh-e Fin az yek cheshme mi-āyad.",
+   "en": "The water of the Fin Garden comes from a spring.",
+   "faV": "آبِ باغِ فین اَز یِک چِشمه می‌آیَد.",
+   "a": "3011235fb02a"
+  },
+  {
+   "fa": "پشت‌بام حمام باز است؟",
+   "r": "posht-bām-e hammām bāz ast?",
+   "en": "Is the roof of the bathhouse open?",
+   "faV": "پُشت‌بامِ حَمّام باز اَست؟",
+   "a": "635b76600d20"
+  },
+  {
+   "fa": "فصل گلاب‌گیری در اردیبهشت است.",
+   "r": "fasl-e golāb-giri dar Ordibehesht ast.",
+   "en": "The rosewater season is in Ordibehesht (late April to May).",
+   "faV": "فَصلِ گُلاب‌گیری دَر اُردیبِهِشت اَست.",
+   "a": "9f98a967f1e5"
+  },
+  {
+   "fa": "گل‌ها را صبح زود می‌چینند.",
+   "r": "gol-hā rā sobh-e zud mi-chinand.",
+   "en": "They pick the flowers early in the morning.",
+   "faV": "گُل‌ها را صُبحِ زود می‌چینَند.",
+   "a": "0aec29d120e4"
+  },
+  {
+   "fa": "یک شیشه گلاب قمصر، لطفاً.",
+   "r": "yek shishe golāb-e Ghamsar, lotfan.",
+   "en": "A bottle of Qamsar rosewater, please.",
+   "faV": "یِک شیشه گُلابِ قَمصَر، لُطفاً.",
+   "a": "2c9bb95decd0"
+  },
+  {
+   "fa": "ابیانه یک روستای قدیمی با خانه‌های قرمز است.",
+   "r": "Abyāne yek rustā-ye ghadimi bā khāne-hā-ye ghermez ast.",
+   "en": "Abyaneh is an old village with red houses.",
+   "faV": "اَبیانه یِک روستایِ قَدیمی با خانه‌هایِ قِرمِز اَست.",
+   "a": "9e79196f5a14"
+  },
+  {
+   "fa": "شب در کویر مرنجاب خیلی سرد می‌شود.",
+   "r": "shab dar Kavir-e Maranjāb kheyli sard mi-shavad.",
+   "en": "At night it gets very cold in the Maranjab desert.",
+   "col": "شب تو کویر مرنجاب خیلی سرد می‌شه.",
+   "colR": "shab tu Kavir-e Maranjāb kheyli sard mi-she.",
+   "faV": "شَب دَر کَویرِ مَرَنجاب خَیلی سَرد می‌شَوَد.",
+   "a": "fa56dc278124",
+   "colV": "شَب تو کَویرِ مَرَنجاب خَیلی سَرد می‌شه.",
+   "colA": "b45ebcb7c24d"
+  },
+  {
+   "fa": "می‌گویند کلمه‌ی «کاشی» از نام کاشان آمده است.",
+   "r": "mi-guyand kalame-ye «kāshi» az nām-e Kāshān āmade ast.",
+   "en": "They say the word 'kāshi' (tile) comes from the name of Kashan.",
+   "faV": "می‌گویَند کَلَمه‌یِ «کاشی» اَز نامِ کاشان آمَده اَست.",
+   "a": "3257fd6f4ba3"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "حیاط",
+   "r": "hayāt",
+   "en": "courtyard",
+   "faV": "حَیاط",
+   "a": "423af25d0b64"
+  },
+  {
+   "fa": "حوض",
+   "r": "howz",
+   "en": "pool (in a courtyard)",
+   "faV": "حَوض",
+   "a": "f345c8ffe7de"
+  },
+  {
+   "fa": "هشتی",
+   "r": "hashti",
+   "en": "octagonal entrance hall",
+   "faV": "هَشتی",
+   "a": "0d15d334c75b"
+  },
+  {
+   "fa": "اندرونی",
+   "r": "andaruni",
+   "en": "inner (family) quarters of a house",
+   "faV": "اَندَرونی",
+   "a": "64f5d68c8368"
+  },
+  {
+   "fa": "بیرونی",
+   "r": "biruni",
+   "en": "outer (guest) quarters of a house",
+   "faV": "بیرونی",
+   "a": "35db9f652cbd"
+  },
+  {
+   "fa": "تاجر",
+   "r": "tājer",
+   "en": "merchant",
+   "faV": "تاجِر",
+   "a": "69bd79840d71"
+  },
+  {
+   "fa": "حمام",
+   "r": "hammām",
+   "en": "bathhouse; bathroom",
+   "faV": "حَمّام",
+   "a": "86166ba76dcd"
+  },
+  {
+   "fa": "پشت‌بام",
+   "r": "posht-bām",
+   "en": "roof, rooftop",
+   "faV": "پُشت‌بام",
+   "a": "e4c875b0ee69"
+  },
+  {
+   "fa": "گلاب",
+   "r": "golāb",
+   "en": "rosewater",
+   "faV": "گُلاب",
+   "a": "c652abb92180"
+  },
+  {
+   "fa": "گل محمدی",
+   "r": "gol-e Mohammadi",
+   "en": "Damask rose",
+   "faV": "گُلِ مُحَمَّدی",
+   "a": "aa704d30283b"
+  },
+  {
+   "fa": "گلاب‌گیری",
+   "r": "golāb-giri",
+   "en": "rosewater making (distilling)",
+   "faV": "گُلاب‌گیری",
+   "a": "aac33b5b7f1b"
+  },
+  {
+   "fa": "چشمه",
+   "r": "cheshme",
+   "en": "spring (of water)",
+   "faV": "چِشمه",
+   "a": "321deaf7d83e"
+  },
+  {
+   "fa": "روستا",
+   "r": "rustā",
+   "en": "village",
+   "faV": "روستا",
+   "a": "e657e417499b"
+  },
+  {
+   "fa": "کاشی",
+   "r": "kāshi",
+   "en": "tile",
+   "faV": "کاشی",
+   "a": "087178ee6f1a"
+  },
+  {
+   "fa": "عقرب",
+   "r": "aghrab",
+   "en": "scorpion",
+   "faV": "عَقرَب",
+   "a": "37bd858ee605"
+  },
+  {
+   "fa": "تپه",
+   "r": "tappe",
+   "en": "hill, mound",
+   "faV": "تَپّه",
+   "a": "cbccd186e7f3"
+  },
+  {
+   "fa": "شیشه",
+   "r": "shishe",
+   "en": "glass; bottle",
+   "faV": "شیشه",
+   "a": "dac1e85317c1"
+  }
+ ],
+ "facts": [
+  "The Fin Garden, completed in 1590, is the oldest surviving garden in Iran and part of UNESCO's 'Persian Garden' listing (2011).",
+  "Amir Kabir, Naser al-Din Shah's reforming chief minister, was murdered in the bathhouse of the Fin Garden in January 1852.",
+  "The oldest layers of Tepe Sialk go back to the 6th millennium BC.",
+  "The Persian word kāshi, 'tile', is widely believed to come from the name of Kashan.",
+  "Shah Abbas I, the greatest of the Safavid kings, is buried in Kashan.",
+  "The rosewater festivals of Qamsar and Niasar are held in May, when the Damask roses bloom.",
+  "Both the Tabatabaei and the Borujerdi houses are attributed to the architect Ustad Ali Maryam."
+ ],
+ "titleV": "کاشان",
+ "titleA": "7aba5e2ddd66"
+}

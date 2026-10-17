@@ -321,10 +321,10 @@ Setting off on a journey has its own rituals. The family holds a Qur'an up for t
 
 **Put the words in order**
 
-1. ده / به / خواهند / مشهد / رسید. / مسافران / ساعت — The passengers will arrive in Mashhad at ten.
-2. تا / ده / صبحانه / از / هفت / است. / ساعت — Breakfast is from seven to ten.
-3. این‌جا / می‌شود / را / بگذاریم؟ / چمدان‌ها — Can we leave the suitcases here?
-4. می‌رویم. / صبح / فردا / به / اصفهان — We're going to Isfahan tomorrow morning.
+1. ده / خواهند / به / رسید. / ساعت / مشهد / مسافران — The passengers will arrive in Mashhad at ten.
+2. ده / هفت / است. / ساعت / تا / صبحانه / از — Breakfast is from seven to ten.
+3. را / بگذاریم؟ / این‌جا / می‌شود / چمدان‌ها — Can we leave the suitcases here?
+4. صبح / می‌رویم. / اصفهان / به / فردا — We're going to Isfahan tomorrow morning.
 
 <details><summary>Answers</summary>
 
@@ -375,4 +375,4 @@ Setting off on a journey has its own rituals. The family holds a Qur'an up for t
 
 ---
 
-← [In my opinion: agreeing, disagreeing and giving reasons](a2-10-in-my-opinion.md) · [Contents](../README.md) · [Passive and impersonal: 'it was built', 'they say'](b1-01-passive-and-impersonal.md) →
+← [In my opinion: agreeing, disagreeing and giving reasons](a2-10-in-my-opinion.md) · [Contents](../README.md) · [At the doctor's: symptoms, advice and the pharmacy](a2-12-at-the-doctor.md) →

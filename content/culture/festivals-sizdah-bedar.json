@@ -1,0 +1,268 @@
+{
+ "id": "festivals-sizdah-bedar",
+ "topic": "festivals",
+ "title": "Sizdah Bedar, the day out of doors",
+ "titleFa": "سیزده‌به‌در",
+ "titleR": "sizdah-be-dar",
+ "image": "sizdah-bedar",
+ "summary": "On the thirteenth day of the new year the whole country goes on a picnic. Iranians leave the bad luck of the number thirteen outside, throw the New Year sabze into running water and tie knots in it for wishes.",
+ "body": [
+  {
+   "h": "The thirteenth day",
+   "md": "The Nowruz holidays end on the thirteenth day of the year, 13 [[فروردین|Farvardin]] – usually 1 or 2 April – and on that day almost no one stays at home. [[سیزده‌به‌در|sizdah-be-dar|Sizdah Bedar]] means roughly 'thirteen out of doors'. Families pack the car with rugs, pots and a samovar and head for parks, orchards, riversides and mountain valleys. In the official calendar the day is called [[روز طبیعت|ruz-e tabi'at|Nature Day]], and it is a public holiday."
+  },
+  {
+   "h": "Why go out?",
+   "md": "Nobody knows exactly how the custom began. The usual explanation is that thirteen was an unlucky number, [[نحس|nahs|ill-omened]], so families spent the day outside and left the bad luck there. Others see in it an old spring festival for rain and green fields. Either way, the mood is anything but gloomy: it is the last party of the holidays before work and school begin again."
+  },
+  {
+   "h": "A day in the park",
+   "md": "Wise families leave early: by mid-morning every patch of shade is taken and the roads out of town are jammed. A [[زیرانداز|zir-andāz|picnic rug]] is spread under a tree, the tea goes on, and the day settles into a rhythm of eating, chatting, napping and games – volleyball, football, cards, a rope swing hung from a branch, and [[طناب‌کشی|tanāb-keshi|tug-of-war]] between the cousins. By the afternoon someone has brought out a drum or a speaker, and there is music and dancing between the rugs.",
+   "image": "el-goli"
+  },
+  {
+   "h": "Picnic food",
+   "md": "Lunch is big. The classic is [[آش رشته|āsh-e reshte|herb and noodle soup]], cooked at home and carried in a huge pot, then kababs grilled on the spot, or [[کوکو|kuku|herb omelette]] with bread. Crisp [[کاهو|kāhu|lettuce]] leaves are dipped in [[سکنجبین|sekanjabin|vinegar-and-mint syrup]], and there is fruit, ajil and endless tea.",
+   "image": "ash-reshteh"
+  },
+  {
+   "h": "Knotting the sabze",
+   "md": "Before going home, the family does the most important thing of the day. The [[سبزه|sabze|sprouted greens]] that stood on the haft-sin for two weeks are thrown into [[آب روان|āb-e ravān|running water]], taking the illness and bad luck of the year with them. First, young unmarried women tie a [[گره|gereh|knot]] in the blades and make a wish, reciting a rhyme: by next Sizdah Bedar, may I be in my husband's house with a baby in my arms! The day also has its own pranks, [[دروغ سیزده|dorugh-e sizdah|the lie of the thirteenth]], rather like April Fool's Day.",
+   "image": "sabzeh"
+  },
+  {
+   "h": "If you are there",
+   "md": "Join in – Iranians love to share a picnic with strangers, and you will probably be offered tea and food. Bring your own rug, expect heavy traffic, and take your rubbish home: every year campaigns ask picnickers to leave the parks clean. The greeting of the day is simply [[سیزده‌به‌در مبارک|sizdah-be-dar mobārak|happy Sizdah Bedar]]."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "سیزده‌به‌در مبارک!",
+   "r": "sizdah-be-dar mobārak!",
+   "en": "Happy Sizdah Bedar!",
+   "faV": "سیزدَه‌به‌دَر مُبارَک!",
+   "a": "702a24d99dfc"
+  },
+  {
+   "fa": "امروز همه از خانه بیرون می‌روند.",
+   "r": "emruz hame az khāne birun mi-ravand.",
+   "en": "Today everyone goes out of the house.",
+   "faV": "اِمروز هَمه اَز خانه بیرون می‌رَوَند.",
+   "a": "9a9a931210a2"
+  },
+  {
+   "fa": "روز سیزده را نباید در خانه ماند.",
+   "r": "ruz-e sizdah rā na-bāyad dar khāne mānd.",
+   "en": "You mustn't stay at home on the thirteenth.",
+   "faV": "روزِ سیزدَه را نَبایَد دَر خانه ماند.",
+   "a": "4e79de767af9"
+  },
+  {
+   "fa": "صبح زود برویم تا جای خوبی پیدا کنیم.",
+   "r": "sobh-e zud be-ravim tā jā-ye khub-i peydā konim.",
+   "en": "Let's go early in the morning so we can find a good spot.",
+   "faV": "صُبحِ زود بِرَویم تا جایِ خوبی پَیدا کُنیم.",
+   "a": "7b69424fa49a"
+  },
+  {
+   "fa": "زیرانداز را زیر سایه‌ی درخت پهن کن.",
+   "r": "zir-andāz rā zir-e sāye-ye derakht pahn kon.",
+   "en": "Spread the rug out in the shade of the tree.",
+   "faV": "زیراَنداز را زیرِ سایه‌یِ دِرَخت پَهن کُن.",
+   "a": "e534a6bbd9fc"
+  },
+  {
+   "fa": "مادرم یک دیگ بزرگ آش رشته پخته است.",
+   "r": "mādar-am yek dig-e bozorg āsh-e reshte pokhte ast.",
+   "en": "My mother has cooked a huge pot of ash reshteh.",
+   "faV": "مادَرَم یِک دیگِ بُزُرگ آشِ رِشته پُخته اَست.",
+   "a": "0ca4336c91ba"
+  },
+  {
+   "fa": "بیایید طناب‌کشی بازی کنیم!",
+   "r": "biyāyid tanāb-keshi bāzi konim!",
+   "en": "Let's play tug-of-war!",
+   "faV": "بیایید طَناب‌کِشی بازی کُنیم!",
+   "a": "1ec778c22fd0"
+  },
+  {
+   "fa": "سبزه را به آب روان می‌اندازیم.",
+   "r": "sabze rā be āb-e ravān mi-andāzim.",
+   "en": "We throw the sabze into running water.",
+   "faV": "سَبزه را به آبِ رَوان می‌اَندازیم.",
+   "a": "9bdbc31b4634"
+  },
+  {
+   "fa": "دخترها سبزه گره می‌زنند و آرزو می‌کنند.",
+   "r": "dokhtar-hā sabze gereh mi-zanand va ārezu mi-konand.",
+   "en": "The girls tie knots in the sabze and make a wish.",
+   "faV": "دُختَرها سَبزه گِرِه می‌زَنَند و آرِزو می‌کُنَند.",
+   "a": "c4a32334147e"
+  },
+  {
+   "fa": "سیزده‌به‌در، سال دیگر، خانه‌ی شوهر، بچه بغل!",
+   "r": "sizdah-be-dar, sāl-e digar, khāne-ye showhar, bacche baghal!",
+   "en": "Next Sizdah Bedar – in my husband's house, with a baby in my arms!",
+   "lit": "Sizdah Bedar, next year, husband's house, baby in arms",
+   "note": "The rhyme young women say as they knot the sabze.",
+   "col": "سیزده‌به‌در، سال دیگه، خونه‌ی شوهر، بچه بغل!",
+   "colR": "sizdah-be-dar, sāl-e dige, khune-ye showhar, bacche baghal!",
+   "faV": "سیزدَه‌به‌دَر، سالِ دیگَر، خانه‌یِ شَوهَر، بَچّه بَغَل!",
+   "a": "7f5392ecdb74",
+   "colV": "سیزدَه‌به‌دَر، سالِ دیگه، خونه‌یِ شَوهَر، بَچّه بَغَل!",
+   "colA": "8f122dba469e"
+  },
+  {
+   "fa": "مواظب باش، امروز روز دروغ سیزده است!",
+   "r": "movāzeb bāsh, emruz ruz-e dorugh-e sizdah ast!",
+   "en": "Careful – today is the day of Sizdah pranks!",
+   "faV": "مُواظِب باش، اِمروز روزِ دُروغِ سیزدَه اَست!",
+   "a": "1e56bcd39f63"
+  },
+  {
+   "fa": "لطفاً زباله‌هایتان را با خودتان ببرید.",
+   "r": "lotfan zobāle-hā-yetān rā bā khod-etān be-barid.",
+   "en": "Please take your rubbish home with you.",
+   "faV": "لُطفاً زُباله‌هایِتان را با خودِتان بِبَرید.",
+   "a": "1d33826efe5b"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "سیزده",
+   "r": "sizdah",
+   "en": "thirteen",
+   "faV": "سیزدَه",
+   "a": "7dfd7a9c4370"
+  },
+  {
+   "fa": "سیزده‌به‌در",
+   "r": "sizdah-be-dar",
+   "en": "Sizdah Bedar, the picnic of the thirteenth",
+   "faV": "سیزدَه‌به‌دَر",
+   "a": "07da31cdc6a0"
+  },
+  {
+   "fa": "طبیعت",
+   "r": "tabi'at",
+   "en": "nature",
+   "faV": "طَبیعَت",
+   "a": "50cac7466d89"
+  },
+  {
+   "fa": "روز طبیعت",
+   "r": "ruz-e tabi'at",
+   "en": "Nature Day",
+   "faV": "روزِ طَبیعَت",
+   "a": "f3f531921ee7"
+  },
+  {
+   "fa": "نحس",
+   "r": "nahs",
+   "en": "unlucky, ill-omened",
+   "faV": "نَحس",
+   "a": "2eacf25b8172"
+  },
+  {
+   "fa": "زیرانداز",
+   "r": "zir-andāz",
+   "en": "picnic rug, ground sheet",
+   "faV": "زیراَنداز",
+   "a": "15d14ca5da94"
+  },
+  {
+   "fa": "سایه",
+   "r": "sāye",
+   "en": "shade, shadow",
+   "faV": "سایه",
+   "a": "d3cb4226f73d"
+  },
+  {
+   "fa": "پهن کردن",
+   "r": "pahn kardan",
+   "en": "to spread out",
+   "faV": "پَهن کَردَن",
+   "a": "ccdb57849ed6"
+  },
+  {
+   "fa": "دیگ",
+   "r": "dig",
+   "en": "large cooking pot",
+   "faV": "دیگ",
+   "a": "087fb9b95e75"
+  },
+  {
+   "fa": "طناب‌کشی",
+   "r": "tanāb-keshi",
+   "en": "tug-of-war",
+   "faV": "طَناب‌کِشی",
+   "a": "a118e1af3249"
+  },
+  {
+   "fa": "آب روان",
+   "r": "āb-e ravān",
+   "en": "running water",
+   "faV": "آبِ رَوان",
+   "a": "b0c6692364e5"
+  },
+  {
+   "fa": "گره",
+   "r": "gereh",
+   "en": "knot",
+   "faV": "گِرِه",
+   "a": "f3c85ee2f011"
+  },
+  {
+   "fa": "گره زدن",
+   "r": "gereh zadan",
+   "en": "to tie a knot",
+   "faV": "گِرِه زَدَن",
+   "a": "79c097cfca6b"
+  },
+  {
+   "fa": "آرزو",
+   "r": "ārezu",
+   "en": "wish",
+   "faV": "آرِزو",
+   "a": "d81e40b4b47f"
+  },
+  {
+   "fa": "آرزو کردن",
+   "r": "ārezu kardan",
+   "en": "to make a wish",
+   "faV": "آرِزو کَردَن",
+   "a": "2f5efabbd33a"
+  },
+  {
+   "fa": "دروغ",
+   "r": "dorugh",
+   "en": "lie",
+   "faV": "دُروغ",
+   "a": "712a0926cdb1"
+  },
+  {
+   "fa": "شلوغ",
+   "r": "sholugh",
+   "en": "crowded, busy",
+   "faV": "شُلوغ",
+   "a": "1d0afff107f1"
+  },
+  {
+   "fa": "زباله",
+   "r": "zobāle",
+   "en": "rubbish",
+   "faV": "زُباله",
+   "a": "74484b631e1b"
+  }
+ ],
+ "facts": [
+  "Sizdah Bedar falls on 13 Farvardin, usually 1 or 2 April, and ends the Nowruz holidays.",
+  "In the official Iranian calendar the day is called Ruz-e Tabi'at, 'Nature Day', and it is a public holiday.",
+  "Sizdah means 'thirteen'; be dar means 'out of doors'.",
+  "The sabze grown for the haft-sin is thrown into running water to carry away the year's bad luck.",
+  "Young unmarried women knot blades of sabze and wish to be married by the next Sizdah Bedar.",
+  "Dorugh-e sizdah, 'the lie of the thirteenth', is a day for pranks, close in spirit and in date to April Fool's Day."
+ ],
+ "titleV": "سیزدَه‌به‌دَر",
+ "titleA": "07da31cdc6a0"
+}

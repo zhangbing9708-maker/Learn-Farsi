@@ -1,0 +1,279 @@
+{
+ "id": "arts-calligraphy",
+ "topic": "arts",
+ "title": "Persian calligraphy",
+ "titleFa": "خوشنویسی ایرانی",
+ "titleR": "khoshnevisi-ye irāni",
+ "image": "persian-calligraphy",
+ "summary": "In Iran, beautiful writing is the most honoured art of all. From angular Kufic and clear Naskh to Nastaliq, 'the bride of scripts', and racing Shekasteh – plus the reed pen, the ink and the black practice page.",
+ "body": [
+  {
+   "h": "Beautiful writing",
+   "md": "In Iran the most honoured of the arts is not painting but writing. Calligraphy – [[خوشنویسی|khoshnevisi|literally 'beautiful writing']] – covers the walls of mosques and shrines, the title pages of books, wedding invitations, shop signs and gravestones, and calligraphy classes are popular all over the country. Persian is written in the Arabic alphabet with four extra letters, [[پ|p]], [[چ|ch]], [[ژ|zh]] and [[گ|g]], and over a thousand years Iranian calligraphers developed it into several distinct scripts. A [[خوشنویس|khoshnevis|calligrapher]] learns them one by one, each with its own rules and mood."
+  },
+  {
+   "h": "Kufic: the angular script",
+   "md": "The oldest is [[کوفی|kufi|Kufic]], named after the city of Kufa in Iraq. It is angular and stately, with long straight strokes, and in the first Islamic centuries it was used to copy the Quran. Iranian artists loved it as decoration: potters in 10th-century Nishapur and Samarkand painted Kufic sayings around the rims of their bowls, and builders laid bricks and tiles in square Kufic, a geometric script that turns holy names into a maze on the walls of mosques.",
+   "image": "persian-pottery"
+  },
+  {
+   "h": "Naskh: the script of books",
+   "md": "For everyday copying, scribes wanted something rounder and quicker. [[نسخ|naskh|Naskh]] is clear, balanced and easy to read; it became the usual script for the Quran and for books of science and religion, and modern Persian and Arabic print is based on it. In the 10th century the Abbasid vizier Ibn Muqla gave the scripts fixed proportions: every letter is measured in [[نقطه|noghte|dots]] – the small diamond the pen leaves when it is pressed on the paper.",
+   "image": "persian-alphabet"
+  },
+  {
+   "h": "Nastaliq, the bride of scripts",
+   "md": "The Persian script above all others is [[نستعلیق|nasta'ligh|Nastaliq]], a blend of Naskh and an older Persian hand called Ta'liq, 'hanging'. Tradition credits Mir Ali Tabrizi with creating it around 1400. Its words slope down from right to left and rest on long, swelling horizontal strokes, so that a line of Nastaliq seems to float. It was made for poetry rather than for the Quran, and Iranians call it [[عروس خط‌های اسلامی|'arus-e khatt-hā-ye eslāmi|the bride of Islamic scripts]].\n\nIts greatest master was [[میرعماد|Mir-'emād|Mir Emad]] (1554–1615) of Qazvin, who worked in Isfahan under Shah Abbas. His letters became the model that calligraphers still copy today. He was murdered in Isfahan in 1615, and rumour has always blamed jealousy at court.",
+   "image": "nastaliq"
+  },
+  {
+   "h": "Shekasteh, the broken script",
+   "md": "In the 17th century secretaries needed to write fast, and Nastaliq began to 'break'. [[شکسته|shekaste|Shekasteh, 'broken']] joins letters that are normally kept apart and races across the page in loops and long tails. It was the script of letters, decrees and accounts, and in the 18th century Darvish Abdol-Majid Taleqani made it a fine art. It is beautiful – and famously hard to read, even for Iranians.",
+   "image": "shekasteh-nastaliq"
+  },
+  {
+   "h": "The reed pen and the black page",
+   "md": "A calligrapher writes with a [[قلم|ghalam|pen]] cut from a [[نی|ney|reed]]. The nib is shaped with a sharp knife and its tip cut at a slant – a skill that takes years to learn, because the cut decides the shape of every stroke. The ink, [[مرکب|morakkab|ink]], is traditionally made from soot and gum and kept in an inkwell stuffed with silk threads, so that the pen picks up just enough.\n\nStudents copy a model written by their teacher, a [[سرمشق|sar-mashgh|model]], again and again – Iranians use the same word for a person who sets a good example. Sheets of practice, where words are written over one another until the page is almost black, are called [[سیاه‌مشق|siyāh-mashgh|'black practice']]. In the 19th century masters such as Mirza Gholamreza Esfahani turned these crowded pages into works of art in their own right."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "خوشنویسی در ایران هنری بسیار محترم است.",
+   "r": "khoshnevisi dar Irān honar-i besyār mohtaram ast.",
+   "en": "Calligraphy is a highly respected art in Iran.",
+   "faV": "خوشنِویسی دَر ایران هُنَری بِسیار مُحتَرَم اَست.",
+   "a": "d9b5c5deefae"
+  },
+  {
+   "fa": "خط کوفی زاویه‌دار و قدیمی است.",
+   "r": "khatt-e kufi zāviye-dār va ghadimi ast.",
+   "en": "Kufic script is old and angular.",
+   "faV": "خَطِّ کوفی زاویه‌دار و قَدیمی اَست.",
+   "a": "9d0c38ab906f"
+  },
+  {
+   "fa": "قرآن را بیشتر با خط نسخ می‌نوشتند.",
+   "r": "Ghor'ān rā bishtar bā khatt-e naskh mi-neveshtand.",
+   "en": "The Quran was mostly copied in Naskh.",
+   "lit": "they mostly wrote the Quran in Naskh script",
+   "faV": "قُرآن را بیشتَر با خَطِّ نَسخ می‌نِوِشتَند.",
+   "a": "f34f3325d43a"
+  },
+  {
+   "fa": "هر حرف را با نقطه اندازه می‌گیرند.",
+   "r": "har harf rā bā noghte andāze mi-girand.",
+   "en": "Every letter is measured in dots.",
+   "faV": "هَر حَرف را با نُقطه اَندازه می‌گیرَند.",
+   "a": "0b658fdee7fd"
+  },
+  {
+   "fa": "نستعلیق را عروس خط‌های اسلامی می‌نامند.",
+   "r": "nasta'ligh rā 'arus-e khatt-hā-ye eslāmi mi-nāmand.",
+   "en": "Nastaliq is called the bride of Islamic scripts.",
+   "faV": "نَستَعلیق را عَروسِ خَطّ‌هایِ اِسلامی می‌نامَند.",
+   "a": "34f624e4ebf7"
+  },
+  {
+   "fa": "میرعماد بزرگ‌ترین استاد نستعلیق بود.",
+   "r": "Mir-'emād bozorg-tarin ostād-e nasta'ligh bud.",
+   "en": "Mir Emad was the greatest master of Nastaliq.",
+   "faV": "میرعِماد بُزُرگ‌تَرین اُستادِ نَستَعلیق بود.",
+   "a": "feacf73751b9"
+  },
+  {
+   "fa": "خط شکسته تند و زیبا است، اما خواندنش سخت است.",
+   "r": "khatt-e shekaste tond va zibā ast, ammā khāndan-ash sakht ast.",
+   "en": "Shekasteh is fast and beautiful, but it is hard to read.",
+   "faV": "خَطِّ شِکَسته تُند و زیبا اَست، اَمّا خواندَنَش سَخت اَست.",
+   "a": "672c8ec89471"
+  },
+  {
+   "fa": "خوشنویس با قلم نی می‌نویسد.",
+   "r": "khoshnevis bā ghalam-e ney mi-nevisad.",
+   "en": "A calligrapher writes with a reed pen.",
+   "faV": "خوشنِویس با قَلَمِ نَی می‌نِویسَد.",
+   "a": "59eada539867"
+  },
+  {
+   "fa": "تراشیدن قلم سال‌ها تمرین لازم دارد.",
+   "r": "tarāshidan-e ghalam sāl-hā tamrin lāzem dārad.",
+   "en": "Cutting a pen takes years of practice.",
+   "faV": "تَراشیدَنِ قَلَم سال‌ها تَمرین لازِم دارَد.",
+   "a": "9b1460ae02a4"
+  },
+  {
+   "fa": "شاگرد از روی سرمشق استاد می‌نویسد.",
+   "r": "shāgerd az ru-ye sar-mashgh-e ostād mi-nevisad.",
+   "en": "The student copies the teacher's model.",
+   "faV": "شاگِرد اَز رویِ سَرمَشقِ اُستاد می‌نِویسَد.",
+   "a": "1e63103c0b1e"
+  },
+  {
+   "fa": "سیاه‌مشق صفحه‌ای پر از تمرین است.",
+   "r": "siyāh-mashgh safhe-i por az tamrin ast.",
+   "en": "A siyah-mashq is a page full of practice.",
+   "faV": "سیاه‌مَشق صَفحه‌ای پُر اَز تَمرین اَست.",
+   "a": "dcefbd277c20"
+  },
+  {
+   "fa": "بچه‌ها هر شب مشق می‌نویسند.",
+   "r": "bacche-hā har shab mashgh mi-nevisand.",
+   "en": "Children do their homework every night.",
+   "lit": "children write practice every night",
+   "faV": "بَچّه‌ها هَر شَب مَشق می‌نِویسَند.",
+   "a": "8be1b7b913ea"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "خوشنویسی",
+   "r": "khoshnevisi",
+   "en": "calligraphy",
+   "faV": "خوشنِویسی",
+   "a": "b0543a8f68aa"
+  },
+  {
+   "fa": "خوشنویس",
+   "r": "khoshnevis",
+   "en": "calligrapher",
+   "faV": "خوشنِویس",
+   "a": "e2317b34f9bc"
+  },
+  {
+   "fa": "خط",
+   "r": "khatt",
+   "en": "script, handwriting; line",
+   "faV": "خَطّ",
+   "a": "005ba86f27ca"
+  },
+  {
+   "fa": "کوفی",
+   "r": "kufi",
+   "en": "Kufic (script)",
+   "faV": "کوفی",
+   "a": "d156142c5891"
+  },
+  {
+   "fa": "نسخ",
+   "r": "naskh",
+   "en": "Naskh (script)",
+   "faV": "نَسخ",
+   "a": "86696a84de81"
+  },
+  {
+   "fa": "نستعلیق",
+   "r": "nasta'ligh",
+   "en": "Nastaliq (script)",
+   "faV": "نَستَعلیق",
+   "a": "73389c188620"
+  },
+  {
+   "fa": "شکسته",
+   "r": "shekaste",
+   "en": "broken; Shekasteh (script)",
+   "faV": "شِکَسته",
+   "a": "e75d5aacb846"
+  },
+  {
+   "fa": "قلم",
+   "r": "ghalam",
+   "en": "pen",
+   "faV": "قَلَم",
+   "a": "d339e2317bde"
+  },
+  {
+   "fa": "نی",
+   "r": "ney",
+   "en": "reed",
+   "faV": "نَی",
+   "a": "c2eef05e87a9"
+  },
+  {
+   "fa": "مرکب",
+   "r": "morakkab",
+   "en": "ink (for calligraphy)",
+   "faV": "مُرَکَّب",
+   "a": "b90ab240fbcc"
+  },
+  {
+   "fa": "دوات",
+   "r": "davāt",
+   "en": "inkwell",
+   "faV": "دَوات",
+   "a": "29ab725e4ff8"
+  },
+  {
+   "fa": "کاغذ",
+   "r": "kāghaz",
+   "en": "paper",
+   "faV": "کاغَذ",
+   "a": "2c54a2aea4f9"
+  },
+  {
+   "fa": "نقطه",
+   "r": "noghte",
+   "en": "dot, point",
+   "faV": "نُقطه",
+   "a": "110f3eb36e0b"
+  },
+  {
+   "fa": "تمرین",
+   "r": "tamrin",
+   "en": "practice, exercise",
+   "faV": "تَمرین",
+   "a": "3c9f8c396d3d"
+  },
+  {
+   "fa": "مشق",
+   "r": "mashgh",
+   "en": "writing practice; homework",
+   "faV": "مَشق",
+   "a": "4ac2dcde36c4"
+  },
+  {
+   "fa": "سرمشق",
+   "r": "sar-mashgh",
+   "en": "model to copy; good example",
+   "faV": "سَرمَشق",
+   "a": "c52abe437d3d"
+  },
+  {
+   "fa": "سیاه‌مشق",
+   "r": "siyāh-mashgh",
+   "en": "practice sheet ('black practice')",
+   "faV": "سیاه‌مَشق",
+   "a": "f5cceba807b2"
+  },
+  {
+   "fa": "استاد",
+   "r": "ostād",
+   "en": "master; professor",
+   "faV": "اُستاد",
+   "a": "bc167126bdbf"
+  },
+  {
+   "fa": "شاگرد",
+   "r": "shāgerd",
+   "en": "pupil, apprentice",
+   "faV": "شاگِرد",
+   "a": "e1f2a4c4077d"
+  },
+  {
+   "fa": "نوشتن",
+   "r": "neveshtan",
+   "en": "to write",
+   "faV": "نِوِشتَن",
+   "a": "1f97437d5c3f"
+  }
+ ],
+ "facts": [
+  "The name Nastaliq is itself a blend of the two scripts it joined: naskh + ta'liq.",
+  "Ibn Muqla, a 10th-century vizier in Baghdad, measured every letter against the height of the [[الف|alef]], which is itself a fixed number of dots.",
+  "In Shekasteh, letters that Persian normally never joins to the next one, such as [[د|d]] and [[ر|r]], can be connected – one reason it is so hard to read.",
+  "Traditional paper was coated with starch and polished with a smooth stone, [[آهار مهره|āhār-mohre]], so that the reed pen could glide over it.",
+  "The everyday Persian word for school homework, [[مشق|mashgh]], is the calligrapher's word for writing practice.",
+  "Mir Emad is buried in Isfahan, the city where he worked and died."
+ ],
+ "titleV": "خوشنِویسیِ ایرانی",
+ "titleA": "9fdc391f3d1a"
+}

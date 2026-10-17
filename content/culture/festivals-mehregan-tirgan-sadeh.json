@@ -1,0 +1,260 @@
+{
+ "id": "festivals-mehregan-tirgan-sadeh",
+ "topic": "festivals",
+ "title": "Mehregan, Tirgan and Sadeh",
+ "titleFa": "مهرگان، تیرگان و سده",
+ "titleR": "mehregān, tirgān va sade",
+ "image": "mehregan",
+ "summary": "Three ancient seasonal festivals have survived from Iran's old Zoroastrian calendar: Mehregan, the autumn feast of friendship; Tirgan, the summer feast of water and Arash's arrow; and Sadeh, a great bonfire in the depth of winter.",
+ "body": [
+  {
+   "h": "Feasts of the old calendar",
+   "md": "Long before Islam, Iranians kept a calendar of twelve months of thirty days, and every day of the month had a name, usually that of a Zoroastrian divine being. Whenever a day's name matched its month's name, there was a [[جشن|jashn|feast]]. Most of these feasts are forgotten, but three have survived: [[مهرگان|mehregān|Mehregan]] in autumn, [[تیرگان|tirgān|Tirgan]] in summer and [[سده|sade|Sadeh]] in midwinter. The Zoroastrians of Yazd, Kerman and Tehran have kept them alive, and in recent decades many other Iranians have rediscovered them as part of [[ایران باستان|Irān-e bāstān|ancient Iran]]. The modern months still carry the old names: Mehr, Tir, Bahman.",
+   "image": "iranian-calendar"
+  },
+  {
+   "h": "Mehregan: the feast of Mehr",
+   "md": "Mehregan falls on the day [[مهر|Mehr]] of the month Mehr – 16 Mehr in today's calendar, in early October, at harvest time (some Zoroastrians keep it on 10 Mehr). Mehr, the ancient Mithra, is the guardian of promises and friendship, and in modern Persian [[مهر|mehr|kindness, love]] still has that warmth. Tradition, recorded by al-Biruni around AD 1000, says that on this day the blacksmith [[کاوه|Kāve|Kaveh]] rose against the tyrant Zahhak and the hero Fereydun took the throne. Today families lay a table with autumn fruits – pomegranates, apples, grapes, persimmons – with a mirror, sweets, flowers and burning incense, and wish each other [[مهرگان خجسته باد|mehregān khojaste bād|a blessed Mehregan]]."
+  },
+  {
+   "h": "Tirgan: water and an archer's arrow",
+   "md": "[[تیرگان|tirgān|Tirgan]] falls on 13 [[تیر|Tir]], in early July, at the height of summer. It honours [[تیشتر|Tishtar|Tishtrya]], the star Sirius and bringer of rain, so people splash one another with water and tie bands of coloured thread on their wrists, letting them go to the wind or a stream a few days later. The festival also remembers [[آرش کمانگیر|Ārash-e kamāngir|Arash the Archer]]. When Iran and Turan agreed to fix their border by the flight of a single arrow, Arash climbed Mount Damavand and put all his strength into the shot – it flew from dawn to noon, and Arash, the story says, gave his life with it.",
+   "image": "tirgan"
+  },
+  {
+   "h": "Sadeh: fire in midwinter",
+   "md": "[[سده|sade|Sadeh]], on 10 [[بهمن|Bahman]] – about 30 January – is a fire festival in the coldest part of the year. Its name means 'hundred': by one count, fifty days and fifty nights remain until Nowruz, and it also closes the forty coldest days that began on Yalda night. In the Shahnameh, King [[هوشنگ|Hushang]] throws a stone at a serpent, misses, and strikes sparks from the rock – so fire is discovered and the first Sadeh is held. At sunset Zoroastrian priests, [[موبد|mobed|mobeds]], in white robes pray and light a towering bonfire of brushwood while the crowd watches the flames rise into the winter sky. Kerman's celebration is the best known.",
+   "image": "sadeh"
+  },
+  {
+   "h": "Visiting the festivals",
+   "md": "All three festivals are small and local compared with Nowruz, and dates can differ by a few days between communities, so ask at a [[آتشکده|ātashkade|fire temple]] or check the local news. Visitors are welcome at the public celebrations. Remember that fire is sacred to Zoroastrians: never throw rubbish into it, and don't blow on it.",
+   "image": "yazd-fire-temple"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "مهرگان خجسته باد!",
+   "r": "mehregān khojaste bād!",
+   "en": "A blessed Mehregan to you!",
+   "faV": "مِهرِگان خُجَسته باد!",
+   "a": "b7631de51452"
+  },
+  {
+   "fa": "مهرگان جشن مهر و دوستی است.",
+   "r": "mehregān jashn-e mehr va dusti ast.",
+   "en": "Mehregan is the festival of kindness and friendship.",
+   "faV": "مِهرِگان جَشنِ مِهر و دوستی اَست.",
+   "a": "59ee6a2e67a7"
+  },
+  {
+   "fa": "در مهرگان سفره‌ای با میوه‌های پاییزی می‌چینند.",
+   "r": "dar mehregān sofre-i bā mive-hā-ye pāyizi mi-chinand.",
+   "en": "At Mehregan people lay a table with autumn fruits.",
+   "faV": "دَر مِهرِگان سُفره‌ای با میوه‌هایِ پاییزی می‌چینَند.",
+   "a": "cfc63d034524"
+  },
+  {
+   "fa": "تیرگان جشن آب و باران است.",
+   "r": "tirgān jashn-e āb va bārān ast.",
+   "en": "Tirgan is the festival of water and rain.",
+   "faV": "تیرگان جَشنِ آب و باران اَست.",
+   "a": "1aa6b0a348bb"
+  },
+  {
+   "fa": "در تیرگان مردم روی هم آب می‌پاشند.",
+   "r": "dar tirgān mardom ru-ye ham āb mi-pāshand.",
+   "en": "At Tirgan people splash water on each other.",
+   "faV": "دَر تیرگان مَردُم رویِ هَم آب می‌پاشَند.",
+   "a": "cd208841e0a6"
+  },
+  {
+   "fa": "آرش کمانگیر از بالای دماوند تیر انداخت.",
+   "r": "Ārash-e kamāngir az bālā-ye Damāvand tir andākht.",
+   "en": "Arash the Archer shot his arrow from the top of Damavand.",
+   "faV": "آرَشِ کَمانگیر اَز بالایِ دَماوَند تیر اَنداخت.",
+   "a": "70ab794dac48"
+  },
+  {
+   "fa": "تیر او از صبح تا ظهر پرواز کرد.",
+   "r": "tir-e u az sobh tā zohr parvāz kard.",
+   "en": "His arrow flew from dawn until noon.",
+   "faV": "تیرِ او اَز صُبح تا ظُهر پَرواز کَرد.",
+   "a": "fb1ed3067561"
+  },
+  {
+   "fa": "تا نوروز پنجاه روز و پنجاه شب مانده است.",
+   "r": "tā nowruz panjāh ruz va panjāh shab mānde ast.",
+   "en": "There are fifty days and fifty nights left until Nowruz.",
+   "faV": "تا نَوروز پَنجاه روز و پَنجاه شَب مانده اَست.",
+   "a": "192858604398"
+  },
+  {
+   "fa": "موبدان آتش بزرگ سده را روشن می‌کنند.",
+   "r": "mobedān ātash-e bozorg-e sade rā roshan mi-konand.",
+   "en": "The priests light the great bonfire of Sadeh.",
+   "faV": "موبِدان آتَشِ بُزُرگِ سَده را روشَن می‌کُنَند.",
+   "a": "9a37c0e96084"
+  },
+  {
+   "fa": "به روایت شاهنامه، هوشنگ آتش را کشف کرد.",
+   "r": "be revāyat-e Shāhnāme, Hushang ātash rā kashf kard.",
+   "en": "According to the Shahnameh, Hushang discovered fire.",
+   "faV": "به رِوایَتِ شاهنامه، هوشَنگ آتَش را کَشف کَرد.",
+   "a": "e58c69847795"
+  },
+  {
+   "fa": "زرتشتیان یزد و کرمان هنوز این جشن‌ها را برگزار می‌کنند.",
+   "r": "zartoshtiyān-e Yazd va Kermān hanuz in jashn-hā rā bargozār mi-konand.",
+   "en": "The Zoroastrians of Yazd and Kerman still hold these festivals.",
+   "faV": "زَرتُشتیانِ یَزد و کِرمان هَنوز این جَشن‌ها را بَرگُزار می‌کُنَند.",
+   "a": "d4bd9b45f16f"
+  },
+  {
+   "fa": "در آتشکده نباید به آتش فوت کرد.",
+   "r": "dar ātashkade na-bāyad be ātash fut kard.",
+   "en": "In a fire temple you must not blow on the fire.",
+   "faV": "دَر آتَشکَده نَبایَد به آتَش فوت کَرد.",
+   "a": "d919fcb93d68"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "جشن",
+   "r": "jashn",
+   "en": "festival, celebration",
+   "faV": "جَشن",
+   "a": "21709bf796d7"
+  },
+  {
+   "fa": "مهر",
+   "r": "mehr",
+   "en": "kindness, love; the month Mehr",
+   "faV": "مِهر",
+   "a": "60dfd030db0f"
+  },
+  {
+   "fa": "دوستی",
+   "r": "dusti",
+   "en": "friendship",
+   "faV": "دوستی",
+   "a": "5df687a0479c"
+  },
+  {
+   "fa": "پاییز",
+   "r": "pāyiz",
+   "en": "autumn",
+   "faV": "پاییز",
+   "a": "063997d7db61"
+  },
+  {
+   "fa": "تابستان",
+   "r": "tābestān",
+   "en": "summer",
+   "faV": "تابِستان",
+   "a": "03ba5de2e0a0"
+  },
+  {
+   "fa": "باران",
+   "r": "bārān",
+   "en": "rain",
+   "faV": "باران",
+   "a": "6c007847eb03"
+  },
+  {
+   "fa": "تیر",
+   "r": "tir",
+   "en": "arrow; the month Tir",
+   "faV": "تیر",
+   "a": "1037b6fadab4"
+  },
+  {
+   "fa": "کمان",
+   "r": "kamān",
+   "en": "bow",
+   "faV": "کَمان",
+   "a": "6d395e3b1b02"
+  },
+  {
+   "fa": "کمانگیر",
+   "r": "kamāngir",
+   "en": "archer",
+   "faV": "کَمانگیر",
+   "a": "1c9d0a5365a7"
+  },
+  {
+   "fa": "مرز",
+   "r": "marz",
+   "en": "border, frontier",
+   "faV": "مَرز",
+   "a": "090a3941de0d"
+  },
+  {
+   "fa": "سده",
+   "r": "sade",
+   "en": "Sadeh, the midwinter fire feast; also 'century'",
+   "faV": "سَده",
+   "a": "7add2b424f4f"
+  },
+  {
+   "fa": "آتش",
+   "r": "ātash",
+   "en": "fire",
+   "faV": "آتَش",
+   "a": "c6215dd436c9"
+  },
+  {
+   "fa": "آتشکده",
+   "r": "ātashkade",
+   "en": "fire temple",
+   "faV": "آتَشکَده",
+   "a": "a20773b93565"
+  },
+  {
+   "fa": "زرتشتی",
+   "r": "zartoshti",
+   "en": "Zoroastrian",
+   "faV": "زَرتُشتی",
+   "a": "785cc8a72155"
+  },
+  {
+   "fa": "موبد",
+   "r": "mobed",
+   "en": "Zoroastrian priest",
+   "faV": "موبِد",
+   "a": "fe05575c9a31"
+  },
+  {
+   "fa": "باستانی",
+   "r": "bāstāni",
+   "en": "ancient",
+   "faV": "باستانی",
+   "a": "6fae0e3e789f"
+  },
+  {
+   "fa": "خجسته",
+   "r": "khojaste",
+   "en": "blessed, auspicious",
+   "faV": "خُجَسته",
+   "a": "9812a4033e72"
+  },
+  {
+   "fa": "تقویم",
+   "r": "taghvim",
+   "en": "calendar",
+   "faV": "تَقویم",
+   "a": "0de309051d23"
+  }
+ ],
+ "facts": [
+  "In the old Zoroastrian calendar each of the thirty days of the month had its own name; a feast was held when the day's name matched the month's.",
+  "Mehregan is celebrated on 16 Mehr (around 8 October); some Zoroastrians mark it on 10 Mehr.",
+  "Tirgan falls on 13 Tir (around 4 July) and is linked with Tishtrya, the star Sirius, bringer of rain.",
+  "Al-Biruni's Chronology of Ancient Nations, written around AD 1000, is a key source for the old Iranian festivals and their legends.",
+  "Sadeh is held on 10 Bahman (around 30 January); by one count it falls fifty days and fifty nights before Nowruz.",
+  "Sadeh also marks the end of the 'great chelle', the forty coldest days of winter that begin on Yalda night.",
+  "In the Shahnameh, fire is discovered when King Hushang's stone misses a serpent and strikes sparks from a rock."
+ ],
+ "titleV": "مِهرِگان، تیرگان و سَده",
+ "titleA": "4d4fad6e9e1c"
+}

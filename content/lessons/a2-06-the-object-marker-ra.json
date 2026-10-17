@@ -1,0 +1,1204 @@
+{
+ "id": "a2-06-the-object-marker-ra",
+ "level": "A2",
+ "n": 6,
+ "title": "The object marker را: I've lost my wallet!",
+ "titleFa": "کیف پولم را گم کرده‌ام!",
+ "titleR": "kif-e pul-am rā gom karde-am!",
+ "intro": "Persian has no word for 'the', but it has something just as useful: را, a small word placed after a direct object that is specific – this scarf, my wallet, Sara, him. In this lesson you learn when to use را and when to leave it out, how it combines with the pronouns (مرا، تو را), where it goes in a long phrase, and how it sounds in everyday speech. The setting is a bazaar – and a lost wallet.",
+ "goals": [
+  "mark a specific direct object with را",
+  "leave را out with indefinite and general objects: زعفران خریدم",
+  "use the pronouns as objects: مرا، تو را، او را…",
+  "put را after the whole object phrase: کیف قرمز من را",
+  "understand the spoken forms رو and -o: کتابو، منو"
+ ],
+ "image": "tajrish-bazaar",
+ "sections": [
+  {
+   "type": "dialogue",
+   "title": "Presents from the bazaar",
+   "context": "Sara takes Tom to the bazaar at Tajrish to buy presents to take home to Australia.",
+   "lines": [
+    {
+     "who": "Tom",
+     "fa": "سارا، آن شال آبی را ببین! برای مادرم خوب است؟",
+     "r": "Sārā, ān shāl-e ābi rā bebin! barā-ye mādar-am khub ast?",
+     "en": "Sara, look at that blue scarf! Is it good for my mother?",
+     "col": "سارا، اون شال آبیه رو ببین! برای مامانم خوبه؟",
+     "colR": "Sārā, un shāl-e ābi-ye ro bebin! barā-ye māmān-am khub-e?",
+     "faV": "سارا، آن شالِ آبی را بِبین! بَرایِ مادَرَم خوب اَست؟",
+     "a": "35337cc0d312",
+     "colV": "سارا، اون شالِ آبیه رو بِبین! بَرایِ مامانَم خوبه؟",
+     "colA": "7e9b491e796e"
+    },
+    {
+     "who": "Sara",
+     "fa": "قشنگ است. بیا قیمتش را بپرسیم.",
+     "r": "ghashang ast. biyā gheymat-ash rā beporsim.",
+     "en": "It's pretty. Let's ask the price.",
+     "col": "قشنگه. بیا قیمتشو بپرسیم.",
+     "colR": "ghashang-e. biyā gheymat-esh-o beporsim.",
+     "faV": "قَشَنگ اَست. بیا قَیمَتَش را بِپُرسیم.",
+     "a": "6592f8f9f961",
+     "colV": "قَشَنگه. بیا قَیمَتِشو بِپُرسیم.",
+     "colA": "302603a3949d"
+    },
+    {
+     "who": "Tom",
+     "fa": "آقا، ببخشید، این شال را چند می‌دهید؟",
+     "r": "āghā, bebakhshid, in shāl rā chand mi-dahid?",
+     "en": "Excuse me, sir, how much do you want for this scarf?",
+     "col": "آقا، ببخشید، این شالو چند می‌دین؟",
+     "colR": "āghā, bebakhshid, in shāl-o chand mi-din?",
+     "faV": "آقا، بِبَخشید، این شال را چَند می‌دَهید؟",
+     "a": "6385350266a0",
+     "colV": "آقا، بِبَخشید، این شالو چَند می‌دین؟",
+     "colA": "6a0e70351181"
+    },
+    {
+     "who": "Shopkeeper",
+     "fa": "قابلی ندارد، آقا. سیصد هزار تومان.",
+     "r": "ghābel-i na-dārad, āghā. sisad hezār tomān.",
+     "en": "Be my guest, sir! … Three hundred thousand tomans.",
+     "lit": "it is not worthy (of you)",
+     "col": "قابلی نداره، آقا. سیصد هزار تومن.",
+     "colR": "ghābel-i na-dāre, āghā. sisad hezār toman.",
+     "faV": "قابِلی نَدارَد، آقا. سیصَد هِزار تومان.",
+     "a": "1c89aaca66e0",
+     "colV": "قابِلی نَداره، آقا. سیصَد هِزار تومَن.",
+     "colA": "bd3e288a346d"
+    },
+    {
+     "who": "Tom",
+     "fa": "گران است! ارزان‌تر نمی‌دهید؟",
+     "r": "gerān ast! arzān-tar nemi-dahid?",
+     "en": "That's expensive! Won't you let me have it cheaper?",
+     "col": "گرونه! ارزون‌تر نمی‌دین؟",
+     "colR": "gerun-e! arzun-tar nemi-din?",
+     "faV": "گِران اَست! اَرزان‌تَر نِمی‌دَهید؟",
+     "a": "13845ee84127",
+     "colV": "گِرونه! اَرزون‌تَر نِمی‌دین؟",
+     "colA": "69146d06b0c4"
+    },
+    {
+     "who": "Shopkeeper",
+     "fa": "برای شما دویست و پنجاه. این را از یزد آورده‌ام؛ جنسش خیلی خوب است.",
+     "r": "barā-ye shomā devist o panjāh. in rā az Yazd āvarde-am; jens-ash kheyli khub ast.",
+     "en": "For you, two hundred and fifty. I brought this from Yazd; the material is very good.",
+     "col": "برای شما دویست و پنجاه. اینو از یزد آوردم؛ جنسش خیلی خوبه.",
+     "colR": "barā-ye shomā devist o panjāh. in-o az Yazd āvordam; jens-esh kheyli khub-e.",
+     "faV": "بَرایِ شُما دِویست و پَنجاه. این را اَز یَزد آوَرده‌اَم؛ جِنسَش خَیلی خوب اَست.",
+     "a": "de6bc2a580f4",
+     "colV": "بَرایِ شُما دِویست و پَنجاه. اینو اَز یَزد آوُردَم؛ جِنسِش خَیلی خوبه.",
+     "colA": "090a0ec3b2ce"
+    },
+    {
+     "who": "Tom",
+     "fa": "باشد، آن را می‌خرم. وای! کیف پولم کجاست؟",
+     "r": "bāshad, ān rā mi-kharam. vāy! kif-e pul-am kojā-st?",
+     "en": "OK, I'll take it. Oh no! Where's my wallet?",
+     "col": "باشه، اونو می‌خرم. وای! کیف پولم کجاست؟",
+     "colR": "bāshe, un-o mi-kharam. vāy! kif-e pul-am kojā-st?",
+     "faV": "باشَد، آن را می‌خَرَم. وای! کیفِ پولَم کُجاست؟",
+     "a": "f94f050e667b",
+     "colV": "باشه، اونو می‌خَرَم. وای! کیفِ پولَم کُجاست؟",
+     "colA": "3c539c05e4a5"
+    },
+    {
+     "who": "Sara",
+     "fa": "آرام باش. جیب‌هایت را نگاه کن. کیفت را کجا گذاشتی؟",
+     "r": "ārām bāsh. jib-hā-yat rā negāh kon. kif-at rā kojā gozāshti?",
+     "en": "Calm down. Look in your pockets. Where did you put your wallet?",
+     "col": "آروم باش. جیباتو نگاه کن. کیفتو کجا گذاشتی؟",
+     "colR": "ārum bāsh. jib-ā-t-o negāh kon. kif-et-o kojā gozāshti?",
+     "faV": "آرام باش. جیب‌هایَت را نِگاه کُن. کیفَت را کُجا گُذاشتی؟",
+     "a": "afe916505502",
+     "colV": "آروم باش. جیباتو نِگاه کُن. کیفِتو کُجا گُذاشتی؟",
+     "colA": "1aba5f474a2a"
+    },
+    {
+     "who": "Tom",
+     "fa": "نمی‌دانم! در مغازه‌ی قبلی زعفران خریدم و پولش را دادم. بعد یادم نیست.",
+     "r": "nemi-dānam! dar maghāze-ye ghabli za'farān kharidam o pul-ash rā dādam. ba'd yād-am nist.",
+     "en": "I don't know! In the last shop I bought some saffron and paid for it. After that I can't remember.",
+     "col": "نمی‌دونم! تو مغازه‌ی قبلی زعفرون خریدم و پولشو دادم. بعدش یادم نیست.",
+     "colR": "nemi-dunam! tu maghāze-ye ghabli za'farun kharidam o pul-esh-o dādam. ba'd-esh yād-am nist.",
+     "faV": "نِمی‌دانَم! دَر مَغازه‌یِ قَبلی زَعفَران خَریدَم و پولَش را دادَم. بَعد یادَم نیست.",
+     "a": "b4cef01d191f",
+     "colV": "نِمی‌دونَم! تو مَغازه‌یِ قَبلی زَعفَرون خَریدَم و پولِشو دادَم. بَعدِش یادَم نیست.",
+     "colA": "1114e2df3093"
+    },
+    {
+     "who": "Shopkeeper",
+     "fa": "مغازه‌ی زعفران‌فروشی؟ آقای کریمی را می‌شناسم. بیایید با هم برویم.",
+     "r": "maghāze-ye za'farān-forushi? āghā-ye Karimi rā mi-shenāsam. biyāyid bā ham beravim.",
+     "en": "The saffron shop? I know Mr Karimi. Come on, let's go together.",
+     "col": "مغازه‌ی زعفرون‌فروشی؟ آقای کریمی رو می‌شناسم. بیاین با هم بریم.",
+     "colR": "maghāze-ye za'farun-forushi? āghā-ye Karimi ro mi-shenāsam. biyāyn bā ham berim.",
+     "faV": "مَغازه‌یِ زَعفَران‌فُروشی؟ آقایِ کَریمی را می‌شِناسَم. بیایید با هَم بِرَویم.",
+     "a": "4e2ed0942361",
+     "colV": "مَغازه‌یِ زَعفَرون‌فُروشی؟ آقایِ کَریمی رو می‌شِناسَم. بیاین با هَم بِریم.",
+     "colA": "e2d5489711ca"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "سلام آقا تام! کیفتان را این‌جا جا گذاشتید. بفرمایید!",
+     "r": "salām āghā Tām! kif-etān rā in-jā jā gozāshtid. befarmāyid!",
+     "en": "Hello, Mr Tom! You left your wallet here. Here you are!",
+     "col": "سلام آقا تام! کیفتونو این‌جا جا گذاشتین. بفرمایین!",
+     "colR": "salām āghā Tām! kif-etun-o in-jā jā gozāshtin. befarmāyin!",
+     "faV": "سَلام آقا تام! کیفِتان را این‌جا جا گُذاشتید. بِفَرمایید!",
+     "a": "73ea79104f5b",
+     "colV": "سَلام آقا تام! کیفِتونو این‌جا جا گُذاشتین. بِفَرمایین!",
+     "colA": "e25b77e68c16"
+    },
+    {
+     "who": "Tom",
+     "fa": "وای، خیلی ممنون! شما مرا نجات دادید!",
+     "r": "vāy, kheyli mamnun! shomā marā nejāt dādid!",
+     "en": "Oh, thank you so much! You've saved me!",
+     "col": "وای، خیلی ممنون! شما منو نجات دادین!",
+     "colR": "vāy, kheyli mamnun! shomā man-o nejāt dādin!",
+     "faV": "وای، خَیلی مَمنون! شُما مَرا نِجات دادید!",
+     "a": "9c1290f45702",
+     "colV": "وای، خَیلی مَمنون! شُما مَنو نِجات دادین!",
+     "colA": "9cd24b80f9fc"
+    },
+    {
+     "who": "Mr Karimi",
+     "fa": "خواهش می‌کنم. فقط این بار کیفتان را در جیبتان بگذارید!",
+     "r": "khāhesh mi-konam. faghat in bār kif-etān rā dar jib-etān begozārid!",
+     "en": "You're welcome. Just put your wallet in your pocket this time!",
+     "col": "خواهش می‌کنم. فقط این دفعه کیفتونو بذارین تو جیبتون!",
+     "colR": "khāhesh mi-konam. faghat in daf'e kif-etun-o bezārin tu jib-etun!",
+     "faV": "خواهِش می‌کُنَم. فَقَط این بار کیفِتان را دَر جیبِتان بِگُذارید!",
+     "a": "3871717dc910",
+     "colV": "خواهِش می‌کُنَم. فَقَط این دَفعه کیفِتونو بِذارین تو جیبِتون!",
+     "colA": "7cd5f748a4a6"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Which one? The object marker را",
+   "md": "Look at the objects in the dialogue. Some have [[را|rā]] after them, some don't:\n\n- [[آن شال آبی را ببین|ān shāl-e ābi rā bebin|look at that blue scarf]] – *that* scarf, the one Tom is pointing at;\n- [[قیمتش را بپرسیم|gheymat-ash rā beporsim|let's ask its price]] – *its* price;\n- [[آقای کریمی را می‌شناسم|āghā-ye Karimi rā mi-shenāsam|I know Mr Karimi]] – a person with a name;\n- but [[زعفران خریدم|za'farān kharidam|I bought (some) saffron]] – no را: just *some* saffron.\n\nPersian has no word for *the*, but it has [[را|rā]]. It goes after a **direct object** – the thing or person the verb acts on – when that object is **specific**, one that you and the listener can both identify: *the* scarf, *this* book, *my* wallet, Sara, him. When the object is *a* thing, *some* of something or things in general, را stays away.\n\nرا adds no meaning of its own; it simply flags *this is the known object*. In speech it shrinks to *ro* or just *-o*: [[اینو|in-o|this]], [[کیفتو|kif-et-o|your wallet]]."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "را",
+     "r": "rā",
+     "en": "(marks a specific direct object)",
+     "pos": "part",
+     "note": "spoken رو ro after a vowel, -o after a consonant",
+     "ex": {
+      "fa": "این کتاب را خواندی؟",
+      "r": "in ketāb rā khāndi?",
+      "en": "Did you read this book?",
+      "faV": "این کِتاب را خواندی؟",
+      "a": "36b1c3df0736"
+     },
+     "faV": "را",
+     "a": "ecd8256953df"
+    },
+    {
+     "fa": "مرا",
+     "r": "marā",
+     "en": "me (as an object)",
+     "pos": "pron",
+     "note": "= من را; spoken منو man-o",
+     "ex": {
+      "fa": "مرا یادت هست؟",
+      "r": "marā yād-at hast?",
+      "en": "Do you remember me?",
+      "faV": "مَرا یادَت هَست؟",
+      "a": "bda58f3a45a6"
+     },
+     "faV": "مَرا",
+     "a": "cf37bce7b168"
+    },
+    {
+     "fa": "گم کردن",
+     "r": "gom kardan",
+     "en": "to lose",
+     "pos": "v",
+     "note": "گم شدن 'to get lost'",
+     "ex": {
+      "fa": "کلیدم را گم کردم.",
+      "r": "kelid-am rā gom kardam.",
+      "en": "I've lost my key.",
+      "faV": "کِلیدَم را گُم کَردَم.",
+      "a": "d34d1cbbfba0"
+     },
+     "faV": "گُم کَردَن",
+     "a": "39dbea24df85"
+    },
+    {
+     "fa": "پیدا کردن",
+     "r": "peydā kardan",
+     "en": "to find",
+     "pos": "v",
+     "faV": "پَیدا کَردَن",
+     "a": "de0c227f64f0"
+    },
+    {
+     "fa": "کیف پول",
+     "r": "kif-e pul",
+     "en": "wallet, purse",
+     "pos": "n",
+     "note": "کیف on its own is any bag",
+     "faV": "کیفِ پول",
+     "a": "2596caebd3ae"
+    },
+    {
+     "fa": "جیب",
+     "r": "jib",
+     "en": "pocket",
+     "pos": "n",
+     "faV": "جیب",
+     "a": "828fa4bdcc52"
+    },
+    {
+     "fa": "شال",
+     "r": "shāl",
+     "en": "scarf, shawl",
+     "pos": "n",
+     "faV": "شال",
+     "a": "0045dd0296f5"
+    },
+    {
+     "fa": "زعفران",
+     "r": "za'farān",
+     "en": "saffron",
+     "pos": "n",
+     "col": "زعفرون",
+     "colR": "za'farun",
+     "faV": "زَعفَران",
+     "a": "13452bbd3f73",
+     "colV": "زَعفَرون",
+     "colA": "c9fd70710842"
+    },
+    {
+     "fa": "قیمت",
+     "r": "gheymat",
+     "en": "price",
+     "pos": "n",
+     "ex": {
+      "fa": "قیمتش چند است؟",
+      "r": "gheymat-ash chand ast?",
+      "en": "How much is it?",
+      "faV": "قَیمَتَش چَند اَست؟",
+      "a": "2c9438e2ff05"
+     },
+     "faV": "قَیمَت",
+     "a": "916161310ef7"
+    },
+    {
+     "fa": "پرسیدن",
+     "r": "porsidan",
+     "en": "to ask",
+     "pos": "v",
+     "note": "present stem پرس pors: بپرسیم 'let's ask'",
+     "faV": "پُرسیدَن",
+     "a": "b4d4c2f0a0be"
+    },
+    {
+     "fa": "گران",
+     "r": "gerān",
+     "en": "expensive",
+     "pos": "adj",
+     "col": "گرون",
+     "colR": "gerun",
+     "faV": "گِران",
+     "a": "2ebc489acbc8",
+     "colV": "گِرون",
+     "colA": "85ba97425339"
+    },
+    {
+     "fa": "ارزان",
+     "r": "arzān",
+     "en": "cheap",
+     "pos": "adj",
+     "col": "ارزون",
+     "colR": "arzun",
+     "faV": "اَرزان",
+     "a": "0072439bbc3e",
+     "colV": "اَرزون",
+     "colA": "46b8e1ba4c11"
+    },
+    {
+     "fa": "قابلی ندارد",
+     "r": "ghābel-i na-dārad",
+     "en": "it's nothing – please, it's yours",
+     "pos": "phrase",
+     "note": "ta'ārof: the seller offers it as a gift; you insist on paying and then hear the price",
+     "faV": "قابِلی نَدارَد",
+     "a": "3f9b3960b424"
+    },
+    {
+     "fa": "جنس",
+     "r": "jens",
+     "en": "material; goods",
+     "pos": "n",
+     "faV": "جِنس",
+     "a": "44c03720fe68"
+    },
+    {
+     "fa": "مغازه",
+     "r": "maghāze",
+     "en": "shop",
+     "pos": "n",
+     "faV": "مَغازه",
+     "a": "0b69e97732e4"
+    },
+    {
+     "fa": "فروشنده",
+     "r": "forushande",
+     "en": "shopkeeper, seller",
+     "pos": "n",
+     "faV": "فُروشَنده",
+     "a": "9c251cd1f097"
+    },
+    {
+     "fa": "شناختن",
+     "r": "shenākhtan",
+     "en": "to know (a person or a place)",
+     "pos": "v",
+     "note": "present stem شناس shenās; for facts use دانستن",
+     "ex": {
+      "fa": "تهران را خوب می‌شناسی؟",
+      "r": "Tehrān rā khub mi-shenāsi?",
+      "en": "Do you know Tehran well?",
+      "faV": "تِهران را خوب می‌شِناسی؟",
+      "a": "6069b9cd12e8"
+     },
+     "faV": "شِناختَن",
+     "a": "c831a6efab49"
+    },
+    {
+     "fa": "جا گذاشتن",
+     "r": "jā gozāshtan",
+     "en": "to leave (something) behind",
+     "pos": "v",
+     "ex": {
+      "fa": "چترم را در تاکسی جا گذاشتم.",
+      "r": "chatr-am rā dar tāksi jā gozāshtam.",
+      "en": "I left my umbrella in the taxi.",
+      "faV": "چَترَم را دَر تاکسی جا گُذاشتَم.",
+      "a": "1ae1e12e47bc"
+     },
+     "faV": "جا گُذاشتَن",
+     "a": "3418b3fdb5eb"
+    },
+    {
+     "fa": "نجات دادن",
+     "r": "nejāt dādan",
+     "en": "to save, to rescue",
+     "pos": "v",
+     "faV": "نِجات دادَن",
+     "a": "f3a12209261f"
+    },
+    {
+     "fa": "سوغاتی",
+     "r": "sowghāti",
+     "en": "a present brought back from a trip",
+     "pos": "n",
+     "note": "travellers are expected to bring سوغاتی for family and friends",
+     "faV": "سَوغاتی",
+     "a": "2b086c773843"
+    },
+    {
+     "fa": "خریدن",
+     "r": "kharidan",
+     "en": "to buy",
+     "pos": "v",
+     "note": "present stem خر khar: می‌خرم",
+     "faV": "خَریدَن",
+     "a": "4aab98bae182"
+    },
+    {
+     "fa": "چانه زدن",
+     "r": "chāne zadan",
+     "en": "to bargain",
+     "pos": "v",
+     "note": "literally 'to hit the chin'",
+     "faV": "چانه زَدَن",
+     "a": "586c265d399f"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "When to use را",
+   "md": "Use [[را|rā]] after a direct object that is **specific** – one the listener can identify. These objects always take it:\n\n- names: [[سارا را دیدم|Sārā rā didam|I saw Sara]];\n- pronouns: [[او را می‌شناسم|u rā mi-shenāsam|I know him]];\n- nouns with *this* or *that*: [[این کتاب را|in ketāb rā|this book]];\n- nouns with a possessive: [[کیفم را|kif-am rā|my bag]], [[کیف سارا را|kif-e Sārā rā|Sara's bag]];\n- things you have already talked about: [[شال را خریدم|shāl rā kharidam|I bought the scarf]].\n\nLeave it out when the object is **not specific**: *a* thing ([[یک شال خریدم|yek shāl kharidam|I bought a scarf]]), *some* of something ([[زعفران خریدم|za'farān kharidam|I bought some saffron]]) or things in general ([[کتاب می‌خوانم|ketāb mi-khānam|I'm reading]]).\n\nرا only ever marks the direct object – never the subject, and never a word after a preposition such as [[به|be|to]] or [[با|bā|with]]: [[به سارا گفتم|be Sārā goftam|I told Sara]].",
+   "table": {
+    "head": [
+     "Without را",
+     "English",
+     "With را",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[زعفران خریدم.|za'farān kharidam.]]",
+      "I bought some saffron.",
+      "[[زعفران را خریدم.|za'farān rā kharidam.]]",
+      "I bought the saffron."
+     ],
+     [
+      "[[یک شال خریدم.|yek shāl kharidam.]]",
+      "I bought a scarf.",
+      "[[آن شال را خریدم.|ān shāl rā kharidam.]]",
+      "I bought that scarf."
+     ],
+     [
+      "[[کتاب می‌خوانم.|ketāb mi-khānam.]]",
+      "I'm reading (a book).",
+      "[[کتاب را می‌خوانم.|ketāb rā mi-khānam.]]",
+      "I'm reading the book."
+     ],
+     [
+      "[[نامه نوشتم.|nāme neveshtam.]]",
+      "I wrote a letter.",
+      "[[نامه‌ام را نوشتم.|nāme-am rā neveshtam.]]",
+      "I wrote my letter."
+     ],
+     [
+      "[[فیلم دیدیم.|film didim.]]",
+      "We watched a film.",
+      "[[فیلم جدید فرهادی را دیدیم.|film-e jadid-e Farhādi rā didim.]]",
+      "We watched Farhadi's new film."
+     ],
+     [
+      "[[چای می‌خوری؟|chāy mi-khori?]]",
+      "Will you have some tea?",
+      "[[چایت را بخور.|chāy-at rā bokhor.]]",
+      "Drink your tea."
+     ],
+     [
+      "[[دوست پیدا کردم.|dust peydā kardam.]]",
+      "I've made friends.",
+      "[[دوستم را پیدا کردم.|dust-am rā peydā kardam.]]",
+      "I found my friend."
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "سارا را در بازار دیدم.",
+     "r": "Sārā rā dar bāzār didam.",
+     "en": "I saw Sara in the bazaar.",
+     "faV": "سارا را دَر بازار دیدَم.",
+     "a": "cd2af05276ca"
+    },
+    {
+     "fa": "این کتاب را از کجا خریدی؟",
+     "r": "in ketāb rā az kojā kharidi?",
+     "en": "Where did you buy this book?",
+     "col": "این کتابو از کجا خریدی؟",
+     "colR": "in ketāb-o az kojā kharidi?",
+     "faV": "این کِتاب را اَز کُجا خَریدی؟",
+     "a": "0a98b9de73ad",
+     "colV": "این کِتابو اَز کُجا خَریدی؟",
+     "colA": "4a07c45f3f3c"
+    },
+    {
+     "fa": "کلیدهایم را پیدا نمی‌کنم.",
+     "r": "kelid-hā-yam rā peydā nemi-konam.",
+     "en": "I can't find my keys.",
+     "col": "کلیدامو پیدا نمی‌کنم.",
+     "colR": "kelid-ā-m-o peydā nemi-konam.",
+     "faV": "کِلیدهایَم را پَیدا نِمی‌کُنَم.",
+     "a": "d8a4fa40bfca",
+     "colV": "کِلیدامو پَیدا نِمی‌کُنَم.",
+     "colA": "03f4a0211dc7"
+    },
+    {
+     "fa": "هر روز روزنامه می‌خوانم، ولی امروز روزنامه را نخواندم.",
+     "r": "har ruz ruznāme mi-khānam, vali emruz ruznāme rā na-khāndam.",
+     "en": "I read a newspaper every day, but today I didn't read the paper.",
+     "faV": "هَر روز روزنامه می‌خوانَم، وَلی اِمروز روزنامه را نَخواندَم.",
+     "a": "6c744cc1f7f6"
+    },
+    {
+     "fa": "شیراز را خیلی دوست دارم.",
+     "r": "Shirāz rā kheyli dust dāram.",
+     "en": "I love Shiraz.",
+     "note": "دوست داشتن takes را with a specific object; for things in general leave it out: چای دوست دارم 'I like tea'",
+     "faV": "شیراز را خَیلی دوست دارَم.",
+     "a": "8a19ef1c0ce2"
+    },
+    {
+     "fa": "نامه را به مینا دادم.",
+     "r": "nāme rā be Minā dādam.",
+     "en": "I gave the letter to Mina.",
+     "note": "the letter takes را; Mina, after به, does not",
+     "faV": "نامه را به مینا دادَم.",
+     "a": "f979d332b87e"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Me, you, him: pronouns with را",
+   "md": "A pronoun used as a direct object is always specific, so it always takes [[را|rā]]. Only one form is special: [[من|man]] + [[را|rā]] is usually written as one word, [[مرا|marā]] (you will also see [[من را|man rā]]). The others are written as two words.\n\nIn speech the pronouns change too: *u* becomes *un*, and را becomes *-o* after a consonant and *ro* after a vowel.\n\nPersian also has a shorter way to say *me, you, him* as objects – a pronoun ending on the verb: [[دیدمش|didam-ash|I saw him]], [[دوستت دارم|dust-at dāram|I love you]]. You will hear these all the time; for now, just recognise them.",
+   "table": {
+    "head": [
+     "Pronoun",
+     "Written",
+     "Spoken",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[من|man]]",
+      "[[مرا|marā]] / [[من را|man rā]]",
+      "[[منو|man-o]]",
+      "me"
+     ],
+     [
+      "[[تو|to]]",
+      "[[تو را|to rā]]",
+      "[[تو رو|to ro]]",
+      "you"
+     ],
+     [
+      "[[او|u]]",
+      "[[او را|u rā]]",
+      "[[اونو|un-o]]",
+      "him, her"
+     ],
+     [
+      "[[ما|mā]]",
+      "[[ما را|mā rā]]",
+      "[[ما رو|mā ro]]",
+      "us"
+     ],
+     [
+      "[[شما|shomā]]",
+      "[[شما را|shomā rā]]",
+      "[[شما رو|shomā ro]]",
+      "you (pl. / polite)"
+     ],
+     [
+      "[[آن‌ها|ān-hā]]",
+      "[[آن‌ها را|ān-hā rā]]",
+      "[[اونا رو|unā ro]]",
+      "them"
+     ],
+     [
+      "[[این|in]] / [[آن|ān]]",
+      "[[این را|in rā]] / [[آن را|ān rā]]",
+      "[[اینو|in-o]] / [[اونو|un-o]]",
+      "this (one) / that (one)"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "مرا ببخشید، دیر کردم.",
+     "r": "marā bebakhshid, dir kardam.",
+     "en": "Forgive me, I'm late.",
+     "col": "منو ببخشید، دیر کردم.",
+     "colR": "man-o bebakhshid, dir kardam.",
+     "faV": "مَرا بِبَخشید، دیر کَردَم.",
+     "a": "027ed1461f35",
+     "colV": "مَنو بِبَخشید، دیر کَردَم.",
+     "colA": "85fad874da65"
+    },
+    {
+     "fa": "تو را دوست دارم.",
+     "r": "to rā dust dāram.",
+     "en": "I love you.",
+     "col": "دوستت دارم.",
+     "colR": "dust-et dāram.",
+     "faV": "تو را دوست دارَم.",
+     "a": "1ee16a84ee78",
+     "colV": "دوستِت دارَم.",
+     "colA": "ed855bae8b53"
+    },
+    {
+     "fa": "او را نمی‌شناسم.",
+     "r": "u rā nemi-shenāsam.",
+     "en": "I don't know him.",
+     "col": "اونو نمی‌شناسم.",
+     "colR": "un-o nemi-shenāsam.",
+     "faV": "او را نِمی‌شِناسَم.",
+     "a": "4ba40da38b97",
+     "colV": "اونو نِمی‌شِناسَم.",
+     "colA": "c06109cea944"
+    },
+    {
+     "fa": "لطفاً ما را فراموش نکنید!",
+     "r": "lotfan mā rā farāmush na-konid!",
+     "en": "Please don't forget us!",
+     "col": "لطفاً ما رو فراموش نکنین!",
+     "colR": "lotfan mā ro farāmush na-konin!",
+     "faV": "لُطفاً ما را فَراموش نَکُنید!",
+     "a": "6639d17a410b",
+     "colV": "لُطفاً ما رو فَراموش نَکُنین!",
+     "colA": "05cf49d8dc12"
+    },
+    {
+     "fa": "آن‌ها را فردا می‌بینم.",
+     "r": "ān-hā rā fardā mi-binam.",
+     "en": "I'll see them tomorrow.",
+     "col": "اونا رو فردا می‌بینم.",
+     "colR": "unā ro fardā mi-binam.",
+     "faV": "آن‌ها را فَردا می‌بینَم.",
+     "a": "a9f5e26a89ad",
+     "colV": "اونا رو فَردا می‌بینَم.",
+     "colA": "b3b1af657766"
+    },
+    {
+     "fa": "این را برای تو خریدم.",
+     "r": "in rā barā-ye to kharidam.",
+     "en": "I bought this for you.",
+     "col": "اینو برات خریدم.",
+     "colR": "in-o barā-t kharidam.",
+     "faV": "این را بَرایِ تو خَریدَم.",
+     "a": "8d8180f3b393",
+     "colV": "اینو بَرات خَریدَم.",
+     "colA": "febc55868c4e"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Where را goes – and how it sounds",
+   "md": "[[را|rā]] comes **after the whole object phrase** – after the adjectives, the ezafe and the possessive – and before everything else. The usual order is: subject – time – **object + را** – place or person (with [[به|be]], [[در|dar]]…) – verb:\n\n[[مینا دیروز کتاب را به رضا داد.|Minā diruz ketāb rā be Rezā dād.|Mina gave the book to Reza yesterday.]]\n\nWith a compound verb, the object and را come before the first part: [[کیفم را گم کردم|kif-am rā gom kardam|I lost my bag]], [[در را باز کن|dar rā bāz kon|open the door]].\n\nOne trap: *my bag* is [[کیف من|kif-e man]], so *my bag* as an object is [[کیف من را|kif-e man rā]] – never *kif-e marā*, because [[مرا|marā]] means only *me*.\n\nIn speech را becomes **-o** after a consonant ([[کیفو|kif-o]]) and **ro** after a vowel ([[خونه رو|khune ro]]). Spoken Persian also likes to move the place or the person after the verb: [[کتابو دادم به رضا|ketāb-o dādam be Rezā|I gave the book to Reza]].",
+   "table": {
+    "head": [
+     "Written",
+     "Spoken",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[کیف را|kif rā]]",
+      "[[کیفو|kif-o]]",
+      "the bag"
+     ],
+     [
+      "[[کیفم را|kif-am rā]]",
+      "[[کیفمو|kif-am-o]]",
+      "my bag"
+     ],
+     [
+      "[[کیف قرمزم را|kif-e ghermez-am rā]]",
+      "[[کیف قرمزمو|kif-e ghermez-am-o]]",
+      "my red bag"
+     ],
+     [
+      "[[کیف قرمز سارا را|kif-e ghermez-e Sārā rā]]",
+      "[[کیف قرمز سارا رو|kif-e ghermez-e Sārā ro]]",
+      "Sara's red bag"
+     ],
+     [
+      "[[این کیف قرمز را|in kif-e ghermez rā]]",
+      "[[این کیف قرمزو|in kif-e ghermez-o]]",
+      "this red bag"
+     ],
+     [
+      "[[کیف‌های قرمز را|kif-hā-ye ghermez rā]]",
+      "[[کیفای قرمزو|kif-ā-ye ghermez-o]]",
+      "the red bags"
+     ],
+     [
+      "[[کیف من را|kif-e man rā]]",
+      "[[کیف منو|kif-e man-o]]",
+      "my bag (stressing 'my')"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "مینا کتاب را به رضا داد.",
+     "r": "Minā ketāb rā be Rezā dād.",
+     "en": "Mina gave the book to Reza.",
+     "col": "مینا کتابو داد به رضا.",
+     "colR": "Minā ketāb-o dād be Rezā.",
+     "faV": "مینا کِتاب را به رِضا داد.",
+     "a": "2ae34f9e9926",
+     "colV": "مینا کِتابو داد به رِضا.",
+     "colA": "f2e97a0e789d"
+    },
+    {
+     "fa": "دیروز ماشینم را در پارکینگ گذاشتم.",
+     "r": "diruz māshin-am rā dar pārking gozāshtam.",
+     "en": "Yesterday I left my car in the car park.",
+     "col": "دیروز ماشینمو تو پارکینگ گذاشتم.",
+     "colR": "diruz māshin-am-o tu pārking gozāshtam.",
+     "faV": "دیروز ماشینَم را دَر پارکینگ گُذاشتَم.",
+     "a": "bfe91d913a12",
+     "colV": "دیروز ماشینَمو تو پارکینگ گُذاشتَم.",
+     "colA": "1f45867ebf96"
+    },
+    {
+     "fa": "لطفاً در را ببند.",
+     "r": "lotfan dar rā beband.",
+     "en": "Please close the door.",
+     "col": "لطفاً درو ببند.",
+     "colR": "lotfan dar-o beband.",
+     "faV": "لُطفاً دَر را بِبَند.",
+     "a": "a91f0f8e206f",
+     "colV": "لُطفاً دَرو بِبَند.",
+     "colA": "3b0657352f71"
+    },
+    {
+     "fa": "کسی کیف من را ندیده است؟",
+     "r": "kas-i kif-e man rā na-dide ast?",
+     "en": "Has anyone seen my bag?",
+     "col": "کسی کیف منو ندیده؟",
+     "colR": "kas-i kif-e man-o na-dide?",
+     "faV": "کَسی کیفِ مَن را نَدیده اَست؟",
+     "a": "129b1f00fd53",
+     "colV": "کَسی کیفِ مَنو نَدیده؟",
+     "colA": "0993488f83d7"
+    },
+    {
+     "fa": "زعفران را برای مادرم خریدم.",
+     "r": "za'farān rā barā-ye mādar-am kharidam.",
+     "en": "I bought the saffron for my mother.",
+     "col": "زعفرونو برای مامانم خریدم.",
+     "colR": "za'farun-o barā-ye māmān-am kharidam.",
+     "faV": "زَعفَران را بَرایِ مادَرَم خَریدَم.",
+     "a": "7cb314d8b093",
+     "colV": "زَعفَرونو بَرایِ مامانَم خَریدَم.",
+     "colA": "543928e454b4"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Mullah Nasreddin's key",
+   "intro": "A story about Mullah Nasreddin (ملا نصرالدین), the wise fool of Persian folk tales. Watch which objects take را – almost all of them do, because in a story everything soon becomes 'the' key, 'the' house.",
+   "sentences": [
+    {
+     "fa": "یک شب ملا کلید خانه‌اش را گم کرد.",
+     "r": "yek shab Mollā kelid-e khāne-ash rā gom kard.",
+     "en": "One night the Mullah lost his house key.",
+     "faV": "یِک شَب مُلّا کِلیدِ خانه‌اَش را گُم کَرد.",
+     "a": "4bdbaf853f39"
+    },
+    {
+     "fa": "او زیر چراغ کوچه دنبال کلید می‌گشت.",
+     "r": "u zir-e cherāgh-e kuche donbāl-e kelid mi-gasht.",
+     "en": "He was looking for the key under the street lamp.",
+     "faV": "او زیرِ چِراغِ کوچه دُنبالِ کِلید می‌گَشت.",
+     "a": "654f4595a9d7"
+    },
+    {
+     "fa": "همسایه‌اش او را دید و پرسید: «چه چیزی را گم کرده‌ای؟»",
+     "r": "hamsāye-ash u rā did o porsid: «che chiz-i rā gom karde-i?»",
+     "en": "His neighbour saw him and asked: 'What have you lost?'",
+     "faV": "هَمسایه‌اَش او را دید و پُرسید: «چه چیزی را گُم کَرده‌ای؟»",
+     "a": "abc281030940"
+    },
+    {
+     "fa": "ملا گفت: «کلیدم را.»",
+     "r": "Mollā goft: «kelid-am rā.»",
+     "en": "The Mullah said: 'My key.'",
+     "faV": "مُلّا گُفت: «کِلیدَم را.»",
+     "a": "50c46a795993"
+    },
+    {
+     "fa": "همسایه هم آمد و با هم دنبال کلید گشتند.",
+     "r": "hamsāye ham āmad o bā ham donbāl-e kelid gashtand.",
+     "en": "The neighbour came too, and they looked for the key together.",
+     "faV": "هَمسایه هَم آمَد و با هَم دُنبالِ کِلید گَشتَند.",
+     "a": "b40bf5153ada"
+    },
+    {
+     "fa": "بعد از نیم ساعت، همسایه پرسید: «کلید را دقیقاً کجا گم کردی؟»",
+     "r": "ba'd az nim sā'at, hamsāye porsid: «kelid rā daghighan kojā gom kardi?»",
+     "en": "After half an hour the neighbour asked: 'Where exactly did you lose the key?'",
+     "faV": "بَعد اَز نیم ساعَت، هَمسایه پُرسید: «کِلید را دَقیقاً کُجا گُم کَردی؟»",
+     "a": "37dc7a3633f9"
+    },
+    {
+     "fa": "ملا جواب داد: «در خانه.»",
+     "r": "Mollā javāb dād: «dar khāne.»",
+     "en": "The Mullah answered: 'In the house.'",
+     "faV": "مُلّا جَواب داد: «دَر خانه.»",
+     "a": "81dd34b4e963"
+    },
+    {
+     "fa": "همسایه تعجب کرد: «پس چرا این‌جا دنبالش می‌گردی؟»",
+     "r": "hamsāye ta'ajjob kard: «pas cherā in-jā donbāl-ash mi-gardi?»",
+     "en": "The neighbour was amazed: 'Then why are you looking for it here?'",
+     "faV": "هَمسایه تَعَجُّب کَرد: «پَس چِرا این‌جا دُنبالَش می‌گَردی؟»",
+     "a": "dbbd2d287b76"
+    },
+    {
+     "fa": "ملا گفت: «چون خانه تاریک است و این‌جا چراغ دارد!»",
+     "r": "Mollā goft: «chon khāne tārik ast o in-jā cherāgh dārad!»",
+     "en": "The Mullah said: 'Because the house is dark, and here there's a lamp!'",
+     "faV": "مُلّا گُفت: «چون خانه تاریک اَست و این‌جا چِراغ دارَد!»",
+     "a": "7f56a0ea1cf2"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What did the Mullah lose?",
+     "options": [
+      "his ring",
+      "his house key",
+      "his wallet"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Where did he really lose it?",
+     "options": [
+      "in the street",
+      "in the house",
+      "in the bazaar"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Why was he looking under the lamp?",
+     "options": [
+      "because there was light there",
+      "because his neighbour told him to",
+      "because he had seen the key there"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Why does کلیدم take را in «کلیدم را»?",
+     "options": [
+      "because it is a plural",
+      "because it is a specific, known object – my key",
+      "because the verb is in the past"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Ta'ārof at the bazaar",
+   "md": "When you ask a shopkeeper in an Iranian bazaar [[چند است؟|chand ast?|how much is it?]], the first answer may be [[قابلی ندارد|ghābel-i na-dārad]] – *it is not worthy of you*, in other words *take it as a gift*. This is [[تعارف|ta'ārof]], the ritual politeness that runs through Iranian life. Nobody expects you to walk off with the scarf: you thank them, insist – [[خواهش می‌کنم، بفرمایید چند است؟|khāhesh mi-konam, befarmāyid chand ast?|please, do tell me how much it is]] – and then you hear the price.\n\nIn the old covered bazaars of Tehran, Isfahan, Tabriz and Shiraz a little [[چانه زدن|chāne zadan|bargaining]] is normal, especially for carpets, handicrafts and souvenirs; in modern shops with price tags it is not. Prices are usually given in [[تومان|tomān]], the everyday unit, rather than in rials (traditionally ten rials make a toman), and people often leave out the thousands: [[صد تومان|sad tomān]] may well mean a hundred *thousand*. Favourite [[سوغاتی|sowghāti]] to take home are saffron, pistachios, the nougat [[گز|gaz]] from Isfahan and the silk cloth [[ترمه|terme]] from Yazd.",
+   "image": "bazaar"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "A rule of thumb: if English would say *the*, *this*, *my* or a name, use **را**; if English says *a*, *some* or nothing at all, leave it out.",
+    "**مرا** means only *me*. *My bag* as an object is *kif-e man rā* – never *kif-e marā*.",
+    "Likes in general go without را: *chāy dust dāram* 'I like tea'; specific likes take it: *in chāy rā dust dāram* 'I like this tea'.",
+    "In speech را is *-o* after a consonant (*ketāb-o*, *in-o*, *man-o*) and *ro* after a vowel (*khune ro*, *mā ro*). Online you will even see it written that way: *کتابو دیدی؟*",
+    "Question words used as objects take را too: *che chiz-i rā gom kardi?* 'what did you lose?', *ki rā didi?* 'who did you see?' – spoken *kio didi?*"
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the objects",
+   "items": [
+    {
+     "fa": "مرا",
+     "r": "marā",
+     "en": "me",
+     "faV": "مَرا",
+     "a": "cf37bce7b168"
+    },
+    {
+     "fa": "تو را",
+     "r": "to rā",
+     "en": "you",
+     "faV": "تو را",
+     "a": "c0ee905f646e"
+    },
+    {
+     "fa": "او را",
+     "r": "u rā",
+     "en": "him / her",
+     "faV": "او را",
+     "a": "7837290e6d69"
+    },
+    {
+     "fa": "ما را",
+     "r": "mā rā",
+     "en": "us",
+     "faV": "ما را",
+     "a": "b966fd139e44"
+    },
+    {
+     "fa": "آن‌ها را",
+     "r": "ān-hā rā",
+     "en": "them",
+     "faV": "آن‌ها را",
+     "a": "0754cf7e33a5"
+    },
+    {
+     "fa": "کیف من را",
+     "r": "kif-e man rā",
+     "en": "my bag",
+     "faV": "کیفِ مَن را",
+     "a": "eaf971ac59da"
+    },
+    {
+     "fa": "این را",
+     "r": "in rā",
+     "en": "this (one)",
+     "faV": "این را",
+     "a": "ab17324f2e8a"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "With or without را?",
+   "items": [
+    {
+     "q": "'I saw Sara.'",
+     "options": [
+      "سارا دیدم.",
+      "سارا را دیدم.",
+      "را سارا دیدم."
+     ],
+     "answer": 1,
+     "explain": "A name is always specific, so it takes را – right after it."
+    },
+    {
+     "q": "'I bought a scarf (some scarf or other).'",
+     "options": [
+      "یک شال خریدم.",
+      "شال را خریدم.",
+      "مرا شال خریدم."
+     ],
+     "answer": 0,
+     "explain": "'A scarf' is not specific, so no را. شال را خریدم means 'I bought the scarf'."
+    },
+    {
+     "q": "'Do you know me?'",
+     "options": [
+      "من می‌شناسی؟",
+      "مرا می‌شناسی؟",
+      "من مرا می‌شناسی؟"
+     ],
+     "answer": 1,
+     "explain": "من + را is written مرا."
+    },
+    {
+     "q": "'I've lost my red bag.' Where does را go?",
+     "options": [
+      "کیف را قرمزم گم کرده‌ام.",
+      "کیف قرمزم گم را کرده‌ام.",
+      "کیف قرمزم را گم کرده‌ام."
+     ],
+     "answer": 2,
+     "explain": "را comes after the whole object phrase (kif-e ghermez-am) and before the compound verb."
+    },
+    {
+     "q": "Which sentence needs را?",
+     "options": [
+      "چای ___ دوست دارم. (I like tea.)",
+      "این چای ___ دوست دارم. (I like this tea.)",
+      "یک چای ___ سفارش دادم. (I ordered a tea.)"
+     ],
+     "answer": 1,
+     "explain": "'This tea' is specific; tea in general and 'a tea' are not."
+    },
+    {
+     "q": "'Has anyone seen my bag?'",
+     "options": [
+      "کسی کیف مرا ندیده است؟",
+      "کسی کیف من را ندیده است؟",
+      "کسی مرا کیف ندیده است؟"
+     ],
+     "answer": 1,
+     "explain": "'My bag' is کیف من, and را follows the whole phrase: کیف من را."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentences",
+   "items": [
+    {
+     "fa": "سارا ___ در بازار دیدم.",
+     "r": "Sārā ___ dar bāzār didam.",
+     "en": "I saw Sara in the bazaar.",
+     "answer": "را",
+     "hint": "the object marker"
+    },
+    {
+     "fa": "لطفاً ___ فراموش نکنید!",
+     "r": "lotfan ___ farāmush na-konid!",
+     "en": "Please don't forget me!",
+     "answer": "مرا",
+     "hint": "me"
+    },
+    {
+     "fa": "کلیدهایم را پیدا ___.",
+     "r": "kelid-hā-yam rā peydā ___.",
+     "en": "I can't find my keys.",
+     "answer": "نمی‌کنم",
+     "hint": "kardan, I, present, negative"
+    },
+    {
+     "fa": "او ___ می‌شناسم؛ همسایه‌ی ماست.",
+     "r": "u ___ mi-shenāsam; hamsāye-ye mā-st.",
+     "en": "I know him; he's our neighbour.",
+     "answer": "را",
+     "hint": "the object marker"
+    },
+    {
+     "fa": "کیف پولم را ___ کرده‌ام!",
+     "r": "kif-e pul-am rā ___ karde-am!",
+     "en": "I've lost my wallet!",
+     "answer": "گم",
+     "hint": "lost"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "سارا را در بازار دیدم.",
+     "r": "Sārā rā dar bāzār didam.",
+     "en": "I saw Sara in the bazaar.",
+     "faV": "سارا را دَر بازار دیدَم.",
+     "a": "cd2af05276ca"
+    },
+    {
+     "fa": "کیف پولم را گم کرده‌ام.",
+     "r": "kif-e pul-am rā gom karde-am.",
+     "en": "I've lost my wallet.",
+     "faV": "کیفِ پولَم را گُم کَرده‌اَم.",
+     "a": "5679c2af9827"
+    },
+    {
+     "fa": "مینا کتاب را به رضا داد.",
+     "r": "Minā ketāb rā be Rezā dād.",
+     "en": "Mina gave the book to Reza.",
+     "faV": "مینا کِتاب را به رِضا داد.",
+     "a": "2ae34f9e9926"
+    },
+    {
+     "fa": "این را برای تو خریدم.",
+     "r": "in rā barā-ye to kharidam.",
+     "en": "I bought this for you.",
+     "faV": "این را بَرایِ تو خَریدَم.",
+     "a": "8d8180f3b393"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "او را نمی‌شناسم.",
+     "r": "u rā nemi-shenāsam.",
+     "en": "I don't know him.",
+     "options": [
+      "He doesn't know me.",
+      "I don't know him.",
+      "I don't know where it is."
+     ],
+     "answer": 1,
+     "faV": "او را نِمی‌شِناسَم.",
+     "a": "4ba40da38b97"
+    },
+    {
+     "fa": "زعفران را برای مادرم خریدم.",
+     "r": "za'farān rā barā-ye mādar-am kharidam.",
+     "en": "I bought the saffron for my mother.",
+     "options": [
+      "I bought the saffron for my mother.",
+      "I bought saffron from my mother.",
+      "My mother bought the saffron."
+     ],
+     "answer": 0,
+     "faV": "زَعفَران را بَرایِ مادَرَم خَریدَم.",
+     "a": "7cb314d8b093"
+    },
+    {
+     "fa": "قیمتش را بپرسیم.",
+     "r": "gheymat-ash rā beporsim.",
+     "en": "Let's ask the price.",
+     "options": [
+      "It's too expensive.",
+      "Let's pay.",
+      "Let's ask the price."
+     ],
+     "answer": 2,
+     "faV": "قَیمَتَش را بِپُرسیم.",
+     "a": "65551cb9e0ac"
+    },
+    {
+     "fa": "مرا ببخشید!",
+     "r": "marā bebakhshid!",
+     "en": "Forgive me!",
+     "options": [
+      "Help me!",
+      "Forgive me!",
+      "Thank you!"
+     ],
+     "answer": 1,
+     "faV": "مَرا بِبَخشید!",
+     "a": "354a278e724d"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "I've lost my wallet!",
+     "fa": "کیف پولم را گم کرده‌ام!",
+     "r": "kif-e pul-am rā gom karde-am!",
+     "faV": "کیفِ پولَم را گُم کَرده‌اَم!",
+     "a": "6cb9337d3d48"
+    },
+    {
+     "en": "Do you know Mr Karimi?",
+     "fa": "آقای کریمی را می‌شناسید؟",
+     "r": "āghā-ye Karimi rā mi-shenāsid?",
+     "faV": "آقایِ کَریمی را می‌شِناسید؟",
+     "a": "78ffb67bc937"
+    },
+    {
+     "en": "I bought some saffron, but I didn't buy the scarf.",
+     "fa": "زعفران خریدم، ولی شال را نخریدم.",
+     "r": "za'farān kharidam, vali shāl rā na-kharidam.",
+     "faV": "زَعفَران خَریدَم، وَلی شال را نَخَریدَم.",
+     "a": "1ce94e3e924b"
+    },
+    {
+     "en": "Please close the door.",
+     "fa": "لطفاً در را ببندید.",
+     "r": "lotfan dar rā bebandid.",
+     "faV": "لُطفاً دَر را بِبَندید.",
+     "a": "ae4fd7c9978a"
+    },
+    {
+     "en": "I love Shiraz.",
+     "fa": "شیراز را خیلی دوست دارم.",
+     "r": "Shirāz rā kheyli dust dāram.",
+     "faV": "شیراز را خَیلی دوست دارَم.",
+     "a": "8a19ef1c0ce2"
+    }
+   ]
+  }
+ ],
+ "titleV": "کیفِ پولَم را گُم کَرده‌اَم!",
+ "titleA": "6cb9337d3d48"
+}
