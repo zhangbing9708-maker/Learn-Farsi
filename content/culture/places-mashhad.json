@@ -36,36 +36,213 @@
   }
  ],
  "sentences": [
-  {"fa": "زیارت قبول!", "r": "ziyārat ghabul!", "en": "May your pilgrimage be accepted!", "note": "What Iranians say to someone who has just been on a pilgrimage."},
-  {"fa": "ببخشید، ورودی خانم‌ها کجاست؟", "r": "bebakhshid, vorudi-ye khānom-hā kojāst?", "en": "Excuse me, where is the women's entrance?"},
-  {"fa": "خانم‌ها باید در حرم چادر سر کنند.", "r": "khānom-hā bāyad dar haram chādor sar konand.", "en": "Women must wear a chador in the shrine."},
-  {"fa": "می‌توانم چادر امانت بگیرم؟", "r": "mi-tavānam chādor amānat be-giram?", "en": "Can I borrow a chador?", "col": "می‌تونم چادر امانت بگیرم؟", "colR": "mi-tunam chādor amānat be-giram?"},
-  {"fa": "گنبد طلای حرم از دور پیداست.", "r": "gonbad-e talā-ye haram az dur peydāst.", "en": "The golden dome of the shrine can be seen from far away."},
-  {"fa": "مسجد گوهرشاد را یک ملکه‌ی تیموری ساخت.", "r": "Masjed-e Gowharshād rā yek malake-ye teymuri sākht.", "en": "The Goharshad Mosque was built by a Timurid queen."},
-  {"fa": "شب جمعه حرم خیلی شلوغ است.", "r": "shab-e jom'e haram kheyli sholugh ast.", "en": "On Thursday night, the eve of Friday, the shrine is very crowded."},
-  {"fa": "آرامگاه فردوسی در توس است.", "r": "ārāmgāh-e Ferdowsi dar Tus ast.", "en": "Ferdowsi's tomb is in Tus."},
-  {"fa": "زعفران را در پاییز با دست می‌چینند.", "r": "za'farān rā dar pāyiz bā dast mi-chinand.", "en": "Saffron is picked by hand in autumn."},
-  {"fa": "یک مثقال زعفران چند است؟", "r": "yek mesghāl za'farān chand ast?", "en": "How much is a mesghal of saffron?", "col": "یه مثقال زعفران چنده؟", "colR": "ye mesghāl za'farān chande?"},
-  {"fa": "برای سوغاتی زعفران و زرشک و نبات خریدیم.", "r": "barā-ye soghāti za'farān o zereshk o nabāt kharidim.", "en": "We bought saffron, barberries and rock sugar as souvenirs."},
-  {"fa": "برای شام به شاندیز رفتیم و شیشلیک خوردیم.", "r": "barā-ye shām be Shāndiz raftim va shishlik khordim.", "en": "For dinner we went to Shandiz and ate shishlik."}
+  {
+   "fa": "زیارت قبول!",
+   "r": "ziyārat ghabul!",
+   "en": "May your pilgrimage be accepted!",
+   "note": "What Iranians say to someone who has just been on a pilgrimage.",
+   "faV": "زیارَت قَبول!",
+   "a": "e6573051304e"
+  },
+  {
+   "fa": "ببخشید، ورودی خانم‌ها کجاست؟",
+   "r": "bebakhshid, vorudi-ye khānom-hā kojāst?",
+   "en": "Excuse me, where is the women's entrance?",
+   "faV": "بِبَخشید، وُرودیِ خانُم‌ها کُجاست؟",
+   "a": "55f08a09d55e"
+  },
+  {
+   "fa": "خانم‌ها باید در حرم چادر سر کنند.",
+   "r": "khānom-hā bāyad dar haram chādor sar konand.",
+   "en": "Women must wear a chador in the shrine.",
+   "faV": "خانُم‌ها بایَد دَر حَرَم چادُر سَر کُنَند.",
+   "a": "95ee8b687615"
+  },
+  {
+   "fa": "می‌توانم چادر امانت بگیرم؟",
+   "r": "mi-tavānam chādor amānat be-giram?",
+   "en": "Can I borrow a chador?",
+   "col": "می‌تونم چادر امانت بگیرم؟",
+   "colR": "mi-tunam chādor amānat be-giram?",
+   "faV": "می‌تَوانَم چادُر اَمانَت بِگیرَم؟",
+   "a": "c5b29374529f",
+   "colV": "می‌تونَم چادُر اَمانَت بِگیرَم؟",
+   "colA": "2cbff7d1a411"
+  },
+  {
+   "fa": "گنبد طلای حرم از دور پیداست.",
+   "r": "gonbad-e talā-ye haram az dur peydāst.",
+   "en": "The golden dome of the shrine can be seen from far away.",
+   "faV": "گُنبَدِ طَلایِ حَرَم اَز دور پَیداست.",
+   "a": "7a2521a320b6"
+  },
+  {
+   "fa": "مسجد گوهرشاد را یک ملکه‌ی تیموری ساخت.",
+   "r": "Masjed-e Gowharshād rā yek malake-ye teymuri sākht.",
+   "en": "The Goharshad Mosque was built by a Timurid queen.",
+   "faV": "مَسجِدِ گَوهَرشاد را یِک مَلَکه‌یِ تَیموری ساخت.",
+   "a": "f39397bdf08d"
+  },
+  {
+   "fa": "شب جمعه حرم خیلی شلوغ است.",
+   "r": "shab-e jom'e haram kheyli sholugh ast.",
+   "en": "On Thursday night, the eve of Friday, the shrine is very crowded.",
+   "faV": "شَبِ جُمعه حَرَم خَیلی شُلوغ اَست.",
+   "a": "a048d40a4ede"
+  },
+  {
+   "fa": "آرامگاه فردوسی در توس است.",
+   "r": "ārāmgāh-e Ferdowsi dar Tus ast.",
+   "en": "Ferdowsi's tomb is in Tus.",
+   "faV": "آرامگاهِ فِردَوسی دَر توس اَست.",
+   "a": "c20e5e0e6a6b"
+  },
+  {
+   "fa": "زعفران را در پاییز با دست می‌چینند.",
+   "r": "za'farān rā dar pāyiz bā dast mi-chinand.",
+   "en": "Saffron is picked by hand in autumn.",
+   "faV": "زَعفَران را دَر پاییز با دَست می‌چینَند.",
+   "a": "0dfbf83feb7b"
+  },
+  {
+   "fa": "یک مثقال زعفران چند است؟",
+   "r": "yek mesghāl za'farān chand ast?",
+   "en": "How much is a mesghal of saffron?",
+   "col": "یه مثقال زعفران چنده؟",
+   "colR": "ye mesghāl za'farān chande?",
+   "faV": "یِک مِثقال زَعفَران چَند اَست؟",
+   "a": "f75724d7fef7",
+   "colV": "یه مِثقال زَعفَران چَنده؟",
+   "colA": "2fa0941112ac"
+  },
+  {
+   "fa": "برای سوغاتی زعفران و زرشک و نبات خریدیم.",
+   "r": "barā-ye soghāti za'farān o zereshk o nabāt kharidim.",
+   "en": "We bought saffron, barberries and rock sugar as souvenirs.",
+   "faV": "بَرایِ سوغاتی زَعفَران و زِرِشک و نَبات خَریدیم.",
+   "a": "2381f8ebc714"
+  },
+  {
+   "fa": "برای شام به شاندیز رفتیم و شیشلیک خوردیم.",
+   "r": "barā-ye shām be Shāndiz raftim va shishlik khordim.",
+   "en": "For dinner we went to Shandiz and ate shishlik.",
+   "faV": "بَرایِ شام به شاندیز رَفتیم و شیشلیک خوردیم.",
+   "a": "95d4104d9d24"
+  }
  ],
  "vocab": [
-  {"fa": "حرم", "r": "haram", "en": "shrine, sanctuary"},
-  {"fa": "زائر", "r": "zā'er", "en": "pilgrim"},
-  {"fa": "زیارت", "r": "ziyārat", "en": "pilgrimage, visit to a shrine"},
-  {"fa": "صحن", "r": "sahn", "en": "courtyard (of a shrine or mosque)"},
-  {"fa": "گنبد طلا", "r": "gonbad-e talā", "en": "golden dome"},
-  {"fa": "چادر", "r": "chādor", "en": "chador; tent"},
-  {"fa": "امانت گرفتن", "r": "amānat gereftan", "en": "to borrow"},
-  {"fa": "ملکه", "r": "malake", "en": "queen"},
-  {"fa": "زعفران", "r": "za'farān", "en": "saffron"},
-  {"fa": "زرشک", "r": "zereshk", "en": "barberry"},
-  {"fa": "نبات", "r": "nabāt", "en": "rock sugar"},
-  {"fa": "فیروزه", "r": "firuze", "en": "turquoise"},
-  {"fa": "مثقال", "r": "mesghāl", "en": "mesghal, a weight of about 4.6 g (for saffron and gold)"},
-  {"fa": "شلوغ", "r": "sholugh", "en": "crowded, busy"},
-  {"fa": "قبول", "r": "ghabul", "en": "accepted"},
-  {"fa": "مشتی", "r": "mashti", "en": "pilgrim to Mashhad; (slang) a decent, generous man"}
+  {
+   "fa": "حرم",
+   "r": "haram",
+   "en": "shrine, sanctuary",
+   "faV": "حَرَم",
+   "a": "5be2d43ad776"
+  },
+  {
+   "fa": "زائر",
+   "r": "zā'er",
+   "en": "pilgrim",
+   "faV": "زائِر",
+   "a": "6eb270636fed"
+  },
+  {
+   "fa": "زیارت",
+   "r": "ziyārat",
+   "en": "pilgrimage, visit to a shrine",
+   "faV": "زیارَت",
+   "a": "27362ea2949f"
+  },
+  {
+   "fa": "صحن",
+   "r": "sahn",
+   "en": "courtyard (of a shrine or mosque)",
+   "faV": "صَحن",
+   "a": "9073614ffb72"
+  },
+  {
+   "fa": "گنبد طلا",
+   "r": "gonbad-e talā",
+   "en": "golden dome",
+   "faV": "گُنبَدِ طَلا",
+   "a": "c6c8d2d3ee16"
+  },
+  {
+   "fa": "چادر",
+   "r": "chādor",
+   "en": "chador; tent",
+   "faV": "چادُر",
+   "a": "6917308bad57"
+  },
+  {
+   "fa": "امانت گرفتن",
+   "r": "amānat gereftan",
+   "en": "to borrow",
+   "faV": "اَمانَت گِرِفتَن",
+   "a": "1dab362b96ae"
+  },
+  {
+   "fa": "ملکه",
+   "r": "malake",
+   "en": "queen",
+   "faV": "مَلَکه",
+   "a": "dc0df71223a4"
+  },
+  {
+   "fa": "زعفران",
+   "r": "za'farān",
+   "en": "saffron",
+   "faV": "زَعفَران",
+   "a": "13452bbd3f73"
+  },
+  {
+   "fa": "زرشک",
+   "r": "zereshk",
+   "en": "barberry",
+   "faV": "زِرِشک",
+   "a": "bf4328f2a6de"
+  },
+  {
+   "fa": "نبات",
+   "r": "nabāt",
+   "en": "rock sugar",
+   "faV": "نَبات",
+   "a": "630ad5108c35"
+  },
+  {
+   "fa": "فیروزه",
+   "r": "firuze",
+   "en": "turquoise",
+   "faV": "فیروزه",
+   "a": "771f149e5c22"
+  },
+  {
+   "fa": "مثقال",
+   "r": "mesghāl",
+   "en": "mesghal, a weight of about 4.6 g (for saffron and gold)",
+   "faV": "مِثقال",
+   "a": "b4a0dac723ee"
+  },
+  {
+   "fa": "شلوغ",
+   "r": "sholugh",
+   "en": "crowded, busy",
+   "faV": "شُلوغ",
+   "a": "1d0afff107f1"
+  },
+  {
+   "fa": "قبول",
+   "r": "ghabul",
+   "en": "accepted",
+   "faV": "قَبول",
+   "a": "5c0203b7b3d6"
+  },
+  {
+   "fa": "مشتی",
+   "r": "mashti",
+   "en": "pilgrim to Mashhad; (slang) a decent, generous man",
+   "faV": "مَشتی",
+   "a": "ca02a0c9c1c4"
+  }
  ],
  "facts": [
   "Imam Reza, the eighth Shi'a imam, died near Tus in AD 818; Mashhad grew up around his tomb.",
@@ -75,5 +252,7 @@
   "Ferdowsi's tomb at Tus was built in the 1930s for the millennium of the poet's birth.",
   "Omar Khayyam's mausoleum in Nishapur, a lattice of stone designed by Houshang Seyhoun, was completed in 1963.",
   "A mesghal, the traditional unit for selling saffron and gold, weighs about 4.6 grams."
- ]
+ ],
+ "titleV": "مَشهَد",
+ "titleA": "c59c0f2eb6c5"
 }

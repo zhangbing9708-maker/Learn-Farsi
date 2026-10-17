@@ -26,7 +26,11 @@
      "r": "befarmāyid, in ham āpārtemān. tabaghe-ye sevvom ast o āsānsor dārad.",
      "en": "Here we are, this is the flat. It's on the third floor, and there's a lift.",
      "col": "بفرمایید، اینم آپارتمان. طبقه‌ی سومه و آسانسور داره.",
-     "colR": "befarmāyid, in-am āpārtemān. tabaghe-ye sevvom-e o āsānsor dāre."
+     "colR": "befarmāyid, in-am āpārtemān. tabaghe-ye sevvom-e o āsānsor dāre.",
+     "faV": "بِفَرمایید، این هَم آپارتِمان. طَبَقه‌یِ سِوُّم اَست و آسانسور دارَد.",
+     "a": "37ddd06a3843",
+     "colV": "بِفَرمایید، اینَم آپارتِمان. طَبَقه‌یِ سِوُّمه و آسانسور داره.",
+     "colA": "bb8c4c8d8b2f"
     },
     {
      "who": "Reza",
@@ -35,13 +39,19 @@
      "en": "How big is it?",
      "lit": "how many metres is it?",
      "col": "چند متره؟",
-     "colR": "chand metr-e?"
+     "colR": "chand metr-e?",
+     "faV": "چَند مِتر اَست؟",
+     "a": "abef17984748",
+     "colV": "چَند مِتره؟",
+     "colA": "6afeb119ea2f"
     },
     {
      "who": "Agent",
      "fa": "هشتاد و پنج متر، دوخوابه. پذیرایی‌اش هم خیلی نورگیر است.",
      "r": "hashtād o panj metr, do-khābe. pazirāyi-ash ham kheyli nur-gir ast.",
-     "en": "Eighty-five square metres, two bedrooms. And the living room gets a lot of light."
+     "en": "Eighty-five square metres, two bedrooms. And the living room gets a lot of light.",
+     "faV": "هَشتاد و پَنج مِتر، دوخوابه. پَذیرایی‌اَش هَم خَیلی نورگیر اَست.",
+     "a": "4ace60d2a5d5"
     },
     {
      "who": "Tom",
@@ -49,7 +59,11 @@
      "r": "in otāgh-e avval ast? barā-ye man kam-i kuchak ast.",
      "en": "Is this the first bedroom? It's a bit small for me.",
      "col": "این اتاق اوله؟ برام یه کم کوچیکه.",
-     "colR": "in otāgh-e avval-e? barā-m ye kam kuchik-e."
+     "colR": "in otāgh-e avval-e? barā-m ye kam kuchik-e.",
+     "faV": "این اُتاقِ اَوَّل اَست؟ بَرایِ مَن کَمی کوچَک اَست.",
+     "a": "c1a5b24ffab1",
+     "colV": "این اُتاقِ اَوَّله؟ بَرام یه کَم کوچیکه.",
+     "colA": "99a79f040ebc"
     },
     {
      "who": "Agent",
@@ -57,7 +71,11 @@
      "r": "otāgh-e dovvom bozorg-tar ast o bālkon dārad.",
      "en": "The second room is bigger and has a balcony.",
      "col": "اتاق دوم بزرگ‌تره و بالکن داره.",
-     "colR": "otāgh-e dovvom bozorg-tar-e o bālkon dāre."
+     "colR": "otāgh-e dovvom bozorg-tar-e o bālkon dāre.",
+     "faV": "اُتاقِ دُوُّم بُزُرگ‌تَر اَست و بالکُن دارَد.",
+     "a": "498c7464d565",
+     "colV": "اُتاقِ دُوُّم بُزُرگ‌تَره و بالکُن داره.",
+     "colA": "4f61b2bd62b2"
     },
     {
      "who": "Reza",
@@ -65,13 +83,19 @@
      "r": "khub ast. pārking o anbāri ham dārad?",
      "en": "Good. Does it come with a parking space and a storeroom?",
      "col": "خوبه. پارکینگ و انباری هم داره؟",
-     "colR": "khub-e. pārking o anbāri ham dāre?"
+     "colR": "khub-e. pārking o anbāri ham dāre?",
+     "faV": "خوب اَست. پارکینگ و اَنباری هَم دارَد؟",
+     "a": "71aa0914aae0",
+     "colV": "خوبه. پارکینگ و اَنباری هَم داره؟",
+     "colA": "b6e69bfa99df"
     },
     {
      "who": "Agent",
      "fa": "بله، هر دو در زیرزمین هستند.",
      "r": "bale, har do dar zir-zamin hastand.",
-     "en": "Yes, both are in the basement."
+     "en": "Yes, both are in the basement.",
+     "faV": "بَله، هَر دو دَر زیرزَمین هَستَند.",
+     "a": "8ca77c1d6fda"
     },
     {
      "who": "Tom",
@@ -79,7 +103,11 @@
      "r": "ejāre-ash cheghadr ast?",
      "en": "How much is the rent?",
      "col": "اجاره‌ش چقدره؟",
-     "colR": "ejāre-sh cheghadr-e?"
+     "colR": "ejāre-sh cheghadr-e?",
+     "faV": "اِجاره‌اَش چِقَدر اَست؟",
+     "a": "f58e23ffcbfd",
+     "colV": "اِجاره‌ش چِقَدره؟",
+     "colA": "32aa7eeadddb"
     },
     {
      "who": "Agent",
@@ -87,13 +115,19 @@
      "r": "sisad milyun tomān rahn o māh-i davāzdah milyun ejāre.",
      "en": "A deposit of three hundred million tomans, and twelve million a month in rent.",
      "col": "سیصد میلیون رهن، ماهی دوازده میلیون اجاره.",
-     "colR": "sisad milyun rahn, māh-i davāzdah milyun ejāre."
+     "colR": "sisad milyun rahn, māh-i davāzdah milyun ejāre.",
+     "faV": "سیصَد میلیون تومان رَهن و ماهی دَوازدَه میلیون اِجاره.",
+     "a": "e0b7bb54e507",
+     "colV": "سیصَد میلیون رَهن، ماهی دَوازدَه میلیون اِجاره.",
+     "colA": "a4a64e306427"
     },
     {
      "who": "Tom",
      "fa": "سیصد میلیون؟! من این‌قدر پول ندارم!",
      "r": "sisad milyun?! man in-ghadr pul na-dāram!",
-     "en": "Three hundred million?! I don't have that much money!"
+     "en": "Three hundred million?! I don't have that much money!",
+     "faV": "سیصَد میلیون؟! مَن این‌قَدر پول نَدارَم!",
+     "a": "0056a199f0d4"
     },
     {
      "who": "Reza",
@@ -101,7 +135,11 @@
      "r": "negarān na-bāsh, rahn rā ākhar-e gharārdād pas mi-dahand. pul-at gom nemi-shavad!",
      "en": "Don't worry, you get the deposit back at the end of the contract. Your money doesn't disappear!",
      "col": "نگران نباش، رهنو آخر قرارداد پس می‌دن. پولت گم نمی‌شه!",
-     "colR": "negarān na-bāsh, rahn-o ākhar-e gharārdād pas mi-dan. pul-et gom nemi-she!"
+     "colR": "negarān na-bāsh, rahn-o ākhar-e gharārdād pas mi-dan. pul-et gom nemi-she!",
+     "faV": "نِگَران نَباش، رَهن را آخَرِ قَرارداد پَس می‌دَهَند. پولَت گُم نِمی‌شَوَد!",
+     "a": "f42f90ec5708",
+     "colV": "نِگَران نَباش، رَهنو آخَرِ قَرارداد پَس می‌دَن. پولِت گُم نِمی‌شه!",
+     "colA": "0141b230df39"
     },
     {
      "who": "Reza",
@@ -109,7 +147,11 @@
      "r": "āghā, agar rahn rā kam-tar konim, ejāre cheghadr mi-shavad?",
      "en": "If we pay a smaller deposit, how much will the rent be?",
      "col": "آقا، اگه رهنو کمتر کنیم، اجاره چقدر می‌شه؟",
-     "colR": "āghā, age rahn-o kam-tar konim, ejāre cheghadr mi-she?"
+     "colR": "āghā, age rahn-o kam-tar konim, ejāre cheghadr mi-she?",
+     "faV": "آقا، اَگَر رَهن را کَمتَر کُنیم، اِجاره چِقَدر می‌شَوَد؟",
+     "a": "8dc3016c79d8",
+     "colV": "آقا، اَگه رَهنو کَمتَر کُنیم، اِجاره چِقَدر می‌شه؟",
+     "colA": "5da703034c31"
     },
     {
      "who": "Agent",
@@ -117,13 +159,19 @@
      "r": "ejāre bishtar mi-shavad. ammā sāheb-khāne ādam-e khub-i ast; emruz bā u sohbat mi-konam.",
      "en": "The rent goes up. But the landlord is a nice man; I'll talk to him today.",
      "col": "اجاره بیشتر می‌شه. ولی صاحب‌خونه آدم خوبیه؛ امروز باهاش صحبت می‌کنم.",
-     "colR": "ejāre bishtar mi-she. vali sāheb-khune ādam-e khub-i-ye; emruz bā-hāsh sohbat mi-konam."
+     "colR": "ejāre bishtar mi-she. vali sāheb-khune ādam-e khub-i-ye; emruz bā-hāsh sohbat mi-konam.",
+     "faV": "اِجاره بیشتَر می‌شَوَد. اَمّا صاحِب‌خانه آدَمِ خوبی اَست؛ اِمروز با او صُحبَت می‌کُنَم.",
+     "a": "56143dc6d3b4",
+     "colV": "اِجاره بیشتَر می‌شه. وَلی صاحِب‌خونه آدَمِ خوبیه؛ اِمروز باهاش صُحبَت می‌کُنَم.",
+     "colA": "bfeb900b099e"
     },
     {
      "who": "Tom",
      "fa": "خیلی ممنون. من این آپارتمان را دوست دارم، مخصوصاً بالکنش را!",
      "r": "kheyli mamnun. man in āpārtemān rā dust dāram, makhsusan bālkon-ash rā!",
-     "en": "Thanks very much. I like this flat – especially the balcony!"
+     "en": "Thanks very much. I like this flat – especially the balcony!",
+     "faV": "خَیلی مَمنون. مَن این آپارتِمان را دوست دارَم، مَخصوصاً بالکُنَش را!",
+     "a": "40d0c0004801"
     }
    ]
   },
@@ -144,21 +192,29 @@
      "ex": {
       "fa": "اجاره‌ی این خانه چقدر است؟",
       "r": "ejāre-ye in khāne cheghadr ast?",
-      "en": "How much is the rent on this house?"
-     }
+      "en": "How much is the rent on this house?",
+      "faV": "اِجاره‌یِ این خانه چِقَدر اَست؟",
+      "a": "3c1ebcd97c7d"
+     },
+     "faV": "اِجاره",
+     "a": "a2eba43332d4"
     },
     {
      "fa": "اجاره کردن",
      "r": "ejāre kardan",
      "en": "to rent",
-     "pos": "v"
+     "pos": "v",
+     "faV": "اِجاره کَردَن",
+     "a": "708a74d51631"
     },
     {
      "fa": "رهن",
      "r": "rahn",
      "en": "(rental) deposit",
      "pos": "n",
-     "note": "the large refundable deposit; in contracts also ودیعه vadi'e"
+     "note": "the large refundable deposit; in contracts also ودیعه vadi'e",
+     "faV": "رَهن",
+     "a": "d69b0a5fd66c"
     },
     {
      "fa": "صاحب‌خانه",
@@ -167,27 +223,37 @@
      "pos": "n",
      "note": "literally 'owner of the house'",
      "col": "صاحب‌خونه",
-     "colR": "sāheb-khune"
+     "colR": "sāheb-khune",
+     "faV": "صاحِب‌خانه",
+     "a": "f1daa7be6693",
+     "colV": "صاحِب‌خونه",
+     "colA": "3e6e948955ac"
     },
     {
      "fa": "مستأجر",
      "r": "mosta'jer",
      "en": "tenant",
-     "pos": "n"
+     "pos": "n",
+     "faV": "مُستَأجِر",
+     "a": "6724f3c4e577"
     },
     {
      "fa": "بنگاه",
      "r": "bongāh",
      "en": "estate agency",
      "pos": "n",
-     "note": "short for بنگاه املاک; the agent is a مشاور املاک moshāver-e amlāk"
+     "note": "short for بنگاه املاک; the agent is a مشاور املاک moshāver-e amlāk",
+     "faV": "بُنگاه",
+     "a": "65e2106423e9"
     },
     {
      "fa": "قرارداد",
      "r": "gharārdād",
      "en": "contract",
      "pos": "n",
-     "note": "a lease usually runs for one year"
+     "note": "a lease usually runs for one year",
+     "faV": "قَرارداد",
+     "a": "366cae5d2a2f"
     },
     {
      "fa": "طبقه",
@@ -197,91 +263,121 @@
      "ex": {
       "fa": "خانه‌ی ما در طبقه‌ی پنجم است.",
       "r": "khāne-ye mā dar tabaghe-ye panjom ast.",
-      "en": "Our flat is on the fifth floor."
-     }
+      "en": "Our flat is on the fifth floor.",
+      "faV": "خانه‌یِ ما دَر طَبَقه‌یِ پَنجُم اَست.",
+      "a": "900954f280d1"
+     },
+     "faV": "طَبَقه",
+     "a": "ead501c84d57"
     },
     {
      "fa": "همکف",
      "r": "hamkaf",
      "en": "ground floor",
      "pos": "n",
-     "note": "literally 'level with the floor'"
+     "note": "literally 'level with the floor'",
+     "faV": "هَمکَف",
+     "a": "9674168c6102"
     },
     {
      "fa": "زیرزمین",
      "r": "zir-zamin",
      "en": "basement",
-     "pos": "n"
+     "pos": "n",
+     "faV": "زیرزَمین",
+     "a": "c03da0bffeb3"
     },
     {
      "fa": "آسانسور",
      "r": "āsānsor",
      "en": "lift, elevator",
-     "pos": "n"
+     "pos": "n",
+     "faV": "آسانسور",
+     "a": "053f24e17099"
     },
     {
      "fa": "پارکینگ",
      "r": "pārking",
      "en": "parking space",
-     "pos": "n"
+     "pos": "n",
+     "faV": "پارکینگ",
+     "a": "f16c160835dc"
     },
     {
      "fa": "انباری",
      "r": "anbāri",
      "en": "storeroom",
      "pos": "n",
-     "note": "most Tehran flats come with a parking space and a small storeroom in the basement"
+     "note": "most Tehran flats come with a parking space and a small storeroom in the basement",
+     "faV": "اَنباری",
+     "a": "a91c393fe423"
     },
     {
      "fa": "اتاق خواب",
      "r": "otāgh-e khāb",
      "en": "bedroom",
-     "pos": "n"
+     "pos": "n",
+     "faV": "اُتاقِ خواب",
+     "a": "c603ad53eed5"
     },
     {
      "fa": "پذیرایی",
      "r": "pazirāyi",
      "en": "living room",
      "pos": "n",
-     "note": "literally 'reception', the room for guests; also called هال hāl"
+     "note": "literally 'reception', the room for guests; also called هال hāl",
+     "faV": "پَذیرایی",
+     "a": "0d5c41b9c112"
     },
     {
      "fa": "حمام",
      "r": "hammām",
      "en": "bathroom",
-     "pos": "n"
+     "pos": "n",
+     "faV": "حَمّام",
+     "a": "86166ba76dcd"
     },
     {
      "fa": "دستشویی",
      "r": "dast-shuyi",
      "en": "toilet; washbasin",
      "pos": "n",
-     "note": "literally 'hand-washing'"
+     "note": "literally 'hand-washing'",
+     "faV": "دَستشویی",
+     "a": "3728439a9cac"
     },
     {
      "fa": "بالکن",
      "r": "bālkon",
      "en": "balcony",
-     "pos": "n"
+     "pos": "n",
+     "faV": "بالکُن",
+     "a": "e5a7dede0031"
     },
     {
      "fa": "نوساز",
      "r": "now-sāz",
      "en": "newly built",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "نَوساز",
+     "a": "6697b3416f05"
     },
     {
      "fa": "نورگیر",
      "r": "nur-gir",
      "en": "bright, full of light",
      "pos": "adj",
-     "note": "literally 'light-catching'"
+     "note": "literally 'light-catching'",
+     "faV": "نورگیر",
+     "a": "fec6415e8955"
     },
     {
      "fa": "محله",
      "r": "mahalle",
      "en": "neighbourhood, district",
-     "pos": "n"
+     "pos": "n",
+     "faV": "مَحَلّه",
+     "a": "847e3c3afa95"
     },
     {
      "fa": "اسباب‌کشی کردن",
@@ -292,8 +388,12 @@
      "ex": {
       "fa": "ماه پیش اسباب‌کشی کردیم.",
       "r": "māh-e pish asbāb-keshi kardim.",
-      "en": "We moved house last month."
-     }
+      "en": "We moved house last month.",
+      "faV": "ماهِ پیش اَسباب‌کِشی کَردیم.",
+      "a": "35a9e9238387"
+     },
+     "faV": "اَسباب‌کِشی کَردَن",
+     "a": "1ecfdd212b47"
     }
    ]
   },
@@ -387,33 +487,45 @@
     {
      "fa": "آپارتمان در طبقه‌ی سوم است.",
      "r": "āpārtemān dar tabaghe-ye sevvom ast.",
-     "en": "The flat is on the third floor."
+     "en": "The flat is on the third floor.",
+     "faV": "آپارتِمان دَر طَبَقه‌یِ سِوُّم اَست.",
+     "a": "59db02b65f31"
     },
     {
      "fa": "این اولین خانه‌ی من در تهران است.",
      "r": "in avvalin khāne-ye man dar Tehrān ast.",
-     "en": "This is my first home in Tehran."
+     "en": "This is my first home in Tehran.",
+     "faV": "این اَوَّلین خانه‌یِ مَن دَر تِهران اَست.",
+     "a": "5aefc51b6f6a"
     },
     {
      "fa": "اتاق دوم کوچک‌تر است.",
      "r": "otāgh-e dovvom kuchak-tar ast.",
-     "en": "The second room is smaller."
+     "en": "The second room is smaller.",
+     "faV": "اُتاقِ دُوُّم کوچَک‌تَر اَست.",
+     "a": "543203e7879f"
     },
     {
      "fa": "برای اولین بار به یزد رفتم.",
      "r": "barā-ye avvalin bār be Yazd raftam.",
-     "en": "I went to Yazd for the first time."
+     "en": "I went to Yazd for the first time.",
+     "faV": "بَرایِ اَوَّلین بار به یَزد رَفتَم.",
+     "a": "417e695ffc0a"
     },
     {
      "fa": "تولد من بیست و یکم آبان است.",
      "r": "tavallod-e man bist o yekom-e Ābān ast.",
      "en": "My birthday is on the twenty-first of Aban.",
-     "note": "dates use ordinals; Aban is the eighth month, October–November"
+     "note": "dates use ordinals; Aban is the eighth month, October–November",
+     "faV": "تَوَلُّدِ مَن بیست و یِکُمِ آبان اَست.",
+     "a": "0aa0f39b4671"
     },
     {
      "fa": "خانه‌ی سارا در کوچه‌ی دوم، سمت راست است.",
      "r": "khāne-ye Sārā dar kuche-ye dovvom, samt-e rāst ast.",
-     "en": "Sara's house is in the second lane, on the right."
+     "en": "Sara's house is in the second lane, on the right.",
+     "faV": "خانه‌یِ سارا دَر کوچه‌یِ دُوُّم، سَمتِ راست اَست.",
+     "a": "798b44b72701"
     }
    ]
   },
@@ -479,32 +591,44 @@
     {
      "fa": "رهن این آپارتمان ۳۰۰ میلیون تومان است.",
      "r": "rahn-e in āpārtemān sisad milyun tomān ast.",
-     "en": "The deposit on this flat is 300 million tomans."
+     "en": "The deposit on this flat is 300 million tomans.",
+     "faV": "رَهنِ این آپارتِمان ۳۰۰ میلیون تومان اَست.",
+     "a": "80d64cdf37fd"
     },
     {
      "fa": "اجاره‌اش ماهی ۱۲ میلیون است.",
      "r": "ejāre-ash māh-i davāzdah milyun ast.",
-     "en": "The rent is 12 million a month."
+     "en": "The rent is 12 million a month.",
+     "faV": "اِجاره‌اَش ماهی ۱۲ میلیون اَست.",
+     "a": "6a6aa9184212"
     },
     {
      "fa": "قیمت این خانه دو میلیارد و چهارصد میلیون تومان است.",
      "r": "gheymat-e in khāne do milyārd o chahārsad milyun tomān ast.",
-     "en": "This house costs two billion four hundred million tomans."
+     "en": "This house costs two billion four hundred million tomans.",
+     "faV": "قَیمَتِ این خانه دو میلیارد و چَهارصَد میلیون تومان اَست.",
+     "a": "5a4a41947826"
     },
     {
      "fa": "تهران بیش از هشت میلیون نفر جمعیت دارد.",
      "r": "Tehrān bish az hasht milyun nafar jam'iyyat dārad.",
-     "en": "Tehran has a population of more than eight million."
+     "en": "Tehran has a population of more than eight million.",
+     "faV": "تِهران بیش اَز هَشت میلیون نَفَر جَمعیَّت دارَد.",
+     "a": "814efeff0d50"
     },
     {
      "fa": "هر ماه یک میلیون و پانصد هزار تومان پس‌انداز می‌کنم.",
      "r": "har māh yek milyun o pānsad hezār tomān pas-andāz mi-konam.",
-     "en": "Every month I save one and a half million tomans."
+     "en": "Every month I save one and a half million tomans.",
+     "faV": "هَر ماه یِک میلیون و پانصَد هِزار تومان پَس‌اَنداز می‌کُنَم.",
+     "a": "b491abc78aa8"
     },
     {
      "fa": "میلیون‌ها نفر در شهرهای بزرگ زندگی می‌کنند.",
      "r": "milyun-hā nafar dar shahr-hā-ye bozorg zendegi mi-konand.",
-     "en": "Millions of people live in the big cities."
+     "en": "Millions of people live in the big cities.",
+     "faV": "میلیون‌ها نَفَر دَر شَهرهایِ بُزُرگ زِندِگی می‌کُنَند.",
+     "a": "8401851fcecc"
     }
    ]
   },
@@ -575,34 +699,48 @@
     {
      "fa": "یک آپارتمان دوخوابه‌ی ۸۰ متری می‌خواهیم.",
      "r": "yek āpārtemān-e do-khābe-ye hashtād metri mi-khāhim.",
-     "en": "We want a two-bedroom flat of 80 square metres."
+     "en": "We want a two-bedroom flat of 80 square metres.",
+     "faV": "یِک آپارتِمانِ دوخوابه‌یِ ۸۰ مِتری می‌خواهیم.",
+     "a": "29198a09df32"
     },
     {
      "fa": "ساختمان پنج‌طبقه است و آسانسور دارد.",
      "r": "sākhtemān panj-tabaghe ast o āsānsor dārad.",
-     "en": "The building has five floors and a lift."
+     "en": "The building has five floors and a lift.",
+     "faV": "ساختِمان پَنج‌طَبَقه اَست و آسانسور دارَد.",
+     "a": "7a1bb567e109"
     },
     {
      "fa": "خانه نوساز و خیلی نورگیر است.",
      "r": "khāne now-sāz o kheyli nur-gir ast.",
-     "en": "The flat is new and very bright."
+     "en": "The flat is new and very bright.",
+     "faV": "خانه نَوساز و خَیلی نورگیر اَست.",
+     "a": "25191b217d72"
     },
     {
      "fa": "این آپارتمان مبله است؟",
      "r": "in āpārtemān moble ast?",
      "en": "Is this flat furnished?",
      "col": "این آپارتمان مبله‌ست؟",
-     "colR": "in āpārtemān moble-st?"
+     "colR": "in āpārtemān moble-st?",
+     "faV": "این آپارتِمان مُبله اَست؟",
+     "a": "f40b4461cf86",
+     "colV": "این آپارتِمان مُبله‌ست؟",
+     "colA": "8ac70ee14713"
     },
     {
      "fa": "ما در یک ساختمان ده‌ساله زندگی می‌کنیم.",
      "r": "mā dar yek sākhtemān-e dah-sāle zendegi mi-konim.",
-     "en": "We live in a ten-year-old building."
+     "en": "We live in a ten-year-old building.",
+     "faV": "ما دَر یِک ساختِمانِ دَه‌ساله زِندِگی می‌کُنیم.",
+     "a": "b9c20d9730fb"
     },
     {
      "fa": "خانه‌ی ما کوچک است، اما نزدیک مترو است.",
      "r": "khāne-ye mā kuchak ast, ammā nazdik-e metro ast.",
-     "en": "Our flat is small, but it's near the metro."
+     "en": "Our flat is small, but it's near the metro.",
+     "faV": "خانه‌یِ ما کوچَک اَست، اَمّا نَزدیکِ مِترو اَست.",
+     "a": "6087e5c61899"
     }
    ]
   },
@@ -614,62 +752,86 @@
     {
      "fa": "ما ماه پیش به یک آپارتمان جدید اسباب‌کشی کردیم.",
      "r": "mā māh-e pish be yek āpārtemān-e jadid asbāb-keshi kardim.",
-     "en": "Last month we moved into a new flat."
+     "en": "Last month we moved into a new flat.",
+     "faV": "ما ماهِ پیش به یِک آپارتِمانِ جَدید اَسباب‌کِشی کَردیم.",
+     "a": "d794177e5b7e"
     },
     {
      "fa": "آپارتمان ما در طبقه‌ی چهارم یک ساختمان شش‌طبقه است.",
      "r": "āpārtemān-e mā dar tabaghe-ye chahārom-e yek sākhtemān-e shesh-tabaghe ast.",
-     "en": "Our flat is on the fourth floor of a six-storey building."
+     "en": "Our flat is on the fourth floor of a six-storey building.",
+     "faV": "آپارتِمانِ ما دَر طَبَقه‌یِ چَهارُمِ یِک ساختِمانِ شِش‌طَبَقه اَست.",
+     "a": "11a046cd3b52"
     },
     {
      "fa": "ساختمان نوساز است و آسانسور، پارکینگ و انباری دارد.",
      "r": "sākhtemān now-sāz ast o āsānsor, pārking o anbāri dārad.",
-     "en": "The building is new, with a lift, parking and a storeroom."
+     "en": "The building is new, with a lift, parking and a storeroom.",
+     "faV": "ساختِمان نَوساز اَست و آسانسور، پارکینگ و اَنباری دارَد.",
+     "a": "885363900064"
     },
     {
      "fa": "خانه نود متر است و دو اتاق خواب دارد.",
      "r": "khāne navad metr ast o do otāgh-e khāb dārad.",
-     "en": "The flat is ninety square metres and has two bedrooms."
+     "en": "The flat is ninety square metres and has two bedrooms.",
+     "faV": "خانه نَوَد مِتر اَست و دو اُتاقِ خواب دارَد.",
+     "a": "0e71ee058fff"
     },
     {
      "fa": "اتاق اول مال ماست و اتاق دوم اتاق کار داریوش است.",
      "r": "otāgh-e avval māl-e mā-st o otāgh-e dovvom otāgh-e kār-e Dāriush ast.",
-     "en": "The first room is ours, and the second is Dariush's study."
+     "en": "The first room is ours, and the second is Dariush's study.",
+     "faV": "اُتاقِ اَوَّل مالِ ماست و اُتاقِ دُوُّم اُتاقِ کارِ داریوش اَست.",
+     "a": "17166e4dde4b"
     },
     {
      "fa": "آشپزخانه کوچک است، اما پذیرایی بزرگ و خیلی نورگیر است.",
      "r": "āshpaz-khāne kuchak ast, ammā pazirāyi bozorg o kheyli nur-gir ast.",
-     "en": "The kitchen is small, but the living room is big and very bright."
+     "en": "The kitchen is small, but the living room is big and very bright.",
+     "faV": "آشپَزخانه کوچَک اَست، اَمّا پَذیرایی بُزُرگ و خَیلی نورگیر اَست.",
+     "a": "bca6b525d353"
     },
     {
      "fa": "از بالکن، کوه‌های البرز را می‌بینیم.",
      "r": "az bālkon, kuh-hā-ye Alborz rā mi-binim.",
-     "en": "From the balcony we can see the Alborz mountains."
+     "en": "From the balcony we can see the Alborz mountains.",
+     "faV": "اَز بالکُن، کوه‌هایِ اَلبُرز را می‌بینیم.",
+     "a": "5cb942587c36"
     },
     {
      "fa": "رهن خانه چهارصد میلیون تومان است و ماهی ده میلیون تومان اجاره می‌دهیم.",
      "r": "rahn-e khāne chahārsad milyun tomān ast o māh-i dah milyun tomān ejāre mi-dahim.",
-     "en": "The deposit is four hundred million tomans, and we pay ten million tomans a month in rent."
+     "en": "The deposit is four hundred million tomans, and we pay ten million tomans a month in rent.",
+     "faV": "رَهنِ خانه چَهارصَد میلیون تومان اَست و ماهی دَه میلیون تومان اِجاره می‌دَهیم.",
+     "a": "0d266a188623"
     },
     {
      "fa": "برای رهن، از بانک وام گرفتیم.",
      "r": "barā-ye rahn, az bānk vām gereftim.",
-     "en": "We took out a bank loan for the deposit."
+     "en": "We took out a bank loan for the deposit.",
+     "faV": "بَرایِ رَهن، اَز بانک وام گِرِفتیم.",
+     "a": "fb821194a686"
     },
     {
      "fa": "همسایه‌های ما خیلی مهربان هستند.",
      "r": "ham-sāye-hā-ye mā kheyli mehrabān hastand.",
-     "en": "Our neighbours are very kind."
+     "en": "Our neighbours are very kind.",
+     "faV": "هَمسایه‌هایِ ما خَیلی مِهرَبان هَستَند.",
+     "a": "b9ec1ac16129"
     },
     {
      "fa": "روز اول، خانم طبقه‌ی پنجم برای ما یک کاسه آش آورد.",
      "r": "ruz-e avval, khānom-e tabaghe-ye panjom barā-ye mā yek kāse āsh āvard.",
-     "en": "On the first day, the lady from the fifth floor brought us a bowl of āsh."
+     "en": "On the first day, the lady from the fifth floor brought us a bowl of āsh.",
+     "faV": "روزِ اَوَّل، خانُمِ طَبَقه‌یِ پَنجُم بَرایِ ما یِک کاسه آش آوَرد.",
+     "a": "09b0e151c230"
     },
     {
      "fa": "حالا این‌جا واقعاً خانه‌ی ماست.",
      "r": "hālā in-jā vāghe'an khāne-ye mā-st.",
-     "en": "Now this place really is our home."
+     "en": "Now this place really is our home.",
+     "faV": "حالا این‌جا واقِعاً خانه‌یِ ماست.",
+     "a": "57882f44f259"
     }
    ],
    "questions": [
@@ -727,42 +889,58 @@
     {
      "fa": "اجاره",
      "r": "ejāre",
-     "en": "rent"
+     "en": "rent",
+     "faV": "اِجاره",
+     "a": "a2eba43332d4"
     },
     {
      "fa": "رهن",
      "r": "rahn",
-     "en": "deposit"
+     "en": "deposit",
+     "faV": "رَهن",
+     "a": "d69b0a5fd66c"
     },
     {
      "fa": "صاحب‌خانه",
      "r": "sāheb-khāne",
-     "en": "landlord"
+     "en": "landlord",
+     "faV": "صاحِب‌خانه",
+     "a": "f1daa7be6693"
     },
     {
      "fa": "مستأجر",
      "r": "mosta'jer",
-     "en": "tenant"
+     "en": "tenant",
+     "faV": "مُستَأجِر",
+     "a": "6724f3c4e577"
     },
     {
      "fa": "طبقه",
      "r": "tabaghe",
-     "en": "floor, storey"
+     "en": "floor, storey",
+     "faV": "طَبَقه",
+     "a": "ead501c84d57"
     },
     {
      "fa": "آسانسور",
      "r": "āsānsor",
-     "en": "lift"
+     "en": "lift",
+     "faV": "آسانسور",
+     "a": "053f24e17099"
     },
     {
      "fa": "پذیرایی",
      "r": "pazirāyi",
-     "en": "living room"
+     "en": "living room",
+     "faV": "پَذیرایی",
+     "a": "0d5c41b9c112"
     },
     {
      "fa": "همسایه",
      "r": "ham-sāye",
-     "en": "neighbour"
+     "en": "neighbour",
+     "faV": "هَمسایه",
+     "a": "1eebc0594655"
     }
    ]
   },
@@ -883,22 +1061,30 @@
     {
      "fa": "اتاق دوم بزرگ‌تر است و بالکن دارد.",
      "r": "otāgh-e dovvom bozorg-tar ast o bālkon dārad.",
-     "en": "The second room is bigger and has a balcony."
+     "en": "The second room is bigger and has a balcony.",
+     "faV": "اُتاقِ دُوُّم بُزُرگ‌تَر اَست و بالکُن دارَد.",
+     "a": "498c7464d565"
     },
     {
      "fa": "آپارتمان ما در طبقه‌ی چهارم است.",
      "r": "āpārtemān-e mā dar tabaghe-ye chahārom ast.",
-     "en": "Our flat is on the fourth floor."
+     "en": "Our flat is on the fourth floor.",
+     "faV": "آپارتِمانِ ما دَر طَبَقه‌یِ چَهارُم اَست.",
+     "a": "9348e1969915"
     },
     {
      "fa": "رهن این آپارتمان سیصد میلیون تومان است.",
      "r": "rahn-e in āpārtemān sisad milyun tomān ast.",
-     "en": "The deposit on this flat is three hundred million tomans."
+     "en": "The deposit on this flat is three hundred million tomans.",
+     "faV": "رَهنِ این آپارتِمان سیصَد میلیون تومان اَست.",
+     "a": "a5a5bad1e493"
     },
     {
      "fa": "ماه پیش به یک آپارتمان جدید اسباب‌کشی کردیم.",
      "r": "māh-e pish be yek āpārtemān-e jadid asbāb-keshi kardim.",
-     "en": "Last month we moved into a new flat."
+     "en": "Last month we moved into a new flat.",
+     "faV": "ماهِ پیش به یِک آپارتِمانِ جَدید اَسباب‌کِشی کَردیم.",
+     "a": "4cccb7e44cf2"
     }
    ]
   },
@@ -916,7 +1102,9 @@
       "The flat is on the second floor.",
       "The flat is on the twelfth floor."
      ],
-     "answer": 1
+     "answer": 1,
+     "faV": "آپارتِمان دَر طَبَقه‌یِ دُوُّم اَست.",
+     "a": "6f93eb6d9667"
     },
     {
      "fa": "اجاره‌اش چقدر است؟",
@@ -927,7 +1115,9 @@
       "Where is the flat?",
       "How big is it?"
      ],
-     "answer": 0
+     "answer": 0,
+     "faV": "اِجاره‌اَش چِقَدر اَست؟",
+     "a": "f58e23ffcbfd"
     },
     {
      "fa": "پذیرایی خیلی نورگیر است.",
@@ -938,7 +1128,9 @@
       "The living room is very small.",
       "The living room is very bright."
      ],
-     "answer": 2
+     "answer": 2,
+     "faV": "پَذیرایی خَیلی نورگیر اَست.",
+     "a": "661d5bdd5461"
     },
     {
      "fa": "ماهی ده میلیون تومان اجاره می‌دهیم.",
@@ -949,7 +1141,9 @@
       "We pay one million tomans a year.",
       "The flat costs ten million tomans."
      ],
-     "answer": 0
+     "answer": 0,
+     "faV": "ماهی دَه میلیون تومان اِجاره می‌دَهیم.",
+     "a": "069de8102a9a"
     }
    ]
   },
@@ -961,29 +1155,41 @@
     {
      "en": "The flat is on the third floor and has a lift.",
      "fa": "آپارتمان در طبقه‌ی سوم است و آسانسور دارد.",
-     "r": "āpārtemān dar tabaghe-ye sevvom ast o āsānsor dārad."
+     "r": "āpārtemān dar tabaghe-ye sevvom ast o āsānsor dārad.",
+     "faV": "آپارتِمان دَر طَبَقه‌یِ سِوُّم اَست و آسانسور دارَد.",
+     "a": "c7a15576499f"
     },
     {
      "en": "How much is the rent?",
      "fa": "اجاره‌اش چقدر است؟",
-     "r": "ejāre-ash cheghadr ast?"
+     "r": "ejāre-ash cheghadr ast?",
+     "faV": "اِجاره‌اَش چِقَدر اَست؟",
+     "a": "f58e23ffcbfd"
     },
     {
      "en": "We want a two-bedroom flat.",
      "fa": "یک آپارتمان دوخوابه می‌خواهیم.",
-     "r": "yek āpārtemān-e do-khābe mi-khāhim."
+     "r": "yek āpārtemān-e do-khābe mi-khāhim.",
+     "faV": "یِک آپارتِمانِ دوخوابه می‌خواهیم.",
+     "a": "2079598a8f8d"
     },
     {
      "en": "The second room is bigger.",
      "fa": "اتاق دوم بزرگ‌تر است.",
-     "r": "otāgh-e dovvom bozorg-tar ast."
+     "r": "otāgh-e dovvom bozorg-tar ast.",
+     "faV": "اُتاقِ دُوُّم بُزُرگ‌تَر اَست.",
+     "a": "d6ad4c48d6d4"
     },
     {
      "en": "This is the first time I've come to Isfahan.",
      "fa": "این اولین بار است که به اصفهان می‌آیم.",
-     "r": "in avvalin bār ast ke be Esfahān mi-āyam."
+     "r": "in avvalin bār ast ke be Esfahān mi-āyam.",
+     "faV": "این اَوَّلین بار اَست که به اِصفَهان می‌آیَم.",
+     "a": "2feaa8a31121"
     }
    ]
   }
- ]
+ ],
+ "titleV": "خانه‌یِ اِجاره‌ای",
+ "titleA": "f2f8a8904744"
 }

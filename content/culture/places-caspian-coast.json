@@ -37,36 +37,208 @@
   }
  ],
  "sentences": [
-  {"fa": "آخر هفته به شمال می‌رویم.", "r": "ākhar-e hafte be shomāl mi-ravim.", "en": "We're going up north at the weekend.", "col": "آخر هفته می‌ریم شمال.", "colR": "ākhar-e hafte mi-rim shomāl."},
-  {"fa": "در رشت زیاد باران می‌بارد؛ چترت را فراموش نکن!", "r": "dar Rasht ziyād bārān mi-bārad; chatr-at rā farāmush na-kon!", "en": "It rains a lot in Rasht – don't forget your umbrella!"},
-  {"fa": "بام خانه‌ی پایینی حیاط خانه‌ی بالایی است.", "r": "bām-e khāne-ye pāyini hayāt-e khāne-ye bālāyi ast.", "en": "The roof of the lower house is the yard of the house above."},
-  {"fa": "ماشین‌ها نمی‌توانند وارد ماسوله شوند.", "r": "māshin-hā nemi-tavānand vāred-e Māsule shavand.", "en": "Cars cannot enter Masuleh."},
-  {"fa": "قایق‌ها از اسکله‌ی انزلی به تالاب می‌روند.", "r": "ghāyegh-hā az eskele-ye Anzali be tālāb mi-ravand.", "en": "The boats go from the Anzali jetty out to the lagoon."},
-  {"fa": "یک میرزاقاسمی و یک باقلاقاتق، لطفاً.", "r": "yek mirzā-ghāsemi va yek bāghelā-ghātogh, lotfan.", "en": "One Mirza Ghasemi and one baghala ghatogh, please."},
-  {"fa": "این ماهی دودی است یا تازه؟", "r": "in māhi dudi ast yā tāze?", "en": "Is this fish smoked or fresh?"},
-  {"fa": "برنج هاشمی بهترین برنج گیلان است.", "r": "berenj-e hāshemi beh-tarin berenj-e Gilān ast.", "en": "Hashemi rice is the best rice in Gilan."},
-  {"fa": "چای لاهیجان را امتحان کنید.", "r": "chāy-e Lāhijān rā emtehān konid.", "en": "Try the Lahijan tea."},
-  {"fa": "در پاییز جنگل‌های شمال قرمز و زرد می‌شوند.", "r": "dar pāyiz jangal-hā-ye shomāl ghermez o zard mi-shavand.", "en": "In autumn the northern forests turn red and yellow."},
-  {"fa": "جاده‌ی چالوس آخر هفته‌ها خیلی شلوغ است.", "r": "jādde-ye Chālus ākhar-e hafte-hā kheyli sholugh ast.", "en": "The Chalus road is very busy at weekends."},
-  {"fa": "قطار از روی پل ورسک می‌گذرد.", "r": "ghatār az ru-ye Pol-e Veresk mi-gozarad.", "en": "The train crosses the Veresk Bridge."}
+  {
+   "fa": "آخر هفته به شمال می‌رویم.",
+   "r": "ākhar-e hafte be shomāl mi-ravim.",
+   "en": "We're going up north at the weekend.",
+   "col": "آخر هفته می‌ریم شمال.",
+   "colR": "ākhar-e hafte mi-rim shomāl.",
+   "faV": "آخَرِ هَفته به شُمال می‌رَویم.",
+   "a": "33c90eca1f89",
+   "colV": "آخَرِ هَفته می‌ریم شُمال.",
+   "colA": "e1a1f0627096"
+  },
+  {
+   "fa": "در رشت زیاد باران می‌بارد؛ چترت را فراموش نکن!",
+   "r": "dar Rasht ziyād bārān mi-bārad; chatr-at rā farāmush na-kon!",
+   "en": "It rains a lot in Rasht – don't forget your umbrella!",
+   "faV": "دَر رَشت زیاد باران می‌بارَد؛ چَترَت را فَراموش نَکُن!",
+   "a": "75fbcec8de7a"
+  },
+  {
+   "fa": "بام خانه‌ی پایینی حیاط خانه‌ی بالایی است.",
+   "r": "bām-e khāne-ye pāyini hayāt-e khāne-ye bālāyi ast.",
+   "en": "The roof of the lower house is the yard of the house above.",
+   "faV": "بامِ خانه‌یِ پایینی حَیاطِ خانه‌یِ بالایی اَست.",
+   "a": "d7e82faf4ef1"
+  },
+  {
+   "fa": "ماشین‌ها نمی‌توانند وارد ماسوله شوند.",
+   "r": "māshin-hā nemi-tavānand vāred-e Māsule shavand.",
+   "en": "Cars cannot enter Masuleh.",
+   "faV": "ماشین‌ها نِمی‌تَوانَند وارِدِ ماسوله شَوَند.",
+   "a": "9cfad8121a42"
+  },
+  {
+   "fa": "قایق‌ها از اسکله‌ی انزلی به تالاب می‌روند.",
+   "r": "ghāyegh-hā az eskele-ye Anzali be tālāb mi-ravand.",
+   "en": "The boats go from the Anzali jetty out to the lagoon.",
+   "faV": "قایِق‌ها اَز اِسکِله‌یِ اَنزَلی به تالاب می‌رَوَند.",
+   "a": "db923f81c631"
+  },
+  {
+   "fa": "یک میرزاقاسمی و یک باقلاقاتق، لطفاً.",
+   "r": "yek mirzā-ghāsemi va yek bāghelā-ghātogh, lotfan.",
+   "en": "One Mirza Ghasemi and one baghala ghatogh, please.",
+   "faV": "یِک میرزاقاسِمی و یِک باقِلاقاتُق، لُطفاً.",
+   "a": "1cf03b64c1f1"
+  },
+  {
+   "fa": "این ماهی دودی است یا تازه؟",
+   "r": "in māhi dudi ast yā tāze?",
+   "en": "Is this fish smoked or fresh?",
+   "faV": "این ماهی دودی اَست یا تازه؟",
+   "a": "24c6c48f1402"
+  },
+  {
+   "fa": "برنج هاشمی بهترین برنج گیلان است.",
+   "r": "berenj-e hāshemi beh-tarin berenj-e Gilān ast.",
+   "en": "Hashemi rice is the best rice in Gilan.",
+   "faV": "بِرِنجِ هاشِمی بِهتَرین بِرِنجِ گیلان اَست.",
+   "a": "4b3773db1fcc"
+  },
+  {
+   "fa": "چای لاهیجان را امتحان کنید.",
+   "r": "chāy-e Lāhijān rā emtehān konid.",
+   "en": "Try the Lahijan tea.",
+   "faV": "چایِ لاهیجان را اِمتِحان کُنید.",
+   "a": "dd9ab5ccf827"
+  },
+  {
+   "fa": "در پاییز جنگل‌های شمال قرمز و زرد می‌شوند.",
+   "r": "dar pāyiz jangal-hā-ye shomāl ghermez o zard mi-shavand.",
+   "en": "In autumn the northern forests turn red and yellow.",
+   "faV": "دَر پاییز جَنگَل‌هایِ شُمال قِرمِز و زَرد می‌شَوَند.",
+   "a": "4c412a89b12b"
+  },
+  {
+   "fa": "جاده‌ی چالوس آخر هفته‌ها خیلی شلوغ است.",
+   "r": "jādde-ye Chālus ākhar-e hafte-hā kheyli sholugh ast.",
+   "en": "The Chalus road is very busy at weekends.",
+   "faV": "جادّه‌یِ چالوس آخَرِ هَفته‌ها خَیلی شُلوغ اَست.",
+   "a": "fea240d4381d"
+  },
+  {
+   "fa": "قطار از روی پل ورسک می‌گذرد.",
+   "r": "ghatār az ru-ye Pol-e Veresk mi-gozarad.",
+   "en": "The train crosses the Veresk Bridge.",
+   "faV": "قَطار اَز رویِ پُلِ وِرِسک می‌گُذَرَد.",
+   "a": "95584416d474"
+  }
  ],
  "vocab": [
-  {"fa": "شمال", "r": "shomāl", "en": "north; (in Iran) the Caspian provinces"},
-  {"fa": "دریا", "r": "daryā", "en": "sea"},
-  {"fa": "ساحل", "r": "sāhel", "en": "shore, beach"},
-  {"fa": "باران", "r": "bārān", "en": "rain"},
-  {"fa": "چتر", "r": "chatr", "en": "umbrella"},
-  {"fa": "مه", "r": "meh", "en": "fog, mist"},
-  {"fa": "مرطوب", "r": "martub", "en": "humid, damp"},
-  {"fa": "جنگل", "r": "jangal", "en": "forest"},
-  {"fa": "شالیزار", "r": "shālizār", "en": "rice paddy"},
-  {"fa": "برنج", "r": "berenj", "en": "rice"},
-  {"fa": "باغ چای", "r": "bāgh-e chāy", "en": "tea garden, tea plantation"},
-  {"fa": "تالاب", "r": "tālāb", "en": "lagoon, wetland"},
-  {"fa": "قایق", "r": "ghāyegh", "en": "boat"},
-  {"fa": "ماهی", "r": "māhi", "en": "fish"},
-  {"fa": "خاویار", "r": "khāviyār", "en": "caviar"},
-  {"fa": "جاده", "r": "jādde", "en": "road"}
+  {
+   "fa": "شمال",
+   "r": "shomāl",
+   "en": "north; (in Iran) the Caspian provinces",
+   "faV": "شُمال",
+   "a": "a9f9760d31ed"
+  },
+  {
+   "fa": "دریا",
+   "r": "daryā",
+   "en": "sea",
+   "faV": "دَریا",
+   "a": "bba4d18a61d0"
+  },
+  {
+   "fa": "ساحل",
+   "r": "sāhel",
+   "en": "shore, beach",
+   "faV": "ساحِل",
+   "a": "8aeb54c4bda1"
+  },
+  {
+   "fa": "باران",
+   "r": "bārān",
+   "en": "rain",
+   "faV": "باران",
+   "a": "6c007847eb03"
+  },
+  {
+   "fa": "چتر",
+   "r": "chatr",
+   "en": "umbrella",
+   "faV": "چَتر",
+   "a": "4b8f15ffba9f"
+  },
+  {
+   "fa": "مه",
+   "r": "meh",
+   "en": "fog, mist",
+   "faV": "مِه",
+   "a": "19ee18736443"
+  },
+  {
+   "fa": "مرطوب",
+   "r": "martub",
+   "en": "humid, damp",
+   "faV": "مَرطوب",
+   "a": "60491391ef95"
+  },
+  {
+   "fa": "جنگل",
+   "r": "jangal",
+   "en": "forest",
+   "faV": "جَنگَل",
+   "a": "3b061673332d"
+  },
+  {
+   "fa": "شالیزار",
+   "r": "shālizār",
+   "en": "rice paddy",
+   "faV": "شالیزار",
+   "a": "84f9cd278b2a"
+  },
+  {
+   "fa": "برنج",
+   "r": "berenj",
+   "en": "rice",
+   "faV": "بِرِنج",
+   "a": "1df26caba216"
+  },
+  {
+   "fa": "باغ چای",
+   "r": "bāgh-e chāy",
+   "en": "tea garden, tea plantation",
+   "faV": "باغِ چای",
+   "a": "3d224784e2d0"
+  },
+  {
+   "fa": "تالاب",
+   "r": "tālāb",
+   "en": "lagoon, wetland",
+   "faV": "تالاب",
+   "a": "6008470ea8d8"
+  },
+  {
+   "fa": "قایق",
+   "r": "ghāyegh",
+   "en": "boat",
+   "faV": "قایِق",
+   "a": "ebf7237f3472"
+  },
+  {
+   "fa": "ماهی",
+   "r": "māhi",
+   "en": "fish",
+   "faV": "ماهی",
+   "a": "dd4f563e93ae"
+  },
+  {
+   "fa": "خاویار",
+   "r": "khāviyār",
+   "en": "caviar",
+   "faV": "خاویار",
+   "a": "c8a8bbcbdfb2"
+  },
+  {
+   "fa": "جاده",
+   "r": "jādde",
+   "en": "road",
+   "faV": "جادّه",
+   "a": "f74af9c695db"
+  }
  ],
  "facts": [
   "The Caspian is the largest enclosed body of water on Earth; its surface lies about 28 metres below sea level.",
@@ -76,5 +248,7 @@
   "The Trans-Iranian Railway, built between 1927 and 1938, became a UNESCO World Heritage Site in 2021.",
   "Golestan National Park, protected since 1957, is Iran's oldest national park.",
   "Gilaki and Mazandarani are Iranian languages in their own right, related to Persian."
- ]
+ ],
+ "titleV": "گیلان و مازَندَران",
+ "titleA": "23976251c919"
 }

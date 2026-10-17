@@ -14,22 +14,30 @@
     {
      "fa": "آخرین سه‌شنبه‌ی سال بود و از عصر صدای ترقه در همه‌ی کوچه‌ها شنیده می‌شد.",
      "r": "ākharin se-shanbe-ye sāl bud o az asr sedā-ye taraghghe dar hame-ye kuche-hā shenide mi-shod.",
-     "en": "It was the last Tuesday of the year, and from late afternoon the bang of firecrackers could be heard in every lane."
+     "en": "It was the last Tuesday of the year, and from late afternoon the bang of firecrackers could be heard in every lane.",
+     "faV": "آخَرین سه‌شَنبه‌یِ سال بود و اَز عَصر صِدایِ تَرَقّه دَر هَمه‌یِ کوچه‌ها شِنیده می‌شُد.",
+     "a": "d84a6a2746f0"
     },
     {
      "fa": "امیر و خواهر کوچکش سارا از صبح منتظر این شب بودند.",
      "r": "Amir o khāhar-e kuchak-ash Sārā az sobh montazer-e in shab budand.",
-     "en": "Amir and his little sister Sara had been waiting for this night since morning."
+     "en": "Amir and his little sister Sara had been waiting for this night since morning.",
+     "faV": "اَمیر و خواهَرِ کوچَکَش سارا اَز صُبح مُنتَظِرِ این شَب بودَند.",
+     "a": "559083167509"
     },
     {
      "fa": "پدرشان چند بغل بوته‌ی خشک از بیرون شهر آورده بود و همسایه‌ها آن‌ها را در کوچه در سه ردیف چیده بودند.",
      "r": "pedar-eshān chand baghal bute-ye khoshk az birun-e shahr āvarde bud o hamsāye-hā ān-hā rā dar kuche dar se radif chide budand.",
-     "en": "Their father had brought several armfuls of dry brushwood from outside the city, and the neighbours had laid it out in the lane in three rows."
+     "en": "Their father had brought several armfuls of dry brushwood from outside the city, and the neighbours had laid it out in the lane in three rows.",
+     "faV": "پِدَرِشان چَند بَغَل بوته‌یِ خُشک اَز بیرونِ شَهر آوَرده بود و هَمسایه‌ها آن‌ها را دَر کوچه دَر سه رَدیف چیده بودَند.",
+     "a": "7b34cc877d46"
     },
     {
      "fa": "مادربزرگ گفت که در کودکی او ترقه‌ای در کار نبود و مردم فقط آتش روشن می‌کردند و آواز می‌خواندند.",
      "r": "mādar-bozorg goft ke dar kudaki-ye u taraghghe-i dar kār na-bud o mardom faghat ātash rowshan mi-kardand o āvāz mi-khāndand.",
-     "en": "Grandmother said that when she was a child there were no firecrackers: people just lit fires and sang."
+     "en": "Grandmother said that when she was a child there were no firecrackers: people just lit fires and sang.",
+     "faV": "مادَربُزُرگ گُفت که دَر کودَکیِ او تَرَقّه‌ای دَر کار نَبود و مَردُم فَقَط آتَش رَوشَن می‌کَردَند و آواز می‌خواندَند.",
+     "a": "3193e497f11f"
     }
    ]
   },
@@ -38,27 +46,37 @@
     {
      "fa": "وقتی هوا تاریک شد، پدر بوته‌ها را آتش زد و شعله‌ها تا بالای دیوارها رسیدند.",
      "r": "vaghti havā tārik shod, pedar bute-hā rā ātash zad o sho'le-hā tā bālā-ye divār-hā residand.",
-     "en": "When it got dark, Father set fire to the brushwood, and the flames leapt as high as the tops of the walls."
+     "en": "When it got dark, Father set fire to the brushwood, and the flames leapt as high as the tops of the walls.",
+     "faV": "وَقتی هَوا تاریک شُد، پِدَر بوته‌ها را آتَش زَد و شُعله‌ها تا بالایِ دیوارها رِسیدَند.",
+     "a": "0be3ffea95e2"
     },
     {
      "fa": "همه یکی‌یکی از روی آتش پریدند و با صدای بلند گفتند: «زردی من از تو، سرخی تو از من!»",
      "r": "hame yeki-yeki az ru-ye ātash paridand o bā sedā-ye boland goftand: «zardi-ye man az to, sorkhi-ye to az man!»",
-     "en": "One by one everybody jumped over the fire, calling out: \"My yellow to you, your red to me!\""
+     "en": "One by one everybody jumped over the fire, calling out: \"My yellow to you, your red to me!\"",
+     "faV": "هَمه یِکی‌یِکی اَز رویِ آتَش پَریدَند و با صِدایِ بُلَند گُفتَند: «زَردیِ مَن اَز تو، سُرخیِ تو اَز مَن!»",
+     "a": "eac97cea1a73"
     },
     {
      "fa": "سارا اول می‌ترسید، اما امیر دستش را گرفت و با هم پریدند.",
      "r": "Sārā avval mi-tarsid, ammā Amir dast-ash rā gereft o bā ham paridand.",
-     "en": "Sara was scared at first, but Amir took her hand and they jumped together."
+     "en": "Sara was scared at first, but Amir took her hand and they jumped together.",
+     "faV": "سارا اَوَّل می‌تَرسید، اَمّا اَمیر دَستَش را گِرِفت و با هَم پَریدَند.",
+     "a": "d6f68e4c4bae"
     },
     {
      "fa": "مادربزرگ توضیح داد که با این جمله، زردی و بیماری را به آتش می‌دهیم و سرخی و سلامتی آن را می‌گیریم.",
      "r": "mādar-bozorg towzih dād ke bā in jomle, zardi o bimāri rā be ātash mi-dahim o sorkhi o salāmati-ye ān rā mi-girim.",
-     "en": "Grandmother explained that with these words we give our pallor and sickness to the fire and take its redness and health."
+     "en": "Grandmother explained that with these words we give our pallor and sickness to the fire and take its redness and health.",
+     "faV": "مادَربُزُرگ تَوضیح داد که با این جُمله، زَردی و بیماری را به آتَش می‌دَهیم و سُرخی و سَلامَتیِ آن را می‌گیریم.",
+     "a": "270e5f598267"
     },
     {
      "fa": "او گفت: «ایرانیان از هزاران سال پیش آتش را پاک می‌دانستند؛ برای همین نباید آن را با آب خاموش کرد.»",
      "r": "u goft: «irāniyān az hezārān sāl pish ātash rā pāk mi-dānestand; barā-ye hamin na-bāyad ān rā bā āb khāmush kard.»",
-     "en": "She said: \"For thousands of years Iranians have thought of fire as pure – that's why you must never put it out with water.\""
+     "en": "She said: \"For thousands of years Iranians have thought of fire as pure – that's why you must never put it out with water.\"",
+     "faV": "او گُفت: «ایرانیان اَز هِزاران سال پیش آتَش را پاک می‌دانِستَند؛ بَرایِ هَمین نَبایَد آن را با آب خاموش کَرد.»",
+     "a": "733a4bf26842"
     }
    ]
   },
@@ -67,27 +85,37 @@
     {
      "fa": "بعد بچه‌های کوچه چادر به سر کردند و برای قاشق‌زنی به در خانه‌ها رفتند.",
      "r": "ba'd bacche-hā-ye kuche chādor be sar kardand o barā-ye ghāshogh-zani be dar-e khāne-hā raftand.",
-     "en": "Then the children of the lane put chadors over their heads and went from door to door for qāshogh-zani, 'spoon-banging'."
+     "en": "Then the children of the lane put chadors over their heads and went from door to door for qāshogh-zani, 'spoon-banging'.",
+     "faV": "بَعد بَچّه‌هایِ کوچه چادُر به سَر کَردَند و بَرایِ قاشُق‌زَنی به دَرِ خانه‌ها رَفتَند.",
+     "a": "51f52b64161a"
     },
     {
      "fa": "آن‌ها با قاشق به کاسه می‌زدند، بی‌آنکه حرفی بزنند، تا صاحب‌خانه چیزی در کاسه‌شان بگذارد.",
      "r": "ān-hā bā ghāshogh be kāse mi-zadand, bi-ān-ke harf-i be-zanand, tā sāheb-khāne chiz-i dar kāse-shān be-gozārad.",
-     "en": "Without saying a word, they banged spoons against bowls until the people of the house put something into their bowls."
+     "en": "Without saying a word, they banged spoons against bowls until the people of the house put something into their bowls.",
+     "faV": "آن‌ها با قاشُق به کاسه می‌زَدَند، بی‌آنکه حَرفی بِزَنَند، تا صاحِب‌خانه چیزی دَر کاسه‌شان بِگُذارَد.",
+     "a": "b2e9b50c987f"
     },
     {
      "fa": "خانم احمدی، همسایه‌ی روبه‌رو، در کاسه‌ی سارا آجیل و شیرینی ریخت و گفت: «امیدوارم سال خوبی داشته باشید!»",
      "r": "khānom-e Ahmadi, hamsāye-ye ru-be-ru, dar kāse-ye Sārā ājil o shirini rikht o goft: «omidvār-am sāl-e khub-i dāshte bāshid!»",
-     "en": "Mrs Ahmadi, the neighbour across the lane, poured nuts and sweets into Sara's bowl and said: \"I hope you have a good year!\""
+     "en": "Mrs Ahmadi, the neighbour across the lane, poured nuts and sweets into Sara's bowl and said: \"I hope you have a good year!\"",
+     "faV": "خانُمِ اَحمَدی، هَمسایه‌یِ روبه‌رو، دَر کاسه‌یِ سارا آجیل و شیرینی ریخت و گُفت: «اُمیدوارَم سالِ خوبی داشته باشید!»",
+     "a": "615469397631"
     },
     {
      "fa": "این آجیل را آجیل مشکل‌گشا می‌نامند و می‌گویند هر کس آن را بخورد، گره از کارش باز می‌شود.",
      "r": "in ājil rā ājil-e moshkel-goshā mi-nāmand o mi-guyand har kas ān rā be-khorad, gereh az kār-ash bāz mi-shavad.",
-     "en": "This mixture of nuts is called 'problem-solving ājil', and they say whoever eats it will see the knots in their life come undone."
+     "en": "This mixture of nuts is called 'problem-solving ājil', and they say whoever eats it will see the knots in their life come undone.",
+     "faV": "این آجیل را آجیلِ مُشکِل‌گُشا می‌نامَند و می‌گویَند هَر کَس آن را بِخورَد، گِرِه اَز کارَش باز می‌شَوَد.",
+     "a": "8bac7b7bdb19"
     },
     {
      "fa": "مادر هم به رسم قدیم فال‌گوش ایستاد؛ یعنی پنهانی به حرف رهگذران گوش داد تا از آن، آینده‌ی سال نو را حدس بزند.",
      "r": "mādar ham be rasm-e ghadim fāl-gush istād; ya'ni penhāni be harf-e rahgozarān gush dād tā az ān, āyande-ye sāl-e now rā hads be-zanad.",
-     "en": "Mother, following the old custom, stood fāl-gush: she secretly listened to what passers-by were saying, to guess from it what the new year would bring."
+     "en": "Mother, following the old custom, stood fāl-gush: she secretly listened to what passers-by were saying, to guess from it what the new year would bring.",
+     "faV": "مادَر هَم به رَسمِ قَدیم فال‌گوش ایستاد؛ یَعنی پِنهانی به حَرفِ رَهگُذَران گوش داد تا اَز آن، آیَنده‌یِ سالِ نَو را حَدس بِزَنَد.",
+     "a": "97a570f8abc6"
     }
    ]
   },
@@ -96,43 +124,147 @@
     {
      "fa": "نزدیک نیمه‌شب، مادربزرگ یک کوزه‌ی کهنه را از پشت‌بام به کوچه انداخت تا بدبختی‌های سال کهنه هم همراه آن از خانه بیرون برود.",
      "r": "nazdik-e nime-shab, mādar-bozorg yek kuze-ye kohne rā az posht-bām be kuche andākht tā bad-bakhti-hā-ye sāl-e kohne ham hamrāh-e ān az khāne birun be-ravad.",
-     "en": "Near midnight Grandmother threw an old clay jug from the roof into the lane, so that the old year's bad luck would leave the house along with it."
+     "en": "Near midnight Grandmother threw an old clay jug from the roof into the lane, so that the old year's bad luck would leave the house along with it.",
+     "faV": "نَزدیکِ نیمه‌شَب، مادَربُزُرگ یِک کوزه‌یِ کُهنه را اَز پُشت‌بام به کوچه اَنداخت تا بَدبَختی‌هایِ سالِ کُهنه هَم هَمراهِ آن اَز خانه بیرون بِرَوَد.",
+     "a": "48a63a1f450c"
     },
     {
      "fa": "کوزه با صدای بلندی شکست و همه دست زدند.",
      "r": "kuze bā sedā-ye boland-i shekast o hame dast zadand.",
-     "en": "The jug smashed with a loud crash, and everyone clapped."
+     "en": "The jug smashed with a loud crash, and everyone clapped.",
+     "faV": "کوزه با صِدایِ بُلَندی شِکَست و هَمه دَست زَدَند.",
+     "a": "87f20ebca388"
     },
     {
      "fa": "پدر قبل از این‌که بچه‌ها بخوابند، به امیر گفت که هیچ‌وقت ترقه نخرد، چون هر سال عده‌ی زیادی در این شب زخمی می‌شوند.",
      "r": "pedar ghabl az in-ke bacche-hā be-khāband, be Amir goft ke hich-vaght taraghghe na-kharad, chon har sāl edde-ye ziyād-i dar in shab zakhmi mi-shavand.",
-     "en": "Before the children went to bed, Father told Amir never to buy firecrackers, because every year a lot of people get hurt on this night."
+     "en": "Before the children went to bed, Father told Amir never to buy firecrackers, because every year a lot of people get hurt on this night.",
+     "faV": "پِدَر قَبل اَز این‌که بَچّه‌ها بِخوابَند، به اَمیر گُفت که هیچ‌وَقت تَرَقّه نَخَرَد، چون هَر سال عِدّه‌یِ زیادی دَر این شَب زَخمی می‌شَوَند.",
+     "a": "899c7ffecd30"
     },
     {
      "fa": "سارا هنوز بوی دود می‌داد، اما با لبخند خوابید؛ تا نوروز فقط چند روز مانده بود.",
      "r": "Sārā hanuz bu-ye dud mi-dād, ammā bā labkhand khābid; tā nowruz faghat chand ruz mānde bud.",
-     "en": "Sara still smelled of smoke, but she fell asleep smiling: there were only a few days left until Nowruz."
+     "en": "Sara still smelled of smoke, but she fell asleep smiling: there were only a few days left until Nowruz.",
+     "faV": "سارا هَنوز بویِ دود می‌داد، اَمّا با لَبخَند خوابید؛ تا نَوروز فَقَط چَند روز مانده بود.",
+     "a": "1da24a136283"
     }
    ]
   }
  ],
  "vocab": [
-  {"fa": "سه‌شنبه", "r": "se-shanbe", "en": "Tuesday"},
-  {"fa": "ترقه", "r": "taraghghe", "en": "firecracker"},
-  {"fa": "بوته", "r": "bute", "en": "bush; brushwood"},
-  {"fa": "شعله", "r": "sho'le", "en": "flame"},
-  {"fa": "پریدن", "r": "paridan", "en": "to jump"},
-  {"fa": "زردی", "r": "zardi", "en": "yellowness, pallor"},
-  {"fa": "سرخی", "r": "sorkhi", "en": "redness, a healthy glow"},
-  {"fa": "خاموش کردن", "r": "khāmush kardan", "en": "to put out (a fire, a light)"},
-  {"fa": "قاشق‌زنی", "r": "ghāshogh-zani", "en": "'spoon-banging', going door to door on Chaharshanbe Suri"},
-  {"fa": "کاسه", "r": "kāse", "en": "bowl"},
-  {"fa": "آجیل", "r": "ājil", "en": "mixed nuts and dried fruit"},
-  {"fa": "مشکل‌گشا", "r": "moshkel-goshā", "en": "problem-solving"},
-  {"fa": "فال‌گوش", "r": "fāl-gush", "en": "listening in for omens; eavesdropping"},
-  {"fa": "کوزه", "r": "kuze", "en": "clay jug"},
-  {"fa": "پشت‌بام", "r": "posht-bām", "en": "(flat) roof"},
-  {"fa": "زخمی شدن", "r": "zakhmi shodan", "en": "to be injured"}
+  {
+   "fa": "سه‌شنبه",
+   "r": "se-shanbe",
+   "en": "Tuesday",
+   "faV": "سه‌شَنبه",
+   "a": "46865534e4ac"
+  },
+  {
+   "fa": "ترقه",
+   "r": "taraghghe",
+   "en": "firecracker",
+   "faV": "تَرَقّه",
+   "a": "a11ae2fd5954"
+  },
+  {
+   "fa": "بوته",
+   "r": "bute",
+   "en": "bush; brushwood",
+   "faV": "بوته",
+   "a": "3c5d09c38987"
+  },
+  {
+   "fa": "شعله",
+   "r": "sho'le",
+   "en": "flame",
+   "faV": "شُعله",
+   "a": "42b573833eec"
+  },
+  {
+   "fa": "پریدن",
+   "r": "paridan",
+   "en": "to jump",
+   "faV": "پَریدَن",
+   "a": "b2b02014a460"
+  },
+  {
+   "fa": "زردی",
+   "r": "zardi",
+   "en": "yellowness, pallor",
+   "faV": "زَردی",
+   "a": "33ec03b2b7c6"
+  },
+  {
+   "fa": "سرخی",
+   "r": "sorkhi",
+   "en": "redness, a healthy glow",
+   "faV": "سُرخی",
+   "a": "779d782a16dd"
+  },
+  {
+   "fa": "خاموش کردن",
+   "r": "khāmush kardan",
+   "en": "to put out (a fire, a light)",
+   "faV": "خاموش کَردَن",
+   "a": "331121d5307f"
+  },
+  {
+   "fa": "قاشق‌زنی",
+   "r": "ghāshogh-zani",
+   "en": "'spoon-banging', going door to door on Chaharshanbe Suri",
+   "faV": "قاشُق‌زَنی",
+   "a": "1943127f4a80"
+  },
+  {
+   "fa": "کاسه",
+   "r": "kāse",
+   "en": "bowl",
+   "faV": "کاسه",
+   "a": "e2ea37bba35e"
+  },
+  {
+   "fa": "آجیل",
+   "r": "ājil",
+   "en": "mixed nuts and dried fruit",
+   "faV": "آجیل",
+   "a": "2138287559aa"
+  },
+  {
+   "fa": "مشکل‌گشا",
+   "r": "moshkel-goshā",
+   "en": "problem-solving",
+   "faV": "مُشکِل‌گُشا",
+   "a": "92e60a784365"
+  },
+  {
+   "fa": "فال‌گوش",
+   "r": "fāl-gush",
+   "en": "listening in for omens; eavesdropping",
+   "faV": "فال‌گوش",
+   "a": "6af4b292b426"
+  },
+  {
+   "fa": "کوزه",
+   "r": "kuze",
+   "en": "clay jug",
+   "faV": "کوزه",
+   "a": "7f31a1d700d0"
+  },
+  {
+   "fa": "پشت‌بام",
+   "r": "posht-bām",
+   "en": "(flat) roof",
+   "faV": "پُشت‌بام",
+   "a": "e4c875b0ee69"
+  },
+  {
+   "fa": "زخمی شدن",
+   "r": "zakhmi shodan",
+   "en": "to be injured",
+   "faV": "زَخمی شُدَن",
+   "a": "a65f1a81cdc5"
+  }
  ],
  "questions": [
   {
@@ -181,5 +313,7 @@
    "answer": 0
   }
  ],
- "after": "Chaharshanbe Suri (چهارشنبه‌سوری) means 'Festive Wednesday' or 'Red Wednesday': سور is an old word for a feast, and سوری can also mean 'red'. It is held on the eve of the last Wednesday of the year, because in the traditional reckoning the night belongs to the day that follows. In زردی من از تو، سرخی تو از من, yellow is the colour of illness and red the colour of health: you hand your winter pallor to the fire and take its glow. Notice the passives شنیده می‌شد 'could be heard' and زخمی می‌شوند 'get injured', and the subjunctive after تا, بی‌آنکه and قبل از این‌که."
+ "after": "Chaharshanbe Suri (چهارشنبه‌سوری) means 'Festive Wednesday' or 'Red Wednesday': سور is an old word for a feast, and سوری can also mean 'red'. It is held on the eve of the last Wednesday of the year, because in the traditional reckoning the night belongs to the day that follows. In زردی من از تو، سرخی تو از من, yellow is the colour of illness and red the colour of health: you hand your winter pallor to the fire and take its glow. Notice the passives شنیده می‌شد 'could be heard' and زخمی می‌شوند 'get injured', and the subjunctive after تا, بی‌آنکه and قبل از این‌که.",
+ "titleV": "چَهارشَنبه‌سوری",
+ "titleA": "63171e1696a0"
 }

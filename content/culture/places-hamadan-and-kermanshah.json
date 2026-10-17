@@ -37,36 +37,204 @@
   }
  ],
  "sentences": [
-  {"fa": "همدان یکی از قدیمی‌ترین شهرهای ایران است.", "r": "Hamedān yek-i az ghadimi-tarin shahr-hā-ye Irān ast.", "en": "Hamadan is one of the oldest cities in Iran."},
-  {"fa": "نام قدیم همدان «هگمتانه» بود.", "r": "nām-e ghadim-e Hamedān «Hegmatāne» bud.", "en": "The old name of Hamadan was Hegmataneh (Ecbatana)."},
-  {"fa": "مردم فکر می‌کردند گنج‌نامه نقشه‌ی یک گنج است.", "r": "mardom fekr mi-kardand Ganj-nāme naghshe-ye yek ganj ast.", "en": "People thought the Ganjnameh was a map to a treasure."},
-  {"fa": "آرامگاه بوعلی‌سینا در مرکز همدان است.", "r": "ārāmgāh-e Bu-Ali-Sinā dar markaz-e Hamedān ast.", "en": "Avicenna's tomb is in the centre of Hamadan."},
-  {"fa": "باباطاهر دوبیتی‌هایش را به زبان محلی گفته است.", "r": "Bābā-tāher dobeyti-hā-yash rā be zabān-e mahalli gofte ast.", "en": "Baba Taher composed his quatrains in the local dialect."},
-  {"fa": "در غار علیصدر با قایق می‌روید.", "r": "dar ghār-e Alisadr bā ghāyegh mi-ravid.", "en": "In Ali Sadr cave you go by boat."},
-  {"fa": "داخل غار هوا خنک است؛ یک لباس گرم بیاورید.", "r": "dākhel-e ghār havā khonak ast; yek lebās-e garm bi-yāvarid.", "en": "It's cool inside the cave – bring something warm to wear."},
-  {"fa": "کتیبه‌ی بیستون به سه زبان نوشته شده است.", "r": "katibe-ye Bisotun be se zabān neveshte shode ast.", "en": "The Bisotun inscription is written in three languages."},
-  {"fa": "فرهاد برای شیرین کوه را کند.", "r": "Farhād barā-ye Shirin kuh rā kand.", "en": "Farhad dug through the mountain for Shirin."},
-  {"fa": "طاق بستان کنار یک چشمه‌ی زیباست.", "r": "Tāgh-e Bostān kenār-e yek cheshme-ye zibāst.", "en": "Taq-e Bostan is beside a beautiful spring."},
-  {"fa": "یک جعبه نان برنجی کرمانشاه، لطفاً.", "r": "yek ja'be nān-e berenji-ye Kermānshāh, lotfan.", "en": "A box of Kermanshah rice cookies, please."},
-  {"fa": "همدان تابستان‌ها خنک و زمستان‌ها خیلی سرد است.", "r": "Hamedān tābestān-hā khonak va zemestān-hā kheyli sard ast.", "en": "Hamadan is cool in summer and very cold in winter."}
+  {
+   "fa": "همدان یکی از قدیمی‌ترین شهرهای ایران است.",
+   "r": "Hamedān yek-i az ghadimi-tarin shahr-hā-ye Irān ast.",
+   "en": "Hamadan is one of the oldest cities in Iran.",
+   "faV": "هَمِدان یِکی اَز قَدیمی‌تَرین شَهرهایِ ایران اَست.",
+   "a": "9a8e24cc0db6"
+  },
+  {
+   "fa": "نام قدیم همدان «هگمتانه» بود.",
+   "r": "nām-e ghadim-e Hamedān «Hegmatāne» bud.",
+   "en": "The old name of Hamadan was Hegmataneh (Ecbatana).",
+   "faV": "نامِ قَدیمِ هَمِدان «هِگمَتانه» بود.",
+   "a": "b7d16fecf0a2"
+  },
+  {
+   "fa": "مردم فکر می‌کردند گنج‌نامه نقشه‌ی یک گنج است.",
+   "r": "mardom fekr mi-kardand Ganj-nāme naghshe-ye yek ganj ast.",
+   "en": "People thought the Ganjnameh was a map to a treasure.",
+   "faV": "مَردُم فِکر می‌کَردَند گَنج‌نامه نَقشه‌یِ یِک گَنج اَست.",
+   "a": "1db89c1bb147"
+  },
+  {
+   "fa": "آرامگاه بوعلی‌سینا در مرکز همدان است.",
+   "r": "ārāmgāh-e Bu-Ali-Sinā dar markaz-e Hamedān ast.",
+   "en": "Avicenna's tomb is in the centre of Hamadan.",
+   "faV": "آرامگاهِ بوعَلی‌سینا دَر مَرکَزِ هَمِدان اَست.",
+   "a": "ba3e90a69328"
+  },
+  {
+   "fa": "باباطاهر دوبیتی‌هایش را به زبان محلی گفته است.",
+   "r": "Bābā-tāher dobeyti-hā-yash rā be zabān-e mahalli gofte ast.",
+   "en": "Baba Taher composed his quatrains in the local dialect.",
+   "faV": "باباطاهِر دوبَیتی‌هایَش را به زَبانِ مَحَلّی گُفته اَست.",
+   "a": "44bcee0564c6"
+  },
+  {
+   "fa": "در غار علیصدر با قایق می‌روید.",
+   "r": "dar ghār-e Alisadr bā ghāyegh mi-ravid.",
+   "en": "In Ali Sadr cave you go by boat.",
+   "faV": "دَر غارِ عَلیصَدر با قایِق می‌رَوید.",
+   "a": "616125963d4e"
+  },
+  {
+   "fa": "داخل غار هوا خنک است؛ یک لباس گرم بیاورید.",
+   "r": "dākhel-e ghār havā khonak ast; yek lebās-e garm bi-yāvarid.",
+   "en": "It's cool inside the cave – bring something warm to wear.",
+   "faV": "داخِلِ غار هَوا خُنَک اَست؛ یِک لِباسِ گَرم بیاوَرید.",
+   "a": "d8420a345bb7"
+  },
+  {
+   "fa": "کتیبه‌ی بیستون به سه زبان نوشته شده است.",
+   "r": "katibe-ye Bisotun be se zabān neveshte shode ast.",
+   "en": "The Bisotun inscription is written in three languages.",
+   "faV": "کَتیبه‌یِ بیسُتون به سه زَبان نِوِشته شُده اَست.",
+   "a": "d0b9e273bdd6"
+  },
+  {
+   "fa": "فرهاد برای شیرین کوه را کند.",
+   "r": "Farhād barā-ye Shirin kuh rā kand.",
+   "en": "Farhad dug through the mountain for Shirin.",
+   "faV": "فَرهاد بَرایِ شیرین کوه را کَند.",
+   "a": "4fe2e9d27ffb"
+  },
+  {
+   "fa": "طاق بستان کنار یک چشمه‌ی زیباست.",
+   "r": "Tāgh-e Bostān kenār-e yek cheshme-ye zibāst.",
+   "en": "Taq-e Bostan is beside a beautiful spring.",
+   "faV": "طاقِ بُستان کِنارِ یِک چِشمه‌یِ زیباست.",
+   "a": "5e94c6af4080"
+  },
+  {
+   "fa": "یک جعبه نان برنجی کرمانشاه، لطفاً.",
+   "r": "yek ja'be nān-e berenji-ye Kermānshāh, lotfan.",
+   "en": "A box of Kermanshah rice cookies, please.",
+   "faV": "یِک جَعبه نانِ بِرِنجیِ کِرمانشاه، لُطفاً.",
+   "a": "22a840081ab7"
+  },
+  {
+   "fa": "همدان تابستان‌ها خنک و زمستان‌ها خیلی سرد است.",
+   "r": "Hamedān tābestān-hā khonak va zemestān-hā kheyli sard ast.",
+   "en": "Hamadan is cool in summer and very cold in winter.",
+   "faV": "هَمِدان تابِستان‌ها خُنَک و زِمِستان‌ها خَیلی سَرد اَست.",
+   "a": "1b4ac175404e"
+  }
  ],
  "vocab": [
-  {"fa": "کتیبه", "r": "katibe", "en": "inscription"},
-  {"fa": "خط میخی", "r": "khatt-e mikhi", "en": "cuneiform"},
-  {"fa": "سنگ‌نگاره", "r": "sang-negāre", "en": "rock relief"},
-  {"fa": "صخره", "r": "sakhre", "en": "rock, cliff"},
-  {"fa": "پادشاه", "r": "pādshāh", "en": "king"},
-  {"fa": "گنج", "r": "ganj", "en": "treasure"},
-  {"fa": "پزشک", "r": "pezeshk", "en": "doctor, physician"},
-  {"fa": "فیلسوف", "r": "filsuf", "en": "philosopher"},
-  {"fa": "دوبیتی", "r": "dobeyti", "en": "two-couplet poem, quatrain"},
-  {"fa": "عاشق", "r": "āshegh", "en": "lover; in love"},
-  {"fa": "زبان محلی", "r": "zabān-e mahalli", "en": "local dialect"},
-  {"fa": "سفال", "r": "sofāl", "en": "pottery, earthenware"},
-  {"fa": "چرم", "r": "charm", "en": "leather"},
-  {"fa": "شکار", "r": "shekār", "en": "hunting, hunt"},
-  {"fa": "اسب", "r": "asb", "en": "horse"},
-  {"fa": "قایق‌سواری", "r": "ghāyegh-savāri", "en": "boat ride"}
+  {
+   "fa": "کتیبه",
+   "r": "katibe",
+   "en": "inscription",
+   "faV": "کَتیبه",
+   "a": "11260b2b9be2"
+  },
+  {
+   "fa": "خط میخی",
+   "r": "khatt-e mikhi",
+   "en": "cuneiform",
+   "faV": "خَطِّ میخی",
+   "a": "37e8e072850b"
+  },
+  {
+   "fa": "سنگ‌نگاره",
+   "r": "sang-negāre",
+   "en": "rock relief",
+   "faV": "سَنگ‌نِگاره",
+   "a": "dc479bf978bf"
+  },
+  {
+   "fa": "صخره",
+   "r": "sakhre",
+   "en": "rock, cliff",
+   "faV": "صَخره",
+   "a": "4ed70016d1ac"
+  },
+  {
+   "fa": "پادشاه",
+   "r": "pādshāh",
+   "en": "king",
+   "faV": "پادشاه",
+   "a": "9f02731db003"
+  },
+  {
+   "fa": "گنج",
+   "r": "ganj",
+   "en": "treasure",
+   "faV": "گَنج",
+   "a": "ed83041ce403"
+  },
+  {
+   "fa": "پزشک",
+   "r": "pezeshk",
+   "en": "doctor, physician",
+   "faV": "پِزِشک",
+   "a": "dd5b8a2aa402"
+  },
+  {
+   "fa": "فیلسوف",
+   "r": "filsuf",
+   "en": "philosopher",
+   "faV": "فیلسوف",
+   "a": "7ce71007fa67"
+  },
+  {
+   "fa": "دوبیتی",
+   "r": "dobeyti",
+   "en": "two-couplet poem, quatrain",
+   "faV": "دوبَیتی",
+   "a": "79d7df8c0086"
+  },
+  {
+   "fa": "عاشق",
+   "r": "āshegh",
+   "en": "lover; in love",
+   "faV": "عاشِق",
+   "a": "9cd5308e8525"
+  },
+  {
+   "fa": "زبان محلی",
+   "r": "zabān-e mahalli",
+   "en": "local dialect",
+   "faV": "زَبانِ مَحَلّی",
+   "a": "e001f8b4edd8"
+  },
+  {
+   "fa": "سفال",
+   "r": "sofāl",
+   "en": "pottery, earthenware",
+   "faV": "سُفال",
+   "a": "950dbb14fec3"
+  },
+  {
+   "fa": "چرم",
+   "r": "charm",
+   "en": "leather",
+   "faV": "چَرم",
+   "a": "60edd32a2bac"
+  },
+  {
+   "fa": "شکار",
+   "r": "shekār",
+   "en": "hunting, hunt",
+   "faV": "شِکار",
+   "a": "02a5d24243fd"
+  },
+  {
+   "fa": "اسب",
+   "r": "asb",
+   "en": "horse",
+   "faV": "اَسب",
+   "a": "bd1e82315c6d"
+  },
+  {
+   "fa": "قایق‌سواری",
+   "r": "ghāyegh-savāri",
+   "en": "boat ride",
+   "faV": "قایِق‌سَواری",
+   "a": "3fd1024f05be"
+  }
  ],
  "facts": [
   "Hamadan, ancient Ecbatana, was the capital of the Medes.",
@@ -76,5 +244,7 @@
   "Henry Rawlinson's copies of the Bisotun inscription, made between 1835 and 1847, helped scholars decipher cuneiform.",
   "The reclining Hercules at Bisotun was carved in 148 BC for a Seleucid governor.",
   "The reliefs of Taq-e Bostan date from the Sasanian period, between the 4th and 7th centuries AD."
- ]
+ ],
+ "titleV": "هَمِدان و کِرمانشاه",
+ "titleA": "847adad9cd68"
 }

@@ -26,7 +26,11 @@
      "r": "salām Tām! kojā hasti? mā jelo-ye khāne-at hastim.",
      "en": "Hi Tom! Where are you? We're outside your house.",
      "col": "سلام تام! کجایی؟ ما جلوی خونه‌تیم.",
-     "colR": "salām Tām! kojāyi? mā jelo-ye khune-t-im."
+     "colR": "salām Tām! kojāyi? mā jelo-ye khune-t-im.",
+     "faV": "سَلام تام! کُجا هَستی؟ ما جِلویِ خانه‌اَت هَستیم.",
+     "a": "8e4b73d7c12a",
+     "colV": "سَلام تام! کُجایی؟ ما جِلویِ خونه‌تیم.",
+     "colA": "77bca192c750"
     },
     {
      "who": "Tom",
@@ -34,7 +38,11 @@
      "r": "salām! bebakhshid, alān mi-āyam. dāram kafsh-hā-yam rā mi-pusham.",
      "en": "Hi! Sorry, I'm just coming. I'm putting my shoes on.",
      "col": "سلام! ببخشید، الان میام. دارم کفشامو می‌پوشم.",
-     "colR": "salām! bebakhshid, alān miyām. dāram kafsh-ā-mo mi-pusham."
+     "colR": "salām! bebakhshid, alān miyām. dāram kafsh-ā-mo mi-pusham.",
+     "faV": "سَلام! بِبَخشید، اَلان می‌آیَم. دارَم کَفش‌هایَم را می‌پوشَم.",
+     "a": "1f2c85ff9d10",
+     "colV": "سَلام! بِبَخشید، اَلان میام. دارَم کَفشامو می‌پوشَم.",
+     "colA": "701b3a1dbade"
     },
     {
      "who": "Sara",
@@ -42,7 +50,11 @@
      "r": "Tām, nān ham dāri? mā barā-ye sobhāne nān na-kharidim.",
      "en": "Tom, have you got any bread? We didn't buy bread for breakfast.",
      "col": "تام، نون هم داری؟ ما واسه صبحونه نون نخریدیم.",
-     "colR": "Tām, nun ham dāri? mā vāse sobhune nun na-kharidim."
+     "colR": "Tām, nun ham dāri? mā vāse sobhune nun na-kharidim.",
+     "faV": "تام، نان هَم داری؟ ما بَرایِ صُبحانه نان نَخَریدیم.",
+     "a": "6be3a0de9add",
+     "colV": "تام، نون هَم داری؟ ما واسه صُبحونه نون نَخَریدیم.",
+     "colA": "9e9fdf86753b"
     },
     {
      "who": "Tom",
@@ -50,7 +62,11 @@
      "r": "na. ammā nānvāyi sar-e kuche ast. mi-tavānam bekharam.",
      "en": "No. But the bakery is at the end of the street. I can buy some.",
      "col": "نه. ولی نونوایی سر کوچه‌س. می‌تونم بخرم.",
-     "colR": "na. vali nunvāyi sar-e kuche-s. mi-tunam bekharam."
+     "colR": "na. vali nunvāyi sar-e kuche-s. mi-tunam bekharam.",
+     "faV": "نه. اَمّا نانوایی سَرِ کوچه اَست. می‌تَوانَم بِخَرَم.",
+     "a": "1342e057da91",
+     "colV": "نه. وَلی نونوایی سَرِ کوچه‌س. می‌تونَم بِخَرَم.",
+     "colA": "ad7a96e229c6"
     },
     {
      "who": "Reza",
@@ -58,7 +74,11 @@
      "r": "lāzem nist. Sārā mi-guyad ān-jā yek kāfe-ye khub hast.",
      "en": "No need. Sara says there's a good café up there.",
      "col": "لازم نیس. سارا می‌گه اون‌جا یه کافه‌ی خوب هس.",
-     "colR": "lāzem nis. Sārā mi-ge un-jā ye kāfe-ye khub has."
+     "colR": "lāzem nis. Sārā mi-ge un-jā ye kāfe-ye khub has.",
+     "faV": "لازِم نیست. سارا می‌گویَد آن‌جا یِک کافه‌یِ خوب هَست.",
+     "a": "b348fa59df5f",
+     "colV": "لازِم نیس. سارا می‌گه اون‌جا یه کافه‌یِ خوب هَس.",
+     "colA": "40caff9f1974"
     },
     {
      "who": "Sara",
@@ -66,7 +86,11 @@
      "r": "bale, sobhāne-ash kheyli khub ast. pedar o mādar-am ham ān-jā rā kheyli dust dārand.",
      "en": "Yes, the breakfast there is really good. My parents love the place too.",
      "col": "آره، صبحونه‌ش خیلی خوبه. بابا مامانم هم اون‌جا رو خیلی دوست دارن.",
-     "colR": "āre, sobhune-sh kheyli khub-e. bābā māmān-am ham un-jā ro kheyli dust dāran."
+     "colR": "āre, sobhune-sh kheyli khub-e. bābā māmān-am ham un-jā ro kheyli dust dāran.",
+     "faV": "بَله، صُبحانه‌اَش خَیلی خوب اَست. پِدَر و مادَرَم هَم آن‌جا را خَیلی دوست دارَند.",
+     "a": "61aab1274dde",
+     "colV": "آره، صُبحونه‌ش خَیلی خوبه. بابا مامانَم هَم اون‌جا رو خَیلی دوست دارَن.",
+     "colA": "c9f95e7d6131"
     },
     {
      "who": "Tom",
@@ -74,7 +98,11 @@
      "r": "bāshad. pas kif-am rā bar-mi-dāram o pāyin mi-āyam.",
      "en": "OK. Then I'll grab my bag and come down.",
      "col": "باشه. پس کیفمو برمی‌دارم میام پایین.",
-     "colR": "bāshe. pas kif-am-o bar-mi-dāram miyām pāyin."
+     "colR": "bāshe. pas kif-am-o bar-mi-dāram miyām pāyin.",
+     "faV": "باشَد. پَس کیفَم را بَرمی‌دارَم و پایین می‌آیَم.",
+     "a": "746162391103",
+     "colV": "باشه. پَس کیفَمو بَرمی‌دارَم میام پایین.",
+     "colA": "92cdac24ca8d"
     },
     {
      "who": "Reza",
@@ -82,7 +110,11 @@
      "r": "zud biyā! agar dir berasim, jā peydā nemi-konim.",
      "en": "Be quick! If we get there late, we won't find a table.",
      "col": "زود بیا! اگه دیر برسیم، جا پیدا نمی‌کنیم.",
-     "colR": "zud biyā! age dir berasim, jā peydā nemi-konim."
+     "colR": "zud biyā! age dir berasim, jā peydā nemi-konim.",
+     "faV": "زود بیا! اَگَر دیر بِرَسیم، جا پَیدا نِمی‌کُنیم.",
+     "a": "9231608e2ba3",
+     "colV": "زود بیا! اَگه دیر بِرَسیم، جا پَیدا نِمی‌کُنیم.",
+     "colA": "2562e6a85a88"
     },
     {
      "who": "Tom",
@@ -90,7 +122,11 @@
      "r": "dustān-etān ham mi-āyand?",
      "en": "Are your friends coming too?",
      "col": "دوستاتون هم میان؟",
-     "colR": "dust-ā-tun ham miyān?"
+     "colR": "dust-ā-tun ham miyān?",
+     "faV": "دوستانِتان هَم می‌آیَند؟",
+     "a": "312b40436faf",
+     "colV": "دوستاتون هَم میان؟",
+     "colA": "03f8910e14fb"
     },
     {
      "who": "Sara",
@@ -98,7 +134,11 @@
      "r": "Amir o Mahsā mi-āyand. māshin-eshān kharāb ast, bā tāksi mi-āyand.",
      "en": "Amir and Mahsa are coming. Their car has broken down, so they're coming by taxi.",
      "col": "امیر و مهسا میان. ماشینشون خرابه، با تاکسی میان.",
-     "colR": "Amir o Mahsā miyān. māshin-eshun kharāb-e, bā tāksi miyān."
+     "colR": "Amir o Mahsā miyān. māshin-eshun kharāb-e, bā tāksi miyān.",
+     "faV": "اَمیر و مَهسا می‌آیَند. ماشینِشان خَراب اَست، با تاکسی می‌آیَند.",
+     "a": "6da44e79b3c9",
+     "colV": "اَمیر و مَهسا میان. ماشینِشون خَرابه، با تاکسی میان.",
+     "colA": "19bc2c4e0fa0"
     },
     {
      "who": "Tom",
@@ -106,7 +146,11 @@
      "r": "mi-khāham emruz faghat fārsi harf bezanam. komak-am mi-konid?",
      "en": "I want to speak only Persian today. Will you help me?",
      "col": "می‌خوام امروز فقط فارسی حرف بزنم. کمکم می‌کنین؟",
-     "colR": "mi-khām emruz faghat fārsi harf bezanam. komak-am mi-konin?"
+     "colR": "mi-khām emruz faghat fārsi harf bezanam. komak-am mi-konin?",
+     "faV": "می‌خواهَم اِمروز فَقَط فارسی حَرف بِزَنَم. کُمَکَم می‌کُنید؟",
+     "a": "835c30200b7f",
+     "colV": "می‌خوام اِمروز فَقَط فارسی حَرف بِزَنَم. کُمَکَم می‌کُنین؟",
+     "colA": "b4ae87e43c79"
     },
     {
      "who": "Reza",
@@ -114,7 +158,11 @@
      "r": "hatman! man har chiz-i rā do bār mi-guyam: yek bār tond, yek bār āheste.",
      "en": "Of course! I'll say everything twice: once fast, once slowly.",
      "col": "حتماً! من هر چیزی رو دو بار می‌گم: یه بار تند، یه بار یواش.",
-     "colR": "hatman! man har chizi ro do bār mi-gam: ye bār tond, ye bār yavāsh."
+     "colR": "hatman! man har chizi ro do bār mi-gam: ye bār tond, ye bār yavāsh.",
+     "faV": "حَتماً! مَن هَر چیزی را دو بار می‌گویَم: یِک بار تُند، یِک بار آهِسته.",
+     "a": "e4c5350c5208",
+     "colV": "حَتماً! مَن هَر چیزی رو دو بار می‌گَم: یه بار تُند، یه بار یَواش.",
+     "colA": "828aac03935f"
     },
     {
      "who": "Sara",
@@ -122,7 +170,11 @@
      "r": "in rā ham bedān: dar ketāb-hā yek jur mi-nevisand, dar khiyābān yek jur-e digar harf mi-zanand.",
      "en": "And know this: in books people write one way, and in the street they talk another.",
      "col": "اینو هم بدون: تو کتابا یه جور می‌نویسن، تو خیابون یه جور دیگه حرف می‌زنن.",
-     "colR": "in-o ham bedun: tu ketāb-ā ye jur mi-nevisan, tu khiyābun ye jur-e dige harf mi-zanan."
+     "colR": "in-o ham bedun: tu ketāb-ā ye jur mi-nevisan, tu khiyābun ye jur-e dige harf mi-zanan.",
+     "faV": "این را هَم بِدان: دَر کِتاب‌ها یِک جور می‌نِویسَند، دَر خیابان یِک جورِ دیگَر حَرف می‌زَنَند.",
+     "a": "5f16dd497130",
+     "colV": "اینو هَم بِدون: تو کِتابا یه جور می‌نِویسَن، تو خیابون یه جورِ دیگه حَرف می‌زَنَن.",
+     "colA": "e5e23d1c8211"
     },
     {
      "who": "Tom",
@@ -130,7 +182,11 @@
      "r": "pas ketāb-hā-yam rā dar khāne mi-gozāram o faghat gush mi-konam!",
      "en": "Then I'll leave my books at home and just listen!",
      "col": "پس کتابامو تو خونه می‌ذارم و فقط گوش می‌کنم!",
-     "colR": "pas ketāb-ā-mo tu khune mi-zāram o faghat gush mi-konam!"
+     "colR": "pas ketāb-ā-mo tu khune mi-zāram o faghat gush mi-konam!",
+     "faV": "پَس کِتاب‌هایَم را دَر خانه می‌گُذارَم و فَقَط گوش می‌کُنَم!",
+     "a": "aeab412f08f8",
+     "colV": "پَس کِتابامو تو خونه می‌ذارَم و فَقَط گوش می‌کُنَم!",
+     "colA": "0931a45a17e8"
     }
    ]
   },
@@ -149,7 +205,11 @@
      "en": "bread",
      "pos": "n",
      "col": "نون",
-     "colR": "nun"
+     "colR": "nun",
+     "faV": "نان",
+     "a": "9787c0c0fc1e",
+     "colV": "نون",
+     "colA": "3b09344f4e3d"
     },
     {
      "fa": "خانه",
@@ -163,8 +223,16 @@
       "r": "emshab dar khāne hastim.",
       "en": "We're at home tonight.",
       "col": "امشب خونه‌ایم.",
-      "colR": "emshab khune-im."
-     }
+      "colR": "emshab khune-im.",
+      "faV": "اِمشَب دَر خانه هَستیم.",
+      "a": "8319180dfe0f",
+      "colV": "اِمشَب خونه‌ایم.",
+      "colA": "47fb935e4001"
+     },
+     "faV": "خانه",
+     "a": "1e0e4ac2e813",
+     "colV": "خونه",
+     "colA": "932489616f88"
     },
     {
      "fa": "نانوایی",
@@ -172,7 +240,11 @@
      "en": "bakery",
      "pos": "n",
      "col": "نونوایی",
-     "colR": "nunvāyi"
+     "colR": "nunvāyi",
+     "faV": "نانوایی",
+     "a": "72758770616e",
+     "colV": "نونوایی",
+     "colA": "86b0823bac96"
     },
     {
      "fa": "صبحانه",
@@ -180,7 +252,11 @@
      "en": "breakfast",
      "pos": "n",
      "col": "صبحونه",
-     "colR": "sobhune"
+     "colR": "sobhune",
+     "faV": "صُبحانه",
+     "a": "4c37a2a6e99d",
+     "colV": "صُبحونه",
+     "colA": "cc298b5a8dc2"
     },
     {
      "fa": "خیابان",
@@ -188,7 +264,11 @@
      "en": "street",
      "pos": "n",
      "col": "خیابون",
-     "colR": "khiyābun"
+     "colR": "khiyābun",
+     "faV": "خیابان",
+     "a": "3807383806c3",
+     "colV": "خیابون",
+     "colA": "a65bb1883f8d"
     },
     {
      "fa": "آن",
@@ -196,7 +276,11 @@
      "en": "that; he, she, it",
      "pos": "pron",
      "col": "اون",
-     "colR": "un"
+     "colR": "un",
+     "faV": "آن",
+     "a": "4e10cfbf239f",
+     "colV": "اون",
+     "colA": "83c620f763e1"
     },
     {
      "fa": "آن‌ها",
@@ -204,7 +288,11 @@
      "en": "they; those",
      "pos": "pron",
      "col": "اونا",
-     "colR": "unā"
+     "colR": "unā",
+     "faV": "آن‌ها",
+     "a": "72e45ecaae28",
+     "colV": "اونا",
+     "colA": "515ac0924184"
     },
     {
      "fa": "این‌ها",
@@ -213,7 +301,11 @@
      "pos": "pron",
      "col": "اینا",
      "colR": "inā",
-     "note": "also 'and the family': مامان اینا, Mum and the others"
+     "note": "also 'and the family': مامان اینا, Mum and the others",
+     "faV": "این‌ها",
+     "a": "a3349aab3c9e",
+     "colV": "اینا",
+     "colA": "dbf5c7a3cd2c"
     },
     {
      "fa": "کدام",
@@ -221,7 +313,11 @@
      "en": "which",
      "pos": "pron",
      "col": "کدوم",
-     "colR": "kodum"
+     "colR": "kodum",
+     "faV": "کُدام",
+     "a": "5665138ac7db",
+     "colV": "کُدوم",
+     "colA": "41b23aae3fe9"
     },
     {
      "fa": "تمام",
@@ -235,8 +331,16 @@
       "r": "kelās tamām shod.",
       "en": "The class is over.",
       "col": "کلاس تموم شد.",
-      "colR": "kelās tamum shod."
-     }
+      "colR": "kelās tamum shod.",
+      "faV": "کِلاس تَمام شُد.",
+      "a": "6cc500a5dfcd",
+      "colV": "کِلاس تَموم شُد.",
+      "colA": "aaf463ea445e"
+     },
+     "faV": "تَمام",
+     "a": "4d5ae2e2fef2",
+     "colV": "تَموم",
+     "colA": "9eeafdb960ec"
     },
     {
      "fa": "آمدن",
@@ -245,7 +349,11 @@
      "pos": "v",
      "col": "اومدن",
      "colR": "umadan",
-     "note": "spoken present: میام، میای، میاد، میایم، میاین، میان"
+     "note": "spoken present: میام، میای، میاد، میایم، میاین، میان",
+     "faV": "آمَدَن",
+     "a": "b956084a52b7",
+     "colV": "اومَدَن",
+     "colA": "69b84c337377"
     },
     {
      "fa": "یک",
@@ -254,7 +362,11 @@
      "pos": "num",
      "col": "یه",
      "colR": "ye",
-     "note": "when you count, it stays yek: yek, do, se"
+     "note": "when you count, it stays yek: yek, do, se",
+     "faV": "یِک",
+     "a": "068210b8275a",
+     "colV": "یه",
+     "colA": "4f42b915ca27"
     },
     {
      "fa": "دیگر",
@@ -262,7 +374,11 @@
      "en": "other; more, any more",
      "pos": "adj",
      "col": "دیگه",
-     "colR": "dige"
+     "colR": "dige",
+     "faV": "دیگَر",
+     "a": "7ad5327f9db2",
+     "colV": "دیگه",
+     "colA": "5e3fe4589148"
     },
     {
      "fa": "اگر",
@@ -270,7 +386,11 @@
      "en": "if",
      "pos": "conj",
      "col": "اگه",
-     "colR": "age"
+     "colR": "age",
+     "faV": "اَگَر",
+     "a": "b8e5aca5a153",
+     "colV": "اَگه",
+     "colA": "1a8813c4e654"
     },
     {
      "fa": "چه",
@@ -279,7 +399,11 @@
      "pos": "pron",
      "col": "چی",
      "colR": "chi",
-     "note": "only when it means 'what?'; in 'what a …!' it stays che: چه خوب! how nice!"
+     "note": "only when it means 'what?'; in 'what a …!' it stays che: چه خوب! how nice!",
+     "faV": "چه",
+     "a": "23f3070fb222",
+     "colV": "چی",
+     "colA": "05b4b528c904"
     },
     {
      "fa": "در",
@@ -288,7 +412,11 @@
      "pos": "prep",
      "col": "تو",
      "colR": "tu",
-     "note": "before a place it is often dropped altogether: خونه‌ام, I'm (at) home"
+     "note": "before a place it is often dropped altogether: خونه‌ام, I'm (at) home",
+     "faV": "دَر",
+     "a": "5bf04a1109e0",
+     "colV": "تو",
+     "colA": "51f03b86a43f"
     },
     {
      "fa": "برای",
@@ -297,7 +425,11 @@
      "pos": "prep",
      "col": "واسه",
      "colR": "vāse",
-     "note": "برای is said too, shortened before endings: برام، برات، براش"
+     "note": "برای is said too, shortened before endings: برام، برات، براش",
+     "faV": "بَرایِ",
+     "a": "3aef8d38106e",
+     "colV": "واسه",
+     "colA": "b84dd5c06341"
     },
     {
      "fa": "بله",
@@ -306,7 +438,11 @@
      "pos": "adv",
      "col": "آره",
      "colR": "āre",
-     "note": "āre is for friends and family; bale is polite and always safe"
+     "note": "āre is for friends and family; bale is polite and always safe",
+     "faV": "بَله",
+     "a": "9891baf1c8e2",
+     "colV": "آره",
+     "colA": "4748e5e7f673"
     },
     {
      "fa": "آهسته",
@@ -314,7 +450,11 @@
      "en": "slowly; quietly",
      "pos": "adv",
      "col": "یواش",
-     "colR": "yavāsh"
+     "colR": "yavāsh",
+     "faV": "آهِسته",
+     "a": "c3b860dbe9c8",
+     "colV": "یَواش",
+     "colA": "dfd3d07048c7"
     },
     {
      "fa": "جوان",
@@ -322,14 +462,20 @@
      "en": "young",
      "pos": "adj",
      "col": "جوون",
-     "colR": "javun"
+     "colR": "javun",
+     "faV": "جَوان",
+     "a": "ec8b926bd07f",
+     "colV": "جَوون",
+     "colA": "5d19e3c159ea"
     },
     {
      "fa": "خانم",
      "r": "khānom",
      "en": "Mrs, Ms; lady",
      "pos": "n",
-     "note": "an exception: it keeps its ā and never becomes 'khunom'"
+     "note": "an exception: it keeps its ā and never becomes 'khunom'",
+     "faV": "خانُم",
+     "a": "685dd16c41fc"
     },
     {
      "fa": "کتابی",
@@ -341,8 +487,14 @@
       "r": "u kheyli ketābi harf mi-zanad.",
       "en": "He talks like a book.",
       "col": "اون خیلی کتابی حرف می‌زنه.",
-      "colR": "un kheyli ketābi harf mi-zane."
-     }
+      "colR": "un kheyli ketābi harf mi-zane.",
+      "faV": "او خَیلی کِتابی حَرف می‌زَنَد.",
+      "a": "ef887b02cbe0",
+      "colV": "اون خَیلی کِتابی حَرف می‌زَنه.",
+      "colA": "37ade6b96316"
+     },
+     "faV": "کِتابی",
+     "a": "42098315b80a"
     }
    ]
   },
@@ -468,42 +620,66 @@
      "r": "nān o panir barā-ye sobhāne khub ast.",
      "en": "Bread and cheese are good for breakfast.",
      "col": "نون و پنیر واسه صبحونه خوبه.",
-     "colR": "nun o panir vāse sobhune khub-e."
+     "colR": "nun o panir vāse sobhune khub-e.",
+     "faV": "نان و پَنیر بَرایِ صُبحانه خوب اَست.",
+     "a": "55cab3263fe1",
+     "colV": "نون و پَنیر واسه صُبحونه خوبه.",
+     "colA": "58707d4196f5"
     },
     {
      "fa": "خانه‌ی ما در آن خیابان است.",
      "r": "khāne-ye mā dar ān khiyābān ast.",
      "en": "Our house is in that street.",
      "col": "خونه‌ی ما تو اون خیابونه.",
-     "colR": "khune-ye mā tu un khiyābun-e."
+     "colR": "khune-ye mā tu un khiyābun-e.",
+     "faV": "خانه‌یِ ما دَر آن خیابان اَست.",
+     "a": "67426f80d56c",
+     "colV": "خونه‌یِ ما تو اون خیابونه.",
+     "colA": "5fc455088684"
     },
     {
      "fa": "کدام را می‌خواهی؟",
      "r": "kodām rā mi-khāhi?",
      "en": "Which one do you want?",
      "col": "کدومو می‌خوای؟",
-     "colR": "kodum-o mi-khāy?"
+     "colR": "kodum-o mi-khāy?",
+     "faV": "کُدام را می‌خواهی؟",
+     "a": "e6c7fb1b25d7",
+     "colV": "کُدومو می‌خوای؟",
+     "colA": "729c39160941"
     },
     {
      "fa": "اگر باران بیاید، در خانه می‌مانیم.",
      "r": "agar bārān biyāyad, dar khāne mi-mānim.",
      "en": "If it rains, we'll stay at home.",
      "col": "اگه بارون بیاد، خونه می‌مونیم.",
-     "colR": "age bārun biyād, khune mi-munim."
+     "colR": "age bārun biyād, khune mi-munim.",
+     "faV": "اَگَر باران بیایَد، دَر خانه می‌مانیم.",
+     "a": "a4f1f70c07f3",
+     "colV": "اَگه بارون بیاد، خونه می‌مونیم.",
+     "colA": "599e85861109"
     },
     {
      "fa": "یک چای دیگر می‌خورید؟",
      "r": "yek chāy-e digar mi-khorid?",
      "en": "Will you have another tea?",
      "col": "یه چای دیگه می‌خورین؟",
-     "colR": "ye chāy-e dige mi-khorin?"
+     "colR": "ye chāy-e dige mi-khorin?",
+     "faV": "یِک چایِ دیگَر می‌خورید؟",
+     "a": "3f81618c08fe",
+     "colV": "یه چایِ دیگه می‌خورین؟",
+     "colA": "9abb07f3f703"
     },
     {
      "fa": "به خانه می‌روم، چون کلاس تمام شد.",
      "r": "be khāne mi-ravam, chon kelās tamām shod.",
      "en": "I'm going home, because the class is over.",
      "col": "می‌رم خونه، چون کلاس تموم شد.",
-     "colR": "mi-ram khune, chon kelās tamum shod."
+     "colR": "mi-ram khune, chon kelās tamum shod.",
+     "faV": "به خانه می‌رَوَم، چون کِلاس تَمام شُد.",
+     "a": "a8cc8906a9bf",
+     "colV": "می‌رَم خونه، چون کِلاس تَموم شُد.",
+     "colA": "1c0b271b8b02"
     }
    ]
   },
@@ -621,42 +797,66 @@
      "r": "Minā har ruz bā metro be dāneshgāh mi-ravad.",
      "en": "Mina goes to the university by metro every day.",
      "col": "مینا هر روز با مترو می‌ره دانشگاه.",
-     "colR": "Minā har ruz bā metro mi-re dāneshgāh."
+     "colR": "Minā har ruz bā metro mi-re dāneshgāh.",
+     "faV": "مینا هَر روز با مِترو به دانِشگاه می‌رَوَد.",
+     "a": "de8c6a0c5f10",
+     "colV": "مینا هَر روز با مِترو می‌ره دانِشگاه.",
+     "colA": "8df1231384c2"
     },
     {
      "fa": "می‌خواهم فارسی یاد بگیرم.",
      "r": "mi-khāham fārsi yād begiram.",
      "en": "I want to learn Persian.",
      "col": "می‌خوام فارسی یاد بگیرم.",
-     "colR": "mi-khām fārsi yād begiram."
+     "colR": "mi-khām fārsi yād begiram.",
+     "faV": "می‌خواهَم فارسی یاد بِگیرَم.",
+     "a": "b9703c296f4d",
+     "colV": "می‌خوام فارسی یاد بِگیرَم.",
+     "colA": "de0390c017ba"
     },
     {
      "fa": "نمی‌توانم بیایم، کار دارم.",
      "r": "nemi-tavānam biyāyam, kār dāram.",
      "en": "I can't come, I've got work to do.",
      "col": "نمی‌تونم بیام، کار دارم.",
-     "colR": "nemi-tunam biyām, kār dāram."
+     "colR": "nemi-tunam biyām, kār dāram.",
+     "faV": "نِمی‌تَوانَم بیایَم، کار دارَم.",
+     "a": "1b98d10ef0c7",
+     "colV": "نِمی‌تونَم بیام، کار دارَم.",
+     "colA": "86f8f473fb48"
     },
     {
      "fa": "به او چه می‌گویی؟",
      "r": "be u che mi-guyi?",
      "en": "What are you going to tell him?",
      "col": "بهش چی می‌گی؟",
-     "colR": "behesh chi mi-gi?"
+     "colR": "behesh chi mi-gi?",
+     "faV": "به او چه می‌گویی؟",
+     "a": "56fa77879208",
+     "colV": "بِهِش چی می‌گی؟",
+     "colA": "fb14baba6f4f"
     },
     {
      "fa": "رضا کجاست؟ خسته است؟",
      "r": "Rezā kojā-st? khaste ast?",
      "en": "Where's Reza? Is he tired?",
      "col": "رضا کجاس؟ خسته‌س؟",
-     "colR": "Rezā kojā-s? khaste-s?"
+     "colR": "Rezā kojā-s? khaste-s?",
+     "faV": "رِضا کُجاست؟ خَسته اَست؟",
+     "a": "175cf2b1b8c6",
+     "colV": "رِضا کُجاس؟ خَسته‌س؟",
+     "colA": "49e741a36e6e"
     },
     {
      "fa": "این کیف مال تو است؟",
      "r": "in kif māl-e to ast?",
      "en": "Is this bag yours?",
      "col": "این کیف مال توئه؟",
-     "colR": "in kif māl-e to-e?"
+     "colR": "in kif māl-e to-e?",
+     "faV": "این کیف مالِ تو اَست؟",
+     "a": "9c438058175b",
+     "colV": "این کیف مالِ توئه؟",
+     "colA": "31121f2f8a17"
     }
    ]
   },
@@ -739,42 +939,66 @@
      "r": "ketāb-hā-yetān rā āvardid?",
      "en": "Have you brought your books?",
      "col": "کتاباتونو آوردین؟",
-     "colR": "ketāb-ā-tun-o āvordin?"
+     "colR": "ketāb-ā-tun-o āvordin?",
+     "faV": "کِتاب‌هایِتان را آوَردید؟",
+     "a": "ed4b7870425b",
+     "colV": "کِتاباتونو آوُردین؟",
+     "colA": "975052495720"
     },
     {
      "fa": "دوستانشان را دیدم.",
      "r": "dustān-eshān rā didam.",
      "en": "I saw their friends.",
      "col": "دوستاشونو دیدم.",
-     "colR": "dust-ā-shun-o didam."
+     "colR": "dust-ā-shun-o didam.",
+     "faV": "دوستانِشان را دیدَم.",
+     "a": "c1aeb2a764d2",
+     "colV": "دوستاشونو دیدَم.",
+     "colA": "95408fd0729f"
     },
     {
      "fa": "اسمتان چیست؟",
      "r": "esm-etān chist?",
      "en": "What's your name?",
      "col": "اسمتون چیه؟",
-     "colR": "esm-etun chiye?"
+     "colR": "esm-etun chiye?",
+     "faV": "اِسمِتان چیست؟",
+     "a": "d2873d228315",
+     "colV": "اِسمِتون چیه؟",
+     "colA": "c34e76b17c74"
     },
     {
      "fa": "این را به او بگو.",
      "r": "in rā be u begu.",
      "en": "Tell him this.",
      "col": "اینو بهش بگو.",
-     "colR": "in-o behesh begu."
+     "colR": "in-o behesh begu.",
+     "faV": "این را به او بِگو.",
+     "a": "f93a31977349",
+     "colV": "اینو بِهِش بِگو.",
+     "colA": "7b081481b1fc"
     },
     {
      "fa": "خانه‌شان خیلی بزرگ است.",
      "r": "khāne-shān kheyli bozorg ast.",
      "en": "Their house is very big.",
      "col": "خونه‌شون خیلی بزرگه.",
-     "colR": "khune-shun kheyli bozorg-e."
+     "colR": "khune-shun kheyli bozorg-e.",
+     "faV": "خانه‌شان خَیلی بُزُرگ اَست.",
+     "a": "a2b108877c73",
+     "colV": "خونه‌شون خَیلی بُزُرگه.",
+     "colA": "2b7b7161021f"
     },
     {
      "fa": "با تو می‌آیم.",
      "r": "bā to mi-āyam.",
      "en": "I'll come with you.",
      "col": "باهات میام.",
-     "colR": "bāhāt miyām."
+     "colR": "bāhāt miyām.",
+     "faV": "با تو می‌آیَم.",
+     "a": "f585e0d4abf7",
+     "colV": "باهات میام.",
+     "colA": "6b25ca085d53"
     }
    ]
   },
@@ -788,77 +1012,121 @@
      "r": "salām Leylā jān, Minā hastam.",
      "en": "Hi Leila dear, it's Mina.",
      "col": "سلام لیلا جون، مینام.",
-     "colR": "salām Leylā jun, Minā-m."
+     "colR": "salām Leylā jun, Minā-m.",
+     "faV": "سَلام لَیلا جان، مینا هَستَم.",
+     "a": "4dd2ed3707ad",
+     "colV": "سَلام لَیلا جون، مینام.",
+     "colA": "d3f79423bbb7"
     },
     {
      "fa": "ببخشید که دیروز جواب ندادم؛ گوشی‌ام خاموش بود.",
      "r": "bebakhshid ke diruz javāb na-dādam; gushi-am khāmush bud.",
      "en": "Sorry I didn't answer yesterday – my phone was off.",
      "col": "ببخشید که دیروز جواب ندادم؛ گوشیم خاموش بود.",
-     "colR": "bebakhshid ke diruz javāb na-dādam; gushi-m khāmush bud."
+     "colR": "bebakhshid ke diruz javāb na-dādam; gushi-m khāmush bud.",
+     "faV": "بِبَخشید که دیروز جَواب نَدادَم؛ گوشی‌اَم خاموش بود.",
+     "a": "8587c0b34ded",
+     "colV": "بِبَخشید که دیروز جَواب نَدادَم؛ گوشیم خاموش بود.",
+     "colA": "c91537721de9"
     },
     {
      "fa": "ببین، فردا با بچه‌ها می‌خواهیم به سینما برویم.",
      "r": "bebin, fardā bā bacche-hā mi-khāhim be sinamā beravim.",
      "en": "Listen, tomorrow we're going to the cinema with the others.",
      "col": "ببین، فردا با بچه‌ها می‌خوایم بریم سینما.",
-     "colR": "bebin, fardā bā bacche-hā mi-khāyim berim sinamā."
+     "colR": "bebin, fardā bā bacche-hā mi-khāyim berim sinamā.",
+     "faV": "بِبین، فَردا با بَچّه‌ها می‌خواهیم به سینَما بِرَویم.",
+     "a": "d7862ad45c00",
+     "colV": "بِبین، فَردا با بَچّه‌ها می‌خوایم بِریم سینَما.",
+     "colA": "620f5050e8ff"
     },
     {
      "fa": "فیلم ساعت هفت شروع می‌شود.",
      "r": "film sā'at-e haft shoru' mi-shavad.",
      "en": "The film starts at seven.",
      "col": "فیلم ساعت هفت شروع می‌شه.",
-     "colR": "film sā'at-e haft shoru' mi-she."
+     "colR": "film sā'at-e haft shoru' mi-she.",
+     "faV": "فیلم ساعَتِ هَفت شُروع می‌شَوَد.",
+     "a": "2d04dc50a768",
+     "colV": "فیلم ساعَتِ هَفت شُروع می‌شه.",
+     "colA": "5be11a3962e6"
     },
     {
      "fa": "امیر و مهسا هم می‌آیند، اما رضا نمی‌تواند بیاید.",
      "r": "Amir o Mahsā ham mi-āyand, ammā Rezā nemi-tavānad biyāyad.",
      "en": "Amir and Mahsa are coming too, but Reza can't come.",
      "col": "امیر و مهسا هم میان، ولی رضا نمی‌تونه بیاد.",
-     "colR": "Amir o Mahsā ham miyān, vali Rezā nemi-tune biyād."
+     "colR": "Amir o Mahsā ham miyān, vali Rezā nemi-tune biyād.",
+     "faV": "اَمیر و مَهسا هَم می‌آیَند، اَمّا رِضا نِمی‌تَوانَد بیایَد.",
+     "a": "60418c19b92d",
+     "colV": "اَمیر و مَهسا هَم میان، وَلی رِضا نِمی‌تونه بیاد.",
+     "colA": "973eaa4dc104"
     },
     {
      "fa": "می‌گوید امتحان دارد و باید درس بخواند.",
      "r": "mi-guyad emtehān dārad o bāyad dars bekhānad.",
      "en": "He says he has an exam and has to study.",
      "col": "می‌گه امتحان داره و باید درس بخونه.",
-     "colR": "mi-ge emtehān dāre o bāyad dars bekhune."
+     "colR": "mi-ge emtehān dāre o bāyad dars bekhune.",
+     "faV": "می‌گویَد اِمتِحان دارَد و بایَد دَرس بِخوانَد.",
+     "a": "4e5fef7939e5",
+     "colV": "می‌گه اِمتِحان داره و بایَد دَرس بِخونه.",
+     "colA": "335eb3c9adfd"
     },
     {
      "fa": "تو هم می‌آیی؟",
      "r": "to ham mi-āyi?",
      "en": "Are you coming too?",
      "col": "تو هم میای؟",
-     "colR": "to ham miyāy?"
+     "colR": "to ham miyāy?",
+     "faV": "تو هَم می‌آیی؟",
+     "a": "a4ba445b89d3",
+     "colV": "تو هَم میای؟",
+     "colA": "5314be6f94b3"
     },
     {
      "fa": "اگر می‌آیی، بلیت تو را هم می‌خرم.",
      "r": "agar mi-āyi, belit-e to rā ham mi-kharam.",
      "en": "If you are, I'll buy your ticket as well.",
      "col": "اگه میای، بلیت تو رو هم می‌خرم.",
-     "colR": "age miyāy, belit-e to ro ham mi-kharam."
+     "colR": "age miyāy, belit-e to ro ham mi-kharam.",
+     "faV": "اَگَر می‌آیی، بِلیتِ تو را هَم می‌خَرَم.",
+     "a": "be1313fcdc3e",
+     "colV": "اَگه میای، بِلیتِ تو رو هَم می‌خَرَم.",
+     "colA": "087a051b08bb"
     },
     {
      "fa": "بعد از فیلم، شام را در خانه‌ی ما می‌خوریم.",
      "r": "ba'd az film, shām rā dar khāne-ye mā mi-khorim.",
      "en": "After the film we'll have dinner at our place.",
      "col": "بعد از فیلم، شامو خونه‌ی ما می‌خوریم.",
-     "colR": "ba'd az film, shām-o khune-ye mā mi-khorim."
+     "colR": "ba'd az film, shām-o khune-ye mā mi-khorim.",
+     "faV": "بَعد اَز فیلم، شام را دَر خانه‌یِ ما می‌خوریم.",
+     "a": "4eb7abcc6983",
+     "colV": "بَعد اَز فیلم، شامو خونه‌یِ ما می‌خوریم.",
+     "colA": "53a1ad44083b"
     },
     {
      "fa": "مادرم گفته است که آش رشته درست می‌کند!",
      "r": "mādar-am gofte ast ke āsh-e reshte dorost mi-konad!",
      "en": "My mum says she's making āsh-e reshte!",
      "col": "مامانم گفته آش رشته درست می‌کنه!",
-     "colR": "māmān-am gofte āsh-e reshte dorost mi-kone!"
+     "colR": "māmān-am gofte āsh-e reshte dorost mi-kone!",
+     "faV": "مادَرَم گُفته اَست که آشِ رِشته دُرُست می‌کُنَد!",
+     "a": "ba34b11a7bf8",
+     "colV": "مامانَم گُفته آشِ رِشته دُرُست می‌کُنه!",
+     "colA": "097cd3a14257"
     },
     {
      "fa": "به من پیام بده یا زنگ بزن.",
      "r": "be man payām bedeh yā zang bezan.",
      "en": "Send me a message or give me a ring.",
      "col": "بهم پیام بده یا زنگ بزن.",
-     "colR": "behem payām bede yā zang bezan."
+     "colR": "behem payām bede yā zang bezan.",
+     "faV": "به مَن پَیام بِدِه یا زَنگ بِزَن.",
+     "a": "772332294e88",
+     "colV": "بِهِم پَیام بِده یا زَنگ بِزَن.",
+     "colA": "a5b82d611ba0"
     },
     {
      "fa": "قربانت بروم، خداحافظ!",
@@ -866,7 +1134,11 @@
      "en": "Lots of love, bye!",
      "lit": "may I be sacrificed for you, God keep you",
      "col": "قربونت برم، خدافظ!",
-     "colR": "ghorbun-et beram, khodāfez!"
+     "colR": "ghorbun-et beram, khodāfez!",
+     "faV": "قُربانَت بِرَوَم، خُداحافِظ!",
+     "a": "2a12d361cd93",
+     "colV": "قُربونِت بِرَم، خُدافِظ!",
+     "colA": "afb2352c48fc"
     }
    ],
    "questions": [
@@ -925,42 +1197,58 @@
     {
      "fa": "می‌خواهم",
      "r": "mi-khāham",
-     "en": "mi-khām (I want)"
+     "en": "mi-khām (I want)",
+     "faV": "می‌خواهَم",
+     "a": "6c042f617b36"
     },
     {
      "fa": "می‌توانم",
      "r": "mi-tavānam",
-     "en": "mi-tunam (I can)"
+     "en": "mi-tunam (I can)",
+     "faV": "می‌تَوانَم",
+     "a": "495a0eeed143"
     },
     {
      "fa": "می‌گویم",
      "r": "mi-guyam",
-     "en": "mi-gam (I say)"
+     "en": "mi-gam (I say)",
+     "faV": "می‌گویَم",
+     "a": "5799691e87ad"
     },
     {
      "fa": "می‌رود",
      "r": "mi-ravad",
-     "en": "mi-re (he / she goes)"
+     "en": "mi-re (he / she goes)",
+     "faV": "می‌رَوَد",
+     "a": "f1e7deadffee"
     },
     {
      "fa": "نان",
      "r": "nān",
-     "en": "nun (bread)"
+     "en": "nun (bread)",
+     "faV": "نان",
+     "a": "9787c0c0fc1e"
     },
     {
      "fa": "خانه",
      "r": "khāne",
-     "en": "khune (house)"
+     "en": "khune (house)",
+     "faV": "خانه",
+     "a": "1e0e4ac2e813"
     },
     {
      "fa": "دیگر",
      "r": "digar",
-     "en": "dige (other, more)"
+     "en": "dige (other, more)",
+     "faV": "دیگَر",
+     "a": "7ad5327f9db2"
     },
     {
      "fa": "آن‌ها",
      "r": "ān-hā",
-     "en": "unā (they)"
+     "en": "unā (they)",
+     "faV": "آن‌ها",
+     "a": "72e45ecaae28"
     }
    ]
   },
@@ -1081,22 +1369,30 @@
     {
      "fa": "نمی‌توانم بیایم، کار دارم.",
      "r": "nemi-tavānam biyāyam, kār dāram.",
-     "en": "I can't come, I've got work to do."
+     "en": "I can't come, I've got work to do.",
+     "faV": "نِمی‌تَوانَم بیایَم، کار دارَم.",
+     "a": "1b98d10ef0c7"
     },
     {
      "fa": "این را به او بگو.",
      "r": "in rā be u begu.",
-     "en": "Tell him this."
+     "en": "Tell him this.",
+     "faV": "این را به او بِگو.",
+     "a": "f93a31977349"
     },
     {
      "fa": "خانه‌ی ما در آن خیابان است.",
      "r": "khāne-ye mā dar ān khiyābān ast.",
-     "en": "Our house is in that street."
+     "en": "Our house is in that street.",
+     "faV": "خانه‌یِ ما دَر آن خیابان اَست.",
+     "a": "67426f80d56c"
     },
     {
      "fa": "فیلم ساعت هفت شروع می‌شود.",
      "r": "film sā'at-e haft shoru' mi-shavad.",
-     "en": "The film starts at seven."
+     "en": "The film starts at seven.",
+     "faV": "فیلم ساعَتِ هَفت شُروع می‌شَوَد.",
+     "a": "2d04dc50a768"
     }
    ]
   },
@@ -1114,7 +1410,9 @@
       "می‌خوای بری خونه؟",
       "می‌خوان برن خونه."
      ],
-     "answer": 0
+     "answer": 0,
+     "faV": "می‌خواهَم به خانه بِرَوَم.",
+     "a": "4438ca88c612"
     },
     {
      "fa": "آن‌ها کجا هستند؟",
@@ -1125,7 +1423,9 @@
       "اونا کجان؟",
       "اینا کجان؟"
      ],
-     "answer": 1
+     "answer": 1,
+     "faV": "آن‌ها کُجا هَستَند؟",
+     "a": "24f25aa716ba"
     },
     {
      "fa": "کتاب‌هایت را آوردی؟",
@@ -1136,7 +1436,9 @@
       "کتاباتو آوردی؟",
       "کتاباشو آورد؟"
      ],
-     "answer": 1
+     "answer": 1,
+     "faV": "کِتاب‌هایَت را آوَردی؟",
+     "a": "28fbbccdfd35"
     },
     {
      "fa": "اگر باران بیاید، در خانه می‌مانیم.",
@@ -1147,7 +1449,9 @@
       "اگه بارون اومد، رفتیم خونه.",
       "بارون میاد، خونه بمونین."
      ],
-     "answer": 0
+     "answer": 0,
+     "faV": "اَگَر باران بیایَد، دَر خانه می‌مانیم.",
+     "a": "a4f1f70c07f3"
     }
    ]
   },
@@ -1161,37 +1465,59 @@
      "fa": "خانه‌ات کجاست؟",
      "r": "khāne-at kojā-st?",
      "col": "خونه‌ت کجاس؟",
-     "colR": "khune-t kojā-s?"
+     "colR": "khune-t kojā-s?",
+     "faV": "خانه‌اَت کُجاست؟",
+     "a": "713941de0c83",
+     "colV": "خونه‌ت کُجاس؟",
+     "colA": "0a9ef6f84bae"
     },
     {
      "en": "I can't come tomorrow.",
      "fa": "فردا نمی‌توانم بیایم.",
      "r": "fardā nemi-tavānam biyāyam.",
      "col": "فردا نمی‌تونم بیام.",
-     "colR": "fardā nemi-tunam biyām."
+     "colR": "fardā nemi-tunam biyām.",
+     "faV": "فَردا نِمی‌تَوانَم بیایَم.",
+     "a": "a3a9749147d9",
+     "colV": "فَردا نِمی‌تونَم بیام.",
+     "colA": "90b1f08b369d"
     },
     {
      "en": "What is he saying?",
      "fa": "او چه می‌گوید؟",
      "r": "u che mi-guyad?",
      "col": "اون چی می‌گه؟",
-     "colR": "un chi mi-ge?"
+     "colR": "un chi mi-ge?",
+     "faV": "او چه می‌گویَد؟",
+     "a": "e7892b4c3cdb",
+     "colV": "اون چی می‌گه؟",
+     "colA": "5c6219963473"
     },
     {
      "en": "Their car is really nice.",
      "fa": "ماشینشان خیلی قشنگ است.",
      "r": "māshin-eshān kheyli ghashang ast.",
      "col": "ماشینشون خیلی قشنگه.",
-     "colR": "māshin-eshun kheyli ghashang-e."
+     "colR": "māshin-eshun kheyli ghashang-e.",
+     "faV": "ماشینِشان خَیلی قَشَنگ اَست.",
+     "a": "2265a451669b",
+     "colV": "ماشینِشون خَیلی قَشَنگه.",
+     "colA": "e8d442271e39"
     },
     {
      "en": "Another tea for me, please.",
      "fa": "لطفاً یک چای دیگر به من بدهید.",
      "r": "lotfan yek chāy-e digar be man bedahid.",
      "col": "لطفاً یه چای دیگه بهم بدین.",
-     "colR": "lotfan ye chāy-e dige behem bedin."
+     "colR": "lotfan ye chāy-e dige behem bedin.",
+     "faV": "لُطفاً یِک چایِ دیگَر به مَن بِدَهید.",
+     "a": "cb8f9b6ce49e",
+     "colV": "لُطفاً یه چایِ دیگه بِهِم بِدین.",
+     "colA": "b93607fab81b"
     }
    ]
   }
- ]
+ ],
+ "titleV": "زَبانِ کوچه و بازار",
+ "titleA": "88820b7ea723"
 }

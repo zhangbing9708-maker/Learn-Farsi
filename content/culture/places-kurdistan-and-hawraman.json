@@ -36,36 +36,204 @@
   }
  ],
  "sentences": [
-  {"fa": "مردم کردستان به زبان کردی حرف می‌زنند.", "r": "mardom-e Kordestān be zabān-e kordi harf mi-zanand.", "en": "The people of Kurdistan speak Kurdish."},
-  {"fa": "کردی و فارسی هر دو زبان‌های ایرانی هستند.", "r": "kordi va fārsi har do zabān-hā-ye irāni hastand.", "en": "Kurdish and Persian are both Iranian languages."},
-  {"fa": "در اورامان خانه‌ها مثل پله روی کوه ساخته شده‌اند.", "r": "dar Owrāmān khāne-hā mesl-e pelle ru-ye kuh sākhte shode-and.", "en": "In Hawraman the houses are built like steps up the mountain."},
-  {"fa": "این روستا گردو و توت زیادی دارد.", "r": "in rustā gerdu va tut-e ziyād-i dārad.", "en": "This village has lots of walnuts and mulberries."},
-  {"fa": "صدای دف مثل باران است.", "r": "sedā-ye daf mesl-e bārān ast.", "en": "The sound of the daf is like rain."},
-  {"fa": "در عروسی‌های کردی همه هلپرکه می‌رقصند.", "r": "dar arusi-hā-ye kordi hame halparke mi-raghsand.", "en": "At Kurdish weddings everyone dances the halparke."},
-  {"fa": "کاک احمد، خیلی ممنون!", "r": "Kāk Ahmad, kheyli mamnun!", "en": "Thank you very much, Kak Ahmad!"},
-  {"fa": "این کلاش را با دست بافته‌اند.", "r": "in klāsh rā bā dast bāfte-and.", "en": "These klash shoes were woven by hand."},
-  {"fa": "جشن پیرشالیار در زمستان برگزار می‌شود.", "r": "jashn-e Pir-shāliyār dar zemestān bar-gozār mi-shavad.", "en": "The Pir Shalyar festival is held in winter."},
-  {"fa": "جاده‌ی اورامان کوهستانی و پرپیچ است.", "r": "jādde-ye Owrāmān kuhestāni va por-pich ast.", "en": "The road to Hawraman is mountainous and winding."},
-  {"fa": "بهار، کوه‌های کردستان سبز و پر از گل است.", "r": "bahār, kuh-hā-ye Kordestān sabz o por az gol ast.", "en": "In spring the mountains of Kurdistan are green and full of flowers."},
-  {"fa": "یک نان کلانه‌ی داغ، لطفاً.", "r": "yek nān-e kalāne-ye dāgh, lotfan.", "en": "One hot kalaneh bread, please."}
+  {
+   "fa": "مردم کردستان به زبان کردی حرف می‌زنند.",
+   "r": "mardom-e Kordestān be zabān-e kordi harf mi-zanand.",
+   "en": "The people of Kurdistan speak Kurdish.",
+   "faV": "مَردُمِ کُردِستان به زَبانِ کُردی حَرف می‌زَنَند.",
+   "a": "79fd2e8abcef"
+  },
+  {
+   "fa": "کردی و فارسی هر دو زبان‌های ایرانی هستند.",
+   "r": "kordi va fārsi har do zabān-hā-ye irāni hastand.",
+   "en": "Kurdish and Persian are both Iranian languages.",
+   "faV": "کُردی و فارسی هَر دو زَبان‌هایِ ایرانی هَستَند.",
+   "a": "f449f8dfc93c"
+  },
+  {
+   "fa": "در اورامان خانه‌ها مثل پله روی کوه ساخته شده‌اند.",
+   "r": "dar Owrāmān khāne-hā mesl-e pelle ru-ye kuh sākhte shode-and.",
+   "en": "In Hawraman the houses are built like steps up the mountain.",
+   "faV": "دَر اَورامان خانه‌ها مِثلِ پِلّه رویِ کوه ساخته شُده‌اَند.",
+   "a": "ba72d3be55d4"
+  },
+  {
+   "fa": "این روستا گردو و توت زیادی دارد.",
+   "r": "in rustā gerdu va tut-e ziyād-i dārad.",
+   "en": "This village has lots of walnuts and mulberries.",
+   "faV": "این روستا گِردو و توتِ زیادی دارَد.",
+   "a": "57f85ffdb642"
+  },
+  {
+   "fa": "صدای دف مثل باران است.",
+   "r": "sedā-ye daf mesl-e bārān ast.",
+   "en": "The sound of the daf is like rain.",
+   "faV": "صِدایِ دَف مِثلِ باران اَست.",
+   "a": "8728be5a9d1c"
+  },
+  {
+   "fa": "در عروسی‌های کردی همه هلپرکه می‌رقصند.",
+   "r": "dar arusi-hā-ye kordi hame halparke mi-raghsand.",
+   "en": "At Kurdish weddings everyone dances the halparke.",
+   "faV": "دَر عَروسی‌هایِ کُردی هَمه هَلپَرکه می‌رَقصَند.",
+   "a": "c1756f445145"
+  },
+  {
+   "fa": "کاک احمد، خیلی ممنون!",
+   "r": "Kāk Ahmad, kheyli mamnun!",
+   "en": "Thank you very much, Kak Ahmad!",
+   "faV": "کاک اَحمَد، خَیلی مَمنون!",
+   "a": "9a5494514d13"
+  },
+  {
+   "fa": "این کلاش را با دست بافته‌اند.",
+   "r": "in klāsh rā bā dast bāfte-and.",
+   "en": "These klash shoes were woven by hand.",
+   "faV": "این کلاش را با دَست بافته‌اَند.",
+   "a": "e6f76ff854b5"
+  },
+  {
+   "fa": "جشن پیرشالیار در زمستان برگزار می‌شود.",
+   "r": "jashn-e Pir-shāliyār dar zemestān bar-gozār mi-shavad.",
+   "en": "The Pir Shalyar festival is held in winter.",
+   "faV": "جَشنِ پیرشالیار دَر زِمِستان بَرگُزار می‌شَوَد.",
+   "a": "492fd9b97e9b"
+  },
+  {
+   "fa": "جاده‌ی اورامان کوهستانی و پرپیچ است.",
+   "r": "jādde-ye Owrāmān kuhestāni va por-pich ast.",
+   "en": "The road to Hawraman is mountainous and winding.",
+   "faV": "جادّه‌یِ اَورامان کوهِستانی و پُرپیچ اَست.",
+   "a": "92dda5df81c1"
+  },
+  {
+   "fa": "بهار، کوه‌های کردستان سبز و پر از گل است.",
+   "r": "bahār, kuh-hā-ye Kordestān sabz o por az gol ast.",
+   "en": "In spring the mountains of Kurdistan are green and full of flowers.",
+   "faV": "بَهار، کوه‌هایِ کُردِستان سَبز و پُر اَز گُل اَست.",
+   "a": "3f2360b8a204"
+  },
+  {
+   "fa": "یک نان کلانه‌ی داغ، لطفاً.",
+   "r": "yek nān-e kalāne-ye dāgh, lotfan.",
+   "en": "One hot kalaneh bread, please.",
+   "faV": "یِک نانِ کَلانه‌یِ داغ، لُطفاً.",
+   "a": "113b2a8a6df0"
+  }
  ],
  "vocab": [
-  {"fa": "کرد", "r": "kord", "en": "a Kurd"},
-  {"fa": "کردی", "r": "kordi", "en": "Kurdish"},
-  {"fa": "کوهستان", "r": "kuhestān", "en": "mountains, mountain region"},
-  {"fa": "پله", "r": "pelle", "en": "step, stair"},
-  {"fa": "پلکانی", "r": "pellekāni", "en": "stepped, terraced"},
-  {"fa": "گردو", "r": "gerdu", "en": "walnut"},
-  {"fa": "توت", "r": "tut", "en": "mulberry"},
-  {"fa": "انار", "r": "anār", "en": "pomegranate"},
-  {"fa": "انجیر", "r": "anjir", "en": "fig"},
-  {"fa": "دف", "r": "daf", "en": "daf, frame drum"},
-  {"fa": "رقص", "r": "raghs", "en": "dance"},
-  {"fa": "عروسی", "r": "arusi", "en": "wedding"},
-  {"fa": "جشن", "r": "jashn", "en": "celebration, festival"},
-  {"fa": "گله", "r": "galle", "en": "flock, herd"},
-  {"fa": "چوپان", "r": "chupān", "en": "shepherd"},
-  {"fa": "مرز", "r": "marz", "en": "border"}
+  {
+   "fa": "کرد",
+   "r": "kord",
+   "en": "a Kurd",
+   "faV": "کُرد",
+   "a": "0ce21532f2b8"
+  },
+  {
+   "fa": "کردی",
+   "r": "kordi",
+   "en": "Kurdish",
+   "faV": "کُردی",
+   "a": "cf008deafc78"
+  },
+  {
+   "fa": "کوهستان",
+   "r": "kuhestān",
+   "en": "mountains, mountain region",
+   "faV": "کوهِستان",
+   "a": "5e5228a22934"
+  },
+  {
+   "fa": "پله",
+   "r": "pelle",
+   "en": "step, stair",
+   "faV": "پِلّه",
+   "a": "2a4279624315"
+  },
+  {
+   "fa": "پلکانی",
+   "r": "pellekāni",
+   "en": "stepped, terraced",
+   "faV": "پِلِّکانی",
+   "a": "1f645eddfd2f"
+  },
+  {
+   "fa": "گردو",
+   "r": "gerdu",
+   "en": "walnut",
+   "faV": "گِردو",
+   "a": "70cef9fc4f4a"
+  },
+  {
+   "fa": "توت",
+   "r": "tut",
+   "en": "mulberry",
+   "faV": "توت",
+   "a": "44160a2ee9cc"
+  },
+  {
+   "fa": "انار",
+   "r": "anār",
+   "en": "pomegranate",
+   "faV": "اَنار",
+   "a": "6c4e904dbad0"
+  },
+  {
+   "fa": "انجیر",
+   "r": "anjir",
+   "en": "fig",
+   "faV": "اَنجیر",
+   "a": "ee9cd806c027"
+  },
+  {
+   "fa": "دف",
+   "r": "daf",
+   "en": "daf, frame drum",
+   "faV": "دَف",
+   "a": "54d15eed25fc"
+  },
+  {
+   "fa": "رقص",
+   "r": "raghs",
+   "en": "dance",
+   "faV": "رَقص",
+   "a": "73f4e35af15d"
+  },
+  {
+   "fa": "عروسی",
+   "r": "arusi",
+   "en": "wedding",
+   "faV": "عَروسی",
+   "a": "03fa50bc2913"
+  },
+  {
+   "fa": "جشن",
+   "r": "jashn",
+   "en": "celebration, festival",
+   "faV": "جَشن",
+   "a": "21709bf796d7"
+  },
+  {
+   "fa": "گله",
+   "r": "galle",
+   "en": "flock, herd",
+   "faV": "گَلّه",
+   "a": "050a74c7db45"
+  },
+  {
+   "fa": "چوپان",
+   "r": "chupān",
+   "en": "shepherd",
+   "faV": "چوپان",
+   "a": "ecedcd1ad85c"
+  },
+  {
+   "fa": "مرز",
+   "r": "marz",
+   "en": "border",
+   "faV": "مَرز",
+   "a": "090a3941de0d"
+  }
  ],
  "facts": [
   "The Cultural Landscape of Hawraman/Uramanat became a UNESCO World Heritage Site in 2021.",
@@ -74,5 +242,7 @@
   "Hawrami, or Gorani, was the traditional literary language of the Kurdish court of Ardalan.",
   "Sanandaj grew up in the 17th century as the seat of the Ardalan rulers.",
   "The Pir Shalyar ceremony in Hawraman Takht is held in three stages over three weeks in midwinter."
- ]
+ ],
+ "titleV": "کُردِستان و اَورامان",
+ "titleA": "970afdef4c7c"
 }

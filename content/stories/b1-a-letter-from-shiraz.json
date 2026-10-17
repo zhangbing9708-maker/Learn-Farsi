@@ -14,27 +14,37 @@
     {
      "fa": "مهسای عزیزم، سلام!",
      "r": "Mahsā-ye aziz-am, salām!",
-     "en": "Dear Mahsa, hello!"
+     "en": "Dear Mahsa, hello!",
+     "faV": "مَهسایِ عَزیزَم، سَلام!",
+     "a": "800680e7d89f"
     },
     {
      "fa": "امیدوارم حالت خوب باشد و درس‌های دانشگاه زیاد خسته‌ات نکرده باشد.",
      "r": "omidvār-am hāl-at khub bāshad o dars-hā-ye dāneshgāh ziyād khaste-at na-karde bāshad.",
-     "en": "I hope you're well and that your university classes haven't worn you out too much."
+     "en": "I hope you're well and that your university classes haven't worn you out too much.",
+     "faV": "اُمیدوارَم حالَت خوب باشَد و دَرس‌هایِ دانِشگاه زیاد خَسته‌اَت نَکَرده باشَد.",
+     "a": "35966eceab2d"
     },
     {
      "fa": "خیلی وقت است که از هم خبر نداریم و دلم برایت تنگ شده است.",
      "r": "kheyli vaght ast ke az ham khabar na-dārim o del-am barā-yat tang shode ast.",
-     "en": "It's been ages since we heard from each other, and I miss you."
+     "en": "It's been ages since we heard from each other, and I miss you.",
+     "faV": "خَیلی وَقت اَست که اَز هَم خَبَر نَداریم و دِلَم بَرایَت تَنگ شُده اَست.",
+     "a": "c3870372904a"
     },
     {
      "fa": "این نامه را در حیاط خانه‌مان، زیر درخت نارنج، می‌نویسم.",
      "r": "in nāme rā dar hayāt-e khāne-mān, zir-e derakht-e nāranj, mi-nevisam.",
-     "en": "I'm writing this letter in our courtyard, under the bitter-orange tree."
+     "en": "I'm writing this letter in our courtyard, under the bitter-orange tree.",
+     "faV": "این نامه را دَر حَیاطِ خانه‌مان، زیرِ دِرَختِ نارَنج، می‌نِویسَم.",
+     "a": "72f5ab895898"
     },
     {
      "fa": "اگر الان این‌جا بودی، بوی بهارنارنج دیوانه‌ات می‌کرد!",
      "r": "agar alān in-jā budi, bu-ye bahār-nāranj divāne-at mi-kard!",
-     "en": "If you were here now, the scent of orange blossom would drive you crazy!"
+     "en": "If you were here now, the scent of orange blossom would drive you crazy!",
+     "faV": "اَگَر اَلان این‌جا بودی، بویِ بَهارنارَنج دیوانه‌اَت می‌کَرد!",
+     "a": "33d80794f011"
     }
    ]
   },
@@ -43,22 +53,30 @@
     {
      "fa": "شیراز در اردیبهشت زیباترین شهر دنیاست؛ همه‌ی کوچه‌ها بوی گل می‌دهند و باغ‌ها پر از مسافرند.",
      "r": "Shirāz dar ordibehesht zibā-tarin shahr-e donyā-st; hame-ye kuche-hā bu-ye gol mi-dahand o bāgh-hā por az mosāfer-and.",
-     "en": "In Ordibehesht Shiraz is the most beautiful city in the world: every lane smells of flowers and the gardens are full of visitors."
+     "en": "In Ordibehesht Shiraz is the most beautiful city in the world: every lane smells of flowers and the gardens are full of visitors.",
+     "faV": "شیراز دَر اُردیبِهِشت زیباتَرین شَهرِ دُنیاست؛ هَمه‌یِ کوچه‌ها بویِ گُل می‌دَهَند و باغ‌ها پُر اَز مُسافِرَند.",
+     "a": "dec83d43cb8d"
     },
     {
      "fa": "دیروز با مادرم به باغ ارم رفتیم و زیر سروهای بلندش قدم زدیم.",
      "r": "diruz bā mādar-am be bāgh-e Eram raftim o zir-e sarv-hā-ye boland-ash ghadam zadim.",
-     "en": "Yesterday my mother and I went to the Eram Garden and walked under its tall cypresses."
+     "en": "Yesterday my mother and I went to the Eram Garden and walked under its tall cypresses.",
+     "faV": "دیروز با مادَرَم به باغِ اِرَم رَفتیم و زیرِ سَروهایِ بُلَندَش قَدَم زَدیم.",
+     "a": "1586e4734d0d"
     },
     {
      "fa": "مادرم می‌گوید که مردم قدیم شیراز گلاب و عرق بهارنارنج را خودشان در خانه می‌گرفتند.",
      "r": "mādar-am mi-guyad ke mardom-e ghadim-e Shirāz golāb o aragh-e bahār-nāranj rā khod-eshān dar khāne mi-gereftand.",
-     "en": "My mother says that in the old days people in Shiraz distilled their own rose water and orange-blossom water at home."
+     "en": "My mother says that in the old days people in Shiraz distilled their own rose water and orange-blossom water at home.",
+     "faV": "مادَرَم می‌گویَد که مَردُمِ قَدیمِ شیراز گُلاب و عَرَقِ بَهارنارَنج را خودِشان دَر خانه می‌گِرِفتَند.",
+     "a": "7755ea538dc7"
     },
     {
      "fa": "عصرها هم در بازار وکیل فالوده‌ی شیرازی با آب‌لیمو می‌خوریم و از سرما می‌لرزیم!",
      "r": "asr-hā ham dar bāzār-e Vakil fālude-ye shirāzi bā āb-limu mi-khorim o az sarmā mi-larzim!",
-     "en": "And in the afternoons we eat Shirazi faloodeh with lime juice in the Vakil Bazaar and shiver with the cold!"
+     "en": "And in the afternoons we eat Shirazi faloodeh with lime juice in the Vakil Bazaar and shiver with the cold!",
+     "faV": "عَصرها هَم دَر بازارِ وَکیل فالوده‌یِ شیرازی با آب‌لیمو می‌خوریم و اَز سَرما می‌لَرزیم!",
+     "a": "b7d4c7a74107"
     }
    ]
   },
@@ -67,37 +85,51 @@
     {
      "fa": "پنج‌شنبه شب به حافظیه رفتیم؛ آرامگاه حافظ، شاعر محبوب ایرانیان.",
      "r": "panj-shanbe shab be Hāfeziye raftim; ārāmgāh-e Hāfez, shā'er-e mahbub-e irāniyān.",
-     "en": "On Thursday night we went to the Hafezieh, the tomb of Hafez, Iran's best-loved poet."
+     "en": "On Thursday night we went to the Hafezieh, the tomb of Hafez, Iran's best-loved poet.",
+     "faV": "پَنج‌شَنبه شَب به حافِظیه رَفتیم؛ آرامگاهِ حافِظ، شاعِرِ مَحبوبِ ایرانیان.",
+     "a": "ff7d7049d300"
     },
     {
      "fa": "حافظ بیش از ششصد سال پیش در همین شهر زندگی می‌کرد و تقریباً در هر خانه‌ی ایرانی دیوانش پیدا می‌شود.",
      "r": "Hāfez bish az sheshsad sāl pish dar hamin shahr zendegi mi-kard o taghriban dar har khāne-ye irāni divān-ash peydā mi-shavad.",
-     "en": "Hafez lived in this very city more than six hundred years ago, and his Divan can be found in almost every Iranian home."
+     "en": "Hafez lived in this very city more than six hundred years ago, and his Divan can be found in almost every Iranian home.",
+     "faV": "حافِظ بیش اَز شِشصَد سال پیش دَر هَمین شَهر زِندِگی می‌کَرد و تَقریباً دَر هَر خانه‌یِ ایرانی دیوانَش پَیدا می‌شَوَد.",
+     "a": "939083b60959"
     },
     {
      "fa": "باغ پر از چراغ و آدم بود؛ بعضی‌ها شعر می‌خواندند، بعضی‌ها عکس می‌گرفتند و چند نفر کنار سنگ قبر ساکت نشسته بودند.",
      "r": "bāgh por az cherāgh o ādam bud; ba'zi-hā she'r mi-khāndand, ba'zi-hā aks mi-gereftand o chand nafar kenār-e sang-e ghabr sāket neshaste budand.",
-     "en": "The garden was full of lights and people: some were reciting poems, some were taking photos, and a few sat silently beside the tombstone."
+     "en": "The garden was full of lights and people: some were reciting poems, some were taking photos, and a few sat silently beside the tombstone.",
+     "faV": "باغ پُر اَز چِراغ و آدَم بود؛ بَعضی‌ها شِعر می‌خواندَند، بَعضی‌ها عَکس می‌گِرِفتَند و چَند نَفَر کِنارِ سَنگِ قَبر ساکِت نِشَسته بودَند.",
+     "a": "1b9a6d850503"
     },
     {
      "fa": "پیرمردی با دیوان حافظ کنار در نشسته بود و برای مردم فال می‌گرفت.",
      "r": "pir-mard-i bā divān-e Hāfez kenār-e dar neshaste bud o barā-ye mardom fāl mi-gereft.",
-     "en": "An old man with a Divan of Hafez was sitting by the gate, telling people's fortunes."
+     "en": "An old man with a Divan of Hafez was sitting by the gate, telling people's fortunes.",
+     "faV": "پیرمَردی با دیوانِ حافِظ کِنارِ دَر نِشَسته بود و بَرایِ مَردُم فال می‌گِرِفت.",
+     "a": "a51aa4bde6ed"
     },
     {
      "fa": "من هم نیت کردم، چشم‌هایم را بستم و او کتاب را باز کرد.",
      "r": "man ham niyyat kardam, cheshm-hā-yam rā bastam o u ketāb rā bāz kard.",
-     "en": "I made a wish too and closed my eyes, and he opened the book."
+     "en": "I made a wish too and closed my eyes, and he opened the book.",
+     "faV": "مَن هَم نیَّت کَردَم، چِشم‌هایَم را بَستَم و او کِتاب را باز کَرد.",
+     "a": "60b04edb6d1b"
     },
     {
      "fa": "فال من این بیت بود: «یوسف گم‌گشته بازآید به کنعان غم مخور / کلبه‌ی احزان شود روزی گلستان غم مخور»",
      "r": "fāl-e man in beyt bud: «Yusof-e gom-gashte bāz-āyad be Kan'ān gham ma-khor / kolbe-ye ahzān shavad ruz-i golestān gham ma-khor»",
-     "en": "My fortune was this couplet: \"Lost Joseph will come back to Canaan – do not grieve; / the house of sorrows will one day be a rose garden – do not grieve.\""
+     "en": "My fortune was this couplet: \"Lost Joseph will come back to Canaan – do not grieve; / the house of sorrows will one day be a rose garden – do not grieve.\"",
+     "faV": "فالِ مَن این بَیت بود: «یوسُفِ گُم‌گَشته بازآیَد به کَنعان غَم مَخور / کُلبه‌یِ اَحزان شَوَد روزی گُلِستان غَم مَخور»",
+     "a": "439c8b4fd797"
     },
     {
      "fa": "پیرمرد لبخند زد و گفت که آرزویم به‌زودی برآورده خواهد شد.",
      "r": "pir-mard labkhand zad o goft ke ārezu-yam be-zudi bar-āvarde khāhad shod.",
-     "en": "The old man smiled and said that my wish would soon come true."
+     "en": "The old man smiled and said that my wish would soon come true.",
+     "faV": "پیرمَرد لَبخَند زَد و گُفت که آرِزویَم به‌زودی بَرآوَرده خواهَد شُد.",
+     "a": "ca18f1fa320d"
     }
    ]
   },
@@ -106,59 +138,169 @@
     {
      "fa": "می‌خواهی بدانی چه آرزویی کرده بودم؟",
      "r": "mi-khāhi be-dāni che ārezu-yi karde budam?",
-     "en": "Do you want to know what I had wished for?"
+     "en": "Do you want to know what I had wished for?",
+     "faV": "می‌خواهی بِدانی چه آرِزویی کَرده بودَم؟",
+     "a": "4a7f7755b020"
     },
     {
      "fa": "این‌که تو بهار سال بعد به شیراز بیایی و همه‌ی این‌ها را با هم ببینیم!",
      "r": "in-ke to bahār-e sāl-e ba'd be Shirāz bi-yāyi o hame-ye in-hā rā bā ham be-binim!",
-     "en": "That you'll come to Shiraz next spring and we'll see all of this together!"
+     "en": "That you'll come to Shiraz next spring and we'll see all of this together!",
+     "faV": "این‌که تو بَهارِ سالِ بَعد به شیراز بیایی و هَمه‌یِ این‌ها را با هَم بِبینیم!",
+     "a": "1ed1f873ed7b"
     },
     {
      "fa": "وقتی بیایی، اول از زیر دروازه‌ی قرآن رد می‌شویم؛ می‌گویند هر مسافری که از زیر آن بگذرد، سفرش بی‌خطر خواهد بود.",
      "r": "vaghti bi-yāyi, avval az zir-e darvāze-ye Ghor'ān rad mi-shavim; mi-guyand har mosāfer-i ke az zir-e ān be-gozarad, safar-ash bi-khatar khāhad bud.",
-     "en": "When you come, the first thing we'll do is walk under the Quran Gate; they say any traveller who passes beneath it will have a safe journey."
+     "en": "When you come, the first thing we'll do is walk under the Quran Gate; they say any traveller who passes beneath it will have a safe journey.",
+     "faV": "وَقتی بیایی، اَوَّل اَز زیرِ دَروازه‌یِ قُرآن رَد می‌شَویم؛ می‌گویَند هَر مُسافِری که اَز زیرِ آن بِگُذَرَد، سَفَرَش بی‌خَطَر خواهَد بود.",
+     "a": "e48fe7b281cc"
     },
     {
      "fa": "مادرم گفت که اتاق مهمان همیشه برای تو آماده است، پس دیگر بهانه‌ای نداری.",
      "r": "mādar-am goft ke otāgh-e mehmān hamishe barā-ye to āmāde ast, pas digar bahāne-i na-dāri.",
-     "en": "My mother said the guest room is always ready for you, so you have no excuse any more."
+     "en": "My mother said the guest room is always ready for you, so you have no excuse any more.",
+     "faV": "مادَرَم گُفت که اُتاقِ مِهمان هَمیشه بَرایِ تو آماده اَست، پَس دیگَر بَهانه‌ای نَداری.",
+     "a": "21c5f00ad385"
     },
     {
      "fa": "برایم زود جواب بده و به خانواده‌ات سلام برسان.",
      "r": "barā-yam zud javāb be-deh o be khānevāde-at salām be-resān.",
-     "en": "Write back soon, and give my love to your family."
+     "en": "Write back soon, and give my love to your family.",
+     "faV": "بَرایَم زود جَواب بِدِه و به خانِواده‌اَت سَلام بِرِسان.",
+     "a": "8d3fd39ae9b0"
     },
     {
      "fa": "قربانت، لیلا",
      "r": "ghorbān-at, Leylā",
      "en": "Yours, Leila",
-     "lit": "your sacrifice, Leila"
+     "lit": "your sacrifice, Leila",
+     "faV": "قُربانَت، لَیلا",
+     "a": "601beb12de06"
     },
     {
      "fa": "پی‌نوشت: یک شیشه عرق بهارنارنج هم برایت کنار گذاشته‌ام.",
      "r": "pey-nevesht: yek shishe aragh-e bahār-nāranj ham barā-yat kenār gozāshte-am.",
-     "en": "P.S. I've put aside a bottle of orange-blossom water for you, too."
+     "en": "P.S. I've put aside a bottle of orange-blossom water for you, too.",
+     "faV": "پَی‌نِوِشت: یِک شیشه عَرَقِ بَهارنارَنج هَم بَرایَت کِنار گُذاشته‌اَم.",
+     "a": "895ecedea4ad"
     }
    ]
   }
  ],
  "vocab": [
-  {"fa": "امیدوار بودن", "r": "omidvār budan", "en": "to hope"},
-  {"fa": "دلم برایت تنگ شده است", "r": "del-am barā-yat tang shode ast", "en": "I miss you"},
-  {"fa": "حیاط", "r": "hayāt", "en": "courtyard"},
-  {"fa": "بهارنارنج", "r": "bahār-nāranj", "en": "orange blossom"},
-  {"fa": "اردیبهشت", "r": "ordibehesht", "en": "Ordibehesht, the second month of spring (21 April – 21 May)"},
-  {"fa": "سرو", "r": "sarv", "en": "cypress"},
-  {"fa": "گلاب", "r": "golāb", "en": "rose water"},
-  {"fa": "آرامگاه", "r": "ārāmgāh", "en": "tomb, mausoleum"},
-  {"fa": "دیوان", "r": "divān", "en": "a poet's collected poems"},
-  {"fa": "فال گرفتن", "r": "fāl gereftan", "en": "to tell a fortune"},
-  {"fa": "نیت کردن", "r": "niyyat kardan", "en": "to make a wish, to form an intention"},
-  {"fa": "بیت", "r": "beyt", "en": "couplet, line of verse"},
-  {"fa": "برآورده شدن", "r": "bar-āvarde shodan", "en": "to come true (of a wish)"},
-  {"fa": "بهانه", "r": "bahāne", "en": "excuse"},
-  {"fa": "دروازه", "r": "darvāze", "en": "city gate"},
-  {"fa": "قربانت", "r": "ghorbān-at", "en": "yours (letter closing; literally 'your sacrifice')"}
+  {
+   "fa": "امیدوار بودن",
+   "r": "omidvār budan",
+   "en": "to hope",
+   "faV": "اُمیدوار بودَن",
+   "a": "23d9e67198dd"
+  },
+  {
+   "fa": "دلم برایت تنگ شده است",
+   "r": "del-am barā-yat tang shode ast",
+   "en": "I miss you",
+   "faV": "دِلَم بَرایَت تَنگ شُده اَست",
+   "a": "30f9cab8b345"
+  },
+  {
+   "fa": "حیاط",
+   "r": "hayāt",
+   "en": "courtyard",
+   "faV": "حَیاط",
+   "a": "423af25d0b64"
+  },
+  {
+   "fa": "بهارنارنج",
+   "r": "bahār-nāranj",
+   "en": "orange blossom",
+   "faV": "بَهارنارَنج",
+   "a": "644241c74d56"
+  },
+  {
+   "fa": "اردیبهشت",
+   "r": "ordibehesht",
+   "en": "Ordibehesht, the second month of spring (21 April – 21 May)",
+   "faV": "اُردیبِهِشت",
+   "a": "45e4ca8663be"
+  },
+  {
+   "fa": "سرو",
+   "r": "sarv",
+   "en": "cypress",
+   "faV": "سَرو",
+   "a": "1de006ef0022"
+  },
+  {
+   "fa": "گلاب",
+   "r": "golāb",
+   "en": "rose water",
+   "faV": "گُلاب",
+   "a": "c652abb92180"
+  },
+  {
+   "fa": "آرامگاه",
+   "r": "ārāmgāh",
+   "en": "tomb, mausoleum",
+   "faV": "آرامگاه",
+   "a": "0acb7fd637bb"
+  },
+  {
+   "fa": "دیوان",
+   "r": "divān",
+   "en": "a poet's collected poems",
+   "faV": "دیوان",
+   "a": "990e80bfe2c0"
+  },
+  {
+   "fa": "فال گرفتن",
+   "r": "fāl gereftan",
+   "en": "to tell a fortune",
+   "faV": "فال گِرِفتَن",
+   "a": "5cc0265c4a1b"
+  },
+  {
+   "fa": "نیت کردن",
+   "r": "niyyat kardan",
+   "en": "to make a wish, to form an intention",
+   "faV": "نیَّت کَردَن",
+   "a": "37d8a261d11a"
+  },
+  {
+   "fa": "بیت",
+   "r": "beyt",
+   "en": "couplet, line of verse",
+   "faV": "بَیت",
+   "a": "fbe61494fd80"
+  },
+  {
+   "fa": "برآورده شدن",
+   "r": "bar-āvarde shodan",
+   "en": "to come true (of a wish)",
+   "faV": "بَرآوَرده شُدَن",
+   "a": "5db25cba0f57"
+  },
+  {
+   "fa": "بهانه",
+   "r": "bahāne",
+   "en": "excuse",
+   "faV": "بَهانه",
+   "a": "7e00201756e9"
+  },
+  {
+   "fa": "دروازه",
+   "r": "darvāze",
+   "en": "city gate",
+   "faV": "دَروازه",
+   "a": "f1c67d1d9cc4"
+  },
+  {
+   "fa": "قربانت",
+   "r": "ghorbān-at",
+   "en": "yours (letter closing; literally 'your sacrifice')",
+   "faV": "قُربانَت",
+   "a": "d04ea3bd751f"
+  }
  ],
  "questions": [
   {
@@ -207,5 +349,7 @@
    "answer": 0
   }
  ],
- "after": "To take a fāl-e Hāfez (فال حافظ) you make a wish or ask a question silently (نیت کردن), often say «ای حافظ شیرازی، تو محرم هر رازی» – 'O Hafez of Shiraz, you who know every secret' – and open the Divan at random: the ghazal on that page is your answer. Iranians do it on Yalda night and at Nowruz, and street sellers offer fortune cards picked out by a canary or a budgie. Leila's couplet opens one of Hafez's most hopeful ghazals: Joseph, lost and sold by his brothers, will come home to Canaan, and his father's 'house of sorrows' will bloom again. Notice the letter formulas: مهسای عزیزم to open, سلام برسان 'give my regards', قربانت ('your sacrifice') as a warm sign-off, and پی‌نوشت for P.S."
+ "after": "To take a fāl-e Hāfez (فال حافظ) you make a wish or ask a question silently (نیت کردن), often say «ای حافظ شیرازی، تو محرم هر رازی» – 'O Hafez of Shiraz, you who know every secret' – and open the Divan at random: the ghazal on that page is your answer. Iranians do it on Yalda night and at Nowruz, and street sellers offer fortune cards picked out by a canary or a budgie. Leila's couplet opens one of Hafez's most hopeful ghazals: Joseph, lost and sold by his brothers, will come home to Canaan, and his father's 'house of sorrows' will bloom again. Notice the letter formulas: مهسای عزیزم to open, سلام برسان 'give my regards', قربانت ('your sacrifice') as a warm sign-off, and پی‌نوشت for P.S.",
+ "titleV": "نامه‌ای اَز شیراز",
+ "titleA": "98cd1af22663"
 }

@@ -1,0 +1,272 @@
+{
+ "id": "b1-05-if-only",
+ "level": "B1",
+ "n": 5,
+ "title": "If only: unreal conditions, wishes and regrets",
+ "titleFa": "کاش می‌دانستم",
+ "titleR": "kāsh mi-dānestam",
+ "intro": "'If I had known…', 'I wish you were here', 'you should have told me', 'he must have forgotten'. This is the grammar of imagination and regret, and Persian builds almost all of it from forms you already know: the past continuous for anything unreal, the past perfect for the unreal past, and one new form, the past subjunctive رفته باشم. In this lesson you learn unreal conditions with اگر, wishes with کاش, 'should have' with باید, and 'may have' and 'must have' with the past subjunctive.",
+ "goals": [
+  "make unreal conditions: اگر پول داشتم، می‌خریدم; اگر زودتر آمده بودی، او را می‌دیدی",
+  "form and use the past subjunctive: رفته باشم، دیده باشد",
+  "say 'may have', 'must have' and 'I hope … has' with شاید، باید، امیدوارم",
+  "express wishes and regrets with کاش",
+  "say 'should have', 'shouldn't have' and 'could have': باید می‌رفتی، نباید می‌گفتی، می‌توانستی بپرسی"
+ ],
+ "image": "tar",
+ "sections": [
+  {
+   "type": "reading",
+   "title": "Forty",
+   "intro": "On the night of his fortieth birthday, Amir looks back. The text is full of things that did not happen: notice the past continuous after اگر, the past perfect after کاش, and the past subjunctive after شاید.",
+   "sentences": [
+    {"fa": "امیر دیروز چهل ساله شد.", "r": "Amir diruz chehel sāle shod.", "en": "Amir turned forty yesterday."},
+    {"fa": "شب، بعد از رفتن مهمان‌ها، تنها در بالکن نشست و به گذشته فکر کرد.", "r": "shab, ba'd az raftan-e mehmān-hā, tanhā dar bālkon neshast o be gozashte fekr kard.", "en": "That night, after the guests had left, he sat alone on the balcony and thought about the past."},
+    {"fa": "بیست سال پیش، یک شرکت به او پیشنهاد کار در کانادا داده بود، اما او قبول نکرده بود.", "r": "bist sāl pish, yek sherkat be u pishnahād-e kār dar Kānādā dāde bud, ammā u ghabul nakarde bud.", "en": "Twenty years ago a company had offered him a job in Canada, but he had turned it down."},
+    {"fa": "اگر آن پیشنهاد را قبول کرده بود، حالا زندگی دیگری داشت.", "r": "agar ān pishnahād rā ghabul karde bud, hālā zendegi-ye digar-i dāsht.", "en": "If he had accepted that offer, he would have a different life now."},
+    {"fa": "شاید پولدارتر بود، اما هرگز با همسرش، مینا، آشنا نمی‌شد.", "r": "shāyad puldār-tar bud, ammā hargez bā hamsar-ash, Minā, āshnā nemi-shod.", "en": "He might be richer, but he would never have met his wife, Mina."},
+    {"fa": "پدرش می‌خواست که او پزشک شود، اما امیر مهندس شد.", "r": "pedar-ash mi-khāst ke u pezeshk shavad, ammā Amir mohandes shod.", "en": "His father wanted him to become a doctor, but Amir became an engineer."},
+    {"fa": "پدرش هنوز گاهی می‌گوید: «باید پزشکی می‌خواندی!»", "r": "pedar-ash hanuz gāhi mi-guyad: «bāyad pezeshki mi-khāndi!»", "en": "His father still says now and then: 'You should have studied medicine!'"},
+    {"fa": "اما امیر از کارش راضی است و فکر نمی‌کند اشتباه کرده باشد.", "r": "ammā Amir az kār-ash rāzi ast o fekr nemi-konad eshtebāh karde bāshad.", "en": "But Amir is happy with his work and doesn't think he made a mistake."},
+    {"fa": "فقط گاهی با خودش می‌گوید: «کاش در جوانی تار زدن را یاد گرفته بودم.»", "r": "faghat gāhi bā khod-ash mi-guyad: «kāsh dar javāni tār zadan rā yād gerefte budam.»", "en": "Only sometimes he says to himself: 'If only I'd learned to play the tar when I was young.'"},
+    {"fa": "اما افسوس واقعی او داریوش است، بهترین دوست دوران دانشگاهش.", "r": "ammā afsus-e vāghe'i-ye u Dāriush ast, behtarin dust-e dowrān-e dāneshgāh-ash.", "en": "But his real regret is Dariush, his best friend from university."},
+    {"fa": "ده سال پیش سر یک موضوع کوچک با هم دعوا کردند و از آن روز با هم قهرند.", "r": "dah sāl pish sar-e yek mowzu'-e kuchak bā ham da'vā kardand o az ān ruz bā ham ghahr-and.", "en": "Ten years ago they quarrelled over something small, and they haven't spoken since."},
+    {"fa": "امیر فکر می‌کند: «اگر آن شب ساکت مانده بودم، دوستم را از دست نمی‌دادم.»", "r": "Amir fekr mi-konad: «agar ān shab sāket mānde budam, dust-am rā az dast nemi-dādam.»", "en": "Amir thinks: 'If I had kept quiet that night, I wouldn't have lost my friend.'"},
+    {"fa": "شاید داریوش هم همین فکر را کرده باشد.", "r": "shāyad Dāriush ham hamin fekr rā karde bāshad.", "en": "Perhaps Dariush has had the same thought."},
+    {"fa": "امیر گوشی‌اش را برداشت و شماره‌ی داریوش را پیدا کرد.", "r": "Amir gushi-ash rā bardāsht o shomāre-ye Dāriush rā peydā kard.", "en": "Amir picked up his phone and found Dariush's number."}
+   ],
+   "questions": [
+    {"q": "What did Amir's father want him to be?", "options": ["an engineer", "a doctor", "a musician"], "answer": 1},
+    {"q": "What does Amir regret most?", "options": ["not going to Canada", "his quarrel with Dariush", "becoming an engineer"], "answer": 1},
+    {"q": "Which words mean 'you should have studied'?", "options": ["باید می‌خواندی", "باید بخوانی", "خوانده باشی"], "answer": 0}
+   ]
+  },
+  {
+   "type": "text",
+   "title": "The grammar of things that didn't happen",
+   "md": "English has a special word for the unreal: *would*. Persian doesn't. It takes the **past continuous** – [[می‌رفتم|mi-raftam|I was going, I used to go]] – and uses it for anything imagined: [[اگر وقت داشتم، می‌رفتم|agar vaght dāshtam, mi-raftam|if I had time, I would go]]. The past is far enough from reality to stand for 'not real'. English does the same in its *if*-clause: *if I had time* is a past tense about now.\n\nThe same trick gives you wishes – [[کاش می‌دانستم|kāsh mi-dānestam|I wish I knew]] – and, with [[باید|bāyad]], *should have*: [[باید می‌رفتی|bāyad mi-rafti|you should have gone]]. Only one form in this lesson is new: the **past subjunctive**, [[رفته باشم|rafte bāsham]], which you need for *may have*, *must have* and *I hope … has*."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {"fa": "کاش", "r": "kāsh", "en": "if only, I wish", "pos": "part", "note": "also ای کاش; spoken کاشکی"},
+    {"fa": "افسوس", "r": "afsus", "en": "regret; alas", "pos": "n"},
+    {"fa": "پشیمان", "r": "pashimān", "en": "sorry, regretful", "pos": "adj", "ex": {"fa": "از حرفم پشیمانم.", "r": "az harf-am pashimān-am.", "en": "I regret what I said."}},
+    {"fa": "آرزو", "r": "ārezu", "en": "wish, dream", "pos": "n"},
+    {"fa": "پیشنهاد", "r": "pishnahād", "en": "offer; suggestion", "pos": "n"},
+    {"fa": "قبول کردن", "r": "ghabul kardan", "en": "to accept", "pos": "v"},
+    {"fa": "آشنا شدن", "r": "āshnā shodan", "en": "to meet, get to know", "pos": "v", "note": "با کسی آشنا شدن"},
+    {"fa": "راضی", "r": "rāzi", "en": "satisfied, content", "pos": "adj"},
+    {"fa": "دعوا کردن", "r": "da'vā kardan", "en": "to quarrel, argue", "pos": "v"},
+    {"fa": "قهر بودن", "r": "ghahr budan", "en": "to be not speaking to someone after a quarrel", "pos": "v", "ex": {"fa": "با برادرش قهر است.", "r": "bā barādar-ash ghahr ast.", "en": "He isn't speaking to his brother."}},
+    {"fa": "آشتی کردن", "r": "āshti kardan", "en": "to make up, be reconciled", "pos": "v"},
+    {"fa": "از دست دادن", "r": "az dast dādan", "en": "to lose", "pos": "v"},
+    {"fa": "ساکت ماندن", "r": "sāket māndan", "en": "to keep quiet", "pos": "v"},
+    {"fa": "باور کردن", "r": "bāvar kardan", "en": "to believe", "pos": "v", "ex": {"fa": "باورم نمی‌شود!", "r": "bāvar-am nemi-shavad!", "en": "I can't believe it!"}},
+    {"fa": "قطع کردن", "r": "ghat' kardan", "en": "to hang up; to cut off", "pos": "v"},
+    {"fa": "عصبانی شدن", "r": "asabāni shodan", "en": "to get angry", "pos": "v"},
+    {"fa": "کامل", "r": "kāmel", "en": "complete, perfect", "pos": "adj"},
+    {"fa": "هدیه", "r": "hedye", "en": "present, gift", "pos": "n", "note": "spoken: کادو"},
+    {"fa": "امیدوار بودن", "r": "omidvār budan", "en": "to hope", "pos": "v", "ex": {"fa": "امیدوارم خوب باشی.", "r": "omidvār-am khub bāshi.", "en": "I hope you're well."}},
+    {"fa": "جوانی", "r": "javāni", "en": "youth", "pos": "n"},
+    {"fa": "گذشته", "r": "gozashte", "en": "the past", "pos": "n"},
+    {"fa": "موضوع", "r": "mowzu'", "en": "matter, subject, topic", "pos": "n"},
+    {"fa": "فرصت", "r": "forsat", "en": "opportunity, chance", "pos": "n"},
+    {"fa": "بعید", "r": "ba'id", "en": "unlikely", "pos": "adj", "ex": {"fa": "بعید است که بیاید.", "r": "ba'id ast ke biyāyad.", "en": "He's unlikely to come."}}
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "If I had…: unreal conditions",
+   "md": "You already know real conditions (A2): [[اگر وقت داشته باشم، می‌آیم|agar vaght dāshte bāsham, mi-āyam|if I have time, I'll come]]. For **unreal** conditions – things that are not true now, or did not happen – move both halves into the past:\n\n- **Unreal now:** the past continuous (or, for بودن and داشتن, the simple past) in the *if*-clause, and the past continuous in the result: [[اگر وقت داشتم، می‌آمدم|agar vaght dāshtam, mi-āmadam|if I had time, I would come]].\n- **Unreal past:** the same sentence can also mean *if I had had time, I would have come* – context decides. To make the past unmistakable, use the **past perfect** in the *if*-clause: [[اگر زودتر خبر داده بودی، می‌آمدم|agar zud-tar khabar dāde budi, mi-āmadam|if you had told me earlier, I would have come]].\n\n[[بودن|budan]] and [[داشتن|dāshtan]] never take می- here: [[اگر جای تو بودم|agar jā-ye to budam|if I were you]], [[اگر ماشین داشتیم|agar māshin dāshtim|if we had a car]].",
+   "table": {
+    "head": ["Meaning", "If…", "Result", "English"],
+    "rows": [
+     ["real (A2)", "[[اگر وقت داشته باشم،|agar vaght dāshte bāsham,]]", "[[می‌آیم.|mi-āyam.]]", "If I have time, I'll come."],
+     ["unreal now", "[[اگر وقت داشتم،|agar vaght dāshtam,]]", "[[می‌آمدم.|mi-āmadam.]]", "If I had time, I would come."],
+     ["unreal now", "[[اگر جای تو بودم،|agar jā-ye to budam,]]", "[[قبول نمی‌کردم.|ghabul nemi-kardam.]]", "If I were you, I wouldn't accept."],
+     ["unreal now", "[[اگر باران نمی‌آمد،|agar bārān nemi-āmad,]]", "[[بیرون می‌رفتیم.|birun mi-raftim.]]", "If it weren't raining, we'd go out."],
+     ["unreal past", "[[اگر می‌دانستم،|agar mi-dānestam,]]", "[[به تو می‌گفتم.|be to mi-goftam.]]", "If I'd known, I'd have told you."],
+     ["unreal past", "[[اگر زودتر آمده بودی،|agar zud-tar āmade budi,]]", "[[او را می‌دیدی.|u rā mi-didi.]]", "If you had come earlier, you'd have seen him."],
+     ["past → now", "[[اگر قبول کرده بود،|agar ghabul karde bud,]]", "[[حالا ثروتمند بود.|hālā servatmand bud.]]", "If he had accepted, he'd be rich now."],
+     ["spoken", "[[اگه می‌دونستم،|age mi-dunestam,]]", "[[بهت می‌گفتم.|behet mi-goftam.]]", "If I'd known, I'd have told you."]
+    ]
+   },
+   "examples": [
+    {"fa": "اگر پول داشتم، یک خانه‌ی کوچک در شمال می‌خریدم.", "r": "agar pul dāshtam, yek khāne-ye kuchak dar shomāl mi-kharidam.", "en": "If I had money, I would buy a little house in the north.", "col": "اگه پول داشتم، یه خونه‌ی کوچیک شمال می‌خریدم.", "colR": "age pul dāshtam, ye khune-ye kuchik shomāl mi-kharidam."},
+    {"fa": "اگر جای تو بودم، این کار را قبول نمی‌کردم.", "r": "agar jā-ye to budam, in kār rā ghabul nemi-kardam.", "en": "If I were you, I wouldn't take this job.", "col": "اگه جای تو بودم، این کارو قبول نمی‌کردم.", "colR": "age jā-ye to budam, in kār-o ghabul nemi-kardam."},
+    {"fa": "اگر می‌دانستم مریضی، به دیدنت می‌آمدم.", "r": "agar mi-dānestam mariz-i, be didan-at mi-āmadam.", "en": "If I'd known you were ill, I would have come to see you.", "col": "اگه می‌دونستم مریضی، میومدم دیدنت.", "colR": "age mi-dunestam mariz-i, miyumadam didan-et."},
+    {"fa": "اگر زودتر راه افتاده بودیم، به هواپیما می‌رسیدیم.", "r": "agar zud-tar rāh oftāde budim, be havāpeymā mi-residim.", "en": "If we had set off earlier, we would have caught the plane.", "col": "اگه زودتر راه افتاده بودیم، به هواپیما می‌رسیدیم.", "colR": "age zud-tar rāh oftāde budim, be havāpeymā mi-residim."},
+    {"fa": "اگر باران نمی‌آمد، بیرون شام می‌خوردیم.", "r": "agar bārān nemi-āmad, birun shām mi-khordim.", "en": "If it weren't raining, we'd have dinner outside.", "col": "اگه بارون نمیومد، بیرون شام می‌خوردیم.", "colR": "age bārun nemiyumad, birun shām mi-khordim."},
+    {"fa": "اگر کمی بیشتر درس خوانده بود، در امتحان قبول می‌شد.", "r": "agar kam-i bishtar dars khānde bud, dar emtehān ghabul mi-shod.", "en": "If he had studied a bit more, he would have passed the exam.", "col": "اگه یه کم بیشتر درس خونده بود، تو امتحان قبول می‌شد.", "colR": "age ye kam bishtar dars khunde bud, tu emtehān ghabul mi-shod."},
+    {"fa": "اگر آن شب به حرف تو گوش داده بودم، حالا این مشکل را نداشتم.", "r": "agar ān shab be harf-e to gush dāde budam, hālā in moshkel rā nadāshtam.", "en": "If I had listened to you that night, I wouldn't have this problem now.", "col": "اگه اون شب به حرفت گوش داده بودم، الان این مشکلو نداشتم.", "colR": "age un shab be harf-et gush dāde budam, alān in moshkel-o nadāshtam."}
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The past subjunctive: رفته باشم",
+   "md": "The past subjunctive is the past participle plus the subjunctive of [[بودن|budan]]: [[رفته باشم|rafte bāsham]], [[دیده باشی|dide bāshi]], [[گفته باشد|gofte bāshad]]. It is the subjunctive of the perfect: use it wherever a subjunctive is needed but the action is already **complete**.\n\n- after [[شاید|shāyad]] – *may have*: [[شاید رفته باشد|shāyad rafte bāshad|he may have gone]]\n- after [[باید|bāyad]] – *must have* (a deduction): [[باید رفته باشد|bāyad rafte bāshad|he must have gone]]\n- after [[امیدوارم|omidvār-am]] – *I hope … has*: [[امیدوارم رسیده باشی|omidvār-am reside bāshi|I hope you've arrived]]\n- after doubt: [[فکر نمی‌کنم|fekr nemi-konam|I don't think]], [[بعید است|ba'id ast|it's unlikely]]\n- after [[اگر|agar]] when you are not sure what happened: [[اگر نامه را خوانده باشد، می‌داند|agar nāme rā khānde bāshad, mi-dānad|if he's read the letter, he knows]]\n\nDon't be misled by [[داشته باشم|dāshte bāsham]]: that is simply the ordinary subjunctive of داشتن (*that I have*), not a past form.",
+   "table": {
+    "head": ["Person", "Past subjunctive", "Negative", "English"],
+    "rows": [
+     ["[[من|man]]", "[[رفته باشم|rafte bāsham]]", "[[نرفته باشم|narafte bāsham]]", "(that) I have gone"],
+     ["[[تو|to]]", "[[رفته باشی|rafte bāshi]]", "[[نرفته باشی|narafte bāshi]]", "(that) you have gone"],
+     ["[[او|u]]", "[[رفته باشد|rafte bāshad]]", "[[نرفته باشد|narafte bāshad]]", "(that) he / she has gone"],
+     ["[[ما|mā]]", "[[رفته باشیم|rafte bāshim]]", "[[نرفته باشیم|narafte bāshim]]", "(that) we have gone"],
+     ["[[شما|shomā]]", "[[رفته باشید|rafte bāshid]]", "[[نرفته باشید|narafte bāshid]]", "(that) you have gone"],
+     ["[[آن‌ها|ān-hā]]", "[[رفته باشند|rafte bāshand]]", "[[نرفته باشند|narafte bāshand]]", "(that) they have gone"]
+    ]
+   },
+   "examples": [
+    {"fa": "شاید کلیدم را در دفتر جا گذاشته باشم.", "r": "shāyad kelid-am rā dar daftar jā gozāshte bāsham.", "en": "I may have left my key at the office.", "col": "شاید کلیدمو تو دفتر جا گذاشته باشم.", "colR": "shāyad kelid-am-o tu daftar jā gozāshte bāsham."},
+    {"fa": "چراغ‌ها خاموش است. باید خوابیده باشند.", "r": "cherāgh-hā khāmush ast. bāyad khābide bāshand.", "en": "The lights are off. They must have gone to bed.", "col": "چراغا خاموشه. باید خوابیده باشن.", "colR": "cherāghā khāmushe. bāyad khābide bāshan."},
+    {"fa": "امیدوارم به سلامت رسیده باشید.", "r": "omidvār-am be salāmat reside bāshid.", "en": "I hope you've arrived safely.", "col": "امیدوارم به سلامت رسیده باشین.", "colR": "omidvār-am be salāmat reside bāshin."},
+    {"fa": "فکر نمی‌کنم او این کتاب را خوانده باشد.", "r": "fekr nemi-konam u in ketāb rā khānde bāshad.", "en": "I don't think he has read this book.", "col": "فکر نمی‌کنم این کتابو خونده باشه.", "colR": "fekr nemi-konam in ketāb-o khunde bāshe."},
+    {"fa": "اگر کسی کیف مرا دیده باشد، لطفاً به من خبر بدهد.", "r": "agar kas-i kif-e marā dide bāshad, lotfan be man khabar bedahad.", "en": "If anyone has seen my bag, please let me know.", "col": "اگه کسی کیفمو دیده باشه، لطفاً بهم خبر بده.", "colR": "age kas-i kif-am-o dide bāshe, lotfan beham khabar bede."},
+    {"fa": "تا ساعت ده باید همه‌ی کارها را تمام کرده باشیم.", "r": "tā sā'at-e dah bāyad hame-ye kār-hā rā tamām karde bāshim.", "en": "By ten o'clock we must have finished all the work.", "col": "تا ساعت ده باید همه‌ی کارا رو تموم کرده باشیم.", "colR": "tā sā'at-e dah bāyad hame-ye kārā ro tamum karde bāshim."},
+    {"fa": "بعید است که او این حرف را زده باشد.", "r": "ba'id ast ke u in harf rā zade bāshad.", "en": "It's unlikely that he said such a thing.", "col": "بعیده که این حرفو زده باشه.", "colR": "ba'ide ke in harf-o zade bāshe."}
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Wishes and regrets: کاش and باید می‌…",
+   "md": "**کاش** ([[ای کاش|ey kāsh]], spoken [[کاشکی|kāshki]]) introduces a wish. The tense after it tells you what kind:\n\n- past continuous (or the simple past of بودن and داشتن) – a wish about **now** that cannot come true: [[کاش این‌جا بودی|kāsh in-jā budi|I wish you were here]];\n- past perfect – a **regret** about the past: [[کاش نرفته بودم|kāsh narafte budam|I wish I hadn't gone]];\n- present subjunctive – a **hope** for the future: [[کاش فردا آفتابی باشد|kāsh fardā āftābi bāshad|I hope it's sunny tomorrow]].\n\n**Should have.** [[باید|bāyad]] + past continuous means *should have*: [[باید زودتر می‌آمدی|bāyad zud-tar mi-āmadi|you should have come earlier]]; [[نباید|nabāyad]] + past continuous, *shouldn't have*. In formal writing you also meet [[می‌بایست|mi-bāyest]] with the same meaning. *Could have* is [[می‌توانستم|mi-tavānestam]] + subjunctive: [[می‌توانستی زنگ بزنی|mi-tavānesti zang bezani|you could have called]].\n\nCareful: [[باید رفته باشد|bāyad rafte bāshad|he must have gone]] is a guess about what happened; [[باید می‌رفت|bāyad mi-raft|he should have gone / he had to go]] is about what was necessary.",
+   "table": {
+    "head": ["Pattern", "Example", "English"],
+    "rows": [
+     ["[[کاش|kāsh]] + past continuous", "[[کاش می‌دانستم.|kāsh mi-dānestam.]]", "I wish I knew."],
+     ["[[کاش|kāsh]] + simple past (بودن، داشتن)", "[[کاش ماشین داشتیم.|kāsh māshin dāshtim.]]", "I wish we had a car."],
+     ["[[کاش|kāsh]] + past perfect", "[[کاش آن حرف را نزده بودم.|kāsh ān harf rā nazade budam.]]", "I wish I hadn't said that."],
+     ["[[کاش|kāsh]] + present subjunctive", "[[کاش فردا باران نیاید.|kāsh fardā bārān nayāyad.]]", "I hope it doesn't rain tomorrow."],
+     ["[[باید|bāyad]] + past continuous", "[[باید به من می‌گفتی.|bāyad be man mi-gofti.]]", "You should have told me."],
+     ["[[نباید|nabāyad]] + past continuous", "[[نباید آن‌قدر می‌خوردم.|nabāyad ān-ghadr mi-khordam.]]", "I shouldn't have eaten so much."],
+     ["[[می‌بایست|mi-bāyest]] + past continuous (formal)", "[[می‌بایست زودتر اقدام می‌کردند.|mi-bāyest zud-tar eghdām mi-kardand.]]", "They should have acted sooner."],
+     ["[[می‌توانستم|mi-tavānestam]] + subjunctive", "[[می‌توانستی بپرسی.|mi-tavānesti beporsi.]]", "You could have asked."],
+     ["[[باید|bāyad]] + past subjunctive", "[[باید فراموش کرده باشد.|bāyad farāmush karde bāshad.]]", "He must have forgotten."]
+    ]
+   },
+   "examples": [
+    {"fa": "کاش فارسی را زودتر شروع کرده بودم.", "r": "kāsh fārsi rā zud-tar shoru' karde budam.", "en": "I wish I'd started Persian sooner.", "col": "کاشکی فارسی رو زودتر شروع کرده بودم.", "colR": "kāshki fārsi ro zud-tar shoru' karde budam."},
+    {"fa": "کاش امشب این‌قدر کار نداشتم.", "r": "kāsh emshab in-ghadr kār nadāshtam.", "en": "I wish I didn't have so much work tonight.", "col": "کاشکی امشب این‌قدر کار نداشتم.", "colR": "kāshki emshab in-ghadr kār nadāshtam."},
+    {"fa": "باید به من می‌گفتی که مریضی.", "r": "bāyad be man mi-gofti ke mariz-i.", "en": "You should have told me you were ill.", "col": "باید بهم می‌گفتی مریضی.", "colR": "bāyad beham mi-gofti mariz-i."},
+    {"fa": "نباید آن‌قدر قهوه می‌خوردم؛ حالا خوابم نمی‌برد.", "r": "nabāyad ān-ghadr ghahve mi-khordam; hālā khāb-am nemi-barad.", "en": "I shouldn't have drunk so much coffee – now I can't sleep.", "col": "نباید اون‌قدر قهوه می‌خوردم؛ حالا خوابم نمی‌بره.", "colR": "nabāyad un-ghadr ghahve mi-khordam; hālā khāb-am nemi-bare."},
+    {"fa": "می‌توانستی قبل از آمدن زنگ بزنی.", "r": "mi-tavānesti ghabl az āmadan zang bezani.", "en": "You could have phoned before coming.", "col": "می‌تونستی قبل از اومدن زنگ بزنی.", "colR": "mi-tunesti ghabl az umadan zang bezani."},
+    {"fa": "دولت می‌بایست سال‌ها پیش این مشکل را حل می‌کرد.", "r": "dowlat mi-bāyest sāl-hā pish in moshkel rā hal mi-kard.", "en": "The government should have solved this problem years ago."},
+    {"fa": "کاش فردا باران نیاید؛ می‌خواهیم به کوه برویم.", "r": "kāsh fardā bārān nayāyad; mi-khāhim be kuh beravim.", "en": "I hope it doesn't rain tomorrow – we want to go to the mountains.", "col": "کاشکی فردا بارون نیاد؛ می‌خوایم بریم کوه.", "colR": "kāshki fardā bārun nayād; mi-khāyim berim kuh."}
+   ]
+  },
+  {
+   "type": "dialogue",
+   "title": "The phone call",
+   "context": "Amir calls Dariush for the first time in ten years. Listen for کاش, اگر … بودم and باید می‌…",
+   "lines": [
+    {"who": "Dariush", "fa": "الو؟", "r": "alo?", "en": "Hello?"},
+    {"who": "Amir", "fa": "سلام داریوش، امیر هستم.", "r": "salām Dāriush, Amir hastam.", "en": "Hi Dariush, it's Amir.", "col": "سلام داریوش، امیرم.", "colR": "salām Dāriush, Amir-am."},
+    {"who": "Dariush", "fa": "امیر؟ باورم نمی‌شود! ده سال است که صدایت را نشنیده‌ام.", "r": "Amir? bāvar-am nemi-shavad! dah sāl ast ke sedā-yat rā nashenide-am.", "en": "Amir? I can't believe it! I haven't heard your voice for ten years.", "col": "امیر؟ باورم نمی‌شه! ده ساله صداتو نشنیدم.", "colR": "Amir? bāvar-am nemi-she! dah sāle sedā-t-o nashenidam."},
+    {"who": "Amir", "fa": "می‌دانم. باید خیلی زودتر زنگ می‌زدم.", "r": "mi-dānam. bāyad kheyli zud-tar zang mi-zadam.", "en": "I know. I should have called much sooner.", "col": "می‌دونم. باید خیلی زودتر زنگ می‌زدم.", "colR": "mi-dunam. bāyad kheyli zud-tar zang mi-zadam."},
+    {"who": "Dariush", "fa": "من هم باید زنگ می‌زدم. چند بار شماره‌ات را گرفتم، اما قطع کردم.", "r": "man ham bāyad zang mi-zadam. chand bār shomāre-at rā gereftam, ammā ghat' kardam.", "en": "So should I. A few times I dialled your number, but then I hung up.", "col": "منم باید زنگ می‌زدم. چند بار شماره‌تو گرفتم، ولی قطع کردم.", "colR": "man-am bāyad zang mi-zadam. chand bār shomāre-t-o gereftam, vali ghat' kardam."},
+    {"who": "Amir", "fa": "کاش آن شب آن حرف‌ها را نزده بودم.", "r": "kāsh ān shab ān harf-hā rā nazade budam.", "en": "I wish I hadn't said those things that night.", "col": "کاشکی اون شب اون حرفا رو نزده بودم.", "colR": "kāshki un shab un harfā ro nazade budam."},
+    {"who": "Dariush", "fa": "اگر من هم آن‌قدر عصبانی نشده بودم، کار به این‌جا نمی‌کشید.", "r": "agar man ham ān-ghadr asabāni nashode budam, kār be in-jā nemi-keshid.", "en": "If I hadn't got so angry either, things would never have come to this.", "col": "اگه منم اون‌قدر عصبانی نشده بودم، کار به این‌جا نمی‌کشید.", "colR": "age man-am un-ghadr asabāni nashode budam, kār be in-jā nemi-keshid."},
+    {"who": "Amir", "fa": "دیروز تولدم بود. اگر تو هم آن‌جا بودی، همه چیز کامل بود.", "r": "diruz tavallod-am bud. agar to ham ān-jā budi, hame chiz kāmel bud.", "en": "It was my birthday yesterday. If you had been there too, everything would have been perfect.", "col": "دیروز تولدم بود. اگه تو هم اون‌جا بودی، همه چی کامل بود.", "colR": "diruz tavallod-am bud. age to ham un-jā budi, hame chi kāmel bud."},
+    {"who": "Dariush", "fa": "تولدت مبارک! شاید هدیه‌ات کمی دیر برسد!", "r": "tavallod-at mobārak! shāyad hedye-at kam-i dir beresad!", "en": "Happy birthday! Your present may arrive a little late!", "col": "تولدت مبارک! شاید کادوت یه کم دیر برسه!", "colR": "tavallod-et mobārak! shāyad kādo-t ye kam dir berese!"},
+    {"who": "Amir", "fa": "بهترین هدیه همین تلفن است. فردا شب وقت داری؟", "r": "behtarin hedye hamin telefon ast. fardā shab vaght dāri?", "en": "This call is the best present. Are you free tomorrow night?", "col": "بهترین کادو همین تلفنه. فردا شب وقت داری؟", "colR": "behtarin kādo hamin telefone. fardā shab vaght dāri?"},
+    {"who": "Dariush", "fa": "برای تو همیشه وقت دارم. همان قهوه‌خانه‌ی قدیمی؟", "r": "barā-ye to hamishe vaght dāram. hamān ghahve-khāne-ye ghadimi?", "en": "For you I always have time. The same old tea-house?", "col": "برای تو همیشه وقت دارم. همون قهوه‌خونه‌ی قدیمی؟", "colR": "barā-ye to hamishe vaght dāram. hamun ghahve-khune-ye ghadimi?"},
+    {"who": "Amir", "fa": "امیدوارم هنوز بسته نشده باشد!", "r": "omidvār-am hanuz baste nashode bāshad!", "en": "I hope it hasn't closed down yet!", "col": "امیدوارم هنوز بسته نشده باشه!", "colR": "omidvār-am hanuz baste nashode bāshe!"}
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Qahr and āshti",
+   "md": "Few words are as Iranian as [[قهر|ghahr]]. To be *qahr* with someone is to stop speaking to them after an offence – sometimes for an afternoon, sometimes, like Amir and Dariush, for years. Children announce it loudly: [[باهات قهرم!|bāhāt ghahr-am!|I'm not talking to you!]] Adults do it in silence: they skip a family gathering, don't answer the phone, send greetings to everyone except one person.\n\nThe cure is [[آشتی|āshti|reconciliation]], and it rarely happens by itself. Usually an elder or a friend acts as go-between, and the making-up is sealed with a visit, a meal or a gift. Nowruz is the traditional moment: during the New Year visits ([[دید و بازدید|did o bāzdid]]) the younger person calls on the older one, and old quarrels are expected to end with the old year.\n\nThe Persian of regret has its own sighs. When it is too late to change anything, people say [[کار از کار گذشته است|kār az kār gozashte ast|it's too late now]] – literally *the work has passed beyond the work*. Amir picked up the phone before it was.",
+   "image": "nowruz"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "In unreal conditions use the past continuous: اگر می‌دانستم، می‌گفتم. Only بودن and داشتن use the simple past instead: اگر بودم، اگر داشتم.",
+    "اگر می‌رفتم can mean 'if I went' or 'if I had gone'. When you need to be clearly in the past, use the past perfect: اگر رفته بودم.",
+    "باید رفته باشد = 'he must have gone' (a guess). باید می‌رفت = 'he should have gone' or 'he had to go' – context tells you whether he went.",
+    "In speech کاش is usually کاشکی; ای کاش sounds more emotional, even poetic.",
+    "داشته باشم is the normal subjunctive of داشتن ('that I have'), not a past subjunctive: امیدوارم روز خوبی داشته باشی 'I hope you have a good day'.",
+    "When you hear می‌بایست in the news, it means the same as باید: 'should (have)'."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentence",
+   "items": [
+    {"fa": "اگر وقت ___، به تو کمک می‌کردم.", "r": "agar vaght ___, be to komak mi-kardam.", "en": "If I had time, I would help you.", "answer": "داشتم", "hint": "داشتن, simple past, 'I'"},
+    {"fa": "اگر زودتر رسیده ___، قطار را از دست نمی‌دادیم.", "r": "agar zud-tar reside ___, ghatār rā az dast nemi-dādim.", "en": "If we had arrived earlier, we wouldn't have missed the train.", "answer": "بودیم", "hint": "past perfect, 'we'"},
+    {"fa": "کاش آن ماشین را نخریده ___.", "r": "kāsh ān māshin rā nakharide ___.", "en": "I wish I hadn't bought that car.", "answer": "بودم", "hint": "past perfect, 'I'"},
+    {"fa": "شاید او پیام مرا ندیده ___.", "r": "shāyad u payām-e marā nadide ___.", "en": "Maybe he hasn't seen my message.", "answer": "باشد", "hint": "past subjunctive"},
+    {"fa": "باید به دکتر ___.", "r": "bāyad be doktor ___.", "en": "You should have gone to the doctor.", "answer": "می‌رفتی", "hint": "past continuous of رفتن, 'you'"},
+    {"fa": "اگر جای تو ___، قبول می‌کردم.", "r": "agar jā-ye to ___, ghabul mi-kardam.", "en": "If I were you, I'd accept.", "answer": "بودم", "hint": "بودن, simple past"}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "What does it mean?",
+   "items": [
+    {"q": "'If I were rich, I would travel.' Which is correct?", "options": ["اگر پولدار باشم، سفر می‌کنم.", "اگر پولدار بودم، سفر می‌کردم.", "اگر پولدار بودم، سفر خواهم کرد."], "answer": 1, "explain": "Unreal: the simple past of بودن in the if-clause and the past continuous in the result. The first sentence is a real condition."},
+    {"q": "[[باید رفته باشد.|bāyad rafte bāshad.]] means…", "options": ["He must have gone.", "He should have gone.", "He has to go."], "answer": 0, "explain": "باید + past subjunctive is a deduction about the past."},
+    {"q": "[[باید می‌رفت.|bāyad mi-raft.]] means…", "options": ["He must have gone.", "He should have gone (or: he had to go).", "He will have to go."], "answer": 1, "explain": "باید + past continuous is about what was necessary."},
+    {"q": "Which sentence is a regret about the past?", "options": ["کاش فردا بیاید.", "کاش آن‌جا نرفته بودم.", "کاش این‌جا باشی."], "answer": 1, "explain": "کاش + past perfect = I wish I hadn't…"},
+    {"q": "[[امیدوارم رسیده باشی.|omidvār-am reside bāshi.]] means…", "options": ["I hope you've arrived.", "I hope you will come.", "I wish you had arrived."], "answer": 0, "explain": "امیدوارم + past subjunctive: I hope something has (already) happened."},
+    {"q": "Which word do you often hear in speech instead of کاش?", "options": ["کاشکی", "کاشا", "کاشم"], "answer": 0, "explain": "کاشکی is the everyday spoken form."}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {"en": "If I had a car, I would drive you home.", "fa": "اگر ماشین داشتم، تو را به خانه می‌رساندم.", "r": "agar māshin dāshtam, to rā be khāne mi-resāndam."},
+    {"en": "I wish you were here.", "fa": "کاش این‌جا بودی.", "r": "kāsh in-jā budi."},
+    {"en": "You should have told me.", "fa": "باید به من می‌گفتی.", "r": "bāyad be man mi-gofti."},
+    {"en": "He may have forgotten.", "fa": "شاید فراموش کرده باشد.", "r": "shāyad farāmush karde bāshad."},
+    {"en": "If we had left earlier, we wouldn't have been late.", "fa": "اگر زودتر راه افتاده بودیم، دیر نمی‌رسیدیم.", "r": "agar zud-tar rāh oftāde budim, dir nemi-residim."},
+    {"en": "I wish I hadn't said that.", "fa": "کاش آن حرف را نزده بودم.", "r": "kāsh ān harf rā nazade budam."}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {"fa": "اگر پول داشتم، یک خانه می‌خریدم.", "r": "agar pul dāshtam, yek khāne mi-kharidam.", "en": "If I had money, I would buy a house."},
+    {"fa": "کاش آن حرف را نزده بودم.", "r": "kāsh ān harf rā nazade budam.", "en": "I wish I hadn't said that."},
+    {"fa": "باید زودتر به من زنگ می‌زدی.", "r": "bāyad zud-tar be man zang mi-zadi.", "en": "You should have called me sooner."},
+    {"fa": "شاید کلیدم را در ماشین جا گذاشته باشم.", "r": "shāyad kelid-am rā dar māshin jā gozāshte bāsham.", "en": "I may have left my key in the car."}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the meanings",
+   "items": [
+    {"fa": "کاش می‌دانستم", "r": "kāsh mi-dānestam", "en": "I wish I knew"},
+    {"fa": "کاش نرفته بودم", "r": "kāsh narafte budam", "en": "I wish I hadn't gone"},
+    {"fa": "باید می‌آمدی", "r": "bāyad mi-āmadi", "en": "you should have come"},
+    {"fa": "نباید می‌گفتی", "r": "nabāyad mi-gofti", "en": "you shouldn't have said it"},
+    {"fa": "شاید دیده باشد", "r": "shāyad dide bāshad", "en": "he may have seen it"},
+    {"fa": "باید رفته باشند", "r": "bāyad rafte bāshand", "en": "they must have gone"},
+    {"fa": "اگر جای تو بودم", "r": "agar jā-ye to budam", "en": "if I were you"},
+    {"fa": "می‌توانستی بپرسی", "r": "mi-tavānesti beporsi", "en": "you could have asked"}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {"fa": "اگر می‌دانستم، به تو می‌گفتم.", "r": "agar mi-dānestam, be to mi-goftam.", "en": "If I had known, I would have told you.", "options": ["If I had known, I would have told you.", "I know, and I'll tell you.", "If you know, tell me."], "answer": 0},
+    {"fa": "کاش زودتر آمده بودی.", "r": "kāsh zud-tar āmade budi.", "en": "I wish you had come earlier.", "options": ["You came early.", "I wish you had come earlier.", "Come earlier tomorrow."], "answer": 1},
+    {"fa": "شاید هنوز نرسیده باشند.", "r": "shāyad hanuz naraside bāshand.", "en": "Maybe they haven't arrived yet.", "options": ["They have definitely arrived.", "They should have arrived.", "Maybe they haven't arrived yet."], "answer": 2}
+   ]
+  }
+ ]
+}

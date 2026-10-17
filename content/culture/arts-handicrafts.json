@@ -40,85 +40,229 @@
   {
    "fa": "صنایع دستی ایران در دنیا معروف است.",
    "r": "sanāye'-e dasti-ye Irān dar donyā ma'ruf ast.",
-   "en": "Iran's handicrafts are famous around the world."
+   "en": "Iran's handicrafts are famous around the world.",
+   "faV": "صَنایِعِ دَستیِ ایران دَر دُنیا مَعروف اَست.",
+   "a": "eb5987fd4160"
   },
   {
    "fa": "اصفهان شهر جهانی صنایع دستی است.",
    "r": "Esfahān shahr-e jahāni-ye sanāye'-e dasti ast.",
-   "en": "Isfahan is a world city of handicrafts."
+   "en": "Isfahan is a world city of handicrafts.",
+   "faV": "اِصفَهان شَهرِ جَهانیِ صَنایِعِ دَستی اَست.",
+   "a": "9da465c8d9fa"
   },
   {
    "fa": "خاتم‌کاری از چوب، استخوان و فلز درست می‌شود.",
    "r": "khātam-kāri az chub, ostokhān va felez dorost mi-shavad.",
-   "en": "Khatam is made of wood, bone and metal."
+   "en": "Khatam is made of wood, bone and metal.",
+   "faV": "خاتَم‌کاری اَز چوب، اُستُخوان و فِلِز دُرُست می‌شَوَد.",
+   "a": "21467cf52d9a"
   },
   {
    "fa": "در بازار اصفهان صدای چکش مسگرها را می‌شنوی.",
    "r": "dar bāzār-e Esfahān sedā-ye chakosh-e mesgar-hā rā mi-shenavi.",
-   "en": "In the Isfahan bazaar you hear the coppersmiths' hammers."
+   "en": "In the Isfahan bazaar you hear the coppersmiths' hammers.",
+   "faV": "دَر بازارِ اِصفَهان صِدایِ چَکُشِ مِسگَرها را می‌شِنَوی.",
+   "a": "3e586fc11fd7"
   },
   {
    "fa": "میناکاری یعنی نقاشی با رنگ‌های شیشه‌ای روی فلز.",
    "r": "minākāri ya'ni nagghāshi bā rang-hā-ye shishe-i ru-ye felez.",
-   "en": "Minakari means painting on metal with glassy colours."
+   "en": "Minakari means painting on metal with glassy colours.",
+   "faV": "میناکاری یَعنی نَقّاشی با رَنگ‌هایِ شیشه‌ای رویِ فِلِز.",
+   "a": "e29c17ce65e5"
   },
   {
    "fa": "رنگ آبی فیروزه‌ای در میناکاری خیلی رایج است.",
    "r": "rang-e ābi-ye firuze-i dar minākāri kheyli rāyej ast.",
-   "en": "Turquoise blue is very common in minakari."
+   "en": "Turquoise blue is very common in minakari.",
+   "faV": "رَنگِ آبیِ فیروزه‌ای دَر میناکاری خَیلی رایِج اَست.",
+   "a": "6d0f9d36b3fd"
   },
   {
    "fa": "ترمه‌ی یزد پارچه‌ای گران‌بها است.",
    "r": "terme-ye Yazd pārche-i gerān-bahā ast.",
-   "en": "The termeh of Yazd is a precious cloth."
+   "en": "The termeh of Yazd is a precious cloth.",
+   "faV": "تِرمه‌یِ یَزد پارچه‌ای گِران‌بَها اَست.",
+   "a": "730f965b7f05"
   },
   {
    "fa": "روی ترمه نقش بته‌جقه زیاد دیده می‌شود.",
    "r": "ru-ye terme naghsh-e bote-jeghe ziyād dide mi-shavad.",
-   "en": "The paisley motif is often seen on termeh."
+   "en": "The paisley motif is often seen on termeh.",
+   "faV": "رویِ تِرمه نَقشِ بُته‌جِقه زیاد دیده می‌شَوَد.",
+   "a": "5e0fb18efcef"
   },
   {
    "fa": "قلمکار را با مهرهای چوبی چاپ می‌کنند.",
    "r": "ghalamkār rā bā mohr-hā-ye chubi chāp mi-konand.",
-   "en": "Ghalamkar is printed with wooden stamps."
+   "en": "Ghalamkar is printed with wooden stamps.",
+   "faV": "قَلَمکار را با مُهرهایِ چوبی چاپ می‌کُنَند.",
+   "a": "ebc4de533348"
   },
   {
    "fa": "لالجین را پایتخت سفال ایران می‌دانند.",
    "r": "Lālejin rā pāytakht-e sofāl-e Irān mi-dānand.",
-   "en": "Lalejin is considered the capital of Iranian pottery."
+   "en": "Lalejin is considered the capital of Iranian pottery.",
+   "faV": "لالِجین را پایتَختِ سُفالِ ایران می‌دانَند.",
+   "a": "8bf36d5f7783"
   },
   {
    "fa": "این سوغاتی را از یزد خریدم.",
    "r": "in sowghāti rā az Yazd kharidam.",
-   "en": "I bought this souvenir in Yazd."
+   "en": "I bought this souvenir in Yazd.",
+   "faV": "این سَوغاتی را اَز یَزد خَریدَم.",
+   "a": "f52ab15cc118"
   },
   {
    "fa": "آیا این کاسه دست‌ساز است؟",
    "r": "āyā in kāse dast-sāz ast?",
-   "en": "Is this bowl handmade?"
+   "en": "Is this bowl handmade?",
+   "faV": "آیا این کاسه دَست‌ساز اَست؟",
+   "a": "7f7d4c1cca6d"
   }
  ],
  "vocab": [
-  {"fa": "صنایع دستی", "r": "sanāye'-e dasti", "en": "handicrafts"},
-  {"fa": "هنرمند", "r": "honarmand", "en": "artist"},
-  {"fa": "استادکار", "r": "ostād-kār", "en": "master craftsman"},
-  {"fa": "کارگاه", "r": "kārgāh", "en": "workshop"},
-  {"fa": "خاتم‌کاری", "r": "khātam-kāri", "en": "khatam, wood-and-bone marquetry"},
-  {"fa": "چوب", "r": "chub", "en": "wood"},
-  {"fa": "استخوان", "r": "ostokhān", "en": "bone"},
-  {"fa": "مس", "r": "mes", "en": "copper"},
-  {"fa": "مسگر", "r": "mesgar", "en": "coppersmith"},
-  {"fa": "قلمزنی", "r": "ghalamzani", "en": "metal engraving"},
-  {"fa": "میناکاری", "r": "minākāri", "en": "enamelling, minakari"},
-  {"fa": "فیروزه", "r": "firuze", "en": "turquoise"},
-  {"fa": "ترمه", "r": "terme", "en": "termeh, woven silk cloth of Yazd"},
-  {"fa": "پارچه", "r": "pārche", "en": "cloth, fabric"},
-  {"fa": "قلمکار", "r": "ghalamkār", "en": "ghalamkar, hand-printed cotton"},
-  {"fa": "سفال", "r": "sofāl", "en": "pottery, earthenware"},
-  {"fa": "کوزه", "r": "kuze", "en": "jug, water jar"},
-  {"fa": "کاسه", "r": "kāse", "en": "bowl"},
-  {"fa": "سوغاتی", "r": "sowghāti", "en": "souvenir, gift from a trip"},
-  {"fa": "دست‌ساز", "r": "dast-sāz", "en": "handmade"}
+  {
+   "fa": "صنایع دستی",
+   "r": "sanāye'-e dasti",
+   "en": "handicrafts",
+   "faV": "صَنایِعِ دَستی",
+   "a": "48e0993d969c"
+  },
+  {
+   "fa": "هنرمند",
+   "r": "honarmand",
+   "en": "artist",
+   "faV": "هُنَرمَند",
+   "a": "b3a86efd8273"
+  },
+  {
+   "fa": "استادکار",
+   "r": "ostād-kār",
+   "en": "master craftsman",
+   "faV": "اُستادکار",
+   "a": "e0fa16e63d28"
+  },
+  {
+   "fa": "کارگاه",
+   "r": "kārgāh",
+   "en": "workshop",
+   "faV": "کارگاه",
+   "a": "7ce025e1abfe"
+  },
+  {
+   "fa": "خاتم‌کاری",
+   "r": "khātam-kāri",
+   "en": "khatam, wood-and-bone marquetry",
+   "faV": "خاتَم‌کاری",
+   "a": "4853fc1dd901"
+  },
+  {
+   "fa": "چوب",
+   "r": "chub",
+   "en": "wood",
+   "faV": "چوب",
+   "a": "791484726440"
+  },
+  {
+   "fa": "استخوان",
+   "r": "ostokhān",
+   "en": "bone",
+   "faV": "اُستُخوان",
+   "a": "67c5d9b1c1a3"
+  },
+  {
+   "fa": "مس",
+   "r": "mes",
+   "en": "copper",
+   "faV": "مِس",
+   "a": "fe7fe3bea8e9"
+  },
+  {
+   "fa": "مسگر",
+   "r": "mesgar",
+   "en": "coppersmith",
+   "faV": "مِسگَر",
+   "a": "4f608c4b8a72"
+  },
+  {
+   "fa": "قلمزنی",
+   "r": "ghalamzani",
+   "en": "metal engraving",
+   "faV": "قَلَمزَنی",
+   "a": "90c1b24edf8d"
+  },
+  {
+   "fa": "میناکاری",
+   "r": "minākāri",
+   "en": "enamelling, minakari",
+   "faV": "میناکاری",
+   "a": "cbd35b0ee1cc"
+  },
+  {
+   "fa": "فیروزه",
+   "r": "firuze",
+   "en": "turquoise",
+   "faV": "فیروزه",
+   "a": "771f149e5c22"
+  },
+  {
+   "fa": "ترمه",
+   "r": "terme",
+   "en": "termeh, woven silk cloth of Yazd",
+   "faV": "تِرمه",
+   "a": "dcf76d057c81"
+  },
+  {
+   "fa": "پارچه",
+   "r": "pārche",
+   "en": "cloth, fabric",
+   "faV": "پارچه",
+   "a": "70095f58d607"
+  },
+  {
+   "fa": "قلمکار",
+   "r": "ghalamkār",
+   "en": "ghalamkar, hand-printed cotton",
+   "faV": "قَلَمکار",
+   "a": "26d4f0e8c862"
+  },
+  {
+   "fa": "سفال",
+   "r": "sofāl",
+   "en": "pottery, earthenware",
+   "faV": "سُفال",
+   "a": "950dbb14fec3"
+  },
+  {
+   "fa": "کوزه",
+   "r": "kuze",
+   "en": "jug, water jar",
+   "faV": "کوزه",
+   "a": "7f31a1d700d0"
+  },
+  {
+   "fa": "کاسه",
+   "r": "kāse",
+   "en": "bowl",
+   "faV": "کاسه",
+   "a": "e2ea37bba35e"
+  },
+  {
+   "fa": "سوغاتی",
+   "r": "sowghāti",
+   "en": "souvenir, gift from a trip",
+   "faV": "سَوغاتی",
+   "a": "2b086c773843"
+  },
+  {
+   "fa": "دست‌ساز",
+   "r": "dast-sāz",
+   "en": "handmade",
+   "faV": "دَست‌ساز",
+   "a": "ae624cbaa93f"
+  }
  ],
  "facts": [
   "The World Crafts Council named Isfahan a World Craft City in 2015.",
@@ -127,5 +271,7 @@
   "Zanjan is famous for its knives and for delicate silver filigree, [[ملیله|malile]].",
   "The name ghalamkar means 'pen-work', a reminder that such cloth was once painted by hand; the same word gave India's kalamkari its name.",
   "Mirror mosaic, [[آینه‌کاری|āyene-kāri]], covers the inside of many Iranian shrines and palaces, turning a single lamp into thousands of points of light."
- ]
+ ],
+ "titleV": "صَنایِعِ دَستیِ ایران",
+ "titleA": "bfea919455c7"
 }

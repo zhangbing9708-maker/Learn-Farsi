@@ -37,37 +37,211 @@
   }
  ],
  "sentences": [
-  {"fa": "بازار تبریز یکی از بزرگ‌ترین بازارهای سرپوشیده‌ی جهان است.", "r": "bāzār-e Tabriz yek-i az bozorg-tarin bāzār-hā-ye sarpushide-ye jahān ast.", "en": "The Tabriz bazaar is one of the largest covered bazaars in the world."},
-  {"fa": "فرش‌فروش‌ها در تیمچه‌ی مظفریه هستند.", "r": "farsh-forush-hā dar timche-ye Mozaffariye hastand.", "en": "The carpet sellers are in the Mozaffariyeh hall."},
-  {"fa": "این فرش دست‌باف تبریز است.", "r": "in farsh dast-bāf-e Tabriz ast.", "en": "This carpet was hand-woven in Tabriz."},
-  {"fa": "لطفاً یک کوفته‌ی تبریزی بیاورید.", "r": "lotfan yek kufte-ye tabrizi bi-yāvarid.", "en": "Please bring one Tabrizi kufteh."},
-  {"fa": "قرابیه سوغاتی معروف تبریز است.", "r": "ghorābiye soghāti-ye ma'ruf-e Tabriz ast.", "en": "Ghorabiye biscuits are Tabriz's famous souvenir."},
-  {"fa": "در تبریز مردم به ترکی و فارسی حرف می‌زنند.", "r": "dar Tabriz mardom be torki va fārsi harf mi-zanand.", "en": "In Tabriz people speak Turkish and Persian."},
-  {"fa": "«ساغ اول» یعنی «متشکرم».", "r": "«sāgh ol» ya'ni «moteshakker-am».", "en": "'Sağ ol' means 'thank you'."},
-  {"fa": "مسجد کبود در زلزله خراب شد.", "r": "Masjed-e Kabud dar zelzele kharāb shod.", "en": "The Blue Mosque was destroyed in an earthquake."},
-  {"fa": "عصرها خانواده‌ها دور دریاچه‌ی ائل‌گلی قدم می‌زنند.", "r": "asr-hā khānevāde-hā dowr-e daryāche-ye El-goli ghadam mi-zanand.", "en": "In the evenings families walk around the lake at El Goli."},
-  {"fa": "در کندوان مردم هنوز در خانه‌های سنگی زندگی می‌کنند.", "r": "dar Kandovān mardom hanuz dar khāne-hā-ye sangi zendegi mi-konand.", "en": "In Kandovan people still live in houses of rock."},
-  {"fa": "دریاچه‌ی ارومیه در سال‌های اخیر خیلی کوچک شده است.", "r": "daryāche-ye Orumiye dar sāl-hā-ye akhir kheyli kuchak shode ast.", "en": "Lake Urmia has become much smaller in recent years."},
-  {"fa": "زمستان تبریز خیلی سرد است و برف زیاد می‌بارد.", "r": "zemestān-e Tabriz kheyli sard ast va barf ziyād mi-bārad.", "en": "Winter in Tabriz is very cold and it snows a lot."}
+  {
+   "fa": "بازار تبریز یکی از بزرگ‌ترین بازارهای سرپوشیده‌ی جهان است.",
+   "r": "bāzār-e Tabriz yek-i az bozorg-tarin bāzār-hā-ye sarpushide-ye jahān ast.",
+   "en": "The Tabriz bazaar is one of the largest covered bazaars in the world.",
+   "faV": "بازارِ تَبریز یِکی اَز بُزُرگ‌تَرین بازارهایِ سَرپوشیده‌یِ جَهان اَست.",
+   "a": "75ac0768b976"
+  },
+  {
+   "fa": "فرش‌فروش‌ها در تیمچه‌ی مظفریه هستند.",
+   "r": "farsh-forush-hā dar timche-ye Mozaffariye hastand.",
+   "en": "The carpet sellers are in the Mozaffariyeh hall.",
+   "faV": "فَرش‌فُروش‌ها دَر تیمچه‌یِ مُظَفَّریه هَستَند.",
+   "a": "d6a36f342d85"
+  },
+  {
+   "fa": "این فرش دست‌باف تبریز است.",
+   "r": "in farsh dast-bāf-e Tabriz ast.",
+   "en": "This carpet was hand-woven in Tabriz.",
+   "faV": "این فَرش دَست‌بافِ تَبریز اَست.",
+   "a": "aca4796a791c"
+  },
+  {
+   "fa": "لطفاً یک کوفته‌ی تبریزی بیاورید.",
+   "r": "lotfan yek kufte-ye tabrizi bi-yāvarid.",
+   "en": "Please bring one Tabrizi kufteh.",
+   "faV": "لُطفاً یِک کوفته‌یِ تَبریزی بیاوَرید.",
+   "a": "a18c868d5cd0"
+  },
+  {
+   "fa": "قرابیه سوغاتی معروف تبریز است.",
+   "r": "ghorābiye soghāti-ye ma'ruf-e Tabriz ast.",
+   "en": "Ghorabiye biscuits are Tabriz's famous souvenir.",
+   "faV": "قُرابیه سوغاتیِ مَعروفِ تَبریز اَست.",
+   "a": "35dcf5a94bbf"
+  },
+  {
+   "fa": "در تبریز مردم به ترکی و فارسی حرف می‌زنند.",
+   "r": "dar Tabriz mardom be torki va fārsi harf mi-zanand.",
+   "en": "In Tabriz people speak Turkish and Persian.",
+   "faV": "دَر تَبریز مَردُم به تُرکی و فارسی حَرف می‌زَنَند.",
+   "a": "a9461938905a"
+  },
+  {
+   "fa": "«ساغ اول» یعنی «متشکرم».",
+   "r": "«sāgh ol» ya'ni «moteshakker-am».",
+   "en": "'Sağ ol' means 'thank you'.",
+   "faV": "«ساغ اول» یَعنی «مُتِشَکِّرَم».",
+   "a": "48353bc454d8"
+  },
+  {
+   "fa": "مسجد کبود در زلزله خراب شد.",
+   "r": "Masjed-e Kabud dar zelzele kharāb shod.",
+   "en": "The Blue Mosque was destroyed in an earthquake.",
+   "faV": "مَسجِدِ کَبود دَر زِلزِله خَراب شُد.",
+   "a": "1f253f86ea0e"
+  },
+  {
+   "fa": "عصرها خانواده‌ها دور دریاچه‌ی ائل‌گلی قدم می‌زنند.",
+   "r": "asr-hā khānevāde-hā dowr-e daryāche-ye El-goli ghadam mi-zanand.",
+   "en": "In the evenings families walk around the lake at El Goli.",
+   "faV": "عَصرها خانِواده‌ها دَورِ دَریاچه‌یِ ائِل‌گُلی قَدَم می‌زَنَند.",
+   "a": "a542d9ba118d"
+  },
+  {
+   "fa": "در کندوان مردم هنوز در خانه‌های سنگی زندگی می‌کنند.",
+   "r": "dar Kandovān mardom hanuz dar khāne-hā-ye sangi zendegi mi-konand.",
+   "en": "In Kandovan people still live in houses of rock.",
+   "faV": "دَر کَندُوان مَردُم هَنوز دَر خانه‌هایِ سَنگی زِندِگی می‌کُنَند.",
+   "a": "8f0b157c5d3f"
+  },
+  {
+   "fa": "دریاچه‌ی ارومیه در سال‌های اخیر خیلی کوچک شده است.",
+   "r": "daryāche-ye Orumiye dar sāl-hā-ye akhir kheyli kuchak shode ast.",
+   "en": "Lake Urmia has become much smaller in recent years.",
+   "faV": "دَریاچه‌یِ اُرومیه دَر سال‌هایِ اَخیر خَیلی کوچَک شُده اَست.",
+   "a": "3a19c58d0b76"
+  },
+  {
+   "fa": "زمستان تبریز خیلی سرد است و برف زیاد می‌بارد.",
+   "r": "zemestān-e Tabriz kheyli sard ast va barf ziyād mi-bārad.",
+   "en": "Winter in Tabriz is very cold and it snows a lot.",
+   "faV": "زِمِستانِ تَبریز خَیلی سَرد اَست و بَرف زیاد می‌بارَد.",
+   "a": "fda818edca70"
+  }
  ],
  "vocab": [
-  {"fa": "بازار سرپوشیده", "r": "bāzār-e sarpushide", "en": "covered bazaar"},
-  {"fa": "تیمچه", "r": "timche", "en": "domed hall in a bazaar"},
-  {"fa": "فرش", "r": "farsh", "en": "carpet"},
-  {"fa": "دست‌باف", "r": "dast-bāf", "en": "hand-woven"},
-  {"fa": "فروشنده", "r": "forushande", "en": "seller, shopkeeper"},
-  {"fa": "کوفته", "r": "kufte", "en": "large meatball"},
-  {"fa": "پنیر", "r": "panir", "en": "cheese"},
-  {"fa": "ترکی", "r": "torki", "en": "Turkish (language)"},
-  {"fa": "زبان", "r": "zabān", "en": "language; tongue"},
-  {"fa": "لهجه", "r": "lahje", "en": "accent"},
-  {"fa": "زلزله", "r": "zelzele", "en": "earthquake"},
-  {"fa": "مرمت", "r": "maremmat", "en": "restoration, repair"},
-  {"fa": "آتشفشان", "r": "ātashfeshān", "en": "volcano"},
-  {"fa": "دریاچه", "r": "daryāche", "en": "lake"},
-  {"fa": "برف", "r": "barf", "en": "snow"},
-  {"fa": "سرد", "r": "sard", "en": "cold"},
-  {"fa": "غار", "r": "ghār", "en": "cave"}
+  {
+   "fa": "بازار سرپوشیده",
+   "r": "bāzār-e sarpushide",
+   "en": "covered bazaar",
+   "faV": "بازارِ سَرپوشیده",
+   "a": "631d82d118e3"
+  },
+  {
+   "fa": "تیمچه",
+   "r": "timche",
+   "en": "domed hall in a bazaar",
+   "faV": "تیمچه",
+   "a": "d2c100a608d4"
+  },
+  {
+   "fa": "فرش",
+   "r": "farsh",
+   "en": "carpet",
+   "faV": "فَرش",
+   "a": "c47d09fc9bac"
+  },
+  {
+   "fa": "دست‌باف",
+   "r": "dast-bāf",
+   "en": "hand-woven",
+   "faV": "دَست‌باف",
+   "a": "776b3573076e"
+  },
+  {
+   "fa": "فروشنده",
+   "r": "forushande",
+   "en": "seller, shopkeeper",
+   "faV": "فُروشَنده",
+   "a": "9c251cd1f097"
+  },
+  {
+   "fa": "کوفته",
+   "r": "kufte",
+   "en": "large meatball",
+   "faV": "کوفته",
+   "a": "3cc1de72703d"
+  },
+  {
+   "fa": "پنیر",
+   "r": "panir",
+   "en": "cheese",
+   "faV": "پَنیر",
+   "a": "8c5b0504a445"
+  },
+  {
+   "fa": "ترکی",
+   "r": "torki",
+   "en": "Turkish (language)",
+   "faV": "تُرکی",
+   "a": "b327e32adaff"
+  },
+  {
+   "fa": "زبان",
+   "r": "zabān",
+   "en": "language; tongue",
+   "faV": "زَبان",
+   "a": "a97a2b11b019"
+  },
+  {
+   "fa": "لهجه",
+   "r": "lahje",
+   "en": "accent",
+   "faV": "لَهجه",
+   "a": "59b0ecc5828f"
+  },
+  {
+   "fa": "زلزله",
+   "r": "zelzele",
+   "en": "earthquake",
+   "faV": "زِلزِله",
+   "a": "78e579ead7d6"
+  },
+  {
+   "fa": "مرمت",
+   "r": "maremmat",
+   "en": "restoration, repair",
+   "faV": "مَرِمَّت",
+   "a": "96d64b96ca75"
+  },
+  {
+   "fa": "آتشفشان",
+   "r": "ātashfeshān",
+   "en": "volcano",
+   "faV": "آتَشفِشان",
+   "a": "153437b6d7a5"
+  },
+  {
+   "fa": "دریاچه",
+   "r": "daryāche",
+   "en": "lake",
+   "faV": "دَریاچه",
+   "a": "4ae3093d4f01"
+  },
+  {
+   "fa": "برف",
+   "r": "barf",
+   "en": "snow",
+   "faV": "بَرف",
+   "a": "6b2b7b64ea55"
+  },
+  {
+   "fa": "سرد",
+   "r": "sard",
+   "en": "cold",
+   "faV": "سَرد",
+   "a": "d684e3e468c8"
+  },
+  {
+   "fa": "غار",
+   "r": "ghār",
+   "en": "cave",
+   "faV": "غار",
+   "a": "adda1b7e901f"
+  }
  ],
  "facts": [
   "The Tabriz Historic Bazaar Complex became a UNESCO World Heritage Site in 2010.",
@@ -77,5 +251,7 @@
   "Shams of Tabriz, the wandering mystic who changed the life of Rumi, came from this city.",
   "The 2016 census counted about 1.56 million people in Tabriz.",
   "The everyday Persian words ghāshogh (spoon) and otāgh (room) were borrowed from Turkic languages."
- ]
+ ],
+ "titleV": "تَبریز",
+ "titleA": "0ebd4e91e6c1"
 }

@@ -41,37 +41,219 @@
   }
  ],
  "sentences": [
-  {"fa": "قایق بعدی به هرمز کی حرکت می‌کند؟", "r": "ghāyegh-e ba'di be Hormoz key harekat mi-konad?", "en": "When does the next boat to Hormuz leave?", "col": "قایق بعدی برای هرمز کی راه می‌افته؟", "colR": "ghāyegh-e ba'di barā-ye Hormoz key rāh mi-ofte?"},
-  {"fa": "خاک قرمز هرمز را در غذا هم می‌ریزند.", "r": "khāk-e ghermez-e Hormoz rā dar ghazā ham mi-rizand.", "en": "They even put the red earth of Hormuz in food."},
-  {"fa": "قشم بزرگ‌ترین جزیره‌ی خلیج فارس است.", "r": "Gheshm bozorg-tarin jazire-ye Khalij-e Fārs ast.", "en": "Qeshm is the largest island in the Persian Gulf."},
-  {"fa": "با قایق از میان جنگل حرا گذشتیم.", "r": "bā ghāyegh az miyān-e jangal-e Harā gozashtim.", "en": "We went through the Hara forest by boat."},
-  {"fa": "درختان حرا در آب شور زندگی می‌کنند.", "r": "derakhtān-e Harā dar āb-e shur zendegi mi-konand.", "en": "Mangrove trees live in salt water."},
-  {"fa": "لنج را با چوب و با دست می‌سازند.", "r": "lenj rā bā chub va bā dast mi-sāzand.", "en": "A lenj is built of wood, by hand."},
-  {"fa": "ناخدا گفت امروز دریا آرام است.", "r": "nākhodā goft emruz daryā ārām ast.", "en": "The captain said the sea is calm today."},
-  {"fa": "غروب کنار کشتی یونانی خیلی قشنگ است.", "r": "ghorub kenār-e kashti-ye yunāni kheyli ghashang ast.", "en": "Sunset by the Greek Ship is very beautiful."},
-  {"fa": "کیش منطقه‌ی آزاد تجاری است.", "r": "Kish mantaghe-ye āzād-e tejāri ast.", "en": "Kish is a free trade zone."},
-  {"fa": "قلیه‌ماهی کمی تند است.", "r": "ghalye-māhi kami tond ast.", "en": "Ghalyeh mahi is a little spicy.", "col": "قلیه‌ماهی یه کم تنده.", "colR": "ghalye-māhi ye kam tonde."},
-  {"fa": "از اردیبهشت تا مهر هوا خیلی گرم و شرجی است.", "r": "az Ordibehesht tā Mehr havā kheyli garm o sharji ast.", "en": "From Ordibehesht to Mehr (late April to October) the weather is very hot and humid."},
-  {"fa": "زمستان بهترین فصل سفر به جزیره‌هاست.", "r": "zemestān beh-tarin fasl-e safar be jazire-hāst.", "en": "Winter is the best season for a trip to the islands."}
+  {
+   "fa": "قایق بعدی به هرمز کی حرکت می‌کند؟",
+   "r": "ghāyegh-e ba'di be Hormoz key harekat mi-konad?",
+   "en": "When does the next boat to Hormuz leave?",
+   "col": "قایق بعدی برای هرمز کی راه می‌افته؟",
+   "colR": "ghāyegh-e ba'di barā-ye Hormoz key rāh mi-ofte?",
+   "faV": "قایِقِ بَعدی به هُرمُز کَی حَرِکَت می‌کُنَد؟",
+   "a": "8c48d674c339",
+   "colV": "قایِقِ بَعدی بَرایِ هُرمُز کَی راه می‌اُفته؟",
+   "colA": "4df3bc445602"
+  },
+  {
+   "fa": "خاک قرمز هرمز را در غذا هم می‌ریزند.",
+   "r": "khāk-e ghermez-e Hormoz rā dar ghazā ham mi-rizand.",
+   "en": "They even put the red earth of Hormuz in food.",
+   "faV": "خاکِ قِرمِزِ هُرمُز را دَر غَذا هَم می‌ریزَند.",
+   "a": "9075110b75ce"
+  },
+  {
+   "fa": "قشم بزرگ‌ترین جزیره‌ی خلیج فارس است.",
+   "r": "Gheshm bozorg-tarin jazire-ye Khalij-e Fārs ast.",
+   "en": "Qeshm is the largest island in the Persian Gulf.",
+   "faV": "قِشم بُزُرگ‌تَرین جَزیره‌یِ خَلیجِ فارس اَست.",
+   "a": "ace595601c45"
+  },
+  {
+   "fa": "با قایق از میان جنگل حرا گذشتیم.",
+   "r": "bā ghāyegh az miyān-e jangal-e Harā gozashtim.",
+   "en": "We went through the Hara forest by boat.",
+   "faV": "با قایِق اَز میانِ جَنگَلِ حَرا گُذَشتیم.",
+   "a": "aeb36b0f6012"
+  },
+  {
+   "fa": "درختان حرا در آب شور زندگی می‌کنند.",
+   "r": "derakhtān-e Harā dar āb-e shur zendegi mi-konand.",
+   "en": "Mangrove trees live in salt water.",
+   "faV": "دِرَختانِ حَرا دَر آبِ شور زِندِگی می‌کُنَند.",
+   "a": "e63be32219ac"
+  },
+  {
+   "fa": "لنج را با چوب و با دست می‌سازند.",
+   "r": "lenj rā bā chub va bā dast mi-sāzand.",
+   "en": "A lenj is built of wood, by hand.",
+   "faV": "لِنج را با چوب و با دَست می‌سازَند.",
+   "a": "ef06e7408b7c"
+  },
+  {
+   "fa": "ناخدا گفت امروز دریا آرام است.",
+   "r": "nākhodā goft emruz daryā ārām ast.",
+   "en": "The captain said the sea is calm today.",
+   "faV": "ناخُدا گُفت اِمروز دَریا آرام اَست.",
+   "a": "4e09e5c5ed61"
+  },
+  {
+   "fa": "غروب کنار کشتی یونانی خیلی قشنگ است.",
+   "r": "ghorub kenār-e kashti-ye yunāni kheyli ghashang ast.",
+   "en": "Sunset by the Greek Ship is very beautiful.",
+   "faV": "غُروب کِنارِ کَشتیِ یونانی خَیلی قَشَنگ اَست.",
+   "a": "e8f1d2d1b555"
+  },
+  {
+   "fa": "کیش منطقه‌ی آزاد تجاری است.",
+   "r": "Kish mantaghe-ye āzād-e tejāri ast.",
+   "en": "Kish is a free trade zone.",
+   "faV": "کیش مَنطَقه‌یِ آزادِ تِجاری اَست.",
+   "a": "46b804c6347e"
+  },
+  {
+   "fa": "قلیه‌ماهی کمی تند است.",
+   "r": "ghalye-māhi kami tond ast.",
+   "en": "Ghalyeh mahi is a little spicy.",
+   "col": "قلیه‌ماهی یه کم تنده.",
+   "colR": "ghalye-māhi ye kam tonde.",
+   "faV": "قَلیه‌ماهی کَمی تُند اَست.",
+   "a": "a570c8b8b354",
+   "colV": "قَلیه‌ماهی یه کَم تُنده.",
+   "colA": "a403b4ebee38"
+  },
+  {
+   "fa": "از اردیبهشت تا مهر هوا خیلی گرم و شرجی است.",
+   "r": "az Ordibehesht tā Mehr havā kheyli garm o sharji ast.",
+   "en": "From Ordibehesht to Mehr (late April to October) the weather is very hot and humid.",
+   "faV": "اَز اُردیبِهِشت تا مِهر هَوا خَیلی گَرم و شَرجی اَست.",
+   "a": "058672215eb8"
+  },
+  {
+   "fa": "زمستان بهترین فصل سفر به جزیره‌هاست.",
+   "r": "zemestān beh-tarin fasl-e safar be jazire-hāst.",
+   "en": "Winter is the best season for a trip to the islands.",
+   "faV": "زِمِستان بِهتَرین فَصلِ سَفَر به جَزیره‌هاست.",
+   "a": "82a66be6bfb3"
+  }
  ],
  "vocab": [
-  {"fa": "جزیره", "r": "jazire", "en": "island"},
-  {"fa": "خلیج", "r": "khalij", "en": "gulf, bay"},
-  {"fa": "تنگه", "r": "tange", "en": "strait; narrow pass"},
-  {"fa": "بندر", "r": "bandar", "en": "port"},
-  {"fa": "اسکله", "r": "eskele", "en": "jetty, pier"},
-  {"fa": "لنج", "r": "lenj", "en": "lenj, wooden dhow"},
-  {"fa": "ناخدا", "r": "nākhodā", "en": "ship's captain"},
-  {"fa": "موج", "r": "mowj", "en": "wave"},
-  {"fa": "شرجی", "r": "sharji", "en": "hot and humid (weather)"},
-  {"fa": "مرجان", "r": "marjān", "en": "coral"},
-  {"fa": "غواصی", "r": "ghavvāsi", "en": "diving"},
-  {"fa": "حرا", "r": "harā", "en": "grey mangrove"},
-  {"fa": "غروب", "r": "ghorub", "en": "sunset"},
-  {"fa": "خاک", "r": "khāk", "en": "earth, soil"},
-  {"fa": "نمک", "r": "namak", "en": "salt"},
-  {"fa": "آب شور", "r": "āb-e shur", "en": "salt water"},
-  {"fa": "تند", "r": "tond", "en": "spicy; fast"}
+  {
+   "fa": "جزیره",
+   "r": "jazire",
+   "en": "island",
+   "faV": "جَزیره",
+   "a": "3ffa6b62f828"
+  },
+  {
+   "fa": "خلیج",
+   "r": "khalij",
+   "en": "gulf, bay",
+   "faV": "خَلیج",
+   "a": "dce7ff24b4c0"
+  },
+  {
+   "fa": "تنگه",
+   "r": "tange",
+   "en": "strait; narrow pass",
+   "faV": "تَنگه",
+   "a": "cc6a4a38902f"
+  },
+  {
+   "fa": "بندر",
+   "r": "bandar",
+   "en": "port",
+   "faV": "بَندَر",
+   "a": "ac7a461f8368"
+  },
+  {
+   "fa": "اسکله",
+   "r": "eskele",
+   "en": "jetty, pier",
+   "faV": "اِسکِله",
+   "a": "3ac96fa78cfa"
+  },
+  {
+   "fa": "لنج",
+   "r": "lenj",
+   "en": "lenj, wooden dhow",
+   "faV": "لِنج",
+   "a": "6522a57dd025"
+  },
+  {
+   "fa": "ناخدا",
+   "r": "nākhodā",
+   "en": "ship's captain",
+   "faV": "ناخُدا",
+   "a": "f6c236ba1573"
+  },
+  {
+   "fa": "موج",
+   "r": "mowj",
+   "en": "wave",
+   "faV": "مَوج",
+   "a": "87763451a1bf"
+  },
+  {
+   "fa": "شرجی",
+   "r": "sharji",
+   "en": "hot and humid (weather)",
+   "faV": "شَرجی",
+   "a": "ec77de32f8e0"
+  },
+  {
+   "fa": "مرجان",
+   "r": "marjān",
+   "en": "coral",
+   "faV": "مَرجان",
+   "a": "1ccbba215c6d"
+  },
+  {
+   "fa": "غواصی",
+   "r": "ghavvāsi",
+   "en": "diving",
+   "faV": "غَوّاصی",
+   "a": "03a60631242c"
+  },
+  {
+   "fa": "حرا",
+   "r": "harā",
+   "en": "grey mangrove",
+   "faV": "حَرا",
+   "a": "d5a247a64b50"
+  },
+  {
+   "fa": "غروب",
+   "r": "ghorub",
+   "en": "sunset",
+   "faV": "غُروب",
+   "a": "467a34c748ec"
+  },
+  {
+   "fa": "خاک",
+   "r": "khāk",
+   "en": "earth, soil",
+   "faV": "خاک",
+   "a": "317b4f0c8a24"
+  },
+  {
+   "fa": "نمک",
+   "r": "namak",
+   "en": "salt",
+   "faV": "نَمَک",
+   "a": "afa0d44a978a"
+  },
+  {
+   "fa": "آب شور",
+   "r": "āb-e shur",
+   "en": "salt water",
+   "faV": "آبِ شور",
+   "a": "6749fbc18495"
+  },
+  {
+   "fa": "تند",
+   "r": "tond",
+   "en": "spicy; fast",
+   "faV": "تُند",
+   "a": "1bbd8857f63f"
+  }
  ],
  "facts": [
   "Qeshm, about 1,500 square kilometres, is the largest island in the Persian Gulf.",
@@ -81,5 +263,7 @@
   "The skills of building and sailing lenj boats were added to UNESCO's list of intangible heritage in 2011.",
   "The 'Greek Ship' off Kish is the Koula F, a cargo ship that ran aground in 1966.",
   "At its narrowest the Strait of Hormuz is about 39 kilometres wide, and roughly a fifth of the world's oil passes through it."
- ]
+ ],
+ "titleV": "جَزیره‌هایِ خَلیجِ فارس",
+ "titleA": "5d8fd5ae5355"
 }

@@ -26,7 +26,11 @@
      "r": "salām bacche-hā! jom'e tavallod-e Sārā ast. yek jashn-e kuchak begirim?",
      "en": "Hi guys! Friday is Sara's birthday. Shall we throw a little party?",
      "col": "سلام بچه‌ها! جمعه تولد ساراست. یه جشن کوچیک بگیریم؟",
-     "colR": "salām bacche-hā! jom'e tavallod-e Sārā-st. ye jashn-e kuchik begirim?"
+     "colR": "salām bacche-hā! jom'e tavallod-e Sārā-st. ye jashn-e kuchik begirim?",
+     "faV": "سَلام بَچّه‌ها! جُمعه تَوَلُّدِ سارا اَست. یِک جَشنِ کوچَک بِگیریم؟",
+     "a": "712fc217967e",
+     "colV": "سَلام بَچّه‌ها! جُمعه تَوَلُّدِ ساراست. یه جَشنِ کوچیک بِگیریم؟",
+     "colA": "e718717c1390"
     },
     {
      "who": "Mahsa",
@@ -34,7 +38,11 @@
      "r": "āli ast! man hatman mi-āyam. kojā?",
      "en": "Great! I'll definitely come. Where?",
      "col": "عالیه! من حتماً میام. کجا؟",
-     "colR": "āliye! man hatman miyām. kojā?"
+     "colR": "āliye! man hatman miyām. kojā?",
+     "faV": "عالی اَست! مَن حَتماً می‌آیَم. کُجا؟",
+     "a": "f63d5ac3bb87",
+     "colV": "عالیه! مَن حَتماً میام. کُجا؟",
+     "colA": "9bb957185d95"
     },
     {
      "who": "Amir",
@@ -42,7 +50,11 @@
      "r": "kāfe-ye nazdik-e dāneshgāh, sā'at-e haft. be Sārā chiz-i na-guyid!",
      "en": "The café near the university, at seven. Don't tell Sara anything!",
      "col": "کافه‌ی نزدیک دانشگاه، ساعت هفت. به سارا چیزی نگین!",
-     "colR": "kāfe-ye nazdik-e dāneshgāh, sā'at-e haft. be Sārā chizi na-gin!"
+     "colR": "kāfe-ye nazdik-e dāneshgāh, sā'at-e haft. be Sārā chizi na-gin!",
+     "faV": "کافه‌یِ نَزدیکِ دانِشگاه، ساعَتِ هَفت. به سارا چیزی نَگویید!",
+     "a": "01b26de3a337",
+     "colV": "کافه‌یِ نَزدیکِ دانِشگاه، ساعَتِ هَفت. به سارا چیزی نَگین!",
+     "colA": "1ec444dfeea9"
     },
     {
      "who": "Tom",
@@ -50,7 +62,11 @@
      "r": "salām! bebakhshid ke dir javāb mi-daham. bā kibord-e fārsi hanuz āheste tāyp mi-konam.",
      "en": "Hi! Sorry I'm slow to reply. I still type slowly on the Persian keyboard.",
      "col": "سلام! ببخشید که دیر جواب می‌دم. با کیبورد فارسی هنوز یواش تایپ می‌کنم.",
-     "colR": "salām! bebakhshid ke dir javāb mi-dam. bā kibord-e fārsi hanuz yavāsh tāyp mi-konam."
+     "colR": "salām! bebakhshid ke dir javāb mi-dam. bā kibord-e fārsi hanuz yavāsh tāyp mi-konam.",
+     "faV": "سَلام! بِبَخشید که دیر جَواب می‌دَهَم. با کیبوردِ فارسی هَنوز آهِسته تایپ می‌کُنَم.",
+     "a": "21e0583c499a",
+     "colV": "سَلام! بِبَخشید که دیر جَواب می‌دَم. با کیبوردِ فارسی هَنوز یَواش تایپ می‌کُنَم.",
+     "colA": "f91a37fa4ca2"
     },
     {
      "who": "Mahsa",
@@ -58,7 +74,11 @@
      "r": "eshkāl-i na-dārad. agar sakht ast, finglish benevis!",
      "en": "No problem. If it's hard, write in Finglish!",
      "col": "اشکال نداره. اگه سخته، فینگلیش بنویس!",
-     "colR": "eshkāl na-dāre. age sakht-e, finglish benevis!"
+     "colR": "eshkāl na-dāre. age sakht-e, finglish benevis!",
+     "faV": "اِشکالی نَدارَد. اَگَر سَخت اَست، فینگلیش بِنِویس!",
+     "a": "cb41f54098fc",
+     "colV": "اِشکال نَداره. اَگه سَخته، فینگلیش بِنِویس!",
+     "colA": "d5ec266c096c"
     },
     {
      "who": "Tom",
@@ -66,7 +86,11 @@
      "r": "finglish? ya'ni che?",
      "en": "Finglish? What's that?",
      "col": "فینگلیش؟ یعنی چی؟",
-     "colR": "finglish? ya'ni chi?"
+     "colR": "finglish? ya'ni chi?",
+     "faV": "فینگلیش؟ یَعنی چه؟",
+     "a": "761ad854e681",
+     "colV": "فینگلیش؟ یَعنی چی؟",
+     "colA": "c7032a63b4e5"
     },
     {
      "who": "Amir",
@@ -74,7 +98,11 @@
      "r": "fārsi bā horuf-e engelisi. vali fārsi benevis; in-towri zud-tar yād mi-giri!",
      "en": "Persian in English letters. But write in Persian – that way you'll learn faster!",
      "col": "فارسی با حروف انگلیسی. ولی فارسی بنویس؛ این‌جوری زودتر یاد می‌گیری!",
-     "colR": "fārsi bā horuf-e engelisi. vali fārsi benevis; in-juri zud-tar yād mi-giri!"
+     "colR": "fārsi bā horuf-e engelisi. vali fārsi benevis; in-juri zud-tar yād mi-giri!",
+     "faV": "فارسی با حُروفِ اِنگِلیسی. وَلی فارسی بِنِویس؛ این‌طَوری زودتَر یاد می‌گیری!",
+     "a": "ac17a17bac94",
+     "colV": "فارسی با حُروفِ اِنگِلیسی. وَلی فارسی بِنِویس؛ این‌جوری زودتَر یاد می‌گیری!",
+     "colA": "fff3e57f1fae"
     },
     {
      "who": "Tom",
@@ -82,7 +110,11 @@
      "r": "bāshad. hālā barā-ye Sārā che kādo-yi bekharim?",
      "en": "OK. So what present shall we get Sara?",
      "col": "باشه. حالا واسه سارا چه کادویی بخریم؟",
-     "colR": "bāshe. hālā vāse Sārā che kādo-yi bekharim?"
+     "colR": "bāshe. hālā vāse Sārā che kādo-yi bekharim?",
+     "faV": "باشَد. حالا بَرایِ سارا چه کادویی بِخَریم؟",
+     "a": "c208456c0ca5",
+     "colV": "باشه. حالا واسه سارا چه کادویی بِخَریم؟",
+     "colA": "73bf2ac5d943"
     },
     {
      "who": "Mahsa",
@@ -90,7 +122,11 @@
      "r": "yek link barā-yetān mi-ferestam. in kif rā bebinid o nazar bedahid.",
      "en": "I'll send you a link. Look at this bag and tell me what you think.",
      "col": "یه لینک براتون می‌فرستم. این کیفو ببینین و نظر بدین.",
-     "colR": "ye link barā-tun mi-ferestam. in kif-o bebinin o nazar bedin."
+     "colR": "ye link barā-tun mi-ferestam. in kif-o bebinin o nazar bedin.",
+     "faV": "یِک لینک بَرایِتان می‌فِرِستَم. این کیف را بِبینید و نَظَر بِدَهید.",
+     "a": "03859788bbc4",
+     "colV": "یه لینک بَراتون می‌فِرِستَم. این کیفو بِبینین و نَظَر بِدین.",
+     "colA": "ce7b8783305b"
     },
     {
      "who": "Amir",
@@ -98,7 +134,11 @@
      "r": "kheyli ghashang ast! lāyk-ash kardam.",
      "en": "It's really nice! I've liked it.",
      "col": "خیلی قشنگه! لایکش کردم.",
-     "colR": "kheyli ghashang-e! lāyk-esh kardam."
+     "colR": "kheyli ghashang-e! lāyk-esh kardam.",
+     "faV": "خَیلی قَشَنگ اَست! لایکَش کَردَم.",
+     "a": "8316f66af5c5",
+     "colV": "خَیلی قَشَنگه! لایکِش کَردَم.",
+     "colA": "af27bad6469e"
     },
     {
      "who": "Tom",
@@ -106,7 +146,11 @@
      "r": "man ham movāfegh-am. pul rā chetor bedahim?",
      "en": "I agree too. How shall we pay?",
      "col": "منم موافقم. پولو چطوری بدیم؟",
-     "colR": "man-am movāfegh-am. pul-o chetori bedim?"
+     "colR": "man-am movāfegh-am. pul-o chetori bedim?",
+     "faV": "مَن هَم مُوافِقَم. پول را چِطور بِدَهیم؟",
+     "a": "5f2c5b8f8833",
+     "colV": "مَنَم مُوافِقَم. پولو چِطوری بِدیم؟",
+     "colA": "59ffeec42d60"
     },
     {
      "who": "Amir",
@@ -114,7 +158,11 @@
      "r": "kārt be kārt konid. shomāre-ye kārt-am rā dar goruh mi-gozāram.",
      "en": "Do a card-to-card transfer. I'll put my card number in the group.",
      "col": "کارت به کارت کنین. شماره‌ی کارتمو تو گروه می‌ذارم.",
-     "colR": "kārt be kārt konin. shomāre-ye kārt-am-o tu goruh mi-zāram."
+     "colR": "kārt be kārt konin. shomāre-ye kārt-am-o tu goruh mi-zāram.",
+     "faV": "کارت به کارت کُنید. شُماره‌یِ کارتَم را دَر گُروه می‌گُذارَم.",
+     "a": "34e426ade82e",
+     "colV": "کارت به کارت کُنین. شُماره‌یِ کارتَمو تو گُروه می‌ذارَم.",
+     "colA": "bb98d8236a6b"
     },
     {
      "who": "Mahsa",
@@ -122,7 +170,11 @@
      "r": "āli ast. faghat yād-etān bāshad: Sārā na-bāyad befahmad!",
      "en": "Great. Just remember: Sara mustn't find out!",
      "col": "عالیه. فقط یادتون باشه: سارا نباید بفهمه!",
-     "colR": "āliye. faghat yād-etun bāshe: Sārā na-bāyad befahme!"
+     "colR": "āliye. faghat yād-etun bāshe: Sārā na-bāyad befahme!",
+     "faV": "عالی اَست. فَقَط یادِتان باشَد: سارا نَبایَد بِفَهمَد!",
+     "a": "a77e8f28e3c8",
+     "colV": "عالیه. فَقَط یادِتون باشه: سارا نَبایَد بِفَهمه!",
+     "colA": "509d090f5b4f"
     },
     {
      "who": "Tom",
@@ -130,7 +182,11 @@
      "r": "ghowl mi-daham! man chiz-i nemi-guyam. shab bekheyr!",
      "en": "I promise! I won't say a thing. Good night!",
      "col": "قول می‌دم! من چیزی نمی‌گم. شب بخیر!",
-     "colR": "ghowl mi-dam! man chizi nemi-gam. shab bekheyr!"
+     "colR": "ghowl mi-dam! man chizi nemi-gam. shab bekheyr!",
+     "faV": "قَول می‌دَهَم! مَن چیزی نِمی‌گویَم. شَب بِخَیر!",
+     "a": "b23cda9d35c8",
+     "colV": "قَول می‌دَم! مَن چیزی نِمی‌گَم. شَب بِخَیر!",
+     "colA": "cc3cc9c043d8"
     }
    ]
   },
@@ -148,7 +204,9 @@
      "r": "mobāyl",
      "en": "mobile phone",
      "pos": "n",
-     "note": "in formal writing تلفن همراه, 'companion phone'"
+     "note": "in formal writing تلفن همراه, 'companion phone'",
+     "faV": "موبایل",
+     "a": "f41bba2f7759"
     },
     {
      "fa": "گوشی",
@@ -161,8 +219,14 @@
       "r": "gushi-am shārzh na-dārad.",
       "en": "My phone's battery is flat.",
       "col": "گوشیم شارژ نداره.",
-      "colR": "gushi-m shārzh na-dāre."
-     }
+      "colR": "gushi-m shārzh na-dāre.",
+      "faV": "گوشی‌اَم شارژ نَدارَد.",
+      "a": "64b4c6d89af1",
+      "colV": "گوشیم شارژ نَداره.",
+      "colA": "d43296983f12"
+     },
+     "faV": "گوشی",
+     "a": "f011eb2001ca"
     },
     {
      "fa": "پیام",
@@ -174,67 +238,91 @@
       "r": "be man payām bedeh.",
       "en": "Message me.",
       "col": "بهم پیام بده.",
-      "colR": "behem payām bede."
-     }
+      "colR": "behem payām bede.",
+      "faV": "به مَن پَیام بِدِه.",
+      "a": "714d163248cb",
+      "colV": "بِهِم پَیام بِده.",
+      "colA": "574f3d73b217"
+     },
+     "faV": "پَیام",
+     "a": "9f16a85fd1d1"
     },
     {
      "fa": "پیامک",
      "r": "payāmak",
      "en": "text message, SMS",
      "pos": "n",
-     "note": "payām + -ak 'little'; in speech often اس‌ام‌اس"
+     "note": "payām + -ak 'little'; in speech often اس‌ام‌اس",
+     "faV": "پَیامَک",
+     "a": "556169771290"
     },
     {
      "fa": "پیام‌رسان",
      "r": "payām-resān",
      "en": "messenger app",
      "pos": "n",
-     "note": "'message-deliverer'"
+     "note": "'message-deliverer'",
+     "faV": "پَیام‌رِسان",
+     "a": "c841406f204e"
     },
     {
      "fa": "اینترنت",
      "r": "internet",
      "en": "internet",
-     "pos": "n"
+     "pos": "n",
+     "faV": "اینتِرنِت",
+     "a": "2efe87e647ba"
     },
     {
      "fa": "برنامه",
      "r": "barnāme",
      "en": "app; programme; plan",
      "pos": "n",
-     "note": "also اپ (ap) or اپلیکیشن (aplikeyshen)"
+     "note": "also اپ (ap) or اپلیکیشن (aplikeyshen)",
+     "faV": "بَرنامه",
+     "a": "5aa6076f9df1"
     },
     {
      "fa": "نرم‌افزار",
      "r": "narm-afzār",
      "en": "software",
      "pos": "n",
-     "note": "'soft tool'"
+     "note": "'soft tool'",
+     "faV": "نَرم‌اَفزار",
+     "a": "a67b8f997c8f"
     },
     {
      "fa": "گروه",
      "r": "goruh",
      "en": "group; chat group",
-     "pos": "n"
+     "pos": "n",
+     "faV": "گُروه",
+     "a": "9801f584566a"
     },
     {
      "fa": "لینک",
      "r": "link",
      "en": "link",
-     "pos": "n"
+     "pos": "n",
+     "faV": "لینک",
+     "a": "3d5159de29b6"
     },
     {
      "fa": "رمز",
      "r": "ramz",
      "en": "password; code",
      "pos": "n",
-     "note": "on login screens رمز عبور, 'passing code'"
+     "note": "on login screens رمز عبور, 'passing code'",
+     "faV": "رَمز",
+     "a": "679e44da0658"
     },
     {
      "fa": "چت کردن",
      "r": "chat kardan",
      "en": "to chat (online)",
-     "pos": "v"
+     "pos": "v",
+     "faV": "چَت کَردَن",
+     "a": "53694c5872fd"
     },
     {
      "fa": "لایک کردن",
@@ -246,15 +334,23 @@
       "r": "post-e jadid-at rā lāyk kardam.",
       "en": "I liked your new post.",
       "col": "پست جدیدتو لایک کردم.",
-      "colR": "post-e jadid-et-o lāyk kardam."
-     }
+      "colR": "post-e jadid-et-o lāyk kardam.",
+      "faV": "پُستِ جَدیدَت را لایک کَردَم.",
+      "a": "5eac0885270d",
+      "colV": "پُستِ جَدیدِتو لایک کَردَم.",
+      "colA": "abddb7ad4b51"
+     },
+     "faV": "لایک کَردَن",
+     "a": "183d1b88a074"
     },
     {
      "fa": "دانلود کردن",
      "r": "dānlod kardan",
      "en": "to download",
      "pos": "v",
-     "note": "the Academy's word is بارگیری کردن"
+     "note": "the Academy's word is بارگیری کردن",
+     "faV": "دانلود کَردَن",
+     "a": "07e8301953c3"
     },
     {
      "fa": "فرستادن",
@@ -267,8 +363,14 @@
       "r": "yek aks az kelās barā-ye mādar-am ferestādam.",
       "en": "I sent my mother a photo of the class.",
       "col": "یه عکس از کلاس واسه مامانم فرستادم.",
-      "colR": "ye aks az kelās vāse māmān-am ferestādam."
-     }
+      "colR": "ye aks az kelās vāse māmān-am ferestādam.",
+      "faV": "یِک عَکس اَز کِلاس بَرایِ مادَرَم فِرِستادَم.",
+      "a": "5f3c693b1cf0",
+      "colV": "یه عَکس اَز کِلاس واسه مامانَم فِرِستادَم.",
+      "colA": "4f0043c770fb"
+     },
+     "faV": "فِرِستادَن",
+     "a": "d0e62b790773"
     },
     {
      "fa": "خاموش",
@@ -281,43 +383,59 @@
       "r": "bebakhshid, gushi-am khāmush bud.",
       "en": "Sorry, my phone was off.",
       "col": "ببخشید، گوشیم خاموش بود.",
-      "colR": "bebakhshid, gushi-m khāmush bud."
-     }
+      "colR": "bebakhshid, gushi-m khāmush bud.",
+      "faV": "بِبَخشید، گوشی‌اَم خاموش بود.",
+      "a": "9cb3674fa5a6",
+      "colV": "بِبَخشید، گوشیم خاموش بود.",
+      "colA": "0c665cc7d3c7"
+     },
+     "faV": "خاموش",
+     "a": "b2e61b5037ad"
     },
     {
      "fa": "شارژ",
      "r": "shārzh",
      "en": "battery charge; phone credit",
      "pos": "n",
-     "note": "from French charge; شارژ کردن, to charge"
+     "note": "from French charge; شارژ کردن, to charge",
+     "faV": "شارژ",
+     "a": "cf9eaab9ddf3"
     },
     {
      "fa": "آنلاین",
      "r": "ānlāyn",
      "en": "online",
      "pos": "adj",
-     "note": "offline is آفلاین (āflāyn)"
+     "note": "offline is آفلاین (āflāyn)",
+     "faV": "آنلاین",
+     "a": "8f5ace8dc8f1"
     },
     {
      "fa": "فیلترشکن",
      "r": "filter-shekan",
      "en": "VPN",
      "pos": "n",
-     "note": "'filter-breaker'"
+     "note": "'filter-breaker'",
+     "faV": "فیلتِرشِکَن",
+     "a": "797638c1e6c5"
     },
     {
      "fa": "کارت به کارت",
      "r": "kārt be kārt",
      "en": "card-to-card bank transfer",
      "pos": "phrase",
-     "note": "the everyday way to send a friend money from your phone: کارت به کارت کردن"
+     "note": "the everyday way to send a friend money from your phone: کارت به کارت کردن",
+     "faV": "کارت به کارت",
+     "a": "2a34e19fb348"
     },
     {
      "fa": "یادت باشد",
      "r": "yād-at bāshad",
      "en": "remember! don't forget",
      "pos": "phrase",
-     "note": "literally 'let it be in your memory'; polite یادتان باشد; spoken یادت باشه"
+     "note": "literally 'let it be in your memory'; polite یادتان باشد; spoken یادت باشه",
+     "faV": "یادَت باشَد",
+     "a": "0470b56002da"
     }
    ]
   },
@@ -398,21 +516,31 @@
     {
      "fa": "دیشب تا ساعت دوازده با دوستم چت کردم.",
      "r": "dishab tā sā'at-e davāzdah bā dust-am chat kardam.",
-     "en": "Last night I chatted with my friend until midnight."
+     "en": "Last night I chatted with my friend until midnight.",
+     "faV": "دیشَب تا ساعَتِ دَوازدَه با دوستَم چَت کَردَم.",
+     "a": "68079866fa23"
     },
     {
      "fa": "عکس‌هایت را لایک کردم.",
      "r": "aks-hā-yat rā lāyk kardam.",
      "en": "I liked your photos.",
      "col": "عکساتو لایک کردم.",
-     "colR": "aks-ā-to lāyk kardam."
+     "colR": "aks-ā-to lāyk kardam.",
+     "faV": "عَکس‌هایَت را لایک کَردَم.",
+     "a": "98f98811b52a",
+     "colV": "عَکساتو لایک کَردَم.",
+     "colA": "8b34043f83a4"
     },
     {
      "fa": "این برنامه را دانلود کن؛ رایگان است.",
      "r": "in barnāme rā dānlod kon; rāygān ast.",
      "en": "Download this app – it's free.",
      "col": "این برنامه رو دانلود کن؛ مجانیه.",
-     "colR": "in barnāme ro dānlod kon; majjāni-ye."
+     "colR": "in barnāme ro dānlod kon; majjāni-ye.",
+     "faV": "این بَرنامه را دانلود کُن؛ رایگان اَست.",
+     "a": "e9b87b8575ce",
+     "colV": "این بَرنامه رو دانلود کُن؛ مَجّانیه.",
+     "colA": "b39bedd42864"
     },
     {
      "fa": "فایل را ذخیره نکردی؟",
@@ -420,21 +548,33 @@
      "en": "Didn't you save the file?",
      "col": "فایلو سیو نکردی؟",
      "colR": "fāyl-o seyv na-kardi?",
-     "note": "in speech the loanword often replaces the Persian word"
+     "note": "in speech the loanword often replaces the Persian word",
+     "faV": "فایل را ذَخیره نَکَردی؟",
+     "a": "aa1e18c16e3d",
+     "colV": "فایلو سَیو نَکَردی؟",
+     "colA": "66bd421b87d4"
     },
     {
      "fa": "مینا من را در اینستاگرام فالو کرده است.",
      "r": "Minā man rā dar Instāgrām fālo karde ast.",
      "en": "Mina has followed me on Instagram.",
      "col": "مینا منو تو اینستاگرام فالو کرده.",
-     "colR": "Minā man-o tu Instāgrām fālo karde."
+     "colR": "Minā man-o tu Instāgrām fālo karde.",
+     "faV": "مینا مَن را دَر اینستاگرام فالو کَرده اَست.",
+     "a": "bd692a01aeae",
+     "colV": "مینا مَنو تو اینستاگرام فالو کَرده.",
+     "colA": "8530e0416eba"
     },
     {
      "fa": "آن عکس را برای همه فوروارد نکن!",
      "r": "ān aks rā barā-ye hame forvārd na-kon!",
      "en": "Don't forward that photo to everyone!",
      "col": "اون عکسو واسه همه فوروارد نکن!",
-     "colR": "un aks-o vāse hame forvārd na-kon!"
+     "colR": "un aks-o vāse hame forvārd na-kon!",
+     "faV": "آن عَکس را بَرایِ هَمه فوروارد نَکُن!",
+     "a": "0ed6022e4923",
+     "colV": "اون عَکسو واسه هَمه فوروارد نَکُن!",
+     "colA": "141bf37954bb"
     }
    ]
   },
@@ -517,35 +657,55 @@
      "r": "in narm-afzār rāygān ast.",
      "en": "This software is free.",
      "col": "این نرم‌افزار مجانیه.",
-     "colR": "in narm-afzār majjāni-ye."
+     "colR": "in narm-afzār majjāni-ye.",
+     "faV": "این نَرم‌اَفزار رایگان اَست.",
+     "a": "35cf9ff72968",
+     "colV": "این نَرم‌اَفزار مَجّانیه.",
+     "colA": "1086b95268f0"
     },
     {
      "fa": "سخت‌افزار این گوشی خوب است، اما نرم‌افزارش قدیمی است.",
      "r": "sakht-afzār-e in gushi khub ast, ammā narm-afzār-ash ghadimi ast.",
      "en": "This phone's hardware is good, but its software is old.",
      "col": "سخت‌افزار این گوشی خوبه، ولی نرم‌افزارش قدیمیه.",
-     "colR": "sakht-afzār-e in gushi khub-e, vali narm-afzār-esh ghadimi-ye."
+     "colR": "sakht-afzār-e in gushi khub-e, vali narm-afzār-esh ghadimi-ye.",
+     "faV": "سَخت‌اَفزارِ این گوشی خوب اَست، اَمّا نَرم‌اَفزارَش قَدیمی اَست.",
+     "a": "c45342ee5909",
+     "colV": "سَخت‌اَفزارِ این گوشی خوبه، وَلی نَرم‌اَفزارِش قَدیمیه.",
+     "colA": "8c6cce5bdd3c"
     },
     {
      "fa": "کامپیوترم بدافزار گرفته است.",
      "r": "kāmpyuter-am bad-afzār gerefte ast.",
      "en": "My computer has got malware.",
      "col": "کامپیوترم بدافزار گرفته.",
-     "colR": "kāmpyuter-am bad-afzār gerefte."
+     "colR": "kāmpyuter-am bad-afzār gerefte.",
+     "faV": "کامپیوتِرَم بَداَفزار گِرِفته اَست.",
+     "a": "67d5725a71ac",
+     "colV": "کامپیوتِرَم بَداَفزار گِرِفته.",
+     "colA": "60cfeb05bd8c"
     },
     {
      "fa": "برادرم برنامه‌نویس است و برای یک شرکت نرم‌افزار می‌نویسد.",
      "r": "barādar-am barnāme-nevis ast o barā-ye yek sherkat narm-afzār mi-nevisad.",
      "en": "My brother is a programmer and writes software for a company.",
      "col": "داداشم برنامه‌نویسه و واسه یه شرکت نرم‌افزار می‌نویسه.",
-     "colR": "dādāsh-am barnāme-nevis-e o vāse ye sherkat narm-afzār mi-nevise."
+     "colR": "dādāsh-am barnāme-nevis-e o vāse ye sherkat narm-afzār mi-nevise.",
+     "faV": "بَرادَرَم بَرنامه‌نِویس اَست و بَرایِ یِک شِرکَت نَرم‌اَفزار می‌نِویسَد.",
+     "a": "651ddb2524f4",
+     "colV": "داداشَم بَرنامه‌نِویسه و واسه یه شِرکَت نَرم‌اَفزار می‌نِویسه.",
+     "colA": "b82cb2de536f"
     },
     {
      "fa": "بانک برایم یک پیامک فرستاد.",
      "r": "bānk barā-yam yek payāmak ferestād.",
      "en": "The bank sent me a text message.",
      "col": "بانک برام یه اس‌ام‌اس فرستاد.",
-     "colR": "bānk barā-m ye es-em-es ferestād."
+     "colR": "bānk barā-m ye es-em-es ferestād.",
+     "faV": "بانک بَرایَم یِک پَیامَک فِرِستاد.",
+     "a": "eda5d29ef4f9",
+     "colV": "بانک بَرام یه اِس‌اِم‌اِس فِرِستاد.",
+     "colA": "689682f7c0fd"
     }
    ]
   },
@@ -628,41 +788,63 @@
      "r": "vaghti residi, be man khabar bedeh.",
      "en": "Let me know when you get there.",
      "col": "رسیدی، بهم خبر بده.",
-     "colR": "residi, behem khabar bede."
+     "colR": "residi, behem khabar bede.",
+     "faV": "وَقتی رِسیدی، به مَن خَبَر بِدِه.",
+     "a": "2b2243bcf09d",
+     "colV": "رِسیدی، بِهِم خَبَر بِده.",
+     "colA": "dd4d1cf37a80"
     },
     {
      "fa": "عکس‌ها را برایم بفرست.",
      "r": "aks-hā rā barā-yam beferest.",
      "en": "Send me the photos.",
      "col": "عکسا رو برام بفرست.",
-     "colR": "aks-ā ro barā-m beferest."
+     "colR": "aks-ā ro barā-m beferest.",
+     "faV": "عَکس‌ها را بَرایَم بِفِرِست.",
+     "a": "9d617eca60de",
+     "colV": "عَکسا رو بَرام بِفِرِست.",
+     "colA": "30273b64de69"
     },
     {
      "fa": "یادت نرود که فردا امتحان داریم!",
      "r": "yād-at na-ravad ke fardā emtehān dārim!",
      "en": "Don't forget we have an exam tomorrow!",
      "col": "یادت نره فردا امتحان داریم!",
-     "colR": "yād-et nare fardā emtehān dārim!"
+     "colR": "yād-et nare fardā emtehān dārim!",
+     "faV": "یادَت نَرَوَد که فَردا اِمتِحان داریم!",
+     "a": "d040c1b5ba95",
+     "colV": "یادِت نَره فَردا اِمتِحان داریم!",
+     "colA": "abb9c15e37b3"
     },
     {
      "fa": "جواب بده! چرا گوشی را برنمی‌داری؟",
      "r": "javāb bedeh! cherā gushi rā bar-nemi-dāri?",
      "en": "Answer! Why aren't you picking up?",
      "col": "جواب بده! چرا گوشی رو برنمی‌داری؟",
-     "colR": "javāb bede! cherā gushi ro bar-nemi-dāri?"
+     "colR": "javāb bede! cherā gushi ro bar-nemi-dāri?",
+     "faV": "جَواب بِدِه! چِرا گوشی را بَرنِمی‌داری؟",
+     "a": "b613b3c98744",
+     "colV": "جَواب بِده! چِرا گوشی رو بَرنِمی‌داری؟",
+     "colA": "ad1dec8e7901"
     },
     {
      "fa": "یک لحظه صبر کن، دارم می‌آیم!",
      "r": "yek lahze sabr kon, dāram mi-āyam!",
      "en": "Hang on a moment, I'm coming!",
      "col": "یه لحظه صبر کن، دارم میام!",
-     "colR": "ye lahze sabr kon, dāram miyām!"
+     "colR": "ye lahze sabr kon, dāram miyām!",
+     "faV": "یِک لَحظه صَبر کُن، دارَم می‌آیَم!",
+     "a": "079cc42eada5",
+     "colV": "یه لَحظه صَبر کُن، دارَم میام!",
+     "colA": "4fa18aa637d0"
     },
     {
      "fa": "لطفاً بعد از شنیدن صدای بوق پیام بگذارید.",
      "r": "lotfan ba'd az shenidan-e sedā-ye bugh payām begozārid.",
      "en": "Please leave a message after the beep.",
-     "note": "a recorded voicemail greeting – always in the written, polite form"
+     "note": "a recorded voicemail greeting – always in the written, polite form",
+     "faV": "لُطفاً بَعد اَز شِنیدَنِ صِدایِ بوق پَیام بِگُذارید.",
+     "a": "25c59662f44d"
     }
    ]
   },
@@ -674,57 +856,79 @@
     {
      "fa": "خانواده‌ی داریوش در یک پیام‌رسان گروهی دارند.",
      "r": "khānevāde-ye Dāriush dar yek payām-resān goruh-i dārand.",
-     "en": "Dariush's family has a group on a messenger app."
+     "en": "Dariush's family has a group on a messenger app.",
+     "faV": "خانِواده‌یِ داریوش دَر یِک پَیام‌رِسان گُروهی دارَند.",
+     "a": "5baa0c46157a"
     },
     {
      "fa": "اسم گروه «خانواده‌ی خوشبخت» است و ۳۲ عضو دارد.",
      "r": "esm-e goruh «khānevāde-ye khoshbakht» ast o si-o-do ozv dārad.",
-     "en": "The group is called 'The Happy Family', and it has 32 members."
+     "en": "The group is called 'The Happy Family', and it has 32 members.",
+     "faV": "اِسمِ گُروه «خانِواده‌یِ خوشبَخت» اَست و ۳۲ عُضو دارَد.",
+     "a": "892dcdd20864"
     },
     {
      "fa": "هر روز صبح، پدربزرگ یک عکس گل با جمله‌ی «صبح بخیر» می‌فرستد.",
      "r": "har ruz sobh, pedar-bozorg yek aks-e gol bā jomle-ye «sobh bekheyr» mi-ferestad.",
-     "en": "Every morning Grandfather sends a picture of flowers with the words 'Good morning'."
+     "en": "Every morning Grandfather sends a picture of flowers with the words 'Good morning'.",
+     "faV": "هَر روز صُبح، پِدَربُزُرگ یِک عَکسِ گُل با جُمله‌یِ «صُبح بِخَیر» می‌فِرِستَد.",
+     "a": "6b97983c2dd7"
     },
     {
      "fa": "مادر داریوش همه‌ی خبر‌ها را فوروارد می‌کند، حتی خبر‌های قدیمی را.",
      "r": "mādar-e Dāriush hame-ye khabar-hā rā forvārd mi-konad, hattā khabar-hā-ye ghadimi rā.",
-     "en": "Dariush's mother forwards all the news – even old news."
+     "en": "Dariush's mother forwards all the news – even old news.",
+     "faV": "مادَرِ داریوش هَمه‌یِ خَبَر‌ها را فوروارد می‌کُنَد، حَتّی خَبَر‌هایِ قَدیمی را.",
+     "a": "e8fe564973a5"
     },
     {
      "fa": "عمه‌اش پیام صوتی می‌فرستد، چون تایپ کردن را دوست ندارد.",
      "r": "amme-ash payām-e sowti mi-ferestad, chon tāyp kardan rā dust na-dārad.",
-     "en": "His aunt sends voice messages, because she doesn't like typing."
+     "en": "His aunt sends voice messages, because she doesn't like typing.",
+     "faV": "عَمّه‌اَش پَیامِ صَوتی می‌فِرِستَد، چون تایپ کَردَن را دوست نَدارَد.",
+     "a": "0ca2ddfe4771"
     },
     {
      "fa": "پیام‌های صوتی او گاهی پنج دقیقه طول می‌کشد!",
      "r": "payām-hā-ye sowti-ye u gāhi panj daghighe tul mi-keshad!",
-     "en": "Her voice messages sometimes last five minutes!"
+     "en": "Her voice messages sometimes last five minutes!",
+     "faV": "پَیام‌هایِ صَوتیِ او گاهی پَنج دَقیقه طول می‌کِشَد!",
+     "a": "5f5e6ef342cf"
     },
     {
      "fa": "داریوش گاهی گروه را بی‌صدا می‌کند تا بتواند درس بخواند.",
      "r": "Dāriush gāhi goruh rā bi-sedā mi-konad tā betavānad dars bekhānad.",
-     "en": "Sometimes Dariush mutes the group so that he can study."
+     "en": "Sometimes Dariush mutes the group so that he can study.",
+     "faV": "داریوش گاهی گُروه را بی‌صِدا می‌کُنَد تا بِتَوانَد دَرس بِخوانَد.",
+     "a": "db53fc1c8ad2"
     },
     {
      "fa": "اما وقتی تولد کسی است، همه در گروه به او تبریک می‌گویند.",
      "r": "ammā vaghti tavallod-e kas-i ast, hame dar goruh be u tabrik mi-guyand.",
-     "en": "But when it's someone's birthday, everyone in the group congratulates them."
+     "en": "But when it's someone's birthday, everyone in the group congratulates them.",
+     "faV": "اَمّا وَقتی تَوَلُّدِ کَسی اَست، هَمه دَر گُروه به او تَبریک می‌گویَند.",
+     "a": "61d545a5bf2a"
     },
     {
      "fa": "دیشب پدربزرگ اولین استیکرش را فرستاد و همه خندیدند.",
      "r": "dishab pedar-bozorg avvalin estiker-ash rā ferestād o hame khandidand.",
-     "en": "Last night Grandfather sent his first sticker, and everyone laughed."
+     "en": "Last night Grandfather sent his first sticker, and everyone laughed.",
+     "faV": "دیشَب پِدَربُزُرگ اَوَّلین اِستیکِرَش را فِرِستاد و هَمه خَندیدَند.",
+     "a": "59e5e612bf3a"
     },
     {
      "fa": "حالا او هر روز ده استیکر می‌فرستد!",
      "r": "hālā u har ruz dah estiker mi-ferestad!",
-     "en": "Now he sends ten stickers a day!"
+     "en": "Now he sends ten stickers a day!",
+     "faV": "حالا او هَر روز دَه اِستیکِر می‌فِرِستَد!",
+     "a": "c0d19e1a2547"
     },
     {
      "fa": "داریوش می‌گوید: «گروه ما خیلی شلوغ است، اما بدون آن زندگی سخت است.»",
      "r": "Dāriush mi-guyad: «goruh-e mā kheyli sholugh ast, ammā bedun-e ān zendegi sakht ast.»",
-     "en": "Dariush says: 'Our group is very busy, but life would be hard without it.'"
+     "en": "Dariush says: 'Our group is very busy, but life would be hard without it.'",
+     "faV": "داریوش می‌گویَد: «گُروهِ ما خَیلی شُلوغ اَست، اَمّا بِدونِ آن زِندِگی سَخت اَست.»",
+     "a": "aa72d13362a5"
     }
    ],
    "questions": [
@@ -782,37 +986,51 @@
     {
      "fa": "نرم‌افزار",
      "r": "narm-afzār",
-     "en": "software"
+     "en": "software",
+     "faV": "نَرم‌اَفزار",
+     "a": "a67b8f997c8f"
     },
     {
      "fa": "سخت‌افزار",
      "r": "sakht-afzār",
-     "en": "hardware"
+     "en": "hardware",
+     "faV": "سَخت‌اَفزار",
+     "a": "05832a8104af"
     },
     {
      "fa": "پیامک",
      "r": "payāmak",
-     "en": "text message"
+     "en": "text message",
+     "faV": "پَیامَک",
+     "a": "556169771290"
     },
     {
      "fa": "گوشی",
      "r": "gushi",
-     "en": "phone, handset"
+     "en": "phone, handset",
+     "faV": "گوشی",
+     "a": "f011eb2001ca"
     },
     {
      "fa": "رمز",
      "r": "ramz",
-     "en": "password"
+     "en": "password",
+     "faV": "رَمز",
+     "a": "679e44da0658"
     },
     {
      "fa": "پیام‌رسان",
      "r": "payām-resān",
-     "en": "messenger app"
+     "en": "messenger app",
+     "faV": "پَیام‌رِسان",
+     "a": "c841406f204e"
     },
     {
      "fa": "فیلترشکن",
      "r": "filter-shekan",
-     "en": "VPN"
+     "en": "VPN",
+     "faV": "فیلتِرشِکَن",
+     "a": "797638c1e6c5"
     }
    ]
   },
@@ -933,22 +1151,30 @@
     {
      "fa": "یک لینک برایتان می‌فرستم.",
      "r": "yek link barā-yetān mi-ferestam.",
-     "en": "I'll send you a link."
+     "en": "I'll send you a link.",
+     "faV": "یِک لینک بَرایِتان می‌فِرِستَم.",
+     "a": "0b2a044bb0d6"
     },
     {
      "fa": "شماره‌ی کارتم را در گروه می‌گذارم.",
      "r": "shomāre-ye kārt-am rā dar goruh mi-gozāram.",
-     "en": "I'll put my card number in the group."
+     "en": "I'll put my card number in the group.",
+     "faV": "شُماره‌یِ کارتَم را دَر گُروه می‌گُذارَم.",
+     "a": "4ddf07588ead"
     },
     {
      "fa": "وقتی رسیدی، به من خبر بده.",
      "r": "vaghti residi, be man khabar bedeh.",
-     "en": "Let me know when you get there."
+     "en": "Let me know when you get there.",
+     "faV": "وَقتی رِسیدی، به مَن خَبَر بِدِه.",
+     "a": "2b2243bcf09d"
     },
     {
      "fa": "سخت‌افزار این گوشی خوب است.",
      "r": "sakht-afzār-e in gushi khub ast.",
-     "en": "This phone's hardware is good."
+     "en": "This phone's hardware is good.",
+     "faV": "سَخت‌اَفزارِ این گوشی خوب اَست.",
+     "a": "76e9b288de99"
     }
    ]
   },
@@ -966,7 +1192,9 @@
       "Don't tell Sara anything!",
       "Did Sara say anything?"
      ],
-     "answer": 1
+     "answer": 1,
+     "faV": "به سارا چیزی نَگویید!",
+     "a": "16763900b270"
     },
     {
      "fa": "گوشی‌ام شارژ ندارد.",
@@ -977,7 +1205,9 @@
       "My phone's battery is flat.",
       "I don't have a phone."
      ],
-     "answer": 1
+     "answer": 1,
+     "faV": "گوشی‌اَم شارژ نَدارَد.",
+     "a": "64b4c6d89af1"
     },
     {
      "fa": "عکس‌هایت را لایک کردم.",
@@ -988,7 +1218,9 @@
       "I sent your photos.",
       "I deleted your photos."
      ],
-     "answer": 0
+     "answer": 0,
+     "faV": "عَکس‌هایَت را لایک کَردَم.",
+     "a": "98f98811b52a"
     },
     {
      "fa": "یک لحظه صبر کن، دارم می‌آیم!",
@@ -999,7 +1231,9 @@
       "Come quickly, I'm waiting!",
       "I'll come next week."
      ],
-     "answer": 0
+     "answer": 0,
+     "faV": "یِک لَحظه صَبر کُن، دارَم می‌آیَم!",
+     "a": "079cc42eada5"
     }
    ]
   },
@@ -1011,29 +1245,41 @@
     {
      "en": "Message me.",
      "fa": "به من پیام بده.",
-     "r": "be man payām bedeh."
+     "r": "be man payām bedeh.",
+     "faV": "به مَن پَیام بِدِه.",
+     "a": "714d163248cb"
     },
     {
      "en": "Don't forward that photo to everyone!",
      "fa": "آن عکس را برای همه فوروارد نکن!",
-     "r": "ān aks rā barā-ye hame forvārd na-kon!"
+     "r": "ān aks rā barā-ye hame forvārd na-kon!",
+     "faV": "آن عَکس را بَرایِ هَمه فوروارد نَکُن!",
+     "a": "0ed6022e4923"
     },
     {
      "en": "My brother is a programmer.",
      "fa": "برادرم برنامه‌نویس است.",
-     "r": "barādar-am barnāme-nevis ast."
+     "r": "barādar-am barnāme-nevis ast.",
+     "faV": "بَرادَرَم بَرنامه‌نِویس اَست.",
+     "a": "d0739d507819"
     },
     {
      "en": "I still type slowly on the Persian keyboard.",
      "fa": "با کیبورد فارسی هنوز آهسته تایپ می‌کنم.",
-     "r": "bā kibord-e fārsi hanuz āheste tāyp mi-konam."
+     "r": "bā kibord-e fārsi hanuz āheste tāyp mi-konam.",
+     "faV": "با کیبوردِ فارسی هَنوز آهِسته تایپ می‌کُنَم.",
+     "a": "6b50cf279382"
     },
     {
      "en": "Mina has followed me on Instagram.",
      "fa": "مینا من را در اینستاگرام فالو کرده است.",
-     "r": "Minā man rā dar Instāgrām fālo karde ast."
+     "r": "Minā man rā dar Instāgrām fālo karde ast.",
+     "faV": "مینا مَن را دَر اینستاگرام فالو کَرده اَست.",
+     "a": "bd692a01aeae"
     }
    ]
   }
- ]
+ ],
+ "titleV": "موبایل و اینتِرنِت",
+ "titleA": "ede2f94af3b4"
 }

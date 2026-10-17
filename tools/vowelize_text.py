@@ -51,6 +51,24 @@ def r_to_ipa(r):
     return "".join(out)
 
 
+_DIGRAPH = re.compile("(?<=[a-zāâīū'])(kh|gh|sh|ch|zh)")
+
+
+def r_variants(r, limit=4):
+    """kh gh sh ch zh after a letter can also be two sounds (mazhab = مذهب, as-hāb, eshāgh): the other readings,
+    tried only when the usual one does not fit the Persian spelling."""
+    spots = [m.start() for m in _DIGRAPH.finditer(r)][:limit]
+    out = []
+    for mask in range(1, 2 ** len(spots)):
+        t = r
+        for k in reversed(range(len(spots))):
+            if mask >> k & 1:
+                i = spots[k]
+                t = t[:i + 1] + "-" + t[i + 1:]
+        out.append(t)
+    return out
+
+
 _LEX = None
 
 
@@ -131,11 +149,13 @@ def vowelize_token(fa, r, threshold=2.6):
     if len(core) == 1:            # a letter on its own: the voice says its name
         return fa, True
     if r:
-        ipa = r_to_ipa(split_r(r)[1])
-        if ipa:
-            res = V.align(core, ipa)
-            if res is not None and res[0] <= threshold:
-                return apply_ops(core, res[1]), True
+        rc = split_r(r)[1]
+        for cand in [rc] + r_variants(rc):
+            ipa = r_to_ipa(cand)
+            if ipa:
+                res = V.align(core, ipa)
+                if res is not None and res[0] <= threshold:
+                    return apply_ops(core, res[1]), True
     lex = lexicon()
     if core in lex:
         return lex[core], True

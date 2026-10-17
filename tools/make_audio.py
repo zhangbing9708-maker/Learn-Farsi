@@ -272,7 +272,9 @@ def main():
             json.dump(x, open(p, "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
     for p, x in content.items():
         if p in col.changed:
+            st = os.stat(p)
             open(p, "w", encoding="utf-8").write(json.dumps(x, ensure_ascii=False, indent=1) + "\n")
+            os.utime(p, ns=(st.st_atime_ns, st.st_mtime_ns))   # adding audio fields is not an edit: keep the file "settled"
 
     removed = 0
     if prune and not dry:

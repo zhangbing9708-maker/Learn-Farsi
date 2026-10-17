@@ -40,85 +40,229 @@
   {
    "fa": "شاهنامه کتاب بزرگ حماسی ایران است.",
    "r": "Shāhnāme ketāb-e bozorg-e hamāsi-ye Irān ast.",
-   "en": "The Shahnameh is Iran's great epic."
+   "en": "The Shahnameh is Iran's great epic.",
+   "faV": "شاهنامه کِتابِ بُزُرگِ حَماسیِ ایران اَست.",
+   "a": "7cb0510da43b"
   },
   {
    "fa": "فردوسی شاهنامه را در حدود سی سال سرود.",
    "r": "Ferdowsi Shāhnāme rā dar hodud-e si sāl sorud.",
-   "en": "Ferdowsi composed the Shahnameh over about thirty years."
+   "en": "Ferdowsi composed the Shahnameh over about thirty years.",
+   "faV": "فِردَوسی شاهنامه را دَر حُدودِ سی سال سُرود.",
+   "a": "46cd13af802d"
   },
   {
    "fa": "شاهنامه حدود پنجاه هزار بیت دارد.",
    "r": "Shāhnāme hodud-e panjāh hezār beyt dārad.",
-   "en": "The Shahnameh has about fifty thousand couplets."
+   "en": "The Shahnameh has about fifty thousand couplets.",
+   "faV": "شاهنامه حُدودِ پَنجاه هِزار بَیت دارَد.",
+   "a": "4a292b369eff"
   },
   {
    "fa": "کاوه‌ی آهنگر در برابر ضحاک ایستاد.",
    "r": "Kāve-ye āhangar dar barābar-e Zahhāk istād.",
-   "en": "Kaveh the blacksmith stood up against Zahhak."
+   "en": "Kaveh the blacksmith stood up against Zahhak.",
+   "faV": "کاوه‌یِ آهَنگَر دَر بَرابَرِ ضَحّاک ایستاد.",
+   "a": "00935bc1de17"
   },
   {
    "fa": "سیمرغ زال را در کوه بزرگ کرد.",
    "r": "Simorgh Zāl rā dar kuh bozorg kard.",
-   "en": "The Simorgh raised Zal on the mountain."
+   "en": "The Simorgh raised Zal on the mountain.",
+   "faV": "سیمُرغ زال را دَر کوه بُزُرگ کَرد.",
+   "a": "71377cb27d92"
   },
   {
    "fa": "رستم بزرگ‌ترین پهلوان شاهنامه است.",
    "r": "Rostam bozorg-tarin pahlavān-e Shāhnāme ast.",
-   "en": "Rostam is the greatest hero of the Shahnameh."
+   "en": "Rostam is the greatest hero of the Shahnameh.",
+   "faV": "رُستَم بُزُرگ‌تَرین پَهلَوانِ شاهنامه اَست.",
+   "a": "3be7712484f2"
   },
   {
    "fa": "اسب رستم رخش نام دارد.",
    "r": "asb-e Rostam Rakhsh nām dārad.",
-   "en": "Rostam's horse is called Rakhsh."
+   "en": "Rostam's horse is called Rakhsh.",
+   "faV": "اَسبِ رُستَم رَخش نام دارَد.",
+   "a": "9dcbd18b2141"
   },
   {
    "fa": "رستم پسرش سهراب را نشناخت و او را کشت.",
    "r": "Rostam pesar-ash Sohrāb rā na-shenākht va u rā kosht.",
-   "en": "Rostam did not recognise his son Sohrab and killed him."
+   "en": "Rostam did not recognise his son Sohrab and killed him.",
+   "faV": "رُستَم پِسَرَش سُهراب را نَشِناخت و او را کُشت.",
+   "a": "d0d22a939425"
   },
   {
    "fa": "فردوسی از کلمه‌های عربی کم استفاده کرد.",
    "r": "Ferdowsi az kalame-hā-ye 'arabi kam estefāde kard.",
-   "en": "Ferdowsi used Arabic words sparingly."
+   "en": "Ferdowsi used Arabic words sparingly.",
+   "faV": "فِردَوسی اَز کَلَمه‌هایِ عَرَبی کَم اِستِفاده کَرد.",
+   "a": "0686e3af9c49"
   },
   {
    "fa": "نقال داستان‌های شاهنامه را در قهوه‌خانه تعریف می‌کند.",
    "r": "nagghāl dāstān-hā-ye Shāhnāme rā dar ghahve-khāne ta'rif mi-konad.",
-   "en": "The storyteller tells stories from the Shahnameh in the tea house."
+   "en": "The storyteller tells stories from the Shahnameh in the tea house.",
+   "faV": "نَقّال داستان‌هایِ شاهنامه را دَر قَهوه‌خانه تَعریف می‌کُنَد.",
+   "a": "0dd551d90b4b"
   },
   {
    "fa": "بسیاری از ایرانی‌ها نام قهرمانان شاهنامه را روی بچه‌هایشان می‌گذارند.",
    "r": "besyāri az irāni-hā nām-e ghahremānān-e Shāhnāme rā ru-ye bacche-hā-yeshān mi-gozārand.",
-   "en": "Many Iranians name their children after the heroes of the Shahnameh."
+   "en": "Many Iranians name their children after the heroes of the Shahnameh.",
+   "faV": "بِسیاری اَز ایرانی‌ها نامِ قَهرِمانانِ شاهنامه را رویِ بَچّه‌هایِشان می‌گُذارَند.",
+   "a": "fb8ab66d238e"
   },
   {
    "fa": "آرامگاه فردوسی در توس، نزدیک مشهد است.",
    "r": "ārāmgāh-e Ferdowsi dar Tus, nazdik-e Mashhad ast.",
-   "en": "Ferdowsi's tomb is in Tus, near Mashhad."
+   "en": "Ferdowsi's tomb is in Tus, near Mashhad.",
+   "faV": "آرامگاهِ فِردَوسی دَر توس، نَزدیکِ مَشهَد اَست.",
+   "a": "1514ba73fbfb"
   }
  ],
  "vocab": [
-  {"fa": "شاهنامه", "r": "Shāhnāme", "en": "the Shahnameh, Book of Kings"},
-  {"fa": "حماسه", "r": "hamāse", "en": "epic"},
-  {"fa": "حماسی", "r": "hamāsi", "en": "epic (adjective)"},
-  {"fa": "پهلوان", "r": "pahlavān", "en": "hero, champion"},
-  {"fa": "قهرمان", "r": "ghahremān", "en": "hero; champion"},
-  {"fa": "اسطوره", "r": "osture", "en": "myth"},
-  {"fa": "افسانه", "r": "afsāne", "en": "legend, tale"},
-  {"fa": "جنگ", "r": "jang", "en": "war, battle"},
-  {"fa": "شاه", "r": "shāh", "en": "king, shah"},
-  {"fa": "دیو", "r": "div", "en": "demon, div"},
-  {"fa": "اژدها", "r": "ezhdehā", "en": "dragon"},
-  {"fa": "سیمرغ", "r": "Simorgh", "en": "the Simorgh, a magical bird"},
-  {"fa": "سرودن", "r": "sorudan", "en": "to compose (poetry)"},
-  {"fa": "بیت", "r": "beyt", "en": "couplet, verse"},
-  {"fa": "داستان", "r": "dāstān", "en": "story"},
-  {"fa": "نقال", "r": "nagghāl", "en": "storyteller (of epic tales)"},
-  {"fa": "نقالی", "r": "nagghāli", "en": "dramatic storytelling, naqqali"},
-  {"fa": "قهوه‌خانه", "r": "ghahve-khāne", "en": "tea house, coffee house"},
-  {"fa": "زورخانه", "r": "zurkhāne", "en": "zurkhaneh, traditional gym"},
-  {"fa": "آهنگر", "r": "āhangar", "en": "blacksmith"}
+  {
+   "fa": "شاهنامه",
+   "r": "Shāhnāme",
+   "en": "the Shahnameh, Book of Kings",
+   "faV": "شاهنامه",
+   "a": "68ece912b456"
+  },
+  {
+   "fa": "حماسه",
+   "r": "hamāse",
+   "en": "epic",
+   "faV": "حَماسه",
+   "a": "c188fd42171a"
+  },
+  {
+   "fa": "حماسی",
+   "r": "hamāsi",
+   "en": "epic (adjective)",
+   "faV": "حَماسی",
+   "a": "38d0fbfb3452"
+  },
+  {
+   "fa": "پهلوان",
+   "r": "pahlavān",
+   "en": "hero, champion",
+   "faV": "پَهلَوان",
+   "a": "9af59f46901a"
+  },
+  {
+   "fa": "قهرمان",
+   "r": "ghahremān",
+   "en": "hero; champion",
+   "faV": "قَهرِمان",
+   "a": "f9ff47ec0a99"
+  },
+  {
+   "fa": "اسطوره",
+   "r": "osture",
+   "en": "myth",
+   "faV": "اُسطوره",
+   "a": "f594b48fbec2"
+  },
+  {
+   "fa": "افسانه",
+   "r": "afsāne",
+   "en": "legend, tale",
+   "faV": "اَفسانه",
+   "a": "209f241d1ba6"
+  },
+  {
+   "fa": "جنگ",
+   "r": "jang",
+   "en": "war, battle",
+   "faV": "جَنگ",
+   "a": "d4af3f038a72"
+  },
+  {
+   "fa": "شاه",
+   "r": "shāh",
+   "en": "king, shah",
+   "faV": "شاه",
+   "a": "7c80cd6ffe54"
+  },
+  {
+   "fa": "دیو",
+   "r": "div",
+   "en": "demon, div",
+   "faV": "دیو",
+   "a": "92b788c2977a"
+  },
+  {
+   "fa": "اژدها",
+   "r": "ezhdehā",
+   "en": "dragon",
+   "faV": "اِژدِها",
+   "a": "5074b382dd43"
+  },
+  {
+   "fa": "سیمرغ",
+   "r": "Simorgh",
+   "en": "the Simorgh, a magical bird",
+   "faV": "سیمُرغ",
+   "a": "4c87b3bc7d89"
+  },
+  {
+   "fa": "سرودن",
+   "r": "sorudan",
+   "en": "to compose (poetry)",
+   "faV": "سُرودَن",
+   "a": "a71472a0e333"
+  },
+  {
+   "fa": "بیت",
+   "r": "beyt",
+   "en": "couplet, verse",
+   "faV": "بَیت",
+   "a": "fbe61494fd80"
+  },
+  {
+   "fa": "داستان",
+   "r": "dāstān",
+   "en": "story",
+   "faV": "داستان",
+   "a": "b134def87a95"
+  },
+  {
+   "fa": "نقال",
+   "r": "nagghāl",
+   "en": "storyteller (of epic tales)",
+   "faV": "نَقّال",
+   "a": "951705d3c64d"
+  },
+  {
+   "fa": "نقالی",
+   "r": "nagghāli",
+   "en": "dramatic storytelling, naqqali",
+   "faV": "نَقّالی",
+   "a": "b374bd7e65e0"
+  },
+  {
+   "fa": "قهوه‌خانه",
+   "r": "ghahve-khāne",
+   "en": "tea house, coffee house",
+   "faV": "قَهوه‌خانه",
+   "a": "160dd8ad08c4"
+  },
+  {
+   "fa": "زورخانه",
+   "r": "zurkhāne",
+   "en": "zurkhaneh, traditional gym",
+   "faV": "زورخانه",
+   "a": "00c6beaffe5f"
+  },
+  {
+   "fa": "آهنگر",
+   "r": "āhangar",
+   "en": "blacksmith",
+   "faV": "آهَنگَر",
+   "a": "a917198a3c07"
+  }
  ],
  "facts": [
   "Ferdowsi finished the Shahnameh around 1010, after more than thirty years of work; it has about 50,000 couplets.",
@@ -127,5 +271,7 @@
   "Ferdowsi's tomb at Tus was built for the thousandth anniversary of his birth, celebrated in 1934.",
   "The banner of Kaveh the blacksmith, the [[درفش کاویانی|derafsh-e Kāviyāni]], became the legendary standard of the Persian kings.",
   "Many everyday Iranian names come from the Shahnameh: Rostam, Sohrab, Siyavash, Bizhan, Tahmineh, Manizheh and Rudabeh."
- ]
+ ],
+ "titleV": "شاهنامه",
+ "titleA": "68ece912b456"
 }

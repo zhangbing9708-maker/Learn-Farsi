@@ -71,6 +71,7 @@ Read real texts, follow the news, argue a point, understand idioms and proverbs 
 2. [Making things happen: 'put to sleep', 'drop off', 'let'](lessons/b1-02-making-things-happen.md) — خواباندن، رساندن، گذاشتن
 3. [He said that…: reported speech](lessons/b1-03-he-said-that.md) — گفت که می‌آید
 4. [The formal future: 'it will be'](lessons/b1-04-the-formal-future.md) — خواهم رفت
+5. [If only: unreal conditions, wishes and regrets](lessons/b1-05-if-only.md) — کاش می‌دانستم
 
 ## Part 5. Stories — داستان‌ها
 
@@ -147,6 +148,7 @@ Graded readers, from very easy to literary.
 - [Hamadan and Kermanshah](culture/places-hamadan-and-kermanshah.md) — همدان و کرمانشاه
 - [Persepolis and Pasargadae](culture/places-persepolis-and-pasargadae.md) — تخت جمشید و پاسارگاد
 - [The Persian gardens](culture/places-persian-gardens.md) — باغ‌های ایرانی
+- [Herat, Bukhara and Samarkand](culture/places-herat-bukhara-samarkand.md) — هرات، بخارا و سمرقند
 
 **Food**
 

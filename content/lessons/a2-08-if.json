@@ -27,7 +27,11 @@
      "r": "Rezā, fardā sizdah-be-dar ast. barnāme-at chist?",
      "en": "Reza, tomorrow is Sizdah Bedar. What are your plans?",
      "col": "رضا، فردا سیزده‌به‌دره. برنامه‌ت چیه؟",
-     "colR": "Rezā, fardā sizdah-be-dar-e. barnāme-t chi-ye?"
+     "colR": "Rezā, fardā sizdah-be-dar-e. barnāme-t chi-ye?",
+     "faV": "رِضا، فَردا سیزدَه‌به‌دَر اَست. بَرنامه‌اَت چیست؟",
+     "a": "d9a9bba0c494",
+     "colV": "رِضا، فَردا سیزدَه‌به‌دَره. بَرنامه‌ت چیه؟",
+     "colA": "ed01caae5702"
     },
     {
      "who": "Reza",
@@ -35,7 +39,11 @@
      "r": "agar havā khub bāshad, bā khānevāde be bāgh-e amu-yam dar Karaj mi-ravim.",
      "en": "If the weather's good, we're going with the family to my uncle's garden in Karaj.",
      "col": "اگه هوا خوب باشه، با خانواده می‌ریم باغ عموم تو کرج.",
-     "colR": "age havā khub bāshe, bā khānevāde mi-rim bāgh-e amu-m tu Karaj."
+     "colR": "age havā khub bāshe, bā khānevāde mi-rim bāgh-e amu-m tu Karaj.",
+     "faV": "اَگَر هَوا خوب باشَد، با خانِواده به باغِ عَمویَم دَر کَرَج می‌رَویم.",
+     "a": "8791188ff273",
+     "colV": "اَگه هَوا خوب باشه، با خانِواده می‌ریم باغِ عَموم تو کَرَج.",
+     "colA": "1d3a003eafa2"
     },
     {
      "who": "Mina",
@@ -43,7 +51,11 @@
      "r": "che khub! vali akhbār mi-guyad shāyad bārān biyāyad.",
      "en": "How lovely! But the news says it might rain.",
      "col": "چه خوب! ولی اخبار می‌گه شاید بارون بیاد.",
-     "colR": "che khub! vali akhbār mi-ge shāyad bārun biyād."
+     "colR": "che khub! vali akhbār mi-ge shāyad bārun biyād.",
+     "faV": "چه خوب! وَلی اَخبار می‌گویَد شایَد باران بیایَد.",
+     "a": "9452dd0db268",
+     "colV": "چه خوب! وَلی اَخبار می‌گه شایَد بارون بیاد.",
+     "colA": "2039c446e11c"
     },
     {
      "who": "Reza",
@@ -51,7 +63,11 @@
      "r": "hattā agar bārān biyāyad, mi-ravim! sizdah-be-dar na-bāyad dar khāne bemānim.",
      "en": "Even if it rains, we're going! On Sizdah Bedar we mustn't stay indoors.",
      "col": "حتی اگه بارون بیاد، می‌ریم! سیزده‌به‌در نباید تو خونه بمونیم.",
-     "colR": "hattā age bārun biyād, mi-rim! sizdah-be-dar na-bāyad tu khune bemunim."
+     "colR": "hattā age bārun biyād, mi-rim! sizdah-be-dar na-bāyad tu khune bemunim.",
+     "faV": "حَتّی اَگَر باران بیایَد، می‌رَویم! سیزدَه‌به‌دَر نَبایَد دَر خانه بِمانیم.",
+     "a": "d236b81d5d65",
+     "colV": "حَتّی اَگه بارون بیاد، می‌ریم! سیزدَه‌به‌دَر نَبایَد تو خونه بِمونیم.",
+     "colA": "ef2fbc210a49"
     },
     {
      "who": "Mina",
@@ -59,7 +75,11 @@
      "r": "rāst mi-guyi. mā ham agar māshin dāshte bāshim, be pārk-e Chitgar mi-ravim.",
      "en": "That's true. As for us, if we have the car, we'll go to Chitgar Park.",
      "col": "راست می‌گی. ما هم اگه ماشین داشته باشیم، می‌ریم پارک چیتگر.",
-     "colR": "rāst mi-gi. mā ham age māshin dāshte bāshim, mi-rim pārk-e Chitgar."
+     "colR": "rāst mi-gi. mā ham age māshin dāshte bāshim, mi-rim pārk-e Chitgar.",
+     "faV": "راست می‌گویی. ما هَم اَگَر ماشین داشته باشیم، به پارکِ چیتگَر می‌رَویم.",
+     "a": "b560517430a4",
+     "colV": "راست می‌گی. ما هَم اَگه ماشین داشته باشیم، می‌ریم پارکِ چیتگَر.",
+     "colA": "822951d26f38"
     },
     {
      "who": "Reza",
@@ -67,7 +87,11 @@
      "r": "cherā bā mā nemi-āyid? agar biyāyid, amu-yam kheyli khosh-hāl mi-shavad.",
      "en": "Why don't you come with us? If you come, my uncle will be really pleased.",
      "col": "چرا با ما نمیاین؟ اگه بیاین، عموم خیلی خوشحال می‌شه.",
-     "colR": "cherā bā mā nemiyāyn? age biyāyn, amu-m kheyli khosh-hāl mi-she."
+     "colR": "cherā bā mā nemiyāyn? age biyāyn, amu-m kheyli khosh-hāl mi-she.",
+     "faV": "چِرا با ما نِمی‌آیید؟ اَگَر بیایید، عَمویَم خَیلی خوشحال می‌شَوَد.",
+     "a": "51a0942013a9",
+     "colV": "چِرا با ما نِمیاین؟ اَگه بیاین، عَموم خَیلی خوشحال می‌شه.",
+     "colA": "4112d2504225"
     },
     {
      "who": "Mina",
@@ -75,7 +99,11 @@
      "r": "agar mādar-am ejāze bedahad, hatman mi-āyim! bāyad az u beporsam.",
      "en": "If my mother agrees, we'll definitely come! I have to ask her.",
      "col": "اگه مامانم اجازه بده، حتماً میایم! باید ازش بپرسم.",
-     "colR": "age māmān-am ejāze bede, hatman miyāym! bāyad az-ash beporsam."
+     "colR": "age māmān-am ejāze bede, hatman miyāym! bāyad az-ash beporsam.",
+     "faV": "اَگَر مادَرَم اِجازه بِدَهَد، حَتماً می‌آییم! بایَد اَز او بِپُرسَم.",
+     "a": "65f11b2d4b7c",
+     "colV": "اَگه مامانَم اِجازه بِده، حَتماً میایم! بایَد اَزَش بِپُرسَم.",
+     "colA": "b8089edc0e67"
     },
     {
      "who": "Reza",
@@ -83,7 +111,11 @@
      "r": "bāshad, vali tā sā'at-e noh be man khabar bedeh, vagarna jā na-dārim!",
      "en": "OK, but let me know by nine, or we won't have room!",
      "col": "باشه، ولی تا ساعت نه بهم خبر بده، وگرنه جا نداریم!",
-     "colR": "bāshe, vali tā sā'at-e noh beh-am khabar bede, vagarna jā na-dārim!"
+     "colR": "bāshe, vali tā sā'at-e noh beh-am khabar bede, vagarna jā na-dārim!",
+     "faV": "باشَد، وَلی تا ساعَتِ نُه به مَن خَبَر بِدِه، وَگَرنه جا نَداریم!",
+     "a": "5c62a6518f53",
+     "colV": "باشه، وَلی تا ساعَتِ نُه بِهَم خَبَر بِده، وَگَرنه جا نَداریم!",
+     "colA": "aefa4e43094a"
     },
     {
      "who": "Mina",
@@ -91,7 +123,11 @@
      "r": "chashm. rāsti, sabze-mān rā ham mi-āvaram. bāyad ān rā dar āb biyandāzim, na?",
      "en": "Will do. Oh, I'll bring our sabzeh too. We have to throw it into the water, don't we?",
      "col": "چشم. راستی، سبزه‌مونم میارم. باید بندازیمش تو آب، نه؟",
-     "colR": "chashm. rāsti, sabze-mun-am miyāram. bāyad bendāzim-esh tu āb, na?"
+     "colR": "chashm. rāsti, sabze-mun-am miyāram. bāyad bendāzim-esh tu āb, na?",
+     "faV": "چَشم. راستی، سَبزه‌مان را هَم می‌آوَرَم. بایَد آن را دَر آب بیَندازیم، نه؟",
+     "a": "4397ad3b8431",
+     "colV": "چَشم. راستی، سَبزه‌مونَم میارَم. بایَد بِندازیمِش تو آب، نه؟",
+     "colA": "bc59a0bb9ad4"
     },
     {
      "who": "Reza",
@@ -99,7 +135,11 @@
      "r": "bale. va mi-guyand agar yek dokhtar-e mojarrad sabze rā gereh bezanad, sāl-e ba'd arus mi-shavad!",
      "en": "Yes. And they say that if a single girl ties a knot in the sabzeh, she'll be a bride next year!",
      "col": "آره. می‌گن اگه یه دختر مجرد سبزه رو گره بزنه، سال بعد عروس می‌شه!",
-     "colR": "āre. mi-gan age ye dokhtar-e mojarrad sabze ro gereh bezane, sāl-e ba'd arus mi-she!"
+     "colR": "āre. mi-gan age ye dokhtar-e mojarrad sabze ro gereh bezane, sāl-e ba'd arus mi-she!",
+     "faV": "بَله. و می‌گویَند اَگَر یِک دُختَرِ مُجَرَّد سَبزه را گِرِه بِزَنَد، سالِ بَعد عَروس می‌شَوَد!",
+     "a": "afeade73864d",
+     "colV": "آره. می‌گَن اَگه یه دُختَرِ مُجَرَّد سَبزه رو گِرِه بِزَنه، سالِ بَعد عَروس می‌شه!",
+     "colA": "94a4085331f1"
     },
     {
      "who": "Mina",
@@ -107,7 +147,11 @@
      "r": "pas hatman gereh mi-zanam! agar kār kard, to rā be arusi da'vat mi-konam.",
      "en": "Then I'll definitely tie one! If it works, I'll invite you to the wedding.",
      "col": "پس حتماً گره می‌زنم! اگه جواب داد، تو رو عروسی دعوت می‌کنم.",
-     "colR": "pas hatman gereh mi-zanam! age javāb dād, to ro arusi da'vat mi-konam."
+     "colR": "pas hatman gereh mi-zanam! age javāb dād, to ro arusi da'vat mi-konam.",
+     "faV": "پَس حَتماً گِرِه می‌زَنَم! اَگَر کار کَرد، تو را به عَروسی دَعوَت می‌کُنَم.",
+     "a": "4b56baf693d6",
+     "colV": "پَس حَتماً گِرِه می‌زَنَم! اَگه جَواب داد، تو رو عَروسی دَعوَت می‌کُنَم.",
+     "colA": "95d6f9832832"
     },
     {
      "who": "Reza",
@@ -115,7 +159,11 @@
      "r": "ghabul! faghat fardā dir na-kon, vagarna bedun-e to mi-ravim!",
      "en": "Deal! Just don't be late tomorrow, or we'll go without you!",
      "col": "قبول! فقط فردا دیر نکن، وگرنه بی تو می‌ریم!",
-     "colR": "ghabul! faghat fardā dir na-kon, vagarna bi to mi-rim!"
+     "colR": "ghabul! faghat fardā dir na-kon, vagarna bi to mi-rim!",
+     "faV": "قَبول! فَقَط فَردا دیر نَکُن، وَگَرنه بِدونِ تو می‌رَویم!",
+     "a": "9ed48923ea67",
+     "colV": "قَبول! فَقَط فَردا دیر نَکُن، وَگَرنه بی تو می‌ریم!",
+     "colA": "d3f48965486a"
     }
    ]
   },
@@ -138,8 +186,14 @@
      "ex": {
       "fa": "اگر وقت داری، بیا.",
       "r": "agar vaght dāri, biyā.",
-      "en": "If you have time, come."
-     }
+      "en": "If you have time, come.",
+      "faV": "اَگَر وَقت داری، بیا.",
+      "a": "80b499e66be9"
+     },
+     "faV": "اَگَر",
+     "a": "b8e5aca5a153",
+     "colV": "اَگه",
+     "colA": "1a8813c4e654"
     },
     {
      "fa": "وگرنه",
@@ -150,27 +204,37 @@
      "ex": {
       "fa": "عجله کن، وگرنه دیر می‌رسیم.",
       "r": "ajale kon, vagarna dir mi-resim.",
-      "en": "Hurry up, or we'll be late."
-     }
+      "en": "Hurry up, or we'll be late.",
+      "faV": "عَجَله کُن، وَگَرنه دیر می‌رِسیم.",
+      "a": "843b1d1afb92"
+     },
+     "faV": "وَگَرنه",
+     "a": "e90e65729e6f"
     },
     {
      "fa": "حتی اگر",
      "r": "hattā agar",
      "en": "even if",
-     "pos": "conj"
+     "pos": "conj",
+     "faV": "حَتّی اَگَر",
+     "a": "d7b55f5e104b"
     },
     {
      "fa": "مگر این‌که",
      "r": "magar in-ke",
      "en": "unless",
      "pos": "conj",
-     "note": "followed by the subjunctive"
+     "note": "followed by the subjunctive",
+     "faV": "مَگَر این‌که",
+     "a": "346598f59677"
     },
     {
      "fa": "به شرطی که",
      "r": "be shart-i ke",
      "en": "as long as, on condition that",
-     "pos": "conj"
+     "pos": "conj",
+     "faV": "به شَرطی که",
+     "a": "5b7e5ccfe27b"
     },
     {
      "fa": "برنامه",
@@ -180,41 +244,55 @@
      "ex": {
       "fa": "برای آخر هفته چه برنامه‌ای داری؟",
       "r": "barā-ye ākhar-e hafte che barnāme-i dāri?",
-      "en": "What are your plans for the weekend?"
-     }
+      "en": "What are your plans for the weekend?",
+      "faV": "بَرایِ آخَرِ هَفته چه بَرنامه‌ای داری؟",
+      "a": "d5cd51e1efac"
+     },
+     "faV": "بَرنامه",
+     "a": "5aa6076f9df1"
     },
     {
      "fa": "سیزده‌به‌در",
      "r": "sizdah-be-dar",
      "en": "Sizdah Bedar – the picnic day that ends the New Year holidays",
      "pos": "n",
-     "note": "literally 'the thirteenth out of doors'"
+     "note": "literally 'the thirteenth out of doors'",
+     "faV": "سیزدَه‌به‌دَر",
+     "a": "07da31cdc6a0"
     },
     {
      "fa": "سبزه",
      "r": "sabze",
      "en": "sprouted greens (from the haft-sin); grass",
-     "pos": "n"
+     "pos": "n",
+     "faV": "سَبزه",
+     "a": "6366f4a8e134"
     },
     {
      "fa": "باغ",
      "r": "bāgh",
      "en": "garden, orchard",
-     "pos": "n"
+     "pos": "n",
+     "faV": "باغ",
+     "a": "56f735b72c6f"
     },
     {
      "fa": "عمو",
      "r": "amu",
      "en": "uncle (father's brother)",
      "pos": "n",
-     "note": "mother's brother is دایی dāyi"
+     "note": "mother's brother is دایی dāyi",
+     "faV": "عَمو",
+     "a": "f3d4d6df8864"
     },
     {
      "fa": "اخبار",
      "r": "akhbār",
      "en": "the news",
      "pos": "n",
-     "note": "plural of خبر khabar 'a piece of news'"
+     "note": "plural of خبر khabar 'a piece of news'",
+     "faV": "اَخبار",
+     "a": "3fc512c2872d"
     },
     {
      "fa": "باران آمدن",
@@ -223,13 +301,19 @@
      "pos": "v",
      "note": "literally 'rain comes'; snow: برف آمدن",
      "col": "بارون اومدن",
-     "colR": "bārun umadan"
+     "colR": "bārun umadan",
+     "faV": "باران آمَدَن",
+     "a": "bf0c42080ed0",
+     "colV": "بارون اومَدَن",
+     "colA": "4438b95533f4"
     },
     {
      "fa": "اجازه دادن",
      "r": "ejāze dādan",
      "en": "to allow, to let",
-     "pos": "v"
+     "pos": "v",
+     "faV": "اِجازه دادَن",
+     "a": "8961c601731c"
     },
     {
      "fa": "خبر دادن",
@@ -239,28 +323,38 @@
      "ex": {
       "fa": "اگر نتوانستی بیایی، به من خبر بده.",
       "r": "agar na-tavānesti biyāyi, be man khabar bedeh.",
-      "en": "If you can't come, let me know."
-     }
+      "en": "If you can't come, let me know.",
+      "faV": "اَگَر نَتَوانِستی بیایی، به مَن خَبَر بِدِه.",
+      "a": "bdfd202755db"
+     },
+     "faV": "خَبَر دادَن",
+     "a": "5cbff5ccc035"
     },
     {
      "fa": "جا",
      "r": "jā",
      "en": "room, space; place",
      "pos": "n",
-     "note": "جا نداریم 'we have no room'"
+     "note": "جا نداریم 'we have no room'",
+     "faV": "جا",
+     "a": "52edd91b0931"
     },
     {
      "fa": "انداختن",
      "r": "andākhtan",
      "en": "to throw",
      "pos": "v",
-     "note": "present stem انداز andāz: بیندازیم 'let's throw'"
+     "note": "present stem انداز andāz: بیندازیم 'let's throw'",
+     "faV": "اَنداختَن",
+     "a": "3a8a2a946f64"
     },
     {
      "fa": "گره زدن",
      "r": "gereh zadan",
      "en": "to tie a knot",
-     "pos": "v"
+     "pos": "v",
+     "faV": "گِرِه زَدَن",
+     "a": "79c097cfca6b"
     },
     {
      "fa": "آرزو کردن",
@@ -270,34 +364,46 @@
      "ex": {
       "fa": "برایت آرزوی موفقیت می‌کنم.",
       "r": "barā-yat ārezu-ye movaffaghiyat mi-konam.",
-      "en": "I wish you success."
-     }
+      "en": "I wish you success.",
+      "faV": "بَرایَت آرِزویِ مُوَفَّقیَت می‌کُنَم.",
+      "a": "2ae0678aaddb"
+     },
+     "faV": "آرِزو کَردَن",
+     "a": "2f5efabbd33a"
     },
     {
      "fa": "عروس",
      "r": "arus",
      "en": "bride",
      "pos": "n",
-     "note": "داماد dāmād 'bridegroom'"
+     "note": "داماد dāmād 'bridegroom'",
+     "faV": "عَروس",
+     "a": "e3a0609942a9"
     },
     {
      "fa": "عروسی",
      "r": "arusi",
      "en": "wedding",
-     "pos": "n"
+     "pos": "n",
+     "faV": "عَروسی",
+     "a": "03fa50bc2913"
     },
     {
      "fa": "دعوت کردن",
      "r": "da'vat kardan",
      "en": "to invite",
-     "pos": "v"
+     "pos": "v",
+     "faV": "دَعوَت کَردَن",
+     "a": "b208c092c83e"
     },
     {
      "fa": "قبول",
      "r": "ghabul",
      "en": "agreed!, deal!",
      "pos": "interj",
-     "note": "قبول کردن 'to accept'"
+     "note": "قبول کردن 'to accept'",
+     "faV": "قَبول",
+     "a": "5c0203b7b3d6"
     }
    ]
   },
@@ -363,34 +469,50 @@
      "r": "agar fardā bārān biyāyad, dar khāne mi-mānim.",
      "en": "If it rains tomorrow, we'll stay at home.",
      "col": "اگه فردا بارون بیاد، خونه می‌مونیم.",
-     "colR": "age fardā bārun biyād, khune mi-munim."
+     "colR": "age fardā bārun biyād, khune mi-munim.",
+     "faV": "اَگَر فَردا باران بیایَد، دَر خانه می‌مانیم.",
+     "a": "655bbc2b34f3",
+     "colV": "اَگه فَردا بارون بیاد، خونه می‌مونیم.",
+     "colA": "70327f50165a"
     },
     {
      "fa": "اگر وقت داشته باشم، به تو سر می‌زنم.",
      "r": "agar vaght dāshte bāsham, be to sar mi-zanam.",
      "en": "If I have time, I'll drop in on you.",
      "col": "اگه وقت داشته باشم، بهت سر می‌زنم.",
-     "colR": "age vaght dāshte bāsham, behet sar mi-zanam."
+     "colR": "age vaght dāshte bāsham, behet sar mi-zanam.",
+     "faV": "اَگَر وَقت داشته باشَم، به تو سَر می‌زَنَم.",
+     "a": "1733f2281793",
+     "colV": "اَگه وَقت داشته باشَم، بِهِت سَر می‌زَنَم.",
+     "colA": "5aa6caad9de7"
     },
     {
      "fa": "اگر خسته باشی، می‌توانی این‌جا بخوابی.",
      "r": "agar khaste bāshi, mi-tavāni in-jā bekhābi.",
-     "en": "If you're tired, you can sleep here."
+     "en": "If you're tired, you can sleep here.",
+     "faV": "اَگَر خَسته باشی، می‌تَوانی این‌جا بِخوابی.",
+     "a": "fbb4df26fafb"
     },
     {
      "fa": "اگر زود برسیم، جای خوبی پیدا می‌کنیم.",
      "r": "agar zud beresim, jā-ye khub-i peydā mi-konim.",
-     "en": "If we get there early, we'll find a good spot."
+     "en": "If we get there early, we'll find a good spot.",
+     "faV": "اَگَر زود بِرِسیم، جایِ خوبی پَیدا می‌کُنیم.",
+     "a": "7bdff9b04a4e"
     },
     {
      "fa": "اگر نیایی، ناراحت می‌شوم.",
      "r": "agar na-yāyi, nārāhat mi-shavam.",
-     "en": "If you don't come, I'll be upset."
+     "en": "If you don't come, I'll be upset.",
+     "faV": "اَگَر نَیایی، ناراحَت می‌شَوَم.",
+     "a": "5a8eb1adfb31"
     },
     {
      "fa": "اگر کمک لازم داشته باشید، به من بگویید.",
      "r": "agar komak lāzem dāshte bāshid, be man beguyid.",
-     "en": "If you need any help, tell me."
+     "en": "If you need any help, tell me.",
+     "faV": "اَگَر کُمَک لازِم داشته باشید، به مَن بِگویید.",
+     "a": "877d3a381201"
     }
    ]
   },
@@ -450,30 +572,44 @@
      "r": "agar gorosne-i, ghazā dar yakhchāl ast.",
      "en": "If you're hungry, there's food in the fridge.",
      "col": "اگه گشنه‌ای، غذا تو یخچاله.",
-     "colR": "age goshne-i, ghazā tu yakhchāl-e."
+     "colR": "age goshne-i, ghazā tu yakhchāl-e.",
+     "faV": "اَگَر گُرُسنه‌ای، غَذا دَر یَخچال اَست.",
+     "a": "00f6494620ea",
+     "colV": "اَگه گُشنه‌ای، غَذا تو یَخچاله.",
+     "colA": "d5b67ab147b7"
     },
     {
      "fa": "اگر به تهران آمدی، حتماً به ما سر بزن.",
      "r": "agar be Tehrān āmadi, hatman be mā sar bezan.",
      "en": "If you come to Tehran, be sure to drop in on us.",
      "col": "اگه اومدی تهران، حتماً به ما سر بزن.",
-     "colR": "age umadi Tehrān, hatman be mā sar bezan."
+     "colR": "age umadi Tehrān, hatman be mā sar bezan.",
+     "faV": "اَگَر به تِهران آمَدی، حَتماً به ما سَر بِزَن.",
+     "a": "57951cabc214",
+     "colV": "اَگه اومَدی تِهران، حَتماً به ما سَر بِزَن.",
+     "colA": "96fc686a6c06"
     },
     {
      "fa": "اگر کار را تمام کردی، می‌توانی بروی.",
      "r": "agar kār rā tamām kardi, mi-tavāni beravi.",
-     "en": "Once you've finished the work, you can go."
+     "en": "Once you've finished the work, you can go.",
+     "faV": "اَگَر کار را تَمام کَردی، می‌تَوانی بِرَوی.",
+     "a": "7d3066119786"
     },
     {
      "fa": "اگر می‌خواهی فارسی یاد بگیری، باید هر روز تمرین کنی.",
      "r": "agar mi-khāhi fārsi yād begiri, bāyad har ruz tamrin koni.",
-     "en": "If you want to learn Persian, you have to practise every day."
+     "en": "If you want to learn Persian, you have to practise every day.",
+     "faV": "اَگَر می‌خواهی فارسی یاد بِگیری، بایَد هَر روز تَمرین کُنی.",
+     "a": "dafb60af3591"
     },
     {
      "fa": "اگر پولدار بودم، در شمال یک خانه می‌خریدم.",
      "r": "agar puldār budam, dar shomāl yek khāne mi-kharidam.",
      "en": "If I were rich, I'd buy a house in the north.",
-     "note": "an imaginary condition – recognise it for now; you will learn it at B1"
+     "note": "an imaginary condition – recognise it for now; you will learn it at B1",
+     "faV": "اَگَر پولدار بودَم، دَر شُمال یِک خانه می‌خَریدَم.",
+     "a": "6aede44dd5d7"
     }
    ]
   },
@@ -533,29 +669,43 @@
      "r": "kāpshen-at rā bepush, vagarna sarmā mi-khori.",
      "en": "Put your jacket on, or you'll catch a cold.",
      "col": "کاپشنتو بپوش، وگرنه سرما می‌خوری.",
-     "colR": "kāpshen-et-o bepush, vagarna sarmā mi-khori."
+     "colR": "kāpshen-et-o bepush, vagarna sarmā mi-khori.",
+     "faV": "کاپشِنَت را بِپوش، وَگَرنه سَرما می‌خوری.",
+     "a": "028d0e76e7c4",
+     "colV": "کاپشِنِتو بِپوش، وَگَرنه سَرما می‌خوری.",
+     "colA": "46aee3cd0dd4"
     },
     {
      "fa": "باید امشب درس بخوانم، وگرنه فردا امتحان را خراب می‌کنم.",
      "r": "bāyad emshab dars bekhānam, vagarna fardā emtehān rā kharāb mi-konam.",
-     "en": "I have to study tonight, or I'll mess up the exam tomorrow."
+     "en": "I have to study tonight, or I'll mess up the exam tomorrow.",
+     "faV": "بایَد اِمشَب دَرس بِخوانَم، وَگَرنه فَردا اِمتِحان را خَراب می‌کُنَم.",
+     "a": "c5c5bf64e97c"
     },
     {
      "fa": "فردا به کوه می‌رویم، مگر این‌که برف بیاید.",
      "r": "fardā be kuh mi-ravim, magar in-ke barf biyāyad.",
-     "en": "We're going to the mountains tomorrow, unless it snows."
+     "en": "We're going to the mountains tomorrow, unless it snows.",
+     "faV": "فَردا به کوه می‌رَویم، مَگَر این‌که بَرف بیایَد.",
+     "a": "0b99a28ef879"
     },
     {
      "fa": "حتی اگر گران باشد، آن را می‌خرم.",
      "r": "hattā agar gerān bāshad, ān rā mi-kharam.",
-     "en": "Even if it's expensive, I'll buy it."
+     "en": "Even if it's expensive, I'll buy it.",
+     "faV": "حَتّی اَگَر گِران باشَد، آن را می‌خَرَم.",
+     "a": "17c8c8b30885"
     },
     {
      "fa": "زود بخواب، وگرنه صبح نمی‌توانی بیدار شوی.",
      "r": "zud bekhāb, vagarna sobh nemi-tavāni bidār shavi.",
      "en": "Go to bed early, or you won't be able to get up in the morning.",
      "col": "زود بخواب، وگرنه صبح نمی‌تونی بیدار شی.",
-     "colR": "zud bekhāb, vagarna sobh nemi-tuni bidār shi."
+     "colR": "zud bekhāb, vagarna sobh nemi-tuni bidār shi.",
+     "faV": "زود بِخواب، وَگَرنه صُبح نِمی‌تَوانی بیدار شَوی.",
+     "a": "6653d71f59d8",
+     "colV": "زود بِخواب، وَگَرنه صُبح نِمی‌تونی بیدار شی.",
+     "colA": "a48b134482e3"
     }
    ]
   },
@@ -567,57 +717,79 @@
     {
      "fa": "دانشجویان عزیز، سلام.",
      "r": "dāneshjuyān-e aziz, salām.",
-     "en": "Dear students, hello."
+     "en": "Dear students, hello.",
+     "faV": "دانِشجویانِ عَزیز، سَلام.",
+     "a": "cc13737e5b5d"
     },
     {
      "fa": "پنجشنبه‌ی آینده با هم به اصفهان می‌رویم.",
      "r": "panjshanbe-ye āyande bā ham be Esfahān mi-ravim.",
-     "en": "Next Thursday we're going to Isfahan together."
+     "en": "Next Thursday we're going to Isfahan together.",
+     "faV": "پَنجشَنبه‌یِ آیَنده با هَم به اِصفَهان می‌رَویم.",
+     "a": "d77ea9a3b2e1"
     },
     {
      "fa": "اگر می‌خواهید بیایید، تا یکشنبه اسمتان را به من بدهید.",
      "r": "agar mi-khāhid biyāyid, tā yekshanbe esm-etān rā be man bedahid.",
-     "en": "If you want to come, give me your name by Sunday."
+     "en": "If you want to come, give me your name by Sunday.",
+     "faV": "اَگَر می‌خواهید بیایید، تا یِکشَنبه اِسمِتان را به مَن بِدَهید.",
+     "a": "9835e1e1e4ac"
     },
     {
      "fa": "اتوبوس ساعت شش صبح از جلوی دانشگاه حرکت می‌کند.",
      "r": "otobus sā'at-e shesh-e sobh az jelo-ye dāneshgāh harekat mi-konad.",
-     "en": "The bus leaves from in front of the university at six in the morning."
+     "en": "The bus leaves from in front of the university at six in the morning.",
+     "faV": "اُتوبوس ساعَتِ شِشِ صُبح اَز جِلویِ دانِشگاه حَرِکَت می‌کُنَد.",
+     "a": "680546dea87d"
     },
     {
      "fa": "اگر دیر کنید، اتوبوس منتظر نمی‌ماند!",
      "r": "agar dir konid, otobus montazer nemi-mānad!",
-     "en": "If you're late, the bus won't wait!"
+     "en": "If you're late, the bus won't wait!",
+     "faV": "اَگَر دیر کُنید، اُتوبوس مُنتَظِر نِمی‌مانَد!",
+     "a": "03ce2993655c"
     },
     {
      "fa": "اگر هوا خوب باشد، عصر کنار زاینده‌رود قدم می‌زنیم.",
      "r": "agar havā khub bāshad, asr kenār-e Zāyande-rud ghadam mi-zanim.",
-     "en": "If the weather is good, in the afternoon we'll walk along the Zayandeh River."
+     "en": "If the weather is good, in the afternoon we'll walk along the Zayandeh River.",
+     "faV": "اَگَر هَوا خوب باشَد، عَصر کِنارِ زایَنده‌رود قَدَم می‌زَنیم.",
+     "a": "4731c36f2677"
     },
     {
      "fa": "اگر باران بیاید، به جای آن به موزه می‌رویم.",
      "r": "agar bārān biyāyad, be jā-ye ān be muze mi-ravim.",
-     "en": "If it rains, we'll go to a museum instead."
+     "en": "If it rains, we'll go to a museum instead.",
+     "faV": "اَگَر باران بیایَد، به جایِ آن به موزه می‌رَویم.",
+     "a": "226235148c99"
     },
     {
      "fa": "کفش راحت بپوشید، وگرنه پاهایتان درد می‌گیرد.",
      "r": "kafsh-e rāhat bepushid, vagarna pā-hā-yetān dard mi-girad.",
-     "en": "Wear comfortable shoes, or your feet will hurt."
+     "en": "Wear comfortable shoes, or your feet will hurt.",
+     "faV": "کَفشِ راحَت بِپوشید، وَگَرنه پاهایِتان دَرد می‌گیرَد.",
+     "a": "deb6879e4455"
     },
     {
      "fa": "کسی که کارت دانشجویی داشته باشد، بلیت موزه را نصف قیمت می‌خرد.",
      "r": "kas-i ke kārt-e dāneshjuyi dāshte bāshad, belit-e muze rā nesf-e gheymat mi-kharad.",
-     "en": "Anyone who has a student card pays half price for the museum ticket."
+     "en": "Anyone who has a student card pays half price for the museum ticket.",
+     "faV": "کَسی که کارتِ دانِشجویی داشته باشَد، بِلیتِ موزه را نِصفِ قَیمَت می‌خَرَد.",
+     "a": "59d61d6d3541"
     },
     {
      "fa": "اگر سؤالی داشتید، به من پیام بدهید.",
      "r": "agar so'āl-i dāshtid, be man payām bedahid.",
-     "en": "If you have any questions, send me a message."
+     "en": "If you have any questions, send me a message.",
+     "faV": "اَگَر سُؤالی داشتید، به مَن پَیام بِدَهید.",
+     "a": "06a514d1e21e"
     },
     {
      "fa": "به امید دیدار، خانم احمدی",
      "r": "be omid-e didār, khānom Ahmadi",
-     "en": "Hoping to see you all, Ms Ahmadi"
+     "en": "Hoping to see you all, Ms Ahmadi",
+     "faV": "به اُمیدِ دیدار، خانُم اَحمَدی",
+     "a": "1a7ec8df12f8"
     }
    ],
    "questions": [
@@ -684,32 +856,44 @@
     {
      "fa": "اگر",
      "r": "agar",
-     "en": "if"
+     "en": "if",
+     "faV": "اَگَر",
+     "a": "b8e5aca5a153"
     },
     {
      "fa": "وگرنه",
      "r": "vagarna",
-     "en": "otherwise, or else"
+     "en": "otherwise, or else",
+     "faV": "وَگَرنه",
+     "a": "e90e65729e6f"
     },
     {
      "fa": "مگر این‌که",
      "r": "magar in-ke",
-     "en": "unless"
+     "en": "unless",
+     "faV": "مَگَر این‌که",
+     "a": "346598f59677"
     },
     {
      "fa": "حتی اگر",
      "r": "hattā agar",
-     "en": "even if"
+     "en": "even if",
+     "faV": "حَتّی اَگَر",
+     "a": "d7b55f5e104b"
     },
     {
      "fa": "به شرطی که",
      "r": "be shart-i ke",
-     "en": "as long as"
+     "en": "as long as",
+     "faV": "به شَرطی که",
+     "a": "5b7e5ccfe27b"
     },
     {
      "fa": "اگر نه",
      "r": "agar na",
-     "en": "if not"
+     "en": "if not",
+     "faV": "اَگَر نه",
+     "a": "24a77daacb3b"
     }
    ]
   },
@@ -820,22 +1004,30 @@
     {
      "fa": "اگر هوا خوب باشد، می‌رویم.",
      "r": "agar havā khub bāshad, mi-ravim.",
-     "en": "If the weather is good, we'll go."
+     "en": "If the weather is good, we'll go.",
+     "faV": "اَگَر هَوا خوب باشَد، می‌رَویم.",
+     "a": "dd61edae0a5d"
     },
     {
      "fa": "اگر رسیدی، به من زنگ بزن.",
      "r": "agar residi, be man zang bezan.",
-     "en": "Ring me when you get there."
+     "en": "Ring me when you get there.",
+     "faV": "اَگَر رِسیدی، به مَن زَنگ بِزَن.",
+     "a": "ce527a594558"
     },
     {
      "fa": "زود بیا، وگرنه بدون تو می‌رویم.",
      "r": "zud biyā, vagarna bedun-e to mi-ravim.",
-     "en": "Come early, or we'll go without you."
+     "en": "Come early, or we'll go without you.",
+     "faV": "زود بیا، وَگَرنه بِدونِ تو می‌رَویم.",
+     "a": "995aec993396"
     },
     {
      "fa": "فردا می‌رویم، مگر این‌که برف بیاید.",
      "r": "fardā mi-ravim, magar in-ke barf biyāyad.",
-     "en": "We'll go tomorrow, unless it snows."
+     "en": "We'll go tomorrow, unless it snows.",
+     "faV": "فَردا می‌رَویم، مَگَر این‌که بَرف بیایَد.",
+     "a": "dda45570495a"
     }
    ]
   },
@@ -853,7 +1045,9 @@
       "If you're tired, go to bed.",
       "Don't sleep if you're tired."
      ],
-     "answer": 1
+     "answer": 1,
+     "faV": "اَگَر خَسته‌ای، بُرَو بِخواب.",
+     "a": "6036d65efb7a"
     },
     {
      "fa": "حتی اگر گران باشد، آن را می‌خرم.",
@@ -864,7 +1058,9 @@
       "Even if it's expensive, I'll buy it.",
       "If it's cheap, I'll buy it."
      ],
-     "answer": 1
+     "answer": 1,
+     "faV": "حَتّی اَگَر گِران باشَد، آن را می‌خَرَم.",
+     "a": "17c8c8b30885"
     },
     {
      "fa": "عجله کن، وگرنه دیر می‌رسیم.",
@@ -875,7 +1071,9 @@
       "Don't hurry, we're early.",
       "We arrived late."
      ],
-     "answer": 0
+     "answer": 0,
+     "faV": "عَجَله کُن، وَگَرنه دیر می‌رِسیم.",
+     "a": "843b1d1afb92"
     },
     {
      "fa": "اگر پول داشتم، ماشین می‌خریدم.",
@@ -886,7 +1084,9 @@
       "If I have money, I'll buy a car.",
       "If I had money, I'd buy a car."
      ],
-     "answer": 2
+     "answer": 2,
+     "faV": "اَگَر پول داشتَم، ماشین می‌خَریدَم.",
+     "a": "1d785e101797"
     }
    ]
   },
@@ -898,29 +1098,41 @@
     {
      "en": "If it rains tomorrow, we'll stay at home.",
      "fa": "اگر فردا باران بیاید، در خانه می‌مانیم.",
-     "r": "agar fardā bārān biyāyad, dar khāne mi-mānim."
+     "r": "agar fardā bārān biyāyad, dar khāne mi-mānim.",
+     "faV": "اَگَر فَردا باران بیایَد، دَر خانه می‌مانیم.",
+     "a": "655bbc2b34f3"
     },
     {
      "en": "If you want, come with us.",
      "fa": "اگر می‌خواهی، با ما بیا.",
-     "r": "agar mi-khāhi, bā mā biyā."
+     "r": "agar mi-khāhi, bā mā biyā.",
+     "faV": "اَگَر می‌خواهی، با ما بیا.",
+     "a": "8b4b7308aa2a"
     },
     {
      "en": "Don't be late, or we'll go without you!",
      "fa": "دیر نکن، وگرنه بدون تو می‌رویم!",
-     "r": "dir na-kon, vagarna bedun-e to mi-ravim!"
+     "r": "dir na-kon, vagarna bedun-e to mi-ravim!",
+     "faV": "دیر نَکُن، وَگَرنه بِدونِ تو می‌رَویم!",
+     "a": "a26fda7901e5"
     },
     {
      "en": "Even if it's expensive, I'll buy it.",
      "fa": "حتی اگر گران باشد، آن را می‌خرم.",
-     "r": "hattā agar gerān bāshad, ān rā mi-kharam."
+     "r": "hattā agar gerān bāshad, ān rā mi-kharam.",
+     "faV": "حَتّی اَگَر گِران باشَد، آن را می‌خَرَم.",
+     "a": "17c8c8b30885"
     },
     {
      "en": "If you need help, tell me.",
      "fa": "اگر کمک لازم داشتی، به من بگو.",
-     "r": "agar komak lāzem dāshti, be man begu."
+     "r": "agar komak lāzem dāshti, be man begu.",
+     "faV": "اَگَر کُمَک لازِم داشتی، به مَن بِگو.",
+     "a": "22003f31e244"
     }
    ]
   }
- ]
+ ],
+ "titleV": "اَگَر هَوا خوب باشَد، می‌رَویم.",
+ "titleA": "dd61edae0a5d"
 }
