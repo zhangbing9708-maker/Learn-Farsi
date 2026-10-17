@@ -1,0 +1,75 @@
+{
+ "id": "food-ash-and-abgoosht",
+ "topic": "food",
+ "title": "Ash and abgoosht",
+ "titleFa": "آش و آبگوشت",
+ "titleR": "āsh o ābgusht",
+ "image": "ash-reshteh",
+ "summary": "Thick soups of herbs, beans and noodles, and a slow-cooked lamb broth that is eaten in two courses: ash and abgoosht are the hearty, old-fashioned heart of Iranian home cooking.",
+ "body": [
+  {
+   "h": "The soup that named the cook",
+   "md": "[[آش|āsh|thick soup]] is so central to Iranian cooking that it named the cook and the kitchen: a cook is an [[آشپز|āshpaz|'ash-cooker']] and a kitchen an [[آشپزخانه|āshpazkhāne|'ash-cooker's house']]. An ash is thicker than a soup and thinner than a stew – a meal in a bowl of beans, grains and herbs, often with noodles or meat. There are dozens: barley [[آش جو|āsh-e jow|barley ash]], sour [[آش انار|āsh-e anār|pomegranate ash]], the yoghurt [[آش دوغ|āsh-e dugh|doogh ash]] of Azerbaijan and many more.\n\nAsh has given Persian many sayings. A busybody is [[نخود هر آشی|nokhod-e har āshi|the chickpea in every ash]]; someone blamed for a pleasure they never had has [[آش نخورده و دهان سوخته|āsh na-khorde va dahān sukhte|eaten no ash but burnt their mouth]]; and when nothing has changed, it is [[همان آش و همان کاسه|hamān āsh o hamān kāse|the same ash and the same bowl]]."
+  },
+  {
+   "h": "Ash reshteh",
+   "md": "The best-loved ash is [[آش رشته|āsh-e reshte|noodle ash]]. It is the dish of cold evenings and of Nowruz, when its noodles ([[رشته|reshte|noodles; thread]]) stand for the threads of fortune you take hold of in the new year. It is also [[آش پشت پا|āsh-e posht-e pā|'behind-the-feet' ash]], cooked a few days after someone sets off on a long journey, to wish them a safe return.\n\n1. Soak chickpeas ([[نخود|nokhod|chickpeas]]), kidney beans and lentils ([[عدس|adas|lentils]]) overnight, then cook them until tender.\n2. Add plenty of chopped herbs – spinach, parsley, coriander, dill and leek or chives – and simmer for half an hour.\n3. Add the flat noodles and cook until they are soft and the ash is thick.\n4. Stir in some diluted [[کشک|kashk|kashk, fermented whey]].\n5. Top each bowl with more kashk, fried onions ([[پیازداغ|piyāz-dāgh|fried onions]]), fried garlic and dried mint fried in oil ([[نعناداغ|na'nā-dāgh|fried mint]])."
+  },
+  {
+   "h": "Ash as nazri",
+   "md": "Like gheymeh and sholeh zard, ash is a favourite [[نذری|nazri|votive food]]. A family that has made a vow cooks a huge pot in the courtyard or the street, neighbours take turns to stir it and make a wish, and the ash is ladled into the bowls of friends and passers-by. Sharing the work is part of the point: it is a neighbourhood occasion as much as a religious one.",
+   "image": "nazri"
+  },
+  {
+   "h": "Abgoosht and dizi",
+   "md": "[[آبگوشت|ābgusht|abgoosht]] means 'meat water': lamb on the bone with chickpeas, white beans, potatoes, tomatoes, onion, turmeric and a dried lime, cooked for hours until the meat falls apart. Traditionally a piece of tail fat ([[دنبه|dombe|sheep's tail fat]]) goes in for richness. It is often cooked and served in individual stone or clay pots called [[دیزی|dizi|dizi]], so the dish itself is called dizi too. Once the lunch of bazaar workers and labourers, it is now served in [[دیزی‌سرا|dizi-sarā|dizi restaurant]]s and traditional teahouses, and almost every region has its own version.",
+   "image": "abgoosht"
+  },
+  {
+   "h": "How to eat dizi",
+   "md": "Dizi is eaten in two courses, and there is a method:\n\n1. Tear bread – [[سنگک|sangak|sangak]] is best – into small pieces in a bowl.\n2. Pour the broth from the pot over the bread and eat this first; it is called [[ترید|terid|bread soaked in broth]].\n3. Tip the solids – meat, chickpeas, beans, potato and fat – into a second bowl and pound them with a pestle ([[گوشت‌کوب|gusht-kub|meat pounder]]) into a thick paste, [[گوشت‌کوبیده|gusht-kubide|pounded meat]].\n4. Eat the paste with more bread, raw onion, fresh herbs, pickles and a glass of doogh. A long nap afterwards is traditional too.",
+   "image": "sangak"
+  }
+ ],
+ "sentences": [
+  {"fa": "مادرم برای نوروز آش رشته می‌پزد.", "r": "mādar-am barā-ye nowruz āsh-e reshte mi-pazad.", "en": "My mother cooks ash reshteh for Nowruz."},
+  {"fa": "روی آش کشک و پیازداغ و نعناداغ بریز.", "r": "ru-ye āsh kashk o piyāz-dāgh o na'nā-dāgh be-riz.", "en": "Top the ash with kashk, fried onions and fried mint."},
+  {"fa": "رشته را آخر از همه به آش اضافه کن.", "r": "reshte rā ākhar az hame be āsh ezāfe kon.", "en": "Add the noodles to the ash last of all."},
+  {"fa": "وقتی کسی به سفر می‌رود، برایش آش پشت پا می‌پزند.", "r": "vaghti kasi be safar mi-ravad, barā-yash āsh-e posht-e pā mi-pazand.", "en": "When someone goes on a journey, people cook 'posht-e pa' ash for them."},
+  {"fa": "یک کاسه آش داغ در زمستان خیلی می‌چسبد.", "r": "yek kāse āsh-e dāgh dar zemestān kheyli mi-chasbad.", "en": "A bowl of hot ash really hits the spot in winter.", "lit": "a bowl of hot ash sticks very much in winter"},
+  {"fa": "آبگوشت را باید ساعت‌ها روی آتش ملایم پخت.", "r": "ābgusht rā bāyad sā'at-hā ru-ye ātash-e molāyem pokht.", "en": "Abgoosht has to cook for hours over a low flame."},
+  {"fa": "اول نان را در آب دیزی ترید کن.", "r": "avval nān rā dar āb-e dizi terid kon.", "en": "First soak the bread in the dizi broth."},
+  {"fa": "بعد گوشت و نخود را با گوشت‌کوب بکوب.", "r": "ba'd gusht o nokhod rā bā gusht-kub be-kub.", "en": "Then pound the meat and chickpeas with the pestle."},
+  {"fa": "آبگوشت را با پیاز خام و سبزی و ترشی می‌خوریم.", "r": "ābgusht rā bā piyāz-e khām va sabzi va torshi mi-khorim.", "en": "We eat abgoosht with raw onion, herbs and pickles."},
+  {"fa": "بیا به دیزی‌سرا برویم؛ من مهمانت می‌کنم.", "r": "bi-yā be dizi-sarā be-ravim; man mehmān-at mi-konam.", "en": "Let's go to a dizi house – my treat.", "lit": "come, let's go to the dizi house; I'll make you my guest", "col": "بیا بریم دیزی‌سرا؛ من مهمونت می‌کنم.", "colR": "bi-yā be-rim dizi-sarā; man mehmun-et mi-konam."},
+  {"fa": "نخود هر آشی نباش!", "r": "nokhod-e har āshi na-bāsh!", "en": "Don't poke your nose into everything!", "lit": "don't be the chickpea of every ash"}
+ ],
+ "vocab": [
+  {"fa": "آش", "r": "āsh", "en": "ash, thick soup"},
+  {"fa": "آشپز", "r": "āshpaz", "en": "cook"},
+  {"fa": "آشپزخانه", "r": "āshpazkhāne", "en": "kitchen"},
+  {"fa": "رشته", "r": "reshte", "en": "noodles; thread"},
+  {"fa": "کشک", "r": "kashk", "en": "kashk, fermented whey"},
+  {"fa": "نخود", "r": "nokhod", "en": "chickpea"},
+  {"fa": "عدس", "r": "adas", "en": "lentil"},
+  {"fa": "اسفناج", "r": "esfenāj", "en": "spinach"},
+  {"fa": "شوید", "r": "shevid", "en": "dill"},
+  {"fa": "پیازداغ", "r": "piyāz-dāgh", "en": "fried onions"},
+  {"fa": "نعناداغ", "r": "na'nā-dāgh", "en": "dried mint fried in oil"},
+  {"fa": "آبگوشت", "r": "ābgusht", "en": "abgoosht, lamb and bean broth"},
+  {"fa": "دیزی", "r": "dizi", "en": "dizi (stone pot; the dish cooked in it)"},
+  {"fa": "دنبه", "r": "dombe", "en": "sheep's tail fat"},
+  {"fa": "گوشت‌کوب", "r": "gusht-kub", "en": "meat pounder, pestle"},
+  {"fa": "کاسه", "r": "kāse", "en": "bowl"},
+  {"fa": "ملاقه", "r": "malāghe", "en": "ladle"},
+  {"fa": "خام", "r": "khām", "en": "raw"}
+ ],
+ "facts": [
+  "The Persian words āshpaz 'cook' and āshpazkhāne 'kitchen' are built on āsh.",
+  "Ash-e posht-e pa is cooked a few days after a traveller leaves, to wish them a safe return.",
+  "Dizi takes its name from the stone or clay pot it is cooked and served in.",
+  "Kashk is made from yoghurt or buttermilk that is drained and dried; it is sold as hard balls or as a thick liquid.",
+  "Abgoosht is eaten in two stages: first the broth with bread (terid), then the pounded meat and beans (gusht-kubideh).",
+  "The idiom nokhod-e har ashi, 'the chickpea in every ash', describes a busybody."
+ ]
+}

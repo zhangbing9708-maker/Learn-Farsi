@@ -12,7 +12,7 @@ Recipes, directions, a teacher's commands and a mother's 'don't touch that!' all
 - put the steps of a task in order with اول، بعد، سپس، در آخر
 - follow and give a simple recipe
 
-![Ash reshteh, herb and noodle soup](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ash_Reshteh.JPG/800px-Ash_Reshteh.JPG)
+![Ash reshteh, herb and noodle soup](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ash_Reshteh.JPG/960px-Ash_Reshteh.JPG)
 <sub>Ash reshteh, herb and noodle soup. Photo: [AilinParsa](https://commons.wikimedia.org/wiki/File:Ash_Reshteh.JPG), CC BY-SA 3.0.</sub>
 
 ### In Aunt Parvin's kitchen
@@ -205,7 +205,7 @@ _A real recipe written the way Iranian cookbooks write them – in the polite pl
 
 The word آش (*āsh*) is old; it gave Persian its words for cook, آشپز (*āshpaz*) (literally *soup-cooker*), and kitchen, آشپزخانه (*āshpaz-khāne*). Thick soups like this one, with legumes, herbs and sour کشک (*kashk*), are the everyday food of Iranian homes, far more than the kebabs tourists know.
 
-![Ash reshteh, herb and noodle soup](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ash_Reshteh.JPG/800px-Ash_Reshteh.JPG)
+![Ash reshteh, herb and noodle soup](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ash_Reshteh.JPG/960px-Ash_Reshteh.JPG)
 <sub>Ash reshteh, herb and noodle soup. Photo: [AilinParsa](https://commons.wikimedia.org/wiki/File:Ash_Reshteh.JPG), CC BY-SA 3.0.</sub>
 
 ### Tips
@@ -283,10 +283,10 @@ The word آش (*āsh*) is old; it gave Persian its words for cook, آشپز (*ā
 
 **Put the words in order**
 
-1. بنشینید. / لطفاً / این‌جا — Please sit here.
-2. را / فراموش / کلیدها / نکن. — Don't forget the keys.
-3. یک / بپزد. / بگذار / ساعت — Let it cook for an hour.
-4. زیرش / را / آب / دو / روشن / بریز / کن. / لیوان / و — Pour in two glasses of water and turn on the heat under it.
+1. این‌جا / بنشینید. / لطفاً — Please sit here.
+2. فراموش / نکن. / را / کلیدها — Don't forget the keys.
+3. ساعت / بگذار / بپزد. / یک — Let it cook for an hour.
+4. و / کن. / آب / زیرش / لیوان / روشن / دو / بریز / را — Pour in two glasses of water and turn on the heat under it.
 
 <details><summary>Answers</summary>
 

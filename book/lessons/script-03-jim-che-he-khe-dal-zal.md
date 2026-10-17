@@ -11,7 +11,7 @@ Two new families today: the four 'hook' letters jim, che, he and khe, which shar
 - pronounce kh (خ) correctly
 - read words such as khodā, bād and tāj
 
-![A manuscript of the Divan of Hafez](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/DivanofHafez3.jpg/800px-DivanofHafez3.jpg)
+![A manuscript of the Divan of Hafez](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/DivanofHafez3.jpg/960px-DivanofHafez3.jpg)
 <sub>A manuscript of the Divan of Hafez. Photo: [میرزا علینقی شیرازی](https://commons.wikimedia.org/wiki/File:DivanofHafez3.jpg), Public domain.</sub>
 
 ### Jim, che, he, khe – the hook family

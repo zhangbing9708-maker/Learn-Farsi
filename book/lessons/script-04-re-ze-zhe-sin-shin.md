@@ -11,7 +11,7 @@ Five letters that open up a lot of everyday words: re, ze and zhe, three little 
 - tell re from dāl at a glance
 - read words such as dast, shab, barādar and bāzār
 
-![The Grand Bazaar of Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Grand_Bazaar,_Tehran_bb.jpg/800px-Grand_Bazaar,_Tehran_bb.jpg)
+![The Grand Bazaar of Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Grand_Bazaar,_Tehran_bb.jpg/960px-Grand_Bazaar,_Tehran_bb.jpg)
 <sub>The Grand Bazaar of Tehran. Photo: [Brunobuisson](https://commons.wikimedia.org/wiki/File:Grand_Bazaar,_Tehran_bb.jpg), CC BY-SA 4.0.</sub>
 
 ### Re, ze, zhe – the slides

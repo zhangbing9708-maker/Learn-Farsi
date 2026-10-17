@@ -12,7 +12,7 @@ Iran is a wonderful place to shop – from the great covered bazaars to the frui
 - bargain and ask for a discount (takhfif)
 - use mi-shavad: 'how much does it come to?', 'is it possible?'
 
-![The entrance to Tajrish bazaar, Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tajrish_Bazaar_entrance.JPG/800px-Tajrish_Bazaar_entrance.JPG)
+![The entrance to Tajrish bazaar, Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tajrish_Bazaar_entrance.JPG/960px-Tajrish_Bazaar_entrance.JPG)
 <sub>The entrance to Tajrish bazaar, Tehran. Photo: [Arian Ar](https://commons.wikimedia.org/wiki/File:Tajrish_Bazaar_entrance.JPG), CC BY-SA 4.0.</sub>
 
 ### Bargaining at Tajrish Bazaar
@@ -291,10 +291,10 @@ The zeros come from years of inflation. In 2025 Iran passed a law to remove four
 
 **Put the words in order**
 
-1. ترمه / چند / است؟ / این — How much is this termeh?
-2. در / است. / ارزان‌تر / میوه / بازار — Fruit is cheaper in the bazaar.
-3. می‌شود؟ / روی / هم / چقدر — How much does it all come to?
-4. سیب / دو / لیلا / کیلو / می‌خرد. — Leila buys two kilos of apples.
+1. ترمه / چند / این / است؟ — How much is this termeh?
+2. بازار / است. / ارزان‌تر / میوه / در — Fruit is cheaper in the bazaar.
+3. روی / هم / می‌شود؟ / چقدر — How much does it all come to?
+4. سیب / لیلا / می‌خرد. / دو / کیلو — Leila buys two kilos of apples.
 
 <details><summary>Answers</summary>
 

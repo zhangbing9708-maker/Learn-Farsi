@@ -11,7 +11,7 @@ Iran has four real seasons – snow in Tabriz, sun in Bandar Abbas, and both in 
 - say what weather you like and don't like
 - use impersonal sentences with است and verbs like می‌آید and می‌بارد
 
-![Mount Damavand, Iran's highest peak](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/981012-Damavand-South-IMG_9861-2.jpg/800px-981012-Damavand-South-IMG_9861-2.jpg)
+![Mount Damavand, Iran's highest peak](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/981012-Damavand-South-IMG_9861-2.jpg/960px-981012-Damavand-South-IMG_9861-2.jpg)
 <sub>Mount Damavand, Iran's highest peak. Photo: [Safa.daneshvar](https://commons.wikimedia.org/wiki/File:981012-Damavand-South-IMG_9861-2.jpg), CC BY-SA 4.0.</sub>
 
 ### A cold morning in Tehran
@@ -171,7 +171,7 @@ Iran is twice the size of Turkey and has almost every climate on earth. The ال
 
 Tehranis escape the summer heat by driving north to the Caspian for the weekend – the Chālus road through the mountains is famous for its traffic jams. In winter they ski at Dizin and Tochāl, forty minutes from the city centre. So when someone from Tehran asks هوا چطور است؟ (*havā chetor ast?*), the honest answer is: it depends which way you are facing.
 
-![The Caspian Sea seen from orbit](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Caspian_Sea_from_orbit.jpg/800px-Caspian_Sea_from_orbit.jpg)
+![The Caspian Sea seen from orbit](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Caspian_Sea_from_orbit.jpg/960px-Caspian_Sea_from_orbit.jpg)
 <sub>The Caspian Sea seen from orbit. Photo: [Jeff Schmaltz, MODIS Rapid Response Team, NASA/GSFC](https://commons.wikimedia.org/wiki/File:Caspian_Sea_from_orbit.jpg), Public domain.</sub>
 
 ### Tips
@@ -251,10 +251,10 @@ Tehranis escape the summer heat by driving north to the Caspian for the weekend 
 
 **Put the words in order**
 
-1. است. / سرد / خیلی / امروز / هوا — Today the weather is very cold.
-2. را / بهار / من / دوست / دارم. — I like spring.
-3. در / تبریز / می‌آید. / برف — It snows in Tabriz.
-4. فردا / است. / آفتابی / هوا — Tomorrow the weather is sunny.
+1. است. / امروز / سرد / خیلی / هوا — Today the weather is very cold.
+2. دارم. / دوست / من / بهار / را — I like spring.
+3. می‌آید. / برف / تبریز / در — It snows in Tabriz.
+4. است. / آفتابی / فردا / هوا — Tomorrow the weather is sunny.
 
 <details><summary>Answers</summary>
 

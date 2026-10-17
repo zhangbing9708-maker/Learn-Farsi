@@ -12,7 +12,7 @@
 - use balad-am 'I know (how to)'
 - name countries, nationalities and languages
 
-![Relief map of Iran](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Iran_relief_location_map.jpg/800px-Iran_relief_location_map.jpg)
+![Relief map of Iran](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Iran_relief_location_map.jpg/960px-Iran_relief_location_map.jpg)
 <sub>Relief map of Iran. Photo: [Uwe Dedering](https://commons.wikimedia.org/wiki/File:Iran_relief_location_map.jpg), CC BY-SA 3.0.</sub>
 
 ### In a taxi
@@ -209,7 +209,7 @@ Persian is not only the language of Iran. In Afghanistan it is called دری (*d
 
 Iran, for its part, is home to many languages. In the north-west, around Tabriz, millions grow up speaking Azerbaijani Turkish, like Mr Rahimi the taxi driver. There are also Kurdish, Luri, Gilaki and Mazandarani, Arabic in the south-west, Baluchi in the south-east, Turkmen in the north-east, and Armenian and Assyrian communities in the cities. Persian is the language everyone shares – at school, at work and on television – so the question زبان مادری شما چیست؟ (*zabān-e mādari-ye shomā chist?*, ‘what is your mother tongue?’) can have a surprising answer.
 
-![The word Farsi](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Farsi.svg/800px-Farsi.svg.png)
+![The word Farsi](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Farsi.svg/960px-Farsi.svg.png)
 <sub>The word Farsi. Photo: [Jahongard](https://commons.wikimedia.org/wiki/File:Farsi.svg), CC BY-SA 3.0.</sub>
 
 ### Tips
@@ -288,10 +288,10 @@ Iran, for its part, is home to many languages. In the north-west, around Tabriz,
 
 **Put the words in order**
 
-1. می‌کنم. / فارسی / کمی / من / صحبت — I speak a little Persian.
-2. در / برادرم / می‌کند. / زندگی / کانادا — My brother lives in Canada.
-3. انگلیسی / شما / بلدید؟ — Do you speak English?
-4. است. / مادری / انگلیسی / زبان / من — My mother tongue is English.
+1. صحبت / من / کمی / فارسی / می‌کنم. — I speak a little Persian.
+2. زندگی / برادرم / می‌کند. / کانادا / در — My brother lives in Canada.
+3. بلدید؟ / انگلیسی / شما — Do you speak English?
+4. است. / من / انگلیسی / زبان / مادری — My mother tongue is English.
 
 <details><summary>Answers</summary>
 

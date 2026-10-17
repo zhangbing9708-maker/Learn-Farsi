@@ -11,7 +11,7 @@ At A1 you learned to say what happened (رفتم – I went). Now you learn to p
 - say you were in the middle of doing something (داشتم می‌رفتم)
 - join two past events with وقتی که
 
-![Darband, at the foot of the mountains in north Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Darband,_T%C3%A9h%C3%A9ran_(3).jpg/800px-Darband,_T%C3%A9h%C3%A9ran_(3).jpg)
+![Darband, at the foot of the mountains in north Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Darband,_T%C3%A9h%C3%A9ran_(3).jpg/960px-Darband,_T%C3%A9h%C3%A9ran_(3).jpg)
 <sub>Darband, at the foot of the mountains in north Tehran. Photo: [ZarlokX](https://commons.wikimedia.org/wiki/File:Darband,_T%C3%A9h%C3%A9ran_(3).jpg), CC BY-SA 4.0.</sub>
 
 ### A phone call that came too late
@@ -187,7 +187,7 @@ _Tom, an Australian student, writes about his first days in Iran. Watch for the 
 
 Ask any Tehrani about childhood and you will hear about شمال (*shomāl*, ‘the north’): the green, rainy Caspian provinces of Gilan and Mazandaran, a few hours over the Alborz mountains. Families drive up on long weekends, and هر تابستان به شمال می‌رفتیم (*har tābestān be shomāl mi-raftim*, ‘every summer we went to the north’) is a sentence half the country can say. The road through the Chalus valley, the rice fields, the smell of the sea and sweetcorn roasted on the beach – these are the stock images of Iranian nostalgia, and the past continuous is the tense they come in.
 
-![The Caspian Sea seen from orbit](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Caspian_Sea_from_orbit.jpg/800px-Caspian_Sea_from_orbit.jpg)
+![The Caspian Sea seen from orbit](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Caspian_Sea_from_orbit.jpg/960px-Caspian_Sea_from_orbit.jpg)
 <sub>The Caspian Sea seen from orbit. Photo: [Jeff Schmaltz, MODIS Rapid Response Team, NASA/GSFC](https://commons.wikimedia.org/wiki/File:Caspian_Sea_from_orbit.jpg), Public domain.</sub>
 
 ### Watch out
@@ -261,9 +261,9 @@ Ask any Tehrani about childhood and you will hear about شمال (*shomāl*, ‘
 
 **Put the words in order**
 
-1. می‌پختم. / شام / داشتم — I was cooking dinner.
-2. روز / دانشگاه / با / می‌رفتم. / به / مترو / هر — Every day I went to the university by metro.
-3. زدی، / که / زنگ / می‌خوابیدم. / وقتی — When you rang, I was sleeping.
+1. داشتم / می‌پختم. / شام — I was cooking dinner.
+2. دانشگاه / می‌رفتم. / مترو / به / روز / با / هر — Every day I went to the university by metro.
+3. که / می‌خوابیدم. / زدی، / زنگ / وقتی — When you rang, I was sleeping.
 
 <details><summary>Answers</summary>
 

@@ -4,12 +4,12 @@
 
 _For some 1,500 years caravans carried silk, paper, spices and ideas between China and the Mediterranean – and almost every route ran through Iran. Iranians were the road's middlemen, and Persian was one of its languages._
 
-![The caravanserai of Izadkhast](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Izadkhvast_Caravanserai_01.jpg/800px-Izadkhvast_Caravanserai_01.jpg)
+![The caravanserai of Izadkhast](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Izadkhvast_Caravanserai_01.jpg/960px-Izadkhvast_Caravanserai_01.jpg)
 <sub>The caravanserai of Izadkhast. Photo: [Bernard Gagnon](https://commons.wikimedia.org/wiki/File:Izadkhvast_Caravanserai_01.jpg), CC BY-SA 4.0.</sub>
 
 ### Not one road but many
 
-![Silk Road routes](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Silk_road_Kazakhstan.svg/800px-Silk_road_Kazakhstan.svg.png)
+![Silk Road routes](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Silk_road_Kazakhstan.svg/960px-Silk_road_Kazakhstan.svg.png)
 <sub>Silk Road routes. Photo: [Kelvin Case, Turkish Flame, SmallJarsWithGreenLabels](https://commons.wikimedia.org/wiki/File:Silk_road_Kazakhstan.svg), CC BY-SA 4.0.</sub>
 
 The name was invented in 1877 by the German geographer Ferdinand von Richthofen. In reality the جاده‌ی ابریشم (*jāde-ye abrisham*, ‘Silk Road’) was a web of caravan routes linking China with India, Iran and the Mediterranean, from the 2nd century BC, when the Chinese envoy Zhang Qian travelled west to Central Asia, until about the 15th century.
@@ -18,7 +18,7 @@ Iran sat in the middle. From Kashgar and Samarkand the main road ran through م�
 
 ### Merchants and languages
 
-![The Registan, Samarkand](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RegistanSquare_Samarkand.jpg/800px-RegistanSquare_Samarkand.jpg)
+![The Registan, Samarkand](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RegistanSquare_Samarkand.jpg/960px-RegistanSquare_Samarkand.jpg)
 <sub>The Registan, Samarkand. Photo: [Gustavo Jeronimo](https://commons.wikimedia.org/wiki/File:RegistanSquare_Samarkand.jpg), CC BY 2.0.</sub>
 
 Few merchants travelled the whole way. Goods passed from hand to hand and from city to city, and between the 4th and 8th centuries the most successful middlemen were the Sogdians, an Iranian people of Samarkand and Bukhara whose language was spoken in trading posts all the way to China. Later, Persian itself became a common language of the eastern Silk Road: many of the names in Marco Polo's account of his journey to Mongol China in the 13th century are given in their Persian forms.
@@ -27,7 +27,7 @@ In the 6th century the Byzantines broke the Persian hold on silk by obtaining si
 
 ### Caravans and caravanserais
 
-![The Mozaffariyeh hall of the Tabriz bazaar](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Mozaffariyeh,_Grand_Bazzar_of_Tabriz,_IRAN.jpg/800px-Mozaffariyeh,_Grand_Bazzar_of_Tabriz,_IRAN.jpg)
+![The Mozaffariyeh hall of the Tabriz bazaar](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Mozaffariyeh,_Grand_Bazzar_of_Tabriz,_IRAN.jpg/960px-Mozaffariyeh,_Grand_Bazzar_of_Tabriz,_IRAN.jpg)
 <sub>The Mozaffariyeh hall of the Tabriz bazaar. Photo: [Navid Alizadeh Sadighi](https://commons.wikimedia.org/wiki/File:Mozaffariyeh,_Grand_Bazzar_of_Tabriz,_IRAN.jpg), CC BY-SA 4.0.</sub>
 
 English has two Silk Road words straight from Persian: کاروان (*kārvān*, ‘caravan’) and بازار (*bāzār*, ‘bazaar’). A camel caravan covered perhaps 30 or 40 kilometres a day, and along the main roads, about a day's journey apart, stood کاروانسرا (*kārvānsarā*, ‘caravanserais’): fortified inns built around a courtyard, with rooms for travellers, stables for animals and a single gate that was locked at night. Many were built by the Seljuks and the Safavids; legend says Shah Abbas built 999 of them. In 2023 UNESCO listed 54 Persian caravanserais together as one World Heritage site.

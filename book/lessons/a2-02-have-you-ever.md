@@ -12,7 +12,7 @@ Have you ever been to Shiraz? Have you tried fesenjan? Not yet? This lesson is a
 - say how often: یک بار، دو بار، چند بار
 - choose between the simple past (پارسال رفتم) and the perfect (رفته‌ام)
 
-![The Quran Gate at the entrance to Shiraz](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Darvaze_Ghoran11.jpg/800px-Darvaze_Ghoran11.jpg)
+![The Quran Gate at the entrance to Shiraz](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Darvaze_Ghoran11.jpg/960px-Darvaze_Ghoran11.jpg)
 <sub>The Quran Gate at the entrance to Shiraz. Photo: [آرش (Arche)](https://commons.wikimedia.org/wiki/File:Darvaze_Ghoran11.jpg), CC BY-SA 3.0.</sub>
 
 ### Have you ever been to Shiraz?
@@ -318,10 +318,10 @@ Whether or not you believe in it, a *fāl* is a wonderful way into Persian poetr
 
 **Put the words in order**
 
-1. تا / رفته‌ای؟ / به / حالا / ایران — Have you ever been to Iran?
-2. نخورده‌ام. / هنوز / من / شام — I haven't had dinner yet.
-3. هیچ‌وقت / برف / ندیده‌ام. — I've never seen snow.
-4. دو / به / شیراز / بار / رفته‌ایم. / ما — We've been to Shiraz twice.
+1. رفته‌ای؟ / تا / ایران / حالا / به — Have you ever been to Iran?
+2. من / نخورده‌ام. / شام / هنوز — I haven't had dinner yet.
+3. ندیده‌ام. / برف / هیچ‌وقت — I've never seen snow.
+4. ما / شیراز / رفته‌ایم. / به / بار / دو — We've been to Shiraz twice.
 
 <details><summary>Answers</summary>
 

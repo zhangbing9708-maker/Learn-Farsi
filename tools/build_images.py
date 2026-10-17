@@ -11,7 +11,8 @@ import os
 import urllib.parse
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-WIDTH = 800
+WIDTH = 960      # Wikimedia only serves standard thumbnail widths (…, 330, 500, 960, 1280, …)
+THUMB = 500
 LICENSE_URLS = {
     "CC BY 4.0": "https://creativecommons.org/licenses/by/4.0/",
     "CC BY-SA 4.0": "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -28,16 +29,16 @@ LICENSE_URLS = {
 }
 
 
-def urls(file, mime, w):
+def urls(file, mime, w, width=WIDTH):
     name = file.replace(" ", "_")
     md5 = hashlib.md5(name.encode("utf-8")).hexdigest()
     q = urllib.parse.quote(name, safe="()',!*-._~")
     base = f"https://upload.wikimedia.org/wikipedia/commons/{md5[0]}/{md5[:2]}/{q}"
     page = "https://commons.wikimedia.org/wiki/File:" + q
     if mime == "image/svg+xml":
-        return f"https://upload.wikimedia.org/wikipedia/commons/thumb/{md5[0]}/{md5[:2]}/{q}/{WIDTH}px-{q}.png", page
-    if w > WIDTH:
-        return f"https://upload.wikimedia.org/wikipedia/commons/thumb/{md5[0]}/{md5[:2]}/{q}/{WIDTH}px-{q}", page
+        return f"https://upload.wikimedia.org/wikipedia/commons/thumb/{md5[0]}/{md5[:2]}/{q}/{width}px-{q}.png", page
+    if w > width:
+        return f"https://upload.wikimedia.org/wikipedia/commons/thumb/{md5[0]}/{md5[:2]}/{q}/{width}px-{q}", page
     return base, page
 
 
@@ -53,8 +54,9 @@ def main():
             continue
         key, file, mime, w, h, lic, artist = (line.split("\t") + [""] * 7)[:7]
         url, page = urls(file, mime, int(w))
+        th, _ = urls(file, mime, int(w), THUMB)
         out[key] = {
-            "url": url, "page": page, "w": int(w), "h": int(h),
+            "url": url, "thumb": th, "page": page, "w": int(w), "h": int(h),
             "artist": artist.strip() or "Wikimedia Commons", "license": lic,
             "licenseUrl": LICENSE_URLS.get(lic, "https://commons.wikimedia.org/wiki/Commons:Licensing"),
             "caption": captions.get(key, key.replace("-", " ").title()),

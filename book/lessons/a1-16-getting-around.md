@@ -11,7 +11,7 @@ Tehran is a city of twelve million people, shared taxis, a clean metro and legen
 - use the metro and buses
 - give instructions with the imperative: برو، بپیچ، بایستید
 
-![Topkhaneh metro station, Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Topkhaneh_Metro_Station_1517.jpg/800px-Topkhaneh_Metro_Station_1517.jpg)
+![Topkhaneh metro station, Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Topkhaneh_Metro_Station_1517.jpg/960px-Topkhaneh_Metro_Station_1517.jpg)
 <sub>Topkhaneh metro station, Tehran. Photo: [GTVM92](https://commons.wikimedia.org/wiki/File:Topkhaneh_Metro_Station_1517.jpg), CC BY-SA 4.0.</sub>
 
 ### In a taxi
@@ -171,7 +171,7 @@ Tehran's traffic is a national joke and a daily reality: a trip that takes twent
 
 The road that matters most is خیابان ولیعصر (*khiyābān-e Valiasr*), which runs almost 18 km from the railway station in the south to Tajrish in the north under a canopy of plane trees – the longest street in the Middle East. Going *up* (بالا) means north and richer; going *down* (پایین) means south and older. Tehranis give directions in those terms, so learn them: بالاتر (*bālātar*, ‘further up’), پایین‌تر (*pāyin-tar*, ‘further down’).
 
-![Traffic on Valiasr Street, Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Valiasr_Traffic_Jam.jpg/800px-Valiasr_Traffic_Jam.jpg)
+![Traffic on Valiasr Street, Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Valiasr_Traffic_Jam.jpg/960px-Valiasr_Traffic_Jam.jpg)
 <sub>Traffic on Valiasr Street, Tehran. Photo: [Hamed Saber](https://commons.wikimedia.org/wiki/File:Valiasr_Traffic_Jam.jpg), CC BY 2.0.</sub>
 
 ### Tips
@@ -251,10 +251,10 @@ The road that matters most is خیابان ولیعصر (*khiyābān-e Valiasr*)
 
 **Put the words in order**
 
-1. دارید. / نگه / لطفاً / این‌جا — Please stop here.
-2. به / چپ. / بپیچید / چهارراه / سر — At the crossroads turn left.
-3. می‌روم. / با / به / من / بازار / مترو — I go to the bazaar by metro.
-4. است؟ / ایستگاه / دور / مترو — Is the metro station far?
+1. این‌جا / دارید. / نگه / لطفاً — Please stop here.
+2. چهارراه / بپیچید / به / سر / چپ. — At the crossroads turn left.
+3. بازار / مترو / من / به / با / می‌روم. — I go to the bazaar by metro.
+4. دور / مترو / ایستگاه / است؟ — Is the metro station far?
 
 <details><summary>Answers</summary>
 

@@ -4,7 +4,7 @@
 
 _Buttery saffron rice, a skewer of charcoal-grilled meat, a blistered tomato and a sprinkle of sumac: chelow kabab is the closest thing Iran has to a national dish. What goes into it, how it is grilled and how to order it._
 
-![Chelow kabab with grilled tomatoes](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kebab_Bakhtyari.jpg/800px-Kebab_Bakhtyari.jpg)
+![Chelow kabab with grilled tomatoes](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kebab_Bakhtyari.jpg/960px-Kebab_Bakhtyari.jpg)
 <sub>Chelow kabab with grilled tomatoes. Photo: [Taylor and Kevin](https://commons.wikimedia.org/wiki/File:Kebab_Bakhtyari.jpg), CC BY 2.0.</sub>
 
 ### The national dish
@@ -15,7 +15,7 @@ Meat grilled on skewers is as old as fire, but chelow kabab as a dish is usually
 
 ### Which kabab?
 
-![Kabab koobideh on the grill](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Kabab_koobideh_bbq_persian_food.jpg/800px-Kabab_koobideh_bbq_persian_food.jpg)
+![Kabab koobideh on the grill](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Kabab_koobideh_bbq_persian_food.jpg/960px-Kabab_koobideh_bbq_persian_food.jpg)
 <sub>Kabab koobideh on the grill. Photo: [Amin](https://commons.wikimedia.org/wiki/File:Kabab_koobideh_bbq_persian_food.jpg), CC BY-SA 4.0.</sub>
 
 Kababis have a short menu, and every Iranian knows it by heart:
@@ -38,14 +38,14 @@ Koobideh needs little more than meat, onion and salt, but it takes practice to k
 
 ### On the plate
 
-![A glass of yogurt drink](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/%D0%A2%D0%90%D0%9D_(%D0%BD%D0%B0%D0%BF%D0%B8%D1%82%D0%BE%D0%BA).jpg/800px-%D0%A2%D0%90%D0%9D_(%D0%BD%D0%B0%D0%BF%D0%B8%D1%82%D0%BE%D0%BA).jpg)
+![A glass of yogurt drink](https://upload.wikimedia.org/wikipedia/commons/c/c8/%D0%A2%D0%90%D0%9D_(%D0%BD%D0%B0%D0%BF%D0%B8%D1%82%D0%BE%D0%BA).jpg)
 <sub>A glass of yogurt drink. Photo: [Schekinov Alexey Victorovich](https://commons.wikimedia.org/wiki/File:%D0%A2%D0%90%D0%9D_(%D0%BD%D0%B0%D0%BF%D0%B8%D1%82%D0%BE%D0%BA).jpg), CC BY-SA 4.0.</sub>
 
 In a good kababi the rice arrives with a pat of butter (کره (*kare*, ‘butter’)) melting on top, and in old-fashioned places a raw egg yolk to stir into it. On every table stands a shaker of سماق (*somāgh*, ‘sumac’), whose sour red powder goes on both meat and rice. Beside the plate come grilled tomatoes, raw onion, a basket of herbs, flat bread and a glass of دوغ (*dugh*, ‘doogh’), the salty yoghurt drink that many Iranians consider the only proper partner for kebab. Plenty of people eat a bite of raw onion with every mouthful of meat.
 
 ### Kabab at home and on picnics
 
-![A kabab meal in Isfahan](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Isfahan_1220532_nevit.jpg/800px-Isfahan_1220532_nevit.jpg)
+![A kabab meal in Isfahan](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Isfahan_1220532_nevit.jpg/960px-Isfahan_1220532_nevit.jpg)
 <sub>A kabab meal in Isfahan. Photo: [Nevit Dilmen](https://commons.wikimedia.org/wiki/File:Isfahan_1220532_nevit.jpg), CC BY-SA 3.0.</sub>
 
 In a kababi you order by the portion – یک پرس (*yek pors*, ‘one portion’) of koobideh, or of joojeh – while a butcher or kebab stall will sell by the skewer: دو سیخ (*do sikh*, ‘two skewers’) to take away.

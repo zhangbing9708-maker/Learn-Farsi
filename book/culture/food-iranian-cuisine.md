@@ -4,7 +4,7 @@
 
 _Rice and slow-cooked stews, fresh herbs, a cloth spread on the floor and the old belief that every food is either 'hot' or 'cold': an introduction to how Iranians cook and eat, from the Caspian to the Persian Gulf._
 
-![An Iranian meal spread on the sofreh](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/An_Iranian_iftar_meal_(2).jpg/800px-An_Iranian_iftar_meal_(2).jpg)
+![An Iranian meal spread on the sofreh](https://upload.wikimedia.org/wikipedia/commons/1/1e/An_Iranian_iftar_meal_(2).jpg)
 <sub>An Iranian meal spread on the sofreh. Photo: [sayyed shahab-o-din vajedi](https://commons.wikimedia.org/wiki/File:An_Iranian_iftar_meal_(2).jpg), CC BY 4.0.</sub>
 
 ### A cuisine of balance
@@ -15,7 +15,7 @@ A Middle Persian text from Sasanian times, *Khosrow and the Page*, already has a
 
 ### One country, many kitchens
 
-![Mirza ghasemi, smoky aubergine with egg and garlic](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%D0%9C%D0%B8%D1%80%D0%B7%D0%B0_%D0%93%D0%B0%D1%81%D1%81%D0%B5%D0%BC%D0%B8.jpg/800px-%D0%9C%D0%B8%D1%80%D0%B7%D0%B0_%D0%93%D0%B0%D1%81%D1%81%D0%B5%D0%BC%D0%B8.jpg)
+![Mirza ghasemi, smoky aubergine with egg and garlic](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%D0%9C%D0%B8%D1%80%D0%B7%D0%B0_%D0%93%D0%B0%D1%81%D1%81%D0%B5%D0%BC%D0%B8.jpg/960px-%D0%9C%D0%B8%D1%80%D0%B7%D0%B0_%D0%93%D0%B0%D1%81%D1%81%D0%B5%D0%BC%D0%B8.jpg)
 <sub>Mirza ghasemi, smoky aubergine with egg and garlic. Photo: [Anastasiya Lvova](https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B8%D1%80%D0%B7%D0%B0_%D0%93%D0%B0%D1%81%D1%81%D0%B5%D0%BC%D0%B8.jpg), CC BY-SA 4.0.</sub>
 
 Every region has its own kitchen.
@@ -28,7 +28,7 @@ Every region has its own kitchen.
 
 ### The sofreh
 
-![A plate of fresh herbs](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/%D4%BF%D5%A1%D5%B6%D5%A1%D5%B9%D5%AB_3.JPG/800px-%D4%BF%D5%A1%D5%B6%D5%A1%D5%B9%D5%AB_3.JPG)
+![A plate of fresh herbs](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/%D4%BF%D5%A1%D5%B6%D5%A1%D5%B9%D5%AB_3.JPG/960px-%D4%BF%D5%A1%D5%B6%D5%A1%D5%B9%D5%AB_3.JPG)
 <sub>A plate of fresh herbs. Photo: [Chaojoker](https://commons.wikimedia.org/wiki/File:%D4%BF%D5%A1%D5%B6%D5%A1%D5%B9%D5%AB_3.JPG), CC BY-SA 3.0.</sub>
 
 Traditionally Iranians eat on the floor. A cloth called a سفره (*sofre*, ‘cloth spread for a meal’) is laid on the carpet, the dishes go in the middle and everyone sits around it – a custom that survives even in homes with a dining table. The guest of honour sits at the 'top' of the room, farthest from the door: the بالای مجلس (*bālā-ye majles*, ‘place of honour’).
@@ -37,7 +37,7 @@ On a family sofreh you will almost always find bread and a plate of fresh herbs,
 
 ### 'Hot' and 'cold' foods
 
-![Pomegranate juice and seeds](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Pomegranate_Juice_(2019).jpg/800px-Pomegranate_Juice_(2019).jpg)
+![Pomegranate juice and seeds](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Pomegranate_Juice_(2019).jpg/960px-Pomegranate_Juice_(2019).jpg)
 <sub>Pomegranate juice and seeds. Photo: [Augustus Binu](https://commons.wikimedia.org/wiki/File:Pomegranate_Juice_(2019).jpg), CC BY-SA 3.0.</sub>
 
 Feel unwell after fish and yoghurt, and an Iranian grandmother may say you have eaten too many 'cold' things. Traditional Iranian medicine, which goes back to Avicenna and earlier, gives every food a nature (طبع (*tab'*, ‘nature, temperament’)) that is گرم (*garm*, ‘hot’) or سرد (*sard*, ‘cold’) – the system of سردی و گرمی (*sardi o garmi*, ‘coldness and hotness’). It has nothing to do with temperature or chilli. Dates, honey, walnuts, lamb and most spices count as 'hot'; yoghurt, fish, cucumber and watermelon count as 'cold'.
@@ -46,7 +46,7 @@ Too much of either is believed to upset the body, and someone who feels weak and
 
 ### A day of meals
 
-![Barbari bread](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nun_Barbar%C3%AD_fatto_con_farina_di_grano_del_Senatore_Cappelli.jpg/800px-Nun_Barbar%C3%AD_fatto_con_farina_di_grano_del_Senatore_Cappelli.jpg)
+![Barbari bread](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nun_Barbar%C3%AD_fatto_con_farina_di_grano_del_Senatore_Cappelli.jpg/960px-Nun_Barbar%C3%AD_fatto_con_farina_di_grano_del_Senatore_Cappelli.jpg)
 <sub>Barbari bread. Photo: [Marcuscalabresus](https://commons.wikimedia.org/wiki/File:Nun_Barbar%C3%AD_fatto_con_farina_di_grano_del_Senatore_Cappelli.jpg), CC BY-SA 4.0.</sub>
 
 صبحانه (*sobhāne*, ‘breakfast’) is light: flat bread, white cheese (پنیر (*panir*, ‘cheese’)), walnuts, butter, jam or honey, and sweet black tea. On winter mornings there may be حلیم (*halim*, ‘wheat and meat porridge’) from a street stall, or for the brave, کله‌پاچه (*kalle-pāche*, ‘sheep's head and trotters’).

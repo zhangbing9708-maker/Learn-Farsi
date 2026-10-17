@@ -11,7 +11,7 @@ Where is the bank? Is there a pharmacy near here? And where are my keys? In this
 - say 'there is / there are' with hast and 'there isn't' with nist
 - name places in a city and things in a home
 
-![Naqsh-e Jahan Square, Isfahan](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Naqsh-i_Jahan_Square,_Jan._2018.jpg/800px-Naqsh-i_Jahan_Square,_Jan._2018.jpg)
+![Naqsh-e Jahan Square, Isfahan](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Naqsh-i_Jahan_Square,_Jan._2018.jpg/960px-Naqsh-i_Jahan_Square,_Jan._2018.jpg)
 <sub>Naqsh-e Jahan Square, Isfahan. Photo: [احمد جمالی مقدم](https://commons.wikimedia.org/wiki/File:Naqsh-i_Jahan_Square,_Jan._2018.jpg), CC BY-SA 4.0.</sub>
 
 ### A new flat
@@ -206,7 +206,7 @@ The great landmarks of Tehran are its squares, میدان (*meydān*): Azadi Squ
 
 If you get lost, ask. Iranians give directions generously – often with a long explanation, and sometimes by walking you there themselves.
 
-![The Azadi Tower, Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Azadi_Tower_(29358497718).jpg/800px-Azadi_Tower_(29358497718).jpg)
+![The Azadi Tower, Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Azadi_Tower_(29358497718).jpg/960px-Azadi_Tower_(29358497718).jpg)
 <sub>The Azadi Tower, Tehran. Photo: [Blondinrikard Fröberg from Göteborg, Sweden](https://commons.wikimedia.org/wiki/File:Azadi_Tower_(29358497718).jpg), CC BY 2.0.</sub>
 
 ### Tips
@@ -285,10 +285,10 @@ If you get lost, ask. Iranians give directions generously – often with a long 
 
 **Put the words in order**
 
-1. کنار / بانک / است. / داروخانه — The pharmacy is next to the bank.
-2. ایستگاه / مترو / کجاست؟ — Where is the metro station?
-3. کتاب / یک / هست. / میز / روی — There is a book on the table.
-4. مسجد / پشت / است. / مدرسه — The school is behind the mosque.
+1. است. / بانک / داروخانه / کنار — The pharmacy is next to the bank.
+2. مترو / ایستگاه / کجاست؟ — Where is the metro station?
+3. روی / هست. / کتاب / یک / میز — There is a book on the table.
+4. پشت / است. / مدرسه / مسجد — The school is behind the mosque.
 
 <details><summary>Answers</summary>
 

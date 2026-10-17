@@ -11,7 +11,7 @@ Now that you can say hello, it is time to say who you are. In this lesson you in
 - use all the pronouns: man, to, u, mā, shomā, ān-hā
 - use hastam/hasti/hast… and the negative nistam
 
-![The main gate of the University of Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Tehran_University_Main_Gate_,2007_Winter_-_panoramio.jpg/800px-Tehran_University_Main_Gate_,2007_Winter_-_panoramio.jpg)
+![The main gate of the University of Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Tehran_University_Main_Gate_,2007_Winter_-_panoramio.jpg/960px-Tehran_University_Main_Gate_,2007_Winter_-_panoramio.jpg)
 <sub>The main gate of the University of Tehran. Photo: [Behrooz Rezvani](https://commons.wikimedia.org/wiki/File:Tehran_University_Main_Gate_,2007_Winter_-_panoramio.jpg), CC BY 3.0.</sub>
 
 ### First day at the language class
@@ -179,7 +179,7 @@ Iranian first names come from three worlds: the Shahnameh and ancient Persia (د
 
 Surnames are young – they were made compulsory only in 1925 – and often tell you a home town (شیرازی (*Shirāzi*), تهرانی (*Tehrāni*)) or an ancestor's job. Adults address each other by surname plus *āghā-ye* or *khānom*: آقای کریمی (*āghā-ye Karimi*), خانم احمدی (*khānom-e Ahmadi*). Friends use first names, often with جان (*jān*, ‘dear’): *Sārā jān*.
 
-![Women walking in an Iranian city](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Iranian_women_walking_and_talking.jpg/800px-Iranian_women_walking_and_talking.jpg)
+![Women walking in an Iranian city](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Iranian_women_walking_and_talking.jpg/960px-Iranian_women_walking_and_talking.jpg)
 <sub>Women walking in an Iranian city. Photo: [Zoom Zoom](https://commons.wikimedia.org/wiki/File:Iranian_women_walking_and_talking.jpg), CC BY-SA 2.0.</sub>
 
 ### Watch out
@@ -256,9 +256,9 @@ Surnames are young – they were made compulsory only in 1925 – and often tell
 **Put the words in order**
 
 1. چیست؟ / شما / اسم — What is your name?
-2. اهل / من / شیراز / هستم. — I am from Shiraz.
-3. معلم / او / نیست. / ما — He is not our teacher.
-4. دانشجو / آن‌ها / هستند. / هم — They are students too.
+2. من / هستم. / شیراز / اهل — I am from Shiraz.
+3. نیست. / معلم / ما / او — He is not our teacher.
+4. آن‌ها / هم / دانشجو / هستند. — They are students too.
 
 <details><summary>Answers</summary>
 

@@ -218,7 +218,7 @@ Two other calendars run alongside. The lunar Islamic calendar, قمری (*ghamar
 
 The biggest date of all is نوروز (*nowruz*, ‘new day’). The exact moment of the equinox, سال تحویل (*sāl-tahvil*), can fall at any hour, and families gather around the هفت‌سین (*haft-sin*) – a spread of seven things whose names begin with the letter *sin* (س) – to wait for it, sometimes in the middle of the night.
 
-![A haft-sin table for Nowruz](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Haft-sin,_Nowruz,_Still-life-3205068.jpg/800px-Haft-sin,_Nowruz,_Still-life-3205068.jpg)
+![A haft-sin table for Nowruz](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Haft-sin,_Nowruz,_Still-life-3205068.jpg/960px-Haft-sin,_Nowruz,_Still-life-3205068.jpg)
 <sub>A haft-sin table for Nowruz. Photo: [Katzenfee50](https://commons.wikimedia.org/wiki/File:Haft-sin,_Nowruz,_Still-life-3205068.jpg), CC0.</sub>
 
 ### Tips
@@ -299,10 +299,10 @@ The biggest date of all is نوروز (*nowruz*, ‘new day’). The exact momen
 
 **Put the words in order**
 
-1. کِی / است؟ / تولد / تو — When is your birthday?
-2. است. / سه / و / ساعت / ربع — It's a quarter past three.
-3. مادربزرگم / می‌روم. / به / خانه‌ی / جمعه‌ها — On Fridays I go to my grandmother's house.
-4. مهر / مدرسه‌ها / می‌شوند. / اول / باز — Schools open on the first of Mehr.
+1. تولد / است؟ / تو / کِی — When is your birthday?
+2. ساعت / و / است. / سه / ربع — It's a quarter past three.
+3. مادربزرگم / خانه‌ی / به / می‌روم. / جمعه‌ها — On Fridays I go to my grandmother's house.
+4. مدرسه‌ها / می‌شوند. / باز / مهر / اول — Schools open on the first of Mehr.
 
 <details><summary>Answers</summary>
 

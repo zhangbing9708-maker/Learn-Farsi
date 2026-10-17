@@ -300,7 +300,7 @@ def figure(key, cls="ph", caption=None, eager=False):
         return ""
     cap = caption or im.get("caption") or ""
     w, h = im.get("w") or 800, im.get("h") or 600
-    dw = min(800, w)
+    dw = min(960, w)
     dh = round(h * dw / w)
     load_attr = 'fetchpriority="high"' if eager else 'loading="lazy"'
     return (f'<figure class="{cls}"><img src="{esc(im["url"])}" alt="{esc(cap)}" width="{dw}" height="{dh}" {load_attr} decoding="async">'
@@ -317,7 +317,7 @@ def thumb(key, alt=""):
     im = IMAGES.get(key or "")
     if not im:
         return '<span class="thumb thumb-none" aria-hidden="true"></span>'
-    return f'<img class="thumb" src="{esc(im["url"])}" alt="{esc(alt)}" loading="lazy" decoding="async">'
+    return f'<img class="thumb" src="{esc(im.get("thumb") or im["url"])}" alt="{esc(alt)}" loading="lazy" decoding="async">'
 
 
 def study_bar(has_col=False, has_lines=True):

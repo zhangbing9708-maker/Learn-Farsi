@@ -12,7 +12,7 @@ A white shirt, black shoes, a turquoise scarf: in this lesson you learn the colo
 - use kheyli 'very' and in / ān 'this / that' with nouns
 - ask for another colour or size in a shop
 
-![The Mantes carpet, 16th century (Louvre)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mantes_carpet_Louvre_OA6610_detail1.jpg/800px-Mantes_carpet_Louvre_OA6610_detail1.jpg)
+![The Mantes carpet, 16th century (Louvre)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mantes_carpet_Louvre_OA6610_detail1.jpg/960px-Mantes_carpet_Louvre_OA6610_detail1.jpg)
 <sub>The Mantes carpet, 16th century (Louvre). Photo: [Jastrow](https://commons.wikimedia.org/wiki/File:Mantes_carpet_Louvre_OA6610_detail1.jpg), Public domain.</sub>
 
 ### A manteau on Valiasr Street
@@ -209,7 +209,7 @@ You can see both blues on the great mosques of Iran, where turquoise and lapis t
 
 Clothes in Iran are as varied as the country. Since 1979 women have been expected to wear a مانتو (*mānto*) and a روسری (*rusari*), or a چادر (*chādor*), in public; how strictly this is followed has changed a lot in recent years, and in Tehran you will see every style. In the villages and among the nomads, such as the Qashqai and the Bakhtiari, women's dresses are layered in brilliant reds, greens and golds.
 
-![Tilework in the Jameh Mosque of Isfahan](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gran_Mezquita_de_Isfah%C3%A1n,_Isfah%C3%A1n,_Ir%C3%A1n,_2016-09-20,_DD_24.jpg/800px-Gran_Mezquita_de_Isfah%C3%A1n,_Isfah%C3%A1n,_Ir%C3%A1n,_2016-09-20,_DD_24.jpg)
+![Tilework in the Jameh Mosque of Isfahan](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gran_Mezquita_de_Isfah%C3%A1n,_Isfah%C3%A1n,_Ir%C3%A1n,_2016-09-20,_DD_24.jpg/960px-Gran_Mezquita_de_Isfah%C3%A1n,_Isfah%C3%A1n,_Ir%C3%A1n,_2016-09-20,_DD_24.jpg)
 <sub>Tilework in the Jameh Mosque of Isfahan. Photo: [Diego Delso](https://commons.wikimedia.org/wiki/File:Gran_Mezquita_de_Isfah%C3%A1n,_Isfah%C3%A1n,_Ir%C3%A1n,_2016-09-20,_DD_24.jpg), CC BY-SA 4.0.</sub>
 
 ### Tips
@@ -290,10 +290,10 @@ Clothes in Iran are as varied as the country. Since 1979 women have been expecte
 
 **Put the words in order**
 
-1. یک / قرمز / من / کلاه / دارم. — I have a red hat.
-2. مانتوی / سرمه‌ای / است. / خیلی / قشنگ / این — This navy manteau is very pretty.
-3. است. / مشکی / پدرم / کت — My father's jacket is black.
-4. کوتاه‌تر / دارید؟ / هم — Do you have a shorter one too?
+1. دارم. / قرمز / من / کلاه / یک — I have a red hat.
+2. است. / این / مانتوی / خیلی / سرمه‌ای / قشنگ — This navy manteau is very pretty.
+3. است. / پدرم / مشکی / کت — My father's jacket is black.
+4. کوتاه‌تر / هم / دارید؟ — Do you have a shorter one too?
 
 <details><summary>Answers</summary>
 

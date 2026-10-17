@@ -11,7 +11,7 @@ Sooner or later every traveller needs a pharmacy. In this lesson you learn the p
 - say how you feel and buy medicine at a pharmacy
 - give and understand simple advice with باید + subjunctive: باید استراحت کنی
 
-![A bust of Avicenna](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Avicenna_Bust,_left_profile_(cropped).jpg/800px-Avicenna_Bust,_left_profile_(cropped).jpg)
+![A bust of Avicenna](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Avicenna_Bust,_left_profile_(cropped).jpg/960px-Avicenna_Bust,_left_profile_(cropped).jpg)
 <sub>A bust of Avicenna. Photo: [National Library of Medicine](https://commons.wikimedia.org/wiki/File:Avicenna_Bust,_left_profile_(cropped).jpg), No restrictions.</sub>
 
 ### At the pharmacy
@@ -218,7 +218,7 @@ Tell an Iranian grandmother you have a cold and she will not only say خدا ب�
 
 The system goes back to Galen and to **Avicenna** – ابن سینا (*Ebn-e Sinā*) (980–1037) – whose *Canon of Medicine* was the standard medical textbook in Europe for centuries. Modern Iran has excellent doctors and a pharmacy on every street, but the warm–cold idea is everywhere: ask why someone won't eat fish with yoghurt and you will hear about it.
 
-![The tomb of Avicenna, Hamadan](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Tomb_of_Avicenna,_Hamdan.jpg/800px-Tomb_of_Avicenna,_Hamdan.jpg)
+![The tomb of Avicenna, Hamadan](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Tomb_of_Avicenna,_Hamdan.jpg/960px-Tomb_of_Avicenna,_Hamdan.jpg)
 <sub>The tomb of Avicenna, Hamadan. Photo: [Ahmad Masoominezhad](https://commons.wikimedia.org/wiki/File:Tomb_of_Avicenna,_Hamdan.jpg), CC BY-SA 4.0.</sub>
 
 ### Tips
@@ -299,10 +299,10 @@ The system goes back to Galen and to **Avicenna** – ابن سینا (*Ebn-e Si
 
 **Put the words in order**
 
-1. خیلی / سرم / می‌کند. / درد — I have a bad headache.
-2. باید / آب / بخورید. / زیاد — You should drink a lot of water.
-3. ببخشید، / داروخانه / کجاست؟ — Excuse me, where is the pharmacy?
-4. خوب / امروز / نیست. / حالم — I don't feel well today.
+1. درد / می‌کند. / سرم / خیلی — I have a bad headache.
+2. باید / آب / زیاد / بخورید. — You should drink a lot of water.
+3. داروخانه / ببخشید، / کجاست؟ — Excuse me, where is the pharmacy?
+4. حالم / نیست. / امروز / خوب — I don't feel well today.
 
 <details><summary>Answers</summary>
 

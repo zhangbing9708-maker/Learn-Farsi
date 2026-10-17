@@ -11,7 +11,7 @@ Your first conversation in Persian. By the end of this lesson you can greet peop
 - say please and thank you
 - use the polite plural 'you' (shomā)
 
-![Northern Tehran beneath the Alborz mountains](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/800px-North_of_Tehran_Skyline_view.jpg)
+![Northern Tehran beneath the Alborz mountains](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/960px-North_of_Tehran_Skyline_view.jpg)
 <sub>Northern Tehran beneath the Alborz mountains. Photo: [Ninara from Helsinki, Finland](https://commons.wikimedia.org/wiki/File:North_of_Tehran_Skyline_view.jpg), CC BY-SA 3.0.</sub>
 
 ### Two neighbours in the morning
@@ -157,7 +157,7 @@ Two words from the bakery carry this spirit: بفرمایید (*befarmāyid*) (*
 
 Notice also جان (*jān*, ‘dear, soul’) after a name: *Rezā jān*. It is warm but not romantic – friends, parents, teachers and shopkeepers all use it.
 
-![Sangak, bread baked on hot pebbles](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Sangak_05.jpg/800px-Sangak_05.jpg)
+![Sangak, bread baked on hot pebbles](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Sangak_05.jpg/960px-Sangak_05.jpg)
 <sub>Sangak, bread baked on hot pebbles. Photo: [Fatemeh Abedi](https://commons.wikimedia.org/wiki/File:Sangak_05.jpg), CC BY 4.0.</sub>
 
 ### Pronunciation
@@ -233,9 +233,9 @@ Notice also جان (*jān*, ‘dear, soul’) after a name: *Rezā jān*. It is 
 
 **Put the words in order**
 
-1. است؟ / شما / حال / چطور — How are you?
+1. حال / است؟ / شما / چطور — How are you?
 2. خوبم. / من / هم — I am well too.
-3. داشته / روز / خوبی / باشید! — Have a good day!
+3. باشید! / داشته / روز / خوبی — Have a good day!
 
 <details><summary>Answers</summary>
 

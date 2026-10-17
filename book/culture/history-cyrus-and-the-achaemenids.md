@@ -4,7 +4,7 @@
 
 _In twenty years a prince from Fars built the largest empire the world had yet seen. The Achaemenids ruled from the Indus to the Aegean for more than two centuries, and Iranians still call Cyrus the father of their country._
 
-![Cyrus the Great, a modern image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cyrus_II_(The_Great)_(cropped).jpg/800px-Cyrus_II_(The_Great)_(cropped).jpg)
+![Cyrus the Great, a modern image](https://upload.wikimedia.org/wikipedia/commons/5/57/Cyrus_II_(The_Great)_(cropped).jpg)
 <sub>Cyrus the Great, a modern image. Photo: [Surenae](https://commons.wikimedia.org/wiki/File:Cyrus_II_(The_Great)_(cropped).jpg), CC BY-SA 4.0.</sub>
 
 ### A prince from Anshan
@@ -15,7 +15,7 @@ Iranians know him as کوروش بزرگ (*Kurosh-e Bozorg*, ‘Cyrus the Great�
 
 ### Babylon and the Cyrus Cylinder
 
-![The Cyrus Cylinder, 6th century BC](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Cyrus_Cylinder_front.jpg/800px-Cyrus_Cylinder_front.jpg)
+![The Cyrus Cylinder, 6th century BC](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Cyrus_Cylinder_front.jpg/960px-Cyrus_Cylinder_front.jpg)
 <sub>The Cyrus Cylinder, 6th century BC. Photo: [Prioryman](https://commons.wikimedia.org/wiki/File:Cyrus_Cylinder_front.jpg), CC BY-SA 3.0.</sub>
 
 In October 539 BC Cyrus's army entered Babylon, the greatest city of the age, almost without a fight. A clay cylinder found there in 1879 and now in the British Museum tells his version of events in Babylonian cuneiform: the god Marduk chose him, he brought peace, restored the temples and let deported peoples go home with their gods. The Bible remembers him in the same way – in the Book of Ezra he allows the Jews to return from exile and rebuild the Temple in Jerusalem.
@@ -24,7 +24,7 @@ Iranians call the cylinder منشور کوروش (*manshur-e Kurosh*, ‘the Cha
 
 ### Darius and the King's Road
 
-![Darius the Great's inscription at Bisotun, Kermanshah](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%DA%A9%D8%AA%DB%8C%D8%A8%D9%87_%D8%AF%D8%A7%D8%B1%DB%8C%D9%88%D8%B4_(_%D8%A8%DB%8C%D8%B3%D8%AA%D9%88%D9%86(.jpg/800px-%DA%A9%D8%AA%DB%8C%D8%A8%D9%87_%D8%AF%D8%A7%D8%B1%DB%8C%D9%88%D8%B4_(_%D8%A8%DB%8C%D8%B3%D8%AA%D9%88%D9%86(.jpg)
+![Darius the Great's inscription at Bisotun, Kermanshah](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%DA%A9%D8%AA%DB%8C%D8%A8%D9%87_%D8%AF%D8%A7%D8%B1%DB%8C%D9%88%D8%B4_(_%D8%A8%DB%8C%D8%B3%D8%AA%D9%88%D9%86(.jpg/960px-%DA%A9%D8%AA%DB%8C%D8%A8%D9%87_%D8%AF%D8%A7%D8%B1%DB%8C%D9%88%D8%B4_(_%D8%A8%DB%8C%D8%B3%D8%AA%D9%88%D9%86(.jpg)
 <sub>Darius the Great's inscription at Bisotun, Kermanshah. Photo: [Korosh.091](https://commons.wikimedia.org/wiki/File:%DA%A9%D8%AA%DB%8C%D8%A8%D9%87_%D8%AF%D8%A7%D8%B1%DB%8C%D9%88%D8%B4_(_%D8%A8%DB%8C%D8%B3%D8%AA%D9%88%D9%86(.jpg), CC BY-SA 4.0.</sub>
 
 Cyrus died in 530 BC fighting nomads in Central Asia, and his son Cambyses added Egypt to the empire. In 522 BC a nobleman from a side branch of the family, داریوش (*Dāriush*, ‘Darius’), seized the throne and crushed a year of revolts. He told the story on a cliff at بیستون (*Bisotun*, ‘Behistun’) near Kermanshah in three languages – Old Persian, Elamite and Babylonian – and more than two thousand years later the inscription helped European scholars to decipher cuneiform.
@@ -37,7 +37,7 @@ Darius and his son خشایارشا (*Khashāyārshā*, ‘Xerxes’) also tried
 
 ### What the Achaemenids left
 
-![The tomb of Cyrus the Great at Pasargadae](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pasargad_Tomb_Cyrus3.jpg/800px-Pasargad_Tomb_Cyrus3.jpg)
+![The tomb of Cyrus the Great at Pasargadae](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pasargad_Tomb_Cyrus3.jpg/960px-Pasargad_Tomb_Cyrus3.jpg)
 <sub>The tomb of Cyrus the Great at Pasargadae. Photo: [Bernd81](https://commons.wikimedia.org/wiki/File:Pasargad_Tomb_Cyrus3.jpg), CC BY-SA 4.0.</sub>
 
 The Achaemenids showed that dozens of peoples – Egyptians, Babylonians, Jews, Greeks, Indians – could be ruled from one centre while keeping their own laws and gods. Their Old Persian is the direct ancestor of the Persian you are learning: Darius calls himself 'king of kings', in modern Persian شاهنشاه (*shāhanshāh*), a title Iran's rulers used until 1979.

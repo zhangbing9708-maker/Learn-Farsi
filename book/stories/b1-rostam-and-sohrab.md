@@ -4,7 +4,7 @@
 
 The most famous tragedy of the Shahnameh, Ferdowsi's eleventh-century epic: a father and a son who meet on the battlefield without knowing each other. Every Iranian knows how it ends. Read it for the past tenses – simple past, past continuous and perfect – and for the way Persian narrates with short, strong sentences.
 
-![Rostam mourns Sohrab](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/RostamMournsSohrab.jpg/800px-RostamMournsSohrab.jpg)
+![Rostam mourns Sohrab](https://upload.wikimedia.org/wikipedia/commons/1/19/RostamMournsSohrab.jpg)
 <sub>Rostam mourns Sohrab. Photo: [Unknown artist](https://commons.wikimedia.org/wiki/File:RostamMournsSohrab.jpg), Public domain.</sub>
 
 ### The story

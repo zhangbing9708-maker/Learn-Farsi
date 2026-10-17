@@ -4,7 +4,7 @@
 
 _Long before there were Persians, the Iranian plateau was home to cities, ziggurats and writing. The story of Iran begins with Elam, Jiroft and the Burnt City – five thousand years ago._
 
-![The Elamite ziggurat of Chogha Zanbil, Khuzestan](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%D8%B2%DB%8C%DA%AF%D9%88%D8%B1%D8%A7%D8%AA_%DA%86%D8%BA%D8%A7_%D8%B2%D9%86%D8%A8%DB%8C%D9%84.jpg/800px-%D8%B2%DB%8C%DA%AF%D9%88%D8%B1%D8%A7%D8%AA_%DA%86%D8%BA%D8%A7_%D8%B2%D9%86%D8%A8%DB%8C%D9%84.jpg)
+![The Elamite ziggurat of Chogha Zanbil, Khuzestan](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%D8%B2%DB%8C%DA%AF%D9%88%D8%B1%D8%A7%D8%AA_%DA%86%D8%BA%D8%A7_%D8%B2%D9%86%D8%A8%DB%8C%D9%84.jpg/960px-%D8%B2%DB%8C%DA%AF%D9%88%D8%B1%D8%A7%D8%AA_%DA%86%D8%BA%D8%A7_%D8%B2%D9%86%D8%A8%DB%8C%D9%84.jpg)
 <sub>The Elamite ziggurat of Chogha Zanbil, Khuzestan. Photo: [Mobina ghanbaryan](https://commons.wikimedia.org/wiki/File:%D8%B2%DB%8C%DA%AF%D9%88%D8%B1%D8%A7%D8%AA_%DA%86%D8%BA%D8%A7_%D8%B2%D9%86%D8%A8%DB%8C%D9%84.jpg), CC BY-SA 4.0.</sub>
 
 ### Before the Persians
@@ -15,7 +15,7 @@ The oldest villages on the plateau – places like تپه سیلک (*Tappe Sialk
 
 ### Elam: the kingdom of Susa
 
-![The ancient water mills and channels of Shushtar](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Shushtar_Historical_Hydraulic_System_Panorama.jpg/800px-Shushtar_Historical_Hydraulic_System_Panorama.jpg)
+![The ancient water mills and channels of Shushtar](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Shushtar_Historical_Hydraulic_System_Panorama.jpg/960px-Shushtar_Historical_Hydraulic_System_Panorama.jpg)
 <sub>The ancient water mills and channels of Shushtar. Photo: [Iman Yari](https://commons.wikimedia.org/wiki/File:Shushtar_Historical_Hydraulic_System_Panorama.jpg), CC BY-SA 4.0.</sub>
 
 The great power of early Iran was ایلام (*Ilām*, ‘Elam’), centred on the city of شوش (*Shush*, ‘Susa’) in what is now Khuzestan. The Elamites were not Persians and their language is related to nothing we know. They wrote first in a picture-script called Proto-Elamite (around 3100 BC, still undeciphered), then in cuneiform borrowed from their Mesopotamian neighbours.
@@ -26,7 +26,7 @@ Elam's end came in 646 BC when the Assyrian king Ashurbanipal sacked Susa. But t
 
 ### Jiroft and the Burnt City
 
-![Excavations at Shahr-e Sukhteh, the Burnt City](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/C20R1002.jpg/800px-C20R1002.jpg)
+![Excavations at Shahr-e Sukhteh, the Burnt City](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/C20R1002.jpg/960px-C20R1002.jpg)
 <sub>Excavations at Shahr-e Sukhteh, the Burnt City. Photo: [Amirkhan33](https://commons.wikimedia.org/wiki/File:C20R1002.jpg), CC BY-SA 4.0.</sub>
 
 Two discoveries of recent decades have rewritten the map. In 2001 floods in the Halil river valley, in Kerman province, uncovered thousands of carved stone vessels: the تمدن جیرفت (*tamaddon-e Jiroft*, ‘Jiroft civilisation’), a Bronze Age culture of around 2500 BC with its own art of scorpions, eagles and palm trees, and possibly its own writing.

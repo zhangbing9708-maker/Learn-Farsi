@@ -4,12 +4,12 @@
 
 _Long before Islam, Iranians followed the teachings of Zarathustra: one wise god, a cosmic struggle between truth and the lie, and fire as the sign of purity. The religion is small today, but its festivals, words and symbols are everywhere in Iranian life._
 
-![The Zoroastrian fire temple of Yazd](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zoroastrian_Fire_Temple_in_Yazd.JPG/800px-Zoroastrian_Fire_Temple_in_Yazd.JPG)
+![The Zoroastrian fire temple of Yazd](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zoroastrian_Fire_Temple_in_Yazd.JPG/960px-Zoroastrian_Fire_Temple_in_Yazd.JPG)
 <sub>The Zoroastrian fire temple of Yazd. Photo: [Zenith210](https://commons.wikimedia.org/wiki/File:Zoroastrian_Fire_Temple_in_Yazd.JPG), CC BY-SA 3.0.</sub>
 
 ### The prophet
 
-![An Avesta manuscript copied in Yazd in 1647](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Videvdad_Sadah_(Zoroastrian_religious_code),_opened_to_first_chapter,_unknown_copyist,_Yazd,_Iran,_1647_AD_-_British_Library,_London_-_DSC00550.jpg/800px-Videvdad_Sadah_(Zoroastrian_religious_code),_opened_to_first_chapter,_unknown_copyist,_Yazd,_Iran,_1647_AD_-_British_Library,_London_-_DSC00550.jpg)
+![An Avesta manuscript copied in Yazd in 1647](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Videvdad_Sadah_(Zoroastrian_religious_code),_opened_to_first_chapter,_unknown_copyist,_Yazd,_Iran,_1647_AD_-_British_Library,_London_-_DSC00550.jpg/960px-Videvdad_Sadah_(Zoroastrian_religious_code),_opened_to_first_chapter,_unknown_copyist,_Yazd,_Iran,_1647_AD_-_British_Library,_London_-_DSC00550.jpg)
 <sub>An Avesta manuscript copied in Yazd in 1647. Photo: [Daderot](https://commons.wikimedia.org/wiki/File:Videvdad_Sadah_(Zoroastrian_religious_code),_opened_to_first_chapter,_unknown_copyist,_Yazd,_Iran,_1647_AD_-_British_Library,_London_-_DSC00550.jpg), CC0.</sub>
 
 زرتشت (*Zartosht*, ‘Zarathustra’) – Zoroaster to the Greeks – is one of the most mysterious founders of a religion. He lived somewhere in eastern Iran or Central Asia, but nobody knows exactly when: the language of his hymns is so old that many scholars place him between about 1500 and 1000 BC, while a later tradition puts him in the 6th century BC. His seventeen hymns, the گاهان (*Gāhān*, ‘Gathas’), are the oldest part of the اوستا (*Avestā*, ‘Avesta’), the holy book of the Zoroastrians. For many centuries the Avesta was passed on by memory; it was written down only in Sasanian times, in an alphabet invented for the purpose.
@@ -22,7 +22,7 @@ After death, the soul crosses a bridge that is wide for the righteous and as nar
 
 ### Fire temples and towers of silence
 
-![The Zoroastrian towers of silence, Yazd](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/20110102_Zoroastrian_Towers_of_Silence_Yazd_Iran.jpg/800px-20110102_Zoroastrian_Towers_of_Silence_Yazd_Iran.jpg)
+![The Zoroastrian towers of silence, Yazd](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/20110102_Zoroastrian_Towers_of_Silence_Yazd_Iran.jpg/960px-20110102_Zoroastrian_Towers_of_Silence_Yazd_Iran.jpg)
 <sub>The Zoroastrian towers of silence, Yazd. Photo: [Ggia](https://commons.wikimedia.org/wiki/File:20110102_Zoroastrian_Towers_of_Silence_Yazd_Iran.jpg), CC BY-SA 4.0.</sub>
 
 Fire, clean and full of light, is the symbol of truth, and Zoroastrians pray facing a source of light – the sun, a lamp or a sacred fire. They do not worship the fire itself. The Achaemenid kings called on Ahura Mazda in their inscriptions, and the Sasanians made the faith the religion of the state, with great fires burning in temples such as Adur Gushnasp at Takht-e Soleyman. In the آتشکده (*āteshkade*, ‘fire temple’) of Yazd a flame said to have burned since about AD 470 is still tended by priests, موبد (*mobad*), who cover their mouths so that their breath does not pollute it.
@@ -31,14 +31,14 @@ The same respect for the pure elements meant that the dead could be neither buri
 
 ### After Islam
 
-![Chak Chak, the Zoroastrian mountain shrine near Ardakan](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Zoroastrian_Persian_Shrine_chak-chak_Republic_Ardakan.jpg/800px-Zoroastrian_Persian_Shrine_chak-chak_Republic_Ardakan.jpg)
+![Chak Chak, the Zoroastrian mountain shrine near Ardakan](https://upload.wikimedia.org/wikipedia/commons/f/fa/Zoroastrian_Persian_Shrine_chak-chak_Republic_Ardakan.jpg)
 <sub>Chak Chak, the Zoroastrian mountain shrine near Ardakan. Photo: [Abolfazl Ahmadi](https://commons.wikimedia.org/wiki/File:Zoroastrian_Persian_Shrine_chak-chak_Republic_Ardakan.jpg), CC BY-SA 4.0.</sub>
 
 After the Arab conquest most Iranians slowly became Muslims, but Zoroastrian communities survived, especially around Yazd and Kerman. Between the 8th and 10th centuries some groups sailed to Gujarat in India, where their descendants, the پارسی (*Pārsi*, ‘Parsis’), became famous merchants and industrialists; the singer Freddie Mercury was born into a Parsi family. In Iran today Zoroastrians are a small, officially recognised minority with a reserved seat in parliament, and most of them live in Tehran. Every June pilgrims climb to چک‌چک (*Chak-chak*), a mountain shrine near Yazd where water drips from the rock.
 
 ### A living heritage
 
-![The Faravahar](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Faravahar.svg/800px-Faravahar.svg.png)
+![The Faravahar](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Faravahar.svg/960px-Faravahar.svg.png)
 <sub>The Faravahar. Photo: [Ploxhoi / Kevin McCormick](https://commons.wikimedia.org/wiki/File:Faravahar.svg), CC BY-SA 3.0.</sub>
 
 You do not have to be a Zoroastrian to live with Zoroastrian traditions. نوروز (*Nowruz*) at the spring equinox, jumping over bonfires on چهارشنبه‌سوری (*Chahārshanbe-suri*), the long night of یلدا (*Yaldā*) and the midwinter fire festival of سده (*Sade*) all go back to pre-Islamic Iran. The months of the Iranian calendar are named after Zoroastrian divine beings – مهر (*Mehr*) is Mithra, آذر (*Āzar*) is fire, آبان (*Ābān*) the waters. Persian بهشت (*behesht*, ‘paradise’) comes from an Avestan word meaning 'best', and دیو (*div*, ‘demon’) from the old word for false gods. Even the winged figure of the فروهر (*foruhar*, ‘Faravahar’), once a royal emblem of the Achaemenids, is now worn on necklaces all over Iran as a sign of Iranian identity.

@@ -4,7 +4,7 @@
 
 _Darius the Great's palace city in Fars was the showpiece of the Achaemenid Empire. Burned by Alexander and half-buried for two thousand years, its staircases still show the peoples of the ancient world bringing gifts to the king of kings._
 
-![The Tachara, palace of Darius, at Persepolis](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2018-09-21_Iran,_Persepolis,_Tachara_(from_the_southeast).jpg/800px-2018-09-21_Iran,_Persepolis,_Tachara_(from_the_southeast).jpg)
+![The Tachara, palace of Darius, at Persepolis](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2018-09-21_Iran,_Persepolis,_Tachara_(from_the_southeast).jpg/960px-2018-09-21_Iran,_Persepolis,_Tachara_(from_the_southeast).jpg)
 <sub>The Tachara, palace of Darius, at Persepolis. Photo: [Laurens R. Krol](https://commons.wikimedia.org/wiki/File:2018-09-21_Iran,_Persepolis,_Tachara_(from_the_southeast).jpg), CC BY 4.0.</sub>
 
 ### The city of the Persians
@@ -15,14 +15,14 @@ The Persians called the place پارسه (*Pārse*, ‘Parsa’); the Greeks cal
 
 ### Up the great stairs
 
-![A column at Persepolis](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Perspolis.jpg/800px-Perspolis.jpg)
+![A column at Persepolis](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Perspolis.jpg/960px-Perspolis.jpg)
 <sub>A column at Persepolis. Photo: [Luis Argerich](https://commons.wikimedia.org/wiki/File:Perspolis.jpg), CC BY 2.0.</sub>
 
 Visitors still arrive the way ambassadors did: up a broad double staircase to the دروازه‌ی ملل (*darvāze-ye melal*, ‘Gate of All Nations’), built by Xerxes and guarded by huge winged bulls. Beyond it rose the آپادانا (*Āpādānā*, ‘Apadana’), the great audience hall, where the king received his subjects under a roof held up by 72 stone columns. Fourteen of them still stand, crowned with carved double bulls, lions and griffins. Next to it stood the even larger کاخ صدستون (*kākh-e sad-sotun*, ‘Hall of a Hundred Columns’).
 
 ### A procession in stone
 
-![An Achaemenid relief, National Museum of Iran](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/National_Museum_of_Iran_Darafsh_(785).JPG/800px-National_Museum_of_Iran_Darafsh_(785).JPG)
+![An Achaemenid relief, National Museum of Iran](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/National_Museum_of_Iran_Darafsh_(785).JPG/960px-National_Museum_of_Iran_Darafsh_(785).JPG)
 <sub>An Achaemenid relief, National Museum of Iran. Photo: [Darafsh](https://commons.wikimedia.org/wiki/File:National_Museum_of_Iran_Darafsh_(785).JPG), CC BY 3.0.</sub>
 
 The most famous carvings run along the Apadana's staircases. Twenty-three delegations from every corner of the empire climb towards the king, each in its own dress and with its own gifts: Ethiopians with an elephant tusk and an okapi, Indians with baskets of gold dust, Armenians with a horse, Bactrians with a two-humped camel, Lydians with bracelets and bowls. Between them walk Persian and Median nobles, some holding hands, some turning to chat.
@@ -35,7 +35,7 @@ In the 1930s archaeologists from the University of Chicago found thousands of cl
 
 ### Fire, ruin and rediscovery
 
-![The royal tombs of Naqsh-e Rostam near Persepolis](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Naqsh-e_Rustam_necropolis_in_Iran.jpg/800px-Naqsh-e_Rustam_necropolis_in_Iran.jpg)
+![The royal tombs of Naqsh-e Rostam near Persepolis](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Naqsh-e_Rustam_necropolis_in_Iran.jpg/960px-Naqsh-e_Rustam_necropolis_in_Iran.jpg)
 <sub>The royal tombs of Naqsh-e Rostam near Persepolis. Photo: [Maasaak](https://commons.wikimedia.org/wiki/File:Naqsh-e_Rustam_necropolis_in_Iran.jpg), CC BY-SA 4.0.</sub>
 
 In 330 BC Alexander of Macedon took Persepolis, emptied its treasury – ancient writers say thousands of mules and camels were needed to carry it away – and burned the palaces. Some said it was revenge for Xerxes' burning of Athens, others that it happened at a drunken feast. Nearby, at نقش رستم (*Naghsh-e Rostam*), the tombs of Darius and three later kings, cut high into a cliff in the shape of a cross, still look out over the plain.

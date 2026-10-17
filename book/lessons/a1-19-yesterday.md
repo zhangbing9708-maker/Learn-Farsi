@@ -218,7 +218,7 @@ A classic Tehran Friday starts early in the mountains. At dawn thousands of peop
 
 If you missed a good outing, your friends will tell you جای شما خالی بود! (*jā-ye shomā khāli bud!*, ‘your place was empty’) – *we missed you*. It is the polite reply to *khosh gozasht?* as well.
 
-![Darband, at the foot of the mountains in north Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Darband,_T%C3%A9h%C3%A9ran_(3).jpg/800px-Darband,_T%C3%A9h%C3%A9ran_(3).jpg)
+![Darband, at the foot of the mountains in north Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Darband,_T%C3%A9h%C3%A9ran_(3).jpg/960px-Darband,_T%C3%A9h%C3%A9ran_(3).jpg)
 <sub>Darband, at the foot of the mountains in north Tehran. Photo: [ZarlokX](https://commons.wikimedia.org/wiki/File:Darband,_T%C3%A9h%C3%A9ran_(3).jpg), CC BY-SA 4.0.</sub>
 
 ### Tips
@@ -299,10 +299,10 @@ If you missed a good outing, your friends will tell you جای شما خالی �
 
 **Put the words in order**
 
-1. رفتم. / دیروز / به / بازار — Yesterday I went to the bazaar.
+1. بازار / رفتم. / به / دیروز — Yesterday I went to the bazaar.
 2. شام / نخوردم. / دیشب — I didn't have dinner last night.
 3. پارسال / اصفهان / به / رفتند. — Last year they went to Isfahan.
-4. بود. / دیروز / سرد / هوا — Yesterday it was cold.
+4. سرد / بود. / دیروز / هوا — Yesterday it was cold.
 
 <details><summary>Answers</summary>
 

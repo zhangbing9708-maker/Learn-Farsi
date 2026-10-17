@@ -4,7 +4,7 @@
 
 Tom, an Australian student in Tehran, visits the Grand Bazaar with his friend Reza. The story practises shopping language: 'how much is it?', numbers, 'expensive' and 'cheap', and the famous Persian habit of bargaining. Prices in Iran are spoken in tomans, even though the money says rials.
 
-![The Grand Bazaar of Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Grand_Bazaar,_Tehran_bb.jpg/800px-Grand_Bazaar,_Tehran_bb.jpg)
+![The Grand Bazaar of Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Grand_Bazaar,_Tehran_bb.jpg/960px-Grand_Bazaar,_Tehran_bb.jpg)
 <sub>The Grand Bazaar of Tehran. Photo: [Brunobuisson](https://commons.wikimedia.org/wiki/File:Grand_Bazaar,_Tehran_bb.jpg), CC BY-SA 4.0.</sub>
 
 ### The story

@@ -12,7 +12,7 @@ Point at anything and ask what it is. In this lesson you learn to name the thing
 - say 'a …' with yek and -i
 - link two nouns with the ezafe: ketāb-e Sārā
 
-![The Grand Bazaar of Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Grand_Bazaar,_Tehran_bb.jpg/800px-Grand_Bazaar,_Tehran_bb.jpg)
+![The Grand Bazaar of Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Grand_Bazaar,_Tehran_bb.jpg/960px-Grand_Bazaar,_Tehran_bb.jpg)
 <sub>The Grand Bazaar of Tehran. Photo: [Brunobuisson](https://commons.wikimedia.org/wiki/File:Grand_Bazaar,_Tehran_bb.jpg), CC BY-SA 4.0.</sub>
 
 ### What is this?
@@ -176,7 +176,7 @@ The best place to practise *in chist?* is a bazaar. Every Iranian city has one �
 
 The English word *bazaar* is itself Persian (بازار (*bāzār*)), one of a long list of words that travelled west – you will meet the others in the advanced course.
 
-![The Mozaffariyeh hall of the Tabriz bazaar](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Mozaffariyeh,_Grand_Bazzar_of_Tabriz,_IRAN.jpg/800px-Mozaffariyeh,_Grand_Bazzar_of_Tabriz,_IRAN.jpg)
+![The Mozaffariyeh hall of the Tabriz bazaar](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Mozaffariyeh,_Grand_Bazzar_of_Tabriz,_IRAN.jpg/960px-Mozaffariyeh,_Grand_Bazzar_of_Tabriz,_IRAN.jpg)
 <sub>The Mozaffariyeh hall of the Tabriz bazaar. Photo: [Navid Alizadeh Sadighi](https://commons.wikimedia.org/wiki/File:Mozaffariyeh,_Grand_Bazzar_of_Tabriz,_IRAN.jpg), CC BY-SA 4.0.</sub>
 
 ### Watch out
@@ -254,10 +254,10 @@ The English word *bazaar* is itself Persian (بازار (*bāzār*)), one of a l
 
 **Put the words in order**
 
-1. کتاب / است. / فارسی / این — This is a Persian book.
-2. است. / گوشی / امیر / آن — That is Amir's phone.
+1. است. / این / فارسی / کتاب — This is a Persian book.
+2. امیر / است. / آن / گوشی — That is Amir's phone.
 3. من / کیف / کجاست؟ — Where is my bag?
-4. صندلی‌های / هستند. / این‌ها / کلاس — These are the classroom chairs.
+4. کلاس / هستند. / این‌ها / صندلی‌های — These are the classroom chairs.
 
 <details><summary>Answers</summary>
 

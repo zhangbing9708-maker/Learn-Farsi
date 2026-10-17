@@ -11,7 +11,7 @@ Persian can say that something was done without saying who did it – but it doe
 - use می‌گویند، می‌شود and آدم to speak impersonally
 - read a short history text written in the formal passive style
 
-![Si-o-se Pol, the bridge of thirty-three arches, Isfahan](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/33_pol_esfahan.jpg/800px-33_pol_esfahan.jpg)
+![Si-o-se Pol, the bridge of thirty-three arches, Isfahan](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/33_pol_esfahan.jpg/960px-33_pol_esfahan.jpg)
 <sub>Si-o-se Pol, the bridge of thirty-three arches, Isfahan. Photo: [Wikinewis1377q](https://commons.wikimedia.org/wiki/File:33_pol_esfahan.jpg), CC BY-SA 4.0.</sub>
 
 ### The bridge of thirty-three arches
@@ -226,7 +226,7 @@ Once you know the passive, Iranian streets become readable. Shop windows and off
 
 In Isfahan, Si-o-se-pol is where the city goes for its evening walk. Under the arches, people sing: the vaulted brick makes a natural echo chamber, and on summer nights you can hear old songs and poems of Hafez sung by strangers – a tradition that is, as the reading says, گفته می‌شود, 'said to be' as old as the bridge.
 
-![Khaju Bridge at night, Isfahan](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Khaju_Bridje_at_night.jpg/800px-Khaju_Bridje_at_night.jpg)
+![Khaju Bridge at night, Isfahan](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Khaju_Bridje_at_night.jpg/960px-Khaju_Bridje_at_night.jpg)
 <sub>Khaju Bridge at night, Isfahan. Photo: [Gire 3pich2005 with special thanks to Hossein Majidi](https://commons.wikimedia.org/wiki/File:Khaju_Bridje_at_night.jpg), Public domain.</sub>
 
 ### Tips
@@ -301,10 +301,10 @@ In Isfahan, Si-o-se-pol is where the city goes for its evening walk. Under the a
 
 **Put the words in order**
 
-1. در / اصفهان / شد. / این / ساخته / پل — This bridge was built in Isfahan.
-2. چند / ترجمه / زبان / به / او / شده‌اند. / کتاب‌های — His books have been translated into several languages.
-3. بهترین / مکانیک / است. / شهر / او / می‌گویند — They say he is the best mechanic in town.
-4. در / خیابان / کرد. / نمی‌شود / پارک / این — One can't park on this street.
+1. اصفهان / ساخته / این / در / پل / شد. — This bridge was built in Isfahan.
+2. کتاب‌های / شده‌اند. / چند / به / زبان / او / ترجمه — His books have been translated into several languages.
+3. مکانیک / بهترین / است. / می‌گویند / او / شهر — They say he is the best mechanic in town.
+4. خیابان / نمی‌شود / این / در / کرد. / پارک — One can't park on this street.
 
 <details><summary>Answers</summary>
 

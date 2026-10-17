@@ -4,7 +4,7 @@
 
 A morning in the life of Sara, a nine-year-old in Tehran. This story practises the present tense of everyday verbs – wakes up, eats, goes, learns – and the words for school and family. Iranian schools start early, around 7:30, and the school week runs from Saturday to Wednesday or Thursday.
 
-![First day of school in Nishapur](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sama_Kindergarten_and_Elementary_School_-_First_day_of_Iranian_new_education_year_-_for_Kindergarten_students_and_elementary_school_newcomers_-_Qods_zone(town)_-_city_of_Nishapur_087.JPG/800px-Sama_Kindergarten_and_Elementary_School_-_First_day_of_Iranian_new_education_year_-_for_Kindergarten_students_and_elementary_school_newcomers_-_Qods_zone(town)_-_city_of_Nishapur_087.JPG)
+![First day of school in Nishapur](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sama_Kindergarten_and_Elementary_School_-_First_day_of_Iranian_new_education_year_-_for_Kindergarten_students_and_elementary_school_newcomers_-_Qods_zone(town)_-_city_of_Nishapur_087.JPG/960px-Sama_Kindergarten_and_Elementary_School_-_First_day_of_Iranian_new_education_year_-_for_Kindergarten_students_and_elementary_school_newcomers_-_Qods_zone(town)_-_city_of_Nishapur_087.JPG)
 <sub>First day of school in Nishapur. Photo: [Sonia Sevilla](https://commons.wikimedia.org/wiki/File:Sama_Kindergarten_and_Elementary_School_-_First_day_of_Iranian_new_education_year_-_for_Kindergarten_students_and_elementary_school_newcomers_-_Qods_zone(town)_-_city_of_Nishapur_087.JPG), CC0.</sub>
 
 ### The story

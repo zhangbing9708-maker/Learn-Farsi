@@ -4,7 +4,7 @@
 
 _A dark green stew of slow-fried herbs, lamb, kidney beans and dried limes, ghormeh sabzi is the dish many Iranians miss most when they are far from home._
 
-![Ghormeh sabzi, the herb stew](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ghormeh_Sabzi.JPG/800px-Ghormeh_Sabzi.JPG)
+![Ghormeh sabzi, the herb stew](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ghormeh_Sabzi.JPG/960px-Ghormeh_Sabzi.JPG)
 <sub>Ghormeh sabzi, the herb stew. Photo: [Amin Majidi](https://commons.wikimedia.org/wiki/File:Ghormeh_Sabzi.JPG), CC0.</sub>
 
 ### Iran's favourite stew
@@ -15,7 +15,7 @@ The name joins two words: قورمه (*ghorme*, ‘braised meat’), from a Turk
 
 ### The herbs
 
-![A plate of fresh herbs](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/%D4%BF%D5%A1%D5%B6%D5%A1%D5%B9%D5%AB_3.JPG/800px-%D4%BF%D5%A1%D5%B6%D5%A1%D5%B9%D5%AB_3.JPG)
+![A plate of fresh herbs](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/%D4%BF%D5%A1%D5%B6%D5%A1%D5%B9%D5%AB_3.JPG/960px-%D4%BF%D5%A1%D5%B6%D5%A1%D5%B9%D5%AB_3.JPG)
 <sub>A plate of fresh herbs. Photo: [Chaojoker](https://commons.wikimedia.org/wiki/File:%D4%BF%D5%A1%D5%B6%D5%A1%D5%B9%D5%AB_3.JPG), CC BY-SA 3.0.</sub>
 
 The secret is the herbs:
@@ -29,7 +29,7 @@ Some cooks add spinach for a softer taste. The herbs are washed, dried and chopp
 
 ### How it is made
 
-![Dried limes at a market](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Loomi_at_market_in_Bahrain.JPG/800px-Loomi_at_market_in_Bahrain.JPG)
+![Dried limes at a market](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Loomi_at_market_in_Bahrain.JPG/960px-Loomi_at_market_in_Bahrain.JPG)
 <sub>Dried limes at a market. Photo: [Theinfo](https://commons.wikimedia.org/wiki/File:Loomi_at_market_in_Bahrain.JPG), CC BY 3.0.</sub>
 
 1. Soak red kidney beans (لوبیا قرمز (*lubiyā ghermez*, ‘red kidney beans’)) overnight.
@@ -41,7 +41,7 @@ Some cooks add spinach for a softer taste. The herbs are washed, dried and chopp
 
 ### Serving and variations
 
-![A golden tahdig](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Persianmom's_mother's_(persiangrandma)_perfect_tahdig_rice.png/800px-Persianmom's_mother's_(persiangrandma)_perfect_tahdig_rice.png)
+![A golden tahdig](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Persianmom's_mother's_(persiangrandma)_perfect_tahdig_rice.png/960px-Persianmom's_mother's_(persiangrandma)_perfect_tahdig_rice.png)
 <sub>A golden tahdig. Photo: [AninnymouseEditor](https://commons.wikimedia.org/wiki/File:Persianmom's_mother's_(persiangrandma)_perfect_tahdig_rice.png), CC BY-SA 4.0.</sub>
 
 Ghormeh sabzi is eaten with چلو (*chelow*, ‘steamed rice’), ideally with a piece of crisp ته‌دیگ (*tah-dig*, ‘tahdig’), and with yoghurt, pickles (ترشی (*torshi*, ‘pickles’)) and fresh herbs on the side. Many Iranians insist it is even better the next day, when the flavours have settled further.

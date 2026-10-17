@@ -4,7 +4,7 @@
 
 _The Arab conquest brought Islam and Arabic to Iran, and for two centuries Persian was hardly written. Then, at the courts of the eastern dynasties, poets like Rudaki and Ferdowsi made it a great literary language again – one reason why Iranians, unlike Egyptians or Syrians, never switched to Arabic._
 
-![The Court of Gayumars, Shahnameh of Shah Tahmasp](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/The_Court_of_Gayumars.jpg/800px-The_Court_of_Gayumars.jpg)
+![The Court of Gayumars, Shahnameh of Shah Tahmasp](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/The_Court_of_Gayumars.jpg/960px-The_Court_of_Gayumars.jpg)
 <sub>The Court of Gayumars, Shahnameh of Shah Tahmasp. Photo: [Attributed to Sultan Muhammad](https://commons.wikimedia.org/wiki/File:The_Court_of_Gayumars.jpg), Public domain.</sub>
 
 ### The Arab conquest
@@ -21,7 +21,7 @@ Yet Persian was not silent in the streets. A new form of it, دری (*dari*) –
 
 ### The eastern dynasties
 
-![The Samanid realm in 943](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Map_of_the_Samanid_amirate_at_the_death_of_Nasr_II,_943.svg/800px-Map_of_the_Samanid_amirate_at_the_death_of_Nasr_II,_943.svg.png)
+![The Samanid realm in 943](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Map_of_the_Samanid_amirate_at_the_death_of_Nasr_II,_943.svg/960px-Map_of_the_Samanid_amirate_at_the_death_of_Nasr_II,_943.svg.png)
 <sub>The Samanid realm in 943. Photo: [Ro4444](https://commons.wikimedia.org/wiki/File:Map_of_the_Samanid_amirate_at_the_death_of_Nasr_II,_943.svg), CC BY-SA 4.0.</sub>
 
 As the caliphs' power weakened, Iranian dynasties took over the east. یعقوب لیث (*Ya'ghub-e Leys*, ‘Ya'qub the Coppersmith’), founder of the Saffarid dynasty in Sistan, is said to have stopped a poet who was praising him in Arabic: 'Why say something I do not understand?' From then on, the story goes, his poets wrote in Persian.
@@ -30,7 +30,7 @@ The great patrons were the سامانیان (*Sāmāniyān*, ‘Samanids’) (81
 
 ### Rudaki and Ferdowsi
 
-![Rudaki, by Hossein Behzad](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Miniature_of_Rudaki_by_Hossein_Behzad.jpg/800px-Miniature_of_Rudaki_by_Hossein_Behzad.jpg)
+![Rudaki, by Hossein Behzad](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Miniature_of_Rudaki_by_Hossein_Behzad.jpg/960px-Miniature_of_Rudaki_by_Hossein_Behzad.jpg)
 <sub>Rudaki, by Hossein Behzad. Photo: [Hossein Behzad](https://commons.wikimedia.org/wiki/File:Miniature_of_Rudaki_by_Hossein_Behzad.jpg), Public domain.</sub>
 
 The first great poet of New Persian was رودکی (*Rudaki*) (c. 858–941), born near Panjakent in today's Tajikistan and court poet of the Samanid emir Nasr II. Iranians call him پدر شعر فارسی (*pedar-e she'r-e fārsi*, ‘the father of Persian poetry’). In his best-known poem, the mere scent of a river near Bukhara makes the homesick emir ride straight back to his capital.
@@ -39,7 +39,7 @@ A generation later فردوسی (*Ferdowsi*) (c. 940–1020), a landowner from T
 
 ### Why Persian survived
 
-![The tomb of Ferdowsi at Tus](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Tomb-of-Ferdowsi_%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87-%D9%81%D8%B1%D8%AF%D9%88%D8%B3%DB%8C_Davoud-Davoudi_1.jpg/800px-Tomb-of-Ferdowsi_%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87-%D9%81%D8%B1%D8%AF%D9%88%D8%B3%DB%8C_Davoud-Davoudi_1.jpg)
+![The tomb of Ferdowsi at Tus](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Tomb-of-Ferdowsi_%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87-%D9%81%D8%B1%D8%AF%D9%88%D8%B3%DB%8C_Davoud-Davoudi_1.jpg/960px-Tomb-of-Ferdowsi_%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87-%D9%81%D8%B1%D8%AF%D9%88%D8%B3%DB%8C_Davoud-Davoudi_1.jpg)
 <sub>The tomb of Ferdowsi at Tus. Photo: [DavoudDavoudi](https://commons.wikimedia.org/wiki/File:Tomb-of-Ferdowsi_%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87-%D9%81%D8%B1%D8%AF%D9%88%D8%B3%DB%8C_Davoud-Davoudi_1.jpg), CC BY-SA 4.0.</sub>
 
 In Egypt, Syria and Iraq, Arabic replaced the old languages. Iran is the great exception, and historians give several reasons: the country was large and far from Arabia; the Persian scribes who ran the caliphs' offices kept their culture alive; independent dynasties in the east wanted a language of their own; and the poets gave Persian a prestige that made every ruler want to be praised in it. Even the Turkic conquerors who followed – the Ghaznavids and the Seljuks – made Persian the language of their courts and carried it to India and Anatolia.

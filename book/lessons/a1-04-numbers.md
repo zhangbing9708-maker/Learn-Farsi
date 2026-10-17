@@ -12,7 +12,7 @@ Numbers open up daily life: how old you are, your phone number, the price of a b
 - ask prices with chand ast? and understand tomans
 - count things with tā and a singular noun
 
-![The entrance to Tajrish bazaar, Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tajrish_Bazaar_entrance.JPG/800px-Tajrish_Bazaar_entrance.JPG)
+![The entrance to Tajrish bazaar, Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tajrish_Bazaar_entrance.JPG/960px-Tajrish_Bazaar_entrance.JPG)
 <sub>The entrance to Tajrish bazaar, Tehran. Photo: [Arian Ar](https://commons.wikimedia.org/wiki/File:Tajrish_Bazaar_entrance.JPG), CC BY-SA 4.0.</sub>
 
 ### Signing up for an evening class
@@ -295,10 +295,10 @@ The word *tomān* itself is old: it comes from Mongolian *tümen*, 'ten thousand
 
 **Put the words in order**
 
-1. چند / شما / دارید؟ / سال — How old are you?
-2. بیست / چهار / من / و / سال / دارم. — I am twenty-four.
-3. چند / تلفن / است؟ / شماره‌ی / شما — What is your phone number?
-4. دوازده / دانشجو / دارد. / کلاس / ما — Our class has twelve students.
+1. سال / دارید؟ / چند / شما — How old are you?
+2. و / دارم. / من / چهار / سال / بیست — I am twenty-four.
+3. تلفن / شماره‌ی / چند / است؟ / شما — What is your phone number?
+4. کلاس / دوازده / ما / دانشجو / دارد. — Our class has twelve students.
 
 <details><summary>Answers</summary>
 

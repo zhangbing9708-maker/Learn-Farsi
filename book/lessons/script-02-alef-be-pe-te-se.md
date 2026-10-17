@@ -10,7 +10,7 @@ Your first five letters: the tall stroke alef and the four 'dish' letters that d
 - read the vowel marks a, e, o and know when alef stands for a vowel
 - sound out your first fifteen Persian words
 
-![Nastaliq calligraphy from a Divan of Nizami](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nizami's_Divan_-_Nasta'liq_calligraphy_style.jpg/800px-Nizami's_Divan_-_Nasta'liq_calligraphy_style.jpg)
+![Nastaliq calligraphy from a Divan of Nizami](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nizami's_Divan_-_Nasta'liq_calligraphy_style.jpg/960px-Nizami's_Divan_-_Nasta'liq_calligraphy_style.jpg)
 <sub>Nastaliq calligraphy from a Divan of Nizami. Photo: [Abu al-Ma'ali (calligrapher)](https://commons.wikimedia.org/wiki/File:Nizami's_Divan_-_Nasta'liq_calligraphy_style.jpg), Public domain.</sub>
 
 ### Alef – the tall one

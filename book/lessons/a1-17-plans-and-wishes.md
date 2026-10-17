@@ -12,7 +12,7 @@ What are you doing this weekend? In this lesson you talk about plans and wishes:
 - make suggestions with 'let's' (beravim!) and dust dāram + subjunctive
 - talk about weekend trips: Darband, Tochal, the Caspian
 
-![Darband, at the foot of the mountains in north Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Darband,_T%C3%A9h%C3%A9ran_(3).jpg/800px-Darband,_T%C3%A9h%C3%A9ran_(3).jpg)
+![Darband, at the foot of the mountains in north Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Darband,_T%C3%A9h%C3%A9ran_(3).jpg/960px-Darband,_T%C3%A9h%C3%A9ran_(3).jpg)
 <sub>Darband, at the foot of the mountains in north Tehran. Photo: [ZarlokX](https://commons.wikimedia.org/wiki/File:Darband,_T%C3%A9h%C3%A9ran_(3).jpg), CC BY-SA 4.0.</sub>
 
 ### Plans for the weekend
@@ -297,10 +297,10 @@ And when a long weekend or a holiday comes, Tehran empties northwards. شمال 
 
 **Put the words in order**
 
-1. جمعه / توچال / می‌رویم. / به / ما — We're going to Tochal on Friday.
-2. را / دریای / ببینم. / خزر / می‌خواهم — I want to see the Caspian Sea.
-3. بیایی؟ / با / دوست / داری / ما — Would you like to come with us?
-4. هفته‌ی / می‌رویم. / بعد / به / شمال — Next week we're going north.
+1. می‌رویم. / ما / توچال / جمعه / به — We're going to Tochal on Friday.
+2. خزر / دریای / ببینم. / می‌خواهم / را — I want to see the Caspian Sea.
+3. دوست / داری / ما / بیایی؟ / با — Would you like to come with us?
+4. می‌رویم. / بعد / به / هفته‌ی / شمال — Next week we're going north.
 
 <details><summary>Answers</summary>
 

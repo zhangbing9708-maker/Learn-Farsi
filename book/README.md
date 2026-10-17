@@ -81,15 +81,21 @@ Graded readers, from very easy to literary.
 - [Zoroaster and the fire](culture/history-zoroaster-and-the-fire.md) — زرتشت و آتش
 - [Islam and the Persian renaissance](culture/history-islam-and-the-persian-renaissance.md) — اسلام و نوزایی فارسی
 - [The Silk Road](culture/history-the-silk-road.md) — جاده‌ی ابریشم
+- [The Mongols and the Timurids](culture/history-mongols-timurids.md) — مغول‌ها و تیموریان
+- [The Safavids and Isfahan](culture/history-safavid-isfahan.md) — صفویان و اصفهان
 
 **Food**
 
 - [Iranian cuisine](culture/food-iranian-cuisine.md) — آشپزی ایرانی
 - [Chelow kabab](culture/food-chelow-kabab.md) — چلوکباب
 - [Ghormeh sabzi](culture/food-ghormeh-sabzi.md) — قورمه‌سبزی
+- [Gheymeh and fesenjan](culture/food-gheymeh-and-fesenjan.md) — قیمه و فسنجان
+- [Rice and tahdig](culture/food-tahdig-and-rice.md) — برنج و ته‌دیگ
+- [Ash and abgoosht](culture/food-ash-and-abgoosht.md) — آش و آبگوشت
 
 ## Part 7. Reference
 
 - [Phrasebook](phrasebook.md)
+- [Verbs and their stems](verbs.md)
 - [Dictionary of the 5,000 most common words](https://zhangbing9708-maker.github.io/Learn-Farsi/dictionary/index.html) (website)
 

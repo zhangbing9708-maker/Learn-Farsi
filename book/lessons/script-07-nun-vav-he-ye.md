@@ -12,7 +12,7 @@ The last four letters – and the busiest. Nun completes the tooth family; vāv 
 - recognise the hamza on its seats ئ أ ؤ
 - write the ezafe after a silent e, as in خانه‌ی من
 
-![A haft-sin table for Nowruz](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Haft-sin,_Nowruz,_Still-life-3205068.jpg/800px-Haft-sin,_Nowruz,_Still-life-3205068.jpg)
+![A haft-sin table for Nowruz](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Haft-sin,_Nowruz,_Still-life-3205068.jpg/960px-Haft-sin,_Nowruz,_Still-life-3205068.jpg)
 <sub>A haft-sin table for Nowruz. Photo: [Katzenfee50](https://commons.wikimedia.org/wiki/File:Haft-sin,_Nowruz,_Still-life-3205068.jpg), CC0.</sub>
 
 ### Nun and ye – the tooth family is complete

@@ -177,7 +177,7 @@ The long-haired **Persian cat** – گربه‌ی ایرانی (*gorbe-ye irāni
 
 Offering tea is the first thing a host does, and the answer to *chāy mi-khori?* is almost always yes. Tea comes in small glasses with a bowl of قند (*ghand*, ‘sugar cubes’): you put the cube in your mouth and sip the tea through it, rather than stirring sugar in. Milk in tea is a foreign habit – which is why Amir's house had none.
 
-![A glass of Persian tea](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Persian_tea_glass.JPG/800px-Persian_tea_glass.JPG)
+![A glass of Persian tea](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Persian_tea_glass.JPG/960px-Persian_tea_glass.JPG)
 <sub>A glass of Persian tea. Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Persian_tea_glass.JPG), Public domain.</sub>
 
 ### Tips
@@ -255,10 +255,10 @@ Offering tea is the first thing a host does, and the answer to *chāy mi-khori?*
 
 **Put the words in order**
 
-1. یک / من / خواهر / دارم. — I have one sister.
-2. داری؟ / تو / گربه — Do you have a cat?
+1. خواهر / دارم. / من / یک — I have one sister.
+2. گربه / تو / داری؟ — Do you have a cat?
 3. متأسفانه / نداریم. / شیر — Unfortunately we don't have milk.
-4. تا / چند / از / عکس / او / دارم. — I have a few photos of her.
+4. دارم. / عکس / از / تا / چند / او — I have a few photos of her.
 
 <details><summary>Answers</summary>
 

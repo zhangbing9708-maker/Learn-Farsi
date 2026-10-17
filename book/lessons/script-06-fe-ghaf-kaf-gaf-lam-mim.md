@@ -12,7 +12,7 @@ Six letters, and with them some of the first words anyone learns: salām, ketāb
 - recognise lām-alef لا as two letters
 - read words such as salām, ketāb, ghalam and kelās
 
-![The Mantes carpet, 16th century (Louvre)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mantes_carpet_Louvre_OA6610_detail1.jpg/800px-Mantes_carpet_Louvre_OA6610_detail1.jpg)
+![The Mantes carpet, 16th century (Louvre)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mantes_carpet_Louvre_OA6610_detail1.jpg/960px-Mantes_carpet_Louvre_OA6610_detail1.jpg)
 <sub>The Mantes carpet, 16th century (Louvre). Photo: [Jastrow](https://commons.wikimedia.org/wiki/File:Mantes_carpet_Louvre_OA6610_detail1.jpg), Public domain.</sub>
 
 ### Fe and ghāf – loops with dots

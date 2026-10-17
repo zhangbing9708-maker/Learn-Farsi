@@ -11,7 +11,7 @@ After 'where are you from?', the next question Iranians ask is 'what do you do?'
 - say where you work or study with kār kardan, dars khāndan and dar
 - use the question words che-kār, kojā, ki and che
 
-![Valiasr Street, Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Abbasabad,_Tehran,_Tehran,_Iran_-_panoramio_-_Behrooz_Rezvani_(37).jpg/800px-Abbasabad,_Tehran,_Tehran,_Iran_-_panoramio_-_Behrooz_Rezvani_(37).jpg)
+![Valiasr Street, Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Abbasabad,_Tehran,_Tehran,_Iran_-_panoramio_-_Behrooz_Rezvani_(37).jpg/960px-Abbasabad,_Tehran,_Tehran,_Iran_-_panoramio_-_Behrooz_Rezvani_(37).jpg)
 <sub>Valiasr Street, Tehran. Photo: [Behrooz Rezvani](https://commons.wikimedia.org/wiki/File:Abbasabad,_Tehran,_Tehran,_Iran_-_panoramio_-_Behrooz_Rezvani_(37).jpg), CC BY 3.0.</sub>
 
 ### At Sara's house
@@ -200,7 +200,7 @@ The gate to university is the کنکور (*konkur*), a national entrance exam ta
 
 In daily life, many Iranians have more than one job. A teacher may also give private lessons, and an office worker may drive a taxi in the evening – so the driver who asks you *che-kār mi-konid?* may well be an engineer himself.
 
-![First day of school in Nishapur](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sama_Kindergarten_and_Elementary_School_-_First_day_of_Iranian_new_education_year_-_for_Kindergarten_students_and_elementary_school_newcomers_-_Qods_zone(town)_-_city_of_Nishapur_087.JPG/800px-Sama_Kindergarten_and_Elementary_School_-_First_day_of_Iranian_new_education_year_-_for_Kindergarten_students_and_elementary_school_newcomers_-_Qods_zone(town)_-_city_of_Nishapur_087.JPG)
+![First day of school in Nishapur](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sama_Kindergarten_and_Elementary_School_-_First_day_of_Iranian_new_education_year_-_for_Kindergarten_students_and_elementary_school_newcomers_-_Qods_zone(town)_-_city_of_Nishapur_087.JPG/960px-Sama_Kindergarten_and_Elementary_School_-_First_day_of_Iranian_new_education_year_-_for_Kindergarten_students_and_elementary_school_newcomers_-_Qods_zone(town)_-_city_of_Nishapur_087.JPG)
 <sub>First day of school in Nishapur. Photo: [Sonia Sevilla](https://commons.wikimedia.org/wiki/File:Sama_Kindergarten_and_Elementary_School_-_First_day_of_Iranian_new_education_year_-_for_Kindergarten_students_and_elementary_school_newcomers_-_Qods_zone(town)_-_city_of_Nishapur_087.JPG), CC0.</sub>
 
 ### Tips
@@ -279,10 +279,10 @@ In daily life, many Iranians have more than one job. A teacher may also give pri
 
 **Put the words in order**
 
-1. شما / می‌کنید؟ / کار / کجا — Where do you work?
-2. در / می‌کنم. / یک / من / کار / شرکت — I work for a company.
-3. خواهرم / پزشکی / در / دانشگاه / می‌خواند. — My sister studies medicine at university.
-4. است. / راننده‌ی / پدر / تاکسی / رضا — Reza's father is a taxi driver.
+1. کجا / کار / شما / می‌کنید؟ — Where do you work?
+2. من / شرکت / کار / در / می‌کنم. / یک — I work for a company.
+3. دانشگاه / خواهرم / پزشکی / در / می‌خواند. — My sister studies medicine at university.
+4. پدر / است. / راننده‌ی / تاکسی / رضا — Reza's father is a taxi driver.
 
 <details><summary>Answers</summary>
 

@@ -12,7 +12,7 @@ Iranians are famous for their courtesy, and it comes with a whole set of phrases
 - understand ta'arof: when 'no' means 'ask me again'
 - invite someone, accept an invitation and make a simple phone call
 
-![An Iranian meal spread on the sofreh](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/An_Iranian_iftar_meal_(2).jpg/800px-An_Iranian_iftar_meal_(2).jpg)
+![An Iranian meal spread on the sofreh](https://upload.wikimedia.org/wikipedia/commons/1/1e/An_Iranian_iftar_meal_(2).jpg)
 <sub>An Iranian meal spread on the sofreh. Photo: [sayyed shahab-o-din vajedi](https://commons.wikimedia.org/wiki/File:An_Iranian_iftar_meal_(2).jpg), CC BY 4.0.</sub>
 
 ### Dinner at the Karimis'
@@ -235,7 +235,7 @@ The language is full of exaggerated humility: قربان شما (*ghorbān-e sho
 
 Foreigners are forgiven almost everything. A safe rule: refuse an offer once, accept the second time, thank the cook with *dast-etān dard na-konad*, and when you leave, say *bebakhshid, zahmat dādim*.
 
-![A glass of Persian tea](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Persian_tea_glass.JPG/800px-Persian_tea_glass.JPG)
+![A glass of Persian tea](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Persian_tea_glass.JPG/960px-Persian_tea_glass.JPG)
 <sub>A glass of Persian tea. Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Persian_tea_glass.JPG), Public domain.</sub>
 
 ### Tips
@@ -316,10 +316,10 @@ Foreigners are forgiven almost everything. A safe rule: refuse an offer once, ac
 
 **Put the words in order**
 
-1. نکند. / بود، / خیلی / دستتان / خوشمزه / درد — It was delicious, thank you.
-2. بنشینید. / این‌جا / بفرمایید، — Please, sit here.
-3. آقای / ببخشید، / هستند؟ / کریمی — Excuse me, is Mr Karimi there?
-4. فردا / شب / باشید. / مهمان / ما — Be our guests tomorrow night.
+1. درد / بود، / دستتان / نکند. / خوشمزه / خیلی — It was delicious, thank you.
+2. این‌جا / بفرمایید، / بنشینید. — Please, sit here.
+3. آقای / هستند؟ / ببخشید، / کریمی — Excuse me, is Mr Karimi there?
+4. مهمان / باشید. / شب / ما / فردا — Be our guests tomorrow night.
 
 <details><summary>Answers</summary>
 

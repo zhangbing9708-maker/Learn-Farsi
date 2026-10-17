@@ -12,7 +12,7 @@ Persian food is one of the great pleasures of learning the language – and one 
 - ask for the price and the bill
 - name the main Iranian dishes and drinks
 
-![Chelow kabab with grilled tomatoes](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kebab_Bakhtyari.jpg/800px-Kebab_Bakhtyari.jpg)
+![Chelow kabab with grilled tomatoes](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kebab_Bakhtyari.jpg/960px-Kebab_Bakhtyari.jpg)
 <sub>Chelow kabab with grilled tomatoes. Photo: [Taylor and Kevin](https://commons.wikimedia.org/wiki/File:Kebab_Bakhtyari.jpg), CC BY 2.0.</sub>
 
 ### At a kababi in Tehran
@@ -176,7 +176,7 @@ The great home dishes are the خورش (*khoresh*, ‘stews’) eaten over rice:
 
 To drink: دوغ (*dugh*), the salty yoghurt drink that goes with kebab, and endless چای (*chāy*). The salad is almost always سالاد شیرازی (*sālād-e shirāzi*) – cucumber, tomato and onion in lime juice.
 
-![Ghormeh sabzi, the herb stew](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ghormeh_Sabzi.JPG/800px-Ghormeh_Sabzi.JPG)
+![Ghormeh sabzi, the herb stew](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ghormeh_Sabzi.JPG/960px-Ghormeh_Sabzi.JPG)
 <sub>Ghormeh sabzi, the herb stew. Photo: [Amin Majidi](https://commons.wikimedia.org/wiki/File:Ghormeh_Sabzi.JPG), CC0.</sub>
 
 ### Tips
@@ -256,10 +256,10 @@ To drink: دوغ (*dugh*), the salty yoghurt drink that goes with kebab, and end
 
 **Put the words in order**
 
-1. کباب / من / دوست / دارم. — I like kebab.
-2. بدهید، / لطفاً. / یک / چای — Give me a tea, please.
-3. می‌خواهید؟ / شما / چه — What would you like?
-4. گوشت / دارید؟ / غذای / بدون — Do you have food without meat?
+1. دارم. / دوست / من / کباب — I like kebab.
+2. چای / لطفاً. / بدهید، / یک — Give me a tea, please.
+3. می‌خواهید؟ / چه / شما — What would you like?
+4. دارید؟ / گوشت / غذای / بدون — Do you have food without meat?
 
 <details><summary>Answers</summary>
 

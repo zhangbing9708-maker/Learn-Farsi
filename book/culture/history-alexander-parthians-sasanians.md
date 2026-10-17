@@ -4,7 +4,7 @@
 
 _After Alexander, Iran was ruled first by Greek kings, then for almost five centuries by the Parthian horse-archers, and then for four more by the Sasanians – the last great Iranian empire before Islam and Rome's most dangerous rival._
 
-![Taq Kasra, the Sasanian palace arch at Ctesiphon](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/001125-TaqKasra-Iraq-IMG_7914-2.jpg/800px-001125-TaqKasra-Iraq-IMG_7914-2.jpg)
+![Taq Kasra, the Sasanian palace arch at Ctesiphon](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/001125-TaqKasra-Iraq-IMG_7914-2.jpg/960px-001125-TaqKasra-Iraq-IMG_7914-2.jpg)
 <sub>Taq Kasra, the Sasanian palace arch at Ctesiphon. Photo: [Safa.daneshvar](https://commons.wikimedia.org/wiki/File:001125-TaqKasra-Iraq-IMG_7914-2.jpg), CC BY-SA 4.0.</sub>
 
 ### Alexander and the Seleucids
@@ -15,7 +15,7 @@ Iranians remember Alexander in two ways. Zoroastrian books call him گجسته (
 
 ### The Parthians
 
-![The Parthian Empire under Mithridates II](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Map_of_the_Parthian_Empire_under_Mithridates_II.svg/800px-Map_of_the_Parthian_Empire_under_Mithridates_II.svg.png)
+![The Parthian Empire under Mithridates II](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Map_of_the_Parthian_Empire_under_Mithridates_II.svg/960px-Map_of_the_Parthian_Empire_under_Mithridates_II.svg.png)
 <sub>The Parthian Empire under Mithridates II. Photo: [Ro4444](https://commons.wikimedia.org/wiki/File:Map_of_the_Parthian_Empire_under_Mithridates_II.svg), CC BY-SA 4.0.</sub>
 
 Around 247 BC a chief of the Parni nomads, اشک (*Arshak*, ‘Arsaces’), seized the province of Parthia, in today's Khorasan. His descendants, the اشکانیان (*Ashkāniyān*, ‘Arsacids’) or Parthians, drove out the Seleucids, took Mesopotamia and ruled from Ctesiphon on the Tigris, near modern Baghdad. Their kingdom was a loose union of great noble families – Muslim historians later called the period ملوک‌الطوایف (*moluk-ot-tavāyef*, ‘'the tribal kings'’).
@@ -24,7 +24,7 @@ Their great weapon was the mounted archer. At Carrhae in 53 BC the Parthian gene
 
 ### Ardashir and the Sasanians
 
-![The royal tombs of Naqsh-e Rostam near Persepolis](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Naqsh-e_Rustam_necropolis_in_Iran.jpg/800px-Naqsh-e_Rustam_necropolis_in_Iran.jpg)
+![The royal tombs of Naqsh-e Rostam near Persepolis](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Naqsh-e_Rustam_necropolis_in_Iran.jpg/960px-Naqsh-e_Rustam_necropolis_in_Iran.jpg)
 <sub>The royal tombs of Naqsh-e Rostam near Persepolis. Photo: [Maasaak](https://commons.wikimedia.org/wiki/File:Naqsh-e_Rustam_necropolis_in_Iran.jpg), CC BY-SA 4.0.</sub>
 
 In AD 224 a Persian vassal king from Fars, اردشیر بابکان (*Ardeshir-e Bābakān*, ‘Ardashir son of Babak’), defeated and killed the last Parthian king. His dynasty, the ساسانیان (*Sāsāniyān*, ‘Sasanians’), named after an ancestor called Sasan, ruled for more than four hundred years. They called their realm ایرانشهر (*Irānshahr*, ‘the land of the Iranians’), and Zoroastrianism became the religion of the state.
@@ -33,7 +33,7 @@ Ardashir's son Shapur I (ruled 240–270) fought three Roman emperors: Gordian I
 
 ### Khosrow and the golden age
 
-![Sasanian rock reliefs at Taq-e Bostan, Kermanshah](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%D8%AA%D8%A7%D9%82%E2%80%8C%D8%A8%D8%B3%D8%AA%D8%A7%D9%86.jpg/800px-%D8%AA%D8%A7%D9%82%E2%80%8C%D8%A8%D8%B3%D8%AA%D8%A7%D9%86.jpg)
+![Sasanian rock reliefs at Taq-e Bostan, Kermanshah](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%D8%AA%D8%A7%D9%82%E2%80%8C%D8%A8%D8%B3%D8%AA%D8%A7%D9%86.jpg/960px-%D8%AA%D8%A7%D9%82%E2%80%8C%D8%A8%D8%B3%D8%AA%D8%A7%D9%86.jpg)
 <sub>Sasanian rock reliefs at Taq-e Bostan, Kermanshah. Photo: [Ali Heidari - علی حیدری](https://commons.wikimedia.org/wiki/File:%D8%AA%D8%A7%D9%82%E2%80%8C%D8%A8%D8%B3%D8%AA%D8%A7%D9%86.jpg), CC BY-SA 4.0.</sub>
 
 The Sasanian golden age came under خسرو انوشیروان (*Khosrow Anushirvān*, ‘Khosrow I, 'of the immortal soul'’) (ruled 531–579), who reformed taxes and the army and became, in Persian literature, the model of the just king. His court welcomed Greek philosophers when their schools in Athens were closed, and his physician Borzuy brought back from India the animal fables that became کلیله و دمنه (*Kalile o Demne*, ‘Kalila and Dimna’). Chess, شطرنج (*shatranj*), also arrived from India in his reign; in the Shahnameh's version the Indian king sent it as a riddle, and Khosrow's wise vizier بزرگمهر (*Bozorgmehr*) not only worked out the rules but invented a game in reply – نرد (*nard*, ‘backgammon’).

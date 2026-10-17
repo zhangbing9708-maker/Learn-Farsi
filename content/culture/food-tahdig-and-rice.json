@@ -1,0 +1,75 @@
+{
+ "id": "food-tahdig-and-rice",
+ "topic": "food",
+ "title": "Rice and tahdig",
+ "titleFa": "برنج و ته‌دیگ",
+ "titleR": "berenj o tah-dig",
+ "image": "tahdig",
+ "summary": "Iranians cook rice with extraordinary care – soaked, boiled, drained and steamed into separate, fluffy grains – with a golden crust at the bottom of the pot that everyone wants a piece of.",
+ "body": [
+  {
+   "h": "A rice culture",
+   "md": "For most of Iran's history the everyday staple was bread. Rice grew in the wet Caspian provinces of [[گیلان|Gilān|Gilan]] and [[مازندران|Māzandarān|Mazandaran]], where people ate it daily, but elsewhere it was food for feasts and for the rich. Under the Safavids (1501–1736) court cooks made it an art, and cookbooks by royal chefs of that era already describe many kinds of [[پلو|polow|rice cooked with other ingredients]]. Today rice is eaten every day all over the country, and Iranians are proud of their long, fragrant local varieties – [[هاشمی|hāshemi|Hashemi]], [[طارم|tārom|Tarom]] and [[دم‌سیاه|dom-siyāh|Domsiah, 'black tail']] – which usually cost more than imported rice."
+  },
+  {
+   "h": "Chelow, polo and kateh",
+   "md": "Persian has a name for each way of cooking rice:\n\n- [[چلو|chelow|chelow]] is plain white rice, steamed so that every grain stays separate, and served with a stew or kebab.\n- [[پلو|polow|polo]] is rice cooked together with other things – herbs, beans, meat or fruit – such as [[باقالی‌پلو|bāghāli-polow|rice with broad beans and dill]] or [[زرشک‌پلو|zereshk-polow|rice with barberries]].\n- [[کته|kate|kateh]] is the quick everyday method, especially in the north: rice simmered in just enough water to be absorbed, then left to steam. It is softer and stickier, and it is the daily rice of many northern families, eaten with fish, [[میرزاقاسمی|mirzā-ghāsemi|smoky aubergine]] or a stew.",
+   "image": "chelow-kabab"
+  },
+  {
+   "h": "How chelow is made",
+   "md": "Chelow uses the [[آبکش|ābkesh|colander]] method, and it takes time:\n\n1. Wash the rice several times until the water runs clear, then soak it in salted water for at least two hours.\n2. Bring a big pot of salted water to the boil, add the drained rice and boil it for 6–10 minutes, until the grains are soft outside but still firm in the centre ([[نیم‌پز|nim-paz|half-cooked]]).\n3. Drain it in a colander and rinse it with a little lukewarm water.\n4. Put oil and a splash of water in the pot, then pile the rice into a cone. Poke a few holes with the handle of a spoon so the steam can rise.\n5. Wrap the lid in a cloth ([[دم‌کنی|dam-koni|lid cover]]) so that no drops fall back, and steam on very low heat for 45–60 minutes. This is [[دم کشیدن|dam keshidan|to steam; to brew]] – the same verb that is used for tea.\n6. Pour [[زعفران دم‌کرده|za'farān-e dam-karde|brewed saffron]] over a cupful of the rice and scatter it over the top.",
+   "image": "saffron"
+  },
+  {
+   "h": "Tahdig: the bottom of the pot",
+   "md": "[[ته‌دیگ|tah-dig|tahdig]] means 'bottom of the pot', from [[ته|tah|bottom]] and [[دیگ|dig|pot]]. While the rice steams, the layer touching the hot oil turns into a golden, crunchy crust – and good cooks make it on purpose:\n\n- **rice tahdig**, often with yoghurt, egg yolk and saffron mixed into the bottom layer;\n- **bread tahdig**, with a sheet of thin [[لواش|lavāsh|lavash]] laid in the oil;\n- **potato tahdig**, with thin slices of potato.\n\nTo serve it, many cooks stand the hot pot in cold water for a moment, then turn it upside down onto a platter so that the crust comes out whole – the most nerve-racking moment in an Iranian kitchen.",
+   "image": "lavash"
+  },
+  {
+   "h": "Who gets the tahdig?",
+   "md": "There is never enough tahdig. At a family meal it is broken into pieces and shared, the guest is offered the first piece, and the last piece is the subject of much polite [[تعارف|ta'ārof|ritual politeness]]. A perfect, evenly golden tahdig is a matter of pride for the cook; a burnt black one is a small family disaster."
+  }
+ ],
+ "sentences": [
+  {"fa": "برنج را دو ساعت در آب‌نمک خیس کن.", "r": "berenj rā do sā'at dar āb-namak khis kon.", "en": "Soak the rice in salted water for two hours."},
+  {"fa": "برنج را آبکش کن و بگذار دم بکشد.", "r": "berenj rā ābkesh kon va bo-gzār dam be-keshad.", "en": "Drain the rice and let it steam."},
+  {"fa": "زعفران را بساب و با کمی آب جوش دم کن.", "r": "za'farān rā be-sāb va bā kami āb-e jush dam kon.", "en": "Grind the saffron and brew it with a little boiling water."},
+  {"fa": "ته‌دیگ امروز خیلی طلایی و ترد شده است.", "r": "tah-dig-e emruz kheyli talāyi va tord shode ast.", "en": "Today's tahdig has turned out very golden and crisp."},
+  {"fa": "من ته‌دیگ سیب‌زمینی را از همه بیشتر دوست دارم.", "r": "man tah-dig-e sib-zamini rā az hame bishtar dust dāram.", "en": "I like potato tahdig best of all."},
+  {"fa": "لطفاً یک تکه ته‌دیگ هم به من بدهید.", "r": "lotfan yek tekke tah-dig ham be man be-dahid.", "en": "Please give me a piece of tahdig too.", "col": "لطفاً یه تیکه ته‌دیگ هم به من بدین.", "colR": "lotfan ye tike tah-dig ham be man be-din."},
+  {"fa": "در شمال ایران بیشتر کته می‌خورند.", "r": "dar shomāl-e Irān bishtar kate mi-khorand.", "en": "In the north of Iran people mostly eat kateh."},
+  {"fa": "برنج ایرانی دانه‌بلند و خوش‌عطر است.", "r": "berenj-e irāni dāne-boland va khosh-atr ast.", "en": "Iranian rice is long-grained and fragrant."},
+  {"fa": "دیگ را برگردان تا ته‌دیگ سالم بیرون بیاید.", "r": "dig rā bargardān tā tah-dig sālem birun bi-yāyad.", "en": "Turn the pot over so that the tahdig comes out in one piece."},
+  {"fa": "ته‌دیگ را بین همه تقسیم کردیم.", "r": "tah-dig rā beyn-e hame taghsim kardim.", "en": "We shared the tahdig out among everyone."},
+  {"fa": "تعارف نکن، آخرین تکه مال توست.", "r": "ta'ārof na-kon, ākharin tekke māl-e to-st.", "en": "Don't be polite – the last piece is yours."}
+ ],
+ "vocab": [
+  {"fa": "برنج", "r": "berenj", "en": "rice"},
+  {"fa": "چلو", "r": "chelow", "en": "plain steamed rice"},
+  {"fa": "پلو", "r": "polow", "en": "rice cooked with other ingredients"},
+  {"fa": "کته", "r": "kate", "en": "kateh, rice cooked in its own water"},
+  {"fa": "ته‌دیگ", "r": "tah-dig", "en": "tahdig, crisp crust from the bottom of the pot"},
+  {"fa": "ته", "r": "tah", "en": "bottom"},
+  {"fa": "دیگ", "r": "dig", "en": "pot"},
+  {"fa": "آبکش", "r": "ābkesh", "en": "colander"},
+  {"fa": "آبکش کردن", "r": "ābkesh kardan", "en": "to drain (in a colander)"},
+  {"fa": "خیس کردن", "r": "khis kardan", "en": "to soak"},
+  {"fa": "دم کشیدن", "r": "dam keshidan", "en": "to steam (rice); to brew (tea)"},
+  {"fa": "نیم‌پز", "r": "nim-paz", "en": "half-cooked"},
+  {"fa": "زعفران", "r": "za'farān", "en": "saffron"},
+  {"fa": "ترد", "r": "tord", "en": "crisp, crunchy"},
+  {"fa": "طلایی", "r": "talāyi", "en": "golden"},
+  {"fa": "تکه", "r": "tekke", "en": "piece"},
+  {"fa": "دانه", "r": "dāne", "en": "grain, seed"},
+  {"fa": "سالم", "r": "sālem", "en": "whole, intact; healthy"}
+ ],
+ "facts": [
+  "Chelow is cooked in two stages: boiled briefly and drained, then steamed for up to an hour.",
+  "Tahdig literally means 'bottom of the pot'.",
+  "Hashemi, Tarom and Domsiah are well-known Iranian rice varieties, grown in the Caspian provinces.",
+  "A cloth-wrapped lid, the dam-koni, stops steam from dripping back onto the rice.",
+  "The verb dam keshidan is used both for steaming rice and for brewing tea.",
+  "Cookbooks written by Safavid court chefs already describe many different polo dishes."
+ ]
+}

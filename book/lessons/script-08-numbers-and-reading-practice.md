@@ -12,7 +12,7 @@ You know all 32 letters – now put them to work. This lesson covers the Persian
 - type Persian on a computer or phone, including the ZWNJ
 - tell Naskh from Nastaliq
 
-![Topkhaneh metro station, Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Topkhaneh_Metro_Station_1517.jpg/800px-Topkhaneh_Metro_Station_1517.jpg)
+![Topkhaneh metro station, Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Topkhaneh_Metro_Station_1517.jpg/960px-Topkhaneh_Metro_Station_1517.jpg)
 <sub>Topkhaneh metro station, Tehran. Photo: [GTVM92](https://commons.wikimedia.org/wiki/File:Topkhaneh_Metro_Station_1517.jpg), CC BY-SA 4.0.</sub>
 
 ### Digits that run the other way
@@ -163,7 +163,7 @@ Persian handwriting differs from print more than English does, so here is what t
 
 Everyday handwriting leans towards the flowing Nastaliq style described below. In old letters and documents you will also meet *shekaste*, 'broken' Nastaliq, which even Iranians find hard to read.
 
-![A practice sheet in Shekasteh Nastaliq](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Shekasteh_Nastaliq_Siyah_Mashgh,_Library_of_the_Golestan_Palace,_No._1506.jpg/800px-Shekasteh_Nastaliq_Siyah_Mashgh,_Library_of_the_Golestan_Palace,_No._1506.jpg)
+![A practice sheet in Shekasteh Nastaliq](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Shekasteh_Nastaliq_Siyah_Mashgh,_Library_of_the_Golestan_Palace,_No._1506.jpg/960px-Shekasteh_Nastaliq_Siyah_Mashgh,_Library_of_the_Golestan_Palace,_No._1506.jpg)
 <sub>A practice sheet in Shekasteh Nastaliq. Photo: [Ali Akbar Golestaneh](https://commons.wikimedia.org/wiki/File:Shekasteh_Nastaliq_Siyah_Mashgh,_Library_of_the_Golestan_Palace,_No._1506.jpg), Public domain.</sub>
 
 ### Typing Persian
@@ -184,7 +184,7 @@ Persian is printed in two main styles. **Naskh** (نسخ (*naskh*)) is the uprig
 
 Reading Nastaliq takes practice even for good readers of Naskh. Start with words you already know – a shop sign, a line of Hafez you have read in print – and let your eye follow the slope. The C1 lesson on calligraphy goes further.
 
-![Persian in Nastaliq script](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Welcome_to_Wikipedia_-_fa.svg/800px-Welcome_to_Wikipedia_-_fa.svg.png)
+![Persian in Nastaliq script](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Welcome_to_Wikipedia_-_fa.svg/960px-Welcome_to_Wikipedia_-_fa.svg.png)
 <sub>Persian in Nastaliq script. Photo: [Carl](https://commons.wikimedia.org/wiki/File:Welcome_to_Wikipedia_-_fa.svg), CC BY-SA 4.0.</sub>
 
 ### Reading tips

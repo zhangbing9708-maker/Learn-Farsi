@@ -11,7 +11,7 @@ Six letters that came into Persian with Arabic words. Four of them bring no new 
 - pronounce ع as a glottal catch and غ as gh
 - read words such as sedā, sā'at, ghazā and bāgh
 
-![Sheikh Lotfollah Mosque, Isfahan](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sheikh_Lotfallah_Esfahan.JPG/800px-Sheikh_Lotfallah_Esfahan.JPG)
+![Sheikh Lotfollah Mosque, Isfahan](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sheikh_Lotfallah_Esfahan.JPG/960px-Sheikh_Lotfallah_Esfahan.JPG)
 <sub>Sheikh Lotfollah Mosque, Isfahan. Photo: [Nicolas Hadjisavvas](https://commons.wikimedia.org/wiki/File:Sheikh_Lotfallah_Esfahan.JPG), CC BY 2.5.</sub>
 
 ### Why Persian keeps Arabic letters

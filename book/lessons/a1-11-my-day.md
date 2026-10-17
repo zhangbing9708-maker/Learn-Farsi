@@ -11,7 +11,7 @@ What do you do every day? In this lesson you describe your daily routine – get
 - put events in order with avval, ba'd, ba'd az and ghabl az
 - say how often you do something: har ruz, hamishe, ma'mulan, gāhi, hich-vaght
 
-![A charcoal samovar on Yalda night](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Charcoal_samovar_for_Yalda_Nights.jpg/800px-Charcoal_samovar_for_Yalda_Nights.jpg)
+![A charcoal samovar on Yalda night](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Charcoal_samovar_for_Yalda_Nights.jpg/960px-Charcoal_samovar_for_Yalda_Nights.jpg)
 <sub>A charcoal samovar on Yalda night. Photo: [Homa Amirian](https://commons.wikimedia.org/wiki/File:Charcoal_samovar_for_Yalda_Nights.jpg), CC BY-SA 4.0.</sub>
 
 ### An early bird and a night owl
@@ -208,7 +208,7 @@ In many cities, especially hot ones like Shiraz, Yazd and Isfahan, small shops c
 
 The week has its own rhythm too. Saturday, شنبه (*shanbe*), is the first working day; Friday, جمعه (*jom'e*), is the weekly day off, and for most people Thursday is a short day or a holiday as well. You will learn the names of all the days in the next lesson.
 
-![Traffic on Valiasr Street, Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Valiasr_Traffic_Jam.jpg/800px-Valiasr_Traffic_Jam.jpg)
+![Traffic on Valiasr Street, Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Valiasr_Traffic_Jam.jpg/960px-Valiasr_Traffic_Jam.jpg)
 <sub>Traffic on Valiasr Street, Tehran. Photo: [Hamed Saber](https://commons.wikimedia.org/wiki/File:Valiasr_Traffic_Jam.jpg), CC BY 2.0.</sub>
 
 ### Tips
@@ -289,10 +289,10 @@ The week has its own rhythm too. Saturday, شنبه (*shanbe*), is the first wor
 
 **Put the words in order**
 
-1. روز / زود / می‌شوم. / صبح / من / بیدار / هر — I get up early every morning.
-2. می‌کنم. / بعد / از / کمی / استراحت / ناهار — After lunch I rest a little.
-3. می‌رود. / با / کار / رضا / مترو / سر — Reza goes to work by metro.
-4. می‌خوابم. / شب‌ها / ساعت / یازده — At night I go to bed at eleven.
+1. بیدار / من / می‌شوم. / روز / هر / زود / صبح — I get up early every morning.
+2. کمی / از / ناهار / بعد / می‌کنم. / استراحت — After lunch I rest a little.
+3. می‌رود. / مترو / کار / سر / با / رضا — Reza goes to work by metro.
+4. ساعت / می‌خوابم. / شب‌ها / یازده — At night I go to bed at eleven.
 
 <details><summary>Answers</summary>
 
