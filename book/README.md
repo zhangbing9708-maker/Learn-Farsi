@@ -48,6 +48,7 @@ Tell stories in the past, give instructions, make comparisons, express opinions 
 
 1. [What were you doing? The past continuous](lessons/a2-01-what-were-you-doing.md) — چه کار می‌کردی؟
 2. [Have you ever…? The present perfect](lessons/a2-02-have-you-ever.md) — تا حالا به شیراز رفته‌ای؟
+3. [Bigger and best: comparing Iranian cities](lessons/a2-03-bigger-and-best.md) — کدام شهر قشنگ‌تر است؟
 9. [Do this! Instructions and a recipe](lessons/a2-09-do-this.md) — این کار را بکن!
 
 ## Part 4. Intermediate (B1) — میانی
@@ -83,6 +84,10 @@ Graded readers, from very easy to literary.
 - [The Silk Road](culture/history-the-silk-road.md) — جاده‌ی ابریشم
 - [The Mongols and the Timurids](culture/history-mongols-timurids.md) — مغول‌ها و تیموریان
 - [The Safavids and Isfahan](culture/history-safavid-isfahan.md) — صفویان و اصفهان
+- [The Qajar century](culture/history-qajar-century.md) — دوران قاجار
+- [From the Constitutional Revolution to the Pahlavis](culture/history-constitutional-revolution-to-pahlavi.md) — از انقلاب مشروطه تا پهلوی
+- [Iran since 1979](culture/history-iran-since-1979.md) — ایران پس از انقلاب
+- [The Persian language through history](culture/history-the-persian-language.md) — زبان فارسی در گذر تاریخ
 
 **Food**
 
@@ -92,6 +97,12 @@ Graded readers, from very easy to literary.
 - [Gheymeh and fesenjan](culture/food-gheymeh-and-fesenjan.md) — قیمه و فسنجان
 - [Rice and tahdig](culture/food-tahdig-and-rice.md) — برنج و ته‌دیگ
 - [Ash and abgoosht](culture/food-ash-and-abgoosht.md) — آش و آبگوشت
+- [Polo with everything](culture/food-polo-with-everything.md) — انواع پلو
+- [Kuku and vegetable dishes](culture/food-kuku-and-vegetable-dishes.md) — کوکو، بورانی و دلمه
+- [Bread](culture/food-bread.md) — نان
+- [Tea and the samovar](culture/food-tea-and-the-samovar.md) — چای و سماور
+- [Sweets and desserts](culture/food-sweets-and-desserts.md) — شیرینی‌های ایرانی
+- [Foods of Nowruz and Yalda](culture/food-nowruz-table-foods.md) — غذاهای نوروز و یلدا
 
 ## Part 7. Reference
 

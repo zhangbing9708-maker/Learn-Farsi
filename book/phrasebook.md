@@ -606,6 +606,508 @@ Hotels ask for your passport at check-in. In the old cities – Yazd, Kashan, Is
 - همه چیز عالی بود، ممنون.  
   *hame chiz āli bud, mamnun.* — Everything was great, thank you.
 
+## Restaurants and cafés — رستوران و کافه
+
+Tea (chāy) is offered everywhere and drunk all day, often through a sugar cube held between the teeth. Lunch is the main meal and dinner is eaten late. Vegetarians should ask carefully, as many stews and soups are made with meat. Tipping is not expected, but leaving the change is appreciated.
+
+- یک میز برای دو نفر، لطفاً.  
+  *yek miz barā-ye do nafar, lotfan.* — A table for two, please.  
+  Spoken: یه میز برای دو نفر، لطفاً. *ye miz barā-ye do nafar, lotfan.*
+- منو را می‌آورید؟  
+  *menu rā mi-āvarid?* — Could you bring the menu?  
+  Spoken: منو رو میارین؟ *menu ro miyārin?*
+- چه پیشنهاد می‌کنید؟  
+  *che pishnahād mi-konid?* — What do you recommend?  
+  Spoken: چی پیشنهاد می‌کنین؟ *chi pishnahād mi-konin?*
+- یک چلوکباب کوبیده و یک جوجه‌کباب، لطفاً.  
+  *yek chelo-kabāb-e kubide o yek juje-kabāb, lotfan.* — One minced-meat kebab with rice and one chicken kebab, please.  
+  Spoken: یه چلوکباب کوبیده و یه جوجه‌کباب، لطفاً. *ye chelo-kabāb-e kubide o ye juje-kabāb, lotfan.*
+- دو تا چای، لطفاً.  
+  *do tā chāy, lotfan.* — Two teas, please.
+- قهوه بدون شکر، لطفاً.  
+  *ghahve bedun-e shekar, lotfan.* — Coffee without sugar, please.
+- یک بطری آب معدنی، لطفاً.  
+  *yek botri āb-e ma'dani, lotfan.* — A bottle of mineral water, please.  
+  Spoken: یه بطری آب معدنی، لطفاً. *ye botri āb-e ma'dani, lotfan.*
+- من گیاه‌خوار هستم.  
+  *man giyāh-khār hastam.* — I'm vegetarian.  
+  Spoken: من گیاه‌خوارم. *man giyāh-khār-am.*
+- این غذا گوشت دارد؟  
+  *in ghazā gusht dārad?* — Does this dish have meat in it?  
+  Spoken: این غذا گوشت داره؟ *in ghazā gusht dāre?*  
+  _Ask about the stock as well: many stews and soups are cooked with meat._
+- به بادام‌زمینی حساسیت دارم.  
+  *be bādām-zamini hassāsiyat dāram.* — I'm allergic to peanuts.
+- خیلی خوشمزه بود!  
+  *kheyli khoshmaze bud!* — That was delicious!
+- صورت‌حساب، لطفاً.  
+  *surat-hesāb, lotfan.* — The bill, please.  
+  _Often you pay at the till (sandugh) on the way out._
+- دنگی حساب کنیم؟  
+  *dongi hesāb konim?* — Shall we split the bill?  
+  _Among friends – though Iranians often fight to pay for everyone._
+- این دفعه مهمان من باشید.  
+  *in daf'e mehmān-e man bāshid.* — This one's on me.  
+  Spoken: این دفعه مهمون من باشین. *in daf'e mehmun-e man bāshin.*  
+  Literally: be my guest this time
+- برای بیرون می‌برم.  
+  *barā-ye birun mi-baram.* — It's to take away.
+- نوش جان!  
+  *nush-e jān!* — Enjoy your meal!  
+  Spoken: نوش جون! *nush-e jun!*  
+  Literally: may it nourish your soul  
+  _Said by the cook, the host or the waiter – and as a reply when someone thanks you for food._
+
+## Shopping and the bazaar — خرید و بازار
+
+In the bazaar the first price is an opening move: ask, smile, offer less and meet somewhere in the middle. In shops with price tags bargaining is rarer, but asking for a discount (takhfif) is always fine. Expect a round of ta'ārof – 'it's not worthy of you' – before the real price.
+
+- فقط نگاه می‌کنم، ممنون.  
+  *faghat negāh mi-konam, mamnun.* — I'm just looking, thanks.
+- این را رنگ دیگری هم دارید؟  
+  *in rā rang-e digar-i ham dārid?* — Do you have this in another colour?  
+  Spoken: اینو رنگ دیگه هم دارین؟ *in-o rang-e dige ham dārin?*
+- سایز بزرگ‌تر دارید؟  
+  *sāyz-e bozorg-tar dārid?* — Do you have a bigger size?  
+  Spoken: سایز بزرگ‌تر دارین؟ *sāyz-e bozorg-tar dārin?*
+- می‌توانم امتحانش کنم؟  
+  *mi-tavānam emtehān-ash konam?* — Can I try it on?  
+  Spoken: می‌تونم امتحانش کنم؟ *mi-tunam emtehān-esh konam?*
+- اتاق پرو کجاست؟  
+  *otāgh-e porov kojā-st?* — Where's the fitting room?
+- خیلی گران است!  
+  *kheyli gerān ast!* — That's too expensive!  
+  Spoken: خیلی گرونه! *kheyli gerun-e!*
+- تخفیف می‌دهید؟  
+  *takhfif mi-dahid?* — Can you give me a discount?  
+  Spoken: تخفیف می‌دین؟ *takhfif mi-din?*
+- آخرین قیمت چند است؟  
+  *ākharin gheymat chand ast?* — What's your best price?  
+  Spoken: آخرش چنده؟ *ākhar-esh chand-e?*  
+  _The classic bazaar question._
+- دویست هزار تومان می‌دهم.  
+  *devist hezār tumān mi-daham.* — I'll give you two hundred thousand tomans.  
+  Spoken: دویست تومن می‌دم. *devist tomen mi-dam.*
+- باشد، فکر می‌کنم و برمی‌گردم.  
+  *bāshad, fekr mi-konam o bar-mi-gardam.* — OK, I'll think about it and come back.  
+  Spoken: باشه، فکر می‌کنم برمی‌گردم. *bāshe, fekr mi-konam bar-mi-gardam.*  
+  _Walking away politely is the strongest move in bargaining._
+- باشد، قبول.  
+  *bāshad, ghabul.* — OK, it's a deal.  
+  Spoken: باشه، قبول. *bāshe, ghabul.*
+- این فرش دست‌باف است؟  
+  *in farsh dast-bāf ast?* — Is this carpet hand-woven?  
+  Spoken: این فرش دست‌بافه؟ *in farsh dast-bāf-e?*
+- این مال کجاست؟  
+  *in māl-e kojā-st?* — Where is this from?  
+  _Ask it of carpets, saffron, pistachios – every region is proud of its own._
+- می‌شود کادو بپیچید؟  
+  *mi-shavad kādo be-pichid?* — Could you gift-wrap it?  
+  Spoken: می‌شه کادو بپیچین؟ *mi-she kādo be-pichin?*
+- نیم کیلو پسته، لطفاً.  
+  *nim kilo peste, lotfan.* — Half a kilo of pistachios, please.
+- اگر اندازه نبود، پس می‌گیرید؟  
+  *agar andāze na-bud, pas mi-girid?* — If it doesn't fit, will you take it back?  
+  Spoken: اگه اندازه نبود، پس می‌گیرین؟ *age andāze na-bud, pas mi-girin?*
+
+## Visiting a home — مهمانی
+
+Being invited home is the heart of Iranian hospitality. Take off your shoes at the door, bring sweets or flowers, and expect to be fed far more than you can eat. The host will offer again and again: refusing once or twice is polite, the insistence is sincere – and praising the food is the best thanks.
+
+- بفرمایید تو!  
+  *be-farmāyid tu!* — Please, come in!  
+  Spoken: بفرمایین تو! *be-farmāyin tu!*
+- خوش آمدید!  
+  *khosh āmadid!* — Welcome!  
+  Spoken: خوش اومدین! *khosh umadin!*
+- ممنون، مزاحم شدیم.  
+  *mamnun, mozāhem shodim.* — Thank you – sorry to impose on you.  
+  Literally: we have become a nuisance  
+  _The guest's ta'ārof on arrival._
+- خواهش می‌کنم، مراحمید.  
+  *khāhesh mi-konam, marāhem-id.* — Not at all – you're very welcome.  
+  Spoken: خواهش می‌کنم، مراحمین. *khāhesh mi-konam, marāhem-in.*  
+  Literally: you are a kindness  
+  _The host's reply, a play on mozāhem, 'nuisance', and marāhem, 'kindness'._
+- کفش‌هایم را این‌جا دربیاورم؟  
+  *kafsh-hā-yam rā in-jā dar-biyāvaram?* — Shall I take my shoes off here?  
+  Spoken: کفشامو این‌جا دربیارم؟ *kafsh-ām-o in-jā dar-biyāram?*
+- این ناقابل است، برای شما.  
+  *in nāghābel ast, barā-ye shomā.* — Just a little something for you.  
+  Spoken: این ناقابله، برای شما. *in nāghābel-e, barā-ye shomā.*  
+  Literally: this is unworthy  
+  _Say it as you hand over sweets or flowers._
+- چرا زحمت کشیدید؟  
+  *cherā zahmat keshidid?* — Oh, you shouldn't have!  
+  Spoken: چرا زحمت کشیدین؟ *cherā zahmat keshidin?*  
+  Literally: why did you go to the trouble?  
+  _What the host says when you give a present._
+- چه خانه‌ی قشنگی!  
+  *che khāne-ye ghashang-i!* — What a lovely home!  
+  Spoken: چه خونه‌ی قشنگی! *che khune-ye ghashang-i!*
+- بفرمایید، میوه میل کنید.  
+  *be-farmāyid, mive meyl konid.* — Please, have some fruit.  
+  Spoken: بفرمایین، میوه میل کنین. *be-farmāyin, mive meyl konin.*  
+  _meyl kardan is the polite verb for 'eat' and 'drink' – use it of others, never of yourself._
+- خیلی ممنون، میل ندارم.  
+  *kheyli mamnun, meyl na-dāram.* — Thank you very much, I won't, thanks.  
+  _A polite refusal – expect the offer to come again._
+- تعارف نکن، بخور!  
+  *ta'ārof na-kon, bo-khor!* — Don't be shy – eat!  
+  _What a friend or an aunt says, insisting._
+- کمی دیگر بکشید!  
+  *kam-i digar be-keshid!* — Have a little more!  
+  Spoken: یه کم دیگه بکشین! *ye kam dige be-keshin!*  
+  _keshidan here means to serve yourself from the dish._
+- سیرم، تعارف نمی‌کنم.  
+  *sir-am, ta'ārof nemi-konam.* — I'm full – honestly, it's not ta'ārof.
+- دست‌پختتان حرف ندارد!  
+  *dast-pokht-etān harf na-dārad!* — Your cooking is wonderful!  
+  Spoken: دست‌پختتون حرف نداره! *dast-pokht-etun harf na-dāre!*  
+  Literally: your cooking leaves nothing to be said
+- خیلی خوش گذشت.  
+  *kheyli khosh gozasht.* — We had a wonderful time.
+- دیگر رفع زحمت می‌کنیم.  
+  *digar raf'-e zahmat mi-konim.* — We must be going now.  
+  Spoken: دیگه رفع زحمت می‌کنیم. *dige raf'-e zahmat mi-konim.*  
+  Literally: now we will remove the trouble  
+  _The polite formula for leaving; the host will protest and ask you to stay._
+- کجا؟ حالا زود است!  
+  *kojā? hālā zud ast!* — Where are you off to? It's still early!  
+  Spoken: کجا؟ حالا زوده! *kojā? hālā zud-e!*  
+  _The host's ta'ārof – thank them and leave anyway._
+- شما هم به ما سر بزنید.  
+  *shomā ham be mā sar be-zanid.* — You must come and visit us too.  
+  Spoken: شما هم به ما سر بزنین. *shomā ham be mā sar be-zanin.*
+
+## Health and emergencies — سلامتی و اورژانس
+
+Pharmacies (dārukhāne) are everywhere and pharmacists give good advice; many medicines are sold without a prescription. The emergency numbers are 115 for an ambulance, 110 for the police and 125 for the fire brigade. Many doctors in the big cities speak some English.
+
+- کمک!  
+  *komak!* — Help!
+- به آمبولانس زنگ بزنید!  
+  *be āmbulāns zang be-zanid!* — Call an ambulance!  
+  Spoken: به آمبولانس زنگ بزنین! *be āmbulāns zang be-zanin!*  
+  _The ambulance number is 115._
+- پلیس را خبر کنید!  
+  *polis rā khabar konid!* — Call the police!  
+  Spoken: پلیس رو خبر کنین! *polis ro khabar konin!*  
+  _Police: 110. Fire brigade: 125._
+- کیفم را دزدیدند.  
+  *kif-am rā dozdidand.* — My bag has been stolen.  
+  Spoken: کیفمو دزدیدن. *kif-am-o dozdidan.*
+- پاسپورتم را گم کرده‌ام.  
+  *pāsport-am rā gom karde-am.* — I've lost my passport.  
+  Spoken: پاسپورتمو گم کردم. *pāsport-am-o gom kardam.*
+- حالم خوب نیست.  
+  *hāl-am khub nist.* — I don't feel well.
+- به دکتر احتیاج دارم.  
+  *be doktor ehtiyāj dāram.* — I need a doctor.
+- نزدیک‌ترین بیمارستان کجاست؟  
+  *nazdik-tarin bimārestān kojā-st?* — Where's the nearest hospital?
+- داروخانه‌ی شبانه‌روزی کجاست؟  
+  *dārukhāne-ye shabāne-ruzi kojā-st?* — Where's an all-night pharmacy?
+- سرم درد می‌کند.  
+  *sar-am dard mi-konad.* — I have a headache.  
+  Spoken: سرم درد می‌کنه. *sar-am dard mi-kone.*
+- دلم درد می‌کند.  
+  *del-am dard mi-konad.* — I have a stomach ache.  
+  Spoken: دلم درد می‌کنه. *del-am dard mi-kone.*  
+  _del is the stomach here – and also the heart of all feelings._
+- تب دارم.  
+  *tab dāram.* — I have a fever.
+- فکر می‌کنم مسموم شده‌ام.  
+  *fekr mi-konam masmum shode-am.* — I think I have food poisoning.  
+  Spoken: فکر کنم مسموم شدم. *fekr konam masmum shodam.*
+- به پنی‌سیلین حساسیت دارم.  
+  *be peni-silin hassāsiyat dāram.* — I'm allergic to penicillin.
+- چیزی برای سرماخوردگی دارید؟  
+  *chiz-i barā-ye sarmā-khordegi dārid?* — Do you have something for a cold?  
+  Spoken: یه چیزی برای سرماخوردگی دارین؟ *ye chiz-i barā-ye sarmā-khordegi dārin?*
+- روزی چند بار بخورم؟  
+  *ruz-i chand bār bo-khoram?* — How many times a day should I take it?  
+  _Medicine is 'eaten' in Persian: dāru khordan._
+- بیمه‌ی مسافرتی دارم.  
+  *bime-ye mosāferati dāram.* — I have travel insurance.
+
+## Phone and internet — تلفن و اینترنت
+
+Buy a local SIM card first: the two big operators, Irancell and Hamrah-e Avval, sell tourist SIMs at the airport and in their shops, and you will need your passport. Iranians live on their phones – for maps, ride-hailing, payments and endless messages, many of them voice messages.
+
+- یک سیم‌کارت می‌خواهم.  
+  *yek sim-kārt mi-khāham.* — I'd like a SIM card.  
+  Spoken: یه سیم‌کارت می‌خوام. *ye sim-kārt mi-khām.*
+- سیم‌کارت گردشگری دارید؟  
+  *sim-kārt-e gardeshgari dārid?* — Do you have a tourist SIM?  
+  Spoken: سیم‌کارت گردشگری دارین؟ *sim-kārt-e gardeshgari dārin?*  
+  _Bring your passport – it is needed to register the SIM._
+- بسته‌ی اینترنت چند است؟  
+  *baste-ye internet chand ast?* — How much is a data package?  
+  Spoken: بسته‌ی اینترنت چنده؟ *baste-ye internet chand-e?*
+- ده گیگ برای یک ماه.  
+  *dah gig barā-ye yek māh.* — Ten gigabytes for one month.  
+  Spoken: ده گیگ برای یه ماه. *dah gig barā-ye ye māh.*
+- این‌جا وای‌فای دارد؟  
+  *in-jā vāy-fāy dārad?* — Is there Wi-Fi here?  
+  Spoken: این‌جا وای‌فای داره؟ *in-jā vāy-fāy dāre?*
+- اینترنت قطع است.  
+  *internet ghat' ast.* — The internet is down.  
+  Spoken: اینترنت قطعه. *internet ghat'-e.*
+- کجا می‌توانم گوشی‌ام را شارژ کنم؟  
+  *kojā mi-tavānam gushi-am rā shārzh konam?* — Where can I charge my phone?  
+  Spoken: کجا می‌تونم گوشیمو شارژ کنم؟ *kojā mi-tunam gushi-m-o shārzh konam?*
+- شارژ گوشی‌ام تمام شده است.  
+  *shārzh-e gushi-am tamām shode ast.* — My phone's battery is dead.  
+  Spoken: شارژ گوشیم تموم شده. *shārzh-e gushi-m tamum shode.*
+- الو؟  
+  *alo?* — Hello? (on the phone)  
+  _Iranians answer the phone with alo, then salām._
+- ببخشید، صدایتان قطع و وصل می‌شود.  
+  *be-bakhshid, sedā-yetān ghat' o vasl mi-shavad.* — Sorry, you're breaking up.  
+  Spoken: ببخشید، صداتون قطع و وصل می‌شه. *be-bakhshid, sedā-tun ghat' o vasl mi-she.*
+- بعداً زنگ می‌زنم.  
+  *ba'dan zang mi-zanam.* — I'll call you back later.
+- شماره‌تان را می‌دهید؟  
+  *shomāre-tān rā mi-dahid?* — Could I have your number?  
+  Spoken: شماره‌تونو می‌دین؟ *shomāre-tun-o mi-din?*
+- شماره‌ات را بده.  
+  *shomāre-at rā be-deh.* — Give me your number. (to a friend)  
+  Spoken: شماره‌تو بده. *shomāre-t-o be-de.*
+- بهتان پیام می‌دهم.  
+  *behetān payām mi-daham.* — I'll send you a message.  
+  Spoken: بهتون پیام می‌دم. *behetun payām mi-dam.*
+- یک پیام صوتی برایم بفرست.  
+  *yek payām-e sowti barā-yam be-ferest.* — Send me a voice message. (to a friend)  
+  Spoken: یه ویس برام بفرست. *ye voys barā-m be-ferest.*  
+  _Iranians love voice messages; in speech they are simply voys._
+- به من زنگ بزن.  
+  *be man zang be-zan.* — Give me a call. (to a friend)  
+  Spoken: بهم زنگ بزن. *beh-am zang be-zan.*
+
+## Weather and small talk — هوا و گپ زدن
+
+Small talk usually starts with the weather, the traffic or prices, and soon turns to you: what you think of Iran, its food, its people. 'Do you like Iran?' is a question you will hear many times – a warm answer goes a long way.
+
+- هوا چطور است؟  
+  *havā chetor ast?* — What's the weather like?  
+  Spoken: هوا چطوره؟ *havā chetor-e?*
+- امروز هوا خیلی گرم است!  
+  *emruz havā kheyli garm ast!* — It's so hot today!  
+  Spoken: امروز هوا خیلی گرمه! *emruz havā kheyli garm-e!*
+- شب‌ها هوا سرد می‌شود.  
+  *shab-hā havā sard mi-shavad.* — It gets cold at night.  
+  Spoken: شبا هوا سرد می‌شه. *shab-ā havā sard mi-she.*
+- چه هوای خوبی!  
+  *che havā-ye khub-i!* — What lovely weather!
+- فردا باران می‌آید؟  
+  *fardā bārān mi-āyad?* — Is it going to rain tomorrow?  
+  Spoken: فردا بارون میاد؟ *fardā bārun miyād?*
+- هوا آلوده است.  
+  *havā ālude ast.* — The air is polluted today.  
+  Spoken: هوا آلوده‌ست. *havā ālude-st.*  
+  _On the worst winter days Tehran closes its schools because of the smog._
+- ترافیک وحشتناک است.  
+  *terāfik vahshatnāk ast.* — The traffic is terrible.  
+  Spoken: ترافیک وحشتناکه. *terāfik vahshatnāk-e.*
+- از ایران خوشتان می‌آید؟  
+  *az Irān khosh-etān mi-āyad?* — Do you like Iran?  
+  Spoken: از ایران خوشتون میاد؟ *az Irān khosh-etun miyād?*
+- بله، خیلی! مردمش خیلی مهربان هستند.  
+  *bale, kheyli! mardom-ash kheyli mehrabān hastand.* — Yes, very much! The people are so kind.  
+  Spoken: آره، خیلی! مردمش خیلی مهربونن. *āre, kheyli! mardom-esh kheyli mehrabun-an.*
+- چند وقت است در ایران هستید؟  
+  *chand vaght ast dar Irān hastid?* — How long have you been in Iran?  
+  Spoken: چند وقته ایرانین؟ *chand vaght-e Irān-in?*
+- دو هفته است.  
+  *do hafte ast.* — Two weeks now.  
+  Spoken: دو هفته‌ست. *do hafte-st.*
+- تا حالا کجاها رفته‌اید؟  
+  *tā hālā kojā-hā rafte-id?* — Where have you been so far?  
+  Spoken: تا حالا کجاها رفتین؟ *tā hālā kojā-hā raftin?*
+- اصفهان و شیراز را دیده‌ام.  
+  *Esfahān o Shirāz rā dide-am.* — I've seen Isfahan and Shiraz.  
+  Spoken: اصفهان و شیرازو دیدم. *Esfahān o Shirāz-o didam.*
+- غذای ایرانی را دوست دارید؟  
+  *ghazā-ye irāni rā dust dārid?* — Do you like Iranian food?  
+  Spoken: غذای ایرانی دوست دارین؟ *ghazā-ye irāni dust dārin?*
+- عاشق قورمه‌سبزی هستم!  
+  *āshegh-e ghorme-sabzi hastam!* — I love ghormeh sabzi!  
+  Spoken: عاشق قورمه‌سبزی‌ام! *āshegh-e ghorme-sabzi-am!*
+- این روزها چه کار می‌کنی؟  
+  *in ruz-hā che kār mi-koni?* — What are you up to these days? (to a friend)  
+  Spoken: این روزا چی کار می‌کنی؟ *in ruz-ā chi kār mi-koni?*
+
+## Feelings and opinions — احساسات و نظرها
+
+Persian puts feelings in the del – the heart, or the stomach: a heart 'grows tight' with longing, 'burns' with pity and 'wants' what you long for. Opinions are softened with be nazar-e man, 'in my view', and agreement is given warmly.
+
+- خوشحالم.  
+  *khoshhāl-am.* — I'm happy.
+- خسته‌ام.  
+  *khaste-am.* — I'm tired.  
+  Spoken: خسته‌م. *khaste-m.*
+- حوصله‌ام سر رفته است.  
+  *hosele-am sar rafte ast.* — I'm bored.  
+  Spoken: حوصله‌م سر رفته. *hosele-m sar rafte.*  
+  Literally: my patience has boiled over
+- دلم برایت تنگ شده است.  
+  *del-am barā-yat tang shode ast.* — I miss you. (to a friend)  
+  Spoken: دلم برات تنگ شده. *del-am barā-t tang shode.*  
+  Literally: my heart has grown tight for you
+- دلم برای خانواده‌ام تنگ شده است.  
+  *del-am barā-ye khānevāde-am tang shode ast.* — I miss my family.  
+  Spoken: دلم برای خانواده‌م تنگ شده. *del-am barā-ye khānevāde-m tang shode.*
+- دلم می‌خواهد به یزد بروم.  
+  *del-am mi-khāhad be Yazd be-ravam.* — I'd love to go to Yazd.  
+  Spoken: دلم می‌خواد برم یزد. *del-am mi-khād be-ram Yazd.*
+- نگران نباشید.  
+  *negarān na-bāshid.* — Don't worry.  
+  Spoken: نگران نباشین. *negarān na-bāshin.*
+- چه بد!  
+  *che bad!* — Oh no! / What a shame!
+- چه عالی!  
+  *che āli!* — Great! / How wonderful!
+- به نظر من خیلی خوب است.  
+  *be nazar-e man kheyli khub ast.* — I think it's very good.  
+  Spoken: به نظرم خیلی خوبه. *be nazar-am kheyli khub-e.*
+- نظر شما چیست؟  
+  *nazar-e shomā chist?* — What do you think?  
+  Spoken: نظرتون چیه؟ *nazar-etun chi-ye?*
+- موافقم.  
+  *movāfegh-am.* — I agree.
+- راست می‌گویید.  
+  *rāst mi-guyid.* — You're right.  
+  Spoken: راست می‌گین. *rāst mi-gin.*
+- مطمئن نیستم.  
+  *motma'en nistam.* — I'm not sure.
+- فرقی نمی‌کند.  
+  *fargh-i nemi-konad.* — It doesn't matter to me.  
+  Spoken: فرقی نمی‌کنه. *fargh-i nemi-kone.*
+- دوستش دارم.  
+  *dust-ash dāram.* — I like it. / I love it.
+- اصلاً دوست ندارم.  
+  *aslan dust na-dāram.* — I don't like it at all.
+
+## Festivals and good wishes — جشن‌ها و آرزوها
+
+Persian has a ready-made wish for almost every moment – a new car, a haircut, an illness, a death in the family – and using the right one wins hearts. The greatest festival is Nowruz, the New Year at the spring equinox: two weeks of family visits, new clothes and sweets.
+
+- نوروز مبارک!  
+  *nowruz mobārak!* — Happy Nowruz!
+- سال نو مبارک!  
+  *sāl-e now mobārak!* — Happy New Year!
+- عیدتان مبارک!  
+  *eyd-etān mobārak!* — Happy holidays!  
+  Spoken: عیدتون مبارک! *eyd-etun mobārak!*  
+  _For Nowruz and the religious feasts alike._
+- صد سال به این سال‌ها!  
+  *sad sāl be in sāl-hā!* — May you see a hundred more years like this!  
+  _A wish for the New Year and for birthdays._
+- تولدت مبارک!  
+  *tavallod-at mobārak!* — Happy birthday! (to a friend)
+- تولدتان مبارک!  
+  *tavallod-etān mobārak!* — Happy birthday!  
+  Spoken: تولدتون مبارک! *tavallod-etun mobārak!*
+- مبارک باشد!  
+  *mobārak bāshad!* — Congratulations! (on something new)  
+  Spoken: مبارک باشه! *mobārak bāshe!*  
+  _For a new car, flat, phone or job – and for a wedding or a new baby._
+- تبریک می‌گویم!  
+  *tabrik mi-guyam!* — Congratulations!  
+  Spoken: تبریک می‌گم! *tabrik mi-gam!*
+- چشمتان روشن!  
+  *chashm-etān roshan!* — How wonderful for you!  
+  Spoken: چشمتون روشن! *cheshm-etun roshan!*  
+  Literally: may your eyes be bright  
+  _Said when a loved one comes home from far away, or a baby is born._
+- عافیت باشد!  
+  *āfiyat bāshad!* — Hope you enjoyed it!  
+  Spoken: عافیت باشه! *āfiyat bāshe!*  
+  Literally: may it be health  
+  _Said to someone fresh from a bath, a shave or the hairdresser's._
+- خدا بد ندهد!  
+  *khodā bad na-dahad!* — Oh no – I hope it's nothing serious!  
+  Spoken: خدا بد نده! *khodā bad na-de!*  
+  Literally: may God not send anything bad  
+  _The first thing to say when you hear that someone is ill or has had an accident._
+- بلا دور!  
+  *balā dur!* — May harm stay far away from you!  
+  _Said to someone who is ill or has had a fright; also balā be dur._
+- ان شاء الله زودتر خوب شوید.  
+  *en shā' allāh zud-tar khub shavid.* — I hope you get well soon.  
+  Spoken: ایشالا زودتر خوب شین. *ishāllā zud-tar khub shin.*
+- تسلیت می‌گویم.  
+  *tasliyat mi-guyam.* — My condolences.  
+  Spoken: تسلیت می‌گم. *tasliyat mi-gam.*
+- غم آخرتان باشد.  
+  *gham-e ākhar-etān bāshad.* — May this be your last sorrow.  
+  Spoken: غم آخرتون باشه. *gham-e ākhar-etun bāshe.*  
+  _The traditional words of condolence._
+- سفر به خیر!  
+  *safar be kheyr!* — Have a good trip!
+- به سلامتی!  
+  *be salāmati!* — Cheers! / Good for you!  
+  _Said raising a glass of tea or juice – or when someone shares good news._
+- یلدا مبارک!  
+  *yaldā mobārak!* — Happy Yalda!  
+  _Shab-e Yaldā, the longest night of the year (around 21 December), is spent with family over pomegranates, watermelon and the poems of Hafez._
+- طاعات قبول!  
+  *tā'āt ghabul!* — May your prayers be accepted!  
+  _Said to someone who is fasting or has just prayed, especially in Ramadan._
+
+## Learning Persian — یادگیری فارسی
+
+Phrases for lessons, language exchanges and the friends who will patiently correct you. Teachers are addressed as ostād ('master', 'professor') or as khānom or āghā with their surname – and always with shomā.
+
+- دارم فارسی یاد می‌گیرم.  
+  *dāram fārsi yād mi-giram.* — I'm learning Persian.
+- فارسی زبان قشنگی است.  
+  *fārsi zabān-e ghashang-i ast.* — Persian is a beautiful language.  
+  Spoken: فارسی زبون قشنگیه. *fārsi zabun-e ghashang-i-ye.*
+- ببخشید، استاد، یک سؤال دارم.  
+  *be-bakhshid, ostād, yek so'āl dāram.* — Excuse me, teacher, I have a question.  
+  Spoken: ببخشید، استاد، یه سؤال دارم. *be-bakhshid, ostād, ye so'āl dāram.*
+- می‌شود دوباره توضیح بدهید؟  
+  *mi-shavad dobāre towzih be-dahid?* — Could you explain that again?  
+  Spoken: می‌شه دوباره توضیح بدین؟ *mi-she dobāre towzih be-din?*
+- مثال می‌زنید؟  
+  *mesāl mi-zanid?* — Could you give an example?  
+  Spoken: مثال می‌زنین؟ *mesāl mi-zanin?*
+- فرق این دو کلمه چیست؟  
+  *fargh-e in do kalame chist?* — What's the difference between these two words?  
+  Spoken: فرق این دو تا کلمه چیه؟ *fargh-e in do tā kalame chi-ye?*
+- این را چطور می‌نویسند؟  
+  *in rā chetor mi-nevisand?* — How do you spell this?  
+  Spoken: اینو چطوری می‌نویسن؟ *in-o chetori mi-nevisan?*
+- روی تخته بنویسید، لطفاً.  
+  *ru-ye takhte be-nevisid, lotfan.* — Please write it on the board.  
+  Spoken: رو تخته بنویسین، لطفاً. *ru takhte be-nevisin, lotfan.*
+- در کدام صفحه هستیم؟  
+  *dar kodām safhe hastim?* — What page are we on?  
+  Spoken: تو کدوم صفحه‌ایم؟ *tu kodum safhe-im?*
+- تکلیف برای فردا چیست؟  
+  *taklif barā-ye fardā chist?* — What's the homework for tomorrow?  
+  Spoken: تکلیف برای فردا چیه؟ *taklif barā-ye fardā chi-ye?*
+- تلفظم درست است؟  
+  *talaffoz-am dorost ast?* — Is my pronunciation right?  
+  Spoken: تلفظم درسته؟ *talaffoz-am dorost-e?*
+- لطفاً اشتباهاتم را تصحیح کنید.  
+  *lotfan eshtebāhāt-am rā tas-hih konid.* — Please correct my mistakes.  
+  Spoken: لطفاً اشتباهامو درست کنین. *lotfan eshtebāh-ām-o dorost konin.*
+- با هم فارسی تمرین کنیم؟  
+  *bā ham fārsi tamrin konim?* — Shall we practise Persian together?  
+  _For a language exchange – offer your own language in return._
+- من به شما انگلیسی یاد می‌دهم، شما به من فارسی.  
+  *man be shomā engelisi yād mi-daham, shomā be man fārsi.* — I'll teach you English and you teach me Persian.  
+  Spoken: من به شما انگلیسی یاد می‌دم، شما به من فارسی. *man be shomā engelisi yād mi-dam, shomā be man fārsi.*
+- آفرین!  
+  *āfarin!* — Well done!  
+  _What every Persian teacher says – often followed by kheyli khub!_
+- فارسی‌ات خیلی خوب شده!  
+  *fārsi-at kheyli khub shode!* — Your Persian has got really good! (to a friend)  
+  Spoken: فارسیت خیلی خوب شده! *fārsi-t kheyli khub shode!*
+
 ---
 
 [Contents](README.md)

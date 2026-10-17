@@ -1,0 +1,70 @@
+{
+ "id": "history-the-persian-language",
+ "topic": "history",
+ "title": "The Persian language through history",
+ "titleFa": "زبان فارسی در گذر تاریخ",
+ "titleR": "zabān-e fārsi dar gozar-e tārikh",
+ "image": "persian-language",
+ "summary": "The Persian you are learning is the language Darius carved on cliffs and Ferdowsi used for his Book of Kings. This is the thread that runs through 2,500 years of Iranian history, from cuneiform to Cyrillic.",
+ "body": [
+  {
+   "h": "One language, three ages",
+   "md": "Persian is named after the province of [[فارس|Fārs|Fars]] – in Old Persian [[پارس|Pārs]] – in south-western Iran, the homeland of Cyrus. Its history has three stages. [[فارسی باستان|fārsi-ye bāstān|Old Persian]] was the language of the Achaemenid kings, carved in a simple cuneiform of just 36 sound signs. [[فارسی میانه|fārsi-ye miyāne|Middle Persian]], also called [[پهلوی|pahlavi|Pahlavi]], was spoken at the Sasanian court and written in an alphabet borrowed from Aramaic. New Persian, the language of today, has been written in the Arabic alphabet since the 9th century.\n\nThe thread is easy to see. In his inscription at Behistun, Darius says *manā pitā Vištāspa* – 'my father is Hystaspes'. A modern Iranian would begin the same sentence with [[پدرم|pedar-am|my father]].",
+   "image": "old-persian-cuneiform"
+  },
+  {
+   "h": "From Pahlavi to Dari",
+   "md": "After the Arab conquest, Arabic took over religion, government and science, and Pahlavi survived mainly in Zoroastrian books. But in the east a spoken form called [[دری|dari]], 'the language of the court', spread through Khorasan and Central Asia. When the poets of Bukhara began to write it in the 9th and 10th centuries, they used Arabic letters plus four new ones – [[پ|pe]], [[چ|che]], [[ژ|zhe]] and [[گ|gāf]] – and took in thousands of Arabic words while keeping a Persian grammar. This is the language of Rudaki and Ferdowsi, and it has changed so little since that Iranian schoolchildren can still read their poems.",
+   "image": "persian-alphabet"
+  },
+  {
+   "h": "A language of empires",
+   "md": "For almost a thousand years Persian was a language of power and culture far beyond Iran. Turkic dynasties – the Ghaznavids, the Seljuks, the Ottomans – wrote poetry and letters in it, and the Mughal emperors made it the official language of their empire in India. It remained the language of the law courts of British India until 1837, and Muhammad Iqbal, the great poet of Lahore, was still writing Persian verse in the 20th century. That is why Urdu, Hindi, Turkish and many other languages are full of Persian words – and why English has *bazaar*, *caravan*, *shawl* and *pyjamas*.",
+   "image": "persian-calligraphy"
+  },
+  {
+   "h": "Persian today",
+   "md": "Today Persian is the official language of Iran, where it is called [[فارسی|fārsi]]; an official language of Afghanistan, as [[دری|dari]]; and in Tajikistan it is [[تاجیکی|tājiki|Tajik]], written in the Cyrillic alphabet since Soviet times. The three are varieties of one language, and their speakers understand each other. Inside Iran, Persian is also the shared language of a country where many people grow up speaking Azerbaijani Turkish, Kurdish, Luri, Gilaki, Baluchi or Arabic at home. How its sounds and grammar changed along the way is the subject of the article on the history of Persian."
+  }
+ ],
+ "sentences": [
+  {"fa": "فارسی یکی از زبان‌های ایرانی است.", "r": "fārsi yek-i az zabān-hā-ye irāni ast.", "en": "Persian is one of the Iranian languages."},
+  {"fa": "نام «فارسی» از استان فارس می‌آید.", "r": "nām-e «fārsi» az ostān-e Fārs mi-āyad.", "en": "The name Farsi comes from the province of Fars."},
+  {"fa": "داریوش بزرگ به فارسی باستان می‌نوشت.", "r": "Dāriush-e Bozorg be fārsi-ye bāstān mi-nevesht.", "en": "Darius the Great wrote in Old Persian."},
+  {"fa": "زبان ساسانیان فارسی میانه یا پهلوی بود.", "r": "zabān-e Sāsāniyān fārsi-ye miyāne yā pahlavi bud.", "en": "The language of the Sasanians was Middle Persian, or Pahlavi."},
+  {"fa": "فارسی امروز با خط عربی نوشته می‌شود.", "r": "fārsi-ye emruz bā khatt-e arabi neveshte mi-shavad.", "en": "Today's Persian is written in the Arabic script."},
+  {"fa": "الفبای فارسی سی و دو حرف دارد.", "r": "alefbā-ye fārsi si o do harf dārad.", "en": "The Persian alphabet has thirty-two letters."},
+  {"fa": "فارسی جنس دستوری ندارد.", "r": "fārsi jens-e dasturi na-dārad.", "en": "Persian has no grammatical gender."},
+  {"fa": "فارسی صدها سال زبان دربار هند بود.", "r": "fārsi sad-hā sāl zabān-e darbār-e Hend bud.", "en": "For hundreds of years Persian was the language of the court in India."},
+  {"fa": "در افغانستان به فارسی «دری» می‌گویند.", "r": "dar Afghānestān be fārsi «dari» mi-guyand.", "en": "In Afghanistan Persian is called Dari."},
+  {"fa": "در تاجیکستان فارسی را با خط سیریلیک می‌نویسند.", "r": "dar Tājikestān fārsi rā bā khatt-e sirilik mi-nevisand.", "en": "In Tajikistan Persian is written in the Cyrillic alphabet."},
+  {"fa": "ایرانیان امروز هنوز شعرهای رودکی را می‌فهمند.", "r": "irāniyān-e emruz hanuz she'r-hā-ye Rudaki rā mi-fahmand.", "en": "Iranians today still understand the poems of Rudaki."},
+  {"fa": "واژه‌های «بازار» و «شال» از فارسی به انگلیسی رفته‌اند.", "r": "vāzhe-hā-ye «bāzār» va «shāl» az fārsi be engelisi rafte-and.", "en": "The words bazaar and shawl passed from Persian into English."}
+ ],
+ "vocab": [
+  {"fa": "زبان", "r": "zabān", "en": "language; tongue"},
+  {"fa": "فارسی باستان", "r": "fārsi-ye bāstān", "en": "Old Persian"},
+  {"fa": "فارسی میانه", "r": "fārsi-ye miyāne", "en": "Middle Persian"},
+  {"fa": "خط", "r": "khatt", "en": "script, writing system"},
+  {"fa": "خط میخی", "r": "khatt-e mikhi", "en": "cuneiform (lit. 'nail script')"},
+  {"fa": "الفبا", "r": "alefbā", "en": "alphabet"},
+  {"fa": "حرف", "r": "harf", "en": "letter (of the alphabet)"},
+  {"fa": "واژه", "r": "vāzhe", "en": "word"},
+  {"fa": "وام‌واژه", "r": "vām-vāzhe", "en": "loanword"},
+  {"fa": "دستور زبان", "r": "dastur-e zabān", "en": "grammar"},
+  {"fa": "گویش", "r": "guyesh", "en": "dialect"},
+  {"fa": "لهجه", "r": "lahje", "en": "accent"},
+  {"fa": "رسمی", "r": "rasmi", "en": "official; formal"},
+  {"fa": "کتیبه", "r": "katibe", "en": "inscription"},
+  {"fa": "نوشتن", "r": "neveshtan", "en": "to write"},
+  {"fa": "فهمیدن", "r": "fahmidan", "en": "to understand"}
+ ],
+ "facts": [
+  "The Persian alphabet has 32 letters: the 28 of Arabic plus پ, چ, ژ and گ.",
+  "Old Persian cuneiform had only 36 sound signs and may have been created for the inscriptions of Darius.",
+  "Persian has no grammatical gender: او means both 'he' and 'she'.",
+  "Persian was the language of the law courts in British India until 1837.",
+  "The oldest dated manuscript of New Persian prose, a book on medicines, was copied in 1056 by the poet Asadi Tusi.",
+  "Persian in Iran, Dari in Afghanistan and Tajik in Tajikistan are mutually intelligible varieties of one language."
+ ]
+}

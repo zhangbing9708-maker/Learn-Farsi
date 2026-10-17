@@ -1,0 +1,75 @@
+{
+ "id": "food-nowruz-table-foods",
+ "topic": "food",
+ "title": "Foods of Nowruz and Yalda",
+ "titleFa": "غذاهای نوروز و یلدا",
+ "titleR": "ghazā-hā-ye nowruz va yaldā",
+ "image": "nowruz",
+ "summary": "From the sweet wheat pudding on the haft-sin to herb rice with fish on New Year's Eve and pomegranates on the longest night of the year: the foods of the two great family nights of the Iranian calendar.",
+ "body": [
+  {
+   "h": "Food on the haft-sin",
+   "md": "[[نوروز|nowruz|Nowruz, the New Year]] begins at the spring equinox, around 20–21 March, and its symbol is the [[هفت‌سین|haft-sin|'seven S' table]]: seven things whose names begin with the letter *sin* (س). Most of them are foods: [[سمنو|samanu|wheat-sprout pudding]], [[سنجد|senjed|oleaster, a dried fruit]], [[سیب|sib|apple]], [[سیر|sir|garlic]], [[سماق|somāgh|sumac]] and [[سرکه|serke|vinegar]], beside a dish of green sprouts, [[سبزه|sabze|sprouted greens]]. Samanu, a sweet brown paste made only from sprouted wheat and flour, cooks for many hours; women traditionally gather to stir it in turns through the night, singing and making wishes.",
+   "image": "samanu"
+  },
+  {
+   "h": "New Year's Eve: herb rice with fish",
+   "md": "In many families the last dinner of the old year, on [[شب عید|shab-e eyd|New Year's Eve]], is [[سبزی‌پلو با ماهی|sabzi-polow bā māhi|herb rice with fish]]. The green of the herbs is the green of the coming spring. In the north the fish is often the Caspian [[ماهی سفید|māhi-ye sefid|kutum, 'white fish']], fried or smoked; in the south it comes from the Gulf.\n\n1. Chop a big bunch of dill, parsley, coriander and chives very finely.\n2. Half-boil and drain the rice.\n3. Layer rice and herbs in an oiled pot, finishing with rice, and steam for about an hour.\n4. Meanwhile dust the fish with flour and turmeric and fry it, or warm the smoked fish.\n5. Serve with wedges of bitter orange ([[نارنج|nārenj|bitter orange]]) or lemon.",
+   "image": "sabzi-polo"
+  },
+  {
+   "h": "Noodles and kuku",
+   "md": "Other families make [[رشته‌پلو|reshte-polow|rice with toasted noodles]] during Nowruz: rice layered with toasted noodles, often with raisins, dates and lamb. The noodles carry a wish to take your life in hand in the new year – Persian speaks of holding the 'end of the thread' of your affairs, [[سررشته‌ی کار|sar-reshte-ye kār|control of one's affairs]]. [[کوکوسبزی|kuku-sabzi|herb kuku]], green with herbs, is another Nowruz favourite, eaten with sabzi polo or carried on picnics."
+  },
+  {
+   "h": "Ajil, pastries and Sizdah Bedar",
+   "md": "During the two weeks of Nowruz, families visit one another ([[عیددیدنی|eyd-didani|New Year visit]]), and every home keeps ready a dish of [[آجیل|ājil|mixed nuts and dried fruit]] – pistachios, almonds, hazelnuts, roasted chickpeas, seeds and raisins – a bowl of fruit, and pastries such as clover-shaped [[نان نخودچی|nān-e nokhodchi|chickpea-flour cookies]] and [[نان برنجی|nān-e berenji|rice-flour cookies]]. On the thirteenth day, [[سیزده‌به‌در|sizdah-be-dar|Sizdah Bedar]], everyone goes out for a picnic with ash reshteh, kuku and kebab, and crisp lettuce ([[کاهو|kāhu|lettuce]]) dipped in [[سکنجبین|sekanjabin|vinegar and mint syrup]]."
+  },
+  {
+   "h": "Yalda: the longest night",
+   "md": "Nine months later, on the winter solstice around 21 December, families stay up late for [[شب یلدا|shab-e yaldā|Yalda night]], the longest night of the year. Its foods are red, like the dawn that will win in the end: [[انار|anār|pomegranates]], their seeds sprinkled with salt or [[گلپر|golpar|ground hogweed seed]], and [[هندوانه|hendevāne|watermelon]], which is said to protect you from the cold and illness of winter. Ajil, persimmons and sweets fill the sofreh or the [[کرسی|korsi|heated low table]], and someone opens the Divan of Hafez for a [[فال حافظ|fāl-e Hāfez|Hafez fortune]]. In 2022 UNESCO inscribed Yalda on its heritage list, in a joint file from Iran and Afghanistan.",
+   "image": "yalda"
+  }
+ ],
+ "sentences": [
+  {"fa": "هفت‌سین ما سمنو و سنجد و سیب دارد.", "r": "haft-sin-e mā samanu va senjed va sib dārad.", "en": "Our haft-sin has samanu, oleaster and apples."},
+  {"fa": "شب عید سبزی‌پلو با ماهی می‌خوریم.", "r": "shab-e eyd sabzi-polow bā māhi mi-khorim.", "en": "On New Year's Eve we eat herb rice with fish."},
+  {"fa": "سمنو را تمام شب هم می‌زنند.", "r": "samanu rā tamām-e shab ham mi-zanand.", "en": "They stir the samanu all night long."},
+  {"fa": "سبزی‌ها را خرد کن و لای برنج بریز.", "r": "sabzi-hā rā khord kon va lā-ye berenj be-riz.", "en": "Chop the herbs and layer them in the rice."},
+  {"fa": "برای عیددیدنی آجیل و شیرینی خریده‌ایم.", "r": "barā-ye eyd-didani ājil o shirini kharide-im.", "en": "We've bought ajil and pastries for the New Year visits."},
+  {"fa": "روز سیزده‌به‌در همه به طبیعت می‌روند.", "r": "ruz-e sizdah-be-dar hame be tabi'at mi-ravand.", "en": "On Sizdah Bedar everyone goes out into nature."},
+  {"fa": "کاهو را در سکنجبین بزن و بخور.", "r": "kāhu rā dar sekanjabin be-zan va bo-khor.", "en": "Dip the lettuce in sekanjabin and eat it."},
+  {"fa": "شب یلدا بلندترین شب سال است.", "r": "shab-e yaldā boland-tarin shab-e sāl ast.", "en": "Yalda night is the longest night of the year."},
+  {"fa": "شب یلدا انار و هندوانه می‌خوریم و فال حافظ می‌گیریم.", "r": "shab-e yaldā anār o hendevāne mi-khorim va fāl-e Hāfez mi-girim.", "en": "On Yalda night we eat pomegranate and watermelon and take a fortune from Hafez."},
+  {"fa": "انار را دانه کن و رویش گلپر بریز.", "r": "anār rā dāne kon va ru-yash golpar be-riz.", "en": "Seed the pomegranate and sprinkle golpar on it."},
+  {"fa": "عیدتان مبارک؛ بفرمایید آجیل!", "r": "eyd-etān mobārak; befarmāyid ājil!", "en": "Happy New Year – please have some ajil!", "col": "عیدتون مبارک؛ بفرمایین آجیل!", "colR": "eyd-etun mobārak; befarmāyin ājil!"}
+ ],
+ "vocab": [
+  {"fa": "نوروز", "r": "nowruz", "en": "Nowruz, the Iranian New Year"},
+  {"fa": "هفت‌سین", "r": "haft-sin", "en": "haft-sin, the New Year table"},
+  {"fa": "سمنو", "r": "samanu", "en": "samanu, wheat-sprout pudding"},
+  {"fa": "سنجد", "r": "senjed", "en": "oleaster (dried fruit)"},
+  {"fa": "سرکه", "r": "serke", "en": "vinegar"},
+  {"fa": "سبزه", "r": "sabze", "en": "sprouted greens"},
+  {"fa": "شب عید", "r": "shab-e eyd", "en": "New Year's Eve"},
+  {"fa": "رشته‌پلو", "r": "reshte-polow", "en": "rice with toasted noodles"},
+  {"fa": "عیددیدنی", "r": "eyd-didani", "en": "New Year visit"},
+  {"fa": "آجیل", "r": "ājil", "en": "mixed nuts and dried fruit"},
+  {"fa": "کاهو", "r": "kāhu", "en": "lettuce"},
+  {"fa": "سکنجبین", "r": "sekanjabin", "en": "vinegar-and-mint syrup"},
+  {"fa": "شب یلدا", "r": "shab-e yaldā", "en": "Yalda night"},
+  {"fa": "انار", "r": "anār", "en": "pomegranate"},
+  {"fa": "هندوانه", "r": "hendevāne", "en": "watermelon"},
+  {"fa": "گلپر", "r": "golpar", "en": "golpar, ground hogweed seed"},
+  {"fa": "فال", "r": "fāl", "en": "fortune, omen"},
+  {"fa": "کرسی", "r": "korsi", "en": "korsi, low heated table"}
+ ],
+ "facts": [
+  "The haft-sin includes several foods – samanu, senjed, apple, garlic, sumac and vinegar – all beginning with the letter sin (س).",
+  "Samanu is made only from sprouted wheat and flour; its sweetness comes from the sprouts themselves.",
+  "Nowruz was inscribed on UNESCO's intangible heritage list in 2009; Yalda/Chella followed in 2022.",
+  "Eating watermelon on Yalda night is said to protect against the colds of winter.",
+  "Lettuce dipped in sekanjabin, a syrup of vinegar, sugar and mint, is a classic Sizdah Bedar picnic food.",
+  "Nan-e nokhodchi, chickpea-flour cookies, are traditionally cut in the shape of a four-leaf clover."
+ ]
+}

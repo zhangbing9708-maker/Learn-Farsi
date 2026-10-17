@@ -290,9 +290,9 @@ Clothes in Iran are as varied as the country. Since 1979 women have been expecte
 
 **Put the words in order**
 
-1. دارم. / قرمز / من / کلاه / یک — I have a red hat.
-2. است. / این / مانتوی / خیلی / سرمه‌ای / قشنگ — This navy manteau is very pretty.
-3. است. / پدرم / مشکی / کت — My father's jacket is black.
+1. دارم. / کلاه / قرمز / من / یک — I have a red hat.
+2. سرمه‌ای / این / مانتوی / خیلی / قشنگ / است. — This navy manteau is very pretty.
+3. مشکی / پدرم / کت / است. — My father's jacket is black.
 4. کوتاه‌تر / هم / دارید؟ — Do you have a shorter one too?
 
 <details><summary>Answers</summary>

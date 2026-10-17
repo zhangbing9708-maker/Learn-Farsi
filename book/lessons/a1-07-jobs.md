@@ -279,10 +279,10 @@ In daily life, many Iranians have more than one job. A teacher may also give pri
 
 **Put the words in order**
 
-1. کجا / کار / شما / می‌کنید؟ — Where do you work?
-2. من / شرکت / کار / در / می‌کنم. / یک — I work for a company.
-3. دانشگاه / خواهرم / پزشکی / در / می‌خواند. — My sister studies medicine at university.
-4. پدر / است. / راننده‌ی / تاکسی / رضا — Reza's father is a taxi driver.
+1. شما / کار / کجا / می‌کنید؟ — Where do you work?
+2. شرکت / در / کار / من / می‌کنم. / یک — I work for a company.
+3. پزشکی / در / می‌خواند. / خواهرم / دانشگاه — My sister studies medicine at university.
+4. پدر / راننده‌ی / تاکسی / رضا / است. — Reza's father is a taxi driver.
 
 <details><summary>Answers</summary>
 

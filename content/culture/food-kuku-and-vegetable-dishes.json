@@ -1,0 +1,75 @@
+{
+ "id": "food-kuku-and-vegetable-dishes",
+ "topic": "food",
+ "title": "Kuku and vegetable dishes",
+ "titleFa": "کوکو، بورانی و دلمه",
+ "titleR": "kuku, borāni va dolme",
+ "image": "mirza-ghasemi",
+ "summary": "Iranian cooking is full of vegetables: herb-packed kuku, smoky aubergine from the Caspian, stuffed vine leaves, and cool yoghurt dishes said to be named after a queen.",
+ "body": [
+  {
+   "h": "Kuku: more herbs than egg",
+   "md": "A [[کوکو|kuku|kuku]] looks like a thick omelette or frittata, but in the best-known kind, [[کوکوسبزی|kuku-sabzi|herb kuku]], the eggs do little more than hold together a mass of chopped green herbs – parsley, coriander, dill and chives or leek – studded with walnuts and barberries. There are kukus of potato ([[کوکوسیب‌زمینی|kuku-sib-zamini|potato kuku]]), aubergine and broad beans too. Kuku is eaten warm or cold with bread, yoghurt and pickles: it is picnic food, a quick supper and, at Nowruz, a green dish for the green new year.\n\n1. Chop a large bunch of herbs very finely and dry them well.\n2. Beat a few eggs with salt, pepper, turmeric and a spoonful of flour.\n3. Mix in the herbs, chopped walnuts and barberries.\n4. Pour into a pan of hot oil, cover and cook on low heat until set.\n5. Turn it over – in quarters, if that is easier – and brown the other side.",
+   "image": "sabzi-khordan"
+  },
+  {
+   "h": "Mirza ghasemi",
+   "md": "From [[گیلان|Gilān|Gilan]] on the Caspian comes [[میرزاقاسمی|mirzā-ghāsemi|mirza ghasemi]]: aubergines grilled over a flame until the skin chars and the flesh turns smoky, then peeled, mashed and fried with plenty of garlic, tomatoes and turmeric, with eggs stirred in at the end. It is eaten with bread or with northern [[کته|kate|kateh]] rice. The story goes that it is named after a Qajar-era nobleman called Mirza Ghasem."
+  },
+  {
+   "h": "Kashk-e bademjan",
+   "md": "[[کشک بادمجان|kashk-e bādemjān|aubergine with kashk]] is the aubergine dish of the rest of Iran: aubergines fried or roasted, mashed with fried onion and garlic, mixed with tangy [[کشک|kashk|kashk]] and decorated with more kashk, fried mint and walnuts. It is served as a starter or a light meal with bread.\n\nIranians love the aubergine ([[بادمجان|bādemjān|aubergine]]) so much that it appears in stews, kukus, dips and pickles – and even in a proverb: [[بادمجان بم آفت ندارد|bādemjān-e bam āfat na-dārad|a bad aubergine never gets blight]], said of rascals who always come out unharmed.",
+   "image": "kashk-e-bademjan"
+  },
+  {
+   "h": "Dolmeh",
+   "md": "[[دلمه|dolme|dolmeh]] – from Turkish *dolma*, 'stuffed' – means anything stuffed: vine leaves ([[برگ مو|barg-e mow|vine leaves]]), cabbage leaves, peppers, tomatoes, aubergines or quinces. The filling is rice, yellow split peas, minced meat, herbs and onion, and many cooks simmer the dolmeh in a sweet-and-sour sauce of vinegar or lemon juice and sugar. The bell pepper is so closely linked to the dish that Persian calls it [[فلفل دلمه‌ای|felfel dolme-i|'dolmeh pepper']].",
+   "image": "dolmeh"
+  },
+  {
+   "h": "Borani and other yoghurt dishes",
+   "md": "Yoghurt ([[ماست|māst|yoghurt]]) is on almost every Iranian table, and [[بورانی|borāni|borani]] mixes it with a cooked vegetable – spinach ([[بورانی اسفناج|borāni-ye esfenāj|spinach borani]]), fried aubergine or beetroot – with garlic and a swirl of saffron or fried mint. Legend says it is named after the Sasanian queen Purandokht, or Boran, who loved it. Simpler still is [[ماست و خیار|māst o khiyār|yoghurt and cucumber]] with dried mint, raisins and walnuts, the side dish of summer, and few meals are complete without [[سالاد شیرازی|sālād-e shirāzi|Shirazi salad]] – diced cucumber, tomato and onion with lime juice or verjuice and dried mint."
+  }
+ ],
+ "sentences": [
+  {"fa": "کوکوسبزی را با نان و ماست می‌خوریم.", "r": "kuku-sabzi rā bā nān o māst mi-khorim.", "en": "We eat kuku sabzi with bread and yoghurt."},
+  {"fa": "سبزی را خوب خشک کن تا کوکو آب نیندازد.", "r": "sabzi rā khub khoshk kon tā kuku āb na-yandāzad.", "en": "Dry the herbs well so that the kuku doesn't go watery."},
+  {"fa": "تخم‌مرغ را با زردچوبه و نمک هم بزن.", "r": "tokhm-e-morgh rā bā zardchube va namak ham be-zan.", "en": "Beat the eggs with turmeric and salt."},
+  {"fa": "میرزاقاسمی یک غذای خوشمزه‌ی گیلانی است.", "r": "mirzā-ghāsemi yek ghazā-ye khoshmazze-ye gilāni ast.", "en": "Mirza ghasemi is a delicious dish from Gilan."},
+  {"fa": "بادمجان را روی شعله کباب کن تا پوستش سیاه شود.", "r": "bādemjān rā ru-ye sho'le kabāb kon tā pust-ash siyāh shavad.", "en": "Grill the aubergine over the flame until its skin turns black."},
+  {"fa": "روی کشک بادمجان گردو و نعناداغ می‌ریزند.", "r": "ru-ye kashk-e bādemjān gerdu va na'nā-dāgh mi-rizand.", "en": "Walnuts and fried mint go on top of kashk-e bademjan."},
+  {"fa": "مادربزرگم دلمه‌ی برگ مو را ترش و شیرین درست می‌کند.", "r": "mādarbozorg-am dolme-ye barg-e mow rā torsh o shirin dorost mi-konad.", "en": "My grandmother makes her stuffed vine leaves sweet and sour."},
+  {"fa": "فلفل دلمه‌ای را با برنج، لپه و گوشت پر می‌کنیم.", "r": "felfel dolme-i rā bā berenj, lape va gusht por mi-konim.", "en": "We stuff the peppers with rice, split peas and meat."},
+  {"fa": "بورانی اسفناج را با سیر و ماست درست می‌کنند.", "r": "borāni-ye esfenāj rā bā sir o māst dorost mi-konand.", "en": "Spinach borani is made with garlic and yoghurt."},
+  {"fa": "ماست و خیار غذای خنک تابستان است.", "r": "māst o khiyār ghazā-ye khonak-e tābestān ast.", "en": "Yoghurt and cucumber is the cool dish of summer."},
+  {"fa": "این کوکو را برای سیزده‌به‌در درست کرده‌ام.", "r": "in kuku rā barā-ye sizdah-be-dar dorost karde-am.", "en": "I've made this kuku for Sizdah Bedar."}
+ ],
+ "vocab": [
+  {"fa": "کوکو", "r": "kuku", "en": "kuku, herb or vegetable frittata"},
+  {"fa": "تخم‌مرغ", "r": "tokhm-e-morgh", "en": "egg"},
+  {"fa": "بادمجان", "r": "bādemjān", "en": "aubergine, eggplant"},
+  {"fa": "کشک", "r": "kashk", "en": "kashk, dried whey"},
+  {"fa": "سیر", "r": "sir", "en": "garlic"},
+  {"fa": "دلمه", "r": "dolme", "en": "dolmeh, stuffed vegetables"},
+  {"fa": "برگ مو", "r": "barg-e mow", "en": "vine leaves"},
+  {"fa": "فلفل دلمه‌ای", "r": "felfel dolme-i", "en": "bell pepper"},
+  {"fa": "بورانی", "r": "borāni", "en": "borani, yoghurt with cooked vegetables"},
+  {"fa": "ماست", "r": "māst", "en": "yoghurt"},
+  {"fa": "خیار", "r": "khiyār", "en": "cucumber"},
+  {"fa": "اسفناج", "r": "esfenāj", "en": "spinach"},
+  {"fa": "شعله", "r": "sho'le", "en": "flame"},
+  {"fa": "پوست", "r": "pust", "en": "skin, peel"},
+  {"fa": "پر کردن", "r": "por kardan", "en": "to fill, to stuff"},
+  {"fa": "هم زدن", "r": "ham zadan", "en": "to stir, to beat"},
+  {"fa": "گیاهی", "r": "giyāhi", "en": "vegetarian, plant-based"},
+  {"fa": "خنک", "r": "khonak", "en": "cool"}
+ ],
+ "facts": [
+  "Persian calls the bell pepper felfel dolme'i, 'dolmeh pepper' – the pepper you stuff.",
+  "Dolmeh comes from Turkish dolma, 'stuffed'.",
+  "Legend links borani with the 7th-century Sasanian queen Purandokht (Boran).",
+  "Mirza ghasemi comes from Gilan, where it is eaten with kateh rice or bread.",
+  "Kuku sabzi is a Nowruz dish: its green herbs stand for the new spring.",
+  "The proverb bādemjān-e bam āfat nadārad, 'a bad aubergine never gets blight', is said of rascals who never come to harm."
+ ]
+}

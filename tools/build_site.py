@@ -208,6 +208,14 @@ def slug_title(lid):
     return t[:1].upper() + t[1:]
 
 
+def clip(s, n):
+    s = plain(s)
+    if len(s) <= n:
+        return s
+    cut = s[:n].rsplit(" ", 1)[0].rstrip(",;:–-")
+    return cut + "…"
+
+
 def plain(s):
     return re.sub(r"\s+", " ", INLINE.sub(lambda m: m.group(1), str(s or "")).replace("**", "").replace("*", "")).strip()
 
@@ -587,7 +595,7 @@ def build_lessons():
                 + study_bar(has_key(L, "col")) + "".join(blocks)
                 + f'<div class="lesson-end"><button class="done-btn" type="button" data-done="{esc(lid)}">Mark this lesson as done</button></div>'
                 + pn + "</article></div>")
-        page(url, L.get("title", lid), body, desc=plain(L.get("intro", ""))[:200], image=L.get("image"), section="course")
+        page(url, L.get("title", lid), body, desc=clip(L.get("intro", ""), 200), image=L.get("image"), section="course")
         SEARCH.append({"t": "lesson", "ti": L.get("title"), "fa": L.get("titleFa", ""), "r": L.get("titleR", ""), "u": url,
                        "s": f'{lvname}, lesson {L.get("n", "")}', "k": " ".join(plain(g) for g in L.get("goals", []))})
 
@@ -654,7 +662,7 @@ def build_stories():
                 + (f'<section class="blk after"><h2>About this story</h2>{md(S.get("after"))}</section>' if S.get("after") else "")
                 + (f'<p class="source">{inl(S.get("source"))}</p>' if S.get("source") else "")
                 + pn + "</article>")
-        page(url, S.get("title", sid), body, desc=plain(S.get("intro", ""))[:200], image=S.get("image"), section="stories")
+        page(url, S.get("title", sid), body, desc=clip(S.get("intro", ""), 200), image=S.get("image"), section="stories")
         SEARCH.append({"t": "story", "ti": S.get("title"), "fa": S.get("titleFa", ""), "r": S.get("titleR", ""), "u": url,
                        "s": f'{LEVEL_NAMES.get(S.get("level"), "")}, {S.get("kind", "")}'})
     secs = []
@@ -710,7 +718,7 @@ def build_culture():
                     + (f'<section class="blk"><h2>Say it in Persian</h2>{study_bar(has_key(A.get("sentences"), "col"))}<div class="lines">{sents}</div></section>' if sents else "")
                     + (f'<section class="blk"><h2>Words</h2>{vocab_list(A.get("vocab", []), ctx, "article-" + aid)}</section>' if A.get("vocab") else "")
                     + rel_html + "</article>")
-            page(url, A.get("title", aid), body, desc=plain(A.get("summary", ""))[:200], image=A.get("image"), section="culture")
+            page(url, A.get("title", aid), body, desc=clip(A.get("summary", ""), 200), image=A.get("image"), section="culture")
             SEARCH.append({"t": topic, "ti": A.get("title"), "fa": A.get("titleFa", ""), "r": A.get("titleR", ""), "u": url,
                            "s": TOPIC[topic][1], "k": plain(A.get("summary", ""))})
     secs = []
@@ -721,7 +729,7 @@ def build_culture():
         tiles = "".join(
             f'<li class="tile"><a href="{aid}.html">{thumb(ARTICLES[aid].get("image"), ARTICLES[aid].get("title"))}'
             f'<span class="tile-fa" lang="fa" dir="rtl">{esc(ARTICLES[aid].get("titleFa", ""))}</span>'
-            f'<span class="tile-t">{esc(ARTICLES[aid].get("title", ""))}</span><span class="tile-m">{esc(plain(ARTICLES[aid].get("summary", ""))[:110])}</span></a></li>'
+            f'<span class="tile-t">{esc(ARTICLES[aid].get("title", ""))}</span><span class="tile-m">{esc(clip(ARTICLES[aid].get("summary", ""), 120))}</span></a></li>'
             for aid in ids)
         secs.append(f'<section class="shelf" id="{key}"><h2>{esc(name)} <span class="lv-fa" lang="fa" dir="rtl">{esc(fa)}</span></h2><p>{esc(blurb)}</p><ul class="tiles">{tiles}</ul></section>')
     n = sum(len(v) for v in order.values())
@@ -1152,7 +1160,7 @@ def build_home(culture_order, news):
 <section class="home-sec"><div class="hs-head"><h2>Iran in pictures and stories</h2><a href="culture/index.html">All {len(ARTICLES)} articles</a></div><ul class="topics">{topics}</ul></section>
 <div class="home-two">
 <section class="home-news"><div class="hs-head"><h2>This week in simple Persian</h2><a href="news/index.html">All news</a></div><ul class="news-mini">{news_rows}</ul></section>
-<section class="home-tools"><h2>Tools</h2><ul class="tools-list">{tools}</ul></section>
+<section class="home-tools"><div class="wotd" data-wotd hidden></div><h2>Tools</h2><ul class="tools-list">{tools}</ul></section>
 </div>
 {poem_html}
 """
@@ -1270,6 +1278,23 @@ def build_concordance():
     out = {"u": [[u, titles.get(u, "")] for u, _ in sorted(urls.items(), key=lambda kv: kv[1])], "s": sents,
            "w": {h: v for h, v in found.items()}}
     json.dump(out, open(os.path.join(ASSETS, "concordance.json"), "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
+    # word of the day: common content words that have audio and an example sentence from the course
+    wotd = []
+    for e in DICT.get("entries", []):
+        if e.get("x") or e["n"] < 60 or e["n"] > 2500 or not e.get("a"):
+            continue
+        if not set((e.get("p") or "").split(",")) & {"n", "v", "adj", "adv"}:
+            continue
+        refs = found.get(norm(e["w"]))
+        if not refs:
+            continue
+        fa, en, a, ui = sents[refs[0]]
+        if len(fa) > 70:
+            continue
+        wotd.append([e["w"], e["r"], e["g"], e["a"], fa, en, a, out["u"][ui][0], out["u"][ui][1]])
+    import random
+    random.Random(1405).shuffle(wotd)
+    json.dump(wotd[:400], open(os.path.join(ASSETS, "wotd.json"), "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
     return len(found)
 
 

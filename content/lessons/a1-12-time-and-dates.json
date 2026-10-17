@@ -6,7 +6,13 @@
  "titleFa": "ساعت و تاریخ",
  "titleR": "sā'at o tārikh",
  "intro": "What time is it, what day is it, when is your birthday? In this lesson you learn to tell the time with sā'at, the seven days of the Iranian week – which starts on Saturday – and the twelve months of the Iranian solar calendar, from Farvardin in spring to Esfand in winter. You also find out why the Iranian year begins on the first day of spring, with Nowruz.",
- "goals": ["ask and tell the time: sā'at chand ast? – sā'at do o nim ast", "name the days of the week, from shanbe to jom'e", "name the twelve Iranian months and their seasons", "say dates and birthdays: tavallod-e man dahom-e Dey ast", "ask 'when?' with key"],
+ "goals": [
+  "ask and tell the time: sā'at chand ast? – sā'at do o nim ast",
+  "name the days of the week, from shanbe to jom'e",
+  "name the twelve Iranian months and their seasons",
+  "say dates and birthdays: tavallod-e man dahom-e Dey ast",
+  "ask 'when?' with key"
+ ],
  "image": "iranian-calendar",
  "sections": [
   {
@@ -14,20 +20,134 @@
    "title": "Two birthdays",
    "context": "Tom and Mina meet in a corridor at the University of Tehran. Tom wants to know the time – and finds out something about Mina's birthday.",
    "lines": [
-    {"who": "Tom", "fa": "ببخشید، مینا، ساعت چند است؟", "r": "bebakhshid, Minā, sā'at chand ast?", "en": "Excuse me, Mina, what time is it?", "col": "ببخشید، مینا، ساعت چنده؟", "colR": "bebakhshid, Minā, sā'at chande?"},
-    {"who": "Mina", "fa": "ساعت ده و ربع است. کلاس من ساعت ده و نیم است!", "r": "sā'at dah o rob' ast. kelās-e man sā'at-e dah o nim ast!", "en": "It's a quarter past ten. My class is at half past ten!", "col": "ساعت ده و ربعه. کلاسم ساعت ده و نیمه!", "colR": "sā'at dah o rob'e. kelās-am sā'at-e dah o nime!"},
-    {"who": "Tom", "fa": "امروز چندشنبه است؟ دوشنبه؟", "r": "emruz chand-shanbe ast? do-shanbe?", "en": "What day is it today? Monday?"},
-    {"who": "Mina", "fa": "نه، امروز سه‌شنبه است. سه‌شنبه‌ها ساعت ده و نیم کلاس دارم.", "r": "na, emruz se-shanbe ast. se-shanbe-hā sā'at-e dah o nim kelās dāram.", "en": "No, today is Tuesday. On Tuesdays I have a class at half past ten."},
-    {"who": "Tom", "fa": "راستی، تولد تو کِی است؟", "r": "rāsti, tavallod-e to key ast?", "en": "By the way, when is your birthday?", "col": "راستی، تولدت کِیه؟", "colR": "rāsti, tavallod-et keye?"},
-    {"who": "Mina", "fa": "تولد من بیست و پنجم آبان است.", "r": "tavallod-e man bist o panjom-e Ābān ast.", "en": "My birthday is on the twenty-fifth of Aban."},
-    {"who": "Tom", "fa": "آبان کدام ماه است؟", "r": "Ābān kodām māh ast?", "en": "Which month is Aban?"},
-    {"who": "Mina", "fa": "ماه هشتم سال، بعد از مهر. بیست و پنجم آبان معمولاً شانزدهم نوامبر است.", "r": "māh-e hashtom-e sāl, ba'd az Mehr. bist o panjom-e Ābān ma'mulan shānzdahom-e novāmbr ast.", "en": "The eighth month of the year, after Mehr. The twenty-fifth of Aban is usually the sixteenth of November."},
-    {"who": "Tom", "fa": "شانزدهم نوامبر؟ تولد من هم شانزدهم نوامبر است!", "r": "shānzdahom-e novāmbr? tavallod-e man ham shānzdahom-e novāmbr ast!", "en": "The sixteenth of November? My birthday is on the sixteenth of November too!"},
-    {"who": "Mina", "fa": "واقعاً؟ پس روز تولد ما یکی است!", "r": "vāghe'an? pas ruz-e tavallod-e mā yeki ast!", "en": "Really? So our birthdays are on the same day!", "col": "واقعاً؟ پس روز تولدمون یکیه!", "colR": "vāghe'an? pas ruz-e tavallod-emun yeki-ye!"},
-    {"who": "Tom", "fa": "جشن می‌گیری؟", "r": "jashn mi-giri?", "en": "Are you having a party?"},
-    {"who": "Mina", "fa": "بله، جمعه، ساعت هفت شب، در خانه‌ی ما. تو هم دعوتی!", "r": "bale, jom'e, sā'at-e haft-e shab, dar khāne-ye mā. to ham da'vat-i!", "en": "Yes, on Friday at seven in the evening, at our house. You're invited too!"},
-    {"who": "Tom", "fa": "ممنون! اما الان ساعت ده و بیست و پنج دقیقه است!", "r": "mamnun! ammā alān sā'at dah o bist o panj daghighe ast!", "en": "Thanks! But it's twenty-five past ten now!"},
-    {"who": "Mina", "fa": "وای، کلاس! خدا حافظ!", "r": "vāy, kelās! khodā hāfez!", "en": "Oh no, my class! Bye!"}
+    {
+     "who": "Tom",
+     "fa": "ببخشید، مینا، ساعت چند است؟",
+     "r": "bebakhshid, Minā, sā'at chand ast?",
+     "en": "Excuse me, Mina, what time is it?",
+     "col": "ببخشید، مینا، ساعت چنده؟",
+     "colR": "bebakhshid, Minā, sā'at chande?",
+     "faV": "بِبَخشید، مینا، ساعَت چَند اَست؟",
+     "a": "93aab8f291e4",
+     "colV": "بِبَخشید، مینا، ساعَت چَنده؟",
+     "colA": "3de9fd4df86f"
+    },
+    {
+     "who": "Mina",
+     "fa": "ساعت ده و ربع است. کلاس من ساعت ده و نیم است!",
+     "r": "sā'at dah o rob' ast. kelās-e man sā'at-e dah o nim ast!",
+     "en": "It's a quarter past ten. My class is at half past ten!",
+     "col": "ساعت ده و ربعه. کلاسم ساعت ده و نیمه!",
+     "colR": "sā'at dah o rob'e. kelās-am sā'at-e dah o nime!",
+     "faV": "ساعَت دَه و رُبع اَست. کِلاسِ مَن ساعَتِ دَه و نیم اَست!",
+     "a": "2873d500977f",
+     "colV": "ساعَت دَه و رُبعه. کِلاسَم ساعَتِ دَه و نیمه!",
+     "colA": "330b6091cf11"
+    },
+    {
+     "who": "Tom",
+     "fa": "امروز چندشنبه است؟ دوشنبه؟",
+     "r": "emruz chand-shanbe ast? do-shanbe?",
+     "en": "What day is it today? Monday?",
+     "faV": "اِمروز چَندشَنبه اَست؟ دوشَنبه؟",
+     "a": "620b18b11c41"
+    },
+    {
+     "who": "Mina",
+     "fa": "نه، امروز سه‌شنبه است. سه‌شنبه‌ها ساعت ده و نیم کلاس دارم.",
+     "r": "na, emruz se-shanbe ast. se-shanbe-hā sā'at-e dah o nim kelās dāram.",
+     "en": "No, today is Tuesday. On Tuesdays I have a class at half past ten.",
+     "faV": "نه، اِمروز سه‌شَنبه اَست. سه‌شَنبه‌ها ساعَتِ دَه و نیم کِلاس دارَم.",
+     "a": "d4a7aa591f01"
+    },
+    {
+     "who": "Tom",
+     "fa": "راستی، تولد تو کِی است؟",
+     "r": "rāsti, tavallod-e to key ast?",
+     "en": "By the way, when is your birthday?",
+     "col": "راستی، تولدت کِیه؟",
+     "colR": "rāsti, tavallod-et keye?",
+     "faV": "راستی، تَوَلُّدِ تو کَی اَست؟",
+     "a": "ebe21a843ab3",
+     "colV": "راستی، تَوَلُّدِت کِیه؟",
+     "colA": "ff5d5d98ae26"
+    },
+    {
+     "who": "Mina",
+     "fa": "تولد من بیست و پنجم آبان است.",
+     "r": "tavallod-e man bist o panjom-e Ābān ast.",
+     "en": "My birthday is on the twenty-fifth of Aban.",
+     "faV": "تَوَلُّدِ مَن بیست و پَنجُمِ آبان اَست.",
+     "a": "9036aa2c9072"
+    },
+    {
+     "who": "Tom",
+     "fa": "آبان کدام ماه است؟",
+     "r": "Ābān kodām māh ast?",
+     "en": "Which month is Aban?",
+     "faV": "آبان کُدام ماه اَست؟",
+     "a": "293ca05ea54e"
+    },
+    {
+     "who": "Mina",
+     "fa": "ماه هشتم سال، بعد از مهر. بیست و پنجم آبان معمولاً شانزدهم نوامبر است.",
+     "r": "māh-e hashtom-e sāl, ba'd az Mehr. bist o panjom-e Ābān ma'mulan shānzdahom-e novāmbr ast.",
+     "en": "The eighth month of the year, after Mehr. The twenty-fifth of Aban is usually the sixteenth of November.",
+     "faV": "ماهِ هَشتُمِ سال، بَعد اَز مِهر. بیست و پَنجُمِ آبان مَعمولاً شانزدَهُمِ نُوامبر اَست.",
+     "a": "63c37691de5d"
+    },
+    {
+     "who": "Tom",
+     "fa": "شانزدهم نوامبر؟ تولد من هم شانزدهم نوامبر است!",
+     "r": "shānzdahom-e novāmbr? tavallod-e man ham shānzdahom-e novāmbr ast!",
+     "en": "The sixteenth of November? My birthday is on the sixteenth of November too!",
+     "faV": "شانزدَهُمِ نُوامبر؟ تَوَلُّدِ مَن هَم شانزدَهُمِ نُوامبر اَست!",
+     "a": "7419bb15bd47"
+    },
+    {
+     "who": "Mina",
+     "fa": "واقعاً؟ پس روز تولد ما یکی است!",
+     "r": "vāghe'an? pas ruz-e tavallod-e mā yeki ast!",
+     "en": "Really? So our birthdays are on the same day!",
+     "col": "واقعاً؟ پس روز تولدمون یکیه!",
+     "colR": "vāghe'an? pas ruz-e tavallod-emun yeki-ye!",
+     "faV": "واقِعاً؟ پَس روزِ تَوَلُّدِ ما یِکی اَست!",
+     "a": "cd6de4a689e7",
+     "colV": "واقِعاً؟ پَس روزِ تَوَلُّدِمون یِکیه!",
+     "colA": "36abe8020c36"
+    },
+    {
+     "who": "Tom",
+     "fa": "جشن می‌گیری؟",
+     "r": "jashn mi-giri?",
+     "en": "Are you having a party?",
+     "faV": "جَشن می‌گیری؟",
+     "a": "788e347a2dfd"
+    },
+    {
+     "who": "Mina",
+     "fa": "بله، جمعه، ساعت هفت شب، در خانه‌ی ما. تو هم دعوتی!",
+     "r": "bale, jom'e, sā'at-e haft-e shab, dar khāne-ye mā. to ham da'vat-i!",
+     "en": "Yes, on Friday at seven in the evening, at our house. You're invited too!",
+     "faV": "بَله، جُمعه، ساعَتِ هَفتِ شَب، دَر خانه‌یِ ما. تو هَم دَعوَتی!",
+     "a": "07e7d34ac7b4"
+    },
+    {
+     "who": "Tom",
+     "fa": "ممنون! اما الان ساعت ده و بیست و پنج دقیقه است!",
+     "r": "mamnun! ammā alān sā'at dah o bist o panj daghighe ast!",
+     "en": "Thanks! But it's twenty-five past ten now!",
+     "faV": "مَمنون! اَمّا اَلان ساعَت دَه و بیست و پَنج دَقیقه اَست!",
+     "a": "c6b857857345"
+    },
+    {
+     "who": "Mina",
+     "fa": "وای، کلاس! خدا حافظ!",
+     "r": "vāy, kelās! khodā hāfez!",
+     "en": "Oh no, my class! Bye!",
+     "faV": "وای، کِلاس! خُدا حافِظ!",
+     "a": "736001303b62"
+    }
    ]
   },
   {
@@ -39,26 +159,228 @@
    "type": "vocab",
    "title": "Words",
    "items": [
-    {"fa": "ساعت", "r": "sā'at", "en": "hour; clock, watch; o'clock", "pos": "n", "ex": {"fa": "ساعت چند است؟", "r": "sā'at chand ast?", "en": "What time is it?"}},
-    {"fa": "دقیقه", "r": "daghighe", "en": "minute", "pos": "n", "ex": {"fa": "کلاس پنج دقیقه‌ی دیگر شروع می‌شود.", "r": "kelās panj daghighe-ye digar shoru' mi-shavad.", "en": "The class starts in five minutes."}},
-    {"fa": "ربع", "r": "rob'", "en": "quarter (of an hour)", "pos": "n", "ex": {"fa": "ساعت دو و ربع است.", "r": "sā'at do o rob' ast.", "en": "It's a quarter past two."}},
-    {"fa": "نیم", "r": "nim", "en": "half", "pos": "n", "note": "nim sā'at = half an hour"},
-    {"fa": "امروز", "r": "emruz", "en": "today", "pos": "adv"},
-    {"fa": "فردا", "r": "fardā", "en": "tomorrow", "pos": "adv"},
-    {"fa": "هفته", "r": "hafte", "en": "week", "pos": "n", "ex": {"fa": "هفته هفت روز دارد.", "r": "hafte haft ruz dārad.", "en": "A week has seven days."}},
-    {"fa": "ماه", "r": "māh", "en": "month; moon", "pos": "n", "ex": {"fa": "سال دوازده ماه دارد.", "r": "sāl davāzdah māh dārad.", "en": "A year has twelve months."}},
-    {"fa": "تاریخ", "r": "tārikh", "en": "date; history", "pos": "n"},
-    {"fa": "تولد", "r": "tavallod", "en": "birth; birthday", "pos": "n", "note": "jashn-e tavallod = birthday party", "ex": {"fa": "جشن تولد من جمعه است.", "r": "jashn-e tavallod-e man jom'e ast.", "en": "My birthday party is on Friday."}},
-    {"fa": "کِی", "r": "key", "en": "when?", "pos": "adv", "note": "usually written کی, like ki 'who'", "ex": {"fa": "کلاس کِی است؟", "r": "kelās key ast?", "en": "When is the class?"}},
-    {"fa": "نوروز", "r": "nowruz", "en": "Nowruz, the Iranian New Year", "pos": "n", "note": "literally 'new day'"},
-    {"fa": "مبارک", "r": "mobārak", "en": "blessed; happy (in wishes)", "pos": "adj", "ex": {"fa": "نوروز مبارک!", "r": "nowruz mobārak!", "en": "Happy Nowruz!"}},
-    {"fa": "شنبه", "r": "shanbe", "en": "Saturday", "pos": "n", "note": "the first day of the Iranian week"},
-    {"fa": "یک‌شنبه", "r": "yek-shanbe", "en": "Sunday", "pos": "n"},
-    {"fa": "دوشنبه", "r": "do-shanbe", "en": "Monday", "pos": "n"},
-    {"fa": "سه‌شنبه", "r": "se-shanbe", "en": "Tuesday", "pos": "n"},
-    {"fa": "چهارشنبه", "r": "chahār-shanbe", "en": "Wednesday", "pos": "n"},
-    {"fa": "پنج‌شنبه", "r": "panj-shanbe", "en": "Thursday", "pos": "n"},
-    {"fa": "جمعه", "r": "jom'e", "en": "Friday", "pos": "n", "note": "the weekly day off"}
+    {
+     "fa": "ساعت",
+     "r": "sā'at",
+     "en": "hour; clock, watch; o'clock",
+     "pos": "n",
+     "ex": {
+      "fa": "ساعت چند است؟",
+      "r": "sā'at chand ast?",
+      "en": "What time is it?",
+      "faV": "ساعَت چَند اَست؟",
+      "a": "d5ff0bd4e4c7"
+     },
+     "faV": "ساعَت",
+     "a": "524847c32016"
+    },
+    {
+     "fa": "دقیقه",
+     "r": "daghighe",
+     "en": "minute",
+     "pos": "n",
+     "ex": {
+      "fa": "کلاس پنج دقیقه‌ی دیگر شروع می‌شود.",
+      "r": "kelās panj daghighe-ye digar shoru' mi-shavad.",
+      "en": "The class starts in five minutes.",
+      "faV": "کِلاس پَنج دَقیقه‌یِ دیگَر شُروع می‌شَوَد.",
+      "a": "39b98e7bc569"
+     },
+     "faV": "دَقیقه",
+     "a": "ef7e46b21169"
+    },
+    {
+     "fa": "ربع",
+     "r": "rob'",
+     "en": "quarter (of an hour)",
+     "pos": "n",
+     "ex": {
+      "fa": "ساعت دو و ربع است.",
+      "r": "sā'at do o rob' ast.",
+      "en": "It's a quarter past two.",
+      "faV": "ساعَت دو و رُبع اَست.",
+      "a": "6601ae484bb6"
+     },
+     "faV": "رُبع",
+     "a": "7f3172226705"
+    },
+    {
+     "fa": "نیم",
+     "r": "nim",
+     "en": "half",
+     "pos": "n",
+     "note": "nim sā'at = half an hour",
+     "faV": "نیم",
+     "a": "edd7da620331"
+    },
+    {
+     "fa": "امروز",
+     "r": "emruz",
+     "en": "today",
+     "pos": "adv",
+     "faV": "اِمروز",
+     "a": "f616755c4ef1"
+    },
+    {
+     "fa": "فردا",
+     "r": "fardā",
+     "en": "tomorrow",
+     "pos": "adv",
+     "faV": "فَردا",
+     "a": "382bba2ce3b8"
+    },
+    {
+     "fa": "هفته",
+     "r": "hafte",
+     "en": "week",
+     "pos": "n",
+     "ex": {
+      "fa": "هفته هفت روز دارد.",
+      "r": "hafte haft ruz dārad.",
+      "en": "A week has seven days.",
+      "faV": "هَفته هَفت روز دارَد.",
+      "a": "bb95d6f297d4"
+     },
+     "faV": "هَفته",
+     "a": "bbc437417326"
+    },
+    {
+     "fa": "ماه",
+     "r": "māh",
+     "en": "month; moon",
+     "pos": "n",
+     "ex": {
+      "fa": "سال دوازده ماه دارد.",
+      "r": "sāl davāzdah māh dārad.",
+      "en": "A year has twelve months.",
+      "faV": "سال دَوازدَه ماه دارَد.",
+      "a": "309dd05e41ba"
+     },
+     "faV": "ماه",
+     "a": "f2e5afacb422"
+    },
+    {
+     "fa": "تاریخ",
+     "r": "tārikh",
+     "en": "date; history",
+     "pos": "n",
+     "faV": "تاریخ",
+     "a": "217c84913e05"
+    },
+    {
+     "fa": "تولد",
+     "r": "tavallod",
+     "en": "birth; birthday",
+     "pos": "n",
+     "note": "jashn-e tavallod = birthday party",
+     "ex": {
+      "fa": "جشن تولد من جمعه است.",
+      "r": "jashn-e tavallod-e man jom'e ast.",
+      "en": "My birthday party is on Friday.",
+      "faV": "جَشنِ تَوَلُّدِ مَن جُمعه اَست.",
+      "a": "2fd37d93f241"
+     },
+     "faV": "تَوَلُّد",
+     "a": "6dfc90d9080f"
+    },
+    {
+     "fa": "کِی",
+     "r": "key",
+     "en": "when?",
+     "pos": "adv",
+     "note": "usually written کی, like ki 'who'",
+     "ex": {
+      "fa": "کلاس کِی است؟",
+      "r": "kelās key ast?",
+      "en": "When is the class?",
+      "faV": "کِلاس کَی اَست؟",
+      "a": "64068ae18ff1"
+     },
+     "faV": "کَی",
+     "a": "802decfafbb2"
+    },
+    {
+     "fa": "نوروز",
+     "r": "nowruz",
+     "en": "Nowruz, the Iranian New Year",
+     "pos": "n",
+     "note": "literally 'new day'",
+     "faV": "نَوروز",
+     "a": "45d9fa9f1366"
+    },
+    {
+     "fa": "مبارک",
+     "r": "mobārak",
+     "en": "blessed; happy (in wishes)",
+     "pos": "adj",
+     "ex": {
+      "fa": "نوروز مبارک!",
+      "r": "nowruz mobārak!",
+      "en": "Happy Nowruz!",
+      "faV": "نَوروز مُبارَک!",
+      "a": "8e77a3f0d80d"
+     },
+     "faV": "مُبارَک",
+     "a": "ca5046904541"
+    },
+    {
+     "fa": "شنبه",
+     "r": "shanbe",
+     "en": "Saturday",
+     "pos": "n",
+     "note": "the first day of the Iranian week",
+     "faV": "شَنبه",
+     "a": "abd847e756ac"
+    },
+    {
+     "fa": "یک‌شنبه",
+     "r": "yek-shanbe",
+     "en": "Sunday",
+     "pos": "n",
+     "faV": "یِک‌شَنبه",
+     "a": "c4350f77e052"
+    },
+    {
+     "fa": "دوشنبه",
+     "r": "do-shanbe",
+     "en": "Monday",
+     "pos": "n",
+     "faV": "دوشَنبه",
+     "a": "76146ca364a3"
+    },
+    {
+     "fa": "سه‌شنبه",
+     "r": "se-shanbe",
+     "en": "Tuesday",
+     "pos": "n",
+     "faV": "سه‌شَنبه",
+     "a": "46865534e4ac"
+    },
+    {
+     "fa": "چهارشنبه",
+     "r": "chahār-shanbe",
+     "en": "Wednesday",
+     "pos": "n",
+     "faV": "چَهارشَنبه",
+     "a": "c76e161090f2"
+    },
+    {
+     "fa": "پنج‌شنبه",
+     "r": "panj-shanbe",
+     "en": "Thursday",
+     "pos": "n",
+     "faV": "پَنج‌شَنبه",
+     "a": "317e96c5f985"
+    },
+    {
+     "fa": "جمعه",
+     "r": "jom'e",
+     "en": "Friday",
+     "pos": "n",
+     "note": "the weekly day off",
+     "faV": "جُمعه",
+     "a": "1f1f1c508969"
+    }
    ]
   },
   {
@@ -66,22 +388,84 @@
    "title": "What time is it? sā'at chand ast?",
    "md": "Ask [[ساعت چند است؟|sā'at chand ast?|what time is it?]] – literally *the hour is how many?* – and answer with **sā'at + number + ast**: [[ساعت سه است.|sā'at se ast.|It's three o'clock.]] In speech the question is *sā'at chande?*\n\nMinutes **past** the hour are added with [[و|o|and]]; minutes **to** the hour use [[به|be|to]], just as in English: [[ساعت سه و ده دقیقه است.|sā'at se o dah daghighe ast.|It's ten past three.]] – [[ساعت ده دقیقه به چهار است.|sā'at dah daghighe be chahār ast.|It's ten to four.]] A quarter is [[ربع|rob']], half is [[نیم|nim]].\n\nTo say *at* a time, link **sā'at** to the number with **-e**: [[ساعت سه|sā'at-e se|at three]]. The question works the same way: [[کلاس ساعت چند است؟|kelās sā'at-e chand ast?|What time is the class?]] Add the part of the day with another **-e**: [[ساعت هفت صبح|sā'at-e haft-e sobh|at seven in the morning]], [[ساعت هشت شب|sā'at-e hasht-e shab|at eight in the evening]].",
    "table": {
-    "head": ["Persian", "Time", "English"],
+    "head": [
+     "Persian",
+     "Time",
+     "English"
+    ],
     "rows": [
-     ["[[ساعت دو است.|sā'at do ast.]]", "2:00", "It's two o'clock."],
-     ["[[ساعت دو و ده دقیقه است.|sā'at do o dah daghighe ast.]]", "2:10", "It's ten past two."],
-     ["[[ساعت دو و ربع است.|sā'at do o rob' ast.]]", "2:15", "It's a quarter past two."],
-     ["[[ساعت دو و نیم است.|sā'at do o nim ast.]]", "2:30", "It's half past two."],
-     ["[[ساعت یک ربع به سه است.|sā'at yek rob' be se ast.]]", "2:45", "It's a quarter to three."],
-     ["[[ساعت ده دقیقه به سه است.|sā'at dah daghighe be se ast.]]", "2:50", "It's ten to three."]
+     [
+      "[[ساعت دو است.|sā'at do ast.]]",
+      "2:00",
+      "It's two o'clock."
+     ],
+     [
+      "[[ساعت دو و ده دقیقه است.|sā'at do o dah daghighe ast.]]",
+      "2:10",
+      "It's ten past two."
+     ],
+     [
+      "[[ساعت دو و ربع است.|sā'at do o rob' ast.]]",
+      "2:15",
+      "It's a quarter past two."
+     ],
+     [
+      "[[ساعت دو و نیم است.|sā'at do o nim ast.]]",
+      "2:30",
+      "It's half past two."
+     ],
+     [
+      "[[ساعت یک ربع به سه است.|sā'at yek rob' be se ast.]]",
+      "2:45",
+      "It's a quarter to three."
+     ],
+     [
+      "[[ساعت ده دقیقه به سه است.|sā'at dah daghighe be se ast.]]",
+      "2:50",
+      "It's ten to three."
+     ]
     ]
    },
    "examples": [
-    {"fa": "ساعت چند است؟ ساعت هشت و نیم است.", "r": "sā'at chand ast? sā'at hasht o nim ast.", "en": "What time is it? It's half past eight.", "col": "ساعت چنده؟ ساعت هشت و نیمه.", "colR": "sā'at chande? sā'at hasht o nime."},
-    {"fa": "کلاس ساعت چند است؟ ساعت نه.", "r": "kelās sā'at-e chand ast? sā'at-e noh.", "en": "What time is the class? At nine."},
-    {"fa": "من ساعت هفت صبح بیدار می‌شوم.", "r": "man sā'at-e haft-e sobh bidār mi-shavam.", "en": "I get up at seven in the morning."},
-    {"fa": "بانک از ساعت هشت تا ساعت دو باز است.", "r": "bānk az sā'at-e hasht tā sā'at-e do bāz ast.", "en": "The bank is open from eight to two."},
-    {"fa": "فیلم دو ساعت و نیم است.", "r": "film do sā'at o nim ast.", "en": "The film is two and a half hours long."}
+    {
+     "fa": "ساعت چند است؟ ساعت هشت و نیم است.",
+     "r": "sā'at chand ast? sā'at hasht o nim ast.",
+     "en": "What time is it? It's half past eight.",
+     "col": "ساعت چنده؟ ساعت هشت و نیمه.",
+     "colR": "sā'at chande? sā'at hasht o nime.",
+     "faV": "ساعَت چَند اَست؟ ساعَت هَشت و نیم اَست.",
+     "a": "d62236fb057e",
+     "colV": "ساعَت چَنده؟ ساعَت هَشت و نیمه.",
+     "colA": "de491c4a1f6b"
+    },
+    {
+     "fa": "کلاس ساعت چند است؟ ساعت نه.",
+     "r": "kelās sā'at-e chand ast? sā'at-e noh.",
+     "en": "What time is the class? At nine.",
+     "faV": "کِلاس ساعَتِ چَند اَست؟ ساعَتِ نُه.",
+     "a": "f358ddf3a892"
+    },
+    {
+     "fa": "من ساعت هفت صبح بیدار می‌شوم.",
+     "r": "man sā'at-e haft-e sobh bidār mi-shavam.",
+     "en": "I get up at seven in the morning.",
+     "faV": "مَن ساعَتِ هَفتِ صُبح بیدار می‌شَوَم.",
+     "a": "0c203a82a907"
+    },
+    {
+     "fa": "بانک از ساعت هشت تا ساعت دو باز است.",
+     "r": "bānk az sā'at-e hasht tā sā'at-e do bāz ast.",
+     "en": "The bank is open from eight to two.",
+     "faV": "بانک اَز ساعَتِ هَشت تا ساعَتِ دو باز اَست.",
+     "a": "b9b4219cbe8d"
+    },
+    {
+     "fa": "فیلم دو ساعت و نیم است.",
+     "r": "film do sā'at o nim ast.",
+     "en": "The film is two and a half hours long.",
+     "faV": "فیلم دو ساعَت و نیم اَست.",
+     "a": "09542617dd4e"
+    }
    ]
   },
   {
@@ -89,22 +473,86 @@
    "title": "The week: from shanbe to jom'e",
    "md": "The Iranian week begins on **Saturday**, [[شنبه|shanbe]]. The next five days are simply counted from it – *one-shanbe, two-shanbe…* – so with the numbers you already know, you know the week. Only Friday has a name of its own: [[جمعه|jom'e]], *the day of gathering*, the weekly holiday.\n\nTo ask what day it is, Persian asks *how-many-shanbe?*: [[امروز چندشنبه است؟|emruz chand-shanbe ast?|What day is it today?]] For *on Monday* no preposition is needed – [[دوشنبه به اصفهان می‌روم.|do-shanbe be Esfahān mi-ravam.|On Monday I'm going to Isfahan.]] – or you can say [[روز دوشنبه|ruz-e do-shanbe|on Monday]]. Add **-hā** for a habit: [[جمعه‌ها|jom'e-hā|on Fridays]].",
    "table": {
-    "head": ["Persian", "Reading", "English", "Literally"],
+    "head": [
+     "Persian",
+     "Reading",
+     "English",
+     "Literally"
+    ],
     "rows": [
-     ["[[شنبه|shanbe]]", "shanbe", "Saturday", "from 'Sabbath'"],
-     ["[[یک‌شنبه|yek-shanbe]]", "yek-shanbe", "Sunday", "one (after) shanbe"],
-     ["[[دوشنبه|do-shanbe]]", "do-shanbe", "Monday", "two (after) shanbe"],
-     ["[[سه‌شنبه|se-shanbe]]", "se-shanbe", "Tuesday", "three (after) shanbe"],
-     ["[[چهارشنبه|chahār-shanbe]]", "chahār-shanbe", "Wednesday", "four (after) shanbe"],
-     ["[[پنج‌شنبه|panj-shanbe]]", "panj-shanbe", "Thursday", "five (after) shanbe"],
-     ["[[جمعه|jom'e]]", "jom'e", "Friday", "(the day of) gathering"]
+     [
+      "[[شنبه|shanbe]]",
+      "shanbe",
+      "Saturday",
+      "from 'Sabbath'"
+     ],
+     [
+      "[[یک‌شنبه|yek-shanbe]]",
+      "yek-shanbe",
+      "Sunday",
+      "one (after) shanbe"
+     ],
+     [
+      "[[دوشنبه|do-shanbe]]",
+      "do-shanbe",
+      "Monday",
+      "two (after) shanbe"
+     ],
+     [
+      "[[سه‌شنبه|se-shanbe]]",
+      "se-shanbe",
+      "Tuesday",
+      "three (after) shanbe"
+     ],
+     [
+      "[[چهارشنبه|chahār-shanbe]]",
+      "chahār-shanbe",
+      "Wednesday",
+      "four (after) shanbe"
+     ],
+     [
+      "[[پنج‌شنبه|panj-shanbe]]",
+      "panj-shanbe",
+      "Thursday",
+      "five (after) shanbe"
+     ],
+     [
+      "[[جمعه|jom'e]]",
+      "jom'e",
+      "Friday",
+      "(the day of) gathering"
+     ]
     ]
    },
    "examples": [
-    {"fa": "امروز چندشنبه است؟ امروز چهارشنبه است.", "r": "emruz chand-shanbe ast? emruz chahār-shanbe ast.", "en": "What day is it today? Today is Wednesday."},
-    {"fa": "فردا پنج‌شنبه است.", "r": "fardā panj-shanbe ast.", "en": "Tomorrow is Thursday."},
-    {"fa": "جمعه‌ها به خانه‌ی مادربزرگم می‌روم.", "r": "jom'e-hā be khāne-ye mādar-bozorg-am mi-ravam.", "en": "On Fridays I go to my grandmother's house."},
-    {"fa": "کلاس فارسی شنبه و دوشنبه است.", "r": "kelās-e fārsi shanbe va do-shanbe ast.", "en": "The Persian class is on Saturday and Monday."}
+    {
+     "fa": "امروز چندشنبه است؟ امروز چهارشنبه است.",
+     "r": "emruz chand-shanbe ast? emruz chahār-shanbe ast.",
+     "en": "What day is it today? Today is Wednesday.",
+     "faV": "اِمروز چَندشَنبه اَست؟ اِمروز چَهارشَنبه اَست.",
+     "a": "2ed672e342c4"
+    },
+    {
+     "fa": "فردا پنج‌شنبه است.",
+     "r": "fardā panj-shanbe ast.",
+     "en": "Tomorrow is Thursday.",
+     "faV": "فَردا پَنج‌شَنبه اَست.",
+     "a": "724ce75c642e"
+    },
+    {
+     "fa": "جمعه‌ها به خانه‌ی مادربزرگم می‌روم.",
+     "r": "jom'e-hā be khāne-ye mādar-bozorg-am mi-ravam.",
+     "en": "On Fridays I go to my grandmother's house.",
+     "faV": "جُمعه‌ها به خانه‌یِ مادَربُزُرگَم می‌رَوَم.",
+     "a": "170ea6c69958"
+    },
+    {
+     "fa": "کلاس فارسی شنبه و دوشنبه است.",
+     "r": "kelās-e fārsi shanbe va do-shanbe ast.",
+     "en": "The Persian class is on Saturday and Monday.",
+     "faV": "کِلاسِ فارسی شَنبه و دوشَنبه اَست.",
+     "a": "d0b7dc83c17f"
+    }
    ]
   },
   {
@@ -112,28 +560,131 @@
    "title": "Months, dates and birthdays",
    "md": "The Iranian year has twelve months, and each season has exactly three. The year begins with spring, on the first day of [[فروردین|Farvardin]] – about 21 March – which is [[نوروز|nowruz|New Year]]. The first six months have 31 days, the next five have 30, and [[اسفند|Esfand]] has 29 (30 in a leap year).\n\nFor a date, turn the number into a *-th* word by adding **-om**: [[پنج|panj|five]] → [[پنجم|panjom|fifth]], [[ده|dah|ten]] → [[دهم|dahom|tenth]], [[بیست و یک|bist o yek|twenty-one]] → [[بیست و یکم|bist o yekom|twenty-first]]. Two are slightly irregular: [[دوم|dovvom|second]] and [[سوم|sevvom|third]]. Then link the date to the month with **-e**: [[پنجم مهر|panjom-e Mehr|the fifth of Mehr]]. The first of the month is usually [[اول|avval]]: [[اول فروردین|avval-e Farvardin|the first of Farvardin]].\n\n*In* a month is [[در|dar]]: [[در اسفند|dar Esfand|in Esfand]]. *What's the date today?* is [[امروز چندم است؟|emruz chandom ast?]] – literally *today is the how-many-th?*",
    "table": {
-    "head": ["Month", "No.", "Season", "Begins around"],
+    "head": [
+     "Month",
+     "No.",
+     "Season",
+     "Begins around"
+    ],
     "rows": [
-     ["[[فروردین|Farvardin]]", "1", "[[بهار|bahār]] spring", "21 March"],
-     ["[[اردیبهشت|Ordibehesht]]", "2", "spring", "21 April"],
-     ["[[خرداد|Khordād]]", "3", "spring", "22 May"],
-     ["[[تیر|Tir]]", "4", "[[تابستان|tābestān]] summer", "22 June"],
-     ["[[مرداد|Mordād]]", "5", "summer", "23 July"],
-     ["[[شهریور|Shahrivar]]", "6", "summer", "23 August"],
-     ["[[مهر|Mehr]]", "7", "[[پاییز|pāyiz]] autumn", "23 September"],
-     ["[[آبان|Ābān]]", "8", "autumn", "23 October"],
-     ["[[آذر|Āzar]]", "9", "autumn", "22 November"],
-     ["[[دی|Dey]]", "10", "[[زمستان|zemestān]] winter", "22 December"],
-     ["[[بهمن|Bahman]]", "11", "winter", "21 January"],
-     ["[[اسفند|Esfand]]", "12", "winter", "20 February"]
+     [
+      "[[فروردین|Farvardin]]",
+      "1",
+      "[[بهار|bahār]] spring",
+      "21 March"
+     ],
+     [
+      "[[اردیبهشت|Ordibehesht]]",
+      "2",
+      "spring",
+      "21 April"
+     ],
+     [
+      "[[خرداد|Khordād]]",
+      "3",
+      "spring",
+      "22 May"
+     ],
+     [
+      "[[تیر|Tir]]",
+      "4",
+      "[[تابستان|tābestān]] summer",
+      "22 June"
+     ],
+     [
+      "[[مرداد|Mordād]]",
+      "5",
+      "summer",
+      "23 July"
+     ],
+     [
+      "[[شهریور|Shahrivar]]",
+      "6",
+      "summer",
+      "23 August"
+     ],
+     [
+      "[[مهر|Mehr]]",
+      "7",
+      "[[پاییز|pāyiz]] autumn",
+      "23 September"
+     ],
+     [
+      "[[آبان|Ābān]]",
+      "8",
+      "autumn",
+      "23 October"
+     ],
+     [
+      "[[آذر|Āzar]]",
+      "9",
+      "autumn",
+      "22 November"
+     ],
+     [
+      "[[دی|Dey]]",
+      "10",
+      "[[زمستان|zemestān]] winter",
+      "22 December"
+     ],
+     [
+      "[[بهمن|Bahman]]",
+      "11",
+      "winter",
+      "21 January"
+     ],
+     [
+      "[[اسفند|Esfand]]",
+      "12",
+      "winter",
+      "20 February"
+     ]
     ]
    },
    "examples": [
-    {"fa": "امروز چندم است؟ امروز دهم دی است.", "r": "emruz chandom ast? emruz dahom-e Dey ast.", "en": "What's the date today? Today is the tenth of Dey."},
-    {"fa": "تولد تو کِی است؟ سوم خرداد.", "r": "tavallod-e to key ast? sevvom-e Khordād.", "en": "When is your birthday? The third of Khordad.", "col": "تولدت کِیه؟ سوم خرداد.", "colR": "tavallod-et keye? sevvom-e Khordād."},
-    {"fa": "مدرسه‌ها اول مهر باز می‌شوند.", "r": "madrese-hā avval-e Mehr bāz mi-shavand.", "en": "Schools open on the first of Mehr."},
-    {"fa": "تولد من در تیر است، در تابستان.", "r": "tavallod-e man dar Tir ast, dar tābestān.", "en": "My birthday is in Tir, in the summer."},
-    {"fa": "تولدت مبارک!", "r": "tavallod-at mobārak!", "en": "Happy birthday!", "col": "تولدت مبارک!", "colR": "tavallod-et mobārak!"}
+    {
+     "fa": "امروز چندم است؟ امروز دهم دی است.",
+     "r": "emruz chandom ast? emruz dahom-e Dey ast.",
+     "en": "What's the date today? Today is the tenth of Dey.",
+     "faV": "اِمروز چَندُم اَست؟ اِمروز دَهُمِ دَی اَست.",
+     "a": "e53f7c0a0807"
+    },
+    {
+     "fa": "تولد تو کِی است؟ سوم خرداد.",
+     "r": "tavallod-e to key ast? sevvom-e Khordād.",
+     "en": "When is your birthday? The third of Khordad.",
+     "col": "تولدت کِیه؟ سوم خرداد.",
+     "colR": "tavallod-et keye? sevvom-e Khordād.",
+     "faV": "تَوَلُّدِ تو کَی اَست؟ سِوُّمِ خُرداد.",
+     "a": "61c85963b967",
+     "colV": "تَوَلُّدِت کِیه؟ سِوُّمِ خُرداد.",
+     "colA": "9aa3e4faa1be"
+    },
+    {
+     "fa": "مدرسه‌ها اول مهر باز می‌شوند.",
+     "r": "madrese-hā avval-e Mehr bāz mi-shavand.",
+     "en": "Schools open on the first of Mehr.",
+     "faV": "مَدرِسه‌ها اَوَّلِ مِهر باز می‌شَوَند.",
+     "a": "d8a4026d479e"
+    },
+    {
+     "fa": "تولد من در تیر است، در تابستان.",
+     "r": "tavallod-e man dar Tir ast, dar tābestān.",
+     "en": "My birthday is in Tir, in the summer.",
+     "faV": "تَوَلُّدِ مَن دَر تیر اَست، دَر تابِستان.",
+     "a": "78d9044986f4"
+    },
+    {
+     "fa": "تولدت مبارک!",
+     "r": "tavallod-at mobārak!",
+     "en": "Happy birthday!",
+     "col": "تولدت مبارک!",
+     "colR": "tavallod-et mobārak!",
+     "faV": "تَوَلُّدَت مُبارَک!",
+     "a": "5f0fb763ce64",
+     "colV": "تَوَلُّدِت مُبارَک!",
+     "colA": "740ed902b497"
+    }
    ]
   },
   {
@@ -141,18 +692,84 @@
    "title": "Nowruz",
    "intro": "How Iranians celebrate the new year. Read and answer the questions.",
    "sentences": [
-    {"fa": "نوروز روز اول سال ایرانی است.", "r": "nowruz ruz-e avval-e sāl-e irāni ast.", "en": "Nowruz is the first day of the Iranian year."},
-    {"fa": "سال نو اول فروردین، روز اول بهار، شروع می‌شود.", "r": "sāl-e now avval-e Farvardin, ruz-e avval-e bahār, shoru' mi-shavad.", "en": "The new year begins on the first of Farvardin, the first day of spring."},
-    {"fa": "خانواده‌ها دور سفره‌ی هفت‌سین می‌نشینند.", "r": "khānevāde-hā dor-e sofre-ye haft-sin mi-neshinand.", "en": "Families sit around the haft-sin spread."},
-    {"fa": "بعد همه می‌گویند: «سال نو مبارک!»", "r": "ba'd hame mi-guyand: «sāl-e now mobārak!»", "en": "Then everyone says: \"Happy New Year!\""},
-    {"fa": "بچه‌ها از پدربزرگ و مادربزرگ عیدی می‌گیرند.", "r": "bacche-hā az pedar-bozorg o mādar-bozorg eydi mi-girand.", "en": "The children get eydi – New Year money – from their grandparents."},
-    {"fa": "مدرسه‌ها دو هفته تعطیل هستند و مردم به خانه‌ی فامیل می‌روند.", "r": "madrese-hā do hafte ta'til hastand va mardom be khāne-ye fāmil mi-ravand.", "en": "Schools are closed for two weeks, and people visit their relatives."},
-    {"fa": "روز سیزدهم فروردین همه به طبیعت می‌روند؛ این روز سیزده‌بدر است.", "r": "ruz-e sizdahom-e Farvardin hame be tabi'at mi-ravand; in ruz sizdah-bedar ast.", "en": "On the thirteenth of Farvardin everyone goes out into nature; this day is Sizdah Bedar."}
+    {
+     "fa": "نوروز روز اول سال ایرانی است.",
+     "r": "nowruz ruz-e avval-e sāl-e irāni ast.",
+     "en": "Nowruz is the first day of the Iranian year.",
+     "faV": "نَوروز روزِ اَوَّلِ سالِ ایرانی اَست.",
+     "a": "3c9d4621fa37"
+    },
+    {
+     "fa": "سال نو اول فروردین، روز اول بهار، شروع می‌شود.",
+     "r": "sāl-e now avval-e Farvardin, ruz-e avval-e bahār, shoru' mi-shavad.",
+     "en": "The new year begins on the first of Farvardin, the first day of spring.",
+     "faV": "سالِ نَو اَوَّلِ فَروَردین، روزِ اَوَّلِ بَهار، شُروع می‌شَوَد.",
+     "a": "5a1950f59ae8"
+    },
+    {
+     "fa": "خانواده‌ها دور سفره‌ی هفت‌سین می‌نشینند.",
+     "r": "khānevāde-hā dor-e sofre-ye haft-sin mi-neshinand.",
+     "en": "Families sit around the haft-sin spread.",
+     "faV": "خانِواده‌ها دورِ سُفره‌یِ هَفت‌سین می‌نِشینَند.",
+     "a": "85a0ae43cdd6"
+    },
+    {
+     "fa": "بعد همه می‌گویند: «سال نو مبارک!»",
+     "r": "ba'd hame mi-guyand: «sāl-e now mobārak!»",
+     "en": "Then everyone says: \"Happy New Year!\"",
+     "faV": "بَعد هَمه می‌گویَند: «سالِ نَو مُبارَک!»",
+     "a": "e785f1b55970"
+    },
+    {
+     "fa": "بچه‌ها از پدربزرگ و مادربزرگ عیدی می‌گیرند.",
+     "r": "bacche-hā az pedar-bozorg o mādar-bozorg eydi mi-girand.",
+     "en": "The children get eydi – New Year money – from their grandparents.",
+     "faV": "بَچّه‌ها اَز پِدَربُزُرگ و مادَربُزُرگ عَیدی می‌گیرَند.",
+     "a": "1882e69eae1f"
+    },
+    {
+     "fa": "مدرسه‌ها دو هفته تعطیل هستند و مردم به خانه‌ی فامیل می‌روند.",
+     "r": "madrese-hā do hafte ta'til hastand va mardom be khāne-ye fāmil mi-ravand.",
+     "en": "Schools are closed for two weeks, and people visit their relatives.",
+     "faV": "مَدرِسه‌ها دو هَفته تَعطیل هَستَند و مَردُم به خانه‌یِ فامیل می‌رَوَند.",
+     "a": "aa4790bcbe15"
+    },
+    {
+     "fa": "روز سیزدهم فروردین همه به طبیعت می‌روند؛ این روز سیزده‌بدر است.",
+     "r": "ruz-e sizdahom-e Farvardin hame be tabi'at mi-ravand; in ruz sizdah-bedar ast.",
+     "en": "On the thirteenth of Farvardin everyone goes out into nature; this day is Sizdah Bedar.",
+     "faV": "روزِ سیزدَهُمِ فَروَردین هَمه به طَبیعَت می‌رَوَند؛ این روز سیزدَه‌بِدَر اَست.",
+     "a": "9641c0d25f77"
+    }
    ],
    "questions": [
-    {"q": "When does the Iranian new year begin?", "options": ["on the first day of spring", "on the first day of winter", "on 1 January"], "answer": 0},
-    {"q": "What do children get at Nowruz?", "options": ["a cake", "eydi, New Year money", "a book"], "answer": 1},
-    {"q": "What do people do on Sizdah Bedar?", "options": ["they go to school", "they go out into nature", "they stay at home"], "answer": 1}
+    {
+     "q": "When does the Iranian new year begin?",
+     "options": [
+      "on the first day of spring",
+      "on the first day of winter",
+      "on 1 January"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What do children get at Nowruz?",
+     "options": [
+      "a cake",
+      "eydi, New Year money",
+      "a book"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What do people do on Sizdah Bedar?",
+     "options": [
+      "they go to school",
+      "they go out into nature",
+      "they stay at home"
+     ],
+     "answer": 1
+    }
    ]
   },
   {
@@ -177,13 +794,55 @@
    "kind": "match",
    "title": "Match the days",
    "items": [
-    {"fa": "شنبه", "r": "shanbe", "en": "Saturday"},
-    {"fa": "یک‌شنبه", "r": "yek-shanbe", "en": "Sunday"},
-    {"fa": "دوشنبه", "r": "do-shanbe", "en": "Monday"},
-    {"fa": "سه‌شنبه", "r": "se-shanbe", "en": "Tuesday"},
-    {"fa": "چهارشنبه", "r": "chahār-shanbe", "en": "Wednesday"},
-    {"fa": "پنج‌شنبه", "r": "panj-shanbe", "en": "Thursday"},
-    {"fa": "جمعه", "r": "jom'e", "en": "Friday"}
+    {
+     "fa": "شنبه",
+     "r": "shanbe",
+     "en": "Saturday",
+     "faV": "شَنبه",
+     "a": "abd847e756ac"
+    },
+    {
+     "fa": "یک‌شنبه",
+     "r": "yek-shanbe",
+     "en": "Sunday",
+     "faV": "یِک‌شَنبه",
+     "a": "c4350f77e052"
+    },
+    {
+     "fa": "دوشنبه",
+     "r": "do-shanbe",
+     "en": "Monday",
+     "faV": "دوشَنبه",
+     "a": "76146ca364a3"
+    },
+    {
+     "fa": "سه‌شنبه",
+     "r": "se-shanbe",
+     "en": "Tuesday",
+     "faV": "سه‌شَنبه",
+     "a": "46865534e4ac"
+    },
+    {
+     "fa": "چهارشنبه",
+     "r": "chahār-shanbe",
+     "en": "Wednesday",
+     "faV": "چَهارشَنبه",
+     "a": "c76e161090f2"
+    },
+    {
+     "fa": "پنج‌شنبه",
+     "r": "panj-shanbe",
+     "en": "Thursday",
+     "faV": "پَنج‌شَنبه",
+     "a": "317e96c5f985"
+    },
+    {
+     "fa": "جمعه",
+     "r": "jom'e",
+     "en": "Friday",
+     "faV": "جُمعه",
+     "a": "1f1f1c508969"
+    }
    ]
   },
   {
@@ -191,12 +850,66 @@
    "kind": "mcq",
    "title": "Choose the right answer",
    "items": [
-    {"q": "[[ساعت پنج و نیم است.|sā'at panj o nim ast.]] What time is it?", "options": ["5:15", "5:30", "4:30"], "answer": 1, "explain": "nim = half: half past five."},
-    {"q": "[[ساعت یک ربع به هشت است.|sā'at yek rob' be hasht ast.]] What time is it?", "options": ["8:15", "7:45", "8:45"], "answer": 1, "explain": "yek rob' be hasht = a quarter to eight."},
-    {"q": "Which month begins the Iranian year?", "options": ["اسفند", "فروردین", "مهر"], "answer": 1, "explain": "The first of Farvardin, around 21 March, is Nowruz."},
-    {"q": "How do you ask 'when?'", "options": ["کجا", "کِی", "چند"], "answer": 1, "explain": "key = when; kojā = where; chand = how many."},
-    {"q": "Which is the first day of the Iranian week?", "options": ["شنبه", "یک‌شنبه", "جمعه"], "answer": 0, "explain": "The week starts on shanbe, Saturday; jom'e, Friday, is the day off."},
-    {"q": "Your friend tells you it's her birthday. You say…", "options": ["نوش جان!", "تولدت مبارک!", "خدا حافظ!"], "answer": 1, "explain": "tavallod-at mobārak = happy birthday."}
+    {
+     "q": "[[ساعت پنج و نیم است.|sā'at panj o nim ast.]] What time is it?",
+     "options": [
+      "5:15",
+      "5:30",
+      "4:30"
+     ],
+     "answer": 1,
+     "explain": "nim = half: half past five."
+    },
+    {
+     "q": "[[ساعت یک ربع به هشت است.|sā'at yek rob' be hasht ast.]] What time is it?",
+     "options": [
+      "8:15",
+      "7:45",
+      "8:45"
+     ],
+     "answer": 1,
+     "explain": "yek rob' be hasht = a quarter to eight."
+    },
+    {
+     "q": "Which month begins the Iranian year?",
+     "options": [
+      "اسفند",
+      "فروردین",
+      "مهر"
+     ],
+     "answer": 1,
+     "explain": "The first of Farvardin, around 21 March, is Nowruz."
+    },
+    {
+     "q": "How do you ask 'when?'",
+     "options": [
+      "کجا",
+      "کِی",
+      "چند"
+     ],
+     "answer": 1,
+     "explain": "key = when; kojā = where; chand = how many."
+    },
+    {
+     "q": "Which is the first day of the Iranian week?",
+     "options": [
+      "شنبه",
+      "یک‌شنبه",
+      "جمعه"
+     ],
+     "answer": 0,
+     "explain": "The week starts on shanbe, Saturday; jom'e, Friday, is the day off."
+    },
+    {
+     "q": "Your friend tells you it's her birthday. You say…",
+     "options": [
+      "نوش جان!",
+      "تولدت مبارک!",
+      "خدا حافظ!"
+     ],
+     "answer": 1,
+     "explain": "tavallod-at mobārak = happy birthday."
+    }
    ]
   },
   {
@@ -204,11 +917,41 @@
    "kind": "fill",
    "title": "Complete the sentences",
    "items": [
-    {"fa": "ساعت دو ___ نیم است.", "r": "sā'at do ___ nim ast.", "en": "It's half past two.", "answer": "و", "hint": "and"},
-    {"fa": "امروز سه‌شنبه است، فردا ___ است.", "r": "emruz se-shanbe ast, fardā ___ ast.", "en": "Today is Tuesday, tomorrow is Wednesday.", "answer": "چهارشنبه", "hint": "Wednesday"},
-    {"fa": "نوروز اول ___ است.", "r": "nowruz avval-e ___ ast.", "en": "Nowruz is on the first of Farvardin.", "answer": "فروردین", "hint": "the first month"},
-    {"fa": "تولد تو ___ است؟", "r": "tavallod-e to ___ ast?", "en": "When is your birthday?", "answer": "کِی", "hint": "when"},
-    {"fa": "تولدت ___!", "r": "tavallod-at ___!", "en": "Happy birthday!", "answer": "مبارک", "hint": "blessed"}
+    {
+     "fa": "ساعت دو ___ نیم است.",
+     "r": "sā'at do ___ nim ast.",
+     "en": "It's half past two.",
+     "answer": "و",
+     "hint": "and"
+    },
+    {
+     "fa": "امروز سه‌شنبه است، فردا ___ است.",
+     "r": "emruz se-shanbe ast, fardā ___ ast.",
+     "en": "Today is Tuesday, tomorrow is Wednesday.",
+     "answer": "چهارشنبه",
+     "hint": "Wednesday"
+    },
+    {
+     "fa": "نوروز اول ___ است.",
+     "r": "nowruz avval-e ___ ast.",
+     "en": "Nowruz is on the first of Farvardin.",
+     "answer": "فروردین",
+     "hint": "the first month"
+    },
+    {
+     "fa": "تولد تو ___ است؟",
+     "r": "tavallod-e to ___ ast?",
+     "en": "When is your birthday?",
+     "answer": "کِی",
+     "hint": "when"
+    },
+    {
+     "fa": "تولدت ___!",
+     "r": "tavallod-at ___!",
+     "en": "Happy birthday!",
+     "answer": "مبارک",
+     "hint": "blessed"
+    }
    ]
   },
   {
@@ -216,10 +959,34 @@
    "kind": "order",
    "title": "Put the words in order",
    "items": [
-    {"fa": "تولد تو کِی است؟", "r": "tavallod-e to key ast?", "en": "When is your birthday?"},
-    {"fa": "ساعت سه و ربع است.", "r": "sā'at se o rob' ast.", "en": "It's a quarter past three."},
-    {"fa": "جمعه‌ها به خانه‌ی مادربزرگم می‌روم.", "r": "jom'e-hā be khāne-ye mādar-bozorg-am mi-ravam.", "en": "On Fridays I go to my grandmother's house."},
-    {"fa": "مدرسه‌ها اول مهر باز می‌شوند.", "r": "madrese-hā avval-e Mehr bāz mi-shavand.", "en": "Schools open on the first of Mehr."}
+    {
+     "fa": "تولد تو کِی است؟",
+     "r": "tavallod-e to key ast?",
+     "en": "When is your birthday?",
+     "faV": "تَوَلُّدِ تو کَی اَست؟",
+     "a": "4610028cb89a"
+    },
+    {
+     "fa": "ساعت سه و ربع است.",
+     "r": "sā'at se o rob' ast.",
+     "en": "It's a quarter past three.",
+     "faV": "ساعَت سه و رُبع اَست.",
+     "a": "d2c1f4264cb4"
+    },
+    {
+     "fa": "جمعه‌ها به خانه‌ی مادربزرگم می‌روم.",
+     "r": "jom'e-hā be khāne-ye mādar-bozorg-am mi-ravam.",
+     "en": "On Fridays I go to my grandmother's house.",
+     "faV": "جُمعه‌ها به خانه‌یِ مادَربُزُرگَم می‌رَوَم.",
+     "a": "170ea6c69958"
+    },
+    {
+     "fa": "مدرسه‌ها اول مهر باز می‌شوند.",
+     "r": "madrese-hā avval-e Mehr bāz mi-shavand.",
+     "en": "Schools open on the first of Mehr.",
+     "faV": "مَدرِسه‌ها اَوَّلِ مِهر باز می‌شَوَند.",
+     "a": "d8a4026d479e"
+    }
    ]
   },
   {
@@ -227,9 +994,45 @@
    "kind": "listen",
    "title": "Listen and choose",
    "items": [
-    {"fa": "ساعت ده دقیقه به نه است.", "r": "sā'at dah daghighe be noh ast.", "en": "It's ten to nine.", "options": ["9:10", "8:50", "10:09"], "answer": 1},
-    {"fa": "تولد من پنجم مهر است.", "r": "tavallod-e man panjom-e Mehr ast.", "en": "My birthday is on the fifth of Mehr.", "options": ["My birthday is on the fifth of Mehr.", "My birthday is in the fifth month.", "My birthday party is on Friday."], "answer": 0},
-    {"fa": "امروز پنج‌شنبه است.", "r": "emruz panj-shanbe ast.", "en": "Today is Thursday.", "options": ["Today is Tuesday.", "Today is Thursday.", "Tomorrow is Thursday."], "answer": 1}
+    {
+     "fa": "ساعت ده دقیقه به نه است.",
+     "r": "sā'at dah daghighe be noh ast.",
+     "en": "It's ten to nine.",
+     "options": [
+      "9:10",
+      "8:50",
+      "10:09"
+     ],
+     "answer": 1,
+     "faV": "ساعَت دَه دَقیقه به نُه اَست.",
+     "a": "26230e751dae"
+    },
+    {
+     "fa": "تولد من پنجم مهر است.",
+     "r": "tavallod-e man panjom-e Mehr ast.",
+     "en": "My birthday is on the fifth of Mehr.",
+     "options": [
+      "My birthday is on the fifth of Mehr.",
+      "My birthday is in the fifth month.",
+      "My birthday party is on Friday."
+     ],
+     "answer": 0,
+     "faV": "تَوَلُّدِ مَن پَنجُمِ مِهر اَست.",
+     "a": "687a380fa9e8"
+    },
+    {
+     "fa": "امروز پنج‌شنبه است.",
+     "r": "emruz panj-shanbe ast.",
+     "en": "Today is Thursday.",
+     "options": [
+      "Today is Tuesday.",
+      "Today is Thursday.",
+      "Tomorrow is Thursday."
+     ],
+     "answer": 1,
+     "faV": "اِمروز پَنج‌شَنبه اَست.",
+     "a": "1367692f8232"
+    }
    ]
   },
   {
@@ -237,12 +1040,44 @@
    "kind": "translate",
    "title": "Say it in Persian",
    "items": [
-    {"en": "What time is it?", "fa": "ساعت چند است؟", "r": "sā'at chand ast?"},
-    {"en": "It's half past six.", "fa": "ساعت شش و نیم است.", "r": "sā'at shesh o nim ast."},
-    {"en": "Today is Friday.", "fa": "امروز جمعه است.", "r": "emruz jom'e ast."},
-    {"en": "My birthday is on the tenth of Dey.", "fa": "تولد من دهم دی است.", "r": "tavallod-e man dahom-e Dey ast."},
-    {"en": "What time is the class?", "fa": "کلاس ساعت چند است؟", "r": "kelās sā'at-e chand ast?"}
+    {
+     "en": "What time is it?",
+     "fa": "ساعت چند است؟",
+     "r": "sā'at chand ast?",
+     "faV": "ساعَت چَند اَست؟",
+     "a": "d5ff0bd4e4c7"
+    },
+    {
+     "en": "It's half past six.",
+     "fa": "ساعت شش و نیم است.",
+     "r": "sā'at shesh o nim ast.",
+     "faV": "ساعَت شِش و نیم اَست.",
+     "a": "c98368e3dcc0"
+    },
+    {
+     "en": "Today is Friday.",
+     "fa": "امروز جمعه است.",
+     "r": "emruz jom'e ast.",
+     "faV": "اِمروز جُمعه اَست.",
+     "a": "5af091b02d3f"
+    },
+    {
+     "en": "My birthday is on the tenth of Dey.",
+     "fa": "تولد من دهم دی است.",
+     "r": "tavallod-e man dahom-e Dey ast.",
+     "faV": "تَوَلُّدِ مَن دَهُمِ دَی اَست.",
+     "a": "c088041ca0d9"
+    },
+    {
+     "en": "What time is the class?",
+     "fa": "کلاس ساعت چند است؟",
+     "r": "kelās sā'at-e chand ast?",
+     "faV": "کِلاس ساعَتِ چَند اَست؟",
+     "a": "d11e6e933dda"
+    }
    ]
   }
- ]
+ ],
+ "titleV": "ساعَت و تاریخ",
+ "titleA": "19a4d77d6e95"
 }

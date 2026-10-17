@@ -1,0 +1,72 @@
+{
+ "id": "history-qajar-century",
+ "topic": "history",
+ "title": "The Qajar century",
+ "titleFa": "دوران قاجار",
+ "titleR": "dowrān-e Ghājār",
+ "image": "golestan-palace",
+ "summary": "From the 1790s to 1925 the Qajar shahs ruled Iran from a new capital, Tehran. It was an age of lost wars and foreign pressure, but also of the first modern schools, newspapers and photographs – and of a protest movement that ended in revolution.",
+ "body": [
+  {
+   "h": "After the Safavids",
+   "md": "The decades after the fall of Isfahan belonged to warlords. After [[نادر شاه|Nāder Shāh]] was murdered in 1747, the most popular of them, [[کریم خان زند|Karim Khān-e Zand|Karim Khan Zand]], ruled from Shiraz (1751–1779). He refused the title of shah and called himself instead [[وکیل الرعایا|vakil-or-ra'āyā|the people's regent]]; his citadel and bazaar still stand in the city.\n\nThe winner of the struggle that followed was [[آقامحمدخان قاجار|Āghā-Mohammad-khān-e Ghājār|Agha Mohammad Khan Qajar]], chief of a Turkmen tribe from the south-east corner of the Caspian. Castrated as a boy by a rival, he was famous for his cruelty. In 1786 he made the small town of [[تهران|Tehrān|Tehran]] his capital, and in 1796 he was crowned shah. A year later he was murdered by his own servants, but the [[قاجار|Ghājār|Qajar]] dynasty he founded ruled until 1925.",
+   "image": "karim-khan-citadel"
+  },
+  {
+   "h": "Wars with Russia",
+   "md": "The second Qajar shah, Fath-Ali Shah (ruled 1797–1834), famous for his long black beard and jewelled robes, faced a new enemy: the Russian Empire, pushing south into the Caucasus. Two wars ended in two disastrous treaties, [[گلستان|Golestān|Golestan]] (1813) and [[ترکمانچای|Torkamānchāy|Turkmenchay]] (1828). Iran lost Georgia, Daghestan and the lands that are now Armenia and the Republic of Azerbaijan; the Aras river became the border; and Russian subjects in Iran were exempted from Iranian courts. In Persian, 'Turkmenchay' is still shorthand for a humiliating treaty. When a Tehran crowd killed the Russian envoy, the playwright Alexander Griboyedov, in 1829, the shah had to send apologies – and a famous diamond – to St Petersburg.\n\nBritain, meanwhile, guarded the road to India, and in 1857 it forced Iran to give up its claim to Herat. For the rest of the century the two powers competed for influence in Tehran."
+  },
+  {
+   "h": "Naser al-Din Shah and Amir Kabir",
+   "md": "The longest reign was that of [[ناصرالدین شاه|Nāser-od-din Shāh|Naser al-Din Shah]] (1848–1896). His first chief minister, [[امیرکبیر|Amir-kabir|Amir Kabir]], tried to modernise the country in a hurry: he reformed the army and the treasury, fought corruption, started a newspaper and in 1851 founded the [[دارالفنون|Dār-ol-fonun|'House of Sciences']], Iran's first modern school, with European teachers. Enemies at court turned the young shah against him, and in 1852 he was killed in the bathhouse of the Fin Garden in Kashan. Many Iranians still see him as the great reformer who might have changed everything.\n\nNaser al-Din himself was curious about the modern world. He was the first Iranian king to visit Europe, in 1873, kept diaries of his journeys and was a keen photographer. But to pay for his court he sold [[امتیاز|emtiyāz|concessions]] to foreigners. When in 1890 he gave a British company a monopoly over Iran's tobacco, merchants and clergy protested, a leading cleric declared smoking forbidden, and Iranians put away their [[قلیان|ghalyān|water pipes]] – reportedly even in the shah's own harem. The concession was cancelled. In 1896 the shah was assassinated.",
+   "image": "amir-kabir"
+  },
+  {
+   "h": "A changing country",
+   "md": "Qajar Iran was poor and weak, but it was changing. The telegraph arrived in the 1860s, and Iranians who studied or traded abroad brought home new ideas about law, science and the nation. Tehran grew from a town into a city of palaces and gardens around the [[کاخ گلستان|kākh-e Golestān|Golestan Palace]]. Painters mixed Persian and European styles in large oil portraits of almond-eyed princes, and in [[قهوه‌خانه|ghahve-khāne|coffeehouse]] paintings of Shahnameh heroes. By 1900, though, the state was deep in debt to Russia and Britain, and in 1901 a British investor, William Knox D'Arcy, bought the right to look for oil across most of the country. Many Iranians felt their country was being sold piece by piece – the anger that led to the Constitutional Revolution of 1906.",
+   "image": "qajar-painting"
+  }
+ ],
+ "sentences": [
+  {"fa": "آقامحمدخان قاجار تهران را پایتخت کرد.", "r": "Āghā-Mohammad-khān-e Ghājār Tehrān rā pāytakht kard.", "en": "Agha Mohammad Khan Qajar made Tehran the capital."},
+  {"fa": "تهران در آن زمان شهر کوچکی بود.", "r": "Tehrān dar ān zamān shahr-e kuchak-i bud.", "en": "At that time Tehran was a small town."},
+  {"fa": "کریم خان زند در شیراز حکومت می‌کرد.", "r": "Karim Khān-e Zand dar Shirāz hokumat mi-kard.", "en": "Karim Khan Zand ruled in Shiraz."},
+  {"fa": "ایران در دو جنگ با روسیه سرزمین‌های قفقاز را از دست داد.", "r": "Irān dar do jang bā Rusiye sarzamin-hā-ye Ghafghāz rā az dast dād.", "en": "In two wars with Russia, Iran lost its lands in the Caucasus."},
+  {"fa": "پیمان ترکمانچای در سال ۱۸۲۸ امضا شد.", "r": "peymān-e Torkamānchāy dar sāl-e hezār-o-hashtsad-o-bist-o-hasht emzā shod.", "en": "The Treaty of Turkmenchay was signed in 1828."},
+  {"fa": "امیرکبیر مدرسه‌ی دارالفنون را در سال ۱۸۵۱ ساخت.", "r": "Amir-kabir madrese-ye Dār-ol-fonun rā dar sāl-e hezār-o-hashtsad-o-panjāh-o-yek sākht.", "en": "Amir Kabir founded the Dar ol-Fonun school in 1851.", "lit": "Amir Kabir built the Dar ol-Fonun school in the year 1851"},
+  {"fa": "دارالفنون نخستین مدرسه‌ی جدید ایران بود.", "r": "Dār-ol-fonun nokhostin madrese-ye jadid-e Irān bud.", "en": "Dar ol-Fonun was Iran's first modern school."},
+  {"fa": "امیرکبیر در باغ فین کاشان کشته شد.", "r": "Amir-kabir dar bāgh-e Fin-e Kāshān koshte shod.", "en": "Amir Kabir was killed in the Fin Garden in Kashan."},
+  {"fa": "در دوره‌ی قاجار، شاه ایران برای اولین بار به اروپا سفر کرد.", "r": "dar dowre-ye Ghājār, shāh-e Irān barā-ye avvalin bār be Orupā safar kard.", "en": "In the Qajar period a shah of Iran travelled to Europe for the first time."},
+  {"fa": "مردم در اعتراض به امتیاز تنباکو قلیان را کنار گذاشتند.", "r": "mardom dar e'terāz be emtiyāz-e tanbāku ghalyān rā kenār gozāshtand.", "en": "In protest against the tobacco concession, people gave up their water pipes."},
+  {"fa": "کاخ گلستان در تهران از دوره‌ی قاجار مانده است.", "r": "kākh-e Golestān dar Tehrān az dowre-ye Ghājār mānde ast.", "en": "The Golestan Palace in Tehran survives from the Qajar period."},
+  {"fa": "در دوره‌ی قاجار عکاسی به ایران آمد.", "r": "dar dowre-ye Ghājār akkāsi be Irān āmad.", "en": "Photography came to Iran in the Qajar period."}
+ ],
+ "vocab": [
+  {"fa": "قاجار", "r": "Ghājār", "en": "Qajar"},
+  {"fa": "دوره", "r": "dowre", "en": "period, era"},
+  {"fa": "پیمان", "r": "peymān", "en": "treaty, pact"},
+  {"fa": "امضا کردن", "r": "emzā kardan", "en": "to sign"},
+  {"fa": "از دست دادن", "r": "az dast dādan", "en": "to lose"},
+  {"fa": "مرز", "r": "marz", "en": "border"},
+  {"fa": "سفیر", "r": "safir", "en": "ambassador, envoy"},
+  {"fa": "صدراعظم", "r": "sadr-e-a'zam", "en": "grand vizier, chief minister"},
+  {"fa": "مدرسه", "r": "madrese", "en": "school"},
+  {"fa": "روزنامه", "r": "ruznāme", "en": "newspaper"},
+  {"fa": "سفرنامه", "r": "safar-nāme", "en": "travel diary, travelogue"},
+  {"fa": "امتیاز", "r": "emtiyāz", "en": "concession; privilege"},
+  {"fa": "اعتراض", "r": "e'terāz", "en": "protest, objection"},
+  {"fa": "تنباکو", "r": "tanbāku", "en": "tobacco"},
+  {"fa": "قلیان", "r": "ghalyān", "en": "water pipe, hookah"},
+  {"fa": "عکاسی", "r": "akkāsi", "en": "photography"},
+  {"fa": "بدهی", "r": "bedehi", "en": "debt"}
+ ],
+ "facts": [
+  "Tehran has been Iran's capital since 1786, when Agha Mohammad Khan chose it.",
+  "The Treaty of Turkmenchay (1828) made the Aras river the border between Iran and today's Armenia and Azerbaijan, as it still is.",
+  "Naser al-Din Shah reigned for almost 50 years (1848–1896) and was the first Iranian monarch to visit Europe.",
+  "The Dar ol-Fonun, founded in 1851, still stands in central Tehran.",
+  "The Tobacco Protest of 1891–92 is often seen as Iran's first modern mass protest movement.",
+  "The Golestan Palace in Tehran became a UNESCO World Heritage site in 2013.",
+  "The 'Shah Diamond', sent to Tsar Nicholas I in 1829 to make amends for Griboyedov's death, is now in the Kremlin's Diamond Fund."
+ ]
+}

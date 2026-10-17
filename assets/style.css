@@ -567,3 +567,9 @@ footer.site a { color: #fff; }
 .ex-sent input[type="text"] { width: 7em; padding: .05rem .4rem; border: 0; border-bottom: 2px solid var(--turq); border-radius: 0; background: var(--paper); font-size: 1.25rem; line-height: 1.6; vertical-align: baseline; }
 .ex-sent input[type="text"].right { border-color: var(--good); background: var(--good-soft); }
 .ex-sent input[type="text"].wrong { border-color: var(--anar); background: var(--bad-soft); }
+.wotd { background: var(--paper-2); border-radius: var(--radius); padding: .4rem 1.1rem 1rem; margin-bottom: 1.6rem; border-top: 4px solid var(--saffron); }
+.wotd h2 { margin: .7rem 0 .3rem !important; font-size: 1.15rem; }
+.wotd-w { display: flex; flex-wrap: wrap; align-items: center; gap: .3rem .5rem; margin: .3rem 0; }
+.wotd-fa { font-size: 1.8rem; color: var(--lapis); }
+.wotd .save { margin: 0 0 0 auto; }
+.wotd .ln-ex a { font-size: .85rem; }

@@ -764,6 +764,19 @@
     refresh();
   }
 
+  /* ---------------------------------------------------------- word of the day */
+  var wb = $("[data-wotd]");
+  if (wb) fetch(R + "assets/wotd.json").then(function (r) { return r.json(); }).then(function (list) {
+    if (!list.length) return;
+    var day = Math.floor((Date.now() - new Date().getTimezoneOffset() * 60000) / DAY), w = list[day % list.length];
+    wb.innerHTML = "";
+    wb.append(h("h2", { text: "Word of the day" }),
+      h("p", { "class": "wotd-w" }, sayBtn(w[3], "Listen: " + w[0]), faEl("span", w[0], "wotd-fa"), " ", h("span", { "class": "tr", text: w[1] }), " – " + w[2],
+        h("button", { type: "button", "class": "save", "data-card": JSON.stringify({ fa: w[0], r: w[1], en: w[2], a: w[3], src: "Word of the day" }), "aria-label": "Save to flashcards", text: "+" })),
+      h("div", { "class": "ln ln-ex", "data-a": w[6] || null }, sayBtn(w[6]), h("div", { "class": "ln-b" }, faEl("p", w[4], "fa"), h("p", { "class": "en", text: w[5] }), h("a", { href: R + w[7], text: "From: " + w[8] }))));
+    wb.hidden = false; markSaved();
+  });
+
   /* ---------------------------------------------------------- search */
   var sOut = $("[data-search-out]");
   if (sOut) {

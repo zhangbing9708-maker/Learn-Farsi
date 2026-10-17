@@ -1,0 +1,77 @@
+{
+ "id": "history-constitutional-revolution-to-pahlavi",
+ "topic": "history",
+ "title": "From the Constitutional Revolution to the Pahlavis",
+ "titleFa": "از انقلاب مشروطه تا پهلوی",
+ "titleR": "az enghelāb-e mashrute tā Pahlavi",
+ "image": "constitutional-revolution",
+ "summary": "In 1906 Iranians forced their shah to accept a parliament and a constitution. The decades that followed brought oil, a new dynasty, rapid modernisation from above – and the 1953 coup that still shapes how Iranians see the West.",
+ "body": [
+  {
+   "h": "The Constitutional Revolution",
+   "md": "In December 1905 the governor of Tehran had sugar merchants beaten for raising their prices. Merchants and clerics took sanctuary, [[بست|bast]], in a shrine outside the city, and in the summer of 1906 thousands camped in the garden of the British legation, demanding a 'house of justice'. On 5 August 1906 the dying Mozaffar al-Din Shah signed the decree. Iran's first parliament, the [[مجلس|majles|Majles]], opened that autumn and wrote a [[قانون اساسی|ghānun-e asāsi|constitution]], one of the first in Asia. The movement is known as the [[انقلاب مشروطه|enghelāb-e mashrute|Constitutional Revolution]].\n\nThe next shah, Mohammad Ali, had the Majles shelled by the Russian-officered Cossack Brigade in 1908. Tabriz rose in resistance under two local heroes, [[ستارخان|Sattār-khān|Sattar Khan]] and [[باقرخان|Bāgher-khān|Bagher Khan]], and in 1909 constitutionalist forces took Tehran and deposed him. But in 1911 a Russian ultimatum closed the Majles, and in the First World War neutral Iran was occupied by Russian, British and Ottoman troops."
+  },
+  {
+   "h": "Oil and a new dynasty",
+   "md": "In May 1908 British prospectors working under the D'Arcy concession struck oil at Masjed Soleyman in Khuzestan – the first great oil find in the Middle East. The Anglo-Persian Oil Company, later BP, was founded the next year, and the British navy was soon running on Iranian oil.\n\nIn February 1921, in a country exhausted by war and famine, an officer of the Cossack Brigade, [[رضاخان|Rezā-khān|Reza Khan]], marched on Tehran and seized power. He became minister of war, then prime minister, and in 1925 the Majles deposed the last Qajar and made him shah. He took the name [[پهلوی|Pahlavi]], after the language of pre-Islamic Iran."
+  },
+  {
+   "h": "Reza Shah's Iran",
+   "md": "[[رضاشاه|Rezā-shāh|Reza Shah]] (ruled 1925–1941) wanted a strong, modern, centralised state, and he wanted it fast. He built a national army, roads, factories and the Trans-Iranian Railway (1927–1938) from the Caspian Sea to the Persian Gulf, founded the University of Tehran (1934), made every family take a surname, and in 1935 asked foreign governments to call the country Iran instead of Persia. A new Academy of the Persian Language coined words to replace Arabic and French ones, such as [[شهرداری|shahrdāri|town hall]] for the old [[بلدیه|baladiye]].\n\nModernisation came by force. Nomadic tribes were made to settle, the press was censored and opponents were jailed, and in 1936 women were banned from wearing the veil in public – an [[کشف حجاب|kashf-e hejāb|unveiling]] that some women welcomed and many others experienced as a humiliation. In 1941 British and Soviet troops, alarmed by his ties with Germany, invaded Iran. Reza Shah abdicated in favour of his son and died in exile in South Africa.",
+   "image": "reza-shah"
+  },
+  {
+   "h": "Mosaddegh and the coup",
+   "md": "The new shah, [[محمدرضا شاه|Mohammad-rezā Shāh|Mohammad Reza Shah]], was only 21. In the freer 1940s parties and newspapers flourished, and the great issue became oil, whose profits went overwhelmingly to the British-owned Anglo-Iranian Oil Company. In March 1951 the Majles voted to nationalise the industry, and its champion, the elderly lawyer [[محمد مصدق|Mohammad-e Mosaddegh|Mohammad Mosaddegh]], became prime minister. Britain answered with a boycott that crippled Iran's economy.\n\nOn 19 August 1953 (28 Mordad) a coup organised by the CIA and British intelligence, with royalist officers and hired crowds, overthrew Mosaddegh, and the shah returned with far greater power. The United States acknowledged its role decades later, and the coup still colours how many Iranians see Britain and America.",
+   "image": "mosaddegh"
+  },
+  {
+   "h": "The White Revolution",
+   "md": "From 1963 the shah pushed through reforms he called the [[انقلاب سفید|enghelāb-e sefid|White Revolution]]: land reform, votes for women and a literacy corps sent to the villages. After 1973 the oil price quadrupled and money poured in; Tehran grew into a city of motorways and high-rises, crowned in 1971 by the Shahyad Tower, today's [[برج آزادی|borj-e Āzādi|Azadi (Freedom) Tower]]. But wealth was unevenly shared, the secret police, SAVAK, silenced critics, and opposition grew among clergy, students, the left and nationalists alike. One of the shah's fiercest critics, Ayatollah Ruhollah Khomeini, had been sent into exile in 1964. By 1978 the country was ready to explode.",
+   "image": "azadi-tower"
+  }
+ ],
+ "sentences": [
+  {"fa": "انقلاب مشروطه در سال ۱۹۰۶ پیروز شد.", "r": "enghelāb-e mashrute dar sāl-e hezār-o-nohsad-o-shesh piruz shod.", "en": "The Constitutional Revolution succeeded in 1906."},
+  {"fa": "شاه فرمان مشروطه را امضا کرد.", "r": "shāh farmān-e mashrute rā emzā kard.", "en": "The shah signed the constitutional decree."},
+  {"fa": "ایران برای نخستین بار مجلس و قانون اساسی پیدا کرد.", "r": "Irān barā-ye nokhostin bār majles va ghānun-e asāsi peydā kard.", "en": "For the first time Iran had a parliament and a constitution."},
+  {"fa": "ستارخان در تبریز از مشروطه دفاع کرد.", "r": "Sattār-khān dar Tabriz az mashrute defā' kard.", "en": "Sattar Khan defended the constitution in Tabriz."},
+  {"fa": "در سال ۱۹۰۸ در مسجدسلیمان نفت پیدا شد.", "r": "dar sāl-e hezār-o-nohsad-o-hasht dar Masjed-soleymān naft peydā shod.", "en": "In 1908 oil was found at Masjed Soleyman."},
+  {"fa": "رضاخان در سال ۱۹۲۵ پادشاه شد.", "r": "Rezā-khān dar sāl-e hezār-o-nohsad-o-bist-o-panj pādshāh shod.", "en": "Reza Khan became king in 1925."},
+  {"fa": "راه‌آهن سراسری دریای خزر را به خلیج فارس وصل کرد.", "r": "rāh-āhan-e sarāsari daryā-ye Khazar rā be Khalij-e Fārs vasl kard.", "en": "The Trans-Iranian Railway linked the Caspian Sea with the Persian Gulf."},
+  {"fa": "دانشگاه تهران در سال ۱۹۳۴ تأسیس شد.", "r": "dāneshgāh-e Tehrān dar sāl-e hezār-o-nohsad-o-si-o-chahār ta'sis shod.", "en": "The University of Tehran was founded in 1934."},
+  {"fa": "مصدق صنعت نفت ایران را ملی کرد.", "r": "Mosaddegh san'at-e naft-e Irān rā melli kard.", "en": "Mosaddegh nationalised Iran's oil industry."},
+  {"fa": "در سال ۱۹۵۳ دولت مصدق با یک کودتا سرنگون شد.", "r": "dar sāl-e hezār-o-nohsad-o-panjāh-o-se dowlat-e Mosaddegh bā yek kudetā sarnegun shod.", "en": "In 1953 Mosaddegh's government was overthrown in a coup."},
+  {"fa": "زنان ایرانی در سال ۱۹۶۳ برای اولین بار رأی دادند.", "r": "zanān-e irāni dar sāl-e hezār-o-nohsad-o-shast-o-se barā-ye avvalin bār ra'y dādand.", "en": "Iranian women voted for the first time in 1963."},
+  {"fa": "برج آزادی در سال ۱۹۷۱ ساخته شد.", "r": "borj-e Āzādi dar sāl-e hezār-o-nohsad-o-haftād-o-yek sākhte shod.", "en": "The Azadi Tower was built in 1971."}
+ ],
+ "vocab": [
+  {"fa": "انقلاب", "r": "enghelāb", "en": "revolution"},
+  {"fa": "مشروطه", "r": "mashrute", "en": "constitutional (monarchy); the constitutional movement"},
+  {"fa": "مجلس", "r": "majles", "en": "parliament"},
+  {"fa": "قانون اساسی", "r": "ghānun-e asāsi", "en": "constitution"},
+  {"fa": "فرمان", "r": "farmān", "en": "decree; order"},
+  {"fa": "آزادی", "r": "āzādi", "en": "freedom"},
+  {"fa": "دفاع کردن", "r": "defā' kardan", "en": "to defend"},
+  {"fa": "نفت", "r": "naft", "en": "oil, petroleum"},
+  {"fa": "ملی کردن", "r": "melli kardan", "en": "to nationalise"},
+  {"fa": "صنعت", "r": "san'at", "en": "industry"},
+  {"fa": "نخست‌وزیر", "r": "nokhost-vazir", "en": "prime minister"},
+  {"fa": "دولت", "r": "dowlat", "en": "government; state"},
+  {"fa": "کودتا", "r": "kudetā", "en": "coup d'état"},
+  {"fa": "سرنگون کردن", "r": "sarnegun kardan", "en": "to overthrow"},
+  {"fa": "راه‌آهن", "r": "rāh-āhan", "en": "railway"},
+  {"fa": "دانشگاه", "r": "dāneshgāh", "en": "university"},
+  {"fa": "رأی دادن", "r": "ra'y dādan", "en": "to vote"},
+  {"fa": "تبعید", "r": "tab'id", "en": "exile"}
+ ],
+ "facts": [
+  "Mozaffar al-Din Shah signed the constitutional decree on 5 August 1906 – 14 Mordad 1285 in the Iranian calendar.",
+  "The constitution of 1906–07 remained formally in force until the revolution of 1979.",
+  "Oil was struck at Masjed Soleyman on 26 May 1908, the first major oil discovery in the Middle East.",
+  "The Trans-Iranian Railway, built 1927–1938, became a UNESCO World Heritage site in 2021.",
+  "From Nowruz 1935 (21 March) Iran asked the world to use the name 'Iran' instead of 'Persia'.",
+  "Howard Baskerville, a young American teacher, was killed in 1909 fighting for the constitutionalists in Tabriz, where he is still honoured.",
+  "In 2013 the CIA released documents openly acknowledging its role in the 1953 coup."
+ ]
+}

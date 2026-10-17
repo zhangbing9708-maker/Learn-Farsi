@@ -1,0 +1,80 @@
+{
+ "id": "food-polo-with-everything",
+ "topic": "food",
+ "title": "Polo with everything",
+ "titleFa": "انواع پلو",
+ "titleR": "anvā'-e polow",
+ "image": "zereshk-polo",
+ "summary": "Herbs, broad beans, barberries, orange peel, sour cherries: Iranians mix almost anything into rice. A tour of the great polo dishes, from everyday lubia polo to jewelled wedding rice.",
+ "body": [
+  {
+   "h": "What makes a polo",
+   "md": "A [[پلو|polow|polo]] is rice cooked together with something else, so that every grain takes on its colour and scent. Most polos use the same method as plain rice: the rice is half-boiled and drained, then layered in the pot with the other ingredients and steamed slowly over a crisp [[ته‌دیگ|tah-dig|tahdig]]. The finished dish is usually decorated with saffron rice and served with chicken, lamb or fish. Each polo has its occasion – some are everyday food, others belong to weddings, Nowruz or important guests."
+  },
+  {
+   "h": "Zereshk polo",
+   "md": "[[زرشک‌پلو|zereshk-polow|rice with barberries]] is white rice crowned with saffron rice and tiny red [[زرشک|zereshk|barberries]] – sour berries, mostly from South Khorasan, fried quickly in butter with a little sugar so that they glisten. It is nearly always served with chicken braised with onion, tomato and saffron – [[زرشک‌پلو با مرغ|zereshk-polow bā morgh|barberry rice with chicken]] – and it is a favourite at weddings and parties, often scattered with slivered pistachios and almonds."
+  },
+  {
+   "h": "Baghali polo",
+   "md": "[[باقالی‌پلو|bāghāli-polow|rice with broad beans and dill]] is the spring polo, layered with broad beans ([[باقالی|bāghāli|broad beans]]) and lots of [[شوید|shevid|dill]], which turns the rice green-flecked and fragrant. Its classic partner is lamb shank ([[ماهیچه|māhiche|lamb shank]]) slow-cooked with onion, turmeric and saffron.\n\n1. Half-boil and drain the rice.\n2. Blanch and peel the broad beans; chop the dill.\n3. Layer rice, beans and dill in an oiled pot, finishing with rice, and steam for about an hour.\n4. Serve topped with saffron rice, with the lamb shank and its sauce on the side.",
+   "image": "baghali-polo"
+  },
+  {
+   "h": "Sabzi polo",
+   "md": "[[سبزی‌پلو|sabzi-polow|herb rice]] is rice steamed with masses of chopped herbs – dill, parsley, coriander, chives – and sometimes green garlic. With fish it becomes the dish of the Iranian New Year: [[سبزی‌پلو با ماهی|sabzi-polow bā māhi|herb rice with fish]] is eaten on the last night of the old year or the first day of the new, when green stands for the coming spring.",
+   "image": "sabzi-polo"
+  },
+  {
+   "h": "Sweet rice and jewelled rice",
+   "md": "[[شیرین‌پلو|shirin-polow|sweet rice]] is a wedding classic: rice layered with candied strips of orange peel ([[پوست پرتقال|pust-e porteghāl|orange peel]]), carrots ([[هویج|havij|carrots]]), slivered almonds and pistachios, saffron and sugar, usually served with chicken. Its grander cousin, [[مرصع‌پلو|morassa'-polow|jewelled rice]], adds barberries and other dried fruit, so that the rice glitters like a jeweller's tray.",
+   "image": "shirin-polo"
+  },
+  {
+   "h": "Tahchin and the rest",
+   "md": "[[ته‌چین|tah-chin|tahchin]] – 'arranged at the bottom' – is half-cooked rice mixed with yoghurt, egg yolk and saffron, layered with pieces of chicken and baked or steamed until it becomes a golden cake that is turned out and cut into slices.\n\nAnd the list goes on: [[لوبیاپلو|lubiyā-polow|rice with green beans]], with minced meat in tomato sauce, a weekday favourite with children; [[عدس‌پلو|adas-polow|rice with lentils]], with raisins and dates; [[آلبالوپلو|ālbālu-polow|rice with sour cherries]] in early summer; and Shiraz's [[کلم‌پلو|kalam-polow|rice with cabbage]], with herbs and tiny meatballs.",
+   "image": "tahchin"
+  }
+ ],
+ "sentences": [
+  {"fa": "امشب زرشک‌پلو با مرغ داریم.", "r": "emshab zereshk-polow bā morgh dārim.", "en": "We're having barberry rice with chicken tonight."},
+  {"fa": "زرشک را با کمی کره و شکر تفت بده.", "r": "zereshk rā bā kami kare va shekar taft be-de.", "en": "Sauté the barberries with a little butter and sugar."},
+  {"fa": "باقالی‌پلو بدون شوید مزه ندارد.", "r": "bāghāli-polow bedun-e shevid mazze na-dārad.", "en": "Baghali polo has no flavour without dill."},
+  {"fa": "برنج را لایه‌لایه با باقالی و شوید در قابلمه بریز.", "r": "berenj rā lāye-lāye bā bāghāli va shevid dar ghāblame be-riz.", "en": "Layer the rice in the pot with the broad beans and dill."},
+  {"fa": "سبزی‌پلو با ماهی غذای شب عید است.", "r": "sabzi-polow bā māhi ghazā-ye shab-e eyd ast.", "en": "Herb rice with fish is the dish for New Year's Eve."},
+  {"fa": "در عروسی‌ها معمولاً شیرین‌پلو می‌دهند.", "r": "dar arusi-hā ma'mulan shirin-polow mi-dahand.", "en": "At weddings they usually serve sweet rice."},
+  {"fa": "ته‌چین را برگردان و مثل کیک برش بزن.", "r": "tah-chin rā bargardān va mesl-e keyk boresh be-zan.", "en": "Turn the tahchin out and slice it like a cake."},
+  {"fa": "لوبیاپلو غذای مورد علاقه‌ی بچه‌هاست.", "r": "lubiyā-polow ghazā-ye mored-e alāghe-ye bacche-hā-st.", "en": "Lubia polo is the children's favourite food."},
+  {"fa": "این پلو چه رنگ قشنگی دارد!", "r": "in polow che rang-e ghashang-i dārad!", "en": "What a beautiful colour this polo has!"},
+  {"fa": "یک بشقاب دیگر برایتان بکشم؟", "r": "yek boshghāb-e digar barā-yetān be-kesham?", "en": "Shall I serve you another plate?", "col": "یه بشقاب دیگه براتون بکشم؟", "colR": "ye boshghāb-e dige barā-tun be-kesham?"},
+  {"fa": "زحمت کشیدید، همه‌چیز عالی بود.", "r": "zahmat keshidid, hame-chiz āli bud.", "en": "You went to so much trouble – everything was wonderful.", "col": "زحمت کشیدین، همه‌چی عالی بود.", "colR": "zahmat keshidin, hame-chi āli bud."}
+ ],
+ "vocab": [
+  {"fa": "پلو", "r": "polow", "en": "polo, rice cooked with other ingredients"},
+  {"fa": "زرشک", "r": "zereshk", "en": "barberry"},
+  {"fa": "باقالی", "r": "bāghāli", "en": "broad beans, fava beans"},
+  {"fa": "شوید", "r": "shevid", "en": "dill"},
+  {"fa": "ماهیچه", "r": "māhiche", "en": "lamb shank; muscle"},
+  {"fa": "ماهی", "r": "māhi", "en": "fish"},
+  {"fa": "پوست پرتقال", "r": "pust-e porteghāl", "en": "orange peel"},
+  {"fa": "هویج", "r": "havij", "en": "carrot"},
+  {"fa": "بادام", "r": "bādām", "en": "almond"},
+  {"fa": "پسته", "r": "peste", "en": "pistachio"},
+  {"fa": "ته‌چین", "r": "tah-chin", "en": "tahchin, baked saffron rice cake"},
+  {"fa": "لایه", "r": "lāye", "en": "layer"},
+  {"fa": "قابلمه", "r": "ghāblame", "en": "saucepan, cooking pot"},
+  {"fa": "بشقاب", "r": "boshghāb", "en": "plate"},
+  {"fa": "کشیدن", "r": "keshidan", "en": "to pull; to dish up (food)"},
+  {"fa": "عروسی", "r": "arusi", "en": "wedding"},
+  {"fa": "شب عید", "r": "shab-e eyd", "en": "New Year's Eve (Nowruz)"},
+  {"fa": "مزه", "r": "mazze", "en": "taste, flavour"}
+ ],
+ "facts": [
+  "Most polos use the drain-and-steam method of chelow, with the other ingredients layered between the rice.",
+  "Iran's barberries come mainly from South Khorasan, around Birjand and Qaen.",
+  "Sabzi polo ba mahi is the traditional meal for the eve or the first day of Nowruz.",
+  "Tahchin means 'arranged at the bottom': rice and chicken are laid in layers and baked into a crisp cake.",
+  "Morassa polo, 'jewelled rice', is named for its glittering barberries, nuts and orange peel.",
+  "Kalam polo, with cabbage, herbs and tiny meatballs, is a speciality of Shiraz."
+ ]
+}

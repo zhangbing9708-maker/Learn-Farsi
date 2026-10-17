@@ -1,0 +1,72 @@
+{
+ "id": "history-iran-since-1979",
+ "topic": "history",
+ "title": "Iran since 1979",
+ "titleFa": "ایران پس از انقلاب",
+ "titleR": "Irān pas az enghelāb",
+ "image": "iranian-revolution",
+ "summary": "The 1979 revolution replaced the monarchy with an Islamic Republic. Since then Iran has lived through an eight-year war with Iraq, decades of sanctions and protest, and in 2026 a war with the United States and Israel.",
+ "body": [
+  {
+   "h": "The revolution of 1979",
+   "md": "In 1978 strikes and huge demonstrations spread across Iran, uniting groups that agreed on little else – clergy, bazaar merchants, students, liberals and the left. The shah left the country on 16 January 1979. On 1 February Ayatollah Ruhollah Khomeini returned from exile in France to a welcome from millions, and on 11 February (22 Bahman 1357 in the Iranian calendar) the army declared itself neutral and the monarchy fell. After a referendum, the [[جمهوری اسلامی|jomhuri-ye eslāmi|Islamic Republic]] was proclaimed on 1 April.\n\nThe new constitution combined elected institutions – a president and a parliament – with the authority of a senior cleric as [[رهبر|rahbar|Leader]], under the principle of [[ولایت فقیه|velāyat-e faghih|guardianship of the jurist]]. In November 1979 students seized the US embassy in Tehran and held 52 Americans hostage for 444 days; Iran and the United States have had no diplomatic relations since."
+  },
+  {
+   "h": "War with Iraq",
+   "md": "On 22 September 1980 Saddam Hussein's Iraq invaded Iran. The war lasted eight years and cost hundreds of thousands of lives on both sides. Iraq used chemical weapons against Iranian soldiers and civilians, and in the 'war of the cities' both sides fired missiles at each other's towns. A UN-brokered ceasefire ended the fighting in August 1988, with the borders unchanged. Iranians call it [[دفاع مقدس|defā'-e moghaddas|the Sacred Defence]], and the faces of its dead, honoured as [[شهید|shahid|martyrs]], still look down from murals in every town. Khomeini died in June 1989, and the Assembly of Experts chose President Ali Khamenei as the new Leader."
+  },
+  {
+   "h": "Reform, protest and sanctions",
+   "md": "The decades that followed swung between hope and disappointment. Akbar Hashemi Rafsanjani (president 1989–97) rebuilt the economy; Mohammad Khatami (1997–2005) won two landslides on a promise of reform. The disputed re-election of Mahmoud Ahmadinejad in 2009 brought huge crowds onto the streets in the [[جنبش سبز|jonbesh-e sabz|Green Movement]]. Under Hassan Rouhani (2013–21) Iran and six world powers reached the 2015 nuclear agreement, in Persian [[برجام|Barjām]], which lifted some sanctions until the United States withdrew in 2018. Ebrahim Raisi died in a helicopter crash in May 2024, and Masoud Pezeshkian was elected in his place.\n\nSociety changed faster than politics: the population has more than doubled since 1979, most Iranians now live in cities, and education has spread widely, above all among women. In 2022 the death in custody of Mahsa (Jina) Amini, a young Kurdish woman arrested by the morality police over her headscarf, set off months of protests under the slogan [[زن، زندگی، آزادی|zan, zendegi, āzādi|Woman, Life, Freedom]]. A collapse of the currency at the end of 2025 led to nationwide protests that were put down with great force in January 2026; thousands were killed, though the figures are disputed.",
+   "image": "iranian-women"
+  },
+  {
+   "h": "The wars of 2025 and 2026",
+   "md": "The long dispute over Iran's nuclear programme – peaceful, according to Tehran; a path to a bomb, according to Israel and the United States – turned into open war. In June 2025 Israel struck Iranian nuclear and military sites for twelve days, the US bombed the sites at Fordow, Natanz and Isfahan, and Iran fired missiles at Israel until a ceasefire.\n\nOn 28 February 2026 (9 Esfand 1404) the United States and Israel launched a much larger air campaign. Supreme Leader Ali Khamenei was killed on the first day, and in March the Assembly of Experts chose his son, Mojtaba Khamenei, to succeed him. Iran fired missiles and drones at Israel and at US bases and their host countries around the Persian Gulf, and closed the [[تنگه‌ی هرمز|tange-ye Hormoz|Strait of Hormuz]], through which about a fifth of the world's oil passes. Civilians suffered on all sides. A ceasefire brokered by Pakistan in April and a memorandum signed in June were followed by new fighting in the summer; in October 2026, at the time of writing, the two sides were negotiating again while attacks on shipping kept oil prices high.",
+   "image": "hormuz-strait"
+  }
+ ],
+ "sentences": [
+  {"fa": "انقلاب ایران در بهمن ۱۳۵۷ پیروز شد.", "r": "enghelāb-e Irān dar Bahman-e hezār-o-sisad-o-panjāh-o-haft piruz shod.", "en": "The Iranian revolution triumphed in Bahman 1357 (February 1979)."},
+  {"fa": "شاه در ژانویه‌ی ۱۹۷۹ ایران را ترک کرد.", "r": "shāh dar zhānviye-ye hezār-o-nohsad-o-haftād-o-noh Irān rā tark kard.", "en": "The shah left Iran in January 1979."},
+  {"fa": "آیت‌الله خمینی در ۱۲ بهمن به ایران بازگشت.", "r": "āyatollāh Khomeyni dar davāzdah-e Bahman be Irān bāzgasht.", "en": "Ayatollah Khomeini returned to Iran on 12 Bahman (1 February)."},
+  {"fa": "جمهوری اسلامی در فروردین ۱۳۵۸ اعلام شد.", "r": "jomhuri-ye eslāmi dar Farvardin-e hezār-o-sisad-o-panjāh-o-hasht e'lām shod.", "en": "The Islamic Republic was proclaimed in Farvardin 1358 (April 1979)."},
+  {"fa": "جنگ ایران و عراق هشت سال طول کشید.", "r": "jang-e Irān va Erāgh hasht sāl tul keshid.", "en": "The Iran–Iraq war lasted eight years."},
+  {"fa": "ایرانیان این جنگ را «دفاع مقدس» می‌نامند.", "r": "irāniyān in jang rā «defā'-e moghaddas» mi-nāmand.", "en": "Iranians call this war 'the Sacred Defence'."},
+  {"fa": "در سال ۲۰۱۵ ایران و شش قدرت جهانی به توافق هسته‌ای رسیدند.", "r": "dar sāl-e do-hezār-o-pānzdah Irān va shesh ghodrat-e jahāni be tavāfogh-e haste-i residand.", "en": "In 2015 Iran and six world powers reached a nuclear agreement."},
+  {"fa": "در سال ۲۰۲۲ شعار «زن، زندگی، آزادی» در خیابان‌ها شنیده شد.", "r": "dar sāl-e do-hezār-o-bist-o-do sho'ār-e «zan, zendegi, āzādi» dar khiyābān-hā shenide shod.", "en": "In 2022 the slogan 'Woman, Life, Freedom' was heard in the streets."},
+  {"fa": "جنگ تازه در ۲۸ فوریه‌ی ۲۰۲۶ شروع شد.", "r": "jang-e tāze dar bist-o-hasht-e fevriye-ye do-hezār-o-bist-o-shesh shoru' shod.", "en": "The new war began on 28 February 2026."},
+  {"fa": "در روز اول جنگ، آیت‌الله خامنه‌ای کشته شد.", "r": "dar ruz-e avval-e jang, āyatollāh Khāmene'i koshte shod.", "en": "On the first day of the war, Ayatollah Khamenei was killed."},
+  {"fa": "مجلس خبرگان پسرش، مجتبی خامنه‌ای، را به رهبری برگزید.", "r": "Majles-e Khobregān pesar-ash, Mojtabā Khāmene'i, rā be rahbari bargozid.", "en": "The Assembly of Experts chose his son, Mojtaba Khamenei, as Leader."},
+  {"fa": "ایران تنگه‌ی هرمز را بست و قیمت نفت بالا رفت.", "r": "Irān tange-ye Hormoz rā bast va gheymat-e naft bālā raft.", "en": "Iran closed the Strait of Hormuz and the price of oil rose."}
+ ],
+ "vocab": [
+  {"fa": "انقلاب", "r": "enghelāb", "en": "revolution"},
+  {"fa": "جمهوری", "r": "jomhuri", "en": "republic"},
+  {"fa": "رهبر", "r": "rahbar", "en": "leader; (the) Supreme Leader"},
+  {"fa": "رئیس‌جمهور", "r": "ra'is-jomhur", "en": "president"},
+  {"fa": "انتخابات", "r": "entekhābāt", "en": "election(s)"},
+  {"fa": "همه‌پرسی", "r": "hame-porsi", "en": "referendum"},
+  {"fa": "جنگ", "r": "jang", "en": "war"},
+  {"fa": "آتش‌بس", "r": "ātash-bas", "en": "ceasefire"},
+  {"fa": "شهید", "r": "shahid", "en": "martyr"},
+  {"fa": "گروگان", "r": "gerogān", "en": "hostage"},
+  {"fa": "تحریم", "r": "tahrim", "en": "sanction; boycott"},
+  {"fa": "هسته‌ای", "r": "haste-i", "en": "nuclear"},
+  {"fa": "توافق", "r": "tavāfogh", "en": "agreement"},
+  {"fa": "شعار", "r": "sho'ār", "en": "slogan"},
+  {"fa": "موشک", "r": "mushak", "en": "missile, rocket"},
+  {"fa": "تنگه", "r": "tange", "en": "strait"},
+  {"fa": "مذاکره", "r": "mozākere", "en": "negotiation"},
+  {"fa": "تورم", "r": "tavarrom", "en": "inflation"}
+ ],
+ "facts": [
+  "The monarchy fell on 22 Bahman 1357 (11 February 1979), now a national holiday in Iran.",
+  "The 52 American hostages were held for 444 days, from November 1979 to January 1981.",
+  "The Iran–Iraq war (1980–1988) was one of the longest conventional wars of the 20th century.",
+  "Iran's population has more than doubled since the revolution.",
+  "Shirin Ebadi (2003) and Narges Mohammadi (2023) are Iran's two winners of the Nobel Peace Prize.",
+  "Asghar Farhadi's A Separation (2011) and The Salesman (2016) both won the Oscar for best foreign-language film.",
+  "Iranians date events by the solar calendar: the revolution is 'the revolution of '57' (1357), and the 2026 war began on 9 Esfand 1404."
+ ]
+}
