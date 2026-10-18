@@ -14,22 +14,30 @@
     {
      "fa": "پدربزرگ سارا یک ساعت قدیمی دارد.",
      "r": "pedar-bozorg-e Sārā yek sā'at-e ghadimi dārad.",
-     "en": "Sara's grandfather has an old clock."
+     "en": "Sara's grandfather has an old clock.",
+     "faV": "پِدَربُزُرگِ سارا یِک ساعَتِ قَدیمی دارَد.",
+     "a": "8025696438ef"
     },
     {
      "fa": "ساعت روی دیوار اتاق است.",
      "r": "sā'at ru-ye divār-e otāgh ast.",
-     "en": "The clock is on the wall of the room."
+     "en": "The clock is on the wall of the room.",
+     "faV": "ساعَت رویِ دیوارِ اُتاق اَست.",
+     "a": "e98323bdba8e"
     },
     {
      "fa": "ساعت بزرگ و قهوه‌ای است.",
      "r": "sā'at bozorg o ghahve-i ast.",
-     "en": "The clock is big and brown."
+     "en": "The clock is big and brown.",
+     "faV": "ساعَت بُزُرگ و قَهوه‌ای اَست.",
+     "a": "fa0df3e7f136"
     },
     {
      "fa": "ساعت هر روز «تیک‌تاک، تیک‌تاک» می‌کند.",
      "r": "sā'at har ruz «tik-tāk, tik-tāk» mi-konad.",
-     "en": "Every day the clock goes \"tick-tock, tick-tock\"."
+     "en": "Every day the clock goes \"tick-tock, tick-tock\".",
+     "faV": "ساعَت هَر روز «تیک‌تاک، تیک‌تاک» می‌کُنَد.",
+     "a": "59ec5c726bdd"
     }
    ]
   },
@@ -38,27 +46,37 @@
     {
      "fa": "امروز سارا به خانه‌ی پدربزرگ می‌آید.",
      "r": "emruz Sārā be khāne-ye pedar-bozorg mi-āyad.",
-     "en": "Today Sara comes to Grandfather's house."
+     "en": "Today Sara comes to Grandfather's house.",
+     "faV": "اِمروز سارا به خانه‌یِ پِدَربُزُرگ می‌آیَد.",
+     "a": "fd4d556c8ac9"
     },
     {
      "fa": "اتاق خیلی ساکت است.",
      "r": "otāgh kheyli sāket ast.",
-     "en": "The room is very quiet."
+     "en": "The room is very quiet.",
+     "faV": "اُتاق خَیلی ساکِت اَست.",
+     "a": "bb16f240dc0e"
     },
     {
      "fa": "ساعت کار نمی‌کند!",
      "r": "sā'at kār nemi-konad!",
-     "en": "The clock isn't working!"
+     "en": "The clock isn't working!",
+     "faV": "ساعَت کار نِمی‌کُنَد!",
+     "a": "da9ab63576bb"
     },
     {
      "fa": "عقربه‌ها روی سه هستند.",
      "r": "'aghrabe-hā ru-ye se hastand.",
-     "en": "The hands are on three."
+     "en": "The hands are on three.",
+     "faV": "عَقرَبه‌ها رویِ سه هَستَند.",
+     "a": "0c0a16c05e9a"
     },
     {
      "fa": "سارا می‌گوید: «پدربزرگ، ساعت شما خراب است!»",
      "r": "Sārā mi-guyad: «pedar-bozorg, sā'at-e shomā kharāb ast!»",
-     "en": "Sara says: \"Grandpa, your clock is broken!\""
+     "en": "Sara says: \"Grandpa, your clock is broken!\"",
+     "faV": "سارا می‌گویَد: «پِدَربُزُرگ، ساعَتِ شُما خَراب اَست!»",
+     "a": "7fd58fb0ff4c"
     }
    ]
   },
@@ -67,22 +85,30 @@
     {
      "fa": "پدربزرگ می‌خندد.",
      "r": "pedar-bozorg mi-khandad.",
-     "en": "Grandfather laughs."
+     "en": "Grandfather laughs.",
+     "faV": "پِدَربُزُرگ می‌خَندَد.",
+     "a": "25efcd1c65c3"
     },
     {
      "fa": "او یک کلید کوچک به سارا می‌دهد.",
      "r": "u yek kelid-e kuchak be Sārā mi-dahad.",
-     "en": "He gives Sara a little key."
+     "en": "He gives Sara a little key.",
+     "faV": "او یِک کِلیدِ کوچَک به سارا می‌دَهَد.",
+     "a": "a847aff7a9fd"
     },
     {
      "fa": "او می‌گوید: «ساعت خراب نیست. ساعت خسته است!»",
      "r": "u mi-guyad: «sā'at kharāb nist. sā'at khaste ast!»",
-     "en": "He says: \"The clock isn't broken. The clock is tired!\""
+     "en": "He says: \"The clock isn't broken. The clock is tired!\"",
+     "faV": "او می‌گویَد: «ساعَت خَراب نیست. ساعَت خَسته اَست!»",
+     "a": "ad8961683796"
     },
     {
      "fa": "سارا با کلید ساعت را کوک می‌کند.",
      "r": "Sārā bā kelid sā'at rā kuk mi-konad.",
-     "en": "Sara winds the clock with the key."
+     "en": "Sara winds the clock with the key.",
+     "faV": "سارا با کِلید ساعَت را کوک می‌کُنَد.",
+     "a": "ec068ee1f161"
     }
    ]
   },
@@ -91,42 +117,166 @@
     {
      "fa": "تیک‌تاک، تیک‌تاک!",
      "r": "tik-tāk, tik-tāk!",
-     "en": "Tick-tock, tick-tock!"
+     "en": "Tick-tock, tick-tock!",
+     "faV": "تیک‌تاک، تیک‌تاک!",
+     "a": "914069023a0a"
     },
     {
      "fa": "ساعت دوباره کار می‌کند.",
      "r": "sā'at dobāre kār mi-konad.",
-     "en": "The clock is working again."
+     "en": "The clock is working again.",
+     "faV": "ساعَت دوباره کار می‌کُنَد.",
+     "a": "8fbfb38f00bc"
     },
     {
      "fa": "پدربزرگ می‌گوید: «این ساعت پدر من بود. از امروز، تو هر جمعه آن را کوک می‌کنی.»",
      "r": "pedar-bozorg mi-guyad: «in sā'at-e pedar-e man bud. az emruz, to har jom'e ān rā kuk mi-koni.»",
-     "en": "Grandfather says: \"This clock was my father's. From today, you will wind it every Friday.\""
+     "en": "Grandfather says: \"This clock was my father's. From today, you will wind it every Friday.\"",
+     "faV": "پِدَربُزُرگ می‌گویَد: «این ساعَتِ پِدَرِ مَن بود. اَز اِمروز، تو هَر جُمعه آن را کوک می‌کُنی.»",
+     "a": "837be8bb617b"
     }
    ]
   }
  ],
  "vocab": [
-  {"fa": "ساعت", "r": "sā'at", "en": "clock, watch; hour; o'clock"},
-  {"fa": "قدیمی", "r": "ghadimi", "en": "old (of things)"},
-  {"fa": "دیوار", "r": "divār", "en": "wall"},
-  {"fa": "قهوه‌ای", "r": "ghahve-i", "en": "brown"},
-  {"fa": "ساکت", "r": "sāket", "en": "quiet, silent"},
-  {"fa": "کار کردن", "r": "kār kardan", "en": "to work (people and machines)"},
-  {"fa": "عقربه", "r": "'aghrabe", "en": "hand (of a clock)"},
-  {"fa": "خراب", "r": "kharāb", "en": "broken, out of order"},
-  {"fa": "خسته", "r": "khaste", "en": "tired"},
-  {"fa": "کلید", "r": "kelid", "en": "key"},
-  {"fa": "کوک کردن", "r": "kuk kardan", "en": "to wind (a clock); to tune (an instrument)"},
-  {"fa": "دوباره", "r": "dobāre", "en": "again"},
-  {"fa": "بود", "r": "bud", "en": "was (past of است)"},
-  {"fa": "هر جمعه", "r": "har jom'e", "en": "every Friday"}
+  {
+   "fa": "ساعت",
+   "r": "sā'at",
+   "en": "clock, watch; hour; o'clock",
+   "faV": "ساعَت",
+   "a": "524847c32016"
+  },
+  {
+   "fa": "قدیمی",
+   "r": "ghadimi",
+   "en": "old (of things)",
+   "faV": "قَدیمی",
+   "a": "c8d4c8a09b8a"
+  },
+  {
+   "fa": "دیوار",
+   "r": "divār",
+   "en": "wall",
+   "faV": "دیوار",
+   "a": "e96bf5776b53"
+  },
+  {
+   "fa": "قهوه‌ای",
+   "r": "ghahve-i",
+   "en": "brown",
+   "faV": "قَهوه‌ای",
+   "a": "560238bf1d18"
+  },
+  {
+   "fa": "ساکت",
+   "r": "sāket",
+   "en": "quiet, silent",
+   "faV": "ساکِت",
+   "a": "cc6b5ad1c001"
+  },
+  {
+   "fa": "کار کردن",
+   "r": "kār kardan",
+   "en": "to work (people and machines)",
+   "faV": "کار کَردَن",
+   "a": "998253a5144b"
+  },
+  {
+   "fa": "عقربه",
+   "r": "'aghrabe",
+   "en": "hand (of a clock)",
+   "faV": "عَقرَبه",
+   "a": "c74d5096ee16"
+  },
+  {
+   "fa": "خراب",
+   "r": "kharāb",
+   "en": "broken, out of order",
+   "faV": "خَراب",
+   "a": "3bd80b49da2a"
+  },
+  {
+   "fa": "خسته",
+   "r": "khaste",
+   "en": "tired",
+   "faV": "خَسته",
+   "a": "c7a256bdb48e"
+  },
+  {
+   "fa": "کلید",
+   "r": "kelid",
+   "en": "key",
+   "faV": "کِلید",
+   "a": "61110d2a9f8d"
+  },
+  {
+   "fa": "کوک کردن",
+   "r": "kuk kardan",
+   "en": "to wind (a clock); to tune (an instrument)",
+   "faV": "کوک کَردَن",
+   "a": "c3754477cb34"
+  },
+  {
+   "fa": "دوباره",
+   "r": "dobāre",
+   "en": "again",
+   "faV": "دوباره",
+   "a": "115e9f582f28"
+  },
+  {
+   "fa": "بود",
+   "r": "bud",
+   "en": "was (past of است)",
+   "faV": "بود",
+   "a": "17e121e68a67"
+  },
+  {
+   "fa": "هر جمعه",
+   "r": "har jom'e",
+   "en": "every Friday",
+   "faV": "هَر جُمعه",
+   "a": "a8b30eb30bb3"
+  }
  ],
  "questions": [
-  {"q": "What colour is the clock?", "options": ["white", "brown", "red"], "answer": 1},
-  {"q": "What is wrong with the clock?", "options": ["it has stopped", "it is too loud", "it has fallen down"], "answer": 0},
-  {"q": "What does Grandfather give Sara?", "options": ["a sweet", "a book", "a little key"], "answer": 2},
-  {"q": "Whose clock was it before?", "options": ["Sara's", "Grandfather's father's", "Mr Karimi's"], "answer": 1}
+  {
+   "q": "What colour is the clock?",
+   "options": [
+    "white",
+    "brown",
+    "red"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What is wrong with the clock?",
+   "options": [
+    "it has stopped",
+    "it is too loud",
+    "it has fallen down"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does Grandfather give Sara?",
+   "options": [
+    "a sweet",
+    "a book",
+    "a little key"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Whose clock was it before?",
+   "options": [
+    "Sara's",
+    "Grandfather's father's",
+    "Mr Karimi's"
+   ],
+   "answer": 1
+  }
  ],
- "after": "ساعت is one of the most useful words in Persian: it means 'clock', 'watch', 'hour' and 'o'clock' – ساعت سه 'three o'clock', سه ساعت 'three hours'. Notice that machines 'work' just like people: ساعت کار نمی‌کند 'the clock isn't working'. Grandfather's joke ساعت خسته است 'the clock is tired' is what many Iranians would say about an old clock or car. The last sentence uses the present tense for the future, which is normal in everyday Persian: تو هر جمعه آن را کوک می‌کنی 'you (will) wind it every Friday'. And بود is the past of است: این ساعت پدر من بود 'this was my father's clock'."
+ "after": "ساعت is one of the most useful words in Persian: it means 'clock', 'watch', 'hour' and 'o'clock' – ساعت سه 'three o'clock', سه ساعت 'three hours'. Notice that machines 'work' just like people: ساعت کار نمی‌کند 'the clock isn't working'. Grandfather's joke ساعت خسته است 'the clock is tired' is what many Iranians would say about an old clock or car. The last sentence uses the present tense for the future, which is normal in everyday Persian: تو هر جمعه آن را کوک می‌کنی 'you (will) wind it every Friday'. And بود is the past of است: این ساعت پدر من بود 'this was my father's clock'.",
+ "titleV": "ساعَتِ پِدَربُزُرگ",
+ "titleA": "c3595ed515fb"
 }

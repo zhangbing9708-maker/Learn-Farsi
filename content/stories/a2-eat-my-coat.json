@@ -1,0 +1,149 @@
+{
+ "id": "a2-eat-my-coat",
+ "level": "A2",
+ "kind": "folk tale",
+ "title": "Eat, my coat!",
+ "titleFa": "ملا و لباس نو",
+ "titleR": "Mollā o lebās-e now",
+ "image": "sofreh",
+ "intro": "Mullah Nasreddin goes to a rich man's feast in his dusty work clothes, and nobody even offers him a seat. So he goes home, changes, and comes back – and then he teaches his host a lesson. Read it for the past tenses, وقتی 'when' clauses, the past perfect دعوت کرده بودید 'you had invited', and the endings -yash and -ash on words like برایش 'for him' and کتش 'his coat'.",
+ "source": "Retold from the traditional Mullah Nasreddin stories (public domain).",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "یک روز مرد ثروتمندی همه‌ی مردم شهر را به مهمانی دعوت کرد.",
+     "r": "yek ruz mard-e servatmand-i hame-ye mardom-e shahr rā be mehmāni da'vat kard.",
+     "en": "One day a rich man invited everyone in town to a feast."
+    },
+    {
+     "fa": "ملا از سر کار آمد و با همان لباس‌های کهنه و خاکی به مهمانی رفت.",
+     "r": "Mollā az sar-e kār āmad o bā hamān lebās-hā-ye kohne o khāki be mehmāni raft.",
+     "en": "The Mullah came straight from work and went to the feast in his old, dusty clothes."
+    },
+    {
+     "fa": "هیچ‌کس به او سلام نکرد و کسی جایی به او نداد.",
+     "r": "hich-kas be u salām na-kard o kas-i jā-yi be u na-dād.",
+     "en": "Nobody greeted him and nobody offered him a seat."
+    },
+    {
+     "fa": "ملا دم در نشست و منتظر ماند، اما هیچ‌کس برایش غذا نیاورد.",
+     "r": "Mollā dam-e dar neshast o montazer mānd, ammā hich-kas barā-yash ghazā na-yāvard.",
+     "en": "The Mullah sat down by the door and waited, but nobody brought him any food."
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "ملا آرام بلند شد و به خانه رفت.",
+     "r": "Mollā ārām boland shod o be khāne raft.",
+     "en": "Quietly, the Mullah got up and went home."
+    },
+    {
+     "fa": "او بهترین لباسش را پوشید: یک کت نو و یک کلاه قشنگ.",
+     "r": "u behtarin lebās-ash rā pushid: yek kot-e now o yek kolāh-e ghashang.",
+     "en": "He put on his best clothes: a new coat and a handsome hat."
+    },
+    {
+     "fa": "بعد دوباره به مهمانی برگشت.",
+     "r": "ba'd dobāre be mehmāni bar-gasht.",
+     "en": "Then he went back to the feast."
+    },
+    {
+     "fa": "این بار صاحب‌خانه جلو دوید و گفت: «سلام، جناب ملا! خوش آمدید! بفرمایید بالا!»",
+     "r": "in bār sāheb-khāne jelo david o goft: «salām, jenāb-e Mollā! khosh āmadid! befarmāyid bālā!»",
+     "en": "This time the host ran up to him and said: \"Hello, honoured Mullah! Welcome! Please, come and sit at the top!\""
+    },
+    {
+     "fa": "او ملا را بالای مجلس نشاند و بهترین غذا‌ها را جلویش گذاشت.",
+     "r": "u Mollā rā bālā-ye majles neshānd o behtarin ghazā-hā rā jelo-yash gozāsht.",
+     "en": "He seated the Mullah in the place of honour and set the best dishes in front of him."
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "ملا آستین کتش را در کاسه‌ی آش فرو برد و گفت: «بخور، کت عزیزم، بخور!»",
+     "r": "Mollā āstin-e kot-ash rā dar kāse-ye āsh foru bord o goft: «bokhor, kot-e aziz-am, bokhor!»",
+     "en": "The Mullah dipped the sleeve of his coat into the bowl of soup and said: \"Eat, my dear coat, eat!\""
+    },
+    {
+     "fa": "مهمان‌ها با تعجب نگاهش کردند.",
+     "r": "mehmān-hā bā ta'ajjob negāh-ash kardand.",
+     "en": "The guests stared at him in surprise."
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "صاحب‌خانه پرسید: «ملا، چه کار می‌کنید؟»",
+     "r": "sāheb-khāne porsid: «Mollā, che kār mi-konid?»",
+     "en": "The host asked: \"Mullah, what are you doing?\""
+    },
+    {
+     "fa": "ملا جواب داد: «وقتی با لباس کهنه آمدم، کسی به من غذا نداد.»",
+     "r": "Mollā javāb dād: «vaghti bā lebās-e kohne āmadam, kas-i be man ghazā na-dād.»",
+     "en": "The Mullah answered: \"When I came in my old clothes, nobody gave me any food.\""
+    },
+    {
+     "fa": "«پس معلوم است که شما کت مرا دعوت کرده بودید، نه خود مرا!»",
+     "r": "«pas ma'lum ast ke shomā kot-e ma-rā da'vat karde budid, na khod-e ma-rā!»",
+     "en": "\"So it's clear that you had invited my coat, not me!\""
+    },
+    {
+     "fa": "صاحب‌خانه خجالت کشید و دیگر چیزی نگفت.",
+     "r": "sāheb-khāne khejālat keshid o digar chiz-i na-goft.",
+     "en": "The host was ashamed and said nothing more."
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {"fa": "ثروتمند", "r": "servatmand", "en": "rich, wealthy"},
+  {"fa": "مهمانی", "r": "mehmāni", "en": "party, feast"},
+  {"fa": "دعوت کردن", "r": "da'vat kardan", "en": "to invite"},
+  {"fa": "کهنه", "r": "kohne", "en": "old, worn (of things)"},
+  {"fa": "خاکی", "r": "khāki", "en": "dusty"},
+  {"fa": "منتظر ماندن", "r": "montazer māndan", "en": "to wait"},
+  {"fa": "بهترین", "r": "behtarin", "en": "best"},
+  {"fa": "صاحب‌خانه", "r": "sāheb-khāne", "en": "host; landlord"},
+  {"fa": "جناب", "r": "jenāb", "en": "sir, honoured (a respectful title)"},
+  {"fa": "بالای مجلس", "r": "bālā-ye majles", "en": "the place of honour (at a gathering)"},
+  {"fa": "آستین", "r": "āstin", "en": "sleeve"},
+  {"fa": "کاسه", "r": "kāse", "en": "bowl"},
+  {"fa": "فرو بردن", "r": "foru bordan", "en": "to dip, plunge into"},
+  {"fa": "تعجب", "r": "ta'ajjob", "en": "surprise, astonishment"},
+  {"fa": "معلوم", "r": "ma'lum", "en": "clear, obvious"}
+ ],
+ "questions": [
+  {
+   "q": "How was the Mullah dressed the first time?",
+   "options": ["in his best clothes", "in old, dusty work clothes", "in a new hat"],
+   "answer": 1
+  },
+  {
+   "q": "What happened when he first arrived?",
+   "options": ["nobody greeted him or gave him food", "the host gave him the best seat", "he was asked to cook"],
+   "answer": 0
+  },
+  {
+   "q": "Where did the host seat him the second time?",
+   "options": ["by the door", "in the kitchen", "in the place of honour"],
+   "answer": 2
+  },
+  {
+   "q": "What did the Mullah do with his sleeve?",
+   "options": ["he wiped the table with it", "he dipped it into the soup", "he hid bread in it"],
+   "answer": 1
+  },
+  {
+   "q": "What was the Mullah's point?",
+   "options": ["the food was not good", "his coat was too big", "the host respected clothes, not people"],
+   "answer": 2
+  }
+ ],
+ "after": "In Persian this tale is known by the Mullah's words to his sleeve, بخور ای آستین 'eat, O sleeve!', and people still quote it when someone is treated well only for their money or clothes. Saadi made the same point in a famous line: تن آدمی شریف است به جان آدمیت، نه همین لباس زیباست نشان آدمیت 'a person is noble through their humanity; fine clothes alone are no sign of it'. At a traditional gathering the place of honour, بالای مجلس, is the seat farthest from the door, and دم در 'by the door' is the humblest place – so the host's words بفرمایید بالا 'please, go up' are a real compliment. Notice the past perfect دعوت کرده بودید 'you had invited' for something that happened before the rest of the story, and the possessive ending after a vowel: برایش, جلویش (-yash), but کتش, لباسش (-ash)."
+}

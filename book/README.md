@@ -120,6 +120,8 @@ Graded readers, from very easy to literary.
 - [Grandfather's clock](stories/a1-grandfathers-clock.md) — ساعت پدربزرگ
 - [A letter to Grandmother](stories/a1-a-letter-to-grandmother.md) — نامه‌ای به مادربزرگ
 - [Friday in the park](stories/a1-friday-in-the-park.md) — جمعه در پارک
+- [The little sparrow](stories/a1-the-little-sparrow.md) — گنجشک کوچک
+- [My room](stories/a1-my-room.md) — اتاق من
 
 **Elementary (A2)**
 
@@ -137,6 +139,7 @@ Graded readers, from very easy to literary.
 - [The farmer and his sons](stories/a2-the-farmer-and-his-sons.md) — کشاورز و پسرانش
 - [The devoted farmer](stories/a2-the-devoted-farmer.md) — دهقان فداکار
 - [Nasreddin, his son and the donkey](stories/a2-nasreddin-and-the-donkey.md) — ملا، پسرش و الاغ
+- [Eat, my coat!](stories/a2-eat-my-coat.md) — ملا و لباس نو
 
 **Intermediate (B1)**
 
@@ -167,6 +170,7 @@ Graded readers, from very easy to literary.
 **Advanced (C1)**
 
 - [The qanat diggers of Yazd](stories/c1-the-qanat-diggers-of-yazd.md) — مقنی‌های یزد
+- [Bizhan and Manizheh](stories/c1-bizhan-and-manizheh.md) — بیژن و منیژه
 
 ## Part 8. Iran in pictures and stories — فرهنگ ایران
 

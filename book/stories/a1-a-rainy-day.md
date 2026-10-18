@@ -4,8 +4,8 @@
 
 Mina leaves for work without an umbrella, and of course it starts to rain. Luckily Ms Ahmadi, the neighbour, is at her window. The story practises weather words (ابری، آفتابی، باران می‌آید), the present tense and polite thanks, and it ends with a small Iranian custom about giving things back.
 
-![Northern Tehran beneath the Alborz mountains](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/960px-North_of_Tehran_Skyline_view.jpg)
-<sub>Northern Tehran beneath the Alborz mountains. Photo: [Ninara from Helsinki, Finland](https://commons.wikimedia.org/wiki/File:North_of_Tehran_Skyline_view.jpg), CC BY-SA 3.0.</sub>
+![Valiasr Street, Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Abbasabad,_Tehran,_Tehran,_Iran_-_panoramio_-_Behrooz_Rezvani_(37).jpg/960px-Abbasabad,_Tehran,_Tehran,_Iran_-_panoramio_-_Behrooz_Rezvani_(37).jpg)
+<sub>Valiasr Street, Tehran. Photo: [Behrooz Rezvani](https://commons.wikimedia.org/wiki/File:Abbasabad,_Tehran,_Tehran,_Iran_-_panoramio_-_Behrooz_Rezvani_(37).jpg), CC BY 3.0.</sub>
 
 ### The story
 

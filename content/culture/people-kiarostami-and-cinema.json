@@ -35,36 +35,204 @@
   }
  ],
  "sentences": [
-  {"fa": "عباس کیارستمی در سال ۱۹۴۰ در تهران به دنیا آمد.", "r": "'Abbās Kiyārostami dar sāl-e hezār-o-nohsad-o-chehel dar Tehrān be donyā āmad.", "en": "Abbas Kiarostami was born in Tehran in 1940."},
-  {"fa": "او اول نقاش و طراح گرافیک بود.", "r": "u avval naghghāsh va tarrāh-e gerāfik bud.", "en": "At first he was a painter and graphic designer."},
-  {"fa": "کیارستمی برای کانون پرورش فکری کودکان فیلم می‌ساخت.", "r": "Kiyārostami barā-ye Kānun-e Parvaresh-e Fekri-ye Kudakān film mi-sākht.", "en": "Kiarostami made films for Kanoon, the institute for children's development."},
-  {"fa": "در فیلم‌های او جاده‌ها و ماشین‌ها زیاد دیده می‌شوند.", "r": "dar film-hā-ye u jādde-hā va māshin-hā ziyād dide mi-shavand.", "en": "Roads and cars appear often in his films."},
-  {"fa": "«طعم گیلاس» در سال ۱۹۹۷ نخل طلای کن را برد.", "r": "«Ta'm-e gilās» dar sāl-e hezār-o-nohsad-o-navad-o-haft Nakhl-e Talā-ye Kan rā bord.", "en": "Taste of Cherry won the Palme d'Or at Cannes in 1997."},
-  {"fa": "بهرام بیضایی نمایشنامه‌های زیادی نوشته است.", "r": "Bahrām Beyzā'i namāyesh-nāme-hā-ye ziyād-i neveshte ast.", "en": "Bahram Beyzaie has written many plays."},
-  {"fa": "فیلم «باشو، غریبه‌ی کوچک» درباره‌ی پسری از جنوب ایران است.", "r": "film-e «Bāshu, gharibe-ye kuchak» darbāre-ye pesar-i az jonub-e Irān ast.", "en": "The film Bashu, the Little Stranger is about a boy from the south of Iran."},
-  {"fa": "«گاو» ساخته‌ی داریوش مهرجویی یکی از نخستین فیلم‌های موج نو بود.", "r": "«Gāv» sākhte-ye Dāriush Mehrju'i yek-i az nokhostin film-hā-ye mowj-e now bud.", "en": "The Cow, by Dariush Mehrjui, was one of the first films of the New Wave."},
-  {"fa": "«بچه‌های آسمان» داستان یک جفت کفش است.", "r": "«Bacche-hā-ye āsemān» dāstān-e yek joft kafsh ast.", "en": "Children of Heaven is the story of a pair of shoes."},
-  {"fa": "این فیلم مجید مجیدی نامزد جایزه‌ی اسکار شد.", "r": "in film-e Majid Majidi nāmzad-e jāyeze-ye Oskār shod.", "en": "This film by Majid Majidi was nominated for an Oscar."},
-  {"fa": "اصغر فرهادی دو بار جایزه‌ی اسکار را برده است.", "r": "Asghar Farhādi do bār jāyeze-ye Oskār rā borde ast.", "en": "Asghar Farhadi has won the Oscar twice."},
-  {"fa": "«جدایی نادر از سیمین» درباره‌ی یک خانواده در تهران است.", "r": "«Jodā'i-ye Nāder az Simin» darbāre-ye yek khānevāde dar Tehrān ast.", "en": "A Separation is about a family in Tehran."}
+  {
+   "fa": "عباس کیارستمی در سال ۱۹۴۰ در تهران به دنیا آمد.",
+   "r": "'Abbās Kiyārostami dar sāl-e hezār-o-nohsad-o-chehel dar Tehrān be donyā āmad.",
+   "en": "Abbas Kiarostami was born in Tehran in 1940.",
+   "faV": "عَبّاس کیارُستَمی دَر سالِ ۱۹۴۰ دَر تِهران به دُنیا آمَد.",
+   "a": "55954e54a7f3"
+  },
+  {
+   "fa": "او اول نقاش و طراح گرافیک بود.",
+   "r": "u avval naghghāsh va tarrāh-e gerāfik bud.",
+   "en": "At first he was a painter and graphic designer.",
+   "faV": "او اَوَّل نَقّاش و طَرّاحِ گِرافیک بود.",
+   "a": "24a618355e7a"
+  },
+  {
+   "fa": "کیارستمی برای کانون پرورش فکری کودکان فیلم می‌ساخت.",
+   "r": "Kiyārostami barā-ye Kānun-e Parvaresh-e Fekri-ye Kudakān film mi-sākht.",
+   "en": "Kiarostami made films for Kanoon, the institute for children's development.",
+   "faV": "کیارُستَمی بَرایِ کانونِ پَروَرِشِ فِکریِ کودَکان فیلم می‌ساخت.",
+   "a": "e4f590cfefec"
+  },
+  {
+   "fa": "در فیلم‌های او جاده‌ها و ماشین‌ها زیاد دیده می‌شوند.",
+   "r": "dar film-hā-ye u jādde-hā va māshin-hā ziyād dide mi-shavand.",
+   "en": "Roads and cars appear often in his films.",
+   "faV": "دَر فیلم‌هایِ او جادّه‌ها و ماشین‌ها زیاد دیده می‌شَوَند.",
+   "a": "ac8cdc2f6528"
+  },
+  {
+   "fa": "«طعم گیلاس» در سال ۱۹۹۷ نخل طلای کن را برد.",
+   "r": "«Ta'm-e gilās» dar sāl-e hezār-o-nohsad-o-navad-o-haft Nakhl-e Talā-ye Kan rā bord.",
+   "en": "Taste of Cherry won the Palme d'Or at Cannes in 1997.",
+   "faV": "«طَعمِ گیلاس» دَر سالِ ۱۹۹۷ نَخلِ طَلایِ کَن را بُرد.",
+   "a": "c473c5188689"
+  },
+  {
+   "fa": "بهرام بیضایی نمایشنامه‌های زیادی نوشته است.",
+   "r": "Bahrām Beyzā'i namāyesh-nāme-hā-ye ziyād-i neveshte ast.",
+   "en": "Bahram Beyzaie has written many plays.",
+   "faV": "بَهرام بَیضایی نَمایِشنامه‌هایِ زیادی نِوِشته اَست.",
+   "a": "6d97844beb19"
+  },
+  {
+   "fa": "فیلم «باشو، غریبه‌ی کوچک» درباره‌ی پسری از جنوب ایران است.",
+   "r": "film-e «Bāshu, gharibe-ye kuchak» darbāre-ye pesar-i az jonub-e Irān ast.",
+   "en": "The film Bashu, the Little Stranger is about a boy from the south of Iran.",
+   "faV": "فیلمِ «باشو، غَریبه‌یِ کوچَک» دَرباره‌یِ پِسَری اَز جُنوبِ ایران اَست.",
+   "a": "d90ff1ad710c"
+  },
+  {
+   "fa": "«گاو» ساخته‌ی داریوش مهرجویی یکی از نخستین فیلم‌های موج نو بود.",
+   "r": "«Gāv» sākhte-ye Dāriush Mehrju'i yek-i az nokhostin film-hā-ye mowj-e now bud.",
+   "en": "The Cow, by Dariush Mehrjui, was one of the first films of the New Wave.",
+   "faV": "«گاو» ساخته‌یِ داریوش مِهرجویی یِکی اَز نُخُستین فیلم‌هایِ مَوجِ نَو بود.",
+   "a": "fc6d5d71214a"
+  },
+  {
+   "fa": "«بچه‌های آسمان» داستان یک جفت کفش است.",
+   "r": "«Bacche-hā-ye āsemān» dāstān-e yek joft kafsh ast.",
+   "en": "Children of Heaven is the story of a pair of shoes.",
+   "faV": "«بَچّه‌هایِ آسِمان» داستانِ یِک جُفت کَفش اَست.",
+   "a": "bd3cc1c529ee"
+  },
+  {
+   "fa": "این فیلم مجید مجیدی نامزد جایزه‌ی اسکار شد.",
+   "r": "in film-e Majid Majidi nāmzad-e jāyeze-ye Oskār shod.",
+   "en": "This film by Majid Majidi was nominated for an Oscar.",
+   "faV": "این فیلمِ مَجید مَجیدی نامزَدِ جایِزه‌یِ اُسکار شُد.",
+   "a": "3538905cd639"
+  },
+  {
+   "fa": "اصغر فرهادی دو بار جایزه‌ی اسکار را برده است.",
+   "r": "Asghar Farhādi do bār jāyeze-ye Oskār rā borde ast.",
+   "en": "Asghar Farhadi has won the Oscar twice.",
+   "faV": "اَصغَر فَرهادی دو بار جایِزه‌یِ اُسکار را بُرده اَست.",
+   "a": "e48c9cc6089d"
+  },
+  {
+   "fa": "«جدایی نادر از سیمین» درباره‌ی یک خانواده در تهران است.",
+   "r": "«Jodā'i-ye Nāder az Simin» darbāre-ye yek khānevāde dar Tehrān ast.",
+   "en": "A Separation is about a family in Tehran.",
+   "faV": "«جُداییِ نادِر اَز سیمین» دَرباره‌یِ یِک خانِواده دَر تِهران اَست.",
+   "a": "d8284f9b34d0"
+  }
  ],
  "vocab": [
-  {"fa": "سینما", "r": "sinemā", "en": "cinema"},
-  {"fa": "فیلم", "r": "film", "en": "film"},
-  {"fa": "کارگردان", "r": "kārgardān", "en": "film director"},
-  {"fa": "بازیگر", "r": "bāzigar", "en": "actor, actress"},
-  {"fa": "فیلم‌نامه", "r": "film-nāme", "en": "screenplay"},
-  {"fa": "جشنواره", "r": "jashnvāre", "en": "festival"},
-  {"fa": "جایزه", "r": "jāyeze", "en": "prize, award"},
-  {"fa": "نامزد", "r": "nāmzad", "en": "nominee; fiancé(e)"},
-  {"fa": "کودک", "r": "kudak", "en": "child"},
-  {"fa": "جاده", "r": "jādde", "en": "road"},
-  {"fa": "روستا", "r": "rustā", "en": "village"},
-  {"fa": "مستند", "r": "mostanad", "en": "documentary"},
-  {"fa": "نمایشنامه", "r": "namāyesh-nāme", "en": "play (for the stage)"},
-  {"fa": "تماشاگر", "r": "tamāshāgar", "en": "spectator, viewer"},
-  {"fa": "صحنه", "r": "sahne", "en": "scene; stage"},
-  {"fa": "موج نو", "r": "mowj-e now", "en": "New Wave"}
+  {
+   "fa": "سینما",
+   "r": "sinemā",
+   "en": "cinema",
+   "faV": "سینِما",
+   "a": "d65b4a4bff19"
+  },
+  {
+   "fa": "فیلم",
+   "r": "film",
+   "en": "film",
+   "faV": "فیلم",
+   "a": "2b3fe3024937"
+  },
+  {
+   "fa": "کارگردان",
+   "r": "kārgardān",
+   "en": "film director",
+   "faV": "کارگَردان",
+   "a": "a5ed5a3aff6f"
+  },
+  {
+   "fa": "بازیگر",
+   "r": "bāzigar",
+   "en": "actor, actress",
+   "faV": "بازیگَر",
+   "a": "129d9874e24c"
+  },
+  {
+   "fa": "فیلم‌نامه",
+   "r": "film-nāme",
+   "en": "screenplay",
+   "faV": "فیلم‌نامه",
+   "a": "01f0e4ace586"
+  },
+  {
+   "fa": "جشنواره",
+   "r": "jashnvāre",
+   "en": "festival",
+   "faV": "جَشنواره",
+   "a": "6760de81a7bf"
+  },
+  {
+   "fa": "جایزه",
+   "r": "jāyeze",
+   "en": "prize, award",
+   "faV": "جایِزه",
+   "a": "0bb457cf4883"
+  },
+  {
+   "fa": "نامزد",
+   "r": "nāmzad",
+   "en": "nominee; fiancé(e)",
+   "faV": "نامزَد",
+   "a": "b16cf52e82e8"
+  },
+  {
+   "fa": "کودک",
+   "r": "kudak",
+   "en": "child",
+   "faV": "کودَک",
+   "a": "c6626fbefa1f"
+  },
+  {
+   "fa": "جاده",
+   "r": "jādde",
+   "en": "road",
+   "faV": "جادّه",
+   "a": "f74af9c695db"
+  },
+  {
+   "fa": "روستا",
+   "r": "rustā",
+   "en": "village",
+   "faV": "روستا",
+   "a": "e657e417499b"
+  },
+  {
+   "fa": "مستند",
+   "r": "mostanad",
+   "en": "documentary",
+   "faV": "مُستَنَد",
+   "a": "2769f76376d5"
+  },
+  {
+   "fa": "نمایشنامه",
+   "r": "namāyesh-nāme",
+   "en": "play (for the stage)",
+   "faV": "نَمایِشنامه",
+   "a": "a74e90d952f1"
+  },
+  {
+   "fa": "تماشاگر",
+   "r": "tamāshāgar",
+   "en": "spectator, viewer",
+   "faV": "تَماشاگَر",
+   "a": "2c8b6229263f"
+  },
+  {
+   "fa": "صحنه",
+   "r": "sahne",
+   "en": "scene; stage",
+   "faV": "صَحنه",
+   "a": "2ee6a7acd9a9"
+  },
+  {
+   "fa": "موج نو",
+   "r": "mowj-e now",
+   "en": "New Wave",
+   "faV": "مَوجِ نَو",
+   "a": "46ffcf1ae8b9"
+  }
  ],
  "facts": [
   "Kiarostami's Taste of Cherry shared the 1997 Palme d'Or with Shohei Imamura's The Eel.",
@@ -74,5 +242,7 @@
   "Children of Heaven (1997) was the first Iranian film nominated for the Oscar for best foreign-language film.",
   "A Separation (2011) won the Golden Bear in Berlin and, in 2012, the first Oscar for an Iranian film; Farhadi won a second with The Salesman.",
   "Jafar Panahi's It Was Just an Accident won the Palme d'Or in 2025, the second for an Iranian director."
- ]
+ ],
+ "titleV": "کیارُستَمی و سینِمایِ ایران",
+ "titleA": "0995c1174e3f"
 }

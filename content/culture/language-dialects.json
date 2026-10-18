@@ -42,99 +42,249 @@
    "r": "dar Irān be zabān-hā-ye ziyād-i sohbat mi-konand.",
    "en": "Many languages are spoken in Iran.",
    "col": "تو ایران به زبون‌های زیادی حرف می‌زنن.",
-   "colR": "tu Irān be zabun-hā-ye ziyād-i harf mi-zanan."
+   "colR": "tu Irān be zabun-hā-ye ziyād-i harf mi-zanan.",
+   "faV": "دَر ایران به زَبان‌هایِ زیادی صُحبَت می‌کُنَند.",
+   "a": "47c088586fc5",
+   "colV": "تو ایران به زَبون‌هایِ زیادی حَرف می‌زَنَن.",
+   "colA": "efef6363eb97"
   },
   {
    "fa": "زبان مادری من ترکی است.",
    "r": "zabān-e mādari-ye man torki ast.",
    "en": "My mother tongue is Azerbaijani Turkish.",
    "col": "زبون مادری من ترکیه.",
-   "colR": "zabun-e mādari-ye man torki-ye."
+   "colR": "zabun-e mādari-ye man torki-ye.",
+   "faV": "زَبانِ مادَریِ مَن تُرکی اَست.",
+   "a": "5489a6334aa1",
+   "colV": "زَبونِ مادَریِ مَن تُرکیه.",
+   "colA": "864527ec53f3"
   },
   {
    "fa": "مادربزرگم فقط کردی صحبت می‌کند.",
    "r": "mādar-bozorg-am faghat kordi sohbat mi-konad.",
    "en": "My grandmother only speaks Kurdish.",
    "col": "مادربزرگم فقط کردی حرف می‌زنه.",
-   "colR": "mādar-bozorg-am faghat kordi harf mi-zane."
+   "colR": "mādar-bozorg-am faghat kordi harf mi-zane.",
+   "faV": "مادَربُزُرگَم فَقَط کُردی صُحبَت می‌کُنَد.",
+   "a": "2ecfc6a4591a",
+   "colV": "مادَربُزُرگَم فَقَط کُردی حَرف می‌زَنه.",
+   "colA": "8d91dd2fe422"
   },
   {
    "fa": "در رشت مردم گیلکی حرف می‌زنند.",
    "r": "dar Rasht mardom gilaki harf mi-zanand.",
    "en": "In Rasht people speak Gilaki.",
    "col": "تو رشت مردم گیلکی حرف می‌زنن.",
-   "colR": "tu Rasht mardom gilaki harf mi-zanan."
+   "colR": "tu Rasht mardom gilaki harf mi-zanan.",
+   "faV": "دَر رَشت مَردُم گیلَکی حَرف می‌زَنَند.",
+   "a": "ea8ae52476e0",
+   "colV": "تو رَشت مَردُم گیلَکی حَرف می‌زَنَن.",
+   "colA": "c4595292bc30"
   },
   {
    "fa": "در تبریز بیشتر مردم ترکی و فارسی می‌دانند.",
    "r": "dar Tabriz bishtar-e mardom torki va fārsi mi-dānand.",
    "en": "In Tabriz most people know Azerbaijani and Persian.",
    "col": "تو تبریز بیشتر مردم ترکی و فارسی بلدن.",
-   "colR": "tu Tabriz bishtar-e mardom torki o fārsi balad-an."
+   "colR": "tu Tabriz bishtar-e mardom torki o fārsi balad-an.",
+   "faV": "دَر تَبریز بیشتَرِ مَردُم تُرکی و فارسی می‌دانَند.",
+   "a": "383721c05065",
+   "colV": "تو تَبریز بیشتَرِ مَردُم تُرکی و فارسی بَلَدَن.",
+   "colA": "5b5c5fc0abe0"
   },
   {
    "fa": "لری از همه‌ی زبان‌ها به فارسی نزدیک‌تر است.",
    "r": "lori az hame-ye zabān-hā be fārsi nazdik-tar ast.",
    "en": "Lori is closer to Persian than any other language.",
    "col": "لری از همه‌ی زبونا به فارسی نزدیک‌تره.",
-   "colR": "lori az hame-ye zabun-ā be fārsi nazdik-tar-e."
+   "colR": "lori az hame-ye zabun-ā be fārsi nazdik-tar-e.",
+   "faV": "لُری اَز هَمه‌یِ زَبان‌ها به فارسی نَزدیک‌تَر اَست.",
+   "a": "732bff9cf60e",
+   "colV": "لُری اَز هَمه‌یِ زَبونا به فارسی نَزدیک‌تَره.",
+   "colA": "fdc06bda7c5d"
   },
   {
    "fa": "زبان بلوچی در دو طرف مرز ایران و پاکستان صحبت می‌شود.",
    "r": "zabān-e baluchi dar do taraf-e marz-e Irān va Pākestān sohbat mi-shavad.",
-   "en": "Baluchi is spoken on both sides of the border between Iran and Pakistan."
+   "en": "Baluchi is spoken on both sides of the border between Iran and Pakistan.",
+   "faV": "زَبانِ بَلوچی دَر دو طَرَفِ مَرزِ ایران و پاکِستان صُحبَت می‌شَوَد.",
+   "a": "3306f3679e2b"
   },
   {
    "fa": "ارمنی‌های ایران مدرسه‌ها و کلیساهای خودشان را دارند.",
    "r": "armani-hā-ye Irān madrese-hā va kelisā-hā-ye khod-eshān rā dārand.",
-   "en": "Iran's Armenians have their own schools and churches."
+   "en": "Iran's Armenians have their own schools and churches.",
+   "faV": "اَرمَنی‌هایِ ایران مَدرِسه‌ها و کِلیساهایِ خودِشان را دارَند.",
+   "a": "f17a24260f58"
   },
   {
    "fa": "خیلی از ایرانی‌ها دوزبانه هستند.",
    "r": "kheyli az irāni-hā dozabāne hastand.",
    "en": "Many Iranians are bilingual.",
    "col": "خیلی از ایرانی‌ها دوزبونه‌ان.",
-   "colR": "kheyli az irāni-hā dozabune-an."
+   "colR": "kheyli az irāni-hā dozabune-an.",
+   "faV": "خَیلی اَز ایرانی‌ها دوزَبانه هَستَند.",
+   "a": "6c67c8090209",
+   "colV": "خَیلی اَز ایرانی‌ها دوزَبونه‌اَن.",
+   "colA": "462a0839f892"
   },
   {
    "fa": "لهجه‌ی اصفهانی خیلی معروف است.",
    "r": "lahje-ye esfahāni kheyli ma'ruf ast.",
    "en": "The Isfahan accent is very famous.",
    "col": "لهجه‌ی اصفهانی خیلی معروفه.",
-   "colR": "lahje-ye esfahāni kheyli ma'ruf-e."
+   "colR": "lahje-ye esfahāni kheyli ma'ruf-e.",
+   "faV": "لَهجه‌یِ اِصفَهانی خَیلی مَعروف اَست.",
+   "a": "0fd8092954f9",
+   "colV": "لَهجه‌یِ اِصفَهانی خَیلی مَعروفه.",
+   "colA": "40ee993f90a5"
   },
   {
    "fa": "شما اهل کجا هستید؟",
    "r": "shomā ahl-e kojā hastid?",
    "en": "Where are you from?",
    "col": "شما اهل کجایین؟",
-   "colR": "shomā ahl-e kojā-yin?"
+   "colR": "shomā ahl-e kojā-yin?",
+   "faV": "شُما اَهلِ کُجا هَستید؟",
+   "a": "4358c9bba241",
+   "colV": "شُما اَهلِ کُجایین؟",
+   "colA": "738a69ac73ea"
   },
   {
    "fa": "ببخشید، من کردی بلد نیستم.",
    "r": "bebakhshid, man kordi balad nistam.",
-   "en": "Sorry, I don't know Kurdish."
+   "en": "Sorry, I don't know Kurdish.",
+   "faV": "بِبَخشید، مَن کُردی بَلَد نیستَم.",
+   "a": "832460698d93"
   }
  ],
  "vocab": [
-  {"fa": "زبان مادری", "r": "zabān-e mādari", "en": "mother tongue"},
-  {"fa": "لهجه", "r": "lahje", "en": "accent"},
-  {"fa": "گویش", "r": "guyesh", "en": "dialect"},
-  {"fa": "دوزبانه", "r": "dozabāne", "en": "bilingual"},
-  {"fa": "کردی", "r": "kordi", "en": "Kurdish"},
-  {"fa": "ترکی", "r": "torki", "en": "Turkish; (in Iran) Azerbaijani"},
-  {"fa": "گیلکی", "r": "gilaki", "en": "Gilaki"},
-  {"fa": "مازندرانی", "r": "māzandarāni", "en": "Mazandarani"},
-  {"fa": "لری", "r": "lori", "en": "Lori"},
-  {"fa": "بلوچی", "r": "baluchi", "en": "Baluchi"},
-  {"fa": "ترکمنی", "r": "torkamani", "en": "Turkmen"},
-  {"fa": "ارمنی", "r": "armani", "en": "Armenian"},
-  {"fa": "استان", "r": "ostān", "en": "province"},
-  {"fa": "اهل", "r": "ahl", "en": "from (a place), native of"},
-  {"fa": "بلد بودن", "r": "balad budan", "en": "to know (a language, a way)"},
-  {"fa": "صحبت کردن", "r": "sohbat kardan", "en": "to speak, talk"},
-  {"fa": "حرف زدن", "r": "harf zadan", "en": "to talk (everyday)"},
-  {"fa": "نزدیک", "r": "nazdik", "en": "close, near"}
+  {
+   "fa": "زبان مادری",
+   "r": "zabān-e mādari",
+   "en": "mother tongue",
+   "faV": "زَبانِ مادَری",
+   "a": "4147370ea295"
+  },
+  {
+   "fa": "لهجه",
+   "r": "lahje",
+   "en": "accent",
+   "faV": "لَهجه",
+   "a": "59b0ecc5828f"
+  },
+  {
+   "fa": "گویش",
+   "r": "guyesh",
+   "en": "dialect",
+   "faV": "گویِش",
+   "a": "68c10a4feeaa"
+  },
+  {
+   "fa": "دوزبانه",
+   "r": "dozabāne",
+   "en": "bilingual",
+   "faV": "دوزَبانه",
+   "a": "f19923b224d3"
+  },
+  {
+   "fa": "کردی",
+   "r": "kordi",
+   "en": "Kurdish",
+   "faV": "کُردی",
+   "a": "cf008deafc78"
+  },
+  {
+   "fa": "ترکی",
+   "r": "torki",
+   "en": "Turkish; (in Iran) Azerbaijani",
+   "faV": "تُرکی",
+   "a": "b327e32adaff"
+  },
+  {
+   "fa": "گیلکی",
+   "r": "gilaki",
+   "en": "Gilaki",
+   "faV": "گیلَکی",
+   "a": "b31d264c3109"
+  },
+  {
+   "fa": "مازندرانی",
+   "r": "māzandarāni",
+   "en": "Mazandarani",
+   "faV": "مازَندَرانی",
+   "a": "d0d558bd259d"
+  },
+  {
+   "fa": "لری",
+   "r": "lori",
+   "en": "Lori",
+   "faV": "لُری",
+   "a": "7ff331725cc2"
+  },
+  {
+   "fa": "بلوچی",
+   "r": "baluchi",
+   "en": "Baluchi",
+   "faV": "بَلوچی",
+   "a": "b23ef85be4b7"
+  },
+  {
+   "fa": "ترکمنی",
+   "r": "torkamani",
+   "en": "Turkmen",
+   "faV": "تُرکَمَنی",
+   "a": "f86dfcf55685"
+  },
+  {
+   "fa": "ارمنی",
+   "r": "armani",
+   "en": "Armenian",
+   "faV": "اَرمَنی",
+   "a": "b7b90779f760"
+  },
+  {
+   "fa": "استان",
+   "r": "ostān",
+   "en": "province",
+   "faV": "اُستان",
+   "a": "73cb885dea3c"
+  },
+  {
+   "fa": "اهل",
+   "r": "ahl",
+   "en": "from (a place), native of",
+   "faV": "اَهل",
+   "a": "0e391e5ba467"
+  },
+  {
+   "fa": "بلد بودن",
+   "r": "balad budan",
+   "en": "to know (a language, a way)",
+   "faV": "بَلَد بودَن",
+   "a": "eedb3dedcca2"
+  },
+  {
+   "fa": "صحبت کردن",
+   "r": "sohbat kardan",
+   "en": "to speak, talk",
+   "faV": "صُحبَت کَردَن",
+   "a": "f7a64d6fff33"
+  },
+  {
+   "fa": "حرف زدن",
+   "r": "harf zadan",
+   "en": "to talk (everyday)",
+   "faV": "حَرف زَدَن",
+   "a": "5636de6a2814"
+  },
+  {
+   "fa": "نزدیک",
+   "r": "nazdik",
+   "en": "close, near",
+   "faV": "نَزدیک",
+   "a": "835c71e2b5d2"
+  }
  ],
  "facts": [
   "Article 15 of Iran's constitution makes Persian the official language and allows regional languages in the press and media and for teaching their literature in schools.",
@@ -144,5 +294,7 @@
   "Iran's parliament reserves two seats for Armenians and one for Assyrians and Chaldeans.",
   "Tehrani Persian turns ān into un in many everyday words: nān becomes nun and khāne becomes khune.",
   "Georgian is still spoken in Fereydunshahr, by descendants of Georgians settled there under Shah Abbas."
- ]
+ ],
+ "titleV": "زَبان‌هایِ ایران",
+ "titleA": "eede48ae6f52"
 }

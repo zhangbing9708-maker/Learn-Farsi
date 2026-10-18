@@ -14,22 +14,30 @@
     {
      "fa": "امروز جمعه است.",
      "r": "emruz jom'e ast.",
-     "en": "Today is Friday."
+     "en": "Today is Friday.",
+     "faV": "اِمروز جُمعه اَست.",
+     "a": "5af091b02d3f"
     },
     {
      "fa": "رضا صبح زود به نانوایی می‌رود و نان بربری می‌خرد.",
      "r": "Rezā sobh-e zud be nānvāyi mi-ravad o nān-e barbari mi-kharad.",
-     "en": "Early in the morning Reza goes to the bakery and buys barbari bread."
+     "en": "Early in the morning Reza goes to the bakery and buys barbari bread.",
+     "faV": "رِضا صُبحِ زود به نانوایی می‌رَوَد و نانِ بَربَری می‌خَرَد.",
+     "a": "2bf6ec29e512"
     },
     {
      "fa": "مینا چای درست می‌کند.",
      "r": "Minā chāy dorost mi-konad.",
-     "en": "Mina makes tea."
+     "en": "Mina makes tea.",
+     "faV": "مینا چای دُرُست می‌کُنَد.",
+     "a": "6acb582c57db"
     },
     {
      "fa": "تام هم امروز مهمان آن‌ها است.",
      "r": "Tām ham emruz mehmān-e ān-hā ast.",
-     "en": "Today Tom is their guest too."
+     "en": "Today Tom is their guest too.",
+     "faV": "تام هَم اِمروز مِهمانِ آن‌ها اَست.",
+     "a": "4a47b6d10e17"
     }
    ]
   },
@@ -38,22 +46,30 @@
     {
      "fa": "روی سفره نان، پنیر، گردو، کره و عسل هست.",
      "r": "ru-ye sofre nān, panir, gerdu, kare o 'asal hast.",
-     "en": "On the sofreh there is bread, cheese, walnuts, butter and honey."
+     "en": "On the sofreh there is bread, cheese, walnuts, butter and honey.",
+     "faV": "رویِ سُفره نان، پَنیر، گِردو، کَره و عَسَل هَست.",
+     "a": "8cf260a72306"
     },
     {
      "fa": "رضا نان و پنیر و گردو می‌خورد.",
      "r": "Rezā nān o panir o gerdu mi-khorad.",
-     "en": "Reza eats bread, cheese and walnuts."
+     "en": "Reza eats bread, cheese and walnuts.",
+     "faV": "رِضا نان و پَنیر و گِردو می‌خورَد.",
+     "a": "071e05d5779b"
     },
     {
      "fa": "مینا نان و کره و عسل دوست دارد.",
      "r": "Minā nān o kare o 'asal dust dārad.",
-     "en": "Mina likes bread, butter and honey."
+     "en": "Mina likes bread, butter and honey.",
+     "faV": "مینا نان و کَره و عَسَل دوست دارَد.",
+     "a": "f7abc37c7f03"
     },
     {
      "fa": "سارا فقط یک تخم‌مرغ می‌خواهد.",
      "r": "Sārā faghat yek tokhm-e-morgh mi-khāhad.",
-     "en": "Sara only wants an egg."
+     "en": "Sara only wants an egg.",
+     "faV": "سارا فَقَط یِک تُخمِ‌مُرغ می‌خواهَد.",
+     "a": "2a3d0916f878"
     }
    ]
   },
@@ -62,52 +78,180 @@
     {
      "fa": "تام می‌پرسد: «صبحانه‌ی ایرانی چیست؟»",
      "r": "Tām mi-porsad: «sobhāne-ye irāni chist?»",
-     "en": "Tom asks: \"What is an Iranian breakfast?\""
+     "en": "Tom asks: \"What is an Iranian breakfast?\"",
+     "faV": "تام می‌پُرسَد: «صُبحانه‌یِ ایرانی چیست؟»",
+     "a": "6d4a6efd10c2"
     },
     {
      "fa": "رضا می‌گوید: «همه چیز، با یک استکان چای!»",
      "r": "Rezā mi-guyad: «hame chiz, bā yek estekān chāy!»",
-     "en": "Reza says: \"Everything – with a glass of tea!\""
+     "en": "Reza says: \"Everything – with a glass of tea!\"",
+     "faV": "رِضا می‌گویَد: «هَمه چیز، با یِک اِستِکان چای!»",
+     "a": "5c8e244d45cf"
     },
     {
      "fa": "تام یک لقمه‌ی بزرگ درست می‌کند: نان، پنیر، گردو، کره، عسل و تخم‌مرغ!",
      "r": "Tām yek loghme-ye bozorg dorost mi-konad: nān, panir, gerdu, kare, 'asal o tokhm-e-morgh!",
-     "en": "Tom makes a big bite: bread, cheese, walnuts, butter, honey and egg!"
+     "en": "Tom makes a big bite: bread, cheese, walnuts, butter, honey and egg!",
+     "faV": "تام یِک لُقمه‌یِ بُزُرگ دُرُست می‌کُنَد: نان، پَنیر، گِردو، کَره، عَسَل و تُخمِ‌مُرغ!",
+     "a": "498260c28315"
     },
     {
      "fa": "همه می‌خندند.",
      "r": "hame mi-khandand.",
-     "en": "Everyone laughs."
+     "en": "Everyone laughs.",
+     "faV": "هَمه می‌خَندَند.",
+     "a": "c611843d8588"
     },
     {
      "fa": "سارا می‌گوید: «این صبحانه‌ی تام است!»",
      "r": "Sārā mi-guyad: «in sobhāne-ye Tām ast!»",
-     "en": "Sara says: \"That's Tom's breakfast!\""
+     "en": "Sara says: \"That's Tom's breakfast!\"",
+     "faV": "سارا می‌گویَد: «این صُبحانه‌یِ تام اَست!»",
+     "a": "a86566f307ce"
     }
    ]
   }
  ],
  "vocab": [
-  {"fa": "صبحانه", "r": "sobhāne", "en": "breakfast"},
-  {"fa": "جمعه", "r": "jom'e", "en": "Friday"},
-  {"fa": "صبح زود", "r": "sobh-e zud", "en": "early in the morning"},
-  {"fa": "بربری", "r": "barbari", "en": "barbari (a thick, golden flatbread)"},
-  {"fa": "مهمان", "r": "mehmān", "en": "guest"},
-  {"fa": "سفره", "r": "sofre", "en": "sofreh (a cloth spread for a meal)"},
-  {"fa": "پنیر", "r": "panir", "en": "cheese"},
-  {"fa": "گردو", "r": "gerdu", "en": "walnut"},
-  {"fa": "کره", "r": "kare", "en": "butter"},
-  {"fa": "عسل", "r": "'asal", "en": "honey"},
-  {"fa": "تخم‌مرغ", "r": "tokhm-e-morgh", "en": "egg"},
-  {"fa": "استکان", "r": "estekān", "en": "small tea glass"},
-  {"fa": "لقمه", "r": "loghme", "en": "a bite; a little roll of bread with something inside"},
-  {"fa": "درست کردن", "r": "dorost kardan", "en": "to make, prepare"}
+  {
+   "fa": "صبحانه",
+   "r": "sobhāne",
+   "en": "breakfast",
+   "faV": "صُبحانه",
+   "a": "4c37a2a6e99d"
+  },
+  {
+   "fa": "جمعه",
+   "r": "jom'e",
+   "en": "Friday",
+   "faV": "جُمعه",
+   "a": "1f1f1c508969"
+  },
+  {
+   "fa": "صبح زود",
+   "r": "sobh-e zud",
+   "en": "early in the morning",
+   "faV": "صُبحِ زود",
+   "a": "5fc177ec09d9"
+  },
+  {
+   "fa": "بربری",
+   "r": "barbari",
+   "en": "barbari (a thick, golden flatbread)",
+   "faV": "بَربَری",
+   "a": "69c75af13264"
+  },
+  {
+   "fa": "مهمان",
+   "r": "mehmān",
+   "en": "guest",
+   "faV": "مِهمان",
+   "a": "d96e2860a669"
+  },
+  {
+   "fa": "سفره",
+   "r": "sofre",
+   "en": "sofreh (a cloth spread for a meal)",
+   "faV": "سُفره",
+   "a": "a5e83036b4e5"
+  },
+  {
+   "fa": "پنیر",
+   "r": "panir",
+   "en": "cheese",
+   "faV": "پَنیر",
+   "a": "8c5b0504a445"
+  },
+  {
+   "fa": "گردو",
+   "r": "gerdu",
+   "en": "walnut",
+   "faV": "گِردو",
+   "a": "70cef9fc4f4a"
+  },
+  {
+   "fa": "کره",
+   "r": "kare",
+   "en": "butter",
+   "faV": "کَره",
+   "a": "fc0bcf42c5c1"
+  },
+  {
+   "fa": "عسل",
+   "r": "'asal",
+   "en": "honey",
+   "faV": "عَسَل",
+   "a": "cff3004b3ed5"
+  },
+  {
+   "fa": "تخم‌مرغ",
+   "r": "tokhm-e-morgh",
+   "en": "egg",
+   "faV": "تُخمِ‌مُرغ",
+   "a": "0d7a94e9d1ce"
+  },
+  {
+   "fa": "استکان",
+   "r": "estekān",
+   "en": "small tea glass",
+   "faV": "اِستِکان",
+   "a": "6b3e23c953c0"
+  },
+  {
+   "fa": "لقمه",
+   "r": "loghme",
+   "en": "a bite; a little roll of bread with something inside",
+   "faV": "لُقمه",
+   "a": "4376d73305a7"
+  },
+  {
+   "fa": "درست کردن",
+   "r": "dorost kardan",
+   "en": "to make, prepare",
+   "faV": "دُرُست کَردَن",
+   "a": "549dd8d3af17"
+  }
  ],
  "questions": [
-  {"q": "What day is it?", "options": ["Friday", "Monday", "Saturday"], "answer": 0},
-  {"q": "What bread does Reza buy?", "options": ["sangak", "barbari", "lavash"], "answer": 1},
-  {"q": "What does Sara want?", "options": ["honey", "an egg", "walnuts"], "answer": 1},
-  {"q": "What does Tom make?", "options": ["a big bite with everything in it", "a pot of tea", "a cake"], "answer": 0}
+  {
+   "q": "What day is it?",
+   "options": [
+    "Friday",
+    "Monday",
+    "Saturday"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What bread does Reza buy?",
+   "options": [
+    "sangak",
+    "barbari",
+    "lavash"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What does Sara want?",
+   "options": [
+    "honey",
+    "an egg",
+    "walnuts"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What does Tom make?",
+   "options": [
+    "a big bite with everything in it",
+    "a pot of tea",
+    "a cake"
+   ],
+   "answer": 0
+  }
  ],
- "after": "Bread, white cheese and walnuts – نان و پنیر و گردو – with sweet tea is the classic Iranian breakfast, and many families add butter and honey, jam, dates or fresh herbs. Breakfast is often eaten on a سفره, a cloth spread on the carpet. A لقمه is a little roll of flatbread wrapped around cheese and walnut (or anything else); Iranian mothers make لقمه for their children to take to school, and لقمه‌ی بزرگ 'a big bite' is a bit of a joke at the table. Notice the word order in رضا نان و پنیر و گردو می‌خورد: the verb comes last, and و 'and' (pronounced o) can join every item in a list."
+ "after": "Bread, white cheese and walnuts – نان و پنیر و گردو – with sweet tea is the classic Iranian breakfast, and many families add butter and honey, jam, dates or fresh herbs. Breakfast is often eaten on a سفره, a cloth spread on the carpet. A لقمه is a little roll of flatbread wrapped around cheese and walnut (or anything else); Iranian mothers make لقمه for their children to take to school, and لقمه‌ی بزرگ 'a big bite' is a bit of a joke at the table. Notice the word order in رضا نان و پنیر و گردو می‌خورد: the verb comes last, and و 'and' (pronounced o) can join every item in a list.",
+ "titleV": "صُبحانه دَر تِهران",
+ "titleA": "97486dc97a82"
 }

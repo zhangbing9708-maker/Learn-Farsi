@@ -1,120 +1,322 @@
 {
-  "id": "jami-elahi-ghonche",
-  "poet": "Jami",
-  "poetFa": "جامی",
-  "work": "Yusuf and Zuleykha",
-  "century": "15th",
-  "title": "Open the bud of hope",
-  "titleFa": "الهی غنچه‌ی امید بگشای",
-  "titleR": "elāhi ghonche-ye omid begoshāy",
-  "form": "masnavi (rhyming couplets)",
-  "intro": "Abd al-Rahman Jami of Herat (1414–1492) is often called the last great classical poet of Persian. A Sufi of the Naqshbandi order and a friend of the Timurid court, he wrote seven long poems, the *Haft Owrang* ('Seven Thrones'), and *Yusuf and Zuleykha* (1483) is the best loved of them. It retells the Quranic story of Joseph: Zuleykha, wife of the Egyptian official who has bought Joseph as a slave, falls in love with him – in Jami's version she has already loved him in her dreams – and tries to seduce him. He refuses, and she spends years in shame and longing until, old and blind, she is made young again and they marry. The poem opens with this prayer, and soon after with a famous chapter in praise of love.",
-  "lines": [
-    {
-      "fa": "الهی غنچه‌ی امید بگشای / گلی از روضه‌ی جاوید بنمای",
-      "r": "elāhi ghonche-ye omid begoshāy / goli az rowze-ye jāvid benamāy",
-      "en": "O God, open the bud of hope; / show me a rose from the everlasting garden.",
-      "words": [
-        ["الهی", "elāhi", "O God, my God"],
-        ["غنچه", "ghonche", "bud"],
-        ["امید", "omid", "hope"],
-        ["بگشای", "begoshāy", "open! (گشودن; today باز کن)"],
-        ["روضه", "rowze", "garden – paradise"],
-        ["جاوید", "jāvid", "eternal"],
-        ["بنمای", "benamāy", "show! (نمودن; today نشان بده)"]
-      ]
-    },
-    {
-      "fa": "بخندان از لب آن غنچه باغم / وزان گل عطرپرور کن دماغم",
-      "r": "bekhandān az lab-e ān ghonche bāgh-am / vazān gol 'etr-parvar kon damāgh-am",
-      "en": "Make my garden laugh with the lips of that bud, / and fill my senses with the scent of that rose.",
-      "note": "In poetry a bud 'laughs' when it opens: the خنده of a flower is its blossoming.",
-      "words": [
-        ["بخندان", "bekhandān", "make laugh! (خنداندن)"],
-        ["لب", "lab", "lip"],
-        ["باغ", "bāgh", "garden"],
-        ["وزان", "vazān", "and from that – و + از + آن"],
-        ["عطرپرور", "'etr-parvar", "nourished with perfume, perfumed"],
-        ["دماغ", "damāgh", "brain, sense of smell (today 'nose')"]
-      ]
-    },
-    {
-      "fa": "در این محنت‌سرای بی‌مواسا / به نعمت‌های خویشم کن شناسا",
-      "r": "dar in mehnat-sarā-ye bi-movāsā / be ne'mat-hā-ye khish-am kon shenāsā",
-      "en": "In this house of trouble, where no one shares our grief, / make me know your blessings.",
-      "words": [
-        ["محنت‌سرا", "mehnat-sarā", "house of hardship – this world"],
-        ["بی‌مواسا", "bi-movāsā", "without sympathy, where no one helps (Arabic مواسات 'sharing')"],
-        ["نعمت", "ne'mat", "blessing, gift"],
-        ["خویش", "khish", "your own – it refers back to God"],
-        ["خویشم", "khish-am", "your own … me – the ـم 'me' belongs to the verb"],
-        ["شناسا", "shenāsā", "knowing, aware"]
-      ]
-    },
-    {
-      "fa": "ضمیرم را سپاس‌اندیش گردان / زبانم را ثنای خویش گردان",
-      "r": "zamir-am rā sepās-andish gardān / zabān-am rā sanā-ye khish gardān",
-      "en": "Make my heart think of thanks, / and turn my tongue to your praise.",
-      "note": "The prayer goes on for several more couplets that are not included here. The next four couplets come from the prologue's chapter in praise of love, a few pages later.",
-      "words": [
-        ["ضمیر", "zamir", "the inner self, heart, mind (today also 'pronoun')"],
-        ["سپاس", "sepās", "thanks"],
-        ["سپاس‌اندیش", "sepās-andish", "thinking of thanks, grateful"],
-        ["گرداندن", "gardāndan", "to make, to turn into; گردان 'make!'"],
-        ["ثنا", "sanā", "praise"]
-      ]
-    },
-    {
-      "fa": "دلی فارغ ز درد عشق دل نیست / تن بی‌درد دل جز آب و گل نیست",
-      "r": "deli fāregh ze dard-e 'eshgh del nist / tan-e bi-dard-e del joz āb o gel nist",
-      "en": "A heart free of the pain of love is no heart; / a body without heartache is only water and clay.",
-      "words": [
-        ["فارغ", "fāregh", "free, untroubled"],
-        ["درد عشق", "dard-e 'eshgh", "the pain of love"],
-        ["تن", "tan", "body"],
-        ["بی‌درد", "bi-dard", "without pain – also 'insensitive'"],
-        ["درد دل", "dard-e del", "heartache"],
-        ["آب و گل", "āb o gel", "water and clay – what the body is made of"]
-      ]
-    },
-    {
-      "fa": "غم عشق از دل کس کم مبادا / دل بی‌عشق در عالم مبادا",
-      "r": "gham-e 'eshgh az del-e kas kam mabādā / del-e bi-'eshgh dar 'ālam mabādā",
-      "en": "May the sorrow of love never leave anyone's heart; / may there be no heart in the world without love.",
-      "words": [
-        ["غم عشق", "gham-e 'eshgh", "the sorrow of love"],
-        ["کس", "kas", "anyone"],
-        ["کم", "kam", "less, missing"],
-        ["مبادا", "mabādā", "may it not be (today mostly 'lest, in case')"],
-        ["بی‌عشق", "bi-'eshgh", "loveless"]
-      ]
-    },
-    {
-      "fa": "فلک سرگشته از سودای عشق است / جهان پرفتنه از غوغای عشق است",
-      "r": "falak sargashte az sowdā-ye 'eshgh ast / jahān por-fetne az ghowghā-ye 'eshgh ast",
-      "en": "The sky spins dizzy with the passion of love; / the world is full of turmoil from the uproar of love.",
-      "words": [
-        ["فلک", "falak", "the sky, the spheres"],
-        ["سرگشته", "sargashte", "dizzy, bewildered, wandering"],
-        ["سودا", "sowdā", "passion, obsession (also 'trade')"],
-        ["فتنه", "fetne", "turmoil, mischief"],
-        ["غوغا", "ghowghā", "uproar, commotion"]
-      ]
-    },
-    {
-      "fa": "اسیر عشق شو کآزاد باشی / غمش بر سینه نه تا شاد باشی",
-      "r": "asir-e 'eshgh sho kāzād bāshi / gham-ash bar sine neh tā shād bāshi",
-      "en": "Become love's captive, so that you may be free; / lay its sorrow on your heart, so that you may be happy.",
-      "words": [
-        ["اسیر", "asir", "captive, prisoner"],
-        ["شو", "sho", "become! – بشو"],
-        ["کآزاد", "kāzād", "so that free – که + آزاد"],
-        ["نه", "neh", "put! – imperative of نهادن (not نه 'no')"],
-        ["سینه", "sine", "breast, heart"],
-        ["شاد", "shād", "happy, glad"]
-      ]
-    }
-  ],
-  "commentary": "**The images.** The prayer is a garden. Hope is a closed bud that only God can open; paradise is a rose garden from which the poet asks for a single flower; the open bud 'laughs' and the rose fills his senses with perfume. Against this garden stands the world, a [[محنت‌سرا|mehnat-sarā]], a house of trouble where no one shares your grief. The prayer asks for two simple things: to notice God's gifts and to thank him for them. Then the prologue turns to love, which for Jami is what makes a heart a heart: without it a body is only water and clay; the spinning sky and the turmoil of the world are its work; to be its prisoner is to be free. This is the key to the whole poem, in which Zuleykha's earthly passion for Joseph becomes, through suffering, a love of God.\n\n**The rhythm.** Jami uses *hazaj*, the metre of Nezami's *Khosrow and Shirin* and of Baba Taher's dobeytis: *da-DUM-DUM-DUM da-DUM-DUM-DUM da-DUM-DUM*. Hear it in *fa-lak sar-gash-te az sow-dā-ye 'esh-ghast*. Each couplet rhymes on its own – [[بگشای|begoshāy]] / [[بنمای|benamāy]], [[باغم|bāgh-am]] / [[دماغم|damāgh-am]] – and several end in a repeated word, as [[گردان|gardān]], [[نیست|nist]] and [[مبادا|mabādā]] do.\n\n**The grammar.** The prayer is a string of commands addressed to God: [[بگشای|begoshāy]] 'open', [[بنمای|benamāy]] 'show', [[بخندان|bekhandān]] 'make laugh', [[کن|kon]] 'make', [[گردان|gardān]] 'turn into'. Watch the little [[ـم|-am]] 'me': in [[به نعمت‌های خویشم کن شناسا|be ne'mat-hā-ye khish-am kon shenāsā]] it is attached to [[خویش|khish]] but is the object of the verb – 'make me aware of your blessings'. [[خویش|khish]] 'one's own' means 'your own' here, because it refers back to God. Couplet 4 in modern prose: [[دلم را شکرگزار کن و زبانم را به ستایش خودت بگردان|del-am rā shokr-gozār kon va zabān-am rā be setāyesh-e khod-at begardān]].\n\n**Using it.** The opening couplet is often quoted on its own as a short prayer, and [[دلی فارغ ز درد عشق دل نیست|deli fāregh ze dard-e 'eshgh del nist]] comes up whenever someone defends love against good sense. Today [[مبادا|mabādā]] usually means 'lest, in case' – [[مبادا دیر کنی!|mabādā dir koni!]] 'don't you dare be late!' – but in Jami it is still the old wish 'may it not be'.",
-  "image": "persian-miniature"
+ "id": "jami-elahi-ghonche",
+ "poet": "Jami",
+ "poetFa": "جامی",
+ "work": "Yusuf and Zuleykha",
+ "century": "15th",
+ "title": "Open the bud of hope",
+ "titleFa": "الهی غنچه‌ی امید بگشای",
+ "titleR": "elāhi ghonche-ye omid begoshāy",
+ "form": "masnavi (rhyming couplets)",
+ "intro": "Abd al-Rahman Jami of Herat (1414–1492) is often called the last great classical poet of Persian. A Sufi of the Naqshbandi order and a friend of the Timurid court, he wrote seven long poems, the *Haft Owrang* ('Seven Thrones'), and *Yusuf and Zuleykha* (1483) is the best loved of them. It retells the Quranic story of Joseph: Zuleykha, wife of the Egyptian official who has bought Joseph as a slave, falls in love with him – in Jami's version she has already loved him in her dreams – and tries to seduce him. He refuses, and she spends years in shame and longing until, old and blind, she is made young again and they marry. The poem opens with this prayer, and soon after with a famous chapter in praise of love.",
+ "lines": [
+  {
+   "fa": "الهی غنچه‌ی امید بگشای / گلی از روضه‌ی جاوید بنمای",
+   "r": "elāhi ghonche-ye omid begoshāy / goli az rowze-ye jāvid benamāy",
+   "en": "O God, open the bud of hope; / show me a rose from the everlasting garden.",
+   "words": [
+    [
+     "الهی",
+     "elāhi",
+     "O God, my God"
+    ],
+    [
+     "غنچه",
+     "ghonche",
+     "bud"
+    ],
+    [
+     "امید",
+     "omid",
+     "hope"
+    ],
+    [
+     "بگشای",
+     "begoshāy",
+     "open! (گشودن; today باز کن)"
+    ],
+    [
+     "روضه",
+     "rowze",
+     "garden – paradise"
+    ],
+    [
+     "جاوید",
+     "jāvid",
+     "eternal"
+    ],
+    [
+     "بنمای",
+     "benamāy",
+     "show! (نمودن; today نشان بده)"
+    ]
+   ],
+   "faV": "اِلهی غُنچه‌یِ اُمید بِگُشای / گُلی اَز رَوضه‌یِ جاوید بِنَمای",
+   "a": "a731e5bbb9d3"
+  },
+  {
+   "fa": "بخندان از لب آن غنچه باغم / وزان گل عطرپرور کن دماغم",
+   "r": "bekhandān az lab-e ān ghonche bāgh-am / vazān gol 'etr-parvar kon damāgh-am",
+   "en": "Make my garden laugh with the lips of that bud, / and fill my senses with the scent of that rose.",
+   "note": "In poetry a bud 'laughs' when it opens: the خنده of a flower is its blossoming.",
+   "words": [
+    [
+     "بخندان",
+     "bekhandān",
+     "make laugh! (خنداندن)"
+    ],
+    [
+     "لب",
+     "lab",
+     "lip"
+    ],
+    [
+     "باغ",
+     "bāgh",
+     "garden"
+    ],
+    [
+     "وزان",
+     "vazān",
+     "and from that – و + از + آن"
+    ],
+    [
+     "عطرپرور",
+     "'etr-parvar",
+     "nourished with perfume, perfumed"
+    ],
+    [
+     "دماغ",
+     "damāgh",
+     "brain, sense of smell (today 'nose')"
+    ]
+   ],
+   "faV": "بِخَندان اَز لَبِ آن غُنچه باغَم / وَزان گُل عِطرپَروَر کُن دَماغَم",
+   "a": "961a9e772195"
+  },
+  {
+   "fa": "در این محنت‌سرای بی‌مواسا / به نعمت‌های خویشم کن شناسا",
+   "r": "dar in mehnat-sarā-ye bi-movāsā / be ne'mat-hā-ye khish-am kon shenāsā",
+   "en": "In this house of trouble, where no one shares our grief, / make me know your blessings.",
+   "words": [
+    [
+     "محنت‌سرا",
+     "mehnat-sarā",
+     "house of hardship – this world"
+    ],
+    [
+     "بی‌مواسا",
+     "bi-movāsā",
+     "without sympathy, where no one helps (Arabic مواسات 'sharing')"
+    ],
+    [
+     "نعمت",
+     "ne'mat",
+     "blessing, gift"
+    ],
+    [
+     "خویش",
+     "khish",
+     "your own – it refers back to God"
+    ],
+    [
+     "خویشم",
+     "khish-am",
+     "your own … me – the ـم 'me' belongs to the verb"
+    ],
+    [
+     "شناسا",
+     "shenāsā",
+     "knowing, aware"
+    ]
+   ],
+   "faV": "دَر این مِحنَت‌سَرایِ بی‌مُواسا / به نِعمَت‌هایِ خویشَم کُن شِناسا",
+   "a": "444058a01c8f"
+  },
+  {
+   "fa": "ضمیرم را سپاس‌اندیش گردان / زبانم را ثنای خویش گردان",
+   "r": "zamir-am rā sepās-andish gardān / zabān-am rā sanā-ye khish gardān",
+   "en": "Make my heart think of thanks, / and turn my tongue to your praise.",
+   "note": "The prayer goes on for several more couplets that are not included here. The next four couplets come from the prologue's chapter in praise of love, a few pages later.",
+   "words": [
+    [
+     "ضمیر",
+     "zamir",
+     "the inner self, heart, mind (today also 'pronoun')"
+    ],
+    [
+     "سپاس",
+     "sepās",
+     "thanks"
+    ],
+    [
+     "سپاس‌اندیش",
+     "sepās-andish",
+     "thinking of thanks, grateful"
+    ],
+    [
+     "گرداندن",
+     "gardāndan",
+     "to make, to turn into; گردان 'make!'"
+    ],
+    [
+     "ثنا",
+     "sanā",
+     "praise"
+    ]
+   ],
+   "faV": "ضَمیرَم را سِپاس‌اَندیش گَردان / زَبانَم را ثَنایِ خویش گَردان",
+   "a": "4d2e6963cdbf"
+  },
+  {
+   "fa": "دلی فارغ ز درد عشق دل نیست / تن بی‌درد دل جز آب و گل نیست",
+   "r": "deli fāregh ze dard-e 'eshgh del nist / tan-e bi-dard-e del joz āb o gel nist",
+   "en": "A heart free of the pain of love is no heart; / a body without heartache is only water and clay.",
+   "words": [
+    [
+     "فارغ",
+     "fāregh",
+     "free, untroubled"
+    ],
+    [
+     "درد عشق",
+     "dard-e 'eshgh",
+     "the pain of love"
+    ],
+    [
+     "تن",
+     "tan",
+     "body"
+    ],
+    [
+     "بی‌درد",
+     "bi-dard",
+     "without pain – also 'insensitive'"
+    ],
+    [
+     "درد دل",
+     "dard-e del",
+     "heartache"
+    ],
+    [
+     "آب و گل",
+     "āb o gel",
+     "water and clay – what the body is made of"
+    ]
+   ],
+   "faV": "دِلی فارِغ ز دَردِ عِشق دِل نیست / تَنِ بی‌دَردِ دِل جُز آب و گِل نیست",
+   "a": "50bea6a9f1bd"
+  },
+  {
+   "fa": "غم عشق از دل کس کم مبادا / دل بی‌عشق در عالم مبادا",
+   "r": "gham-e 'eshgh az del-e kas kam mabādā / del-e bi-'eshgh dar 'ālam mabādā",
+   "en": "May the sorrow of love never leave anyone's heart; / may there be no heart in the world without love.",
+   "words": [
+    [
+     "غم عشق",
+     "gham-e 'eshgh",
+     "the sorrow of love"
+    ],
+    [
+     "کس",
+     "kas",
+     "anyone"
+    ],
+    [
+     "کم",
+     "kam",
+     "less, missing"
+    ],
+    [
+     "مبادا",
+     "mabādā",
+     "may it not be (today mostly 'lest, in case')"
+    ],
+    [
+     "بی‌عشق",
+     "bi-'eshgh",
+     "loveless"
+    ]
+   ],
+   "faV": "غَمِ عِشق اَز دِلِ کَس کَم مَبادا / دِلِ بی‌عِشق دَر عالَم مَبادا",
+   "a": "b52ccaae29f9"
+  },
+  {
+   "fa": "فلک سرگشته از سودای عشق است / جهان پرفتنه از غوغای عشق است",
+   "r": "falak sargashte az sowdā-ye 'eshgh ast / jahān por-fetne az ghowghā-ye 'eshgh ast",
+   "en": "The sky spins dizzy with the passion of love; / the world is full of turmoil from the uproar of love.",
+   "words": [
+    [
+     "فلک",
+     "falak",
+     "the sky, the spheres"
+    ],
+    [
+     "سرگشته",
+     "sargashte",
+     "dizzy, bewildered, wandering"
+    ],
+    [
+     "سودا",
+     "sowdā",
+     "passion, obsession (also 'trade')"
+    ],
+    [
+     "فتنه",
+     "fetne",
+     "turmoil, mischief"
+    ],
+    [
+     "غوغا",
+     "ghowghā",
+     "uproar, commotion"
+    ]
+   ],
+   "faV": "فَلَک سَرگَشته اَز سَودایِ عِشق اَست / جَهان پُرفِتنه اَز غَوغایِ عِشق اَست",
+   "a": "78a2d5190334"
+  },
+  {
+   "fa": "اسیر عشق شو کآزاد باشی / غمش بر سینه نه تا شاد باشی",
+   "r": "asir-e 'eshgh sho kāzād bāshi / gham-ash bar sine neh tā shād bāshi",
+   "en": "Become love's captive, so that you may be free; / lay its sorrow on your heart, so that you may be happy.",
+   "words": [
+    [
+     "اسیر",
+     "asir",
+     "captive, prisoner"
+    ],
+    [
+     "شو",
+     "sho",
+     "become! – بشو"
+    ],
+    [
+     "کآزاد",
+     "kāzād",
+     "so that free – که + آزاد"
+    ],
+    [
+     "نه",
+     "neh",
+     "put! – imperative of نهادن (not نه 'no')"
+    ],
+    [
+     "سینه",
+     "sine",
+     "breast, heart"
+    ],
+    [
+     "شاد",
+     "shād",
+     "happy, glad"
+    ]
+   ],
+   "faV": "اَسیرِ عِشق شو کآزاد باشی / غَمَش بَر سینه نِه تا شاد باشی",
+   "a": "fe8cdf1926ad"
+  }
+ ],
+ "commentary": "**The images.** The prayer is a garden. Hope is a closed bud that only God can open; paradise is a rose garden from which the poet asks for a single flower; the open bud 'laughs' and the rose fills his senses with perfume. Against this garden stands the world, a [[محنت‌سرا|mehnat-sarā]], a house of trouble where no one shares your grief. The prayer asks for two simple things: to notice God's gifts and to thank him for them. Then the prologue turns to love, which for Jami is what makes a heart a heart: without it a body is only water and clay; the spinning sky and the turmoil of the world are its work; to be its prisoner is to be free. This is the key to the whole poem, in which Zuleykha's earthly passion for Joseph becomes, through suffering, a love of God.\n\n**The rhythm.** Jami uses *hazaj*, the metre of Nezami's *Khosrow and Shirin* and of Baba Taher's dobeytis: *da-DUM-DUM-DUM da-DUM-DUM-DUM da-DUM-DUM*. Hear it in *fa-lak sar-gash-te az sow-dā-ye 'esh-ghast*. Each couplet rhymes on its own – [[بگشای|begoshāy]] / [[بنمای|benamāy]], [[باغم|bāgh-am]] / [[دماغم|damāgh-am]] – and several end in a repeated word, as [[گردان|gardān]], [[نیست|nist]] and [[مبادا|mabādā]] do.\n\n**The grammar.** The prayer is a string of commands addressed to God: [[بگشای|begoshāy]] 'open', [[بنمای|benamāy]] 'show', [[بخندان|bekhandān]] 'make laugh', [[کن|kon]] 'make', [[گردان|gardān]] 'turn into'. Watch the little [[ـم|-am]] 'me': in [[به نعمت‌های خویشم کن شناسا|be ne'mat-hā-ye khish-am kon shenāsā]] it is attached to [[خویش|khish]] but is the object of the verb – 'make me aware of your blessings'. [[خویش|khish]] 'one's own' means 'your own' here, because it refers back to God. Couplet 4 in modern prose: [[دلم را شکرگزار کن و زبانم را به ستایش خودت بگردان|del-am rā shokr-gozār kon va zabān-am rā be setāyesh-e khod-at begardān]].\n\n**Using it.** The opening couplet is often quoted on its own as a short prayer, and [[دلی فارغ ز درد عشق دل نیست|deli fāregh ze dard-e 'eshgh del nist]] comes up whenever someone defends love against good sense. Today [[مبادا|mabādā]] usually means 'lest, in case' – [[مبادا دیر کنی!|mabādā dir koni!]] 'don't you dare be late!' – but in Jami it is still the old wish 'may it not be'.",
+ "image": "persian-miniature",
+ "titleV": "اِلهی غُنچه‌یِ اُمید بِگُشای",
+ "titleA": "af1dc4cf17a1"
 }

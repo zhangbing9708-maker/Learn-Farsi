@@ -357,10 +357,10 @@ The Persian of regret has its own sighs. When it is too late to change anything,
 
 **Put the words in order**
 
-1. می‌خریدم. / داشتم، / یک / اگر / خانه / پول — If I had money, I would buy a house.
-2. کاش / نزده / حرف / آن / را / بودم. — I wish I hadn't said that.
-3. به / زنگ / من / می‌زدی. / باید / زودتر — You should have called me sooner.
-4. شاید / گذاشته / در / را / ماشین / جا / کلیدم / باشم. — I may have left my key in the car.
+1. اگر / یک / می‌خریدم. / داشتم، / پول / خانه — If I had money, I would buy a house.
+2. کاش / حرف / نزده / آن / را / بودم. — I wish I hadn't said that.
+3. زودتر / به / باید / من / زنگ / می‌زدی. — You should have called me sooner.
+4. کلیدم / جا / را / در / باشم. / شاید / ماشین / گذاشته — I may have left my key in the car.
 
 <details><summary>Answers</summary>
 

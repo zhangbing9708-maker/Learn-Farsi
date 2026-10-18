@@ -397,9 +397,9 @@ _The life of the poet in modern written Persian. Notice the past tenses of narra
 **Put the words in order**
 
 1. قونیه / در / درگذشت. / مولانا — Mowlana died in Konya.
-2. زیر / شمس / و / را / زندگی / رو / مولانا / کرد. — Shams turned Mowlana's life upside down.
-3. دور / کسی / هر / از / ماند / کو / اصل / خویش — Whoever is left far from his origin…
-4. جدایی‌ها / از / می‌کند. / حکایت / نی — The reed tells a tale of separations.
+2. زیر / شمس / را / زندگی / مولانا / رو / کرد. / و — Shams turned Mowlana's life upside down.
+3. هر / خویش / دور / کو / ماند / از / کسی / اصل — Whoever is left far from his origin…
+4. حکایت / می‌کند. / جدایی‌ها / نی / از — The reed tells a tale of separations.
 
 <details><summary>Answers</summary>
 

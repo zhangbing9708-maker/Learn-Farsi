@@ -397,10 +397,10 @@ For adults, the classic guide to good written Persian is غلط ننویسیم (
 
 **Put the words in order**
 
-1. بگیرند. / همه / بنابراین، / باید / یاد / زبان — Therefore, everyone should learn languages.
-2. علاوه / است. / مترو / ارزان / این، / بر — Moreover, the metro is cheap.
-3. سو، / لذت‌بخش / یک / دیگر، / از / از / سوی / است. / است؛ / سخت — On the one hand it's hard; on the other, it's enjoyable.
-4. به / یک / دیگر، / است. / عبارت / سرمایه / زبان — In other words, language is an investment.
+1. یاد / باید / زبان / بنابراین، / همه / بگیرند. — Therefore, everyone should learn languages.
+2. ارزان / مترو / است. / این، / علاوه / بر — Moreover, the metro is cheap.
+3. است؛ / دیگر، / است. / یک / سخت / سوی / لذت‌بخش / از / از / سو، — On the one hand it's hard; on the other, it's enjoyable.
+4. عبارت / دیگر، / به / است. / یک / زبان / سرمایه — In other words, language is an investment.
 
 <details><summary>Answers</summary>
 

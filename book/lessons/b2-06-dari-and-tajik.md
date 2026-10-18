@@ -443,10 +443,10 @@ One poet ties the three countries together especially neatly. Nasir Khusraw (100
 
 **Put the words in order**
 
-1. رسمی / فارسی / کشور / است. / سه / زبان — Persian is an official language in three countries.
-2. به / تاجیک‌ها / خط / سیریلیک / را / حافظ / می‌خوانند. — Tajiks read Hafez in Cyrillic.
-3. به / موتر / می‌گویند. / کابل / در / ماشین — In Kabul a car is called a motar.
-4. شعر / حافظ / مشترک / میراث / ماست. — The poetry of Hafez is our shared heritage.
+1. فارسی / است. / زبان / رسمی / کشور / سه — Persian is an official language in three countries.
+2. خط / را / به / می‌خوانند. / تاجیک‌ها / حافظ / سیریلیک — Tajiks read Hafez in Cyrillic.
+3. کابل / به / در / می‌گویند. / ماشین / موتر — In Kabul a car is called a motar.
+4. میراث / مشترک / ماست. / شعر / حافظ — The poetry of Hafez is our shared heritage.
 
 <details><summary>Answers</summary>
 
