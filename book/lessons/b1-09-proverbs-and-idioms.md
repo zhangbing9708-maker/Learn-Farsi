@@ -437,9 +437,9 @@ Proverbs are also a game. At family gatherings, especially on long winter evenin
 **Put the words in order**
 
 1. یک / ندارد. / صدا / دست — One hand can't clap.
-2. گردی / هر / گردو / نیست. — Not every round thing is a walnut.
-3. فردا / به / مینداز. / را / کار / امروز — Don't put off today's work till tomorrow.
-4. است. / از / را / ماهی / تازه / هر / وقت / آب / بگیری، — Whenever you take a fish out of the water, it's fresh.
+2. نیست. / گردو / گردی / هر — Not every round thing is a walnut.
+3. را / مینداز. / امروز / کار / به / فردا — Don't put off today's work till tomorrow.
+4. ماهی / وقت / را / است. / هر / از / تازه / آب / بگیری، — Whenever you take a fish out of the water, it's fresh.
 
 <details><summary>Answers</summary>
 

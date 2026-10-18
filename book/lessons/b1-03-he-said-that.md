@@ -354,10 +354,10 @@ And when Iranians tell a story among friends, they love direct speech, often in 
 
 **Put the words in order**
 
-1. مینا / می‌آید. / گفت / که / امشب / دیر — Mina said she would be late tonight.
-2. گرسنه / پرسیدم / است. / او / از / که / آیا — I asked him whether he was hungry.
-3. صبر / از / مدیر / که / خواست / ما / کنیم. — The manager asked us to wait.
-4. داد / دیگر / که / قول / رضا / دیر / نکند. — Reza promised not to be late again.
+1. که / امشب / می‌آید. / دیر / گفت / مینا — Mina said she would be late tonight.
+2. او / که / آیا / است. / پرسیدم / گرسنه / از — I asked him whether he was hungry.
+3. صبر / که / مدیر / از / کنیم. / ما / خواست — The manager asked us to wait.
+4. که / قول / دیر / داد / دیگر / نکند. / رضا — Reza promised not to be late again.
 
 <details><summary>Answers</summary>
 

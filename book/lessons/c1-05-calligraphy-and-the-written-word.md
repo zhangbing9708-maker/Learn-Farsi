@@ -212,7 +212,7 @@ _Leila takes Tom to her Thursday calligraphy class with Ms Ahmadi. A narrative i
 - این هفته تام را هم با خود برد.  
   *in hafte Tām rā ham bā khod bord.* — This week she took Tom with her.
 - کلاس در اتاقی کوچک با پنجره‌های رنگی برگزار می‌شد و بوی مرکب در هوا بود.  
-  *kelās dar otāgh-i kuchek bā panjare-hā-ye rangi bargozār mi-shod va bu-ye morakkab dar havā bud.* — The class was held in a small room with coloured windows, and the smell of ink hung in the air.
+  *kelās dar otāgh-i kuchak bā panjare-hā-ye rangi bargozār mi-shod va bu-ye morakkab dar havā bud.* — The class was held in a small room with coloured windows, and the smell of ink hung in the air.
 - شاگردان روی زمین نشسته بودند و کاغذ را روی زانو گذاشته بودند.  
   *shāgerdān ru-ye zamin neshaste budand va kāghaz rā ru-ye zānu gozāshte budand.* — The pupils were sitting on the floor with their paper resting on their knees.
 - خانم احمدی نخست به تام نشان داد که چگونه قلم نی را با قلمتراش بتراشد و سر آن را قط بزند.  
@@ -344,10 +344,10 @@ All three wrote with the same tool: the **reed pen** (قلم نی (*ghalam-e ney
 
 **Put the words in order**
 
-1. خوشنویس / با / می‌نویسد. / قلم / نی — The calligrapher writes with a reed pen.
-2. کوفی / کاسه / است. / تزئین / با / شده / این / خط — This bowl is decorated with Kufic script.
-3. به / را / دیوان / نستعلیق / حافظ / خط / می‌نویسند. — The Divan of Hafez is written in Nasta'liq.
-4. کتیبه / از / می‌شود. / شروع / سمت / راست — The inscription starts on the right.
+1. خوشنویس / نی / می‌نویسد. / قلم / با — The calligrapher writes with a reed pen.
+2. خط / است. / کوفی / شده / با / کاسه / تزئین / این — This bowl is decorated with Kufic script.
+3. را / دیوان / خط / می‌نویسند. / به / حافظ / نستعلیق — The Divan of Hafez is written in Nasta'liq.
+4. راست / می‌شود. / سمت / شروع / از / کتیبه — The inscription starts on the right.
 
 <details><summary>Answers</summary>
 
