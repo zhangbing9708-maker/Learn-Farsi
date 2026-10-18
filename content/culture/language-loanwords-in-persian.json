@@ -38,102 +38,260 @@
    "r": "besyāri az vāzhe-hā-ye fārsi az arabi āmade-and.",
    "en": "Many Persian words come from Arabic.",
    "col": "خیلی از کلمه‌های فارسی از عربی اومدن.",
-   "colR": "kheyli az kalame-hā-ye fārsi az arabi umadan."
+   "colR": "kheyli az kalame-hā-ye fārsi az arabi umadan.",
+   "faV": "بِسیاری اَز واژه‌هایِ فارسی اَز عَرَبی آمَده‌اَند.",
+   "a": "c455c0a14a6d",
+   "colV": "خَیلی اَز کَلَمه‌هایِ فارسی اَز عَرَبی اومَدَن.",
+   "colA": "256dbfb30743"
   },
   {
    "fa": "«کتاب» و «وقت» واژه‌های عربی هستند.",
    "r": "«ketāb» va «vaght» vāzhe-hā-ye arabi hastand.",
    "en": "Ketāb and vaght are Arabic words.",
    "col": "«کتاب» و «وقت» کلمه‌های عربی‌ان.",
-   "colR": "«ketāb» o «vaght» kalame-hā-ye arabi-an."
+   "colR": "«ketāb» o «vaght» kalame-hā-ye arabi-an.",
+   "faV": "«کِتاب» و «وَقت» واژه‌هایِ عَرَبی هَستَند.",
+   "a": "b0878bf3083b",
+   "colV": "«کِتاب» و «وَقت» کَلَمه‌هایِ عَرَبی‌اَن.",
+   "colA": "af8b9c4d78fe"
   },
   {
    "fa": "«اتاق» و «قاشق» از ترکی آمده‌اند.",
    "r": "«otāgh» va «ghāshogh» az torki āmade-and.",
    "en": "Otāgh and ghāshogh come from Turkic.",
    "col": "«اتاق» و «قاشق» از ترکی اومدن.",
-   "colR": "«otāgh» o «ghāshogh» az torki umadan."
+   "colR": "«otāgh» o «ghāshogh» az torki umadan.",
+   "faV": "«اُتاق» و «قاشُق» اَز تُرکی آمَده‌اَند.",
+   "a": "22a696ef6661",
+   "colV": "«اُتاق» و «قاشُق» اَز تُرکی اومَدَن.",
+   "colA": "5fc4d0c628f5"
   },
   {
    "fa": "«تومان» در زبان مغولی یعنی ده هزار.",
    "r": "«tomān» dar zabān-e mogholi ya'ni dah hezār.",
-   "en": "In Mongol, toman means ten thousand."
+   "en": "In Mongol, toman means ten thousand.",
+   "faV": "«تومان» دَر زَبانِ مُغولی یَعنی دَه هِزار.",
+   "a": "37fbc3c1d0cd"
   },
   {
    "fa": "«ماشین» در اصل یک واژه‌ی فرانسوی است.",
    "r": "«māshin» dar asl yek vāzhe-ye farānsavi ast.",
    "en": "Māshin is originally a French word.",
    "col": "«ماشین» در اصل یه کلمه‌ی فرانسویه.",
-   "colR": "«māshin» dar asl ye kalame-ye farānsavi-ye."
+   "colR": "«māshin» dar asl ye kalame-ye farānsavi-ye.",
+   "faV": "«ماشین» دَر اَصل یِک واژه‌یِ فَرانسَوی اَست.",
+   "a": "7cba2ea26a22",
+   "colV": "«ماشین» دَر اَصل یه کَلَمه‌یِ فَرانسَویه.",
+   "colA": "2085b86b8f67"
   },
   {
    "fa": "تهرانی‌ها خیلی «مرسی» می‌گویند.",
    "r": "tehrāni-hā kheyli «mersi» mi-guyand.",
    "en": "Tehranis say merci a lot.",
    "col": "تهرانی‌ها خیلی «مرسی» می‌گن.",
-   "colR": "tehrāni-hā kheyli «mersi» mi-gan."
+   "colR": "tehrāni-hā kheyli «mersi» mi-gan.",
+   "faV": "تِهرانی‌ها خَیلی «مِرسی» می‌گویَند.",
+   "a": "0d27942884d8",
+   "colV": "تِهرانی‌ها خَیلی «مِرسی» می‌گَن.",
+   "colA": "ed2d2e494c22"
   },
   {
    "fa": "با آسانسور به طبقه‌ی پنجم بروید.",
    "r": "bā āsānsor be tabaghe-ye panjom be-ravid.",
    "en": "Take the lift to the fifth floor.",
    "col": "با آسانسور برین طبقه‌ی پنجم.",
-   "colR": "bā āsānsor be-rin tabaghe-ye panjom."
+   "colR": "bā āsānsor be-rin tabaghe-ye panjom.",
+   "faV": "با آسانسور به طَبَقه‌یِ پَنجُم بِرَوید.",
+   "a": "248ae88217c5",
+   "colV": "با آسانسور بِرین طَبَقه‌یِ پَنجُم.",
+   "colA": "60af9566893f"
   },
   {
    "fa": "یک استکان چای می‌خورید؟",
    "r": "yek estekān chāy mi-khorid?",
    "en": "Will you have a glass of tea?",
    "col": "یه استکان چای می‌خورین؟",
-   "colR": "ye estekān chāy mi-khorin?"
+   "colR": "ye estekān chāy mi-khorin?",
+   "faV": "یِک اِستِکان چای می‌خورید؟",
+   "a": "4f16a5dab7a3",
+   "colV": "یه اِستِکان چای می‌خورین؟",
+   "colA": "9be6b7b67414"
   },
   {
    "fa": "«یارانه» واژه‌ای است که فرهنگستان ساخت.",
    "r": "«yārāne» vāzhe-i ast ke farhangestān sākht.",
-   "en": "Yārāne is a word that the Academy made."
+   "en": "Yārāne is a word that the Academy made.",
+   "faV": "«یارانه» واژه‌ای اَست که فَرهَنگِستان ساخت.",
+   "a": "fa644016424d"
   },
   {
    "fa": "مردم هنوز به رایانه «کامپیوتر» می‌گویند.",
    "r": "mardom hanuz be rāyāne «kāmpyuter» mi-guyand.",
    "en": "People still call a rāyāne a 'kāmpyuter'.",
    "col": "مردم هنوز به رایانه می‌گن «کامپیوتر».",
-   "colR": "mardom hanuz be rāyāne mi-gan «kāmpyuter»."
+   "colR": "mardom hanuz be rāyāne mi-gan «kāmpyuter».",
+   "faV": "مَردُم هَنوز به رایانه «کامپیوتِر» می‌گویَند.",
+   "a": "18fd6f4e988a",
+   "colV": "مَردُم هَنوز به رایانه می‌گَن «کامپیوتِر».",
+   "colA": "9bf100d9bd4e"
   },
   {
    "fa": "برایم پیامک بفرست.",
    "r": "barā-yam payāmak be-ferest.",
    "en": "Send me a text.",
    "col": "برام پیامک بفرست.",
-   "colR": "barā-m payāmak be-ferest."
+   "colR": "barā-m payāmak be-ferest.",
+   "faV": "بَرایَم پَیامَک بِفِرِست.",
+   "a": "414fa9e06758",
+   "colV": "بَرام پَیامَک بِفِرِست.",
+   "colA": "eb3a9dc0be97"
   },
   {
    "fa": "بعضی از واژه‌های فرهنگستان جا افتاده‌اند و بعضی نه.",
    "r": "ba'zi az vāzhe-hā-ye farhangestān jā oftāde-and va ba'zi na.",
    "en": "Some of the Academy's words have caught on and some haven't.",
    "col": "بعضی از کلمه‌های فرهنگستان جا افتادن و بعضی نه.",
-   "colR": "ba'zi az kalame-hā-ye farhangestān jā oftādan o ba'zi na."
+   "colR": "ba'zi az kalame-hā-ye farhangestān jā oftādan o ba'zi na.",
+   "faV": "بَعضی اَز واژه‌هایِ فَرهَنگِستان جا اُفتاده‌اَند و بَعضی نه.",
+   "a": "2f5e690a9791",
+   "colV": "بَعضی اَز کَلَمه‌هایِ فَرهَنگِستان جا اُفتادَن و بَعضی نه.",
+   "colA": "b793643b9535"
   }
  ],
  "vocab": [
-  {"fa": "وام‌واژه", "r": "vām-vāzhe", "en": "loanword"},
-  {"fa": "کلمه", "r": "kalame", "en": "word (everyday)"},
-  {"fa": "ترکی", "r": "torki", "en": "Turkish, Turkic"},
-  {"fa": "مغولی", "r": "mogholi", "en": "Mongol, Mongolian"},
-  {"fa": "فرانسوی", "r": "farānsavi", "en": "French"},
-  {"fa": "انگلیسی", "r": "engelisi", "en": "English"},
-  {"fa": "فرهنگستان", "r": "farhangestān", "en": "academy (of language)"},
-  {"fa": "اتاق", "r": "otāgh", "en": "room"},
-  {"fa": "قاشق", "r": "ghāshogh", "en": "spoon"},
-  {"fa": "تومان", "r": "tomān", "en": "toman (ten rials)"},
-  {"fa": "مرسی", "r": "mersi", "en": "thanks"},
-  {"fa": "آسانسور", "r": "āsānsor", "en": "lift, elevator"},
-  {"fa": "مبل", "r": "mobl", "en": "sofa, armchair"},
-  {"fa": "استکان", "r": "estekān", "en": "small tea glass"},
-  {"fa": "یارانه", "r": "yārāne", "en": "subsidy"},
-  {"fa": "رایانه", "r": "rāyāne", "en": "computer (formal)"},
-  {"fa": "پیامک", "r": "payāmak", "en": "text message"},
-  {"fa": "بالگرد", "r": "bālgard", "en": "helicopter (formal)"},
-  {"fa": "جا افتادن", "r": "jā oftādan", "en": "to catch on, become established"}
+  {
+   "fa": "وام‌واژه",
+   "r": "vām-vāzhe",
+   "en": "loanword",
+   "faV": "وام‌واژه",
+   "a": "de71fdfade02"
+  },
+  {
+   "fa": "کلمه",
+   "r": "kalame",
+   "en": "word (everyday)",
+   "faV": "کَلَمه",
+   "a": "1472bd7fd603"
+  },
+  {
+   "fa": "ترکی",
+   "r": "torki",
+   "en": "Turkish, Turkic",
+   "faV": "تُرکی",
+   "a": "b327e32adaff"
+  },
+  {
+   "fa": "مغولی",
+   "r": "mogholi",
+   "en": "Mongol, Mongolian",
+   "faV": "مُغولی",
+   "a": "ec46526e89fd"
+  },
+  {
+   "fa": "فرانسوی",
+   "r": "farānsavi",
+   "en": "French",
+   "faV": "فَرانسَوی",
+   "a": "cdfbee3d1981"
+  },
+  {
+   "fa": "انگلیسی",
+   "r": "engelisi",
+   "en": "English",
+   "faV": "اِنگِلیسی",
+   "a": "619ccc33945e"
+  },
+  {
+   "fa": "فرهنگستان",
+   "r": "farhangestān",
+   "en": "academy (of language)",
+   "faV": "فَرهَنگِستان",
+   "a": "c75c4232cd16"
+  },
+  {
+   "fa": "اتاق",
+   "r": "otāgh",
+   "en": "room",
+   "faV": "اُتاق",
+   "a": "c53580fdf2e4"
+  },
+  {
+   "fa": "قاشق",
+   "r": "ghāshogh",
+   "en": "spoon",
+   "faV": "قاشُق",
+   "a": "d44d91e35ae3"
+  },
+  {
+   "fa": "تومان",
+   "r": "tomān",
+   "en": "toman (ten rials)",
+   "faV": "تومان",
+   "a": "306eba506939"
+  },
+  {
+   "fa": "مرسی",
+   "r": "mersi",
+   "en": "thanks",
+   "faV": "مِرسی",
+   "a": "3cd9a10ebae3"
+  },
+  {
+   "fa": "آسانسور",
+   "r": "āsānsor",
+   "en": "lift, elevator",
+   "faV": "آسانسور",
+   "a": "053f24e17099"
+  },
+  {
+   "fa": "مبل",
+   "r": "mobl",
+   "en": "sofa, armchair",
+   "faV": "مُبل",
+   "a": "53de198de5bc"
+  },
+  {
+   "fa": "استکان",
+   "r": "estekān",
+   "en": "small tea glass",
+   "faV": "اِستِکان",
+   "a": "6b3e23c953c0"
+  },
+  {
+   "fa": "یارانه",
+   "r": "yārāne",
+   "en": "subsidy",
+   "faV": "یارانه",
+   "a": "e280f25e4e52"
+  },
+  {
+   "fa": "رایانه",
+   "r": "rāyāne",
+   "en": "computer (formal)",
+   "faV": "رایانه",
+   "a": "1518a51beecd"
+  },
+  {
+   "fa": "پیامک",
+   "r": "payāmak",
+   "en": "text message",
+   "faV": "پَیامَک",
+   "a": "556169771290"
+  },
+  {
+   "fa": "بالگرد",
+   "r": "bālgard",
+   "en": "helicopter (formal)",
+   "faV": "بالگَرد",
+   "a": "5bd6f7a0dd9f"
+  },
+  {
+   "fa": "جا افتادن",
+   "r": "jā oftādan",
+   "en": "to catch on, become established",
+   "faV": "جا اُفتادَن",
+   "a": "b1d0a77dcf33"
+  }
  ],
  "facts": [
   "The letters ث، ح، ذ، ص، ض، ط، ظ and ع appear almost only in words borrowed from Arabic.",
@@ -143,5 +301,7 @@
   "The idea that estekān comes from English 'east tea can' is a folk etymology: the word is Russian stakan, 'glass'.",
   "Iranians often say merci, while Afghans more often say tashakor, from Arabic.",
   "Persian turns borrowed nouns into verbs with kardan: telefon kardan 'to phone', fekr kardan 'to think'."
- ]
+ ],
+ "titleV": "وام‌واژه‌ها دَر فارسی",
+ "titleA": "63e058361cbb"
 }

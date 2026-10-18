@@ -41,95 +41,241 @@
    "r": "«bāzār» yek vāzhe-ye fārsi ast ke dar engelisi ham hast.",
    "en": "Bazaar is a Persian word that exists in English too.",
    "col": "«بازار» یه کلمه‌ی فارسیه که تو انگلیسی هم هست.",
-   "colR": "«bāzār» ye kalame-ye fārsi-ye ke tu engelisi ham hast."
+   "colR": "«bāzār» ye kalame-ye fārsi-ye ke tu engelisi ham hast.",
+   "faV": "«بازار» یِک واژه‌یِ فارسی اَست که دَر اِنگِلیسی هَم هَست.",
+   "a": "25303a317595",
+   "colV": "«بازار» یه کَلَمه‌یِ فارسیه که تو اِنگِلیسی هَم هَست.",
+   "colA": "ee57c4685b1f"
   },
   {
    "fa": "«کاروان» یعنی گروهی از مسافران که با هم سفر می‌کنند.",
    "r": "«kārvān» ya'ni goruh-i az mosāferān ke bā ham safar mi-konand.",
-   "en": "A caravan is a group of travellers who travel together."
+   "en": "A caravan is a group of travellers who travel together.",
+   "faV": "«کاروان» یَعنی گُروهی اَز مُسافِران که با هَم سَفَر می‌کُنَند.",
+   "a": "d716a666598b"
   },
   {
    "fa": "امروز به محوطه‌ی دانشگاه «پردیس» می‌گویند.",
    "r": "emruz be mohavvate-ye dāneshgāh «pardis» mi-guyand.",
    "en": "Today a university campus is called a pardis.",
    "col": "الان به محوطه‌ی دانشگاه می‌گن «پردیس».",
-   "colR": "alān be mohavvate-ye dāneshgāh mi-gan «pardis»."
+   "colR": "alān be mohavvate-ye dāneshgāh mi-gan «pardis».",
+   "faV": "اِمروز به مُحَوَّطه‌یِ دانِشگاه «پَردیس» می‌گویَند.",
+   "a": "4c7c15e182ca",
+   "colV": "اَلان به مُحَوَّطه‌یِ دانِشگاه می‌گَن «پَردیس».",
+   "colA": "0f0ab3108542"
   },
   {
    "fa": "اسفناج یک واژه‌ی فارسی است که از راه عربی به اروپا رسید.",
    "r": "esfenāj yek vāzhe-ye fārsi ast ke az rāh-e arabi be Orupā resid.",
-   "en": "Spinach is a Persian word that reached Europe by way of Arabic."
+   "en": "Spinach is a Persian word that reached Europe by way of Arabic.",
+   "faV": "اِسفِناج یِک واژه‌یِ فارسی اَست که اَز راهِ عَرَبی به اُروپا رِسید.",
+   "a": "bccc6e125c83"
   },
   {
    "fa": "«یاسمن» هم اسم گل است و هم اسم دختر.",
    "r": "«yāsaman» ham esm-e gol ast va ham esm-e dokhtar.",
    "en": "Yasaman is both the name of a flower and a girl's name.",
    "col": "«یاسمن» هم اسم گله هم اسم دختر.",
-   "colR": "«yāsaman» ham esm-e gol-e ham esm-e dokhtar."
+   "colR": "«yāsaman» ham esm-e gol-e ham esm-e dokhtar.",
+   "faV": "«یاسَمَن» هَم اِسمِ گُل اَست و هَم اِسمِ دُختَر.",
+   "a": "af2036a143ab",
+   "colV": "«یاسَمَن» هَم اِسمِ گُله هَم اِسمِ دُختَر.",
+   "colA": "dfd3a6d544fa"
   },
   {
    "fa": "هلو در لاتین «سیب ایرانی» نام داشت.",
    "r": "holu dar lātin «sib-e irāni» nām dāsht.",
-   "en": "In Latin the peach was called 'the Persian apple'."
+   "en": "In Latin the peach was called 'the Persian apple'.",
+   "faV": "هُلو دَر لاتین «سیبِ ایرانی» نام داشت.",
+   "a": "b3e047ebbca8"
   },
   {
    "fa": "ایرانی‌ها امروز به پایجامه «پیژامه» می‌گویند.",
    "r": "irāni-hā emruz be pāy-jāme «pizhāme» mi-guyand.",
    "en": "Today Iranians call pyjamas pizhāme.",
    "col": "ایرانی‌ها الان به پایجامه می‌گن «پیژامه».",
-   "colR": "irāni-hā alān be pāy-jāme mi-gan «pizhāme»."
+   "colR": "irāni-hā alān be pāy-jāme mi-gan «pizhāme».",
+   "faV": "ایرانی‌ها اِمروز به پایجامه «پیژامه» می‌گویَند.",
+   "a": "11be0206200d",
+   "colV": "ایرانی‌ها اَلان به پایجامه می‌گَن «پیژامه».",
+   "colA": "478537da242d"
   },
   {
    "fa": "«خاکی» یعنی به رنگ خاک.",
    "r": "«khāki» ya'ni be rang-e khāk.",
-   "en": "Khāki means 'the colour of dust'."
+   "en": "Khāki means 'the colour of dust'.",
+   "faV": "«خاکی» یَعنی به رَنگِ خاک.",
+   "a": "6ad9d2f9672f"
   },
   {
    "fa": "ایرانی‌ها در شطرنج می‌گویند «کیش و مات».",
    "r": "irāni-hā dar shatranj mi-guyand «kish o māt».",
    "en": "In chess Iranians say 'kish o māt' – check and mate.",
    "col": "ایرانی‌ها تو شطرنج می‌گن «کیش و مات».",
-   "colR": "irāni-hā tu shatranj mi-gan «kish o māt»."
+   "colR": "irāni-hā tu shatranj mi-gan «kish o māt».",
+   "faV": "ایرانی‌ها دَر شَطرَنج می‌گویَند «کیش و مات».",
+   "a": "7b1bc7e4eb3b",
+   "colV": "ایرانی‌ها تو شَطرَنج می‌گَن «کیش و مات».",
+   "colA": "f44d51dbf2ac"
   },
   {
    "fa": "خوارزمی دانشمند بزرگ ایرانی در قرن نهم بود.",
    "r": "Khārazmi dāneshmand-e bozorg-e irāni dar gharn-e nohom bud.",
-   "en": "Khwarizmi was a great Iranian scholar of the 9th century."
+   "en": "Khwarizmi was a great Iranian scholar of the 9th century.",
+   "faV": "خوارَزمی دانِشمَندِ بُزُرگِ ایرانی دَر قَرنِ نُهُم بود.",
+   "a": "a573fdf98cb2"
   },
   {
    "fa": "واژه‌ی «الگوریتم» از نام خوارزمی می‌آید.",
    "r": "vāzhe-ye «algoritm» az nām-e Khārazmi mi-āyad.",
    "en": "The word algorithm comes from the name of al-Khwarizmi.",
    "col": "کلمه‌ی «الگوریتم» از اسم خوارزمی میاد.",
-   "colR": "kalame-ye «algoritm» az esm-e Khārazmi mi-yād."
+   "colR": "kalame-ye «algoritm» az esm-e Khārazmi mi-yād.",
+   "faV": "واژه‌یِ «اَلگوریتم» اَز نامِ خوارَزمی می‌آیَد.",
+   "a": "ab7af0e3852e",
+   "colV": "کَلَمه‌یِ «اَلگوریتم» اَز اِسمِ خوارَزمی میاد.",
+   "colA": "fa720fc29911"
   },
   {
    "fa": "شما چند واژه‌ی فارسی در انگلیسی می‌شناسید؟",
    "r": "shomā chand vāzhe-ye fārsi dar engelisi mi-shenāsid?",
    "en": "How many Persian words in English do you know?",
    "col": "شما چند تا کلمه‌ی فارسی تو انگلیسی می‌شناسین؟",
-   "colR": "shomā chand tā kalame-ye fārsi tu engelisi mi-shenāsin?"
+   "colR": "shomā chand tā kalame-ye fārsi tu engelisi mi-shenāsin?",
+   "faV": "شُما چَند واژه‌یِ فارسی دَر اِنگِلیسی می‌شِناسید؟",
+   "a": "85c5c8283127",
+   "colV": "شُما چَند تا کَلَمه‌یِ فارسی تو اِنگِلیسی می‌شِناسین؟",
+   "colA": "7f4efe147619"
   }
  ],
  "vocab": [
-  {"fa": "بازار", "r": "bāzār", "en": "market, bazaar"},
-  {"fa": "کاروان", "r": "kārvān", "en": "caravan"},
-  {"fa": "کاروانسرا", "r": "kārvānsarā", "en": "caravanserai, roadside inn"},
-  {"fa": "مسافر", "r": "mosāfer", "en": "traveller, passenger"},
-  {"fa": "پردیس", "r": "pardis", "en": "campus; (old) walled garden"},
-  {"fa": "باغ", "r": "bāgh", "en": "garden"},
-  {"fa": "شال", "r": "shāl", "en": "shawl, scarf"},
-  {"fa": "پیژامه", "r": "pizhāme", "en": "pyjamas"},
-  {"fa": "خاک", "r": "khāk", "en": "earth, dust, soil"},
-  {"fa": "کوشک", "r": "kushk", "en": "pavilion"},
-  {"fa": "شطرنج", "r": "shatranj", "en": "chess"},
-  {"fa": "کیش و مات", "r": "kish o māt", "en": "checkmate"},
-  {"fa": "یاسمن", "r": "yāsaman", "en": "jasmine"},
-  {"fa": "اسفناج", "r": "esfenāj", "en": "spinach"},
-  {"fa": "هلو", "r": "holu", "en": "peach"},
-  {"fa": "مغ", "r": "mogh", "en": "Zoroastrian priest, magus"},
-  {"fa": "دیوان", "r": "divān", "en": "collection of poems; (old) government office"},
-  {"fa": "دانشمند", "r": "dāneshmand", "en": "scientist, scholar"}
+  {
+   "fa": "بازار",
+   "r": "bāzār",
+   "en": "market, bazaar",
+   "faV": "بازار",
+   "a": "05299979b024"
+  },
+  {
+   "fa": "کاروان",
+   "r": "kārvān",
+   "en": "caravan",
+   "faV": "کاروان",
+   "a": "29d681dd5f6a"
+  },
+  {
+   "fa": "کاروانسرا",
+   "r": "kārvānsarā",
+   "en": "caravanserai, roadside inn",
+   "faV": "کاروانسَرا",
+   "a": "6495162454cf"
+  },
+  {
+   "fa": "مسافر",
+   "r": "mosāfer",
+   "en": "traveller, passenger",
+   "faV": "مُسافِر",
+   "a": "10db1dff73df"
+  },
+  {
+   "fa": "پردیس",
+   "r": "pardis",
+   "en": "campus; (old) walled garden",
+   "faV": "پَردیس",
+   "a": "d17f06501594"
+  },
+  {
+   "fa": "باغ",
+   "r": "bāgh",
+   "en": "garden",
+   "faV": "باغ",
+   "a": "56f735b72c6f"
+  },
+  {
+   "fa": "شال",
+   "r": "shāl",
+   "en": "shawl, scarf",
+   "faV": "شال",
+   "a": "0045dd0296f5"
+  },
+  {
+   "fa": "پیژامه",
+   "r": "pizhāme",
+   "en": "pyjamas",
+   "faV": "پیژامه",
+   "a": "a5a456953efb"
+  },
+  {
+   "fa": "خاک",
+   "r": "khāk",
+   "en": "earth, dust, soil",
+   "faV": "خاک",
+   "a": "317b4f0c8a24"
+  },
+  {
+   "fa": "کوشک",
+   "r": "kushk",
+   "en": "pavilion",
+   "faV": "کوشک",
+   "a": "24a8621d605e"
+  },
+  {
+   "fa": "شطرنج",
+   "r": "shatranj",
+   "en": "chess",
+   "faV": "شَطرَنج",
+   "a": "918d6208ee56"
+  },
+  {
+   "fa": "کیش و مات",
+   "r": "kish o māt",
+   "en": "checkmate",
+   "faV": "کیش و مات",
+   "a": "269f0fedf502"
+  },
+  {
+   "fa": "یاسمن",
+   "r": "yāsaman",
+   "en": "jasmine",
+   "faV": "یاسَمَن",
+   "a": "38836808c93c"
+  },
+  {
+   "fa": "اسفناج",
+   "r": "esfenāj",
+   "en": "spinach",
+   "faV": "اِسفِناج",
+   "a": "f4fb33cc3356"
+  },
+  {
+   "fa": "هلو",
+   "r": "holu",
+   "en": "peach",
+   "faV": "هُلو",
+   "a": "080cc711e647"
+  },
+  {
+   "fa": "مغ",
+   "r": "mogh",
+   "en": "Zoroastrian priest, magus",
+   "faV": "مُغ",
+   "a": "f96eb6fcb828"
+  },
+  {
+   "fa": "دیوان",
+   "r": "divān",
+   "en": "collection of poems; (old) government office",
+   "faV": "دیوان",
+   "a": "990e80bfe2c0"
+  },
+  {
+   "fa": "دانشمند",
+   "r": "dāneshmand",
+   "en": "scientist, scholar",
+   "faV": "دانِشمَند",
+   "a": "f46b05901811"
+  }
  ],
  "facts": [
   "Van, as in delivery van, is a 19th-century shortening of caravan.",
@@ -139,5 +285,7 @@
   "In Persian chess the king is still the شاه; 'check' is کیش and 'checkmate' کیش و مات.",
   "The 'wise men from the East' of the Gospel of Matthew are magoi in the Greek original: the word for Persian priests.",
   "Al-Khwarizmi also gave English the word algebra, from al-jabr in the title of his book on equations."
- ]
+ ],
+ "titleV": "واژه‌هایِ فارسی دَر اِنگِلیسی",
+ "titleA": "170d646f7a4e"
 }

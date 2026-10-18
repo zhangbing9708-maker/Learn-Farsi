@@ -289,10 +289,10 @@ Family life is close. Fridays often mean a long lunch at the grandparents' house
 
 **Put the words in order**
 
-1. شصت / سال / پدرم / دارد. — My father is sixty.
-2. خواهر / تو / داری؟ / و / برادر — Do you have brothers and sisters?
-3. اسم / چیست؟ / برادرت — What's your brother's name?
-4. خانواده‌ی / ما / نفر / پنج / است. — There are five people in our family.
+1. دارد. / سال / شصت / پدرم — My father is sixty.
+2. برادر / داری؟ / و / تو / خواهر — Do you have brothers and sisters?
+3. برادرت / اسم / چیست؟ — What's your brother's name?
+4. خانواده‌ی / نفر / پنج / است. / ما — There are five people in our family.
 
 <details><summary>Answers</summary>
 

@@ -14,27 +14,37 @@
     {
      "fa": "امروز هوا ابری است.",
      "r": "emruz havā abri ast.",
-     "en": "Today the weather is cloudy."
+     "en": "Today the weather is cloudy.",
+     "faV": "اِمروز هَوا اَبری اَست.",
+     "a": "b6bd97b7de1d"
     },
     {
      "fa": "مینا ساعت هفت به سر کار می‌رود.",
      "r": "Minā sā'at-e haft be sar-e kār mi-ravad.",
-     "en": "Mina goes to work at seven o'clock."
+     "en": "Mina goes to work at seven o'clock.",
+     "faV": "مینا ساعَتِ هَفت به سَرِ کار می‌رَوَد.",
+     "a": "af7d70812f99"
     },
     {
      "fa": "او چتر ندارد.",
      "r": "u chatr na-dārad.",
-     "en": "She doesn't have an umbrella."
+     "en": "She doesn't have an umbrella.",
+     "faV": "او چَتر نَدارَد.",
+     "a": "ae364d2ab65e"
     },
     {
      "fa": "در خیابان، باران می‌آید.",
      "r": "dar khiyābān, bārān mi-āyad.",
-     "en": "In the street, it starts to rain."
+     "en": "In the street, it starts to rain.",
+     "faV": "دَر خیابان، باران می‌آیَد.",
+     "a": "f162dfb4cf54"
     },
     {
      "fa": "لباس مینا خیس می‌شود.",
      "r": "lebās-e Minā khis mi-shavad.",
-     "en": "Mina's clothes get wet."
+     "en": "Mina's clothes get wet.",
+     "faV": "لِباسِ مینا خیس می‌شَوَد.",
+     "a": "0e6d7c882b7a"
     }
    ]
   },
@@ -43,22 +53,30 @@
     {
      "fa": "خانم احمدی، همسایه‌ی مینا، از پنجره نگاه می‌کند.",
      "r": "khānom-e Ahmadi, hamsāye-ye Minā, az panjare negāh mi-konad.",
-     "en": "Ms Ahmadi, Mina's neighbour, is looking out of the window."
+     "en": "Ms Ahmadi, Mina's neighbour, is looking out of the window.",
+     "faV": "خانُمِ اَحمَدی، هَمسایه‌یِ مینا، اَز پَنجَره نِگاه می‌کُنَد.",
+     "a": "655a91a1b0b9"
     },
     {
      "fa": "او با یک چتر زرد بیرون می‌آید.",
      "r": "u bā yek chatr-e zard birun mi-āyad.",
-     "en": "She comes out with a yellow umbrella."
+     "en": "She comes out with a yellow umbrella.",
+     "faV": "او با یِک چَترِ زَرد بیرون می‌آیَد.",
+     "a": "1bb55536181b"
     },
     {
      "fa": "خانم احمدی می‌گوید: «مینا جان، این چتر برای تو!»",
      "r": "khānom-e Ahmadi mi-guyad: «Minā jān, in chatr barā-ye to!»",
-     "en": "Ms Ahmadi says: \"Mina dear, this umbrella is for you!\""
+     "en": "Ms Ahmadi says: \"Mina dear, this umbrella is for you!\"",
+     "faV": "خانُمِ اَحمَدی می‌گویَد: «مینا جان، این چَتر بَرایِ تو!»",
+     "a": "e327bb9df7ee"
     },
     {
      "fa": "مینا می‌گوید: «ممنون! شما خیلی مهربان هستید.»",
      "r": "Minā mi-guyad: «mamnun! shomā kheyli mehrabān hastid.»",
-     "en": "Mina says: \"Thank you! You are very kind.\""
+     "en": "Mina says: \"Thank you! You are very kind.\"",
+     "faV": "مینا می‌گویَد: «مَمنون! شُما خَیلی مِهرَبان هَستید.»",
+     "a": "d78c6158bfa5"
     }
    ]
   },
@@ -67,52 +85,180 @@
     {
      "fa": "عصر، مینا به خانه برمی‌گردد.",
      "r": "'asr, Minā be khāne bar-mi-gardad.",
-     "en": "In the late afternoon, Mina comes back home."
+     "en": "In the late afternoon, Mina comes back home.",
+     "faV": "عَصر، مینا به خانه بَرمی‌گَردَد.",
+     "a": "111a2110df2f"
     },
     {
      "fa": "حالا هوا آفتابی است.",
      "r": "hālā havā āftābi ast.",
-     "en": "Now the weather is sunny."
+     "en": "Now the weather is sunny.",
+     "faV": "حالا هَوا آفتابی اَست.",
+     "a": "dd579dd8864d"
     },
     {
      "fa": "مینا چتر را به خانم احمدی می‌دهد.",
      "r": "Minā chatr rā be khānom-e Ahmadi mi-dahad.",
-     "en": "Mina gives the umbrella back to Ms Ahmadi."
+     "en": "Mina gives the umbrella back to Ms Ahmadi.",
+     "faV": "مینا چَتر را به خانُمِ اَحمَدی می‌دَهَد.",
+     "a": "8bc3c53211ba"
     },
     {
      "fa": "او یک جعبه شیرینی هم می‌دهد.",
      "r": "u yek ja'be shirini ham mi-dahad.",
-     "en": "She gives her a box of pastries too."
+     "en": "She gives her a box of pastries too.",
+     "faV": "او یِک جَعبه شیرینی هَم می‌دَهَد.",
+     "a": "e18f64b08114"
     },
     {
      "fa": "خانم احمدی می‌خندد و می‌گوید: «باران برای من شیرینی آورد!»",
      "r": "khānom-e Ahmadi mi-khandad o mi-guyad: «bārān barā-ye man shirini āvard!»",
-     "en": "Ms Ahmadi laughs and says: \"The rain brought me pastries!\""
+     "en": "Ms Ahmadi laughs and says: \"The rain brought me pastries!\"",
+     "faV": "خانُمِ اَحمَدی می‌خَندَد و می‌گویَد: «باران بَرایِ مَن شیرینی آوَرد!»",
+     "a": "0e88d8566ce0"
     }
    ]
   }
  ],
  "vocab": [
-  {"fa": "هوا", "r": "havā", "en": "weather; air"},
-  {"fa": "ابری", "r": "abri", "en": "cloudy"},
-  {"fa": "چتر", "r": "chatr", "en": "umbrella"},
-  {"fa": "باران می‌آید", "r": "bārān mi-āyad", "en": "it is raining (literally 'rain comes')"},
-  {"fa": "خیس", "r": "khis", "en": "wet"},
-  {"fa": "همسایه", "r": "hamsāye", "en": "neighbour"},
-  {"fa": "پنجره", "r": "panjare", "en": "window"},
-  {"fa": "بیرون", "r": "birun", "en": "out, outside"},
-  {"fa": "مهربان", "r": "mehrabān", "en": "kind"},
-  {"fa": "عصر", "r": "'asr", "en": "late afternoon, early evening"},
-  {"fa": "برگشتن", "r": "bar-gashtan", "en": "to come back, return"},
-  {"fa": "آفتابی", "r": "āftābi", "en": "sunny"},
-  {"fa": "جعبه", "r": "ja'be", "en": "box"},
-  {"fa": "شیرینی", "r": "shirini", "en": "pastries, sweets"}
+  {
+   "fa": "هوا",
+   "r": "havā",
+   "en": "weather; air",
+   "faV": "هَوا",
+   "a": "ad57c5081c6d"
+  },
+  {
+   "fa": "ابری",
+   "r": "abri",
+   "en": "cloudy",
+   "faV": "اَبری",
+   "a": "8f2d44ddcf88"
+  },
+  {
+   "fa": "چتر",
+   "r": "chatr",
+   "en": "umbrella",
+   "faV": "چَتر",
+   "a": "4b8f15ffba9f"
+  },
+  {
+   "fa": "باران می‌آید",
+   "r": "bārān mi-āyad",
+   "en": "it is raining (literally 'rain comes')",
+   "faV": "باران می‌آیَد",
+   "a": "c4a3cf11aa98"
+  },
+  {
+   "fa": "خیس",
+   "r": "khis",
+   "en": "wet",
+   "faV": "خیس",
+   "a": "7263b7c3728b"
+  },
+  {
+   "fa": "همسایه",
+   "r": "hamsāye",
+   "en": "neighbour",
+   "faV": "هَمسایه",
+   "a": "1eebc0594655"
+  },
+  {
+   "fa": "پنجره",
+   "r": "panjare",
+   "en": "window",
+   "faV": "پَنجَره",
+   "a": "274d18068312"
+  },
+  {
+   "fa": "بیرون",
+   "r": "birun",
+   "en": "out, outside",
+   "faV": "بیرون",
+   "a": "effa614c9e6e"
+  },
+  {
+   "fa": "مهربان",
+   "r": "mehrabān",
+   "en": "kind",
+   "faV": "مِهرَبان",
+   "a": "cb66ed92f9f6"
+  },
+  {
+   "fa": "عصر",
+   "r": "'asr",
+   "en": "late afternoon, early evening",
+   "faV": "عَصر",
+   "a": "534888ccbf07"
+  },
+  {
+   "fa": "برگشتن",
+   "r": "bar-gashtan",
+   "en": "to come back, return",
+   "faV": "بَرگَشتَن",
+   "a": "ee208679bee8"
+  },
+  {
+   "fa": "آفتابی",
+   "r": "āftābi",
+   "en": "sunny",
+   "faV": "آفتابی",
+   "a": "f262ac15023d"
+  },
+  {
+   "fa": "جعبه",
+   "r": "ja'be",
+   "en": "box",
+   "faV": "جَعبه",
+   "a": "ddc4acdbcd38"
+  },
+  {
+   "fa": "شیرینی",
+   "r": "shirini",
+   "en": "pastries, sweets",
+   "faV": "شیرینی",
+   "a": "ad59be1f4ec5"
+  }
  ],
  "questions": [
-  {"q": "What is the weather like in the morning?", "options": ["sunny", "cloudy", "snowy"], "answer": 1},
-  {"q": "Who gives Mina an umbrella?", "options": ["Reza", "Ms Ahmadi", "Sara"], "answer": 1},
-  {"q": "What colour is the umbrella?", "options": ["yellow", "black", "red"], "answer": 0},
-  {"q": "What does Mina give Ms Ahmadi in the evening?", "options": ["only the umbrella", "the umbrella and a box of pastries", "some bread"], "answer": 1}
+  {
+   "q": "What is the weather like in the morning?",
+   "options": [
+    "sunny",
+    "cloudy",
+    "snowy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Who gives Mina an umbrella?",
+   "options": [
+    "Reza",
+    "Ms Ahmadi",
+    "Sara"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What colour is the umbrella?",
+   "options": [
+    "yellow",
+    "black",
+    "red"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does Mina give Ms Ahmadi in the evening?",
+   "options": [
+    "only the umbrella",
+    "the umbrella and a box of pastries",
+    "some bread"
+   ],
+   "answer": 1
+  }
  ],
- "after": "In Persian the rain 'comes': باران می‌آید 'it is raining', and the same for snow, برف می‌آید. The weather itself is هوا 'air': هوا ابری است, هوا آفتابی است. Mina's box of pastries is a real Iranian custom: when a neighbour lends you something or sends over a dish of food, you try not to give it back empty-handed – the plate comes back with something sweet on it. Notice too مینا جان 'Mina dear': جان after a name is warm and friendly, and older neighbours use it all the time. The last line has one past verb, آورد 'brought', from آوردن."
+ "after": "In Persian the rain 'comes': باران می‌آید 'it is raining', and the same for snow, برف می‌آید. The weather itself is هوا 'air': هوا ابری است, هوا آفتابی است. Mina's box of pastries is a real Iranian custom: when a neighbour lends you something or sends over a dish of food, you try not to give it back empty-handed – the plate comes back with something sweet on it. Notice too مینا جان 'Mina dear': جان after a name is warm and friendly, and older neighbours use it all the time. The last line has one past verb, آورد 'brought', from آوردن.",
+ "titleV": "یِک روزِ بارانی",
+ "titleA": "d3ba6dea71e1"
 }

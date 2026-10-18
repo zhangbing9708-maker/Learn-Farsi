@@ -1,0 +1,1136 @@
+{
+ "id": "b2-04-literary-persian",
+ "level": "B2",
+ "n": 4,
+ "title": "Literary Persian",
+ "titleFa": "فارسی ادبی",
+ "titleR": "fārsi-ye adabi",
+ "intro": "Above the written standard you have been learning sits a third layer of Persian: the language of novels, essays, speeches, obituaries – and of the classics. It moves the verb around, keeps grammatical forms that everyday Persian lost centuries ago, and has its own vocabulary: اکنون for حالا, بامداد for صبح, عزیمت کرد for رفت. In this lesson you read a memoir and an old-style tale, learn the archaic forms you will meet in every classical text, and build a big table of literary and everyday words.",
+ "goals": [
+  "recognise literary word order: the early verb, the dropped verb, the participle chain",
+  "read the old forms بود (bovad), همی، ـی of continuity (رفتی 'used to go'), دلا / بسا / دریغا، مر … را، اندر، ایدون، ار / گر",
+  "switch between literary and everyday words: گفت / فرمود، رفت / عزیمت کرد، اکنون / حالا",
+  "know where literary Persian is used today – and why speaking 'like a book' makes Iranians smile"
+ ],
+ "image": "persian-calligraphy",
+ "sections": [
+  {
+   "type": "reading",
+   "title": "Grandfather's books",
+   "intro": "Dariush remembers his grandfather in a short piece of literary prose. Look out for the words a newspaper would not use – بامداد، اکنون، خویش، نزد – and for sentences where the verb does not come last.",
+   "sentences": [
+    {
+     "fa": "پدربزرگم مردی کم‌سخن بود و بیشتر روزها را در کتابخانه‌ی کوچکش می‌گذراند.",
+     "r": "pedarbozorg-am mard-i kam-sokhan bud va bishtar-e ruz-hā rā dar ketābkhāne-ye kuchak-ash mi-gozarānd.",
+     "en": "My grandfather was a man of few words, and he spent most of his days in his small library."
+    },
+    {
+     "fa": "اتاقی بود رو به حیاط، با پنجره‌ای بلند و قفسه‌هایی که تا سقف می‌رسید.",
+     "r": "otāgh-i bud ru be hayāt, bā panjare-i boland va ghafase-hā-yi ke tā saghf mi-resid.",
+     "en": "It was a room facing the courtyard, with a tall window and shelves that reached the ceiling.",
+     "note": "The verb [[بود|bud]] comes second, and the description follows it – a typical literary order."
+    },
+    {
+     "fa": "هر بامداد، پیش از آن‌که خانه بیدار شود، چراغ آن اتاق روشن بود.",
+     "r": "har bāmdād, pish az ān-ke khāne bidār shavad, cherāgh-e ān otāgh roshan bud.",
+     "en": "Every morning, before the house woke up, the lamp in that room was already lit."
+    },
+    {
+     "fa": "سعدی را بسیار دوست می‌داشت و دیوان حافظ را از بر داشت.",
+     "r": "Sa'di rā besyār dust mi-dāsht va divān-e Hāfez rā az bar dāsht.",
+     "en": "He loved Saadi dearly and knew the Divan of Hafez by heart.",
+     "note": "[[دوست می‌داشت|dust mi-dāsht]] is the literary past of [[دوست داشت|dust dāsht]]; everyday Persian never puts می on داشتن."
+    },
+    {
+     "fa": "گاه بیتی می‌خواند و دیرزمانی خاموش می‌ماند، چنان‌که گویی با کسی سخن می‌گوید.",
+     "r": "gāh beyt-i mi-khānd va dirzamān-i khāmush mi-mānd, chonān-ke guyi bā kas-i sokhan mi-guyad.",
+     "en": "Now and then he would read a couplet and stay silent for a long time, as if he were talking to someone.",
+     "note": "[[گاه|gāh]] = [[گاهی|gāhi]]; [[گویی|guyi]] 'as if' (literally 'you would say')."
+    },
+    {
+     "fa": "من کودکی هفت‌ساله بودم و از آن اتاق اندکی می‌ترسیدم.",
+     "r": "man kudak-i haft-sāle budam va az ān otāgh andak-i mi-tarsidam.",
+     "en": "I was a child of seven and a little afraid of that room."
+    },
+    {
+     "fa": "روزی مرا نزد خود خواند و کتابی کهنه به دستم داد.",
+     "r": "ruz-i marā nazd-e khod khānd va ketāb-i kohne be dast-am dād.",
+     "en": "One day he called me to him and put an old book in my hands.",
+     "note": "[[خواندن|khāndan]] here means 'to call, summon', not 'to read'; [[نزد|nazd-e]] 'near, to (a person)'."
+    },
+    {
+     "fa": "گفت: این گلستان است؛ اکنون شاید نفهمی، اما روزی خواهی فهمید.",
+     "r": "goft: in golestān ast; aknun shāyad na-fahmi, ammā ruz-i khāhi fahmid.",
+     "en": "He said, 'This is the Golestan. Perhaps you won't understand it now, but one day you will.'"
+    },
+    {
+     "fa": "آن روز تنها یک جمله‌اش را فهمیدم و آن را بارها برای خود تکرار کردم.",
+     "r": "ān ruz tanhā yek jomle-ash rā fahmidam va ān rā bār-hā barā-ye khod tekrār kardam.",
+     "en": "That day I understood only one of its sentences, and I repeated it to myself over and over."
+    },
+    {
+     "fa": "سال‌ها گذشت؛ پدربزرگ درگذشت و خانه فروخته شد.",
+     "r": "sāl-hā gozasht; pedarbozorg dargozasht va khāne forukhte shod.",
+     "en": "Years passed; Grandfather died and the house was sold.",
+     "note": "[[درگذشت|dargozasht]] 'passed away' – the literary and respectful word for [[مرد|mord]] 'died'."
+    },
+    {
+     "fa": "کتاب‌ها میان فرزندان و نوه‌ها پخش شد و کتابخانه از میان رفت.",
+     "r": "ketāb-hā miyān-e farzandān o nave-hā pakhsh shod va ketābkhāne az miyān raft.",
+     "en": "The books were shared out among his children and grandchildren, and the library was no more."
+    },
+    {
+     "fa": "اما آن گلستان کهنه اکنون بر میز من است، با یادداشت‌هایی به خط او در حاشیه.",
+     "r": "ammā ān golestān-e kohne aknun bar miz-e man ast, bā yāddāsht-hā-yi be khatt-e u dar hāshiye.",
+     "en": "But that old Golestan is now on my desk, with notes in his handwriting in the margins.",
+     "note": "[[بر|bar]] 'on' is the literary [[روی|ru-ye]]."
+    },
+    {
+     "fa": "هر بار که آن را می‌گشایم، بوی کاغذ کهنه مرا به آن بامدادها بازمی‌گرداند.",
+     "r": "har bār ke ān rā mi-goshāyam, bu-ye kāghaz-e kohne marā be ān bāmdād-hā bāz-mi-gardānad.",
+     "en": "Every time I open it, the smell of old paper takes me back to those mornings.",
+     "note": "[[گشودن|goshudan]] (present stem گشا) is the literary [[باز کردن|bāz kardan]] 'to open'."
+    },
+    {
+     "fa": "و اکنون می‌فهمم که چرا آن مرد کم‌سخن این همه با کتاب‌ها سخن می‌گفت.",
+     "r": "va aknun mi-fahmam ke cherā ān mard-e kam-sokhan in hame bā ketāb-hā sokhan mi-goft.",
+     "en": "And now I understand why that man of few words talked so much with his books."
+    }
+   ],
+   "questions": [
+    {
+     "q": "When was the lamp in the library lit?",
+     "options": [
+      "late at night",
+      "every morning before the house woke up",
+      "only on holidays"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What did the grandfather give Dariush?",
+     "options": [
+      "the Divan of Hafez",
+      "an old copy of the Golestan",
+      "a lamp"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "In «مرا نزد خود خواند», خواند means…",
+     "options": [
+      "he read",
+      "he called",
+      "he wrote"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Three layers of one language",
+   "md": "Every Persian speaker lives with one language in several registers. At home, in the street and on the phone people speak **colloquial** Persian ([[زبان محاوره|zabān-e mohāvere]]): *mikhām beram khune*. In newspapers, books, letters and on the news they write and read the **written standard** ([[زبان نوشتار|zabān-e neveshtār]]): [[می‌خواهم به خانه بروم|mi-khāham be khāne beravam]]. You have been learning the second all along, with the first in the 'Spoken' lines.\n\nAbove the written standard sits a third layer, **literary Persian** ([[فارسی ادبی|fārsi-ye adabi]]). You meet it in novels and essays, in formal speeches, in obituaries and wedding invitations – and, in its oldest form, in Saadi and Hafez. It differs from the standard in three ways: **word order** is freer and the verb need not come last; **old grammatical forms** survive (بود 'is', همی, رفتی 'used to go'); and it has **its own vocabulary**: [[اکنون|aknun]] for [[حالا|hālā]], [[بامداد|bāmdād]] for [[صبح|sobh]], [[نگریستن|negaristan]] for [[نگاه کردن|negāh kardan]].\n\nOne sentence, four registers:\n\n- spoken: [[بابابزرگم هر روز صبح می‌رفت تو کتابخونه‌ش.|bābā-bozorg-am har ruz sobh mi-raft tu ketābkhune-sh.]]\n- written: [[پدربزرگم هر روز صبح به کتابخانه‌اش می‌رفت.|pedarbozorg-am har ruz sobh be ketābkhāne-ash mi-raft.]]\n- literary: [[پدربزرگم هر بامداد به کتابخانه‌ی خویش می‌رفت.|pedarbozorg-am har bāmdād be ketābkhāne-ye khish mi-raft.]]\n- classical: [[پدربزرگ هر بامداد به کتابخانه‌ی خویش رفتی.|pedarbozorg har bāmdād be ketābkhāne-ye khish rafti.]]\n\nYou don't need to *speak* literary Persian – an Iranian who talks like a book gets teased for it: [[کتابی حرف می‌زنی!|ketābi harf mi-zani!|you talk like a book!]] But you need to read it, and the forms in this lesson unlock it – from today's newspaper editorial back to the Golestan."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "ادبی",
+     "r": "adabi",
+     "en": "literary",
+     "pos": "adj"
+    },
+    {
+     "fa": "محاوره‌ای",
+     "r": "mohāvere-i",
+     "en": "colloquial, conversational",
+     "pos": "adj"
+    },
+    {
+     "fa": "کتابی",
+     "r": "ketābi",
+     "en": "bookish, formal (of speech)",
+     "pos": "adj",
+     "ex": {
+      "fa": "این‌قدر کتابی حرف نزن!",
+      "r": "in-ghadr ketābi harf na-zan!",
+      "en": "Don't talk so much like a book!"
+     }
+    },
+    {
+     "fa": "بامداد",
+     "r": "bāmdād",
+     "en": "morning, daybreak (literary)",
+     "pos": "n"
+    },
+    {
+     "fa": "اکنون",
+     "r": "aknun",
+     "en": "now (literary)",
+     "pos": "adv"
+    },
+    {
+     "fa": "سپس",
+     "r": "sepas",
+     "en": "then, afterwards",
+     "pos": "adv"
+    },
+    {
+     "fa": "چنین",
+     "r": "chenin",
+     "en": "such; thus, like this",
+     "pos": "adv"
+    },
+    {
+     "fa": "بسیار",
+     "r": "besyār",
+     "en": "very, much, many",
+     "pos": "adv"
+    },
+    {
+     "fa": "اندکی",
+     "r": "andak-i",
+     "en": "a little",
+     "pos": "adv"
+    },
+    {
+     "fa": "خویش",
+     "r": "khish",
+     "en": "(one's) own, oneself",
+     "pos": "pron",
+     "note": "the literary [[خود|khod]]; [[خویشاوند|khishāvand]] is a relative"
+    },
+    {
+     "fa": "نزد",
+     "r": "nazd",
+     "en": "near, with, to (a person)",
+     "pos": "prep"
+    },
+    {
+     "fa": "گشودن",
+     "r": "goshudan",
+     "en": "to open (literary)",
+     "pos": "v",
+     "note": "present stem گشا (goshā)"
+    },
+    {
+     "fa": "نگریستن",
+     "r": "negaristan",
+     "en": "to look, gaze (literary)",
+     "pos": "v",
+     "note": "present stem نگر (negar)"
+    },
+    {
+     "fa": "عزیمت کردن",
+     "r": "azimat kardan",
+     "en": "to set off, depart (formal)",
+     "pos": "v"
+    },
+    {
+     "fa": "فرمودن",
+     "r": "farmudan",
+     "en": "to say (of a respected person); to command",
+     "pos": "v",
+     "note": "present stem فرما (farmā), as in [[بفرمایید|befarmāyid]]"
+    },
+    {
+     "fa": "درگذشتن",
+     "r": "dargozashtan",
+     "en": "to pass away",
+     "pos": "v"
+    },
+    {
+     "fa": "توانگر",
+     "r": "tavāngar",
+     "en": "rich, wealthy (literary)",
+     "pos": "adj"
+    },
+    {
+     "fa": "بخیل",
+     "r": "bakhil",
+     "en": "miserly; a miser",
+     "pos": "adj"
+    },
+    {
+     "fa": "تهی‌دست",
+     "r": "tohi-dast",
+     "en": "empty-handed, poor",
+     "pos": "adj"
+    },
+    {
+     "fa": "شرمسار",
+     "r": "sharmsār",
+     "en": "ashamed",
+     "pos": "adj"
+    },
+    {
+     "fa": "آورده‌اند",
+     "r": "āvarde-and",
+     "en": "it is related, they tell (opening of an old tale)",
+     "pos": "phrase"
+    },
+    {
+     "fa": "دریغ",
+     "r": "darigh",
+     "en": "regret, pity",
+     "pos": "n",
+     "note": "[[دریغا|darighā]] 'alas!'; [[دریغ کردن|darigh kardan]] 'to hold back, begrudge'"
+    },
+    {
+     "fa": "همواره",
+     "r": "hamvāre",
+     "en": "always (literary)",
+     "pos": "adv"
+    },
+    {
+     "fa": "زیرا",
+     "r": "zirā",
+     "en": "because (written)",
+     "pos": "conj"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Word order and the verb",
+   "md": "Standard written Persian is strict: subject – time – place – object – **verb last**. Literary Persian bends the rule in four ways you will meet constantly:\n\n1. **The verb comes early**, and a description or the subject follows it: [[اتاقی بود رو به حیاط|otāgh-i bud ru be hayāt]] 'a room it was, facing the courtyard'; [[چنین گفت پیرمرد|chenin goft pirmard]] 'thus spoke the old man'.\n2. **The verb is dropped** in the second of two parallel clauses: [[او شاعر بود و برادرش نقاش|u shā'er bud va barādar-ash naghghāsh]]. The news uses this all the time.\n3. **The participle chain** ([[وجه وصفی|vajh-e vasfi]]): instead of 'he did X and did Y', write the first verb as a bare past participle and a comma: [[به خانه بازگشته، نامه را گشود|be khāne bāz-gashte, nāme rā goshud]] 'having returned home, he opened the letter'. Everyday Persian says [[به خانه برگشت و نامه را باز کرد|be khāne bar-gasht va nāme rā bāz kard]].\n4. **Pronouns move**: [[مرا|marā]] for [[من را|man rā]], and object endings hung on the verb: [[دیدمش|didam-ash]] 'I saw him'.",
+   "table": {
+    "head": [
+     "Standard order",
+     "Literary order",
+     "What happens"
+    ],
+    "rows": [
+     [
+      "[[اتاقش رو به حیاط بود|otāgh-ash ru be hayāt bud]]",
+      "[[اتاقی بود رو به حیاط|otāgh-i bud ru be hayāt]]",
+      "verb early, description after"
+     ],
+     [
+      "[[پیرمرد این‌طور گفت|pirmard in-towr goft]]",
+      "[[چنین گفت پیرمرد|chenin goft pirmard]]",
+      "subject after the verb"
+     ],
+     [
+      "[[او شاعر بود و برادرش نقاش بود|u shā'er bud va barādar-ash naghghāsh bud]]",
+      "[[او شاعر بود و برادرش نقاش|u shā'er bud va barādar-ash naghghāsh]]",
+      "second verb dropped"
+     ],
+     [
+      "[[برگشت و نامه را باز کرد|bar-gasht va nāme rā bāz kard]]",
+      "[[بازگشته، نامه را گشود|bāz-gashte, nāme rā goshud]]",
+      "participle chain"
+     ],
+     [
+      "[[من را صدا کرد|man rā sedā kard]]",
+      "[[مرا خواند|marā khānd]]",
+      "مرا; literary verb"
+     ],
+     [
+      "[[او را دیدم|u rā didam]]",
+      "[[دیدمش|didam-ash]]",
+      "object ending on the verb"
+     ],
+     [
+      "[[مشکل‌ها پیش آمد|moshkel-hā pish āmad]]",
+      "[[افتاد مشکل‌ها|oftād moshkel-hā]]",
+      "verb first (poetry)"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "او شاعر بود و برادرش نقاش.",
+     "r": "u shā'er bud va barādar-ash naghghāsh.",
+     "en": "He was a poet and his brother a painter."
+    },
+    {
+     "fa": "وزیر آموزش به تبریز رفت و معاونش به شیراز.",
+     "r": "vazir-e āmuzesh be Tabriz raft va mo'āven-ash be Shirāz.",
+     "en": "The education minister went to Tabriz and his deputy to Shiraz.",
+     "note": "A typical news sentence: the second رفت is understood."
+    },
+    {
+     "fa": "به خانه بازگشته، نامه را گشود.",
+     "r": "be khāne bāz-gashte, nāme rā goshud.",
+     "en": "Having returned home, he opened the letter."
+    },
+    {
+     "fa": "کتاب را بسته، به پنجره نگریست.",
+     "r": "ketāb rā baste, be panjare negarist.",
+     "en": "Closing the book, he looked towards the window."
+    },
+    {
+     "fa": "چنین گفت پیرمرد.",
+     "r": "chenin goft pirmard.",
+     "en": "Thus spoke the old man."
+    },
+    {
+     "fa": "دیدمش و شناختمش.",
+     "r": "didam-ash va shenākhtam-ash.",
+     "en": "I saw him and recognised him."
+    },
+    {
+     "fa": "مرا نزد خود خواند.",
+     "r": "marā nazd-e khod khānd.",
+     "en": "He called me to him."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Old forms you will meet",
+   "md": "These are the forms that make a classical text look foreign. None of them is hard once you know what it stands for.\n\n- **بُوَد** *bovad* is the old present of بودن, 'is' – especially in general truths: [[توانا بود هر که دانا بود|tavānā bovad har ke dānā bovad]]. Don't read it as *bud* 'was'.\n- **همی** is the old form of the prefix می: [[همی‌خواهی|hami-khāhi]] = [[می‌خواهی|mi-khāhi]]. It was often written apart: [[همی گفت|hami goft]].\n- **ـی of continuity**: a past verb + unstressed ی means 'used to, would': [[رفتی|rafti]] 'he used to go', [[گفتمی|goftami]] 'I used to say'. Context tells you it is not 'you went'.\n- **ـا** turns a noun into a call or a cry: [[دلا|delā]] 'O heart', [[حافظا|hāfezā]] 'O Hafez', [[خدایا|khodāyā]] 'O God' (still used every day); and makes exclamations: [[دریغا|darighā]] 'alas', [[خوشا|khoshā]] 'happy is…', [[بسا|basā]] 'many a…'.\n- **مر … را** wraps an object or a 'for' phrase: [[مر زبان را|mar zabān rā]] 'for the tongue'.\n- **اندر** is the old [[در|dar]] 'in'. **ایدون** means 'thus, so' – it survives in [[ایدون باد|eydun bād]] 'so be it, amen'.\n- **ار** and **گر** are short for [[اگر|agar]].\n- **بـ on a past verb** adds nothing: [[بگفت|begoft]] = [[گفت|goft]]. **مـ** makes the old negative imperative: [[مرو|marow]] = [[نرو|na-row]].",
+   "table": {
+    "head": [
+     "Old form",
+     "Today",
+     "Meaning",
+     "Example"
+    ],
+    "rows": [
+     [
+      "[[بود|bovad]]",
+      "[[است|ast]]، [[می‌باشد|mi-bāshad]]",
+      "is",
+      "[[توانا بود هر که دانا بود|tavānā bovad har ke dānā bovad]]"
+     ],
+     [
+      "[[همی|hami]]",
+      "[[می|mi]]",
+      "continuous prefix",
+      "[[همی‌گریست|hami-gerist]] 'he kept weeping'"
+     ],
+     [
+      "[[رفتی|rafti]] (ـی of continuity)",
+      "[[می‌رفت|mi-raft]]",
+      "used to go",
+      "[[هر روز به بازار رفتی|har ruz be bāzār rafti]]"
+     ],
+     [
+      "[[بگفت|begoft]]، [[برفت|beraft]]",
+      "[[گفت|goft]]، [[رفت|raft]]",
+      "said, went",
+      "[[این بگفت و برفت|in begoft o beraft]]"
+     ],
+     [
+      "[[دلا|delā]]، [[ساقیا|sāghiyā]]",
+      "[[ای دل|ey del]]، [[ای ساقی|ey sāghi]]",
+      "O heart, O cupbearer",
+      "[[دلا بسوز|delā besuz]]"
+     ],
+     [
+      "[[دریغا|darighā]]",
+      "[[افسوس|afsus]]",
+      "alas",
+      "[[دریغا که آن روزها گذشت|darighā ke ān ruz-hā gozasht]]"
+     ],
+     [
+      "[[خوشا|khoshā]]",
+      "[[خوش به حال|khosh be hāl-e]]",
+      "happy is…",
+      "[[خوشا آنان که…|khoshā ānān ke…]]"
+     ],
+     [
+      "[[بسا|basā]]",
+      "[[چه بسیار|che besyār]]",
+      "many a…",
+      "[[بسا کسان|basā kasān]] 'many people'"
+     ],
+     [
+      "[[مر … را|mar … rā]]",
+      "[[را|rā]]، [[برای|barā-ye]]",
+      "object or 'for'",
+      "[[مر زبان را|mar zabān rā]]"
+     ],
+     [
+      "[[اندر|andar]]",
+      "[[در|dar]]",
+      "in",
+      "[[کاندر نی فتاد|k-andar ney fetād]]"
+     ],
+     [
+      "[[ایدون|eydun]]",
+      "[[چنین|chenin]]، [[این‌طور|in-towr]]",
+      "thus, so",
+      "[[ایدون باد|eydun bād]] 'so be it'"
+     ],
+     [
+      "[[ار|ar]]، [[گر|gar]]",
+      "[[اگر|agar]]",
+      "if",
+      "[[ار نیک بنگری|ar nik bengari]] 'if you look closely'"
+     ],
+     [
+      "[[مرو|marow]]، [[مکن|makon]]",
+      "[[نرو|na-row]]، [[نکن|na-kon]]",
+      "don't go, don't do",
+      "[[غم مخور|gham makhor]]"
+     ],
+     [
+      "[[ز|ze]]، [[کز|kaz]]، [[چو|cho]]، [[دگر|degar]]",
+      "[[از|az]]، [[که از|ke az]]، [[چون|chon]]، [[دیگر|digar]]",
+      "short forms",
+      "[[چو عضوی به درد آورد روزگار|cho ozv-i be dard āvarad ruzgār]]"
+     ],
+     [
+      "[[بسی|basi]]، [[بس|bas]]",
+      "[[بسیار|besyār]]",
+      "much, many",
+      "[[بسی رنج بردم|basi ranj bordam]]"
+     ],
+     [
+      "[[نیز|niz]]",
+      "[[هم|ham]]",
+      "also",
+      "[[او نیز آمد|u niz āmad]]"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "دلا بسوز که سوز تو کارها بکند / نیاز نیم‌شبی دفع صد بلا بکند",
+     "r": "delā besuz ke suz-e to kār-hā bokonad / niyāz-e nim-shab-i daf'-e sad balā bokonad",
+     "en": "Burn, O heart, for your burning will get things done; a prayer at midnight wards off a hundred calamities.",
+     "note": "Hafez. [[دلا|delā]] is the vocative 'O heart'; [[بکند|bokonad]] with be- here simply means [[می‌کند|mi-konad]]."
+    },
+    {
+     "fa": "حضوری گر همی‌خواهی از او غایب مشو حافظ",
+     "r": "hozur-i gar hami-khāhi az u ghāyeb masho Hāfez",
+     "en": "If you want his presence, Hafez, do not be absent from him.",
+     "note": "Three old forms in one half-line: [[گر|gar]] 'if', [[همی‌|hami-]] 'mi-', [[مشو|masho]] 'don't be'."
+    },
+    {
+     "fa": "چو عضوی به درد آورد روزگار / دگر عضوها را نماند قرار",
+     "r": "cho ozv-i be dard āvarad ruzgār / degar ozv-hā rā namānad gharār",
+     "en": "When the world brings pain to one limb, the other limbs can find no rest.",
+     "note": "Saadi. [[چو|cho]] 'when', [[دگر|degar]] 'other', [[نماند|namānad]] = [[نمی‌ماند|nemi-mānad]]; [[عضوها را … قرار نماند|ozv-hā rā … gharār namānad]] 'the limbs have no rest' – را marks the one who has."
+    },
+    {
+     "fa": "مر زبان را مشتری جز گوش نیست",
+     "r": "mar zabān rā moshtari joz gush nist",
+     "en": "The tongue has no customer but the ear.",
+     "note": "Rumi. [[مر … را|mar … rā]] frames 'for the tongue'."
+    },
+    {
+     "fa": "پیرمردی هر بامداد به بازار رفتی و نان خریدی.",
+     "r": "pirmard-i har bāmdād be bāzār rafti va nān kharidi.",
+     "en": "An old man used to go to the market every morning and buy bread.",
+     "note": "In the style of old prose: [[رفتی|rafti]] = [[می‌رفت|mi-raft]], [[خریدی|kharidi]] = [[می‌خرید|mi-kharid]]."
+    },
+    {
+     "fa": "این بگفت و برفت.",
+     "r": "in begoft o beraft.",
+     "en": "He said this and left."
+    },
+    {
+     "fa": "دریغا که آن روزها گذشت!",
+     "r": "darighā ke ān ruz-hā gozasht!",
+     "en": "Alas, those days are gone!"
+    },
+    {
+     "fa": "ار نیک بنگری، این کار آسان است.",
+     "r": "ar nik bengari, in kār āsān ast.",
+     "en": "If you look closely, this task is easy.",
+     "note": "[[ار|ar]] = [[اگر|agar]]; [[نیک|nik]] 'well, closely' is the literary [[خوب|khub]]; [[بنگری|bengari]] from [[نگریستن|negaristan]]."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Literary and everyday words",
+   "md": "The biggest difference between registers is not grammar but **vocabulary**. For many everyday words, written Persian has a more formal partner, and for some it has two: a literary Persian one and a formal Arabic one. A news reader says [[عزیمت کرد|azimat kard]] where a taxi driver says [[رفت|raft]]; an obituary says [[دار فانی را وداع گفت|dār-e fāni rā vedā' goft|bade farewell to the transient world]] where a friend says [[فوت کرد|fowt kard]].\n\nTwo verbs deserve special care. [[فرمودن|farmudan]] is 'to say' when the speaker is someone you respect – a teacher, an elder, a guest – and is used with the plural of respect: [[استاد فرمودند|ostād farmudand]]. Never use it about yourself. [[تشریف آوردن|tashrif āvardan]] and [[تشریف بردن|tashrif bordan]] do the same for 'come' and 'go'.",
+   "table": {
+    "head": [
+     "Everyday",
+     "Literary / formal",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "[[گفت|goft]]",
+      "[[فرمود|farmud]] (respect)، [[اظهار داشت|ezhār dāsht]] (news)",
+      "said"
+     ],
+     [
+      "[[رفت|raft]]",
+      "[[عزیمت کرد|azimat kard]]، [[رهسپار شد|rahsepār shod]]",
+      "went, set off"
+     ],
+     [
+      "[[آمد|āmad]]",
+      "[[تشریف آوردند|tashrif āvardand]] (respect)، [[وارد شد|vāred shod]]",
+      "came"
+     ],
+     [
+      "[[حالا|hālā]]",
+      "[[اکنون|aknun]]، [[اینک|inak]]",
+      "now"
+     ],
+     [
+      "[[بعد|ba'd]]",
+      "[[سپس|sepas]]، [[آنگاه|āngāh]]",
+      "then, afterwards"
+     ],
+     [
+      "[[خیلی|kheyli]]",
+      "[[بسیار|besyār]]",
+      "very, much"
+     ],
+     [
+      "[[این‌طوری|in-towri]]",
+      "[[چنین|chenin]]، [[بدین‌سان|bedin-sān]]",
+      "like this, thus"
+     ],
+     [
+      "[[همیشه|hamishe]]",
+      "[[همواره|hamvāre]]، [[پیوسته|peyvaste]]",
+      "always"
+     ],
+     [
+      "[[فقط|faghat]]",
+      "[[تنها|tanhā]]",
+      "only"
+     ],
+     [
+      "[[ولی|vali]]",
+      "[[اما|ammā]]، [[لیکن|liken]]",
+      "but"
+     ],
+     [
+      "[[چون|chon]]",
+      "[[زیرا|zirā]]، [[چرا که|cherā ke]]",
+      "because"
+     ],
+     [
+      "[[اگر|agar]]",
+      "[[چنانچه|chenān-che]]، [[هرگاه|hargāh]]",
+      "if"
+     ],
+     [
+      "[[وقتی|vaghti]]",
+      "[[هنگامی که|hengām-i ke]]",
+      "when"
+     ],
+     [
+      "[[صبح|sobh]]",
+      "[[بامداد|bāmdād]]",
+      "morning"
+     ],
+     [
+      "[[شب|shab]]",
+      "[[شامگاه|shāmgāh]]",
+      "evening, nightfall"
+     ],
+     [
+      "[[نگاه کرد|negāh kard]]",
+      "[[نگریست|negarist]]",
+      "looked"
+     ],
+     [
+      "[[باز کرد|bāz kard]]",
+      "[[گشود|goshud]]",
+      "opened"
+     ],
+     [
+      "[[پیدا کرد|peydā kard]]",
+      "[[یافت|yāft]]",
+      "found"
+     ],
+     [
+      "[[شروع کرد|shoru' kard]]",
+      "[[آغاز کرد|āghāz kard]]",
+      "began"
+     ],
+     [
+      "[[تمام شد|tamām shod]]",
+      "[[پایان یافت|pāyān yāft]]",
+      "ended"
+     ],
+     [
+      "[[فوت کرد|fowt kard]]",
+      "[[درگذشت|dargozasht]]، [[دار فانی را وداع گفت|dār-e fāni rā vedā' goft]]",
+      "died"
+     ],
+     [
+      "[[به دنیا آمد|be donyā āmad]]",
+      "[[دیده به جهان گشود|dide be jahān goshud]]",
+      "was born"
+     ],
+     [
+      "[[بچه|bacche]]",
+      "[[کودک|kudak]]، [[فرزند|farzand]]",
+      "child"
+     ],
+     [
+      "[[خانه|khāne]]",
+      "[[سرا|sarā]]",
+      "house, home"
+     ],
+     [
+      "[[جواب داد|javāb dād]]",
+      "[[پاسخ داد|pāsokh dād]]",
+      "answered"
+     ],
+     [
+      "[[کمک کرد|komak kard]]",
+      "[[یاری کرد|yāri kard]]",
+      "helped"
+     ],
+     [
+      "[[پولدار|puldār]]",
+      "[[توانگر|tavāngar]]",
+      "rich"
+     ],
+     [
+      "[[ممنون|mamnun]]",
+      "[[سپاسگزار|sepāsgozār]]",
+      "thankful"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "استاد فرمودند که جلسه‌ی بعد امتحان است.",
+     "r": "ostād farmudand ke jalase-ye ba'd emtehān ast.",
+     "en": "The professor said that there will be an exam next session.",
+     "col": "استاد گفتن جلسه‌ی بعد امتحانه.",
+     "colR": "ostād goftan jalase-ye ba'd emtehān-e."
+    },
+    {
+     "fa": "هیئت ایرانی امروز صبح به ژنو عزیمت کرد.",
+     "r": "hey'at-e irāni emruz sobh be Zhenev azimat kard.",
+     "en": "The Iranian delegation left for Geneva this morning."
+    },
+    {
+     "fa": "اکنون زمان آن رسیده است که تصمیم بگیریم.",
+     "r": "aknun zamān-e ān reside ast ke tasmim begirim.",
+     "en": "Now the time has come for us to decide.",
+     "col": "الان وقتشه که تصمیم بگیریم.",
+     "colR": "alān vaght-esh-e ke tasmim begirim."
+    },
+    {
+     "fa": "پدرش سال گذشته دار فانی را وداع گفت.",
+     "r": "pedar-ash sāl-e gozashte dār-e fāni rā vedā' goft.",
+     "en": "His father passed away last year.",
+     "col": "باباش پارسال فوت کرد.",
+     "colR": "bābā-sh pārsāl fowt kard."
+    },
+    {
+     "fa": "مهمانان یکی پس از دیگری وارد شدند.",
+     "r": "mehmānān yek-i pas az digar-i vāred shodand.",
+     "en": "The guests came in one after another.",
+     "col": "مهمونا یکی‌یکی اومدن.",
+     "colR": "mehmun-ā yeki-yeki umadan."
+    },
+    {
+     "fa": "وی در سال ۱۳۳۰ در تبریز دیده به جهان گشود.",
+     "r": "vey dar sāl-e hezār-o-sisad-o-si dar Tabriz dide be jahān goshud.",
+     "en": "He was born in Tabriz in 1330 (1951).",
+     "note": "[[وی|vey]] is the written 'he/she' of the news.",
+     "col": "اون سال سی تو تبریز به دنیا اومد.",
+     "colR": "un sāl-e si tu Tabriz be donyā umad."
+    },
+    {
+     "fa": "از یاری شما بسیار سپاسگزارم.",
+     "r": "az yāri-ye shomā besyār sepāsgozār-am.",
+     "en": "I am most grateful for your help.",
+     "col": "خیلی ممنون که کمکم کردین.",
+     "colR": "kheyli mamnun ke komak-am kardin."
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "The miser of Yazd: a tale in the old style",
+   "intro": "A short tale written for this lesson in the manner of classical prose. Count the old forms: the ـی of continuity, همی, be- on past verbs, را for 'to have', and the opening آورده‌اند.",
+   "sentences": [
+    {
+     "fa": "آورده‌اند که در شهر یزد بازرگانی بود سخت توانگر و بخیل.",
+     "r": "āvarde-and ke dar shahr-e Yazd bāzargān-i bud sakht tavāngar o bakhil.",
+     "en": "It is told that in the city of Yazd there was a merchant, exceedingly rich and miserly.",
+     "note": "[[سخت|sakht]] here means 'very'. The description follows the verb [[بود|bud]]."
+    },
+    {
+     "fa": "هر شب زر خویش بشمردی و در صندوقی نهادی.",
+     "r": "har shab zar-e khish beshmordi va dar sandugh-i nahādi.",
+     "en": "Every night he would count his gold and put it away in a chest.",
+     "note": "[[بشمردی|beshmordi]] = [[می‌شمرد|mi-shemord]], [[نهادی|nahādi]] = [[می‌گذاشت|mi-gozāsht]]."
+    },
+    {
+     "fa": "و همسایگان را از نان خویش بهره‌ای نبود.",
+     "r": "va hamsāyegān rā az nān-e khish bahre-i nabud.",
+     "en": "And his neighbours had no share of his bread.",
+     "note": "X را … نبود 'X did not have' – را marks the possessor."
+    },
+    {
+     "fa": "روزی درویشی بر در خانه‌ی او آمد و نانی خواست.",
+     "r": "ruz-i darvish-i bar dar-e khāne-ye u āmad o nān-i khāst.",
+     "en": "One day a dervish came to his door and asked for some bread."
+    },
+    {
+     "fa": "بازرگان گفت: برو که این‌جا نان نیست.",
+     "r": "bāzargān goft: borow ke in-jā nān nist.",
+     "en": "The merchant said, 'Go away – there is no bread here.'"
+    },
+    {
+     "fa": "درویش بخندید و گفت: نان هست، اما دل نیست.",
+     "r": "darvish bekhandid o goft: nān hast, ammā del nist.",
+     "en": "The dervish laughed and said, 'There is bread – but there is no heart.'"
+    },
+    {
+     "fa": "بازرگان را این سخن خوش نیامد و در را ببست.",
+     "r": "bāzargān rā in sokhan khosh nayāmad va dar rā bebast.",
+     "en": "The merchant did not like these words and shut the door.",
+     "note": "X را خوش نیامد 'X did not like it' – literally 'to X it did not come pleasant'."
+    },
+    {
+     "fa": "چندی برنیامد که دزدان به خانه‌اش ریختند و هر چه داشت ببردند.",
+     "r": "chand-i bar-nayāmad ke dozdān be khāne-ash rikhtand va har che dāsht bebordand.",
+     "en": "Before long, thieves broke into his house and carried off everything he had.",
+     "note": "[[چندی برنیامد که…|chandi bar-nayāmad ke…]] 'not much time passed before…'"
+    },
+    {
+     "fa": "بازرگان تهی‌دست بر سر کوی نشست و همی‌گریست.",
+     "r": "bāzargān tohi-dast bar sar-e kuy neshast va hami-gerist.",
+     "en": "The merchant, now empty-handed, sat at the end of the lane and wept and wept.",
+     "note": "[[کوی|kuy]] 'lane, quarter'; [[همی‌گریست|hami-gerist]] = [[گریه می‌کرد|gerye mi-kard]]."
+    },
+    {
+     "fa": "همان درویش بگذشت و او را بدید و نان خویش با وی قسمت کرد.",
+     "r": "hamān darvish bogzasht va u rā bedid va nān-e khish bā vey ghesmat kard.",
+     "en": "The same dervish passed by, saw him, and shared his own bread with him."
+    },
+    {
+     "fa": "بازرگان شرمسار شد و گفت: امروز دانستم که توانگری به دل است، نه به مال.",
+     "r": "bāzargān sharmsār shod o goft: emruz dānestam ke tavāngari be del ast, na be māl.",
+     "en": "The merchant was ashamed and said, 'Today I have learned that wealth is in the heart, not in possessions.'"
+    },
+    {
+     "fa": "و از آن پس هر بامداد بر در خانه نان نهادی تا گرسنگان ببرند.",
+     "r": "va az ān pas har bāmdād bar dar-e khāne nān nahādi tā gorosnegān bebarand.",
+     "en": "And from then on, every morning he would put bread at his door for the hungry to take."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What did the merchant do every night?",
+     "options": [
+      "he gave bread to the poor",
+      "he counted his gold and put it in a chest",
+      "he read poetry"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What does «هر شب زر خویش بشمردی» mean?",
+     "options": [
+      "you counted your gold every night",
+      "he used to count his gold every night",
+      "he will count his gold tonight"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What did the merchant learn?",
+     "options": [
+      "that wealth is in the heart, not in possessions",
+      "that dervishes are thieves",
+      "that gold should be hidden better"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Where literary Persian lives today",
+   "md": "Literary Persian is not a museum language. You meet it every day in Iran – usually on paper:\n\n- **The news.** Ministers do not 'go', they [[عزیمت می‌کنند|azimat mi-konand]]; they do not 'say', they [[اظهار می‌دارند|ezhār mi-dārand]] or [[تأکید می‌کنند|ta'kid mi-konand]]; and [[وی|vey]] replaces [[او|u]].\n- **Obituaries and mourning notices** ([[آگهی ترحیم|āgahi-ye tarhim]]) on walls and in newspapers: someone has [[دار فانی را وداع گفت|dār-e fāni rā vedā' goft]] or [[به رحمت ایزدی پیوست|be rahmat-e izadi peyvast|joined the mercy of God]].\n- **Wedding invitations** speak of [[پیوند زناشویی|peyvand-e zanāshuyi|the bond of marriage]] and ask for the honour of your presence.\n- **Speeches and letters** open with [[با سلام و درود|bā salām o dorud]] and close with [[با سپاس|bā sepās]].\n- **School.** Every Iranian child studies classical texts in the literature book ([[ادبیات فارسی|adabiyāt-e fārsi]]) and learns to 'turn them into prose'.\n\nIn speech, literary words are used for effect: to be solemn at a funeral, to be ironic among friends, or to tease. If you answer a friend's 'how are you?' with [[بسیار سپاسگزارم|besyār sepāsgozār-am]], expect laughter – and the comment [[چه کتابی!|che ketābi!|how bookish!]]. On the other hand, a well-placed old phrase – [[ایدون باد|eydun bād]] after a good wish, [[دریغا|darighā]] about the good old days – shows that your Persian has depth.",
+   "image": "kaveh"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "رفتی can be 'you went' or, in old texts, 'he used to go'. If the subject is clearly 'he' or 'they', or the text is classical, read it as the past of habit.",
+    "When a literary sentence seems to have no verb, borrow the verb from the clause before: او شاعر بود و برادرش نقاش (بود).",
+    "A bare past participle followed by a comma – بازگشته، – means 'having returned'. Read on: the main verb is coming.",
+    "Never use فرمودن or تشریف آوردن about yourself; they are for other people you respect. For yourself, the humble verbs are عرض کردن 'to say' and خدمت رسیدن 'to come to see you'.",
+    "Don't speak literary Persian, but do write it: in an essay or a formal email, اکنون، بسیار، سپس and زیرا make your Persian sound educated rather than chatty.",
+    "خدایا، خوشا به حالت and ایدون باد show that some old forms never died – listen for them in films and songs."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "The right literary word",
+   "items": [
+    {
+     "fa": "هیئت ایرانی امروز صبح به ژنو ___ کرد.",
+     "r": "hey'at-e irāni emruz sobh be Zhenev ___ kard.",
+     "en": "The Iranian delegation left for Geneva this morning.",
+     "answer": "عزیمت",
+     "hint": "formal 'setting off'"
+    },
+    {
+     "fa": "پیرمردی هر بامداد به بازار رفتی و نان ___.",
+     "r": "pirmard-i har bāmdād be bāzār rafti va nān ___.",
+     "en": "An old man used to go to the market every morning and buy bread.",
+     "answer": "خریدی",
+     "hint": "past of خریدن + ـی of continuity"
+    },
+    {
+     "fa": "___ زمان آن رسیده است که تصمیم بگیریم.",
+     "r": "___ zamān-e ān reside ast ke tasmim begirim.",
+     "en": "Now the time has come for us to decide.",
+     "answer": "اکنون",
+     "hint": "literary 'now'"
+    },
+    {
+     "fa": "توانا ___ هر که دانا بود",
+     "r": "tavānā ___ har ke dānā bovad",
+     "en": "Whoever is wise is powerful.",
+     "answer": "بود",
+     "hint": "the old present 'is'"
+    },
+    {
+     "fa": "پدرش سال گذشته دار فانی را ___ گفت.",
+     "r": "pedar-ash sāl-e gozashte dār-e fāni rā ___ goft.",
+     "en": "His father passed away last year.",
+     "answer": "وداع",
+     "hint": "farewell"
+    },
+    {
+     "fa": "کتاب را بسته، به پنجره ___.",
+     "r": "ketāb rā baste, be panjare ___.",
+     "en": "Closing the book, he looked towards the window.",
+     "answer": "نگریست",
+     "hint": "literary 'looked'"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "What does the old form mean?",
+   "items": [
+    {
+     "q": "In an old tale, [[هر روز به بازار رفتی|har ruz be bāzār rafti]] means…",
+     "options": [
+      "you went to the market every day",
+      "he used to go to the market every day",
+      "he will go to the market every day"
+     ],
+     "answer": 1,
+     "explain": "A past verb + ی of continuity = 'used to'. In a story about 'him', it cannot be 'you went'."
+    },
+    {
+     "q": "[[دلا|delā]] means…",
+     "options": [
+      "O heart!",
+      "hearts",
+      "in the heart"
+     ],
+     "answer": 0,
+     "explain": "ـا added to a noun makes a call: دلا، حافظا، خدایا."
+    },
+    {
+     "q": "[[ایدون باد|eydun bād]] is said…",
+     "options": [
+      "to curse someone",
+      "after a good wish – 'so be it'",
+      "when the wind blows"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What is missing in [[او شاعر بود و برادرش نقاش|u shā'er bud va barādar-ash naghghāsh]]?",
+     "options": [
+      "the subject",
+      "a second بود",
+      "nothing – it is a complete sentence in literary Persian"
+     ],
+     "answer": 2,
+     "explain": "The second بود is understood from the first clause – the sentence is complete and correct."
+    },
+    {
+     "q": "Which verb would you use for what your professor said?",
+     "options": [
+      "عزیمت کرد",
+      "فرمودند",
+      "درگذشت"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "[[به خانه بازگشته، نامه را گشود|be khāne bāz-gashte, nāme rā goshud]] means…",
+     "options": [
+      "He returned the letter to the house.",
+      "Having come back home, he opened the letter.",
+      "He will open the letter when he gets home."
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Literary words",
+   "items": [
+    {
+     "fa": "اکنون",
+     "r": "aknun",
+     "en": "now"
+    },
+    {
+     "fa": "سپس",
+     "r": "sepas",
+     "en": "then, afterwards"
+    },
+    {
+     "fa": "بامداد",
+     "r": "bāmdād",
+     "en": "morning"
+    },
+    {
+     "fa": "نگریستن",
+     "r": "negaristan",
+     "en": "to look"
+    },
+    {
+     "fa": "گشودن",
+     "r": "goshudan",
+     "en": "to open"
+    },
+    {
+     "fa": "عزیمت کردن",
+     "r": "azimat kardan",
+     "en": "to set off"
+    },
+    {
+     "fa": "درگذشتن",
+     "r": "dargozashtan",
+     "en": "to pass away"
+    },
+    {
+     "fa": "توانگر",
+     "r": "tavāngar",
+     "en": "rich"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Write it in literary Persian",
+   "items": [
+    {
+     "en": "Now I understand why he talked so much with his books.",
+     "fa": "اکنون می‌فهمم که چرا این همه با کتاب‌هایش سخن می‌گفت.",
+     "r": "aknun mi-fahmam ke cherā in hame bā ketāb-hā-yash sokhan mi-goft."
+    },
+    {
+     "en": "Having opened the window, he looked at the courtyard.",
+     "fa": "پنجره را گشوده، به حیاط نگریست.",
+     "r": "panjare rā goshude, be hayāt negarist."
+    },
+    {
+     "en": "His father was a merchant and his uncle a doctor.",
+     "fa": "پدرش بازرگان بود و عمویش پزشک.",
+     "r": "pedar-ash bāzargān bud va amu-yash pezeshk."
+    },
+    {
+     "en": "The minister set off for Isfahan this morning.",
+     "fa": "وزیر امروز بامداد به اصفهان عزیمت کرد.",
+     "r": "vazir emruz bāmdād be Esfahān azimat kard."
+    },
+    {
+     "en": "I am very grateful for your help.",
+     "fa": "از یاری شما بسیار سپاسگزارم.",
+     "r": "az yāri-ye shomā besyār sepāsgozār-am."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "روزی مرا نزد خود خواند.",
+     "r": "ruz-i marā nazd-e khod khānd.",
+     "en": "One day he called me to him."
+    },
+    {
+     "fa": "هر شب زر خویش بشمردی.",
+     "r": "har shab zar-e khish beshmordi.",
+     "en": "Every night he would count his gold."
+    },
+    {
+     "fa": "مهمانان یکی پس از دیگری وارد شدند.",
+     "r": "mehmānān yek-i pas az digar-i vāred shodand.",
+     "en": "The guests came in one after another."
+    },
+    {
+     "fa": "سال‌ها گذشت و خانه فروخته شد.",
+     "r": "sāl-hā gozasht va khāne forukhte shod.",
+     "en": "Years passed and the house was sold."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "بازرگان تهی‌دست بر سر کوی نشست و همی‌گریست.",
+     "r": "bāzargān tohi-dast bar sar-e kuy neshast va hami-gerist.",
+     "en": "The empty-handed merchant sat at the end of the lane and kept weeping.",
+     "options": [
+      "The rich merchant sat in his shop and laughed.",
+      "The empty-handed merchant sat at the end of the lane and kept weeping.",
+      "The merchant gave bread to everyone in the lane."
+     ],
+     "answer": 1
+    },
+    {
+     "fa": "اکنون زمان آن رسیده است که تصمیم بگیریم.",
+     "r": "aknun zamān-e ān reside ast ke tasmim begirim.",
+     "en": "Now the time has come for us to decide.",
+     "options": [
+      "We decided a long time ago.",
+      "There is no time to decide.",
+      "Now the time has come for us to decide."
+     ],
+     "answer": 2
+    },
+    {
+     "fa": "وی در تبریز دیده به جهان گشود.",
+     "r": "vey dar Tabriz dide be jahān goshud.",
+     "en": "He was born in Tabriz.",
+     "options": [
+      "He was born in Tabriz.",
+      "He opened a shop in Tabriz.",
+      "He saw the world from Tabriz."
+     ],
+     "answer": 0
+    },
+    {
+     "fa": "این بگفت و برفت.",
+     "r": "in begoft o beraft.",
+     "en": "He said this and left.",
+     "options": [
+      "He said this and left.",
+      "Tell him and go.",
+      "He did not say anything."
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ ]
+}

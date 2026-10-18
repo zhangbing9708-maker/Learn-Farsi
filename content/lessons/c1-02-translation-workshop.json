@@ -1,0 +1,1073 @@
+{
+ "id": "c1-02-translation-workshop",
+ "level": "C1",
+ "n": 2,
+ "title": "Translation workshop",
+ "titleFa": "کارگاه ترجمه",
+ "titleR": "kārgāh-e tarjome",
+ "intro": "At this level you no longer translate words; you translate sentences, registers and whole ways of seeing. This workshop reads a short history of translation into Persian, then works through ten sentences into Persian and ten into English with a commentary on every choice: word order, ezafe chains, tone, idioms that have to be rethought from scratch. It ends with seven words that refuse to be translated – and what each of them really covers.",
+ "goals": [
+  "restructure English sentences into natural Persian order, including long ezafe chains and relative clauses",
+  "choose the right register in both languages, from a formal letter to a chat with friends",
+  "replace idioms with real equivalents instead of translating them word for word",
+  "explain what تعارف، دلتنگی، غیرت، حال، صفا، قسمت and خسته نباشید cover, and translate them in context",
+  "comment on a translation: say why one version is better than another"
+ ],
+ "image": "kalila-wa-dimna",
+ "sections": [
+  {
+   "type": "reading",
+   "title": "From Kalila and Dimna to today",
+   "intro": "A short essay on the long history of translation into Persian. Watch the verbs of translating – ترجمه کردن، برگرداندن، فراهم آوردن – and the essay's question: should a translator be faithful to the words or to the meaning?",
+   "sentences": [
+    {
+     "fa": "ترجمه در تاریخ زبان فارسی جایگاهی ویژه دارد.",
+     "r": "tarjome dar tārikh-e zabān-e fārsi jāygāh-i vizhe dārad.",
+     "en": "Translation has a special place in the history of the Persian language."
+    },
+    {
+     "fa": "داستان‌های «کلیله و دمنه» نخست در هند به زبان سنسکریت نوشته شده بودند.",
+     "r": "dāstān-hā-ye «Kalile o Demne» nakhost dar Hend be zabān-e sanskrit neveshte shode budand.",
+     "en": "The stories of Kalila and Dimna were first written in India, in Sanskrit."
+    },
+    {
+     "fa": "در قرن ششم میلادی، پزشکی ایرانی به نام برزویه این کتاب را به پارسی میانه برگرداند.",
+     "r": "dar gharn-e sheshom-e milādi, pezeshk-i Irāni be nām-e Borzuye in ketāb rā be pārsi-ye miyāne bargardānd.",
+     "en": "In the sixth century AD, an Iranian physician called Borzuya put the book into Middle Persian."
+    },
+    {
+     "fa": "دو قرن بعد، ابن مقفع آن را از پارسی میانه به عربی ترجمه کرد.",
+     "r": "do gharn ba'd, Ebn-e Moghaffa' ān rā az pārsi-ye miyāne be arabi tarjome kard.",
+     "en": "Two centuries later, Ibn al-Muqaffa' translated it from Middle Persian into Arabic."
+    },
+    {
+     "fa": "سرانجام در قرن ششم هجری، ترجمه‌ای فارسی از متن عربی فراهم آمد که هنوز از شاهکارهای نثر فارسی است.",
+     "r": "saranjām dar gharn-e sheshom-e hejri, tarjome-i fārsi az matn-e arabi farāham āmad ke hanuz az shāhkār-hā-ye nasr-e fārsi ast.",
+     "en": "Finally, in the sixth century of the Hijra (the 12th century AD), a Persian translation of the Arabic text was produced that is still one of the masterpieces of Persian prose."
+    },
+    {
+     "fa": "این کتاب در هر ترجمه رنگ زبان تازه‌ی خود را گرفت.",
+     "r": "in ketāb dar har tarjome rang-e zabān-e tāze-ye khod rā gereft.",
+     "en": "With each translation the book took on the colour of its new language."
+    },
+    {
+     "fa": "در دوره‌ی قاجار، با تأسیس دارالفنون، ترجمه‌ی کتاب‌های اروپایی به فارسی رونق گرفت.",
+     "r": "dar dowre-ye Ghājār, bā ta'sis-e Dār-ol-fonun, tarjome-ye ketāb-hā-ye orupāyi be fārsi rownagh gereft.",
+     "en": "In the Qajar period, with the founding of the Dar ol-Fonun college, the translation of European books into Persian flourished."
+    },
+    {
+     "fa": "مترجمان آن دوره گاه واژه‌های فرانسوی را به همان شکل به فارسی آوردند و گاه برای آن‌ها معادل ساختند.",
+     "r": "motarjemān-e ān dowre gāh vāzhe-hā-ye farānsavi rā be hamān shekl be fārsi āvardand va gāh barā-ye ān-hā mo'ādel sākhtand.",
+     "en": "The translators of that time sometimes brought French words into Persian unchanged, and sometimes made up equivalents for them."
+    },
+    {
+     "fa": "امروز نیز هر مترجمی با پرسش‌هایی قدیمی روبه‌رو است.",
+     "r": "emruz niz har motarjem-i bā porsesh-hā-yi ghadimi ru-be-ru ast.",
+     "en": "Today, too, every translator faces some very old questions."
+    },
+    {
+     "fa": "آیا باید به لفظ متن وفادار ماند یا به معنای آن؟",
+     "r": "āyā bāyad be lafz-e matn vafādār mānd yā be ma'nā-ye ān?",
+     "en": "Should one stay faithful to the words of a text, or to its meaning?"
+    },
+    {
+     "fa": "ترجمه‌ی تحت‌اللفظی اغلب جمله‌ای می‌سازد که درست است، اما فارسی نیست.",
+     "r": "tarjome-ye taht-ol-lafzi aghlab jomle-i mi-sāzad ke dorost ast, ammā fārsi nist.",
+     "en": "A literal translation often produces a sentence that is correct, but is not Persian."
+    },
+    {
+     "fa": "اصطلاح انگلیسی «باران گربه و سگ» برای خواننده‌ی فارسی‌زبان هیچ معنایی ندارد.",
+     "r": "estelāh-e engelisi-ye «bārān-e gorbe o sag» barā-ye khānande-ye fārsi-zabān hich ma'nā-yi na-dārad.",
+     "en": "The English idiom 'raining cats and dogs' means nothing at all to a Persian-speaking reader."
+    },
+    {
+     "fa": "مترجم باید معادلی بیابد که همان حس را برساند، مانند «باران مثل سیل می‌بارد».",
+     "r": "motarjem bāyad mo'ādel-i biyābad ke hamān hess rā beresānad, mānand-e «bārān mesl-e seyl mi-bārad».",
+     "en": "The translator must find an equivalent that conveys the same feeling, such as 'it is raining like a flood'."
+    },
+    {
+     "fa": "دشوارتر از اصطلاحات، واژه‌هایی هستند که در زبان مقصد هیچ معادلی ندارند.",
+     "r": "doshvār-tar az estelāhāt, vāzhe-hā-yi hastand ke dar zabān-e maghsad hich mo'ādel-i na-dārand.",
+     "en": "Harder than idioms are the words that have no equivalent at all in the target language."
+    },
+    {
+     "fa": "«تعارف» و «دلتنگی» از این دسته‌اند و هر کدام دنیایی از رفتار و احساس را در خود دارند.",
+     "r": "«ta'ārof» o «deltangi» az in daste-and va har kodām donyā-yi az raftār o ehsās rā dar khod dārand.",
+     "en": "Ta'ārof and deltangi are of this kind, and each holds a whole world of behaviour and feeling."
+    },
+    {
+     "fa": "مترجم خوب در چنین مواردی گاه توضیح می‌دهد، گاه واژه را بی‌ترجمه می‌گذارد و گاه کل جمله را از نو می‌سازد.",
+     "r": "motarjem-e khub dar chenin mavāred-i gāh towzih mi-dahad, gāh vāzhe rā bi-tarjome mi-gozārad va gāh koll-e jomle rā az now mi-sāzad.",
+     "en": "In such cases a good translator sometimes explains, sometimes leaves the word untranslated, and sometimes rebuilds the whole sentence from scratch."
+    },
+    {
+     "fa": "به همین دلیل گفته‌اند که ترجمه نه فقط انتقال واژه‌ها، بلکه انتقال یک فرهنگ است.",
+     "r": "be hamin dalil gofte-and ke tarjome na faghat enteghāl-e vāzhe-hā, balke enteghāl-e yek farhang ast.",
+     "en": "That is why it has been said that translation is the transfer not just of words but of a culture."
+    }
+   ],
+   "questions": [
+    {
+     "q": "In which language were the Kalila and Dimna stories first written?",
+     "options": [
+      "Middle Persian",
+      "Sanskrit",
+      "Arabic"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "From which language was the classical Persian prose version translated?",
+     "options": [
+      "Arabic",
+      "Sanskrit",
+      "Middle Persian"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What does the essay say about a literal translation?",
+     "options": [
+      "It is always wrong",
+      "It is often correct but does not sound like Persian",
+      "It is the best way to keep the meaning"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Which is NOT one of the three things a good translator does with an untranslatable word?",
+     "options": [
+      "explains it",
+      "leaves it untranslated",
+      "replaces it with a word from a third language"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "What a translator actually decides",
+   "md": "Every translation between English and Persian forces the same decisions, and this workshop names them so you can make them on purpose.\n\n1. **Order.** Persian puts the verb last, the adjectives and possessors *after* the noun, and the time before the place. English sentences have to be taken apart and rebuilt, not converted word by word.\n2. **Ezafe chains.** *The director of the Persian Language Centre of the University of Tehran* is one chain in Persian – [[مدیر مرکز زبان فارسی دانشگاه تهران|modir-e markaz-e zabān-e fārsi-ye dāneshgāh-e Tehrān]] – read from the head forward. English often needs to break it up with *'s* and *of*.\n3. **Register.** Persian marks politeness in the verb ([[شما بفرمایید|shomā befarmāyid]] vs [[تو بگو|to begu]]) and has separate written and spoken forms. Decide who is talking to whom before you choose a single word.\n4. **Idioms.** *A piece of cake* is not a cake in Persian; it is [[مثل آب خوردن|mesl-e āb khordan|like drinking water]]. Find the idiom the other language would use – or say it plainly.\n5. **Culture words.** Some words carry customs with them. For these, the only honest method is to understand the whole situation and translate *that*.\n\nThe translator Nasrollah Monshi, who made the classical Persian *Kalila and Dimna* in the 12th century, did all five: he kept the stories, but filled them with Persian verses and Persian rhythms. His version is read today not as a translation but as Persian literature."
+  },
+  {
+   "type": "vocab",
+   "title": "Words for translating",
+   "items": [
+    {
+     "fa": "ترجمه",
+     "r": "tarjome",
+     "en": "translation",
+     "pos": "n",
+     "note": "verb: ترجمه کردن"
+    },
+    {
+     "fa": "مترجم",
+     "r": "motarjem",
+     "en": "translator",
+     "pos": "n"
+    },
+    {
+     "fa": "برگرداندن",
+     "r": "bargardāndan",
+     "en": "to render, translate; to give back",
+     "pos": "v",
+     "ex": {
+      "fa": "این رمان را به فارسی برگرداند.",
+      "r": "in romān rā be fārsi bargardānd.",
+      "en": "She rendered this novel into Persian."
+     }
+    },
+    {
+     "fa": "متن",
+     "r": "matn",
+     "en": "text",
+     "pos": "n"
+    },
+    {
+     "fa": "زبان مبدأ",
+     "r": "zabān-e mabda'",
+     "en": "source language",
+     "pos": "n"
+    },
+    {
+     "fa": "زبان مقصد",
+     "r": "zabān-e maghsad",
+     "en": "target language",
+     "pos": "n"
+    },
+    {
+     "fa": "معادل",
+     "r": "mo'ādel",
+     "en": "equivalent",
+     "pos": "n",
+     "ex": {
+      "fa": "این واژه در انگلیسی معادل دقیقی ندارد.",
+      "r": "in vāzhe dar engelisi mo'ādel-e daghigh-i na-dārad.",
+      "en": "This word has no exact equivalent in English."
+     }
+    },
+    {
+     "fa": "تحت‌اللفظی",
+     "r": "taht-ol-lafzi",
+     "en": "literal, word-for-word",
+     "pos": "adj",
+     "note": "Arabic: 'under the wording'"
+    },
+    {
+     "fa": "واژه‌به‌واژه",
+     "r": "vāzhe-be-vāzhe",
+     "en": "word for word",
+     "pos": "adv"
+    },
+    {
+     "fa": "آزاد",
+     "r": "āzād",
+     "en": "free (of a translation)",
+     "pos": "adj"
+    },
+    {
+     "fa": "وفادار",
+     "r": "vafādār",
+     "en": "faithful",
+     "pos": "adj",
+     "ex": {
+      "fa": "ترجمه‌ای وفادار و روان",
+      "r": "tarjome-i vafādār o ravān",
+      "en": "a faithful and fluent translation"
+     }
+    },
+    {
+     "fa": "روان",
+     "r": "ravān",
+     "en": "fluent, smooth-reading",
+     "pos": "adj"
+    },
+    {
+     "fa": "لحن",
+     "r": "lahn",
+     "en": "tone",
+     "pos": "n",
+     "ex": {
+      "fa": "لحن نامه خیلی رسمی است.",
+      "r": "lahn-e nāme kheyli rasmi ast.",
+      "en": "The tone of the letter is very formal."
+     }
+    },
+    {
+     "fa": "اصطلاح",
+     "r": "estelāh",
+     "en": "idiom; technical term",
+     "pos": "n",
+     "note": "plural اصطلاحات"
+    },
+    {
+     "fa": "ضرب‌المثل",
+     "r": "zarb-ol-masal",
+     "en": "proverb",
+     "pos": "n"
+    },
+    {
+     "fa": "گرته‌برداری",
+     "r": "gerte-bardāri",
+     "en": "calque, loan translation",
+     "pos": "n",
+     "note": "literally 'tracing'"
+    },
+    {
+     "fa": "بافت",
+     "r": "bāft",
+     "en": "context; texture",
+     "pos": "n"
+    },
+    {
+     "fa": "رساندن",
+     "r": "resāndan",
+     "en": "to convey (a meaning); to deliver",
+     "pos": "v"
+    },
+    {
+     "fa": "انتقال",
+     "r": "enteghāl",
+     "en": "transfer, conveying",
+     "pos": "n"
+    },
+    {
+     "fa": "ابهام",
+     "r": "ebhām",
+     "en": "ambiguity",
+     "pos": "n"
+    },
+    {
+     "fa": "ویراستار",
+     "r": "virāstār",
+     "en": "editor (of a text)",
+     "pos": "n",
+     "note": "the work: ویرایش (virāyesh)"
+    },
+    {
+     "fa": "لفظ",
+     "r": "lafz",
+     "en": "wording, the letter (of a text)",
+     "pos": "n"
+    },
+    {
+     "fa": "معنا",
+     "r": "ma'nā",
+     "en": "meaning",
+     "pos": "n"
+    },
+    {
+     "fa": "روبه‌رو شدن",
+     "r": "ru-be-ru shodan",
+     "en": "to face, to come up against",
+     "pos": "v"
+    },
+    {
+     "fa": "از نو",
+     "r": "az now",
+     "en": "anew, from scratch",
+     "pos": "adv"
+    },
+    {
+     "fa": "فارسی‌زبان",
+     "r": "fārsi-zabān",
+     "en": "Persian-speaking; a Persian speaker",
+     "pos": "adj"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Rebuilding the sentence: order and ezafe chains",
+   "md": "The commonest mistake in English→Persian translation is keeping English order. Persian has its own: **subject – time – manner – place – object – verb**, adjectives and possessors **after** the noun, and relative clauses introduced by [[ـی … که|-i … ke]] on the noun.\n\nEzafe chains run the opposite way to English *'s*: the first word is the head, and each later word narrows it. Read *the University of Tehran's language centre director* backwards and you have the Persian order: [[مدیر مرکز زبان دانشگاه تهران|modir-e markaz-e zabān-e dāneshgāh-e Tehrān]]. When a chain gets longer than five or six links, a good translator breaks it: [[مدیر مرکزی که در دانشگاه تهران زبان فارسی درس می‌دهد|modir-e markaz-i ke dar dāneshgāh-e Tehrān zabān-e fārsi dars mi-dahad]].\n\nSome English structures have no Persian twin and must be rethought: *I like it* becomes [[از آن خوشم می‌آید|az ān khosh-am mi-āyad|it pleases me]]; *I have been learning for two years* becomes [[دو سال است که یاد می‌گیرم|do sāl ast ke yād mi-giram|it is two years that I learn]].",
+   "table": {
+    "head": [
+     "English",
+     "Persian",
+     "What changes"
+    ],
+    "rows": [
+     [
+      "a big old house",
+      "[[خانه‌ی بزرگ قدیمی|khāne-ye bozorg-e ghadimi]]",
+      "adjectives follow, joined by ezafe"
+     ],
+     [
+      "my grandfather's house",
+      "[[خانه‌ی پدربزرگم|khāne-ye pedarbozorg-am]]",
+      "the possessor follows"
+     ],
+     [
+      "the University of Tehran's language centre",
+      "[[مرکز زبان دانشگاه تهران|markaz-e zabān-e dāneshgāh-e Tehrān]]",
+      "the chain starts from the head"
+     ],
+     [
+      "the book (that) I bought",
+      "[[کتابی که خریدم|ketāb-i ke kharidam]]",
+      "ـی on the noun + که, never left out"
+     ],
+     [
+      "Tom goes to university by metro every morning",
+      "[[تام هر روز صبح با مترو به دانشگاه می‌رود|Tām har ruz sobh bā metro be dāneshgāh mi-ravad]]",
+      "time – manner – place – verb"
+     ],
+     [
+      "I like it",
+      "[[از آن خوشم می‌آید|az ān khosh-am mi-āyad]]",
+      "the thing becomes the subject"
+     ],
+     [
+      "I have been learning for two years",
+      "[[دو سال است که یاد می‌گیرم|do sāl ast ke yād mi-giram]]",
+      "'it is two years that' + present"
+     ],
+     [
+      "There are three reasons",
+      "[[سه دلیل وجود دارد|se dalil vojud dārad]]",
+      "'exist' instead of 'there is'"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "مدیر مرکز آموزش زبان فارسی دانشگاه تهران فردا سخنرانی می‌کند.",
+     "r": "modir-e markaz-e āmuzesh-e zabān-e fārsi-ye dāneshgāh-e Tehrān fardā sokhanrāni mi-konad.",
+     "en": "The director of the University of Tehran's Persian language centre is giving a talk tomorrow."
+    },
+    {
+     "fa": "کتابی که دیروز از کتاب‌فروشی خریدم، ترجمه‌ی تازه‌ای از رباعیات خیام است.",
+     "r": "ketāb-i ke diruz az ketāb-forushi kharidam, tarjome-ye tāze-i az robā'iyāt-e Khayyām ast.",
+     "en": "The book I bought at the bookshop yesterday is a new translation of Khayyam's quatrains."
+    },
+    {
+     "fa": "تام هر روز صبح با مترو به دانشگاه می‌رود.",
+     "r": "Tām har ruz sobh bā metro be dāneshgāh mi-ravad.",
+     "en": "Tom goes to the university by metro every morning."
+    },
+    {
+     "fa": "خانه‌ی بزرگ قدیمی پدربزرگم در یزد را فروختند.",
+     "r": "khāne-ye bozorg-e ghadimi-ye pedarbozorg-am dar Yazd rā forukhtand.",
+     "en": "They sold my grandfather's big old house in Yazd."
+    },
+    {
+     "fa": "ترجمه‌ی این شعر برای من خیلی دشوار بود.",
+     "r": "tarjome-ye in she'r barā-ye man kheyli doshvār bud.",
+     "en": "I found this poem very hard to translate.",
+     "lit": "the translation of this poem was very hard for me"
+    },
+    {
+     "fa": "آن‌چه مترجم را آزار می‌دهد، نبودن معادل است.",
+     "r": "ān-che motarjem rā āzār mi-dahad, nabudan-e mo'ādel ast.",
+     "en": "What torments a translator is the lack of an equivalent."
+    },
+    {
+     "fa": "از این کتاب خیلی خوشم آمد.",
+     "r": "az in ketāb kheyli khosh-am āmad.",
+     "en": "I really liked this book.",
+     "col": "از این کتاب خیلی خوشم اومد.",
+     "colR": "az in ketāb kheyli khosh-am umad."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Register and idioms that need rethinking",
+   "md": "**Register first.** Before translating *Could you send me the file?* ask: to whom? A professor gets [[ممکن است لطفاً فایل را برایم بفرستید؟|momken ast lotfan fāyl rā barā-yam befrestid?]]; a friend gets the spoken [[فایلو برام بفرست|fāylo barām befrest]]. English *you* has one form; Persian has two (to / shomā), plus the plural of respect and a written–spoken split. A translation that gets every word right and the register wrong is a bad translation.\n\n**Idioms second.** An idiom is a picture, and the picture rarely survives the journey. Look for the idiom the other language would use in the same situation; if none exists, say it plainly. Literal versions of idioms are the surest sign of an amateur translation – in both directions.",
+   "table": {
+    "head": [
+     "English idiom",
+     "Persian equivalent",
+     "Literally"
+    ],
+    "rows": [
+     [
+      "It's a piece of cake.",
+      "[[مثل آب خوردن است.|mesl-e āb khordan ast.]]",
+      "it's like drinking water"
+     ],
+     [
+      "to kill two birds with one stone",
+      "[[با یک تیر دو نشان زدن|bā yek tir do neshān zadan]]",
+      "to hit two targets with one arrow"
+     ],
+     [
+      "Speak of the devil!",
+      "[[حلال‌زاده است!|halāl-zāde ast!]]",
+      "he's legitimately born!"
+     ],
+     [
+      "to pull someone's leg",
+      "[[سر به سر کسی گذاشتن|sar be sar-e kas-i gozāshtan]]",
+      "to put head to someone's head"
+     ],
+     [
+      "Prices have gone through the roof.",
+      "[[قیمت‌ها سر به فلک زده است.|gheymat-hā sar be falak zade ast.]]",
+      "prices have struck their head on the heavens"
+     ],
+     [
+      "Good luck! / Break a leg!",
+      "[[موفق باشی!|movaffagh bāshi!]]",
+      "may you be successful"
+     ],
+     [
+      "It's not my cup of tea.",
+      "[[به سلیقه‌ی من نیست.|be salighe-ye man nist.]]",
+      "it's not to my taste"
+     ],
+     [
+      "It's too late now.",
+      "[[کار از کار گذشته است.|kār az kār gozashte ast.]]",
+      "the matter has gone past the matter"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "امتحان مثل آب خوردن بود.",
+     "r": "emtehān mesl-e āb khordan bud.",
+     "en": "The exam was a piece of cake."
+    },
+    {
+     "fa": "با این کار با یک تیر دو نشان زدی.",
+     "r": "bā in kār bā yek tir do neshān zadi.",
+     "en": "With that you killed two birds with one stone."
+    },
+    {
+     "fa": "حلال‌زاده است! داشتیم درباره‌ات حرف می‌زدیم.",
+     "r": "halāl-zāde ast! dāshtim darbāre-at harf mi-zadim.",
+     "en": "Speak of the devil! We were just talking about you.",
+     "col": "حلال‌زاده‌ست! داشتیم درباره‌ت حرف می‌زدیم.",
+     "colR": "halāl-zāde-st! dāshtim darbāre-t harf mi-zadim."
+    },
+    {
+     "fa": "سر به سرم نگذار!",
+     "r": "sar be sar-am na-gozār!",
+     "en": "Stop pulling my leg!",
+     "col": "سر به سرم نذار!",
+     "colR": "sar be sar-am na-zār!"
+    },
+    {
+     "fa": "در این چند سال قیمت‌ها سر به فلک زده است.",
+     "r": "dar in chand sāl gheymat-hā sar be falak zade ast.",
+     "en": "Prices have gone through the roof in the last few years."
+    },
+    {
+     "fa": "ممکن است لطفاً در را ببندید؟",
+     "r": "momken ast lotfan dar rā bebandid?",
+     "en": "Would you mind closing the door?",
+     "note": "Formal register: shomā verb + لطفاً + ممکن است. To a friend: «درو می‌بندی؟»"
+    },
+    {
+     "fa": "با سلام و احترام،",
+     "r": "bā salām o ehterām,",
+     "en": "Dear Sir or Madam,",
+     "lit": "with greetings and respect",
+     "note": "The standard opening of a formal Persian letter or email."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Seven words that will not translate",
+   "md": "Each of these words has a dictionary gloss, and each gloss is wrong somewhere. Learn them as situations, not as words – and when you translate them, translate the situation.",
+   "table": {
+    "head": [
+     "Word",
+     "Reading",
+     "Nearest English",
+     "What it really covers"
+    ],
+    "rows": [
+     [
+      "تعارف",
+      "ta'ārof",
+      "ritual politeness",
+      "offering what you may not mean to give, refusing what you would like to accept, insisting three times; the choreography of modesty and hospitality"
+     ],
+     [
+      "دلتنگی",
+      "deltangi",
+      "missing, longing, homesickness",
+      "the 'tightening of the heart' for a person, a place or a time; sadder than *missing*, warmer than *melancholy*"
+     ],
+     [
+      "غیرت",
+      "gheyrat",
+      "honour, zeal, protective pride",
+      "the urge to stand up for one's own – family, friends, country; admired as loyalty and courage, criticised as possessive jealousy"
+     ],
+     [
+      "حال",
+      "hāl",
+      "state, mood; fun",
+      "how you are (حالت چطور است؟), the mood of a moment (حال و هوا), and in speech pure enjoyment (حال کردیم 'we had a great time')"
+     ],
+     [
+      "صفا",
+      "safā",
+      "purity, serenity, warmth",
+      "the clean, friendly, uplifting feel of a place or a gathering; said to guests: صفا آوردید 'you have brought joy'"
+     ],
+     [
+      "قسمت",
+      "ghesmat",
+      "fate, one's lot",
+      "what was 'allotted' to you – used for meetings, marriages, missed chances: قسمت نبود 'it wasn't meant to be'"
+     ],
+     [
+      "خسته نباشید",
+      "khaste na-bāshid",
+      "thanks for your hard work",
+      "'may you not be tired': said to anyone who is working or has worked – a shopkeeper, a driver, a speaker, a colleague leaving at six; the answer is سلامت باشید"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "بفرمایید، تعارف نکنید!",
+     "r": "befarmāyid, ta'ārof na-konid!",
+     "en": "Please, help yourself – there's no need to be polite!"
+    },
+    {
+     "fa": "دلم برای شیراز تنگ شده است.",
+     "r": "del-am barā-ye Shirāz tang shode ast.",
+     "en": "I miss Shiraz.",
+     "lit": "my heart has become tight for Shiraz",
+     "col": "دلم برای شیراز تنگ شده.",
+     "colR": "del-am barā-ye Shirāz tang shode."
+    },
+    {
+     "fa": "او با غیرت از دوستانش دفاع کرد.",
+     "r": "u bā gheyrat az dustān-ash defā' kard.",
+     "en": "He stood up for his friends fiercely, as a point of honour."
+    },
+    {
+     "fa": "حال و هوای این شهر را دوست دارم.",
+     "r": "hāl o havā-ye in shahr rā dust dāram.",
+     "en": "I love the feel of this city.",
+     "lit": "I love the state and air of this city"
+    },
+    {
+     "fa": "خوش آمدید، صفا آوردید!",
+     "r": "khosh āmadid, safā āvardid!",
+     "en": "Welcome – how lovely that you've come!",
+     "lit": "you came well, you brought purity"
+    },
+    {
+     "fa": "می‌خواستیم به اصفهان برویم، اما قسمت نبود.",
+     "r": "mi-khāstim be Esfahān beravim, ammā ghesmat na-bud.",
+     "en": "We wanted to go to Isfahan, but it wasn't meant to be."
+    },
+    {
+     "fa": "به راننده گفتم «خسته نباشید» و پیاده شدم.",
+     "r": "be rānande goftam «khaste na-bāshid» va piyāde shodam.",
+     "en": "I thanked the driver and got out.",
+     "note": "An English translation cannot keep the words; it keeps the gesture. In a novel you might write: I said the usual thank-you to the driver."
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Workshop 1: ten sentences into Persian",
+   "intro": "Each English sentence (in the translation line) is followed by a Persian version and a commentary. Cover the Persian, try your own version, then compare – and read the note even when you got it right.",
+   "sentences": [
+    {
+     "fa": "دو سال است که فارسی یاد می‌گیرم.",
+     "r": "do sāl ast ke fārsi yād mi-giram.",
+     "en": "I've been learning Persian for two years.",
+     "note": "The English present perfect continuous becomes 'it is two years that' + present. «دو سال است فارسی یاد گرفته‌ام» would suggest the learning is finished."
+    },
+    {
+     "fa": "مردی که در خانه‌ی کناری زندگی می‌کند، مترجم است.",
+     "r": "mard-i ke dar khāne-ye kenāri zendegi mi-konad, motarjem ast.",
+     "en": "The man who lives next door is a translator.",
+     "note": "ـی + که on the noun; the main verb waits until the end. A comma before the main verb helps the reader of a long subject."
+    },
+    {
+     "fa": "به من گفتند که جلسه لغو شده است.",
+     "r": "be man goftand ke jalase laghv shode ast.",
+     "en": "I was told that the meeting had been cancelled.",
+     "note": "Two changes: the English passive 'I was told' becomes the impersonal 'they told me', and Persian keeps the tense of the original words (شده است, not شده بود)."
+    },
+    {
+     "fa": "ممکن است لطفاً فایل را تا فردا برایم بفرستید؟",
+     "r": "momken ast lotfan fāyl rā tā fardā barā-yam befrestid?",
+     "en": "Could you possibly send me the file by tomorrow?",
+     "note": "Register: an email to a colleague or teacher – shomā form, لطفاً, ممکن است. 'By tomorrow' is تا فردا."
+    },
+    {
+     "fa": "مثل آب خوردن است.",
+     "r": "mesl-e āb khordan ast.",
+     "en": "It's a piece of cake.",
+     "note": "Idiom for idiom. «یک تکه کیک است» would puzzle any Iranian."
+    },
+    {
+     "fa": "دلش برای خانه خیلی تنگ شده است.",
+     "r": "del-ash barā-ye khāne kheyli tang shode ast.",
+     "en": "She's very homesick.",
+     "note": "Persian has no adjective for 'homesick'; the heart becomes the subject and the feeling becomes a whole clause."
+    },
+    {
+     "fa": "بهتر است پیش از آن‌که باران ببارد، راه بیفتیم.",
+     "r": "behtar ast pish az ān-ke bārān bebārad, rāh biyoftim.",
+     "en": "We'd better leave before it rains.",
+     "note": "'We'd better' = بهتر است + subjunctive. پیش از آن‌که always takes the subjunctive, even when English uses the present."
+    },
+    {
+     "fa": "هر چه بیشتر بخوانی، بیشتر می‌فهمی.",
+     "r": "har che bish-tar bekhāni, bish-tar mi-fahmi.",
+     "en": "The more you read, the more you understand.",
+     "note": "The pattern هر چه … ‑تر …، ‑تر …. Generic 'you' is the to-form, as in English."
+    },
+    {
+     "fa": "از مهمان‌نوازی شما سپاسگزارم.",
+     "r": "az mehmān-navāzi-ye shomā sepāsgozār-am.",
+     "en": "Thank you for your hospitality.",
+     "note": "Formal, for a letter or a speech. Face to face most people would say «دستتان درد نکند» or «خیلی زحمت کشیدید»."
+    },
+    {
+     "fa": "جسارت نباشد، ولی فکر می‌کنم اشتباه می‌کنید.",
+     "r": "jesārat na-bāshad, vali fekr mi-konam eshtebāh mi-konid.",
+     "en": "No offence, but I think you're wrong.",
+     "note": "جسارت نباشد 'may it not be impudence' is the polite cushion before disagreeing with someone older or senior."
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Workshop 2: ten sentences into English",
+   "intro": "Now the other direction. Each Persian sentence has a literal reading and a translation that an English speaker would actually say. The commentary explains the jump from one to the other.",
+   "sentences": [
+    {
+     "fa": "دستت درد نکند.",
+     "r": "dast-at dard na-konad.",
+     "en": "Thanks so much (for doing that).",
+     "lit": "may your hand not hurt",
+     "note": "Thanks for an action – a meal, a favour, a lift. 'Thanks for all your trouble' often fits better than a bare 'thank you'."
+    },
+    {
+     "fa": "قدمتان روی چشم.",
+     "r": "ghadam-etān ru-ye cheshm.",
+     "en": "You're most welcome here.",
+     "lit": "your step (is) on my eye",
+     "note": "A host's welcome. Any image of eyes in English would sound strange; translate the warmth."
+    },
+    {
+     "fa": "چشمم آب نمی‌خورد که بیاید.",
+     "r": "cheshm-am āb nemi-khorad ke biyāyad.",
+     "en": "I doubt he'll come.",
+     "lit": "my eye doesn't drink water that he will come",
+     "note": "An idiom of doubt. English needs only a plain verb – or 'I wouldn't bet on him coming'."
+    },
+    {
+     "fa": "کار از کار گذشته است.",
+     "r": "kār az kār gozashte ast.",
+     "en": "It's too late now.",
+     "lit": "the work has passed from the work",
+     "note": "Also 'what's done is done' – choose by context."
+    },
+    {
+     "fa": "هر چه شما بفرمایید.",
+     "r": "har che shomā befarmāyid.",
+     "en": "Whatever you think best.",
+     "lit": "whatever you command",
+     "note": "Ta'ārof: politeness, not obedience. In English 'as you wish' can sound cold; 'whatever suits you' is closer."
+    },
+    {
+     "fa": "بی‌زحمت نمک را بدهید.",
+     "r": "bi-zahmat namak rā bedahid.",
+     "en": "Could you pass the salt, please?",
+     "lit": "without trouble, give the salt",
+     "note": "Persian softens with بی‌زحمت and an imperative; English softens with a question."
+    },
+    {
+     "fa": "مادربزرگم سال گذشته به رحمت خدا رفت.",
+     "r": "mādarbozorg-am sāl-e gozashte be rahmat-e khodā raft.",
+     "en": "My grandmother passed away last year.",
+     "lit": "went to God's mercy",
+     "note": "A respectful euphemism needs a respectful euphemism – not 'died', and not a word-for-word religious phrase."
+    },
+    {
+     "fa": "این‌جا خیلی صفا دارد.",
+     "r": "in-jā kheyli safā dārad.",
+     "en": "It's really lovely here.",
+     "lit": "here has much purity",
+     "note": "صفا is the feel of a place: peaceful, fresh, friendly. 'Lovely', 'such a nice atmosphere'."
+    },
+    {
+     "fa": "قسمت این بود که همدیگر را در تهران ببینیم.",
+     "r": "ghesmat in bud ke hamdigar rā dar Tehrān bebinim.",
+     "en": "We were meant to meet in Tehran.",
+     "lit": "the lot was this, that we see each other in Tehran",
+     "note": "'Fate' is too heavy for most contexts; 'meant to', 'it was written' (jokingly) are closer."
+    },
+    {
+     "fa": "خدا بد ندهد!",
+     "r": "khodā bad na-dahad!",
+     "en": "Oh no – I hope it's nothing serious!",
+     "lit": "may God not give bad",
+     "note": "Said on hearing that someone is ill or has had an accident. Translate the concern, not the blessing."
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "A country of translators",
+   "md": "Iran reads the world in translation. Walk down Enghelab Street in Tehran, opposite the university, and the bookshops are full of Persian versions of Tolstoy, Dostoevsky, Hemingway, Márquez and Kundera – often in several competing translations, each with its loyal readers. Well-known translators are public figures, and readers will tell you *whose* translation of a novel to buy before they tell you anything about the novel.\n\nThe traffic also runs the other way. The most famous translation from Persian is Edward FitzGerald's *Rubáiyát of Omar Khayyám* (1859) – so free that scholars still argue whether it is a translation or a new English poem inspired by Khayyam. FitzGerald took quatrains apart, combined them and invented lines, and yet his version made Khayyam one of the best-known poets in the English-speaking world. It is the perfect case study for this lesson's question: [[لفظ یا معنا؟|lafz yā ma'nā?|the words or the meaning?]]\n\nIranian cinema and television add a third tradition: **dubbing** ([[دوبله|dubleh]]). For decades foreign films have been dubbed into Persian by star voice actors, and a good dubbing team rewrites jokes, idioms and insults so that they land in Persian – a daily, very public lesson in translating the situation rather than the words.",
+   "image": "omar-khayyam"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "Read your Persian translation aloud without looking at the English. If it sounds like a translation, rebuild it: move the verb, split a long clause, break the ezafe chain.",
+    "Watch the false friends of structure: «توسط» for every 'by', «این است که» for 'the thing is', «در حال … بودن» for every -ing. Each is possible; none should be automatic.",
+    "When you meet a culture word (تعارف، قسمت، صفا) in a text, ask three questions: who says it, to whom, and what would an English speaker say in the same moment?",
+    "Keep a two-column notebook of idioms you meet – Persian on one side, the real English equivalent (not the literal one) on the other.",
+    "For formal English → formal Persian, a reliable recipe: shomā verbs, لطفاً or خواهشمند است, a passive or impersonal where English has 'we'.",
+    "Translating Persian into English, cut the blessings and courtesies that English does not use – but keep the warmth they carry somewhere in the sentence."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "The missing word",
+   "items": [
+    {
+     "fa": "دلم برایت خیلی ___ شده است.",
+     "r": "del-am barā-yat kheyli ___ shode ast.",
+     "en": "I've missed you so much.",
+     "answer": "تنگ",
+     "hint": "narrow, tight"
+    },
+    {
+     "fa": "با یک تیر دو ___ زد.",
+     "r": "bā yek tir do ___ zad.",
+     "en": "He killed two birds with one stone.",
+     "answer": "نشان",
+     "hint": "target"
+    },
+    {
+     "fa": "امتحان مثل آب ___ بود.",
+     "r": "emtehān mesl-e āb ___ bud.",
+     "en": "The exam was a piece of cake.",
+     "answer": "خوردن",
+     "hint": "the infinitive 'to drink / eat'"
+    },
+    {
+     "fa": "بفرمایید، ___ نکنید!",
+     "r": "befarmāyid, ___ na-konid!",
+     "en": "Please, help yourself – don't stand on ceremony!",
+     "answer": "تعارف",
+     "hint": "ritual politeness"
+    },
+    {
+     "fa": "دو سال ___ که فارسی یاد می‌گیرم.",
+     "r": "do sāl ___ ke fārsi yād mi-giram.",
+     "en": "I've been learning Persian for two years.",
+     "answer": "است",
+     "hint": "'it is two years that…'"
+    },
+    {
+     "fa": "می‌خواستیم همدیگر را ببینیم، اما ___ نبود.",
+     "r": "mi-khāstim hamdigar rā bebinim, ammā ___ na-bud.",
+     "en": "We wanted to see each other, but it wasn't meant to be.",
+     "answer": "قسمت",
+     "hint": "one's lot"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Into Persian",
+   "items": [
+    {
+     "en": "The woman who teaches us Persian is from Shiraz.",
+     "fa": "خانمی که به ما فارسی درس می‌دهد، اهل شیراز است.",
+     "r": "khānom-i ke be mā fārsi dars mi-dahad, ahl-e Shirāz ast."
+    },
+    {
+     "en": "I've been living in Tehran for six months.",
+     "fa": "شش ماه است که در تهران زندگی می‌کنم.",
+     "r": "shesh māh ast ke dar Tehrān zendegi mi-konam."
+    },
+    {
+     "en": "I really liked your translation.",
+     "fa": "از ترجمه‌ی شما خیلی خوشم آمد.",
+     "r": "az tarjome-ye shomā kheyli khosh-am āmad."
+    },
+    {
+     "en": "Speak of the devil – here's Reza!",
+     "fa": "حلال‌زاده است، رضا آمد!",
+     "r": "halāl-zāde ast, Rezā āmad!"
+    },
+    {
+     "en": "The more you practise, the better you speak.",
+     "fa": "هر چه بیشتر تمرین کنی، بهتر حرف می‌زنی.",
+     "r": "har che bish-tar tamrin koni, behtar harf mi-zani."
+    },
+    {
+     "en": "Thank you for all your trouble (said to a host).",
+     "fa": "خیلی زحمت کشیدید، دستتان درد نکند.",
+     "r": "kheyli zahmat keshidid, dast-etān dard na-konad."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Into English: choose the best version",
+   "items": [
+    {
+     "q": "[[چشمم آب نمی‌خورد که قبول کند.|cheshm-am āb nemi-khorad ke ghabul konad.]]",
+     "options": [
+      "My eye doesn't drink water that he accepts.",
+      "I doubt he'll agree.",
+      "I can't see him accepting water."
+     ],
+     "answer": 1,
+     "explain": "An idiom of doubt: translate the meaning, not the eye or the water."
+    },
+    {
+     "q": "[[صفا آوردید!|safā āvardid!]] – said by a host at the door.",
+     "options": [
+      "You brought purity!",
+      "You've cleaned the house!",
+      "How lovely to see you – welcome!"
+     ],
+     "answer": 2,
+     "explain": "A warm formula of welcome; English expresses it with 'lovely to see you'."
+    },
+    {
+     "q": "[[خسته نباشید!|khaste na-bāshid!]] – said to a teacher at the end of a class.",
+     "options": [
+      "Thank you – that was a great class.",
+      "Don't be tired!",
+      "You look tired."
+     ],
+     "answer": 0,
+     "explain": "It acknowledges someone's work. English thanks them for it."
+    },
+    {
+     "q": "[[کار از کار گذشته است.|kār az kār gozashte ast.]]",
+     "options": [
+      "The work is finished.",
+      "It's too late now.",
+      "He has left his job."
+     ],
+     "answer": 1,
+     "explain": "Nothing can be changed any more: 'it's too late', 'what's done is done'."
+    },
+    {
+     "q": "[[بی‌زحمت در را ببندید.|bi-zahmat dar rā bebandid.]]",
+     "options": [
+      "Close the door without trouble.",
+      "Close the door!",
+      "Would you mind closing the door?"
+     ],
+     "answer": 2,
+     "explain": "بی‌زحمت softens the imperative; English softens with a question."
+    },
+    {
+     "q": "Which word is the best one-word English gloss for [[دلتنگی|deltangi]] in [[دلتنگی شب‌های غربت|deltangi-ye shab-hā-ye ghorbat]]?",
+     "options": [
+      "homesickness",
+      "narrowness",
+      "boredom"
+     ],
+     "answer": 0,
+     "explain": "غربت is being far from home, so here دلتنگی is homesickness. In other contexts it is 'missing someone' or 'longing'."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Persian order, please",
+   "items": [
+    {
+     "fa": "تام هر روز با مترو به دانشگاه می‌رود.",
+     "r": "Tām har ruz bā metro be dāneshgāh mi-ravad.",
+     "en": "Tom goes to university by metro every day."
+    },
+    {
+     "fa": "کتابی که خریدم ترجمه‌ی خوبی است.",
+     "r": "ketāb-i ke kharidam tarjome-ye khub-i ast.",
+     "en": "The book I bought is a good translation."
+    },
+    {
+     "fa": "شش ماه است که در تهران زندگی می‌کنم.",
+     "r": "shesh māh ast ke dar Tehrān zendegi mi-konam.",
+     "en": "I've been living in Tehran for six months."
+    },
+    {
+     "fa": "این واژه در انگلیسی معادل دقیقی ندارد.",
+     "r": "in vāzhe dar engelisi mo'ādel-e daghigh-i na-dārad.",
+     "en": "This word has no exact equivalent in English."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Words and situations",
+   "items": [
+    {
+     "fa": "تعارف",
+     "r": "ta'ārof",
+     "en": "insisting, offering and politely refusing"
+    },
+    {
+     "fa": "دلتنگی",
+     "r": "deltangi",
+     "en": "longing for someone or somewhere"
+    },
+    {
+     "fa": "غیرت",
+     "r": "gheyrat",
+     "en": "protective pride in one's own"
+    },
+    {
+     "fa": "حال",
+     "r": "hāl",
+     "en": "state, mood – and in speech, fun"
+    },
+    {
+     "fa": "صفا",
+     "r": "safā",
+     "en": "the warm, peaceful feel of a place"
+    },
+    {
+     "fa": "قسمت",
+     "r": "ghesmat",
+     "en": "what was meant to be"
+    },
+    {
+     "fa": "خسته نباشید",
+     "r": "khaste na-bāshid",
+     "en": "thanks for your hard work"
+    },
+    {
+     "fa": "جسارت نباشد",
+     "r": "jesārat na-bāshad",
+     "en": "no offence, but…"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose the meaning",
+   "items": [
+    {
+     "fa": "قدمتان روی چشم.",
+     "r": "ghadam-etān ru-ye cheshm.",
+     "en": "You're most welcome here.",
+     "options": [
+      "Watch your step.",
+      "You're most welcome here.",
+      "My eyes hurt."
+     ],
+     "answer": 1
+    },
+    {
+     "fa": "خدا بد ندهد!",
+     "r": "khodā bad na-dahad!",
+     "en": "Oh no – I hope it's nothing serious!",
+     "options": [
+      "Oh no – I hope it's nothing serious!",
+      "God is great!",
+      "That's very bad news for you."
+     ],
+     "answer": 0
+    },
+    {
+     "fa": "به من گفتند که جلسه لغو شده است.",
+     "r": "be man goftand ke jalase laghv shode ast.",
+     "en": "I was told that the meeting had been cancelled.",
+     "options": [
+      "I told them the meeting was cancelled.",
+      "They asked me to cancel the meeting.",
+      "I was told that the meeting had been cancelled."
+     ],
+     "answer": 2
+    },
+    {
+     "fa": "از مهمان‌نوازی شما سپاسگزارم.",
+     "r": "az mehmān-navāzi-ye shomā sepāsgozār-am.",
+     "en": "Thank you for your hospitality.",
+     "options": [
+      "Thank you for your hospitality.",
+      "You are my guest.",
+      "Please come again."
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ ]
+}

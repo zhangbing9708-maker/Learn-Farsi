@@ -36,38 +36,218 @@
   }
  ],
  "sentences": [
-  {"fa": "پوراندخت دختر خسرو پرویز بود.", "r": "Purāndokht dokhtar-e Khosrow Parviz bud.", "en": "Purandokht was the daughter of Khosrow Parviz."},
-  {"fa": "او یکی از دو ملکه‌ی ساسانی بود که بر ایران حکومت کردند.", "r": "u yek-i az do maleke-ye Sāsāni bud ke bar Irān hokumat kardand.", "en": "She was one of the two Sasanian queens who ruled Iran."},
-  {"fa": "طاهره شاعر و دانشمندی از قزوین بود.", "r": "Tāhere shā'er va dāneshmand-i az Ghazvin bud.", "en": "Tahereh was a poet and scholar from Qazvin."},
-  {"fa": "پروین اعتصامی در تبریز به دنیا آمد.", "r": "Parvin E'tesāmi dar Tabriz be donyā āmad.", "en": "Parvin E'tesami was born in Tabriz."},
-  {"fa": "پروین در شعرهایش از فقیران و یتیمان دفاع می‌کرد.", "r": "Parvin dar she'r-hā-yash az faghirān va yatimān defā' mi-kard.", "en": "In her poems Parvin stood up for the poor and for orphans."},
-  {"fa": "رمان سووشون از سیمین دانشور است.", "r": "romān-e Suvashun az Simin Dāneshvar ast.", "en": "The novel Savushun is by Simin Daneshvar."},
-  {"fa": "داستان سووشون در شیراز می‌گذرد.", "r": "dāstān-e Suvashun dar Shirāz mi-gozarad.", "en": "The story of Savushun takes place in Shiraz."},
-  {"fa": "مریم میرزاخانی ریاضی‌دان بزرگی بود.", "r": "Maryam Mirzākhāni riyāzi-dān-e bozorg-i bud.", "en": "Maryam Mirzakhani was a great mathematician."},
-  {"fa": "او در سال ۲۰۱۴ مدال فیلدز را گرفت.", "r": "u dar sāl-e do-hezār-o-chahārdah medāl-e Fildz rā gereft.", "en": "In 2014 she won the Fields Medal."},
-  {"fa": "او نخستین زنی بود که این جایزه را برد.", "r": "u nokhostin zan-i bud ke in jāyeze rā bord.", "en": "She was the first woman to win this prize."},
-  {"fa": "انوشه انصاری در سال ۲۰۰۶ به ایستگاه فضایی بین‌المللی رفت.", "r": "Anushe Ansāri dar sāl-e do-hezār-o-shesh be istgāh-e fazāyi-ye beyn-ol-melali raft.", "en": "In 2006 Anousheh Ansari went to the International Space Station."},
-  {"fa": "زنان ایرانی در علم، هنر و ادبیات نقش بزرگی داشته‌اند.", "r": "zanān-e irāni dar 'elm, honar va adabiyyāt naghsh-e bozorg-i dāshte-and.", "en": "Iranian women have played a great part in science, art and literature."}
+  {
+   "fa": "پوراندخت دختر خسرو پرویز بود.",
+   "r": "Purāndokht dokhtar-e Khosrow Parviz bud.",
+   "en": "Purandokht was the daughter of Khosrow Parviz.",
+   "faV": "پوراندُخت دُختَرِ خُسرَو پَرویز بود.",
+   "a": "4e24514289df"
+  },
+  {
+   "fa": "او یکی از دو ملکه‌ی ساسانی بود که بر ایران حکومت کردند.",
+   "r": "u yek-i az do maleke-ye Sāsāni bud ke bar Irān hokumat kardand.",
+   "en": "She was one of the two Sasanian queens who ruled Iran.",
+   "faV": "او یِکی اَز دو مَلِکه‌یِ ساسانی بود که بَر ایران حُکومَت کَردَند.",
+   "a": "129b36cc821d"
+  },
+  {
+   "fa": "طاهره شاعر و دانشمندی از قزوین بود.",
+   "r": "Tāhere shā'er va dāneshmand-i az Ghazvin bud.",
+   "en": "Tahereh was a poet and scholar from Qazvin.",
+   "faV": "طاهِره شاعِر و دانِشمَندی اَز قَزوین بود.",
+   "a": "c85b89a8a346"
+  },
+  {
+   "fa": "پروین اعتصامی در تبریز به دنیا آمد.",
+   "r": "Parvin E'tesāmi dar Tabriz be donyā āmad.",
+   "en": "Parvin E'tesami was born in Tabriz.",
+   "faV": "پَروین اِعتِصامی دَر تَبریز به دُنیا آمَد.",
+   "a": "9fd76b59e7ad"
+  },
+  {
+   "fa": "پروین در شعرهایش از فقیران و یتیمان دفاع می‌کرد.",
+   "r": "Parvin dar she'r-hā-yash az faghirān va yatimān defā' mi-kard.",
+   "en": "In her poems Parvin stood up for the poor and for orphans.",
+   "faV": "پَروین دَر شِعرهایَش اَز فَقیران و یَتیمان دِفاع می‌کَرد.",
+   "a": "e4b3ddc76312"
+  },
+  {
+   "fa": "رمان سووشون از سیمین دانشور است.",
+   "r": "romān-e Suvashun az Simin Dāneshvar ast.",
+   "en": "The novel Savushun is by Simin Daneshvar.",
+   "faV": "رُمانِ سووَشون اَز سیمین دانِشوَر اَست.",
+   "a": "cdb0fe27b195"
+  },
+  {
+   "fa": "داستان سووشون در شیراز می‌گذرد.",
+   "r": "dāstān-e Suvashun dar Shirāz mi-gozarad.",
+   "en": "The story of Savushun takes place in Shiraz.",
+   "faV": "داستانِ سووَشون دَر شیراز می‌گُذَرَد.",
+   "a": "697176e2f6b2"
+  },
+  {
+   "fa": "مریم میرزاخانی ریاضی‌دان بزرگی بود.",
+   "r": "Maryam Mirzākhāni riyāzi-dān-e bozorg-i bud.",
+   "en": "Maryam Mirzakhani was a great mathematician.",
+   "faV": "مَریَم میرزاخانی ریاضی‌دانِ بُزُرگی بود.",
+   "a": "898104f16f3b"
+  },
+  {
+   "fa": "او در سال ۲۰۱۴ مدال فیلدز را گرفت.",
+   "r": "u dar sāl-e do-hezār-o-chahārdah medāl-e Fildz rā gereft.",
+   "en": "In 2014 she won the Fields Medal.",
+   "faV": "او دَر سالِ ۲۰۱۴ مِدالِ فیلدز را گِرِفت.",
+   "a": "f8f022def4a7"
+  },
+  {
+   "fa": "او نخستین زنی بود که این جایزه را برد.",
+   "r": "u nokhostin zan-i bud ke in jāyeze rā bord.",
+   "en": "She was the first woman to win this prize.",
+   "faV": "او نُخُستین زَنی بود که این جایِزه را بُرد.",
+   "a": "3685d2763c40"
+  },
+  {
+   "fa": "انوشه انصاری در سال ۲۰۰۶ به ایستگاه فضایی بین‌المللی رفت.",
+   "r": "Anushe Ansāri dar sāl-e do-hezār-o-shesh be istgāh-e fazāyi-ye beyn-ol-melali raft.",
+   "en": "In 2006 Anousheh Ansari went to the International Space Station.",
+   "faV": "اَنوشه اَنصاری دَر سالِ ۲۰۰۶ به ایستگاهِ فَضاییِ بَین‌اُلمِلَلی رَفت.",
+   "a": "59ab08f9640c"
+  },
+  {
+   "fa": "زنان ایرانی در علم، هنر و ادبیات نقش بزرگی داشته‌اند.",
+   "r": "zanān-e irāni dar 'elm, honar va adabiyyāt naghsh-e bozorg-i dāshte-and.",
+   "en": "Iranian women have played a great part in science, art and literature.",
+   "faV": "زَنانِ ایرانی دَر عِلم، هُنَر و اَدَبیّات نَقشِ بُزُرگی داشته‌اَند.",
+   "a": "da17929ea491"
+  }
  ],
  "vocab": [
-  {"fa": "زن", "r": "zan", "en": "woman; wife"},
-  {"fa": "ملکه", "r": "maleke", "en": "queen"},
-  {"fa": "دختر", "r": "dokhtar", "en": "daughter; girl"},
-  {"fa": "حکومت کردن", "r": "hokumat kardan", "en": "to rule, to govern"},
-  {"fa": "نویسنده", "r": "nevisande", "en": "writer, author"},
-  {"fa": "رمان", "r": "romān", "en": "novel"},
-  {"fa": "داستان کوتاه", "r": "dāstān-e kutāh", "en": "short story"},
-  {"fa": "ادبیات", "r": "adabiyyāt", "en": "literature"},
-  {"fa": "ریاضی‌دان", "r": "riyāzi-dān", "en": "mathematician"},
-  {"fa": "جایزه", "r": "jāyeze", "en": "prize, award"},
-  {"fa": "مدال", "r": "medāl", "en": "medal"},
-  {"fa": "فضا", "r": "fazā", "en": "space; atmosphere"},
-  {"fa": "فضانورد", "r": "fazānavard", "en": "astronaut"},
-  {"fa": "مهندس", "r": "mohandes", "en": "engineer"},
-  {"fa": "دانشگاه", "r": "dāneshgāh", "en": "university"},
-  {"fa": "استاد", "r": "ostād", "en": "professor; master"},
-  {"fa": "نخستین", "r": "nokhostin", "en": "first"},
-  {"fa": "حجاب", "r": "hejāb", "en": "veil, hijab"}
+  {
+   "fa": "زن",
+   "r": "zan",
+   "en": "woman; wife",
+   "faV": "زَن",
+   "a": "d0cfd0fdfd6d"
+  },
+  {
+   "fa": "ملکه",
+   "r": "maleke",
+   "en": "queen",
+   "faV": "مَلِکه",
+   "a": "fe8f08f7431f"
+  },
+  {
+   "fa": "دختر",
+   "r": "dokhtar",
+   "en": "daughter; girl",
+   "faV": "دُختَر",
+   "a": "ccccac2bf181"
+  },
+  {
+   "fa": "حکومت کردن",
+   "r": "hokumat kardan",
+   "en": "to rule, to govern",
+   "faV": "حُکومَت کَردَن",
+   "a": "ea8c2f8ca2e0"
+  },
+  {
+   "fa": "نویسنده",
+   "r": "nevisande",
+   "en": "writer, author",
+   "faV": "نِویسَنده",
+   "a": "aa236a6e6733"
+  },
+  {
+   "fa": "رمان",
+   "r": "romān",
+   "en": "novel",
+   "faV": "رُمان",
+   "a": "091574436ea9"
+  },
+  {
+   "fa": "داستان کوتاه",
+   "r": "dāstān-e kutāh",
+   "en": "short story",
+   "faV": "داستانِ کوتاه",
+   "a": "60e9d39aa68c"
+  },
+  {
+   "fa": "ادبیات",
+   "r": "adabiyyāt",
+   "en": "literature",
+   "faV": "اَدَبیّات",
+   "a": "7ab509f27375"
+  },
+  {
+   "fa": "ریاضی‌دان",
+   "r": "riyāzi-dān",
+   "en": "mathematician",
+   "faV": "ریاضی‌دان",
+   "a": "b1932f820965"
+  },
+  {
+   "fa": "جایزه",
+   "r": "jāyeze",
+   "en": "prize, award",
+   "faV": "جایِزه",
+   "a": "0bb457cf4883"
+  },
+  {
+   "fa": "مدال",
+   "r": "medāl",
+   "en": "medal",
+   "faV": "مِدال",
+   "a": "d2dd532dcac1"
+  },
+  {
+   "fa": "فضا",
+   "r": "fazā",
+   "en": "space; atmosphere",
+   "faV": "فَضا",
+   "a": "6364e9d91ba1"
+  },
+  {
+   "fa": "فضانورد",
+   "r": "fazānavard",
+   "en": "astronaut",
+   "faV": "فَضانَوَرد",
+   "a": "2d53651b5df7"
+  },
+  {
+   "fa": "مهندس",
+   "r": "mohandes",
+   "en": "engineer",
+   "faV": "مُهَندِس",
+   "a": "550435801e84"
+  },
+  {
+   "fa": "دانشگاه",
+   "r": "dāneshgāh",
+   "en": "university",
+   "faV": "دانِشگاه",
+   "a": "890634c6c97a"
+  },
+  {
+   "fa": "استاد",
+   "r": "ostād",
+   "en": "professor; master",
+   "faV": "اُستاد",
+   "a": "bc167126bdbf"
+  },
+  {
+   "fa": "نخستین",
+   "r": "nokhostin",
+   "en": "first",
+   "faV": "نُخُستین",
+   "a": "e247bd0ff904"
+  },
+  {
+   "fa": "حجاب",
+   "r": "hejāb",
+   "en": "veil, hijab",
+   "faV": "حِجاب",
+   "a": "66ecaf6055ca"
+  }
  ],
  "facts": [
   "Purandokht ruled the Sasanian empire briefly around 630 AD, and coins were minted with her portrait.",
@@ -77,5 +257,7 @@
   "Maryam Mirzakhani was the first woman and the first Iranian to win the Fields Medal (2014).",
   "Anousheh Ansari flew to the International Space Station in September 2006.",
   "The lawyer Shirin Ebadi won the Nobel Peace Prize in 2003, the first Iranian to receive a Nobel Prize."
- ]
+ ],
+ "titleV": "زَنانِ ایران",
+ "titleA": "0719690f50f0"
 }

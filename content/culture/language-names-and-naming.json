@@ -1,0 +1,148 @@
+{
+ "id": "language-names-and-naming",
+ "topic": "language",
+ "title": "Names and naming",
+ "titleFa": "نام‌ها و نام‌گذاری",
+ "titleR": "nām-hā va nām-gozāri",
+ "image": "rostam",
+ "summary": "Rostam and Sohrab, Mohammad-Reza and Fatemeh, Tehrani and Najjar: Iranian names come from the Shahnameh, from religion and from family history. Where first names and surnames come from, and how to address people politely.",
+ "body": [
+  {
+   "h": "Names from the Book of Kings",
+   "md": "Iranian first names have three great sources: the Shahnameh, religion, and the poetry of nature. Ferdowsi's *Book of Kings* supplies heroes and heroines: [[رستم|Rostam]], [[سهراب|Sohrāb]], [[سیاوش|Siyāvash]], [[بیژن|Bizhan]], [[فریدون|Fereydun]] and [[کاوه|Kāve]] for boys; [[تهمینه|Tahmine]], [[منیژه|Manizhe]] and [[رودابه|Rudābe]] for girls. Ancient kings are popular too – [[کوروش|Kurosh|Cyrus]] and [[داریوش|Dāriush|Darius]] – and so are names with Zoroastrian roots such as [[آناهیتا|Ānāhitā]] and [[بهرام|Bahrām]].",
+   "image": "shahnameh-shah-tahmasp"
+  },
+  {
+   "h": "Religious names and flower names",
+   "md": "The most common names are religious: [[محمد|Mohammad]], [[علی|Ali]], [[حسین|Hoseyn]], [[حسن|Hasan]], [[رضا|Rezā]] and [[مهدی|Mahdi]] for boys; [[فاطمه|Fāteme]], [[زهرا|Zahrā]], [[زینب|Zeynab]] and [[مریم|Maryam]] for girls. They are often combined – [[محمدرضا|Mohammad-Rezā]], [[امیرحسین|Amir-Hoseyn]] – or built with [[غلام|gholām|servant]], as in [[غلامحسین|Gholām-Hoseyn|servant of Hoseyn]], and with Arabic *abd* 'servant', as in [[عبدالله|Abdollāh|servant of God]].\n\nGirls are also named after flowers and the sky: [[نسرین|Nasrin|wild rose]], [[یاسمن|Yāsaman|jasmine]], [[لاله|Lāle|tulip]], [[ستاره|Setāre|star]], [[مهتاب|Mahtāb|moonlight]].",
+   "image": "imam-reza-shrine"
+  },
+  {
+   "h": "Surnames since 1925",
+   "md": "Until the 20th century most Iranians had no family name. People were known as 'Hasan son of Ali', by a title, or by their home town. In 1925 a civil registration law required every family to choose a surname for its [[شناسنامه|shenāsnāme|ID booklet]]. The prime minister, Reza Khan, chose [[پهلوی|Pahlavi]], and before the year was out he was shah.\n\nFamilies chose in a few typical ways. Many took their town: [[تهرانی|Tehrāni]], [[شیرازی|Shirāzi]], [[کرمانی|Kermāni]]. Others took a trade: [[نجار|Najjār|carpenter]], [[آهنگر|Āhangar|blacksmith]], [[زرگر|Zargar|goldsmith]], [[عطار|Attār|apothecary]]. Many added *-i* to an ancestor's name – [[احمدی|Ahmadi]], [[حسینی|Hoseyni]] – or *-zāde* 'born of' and *-pur* 'son of': [[حسن‌زاده|Hasan-zāde]], [[علی‌پور|Ali-pur]]. Others picked an epithet they liked: [[دلاور|Delāvar|brave]], [[شادمان|Shādmān|cheerful]].",
+   "image": "reza-shah"
+  },
+  {
+   "h": "Āghā and khānom",
+   "md": "Titles matter. [[آقا|āghā]] means 'Mr' and 'sir', [[خانم|khānom]] 'Mrs, Ms' and 'madam'. Before a surname they take the ezafe: [[آقای احمدی|āghā-ye Ahmadi|Mr Ahmadi]], [[خانم احمدی|khānom-e Ahmadi|Ms Ahmadi]]. After a first name they sound warm but still respectful: [[علی آقا|Ali āghā]], [[مریم خانم|Maryam khānom]]. Professional titles are used freely: [[دکتر|doktor]] for doctors and PhDs, [[مهندس|mohandes|engineer]] for anyone with a technical degree, [[استاد|ostād|master, professor]] for teachers and artists, and [[حاج آقا|hāj āghā]] for an older man who has made the pilgrimage to Mecca – or simply for a respected elder."
+  },
+  {
+   "h": "Nicknames, and what to call people",
+   "md": "Among family and friends, names shrink and soften. Tehranis turn Mohammad into [[ممد|Mamad]], Fatemeh into [[فاطی|Fāti]] and Maryam into [[مری|Mari]], and almost any name can take [[جان|jān|dear]], in speech *jun*: [[سارا جون|Sārā jun]]. Family words are used for strangers too: a child calls any older man [[عمو|amu|uncle]] and any older woman [[خاله|khāle|aunt]].\n\nAs a learner, say [[شما|shomā|you (polite)]] and use *āghā* or *khānom* with the surname until you are invited to use first names. In a shop or a taxi, a simple [[آقا، ببخشید|āghā, bebakhshid|excuse me, sir]] or [[خانم، ببخشید|khānom, bebakhshid|excuse me, madam]] is perfect.",
+   "image": "tajrish-bazaar"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "اسم شما چیست؟",
+   "r": "esm-e shomā chist?",
+   "en": "What is your name?",
+   "col": "اسمتون چیه؟",
+   "colR": "esm-etun chiye?"
+  },
+  {
+   "fa": "اسم من سهراب است، مثل پسر رستم در شاهنامه.",
+   "r": "esm-e man Sohrāb ast, mesl-e pesar-e Rostam dar Shāhnāme.",
+   "en": "My name is Sohrab, like Rostam's son in the Shahnameh.",
+   "col": "اسمم سهرابه، مثل پسر رستم تو شاهنامه.",
+   "colR": "esm-am Sohrāb-e, mesl-e pesar-e Rostam tu Shāhnāme."
+  },
+  {
+   "fa": "نام خانوادگی شما چیست؟",
+   "r": "nām-e khānevādegi-ye shomā chist?",
+   "en": "What is your surname?",
+   "col": "فامیلیتون چیه؟",
+   "colR": "fāmili-tun chiye?"
+  },
+  {
+   "fa": "پدربزرگم نام خانوادگی‌اش را از شهرش انتخاب کرد.",
+   "r": "pedar-bozorg-am nām-e khānevādegi-ash rā az shahr-ash entekhāb kard.",
+   "en": "My grandfather chose his surname from his home town.",
+   "col": "پدربزرگم فامیلیشو از شهرش انتخاب کرد.",
+   "colR": "pedar-bozorg-am fāmili-sh-o az shahr-esh entekhāb kard."
+  },
+  {
+   "fa": "«زاده» یعنی «فرزند»؛ حسن‌زاده یعنی فرزند حسن.",
+   "r": "«zāde» ya'ni «farzand»; Hasan-zāde ya'ni farzand-e Hasan.",
+   "en": "Zāde means 'child'; Hasanzadeh means 'child of Hasan'."
+  },
+  {
+   "fa": "آقای احمدی، خوش آمدید.",
+   "r": "āghā-ye Ahmadi, khosh āmadid.",
+   "en": "Welcome, Mr Ahmadi.",
+   "col": "آقای احمدی، خوش اومدین.",
+   "colR": "āghā-ye Ahmadi, khosh umadin."
+  },
+  {
+   "fa": "مریم خانم، حالتان چطور است؟",
+   "r": "Maryam khānom, hāl-etān chetowr ast?",
+   "en": "How are you, Maryam khanom?",
+   "col": "مریم خانم، حالتون چطوره؟",
+   "colR": "Maryam khānom, hāl-etun chetor-e?"
+  },
+  {
+   "fa": "دوستانش به او «ممد» می‌گویند.",
+   "r": "dustān-ash be u «Mamad» mi-guyand.",
+   "en": "His friends call him Mamad.",
+   "col": "دوستاش بهش می‌گن «ممد».",
+   "colR": "dust-ā-sh behesh mi-gan «Mamad»."
+  },
+  {
+   "fa": "لطفاً مرا به اسم کوچکم صدا بزنید.",
+   "r": "lotfan ma-rā be esm-e kuchak-am sedā be-zanid.",
+   "en": "Please call me by my first name.",
+   "col": "لطفاً منو با اسم کوچیکم صدا کنین.",
+   "colR": "lotfan man-o bā esm-e kuchik-am sedā konin."
+  },
+  {
+   "fa": "بچه‌ها به همه‌ی مردهای بزرگ‌تر «عمو» می‌گویند.",
+   "r": "bacche-hā be hame-ye mard-hā-ye bozorg-tar «amu» mi-guyand.",
+   "en": "Children call all older men 'uncle'.",
+   "col": "بچه‌ها به همه‌ی مردای بزرگ‌تر می‌گن «عمو».",
+   "colR": "bacche-hā be hame-ye mard-ā-ye bozorg-tar mi-gan «amu»."
+  },
+  {
+   "fa": "اسم «کوروش» از تاریخ ایران باستان می‌آید.",
+   "r": "esm-e «Kurosh» az tārikh-e Irān-e bāstān mi-āyad.",
+   "en": "The name Kourosh comes from the history of ancient Iran.",
+   "col": "اسم «کوروش» از تاریخ ایران باستان میاد.",
+   "colR": "esm-e «Kurosh» az tārikh-e Irān-e bāstān mi-yād."
+  },
+  {
+   "fa": "ببخشید آقا، این اتوبوس به میدان آزادی می‌رود؟",
+   "r": "bebakhshid āghā, in otobus be meydān-e Āzādi mi-ravad?",
+   "en": "Excuse me, sir, does this bus go to Azadi Square?",
+   "col": "ببخشید آقا، این اتوبوس می‌ره میدون آزادی؟",
+   "colR": "bebakhshid āghā, in otobus mi-re meydun-e Āzādi?"
+  }
+ ],
+ "vocab": [
+  {"fa": "اسم", "r": "esm", "en": "name"},
+  {"fa": "نام", "r": "nām", "en": "name (formal)"},
+  {"fa": "اسم کوچک", "r": "esm-e kuchak", "en": "first name"},
+  {"fa": "نام خانوادگی", "r": "nām-e khānevādegi", "en": "surname, family name"},
+  {"fa": "فامیلی", "r": "fāmili", "en": "surname (everyday)"},
+  {"fa": "شناسنامه", "r": "shenāsnāme", "en": "birth certificate, ID booklet"},
+  {"fa": "لقب", "r": "laghab", "en": "title, epithet, nickname"},
+  {"fa": "آقا", "r": "āghā", "en": "Mr; sir; gentleman"},
+  {"fa": "خانم", "r": "khānom", "en": "Mrs, Ms; madam; lady"},
+  {"fa": "جان", "r": "jān", "en": "dear (after a name); life, soul"},
+  {"fa": "عمو", "r": "amu", "en": "uncle (father's brother)"},
+  {"fa": "خاله", "r": "khāle", "en": "aunt (mother's sister)"},
+  {"fa": "استاد", "r": "ostād", "en": "master; professor"},
+  {"fa": "مهندس", "r": "mohandes", "en": "engineer"},
+  {"fa": "فرزند", "r": "farzand", "en": "child (son or daughter)"},
+  {"fa": "صدا زدن", "r": "sedā zadan", "en": "to call (someone)"},
+  {"fa": "انتخاب کردن", "r": "entekhāb kardan", "en": "to choose"},
+  {"fa": "نام‌گذاری", "r": "nām-gozāri", "en": "naming"}
+ ],
+ "facts": [
+  "A law of 1925 made family names compulsory in Iran; Reza Khan, then prime minister, chose the surname Pahlavi.",
+  "Iranian women keep their own surname when they marry.",
+  "The surname ending -pur, 'son', goes back to Old Persian puça; -zāde means 'born of'.",
+  "Descendants of the Prophet are called seyyed, and many names and surnames show it, such as Mir-Hoseyni.",
+  "Doctors are addressed as āghā-ye doktor or khānom-e doktor, often without a surname at all.",
+  "Siyavash, the innocent prince of the Shahnameh who rode through fire to prove his innocence, is a popular boy's name.",
+  "Iran's civil registry keeps lists of approved first names and can refuse a name it considers unsuitable."
+ ]
+}

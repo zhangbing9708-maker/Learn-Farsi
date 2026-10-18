@@ -14,22 +14,30 @@
     {
      "fa": "روزی روزگاری، سوسک کوچکی بود که همه به او «خاله سوسکه» می‌گفتند.",
      "r": "ruz-i ruzgāri, susk-e kuchak-i bud ke hame be u «khāle suske» mi-goftand.",
-     "en": "Once upon a time there was a little beetle whom everyone called \"Auntie Beetle\"."
+     "en": "Once upon a time there was a little beetle whom everyone called \"Auntie Beetle\".",
+     "faV": "روزی روزگاری، سوسکِ کوچَکی بود که هَمه به او «خاله سوسکه» می‌گُفتَند.",
+     "a": "19bc36ce30c8"
     },
     {
      "fa": "یک روز پدرش گفت: «تو دیگر بزرگ شده‌ای. باید شوهر کنی.»",
      "r": "yek ruz pedar-ash goft: «to digar bozorg shode-i. bāyad showhar koni.»",
-     "en": "One day her father said: \"You're grown up now. You must get married.\""
+     "en": "One day her father said: \"You're grown up now. You must get married.\"",
+     "faV": "یِک روز پِدَرَش گُفت: «تو دیگَر بُزُرگ شُده‌ای. بایَد شَوهَر کُنی.»",
+     "a": "898882c15799"
     },
     {
      "fa": "خاله سوسکه از پوست پیاز یک چادر درست کرد و از پوست بادمجان کفش.",
      "r": "khāle suske az pust-e piyāz yek chādor dorost kard o az pust-e bādemjān kafsh.",
-     "en": "Auntie Beetle made a chador out of onion skin and a pair of shoes out of aubergine skin."
+     "en": "Auntie Beetle made a chador out of onion skin and a pair of shoes out of aubergine skin.",
+     "faV": "خاله سوسکه اَز پوستِ پیاز یِک چادُر دُرُست کَرد و اَز پوستِ بادِمجان کَفش.",
+     "a": "785e495290cb"
     },
     {
      "fa": "بعد کفش‌ها را پوشید و به طرف همدان راه افتاد.",
      "r": "ba'd kafsh-hā rā pushid o be taraf-e Hamedān rāh oftād.",
-     "en": "Then she put on the shoes and set off for Hamadan."
+     "en": "Then she put on the shoes and set off for Hamadan.",
+     "faV": "بَعد کَفش‌ها را پوشید و به طَرَفِ هَمِدان راه اُفتاد.",
+     "a": "0274af0874e9"
     }
    ]
   },
@@ -38,42 +46,58 @@
     {
      "fa": "در راه، یک قصاب او را دید و پرسید: «خاله سوسکه، کجا می‌روی؟»",
      "r": "dar rāh, yek ghassāb u rā did o porsid: «khāle suske, kojā mi-ravi?»",
-     "en": "On the way a butcher saw her and asked: \"Auntie Beetle, where are you going?\""
+     "en": "On the way a butcher saw her and asked: \"Auntie Beetle, where are you going?\"",
+     "faV": "دَر راه، یِک قَصّاب او را دید و پُرسید: «خاله سوسکه، کُجا می‌رَوی؟»",
+     "a": "3f56ce6050c8"
     },
     {
      "fa": "خاله سوسکه گفت: «به همدان می‌روم تا شوهر کنم.»",
      "r": "khāle suske goft: «be Hamedān mi-ravam tā showhar konam.»",
-     "en": "Auntie Beetle said: \"I'm going to Hamadan to find a husband.\""
+     "en": "Auntie Beetle said: \"I'm going to Hamadan to find a husband.\"",
+     "faV": "خاله سوسکه گُفت: «به هَمِدان می‌رَوَم تا شَوهَر کُنَم.»",
+     "a": "1d5be3052948"
     },
     {
      "fa": "قصاب گفت: «زن من می‌شوی؟»",
      "r": "ghassāb goft: «zan-e man mi-shavi?»",
-     "en": "The butcher said: \"Will you be my wife?\""
+     "en": "The butcher said: \"Will you be my wife?\"",
+     "faV": "قَصّاب گُفت: «زَنِ مَن می‌شَوی؟»",
+     "a": "75933928aa1f"
     },
     {
      "fa": "خاله سوسکه پرسید: «اگر روزی با هم دعوا کنیم، مرا با چه می‌زنی؟»",
      "r": "khāle suske porsid: «agar ruz-i bā ham da'vā konim, ma-rā bā che mi-zani?»",
-     "en": "Auntie Beetle asked: \"If one day we quarrel, what will you hit me with?\""
+     "en": "Auntie Beetle asked: \"If one day we quarrel, what will you hit me with?\"",
+     "faV": "خاله سوسکه پُرسید: «اَگَر روزی با هَم دَعوا کُنیم، مَرا با چه می‌زَنی؟»",
+     "a": "b77acfcf112c"
     },
     {
      "fa": "قصاب گفت: «با کارد بزرگم!»",
      "r": "ghassāb goft: «bā kārd-e bozorg-am!»",
-     "en": "The butcher said: \"With my big knife!\""
+     "en": "The butcher said: \"With my big knife!\"",
+     "faV": "قَصّاب گُفت: «با کاردِ بُزُرگَم!»",
+     "a": "dbd3acd259bf"
     },
     {
      "fa": "خاله سوسکه ترسید و گفت: «نه، نه!» و راهش را ادامه داد.",
      "r": "khāle suske tarsid o goft: «na, na!» o rāh-ash rā edāme dād.",
-     "en": "Auntie Beetle was frightened, said \"No, no!\" and went on her way."
+     "en": "Auntie Beetle was frightened, said \"No, no!\" and went on her way.",
+     "faV": "خاله سوسکه تَرسید و گُفت: «نه، نه!» و راهَش را اِدامه داد.",
+     "a": "90620a504851"
     },
     {
      "fa": "بعد یک نانوا و یک بقال هم از او خواستگاری کردند.",
      "r": "ba'd yek nānvā o yek bagghāl ham az u khāstegāri kardand.",
-     "en": "Then a baker and a grocer also asked her to marry them."
+     "en": "Then a baker and a grocer also asked her to marry them.",
+     "faV": "بَعد یِک نانوا و یِک بَقّال هَم اَز او خواستِگاری کَردَند.",
+     "a": "e15da0d3a996"
     },
     {
      "fa": "نانوا گفت: «با پارو!» و بقال گفت: «با سنگ ترازو!»",
      "r": "nānvā goft: «bā pāru!» o bagghāl goft: «bā sang-e tarāzu!»",
-     "en": "The baker said: \"With my oven paddle!\" and the grocer said: \"With the weights of my scales!\""
+     "en": "The baker said: \"With my oven paddle!\" and the grocer said: \"With the weights of my scales!\"",
+     "faV": "نانوا گُفت: «با پارو!» و بَقّال گُفت: «با سَنگِ تَرازو!»",
+     "a": "73bca38516d3"
     }
    ]
   },
@@ -82,27 +106,37 @@
     {
      "fa": "نزدیک همدان، آقا موشه را دید که کنار جوی آب نشسته بود.",
      "r": "nazdik-e Hamedān, āghā mushe rā did ke kenār-e ju-ye āb neshaste bud.",
-     "en": "Near Hamadan she saw Mr Mouse, who was sitting beside a stream."
+     "en": "Near Hamadan she saw Mr Mouse, who was sitting beside a stream.",
+     "faV": "نَزدیکِ هَمِدان، آقا موشه را دید که کِنارِ جویِ آب نِشَسته بود.",
+     "a": "4f6828386940"
     },
     {
      "fa": "آقا موشه با ادب پرسید: «خانم سوسکه، با من ازدواج می‌کنید؟»",
      "r": "āghā mushe bā adab porsid: «khānom suske, bā man ezdevāj mi-konid?»",
-     "en": "Mr Mouse asked politely: \"Miss Beetle, will you marry me?\""
+     "en": "Mr Mouse asked politely: \"Miss Beetle, will you marry me?\"",
+     "faV": "آقا موشه با اَدَب پُرسید: «خانُم سوسکه، با مَن اِزدِواج می‌کُنید؟»",
+     "a": "b0686394943b"
     },
     {
      "fa": "خاله سوسکه پرسید: «اگر با هم دعوا کنیم، مرا با چه می‌زنی؟»",
      "r": "khāle suske porsid: «agar bā ham da'vā konim, ma-rā bā che mi-zani?»",
-     "en": "Auntie Beetle asked her question again: \"If we quarrel, what will you hit me with?\""
+     "en": "Auntie Beetle asked her question again: \"If we quarrel, what will you hit me with?\"",
+     "faV": "خاله سوسکه پُرسید: «اَگَر با هَم دَعوا کُنیم، مَرا با چه می‌زَنی؟»",
+     "a": "6fe7850518cf"
     },
     {
      "fa": "آقا موشه خندید و گفت: «با دم نرم و نازکم!»",
      "r": "āghā mushe khandid o goft: «bā dom-e narm o nāzok-am!»",
-     "en": "Mr Mouse laughed and said: \"With my soft, thin tail!\""
+     "en": "Mr Mouse laughed and said: \"With my soft, thin tail!\"",
+     "faV": "آقا موشه خَندید و گُفت: «با دُمِ نَرم و نازُکَم!»",
+     "a": "07a9a5c58b5b"
     },
     {
      "fa": "خاله سوسکه خوشحال شد و گفت: «تو همان شوهری هستی که من می‌خواستم!»",
      "r": "khāle suske khoshhāl shod o goft: «to hamān showhar-i hasti ke man mi-khāstam!»",
-     "en": "Auntie Beetle was delighted and said: \"You are just the husband I wanted!\""
+     "en": "Auntie Beetle was delighted and said: \"You are just the husband I wanted!\"",
+     "faV": "خاله سوسکه خوشحال شُد و گُفت: «تو هَمان شَوهَری هَستی که مَن می‌خواستَم!»",
+     "a": "2ef69e38a4a5"
     }
    ]
   },
@@ -111,65 +145,189 @@
     {
      "fa": "آن‌ها در همدان عروسی گرفتند و همه‌ی حیوانات به جشن آمدند.",
      "r": "ān-hā dar Hamedān arusi gereftand o hame-ye heyvānāt be jashn āmadand.",
-     "en": "They had their wedding in Hamadan, and all the animals came to the party."
+     "en": "They had their wedding in Hamadan, and all the animals came to the party.",
+     "faV": "آن‌ها دَر هَمِدان عَروسی گِرِفتَند و هَمه‌یِ حَیوانات به جَشن آمَدَند.",
+     "a": "fbfdc75af000"
     },
     {
      "fa": "آقا موشه هر روز برای خاله سوسکه نان تازه می‌آورد و آن‌ها هیچ‌وقت دعوا نکردند.",
      "r": "āghā mushe har ruz barā-ye khāle suske nān-e tāze mi-āvard o ān-hā hich-vaght da'vā na-kardand.",
-     "en": "Every day Mr Mouse brought Auntie Beetle fresh bread, and they never once quarrelled."
+     "en": "Every day Mr Mouse brought Auntie Beetle fresh bread, and they never once quarrelled.",
+     "faV": "آقا موشه هَر روز بَرایِ خاله سوسکه نانِ تازه می‌آوَرد و آن‌ها هیچ‌وَقت دَعوا نَکَردَند.",
+     "a": "e479f5ffc182"
     },
     {
      "fa": "قصه‌ی ما به سر رسید، کلاغه به خانه‌اش نرسید!",
      "r": "ghesse-ye mā be sar resid, kalāghe be khāne-ash na-resid!",
-     "en": "Our story has come to an end, but the crow never got home!"
+     "en": "Our story has come to an end, but the crow never got home!",
+     "faV": "قِصّه‌یِ ما به سَر رِسید، کَلاغه به خانه‌اَش نَرِسید!",
+     "a": "d61cae02aa07"
     }
    ]
   }
  ],
  "vocab": [
-  {"fa": "روزی روزگاری", "r": "ruz-i ruzgāri", "en": "once upon a time"},
-  {"fa": "سوسک", "r": "susk", "en": "beetle; cockroach"},
-  {"fa": "شوهر کردن", "r": "showhar kardan", "en": "to get married (of a woman), take a husband"},
-  {"fa": "پوست", "r": "pust", "en": "skin, peel"},
-  {"fa": "پیاز", "r": "piyāz", "en": "onion"},
-  {"fa": "بادمجان", "r": "bādemjān", "en": "aubergine, eggplant"},
-  {"fa": "راه افتادن", "r": "rāh oftādan", "en": "to set off"},
-  {"fa": "قصاب", "r": "ghassāb", "en": "butcher"},
-  {"fa": "دعوا کردن", "r": "da'vā kardan", "en": "to quarrel, fight"},
-  {"fa": "کارد", "r": "kārd", "en": "(large) knife"},
-  {"fa": "نانوا", "r": "nānvā", "en": "baker"},
-  {"fa": "بقال", "r": "bagghāl", "en": "grocer"},
-  {"fa": "ترازو", "r": "tarāzu", "en": "scales"},
-  {"fa": "خواستگاری کردن", "r": "khāstegāri kardan", "en": "to ask for someone's hand in marriage"},
-  {"fa": "دم", "r": "dom", "en": "tail"},
-  {"fa": "عروسی", "r": "arusi", "en": "wedding"}
+  {
+   "fa": "روزی روزگاری",
+   "r": "ruz-i ruzgāri",
+   "en": "once upon a time",
+   "faV": "روزی روزگاری",
+   "a": "f793ca2982ae"
+  },
+  {
+   "fa": "سوسک",
+   "r": "susk",
+   "en": "beetle; cockroach",
+   "faV": "سوسک",
+   "a": "952dec004a18"
+  },
+  {
+   "fa": "شوهر کردن",
+   "r": "showhar kardan",
+   "en": "to get married (of a woman), take a husband",
+   "faV": "شَوهَر کَردَن",
+   "a": "1bf7122e2a3e"
+  },
+  {
+   "fa": "پوست",
+   "r": "pust",
+   "en": "skin, peel",
+   "faV": "پوست",
+   "a": "b948f9b2e3d8"
+  },
+  {
+   "fa": "پیاز",
+   "r": "piyāz",
+   "en": "onion",
+   "faV": "پیاز",
+   "a": "21c0e394a27f"
+  },
+  {
+   "fa": "بادمجان",
+   "r": "bādemjān",
+   "en": "aubergine, eggplant",
+   "faV": "بادِمجان",
+   "a": "b68caa657580"
+  },
+  {
+   "fa": "راه افتادن",
+   "r": "rāh oftādan",
+   "en": "to set off",
+   "faV": "راه اُفتادَن",
+   "a": "fe706587363f"
+  },
+  {
+   "fa": "قصاب",
+   "r": "ghassāb",
+   "en": "butcher",
+   "faV": "قَصّاب",
+   "a": "4d2db8091be8"
+  },
+  {
+   "fa": "دعوا کردن",
+   "r": "da'vā kardan",
+   "en": "to quarrel, fight",
+   "faV": "دَعوا کَردَن",
+   "a": "c8bd1e33758a"
+  },
+  {
+   "fa": "کارد",
+   "r": "kārd",
+   "en": "(large) knife",
+   "faV": "کارد",
+   "a": "7968eb5c1bc9"
+  },
+  {
+   "fa": "نانوا",
+   "r": "nānvā",
+   "en": "baker",
+   "faV": "نانوا",
+   "a": "005f0f32a09b"
+  },
+  {
+   "fa": "بقال",
+   "r": "bagghāl",
+   "en": "grocer",
+   "faV": "بَقّال",
+   "a": "7836bba0377e"
+  },
+  {
+   "fa": "ترازو",
+   "r": "tarāzu",
+   "en": "scales",
+   "faV": "تَرازو",
+   "a": "d1dbcf072516"
+  },
+  {
+   "fa": "خواستگاری کردن",
+   "r": "khāstegāri kardan",
+   "en": "to ask for someone's hand in marriage",
+   "faV": "خواستِگاری کَردَن",
+   "a": "1d90331020c7"
+  },
+  {
+   "fa": "دم",
+   "r": "dom",
+   "en": "tail",
+   "faV": "دُم",
+   "a": "a4d5b0e39276"
+  },
+  {
+   "fa": "عروسی",
+   "r": "arusi",
+   "en": "wedding",
+   "faV": "عَروسی",
+   "a": "03fa50bc2913"
+  }
  ],
  "questions": [
   {
    "q": "What did Auntie Beetle make her chador from?",
-   "options": ["aubergine skin", "onion skin", "a piece of bread"],
+   "options": [
+    "aubergine skin",
+    "onion skin",
+    "a piece of bread"
+   ],
    "answer": 1
   },
   {
    "q": "Where was she going, and why?",
-   "options": ["to Hamadan, to find a husband", "to Tehran, to see her aunt", "to the bazaar, to buy shoes"],
+   "options": [
+    "to Hamadan, to find a husband",
+    "to Tehran, to see her aunt",
+    "to the bazaar, to buy shoes"
+   ],
    "answer": 0
   },
   {
    "q": "What question did she ask every suitor?",
-   "options": ["how much money he had", "what he would hit her with if they quarrelled", "where his house was"],
+   "options": [
+    "how much money he had",
+    "what he would hit her with if they quarrelled",
+    "where his house was"
+   ],
    "answer": 1
   },
   {
    "q": "Why did she choose Mr Mouse?",
-   "options": ["he was the richest", "he was a baker", "his answer was gentle: his soft, thin tail"],
+   "options": [
+    "he was the richest",
+    "he was a baker",
+    "his answer was gentle: his soft, thin tail"
+   ],
    "answer": 2
   },
   {
    "q": "How does the story end?",
-   "options": ["they marry and never quarrel", "she goes back to her father", "Mr Mouse runs away"],
+   "options": [
+    "they marry and never quarrel",
+    "she goes back to her father",
+    "Mr Mouse runs away"
+   ],
    "answer": 0
   }
  ],
- "after": "Khale Suske is told in many versions all over Iran; in the longest ones she later falls into a pool and Mr Mouse rescues her with a ladder. The names end in a little -e (سوسکه, موشه, کلاغه): in spoken Persian this ending makes a noun 'the one we know', and in tales it sounds friendly, like 'Mousey'. Iranian stories traditionally open with یکی بود یکی نبود or روزی روزگاری and close with the rhyme قصه‌ی ما به سر رسید، کلاغه به خانه‌اش نرسید 'our story came to an end, the crow did not reach home'. Notice the subjunctive after تا 'in order to' (تا شوهر کنم) and after اگر (اگر دعوا کنیم), while the main clause stays in the present (می‌زنی). شوهر کردن 'to take a husband' is said of a woman; for a man it is زن گرفتن 'to take a wife', and for both, ازدواج کردن."
+ "after": "Khale Suske is told in many versions all over Iran; in the longest ones she later falls into a pool and Mr Mouse rescues her with a ladder. The names end in a little -e (سوسکه, موشه, کلاغه): in spoken Persian this ending makes a noun 'the one we know', and in tales it sounds friendly, like 'Mousey'. Iranian stories traditionally open with یکی بود یکی نبود or روزی روزگاری and close with the rhyme قصه‌ی ما به سر رسید، کلاغه به خانه‌اش نرسید 'our story came to an end, the crow did not reach home'. Notice the subjunctive after تا 'in order to' (تا شوهر کنم) and after اگر (اگر دعوا کنیم), while the main clause stays in the present (می‌زنی). شوهر کردن 'to take a husband' is said of a woman; for a man it is زن گرفتن 'to take a wife', and for both, ازدواج کردن.",
+ "titleV": "خاله سوسکه",
+ "titleA": "5df1c325b931"
 }

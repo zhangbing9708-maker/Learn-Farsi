@@ -1,0 +1,122 @@
+{
+ "id": "a1-friday-in-the-park",
+ "level": "A1",
+ "kind": "everyday life",
+ "title": "Friday in the park",
+ "titleFa": "جمعه در پارک",
+ "titleR": "jom'e dar pārk",
+ "image": "sizdah-bedar",
+ "intro": "On Fridays, the Iranian weekend, Tehran's parks fill up with families sitting on rugs under the trees. Reza, Mina and Sara go for a picnic too – but someone has forgotten the most important thing. The story practises the plural present (می‌روند، بازی می‌کنند), food and family words and the polite بفرمایید, and shows how a picnic in Iran can turn into a party.",
+ "source": "An original story for this course.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "امروز جمعه است و هوا خوب است.",
+     "r": "emruz jom'e ast o havā khub ast.",
+     "en": "Today is Friday and the weather is good."
+    },
+    {
+     "fa": "رضا، مینا و سارا به پارک می‌روند.",
+     "r": "Rezā, Minā o Sārā be pārk mi-ravand.",
+     "en": "Reza, Mina and Sara go to the park."
+    },
+    {
+     "fa": "آن‌ها زیر یک درخت بزرگ می‌نشینند.",
+     "r": "ān-hā zir-e yek derakht-e bozorg mi-neshinand.",
+     "en": "They sit under a big tree."
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "مینا کوکو و نان می‌آورد.",
+     "r": "Minā kuku o nān mi-āvarad.",
+     "en": "Mina brings kuku and bread."
+    },
+    {
+     "fa": "سارا و رضا فوتبال بازی می‌کنند.",
+     "r": "Sārā o Rezā futbāl bāzi mi-konand.",
+     "en": "Sara and Reza play football."
+    },
+    {
+     "fa": "بعد همه تشنه هستند.",
+     "r": "ba'd hame teshne hastand.",
+     "en": "Then everyone is thirsty."
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "مینا می‌پرسد: «رضا، فلاسک چای کجاست؟»",
+     "r": "Minā mi-porsad: «Rezā, felāsk-e chāy kojā-st?»",
+     "en": "Mina asks: \"Reza, where is the tea flask?\""
+    },
+    {
+     "fa": "رضا می‌گوید: «ای وای! فلاسک در خانه است!»",
+     "r": "Rezā mi-guyad: «ey vāy! felāsk dar khāne ast!»",
+     "en": "Reza says: \"Oh no! The flask is at home!\""
+    },
+    {
+     "fa": "کنار آن‌ها یک خانواده‌ی دیگر هست.",
+     "r": "kenār-e ān-hā yek khānevāde-ye digar hast.",
+     "en": "Next to them there is another family."
+    },
+    {
+     "fa": "مادر آن خانواده با یک سینی چای می‌آید.",
+     "r": "mādar-e ān khānevāde bā yek sini chāy mi-āyad.",
+     "en": "The mother of that family comes over with a tray of tea."
+    },
+    {
+     "fa": "او می‌گوید: «بفرمایید، چای تازه!»",
+     "r": "u mi-guyad: «befarmāyid, chāy-e tāze!»",
+     "en": "She says: \"Please, have some fresh tea!\""
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "مینا هم به آن‌ها کوکو می‌دهد.",
+     "r": "Minā ham be ān-hā kuku mi-dahad.",
+     "en": "Mina gives them some kuku too."
+    },
+    {
+     "fa": "حالا دو خانواده با هم غذا می‌خورند.",
+     "r": "hālā do khānevāde bā ham ghazā mi-khorand.",
+     "en": "Now the two families eat together."
+    },
+    {
+     "fa": "سارا هم یک دوست جدید دارد.",
+     "r": "Sārā ham yek dust-e jadid dārad.",
+     "en": "And Sara has a new friend too."
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {"fa": "جمعه", "r": "jom'e", "en": "Friday"},
+  {"fa": "پارک", "r": "pārk", "en": "park"},
+  {"fa": "درخت", "r": "derakht", "en": "tree"},
+  {"fa": "نشستن", "r": "neshastan", "en": "to sit (present: می‌نشیند)"},
+  {"fa": "کوکو", "r": "kuku", "en": "kuku (a thick herb or potato omelette)"},
+  {"fa": "آوردن", "r": "āvardan", "en": "to bring (present: می‌آورد)"},
+  {"fa": "فوتبال", "r": "futbāl", "en": "football"},
+  {"fa": "بازی کردن", "r": "bāzi kardan", "en": "to play"},
+  {"fa": "تشنه", "r": "teshne", "en": "thirsty"},
+  {"fa": "فلاسک", "r": "felāsk", "en": "flask, Thermos"},
+  {"fa": "ای وای!", "r": "ey vāy!", "en": "oh no!"},
+  {"fa": "دیگر", "r": "digar", "en": "other, another"},
+  {"fa": "سینی", "r": "sini", "en": "tray"},
+  {"fa": "بفرمایید", "r": "befarmāyid", "en": "please (have some, come in, sit down)"}
+ ],
+ "questions": [
+  {"q": "Where does the family sit?", "options": ["under a big tree", "next to a river", "in a café"], "answer": 0},
+  {"q": "What does Mina bring?", "options": ["rice and kabab", "kuku and bread", "fruit"], "answer": 1},
+  {"q": "What has Reza forgotten?", "options": ["the ball", "the bread", "the tea flask"], "answer": 2},
+  {"q": "What happens at the end?", "options": ["they go home", "the two families eat together", "it starts to rain"], "answer": 1}
+ ],
+ "after": "Friday is the weekly holiday in Iran, and a picnic in the park – on a rug, with a flask of tea, bread and کوکو (a thick omelette full of herbs or potato) – is one of the great Iranian pleasures. Offering food to the people sitting next to you is perfectly normal, and so is giving something back: that is why Mina offers her kuku. بفرمایید is the all-purpose polite word for 'please, help yourself / come in / sit down / here you are'. ای وای! 'oh no!' is what you say when you realise you have forgotten something. And notice how دیگر after a noun with the ezafe means 'other': یک خانواده‌ی دیگر 'another family'."
+}

@@ -36,37 +36,211 @@
   }
  ],
  "sentences": [
-  {"fa": "نیما یوشیج را «پدر شعر نو» می‌نامند.", "r": "Nimā Yushij rā «pedar-e she'r-e now» mi-nāmand.", "en": "Nima Yushij is called 'the father of new poetry'."},
-  {"fa": "نیما در روستای یوش در مازندران به دنیا آمد.", "r": "Nimā dar rustā-ye Yush dar Māzandarān be donyā āmad.", "en": "Nima was born in the village of Yush in Mazandaran."},
-  {"fa": "در شعر نو طول مصراع‌ها یکسان نیست.", "r": "dar she'r-e now tul-e mesrā'-hā yeksān nist.", "en": "In new poetry the lines are not all the same length."},
-  {"fa": "احمد شاملو شعر سپید را رواج داد.", "r": "Ahmad Shāmlu she'r-e sepid rā ravāj dād.", "en": "Ahmad Shamlu made free verse popular."},
-  {"fa": "شاملو سال‌ها روی «کتاب کوچه» کار کرد.", "r": "Shāmlu sāl-hā ru-ye «Ketāb-e Kuche» kār kard.", "en": "Shamlu worked for years on 'The Book of the Alley'."},
-  {"fa": "تخلص مهدی اخوان ثالث «امید» بود.", "r": "takhallos-e Mahdi Akhavān-e Sāles «Omid» bud.", "en": "Mehdi Akhavan-Sales's pen-name was 'Omid' (hope)."},
-  {"fa": "اخوان ثالث در توس کنار آرامگاه فردوسی به خاک سپرده شد.", "r": "Akhavān-e Sāles dar Tus kenār-e ārāmgāh-e Ferdowsi be khāk seporde shod.", "en": "Akhavan-Sales was buried in Tus, next to Ferdowsi's tomb."},
-  {"fa": "فروغ فرخزاد از زندگی و احساسات یک زن نوشت.", "r": "Forugh Farrokhzād az zendegi va ehsāsāt-e yek zan nevesht.", "en": "Forough Farrokhzad wrote about a woman's life and feelings."},
-  {"fa": "فروغ فیلم کوتاه «خانه سیاه است» را ساخت.", "r": "Forugh film-e kutāh-e «Khāne siyāh ast» rā sākht.", "en": "Forough made the short film 'The House Is Black'."},
-  {"fa": "سهراب سپهری هم شاعر بود و هم نقاش.", "r": "Sohrāb Sepehri ham shā'er bud va ham naghghāsh.", "en": "Sohrab Sepehri was both a poet and a painter."},
-  {"fa": "شعرهای سپهری درباره‌ی طبیعت و صلح است.", "r": "she'r-hā-ye Sepehri darbāre-ye tabi'at va solh ast.", "en": "Sepehri's poems are about nature and peace."},
-  {"fa": "سیمین بهبهانی غزل فارسی را نو کرد.", "r": "Simin Behbahāni ghazal-e fārsi rā now kard.", "en": "Simin Behbahani renewed the Persian ghazal."}
+  {
+   "fa": "نیما یوشیج را «پدر شعر نو» می‌نامند.",
+   "r": "Nimā Yushij rā «pedar-e she'r-e now» mi-nāmand.",
+   "en": "Nima Yushij is called 'the father of new poetry'.",
+   "faV": "نیما یوشیج را «پِدَرِ شِعرِ نَو» می‌نامَند.",
+   "a": "3770228b0a39"
+  },
+  {
+   "fa": "نیما در روستای یوش در مازندران به دنیا آمد.",
+   "r": "Nimā dar rustā-ye Yush dar Māzandarān be donyā āmad.",
+   "en": "Nima was born in the village of Yush in Mazandaran.",
+   "faV": "نیما دَر روستایِ یوش دَر مازَندَران به دُنیا آمَد.",
+   "a": "fd05129550df"
+  },
+  {
+   "fa": "در شعر نو طول مصراع‌ها یکسان نیست.",
+   "r": "dar she'r-e now tul-e mesrā'-hā yeksān nist.",
+   "en": "In new poetry the lines are not all the same length.",
+   "faV": "دَر شِعرِ نَو طولِ مِصراع‌ها یِکسان نیست.",
+   "a": "43ff922ebf48"
+  },
+  {
+   "fa": "احمد شاملو شعر سپید را رواج داد.",
+   "r": "Ahmad Shāmlu she'r-e sepid rā ravāj dād.",
+   "en": "Ahmad Shamlu made free verse popular.",
+   "faV": "اَحمَد شاملو شِعرِ سِپید را رَواج داد.",
+   "a": "eff3bbb65fe0"
+  },
+  {
+   "fa": "شاملو سال‌ها روی «کتاب کوچه» کار کرد.",
+   "r": "Shāmlu sāl-hā ru-ye «Ketāb-e Kuche» kār kard.",
+   "en": "Shamlu worked for years on 'The Book of the Alley'.",
+   "faV": "شاملو سال‌ها رویِ «کِتابِ کوچه» کار کَرد.",
+   "a": "bee8b4f7e2f7"
+  },
+  {
+   "fa": "تخلص مهدی اخوان ثالث «امید» بود.",
+   "r": "takhallos-e Mahdi Akhavān-e Sāles «Omid» bud.",
+   "en": "Mehdi Akhavan-Sales's pen-name was 'Omid' (hope).",
+   "faV": "تَخَلُّصِ مَهدی اَخَوانِ ثالِث «اُمید» بود.",
+   "a": "6d1e73ee74cf"
+  },
+  {
+   "fa": "اخوان ثالث در توس کنار آرامگاه فردوسی به خاک سپرده شد.",
+   "r": "Akhavān-e Sāles dar Tus kenār-e ārāmgāh-e Ferdowsi be khāk seporde shod.",
+   "en": "Akhavan-Sales was buried in Tus, next to Ferdowsi's tomb.",
+   "faV": "اَخَوانِ ثالِث دَر توس کِنارِ آرامگاهِ فِردَوسی به خاک سِپُرده شُد.",
+   "a": "f638ea8f921a"
+  },
+  {
+   "fa": "فروغ فرخزاد از زندگی و احساسات یک زن نوشت.",
+   "r": "Forugh Farrokhzād az zendegi va ehsāsāt-e yek zan nevesht.",
+   "en": "Forough Farrokhzad wrote about a woman's life and feelings.",
+   "faV": "فُروغ فَرُّخزاد اَز زِندِگی و اِحساساتِ یِک زَن نِوِشت.",
+   "a": "be35e49f4f37"
+  },
+  {
+   "fa": "فروغ فیلم کوتاه «خانه سیاه است» را ساخت.",
+   "r": "Forugh film-e kutāh-e «Khāne siyāh ast» rā sākht.",
+   "en": "Forough made the short film 'The House Is Black'.",
+   "faV": "فُروغ فیلمِ کوتاهِ «خانه سیاه اَست» را ساخت.",
+   "a": "67266541cb54"
+  },
+  {
+   "fa": "سهراب سپهری هم شاعر بود و هم نقاش.",
+   "r": "Sohrāb Sepehri ham shā'er bud va ham naghghāsh.",
+   "en": "Sohrab Sepehri was both a poet and a painter.",
+   "faV": "سُهراب سِپِهری هَم شاعِر بود و هَم نَقّاش.",
+   "a": "21a525a7085f"
+  },
+  {
+   "fa": "شعرهای سپهری درباره‌ی طبیعت و صلح است.",
+   "r": "she'r-hā-ye Sepehri darbāre-ye tabi'at va solh ast.",
+   "en": "Sepehri's poems are about nature and peace.",
+   "faV": "شِعرهایِ سِپِهری دَرباره‌یِ طَبیعَت و صُلح اَست.",
+   "a": "17b565f3877b"
+  },
+  {
+   "fa": "سیمین بهبهانی غزل فارسی را نو کرد.",
+   "r": "Simin Behbahāni ghazal-e fārsi rā now kard.",
+   "en": "Simin Behbahani renewed the Persian ghazal.",
+   "faV": "سیمین بِهبَهانی غَزَلِ فارسی را نَو کَرد.",
+   "a": "e6997b2c4685"
+  }
  ],
  "vocab": [
-  {"fa": "معاصر", "r": "mo'āser", "en": "contemporary, modern"},
-  {"fa": "شعر نو", "r": "she'r-e now", "en": "modern ('new') poetry"},
-  {"fa": "شعر سپید", "r": "she'r-e sepid", "en": "free verse (literally 'white poetry')"},
-  {"fa": "وزن", "r": "vazn", "en": "metre; weight"},
-  {"fa": "قافیه", "r": "ghāfiye", "en": "rhyme"},
-  {"fa": "مصراع", "r": "mesrā'", "en": "line (half-verse)"},
-  {"fa": "تخلص", "r": "takhallos", "en": "pen-name (of a poet)"},
-  {"fa": "مجموعه", "r": "majmu'e", "en": "collection"},
-  {"fa": "شاعر", "r": "shā'er", "en": "poet"},
-  {"fa": "نقاش", "r": "naghghāsh", "en": "painter"},
-  {"fa": "طبیعت", "r": "tabi'at", "en": "nature"},
-  {"fa": "احساس", "r": "ehsās", "en": "feeling"},
-  {"fa": "زمستان", "r": "zemestān", "en": "winter"},
-  {"fa": "امید", "r": "omid", "en": "hope"},
-  {"fa": "نوآوری", "r": "now-āvari", "en": "innovation"},
-  {"fa": "سنتی", "r": "sonnati", "en": "traditional"},
-  {"fa": "ترجمه", "r": "tarjome", "en": "translation"}
+  {
+   "fa": "معاصر",
+   "r": "mo'āser",
+   "en": "contemporary, modern",
+   "faV": "مُعاصِر",
+   "a": "b5933b38800b"
+  },
+  {
+   "fa": "شعر نو",
+   "r": "she'r-e now",
+   "en": "modern ('new') poetry",
+   "faV": "شِعرِ نَو",
+   "a": "a81c56af874f"
+  },
+  {
+   "fa": "شعر سپید",
+   "r": "she'r-e sepid",
+   "en": "free verse (literally 'white poetry')",
+   "faV": "شِعرِ سِپید",
+   "a": "2bafff1e8d88"
+  },
+  {
+   "fa": "وزن",
+   "r": "vazn",
+   "en": "metre; weight",
+   "faV": "وَزن",
+   "a": "1c93d688d7d3"
+  },
+  {
+   "fa": "قافیه",
+   "r": "ghāfiye",
+   "en": "rhyme",
+   "faV": "قافیه",
+   "a": "875afb337808"
+  },
+  {
+   "fa": "مصراع",
+   "r": "mesrā'",
+   "en": "line (half-verse)",
+   "faV": "مِصراع",
+   "a": "2461a98e3ed4"
+  },
+  {
+   "fa": "تخلص",
+   "r": "takhallos",
+   "en": "pen-name (of a poet)",
+   "faV": "تَخَلُّص",
+   "a": "f74e2b6c3e36"
+  },
+  {
+   "fa": "مجموعه",
+   "r": "majmu'e",
+   "en": "collection",
+   "faV": "مَجموعه",
+   "a": "2ecdcc14ee36"
+  },
+  {
+   "fa": "شاعر",
+   "r": "shā'er",
+   "en": "poet",
+   "faV": "شاعِر",
+   "a": "45d6a2ecdeca"
+  },
+  {
+   "fa": "نقاش",
+   "r": "naghghāsh",
+   "en": "painter",
+   "faV": "نَقّاش",
+   "a": "be70fe79e3d0"
+  },
+  {
+   "fa": "طبیعت",
+   "r": "tabi'at",
+   "en": "nature",
+   "faV": "طَبیعَت",
+   "a": "50cac7466d89"
+  },
+  {
+   "fa": "احساس",
+   "r": "ehsās",
+   "en": "feeling",
+   "faV": "اِحساس",
+   "a": "844b2f0fd4b1"
+  },
+  {
+   "fa": "زمستان",
+   "r": "zemestān",
+   "en": "winter",
+   "faV": "زِمِستان",
+   "a": "855c9a97c4fc"
+  },
+  {
+   "fa": "امید",
+   "r": "omid",
+   "en": "hope",
+   "faV": "اُمید",
+   "a": "24cba6691486"
+  },
+  {
+   "fa": "نوآوری",
+   "r": "now-āvari",
+   "en": "innovation",
+   "faV": "نُوآوَری",
+   "a": "09b05e21819c"
+  },
+  {
+   "fa": "سنتی",
+   "r": "sonnati",
+   "en": "traditional",
+   "faV": "سُنَّتی",
+   "a": "e374e8576545"
+  },
+  {
+   "fa": "ترجمه",
+   "r": "tarjome",
+   "en": "translation",
+   "faV": "تَرجُمه",
+   "a": "f3a80dd7f4b3"
+  }
  ],
  "facts": [
   "Nima Yushij's long poem Afsaneh (1922) is often taken as the starting point of modern Persian poetry.",
@@ -76,5 +250,7 @@
   "Sohrab Sepehri collected his poetry in one volume, Hasht Ketab ('Eight Books'), in 1976.",
   "Mehdi Akhavan-Sales is buried at Tus, near the tomb of Ferdowsi.",
   "Simin Behbahani wrote ghazals in metres that classical poets had rarely or never used."
- ]
+ ],
+ "titleV": "شاعِرانِ مُعاصِر",
+ "titleA": "489ffc0b6d86"
 }

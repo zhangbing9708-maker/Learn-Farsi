@@ -89,6 +89,7 @@ Classical poetry, literary prose, the history of the language, dialects and Dari
 1. [Hafez: the first ghazal](lessons/b2-01-hafez.md) — حافظ و نخستین غزل دیوان
 2. [Rumi and the reed](lessons/b2-02-rumi-and-the-reed.md) — مولانا و نی‌نامه
 3. [Saadi and Ferdowsi](lessons/b2-03-saadi-and-ferdowsi.md) — سعدی و فردوسی
+4. [Literary Persian](lessons/b2-04-literary-persian.md) — فارسی ادبی
 6. [Dari and Tajik: one language, three standards](lessons/b2-06-dari-and-tajik.md) — فارسی، دری، تاجیکی
 7. [Dialects and accents: the many voices of Iran](lessons/b2-07-dialects-and-accents.md) — لهجه‌ها و زبان‌های ایران
 
@@ -97,6 +98,7 @@ Classical poetry, literary prose, the history of the language, dialects and Dari
 Academic and official Persian, translation, rhetoric, calligraphy and the words that travelled from Persian into English.
 
 1. [Academic Persian: how scholars write](lessons/c1-01-academic-persian.md) — فارسی دانشگاهی
+2. [Translation workshop](lessons/c1-02-translation-workshop.md) — کارگاه ترجمه
 
 ## Part 7. Stories — داستان‌ها
 
@@ -117,6 +119,7 @@ Graded readers, from very easy to literary.
 - [Breakfast in Tehran](stories/a1-breakfast-in-tehran.md) — صبحانه در تهران
 - [Grandfather's clock](stories/a1-grandfathers-clock.md) — ساعت پدربزرگ
 - [A letter to Grandmother](stories/a1-a-letter-to-grandmother.md) — نامه‌ای به مادربزرگ
+- [Friday in the park](stories/a1-friday-in-the-park.md) — جمعه در پارک
 
 **Elementary (A2)**
 
@@ -133,6 +136,7 @@ Graded readers, from very easy to literary.
 - [Auntie Beetle](stories/a2-khale-suske.md) — خاله سوسکه
 - [The farmer and his sons](stories/a2-the-farmer-and-his-sons.md) — کشاورز و پسرانش
 - [The devoted farmer](stories/a2-the-devoted-farmer.md) — دهقان فداکار
+- [Nasreddin, his son and the donkey](stories/a2-nasreddin-and-the-donkey.md) — ملا، پسرش و الاغ
 
 **Intermediate (B1)**
 
@@ -267,6 +271,7 @@ Graded readers, from very easy to literary.
 - [Persian words in English](culture/language-persian-words-in-english.md) — واژه‌های فارسی در انگلیسی
 - [Loanwords in Persian](culture/language-loanwords-in-persian.md) — وام‌واژه‌ها در فارسی
 - [The languages of Iran](culture/language-dialects.md) — زبان‌های ایران
+- [Names and naming](culture/language-names-and-naming.md) — نام‌ها و نام‌گذاری
 
 **Everyday life**
 

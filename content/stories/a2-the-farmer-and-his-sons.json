@@ -14,27 +14,37 @@
     {
      "fa": "کشاورز پیری سه پسر داشت که خیلی تنبل بودند.",
      "r": "keshāvarz-e pir-i se pesar dāsht ke kheyli tanbal budand.",
-     "en": "An old farmer had three sons who were very lazy."
+     "en": "An old farmer had three sons who were very lazy.",
+     "faV": "کِشاوَرزِ پیری سه پِسَر داشت که خَیلی تَنبَل بودَند.",
+     "a": "8f5e718e0ef2"
     },
     {
      "fa": "آن‌ها هر روز تا ظهر می‌خوابیدند و به پدرشان کمک نمی‌کردند.",
      "r": "ān-hā har ruz tā zohr mi-khābidand o be pedar-eshān komak nemi-kardand.",
-     "en": "Every day they slept until noon and did not help their father."
+     "en": "Every day they slept until noon and did not help their father.",
+     "faV": "آن‌ها هَر روز تا ظُهر می‌خوابیدَند و به پِدَرِشان کُمَک نِمی‌کَردَند.",
+     "a": "72da5e637723"
     },
     {
      "fa": "یک روز کشاورز مریض شد و فهمید که زمان زیادی زنده نمی‌ماند.",
      "r": "yek ruz keshāvarz mariz shod o fahmid ke zamān-e ziyād-i zende nemi-mānad.",
-     "en": "One day the farmer fell ill and realised that he would not live much longer."
+     "en": "One day the farmer fell ill and realised that he would not live much longer.",
+     "faV": "یِک روز کِشاوَرز مَریض شُد و فَهمید که زَمانِ زیادی زِنده نِمی‌مانَد.",
+     "a": "b9378519aeb9"
     },
     {
      "fa": "او پسرانش را صدا کرد و گفت: «من در مزرعه گنجی پنهان کرده‌ام.»",
      "r": "u pesarān-ash rā sedā kard o goft: «man dar mazra'e ganj-i penhān karde-am.»",
-     "en": "He called his sons and said: \"I have hidden a treasure in the field.\""
+     "en": "He called his sons and said: \"I have hidden a treasure in the field.\"",
+     "faV": "او پِسَرانَش را صِدا کَرد و گُفت: «مَن دَر مَزرَعه گَنجی پِنهان کَرده‌اَم.»",
+     "a": "e62182153628"
     },
     {
      "fa": "«اگر زمین را خوب بکنید، آن را پیدا می‌کنید.»",
      "r": "«agar zamin rā khub bekanid, ān rā peydā mi-konid.»",
-     "en": "\"If you dig the ground well, you will find it.\""
+     "en": "\"If you dig the ground well, you will find it.\"",
+     "faV": "«اَگَر زَمین را خوب بِکَنید، آن را پَیدا می‌کُنید.»",
+     "a": "20c55638f130"
     }
    ]
   },
@@ -43,22 +53,30 @@
     {
      "fa": "چند روز بعد، پدر مرد.",
      "r": "chand ruz ba'd, pedar mord.",
-     "en": "A few days later the father died."
+     "en": "A few days later the father died.",
+     "faV": "چَند روز بَعد، پِدَر مُرد.",
+     "a": "fe65478cb7b7"
     },
     {
      "fa": "پسر‌ها بیل برداشتند و به مزرعه رفتند.",
      "r": "pesar-hā bil bar-dāshtand o be mazra'e raftand.",
-     "en": "The sons picked up spades and went to the field."
+     "en": "The sons picked up spades and went to the field.",
+     "faV": "پِسَر‌ها بیل بَرداشتَند و به مَزرَعه رَفتَند.",
+     "a": "754aacee8448"
     },
     {
      "fa": "آن‌ها از صبح تا شب همه‌ی زمین را کندند، اما گنجی پیدا نکردند.",
      "r": "ān-hā az sobh tā shab hame-ye zamin rā kandand, ammā ganj-i peydā na-kardand.",
-     "en": "They dug up the whole field from morning till night, but they found no treasure."
+     "en": "They dug up the whole field from morning till night, but they found no treasure.",
+     "faV": "آن‌ها اَز صُبح تا شَب هَمه‌یِ زَمین را کَندَند، اَمّا گَنجی پَیدا نَکَردَند.",
+     "a": "a4abc7b38b16"
     },
     {
      "fa": "برادر بزرگ‌تر گفت: «حالا که زمین را کنده‌ایم، بیایید گندم هم بکاریم.»",
      "r": "barādar-e bozorg-tar goft: «hālā ke zamin rā kande-im, biyāyid gandom ham bekārim.»",
-     "en": "The eldest brother said: \"Now that we've dug the ground, let's sow some wheat as well.\""
+     "en": "The eldest brother said: \"Now that we've dug the ground, let's sow some wheat as well.\"",
+     "faV": "بَرادَرِ بُزُرگ‌تَر گُفت: «حالا که زَمین را کَنده‌ایم، بیایید گَندُم هَم بِکاریم.»",
+     "a": "780c574dd058"
     }
    ]
   },
@@ -67,12 +85,16 @@
     {
      "fa": "آن سال باران خوبی آمد و گندم‌ها بلند و طلایی شدند.",
      "r": "ān sāl bārān-e khub-i āmad o gandom-hā boland o talāyi shodand.",
-     "en": "That year there was plenty of rain, and the wheat grew tall and golden."
+     "en": "That year there was plenty of rain, and the wheat grew tall and golden.",
+     "faV": "آن سال بارانِ خوبی آمَد و گَندُم‌ها بُلَند و طَلایی شُدَند.",
+     "a": "de1403044a36"
     },
     {
      "fa": "پسر‌ها محصول را در بازار فروختند و پول زیادی به دست آوردند.",
      "r": "pesar-hā mahsul rā dar bāzār forukhtand o pul-e ziyād-i be dast āvardand.",
-     "en": "The sons sold the harvest at the market and made a lot of money."
+     "en": "The sons sold the harvest at the market and made a lot of money.",
+     "faV": "پِسَر‌ها مَحصول را دَر بازار فُروختَند و پولِ زیادی به دَست آوَردَند.",
+     "a": "25f66282fc05"
     }
    ]
   },
@@ -81,59 +103,175 @@
     {
      "fa": "برادر کوچک‌تر خندید و گفت: «حالا فهمیدم! گنج پدر همین کار بود.»",
      "r": "barādar-e kuchak-tar khandid o goft: «hālā fahmidam! ganj-e pedar hamin kār bud.»",
-     "en": "The youngest brother laughed and said: \"Now I understand! Father's treasure was this very work.\""
+     "en": "The youngest brother laughed and said: \"Now I understand! Father's treasure was this very work.\"",
+     "faV": "بَرادَرِ کوچَک‌تَر خَندید و گُفت: «حالا فَهمیدَم! گَنجِ پِدَر هَمین کار بود.»",
+     "a": "f6509133d31d"
     },
     {
      "fa": "از آن روز، سه برادر هر سال با هم کار می‌کردند و دیگر تنبل نبودند.",
      "r": "az ān ruz, se barādar har sāl bā ham kār mi-kardand o digar tanbal na-budand.",
-     "en": "From that day on, the three brothers worked together every year and were never lazy again."
+     "en": "From that day on, the three brothers worked together every year and were never lazy again.",
+     "faV": "اَز آن روز، سه بَرادَر هَر سال با هَم کار می‌کَردَند و دیگَر تَنبَل نَبودَند.",
+     "a": "ae983d308608"
     }
    ]
   }
  ],
  "vocab": [
-  {"fa": "کشاورز", "r": "keshāvarz", "en": "farmer"},
-  {"fa": "تنبل", "r": "tanbal", "en": "lazy"},
-  {"fa": "مریض", "r": "mariz", "en": "ill, sick"},
-  {"fa": "زنده", "r": "zende", "en": "alive"},
-  {"fa": "مزرعه", "r": "mazra'e", "en": "field, farm"},
-  {"fa": "گنج", "r": "ganj", "en": "treasure"},
-  {"fa": "پنهان کردن", "r": "penhān kardan", "en": "to hide"},
-  {"fa": "کندن", "r": "kandan", "en": "to dig"},
-  {"fa": "بیل", "r": "bil", "en": "spade, shovel"},
-  {"fa": "برداشتن", "r": "bar-dāshtan", "en": "to pick up, take"},
-  {"fa": "گندم", "r": "gandom", "en": "wheat"},
-  {"fa": "کاشتن", "r": "kāshtan", "en": "to sow, plant"},
-  {"fa": "طلایی", "r": "talāyi", "en": "golden"},
-  {"fa": "محصول", "r": "mahsul", "en": "harvest, crop; product"},
-  {"fa": "به دست آوردن", "r": "be dast āvardan", "en": "to gain, earn, obtain"}
+  {
+   "fa": "کشاورز",
+   "r": "keshāvarz",
+   "en": "farmer",
+   "faV": "کِشاوَرز",
+   "a": "e2af38fd3710"
+  },
+  {
+   "fa": "تنبل",
+   "r": "tanbal",
+   "en": "lazy",
+   "faV": "تَنبَل",
+   "a": "711f75428a66"
+  },
+  {
+   "fa": "مریض",
+   "r": "mariz",
+   "en": "ill, sick",
+   "faV": "مَریض",
+   "a": "935f4176a13e"
+  },
+  {
+   "fa": "زنده",
+   "r": "zende",
+   "en": "alive",
+   "faV": "زِنده",
+   "a": "e5f480fad6b4"
+  },
+  {
+   "fa": "مزرعه",
+   "r": "mazra'e",
+   "en": "field, farm",
+   "faV": "مَزرَعه",
+   "a": "95be83277b38"
+  },
+  {
+   "fa": "گنج",
+   "r": "ganj",
+   "en": "treasure",
+   "faV": "گَنج",
+   "a": "ed83041ce403"
+  },
+  {
+   "fa": "پنهان کردن",
+   "r": "penhān kardan",
+   "en": "to hide",
+   "faV": "پِنهان کَردَن",
+   "a": "2e1530b74153"
+  },
+  {
+   "fa": "کندن",
+   "r": "kandan",
+   "en": "to dig",
+   "faV": "کَندَن",
+   "a": "7ff40a773288"
+  },
+  {
+   "fa": "بیل",
+   "r": "bil",
+   "en": "spade, shovel",
+   "faV": "بیل",
+   "a": "886850ceef7d"
+  },
+  {
+   "fa": "برداشتن",
+   "r": "bar-dāshtan",
+   "en": "to pick up, take",
+   "faV": "بَرداشتَن",
+   "a": "b55ba86f112c"
+  },
+  {
+   "fa": "گندم",
+   "r": "gandom",
+   "en": "wheat",
+   "faV": "گَندُم",
+   "a": "d3ee7deccc31"
+  },
+  {
+   "fa": "کاشتن",
+   "r": "kāshtan",
+   "en": "to sow, plant",
+   "faV": "کاشتَن",
+   "a": "7b04c16b7dc6"
+  },
+  {
+   "fa": "طلایی",
+   "r": "talāyi",
+   "en": "golden",
+   "faV": "طَلایی",
+   "a": "3190c4ada9f5"
+  },
+  {
+   "fa": "محصول",
+   "r": "mahsul",
+   "en": "harvest, crop; product",
+   "faV": "مَحصول",
+   "a": "60ca7a74eca2"
+  },
+  {
+   "fa": "به دست آوردن",
+   "r": "be dast āvardan",
+   "en": "to gain, earn, obtain",
+   "faV": "به دَست آوَردَن",
+   "a": "ed31d64b867e"
+  }
  ],
  "questions": [
   {
    "q": "What was the problem with the farmer's sons?",
-   "options": ["they were ill", "they were lazy", "they lived far away"],
+   "options": [
+    "they were ill",
+    "they were lazy",
+    "they lived far away"
+   ],
    "answer": 1
   },
   {
    "q": "What did the father tell his sons before he died?",
-   "options": ["that a treasure was hidden in the field", "that they must sell the field", "that he had no money"],
+   "options": [
+    "that a treasure was hidden in the field",
+    "that they must sell the field",
+    "that he had no money"
+   ],
    "answer": 0
   },
   {
    "q": "What did the sons find when they dug the field?",
-   "options": ["a box of gold", "an old spade", "nothing at all"],
+   "options": [
+    "a box of gold",
+    "an old spade",
+    "nothing at all"
+   ],
    "answer": 2
   },
   {
    "q": "Whose idea was it to sow wheat?",
-   "options": ["the eldest brother's", "the youngest brother's", "a neighbour's"],
+   "options": [
+    "the eldest brother's",
+    "the youngest brother's",
+    "a neighbour's"
+   ],
    "answer": 0
   },
   {
    "q": "What was the 'treasure' in the end?",
-   "options": ["the rain", "their hard work", "the market"],
+   "options": [
+    "the rain",
+    "their hard work",
+    "the market"
+   ],
    "answer": 1
   }
  ],
- "after": "Iranians sum up this story with a line from Saadi's Golestan: نابرده رنج گنج میسر نمی‌شود (nā-borde ranj ganj moyassar nemi-shavad), 'without taking pains, no treasure comes your way' – ranj and ganj rhyme, so it is easy to remember. Notice the present perfect for a past action whose result is still here: گنجی پنهان کرده‌ام 'I have hidden a treasure (and it is still there)', and حالا که زمین را کنده‌ایم 'now that we have dug the ground'. The past continuous (می‌خوابیدند, کار می‌کردند) describes what someone used to do again and again. بیایید + subjunctive (بیایید بکاریم) is the Persian 'let's …'. And watch the two verbs that look alike: کندن (kandan, present stem کن, 'to dig': بکنید 'dig!') and کردن (kardan, present stem کن, 'to do': می‌کنید) – only the vowels tell them apart."
+ "after": "Iranians sum up this story with a line from Saadi's Golestan: نابرده رنج گنج میسر نمی‌شود (nā-borde ranj ganj moyassar nemi-shavad), 'without taking pains, no treasure comes your way' – ranj and ganj rhyme, so it is easy to remember. Notice the present perfect for a past action whose result is still here: گنجی پنهان کرده‌ام 'I have hidden a treasure (and it is still there)', and حالا که زمین را کنده‌ایم 'now that we have dug the ground'. The past continuous (می‌خوابیدند, کار می‌کردند) describes what someone used to do again and again. بیایید + subjunctive (بیایید بکاریم) is the Persian 'let's …'. And watch the two verbs that look alike: کندن (kandan, present stem کن, 'to dig': بکنید 'dig!') and کردن (kardan, present stem کن, 'to do': می‌کنید) – only the vowels tell them apart.",
+ "titleV": "کِشاوَرز و پِسَرانَش",
+ "titleA": "29d8e73976f7"
 }

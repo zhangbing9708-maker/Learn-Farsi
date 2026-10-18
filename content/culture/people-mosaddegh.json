@@ -35,37 +35,211 @@
   }
  ],
  "sentences": [
-  {"fa": "محمد مصدق در سال ۱۸۸۲ در تهران به دنیا آمد.", "r": "Mohammad Mosaddegh dar sāl-e hezār-o-hashtsad-o-hashtād-o-do dar Tehrān be donyā āmad.", "en": "Mohammad Mosaddegh was born in Tehran in 1882."},
-  {"fa": "مادرش از شاهزادگان قاجار بود.", "r": "mādar-ash az shāhzādegān-e Ghājār bud.", "en": "His mother was a Qajar princess."},
-  {"fa": "او در فرانسه و سوئیس حقوق خواند.", "r": "u dar Farānse va Su'is hoghugh khānd.", "en": "He studied law in France and Switzerland."},
-  {"fa": "در آن زمان نفت ایران در دست یک شرکت انگلیسی بود.", "r": "dar ān zamān naft-e Irān dar dast-e yek sherkat-e engelisi bud.", "en": "At that time Iran's oil was in the hands of a British company."},
-  {"fa": "مجلس در اسفند ۱۳۲۹ صنعت نفت را ملی کرد.", "r": "majles dar Esfand-e hezār-o-sisad-o-bist-o-noh san'at-e naft rā melli kard.", "en": "In Esfand 1329 (March 1951) parliament nationalised the oil industry."},
-  {"fa": "مصدق در سال ۱۹۵۱ نخست‌وزیر شد.", "r": "Mosaddegh dar sāl-e hezār-o-nohsad-o-panjāh-o-yek nakhost-vazir shod.", "en": "Mosaddegh became prime minister in 1951."},
-  {"fa": "بریتانیا با این تصمیم مخالف بود.", "r": "Beritāniyā bā in tasmim mokhālef bud.", "en": "Britain opposed this decision."},
-  {"fa": "اقتصاد ایران در آن سال‌ها مشکلات زیادی داشت.", "r": "eghtesād-e Irān dar ān sāl-hā moshkelāt-e ziyād-i dāsht.", "en": "Iran's economy had many problems in those years."},
-  {"fa": "در ۲۸ مرداد ۱۳۳۲ یک کودتا دولت مصدق را سرنگون کرد.", "r": "dar bist-o-hasht-e Mordād-e hezār-o-sisad-o-si-o-do yek kudetā dowlat-e Mosaddegh rā sarnegun kard.", "en": "On 28 Mordad 1332 (19 August 1953) a coup overthrew Mosaddegh's government."},
-  {"fa": "آمریکا و بریتانیا در این کودتا نقش داشتند.", "r": "Āmrikā va Beritāniyā dar in kudetā naghsh dāshtand.", "en": "America and Britain played a part in this coup."},
-  {"fa": "مصدق سال‌های آخر عمرش را در احمدآباد گذراند.", "r": "Mosaddegh sāl-hā-ye ākhar-e 'omr-ash rā dar Ahmad-ābād gozarānd.", "en": "Mosaddegh spent the last years of his life in Ahmadabad."},
-  {"fa": "روز ۲۹ اسفند در ایران روز ملی شدن صنعت نفت است.", "r": "ruz-e bist-o-noh-e Esfand dar Irān ruz-e melli shodan-e san'at-e naft ast.", "en": "In Iran, 29 Esfand is the day of the nationalisation of the oil industry."}
+  {
+   "fa": "محمد مصدق در سال ۱۸۸۲ در تهران به دنیا آمد.",
+   "r": "Mohammad Mosaddegh dar sāl-e hezār-o-hashtsad-o-hashtād-o-do dar Tehrān be donyā āmad.",
+   "en": "Mohammad Mosaddegh was born in Tehran in 1882.",
+   "faV": "مُحَمَّد مُصَدِّق دَر سالِ ۱۸۸۲ دَر تِهران به دُنیا آمَد.",
+   "a": "bfa84ed064d8"
+  },
+  {
+   "fa": "مادرش از شاهزادگان قاجار بود.",
+   "r": "mādar-ash az shāhzādegān-e Ghājār bud.",
+   "en": "His mother was a Qajar princess.",
+   "faV": "مادَرَش اَز شاهزادِگانِ قاجار بود.",
+   "a": "7dae01bcc8a9"
+  },
+  {
+   "fa": "او در فرانسه و سوئیس حقوق خواند.",
+   "r": "u dar Farānse va Su'is hoghugh khānd.",
+   "en": "He studied law in France and Switzerland.",
+   "faV": "او دَر فَرانسه و سوئیس حُقوق خواند.",
+   "a": "4439b4fb6ed6"
+  },
+  {
+   "fa": "در آن زمان نفت ایران در دست یک شرکت انگلیسی بود.",
+   "r": "dar ān zamān naft-e Irān dar dast-e yek sherkat-e engelisi bud.",
+   "en": "At that time Iran's oil was in the hands of a British company.",
+   "faV": "دَر آن زَمان نَفتِ ایران دَر دَستِ یِک شِرکَتِ اِنگِلیسی بود.",
+   "a": "bb89c76255dc"
+  },
+  {
+   "fa": "مجلس در اسفند ۱۳۲۹ صنعت نفت را ملی کرد.",
+   "r": "majles dar Esfand-e hezār-o-sisad-o-bist-o-noh san'at-e naft rā melli kard.",
+   "en": "In Esfand 1329 (March 1951) parliament nationalised the oil industry.",
+   "faV": "مَجلِس دَر اِسفَندِ ۱۳۲۹ صَنعَتِ نَفت را مِلّی کَرد.",
+   "a": "fbdbc0156f1e"
+  },
+  {
+   "fa": "مصدق در سال ۱۹۵۱ نخست‌وزیر شد.",
+   "r": "Mosaddegh dar sāl-e hezār-o-nohsad-o-panjāh-o-yek nakhost-vazir shod.",
+   "en": "Mosaddegh became prime minister in 1951.",
+   "faV": "مُصَدِّق دَر سالِ ۱۹۵۱ نَخُست‌وَزیر شُد.",
+   "a": "4f54404c6a0e"
+  },
+  {
+   "fa": "بریتانیا با این تصمیم مخالف بود.",
+   "r": "Beritāniyā bā in tasmim mokhālef bud.",
+   "en": "Britain opposed this decision.",
+   "faV": "بِریتانیا با این تَصمیم مُخالِف بود.",
+   "a": "7f4a6f255b00"
+  },
+  {
+   "fa": "اقتصاد ایران در آن سال‌ها مشکلات زیادی داشت.",
+   "r": "eghtesād-e Irān dar ān sāl-hā moshkelāt-e ziyād-i dāsht.",
+   "en": "Iran's economy had many problems in those years.",
+   "faV": "اِقتِصادِ ایران دَر آن سال‌ها مُشکِلاتِ زیادی داشت.",
+   "a": "14731f695acf"
+  },
+  {
+   "fa": "در ۲۸ مرداد ۱۳۳۲ یک کودتا دولت مصدق را سرنگون کرد.",
+   "r": "dar bist-o-hasht-e Mordād-e hezār-o-sisad-o-si-o-do yek kudetā dowlat-e Mosaddegh rā sarnegun kard.",
+   "en": "On 28 Mordad 1332 (19 August 1953) a coup overthrew Mosaddegh's government.",
+   "faV": "دَر ۲۸ مُردادِ ۱۳۳۲ یِک کودِتا دَولَتِ مُصَدِّق را سَرنِگون کَرد.",
+   "a": "9064050ec8b2"
+  },
+  {
+   "fa": "آمریکا و بریتانیا در این کودتا نقش داشتند.",
+   "r": "Āmrikā va Beritāniyā dar in kudetā naghsh dāshtand.",
+   "en": "America and Britain played a part in this coup.",
+   "faV": "آمریکا و بِریتانیا دَر این کودِتا نَقش داشتَند.",
+   "a": "7b98bae5760c"
+  },
+  {
+   "fa": "مصدق سال‌های آخر عمرش را در احمدآباد گذراند.",
+   "r": "Mosaddegh sāl-hā-ye ākhar-e 'omr-ash rā dar Ahmad-ābād gozarānd.",
+   "en": "Mosaddegh spent the last years of his life in Ahmadabad.",
+   "faV": "مُصَدِّق سال‌هایِ آخَرِ عُمرَش را دَر اَحمَدآباد گُذَراند.",
+   "a": "4a6e0b587528"
+  },
+  {
+   "fa": "روز ۲۹ اسفند در ایران روز ملی شدن صنعت نفت است.",
+   "r": "ruz-e bist-o-noh-e Esfand dar Irān ruz-e melli shodan-e san'at-e naft ast.",
+   "en": "In Iran, 29 Esfand is the day of the nationalisation of the oil industry.",
+   "faV": "روزِ ۲۹ اِسفَند دَر ایران روزِ مِلّی شُدَنِ صَنعَتِ نَفت اَست.",
+   "a": "69193e6ce878"
+  }
  ],
  "vocab": [
-  {"fa": "نفت", "r": "naft", "en": "oil, petroleum"},
-  {"fa": "صنعت", "r": "san'at", "en": "industry"},
-  {"fa": "ملی", "r": "melli", "en": "national"},
-  {"fa": "ملی کردن", "r": "melli kardan", "en": "to nationalise"},
-  {"fa": "نخست‌وزیر", "r": "nakhost-vazir", "en": "prime minister"},
-  {"fa": "مجلس", "r": "majles", "en": "parliament"},
-  {"fa": "دولت", "r": "dowlat", "en": "government; state"},
-  {"fa": "شرکت", "r": "sherkat", "en": "company"},
-  {"fa": "کودتا", "r": "kudetā", "en": "coup d'état"},
-  {"fa": "حقوق", "r": "hoghugh", "en": "law (as a subject); rights; salary"},
-  {"fa": "دادگاه", "r": "dādgāh", "en": "court of law"},
-  {"fa": "زندان", "r": "zendān", "en": "prison"},
-  {"fa": "تحریم", "r": "tahrim", "en": "sanction, embargo, boycott"},
-  {"fa": "اقتصاد", "r": "eghtesād", "en": "economy"},
-  {"fa": "مخالف", "r": "mokhālef", "en": "opposed; opponent"},
-  {"fa": "سرنگون کردن", "r": "sarnegun kardan", "en": "to overthrow"},
-  {"fa": "اعتراض", "r": "e'terāz", "en": "protest"}
+  {
+   "fa": "نفت",
+   "r": "naft",
+   "en": "oil, petroleum",
+   "faV": "نَفت",
+   "a": "d3017335cb13"
+  },
+  {
+   "fa": "صنعت",
+   "r": "san'at",
+   "en": "industry",
+   "faV": "صَنعَت",
+   "a": "f2631f4c238e"
+  },
+  {
+   "fa": "ملی",
+   "r": "melli",
+   "en": "national",
+   "faV": "مِلّی",
+   "a": "e342568fe788"
+  },
+  {
+   "fa": "ملی کردن",
+   "r": "melli kardan",
+   "en": "to nationalise",
+   "faV": "مِلّی کَردَن",
+   "a": "032b9bcc6e00"
+  },
+  {
+   "fa": "نخست‌وزیر",
+   "r": "nakhost-vazir",
+   "en": "prime minister",
+   "faV": "نَخُست‌وَزیر",
+   "a": "462b4e89db2a"
+  },
+  {
+   "fa": "مجلس",
+   "r": "majles",
+   "en": "parliament",
+   "faV": "مَجلِس",
+   "a": "9fac38645da3"
+  },
+  {
+   "fa": "دولت",
+   "r": "dowlat",
+   "en": "government; state",
+   "faV": "دَولَت",
+   "a": "8b7c044d3946"
+  },
+  {
+   "fa": "شرکت",
+   "r": "sherkat",
+   "en": "company",
+   "faV": "شِرکَت",
+   "a": "e61de97beeff"
+  },
+  {
+   "fa": "کودتا",
+   "r": "kudetā",
+   "en": "coup d'état",
+   "faV": "کودِتا",
+   "a": "053eca85c6f7"
+  },
+  {
+   "fa": "حقوق",
+   "r": "hoghugh",
+   "en": "law (as a subject); rights; salary",
+   "faV": "حُقوق",
+   "a": "16026426b9a7"
+  },
+  {
+   "fa": "دادگاه",
+   "r": "dādgāh",
+   "en": "court of law",
+   "faV": "دادگاه",
+   "a": "e49f67ff6073"
+  },
+  {
+   "fa": "زندان",
+   "r": "zendān",
+   "en": "prison",
+   "faV": "زِندان",
+   "a": "d24dae09791e"
+  },
+  {
+   "fa": "تحریم",
+   "r": "tahrim",
+   "en": "sanction, embargo, boycott",
+   "faV": "تَحریم",
+   "a": "fb709e514074"
+  },
+  {
+   "fa": "اقتصاد",
+   "r": "eghtesād",
+   "en": "economy",
+   "faV": "اِقتِصاد",
+   "a": "98bc2045494e"
+  },
+  {
+   "fa": "مخالف",
+   "r": "mokhālef",
+   "en": "opposed; opponent",
+   "faV": "مُخالِف",
+   "a": "5e9b02ea48cf"
+  },
+  {
+   "fa": "سرنگون کردن",
+   "r": "sarnegun kardan",
+   "en": "to overthrow",
+   "faV": "سَرنِگون کَردَن",
+   "a": "ca342e4067e0"
+  },
+  {
+   "fa": "اعتراض",
+   "r": "e'terāz",
+   "en": "protest",
+   "faV": "اِعتِراض",
+   "a": "e79754536802"
+  }
  ],
  "facts": [
   "Mosaddegh was born in Tehran in 1882 and died at Ahmadabad on 5 March 1967.",
@@ -75,5 +249,7 @@
   "In 1952 the International Court of Justice ruled that it had no jurisdiction in Britain's case against Iran over oil.",
   "The coup of 19 August 1953 is known in Iran simply as '28 Mordad'.",
   "In 2013 the CIA released documents acknowledging its role in the 1953 coup."
- ]
+ ],
+ "titleV": "مُحَمَّد مُصَدِّق",
+ "titleA": "549c92c91bc2"
 }

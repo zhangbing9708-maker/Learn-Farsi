@@ -1,0 +1,144 @@
+{
+ "id": "a2-nasreddin-and-the-donkey",
+ "level": "A2",
+ "kind": "folk tale",
+ "title": "Nasreddin, his son and the donkey",
+ "titleFa": "ملا، پسرش و الاغ",
+ "titleR": "Mollā, pesar-ash o olāgh",
+ "image": "nasreddin",
+ "intro": "Mullah Nasreddin and his son set off for the market with their donkey, and everyone they meet on the road has an opinion about who should ride. One of the best-known Nasreddin stories, with a lesson that is still quoted every day. Look for exclamations with چه … ی! 'what a …!', هنوز … نرسیده بودند که 'they had not yet arrived when …', and هر کاری بکنیم 'whatever we do' with the subjunctive.",
+ "source": "Retold from the traditional Mullah Nasreddin stories (public domain).",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "یک روز ملا و پسرش با الاغشان به بازار شهر می‌رفتند.",
+     "r": "yek ruz Mollā o pesar-ash bā olāgh-eshān be bāzār-e shahr mi-raftand.",
+     "en": "One day the Mullah and his son were going to the town market with their donkey."
+    },
+    {
+     "fa": "پسر سوار الاغ بود و ملا پیاده راه می‌رفت.",
+     "r": "pesar savār-e olāgh bud o Mollā piyāde rāh mi-raft.",
+     "en": "The son was riding the donkey and the Mullah was walking."
+    },
+    {
+     "fa": "چند نفر کنار راه ایستاده بودند.",
+     "r": "chand nafar kenār-e rāh istāde budand.",
+     "en": "A few people were standing by the road."
+    },
+    {
+     "fa": "یکی از آن‌ها گفت: «چه پسر بی‌ادبی! پدر پیرش پیاده می‌رود و خودش سوار است.»",
+     "r": "yek-i az ān-hā goft: «che pesar-e bi-adab-i! pedar-e pir-ash piyāde mi-ravad o khod-ash savār ast.»",
+     "en": "One of them said: \"What a rude boy! His old father walks while he rides.\""
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "پسر خجالت کشید و پایین آمد تا پدرش سوار شود.",
+     "r": "pesar khejālat keshid o pāyin āmad tā pedar-ash savār shavad.",
+     "en": "The boy felt ashamed and got down so that his father could ride."
+    },
+    {
+     "fa": "کمی بعد، چند زن گفتند: «چه پدر بی‌رحمی! پسر کوچکش پیاده می‌رود و خودش راحت نشسته است.»",
+     "r": "kami ba'd, chand zan goftand: «che pedar-e bi-rahm-i! pesar-e kuchak-ash piyāde mi-ravad o khod-ash rāhat neshaste ast.»",
+     "en": "A little later some women said: \"What a heartless father! His little son walks while he sits there in comfort.\""
+    },
+    {
+     "fa": "ملا پسرش را هم سوار کرد و هر دو روی الاغ نشستند.",
+     "r": "Mollā pesar-ash rā ham savār kard o har do ru-ye olāgh neshastand.",
+     "en": "So the Mullah lifted his son up too, and they both sat on the donkey."
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "هنوز به بازار نرسیده بودند که مردی فریاد زد: «بیچاره الاغ! دو نفر روی یک حیوان کوچک؟»",
+     "r": "hanuz be bāzār na-raside budand ke mard-i faryād zad: «bichāre olāgh! do nafar ru-ye yek heyvān-e kuchak?»",
+     "en": "They had not yet reached the market when a man shouted: \"Poor donkey! Two people on one small animal?\""
+    },
+    {
+     "fa": "ملا و پسرش پیاده شدند و کنار الاغ راه رفتند.",
+     "r": "Mollā o pesar-ash piyāde shodand o kenār-e olāgh rāh raftand.",
+     "en": "The Mullah and his son got off and walked beside the donkey."
+    },
+    {
+     "fa": "این بار مردم خندیدند و گفتند: «چه آدم‌های نادانی! الاغ دارند و پیاده می‌روند!»",
+     "r": "in bār mardom khandidand o goftand: «che ādam-hā-ye nādān-i! olāgh dārand o piyāde mi-ravand!»",
+     "en": "This time people laughed and said: \"What fools! They have a donkey and they walk!\""
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "ملا ایستاد و به پسرش گفت: «دیدی، پسرم؟»",
+     "r": "Mollā istād o be pesar-ash goft: «didi, pesar-am?»",
+     "en": "The Mullah stopped and said to his son: \"Did you see, my son?\""
+    },
+    {
+     "fa": "«هر کاری بکنیم، مردم حرفی برای گفتن دارند.»",
+     "r": "«har kār-i bekonim, mardom harf-i barā-ye goftan dārand.»",
+     "en": "\"Whatever we do, people have something to say.\""
+    },
+    {
+     "fa": "«نمی‌شود همه را راضی کرد؛ پس باید کاری را بکنیم که خودمان درست می‌دانیم.»",
+     "r": "«nemi-shavad hame rā rāzi kard; pas bāyad kār-i rā bekonim ke khod-emān dorost mi-dānim.»",
+     "en": "\"You can't please everyone, so we should do what we ourselves think is right.\""
+    },
+    {
+     "fa": "بعد ملا پسرش را سوار الاغ کرد و خودش با خیال راحت کنارش راه رفت.",
+     "r": "ba'd Mollā pesar-ash rā savār-e olāgh kard o khod-ash bā khiyāl-e rāhat kenār-ash rāh raft.",
+     "en": "Then the Mullah put his son on the donkey and walked beside him with an easy mind."
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {"fa": "الاغ", "r": "olāgh", "en": "donkey"},
+  {"fa": "سوار", "r": "savār", "en": "riding, mounted (سوار شدن 'to get on')"},
+  {"fa": "پیاده", "r": "piyāde", "en": "on foot (پیاده شدن 'to get off')"},
+  {"fa": "بی‌ادب", "r": "bi-adab", "en": "rude, impolite"},
+  {"fa": "خجالت کشیدن", "r": "khejālat keshidan", "en": "to feel ashamed, embarrassed"},
+  {"fa": "پایین آمدن", "r": "pāyin āmadan", "en": "to come down, get down"},
+  {"fa": "بی‌رحم", "r": "bi-rahm", "en": "heartless, cruel"},
+  {"fa": "راحت", "r": "rāhat", "en": "comfortable; easy"},
+  {"fa": "هنوز", "r": "hanuz", "en": "still; (with a negative) not yet"},
+  {"fa": "فریاد زدن", "r": "faryād zadan", "en": "to shout"},
+  {"fa": "بیچاره", "r": "bichāre", "en": "poor (thing), wretched"},
+  {"fa": "نادان", "r": "nādān", "en": "foolish, ignorant"},
+  {"fa": "حرف", "r": "harf", "en": "word, talk"},
+  {"fa": "راضی کردن", "r": "rāzi kardan", "en": "to satisfy, please"},
+  {"fa": "با خیال راحت", "r": "bā khiyāl-e rāhat", "en": "with peace of mind"}
+ ],
+ "questions": [
+  {
+   "q": "Who was riding the donkey at the start?",
+   "options": ["the Mullah", "the son", "nobody"],
+   "answer": 1
+  },
+  {
+   "q": "What did the women say when the Mullah was riding?",
+   "options": ["that he was a heartless father", "that the donkey was too small", "that he was a wise man"],
+   "answer": 0
+  },
+  {
+   "q": "Why did the man shout 'Poor donkey!'?",
+   "options": ["the donkey was ill", "the donkey was carrying two people", "the donkey had no food"],
+   "answer": 1
+  },
+  {
+   "q": "Why did people laugh when they all walked?",
+   "options": ["the Mullah fell down", "they had a donkey but nobody rode it", "the son was singing"],
+   "answer": 1
+  },
+  {
+   "q": "What lesson does the Mullah give his son?",
+   "options": ["always listen to other people", "never take a donkey to the market", "you can't please everyone, so do what you think is right"],
+   "answer": 2
+  }
+ ],
+ "after": "Mullah Nasreddin (ملا نصرالدین) is the wise fool of a thousand stories told from the Balkans to China; Turks call him Nasreddin Hoca, and in Iran he is simply ملا. This story is often closed with the proverb در دروازه را می‌شود بست، اما دهان مردم را نمی‌شود بست 'you can shut the city gate, but you can't shut people's mouths'. Notice چه + noun + ی for an exclamation: چه پسر بی‌ادبی! 'what a rude boy!'. هنوز … نرسیده بودند که … 'they had not yet arrived when …' is the Persian way to say that something happened before an action was finished. هر کاری بکنیم 'whatever we do' takes the subjunctive, and نمی‌شود + short infinitive (نمی‌شود راضی کرد) means 'it's impossible to …'. سوار and پیاده work with two verbs each: سوار شدن / پیاده شدن 'get on / get off', سوار کردن 'put someone on', and پیاده رفتن 'go on foot'."
+}
