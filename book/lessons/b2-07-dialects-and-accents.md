@@ -356,10 +356,10 @@ A few points of tact:
 
 **Put the words in order**
 
-1. شیرازی‌ها / خیلی / می‌زنند. / آرام / حرف — Shirazis speak very calmly.
-2. زبان‌های / فارسی / از / کردی / ایرانی‌اند. / هر / دو / و — Kurdish and Persian are both Iranian languages.
-3. می‌زنیم. / لری / به / در / خانه / حرف — At home we speak Lori.
-4. تهرانی / بیشتر / به / لهجه‌ی / فیلم‌ها / است. — Most films are in the Tehrani accent.
+1. شیرازی‌ها / می‌زنند. / خیلی / حرف / آرام — Shirazis speak very calmly.
+2. از / هر / فارسی / زبان‌های / ایرانی‌اند. / کردی / و / دو — Kurdish and Persian are both Iranian languages.
+3. لری / می‌زنیم. / در / حرف / به / خانه — At home we speak Lori.
+4. فیلم‌ها / تهرانی / به / است. / بیشتر / لهجه‌ی — Most films are in the Tehrani accent.
 
 <details><summary>Answers</summary>
 

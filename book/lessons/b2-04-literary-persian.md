@@ -428,10 +428,10 @@ In speech, literary words are used for effect: to be solemn at a funeral, to be 
 
 **Put the words in order**
 
-1. خواند. / نزد / روزی / مرا / خود — One day he called me to him.
-2. زر / خویش / شب / هر / بشمردی. — Every night he would count his gold.
-3. از / یکی / دیگری / شدند. / مهمانان / وارد / پس — The guests came in one after another.
-4. گذشت / سال‌ها / فروخته / و / خانه / شد. — Years passed and the house was sold.
+1. خود / نزد / مرا / خواند. / روزی — One day he called me to him.
+2. هر / بشمردی. / خویش / زر / شب — Every night he would count his gold.
+3. از / پس / وارد / مهمانان / یکی / شدند. / دیگری — The guests came in one after another.
+4. سال‌ها / فروخته / گذشت / شد. / و / خانه — Years passed and the house was sold.
 
 <details><summary>Answers</summary>
 

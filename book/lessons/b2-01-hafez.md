@@ -447,10 +447,10 @@ One old story claims that Hafez borrowed his Arabic first line from a verse attr
 
 **Put the words in order**
 
-1. شیراز / آمد. / به / حافظ / دنیا / در — Hafez was born in Shiraz.
-2. جرس / که / فریاد / محمل‌ها / بربندید / می‌دارد — The caravan bell cries out, 'Tie on your litters!'
-3. را / از / می‌ترساند. / زاهد / شراب / مردم — The ascetic frightens people away from wine.
-4. فال / از / می‌گیرند. / حافظ / هنوز / خیلی‌ها — Many people still take omens from Hafez.
+1. در / به / آمد. / حافظ / دنیا / شیراز — Hafez was born in Shiraz.
+2. جرس / می‌دارد / فریاد / محمل‌ها / بربندید / که — The caravan bell cries out, 'Tie on your litters!'
+3. را / از / مردم / شراب / می‌ترساند. / زاهد — The ascetic frightens people away from wine.
+4. از / خیلی‌ها / فال / هنوز / حافظ / می‌گیرند. — Many people still take omens from Hafez.
 
 <details><summary>Answers</summary>
 

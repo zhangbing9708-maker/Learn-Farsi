@@ -390,10 +390,10 @@ And look at the signs as you walk down any street: نانوایی (*nānvāyi*, 
 
 **Put the words in order**
 
-1. می‌آید. / روز / ده / هر / ساعت / پستچی — The postman comes at ten every day.
-2. این / بچه‌ها / ترسناک / فیلم / برای / است. — This film is scary for children.
-3. سال / همکارم / پیش / بازنشسته / شد. — My colleague retired last year.
-4. را / گذاشت. / گلدان / باغبان / در / گل‌ها — The gardener put the flowers in the vase.
+1. روز / پستچی / هر / ساعت / می‌آید. / ده — The postman comes at ten every day.
+2. فیلم / برای / این / است. / بچه‌ها / ترسناک — This film is scary for children.
+3. سال / بازنشسته / پیش / همکارم / شد. — My colleague retired last year.
+4. را / در / باغبان / گل‌ها / گذاشت. / گلدان — The gardener put the flowers in the vase.
 
 <details><summary>Answers</summary>
 

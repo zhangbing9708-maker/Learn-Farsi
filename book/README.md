@@ -171,6 +171,7 @@ Graded readers, from very easy to literary.
 - [Tales from the Golestan](stories/b1-the-golestan-tales.md) — حکایت‌های گلستان
 - [Kalila and Dimna: the lion and the ox](stories/b1-kalila-and-dimna.md) — کلیله و دمنه: شیر و گاو
 - [The old woman and Sultan Sanjar](stories/b1-the-old-woman-and-sultan-sanjar.md) — پیرزن و سلطان سنجر
+- [Bald Hasan](stories/b1-hasan-kachal.md) — حسن کچل
 
 **Upper intermediate (B2)**
 
@@ -208,6 +209,7 @@ Graded readers, from very easy to literary.
 - [The Mongols and the Timurids](culture/history-mongols-timurids.md) — مغول‌ها و تیموریان
 - [The Safavids and Isfahan](culture/history-safavid-isfahan.md) — صفویان و اصفهان
 - [Nader Shah](culture/history-nader-shah.md) — نادرشاه
+- [Karim Khan Zand and Shiraz](culture/history-karim-khan-zand-and-shiraz.md) — کریم‌خان زند و شیراز
 - [The Qajar century](culture/history-qajar-century.md) — دوران قاجار
 - [From the Constitutional Revolution to the Pahlavis](culture/history-constitutional-revolution-to-pahlavi.md) — از انقلاب مشروطه تا پهلوی
 - [Iran since 1979](culture/history-iran-since-1979.md) — ایران پس از انقلاب

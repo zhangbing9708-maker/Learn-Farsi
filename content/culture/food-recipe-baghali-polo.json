@@ -35,87 +35,225 @@
    "r": "bāghāli-hā rā az pust dar-āvarid.",
    "en": "Pop the broad beans out of their skins.",
    "col": "باقالیا رو از پوست دربیار.",
-   "colR": "bāghāli-yā ro az pust dar-biyār."
+   "colR": "bāghāli-yā ro az pust dar-biyār.",
+   "faV": "باقالی‌ها را اَز پوست دَرآوَرید.",
+   "a": "61b3c0140ba1",
+   "colV": "باقالیا رو اَز پوست دَربیار.",
+   "colA": "6ca7e8b775fd"
   },
   {
    "fa": "شوید را ریز خرد کنید و خوب خشک کنید.",
    "r": "shevid rā riz khord konid va khub khoshk konid.",
-   "en": "Chop the dill finely and dry it well."
+   "en": "Chop the dill finely and dry it well.",
+   "faV": "شِوید را ریز خُرد کُنید و خوب خُشک کُنید.",
+   "a": "c403c9b4a57d"
   },
   {
    "fa": "ماهیچه را با پیاز و سیر سرخ کنید.",
    "r": "māhiche rā bā piyāz o sir sorkh konid.",
-   "en": "Brown the lamb shanks with onion and garlic."
+   "en": "Brown the lamb shanks with onion and garlic.",
+   "faV": "ماهیچه را با پیاز و سیر سُرخ کُنید.",
+   "a": "8771bf8bc4ba"
   },
   {
    "fa": "روی گوشت آب بریزید تا رویش را بپوشاند.",
    "r": "ru-ye gusht āb be-rizid tā ru-yash rā be-pushānad.",
-   "en": "Pour water over the meat until it is covered."
+   "en": "Pour water over the meat until it is covered.",
+   "faV": "رویِ گوشت آب بِریزید تا رویَش را بِپوشانَد.",
+   "a": "d0e50ff13480"
   },
   {
    "fa": "ماهیچه باید سه ساعت روی حرارت کم بپزد.",
    "r": "māhiche bāyad se sā'at ru-ye harārat-e kam be-pazad.",
-   "en": "The lamb shanks need three hours on a low heat."
+   "en": "The lamb shanks need three hours on a low heat.",
+   "faV": "ماهیچه بایَد سه ساعَت رویِ حَرارَتِ کَم بِپَزَد.",
+   "a": "54b3d41c0f59"
   },
   {
    "fa": "باقالی را در دو دقیقه‌ی آخر به برنج اضافه کنید.",
    "r": "bāghāli rā dar do daghighe-ye ākhar be berenj ezāfe konid.",
-   "en": "Add the broad beans to the rice for the last two minutes."
+   "en": "Add the broad beans to the rice for the last two minutes.",
+   "faV": "باقالی را دَر دو دَقیقه‌یِ آخَر به بِرِنج اِضافه کُنید.",
+   "a": "1ff77f83674f"
   },
   {
    "fa": "برنج و شوید را لایه‌لایه در قابلمه بریزید.",
    "r": "berenj o shevid rā lāye-lāye dar ghāblame be-rizid.",
    "en": "Put the rice and dill into the pot in layers.",
    "col": "برنج و شویدو لایه‌لایه تو قابلمه بریز.",
-   "colR": "berenj o shevid-o lāye-lāye tu ghāblame be-riz."
+   "colR": "berenj o shevid-o lāye-lāye tu ghāblame be-riz.",
+   "faV": "بِرِنج و شِوید را لایه‌لایه دَر قابلَمه بِریزید.",
+   "a": "4cbbcbd02fa6",
+   "colV": "بِرِنج و شِویدو لایه‌لایه تو قابلَمه بِریز.",
+   "colA": "b7dbb8aa6064"
   },
   {
    "fa": "برای ته‌دیگ، ته قابلمه یک نان لواش بگذارید.",
    "r": "barā-ye tah-dig, tah-e ghāblame yek nān-e lavāsh be-gozārid.",
-   "en": "For the tahdig, put a sheet of lavash in the bottom of the pot."
+   "en": "For the tahdig, put a sheet of lavash in the bottom of the pot.",
+   "faV": "بَرایِ تَه‌دیگ، تَهِ قابلَمه یِک نانِ لَواش بِگُذارید.",
+   "a": "bbdcc5e37b30"
   },
   {
    "fa": "بگذارید برنج یک ساعت دم بکشد.",
    "r": "be-gozārid berenj yek sā'at dam be-keshad.",
    "en": "Let the rice steam for an hour.",
    "col": "بذار برنج یه ساعت دم بکشه.",
-   "colR": "be-zār berenj ye sā'at dam be-keshe."
+   "colR": "be-zār berenj ye sā'at dam be-keshe.",
+   "faV": "بِگُذارید بِرِنج یِک ساعَت دَم بِکِشَد.",
+   "a": "1763625350d5",
+   "colV": "بِذار بِرِنج یه ساعَت دَم بِکِشه.",
+   "colA": "f4d702b3161e"
   },
   {
    "fa": "باقالی‌پلو را با ماهیچه و سس آن سرو کنید.",
    "r": "bāghāli-polow rā bā māhiche va sos-e ān serv konid.",
-   "en": "Serve the baghali polo with the lamb shanks and their sauce."
+   "en": "Serve the baghali polo with the lamb shanks and their sauce.",
+   "faV": "باقالی‌پُلَو را با ماهیچه و سُسِ آن سِرو کُنید.",
+   "a": "d5b13569afad"
   },
   {
    "fa": "بوی شوید همه‌ی آشپزخانه را پر کرده است.",
    "r": "bu-ye shevid hame-ye āshpazkhāne rā por karde ast.",
-   "en": "The smell of dill has filled the whole kitchen."
+   "en": "The smell of dill has filled the whole kitchen.",
+   "faV": "بویِ شِوید هَمه‌یِ آشپَزخانه را پُر کَرده اَست.",
+   "a": "0ea07722a1e4"
   },
   {
    "fa": "در بهار باقالی تازه به بازار می‌آید.",
    "r": "dar bahār bāghāli-ye tāze be bāzār mi-āyad.",
-   "en": "In spring fresh broad beans come to the market."
+   "en": "In spring fresh broad beans come to the market.",
+   "faV": "دَر بَهار باقالیِ تازه به بازار می‌آیَد.",
+   "a": "294f8e005596"
   }
  ],
  "vocab": [
-  {"fa": "باقالی", "r": "bāghāli", "en": "broad beans, fava beans"},
-  {"fa": "باقالی‌پلو", "r": "bāghāli-polow", "en": "rice with broad beans and dill"},
-  {"fa": "شوید", "r": "shevid", "en": "dill"},
-  {"fa": "ماهیچه", "r": "māhiche", "en": "lamb shank; muscle"},
-  {"fa": "گوشت", "r": "gusht", "en": "meat"},
-  {"fa": "دارچین", "r": "dārchin", "en": "cinnamon"},
-  {"fa": "لواش", "r": "lavāsh", "en": "lavash, thin flat bread"},
-  {"fa": "لایه", "r": "lāye", "en": "layer"},
-  {"fa": "لایه‌لایه", "r": "lāye-lāye", "en": "in layers"},
-  {"fa": "پوست", "r": "pust", "en": "skin, peel"},
-  {"fa": "درآوردن", "r": "dar-āvardan", "en": "to take out"},
-  {"fa": "پوشاندن", "r": "pushāndan", "en": "to cover"},
-  {"fa": "خشک کردن", "r": "khoshk kardan", "en": "to dry"},
-  {"fa": "حرارت", "r": "harārat", "en": "heat"},
-  {"fa": "تازه", "r": "tāze", "en": "fresh"},
-  {"fa": "بهار", "r": "bahār", "en": "spring"},
-  {"fa": "آشپزخانه", "r": "āshpazkhāne", "en": "kitchen"},
-  {"fa": "سس", "r": "sos", "en": "sauce"}
+  {
+   "fa": "باقالی",
+   "r": "bāghāli",
+   "en": "broad beans, fava beans",
+   "faV": "باقالی",
+   "a": "c91e6397b431"
+  },
+  {
+   "fa": "باقالی‌پلو",
+   "r": "bāghāli-polow",
+   "en": "rice with broad beans and dill",
+   "faV": "باقالی‌پُلَو",
+   "a": "9f06888f81b2"
+  },
+  {
+   "fa": "شوید",
+   "r": "shevid",
+   "en": "dill",
+   "faV": "شِوید",
+   "a": "783241d11b3c"
+  },
+  {
+   "fa": "ماهیچه",
+   "r": "māhiche",
+   "en": "lamb shank; muscle",
+   "faV": "ماهیچه",
+   "a": "e4d74c52345d"
+  },
+  {
+   "fa": "گوشت",
+   "r": "gusht",
+   "en": "meat",
+   "faV": "گوشت",
+   "a": "31e3f1834092"
+  },
+  {
+   "fa": "دارچین",
+   "r": "dārchin",
+   "en": "cinnamon",
+   "faV": "دارچین",
+   "a": "7b6f8189af76"
+  },
+  {
+   "fa": "لواش",
+   "r": "lavāsh",
+   "en": "lavash, thin flat bread",
+   "faV": "لَواش",
+   "a": "335324b1313d"
+  },
+  {
+   "fa": "لایه",
+   "r": "lāye",
+   "en": "layer",
+   "faV": "لایه",
+   "a": "40e9cba30526"
+  },
+  {
+   "fa": "لایه‌لایه",
+   "r": "lāye-lāye",
+   "en": "in layers",
+   "faV": "لایه‌لایه",
+   "a": "d24d5b198f6c"
+  },
+  {
+   "fa": "پوست",
+   "r": "pust",
+   "en": "skin, peel",
+   "faV": "پوست",
+   "a": "b948f9b2e3d8"
+  },
+  {
+   "fa": "درآوردن",
+   "r": "dar-āvardan",
+   "en": "to take out",
+   "faV": "دَرآوَردَن",
+   "a": "c84a0276da62"
+  },
+  {
+   "fa": "پوشاندن",
+   "r": "pushāndan",
+   "en": "to cover",
+   "faV": "پوشاندَن",
+   "a": "cf79fec15e04"
+  },
+  {
+   "fa": "خشک کردن",
+   "r": "khoshk kardan",
+   "en": "to dry",
+   "faV": "خُشک کَردَن",
+   "a": "7fcfaf1f8405"
+  },
+  {
+   "fa": "حرارت",
+   "r": "harārat",
+   "en": "heat",
+   "faV": "حَرارَت",
+   "a": "82fcc180b7c6"
+  },
+  {
+   "fa": "تازه",
+   "r": "tāze",
+   "en": "fresh",
+   "faV": "تازه",
+   "a": "84202befc222"
+  },
+  {
+   "fa": "بهار",
+   "r": "bahār",
+   "en": "spring",
+   "faV": "بَهار",
+   "a": "e0728a9102a1"
+  },
+  {
+   "fa": "آشپزخانه",
+   "r": "āshpazkhāne",
+   "en": "kitchen",
+   "faV": "آشپَزخانه",
+   "a": "9390963e9c61"
+  },
+  {
+   "fa": "سس",
+   "r": "sos",
+   "en": "sauce",
+   "faV": "سُس",
+   "a": "13b880c335e9"
+  }
  ],
  "facts": [
   "Baghali means broad bean (fava bean), and shevid means dill.",
@@ -123,5 +261,7 @@
   "Lamb shank, mahicheh, is the classic partner of baghali polo at parties and in restaurants.",
   "In Gilan, broad beans and dill also go into baghala ghatogh, a stew with garlic and eggs.",
   "A sheet of lavash in the bottom of the pot is an easy way to get a crisp tahdig."
- ]
+ ],
+ "titleV": "باقالی‌پُلَو",
+ "titleA": "9f06888f81b2"
 }

@@ -35,87 +35,225 @@
    "r": "zereshk rā pāk konid va khub be-shuyid.",
    "en": "Pick over the barberries and rinse them well.",
    "col": "زرشکو پاک کن و خوب بشور.",
-   "colR": "zereshk-o pāk kon o khub be-shur."
+   "colR": "zereshk-o pāk kon o khub be-shur.",
+   "faV": "زِرِشک را پاک کُنید و خوب بِشویید.",
+   "a": "e2c217930ecc",
+   "colV": "زِرِشکو پاک کُن و خوب بِشور.",
+   "colA": "deac824c3295"
   },
   {
    "fa": "زرشک را ده دقیقه در آب سرد خیس کنید.",
    "r": "zereshk rā dah daghighe dar āb-e sard khis konid.",
-   "en": "Soak the barberries in cold water for ten minutes."
+   "en": "Soak the barberries in cold water for ten minutes.",
+   "faV": "زِرِشک را دَه دَقیقه دَر آبِ سَرد خیس کُنید.",
+   "a": "35c2702c908b"
   },
   {
    "fa": "مرغ را با پیاز و زردچوبه سرخ کنید.",
    "r": "morgh rā bā piyāz o zardchube sorkh konid.",
-   "en": "Brown the chicken with onion and turmeric."
+   "en": "Brown the chicken with onion and turmeric.",
+   "faV": "مُرغ را با پیاز و زَردچوبه سُرخ کُنید.",
+   "a": "53734e17ab33"
   },
   {
    "fa": "یک لیوان آب بریزید و درش را بگذارید.",
    "r": "yek livān āb be-rizid va dar-ash rā be-gozārid.",
    "en": "Add a glass of water and put the lid on.",
    "col": "یه لیوان آب بریز و درشو بذار.",
-   "colR": "ye livān āb be-riz o dar-esh-o be-zār."
+   "colR": "ye livān āb be-riz o dar-esh-o be-zār.",
+   "faV": "یِک لیوان آب بِریزید و دَرَش را بِگُذارید.",
+   "a": "17d3eb681651",
+   "colV": "یه لیوان آب بِریز و دَرِشو بِذار.",
+   "colA": "52977063cde0"
   },
   {
    "fa": "بگذارید مرغ یک ساعت آرام بپزد.",
    "r": "be-gozārid morgh yek sā'at ārām be-pazad.",
-   "en": "Let the chicken cook gently for an hour."
+   "en": "Let the chicken cook gently for an hour.",
+   "faV": "بِگُذارید مُرغ یِک ساعَت آرام بِپَزَد.",
+   "a": "5ea80308b41c"
   },
   {
    "fa": "با دسته‌ی قاشق چند سوراخ در برنج درست کنید.",
    "r": "bā daste-ye ghāshogh chand surākh dar berenj dorost konid.",
-   "en": "Make a few holes in the rice with the handle of a spoon."
+   "en": "Make a few holes in the rice with the handle of a spoon.",
+   "faV": "با دَسته‌یِ قاشُق چَند سوراخ دَر بِرِنج دُرُست کُنید.",
+   "a": "d7a0251d50f6"
   },
   {
    "fa": "دم‌کنی را روی در قابلمه بگذارید.",
    "r": "dam-koni rā ru-ye dar-e ghāblame be-gozārid.",
-   "en": "Put the cloth cover over the lid of the pot."
+   "en": "Put the cloth cover over the lid of the pot.",
+   "faV": "دَم‌کُنی را رویِ دَرِ قابلَمه بِگُذارید.",
+   "a": "bdbda8202190"
   },
   {
    "fa": "شعله را کم کنید و بگذارید برنج دم بکشد.",
    "r": "sho'le rā kam konid va be-gozārid berenj dam be-keshad.",
    "en": "Turn the heat down and let the rice steam.",
    "col": "شعله رو کم کن و بذار برنج دم بکشه.",
-   "colR": "sho'le ro kam kon o be-zār berenj dam be-keshe."
+   "colR": "sho'le ro kam kon o be-zār berenj dam be-keshe.",
+   "faV": "شُعله را کَم کُنید و بِگُذارید بِرِنج دَم بِکِشَد.",
+   "a": "2a173e6617c3",
+   "colV": "شُعله رو کَم کُن و بِذار بِرِنج دَم بِکِشه.",
+   "colA": "658f4573e307"
   },
   {
    "fa": "زرشک زود می‌سوزد، پس فقط یک دقیقه تفتش بدهید.",
    "r": "zereshk zud mi-suzad, pas faghat yek daghighe taft-ash be-dahid.",
-   "en": "Barberries burn quickly, so fry them for only a minute."
+   "en": "Barberries burn quickly, so fry them for only a minute.",
+   "faV": "زِرِشک زود می‌سوزَد، پَس فَقَط یِک دَقیقه تَفتَش بِدَهید.",
+   "a": "1fac1cee0a85"
   },
   {
    "fa": "کمی از برنج را با زعفران رنگ کنید.",
    "r": "kami az berenj rā bā za'farān rang konid.",
-   "en": "Colour some of the rice with saffron."
+   "en": "Colour some of the rice with saffron.",
+   "faV": "کَمی اَز بِرِنج را با زَعفَران رَنگ کُنید.",
+   "a": "7cc08f6fd8b0"
   },
   {
    "fa": "زرشک‌پلو را با مرغ و ته‌دیگ سرو کنید.",
    "r": "zereshk-polow rā bā morgh o tah-dig serv konid.",
-   "en": "Serve the barberry rice with the chicken and tahdig."
+   "en": "Serve the barberry rice with the chicken and tahdig.",
+   "faV": "زِرِشک‌پُلَو را با مُرغ و تَه‌دیگ سِرو کُنید.",
+   "a": "571f1a85ee39"
   },
   {
    "fa": "زرشک‌پلو با مرغ غذای مهمانی است.",
    "r": "zereshk-polow bā morgh ghazā-ye mehmāni ast.",
-   "en": "Barberry rice with chicken is a party dish."
+   "en": "Barberry rice with chicken is a party dish.",
+   "faV": "زِرِشک‌پُلَو با مُرغ غَذایِ مِهمانی اَست.",
+   "a": "0248db7a8f02"
   }
  ],
  "vocab": [
-  {"fa": "زرشک", "r": "zereshk", "en": "barberries"},
-  {"fa": "زرشک‌پلو", "r": "zereshk-polow", "en": "rice with barberries"},
-  {"fa": "مرغ", "r": "morgh", "en": "chicken"},
-  {"fa": "ران مرغ", "r": "rān-e morgh", "en": "chicken leg"},
-  {"fa": "زعفران", "r": "za'farān", "en": "saffron"},
-  {"fa": "قابلمه", "r": "ghāblame", "en": "pot, saucepan"},
-  {"fa": "در", "r": "dar", "en": "lid; door"},
-  {"fa": "دم‌کنی", "r": "dam-koni", "en": "cloth cover for a pot lid"},
-  {"fa": "دم کشیدن", "r": "dam keshidan", "en": "to steam (of rice)"},
-  {"fa": "ته‌دیگ", "r": "tah-dig", "en": "tahdig, crisp rice crust"},
-  {"fa": "لیوان", "r": "livān", "en": "glass, cup (as a measure)"},
-  {"fa": "پاک کردن", "r": "pāk kardan", "en": "to clean, to pick over"},
-  {"fa": "رنگ کردن", "r": "rang kardan", "en": "to colour"},
-  {"fa": "کم کردن", "r": "kam kardan", "en": "to lower, to reduce"},
-  {"fa": "سوراخ", "r": "surākh", "en": "hole"},
-  {"fa": "شکر", "r": "shekar", "en": "sugar"},
-  {"fa": "پسته", "r": "peste", "en": "pistachio"},
-  {"fa": "مهمانی", "r": "mehmāni", "en": "party, dinner with guests"}
+  {
+   "fa": "زرشک",
+   "r": "zereshk",
+   "en": "barberries",
+   "faV": "زِرِشک",
+   "a": "bf4328f2a6de"
+  },
+  {
+   "fa": "زرشک‌پلو",
+   "r": "zereshk-polow",
+   "en": "rice with barberries",
+   "faV": "زِرِشک‌پُلَو",
+   "a": "17405ff2c3bd"
+  },
+  {
+   "fa": "مرغ",
+   "r": "morgh",
+   "en": "chicken",
+   "faV": "مُرغ",
+   "a": "fecd7ca0b1be"
+  },
+  {
+   "fa": "ران مرغ",
+   "r": "rān-e morgh",
+   "en": "chicken leg",
+   "faV": "رانِ مُرغ",
+   "a": "cc40ecf5679c"
+  },
+  {
+   "fa": "زعفران",
+   "r": "za'farān",
+   "en": "saffron",
+   "faV": "زَعفَران",
+   "a": "13452bbd3f73"
+  },
+  {
+   "fa": "قابلمه",
+   "r": "ghāblame",
+   "en": "pot, saucepan",
+   "faV": "قابلَمه",
+   "a": "8be135216ba0"
+  },
+  {
+   "fa": "در",
+   "r": "dar",
+   "en": "lid; door",
+   "faV": "دَر",
+   "a": "5bf04a1109e0"
+  },
+  {
+   "fa": "دم‌کنی",
+   "r": "dam-koni",
+   "en": "cloth cover for a pot lid",
+   "faV": "دَم‌کُنی",
+   "a": "02ee9fb7a4e7"
+  },
+  {
+   "fa": "دم کشیدن",
+   "r": "dam keshidan",
+   "en": "to steam (of rice)",
+   "faV": "دَم کِشیدَن",
+   "a": "3284f8525b52"
+  },
+  {
+   "fa": "ته‌دیگ",
+   "r": "tah-dig",
+   "en": "tahdig, crisp rice crust",
+   "faV": "تَه‌دیگ",
+   "a": "eb24fd517141"
+  },
+  {
+   "fa": "لیوان",
+   "r": "livān",
+   "en": "glass, cup (as a measure)",
+   "faV": "لیوان",
+   "a": "1982654289af"
+  },
+  {
+   "fa": "پاک کردن",
+   "r": "pāk kardan",
+   "en": "to clean, to pick over",
+   "faV": "پاک کَردَن",
+   "a": "c72d3fa6ec28"
+  },
+  {
+   "fa": "رنگ کردن",
+   "r": "rang kardan",
+   "en": "to colour",
+   "faV": "رَنگ کَردَن",
+   "a": "8893c3e2c6dd"
+  },
+  {
+   "fa": "کم کردن",
+   "r": "kam kardan",
+   "en": "to lower, to reduce",
+   "faV": "کَم کَردَن",
+   "a": "30a0fae5a559"
+  },
+  {
+   "fa": "سوراخ",
+   "r": "surākh",
+   "en": "hole",
+   "faV": "سوراخ",
+   "a": "8dcb7c7c8909"
+  },
+  {
+   "fa": "شکر",
+   "r": "shekar",
+   "en": "sugar",
+   "faV": "شِکَر",
+   "a": "1e05438a8321"
+  },
+  {
+   "fa": "پسته",
+   "r": "peste",
+   "en": "pistachio",
+   "faV": "پِسته",
+   "a": "17b713fc6193"
+  },
+  {
+   "fa": "مهمانی",
+   "r": "mehmāni",
+   "en": "party, dinner with guests",
+   "faV": "مِهمانی",
+   "a": "793dedd636fc"
+  }
  ],
  "facts": [
   "Iran grows almost all of the world's barberries, most of them in South Khorasan around Birjand and Qaen.",
@@ -123,5 +261,7 @@
   "A dam-koni, a cloth cover on the lid, keeps drops of steam from falling back onto the rice.",
   "Zereshk polo ba morgh is one of the most common dishes at Iranian weddings and parties.",
   "Iranian cooks grind saffron with a little sugar and 'brew' it in hot water before using it."
- ]
+ ],
+ "titleV": "زِرِشک‌پُلَو با مُرغ",
+ "titleA": "a3e504fa8dbc"
 }

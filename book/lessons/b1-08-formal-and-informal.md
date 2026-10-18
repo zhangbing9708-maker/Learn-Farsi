@@ -452,10 +452,10 @@ The safe rule for a learner is **start formal**. If an Iranian wants you to swit
 
 **Put the words in order**
 
-1. ما / هستند. / استاد / ایشان — She is our professor.
-2. میل / بفرمایید، / کنید. / چای — Please, have some tea.
-3. موکول / جلسه / به / خواهشمند / چهارشنبه / شود. / است — Please postpone the meeting to Wednesday.
-4. بنده / با / شما / نظر / موافقم. — I agree with your view.
+1. استاد / ایشان / ما / هستند. — She is our professor.
+2. چای / بفرمایید، / کنید. / میل — Please, have some tea.
+3. جلسه / شود. / به / موکول / چهارشنبه / خواهشمند / است — Please postpone the meeting to Wednesday.
+4. بنده / با / شما / موافقم. / نظر — I agree with your view.
 
 <details><summary>Answers</summary>
 

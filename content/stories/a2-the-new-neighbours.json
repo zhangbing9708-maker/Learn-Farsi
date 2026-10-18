@@ -14,22 +14,30 @@
     {
      "fa": "یک روز صبح، کامیونی جلوی ساختمان مینا و رضا ایستاد.",
      "r": "yek ruz sobh, kāmyun-i jelo-ye sākhtemān-e Minā o Rezā istād.",
-     "en": "One morning a lorry stopped in front of Mina and Reza's building."
+     "en": "One morning a lorry stopped in front of Mina and Reza's building.",
+     "faV": "یِک روز صُبح، کامیونی جِلویِ ساختِمانِ مینا و رِضا ایستاد.",
+     "a": "73f481c74159"
     },
     {
      "fa": "خانواده‌ی جدیدی به آپارتمان روبه‌رو آمد.",
      "r": "khānevāde-ye jadid-i be āpārtemān-e ru-be-ru āmad.",
-     "en": "A new family was moving into the flat opposite."
+     "en": "A new family was moving into the flat opposite.",
+     "faV": "خانِواده‌یِ جَدیدی به آپارتِمانِ روبه‌رو آمَد.",
+     "a": "8b2137bc621b"
     },
     {
      "fa": "اسم آن‌ها لیلا و داریوش بود و یک پسر کوچک داشتند.",
      "r": "esm-e ān-hā Leylā o Dāriush bud o yek pesar-e kuchak dāshtand.",
-     "en": "They were called Leila and Dariush, and they had a little boy."
+     "en": "They were called Leila and Dariush, and they had a little boy.",
+     "faV": "اِسمِ آن‌ها لَیلا و داریوش بود و یِک پِسَرِ کوچَک داشتَند.",
+     "a": "95a7b943f15e"
     },
     {
      "fa": "آن‌ها تمام روز وسایلشان را بالا می‌بردند و خیلی خسته بودند.",
      "r": "ān-hā tamām-e ruz vasāyel-eshān rā bālā mi-bordand o kheyli khaste budand.",
-     "en": "All day they were carrying their things upstairs, and they were very tired."
+     "en": "All day they were carrying their things upstairs, and they were very tired.",
+     "faV": "آن‌ها تَمامِ روز وَسایِلِشان را بالا می‌بُردَند و خَیلی خَسته بودَند.",
+     "a": "fb37e7cf9457"
     }
    ]
   },
@@ -38,22 +46,30 @@
     {
      "fa": "عصر، مینا یک ظرف شله‌زرد درست کرد و روی آن با دارچین گل کشید.",
      "r": "asr, Minā yek zarf shole-zard dorost kard o ru-ye ān bā dārchin gol keshid.",
-     "en": "In the afternoon Mina made a dish of sholeh zard and drew a flower on it with cinnamon."
+     "en": "In the afternoon Mina made a dish of sholeh zard and drew a flower on it with cinnamon.",
+     "faV": "عَصر، مینا یِک ظَرف شُله‌زَرد دُرُست کَرد و رویِ آن با دارچین گُل کِشید.",
+     "a": "60051a7cf6b2"
     },
     {
      "fa": "او به سارا گفت: «این را برای همسایه‌های جدید ببر و بگو خوش آمدید.»",
      "r": "u be Sārā goft: «in rā barā-ye hamsāye-hā-ye jadid bebar o begu khosh āmadid.»",
-     "en": "She said to Sara: \"Take this to the new neighbours and tell them 'welcome'.\""
+     "en": "She said to Sara: \"Take this to the new neighbours and tell them 'welcome'.\"",
+     "faV": "او به سارا گُفت: «این را بَرایِ هَمسایه‌هایِ جَدید بِبَر و بِگو خوش آمَدید.»",
+     "a": "3f0079207c60"
     },
     {
      "fa": "سارا زنگ در را زد و لیلا در را باز کرد.",
      "r": "Sārā zang-e dar rā zad o Leylā dar rā bāz kard.",
-     "en": "Sara rang the doorbell and Leila opened the door."
+     "en": "Sara rang the doorbell and Leila opened the door.",
+     "faV": "سارا زَنگِ دَر را زَد و لَیلا دَر را باز کَرد.",
+     "a": "f3f565d88148"
     },
     {
      "fa": "لیلا ظرف را گرفت و گفت: «وای، چه مهربان! دست مادرت درد نکند.»",
      "r": "Leylā zarf rā gereft o goft: «vāy, che mehrabān! dast-e mādar-at dard na-konad.»",
-     "en": "Leila took the dish and said: \"Oh, how kind! Please thank your mother for me.\""
+     "en": "Leila took the dish and said: \"Oh, how kind! Please thank your mother for me.\"",
+     "faV": "لَیلا ظَرف را گِرِفت و گُفت: «وای، چه مِهرَبان! دَستِ مادَرَت دَرد نَکُنَد.»",
+     "a": "d4eeae3d6b0b"
     }
    ]
   },
@@ -62,22 +78,30 @@
     {
      "fa": "سه روز بعد، زنگ خانه‌ی مینا به صدا درآمد.",
      "r": "se ruz ba'd, zang-e khāne-ye Minā be sedā dar-āmad.",
-     "en": "Three days later the bell rang at Mina's flat."
+     "en": "Three days later the bell rang at Mina's flat.",
+     "faV": "سه روز بَعد، زَنگِ خانه‌یِ مینا به صِدا دَرآمَد.",
+     "a": "02545938b016"
     },
     {
      "fa": "لیلا پشت در بود و همان ظرف در دستش بود، اما ظرف خالی نبود.",
      "r": "Leylā posht-e dar bud o hamān zarf dar dast-ash bud, ammā zarf khāli na-bud.",
-     "en": "Leila was at the door with the same dish in her hand – but the dish wasn't empty."
+     "en": "Leila was at the door with the same dish in her hand – but the dish wasn't empty.",
+     "faV": "لَیلا پُشتِ دَر بود و هَمان ظَرف دَر دَستَش بود، اَمّا ظَرف خالی نَبود.",
+     "a": "20a8219105aa"
     },
     {
      "fa": "حالا داخل آن، شیرینی خانگی بود.",
      "r": "hālā dākhel-e ān, shirini-ye khānegi bud.",
-     "en": "Now there were homemade biscuits in it."
+     "en": "Now there were homemade biscuits in it.",
+     "faV": "حالا داخِلِ آن، شیرینیِ خانِگی بود.",
+     "a": "58562107ead6"
     },
     {
      "fa": "لیلا گفت: «ممنون از شله‌زرد خوشمزه‌تان. این شیرینی‌ها را خودم پخته‌ام.»",
      "r": "Leylā goft: «mamnun az shole-zard-e khoshmaze-tān. in shirini-hā rā khod-am pokhte-am.»",
-     "en": "Leila said: \"Thank you for your delicious sholeh zard. I baked these biscuits myself.\""
+     "en": "Leila said: \"Thank you for your delicious sholeh zard. I baked these biscuits myself.\"",
+     "faV": "لَیلا گُفت: «مَمنون اَز شُله‌زَردِ خوشمَزه‌تان. این شیرینی‌ها را خودَم پُخته‌اَم.»",
+     "a": "b3346b55505f"
     }
    ]
   },
@@ -86,74 +110,196 @@
     {
      "fa": "بعد از رفتن لیلا، سارا پرسید: «مامان، چرا ظرف را خالی پس نداد؟»",
      "r": "ba'd az raftan-e Leylā, Sārā porsid: «māmān, cherā zarf rā khāli pas na-dād?»",
-     "en": "After Leila had gone, Sara asked: \"Mum, why didn't she give the dish back empty?\""
+     "en": "After Leila had gone, Sara asked: \"Mum, why didn't she give the dish back empty?\"",
+     "faV": "بَعد اَز رَفتَنِ لَیلا، سارا پُرسید: «مامان، چِرا ظَرف را خالی پَس نَداد؟»",
+     "a": "b8810a73c724"
     },
     {
      "fa": "مینا گفت: «در ایران رسم است که ظرف همسایه را خالی پس ندهیم.»",
      "r": "Minā goft: «dar Irān rasm ast ke zarf-e hamsāye rā khāli pas na-dahim.»",
-     "en": "Mina said: \"In Iran it's the custom not to give a neighbour's dish back empty.\""
+     "en": "Mina said: \"In Iran it's the custom not to give a neighbour's dish back empty.\"",
+     "faV": "مینا گُفت: «دَر ایران رَسم اَست که ظَرفِ هَمسایه را خالی پَس نَدَهیم.»",
+     "a": "58cdc5dfcba0"
     },
     {
      "fa": "«همسایه‌ها این‌طوری با هم دوست می‌شوند.»",
      "r": "«hamsāye-hā in-towri bā ham dust mi-shavand.»",
-     "en": "\"That's how neighbours become friends.\""
+     "en": "\"That's how neighbours become friends.\"",
+     "faV": "«هَمسایه‌ها این‌طَوری با هَم دوست می‌شَوَند.»",
+     "a": "2eabd600f5d1"
     },
     {
      "fa": "سارا یک شیرینی برداشت و گفت: «پس دفعه‌ی بعد، ظرف را با چه چیزی پر کنیم؟»",
      "r": "Sārā yek shirini bar-dāsht o goft: «pas daf'e-ye ba'd, zarf rā bā che chiz-i por konim?»",
-     "en": "Sara took a biscuit and said: \"So next time, what shall we fill the dish with?\""
+     "en": "Sara took a biscuit and said: \"So next time, what shall we fill the dish with?\"",
+     "faV": "سارا یِک شیرینی بَرداشت و گُفت: «پَس دَفعه‌یِ بَعد، ظَرف را با چه چیزی پُر کُنیم؟»",
+     "a": "5497319cd45c"
     },
     {
      "fa": "مینا خندید: «با یک ظرف آش! و این بازی هیچ‌وقت تمام نمی‌شود.»",
      "r": "Minā khandid: «bā yek zarf āsh! va in bāzi hich-vaght tamām nemi-shavad.»",
-     "en": "Mina laughed: \"With a bowl of ash! And this game never ends.\""
+     "en": "Mina laughed: \"With a bowl of ash! And this game never ends.\"",
+     "faV": "مینا خَندید: «با یِک ظَرف آش! و این بازی هیچ‌وَقت تَمام نِمی‌شَوَد.»",
+     "a": "924b121845b6"
     }
    ]
   }
  ],
  "vocab": [
-  {"fa": "کامیون", "r": "kāmyun", "en": "lorry, truck"},
-  {"fa": "ساختمان", "r": "sākhtemān", "en": "building"},
-  {"fa": "روبه‌رو", "r": "ru-be-ru", "en": "opposite, facing"},
-  {"fa": "همسایه", "r": "hamsāye", "en": "neighbour"},
-  {"fa": "وسایل", "r": "vasāyel", "en": "things, belongings, equipment"},
-  {"fa": "ظرف", "r": "zarf", "en": "dish, container"},
-  {"fa": "شله‌زرد", "r": "shole-zard", "en": "sholeh zard, saffron rice pudding"},
-  {"fa": "دارچین", "r": "dārchin", "en": "cinnamon"},
-  {"fa": "زنگ", "r": "zang", "en": "bell, doorbell"},
-  {"fa": "دست شما درد نکند", "r": "dast-e shomā dard na-konad", "en": "thank you (for your effort) – literally 'may your hand not hurt'"},
-  {"fa": "خالی", "r": "khāli", "en": "empty"},
-  {"fa": "خانگی", "r": "khānegi", "en": "homemade"},
-  {"fa": "پختن", "r": "pokhtan", "en": "to cook, bake"},
-  {"fa": "پس دادن", "r": "pas dādan", "en": "to give back, return"},
-  {"fa": "رسم", "r": "rasm", "en": "custom, tradition"}
+  {
+   "fa": "کامیون",
+   "r": "kāmyun",
+   "en": "lorry, truck",
+   "faV": "کامیون",
+   "a": "8f42b8d41cb7"
+  },
+  {
+   "fa": "ساختمان",
+   "r": "sākhtemān",
+   "en": "building",
+   "faV": "ساختِمان",
+   "a": "0270ef4e4793"
+  },
+  {
+   "fa": "روبه‌رو",
+   "r": "ru-be-ru",
+   "en": "opposite, facing",
+   "faV": "روبه‌رو",
+   "a": "d42549fd6838"
+  },
+  {
+   "fa": "همسایه",
+   "r": "hamsāye",
+   "en": "neighbour",
+   "faV": "هَمسایه",
+   "a": "1eebc0594655"
+  },
+  {
+   "fa": "وسایل",
+   "r": "vasāyel",
+   "en": "things, belongings, equipment",
+   "faV": "وَسایِل",
+   "a": "d1c05187befe"
+  },
+  {
+   "fa": "ظرف",
+   "r": "zarf",
+   "en": "dish, container",
+   "faV": "ظَرف",
+   "a": "00ad9c1d88d5"
+  },
+  {
+   "fa": "شله‌زرد",
+   "r": "shole-zard",
+   "en": "sholeh zard, saffron rice pudding",
+   "faV": "شُله‌زَرد",
+   "a": "38295afcaad0"
+  },
+  {
+   "fa": "دارچین",
+   "r": "dārchin",
+   "en": "cinnamon",
+   "faV": "دارچین",
+   "a": "7b6f8189af76"
+  },
+  {
+   "fa": "زنگ",
+   "r": "zang",
+   "en": "bell, doorbell",
+   "faV": "زَنگ",
+   "a": "65c151fb1228"
+  },
+  {
+   "fa": "دست شما درد نکند",
+   "r": "dast-e shomā dard na-konad",
+   "en": "thank you (for your effort) – literally 'may your hand not hurt'",
+   "faV": "دَستِ شُما دَرد نَکُنَد",
+   "a": "68c0a65436fc"
+  },
+  {
+   "fa": "خالی",
+   "r": "khāli",
+   "en": "empty",
+   "faV": "خالی",
+   "a": "8add49191a07"
+  },
+  {
+   "fa": "خانگی",
+   "r": "khānegi",
+   "en": "homemade",
+   "faV": "خانِگی",
+   "a": "be9a69a3fb96"
+  },
+  {
+   "fa": "پختن",
+   "r": "pokhtan",
+   "en": "to cook, bake",
+   "faV": "پُختَن",
+   "a": "6cd2fd8f66a5"
+  },
+  {
+   "fa": "پس دادن",
+   "r": "pas dādan",
+   "en": "to give back, return",
+   "faV": "پَس دادَن",
+   "a": "3ec0f3ead24f"
+  },
+  {
+   "fa": "رسم",
+   "r": "rasm",
+   "en": "custom, tradition",
+   "faV": "رَسم",
+   "a": "fc78b51cd65d"
+  }
  ],
  "questions": [
   {
    "q": "Who moved into the flat opposite?",
-   "options": ["Ms Ahmadi and her husband", "Leila, Dariush and their little boy", "Tom and Amir"],
+   "options": [
+    "Ms Ahmadi and her husband",
+    "Leila, Dariush and their little boy",
+    "Tom and Amir"
+   ],
    "answer": 1
   },
   {
    "q": "What did Mina send to the new neighbours?",
-   "options": ["a dish of sholeh zard", "a plate of rice", "a box of tea"],
+   "options": [
+    "a dish of sholeh zard",
+    "a plate of rice",
+    "a box of tea"
+   ],
    "answer": 0
   },
   {
    "q": "What did Leila say when she took the dish?",
-   "options": ["'I don't like sweets'", "'Please come in'", "'How kind! Thank your mother for me'"],
+   "options": [
+    "'I don't like sweets'",
+    "'Please come in'",
+    "'How kind! Thank your mother for me'"
+   ],
    "answer": 2
   },
   {
    "q": "How did the dish come back?",
-   "options": ["empty and washed", "full of homemade biscuits", "broken"],
+   "options": [
+    "empty and washed",
+    "full of homemade biscuits",
+    "broken"
+   ],
    "answer": 1
   },
   {
    "q": "Why didn't Leila return the dish empty?",
-   "options": ["it is an Iranian custom", "she forgot to wash it", "Sara asked her to"],
+   "options": [
+    "it is an Iranian custom",
+    "she forgot to wash it",
+    "Sara asked her to"
+   ],
    "answer": 0
   }
  ],
- "after": "Sending food to new neighbours – and to anyone who is moving house, ill or has guests coming – is an old Iranian custom, and a dish is never returned empty: you send it back with something you have made yourself, so the friendship goes on. شله‌زرد, a saffron and rice pudding decorated with cinnamon patterns, is also one of the classic نذری foods, cooked to fulfil a vow and shared with the whole street. دست شما درد نکند 'may your hand not hurt' is the everyday thank-you for something someone has made or done for you; the polite answer is سرتان درد نکند 'may your head not hurt'. Notice رسم است که + subjunctive (رسم است که ظرف را خالی پس ندهیم 'it is the custom that we don't give the dish back empty') and the present perfect for something just done: خودم پخته‌ام 'I baked them myself'."
+ "after": "Sending food to new neighbours – and to anyone who is moving house, ill or has guests coming – is an old Iranian custom, and a dish is never returned empty: you send it back with something you have made yourself, so the friendship goes on. شله‌زرد, a saffron and rice pudding decorated with cinnamon patterns, is also one of the classic نذری foods, cooked to fulfil a vow and shared with the whole street. دست شما درد نکند 'may your hand not hurt' is the everyday thank-you for something someone has made or done for you; the polite answer is سرتان درد نکند 'may your head not hurt'. Notice رسم است که + subjunctive (رسم است که ظرف را خالی پس ندهیم 'it is the custom that we don't give the dish back empty') and the present perfect for something just done: خودم پخته‌ام 'I baked them myself'.",
+ "titleV": "هَمسایه‌هایِ جَدید",
+ "titleA": "7926c37a7c78"
 }
