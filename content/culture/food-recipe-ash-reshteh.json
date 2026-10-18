@@ -1,0 +1,127 @@
+{
+ "id": "food-recipe-ash-reshteh",
+ "topic": "food",
+ "title": "Recipe: ash reshteh",
+ "titleFa": "آش رشته",
+ "titleR": "āsh-e reshte",
+ "image": "ash-reshteh",
+ "summary": "Cook along with ash reshteh, the thick Iranian soup of herbs, beans and noodles, finished with tangy kashk, fried onion, garlic and mint.",
+ "body": [
+  {
+   "h": "A soup for winter, Nowruz and sharing",
+   "md": "[[آش|āsh|thick soup]] is so central to Iranian cooking that the word for cook is [[آشپز|āshpaz|cook; lit. ash-cooker]] and the kitchen is the [[آشپزخانه|āshpazkhāne|kitchen]]. Of all the ashes, [[آش رشته|āsh-e reshte|herb and noodle soup]] is the best known: a thick green soup of herbs, beans and lentils with flat noodles ([[رشته|reshte|noodles]]), served with kashk and crisp toppings.\n\nIt is a winter dish and a dish for occasions. Many families cook it in the days around Nowruz – some say the noodles stand for the threads of good fortune in the new year. It is cooked a few days after someone leaves on a long journey, as [[آش پشت پا|āsh-e posht-e pā|'behind-the-foot' ash]], to wish them a safe return. And it is one of the commonest [[نذری|nazri|votive food]] dishes, stirred in huge pots and shared with neighbours.",
+   "image": "nazri"
+  },
+  {
+   "h": "Ingredients (for 4)",
+   "md": "- ⅓ cup (65 g) dried chickpeas ([[نخود|nokhod|chickpeas]])\n- ⅓ cup (65 g) dried red kidney or pinto beans ([[لوبیا|lubiyā|beans]])\n- ⅓ cup (65 g) green or brown lentils ([[عدس|'adas|lentils]])\n- 200 g Persian ash noodles, or linguine ([[رشته|reshte|noodles]])\n- 400 g (about 6 cups chopped) mixed herbs: parsley, coriander, spinach, chives and a little dill ([[سبزی آش|sabzi-ye āsh|herbs for ash]])\n- 3 onions ([[پیاز|piyāz|onion]]) and 5 cloves of garlic ([[سیر|sir|garlic]])\n- 1 teaspoon turmeric ([[زردچوبه|zardchube|turmeric]])\n- 2 tablespoons dried mint ([[نعنای خشک|na'nā-ye khoshk|dried mint]])\n- 2 litres (8 cups) water or vegetable stock\n- 1 cup (250 ml) liquid kashk ([[کشک|kashk|kashk]])\n- 6 tablespoons oil, salt and black pepper"
+  },
+  {
+   "h": "Method",
+   "md": "1. The night before, soak the chickpeas and beans in plenty of cold water. Drain them.\n2. In a large pot fry one chopped onion in 2 tablespoons of oil with the turmeric. Add the chickpeas, beans and water, cover and simmer for about an hour, until almost tender.\n3. Add the lentils and cook for 20 minutes.\n4. Add the chopped herbs and cook for 30 minutes more, stirring now and then.\n5. Break the noodles in half and add them with some pepper. Cook for 15–20 minutes, stirring often, because the noodles thicken the soup and can stick to the bottom. If it gets too thick, add hot water.\n6. Meanwhile slice the other two onions and fry them slowly until golden ([[پیازداغ|piyāz-dāgh|fried onion]]). Fry the sliced garlic for a minute until pale gold. For the [[نعناداغ|na'nā-dāgh|mint oil]], stir the dried mint into 2 tablespoons of hot oil off the heat.\n7. Mix two-thirds of the kashk with a ladle of hot soup and stir it into the pot. Simmer for 5 minutes, then taste and add salt only if needed.\n8. Ladle into bowls and top with the rest of the kashk, the fried onion, garlic and mint oil."
+  },
+  {
+   "h": "Tips",
+   "md": "- Ash noodles and kashk are both salty, so salt at the very end.\n- Iranian shops sell bags of ready-chopped [[سبزی آش|sabzi-ye āsh|herbs for ash]], fresh or frozen; they save an hour of chopping.\n- Ash thickens as it stands. The next day, warm it with a little water.\n- Canned chickpeas and beans work too: add them with the lentils and shorten the cooking."
+  },
+  {
+   "h": "Variations",
+   "md": "Ash reshteh is usually made without meat. Some families serve it with a splash of vinegar or lime juice instead of kashk, some add a spoonful of flour to thicken it, and Iranians abroad often use linguine when they cannot find reshteh. At nazri time it is cooked in pots big enough for a whole street."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "نخود و لوبیا را از شب قبل خیس کنید.",
+   "r": "nokhod o lubiyā rā az shab-e ghabl khis konid.",
+   "en": "Soak the chickpeas and beans the night before."
+  },
+  {
+   "fa": "حبوبات را یک ساعت بپزید تا نرم شوند.",
+   "r": "hobubāt rā yek sā'at be-pazid tā narm shavand.",
+   "en": "Cook the pulses for an hour until they are soft.",
+   "col": "حبوباتو یه ساعت بپز تا نرم بشن.",
+   "colR": "hobubāt-o ye sā'at be-paz tā narm be-shan."
+  },
+  {
+   "fa": "سبزی آش را بریزید و هر از گاهی هم بزنید.",
+   "r": "sabzi-ye āsh rā be-rizid va har az gāhi ham be-zanid.",
+   "en": "Add the herbs and stir now and then."
+  },
+  {
+   "fa": "رشته را از وسط بشکنید و در آش بریزید.",
+   "r": "reshte rā az vasat be-shkanid va dar āsh be-rizid.",
+   "en": "Break the noodles in half and add them to the soup."
+  },
+  {
+   "fa": "آش را مدام هم بزنید تا ته نگیرد.",
+   "r": "āsh rā modām ham be-zanid tā tah na-girad.",
+   "en": "Keep stirring the soup so it doesn't stick to the bottom.",
+   "col": "آشو مدام هم بزن تا ته نگیره.",
+   "colR": "āsh-o modām ham be-zan tā tah na-gire."
+  },
+  {
+   "fa": "اگر آش خیلی غلیظ شد، کمی آب جوش اضافه کنید.",
+   "r": "agar āsh kheyli ghaliz shod, kami āb-e jush ezāfe konid.",
+   "en": "If the soup gets too thick, add a little boiling water."
+  },
+  {
+   "fa": "کشک را با یک ملاقه آش رقیق کنید.",
+   "r": "kashk rā bā yek malāghe āsh raghigh konid.",
+   "en": "Thin the kashk with a ladle of the soup."
+  },
+  {
+   "fa": "نمک را آخر کار بزنید، چون رشته و کشک شور هستند.",
+   "r": "namak rā ākhar-e kār be-zanid, chon reshte va kashk shur hastand.",
+   "en": "Add salt at the end, because the noodles and kashk are salty."
+  },
+  {
+   "fa": "روی آش کشک، پیازداغ و نعناداغ بریزید.",
+   "r": "ru-ye āsh kashk, piyāz-dāgh va na'nā-dāgh be-rizid.",
+   "en": "Top the soup with kashk, fried onion and mint oil.",
+   "col": "رو آش کشک، پیازداغ و نعناداغ بریز.",
+   "colR": "ru āsh kashk, piyāz-dāgh o na'nā-dāgh be-riz."
+  },
+  {
+   "fa": "آش را داغ داغ بخورید.",
+   "r": "āsh rā dāgh dāgh be-khorid.",
+   "en": "Eat the soup piping hot."
+  },
+  {
+   "fa": "آش رشته غذای شب‌های سرد زمستان است.",
+   "r": "āsh-e reshte ghazā-ye shab-hā-ye sard-e zemestān ast.",
+   "en": "Ash reshteh is food for cold winter nights."
+  },
+  {
+   "fa": "همسایه‌ها آش نذری می‌پزند و پخش می‌کنند.",
+   "r": "hamsāye-hā āsh-e nazri mi-pazand va pakhsh mi-konand.",
+   "en": "The neighbours cook votive ash and hand it out."
+  }
+ ],
+ "vocab": [
+  {"fa": "آش", "r": "āsh", "en": "ash, thick soup"},
+  {"fa": "رشته", "r": "reshte", "en": "noodles; thread"},
+  {"fa": "سبزی آش", "r": "sabzi-ye āsh", "en": "mixed herbs for ash"},
+  {"fa": "نخود", "r": "nokhod", "en": "chickpeas"},
+  {"fa": "لوبیا", "r": "lubiyā", "en": "beans"},
+  {"fa": "عدس", "r": "'adas", "en": "lentils"},
+  {"fa": "حبوبات", "r": "hobubāt", "en": "pulses, beans and lentils"},
+  {"fa": "اسفناج", "r": "esfenāj", "en": "spinach"},
+  {"fa": "کشک", "r": "kashk", "en": "kashk, fermented dried whey"},
+  {"fa": "پیازداغ", "r": "piyāz-dāgh", "en": "fried onion (as a topping)"},
+  {"fa": "ملاقه", "r": "malāghe", "en": "ladle"},
+  {"fa": "کاسه", "r": "kāse", "en": "bowl"},
+  {"fa": "غلیظ", "r": "ghaliz", "en": "thick"},
+  {"fa": "رقیق", "r": "raghigh", "en": "thin, runny"},
+  {"fa": "ته گرفتن", "r": "tah gereftan", "en": "to stick to the bottom of the pot"},
+  {"fa": "پختن", "r": "pokhtan", "en": "to cook"},
+  {"fa": "نذری", "r": "nazri", "en": "votive food, shared to fulfil a vow"},
+  {"fa": "آشپز", "r": "āshpaz", "en": "cook"}
+ ],
+ "facts": [
+  "Ash is the Persian word for a thick soup, and it gives Persian the words ashpaz 'cook' and ashpazkhaneh 'kitchen'.",
+  "Many families cook ash reshteh in the days around Nowruz; some say the noodles stand for the threads of good fortune.",
+  "Ash-e posht-e pa is cooked a few days after someone sets off on a journey, to wish them a safe return.",
+  "Ash reshteh is one of the most common nazri dishes, cooked in huge pots and shared with neighbours.",
+  "Reshteh for ash are flat, salted noodles, so the soup is salted only at the end."
+ ]
+}

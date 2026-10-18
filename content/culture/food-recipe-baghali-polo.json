@@ -1,0 +1,127 @@
+{
+ "id": "food-recipe-baghali-polo",
+ "topic": "food",
+ "title": "Recipe: baghali polo",
+ "titleFa": "باقالی‌پلو",
+ "titleR": "bāghāli-polow",
+ "image": "baghali-polo",
+ "summary": "Cook along with baghali polo: steamed rice layered with broad beans and plenty of dill, crowned with saffron and served with slow-cooked lamb shanks.",
+ "body": [
+  {
+   "h": "Broad beans and dill",
+   "md": "[[باقالی‌پلو|bāghāli-polow|rice with broad beans and dill]] is one of the great mixed rice dishes of Iran. The name says what is in it: [[باقالی|bāghāli|broad beans]] and rice, with so much dill ([[شوید|shevid|dill]]) that the whole pot turns green and fragrant.\n\nIt is a spring dish at heart, cooked when fresh broad beans fill the markets, but with frozen beans and dried dill it is made all year. At parties and in restaurants it is usually served with [[ماهیچه|māhiche|lamb shank]] cooked slowly until the meat falls off the bone – [[باقالی‌پلو با ماهیچه|bāghāli-polow bā māhiche|baghali polo with lamb shank]]. At home it is just as often eaten with chicken, or simply with yoghurt."
+  },
+  {
+   "h": "Ingredients (for 4)",
+   "md": "**For the lamb**\n\n- 4 lamb shanks ([[ماهیچه|māhiche|lamb shank]])\n- 1 large onion ([[پیاز|piyāz|onion]]) and 3 cloves of garlic ([[سیر|sir|garlic]])\n- 1 teaspoon turmeric ([[زردچوبه|zardchube|turmeric]]) and ½ teaspoon cinnamon ([[دارچین|dārchin|cinnamon]])\n- salt and black pepper\n\n**For the rice**\n\n- 3 cups (600 g) basmati rice ([[برنج|berenj|rice]])\n- 500 g (about 3 cups) shelled broad beans, fresh or frozen ([[باقالی|bāghāli|broad beans]])\n- 2 cups (60 g) finely chopped fresh dill, or ⅓ cup dried dill ([[شوید|shevid|dill]])\n- 5 tablespoons oil and 2 tablespoons (30 g) butter ([[کره|kare|butter]])\n- ½ teaspoon ground saffron ([[زعفران|za'farān|saffron]]) dissolved in 4 tablespoons hot water\n- optional: 1 sheet of lavash bread for the tahdig",
+   "image": "saffron"
+  },
+  {
+   "h": "Method",
+   "md": "1. Fry the sliced onion and garlic in a little oil, add the lamb shanks and brown them all over. Add the turmeric, cinnamon, salt and pepper and just enough water to cover. Simmer, covered, for 2½–3 hours, until the meat comes away from the bone, then let the sauce reduce.\n2. Meanwhile wash the rice until the water runs clear and soak it in salted water for 1–2 hours.\n3. Pour boiling water over the broad beans, leave them for a minute, then pop each bean out of its pale skin.\n4. Boil the drained rice in plenty of salted water for 5 minutes, add the beans and boil for 2 minutes more. Drain.\n5. Put 3 tablespoons of oil and 3 of water in the bottom of the pot. For an easy crisp [[ته‌دیگ|tah-dig|tahdig]], lay the lavash on top.\n6. Spoon in the rice in layers, sprinkling dill over each layer, and shape it into a mound. Poke a few holes in it with a spoon handle.\n7. Pour over the rest of the oil, the melted butter and 3 tablespoons of water. Cover with a cloth-wrapped lid and cook for 10 minutes on medium heat, then 50 minutes on the lowest heat.\n8. Mix a cupful of rice with the saffron water. Pile the rice on a platter, top it with the saffron rice and serve the shanks and their sauce beside it."
+  },
+  {
+   "h": "Tips",
+   "md": "- Peeling the beans takes time, but the bright green beans inside are softer and sweeter than the skins.\n- Fresh dill must be dry before it goes in, or the rice turns sticky. Wash it, spin it and spread it on a towel.\n- A pressure cooker makes the lamb tender in about an hour."
+  },
+  {
+   "h": "Variations",
+   "md": "Some cooks stir a little turmeric or cinnamon into the rice, or serve it with chicken or fish instead of lamb. In Gilan broad beans and dill go into a different dish altogether, [[باقلا قاتق|bāghlā ghātogh|broad beans with dill and egg]], a stew of broad beans, dill, garlic and eggs."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "باقالی‌ها را از پوست درآورید.",
+   "r": "bāghāli-hā rā az pust dar-āvarid.",
+   "en": "Pop the broad beans out of their skins.",
+   "col": "باقالیا رو از پوست دربیار.",
+   "colR": "bāghāli-yā ro az pust dar-biyār."
+  },
+  {
+   "fa": "شوید را ریز خرد کنید و خوب خشک کنید.",
+   "r": "shevid rā riz khord konid va khub khoshk konid.",
+   "en": "Chop the dill finely and dry it well."
+  },
+  {
+   "fa": "ماهیچه را با پیاز و سیر سرخ کنید.",
+   "r": "māhiche rā bā piyāz o sir sorkh konid.",
+   "en": "Brown the lamb shanks with onion and garlic."
+  },
+  {
+   "fa": "روی گوشت آب بریزید تا رویش را بپوشاند.",
+   "r": "ru-ye gusht āb be-rizid tā ru-yash rā be-pushānad.",
+   "en": "Pour water over the meat until it is covered."
+  },
+  {
+   "fa": "ماهیچه باید سه ساعت روی حرارت کم بپزد.",
+   "r": "māhiche bāyad se sā'at ru-ye harārat-e kam be-pazad.",
+   "en": "The lamb shanks need three hours on a low heat."
+  },
+  {
+   "fa": "باقالی را در دو دقیقه‌ی آخر به برنج اضافه کنید.",
+   "r": "bāghāli rā dar do daghighe-ye ākhar be berenj ezāfe konid.",
+   "en": "Add the broad beans to the rice for the last two minutes."
+  },
+  {
+   "fa": "برنج و شوید را لایه‌لایه در قابلمه بریزید.",
+   "r": "berenj o shevid rā lāye-lāye dar ghāblame be-rizid.",
+   "en": "Put the rice and dill into the pot in layers.",
+   "col": "برنج و شویدو لایه‌لایه تو قابلمه بریز.",
+   "colR": "berenj o shevid-o lāye-lāye tu ghāblame be-riz."
+  },
+  {
+   "fa": "برای ته‌دیگ، ته قابلمه یک نان لواش بگذارید.",
+   "r": "barā-ye tah-dig, tah-e ghāblame yek nān-e lavāsh be-gozārid.",
+   "en": "For the tahdig, put a sheet of lavash in the bottom of the pot."
+  },
+  {
+   "fa": "بگذارید برنج یک ساعت دم بکشد.",
+   "r": "be-gozārid berenj yek sā'at dam be-keshad.",
+   "en": "Let the rice steam for an hour.",
+   "col": "بذار برنج یه ساعت دم بکشه.",
+   "colR": "be-zār berenj ye sā'at dam be-keshe."
+  },
+  {
+   "fa": "باقالی‌پلو را با ماهیچه و سس آن سرو کنید.",
+   "r": "bāghāli-polow rā bā māhiche va sos-e ān serv konid.",
+   "en": "Serve the baghali polo with the lamb shanks and their sauce."
+  },
+  {
+   "fa": "بوی شوید همه‌ی آشپزخانه را پر کرده است.",
+   "r": "bu-ye shevid hame-ye āshpazkhāne rā por karde ast.",
+   "en": "The smell of dill has filled the whole kitchen."
+  },
+  {
+   "fa": "در بهار باقالی تازه به بازار می‌آید.",
+   "r": "dar bahār bāghāli-ye tāze be bāzār mi-āyad.",
+   "en": "In spring fresh broad beans come to the market."
+  }
+ ],
+ "vocab": [
+  {"fa": "باقالی", "r": "bāghāli", "en": "broad beans, fava beans"},
+  {"fa": "باقالی‌پلو", "r": "bāghāli-polow", "en": "rice with broad beans and dill"},
+  {"fa": "شوید", "r": "shevid", "en": "dill"},
+  {"fa": "ماهیچه", "r": "māhiche", "en": "lamb shank; muscle"},
+  {"fa": "گوشت", "r": "gusht", "en": "meat"},
+  {"fa": "دارچین", "r": "dārchin", "en": "cinnamon"},
+  {"fa": "لواش", "r": "lavāsh", "en": "lavash, thin flat bread"},
+  {"fa": "لایه", "r": "lāye", "en": "layer"},
+  {"fa": "لایه‌لایه", "r": "lāye-lāye", "en": "in layers"},
+  {"fa": "پوست", "r": "pust", "en": "skin, peel"},
+  {"fa": "درآوردن", "r": "dar-āvardan", "en": "to take out"},
+  {"fa": "پوشاندن", "r": "pushāndan", "en": "to cover"},
+  {"fa": "خشک کردن", "r": "khoshk kardan", "en": "to dry"},
+  {"fa": "حرارت", "r": "harārat", "en": "heat"},
+  {"fa": "تازه", "r": "tāze", "en": "fresh"},
+  {"fa": "بهار", "r": "bahār", "en": "spring"},
+  {"fa": "آشپزخانه", "r": "āshpazkhāne", "en": "kitchen"},
+  {"fa": "سس", "r": "sos", "en": "sauce"}
+ ],
+ "facts": [
+  "Baghali means broad bean (fava bean), and shevid means dill.",
+  "Fresh broad beans come to Iranian markets in spring; the rest of the year cooks use frozen or dried beans.",
+  "Lamb shank, mahicheh, is the classic partner of baghali polo at parties and in restaurants.",
+  "In Gilan, broad beans and dill also go into baghala ghatogh, a stew with garlic and eggs.",
+  "A sheet of lavash in the bottom of the pot is an easy way to get a crisp tahdig."
+ ]
+}

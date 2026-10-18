@@ -331,10 +331,10 @@ At home, the first remedies are older. For a cold there is boiled turnip, شلغ
 
 **Put the words in order**
 
-1. درد / می‌کند / و / گلویم / می‌کنم. / سرفه — My throat hurts and I'm coughing.
-2. از / روزی / بار / این / بخورید. / سه / قرص / باید — You should take this tablet three times a day.
-3. دارم. / برای / فردا / نوبت / ساعت / ده — I have an appointment at ten tomorrow.
-4. بهتر / امشب / بخوابی. / زود / است — You'd better go to bed early tonight.
+1. می‌کنم. / سرفه / می‌کند / و / درد / گلویم — My throat hurts and I'm coughing.
+2. این / باید / از / سه / روزی / بار / قرص / بخورید. — You should take this tablet three times a day.
+3. دارم. / ده / فردا / ساعت / برای / نوبت — I have an appointment at ten tomorrow.
+4. بهتر / امشب / زود / بخوابی. / است — You'd better go to bed early tonight.
 
 <details><summary>Answers</summary>
 

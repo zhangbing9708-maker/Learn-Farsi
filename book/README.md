@@ -94,6 +94,7 @@ Classical poetry, literary prose, the history of the language, dialects and Dari
 6. [Dari and Tajik: one language, three standards](lessons/b2-06-dari-and-tajik.md) — فارسی، دری، تاجیکی
 7. [Dialects and accents: the many voices of Iran](lessons/b2-07-dialects-and-accents.md) — لهجه‌ها و زبان‌های ایران
 8. [Advanced idioms: heart, hand, head and eye](lessons/b2-08-advanced-idioms.md) — اصطلاحات دل و دست و سر و چشم
+9. [Humour and wordplay: Mulla, the cat and the pun](lessons/b2-09-humour-and-wordplay.md) — طنز و بازی با کلمات
 
 ## Part 6. Advanced (C1) — عالی
 
@@ -150,6 +151,8 @@ Graded readers, from very easy to literary.
 - [Mina makes tahdig](stories/a2-mina-makes-tahdig.md) — ته‌دیگ مینا
 - [Snow day in Tehran](stories/a2-snow-day-in-tehran.md) — روز برفی در تهران
 - [Tom buys a phone](stories/a2-tom-buys-a-phone.md) — تام گوشی می‌خرد
+- [The new neighbours](stories/a2-the-new-neighbours.md) — همسایه‌های جدید
+- [A weekend by the Caspian](stories/a2-a-weekend-by-the-caspian.md) — آخر هفته کنار دریای خزر
 
 **Intermediate (B1)**
 
@@ -166,6 +169,8 @@ Graded readers, from very easy to literary.
 - [The carpet weaver of Kashan](stories/b1-the-carpet-weaver-of-kashan.md) — قالی‌باف کاشان
 - [Chaharshanbe Suri](stories/b1-chaharshanbe-suri.md) — چهارشنبه‌سوری
 - [Tales from the Golestan](stories/b1-the-golestan-tales.md) — حکایت‌های گلستان
+- [Kalila and Dimna: the lion and the ox](stories/b1-kalila-and-dimna.md) — کلیله و دمنه: شیر و گاو
+- [The old woman and Sultan Sanjar](stories/b1-the-old-woman-and-sultan-sanjar.md) — پیرزن و سلطان سنجر
 
 **Upper intermediate (B2)**
 
@@ -183,6 +188,7 @@ Graded readers, from very easy to literary.
 - [The qanat diggers of Yazd](stories/c1-the-qanat-diggers-of-yazd.md) — مقنی‌های یزد
 - [Bizhan and Manizheh](stories/c1-bizhan-and-manizheh.md) — بیژن و منیژه
 - [The last caravanserai](stories/c1-the-last-caravanserai.md) — آخرین کاروان‌سرا
+- [Tehran, 1979](stories/c1-tehran-1979.md) — تهران، ۱۳۵۷
 
 ## Part 8. Iran in pictures and stories — فرهنگ ایران
 
@@ -197,9 +203,11 @@ Graded readers, from very easy to literary.
 - [Zoroaster and the fire](culture/history-zoroaster-and-the-fire.md) — زرتشت و آتش
 - [Islam and the Persian renaissance](culture/history-islam-and-the-persian-renaissance.md) — اسلام و نوزایی فارسی
 - [The Samanids and Bukhara](culture/history-samanids-and-bukhara.md) — سامانیان و بخارا
+- [The Seljuks and Nizam al-Mulk](culture/history-seljuks-and-nizam-al-mulk.md) — سلجوقیان و نظام‌الملک
 - [The Silk Road](culture/history-the-silk-road.md) — جاده‌ی ابریشم
 - [The Mongols and the Timurids](culture/history-mongols-timurids.md) — مغول‌ها و تیموریان
 - [The Safavids and Isfahan](culture/history-safavid-isfahan.md) — صفویان و اصفهان
+- [Nader Shah](culture/history-nader-shah.md) — نادرشاه
 - [The Qajar century](culture/history-qajar-century.md) — دوران قاجار
 - [From the Constitutional Revolution to the Pahlavis](culture/history-constitutional-revolution-to-pahlavi.md) — از انقلاب مشروطه تا پهلوی
 - [Iran since 1979](culture/history-iran-since-1979.md) — ایران پس از انقلاب
@@ -245,6 +253,9 @@ Graded readers, from very easy to literary.
 - [Recipe: salad Shirazi](culture/food-recipe-salad-shirazi.md) — سالاد شیرازی
 - [Recipe: tahchin](culture/food-recipe-tahchin.md) — ته‌چین
 - [Recipe: zereshk polo ba morgh](culture/food-recipe-zereshk-polo-ba-morgh.md) — زرشک‌پلو با مرغ
+- [Recipe: baghali polo](culture/food-recipe-baghali-polo.md) — باقالی‌پلو
+- [Recipe: ash reshteh](culture/food-recipe-ash-reshteh.md) — آش رشته
+- [Recipe: joojeh kabab](culture/food-recipe-joojeh-kabab.md) — جوجه‌کباب
 
 **Festivals**
 

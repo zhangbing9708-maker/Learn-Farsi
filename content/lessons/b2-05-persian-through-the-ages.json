@@ -22,72 +22,100 @@
     {
      "fa": "فارسی یکی از کهن‌ترین زبان‌های زنده‌ی جهان است.",
      "r": "fārsi yek-i az kohan-tarin zabān-hā-ye zende-ye jahān ast.",
-     "en": "Persian is one of the oldest living languages in the world."
+     "en": "Persian is one of the oldest living languages in the world.",
+     "faV": "فارسی یِکی اَز کُهَن‌تَرین زَبان‌هایِ زِنده‌یِ جَهان اَست.",
+     "a": "e6fdbdb42785"
     },
     {
      "fa": "تاریخ این زبان را معمولاً به سه دوره تقسیم می‌کنند: فارسی باستان، فارسی میانه و فارسی نو.",
      "r": "tārikh-e in zabān rā ma'mulan be se dowre taghsim mi-konand: fārsi-ye bāstān, fārsi-ye miyāne va fārsi-ye now.",
-     "en": "The history of the language is usually divided into three periods: Old Persian, Middle Persian and New Persian."
+     "en": "The history of the language is usually divided into three periods: Old Persian, Middle Persian and New Persian.",
+     "faV": "تاریخِ این زَبان را مَعمولاً به سه دَوره تَقسیم می‌کُنَند: فارسیِ باستان، فارسیِ میانه و فارسیِ نَو.",
+     "a": "9195e9038f28"
     },
     {
      "fa": "فارسی باستان زبان هخامنشیان بود و به خط میخی نوشته می‌شد.",
      "r": "fārsi-ye bāstān zabān-e Hakhāmaneshiyān bud va be khatt-e mikhi neveshte mi-shod.",
-     "en": "Old Persian was the language of the Achaemenids and was written in cuneiform."
+     "en": "Old Persian was the language of the Achaemenids and was written in cuneiform.",
+     "faV": "فارسیِ باستان زَبانِ هَخامَنِشیان بود و به خَطِّ میخی نِوِشته می‌شُد.",
+     "a": "f838b75156dc"
     },
     {
      "fa": "مهم‌ترین نوشته‌ی فارسی باستان، کتیبه‌ی داریوش بزرگ در بیستون است.",
      "r": "mohemm-tarin neveshte-ye fārsi-ye bāstān, katibe-ye Dāriyush-e bozorg dar Bisotun ast.",
-     "en": "The most important Old Persian text is the inscription of Darius the Great at Behistun."
+     "en": "The most important Old Persian text is the inscription of Darius the Great at Behistun.",
+     "faV": "مُهِمّ‌تَرین نِوِشته‌یِ فارسیِ باستان، کَتیبه‌یِ داریوشِ بُزُرگ دَر بیسُتون اَست.",
+     "a": "57b204e285ae"
     },
     {
      "fa": "این کتیبه را حدود دو هزار و پانصد سال پیش بر دل کوهی در نزدیکی کرمانشاه کنده‌اند.",
      "r": "in katibe rā hodud-e do hezār o pānsad sāl pish bar del-e kuh-i dar nazdiki-ye Kermānshāh kande-and.",
-     "en": "This inscription was carved into a mountainside near Kermanshah about two and a half thousand years ago."
+     "en": "This inscription was carved into a mountainside near Kermanshah about two and a half thousand years ago.",
+     "faV": "این کَتیبه را حُدودِ دو هِزار و پانصَد سال پیش بَر دِلِ کوهی دَر نَزدیکیِ کِرمانشاه کَنده‌اَند.",
+     "a": "a9cec7d82449"
     },
     {
      "fa": "داریوش در آن به سه زبان، یعنی فارسی باستان، ایلامی و بابلی، از پیروزی‌هایش سخن می‌گوید.",
      "r": "Dāriyush dar ān be se zabān, ya'ni fārsi-ye bāstān, ilāmi va bābeli, az piruzi-hā-yash sokhan mi-guyad.",
-     "en": "In it Darius speaks of his victories in three languages: Old Persian, Elamite and Babylonian."
+     "en": "In it Darius speaks of his victories in three languages: Old Persian, Elamite and Babylonian.",
+     "faV": "داریوش دَر آن به سه زَبان، یَعنی فارسیِ باستان، ایلامی و بابِلی، اَز پیروزی‌هایَش سُخَن می‌گویَد.",
+     "a": "260e6b819fd2"
     },
     {
      "fa": "پس از هخامنشیان، زبان فارسی کم‌کم ساده‌تر شد و به فارسی میانه رسید.",
      "r": "pas az Hakhāmaneshiyān, zabān-e fārsi kam-kam sāde-tar shod va be fārsi-ye miyāne resid.",
-     "en": "After the Achaemenids, the Persian language gradually became simpler and turned into Middle Persian."
+     "en": "After the Achaemenids, the Persian language gradually became simpler and turned into Middle Persian.",
+     "faV": "پَس اَز هَخامَنِشیان، زَبانِ فارسی کَم‌کَم ساده‌تَر شُد و به فارسیِ میانه رِسید.",
+     "a": "3a3999df12fc"
     },
     {
      "fa": "فارسی میانه، که آن را پهلوی هم می‌نامند، زبان رسمی ساسانیان بود.",
      "r": "fārsi-ye miyāne, ke ān rā pahlavi ham mi-nāmand, zabān-e rasmi-ye Sāsāniyān bud.",
-     "en": "Middle Persian, which is also called Pahlavi, was the official language of the Sasanians."
+     "en": "Middle Persian, which is also called Pahlavi, was the official language of the Sasanians.",
+     "faV": "فارسیِ میانه، که آن را پَهلَوی هَم می‌نامَند، زَبانِ رَسمیِ ساسانیان بود.",
+     "a": "51f22cc7236a"
     },
     {
      "fa": "بسیاری از متن‌های دینی زرتشتیان به این زبان نوشته شده است.",
      "r": "besyār-i az matn-hā-ye dini-ye zartoshtiyān be in zabān neveshte shode ast.",
-     "en": "Many of the religious texts of the Zoroastrians are written in this language."
+     "en": "Many of the religious texts of the Zoroastrians are written in this language.",
+     "faV": "بِسیاری اَز مَتن‌هایِ دینیِ زَرتُشتیان به این زَبان نِوِشته شُده اَست.",
+     "a": "9a976ad46e24"
     },
     {
      "fa": "پس از ورود اسلام به ایران، فارسی میانه جای خود را به فارسی نو داد.",
      "r": "pas az vorud-e eslām be Irān, fārsi-ye miyāne jā-ye khod rā be fārsi-ye now dād.",
-     "en": "After Islam came to Iran, Middle Persian gave way to New Persian."
+     "en": "After Islam came to Iran, Middle Persian gave way to New Persian.",
+     "faV": "پَس اَز وُرودِ اِسلام به ایران، فارسیِ میانه جایِ خود را به فارسیِ نَو داد.",
+     "a": "3fdef115dbb0"
     },
     {
      "fa": "فارسی نو از قرن سوم هجری با الفبای عربی نوشته شد و چهار حرف «پ، چ، ژ، گ» به آن افزوده شد.",
      "r": "fārsi-ye now az gharn-e sevvom-e hejri bā alefbā-ye arabi neveshte shod va chahār harf-e «pe, che, zhe, gāf» be ān afzude shod.",
-     "en": "From the third century of the Hijra (the ninth century AD) New Persian was written in the Arabic alphabet, with four letters added: پ، چ، ژ، گ."
+     "en": "From the third century of the Hijra (the ninth century AD) New Persian was written in the Arabic alphabet, with four letters added: پ، چ، ژ، گ.",
+     "faV": "فارسیِ نَو اَز قَرنِ سِوُّمِ هِجری با اَلِفبایِ عَرَبی نِوِشته شُد و چَهار حَرفِ «پ، چ، ژ، گ» به آن اَفزوده شُد.",
+     "a": "70658b9e3851"
     },
     {
      "fa": "رودکی، که او را پدر شعر فارسی می‌دانند، در همین روزگار در دربار سامانیان در بخارا شعر می‌گفت.",
      "r": "Rudaki, ke u rā pedar-e she'r-e fārsi mi-dānand, dar hamin ruzgār dar darbār-e Sāmāniyān dar Bokhārā she'r mi-goft.",
-     "en": "Rudaki, who is considered the father of Persian poetry, was writing poems at that time at the Samanid court in Bukhara."
+     "en": "Rudaki, who is considered the father of Persian poetry, was writing poems at that time at the Samanid court in Bukhara.",
+     "faV": "رودَکی، که او را پِدَرِ شِعرِ فارسی می‌دانَند، دَر هَمین روزگار دَر دَربارِ سامانیان دَر بُخارا شِعر می‌گُفت.",
+     "a": "005e50a39d72"
     },
     {
      "fa": "شگفت این است که ایرانیان امروز شعر رودکی را پس از هزار و صد سال به آسانی می‌فهمند.",
      "r": "shegeft in ast ke irāniyān-e emruz she'r-e Rudaki rā pas az hezār o sad sāl be āsāni mi-fahmand.",
-     "en": "The remarkable thing is that Iranians today understand Rudaki's poetry easily, eleven hundred years later."
+     "en": "The remarkable thing is that Iranians today understand Rudaki's poetry easily, eleven hundred years later.",
+     "faV": "شِگِفت این اَست که ایرانیانِ اِمروز شِعرِ رودَکی را پَس اَز هِزار و صَد سال به آسانی می‌فَهمَند.",
+     "a": "80b769e2f909"
     },
     {
      "fa": "یک انگلیسی‌زبان برای خواندن انگلیسی هزار سال پیش به فرهنگ لغت نیاز دارد.",
      "r": "yek engelisi-zabān barā-ye khāndan-e engelisi-ye hezār sāl pish be farhang-e loghat niyāz dārad.",
-     "en": "An English speaker needs a dictionary to read the English of a thousand years ago."
+     "en": "An English speaker needs a dictionary to read the English of a thousand years ago.",
+     "faV": "یِک اِنگِلیسی‌زَبان بَرایِ خواندَنِ اِنگِلیسیِ هِزار سال پیش به فَرهَنگِ لُغَت نیاز دارَد.",
+     "a": "e4fe0bf15a75"
     }
    ],
    "questions": [
@@ -138,75 +166,101 @@
      "ex": {
       "fa": "ایران باستان",
       "r": "Irān-e bāstān",
-      "en": "ancient Iran"
-     }
+      "en": "ancient Iran",
+      "faV": "ایرانِ باستان",
+      "a": "f039ae6a7fae"
+     },
+     "faV": "باستان",
+     "a": "d29b81edde71"
     },
     {
      "fa": "میانه",
      "r": "miyāne",
      "en": "middle",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "میانه",
+     "a": "4b7d4e5e749f"
     },
     {
      "fa": "کهن",
      "r": "kohan",
      "en": "ancient, very old",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "کُهَن",
+     "a": "1d950b4e1139"
     },
     {
      "fa": "کتیبه",
      "r": "katibe",
      "en": "inscription",
-     "pos": "n"
+     "pos": "n",
+     "faV": "کَتیبه",
+     "a": "11260b2b9be2"
     },
     {
      "fa": "خط میخی",
      "r": "khatt-e mikhi",
      "en": "cuneiform",
      "pos": "n",
-     "note": "literally 'nail script', from [[میخ|mikh]] 'nail'"
+     "note": "literally 'nail script', from [[میخ|mikh]] 'nail'",
+     "faV": "خَطِّ میخی",
+     "a": "37e8e072850b"
     },
     {
      "fa": "خط",
      "r": "khatt",
      "en": "script, handwriting; line",
-     "pos": "n"
+     "pos": "n",
+     "faV": "خَطّ",
+     "a": "005ba86f27ca"
     },
     {
      "fa": "الفبا",
      "r": "alefbā",
      "en": "alphabet",
-     "pos": "n"
+     "pos": "n",
+     "faV": "اَلِفبا",
+     "a": "560457d50714"
     },
     {
      "fa": "پهلوی",
      "r": "pahlavi",
      "en": "Pahlavi, Middle Persian",
-     "pos": "n"
+     "pos": "n",
+     "faV": "پَهلَوی",
+     "a": "ed68369ab836"
     },
     {
      "fa": "هخامنشی",
      "r": "Hakhāmaneshi",
      "en": "Achaemenid",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "هَخامَنِشی",
+     "a": "dbf48d0638b9"
     },
     {
      "fa": "ساسانی",
      "r": "Sāsāni",
      "en": "Sasanian",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "ساسانی",
+     "a": "83b6aab733b6"
     },
     {
      "fa": "زرتشتی",
      "r": "zartoshti",
      "en": "Zoroastrian",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "زَرتُشتی",
+     "a": "785cc8a72155"
     },
     {
      "fa": "دستور زبان",
      "r": "dastur-e zabān",
      "en": "grammar",
-     "pos": "n"
+     "pos": "n",
+     "faV": "دَستورِ زَبان",
+     "a": "e9a8d114ba9d"
     },
     {
      "fa": "ریشه",
@@ -216,70 +270,94 @@
      "ex": {
       "fa": "ریشه‌ی این واژه کجاست؟",
       "r": "rishe-ye in vāzhe kojā-st?",
-      "en": "Where does this word come from?"
-     }
+      "en": "Where does this word come from?",
+      "faV": "ریشه‌یِ این واژه کُجاست؟",
+      "a": "3b490dc1ca09"
+     },
+     "faV": "ریشه",
+     "a": "a5e8e6f3c96f"
     },
     {
      "fa": "وام‌واژه",
      "r": "vām-vāzhe",
      "en": "loanword",
      "pos": "n",
-     "note": "literally 'borrowed word', from [[وام|vām]] 'loan'"
+     "note": "literally 'borrowed word', from [[وام|vām]] 'loan'",
+     "faV": "وام‌واژه",
+     "a": "de71fdfade02"
     },
     {
      "fa": "تلفظ",
      "r": "talaffoz",
      "en": "pronunciation",
-     "pos": "n"
+     "pos": "n",
+     "faV": "تَلَفُّظ",
+     "a": "3c0060d1d41e"
     },
     {
      "fa": "تغییر کردن",
      "r": "taghyir kardan",
      "en": "to change",
-     "pos": "v"
+     "pos": "v",
+     "faV": "تَغییر کَردَن",
+     "a": "ccb507711b9c"
     },
     {
      "fa": "دشوار",
      "r": "doshvār",
      "en": "difficult (written)",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "دُشوار",
+     "a": "fc020404d369"
     },
     {
      "fa": "فتح کردن",
      "r": "fath kardan",
      "en": "to conquer",
-     "pos": "v"
+     "pos": "v",
+     "faV": "فَتح کَردَن",
+     "a": "a617664ea95c"
     },
     {
      "fa": "شورشی",
      "r": "shureshi",
      "en": "rebel",
-     "pos": "n"
+     "pos": "n",
+     "faV": "شورِشی",
+     "a": "4c5722d0b8e1"
     },
     {
      "fa": "افزودن",
      "r": "afzudan",
      "en": "to add",
      "pos": "v",
-     "note": "present stem افزا (afzā)"
+     "note": "present stem افزا (afzā)",
+     "faV": "اَفزودَن",
+     "a": "7fd5577b5b78"
     },
     {
      "fa": "پدید آمدن",
      "r": "padid āmadan",
      "en": "to appear, come into being",
-     "pos": "v"
+     "pos": "v",
+     "faV": "پَدید آمَدَن",
+     "a": "288f46c537fb"
     },
     {
      "fa": "همچنان",
      "r": "hamchenān",
      "en": "still, as before",
-     "pos": "adv"
+     "pos": "adv",
+     "faV": "هَمچِنان",
+     "a": "7cbc3e324551"
     },
     {
      "fa": "نابینا",
      "r": "nābinā",
      "en": "blind",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "نابینا",
+     "a": "425684618c39"
     }
    ]
   },
@@ -452,42 +530,56 @@
      "fa": "پدر و مادرم در شیراز زندگی می‌کنند.",
      "r": "pedar o mādar-am dar Shirāz zendegi mi-konand.",
      "en": "My father and mother live in Shiraz.",
-     "note": "Two words that have kept their shape for 2,500 years: Old Persian *pitar-*, *mātar-*."
+     "note": "Two words that have kept their shape for 2,500 years: Old Persian *pitar-*, *mātar-*.",
+     "faV": "پِدَر و مادَرَم دَر شیراز زِندِگی می‌کُنَند.",
+     "a": "749d4b02d6c7"
     },
     {
      "fa": "برادرم اسب‌سواری را خیلی دوست دارد.",
      "r": "barādar-am asb-savāri rā kheyli dust dārad.",
      "en": "My brother loves horse riding.",
-     "note": "In [[برادر|barādar]] an *a* has slipped between *b* and *r*. [[اسب|asb]] comes from the Median *aspa-*; the Old Persian word was *asa-*."
+     "note": "In [[برادر|barādar]] an *a* has slipped between *b* and *r*. [[اسب|asb]] comes from the Median *aspa-*; the Old Persian word was *asa-*.",
+     "faV": "بَرادَرَم اَسب‌سَواری را خَیلی دوست دارَد.",
+     "a": "c79e27630c71"
     },
     {
      "fa": "شب‌ها از کوه باد سردی می‌آید.",
      "r": "shab-hā az kuh bād-e sard-i mi-āyad.",
      "en": "At night a cold wind comes down from the mountain.",
-     "note": "Three sound changes in one sentence: *xšapa-* → [[شب|shab]], *kaufa-* → [[کوه|kuh]], *vāta-* → [[باد|bād]]."
+     "note": "Three sound changes in one sentence: *xšapa-* → [[شب|shab]], *kaufa-* → [[کوه|kuh]], *vāta-* → [[باد|bād]].",
+     "faV": "شَب‌ها اَز کوه بادِ سَردی می‌آیَد.",
+     "a": "809687ee8bec"
     },
     {
      "fa": "دروغ در آیین ایرانیان باستان بزرگ‌ترین گناه بود.",
      "r": "dorugh dar āyin-e irāniyān-e bāstān bozorg-tarin gonāh bud.",
      "en": "In the religion of the ancient Iranians, the lie was the greatest sin.",
-     "note": "*Drauga*, 'the Lie', is the great enemy of the Behistun inscription."
+     "note": "*Drauga*, 'the Lie', is the great enemy of the Behistun inscription.",
+     "faV": "دُروغ دَر آیینِ ایرانیانِ باستان بُزُرگ‌تَرین گُناه بود.",
+     "a": "9c0cdf0ecf8c"
     },
     {
      "fa": "نام این روستا در هزار سال تغییر نکرده است.",
      "r": "nām-e in rustā dar hezār sāl taghyir na-karde ast.",
-     "en": "The name of this village has not changed in a thousand years."
+     "en": "The name of this village has not changed in a thousand years.",
+     "faV": "نامِ این روستا دَر هِزار سال تَغییر نَکَرده اَست.",
+     "a": "65140fab441b"
     },
     {
      "fa": "دبیر ما ادبیات فارسی درس می‌دهد.",
      "r": "dabir-e mā adabiyāt-e fārsi dars mi-dahad.",
      "en": "Our teacher teaches Persian literature.",
-     "note": "Today a [[دبیر|dabir]] is a secondary-school teacher or a secretary; in Sasanian times a *dibīr* was a scribe, from Old Persian *dipi-* 'inscription'."
+     "note": "Today a [[دبیر|dabir]] is a secondary-school teacher or a secretary; in Sasanian times a *dibīr* was a scribe, from Old Persian *dipi-* 'inscription'.",
+     "faV": "دَبیرِ ما اَدَبیاتِ فارسی دَرس می‌دَهَد.",
+     "a": "8e0cb8e9e648"
     },
     {
      "fa": "داریوش و کوروش هنوز نام‌های رایجی در ایران هستند.",
      "r": "Dāriyush o Kurosh hanuz nām-hā-ye rāyej-i dar Irān hastand.",
      "en": "Dariush and Kurosh are still common names in Iran.",
-     "note": "Darius is Old Persian *Dārayavauš*, Cyrus is *Kuruš*."
+     "note": "Darius is Old Persian *Dārayavauš*, Cyrus is *Kuruš*.",
+     "faV": "داریوش و کوروش هَنوز نام‌هایِ رایِجی دَر ایران هَستَند.",
+     "a": "d32ea0c20307"
     }
    ]
   },
@@ -558,40 +650,54 @@
      "fa": "شاهان هخامنشی خود را «شاه شاهان» می‌نامیدند.",
      "r": "shāhān-e Hakhāmaneshi khod rā «shāh-e shāhān» mi-nāmidand.",
      "en": "The Achaemenid kings called themselves 'king of kings'.",
-     "note": "Old Persian *xšāyaθiya xšāyaθiyānām*: the genitive plural *-ānām* survives as the plural [[ـان|-ān]]."
+     "note": "Old Persian *xšāyaθiya xšāyaθiyānām*: the genitive plural *-ānām* survives as the plural [[ـان|-ān]].",
+     "faV": "شاهانِ هَخامَنِشی خود را «شاهِ شاهان» می‌نامیدَند.",
+     "a": "8589a927b0db"
     },
     {
      "fa": "سپاه من پیروز شد.",
      "r": "sepāh-e man piruz shod.",
      "en": "My army was victorious.",
-     "note": "The unwritten *-e* of [[سپاه من|sepāh-e man]] is all that is left of *kāra hya manā*."
+     "note": "The unwritten *-e* of [[سپاه من|sepāh-e man]] is all that is left of *kāra hya manā*.",
+     "faV": "سِپاهِ مَن پیروز شُد.",
+     "a": "d76d958143e6"
     },
     {
      "fa": "دانشجویان کتاب‌ها را به کتابخانه بردند.",
      "r": "dāneshjuyān ketāb-hā rā be ketābkhāne bordand.",
      "en": "The students took the books to the library.",
-     "note": "Three old pieces: -ān (Old Persian *-ānām*), -hā (Middle Persian *-īhā*) and را (Old Persian *rādiy*)."
+     "note": "Three old pieces: -ān (Old Persian *-ānām*), -hā (Middle Persian *-īhā*) and را (Old Persian *rādiy*).",
+     "faV": "دانِشجویان کِتاب‌ها را به کِتابخانه بُردَند.",
+     "a": "8b3595c65ac8"
     },
     {
      "fa": "او هر روز نامه‌ها را به اداره می‌برد.",
      "r": "u har ruz nāme-hā rā be edāre mi-barad.",
      "en": "He takes the letters to the office every day.",
-     "note": "[[می‌برد|mi-barad]]: mi- from Middle Persian *hamē* 'always', -ad from Old Persian *-atiy*."
+     "note": "[[می‌برد|mi-barad]]: mi- from Middle Persian *hamē* 'always', -ad from Old Persian *-atiy*.",
+     "faV": "او هَر روز نامه‌ها را به اِداره می‌بَرَد.",
+     "a": "9c9bedb3d2c1"
     },
     {
      "fa": "فارسی امروز جنس دستوری ندارد؛ «او» هم برای مرد است و هم برای زن.",
      "r": "fārsi-ye emruz jens-e dasturi nadārad; «u» ham barā-ye mard ast va ham barā-ye zan.",
-     "en": "Persian today has no grammatical gender: «او» is used both for a man and for a woman."
+     "en": "Persian today has no grammatical gender: «او» is used both for a man and for a woman.",
+     "faV": "فارسیِ اِمروز جِنسِ دَستوری نَدارَد؛ «او» هَم بَرایِ مَرد اَست و هَم بَرایِ زَن.",
+     "a": "8f3a4d457103"
     },
     {
      "fa": "در کتیبه‌ی بیستون، داریوش شورشیان را «دروغگو» می‌نامد.",
      "r": "dar katibe-ye Bisotun, Dāriyush shureshiyān rā «dorugh-gu» mi-nāmad.",
-     "en": "In the Behistun inscription, Darius calls the rebels 'liars'."
+     "en": "In the Behistun inscription, Darius calls the rebels 'liars'.",
+     "faV": "دَر کَتیبه‌یِ بیسُتون، داریوش شورِشیان را «دُروغگو» می‌نامَد.",
+     "a": "813798dca176"
     },
     {
      "fa": "زبان فارسی در طول زمان ساده‌تر شده است.",
      "r": "zabān-e fārsi dar tul-e zamān sāde-tar shode ast.",
-     "en": "The Persian language has become simpler over time."
+     "en": "The Persian language has become simpler over time.",
+     "faV": "زَبانِ فارسی دَر طولِ زَمان ساده‌تَر شُده اَست.",
+     "a": "28c9c3e2fde3"
     }
    ]
   },
@@ -603,84 +709,116 @@
     {
      "fa": "در قرن هفتم میلادی، عرب‌ها ایران را فتح کردند و ساسانیان از میان رفتند.",
      "r": "dar gharn-e haftom-e milādi, arab-hā Irān rā fath kardand va Sāsāniyān az miyān raftand.",
-     "en": "In the seventh century AD the Arabs conquered Iran and the Sasanians came to an end."
+     "en": "In the seventh century AD the Arabs conquered Iran and the Sasanians came to an end.",
+     "faV": "دَر قَرنِ هَفتُمِ میلادی، عَرَب‌ها ایران را فَتح کَردَند و ساسانیان اَز میان رَفتَند.",
+     "a": "fa7430291097"
     },
     {
      "fa": "زبان عربی زبان دین و دیوان شد، اما مردم در خانه و بازار همچنان فارسی حرف می‌زدند.",
      "r": "zabān-e arabi zabān-e din o divān shod, ammā mardom dar khāne o bāzār hamchenān fārsi harf mi-zadand.",
      "en": "Arabic became the language of religion and government, but at home and in the bazaar people went on speaking Persian.",
-     "note": "[[دیوان|divān]] here means 'the government offices', not a book of poems."
+     "note": "[[دیوان|divān]] here means 'the government offices', not a book of poems.",
+     "faV": "زَبانِ عَرَبی زَبانِ دین و دیوان شُد، اَمّا مَردُم دَر خانه و بازار هَمچِنان فارسی حَرف می‌زَدَند.",
+     "a": "93032c71896d"
     },
     {
      "fa": "زرتشتیان تا چند قرن کتاب‌های خود را به خط پهلوی می‌نوشتند.",
      "r": "zartoshtiyān tā chand gharn ketāb-hā-ye khod rā be khatt-e pahlavi mi-neveshtand.",
-     "en": "For several centuries the Zoroastrians went on writing their books in the Pahlavi script."
+     "en": "For several centuries the Zoroastrians went on writing their books in the Pahlavi script.",
+     "faV": "زَرتُشتیان تا چَند قَرن کِتاب‌هایِ خود را به خَطِّ پَهلَوی می‌نِوِشتَند.",
+     "a": "466f5a67d7f0"
     },
     {
      "fa": "اما خط پهلوی دشوار بود و بسیاری از واژه‌ها را به آرامی می‌نوشتند و به فارسی می‌خواندند.",
      "r": "ammā khatt-e pahlavi doshvār bud va besyār-i az vāzhe-hā rā be ārāmi mi-neveshtand va be fārsi mi-khāndand.",
-     "en": "But the Pahlavi script was difficult: many words were written in Aramaic and read in Persian."
+     "en": "But the Pahlavi script was difficult: many words were written in Aramaic and read in Persian.",
+     "faV": "اَمّا خَطِّ پَهلَوی دُشوار بود و بِسیاری اَز واژه‌ها را به آرامی می‌نِوِشتَند و به فارسی می‌خواندَند.",
+     "a": "ddb641456507"
     },
     {
      "fa": "کم‌کم ایرانیان فارسی را با الفبای عربی نوشتند، که ساده‌تر و آشناتر بود.",
      "r": "kam-kam irāniyān fārsi rā bā alefbā-ye arabi neveshtand, ke sāde-tar o āshnā-tar bud.",
-     "en": "Gradually Iranians began to write Persian in the Arabic alphabet, which was simpler and more familiar."
+     "en": "Gradually Iranians began to write Persian in the Arabic alphabet, which was simpler and more familiar.",
+     "faV": "کَم‌کَم ایرانیان فارسی را با اَلِفبایِ عَرَبی نِوِشتَند، که ساده‌تَر و آشناتَر بود.",
+     "a": "398db9904c3d"
     },
     {
      "fa": "برای صداهایی که در عربی نبود، چهار حرف تازه ساختند: پ، چ، ژ و گ.",
      "r": "barā-ye sedā-hā-yi ke dar arabi nabud, chahār harf-e tāze sākhtand: pe, che, zhe o gāf.",
-     "en": "For the sounds that Arabic did not have, they made four new letters: پ، چ، ژ and گ."
+     "en": "For the sounds that Arabic did not have, they made four new letters: پ، چ، ژ and گ.",
+     "faV": "بَرایِ صِداهایی که دَر عَرَبی نَبود، چَهار حَرفِ تازه ساختَند: پ، چ، ژ و گ.",
+     "a": "6a341df35b0c"
     },
     {
      "fa": "واژه‌های عربی بسیاری وارد فارسی شد، اما دستور زبان فارسی تقریباً دست نخورده ماند.",
      "r": "vāzhe-hā-ye arabi-ye besyār-i vāred-e fārsi shod, ammā dastur-e zabān-e fārsi taghriban dast nakhorde mānd.",
-     "en": "Many Arabic words entered Persian, but Persian grammar remained almost untouched."
+     "en": "Many Arabic words entered Persian, but Persian grammar remained almost untouched.",
+     "faV": "واژه‌هایِ عَرَبیِ بِسیاری وارِدِ فارسی شُد، اَمّا دَستورِ زَبانِ فارسی تَقریباً دَست نَخورده ماند.",
+     "a": "963e636a8cdb"
     },
     {
      "fa": "نخستین شاعران بزرگ فارسی نو در خراسان و آسیای میانه پدید آمدند.",
      "r": "nakhostin shā'erān-e bozorg-e fārsi-ye now dar Khorāsān o Āsiyā-ye miyāne padid āmadand.",
-     "en": "The first great poets of New Persian appeared in Khorasan and Central Asia."
+     "en": "The first great poets of New Persian appeared in Khorasan and Central Asia.",
+     "faV": "نَخُستین شاعِرانِ بُزُرگِ فارسیِ نَو دَر خُراسان و آسیایِ میانه پَدید آمَدَند.",
+     "a": "b75492916277"
     },
     {
      "fa": "در آن‌جا امیران سامانی شاعران را تشویق می‌کردند که به فارسی بنویسند.",
      "r": "dar ān-jā amirān-e Sāmāni shā'erān rā tashvigh mi-kardand ke be fārsi benevisand.",
-     "en": "There the Samanid princes encouraged poets to write in Persian."
+     "en": "There the Samanid princes encouraged poets to write in Persian.",
+     "faV": "دَر آن‌جا اَمیرانِ سامانی شاعِران را تَشویق می‌کَردَند که به فارسی بِنِویسَند.",
+     "a": "1067b81e91f1"
     },
     {
      "fa": "رودکی نابینا بود و چنگ می‌نواخت و شعرهایش را خود می‌خواند.",
      "r": "Rudaki nābinā bud va chang mi-navākht va she'r-hā-yash rā khod mi-khānd.",
-     "en": "Rudaki was blind; he played the harp and sang his own poems."
+     "en": "Rudaki was blind; he played the harp and sang his own poems.",
+     "faV": "رودَکی نابینا بود و چَنگ می‌نَواخت و شِعرهایَش را خود می‌خواند.",
+     "a": "e695acf1de1e"
     },
     {
      "fa": "می‌گویند امیر نصر سامانی سال‌ها در هرات مانده بود و نمی‌خواست به بخارا برگردد.",
      "r": "mi-guyand Amir Nasr-e Sāmāni sāl-hā dar Harāt mānde bud va nemi-khāst be Bokhārā bar-gardad.",
-     "en": "They say that the Samanid prince Nasr had stayed in Herat for years and did not want to return to Bukhara."
+     "en": "They say that the Samanid prince Nasr had stayed in Herat for years and did not want to return to Bukhara.",
+     "faV": "می‌گویَند اَمیر نَصرِ سامانی سال‌ها دَر هَرات مانده بود و نِمی‌خواست به بُخارا بَرگَردَد.",
+     "a": "4a0faa0fa08b"
     },
     {
      "fa": "یارانش از رودکی خواستند شعری بگوید تا دل امیر برای بخارا تنگ شود.",
      "r": "yārān-ash az Rudaki khāstand she'r-i beguyad tā del-e amir barā-ye Bokhārā tang shavad.",
-     "en": "His companions asked Rudaki to write a poem that would make the prince homesick for Bukhara."
+     "en": "His companions asked Rudaki to write a poem that would make the prince homesick for Bukhara.",
+     "faV": "یارانَش اَز رودَکی خواستَند شِعری بِگویَد تا دِلِ اَمیر بَرایِ بُخارا تَنگ شَوَد.",
+     "a": "452ada55775a"
     },
     {
      "fa": "رودکی چنگ برداشت و چنین آغاز کرد:",
      "r": "Rudaki chang bardāsht va chenin āghāz kard:",
-     "en": "Rudaki took up his harp and began like this:"
+     "en": "Rudaki took up his harp and began like this:",
+     "faV": "رودَکی چَنگ بَرداشت و چِنین آغاز کَرد:",
+     "a": "8c4e73bd994d"
     },
     {
      "fa": "بوی جوی مولیان آید همی / یاد یار مهربان آید همی",
      "r": "bu-ye ju-ye Muliyān āyad hami / yād-e yār-e mehrabān āyad hami",
      "en": "The scent of the Muliyan stream is coming to me; the memory of a dear friend is coming to me.",
-     "note": "The Muliyan was a stream in Bukhara. [[آید همی|āyad hami]] = [[می‌آید|mi-āyad]]: in early New Persian همی could follow the verb."
+     "note": "The Muliyan was a stream in Bukhara. [[آید همی|āyad hami]] = [[می‌آید|mi-āyad]]: in early New Persian همی could follow the verb.",
+     "faV": "بویِ جویِ مولیان آیَد هَمی / یادِ یارِ مِهرَبان آیَد هَمی",
+     "a": "0fcf8a80daf6"
     },
     {
      "fa": "امیر چنان به هیجان آمد که بی‌کفش بر اسب نشست و راهی بخارا شد.",
      "r": "amir chonān be hayajān āmad ke bi-kafsh bar asb neshast va rāhi-ye Bokhārā shod.",
-     "en": "The prince was so moved that he jumped on his horse without his boots and set off for Bukhara."
+     "en": "The prince was so moved that he jumped on his horse without his boots and set off for Bukhara.",
+     "faV": "اَمیر چُنان به هَیَجان آمَد که بی‌کَفش بَر اَسب نِشَست و راهیِ بُخارا شُد.",
+     "a": "4c066f9ab1f9"
     },
     {
      "fa": "هنوز هم بیشتر ایرانیان این بیت را می‌شناسند و بدون فرهنگ لغت می‌فهمند.",
      "r": "hanuz ham bishtar-e irāniyān in beyt rā mi-shenāsand va bedun-e farhang-e loghat mi-fahmand.",
-     "en": "Most Iranians still know this couplet and understand it without a dictionary."
+     "en": "Most Iranians still know this couplet and understand it without a dictionary.",
+     "faV": "هَنوز هَم بیشتَرِ ایرانیان این بَیت را می‌شِناسَند و بِدونِ فَرهَنگِ لُغَت می‌فَهمَند.",
+     "a": "0db2aeb50537"
     }
    ],
    "questions": [
@@ -851,42 +989,58 @@
     {
      "fa": "شاه",
      "r": "shāh",
-     "en": "king (Old Persian xšāyaθiya-)"
+     "en": "king (Old Persian xšāyaθiya-)",
+     "faV": "شاه",
+     "a": "7c80cd6ffe54"
     },
     {
      "fa": "بزرگ",
      "r": "bozorg",
-     "en": "great (Old Persian vazraka-)"
+     "en": "great (Old Persian vazraka-)",
+     "faV": "بُزُرگ",
+     "a": "65220b7cb8d1"
     },
     {
      "fa": "دروغ",
      "r": "dorugh",
-     "en": "lie (Old Persian drauga-)"
+     "en": "lie (Old Persian drauga-)",
+     "faV": "دُروغ",
+     "a": "712a0926cdb1"
     },
     {
      "fa": "کوه",
      "r": "kuh",
-     "en": "mountain (Old Persian kaufa-)"
+     "en": "mountain (Old Persian kaufa-)",
+     "faV": "کوه",
+     "a": "dce9030c3b67"
     },
     {
      "fa": "روز",
      "r": "ruz",
-     "en": "day (Old Persian rauča-)"
+     "en": "day (Old Persian rauča-)",
+     "faV": "روز",
+     "a": "c48a4b443df5"
     },
     {
      "fa": "سال",
      "r": "sāl",
-     "en": "year (Old Persian θard-)"
+     "en": "year (Old Persian θard-)",
+     "faV": "سال",
+     "a": "07e64721d4e4"
     },
     {
      "fa": "باد",
      "r": "bād",
-     "en": "wind (Middle Persian wād)"
+     "en": "wind (Middle Persian wād)",
+     "faV": "باد",
+     "a": "3dead206660c"
     },
     {
      "fa": "دبیر",
      "r": "dabir",
-     "en": "teacher, secretary (once a scribe)"
+     "en": "teacher, secretary (once a scribe)",
+     "faV": "دَبیر",
+     "a": "1e7152fbb798"
     }
    ]
   },
@@ -898,27 +1052,37 @@
     {
      "en": "Persian is one of the oldest living languages in the world.",
      "fa": "فارسی یکی از کهن‌ترین زبان‌های زنده‌ی جهان است.",
-     "r": "fārsi yek-i az kohan-tarin zabān-hā-ye zende-ye jahān ast."
+     "r": "fārsi yek-i az kohan-tarin zabān-hā-ye zende-ye jahān ast.",
+     "faV": "فارسی یِکی اَز کُهَن‌تَرین زَبان‌هایِ زِنده‌یِ جَهان اَست.",
+     "a": "e6fdbdb42785"
     },
     {
      "en": "Old Persian was written in cuneiform.",
      "fa": "فارسی باستان به خط میخی نوشته می‌شد.",
-     "r": "fārsi-ye bāstān be khatt-e mikhi neveshte mi-shod."
+     "r": "fārsi-ye bāstān be khatt-e mikhi neveshte mi-shod.",
+     "faV": "فارسیِ باستان به خَطِّ میخی نِوِشته می‌شُد.",
+     "a": "a9c62917556c"
     },
     {
      "en": "Where does this word come from?",
      "fa": "ریشه‌ی این واژه کجاست؟",
-     "r": "rishe-ye in vāzhe kojā-st?"
+     "r": "rishe-ye in vāzhe kojā-st?",
+     "faV": "ریشه‌یِ این واژه کُجاست؟",
+     "a": "3b490dc1ca09"
     },
     {
      "en": "Persian grammar has become simpler over time.",
      "fa": "دستور زبان فارسی در طول زمان ساده‌تر شده است.",
-     "r": "dastur-e zabān-e fārsi dar tul-e zamān sāde-tar shode ast."
+     "r": "dastur-e zabān-e fārsi dar tul-e zamān sāde-tar shode ast.",
+     "faV": "دَستورِ زَبانِ فارسی دَر طولِ زَمان ساده‌تَر شُده اَست.",
+     "a": "171da55bdca1"
     },
     {
      "en": "Many Arabic words entered Persian.",
      "fa": "واژه‌های عربی بسیاری وارد فارسی شد.",
-     "r": "vāzhe-hā-ye arabi-ye besyār-i vāred-e fārsi shod."
+     "r": "vāzhe-hā-ye arabi-ye besyār-i vāred-e fārsi shod.",
+     "faV": "واژه‌هایِ عَرَبیِ بِسیاری وارِدِ فارسی شُد.",
+     "a": "a45998207030"
     }
    ]
   },
@@ -930,22 +1094,30 @@
     {
      "fa": "رودکی پدر شعر فارسی است.",
      "r": "Rudaki pedar-e she'r-e fārsi ast.",
-     "en": "Rudaki is the father of Persian poetry."
+     "en": "Rudaki is the father of Persian poetry.",
+     "faV": "رودَکی پِدَرِ شِعرِ فارسی اَست.",
+     "a": "0bef32f3ec50"
     },
     {
      "fa": "فارسی میانه زبان رسمی ساسانیان بود.",
      "r": "fārsi-ye miyāne zabān-e rasmi-ye Sāsāniyān bud.",
-     "en": "Middle Persian was the official language of the Sasanians."
+     "en": "Middle Persian was the official language of the Sasanians.",
+     "faV": "فارسیِ میانه زَبانِ رَسمیِ ساسانیان بود.",
+     "a": "6fb9ea24273b"
     },
     {
      "fa": "عرب‌ها ایران را فتح کردند.",
      "r": "arab-hā Irān rā fath kardand.",
-     "en": "The Arabs conquered Iran."
+     "en": "The Arabs conquered Iran.",
+     "faV": "عَرَب‌ها ایران را فَتح کَردَند.",
+     "a": "414e3a4a7209"
     },
     {
      "fa": "یاد یار مهربان آید همی",
      "r": "yād-e yār-e mehrabān āyad hami",
-     "en": "The memory of a dear friend is coming to me."
+     "en": "The memory of a dear friend is coming to me.",
+     "faV": "یادِ یارِ مِهرَبان آیَد هَمی",
+     "a": "06285f403dc0"
     }
    ]
   },
@@ -963,7 +1135,9 @@
       "This inscription was carved into a mountainside near Kermanshah.",
       "This mountain near Kermanshah has no inscription."
      ],
-     "answer": 1
+     "answer": 1,
+     "faV": "این کَتیبه را بَر دِلِ کوهی دَر نَزدیکیِ کِرمانشاه کَنده‌اَند.",
+     "a": "f58a7ac264d8"
     },
     {
      "fa": "زرتشتیان کتاب‌های خود را به خط پهلوی می‌نوشتند.",
@@ -974,7 +1148,9 @@
       "The Zoroastrians read Arabic books.",
       "The Zoroastrians did not write books."
      ],
-     "answer": 0
+     "answer": 0,
+     "faV": "زَرتُشتیان کِتاب‌هایِ خود را به خَطِّ پَهلَوی می‌نِوِشتَند.",
+     "a": "5fa0a1b7b807"
     },
     {
      "fa": "امیر بی‌کفش بر اسب نشست و راهی بخارا شد.",
@@ -985,7 +1161,9 @@
       "The prince sold his horse in Bukhara.",
       "The prince got on his horse without his boots and set off for Bukhara."
      ],
-     "answer": 2
+     "answer": 2,
+     "faV": "اَمیر بی‌کَفش بَر اَسب نِشَست و راهیِ بُخارا شُد.",
+     "a": "cca103f79079"
     },
     {
      "fa": "داریوش و کوروش هنوز نام‌های رایجی در ایران هستند.",
@@ -996,9 +1174,13 @@
       "Dariush and Kurosh are still common names in Iran.",
       "Nobody in Iran is called Dariush any more."
      ],
-     "answer": 1
+     "answer": 1,
+     "faV": "داریوش و کوروش هَنوز نام‌هایِ رایِجی دَر ایران هَستَند.",
+     "a": "d32ea0c20307"
     }
    ]
   }
- ]
+ ],
+ "titleV": "فارسی دَر گُذَرِ زَمان",
+ "titleA": "e7adc22129d0"
 }

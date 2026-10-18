@@ -395,10 +395,10 @@ The choice between the two vocabularies is a matter of **style**, sometimes of c
 
 **Put the words in order**
 
-1. است. / مهم / انگیزه / این / نشان / که / پژوهش / می‌دهد — This study shows that motivation is important.
-2. است. / فرضیه‌ی / نظر / می‌رسد / نخست / که / درست / به — It seems that the first hypothesis is correct.
-3. از / شدند. / طریق / پرسش‌نامه / داده‌ها / گردآوری — The data were collected by means of a questionnaire.
-4. را / داد. / احتیاط / با / تعمیم / باید / نتایج — The results should be generalised with caution.
+1. این / که / انگیزه / پژوهش / مهم / نشان / می‌دهد / است. — This study shows that motivation is important.
+2. نخست / که / نظر / به / می‌رسد / فرضیه‌ی / است. / درست — It seems that the first hypothesis is correct.
+3. طریق / از / گردآوری / شدند. / پرسش‌نامه / داده‌ها — The data were collected by means of a questionnaire.
+4. نتایج / باید / را / با / داد. / احتیاط / تعمیم — The results should be generalised with caution.
 
 <details><summary>Answers</summary>
 
@@ -455,4 +455,4 @@ The choice between the two vocabularies is a matter of **style**, sometimes of c
 
 ---
 
-← [Advanced idioms: heart, hand, head and eye](b2-08-advanced-idioms.md) · [Contents](../README.md) · [Translation workshop](c1-02-translation-workshop.md) →
+← [Humour and wordplay: Mulla, the cat and the pun](b2-09-humour-and-wordplay.md) · [Contents](../README.md) · [Translation workshop](c1-02-translation-workshop.md) →

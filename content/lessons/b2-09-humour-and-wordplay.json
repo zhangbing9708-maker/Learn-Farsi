@@ -1,0 +1,887 @@
+{
+ "id": "b2-09-humour-and-wordplay",
+ "level": "B2",
+ "n": 9,
+ "title": "Humour and wordplay: Mulla, the cat and the pun",
+ "titleFa": "طنز و بازی با کلمات",
+ "titleR": "tanz o bāzi bā kalamāt",
+ "intro": "Iranians are great tellers of jokes, and they have been laughing in Persian for a very long time: at Mulla Nasreddin's crooked logic, at Obeyd Zakani's hypocritical cat, at puns that only work in Persian. In this lesson you read two classic comic tales, learn the words for joking, teasing and satire – and the difference between a friendly tease and a rude remark – see how Persian puns (جناس) work, and practise telling a joke the way Iranians tell it.",
+ "goals": [
+  "read and retell a Mulla Nasreddin anecdote and Obeyd Zakani's tale of the mouse and the cat",
+  "tell a friendly tease (سر به سر گذاشتن، شوخی کردن) from mockery and rude remarks (مسخره کردن، متلک انداختن)",
+  "recognise puns built on Persian homonyms such as شیر، سیر، باز and گور",
+  "tell a short joke in the storytelling present: یک روز ملا می‌رود…"
+ ],
+ "image": "nasreddin",
+ "sections": [
+  {
+   "type": "reading",
+   "title": "The pot that had a baby",
+   "intro": "Mulla Nasreddin – usually just 'the Mulla' – is the wise fool of a thousand stories told from the Balkans to Central Asia. Here is one of the best known, retold in plain written Persian.",
+   "sentences": [
+    {
+     "fa": "روزی ملا از همسایه‌اش دیگی قرض گرفت.",
+     "r": "ruz-i Mollā az hamsāye-ash dig-i gharz gereft.",
+     "en": "One day the Mulla borrowed a big cooking pot from his neighbour."
+    },
+    {
+     "fa": "چند روز بعد دیگ را پس برد و یک قابلمه‌ی کوچک هم در آن گذاشت.",
+     "r": "chand ruz ba'd dig rā pas bord o yek ghāblame-ye kuchek ham dar ān gozāsht.",
+     "en": "A few days later he took the pot back, with a little saucepan inside it."
+    },
+    {
+     "fa": "همسایه با تعجب پرسید: «این قابلمه چیست؟»",
+     "r": "hamsāye bā ta'ajjob porsid: «in ghāblame chist?»",
+     "en": "The neighbour asked in surprise, 'What's this saucepan?'"
+    },
+    {
+     "fa": "ملا گفت: «مبارک باشد! دیگ شما زایید.»",
+     "r": "Mollā goft: «mobārak bāshad! dig-e shomā zāyid.»",
+     "en": "The Mulla said, 'Congratulations! Your pot has had a baby.'"
+    },
+    {
+     "fa": "همسایه خندید و با خوشحالی دیگ و قابلمه را گرفت.",
+     "r": "hamsāye khandid o bā khoshhāli dig o ghāblame rā gereft.",
+     "en": "The neighbour laughed and happily took the pot and the saucepan."
+    },
+    {
+     "fa": "مدتی گذشت و ملا دوباره دیگ را قرض خواست.",
+     "r": "moddat-i gozasht o Mollā dobāre dig rā gharz khāst.",
+     "en": "Some time passed, and the Mulla asked to borrow the pot again."
+    },
+    {
+     "fa": "همسایه این بار با کمال میل آن را به او داد.",
+     "r": "hamsāye in bār bā kamāl-e meyl ān rā be u dād.",
+     "en": "This time the neighbour gave it to him most willingly."
+    },
+    {
+     "fa": "اما روزها و هفته‌ها گذشت و از دیگ خبری نشد.",
+     "r": "ammā ruz-hā o hafte-hā gozasht o az dig khabar-i na-shod.",
+     "en": "But days and weeks went by, and there was no sign of the pot."
+    },
+    {
+     "fa": "آخر همسایه به در خانه‌ی ملا رفت و دیگش را خواست.",
+     "r": "ākhar hamsāye be dar-e khāne-ye Mollā raft o dig-ash rā khāst.",
+     "en": "In the end the neighbour went to the Mulla's door and asked for his pot."
+    },
+    {
+     "fa": "ملا سرش را پایین انداخت و گفت: «تسلیت می‌گویم؛ دیگ شما مرد.»",
+     "r": "Mollā sar-ash rā pāyin andākht o goft: «tasliyat mi-guyam; dig-e shomā mord.»",
+     "en": "The Mulla hung his head and said, 'My condolences – your pot has died.'"
+    },
+    {
+     "fa": "همسایه فریاد زد: «دیگ که نمی‌میرد!»",
+     "r": "hamsāye faryād zad: «dig ke nemi-mirad!»",
+     "en": "The neighbour shouted, 'A pot can't die!'"
+    },
+    {
+     "fa": "ملا آرام جواب داد: «وقتی باور کردی که دیگ می‌زاید، چرا باور نمی‌کنی که می‌میرد؟»",
+     "r": "Mollā ārām javāb dād: «vaghti bāvar kardi ke dig mi-zāyad, cherā bāvar nemi-koni ke mi-mirad?»",
+     "en": "The Mulla answered calmly, 'When you believed that a pot could give birth, why won't you believe that it can die?'"
+    },
+    {
+     "fa": "از همین حکایت ضرب‌المثلی ساخته‌اند: «دیگی که زایید، سر زا هم می‌رود.»",
+     "r": "az hamin hekāyat zarb-ol-masal-i sākhte-and: «dig-i ke zāyid, sar-e zā ham mi-ravad.»",
+     "en": "A proverb has been made from this very story: 'A pot that gives birth can also die in childbirth.'"
+    },
+    {
+     "fa": "یعنی اگر از چیز عجیبی سود بردی، ضررش را هم باید قبول کنی.",
+     "r": "ya'ni agar az chiz-e ajib-i sud bordi, zarar-ash rā ham bāyad ghabul koni.",
+     "en": "That is: if you profited from something strange, you must accept its losses too."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What did the Mulla put inside the pot the first time?",
+     "options": [
+      "some food",
+      "a small saucepan",
+      "money"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Why did the neighbour lend the pot so willingly the second time?",
+     "options": [
+      "He hoped it would 'have a baby' again",
+      "He didn't need it",
+      "The Mulla paid him"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "How does the Mulla win the argument?",
+     "options": [
+      "He gives the pot back",
+      "He uses the neighbour's own logic against him",
+      "He asks the judge"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "How Iranians joke",
+   "md": "Persian humour has a few favourite moves:\n\n- **Crooked logic.** The Mulla never lies outright; he takes an idea seriously until it turns absurd – a pot that gives birth must be able to die.\n- **The quick retort.** Iranians admire [[حاضرجوابی|hāzer-javābi|quick-wittedness]], the answer that turns the tables in one line.\n- **Wordplay.** Persian is full of words that look or sound alike, and poets have played with them for a thousand years. The rhetorical term is [[جناس|jenās]].\n- **Satire.** From Obeyd Zakani in the fourteenth century to today's newspapers and social media, [[طنز|tanz]] has been a safe-ish way to criticise the powerful – a cat can say what a person cannot.\n- **Teasing among friends.** [[سر به سر گذاشتن|sar be sar gozāshtan]] is a sign of closeness: you tease people you like.\n\nJokes travel fast in Iran – by text message, in shared taxis, at family gatherings. Like everywhere, some joke cycles target particular towns or peoples. This course leaves them out, and it is wise to do the same: they are the quickest way to stop people laughing *with* you.\n\nFinally, Iranians laugh a great deal at themselves – at ta'ārof, at traffic, at the Persian love of long titles. Self-mockery is often the friendliest humour of all."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "شوخی",
+     "r": "shukhi",
+     "en": "joke, jest; joking",
+     "pos": "n"
+    },
+    {
+     "fa": "شوخی کردن",
+     "r": "shukhi kardan",
+     "en": "to joke",
+     "pos": "v",
+     "ex": {
+      "fa": "شوخی کردم، ناراحت نشو!",
+      "r": "shukhi kardam, nārāhat na-sho!",
+      "en": "I was joking – don't be upset!"
+     }
+    },
+    {
+     "fa": "جوک",
+     "r": "jok",
+     "en": "a joke (that you tell)",
+     "pos": "n",
+     "note": "جوک گفتن / جوک تعریف کردن 'to tell a joke'"
+    },
+    {
+     "fa": "لطیفه",
+     "r": "latife",
+     "en": "joke, witty anecdote (written, more formal)",
+     "pos": "n"
+    },
+    {
+     "fa": "خنده‌دار",
+     "r": "khande-dār",
+     "en": "funny, laughable",
+     "pos": "adj"
+    },
+    {
+     "fa": "بامزه",
+     "r": "bā-maze",
+     "en": "funny, witty; cute",
+     "pos": "adj",
+     "lit": "with taste"
+    },
+    {
+     "fa": "بی‌مزه",
+     "r": "bi-maze",
+     "en": "unfunny, lame (of a joke); tasteless",
+     "pos": "adj",
+     "note": "بی‌مزه! said with a smile is a friendly groan at a bad pun"
+    },
+    {
+     "fa": "شوخ‌طبع",
+     "r": "shukh-tab'",
+     "en": "witty, with a sense of humour",
+     "pos": "adj"
+    },
+    {
+     "fa": "حاضرجواب",
+     "r": "hāzer-javāb",
+     "en": "quick-witted, never lost for a reply",
+     "pos": "adj"
+    },
+    {
+     "fa": "طنز",
+     "r": "tanz",
+     "en": "satire; humour (as a genre)",
+     "pos": "n",
+     "note": "طنزنویس (tanz-nevis) 'satirist'"
+    },
+    {
+     "fa": "هجو",
+     "r": "hajv",
+     "en": "lampoon, mocking verse aimed at a person",
+     "pos": "n"
+    },
+    {
+     "fa": "کنایه",
+     "r": "kenāye",
+     "en": "allusion, innuendo; a dig",
+     "pos": "n",
+     "note": "نیش و کنایه (nish o kenāye) 'barbed remarks'"
+    },
+    {
+     "fa": "متلک",
+     "r": "matalak",
+     "en": "a snide remark; a catcall",
+     "pos": "n",
+     "note": "متلک انداختن / گفتن – rude"
+    },
+    {
+     "fa": "مسخره کردن",
+     "r": "maskhare kardan",
+     "en": "to mock, ridicule",
+     "pos": "v"
+    },
+    {
+     "fa": "دست انداختن",
+     "r": "dast andākhtan",
+     "en": "to pull someone's leg, make fun of someone",
+     "pos": "v",
+     "ex": {
+      "fa": "مرا دست انداخته‌ای؟",
+      "r": "marā dast andākhte-i?",
+      "en": "Are you pulling my leg?",
+      "col": "منو دست انداختی؟",
+      "colR": "mano dast andākhti?"
+     }
+    },
+    {
+     "fa": "جناس",
+     "r": "jenās",
+     "en": "pun, paronomasia (the literary term)",
+     "pos": "n"
+    },
+    {
+     "fa": "حکایت",
+     "r": "hekāyat",
+     "en": "tale, anecdote",
+     "pos": "n"
+    },
+    {
+     "fa": "ضرب‌المثل",
+     "r": "zarb-ol-masal",
+     "en": "proverb",
+     "pos": "n"
+    },
+    {
+     "fa": "قرض گرفتن",
+     "r": "gharz gereftan",
+     "en": "to borrow",
+     "pos": "v",
+     "note": "قرض دادن 'to lend'"
+    },
+    {
+     "fa": "ریا",
+     "r": "riyā",
+     "en": "hypocrisy, pretended piety",
+     "pos": "n",
+     "note": "ریاکار (riyākār) 'hypocrite'"
+    },
+    {
+     "fa": "توبه",
+     "r": "towbe",
+     "en": "repentance",
+     "pos": "n",
+     "note": "توبه کردن 'to repent'"
+    },
+    {
+     "fa": "از خنده روده‌بر شدن",
+     "r": "az khande rude-bar shodan",
+     "en": "to split one's sides laughing",
+     "pos": "v",
+     "lit": "to have one's guts cut from laughter"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Joking, teasing, mocking: knowing the difference",
+   "md": "Persian draws clear lines between kinds of laughter, and the verbs tell you which side of the line you are on. [[شوخی کردن|shukhi kardan]] and [[سر به سر کسی گذاشتن|sar be sar-e kas-i gozāshtan]] are friendly: they assume you are close. [[دست انداختن|dast andākhtan]] is playful but can sting. [[مسخره کردن|maskhare kardan]] is unkind, and [[متلک انداختن|matalak andākhtan]] – a snide remark, or a remark shouted at a stranger in the street – is plain rude.\n\nIf a tease has gone too far, repair it at once: [[شوخی کردم!|shukhi kardam!|I was only joking!]], [[به دل نگیر|be del na-gir|don't take it to heart]].",
+   "table": {
+    "head": [
+     "Expression",
+     "Meaning",
+     "How it feels"
+    ],
+    "rows": [
+     ["[[شوخی کردن|shukhi kardan]]", "to joke", "friendly"],
+     ["[[جوک تعریف کردن|jok ta'rif kardan]]", "to tell a joke", "everyday"],
+     ["[[سر به سر کسی گذاشتن|sar be sar-e kas-i gozāshtan]]", "to tease someone playfully", "friendly, between people who are close"],
+     ["[[دست انداختن|dast andākhtan]]", "to pull someone's leg, make fun of", "playful, but can sting"],
+     ["[[مسخره کردن|maskhare kardan]]", "to mock, ridicule", "unkind"],
+     ["[[متلک انداختن|matalak andākhtan]]", "to make a snide remark; to catcall", "rude"],
+     ["[[نیش زدن|nish zadan]]", "to make a barbed remark (lit. to sting)", "unkind, passive-aggressive"],
+     ["[[به شوخی گرفتن|be shukhi gereftan]]", "to take something as a joke", "neutral"],
+     ["[[جدی گرفتن|jeddi gereftan]]", "to take something seriously", "neutral"],
+     ["[[شوخی‌بردار نبودن|shukhi-bardār na-budan]]", "to be no joking matter; not to take a joke", "neutral"],
+     ["[[شوخی‌شوخی|shukhi-shukhi]]", "half in jest", "everyday"]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "یک جوک بامزه برایت تعریف کنم؟",
+     "r": "yek jok-e bā-maze barā-yat ta'rif konam?",
+     "en": "Shall I tell you a funny joke?",
+     "col": "یه جوک بامزه برات تعریف کنم؟",
+     "colR": "ye jok-e bā-maze barāt ta'rif konam?"
+    },
+    {
+     "fa": "عمویم همیشه با بچه‌ها سر به سر می‌گذارد.",
+     "r": "amu-yam hamishe bā bacche-hā sar be sar mi-gozārad.",
+     "en": "My uncle is always teasing the children.",
+     "col": "عموم همیشه با بچه‌ها سر به سر می‌ذاره.",
+     "colR": "amu-m hamishe bā bacche-hā sar be sar mi-zāre."
+    },
+    {
+     "fa": "کسی را به خاطر لهجه‌اش مسخره نکن.",
+     "r": "kas-i rā be khāter-e lahje-ash maskhare na-kon.",
+     "en": "Don't mock anyone for their accent."
+    },
+    {
+     "fa": "در خیابان به او متلک انداختند و او اعتنا نکرد.",
+     "r": "dar khiyābān be u matalak andākhtand o u e'tenā na-kard.",
+     "en": "Someone made remarks at her in the street, and she ignored them."
+    },
+    {
+     "fa": "حرفم را به شوخی گرفت و خندید.",
+     "r": "harf-am rā be shukhi gereft o khandid.",
+     "en": "He took what I said as a joke and laughed."
+    },
+    {
+     "fa": "این موضوع شوخی‌بردار نیست.",
+     "r": "in mowzu' shukhi-bardār nist.",
+     "en": "This is no joking matter."
+    },
+    {
+     "fa": "شوخی‌شوخی حرفش را زد، ولی منظورش جدی بود.",
+     "r": "shukhi-shukhi harf-ash rā zad, vali manzur-ash jeddi bud.",
+     "en": "He said it half in jest, but he meant it."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Puns: جناس",
+   "md": "A Persian pun usually rests on one of two things:\n\n1. **One word, two meanings** – the same spelling and sound: [[شیر|shir]] is a lion, milk and a tap; [[سیر|sir]] is garlic and 'full after eating'. Rhetoric calls this *jenās-e tām*, the complete pun.\n2. **Two words that differ by one vowel or letter** – since short vowels are not written, they even *look* the same: [[کشتی|kashti|ship]] and [[کشتی|koshti|wrestling]], [[نه|na|no]] and [[نه|noh|nine]].\n\nPoets used both constantly. A famous quatrain attributed to Khayyam ends on the two meanings of [[گور|gur]] – the wild ass that King Bahram loved to hunt (he was nicknamed Bahram-e Gur), and the grave:\n\n> [[بهرام که گور می‌گرفتی همه عمر / دیدی که چگونه گور بهرام گرفت؟|bahrām ke gur mi-gerefti hame 'omr / didi ke chegune gur bahrām gereft?|Bahram, you who caught wild asses all your life – did you see how the grave caught Bahram?]]\n\nPuns are the jokes that translate worst. When an Iranian groans [[بی‌مزه!|bi-maze!|lame!]] at your first Persian pun, take it as a compliment.",
+   "table": {
+    "head": [
+     "Word",
+     "Meaning 1",
+     "Meaning 2 (and 3)"
+    ],
+    "rows": [
+     ["[[شیر|shir]]", "lion", "milk; tap"],
+     ["[[سیر|sir]]", "full (after eating)", "garlic"],
+     ["[[باز|bāz]]", "open", "again; falcon"],
+     ["[[گور|gur]]", "grave", "wild ass, onager"],
+     ["[[شانه|shāne]]", "comb", "shoulder"],
+     ["[[مهر|mehr]]", "love, kindness", "seal, stamp; the month Mehr"],
+     ["[[ماه|māh]]", "moon", "month; a beautiful face"],
+     ["[[دست|dast]]", "hand", "a set (یک دست لباس 'a suit'); a round of a game"],
+     ["کشتی", "[[کشتی|kashti|ship]]", "[[کشتی|koshti|wrestling]] – one vowel apart"],
+     ["نه", "[[نه|na|no]]", "[[نه|noh|nine]] – one vowel apart"]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "سیر خوردم و سیر شدم.",
+     "r": "sir khordam o sir shodam.",
+     "en": "I ate garlic and got full."
+    },
+    {
+     "fa": "باز در را باز گذاشتی؟",
+     "r": "bāz dar rā bāz gozāshti?",
+     "en": "Did you leave the door open again?"
+    },
+    {
+     "fa": "ماه من، این ماه به دیدنم بیا.",
+     "r": "māh-e man, in māh be didan-am biyā.",
+     "en": "My moon (my beauty), come and see me this month."
+    },
+    {
+     "fa": "کشتی‌گیر با کشتی به جزیره رفت.",
+     "r": "koshti-gir bā kashti be jazire raft.",
+     "en": "The wrestler went to the island by ship."
+    },
+    {
+     "fa": "گفتم نه، نه بار گفتم نه!",
+     "r": "goftam na, noh bār goftam na!",
+     "en": "I said no – I said no nine times!"
+    },
+    {
+     "fa": "دیوار موش دارد، موش هم گوش دارد.",
+     "r": "divār mush dārad, mush ham gush dārad.",
+     "en": "Walls have mice, and mice have ears.",
+     "note": "A rhyme rather than a pun – the Persian 'walls have ears'."
+    },
+    {
+     "fa": "خرگوش گوش‌های بلندی دارد، ولی خر نیست!",
+     "r": "khar-gush gush-hā-ye boland-i dārad, vali khar nist!",
+     "en": "The hare has long ears, but it's no donkey!",
+     "note": "خرگوش 'hare' is literally 'donkey-ear' – a children's joke built on a compound."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Telling a joke the Iranian way",
+   "md": "When Iranians tell a joke or an anecdote aloud, they switch into the **storytelling present**: [[یک روز ملا می‌رود بازار|yek ruz Mollā mi-ravad bāzār|one day the Mulla goes to the market]] – just as English says *so this guy walks into a bar*. Speech is quoted with [[می‌گوید|mi-guyad]] (spoken *mi-ge*) and no 'that'. Characters are often just [[طرف|taraf|the guy]] or [[یارو|yāru|this fellow]] – but یارو sounds rude about a real person, so keep it for jokes.\n\nThe punchline comes last and stands alone, often after a pause or a [[خلاصه|kholāse|anyway]]. Here is another famous Mulla story told that way – the written form first, then the way you would hear it at a dinner table.",
+   "table": {
+    "head": [
+     "Formula",
+     "Use",
+     "Example"
+    ],
+    "rows": [
+     ["[[یک روز…|yek ruz…]] / [[یه روز…|ye ruz…]]", "the opening", "[[یه روز ملا می‌ره بازار|ye ruz Mollā mi-re bāzār]]"],
+     ["[[طرف|taraf]] / [[یارو|yāru]]", "'the guy', 'this fellow' (spoken)", "[[طرف می‌ره دکتر|taraf mi-re doktor]]"],
+     ["present tense", "telling the story", "[[می‌ره، می‌بینه، می‌گه|mi-re, mi-bine, mi-ge]]"],
+     ["[[می‌گوید|mi-guyad]] / [[می‌گه|mi-ge]]", "quoting, no 'that'", "[[می‌گه: «گوشت کو؟»|mi-ge: «gusht ku?»]]"],
+     ["[[تازه|tāze]]", "'and what's more…'", "[[تازه، طلبکار هم هست!|tāze, talabkār ham hast!]]"],
+     ["[[یعنی چه؟|ya'ni che?]] / [[یعنی چی؟|ya'ni chi?]]", "the straight man's question", "'what do you mean?'"],
+     ["[[خلاصه|kholāse]]", "'anyway', before the ending", "[[خلاصه، ملا برنده شد|kholāse, Mollā barande shod]]"],
+     ["[[آخرش|ākhar-esh]]", "'in the end'", "[[آخرش معلوم شد که…|ākhar-esh ma'lum shod ke…]]"]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "یک روز ملا سه کیلو گوشت می‌خرد و به خانه می‌آورد.",
+     "r": "yek ruz Mollā se kilu gusht mi-kharad o be khāne mi-āvarad.",
+     "en": "One day the Mulla buys three kilos of meat and brings it home.",
+     "col": "یه روز ملا سه کیلو گوشت می‌خره، میاره خونه.",
+     "colR": "ye ruz Mollā se kilu gusht mi-khare, miyāre khune."
+    },
+    {
+     "fa": "زنش گوشت را برای مهمان‌هایش کباب می‌کند و همه را می‌خورند.",
+     "r": "zan-ash gusht rā barā-ye mehmān-hā-yash kabāb mi-konad o hame rā mi-khorand.",
+     "en": "His wife grills the meat for her guests, and they eat the lot.",
+     "col": "زنش گوشتو واسه مهموناش کباب می‌کنه، همه‌شو می‌خورن.",
+     "colR": "zan-esh gusht-o vāse mehmun-āsh kabāb mi-kone, hame-sho mi-khoran."
+    },
+    {
+     "fa": "شب ملا می‌پرسد: «گوشت کو؟»",
+     "r": "shab Mollā mi-porsad: «gusht ku?»",
+     "en": "In the evening the Mulla asks, 'Where's the meat?'",
+     "col": "شب ملا می‌پرسه: «گوشت کو؟»",
+     "colR": "shab Mollā mi-porse: «gusht ku?»"
+    },
+    {
+     "fa": "زن می‌گوید: «گربه خورد!»",
+     "r": "zan mi-guyad: «gorbe khord!»",
+     "en": "His wife says, 'The cat ate it!'",
+     "col": "زنه می‌گه: «گربه خورد!»",
+     "colR": "zane mi-ge: «gorbe khord!»"
+    },
+    {
+     "fa": "ملا گربه را برمی‌دارد و روی ترازو می‌گذارد: درست سه کیلو است.",
+     "r": "Mollā gorbe rā bar-mi-dārad o ru-ye tarāzu mi-gozārad: dorost se kilu ast.",
+     "en": "The Mulla picks up the cat and puts it on the scales: exactly three kilos.",
+     "col": "ملا گربه رو برمی‌داره، می‌ذاره رو ترازو: درست سه کیلو!",
+     "colR": "Mollā gorbe ro bar-mi-dāre, mi-zāre ru tarāzu: dorost se kilu!"
+    },
+    {
+     "fa": "می‌گوید: «اگر این گربه است، پس گوشت کو؟ اگر این گوشت است، پس گربه کو؟»",
+     "r": "mi-guyad: «agar in gorbe ast, pas gusht ku? agar in gusht ast, pas gorbe ku?»",
+     "en": "He says, 'If this is the cat, where's the meat? If this is the meat, where's the cat?'",
+     "col": "می‌گه: «اگه این گربه‌ست، پس گوشت کو؟ اگه این گوشته، پس گربه کو؟»",
+     "colR": "mi-ge: «age in gorbe-st, pas gusht ku? age in gushte, pas gorbe ku?»"
+    },
+    {
+     "fa": "خلاصه، از آن روز گربه‌ی ملا معروف شد.",
+     "r": "kholāse, az ān ruz gorbe-ye Mollā ma'ruf shod.",
+     "en": "Anyway, from that day on the Mulla's cat was famous.",
+     "col": "خلاصه، از اون روز گربه‌ی ملا معروف شد.",
+     "colR": "kholāse, az un ruz gorbe-ye Mollā ma'ruf shod."
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Obeyd Zakani: the mouse and the cat",
+   "intro": "Obeyd Zakani (died about 1370) lived in Shiraz in the age of Hafez and was the sharpest satirist of classical Persian. His *Mouse and Cat* is a short comic epic in verse; it starts its story with the line [[از قضای فلک یکی گربه / بود چون اژدها به کرمانا|az ghazā-ye falak yek-i gorbe / bud chon ezhdehā be Kermānā|by the will of heaven there was a cat in Kerman, like a dragon]]. Here it is retold in modern prose.",
+   "sentences": [
+    {
+     "fa": "عبید زاکانی، شاعر و طنزنویس قرن هشتم هجری، داستان موش و گربه را به شعر سروده است.",
+     "r": "Obeyd Zākāni, shā'er o tanz-nevis-e gharn-e hashtom-e hejri, dāstān-e mush o gorbe rā be she'r sorude ast.",
+     "en": "Obeyd Zakani, poet and satirist of the eighth century of the Hijra – the fourteenth century AD – told the story of the mouse and the cat in verse."
+    },
+    {
+     "fa": "در کرمان گربه‌ای بود به بزرگی اژدها که همه از او می‌ترسیدند.",
+     "r": "dar Kermān gorbe-i bud be bozorgi-ye ezhdehā ke hame az u mi-tarsidand.",
+     "en": "In Kerman there was a cat as big as a dragon, and everyone was afraid of him."
+    },
+    {
+     "fa": "روزی گربه به شرابخانه رفت تا موش شکار کند.",
+     "r": "ruz-i gorbe be sharāb-khāne raft tā mush shekār konad.",
+     "en": "One day the cat went into a wine cellar to hunt mice."
+    },
+    {
+     "fa": "موشی از خم شراب خورده بود و مست شده بود.",
+     "r": "mush-i az khom-e sharāb khorde bud o mast shode bud.",
+     "en": "A mouse had drunk from a wine jar and was drunk."
+    },
+    {
+     "fa": "موش مست فریاد می‌زد: «گربه کجاست تا سرش را بکنم؟»",
+     "r": "mush-e mast faryād mi-zad: «gorbe kojā-st tā sar-ash rā bekanam?»",
+     "en": "The drunken mouse was shouting, 'Where's that cat? I'll tear his head off!'"
+    },
+    {
+     "fa": "گربه از پشت خم بیرون پرید و موش را گرفت و خورد.",
+     "r": "gorbe az posht-e khom birun parid o mush rā gereft o khord.",
+     "en": "The cat leapt out from behind the jar, caught the mouse and ate him."
+    },
+    {
+     "fa": "بعد به مسجد رفت، دست و رویش را شست و توبه کرد.",
+     "r": "ba'd be masjed raft, dast o ru-yash rā shost o towbe kard.",
+     "en": "Then he went to the mosque, washed his hands and face, and repented."
+    },
+    {
+     "fa": "موشی که پشت منبر پنهان شده بود، این خبر را برای موش‌ها برد.",
+     "r": "mush-i ke posht-e menbar penhān shode bud, in khabar rā barā-ye mush-hā bord.",
+     "en": "A mouse who had been hiding behind the pulpit took the news to the other mice."
+    },
+    {
+     "fa": "موش‌ها خوشحال شدند و هفت موش را با هدیه‌های فراوان پیش گربه فرستادند.",
+     "r": "mush-hā khoshhāl shodand o haft mush rā bā hediye-hā-ye farāvān pish-e gorbe ferestādand.",
+     "en": "The mice were overjoyed and sent seven mice to the cat with a mountain of presents."
+    },
+    {
+     "fa": "هدیه‌ها شراب و کباب و کشمش و خرما و پنیر و برنج بود.",
+     "r": "hediye-hā sharāb o kabāb o keshmesh o khormā o panir o berenj bud.",
+     "en": "The presents were wine, kebab, raisins, dates, cheese and rice."
+    },
+    {
+     "fa": "گربه هدیه‌ها را دید و ناگهان پنج موش را با هم گرفت.",
+     "r": "gorbe hediye-hā rā did o nāgahān panj mush rā bā ham gereft.",
+     "en": "The cat looked at the presents – and suddenly seized five of the mice at once."
+    },
+    {
+     "fa": "دو موش فرار کردند و خبر را به پادشاه موش‌ها رساندند.",
+     "r": "do mush farār kardand o khabar rā be pādshāh-e mush-hā resāndand.",
+     "en": "Two mice escaped and took the news to the king of the mice."
+    },
+    {
+     "fa": "پادشاه لشکری بزرگ جمع کرد و گربه در جنگ اسیر شد.",
+     "r": "pādshāh lashkar-i bozorg jam' kard o gorbe dar jang asir shod.",
+     "en": "The king gathered a great army, and in the battle the cat was taken prisoner."
+    },
+    {
+     "fa": "اما وقتی می‌خواستند او را به دار بزنند، بندها را پاره کرد و لشکر موش‌ها را پراکند.",
+     "r": "ammā vaghti mi-khāstand u rā be dār bezanand, band-hā rā pāre kard o lashkar-e mush-hā rā parākand.",
+     "en": "But just as they were about to hang him, he broke his bonds and scattered the army of mice."
+    },
+    {
+     "fa": "قرن‌هاست که خوانندگان در این گربه‌ی ریاکار چهره‌ی حاکمان دروغگو را می‌بینند.",
+     "r": "gharn-hā-st ke khānandegān dar in gorbe-ye riyākār chehre-ye hākemān-e dorughgu rā mi-binand.",
+     "en": "For centuries readers have seen in this hypocritical cat the face of lying rulers."
+    },
+    {
+     "fa": "به قول مردم: «توبه‌ی گرگ مرگ است.»",
+     "r": "be ghowl-e mardom: «towbe-ye gorg marg ast.»",
+     "en": "As people say: 'A wolf's repentance is death' – it only ends when the wolf does."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why did the drunken mouse get eaten?",
+     "options": [
+      "He boasted loudly that he would kill the cat",
+      "He stole the cat's food",
+      "He went to the mosque"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Why did the mice send presents to the cat?",
+     "options": [
+      "To ask for peace after the war",
+      "Because they heard he had repented",
+      "Because it was Nowruz"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What do readers usually see in the cat?",
+     "options": [
+      "a loyal friend",
+      "a hypocritical ruler",
+      "a foolish king"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "From Obeyd to the thirteenth of Farvardin",
+   "md": "**Obeyd Zakani** wrote in fourteenth-century Shiraz, in the same streets as Hafez, under rulers who alternated between pleasure and harsh piety. Besides *Mouse and Cat* he wrote mock treatises: *The Ethics of the Aristocrats*, which 'proves' that the old virtues are out of date, and a satirical dictionary of *Definitions* in which every respectable title is given a wicked meaning. Many readers see in his pious, murderous cat a portrait of a ruler of his own day; the poem has been read since as a satire on any power that wraps itself in religion.\n\n**Mulla Nasreddin** belongs to everyone. Turks call him Nasreddin Hoca, Central Asians often Afandi, and Arabs tell similar stories of Juha. In Iran his stories are children's books, proverbs and television sketches, and you will hear Iranians quote him without telling the whole story: [[دیگ زایید|dig zāyid]], 'the pot had a baby', is enough.\n\n**The lie of the thirteenth.** On [[سیزده‌بدر|sizdah-bedar]], the thirteenth day of the new year, families picnic outdoors and play tricks on each other. A prank on that day is a [[دروغ سیزده|dorugh-e sizdah|the lie of the thirteenth]] – Iran's April Fool, which some say is older than the European one.\n\n**Why jokes don't translate.** A Persian joke may rest on a pun (شیر، سیر), on an unwritten vowel (کشتی), on the ritual politeness of ta'ārof, on a line of Hafez everybody knows, or on the switch between bookish and street Persian. Explaining it kills it. The surest sign that your Persian has arrived is the day you laugh before the explanation.",
+   "image": "sizdah-bedar"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "Laugh at the Mulla, not at people. Jokes about a town, a people or an accent may get a laugh in some company, but they cost friends – leave them alone.",
+    "A tease needs a safety net. If your سر به سر گذاشتن lands badly, add at once: [[شوخی کردم، به دل نگیر|shukhi kardam, be del na-gir|I was joking, don't take it to heart]].",
+    "Learn a few Mulla stories by heart and tell them in the storytelling present with spoken forms: *ye ruz Mollā mi-re…* It is one of the best fluency exercises there is.",
+    "Collect homonyms as you meet them – شیر، سیر، باز، ماه، مهر، شانه. Each one is a pun waiting for you.",
+    "In writing, satire is [[طنز|tanz]]; a personal attack in verse is [[هجو|hajv]]. Iranian critics are proud of the first and wary of the second.",
+    "If you don't get a joke, say so with a smile: [[نگرفتم!|na-gereftam!|I didn't get it!]] – گرفتن 'to get' works exactly as in English."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentence",
+   "items": [
+    {
+     "fa": "ملا گفت: «مبارک باشد! دیگ شما ___.»",
+     "r": "Mollā goft: «mobārak bāshad! dig-e shomā ___.»",
+     "en": "The Mulla said, 'Congratulations! Your pot has had a baby.'",
+     "answer": "زایید",
+     "hint": "past of زاییدن 'to give birth'"
+    },
+    {
+     "fa": "ناراحت نشو، ___ کردم!",
+     "r": "nārāhat na-sho, ___ kardam!",
+     "en": "Don't be upset, I was joking!",
+     "answer": "شوخی",
+     "hint": "a joke"
+    },
+    {
+     "fa": "دیگی که زایید، سر زا هم ___.",
+     "r": "dig-i ke zāyid, sar-e zā ham ___.",
+     "en": "A pot that gives birth can also die in childbirth.",
+     "answer": "می‌رود",
+     "hint": "present of رفتن"
+    },
+    {
+     "fa": "___ خوردم و سیر شدم.",
+     "r": "___ khordam o sir shodam.",
+     "en": "I ate garlic and got full.",
+     "answer": "سیر",
+     "hint": "the pun"
+    },
+    {
+     "fa": "گربه بعد از خوردن موش به مسجد رفت و ___ کرد.",
+     "r": "gorbe ba'd az khordan-e mush be masjed raft o ___ kard.",
+     "en": "After eating the mouse, the cat went to the mosque and repented.",
+     "answer": "توبه",
+     "hint": "repentance"
+    },
+    {
+     "fa": "این جوک اصلاً خنده‌دار نبود؛ خیلی ___ بود.",
+     "r": "in jok aslan khande-dār na-bud; kheyli ___ bud.",
+     "en": "That joke wasn't funny at all; it was really lame.",
+     "answer": "بی‌مزه",
+     "hint": "'without taste'"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Jokes, satire and puns",
+   "items": [
+    {
+     "q": "Why does the Mulla say that the pot has died?",
+     "options": [
+      "Because it really broke",
+      "To keep it, using the neighbour's own logic",
+      "Because he forgot where it was"
+     ],
+     "answer": 1,
+     "explain": "If the neighbour accepted that a pot can give birth, he can hardly deny that it can die."
+    },
+    {
+     "q": "[[متلک انداختن|matalak andākhtan]] is…",
+     "options": [
+      "a friendly way of teasing",
+      "telling a long joke",
+      "making a snide or rude remark"
+     ],
+     "answer": 2,
+     "explain": "متلک is a rude dig or a remark shouted at a stranger – not a friendly tease."
+    },
+    {
+     "q": "Which word means both 'garlic' and 'full'?",
+     "options": [
+      "شیر",
+      "سیر",
+      "باز"
+     ],
+     "answer": 1,
+     "explain": "سیر: سیر خوردم و سیر شدم 'I ate garlic and got full'."
+    },
+    {
+     "q": "In Obeyd Zakani's poem, the cat stands for…",
+     "options": [
+      "hypocritical rulers",
+      "the poet himself",
+      "the people of Kerman"
+     ],
+     "answer": 0,
+     "explain": "The cat repents in public and goes on killing – the classic hypocrite (ریاکار)."
+    },
+    {
+     "q": "What is [[جناس|jenās]]?",
+     "options": [
+      "a kind of satire on rulers",
+      "a play on words that look or sound alike",
+      "a funny story about the Mulla"
+     ],
+     "answer": 1,
+     "explain": "جناس is the rhetorical name for a pun, like گور 'grave' and گور 'wild ass' in Khayyam."
+    },
+    {
+     "q": "How do Iranians usually tell a joke aloud?",
+     "options": [
+      "in the formal future tense",
+      "in the storytelling present: می‌ره، می‌گه",
+      "always in verse"
+     ],
+     "answer": 1,
+     "explain": "Like English 'so this guy walks into a bar', Persian jokes are told in the present."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "I was only joking.",
+     "fa": "فقط شوخی کردم.",
+     "r": "faghat shukhi kardam."
+    },
+    {
+     "en": "Are you pulling my leg?",
+     "fa": "مرا دست انداخته‌ای؟",
+     "r": "marā dast andākhte-i?"
+    },
+    {
+     "en": "This joke can't be translated.",
+     "fa": "این جوک ترجمه‌شدنی نیست.",
+     "r": "in jok tarjome-shodani nist."
+    },
+    {
+     "en": "She has a great sense of humour.",
+     "fa": "او خیلی شوخ‌طبع است.",
+     "r": "u kheyli shukh-tab' ast."
+    },
+    {
+     "en": "Don't make fun of anyone.",
+     "fa": "کسی را مسخره نکن.",
+     "r": "kas-i rā maskhare na-kon."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "ملا از همسایه دیگی قرض گرفت.",
+     "r": "Mollā az hamsāye dig-i gharz gereft.",
+     "en": "The Mulla borrowed a pot from the neighbour."
+    },
+    {
+     "fa": "دیگ شما زایید.",
+     "r": "dig-e shomā zāyid.",
+     "en": "Your pot has had a baby."
+    },
+    {
+     "fa": "سیر خوردم و سیر شدم.",
+     "r": "sir khordam o sir shodam.",
+     "en": "I ate garlic and got full."
+    },
+    {
+     "fa": "این موضوع شوخی‌بردار نیست.",
+     "r": "in mowzu' shukhi-bardār nist.",
+     "en": "This is no joking matter."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the words",
+   "items": [
+    {
+     "fa": "شوخی",
+     "r": "shukhi",
+     "en": "joke, jest"
+    },
+    {
+     "fa": "طنز",
+     "r": "tanz",
+     "en": "satire"
+    },
+    {
+     "fa": "جناس",
+     "r": "jenās",
+     "en": "pun"
+    },
+    {
+     "fa": "متلک",
+     "r": "matalak",
+     "en": "snide remark"
+    },
+    {
+     "fa": "بامزه",
+     "r": "bā-maze",
+     "en": "funny"
+    },
+    {
+     "fa": "بی‌مزه",
+     "r": "bi-maze",
+     "en": "lame, unfunny"
+    },
+    {
+     "fa": "حاضرجواب",
+     "r": "hāzer-javāb",
+     "en": "quick-witted"
+    },
+    {
+     "fa": "ریا",
+     "r": "riyā",
+     "en": "hypocrisy"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "شوخی کردم، ناراحت نشو!",
+     "r": "shukhi kardam, nārāhat na-sho!",
+     "en": "I was joking – don't be upset!",
+     "options": [
+      "I was joking – don't be upset!",
+      "I'm upset – stop joking!",
+      "Tell me a joke!"
+     ],
+     "answer": 0
+    },
+    {
+     "fa": "دیگ که نمی‌میرد!",
+     "r": "dig ke nemi-mirad!",
+     "en": "A pot can't die!",
+     "options": [
+      "The pot has had a baby!",
+      "Give me back my pot!",
+      "A pot can't die!"
+     ],
+     "answer": 2
+    },
+    {
+     "fa": "باز در را باز گذاشتی؟",
+     "r": "bāz dar rā bāz gozāshti?",
+     "en": "Did you leave the door open again?",
+     "options": [
+      "Did you close the door?",
+      "Did you leave the door open again?",
+      "Is the falcon at the door?"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

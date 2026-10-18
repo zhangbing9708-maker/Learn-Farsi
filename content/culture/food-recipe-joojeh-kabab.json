@@ -1,0 +1,129 @@
+{
+ "id": "food-recipe-joojeh-kabab",
+ "topic": "food",
+ "title": "Recipe: joojeh kabab",
+ "titleFa": "جوجه‌کباب",
+ "titleR": "juje-kabāb",
+ "image": "jujeh-kabab",
+ "summary": "Cook along with joojeh kabab: chicken marinated overnight in saffron, lemon and onion, grilled on skewers over glowing charcoal and served with rice or lavash and grilled tomatoes.",
+ "body": [
+  {
+   "h": "Chicken on the coals",
+   "md": "[[جوجه|juje|chick]] means a chick or young chicken, and [[جوجه‌کباب|juje-kabāb|chicken kabab]] is chicken marinated in saffron, lemon juice and onion and grilled on skewers ([[سیخ|sikh|skewer]]). Every [[کبابی|kabābi|kabab house]] in Iran serves it, but it is above all a picnic dish. On Fridays and holidays – and on Sizdah Bedar, the picnic day at the end of Nowruz – parks, riversides and mountain paths fill with families fanning charcoal on a [[منقل|manghal|charcoal grill]], with bowls of marinated chicken and bags of bread beside them.\n\nIt is also one of the easiest kababs to make at home: the overnight marinade does most of the work."
+  },
+  {
+   "h": "Ingredients (for 4)",
+   "md": "- 1 kg boneless chicken thighs and/or breast, cut into 4 cm pieces ([[مرغ|morgh|chicken]])\n- 1 large onion, grated or thinly sliced ([[پیاز|piyāz|onion]])\n- juice of 2 lemons, about 4 tablespoons (60 ml) ([[آبلیمو|āb-limu|lemon juice]])\n- ½ teaspoon ground saffron ([[زعفران|za'farān|saffron]]) dissolved in 3 tablespoons hot water\n- ½ cup (125 g) plain yoghurt, optional ([[ماست|māst|yoghurt]])\n- 3 tablespoons (45 ml) oil ([[روغن|rowghan|oil]])\n- 1 teaspoon salt and ½ teaspoon black pepper\n- for basting: 3 tablespoons (40 g) butter ([[کره|kare|butter]]) melted with 1 tablespoon lemon juice\n- 6 small tomatoes for grilling ([[گوجه‌فرنگی|gowje-farangi|tomato]])\n- flat metal skewers and charcoal ([[زغال|zoghāl|charcoal]])",
+   "image": "saffron"
+  },
+  {
+   "h": "Method",
+   "md": "1. Grind the saffron with a pinch of sugar, pour over the hot water and leave it for 10 minutes. Keep one spoonful for basting.\n2. In a bowl mix the onion, lemon juice, saffron water, yoghurt, oil, salt and pepper.\n3. Add the chicken, mix well with your hands, cover and leave in the fridge for at least 4 hours, ideally overnight.\n4. Light the charcoal and wait about 30 minutes, until the coals glow red under a thin grey ash.\n5. Thread the chicken onto the skewers, not too tightly, and wipe off pieces of onion, which burn. Put the tomatoes on a skewer of their own.\n6. Grill for 10–15 minutes, turning the skewers every couple of minutes and fanning the coals with a [[بادبزن|bādbezan|hand fan]] when they need it.\n7. Stir the saved saffron water into the melted butter and brush it over the chicken in the last few minutes.\n8. Slide the chicken off onto rice or lavash, with the grilled tomatoes."
+  },
+  {
+   "h": "Tips",
+   "md": "- Thigh meat stays juicier than breast; many cooks use half and half.\n- Don't leave chicken in lemon for more than a day, or it turns soft and mealy.\n- No barbecue? Spread the chicken on a tray and cook it under a hot grill or at 220°C for 20–25 minutes, turning once.\n- Cut the pieces the same size so they cook evenly."
+  },
+  {
+   "h": "Serving and variations",
+   "md": "In a restaurant joojeh kabab comes on [[چلو|chelow|steamed rice]] with a pat of butter, grilled tomatoes and a pinch of [[سماق|somāgh|sumac]]; at a picnic it is wrapped in lavash with raw onion and fresh herbs. The drink is almost always [[دوغ|dugh|doogh]], the salty yoghurt drink with mint. Some cooks prefer bone-in [[جوجه‌کباب با استخوان|juje-kabāb bā ostokhān|bone-in chicken kabab]], made with a small chicken cut into pieces, which many find more flavourful.",
+   "image": "doogh"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "مرغ را تکه‌تکه کنید.",
+   "r": "morgh rā tekke-tekke konid.",
+   "en": "Cut the chicken into pieces.",
+   "col": "مرغو تیکه‌تیکه کن.",
+   "colR": "morgh-o tike-tike kon."
+  },
+  {
+   "fa": "زعفران را با کمی شکر بسابید و آب جوش رویش بریزید.",
+   "r": "za'farān rā bā kami shekar be-sābid va āb-e jush ru-yash be-rizid.",
+   "en": "Grind the saffron with a little sugar and pour boiling water over it."
+  },
+  {
+   "fa": "مرغ را با پیاز، آبلیمو و زعفران مخلوط کنید.",
+   "r": "morgh rā bā piyāz, āb-limu va za'farān makhlut konid.",
+   "en": "Mix the chicken with the onion, lemon juice and saffron."
+  },
+  {
+   "fa": "بگذارید مرغ یک شب در یخچال بخوابد.",
+   "r": "be-gozārid morgh yek shab dar yakhchāl be-khābad.",
+   "en": "Let the chicken marinate in the fridge overnight.",
+   "lit": "let the chicken sleep one night in the fridge",
+   "col": "بذار مرغ یه شب تو یخچال بخوابه.",
+   "colR": "be-zār morgh ye shab tu yakhchāl be-khābe."
+  },
+  {
+   "fa": "زغال را روشن کنید و صبر کنید تا سرخ شود.",
+   "r": "zoghāl rā rowshan konid va sabr konid tā sorkh shavad.",
+   "en": "Light the charcoal and wait until it glows red."
+  },
+  {
+   "fa": "تکه‌های مرغ را به سیخ بکشید.",
+   "r": "tekke-hā-ye morgh rā be sikh be-keshid.",
+   "en": "Thread the pieces of chicken onto the skewers.",
+   "col": "مرغا رو به سیخ بکش.",
+   "colR": "morgh-ā ro be sikh be-kesh."
+  },
+  {
+   "fa": "سیخ‌ها را مرتب بچرخانید تا مرغ نسوزد.",
+   "r": "sikh-hā rā morattab be-charkhānid tā morgh na-suzad.",
+   "en": "Turn the skewers often so the chicken doesn't burn."
+  },
+  {
+   "fa": "با بادبزن زغال را باد بزنید.",
+   "r": "bā bādbezan zoghāl rā bād be-zanid.",
+   "en": "Fan the coals with a hand fan."
+  },
+  {
+   "fa": "آخر کار روی جوجه کره‌ی زعفرانی بمالید.",
+   "r": "ākhar-e kār ru-ye juje kare-ye za'farāni be-mālid.",
+   "en": "At the end, brush saffron butter over the chicken."
+  },
+  {
+   "fa": "گوجه‌ها را هم کنار جوجه کباب کنید.",
+   "r": "gowje-hā rā ham kenār-e juje kabāb konid.",
+   "en": "Grill the tomatoes next to the chicken too."
+  },
+  {
+   "fa": "جمعه‌ها خیلی از خانواده‌ها در پارک جوجه‌کباب درست می‌کنند.",
+   "r": "jom'e-hā kheyli az khānevāde-hā dar pārk juje-kabāb dorost mi-konand.",
+   "en": "On Fridays lots of families make joojeh kabab in the park."
+  },
+  {
+   "fa": "جوجه‌کباب را با دوغ و نان لواش بخورید.",
+   "r": "juje-kabāb rā bā dugh o nān-e lavāsh be-khorid.",
+   "en": "Eat the joojeh kabab with doogh and lavash bread."
+  }
+ ],
+ "vocab": [
+  {"fa": "جوجه", "r": "juje", "en": "chick, young chicken"},
+  {"fa": "جوجه‌کباب", "r": "juje-kabāb", "en": "joojeh kabab, grilled chicken"},
+  {"fa": "سیخ", "r": "sikh", "en": "skewer"},
+  {"fa": "زغال", "r": "zoghāl", "en": "charcoal"},
+  {"fa": "منقل", "r": "manghal", "en": "charcoal grill, brazier"},
+  {"fa": "بادبزن", "r": "bādbezan", "en": "hand fan"},
+  {"fa": "آبلیمو", "r": "āb-limu", "en": "lemon or lime juice"},
+  {"fa": "دوغ", "r": "dugh", "en": "doogh, salty yoghurt drink"},
+  {"fa": "سماق", "r": "somāgh", "en": "sumac"},
+  {"fa": "تکه", "r": "tekke", "en": "piece"},
+  {"fa": "خواباندن", "r": "khābāndan", "en": "to marinate; lit. to put to sleep"},
+  {"fa": "به سیخ کشیدن", "r": "be sikh keshidan", "en": "to thread onto skewers"},
+  {"fa": "چرخاندن", "r": "charkhāndan", "en": "to turn"},
+  {"fa": "مالیدن", "r": "mālidan", "en": "to rub, to brush on"},
+  {"fa": "روشن کردن", "r": "rowshan kardan", "en": "to light, to switch on"},
+  {"fa": "باد زدن", "r": "bād zadan", "en": "to fan"},
+  {"fa": "سابیدن", "r": "sābidan", "en": "to grind, to rub"},
+  {"fa": "مرتب", "r": "morattab", "en": "regularly; tidy"}
+ ],
+ "facts": [
+  "Juje means 'chick', so joojeh kabab is literally 'chick kabab'.",
+  "Saffron, lemon juice and onion in the marinade give joojeh kabab its colour and tang.",
+  "Iranians grill kabab on a manghal, a long charcoal grill, and fan the coals with a hand fan, a badbezan.",
+  "On Fridays and holidays parks and picnic spots in Iran fill with families grilling kabab.",
+  "Joojeh kabab is usually served with rice or lavash, grilled tomatoes and doogh."
+ ]
+}

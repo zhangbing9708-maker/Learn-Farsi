@@ -14,22 +14,30 @@
     {
      "fa": "صبح زود، مینا سارا را بیدار کرد و گفت: «سارا، بیا پنجره را ببین!»",
      "r": "sobh-e zud, Minā Sārā rā bidār kard o goft: «Sārā, biyā panjere rā bebin!»",
-     "en": "Early in the morning Mina woke Sara and said: \"Sara, come and look out of the window!\""
+     "en": "Early in the morning Mina woke Sara and said: \"Sara, come and look out of the window!\"",
+     "faV": "صُبحِ زود، مینا سارا را بیدار کَرد و گُفت: «سارا، بیا پَنجِره را بِبین!»",
+     "a": "0fab052bf8a0"
     },
     {
      "fa": "همه‌جا سفید بود و برف هنوز می‌بارید.",
      "r": "hame-jā sefid bud o barf hanuz mi-bārid.",
-     "en": "Everything was white, and the snow was still falling."
+     "en": "Everything was white, and the snow was still falling.",
+     "faV": "هَمه‌جا سِفید بود و بَرف هَنوز می‌بارید.",
+     "a": "a53de155cbde"
     },
     {
      "fa": "مینا گفت: «اخبار گفت که امروز همه‌ی مدرسه‌های تهران تعطیل هستند.»",
      "r": "Minā goft: «akhbār goft ke emruz hame-ye madrese-hā-ye Tehrān ta'til hastand.»",
-     "en": "Mina said: \"The news said that all the schools in Tehran are closed today.\""
+     "en": "Mina said: \"The news said that all the schools in Tehran are closed today.\"",
+     "faV": "مینا گُفت: «اَخبار گُفت که اِمروز هَمه‌یِ مَدرِسه‌هایِ تِهران تَعطیل هَستَند.»",
+     "a": "5af4528d77b2"
     },
     {
      "fa": "سارا از خوشحالی بالا و پایین پرید.",
      "r": "Sārā az khoshhāli bālā o pāyin parid.",
-     "en": "Sara jumped up and down with joy."
+     "en": "Sara jumped up and down with joy.",
+     "faV": "سارا اَز خوشحالی بالا و پایین پَرید.",
+     "a": "1386e9d630cf"
     }
    ]
   },
@@ -38,32 +46,44 @@
     {
      "fa": "بعد از صبحانه، دایی امیر آمد.",
      "r": "ba'd az sobhāne, dāyi Amir āmad.",
-     "en": "After breakfast her uncle Amir came round."
+     "en": "After breakfast her uncle Amir came round.",
+     "faV": "بَعد اَز صُبحانه، دایی اَمیر آمَد.",
+     "a": "98fbf56370f7"
     },
     {
      "fa": "او هم سر کار نرفته بود، چون خیابان‌ها پر از برف بود.",
      "r": "u ham sar-e kār na-rafte bud, chon khiyābān-hā por az barf bud.",
-     "en": "He hadn't gone to work either, because the streets were full of snow."
+     "en": "He hadn't gone to work either, because the streets were full of snow.",
+     "faV": "او هَم سَرِ کار نَرَفته بود، چون خیابان‌ها پُر اَز بَرف بود.",
+     "a": "23152b5ccb64"
     },
     {
      "fa": "سارا و امیر لباس گرم پوشیدند و به حیاط رفتند.",
      "r": "Sārā o Amir lebās-e garm pushidand o be hayāt raftand.",
-     "en": "Sara and Amir put on warm clothes and went out into the yard."
+     "en": "Sara and Amir put on warm clothes and went out into the yard.",
+     "faV": "سارا و اَمیر لِباسِ گَرم پوشیدَند و به حَیاط رَفتَند.",
+     "a": "cc989f586331"
     },
     {
      "fa": "آن‌ها برف‌ها را جمع کردند و یک آدم‌برفی بزرگ ساختند.",
      "r": "ān-hā barf-hā rā jam' kardand o yek ādam-barfi-ye bozorg sākhtand.",
-     "en": "They gathered up the snow and built a big snowman."
+     "en": "They gathered up the snow and built a big snowman.",
+     "faV": "آن‌ها بَرف‌ها را جَمع کَردَند و یِک آدَم‌بَرفیِ بُزُرگ ساختَند.",
+     "a": "a40373d4c760"
     },
     {
      "fa": "امیر یک هویج برای دماغش آورد و سارا شال قرمز خودش را دور گردن آدم‌برفی بست.",
      "r": "Amir yek havij barā-ye damāgh-ash āvard o Sārā shāl-e ghermez-e khod-ash rā dowr-e gardan-e ādam-barfi bast.",
-     "en": "Amir brought a carrot for its nose, and Sara tied her own red scarf around the snowman's neck."
+     "en": "Amir brought a carrot for its nose, and Sara tied her own red scarf around the snowman's neck.",
+     "faV": "اَمیر یِک هَویج بَرایِ دَماغَش آوَرد و سارا شالِ قِرمِزِ خودَش را دَورِ گَردَنِ آدَم‌بَرفی بَست.",
+     "a": "665f7a4c4dbf"
     },
     {
      "fa": "سارا گفت: «دایی، آدم‌برفی ما از آدم‌برفی همسایه‌ها قشنگ‌تر است!»",
      "r": "Sārā goft: «dāyi, ādam-barfi-ye mā az ādam-barfi-ye hamsāye-hā ghashang-tar ast!»",
-     "en": "Sara said: \"Uncle, our snowman is nicer than the neighbours' snowman!\""
+     "en": "Sara said: \"Uncle, our snowman is nicer than the neighbours' snowman!\"",
+     "faV": "سارا گُفت: «دایی، آدَم‌بَرفیِ ما اَز آدَم‌بَرفیِ هَمسایه‌ها قَشَنگ‌تَر اَست!»",
+     "a": "63f8ba653d82"
     }
    ]
   },
@@ -72,22 +92,30 @@
     {
      "fa": "بعد برف‌بازی کردند تا وقتی که دست‌هایشان یخ کرد.",
      "r": "ba'd barf-bāzi kardand tā vaghti ke dast-hā-yeshān yakh kard.",
-     "en": "Then they had a snowball fight until their hands were frozen."
+     "en": "Then they had a snowball fight until their hands were frozen.",
+     "faV": "بَعد بَرف‌بازی کَردَند تا وَقتی که دَست‌هایِشان یَخ کَرد.",
+     "a": "3848bfc76cd1"
     },
     {
      "fa": "وقتی به خانه برگشتند، بوی آش رشته از آشپزخانه می‌آمد.",
      "r": "vaghti be khāne bar-gashtand, bu-ye āsh-e reshte az āshpaz-khāne mi-āmad.",
-     "en": "When they went back inside, the smell of ash-e reshteh was coming from the kitchen."
+     "en": "When they went back inside, the smell of ash-e reshteh was coming from the kitchen.",
+     "faV": "وَقتی به خانه بَرگَشتَند، بویِ آشِ رِشته اَز آشپَزخانه می‌آمَد.",
+     "a": "0f99f35cd09c"
     },
     {
      "fa": "مینا برای هر کدام یک کاسه آش داغ با کشک و نعناداغ آورد.",
      "r": "Minā barā-ye har kodām yek kāse āsh-e dāgh bā kashk o na'nā-dāgh āvard.",
-     "en": "Mina brought each of them a bowl of hot soup with kashk and fried mint."
+     "en": "Mina brought each of them a bowl of hot soup with kashk and fried mint.",
+     "faV": "مینا بَرایِ هَر کُدام یِک کاسه آشِ داغ با کَشک و نَعناداغ آوَرد.",
+     "a": "8c3be168a1ef"
     },
     {
      "fa": "امیر گفت: «در روز برفی، هیچ غذایی بهتر از آش رشته نیست!»",
      "r": "Amir goft: «dar ruz-e barfi, hich ghazā-yi behtar az āsh-e reshte nist!»",
-     "en": "Amir said: \"On a snowy day, no food is better than ash-e reshteh!\""
+     "en": "Amir said: \"On a snowy day, no food is better than ash-e reshteh!\"",
+     "faV": "اَمیر گُفت: «دَر روزِ بَرفی، هیچ غَذایی بِهتَر اَز آشِ رِشته نیست!»",
+     "a": "7af76a8d511e"
     }
    ]
   },
@@ -96,65 +124,189 @@
     {
      "fa": "شب، سارا از پنجره به آدم‌برفی نگاه کرد.",
      "r": "shab, Sārā az panjere be ādam-barfi negāh kard.",
-     "en": "That night Sara looked out of the window at the snowman."
+     "en": "That night Sara looked out of the window at the snowman.",
+     "faV": "شَب، سارا اَز پَنجِره به آدَم‌بَرفی نِگاه کَرد.",
+     "a": "1a7071a90a06"
     },
     {
      "fa": "او گفت: «کاش فردا هم برف ببارد و مدرسه‌ها تعطیل باشند!»",
      "r": "u goft: «kāsh fardā ham barf bebārad o madrese-hā ta'til bāshand!»",
-     "en": "She said: \"I wish it would snow tomorrow too, and the schools would be closed!\""
+     "en": "She said: \"I wish it would snow tomorrow too, and the schools would be closed!\"",
+     "faV": "او گُفت: «کاش فَردا هَم بَرف بِبارَد و مَدرِسه‌ها تَعطیل باشَند!»",
+     "a": "85b18ce36b90"
     },
     {
      "fa": "مینا خندید و گفت: «شاید! اما حالا باید بخوابی.»",
      "r": "Minā khandid o goft: «shāyad! ammā hālā bāyad bekhābi.»",
-     "en": "Mina laughed and said: \"Maybe! But now you have to go to sleep.\""
+     "en": "Mina laughed and said: \"Maybe! But now you have to go to sleep.\"",
+     "faV": "مینا خَندید و گُفت: «شایَد! اَمّا حالا بایَد بِخوابی.»",
+     "a": "bb7c80b433e3"
     }
    ]
   }
  ],
  "vocab": [
-  {"fa": "بیدار کردن", "r": "bidār kardan", "en": "to wake (someone) up"},
-  {"fa": "باریدن", "r": "bāridan", "en": "to fall (of rain or snow)"},
-  {"fa": "اخبار", "r": "akhbār", "en": "the news"},
-  {"fa": "تعطیل", "r": "ta'til", "en": "closed; holiday"},
-  {"fa": "خوشحالی", "r": "khoshhāli", "en": "happiness, joy"},
-  {"fa": "دایی", "r": "dāyi", "en": "uncle (mother's brother)"},
-  {"fa": "حیاط", "r": "hayāt", "en": "yard, courtyard"},
-  {"fa": "آدم‌برفی", "r": "ādam-barfi", "en": "snowman"},
-  {"fa": "هویج", "r": "havij", "en": "carrot"},
-  {"fa": "دماغ", "r": "damāgh", "en": "nose"},
-  {"fa": "شال", "r": "shāl", "en": "scarf, shawl"},
-  {"fa": "گردن", "r": "gardan", "en": "neck"},
-  {"fa": "برف‌بازی", "r": "barf-bāzi", "en": "playing in the snow, snowball fight"},
-  {"fa": "یخ کردن", "r": "yakh kardan", "en": "to freeze, be frozen"},
-  {"fa": "کشک", "r": "kashk", "en": "kashk, a thick fermented whey"},
-  {"fa": "کاش", "r": "kāsh", "en": "if only, I wish"}
+  {
+   "fa": "بیدار کردن",
+   "r": "bidār kardan",
+   "en": "to wake (someone) up",
+   "faV": "بیدار کَردَن",
+   "a": "6cd802588593"
+  },
+  {
+   "fa": "باریدن",
+   "r": "bāridan",
+   "en": "to fall (of rain or snow)",
+   "faV": "باریدَن",
+   "a": "b79b3c2b2aa5"
+  },
+  {
+   "fa": "اخبار",
+   "r": "akhbār",
+   "en": "the news",
+   "faV": "اَخبار",
+   "a": "3fc512c2872d"
+  },
+  {
+   "fa": "تعطیل",
+   "r": "ta'til",
+   "en": "closed; holiday",
+   "faV": "تَعطیل",
+   "a": "9d128a5097d1"
+  },
+  {
+   "fa": "خوشحالی",
+   "r": "khoshhāli",
+   "en": "happiness, joy",
+   "faV": "خوشحالی",
+   "a": "e04b885f283a"
+  },
+  {
+   "fa": "دایی",
+   "r": "dāyi",
+   "en": "uncle (mother's brother)",
+   "faV": "دایی",
+   "a": "09485efcff38"
+  },
+  {
+   "fa": "حیاط",
+   "r": "hayāt",
+   "en": "yard, courtyard",
+   "faV": "حَیاط",
+   "a": "423af25d0b64"
+  },
+  {
+   "fa": "آدم‌برفی",
+   "r": "ādam-barfi",
+   "en": "snowman",
+   "faV": "آدَم‌بَرفی",
+   "a": "16da5c068873"
+  },
+  {
+   "fa": "هویج",
+   "r": "havij",
+   "en": "carrot",
+   "faV": "هَویج",
+   "a": "34b11addb75a"
+  },
+  {
+   "fa": "دماغ",
+   "r": "damāgh",
+   "en": "nose",
+   "faV": "دَماغ",
+   "a": "2750cb721b50"
+  },
+  {
+   "fa": "شال",
+   "r": "shāl",
+   "en": "scarf, shawl",
+   "faV": "شال",
+   "a": "0045dd0296f5"
+  },
+  {
+   "fa": "گردن",
+   "r": "gardan",
+   "en": "neck",
+   "faV": "گَردَن",
+   "a": "fc028e4685bf"
+  },
+  {
+   "fa": "برف‌بازی",
+   "r": "barf-bāzi",
+   "en": "playing in the snow, snowball fight",
+   "faV": "بَرف‌بازی",
+   "a": "d0eb1d7443d7"
+  },
+  {
+   "fa": "یخ کردن",
+   "r": "yakh kardan",
+   "en": "to freeze, be frozen",
+   "faV": "یَخ کَردَن",
+   "a": "c453d157c68f"
+  },
+  {
+   "fa": "کشک",
+   "r": "kashk",
+   "en": "kashk, a thick fermented whey",
+   "faV": "کَشک",
+   "a": "4d1b1102b043"
+  },
+  {
+   "fa": "کاش",
+   "r": "kāsh",
+   "en": "if only, I wish",
+   "faV": "کاش",
+   "a": "fd83672aa877"
+  }
  ],
  "questions": [
   {
    "q": "Why didn't Sara go to school?",
-   "options": ["she was ill", "it was Friday", "the schools were closed because of the snow"],
+   "options": [
+    "she was ill",
+    "it was Friday",
+    "the schools were closed because of the snow"
+   ],
    "answer": 2
   },
   {
    "q": "Why didn't Amir go to work?",
-   "options": ["the streets were full of snow", "it was a holiday", "he wanted to see Sara"],
+   "options": [
+    "the streets were full of snow",
+    "it was a holiday",
+    "he wanted to see Sara"
+   ],
    "answer": 0
   },
   {
    "q": "What did Sara give the snowman?",
-   "options": ["a carrot nose", "her red scarf", "her hat"],
+   "options": [
+    "a carrot nose",
+    "her red scarf",
+    "her hat"
+   ],
    "answer": 1
   },
   {
    "q": "What was waiting for them in the kitchen?",
-   "options": ["rice and kabab", "hot tea and biscuits", "ash-e reshteh with kashk and fried mint"],
+   "options": [
+    "rice and kabab",
+    "hot tea and biscuits",
+    "ash-e reshteh with kashk and fried mint"
+   ],
    "answer": 2
   },
   {
    "q": "What does Sara wish for at the end?",
-   "options": ["more snow and no school tomorrow", "a bigger snowman", "a new scarf"],
+   "options": [
+    "more snow and no school tomorrow",
+    "a bigger snowman",
+    "a new scarf"
+   ],
    "answer": 0
   }
  ],
- "after": "Tehran sits at the foot of the Alborz mountains and gets a few heavy snowfalls most winters; when schools close, the news is announced on television and radio the night before or early in the morning, and children all over the city wait for it. آش رشته, a thick soup of herbs, beans and noodles topped with کشک and نعناداغ (dried mint fried in oil), is the classic food for a cold day. Persian has a different word for each uncle and aunt: دایی is the mother's brother, عمو the father's brother, خاله the mother's sister and عمه the father's sister. Notice کاش + subjunctive for a wish (کاش برف ببارد 'I wish it would snow'), the past perfect نرفته بود 'he hadn't gone', and the comparative with از: از آدم‌برفی همسایه‌ها قشنگ‌تر 'nicer than the neighbours' snowman'."
+ "after": "Tehran sits at the foot of the Alborz mountains and gets a few heavy snowfalls most winters; when schools close, the news is announced on television and radio the night before or early in the morning, and children all over the city wait for it. آش رشته, a thick soup of herbs, beans and noodles topped with کشک and نعناداغ (dried mint fried in oil), is the classic food for a cold day. Persian has a different word for each uncle and aunt: دایی is the mother's brother, عمو the father's brother, خاله the mother's sister and عمه the father's sister. Notice کاش + subjunctive for a wish (کاش برف ببارد 'I wish it would snow'), the past perfect نرفته بود 'he hadn't gone', and the comparative with از: از آدم‌برفی همسایه‌ها قشنگ‌تر 'nicer than the neighbours' snowman'.",
+ "titleV": "روزِ بَرفی دَر تِهران",
+ "titleA": "845bdfc0dbe0"
 }

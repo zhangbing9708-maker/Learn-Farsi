@@ -342,10 +342,10 @@ In the old covered bazaars of Tehran, Isfahan, Tabriz and Shiraz a little چان
 
 **Put the words in order**
 
-1. را / در / دیدم. / سارا / بازار — I saw Sara in the bazaar.
-2. گم / پولم / را / کیف / کرده‌ام. — I've lost my wallet.
-3. را / داد. / رضا / کتاب / به / مینا — Mina gave the book to Reza.
-4. برای / را / این / خریدم. / تو — I bought this for you.
+1. را / دیدم. / بازار / سارا / در — I saw Sara in the bazaar.
+2. را / کیف / گم / کرده‌ام. / پولم — I've lost my wallet.
+3. مینا / را / کتاب / داد. / به / رضا — Mina gave the book to Reza.
+4. این / را / خریدم. / تو / برای — I bought this for you.
 
 <details><summary>Answers</summary>
 

@@ -359,10 +359,10 @@ The liver deserves a word. In classical poetry lovers and mystics drink خون �
 
 **Put the words in order**
 
-1. است. / هفته / این / سرم / خیلی / شلوغ — I'm very busy this week.
-2. دریا / دلش / را / زد. / مهسا / به — Mahsa took the plunge.
-3. همه / هستیم. / تو / راه / به / چشم — We are all waiting for you.
-4. باران / بیاید. / چشمم / نمی‌خورد / که / آب — I doubt it will rain.
+1. این / هفته / خیلی / سرم / است. / شلوغ — I'm very busy this week.
+2. مهسا / را / زد. / دریا / به / دلش — Mahsa took the plunge.
+3. چشم / راه / همه / هستیم. / به / تو — We are all waiting for you.
+4. چشمم / نمی‌خورد / که / بیاید. / باران / آب — I doubt it will rain.
 
 <details><summary>Answers</summary>
 
@@ -417,4 +417,4 @@ The liver deserves a word. In classical poetry lovers and mystics drink خون �
 
 ---
 
-← [Dialects and accents: the many voices of Iran](b2-07-dialects-and-accents.md) · [Contents](../README.md) · [Academic Persian: how scholars write](c1-01-academic-persian.md) →
+← [Dialects and accents: the many voices of Iran](b2-07-dialects-and-accents.md) · [Contents](../README.md) · [Humour and wordplay: Mulla, the cat and the pun](b2-09-humour-and-wordplay.md) →

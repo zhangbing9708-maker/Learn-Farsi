@@ -11,11 +11,11 @@ Saadi's Golestan (The Rose Garden, 1258) is the best-loved book of Persian prose
 
 سعدی، شاعر بزرگ شیراز، حدود هشتصد سال پیش کتابی نوشت که نامش گلستان است. گلستان پر از حکایت‌های کوتاهی است که هر کدام درسی برای زندگی دارند. این‌جا چهار حکایت از این کتاب را به زبان ساده‌ی امروز می‌خوانیم.
 
-پادشاهی با غلامش در کشتی نشسته بود؛ غلام هرگز دریا را ندیده بود. وقتی موج‌ها بلند شدند، غلام شروع به گریه و فریاد کرد و تمام بدنش می‌لرزید. هر چه به او دلداری دادند، آرام نشد و شادی سفر پادشاه را خراب کرد. حکیمی که در کشتی بود گفت: «اگر اجازه بدهید، من او را ساکت می‌کنم.» به دستور حکیم، غلام را به دریا انداختند و وقتی چند بار آب خورد، او را از موهایش گرفتند و به کشتی برگرداندند. غلام گوشه‌ای نشست و دیگر حرفی نزد. پادشاه با تعجب علت را پرسید و حکیم جواب داد: «او طعم غرق شدن را نچشیده بود و قدر امنیت کشتی را نمی‌دانست.» سعدی می‌گوید: «قدر عافیت کسی داند که به مصیبتی گرفتار آید.»
+پادشاهی با غلامش در کشتی نشسته بود؛ غلام هرگز دریا را ندیده بود. وقتی موج‌ها بلند شدند، غلام شروع به گریه و فریاد کرد و تمام بدنش می‌لرزید. هر چه به او دلداری دادند، آرام نشد و شادی سفر پادشاه را خراب کرد. حکیمی که در کشتی بود گفت: «اگر اجازه بدهید، من او را ساکت می‌کنم.» به دستور حکیم، غلام را به دریا انداختند و وقتی چند بار آب خورد، او را از موهایش گرفتند و به کشتی برگرداندند. پادشاه با تعجب علت را پرسید و حکیم جواب داد: «او طعم غرق شدن را نچشیده بود و قدر امنیت کشتی را نمی‌دانست.» سعدی می‌گوید: «قدر عافیت کسی داند که به مصیبتی گرفتار آید.»
 
-کشتی‌گیری سیصد و شصت فن بلد بود و هر روز با یکی از آن‌ها کشتی می‌گرفت. او شاگردی داشت که خیلی دوستش داشت و سیصد و پنجاه و نه فن را به او یاد داد، اما یک فن را نگه داشت. شاگرد کم‌کم آن‌قدر قوی و مغرور شد که پیش پادشاه گفت: «استادم فقط از من پیرتر است، نه قوی‌تر.» پادشاه از این بی‌ادبی ناراحت شد و دستور داد که میدان بزرگی آماده کنند. شاگرد مثل فیلی مست وارد میدان شد، اما استاد با همان فن آخر او را از زمین بلند کرد و بر زمین زد. استاد گفت: «این فن را برای چنین روزی نگه داشته بودم؛ به دوستت آن‌قدر قدرت نده که اگر روزی دشمن شد، بتواند به تو آسیب بزند.»
+کشتی‌گیری سیصد و شصت فن بلد بود. او شاگردی داشت که خیلی دوستش داشت و سیصد و پنجاه و نه فن را به او یاد داد، اما یک فن را نگه داشت. شاگرد کم‌کم آن‌قدر قوی و مغرور شد که پیش پادشاه گفت: «استادم فقط از من پیرتر است، نه قوی‌تر.» پادشاه از این بی‌ادبی ناراحت شد و دستور داد که میدان بزرگی آماده کنند. شاگرد مثل فیلی مست وارد میدان شد، اما استاد با همان فن آخر او را از زمین بلند کرد و بر زمین زد. استاد گفت: «این فن را برای چنین روزی نگه داشته بودم؛ به دوستت آن‌قدر قدرت نده که اگر روزی دشمن شد، بتواند به تو آسیب بزند.»
 
-در زمستانی سرد، مرد فقیری به در خانه‌ی ثروتمندی رفت تا کمی نان بخواهد. ثروتمند در را باز نکرد، اما سگ‌های او از خانه بیرون دویدند و به مرد حمله کردند. مرد خم شد تا سنگی بردارد و سگ‌ها را دور کند، اما سنگ‌ها در زمین یخ زده بودند. با ناامیدی گفت: «چه مردم عجیبی! سگ‌ها را باز گذاشته‌اند و سنگ‌ها را بسته‌اند.» ثروتمند از پنجره این حرف را شنید، خندید و دستور داد که به مرد نان و لباس گرم بدهند.
+در زمستانی سرد، مرد فقیری به در خانه‌ی ثروتمندی رفت تا کمی نان بخواهد. ثروتمند در را باز نکرد، اما سگ‌های او از خانه بیرون دویدند و به مرد حمله کردند. مرد خم شد تا سنگی بردارد و سگ‌ها را دور کند، اما سنگ‌ها در زمین یخ زده بودند. با ناامیدی گفت: «چه مردم عجیبی! سگ‌ها را باز گذاشته‌اند و سنگ‌ها را بسته‌اند.»
 
 در شبی برفی، پادشاهی از کنار پسر جوانی گذشت که جلوی در قصر نگهبانی می‌داد. پسر از سرما می‌لرزید و گفت: «قربان، لباس من نازک است و سرما تا استخوانم رسیده است.» پادشاه گفت: «صبر کن؛ همین حالا پوستینی برایت می‌فرستم.» اما وقتی به اتاق گرمش رسید و کنار آتش نشست، قولش را فراموش کرد. صبح، پسر نیمه‌جان به پادشاه گفت: «قول شما دلم را گرم کرد، اما تنم را گرم نکرد.» کسی که کنار آتش نشسته، رنج کسی را که در سرما ایستاده نمی‌فهمد. این حکایت‌ها کوتاه‌اند، اما بعد از هشت قرن هنوز ایرانی‌ها آن‌ها را در مدرسه می‌خوانند و جمله‌هایشان را مثل ضرب‌المثل به کار می‌برند.
 
@@ -37,15 +37,13 @@ Saadi's Golestan (The Rose Garden, 1258) is the best-loved book of Persian prose
   *hakim-i ke dar keshti bud goft: «agar ejāze be-dahid, man u rā sāket mi-konam.»* — A sage who was on the boat said: "If you permit, I will quiet him."
 - به دستور حکیم، غلام را به دریا انداختند و وقتی چند بار آب خورد، او را از موهایش گرفتند و به کشتی برگرداندند.  
   *be dastur-e hakim, gholām rā be daryā andākhtand o vaghti chand bār āb khord, u rā az mu-hā-yash gereftand o be keshti bar-gardāndand.* — On the sage's order they threw the slave into the sea, and when he had swallowed water a few times, they took him by the hair and brought him back to the boat.
-- غلام گوشه‌ای نشست و دیگر حرفی نزد.  
-  *gholām gushe-i neshast o digar harf-i na-zad.* — The slave sat down in a corner and did not say another word.
 - پادشاه با تعجب علت را پرسید و حکیم جواب داد: «او طعم غرق شدن را نچشیده بود و قدر امنیت کشتی را نمی‌دانست.»  
   *pādeshāh bā ta'ajjob 'ellat rā porsid o hakim javāb dād: «u ta'm-e ghargh shodan rā na-cheshide bud o ghadr-e amniyat-e keshti rā nemi-dānest.»* — Surprised, the king asked the reason, and the sage answered: "He had never tasted drowning, so he did not know the worth of the boat's safety."
 - سعدی می‌گوید: «قدر عافیت کسی داند که به مصیبتی گرفتار آید.»  
   *Sa'di mi-guyad: «ghadr-e āfiyat kas-i dānad ke be mosibat-i gereftār āyad.»* — Saadi says: "Only one who has been caught in misfortune knows the worth of well-being."  
   _The one line quoted from the Golestan; note the classical verb forms داند (= می‌داند) and آید (= بیاید)._
-- کشتی‌گیری سیصد و شصت فن بلد بود و هر روز با یکی از آن‌ها کشتی می‌گرفت.  
-  *koshti-gir-i sisad o shast fann balad bud o har ruz bā yek-i az ān-hā koshti mi-gereft.* — A wrestler knew three hundred and sixty holds and wrestled with a different one every day.
+- کشتی‌گیری سیصد و شصت فن بلد بود.  
+  *koshti-gir-i sisad o shast fann balad bud.* — A wrestler knew three hundred and sixty holds.
 - او شاگردی داشت که خیلی دوستش داشت و سیصد و پنجاه و نه فن را به او یاد داد، اما یک فن را نگه داشت.  
   *u shāgerd-i dāsht ke kheyli dust-ash dāsht o sisad o panjāh o noh fann rā be u yād dād, ammā yek fann rā negah dāsht.* — He had a student whom he loved dearly, and he taught him three hundred and fifty-nine holds, but kept one back.
 - شاگرد کم‌کم آن‌قدر قوی و مغرور شد که پیش پادشاه گفت: «استادم فقط از من پیرتر است، نه قوی‌تر.»  
@@ -64,8 +62,6 @@ Saadi's Golestan (The Rose Garden, 1258) is the best-loved book of Persian prose
   *mard kham shod tā sang-i bar-dārad o sag-hā rā dur konad, ammā sang-hā dar zamin yakh zade budand.* — The man bent down to pick up a stone and drive the dogs away, but the stones were frozen into the ground.
 - با ناامیدی گفت: «چه مردم عجیبی! سگ‌ها را باز گذاشته‌اند و سنگ‌ها را بسته‌اند.»  
   *bā nā-omidi goft: «che mardom-e 'ajib-i! sag-hā rā bāz gozāshte-and o sang-hā rā baste-and.»* — In despair he said: "What strange people! They have let the dogs loose and tied down the stones."
-- ثروتمند از پنجره این حرف را شنید، خندید و دستور داد که به مرد نان و لباس گرم بدهند.  
-  *servatmand az panjere in harf rā shenid, khandid o dastur dād ke be mard nān o lebās-e garm be-dahand.* — The rich man heard these words from the window, laughed, and ordered that the man be given bread and warm clothes.
 - در شبی برفی، پادشاهی از کنار پسر جوانی گذشت که جلوی در قصر نگهبانی می‌داد.  
   *dar shab-i barfi, pādeshāh-i az kenār-e pesar-e javān-i gozasht ke jelo-ye dar-e ghasr negahbāni mi-dād.* — On a snowy night, a king passed by a young boy who was standing guard at the palace gate.
 - پسر از سرما می‌لرزید و گفت: «قربان، لباس من نازک است و سرما تا استخوانم رسیده است.»  
