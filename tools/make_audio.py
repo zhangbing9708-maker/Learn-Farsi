@@ -200,7 +200,7 @@ def main():
     data_files = collect_data_files(col)
     content = {}
     loaded_at = {}      # file -> mtime when read, so a file edited while we record is not overwritten
-    extra = [os.path.join(DATA, "numbers.json")]
+    extra = [os.path.join(DATA, "numbers.json"), os.path.join(DATA, "praise.json")]
     import time
     for p in sorted(glob.glob(os.path.join(CONTENT, "**", "*.json"), recursive=True)) + [x for x in extra if os.path.exists(x)]:
         if exclude and exclude.search(os.path.relpath(p, ROOT)):

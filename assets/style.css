@@ -648,3 +648,74 @@ dialog.vrec h2 { margin: 0 0 .6rem; font-size: 1.2rem; }
 .vbtns { display: flex; flex-wrap: wrap; gap: .5rem; }
 .gbtn::before { content: "G"; font-weight: 700; margin-right: .45rem; }
 @media print { .vc, dialog.vrec, .vc-toast { display: none !important; } }
+
+/* ---------------------------------------------------------- my journey: celebrations, badges, carpet, route */
+.read-end { margin: 2rem 0 1rem; text-align: center; }
+.petals { position: fixed; inset: 0; pointer-events: none; z-index: 60; overflow: hidden; }
+.petal { position: absolute; top: -4vh; width: 14px; height: 10px; border-radius: 70% 0 70% 0; background: var(--hue, #e8506b); opacity: .9;
+  animation: petal-fall linear forwards; }
+@keyframes petal-fall { 0% { transform: translate(0, 0) rotate(0); opacity: 0; } 8% { opacity: .95; }
+  100% { transform: translate(var(--drift, 40px), 108vh) rotate(540deg); opacity: .6; } }
+@media (prefers-reduced-motion: reduce) { .petal { display: none; } }
+dialog.jcele { border: 0; border-radius: 14px; padding: 1.4rem 1.6rem 1.2rem; width: min(36rem, calc(100vw - 1.5rem)); max-height: calc(100vh - 2rem); overflow: auto;
+  background: var(--paper); color: var(--ink); box-shadow: 0 24px 70px rgba(10, 20, 60, .4); border-top: 6px solid var(--saffron); text-align: center; }
+dialog.jcele::backdrop { background: rgba(10, 16, 40, .55); }
+.jc-fa { font-family: var(--f-disp); font-size: 3rem; line-height: 1.3; margin: 0; color: var(--saffron); }
+.jc-r { color: var(--ink-2); font-style: italic; margin: 0 0 .6rem; }
+dialog.jcele h2 { margin: .4rem 0 .3rem; font-size: 1.35rem; }
+.jc-lv { margin: .2rem 0 .5rem; color: var(--ink-2); }
+.jc-bar { max-width: 22rem; margin: 0 auto 1rem; }
+.jc-h { font-weight: 700; margin: .9rem 0 .3rem; color: var(--lapis); }
+.jc-can ul { text-align: left; display: inline-block; margin: 0; padding-left: 1.2rem; }
+.jc-can li::marker { content: "✓  "; color: var(--good); }
+.jc-words, .jc-streak { margin: .8rem 0 .2rem; }
+.jc-fal { margin-top: 1rem; padding: .7rem 1rem; background: var(--paper-2); border-radius: var(--radius); }
+.jc-fal-fa { font-family: var(--f-fa); font-size: 1.3rem; line-height: 1.9; margin: .2rem 0; }
+.jc-actions { display: flex; flex-wrap: wrap; justify-content: center; gap: .5rem; margin-top: 1.1rem; }
+.jtoast { position: fixed; left: 50%; bottom: 1.3rem; transform: translate(-50%, 160%); background: var(--lapis-deep, #172c6b); color: #fff; padding: .65rem 1.1rem;
+  border-radius: 999px; z-index: 61; transition: transform .3s; max-width: calc(100vw - 2rem); font-size: .95rem; box-shadow: 0 8px 24px rgba(0, 0, 0, .25); }
+.jtoast.show { transform: translate(-50%, 0); }
+.jt-fa { font-family: var(--f-disp); font-size: 1.3rem; color: var(--saffron-soft); margin-right: .3rem; }
+.medals { display: grid; grid-template-columns: repeat(auto-fill, minmax(8.2rem, 1fr)); gap: .8rem; margin: .6rem 0; }
+.medal { text-align: center; padding: .6rem .4rem; border-radius: var(--radius); background: var(--paper-2); opacity: .55; }
+.medal.on { opacity: 1; background: var(--paper-3); }
+.medal-i svg { width: 3.4rem; height: 3.6rem; }
+.medal-fa { display: block; font-family: var(--f-fa); font-weight: 700; font-size: 1.05rem; color: var(--ink); }
+.medal-en { display: block; font-weight: 700; font-size: .85rem; }
+.medal-d { display: block; font-size: .75rem; color: var(--muted); line-height: 1.3; margin-top: .15rem; }
+.jc-badges .medals { grid-template-columns: repeat(auto-fit, minmax(8rem, 10rem)); justify-content: center; }
+.route { width: 100%; height: auto; display: block; }
+.route .rt-fa { font-family: var(--f-fa); font-size: 17px; font-weight: 700; fill: var(--ink); }
+.route .rt-en { font-size: 11px; fill: var(--muted); }
+.route .rt-camel { font-size: 30px; }
+.carpet { width: 100%; max-width: 30rem; height: auto; display: block; margin: .6rem auto; border-radius: 6px; box-shadow: 0 6px 20px rgba(20, 30, 70, .2); }
+.jtiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(9.5rem, 1fr)); gap: .8rem; }
+.jtile { background: var(--paper-2); border-radius: var(--radius); padding: .9rem .8rem; text-align: center; display: flex; flex-direction: column; align-items: center; gap: .15rem; }
+.jt-big { font-size: 1.7rem; font-weight: 700; color: var(--lapis); }
+.jt-fa2 { font-family: var(--f-fa); color: var(--turq); }
+.jt-small { font-size: .82rem; color: var(--ink-2); line-height: 1.35; }
+.ring { width: 4.6rem; height: 4.6rem; }
+.ring-n { font-size: 22px; font-weight: 700; fill: var(--ink); }
+.cando summary { cursor: pointer; font-weight: 700; margin: .4rem 0; }
+.cando li::marker { content: "✓  "; color: var(--good); }
+.journey-home { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.3fr); gap: 1.2rem; align-items: center; background: var(--paper-2);
+  border-radius: 14px; padding: 1rem 1.3rem; margin: 1.5rem 0; border-left: 5px solid var(--saffron); }
+.journey-home h2 { margin: 0 0 .3rem; font-size: 1.25rem; }
+.journey-home p { margin: .3rem 0; }
+@media (max-width: 700px) { .journey-home { grid-template-columns: 1fr; } }
+.cert { display: none; }
+@media print {
+  body.print-cert > *:not(.cert) { display: none !important; }
+  body.print-cert .cert { display: flex !important; align-items: center; justify-content: center; height: 265mm; page-break-inside: avoid; }
+  .cert-in { width: 100%; height: 100%; box-sizing: border-box; border: 10px double #1f3a8a; outline: 3px solid #d9971a; outline-offset: -22px; padding: 22mm 18mm; text-align: center; color: #14204a; }
+  .cert-fa { font-family: var(--f-disp); font-size: 46pt; color: #1f3a8a; margin: 0; }
+  .cert-en { font-size: 15pt; letter-spacing: .2em; text-transform: uppercase; color: #9a6a10; margin: 0 0 14mm; }
+  .cert-line { font-size: 13pt; margin: 4mm 0; }
+  .cert-name { font-size: 28pt; font-style: italic; border-bottom: 1px solid #999; display: inline-block; min-width: 60%; padding: 0 1em 2mm; margin: 2mm 0 6mm; }
+  .cert-level { font-size: 22pt; font-weight: 700; color: #1f3a8a; margin: 2mm 0 0; }
+  .cert-level-fa { font-family: var(--f-fa); font-size: 18pt; margin: 0 0 4mm; }
+  .cert-quote { font-family: var(--f-fa); font-size: 16pt; margin: 12mm 0 4mm; color: #08727a; }
+  .cert-date { font-size: 12pt; }
+  .cert-site { font-size: 9pt; color: #666; margin-top: 10mm; }
+  .read-end, .jtoast, dialog.jcele, .petals { display: none !important; }
+}

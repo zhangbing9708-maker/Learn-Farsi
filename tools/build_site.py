@@ -89,7 +89,8 @@ TOOLS = [("dictionary", "Dictionary", "5,000 most common words with audio"),
          ("idioms", "Proverbs and idioms", "The sayings Iranians really use"),
          ("numbers", "Numbers and dates", "Write any number; today's Persian date"),
          ("flashcards", "My flashcards", "Review your saved words"),
-         ("voice", "Friend's voice", "Record a Persian speaker; hear them on every page")]
+         ("voice", "Friend's voice", "Record a Persian speaker; hear them on every page"),
+         ("journey", "My journey", "Your carpet, caravan route, badges and streak")]
 
 ASSET_VER = ""
 SEARCH = []      # search index entries
@@ -463,6 +464,7 @@ def page(path, title, body, desc="", image=None, section="", depth=None, lang_no
 </footer>
 <script src="{R}assets/app.js?v={ASSET_VER}" defer></script>
 <script src="{R}assets/voice.js?v={ASSET_VER}" defer></script>
+<script src="{R}assets/journey.js?v={ASSET_VER}" defer></script>
 </body>
 </html>
 """
@@ -672,6 +674,7 @@ def build_stories():
                 + (f'<section class="blk"><h2>Did you follow?</h2>{questions(S.get("questions"), ctx)}</section>' if S.get("questions") else "")
                 + (f'<section class="blk after"><h2>About this story</h2>{md(S.get("after"))}</section>' if S.get("after") else "")
                 + (f'<p class="source">{inl(S.get("source"))}</p>' if S.get("source") else "")
+                + '<div class="read-end"><button class="done-btn" type="button" data-read="story:' + esc(sid) + '">I\'ve read this</button></div>'
                 + pn + "</article>")
         page(url, S.get("title", sid), body, desc=clip(S.get("intro", ""), 200), image=S.get("image"), section="stories")
         SEARCH.append({"t": "story", "ti": S.get("title"), "fa": S.get("titleFa", ""), "r": S.get("titleR", ""), "u": url,
@@ -728,7 +731,7 @@ def build_culture():
                     + figure(A.get("image"), "ph ph-hero", eager=True) + facts + body_secs
                     + (f'<section class="blk"><h2>Say it in Persian</h2>{study_bar(has_key(A.get("sentences"), "col"))}<div class="lines">{sents}</div></section>' if sents else "")
                     + (f'<section class="blk"><h2>Words</h2>{vocab_list(A.get("vocab", []), ctx, "article-" + aid)}</section>' if A.get("vocab") else "")
-                    + rel_html + "</article>")
+                    + '<div class="read-end"><button class="done-btn" type="button" data-read="article:' + esc(aid) + '">I\'ve read this</button></div>' + rel_html + "</article>")
             page(url, A.get("title", aid), body, desc=clip(A.get("summary", ""), 200), image=A.get("image"), section="culture")
             SEARCH.append({"t": topic, "ti": A.get("title"), "fa": A.get("titleFa", ""), "r": A.get("titleR", ""), "u": url,
                            "s": TOPIC[topic][1], "k": plain(A.get("summary", ""))})
@@ -779,7 +782,7 @@ def build_poetry():
         body = ('<article class="poem narrow">' + head_block(P.get("title", ""), P.get("titleFa", ""), P.get("titleR", ""), P.get("titleA"), P.get("intro", ""), kicker)
                 + f'<p class="meta">{esc(meta)} <bdi lang="fa" dir="rtl">{esc(P.get("poetFa", ""))}</bdi></p>'
                 + figure(P.get("image"), "ph ph-portrait") + study_bar(False) + f'<div class="verses">{"".join(verses)}</div>'
-                + f'<section class="blk"><h2>Reading the poem</h2>{md(P.get("commentary"))}</section></article>')
+                + f'<section class="blk"><h2>Reading the poem</h2>{md(P.get("commentary"))}</section>' + '<div class="read-end"><button class="done-btn" type="button" data-read="poem:' + esc(pid) + '">I\'ve read this</button></div>' + '</article>')
         page(url, P.get("title", pid), body, desc=f'{P.get("title")} by {P.get("poet")}, with translation and word-by-word notes.', image=P.get("image"), section="poetry")
         SEARCH.append({"t": "poem", "ti": P.get("title"), "fa": P.get("titleFa", ""), "r": P.get("titleR", ""), "u": url, "s": P.get("poet", "")})
     items = "".join(
@@ -1103,6 +1106,64 @@ The text of the course is free to use and share under CC BY-SA 4.0; the code is 
     page("about/photos.html", "Photo credits", body, desc="Credits for the photos used on Learn Farsi.", section="about")
 
 
+CITIES = {"script": ("Tabriz", "تبریز"), "a1": ("Qazvin", "قزوین"), "a2": ("Tehran", "تهران"), "b1": ("Kashan", "کاشان"),
+          "b2": ("Isfahan", "اصفهان"), "c1": ("Shiraz", "شیراز")}
+
+
+def build_journey():
+    """assets/journey.json (what each lesson teaches, for the progress page) and journey/index.html."""
+    ranks = {}
+    p = os.path.join(ROOT, "data", "dict.json")
+    total = 0
+    if os.path.exists(p):
+        for e in json.load(open(p, encoding="utf-8")).get("entries", []):
+            if e.get("w") and e["w"] not in ranks:
+                ranks[e["w"]] = (e.get("n", 99999), e.get("c", 0))
+                total += e.get("c", 0)
+    levels, lessons = [], {}
+    for lv in COURSE.get("levels", []):
+        ids = [l for l in lv.get("lessons", []) if l in LESSONS]
+        city = CITIES.get(lv["id"], ("", ""))
+        levels.append({"id": lv["id"], "name": lv.get("name", ""), "fa": lv.get("fa", ""), "city": city[0], "cityFa": city[1], "lessons": ids})
+        for lid in ids:
+            L = LESSONS[lid]
+            words = []
+            for b in L.get("sections", []):
+                if b.get("type") == "vocab":
+                    for it in b.get("items", []):
+                        if it.get("fa") and it["fa"] not in words:
+                            words.append(it["fa"])
+            lessons[lid] = {"t": L.get("title", ""), "u": f"course/{lid}.html", "lv": lv["id"], "n": L.get("n", 0),
+                            "w": words, "g": [plain(g) for g in L.get("goals", [])]}
+    freq = {w: [r[0], r[1]] for w, r in ranks.items()}
+    fal = []
+    for pid in COURSE.get("poems", []):
+        P = POEMS.get(pid)
+        if not P:
+            continue
+        for ln in P.get("lines", [])[:6]:
+            if ln.get("a") and ln.get("en"):
+                fal.append([ln["fa"], ln["en"], ln["a"], f"poetry/{pid}.html", P.get("poet", "")])
+    praise = []
+    pp = os.path.join(ROOT, "data", "praise.json")
+    if os.path.exists(pp):
+        praise = [[x["fa"], x["r"], x["en"], x.get("a", "")] for x in json.load(open(pp, encoding="utf-8")).get("items", [])]
+    data = {"levels": levels, "lessons": lessons, "freq": freq, "total": total, "fal": fal, "praise": praise,
+            "stories": {k: [v.get("title", ""), v.get("level", "")] for k, v in STORIES.items()},
+            "poems": {k: v.get("title", "") for k, v in POEMS.items()}, "articles": len(ARTICLES)}
+    json.dump(data, open(os.path.join(ASSETS, "journey.json"), "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
+    body = ('<div class="narrow wide-journey" data-journey>' + head_block("My journey", "سفر من", "safar-e man", None,
+            "From the first letter in Tabriz to Hafez's garden in Shiraz: every lesson you finish moves your caravan on and weaves "
+            "one more medallion into your carpet. Your journey is kept in this browser – nothing is sent anywhere.")
+            + '<section class="blk j-route"><h2>The caravan route</h2><div data-j-route></div></section>'
+            + '<section class="blk j-stats" data-j-stats></section>'
+            + '<section class="blk"><h2>Your carpet</h2><p class="meta">One medallion for every lesson. Finish a lesson to weave it in.</p><div data-j-carpet></div></section>'
+            + '<section class="blk"><h2>Badges</h2><div data-j-badges></div></section>'
+            + '<section class="blk"><h2>What you can do now</h2><div data-j-cando></div></section>'
+            + '<section class="blk j-cert" data-j-cert></section></div>')
+    page("journey/index.html", "My journey", body, desc="Your progress in Persian: the caravan route, your carpet, badges and streak.", section="journey")
+
+
 def build_voice():
     body = ('<div class="narrow" data-voice-page>' + head_block("Friend's voice", "صدای دوست", "sedā-ye dust", None,
             "Do you know someone who speaks Persian? Ask them to read the lines of a lesson aloud. Next to every speaker icon on the site "
@@ -1157,7 +1218,7 @@ var STATIC = "lf-static-" + VER, PAGES = "lf-pages", AUDIO = "lf-audio", FONTS =
 
 self.addEventListener("install", function (e) {
   e.waitUntil(caches.open(STATIC).then(function (c) {
-    return c.addAll(["offline.html", "assets/style.css?v=" + VER, "assets/app.js?v=" + VER, "assets/voice.js?v=" + VER, "assets/favicon.svg"]);
+    return c.addAll(["offline.html", "assets/style.css?v=" + VER, "assets/app.js?v=" + VER, "assets/voice.js?v=" + VER, "assets/journey.js?v=" + VER, "assets/favicon.svg"]);
   }).then(function () { return self.skipWaiting(); }));
 });
 
@@ -1302,6 +1363,7 @@ def build_home(culture_order, news):
 <p class="hw-date" data-today-short></p>
 </div>
 </section>
+<section class="journey-home" data-journey-home hidden></section>
 <section class="path"><h2>The path</h2><ol class="steps">{"".join(levels)}</ol></section>
 <section class="home-sec"><div class="hs-head"><h2>Read in Persian</h2><a href="stories/index.html">All {len(STORIES)} stories</a></div><ul class="tiles">{story_tiles}</ul></section>
 <section class="home-sec"><div class="hs-head"><h2>Iran in pictures and stories</h2><a href="culture/index.html">All {len(ARTICLES)} articles</a></div><ul class="topics">{topics}</ul></section>
@@ -1467,7 +1529,7 @@ def write_data():
 def main():
     global ASSET_VER
     h = hashlib.sha1()
-    for f in ("style.css", "app.js", "voice.js"):
+    for f in ("style.css", "app.js", "voice.js", "journey.js"):
         p = os.path.join(ASSETS, f)
         if os.path.exists(p):
             h.update(open(p, "rb").read())
@@ -1491,6 +1553,7 @@ def main():
     build_home(culture_order, news)
     build_404()
     build_voice()
+    build_journey()
     build_offline()
     n_search, n_conc = write_data()
     print(f"Built {len(PAGES)} pages: {len(LESSONS)} lessons, {len(STORIES)} stories, {len(ARTICLES)} articles, {len(POEMS)} poems, "

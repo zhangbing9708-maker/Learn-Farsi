@@ -1,0 +1,67 @@
+{
+ "items": [
+  {
+   "fa": "آفرین!",
+   "r": "āfarin!",
+   "en": "Well done!",
+   "faV": "آفَرین!",
+   "a": "cfba4e32658c"
+  },
+  {
+   "fa": "عالی بود!",
+   "r": "āli bud!",
+   "en": "That was excellent!",
+   "faV": "عالی بود!",
+   "a": "12e728cd0c91"
+  },
+  {
+   "fa": "دست مریزاد!",
+   "r": "dast marizād!",
+   "en": "Bravo! (literally: may your hand never tire)",
+   "faV": "دَست مَریزاد!",
+   "a": "a8b9624e005a"
+  },
+  {
+   "fa": "خسته نباشی!",
+   "r": "khaste na-bāshi!",
+   "en": "Well done – you've worked hard! (literally: may you not be tired)",
+   "faV": "خَسته نَباشی!",
+   "a": "636ea73ba2d2"
+  },
+  {
+   "fa": "چه عالی!",
+   "r": "che āli!",
+   "en": "How wonderful!",
+   "faV": "چه عالی!",
+   "a": "1667826ddcf3"
+  },
+  {
+   "fa": "قدم به قدم جلو می‌روی.",
+   "r": "ghadam be ghadam jelow mi-ravi.",
+   "en": "Step by step, you're getting there.",
+   "faV": "قَدَم به قَدَم جِلَو می‌رَوی.",
+   "a": "cbc6688ac6f8"
+  },
+  {
+   "fa": "کم‌کم داری فارسی یاد می‌گیری!",
+   "r": "kam-kam dāri fārsi yād mi-giri!",
+   "en": "Little by little, you're learning Persian!",
+   "faV": "کَم‌کَم داری فارسی یاد می‌گیری!",
+   "a": "142a4a0409c0"
+  },
+  {
+   "fa": "به این می‌گویند پیشرفت!",
+   "r": "be in mi-guyand pishraft!",
+   "en": "Now that's what I call progress!",
+   "faV": "به این می‌گویَند پیشرَفت!",
+   "a": "e3d7af7b7dec"
+  },
+  {
+   "fa": "قطره قطره جمع گردد، وانگهی دریا شود.",
+   "r": "ghatre ghatre jam' gardad, vāngahi daryā shavad.",
+   "en": "Drop by drop gathers – and then it becomes a sea.",
+   "faV": "قَطره قَطره جَمع گَردَد، وانگَهی دَریا شَوَد.",
+   "a": "80e451b13b27"
+  }
+ ]
+}

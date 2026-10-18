@@ -21,6 +21,8 @@ Learn Farsi is written like an open textbook: every lesson, story and article is
 
 More than 16,000 sentences and words are recorded. Every lesson, story, article and poem has a **Print** button that lays the page out on A4 (exercises become a worksheet with an answer key), and a **Save offline** button that keeps the page and its audio on the device. Everything works on a phone and can be installed like an app. Progress and saved words stay in the learner's browser; nothing is tracked.
 
+**My journey:** every finished lesson moves the learner's caravan along the old road from Tabriz to Shiraz and weaves a medallion into their own Persian carpet. Finishing a lesson brings a celebration: a word of praise with its audio (آفرین!), what you can now do, words learnt and how much of everyday text they cover, and a fāl-e Hāfez. Streaks count towards a *chelle* (40 days), 30 badges have Persian names, and each completed level has a printable certificate.
+
 **Friend's voice:** a Persian-speaking friend can record any line on the site; the learner hears that voice next to (or instead of) the computer voice, also in the listening exercises. Learners sign in with their own Google account and the recordings are saved privately in the hidden app-data folder of *their* Google Drive (or kept on the device without an account) – never in this repository or anywhere else. Setup for the site owner: [VOICE_SETUP.md](VOICE_SETUP.md).
 
 ## How to use it

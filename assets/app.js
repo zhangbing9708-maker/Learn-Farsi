@@ -181,7 +181,12 @@
   $$("[data-done]").forEach(function (b) {
     var id = b.getAttribute("data-done");
     function show() { var on = !!done[id]; b.classList.toggle("is-done", on); b.textContent = on ? "Done ✓ – tap to undo" : "Mark this lesson as done"; }
-    b.addEventListener("click", function () { if (done[id]) delete done[id]; else done[id] = Date.now(); store.set("done", done); show(); });
+    b.addEventListener("click", function () {
+      var now = !done[id];
+      if (now) done[id] = Date.now(); else delete done[id];
+      store.set("done", done); show();
+      if (now) document.dispatchEvent(new CustomEvent("lf:done", { detail: { id: id } }));
+    });
     show();
   });
   $$("[data-done-mark]").forEach(function (m) { if (done[m.getAttribute("data-done-mark")]) { m.classList.add("on"); m.setAttribute("title", "Done"); } });
@@ -238,6 +243,7 @@
   function score(box, right, total) {
     var s = $(".ex-score", box) || box.appendChild(h("p", { "class": "ex-score" }));
     s.textContent = right + " of " + total + " right" + (right === total ? " – excellent!" : "");
+    document.dispatchEvent(new CustomEvent("lf:score", { detail: { right: right, total: total, box: box } }));
   }
   var EX = {
     mcq: function (body, items, box) {
