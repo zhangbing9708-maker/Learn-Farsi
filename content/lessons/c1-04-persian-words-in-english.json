@@ -1,0 +1,1150 @@
+{
+ "id": "c1-04-persian-words-in-english",
+ "level": "C1",
+ "n": 4,
+ "title": "Persian words in English",
+ "titleFa": "واژه‌های فارسی در انگلیسی",
+ "titleR": "vāzhe-hā-ye fārsi dar engelisi",
+ "intro": "You have been speaking Persian all your life without knowing it. Bazaar, caravan, paradise, pyjamas, checkmate, lemon, sugar, khaki – about forty everyday English words came from Persian or passed through it on their way west. This lesson follows them along the four great routes they travelled: through Greek and Latin, through Arabic and medieval Europe, through Ottoman Turkish, and through British India. Where etymologists disagree, we say so.",
+ "goals": [
+  "give the Persian original of about forty English words and say what it meant",
+  "describe the four routes by which Persian words reached English",
+  "tell a well-established etymology from a probable or disputed one",
+  "talk about word origins in Persian: ریشه، وام‌واژه، از راه … به … رسید"
+ ],
+ "image": "silk-road",
+ "sections": [
+  {
+   "type": "reading",
+   "title": "Words travel like caravans",
+   "intro": "An essay on how Persian words reached English. Watch the vocabulary of journeys – راه، مسیر، رسیدن، رساندن، بازگشتن – used for words, and the hedging (به نظر می‌رسد، اختلاف دارند) where the story is uncertain.",
+   "sentences": [
+    {
+     "fa": "واژه‌ها نیز مانند کاروان‌ها سفر می‌کنند.",
+     "r": "vāzhe-hā niz mānand-e kārvān-hā safar mi-konand.",
+     "en": "Words, too, travel like caravans."
+    },
+    {
+     "fa": "بسیاری از واژه‌های انگلیسی که امروز کاملاً بومی به نظر می‌رسند، ریشه در زبان فارسی دارند.",
+     "r": "besyār-i az vāzhe-hā-ye engelisi ke emruz kāmelan bumi be nazar mi-resand, rishe dar zabān-e fārsi dārand.",
+     "en": "Many English words that seem entirely native today have their roots in Persian."
+    },
+    {
+     "fa": "این واژه‌ها از چهار راه اصلی به انگلیسی رسیده‌اند.",
+     "r": "in vāzhe-hā az chahār rāh-e asli be engelisi reside-and.",
+     "en": "These words reached English by four main routes."
+    },
+    {
+     "fa": "راه نخست، یونانی و لاتین بود: یونانیان باستان واژه‌ی «پردیس» را از زبان‌های ایرانی باستان گرفتند و از آن «پارادایس» ساخته شد.",
+     "r": "rāh-e nakhost, yunāni va lātin bud: yunāniyān-e bāstān vāzhe-ye «pardis» rā az zabān-hā-ye Irāni-ye bāstān gereftand va az ān «pārādāys» sākhte shod.",
+     "en": "The first route was Greek and Latin: the ancient Greeks took the word pardis from the ancient Iranian languages, and from it came 'paradise'."
+    },
+    {
+     "fa": "این واژه در اصل به معنای باغی بود که گرداگردش دیوار کشیده بودند.",
+     "r": "in vāzhe dar asl be ma'nā-ye bāgh-i bud ke gerdāgerd-ash divār keshide budand.",
+     "en": "The word originally meant a garden with a wall built all around it."
+    },
+    {
+     "fa": "«مغ»، نام روحانیان ایران باستان، نیز از همین راه به واژه‌ی «مجیک» در انگلیسی رسید.",
+     "r": "«magh», nām-e ruhāniyān-e Irān-e bāstān, niz az hamin rāh be vāzhe-ye «mejik» dar engelisi resid.",
+     "en": "Magh, the name of the priests of ancient Iran, also travelled this road to become 'magic' in English."
+    },
+    {
+     "fa": "راه دوم، عربی و اروپای قرون وسطی بود.",
+     "r": "rāh-e dovvom, arabi va orupā-ye ghorun-e vostā bud.",
+     "en": "The second route was Arabic and medieval Europe."
+    },
+    {
+     "fa": "«شکر»، «قند» و «اسفناج» از فارسی به عربی و از عربی به زبان‌های اروپایی رفتند.",
+     "r": "«shekar», «ghand» o «esfenāj» az fārsi be arabi va az arabi be zabān-hā-ye orupāyi raftand.",
+     "en": "Shekar (sugar), ghand (candy) and esfenāj (spinach) went from Persian into Arabic and from Arabic into the languages of Europe."
+    },
+    {
+     "fa": "بازی شطرنج نیز با واژه‌هایش، از جمله «شاه»، «رخ» و «شاه‌مات»، همین مسیر را پیمود.",
+     "r": "bāzi-ye shatranj niz bā vāzhe-hā-yash, az jomle «shāh», «rokh» o «shāh-māt», hamin masir rā peymud.",
+     "en": "The game of chess, with its words – shāh, rokh and shāh-māt among them – took the same road."
+    },
+    {
+     "fa": "راه سوم، ترکی عثمانی بود که «کوشک»، «شغال» و «دلبند» را به اروپا رساند.",
+     "r": "rāh-e sevvom, torki-ye osmāni bud ke «kushk», «shoghāl» o «dolband» rā be orupā resānd.",
+     "en": "The third route was Ottoman Turkish, which carried kushk (pavilion), shoghāl (jackal) and dolband (turban) to Europe."
+    },
+    {
+     "fa": "از «دلبند»، یعنی پارچه‌ای که دور سر می‌پیچیدند، هم «توربان» ساخته شد و هم نام گل «تولیپ».",
+     "r": "az «dolband», ya'ni pārche-i ke dowr-e sar mi-pichidand, ham «turbān» sākhte shod va ham nām-e gol-e «tulip».",
+     "en": "From dolband, the cloth wound round the head, came both 'turban' and the name of the tulip."
+    },
+    {
+     "fa": "راه چهارم، هند بود؛ در آن‌جا فارسی قرن‌ها زبان دربار و دیوان بود.",
+     "r": "rāh-e chahārom, Hend bud; dar ān-jā fārsi gharn-hā zabān-e darbār o divān bud.",
+     "en": "The fourth route was India, where for centuries Persian was the language of the court and the administration."
+    },
+    {
+     "fa": "انگلیسی‌ها در هند واژه‌هایی چون «پاجامه»، «شال» و «خاکی» را از زبان‌های محلی آموختند.",
+     "r": "engelisi-hā dar Hend vāzhe-hā-yi chon «pājāme», «shāl» o «khāki» rā az zabān-hā-ye mahalli āmukhtand.",
+     "en": "In India the British learned words such as pājāme, shāl and khāki from the local languages."
+    },
+    {
+     "fa": "سربازان بریتانیایی در هند از نخستین کسانی بودند که لباس «خاکی»، یعنی همرنگ خاک، پوشیدند.",
+     "r": "sarbāzān-e Beritāniyāyi dar Hend az nakhostin kasān-i budand ke lebās-e «khāki», ya'ni hamrang-e khāk, pushidand.",
+     "en": "British soldiers in India were among the first to wear 'khaki' – earth-coloured – uniforms."
+    },
+    {
+     "fa": "گاهی معنای واژه در سفر تغییر کرده است.",
+     "r": "gāh-i ma'nā-ye vāzhe dar safar taghyir karde ast.",
+     "en": "Sometimes a word's meaning changed on the journey."
+    },
+    {
+     "fa": "«دیوان» در فارسی دفتر شعر یا اداره‌ی دولتی است، اما در انگلیسی به نوعی کاناپه گفته می‌شود.",
+     "r": "«divān» dar fārsi daftar-e she'r yā edāre-ye dowlati ast, ammā dar engelisi be now'-i kānāpe gofte mi-shavad.",
+     "en": "In Persian a divān is a collection of poems or a government office, but in English the word is used for a kind of sofa."
+    },
+    {
+     "fa": "در مورد برخی واژه‌ها، مانند «اسکارلت»، ریشه‌شناسان هنوز با هم اختلاف دارند.",
+     "r": "dar mowred-e barkhi vāzhe-hā, mānand-e «eskārlet», rishe-shenāsān hanuz bā ham ekhtelāf dārand.",
+     "en": "About some words, such as 'scarlet', etymologists still disagree."
+    },
+    {
+     "fa": "با این همه، هر بار که انگلیسی‌زبانی از «بازار» یا «شکر» سخن می‌گوید، تکه‌ای از فارسی را بر زبان می‌آورد.",
+     "r": "bā in hame, har bār ke engelisi-zabān-i az «bāzār» yā «shekar» sokhan mi-guyad, tekke-i az fārsi rā bar zabān mi-āvarad.",
+     "en": "Even so, every time an English speaker talks about a 'bazaar' or 'sugar', a little piece of Persian passes their lips."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What did pardis originally mean?",
+     "options": [
+      "heaven",
+      "a walled garden",
+      "a palace"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "By which route did 'kiosk' and 'jackal' reach Europe?",
+     "options": [
+      "Ottoman Turkish",
+      "Greek and Latin",
+      "British India"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Why did so many Persian words reach English through India?",
+     "options": [
+      "Because Persian was the language of the court and administration there",
+      "Because the British studied in Iran",
+      "Because Hindi is a dialect of Persian"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Which two English words both come from دلبند?",
+     "options": [
+      "turban and tulip",
+      "kiosk and divan",
+      "shawl and khaki"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "How to read an etymology",
+   "md": "Every entry in this lesson has three parts: the **English word**, the **Persian original** with what it meant, and the **route** – the languages the word passed through. Routes matter because each language reshaped the word: Arabic has no *p* (so *pistāchio* came via Greek, but *esfenāj* via Arabic became *spinach*), French dropped and added sounds, and English finally fixed the spelling.\n\nEtymologists are careful people, and so are we. Three levels of certainty appear below:\n\n- **certain** – the line is documented step by step (*paradise*, *bazaar*, *checkmate*, *khaki*);\n- **probably** – the line is accepted by most dictionaries but a link is missing or debated (*divan*, *lemon*, *musk*);\n- **possibly** – a respectable theory with rivals (*scarlet*).\n\nSome words came *through* Persian rather than *from* it: [[شکر|shekar|sugar]] and [[قند|ghand|candy]] are Persian links in a chain that probably starts in Sanskrit, and [[شربت|sharbat|sherbet]] is an Arabic word that travelled west in Persian and Turkish mouths. And one famous 'Persian' word in English is a false friend: English *bad* and Persian [[بد|bad|bad]] look and mean the same, but linguists treat the match as a coincidence."
+  },
+  {
+   "type": "vocab",
+   "title": "The Persian originals",
+   "items": [
+    {
+     "fa": "ریشه‌شناسی",
+     "r": "rishe-shenāsi",
+     "en": "etymology",
+     "pos": "n",
+     "note": "an etymologist: ریشه‌شناس"
+    },
+    {
+     "fa": "وام‌واژه",
+     "r": "vām-vāzhe",
+     "en": "loanword",
+     "pos": "n",
+     "ex": {
+      "fa": "«کامپیوتر» در فارسی وام‌واژه است.",
+      "r": "«kāmpyuter» dar fārsi vām-vāzhe ast.",
+      "en": "'Computer' is a loanword in Persian."
+     }
+    },
+    {
+     "fa": "پردیس",
+     "r": "pardis",
+     "en": "walled garden; (today) university campus",
+     "pos": "n"
+    },
+    {
+     "fa": "مغ",
+     "r": "magh",
+     "en": "magus, Zoroastrian priest",
+     "pos": "n",
+     "note": "plural مغان"
+    },
+    {
+     "fa": "کاروان",
+     "r": "kārvān",
+     "en": "caravan",
+     "pos": "n"
+    },
+    {
+     "fa": "بازار",
+     "r": "bāzār",
+     "en": "market, bazaar",
+     "pos": "n"
+    },
+    {
+     "fa": "کوشک",
+     "r": "kushk",
+     "en": "pavilion, garden palace",
+     "pos": "n"
+    },
+    {
+     "fa": "دیوان",
+     "r": "divān",
+     "en": "collection of poems; government office",
+     "pos": "n"
+    },
+    {
+     "fa": "پاجامه",
+     "r": "pājāme",
+     "en": "loose trousers (literally 'leg garment')",
+     "pos": "n",
+     "note": "Iranians now say پیژامه, borrowed back from French."
+    },
+    {
+     "fa": "شال",
+     "r": "shāl",
+     "en": "shawl, scarf",
+     "pos": "n"
+    },
+    {
+     "fa": "خاکی",
+     "r": "khāki",
+     "en": "earthy, dust-coloured; down-to-earth",
+     "pos": "adj",
+     "note": "from خاک 'earth, dust'"
+    },
+    {
+     "fa": "تافته",
+     "r": "tāfte",
+     "en": "spun, twisted (silk) – taffeta",
+     "pos": "adj",
+     "note": "past participle of تافتن 'to twist, spin'"
+    },
+    {
+     "fa": "دلبند",
+     "r": "dolband",
+     "en": "turban cloth (old word)",
+     "pos": "n",
+     "note": "Not to be confused with دلبند (delband) 'darling'."
+    },
+    {
+     "fa": "شغال",
+     "r": "shoghāl",
+     "en": "jackal",
+     "pos": "n"
+    },
+    {
+     "fa": "شطرنج",
+     "r": "shatranj",
+     "en": "chess",
+     "pos": "n"
+    },
+    {
+     "fa": "رخ",
+     "r": "rokh",
+     "en": "rook (in chess); also 'face, cheek' (poetic)",
+     "pos": "n"
+    },
+    {
+     "fa": "مات",
+     "r": "māt",
+     "en": "dumbfounded, helpless; (chess) mate; matt",
+     "pos": "adj",
+     "ex": {
+      "fa": "از تعجب مات ماند.",
+      "r": "az ta'ajjob māt mānd.",
+      "en": "He was struck dumb with surprise."
+     }
+    },
+    {
+     "fa": "قند",
+     "r": "ghand",
+     "en": "lump sugar, sugar cube",
+     "pos": "n"
+    },
+    {
+     "fa": "شکر",
+     "r": "shekar",
+     "en": "sugar",
+     "pos": "n",
+     "note": "Do not confuse with شکر (shokr) 'thanks' – same letters."
+    },
+    {
+     "fa": "مشک",
+     "r": "moshk",
+     "en": "musk",
+     "pos": "n",
+     "note": "مشکی (meshki) 'black' – the colour of musk"
+    },
+    {
+     "fa": "یاسمن",
+     "r": "yāsaman",
+     "en": "jasmine",
+     "pos": "n",
+     "note": "also یاسمین and یاس"
+    },
+    {
+     "fa": "اسفناج",
+     "r": "esfenāj",
+     "en": "spinach",
+     "pos": "n"
+    },
+    {
+     "fa": "نارنج",
+     "r": "nāranj",
+     "en": "bitter (Seville) orange",
+     "pos": "n",
+     "note": "The sweet orange is پرتقال – named after Portugal."
+    },
+    {
+     "fa": "لیمو",
+     "r": "limu",
+     "en": "lime, lemon",
+     "pos": "n"
+    },
+    {
+     "fa": "پسته",
+     "r": "peste",
+     "en": "pistachio",
+     "pos": "n"
+    },
+    {
+     "fa": "گلاب",
+     "r": "golāb",
+     "en": "rose water",
+     "pos": "n",
+     "note": "گل 'rose' + آب 'water'"
+    },
+    {
+     "fa": "لاجورد",
+     "r": "lājvard",
+     "en": "lapis lazuli; azure blue",
+     "pos": "n"
+    },
+    {
+     "fa": "شربت",
+     "r": "sharbat",
+     "en": "sweet cold drink, cordial; (medicine) syrup",
+     "pos": "n"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Markets, clothes and the home",
+   "md": "The first family of words is the vocabulary of trade and dress – carried by merchants along the Silk Road and by the British in India. Notice the Persian compounds that English swallowed whole: [[کاروان‌سرا|kārvānsarā|caravan + palace]], [[کمربند|kamarband|waist + band]], [[شیر و شکر|shir o shekar|milk and sugar]].\n\nTalking about origins in Persian, you need only a handful of patterns: [[… از واژه‌ی فارسی … آمده است|… az vāzhe-ye fārsi-ye … āmade ast|… comes from the Persian word …]], [[از راه ترکی به انگلیسی رسید|az rāh-e torki be engelisi resid|it reached English by way of Turkish]], [[در اصل به معنای … بود|dar asl be ma'nā-ye … bud|it originally meant …]].",
+   "table": {
+    "head": [
+     "English",
+     "Persian",
+     "Original meaning",
+     "Route"
+    ],
+    "rows": [
+     [
+      "bazaar",
+      "[[بازار|bāzār]]",
+      "market",
+      "via Turkish and Italian (16th century) – certain"
+     ],
+     [
+      "caravan",
+      "[[کاروان|kārvān]]",
+      "company of travellers",
+      "via Italian and French – certain; 'van' is short for it"
+     ],
+     [
+      "caravanserai",
+      "[[کاروان‌سرا|kārvānsarā]]",
+      "caravan + house, palace",
+      "via Turkish and French – certain"
+     ],
+     [
+      "kiosk",
+      "[[کوشک|kushk]]",
+      "pavilion, garden palace",
+      "via Turkish köşk and French – certain"
+     ],
+     [
+      "divan",
+      "[[دیوان|divān]]",
+      "register, council, collection of poems",
+      "via Arabic, Turkish and French; the council room's cushioned bench became the sofa – probably"
+     ],
+     [
+      "shawl",
+      "[[شال|shāl]]",
+      "shawl, woollen wrap",
+      "via Urdu/Hindi – probably"
+     ],
+     [
+      "pyjamas",
+      "[[پاجامه|pājāme]]",
+      "leg garment",
+      "via Hindi/Urdu, British India – certain"
+     ],
+     [
+      "khaki",
+      "[[خاکی|khāki]]",
+      "dust-coloured",
+      "via Hindi/Urdu, British Indian army, 1840s – certain"
+     ],
+     [
+      "taffeta",
+      "[[تافته|tāfte]]",
+      "twisted, spun (silk)",
+      "via Italian, French or Medieval Latin – probably"
+     ],
+     [
+      "turban",
+      "[[دلبند|dolband]]",
+      "head-wrap",
+      "via Turkish tülbent and French turbant – certain"
+     ],
+     [
+      "cummerbund",
+      "[[کمربند|kamarband]]",
+      "waist band, belt",
+      "via Hindi/Urdu – certain"
+     ],
+     [
+      "seersucker",
+      "[[شیر و شکر|shir o shekar]]",
+      "milk and sugar (smooth and rough stripes)",
+      "via Hindi/Urdu – certain"
+     ],
+     [
+      "pashmina",
+      "[[پشمینه|pashmine]]",
+      "woollen, made of fine wool",
+      "via Kashmiri and Hindi/Urdu – certain"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "بازار بزرگ تهران هر روز هزاران خریدار دارد.",
+     "r": "bāzār-e bozorg-e Tehrān har ruz hezārān kharidār dārad.",
+     "en": "Tehran's Grand Bazaar has thousands of shoppers every day."
+    },
+    {
+     "fa": "کاروان‌ها شب را در کاروانسرا می‌گذراندند.",
+     "r": "kārvān-hā shab rā dar kārvānsarā mi-gozarāndand.",
+     "en": "The caravans spent the night in the caravanserai."
+    },
+    {
+     "fa": "در فارسی به بنایی کوچک در میان باغ «کوشک» می‌گویند.",
+     "r": "dar fārsi be banā-yi kuchek dar miyān-e bāgh «kushk» mi-guyand.",
+     "en": "In Persian a small building in the middle of a garden is called a kushk."
+    },
+    {
+     "fa": "دیوان حافظ در بیشتر خانه‌های ایرانی پیدا می‌شود.",
+     "r": "divān-e Hāfez dar bish-tar-e khāne-hā-ye Irāni peydā mi-shavad.",
+     "en": "You will find a Divan of Hafez in most Iranian homes."
+    },
+    {
+     "fa": "ایرانی‌ها امروز «پیژامه» می‌گویند، که از راه فرانسه به فارسی بازگشته است.",
+     "r": "Irāni-hā emruz «pizhāme» mi-guyand, ke az rāh-e farānse be fārsi bāzgashte ast.",
+     "en": "Iranians today say pizhāme, which has come back into Persian by way of French."
+    },
+    {
+     "fa": "رنگ خاکی رنگ خاک است.",
+     "r": "rang-e khāki rang-e khāk ast.",
+     "en": "Khaki is the colour of earth."
+    },
+    {
+     "fa": "شال کشمیر در سراسر جهان معروف است.",
+     "r": "shāl-e Keshmir dar sarāsar-e jahān ma'ruf ast.",
+     "en": "Kashmir shawls are famous all over the world."
+    },
+    {
+     "fa": "نام پارچه‌ی «سیرساکر» از «شیر و شکر» آمده است: یک راه نرم مثل شیر و یک راه زبر مثل شکر.",
+     "r": "nām-e pārche-ye «sirsāker» az «shir o shekar» āmade ast: yek rāh-e narm mesl-e shir va yek rāh-e zebr mesl-e shekar.",
+     "en": "The name of seersucker comes from 'milk and sugar': one stripe smooth as milk, one rough as sugar."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Kings, games, priests and numbers",
+   "md": "The second family came mostly through Greek and Latin in antiquity and through Arabic in the Middle Ages. Chess is the star: the game came to Iran from India, and when it travelled on to the Arabs and to Europe it took its Persian vocabulary with it. The cry [[شاه مات|shāh māt]] is usually read as *the king is helpless* – Persian مات means dumbfounded – though some scholars connect it with Arabic *māta*, 'he died'. From [[شاه|shāh]] English also has *check*, *chess* and even *exchequer* (the royal treasury, whose accounts were reckoned on a chequered cloth).\n\nTwo entries are names rather than words. *Algorithm* comes from the name of the 9th-century mathematician **al-Khwarizmi** ([[خوارزمی|Khārazmi]]), from Khwarazm in Central Asia, whose name in Latin was *Algoritmi*; *algebra* comes from the Arabic title of his book (*al-jabr*).",
+   "table": {
+    "head": [
+     "English",
+     "Persian",
+     "Original meaning",
+     "Route"
+    ],
+    "rows": [
+     [
+      "shah",
+      "[[شاه|shāh]]",
+      "king",
+      "direct, 16th century – certain"
+     ],
+     [
+      "check, chess, exchequer",
+      "[[شاه|shāh]]",
+      "king (the warning 'king!')",
+      "via Arabic, Medieval Latin and Old French – certain"
+     ],
+     [
+      "checkmate",
+      "[[شاه مات|shāh māt]]",
+      "the king is helpless",
+      "via Arabic and Old French – certain; the sense of مات is debated"
+     ],
+     [
+      "rook",
+      "[[رخ|rokh]]",
+      "the chess piece (chariot?)",
+      "via Arabic rukhkh and Old French roc – certain"
+     ],
+     [
+      "paradise",
+      "[[پردیس|pardis]]",
+      "walled garden (Avestan pairidaēza)",
+      "via Greek parádeisos, Latin and French – certain"
+     ],
+     [
+      "magic, magus",
+      "[[مغ|magh]]",
+      "Zoroastrian priest",
+      "via Greek mágos and Latin – certain"
+     ],
+     [
+      "satrap",
+      "Old Persian xšaçapāvan",
+      "protector of the realm, governor",
+      "via Greek – certain; Persian has borrowed it back as [[ساتراپ|sātrāp]]"
+     ],
+     [
+      "algorithm",
+      "[[خوارزمی|Khārazmi]]",
+      "the man from Khwarazm",
+      "via Latin Algoritmi – certain"
+     ],
+     [
+      "mummy",
+      "[[مومیایی|mumiyāyi]]",
+      "bitumen, from [[موم|mum|wax]]",
+      "via Arabic mūmiyā and Medieval Latin – probably"
+     ],
+     [
+      "jackal",
+      "[[شغال|shoghāl]]",
+      "jackal",
+      "via Turkish çakal – certain"
+     ],
+     [
+      "sitar",
+      "[[سه‌تار|se-tār]]",
+      "three strings",
+      "via Hindi/Urdu – certain"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "در شطرنج، وقتی شاه راه فرار ندارد، می‌گویند «کیش و مات».",
+     "r": "dar shatranj, vaghti shāh rāh-e farār na-dārad, mi-guyand «kish o māt».",
+     "en": "In chess, when the king has no escape, you say 'check and mate'."
+    },
+    {
+     "fa": "«مات» در فارسی یعنی حیران و درمانده.",
+     "r": "«māt» dar fārsi ya'ni heyrān va darmānde.",
+     "en": "In Persian māt means dumbfounded and helpless."
+    },
+    {
+     "fa": "رخ در شطرنج ایرانی همان مهره‌ای است که در انگلیسی «روک» نام دارد.",
+     "r": "rokh dar shatranj-e Irāni hamān mohre-i ast ke dar engelisi «ruk» nām dārad.",
+     "en": "The rokh in Iranian chess is the same piece that is called the rook in English."
+    },
+    {
+     "fa": "واژه‌ی «فردوس» به معنای بهشت نیز از همان ریشه‌ی «پردیس» است.",
+     "r": "vāzhe-ye «ferdows» be ma'nā-ye behesht niz az hamān rishe-ye «pardis» ast.",
+     "en": "The word ferdows, 'paradise', also comes from the same root as pardis."
+    },
+    {
+     "fa": "امروز به محوطه‌ی دانشگاه نیز «پردیس» می‌گویند.",
+     "r": "emruz be mohavvate-ye dāneshgāh niz «pardis» mi-guyand.",
+     "en": "Today a university campus is also called a pardis."
+    },
+    {
+     "fa": "مغان روحانیان زرتشتی بودند و یونانیان آنان را جادوگر می‌پنداشتند.",
+     "r": "moghān ruhāniyān-e zartoshti budand va yunāniyān ānān rā jādugar mi-pendāshtand.",
+     "en": "The magi were Zoroastrian priests, and the Greeks took them for sorcerers."
+    },
+    {
+     "fa": "خوارزمی، ریاضی‌دان بزرگ ایرانی، در قرن سوم هجری در بغداد کار می‌کرد.",
+     "r": "Khārazmi, riyāzi-dān-e bozorg-e Irāni, dar gharn-e sevvom-e hejri dar Baghdād kār mi-kard.",
+     "en": "Al-Khwarizmi, the great Iranian mathematician, worked in Baghdad in the third century of the Hijra (the 9th century AD)."
+    },
+    {
+     "fa": "شغال‌ها شب‌ها در باغ‌های روستا زوزه می‌کشند.",
+     "r": "shoghāl-hā shab-hā dar bāgh-hā-ye rustā zuze mi-keshand.",
+     "en": "Jackals howl at night in the village orchards."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Gardens, kitchens and colours",
+   "md": "The third family is the sweetest. Iran's gardens and kitchens gave Europe fruits, flowers, sweets and the names of colours – often by way of Arabic Spain and Sicily, then Italian and French. Watch the sounds change on the road: Persian [[نارنگ|nārang]] / [[نارنج|nāranj]] became Arabic *nāranj*, Italian *arancia*, French *orange* – the *n* of *a norange* was swallowed by the article. The *peach* is a special case: the word is not Persian at all but Latin *persicum (malum)*, 'the Persian (apple)'.\n\nThe colour words show how cautious we must be. *Azure* certainly comes from [[لاجورد|lājvard]], the blue stone, via Arabic and Medieval Latin. *Scarlet* is **possibly** from a Persian name for a fine cloth (*saqerlāt*), but other scholars derive it from Latin, so dictionaries mark it as uncertain.",
+   "table": {
+    "head": [
+     "English",
+     "Persian",
+     "Original meaning",
+     "Route"
+    ],
+    "rows": [
+     [
+      "sugar",
+      "[[شکر|shekar]]",
+      "sugar",
+      "via Arabic sukkar, Medieval Latin, French; ultimately Sanskrit – certain"
+     ],
+     [
+      "candy",
+      "[[قند|ghand]]",
+      "cane sugar, lump sugar",
+      "via Arabic qandī and French sucre candi; probably from Sanskrit"
+     ],
+     [
+      "musk",
+      "[[مشک|moshk]]",
+      "musk",
+      "via Greek and Late Latin; possibly from Sanskrit – probably"
+     ],
+     [
+      "jasmine",
+      "[[یاسمن|yāsaman]]",
+      "jasmine",
+      "via Arabic and French – certain"
+     ],
+     [
+      "lilac",
+      "[[لیلک|lilak]] / [[نیلک|nilak]]",
+      "bluish (from [[نیل|nil|indigo]])",
+      "via Arabic, Turkish and French – probably"
+     ],
+     [
+      "tulip",
+      "[[دلبند|dolband]]",
+      "turban (the flower's shape)",
+      "via Turkish tülbent and Latin – certain"
+     ],
+     [
+      "spinach",
+      "[[اسفناج|esfenāj]]",
+      "spinach",
+      "via Arabic isbānākh, Medieval Latin, Old French – certain"
+     ],
+     [
+      "peach",
+      "(Latin persicum)",
+      "'the Persian fruit'",
+      "Latin, Old French pêche – certain; the Persian word is [[هلو|holu]]"
+     ],
+     [
+      "lemon, lime",
+      "[[لیمو|limu]]",
+      "lemon, lime",
+      "via Arabic laymūn, Italian, French; perhaps from an Asian language – probably"
+     ],
+     [
+      "orange",
+      "[[نارنگ|nārang]]",
+      "bitter orange",
+      "via Arabic nāranj, Italian, Old French; from Sanskrit – certain"
+     ],
+     [
+      "pistachio",
+      "[[پسته|peste]]",
+      "pistachio",
+      "via Greek pistákion, Latin, Italian – certain"
+     ],
+     [
+      "sherbet",
+      "[[شربت|sharbat]]",
+      "a drink",
+      "Arabic word, via Persian and Turkish şerbet – certain"
+     ],
+     [
+      "julep",
+      "[[گلاب|golāb]]",
+      "rose water",
+      "via Arabic julāb, Latin, French – certain"
+     ],
+     [
+      "azure, lapis lazuli",
+      "[[لاجورد|lājvard]]",
+      "the blue stone",
+      "via Arabic lāzaward, Medieval Latin, Old French – certain"
+     ],
+     [
+      "scarlet",
+      "[[سقرلاط|saqerlāt]] (?)",
+      "a fine (red) cloth",
+      "via Arabic and Medieval Latin – possibly; disputed"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "ایرانیان چای را با قند می‌نوشند، نه با شکر.",
+     "r": "Irāniyān chāy rā bā ghand mi-nushand, na bā shekar.",
+     "en": "Iranians drink their tea with lump sugar, not granulated sugar."
+    },
+    {
+     "fa": "شیرینی را با شکر و گلاب درست می‌کنند.",
+     "r": "shirini rā bā shekar o golāb dorost mi-konand.",
+     "en": "Sweets are made with sugar and rose water."
+    },
+    {
+     "fa": "شربت آبلیمو در تابستان بسیار می‌چسبد.",
+     "r": "sharbat-e ābalimu dar tābestān besyār mi-chasbad.",
+     "en": "A glass of lemon sharbat really hits the spot in summer."
+    },
+    {
+     "fa": "نارنج در شیراز فراوان است و بوی بهارنارنج شهر را پر می‌کند.",
+     "r": "nāranj dar Shirāz farāvān ast va bu-ye bahār-nāranj shahr rā por mi-konad.",
+     "en": "Bitter oranges grow everywhere in Shiraz, and the scent of orange blossom fills the city."
+    },
+    {
+     "fa": "پسته‌ی رفسنجان در جهان معروف است.",
+     "r": "peste-ye Rafsanjān dar jahān ma'ruf ast.",
+     "en": "The pistachios of Rafsanjan are famous worldwide."
+    },
+    {
+     "fa": "«لاجورد» نام سنگی آبی است و آسمان را هم «لاجوردی» می‌گویند.",
+     "r": "«lājvard» nām-e sang-i ābi ast va āsmān rā ham «lājvardi» mi-guyand.",
+     "en": "Lājvard is the name of a blue stone, and the sky too is called lājvardi."
+    },
+    {
+     "fa": "یاس و یاسمن در حیاط خانه‌های قدیمی شیراز کاشته می‌شد.",
+     "r": "yās o yāsaman dar hayāt-e khāne-hā-ye ghadimi-ye Shirāz kāshte mi-shod.",
+     "en": "Jasmine used to be planted in the courtyards of the old houses of Shiraz."
+    },
+    {
+     "fa": "لیمو و اسفناج را از بازار تجریش خریدم.",
+     "r": "limu va esfenāj rā az bāzār-e Tajrish kharidam.",
+     "en": "I bought the limes and spinach at Tajrish bazaar."
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Tom's list",
+   "intro": "Tom, the Australian student in Tehran, goes to Tajrish bazaar with Mahsa and discovers how much Persian he already knew. A short narrative in standard written Persian.",
+   "sentences": [
+    {
+     "fa": "تام، دانشجوی استرالیایی، یک روز با مهسا به بازار تجریش رفت.",
+     "r": "Tām, dāneshju-ye Ostrāliyāyi, yek ruz bā Mahsā be bāzār-e Tajrish raft.",
+     "en": "One day Tom, the Australian student, went to Tajrish bazaar with Mahsa."
+    },
+    {
+     "fa": "او از همان در ورودی متوجه شد که چند واژه را از پیش می‌داند.",
+     "r": "u az hamān dar-e vorudi motavajjeh shod ke chand vāzhe rā az pish mi-dānad.",
+     "en": "Right from the entrance he noticed that he already knew some of the words."
+    },
+    {
+     "fa": "مهسا گفت: «همین بازار را شما هم در انگلیسی دارید.»",
+     "r": "Mahsā goft: «hamin bāzār rā shomā ham dar engelisi dārid.»",
+     "en": "Mahsa said, 'You have this very word, bazaar, in English too.'"
+    },
+    {
+     "fa": "فروشنده‌ی میوه فریاد می‌زد: «لیمو، نارنج، هلو!»",
+     "r": "forushande-ye mive faryād mi-zad: «limu, nāranj, holu!»",
+     "en": "The fruit seller was shouting, 'Limes, oranges, peaches!'"
+    },
+    {
+     "fa": "تام خندید، چون «لیمو» و «نارنج» را می‌شناخت، اما «هلو» برایش تازه بود.",
+     "r": "Tām khandid, chon «limu» va «nāranj» rā mi-shenākht, ammā «holu» barā-yash tāze bud.",
+     "en": "Tom laughed, because he recognised limu and nāranj, but holu was new to him."
+    },
+    {
+     "fa": "مهسا توضیح داد که نام انگلیسی هلو از واژه‌ای لاتین به معنای «ایرانی» آمده است.",
+     "r": "Mahsā towzih dād ke nām-e engelisi-ye holu az vāzhe-i lātin be ma'nā-ye «Irāni» āmade ast.",
+     "en": "Mahsa explained that the English name for holu comes from a Latin word meaning 'Persian'."
+    },
+    {
+     "fa": "در دکان بعدی، پیرمردی شال‌های پشمی و پارچه‌های تافته می‌فروخت.",
+     "r": "dar dokkān-e ba'di, pirmard-i shāl-hā-ye pashmi va pārche-hā-ye tāfte mi-forukht.",
+     "en": "In the next shop an old man was selling woollen shawls and taffeta cloth."
+    },
+    {
+     "fa": "پیرمرد خندید و گفت: «ما به آدم خودپسند می‌گوییم تافته‌ی جدابافته!»",
+     "r": "pirmard khandid va goft: «mā be ādam-e khodpasand mi-guyim tāfte-ye jodā-bāfte!»",
+     "en": "The old man laughed and said, 'We call a stuck-up person a specially woven taffeta!'"
+    },
+    {
+     "fa": "سر راه برگشت، کنار کیوسک روزنامه‌فروشی ایستادند.",
+     "r": "sar-e rāh-e bargasht, kenār-e kiyosk-e ruznāme-forushi istādand.",
+     "en": "On the way back they stopped by a newspaper kiosk."
+    },
+    {
+     "fa": "مهسا گفت که «کیوسک» هم در اصل همان واژه‌ی فارسی «کوشک» است که از راه ترکی و فرانسه بازگشته است.",
+     "r": "Mahsā goft ke «kiyosk» ham dar asl hamān vāzhe-ye fārsi-ye «kushk» ast ke az rāh-e torki va farānse bāzgashte ast.",
+     "en": "Mahsa said that kiyosk, too, is really the Persian word kushk, come home by way of Turkish and French."
+    },
+    {
+     "fa": "تام آن شب فهرستی از چهل واژه نوشت و نامش را گذاشت: «فارسی‌ای که بلد بودم و نمی‌دانستم.»",
+     "r": "Tām ān shab fehrest-i az chehel vāzhe nevesht va nām-ash rā gozāsht: «fārsi-i ke balad budam va nemi-dānestam.»",
+     "en": "That evening Tom wrote a list of forty words and called it 'The Persian I knew without knowing it'."
+    },
+    {
+     "fa": "و این درس همان فهرست است.",
+     "r": "va in dars hamān fehrest ast.",
+     "en": "And this lesson is that list."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Which fruit name was new to Tom?",
+     "options": [
+      "لیمو",
+      "نارنج",
+      "هلو"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What does تافته‌ی جدابافته describe?",
+     "options": [
+      "a fine silk",
+      "a person who thinks they are special",
+      "a carpet seller"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What did Mahsa say about کیوسک?",
+     "options": [
+      "It is the Persian کوشک, come back via Turkish and French",
+      "It is an English word with no Persian connection",
+      "It comes from Hindi"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "The Persianate world",
+   "md": "Why did Persian words reach English by so many roads? Because for most of the last thousand years Persian was not only the language of Iran. From the 10th century to the 19th it was the prestige language of a vast **Persianate world** – the language of poetry, letters and government from Anatolia and the Caucasus through Central Asia to Bengal.\n\nThe Ottoman court in Istanbul read Persian poetry and filled Ottoman Turkish with Persian words; that is how [[کوشک|kushk]] and [[دلبند|dolband]] reached Europe as *kiosk* and *tulip*. The Mughal emperors of India wrote and governed in Persian, and the East India Company kept Persian as its official language until 1837; that is why British officers came home talking about *pyjamas*, *khaki* and *cummerbunds*. Before all this, Arab scholars and merchants had absorbed Persian words for sugar, spinach and oranges and passed them on to Spain, Sicily and the rest of Europe.\n\nThe traffic now runs mostly the other way. Modern Persian is full of English and French: [[ماشین|māshin|car (from French machine)]], [[کامپیوتر|kāmpyuter]], [[پیژامه|pizhāme]] – which is *pyjamas* coming home after a journey of two hundred years. Iranians enjoy these round trips, and telling an Iranian friend that *bazaar* and *paradise* are Persian is a reliable way to start a long conversation.",
+   "image": "caravanserai"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "Use this list as a memory hook: if you know 'khaki', you know خاک (earth); if you know 'pyjamas', you know پا (leg) and جامه (garment).",
+    "Beware of false etymologies. English 'bad' and Persian بد look identical but are generally treated as a coincidence; 'cash', 'caravel' and 'assassin' are not Persian at all.",
+    "When an etymology is uncertain, say so in Persian: «به احتمال زیاد از … آمده است» (most probably comes from…), «ریشه‌شناسان در این باره اختلاف دارند» (etymologists disagree about this).",
+    "شکر is two words: shekar 'sugar' and shokr 'thanks'. Context and the vowel you hear decide – a good example of why Persian readers need context to read unvowelled script.",
+    "The orange family is a trap: نارنج is the bitter orange, پرتقال (from 'Portugal') the sweet orange, نارنگی the tangerine.",
+    "If you want more, look for the Persian words in other European languages: German Basar, French paradis and échecs, Spanish naranja and azul – all from the same roots."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentence",
+   "items": [
+    {
+     "fa": "در شطرنج می‌گویند «کیش و ___».",
+     "r": "dar shatranj mi-guyand «kish o ___».",
+     "en": "In chess they say 'check and mate'.",
+     "answer": "مات",
+     "hint": "helpless, dumbfounded"
+    },
+    {
+     "fa": "ایرانیان چای را با ___ می‌نوشند.",
+     "r": "Irāniyān chāy rā bā ___ mi-nushand.",
+     "en": "Iranians drink tea with lump sugar.",
+     "answer": "قند",
+     "hint": "the source of 'candy'"
+    },
+    {
+     "fa": "کاروان‌ها شب را در ___ می‌گذراندند.",
+     "r": "kārvān-hā shab rā dar ___ mi-gozarāndand.",
+     "en": "The caravans spent the night in the caravanserai.",
+     "answer": "کاروانسرا",
+     "hint": "caravan + house"
+    },
+    {
+     "fa": "رنگ خاکی رنگ ___ است.",
+     "r": "rang-e khāki rang-e ___ ast.",
+     "en": "Khaki is the colour of earth.",
+     "answer": "خاک",
+     "hint": "earth, dust"
+    },
+    {
+     "fa": "«لاجورد» نام سنگی ___ است.",
+     "r": "«lājvard» nām-e sang-i ___ ast.",
+     "en": "Lājvard is the name of a blue stone.",
+     "answer": "آبی",
+     "hint": "blue"
+    },
+    {
+     "fa": "واژه‌ی انگلیسی «پارادایس» از «___» آمده است.",
+     "r": "vāzhe-ye engelisi-ye «pārādāys» az «___» āmade ast.",
+     "en": "The English word 'paradise' comes from pardis.",
+     "answer": "پردیس",
+     "hint": "a walled garden"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Into Persian",
+   "items": [
+    {
+     "en": "The English word 'kiosk' comes from the Persian word kushk.",
+     "fa": "واژه‌ی انگلیسی «کیوسک» از واژه‌ی فارسی «کوشک» آمده است.",
+     "r": "vāzhe-ye engelisi-ye «kiyosk» az vāzhe-ye fārsi-ye «kushk» āmade ast."
+    },
+    {
+     "en": "This word reached English by way of Turkish.",
+     "fa": "این واژه از راه ترکی به انگلیسی رسید.",
+     "r": "in vāzhe az rāh-e torki be engelisi resid."
+    },
+    {
+     "en": "Pardis originally meant a walled garden.",
+     "fa": "«پردیس» در اصل به معنای باغی دیوارکشیده بود.",
+     "r": "«pardis» dar asl be ma'nā-ye bāgh-i divār-keshide bud."
+    },
+    {
+     "en": "Etymologists disagree about the origin of 'scarlet'.",
+     "fa": "ریشه‌شناسان درباره‌ی ریشه‌ی «اسکارلت» اختلاف دارند.",
+     "r": "rishe-shenāsān darbāre-ye rishe-ye «eskārlet» ekhtelāf dārand."
+    },
+    {
+     "en": "In Persian, a divan is a collection of poems.",
+     "fa": "در فارسی، دیوان دفتر شعر است.",
+     "r": "dar fārsi, divān daftar-e she'r ast."
+    },
+    {
+     "en": "The pistachios of Rafsanjan are famous.",
+     "fa": "پسته‌ی رفسنجان معروف است.",
+     "r": "peste-ye Rafsanjān ma'ruf ast."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Routes and meanings",
+   "items": [
+    {
+     "q": "Which English word did NOT come from Persian?",
+     "options": [
+      "bazaar",
+      "peach (it means 'Persian', but the word is Latin)",
+      "spinach"
+     ],
+     "answer": 1,
+     "explain": "Peach is from Latin persicum, 'the Persian fruit' – a name about Persia, not a Persian word."
+    },
+    {
+     "q": "The best English for [[از تعجب مات ماند.|az ta'ajjob māt mānd.]]",
+     "options": [
+      "He was checkmated.",
+      "He was struck dumb with surprise.",
+      "He stayed in the dark."
+     ],
+     "answer": 1,
+     "explain": "مات = dumbfounded, helpless – the same word as in شاه مات."
+    },
+    {
+     "q": "'Pyjamas' literally means…",
+     "options": [
+      "a leg garment",
+      "night clothes",
+      "silk trousers"
+     ],
+     "answer": 0,
+     "explain": "پا 'leg' + جامه 'garment'."
+    },
+    {
+     "q": "How certain is the Persian origin of 'scarlet'?",
+     "options": [
+      "certain",
+      "possible but disputed",
+      "certainly wrong"
+     ],
+     "answer": 1,
+     "explain": "A Persian cloth name is one theory; others derive it from Latin."
+    },
+    {
+     "q": "Where does 'algorithm' come from?",
+     "options": [
+      "the Persian word for 'number'",
+      "the name of the mathematician al-Khwarizmi",
+      "the Greek word for 'rhythm'"
+     ],
+     "answer": 1,
+     "explain": "His name in Latin was Algoritmi; the -thm ending came later by association with Greek arithmos."
+    },
+    {
+     "q": "The best English for [[تافته‌ی جدابافته است.|tāfte-ye jodā-bāfte ast.]]",
+     "options": [
+      "It's a fine piece of silk.",
+      "She thinks she's a cut above everyone else.",
+      "It was woven separately."
+     ],
+     "answer": 1,
+     "explain": "An idiom: 'a specially woven taffeta' – someone who thinks they are special."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "این واژه از راه ترکی به انگلیسی رسید.",
+     "r": "in vāzhe az rāh-e torki be engelisi resid.",
+     "en": "This word reached English by way of Turkish."
+    },
+    {
+     "fa": "بازار بزرگ تهران هر روز شلوغ است.",
+     "r": "bāzār-e bozorg-e Tehrān har ruz sholugh ast.",
+     "en": "Tehran's Grand Bazaar is busy every day."
+    },
+    {
+     "fa": "دیوان حافظ در بیشتر خانه‌ها پیدا می‌شود.",
+     "r": "divān-e Hāfez dar bish-tar-e khāne-hā peydā mi-shavad.",
+     "en": "A Divan of Hafez can be found in most homes."
+    },
+    {
+     "fa": "ایرانیان چای را با قند می‌نوشند.",
+     "r": "Irāniyān chāy rā bā ghand mi-nushand.",
+     "en": "Iranians drink tea with lump sugar."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Persian original and English word",
+   "items": [
+    {
+     "fa": "کوشک",
+     "r": "kushk",
+     "en": "kiosk"
+    },
+    {
+     "fa": "پاجامه",
+     "r": "pājāme",
+     "en": "pyjamas"
+    },
+    {
+     "fa": "اسفناج",
+     "r": "esfenāj",
+     "en": "spinach"
+    },
+    {
+     "fa": "رخ",
+     "r": "rokh",
+     "en": "rook"
+    },
+    {
+     "fa": "گلاب",
+     "r": "golāb",
+     "en": "julep"
+    },
+    {
+     "fa": "لاجورد",
+     "r": "lājvard",
+     "en": "azure"
+    },
+    {
+     "fa": "دلبند",
+     "r": "dolband",
+     "en": "turban, tulip"
+    },
+    {
+     "fa": "شغال",
+     "r": "shoghāl",
+     "en": "jackal"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "این واژه در اصل به معنای باغ بود.",
+     "r": "in vāzhe dar asl be ma'nā-ye bāgh bud.",
+     "en": "This word originally meant a garden.",
+     "options": [
+      "This word originally meant a garden.",
+      "This garden is very old.",
+      "This word has no meaning."
+     ],
+     "answer": 0
+    },
+    {
+     "fa": "ریشه‌شناسان با هم اختلاف دارند.",
+     "r": "rishe-shenāsān bā ham ekhtelāf dārand.",
+     "en": "Etymologists disagree.",
+     "options": [
+      "Etymologists agree.",
+      "Etymologists disagree.",
+      "The roots are different."
+     ],
+     "answer": 1
+    },
+    {
+     "fa": "شربت آبلیمو در تابستان می‌چسبد.",
+     "r": "sharbat-e ābalimu dar tābestān mi-chasbad.",
+     "en": "Lemon sharbat is just right in summer.",
+     "options": [
+      "Lemon juice is sticky.",
+      "We drink sharbat in winter.",
+      "Lemon sharbat is just right in summer."
+     ],
+     "answer": 2
+    },
+    {
+     "fa": "پیژامه از راه فرانسه به فارسی بازگشته است.",
+     "r": "pizhāme az rāh-e farānse be fārsi bāzgashte ast.",
+     "en": "Pizhāme has come back into Persian by way of French.",
+     "options": [
+      "Pizhāme has come back into Persian by way of French.",
+      "Pyjamas are made in France.",
+      "The French invented pyjamas."
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ ]
+}
