@@ -1,0 +1,298 @@
+{
+ "id": "a2-the-mouse-and-the-camel",
+ "level": "A2",
+ "kind": "fable",
+ "title": "The mouse and the camel",
+ "titleFa": "موش و شتر",
+ "titleR": "mush o shotor",
+ "image": "rumi",
+ "intro": "A little mouse picks up a camel's halter and leads the big animal across the desert – and soon believes he is a great hero. Then they come to a river. Rumi tells this story in the second book of his Masnavi; here it is retold in simple words. Read it for comparatives with از (بزرگ‌تر از تو 'bigger than you'), a relative clause with که, and the subjunctive after 'I'm afraid' and 'help me': می‌ترسم غرق شوم, کمکم کن رد شوم.",
+ "source": "Retold from Rumi's Masnavi, Book 2 (13th century, public domain).",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "روزی موش کوچکی در صحرا شتری را دید که تنها می‌چرید.",
+     "r": "ruz-i mush-e kuchak-i dar sahrā shotor-i rā did ke tanhā mi-charid.",
+     "en": "One day a little mouse in the desert saw a camel that was grazing on its own.",
+     "faV": "روزی موشِ کوچَکی دَر صَحرا شُتُری را دید که تَنها می‌چَرید.",
+     "a": "166054908e22"
+    },
+    {
+     "fa": "افسار شتر روی زمین بود.",
+     "r": "afsār-e shotor ru-ye zamin bud.",
+     "en": "The camel's halter was lying on the ground.",
+     "faV": "اَفسارِ شُتُر رویِ زَمین بود.",
+     "a": "ee9266451528"
+    },
+    {
+     "fa": "موش افسار را با دهانش گرفت و شروع به کشیدن کرد.",
+     "r": "mush afsār rā bā dahān-ash gereft o shoru' be keshidan kard.",
+     "en": "The mouse took the halter in his mouth and began to pull.",
+     "faV": "موش اَفسار را با دَهانَش گِرِفت و شُروع به کِشیدَن کَرد.",
+     "a": "e77832bd258e"
+    },
+    {
+     "fa": "شتر مهربان بود و بی‌صدا دنبال او راه افتاد.",
+     "r": "shotor mehrabān bud o bi-sedā donbāl-e u rāh oftād.",
+     "en": "The camel was good-natured, and without a sound it set off after him.",
+     "faV": "شُتُر مِهرَبان بود و بی‌صِدا دُنبالِ او راه اُفتاد.",
+     "a": "786369c178be"
+    },
+    {
+     "fa": "موش مغرور شد و با خودش گفت: «ببین چه پهلوانی هستم! شتر به این بزرگی را می‌کشم!»",
+     "r": "mush maghrur shod o bā khod-ash goft: «bebin che pahlavān-i hastam! shotor be in bozorgi rā mi-kesham!»",
+     "en": "The mouse grew proud and said to himself: \"Look what a hero I am! I'm pulling a camel as big as this!\"",
+     "faV": "موش مَغرور شُد و با خودَش گُفت: «بِبین چه پَهلَوانی هَستَم! شُتُر به این بُزُرگی را می‌کِشَم!»",
+     "a": "e444e87b972b"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "رفتند و رفتند تا به یک رودخانه‌ی بزرگ رسیدند.",
+     "r": "raftand o raftand tā be yek rudkhāne-ye bozorg residand.",
+     "en": "On and on they went, until they came to a wide river.",
+     "faV": "رَفتَند و رَفتَند تا به یِک رودخانه‌یِ بُزُرگ رِسیدَند.",
+     "a": "71f1657018cf"
+    },
+    {
+     "fa": "موش کنار آب ایستاد و دیگر جلو نرفت.",
+     "r": "mush kenār-e āb istād o digar jelo na-raft.",
+     "en": "The mouse stopped at the water's edge and went no further.",
+     "faV": "موش کِنارِ آب ایستاد و دیگَر جِلو نَرَفت.",
+     "a": "11666c9931f3"
+    },
+    {
+     "fa": "شتر پرسید: «چرا ایستادی، رفیق؟ تو راهنمای من هستی، برو جلو!»",
+     "r": "shotor porsid: «cherā istādi, rafigh? to rāhnamā-ye man hasti, boro jelo!»",
+     "en": "The camel asked: \"Why have you stopped, my friend? You're my guide – go on!\"",
+     "faV": "شُتُر پُرسید: «چِرا ایستادی، رَفیق؟ تو راهنَمایِ مَن هَستی، بُرو جِلو!»",
+     "a": "5cdb54d1f3ca"
+    },
+    {
+     "fa": "موش گفت: «این آب خیلی عمیق است. می‌ترسم غرق شوم.»",
+     "r": "mush goft: «in āb kheyli amigh ast. mi-tarsam ghargh shavam.»",
+     "en": "The mouse said: \"This water is very deep. I'm afraid I'll drown.\"",
+     "faV": "موش گُفت: «این آب خَیلی عَمیق اَست. می‌تَرسَم غَرق شَوَم.»",
+     "a": "b69f7fd16d7c"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "شتر پایش را در آب گذاشت و گفت: «نترس! آب فقط تا زانوی من است.»",
+     "r": "shotor pā-yash rā dar āb gozāsht o goft: «na-tars! āb faghat tā zānu-ye man ast.»",
+     "en": "The camel put its foot in the water and said: \"Don't be afraid! The water only comes up to my knee.\"",
+     "faV": "شُتُر پایَش را دَر آب گُذاشت و گُفت: «نَتَرس! آب فَقَط تا زانویِ مَن اَست.»",
+     "a": "382e2746238b"
+    },
+    {
+     "fa": "موش گفت: «زانوی تو با زانوی من فرق دارد!»",
+     "r": "mush goft: «zānu-ye to bā zānu-ye man fargh dārad!»",
+     "en": "The mouse said: \"Your knee and my knee are not the same!\"",
+     "faV": "موش گُفت: «زانویِ تو با زانویِ مَن فَرق دارَد!»",
+     "a": "a696ec8e77e0"
+    },
+    {
+     "fa": "«آبی که تا زانوی توست، صد برابر از سر من بالاتر است.»",
+     "r": "«āb-i ke tā zānu-ye to-st, sad barābar az sar-e man bālā-tar ast.»",
+     "en": "\"Water that comes up to your knee is a hundred times higher than my head.\"",
+     "faV": "«آبی که تا زانویِ توست، صَد بَرابَر اَز سَرِ مَن بالاتَر اَست.»",
+     "a": "09b83a0f7c1f"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "شتر گفت: «پس دیگر مغرور نباش و برای کسی که از تو بزرگ‌تر است، راهنما نشو.»",
+     "r": "shotor goft: «pas digar maghrur na-bāsh o barā-ye kas-i ke az to bozorg-tar ast, rāhnamā na-show.»",
+     "en": "The camel said: \"Then don't be so proud any more, and don't try to lead someone who is bigger than you.\"",
+     "faV": "شُتُر گُفت: «پَس دیگَر مَغرور نَباش و بَرایِ کَسی که اَز تو بُزُرگ‌تَر اَست، راهنَما نَشَو.»",
+     "a": "5818e9925734"
+    },
+    {
+     "fa": "موش گفت: «حق با توست. توبه کردم! فقط کمکم کن از آب رد شوم.»",
+     "r": "mush goft: «hagh bā to-st. towbe kardam! faghat komak-am kon az āb rad shavam.»",
+     "en": "The mouse said: \"You're right. I'm sorry, I'll never do it again! Just help me get across the water.\"",
+     "faV": "موش گُفت: «حَق با توست. تَوبه کَردَم! فَقَط کُمَکَم کُن اَز آب رَد شَوَم.»",
+     "a": "e66229f7813a"
+    },
+    {
+     "fa": "شتر خندید و گفت: «بیا روی کوهانم بنشین.»",
+     "r": "shotor khandid o goft: «biyā ru-ye kohān-am beneshin.»",
+     "en": "The camel laughed and said: \"Come and sit on my hump.\"",
+     "faV": "شُتُر خَندید و گُفت: «بیا رویِ کوهانَم بِنِشین.»",
+     "a": "ac119265545c"
+    },
+    {
+     "fa": "بعد موش را آرام به آن طرف رودخانه برد.",
+     "r": "ba'd mush rā ārām be ān taraf-e rudkhāne bord.",
+     "en": "Then it gently carried the mouse to the other side of the river.",
+     "faV": "بَعد موش را آرام به آن طَرَفِ رودخانه بُرد.",
+     "a": "0fb406026286"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "صحرا",
+   "r": "sahrā",
+   "en": "desert; open country",
+   "faV": "صَحرا",
+   "a": "76b2f4b1708d"
+  },
+  {
+   "fa": "چریدن",
+   "r": "charidan",
+   "en": "to graze",
+   "faV": "چَریدَن",
+   "a": "c985ec3a81e8"
+  },
+  {
+   "fa": "افسار",
+   "r": "afsār",
+   "en": "halter, reins",
+   "faV": "اَفسار",
+   "a": "27b79c88b85c"
+  },
+  {
+   "fa": "مهربان",
+   "r": "mehrabān",
+   "en": "kind, good-natured",
+   "faV": "مِهرَبان",
+   "a": "cb66ed92f9f6"
+  },
+  {
+   "fa": "دنبال",
+   "r": "donbāl",
+   "en": "after, behind (دنبال کسی 'after someone')",
+   "faV": "دُنبال",
+   "a": "4e1d5d7eada9"
+  },
+  {
+   "fa": "مغرور",
+   "r": "maghrur",
+   "en": "proud, conceited",
+   "faV": "مَغرور",
+   "a": "5dcbe1e612e3"
+  },
+  {
+   "fa": "پهلوان",
+   "r": "pahlavān",
+   "en": "hero, champion",
+   "faV": "پَهلَوان",
+   "a": "9af59f46901a"
+  },
+  {
+   "fa": "رودخانه",
+   "r": "rudkhāne",
+   "en": "river",
+   "faV": "رودخانه",
+   "a": "8552d1613e89"
+  },
+  {
+   "fa": "راهنما",
+   "r": "rāhnamā",
+   "en": "guide, leader",
+   "faV": "راهنَما",
+   "a": "91d096a563bb"
+  },
+  {
+   "fa": "غرق شدن",
+   "r": "ghargh shodan",
+   "en": "to drown; to sink",
+   "faV": "غَرق شُدَن",
+   "a": "cf77523eb477"
+  },
+  {
+   "fa": "زانو",
+   "r": "zānu",
+   "en": "knee",
+   "faV": "زانو",
+   "a": "c705201a1629"
+  },
+  {
+   "fa": "فرق داشتن",
+   "r": "fargh dāshtan",
+   "en": "to be different",
+   "faV": "فَرق داشتَن",
+   "a": "c094bcb9013e"
+  },
+  {
+   "fa": "برابر",
+   "r": "barābar",
+   "en": "times (صد برابر 'a hundred times'); equal",
+   "faV": "بَرابَر",
+   "a": "45bd3fbecd86"
+  },
+  {
+   "fa": "توبه کردن",
+   "r": "towbe kardan",
+   "en": "to repent, promise never to do it again",
+   "faV": "تَوبه کَردَن",
+   "a": "7ca5b4b391af"
+  },
+  {
+   "fa": "کوهان",
+   "r": "kohān",
+   "en": "(camel's) hump",
+   "faV": "کوهان",
+   "a": "4356296f8452"
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why did the camel follow the mouse?",
+   "options": [
+    "it was afraid of the mouse",
+    "it was good-natured",
+    "it was lost"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What did the mouse think of himself?",
+   "options": [
+    "that he was a great hero",
+    "that he was too small",
+    "that he was tired"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Why did the mouse stop at the river?",
+   "options": [
+    "he wanted to drink",
+    "he saw a cat",
+    "he was afraid of drowning"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "How deep was the water for the camel?",
+   "options": [
+    "up to its knee",
+    "over its head",
+    "up to its hump"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How did the mouse get across the river?",
+   "options": [
+    "he swam",
+    "he sat on the camel's hump",
+    "he found a bridge"
+   ],
+   "answer": 1
+  }
+ ],
+ "after": "Rumi's version begins موشکی در کف مهار اشتری 'a little mouse took a camel's halter in its paw', and his lesson is about the spiritual path: only follow – and only try to lead – when you really know the way. Notice how Persian compares: بزرگ‌تر از تو 'bigger than you', بالاتر از سر من 'higher than my head', with -تر and از; صد برابر means 'a hundred times (as much)'. After words of fearing, wanting and asking, the next verb is in the subjunctive: می‌ترسم غرق شوم 'I'm afraid I'll drown', کمکم کن رد شوم 'help me get across'. آبی که تا زانوی توست is a relative clause: the -ی on آب marks the noun that که describes. توبه کردن is a religious word – 'to repent' – used playfully in everyday Persian for 'I'll never do that again!'",
+ "titleV": "موش و شُتُر",
+ "titleA": "5e2ca9285e62"
+}

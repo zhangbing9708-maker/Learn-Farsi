@@ -1,0 +1,310 @@
+{
+ "id": "language-numbers-and-the-calendar",
+ "topic": "language",
+ "title": "Numbers and the calendar",
+ "titleFa": "عددها و تقویم",
+ "titleR": "adad-hā va taghvim",
+ "image": "iranian-calendar",
+ "summary": "Iran writes its own digits and lives by its own calendar, in which the year begins with spring and 2026 is mostly 1405. Persian digits, the solar hijri calendar and its twelve months, Nowruz, and how to say dates, times and days of the week.",
+ "body": [
+  {
+   "h": "Persian digits",
+   "md": "Persian has its own digits: ۰ ۱ ۲ ۳ ۴ ۵ ۶ ۷ ۸ ۹. They are cousins of the numerals used in the West – both families came from India by way of the Arab world. Watch out for [[۵|panj|five]], which looks like an upside-down heart, and [[۰|sefr|zero]], a simple dot. Although Persian is written from right to left, numbers run from left to right: [[۱۴۰۵|hezār o chahārsad o panj|1405]]. Western digits are common on phones and websites, but banknotes and car number plates use Persian ones.\n\nCounting is regular: [[یک|yek]], [[دو|do]], [[سه|se]], [[چهار|chahār]], [[پنج|panj]], [[شش|shesh]], [[هفت|haft]], [[هشت|hasht]], [[نه|noh]], [[ده|dah]]. Bigger numbers are joined with *o*, 'and': [[بیست و پنج|bist o panj|25]]. In everyday speech things are counted with [[تا|tā]]: [[سه تا چای|se tā chāy|three teas]].",
+   "image": "iranian-rial"
+  },
+  {
+   "h": "The solar hijri calendar",
+   "md": "Iran uses the [[هجری شمسی|hejri-ye shamsi|solar hijri]] calendar. Like the Islamic calendar, it counts the years from the Prophet's migration to Medina in 622 – but its years are solar, so they keep step with the seasons. The year 1405 began in March 2026.\n\nThe calendar descends from the Jalali calendar, reformed in 1079 by a team of astronomers that included Omar Khayyam, and it is one of the most accurate in the world: the year begins at the exact moment of the spring equinox. Its modern form, with Persian month names, was adopted by parliament in 1925. Iranian calendars also show the Islamic lunar date, which sets religious holidays such as Ramadan and Muharram, and the Western date, called [[میلادی|milādi]].",
+   "image": "omar-khayyam"
+  },
+  {
+   "h": "Twelve months",
+   "md": "The months carry old Zoroastrian names: [[مهر|Mehr]] is Mithra, [[آذر|Āzar]] is fire and [[آبان|Ābān]] the waters. The first six months have 31 days, the next five 30, and the last 29, or 30 in a leap year. Each season has three:\n\n- Spring, from about 21 March: [[فروردین|Farvardin]], [[اردیبهشت|Ordibehesht]], [[خرداد|Khordād]]\n- Summer, from about 22 June: [[تیر|Tir]], [[مرداد|Mordād]], [[شهریور|Shahrivar]]\n- Autumn, from about 23 September: [[مهر|Mehr]], [[آبان|Ābān]], [[آذر|Āzar]]\n- Winter, from about 22 December: [[دی|Dey]], [[بهمن|Bahman]], [[اسفند|Esfand]]\n\nThe year begins with [[نوروز|nowruz|new day]] on 1 Farvardin. Because it starts at the equinox itself, the moment of [[تحویل سال|tahvil-e sāl|the turn of the year]] can fall at any hour, and families gather round the haft-sin to wait for it.",
+   "image": "haft-sin"
+  },
+  {
+   "h": "Dates and times",
+   "md": "Persian dates go day, month, year, with an ordinal number ending in *-om*: [[بیست و ششم مهر|bist o sheshom-e Mehr|26 Mehr]]. The first of the month is [[اول|avval]]: [[اول فروردین|avval-e Farvardin|1 Farvardin]]. Written in figures, dates usually run year/month/day: ۱۴۰۵/۰۷/۲۶.\n\nTo ask the time, say [[ساعت چند است؟|sā'at chand ast?|what time is it?]] – in speech *sā'at chande?* Answers: [[سه و نیم|se o nim|half past three]], [[سه و ربع|se o rob'|quarter past three]], [[یک ربع به چهار|yek rob' be chahār|quarter to four]]. The day runs from [[صبح|sobh|morning]] through [[ظهر|zohr|noon]] and [[عصر|asr|late afternoon]] to [[شب|shab|night]]."
+  },
+  {
+   "h": "The week and the weekend",
+   "md": "The week starts on [[شنبه|shanbe|Saturday]], and the next days are simply counted from it: [[یک‌شنبه|yek-shanbe|Sunday]], [[دوشنبه|do-shanbe|Monday]], [[سه‌شنبه|se-shanbe|Tuesday]], [[چهارشنبه|chahār-shanbe|Wednesday]], [[پنج‌شنبه|panj-shanbe|Thursday]]. Friday, [[جمعه|jom'e]], is the day of rest and of Friday prayers. Many offices and schools also close on Thursday or work only half the day, so for many people the weekend is Thursday and Friday; making Saturday a day off instead has been debated in recent years."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "امروز چندم است؟",
+   "r": "emruz chandom ast?",
+   "en": "What's the date today?",
+   "col": "امروز چندمه؟",
+   "colR": "emruz chandom-e?",
+   "faV": "اِمروز چَندُم اَست؟",
+   "a": "390541600290",
+   "colV": "اِمروز چَندُمه؟",
+   "colA": "72ab00f16f6c"
+  },
+  {
+   "fa": "امروز بیست و ششم مهر است.",
+   "r": "emruz bist o sheshom-e Mehr ast.",
+   "en": "Today is 26 Mehr.",
+   "col": "امروز بیست و ششم مهره.",
+   "colR": "emruz bist o sheshom-e Mehr-e.",
+   "faV": "اِمروز بیست و شِشُمِ مِهر اَست.",
+   "a": "9e7db6f8af88",
+   "colV": "اِمروز بیست و شِشُمِ مِهره.",
+   "colA": "ebee1abd83fe"
+  },
+  {
+   "fa": "سال نو در اول فروردین شروع می‌شود.",
+   "r": "sāl-e now dar avval-e Farvardin shoru' mi-shavad.",
+   "en": "The new year begins on 1 Farvardin.",
+   "col": "سال نو اول فروردین شروع می‌شه.",
+   "colR": "sāl-e now avval-e Farvardin shoru' mi-she.",
+   "faV": "سالِ نَو دَر اَوَّلِ فَروَردین شُروع می‌شَوَد.",
+   "a": "700d371bfde2",
+   "colV": "سالِ نَو اَوَّلِ فَروَردین شُروع می‌شه.",
+   "colA": "d33099a87034"
+  },
+  {
+   "fa": "مدرسه‌ها اول مهر باز می‌شوند.",
+   "r": "madrese-hā avval-e Mehr bāz mi-shavand.",
+   "en": "Schools open on 1 Mehr.",
+   "col": "مدرسه‌ها اول مهر باز می‌شن.",
+   "colR": "madrese-hā avval-e Mehr bāz mi-shan.",
+   "faV": "مَدرِسه‌ها اَوَّلِ مِهر باز می‌شَوَند.",
+   "a": "d8a4026d479e",
+   "colV": "مَدرِسه‌ها اَوَّلِ مِهر باز می‌شَن.",
+   "colA": "eb3f56c73354"
+  },
+  {
+   "fa": "ساعت چند است؟",
+   "r": "sā'at chand ast?",
+   "en": "What time is it?",
+   "col": "ساعت چنده؟",
+   "colR": "sā'at chand-e?",
+   "faV": "ساعَت چَند اَست؟",
+   "a": "d5ff0bd4e4c7",
+   "colV": "ساعَت چَنده؟",
+   "colA": "ca3fee8f73e0"
+  },
+  {
+   "fa": "ساعت سه و نیم است.",
+   "r": "sā'at se o nim ast.",
+   "en": "It's half past three.",
+   "col": "ساعت سه و نیمه.",
+   "colR": "sā'at se o nim-e.",
+   "faV": "ساعَت سه و نیم اَست.",
+   "a": "b10e40b756ad",
+   "colV": "ساعَت سه و نیمه.",
+   "colA": "b47830188688"
+  },
+  {
+   "fa": "کلاس ساعت یک ربع به نه شروع می‌شود.",
+   "r": "kelās sā'at-e yek rob' be noh shoru' mi-shavad.",
+   "en": "The class starts at a quarter to nine.",
+   "col": "کلاس ساعت یه ربع به نه شروع می‌شه.",
+   "colR": "kelās sā'at-e ye rob' be noh shoru' mi-she.",
+   "faV": "کِلاس ساعَتِ یِک رُبع به نُه شُروع می‌شَوَد.",
+   "a": "53d246b17c1f",
+   "colV": "کِلاس ساعَتِ یه رُبع به نُه شُروع می‌شه.",
+   "colA": "0aaad66692f3"
+  },
+  {
+   "fa": "جمعه‌ها تعطیل است.",
+   "r": "jom'e-hā ta'til ast.",
+   "en": "Fridays are a day off.",
+   "col": "جمعه‌ها تعطیله.",
+   "colR": "jom'e-hā ta'til-e.",
+   "faV": "جُمعه‌ها تَعطیل اَست.",
+   "a": "76b358eab287",
+   "colV": "جُمعه‌ها تَعطیله.",
+   "colA": "01a41f619cc5"
+  },
+  {
+   "fa": "پنج‌شنبه عصر وقت دارید؟",
+   "r": "panj-shanbe asr vaght dārid?",
+   "en": "Are you free on Thursday afternoon?",
+   "col": "پنج‌شنبه عصر وقت دارین؟",
+   "colR": "panj-shanbe asr vaght dārin?",
+   "faV": "پَنج‌شَنبه عَصر وَقت دارید؟",
+   "a": "8a8c2cd838f9",
+   "colV": "پَنج‌شَنبه عَصر وَقت دارین؟",
+   "colA": "58a480572818"
+  },
+  {
+   "fa": "من متولد ۱۳۷۵ هستم.",
+   "r": "man motevalled-e hezār-o-sisad-o-haftād-o-panj hastam.",
+   "en": "I was born in 1375 (1996–97).",
+   "faV": "مَن مُتِوَلِّدِ ۱۳۷۵ هَستَم.",
+   "a": "8195174ae79c"
+  },
+  {
+   "fa": "تولدت کی است؟",
+   "r": "tavallod-at key ast?",
+   "en": "When is your birthday?",
+   "col": "تولدت کیه؟",
+   "colR": "tavallod-et key-e?",
+   "faV": "تَوَلُّدَت کَی اَست؟",
+   "a": "b7d5595f8d52",
+   "colV": "تَوَلُّدِت کِیه؟",
+   "colA": "848dbd25f95e"
+  },
+  {
+   "fa": "تولد من پانزدهم اسفند است.",
+   "r": "tavallod-e man pānzdahom-e Esfand ast.",
+   "en": "My birthday is on 15 Esfand.",
+   "col": "تولد من پونزدهم اسفنده.",
+   "colR": "tavallod-e man punzdahom-e Esfand-e.",
+   "faV": "تَوَلُّدِ مَن پانزدَهُمِ اِسفَند اَست.",
+   "a": "5b9de2fb6146",
+   "colV": "تَوَلُّدِ مَن پونزدَهُمِ اِسفَنده.",
+   "colA": "645cba73aa13"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "عدد",
+   "r": "adad",
+   "en": "number",
+   "faV": "عَدَد",
+   "a": "732d3114088a"
+  },
+  {
+   "fa": "رقم",
+   "r": "ragham",
+   "en": "digit, figure",
+   "faV": "رَقَم",
+   "a": "fa23eb7a0ad3"
+  },
+  {
+   "fa": "صفر",
+   "r": "sefr",
+   "en": "zero",
+   "faV": "صِفر",
+   "a": "95334ae6740b"
+  },
+  {
+   "fa": "تقویم",
+   "r": "taghvim",
+   "en": "calendar",
+   "faV": "تَقویم",
+   "a": "0de309051d23"
+  },
+  {
+   "fa": "سال",
+   "r": "sāl",
+   "en": "year",
+   "faV": "سال",
+   "a": "07e64721d4e4"
+  },
+  {
+   "fa": "ماه",
+   "r": "māh",
+   "en": "month; moon",
+   "faV": "ماه",
+   "a": "f2e5afacb422"
+  },
+  {
+   "fa": "هفته",
+   "r": "hafte",
+   "en": "week",
+   "faV": "هَفته",
+   "a": "bbc437417326"
+  },
+  {
+   "fa": "فصل",
+   "r": "fasl",
+   "en": "season",
+   "faV": "فَصل",
+   "a": "7d106eed6208"
+  },
+  {
+   "fa": "بهار",
+   "r": "bahār",
+   "en": "spring",
+   "faV": "بَهار",
+   "a": "e0728a9102a1"
+  },
+  {
+   "fa": "تابستان",
+   "r": "tābestān",
+   "en": "summer",
+   "faV": "تابِستان",
+   "a": "03ba5de2e0a0"
+  },
+  {
+   "fa": "پاییز",
+   "r": "pāyiz",
+   "en": "autumn",
+   "faV": "پاییز",
+   "a": "063997d7db61"
+  },
+  {
+   "fa": "زمستان",
+   "r": "zemestān",
+   "en": "winter",
+   "faV": "زِمِستان",
+   "a": "855c9a97c4fc"
+  },
+  {
+   "fa": "ساعت",
+   "r": "sā'at",
+   "en": "hour; clock; o'clock",
+   "faV": "ساعَت",
+   "a": "524847c32016"
+  },
+  {
+   "fa": "ربع",
+   "r": "rob'",
+   "en": "quarter (of an hour)",
+   "faV": "رُبع",
+   "a": "7f3172226705"
+  },
+  {
+   "fa": "نیم",
+   "r": "nim",
+   "en": "half",
+   "faV": "نیم",
+   "a": "edd7da620331"
+  },
+  {
+   "fa": "تعطیل",
+   "r": "ta'til",
+   "en": "closed; holiday, day off",
+   "faV": "تَعطیل",
+   "a": "9d128a5097d1"
+  },
+  {
+   "fa": "تولد",
+   "r": "tavallod",
+   "en": "birth; birthday",
+   "faV": "تَوَلُّد",
+   "a": "6dfc90d9080f"
+  },
+  {
+   "fa": "هجری شمسی",
+   "r": "hejri-ye shamsi",
+   "en": "solar hijri (Iranian calendar)",
+   "faV": "هِجریِ شَمسی",
+   "a": "be77cc926673"
+  },
+  {
+   "fa": "سال کبیسه",
+   "r": "sāl-e kabise",
+   "en": "leap year",
+   "faV": "سالِ کَبیسه",
+   "a": "efae51a9b728"
+  }
+ ],
+ "facts": [
+  "The Iranian year 1405 runs from 21 March 2026 to 20 March 2027.",
+  "The Jalali calendar of 1079, the ancestor of today's calendar, was worked out for the Seljuk sultan Malik-Shah by astronomers including Omar Khayyam.",
+  "In 1976 the Shah replaced the hijri year count with an 'imperial' one counting from Cyrus the Great, turning 1355 into 2535; it was dropped in 1978.",
+  "The school year begins on 1 Mehr, around 23 September.",
+  "Because the first six months have 31 days, the Iranian summer months are long and Esfand is the shortest month of the year.",
+  "The official Nowruz holiday is 1–4 Farvardin; 12 and 13 Farvardin are public holidays too.",
+  "Persian writes ۴, ۵ and ۶ differently from Arabic, so the two sets of digits are not quite the same."
+ ],
+ "titleV": "عَدَدها و تَقویم",
+ "titleA": "909068ae24ac"
+}

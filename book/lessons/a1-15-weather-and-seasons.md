@@ -251,10 +251,10 @@ Tehranis escape the summer heat by driving north to the Caspian for the weekend 
 
 **Put the words in order**
 
-1. امروز / است. / سرد / هوا / خیلی — Today the weather is very cold.
-2. دارم. / دوست / را / من / بهار — I like spring.
-3. تبریز / در / برف / می‌آید. — It snows in Tabriz.
-4. آفتابی / است. / هوا / فردا — Tomorrow the weather is sunny.
+1. خیلی / سرد / امروز / هوا / است. — Today the weather is very cold.
+2. من / بهار / دارم. / دوست / را — I like spring.
+3. تبریز / می‌آید. / برف / در — It snows in Tabriz.
+4. آفتابی / هوا / است. / فردا — Tomorrow the weather is sunny.
 
 <details><summary>Answers</summary>
 

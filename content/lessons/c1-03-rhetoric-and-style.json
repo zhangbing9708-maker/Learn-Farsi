@@ -1,0 +1,1046 @@
+{
+ "id": "c1-03-rhetoric-and-style",
+ "level": "C1",
+ "n": 3,
+ "title": "Rhetoric and style: figures of speech and making a speech",
+ "titleFa": "بلاغت و سبک",
+ "titleR": "balāghat o sabk",
+ "intro": "Persians have studied the art of speaking well for a thousand years, and the figures their scholars named – simile, metaphor, indirect expression, exaggeration, antithesis, rhymed prose, wordplay, allusion – are not museum pieces: you will hear every one of them at a family dinner. This lesson names the nine main figures with classical and everyday examples, then shows how Iranians give a short speech or a toast at a wedding or a farewell, ending with a model wedding speech.",
+ "goals": [
+  "recognise and name تشبیه، استعاره، کنایه، مبالغه، تضاد، تکرار، سجع، جناس and تلمیح in poetry, prose and conversation",
+  "explain how a classical line by Saadi, Ferdowsi, Rumi or Hafez works",
+  "use everyday figures of speech naturally and understand them when you hear them",
+  "give a short speech or toast at a wedding or farewell with the right formulas"
+ ],
+ "image": "iranian-wedding",
+ "sections": [
+  {
+   "type": "reading",
+   "title": "Speaking well, an old art",
+   "intro": "An essay on Persian rhetoric (بلاغت). Notice that the essay itself uses the devices it describes – an example, a quotation, a contrast – and that Arabic technical terms (تشبیه، استعاره، سجع…) sit inside very Persian sentences.",
+   "sentences": [
+    {
+     "fa": "در سنت ادبی فارسی، سخن گفتن تنها وسیله‌ی رساندن پیام نیست، بلکه هنری است که آموختنی است.",
+     "r": "dar sonnat-e adabi-ye fārsi, sokhan goftan tanhā vasile-ye resāndan-e payām nist, balke honar-i ast ke āmukhtani ast.",
+     "en": "In the Persian literary tradition, speaking is not merely a way of conveying a message but an art that can be learned."
+    },
+    {
+     "fa": "دانشمندان قدیم این هنر را «بلاغت» می‌نامیدند و آن را در سه دانش «معانی»، «بیان» و «بدیع» بررسی می‌کردند.",
+     "r": "dāneshmandān-e ghadim in honar rā «balāghat» mi-nāmidand va ān rā dar se dānesh-e «ma'āni», «bayān» o «badi'» barrasi mi-kardand.",
+     "en": "Scholars of old called this art balāghat (eloquence) and studied it in three sciences: ma'āni, bayān and badi'."
+    },
+    {
+     "fa": "«بیان» از شیوه‌های گوناگون گفتن یک معنا سخن می‌گوید: تشبیه، استعاره، مجاز و کنایه.",
+     "r": "«bayān» az shive-hā-ye gunāgun-e goftan-e yek ma'nā sokhan mi-guyad: tashbih, este'āre, majāz o kenāye.",
+     "en": "Bayān deals with the different ways of saying one and the same thing: simile, metaphor, figurative usage and indirect expression."
+    },
+    {
+     "fa": "«بدیع» به زیبایی‌های لفظی و معنوی کلام می‌پردازد، مانند سجع، جناس، تضاد و تلمیح.",
+     "r": "«badi'» be zibāyi-hā-ye lafzi va ma'navi-ye kalām mi-pardāzad, mānand-e saj', jenās, tazādd o talmih.",
+     "en": "Badi' deals with the beauties of sound and sense in speech, such as rhymed prose, wordplay, antithesis and allusion."
+    },
+    {
+     "fa": "ساده‌ترین این شگردها تشبیه است: «چهره‌اش مثل ماه است.»",
+     "r": "sāde-tarin-e in shegerd-hā tashbih ast: «chehre-ash mesl-e māh ast.»",
+     "en": "The simplest of these devices is the simile: 'Her face is like the moon.'"
+    },
+    {
+     "fa": "در استعاره، یکی از دو سوی تشبیه حذف می‌شود و شاعر به جای «یار»، تنها از «سرو» یا «ماه» سخن می‌گوید.",
+     "r": "dar este'āre, yek-i az do su-ye tashbih hazf mi-shavad va shā'er be jā-ye «yār», tanhā az «sarv» yā «māh» sokhan mi-guyad.",
+     "en": "In a metaphor one of the two sides of the comparison is dropped, and instead of 'the beloved' the poet speaks only of 'the cypress' or 'the moon'."
+    },
+    {
+     "fa": "کنایه معنایی پنهان را از راهی غیرمستقیم می‌رساند؛ «در خانه‌اش همیشه باز است» یعنی او مهمان‌نواز است.",
+     "r": "kenāye ma'nā-yi penhān rā az rāh-i gheyr-e-mostaghim mi-resānad; «dar-e khāne-ash hamishe bāz ast» ya'ni u mehmān-navāz ast.",
+     "en": "Kenāye conveys a hidden meaning indirectly: 'his door is always open' means that he is hospitable."
+    },
+    {
+     "fa": "سعدی در گلستان با سجع، نثر را به موسیقی نزدیک کرده است.",
+     "r": "Sa'di dar Golestān bā saj', nasr rā be musighi nazdik karde ast.",
+     "en": "In the Golestan, Saadi uses rhymed prose to bring prose close to music."
+    },
+    {
+     "fa": "این شگردها تنها به کتاب‌ها محدود نیستند و در گفت‌وگوی روزانه‌ی ایرانیان نیز فراوان به کار می‌روند.",
+     "r": "in shegerd-hā tanhā be ketāb-hā mahdud nistand va dar goft-o-gu-ye ruzāne-ye Irāniyān niz farāvān be kār mi-ravand.",
+     "en": "These devices are not confined to books; Iranians use them constantly in everyday conversation too."
+    },
+    {
+     "fa": "مردم به جای «خیلی خسته‌ام» می‌گویند «از پا افتادم» و به جای «خیلی خندیدیم» می‌گویند «از خنده مردیم».",
+     "r": "mardom be jā-ye «kheyli khaste-am» mi-guyand «az pā oftādam» va be jā-ye «kheyli khandidim» mi-guyand «az khande mordim».",
+     "en": "Instead of 'I'm very tired' people say 'I've fallen off my feet', and instead of 'we laughed a lot' they say 'we died laughing'."
+    },
+    {
+     "fa": "این مبالغه‌ها کسی را فریب نمی‌دهند، بلکه به سخن گرمی و رنگ می‌بخشند.",
+     "r": "in mobālaghe-hā kas-i rā farib nemi-dahand, balke be sokhan garmi o rang mi-bakhshand.",
+     "en": "These exaggerations deceive no one; they give warmth and colour to speech."
+    },
+    {
+     "fa": "هنر سخن در مراسم رسمی، از عروسی تا بدرقه‌ی همکاران، اهمیتی ویژه دارد.",
+     "r": "honar-e sokhan dar marāsem-e rasmi, az arusi tā badraghe-ye hamkārān, ahammiyat-i vizhe dārad.",
+     "en": "The art of speaking matters particularly at formal occasions, from weddings to farewells for colleagues."
+    },
+    {
+     "fa": "سخنران خوب سخن خود را با سپاس و خوشامدگویی آغاز می‌کند و با آرزوی خیر به پایان می‌برد.",
+     "r": "sokhanrān-e khub sokhan-e khod rā bā sepās o khoshāmad-guyi āghāz mi-konad va bā ārezu-ye kheyr be pāyān mi-barad.",
+     "en": "A good speaker begins with thanks and a welcome and ends with good wishes."
+    },
+    {
+     "fa": "او شعری کوتاه از حافظ یا سعدی می‌خواند تا سخنش را دلنشین‌تر کند.",
+     "r": "u she'r-i kutāh az Hāfez yā Sa'di mi-khānad tā sokhan-ash rā delneshin-tar konad.",
+     "en": "He or she recites a short poem by Hafez or Saadi to make the speech more moving."
+    },
+    {
+     "fa": "با این همه، زیاده‌روی در آرایه‌ها سخن را از صداقت تهی می‌کند.",
+     "r": "bā in hame, ziyāde-ravi dar ārāye-hā sokhan rā az sedāghat tohi mi-konad.",
+     "en": "Even so, overdoing the ornaments empties a speech of sincerity."
+    },
+    {
+     "fa": "شیوه‌ی سعدی را «سهل و ممتنع» خوانده‌اند: سخنی که ساده به نظر می‌رسد، اما تقلید آن ناممکن است.",
+     "r": "shive-ye Sa'di rā «sahl o momtane'» khānde-and: sokhan-i ke sāde be nazar mi-resad, ammā taghlid-e ān nā-momken ast.",
+     "en": "Saadi's style has been called 'easy and impossible': speech that looks simple but cannot be imitated."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Which branch of rhetoric deals with simile, metaphor and indirect expression?",
+     "options": [
+      "معانی",
+      "بیان",
+      "بدیع"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What is the difference between a simile and a metaphor, according to the essay?",
+     "options": [
+      "A metaphor drops one side of the comparison",
+      "A metaphor always uses مثل",
+      "A simile is only used in poetry"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "«از خنده مردیم» is an example of…",
+     "options": [
+      "rhymed prose",
+      "allusion",
+      "exaggeration"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What does سهل و ممتنع say about Saadi's style?",
+     "options": [
+      "It is difficult to read",
+      "It looks simple but cannot be imitated",
+      "It is full of Arabic words"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Nine figures, one tradition",
+   "md": "Classical Persian rhetoric was built on Arabic models, so its terms are Arabic: [[تشبیه|tashbih|simile]], [[استعاره|este'āre|metaphor]], [[کنایه|kenāye|indirect expression]], [[مبالغه|mobālaghe|exaggeration]], [[تضاد|tazādd|antithesis]], [[تکرار|tekrār|repetition]], [[سجع|saj'|rhymed prose]], [[جناس|jenās|wordplay]], [[تلمیح|talmih|allusion]]. Iranian schoolchildren learn them all in literature classes, and the modern Persian umbrella word for them is [[آرایه‌های ادبی|ārāye-hā-ye adabi|literary ornaments]].\n\nTwo things make them worth learning even if you never write a poem:\n\n- **They are everywhere in speech.** A Tehrani who says [[سرم شلوغ است|sar-am sholugh ast|my head is crowded]] (I'm busy) is using kenāye; a mother who says [[صد بار گفتم!|sad bār goftam!|I've said it a hundred times!]] is using mobālaghe.\n- **They are the grammar of a good speech.** Weddings, farewells, memorial gatherings, birthdays and staff parties all call for a few words – and Iranians expect those words to be shaped: a contrast, an image, a line of Hafez, a wish.\n\nThe first two language sections below take the figures in two families – comparison and indirection, then sound and sense. The third gives you the building blocks of a speech."
+  },
+  {
+   "type": "vocab",
+   "title": "Words for rhetoric and speeches",
+   "items": [
+    {
+     "fa": "بلاغت",
+     "r": "balāghat",
+     "en": "eloquence; rhetoric",
+     "pos": "n"
+    },
+    {
+     "fa": "آرایه",
+     "r": "ārāye",
+     "en": "(literary) device, figure, ornament",
+     "pos": "n"
+    },
+    {
+     "fa": "شگرد",
+     "r": "shegerd",
+     "en": "technique, trick",
+     "pos": "n"
+    },
+    {
+     "fa": "تشبیه",
+     "r": "tashbih",
+     "en": "simile, comparison",
+     "pos": "n"
+    },
+    {
+     "fa": "وجه شبه",
+     "r": "vajh-e shabah",
+     "en": "point of comparison (what two things share)",
+     "pos": "n"
+    },
+    {
+     "fa": "استعاره",
+     "r": "este'āre",
+     "en": "metaphor",
+     "pos": "n"
+    },
+    {
+     "fa": "کنایه",
+     "r": "kenāye",
+     "en": "indirect expression; innuendo",
+     "pos": "n",
+     "ex": {
+      "fa": "حرفش کنایه داشت.",
+      "r": "harf-ash kenāye dāsht.",
+      "en": "There was a dig in what he said."
+     }
+    },
+    {
+     "fa": "مبالغه",
+     "r": "mobālaghe",
+     "en": "exaggeration, hyperbole",
+     "pos": "n",
+     "note": "also اغراق (eghrāgh)"
+    },
+    {
+     "fa": "تضاد",
+     "r": "tazādd",
+     "en": "antithesis, contrast",
+     "pos": "n"
+    },
+    {
+     "fa": "تکرار",
+     "r": "tekrār",
+     "en": "repetition",
+     "pos": "n"
+    },
+    {
+     "fa": "سجع",
+     "r": "saj'",
+     "en": "rhymed prose",
+     "pos": "n"
+    },
+    {
+     "fa": "جناس",
+     "r": "jenās",
+     "en": "wordplay with similar-sounding words",
+     "pos": "n"
+    },
+    {
+     "fa": "تلمیح",
+     "r": "talmih",
+     "en": "allusion (to a story, verse or event)",
+     "pos": "n"
+    },
+    {
+     "fa": "سخنرانی",
+     "r": "sokhanrāni",
+     "en": "speech, talk, lecture",
+     "pos": "n",
+     "note": "سخنرانی کردن 'to give a speech'"
+    },
+    {
+     "fa": "سخنران",
+     "r": "sokhanrān",
+     "en": "speaker",
+     "pos": "n"
+    },
+    {
+     "fa": "مخاطب",
+     "r": "mokhāteb",
+     "en": "addressee, audience",
+     "pos": "n"
+    },
+    {
+     "fa": "عرض کردن",
+     "r": "arz kardan",
+     "en": "to say (humble form, of oneself)",
+     "pos": "v",
+     "ex": {
+      "fa": "چند کلمه‌ای عرض می‌کنم.",
+      "r": "chand kalame-i arz mi-konam.",
+      "en": "I'd like to say a few words."
+     }
+    },
+    {
+     "fa": "خوشامد گفتن",
+     "r": "khoshāmad goftan",
+     "en": "to welcome",
+     "pos": "v"
+    },
+    {
+     "fa": "بدرقه",
+     "r": "badraghe",
+     "en": "send-off, seeing someone off",
+     "pos": "n"
+    },
+    {
+     "fa": "جام",
+     "r": "jām",
+     "en": "cup, glass (for a toast)",
+     "pos": "n"
+    },
+    {
+     "fa": "به سلامتی",
+     "r": "be salāmati",
+     "en": "cheers; to the health of",
+     "pos": "phrase",
+     "ex": {
+      "fa": "به سلامتی همه!",
+      "r": "be salāmati-ye hame!",
+      "en": "To everyone's health!"
+     }
+    },
+    {
+     "fa": "عروس و داماد",
+     "r": "arus o dāmād",
+     "en": "bride and groom",
+     "pos": "n"
+    },
+    {
+     "fa": "دلنشین",
+     "r": "delneshin",
+     "en": "touching, pleasing (to the heart)",
+     "pos": "adj"
+    },
+    {
+     "fa": "آرزو کردن",
+     "r": "ārezu kardan",
+     "en": "to wish",
+     "pos": "v"
+    },
+    {
+     "fa": "زیاده‌روی",
+     "r": "ziyāde-ravi",
+     "en": "excess, overdoing it",
+     "pos": "n"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Comparison and indirection: تشبیه، استعاره، کنایه",
+   "md": "**تشبیه (simile)** has four parts, and Persian school grammars name them all: the thing compared ([[مشبه|moshabbah]]), what it is compared to ([[مشبه‌به|moshabbah-on-beh]]), the comparison word ([[ادات تشبیه|adāt-e tashbih]]: مثل، مانند، چون، همچون) and the shared quality ([[وجه شبه|vajh-e shabah]]). In *her face is like the moon in its brightness* all four are present. Drop the comparison word and the quality and you get the strong, compact simile that Persian poets love: [[قد سرو|ghadd-e sarv|a cypress stature]].\n\n**استعاره (metaphor)** goes one step further: only the image remains. In classical poetry the images are a fixed code – [[سرو|sarv|cypress]] = the beloved's tall figure, [[نرگس|narges|narcissus]] = the eye, [[لعل|la'l|ruby]] = the lips, [[ماه|māh|moon]] = the face or the beloved. Everyday Persian keeps the code: [[ماه من|māh-e man|my moon]] is still *my darling*.\n\n**کنایه (indirect expression)** says one thing and means another that follows from it: an open door means hospitality, a crowded head means being busy. Most Persian idioms are kenāye, and many have a moral sting.",
+   "table": {
+    "head": [
+     "Figure",
+     "How it works",
+     "Classical",
+     "Everyday"
+    ],
+    "rows": [
+     [
+      "تشبیه",
+      "A is like B (in C)",
+      "[[بنی‌آدم اعضای یکدیگرند|bani-ādam a'zā-ye yekdigar-and]] (Saadi)",
+      "[[مثل شیر شجاع است|mesl-e shir shojā' ast|brave as a lion]]"
+     ],
+     [
+      "تشبیه بلیغ",
+      "A is B – no 'like', no quality",
+      "[[قد سرو|ghadd-e sarv|a cypress stature]]",
+      "[[این بچه شیر است!|in bacche shir ast!|this kid is a lion!]]"
+     ],
+     [
+      "استعاره",
+      "only B is named",
+      "[[نرگس|narges]] for the eye, [[لعل|la'l]] for the lips",
+      "[[ماه من|māh-e man|my moon = my darling]]"
+     ],
+     [
+      "کنایه",
+      "say X, mean what X implies",
+      "[[نمک خوردن و نمکدان شکستن|namak khordan o namakdān shekastan|to eat the salt and break the salt-cellar = ingratitude]]",
+      "[[سرم شلوغ است|sar-am sholugh ast|I'm busy]]"
+     ],
+     [
+      "کنایه",
+      "a gesture for a quality",
+      "[[دست و دلباز|dast o delbāz|open-handed = generous]]",
+      "[[در خانه‌اش باز است|dar-e khāne-ash bāz ast|he's hospitable]]"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "بنی‌آدم اعضای یکدیگرند / که در آفرینش ز یک گوهرند",
+     "r": "bani-ādam a'zā-ye yekdigar-and / ke dar āfarinesh ze yek gowhar-and",
+     "en": "The children of Adam are limbs of one another, / for in creation they are of one essence.",
+     "note": "Saadi, Golestan. A تشبیه بلیغ: people are limbs, with no 'like'. The image is carried through the poem: when one limb hurts, the others cannot rest."
+    },
+    {
+     "fa": "چهره‌اش مثل ماه است.",
+     "r": "chehre-ash mesl-e māh ast.",
+     "en": "Her face is like the moon.",
+     "note": "مشبه چهره، مشبه‌به ماه، ادات مثل; the shared quality (beauty, radiance) is left to the listener."
+    },
+    {
+     "fa": "ماه من، کجایی؟",
+     "r": "māh-e man, kojā-yi?",
+     "en": "Where are you, my darling?",
+     "lit": "my moon, where are you?",
+     "note": "استعاره: the person has disappeared behind the image."
+    },
+    {
+     "fa": "سرش خیلی شلوغ است.",
+     "r": "sar-ash kheyli sholugh ast.",
+     "en": "He's very busy.",
+     "lit": "his head is very crowded",
+     "col": "سرش خیلی شلوغه.",
+     "colR": "sar-esh kheyli sholugh-e."
+    },
+    {
+     "fa": "نمک خورد و نمکدان شکست.",
+     "r": "namak khord o namakdān shekast.",
+     "en": "He bit the hand that fed him.",
+     "lit": "he ate the salt and broke the salt-cellar",
+     "note": "Sharing salt (bread and salt) is the old sign of hospitality and trust."
+    },
+    {
+     "fa": "پدربزرگم خیلی دست و دلباز بود.",
+     "r": "pedarbozorg-am kheyli dast o delbāz bud.",
+     "en": "My grandfather was very generous.",
+     "lit": "very open of hand and heart"
+    },
+    {
+     "fa": "از پا افتادم.",
+     "r": "az pā oftādam.",
+     "en": "I'm exhausted.",
+     "lit": "I fell from my feet",
+     "note": "Kenāye and mild exaggeration together – the normal state of conversational Persian."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Sound and sense: مبالغه، تضاد، تکرار، سجع، جناس، تلمیح",
+   "md": "The second family plays with **sound** (rhyme, echo, repetition) and with **sense** (opposites, impossibilities, references to stories everyone knows).\n\n- **مبالغه** stretches a claim beyond belief – and nobody objects.\n- **تضاد** puts opposites side by side: old and young, night and day, laughter and tears.\n- **تکرار** repeats for emphasis or music. In the ghazal it is built into the form as the [[ردیف|radif]], the refrain that follows every rhyme.\n- **سجع** is rhyme in prose: two clauses end in words that chime. Saadi's Golestan is the model.\n- **جناس** pairs words that look or sound alike but mean different things – from exact homonyms to words that differ in one letter.\n- **تلمیح** alludes to a story, a verse or a person the listener knows: Joseph and Jacob, Leyli and Majnun, Rostam.",
+   "table": {
+    "head": [
+     "Figure",
+     "What it does",
+     "Classical example",
+     "Everyday example"
+    ],
+    "rows": [
+     [
+      "مبالغه",
+      "exaggerates beyond belief",
+      "Hafez gives away Samarkand and Bukhara for a mole",
+      "[[صد بار گفتم!|sad bār goftam!|I've told you a hundred times!]]"
+     ],
+     [
+      "تضاد",
+      "sets opposites side by side",
+      "Ferdowsi: [[پیر|pir|old]] / [[برنا|bornā|young]]",
+      "[[شب و روز کار می‌کند|shab o ruz kār mi-konad|he works night and day]]"
+     ],
+     [
+      "تکرار / ردیف",
+      "repeats for emphasis or music",
+      "Hafez: [[غم مخور|gham makhor|do not grieve]] at the end of every verse",
+      "[[آرام آرام|ārām ārām|slowly, slowly]]"
+     ],
+     [
+      "سجع",
+      "rhymes the ends of prose clauses",
+      "Saadi: [[قربت|ghorbat]] / [[نعمت|ne'mat]]; [[حیات|hayāt]] / [[ذات|zāt]]",
+      "[[خوش آمدی، صفا آوردی|khosh āmadi, safā āvardi]]"
+     ],
+     [
+      "جناس",
+      "pairs look-alike or sound-alike words",
+      "Rumi: [[شکایت|shekāyat|complaint]] / [[حکایت|hekāyat|tale]]",
+      "[[شیر|shir]]: milk, lion – and a tap"
+     ],
+     [
+      "تلمیح",
+      "alludes to a known story or text",
+      "Hafez: Joseph returning to Canaan",
+      "[[مثل لیلی و مجنون|mesl-e Leyli o Majnun|like Layla and Majnun = madly in love]]"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "اگر آن ترک شیرازی به دست آرد دل ما را / به خال هندویش بخشم سمرقند و بخارا را",
+     "r": "agar ān tork-e Shirāzi be dast ārad del-e mā rā / be khāl-e hendu-yash bakhsham Samarghand o Bokhārā rā",
+     "en": "If that Turk of Shiraz would take my heart in her hand, / for her dark mole I would give away Samarkand and Bukhara.",
+     "note": "Hafez. مبالغه: two great cities for a beauty spot. ترک (a fair-skinned beauty) and هندو (dark) also make a تضاد."
+    },
+    {
+     "fa": "توانا بود هر که دانا بود / ز دانش دل پیر برنا بود",
+     "r": "tavānā bovad har ke dānā bovad / ze dānesh del-e pir bornā bovad",
+     "en": "Powerful is he who is wise; / through knowledge an old heart is young.",
+     "note": "Ferdowsi, Shahnameh. تضاد between پیر 'old' and برنا 'young'; توانا and دانا chime."
+    },
+    {
+     "fa": "یوسف گم‌گشته باز آید به کنعان غم مخور / کلبه‌ی احزان شود روزی گلستان غم مخور",
+     "r": "Yusof-e gom-gashte bāz āyad be Kan'ān gham makhor / kolbe-ye ahzān shavad ruzi golestān gham makhor",
+     "en": "Lost Joseph will come back to Canaan – do not grieve; / the house of sorrows will one day be a rose garden – do not grieve.",
+     "note": "Hafez. تلمیح to Joseph and his grieving father Jacob; تکرار in the refrain غم مخور; تضاد between کلبه‌ی احزان and گلستان."
+    },
+    {
+     "fa": "بشنو این نی چون شکایت می‌کند / از جدایی‌ها حکایت می‌کند",
+     "r": "beshnow in ney chon shekāyat mi-konad / az jodāyi-hā hekāyat mi-konad",
+     "en": "Listen to this reed, how it complains, / telling the tale of separations.",
+     "note": "Rumi, the opening of the Masnavi. جناس: شکایت and حکایت differ in one letter. Many editions print «بشنو از نی»."
+    },
+    {
+     "fa": "منت خدای را عز و جل که طاعتش موجب قربت است و به شکر اندرش مزید نعمت.",
+     "r": "mennat khodāy rā 'azza va jall ke tā'at-ash mujeb-e ghorbat ast va be shokr andar-ash mazid-e ne'mat.",
+     "en": "Praise be to God, mighty and glorious, obedience to whom brings one near Him, and in thanking whom lies an increase of blessing.",
+     "note": "Saadi, the first sentence of the Golestan. سجع: قربت / نعمت. The second verb (است) is left out of the second clause."
+    },
+    {
+     "fa": "هر نفسی که فرو می‌رود ممد حیات است و چون برمی‌آید مفرح ذات.",
+     "r": "har nafasi ke foru mi-ravad momedd-e hayāt ast va chon bar-mi-āyad mofarreh-e zāt.",
+     "en": "Every breath that goes in sustains life, and every breath that comes out gladdens the soul.",
+     "note": "سجع: حیات / ذات; تضاد: فرو رفتن 'go down' / برآمدن 'come up'."
+    },
+    {
+     "fa": "آرام آرام، قدم به قدم، به هدف نزدیک شدیم.",
+     "r": "ārām ārām, ghadam be ghadam, be hadaf nazdik shodim.",
+     "en": "Slowly, step by step, we got close to our goal.",
+     "note": "Everyday تکرار: doubling makes Persian adverbs gentler or more vivid."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The shape of a short speech",
+   "md": "Whether it is a wedding, a colleague's retirement or a friend leaving for abroad, an Iranian speech of a few minutes tends to follow the same path: **address → permission and modesty → thanks → a story or praise → an image or a line of poetry → a wish → (a toast) → a humble close**. The formulas below are formal but warm; use the shomā forms throughout, even to people you know well, because you are speaking in public.\n\nTwo cultural notes. First, modesty is expected: [[من اهل سخنرانی نیستم|man ahl-e sokhanrāni nistam|I'm no speech-maker]] is said even by professional speakers. Second, [[عرض کردن|arz kardan]] is the humble verb for your own words, and [[فرمودن|farmudan]] the honorific verb for other people's: [[همان‌طور که آقای کریمی فرمودند|hamān-towr ke āghā-ye Karimi farmudand|as Mr Karimi said]].",
+   "table": {
+    "head": [
+     "Step",
+     "Formula",
+     "Reading",
+     "English"
+    ],
+    "rows": [
+     [
+      "address",
+      "مهمانان عزیز، دوستان گرامی",
+      "mehmānān-e aziz, dustān-e gerāmi",
+      "dear guests, dear friends"
+     ],
+     [
+      "permission",
+      "با اجازه‌ی بزرگترها",
+      "bā ejāze-ye bozorg-tar-hā",
+      "with the permission of the elders"
+     ],
+     [
+      "modesty",
+      "من اهل سخنرانی نیستم، اما…",
+      "man ahl-e sokhanrāni nistam, ammā…",
+      "I'm no speech-maker, but…"
+     ],
+     [
+      "thanks",
+      "از همه‌ی شما که تشریف آوردید سپاسگزارم",
+      "az hame-ye shomā ke tashrif āvardid sepāsgozār-am",
+      "thank you all for coming"
+     ],
+     [
+      "wedding wish",
+      "به پای هم پیر شوید",
+      "be pā-ye ham pir shavid",
+      "may you grow old together"
+     ],
+     [
+      "farewell",
+      "جای شما خالی خواهد بود",
+      "jā-ye shomā khāli khāhad bud",
+      "we will miss you (your place will be empty)"
+     ],
+     [
+      "toast",
+      "به سلامتی …!",
+      "be salāmati-ye …!",
+      "to …! (to the health of …)"
+     ],
+     [
+      "close",
+      "زیاده عرضی نیست",
+      "ziyāde arz-i nist",
+      "I have nothing more to say"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "مهمانان عزیز، با اجازه‌ی بزرگترها چند کلمه‌ای عرض می‌کنم.",
+     "r": "mehmānān-e aziz, bā ejāze-ye bozorg-tar-hā chand kalame-i arz mi-konam.",
+     "en": "Dear guests, with the elders' permission I'd like to say a few words."
+    },
+    {
+     "fa": "من اهل سخنرانی نیستم، پس سخن را کوتاه می‌کنم.",
+     "r": "man ahl-e sokhanrāni nistam, pas sokhan rā kutāh mi-konam.",
+     "en": "I'm no speech-maker, so I'll keep it short."
+    },
+    {
+     "fa": "به پای هم پیر شوید!",
+     "r": "be pā-ye ham pir shavid!",
+     "en": "May you grow old together!",
+     "lit": "may you grow old at each other's feet"
+    },
+    {
+     "fa": "به سلامتی عروس و داماد!",
+     "r": "be salāmati-ye arus o dāmād!",
+     "en": "To the bride and groom!"
+    },
+    {
+     "fa": "آقای کریمی، جای شما در این اداره همیشه خالی خواهد بود.",
+     "r": "āghā-ye Karimi, jā-ye shomā dar in edāre hamishe khāli khāhad bud.",
+     "en": "Mr Karimi, this office will always miss you."
+    },
+    {
+     "fa": "سی سال زحمت کشیدید؛ دستتان درد نکند.",
+     "r": "si sāl zahmat keshidid; dast-etān dard na-konad.",
+     "en": "You have worked so hard for thirty years – thank you for everything."
+    },
+    {
+     "fa": "برای خانم احمدی در کشور تازه‌شان آرزوی موفقیت می‌کنیم.",
+     "r": "barā-ye khānom-e Ahmadi dar keshvar-e tāze-shān ārezu-ye movaffaghiyat mi-konim.",
+     "en": "We wish Ms Ahmadi every success in her new country.",
+     "note": "تازه‌شان 'their new' – the plural of respect for one person."
+    },
+    {
+     "fa": "زیاده عرضی نیست.",
+     "r": "ziyāde arz-i nist.",
+     "en": "That's all I have to say.",
+     "lit": "there is no further petition"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "A model speech: Reza's toast at Sara and Amir's wedding",
+   "intro": "Reza, Amir's oldest friend, gives a short speech at the wedding reception. It is spoken, but in the careful register of a public occasion. Each note names the step or the figure of speech.",
+   "sentences": [
+    {
+     "fa": "مهمانان عزیز، خانواده‌های محترم، سلام عرض می‌کنم.",
+     "r": "mehmānān-e aziz, khānevāde-hā-ye mohtaram, salām arz mi-konam.",
+     "en": "Dear guests, honoured families, good evening.",
+     "note": "Address: guests first, then the two families."
+    },
+    {
+     "fa": "با اجازه‌ی بزرگترها، چند کلمه‌ای درباره‌ی دوستانم سارا و امیر عرض می‌کنم.",
+     "r": "bā ejāze-ye bozorg-tar-hā, chand kalame-i darbāre-ye dustān-am Sārā va Amir arz mi-konam.",
+     "en": "With the elders' permission, I'd like to say a few words about my friends Sara and Amir.",
+     "note": "Permission – a nod to the older generation – and the humble verb عرض کردن."
+    },
+    {
+     "fa": "راستش من اهل سخنرانی نیستم، پس قول می‌دهم کوتاه حرف بزنم.",
+     "r": "rāst-ash man ahl-e sokhanrāni nistam, pas ghowl mi-daham kutāh harf bezanam.",
+     "en": "To be honest I'm no speech-maker, so I promise to keep it short.",
+     "note": "Modesty."
+    },
+    {
+     "fa": "ده سال پیش، امیر را در کلاس زبان دانشگاه شناختم.",
+     "r": "dah sāl pish, Amir rā dar kelās-e zabān-e dāneshgāh shenākhtam.",
+     "en": "Ten years ago I got to know Amir in a language class at university.",
+     "note": "The story begins."
+    },
+    {
+     "fa": "او آن روزها می‌گفت: «من هرگز ازدواج نمی‌کنم؛ من با کتاب‌هایم ازدواج کرده‌ام!»",
+     "r": "u ān ruz-hā mi-goft: «man hargez ezdevāj nemi-konam; man bā ketāb-hā-yam ezdevāj karde-am!»",
+     "en": "In those days he used to say, 'I'll never marry – I'm married to my books!'",
+     "note": "Gentle humour at the groom's expense – expected, but never at the bride's."
+    },
+    {
+     "fa": "اما یک روز سارا وارد کتابخانه شد و کتاب‌ها از دست امیر افتاد.",
+     "r": "ammā yek ruz Sārā vāred-e ketābkhāne shod va ketāb-hā az dast-e Amir oftād.",
+     "en": "But one day Sara walked into the library, and the books fell out of Amir's hands.",
+     "note": "Kenāye: the falling books say what nobody needs to spell out."
+    },
+    {
+     "fa": "از آن روز، امیر دیگر نه درس می‌خواند و نه خواب داشت.",
+     "r": "az ān ruz, Amir digar na dars mi-khānd va na khāb dāsht.",
+     "en": "From that day on Amir could neither study nor sleep.",
+     "note": "مبالغه, and the balanced نه … نه … ."
+    },
+    {
+     "fa": "سارا برای او مثل ماه بود: دور، روشن و زیبا.",
+     "r": "Sārā barā-ye u mesl-e māh bud: dur, roshan o zibā.",
+     "en": "To him Sara was like the moon: far away, bright and beautiful.",
+     "note": "تشبیه with the shared qualities spelled out."
+    },
+    {
+     "fa": "امروز آن ماه به خانه‌ی امیر آمده است.",
+     "r": "emruz ān māh be khāne-ye Amir āmade ast.",
+     "en": "Today that moon has come to Amir's house.",
+     "note": "The simile becomes a metaphor (استعاره): Sara is now simply 'the moon'."
+    },
+    {
+     "fa": "سعدی می‌گوید: «بنی‌آدم اعضای یکدیگرند»؛ و امروز این دو نفر به راستی عضو یک خانواده شده‌اند.",
+     "r": "Sa'di mi-guyad: «bani-ādam a'zā-ye yekdigar-and»; va emruz in do nafar be rāsti ozv-e yek khānevāde shode-and.",
+     "en": "Saadi says, 'The children of Adam are limbs of one another' – and today these two have truly become limbs of one family.",
+     "note": "تلمیح and quotation, with a play on اعضا / عضو."
+    },
+    {
+     "fa": "در زندگی روزهای شاد و روزهای سخت، هر دو، خواهد آمد.",
+     "r": "dar zendegi ruz-hā-ye shād va ruz-hā-ye sakht, har do, khāhad āmad.",
+     "en": "Life will bring both happy days and hard ones.",
+     "note": "تضاد: شاد / سخت."
+    },
+    {
+     "fa": "آرزو می‌کنم که در روزهای شاد با هم بخندید و در روزهای سخت دست یکدیگر را بگیرید.",
+     "r": "ārezu mi-konam ke dar ruz-hā-ye shād bā ham bekhandid va dar ruz-hā-ye sakht dast-e yekdigar rā begirid.",
+     "en": "I wish you laughter together on the happy days, and on the hard days, each other's hand to hold.",
+     "note": "The wish, built on تکرار and parallel clauses."
+    },
+    {
+     "fa": "از پدر و مادر عروس و داماد هم برای این جشن زیبا سپاسگزارم.",
+     "r": "az pedar o mādar-e arus o dāmād ham barā-ye in jashn-e zibā sepāsgozār-am.",
+     "en": "I'd also like to thank the parents of the bride and groom for this lovely celebration.",
+     "note": "Thanks to the hosts."
+    },
+    {
+     "fa": "حالا لطفاً همه جام‌هایتان را بالا ببرید.",
+     "r": "hālā lotfan hame jām-hā-yetān rā bālā bebarid.",
+     "en": "Now would you all please raise your glasses.",
+     "note": "The toast – here with sharbat or juice."
+    },
+    {
+     "fa": "به سلامتی سارا و امیر! به پای هم پیر شوید!",
+     "r": "be salāmati-ye Sārā va Amir! be pā-ye ham pir shavid!",
+     "en": "To Sara and Amir! May you grow old together!",
+     "note": "Toast and traditional wedding wish."
+    },
+    {
+     "fa": "زیاده عرضی نیست.",
+     "r": "ziyāde arz-i nist.",
+     "en": "That's all from me.",
+     "note": "The humble close."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Which figure is «امروز آن ماه به خانه‌ی امیر آمده است»?",
+     "options": [
+      "تشبیه",
+      "استعاره",
+      "سجع"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Why does Reza mention the books falling from Amir's hands?",
+     "options": [
+      "Amir was clumsy",
+      "To show indirectly that he fell for Sara at first sight",
+      "Because Sara worked in the library"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Which formula does Reza use to close the speech?",
+     "options": [
+      "به پای هم پیر شوید",
+      "با اجازه‌ی بزرگترها",
+      "زیاده عرضی نیست"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Speeches, toasts and the bride who went to pick flowers",
+   "md": "At an Iranian wedding the most quoted words are not in a speech at all. During the ceremony ([[عقد|aghd]]), seated before the decorated *sofreh*, the bride is asked three times whether she consents. The first two times the guests call out [[عروس رفته گل بچیند!|arus rafte gol bechinad!|the bride has gone to pick flowers!]] – and only the third time does she answer [[بله|bale|yes]], to applause and ululation. It is a ritual of modesty, and a small piece of rhetoric in itself: a pause made meaningful.\n\nSpeeches come later, at the reception, and are usually short. A relative or an old friend of the couple speaks, often with a few lines of Hafez or Saadi. Many Iranian celebrations are alcohol-free, so the glasses raised for [[به سلامتی|be salāmati]] may hold sharbat, juice or tea – the toast is about the words, not the drink.\n\nFarewells ([[مهمانی خداحافظی|mehmāni-ye khodāhāfezi|a goodbye party]]) have their own style. Colleagues bring flowers and a box of pastries, someone says [[جایتان خالی خواهد بود|jā-yetān khāli khāhad bud]], and the person leaving answers with thanks and a ritual apology for any trouble they caused: [[اگر بدی دیدید، حلال کنید|agar bad-i didid, halāl konid|if I ever wronged you, forgive me]]. For a friend going abroad, a classic touch is to hold a copy of the Quran or a mirror over the doorway and to pour a bowl of water after the traveller – so that they come back as smoothly as water flows.",
+   "image": "iranian-wedding"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "To tell تشبیه from استعاره, ask: are both things named? «چشمانش مثل نرگس است» is a simile; «نرگس مستش» (her drunken narcissus) is a metaphor.",
+    "Kenāye is the hardest figure for learners because it looks literal. If «دستش کج است» (his hand is crooked) seems to make no sense, it is kenāye: he steals.",
+    "When you give a speech, write it in the formal register but read it slowly and warmly. Speak the poem, don't rush it – people will often say the second half with you.",
+    "One line of poetry is perfect; three is a lecture. Choose a line everyone knows: Saadi's بنی‌آدم, Hafez's یوسف گم‌گشته or a line from the Shahnameh.",
+    "Use عرض کردن for your own words and فرمودن for other people's. Mixing them up is a classic learner's slip that Iranians will find charming – but notice.",
+    "Everyday mobālaghe is not lying. «یک دنیا ممنون» (a world of thanks) and «صد بار» (a hundred times) are just the normal volume of Persian feeling."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Name the formula",
+   "items": [
+    {
+     "fa": "به ___ عروس و داماد!",
+     "r": "be ___-ye arus o dāmād!",
+     "en": "To the bride and groom!",
+     "answer": "سلامتی",
+     "hint": "health"
+    },
+    {
+     "fa": "به ___ هم پیر شوید!",
+     "r": "be ___-ye ham pir shavid!",
+     "en": "May you grow old together!",
+     "answer": "پای",
+     "hint": "'at each other's feet'"
+    },
+    {
+     "fa": "با اجازه‌ی ___، چند کلمه‌ای عرض می‌کنم.",
+     "r": "bā ejāze-ye ___, chand kalame-i arz mi-konam.",
+     "en": "With the elders' permission, I'll say a few words.",
+     "answer": "بزرگترها",
+     "hint": "the elders"
+    },
+    {
+     "fa": "زیاده ___ نیست.",
+     "r": "ziyāde ___ nist.",
+     "en": "That's all I have to say.",
+     "answer": "عرضی",
+     "hint": "the humble word for 'saying', + ی"
+    },
+    {
+     "fa": "چهره‌اش ___ ماه است.",
+     "r": "chehre-ash ___-e māh ast.",
+     "en": "Her face is like the moon.",
+     "answer": "مثل",
+     "hint": "the comparison word"
+    },
+    {
+     "fa": "جای شما همیشه ___ خواهد بود.",
+     "r": "jā-ye shomā hamishe ___ khāhad bud.",
+     "en": "We will always miss you.",
+     "answer": "خالی",
+     "hint": "empty"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Into Persian",
+   "items": [
+    {
+     "en": "Dear guests, I'd like to say a few words.",
+     "fa": "مهمانان عزیز، چند کلمه‌ای عرض می‌کنم.",
+     "r": "mehmānān-e aziz, chand kalame-i arz mi-konam."
+    },
+    {
+     "en": "I'm very busy these days. (use a figure of speech)",
+     "fa": "این روزها سرم خیلی شلوغ است.",
+     "r": "in ruz-hā sar-am kheyli sholugh ast."
+    },
+    {
+     "en": "He works night and day.",
+     "fa": "شب و روز کار می‌کند.",
+     "r": "shab o ruz kār mi-konad."
+    },
+    {
+     "en": "We will miss you very much, Mr Karimi.",
+     "fa": "آقای کریمی، جای شما خیلی خالی خواهد بود.",
+     "r": "āghā-ye Karimi, jā-ye shomā kheyli khāli khāhad bud."
+    },
+    {
+     "en": "To Sara and Amir! May you grow old together!",
+     "fa": "به سلامتی سارا و امیر! به پای هم پیر شوید!",
+     "r": "be salāmati-ye Sārā va Amir! be pā-ye ham pir shavid!"
+    },
+    {
+     "en": "I've told you a hundred times!",
+     "fa": "صد بار به تو گفتم!",
+     "r": "sad bār be to goftam!"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Which figure? Which meaning?",
+   "items": [
+    {
+     "q": "[[توانا بود هر که دانا بود / ز دانش دل پیر برنا بود|tavānā bovad har ke dānā bovad / ze dānesh del-e pir bornā bovad]] – which figure links پیر and برنا?",
+     "options": [
+      "تضاد",
+      "تلمیح",
+      "جناس"
+     ],
+     "answer": 0,
+     "explain": "پیر 'old' and برنا 'young' are opposites side by side."
+    },
+    {
+     "q": "[[شکایت|shekāyat]] and [[حکایت|hekāyat]] in Rumi's first line are an example of…",
+     "options": [
+      "سجع",
+      "جناس",
+      "مبالغه"
+     ],
+     "answer": 1,
+     "explain": "Two words that differ by one letter and mean different things: wordplay (جناس)."
+    },
+    {
+     "q": "The best English for [[دستش کج است.|dast-ash kaj ast.]]",
+     "options": [
+      "His hand is bent.",
+      "He's left-handed.",
+      "He's light-fingered (he steals)."
+     ],
+     "answer": 2,
+     "explain": "A kenāye: the 'crooked hand' takes what isn't its own."
+    },
+    {
+     "q": "[[یوسف گم‌گشته باز آید به کنعان|Yusof-e gom-gashte bāz āyad be Kan'ān]] uses the story of Joseph. This is…",
+     "options": [
+      "تلمیح",
+      "تشبیه",
+      "سجع"
+     ],
+     "answer": 0,
+     "explain": "An allusion (تلمیح) to a story every listener knows."
+    },
+    {
+     "q": "The best English for [[نمک خورد و نمکدان شکست.|namak khord o namakdān shekast.]]",
+     "options": [
+      "He ate too much salt.",
+      "He bit the hand that fed him.",
+      "He broke a dish at dinner."
+     ],
+     "answer": 1,
+     "explain": "Eating someone's salt means accepting their hospitality; breaking the salt-cellar is betrayal."
+    },
+    {
+     "q": "Which is a metaphor (استعاره), not a simile?",
+     "options": [
+      "چهره‌اش مثل ماه است.",
+      "مثل شیر شجاع است.",
+      "ماه من، کجایی؟"
+     ],
+     "answer": 2,
+     "explain": "Only the image (ماه) is named; the person it stands for has disappeared."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the speech back together",
+   "items": [
+    {
+     "fa": "با اجازه‌ی بزرگترها چند کلمه‌ای عرض می‌کنم.",
+     "r": "bā ejāze-ye bozorg-tar-hā chand kalame-i arz mi-konam.",
+     "en": "With the elders' permission I'd like to say a few words."
+    },
+    {
+     "fa": "من اهل سخنرانی نیستم، پس سخن را کوتاه می‌کنم.",
+     "r": "man ahl-e sokhanrāni nistam, pas sokhan rā kutāh mi-konam.",
+     "en": "I'm no speech-maker, so I'll keep it short."
+    },
+    {
+     "fa": "سارا برای او مثل ماه بود.",
+     "r": "Sārā barā-ye u mesl-e māh bud.",
+     "en": "To him Sara was like the moon."
+    },
+    {
+     "fa": "از همه‌ی شما که تشریف آوردید سپاسگزارم.",
+     "r": "az hame-ye shomā ke tashrif āvardid sepāsgozār-am.",
+     "en": "Thank you all for coming."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Figures and what they do",
+   "items": [
+    {
+     "fa": "تشبیه",
+     "r": "tashbih",
+     "en": "A is like B"
+    },
+    {
+     "fa": "استعاره",
+     "r": "este'āre",
+     "en": "only the image is named"
+    },
+    {
+     "fa": "کنایه",
+     "r": "kenāye",
+     "en": "say one thing, mean what it implies"
+    },
+    {
+     "fa": "مبالغه",
+     "r": "mobālaghe",
+     "en": "exaggeration"
+    },
+    {
+     "fa": "تضاد",
+     "r": "tazādd",
+     "en": "opposites side by side"
+    },
+    {
+     "fa": "سجع",
+     "r": "saj'",
+     "en": "rhyme in prose"
+    },
+    {
+     "fa": "جناس",
+     "r": "jenās",
+     "en": "look-alike, sound-alike words"
+    },
+    {
+     "fa": "تلمیح",
+     "r": "talmih",
+     "en": "allusion to a known story"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "به پای هم پیر شوید!",
+     "r": "be pā-ye ham pir shavid!",
+     "en": "May you grow old together!",
+     "options": [
+      "Stand on your own feet!",
+      "May you grow old together!",
+      "Walk together!"
+     ],
+     "answer": 1
+    },
+    {
+     "fa": "از خنده مردیم.",
+     "r": "az khande mordim.",
+     "en": "We died laughing.",
+     "options": [
+      "We died laughing.",
+      "We stopped laughing.",
+      "Nobody laughed."
+     ],
+     "answer": 0
+    },
+    {
+     "fa": "آقای کریمی، جای شما خالی خواهد بود.",
+     "r": "āghā-ye Karimi, jā-ye shomā khāli khāhad bud.",
+     "en": "Mr Karimi, we will miss you.",
+     "options": [
+      "Mr Karimi, your seat is free.",
+      "Mr Karimi, please sit down.",
+      "Mr Karimi, we will miss you."
+     ],
+     "answer": 2
+    },
+    {
+     "fa": "سرم خیلی شلوغ است.",
+     "r": "sar-am kheyli sholugh ast.",
+     "en": "I'm very busy.",
+     "options": [
+      "I have a headache.",
+      "I'm very busy.",
+      "My head is full of ideas."
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

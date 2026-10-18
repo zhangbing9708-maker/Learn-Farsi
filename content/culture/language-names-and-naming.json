@@ -38,103 +38,257 @@
    "r": "esm-e shomā chist?",
    "en": "What is your name?",
    "col": "اسمتون چیه؟",
-   "colR": "esm-etun chiye?"
+   "colR": "esm-etun chiye?",
+   "faV": "اِسمِ شُما چیست؟",
+   "a": "06102665b698",
+   "colV": "اِسمِتون چیه؟",
+   "colA": "c34e76b17c74"
   },
   {
    "fa": "اسم من سهراب است، مثل پسر رستم در شاهنامه.",
    "r": "esm-e man Sohrāb ast, mesl-e pesar-e Rostam dar Shāhnāme.",
    "en": "My name is Sohrab, like Rostam's son in the Shahnameh.",
    "col": "اسمم سهرابه، مثل پسر رستم تو شاهنامه.",
-   "colR": "esm-am Sohrāb-e, mesl-e pesar-e Rostam tu Shāhnāme."
+   "colR": "esm-am Sohrāb-e, mesl-e pesar-e Rostam tu Shāhnāme.",
+   "faV": "اِسمِ مَن سُهراب اَست، مِثلِ پِسَرِ رُستَم دَر شاهنامه.",
+   "a": "3ce997deec50",
+   "colV": "اِسمَم سُهرابه، مِثلِ پِسَرِ رُستَم تو شاهنامه.",
+   "colA": "6c737c8cb155"
   },
   {
    "fa": "نام خانوادگی شما چیست؟",
    "r": "nām-e khānevādegi-ye shomā chist?",
    "en": "What is your surname?",
    "col": "فامیلیتون چیه؟",
-   "colR": "fāmili-tun chiye?"
+   "colR": "fāmili-tun chiye?",
+   "faV": "نامِ خانِوادِگیِ شُما چیست؟",
+   "a": "e5c2e3ee522e",
+   "colV": "فامیلیتون چیه؟",
+   "colA": "dfd49b3ff950"
   },
   {
    "fa": "پدربزرگم نام خانوادگی‌اش را از شهرش انتخاب کرد.",
    "r": "pedar-bozorg-am nām-e khānevādegi-ash rā az shahr-ash entekhāb kard.",
    "en": "My grandfather chose his surname from his home town.",
    "col": "پدربزرگم فامیلیشو از شهرش انتخاب کرد.",
-   "colR": "pedar-bozorg-am fāmili-sh-o az shahr-esh entekhāb kard."
+   "colR": "pedar-bozorg-am fāmili-sh-o az shahr-esh entekhāb kard.",
+   "faV": "پِدَربُزُرگَم نامِ خانِوادِگی‌اَش را اَز شَهرَش اِنتِخاب کَرد.",
+   "a": "9bb56391797a",
+   "colV": "پِدَربُزُرگَم فامیلیشو اَز شَهرِش اِنتِخاب کَرد.",
+   "colA": "d2b3723474f4"
   },
   {
    "fa": "«زاده» یعنی «فرزند»؛ حسن‌زاده یعنی فرزند حسن.",
    "r": "«zāde» ya'ni «farzand»; Hasan-zāde ya'ni farzand-e Hasan.",
-   "en": "Zāde means 'child'; Hasanzadeh means 'child of Hasan'."
+   "en": "Zāde means 'child'; Hasanzadeh means 'child of Hasan'.",
+   "faV": "«زاده» یَعنی «فَرزَند»؛ حَسَن‌زاده یَعنی فَرزَندِ حَسَن.",
+   "a": "3088687be0ce"
   },
   {
    "fa": "آقای احمدی، خوش آمدید.",
    "r": "āghā-ye Ahmadi, khosh āmadid.",
    "en": "Welcome, Mr Ahmadi.",
    "col": "آقای احمدی، خوش اومدین.",
-   "colR": "āghā-ye Ahmadi, khosh umadin."
+   "colR": "āghā-ye Ahmadi, khosh umadin.",
+   "faV": "آقایِ اَحمَدی، خوش آمَدید.",
+   "a": "c9e5e23abf3d",
+   "colV": "آقایِ اَحمَدی، خوش اومَدین.",
+   "colA": "2c926a35f174"
   },
   {
    "fa": "مریم خانم، حالتان چطور است؟",
    "r": "Maryam khānom, hāl-etān chetowr ast?",
    "en": "How are you, Maryam khanom?",
    "col": "مریم خانم، حالتون چطوره؟",
-   "colR": "Maryam khānom, hāl-etun chetor-e?"
+   "colR": "Maryam khānom, hāl-etun chetor-e?",
+   "faV": "مَریَم خانُم، حالِتان چِطَور اَست؟",
+   "a": "1c5cbb53349b",
+   "colV": "مَریَم خانُم، حالِتون چِطوره؟",
+   "colA": "2a296399e3b0"
   },
   {
    "fa": "دوستانش به او «ممد» می‌گویند.",
    "r": "dustān-ash be u «Mamad» mi-guyand.",
    "en": "His friends call him Mamad.",
    "col": "دوستاش بهش می‌گن «ممد».",
-   "colR": "dust-ā-sh behesh mi-gan «Mamad»."
+   "colR": "dust-ā-sh behesh mi-gan «Mamad».",
+   "faV": "دوستانَش به او «مَمَد» می‌گویَند.",
+   "a": "3b0d85d4f622",
+   "colV": "دوستاش بِهِش می‌گَن «مَمَد».",
+   "colA": "7dbdf31dd574"
   },
   {
    "fa": "لطفاً مرا به اسم کوچکم صدا بزنید.",
    "r": "lotfan ma-rā be esm-e kuchak-am sedā be-zanid.",
    "en": "Please call me by my first name.",
    "col": "لطفاً منو با اسم کوچیکم صدا کنین.",
-   "colR": "lotfan man-o bā esm-e kuchik-am sedā konin."
+   "colR": "lotfan man-o bā esm-e kuchik-am sedā konin.",
+   "faV": "لُطفاً مَرا به اِسمِ کوچَکَم صِدا بِزَنید.",
+   "a": "ca7a7f4ddf07",
+   "colV": "لُطفاً مَنو با اِسمِ کوچیکَم صِدا کُنین.",
+   "colA": "61b30b0ddae5"
   },
   {
    "fa": "بچه‌ها به همه‌ی مردهای بزرگ‌تر «عمو» می‌گویند.",
    "r": "bacche-hā be hame-ye mard-hā-ye bozorg-tar «amu» mi-guyand.",
    "en": "Children call all older men 'uncle'.",
    "col": "بچه‌ها به همه‌ی مردای بزرگ‌تر می‌گن «عمو».",
-   "colR": "bacche-hā be hame-ye mard-ā-ye bozorg-tar mi-gan «amu»."
+   "colR": "bacche-hā be hame-ye mard-ā-ye bozorg-tar mi-gan «amu».",
+   "faV": "بَچّه‌ها به هَمه‌یِ مَردهایِ بُزُرگ‌تَر «عَمو» می‌گویَند.",
+   "a": "ff95e8479b84",
+   "colV": "بَچّه‌ها به هَمه‌یِ مَردایِ بُزُرگ‌تَر می‌گَن «عَمو».",
+   "colA": "8886a75f7400"
   },
   {
    "fa": "اسم «کوروش» از تاریخ ایران باستان می‌آید.",
    "r": "esm-e «Kurosh» az tārikh-e Irān-e bāstān mi-āyad.",
    "en": "The name Kourosh comes from the history of ancient Iran.",
    "col": "اسم «کوروش» از تاریخ ایران باستان میاد.",
-   "colR": "esm-e «Kurosh» az tārikh-e Irān-e bāstān mi-yād."
+   "colR": "esm-e «Kurosh» az tārikh-e Irān-e bāstān mi-yād.",
+   "faV": "اِسمِ «کوروش» اَز تاریخِ ایرانِ باستان می‌آیَد.",
+   "a": "6a76ea856443",
+   "colV": "اِسمِ «کوروش» اَز تاریخِ ایرانِ باستان میاد.",
+   "colA": "725e9992ae0b"
   },
   {
    "fa": "ببخشید آقا، این اتوبوس به میدان آزادی می‌رود؟",
    "r": "bebakhshid āghā, in otobus be meydān-e Āzādi mi-ravad?",
    "en": "Excuse me, sir, does this bus go to Azadi Square?",
    "col": "ببخشید آقا، این اتوبوس می‌ره میدون آزادی؟",
-   "colR": "bebakhshid āghā, in otobus mi-re meydun-e Āzādi?"
+   "colR": "bebakhshid āghā, in otobus mi-re meydun-e Āzādi?",
+   "faV": "بِبَخشید آقا، این اُتوبوس به مَیدانِ آزادی می‌رَوَد؟",
+   "a": "dbe3f1b8f895",
+   "colV": "بِبَخشید آقا، این اُتوبوس می‌ره مَیدونِ آزادی؟",
+   "colA": "475bd2e6bf13"
   }
  ],
  "vocab": [
-  {"fa": "اسم", "r": "esm", "en": "name"},
-  {"fa": "نام", "r": "nām", "en": "name (formal)"},
-  {"fa": "اسم کوچک", "r": "esm-e kuchak", "en": "first name"},
-  {"fa": "نام خانوادگی", "r": "nām-e khānevādegi", "en": "surname, family name"},
-  {"fa": "فامیلی", "r": "fāmili", "en": "surname (everyday)"},
-  {"fa": "شناسنامه", "r": "shenāsnāme", "en": "birth certificate, ID booklet"},
-  {"fa": "لقب", "r": "laghab", "en": "title, epithet, nickname"},
-  {"fa": "آقا", "r": "āghā", "en": "Mr; sir; gentleman"},
-  {"fa": "خانم", "r": "khānom", "en": "Mrs, Ms; madam; lady"},
-  {"fa": "جان", "r": "jān", "en": "dear (after a name); life, soul"},
-  {"fa": "عمو", "r": "amu", "en": "uncle (father's brother)"},
-  {"fa": "خاله", "r": "khāle", "en": "aunt (mother's sister)"},
-  {"fa": "استاد", "r": "ostād", "en": "master; professor"},
-  {"fa": "مهندس", "r": "mohandes", "en": "engineer"},
-  {"fa": "فرزند", "r": "farzand", "en": "child (son or daughter)"},
-  {"fa": "صدا زدن", "r": "sedā zadan", "en": "to call (someone)"},
-  {"fa": "انتخاب کردن", "r": "entekhāb kardan", "en": "to choose"},
-  {"fa": "نام‌گذاری", "r": "nām-gozāri", "en": "naming"}
+  {
+   "fa": "اسم",
+   "r": "esm",
+   "en": "name",
+   "faV": "اِسم",
+   "a": "16aa69472dcd"
+  },
+  {
+   "fa": "نام",
+   "r": "nām",
+   "en": "name (formal)",
+   "faV": "نام",
+   "a": "45dd06ba40e4"
+  },
+  {
+   "fa": "اسم کوچک",
+   "r": "esm-e kuchak",
+   "en": "first name",
+   "faV": "اِسمِ کوچَک",
+   "a": "052093054b29"
+  },
+  {
+   "fa": "نام خانوادگی",
+   "r": "nām-e khānevādegi",
+   "en": "surname, family name",
+   "faV": "نامِ خانِوادِگی",
+   "a": "8d11ac0e37dc"
+  },
+  {
+   "fa": "فامیلی",
+   "r": "fāmili",
+   "en": "surname (everyday)",
+   "faV": "فامیلی",
+   "a": "84c5cc45ef15"
+  },
+  {
+   "fa": "شناسنامه",
+   "r": "shenāsnāme",
+   "en": "birth certificate, ID booklet",
+   "faV": "شِناسنامه",
+   "a": "88f8640dd5e4"
+  },
+  {
+   "fa": "لقب",
+   "r": "laghab",
+   "en": "title, epithet, nickname",
+   "faV": "لَقَب",
+   "a": "fa603a1b4245"
+  },
+  {
+   "fa": "آقا",
+   "r": "āghā",
+   "en": "Mr; sir; gentleman",
+   "faV": "آقا",
+   "a": "58af4aa6ad39"
+  },
+  {
+   "fa": "خانم",
+   "r": "khānom",
+   "en": "Mrs, Ms; madam; lady",
+   "faV": "خانُم",
+   "a": "685dd16c41fc"
+  },
+  {
+   "fa": "جان",
+   "r": "jān",
+   "en": "dear (after a name); life, soul",
+   "faV": "جان",
+   "a": "1fc85d18df97"
+  },
+  {
+   "fa": "عمو",
+   "r": "amu",
+   "en": "uncle (father's brother)",
+   "faV": "عَمو",
+   "a": "f3d4d6df8864"
+  },
+  {
+   "fa": "خاله",
+   "r": "khāle",
+   "en": "aunt (mother's sister)",
+   "faV": "خاله",
+   "a": "6442e53c4f01"
+  },
+  {
+   "fa": "استاد",
+   "r": "ostād",
+   "en": "master; professor",
+   "faV": "اُستاد",
+   "a": "bc167126bdbf"
+  },
+  {
+   "fa": "مهندس",
+   "r": "mohandes",
+   "en": "engineer",
+   "faV": "مُهَندِس",
+   "a": "550435801e84"
+  },
+  {
+   "fa": "فرزند",
+   "r": "farzand",
+   "en": "child (son or daughter)",
+   "faV": "فَرزَند",
+   "a": "eca5a10b864d"
+  },
+  {
+   "fa": "صدا زدن",
+   "r": "sedā zadan",
+   "en": "to call (someone)",
+   "faV": "صِدا زَدَن",
+   "a": "619651140ddc"
+  },
+  {
+   "fa": "انتخاب کردن",
+   "r": "entekhāb kardan",
+   "en": "to choose",
+   "faV": "اِنتِخاب کَردَن",
+   "a": "d3fddb34a28c"
+  },
+  {
+   "fa": "نام‌گذاری",
+   "r": "nām-gozāri",
+   "en": "naming",
+   "faV": "نام‌گُذاری",
+   "a": "19fc5d8466bc"
+  }
  ],
  "facts": [
   "A law of 1925 made family names compulsory in Iran; Reza Khan, then prime minister, chose the surname Pahlavi.",
@@ -144,5 +298,7 @@
   "Doctors are addressed as āghā-ye doktor or khānom-e doktor, often without a surname at all.",
   "Siyavash, the innocent prince of the Shahnameh who rode through fire to prove his innocence, is a popular boy's name.",
   "Iran's civil registry keeps lists of approved first names and can refuse a name it considers unsuitable."
- ]
+ ],
+ "titleV": "نام‌ها و نام‌گُذاری",
+ "titleA": "b711ac04dd28"
 }

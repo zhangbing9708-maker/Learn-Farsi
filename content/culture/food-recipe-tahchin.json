@@ -1,0 +1,127 @@
+{
+ "id": "food-recipe-tahchin",
+ "topic": "food",
+ "title": "Recipe: tahchin",
+ "titleFa": "ته‌چین",
+ "titleR": "tah-chin",
+ "image": "tahchin",
+ "summary": "Cook along with tahchin, a golden cake of saffron rice set with yoghurt and egg yolk, layered with chicken and baked until its whole base becomes a crisp crust.",
+ "body": [
+  {
+   "h": "A rice cake with a golden crust",
+   "md": "Iranians love [[ته‌دیگ|tah-dig|tahdig]], the crisp crust at the bottom of the rice pot, and [[ته‌چین|tah-chin|tahchin]] is what happens when the whole dish becomes crust. Rice is mixed with yoghurt, egg yolk and saffron, layered with chicken, pressed into a dish and baked slowly until it sets. Then it is turned out onto a platter like a cake, golden on the outside and soft inside.\n\nThe name means 'arranged at the bottom', from [[ته|tah|bottom]] and [[چیدن|chidan|to arrange]]. It was once cooked in a pot on the stove; today most families bake it in the oven. Tahchin is a dish for guests – parties, birthdays and family celebrations – cut into squares or wedges and served with salad and yoghurt."
+  },
+  {
+   "h": "Ingredients (for 4)",
+   "md": "- 3 cups (600 g) basmati rice ([[برنج|berenj|rice]])\n- 500 g boneless chicken thighs or breast ([[مرغ|morgh|chicken]])\n- 1 onion ([[پیاز|piyāz|onion]])\n- 1½ cups (375 g) thick plain yoghurt ([[ماست|māst|yoghurt]])\n- 3 egg yolks ([[زرده‌ی تخم‌مرغ|zarde-ye tokhm-e-morgh|egg yolk]])\n- ½ teaspoon ground saffron ([[زعفران|za'farān|saffron]]) dissolved in 4 tablespoons hot water\n- 100 g (7 tablespoons) butter ([[کره|kare|butter]]), or ½ cup oil\n- ½ teaspoon turmeric ([[زردچوبه|zardchube|turmeric]]), salt and black pepper\n- to decorate: 2 tablespoons dried barberries ([[زرشک|zereshk|barberries]]), 1 teaspoon sugar ([[شکر|shekar|sugar]]) and 1 tablespoon slivered pistachios ([[پسته|peste|pistachio]])",
+   "image": "saffron"
+  },
+  {
+   "h": "Method",
+   "md": "1. Wash the rice in several changes of water until it runs clear, then soak it in salted water for 1–2 hours.\n2. Put the chicken in a pan with the sliced onion, turmeric, salt, pepper and ½ cup of water. Cover and cook on low heat for about 40 minutes, until tender and the liquid has gone. Let it cool and pull it into strips.\n3. Bring 3 litres of water and 2 tablespoons of salt to the boil. Add the drained rice and boil for 6–7 minutes, until the grains are soft outside but still firm in the middle. Drain in a colander and rinse with lukewarm water.\n4. Whisk the yoghurt with the egg yolks, saffron water, half the melted butter, ½ teaspoon of salt and some pepper.\n5. Gently mix about two-thirds of the rice into the yoghurt mixture.\n6. Heat the oven to 190°C. Butter an ovenproof glass dish (about 23 × 33 cm) generously on the bottom and sides. Spread half the yoghurt rice in it and press it down firmly.\n7. Lay the chicken on top, cover it with the rest of the yoghurt rice and then the plain rice. Press down hard and dot with the remaining butter.\n8. Cover tightly with foil and bake for 1½–2 hours, until the bottom and sides are deep golden.\n9. Let it rest for 10 minutes. Run a knife round the edge, put a platter on top and turn it over in one quick move.\n10. Warm the barberries with the sugar and a little butter for one minute and scatter them over the top with the pistachios."
+  },
+  {
+   "h": "Tips",
+   "md": "- A glass dish lets you see the colour of the crust before you turn it out. If the bottom is pale, give it another 20 minutes.\n- Press each layer firmly: a well-packed tahchin holds together when you slice it.\n- Barberries burn in seconds and turn bitter. Keep the heat low.\n- For more flavour, leave the cooked chicken in a few spoons of the yoghurt mixture for an hour before layering."
+  },
+  {
+   "h": "Variations",
+   "md": "Chicken tahchin ([[ته‌چین مرغ|tah-chin-e morgh|chicken tahchin]]) is the most common, but some cooks use lamb, and vegetarian versions are layered with fried aubergine or spinach. Some families flavour the meat with a little orange zest or cinnamon. Leftover tahchin is good cold the next day, in a sandwich or with yoghurt."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "برنج را چند بار بشویید تا آبش زلال شود.",
+   "r": "berenj rā chand bār be-shuyid tā āb-ash zolāl shavad.",
+   "en": "Wash the rice a few times until the water runs clear.",
+   "col": "برنجو چند بار بشور تا آبش زلال بشه.",
+   "colR": "berenj-o chand bār be-shur tā āb-esh zolāl be-she."
+  },
+  {
+   "fa": "برنج را دو ساعت در آب و نمک خیس کنید.",
+   "r": "berenj rā do sā'at dar āb o namak khis konid.",
+   "en": "Soak the rice in salted water for two hours."
+  },
+  {
+   "fa": "برنج را هفت دقیقه بجوشانید و بعد آبکش کنید.",
+   "r": "berenj rā haft daghighe be-jushānid va ba'd ābkesh konid.",
+   "en": "Boil the rice for seven minutes and then drain it."
+  },
+  {
+   "fa": "ماست، زرده‌ی تخم‌مرغ و زعفران را با هم مخلوط کنید.",
+   "r": "māst, zarde-ye tokhm-e-morgh va za'farān rā bā ham makhlut konid.",
+   "en": "Mix the yoghurt, egg yolks and saffron together."
+  },
+  {
+   "fa": "مرغ پخته را ریش‌ریش کنید.",
+   "r": "morgh-e pokhte rā rish-rish konid.",
+   "en": "Shred the cooked chicken."
+  },
+  {
+   "fa": "ته ظرف را خوب چرب کنید.",
+   "r": "tah-e zarf rā khub charb konid.",
+   "en": "Grease the bottom of the dish well.",
+   "col": "ته ظرفو خوب چرب کن.",
+   "colR": "tah-e zarf-o khub charb kon."
+  },
+  {
+   "fa": "برنج را با پشت قاشق محکم فشار بدهید.",
+   "r": "berenj rā bā posht-e ghāshogh mohkam feshār be-dahid.",
+   "en": "Press the rice down firmly with the back of a spoon."
+  },
+  {
+   "fa": "روی ظرف را با فویل بپوشانید.",
+   "r": "ru-ye zarf rā bā foyl be-pushānid.",
+   "en": "Cover the dish with foil."
+  },
+  {
+   "fa": "بگذارید ته‌چین دو ساعت در فر بپزد.",
+   "r": "be-gozārid tah-chin do sā'at dar fer be-pazad.",
+   "en": "Let the tahchin bake in the oven for two hours.",
+   "col": "بذار ته‌چین دو ساعت تو فر بپزه.",
+   "colR": "be-zār tah-chin do sā'at tu fer be-paze."
+  },
+  {
+   "fa": "ته‌چین را برگردانید تا ته‌دیگش رو بیاید.",
+   "r": "tah-chin rā bar-gardānid tā tah-dig-ash ru bi-yāyad.",
+   "en": "Turn the tahchin out so that its crust is on top."
+  },
+  {
+   "fa": "زرشک را با کمی شکر و کره تفت بدهید.",
+   "r": "zereshk rā bā kami shekar o kare taft be-dahid.",
+   "en": "Toss the barberries in a little sugar and butter."
+  },
+  {
+   "fa": "ته‌چین را مثل کیک برش بزنید.",
+   "r": "tah-chin rā mesl-e keyk boresh be-zanid.",
+   "en": "Slice the tahchin like a cake."
+  }
+ ],
+ "vocab": [
+  {"fa": "ته‌چین", "r": "tah-chin", "en": "tahchin, baked saffron rice cake"},
+  {"fa": "ته‌دیگ", "r": "tah-dig", "en": "tahdig, the crisp crust of a rice dish"},
+  {"fa": "برنج", "r": "berenj", "en": "rice"},
+  {"fa": "ماست", "r": "māst", "en": "yoghurt"},
+  {"fa": "زرده", "r": "zarde", "en": "egg yolk"},
+  {"fa": "زعفران", "r": "za'farān", "en": "saffron"},
+  {"fa": "کره", "r": "kare", "en": "butter"},
+  {"fa": "زرشک", "r": "zereshk", "en": "barberries"},
+  {"fa": "پسته", "r": "peste", "en": "pistachio"},
+  {"fa": "ظرف", "r": "zarf", "en": "dish, container"},
+  {"fa": "فر", "r": "fer", "en": "oven"},
+  {"fa": "جوشاندن", "r": "jushāndan", "en": "to boil (something)"},
+  {"fa": "آبکش کردن", "r": "ābkesh kardan", "en": "to drain in a colander"},
+  {"fa": "خیس کردن", "r": "khis kardan", "en": "to soak"},
+  {"fa": "چرب کردن", "r": "charb kardan", "en": "to grease"},
+  {"fa": "فشار دادن", "r": "feshār dādan", "en": "to press"},
+  {"fa": "ریش‌ریش کردن", "r": "rish-rish kardan", "en": "to shred"},
+  {"fa": "برگرداندن", "r": "bar-gardāndan", "en": "to turn over, to turn out"}
+ ],
+ "facts": [
+  "Tahchin means 'arranged at the bottom', from tah 'bottom' and chidan 'to arrange'.",
+  "Yoghurt and egg yolk make the rice set firm, and saffron gives it its colour.",
+  "The whole base and sides of a tahchin become a golden crust, like one large tahdig.",
+  "Cooks like glass dishes for tahchin because they can check the crust without turning it out.",
+  "Tahchin is a party dish, usually served in squares or wedges with salad and yoghurt."
+ ]
+}

@@ -255,10 +255,10 @@ Surnames are young – they were made compulsory only in 1925 – and often tell
 
 **Put the words in order**
 
-1. شما / چیست؟ / اسم — What is your name?
-2. من / هستم. / اهل / شیراز — I am from Shiraz.
-3. نیست. / معلم / او / ما — He is not our teacher.
-4. آن‌ها / دانشجو / هستند. / هم — They are students too.
+1. اسم / چیست؟ / شما — What is your name?
+2. هستم. / من / شیراز / اهل — I am from Shiraz.
+3. او / ما / نیست. / معلم — He is not our teacher.
+4. هم / دانشجو / آن‌ها / هستند. — They are students too.
 
 <details><summary>Answers</summary>
 

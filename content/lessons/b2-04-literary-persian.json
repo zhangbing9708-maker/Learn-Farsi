@@ -22,79 +22,107 @@
     {
      "fa": "پدربزرگم مردی کم‌سخن بود و بیشتر روزها را در کتابخانه‌ی کوچکش می‌گذراند.",
      "r": "pedarbozorg-am mard-i kam-sokhan bud va bishtar-e ruz-hā rā dar ketābkhāne-ye kuchak-ash mi-gozarānd.",
-     "en": "My grandfather was a man of few words, and he spent most of his days in his small library."
+     "en": "My grandfather was a man of few words, and he spent most of his days in his small library.",
+     "faV": "پِدَربُزُرگَم مَردی کَم‌سُخَن بود و بیشتَرِ روزها را دَر کِتابخانه‌یِ کوچَکَش می‌گُذَراند.",
+     "a": "ab27cde88240"
     },
     {
      "fa": "اتاقی بود رو به حیاط، با پنجره‌ای بلند و قفسه‌هایی که تا سقف می‌رسید.",
      "r": "otāgh-i bud ru be hayāt, bā panjare-i boland va ghafase-hā-yi ke tā saghf mi-resid.",
      "en": "It was a room facing the courtyard, with a tall window and shelves that reached the ceiling.",
-     "note": "The verb [[بود|bud]] comes second, and the description follows it – a typical literary order."
+     "note": "The verb [[بود|bud]] comes second, and the description follows it – a typical literary order.",
+     "faV": "اُتاقی بود رو به حَیاط، با پَنجَره‌ای بُلَند و قَفَسه‌هایی که تا سَقف می‌رِسید.",
+     "a": "e5041cd42a53"
     },
     {
      "fa": "هر بامداد، پیش از آن‌که خانه بیدار شود، چراغ آن اتاق روشن بود.",
      "r": "har bāmdād, pish az ān-ke khāne bidār shavad, cherāgh-e ān otāgh roshan bud.",
-     "en": "Every morning, before the house woke up, the lamp in that room was already lit."
+     "en": "Every morning, before the house woke up, the lamp in that room was already lit.",
+     "faV": "هَر بامداد، پیش اَز آن‌که خانه بیدار شَوَد، چِراغِ آن اُتاق روشَن بود.",
+     "a": "7097d39d4acc"
     },
     {
      "fa": "سعدی را بسیار دوست می‌داشت و دیوان حافظ را از بر داشت.",
      "r": "Sa'di rā besyār dust mi-dāsht va divān-e Hāfez rā az bar dāsht.",
      "en": "He loved Saadi dearly and knew the Divan of Hafez by heart.",
-     "note": "[[دوست می‌داشت|dust mi-dāsht]] is the literary past of [[دوست داشت|dust dāsht]]; everyday Persian never puts می on داشتن."
+     "note": "[[دوست می‌داشت|dust mi-dāsht]] is the literary past of [[دوست داشت|dust dāsht]]; everyday Persian never puts می on داشتن.",
+     "faV": "سَعدی را بِسیار دوست می‌داشت و دیوانِ حافِظ را اَز بَر داشت.",
+     "a": "3ccdb124fc25"
     },
     {
      "fa": "گاه بیتی می‌خواند و دیرزمانی خاموش می‌ماند، چنان‌که گویی با کسی سخن می‌گوید.",
      "r": "gāh beyt-i mi-khānd va dirzamān-i khāmush mi-mānd, chonān-ke guyi bā kas-i sokhan mi-guyad.",
      "en": "Now and then he would read a couplet and stay silent for a long time, as if he were talking to someone.",
-     "note": "[[گاه|gāh]] = [[گاهی|gāhi]]; [[گویی|guyi]] 'as if' (literally 'you would say')."
+     "note": "[[گاه|gāh]] = [[گاهی|gāhi]]; [[گویی|guyi]] 'as if' (literally 'you would say').",
+     "faV": "گاه بَیتی می‌خواند و دیرزَمانی خاموش می‌ماند، چُنان‌که گویی با کَسی سُخَن می‌گویَد.",
+     "a": "e0c67246e8b4"
     },
     {
      "fa": "من کودکی هفت‌ساله بودم و از آن اتاق اندکی می‌ترسیدم.",
      "r": "man kudak-i haft-sāle budam va az ān otāgh andak-i mi-tarsidam.",
-     "en": "I was a child of seven and a little afraid of that room."
+     "en": "I was a child of seven and a little afraid of that room.",
+     "faV": "مَن کودَکی هَفت‌ساله بودَم و اَز آن اُتاق اَندَکی می‌تَرسیدَم.",
+     "a": "761f182197cf"
     },
     {
      "fa": "روزی مرا نزد خود خواند و کتابی کهنه به دستم داد.",
      "r": "ruz-i marā nazd-e khod khānd va ketāb-i kohne be dast-am dād.",
      "en": "One day he called me to him and put an old book in my hands.",
-     "note": "[[خواندن|khāndan]] here means 'to call, summon', not 'to read'; [[نزد|nazd-e]] 'near, to (a person)'."
+     "note": "[[خواندن|khāndan]] here means 'to call, summon', not 'to read'; [[نزد|nazd-e]] 'near, to (a person)'.",
+     "faV": "روزی مَرا نَزدِ خود خواند و کِتابی کُهنه به دَستَم داد.",
+     "a": "b8a3c4880590"
     },
     {
      "fa": "گفت: این گلستان است؛ اکنون شاید نفهمی، اما روزی خواهی فهمید.",
      "r": "goft: in golestān ast; aknun shāyad na-fahmi, ammā ruz-i khāhi fahmid.",
-     "en": "He said, 'This is the Golestan. Perhaps you won't understand it now, but one day you will.'"
+     "en": "He said, 'This is the Golestan. Perhaps you won't understand it now, but one day you will.'",
+     "faV": "گُفت: این گُلِستان اَست؛ اَکنون شایَد نَفَهمی، اَمّا روزی خواهی فَهمید.",
+     "a": "e06d49de15a7"
     },
     {
      "fa": "آن روز تنها یک جمله‌اش را فهمیدم و آن را بارها برای خود تکرار کردم.",
      "r": "ān ruz tanhā yek jomle-ash rā fahmidam va ān rā bār-hā barā-ye khod tekrār kardam.",
-     "en": "That day I understood only one of its sentences, and I repeated it to myself over and over."
+     "en": "That day I understood only one of its sentences, and I repeated it to myself over and over.",
+     "faV": "آن روز تَنها یِک جُمله‌اَش را فَهمیدَم و آن را بارها بَرایِ خود تِکرار کَردَم.",
+     "a": "0b11116bd21b"
     },
     {
      "fa": "سال‌ها گذشت؛ پدربزرگ درگذشت و خانه فروخته شد.",
      "r": "sāl-hā gozasht; pedarbozorg dargozasht va khāne forukhte shod.",
      "en": "Years passed; Grandfather died and the house was sold.",
-     "note": "[[درگذشت|dargozasht]] 'passed away' – the literary and respectful word for [[مرد|mord]] 'died'."
+     "note": "[[درگذشت|dargozasht]] 'passed away' – the literary and respectful word for [[مرد|mord]] 'died'.",
+     "faV": "سال‌ها گُذَشت؛ پِدَربُزُرگ دَرگُذَشت و خانه فُروخته شُد.",
+     "a": "e8fae6f0e5fa"
     },
     {
      "fa": "کتاب‌ها میان فرزندان و نوه‌ها پخش شد و کتابخانه از میان رفت.",
      "r": "ketāb-hā miyān-e farzandān o nave-hā pakhsh shod va ketābkhāne az miyān raft.",
-     "en": "The books were shared out among his children and grandchildren, and the library was no more."
+     "en": "The books were shared out among his children and grandchildren, and the library was no more.",
+     "faV": "کِتاب‌ها میانِ فَرزَندان و نَوه‌ها پَخش شُد و کِتابخانه اَز میان رَفت.",
+     "a": "9989827b4a30"
     },
     {
      "fa": "اما آن گلستان کهنه اکنون بر میز من است، با یادداشت‌هایی به خط او در حاشیه.",
      "r": "ammā ān golestān-e kohne aknun bar miz-e man ast, bā yāddāsht-hā-yi be khatt-e u dar hāshiye.",
      "en": "But that old Golestan is now on my desk, with notes in his handwriting in the margins.",
-     "note": "[[بر|bar]] 'on' is the literary [[روی|ru-ye]]."
+     "note": "[[بر|bar]] 'on' is the literary [[روی|ru-ye]].",
+     "faV": "اَمّا آن گُلِستانِ کُهنه اَکنون بَر میزِ مَن اَست، با یادداشت‌هایی به خَطِّ او دَر حاشیه.",
+     "a": "39e177c18ee1"
     },
     {
      "fa": "هر بار که آن را می‌گشایم، بوی کاغذ کهنه مرا به آن بامدادها بازمی‌گرداند.",
      "r": "har bār ke ān rā mi-goshāyam, bu-ye kāghaz-e kohne marā be ān bāmdād-hā bāz-mi-gardānad.",
      "en": "Every time I open it, the smell of old paper takes me back to those mornings.",
-     "note": "[[گشودن|goshudan]] (present stem گشا) is the literary [[باز کردن|bāz kardan]] 'to open'."
+     "note": "[[گشودن|goshudan]] (present stem گشا) is the literary [[باز کردن|bāz kardan]] 'to open'.",
+     "faV": "هَر بار که آن را می‌گُشایَم، بویِ کاغَذِ کُهنه مَرا به آن بامدادها بازمی‌گَردانَد.",
+     "a": "cbc6dd4d0da0"
     },
     {
      "fa": "و اکنون می‌فهمم که چرا آن مرد کم‌سخن این همه با کتاب‌ها سخن می‌گفت.",
      "r": "va aknun mi-fahmam ke cherā ān mard-e kam-sokhan in hame bā ketāb-hā sokhan mi-goft.",
-     "en": "And now I understand why that man of few words talked so much with his books."
+     "en": "And now I understand why that man of few words talked so much with his books.",
+     "faV": "و اَکنون می‌فَهمَم که چِرا آن مَردِ کَم‌سُخَن این هَمه با کِتاب‌ها سُخَن می‌گُفت.",
+     "a": "e4605cc5fd6b"
     }
    ],
    "questions": [
@@ -140,13 +168,17 @@
      "fa": "ادبی",
      "r": "adabi",
      "en": "literary",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "اَدَبی",
+     "a": "280c71e8ab6b"
     },
     {
      "fa": "محاوره‌ای",
      "r": "mohāvere-i",
      "en": "colloquial, conversational",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "مُحاوِره‌ای",
+     "a": "c21b9afd7686"
     },
     {
      "fa": "کتابی",
@@ -156,139 +188,185 @@
      "ex": {
       "fa": "این‌قدر کتابی حرف نزن!",
       "r": "in-ghadr ketābi harf na-zan!",
-      "en": "Don't talk so much like a book!"
-     }
+      "en": "Don't talk so much like a book!",
+      "faV": "این‌قَدر کِتابی حَرف نَزَن!",
+      "a": "e4da3e608ee4"
+     },
+     "faV": "کِتابی",
+     "a": "42098315b80a"
     },
     {
      "fa": "بامداد",
      "r": "bāmdād",
      "en": "morning, daybreak (literary)",
-     "pos": "n"
+     "pos": "n",
+     "faV": "بامداد",
+     "a": "9cfca69f9d13"
     },
     {
      "fa": "اکنون",
      "r": "aknun",
      "en": "now (literary)",
-     "pos": "adv"
+     "pos": "adv",
+     "faV": "اَکنون",
+     "a": "bf4dae3d98ed"
     },
     {
      "fa": "سپس",
      "r": "sepas",
      "en": "then, afterwards",
-     "pos": "adv"
+     "pos": "adv",
+     "faV": "سِپَس",
+     "a": "e1987a27d7f5"
     },
     {
      "fa": "چنین",
      "r": "chenin",
      "en": "such; thus, like this",
-     "pos": "adv"
+     "pos": "adv",
+     "faV": "چِنین",
+     "a": "40e544567ac8"
     },
     {
      "fa": "بسیار",
      "r": "besyār",
      "en": "very, much, many",
-     "pos": "adv"
+     "pos": "adv",
+     "faV": "بِسیار",
+     "a": "1d8d5b16286a"
     },
     {
      "fa": "اندکی",
      "r": "andak-i",
      "en": "a little",
-     "pos": "adv"
+     "pos": "adv",
+     "faV": "اَندَکی",
+     "a": "f71ee081b747"
     },
     {
      "fa": "خویش",
      "r": "khish",
      "en": "(one's) own, oneself",
      "pos": "pron",
-     "note": "the literary [[خود|khod]]; [[خویشاوند|khishāvand]] is a relative"
+     "note": "the literary [[خود|khod]]; [[خویشاوند|khishāvand]] is a relative",
+     "faV": "خویش",
+     "a": "b668b58d878b"
     },
     {
      "fa": "نزد",
      "r": "nazd",
      "en": "near, with, to (a person)",
-     "pos": "prep"
+     "pos": "prep",
+     "faV": "نَزد",
+     "a": "7603cfffcfdd"
     },
     {
      "fa": "گشودن",
      "r": "goshudan",
      "en": "to open (literary)",
      "pos": "v",
-     "note": "present stem گشا (goshā)"
+     "note": "present stem گشا (goshā)",
+     "faV": "گُشودَن",
+     "a": "49ee97d55391"
     },
     {
      "fa": "نگریستن",
      "r": "negaristan",
      "en": "to look, gaze (literary)",
      "pos": "v",
-     "note": "present stem نگر (negar)"
+     "note": "present stem نگر (negar)",
+     "faV": "نِگَریستَن",
+     "a": "69b0c56393f7"
     },
     {
      "fa": "عزیمت کردن",
      "r": "azimat kardan",
      "en": "to set off, depart (formal)",
-     "pos": "v"
+     "pos": "v",
+     "faV": "عَزیمَت کَردَن",
+     "a": "9bf23681c9cf"
     },
     {
      "fa": "فرمودن",
      "r": "farmudan",
      "en": "to say (of a respected person); to command",
      "pos": "v",
-     "note": "present stem فرما (farmā), as in [[بفرمایید|befarmāyid]]"
+     "note": "present stem فرما (farmā), as in [[بفرمایید|befarmāyid]]",
+     "faV": "فَرمودَن",
+     "a": "973db11744ab"
     },
     {
      "fa": "درگذشتن",
      "r": "dargozashtan",
      "en": "to pass away",
-     "pos": "v"
+     "pos": "v",
+     "faV": "دَرگُذَشتَن",
+     "a": "519189f793df"
     },
     {
      "fa": "توانگر",
      "r": "tavāngar",
      "en": "rich, wealthy (literary)",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "تَوانگَر",
+     "a": "203833e84d58"
     },
     {
      "fa": "بخیل",
      "r": "bakhil",
      "en": "miserly; a miser",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "بَخیل",
+     "a": "5333c1d68704"
     },
     {
      "fa": "تهی‌دست",
      "r": "tohi-dast",
      "en": "empty-handed, poor",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "تُهی‌دَست",
+     "a": "00ba00e2a4e2"
     },
     {
      "fa": "شرمسار",
      "r": "sharmsār",
      "en": "ashamed",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "شَرمسار",
+     "a": "acfcd9acb932"
     },
     {
      "fa": "آورده‌اند",
      "r": "āvarde-and",
      "en": "it is related, they tell (opening of an old tale)",
-     "pos": "phrase"
+     "pos": "phrase",
+     "faV": "آوَرده‌اَند",
+     "a": "b5c0cab796d3"
     },
     {
      "fa": "دریغ",
      "r": "darigh",
      "en": "regret, pity",
      "pos": "n",
-     "note": "[[دریغا|darighā]] 'alas!'; [[دریغ کردن|darigh kardan]] 'to hold back, begrudge'"
+     "note": "[[دریغا|darighā]] 'alas!'; [[دریغ کردن|darigh kardan]] 'to hold back, begrudge'",
+     "faV": "دَریغ",
+     "a": "31bd31d29a4d"
     },
     {
      "fa": "همواره",
      "r": "hamvāre",
      "en": "always (literary)",
-     "pos": "adv"
+     "pos": "adv",
+     "faV": "هَمواره",
+     "a": "688b25b19209"
     },
     {
      "fa": "زیرا",
      "r": "zirā",
      "en": "because (written)",
-     "pos": "conj"
+     "pos": "conj",
+     "faV": "زیرا",
+     "a": "eb0c60f985f2"
     }
    ]
   },
@@ -344,38 +422,52 @@
     {
      "fa": "او شاعر بود و برادرش نقاش.",
      "r": "u shā'er bud va barādar-ash naghghāsh.",
-     "en": "He was a poet and his brother a painter."
+     "en": "He was a poet and his brother a painter.",
+     "faV": "او شاعِر بود و بَرادَرَش نَقّاش.",
+     "a": "09b07527dd6a"
     },
     {
      "fa": "وزیر آموزش به تبریز رفت و معاونش به شیراز.",
      "r": "vazir-e āmuzesh be Tabriz raft va mo'āven-ash be Shirāz.",
      "en": "The education minister went to Tabriz and his deputy to Shiraz.",
-     "note": "A typical news sentence: the second رفت is understood."
+     "note": "A typical news sentence: the second رفت is understood.",
+     "faV": "وَزیرِ آموزِش به تَبریز رَفت و مُعاوِنَش به شیراز.",
+     "a": "962ba664d23b"
     },
     {
      "fa": "به خانه بازگشته، نامه را گشود.",
      "r": "be khāne bāz-gashte, nāme rā goshud.",
-     "en": "Having returned home, he opened the letter."
+     "en": "Having returned home, he opened the letter.",
+     "faV": "به خانه بازگَشته، نامه را گُشود.",
+     "a": "dc2ce2ca4366"
     },
     {
      "fa": "کتاب را بسته، به پنجره نگریست.",
      "r": "ketāb rā baste, be panjare negarist.",
-     "en": "Closing the book, he looked towards the window."
+     "en": "Closing the book, he looked towards the window.",
+     "faV": "کِتاب را بَسته، به پَنجَره نِگَریست.",
+     "a": "31424a5f2e3b"
     },
     {
      "fa": "چنین گفت پیرمرد.",
      "r": "chenin goft pirmard.",
-     "en": "Thus spoke the old man."
+     "en": "Thus spoke the old man.",
+     "faV": "چِنین گُفت پیرمَرد.",
+     "a": "07d43cbf84eb"
     },
     {
      "fa": "دیدمش و شناختمش.",
      "r": "didam-ash va shenākhtam-ash.",
-     "en": "I saw him and recognised him."
+     "en": "I saw him and recognised him.",
+     "faV": "دیدَمَش و شِناختَمَش.",
+     "a": "d0c6a63f85a1"
     },
     {
      "fa": "مرا نزد خود خواند.",
      "r": "marā nazd-e khod khānd.",
-     "en": "He called me to him."
+     "en": "He called me to him.",
+     "faV": "مَرا نَزدِ خود خواند.",
+     "a": "b86bc87eb090"
     }
    ]
   },
@@ -494,47 +586,63 @@
      "fa": "دلا بسوز که سوز تو کارها بکند / نیاز نیم‌شبی دفع صد بلا بکند",
      "r": "delā besuz ke suz-e to kār-hā bokonad / niyāz-e nim-shab-i daf'-e sad balā bokonad",
      "en": "Burn, O heart, for your burning will get things done; a prayer at midnight wards off a hundred calamities.",
-     "note": "Hafez. [[دلا|delā]] is the vocative 'O heart'; [[بکند|bokonad]] with be- here simply means [[می‌کند|mi-konad]]."
+     "note": "Hafez. [[دلا|delā]] is the vocative 'O heart'; [[بکند|bokonad]] with be- here simply means [[می‌کند|mi-konad]].",
+     "faV": "دِلا بِسوز که سوزِ تو کارها بُکُنَد / نیازِ نیم‌شَبی دَفعِ صَد بَلا بُکُنَد",
+     "a": "0f9796e37cb2"
     },
     {
      "fa": "حضوری گر همی‌خواهی از او غایب مشو حافظ",
      "r": "hozur-i gar hami-khāhi az u ghāyeb masho Hāfez",
      "en": "If you want his presence, Hafez, do not be absent from him.",
-     "note": "Three old forms in one half-line: [[گر|gar]] 'if', [[همی‌|hami-]] 'mi-', [[مشو|masho]] 'don't be'."
+     "note": "Three old forms in one half-line: [[گر|gar]] 'if', [[همی‌|hami-]] 'mi-', [[مشو|masho]] 'don't be'.",
+     "faV": "حُضوری گَر هَمی‌خواهی اَز او غایِب مَشو حافِظ",
+     "a": "2bcf88537392"
     },
     {
      "fa": "چو عضوی به درد آورد روزگار / دگر عضوها را نماند قرار",
      "r": "cho ozv-i be dard āvarad ruzgār / degar ozv-hā rā namānad gharār",
      "en": "When the world brings pain to one limb, the other limbs can find no rest.",
-     "note": "Saadi. [[چو|cho]] 'when', [[دگر|degar]] 'other', [[نماند|namānad]] = [[نمی‌ماند|nemi-mānad]]; [[عضوها را … قرار نماند|ozv-hā rā … gharār namānad]] 'the limbs have no rest' – را marks the one who has."
+     "note": "Saadi. [[چو|cho]] 'when', [[دگر|degar]] 'other', [[نماند|namānad]] = [[نمی‌ماند|nemi-mānad]]; [[عضوها را … قرار نماند|ozv-hā rā … gharār namānad]] 'the limbs have no rest' – را marks the one who has.",
+     "faV": "چو عُضوی به دَرد آوَرَد روزگار / دِگَر عُضوها را نَمانَد قَرار",
+     "a": "c42e172b0f30"
     },
     {
      "fa": "مر زبان را مشتری جز گوش نیست",
      "r": "mar zabān rā moshtari joz gush nist",
      "en": "The tongue has no customer but the ear.",
-     "note": "Rumi. [[مر … را|mar … rā]] frames 'for the tongue'."
+     "note": "Rumi. [[مر … را|mar … rā]] frames 'for the tongue'.",
+     "faV": "مَر زَبان را مُشتَری جُز گوش نیست",
+     "a": "fded7024a460"
     },
     {
      "fa": "پیرمردی هر بامداد به بازار رفتی و نان خریدی.",
      "r": "pirmard-i har bāmdād be bāzār rafti va nān kharidi.",
      "en": "An old man used to go to the market every morning and buy bread.",
-     "note": "In the style of old prose: [[رفتی|rafti]] = [[می‌رفت|mi-raft]], [[خریدی|kharidi]] = [[می‌خرید|mi-kharid]]."
+     "note": "In the style of old prose: [[رفتی|rafti]] = [[می‌رفت|mi-raft]], [[خریدی|kharidi]] = [[می‌خرید|mi-kharid]].",
+     "faV": "پیرمَردی هَر بامداد به بازار رَفتی و نان خَریدی.",
+     "a": "9282873e886a"
     },
     {
      "fa": "این بگفت و برفت.",
      "r": "in begoft o beraft.",
-     "en": "He said this and left."
+     "en": "He said this and left.",
+     "faV": "این بِگُفت و بِرَفت.",
+     "a": "c28e56ada4ff"
     },
     {
      "fa": "دریغا که آن روزها گذشت!",
      "r": "darighā ke ān ruz-hā gozasht!",
-     "en": "Alas, those days are gone!"
+     "en": "Alas, those days are gone!",
+     "faV": "دَریغا که آن روزها گُذَشت!",
+     "a": "ecc25d9368cd"
     },
     {
      "fa": "ار نیک بنگری، این کار آسان است.",
      "r": "ar nik bengari, in kār āsān ast.",
      "en": "If you look closely, this task is easy.",
-     "note": "[[ار|ar]] = [[اگر|agar]]; [[نیک|nik]] 'well, closely' is the literary [[خوب|khub]]; [[بنگری|bengari]] from [[نگریستن|negaristan]]."
+     "note": "[[ار|ar]] = [[اگر|agar]]; [[نیک|nik]] 'well, closely' is the literary [[خوب|khub]]; [[بنگری|bengari]] from [[نگریستن|negaristan]].",
+     "faV": "اَر نیک بِنگَری، این کار آسان اَست.",
+     "a": "49dcbfa169e9"
     }
    ]
   },
@@ -697,33 +805,51 @@
      "r": "ostād farmudand ke jalase-ye ba'd emtehān ast.",
      "en": "The professor said that there will be an exam next session.",
      "col": "استاد گفتن جلسه‌ی بعد امتحانه.",
-     "colR": "ostād goftan jalase-ye ba'd emtehān-e."
+     "colR": "ostād goftan jalase-ye ba'd emtehān-e.",
+     "faV": "اُستاد فَرمودَند که جَلَسه‌یِ بَعد اِمتِحان اَست.",
+     "a": "7ce7aa54f3d3",
+     "colV": "اُستاد گُفتَن جَلَسه‌یِ بَعد اِمتِحانه.",
+     "colA": "53e52593adde"
     },
     {
      "fa": "هیئت ایرانی امروز صبح به ژنو عزیمت کرد.",
      "r": "hey'at-e irāni emruz sobh be Zhenev azimat kard.",
-     "en": "The Iranian delegation left for Geneva this morning."
+     "en": "The Iranian delegation left for Geneva this morning.",
+     "faV": "هَیئَتِ ایرانی اِمروز صُبح به ژِنِو عَزیمَت کَرد.",
+     "a": "b655c381ad17"
     },
     {
      "fa": "اکنون زمان آن رسیده است که تصمیم بگیریم.",
      "r": "aknun zamān-e ān reside ast ke tasmim begirim.",
      "en": "Now the time has come for us to decide.",
      "col": "الان وقتشه که تصمیم بگیریم.",
-     "colR": "alān vaght-esh-e ke tasmim begirim."
+     "colR": "alān vaght-esh-e ke tasmim begirim.",
+     "faV": "اَکنون زَمانِ آن رِسیده اَست که تَصمیم بِگیریم.",
+     "a": "9d0b4cabcfce",
+     "colV": "اَلان وَقتِشه که تَصمیم بِگیریم.",
+     "colA": "75f3cf5f0faa"
     },
     {
      "fa": "پدرش سال گذشته دار فانی را وداع گفت.",
      "r": "pedar-ash sāl-e gozashte dār-e fāni rā vedā' goft.",
      "en": "His father passed away last year.",
      "col": "باباش پارسال فوت کرد.",
-     "colR": "bābā-sh pārsāl fowt kard."
+     "colR": "bābā-sh pārsāl fowt kard.",
+     "faV": "پِدَرَش سالِ گُذَشته دارِ فانی را وِداع گُفت.",
+     "a": "195e537f5883",
+     "colV": "باباش پارسال فَوت کَرد.",
+     "colA": "d7cb6509072f"
     },
     {
      "fa": "مهمانان یکی پس از دیگری وارد شدند.",
      "r": "mehmānān yek-i pas az digar-i vāred shodand.",
      "en": "The guests came in one after another.",
      "col": "مهمونا یکی‌یکی اومدن.",
-     "colR": "mehmun-ā yeki-yeki umadan."
+     "colR": "mehmun-ā yeki-yeki umadan.",
+     "faV": "مِهمانان یِکی پَس اَز دیگَری وارِد شُدَند.",
+     "a": "6084060c142e",
+     "colV": "مِهمونا یِکی‌یِکی اومَدَن.",
+     "colA": "aba2faa7ccc7"
     },
     {
      "fa": "وی در سال ۱۳۳۰ در تبریز دیده به جهان گشود.",
@@ -731,14 +857,22 @@
      "en": "He was born in Tabriz in 1330 (1951).",
      "note": "[[وی|vey]] is the written 'he/she' of the news.",
      "col": "اون سال سی تو تبریز به دنیا اومد.",
-     "colR": "un sāl-e si tu Tabriz be donyā umad."
+     "colR": "un sāl-e si tu Tabriz be donyā umad.",
+     "faV": "وَی دَر سالِ ۱۳۳۰ دَر تَبریز دیده به جَهان گُشود.",
+     "a": "e01207d25bf6",
+     "colV": "اون سالِ سی تو تَبریز به دُنیا اومَد.",
+     "colA": "fefdf9df8cca"
     },
     {
      "fa": "از یاری شما بسیار سپاسگزارم.",
      "r": "az yāri-ye shomā besyār sepāsgozār-am.",
      "en": "I am most grateful for your help.",
      "col": "خیلی ممنون که کمکم کردین.",
-     "colR": "kheyli mamnun ke komak-am kardin."
+     "colR": "kheyli mamnun ke komak-am kardin.",
+     "faV": "اَز یاریِ شُما بِسیار سِپاسگُزارَم.",
+     "a": "bd35f380a4f8",
+     "colV": "خَیلی مَمنون که کُمَکَم کَردین.",
+     "colA": "b97daaaaa4c9"
     }
    ]
   },
@@ -751,67 +885,91 @@
      "fa": "آورده‌اند که در شهر یزد بازرگانی بود سخت توانگر و بخیل.",
      "r": "āvarde-and ke dar shahr-e Yazd bāzargān-i bud sakht tavāngar o bakhil.",
      "en": "It is told that in the city of Yazd there was a merchant, exceedingly rich and miserly.",
-     "note": "[[سخت|sakht]] here means 'very'. The description follows the verb [[بود|bud]]."
+     "note": "[[سخت|sakht]] here means 'very'. The description follows the verb [[بود|bud]].",
+     "faV": "آوَرده‌اَند که دَر شَهرِ یَزد بازَرگانی بود سَخت تَوانگَر و بَخیل.",
+     "a": "d9b0845f4227"
     },
     {
      "fa": "هر شب زر خویش بشمردی و در صندوقی نهادی.",
      "r": "har shab zar-e khish beshmordi va dar sandugh-i nahādi.",
      "en": "Every night he would count his gold and put it away in a chest.",
-     "note": "[[بشمردی|beshmordi]] = [[می‌شمرد|mi-shemord]], [[نهادی|nahādi]] = [[می‌گذاشت|mi-gozāsht]]."
+     "note": "[[بشمردی|beshmordi]] = [[می‌شمرد|mi-shemord]], [[نهادی|nahādi]] = [[می‌گذاشت|mi-gozāsht]].",
+     "faV": "هَر شَب زَرِ خویش بِشمُردی و دَر صَندوقی نَهادی.",
+     "a": "f32ea0f93ef0"
     },
     {
      "fa": "و همسایگان را از نان خویش بهره‌ای نبود.",
      "r": "va hamsāyegān rā az nān-e khish bahre-i nabud.",
      "en": "And his neighbours had no share of his bread.",
-     "note": "X را … نبود 'X did not have' – را marks the possessor."
+     "note": "X را … نبود 'X did not have' – را marks the possessor.",
+     "faV": "و هَمسایِگان را اَز نانِ خویش بَهره‌ای نَبود.",
+     "a": "dbaa1d562bc8"
     },
     {
      "fa": "روزی درویشی بر در خانه‌ی او آمد و نانی خواست.",
      "r": "ruz-i darvish-i bar dar-e khāne-ye u āmad o nān-i khāst.",
-     "en": "One day a dervish came to his door and asked for some bread."
+     "en": "One day a dervish came to his door and asked for some bread.",
+     "faV": "روزی دَرویشی بَر دَرِ خانه‌یِ او آمَد و نانی خواست.",
+     "a": "8dfd8bdfee0e"
     },
     {
      "fa": "بازرگان گفت: برو که این‌جا نان نیست.",
      "r": "bāzargān goft: borow ke in-jā nān nist.",
-     "en": "The merchant said, 'Go away – there is no bread here.'"
+     "en": "The merchant said, 'Go away – there is no bread here.'",
+     "faV": "بازَرگان گُفت: بُرَو که این‌جا نان نیست.",
+     "a": "3e2380d642c4"
     },
     {
      "fa": "درویش بخندید و گفت: نان هست، اما دل نیست.",
      "r": "darvish bekhandid o goft: nān hast, ammā del nist.",
-     "en": "The dervish laughed and said, 'There is bread – but there is no heart.'"
+     "en": "The dervish laughed and said, 'There is bread – but there is no heart.'",
+     "faV": "دَرویش بِخَندید و گُفت: نان هَست، اَمّا دِل نیست.",
+     "a": "c6feadb43e79"
     },
     {
      "fa": "بازرگان را این سخن خوش نیامد و در را ببست.",
      "r": "bāzargān rā in sokhan khosh nayāmad va dar rā bebast.",
      "en": "The merchant did not like these words and shut the door.",
-     "note": "X را خوش نیامد 'X did not like it' – literally 'to X it did not come pleasant'."
+     "note": "X را خوش نیامد 'X did not like it' – literally 'to X it did not come pleasant'.",
+     "faV": "بازَرگان را این سُخَن خوش نَیامَد و دَر را بِبَست.",
+     "a": "f04f95ba846e"
     },
     {
      "fa": "چندی برنیامد که دزدان به خانه‌اش ریختند و هر چه داشت ببردند.",
      "r": "chand-i bar-nayāmad ke dozdān be khāne-ash rikhtand va har che dāsht bebordand.",
      "en": "Before long, thieves broke into his house and carried off everything he had.",
-     "note": "[[چندی برنیامد که…|chandi bar-nayāmad ke…]] 'not much time passed before…'"
+     "note": "[[چندی برنیامد که…|chandi bar-nayāmad ke…]] 'not much time passed before…'",
+     "faV": "چَندی بَرنَیامَد که دُزدان به خانه‌اَش ریختَند و هَر چه داشت بِبُردَند.",
+     "a": "05afab4d9c3c"
     },
     {
      "fa": "بازرگان تهی‌دست بر سر کوی نشست و همی‌گریست.",
      "r": "bāzargān tohi-dast bar sar-e kuy neshast va hami-gerist.",
      "en": "The merchant, now empty-handed, sat at the end of the lane and wept and wept.",
-     "note": "[[کوی|kuy]] 'lane, quarter'; [[همی‌گریست|hami-gerist]] = [[گریه می‌کرد|gerye mi-kard]]."
+     "note": "[[کوی|kuy]] 'lane, quarter'; [[همی‌گریست|hami-gerist]] = [[گریه می‌کرد|gerye mi-kard]].",
+     "faV": "بازَرگان تُهی‌دَست بَر سَرِ کوی نِشَست و هَمی‌گِریست.",
+     "a": "0b1d84c4dff6"
     },
     {
      "fa": "همان درویش بگذشت و او را بدید و نان خویش با وی قسمت کرد.",
      "r": "hamān darvish bogzasht va u rā bedid va nān-e khish bā vey ghesmat kard.",
-     "en": "The same dervish passed by, saw him, and shared his own bread with him."
+     "en": "The same dervish passed by, saw him, and shared his own bread with him.",
+     "faV": "هَمان دَرویش بُگذَشت و او را بِدید و نانِ خویش با وَی قِسمَت کَرد.",
+     "a": "80092f1583db"
     },
     {
      "fa": "بازرگان شرمسار شد و گفت: امروز دانستم که توانگری به دل است، نه به مال.",
      "r": "bāzargān sharmsār shod o goft: emruz dānestam ke tavāngari be del ast, na be māl.",
-     "en": "The merchant was ashamed and said, 'Today I have learned that wealth is in the heart, not in possessions.'"
+     "en": "The merchant was ashamed and said, 'Today I have learned that wealth is in the heart, not in possessions.'",
+     "faV": "بازَرگان شَرمسار شُد و گُفت: اِمروز دانِستَم که تَوانگَری به دِل اَست، نه به مال.",
+     "a": "f8e5764607b0"
     },
     {
      "fa": "و از آن پس هر بامداد بر در خانه نان نهادی تا گرسنگان ببرند.",
      "r": "va az ān pas har bāmdād bar dar-e khāne nān nahādi tā gorosnegān bebarand.",
-     "en": "And from then on, every morning he would put bread at his door for the hungry to take."
+     "en": "And from then on, every morning he would put bread at his door for the hungry to take.",
+     "faV": "و اَز آن پَس هَر بامداد بَر دَرِ خانه نان نَهادی تا گُرُسنِگان بِبَرَند.",
+     "a": "b0d160a25eb2"
     }
    ],
    "questions": [
@@ -983,42 +1141,58 @@
     {
      "fa": "اکنون",
      "r": "aknun",
-     "en": "now"
+     "en": "now",
+     "faV": "اَکنون",
+     "a": "bf4dae3d98ed"
     },
     {
      "fa": "سپس",
      "r": "sepas",
-     "en": "then, afterwards"
+     "en": "then, afterwards",
+     "faV": "سِپَس",
+     "a": "e1987a27d7f5"
     },
     {
      "fa": "بامداد",
      "r": "bāmdād",
-     "en": "morning"
+     "en": "morning",
+     "faV": "بامداد",
+     "a": "9cfca69f9d13"
     },
     {
      "fa": "نگریستن",
      "r": "negaristan",
-     "en": "to look"
+     "en": "to look",
+     "faV": "نِگَریستَن",
+     "a": "69b0c56393f7"
     },
     {
      "fa": "گشودن",
      "r": "goshudan",
-     "en": "to open"
+     "en": "to open",
+     "faV": "گُشودَن",
+     "a": "49ee97d55391"
     },
     {
      "fa": "عزیمت کردن",
      "r": "azimat kardan",
-     "en": "to set off"
+     "en": "to set off",
+     "faV": "عَزیمَت کَردَن",
+     "a": "9bf23681c9cf"
     },
     {
      "fa": "درگذشتن",
      "r": "dargozashtan",
-     "en": "to pass away"
+     "en": "to pass away",
+     "faV": "دَرگُذَشتَن",
+     "a": "519189f793df"
     },
     {
      "fa": "توانگر",
      "r": "tavāngar",
-     "en": "rich"
+     "en": "rich",
+     "faV": "تَوانگَر",
+     "a": "203833e84d58"
     }
    ]
   },
@@ -1030,27 +1204,37 @@
     {
      "en": "Now I understand why he talked so much with his books.",
      "fa": "اکنون می‌فهمم که چرا این همه با کتاب‌هایش سخن می‌گفت.",
-     "r": "aknun mi-fahmam ke cherā in hame bā ketāb-hā-yash sokhan mi-goft."
+     "r": "aknun mi-fahmam ke cherā in hame bā ketāb-hā-yash sokhan mi-goft.",
+     "faV": "اَکنون می‌فَهمَم که چِرا این هَمه با کِتاب‌هایَش سُخَن می‌گُفت.",
+     "a": "7be30b04372d"
     },
     {
      "en": "Having opened the window, he looked at the courtyard.",
      "fa": "پنجره را گشوده، به حیاط نگریست.",
-     "r": "panjare rā goshude, be hayāt negarist."
+     "r": "panjare rā goshude, be hayāt negarist.",
+     "faV": "پَنجَره را گُشوده، به حَیاط نِگَریست.",
+     "a": "1b102a1a6718"
     },
     {
      "en": "His father was a merchant and his uncle a doctor.",
      "fa": "پدرش بازرگان بود و عمویش پزشک.",
-     "r": "pedar-ash bāzargān bud va amu-yash pezeshk."
+     "r": "pedar-ash bāzargān bud va amu-yash pezeshk.",
+     "faV": "پِدَرَش بازَرگان بود و عَمویَش پِزِشک.",
+     "a": "d1ec34f9880f"
     },
     {
      "en": "The minister set off for Isfahan this morning.",
      "fa": "وزیر امروز بامداد به اصفهان عزیمت کرد.",
-     "r": "vazir emruz bāmdād be Esfahān azimat kard."
+     "r": "vazir emruz bāmdād be Esfahān azimat kard.",
+     "faV": "وَزیر اِمروز بامداد به اِصفَهان عَزیمَت کَرد.",
+     "a": "cb19ba70aa49"
     },
     {
      "en": "I am very grateful for your help.",
      "fa": "از یاری شما بسیار سپاسگزارم.",
-     "r": "az yāri-ye shomā besyār sepāsgozār-am."
+     "r": "az yāri-ye shomā besyār sepāsgozār-am.",
+     "faV": "اَز یاریِ شُما بِسیار سِپاسگُزارَم.",
+     "a": "bd35f380a4f8"
     }
    ]
   },
@@ -1062,22 +1246,30 @@
     {
      "fa": "روزی مرا نزد خود خواند.",
      "r": "ruz-i marā nazd-e khod khānd.",
-     "en": "One day he called me to him."
+     "en": "One day he called me to him.",
+     "faV": "روزی مَرا نَزدِ خود خواند.",
+     "a": "48542d3ceb51"
     },
     {
      "fa": "هر شب زر خویش بشمردی.",
      "r": "har shab zar-e khish beshmordi.",
-     "en": "Every night he would count his gold."
+     "en": "Every night he would count his gold.",
+     "faV": "هَر شَب زَرِ خویش بِشمُردی.",
+     "a": "0d92100e9f73"
     },
     {
      "fa": "مهمانان یکی پس از دیگری وارد شدند.",
      "r": "mehmānān yek-i pas az digar-i vāred shodand.",
-     "en": "The guests came in one after another."
+     "en": "The guests came in one after another.",
+     "faV": "مِهمانان یِکی پَس اَز دیگَری وارِد شُدَند.",
+     "a": "6084060c142e"
     },
     {
      "fa": "سال‌ها گذشت و خانه فروخته شد.",
      "r": "sāl-hā gozasht va khāne forukhte shod.",
-     "en": "Years passed and the house was sold."
+     "en": "Years passed and the house was sold.",
+     "faV": "سال‌ها گُذَشت و خانه فُروخته شُد.",
+     "a": "2d0643110926"
     }
    ]
   },
@@ -1095,7 +1287,9 @@
       "The empty-handed merchant sat at the end of the lane and kept weeping.",
       "The merchant gave bread to everyone in the lane."
      ],
-     "answer": 1
+     "answer": 1,
+     "faV": "بازَرگان تُهی‌دَست بَر سَرِ کوی نِشَست و هَمی‌گِریست.",
+     "a": "0b1d84c4dff6"
     },
     {
      "fa": "اکنون زمان آن رسیده است که تصمیم بگیریم.",
@@ -1106,7 +1300,9 @@
       "There is no time to decide.",
       "Now the time has come for us to decide."
      ],
-     "answer": 2
+     "answer": 2,
+     "faV": "اَکنون زَمانِ آن رِسیده اَست که تَصمیم بِگیریم.",
+     "a": "9d0b4cabcfce"
     },
     {
      "fa": "وی در تبریز دیده به جهان گشود.",
@@ -1117,7 +1313,9 @@
       "He opened a shop in Tabriz.",
       "He saw the world from Tabriz."
      ],
-     "answer": 0
+     "answer": 0,
+     "faV": "وَی دَر تَبریز دیده به جَهان گُشود.",
+     "a": "899eb2346750"
     },
     {
      "fa": "این بگفت و برفت.",
@@ -1128,9 +1326,13 @@
       "Tell him and go.",
       "He did not say anything."
      ],
-     "answer": 0
+     "answer": 0,
+     "faV": "این بِگُفت و بِرَفت.",
+     "a": "c28e56ada4ff"
     }
    ]
   }
- ]
+ ],
+ "titleV": "فارسیِ اَدَبی",
+ "titleA": "681733878b50"
 }

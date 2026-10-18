@@ -90,8 +90,10 @@ Classical poetry, literary prose, the history of the language, dialects and Dari
 2. [Rumi and the reed](lessons/b2-02-rumi-and-the-reed.md) — مولانا و نی‌نامه
 3. [Saadi and Ferdowsi](lessons/b2-03-saadi-and-ferdowsi.md) — سعدی و فردوسی
 4. [Literary Persian](lessons/b2-04-literary-persian.md) — فارسی ادبی
+5. [Persian through the ages](lessons/b2-05-persian-through-the-ages.md) — فارسی در گذر زمان
 6. [Dari and Tajik: one language, three standards](lessons/b2-06-dari-and-tajik.md) — فارسی، دری، تاجیکی
 7. [Dialects and accents: the many voices of Iran](lessons/b2-07-dialects-and-accents.md) — لهجه‌ها و زبان‌های ایران
+8. [Advanced idioms: heart, hand, head and eye](lessons/b2-08-advanced-idioms.md) — اصطلاحات دل و دست و سر و چشم
 
 ## Part 6. Advanced (C1) — عالی
 
@@ -99,6 +101,7 @@ Academic and official Persian, translation, rhetoric, calligraphy and the words 
 
 1. [Academic Persian: how scholars write](lessons/c1-01-academic-persian.md) — فارسی دانشگاهی
 2. [Translation workshop](lessons/c1-02-translation-workshop.md) — کارگاه ترجمه
+3. [Rhetoric and style: figures of speech and making a speech](lessons/c1-03-rhetoric-and-style.md) — بلاغت و سبک
 
 ## Part 7. Stories — داستان‌ها
 
@@ -122,6 +125,8 @@ Graded readers, from very easy to literary.
 - [Friday in the park](stories/a1-friday-in-the-park.md) — جمعه در پارک
 - [The little sparrow](stories/a1-the-little-sparrow.md) — گنجشک کوچک
 - [My room](stories/a1-my-room.md) — اتاق من
+- [The bus to school](stories/a1-the-bus-to-school.md) — اتوبوس مدرسه
+- [A cake for Mother](stories/a1-a-cake-for-mother.md) — یک کیک برای مادر
 
 **Elementary (A2)**
 
@@ -140,6 +145,10 @@ Graded readers, from very easy to literary.
 - [The devoted farmer](stories/a2-the-devoted-farmer.md) — دهقان فداکار
 - [Nasreddin, his son and the donkey](stories/a2-nasreddin-and-the-donkey.md) — ملا، پسرش و الاغ
 - [Eat, my coat!](stories/a2-eat-my-coat.md) — ملا و لباس نو
+- [The mouse and the camel](stories/a2-the-mouse-and-the-camel.md) — موش و شتر
+- [The crow and the fox](stories/a2-the-crow-and-the-fox.md) — کلاغ و روباه
+- [Mina makes tahdig](stories/a2-mina-makes-tahdig.md) — ته‌دیگ مینا
+- [Snow day in Tehran](stories/a2-snow-day-in-tehran.md) — روز برفی در تهران
 
 **Intermediate (B1)**
 
@@ -171,6 +180,7 @@ Graded readers, from very easy to literary.
 
 - [The qanat diggers of Yazd](stories/c1-the-qanat-diggers-of-yazd.md) — مقنی‌های یزد
 - [Bizhan and Manizheh](stories/c1-bizhan-and-manizheh.md) — بیژن و منیژه
+- [The last caravanserai](stories/c1-the-last-caravanserai.md) — آخرین کاروان‌سرا
 
 ## Part 8. Iran in pictures and stories — فرهنگ ایران
 
@@ -178,8 +188,10 @@ Graded readers, from very easy to literary.
 
 - [Elam and the first cities](culture/history-elam-and-the-first-cities.md) — ایلام و نخستین شهرها
 - [Cyrus and the Achaemenids](culture/history-cyrus-and-the-achaemenids.md) — کوروش و هخامنشیان
+- [Darius and the Royal Road](culture/history-darius-and-the-royal-road.md) — داریوش و راه شاهی
 - [Persepolis](culture/history-persepolis.md) — تخت جمشید
 - [Alexander, the Parthians and the Sasanians](culture/history-alexander-parthians-sasanians.md) — اسکندر، اشکانیان و ساسانیان
+- [The Sasanians and Rome](culture/history-sasanians-and-rome.md) — ساسانیان و روم
 - [Zoroaster and the fire](culture/history-zoroaster-and-the-fire.md) — زرتشت و آتش
 - [Islam and the Persian renaissance](culture/history-islam-and-the-persian-renaissance.md) — اسلام و نوزایی فارسی
 - [The Silk Road](culture/history-the-silk-road.md) — جاده‌ی ابریشم
@@ -225,6 +237,10 @@ Graded readers, from very easy to literary.
 - [Saffron, dried limes and spices](culture/food-spices-saffron-and-dried-limes.md) — زعفران، لیمو عمانی و ادویه
 - [Eating out in Iran](culture/food-eating-out-in-iran.md) — بیرون غذا خوردن
 - [Fruit and ajil](culture/food-fruit-and-ajil.md) — میوه و آجیل
+- [Recipe: kashk-e bademjan](culture/food-recipe-kashk-e-bademjan.md) — کشک بادمجان
+- [Recipe: mirza ghasemi](culture/food-recipe-mirza-ghasemi.md) — میرزاقاسمی
+- [Recipe: salad Shirazi](culture/food-recipe-salad-shirazi.md) — سالاد شیرازی
+- [Recipe: tahchin](culture/food-recipe-tahchin.md) — ته‌چین
 
 **Festivals**
 
@@ -276,6 +292,8 @@ Graded readers, from very easy to literary.
 - [Loanwords in Persian](culture/language-loanwords-in-persian.md) — وام‌واژه‌ها در فارسی
 - [The languages of Iran](culture/language-dialects.md) — زبان‌های ایران
 - [Names and naming](culture/language-names-and-naming.md) — نام‌ها و نام‌گذاری
+- [Numbers and the calendar](culture/language-numbers-and-the-calendar.md) — عددها و تقویم
+- [Ta'arof: the art of politeness](culture/language-taarof.md) — تعارف
 
 **Everyday life**
 

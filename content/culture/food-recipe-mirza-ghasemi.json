@@ -1,0 +1,122 @@
+{
+ "id": "food-recipe-mirza-ghasemi",
+ "topic": "food",
+ "title": "Recipe: mirza ghasemi",
+ "titleFa": "میرزاقاسمی",
+ "titleR": "mirzā-ghāsemi",
+ "image": "mirza-ghasemi",
+ "summary": "Cook along with the smoky aubergine dish of Gilan: aubergines charred over a flame, mashed and fried with plenty of garlic, tomato and turmeric, with eggs stirred through at the end.",
+ "body": [
+  {
+   "h": "A smoky dish from the Caspian",
+   "md": "[[میرزاقاسمی|mirzā-ghāsemi|mirza ghasemi]] comes from [[گیلان|Gilān|Gilan]], the green, rainy province on the Caspian Sea, where it is eaten at lunch or supper with [[کته|kate|kateh]] – rice simply boiled until it has soaked up all its water – or with bread. Today it is cooked all over Iran and is a favourite starter in restaurants.\n\nIts secret is smoke: the aubergines ([[بادمجان|bādemjān|aubergine]]) are grilled whole over an open flame until the skin is black and the flesh is soft and smoky. The story goes that the dish is named after a Qajar-era nobleman from Gilan called Mirza Ghasem, but nobody knows for sure.",
+   "image": "rasht"
+  },
+  {
+   "h": "Ingredients (for 4)",
+   "md": "- 4 large aubergines, about 1.2 kg ([[بادمجان|bādemjān|aubergine]])\n- 3 ripe medium tomatoes, about 400 g ([[گوجه‌فرنگی|gowje-farangi|tomato]]), or 1 tablespoon tomato paste ([[رب گوجه‌فرنگی|rob-e gowje-farangi|tomato paste]])\n- 1 whole head of garlic, 8–10 cloves ([[سیر|sir|garlic]])\n- 3 eggs ([[تخم‌مرغ|tokhm-e-morgh|egg]])\n- 1 teaspoon turmeric ([[زردچوبه|zardchube|turmeric]])\n- 4 tablespoons (60 ml) oil ([[روغن|rowghan|oil]])\n- salt ([[نمک|namak|salt]]) and black pepper ([[فلفل سیاه|felfel-e siyāh|black pepper]])"
+  },
+  {
+   "h": "Method",
+   "md": "1. Prick the aubergines a few times with a knife. Grill them directly over a gas flame or on a barbecue, turning them often, for 15–20 minutes until the skin is charred all over and the flesh has collapsed. (Or roast them at 220°C for about 45 minutes – less smoky, but still good.)\n2. Put them in a covered bowl for 10 minutes to cool and steam, then peel off the black skin and chop the flesh finely.\n3. Cut a cross in the tomatoes, cover them with boiling water for a minute, peel them and dice them.\n4. Crush or finely chop the garlic and fry it gently in the oil with the turmeric for 1–2 minutes, until it smells sweet but is not brown.\n5. Add the aubergine and fry it for 5 minutes, stirring.\n6. Add the tomatoes and cook for 10 minutes, until their juice has evaporated. Season with salt and pepper.\n7. Push the mixture to one side, crack the eggs into the pan and stir them lightly until they start to set, then fold them into the aubergine.\n8. Cook for 2 more minutes and serve warm."
+  },
+  {
+   "h": "Tips",
+   "md": "- Don't skip the charring: it is the smoky taste that makes mirza ghasemi. Line the hob with foil to keep it clean.\n- Choose aubergines that feel heavy and shiny; they have fewer seeds.\n- Garlic burns fast. Keep the heat low, and take the pan off the flame if it starts to colour.\n- Some cooks beat the eggs first; others leave them in streaks of white and yellow. Both are right."
+  },
+  {
+   "h": "Serving and variations",
+   "md": "In Gilan mirza ghasemi is eaten with kateh rice, a plate of fresh herbs and a salty northern pickle, and its sister dish [[کال‌کباب|kāl-kabāb|kal kabab]] mixes the smoked aubergine with walnuts and sour pomegranate. Elsewhere it is often a starter, scooped up with [[لواش|lavāsh|lavash]] or [[بربری|barbari|barbari bread]]. Some cooks add a spoon of tomato paste for a deeper red colour; for a lighter dish, leave out the eggs."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "بادمجان‌ها را روی شعله‌ی گاز کباب کنید تا پوستشان سیاه شود.",
+   "r": "bādemjān-hā rā ru-ye sho'le-ye gāz kabāb konid tā pust-eshān siyāh shavad.",
+   "en": "Grill the aubergines over the gas flame until their skin turns black."
+  },
+  {
+   "fa": "بادمجان‌ها را کمی خنک کنید و پوستشان را بگیرید.",
+   "r": "bādemjān-hā rā kami khonak konid va pust-eshān rā be-girid.",
+   "en": "Let the aubergines cool a little and peel off their skin."
+  },
+  {
+   "fa": "گوجه‌فرنگی‌ها را پوست بکنید و ریز خرد کنید.",
+   "r": "gowje-farangi-hā rā pust be-kanid va riz khord konid.",
+   "en": "Peel the tomatoes and chop them finely.",
+   "col": "گوجه‌ها رو پوست بکن و ریز خرد کن.",
+   "colR": "gowje-hā ro pust be-kan o riz khord kon."
+  },
+  {
+   "fa": "سیر را در روغن تفت بدهید ولی نگذارید بسوزد.",
+   "r": "sir rā dar rowghan taft be-dahid vali na-gozārid be-suzad.",
+   "en": "Fry the garlic in the oil, but don't let it burn.",
+   "col": "سیرو تو روغن تفت بده ولی نذار بسوزه.",
+   "colR": "sir-o tu rowghan taft be-de vali na-zār be-suze."
+  },
+  {
+   "fa": "میرزاقاسمی بدون سیر زیاد مزه ندارد.",
+   "r": "mirzā-ghāsemi bedun-e sir-e ziyād maze na-dārad.",
+   "en": "Mirza ghasemi has no taste without lots of garlic."
+  },
+  {
+   "fa": "بادمجان را اضافه کنید و پنج دقیقه هم بزنید.",
+   "r": "bādemjān rā ezāfe konid va panj daghighe ham be-zanid.",
+   "en": "Add the aubergine and stir for five minutes."
+  },
+  {
+   "fa": "گوجه را بریزید و بگذارید آبش کشیده شود.",
+   "r": "gowje rā be-rizid va be-gozārid āb-ash keshide shavad.",
+   "en": "Add the tomato and let its juice cook away.",
+   "col": "گوجه رو بریز و بذار آبش کشیده بشه.",
+   "colR": "gowje ro be-riz o be-zār āb-esh keshide be-she."
+  },
+  {
+   "fa": "تخم‌مرغ‌ها را در تابه بشکنید و آرام هم بزنید.",
+   "r": "tokhm-e-morgh-hā rā dar tābe be-shkanid va ārām ham be-zanid.",
+   "en": "Crack the eggs into the pan and stir gently."
+  },
+  {
+   "fa": "به اندازه‌ی کافی نمک و فلفل بزنید.",
+   "r": "be andāze-ye kāfi namak o felfel be-zanid.",
+   "en": "Season with enough salt and pepper."
+  },
+  {
+   "fa": "در گیلان میرزاقاسمی را با کته می‌خورند.",
+   "r": "dar Gilān mirzā-ghāsemi rā bā kate mi-khorand.",
+   "en": "In Gilan people eat mirza ghasemi with kateh rice."
+  },
+  {
+   "fa": "بوی دودی بادمجان خیلی مهم است.",
+   "r": "bu-ye dudi-ye bādemjān kheyli mohem ast.",
+   "en": "The smoky smell of the aubergine is very important."
+  }
+ ],
+ "vocab": [
+  {"fa": "میرزاقاسمی", "r": "mirzā-ghāsemi", "en": "mirza ghasemi, smoked aubergine with garlic and egg"},
+  {"fa": "بادمجان", "r": "bādemjān", "en": "aubergine, eggplant"},
+  {"fa": "گوجه‌فرنگی", "r": "gowje-farangi", "en": "tomato"},
+  {"fa": "رب گوجه‌فرنگی", "r": "rob-e gowje-farangi", "en": "tomato paste"},
+  {"fa": "سیر", "r": "sir", "en": "garlic"},
+  {"fa": "تخم‌مرغ", "r": "tokhm-e-morgh", "en": "egg"},
+  {"fa": "کته", "r": "kate", "en": "kateh, rice boiled until the water is absorbed"},
+  {"fa": "شعله", "r": "sho'le", "en": "flame"},
+  {"fa": "دودی", "r": "dudi", "en": "smoky, smoked"},
+  {"fa": "تابه", "r": "tābe", "en": "frying pan"},
+  {"fa": "کباب کردن", "r": "kabāb kardan", "en": "to grill, to roast over a flame"},
+  {"fa": "پوست گرفتن", "r": "pust gereftan", "en": "to peel"},
+  {"fa": "شکستن", "r": "shekastan", "en": "to break, to crack (an egg)"},
+  {"fa": "هم زدن", "r": "ham zadan", "en": "to stir"},
+  {"fa": "اضافه کردن", "r": "ezāfe kardan", "en": "to add"},
+  {"fa": "سوختن", "r": "sukhtan", "en": "to burn"},
+  {"fa": "ریز", "r": "riz", "en": "fine, small (of chopping)"},
+  {"fa": "خنک کردن", "r": "khonak kardan", "en": "to cool"}
+ ],
+ "facts": [
+  "Mirza ghasemi comes from Gilan, the Caspian province famous for its rice, rain and garlic-rich cooking.",
+  "The aubergines are charred whole over an open flame, which gives the dish its smoky taste.",
+  "In Gilan it is eaten with kateh, rice cooked until it has absorbed all its water.",
+  "Popular stories link the name to a Qajar-era nobleman of Gilan called Mirza Ghasem, but its real origin is unknown.",
+  "Kal kabab, another Gilani dish, mixes smoked aubergine with walnuts, pomegranate and herbs."
+ ]
+}

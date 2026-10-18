@@ -1,0 +1,148 @@
+{
+ "id": "language-taarof",
+ "topic": "language",
+ "title": "Ta'arof: the art of politeness",
+ "titleFa": "تعارف",
+ "titleR": "ta'ārof",
+ "image": "sofreh",
+ "summary": "Iranians offer what they may not mean to give and refuse what they would like to accept. Ta'arof is the etiquette of politeness: offering and refusing, ghābel nadāre, the dance at the door, how to tell a real offer from a polite one, and the phrases a learner needs.",
+ "body": [
+  {
+   "h": "What ta'arof is",
+   "md": "[[تعارف|ta'ārof]] is the Iranian art of ritual politeness: offering what you may not mean to give, refusing what you would like to accept, and always putting the other person first. The word comes from an Arabic root meaning 'to know', and it is how Iranians show respect, humility and warmth – above all to guests, elders and strangers. Iranians joke about ta'arof and complain about it, but almost everyone does it."
+  },
+  {
+   "h": "Offering and refusing",
+   "md": "At the heart of ta'arof are the offer and the polite refusal. A host offers tea, fruit or sweets with [[بفرمایید|befarmāyid|please, help yourself]]; the guest first declines with [[نه، ممنون|na, mamnun|no, thank you]] or [[زحمت نکشید|zahmat na-keshid|don't trouble yourself]]. The host insists, often more than once, and only then does the guest accept. A good host never takes the first 'no' as final, and a good guest rarely says 'yes' at once.\n\nWhen guests get up to leave, the host protests that it is far too early, and the guests apologise for the trouble they have caused: [[ببخشید، زحمت دادیم|bebakhshid, zahmat dādim|sorry for the trouble]].",
+   "image": "iranian-tea"
+  },
+  {
+   "h": "Ghābel nadāre",
+   "md": "The most famous phrase of all is [[قابل ندارد|ghābel na-dārad|it is not worthy of you]], in speech *ghābel nadāre*. Ask a taxi driver or a shopkeeper how much you owe, and he may say it: the fare or the goods are not good enough for you, so please take them. It is almost never meant literally. The right answer is to insist – [[خواهش می‌کنم، چقدر می‌شود؟|khāhesh mi-konam, cheghadr mi-shavad?|please, how much is it?]] – once or twice, until the real price is named. Paying is not rude; leaving without paying would be.",
+   "image": "grand-bazaar-tehran"
+  },
+  {
+   "h": "The door dance",
+   "md": "At a doorway, two Iranians may stop and each refuse to go first: [[بفرمایید|befarmāyid|after you]] – [[نه، شما بفرمایید|na, shomā befarmāyid|no, after you]] – [[خواهش می‌کنم|khāhesh mi-konam|please, I insist]]. The dance can last several rounds and usually ends with the older or more senior person going first, or with both squeezing through together.\n\nTurning your back on someone is a small discourtesy too, so people apologise for it: [[ببخشید، پشتم به شماست|bebakhshid, posht-am be shomāst|sorry, my back is to you]]. The classic reply is [[گل پشت و رو ندارد|gol posht o ru na-dārad|a flower has no back or front]]."
+  },
+  {
+   "h": "A real offer or a polite one?",
+   "md": "How do you tell? A real offer is repeated – three times is the traditional test – and it becomes specific: not 'come to dinner some time' but 'come on Thursday at eight'. Context helps too. A shopkeeper's *ghābel nadāre* is not a real offer, while a host piling a second helping of rice on your plate almost always means it. If you are not sure, refuse once politely; if the offer comes back, accept with thanks. You can also say plainly [[تعارف نمی‌کنم|ta'ārof nemi-konam|I'm not just being polite]], or ask [[تعارف می‌کنید؟|ta'ārof mi-konid?|are you just being polite?]]",
+   "image": "tehran-traffic"
+  },
+  {
+   "h": "Phrases for learners",
+   "md": "- [[دستتان درد نکند|dast-etān dard na-konad|thank you; lit. may your hand not hurt]] – after a meal or a favour\n- [[خسته نباشید|khaste na-bāshid|may you not be tired]] – to anyone who has been working\n- [[خیلی لطف دارید|kheyli lotf dārid|you are very kind]]\n- [[اختیار دارید|ekhtiyār dārid|not at all, you're too kind]] – to wave away a compliment or an apology\n- [[قدمتان روی چشم|ghadam-etān ru-ye cheshm|you are most welcome; lit. your step on my eye]]\n- [[شرمنده|sharmande|I'm embarrassed]] – thanks for a kindness you cannot repay\n\nForeigners are forgiven almost everything, and a little ta'arof from a learner is the surest way to make Iranians smile."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "بفرمایید چای.",
+   "r": "befarmāyid chāy.",
+   "en": "Please, have some tea.",
+   "col": "بفرمایین چای.",
+   "colR": "befarmāyin chāy."
+  },
+  {
+   "fa": "نه، ممنون، زحمت نکشید.",
+   "r": "na, mamnun, zahmat na-keshid.",
+   "en": "No, thank you, please don't trouble yourself.",
+   "col": "نه، مرسی، زحمت نکشین.",
+   "colR": "na, mersi, zahmat na-keshin."
+  },
+  {
+   "fa": "تعارف نکنید، بفرمایید.",
+   "r": "ta'ārof na-konid, befarmāyid.",
+   "en": "Don't be shy, help yourself.",
+   "col": "تعارف نکنین، بفرمایین.",
+   "colR": "ta'ārof na-konin, befarmāyin."
+  },
+  {
+   "fa": "قابل ندارد.",
+   "r": "ghābel na-dārad.",
+   "en": "It's nothing – it isn't worthy of you.",
+   "col": "قابل نداره.",
+   "colR": "ghābel na-dāre."
+  },
+  {
+   "fa": "خواهش می‌کنم، چقدر می‌شود؟",
+   "r": "khāhesh mi-konam, cheghadr mi-shavad?",
+   "en": "Please, how much is it?",
+   "col": "خواهش می‌کنم، چقدر می‌شه؟",
+   "colR": "khāhesh mi-konam, cheghadr mi-she?"
+  },
+  {
+   "fa": "نه، شما بفرمایید.",
+   "r": "na, shomā befarmāyid.",
+   "en": "No, after you.",
+   "col": "نه، شما بفرمایین.",
+   "colR": "na, shomā befarmāyin."
+  },
+  {
+   "fa": "ببخشید، پشتم به شماست.",
+   "r": "bebakhshid, posht-am be shomāst.",
+   "en": "Sorry, my back is to you."
+  },
+  {
+   "fa": "گل پشت و رو ندارد.",
+   "r": "gol posht o ru na-dārad.",
+   "en": "A flower has no back or front.",
+   "col": "گل پشت و رو نداره.",
+   "colR": "gol posht o ru na-dāre."
+  },
+  {
+   "fa": "دستتان درد نکند، خیلی خوشمزه بود.",
+   "r": "dast-etān dard na-konad, kheyli khoshmaze bud.",
+   "en": "Thank you, it was delicious.",
+   "col": "دستتون درد نکنه، خیلی خوشمزه بود.",
+   "colR": "dast-etun dard na-kone, kheyli khoshmaze bud."
+  },
+  {
+   "fa": "تعارف نمی‌کنم، واقعاً سیرم.",
+   "r": "ta'ārof nemi-konam, vāghe'an sir-am.",
+   "en": "I'm not just being polite, I'm really full."
+  },
+  {
+   "fa": "شام بمانید، تعارف نکنید.",
+   "r": "shām be-mānid, ta'ārof na-konid.",
+   "en": "Stay for dinner – don't be polite about it.",
+   "col": "شام بمونین، تعارف نکنین.",
+   "colR": "shām be-munin, ta'ārof na-konin."
+  },
+  {
+   "fa": "خسته نباشید!",
+   "r": "khaste na-bāshid!",
+   "en": "Well done – thank you for your work!",
+   "col": "خسته نباشین!",
+   "colR": "khaste na-bāshin!"
+  }
+ ],
+ "vocab": [
+  {"fa": "تعارف", "r": "ta'ārof", "en": "ritual politeness; a polite offer"},
+  {"fa": "تعارف کردن", "r": "ta'ārof kardan", "en": "to offer; to stand on ceremony"},
+  {"fa": "بفرمایید", "r": "befarmāyid", "en": "please (go ahead, come in, help yourself)"},
+  {"fa": "قابل", "r": "ghābel", "en": "worthy"},
+  {"fa": "مهمان", "r": "mehmān", "en": "guest"},
+  {"fa": "میزبان", "r": "mizbān", "en": "host"},
+  {"fa": "زحمت", "r": "zahmat", "en": "trouble, effort"},
+  {"fa": "اصرار کردن", "r": "esrār kardan", "en": "to insist"},
+  {"fa": "ادب", "r": "adab", "en": "manners, politeness"},
+  {"fa": "مؤدب", "r": "mo'addab", "en": "polite"},
+  {"fa": "لطف", "r": "lotf", "en": "kindness, favour"},
+  {"fa": "خواهش می‌کنم", "r": "khāhesh mi-konam", "en": "please; you're welcome"},
+  {"fa": "شرمنده", "r": "sharmande", "en": "embarrassed, ashamed (also: thank you)"},
+  {"fa": "اختیار دارید", "r": "ekhtiyār dārid", "en": "not at all, you're too kind"},
+  {"fa": "خسته نباشید", "r": "khaste na-bāshid", "en": "may you not be tired (greeting to someone working)"},
+  {"fa": "دستتان درد نکند", "r": "dast-etān dard na-konad", "en": "thank you (lit. may your hand not hurt)"},
+  {"fa": "سیر", "r": "sir", "en": "full (after eating)"},
+  {"fa": "پشت", "r": "posht", "en": "back"}
+ ],
+ "facts": [
+  "Ta'ārof comes from Arabic ta'āruf, 'getting to know one another', from a root meaning 'to know'.",
+  "Ta'ārof kardan also simply means 'to offer': shirini ta'ārof kard, 'he offered sweets round'.",
+  "The traditional test of a genuine offer is that it is made three times.",
+  "Ghābel nadāre from a shopkeeper or taxi driver is not an offer of free goods: the customer is expected to insist on paying.",
+  "Ta'arof lowers yourself and raises the other: a host may call his home kolbe-ye darvishi, 'a dervish's hut'.",
+  "The proverb mehmān habib-e khodāst, 'the guest is the friend of God', sums up the Iranian idea of hospitality."
+ ]
+}

@@ -1,0 +1,1072 @@
+{
+ "id": "b2-08-advanced-idioms",
+ "level": "B2",
+ "n": 8,
+ "title": "Advanced idioms: heart, hand, head and eye",
+ "titleFa": "اصطلاحات دل و دست و سر و چشم",
+ "titleR": "estelāhāt-e del o dast o sar o cheshm",
+ "intro": "Persian feels with the heart and the liver, works with the hands and feet, and judges with the head, eyes, face, ears and tongue. Iranians use body idioms all day long – to say they miss you, that they doubt something, that someone conned them or that they are too shy to ask. This lesson teaches 30 of the most useful, each with its literal picture, its meaning, its register and an example, and a long conversation where they come thick and fast.",
+ "goals": [
+  "understand and use 30 everyday idioms built on دل، جگر، دست، پا، سر، چشم، رو، گوش and زبان",
+  "picture the literal image behind each idiom and remember it through that image",
+  "attach the possessive ending to the body part, not the verb: دلم تنگ شده",
+  "choose an idiom that fits the register – affectionate, everyday, informal or literary"
+ ],
+ "image": "persian-miniature",
+ "sections": [
+  {
+   "type": "reading",
+   "title": "A letter from home",
+   "intro": "Leila writes to her brother Dariush, who has been studying in Germany for two years. Family news in Persian is hard to tell without body idioms – count how many you find.",
+   "sentences": [
+    {
+     "fa": "داریوش عزیزم، سلام.",
+     "r": "Dāriush-e aziz-am, salām.",
+     "en": "Dearest Dariush, hello."
+    },
+    {
+     "fa": "نمی‌دانی چقدر دلمان برایت تنگ شده است.",
+     "r": "nemi-dāni cheghadr del-emān barā-yat tang shode ast.",
+     "en": "You can't imagine how much we miss you.",
+     "lit": "you don't know how much our heart has become tight for you"
+    },
+    {
+     "fa": "مامان هر شب گوش به زنگ است که زنگ بزنی.",
+     "r": "Māmān har shab gush be zang ast ke zang bezani.",
+     "en": "Every evening Mum is on the alert, waiting for you to call.",
+     "lit": "Mum is ear-to-the-bell every night"
+    },
+    {
+     "fa": "هفته‌ی پیش عکست را دید که لاغر شده‌ای و جگرش کباب شد.",
+     "r": "hafte-ye pish aks-at rā did ke lāghar shode-i o jegar-ash kabāb shod.",
+     "en": "Last week she saw in your photo that you've got thin, and her heart bled for you.",
+     "lit": "her liver became kebab"
+    },
+    {
+     "fa": "من هم سرم خیلی شلوغ است، ولی هر روز به یادت هستم.",
+     "r": "man ham sar-am kheyli sholugh ast, vali har ruz be yād-at hastam.",
+     "en": "I'm swamped too, but I think of you every day.",
+     "lit": "my head is very crowded"
+    },
+    {
+     "fa": "خبر بزرگ این است که مهسا آخر دلش را به دریا زد و کافه‌اش را باز کرد.",
+     "r": "khabar-e bozorg in ast ke Mahsā ākhar del-ash rā be daryā zad o kāfe-ash rā bāz kard.",
+     "en": "The big news is that Mahsa finally took the plunge and opened her café.",
+     "lit": "she threw her heart into the sea"
+    },
+    {
+     "fa": "ماه‌ها دل‌دل می‌کرد، اما حالا پشیمان نیست.",
+     "r": "māh-hā del-del mi-kard, ammā hālā pashimān nist.",
+     "en": "She dithered for months, but now she has no regrets."
+    },
+    {
+     "fa": "من و امیر هم پا به پایش کار کردیم تا مغازه آماده شد.",
+     "r": "man o Amir ham pā be pā-yash kār kardim tā maghāze āmāde shod.",
+     "en": "Amir and I worked alongside her, step for step, until the place was ready."
+    },
+    {
+     "fa": "بابا اول گفت چشمش آب نمی‌خورد که این کار بگیرد.",
+     "r": "Bābā avval goft cheshm-ash āb nemi-khorad ke in kār begirad.",
+     "en": "At first Dad said he doubted the business would take off.",
+     "lit": "his eye doesn't drink water"
+    },
+    {
+     "fa": "ولی حالا هر روز آن‌جا می‌نشیند و با مشتری‌ها سر به سر می‌گذارد.",
+     "r": "vali hālā har ruz ān-jā mi-neshinad o bā moshtari-hā sar be sar mi-gozārad.",
+     "en": "But now he sits there every day and teases the customers."
+    },
+    {
+     "fa": "یکی از همسایه‌ها می‌خواست سر مهسا کلاه بگذارد و اجاره را دو برابر کند.",
+     "r": "yek-i az hamsāye-hā mi-khāst sar-e Mahsā kolāh begozārad o ejāre rā do barābar konad.",
+     "en": "One of the neighbours tried to con Mahsa and double the rent.",
+     "lit": "to put a hat on Mahsa's head"
+    },
+    {
+     "fa": "اما وکیلمان دستش را رو کرد و او دیگر جرئت نکرد.",
+     "r": "ammā vakil-emān dast-ash rā ru kard o u digar jor'at na-kard.",
+     "en": "But our lawyer exposed his game, and he didn't dare try again.",
+     "lit": "turned his hand face up"
+    },
+    {
+     "fa": "مامان می‌گوید زیادی به او رو داده بودیم.",
+     "r": "Māmān mi-guyad ziyādi be u ru dāde budim.",
+     "en": "Mum says we had given him far too much leeway.",
+     "lit": "we had given him face"
+    },
+    {
+     "fa": "من زبان به دهان گرفتم و چیزی نگفتم، چون نمی‌خواستم دل کسی را بشکنم.",
+     "r": "man zabān be dahān gereftam o chiz-i na-goftam, chon nemi-khāstam del-e kas-i rā beshkanam.",
+     "en": "I held my tongue and said nothing, because I didn't want to hurt anyone's feelings."
+    },
+    {
+     "fa": "زود بیا که همه چشم به راهت هستیم.",
+     "r": "zud biyā ke hame cheshm be rāh-at hastim.",
+     "en": "Come home soon – we're all waiting for you.",
+     "lit": "we are all eye-on-your-road"
+    },
+    {
+     "fa": "قربانت، لیلا",
+     "r": "ghorbān-at, Leylā",
+     "en": "With love, Leila"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why did Mum's 'liver become kebab'?",
+     "options": [
+      "Dariush looked thin in a photo",
+      "The café was a success",
+      "The neighbour raised the rent"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What did Mahsa finally do?",
+     "options": [
+      "She moved to Germany",
+      "She opened a café",
+      "She sold her shop"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What did Leila do when the family argued about the neighbour?",
+     "options": [
+      "She shouted at him",
+      "She called a lawyer",
+      "She held her tongue"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Your body is a dictionary",
+   "md": "Most Persian body idioms are **compound verbs**: a body part plus a common verb – شدن، کردن، دادن، گذاشتن، زدن، گرفتن. Three things make them work.\n\n**1. The body part is often the grammatical subject.** In [[دلم تنگ شده|del-am tang shode|I miss (it/you)]] the subject is 'my heart', not 'I'. So the possessive ending goes on the body part and the verb stays in the third person singular: *del-am tang shode*, *del-et tang shode*, *del-esh tang shode* – never *del tang shode-am*.\n\n**2. Another person enters with the ezafe or a preposition.** [[سر کسی کلاه گذاشتن|sar-e kas-i kolāh gozāshtan]] – put a hat on *someone's* head; [[دلم برایت تنگ شده|del-am barā-yat tang shode]] – my heart is tight *for you*.\n\n**3. The literal picture is your memory aid.** A tight heart is a homesick heart; an eye that 'drinks no water' doubts; a liver roasted like kebab is grief for someone else's pain. In older Persian the **liver** (جگر) was a seat of feeling as much as the heart, which is why it turns up in the most emotional idioms.\n\nRegister matters. Some idioms are **affectionate** (جگرگوشه), many are **everyday** (سرم شلوغ است), some are **informal** – fine with friends, too familiar for a job interview (سر کسی کلاه گذاشتن) – and a few sound **literary** (زبان به دهان گرفتن). The tables give a register for each."
+  },
+  {
+   "type": "vocab",
+   "title": "Idioms to learn",
+   "items": [
+    {
+     "fa": "دلم برایت تنگ شده",
+     "r": "del-am barā-yat tang shode",
+     "en": "I miss you",
+     "pos": "phrase",
+     "lit": "my heart has become tight for you",
+     "note": "everyday, affectionate; spoken: دلم برات تنگ شده (del-am barāt tang shode)",
+     "ex": {
+      "fa": "دلم برای غذای مادرم تنگ شده است.",
+      "r": "del-am barā-ye ghazā-ye mādar-am tang shode ast.",
+      "en": "I miss my mother's cooking.",
+      "col": "دلم واسه غذای مامانم تنگ شده.",
+      "colR": "del-am vāse ghazā-ye māmān-am tang shode."
+     }
+    },
+    {
+     "fa": "دلم گرفته",
+     "r": "del-am gerefte",
+     "en": "I feel down, I'm in low spirits",
+     "pos": "phrase",
+     "lit": "my heart has been seized",
+     "note": "everyday",
+     "ex": {
+      "fa": "امروز هوا ابری است و دلم گرفته.",
+      "r": "emruz havā abri ast o del-am gerefte.",
+      "en": "It's cloudy today and I feel low.",
+      "col": "امروز هوا ابریه، دلم گرفته.",
+      "colR": "emruz havā abri-ye, del-am gerefte."
+     }
+    },
+    {
+     "fa": "به دل گرفتن",
+     "r": "be del gereftan",
+     "en": "to take something to heart, be hurt by it",
+     "pos": "v",
+     "lit": "to take into the heart",
+     "note": "everyday; very common in the negative imperative",
+     "ex": {
+      "fa": "شوخی کردم؛ به دل نگیر.",
+      "r": "shukhi kardam; be del na-gir.",
+      "en": "I was joking – don't take it to heart."
+     }
+    },
+    {
+     "fa": "دل کسی را شکستن",
+     "r": "del-e kas-i rā shekastan",
+     "en": "to hurt someone's feelings",
+     "pos": "v",
+     "lit": "to break someone's heart",
+     "note": "neutral; weaker than English 'break someone's heart'",
+     "ex": {
+      "fa": "با یک حرف ساده دلش را شکستی.",
+      "r": "bā yek harf-e sāde del-ash rā shekasti.",
+      "en": "You hurt her feelings with one careless word."
+     }
+    },
+    {
+     "fa": "دل را به دریا زدن",
+     "r": "del rā be daryā zadan",
+     "en": "to take the plunge, risk it",
+     "pos": "v",
+     "lit": "to throw one's heart into the sea",
+     "note": "everyday",
+     "ex": {
+      "fa": "دلم را به دریا زدم و استعفا دادم.",
+      "r": "del-am rā be daryā zadam o este'fā dādam.",
+      "en": "I took the plunge and resigned."
+     }
+    },
+    {
+     "fa": "دلم به حالش سوخت",
+     "r": "del-am be hāl-ash sukht",
+     "en": "I felt sorry for him/her",
+     "pos": "phrase",
+     "lit": "my heart burned for his state",
+     "note": "everyday",
+     "ex": {
+      "fa": "وقتی دیدمش، دلم به حالش سوخت.",
+      "r": "vaghti didam-ash, del-am be hāl-ash sukht.",
+      "en": "When I saw him, I felt sorry for him."
+     }
+    },
+    {
+     "fa": "جگرم کباب شد",
+     "r": "jegar-am kabāb shod",
+     "en": "my heart bled (for someone), I was heartbroken",
+     "pos": "phrase",
+     "lit": "my liver was roasted like kebab",
+     "note": "emotional, everyday; for pity and grief, not romance",
+     "ex": {
+      "fa": "جگرم کباب شد وقتی خبر زلزله را شنیدم.",
+      "r": "jegar-am kabāb shod vaghti khabar-e zelzele rā shenidam.",
+      "en": "My heart bled when I heard the news of the earthquake."
+     }
+    },
+    {
+     "fa": "دست کسی را رو کردن",
+     "r": "dast-e kas-i rā ru kardan",
+     "en": "to expose someone's game or trick",
+     "pos": "v",
+     "lit": "to turn someone's hand face up (like cards)",
+     "note": "informal; passive: دستش رو شد 'his game was up'",
+     "ex": {
+      "fa": "دستش رو شد؛ همه فهمیدند دروغ می‌گفت.",
+      "r": "dast-ash ru shod; hame fahmidand dorugh mi-goft.",
+      "en": "His game was up – everyone realised he had been lying."
+     }
+    },
+    {
+     "fa": "دست به دست هم دادن",
+     "r": "dast be dast-e ham dādan",
+     "en": "to join forces",
+     "pos": "v",
+     "lit": "to give hand to each other's hand",
+     "note": "neutral, positive",
+     "ex": {
+      "fa": "همسایه‌ها دست به دست هم دادند و کوچه را تمیز کردند.",
+      "r": "hamsāye-hā dast be dast-e ham dādand o kuche rā tamiz kardand.",
+      "en": "The neighbours joined forces and cleaned up the street."
+     }
+    },
+    {
+     "fa": "کسی را دست به سر کردن",
+     "r": "kas-i rā dast be sar kardan",
+     "en": "to fob someone off, get rid of someone with excuses",
+     "pos": "v",
+     "lit": "to put a hand to someone's head",
+     "note": "informal",
+     "ex": {
+      "fa": "هر بار می‌پرسم، مرا با یک بهانه دست به سر می‌کند.",
+      "r": "har bār mi-porsam, marā bā yek bahāne dast be sar mi-konad.",
+      "en": "Every time I ask, he fobs me off with an excuse.",
+      "col": "هر دفعه می‌پرسم، منو با یه بهونه دست به سر می‌کنه.",
+      "colR": "har daf'e mi-porsam, mano bā ye bahune dast be sar mi-kone."
+     }
+    },
+    {
+     "fa": "دست از سر کسی برداشتن",
+     "r": "dast az sar-e kas-i bardāshtan",
+     "en": "to leave someone alone",
+     "pos": "v",
+     "lit": "to lift one's hand off someone's head",
+     "note": "informal; دست از سرم بردار! can be rude",
+     "ex": {
+      "fa": "دست از سرم بردار؛ کار دارم!",
+      "r": "dast az sar-am bardār; kār dāram!",
+      "en": "Leave me alone – I'm busy!"
+     }
+    },
+    {
+     "fa": "پا به پای کسی",
+     "r": "pā be pā-ye kas-i",
+     "en": "alongside someone, keeping pace with them",
+     "pos": "phrase",
+     "lit": "foot to someone's foot",
+     "note": "neutral",
+     "ex": {
+      "fa": "پدرم در همه‌ی سختی‌ها پا به پای ما آمد.",
+      "r": "pedar-am dar hame-ye sakhti-hā pā be pā-ye mā āmad.",
+      "en": "My father stood by us through all the hard times."
+     }
+    },
+    {
+     "fa": "پای حرف خود ایستادن",
+     "r": "pā-ye harf-e khod istādan",
+     "en": "to stand by one's word",
+     "pos": "v",
+     "lit": "to stand at the foot of one's words",
+     "note": "neutral",
+     "ex": {
+      "fa": "او پای حرفش ایستاد و پول را پس داد.",
+      "r": "u pā-ye harf-ash istād o pul rā pas dād.",
+      "en": "He kept his word and paid the money back."
+     }
+    },
+    {
+     "fa": "سر به سر کسی گذاشتن",
+     "r": "sar be sar-e kas-i gozāshtan",
+     "en": "to tease someone",
+     "pos": "v",
+     "lit": "to put head to someone's head",
+     "note": "informal, friendly",
+     "ex": {
+      "fa": "داری سر به سرم می‌گذاری؟",
+      "r": "dāri sar be sar-am mi-gozāri?",
+      "en": "Are you teasing me?",
+      "col": "داری سر به سرم می‌ذاری؟",
+      "colR": "dāri sar be sar-am mi-zāri?"
+     }
+    },
+    {
+     "fa": "سرم شلوغ است",
+     "r": "sar-am sholugh ast",
+     "en": "I'm swamped, very busy",
+     "pos": "phrase",
+     "lit": "my head is crowded",
+     "note": "everyday; spoken: سرم شلوغه (sar-am sholughe)",
+     "ex": {
+      "fa": "این هفته سرم خیلی شلوغ است.",
+      "r": "in hafte sar-am kheyli sholugh ast.",
+      "en": "I'm really busy this week.",
+      "col": "این هفته سرم خیلی شلوغه.",
+      "colR": "in hafte sar-am kheyli sholughe."
+     }
+    },
+    {
+     "fa": "سر کسی کلاه گذاشتن",
+     "r": "sar-e kas-i kolāh gozāshtan",
+     "en": "to con, cheat someone",
+     "pos": "v",
+     "lit": "to put a hat on someone's head",
+     "note": "informal",
+     "ex": {
+      "fa": "فروشنده سرمان کلاه گذاشت؛ این گوشی دست‌دوم بود.",
+      "r": "forushande sar-emān kolāh gozāsht; in gushi dast-e-dovvom bud.",
+      "en": "The seller conned us – this phone was second-hand."
+     }
+    },
+    {
+     "fa": "چشمم آب نمی‌خورد",
+     "r": "cheshm-am āb nemi-khorad",
+     "en": "I doubt it, I don't believe it will happen",
+     "pos": "phrase",
+     "lit": "my eye doesn't drink water",
+     "note": "informal",
+     "ex": {
+      "fa": "چشمم آب نمی‌خورد که او سر وقت بیاید.",
+      "r": "cheshm-am āb nemi-khorad ke u sar-e vaght biyāyad.",
+      "en": "I doubt he'll come on time."
+     }
+    },
+    {
+     "fa": "چشم به راه بودن",
+     "r": "cheshm be rāh budan",
+     "en": "to wait anxiously for someone",
+     "pos": "v",
+     "lit": "to have one's eye on the road",
+     "note": "neutral to literary",
+     "ex": {
+      "fa": "خانواده‌اش سال‌ها چشم به راه او بودند.",
+      "r": "khānevāde-ash sāl-hā cheshm be rāh-e u budand.",
+      "en": "His family waited for him for years."
+     }
+    },
+    {
+     "fa": "چشمت روشن",
+     "r": "cheshm-at roshan",
+     "en": "congratulations (on a new baby, a return, good news)",
+     "pos": "phrase",
+     "lit": "may your eye be bright",
+     "note": "everyday; also ironic: 'well, isn't that great!'",
+     "ex": {
+      "fa": "چشمت روشن! شنیدم نوه‌دار شدی.",
+      "r": "cheshm-at roshan! shenidam nave-dār shodi.",
+      "en": "Congratulations! I hear you've become a grandmother."
+     }
+    },
+    {
+     "fa": "رو دادن",
+     "r": "ru dādan",
+     "en": "to give someone too much leeway, spoil them",
+     "pos": "v",
+     "lit": "to give face",
+     "note": "informal",
+     "ex": {
+      "fa": "زیادی به بچه‌ها رو می‌دهی.",
+      "r": "ziyādi be bacche-hā ru mi-dahi.",
+      "en": "You let the children get away with too much.",
+      "col": "زیادی به بچه‌ها رو می‌دی.",
+      "colR": "ziyādi be bacche-hā ru mi-di."
+     }
+    },
+    {
+     "fa": "رویم نمی‌شود",
+     "r": "ru-yam nemi-shavad",
+     "en": "I'm too embarrassed / shy to",
+     "pos": "phrase",
+     "lit": "my face doesn't become (able)",
+     "note": "everyday; spoken: روم نمی‌شه (ru-m nemi-she)",
+     "ex": {
+      "fa": "رویم نمی‌شود دوباره از او پول قرض بگیرم.",
+      "r": "ru-yam nemi-shavad dobāre az u pul gharz begiram.",
+      "en": "I'm too embarrassed to borrow money from him again.",
+      "col": "روم نمی‌شه دوباره ازش پول قرض بگیرم.",
+      "colR": "ru-m nemi-she dobāre az-ash pul gharz begiram."
+     }
+    },
+    {
+     "fa": "گوش به زنگ بودن",
+     "r": "gush be zang budan",
+     "en": "to be on the alert, waiting for news",
+     "pos": "v",
+     "lit": "to have one's ear to the bell",
+     "note": "neutral",
+     "ex": {
+      "fa": "منتظر نتیجه‌ی آزمایش هستم و گوش به زنگم.",
+      "r": "montazer-e natije-ye āzmāyesh hastam o gush be zang-am.",
+      "en": "I'm waiting for the test results and on the alert."
+     }
+    },
+    {
+     "fa": "گوشش بدهکار نیست",
+     "r": "gush-ash bedehkār nist",
+     "en": "he/she won't listen",
+     "pos": "phrase",
+     "lit": "his ear is not in debt",
+     "note": "informal",
+     "ex": {
+      "fa": "گوشش بدهکار نیست؛ هر چه می‌گویم کار خودش را می‌کند.",
+      "r": "gush-ash bedehkār nist; har che mi-guyam kār-e khod-ash rā mi-konad.",
+      "en": "He won't listen – whatever I say, he does as he pleases."
+     }
+    },
+    {
+     "fa": "زبان به دهان گرفتن",
+     "r": "zabān be dahān gereftan",
+     "en": "to hold one's tongue",
+     "pos": "v",
+     "lit": "to take one's tongue into one's mouth",
+     "note": "neutral to literary; زبان به دهان بگیر! 'hold your tongue!' is sharp",
+     "ex": {
+      "fa": "بهتر است فعلاً زبان به دهان بگیری.",
+      "r": "behtar ast fe'lan zabān be dahān begiri.",
+      "en": "You'd better keep quiet for now."
+     }
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Heart and liver: feelings",
+   "md": "With [[دل|del]] the person who feels is shown by the **possessive ending on دل**, and the verb stays third person singular: [[دلم گرفت|del-am gereft|I felt low]], [[دلت گرفت|del-et gereft|you felt low]], [[دلشان گرفت|del-eshān gereft|they felt low]]. The thing or person you feel for comes with [[برای|barā-ye]] or [[به حال|be hāl-e]].\n\n[[جگر|jegar|liver]] belongs to the strongest feelings: compassion, grief, and the love of parents for children. Iranians also say [[جیگر|jigar]] in slang to mean 'darling' or 'gorgeous' – affectionate between friends and family, but too familiar to say to strangers.",
+   "table": {
+    "head": [
+     "Idiom",
+     "Literally",
+     "Meaning",
+     "Register"
+    ],
+    "rows": [
+     ["[[دلم برایت تنگ شده|del-am barā-yat tang shode]]", "my heart has become tight for you", "I miss you", "everyday, affectionate"],
+     ["[[دلم گرفته|del-am gerefte]]", "my heart has been seized", "I feel down", "everyday"],
+     ["[[به دل گرفتن|be del gereftan]]", "to take into the heart", "to take to heart, be hurt", "everyday"],
+     ["[[دل کسی را شکستن|del-e kas-i rā shekastan]]", "to break someone's heart", "to hurt someone's feelings", "neutral"],
+     ["[[دل را به دریا زدن|del rā be daryā zadan]]", "to throw one's heart into the sea", "to take the plunge", "everyday"],
+     ["[[دل‌دل کردن|del-del kardan]]", "to go 'heart, heart'", "to dither, hesitate", "informal"],
+     ["[[دلم به حالش سوخت|del-am be hāl-ash sukht]]", "my heart burned for his state", "I felt sorry for him", "everyday"],
+     ["[[جگرم کباب شد|jegar-am kabāb shod]]", "my liver became kebab", "my heart bled for someone", "emotional, everyday"],
+     ["[[جگرگوشه|jegar-gushe]]", "a corner of the liver", "darling child", "affectionate, literary"]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "دلم برای کوچه‌های تهران تنگ شده است.",
+     "r": "del-am barā-ye kuche-hā-ye Tehrān tang shode ast.",
+     "en": "I miss the streets of Tehran.",
+     "col": "دلم واسه کوچه‌های تهرون تنگ شده.",
+     "colR": "del-am vāse kuche-hā-ye Tehrun tang shode."
+    },
+    {
+     "fa": "دلش گرفته بود و با کسی حرف نمی‌زد.",
+     "r": "del-ash gerefte bud o bā kas-i harf nemi-zad.",
+     "en": "She was feeling low and wasn't talking to anyone."
+    },
+    {
+     "fa": "از حرفم به دل گرفت و دو روز جواب تلفنم را نداد.",
+     "r": "az harf-am be del gereft o do ruz javāb-e telefon-am rā na-dād.",
+     "en": "He took what I said to heart and didn't answer my calls for two days."
+    },
+    {
+     "fa": "خیلی دل‌دل کرد، ولی آخر بلیت را خرید.",
+     "r": "kheyli del-del kard, vali ākhar belit rā kharid.",
+     "en": "She hesitated a long time, but in the end she bought the ticket.",
+     "col": "کلی دل‌دل کرد، ولی آخرش بلیتو خرید.",
+     "colR": "kolli del-del kard, vali ākhar-esh belit-o kharid."
+    },
+    {
+     "fa": "این بچه جگرگوشه‌ی من است.",
+     "r": "in bacche jegar-gushe-ye man ast.",
+     "en": "This child is my darling.",
+     "note": "Literally 'a corner of my liver' – what parents and grandparents say of their children."
+    },
+    {
+     "fa": "وقتی پیرمرد را تنها در باران دیدم، جگرم کباب شد.",
+     "r": "vaghti pir-mard rā tanhā dar bārān didam, jegar-am kabāb shod.",
+     "en": "When I saw the old man alone in the rain, my heart bled for him."
+    },
+    {
+     "fa": "دلم به حال گربه‌ی گرسنه سوخت و به او غذا دادم.",
+     "r": "del-am be hāl-e gorbe-ye gorosne sukht o be u ghazā dādam.",
+     "en": "I felt sorry for the hungry cat and fed it."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Hands and feet: action and loyalty",
+   "md": "[[دست|dast|hand]] idioms are about doing – helping, cheating, giving up, being generous. [[پا|pā|foot]] idioms are about standing somewhere: beside a friend, between two people who have quarrelled, behind your own word.\n\nNotice the small words. **به** joins two body parts: [[دست به دست|dast be dast|hand to hand]], [[پا به پا|pā be pā|foot to foot]]. **از** means 'off': [[دست از سر کسی برداشتن|dast az sar-e kas-i bardāshtan|to take one's hand off someone's head]]. And in [[دستش رو شد|dast-ash ru shod|his game was up]] the active رو کردن becomes رو شدن, just as کردن becomes شدن in any passive.",
+   "table": {
+    "head": [
+     "Idiom",
+     "Literally",
+     "Meaning",
+     "Register"
+    ],
+    "rows": [
+     ["[[دست کسی را رو کردن|dast-e kas-i rā ru kardan]]", "to turn someone's hand face up", "to expose someone's game", "informal"],
+     ["[[دست به دست هم دادن|dast be dast-e ham dādan]]", "to give hand to each other's hand", "to join forces", "neutral"],
+     ["[[کسی را دست به سر کردن|kas-i rā dast be sar kardan]]", "to put a hand to someone's head", "to fob someone off", "informal"],
+     ["[[دست از سر کسی برداشتن|dast az sar-e kas-i bardāshtan]]", "to lift one's hand off someone's head", "to leave someone alone", "informal"],
+     ["[[دست‌ودل‌باز|dast-o-del-bāz]]", "open of hand and heart", "generous", "neutral"],
+     ["[[پا به پای کسی|pā be pā-ye kas-i]]", "foot to someone's foot", "alongside someone, keeping pace", "neutral"],
+     ["[[پادرمیانی کردن|pā-dar-miyāni kardan]]", "to put a foot in the middle", "to mediate, step in", "neutral"],
+     ["[[پای حرف خود ایستادن|pā-ye harf-e khod istādan]]", "to stand at the foot of one's words", "to stand by one's word", "neutral"]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "عمویم آدم دست‌ودل‌بازی است.",
+     "r": "amu-yam ādam-e dast-o-del-bāz-i ast.",
+     "en": "My uncle is a generous man.",
+     "col": "عموم آدم دست‌ودل‌بازیه.",
+     "colR": "amu-m ādam-e dast-o-del-bāz-iye."
+    },
+    {
+     "fa": "مادرم پادرمیانی کرد و دو برادر آشتی کردند.",
+     "r": "mādar-am pā-dar-miyāni kard o do barādar āshti kardand.",
+     "en": "My mother stepped in, and the two brothers made up."
+    },
+    {
+     "fa": "اگر دست به دست هم بدهیم، این کار یک‌روزه تمام می‌شود.",
+     "r": "agar dast be dast-e ham bedahim, in kār yek-ruze tamām mi-shavad.",
+     "en": "If we join forces, the job will be done in a day."
+    },
+    {
+     "fa": "سرانجام دست شرکت را رو کردند: قیمت‌ها را عمداً بالا برده بود.",
+     "r": "saranjām dast-e sherkat rā ru kardand: gheymat-hā rā amdan bālā borde bud.",
+     "en": "In the end they exposed the company: it had pushed prices up on purpose."
+    },
+    {
+     "fa": "سه ماه است که صاحبخانه ما را دست به سر می‌کند.",
+     "r": "se māh ast ke sāheb-khāne mā rā dast be sar mi-konad.",
+     "en": "For three months the landlord has been fobbing us off.",
+     "col": "سه ماهه صاحبخونه ما رو دست به سر می‌کنه.",
+     "colR": "se māh-e sāheb-khune mā ro dast be sar mi-kone."
+    },
+    {
+     "fa": "دوستانش تا آخر شب پا به پایش رقصیدند.",
+     "r": "dustān-ash tā ākhar-e shab pā be pā-yash raghsidand.",
+     "en": "His friends danced with him until the end of the night."
+    },
+    {
+     "fa": "قول داده بود و پای حرفش ایستاد.",
+     "r": "ghowl dāde bud o pā-ye harf-ash istād.",
+     "en": "He had promised, and he kept his word."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Head, eyes, face, ears and tongue",
+   "md": "The head ([[سر|sar]]) thinks, gets busy and gets tricked; the eye ([[چشم|cheshm]]) waits, doubts and rejoices; the face ([[رو|ru]]) is your honour and your shyness; the ear ([[گوش|gush]]) listens or refuses to; the tongue ([[زبان|zabān]]) is best kept still.\n\nTwo patterns are worth noticing. With **رو** the idea is *face* as in 'losing face': [[رویم نمی‌شود|ru-yam nemi-shavad]] is 'my face can't manage it' – I'm too embarrassed. With **چشم** many idioms are blessings: [[چشمت روشن|cheshm-at roshan]] 'may your eyes be bright' is what you say to someone whose son has come home or whose grandchild has just been born.",
+   "table": {
+    "head": [
+     "Idiom",
+     "Literally",
+     "Meaning",
+     "Register"
+    ],
+    "rows": [
+     ["[[سر به سر کسی گذاشتن|sar be sar-e kas-i gozāshtan]]", "to put head to someone's head", "to tease someone", "informal, friendly"],
+     ["[[سرم شلوغ است|sar-am sholugh ast]]", "my head is crowded", "I'm swamped", "everyday"],
+     ["[[سر درآوردن|sar dar-āvardan]]", "to bring one's head out (of something)", "to make sense of, figure out", "informal"],
+     ["[[سر کسی کلاه گذاشتن|sar-e kas-i kolāh gozāshtan]]", "to put a hat on someone's head", "to con someone", "informal"],
+     ["[[چشمم آب نمی‌خورد|cheshm-am āb nemi-khorad]]", "my eye doesn't drink water", "I doubt it", "informal"],
+     ["[[چشم به راه بودن|cheshm be rāh budan]]", "to have one's eye on the road", "to wait anxiously for someone", "neutral, literary"],
+     ["[[چشم‌وهم‌چشمی|cheshm-o-ham-cheshmi]]", "eye and equal-eye", "rivalry, keeping up with the neighbours", "neutral"],
+     ["[[چشمت روشن|cheshm-at roshan]]", "may your eye be bright", "congratulations (also ironic)", "everyday"],
+     ["[[رو دادن|ru dādan]]", "to give face", "to give too much leeway, spoil", "informal"],
+     ["[[رویم نمی‌شود|ru-yam nemi-shavad]]", "my face can't manage", "I'm too embarrassed to", "everyday"],
+     ["[[گوش به زنگ بودن|gush be zang budan]]", "ear to the bell", "to be on the alert", "neutral"],
+     ["[[گوشش بدهکار نیست|gush-ash bedehkār nist]]", "his ear owes nothing", "he won't listen", "informal"],
+     ["[[زبان به دهان گرفتن|zabān be dahān gereftan]]", "to take one's tongue into one's mouth", "to hold one's tongue", "neutral, literary"]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "از این نامه‌ی اداری هیچ سر در نمی‌آورم.",
+     "r": "az in nāme-ye edāri hich sar dar nemi-āvaram.",
+     "en": "I can't make head or tail of this official letter.",
+     "col": "از این نامه‌ی اداری هیچی سر درنمیارم.",
+     "colR": "az in nāme-ye edāri hichi sar dar-nemiyāram."
+    },
+    {
+     "fa": "چشم‌وهم‌چشمی باعث شد عروسی‌شان آن‌قدر گران شود.",
+     "r": "cheshm-o-ham-cheshmi bā'es shod arusi-shān ān-ghadr gerān shavad.",
+     "en": "Keeping up with the neighbours made their wedding so expensive."
+    },
+    {
+     "fa": "بچه‌ها، سر به سر مادربزرگ نگذارید!",
+     "r": "bacche-hā, sar be sar-e mādar-bozorg na-gozārid!",
+     "en": "Children, don't tease Grandma!",
+     "col": "بچه‌ها، سر به سر مادربزرگ نذارین!",
+     "colR": "bacche-hā, sar be sar-e mādar-bozorg na-zārin!"
+    },
+    {
+     "fa": "چشمت روشن! پسرت سرانجام از سفر برگشت.",
+     "r": "cheshm-at roshan! pesar-at saranjām az safar bargasht.",
+     "en": "Congratulations! Your son is home from his travels at last."
+    },
+    {
+     "fa": "گوشم بدهکار نیست؛ تا عذرخواهی نکنی، نمی‌بخشمت.",
+     "r": "gush-am bedehkār nist; tā ozr-khāhi na-koni, nemi-bakhsham-at.",
+     "en": "I'm not listening – until you apologise, I won't forgive you."
+    },
+    {
+     "fa": "در جلسه زبان به دهان گرفتم، ولی بعد همه چیز را به مدیر گفتم.",
+     "r": "dar jalase zabān be dahān gereftam, vali ba'd hame chiz rā be modir goftam.",
+     "en": "In the meeting I held my tongue, but afterwards I told the manager everything."
+    },
+    {
+     "fa": "شب امتحان همه گوش به زنگ بودند که نتیجه‌ها اعلام شود.",
+     "r": "shab-e emtehān hame gush be zang budand ke natije-hā e'lām shavad.",
+     "en": "The night of the exam, everyone was on the alert for the results to be announced."
+    },
+    {
+     "fa": "رویش نشد بگوید که پول ندارد.",
+     "r": "ru-yash na-shod beguyad ke pul na-dārad.",
+     "en": "He was too embarrassed to say he had no money.",
+     "col": "روش نشد بگه پول نداره.",
+     "colR": "ru-sh na-shod bege pul na-dāre."
+    }
+   ]
+  },
+  {
+   "type": "dialogue",
+   "title": "The report that never comes",
+   "context": "Sara and Amir work in the same office. Their colleague Reza promised to finish a report days ago. Listen for the idioms – there are more than a dozen.",
+   "lines": [
+    {
+     "who": "Amir",
+     "fa": "سارا، رضا گزارش را تمام کرد؟",
+     "r": "Sārā, Rezā gozāresh rā tamām kard?",
+     "en": "Sara, did Reza finish the report?",
+     "col": "سارا، رضا گزارشو تموم کرد؟",
+     "colR": "Sārā, Rezā gozāresh-o tamum kard?"
+    },
+    {
+     "who": "Sara",
+     "fa": "نه! سه روز است مرا دست به سر می‌کند: «فردا، فردا».",
+     "r": "na! se ruz ast marā dast be sar mi-konad: «fardā, fardā».",
+     "en": "No! For three days he's been fobbing me off: 'Tomorrow, tomorrow.'",
+     "col": "نه! سه روزه منو دست به سر می‌کنه: «فردا، فردا».",
+     "colR": "na! se ruz-e mano dast be sar mi-kone: «fardā, fardā»."
+    },
+    {
+     "who": "Amir",
+     "fa": "چشمم آب نمی‌خورد که تا پنجشنبه تمامش کند.",
+     "r": "cheshm-am āb nemi-khorad ke tā panjshanbe tamām-ash konad.",
+     "en": "I doubt he'll finish it by Thursday.",
+     "col": "چشمم آب نمی‌خوره تا پنجشنبه تمومش کنه.",
+     "colR": "cheshm-am āb nemi-khore tā panjshanbe tamum-esh kone."
+    },
+    {
+     "who": "Sara",
+     "fa": "تقصیر خودمان است؛ زیادی به او رو دادیم.",
+     "r": "taghsir-e khod-emān ast; ziyādi be u ru dādim.",
+     "en": "It's our own fault – we've given him far too much leeway.",
+     "col": "تقصیر خودمونه؛ زیادی بهش رو دادیم.",
+     "colR": "taghsir-e khod-emun-e; ziyādi beh-esh ru dādim."
+    },
+    {
+     "who": "Amir",
+     "fa": "بیا دست به دست هم بدهیم و خودمان تمامش کنیم.",
+     "r": "biyā dast be dast-e ham bedahim o khod-emān tamām-ash konim.",
+     "en": "Let's join forces and finish it ourselves.",
+     "col": "بیا دست به دست هم بدیم، خودمون تمومش کنیم.",
+     "colR": "biyā dast be dast-e ham bedim, khod-emun tamum-esh konim."
+    },
+    {
+     "who": "Sara",
+     "fa": "باشد، ولی رویم نمی‌شود به خانم احمدی بگویم که رضا کار نکرده.",
+     "r": "bāshad, vali ru-yam nemi-shavad be khānom-e Ahmadi beguyam ke Rezā kār na-karde.",
+     "en": "All right, but I'm too embarrassed to tell Ms Ahmadi that Reza hasn't done the work.",
+     "col": "باشه، ولی روم نمی‌شه به خانم احمدی بگم رضا کار نکرده.",
+     "colR": "bāshe, vali ru-m nemi-she be khānom-e Ahmadi begam Rezā kār na-karde."
+    },
+    {
+     "who": "Amir",
+     "fa": "لازم نیست. زبان به دهان بگیر؛ خودش دستش رو می‌شود.",
+     "r": "lāzem nist. zabān be dahān begir; khod-ash dast-ash ru mi-shavad.",
+     "en": "No need. Keep quiet – his game will be up on its own.",
+     "col": "لازم نیست. زبون به دهن بگیر؛ خودش دستش رو می‌شه.",
+     "colR": "lāzem nist. zabun be dahan begir; khod-ash dast-ash ru mi-she."
+    },
+    {
+     "who": "Sara",
+     "fa": "تو هم همیشه سر به سر من می‌گذاری! جدی می‌گویی؟",
+     "r": "to ham hamishe sar be sar-e man mi-gozāri! jeddi mi-guyi?",
+     "en": "You're always teasing me! Are you serious?",
+     "col": "تو هم همیشه سر به سر من می‌ذاری! جدی می‌گی؟",
+     "colR": "to ham hamishe sar be sar-e man mi-zāri! jeddi mi-gi?"
+    },
+    {
+     "who": "Amir",
+     "fa": "این بار جدی‌ام. خانم احمدی گوشش از این حرف‌ها پر است.",
+     "r": "in bār jeddi-am. khānom-e Ahmadi gush-ash az in harf-hā por ast.",
+     "en": "This time I'm serious. Ms Ahmadi has heard it all before.",
+     "col": "این دفعه جدی‌ام. خانم احمدی گوشش از این حرفا پره.",
+     "colR": "in daf'e jeddi-am. khānom-e Ahmadi gush-ash az in harf-ā pore.",
+     "lit": "her ear is full of these words"
+    },
+    {
+     "who": "Sara",
+     "fa": "باشد. پس امشب پا به پای هم کار می‌کنیم.",
+     "r": "bāshad. pas emshab pā be pā-ye ham kār mi-konim.",
+     "en": "OK. Then tonight we work side by side.",
+     "col": "باشه. پس امشب پا به پای هم کار می‌کنیم.",
+     "colR": "bāshe. pas emshab pā be pā-ye ham kār mi-konim."
+    },
+    {
+     "who": "Amir",
+     "fa": "و گوش به زنگ باش؛ اگر رضا زنگ زد، دلت به حالش نسوزد!",
+     "r": "o gush be zang bāsh; agar Rezā zang zad, del-at be hāl-ash na-suzad!",
+     "en": "And be on the alert – if Reza calls, don't go feeling sorry for him!",
+     "col": "گوش به زنگ باش؛ اگه رضا زنگ زد، دلت به حالش نسوزه!",
+     "colR": "gush be zang bāsh; age Rezā zang zad, del-at be hāl-ash na-suze!"
+    },
+    {
+     "who": "Sara",
+     "fa": "قول نمی‌دهم. من دلم نازک است!",
+     "r": "ghowl nemi-daham. man del-am nāzok ast!",
+     "en": "I can't promise. I'm soft-hearted!",
+     "col": "قول نمی‌دم. من دلم نازکه!",
+     "colR": "ghowl nemi-dam. man del-am nāzoke!",
+     "lit": "my heart is thin"
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Politeness lives in the body too",
+   "md": "Many of the polite formulas you learned in A1 are body idioms in disguise. [[دستت درد نکند|dast-at dard na-konad|thank you]] wishes that the hand that worked for you may not hurt; the answer [[سرت درد نکند|sar-at dard na-konad]] wishes the same for your head. [[چشم|cheshm|yes, of course]] means 'on my eye' – I will do it as willingly as I would protect my own eyes – and a guest is told [[قدمتان روی چشم|ghadam-etān ru-ye cheshm|you are most welcome]], 'your step is on my eye'.\n\nAt a funeral or when someone has lost a relative, Iranians say [[سرتان سلامت باشد|sar-etān salāmat bāshad|my condolences]] – 'may your head be safe' – and the mourner answers [[سر شما هم سلامت باشد|sar-e shomā ham salāmat bāshad]]. You will also hear [[چشمت روشن|cheshm-at roshan]] at the other end of life, when a baby is born or a traveller comes home.\n\nThe liver deserves a word. In classical poetry lovers and mystics drink [[خون جگر|khun-e jegar|the blood of the liver]] – their suffering – and [[جگرسوز|jegar-suz|liver-burning]] describes anything heart-rending. So when a modern Iranian says that their liver has turned to kebab, they are speaking a very old language of feeling.",
+   "image": "iranian-tea"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "Put the ending on the body part, not on the verb: دلم تنگ شده (I miss…), دلت تنگ شده (you miss…), never *دل تنگ شده‌ام.",
+    "Don't translate body idioms word for word into English – or English ones into Persian. 'To pull someone's leg' is سر به سر کسی گذاشتن, not پای کسی را کشیدن, which sounds bizarre.",
+    "Watch the register. سر کسی کلاه گذاشتن and دست از سرم بردار are fine with friends but too blunt for a formal letter; there you would write فریب دادن 'to deceive' or مزاحم نشوید 'please do not disturb'.",
+    "When you have said something a hundred times and nobody listens, Iranians say [[زبانم مو درآورد|zabān-am mu dar-āvard|I'm blue in the face]] – literally 'my tongue grew hair'.",
+    "A proverb to go with this lesson: [[زبان سرخ سر سبز می‌دهد بر باد|zabān-e sorkh sar-e sabz mi-dahad bar bād]] – 'the red tongue gives the green head to the wind': careless talk can cost you dearly.",
+    "Learn idioms in little scenes, not lists: imagine the hat being put on someone's head, the eye that refuses to drink, the liver on a skewer. The sillier the picture, the better you will remember it."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the idiom",
+   "items": [
+    {
+     "fa": "دلم برایت ___ شده است.",
+     "r": "del-am barā-yat ___ shode ast.",
+     "en": "I miss you.",
+     "answer": "تنگ",
+     "hint": "tight"
+    },
+    {
+     "fa": "وقتی عکس آن بچه را دیدم، جگرم ___ شد.",
+     "r": "vaghti aks-e ān bacche rā didam, jegar-am ___ shod.",
+     "en": "When I saw the photo of that child, my heart bled.",
+     "answer": "کباب",
+     "hint": "something grilled on a skewer"
+    },
+    {
+     "fa": "زیادی به او ___ دادی؛ حالا هر کاری دلش می‌خواهد می‌کند.",
+     "r": "ziyādi be u ___ dādi; hālā har kār-i del-ash mi-khāhad mi-konad.",
+     "en": "You gave him too much leeway; now he does whatever he likes.",
+     "answer": "رو",
+     "hint": "face"
+    },
+    {
+     "fa": "چشمم آب ___ که او بیاید.",
+     "r": "cheshm-am āb ___ ke u biyāyad.",
+     "en": "I doubt he'll come.",
+     "answer": "نمی‌خورد",
+     "hint": "the eye doesn't drink"
+    },
+    {
+     "fa": "شوخی کردم؛ داشتم سر به ___ می‌گذاشتم.",
+     "r": "shukhi kardam; dāshtam sar be ___ mi-gozāshtam.",
+     "en": "I was joking – I was just teasing you.",
+     "answer": "سرت",
+     "hint": "'your head'"
+    },
+    {
+     "fa": "منتظر خبرم و گوش به ___ هستم.",
+     "r": "montazer-e khabar-am o gush be ___ hastam.",
+     "en": "I'm waiting for news and on the alert.",
+     "answer": "زنگ",
+     "hint": "bell"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "What does it mean?",
+   "items": [
+    {
+     "q": "[[سرم شلوغ است|sar-am sholugh ast]] means…",
+     "options": [
+      "I have a headache",
+      "I'm very busy",
+      "My house is crowded"
+     ],
+     "answer": 1,
+     "explain": "Literally 'my head is crowded' – too many things to think about."
+    },
+    {
+     "q": "A friend says [[فروشنده سرم کلاه گذاشت|forushande sar-am kolāh gozāsht]]. What happened?",
+     "options": [
+      "The seller gave her a present",
+      "The seller cheated her",
+      "The seller sold her a hat"
+     ],
+     "answer": 1,
+     "explain": "'To put a hat on someone's head' is to con them."
+    },
+    {
+     "q": "Your colleague's daughter has just had a baby. What do you say?",
+     "options": [
+      "چشمت روشن!",
+      "دلم گرفته.",
+      "دست از سرم بردار!"
+     ],
+     "answer": 0,
+     "explain": "چشمت روشن 'may your eyes be bright' is the congratulation for a birth or a return."
+    },
+    {
+     "q": "[[رویم نمی‌شود|ru-yam nemi-shavad]] expresses…",
+     "options": [
+      "anger",
+      "embarrassment, shyness",
+      "doubt"
+     ],
+     "answer": 1,
+     "explain": "'My face can't manage it' – I'm too embarrassed to ask or say it."
+    },
+    {
+     "q": "Which idiom means 'to mediate between two people'?",
+     "options": [
+      "پا به پای کسی",
+      "پادرمیانی کردن",
+      "دست به سر کردن"
+     ],
+     "answer": 1,
+     "explain": "'To put a foot in the middle' – to step in between people who have quarrelled."
+    },
+    {
+     "q": "What is the right way to say 'you miss him'?",
+     "options": [
+      "دل برایش تنگ شده‌ای",
+      "دلت برایش تنگ شده",
+      "دلم برایت تنگ شده"
+     ],
+     "answer": 1,
+     "explain": "The ending goes on دل: دلت = your heart. دلم برایت تنگ شده would be 'I miss you'."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "We miss you very much.",
+     "fa": "دلمان خیلی برایت تنگ شده است.",
+     "r": "del-emān kheyli barā-yat tang shode ast."
+    },
+    {
+     "en": "Don't take it to heart.",
+     "fa": "به دل نگیر.",
+     "r": "be del na-gir."
+    },
+    {
+     "en": "I'm too embarrassed to ask him.",
+     "fa": "رویم نمی‌شود از او بپرسم.",
+     "r": "ru-yam nemi-shavad az u beporsam."
+    },
+    {
+     "en": "Let's join forces.",
+     "fa": "بیا دست به دست هم بدهیم.",
+     "r": "biyā dast be dast-e ham bedahim."
+    },
+    {
+     "en": "He kept his word.",
+     "fa": "او پای حرفش ایستاد.",
+     "r": "u pā-ye harf-ash istād."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "این هفته سرم خیلی شلوغ است.",
+     "r": "in hafte sar-am kheyli sholugh ast.",
+     "en": "I'm very busy this week."
+    },
+    {
+     "fa": "مهسا دلش را به دریا زد.",
+     "r": "Mahsā del-ash rā be daryā zad.",
+     "en": "Mahsa took the plunge."
+    },
+    {
+     "fa": "همه چشم به راه تو هستیم.",
+     "r": "hame cheshm be rāh-e to hastim.",
+     "en": "We are all waiting for you."
+    },
+    {
+     "fa": "چشمم آب نمی‌خورد که باران بیاید.",
+     "r": "cheshm-am āb nemi-khorad ke bārān biyāyad.",
+     "en": "I doubt it will rain."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the idioms",
+   "items": [
+    {
+     "fa": "دلم گرفته",
+     "r": "del-am gerefte",
+     "en": "I feel down"
+    },
+    {
+     "fa": "جگرم کباب شد",
+     "r": "jegar-am kabāb shod",
+     "en": "my heart bled for them"
+    },
+    {
+     "fa": "دست کسی را رو کردن",
+     "r": "dast-e kas-i rā ru kardan",
+     "en": "to expose someone's game"
+    },
+    {
+     "fa": "سر به سر کسی گذاشتن",
+     "r": "sar be sar-e kas-i gozāshtan",
+     "en": "to tease someone"
+    },
+    {
+     "fa": "سر کسی کلاه گذاشتن",
+     "r": "sar-e kas-i kolāh gozāshtan",
+     "en": "to con someone"
+    },
+    {
+     "fa": "گوش به زنگ بودن",
+     "r": "gush be zang budan",
+     "en": "to be on the alert"
+    },
+    {
+     "fa": "زبان به دهان گرفتن",
+     "r": "zabān be dahān gereftan",
+     "en": "to hold one's tongue"
+    },
+    {
+     "fa": "رو دادن",
+     "r": "ru dādan",
+     "en": "to give too much leeway"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "دلم برای کوچه‌های تهران تنگ شده است.",
+     "r": "del-am barā-ye kuche-hā-ye Tehrān tang shode ast.",
+     "en": "I miss the streets of Tehran.",
+     "options": [
+      "I miss the streets of Tehran.",
+      "The streets of Tehran are narrow.",
+      "I'm tired of Tehran's streets."
+     ],
+     "answer": 0
+    },
+    {
+     "fa": "گوشش بدهکار نیست.",
+     "r": "gush-ash bedehkār nist.",
+     "en": "He won't listen.",
+     "options": [
+      "He doesn't owe anything.",
+      "His ear hurts.",
+      "He won't listen."
+     ],
+     "answer": 2
+    },
+    {
+     "fa": "داری سر به سرم می‌گذاری؟",
+     "r": "dāri sar be sar-am mi-gozāri?",
+     "en": "Are you teasing me?",
+     "options": [
+      "Are you leaving me?",
+      "Are you teasing me?",
+      "Are you helping me?"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

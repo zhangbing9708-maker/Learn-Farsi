@@ -14,12 +14,16 @@
     {
      "fa": "فردوسی داستان بیژن و منیژه را با شبی تاریک آغاز می‌کند، شبی که خواب از چشمش گریخته بود و از یار مهربانش خواست چراغی بیفروزد و داستانی کهن برایش بخواند.",
      "r": "Ferdowsi dāstān-e Bizhan o Manizhe rā bā shab-i tārik āghāz mi-konad, shab-i ke khāb az cheshm-ash gorikhte bud va az yār-e mehrabān-ash khāst cherāgh-i biyafruzad va dāstān-i kohan barā-yash be-khānad.",
-     "en": "Ferdowsi begins the tale of Bizhan and Manizheh with a dark night, a night when sleep had fled from his eyes and he asked his kind companion to light a lamp and read him an old story."
+     "en": "Ferdowsi begins the tale of Bizhan and Manizheh with a dark night, a night when sleep had fled from his eyes and he asked his kind companion to light a lamp and read him an old story.",
+     "faV": "فِردَوسی داستانِ بیژَن و مَنیژه را با شَبی تاریک آغاز می‌کُنَد، شَبی که خواب اَز چِشمَش گُریخته بود و اَز یارِ مِهرَبانَش خواست چِراغی بیَفروزَد و داستانی کُهَن بَرایَش بِخوانَد.",
+     "a": "8b326f39b24e"
     },
     {
      "fa": "«شبی چون شبه روی شسته به قیر / نه بهرام پیدا نه کیوان نه تیر»",
      "r": "«shab-i chon shabah ru-y shoste be ghir / na Bahrām peydā na Keyvān na Tir»",
-     "en": "\"A night like jet, its face washed in pitch; / not Mars, not Saturn, not Mercury in sight.\""
+     "en": "\"A night like jet, its face washed in pitch; / not Mars, not Saturn, not Mercury in sight.\"",
+     "faV": "«شَبی چون شَبَه روی شُسته به قیر / نه بَهرام پَیدا نه کَیوان نه تیر»",
+     "a": "c1152423e600"
     }
    ]
   },
@@ -28,17 +32,23 @@
     {
      "fa": "روزگاری که کیخسرو بر ایران فرمان می‌راند، گروهی از مردم ارمان به درگاه او آمدند و نالیدند که گرازانی بی‌شمار کشتزارها و بیشه‌هایشان را ویران کرده‌اند.",
      "r": "ruzgār-i ke Keykhosrow bar Irān farmān mi-rānd, goruh-i az mardom-e Armān be dargāh-e u āmadand va nālidand ke gorāzān-i bi-shomār keshtzār-hā o bishe-hā-yeshān rā virān karde-and.",
-     "en": "In the days when Kay Khosrow ruled Iran, a group of people from Arman came to his court and lamented that countless wild boars had laid waste to their fields and woods."
+     "en": "In the days when Kay Khosrow ruled Iran, a group of people from Arman came to his court and lamented that countless wild boars had laid waste to their fields and woods.",
+     "faV": "روزگاری که کَیخُسرَو بَر ایران فَرمان می‌راند، گُروهی اَز مَردُمِ اَرمان به دَرگاهِ او آمَدَند و نالیدَند که گُرازانی بی‌شُمار کِشتزارها و بیشه‌هایِشان را ویران کَرده‌اَند.",
+     "a": "5b636f1edadb"
     },
     {
      "fa": "شاه از پهلوانانش پرسید چه کسی این کار را بر عهده می‌گیرد، و پیش از آن‌که دیگران پاسخی بدهند، بیژن جوان، پسر گیو، برخاست.",
      "r": "shāh az pahlavānān-ash porsid che kas-i in kār rā bar ohde mi-girad, va pish az ān-ke digarān pāsokh-i be-dahand, Bizhan-e javān, pesar-e Giv, barkhāst.",
-     "en": "The king asked his champions who would take on the task, and before the others could answer, young Bizhan, the son of Giv, rose to his feet."
+     "en": "The king asked his champions who would take on the task, and before the others could answer, young Bizhan, the son of Giv, rose to his feet.",
+     "faV": "شاه اَز پَهلَوانانَش پُرسید چه کَسی این کار را بَر عُهده می‌گیرَد، و پیش اَز آن‌که دیگَران پاسُخی بِدَهَند، بیژَنِ جَوان، پِسَرِ گیو، بَرخاست.",
+     "a": "6f1096f11f34"
     },
     {
      "fa": "گیو که از جوانی و بی‌پروایی پسرش می‌ترسید، کوشید او را بازدارد، اما بیژن پافشاری کرد و شاه، گرگین را که راه‌ها را می‌شناخت، همراه او فرستاد.",
      "r": "Giv ke az javāni o bi-parvāyi-ye pesar-ash mi-tarsid, kushid u rā bāz-dārad, ammā Bizhan pāfeshāri kard va shāh, Gorgin rā ke rāh-hā rā mi-shenākht, hamrāh-e u ferestād.",
-     "en": "Giv, who feared his son's youth and recklessness, tried to hold him back, but Bizhan insisted, and the king sent Gorgin, who knew the roads, along with him."
+     "en": "Giv, who feared his son's youth and recklessness, tried to hold him back, but Bizhan insisted, and the king sent Gorgin, who knew the roads, along with him.",
+     "faV": "گیو که اَز جَوانی و بی‌پَرواییِ پِسَرَش می‌تَرسید، کوشید او را بازدارَد، اَمّا بیژَن پافِشاری کَرد و شاه، گُرگین را که راه‌ها را می‌شِناخت، هَمراهِ او فِرِستاد.",
+     "a": "3738cffe04f5"
     }
    ]
   },
@@ -47,17 +57,23 @@
     {
      "fa": "در بیشه‌ی ارمان، گرگین به کناری ایستاد و بیژن به تنهایی به میان گرازان تاخت؛ چندان شمشیر زد که بیشه از لاشه‌ها پر شد، آن‌گاه دندان‌هایشان را کند تا به نشانه‌ی پیروزی نزد شاه ببرد.",
      "r": "dar bishe-ye Armān, Gorgin be kenār-i istād va Bizhan be tanhāyi be miyān-e gorāzān tākht; chandān shamshir zad ke bishe az lāshe-hā por shod, ān-gāh dandān-hā-yeshān rā kand tā be neshāne-ye piruzi nazd-e shāh be-barad.",
-     "en": "In the forest of Arman, Gorgin stood aside while Bizhan charged alone into the boars; he swung his sword until the forest was full of carcasses, and then he pulled out their tusks to take to the king as a token of victory."
+     "en": "In the forest of Arman, Gorgin stood aside while Bizhan charged alone into the boars; he swung his sword until the forest was full of carcasses, and then he pulled out their tusks to take to the king as a token of victory.",
+     "faV": "دَر بیشه‌یِ اَرمان، گُرگین به کِناری ایستاد و بیژَن به تَنهایی به میانِ گُرازان تاخت؛ چَندان شَمشیر زَد که بیشه اَز لاشه‌ها پُر شُد، آن‌گاه دَندان‌هایِشان را کَند تا به نِشانه‌یِ پیروزی نَزدِ شاه بِبَرَد.",
+     "a": "026d4737d5fa"
     },
     {
      "fa": "گرگین، که می‌دانست با دست خالی بازگشتنش مایه‌ی ننگ است، حسد را در دل خود پروراند و نیرنگی اندیشید.",
      "r": "Gorgin, ke mi-dānest bā dast-e khāli bāzgashtan-ash māye-ye nang ast, hasad rā dar del-e khod parvarānd va neyrang-i andishid.",
-     "en": "Gorgin, who knew that going back empty-handed would be a disgrace, nursed his envy and thought up a trick."
+     "en": "Gorgin, who knew that going back empty-handed would be a disgrace, nursed his envy and thought up a trick.",
+     "faV": "گُرگین، که می‌دانِست با دَستِ خالی بازگَشتَنَش مایه‌یِ نَنگ اَست، حَسَد را دَر دِلِ خود پَروَراند و نَیرَنگی اَندیشید.",
+     "a": "67b5dc5bf651"
     },
     {
      "fa": "به بیژن گفت که در دو روز راه، بر مرز توران، چمنزاری است که منیژه، دختر افراسیاب، هر بهار با کنیزانش در آن جشن می‌گیرد، و افزود: «چه زیان دارد اگر از دور تماشایی کنیم؟»",
      "r": "be Bizhan goft ke dar do ruz rāh, bar marz-e Turān, chamanzār-i ast ke Manizhe, dokhtar-e Afrāsiyāb, har bahār bā kanizān-ash dar ān jashn mi-girad, va afzud: «che ziyān dārad agar az dur tamāshā-yi konim?»",
-     "en": "He told Bizhan that two days' ride away, on the border of Turan, there was a meadow where every spring Manizheh, the daughter of Afrasiab, held a festival with her maidens, and he added: \"What harm is there in taking a look from afar?\""
+     "en": "He told Bizhan that two days' ride away, on the border of Turan, there was a meadow where every spring Manizheh, the daughter of Afrasiab, held a festival with her maidens, and he added: \"What harm is there in taking a look from afar?\"",
+     "faV": "به بیژَن گُفت که دَر دو روز راه، بَر مَرزِ توران، چَمَنزاری اَست که مَنیژه، دُختَرِ اَفراسیاب، هَر بَهار با کَنیزانَش دَر آن جَشن می‌گیرَد، و اَفزود: «چه زیان دارَد اَگَر اَز دور تَماشایی کُنیم؟»",
+     "a": "75bac0b59c29"
     }
    ]
   },
@@ -66,17 +82,23 @@
     {
      "fa": "بیژن، جوان و پرشور، بی‌آن‌که در نیت گرگین تردید کند، جامه‌ای زربفت پوشید و به آن چمنزار رفت و در سایه‌ی سروی، نزدیک سراپرده‌ی منیژه، ایستاد.",
      "r": "Bizhan, javān o por-shur, bi-ān-ke dar niyyat-e Gorgin tardid konad, jāme-i zarbaft pushid va be ān chamanzār raft va dar sāye-ye sarv-i, nazdik-e sarāparde-ye Manizhe, istād.",
-     "en": "Bizhan, young and ardent, without a doubt about Gorgin's intentions, put on a robe of cloth-of-gold, rode to the meadow and stood in the shade of a cypress near Manizheh's pavilion."
+     "en": "Bizhan, young and ardent, without a doubt about Gorgin's intentions, put on a robe of cloth-of-gold, rode to the meadow and stood in the shade of a cypress near Manizheh's pavilion.",
+     "faV": "بیژَن، جَوان و پُرشور، بی‌آن‌که دَر نیَّتِ گُرگین تَردید کُنَد، جامه‌ای زَربَفت پوشید و به آن چَمَنزار رَفت و دَر سایه‌یِ سَروی، نَزدیکِ سَراپَرده‌یِ مَنیژه، ایستاد.",
+     "a": "973ae5b9b4fe"
     },
     {
      "fa": "منیژه از پس پرده او را دید و چنان دل به او باخت که دایه‌اش را فرستاد تا بپرسد آیا او سیاوش است که دوباره زنده شده، یا پری‌زاده‌ای است.",
      "r": "Manizhe az pas-e parde u rā did va chenān del be u bākht ke dāye-ash rā ferestād tā be-porsad āyā u Siyāvash ast ke dobāre zende shode, yā pari-zāde-i ast.",
-     "en": "From behind the curtain Manizheh saw him and lost her heart to him so completely that she sent her nurse to ask whether he was Siavash come back to life, or a child of the fairies."
+     "en": "From behind the curtain Manizheh saw him and lost her heart to him so completely that she sent her nurse to ask whether he was Siavash come back to life, or a child of the fairies.",
+     "faV": "مَنیژه اَز پَسِ پَرده او را دید و چِنان دِل به او باخت که دایه‌اَش را فِرِستاد تا بِپُرسَد آیا او سیاوَش اَست که دوباره زِنده شُده، یا پَری‌زاده‌ای اَست.",
+     "a": "d87ddc4a9900"
     },
     {
      "fa": "سه روز در سراپرده به بزم نشستند، و چون هنگام رفتن رسید، منیژه که تاب جدایی نداشت، داروی بیهوشی در جام بیژن ریخت و او را خفته در عماری‌ای پوشیده، پنهانی به کاخ پدرش برد.",
      "r": "se ruz dar sarāparde be bazm neshastand, va chon hengām-e raftan resid, Manizhe ke tāb-e jodāyi na-dāsht, dāru-ye bihushi dar jām-e Bizhan rikht va u rā khofte dar amāri-i pushide, penhāni be kākh-e pedar-ash bord.",
-     "en": "For three days they feasted in the pavilion, and when the time came to leave, Manizheh, who could not bear the parting, poured a sleeping draught into Bizhan's cup and carried him off asleep in a covered litter, in secret, to her father's palace."
+     "en": "For three days they feasted in the pavilion, and when the time came to leave, Manizheh, who could not bear the parting, poured a sleeping draught into Bizhan's cup and carried him off asleep in a covered litter, in secret, to her father's palace.",
+     "faV": "سه روز دَر سَراپَرده به بَزم نِشَستَند، و چون هِنگامِ رَفتَن رِسید، مَنیژه که تابِ جُدایی نَداشت، دارویِ بیهوشی دَر جامِ بیژَن ریخت و او را خُفته دَر عَماری‌ای پوشیده، پِنهانی به کاخِ پِدَرَش بُرد.",
+     "a": "7a879e65969d"
     }
    ]
   },
@@ -85,22 +107,30 @@
     {
      "fa": "چندی نگذشت که راز آن دو فاش شد؛ افراسیاب خشمگین فرمان داد بیژن را به دار بیاویزند، و اگر پیران، سپهدار خردمند توران، به میانجی‌گری برنخاسته بود، کار جوان ساخته بود.",
      "r": "chandi na-gozasht ke rāz-e ān do fāsh shod; Afrāsiyāb-e khashmgin farmān dād Bizhan rā be dār biyāvizand, va agar Pirān, sepahdār-e kheradmand-e Turān, be miyānji-gari bar-na-khāste bud, kār-e javān sākhte bud.",
-     "en": "Before long the lovers' secret came out; the furious Afrasiab ordered Bizhan to be hanged, and had Piran, the wise commander of Turan, not stepped in to plead for him, the young man would have been finished."
+     "en": "Before long the lovers' secret came out; the furious Afrasiab ordered Bizhan to be hanged, and had Piran, the wise commander of Turan, not stepped in to plead for him, the young man would have been finished.",
+     "faV": "چَندی نَگُذَشت که رازِ آن دو فاش شُد؛ اَفراسیابِ خَشمگین فَرمان داد بیژَن را به دار بیاویزَند، و اَگَر پیران، سِپَهدارِ خِرَدمَندِ توران، به میانجی‌گَری بَرنَخاسته بود، کارِ جَوان ساخته بود.",
+     "a": "2a5e653258ff"
     },
     {
      "fa": "پیران شاه را از خونی که پس از کشته شدن سیاوش ریخته شده بود بیم داد، و افراسیاب، هرچند آرام نگرفت، از کشتن بیژن چشم پوشید.",
      "r": "Pirān shāh rā az khun-i ke pas az koshte shodan-e Siyāvash rikhte shode bud bim dād, va Afrāsiyāb, harchand ārām na-gereft, az koshtan-e Bizhan cheshm pushid.",
-     "en": "Piran reminded the king, as a warning, of the blood that had been shed after Siavash was killed, and Afrasiab, though his anger did not cool, gave up the idea of killing Bizhan."
+     "en": "Piran reminded the king, as a warning, of the blood that had been shed after Siavash was killed, and Afrasiab, though his anger did not cool, gave up the idea of killing Bizhan.",
+     "faV": "پیران شاه را اَز خونی که پَس اَز کُشته شُدَنِ سیاوَش ریخته شُده بود بیم داد، و اَفراسیاب، هَرچَند آرام نَگِرِفت، اَز کُشتَنِ بیژَن چِشم پوشید.",
+     "a": "649f6aa27247"
     },
     {
      "fa": "به جای آن، فرمود او را از سر تا پا در بند کنند و در چاهی تاریک بیندازند، و سنگ عظیم اکوان دیو را از بیشه آوردند و بر دهانه‌ی چاه نهادند.",
      "r": "be jā-ye ān, farmud u rā az sar tā pā dar band konand va dar chāh-i tārik biyandāzand, va sang-e azim-e Akvān-e div rā az bishe āvardand va bar dahāne-ye chāh nahādand.",
-     "en": "Instead, he commanded that Bizhan be chained from head to foot and thrown into a dark pit, and the huge stone of Akvan the Div was brought from the forest and laid over the mouth of the pit."
+     "en": "Instead, he commanded that Bizhan be chained from head to foot and thrown into a dark pit, and the huge stone of Akvan the Div was brought from the forest and laid over the mouth of the pit.",
+     "faV": "به جایِ آن، فَرمود او را اَز سَر تا پا دَر بَند کُنَند و دَر چاهی تاریک بیَندازَند، و سَنگِ عَظیمِ اَکوانِ دیو را اَز بیشه آوَردَند و بَر دَهانه‌یِ چاه نَهادَند.",
+     "a": "6a7ca659f9e4"
     },
     {
      "fa": "منیژه را نیز سربرهنه و پابرهنه از کاخ بیرون راندند، و او از آن پس روزها در کوی و برزن نان گدایی می‌کرد و شب‌ها آن را از روزنی تنگ به درون چاه می‌فرستاد.",
      "r": "Manizhe rā niz sar-berahne o pā-berahne az kākh birun rāndand, va u az ān pas ruz-hā dar kuy o barzan nān gedāyi mi-kard va shab-hā ān rā az rowzan-i tang be darun-e chāh mi-ferestād.",
-     "en": "Manizheh too was driven from the palace bareheaded and barefoot, and from then on she begged for bread in the streets by day and by night passed it down into the pit through a narrow chink."
+     "en": "Manizheh too was driven from the palace bareheaded and barefoot, and from then on she begged for bread in the streets by day and by night passed it down into the pit through a narrow chink.",
+     "faV": "مَنیژه را نیز سَربِرَهنه و پابِرَهنه اَز کاخ بیرون راندَند، و او اَز آن پَس روزها دَر کوی و بَرزَن نان گِدایی می‌کَرد و شَب‌ها آن را اَز رَوزَنی تَنگ به دَرونِ چاه می‌فِرِستاد.",
+     "a": "1680e7b8cc3b"
     }
    ]
   },
@@ -109,22 +139,30 @@
     {
      "fa": "در این میان، گرگین تنها به ایران بازگشته و دروغ گفته بود که بیژن در پی گوری شگفت تاخته و ناپدید شده است.",
      "r": "dar in miyān, Gorgin tanhā be Irān bāzgashte va dorugh gofte bud ke Bizhan dar pey-e gur-i shegeft tākhte va nāpadid shode ast.",
-     "en": "Meanwhile Gorgin had returned to Iran alone and lied that Bizhan had galloped off after a wondrous wild ass and vanished."
+     "en": "Meanwhile Gorgin had returned to Iran alone and lied that Bizhan had galloped off after a wondrous wild ass and vanished.",
+     "faV": "دَر این میان، گُرگین تَنها به ایران بازگَشته و دُروغ گُفته بود که بیژَن دَر پِیِ گوری شِگِفت تاخته و ناپَدید شُده اَست.",
+     "a": "d60a7d505100"
     },
     {
      "fa": "گیو از اندوه جامه درید، و کیخسرو که پریشانی گرگین را دیده بود، او را به بند کشید و تا نوروز صبر کرد.",
      "r": "Giv az anduh jāme darid, va Keykhosrow ke parishāni-ye Gorgin rā dide bud, u rā be band keshid va tā nowruz sabr kard.",
-     "en": "Giv tore his clothes in grief, and Kay Khosrow, who had noticed Gorgin's confusion, put him in chains and waited for Nowruz."
+     "en": "Giv tore his clothes in grief, and Kay Khosrow, who had noticed Gorgin's confusion, put him in chains and waited for Nowruz.",
+     "faV": "گیو اَز اَندوه جامه دَرید، و کَیخُسرَو که پَریشانیِ گُرگین را دیده بود، او را به بَند کِشید و تا نَوروز صَبر کَرد.",
+     "a": "aef4ce368c96"
     },
     {
      "fa": "آن‌گاه در جام جهان‌نمای خویش نگریست، هفت کشور را یکایک از نظر گذراند و سرانجام بیژن را دید که در چاهی در توران زنجیر بر پا دارد و دختری از بزرگان بر سر چاه به او خدمت می‌کند.",
      "r": "ān-gāh dar jām-e jahān-namā-ye khish negarist, haft keshvar rā yekāyek az nazar gozarānd va saranjām Bizhan rā did ke dar chāh-i dar Turān zanjir bar pā dārad va dokhtar-i az bozorgān bar sar-e chāh be u khedmat mi-konad.",
-     "en": "Then he gazed into his world-revealing cup, passed the seven climes of the earth one by one before his eyes, and at last saw Bizhan in a pit in Turan, with chains on his legs and a girl of noble birth serving him at the mouth of the pit."
+     "en": "Then he gazed into his world-revealing cup, passed the seven climes of the earth one by one before his eyes, and at last saw Bizhan in a pit in Turan, with chains on his legs and a girl of noble birth serving him at the mouth of the pit.",
+     "faV": "آن‌گاه دَر جامِ جَهان‌نَمایِ خویش نِگَریست، هَفت کِشوَر را یِکایِک اَز نَظَر گُذَراند و سَراَنجام بیژَن را دید که دَر چاهی دَر توران زَنجیر بَر پا دارَد و دُختَری اَز بُزُرگان بَر سَرِ چاه به او خِدمَت می‌کُنَد.",
+     "a": "63f0ce944122"
     },
     {
      "fa": "شاه دانست که جز رستم کسی از عهده‌ی این کار برنمی‌آید.",
      "r": "shāh dānest ke joz Rostam kas-i az ohde-ye in kār bar-nemi-āyad.",
-     "en": "The king knew that no one but Rostam could accomplish such a task."
+     "en": "The king knew that no one but Rostam could accomplish such a task.",
+     "faV": "شاه دانِست که جُز رُستَم کَسی اَز عُهده‌یِ این کار بَرنِمی‌آیَد.",
+     "a": "517ab38f41a3"
     }
    ]
   },
@@ -133,22 +171,30 @@
     {
      "fa": "رستم از زابل آمد، و نخست از شاه خواست گرگین را ببخشد؛ سپس با هفت پهلوان، همه در جامه‌ی بازرگانان، و کاروانی از گوهر و دیبا راهی ختن شد.",
      "r": "Rostam az Zābol āmad, va nakhost az shāh khāst Gorgin rā be-bakhshad; sepas bā haft pahlavān, hame dar jāme-ye bāzargānān, va kārvān-i az gowhar o dibā rāhi-ye Khotan shod.",
-     "en": "Rostam came from Zabol, and first of all he asked the king to pardon Gorgin; then, with seven champions all dressed as merchants and a caravan of jewels and brocade, he set out for Khotan."
+     "en": "Rostam came from Zabol, and first of all he asked the king to pardon Gorgin; then, with seven champions all dressed as merchants and a caravan of jewels and brocade, he set out for Khotan.",
+     "faV": "رُستَم اَز زابُل آمَد، و نَخُست اَز شاه خواست گُرگین را بِبَخشَد؛ سِپَس با هَفت پَهلَوان، هَمه دَر جامه‌یِ بازَرگانان، و کاروانی اَز گَوهَر و دیبا راهیِ خُتَن شُد.",
+     "a": "82d6b607740c"
     },
     {
      "fa": "پیران بازرگان ناشناس را به گرمی پذیرفت، و خبر آمدن کاروانی از ایران به گوش منیژه رسید.",
      "r": "Pirān bāzargān-e nāshenās rā be garmi paziroft, va khabar-e āmadan-e kārvān-i az Irān be gush-e Manizhe resid.",
-     "en": "Piran received the unknown merchant warmly, and the news that a caravan had come from Iran reached Manizheh's ears."
+     "en": "Piran received the unknown merchant warmly, and the news that a caravan had come from Iran reached Manizheh's ears.",
+     "faV": "پیران بازَرگانِ ناشِناس را به گَرمی پَذیرُفت، و خَبَرِ آمَدَنِ کاروانی اَز ایران به گوشِ مَنیژه رِسید.",
+     "a": "94d541ccbe64"
     },
     {
      "fa": "دختر شاه، با چشمانی گریان و جامه‌ای ژنده، نزد رستم آمد و از گیو و گودرز و ایران خبر خواست؛ رستم، از بیم آن‌که رازش آشکار شود، بر او بانگ زد که نه شاهی می‌شناسد و نه پهلوانی.",
      "r": "dokhtar-e shāh, bā cheshmān-i geryān va jāme-i zhande, nazd-e Rostam āmad va az Giv o Gudarz o Irān khabar khāst; Rostam, az bim-e ān-ke rāz-ash āshkār shavad, bar u bāng zad ke na shāh-i mi-shenāsad va na pahlavān-i.",
-     "en": "The king's daughter, weeping and in rags, came to Rostam and asked for news of Giv, of Gudarz and of Iran; Rostam, afraid that his secret would come out, shouted at her that he knew no king and no champion."
+     "en": "The king's daughter, weeping and in rags, came to Rostam and asked for news of Giv, of Gudarz and of Iran; Rostam, afraid that his secret would come out, shouted at her that he knew no king and no champion.",
+     "faV": "دُختَرِ شاه، با چِشمانی گِریان و جامه‌ای ژَنده، نَزدِ رُستَم آمَد و اَز گیو و گودَرز و ایران خَبَر خواست؛ رُستَم، اَز بیمِ آن‌که رازَش آشکار شَوَد، بَر او بانگ زَد که نه شاهی می‌شِناسَد و نه پَهلَوانی.",
+     "a": "2572ff75d238"
     },
     {
      "fa": "اما دلش به حال او سوخت، و مرغی بریان در نانی پیچید و انگشتری خود را پنهانی در آن نهاد.",
      "r": "ammā del-ash be hāl-e u sukht, va morgh-i beryān dar nān-i pichid va angoshtari-ye khod rā penhāni dar ān nahād.",
-     "en": "But his heart went out to her, and he wrapped a roast fowl in a round of bread and secretly hid his own ring inside it."
+     "en": "But his heart went out to her, and he wrapped a roast fowl in a round of bread and secretly hid his own ring inside it.",
+     "faV": "اَمّا دِلَش به حالِ او سوخت، و مُرغی بِریان دَر نانی پیچید و اَنگُشتَریِ خود را پِنهانی دَر آن نَهاد.",
+     "a": "3f4fee7999ee"
     }
    ]
   },
@@ -157,22 +203,30 @@
     {
      "fa": "بیژن در تاریکی چاه نان را گشود، انگشتر را یافت و چون نام رستم را بر نگین آن خواند، چنان بلند خندید که منیژه پنداشت دیوانه شده است.",
      "r": "Bizhan dar tāriki-ye chāh nān rā goshud, angoshtar rā yāft va chon nām-e Rostam rā bar negin-e ān khānd, chenān boland khandid ke Manizhe pendāsht divāne shode ast.",
-     "en": "In the darkness of the pit Bizhan opened the bread and found the ring, and when he read Rostam's name on its seal he laughed so loudly that Manizheh thought he had gone mad."
+     "en": "In the darkness of the pit Bizhan opened the bread and found the ring, and when he read Rostam's name on its seal he laughed so loudly that Manizheh thought he had gone mad.",
+     "faV": "بیژَن دَر تاریکیِ چاه نان را گُشود، اَنگُشتَر را یافت و چون نامِ رُستَم را بَر نِگینِ آن خواند، چِنان بُلَند خَندید که مَنیژه پِنداشت دیوانه شُده اَست.",
+     "a": "376e95b96865"
     },
     {
      "fa": "بیژن پس از آن‌که از او سوگند گرفت که راز را نگه دارد، گفت: «برو و از آن بازرگان بپرس که آیا او خداوند رخش است.»",
      "r": "Bizhan pas az ān-ke az u sowgand gereft ke rāz rā negah dārad, goft: «be-ro va az ān bāzargān be-pors ke āyā u khodāvand-e Rakhsh ast.»",
-     "en": "After making her swear to keep the secret, Bizhan said: \"Go and ask that merchant whether he is the master of Rakhsh.\""
+     "en": "After making her swear to keep the secret, Bizhan said: \"Go and ask that merchant whether he is the master of Rakhsh.\"",
+     "faV": "بیژَن پَس اَز آن‌که اَز او سَوگَند گِرِفت که راز را نِگَه دارَد، گُفت: «بِرو و اَز آن بازَرگان بِپُرس که آیا او خُداوَندِ رَخش اَست.»",
+     "a": "7fedefd1c96c"
     },
     {
      "fa": "رستم پاسخ داد که آری، و از منیژه خواست شب‌هنگام آتشی بزرگ بر سر چاه برافروزد تا راه را بر او بنماید.",
      "r": "Rostam pāsokh dād ke āri, va az Manizhe khāst shab-hengām ātash-i bozorg bar sar-e chāh bar-afruzad tā rāh rā bar u be-namāyad.",
-     "en": "Rostam answered that he was, and asked Manizheh to light a great fire at the mouth of the pit after nightfall, to show him the way."
+     "en": "Rostam answered that he was, and asked Manizheh to light a great fire at the mouth of the pit after nightfall, to show him the way.",
+     "faV": "رُستَم پاسُخ داد که آری، و اَز مَنیژه خواست شَب‌هِنگام آتَشی بُزُرگ بَر سَرِ چاه بَراَفروزَد تا راه را بَر او بِنَمایَد.",
+     "a": "e5b5023084f5"
     },
     {
      "fa": "آن شب، پهلوانان هرچه کوشیدند، سنگ اکوان از جا نجنبید؛ آن‌گاه رستم دامن به کمر زد، سنگ را برداشت و به بیشه پرتاب کرد، چنان‌که زمین زیر پایش لرزید.",
      "r": "ān shab, pahlavānān harche kushidand, sang-e Akvān az jā na-jonbid; ān-gāh Rostam dāman be kamar zad, sang rā bar-dāsht va be bishe partāb kard, chenān-ke zamin zir-e pā-yash larzid.",
-     "en": "That night, however hard the champions strained, Akvan's stone would not budge; then Rostam tucked his skirts into his belt, lifted the stone and hurled it into the forest, so that the earth shook under his feet."
+     "en": "That night, however hard the champions strained, Akvan's stone would not budge; then Rostam tucked his skirts into his belt, lifted the stone and hurled it into the forest, so that the earth shook under his feet.",
+     "faV": "آن شَب، پَهلَوانان هَرچه کوشیدَند، سَنگِ اَکوان اَز جا نَجُنبید؛ آن‌گاه رُستَم دامَن به کَمَر زَد، سَنگ را بَرداشت و به بیشه پَرتاب کَرد، چِنان‌که زَمین زیرِ پایَش لَرزید.",
+     "a": "5c121cfeaa41"
     }
    ]
   },
@@ -181,78 +235,254 @@
     {
      "fa": "اما پیش از آن‌که کمند به چاه بیفکند، از بیژن خواست گرگین را ببخشد؛ بیژن، که رنج آن چاه از نیرنگ گرگین بود، نخست سر باز زد، ولی سرانجام کینه را رها کرد.",
      "r": "ammā pish az ān-ke kamand be chāh biyafkanad, az Bizhan khāst Gorgin rā be-bakhshad; Bizhan, ke ranj-e ān chāh az neyrang-e Gorgin bud, nakhost sar bāz zad, vali saranjām kine rā rahā kard.",
-     "en": "But before he let his lasso down into the pit, he asked Bizhan to forgive Gorgin; Bizhan, whose suffering in that pit was the fruit of Gorgin's trickery, refused at first, but in the end he let go of his hatred."
+     "en": "But before he let his lasso down into the pit, he asked Bizhan to forgive Gorgin; Bizhan, whose suffering in that pit was the fruit of Gorgin's trickery, refused at first, but in the end he let go of his hatred.",
+     "faV": "اَمّا پیش اَز آن‌که کَمَند به چاه بیَفکَنَد، اَز بیژَن خواست گُرگین را بِبَخشَد؛ بیژَن، که رَنجِ آن چاه اَز نَیرَنگِ گُرگین بود، نَخُست سَر باز زَد، وَلی سَراَنجام کینه را رَها کَرد.",
+     "a": "70e192e87359"
     },
     {
      "fa": "رستم او را، رنجور و رنگ‌پریده، از چاه بیرون کشید و زنجیرهایش را گسست؛ همان شب با پهلوانانش بر کاخ افراسیاب تاخت، و سپس بیژن و منیژه را به ایران بازگرداند.",
      "r": "Rostam u rā, ranjur o rang-paride, az chāh birun keshid va zanjir-hā-yash rā gosast; hamān shab bā pahlavānān-ash bar kākh-e Afrāsiyāb tākht, va sepas Bizhan o Manizhe rā be Irān bāzgardānd.",
-     "en": "Rostam drew him out of the pit, wasted and pale, and broke his chains; that same night he and his champions stormed Afrasiab's palace, and afterwards he brought Bizhan and Manizheh back to Iran."
+     "en": "Rostam drew him out of the pit, wasted and pale, and broke his chains; that same night he and his champions stormed Afrasiab's palace, and afterwards he brought Bizhan and Manizheh back to Iran.",
+     "faV": "رُستَم او را، رَنجور و رَنگ‌پَریده، اَز چاه بیرون کِشید و زَنجیرهایَش را گُسَست؛ هَمان شَب با پَهلَوانانَش بَر کاخِ اَفراسیاب تاخت، و سِپَس بیژَن و مَنیژه را به ایران بازگَرداند.",
+     "a": "a26bd63cb964"
     },
     {
      "fa": "کیخسرو منیژه را با هدیه‌های فراوان نواخت و به بیژن سفارش کرد که هرگز سخنی سرد به او نگوید، زیرا آن دختر برای او از تاج و کاخ و پدر گذشته بود.",
      "r": "Keykhosrow Manizhe rā bā hediye-hā-ye farāvān navākht va be Bizhan sefāresh kard ke hargez sokhan-i sard be u na-guyad, zirā ān dokhtar barā-ye u az tāj o kākh o pedar gozashte bud.",
-     "en": "Kay Khosrow honoured Manizheh with many gifts and urged Bizhan never to speak a cold word to her, for that girl had given up crown, palace and father for his sake."
+     "en": "Kay Khosrow honoured Manizheh with many gifts and urged Bizhan never to speak a cold word to her, for that girl had given up crown, palace and father for his sake.",
+     "faV": "کَیخُسرَو مَنیژه را با هِدیه‌هایِ فَراوان نَواخت و به بیژَن سِفارِش کَرد که هَرگِز سُخَنی سَرد به او نَگویَد، زیرا آن دُختَر بَرایِ او اَز تاج و کاخ و پِدَر گُذَشته بود.",
+     "a": "ceec42a8c516"
     }
    ]
   }
  ],
  "vocab": [
-  {"fa": "گراز", "r": "gorāz", "en": "wild boar"},
-  {"fa": "پافشاری کردن", "r": "pāfeshāri kardan", "en": "to insist"},
-  {"fa": "حسد", "r": "hasad", "en": "envy"},
-  {"fa": "ننگ", "r": "nang", "en": "shame, disgrace"},
-  {"fa": "نیرنگ", "r": "neyrang", "en": "trick, deceit"},
-  {"fa": "سراپرده", "r": "sarāparde", "en": "royal pavilion, tent enclosure"},
-  {"fa": "دل باختن", "r": "del bākhtan", "en": "to lose one's heart, to fall in love"},
-  {"fa": "دایه", "r": "dāye", "en": "nurse (who brought up a child)"},
-  {"fa": "بزم", "r": "bazm", "en": "feast, banquet"},
-  {"fa": "داروی بیهوشی", "r": "dāru-ye bihushi", "en": "sleeping draught"},
-  {"fa": "عماری", "r": "amāri", "en": "covered litter (carried on a camel or by men)"},
-  {"fa": "میانجی‌گری", "r": "miyānji-gari", "en": "intercession, mediation"},
-  {"fa": "چشم پوشیدن از", "r": "cheshm pushidan az", "en": "to give up, to forgo"},
-  {"fa": "در بند کردن", "r": "dar band kardan", "en": "to put in chains"},
-  {"fa": "گدایی کردن", "r": "gedāyi kardan", "en": "to beg"},
-  {"fa": "روزن", "r": "rowzan", "en": "small opening, chink"},
-  {"fa": "جام جهان‌نما", "r": "jām-e jahān-namā", "en": "the world-revealing cup"},
-  {"fa": "بازرگان", "r": "bāzargān", "en": "merchant"},
-  {"fa": "ژنده", "r": "zhande", "en": "ragged, in tatters"},
-  {"fa": "نگین", "r": "negin", "en": "the stone or seal of a ring"},
-  {"fa": "سوگند", "r": "sowgand", "en": "oath"},
-  {"fa": "کمند", "r": "kamand", "en": "lasso"},
-  {"fa": "کینه", "r": "kine", "en": "hatred, grudge"},
-  {"fa": "سر باز زدن", "r": "sar bāz zadan", "en": "to refuse"}
+  {
+   "fa": "گراز",
+   "r": "gorāz",
+   "en": "wild boar",
+   "faV": "گُراز",
+   "a": "c3120f6eed43"
+  },
+  {
+   "fa": "پافشاری کردن",
+   "r": "pāfeshāri kardan",
+   "en": "to insist",
+   "faV": "پافِشاری کَردَن",
+   "a": "2bf2041a6163"
+  },
+  {
+   "fa": "حسد",
+   "r": "hasad",
+   "en": "envy",
+   "faV": "حَسَد",
+   "a": "a8c44cee679d"
+  },
+  {
+   "fa": "ننگ",
+   "r": "nang",
+   "en": "shame, disgrace",
+   "faV": "نَنگ",
+   "a": "8dbd06351714"
+  },
+  {
+   "fa": "نیرنگ",
+   "r": "neyrang",
+   "en": "trick, deceit",
+   "faV": "نَیرَنگ",
+   "a": "f9e795d37eb0"
+  },
+  {
+   "fa": "سراپرده",
+   "r": "sarāparde",
+   "en": "royal pavilion, tent enclosure",
+   "faV": "سَراپَرده",
+   "a": "9f7274af57f4"
+  },
+  {
+   "fa": "دل باختن",
+   "r": "del bākhtan",
+   "en": "to lose one's heart, to fall in love",
+   "faV": "دِل باختَن",
+   "a": "c0e129553dae"
+  },
+  {
+   "fa": "دایه",
+   "r": "dāye",
+   "en": "nurse (who brought up a child)",
+   "faV": "دایه",
+   "a": "37a498a5c97f"
+  },
+  {
+   "fa": "بزم",
+   "r": "bazm",
+   "en": "feast, banquet",
+   "faV": "بَزم",
+   "a": "a1f1108495f6"
+  },
+  {
+   "fa": "داروی بیهوشی",
+   "r": "dāru-ye bihushi",
+   "en": "sleeping draught",
+   "faV": "دارویِ بیهوشی",
+   "a": "8965285b9632"
+  },
+  {
+   "fa": "عماری",
+   "r": "amāri",
+   "en": "covered litter (carried on a camel or by men)",
+   "faV": "عَماری",
+   "a": "75e9dac6a204"
+  },
+  {
+   "fa": "میانجی‌گری",
+   "r": "miyānji-gari",
+   "en": "intercession, mediation",
+   "faV": "میانجی‌گَری",
+   "a": "9179d34175a9"
+  },
+  {
+   "fa": "چشم پوشیدن از",
+   "r": "cheshm pushidan az",
+   "en": "to give up, to forgo",
+   "faV": "چِشم پوشیدَن اَز",
+   "a": "ae64efb0701c"
+  },
+  {
+   "fa": "در بند کردن",
+   "r": "dar band kardan",
+   "en": "to put in chains",
+   "faV": "دَر بَند کَردَن",
+   "a": "db48faa61768"
+  },
+  {
+   "fa": "گدایی کردن",
+   "r": "gedāyi kardan",
+   "en": "to beg",
+   "faV": "گِدایی کَردَن",
+   "a": "a0e45c39947d"
+  },
+  {
+   "fa": "روزن",
+   "r": "rowzan",
+   "en": "small opening, chink",
+   "faV": "رَوزَن",
+   "a": "0eb67011d0ea"
+  },
+  {
+   "fa": "جام جهان‌نما",
+   "r": "jām-e jahān-namā",
+   "en": "the world-revealing cup",
+   "faV": "جامِ جَهان‌نَما",
+   "a": "7affa378b1b6"
+  },
+  {
+   "fa": "بازرگان",
+   "r": "bāzargān",
+   "en": "merchant",
+   "faV": "بازَرگان",
+   "a": "3df2414bccdd"
+  },
+  {
+   "fa": "ژنده",
+   "r": "zhande",
+   "en": "ragged, in tatters",
+   "faV": "ژَنده",
+   "a": "0658b7e5dab8"
+  },
+  {
+   "fa": "نگین",
+   "r": "negin",
+   "en": "the stone or seal of a ring",
+   "faV": "نِگین",
+   "a": "ff3b495a09a6"
+  },
+  {
+   "fa": "سوگند",
+   "r": "sowgand",
+   "en": "oath",
+   "faV": "سَوگَند",
+   "a": "941563da9b96"
+  },
+  {
+   "fa": "کمند",
+   "r": "kamand",
+   "en": "lasso",
+   "faV": "کَمَند",
+   "a": "1202a862e1bd"
+  },
+  {
+   "fa": "کینه",
+   "r": "kine",
+   "en": "hatred, grudge",
+   "faV": "کینه",
+   "a": "ace5406e7ce8"
+  },
+  {
+   "fa": "سر باز زدن",
+   "r": "sar bāz zadan",
+   "en": "to refuse",
+   "faV": "سَر باز زَدَن",
+   "a": "c3db5238cadf"
+  }
  ],
  "questions": [
   {
    "q": "Why did Kay Khosrow send Gorgin with Bizhan?",
-   "options": ["to fight the boars beside him", "because Gorgin knew the roads", "to keep watch on Giv"],
+   "options": [
+    "to fight the boars beside him",
+    "because Gorgin knew the roads",
+    "to keep watch on Giv"
+   ],
    "answer": 1
   },
   {
    "q": "Why did Gorgin tell Bizhan about Manizheh's meadow?",
-   "options": ["out of envy, and fear of the shame of returning empty-handed", "because Afrasiab had paid him", "because Manizheh had asked him to"],
+   "options": [
+    "out of envy, and fear of the shame of returning empty-handed",
+    "because Afrasiab had paid him",
+    "because Manizheh had asked him to"
+   ],
    "answer": 0
   },
   {
    "q": "How did Bizhan end up in Afrasiab's palace?",
-   "options": ["he was captured in battle", "Manizheh drugged him and carried him there asleep in a litter", "he went there in disguise"],
+   "options": [
+    "he was captured in battle",
+    "Manizheh drugged him and carried him there asleep in a litter",
+    "he went there in disguise"
+   ],
    "answer": 1
   },
   {
    "q": "Why was Bizhan thrown into the pit instead of being hanged?",
-   "options": ["Manizheh begged for his life", "Piran warned Afrasiab of the bloodshed that followed Siavash's death", "Garsivaz took pity on him"],
+   "options": [
+    "Manizheh begged for his life",
+    "Piran warned Afrasiab of the bloodshed that followed Siavash's death",
+    "Garsivaz took pity on him"
+   ],
    "answer": 1
   },
   {
    "q": "How did Bizhan learn that Rostam had come?",
-   "options": ["he heard Rakhsh neigh", "he found Rostam's ring hidden in the bread", "Manizheh recognised Rostam"],
+   "options": [
+    "he heard Rakhsh neigh",
+    "he found Rostam's ring hidden in the bread",
+    "Manizheh recognised Rostam"
+   ],
    "answer": 1
   },
   {
    "q": "What did Rostam ask of Bizhan before pulling him out of the pit?",
-   "options": ["to marry Manizheh", "to forgive Gorgin", "to swear loyalty to Kay Khosrow"],
+   "options": [
+    "to marry Manizheh",
+    "to forgive Gorgin",
+    "to swear loyalty to Kay Khosrow"
+   ],
    "answer": 1
   }
  ],
- "after": "Ferdowsi frames this story more personally than any other in the Shahnameh: on a sleepless, pitch-black night a 'kind companion' brings him a lamp and reads him the tale from an old book, and he promises to put it into verse. The opening line quoted here is one of the most famous descriptions of night in Persian. Scholars have suggested that the story may be one of the first parts of the epic that Ferdowsi wrote. Kay Khosrow's world-revealing cup became, in later poetry, the 'cup of Jamshid' (جام جم), a symbol of insight in Hafez and the mystics. Notice the literary style: verbs of motion and speech without 'to' (فرمود … در بند کنند, خواست … بیفروزد), the old verbs نهادن 'to place', نگریستن 'to look', پنداشتن 'to suppose', گسستن 'to break', and the past counterfactual with two past perfects: اگر پیران … برنخاسته بود، کار جوان ساخته بود 'if Piran had not risen…, the young man would have been finished'."
+ "after": "Ferdowsi frames this story more personally than any other in the Shahnameh: on a sleepless, pitch-black night a 'kind companion' brings him a lamp and reads him the tale from an old book, and he promises to put it into verse. The opening line quoted here is one of the most famous descriptions of night in Persian. Scholars have suggested that the story may be one of the first parts of the epic that Ferdowsi wrote. Kay Khosrow's world-revealing cup became, in later poetry, the 'cup of Jamshid' (جام جم), a symbol of insight in Hafez and the mystics. Notice the literary style: verbs of motion and speech without 'to' (فرمود … در بند کنند, خواست … بیفروزد), the old verbs نهادن 'to place', نگریستن 'to look', پنداشتن 'to suppose', گسستن 'to break', and the past counterfactual with two past perfects: اگر پیران … برنخاسته بود، کار جوان ساخته بود 'if Piran had not risen…, the young man would have been finished'.",
+ "titleV": "بیژَن و مَنیژه",
+ "titleA": "9ab60c765535"
 }

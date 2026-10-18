@@ -823,6 +823,84 @@
     });
   }
 
+  /* ---------------------------------------------------------- print (A4): exercises become a worksheet, answers go on the last page */
+  var LET = "abcdefghijklmnopqrstuvwxyz";
+  function seededShuffle(arr, seed) {
+    var a = arr.slice(), s = seed;
+    for (var i = a.length - 1; i > 0; i--) { s = (s * 9301 + 49297) % 233280; var j = Math.floor(s / 233280 * (i + 1)); var t = a[i]; a[i] = a[j]; a[j] = t; }
+    return a;
+  }
+  function optLine(opts) {
+    return h("div", { "class": "exp-opts" }, (opts || []).map(function (o, i) {
+      return h("span", null, LET[i] + ") ", isFa(o) ? faEl("bdi", o) : o);
+    }));
+  }
+  function buildPrint() {
+    if (document.body.getAttribute("data-print-ready")) return;
+    document.body.setAttribute("data-print-ready", "1");
+    var keys = [], n = 0;
+    $$("main .ex").forEach(function (box) {
+      var el = $(".ex-data", box), d;
+      if (!el) return;
+      try { d = JSON.parse(el.textContent); } catch (e) { return; }
+      n++;
+      var items = d.items || [], list = h("ol", { "class": "exp-list" }), ans = [], title = "Exercise " + n;
+      if (d.kind === "match") {
+        var order = seededShuffle(items.map(function (x, i) { return i; }), n * 31 + items.length);
+        var tb = h("tbody");
+        items.forEach(function (it, i) {
+          var right = items[order[i]];
+          tb.append(h("tr", null, h("td", { text: (i + 1) + "." }), faEl("td", it.fa, "fa"), h("td", { text: "____" }),
+            h("td", { text: LET[i] + ") " + (right.en || "") })));
+          ans.push((i + 1) + " " + LET[order.indexOf(i)]);
+        });
+        box.append(h("div", { "class": "ex-print" }, h("p", { "class": "exp-n", text: title + " – match the Persian with the English." }), h("table", { "class": "exp-match" }, tb)));
+      } else {
+        var how = { mcq: "Choose the right answer.", listen: "Read the sentence and choose its meaning.", fill: "Write the missing word.",
+          translate: "Write in Persian.", order: "Put the words in the right order." }[d.kind] || "";
+        items.forEach(function (it, i) {
+          var li = h("li");
+          if (d.kind === "mcq") { li.append(h("div", { html: it.q }), optLine(it.o)); ans.push((i + 1) + " " + LET[it.ans]); }
+          else if (d.kind === "listen") { li.append(faEl("p", it.fa, "fa"), optLine(it.o)); ans.push((i + 1) + " " + LET[it.ans]); }
+          else if (d.kind === "fill") {
+            li.append(faEl("p", (it.fa || "").replace("___", " ……………… "), "fa"), h("p", { "class": "meta", text: it.en + (it.hint ? " (hint: " + it.hint + ")" : "") }));
+            ans.push([(i + 1) + " ", faEl("bdi", it.ans)]);
+          } else if (d.kind === "translate") { li.append(h("p", { text: it.en }), h("div", { "class": "exp-line" })); ans.push([(i + 1) + " ", faEl("bdi", it.fa)]); }
+          else if (d.kind === "order") {
+            var words = (it.fa || "").replace(/[.؟!،]+$/, "").split(" ");
+            li.append(faEl("p", seededShuffle(words, n * 17 + i + 3).join("  /  "), "fa exp-words"), h("p", { "class": "meta", text: it.en }), h("div", { "class": "exp-line" }));
+            ans.push([(i + 1) + " ", faEl("bdi", it.fa)]);
+          } else { li.append(faEl("p", it.fa, "fa"), h("p", { text: it.en })); }
+          list.append(li);
+        });
+        box.append(h("div", { "class": "ex-print" }, h("p", { "class": "exp-n", text: title + (how ? " – " + how : "") }), list));
+      }
+      if (ans.length) keys.push([title, ans]);
+    });
+    var host = $("main article") || $("main .narrow-in") || $("main .narrow") || $("main");
+    if (keys.length) {
+      var sec = h("section", { "class": "print-key" }, h("h2", { text: "Answer key" }));
+      keys.forEach(function (k) {
+        if (Array.isArray(k[1][0])) {          /* Persian answers: one per line */
+          sec.append(h("p", null, h("strong", { text: k[0] })),
+            h("ol", { "class": "key-list" }, k[1].map(function (a) { return h("li", null, a[1]); })));
+        } else {
+          sec.append(h("p", null, h("strong", { text: k[0] + ": " }), k[1].join("  ·  ")));
+        }
+      });
+      host.append(sec);
+    }
+    host.append(h("p", { "class": "print-foot", text: document.title + " – " + location.href.split("#")[0] + " – free audio for every sentence at this address." }));
+  }
+  var reopened = [];
+  window.addEventListener("beforeprint", function () {
+    buildPrint();
+    reopened = $$("main details:not([open])");
+    reopened.forEach(function (d) { d.setAttribute("open", ""); });
+  });
+  window.addEventListener("afterprint", function () { reopened.forEach(function (d) { d.removeAttribute("open"); }); reopened = []; });
+  $$("[data-print]").forEach(function (btn) { btn.addEventListener("click", function () { buildPrint(); window.print(); }); });
+
   /* ---------------------------------------------------------- offline */
   var canCache = "serviceWorker" in navigator && "caches" in window && (location.protocol === "https:" || location.hostname === "localhost" || location.hostname === "127.0.0.1");
   if (canCache) {

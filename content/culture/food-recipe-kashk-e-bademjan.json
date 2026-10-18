@@ -1,0 +1,132 @@
+{
+ "id": "food-recipe-kashk-e-bademjan",
+ "topic": "food",
+ "title": "Recipe: kashk-e bademjan",
+ "titleFa": "کشک بادمجان",
+ "titleR": "kashk-e bādemjān",
+ "image": "kashk-e-bademjan",
+ "summary": "Cook along with one of Iran's best-loved starters: fried aubergine mashed with onion and garlic, stirred with tangy kashk and crowned with fried mint and walnuts.",
+ "body": [
+  {
+   "h": "A starter from every Iranian kitchen",
+   "md": "[[کشک بادمجان|kashk-e bādemjān|aubergine with kashk]] is cooked all over Iran. It is a warm, creamy mash of aubergine ([[بادمجان|bādemjān|aubergine]]) and onion, made sharp and savoury by [[کشک|kashk|kashk]] – fermented dried whey, traditionally the leftover of butter-making, boiled down and dried into balls. Today Iranians buy it as a thick liquid in jars.\n\nIt is a starter at parties, a light supper with bread, and a favourite at picnics and family gatherings. Like most home dishes it has no inventor and no single right version – but it always ends with its toppings: more kashk, golden onions and dark green mint oil."
+  },
+  {
+   "h": "Ingredients (for 4)",
+   "md": "- 4 medium aubergines, about 1 kg ([[بادمجان|bādemjān|aubergine]])\n- 2 large onions ([[پیاز|piyāz|onion]])\n- 4–5 cloves of garlic ([[سیر|sir|garlic]])\n- 1 teaspoon turmeric ([[زردچوبه|zardchube|turmeric]])\n- 150 ml (⅔ cup) liquid kashk ([[کشک|kashk|kashk]])\n- 2 tablespoons dried mint ([[نعنای خشک|na'nā-ye khoshk|dried mint]])\n- 40 g (⅓ cup) walnuts, roughly broken ([[گردو|gerdu|walnut]])\n- about 120 ml (½ cup) oil ([[روغن|rowghan|oil]])\n- salt ([[نمک|namak|salt]]) and black pepper ([[فلفل سیاه|felfel-e siyāh|black pepper]])\n- optional: a pinch of saffron ([[زعفران|za'farān|saffron]]) dissolved in 2 tablespoons hot water"
+  },
+  {
+   "h": "Method",
+   "md": "1. Peel the aubergines and cut them lengthwise into slices about 1 cm thick. Sprinkle with salt and leave for 20–30 minutes, then rinse and pat dry. This draws out water and bitterness, so they soak up less oil.\n2. Fry the slices in hot oil until golden on both sides and drain them on paper. (Or brush them with oil and roast at 200°C for about 30 minutes.)\n3. Slice the onions thinly and fry them slowly until deep golden. This is [[پیازداغ|piyāz-dāgh|fried onion]]; set a third aside for the top.\n4. Add the chopped garlic and turmeric to the pan and stir for a minute.\n5. Add the aubergines and half a cup of water, mash everything with a fork or potato masher and cook gently for 10 minutes.\n6. Stir in most of the kashk, keeping a few spoonfuls back, and let it bubble on low heat for 5 minutes. Taste before adding salt and pepper.\n7. For the [[نعناداغ|na'nā-dāgh|mint oil]], warm 2 tablespoons of oil, take the pan off the heat and stir in the dried mint for just a few seconds.\n8. Spread the mash on a plate and top it with the remaining kashk, the fried onion, the mint oil, the walnuts and, if you like, a few drops of saffron water."
+  },
+  {
+   "h": "Tips",
+   "md": "- Kashk is salty and sour, so add salt only at the end. If it is very thick, thin it with a little water before you use it.\n- Abroad, kashk is sold in Iranian shops as a liquid, a powder or dried balls. If you cannot find it, thick plain yoghurt mixed with a little sour cream is a common substitute, though the taste is milder.\n- Mint burns in seconds: the oil should be hot but off the heat. Burnt mint tastes bitter.\n- Fry the onions slowly. Good piyāz-dāgh is crisp and golden brown, not black."
+  },
+  {
+   "h": "Serving and variations",
+   "md": "Serve kashk-e bademjan warm with flat bread such as [[لواش|lavāsh|lavash]] or [[بربری|barbari|barbari bread]], with fresh herbs and radishes on the side. Some cooks fry a little minced meat with the onions; others grill the aubergines over a flame first for a smoky taste, or add fried garlic to the toppings. It keeps well in the fridge for two days – add the toppings again just before serving.",
+   "image": "lavash"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "بادمجان‌ها را پوست بکنید و از درازا ورقه کنید.",
+   "r": "bādemjān-hā rā pust be-kanid va az derāzā varaghe konid.",
+   "en": "Peel the aubergines and slice them lengthwise.",
+   "col": "بادمجونا رو پوست بکن و از درازا ورقه کن.",
+   "colR": "bādemjun-ā ro pust be-kan o az derāzā varaghe kon."
+  },
+  {
+   "fa": "روی بادمجان‌ها نمک بپاشید تا تلخی‌شان برود.",
+   "r": "ru-ye bādemjān-hā namak be-pāshid tā talkhi-shān be-ravad.",
+   "en": "Sprinkle salt on the aubergines to take away their bitterness."
+  },
+  {
+   "fa": "پیاز را نازک خلال کنید و سرخ کنید تا طلایی شود.",
+   "r": "piyāz rā nāzok khalāl konid va sorkh konid tā talāyi shavad.",
+   "en": "Slice the onion thinly and fry it until it is golden.",
+   "col": "پیازو نازک خلال کن و سرخ کن تا طلایی بشه.",
+   "colR": "piyāz-o nāzok khalāl kon o sorkh kon tā talāyi be-she."
+  },
+  {
+   "fa": "سیر را با زردچوبه کمی تفت بدهید.",
+   "r": "sir rā bā zardchube kami taft be-dahid.",
+   "en": "Fry the garlic briefly with the turmeric.",
+   "col": "سیرو با زردچوبه یه کم تفت بده.",
+   "colR": "sir-o bā zardchube ye kam taft be-de."
+  },
+  {
+   "fa": "بادمجان‌های سرخ‌شده را با چنگال له کنید.",
+   "r": "bādemjān-hā-ye sorkh-shode rā bā changāl leh konid.",
+   "en": "Mash the fried aubergines with a fork."
+  },
+  {
+   "fa": "بگذارید ده دقیقه روی حرارت ملایم بجوشد.",
+   "r": "be-gozārid dah daghighe ru-ye harārat-e molāyem be-jushad.",
+   "en": "Let it simmer on a low heat for ten minutes.",
+   "col": "بذار ده دقیقه رو حرارت ملایم بجوشه.",
+   "colR": "be-zār dah daghighe ru harārat-e molāyem be-jushe."
+  },
+  {
+   "fa": "کشک خیلی شور است، پس اول مزه کنید و بعد نمک بزنید.",
+   "r": "kashk kheyli shur ast, pas avval maze konid va ba'd namak be-zanid.",
+   "en": "Kashk is very salty, so taste first and add salt afterwards."
+  },
+  {
+   "fa": "نعنای خشک را فقط چند ثانیه در روغن داغ تفت بدهید.",
+   "r": "na'nā-ye khoshk rā faghat chand sāniye dar rowghan-e dāgh taft be-dahid.",
+   "en": "Fry the dried mint in hot oil for just a few seconds."
+  },
+  {
+   "fa": "نعناداغ خیلی زود می‌سوزد.",
+   "r": "na'nā-dāgh kheyli zud mi-suzad.",
+   "en": "Mint oil burns very quickly."
+  },
+  {
+   "fa": "روی آن کمی کشک، پیازداغ و گردو بریزید.",
+   "r": "ru-ye ān kami kashk, piyāz-dāgh va gerdu be-rizid.",
+   "en": "Top it with a little kashk, fried onion and walnuts.",
+   "col": "روش یه کم کشک، پیازداغ و گردو بریز.",
+   "colR": "ru-sh ye kam kashk, piyāz-dāgh o gerdu be-riz."
+  },
+  {
+   "fa": "کشک بادمجان را با نان لواش سرو می‌کنیم.",
+   "r": "kashk-e bādemjān rā bā nān-e lavāsh serv mi-konim.",
+   "en": "We serve kashk-e bademjan with lavash bread."
+  },
+  {
+   "fa": "این غذا هم گرم و هم سرد خوشمزه است.",
+   "r": "in ghazā ham garm va ham sard khoshmazze ast.",
+   "en": "This dish is tasty both warm and cold."
+  }
+ ],
+ "vocab": [
+  {"fa": "کشک", "r": "kashk", "en": "kashk, fermented dried whey"},
+  {"fa": "بادمجان", "r": "bādemjān", "en": "aubergine, eggplant"},
+  {"fa": "پیاز", "r": "piyāz", "en": "onion"},
+  {"fa": "سیر", "r": "sir", "en": "garlic"},
+  {"fa": "گردو", "r": "gerdu", "en": "walnut"},
+  {"fa": "نعنا", "r": "na'nā", "en": "mint"},
+  {"fa": "پیازداغ", "r": "piyāz-dāgh", "en": "fried onion (as a topping)"},
+  {"fa": "نعناداغ", "r": "na'nā-dāgh", "en": "dried mint fried in oil"},
+  {"fa": "زردچوبه", "r": "zardchube", "en": "turmeric"},
+  {"fa": "پوست کندن", "r": "pust kandan", "en": "to peel"},
+  {"fa": "خلال کردن", "r": "khalāl kardan", "en": "to slice thinly, to cut into slivers"},
+  {"fa": "تفت دادن", "r": "taft dādan", "en": "to sauté briefly, to toss in hot oil"},
+  {"fa": "له کردن", "r": "leh kardan", "en": "to mash"},
+  {"fa": "مزه کردن", "r": "maze kardan", "en": "to taste"},
+  {"fa": "پاشیدن", "r": "pāshidan", "en": "to sprinkle"},
+  {"fa": "شور", "r": "shur", "en": "salty"},
+  {"fa": "داغ", "r": "dāgh", "en": "hot (of oil, a pan)"},
+  {"fa": "طلایی", "r": "talāyi", "en": "golden"},
+  {"fa": "چنگال", "r": "changāl", "en": "fork"}
+ ],
+ "facts": [
+  "Kashk was traditionally made from the buttermilk left over after churning butter, boiled down and dried into hard balls.",
+  "Piyaz-dagh ('hot onion') and na'na-dagh ('hot mint') are the two classic toppings of kashk-e bademjan and of many Iranian soups.",
+  "Salting aubergine slices before frying draws out water, so they absorb less oil.",
+  "Kashk-e bademjan is usually eaten as a starter or a light meal with bread rather than with rice.",
+  "Iranian shops abroad sell kashk as a liquid, a powder or dried balls that are soaked and ground."
+ ]
+}

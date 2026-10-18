@@ -338,7 +338,8 @@ def study_bar(has_col=False, has_lines=True):
     if has_col:
         b.append('<button type="button" data-toggle="col" aria-pressed="true">Spoken forms</button>')
     b.append('<button type="button" class="play-all" data-playall>Play all</button>'
-             '<button type="button" class="save-off" data-offline hidden title="Keep this page and its recordings on this device">Save offline</button></div>')
+             '<button type="button" class="save-off" data-offline hidden title="Keep this page and its recordings on this device">Save offline</button>'
+             '<button type="button" class="print-btn" data-print title="Print on A4 paper, with the exercises as a worksheet and an answer key">Print</button></div>')
     return "".join(b)
 
 

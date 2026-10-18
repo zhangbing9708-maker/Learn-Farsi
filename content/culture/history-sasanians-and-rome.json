@@ -1,0 +1,127 @@
+{
+ "id": "history-sasanians-and-rome",
+ "topic": "history",
+ "title": "The Sasanians and Rome",
+ "titleFa": "ساسانیان و روم",
+ "titleR": "Sāsāniyān o Rum",
+ "image": "sasanian-empire",
+ "summary": "For four centuries the Sasanian kings of Iran and the emperors of Rome were each other's great rival. This is the story of Ardashir, of Shapur and the captured emperor Valerian, of Khosrow Anushirvan and Gondishapur – and of the last great war with Heraclius that exhausted both empires.",
+ "body": [
+  {
+   "h": "Ardashir: a new dynasty from Fars",
+   "md": "In the early third century AD Iran was ruled by the Parthians, but their power was fading. In Fars, the old homeland of the Achaemenids, a local ruler named [[اردشیر بابکان|Ardeshir-e Bābakān|Ardashir, son of Papak]] rose against them, and in 224 he defeated and killed the last Parthian king, Artabanus IV. His family took its name from an ancestor, Sasan: the [[ساسانیان|Sāsāniyān|Sasanians]].\n\nArdashir called himself 'king of kings of Iran' and his realm [[ایرانشهر|Irānshahr|Iranshahr, 'the land of Iran']]. The Sasanians ruled from [[تیسفون|Tisfun|Ctesiphon]], on the Tigris near modern Baghdad, until the Arab conquest in the 650s – more than four hundred years. Their language was Middle Persian, written in [[خط پهلوی|khatt-e Pahlavi|Pahlavi script]].",
+   "image": "pahlavi-scripts"
+  },
+  {
+   "h": "Shapur I and the captive emperor",
+   "md": "Ardashir's son [[شاپور یکم|Shāpur-e yekom|Shapur I]] turned the new state against [[روم|Rum|Rome]]. In 244 the young emperor Gordian III died after a campaign against him, and his successor Philip the Arab bought peace for half a million denarii. Then, in 260, near Edessa, Shapur did something no enemy of Rome had ever done: he took a Roman emperor, Valerian, [[اسیر|asir|prisoner]]. Valerian died in captivity.\n\nShapur had the scene carved in rock at [[نقش رستم|Naghsh-e Rostam|Naqsh-e Rostam]], beneath the tombs of the Achaemenid kings: the Persian on horseback, a Roman kneeling before him. Thousands of prisoners from Antioch were settled in Iran. Tradition credits them with the great dam-bridge of Shushtar, still called [[بند قیصر|Band-e Gheysar|Caesar's dam]].",
+   "image": "naqsh-e-rostam"
+  },
+  {
+   "h": "Khosrow Anushirvan, 'the Just'",
+   "md": "The most famous Sasanian king is [[خسرو انوشیروان|Khosrow Anushirvān|Khosrow I]] (reigned 531–579). His title means 'of immortal soul', and Persian tradition remembers him as [[انوشیروان دادگر|Anushirvān-e dādgar|Anushirvan the Just]]. He reformed the land tax so that it was fixed by survey rather than guesswork, rebuilt the army, made an 'Eternal Peace' with the emperor Justinian in 532 – and broke it eight years later by sacking Antioch.\n\nHis court was open to ideas. When Justinian closed the philosophical school of Athens, several of its philosophers came to Khosrow. His physician Borzuya brought from India the animal fables that became [[کلیله و دمنه|Kalile va Demne|Kalila and Dimna]], and chess reached Iran in his reign. The great arch of [[طاق کسری|Tāgh-e Kasrā|Taq Kasra]] at Ctesiphon, the largest brick vault of the ancient world, is traditionally linked to him.",
+   "image": "taq-kasra"
+  },
+  {
+   "h": "Gondishapur: a city of physicians",
+   "md": "Shapur I founded the city of [[جندی‌شاپور|Jondi-shāpur|Gondishapur]] in Khuzestan and filled it with his Roman prisoners. Under the later Sasanians it became famous for medicine: Christian physicians who wrote in Syriac, Greek learning, Indian remedies and Persian practice met there, around a [[بیمارستان|bimārestān|hospital]] – a Middle Persian word that Arabic later borrowed.\n\nHow large and organised the 'academy of Gondishapur' really was is debated by historians; much of its fame comes from later Arabic writers. What is certain is that its physicians, such as the Bukhtishu family, went on to serve the Abbasid caliphs in Baghdad and helped pass Greek medicine into the Islamic world.",
+   "image": "kalila-wa-dimna"
+  },
+  {
+   "h": "Heraclius and the last great war",
+   "md": "Khosrow Anushirvan's grandson, Khosrow II, began the longest and most destructive war between the two empires (602–628). His armies took Jerusalem in 614 and carried off the relic of the True Cross, conquered Egypt, and in 626 camped opposite Constantinople itself.\n\nThe Roman emperor [[هراکلیوس|Herāklius|Heraclius]] answered with a daring march through the Caucasus into the heart of Iran and defeated a Persian army near Nineveh in 627. Khosrow II was overthrown and killed by his own son in 628, and peace was made. Both empires were exhausted. Within a few years Arab armies defeated the Sasanians at Qadisiyya and Nahavand, and the last king, Yazdegerd III, was killed in 651.",
+   "image": "taq-e-bostan"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "اردشیر بابکان در سال ۲۲۴ میلادی آخرین شاه اشکانی را شکست داد.",
+   "r": "Ardeshir-e Bābakān dar sāl-e devist-o-bist-o-chahār-e milādi ākharin shāh-e Ashkāni rā shekast dād.",
+   "en": "Ardashir defeated the last Parthian king in AD 224."
+  },
+  {
+   "fa": "ساسانیان بیش از چهارصد سال بر ایران حکومت کردند.",
+   "r": "Sāsāniyān bish az chahārsad sāl bar Irān hokumat kardand.",
+   "en": "The Sasanians ruled Iran for more than four hundred years."
+  },
+  {
+   "fa": "شاپور یکم امپراتور روم را در جنگ اسیر کرد.",
+   "r": "Shāpur-e yekom emperātur-e Rum rā dar jang asir kard.",
+   "en": "Shapur I took the Roman emperor prisoner in battle."
+  },
+  {
+   "fa": "نقش برجسته‌ی شاپور و والرین در نقش رستم است.",
+   "r": "naghsh-e barjaste-ye Shāpur va Vālerian dar Naghsh-e Rostam ast.",
+   "en": "The relief of Shapur and Valerian is at Naqsh-e Rostam."
+  },
+  {
+   "fa": "خسرو انوشیروان به عدالت معروف است.",
+   "r": "Khosrow Anushirvān be edālat ma'ruf ast.",
+   "en": "Khosrow Anushirvan is famous for his justice."
+  },
+  {
+   "fa": "در زمان او کتاب کلیله و دمنه از هندوستان به ایران آمد.",
+   "r": "dar zamān-e u ketāb-e Kalile va Demne az Hendustān be Irān āmad.",
+   "en": "In his time the book Kalila and Dimna came to Iran from India."
+  },
+  {
+   "fa": "جندی‌شاپور یک مرکز مهم پزشکی بود.",
+   "r": "Jondi-shāpur yek markaz-e mohemm-e pezeshki bud.",
+   "en": "Gondishapur was an important centre of medicine."
+  },
+  {
+   "fa": "پزشکان جندی‌شاپور بعدها در بغداد کار کردند.",
+   "r": "pezeshkān-e Jondi-shāpur ba'd-hā dar Baghdād kār kardand.",
+   "en": "Physicians from Gondishapur later worked in Baghdad."
+  },
+  {
+   "fa": "طاق کسری در تیسفون هنوز ایستاده است.",
+   "r": "Tāgh-e Kasrā dar Tisfun hanuz istāde ast.",
+   "en": "Taq Kasra at Ctesiphon is still standing."
+  },
+  {
+   "fa": "جنگ ایران و روم سال‌ها طول کشید.",
+   "r": "jang-e Irān va Rum sāl-hā tul keshid.",
+   "en": "The war between Iran and Rome lasted for years."
+  },
+  {
+   "fa": "هراکلیوس در سال ۶۲۷ ارتش ایران را شکست داد.",
+   "r": "Herāklius dar sāl-e sheshsad-o-bist-o-haft artesh-e Irān rā shekast dād.",
+   "en": "Heraclius defeated the Iranian army in 627."
+  },
+  {
+   "fa": "این جنگ‌های طولانی هر دو امپراتوری را ضعیف کرد.",
+   "r": "in jang-hā-ye tulāni har do emperāturi rā za'if kard.",
+   "en": "These long wars weakened both empires."
+  }
+ ],
+ "vocab": [
+  {"fa": "امپراتور", "r": "emperātur", "en": "emperor"},
+  {"fa": "امپراتوری", "r": "emperāturi", "en": "empire"},
+  {"fa": "روم", "r": "Rum", "en": "Rome; the (Eastern) Roman Empire"},
+  {"fa": "جنگ", "r": "jang", "en": "war"},
+  {"fa": "ارتش", "r": "artesh", "en": "army"},
+  {"fa": "شکست دادن", "r": "shekast dādan", "en": "to defeat"},
+  {"fa": "اسیر", "r": "asir", "en": "prisoner, captive"},
+  {"fa": "اسیر کردن", "r": "asir kardan", "en": "to take prisoner"},
+  {"fa": "صلح", "r": "solh", "en": "peace"},
+  {"fa": "مرز", "r": "marz", "en": "border"},
+  {"fa": "عدالت", "r": "edālat", "en": "justice"},
+  {"fa": "دادگر", "r": "dādgar", "en": "just (of a ruler)"},
+  {"fa": "پزشک", "r": "pezeshk", "en": "physician, doctor"},
+  {"fa": "پزشکی", "r": "pezeshki", "en": "medicine (the science)"},
+  {"fa": "بیمارستان", "r": "bimārestān", "en": "hospital"},
+  {"fa": "فیلسوف", "r": "filsuf", "en": "philosopher"},
+  {"fa": "نقش برجسته", "r": "naghsh-e barjaste", "en": "relief (carving)"},
+  {"fa": "طاق", "r": "tāgh", "en": "arch, vault"}
+ ],
+ "facts": [
+  "Ardashir I defeated the last Parthian king, Artabanus IV, in AD 224; the Sasanian dynasty lasted until the death of Yazdegerd III in 651.",
+  "Valerian, captured by Shapur I in 260, was the first Roman emperor taken prisoner by a foreign enemy.",
+  "Shapur I's deeds are recorded in three languages – Middle Persian, Parthian and Greek – on the Ka'ba-ye Zartosht at Naqsh-e Rostam.",
+  "Khosrow I's title Anushirvan comes from Middle Persian anōshag-ruwān, 'of immortal soul'.",
+  "Kalila and Dimna was translated from Sanskrit into Middle Persian by the physician Borzuya in Khosrow I's reign.",
+  "The Persian word bimārestān, 'hospital', literally 'place of the sick', passed into Arabic as bīmāristān.",
+  "The Roman–Persian war of 602–628 was the last and longest of the wars between the two empires."
+ ]
+}

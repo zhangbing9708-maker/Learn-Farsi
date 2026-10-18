@@ -1,0 +1,261 @@
+{
+ "id": "a1-the-bus-to-school",
+ "level": "A1",
+ "kind": "everyday life",
+ "title": "The bus to school",
+ "titleFa": "اتوبوس مدرسه",
+ "titleR": "otobus-e madrese",
+ "image": "tehran-traffic",
+ "intro": "Every morning at seven a yellow bus takes Sara and her friend Leila to school through the Tehran traffic. Today the two girls chat and laugh so much that Sara forgets something important on the bus. The story practises getting on and off (سوار شدن، پیاده شدن), the present tense with 'they' (حرف می‌زنند، می‌خندند) and the negative ندارد, and ends with a kind and funny bus driver.",
+ "source": "An original story for this course.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "ساعت هفت صبح است.",
+     "r": "sā'at-e haft-e sobh ast.",
+     "en": "It is seven o'clock in the morning.",
+     "faV": "ساعَتِ هَفتِ صُبح اَست.",
+     "a": "a6eff02b6714"
+    },
+    {
+     "fa": "سارا با کیفش جلوی در خانه منتظر است.",
+     "r": "Sārā bā kif-ash jelo-ye dar-e khāne montazer ast.",
+     "en": "Sara is waiting with her bag in front of the door of the house.",
+     "faV": "سارا با کیفَش جِلویِ دَرِ خانه مُنتَظِر اَست.",
+     "a": "aeb78002c8b8"
+    },
+    {
+     "fa": "اتوبوس زرد مدرسه می‌آید.",
+     "r": "otobus-e zard-e madrese mi-āyad.",
+     "en": "The yellow school bus comes.",
+     "faV": "اُتوبوسِ زَردِ مَدرِسه می‌آیَد.",
+     "a": "dab494ee033b"
+    },
+    {
+     "fa": "سارا سوار می‌شود و کنار لیلا می‌نشیند.",
+     "r": "Sārā savār mi-shavad o kenār-e Leylā mi-neshinad.",
+     "en": "Sara gets on and sits next to Leila.",
+     "faV": "سارا سَوار می‌شَوَد و کِنارِ لَیلا می‌نِشینَد.",
+     "a": "101623df6b38"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "دو دوست حرف می‌زنند و می‌خندند.",
+     "r": "do dust harf mi-zanand o mi-khandand.",
+     "en": "The two friends talk and laugh.",
+     "faV": "دو دوست حَرف می‌زَنَند و می‌خَندَند.",
+     "a": "a9980d065648"
+    },
+    {
+     "fa": "اتوبوس به مدرسه می‌رسد.",
+     "r": "otobus be madrese mi-resad.",
+     "en": "The bus arrives at school.",
+     "faV": "اُتوبوس به مَدرِسه می‌رِسَد.",
+     "a": "bd246041dc05"
+    },
+    {
+     "fa": "سارا و لیلا پیاده می‌شوند.",
+     "r": "Sārā o Leylā piyāde mi-shavand.",
+     "en": "Sara and Leila get off.",
+     "faV": "سارا و لَیلا پیاده می‌شَوَند.",
+     "a": "0e11fea3bf83"
+    },
+    {
+     "fa": "اما کیف سارا در اتوبوس است!",
+     "r": "ammā kif-e Sārā dar otobus ast!",
+     "en": "But Sara's bag is on the bus!",
+     "faV": "اَمّا کیفِ سارا دَر اُتوبوس اَست!",
+     "a": "214a06855710"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "در کلاس، سارا کتاب ندارد و دفتر ندارد.",
+     "r": "dar kelās, Sārā ketāb na-dārad o daftar na-dārad.",
+     "en": "In class, Sara has no book and no notebook.",
+     "faV": "دَر کِلاس، سارا کِتاب نَدارَد و دَفتَر نَدارَد.",
+     "a": "52c602744094"
+    },
+    {
+     "fa": "او خیلی ناراحت است.",
+     "r": "u kheyli nārāhat ast.",
+     "en": "She is very upset.",
+     "faV": "او خَیلی ناراحَت اَست.",
+     "a": "28a97beb0dbf"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "ناگهان کسی در می‌زند.",
+     "r": "nāgahān kasi dar mi-zanad.",
+     "en": "Suddenly someone knocks at the door.",
+     "faV": "ناگَهان کَسی دَر می‌زَنَد.",
+     "a": "f3d6c6a210c8"
+    },
+    {
+     "fa": "راننده‌ی اتوبوس با کیف سارا پشت در است!",
+     "r": "rānande-ye otobus bā kif-e Sārā posht-e dar ast!",
+     "en": "The bus driver is at the door with Sara's bag!",
+     "faV": "رانَنده‌یِ اُتوبوس با کیفِ سارا پُشتِ دَر اَست!",
+     "a": "a6ee901d1e9d"
+    },
+    {
+     "fa": "راننده می‌خندد و می‌گوید: «سارا خانم، کیف تو هم می‌خواهد به مدرسه بیاید!»",
+     "r": "rānande mi-khandad o mi-guyad: «Sārā khānom, kif-e to ham mi-khāhad be madrese bi-yāyad!»",
+     "en": "The driver laughs and says: \"Miss Sara, your bag wants to come to school too!\"",
+     "faV": "رانَنده می‌خَندَد و می‌گویَد: «سارا خانُم، کیفِ تو هَم می‌خواهَد به مَدرِسه بیایَد!»",
+     "a": "407b448e205f"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "اتوبوس",
+   "r": "otobus",
+   "en": "bus",
+   "faV": "اُتوبوس",
+   "a": "39a8affda802"
+  },
+  {
+   "fa": "زرد",
+   "r": "zard",
+   "en": "yellow",
+   "faV": "زَرد",
+   "a": "3c27f803b54a"
+  },
+  {
+   "fa": "جلوی",
+   "r": "jelo-ye",
+   "en": "in front of",
+   "faV": "جِلویِ",
+   "a": "ad6c61a2de49"
+  },
+  {
+   "fa": "منتظر",
+   "r": "montazer",
+   "en": "waiting (montazer budan: to wait)",
+   "faV": "مُنتَظِر",
+   "a": "c9e83af2729d"
+  },
+  {
+   "fa": "سوار شدن",
+   "r": "savār shodan",
+   "en": "to get on, get in",
+   "faV": "سَوار شُدَن",
+   "a": "1cd15286fcec"
+  },
+  {
+   "fa": "حرف زدن",
+   "r": "harf zadan",
+   "en": "to talk",
+   "faV": "حَرف زَدَن",
+   "a": "5636de6a2814"
+  },
+  {
+   "fa": "رسیدن",
+   "r": "residan",
+   "en": "to arrive, reach",
+   "faV": "رِسیدَن",
+   "a": "8cd9550163e3"
+  },
+  {
+   "fa": "پیاده شدن",
+   "r": "piyāde shodan",
+   "en": "to get off, get out",
+   "faV": "پیاده شُدَن",
+   "a": "758cad9855f9"
+  },
+  {
+   "fa": "دفتر",
+   "r": "daftar",
+   "en": "notebook",
+   "faV": "دَفتَر",
+   "a": "58b3b4cc1bd1"
+  },
+  {
+   "fa": "ناراحت",
+   "r": "nārāhat",
+   "en": "upset, unhappy",
+   "faV": "ناراحَت",
+   "a": "f2cd1e2772f6"
+  },
+  {
+   "fa": "ناگهان",
+   "r": "nāgahān",
+   "en": "suddenly",
+   "faV": "ناگَهان",
+   "a": "532313350472"
+  },
+  {
+   "fa": "در زدن",
+   "r": "dar zadan",
+   "en": "to knock at the door",
+   "faV": "دَر زَدَن",
+   "a": "15a678899ffd"
+  },
+  {
+   "fa": "راننده",
+   "r": "rānande",
+   "en": "driver",
+   "faV": "رانَنده",
+   "a": "a08d01db0708"
+  },
+  {
+   "fa": "پشت",
+   "r": "posht",
+   "en": "behind (posht-e dar: at the door, outside it)",
+   "faV": "پُشت",
+   "a": "1e9de492abe0"
+  }
+ ],
+ "questions": [
+  {
+   "q": "What colour is the school bus?",
+   "options": [
+    "blue",
+    "yellow",
+    "white"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Who does Sara sit next to?",
+   "options": [
+    "Leila",
+    "Tom",
+    "the driver"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does Sara forget on the bus?",
+   "options": [
+    "her apple",
+    "her coat",
+    "her bag"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Who brings Sara's bag to school?",
+   "options": [
+    "the bus driver",
+    "Mr Karimi",
+    "Reza"
+   ],
+   "answer": 0
+  }
+ ],
+ "after": "Persian gets on and off with two compound verbs: سوار شدن 'to become a rider' (get on a bus, get into a car, mount a horse) and پیاده شدن 'to become a walker' (get off, get out). You will hear the second one at every bus stop and in every taxi. در زدن 'to knock' is literally 'to hit the door'. The driver's سارا خانم 'Miss Sara' is a playful way adults talk to a little girl – خانم after a first name is polite and warm, just like آقا for a boy: امیر آقا. And notice his joke: کیف تو هم می‌خواهد به مدرسه بیاید – after می‌خواهد 'wants', the second verb is in the subjunctive, بیاید '(that) it comes'.",
+ "titleV": "اُتوبوسِ مَدرِسه",
+ "titleA": "f4892ffaf481"
+}

@@ -328,10 +328,10 @@ The argument itself is a school classic. Generations of Iranian children have ha
 
 **Put the words in order**
 
-1. روستا / آرام‌تر / نظر / به / در / زندگی / است. / من — In my opinion life in a village is calmer.
-2. کاملاً / شما / با / موافقم. — I completely agree with you.
-3. نداشتم، / چون / مترو / آمدم. / با / ماشین — Because I didn't have a car, I came by metro.
-4. باشد. / تو / شاید / با / حق — Maybe you're right.
+1. به / من / آرام‌تر / روستا / زندگی / در / نظر / است. — In my opinion life in a village is calmer.
+2. شما / کاملاً / با / موافقم. — I completely agree with you.
+3. ماشین / مترو / نداشتم، / با / آمدم. / چون — Because I didn't have a car, I came by metro.
+4. باشد. / حق / تو / با / شاید — Maybe you're right.
 
 <details><summary>Answers</summary>
 

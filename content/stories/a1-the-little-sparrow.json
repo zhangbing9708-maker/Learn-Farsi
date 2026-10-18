@@ -14,22 +14,30 @@
     {
      "fa": "زمستان است و هوا خیلی سرد است.",
      "r": "zemestān ast o havā kheyli sard ast.",
-     "en": "It is winter and the weather is very cold."
+     "en": "It is winter and the weather is very cold.",
+     "faV": "زِمِستان اَست و هَوا خَیلی سَرد اَست.",
+     "a": "c7dad2a9e363"
     },
     {
      "fa": "روی بالکن برف هست.",
      "r": "ru-ye bālkon barf hast.",
-     "en": "There is snow on the balcony."
+     "en": "There is snow on the balcony.",
+     "faV": "رویِ بالکُن بَرف هَست.",
+     "a": "92ce13a6904a"
     },
     {
      "fa": "یک گنجشک کوچک روی بالکن خانه‌ی سارا می‌نشیند.",
      "r": "yek gonjeshk-e kuchak ru-ye bālkon-e khāne-ye Sārā mi-neshinad.",
-     "en": "A little sparrow lands on the balcony of Sara's home."
+     "en": "A little sparrow lands on the balcony of Sara's home.",
+     "faV": "یِک گُنجِشکِ کوچَک رویِ بالکُنِ خانه‌یِ سارا می‌نِشینَد.",
+     "a": "4a756950e872"
     },
     {
      "fa": "گنجشک قهوه‌ای است و خیلی سردش است.",
      "r": "gonjeshk ghahve-i ast o kheyli sard-ash ast.",
-     "en": "The sparrow is brown and very cold."
+     "en": "The sparrow is brown and very cold.",
+     "faV": "گُنجِشک قَهوه‌ای اَست و خَیلی سَردَش اَست.",
+     "a": "b20b7f5c563a"
     }
    ]
   },
@@ -38,27 +46,37 @@
     {
      "fa": "سارا از پنجره به گنجشک نگاه می‌کند.",
      "r": "Sārā az panjare be gonjeshk negāh mi-konad.",
-     "en": "Sara looks at the sparrow through the window."
+     "en": "Sara looks at the sparrow through the window.",
+     "faV": "سارا اَز پَنجَره به گُنجِشک نِگاه می‌کُنَد.",
+     "a": "7776cc4325ec"
     },
     {
      "fa": "او می‌گوید: «بابا، گنجشک گرسنه است!»",
      "r": "u mi-guyad: «bābā, gonjeshk gorosne ast!»",
-     "en": "She says: \"Dad, the sparrow is hungry!\""
+     "en": "She says: \"Dad, the sparrow is hungry!\"",
+     "faV": "او می‌گویَد: «بابا، گُنجِشک گُرُسنه اَست!»",
+     "a": "6a431a70f853"
     },
     {
      "fa": "رضا یک تکه نان به سارا می‌دهد.",
      "r": "Rezā yek tekke nān be Sārā mi-dahad.",
-     "en": "Reza gives Sara a piece of bread."
+     "en": "Reza gives Sara a piece of bread.",
+     "faV": "رِضا یِک تِکّه نان به سارا می‌دَهَد.",
+     "a": "26c243a0e4a2"
     },
     {
      "fa": "سارا نان را ریز می‌کند و روی بالکن می‌گذارد.",
      "r": "Sārā nān rā riz mi-konad o ru-ye bālkon mi-gozārad.",
-     "en": "Sara crumbles the bread and puts it on the balcony."
+     "en": "Sara crumbles the bread and puts it on the balcony.",
+     "faV": "سارا نان را ریز می‌کُنَد و رویِ بالکُن می‌گُذارَد.",
+     "a": "a730f081c5eb"
     },
     {
      "fa": "گنجشک نان را می‌خورد.",
      "r": "gonjeshk nān rā mi-khorad.",
-     "en": "The sparrow eats the bread."
+     "en": "The sparrow eats the bread.",
+     "faV": "گُنجِشک نان را می‌خورَد.",
+     "a": "c7bc082eba7d"
     }
    ]
   },
@@ -67,12 +85,16 @@
     {
      "fa": "از آن روز، گنجشک هر صبح می‌آید.",
      "r": "az ān ruz, gonjeshk har sobh mi-āyad.",
-     "en": "From that day on, the sparrow comes every morning."
+     "en": "From that day on, the sparrow comes every morning.",
+     "faV": "اَز آن روز، گُنجِشک هَر صُبح می‌آیَد.",
+     "a": "d16d4f5e3f40"
     },
     {
      "fa": "سارا هر صبح برای او نان می‌گذارد.",
      "r": "Sārā har sobh barā-ye u nān mi-gozārad.",
-     "en": "Every morning Sara puts out bread for it."
+     "en": "Every morning Sara puts out bread for it.",
+     "faV": "سارا هَر صُبح بَرایِ او نان می‌گُذارَد.",
+     "a": "2bc499fc99cc"
     }
    ]
   },
@@ -81,42 +103,166 @@
     {
      "fa": "حالا بهار است.",
      "r": "hālā bahār ast.",
-     "en": "Now it is spring."
+     "en": "Now it is spring.",
+     "faV": "حالا بَهار اَست.",
+     "a": "8e4890a6614e"
     },
     {
      "fa": "یک روز صبح، گنجشک تنها نیست.",
      "r": "yek ruz sobh, gonjeshk tanhā nist.",
-     "en": "One morning, the sparrow is not alone."
+     "en": "One morning, the sparrow is not alone.",
+     "faV": "یِک روز صُبح، گُنجِشک تَنها نیست.",
+     "a": "f6f4ce7ad805"
     },
     {
      "fa": "چهار گنجشک کوچک با او هستند!",
      "r": "chahār gonjeshk-e kuchak bā u hastand!",
-     "en": "Four little sparrows are with it!"
+     "en": "Four little sparrows are with it!",
+     "faV": "چَهار گُنجِشکِ کوچَک با او هَستَند!",
+     "a": "4d0f1e721eff"
     }
    ]
   }
  ],
  "vocab": [
-  {"fa": "زمستان", "r": "zemestān", "en": "winter"},
-  {"fa": "سرد", "r": "sard", "en": "cold"},
-  {"fa": "برف", "r": "barf", "en": "snow"},
-  {"fa": "بالکن", "r": "bālkon", "en": "balcony"},
-  {"fa": "گنجشک", "r": "gonjeshk", "en": "sparrow"},
-  {"fa": "سردش است", "r": "sard-ash ast", "en": "he / she / it is cold (feels cold)"},
-  {"fa": "گرسنه", "r": "gorosne", "en": "hungry"},
-  {"fa": "بابا", "r": "bābā", "en": "Dad"},
-  {"fa": "تکه", "r": "tekke", "en": "piece"},
-  {"fa": "ریز کردن", "r": "riz kardan", "en": "to crumble, cut into small pieces"},
-  {"fa": "گذاشتن", "r": "gozāshtan", "en": "to put (present: می‌گذارد)"},
-  {"fa": "هر صبح", "r": "har sobh", "en": "every morning"},
-  {"fa": "بهار", "r": "bahār", "en": "spring"},
-  {"fa": "تنها", "r": "tanhā", "en": "alone"}
+  {
+   "fa": "زمستان",
+   "r": "zemestān",
+   "en": "winter",
+   "faV": "زِمِستان",
+   "a": "855c9a97c4fc"
+  },
+  {
+   "fa": "سرد",
+   "r": "sard",
+   "en": "cold",
+   "faV": "سَرد",
+   "a": "d684e3e468c8"
+  },
+  {
+   "fa": "برف",
+   "r": "barf",
+   "en": "snow",
+   "faV": "بَرف",
+   "a": "6b2b7b64ea55"
+  },
+  {
+   "fa": "بالکن",
+   "r": "bālkon",
+   "en": "balcony",
+   "faV": "بالکُن",
+   "a": "e5a7dede0031"
+  },
+  {
+   "fa": "گنجشک",
+   "r": "gonjeshk",
+   "en": "sparrow",
+   "faV": "گُنجِشک",
+   "a": "f7764bd32143"
+  },
+  {
+   "fa": "سردش است",
+   "r": "sard-ash ast",
+   "en": "he / she / it is cold (feels cold)",
+   "faV": "سَردَش اَست",
+   "a": "c2425170bd00"
+  },
+  {
+   "fa": "گرسنه",
+   "r": "gorosne",
+   "en": "hungry",
+   "faV": "گُرُسنه",
+   "a": "490e2629fd98"
+  },
+  {
+   "fa": "بابا",
+   "r": "bābā",
+   "en": "Dad",
+   "faV": "بابا",
+   "a": "afa325dbf601"
+  },
+  {
+   "fa": "تکه",
+   "r": "tekke",
+   "en": "piece",
+   "faV": "تِکّه",
+   "a": "9b2384f0c688"
+  },
+  {
+   "fa": "ریز کردن",
+   "r": "riz kardan",
+   "en": "to crumble, cut into small pieces",
+   "faV": "ریز کَردَن",
+   "a": "e243cfbe6ae4"
+  },
+  {
+   "fa": "گذاشتن",
+   "r": "gozāshtan",
+   "en": "to put (present: می‌گذارد)",
+   "faV": "گُذاشتَن",
+   "a": "a67b6f6d10bd"
+  },
+  {
+   "fa": "هر صبح",
+   "r": "har sobh",
+   "en": "every morning",
+   "faV": "هَر صُبح",
+   "a": "cf406431b030"
+  },
+  {
+   "fa": "بهار",
+   "r": "bahār",
+   "en": "spring",
+   "faV": "بَهار",
+   "a": "e0728a9102a1"
+  },
+  {
+   "fa": "تنها",
+   "r": "tanhā",
+   "en": "alone",
+   "faV": "تَنها",
+   "a": "ae70e1bba222"
+  }
  ],
  "questions": [
-  {"q": "What season is it at the start of the story?", "options": ["summer", "autumn", "winter"], "answer": 2},
-  {"q": "What does Sara give the sparrow?", "options": ["bread", "rice", "an apple"], "answer": 0},
-  {"q": "How often does the sparrow come after that?", "options": ["only on Fridays", "every morning", "never again"], "answer": 1},
-  {"q": "What does Sara see in the spring?", "options": ["snow on the balcony", "a cat", "four little sparrows"], "answer": 2}
+  {
+   "q": "What season is it at the start of the story?",
+   "options": [
+    "summer",
+    "autumn",
+    "winter"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What does Sara give the sparrow?",
+   "options": [
+    "bread",
+    "rice",
+    "an apple"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How often does the sparrow come after that?",
+   "options": [
+    "only on Fridays",
+    "every morning",
+    "never again"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What does Sara see in the spring?",
+   "options": [
+    "snow on the balcony",
+    "a cat",
+    "four little sparrows"
+   ],
+   "answer": 2
+  }
  ],
- "after": "To say that a person or animal feels cold, Persian puts a possessive ending on سرد: سردم است 'I am cold', سردت است 'you are cold', سردش است 'he / she / it is cold' – literally 'it is cold to me'. The same works for heat: گرمم است 'I'm hot'. (هوا سرد است, without an ending, is about the weather.) Notice also چهار گنجشک کوچک: after a number the noun stays singular – 'four little sparrow'. Sparrows are everywhere in Iranian cities, and putting out breadcrumbs for the birds on a cold morning is something many families do."
+ "after": "To say that a person or animal feels cold, Persian puts a possessive ending on سرد: سردم است 'I am cold', سردت است 'you are cold', سردش است 'he / she / it is cold' – literally 'it is cold to me'. The same works for heat: گرمم است 'I'm hot'. (هوا سرد است, without an ending, is about the weather.) Notice also چهار گنجشک کوچک: after a number the noun stays singular – 'four little sparrow'. Sparrows are everywhere in Iranian cities, and putting out breadcrumbs for the birds on a cold morning is something many families do.",
+ "titleV": "گُنجِشکِ کوچَک",
+ "titleA": "a1009089984f"
 }

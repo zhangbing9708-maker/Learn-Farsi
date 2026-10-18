@@ -1,0 +1,124 @@
+{
+ "id": "food-recipe-salad-shirazi",
+ "topic": "food",
+ "title": "Recipe: salad Shirazi",
+ "titleFa": "سالاد شیرازی",
+ "titleR": "sālād-e shirāzi",
+ "image": "shiraz",
+ "summary": "Cook along with Iran's everyday salad: cucumber, tomato and onion cut very small and dressed with lime juice or verjuice, salt and dried mint.",
+ "body": [
+  {
+   "h": "Shiraz in a bowl",
+   "md": "[[سالاد شیرازی|sālād-e shirāzi|Shirazi salad]] takes its name from [[شیراز|Shirāz|Shiraz]], the southern city of poets and gardens, but today it is on tables all over Iran. It is the simplest of dishes – cucumber, tomato and onion, chopped as small as you have patience for, with a sour dressing and dried mint – and in summer it appears next to almost everything: rice and stews, kababs, kukus and picnic sandwiches.\n\nThe salad as we know it cannot be very old, because tomatoes only reached Iran in the 19th century. Their Persian name still remembers it: [[گوجه‌فرنگی|gowje-farangi|tomato]] means 'foreign plum'. Shirazi cooks often use [[آبغوره|ābghure|verjuice]], the sour juice of unripe grapes, instead of lime juice."
+  },
+  {
+   "h": "Ingredients (for 4)",
+   "md": "- 3–4 small cucumbers, about 400 g ([[خیار|khiyār|cucumber]])\n- 3 medium firm tomatoes, about 400 g ([[گوجه‌فرنگی|gowje-farangi|tomato]])\n- 1 medium red onion, about 150 g ([[پیاز قرمز|piyāz-e ghermez|red onion]])\n- 4 tablespoons (60 ml) lime or lemon juice ([[آبلیمو|āb-limu|lime juice]]), or ¼ cup (60 ml) verjuice ([[آبغوره|ābghure|verjuice]])\n- 1 tablespoon dried mint ([[نعنای خشک|na'nā-ye khoshk|dried mint]])\n- ½ teaspoon salt ([[نمک|namak|salt]]) and a little black pepper ([[فلفل سیاه|felfel-e siyāh|black pepper]])\n- optional: 2 tablespoons olive oil ([[روغن زیتون|rowghan-e zeytun|olive oil]]) and a handful of chopped parsley ([[جعفری|ja'fari|parsley]])"
+  },
+  {
+   "h": "Method",
+   "md": "1. Wash the cucumbers and tomatoes. Peel the cucumbers if their skin is thick or bitter; small Persian cucumbers can keep it.\n2. Cut the cucumbers into small cubes, about 5 mm – the size of a chickpea.\n3. Cut the tomatoes in half, scoop out the seeds and watery centre, and dice the flesh the same size.\n4. Chop the onion very finely. If it is sharp, rinse it in cold water and drain it well.\n5. In a small bowl mix the lime juice or verjuice with the salt, pepper and dried mint, rubbing the mint between your palms as you add it. Stir in the olive oil if you use it.\n6. Put the vegetables in a bowl, pour over the dressing and mix gently.\n7. Chill for 10–15 minutes, taste for salt and sourness, and serve cold."
+  },
+  {
+   "h": "Tips",
+   "md": "- The smaller the cubes, the better the salad: every spoonful should hold a little of everything. It takes time – put on some music.\n- Removing the tomato seeds keeps the salad from turning watery.\n- Add the dressing shortly before serving. Salt pulls water out of the cucumbers, so a salad dressed hours ahead goes soft.\n- Use firm tomatoes and crisp cucumbers; this salad has nowhere to hide."
+  },
+  {
+   "h": "Serving and variations",
+   "md": "Serve salad Shirazi in small bowls with spoons, beside [[چلوکباب|chelow-kabāb|rice and kabab]], [[قورمه‌سبزی|ghorme-sabzi|ghormeh sabzi]] or almost any rice dish. Many people pour the sour juice left at the bottom of the bowl over their rice. Some families add diced green pepper or fresh mint, some skip the oil entirely, and some make it with sour grapes or a little pomegranate molasses instead of lime. Unlike a Western green salad, it never has lettuce."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "خیارها را ریز خرد کنید.",
+   "r": "khiyār-hā rā riz khord konid.",
+   "en": "Chop the cucumbers finely.",
+   "col": "خیارا رو ریز خرد کن.",
+   "colR": "khiyār-ā ro riz khord kon."
+  },
+  {
+   "fa": "هر چه ریزتر خرد کنید، سالاد خوشمزه‌تر می‌شود.",
+   "r": "har che riz-tar khord konid, sālād khoshmazze-tar mi-shavad.",
+   "en": "The finer you chop, the tastier the salad.",
+   "col": "هر چی ریزتر خرد کنی، سالاد خوشمزه‌تر می‌شه.",
+   "colR": "har chi riz-tar khord koni, sālād khoshmazze-tar mi-she."
+  },
+  {
+   "fa": "تخم گوجه‌ها را بگیرید تا سالاد آبکی نشود.",
+   "r": "tokhm-e gowje-hā rā be-girid tā sālād ābaki na-shavad.",
+   "en": "Take out the tomato seeds so the salad doesn't get watery."
+  },
+  {
+   "fa": "پیاز را بشویید تا تندی‌اش کم شود.",
+   "r": "piyāz rā be-shuyid tā tondi-ash kam shavad.",
+   "en": "Rinse the onion to tame its sharpness."
+  },
+  {
+   "fa": "آبلیمو، نمک و نعنای خشک را با هم مخلوط کنید.",
+   "r": "āb-limu, namak va na'nā-ye khoshk rā bā ham makhlut konid.",
+   "en": "Mix the lime juice, salt and dried mint together."
+  },
+  {
+   "fa": "سس را درست قبل از سرو روی سالاد بریزید.",
+   "r": "sos rā dorost ghabl az serv ru-ye sālād be-rizid.",
+   "en": "Pour the dressing over the salad just before serving."
+  },
+  {
+   "fa": "بگذارید سالاد ده دقیقه در یخچال بماند.",
+   "r": "be-gozārid sālād dah daghighe dar yakhchāl be-mānad.",
+   "en": "Let the salad sit in the fridge for ten minutes.",
+   "col": "بذار سالاد ده دقیقه تو یخچال بمونه.",
+   "colR": "be-zār sālād dah daghighe tu yakhchāl be-mune."
+  },
+  {
+   "fa": "اگر آبغوره ندارید، آبلیمو بریزید.",
+   "r": "agar ābghure na-dārid, āb-limu be-rizid.",
+   "en": "If you don't have verjuice, use lime juice.",
+   "col": "اگه آبغوره نداری، آبلیمو بریز.",
+   "colR": "age ābghure na-dāri, āb-limu be-riz."
+  },
+  {
+   "fa": "سالاد شیرازی را سرد سرو کنید.",
+   "r": "sālād-e shirāzi rā sard serv konid.",
+   "en": "Serve Shirazi salad cold."
+  },
+  {
+   "fa": "در تابستان سالاد شیرازی کنار هر غذایی می‌آید.",
+   "r": "dar tābestān sālād-e shirāzi kenār-e har ghazā-i mi-āyad.",
+   "en": "In summer Shirazi salad goes with every dish."
+  },
+  {
+   "fa": "بعضی‌ها آب سالاد را روی برنج می‌ریزند.",
+   "r": "ba'zi-hā āb-e sālād rā ru-ye berenj mi-rizand.",
+   "en": "Some people pour the salad juice over their rice."
+  }
+ ],
+ "vocab": [
+  {"fa": "سالاد", "r": "sālād", "en": "salad"},
+  {"fa": "خیار", "r": "khiyār", "en": "cucumber"},
+  {"fa": "گوجه‌فرنگی", "r": "gowje-farangi", "en": "tomato"},
+  {"fa": "پیاز قرمز", "r": "piyāz-e ghermez", "en": "red onion"},
+  {"fa": "آبلیمو", "r": "āb-limu", "en": "lime or lemon juice"},
+  {"fa": "آبغوره", "r": "ābghure", "en": "verjuice, juice of unripe grapes"},
+  {"fa": "نعنا", "r": "na'nā", "en": "mint"},
+  {"fa": "روغن زیتون", "r": "rowghan-e zeytun", "en": "olive oil"},
+  {"fa": "جعفری", "r": "ja'fari", "en": "parsley"},
+  {"fa": "تخم", "r": "tokhm", "en": "seed; egg"},
+  {"fa": "سس", "r": "sos", "en": "sauce, dressing"},
+  {"fa": "یخچال", "r": "yakhchāl", "en": "fridge"},
+  {"fa": "مخلوط کردن", "r": "makhlut kardan", "en": "to mix"},
+  {"fa": "خرد کردن", "r": "khord kardan", "en": "to chop"},
+  {"fa": "شستن", "r": "shostan", "en": "to wash, to rinse"},
+  {"fa": "ریختن", "r": "rikhtan", "en": "to pour; to add"},
+  {"fa": "آبکی", "r": "ābaki", "en": "watery"},
+  {"fa": "ترش", "r": "torsh", "en": "sour"},
+  {"fa": "تند", "r": "tond", "en": "sharp, spicy; fast"}
+ ],
+ "facts": [
+  "Salad Shirazi is named after Shiraz, but it is eaten all over Iran, above all in summer.",
+  "Tomatoes reached Iran only in the 19th century; gowje-farangi, their Persian name, means 'foreign plum'.",
+  "Many cooks in Shiraz dress the salad with verjuice (abghureh), the sour juice of unripe grapes.",
+  "The vegetables are cut into cubes about the size of a chickpea, so each spoonful has a bit of everything.",
+  "The salad contains no lettuce and is eaten with a spoon."
+ ]
+}
