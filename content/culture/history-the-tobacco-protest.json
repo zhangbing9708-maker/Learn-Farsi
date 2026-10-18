@@ -1,0 +1,259 @@
+{
+ "id": "history-the-tobacco-protest",
+ "topic": "history",
+ "title": "The Tobacco Protest",
+ "titleFa": "نهضت تنباکو",
+ "titleR": "nehzat-e tanbāku",
+ "image": "naser-al-din-shah",
+ "summary": "In 1890 the shah sold a British company the right to control all of Iran's tobacco. Within two years merchants, clerics and ordinary smokers had forced him to cancel it – the first time a nationwide protest changed the policy of an Iranian king.",
+ "body": [
+  {
+   "h": "A country for sale",
+   "md": "In the late nineteenth century Iran under [[ناصرالدین شاه|Nāser-od-din shāh|Naser al-Din Shah]] (ruled 1848–1896) was weak, poor and squeezed between Russia in the north and British India in the east. The shah needed money for his court and his trips to Europe, and one way to raise it was to sell [[امتیاز|emtiyāz|concessions]]: the exclusive right for a foreign company to run a part of the economy. In 1872 a concession to Baron Julius de Reuter, covering railways, mines and much else, caused such an outcry that it was cancelled.\n\nIn March 1890 the shah signed another. A British businessman, Major Gerald Talbot, received a 50-year [[انحصار|enhesār|monopoly]] over the buying, selling and export of all of Iran's [[تنباکو|tanbāku|tobacco]]. In return the shah would receive £15,000 a year and a quarter of the profits. A company, known in Iran as the Régie, was set up to run it.",
+   "image": "qajar-iran"
+  },
+  {
+   "h": "Why tobacco mattered",
+   "md": "Tobacco was not a small business. Iran grew fine tobacco for the [[قلیان|ghalyān|water pipe]], which people of every class smoked at home, in coffee houses and in the bazaar, and much of it was exported. Under the concession, thousands of growers and merchants would have to sell to one foreign company at its price.\n\nThe [[بازاریان|bāzāriyān|bazaar merchants]] were the first to protest, and the clerics – many of whom came from merchant families and depended on their gifts – joined them. In 1891 there were demonstrations in Shiraz, Tabriz, Isfahan, Mashhad and Tehran. Russia, unhappy to see Britain gain so much influence, quietly encouraged the opposition.",
+   "image": "grand-bazaar-tehran"
+  },
+  {
+   "h": "The fatwa",
+   "md": "In December 1891 a [[فتوا|fatvā|religious ruling]] began to circulate in the name of the most senior Shia scholar of the time, [[میرزای شیرازی|Mirzā-ye Shirāzi|Mirza Hasan Shirazi]], who lived in Samarra in Ottoman Iraq. It declared that, as long as the concession lasted, using tobacco in any form was like [[محاربه با امام زمان|mohārebe bā Emām-e Zamān|making war on the Hidden Imam]]. Historians still discuss who wrote the text, but Shirazi let it stand as his.\n\nThe response was astonishing. Across the country people stopped smoking; tobacco shops closed and water pipes were put away or broken. According to accounts of the time, even the women of the shah's own household refused to prepare his [[قلیان|ghalyān]]. It was one of the first mass [[تحریم|tahrim|boycotts]] in modern history."
+  },
+  {
+   "h": "Victory and its price",
+   "md": "In January 1892, after a crowd marched on the palace in Tehran and several protesters were shot, the shah gave in and [[لغو کردن|laghv kardan|cancelled]] the concession; Shirazi then lifted the ban. But the company demanded [[غرامت|gharāmat|compensation]], and Iran had to pay £500,000. To find the money the government took its first foreign loan, from the British-owned Imperial Bank of Persia. The debt was a burden for years."
+  },
+  {
+   "h": "Why it mattered",
+   "md": "The tobacco protest showed that the shah's decisions could be reversed by the people – and it showed how. For the first time, [[روحانیان|ruhāniyān|clerics]], bazaar merchants and a small group of modern-minded intellectuals had acted together across the whole country, using new tools such as the telegraph to coordinate. Many historians see it as a rehearsal for the [[انقلاب مشروطه|enghelāb-e mashrute|Constitutional Revolution]] that began fourteen years later, in 1905.\n\nThe same alliance of mosque and bazaar would appear again in the twentieth century, including in 1979. Naser al-Din Shah himself never recovered his authority; he was assassinated in 1896.",
+   "image": "constitutional-revolution"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "شاه قاجار در سال ۱۸۹۰ امتیاز تنباکو را به یک انگلیسی داد.",
+   "r": "shāh-e Ghājār dar sāl-e hezār-o-hashtsad-o-navad emtiyāz-e tanbāku rā be yek engelisi dād.",
+   "en": "In 1890 the Qajar shah gave the tobacco concession to an Englishman.",
+   "faV": "شاهِ قاجار دَر سالِ ۱۸۹۰ اِمتیازِ تَنباکو را به یِک اِنگِلیسی داد.",
+   "a": "6a1012945632"
+  },
+  {
+   "fa": "یک شرکت انگلیسی انحصار خرید و فروش تنباکو را گرفت.",
+   "r": "yek sherkat-e engelisi enhesār-e kharid o forush-e tanbāku rā gereft.",
+   "en": "A British company got the monopoly on buying and selling tobacco.",
+   "faV": "یِک شِرکَتِ اِنگِلیسی اِنحِصارِ خَرید و فُروشِ تَنباکو را گِرِفت.",
+   "a": "833fcc0a2392"
+  },
+  {
+   "fa": "بازاریان و علما با این امتیاز مخالف بودند.",
+   "r": "bāzāriyān va 'olamā bā in emtiyāz mokhālef budand.",
+   "en": "The merchants and the clerics were against this concession.",
+   "faV": "بازاریان و عُلَما با این اِمتیاز مُخالِف بودَند.",
+   "a": "4b72137affd8"
+  },
+  {
+   "fa": "میرزای شیرازی فتوا داد که کشیدن تنباکو حرام است.",
+   "r": "Mirzā-ye Shirāzi fatvā dād ke keshidan-e tanbāku harām ast.",
+   "en": "Mirza-ye Shirazi issued a fatwa that smoking tobacco was forbidden.",
+   "faV": "میرزایِ شیرازی فَتوا داد که کِشیدَنِ تَنباکو حَرام اَست.",
+   "a": "5b58ab05e9d8"
+  },
+  {
+   "fa": "مردم در سراسر ایران قلیان‌هایشان را کنار گذاشتند.",
+   "r": "mardom dar sarāsar-e Irān ghalyān-hā-yeshān rā kenār gozāshtand.",
+   "en": "People all over Iran put their water pipes aside.",
+   "faV": "مَردُم دَر سَراسَرِ ایران قَلیان‌هایِشان را کِنار گُذاشتَند.",
+   "a": "c1eefbe57063"
+  },
+  {
+   "fa": "حتی در کاخ شاه هم کسی قلیان نمی‌کشید.",
+   "r": "hattā dar kākh-e shāh ham kas-i ghalyān nemi-keshid.",
+   "en": "Even in the shah's palace nobody smoked the water pipe.",
+   "faV": "حَتّی دَر کاخِ شاه هَم کَسی قَلیان نِمی‌کِشید.",
+   "a": "4fc1beaeb36e"
+  },
+  {
+   "fa": "شاه مجبور شد امتیاز را لغو کند.",
+   "r": "shāh majbur shod emtiyāz rā laghv konad.",
+   "en": "The shah was forced to cancel the concession.",
+   "faV": "شاه مَجبور شُد اِمتیاز را لَغو کُنَد.",
+   "a": "2d62a219e702"
+  },
+  {
+   "fa": "ایران برای لغو امتیاز پانصد هزار پوند غرامت پرداخت.",
+   "r": "Irān barā-ye laghv-e emtiyāz pānsad hezār pond gharāmat pardākht.",
+   "en": "Iran paid five hundred thousand pounds in compensation for cancelling the concession.",
+   "faV": "ایران بَرایِ لَغوِ اِمتیاز پانصَد هِزار پوند غَرامَت پَرداخت.",
+   "a": "447de8494654"
+  },
+  {
+   "fa": "این اعتراض نشان داد که مردم می‌توانند در برابر شاه مقاومت کنند.",
+   "r": "in e'terāz neshān dād ke mardom mi-tavānand dar barābar-e shāh moghāvemat konand.",
+   "en": "This protest showed that the people could stand up to the shah.",
+   "faV": "این اِعتِراض نِشان داد که مَردُم می‌تَوانَند دَر بَرابَرِ شاه مُقاوِمَت کُنَند.",
+   "a": "577b1dd55765"
+  },
+  {
+   "fa": "نهضت تنباکو اولین جنبش بزرگ ملی در ایران مدرن بود.",
+   "r": "nehzat-e tanbāku avvalin jonbesh-e bozorg-e melli dar Irān-e modern bud.",
+   "en": "The Tobacco Movement was the first great national movement in modern Iran.",
+   "faV": "نِهضَتِ تَنباکو اَوَّلین جُنبِشِ بُزُرگِ مِلّی دَر ایرانِ مُدِرن بود.",
+   "a": "5abe8ed8bba4"
+  },
+  {
+   "fa": "چهارده سال بعد، انقلاب مشروطه آغاز شد.",
+   "r": "chahārdah sāl ba'd, enghelāb-e mashrute āghāz shod.",
+   "en": "Fourteen years later, the Constitutional Revolution began.",
+   "faV": "چَهاردَه سال بَعد، اِنقِلابِ مَشروطه آغاز شُد.",
+   "a": "6a599f5c5a82"
+  },
+  {
+   "fa": "این اتحاد میان روحانیان و بازاریان بعدها هم تکرار شد.",
+   "r": "in ettehād miyān-e ruhāniyān va bāzāriyān ba'd-hā ham tekrār shod.",
+   "en": "This alliance between clerics and merchants was repeated later too.",
+   "faV": "این اِتِّحاد میانِ روحانیان و بازاریان بَعدها هَم تِکرار شُد.",
+   "a": "82f2e41865a3"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "امتیاز",
+   "r": "emtiyāz",
+   "en": "concession; privilege; point (score)",
+   "faV": "اِمتیاز",
+   "a": "f7cb02fa40aa"
+  },
+  {
+   "fa": "انحصار",
+   "r": "enhesār",
+   "en": "monopoly",
+   "faV": "اِنحِصار",
+   "a": "59041a7bb7f0"
+  },
+  {
+   "fa": "تنباکو",
+   "r": "tanbāku",
+   "en": "tobacco",
+   "faV": "تَنباکو",
+   "a": "5bd6b7c09fcd"
+  },
+  {
+   "fa": "قلیان",
+   "r": "ghalyān",
+   "en": "water pipe, hookah",
+   "faV": "قَلیان",
+   "a": "6f7e87351cb9"
+  },
+  {
+   "fa": "شرکت",
+   "r": "sherkat",
+   "en": "company",
+   "faV": "شِرکَت",
+   "a": "e61de97beeff"
+  },
+  {
+   "fa": "خارجی",
+   "r": "khāreji",
+   "en": "foreign; foreigner",
+   "faV": "خارِجی",
+   "a": "0d36d99fd6b8"
+  },
+  {
+   "fa": "بازاری",
+   "r": "bāzāri",
+   "en": "bazaar merchant",
+   "faV": "بازاری",
+   "a": "4feb3a4fbfe3"
+  },
+  {
+   "fa": "روحانی",
+   "r": "ruhāni",
+   "en": "cleric; spiritual",
+   "faV": "روحانی",
+   "a": "6e1fccffba46"
+  },
+  {
+   "fa": "فتوا",
+   "r": "fatvā",
+   "en": "fatwa, religious ruling",
+   "faV": "فَتوا",
+   "a": "c7b134884d1c"
+  },
+  {
+   "fa": "حرام",
+   "r": "harām",
+   "en": "religiously forbidden",
+   "faV": "حَرام",
+   "a": "aae78290b5be"
+  },
+  {
+   "fa": "تحریم",
+   "r": "tahrim",
+   "en": "boycott; ban; sanctions",
+   "faV": "تَحریم",
+   "a": "fb709e514074"
+  },
+  {
+   "fa": "اعتراض",
+   "r": "e'terāz",
+   "en": "protest, objection",
+   "faV": "اِعتِراض",
+   "a": "e79754536802"
+  },
+  {
+   "fa": "مخالف",
+   "r": "mokhālef",
+   "en": "opposed; opponent",
+   "faV": "مُخالِف",
+   "a": "5e9b02ea48cf"
+  },
+  {
+   "fa": "جنبش",
+   "r": "jonbesh",
+   "en": "movement",
+   "faV": "جُنبِش",
+   "a": "668d68ed1276"
+  },
+  {
+   "fa": "لغو کردن",
+   "r": "laghv kardan",
+   "en": "to cancel",
+   "faV": "لَغو کَردَن",
+   "a": "8b790f38688d"
+  },
+  {
+   "fa": "غرامت",
+   "r": "gharāmat",
+   "en": "compensation, damages",
+   "faV": "غَرامَت",
+   "a": "a83ca5b0690d"
+  },
+  {
+   "fa": "وام",
+   "r": "vām",
+   "en": "loan",
+   "faV": "وام",
+   "a": "3f0d7ed8489d"
+  },
+  {
+   "fa": "مقاومت کردن",
+   "r": "moghāvemat kardan",
+   "en": "to resist",
+   "faV": "مُقاوِمَت کَردَن",
+   "a": "92ed21dc3e2d"
+  }
+ ],
+ "facts": [
+  "The tobacco concession was granted to Major Gerald Talbot in March 1890 for 50 years.",
+  "The shah was to receive £15,000 a year and a quarter of the company's profits.",
+  "The fatwa issued in the name of Mirza Hasan Shirazi began to circulate in December 1891.",
+  "Naser al-Din Shah cancelled the concession in January 1892.",
+  "Iran paid £500,000 in compensation, financed by its first foreign loan.",
+  "An earlier concession to Baron Julius de Reuter (1872) had also been cancelled after protests.",
+  "The Constitutional Revolution began in 1905, fourteen years after the tobacco boycott."
+ ],
+ "titleV": "نِهضَتِ تَنباکو",
+ "titleA": "10254f489c73"
+}

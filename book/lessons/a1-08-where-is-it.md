@@ -48,8 +48,8 @@ _Tom has just moved into a flat in Mina's building. Mina comes by to say hello, 
 - **Mina:** آن چیست، کنار در؟  
   *ān chist, kenār-e dar?* — What's that, next to the door?  
   Spoken: اون چیه، کنار در؟ *un chi-ye, kenār-e dar?*
-- **Tom:** آهان! کلیدم اینجاست! ممنون، مینا خانم.  
-  *āhān! kelid-am injā-st! mamnun, Minā khānom.* — Aha! My key is here! Thank you, Ms Mina.
+- **Tom:** آهان! کلیدم این‌جاست! ممنون، مینا خانم.  
+  *āhān! kelid-am in-jā-st! mamnun, Minā khānom.* — Aha! My key is here! Thank you, Ms Mina.
 
 ### Where is it? Is there one?
 
@@ -118,23 +118,23 @@ Only a handful of little words take **no** ezafe – در (*dar*, ‘in’), ب�
 
 *Where is …?* is کجاست؟ (*kojā-st?*) – *kojā* + *ast*, written as one word: بانک کجاست؟ (*bānk kojā-st?*, ‘where is the bank?’) For more than one thing, use the full verb: کلیدها کجا هستند؟ (*kelid-hā kojā hastand?*, ‘where are the keys?’)
 
-The answers follow the same pattern: اینجاست (*injā-st*, ‘it's here’), آنجاست (*ānjā-st*, ‘it's there’) (spoken *unjā-st*), or a place word + *ast*: کنار پارک است (*kenār-e pārk ast*, ‘it's next to the park’). You don't need a word for *it* – the verb says it all.
+The answers follow the same pattern: این‌جاست (*in-jā-st*, ‘it's here’), آن‌جاست (*ān-jā-st*, ‘it's there’) (spoken *un-jā-st*), or a place word + *ast*: کنار پارک است (*kenār-e pārk ast*, ‘it's next to the park’). You don't need a word for *it* – the verb says it all.
 
 Start with ببخشید (*bebakhshid*) when you ask a stranger, and finish with ممنون (*mamnun*). In speech *ast* becomes *-e*: *kenār-e pārk-e*, *nazdik-e*.
 
 | Persian | Reading | English |
 | --- | --- | --- |
 | بانک کجاست؟ (*bānk kojā-st?*) | bānk kojā-st? | Where is the bank? |
-| اینجاست. (*injā-st.*) | injā-st. | It's here. |
-| آنجاست. (*ānjā-st.*) | ānjā-st. | It's there. |
+| این‌جاست. (*in-jā-st.*) | in-jā-st. | It's here. |
+| آن‌جاست. (*ān-jā-st.*) | ān-jā-st. | It's there. |
 | کلیدها کجا هستند؟ (*kelid-hā kojā hastand?*) | kelid-hā kojā hastand? | Where are the keys? |
 | روی میز هستند. (*ru-ye miz hastand.*) | ru-ye miz hastand. | They're on the table. |
 
 - ببخشید، داروخانه کجاست؟  
   *bebakhshid, dāru-khāne kojā-st?* — Excuse me, where is the pharmacy?
-- مترو آنجاست، جلوی بیمارستان.  
-  *metro ānjā-st, jelo-ye bimārestān.* — The metro is over there, in front of the hospital.  
-  Spoken: مترو اونجاست، جلوی بیمارستان. *metro unjā-st, jelo-ye bimārestān.*
+- مترو آن‌جاست، جلوی بیمارستان.  
+  *metro ān-jā-st, jelo-ye bimārestān.* — The metro is over there, in front of the hospital.  
+  Spoken: مترو اون‌جاست، جلوی بیمارستان. *metro un-jā-st, jelo-ye bimārestān.*
 - بچه‌ها کجا هستند؟ در پارک هستند.  
   *bacche-hā kojā hastand? dar pārk hastand.* — Where are the children? They're in the park.
 - خانه‌ی شما کجاست؟  
@@ -144,7 +144,7 @@ Start with ببخشید (*bebakhshid*) when you ask a stranger, and finish with 
 
 To say that something **exists** somewhere – *there is, there are* – Persian uses هست (*hast*), the form of *to be* you met in lesson 2, and usually puts the place first: روی میز یک کتاب هست (*ru-ye miz yek ketāb hast*, ‘there is a book on the table’). Things in the plural still take *hast*: در اتاق دو صندلی هست (*dar otāgh do sandali hast*, ‘there are two chairs in the room’); people usually take *hastand*.
 
-The negative is نیست (*nist*): اینجا بانک نیست (*injā bānk nist*, ‘there is no bank here’).
+The negative is نیست (*nist*): این‌جا بانک نیست (*in-jā bānk nist*, ‘there is no bank here’).
 
 Compare the two: *ast* tells you **where** a known thing is; *hast* tells you **that** something is there.
 
@@ -285,10 +285,10 @@ If you get lost, ask. Iranians give directions generously – often with a long 
 
 **Put the words in order**
 
-1. داروخانه / کنار / بانک / است. — The pharmacy is next to the bank.
-2. کجاست؟ / ایستگاه / مترو — Where is the metro station?
-3. یک / هست. / میز / روی / کتاب — There is a book on the table.
-4. مدرسه / پشت / است. / مسجد — The school is behind the mosque.
+1. است. / کنار / بانک / داروخانه — The pharmacy is next to the bank.
+2. ایستگاه / کجاست؟ / مترو — Where is the metro station?
+3. هست. / روی / میز / یک / کتاب — There is a book on the table.
+4. است. / مدرسه / مسجد / پشت — The school is behind the mosque.
 
 <details><summary>Answers</summary>
 
@@ -331,7 +331,7 @@ If you get lost, ask. Iranians give directions generously – often with a long 
 2. داروخانه روبه‌روی پارک است. — *dāru-khāne ru-be-ru-ye pārk ast.*
 3. این نزدیکی سوپرمارکت هست؟ — *in nazdiki supermārket hast?*
 4. در اتاق من دو صندلی هست. — *dar otāgh-e man do sandali hast.*
-5. کلیدم اینجا نیست. — *kelid-am injā nist.*
+5. کلیدم این‌جا نیست. — *kelid-am in-jā nist.*
 
 </details>
 

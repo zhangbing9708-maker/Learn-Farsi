@@ -1,0 +1,338 @@
+{
+ "id": "b1-a-wedding-in-isfahan",
+ "level": "B1",
+ "kind": "everyday life",
+ "title": "A wedding in Isfahan",
+ "titleFa": "عروسی در اصفهان",
+ "titleR": "arusi dar Esfahān",
+ "image": "iranian-wedding",
+ "intro": "Leila takes Tom, her Australian classmate, to her cousin Maryam's wedding in Isfahan. He sees the 'aqd – the marriage ceremony around the sofreh-ye 'aqd, with its mirror, candlesticks, honey and sugar cones – and then the party that goes on until midnight. Read it for the passive with شدن (برگزار شد, پهن شده بود, چیده شده بود) and for the vocabulary of an Iranian wedding.",
+ "source": "An original story for Learn Farsi.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "تابستان گذشته، دخترخاله‌ی لیلا، مریم، در اصفهان ازدواج کرد و لیلا تام را هم به عروسی دعوت کرد.",
+     "r": "tābestān-e gozashte, dokhtar-khāle-ye Leylā, Maryam, dar Esfahān ezdevāj kard o Leylā Tām rā ham be arusi da'vat kard.",
+     "en": "Last summer Leila's cousin Maryam got married in Isfahan, and Leila invited Tom to the wedding too.",
+     "faV": "تابِستانِ گُذَشته، دُختَرخاله‌یِ لَیلا، مَریَم، دَر اِصفَهان اِزدِواج کَرد و لَیلا تام را هَم به عَروسی دَعوَت کَرد.",
+     "a": "40b469cd4dd8"
+    },
+    {
+     "fa": "تام که تا آن روز هرگز در عروسی ایرانی شرکت نکرده بود، از هیجان، شب قبل خوابش نبرد.",
+     "r": "Tām ke tā ān ruz hargez dar arusi-ye irāni sherkat na-karde bud, az hayajān, shab-e ghabl khāb-ash na-bord.",
+     "en": "Tom, who had never been to an Iranian wedding before, was so excited he could not sleep the night before.",
+     "faV": "تام که تا آن روز هَرگِز دَر عَروسیِ ایرانی شِرکَت نَکَرده بود، اَز هَیَجان، شَبِ قَبل خوابَش نَبُرد.",
+     "a": "f910af3a2959"
+    },
+    {
+     "fa": "لیلا به او گفته بود که عروسی ایرانی دو بخش دارد: عقد، که مراسمی رسمی و خانوادگی است، و جشن، که تا نیمه‌شب ادامه پیدا می‌کند.",
+     "r": "Leylā be u gofte bud ke arusi-ye irāni do bakhsh dārad: 'aghd, ke marāsem-i rasmi o khānevādegi ast, va jashn, ke tā nime-shab edāme peydā mi-konad.",
+     "en": "Leila had told him that an Iranian wedding has two parts: the 'aqd, a formal family ceremony, and the party, which goes on until midnight.",
+     "faV": "لَیلا به او گُفته بود که عَروسیِ ایرانی دو بَخش دارَد: عَقد، که مَراسِمی رَسمی و خانِوادِگی اَست، و جَشن، که تا نیمه‌شَب اِدامه پَیدا می‌کُنَد.",
+     "a": "e0faf24f7163"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "مراسم عقد در خانه‌ی قدیمی پدربزرگ مریم برگزار شد.",
+     "r": "marāsem-e 'aghd dar khāne-ye ghadimi-ye pedar-bozorg-e Maryam bargozār shod.",
+     "en": "The 'aqd ceremony was held in Maryam's grandfather's old house.",
+     "faV": "مَراسِمِ عَقد دَر خانه‌یِ قَدیمیِ پِدَربُزُرگِ مَریَم بَرگُزار شُد.",
+     "a": "937879072133"
+    },
+    {
+     "fa": "وسط اتاق سفره‌ی عقد پهن شده بود و روی آن آینه و شمعدان، قرآن، نان، عسل، سکه، شیرینی و یک دیوان حافظ چیده شده بود.",
+     "r": "vasat-e otāgh sofre-ye 'aghd pahn shode bud o ru-ye ān āyene o sham'dān, Ghor'ān, nān, 'asal, sekke, shirini o yek divān-e Hāfez chide shode bud.",
+     "en": "In the middle of the room the wedding spread had been laid out, and on it were arranged a mirror and candlesticks, a Quran, bread, honey, coins, sweets and a book of Hafez.",
+     "faV": "وَسَطِ اُتاق سُفره‌یِ عَقد پَهن شُده بود و رویِ آن آیِنه و شَمعدان، قُرآن، نان، عَسَل، سِکّه، شیرینی و یِک دیوانِ حافِظ چیده شُده بود.",
+     "a": "d50e00431f2a"
+    },
+    {
+     "fa": "مریم با لباس سفید روبه‌روی آینه نشست و داماد، علی، کنارش نشست.",
+     "r": "Maryam bā lebās-e sefid ru-be-ru-ye āyene neshast o dāmād, 'Ali, kenār-ash neshast.",
+     "en": "Maryam, in a white dress, sat facing the mirror, and the groom, Ali, sat beside her.",
+     "faV": "مَریَم با لِباسِ سِفید روبه‌رویِ آیِنه نِشَست و داماد، عَلی، کِنارَش نِشَست.",
+     "a": "edd0843716fd"
+    },
+    {
+     "fa": "لیلا آهسته به تام گفت: «عروس و داماد اول همدیگر را در آینه می‌بینند؛ این نشانه‌ی روشنایی زندگی آینده‌ی آن‌هاست.»",
+     "r": "Leylā āheste be Tām goft: «arus o dāmād avval hamdigar rā dar āyene mi-binand; in neshāne-ye rowshanāyi-ye zendegi-ye āyande-ye ān-hā-st.»",
+     "en": "Leila whispered to Tom: \"The bride and groom first see each other in the mirror; it is a sign of the brightness of their future life.\"",
+     "faV": "لَیلا آهِسته به تام گُفت: «عَروس و داماد اَوَّل هَمدیگَر را دَر آیِنه می‌بینَند؛ این نِشانه‌یِ رَوشَناییِ زِندِگیِ آیَنده‌یِ آن‌هاست.»",
+     "a": "02cc0318fcab"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "چند زن خوشبخت پارچه‌ی سفیدی را بالای سر عروس و داماد گرفتند.",
+     "r": "chand zan-e khoshbakht pārche-ye sefid-i rā bālā-ye sar-e arus o dāmād gereftand.",
+     "en": "A few happily married women held a white cloth above the heads of the bride and groom.",
+     "faV": "چَند زَنِ خوشبَخت پارچه‌یِ سِفیدی را بالایِ سَرِ عَروس و داماد گِرِفتَند.",
+     "a": "bb36177538c1"
+    },
+    {
+     "fa": "یکی از آن‌ها دو کله‌قند را آرام به هم می‌سایید تا شیرینی بر سر زوج جوان ببارد.",
+     "r": "yek-i az ān-hā do kalle-ghand rā ārām be ham mi-sāyid tā shirini bar sar-e zowj-e javān be-bārad.",
+     "en": "One of them gently rubbed two sugar cones together so that sweetness would rain down on the young couple.",
+     "faV": "یِکی اَز آن‌ها دو کَلّه‌قَند را آرام به هَم می‌سایید تا شیرینی بَر سَرِ زَوجِ جَوان بِبارَد.",
+     "a": "8f07cae6ac2b"
+    },
+    {
+     "fa": "عاقد سه بار از مریم پرسید: «آیا وکیلم؟»",
+     "r": "'āghed se bār az Maryam porsid: «āyā vakil-am?»",
+     "en": "The officiant asked Maryam three times: \"Do I have your consent?\"",
+     "lit": "Am I (your) agent?",
+     "faV": "عاقِد سه بار اَز مَریَم پُرسید: «آیا وَکیلَم؟»",
+     "a": "b3bca9190e48"
+    },
+    {
+     "fa": "بار اول کسی گفت: «عروس رفته گل بچیند!» و بار دوم: «عروس رفته گلاب بیاورد!»",
+     "r": "bār-e avval kas-i goft: «arus rafte gol be-chinad!» o bār-e dovvom: «arus rafte golāb bi-āvarad!»",
+     "en": "The first time someone said: \"The bride has gone to pick flowers!\" and the second time: \"The bride has gone to fetch rosewater!\"",
+     "faV": "بارِ اَوَّل کَسی گُفت: «عَروس رَفته گُل بِچینَد!» و بارِ دُوُّم: «عَروس رَفته گُلاب بیاوَرَد!»",
+     "a": "715424a1693f"
+    },
+    {
+     "fa": "بار سوم مریم لبخند زد و گفت: «با اجازه‌ی پدر و مادرم، بله.»",
+     "r": "bār-e sevvom Maryam labkhand zad o goft: «bā ejāze-ye pedar o mādar-am, bale.»",
+     "en": "The third time Maryam smiled and said: \"With my parents' permission, yes.\"",
+     "faV": "بارِ سِوُّم مَریَم لَبخَند زَد و گُفت: «با اِجازه‌یِ پِدَر و مادَرَم، بَله.»",
+     "a": "7378151e63e1"
+    },
+    {
+     "fa": "همه دست زدند و کل کشیدند و بعد عروس و داماد انگشت کوچکشان را در عسل زدند و به دهان هم گذاشتند تا زندگی‌شان شیرین باشد.",
+     "r": "hame dast zadand o kel keshidand o ba'd arus o dāmād angosht-e kuchak-eshān rā dar 'asal zadand o be dahān-e ham gozāshtand tā zendegi-shān shirin bāshad.",
+     "en": "Everyone clapped and ululated, and then the bride and groom dipped their little fingers in honey and put them in each other's mouths, so that their life would be sweet.",
+     "faV": "هَمه دَست زَدَند و کِل کِشیدَند و بَعد عَروس و داماد اَنگُشتِ کوچَکِشان را دَر عَسَل زَدَند و به دَهانِ هَم گُذاشتَند تا زِندِگی‌شان شیرین باشَد.",
+     "a": "1f4000a8348b"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "شب، جشن در تالاری بزرگ برگزار شد و صدها مهمان آمده بودند.",
+     "r": "shab, jashn dar tālār-i bozorg bargozār shod o sad-hā mehmān āmade budand.",
+     "en": "In the evening the party was held in a large hall, and hundreds of guests had come.",
+     "faV": "شَب، جَشن دَر تالاری بُزُرگ بَرگُزار شُد و صَدها مِهمان آمَده بودَند.",
+     "a": "0c04716ab285"
+    },
+    {
+     "fa": "موسیقی آن‌قدر بلند بود که تام صدای خودش را هم نمی‌شنید.",
+     "r": "musighi ān-ghadr boland bud ke Tām sedā-ye khod-ash rā ham nemi-shenid.",
+     "en": "The music was so loud that Tom could not even hear his own voice.",
+     "faV": "موسیقی آن‌قَدر بُلَند بود که تام صِدایِ خودَش را هَم نِمی‌شِنید.",
+     "a": "5dc3f5f0ba5e"
+    },
+    {
+     "fa": "خاله‌ی لیلا دست تام را گرفت و او را به وسط جمعیت برد تا برقصد.",
+     "r": "khāle-ye Leylā dast-e Tām rā gereft o u rā be vasat-e jam'iyyat bord tā be-raghsad.",
+     "en": "Leila's aunt took Tom by the hand and led him into the middle of the crowd to dance.",
+     "faV": "خاله‌یِ لَیلا دَستِ تام را گِرِفت و او را به وَسَطِ جَمعیَّت بُرد تا بِرَقصَد.",
+     "a": "9279f00837ac"
+    },
+    {
+     "fa": "تام اول خجالت می‌کشید، اما وقتی دید پدربزرگ هشتادساله هم می‌رقصد، دیگر خجالت نکشید.",
+     "r": "Tām avval khejālat mi-keshid, ammā vaghti did pedar-bozorg-e hashtād-sāle ham mi-raghsad, digar khejālat na-keshid.",
+     "en": "At first Tom was shy, but when he saw that the eighty-year-old grandfather was dancing too, he was shy no longer.",
+     "faV": "تام اَوَّل خِجالَت می‌کِشید، اَمّا وَقتی دید پِدَربُزُرگِ هَشتادساله هَم می‌رَقصَد، دیگَر خِجالَت نَکِشید.",
+     "a": "7eeb4ba3fa94"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "شام زرشک‌پلو با مرغ و شیرین‌پلو بود و تام از هر کدام دو بشقاب خورد.",
+     "r": "shām zereshk-polo bā morgh o shirin-polo bud o Tām az har kodām do boshghāb khord.",
+     "en": "Dinner was barberry rice with chicken and sweet rice, and Tom ate two plates of each.",
+     "faV": "شام زِرِشک‌پُلو با مُرغ و شیرین‌پُلو بود و تام اَز هَر کُدام دو بُشقاب خورد.",
+     "a": "e728fad9855c"
+    },
+    {
+     "fa": "نیمه‌شب، مهمان‌ها با ماشین‌های گل‌زده و بوق‌زنان عروس و داماد را تا خانه‌ی تازه‌شان همراهی کردند.",
+     "r": "nime-shab, mehmān-hā bā māshin-hā-ye gol-zade o bugh-zanān arus o dāmād rā tā khāne-ye tāze-shān hamrāhi kardand.",
+     "en": "At midnight the guests, in flower-decked cars and honking their horns, escorted the bride and groom to their new home.",
+     "faV": "نیمه‌شَب، مِهمان‌ها با ماشین‌هایِ گُل‌زَده و بوق‌زَنان عَروس و داماد را تا خانه‌یِ تازه‌شان هَمراهی کَردَند.",
+     "a": "00a23a721394"
+    },
+    {
+     "fa": "در راه برگشت، تام به لیلا گفت: «اگر می‌دانستم عروسی‌های ایرانی این‌قدر طول می‌کشند، کفش راحت‌تری می‌پوشیدم!»",
+     "r": "dar rāh-e bargasht, Tām be Leylā goft: «agar mi-dānestam arusi-hā-ye irāni in-ghadr tul mi-keshand, kafsh-e rāhat-tar-i mi-pushidam!»",
+     "en": "On the way back Tom said to Leila: \"If I had known Iranian weddings went on so long, I would have worn more comfortable shoes!\"",
+     "faV": "دَر راهِ بَرگَشت، تام به لَیلا گُفت: «اَگَر می‌دانِستَم عَروسی‌هایِ ایرانی این‌قَدر طول می‌کِشَند، کَفشِ راحَت‌تَری می‌پوشیدَم!»",
+     "a": "3932ae4c261a"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "ازدواج کردن",
+   "r": "ezdevāj kardan",
+   "en": "to marry",
+   "faV": "اِزدِواج کَردَن",
+   "a": "703235e266dc"
+  },
+  {
+   "fa": "عقد",
+   "r": "'aghd",
+   "en": "marriage contract; the wedding ceremony",
+   "faV": "عَقد",
+   "a": "5bf03b7e1b40"
+  },
+  {
+   "fa": "سفره‌ی عقد",
+   "r": "sofre-ye 'aghd",
+   "en": "the wedding spread",
+   "faV": "سُفره‌یِ عَقد",
+   "a": "4495fb7882b7"
+  },
+  {
+   "fa": "آینه و شمعدان",
+   "r": "āyene o sham'dān",
+   "en": "mirror and candlesticks",
+   "faV": "آیِنه و شَمعدان",
+   "a": "c62702427b34"
+  },
+  {
+   "fa": "برگزار شدن",
+   "r": "bargozār shodan",
+   "en": "to be held (of an event)",
+   "faV": "بَرگُزار شُدَن",
+   "a": "44df8ea6ae02"
+  },
+  {
+   "fa": "عروس",
+   "r": "arus",
+   "en": "bride",
+   "faV": "عَروس",
+   "a": "e3a0609942a9"
+  },
+  {
+   "fa": "داماد",
+   "r": "dāmād",
+   "en": "groom; son-in-law",
+   "faV": "داماد",
+   "a": "1cef21f589c2"
+  },
+  {
+   "fa": "کله‌قند",
+   "r": "kalle-ghand",
+   "en": "sugar cone",
+   "faV": "کَلّه‌قَند",
+   "a": "cb408d3a1d47"
+  },
+  {
+   "fa": "زوج",
+   "r": "zowj",
+   "en": "couple",
+   "faV": "زَوج",
+   "a": "3741992c3ae6"
+  },
+  {
+   "fa": "عاقد",
+   "r": "'āghed",
+   "en": "marriage officiant",
+   "faV": "عاقِد",
+   "a": "5ee359408567"
+  },
+  {
+   "fa": "وکیل",
+   "r": "vakil",
+   "en": "agent, proxy; lawyer",
+   "faV": "وَکیل",
+   "a": "47a4bb429ea3"
+  },
+  {
+   "fa": "کل کشیدن",
+   "r": "kel keshidan",
+   "en": "to ululate (a cry of joy)",
+   "faV": "کِل کِشیدَن",
+   "a": "002faa8c257c"
+  },
+  {
+   "fa": "عسل",
+   "r": "'asal",
+   "en": "honey",
+   "faV": "عَسَل",
+   "a": "cff3004b3ed5"
+  },
+  {
+   "fa": "تالار",
+   "r": "tālār",
+   "en": "hall, reception hall",
+   "faV": "تالار",
+   "a": "6a2df5ee1bbb"
+  },
+  {
+   "fa": "خجالت کشیدن",
+   "r": "khejālat keshidan",
+   "en": "to be shy, embarrassed",
+   "faV": "خِجالَت کِشیدَن",
+   "a": "feb1773aa881"
+  },
+  {
+   "fa": "همراهی کردن",
+   "r": "hamrāhi kardan",
+   "en": "to accompany, escort",
+   "faV": "هَمراهی کَردَن",
+   "a": "629aac57e7e3"
+  }
+ ],
+ "questions": [
+  {
+   "q": "What are the two parts of an Iranian wedding, according to Leila?",
+   "options": [
+    "the engagement and the honeymoon",
+    "the 'aqd ceremony and the party",
+    "the henna night and the dinner"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Why do the women rub two sugar cones together over the couple?",
+   "options": [
+    "so that sweetness rains on their life",
+    "to make tea for the guests",
+    "to keep evil spirits away from the mirror"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What do the guests say the first time the officiant asks the bride?",
+   "options": [
+    "\"She is thinking about it!\"",
+    "\"The bride has gone to pick flowers!\"",
+    "\"Ask her father!\""
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Why did Tom stop being shy on the dance floor?",
+   "options": [
+    "Leila danced with him",
+    "he saw the eighty-year-old grandfather dancing",
+    "the music stopped"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What would Tom have done differently?",
+   "options": [
+    "eaten less rice",
+    "worn more comfortable shoes",
+    "brought a bigger present"
+   ],
+   "answer": 1
+  }
+ ],
+ "after": "The sofreh-ye 'aqd is full of symbols: the mirror (آینه) is light and a clear future, the candlesticks (شمعدان) are brightness, bread, honey and sugar wish the couple plenty and sweetness, and coins wish them wealth. Some families add a needle and thread, 'to sew shut the mother-in-law's tongue'. The bride's delay is part of the play: she answers only the third time, so as not to seem too eager, and she says yes 'with the permission of my father and mother'. Grammar to notice: the passive with شدن – برگزار شد 'was held', پهن شده بود 'had been spread', چیده شده بود 'had been arranged' – is how Persian describes a scene without saying who did the work.",
+ "titleV": "عَروسی دَر اِصفَهان",
+ "titleA": "8aad040af635"
+}

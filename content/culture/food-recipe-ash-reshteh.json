@@ -33,89 +33,227 @@
   {
    "fa": "نخود و لوبیا را از شب قبل خیس کنید.",
    "r": "nokhod o lubiyā rā az shab-e ghabl khis konid.",
-   "en": "Soak the chickpeas and beans the night before."
+   "en": "Soak the chickpeas and beans the night before.",
+   "faV": "نُخود و لوبیا را اَز شَبِ قَبل خیس کُنید.",
+   "a": "08f3015d9532"
   },
   {
    "fa": "حبوبات را یک ساعت بپزید تا نرم شوند.",
    "r": "hobubāt rā yek sā'at be-pazid tā narm shavand.",
    "en": "Cook the pulses for an hour until they are soft.",
    "col": "حبوباتو یه ساعت بپز تا نرم بشن.",
-   "colR": "hobubāt-o ye sā'at be-paz tā narm be-shan."
+   "colR": "hobubāt-o ye sā'at be-paz tā narm be-shan.",
+   "faV": "حُبوبات را یِک ساعَت بِپَزید تا نَرم شَوَند.",
+   "a": "77727aa95d7f",
+   "colV": "حُبوباتو یه ساعَت بِپَز تا نَرم بِشَن.",
+   "colA": "69cdfb61c680"
   },
   {
    "fa": "سبزی آش را بریزید و هر از گاهی هم بزنید.",
    "r": "sabzi-ye āsh rā be-rizid va har az gāhi ham be-zanid.",
-   "en": "Add the herbs and stir now and then."
+   "en": "Add the herbs and stir now and then.",
+   "faV": "سَبزیِ آش را بِریزید و هَر اَز گاهی هَم بِزَنید.",
+   "a": "1fce164dc81f"
   },
   {
    "fa": "رشته را از وسط بشکنید و در آش بریزید.",
    "r": "reshte rā az vasat be-shkanid va dar āsh be-rizid.",
-   "en": "Break the noodles in half and add them to the soup."
+   "en": "Break the noodles in half and add them to the soup.",
+   "faV": "رِشته را اَز وَسَط بِشکَنید و دَر آش بِریزید.",
+   "a": "2c7c3d6735f8"
   },
   {
    "fa": "آش را مدام هم بزنید تا ته نگیرد.",
    "r": "āsh rā modām ham be-zanid tā tah na-girad.",
    "en": "Keep stirring the soup so it doesn't stick to the bottom.",
    "col": "آشو مدام هم بزن تا ته نگیره.",
-   "colR": "āsh-o modām ham be-zan tā tah na-gire."
+   "colR": "āsh-o modām ham be-zan tā tah na-gire.",
+   "faV": "آش را مُدام هَم بِزَنید تا تَه نَگیرَد.",
+   "a": "daeeaded9a3d",
+   "colV": "آشو مُدام هَم بِزَن تا تَه نَگیره.",
+   "colA": "46a2b115fc64"
   },
   {
    "fa": "اگر آش خیلی غلیظ شد، کمی آب جوش اضافه کنید.",
    "r": "agar āsh kheyli ghaliz shod, kami āb-e jush ezāfe konid.",
-   "en": "If the soup gets too thick, add a little boiling water."
+   "en": "If the soup gets too thick, add a little boiling water.",
+   "faV": "اَگَر آش خَیلی غَلیظ شُد، کَمی آبِ جوش اِضافه کُنید.",
+   "a": "415fdce67268"
   },
   {
    "fa": "کشک را با یک ملاقه آش رقیق کنید.",
    "r": "kashk rā bā yek malāghe āsh raghigh konid.",
-   "en": "Thin the kashk with a ladle of the soup."
+   "en": "Thin the kashk with a ladle of the soup.",
+   "faV": "کَشک را با یِک مَلاقه آش رَقیق کُنید.",
+   "a": "dba949790eca"
   },
   {
    "fa": "نمک را آخر کار بزنید، چون رشته و کشک شور هستند.",
    "r": "namak rā ākhar-e kār be-zanid, chon reshte va kashk shur hastand.",
-   "en": "Add salt at the end, because the noodles and kashk are salty."
+   "en": "Add salt at the end, because the noodles and kashk are salty.",
+   "faV": "نَمَک را آخَرِ کار بِزَنید، چون رِشته و کَشک شور هَستَند.",
+   "a": "012d9863035e"
   },
   {
    "fa": "روی آش کشک، پیازداغ و نعناداغ بریزید.",
    "r": "ru-ye āsh kashk, piyāz-dāgh va na'nā-dāgh be-rizid.",
    "en": "Top the soup with kashk, fried onion and mint oil.",
    "col": "رو آش کشک، پیازداغ و نعناداغ بریز.",
-   "colR": "ru āsh kashk, piyāz-dāgh o na'nā-dāgh be-riz."
+   "colR": "ru āsh kashk, piyāz-dāgh o na'nā-dāgh be-riz.",
+   "faV": "رویِ آش کَشک، پیازداغ و نَعناداغ بِریزید.",
+   "a": "a71edbc70e19",
+   "colV": "رو آش کَشک، پیازداغ و نَعناداغ بِریز.",
+   "colA": "7ae443e04116"
   },
   {
    "fa": "آش را داغ داغ بخورید.",
    "r": "āsh rā dāgh dāgh be-khorid.",
-   "en": "Eat the soup piping hot."
+   "en": "Eat the soup piping hot.",
+   "faV": "آش را داغ داغ بِخورید.",
+   "a": "dbd4a771d7f7"
   },
   {
    "fa": "آش رشته غذای شب‌های سرد زمستان است.",
    "r": "āsh-e reshte ghazā-ye shab-hā-ye sard-e zemestān ast.",
-   "en": "Ash reshteh is food for cold winter nights."
+   "en": "Ash reshteh is food for cold winter nights.",
+   "faV": "آشِ رِشته غَذایِ شَب‌هایِ سَردِ زِمِستان اَست.",
+   "a": "37058a5bb49b"
   },
   {
    "fa": "همسایه‌ها آش نذری می‌پزند و پخش می‌کنند.",
    "r": "hamsāye-hā āsh-e nazri mi-pazand va pakhsh mi-konand.",
-   "en": "The neighbours cook votive ash and hand it out."
+   "en": "The neighbours cook votive ash and hand it out.",
+   "faV": "هَمسایه‌ها آشِ نَذری می‌پَزَند و پَخش می‌کُنَند.",
+   "a": "fe85b034c9cc"
   }
  ],
  "vocab": [
-  {"fa": "آش", "r": "āsh", "en": "ash, thick soup"},
-  {"fa": "رشته", "r": "reshte", "en": "noodles; thread"},
-  {"fa": "سبزی آش", "r": "sabzi-ye āsh", "en": "mixed herbs for ash"},
-  {"fa": "نخود", "r": "nokhod", "en": "chickpeas"},
-  {"fa": "لوبیا", "r": "lubiyā", "en": "beans"},
-  {"fa": "عدس", "r": "'adas", "en": "lentils"},
-  {"fa": "حبوبات", "r": "hobubāt", "en": "pulses, beans and lentils"},
-  {"fa": "اسفناج", "r": "esfenāj", "en": "spinach"},
-  {"fa": "کشک", "r": "kashk", "en": "kashk, fermented dried whey"},
-  {"fa": "پیازداغ", "r": "piyāz-dāgh", "en": "fried onion (as a topping)"},
-  {"fa": "ملاقه", "r": "malāghe", "en": "ladle"},
-  {"fa": "کاسه", "r": "kāse", "en": "bowl"},
-  {"fa": "غلیظ", "r": "ghaliz", "en": "thick"},
-  {"fa": "رقیق", "r": "raghigh", "en": "thin, runny"},
-  {"fa": "ته گرفتن", "r": "tah gereftan", "en": "to stick to the bottom of the pot"},
-  {"fa": "پختن", "r": "pokhtan", "en": "to cook"},
-  {"fa": "نذری", "r": "nazri", "en": "votive food, shared to fulfil a vow"},
-  {"fa": "آشپز", "r": "āshpaz", "en": "cook"}
+  {
+   "fa": "آش",
+   "r": "āsh",
+   "en": "ash, thick soup",
+   "faV": "آش",
+   "a": "52b8aabf2c8b"
+  },
+  {
+   "fa": "رشته",
+   "r": "reshte",
+   "en": "noodles; thread",
+   "faV": "رِشته",
+   "a": "a56d6049c72d"
+  },
+  {
+   "fa": "سبزی آش",
+   "r": "sabzi-ye āsh",
+   "en": "mixed herbs for ash",
+   "faV": "سَبزیِ آش",
+   "a": "80ca3f2dc38b"
+  },
+  {
+   "fa": "نخود",
+   "r": "nokhod",
+   "en": "chickpeas",
+   "faV": "نُخود",
+   "a": "bf84075a4f53"
+  },
+  {
+   "fa": "لوبیا",
+   "r": "lubiyā",
+   "en": "beans",
+   "faV": "لوبیا",
+   "a": "f287f1941504"
+  },
+  {
+   "fa": "عدس",
+   "r": "'adas",
+   "en": "lentils",
+   "faV": "عَدَس",
+   "a": "6828a679dbb3"
+  },
+  {
+   "fa": "حبوبات",
+   "r": "hobubāt",
+   "en": "pulses, beans and lentils",
+   "faV": "حُبوبات",
+   "a": "6395811dab2f"
+  },
+  {
+   "fa": "اسفناج",
+   "r": "esfenāj",
+   "en": "spinach",
+   "faV": "اِسفِناج",
+   "a": "f4fb33cc3356"
+  },
+  {
+   "fa": "کشک",
+   "r": "kashk",
+   "en": "kashk, fermented dried whey",
+   "faV": "کَشک",
+   "a": "4d1b1102b043"
+  },
+  {
+   "fa": "پیازداغ",
+   "r": "piyāz-dāgh",
+   "en": "fried onion (as a topping)",
+   "faV": "پیازداغ",
+   "a": "19e536f70814"
+  },
+  {
+   "fa": "ملاقه",
+   "r": "malāghe",
+   "en": "ladle",
+   "faV": "مَلاقه",
+   "a": "73d56cd11953"
+  },
+  {
+   "fa": "کاسه",
+   "r": "kāse",
+   "en": "bowl",
+   "faV": "کاسه",
+   "a": "e2ea37bba35e"
+  },
+  {
+   "fa": "غلیظ",
+   "r": "ghaliz",
+   "en": "thick",
+   "faV": "غَلیظ",
+   "a": "8aa41593b744"
+  },
+  {
+   "fa": "رقیق",
+   "r": "raghigh",
+   "en": "thin, runny",
+   "faV": "رَقیق",
+   "a": "887f56ae42b2"
+  },
+  {
+   "fa": "ته گرفتن",
+   "r": "tah gereftan",
+   "en": "to stick to the bottom of the pot",
+   "faV": "تَه گِرِفتَن",
+   "a": "07bdf104a857"
+  },
+  {
+   "fa": "پختن",
+   "r": "pokhtan",
+   "en": "to cook",
+   "faV": "پُختَن",
+   "a": "6cd2fd8f66a5"
+  },
+  {
+   "fa": "نذری",
+   "r": "nazri",
+   "en": "votive food, shared to fulfil a vow",
+   "faV": "نَذری",
+   "a": "2d3fbd9827b4"
+  },
+  {
+   "fa": "آشپز",
+   "r": "āshpaz",
+   "en": "cook",
+   "faV": "آشپَز",
+   "a": "876c8f0a94ff"
+  }
  ],
  "facts": [
   "Ash is the Persian word for a thick soup, and it gives Persian the words ashpaz 'cook' and ashpazkhaneh 'kitchen'.",
@@ -123,5 +261,7 @@
   "Ash-e posht-e pa is cooked a few days after someone sets off on a journey, to wish them a safe return.",
   "Ash reshteh is one of the most common nazri dishes, cooked in huge pots and shared with neighbours.",
   "Reshteh for ash are flat, salted noodles, so the soup is salted only at the end."
- ]
+ ],
+ "titleV": "آشِ رِشته",
+ "titleA": "e113af290328"
 }

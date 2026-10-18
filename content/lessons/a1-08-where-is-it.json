@@ -141,8 +141,8 @@
     },
     {
      "who": "Tom",
-     "fa": "آهان! کلیدم اینجاست! ممنون، مینا خانم.",
-     "r": "āhān! kelid-am injā-st! mamnun, Minā khānom.",
+     "fa": "آهان! کلیدم این‌جاست! ممنون، مینا خانم.",
+     "r": "āhān! kelid-am in-jā-st! mamnun, Minā khānom.",
      "en": "Aha! My key is here! Thank you, Ms Mina.",
      "faV": "آهان! کِلیدَم اینجاست! مَمنون، مینا خانُم.",
      "a": "d4835836386d"
@@ -468,7 +468,7 @@
   {
    "type": "grammar",
    "title": "Where is it? – kojā-st",
-   "md": "*Where is …?* is [[کجاست؟|kojā-st?]] – *kojā* + *ast*, written as one word: [[بانک کجاست؟|bānk kojā-st?|where is the bank?]] For more than one thing, use the full verb: [[کلیدها کجا هستند؟|kelid-hā kojā hastand?|where are the keys?]]\n\nThe answers follow the same pattern: [[اینجاست|injā-st|it's here]], [[آنجاست|ānjā-st|it's there]] (spoken *unjā-st*), or a place word + *ast*: [[کنار پارک است|kenār-e pārk ast|it's next to the park]]. You don't need a word for *it* – the verb says it all.\n\nStart with [[ببخشید|bebakhshid]] when you ask a stranger, and finish with [[ممنون|mamnun]]. In speech *ast* becomes *-e*: *kenār-e pārk-e*, *nazdik-e*.",
+   "md": "*Where is …?* is [[کجاست؟|kojā-st?]] – *kojā* + *ast*, written as one word: [[بانک کجاست؟|bānk kojā-st?|where is the bank?]] For more than one thing, use the full verb: [[کلیدها کجا هستند؟|kelid-hā kojā hastand?|where are the keys?]]\n\nThe answers follow the same pattern: [[این‌جاست|in-jā-st|it's here]], [[آن‌جاست|ān-jā-st|it's there]] (spoken *un-jā-st*), or a place word + *ast*: [[کنار پارک است|kenār-e pārk ast|it's next to the park]]. You don't need a word for *it* – the verb says it all.\n\nStart with [[ببخشید|bebakhshid]] when you ask a stranger, and finish with [[ممنون|mamnun]]. In speech *ast* becomes *-e*: *kenār-e pārk-e*, *nazdik-e*.",
    "table": {
     "head": [
      "Persian",
@@ -482,13 +482,13 @@
       "Where is the bank?"
      ],
      [
-      "[[اینجاست.|injā-st.]]",
-      "injā-st.",
+      "[[این‌جاست.|in-jā-st.]]",
+      "in-jā-st.",
       "It's here."
      ],
      [
-      "[[آنجاست.|ānjā-st.]]",
-      "ānjā-st.",
+      "[[آن‌جاست.|ān-jā-st.]]",
+      "ān-jā-st.",
       "It's there."
      ],
      [
@@ -512,11 +512,11 @@
      "a": "af317b977fc3"
     },
     {
-     "fa": "مترو آنجاست، جلوی بیمارستان.",
-     "r": "metro ānjā-st, jelo-ye bimārestān.",
+     "fa": "مترو آن‌جاست، جلوی بیمارستان.",
+     "r": "metro ān-jā-st, jelo-ye bimārestān.",
      "en": "The metro is over there, in front of the hospital.",
-     "col": "مترو اونجاست، جلوی بیمارستان.",
-     "colR": "metro unjā-st, jelo-ye bimārestān.",
+     "col": "مترو اون‌جاست، جلوی بیمارستان.",
+     "colR": "metro un-jā-st, jelo-ye bimārestān.",
      "faV": "مِترو آنجاست، جِلویِ بیمارِستان.",
      "a": "76b1d390b6d9",
      "colV": "مِترو اونجاست، جِلویِ بیمارِستان.",
@@ -541,7 +541,7 @@
   {
    "type": "grammar",
    "title": "There is, there are: hast and nist",
-   "md": "To say that something **exists** somewhere – *there is, there are* – Persian uses [[هست|hast]], the form of *to be* you met in lesson 2, and usually puts the place first: [[روی میز یک کتاب هست|ru-ye miz yek ketāb hast|there is a book on the table]]. Things in the plural still take *hast*: [[در اتاق دو صندلی هست|dar otāgh do sandali hast|there are two chairs in the room]]; people usually take *hastand*.\n\nThe negative is [[نیست|nist]]: [[اینجا بانک نیست|injā bānk nist|there is no bank here]].\n\nCompare the two: *ast* tells you **where** a known thing is; *hast* tells you **that** something is there.",
+   "md": "To say that something **exists** somewhere – *there is, there are* – Persian uses [[هست|hast]], the form of *to be* you met in lesson 2, and usually puts the place first: [[روی میز یک کتاب هست|ru-ye miz yek ketāb hast|there is a book on the table]]. Things in the plural still take *hast*: [[در اتاق دو صندلی هست|dar otāgh do sandali hast|there are two chairs in the room]]; people usually take *hastand*.\n\nThe negative is [[نیست|nist]]: [[این‌جا بانک نیست|in-jā bānk nist|there is no bank here]].\n\nCompare the two: *ast* tells you **where** a known thing is; *hast* tells you **that** something is there.",
    "table": {
     "head": [
      "Persian",
@@ -980,8 +980,8 @@
     },
     {
      "en": "My key is not here.",
-     "fa": "کلیدم اینجا نیست.",
-     "r": "kelid-am injā nist.",
+     "fa": "کلیدم این‌جا نیست.",
+     "r": "kelid-am in-jā nist.",
      "faV": "کِلیدَم اینجا نیست.",
      "a": "e640166f22a6"
     }

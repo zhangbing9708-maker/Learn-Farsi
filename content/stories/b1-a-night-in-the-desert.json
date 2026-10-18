@@ -1,0 +1,79 @@
+{
+ "id": "b1-a-night-in-the-desert",
+ "level": "B1",
+ "kind": "travel",
+ "title": "A night in the desert",
+ "titleFa": "شبی در کویر",
+ "titleR": "shab-i dar kavir",
+ "image": "maranjab",
+ "intro": "Dariush and Mahsa drive out from Kashan to camp in the Maranjab desert, past the salt lake to an old Safavid caravanserai. They get a sky full of stars – and a sandstorm at midnight. Read it for the vocabulary of the desert, the passive with شدن (ساخته شده بود, پنهان شد, کشیده شده بود), and conditionals in speech.",
+ "source": "An original story for Learn Farsi.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {"fa": "داریوش و مهسا مدت‌ها بود که می‌خواستند یک شب را در کویر بگذرانند.", "r": "Dāriyush o Mahsā moddat-hā bud ke mi-khāstand yek shab rā dar kavir be-gozarānand.", "en": "Dariush and Mahsa had wanted to spend a night in the desert for a long time."},
+    {"fa": "آخر پاییز، وقتی هوای کویر دیگر گرم نبود، از کاشان به سمت کویر مرنجاب راه افتادند.", "r": "ākhar-e pāyiz, vaghti havā-ye kavir digar garm na-bud, az Kāshān be samt-e kavir-e Maranjāb rāh oftādand.", "en": "At the end of autumn, when the desert air was no longer hot, they set off from Kashan towards the Maranjab desert."},
+    {"fa": "جاده‌ی خاکی از کنار دریاچه‌ی نمک می‌گذشت و تا چشم کار می‌کرد، زمین سفید و صاف بود.", "r": "jādde-ye khāki az kenār-e daryāche-ye namak mi-gozasht o tā cheshm kār mi-kard, zamin sefid o sāf bud.", "en": "The dirt road ran along the salt lake, and as far as the eye could see the ground was white and flat."}
+   ]
+  },
+  {
+   "sentences": [
+    {"fa": "عصر به کاروانسرای مرنجاب رسیدند که حدود چهارصد سال پیش، در زمان شاه عباس، ساخته شده بود.", "r": "'asr be kārvānsarā-ye Maranjāb residand ke hodud-e chahārsad sāl pish, dar zamān-e shāh 'Abbās, sākhte shode bud.", "en": "In the late afternoon they reached the Maranjab caravanserai, which had been built about four hundred years ago, in the time of Shah Abbas."},
+    {"fa": "نگهبان کاروانسرا به آن‌ها گفت که اگر می‌خواهند در تپه‌های شنی چادر بزنند، نباید خیلی دور بروند.", "r": "negahbān-e kārvānsarā be ān-hā goft ke agar mi-khāhand dar tappe-hā-ye sheni chādor be-zanand, na-bāyad kheyli dur be-ravand.", "en": "The caravanserai's keeper told them that if they wanted to pitch a tent in the sand dunes, they should not go too far."},
+    {"fa": "او گفت: «کویر آرام است، اما گاهی بی‌خبر عصبانی می‌شود.»", "r": "u goft: «kavir ārām ast, ammā gāhi bi-khabar 'asabāni mi-shavad.»", "en": "He said: \"The desert is calm, but sometimes it gets angry without warning.\""}
+   ]
+  },
+  {
+   "sentences": [
+    {"fa": "آن‌ها چادرشان را پشت یک تپه‌ی بلند زدند و غروب خورشید را تماشا کردند.", "r": "ān-hā chādor-eshān rā posht-e yek tappe-ye boland zadand o ghorub-e khorshid rā tamāshā kardand.", "en": "They pitched their tent behind a high dune and watched the sunset."},
+    {"fa": "رنگ شن‌ها از طلایی به نارنجی و بعد به بنفش تبدیل شد.", "r": "rang-e shen-hā az talāyi be nārenji va ba'd be banafsh tabdil shod.", "en": "The colour of the sand turned from gold to orange and then to violet."},
+    {"fa": "وقتی هوا تاریک شد، مهسا سرش را بالا گرفت و از تعجب فریاد کشید.", "r": "vaghti havā tārik shod, Mahsā sar-ash rā bālā gereft o az ta'ajjob faryād keshid.", "en": "When it grew dark, Mahsa looked up and cried out in amazement."},
+    {"fa": "آسمان پر از ستاره بود و کهکشان راه شیری مثل رودی از نور از یک طرف آسمان تا طرف دیگر کشیده شده بود.", "r": "āsemān por az setāre bud o kahkeshān-e rāh-e shiri mesl-e rud-i az nur az yek taraf-e āsemān tā taraf-e digar keshide shode bud.", "en": "The sky was full of stars, and the Milky Way stretched like a river of light from one side of the sky to the other."},
+    {"fa": "داریوش گفت: «در تهران هیچ‌وقت این‌همه ستاره ندیده بودم.»", "r": "Dāriyush goft: «dar Tehrān hich-vaght in-hame setāre na-dide budam.»", "en": "Dariush said: \"In Tehran I had never seen so many stars.\""}
+   ]
+  },
+  {
+   "sentences": [
+    {"fa": "نزدیک نیمه‌شب، ناگهان باد شروع به وزیدن کرد.", "r": "nazdik-e nime-shab, nāgahān bād shoru' be vazidan kard.", "en": "Near midnight, the wind suddenly began to blow."},
+    {"fa": "در چند دقیقه، آسمان پرستاره پشت دیواری از شن پنهان شد و چادر مثل بادبادک تکان می‌خورد.", "r": "dar chand daghighe, āsemān-e por-setāre posht-e divār-i az shen penhān shod o chādor mesl-e bādbādak tekān mi-khord.", "en": "Within a few minutes the starry sky was hidden behind a wall of sand, and the tent was flapping like a kite."},
+    {"fa": "شن در چشم و دهانشان می‌رفت و صدای باد مثل زوزه‌ی گرگ بود.", "r": "shen dar cheshm o dahān-eshān mi-raft o sedā-ye bād mesl-e zuze-ye gorg bud.", "en": "Sand got into their eyes and mouths, and the sound of the wind was like the howl of a wolf."},
+    {"fa": "مهسا گفت: «اگر این‌جا بمانیم، چادر را باد می‌برد؛ باید به کاروانسرا برگردیم.»", "r": "Mahsā goft: «agar in-jā be-mānim, chādor rā bād mi-barad; bāyad be kārvānsarā bar-gardim.»", "en": "Mahsa said: \"If we stay here, the wind will carry off the tent; we have to go back to the caravanserai.\""},
+    {"fa": "آن‌ها وسایلشان را جمع کردند و با چراغ‌قوه، دست در دست، به طرف نور کم‌رنگ کاروانسرا رفتند.", "r": "ān-hā vasāyel-eshān rā jam' kardand o bā cherāgh-ghove, dast dar dast, be taraf-e nur-e kam-rang-e kārvānsarā raftand.", "en": "They gathered their things and, with a torch, hand in hand, headed for the faint light of the caravanserai."}
+   ]
+  },
+  {
+   "sentences": [
+    {"fa": "نگهبان در بزرگ چوبی را برایشان باز کرد و بدون این‌که چیزی بپرسد، دو لیوان چای داغ به دستشان داد.", "r": "negahbān dar-e bozorg-e chubi rā barā-yeshān bāz kard o bedun-e in-ke chiz-i be-porsad, do livān chāy-e dāgh be dast-eshān dād.", "en": "The keeper opened the great wooden door for them and, without asking anything, handed them two glasses of hot tea."},
+    {"fa": "او تعریف کرد که در قدیم کاروان‌ها در چنین شب‌هایی پشت همین دیوارها پناه می‌گرفتند و تا صبح قصه می‌گفتند.", "r": "u ta'rif kard ke dar ghadim kārvān-hā dar chonin shab-hā-i posht-e hamin divār-hā panāh mi-gereftand o tā sobh ghesse mi-goftand.", "en": "He told them that in the old days, on nights like this, caravans took shelter behind these very walls and told stories until morning."},
+    {"fa": "صبح، طوفان تمام شده بود و کویر آرام و پاک زیر آفتاب می‌درخشید، انگار باد همه‌ی ردپاها را شسته بود.", "r": "sobh, tufān tamām shode bud o kavir ārām o pāk zir-e āftāb mi-derakhshid, engār bād hame-ye rad-pā-hā rā shoste bud.", "en": "By morning the storm was over, and the desert shone calm and clean in the sun, as if the wind had washed away every footprint."},
+    {"fa": "مهسا گفت: «دفعه‌ی بعد هم می‌آییم، اما این بار چادر محکم‌تری می‌آوریم!»", "r": "Mahsā goft: «daf'e-ye ba'd ham mi-āyim, ammā in bār chādor-e mohkam-tar-i mi-āvarim!»", "en": "Mahsa said: \"We'll come again next time, but this time we'll bring a sturdier tent!\""}
+   ]
+  }
+ ],
+ "vocab": [
+  {"fa": "کویر", "r": "kavir", "en": "desert (especially a salt desert)"},
+  {"fa": "دریاچه‌ی نمک", "r": "daryāche-ye namak", "en": "salt lake"},
+  {"fa": "کاروانسرا", "r": "kārvānsarā", "en": "caravanserai, roadside inn"},
+  {"fa": "تپه‌ی شنی", "r": "tappe-ye sheni", "en": "sand dune"},
+  {"fa": "چادر زدن", "r": "chādor zadan", "en": "to pitch a tent"},
+  {"fa": "غروب خورشید", "r": "ghorub-e khorshid", "en": "sunset"},
+  {"fa": "ستاره", "r": "setāre", "en": "star"},
+  {"fa": "کهکشان راه شیری", "r": "kahkeshān-e rāh-e shiri", "en": "the Milky Way"},
+  {"fa": "وزیدن", "r": "vazidan", "en": "to blow (of wind)"},
+  {"fa": "طوفان شن", "r": "tufān-e shen", "en": "sandstorm"},
+  {"fa": "بادبادک", "r": "bādbādak", "en": "kite"},
+  {"fa": "زوزه", "r": "zuze", "en": "howl"},
+  {"fa": "پناه گرفتن", "r": "panāh gereftan", "en": "to take shelter"},
+  {"fa": "درخشیدن", "r": "derakhshidan", "en": "to shine"},
+  {"fa": "ردپا", "r": "rad-pā", "en": "footprint"},
+  {"fa": "بی‌خبر", "r": "bi-khabar", "en": "without warning"}
+ ],
+ "questions": [
+  {"q": "Why did they go at the end of autumn?", "options": ["the desert was no longer hot", "it was a public holiday", "the caravanserai was closed in summer"], "answer": 0},
+  {"q": "When was the Maranjab caravanserai built?", "options": ["about a hundred years ago", "about four hundred years ago, under Shah Abbas", "in the time of Cyrus"], "answer": 1},
+  {"q": "What did the keeper warn them about?", "options": ["snakes in the dunes", "the desert can turn angry without warning", "thieves on the road"], "answer": 1},
+  {"q": "Why did they go back to the caravanserai at midnight?", "options": ["they were cold", "a sandstorm threatened to carry off the tent", "the keeper called them"], "answer": 1},
+  {"q": "What did caravans do on stormy nights in the old days, according to the keeper?", "options": ["travelled on regardless", "took shelter behind the walls and told stories", "turned back to Kashan"], "answer": 1}
+ ],
+ "after": "Persian has two words for desert: کویر, the salt desert of central Iran (the Dasht-e Kavir lies beyond Maranjab), and بیابان, any wild, empty land. Caravanserais (کاروانسرا, 'caravan palace') were built a day's journey apart along the trade roads; Shah Abbas I is said to have built hundreds of them in the early seventeenth century, and many, like Maranjab, now take in travellers again. Grammar to notice: the past perfect passive ساخته شده بود 'had been built' and کشیده شده بود 'had been stretched', and Mahsa's real conditional – اگر این‌جا بمانیم، چادر را باد می‌برد – where Persian uses the subjunctive after اگر and the present for the result."
+}

@@ -121,7 +121,7 @@ Careful with کی (*ki*): the same spelling is *ki* 'who' and *key* 'when' (less
 | --- | --- | --- |
 | چه‌کار (*che-kār*) – what (work) | چه‌کار می‌کنید؟ (*che-kār mi-konid?*) | What do you do? |
 | کجا (*kojā*) – where | کجا کار می‌کنید؟ (*kojā kār mi-konid?*) | Where do you work? |
-| کی (*ki*) – who | کی اینجا کار می‌کند؟ (*ki injā kār mi-konad?*) | Who works here? |
+| کی (*ki*) – who | کی این‌جا کار می‌کند؟ (*ki in-jā kār mi-konad?*) | Who works here? |
 | چه (*che*) – what | چه می‌خوانید؟ (*che mi-khānid?*) | What are you studying? |
 | چه درسی (*che dars-i*) – which subject | چه درسی می‌دهید؟ (*che dars-i mi-dahid?*) | What do you teach? |
 
@@ -279,10 +279,10 @@ In daily life, many Iranians have more than one job. A teacher may also give pri
 
 **Put the words in order**
 
-1. شما / کار / می‌کنید؟ / کجا — Where do you work?
-2. یک / در / شرکت / من / می‌کنم. / کار — I work for a company.
-3. می‌خواند. / پزشکی / خواهرم / در / دانشگاه — My sister studies medicine at university.
-4. پدر / تاکسی / است. / رضا / راننده‌ی — Reza's father is a taxi driver.
+1. می‌کنید؟ / کجا / کار / شما — Where do you work?
+2. در / شرکت / من / یک / می‌کنم. / کار — I work for a company.
+3. خواهرم / پزشکی / در / می‌خواند. / دانشگاه — My sister studies medicine at university.
+4. است. / رضا / راننده‌ی / تاکسی / پدر — Reza's father is a taxi driver.
 
 <details><summary>Answers</summary>
 

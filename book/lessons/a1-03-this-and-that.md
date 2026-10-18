@@ -7,7 +7,7 @@ Point at anything and ask what it is. In this lesson you learn to name the thing
 **In this lesson you will learn to:**
 
 - ask and say what something is: in chist? in ketāb ast
-- use in / ān (this / that) and injā / ānjā
+- use in / ān (this / that) and in-jā / ān-jā
 - make plurals with -hā
 - say 'a …' with yek and -i
 - link two nouns with the ezafe: ketāb-e Sārā
@@ -49,7 +49,7 @@ _After class, Tom and Sara look at the things on the teacher's desk._
 
 این (*in*, ‘this’) is for things near you, آن (*ān*, ‘that’) for things further away – spoken *un*. Both work as a word on their own (این چیست؟ (*in chist?*, ‘what is this?’)) and in front of a noun (این کتاب (*in ketāb*, ‘this book’)). The plurals are این‌ها (*in-hā*, ‘these’) and آن‌ها (*ān-hā*, ‘those’) – the same *ān-hā* you learned for *they*.
 
-For places, use اینجا (*injā*, ‘here’) and آنجا (*ānjā*, ‘there’).
+For places, use این‌جا (*in-jā*, ‘here’) and آن‌جا (*ān-jā*, ‘there’).
 
 The useful question یعنی چه؟ (*ya'ni che?*, ‘what does it mean?’) and the word یعنی (*ya'ni*, ‘it means’) will carry you through many conversations: *«ketāb» ya'ni book*. To ask for the English word, say به انگلیسی چه می‌شود؟ (*be engelisi che mi-shavad?*, ‘what does it become in English?’).
 
@@ -59,8 +59,8 @@ The useful question یعنی چه؟ (*ya'ni che?*, ‘what does it mean?’) and
 | --- | --- | --- | --- |
 | این | *in* | this | pron |
 | آن | *ān* | that | pron spoken: un |
-| اینجا | *injā* | here | adv |
-| آنجا | *ānjā* | there | adv spoken: unjā |
+| این‌جا | *in-jā* | here | adv |
+| آن‌جا | *ān-jā* | there | adv spoken: un-jā |
 | چه | *che* | what | pron spoken: chi |
 | یعنی | *ya'ni* | it means; that is | phrase |
 | کتاب | *ketāb* | book | n — e.g. این کتاب من است. (*in ketāb-e man ast.*, This is my book.) |
@@ -95,8 +95,8 @@ Two things make Persian plurals easy. After a number you **do not** use the plur
   *in-hā ketāb-hā-ye man hastand.* — These are my books.
 - کلاس ما دو پنجره دارد.  
   *kelās-e mā do panjare dārad.* — Our classroom has two windows.
-- دانشجوها اینجا هستند.  
-  *dāneshju-hā injā hastand.* — The students are here.
+- دانشجوها این‌جا هستند.  
+  *dāneshju-hā in-jā hastand.* — The students are here.
 
 ### 'A book' and 'the book'
 
@@ -153,8 +153,8 @@ _Sara describes the classroom._
   *ru-ye miz yek ketāb, yek daftar o yek telefon ast.* — On the desk there is a book, a notebook and a telephone.
 - آن‌ها صندلی‌های دانشجوها هستند.  
   *ān-hā sandali-hā-ye dāneshju-hā hastand.* — Those are the students' chairs.
-- کیف من اینجا نیست. کیف من کجاست؟  
-  *kif-e man injā nist. kif-e man kojā-st?* — My bag is not here. Where is my bag?
+- کیف من این‌جا نیست. کیف من کجاست؟  
+  *kif-e man in-jā nist. kif-e man kojā-st?* — My bag is not here. Where is my bag?
 
 **Choose the right answer**
 
@@ -183,7 +183,7 @@ The English word *bazaar* is itself Persian (بازار (*bāzār*)), one of a l
 
 - **در** is two words in one spelling: *dar* 'in' and *dar* 'door'. Context always tells you which: *dar kelās* (in the class) vs *dar-e kelās* (the class door).
 - Learn each noun with its ezafe habit: after a final **-e** (خانه) or **-ā/-u/-i** the link sounds *-ye* and is written ی.
-- Spoken Persian turns **ān** into **un** everywhere: *un, unjā, un-hā*. Written Persian keeps **ān**.
+- Spoken Persian turns **ān** into **un** everywhere: *un, un-jā, un-hā*. Written Persian keeps **ān**.
 - Don't translate *the*. Say the bare noun and let context do the work.
 
 ### Match the objects
@@ -254,10 +254,10 @@ The English word *bazaar* is itself Persian (بازار (*bāzār*)), one of a l
 
 **Put the words in order**
 
-1. فارسی / این / است. / کتاب — This is a Persian book.
-2. گوشی / امیر / است. / آن — That is Amir's phone.
-3. کیف / کجاست؟ / من — Where is my bag?
-4. این‌ها / صندلی‌های / کلاس / هستند. — These are the classroom chairs.
+1. است. / فارسی / این / کتاب — This is a Persian book.
+2. است. / آن / گوشی / امیر — That is Amir's phone.
+3. کجاست؟ / من / کیف — Where is my bag?
+4. صندلی‌های / کلاس / این‌ها / هستند. — These are the classroom chairs.
 
 <details><summary>Answers</summary>
 
@@ -280,7 +280,7 @@ The English word *bazaar* is itself Persian (بازار (*bāzār*)), one of a l
 
 1. این کلید من است. — This is my key.
 2. آن‌ها مداد هستند. — Those are pencils.
-3. پنجره آنجاست. — The window is there.
+3. پنجره آن‌جاست. — The window is there.
 
 </details>
 

@@ -14,12 +14,16 @@
     {
      "fa": "تابستان ۱۳۵۷ پانزده ساله بودم و در خانه‌ای در یوسف‌آباد تهران با پدر و مادرم، برادرم سیامک و مادربزرگ زندگی می‌کردیم.",
      "r": "tābestān-e hezār-o-sisad-o-panjāh-o-haft pānzdah sāle budam va dar khāne-i dar Yusef-ābād-e Tehrān bā pedar o mādar-am, barādar-am Siyāmak va mādar-bozorg zendegi mi-kardim.",
-     "en": "In the summer of 1978 I was fifteen, and we lived in a house in Yusefabad, in Tehran: my father and mother, my brother Siamak, my grandmother and I."
+     "en": "In the summer of 1978 I was fifteen, and we lived in a house in Yusefabad, in Tehran: my father and mother, my brother Siamak, my grandmother and I.",
+     "faV": "تابِستانِ ۱۳۵۷ پانزدَه ساله بودَم و دَر خانه‌ای دَر یوسِف‌آبادِ تِهران با پِدَر و مادَرَم، بَرادَرَم سیامَک و مادَربُزُرگ زِندِگی می‌کَردیم.",
+     "a": "2b3eef9d4d62"
     },
     {
      "fa": "سال‌ها بعد فهمیدم که آن سال، خانه‌ی ما کشور کوچکی بود که هر یک از ساکنانش آن را به گونه‌ای دیگر می‌دید.",
      "r": "sāl-hā ba'd fahmidam ke ān sāl, khāne-ye mā keshvar-e kuchak-i bud ke har yek az sākenān-ash ān rā be gune-i digar mi-did.",
-     "en": "Only years later did I understand that, that year, our house was a small country, and each of its inhabitants saw it differently."
+     "en": "Only years later did I understand that, that year, our house was a small country, and each of its inhabitants saw it differently.",
+     "faV": "سال‌ها بَعد فَهمیدَم که آن سال، خانه‌یِ ما کِشوَرِ کوچَکی بود که هَر یِک اَز ساکِنانَش آن را به گونه‌ای دیگَر می‌دید.",
+     "a": "23b361e5bc1e"
     }
    ]
   },
@@ -28,22 +32,30 @@
     {
      "fa": "پدرم مهندس راه‌سازی بود و به جاده‌ها و سدهایی که ساخته بود افتخار می‌کرد؛ از فساد و سانسور دل خوشی نداشت، اما از هرج و مرج بیش از هر چیز می‌ترسید.",
      "r": "pedar-am mohandes-e rāh-sāzi bud va be jādde-hā o sad-hā-yi ke sākhte bud eftekhār mi-kard; az fesād o sānsur del-e khosh-i na-dāsht, ammā az harj o marj bish az har chiz mi-tarsid.",
-     "en": "My father was a road engineer and was proud of the roads and dams he had built; he had no love for the corruption and the censorship, but more than anything he feared chaos."
+     "en": "My father was a road engineer and was proud of the roads and dams he had built; he had no love for the corruption and the censorship, but more than anything he feared chaos.",
+     "faV": "پِدَرَم مُهَندِسِ راه‌سازی بود و به جادّه‌ها و سَدهایی که ساخته بود اِفتِخار می‌کَرد؛ اَز فِساد و سانسور دِلِ خوشی نَداشت، اَمّا اَز هَرج و مَرج بیش اَز هَر چیز می‌تَرسید.",
+     "a": "ef5c7a953177"
     },
     {
      "fa": "سیامک، که دانشجوی سال دوم دانشگاه تهران بود، از آزادی و عدالت و از فاصله‌ی میان شمال و جنوب شهر حرف می‌زد و شب‌ها کتاب‌های جلدسفیدی می‌خواند که از پیاده‌روهای جلوی دانشگاه خریده بود.",
      "r": "Siyāmak, ke dāneshju-ye sāl-e dovvom-e dāneshgāh-e Tehrān bud, az āzādi o edālat o az fāsele-ye miyān-e shomāl o jonub-e shahr harf mi-zad va shab-hā ketāb-hā-ye jeld-sefid-i mi-khānd ke az piyāde-ro-hā-ye jelo-ye dāneshgāh kharide bud.",
-     "en": "Siamak, a second-year student at the University of Tehran, talked about freedom and justice and about the gap between the north and the south of the city, and at night he read 'white-cover' books that he had bought on the pavements outside the university."
+     "en": "Siamak, a second-year student at the University of Tehran, talked about freedom and justice and about the gap between the north and the south of the city, and at night he read 'white-cover' books that he had bought on the pavements outside the university.",
+     "faV": "سیامَک، که دانِشجویِ سالِ دُوُّمِ دانِشگاهِ تِهران بود، اَز آزادی و عِدالَت و اَز فاصِله‌یِ میانِ شُمال و جُنوبِ شَهر حَرف می‌زَد و شَب‌ها کِتاب‌هایِ جِلدسِفیدی می‌خواند که اَز پیاده‌روهایِ جِلویِ دانِشگاه خَریده بود.",
+     "a": "26dfb29c8ab9"
     },
     {
      "fa": "مادرم دبیر ادبیات در یک دبیرستان دخترانه بود؛ می‌گفت گرفتاری این است که در این کشور هیچ‌کس نمی‌تواند آزادانه حرف بزند، حتی سر همین سفره.",
      "r": "mādar-am dabir-e adabiyāt dar yek dabirestān-e dokhtarāne bud; mi-goft gereftāri in ast ke dar in keshvar hich-kas nemi-tavānad āzādāne harf be-zanad, hattā sar-e hamin sofre.",
-     "en": "My mother taught literature at a girls' secondary school; she used to say the trouble was that in this country nobody could speak freely, not even at this very table."
+     "en": "My mother taught literature at a girls' secondary school; she used to say the trouble was that in this country nobody could speak freely, not even at this very table.",
+     "faV": "مادَرَم دَبیرِ اَدَبیات دَر یِک دَبیرِستانِ دُختَرانه بود؛ می‌گُفت گِرِفتاری این اَست که دَر این کِشوَر هیچ‌کَس نِمی‌تَوانَد آزادانه حَرف بِزَنَد، حَتّی سَرِ هَمین سُفره.",
+     "a": "cd2fc7ddf02b"
     },
     {
      "fa": "و مادربزرگ، که شهریور بیست و مرداد سی‌ودو را به چشم دیده بود، تسبیح می‌انداخت و می‌گفت: «شاه‌ها می‌آیند و می‌روند، مردم می‌مانند.»",
      "r": "va mādar-bozorg, ke Shahrivar-e bist o Mordād-e si-o-do rā be cheshm dide bud, tasbih mi-andākht va mi-goft: «shāh-hā mi-āyand o mi-ravand, mardom mi-mānand.»",
-     "en": "And Grandmother, who had seen with her own eyes Shahrivar 1320 and Mordad 1332 – the invasion of 1941 and the coup of 1953 – would tell her prayer beads and say: \"Kings come and go; the people stay.\""
+     "en": "And Grandmother, who had seen with her own eyes Shahrivar 1320 and Mordad 1332 – the invasion of 1941 and the coup of 1953 – would tell her prayer beads and say: \"Kings come and go; the people stay.\"",
+     "faV": "و مادَربُزُرگ، که شَهریوَرِ بیست و مُردادِ سی‌ودو را به چِشم دیده بود، تَسبیح می‌اَنداخت و می‌گُفت: «شاه‌ها می‌آیَند و می‌رَوَند، مَردُم می‌مانَند.»",
+     "a": "38140b105e6e"
     }
    ]
   },
@@ -52,17 +64,23 @@
     {
      "fa": "صبح جمعه، ۱۷ شهریور، رادیو اعلام کرد که در تهران حکومت نظامی برقرار شده است، و ظهر خبر رسید که در میدان ژاله سربازان به روی جمعیت آتش گشوده‌اند.",
      "r": "sobh-e jom'e, hefdah-e Shahrivar, rādiyo e'lām kard ke dar Tehrān hokumat-e nezāmi bargharār shode ast, va zohr khabar resid ke dar meydān-e Zhāle sarbāzān be ru-ye jam'iyyat ātash goshude-and.",
-     "en": "On the morning of Friday 17 Shahrivar – 8 September – the radio announced that martial law had been declared in Tehran, and at noon the news came that soldiers had opened fire on the crowd in Jaleh Square."
+     "en": "On the morning of Friday 17 Shahrivar – 8 September – the radio announced that martial law had been declared in Tehran, and at noon the news came that soldiers had opened fire on the crowd in Jaleh Square.",
+     "faV": "صُبحِ جُمعه، ۱۷ شَهریوَر، رادیو اِعلام کَرد که دَر تِهران حُکومَتِ نِظامی بَرقَرار شُده اَست، و ظُهر خَبَر رِسید که دَر مَیدانِ ژاله سَربازان به رویِ جَمعیَّت آتَش گُشوده‌اَند.",
+     "a": "a4e48b20d492"
     },
     {
      "fa": "سیامک آن شب دیر به خانه آمد، رنگ‌پریده و خاموش، و تا صبح در اتاقش را باز نکرد.",
      "r": "Siyāmak ān shab dir be khāne āmad, rang-paride o khāmush, va tā sobh dar-e otāgh-ash rā bāz na-kard.",
-     "en": "Siamak came home late that night, pale and silent, and did not open the door of his room until morning."
+     "en": "Siamak came home late that night, pale and silent, and did not open the door of his room until morning.",
+     "faV": "سیامَک آن شَب دیر به خانه آمَد، رَنگ‌پَریده و خاموش، و تا صُبح دَرِ اُتاقَش را باز نَکَرد.",
+     "a": "28a6ad649768"
     },
     {
      "fa": "پدرم، که همیشه می‌گفت سیاست کار ما نیست، تا نیمه‌شب جلوی تلویزیون خاموش نشست، گویی منتظر بود کسی از درون آن چیزی را برایش توضیح دهد.",
      "r": "pedar-am, ke hamishe mi-goft siyāsat kār-e mā nist, tā nime-shab jelo-ye televiziyon-e khāmush neshast, guyi montazer bud kas-i az darun-e ān chiz-i rā barā-yash towzih dahad.",
-     "en": "My father, who had always said that politics was none of our business, sat in front of the switched-off television until midnight, as if waiting for someone inside it to explain something to him."
+     "en": "My father, who had always said that politics was none of our business, sat in front of the switched-off television until midnight, as if waiting for someone inside it to explain something to him.",
+     "faV": "پِدَرَم، که هَمیشه می‌گُفت سیاسَت کارِ ما نیست، تا نیمه‌شَب جِلویِ تِلِویزیونِ خاموش نِشَست، گویی مُنتَظِر بود کَسی اَز دَرونِ آن چیزی را بَرایَش تَوضیح دَهَد.",
+     "a": "a9bd967ef773"
     }
    ]
   },
@@ -71,17 +89,23 @@
     {
      "fa": "در پاییز، اعتصاب‌ها از پالایشگاه‌ها و بانک‌ها به مدرسه‌ها هم رسید؛ مادرم نیز به دبیران اعتصابی پیوست، و کلاس‌های ما روزی برگزار می‌شد و روزی نه، تا آن‌که در زمستان مدرسه‌ها یکسره بسته شدند.",
      "r": "dar pāyiz, e'tesāb-hā az pālāyeshgāh-hā o bānk-hā be madrese-hā ham resid; mādar-am niz be dabirān-e e'tesābi peyvast, va kelās-hā-ye mā ruz-i bargozār mi-shod va ruz-i na, tā ān-ke dar zemestān madrese-hā yeksare baste shodand.",
-     "en": "In the autumn the strikes spread from the refineries and the banks to the schools as well; my mother joined the striking teachers, and our classes were held one day and not the next, until in the winter the schools closed altogether."
+     "en": "In the autumn the strikes spread from the refineries and the banks to the schools as well; my mother joined the striking teachers, and our classes were held one day and not the next, until in the winter the schools closed altogether.",
+     "faV": "دَر پاییز، اِعتِصاب‌ها اَز پالایِشگاه‌ها و بانک‌ها به مَدرِسه‌ها هَم رِسید؛ مادَرَم نیز به دَبیرانِ اِعتِصابی پَیوَست، و کِلاس‌هایِ ما روزی بَرگُزار می‌شُد و روزی نه، تا آن‌که دَر زِمِستان مَدرِسه‌ها یِکسَره بَسته شُدَند.",
+     "a": "5107c53cb572"
     },
     {
      "fa": "با اعتصاب کارکنان نفت، صف‌های بلند نفت سفید در سرمای دی‌ماه کشیده شد، و چون برق هر شب ساعتی می‌رفت، من درس‌هایم را زیر نور فانوس می‌خواندم.",
      "r": "bā e'tesāb-e kārkonān-e naft, saf-hā-ye boland-e naft-e sefid dar sarmā-ye Dey-māh keshide shod, va chon bargh har shab sā'at-i mi-raft, man dars-hā-yam rā zir-e nur-e fānus mi-khāndam.",
-     "en": "With the oil workers on strike, long queues for kerosene stretched out in the cold of Dey, and since the power went off for an hour every night, I studied by the light of an oil lantern."
+     "en": "With the oil workers on strike, long queues for kerosene stretched out in the cold of Dey, and since the power went off for an hour every night, I studied by the light of an oil lantern.",
+     "faV": "با اِعتِصابِ کارکُنانِ نَفت، صَف‌هایِ بُلَندِ نَفتِ سِفید دَر سَرمایِ دَی‌ماه کِشیده شُد، و چون بَرق هَر شَب ساعَتی می‌رَفت، مَن دَرس‌هایَم را زیرِ نورِ فانوس می‌خواندَم.",
+     "a": "ef198963b6d9"
     },
     {
      "fa": "شب‌ها از پشت‌بام‌های همسایه‌ها صدای شعار می‌آمد، و من زیر پتو گوش می‌دادم و نمی‌دانستم باید بترسم یا به هیجان بیایم.",
      "r": "shab-hā az posht-bām-hā-ye hamsāye-hā sedā-ye sho'ār mi-āmad, va man zir-e patu gush mi-dādam va nemi-dānestam bāyad be-tarsam yā be hayajān biyāyam.",
-     "en": "At night the sound of chanting came from the neighbours' rooftops, and I lay listening under the blanket, not knowing whether I ought to be frightened or excited."
+     "en": "At night the sound of chanting came from the neighbours' rooftops, and I lay listening under the blanket, not knowing whether I ought to be frightened or excited.",
+     "faV": "شَب‌ها اَز پُشت‌بام‌هایِ هَمسایه‌ها صِدایِ شُعار می‌آمَد، و مَن زیرِ پَتو گوش می‌دادَم و نِمی‌دانِستَم بایَد بِتَرسَم یا به هَیَجان بیایَم.",
+     "a": "4c56d23e7e68"
     }
    ]
   },
@@ -90,17 +114,23 @@
     {
      "fa": "روز عاشورا، ۲۰ آذر، مادرم برخلاف خواست پدر مرا با خود به راهپیمایی برد.",
      "r": "ruz-e Āshurā, bist-e Āzar, mādar-am bar-khalāf-e khāst-e pedar ma-rā bā khod be rāh-peymāyi bord.",
-     "en": "On the day of Ashura, 20 Azar – 11 December – my mother took me with her to the march, against my father's wishes."
+     "en": "On the day of Ashura, 20 Azar – 11 December – my mother took me with her to the march, against my father's wishes.",
+     "faV": "روزِ عاشورا، ۲۰ آذَر، مادَرَم بَرخَلافِ خواستِ پِدَر مَرا با خود به راهپَیمایی بُرد.",
+     "a": "428a079b110a"
     },
     {
      "fa": "جمعیت تا چشم کار می‌کرد ادامه داشت: زنان چادری و دختران جین‌پوش، بازاریان و دانشجویان، کارگران و کارمندان، که آرام و بی‌پایان به سوی میدان شهیاد پیش می‌رفتند.",
      "r": "jam'iyyat tā cheshm kār mi-kard edāme dāsht: zanān-e chādori o dokhtarān-e jin-push, bāzāriyān o dāneshjuyān, kārgarān o kārmandān, ke ārām o bi-pāyān be su-ye meydān-e Shahyād pish mi-raftand.",
-     "en": "The crowd stretched as far as the eye could see: women in chadors and girls in jeans, bazaar merchants and students, workers and office clerks, moving calmly and endlessly towards Shahyad Square."
+     "en": "The crowd stretched as far as the eye could see: women in chadors and girls in jeans, bazaar merchants and students, workers and office clerks, moving calmly and endlessly towards Shahyad Square.",
+     "faV": "جَمعیَّت تا چِشم کار می‌کَرد اِدامه داشت: زَنانِ چادُری و دُختَرانِ جین‌پوش، بازاریان و دانِشجویان، کارگَران و کارمَندان، که آرام و بی‌پایان به سویِ مَیدانِ شَهیاد پیش می‌رَفتَند.",
+     "a": "b6704b4c4c06"
     },
     {
      "fa": "من در میان آن دریای آدم، دست مادرم را چنان محکم گرفته بودم که تا شب جای انگشتانم بر دستش مانده بود.",
      "r": "man dar miyān-e ān daryā-ye ādam, dast-e mādar-am rā chenān mohkam gerefte budam ke tā shab jā-ye angoshtān-am bar dast-ash mānde bud.",
-     "en": "In that sea of people I had held my mother's hand so tightly that the marks of my fingers stayed on it until evening."
+     "en": "In that sea of people I had held my mother's hand so tightly that the marks of my fingers stayed on it until evening.",
+     "faV": "مَن دَر میانِ آن دَریایِ آدَم، دَستِ مادَرَم را چِنان مُحکَم گِرِفته بودَم که تا شَب جایِ اَنگُشتانَم بَر دَستَش مانده بود.",
+     "a": "0706bd429d70"
     }
    ]
   },
@@ -109,22 +139,30 @@
     {
      "fa": "۲۶ دی، بعدازظهری سرد و خاکستری، رادیو خبر داد که شاه کشور را ترک کرده است.",
      "r": "bist-o-shesh-e Dey, ba'd-az-zohr-i sard o khākestari, rādiyo khabar dād ke shāh keshvar rā tark karde ast.",
-     "en": "On 26 Dey – 16 January 1979 – a cold, grey afternoon, the radio announced that the Shah had left the country."
+     "en": "On 26 Dey – 16 January 1979 – a cold, grey afternoon, the radio announced that the Shah had left the country.",
+     "faV": "۲۶ دَی، بَعداَزظُهری سَرد و خاکِستَری، رادیو خَبَر داد که شاه کِشوَر را تَرک کَرده اَست.",
+     "a": "23260d90a3ba"
     },
     {
      "fa": "خیابان‌ها پر از بوق ماشین‌ها شد، مردم شیرینی پخش می‌کردند و روزنامه‌ی عصر با دو کلمه‌ی درشت منتشر شد: «شاه رفت».",
      "r": "khiyābān-hā por az bugh-e māshin-hā shod, mardom shirini pakhsh mi-kardand va ruznāme-ye asr bā do kalame-ye dorosht montasher shod: «shāh raft».",
-     "en": "The streets filled with the sound of car horns, people handed out sweets, and the evening paper came out with two huge words: \"The Shah has gone\"."
+     "en": "The streets filled with the sound of car horns, people handed out sweets, and the evening paper came out with two huge words: \"The Shah has gone\".",
+     "faV": "خیابان‌ها پُر اَز بوقِ ماشین‌ها شُد، مَردُم شیرینی پَخش می‌کَردَند و روزنامه‌یِ عَصر با دو کَلَمه‌یِ دُرُشت مُنتَشِر شُد: «شاه رَفت».",
+     "a": "3333b9cfadbd"
     },
     {
      "fa": "سیامک از شادی فریاد می‌کشید و مادرم گریه می‌کرد، و هرگز نفهمیدم که از شادی بود یا از ترس.",
      "r": "Siyāmak az shādi faryād mi-keshid va mādar-am gerye mi-kard, va hargez na-fahmidam ke az shādi bud yā az tars.",
-     "en": "Siamak was shouting for joy and my mother was crying, and I never found out whether it was from joy or from fear."
+     "en": "Siamak was shouting for joy and my mother was crying, and I never found out whether it was from joy or from fear.",
+     "faV": "سیامَک اَز شادی فَریاد می‌کِشید و مادَرَم گِریه می‌کَرد، و هَرگِز نَفَهمیدَم که اَز شادی بود یا اَز تَرس.",
+     "a": "a6dce94cadec"
     },
     {
      "fa": "پدرم آهسته گفت که در مرداد سی‌ودو هم شاه رفته بود و پس از چند روز بازگشته بود، و مادربزرگ، بی‌آن‌که سر از تسبیحش بردارد، گفت: «پدرش را هم دیدم که رفت و دیگر برنگشت.»",
      "r": "pedar-am āheste goft ke dar Mordād-e si-o-do ham shāh rafte bud va pas az chand ruz bāzgashte bud, va mādar-bozorg, bi-ān-ke sar az tasbih-ash bar-dārad, goft: «pedar-ash rā ham didam ke raft o digar bar-na-gasht.»",
-     "en": "My father said quietly that in Mordad 1332 – August 1953 – the Shah had left too, and had come back after a few days; and Grandmother, without looking up from her beads, said: \"I saw his father leave as well, and he never came back.\""
+     "en": "My father said quietly that in Mordad 1332 – August 1953 – the Shah had left too, and had come back after a few days; and Grandmother, without looking up from her beads, said: \"I saw his father leave as well, and he never came back.\"",
+     "faV": "پِدَرَم آهِسته گُفت که دَر مُردادِ سی‌ودو هَم شاه رَفته بود و پَس اَز چَند روز بازگَشته بود، و مادَربُزُرگ، بی‌آن‌که سَر اَز تَسبیحَش بَردارَد، گُفت: «پِدَرَش را هَم دیدَم که رَفت و دیگَر بَرنَگَشت.»",
+     "a": "5399136a4c68"
     }
    ]
   },
@@ -133,17 +171,23 @@
     {
      "fa": "شانزده روز بعد، در ۱۲ بهمن، آیت‌الله خمینی از پاریس بازگشت و میلیون‌ها نفر به استقبالش رفتند.",
      "r": "shānzdah ruz ba'd, dar davāzdah-e Bahman, āyat-ollāh Khomeyni az Pāris bāzgasht va milyun-hā nafar be esteghbāl-ash raftand.",
-     "en": "Sixteen days later, on 12 Bahman – 1 February – Ayatollah Khomeini returned from Paris, and millions of people went out to welcome him."
+     "en": "Sixteen days later, on 12 Bahman – 1 February – Ayatollah Khomeini returned from Paris, and millions of people went out to welcome him.",
+     "faV": "شانزدَه روز بَعد، دَر ۱۲ بَهمَن، آیَت‌اُلله خُمَینی اَز پاریس بازگَشت و میلیون‌ها نَفَر به اِستِقبالَش رَفتَند.",
+     "a": "7cc49e417c2e"
     },
     {
      "fa": "ده روز پس از آن، پس از دو شب که صدای تیراندازی خواب را از شهر گرفته بود، ارتش اعلام بی‌طرفی کرد و حکومت پیشین فرو ریخت؛ آن روز، ۲۲ بهمن، را بعدها روز پیروزی انقلاب نامیدند.",
      "r": "dah ruz pas az ān, pas az do shab ke sedā-ye tirandāzi khāb rā az shahr gerefte bud, artesh e'lām-e bi-tarafi kard va hokumat-e pishin foru rikht; ān ruz, bist-o-do-ye Bahman, rā ba'd-hā ruz-e piruzi-ye enghelāb nāmidand.",
-     "en": "Ten days after that, following two nights in which gunfire had robbed the city of sleep, the army declared itself neutral and the old government collapsed; that day, 22 Bahman – 11 February – was later named the day of the revolution's victory."
+     "en": "Ten days after that, following two nights in which gunfire had robbed the city of sleep, the army declared itself neutral and the old government collapsed; that day, 22 Bahman – 11 February – was later named the day of the revolution's victory.",
+     "faV": "دَه روز پَس اَز آن، پَس اَز دو شَب که صِدایِ تیراَندازی خواب را اَز شَهر گِرِفته بود، اَرتِش اِعلامِ بی‌طَرَفی کَرد و حُکومَتِ پیشین فُرو ریخت؛ آن روز، ۲۲ بَهمَن، را بَعدها روزِ پیروزیِ اِنقِلاب نامیدَند.",
+     "a": "cf5892eea245"
     },
     {
      "fa": "سیامک سحرگاه با لباس‌هایی که بوی دود می‌داد به خانه برگشت، و پدرم، بی‌آن‌که چیزی بپرسد، او را در آغوش گرفت.",
      "r": "Siyāmak sahargāh bā lebās-hā-yi ke bu-ye dud mi-dād be khāne bar-gasht, va pedar-am, bi-ān-ke chiz-i be-porsad, u rā dar āghush gereft.",
-     "en": "Siamak came home at dawn in clothes that smelled of smoke, and my father, without asking a single question, took him in his arms."
+     "en": "Siamak came home at dawn in clothes that smelled of smoke, and my father, without asking a single question, took him in his arms.",
+     "faV": "سیامَک سَحَرگاه با لِباس‌هایی که بویِ دود می‌داد به خانه بَرگَشت، و پِدَرَم، بی‌آن‌که چیزی بِپُرسَد، او را دَر آغوش گِرِفت.",
+     "a": "63c432a31137"
     }
    ]
   },
@@ -152,22 +196,30 @@
     {
      "fa": "در فروردین ۱۳۵۸، پس از همه‌پرسی، جمهوری اسلامی اعلام شد؛ مدرسه‌ها از چندی پیش دوباره باز شده بودند، اما چیزی که به آن بازگشته بودیم دیگر همان مدرسه‌ی پیشین نبود.",
      "r": "dar Farvardin-e hezār-o-sisad-o-panjāh-o-hasht, pas az hame-porsi, jomhuri-ye eslāmi e'lām shod; madrese-hā az chandi pish dobāre bāz shode budand, ammā chiz-i ke be ān bāzgashte budim digar hamān madrese-ye pishin na-bud.",
-     "en": "In Farvardin 1358 – April 1979 – after a referendum, the Islamic Republic was proclaimed; the schools had reopened some time before, but what we had gone back to was no longer the school we had known."
+     "en": "In Farvardin 1358 – April 1979 – after a referendum, the Islamic Republic was proclaimed; the schools had reopened some time before, but what we had gone back to was no longer the school we had known.",
+     "faV": "دَر فَروَردینِ ۱۳۵۸، پَس اَز هَمه‌پُرسی، جُمهوریِ اِسلامی اِعلام شُد؛ مَدرِسه‌ها اَز چَندی پیش دوباره باز شُده بودَند، اَمّا چیزی که به آن بازگَشته بودیم دیگَر هَمان مَدرِسه‌یِ پیشین نَبود.",
+     "a": "32cf0fc546b5"
     },
     {
      "fa": "نام خیابان‌ها عوض شد، خیابان شاهرضا که سیامک کتاب‌هایش را از پیاده‌روهایش خریده بود، خیابان انقلاب شد، و چند خانواده از همسایه‌های ما بی‌خداحافظی به خارج رفتند.",
      "r": "nām-e khiyābān-hā avaz shod, khiyābān-e Shāh-rezā ke Siyāmak ketāb-hā-yash rā az piyāde-ro-hā-yash kharide bud, khiyābān-e Enghelāb shod, va chand khānevāde az hamsāye-hā-ye mā bi-khodā-hāfezi be khārej raftand.",
-     "en": "Street names changed – Shah Reza Avenue, on whose pavements Siamak had bought his books, became Enqelab Avenue – and several of our neighbours' families left for abroad without saying goodbye."
+     "en": "Street names changed – Shah Reza Avenue, on whose pavements Siamak had bought his books, became Enqelab Avenue – and several of our neighbours' families left for abroad without saying goodbye.",
+     "faV": "نامِ خیابان‌ها عَوَض شُد، خیابانِ شاهرِضا که سیامَک کِتاب‌هایَش را اَز پیاده‌روهایَش خَریده بود، خیابانِ اِنقِلاب شُد، و چَند خانِواده اَز هَمسایه‌هایِ ما بی‌خُداحافِظی به خارِج رَفتَند.",
+     "a": "1be91b972689"
     },
     {
      "fa": "شرکت پدرم قراردادهایش را از دست داد، دوستان سیامک به گروه‌هایی تقسیم شدند که بیش از هر کس با یکدیگر بحث می‌کردند، و مادرم می‌گفت هنوز نمی‌داند آنچه به دست آمده است به کجا خواهد رسید.",
      "r": "sherkat-e pedar-am gharārdād-hā-yash rā az dast dād, dustān-e Siyāmak be goruh-hā-yi taghsim shodand ke bish az har kas bā yekdigar bahs mi-kardand, va mādar-am mi-goft hanuz nemi-dānad ān-che be dast āmade ast be kojā khāhad resid.",
-     "en": "My father's company lost its contracts, Siamak's friends split into groups that argued with one another more than with anyone else, and my mother said she still did not know where what had been won would lead."
+     "en": "My father's company lost its contracts, Siamak's friends split into groups that argued with one another more than with anyone else, and my mother said she still did not know where what had been won would lead.",
+     "faV": "شِرکَتِ پِدَرَم قَراردادهایَش را اَز دَست داد، دوستانِ سیامَک به گُروه‌هایی تَقسیم شُدَند که بیش اَز هَر کَس با یِکدیگَر بَحث می‌کَردَند، و مادَرَم می‌گُفت هَنوز نِمی‌دانَد آنچه به دَست آمَده اَست به کُجا خواهَد رِسید.",
+     "a": "dd31fa2c56c8"
     },
     {
      "fa": "تنها مادربزرگ بود که چیزی در زندگی‌اش تغییر نکرد: همچنان پیش از سپیده برمی‌خاست، نماز می‌خواند و برای همه‌ی ما دعا می‌کرد.",
      "r": "tanhā mādar-bozorg bud ke chiz-i dar zendegi-ash taghyir na-kard: hamchenān pish az sepide bar-mi-khāst, namāz mi-khānd va barā-ye hame-ye mā do'ā mi-kard.",
-     "en": "Only Grandmother's life did not change at all: she still rose before dawn, said her prayers and prayed for all of us."
+     "en": "Only Grandmother's life did not change at all: she still rose before dawn, said her prayers and prayed for all of us.",
+     "faV": "تَنها مادَربُزُرگ بود که چیزی دَر زِندِگی‌اَش تَغییر نَکَرد: هَمچِنان پیش اَز سِپیده بَرمی‌خاست، نَماز می‌خواند و بَرایِ هَمه‌یِ ما دُعا می‌کَرد.",
+     "a": "b0d83e086343"
     }
    ]
   },
@@ -176,71 +228,233 @@
     {
      "fa": "اکنون که دخترم از من می‌پرسد انقلاب چگونه بود، پاسخی یگانه ندارم؛ چهار پاسخ دارم، از آن پدرم و مادرم و سیامک و مادربزرگ، و پاسخ پنجمی که از آن دختری پانزده ساله است که از پشت‌بام به شهری می‌نگریست که داشت دگرگون می‌شد.",
      "r": "aknun ke dokhtar-am az man mi-porsad enghelāb chegune bud, pāsokh-i yegāne na-dāram; chahār pāsokh dāram, az ān-e pedar-am o mādar-am o Siyāmak o mādar-bozorg, va pāsokh-e panjom-i ke az ān-e dokhtar-i pānzdah sāle ast ke az posht-bām be shahr-i mi-negarist ke dāsht degargun mi-shod.",
-     "en": "Now, when my daughter asks me what the revolution was like, I have no single answer; I have four – my father's, my mother's, Siamak's and Grandmother's – and a fifth, which belongs to a fifteen-year-old girl watching from a rooftop as her city was being transformed."
+     "en": "Now, when my daughter asks me what the revolution was like, I have no single answer; I have four – my father's, my mother's, Siamak's and Grandmother's – and a fifth, which belongs to a fifteen-year-old girl watching from a rooftop as her city was being transformed.",
+     "faV": "اَکنون که دُختَرَم اَز مَن می‌پُرسَد اِنقِلاب چِگونه بود، پاسُخی یِگانه نَدارَم؛ چَهار پاسُخ دارَم، اَز آنِ پِدَرَم و مادَرَم و سیامَک و مادَربُزُرگ، و پاسُخِ پَنجُمی که اَز آنِ دُختَری پانزدَه ساله اَست که اَز پُشت‌بام به شَهری می‌نِگَریست که داشت دِگَرگون می‌شُد.",
+     "a": "1241171f9703"
     },
     {
      "fa": "شاید حقیقت آن سال در هیچ‌یک از این پاسخ‌ها به تنهایی نباشد، بلکه در فاصله‌ای باشد که میان آن‌ها افتاده است.",
      "r": "shāyad haghighat-e ān sāl dar hich-yek az in pāsokh-hā be tanhāyi na-bāshad, balke dar fāsele-i bāshad ke miyān-e ān-hā oftāde ast.",
-     "en": "Perhaps the truth of that year lies in none of these answers on its own, but in the distance between them."
+     "en": "Perhaps the truth of that year lies in none of these answers on its own, but in the distance between them.",
+     "faV": "شایَد حَقیقَتِ آن سال دَر هیچ‌یِک اَز این پاسُخ‌ها به تَنهایی نَباشَد، بَلکه دَر فاصِله‌ای باشَد که میانِ آن‌ها اُفتاده اَست.",
+     "a": "f975a9b0c00e"
     }
    ]
   }
  ],
  "vocab": [
-  {"fa": "هرج و مرج", "r": "harj o marj", "en": "chaos, disorder"},
-  {"fa": "فساد", "r": "fesād", "en": "corruption"},
-  {"fa": "سانسور", "r": "sānsur", "en": "censorship"},
-  {"fa": "عدالت", "r": "edālat", "en": "justice"},
-  {"fa": "آزادانه", "r": "āzādāne", "en": "freely"},
-  {"fa": "تسبیح", "r": "tasbih", "en": "prayer beads"},
-  {"fa": "حکومت نظامی", "r": "hokumat-e nezāmi", "en": "martial law"},
-  {"fa": "آتش گشودن", "r": "ātash goshudan", "en": "to open fire"},
-  {"fa": "جمعیت", "r": "jam'iyyat", "en": "crowd; population"},
-  {"fa": "اعتصاب", "r": "e'tesāb", "en": "strike"},
-  {"fa": "پالایشگاه", "r": "pālāyeshgāh", "en": "refinery"},
-  {"fa": "نفت سفید", "r": "naft-e sefid", "en": "kerosene, paraffin"},
-  {"fa": "فانوس", "r": "fānus", "en": "lantern"},
-  {"fa": "شعار", "r": "sho'ār", "en": "slogan, chant"},
-  {"fa": "هیجان", "r": "hayajān", "en": "excitement"},
-  {"fa": "راهپیمایی", "r": "rāh-peymāyi", "en": "march, demonstration"},
-  {"fa": "ترک کردن", "r": "tark kardan", "en": "to leave, to abandon"},
-  {"fa": "منتشر شدن", "r": "montasher shodan", "en": "to be published, to come out"},
-  {"fa": "بی‌طرفی", "r": "bi-tarafi", "en": "neutrality"},
-  {"fa": "همه‌پرسی", "r": "hame-porsi", "en": "referendum"},
-  {"fa": "دگرگون شدن", "r": "degargun shodan", "en": "to be transformed"},
-  {"fa": "یگانه", "r": "yegāne", "en": "single, unique"}
+  {
+   "fa": "هرج و مرج",
+   "r": "harj o marj",
+   "en": "chaos, disorder",
+   "faV": "هَرج و مَرج",
+   "a": "f1a06d301c4a"
+  },
+  {
+   "fa": "فساد",
+   "r": "fesād",
+   "en": "corruption",
+   "faV": "فِساد",
+   "a": "20667271c182"
+  },
+  {
+   "fa": "سانسور",
+   "r": "sānsur",
+   "en": "censorship",
+   "faV": "سانسور",
+   "a": "d2bf7c17a0a8"
+  },
+  {
+   "fa": "عدالت",
+   "r": "edālat",
+   "en": "justice",
+   "faV": "عِدالَت",
+   "a": "2c42f24fc8be"
+  },
+  {
+   "fa": "آزادانه",
+   "r": "āzādāne",
+   "en": "freely",
+   "faV": "آزادانه",
+   "a": "cd90750702e3"
+  },
+  {
+   "fa": "تسبیح",
+   "r": "tasbih",
+   "en": "prayer beads",
+   "faV": "تَسبیح",
+   "a": "c4f89ce2b54d"
+  },
+  {
+   "fa": "حکومت نظامی",
+   "r": "hokumat-e nezāmi",
+   "en": "martial law",
+   "faV": "حُکومَتِ نِظامی",
+   "a": "74137ab8e1b1"
+  },
+  {
+   "fa": "آتش گشودن",
+   "r": "ātash goshudan",
+   "en": "to open fire",
+   "faV": "آتَش گُشودَن",
+   "a": "9860945a0aae"
+  },
+  {
+   "fa": "جمعیت",
+   "r": "jam'iyyat",
+   "en": "crowd; population",
+   "faV": "جَمعیَّت",
+   "a": "5bcdd5912f22"
+  },
+  {
+   "fa": "اعتصاب",
+   "r": "e'tesāb",
+   "en": "strike",
+   "faV": "اِعتِصاب",
+   "a": "040c490eaf0f"
+  },
+  {
+   "fa": "پالایشگاه",
+   "r": "pālāyeshgāh",
+   "en": "refinery",
+   "faV": "پالایِشگاه",
+   "a": "c0644d484fc2"
+  },
+  {
+   "fa": "نفت سفید",
+   "r": "naft-e sefid",
+   "en": "kerosene, paraffin",
+   "faV": "نَفتِ سِفید",
+   "a": "13471f0a8e2d"
+  },
+  {
+   "fa": "فانوس",
+   "r": "fānus",
+   "en": "lantern",
+   "faV": "فانوس",
+   "a": "6e85654ef06c"
+  },
+  {
+   "fa": "شعار",
+   "r": "sho'ār",
+   "en": "slogan, chant",
+   "faV": "شُعار",
+   "a": "2694448ec1a8"
+  },
+  {
+   "fa": "هیجان",
+   "r": "hayajān",
+   "en": "excitement",
+   "faV": "هَیَجان",
+   "a": "926c8f52ab76"
+  },
+  {
+   "fa": "راهپیمایی",
+   "r": "rāh-peymāyi",
+   "en": "march, demonstration",
+   "faV": "راهپَیمایی",
+   "a": "3e35ef0624dc"
+  },
+  {
+   "fa": "ترک کردن",
+   "r": "tark kardan",
+   "en": "to leave, to abandon",
+   "faV": "تَرک کَردَن",
+   "a": "a26949d8d1d2"
+  },
+  {
+   "fa": "منتشر شدن",
+   "r": "montasher shodan",
+   "en": "to be published, to come out",
+   "faV": "مُنتَشِر شُدَن",
+   "a": "96f3a437f0f8"
+  },
+  {
+   "fa": "بی‌طرفی",
+   "r": "bi-tarafi",
+   "en": "neutrality",
+   "faV": "بی‌طَرَفی",
+   "a": "7a0899326748"
+  },
+  {
+   "fa": "همه‌پرسی",
+   "r": "hame-porsi",
+   "en": "referendum",
+   "faV": "هَمه‌پُرسی",
+   "a": "18c74bd0bb8e"
+  },
+  {
+   "fa": "دگرگون شدن",
+   "r": "degargun shodan",
+   "en": "to be transformed",
+   "faV": "دِگَرگون شُدَن",
+   "a": "4493a075f7f6"
+  },
+  {
+   "fa": "یگانه",
+   "r": "yegāne",
+   "en": "single, unique",
+   "faV": "یِگانه",
+   "a": "b9706e38b96a"
+  }
  ],
  "questions": [
   {
    "q": "What did the narrator's father fear more than anything?",
-   "options": ["censorship", "chaos", "losing his job"],
+   "options": [
+    "censorship",
+    "chaos",
+    "losing his job"
+   ],
    "answer": 1
   },
   {
    "q": "What happened on Friday 17 Shahrivar 1357 (8 September 1978)?",
-   "options": ["the Shah left the country", "martial law was declared and soldiers fired on the crowd in Jaleh Square", "the schools closed for the winter"],
+   "options": [
+    "the Shah left the country",
+    "martial law was declared and soldiers fired on the crowd in Jaleh Square",
+    "the schools closed for the winter"
+   ],
    "answer": 1
   },
   {
    "q": "Why did the narrator study by lantern light?",
-   "options": ["the family could not pay for electricity", "the power went off every night during the strikes", "her father wanted to save kerosene"],
+   "options": [
+    "the family could not pay for electricity",
+    "the power went off every night during the strikes",
+    "her father wanted to save kerosene"
+   ],
    "answer": 1
   },
   {
    "q": "How did the father react to the news that the Shah had left?",
-   "options": ["he celebrated in the street", "he recalled that the Shah had also left in 1953 and come back", "he decided to leave Iran"],
+   "options": [
+    "he celebrated in the street",
+    "he recalled that the Shah had also left in 1953 and come back",
+    "he decided to leave Iran"
+   ],
    "answer": 1
   },
   {
    "q": "What did the grandmother mean by \"I saw his father leave as well\"?",
-   "options": ["she had seen Reza Shah leave Iran in 1941, never to return", "she had met the Shah's father", "she had seen the Shah's father at the airport in 1979"],
+   "options": [
+    "she had seen Reza Shah leave Iran in 1941, never to return",
+    "she had met the Shah's father",
+    "she had seen the Shah's father at the airport in 1979"
+   ],
    "answer": 0
   },
   {
    "q": "What does the narrator tell her daughter about the revolution?",
-   "options": ["that it was a mistake", "that it was a victory", "that she has no single answer, only the different views of her family and her own"],
+   "options": [
+    "that it was a mistake",
+    "that it was a victory",
+    "that she has no single answer, only the different views of her family and her own"
+   ],
    "answer": 2
   }
  ],
- "after": "The dates are those of the Iranian solar calendar, which is how Iranians remember the revolution: 17 Shahrivar 1357 (8 September 1978, 'Black Friday'), the Tasua and Ashura marches of 19–20 Azar (10–11 December), the Shah's departure on 26 Dey (16 January 1979), Ayatollah Khomeini's return on 12 Bahman (1 February), the army's declaration of neutrality on 22 Bahman (11 February), and the referendum of 10–11 Farvardin 1358 (30–31 March), after which the Islamic Republic was proclaimed on 12 Farvardin (1 April). Grandmother's memories go back to Shahrivar 1320 (1941), when the Allied invasion forced Reza Shah to abdicate, and to Mordad 1332 (1953), when his son briefly left the country before the coup against Mosaddegh. The 'white-cover' books (کتاب‌های جلدسفید) were cheap reprints of banned books sold on the pavements in 1978–79. Notice that Persian reported speech keeps the tense of the speaker's words (می‌گفت … هیچ‌کس نمی‌تواند … حرف بزند 'she said nobody could speak'), the progressive داشت دگرگون می‌شد 'was being transformed', and از آنِ 'belonging to': پاسخی که از آنِ دختری پانزده‌ساله است."
+ "after": "The dates are those of the Iranian solar calendar, which is how Iranians remember the revolution: 17 Shahrivar 1357 (8 September 1978, 'Black Friday'), the Tasua and Ashura marches of 19–20 Azar (10–11 December), the Shah's departure on 26 Dey (16 January 1979), Ayatollah Khomeini's return on 12 Bahman (1 February), the army's declaration of neutrality on 22 Bahman (11 February), and the referendum of 10–11 Farvardin 1358 (30–31 March), after which the Islamic Republic was proclaimed on 12 Farvardin (1 April). Grandmother's memories go back to Shahrivar 1320 (1941), when the Allied invasion forced Reza Shah to abdicate, and to Mordad 1332 (1953), when his son briefly left the country before the coup against Mosaddegh. The 'white-cover' books (کتاب‌های جلدسفید) were cheap reprints of banned books sold on the pavements in 1978–79. Notice that Persian reported speech keeps the tense of the speaker's words (می‌گفت … هیچ‌کس نمی‌تواند … حرف بزند 'she said nobody could speak'), the progressive داشت دگرگون می‌شد 'was being transformed', and از آنِ 'belonging to': پاسخی که از آنِ دختری پانزده‌ساله است.",
+ "titleV": "تِهران، ۱۳۵۷",
+ "titleA": "4a83a78f5802"
 }

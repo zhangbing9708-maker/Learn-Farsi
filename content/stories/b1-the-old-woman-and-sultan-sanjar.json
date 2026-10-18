@@ -11,70 +11,310 @@
  "paragraphs": [
   {
    "sentences": [
-    {"fa": "سلطان سنجر، پادشاه بزرگ سلجوقی، حدود نهصد سال پیش بر سرزمینی پهناور حکومت می‌کرد و پایتختش شهر مرو بود.", "r": "soltān Sanjar, pādeshāh-e bozorg-e saljughi, hodud-e nohsad sāl pish bar sarzamin-i pahnāvar hokumat mi-kard o pāytakht-ash shahr-e Marv bud.", "en": "Sultan Sanjar, the great Seljuk king, ruled a vast land about nine hundred years ago, and his capital was the city of Merv."},
-    {"fa": "نظامی گنجوی، شاعر قرن ششم، در کتاب مخزن‌الاسرار داستانی درباره‌ی او و پیرزنی تنها آورده است.", "r": "Nezāmi-ye Ganjavi, shā'er-e gharn-e sheshom, dar ketāb-e Makhzan-ol-asrār dāstān-i darbāre-ye u o pir-zan-i tanhā āvarde ast.", "en": "Nezami of Ganja, a poet of the sixth century of the Hijra, tells a story about him and a lonely old woman in his book Makhzan al-Asrar."}
+    {
+     "fa": "سلطان سنجر، پادشاه بزرگ سلجوقی، حدود نهصد سال پیش بر سرزمینی پهناور حکومت می‌کرد و پایتختش شهر مرو بود.",
+     "r": "soltān Sanjar, pādeshāh-e bozorg-e saljughi, hodud-e nohsad sāl pish bar sarzamin-i pahnāvar hokumat mi-kard o pāytakht-ash shahr-e Marv bud.",
+     "en": "Sultan Sanjar, the great Seljuk king, ruled a vast land about nine hundred years ago, and his capital was the city of Merv.",
+     "faV": "سُلطان سَنجَر، پادِشاهِ بُزُرگِ سَلجوقی، حُدودِ نُهصَد سال پیش بَر سَرزَمینی پَهناوَر حُکومَت می‌کَرد و پایتَختَش شَهرِ مَرو بود.",
+     "a": "5770baeb5e7f"
+    },
+    {
+     "fa": "نظامی گنجوی، شاعر قرن ششم، در کتاب مخزن‌الاسرار داستانی درباره‌ی او و پیرزنی تنها آورده است.",
+     "r": "Nezāmi-ye Ganjavi, shā'er-e gharn-e sheshom, dar ketāb-e Makhzan-ol-asrār dāstān-i darbāre-ye u o pir-zan-i tanhā āvarde ast.",
+     "en": "Nezami of Ganja, a poet of the sixth century of the Hijra, tells a story about him and a lonely old woman in his book Makhzan al-Asrar.",
+     "faV": "نِظامیِ گَنجَوی، شاعِرِ قَرنِ شِشُم، دَر کِتابِ مَخزَن‌اُلاَسرار داستانی دَرباره‌یِ او و پیرزَنی تَنها آوَرده اَست.",
+     "a": "35b531887095"
+    }
    ]
   },
   {
    "sentences": [
-    {"fa": "روزی سلطان با سپاهیانش از شکار برمی‌گشت که پیرزنی خمیده جلوی اسبش را گرفت.", "r": "ruz-i soltān bā sepāhiyān-ash az shekār bar-mi-gasht ke pir-zan-i khamide jelo-ye asb-ash rā gereft.", "en": "One day the sultan was returning from the hunt with his soldiers when a bent old woman blocked his horse's way."},
-    {"fa": "نگهبانان خواستند او را دور کنند، اما پیرزن دامن سلطان را محکم گرفته بود و رها نمی‌کرد.", "r": "negahbānān khāstand u rā dur konand, ammā pir-zan dāman-e soltān rā mohkam gerefte bud o rahā nemi-kard.", "en": "The guards tried to push her away, but the old woman had seized the hem of the sultan's robe and would not let go."},
-    {"fa": "او با صدای بلند گفت: «ای پادشاه، از تو دادخواهی می‌کنم!»", "r": "u bā sedā-ye boland goft: «ey pādeshāh, az to dād-khāhi mi-konam!»", "en": "She cried out: \"O king, I demand justice from you!\""}
+    {
+     "fa": "روزی سلطان با سپاهیانش از شکار برمی‌گشت که پیرزنی خمیده جلوی اسبش را گرفت.",
+     "r": "ruz-i soltān bā sepāhiyān-ash az shekār bar-mi-gasht ke pir-zan-i khamide jelo-ye asb-ash rā gereft.",
+     "en": "One day the sultan was returning from the hunt with his soldiers when a bent old woman blocked his horse's way.",
+     "faV": "روزی سُلطان با سِپاهیانَش اَز شِکار بَرمی‌گَشت که پیرزَنی خَمیده جِلویِ اَسبَش را گِرِفت.",
+     "a": "894a3722b1ff"
+    },
+    {
+     "fa": "نگهبانان خواستند او را دور کنند، اما پیرزن دامن سلطان را محکم گرفته بود و رها نمی‌کرد.",
+     "r": "negahbānān khāstand u rā dur konand, ammā pir-zan dāman-e soltān rā mohkam gerefte bud o rahā nemi-kard.",
+     "en": "The guards tried to push her away, but the old woman had seized the hem of the sultan's robe and would not let go.",
+     "faV": "نِگَهبانان خواستَند او را دور کُنَند، اَمّا پیرزَن دامَنِ سُلطان را مُحکَم گِرِفته بود و رَها نِمی‌کَرد.",
+     "a": "2f538a12ed0a"
+    },
+    {
+     "fa": "او با صدای بلند گفت: «ای پادشاه، از تو دادخواهی می‌کنم!»",
+     "r": "u bā sedā-ye boland goft: «ey pādeshāh, az to dād-khāhi mi-konam!»",
+     "en": "She cried out: \"O king, I demand justice from you!\"",
+     "faV": "او با صِدایِ بُلَند گُفت: «اَی پادِشاه، اَز تو دادخواهی می‌کُنَم!»",
+     "a": "d93821ad552a"
+    }
    ]
   },
   {
    "sentences": [
-    {"fa": "پیرزن تعریف کرد که شب گذشته یکی از سربازان سلطان، مست، وارد خانه‌اش شده بود.", "r": "pir-zan ta'rif kard ke shab-e gozashte yek-i az sarbāzān-e soltān, mast, vāred-e khāne-ash shode bud.", "en": "The old woman told how, the night before, one of the sultan's soldiers had come into her house drunk."},
-    {"fa": "سرباز در را شکسته بود، موهای سفید پیرزن را گرفته بود و او را در کوچه کشیده بود.", "r": "sarbāz dar rā shekaste bud, mu-hā-ye sefid-e pir-zan rā gerefte bud o u rā dar kuche keshide bud.", "en": "The soldier had broken the door, grabbed the old woman's white hair and dragged her into the street."},
-    {"fa": "او فریاد زده بود: «قاتلی که دنبالش هستیم در خانه‌ی تو پنهان شده است!»", "r": "u faryād zade bud: «ghātel-i ke donbāl-ash hastim dar khāne-ye to penhān shode ast!»", "en": "He had shouted: \"The murderer we are looking for is hiding in your house!\""},
-    {"fa": "پیرزن گفت: «اگر تو نتوانی از پیرزنی در شهر خودت دفاع کنی، این همه سرزمین را برای چه گرفته‌ای؟»", "r": "pir-zan goft: «agar to na-tavāni az pir-zan-i dar shahr-e khod-at defā' koni, in hame sarzamin rā barā-ye che gerefte-i?»", "en": "The old woman said: \"If you cannot protect an old woman in your own city, why have you conquered all these lands?\""}
+    {
+     "fa": "پیرزن تعریف کرد که شب گذشته یکی از سربازان سلطان، مست، وارد خانه‌اش شده بود.",
+     "r": "pir-zan ta'rif kard ke shab-e gozashte yek-i az sarbāzān-e soltān, mast, vāred-e khāne-ash shode bud.",
+     "en": "The old woman told how, the night before, one of the sultan's soldiers had come into her house drunk.",
+     "faV": "پیرزَن تَعریف کَرد که شَبِ گُذَشته یِکی اَز سَربازانِ سُلطان، مَست، وارِدِ خانه‌اَش شُده بود.",
+     "a": "bfc06df1810c"
+    },
+    {
+     "fa": "سرباز در را شکسته بود، موهای سفید پیرزن را گرفته بود و او را در کوچه کشیده بود.",
+     "r": "sarbāz dar rā shekaste bud, mu-hā-ye sefid-e pir-zan rā gerefte bud o u rā dar kuche keshide bud.",
+     "en": "The soldier had broken the door, grabbed the old woman's white hair and dragged her into the street.",
+     "faV": "سَرباز دَر را شِکَسته بود، موهایِ سِفیدِ پیرزَن را گِرِفته بود و او را دَر کوچه کِشیده بود.",
+     "a": "6e07106f7c9b"
+    },
+    {
+     "fa": "او فریاد زده بود: «قاتلی که دنبالش هستیم در خانه‌ی تو پنهان شده است!»",
+     "r": "u faryād zade bud: «ghātel-i ke donbāl-ash hastim dar khāne-ye to penhān shode ast!»",
+     "en": "He had shouted: \"The murderer we are looking for is hiding in your house!\"",
+     "faV": "او فَریاد زَده بود: «قاتِلی که دُنبالَش هَستیم دَر خانه‌یِ تو پِنهان شُده اَست!»",
+     "a": "67f73955ef6f"
+    },
+    {
+     "fa": "پیرزن گفت: «اگر تو نتوانی از پیرزنی در شهر خودت دفاع کنی، این همه سرزمین را برای چه گرفته‌ای؟»",
+     "r": "pir-zan goft: «agar to na-tavāni az pir-zan-i dar shahr-e khod-at defā' koni, in hame sarzamin rā barā-ye che gerefte-i?»",
+     "en": "The old woman said: \"If you cannot protect an old woman in your own city, why have you conquered all these lands?\"",
+     "faV": "پیرزَن گُفت: «اَگَر تو نَتَوانی اَز پیرزَنی دَر شَهرِ خودَت دِفاع کُنی، این هَمه سَرزَمین را بَرایِ چه گِرِفته‌ای؟»",
+     "a": "e967b4bbf530"
+    }
    ]
   },
   {
    "sentences": [
-    {"fa": "او ادامه داد: «پادشاهی که مردمش از سربازانش بترسند، پادشاه نیست؛ گرگی است که لباس چوپان پوشیده است.»", "r": "u edāme dād: «pādeshāh-i ke mardom-ash az sarbāzān-ash be-tarsand, pādeshāh nist; gorg-i ast ke lebās-e chupān pushide ast.»", "en": "She went on: \"A king whose people fear his soldiers is no king; he is a wolf dressed as a shepherd.\""},
-    {"fa": "و هشدار داد: «اگر امروز به داد من نرسی، در روز قیامت دوباره دامنت را خواهم گرفت.»", "r": "va hoshdār dād: «agar emruz be dād-e man na-rasi, dar ruz-e ghiyāmat dobāre dāman-at rā khāham gereft.»", "en": "And she warned: \"If you do not come to my aid today, on the Day of Judgement I will seize your hem again.\""},
-    {"fa": "سپاهیان ساکت شدند و همه منتظر بودند ببینند سلطان چه خواهد کرد.", "r": "sepāhiyān sāket shodand o hame montazer budand be-binand soltān che khāhad kard.", "en": "The soldiers fell silent, and everyone waited to see what the sultan would do."}
+    {
+     "fa": "او ادامه داد: «پادشاهی که مردمش از سربازانش بترسند، پادشاه نیست؛ گرگی است که لباس چوپان پوشیده است.»",
+     "r": "u edāme dād: «pādeshāh-i ke mardom-ash az sarbāzān-ash be-tarsand, pādeshāh nist; gorg-i ast ke lebās-e chupān pushide ast.»",
+     "en": "She went on: \"A king whose people fear his soldiers is no king; he is a wolf dressed as a shepherd.\"",
+     "faV": "او اِدامه داد: «پادِشاهی که مَردُمَش اَز سَربازانَش بِتَرسَند، پادِشاه نیست؛ گُرگی اَست که لِباسِ چوپان پوشیده اَست.»",
+     "a": "9e5e64bc9aa3"
+    },
+    {
+     "fa": "و هشدار داد: «اگر امروز به داد من نرسی، در روز قیامت دوباره دامنت را خواهم گرفت.»",
+     "r": "va hoshdār dād: «agar emruz be dād-e man na-rasi, dar ruz-e ghiyāmat dobāre dāman-at rā khāham gereft.»",
+     "en": "And she warned: \"If you do not come to my aid today, on the Day of Judgement I will seize your hem again.\"",
+     "faV": "و هُشدار داد: «اَگَر اِمروز به دادِ مَن نَرَسی، دَر روزِ قیامَت دوباره دامَنَت را خواهَم گِرِفت.»",
+     "a": "db7d31c68eb4"
+    },
+    {
+     "fa": "سپاهیان ساکت شدند و همه منتظر بودند ببینند سلطان چه خواهد کرد.",
+     "r": "sepāhiyān sāket shodand o hame montazer budand be-binand soltān che khāhad kard.",
+     "en": "The soldiers fell silent, and everyone waited to see what the sultan would do.",
+     "faV": "سِپاهیان ساکِت شُدَند و هَمه مُنتَظِر بودَند بِبینَند سُلطان چه خواهَد کَرد.",
+     "a": "c8d802fc9ffc"
+    }
    ]
   },
   {
    "sentences": [
-    {"fa": "اما سلطان سنجر که به قدرتش مغرور بود، به حرف‌های پیرزن اهمیتی نداد و به راهش ادامه داد.", "r": "ammā soltān Sanjar ke be ghodrat-ash maghrur bud, be harf-hā-ye pir-zan ahammiyat-i na-dād o be rāh-ash edāme dād.", "en": "But Sultan Sanjar, who was proud of his power, paid no attention to the old woman's words and rode on."},
-    {"fa": "نظامی می‌گوید که به همین دلیل، چندی بعد پادشاهی سنجر از دستش رفت.", "r": "Nezāmi mi-guyad ke be hamin dalil, chandi ba'd pādeshāhi-ye Sanjar az dast-ash raft.", "en": "Nezami says that for this very reason, some time later Sanjar lost his kingdom."},
-    {"fa": "در تاریخ هم می‌خوانیم که سنجر در پیری به دست قبیله‌های غز اسیر شد و سرزمینش ویران شد.", "r": "dar tārikh ham mi-khānim ke Sanjar dar piri be dast-e ghabile-hā-ye Ghozz asir shod o sarzamin-ash virān shod.", "en": "In history, too, we read that in his old age Sanjar was taken prisoner by the Oghuz tribes and his land was laid waste."}
+    {
+     "fa": "اما سلطان سنجر که به قدرتش مغرور بود، به حرف‌های پیرزن اهمیتی نداد و به راهش ادامه داد.",
+     "r": "ammā soltān Sanjar ke be ghodrat-ash maghrur bud, be harf-hā-ye pir-zan ahammiyat-i na-dād o be rāh-ash edāme dād.",
+     "en": "But Sultan Sanjar, who was proud of his power, paid no attention to the old woman's words and rode on.",
+     "faV": "اَمّا سُلطان سَنجَر که به قُدرَتَش مَغرور بود، به حَرف‌هایِ پیرزَن اَهَمّیَتی نَداد و به راهَش اِدامه داد.",
+     "a": "8510dbbdbacd"
+    },
+    {
+     "fa": "نظامی می‌گوید که به همین دلیل، چندی بعد پادشاهی سنجر از دستش رفت.",
+     "r": "Nezāmi mi-guyad ke be hamin dalil, chandi ba'd pādeshāhi-ye Sanjar az dast-ash raft.",
+     "en": "Nezami says that for this very reason, some time later Sanjar lost his kingdom.",
+     "faV": "نِظامی می‌گویَد که به هَمین دَلیل، چَندی بَعد پادِشاهیِ سَنجَر اَز دَستَش رَفت.",
+     "a": "8acf598da487"
+    },
+    {
+     "fa": "در تاریخ هم می‌خوانیم که سنجر در پیری به دست قبیله‌های غز اسیر شد و سرزمینش ویران شد.",
+     "r": "dar tārikh ham mi-khānim ke Sanjar dar piri be dast-e ghabile-hā-ye Ghozz asir shod o sarzamin-ash virān shod.",
+     "en": "In history, too, we read that in his old age Sanjar was taken prisoner by the Oghuz tribes and his land was laid waste.",
+     "faV": "دَر تاریخ هَم می‌خوانیم که سَنجَر دَر پیری به دَستِ قَبیله‌هایِ غُزّ اَسیر شُد و سَرزَمینَش ویران شُد.",
+     "a": "2f739819444c"
+    }
    ]
   },
   {
    "sentences": [
-    {"fa": "امروز هم وقتی ایرانی‌ها از عدالت حرف می‌زنند، گاهی داستان پیرزن و سلطان سنجر را تعریف می‌کنند.", "r": "emruz ham vaghti irāni-hā az 'edālat harf mi-zanand, gāhi dāstān-e pir-zan o soltān Sanjar rā ta'rif mi-konand.", "en": "Even today, when Iranians talk about justice, they sometimes tell the story of the old woman and Sultan Sanjar."},
-    {"fa": "پیام داستان ساده است: قدرت واقعی پادشاه در لشکرش نیست، بلکه در عدالتی است که به ضعیف‌ترین مردم نشان می‌دهد.", "r": "payām-e dāstān sāde ast: ghodrat-e vāghe'i-ye pādeshāh dar lashkar-ash nist, balke dar 'edālat-i ast ke be za'if-tarin mardom neshān mi-dahad.", "en": "The story's message is simple: a king's real power lies not in his army but in the justice he shows to the weakest of his people."}
+    {
+     "fa": "امروز هم وقتی ایرانی‌ها از عدالت حرف می‌زنند، گاهی داستان پیرزن و سلطان سنجر را تعریف می‌کنند.",
+     "r": "emruz ham vaghti irāni-hā az 'edālat harf mi-zanand, gāhi dāstān-e pir-zan o soltān Sanjar rā ta'rif mi-konand.",
+     "en": "Even today, when Iranians talk about justice, they sometimes tell the story of the old woman and Sultan Sanjar.",
+     "faV": "اِمروز هَم وَقتی ایرانی‌ها اَز عِدالَت حَرف می‌زَنَند، گاهی داستانِ پیرزَن و سُلطان سَنجَر را تَعریف می‌کُنَند.",
+     "a": "62bc030e8465"
+    },
+    {
+     "fa": "پیام داستان ساده است: قدرت واقعی پادشاه در لشکرش نیست، بلکه در عدالتی است که به ضعیف‌ترین مردم نشان می‌دهد.",
+     "r": "payām-e dāstān sāde ast: ghodrat-e vāghe'i-ye pādeshāh dar lashkar-ash nist, balke dar 'edālat-i ast ke be za'if-tarin mardom neshān mi-dahad.",
+     "en": "The story's message is simple: a king's real power lies not in his army but in the justice he shows to the weakest of his people.",
+     "faV": "پَیامِ داستان ساده اَست: قُدرَتِ واقِعیِ پادِشاه دَر لَشکَرَش نیست، بَلکه دَر عِدالَتی اَست که به ضَعیف‌تَرین مَردُم نِشان می‌دَهَد.",
+     "a": "c786a9521331"
+    }
    ]
   }
  ],
  "vocab": [
-  {"fa": "سلطان", "r": "soltān", "en": "sultan"},
-  {"fa": "پهناور", "r": "pahnāvar", "en": "vast, wide"},
-  {"fa": "حکومت کردن", "r": "hokumat kardan", "en": "to rule, govern"},
-  {"fa": "پیرزن", "r": "pir-zan", "en": "old woman"},
-  {"fa": "خمیده", "r": "khamide", "en": "bent, stooped"},
-  {"fa": "دامن", "r": "dāman", "en": "hem of a robe; skirt"},
-  {"fa": "دادخواهی کردن", "r": "dād-khāhi kardan", "en": "to demand justice"},
-  {"fa": "سرباز", "r": "sarbāz", "en": "soldier"},
-  {"fa": "مست", "r": "mast", "en": "drunk"},
-  {"fa": "قاتل", "r": "ghātel", "en": "murderer"},
-  {"fa": "دفاع کردن", "r": "defā' kardan", "en": "to defend, protect"},
-  {"fa": "به داد کسی رسیدن", "r": "be dād-e kas-i residan", "en": "to come to someone's aid"},
-  {"fa": "قیامت", "r": "ghiyāmat", "en": "the Day of Judgement"},
-  {"fa": "اهمیت دادن", "r": "ahammiyat dādan", "en": "to pay attention to, care about"},
-  {"fa": "اسیر شدن", "r": "asir shodan", "en": "to be taken prisoner"},
-  {"fa": "عدالت", "r": "'edālat", "en": "justice"}
+  {
+   "fa": "سلطان",
+   "r": "soltān",
+   "en": "sultan",
+   "faV": "سُلطان",
+   "a": "ff5c1007ab5d"
+  },
+  {
+   "fa": "پهناور",
+   "r": "pahnāvar",
+   "en": "vast, wide",
+   "faV": "پَهناوَر",
+   "a": "beb3cf261517"
+  },
+  {
+   "fa": "حکومت کردن",
+   "r": "hokumat kardan",
+   "en": "to rule, govern",
+   "faV": "حُکومَت کَردَن",
+   "a": "ea8c2f8ca2e0"
+  },
+  {
+   "fa": "پیرزن",
+   "r": "pir-zan",
+   "en": "old woman",
+   "faV": "پیرزَن",
+   "a": "9a8d9ede947a"
+  },
+  {
+   "fa": "خمیده",
+   "r": "khamide",
+   "en": "bent, stooped",
+   "faV": "خَمیده",
+   "a": "a6626ddb9961"
+  },
+  {
+   "fa": "دامن",
+   "r": "dāman",
+   "en": "hem of a robe; skirt",
+   "faV": "دامَن",
+   "a": "8f486127f0dd"
+  },
+  {
+   "fa": "دادخواهی کردن",
+   "r": "dād-khāhi kardan",
+   "en": "to demand justice",
+   "faV": "دادخواهی کَردَن",
+   "a": "598b8743b705"
+  },
+  {
+   "fa": "سرباز",
+   "r": "sarbāz",
+   "en": "soldier",
+   "faV": "سَرباز",
+   "a": "4fb4abe520b6"
+  },
+  {
+   "fa": "مست",
+   "r": "mast",
+   "en": "drunk",
+   "faV": "مَست",
+   "a": "a37a885fef9a"
+  },
+  {
+   "fa": "قاتل",
+   "r": "ghātel",
+   "en": "murderer",
+   "faV": "قاتِل",
+   "a": "81344d188fe9"
+  },
+  {
+   "fa": "دفاع کردن",
+   "r": "defā' kardan",
+   "en": "to defend, protect",
+   "faV": "دِفاع کَردَن",
+   "a": "b49cea290960"
+  },
+  {
+   "fa": "به داد کسی رسیدن",
+   "r": "be dād-e kas-i residan",
+   "en": "to come to someone's aid",
+   "faV": "به دادِ کَسی رِسیدَن",
+   "a": "8809b989f097"
+  },
+  {
+   "fa": "قیامت",
+   "r": "ghiyāmat",
+   "en": "the Day of Judgement",
+   "faV": "قیامَت",
+   "a": "34eb937bbb20"
+  },
+  {
+   "fa": "اهمیت دادن",
+   "r": "ahammiyat dādan",
+   "en": "to pay attention to, care about",
+   "faV": "اَهَمّیَت دادَن",
+   "a": "4b477517d33b"
+  },
+  {
+   "fa": "اسیر شدن",
+   "r": "asir shodan",
+   "en": "to be taken prisoner",
+   "faV": "اَسیر شُدَن",
+   "a": "baa94c77c748"
+  },
+  {
+   "fa": "عدالت",
+   "r": "'edālat",
+   "en": "justice",
+   "faV": "عِدالَت",
+   "a": "2c42f24fc8be"
+  }
  ],
  "questions": [
-  {"q": "Where was the sultan coming from when the old woman stopped him?", "options": ["from the mosque", "from the hunt", "from a battle"], "answer": 1},
-  {"q": "What had the drunk soldier done?", "options": ["stolen her money", "broken into her house and dragged her into the street", "killed her son"], "answer": 1},
-  {"q": "Why had the soldier come to her house, he said?", "options": ["he was looking for a murderer", "he wanted food", "the sultan had sent him"], "answer": 0},
-  {"q": "What does the old woman compare an unjust king to?", "options": ["a lion without teeth", "a wolf dressed as a shepherd", "a tree without fruit"], "answer": 1},
-  {"q": "According to Nezami, what happened after Sanjar ignored her?", "options": ["she forgave him", "he lost his kingdom", "he became a just king"], "answer": 1}
+  {
+   "q": "Where was the sultan coming from when the old woman stopped him?",
+   "options": [
+    "from the mosque",
+    "from the hunt",
+    "from a battle"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What had the drunk soldier done?",
+   "options": [
+    "stolen her money",
+    "broken into her house and dragged her into the street",
+    "killed her son"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Why had the soldier come to her house, he said?",
+   "options": [
+    "he was looking for a murderer",
+    "he wanted food",
+    "the sultan had sent him"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does the old woman compare an unjust king to?",
+   "options": [
+    "a lion without teeth",
+    "a wolf dressed as a shepherd",
+    "a tree without fruit"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "According to Nezami, what happened after Sanjar ignored her?",
+   "options": [
+    "she forgave him",
+    "he lost his kingdom",
+    "he became a just king"
+   ],
+   "answer": 1
+  }
  ],
- "after": "The old word داد means 'justice', and a whole family grows from it: دادخواهی 'seeking justice', دادگاه 'court of law', دادگستری 'the justice ministry', بیداد 'injustice, tyranny', and به داد کسی رسیدن 'to come to someone's rescue'. (The everyday داد زدن 'to shout' comes from the cry for justice.) Seizing the hem of someone's robe, دامن کسی را گرفتن, was the gesture of a petitioner who will not let go – and it is still an idiom for holding someone responsible. Grammar to notice: the old woman's story is told with the past perfect (شده بود, شکسته بود, کشیده بود), because it happened before the meeting in the street."
+ "after": "The old word داد means 'justice', and a whole family grows from it: دادخواهی 'seeking justice', دادگاه 'court of law', دادگستری 'the justice ministry', بیداد 'injustice, tyranny', and به داد کسی رسیدن 'to come to someone's rescue'. (The everyday داد زدن 'to shout' comes from the cry for justice.) Seizing the hem of someone's robe, دامن کسی را گرفتن, was the gesture of a petitioner who will not let go – and it is still an idiom for holding someone responsible. Grammar to notice: the old woman's story is told with the past perfect (شده بود, شکسته بود, کشیده بود), because it happened before the meeting in the street.",
+ "titleV": "پیرزَن و سُلطان سَنجَر",
+ "titleA": "b11d64c0726b"
 }

@@ -11,68 +11,320 @@
  "paragraphs": [
   {
    "sentences": [
-    {"fa": "اردیبهشت بود و سارا با مادربزرگش در باغ ارم شیراز قدم می‌زد.", "r": "Ordibehesht bud o Sārā bā mādar-bozorg-ash dar bāgh-e Eram-e Shirāz ghadam mi-zad.", "en": "It was the month of Ordibehesht, and Sara was walking with her grandmother in the Eram Garden of Shiraz."},
-    {"fa": "همه‌جا بوی گل سرخ می‌آمد و از میان شاخه‌ها صدای بلبلی شنیده می‌شد.", "r": "hame-jā bu-ye gol-e sorkh mi-āmad o az miyān-e shākhe-hā sedā-ye bolbol-i shenide mi-shod.", "en": "Everywhere there was the scent of roses, and from among the branches the voice of a nightingale could be heard."},
-    {"fa": "مادربزرگ گفت: «می‌دانی چرا بلبل این‌قدر برای گل آواز می‌خواند؟ قدیمی‌ها داستانی درباره‌اش دارند.»", "r": "mādar-bozorg goft: «mi-dāni cherā bolbol in-ghadr barā-ye gol āvāz mi-khānad? ghadimi-hā dāstān-i darbāre-ash dārand.»", "en": "Grandmother said: \"Do you know why the nightingale sings so much for the rose? The old folk have a story about it.\""}
+    {
+     "fa": "اردیبهشت بود و سارا با مادربزرگش در باغ ارم شیراز قدم می‌زد.",
+     "r": "Ordibehesht bud o Sārā bā mādar-bozorg-ash dar bāgh-e Eram-e Shirāz ghadam mi-zad.",
+     "en": "It was the month of Ordibehesht, and Sara was walking with her grandmother in the Eram Garden of Shiraz.",
+     "faV": "اُردیبِهِشت بود و سارا با مادَربُزُرگَش دَر باغِ اِرَمِ شیراز قَدَم می‌زَد.",
+     "a": "ee8bc302047d"
+    },
+    {
+     "fa": "همه‌جا بوی گل سرخ می‌آمد و از میان شاخه‌ها صدای بلبلی شنیده می‌شد.",
+     "r": "hame-jā bu-ye gol-e sorkh mi-āmad o az miyān-e shākhe-hā sedā-ye bolbol-i shenide mi-shod.",
+     "en": "Everywhere there was the scent of roses, and from among the branches the voice of a nightingale could be heard.",
+     "faV": "هَمه‌جا بویِ گُلِ سُرخ می‌آمَد و اَز میانِ شاخه‌ها صِدایِ بُلبُلی شِنیده می‌شُد.",
+     "a": "61ea861113c1"
+    },
+    {
+     "fa": "مادربزرگ گفت: «می‌دانی چرا بلبل این‌قدر برای گل آواز می‌خواند؟ قدیمی‌ها داستانی درباره‌اش دارند.»",
+     "r": "mādar-bozorg goft: «mi-dāni cherā bolbol in-ghadr barā-ye gol āvāz mi-khānad? ghadimi-hā dāstān-i darbāre-ash dārand.»",
+     "en": "Grandmother said: \"Do you know why the nightingale sings so much for the rose? The old folk have a story about it.\"",
+     "faV": "مادَربُزُرگ گُفت: «می‌دانی چِرا بُلبُل این‌قَدر بَرایِ گُل آواز می‌خوانَد؟ قَدیمی‌ها داستانی دَرباره‌اَش دارَند.»",
+     "a": "b89557c433d3"
+    }
    ]
   },
   {
    "sentences": [
-    {"fa": "می‌گویند در روزگاران قدیم، گل‌ها همه سفید بودند و بلبل پرنده‌ای ساده بود که هنوز آواز خواندن بلد نبود.", "r": "mi-guyand dar ruzgārān-e ghadim, gol-hā hame sefid budand o bolbol parande-i sāde bud ke hanuz āvāz khāndan balad na-bud.", "en": "They say that in olden times all the roses were white, and the nightingale was a plain bird that did not yet know how to sing."},
-    {"fa": "یک روز بهار، بلبل در باغی گلی دید که از همه‌ی گل‌ها زیباتر بود و دلش را به او باخت.", "r": "yek ruz-e bahār, bolbol dar bāgh-i gol-i did ke az hame-ye gol-hā zibā-tar bud o del-ash rā be u bākht.", "en": "One spring day, in a garden, the nightingale saw a rose more beautiful than all the others, and lost his heart to her."},
-    {"fa": "از آن روز، بلبل هر شب روی شاخه‌ای نزدیک گل می‌نشست و برایش حرف می‌زد.", "r": "az ān ruz, bolbol har shab ru-ye shākhe-i nazdik-e gol mi-neshast o barā-yash harf mi-zad.", "en": "From that day the nightingale sat every night on a branch near the rose and talked to her."},
-    {"fa": "کم‌کم حرف‌هایش آن‌قدر زیبا شدند که به آواز تبدیل شدند.", "r": "kam-kam harf-hā-yash ān-ghadr zibā shodand ke be āvāz tabdil shodand.", "en": "Little by little his words became so beautiful that they turned into song."}
+    {
+     "fa": "می‌گویند در روزگاران قدیم، گل‌ها همه سفید بودند و بلبل پرنده‌ای ساده بود که هنوز آواز خواندن بلد نبود.",
+     "r": "mi-guyand dar ruzgārān-e ghadim, gol-hā hame sefid budand o bolbol parande-i sāde bud ke hanuz āvāz khāndan balad na-bud.",
+     "en": "They say that in olden times all the roses were white, and the nightingale was a plain bird that did not yet know how to sing.",
+     "faV": "می‌گویَند دَر روزگارانِ قَدیم، گُل‌ها هَمه سِفید بودَند و بُلبُل پَرَنده‌ای ساده بود که هَنوز آواز خواندَن بَلَد نَبود.",
+     "a": "4c5f2cebae24"
+    },
+    {
+     "fa": "یک روز بهار، بلبل در باغی گلی دید که از همه‌ی گل‌ها زیباتر بود و دلش را به او باخت.",
+     "r": "yek ruz-e bahār, bolbol dar bāgh-i gol-i did ke az hame-ye gol-hā zibā-tar bud o del-ash rā be u bākht.",
+     "en": "One spring day, in a garden, the nightingale saw a rose more beautiful than all the others, and lost his heart to her.",
+     "faV": "یِک روزِ بَهار، بُلبُل دَر باغی گُلی دید که اَز هَمه‌یِ گُل‌ها زیباتَر بود و دِلَش را به او باخت.",
+     "a": "6d5337b4d71c"
+    },
+    {
+     "fa": "از آن روز، بلبل هر شب روی شاخه‌ای نزدیک گل می‌نشست و برایش حرف می‌زد.",
+     "r": "az ān ruz, bolbol har shab ru-ye shākhe-i nazdik-e gol mi-neshast o barā-yash harf mi-zad.",
+     "en": "From that day the nightingale sat every night on a branch near the rose and talked to her.",
+     "faV": "اَز آن روز، بُلبُل هَر شَب رویِ شاخه‌ای نَزدیکِ گُل می‌نِشَست و بَرایَش حَرف می‌زَد.",
+     "a": "6705db29a4ab"
+    },
+    {
+     "fa": "کم‌کم حرف‌هایش آن‌قدر زیبا شدند که به آواز تبدیل شدند.",
+     "r": "kam-kam harf-hā-yash ān-ghadr zibā shodand ke be āvāz tabdil shodand.",
+     "en": "Little by little his words became so beautiful that they turned into song.",
+     "faV": "کَم‌کَم حَرف‌هایَش آن‌قَدر زیبا شُدَند که به آواز تَبدیل شُدَند.",
+     "a": "114457e47390"
+    }
    ]
   },
   {
    "sentences": [
-    {"fa": "اما گل مغرور بود و به بلبل نگاه هم نمی‌کرد.", "r": "ammā gol maghrur bud o be bolbol negāh ham nemi-kard.", "en": "But the rose was proud and would not even look at the nightingale."},
-    {"fa": "او گفت: «اگر واقعاً عاشقی، ثابت کن؛ هر کس که مرا بخواهد، باید از خارهایم نترسد.»", "r": "u goft: «agar vāghe'an āsheghi, sābet kon; har kas ke ma-rā be-khāhad, bāyad az khār-hā-yam na-tarsad.»", "en": "She said: \"If you really are in love, prove it; whoever wants me must not be afraid of my thorns.\""},
-    {"fa": "بلبل لحظه‌ای فکر نکرد؛ پر زد و سینه‌اش را به گل چسباند.", "r": "bolbol lahze-i fekr na-kard; par zad o sine-ash rā be gol chasbānd.", "en": "The nightingale did not think for a moment; he flew and pressed his breast against the rose."},
-    {"fa": "خاری در سینه‌ی کوچکش فرو رفت و چند قطره خون روی گلبرگ‌های سفید ریخت.", "r": "khār-i dar sine-ye kuchak-ash foru raft o chand ghatre khun ru-ye golbarg-hā-ye sefid rikht.", "en": "A thorn pierced his little breast, and a few drops of blood fell on the white petals."}
+    {
+     "fa": "اما گل مغرور بود و به بلبل نگاه هم نمی‌کرد.",
+     "r": "ammā gol maghrur bud o be bolbol negāh ham nemi-kard.",
+     "en": "But the rose was proud and would not even look at the nightingale.",
+     "faV": "اَمّا گُل مَغرور بود و به بُلبُل نِگاه هَم نِمی‌کَرد.",
+     "a": "068a6b62c955"
+    },
+    {
+     "fa": "او گفت: «اگر واقعاً عاشقی، ثابت کن؛ هر کس که مرا بخواهد، باید از خارهایم نترسد.»",
+     "r": "u goft: «agar vāghe'an āsheghi, sābet kon; har kas ke ma-rā be-khāhad, bāyad az khār-hā-yam na-tarsad.»",
+     "en": "She said: \"If you really are in love, prove it; whoever wants me must not be afraid of my thorns.\"",
+     "faV": "او گُفت: «اَگَر واقِعاً عاشِقی، ثابِت کُن؛ هَر کَس که مَرا بِخواهَد، بایَد اَز خارهایَم نَتَرسَد.»",
+     "a": "586c1879890e"
+    },
+    {
+     "fa": "بلبل لحظه‌ای فکر نکرد؛ پر زد و سینه‌اش را به گل چسباند.",
+     "r": "bolbol lahze-i fekr na-kard; par zad o sine-ash rā be gol chasbānd.",
+     "en": "The nightingale did not think for a moment; he flew and pressed his breast against the rose.",
+     "faV": "بُلبُل لَحظه‌ای فِکر نَکَرد؛ پَر زَد و سینه‌اَش را به گُل چَسباند.",
+     "a": "5a06e6442b26"
+    },
+    {
+     "fa": "خاری در سینه‌ی کوچکش فرو رفت و چند قطره خون روی گلبرگ‌های سفید ریخت.",
+     "r": "khār-i dar sine-ye kuchak-ash foru raft o chand ghatre khun ru-ye golbarg-hā-ye sefid rikht.",
+     "en": "A thorn pierced his little breast, and a few drops of blood fell on the white petals.",
+     "faV": "خاری دَر سینه‌یِ کوچَکَش فُرو رَفت و چَند قَطره خون رویِ گُلبَرگ‌هایِ سِفید ریخت.",
+     "a": "43012cf84844"
+    }
    ]
   },
   {
    "sentences": [
-    {"fa": "صبح که باغبان به باغ آمد، با تعجب دید که گل سفید سرخ شده است.", "r": "sobh ke bāghbān be bāgh āmad, bā ta'ajjob did ke gol-e sefid sorkh shode ast.", "en": "In the morning, when the gardener came into the garden, he saw with surprise that the white rose had turned red."},
-    {"fa": "گل که فداکاری بلبل را دیده بود، دیگر مغرور نبود و برای او شکوفا شد.", "r": "gol ke fadākāri-ye bolbol rā dide bud, digar maghrur na-bud o barā-ye u shekufā shod.", "en": "The rose, who had seen the nightingale's sacrifice, was proud no longer and bloomed for him."},
-    {"fa": "اما عمر گل کوتاه است؛ وقتی پاییز رسید، گلبرگ‌هایش یکی‌یکی روی خاک افتادند.", "r": "ammā 'omr-e gol kutāh ast; vaghti pāyiz resid, golbarg-hā-yash yeki-yeki ru-ye khāk oftādand.", "en": "But a rose's life is short; when autumn came, her petals fell to the earth one by one."},
-    {"fa": "بلبل تمام زمستان ساکت ماند و منتظر بهار شد.", "r": "bolbol tamām-e zemestān sāket mānd o montazer-e bahār shod.", "en": "The nightingale stayed silent all winter and waited for spring."}
+    {
+     "fa": "صبح که باغبان به باغ آمد، با تعجب دید که گل سفید سرخ شده است.",
+     "r": "sobh ke bāghbān be bāgh āmad, bā ta'ajjob did ke gol-e sefid sorkh shode ast.",
+     "en": "In the morning, when the gardener came into the garden, he saw with surprise that the white rose had turned red.",
+     "faV": "صُبح که باغبان به باغ آمَد، با تَعَجُّب دید که گُلِ سِفید سُرخ شُده اَست.",
+     "a": "a7e294aeca66"
+    },
+    {
+     "fa": "گل که فداکاری بلبل را دیده بود، دیگر مغرور نبود و برای او شکوفا شد.",
+     "r": "gol ke fadākāri-ye bolbol rā dide bud, digar maghrur na-bud o barā-ye u shekufā shod.",
+     "en": "The rose, who had seen the nightingale's sacrifice, was proud no longer and bloomed for him.",
+     "faV": "گُل که فَداکاریِ بُلبُل را دیده بود، دیگَر مَغرور نَبود و بَرایِ او شِکوفا شُد.",
+     "a": "a8696083d83b"
+    },
+    {
+     "fa": "اما عمر گل کوتاه است؛ وقتی پاییز رسید، گلبرگ‌هایش یکی‌یکی روی خاک افتادند.",
+     "r": "ammā 'omr-e gol kutāh ast; vaghti pāyiz resid, golbarg-hā-yash yeki-yeki ru-ye khāk oftādand.",
+     "en": "But a rose's life is short; when autumn came, her petals fell to the earth one by one.",
+     "faV": "اَمّا عُمرِ گُل کوتاه اَست؛ وَقتی پاییز رِسید، گُلبَرگ‌هایَش یِکی‌یِکی رویِ خاک اُفتادَند.",
+     "a": "97adc1e2c96e"
+    },
+    {
+     "fa": "بلبل تمام زمستان ساکت ماند و منتظر بهار شد.",
+     "r": "bolbol tamām-e zemestān sāket mānd o montazer-e bahār shod.",
+     "en": "The nightingale stayed silent all winter and waited for spring.",
+     "faV": "بُلبُل تَمامِ زِمِستان ساکِت ماند و مُنتَظِرِ بَهار شُد.",
+     "a": "a5030de98850"
+    }
    ]
   },
   {
    "sentences": [
-    {"fa": "مادربزرگ گفت: «برای همین است که بلبل فقط در بهار، وقتی گل‌ها باز می‌شوند، این‌طور آواز می‌خواند.»", "r": "mādar-bozorg goft: «barā-ye hamin ast ke bolbol faghat dar bahār, vaghti gol-hā bāz mi-shavand, in-towr āvāz mi-khānad.»", "en": "Grandmother said: \"That is why the nightingale sings like this only in spring, when the roses open.\""},
-    {"fa": "سارا پرسید که آیا این داستان واقعی است.", "r": "Sārā porsid ke āyā in dāstān vāghe'i ast.", "en": "Sara asked whether the story was true."},
-    {"fa": "مادربزرگ خندید و گفت که شاعران ما، از سعدی تا حافظ، صدها بار درباره‌ی گل و بلبل شعر گفته‌اند و برای آن‌ها بلبل همیشه عاشق است و گل همیشه معشوق.", "r": "mādar-bozorg khandid o goft ke shā'erān-e mā, az Sa'di tā Hāfez, sad-hā bār darbāre-ye gol o bolbol she'r gofte-and o barā-ye ān-hā bolbol hamishe āshegh ast o gol hamishe ma'shugh.", "en": "Grandmother laughed and said that our poets, from Saadi to Hafez, have written hundreds of poems about the rose and the nightingale, and for them the nightingale is always the lover and the rose always the beloved."},
-    {"fa": "سپس گفت: «عشق واقعی یعنی همین: درد خار را تحمل کنی و باز هم آواز بخوانی.»", "r": "sepas goft: «'eshgh-e vāghe'i ya'ni hamin: dard-e khār rā tahammol koni o bāz ham āvāz be-khāni.»", "en": "Then she said: \"That is what real love means: to bear the pain of the thorn and still sing.\""}
+    {
+     "fa": "مادربزرگ گفت: «برای همین است که بلبل فقط در بهار، وقتی گل‌ها باز می‌شوند، این‌طور آواز می‌خواند.»",
+     "r": "mādar-bozorg goft: «barā-ye hamin ast ke bolbol faghat dar bahār, vaghti gol-hā bāz mi-shavand, in-towr āvāz mi-khānad.»",
+     "en": "Grandmother said: \"That is why the nightingale sings like this only in spring, when the roses open.\"",
+     "faV": "مادَربُزُرگ گُفت: «بَرایِ هَمین اَست که بُلبُل فَقَط دَر بَهار، وَقتی گُل‌ها باز می‌شَوَند، این‌طَور آواز می‌خوانَد.»",
+     "a": "4f2c9debaeb8"
+    },
+    {
+     "fa": "سارا پرسید که آیا این داستان واقعی است.",
+     "r": "Sārā porsid ke āyā in dāstān vāghe'i ast.",
+     "en": "Sara asked whether the story was true.",
+     "faV": "سارا پُرسید که آیا این داستان واقِعی اَست.",
+     "a": "6118f12e325d"
+    },
+    {
+     "fa": "مادربزرگ خندید و گفت که شاعران ما، از سعدی تا حافظ، صدها بار درباره‌ی گل و بلبل شعر گفته‌اند و برای آن‌ها بلبل همیشه عاشق است و گل همیشه معشوق.",
+     "r": "mādar-bozorg khandid o goft ke shā'erān-e mā, az Sa'di tā Hāfez, sad-hā bār darbāre-ye gol o bolbol she'r gofte-and o barā-ye ān-hā bolbol hamishe āshegh ast o gol hamishe ma'shugh.",
+     "en": "Grandmother laughed and said that our poets, from Saadi to Hafez, have written hundreds of poems about the rose and the nightingale, and for them the nightingale is always the lover and the rose always the beloved.",
+     "faV": "مادَربُزُرگ خَندید و گُفت که شاعِرانِ ما، اَز سَعدی تا حافِظ، صَدها بار دَرباره‌یِ گُل و بُلبُل شِعر گُفته‌اَند و بَرایِ آن‌ها بُلبُل هَمیشه عاشِق اَست و گُل هَمیشه مَعشوق.",
+     "a": "fd3da700f3d5"
+    },
+    {
+     "fa": "سپس گفت: «عشق واقعی یعنی همین: درد خار را تحمل کنی و باز هم آواز بخوانی.»",
+     "r": "sepas goft: «'eshgh-e vāghe'i ya'ni hamin: dard-e khār rā tahammol koni o bāz ham āvāz be-khāni.»",
+     "en": "Then she said: \"That is what real love means: to bear the pain of the thorn and still sing.\"",
+     "faV": "سِپَس گُفت: «عِشقِ واقِعی یَعنی هَمین: دَردِ خار را تَحَمُّل کُنی و باز هَم آواز بِخوانی.»",
+     "a": "4152deea168a"
+    }
    ]
   }
  ],
  "vocab": [
-  {"fa": "بلبل", "r": "bolbol", "en": "nightingale"},
-  {"fa": "گل سرخ", "r": "gol-e sorkh", "en": "rose (literally 'red flower')"},
-  {"fa": "شاخه", "r": "shākhe", "en": "branch"},
-  {"fa": "آواز خواندن", "r": "āvāz khāndan", "en": "to sing"},
-  {"fa": "دل باختن", "r": "del bākhtan", "en": "to lose one's heart, fall in love"},
-  {"fa": "مغرور", "r": "maghrur", "en": "proud"},
-  {"fa": "عاشق", "r": "āshegh", "en": "lover; in love"},
-  {"fa": "معشوق", "r": "ma'shugh", "en": "beloved"},
-  {"fa": "خار", "r": "khār", "en": "thorn"},
-  {"fa": "سینه", "r": "sine", "en": "breast, chest"},
-  {"fa": "قطره", "r": "ghatre", "en": "drop"},
-  {"fa": "گلبرگ", "r": "golbarg", "en": "petal"},
-  {"fa": "باغبان", "r": "bāghbān", "en": "gardener"},
-  {"fa": "فداکاری", "r": "fadākāri", "en": "self-sacrifice"},
-  {"fa": "شکوفا شدن", "r": "shekufā shodan", "en": "to bloom"},
-  {"fa": "تحمل کردن", "r": "tahammol kardan", "en": "to bear, endure"}
+  {
+   "fa": "بلبل",
+   "r": "bolbol",
+   "en": "nightingale",
+   "faV": "بُلبُل",
+   "a": "0122ecd6252e"
+  },
+  {
+   "fa": "گل سرخ",
+   "r": "gol-e sorkh",
+   "en": "rose (literally 'red flower')",
+   "faV": "گُلِ سُرخ",
+   "a": "dfc069631dc3"
+  },
+  {
+   "fa": "شاخه",
+   "r": "shākhe",
+   "en": "branch",
+   "faV": "شاخه",
+   "a": "698c3f808314"
+  },
+  {
+   "fa": "آواز خواندن",
+   "r": "āvāz khāndan",
+   "en": "to sing",
+   "faV": "آواز خواندَن",
+   "a": "3f589e81fb52"
+  },
+  {
+   "fa": "دل باختن",
+   "r": "del bākhtan",
+   "en": "to lose one's heart, fall in love",
+   "faV": "دِل باختَن",
+   "a": "c0e129553dae"
+  },
+  {
+   "fa": "مغرور",
+   "r": "maghrur",
+   "en": "proud",
+   "faV": "مَغرور",
+   "a": "5dcbe1e612e3"
+  },
+  {
+   "fa": "عاشق",
+   "r": "āshegh",
+   "en": "lover; in love",
+   "faV": "عاشِق",
+   "a": "9cd5308e8525"
+  },
+  {
+   "fa": "معشوق",
+   "r": "ma'shugh",
+   "en": "beloved",
+   "faV": "مَعشوق",
+   "a": "ea3eaffba94a"
+  },
+  {
+   "fa": "خار",
+   "r": "khār",
+   "en": "thorn",
+   "faV": "خار",
+   "a": "f72ea8c7b964"
+  },
+  {
+   "fa": "سینه",
+   "r": "sine",
+   "en": "breast, chest",
+   "faV": "سینه",
+   "a": "5e7e5742fe9a"
+  },
+  {
+   "fa": "قطره",
+   "r": "ghatre",
+   "en": "drop",
+   "faV": "قَطره",
+   "a": "d5221173859a"
+  },
+  {
+   "fa": "گلبرگ",
+   "r": "golbarg",
+   "en": "petal",
+   "faV": "گُلبَرگ",
+   "a": "219c55c9458e"
+  },
+  {
+   "fa": "باغبان",
+   "r": "bāghbān",
+   "en": "gardener",
+   "faV": "باغبان",
+   "a": "ab5f6618a6ec"
+  },
+  {
+   "fa": "فداکاری",
+   "r": "fadākāri",
+   "en": "self-sacrifice",
+   "faV": "فَداکاری",
+   "a": "0bd841381823"
+  },
+  {
+   "fa": "شکوفا شدن",
+   "r": "shekufā shodan",
+   "en": "to bloom",
+   "faV": "شِکوفا شُدَن",
+   "a": "91aa87ebc6ae"
+  },
+  {
+   "fa": "تحمل کردن",
+   "r": "tahammol kardan",
+   "en": "to bear, endure",
+   "faV": "تَحَمُّل کَردَن",
+   "a": "ea5a45b18e7c"
+  }
  ],
  "questions": [
-  {"q": "Where are Sara and her grandmother when the story is told?", "options": ["at home in Tehran", "in the Eram Garden in Shiraz", "at a flower market"], "answer": 1},
-  {"q": "How did the nightingale learn to sing?", "options": ["the rose taught him", "his words to the rose became so beautiful that they turned into song", "he copied the gardener"], "answer": 1},
-  {"q": "What did the rose ask the nightingale to prove?", "options": ["that he was not afraid of her thorns", "that he could fly higher than other birds", "that he would stay all winter"], "answer": 0},
-  {"q": "Why did the white rose turn red?", "options": ["the gardener painted it", "the nightingale's blood fell on its petals", "the autumn sun burned it"], "answer": 1},
-  {"q": "What did Sara ask her grandmother at the end?", "options": ["whether the story was true", "why roses have thorns", "where nightingales go in winter"], "answer": 0}
+  {
+   "q": "Where are Sara and her grandmother when the story is told?",
+   "options": [
+    "at home in Tehran",
+    "in the Eram Garden in Shiraz",
+    "at a flower market"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "How did the nightingale learn to sing?",
+   "options": [
+    "the rose taught him",
+    "his words to the rose became so beautiful that they turned into song",
+    "he copied the gardener"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What did the rose ask the nightingale to prove?",
+   "options": [
+    "that he was not afraid of her thorns",
+    "that he could fly higher than other birds",
+    "that he would stay all winter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Why did the white rose turn red?",
+   "options": [
+    "the gardener painted it",
+    "the nightingale's blood fell on its petals",
+    "the autumn sun burned it"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What did Sara ask her grandmother at the end?",
+   "options": [
+    "whether the story was true",
+    "why roses have thorns",
+    "where nightingales go in winter"
+   ],
+   "answer": 0
+  }
  ],
- "after": "گل و بلبل is one of the great pairs of Persian poetry, like شمع و پروانه 'the candle and the moth': the nightingale sings his longing, the rose is beautiful, proud and short-lived, and the thorn (خار) is the pain that comes with love. Notice that Persian uses the one word گل for both 'flower' and 'rose'; when it matters, a rose is گل سرخ 'red flower' or گل محمدی, the fragrant Damask rose of Kashan's rosewater. Grammar to notice: a reported yes/no question uses که آیا – سارا پرسید که آیا این داستان واقعی است – and, as always in Persian, the original tense stays (است, not 'was')."
+ "after": "گل و بلبل is one of the great pairs of Persian poetry, like شمع و پروانه 'the candle and the moth': the nightingale sings his longing, the rose is beautiful, proud and short-lived, and the thorn (خار) is the pain that comes with love. Notice that Persian uses the one word گل for both 'flower' and 'rose'; when it matters, a rose is گل سرخ 'red flower' or گل محمدی, the fragrant Damask rose of Kashan's rosewater. Grammar to notice: a reported yes/no question uses که آیا – سارا پرسید که آیا این داستان واقعی است – and, as always in Persian, the original tense stays (است, not 'was').",
+ "titleV": "گُل و بُلبُل",
+ "titleA": "e04e01b2831f"
 }

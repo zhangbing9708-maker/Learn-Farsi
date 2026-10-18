@@ -103,6 +103,8 @@ Academic and official Persian, translation, rhetoric, calligraphy and the words 
 1. [Academic Persian: how scholars write](lessons/c1-01-academic-persian.md) — فارسی دانشگاهی
 2. [Translation workshop](lessons/c1-02-translation-workshop.md) — کارگاه ترجمه
 3. [Rhetoric and style: figures of speech and making a speech](lessons/c1-03-rhetoric-and-style.md) — بلاغت و سبک
+4. [Persian words in English](lessons/c1-04-persian-words-in-english.md) — واژه‌های فارسی در انگلیسی
+5. [Calligraphy and the written word](lessons/c1-05-calligraphy-and-the-written-word.md) — خوشنویسی و کلمه‌ی مکتوب
 
 ## Part 7. Stories — داستان‌ها
 
@@ -172,6 +174,12 @@ Graded readers, from very easy to literary.
 - [Kalila and Dimna: the lion and the ox](stories/b1-kalila-and-dimna.md) — کلیله و دمنه: شیر و گاو
 - [The old woman and Sultan Sanjar](stories/b1-the-old-woman-and-sultan-sanjar.md) — پیرزن و سلطان سنجر
 - [Bald Hasan](stories/b1-hasan-kachal.md) — حسن کچل
+- [The nightingale and the rose](stories/b1-the-nightingale-and-the-rose.md) — گل و بلبل
+- [A wedding in Isfahan](stories/b1-a-wedding-in-isfahan.md) — عروسی در اصفهان
+- [Tom goes to the doctor in Shiraz](stories/b1-tom-goes-to-the-doctor-in-shiraz.md) — تام در شیراز به دکتر می‌رود
+- [Mr Karimi's Persian cat](stories/b1-the-persian-cat-of-mr-karimi.md) — گربه‌ی ایرانی آقای کریمی
+- [The dizi house](stories/b1-the-dizi-house.md) — دیزی‌سرا
+- [A night in the desert](stories/b1-a-night-in-the-desert.md) — شبی در کویر
 
 **Upper intermediate (B2)**
 
@@ -211,8 +219,11 @@ Graded readers, from very easy to literary.
 - [Nader Shah](culture/history-nader-shah.md) — نادرشاه
 - [Karim Khan Zand and Shiraz](culture/history-karim-khan-zand-and-shiraz.md) — کریم‌خان زند و شیراز
 - [The Qajar century](culture/history-qajar-century.md) — دوران قاجار
+- [The Tobacco Protest](culture/history-the-tobacco-protest.md) — نهضت تنباکو
 - [From the Constitutional Revolution to the Pahlavis](culture/history-constitutional-revolution-to-pahlavi.md) — از انقلاب مشروطه تا پهلوی
+- [Reza Shah and modernisation](culture/history-reza-shah-and-modernisation.md) — رضاشاه و نوسازی ایران
 - [Iran since 1979](culture/history-iran-since-1979.md) — ایران پس از انقلاب
+- [The Iran–Iraq War](culture/history-the-iran-iraq-war.md) — جنگ ایران و عراق
 - [The Persian language through history](culture/history-the-persian-language.md) — زبان فارسی در گذر تاریخ
 
 **Places**
@@ -258,6 +269,10 @@ Graded readers, from very easy to literary.
 - [Recipe: baghali polo](culture/food-recipe-baghali-polo.md) — باقالی‌پلو
 - [Recipe: ash reshteh](culture/food-recipe-ash-reshteh.md) — آش رشته
 - [Recipe: joojeh kabab](culture/food-recipe-joojeh-kabab.md) — جوجه‌کباب
+- [Recipe: kabab koobideh](culture/food-recipe-kabab-koobideh.md) — کباب کوبیده
+- [Recipe: dolmeh (stuffed vine leaves)](culture/food-recipe-dolmeh.md) — دلمه‌ی برگ مو
+- [Recipe: sholeh zard](culture/food-recipe-sholeh-zard.md) — شله‌زرد
+- [Recipe: Persian halva](culture/food-recipe-halva.md) — حلوا
 
 **Festivals**
 

@@ -36,17 +36,25 @@
    "r": "morgh rā tekke-tekke konid.",
    "en": "Cut the chicken into pieces.",
    "col": "مرغو تیکه‌تیکه کن.",
-   "colR": "morgh-o tike-tike kon."
+   "colR": "morgh-o tike-tike kon.",
+   "faV": "مُرغ را تِکّه‌تِکّه کُنید.",
+   "a": "2383fad168b5",
+   "colV": "مُرغو تیکه‌تیکه کُن.",
+   "colA": "6d2293fd3018"
   },
   {
    "fa": "زعفران را با کمی شکر بسابید و آب جوش رویش بریزید.",
    "r": "za'farān rā bā kami shekar be-sābid va āb-e jush ru-yash be-rizid.",
-   "en": "Grind the saffron with a little sugar and pour boiling water over it."
+   "en": "Grind the saffron with a little sugar and pour boiling water over it.",
+   "faV": "زَعفَران را با کَمی شِکَر بِسابید و آبِ جوش رویَش بِریزید.",
+   "a": "faf719923d71"
   },
   {
    "fa": "مرغ را با پیاز، آبلیمو و زعفران مخلوط کنید.",
    "r": "morgh rā bā piyāz, āb-limu va za'farān makhlut konid.",
-   "en": "Mix the chicken with the onion, lemon juice and saffron."
+   "en": "Mix the chicken with the onion, lemon juice and saffron.",
+   "faV": "مُرغ را با پیاز، آبلیمو و زَعفَران مَخلوط کُنید.",
+   "a": "12eabcd1ec97"
   },
   {
    "fa": "بگذارید مرغ یک شب در یخچال بخوابد.",
@@ -54,70 +62,200 @@
    "en": "Let the chicken marinate in the fridge overnight.",
    "lit": "let the chicken sleep one night in the fridge",
    "col": "بذار مرغ یه شب تو یخچال بخوابه.",
-   "colR": "be-zār morgh ye shab tu yakhchāl be-khābe."
+   "colR": "be-zār morgh ye shab tu yakhchāl be-khābe.",
+   "faV": "بِگُذارید مُرغ یِک شَب دَر یَخچال بِخوابَد.",
+   "a": "e4d840a90994",
+   "colV": "بِذار مُرغ یه شَب تو یَخچال بِخوابه.",
+   "colA": "2b73345afdf2"
   },
   {
    "fa": "زغال را روشن کنید و صبر کنید تا سرخ شود.",
    "r": "zoghāl rā rowshan konid va sabr konid tā sorkh shavad.",
-   "en": "Light the charcoal and wait until it glows red."
+   "en": "Light the charcoal and wait until it glows red.",
+   "faV": "زُغال را رَوشَن کُنید و صَبر کُنید تا سُرخ شَوَد.",
+   "a": "f097d971e9e9"
   },
   {
    "fa": "تکه‌های مرغ را به سیخ بکشید.",
    "r": "tekke-hā-ye morgh rā be sikh be-keshid.",
    "en": "Thread the pieces of chicken onto the skewers.",
    "col": "مرغا رو به سیخ بکش.",
-   "colR": "morgh-ā ro be sikh be-kesh."
+   "colR": "morgh-ā ro be sikh be-kesh.",
+   "faV": "تِکّه‌هایِ مُرغ را به سیخ بِکِشید.",
+   "a": "74ac612020ac",
+   "colV": "مُرغا رو به سیخ بِکِش.",
+   "colA": "c973cb5b4150"
   },
   {
    "fa": "سیخ‌ها را مرتب بچرخانید تا مرغ نسوزد.",
    "r": "sikh-hā rā morattab be-charkhānid tā morgh na-suzad.",
-   "en": "Turn the skewers often so the chicken doesn't burn."
+   "en": "Turn the skewers often so the chicken doesn't burn.",
+   "faV": "سیخ‌ها را مُرَتَّب بِچَرخانید تا مُرغ نَسوزَد.",
+   "a": "6d0cac152102"
   },
   {
    "fa": "با بادبزن زغال را باد بزنید.",
    "r": "bā bādbezan zoghāl rā bād be-zanid.",
-   "en": "Fan the coals with a hand fan."
+   "en": "Fan the coals with a hand fan.",
+   "faV": "با بادبِزَن زُغال را باد بِزَنید.",
+   "a": "595eefacb13e"
   },
   {
    "fa": "آخر کار روی جوجه کره‌ی زعفرانی بمالید.",
    "r": "ākhar-e kār ru-ye juje kare-ye za'farāni be-mālid.",
-   "en": "At the end, brush saffron butter over the chicken."
+   "en": "At the end, brush saffron butter over the chicken.",
+   "faV": "آخَرِ کار رویِ جوجه کَره‌یِ زَعفَرانی بِمالید.",
+   "a": "3cf19fbcaf22"
   },
   {
    "fa": "گوجه‌ها را هم کنار جوجه کباب کنید.",
    "r": "gowje-hā rā ham kenār-e juje kabāb konid.",
-   "en": "Grill the tomatoes next to the chicken too."
+   "en": "Grill the tomatoes next to the chicken too.",
+   "faV": "گَوجه‌ها را هَم کِنارِ جوجه کَباب کُنید.",
+   "a": "2bed0a4623f2"
   },
   {
    "fa": "جمعه‌ها خیلی از خانواده‌ها در پارک جوجه‌کباب درست می‌کنند.",
    "r": "jom'e-hā kheyli az khānevāde-hā dar pārk juje-kabāb dorost mi-konand.",
-   "en": "On Fridays lots of families make joojeh kabab in the park."
+   "en": "On Fridays lots of families make joojeh kabab in the park.",
+   "faV": "جُمعه‌ها خَیلی اَز خانِواده‌ها دَر پارک جوجه‌کَباب دُرُست می‌کُنَند.",
+   "a": "6868f7fad755"
   },
   {
    "fa": "جوجه‌کباب را با دوغ و نان لواش بخورید.",
    "r": "juje-kabāb rā bā dugh o nān-e lavāsh be-khorid.",
-   "en": "Eat the joojeh kabab with doogh and lavash bread."
+   "en": "Eat the joojeh kabab with doogh and lavash bread.",
+   "faV": "جوجه‌کَباب را با دوغ و نانِ لَواش بِخورید.",
+   "a": "78542fa558c1"
   }
  ],
  "vocab": [
-  {"fa": "جوجه", "r": "juje", "en": "chick, young chicken"},
-  {"fa": "جوجه‌کباب", "r": "juje-kabāb", "en": "joojeh kabab, grilled chicken"},
-  {"fa": "سیخ", "r": "sikh", "en": "skewer"},
-  {"fa": "زغال", "r": "zoghāl", "en": "charcoal"},
-  {"fa": "منقل", "r": "manghal", "en": "charcoal grill, brazier"},
-  {"fa": "بادبزن", "r": "bādbezan", "en": "hand fan"},
-  {"fa": "آبلیمو", "r": "āb-limu", "en": "lemon or lime juice"},
-  {"fa": "دوغ", "r": "dugh", "en": "doogh, salty yoghurt drink"},
-  {"fa": "سماق", "r": "somāgh", "en": "sumac"},
-  {"fa": "تکه", "r": "tekke", "en": "piece"},
-  {"fa": "خواباندن", "r": "khābāndan", "en": "to marinate; lit. to put to sleep"},
-  {"fa": "به سیخ کشیدن", "r": "be sikh keshidan", "en": "to thread onto skewers"},
-  {"fa": "چرخاندن", "r": "charkhāndan", "en": "to turn"},
-  {"fa": "مالیدن", "r": "mālidan", "en": "to rub, to brush on"},
-  {"fa": "روشن کردن", "r": "rowshan kardan", "en": "to light, to switch on"},
-  {"fa": "باد زدن", "r": "bād zadan", "en": "to fan"},
-  {"fa": "سابیدن", "r": "sābidan", "en": "to grind, to rub"},
-  {"fa": "مرتب", "r": "morattab", "en": "regularly; tidy"}
+  {
+   "fa": "جوجه",
+   "r": "juje",
+   "en": "chick, young chicken",
+   "faV": "جوجه",
+   "a": "5d8b1ae0ba7a"
+  },
+  {
+   "fa": "جوجه‌کباب",
+   "r": "juje-kabāb",
+   "en": "joojeh kabab, grilled chicken",
+   "faV": "جوجه‌کَباب",
+   "a": "0ba0d6b954c6"
+  },
+  {
+   "fa": "سیخ",
+   "r": "sikh",
+   "en": "skewer",
+   "faV": "سیخ",
+   "a": "4457914c8f57"
+  },
+  {
+   "fa": "زغال",
+   "r": "zoghāl",
+   "en": "charcoal",
+   "faV": "زُغال",
+   "a": "1b047aa111e6"
+  },
+  {
+   "fa": "منقل",
+   "r": "manghal",
+   "en": "charcoal grill, brazier",
+   "faV": "مَنقَل",
+   "a": "22652e1b5789"
+  },
+  {
+   "fa": "بادبزن",
+   "r": "bādbezan",
+   "en": "hand fan",
+   "faV": "بادبِزَن",
+   "a": "0188e108aaef"
+  },
+  {
+   "fa": "آبلیمو",
+   "r": "āb-limu",
+   "en": "lemon or lime juice",
+   "faV": "آبلیمو",
+   "a": "374e02cecc6e"
+  },
+  {
+   "fa": "دوغ",
+   "r": "dugh",
+   "en": "doogh, salty yoghurt drink",
+   "faV": "دوغ",
+   "a": "95cc5efa5903"
+  },
+  {
+   "fa": "سماق",
+   "r": "somāgh",
+   "en": "sumac",
+   "faV": "سُماق",
+   "a": "cc1d6138e2d6"
+  },
+  {
+   "fa": "تکه",
+   "r": "tekke",
+   "en": "piece",
+   "faV": "تِکّه",
+   "a": "9b2384f0c688"
+  },
+  {
+   "fa": "خواباندن",
+   "r": "khābāndan",
+   "en": "to marinate; lit. to put to sleep",
+   "faV": "خواباندَن",
+   "a": "42e0de81cf04"
+  },
+  {
+   "fa": "به سیخ کشیدن",
+   "r": "be sikh keshidan",
+   "en": "to thread onto skewers",
+   "faV": "به سیخ کِشیدَن",
+   "a": "da1922a0f42b"
+  },
+  {
+   "fa": "چرخاندن",
+   "r": "charkhāndan",
+   "en": "to turn",
+   "faV": "چَرخاندَن",
+   "a": "f1b55808a68d"
+  },
+  {
+   "fa": "مالیدن",
+   "r": "mālidan",
+   "en": "to rub, to brush on",
+   "faV": "مالیدَن",
+   "a": "a401245cd080"
+  },
+  {
+   "fa": "روشن کردن",
+   "r": "rowshan kardan",
+   "en": "to light, to switch on",
+   "faV": "رَوشَن کَردَن",
+   "a": "b0230e7ca481"
+  },
+  {
+   "fa": "باد زدن",
+   "r": "bād zadan",
+   "en": "to fan",
+   "faV": "باد زَدَن",
+   "a": "b11605fced87"
+  },
+  {
+   "fa": "سابیدن",
+   "r": "sābidan",
+   "en": "to grind, to rub",
+   "faV": "سابیدَن",
+   "a": "6ea1d89b9099"
+  },
+  {
+   "fa": "مرتب",
+   "r": "morattab",
+   "en": "regularly; tidy",
+   "faV": "مُرَتَّب",
+   "a": "15d04ecf6c22"
+  }
  ],
  "facts": [
   "Juje means 'chick', so joojeh kabab is literally 'chick kabab'.",
@@ -125,5 +263,7 @@
   "Iranians grill kabab on a manghal, a long charcoal grill, and fan the coals with a hand fan, a badbezan.",
   "On Fridays and holidays parks and picnic spots in Iran fill with families grilling kabab.",
   "Joojeh kabab is usually served with rice or lavash, grilled tomatoes and doogh."
- ]
+ ],
+ "titleV": "جوجه‌کَباب",
+ "titleA": "0ba0d6b954c6"
 }

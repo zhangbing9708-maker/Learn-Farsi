@@ -22,72 +22,100 @@
     {
      "fa": "روزی ملا از همسایه‌اش دیگی قرض گرفت.",
      "r": "ruz-i Mollā az hamsāye-ash dig-i gharz gereft.",
-     "en": "One day the Mulla borrowed a big cooking pot from his neighbour."
+     "en": "One day the Mulla borrowed a big cooking pot from his neighbour.",
+     "faV": "روزی مُلّا اَز هَمسایه‌اَش دیگی قَرض گِرِفت.",
+     "a": "70cfac3b8ee8"
     },
     {
      "fa": "چند روز بعد دیگ را پس برد و یک قابلمه‌ی کوچک هم در آن گذاشت.",
      "r": "chand ruz ba'd dig rā pas bord o yek ghāblame-ye kuchek ham dar ān gozāsht.",
-     "en": "A few days later he took the pot back, with a little saucepan inside it."
+     "en": "A few days later he took the pot back, with a little saucepan inside it.",
+     "faV": "چَند روز بَعد دیگ را پَس بُرد و یِک قابلَمه‌یِ کوچِک هَم دَر آن گُذاشت.",
+     "a": "a1dd73ffe397"
     },
     {
      "fa": "همسایه با تعجب پرسید: «این قابلمه چیست؟»",
      "r": "hamsāye bā ta'ajjob porsid: «in ghāblame chist?»",
-     "en": "The neighbour asked in surprise, 'What's this saucepan?'"
+     "en": "The neighbour asked in surprise, 'What's this saucepan?'",
+     "faV": "هَمسایه با تَعَجُّب پُرسید: «این قابلَمه چیست؟»",
+     "a": "312e1a02edb2"
     },
     {
      "fa": "ملا گفت: «مبارک باشد! دیگ شما زایید.»",
      "r": "Mollā goft: «mobārak bāshad! dig-e shomā zāyid.»",
-     "en": "The Mulla said, 'Congratulations! Your pot has had a baby.'"
+     "en": "The Mulla said, 'Congratulations! Your pot has had a baby.'",
+     "faV": "مُلّا گُفت: «مُبارَک باشَد! دیگِ شُما زایید.»",
+     "a": "d985c89047ad"
     },
     {
      "fa": "همسایه خندید و با خوشحالی دیگ و قابلمه را گرفت.",
      "r": "hamsāye khandid o bā khoshhāli dig o ghāblame rā gereft.",
-     "en": "The neighbour laughed and happily took the pot and the saucepan."
+     "en": "The neighbour laughed and happily took the pot and the saucepan.",
+     "faV": "هَمسایه خَندید و با خوشحالی دیگ و قابلَمه را گِرِفت.",
+     "a": "bcac45f7ef13"
     },
     {
      "fa": "مدتی گذشت و ملا دوباره دیگ را قرض خواست.",
      "r": "moddat-i gozasht o Mollā dobāre dig rā gharz khāst.",
-     "en": "Some time passed, and the Mulla asked to borrow the pot again."
+     "en": "Some time passed, and the Mulla asked to borrow the pot again.",
+     "faV": "مُدَّتی گُذَشت و مُلّا دوباره دیگ را قَرض خواست.",
+     "a": "5a4662c52da2"
     },
     {
      "fa": "همسایه این بار با کمال میل آن را به او داد.",
      "r": "hamsāye in bār bā kamāl-e meyl ān rā be u dād.",
-     "en": "This time the neighbour gave it to him most willingly."
+     "en": "This time the neighbour gave it to him most willingly.",
+     "faV": "هَمسایه این بار با کَمالِ مَیل آن را به او داد.",
+     "a": "c0e47466a794"
     },
     {
      "fa": "اما روزها و هفته‌ها گذشت و از دیگ خبری نشد.",
      "r": "ammā ruz-hā o hafte-hā gozasht o az dig khabar-i na-shod.",
-     "en": "But days and weeks went by, and there was no sign of the pot."
+     "en": "But days and weeks went by, and there was no sign of the pot.",
+     "faV": "اَمّا روزها و هَفته‌ها گُذَشت و اَز دیگ خَبَری نَشُد.",
+     "a": "527eb99e9791"
     },
     {
      "fa": "آخر همسایه به در خانه‌ی ملا رفت و دیگش را خواست.",
      "r": "ākhar hamsāye be dar-e khāne-ye Mollā raft o dig-ash rā khāst.",
-     "en": "In the end the neighbour went to the Mulla's door and asked for his pot."
+     "en": "In the end the neighbour went to the Mulla's door and asked for his pot.",
+     "faV": "آخَر هَمسایه به دَرِ خانه‌یِ مُلّا رَفت و دیگَش را خواست.",
+     "a": "7f927bb886e4"
     },
     {
      "fa": "ملا سرش را پایین انداخت و گفت: «تسلیت می‌گویم؛ دیگ شما مرد.»",
      "r": "Mollā sar-ash rā pāyin andākht o goft: «tasliyat mi-guyam; dig-e shomā mord.»",
-     "en": "The Mulla hung his head and said, 'My condolences – your pot has died.'"
+     "en": "The Mulla hung his head and said, 'My condolences – your pot has died.'",
+     "faV": "مُلّا سَرَش را پایین اَنداخت و گُفت: «تَسلیَت می‌گویَم؛ دیگِ شُما مُرد.»",
+     "a": "3eea314902a6"
     },
     {
      "fa": "همسایه فریاد زد: «دیگ که نمی‌میرد!»",
      "r": "hamsāye faryād zad: «dig ke nemi-mirad!»",
-     "en": "The neighbour shouted, 'A pot can't die!'"
+     "en": "The neighbour shouted, 'A pot can't die!'",
+     "faV": "هَمسایه فَریاد زَد: «دیگ که نِمی‌میرَد!»",
+     "a": "763614575fb0"
     },
     {
      "fa": "ملا آرام جواب داد: «وقتی باور کردی که دیگ می‌زاید، چرا باور نمی‌کنی که می‌میرد؟»",
      "r": "Mollā ārām javāb dād: «vaghti bāvar kardi ke dig mi-zāyad, cherā bāvar nemi-koni ke mi-mirad?»",
-     "en": "The Mulla answered calmly, 'When you believed that a pot could give birth, why won't you believe that it can die?'"
+     "en": "The Mulla answered calmly, 'When you believed that a pot could give birth, why won't you believe that it can die?'",
+     "faV": "مُلّا آرام جَواب داد: «وَقتی باوَر کَردی که دیگ می‌زایَد، چِرا باوَر نِمی‌کُنی که می‌میرَد؟»",
+     "a": "5b7bd301511a"
     },
     {
      "fa": "از همین حکایت ضرب‌المثلی ساخته‌اند: «دیگی که زایید، سر زا هم می‌رود.»",
      "r": "az hamin hekāyat zarb-ol-masal-i sākhte-and: «dig-i ke zāyid, sar-e zā ham mi-ravad.»",
-     "en": "A proverb has been made from this very story: 'A pot that gives birth can also die in childbirth.'"
+     "en": "A proverb has been made from this very story: 'A pot that gives birth can also die in childbirth.'",
+     "faV": "اَز هَمین حِکایَت ضَرب‌اُلمَثَلی ساخته‌اَند: «دیگی که زایید، سَرِ زا هَم می‌رَوَد.»",
+     "a": "e1af7fa25db5"
     },
     {
      "fa": "یعنی اگر از چیز عجیبی سود بردی، ضررش را هم باید قبول کنی.",
      "r": "ya'ni agar az chiz-e ajib-i sud bordi, zarar-ash rā ham bāyad ghabul koni.",
-     "en": "That is: if you profited from something strange, you must accept its losses too."
+     "en": "That is: if you profited from something strange, you must accept its losses too.",
+     "faV": "یَعنی اَگَر اَز چیزِ عَجیبی سود بُردی، ضَرَرَش را هَم بایَد قَبول کُنی.",
+     "a": "45164bd67311"
     }
    ],
    "questions": [
@@ -133,7 +161,9 @@
      "fa": "شوخی",
      "r": "shukhi",
      "en": "joke, jest; joking",
-     "pos": "n"
+     "pos": "n",
+     "faV": "شوخی",
+     "a": "ef0245fb2b59"
     },
     {
      "fa": "شوخی کردن",
@@ -143,86 +173,114 @@
      "ex": {
       "fa": "شوخی کردم، ناراحت نشو!",
       "r": "shukhi kardam, nārāhat na-sho!",
-      "en": "I was joking – don't be upset!"
-     }
+      "en": "I was joking – don't be upset!",
+      "faV": "شوخی کَردَم، ناراحَت نَشو!",
+      "a": "bb862da93f71"
+     },
+     "faV": "شوخی کَردَن",
+     "a": "3cc69d4fb98d"
     },
     {
      "fa": "جوک",
      "r": "jok",
      "en": "a joke (that you tell)",
      "pos": "n",
-     "note": "جوک گفتن / جوک تعریف کردن 'to tell a joke'"
+     "note": "جوک گفتن / جوک تعریف کردن 'to tell a joke'",
+     "faV": "جوک",
+     "a": "e1e09e2d751d"
     },
     {
      "fa": "لطیفه",
      "r": "latife",
      "en": "joke, witty anecdote (written, more formal)",
-     "pos": "n"
+     "pos": "n",
+     "faV": "لَطیفه",
+     "a": "fe919323b727"
     },
     {
      "fa": "خنده‌دار",
      "r": "khande-dār",
      "en": "funny, laughable",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "خَنده‌دار",
+     "a": "38a00dc70e8f"
     },
     {
      "fa": "بامزه",
      "r": "bā-maze",
      "en": "funny, witty; cute",
      "pos": "adj",
-     "lit": "with taste"
+     "lit": "with taste",
+     "faV": "بامَزه",
+     "a": "3d8b007b6705"
     },
     {
      "fa": "بی‌مزه",
      "r": "bi-maze",
      "en": "unfunny, lame (of a joke); tasteless",
      "pos": "adj",
-     "note": "بی‌مزه! said with a smile is a friendly groan at a bad pun"
+     "note": "بی‌مزه! said with a smile is a friendly groan at a bad pun",
+     "faV": "بی‌مَزه",
+     "a": "8222dd47d105"
     },
     {
      "fa": "شوخ‌طبع",
      "r": "shukh-tab'",
      "en": "witty, with a sense of humour",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "شوخ‌طَبع",
+     "a": "9ed066bb2915"
     },
     {
      "fa": "حاضرجواب",
      "r": "hāzer-javāb",
      "en": "quick-witted, never lost for a reply",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "حاضِرجَواب",
+     "a": "7eb40626470f"
     },
     {
      "fa": "طنز",
      "r": "tanz",
      "en": "satire; humour (as a genre)",
      "pos": "n",
-     "note": "طنزنویس (tanz-nevis) 'satirist'"
+     "note": "طنزنویس (tanz-nevis) 'satirist'",
+     "faV": "طَنز",
+     "a": "8535f3f3c9a7"
     },
     {
      "fa": "هجو",
      "r": "hajv",
      "en": "lampoon, mocking verse aimed at a person",
-     "pos": "n"
+     "pos": "n",
+     "faV": "هَجو",
+     "a": "05a1dcfa302e"
     },
     {
      "fa": "کنایه",
      "r": "kenāye",
      "en": "allusion, innuendo; a dig",
      "pos": "n",
-     "note": "نیش و کنایه (nish o kenāye) 'barbed remarks'"
+     "note": "نیش و کنایه (nish o kenāye) 'barbed remarks'",
+     "faV": "کِنایه",
+     "a": "f634e21b4900"
     },
     {
      "fa": "متلک",
      "r": "matalak",
      "en": "a snide remark; a catcall",
      "pos": "n",
-     "note": "متلک انداختن / گفتن – rude"
+     "note": "متلک انداختن / گفتن – rude",
+     "faV": "مَتَلَک",
+     "a": "7c25ac6c327e"
     },
     {
      "fa": "مسخره کردن",
      "r": "maskhare kardan",
      "en": "to mock, ridicule",
-     "pos": "v"
+     "pos": "v",
+     "faV": "مَسخَره کَردَن",
+     "a": "bdc8bf1eb53c"
     },
     {
      "fa": "دست انداختن",
@@ -234,54 +292,74 @@
       "r": "marā dast andākhte-i?",
       "en": "Are you pulling my leg?",
       "col": "منو دست انداختی؟",
-      "colR": "mano dast andākhti?"
-     }
+      "colR": "mano dast andākhti?",
+      "faV": "مَرا دَست اَنداخته‌ای؟",
+      "a": "879bffb63ce2",
+      "colV": "مَنو دَست اَنداختی؟",
+      "colA": "615162a66642"
+     },
+     "faV": "دَست اَنداختَن",
+     "a": "ebac846a0114"
     },
     {
      "fa": "جناس",
      "r": "jenās",
      "en": "pun, paronomasia (the literary term)",
-     "pos": "n"
+     "pos": "n",
+     "faV": "جِناس",
+     "a": "3d776e20aad9"
     },
     {
      "fa": "حکایت",
      "r": "hekāyat",
      "en": "tale, anecdote",
-     "pos": "n"
+     "pos": "n",
+     "faV": "حِکایَت",
+     "a": "7f092806b16b"
     },
     {
      "fa": "ضرب‌المثل",
      "r": "zarb-ol-masal",
      "en": "proverb",
-     "pos": "n"
+     "pos": "n",
+     "faV": "ضَرب‌اُلمَثَل",
+     "a": "4f94872dd9af"
     },
     {
      "fa": "قرض گرفتن",
      "r": "gharz gereftan",
      "en": "to borrow",
      "pos": "v",
-     "note": "قرض دادن 'to lend'"
+     "note": "قرض دادن 'to lend'",
+     "faV": "قَرض گِرِفتَن",
+     "a": "8f32d8661209"
     },
     {
      "fa": "ریا",
      "r": "riyā",
      "en": "hypocrisy, pretended piety",
      "pos": "n",
-     "note": "ریاکار (riyākār) 'hypocrite'"
+     "note": "ریاکار (riyākār) 'hypocrite'",
+     "faV": "ریا",
+     "a": "cdd35dd54388"
     },
     {
      "fa": "توبه",
      "r": "towbe",
      "en": "repentance",
      "pos": "n",
-     "note": "توبه کردن 'to repent'"
+     "note": "توبه کردن 'to repent'",
+     "faV": "تَوبه",
+     "a": "d36da7d95694"
     },
     {
      "fa": "از خنده روده‌بر شدن",
      "r": "az khande rude-bar shodan",
      "en": "to split one's sides laughing",
      "pos": "v",
-     "lit": "to have one's guts cut from laughter"
+     "lit": "to have one's guts cut from laughter",
+     "faV": "اَز خَنده روده‌بَر شُدَن",
+     "a": "42a80466c740"
     }
    ]
   },
@@ -296,17 +374,61 @@
      "How it feels"
     ],
     "rows": [
-     ["[[شوخی کردن|shukhi kardan]]", "to joke", "friendly"],
-     ["[[جوک تعریف کردن|jok ta'rif kardan]]", "to tell a joke", "everyday"],
-     ["[[سر به سر کسی گذاشتن|sar be sar-e kas-i gozāshtan]]", "to tease someone playfully", "friendly, between people who are close"],
-     ["[[دست انداختن|dast andākhtan]]", "to pull someone's leg, make fun of", "playful, but can sting"],
-     ["[[مسخره کردن|maskhare kardan]]", "to mock, ridicule", "unkind"],
-     ["[[متلک انداختن|matalak andākhtan]]", "to make a snide remark; to catcall", "rude"],
-     ["[[نیش زدن|nish zadan]]", "to make a barbed remark (lit. to sting)", "unkind, passive-aggressive"],
-     ["[[به شوخی گرفتن|be shukhi gereftan]]", "to take something as a joke", "neutral"],
-     ["[[جدی گرفتن|jeddi gereftan]]", "to take something seriously", "neutral"],
-     ["[[شوخی‌بردار نبودن|shukhi-bardār na-budan]]", "to be no joking matter; not to take a joke", "neutral"],
-     ["[[شوخی‌شوخی|shukhi-shukhi]]", "half in jest", "everyday"]
+     [
+      "[[شوخی کردن|shukhi kardan]]",
+      "to joke",
+      "friendly"
+     ],
+     [
+      "[[جوک تعریف کردن|jok ta'rif kardan]]",
+      "to tell a joke",
+      "everyday"
+     ],
+     [
+      "[[سر به سر کسی گذاشتن|sar be sar-e kas-i gozāshtan]]",
+      "to tease someone playfully",
+      "friendly, between people who are close"
+     ],
+     [
+      "[[دست انداختن|dast andākhtan]]",
+      "to pull someone's leg, make fun of",
+      "playful, but can sting"
+     ],
+     [
+      "[[مسخره کردن|maskhare kardan]]",
+      "to mock, ridicule",
+      "unkind"
+     ],
+     [
+      "[[متلک انداختن|matalak andākhtan]]",
+      "to make a snide remark; to catcall",
+      "rude"
+     ],
+     [
+      "[[نیش زدن|nish zadan]]",
+      "to make a barbed remark (lit. to sting)",
+      "unkind, passive-aggressive"
+     ],
+     [
+      "[[به شوخی گرفتن|be shukhi gereftan]]",
+      "to take something as a joke",
+      "neutral"
+     ],
+     [
+      "[[جدی گرفتن|jeddi gereftan]]",
+      "to take something seriously",
+      "neutral"
+     ],
+     [
+      "[[شوخی‌بردار نبودن|shukhi-bardār na-budan]]",
+      "to be no joking matter; not to take a joke",
+      "neutral"
+     ],
+     [
+      "[[شوخی‌شوخی|shukhi-shukhi]]",
+      "half in jest",
+      "everyday"
+     ]
     ]
    },
    "examples": [
@@ -315,39 +437,57 @@
      "r": "yek jok-e bā-maze barā-yat ta'rif konam?",
      "en": "Shall I tell you a funny joke?",
      "col": "یه جوک بامزه برات تعریف کنم؟",
-     "colR": "ye jok-e bā-maze barāt ta'rif konam?"
+     "colR": "ye jok-e bā-maze barāt ta'rif konam?",
+     "faV": "یِک جوکِ بامَزه بَرایَت تَعریف کُنَم؟",
+     "a": "8b1d8502a114",
+     "colV": "یه جوکِ بامَزه بَرات تَعریف کُنَم؟",
+     "colA": "5d66bc4104fa"
     },
     {
      "fa": "عمویم همیشه با بچه‌ها سر به سر می‌گذارد.",
      "r": "amu-yam hamishe bā bacche-hā sar be sar mi-gozārad.",
      "en": "My uncle is always teasing the children.",
      "col": "عموم همیشه با بچه‌ها سر به سر می‌ذاره.",
-     "colR": "amu-m hamishe bā bacche-hā sar be sar mi-zāre."
+     "colR": "amu-m hamishe bā bacche-hā sar be sar mi-zāre.",
+     "faV": "عَمویَم هَمیشه با بَچّه‌ها سَر به سَر می‌گُذارَد.",
+     "a": "17f6ea93eec9",
+     "colV": "عَموم هَمیشه با بَچّه‌ها سَر به سَر می‌ذاره.",
+     "colA": "c112e122171a"
     },
     {
      "fa": "کسی را به خاطر لهجه‌اش مسخره نکن.",
      "r": "kas-i rā be khāter-e lahje-ash maskhare na-kon.",
-     "en": "Don't mock anyone for their accent."
+     "en": "Don't mock anyone for their accent.",
+     "faV": "کَسی را به خاطِرِ لَهجه‌اَش مَسخَره نَکُن.",
+     "a": "1f99695218e6"
     },
     {
      "fa": "در خیابان به او متلک انداختند و او اعتنا نکرد.",
      "r": "dar khiyābān be u matalak andākhtand o u e'tenā na-kard.",
-     "en": "Someone made remarks at her in the street, and she ignored them."
+     "en": "Someone made remarks at her in the street, and she ignored them.",
+     "faV": "دَر خیابان به او مَتَلَک اَنداختَند و او اِعتِنا نَکَرد.",
+     "a": "828303f886a3"
     },
     {
      "fa": "حرفم را به شوخی گرفت و خندید.",
      "r": "harf-am rā be shukhi gereft o khandid.",
-     "en": "He took what I said as a joke and laughed."
+     "en": "He took what I said as a joke and laughed.",
+     "faV": "حَرفَم را به شوخی گِرِفت و خَندید.",
+     "a": "a1fc527834c1"
     },
     {
      "fa": "این موضوع شوخی‌بردار نیست.",
      "r": "in mowzu' shukhi-bardār nist.",
-     "en": "This is no joking matter."
+     "en": "This is no joking matter.",
+     "faV": "این مَوضوع شوخی‌بَردار نیست.",
+     "a": "7b6e26dac5bb"
     },
     {
      "fa": "شوخی‌شوخی حرفش را زد، ولی منظورش جدی بود.",
      "r": "shukhi-shukhi harf-ash rā zad, vali manzur-ash jeddi bud.",
-     "en": "He said it half in jest, but he meant it."
+     "en": "He said it half in jest, but he meant it.",
+     "faV": "شوخی‌شوخی حَرفَش را زَد، وَلی مَنظورَش جِدّی بود.",
+     "a": "f8d7ba770dcf"
     }
    ]
   },
@@ -362,55 +502,109 @@
      "Meaning 2 (and 3)"
     ],
     "rows": [
-     ["[[شیر|shir]]", "lion", "milk; tap"],
-     ["[[سیر|sir]]", "full (after eating)", "garlic"],
-     ["[[باز|bāz]]", "open", "again; falcon"],
-     ["[[گور|gur]]", "grave", "wild ass, onager"],
-     ["[[شانه|shāne]]", "comb", "shoulder"],
-     ["[[مهر|mehr]]", "love, kindness", "seal, stamp; the month Mehr"],
-     ["[[ماه|māh]]", "moon", "month; a beautiful face"],
-     ["[[دست|dast]]", "hand", "a set (یک دست لباس 'a suit'); a round of a game"],
-     ["کشتی", "[[کشتی|kashti|ship]]", "[[کشتی|koshti|wrestling]] – one vowel apart"],
-     ["نه", "[[نه|na|no]]", "[[نه|noh|nine]] – one vowel apart"]
+     [
+      "[[شیر|shir]]",
+      "lion",
+      "milk; tap"
+     ],
+     [
+      "[[سیر|sir]]",
+      "full (after eating)",
+      "garlic"
+     ],
+     [
+      "[[باز|bāz]]",
+      "open",
+      "again; falcon"
+     ],
+     [
+      "[[گور|gur]]",
+      "grave",
+      "wild ass, onager"
+     ],
+     [
+      "[[شانه|shāne]]",
+      "comb",
+      "shoulder"
+     ],
+     [
+      "[[مهر|mehr]]",
+      "love, kindness",
+      "seal, stamp; the month Mehr"
+     ],
+     [
+      "[[ماه|māh]]",
+      "moon",
+      "month; a beautiful face"
+     ],
+     [
+      "[[دست|dast]]",
+      "hand",
+      "a set (یک دست لباس 'a suit'); a round of a game"
+     ],
+     [
+      "کشتی",
+      "[[کشتی|kashti|ship]]",
+      "[[کشتی|koshti|wrestling]] – one vowel apart"
+     ],
+     [
+      "نه",
+      "[[نه|na|no]]",
+      "[[نه|noh|nine]] – one vowel apart"
+     ]
     ]
    },
    "examples": [
     {
      "fa": "سیر خوردم و سیر شدم.",
      "r": "sir khordam o sir shodam.",
-     "en": "I ate garlic and got full."
+     "en": "I ate garlic and got full.",
+     "faV": "سیر خوردَم و سیر شُدَم.",
+     "a": "a1b9ae168f7e"
     },
     {
      "fa": "باز در را باز گذاشتی؟",
      "r": "bāz dar rā bāz gozāshti?",
-     "en": "Did you leave the door open again?"
+     "en": "Did you leave the door open again?",
+     "faV": "باز دَر را باز گُذاشتی؟",
+     "a": "798d3ce49150"
     },
     {
      "fa": "ماه من، این ماه به دیدنم بیا.",
      "r": "māh-e man, in māh be didan-am biyā.",
-     "en": "My moon (my beauty), come and see me this month."
+     "en": "My moon (my beauty), come and see me this month.",
+     "faV": "ماهِ مَن، این ماه به دیدَنَم بیا.",
+     "a": "e967f9ea4aba"
     },
     {
      "fa": "کشتی‌گیر با کشتی به جزیره رفت.",
      "r": "koshti-gir bā kashti be jazire raft.",
-     "en": "The wrestler went to the island by ship."
+     "en": "The wrestler went to the island by ship.",
+     "faV": "کُشتی‌گیر با کَشتی به جَزیره رَفت.",
+     "a": "5d13baa3fca5"
     },
     {
      "fa": "گفتم نه، نه بار گفتم نه!",
      "r": "goftam na, noh bār goftam na!",
-     "en": "I said no – I said no nine times!"
+     "en": "I said no – I said no nine times!",
+     "faV": "گُفتَم نه، نُه بار گُفتَم نه!",
+     "a": "a88bc0e48af8"
     },
     {
      "fa": "دیوار موش دارد، موش هم گوش دارد.",
      "r": "divār mush dārad, mush ham gush dārad.",
      "en": "Walls have mice, and mice have ears.",
-     "note": "A rhyme rather than a pun – the Persian 'walls have ears'."
+     "note": "A rhyme rather than a pun – the Persian 'walls have ears'.",
+     "faV": "دیوار موش دارَد، موش هَم گوش دارَد.",
+     "a": "effc66813e54"
     },
     {
      "fa": "خرگوش گوش‌های بلندی دارد، ولی خر نیست!",
      "r": "khar-gush gush-hā-ye boland-i dārad, vali khar nist!",
      "en": "The hare has long ears, but it's no donkey!",
-     "note": "خرگوش 'hare' is literally 'donkey-ear' – a children's joke built on a compound."
+     "note": "خرگوش 'hare' is literally 'donkey-ear' – a children's joke built on a compound.",
+     "faV": "خَرگوش گوش‌هایِ بُلَندی دارَد، وَلی خَر نیست!",
+     "a": "2f35ef932c62"
     }
    ]
   },
@@ -425,14 +619,46 @@
      "Example"
     ],
     "rows": [
-     ["[[یک روز…|yek ruz…]] / [[یه روز…|ye ruz…]]", "the opening", "[[یه روز ملا می‌ره بازار|ye ruz Mollā mi-re bāzār]]"],
-     ["[[طرف|taraf]] / [[یارو|yāru]]", "'the guy', 'this fellow' (spoken)", "[[طرف می‌ره دکتر|taraf mi-re doktor]]"],
-     ["present tense", "telling the story", "[[می‌ره، می‌بینه، می‌گه|mi-re, mi-bine, mi-ge]]"],
-     ["[[می‌گوید|mi-guyad]] / [[می‌گه|mi-ge]]", "quoting, no 'that'", "[[می‌گه: «گوشت کو؟»|mi-ge: «gusht ku?»]]"],
-     ["[[تازه|tāze]]", "'and what's more…'", "[[تازه، طلبکار هم هست!|tāze, talabkār ham hast!]]"],
-     ["[[یعنی چه؟|ya'ni che?]] / [[یعنی چی؟|ya'ni chi?]]", "the straight man's question", "'what do you mean?'"],
-     ["[[خلاصه|kholāse]]", "'anyway', before the ending", "[[خلاصه، ملا برنده شد|kholāse, Mollā barande shod]]"],
-     ["[[آخرش|ākhar-esh]]", "'in the end'", "[[آخرش معلوم شد که…|ākhar-esh ma'lum shod ke…]]"]
+     [
+      "[[یک روز…|yek ruz…]] / [[یه روز…|ye ruz…]]",
+      "the opening",
+      "[[یه روز ملا می‌ره بازار|ye ruz Mollā mi-re bāzār]]"
+     ],
+     [
+      "[[طرف|taraf]] / [[یارو|yāru]]",
+      "'the guy', 'this fellow' (spoken)",
+      "[[طرف می‌ره دکتر|taraf mi-re doktor]]"
+     ],
+     [
+      "present tense",
+      "telling the story",
+      "[[می‌ره، می‌بینه، می‌گه|mi-re, mi-bine, mi-ge]]"
+     ],
+     [
+      "[[می‌گوید|mi-guyad]] / [[می‌گه|mi-ge]]",
+      "quoting, no 'that'",
+      "[[می‌گه: «گوشت کو؟»|mi-ge: «gusht ku?»]]"
+     ],
+     [
+      "[[تازه|tāze]]",
+      "'and what's more…'",
+      "[[تازه، طلبکار هم هست!|tāze, talabkār ham hast!]]"
+     ],
+     [
+      "[[یعنی چه؟|ya'ni che?]] / [[یعنی چی؟|ya'ni chi?]]",
+      "the straight man's question",
+      "'what do you mean?'"
+     ],
+     [
+      "[[خلاصه|kholāse]]",
+      "'anyway', before the ending",
+      "[[خلاصه، ملا برنده شد|kholāse, Mollā barande shod]]"
+     ],
+     [
+      "[[آخرش|ākhar-esh]]",
+      "'in the end'",
+      "[[آخرش معلوم شد که…|ākhar-esh ma'lum shod ke…]]"
+     ]
     ]
    },
    "examples": [
@@ -441,49 +667,77 @@
      "r": "yek ruz Mollā se kilu gusht mi-kharad o be khāne mi-āvarad.",
      "en": "One day the Mulla buys three kilos of meat and brings it home.",
      "col": "یه روز ملا سه کیلو گوشت می‌خره، میاره خونه.",
-     "colR": "ye ruz Mollā se kilu gusht mi-khare, miyāre khune."
+     "colR": "ye ruz Mollā se kilu gusht mi-khare, miyāre khune.",
+     "faV": "یِک روز مُلّا سه کیلو گوشت می‌خَرَد و به خانه می‌آوَرَد.",
+     "a": "cd5950636afa",
+     "colV": "یه روز مُلّا سه کیلو گوشت می‌خَره، میاره خونه.",
+     "colA": "e0f6a6a78c98"
     },
     {
      "fa": "زنش گوشت را برای مهمان‌هایش کباب می‌کند و همه را می‌خورند.",
      "r": "zan-ash gusht rā barā-ye mehmān-hā-yash kabāb mi-konad o hame rā mi-khorand.",
      "en": "His wife grills the meat for her guests, and they eat the lot.",
      "col": "زنش گوشتو واسه مهموناش کباب می‌کنه، همه‌شو می‌خورن.",
-     "colR": "zan-esh gusht-o vāse mehmun-āsh kabāb mi-kone, hame-sho mi-khoran."
+     "colR": "zan-esh gusht-o vāse mehmun-āsh kabāb mi-kone, hame-sho mi-khoran.",
+     "faV": "زَنَش گوشت را بَرایِ مِهمان‌هایَش کَباب می‌کُنَد و هَمه را می‌خورَند.",
+     "a": "d1625dc1f252",
+     "colV": "زَنِش گوشتو واسه مِهموناش کَباب می‌کُنه، هَمه‌شو می‌خورَن.",
+     "colA": "31d9b745e2b0"
     },
     {
      "fa": "شب ملا می‌پرسد: «گوشت کو؟»",
      "r": "shab Mollā mi-porsad: «gusht ku?»",
      "en": "In the evening the Mulla asks, 'Where's the meat?'",
      "col": "شب ملا می‌پرسه: «گوشت کو؟»",
-     "colR": "shab Mollā mi-porse: «gusht ku?»"
+     "colR": "shab Mollā mi-porse: «gusht ku?»",
+     "faV": "شَب مُلّا می‌پُرسَد: «گوشت کو؟»",
+     "a": "2684ff729885",
+     "colV": "شَب مُلّا می‌پُرسه: «گوشت کو؟»",
+     "colA": "4ed75ece11b5"
     },
     {
      "fa": "زن می‌گوید: «گربه خورد!»",
      "r": "zan mi-guyad: «gorbe khord!»",
      "en": "His wife says, 'The cat ate it!'",
      "col": "زنه می‌گه: «گربه خورد!»",
-     "colR": "zane mi-ge: «gorbe khord!»"
+     "colR": "zane mi-ge: «gorbe khord!»",
+     "faV": "زَن می‌گویَد: «گُربه خورد!»",
+     "a": "4b1e3f5dbb1f",
+     "colV": "زَنه می‌گه: «گُربه خورد!»",
+     "colA": "8a3a3492d051"
     },
     {
      "fa": "ملا گربه را برمی‌دارد و روی ترازو می‌گذارد: درست سه کیلو است.",
      "r": "Mollā gorbe rā bar-mi-dārad o ru-ye tarāzu mi-gozārad: dorost se kilu ast.",
      "en": "The Mulla picks up the cat and puts it on the scales: exactly three kilos.",
      "col": "ملا گربه رو برمی‌داره، می‌ذاره رو ترازو: درست سه کیلو!",
-     "colR": "Mollā gorbe ro bar-mi-dāre, mi-zāre ru tarāzu: dorost se kilu!"
+     "colR": "Mollā gorbe ro bar-mi-dāre, mi-zāre ru tarāzu: dorost se kilu!",
+     "faV": "مُلّا گُربه را بَرمی‌دارَد و رویِ تَرازو می‌گُذارَد: دُرُست سه کیلو اَست.",
+     "a": "86defeaf225e",
+     "colV": "مُلّا گُربه رو بَرمی‌داره، می‌ذاره رو تَرازو: دُرُست سه کیلو!",
+     "colA": "d7e6505955ef"
     },
     {
      "fa": "می‌گوید: «اگر این گربه است، پس گوشت کو؟ اگر این گوشت است، پس گربه کو؟»",
      "r": "mi-guyad: «agar in gorbe ast, pas gusht ku? agar in gusht ast, pas gorbe ku?»",
      "en": "He says, 'If this is the cat, where's the meat? If this is the meat, where's the cat?'",
      "col": "می‌گه: «اگه این گربه‌ست، پس گوشت کو؟ اگه این گوشته، پس گربه کو؟»",
-     "colR": "mi-ge: «age in gorbe-st, pas gusht ku? age in gushte, pas gorbe ku?»"
+     "colR": "mi-ge: «age in gorbe-st, pas gusht ku? age in gushte, pas gorbe ku?»",
+     "faV": "می‌گویَد: «اَگَر این گُربه اَست، پَس گوشت کو؟ اَگَر این گوشت اَست، پَس گُربه کو؟»",
+     "a": "eb00780a75e2",
+     "colV": "می‌گه: «اَگه این گُربه‌ست، پَس گوشت کو؟ اَگه این گوشته، پَس گُربه کو؟»",
+     "colA": "82a763c28106"
     },
     {
      "fa": "خلاصه، از آن روز گربه‌ی ملا معروف شد.",
      "r": "kholāse, az ān ruz gorbe-ye Mollā ma'ruf shod.",
      "en": "Anyway, from that day on the Mulla's cat was famous.",
      "col": "خلاصه، از اون روز گربه‌ی ملا معروف شد.",
-     "colR": "kholāse, az un ruz gorbe-ye Mollā ma'ruf shod."
+     "colR": "kholāse, az un ruz gorbe-ye Mollā ma'ruf shod.",
+     "faV": "خُلاصه، اَز آن روز گُربه‌یِ مُلّا مَعروف شُد.",
+     "a": "895492cfaeb6",
+     "colV": "خُلاصه، اَز اون روز گُربه‌یِ مُلّا مَعروف شُد.",
+     "colA": "f52bbe2324d0"
     }
    ]
   },
@@ -495,82 +749,114 @@
     {
      "fa": "عبید زاکانی، شاعر و طنزنویس قرن هشتم هجری، داستان موش و گربه را به شعر سروده است.",
      "r": "Obeyd Zākāni, shā'er o tanz-nevis-e gharn-e hashtom-e hejri, dāstān-e mush o gorbe rā be she'r sorude ast.",
-     "en": "Obeyd Zakani, poet and satirist of the eighth century of the Hijra – the fourteenth century AD – told the story of the mouse and the cat in verse."
+     "en": "Obeyd Zakani, poet and satirist of the eighth century of the Hijra – the fourteenth century AD – told the story of the mouse and the cat in verse.",
+     "faV": "عُبَید زاکانی، شاعِر و طَنزنِویسِ قَرنِ هَشتُمِ هِجری، داستانِ موش و گُربه را به شِعر سُروده اَست.",
+     "a": "dbcd1be5d796"
     },
     {
      "fa": "در کرمان گربه‌ای بود به بزرگی اژدها که همه از او می‌ترسیدند.",
      "r": "dar Kermān gorbe-i bud be bozorgi-ye ezhdehā ke hame az u mi-tarsidand.",
-     "en": "In Kerman there was a cat as big as a dragon, and everyone was afraid of him."
+     "en": "In Kerman there was a cat as big as a dragon, and everyone was afraid of him.",
+     "faV": "دَر کِرمان گُربه‌ای بود به بُزُرگیِ اِژدِها که هَمه اَز او می‌تَرسیدَند.",
+     "a": "74423f59e6a6"
     },
     {
      "fa": "روزی گربه به شرابخانه رفت تا موش شکار کند.",
      "r": "ruz-i gorbe be sharāb-khāne raft tā mush shekār konad.",
-     "en": "One day the cat went into a wine cellar to hunt mice."
+     "en": "One day the cat went into a wine cellar to hunt mice.",
+     "faV": "روزی گُربه به شَرابخانه رَفت تا موش شِکار کُنَد.",
+     "a": "bf084320924f"
     },
     {
      "fa": "موشی از خم شراب خورده بود و مست شده بود.",
      "r": "mush-i az khom-e sharāb khorde bud o mast shode bud.",
-     "en": "A mouse had drunk from a wine jar and was drunk."
+     "en": "A mouse had drunk from a wine jar and was drunk.",
+     "faV": "موشی اَز خُمِ شَراب خورده بود و مَست شُده بود.",
+     "a": "de9b24380c5f"
     },
     {
      "fa": "موش مست فریاد می‌زد: «گربه کجاست تا سرش را بکنم؟»",
      "r": "mush-e mast faryād mi-zad: «gorbe kojā-st tā sar-ash rā bekanam?»",
-     "en": "The drunken mouse was shouting, 'Where's that cat? I'll tear his head off!'"
+     "en": "The drunken mouse was shouting, 'Where's that cat? I'll tear his head off!'",
+     "faV": "موشِ مَست فَریاد می‌زَد: «گُربه کُجاست تا سَرَش را بِکَنَم؟»",
+     "a": "e103f2131572"
     },
     {
      "fa": "گربه از پشت خم بیرون پرید و موش را گرفت و خورد.",
      "r": "gorbe az posht-e khom birun parid o mush rā gereft o khord.",
-     "en": "The cat leapt out from behind the jar, caught the mouse and ate him."
+     "en": "The cat leapt out from behind the jar, caught the mouse and ate him.",
+     "faV": "گُربه اَز پُشتِ خُم بیرون پَرید و موش را گِرِفت و خورد.",
+     "a": "bc09f6058982"
     },
     {
      "fa": "بعد به مسجد رفت، دست و رویش را شست و توبه کرد.",
      "r": "ba'd be masjed raft, dast o ru-yash rā shost o towbe kard.",
-     "en": "Then he went to the mosque, washed his hands and face, and repented."
+     "en": "Then he went to the mosque, washed his hands and face, and repented.",
+     "faV": "بَعد به مَسجِد رَفت، دَست و رویَش را شُست و تَوبه کَرد.",
+     "a": "4be6e67aa864"
     },
     {
      "fa": "موشی که پشت منبر پنهان شده بود، این خبر را برای موش‌ها برد.",
      "r": "mush-i ke posht-e menbar penhān shode bud, in khabar rā barā-ye mush-hā bord.",
-     "en": "A mouse who had been hiding behind the pulpit took the news to the other mice."
+     "en": "A mouse who had been hiding behind the pulpit took the news to the other mice.",
+     "faV": "موشی که پُشتِ مِنبَر پِنهان شُده بود، این خَبَر را بَرایِ موش‌ها بُرد.",
+     "a": "6f837f182686"
     },
     {
      "fa": "موش‌ها خوشحال شدند و هفت موش را با هدیه‌های فراوان پیش گربه فرستادند.",
      "r": "mush-hā khoshhāl shodand o haft mush rā bā hediye-hā-ye farāvān pish-e gorbe ferestādand.",
-     "en": "The mice were overjoyed and sent seven mice to the cat with a mountain of presents."
+     "en": "The mice were overjoyed and sent seven mice to the cat with a mountain of presents.",
+     "faV": "موش‌ها خوشحال شُدَند و هَفت موش را با هِدیه‌هایِ فَراوان پیشِ گُربه فِرِستادَند.",
+     "a": "bff5f8cb0ccd"
     },
     {
      "fa": "هدیه‌ها شراب و کباب و کشمش و خرما و پنیر و برنج بود.",
      "r": "hediye-hā sharāb o kabāb o keshmesh o khormā o panir o berenj bud.",
-     "en": "The presents were wine, kebab, raisins, dates, cheese and rice."
+     "en": "The presents were wine, kebab, raisins, dates, cheese and rice.",
+     "faV": "هِدیه‌ها شَراب و کَباب و کِشمِش و خُرما و پَنیر و بِرِنج بود.",
+     "a": "2d61e5a06184"
     },
     {
      "fa": "گربه هدیه‌ها را دید و ناگهان پنج موش را با هم گرفت.",
      "r": "gorbe hediye-hā rā did o nāgahān panj mush rā bā ham gereft.",
-     "en": "The cat looked at the presents – and suddenly seized five of the mice at once."
+     "en": "The cat looked at the presents – and suddenly seized five of the mice at once.",
+     "faV": "گُربه هِدیه‌ها را دید و ناگَهان پَنج موش را با هَم گِرِفت.",
+     "a": "1430798e5e67"
     },
     {
      "fa": "دو موش فرار کردند و خبر را به پادشاه موش‌ها رساندند.",
      "r": "do mush farār kardand o khabar rā be pādshāh-e mush-hā resāndand.",
-     "en": "Two mice escaped and took the news to the king of the mice."
+     "en": "Two mice escaped and took the news to the king of the mice.",
+     "faV": "دو موش فَرار کَردَند و خَبَر را به پادشاهِ موش‌ها رِساندَند.",
+     "a": "d08c5dd973d6"
     },
     {
      "fa": "پادشاه لشکری بزرگ جمع کرد و گربه در جنگ اسیر شد.",
      "r": "pādshāh lashkar-i bozorg jam' kard o gorbe dar jang asir shod.",
-     "en": "The king gathered a great army, and in the battle the cat was taken prisoner."
+     "en": "The king gathered a great army, and in the battle the cat was taken prisoner.",
+     "faV": "پادشاه لَشکَری بُزُرگ جَمع کَرد و گُربه دَر جَنگ اَسیر شُد.",
+     "a": "8a4ae3fe92ee"
     },
     {
      "fa": "اما وقتی می‌خواستند او را به دار بزنند، بندها را پاره کرد و لشکر موش‌ها را پراکند.",
      "r": "ammā vaghti mi-khāstand u rā be dār bezanand, band-hā rā pāre kard o lashkar-e mush-hā rā parākand.",
-     "en": "But just as they were about to hang him, he broke his bonds and scattered the army of mice."
+     "en": "But just as they were about to hang him, he broke his bonds and scattered the army of mice.",
+     "faV": "اَمّا وَقتی می‌خواستَند او را به دار بِزَنَند، بَندها را پاره کَرد و لَشکَرِ موش‌ها را پَراکَند.",
+     "a": "3b92dea50377"
     },
     {
      "fa": "قرن‌هاست که خوانندگان در این گربه‌ی ریاکار چهره‌ی حاکمان دروغگو را می‌بینند.",
      "r": "gharn-hā-st ke khānandegān dar in gorbe-ye riyākār chehre-ye hākemān-e dorughgu rā mi-binand.",
-     "en": "For centuries readers have seen in this hypocritical cat the face of lying rulers."
+     "en": "For centuries readers have seen in this hypocritical cat the face of lying rulers.",
+     "faV": "قَرن‌هاست که خوانَندِگان دَر این گُربه‌یِ ریاکار چِهره‌یِ حاکِمانِ دُروغگو را می‌بینَند.",
+     "a": "efba380b031d"
     },
     {
      "fa": "به قول مردم: «توبه‌ی گرگ مرگ است.»",
      "r": "be ghowl-e mardom: «towbe-ye gorg marg ast.»",
-     "en": "As people say: 'A wolf's repentance is death' – it only ends when the wolf does."
+     "en": "As people say: 'A wolf's repentance is death' – it only ends when the wolf does.",
+     "faV": "به قَولِ مَردُم: «تَوبه‌یِ گُرگ مَرگ اَست.»",
+     "a": "d68846ab6c2f"
     }
    ],
    "questions": [
@@ -745,27 +1031,37 @@
     {
      "en": "I was only joking.",
      "fa": "فقط شوخی کردم.",
-     "r": "faghat shukhi kardam."
+     "r": "faghat shukhi kardam.",
+     "faV": "فَقَط شوخی کَردَم.",
+     "a": "d7a026fe08fa"
     },
     {
      "en": "Are you pulling my leg?",
      "fa": "مرا دست انداخته‌ای؟",
-     "r": "marā dast andākhte-i?"
+     "r": "marā dast andākhte-i?",
+     "faV": "مَرا دَست اَنداخته‌ای؟",
+     "a": "879bffb63ce2"
     },
     {
      "en": "This joke can't be translated.",
      "fa": "این جوک ترجمه‌شدنی نیست.",
-     "r": "in jok tarjome-shodani nist."
+     "r": "in jok tarjome-shodani nist.",
+     "faV": "این جوک تَرجُمه‌شُدَنی نیست.",
+     "a": "c3df72c33cc4"
     },
     {
      "en": "She has a great sense of humour.",
      "fa": "او خیلی شوخ‌طبع است.",
-     "r": "u kheyli shukh-tab' ast."
+     "r": "u kheyli shukh-tab' ast.",
+     "faV": "او خَیلی شوخ‌طَبع اَست.",
+     "a": "91d5ff8f50cd"
     },
     {
      "en": "Don't make fun of anyone.",
      "fa": "کسی را مسخره نکن.",
-     "r": "kas-i rā maskhare na-kon."
+     "r": "kas-i rā maskhare na-kon.",
+     "faV": "کَسی را مَسخَره نَکُن.",
+     "a": "46371f388fa2"
     }
    ]
   },
@@ -777,22 +1073,30 @@
     {
      "fa": "ملا از همسایه دیگی قرض گرفت.",
      "r": "Mollā az hamsāye dig-i gharz gereft.",
-     "en": "The Mulla borrowed a pot from the neighbour."
+     "en": "The Mulla borrowed a pot from the neighbour.",
+     "faV": "مُلّا اَز هَمسایه دیگی قَرض گِرِفت.",
+     "a": "a4b06ba4d6e4"
     },
     {
      "fa": "دیگ شما زایید.",
      "r": "dig-e shomā zāyid.",
-     "en": "Your pot has had a baby."
+     "en": "Your pot has had a baby.",
+     "faV": "دیگِ شُما زایید.",
+     "a": "d5f465f3043e"
     },
     {
      "fa": "سیر خوردم و سیر شدم.",
      "r": "sir khordam o sir shodam.",
-     "en": "I ate garlic and got full."
+     "en": "I ate garlic and got full.",
+     "faV": "سیر خوردَم و سیر شُدَم.",
+     "a": "a1b9ae168f7e"
     },
     {
      "fa": "این موضوع شوخی‌بردار نیست.",
      "r": "in mowzu' shukhi-bardār nist.",
-     "en": "This is no joking matter."
+     "en": "This is no joking matter.",
+     "faV": "این مَوضوع شوخی‌بَردار نیست.",
+     "a": "7b6e26dac5bb"
     }
    ]
   },
@@ -804,42 +1108,58 @@
     {
      "fa": "شوخی",
      "r": "shukhi",
-     "en": "joke, jest"
+     "en": "joke, jest",
+     "faV": "شوخی",
+     "a": "ef0245fb2b59"
     },
     {
      "fa": "طنز",
      "r": "tanz",
-     "en": "satire"
+     "en": "satire",
+     "faV": "طَنز",
+     "a": "8535f3f3c9a7"
     },
     {
      "fa": "جناس",
      "r": "jenās",
-     "en": "pun"
+     "en": "pun",
+     "faV": "جِناس",
+     "a": "3d776e20aad9"
     },
     {
      "fa": "متلک",
      "r": "matalak",
-     "en": "snide remark"
+     "en": "snide remark",
+     "faV": "مَتَلَک",
+     "a": "7c25ac6c327e"
     },
     {
      "fa": "بامزه",
      "r": "bā-maze",
-     "en": "funny"
+     "en": "funny",
+     "faV": "بامَزه",
+     "a": "3d8b007b6705"
     },
     {
      "fa": "بی‌مزه",
      "r": "bi-maze",
-     "en": "lame, unfunny"
+     "en": "lame, unfunny",
+     "faV": "بی‌مَزه",
+     "a": "8222dd47d105"
     },
     {
      "fa": "حاضرجواب",
      "r": "hāzer-javāb",
-     "en": "quick-witted"
+     "en": "quick-witted",
+     "faV": "حاضِرجَواب",
+     "a": "7eb40626470f"
     },
     {
      "fa": "ریا",
      "r": "riyā",
-     "en": "hypocrisy"
+     "en": "hypocrisy",
+     "faV": "ریا",
+     "a": "cdd35dd54388"
     }
    ]
   },
@@ -857,7 +1177,9 @@
       "I'm upset – stop joking!",
       "Tell me a joke!"
      ],
-     "answer": 0
+     "answer": 0,
+     "faV": "شوخی کَردَم، ناراحَت نَشو!",
+     "a": "bb862da93f71"
     },
     {
      "fa": "دیگ که نمی‌میرد!",
@@ -868,7 +1190,9 @@
       "Give me back my pot!",
       "A pot can't die!"
      ],
-     "answer": 2
+     "answer": 2,
+     "faV": "دیگ که نِمی‌میرَد!",
+     "a": "f1277dbba217"
     },
     {
      "fa": "باز در را باز گذاشتی؟",
@@ -879,9 +1203,13 @@
       "Did you leave the door open again?",
       "Is the falcon at the door?"
      ],
-     "answer": 1
+     "answer": 1,
+     "faV": "باز دَر را باز گُذاشتی؟",
+     "a": "798d3ce49150"
     }
    ]
   }
- ]
+ ],
+ "titleV": "طَنز و بازی با کَلَمات",
+ "titleA": "50b7fadf5b04"
 }

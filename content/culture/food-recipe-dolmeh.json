@@ -1,0 +1,267 @@
+{
+ "id": "food-recipe-dolmeh",
+ "topic": "food",
+ "title": "Recipe: dolmeh (stuffed vine leaves)",
+ "titleFa": "دلمه‌ی برگ مو",
+ "titleR": "dolme-ye barg-e mow",
+ "image": "dolmeh",
+ "summary": "Cook along with dolmeh: vine leaves rolled around rice, split peas, minced meat and herbs, simmered slowly and finished in a sweet-and-sour sauce.",
+ "body": [
+  {
+   "h": "Anything stuffed",
+   "md": "[[دلمه|dolme|dolmeh]] comes from Turkish *dolma*, 'stuffed', and in Persian it means any leaf or vegetable filled with rice, herbs and often meat: peppers, aubergines, tomatoes, cabbage leaves, even quinces. The best loved is [[دلمه‌ی برگ مو|dolme-ye barg-e mow|stuffed vine leaves]], little rolls of vine leaves ([[برگ مو|barg-e mow|vine leaves]]) packed tight in a pot and cooked slowly.\n\nDolmeh is cooked all over Iran and is a particular favourite in Iranian Azerbaijan, around Tabriz and Ardabil. Late spring is dolmeh season, when the vine leaves are young and tender; many families pick extra and freeze or brine them for the rest of the year. Rolling is slow work, so dolmeh is often made by several people at once for a family gathering.",
+   "image": "tabriz"
+  },
+  {
+   "h": "Ingredients (for 4)",
+   "md": "- about 50 vine leaves, fresh or from a jar ([[برگ مو|barg-e mow|vine leaves]])\n- ½ cup (100 g) rice ([[برنج|berenj|rice]])\n- ¼ cup (50 g) yellow split peas ([[لپه|lape|yellow split peas]])\n- 250 g minced lamb or beef ([[گوشت چرخ‌کرده|gusht-e charkh-karde|minced meat]])\n- 1 large onion ([[پیاز|piyāz|onion]])\n- 3 cups (about 150 g) chopped fresh herbs: parsley, dill and chives or spring onion, with a little mint and tarragon ([[ترخون|tarkhun|tarragon]])\n- 1 teaspoon turmeric, ½ teaspoon cinnamon ([[دارچین|dārchin|cinnamon]]), salt and black pepper\n- 4 tablespoons oil\n- for the sauce: ⅓ cup (80 ml) vinegar ([[سرکه|serke|vinegar]]) or lemon juice, ⅓ cup (70 g) sugar ([[شکر|shekar|sugar]]) and 1 cup (250 ml) water"
+  },
+  {
+   "h": "Method",
+   "md": "1. Boil the rice in salted water for 10 minutes and drain it. Boil the split peas separately for about 20 minutes, until just soft, and drain them.\n2. Fry the chopped onion in 2 tablespoons of oil with the turmeric until golden. Add the meat and fry until it changes colour.\n3. In a bowl mix the meat, rice, split peas, herbs, cinnamon, salt and pepper.\n4. Blanch fresh vine leaves in boiling water for 1–2 minutes; rinse jarred leaves in warm water to remove the brine. Cut off the stems.\n5. Lay a leaf shiny side down, veins up. Put a heaped teaspoon of filling near the stem end, fold the sides over it and roll it up firmly towards the tip.\n6. Line the bottom of a pot with torn or spare leaves. Pack the rolls in tightly, seam side down, in layers.\n7. Pour in 1½ cups of water and the rest of the oil. Put a small heatproof plate on top so the rolls don't open, cover and simmer on low heat for 40 minutes.\n8. Mix the vinegar, sugar and water and pour it over. Cook for another 20–30 minutes, until the rice is tender and almost all the liquid has gone.\n9. Let the dolmeh rest for 10 minutes and serve warm or at room temperature."
+  },
+  {
+   "h": "Tips",
+   "md": "- Don't overfill: the rice swells as it cooks and can burst the leaves.\n- Taste the sauce before you pour it in and balance the sour and the sweet to your liking.\n- Tough leaves? Blanch them a little longer. Torn ones are not wasted – they line the pot."
+  },
+  {
+   "h": "Serving and variations",
+   "md": "Serve dolmeh with plain yoghurt and bread. For a vegetarian version, leave out the meat and use more rice, split peas and herbs. In summer, cooks fill bell peppers ([[فلفل دلمه‌ای|felfel dolme-i|bell pepper]]), tomatoes and aubergines with the same mixture and bake them or simmer them in a tomato sauce; in winter they use cabbage leaves ([[دلمه‌ی کلم|dolme-ye kalam|stuffed cabbage]]). Some families prefer dolmeh just sour, with lemon juice and no sugar."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "برنج و لپه را جدا جدا بپزید.",
+   "r": "berenj o lape rā jodā jodā be-pazid.",
+   "en": "Cook the rice and the split peas separately.",
+   "faV": "بِرِنج و لَپه را جُدا جُدا بِپَزید.",
+   "a": "5bbaaaed049b"
+  },
+  {
+   "fa": "سبزی‌ها را ریز خرد کنید و به گوشت اضافه کنید.",
+   "r": "sabzi-hā rā riz khord konid va be gusht ezāfe konid.",
+   "en": "Chop the herbs finely and add them to the meat.",
+   "faV": "سَبزی‌ها را ریز خُرد کُنید و به گوشت اِضافه کُنید.",
+   "a": "3346eae411c8"
+  },
+  {
+   "fa": "همه‌ی مواد را خوب مخلوط کنید.",
+   "r": "hame-ye mavād rā khub makhlut konid.",
+   "en": "Mix all the ingredients well.",
+   "col": "همه‌ی موادو خوب قاطی کن.",
+   "colR": "hame-ye mavād-o khub ghāti kon.",
+   "faV": "هَمه‌یِ مَواد را خوب مَخلوط کُنید.",
+   "a": "181f5a264acc",
+   "colV": "هَمه‌یِ مَوادو خوب قاطی کُن.",
+   "colA": "d4bb7bdab80b"
+  },
+  {
+   "fa": "برگ‌های مو را یک دقیقه در آب جوش بگذارید.",
+   "r": "barg-hā-ye mow rā yek daghighe dar āb-e jush be-gozārid.",
+   "en": "Put the vine leaves in boiling water for a minute.",
+   "faV": "بَرگ‌هایِ مَو را یِک دَقیقه دَر آبِ جوش بِگُذارید.",
+   "a": "0d801cc26493"
+  },
+  {
+   "fa": "یک قاشق از مواد را وسط برگ بگذارید.",
+   "r": "yek ghāshogh az mavād rā vasat-e barg be-gozārid.",
+   "en": "Put a spoonful of the filling in the middle of the leaf.",
+   "faV": "یِک قاشُق اَز مَواد را وَسَطِ بَرگ بِگُذارید.",
+   "a": "31c527d3e104"
+  },
+  {
+   "fa": "دو طرف برگ را تا کنید و محکم بپیچید.",
+   "r": "do taraf-e barg rā tā konid va mohkam be-pichid.",
+   "en": "Fold in both sides of the leaf and roll it up tightly.",
+   "col": "دو طرف برگو تا کن و محکم بپیچ.",
+   "colR": "do taraf-e barg-o tā kon o mohkam be-pich.",
+   "faV": "دو طَرَفِ بَرگ را تا کُنید و مُحکَم بِپیچید.",
+   "a": "de4f2cf992e8",
+   "colV": "دو طَرَفِ بَرگو تا کُن و مُحکَم بِپیچ.",
+   "colA": "7166ebe85350"
+  },
+  {
+   "fa": "زیاد پر نکنید، چون برنج باد می‌کند.",
+   "r": "ziyād por na-konid, chon berenj bād mi-konad.",
+   "en": "Don't overfill them, because the rice swells.",
+   "faV": "زیاد پُر نَکُنید، چون بِرِنج باد می‌کُنَد.",
+   "a": "fbc797dfe727"
+  },
+  {
+   "fa": "دلمه‌ها را کنار هم در قابلمه بچینید.",
+   "r": "dolme-hā rā kenār-e ham dar ghāblame be-chinid.",
+   "en": "Pack the dolmeh side by side in the pot.",
+   "faV": "دُلمه‌ها را کِنارِ هَم دَر قابلَمه بِچینید.",
+   "a": "a05eb4e3841c"
+  },
+  {
+   "fa": "یک بشقاب روی دلمه‌ها بگذارید تا باز نشوند.",
+   "r": "yek boshghāb ru-ye dolme-hā be-gozārid tā bāz na-shavand.",
+   "en": "Put a plate on top of the dolmeh so they don't unroll.",
+   "faV": "یِک بُشقاب رویِ دُلمه‌ها بِگُذارید تا باز نَشَوَند.",
+   "a": "b257149372e1"
+  },
+  {
+   "fa": "سرکه و شکر را با هم بریزید تا ترش و شیرین شود.",
+   "r": "serke va shekar rā bā ham be-rizid tā torsh o shirin shavad.",
+   "en": "Add the vinegar and sugar together to make it sweet and sour.",
+   "faV": "سِرکه و شِکَر را با هَم بِریزید تا تُرش و شیرین شَوَد.",
+   "a": "f736ab340180"
+  },
+  {
+   "fa": "بگذارید دلمه یک ساعت آرام بپزد.",
+   "r": "be-gozārid dolme yek sā'at ārām be-pazad.",
+   "en": "Let the dolmeh cook gently for an hour.",
+   "col": "بذار دلمه یه ساعت آروم بپزه.",
+   "colR": "be-zār dolme ye sā'at ārum be-paze.",
+   "faV": "بِگُذارید دُلمه یِک ساعَت آرام بِپَزَد.",
+   "a": "f386cd905fe8",
+   "colV": "بِذار دُلمه یه ساعَت آروم بِپَزه.",
+   "colA": "93131a04808e"
+  },
+  {
+   "fa": "دلمه را با ماست بخورید.",
+   "r": "dolme rā bā māst be-khorid.",
+   "en": "Eat the dolmeh with yoghurt.",
+   "faV": "دُلمه را با ماست بِخورید.",
+   "a": "2d24ac79dadd"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "دلمه",
+   "r": "dolme",
+   "en": "dolmeh, stuffed leaves or vegetables",
+   "faV": "دُلمه",
+   "a": "515d4c25417e"
+  },
+  {
+   "fa": "برگ",
+   "r": "barg",
+   "en": "leaf",
+   "faV": "بَرگ",
+   "a": "29dff6707a8d"
+  },
+  {
+   "fa": "برگ مو",
+   "r": "barg-e mow",
+   "en": "vine leaves",
+   "faV": "بَرگِ مَو",
+   "a": "6b8a4d74bb1e"
+  },
+  {
+   "fa": "لپه",
+   "r": "lape",
+   "en": "yellow split peas",
+   "faV": "لَپه",
+   "a": "f4f81f24d267"
+  },
+  {
+   "fa": "ترخون",
+   "r": "tarkhun",
+   "en": "tarragon",
+   "faV": "تَرخون",
+   "a": "4eef1eaced1a"
+  },
+  {
+   "fa": "سرکه",
+   "r": "serke",
+   "en": "vinegar",
+   "faV": "سِرکه",
+   "a": "c2bf450859f8"
+  },
+  {
+   "fa": "ترش و شیرین",
+   "r": "torsh o shirin",
+   "en": "sweet and sour",
+   "faV": "تُرش و شیرین",
+   "a": "af2c3dab4af9"
+  },
+  {
+   "fa": "مواد",
+   "r": "mavād",
+   "en": "ingredients; filling",
+   "faV": "مَواد",
+   "a": "6edef971f5e3"
+  },
+  {
+   "fa": "بشقاب",
+   "r": "boshghāb",
+   "en": "plate",
+   "faV": "بُشقاب",
+   "a": "57712f423204"
+  },
+  {
+   "fa": "کلم",
+   "r": "kalam",
+   "en": "cabbage",
+   "faV": "کَلَم",
+   "a": "350f2027a72e"
+  },
+  {
+   "fa": "فلفل دلمه‌ای",
+   "r": "felfel dolme-i",
+   "en": "bell pepper",
+   "faV": "فِلفِل دُلمه‌ای",
+   "a": "bcc5736c024d"
+  },
+  {
+   "fa": "پر کردن",
+   "r": "por kardan",
+   "en": "to fill, to stuff",
+   "faV": "پُر کَردَن",
+   "a": "626bc1679094"
+  },
+  {
+   "fa": "تا کردن",
+   "r": "tā kardan",
+   "en": "to fold",
+   "faV": "تا کَردَن",
+   "a": "1ac85bc4e07d"
+  },
+  {
+   "fa": "پیچیدن",
+   "r": "pichidan",
+   "en": "to roll, to wrap",
+   "faV": "پیچیدَن",
+   "a": "77223e079be4"
+  },
+  {
+   "fa": "چیدن",
+   "r": "chidan",
+   "en": "to arrange; to pick",
+   "faV": "چیدَن",
+   "a": "65f4f065769b"
+  },
+  {
+   "fa": "باد کردن",
+   "r": "bād kardan",
+   "en": "to swell",
+   "faV": "باد کَردَن",
+   "a": "b4ee7a92f423"
+  },
+  {
+   "fa": "جدا",
+   "r": "jodā",
+   "en": "separate",
+   "faV": "جُدا",
+   "a": "a82856130f7f"
+  },
+  {
+   "fa": "محکم",
+   "r": "mohkam",
+   "en": "tight, firm",
+   "faV": "مُحکَم",
+   "a": "bee7a35aed60"
+  }
+ ],
+ "facts": [
+  "Dolmeh comes from Turkish dolma, 'stuffed', and Persian uses it for any stuffed leaf or vegetable.",
+  "Vine leaves are picked young in late spring; many families freeze or brine them for the rest of the year.",
+  "Persian calls the bell pepper felfel dolme-i, 'dolmeh pepper'.",
+  "Many Iranian cooks finish their dolmeh in a sweet-and-sour sauce of vinegar or lemon juice and sugar.",
+  "Yellow split peas, lape, are a typical Iranian addition to the rice filling."
+ ],
+ "titleV": "دُلمه‌یِ بَرگِ مَو",
+ "titleA": "d0d468aef615"
+}

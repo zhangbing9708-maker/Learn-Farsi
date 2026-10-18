@@ -8,7 +8,7 @@
  "intro": "Point at anything and ask what it is. In this lesson you learn to name the things around you, to say 'a book' and 'the books', and to link words together with the ezafe – the small sound that holds Persian sentences together.",
  "goals": [
   "ask and say what something is: in chist? in ketāb ast",
-  "use in / ān (this / that) and injā / ānjā",
+  "use in / ān (this / that) and in-jā / ān-jā",
   "make plurals with -hā",
   "say 'a …' with yek and -i",
   "link two nouns with the ezafe: ketāb-e Sārā"
@@ -125,7 +125,7 @@
   {
    "type": "text",
    "title": "Pointing at things",
-   "md": "[[این|in|this]] is for things near you, [[آن|ān|that]] for things further away – spoken *un*. Both work as a word on their own ([[این چیست؟|in chist?|what is this?]]) and in front of a noun ([[این کتاب|in ketāb|this book]]). The plurals are [[این‌ها|in-hā|these]] and [[آن‌ها|ān-hā|those]] – the same *ān-hā* you learned for *they*.\n\nFor places, use [[اینجا|injā|here]] and [[آنجا|ānjā|there]].\n\nThe useful question [[یعنی چه؟|ya'ni che?|what does it mean?]] and the word [[یعنی|ya'ni|it means]] will carry you through many conversations: *«ketāb» ya'ni book*. To ask for the English word, say [[به انگلیسی چه می‌شود؟|be engelisi che mi-shavad?|what does it become in English?]]."
+   "md": "[[این|in|this]] is for things near you, [[آن|ān|that]] for things further away – spoken *un*. Both work as a word on their own ([[این چیست؟|in chist?|what is this?]]) and in front of a noun ([[این کتاب|in ketāb|this book]]). The plurals are [[این‌ها|in-hā|these]] and [[آن‌ها|ān-hā|those]] – the same *ān-hā* you learned for *they*.\n\nFor places, use [[این‌جا|in-jā|here]] and [[آن‌جا|ān-jā|there]].\n\nThe useful question [[یعنی چه؟|ya'ni che?|what does it mean?]] and the word [[یعنی|ya'ni|it means]] will carry you through many conversations: *«ketāb» ya'ni book*. To ask for the English word, say [[به انگلیسی چه می‌شود؟|be engelisi che mi-shavad?|what does it become in English?]]."
   },
   {
    "type": "vocab",
@@ -149,19 +149,19 @@
      "a": "4e10cfbf239f"
     },
     {
-     "fa": "اینجا",
-     "r": "injā",
+     "fa": "این‌جا",
+     "r": "in-jā",
      "en": "here",
      "pos": "adv",
      "faV": "اینجا",
      "a": "c8a42200720a"
     },
     {
-     "fa": "آنجا",
-     "r": "ānjā",
+     "fa": "آن‌جا",
+     "r": "ān-jā",
      "en": "there",
      "pos": "adv",
-     "note": "spoken: unjā",
+     "note": "spoken: un-jā",
      "faV": "آنجا",
      "a": "c872c1696034"
     },
@@ -362,8 +362,8 @@
      "a": "07bb6c086931"
     },
     {
-     "fa": "دانشجوها اینجا هستند.",
-     "r": "dāneshju-hā injā hastand.",
+     "fa": "دانشجوها این‌جا هستند.",
+     "r": "dāneshju-hā in-jā hastand.",
      "en": "The students are here.",
      "faV": "دانِشجوها اینجا هَستَند.",
      "a": "145cd5ff2de7"
@@ -512,8 +512,8 @@
      "a": "b41af306674d"
     },
     {
-     "fa": "کیف من اینجا نیست. کیف من کجاست؟",
-     "r": "kif-e man injā nist. kif-e man kojā-st?",
+     "fa": "کیف من این‌جا نیست. کیف من کجاست؟",
+     "r": "kif-e man in-jā nist. kif-e man kojā-st?",
      "en": "My bag is not here. Where is my bag?",
      "faV": "کیفِ مَن اینجا نیست. کیفِ مَن کُجاست؟",
      "a": "5ecf1c025a25"
@@ -561,7 +561,7 @@
    "items": [
     "**در** is two words in one spelling: *dar* 'in' and *dar* 'door'. Context always tells you which: *dar kelās* (in the class) vs *dar-e kelās* (the class door).",
     "Learn each noun with its ezafe habit: after a final **-e** (خانه) or **-ā/-u/-i** the link sounds *-ye* and is written ی.",
-    "Spoken Persian turns **ān** into **un** everywhere: *un, unjā, un-hā*. Written Persian keeps **ān**.",
+    "Spoken Persian turns **ān** into **un** everywhere: *un, un-jā, un-hā*. Written Persian keeps **ān**.",
     "Don't translate *the*. Say the bare noun and let context do the work."
    ]
   },
@@ -787,8 +787,8 @@
      "a": "6a560a7d51f5"
     },
     {
-     "fa": "پنجره آنجاست.",
-     "r": "panjare ānjā-st.",
+     "fa": "پنجره آن‌جاست.",
+     "r": "panjare ān-jā-st.",
      "en": "The window is there.",
      "options": [
       "The window is here.",

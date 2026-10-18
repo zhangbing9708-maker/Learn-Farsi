@@ -35,82 +35,218 @@
    "r": "piyāz rā rande konid va āb-ash rā be-girid.",
    "en": "Grate the onion and squeeze out its juice.",
    "col": "پیازو رنده کن و آبشو بگیر.",
-   "colR": "piyāz-o rande kon o āb-esh-o be-gir."
+   "colR": "piyāz-o rande kon o āb-esh-o be-gir.",
+   "faV": "پیاز را رَنده کُنید و آبَش را بِگیرید.",
+   "a": "29afaf37974e",
+   "colV": "پیازو رَنده کُن و آبِشو بِگیر.",
+   "colA": "66671a1dcdbe"
   },
   {
    "fa": "گوشت را با پیاز، نمک و فلفل ورز بدهید.",
    "r": "gusht rā bā piyāz, namak o felfel varz be-dahid.",
    "en": "Knead the meat with the onion, salt and pepper.",
    "col": "گوشتو با پیاز و نمک و فلفل ورز بده.",
-   "colR": "gusht-o bā piyāz o namak o felfel varz be-de."
+   "colR": "gusht-o bā piyāz o namak o felfel varz be-de.",
+   "faV": "گوشت را با پیاز، نَمَک و فِلفِل وَرز بِدَهید.",
+   "a": "5a038c06e058",
+   "colV": "گوشتو با پیاز و نَمَک و فِلفِل وَرز بِده.",
+   "colA": "e3c7d542fcd1"
   },
   {
    "fa": "آن‌قدر ورز بدهید تا گوشت چسبناک شود.",
    "r": "ān-ghadr varz be-dahid tā gusht chasbnāk shavad.",
-   "en": "Knead until the meat becomes sticky."
+   "en": "Knead until the meat becomes sticky.",
+   "faV": "آن‌قَدر وَرز بِدَهید تا گوشت چَسبناک شَوَد.",
+   "a": "31256f45c6cb"
   },
   {
    "fa": "بگذارید گوشت یک ساعت در یخچال بماند.",
    "r": "be-gozārid gusht yek sā'at dar yakhchāl be-mānad.",
-   "en": "Let the meat rest in the fridge for an hour."
+   "en": "Let the meat rest in the fridge for an hour.",
+   "faV": "بِگُذارید گوشت یِک ساعَت دَر یَخچال بِمانَد.",
+   "a": "6da92bbdbc6e"
   },
   {
    "fa": "دستتان را خیس کنید تا گوشت به آن نچسبد.",
    "r": "dast-etān rā khis konid tā gusht be ān na-chasbad.",
-   "en": "Wet your hands so the meat doesn't stick to them."
+   "en": "Wet your hands so the meat doesn't stick to them.",
+   "faV": "دَستِتان را خیس کُنید تا گوشت به آن نَچَسبَد.",
+   "a": "4376e9b7eb1d"
   },
   {
    "fa": "گوشت را دور سیخ بپیچید و فشار بدهید.",
    "r": "gusht rā dowr-e sikh be-pichid va feshār be-dahid.",
-   "en": "Wrap the meat round the skewer and press it on."
+   "en": "Wrap the meat round the skewer and press it on.",
+   "faV": "گوشت را دَورِ سیخ بِپیچید و فِشار بِدَهید.",
+   "a": "86197c1e6079"
   },
   {
    "fa": "سیخ‌ها را اول کار مدام بچرخانید تا کباب نیفتد.",
    "r": "sikh-hā rā avval-e kār modām be-charkhānid tā kabāb na-yoftad.",
-   "en": "Turn the skewers constantly at first so the kabab doesn't fall off."
+   "en": "Turn the skewers constantly at first so the kabab doesn't fall off.",
+   "faV": "سیخ‌ها را اَوَّلِ کار مُدام بِچَرخانید تا کَباب نَیُفتَد.",
+   "a": "e97105acf992"
   },
   {
    "fa": "کباب کوبیده زود می‌پزد.",
    "r": "kabāb-e kubide zud mi-pazad.",
-   "en": "Koobideh cooks quickly."
+   "en": "Koobideh cooks quickly.",
+   "faV": "کَبابِ کوبیده زود می‌پَزَد.",
+   "a": "d739dd0cfa7d"
   },
   {
    "fa": "روی برنج کره و سماق بریزید.",
    "r": "ru-ye berenj kare va somāgh be-rizid.",
-   "en": "Put butter and sumac on the rice."
+   "en": "Put butter and sumac on the rice.",
+   "faV": "رویِ بِرِنج کَره و سُماق بِریزید.",
+   "a": "b476a0b2c956"
   },
   {
    "fa": "کباب را با گوجه‌ی کبابی و دوغ سرو کنید.",
    "r": "kabāb rā bā gowje-ye kabābi va dugh serv konid.",
-   "en": "Serve the kabab with grilled tomatoes and doogh."
+   "en": "Serve the kabab with grilled tomatoes and doogh.",
+   "faV": "کَباب را با گَوجه‌یِ کَبابی و دوغ سِرو کُنید.",
+   "a": "71156b1ef678"
   },
   {
    "fa": "یک پرس چلوکباب کوبیده می‌خواهم.",
    "r": "yek pors chelow-kabāb-e kubide mi-khāham.",
    "en": "I'd like one portion of rice with koobideh.",
    "col": "یه پرس چلوکباب کوبیده می‌خوام.",
-   "colR": "ye pors chelow-kabāb-e kubide mi-khām."
+   "colR": "ye pors chelow-kabāb-e kubide mi-khām.",
+   "faV": "یِک پُرس چِلَوکَبابِ کوبیده می‌خواهَم.",
+   "a": "ad3c5cea1285",
+   "colV": "یه پُرس چِلَوکَبابِ کوبیده می‌خوام.",
+   "colA": "80d114a37ee7"
   }
  ],
  "vocab": [
-  {"fa": "کباب", "r": "kabāb", "en": "kabab, grilled meat"},
-  {"fa": "کوبیده", "r": "kubide", "en": "pounded; koobideh kabab"},
-  {"fa": "کوبیدن", "r": "kubidan", "en": "to pound"},
-  {"fa": "گوشت چرخ‌کرده", "r": "gusht-e charkh-karde", "en": "minced meat"},
-  {"fa": "چربی", "r": "charbi", "en": "fat"},
-  {"fa": "چلوکباب", "r": "chelow-kabāb", "en": "rice with kabab"},
-  {"fa": "سیخ", "r": "sikh", "en": "skewer"},
-  {"fa": "زغال", "r": "zoghāl", "en": "charcoal"},
-  {"fa": "سماق", "r": "somāgh", "en": "sumac"},
-  {"fa": "پرس", "r": "pors", "en": "portion, serving"},
-  {"fa": "انگشت", "r": "angosht", "en": "finger"},
-  {"fa": "رنده کردن", "r": "rande kardan", "en": "to grate"},
-  {"fa": "ورز دادن", "r": "varz dādan", "en": "to knead"},
-  {"fa": "چسبناک", "r": "chasbnāk", "en": "sticky"},
-  {"fa": "چسبیدن", "r": "chasbidan", "en": "to stick"},
-  {"fa": "پیچیدن", "r": "pichidan", "en": "to wrap, to twist"},
-  {"fa": "افتادن", "r": "oftādan", "en": "to fall"},
-  {"fa": "کبابی", "r": "kabābi", "en": "grilled; kabab house"}
+  {
+   "fa": "کباب",
+   "r": "kabāb",
+   "en": "kabab, grilled meat",
+   "faV": "کَباب",
+   "a": "63d676f6f765"
+  },
+  {
+   "fa": "کوبیده",
+   "r": "kubide",
+   "en": "pounded; koobideh kabab",
+   "faV": "کوبیده",
+   "a": "b819c463d3a8"
+  },
+  {
+   "fa": "کوبیدن",
+   "r": "kubidan",
+   "en": "to pound",
+   "faV": "کوبیدَن",
+   "a": "c89f5d76187d"
+  },
+  {
+   "fa": "گوشت چرخ‌کرده",
+   "r": "gusht-e charkh-karde",
+   "en": "minced meat",
+   "faV": "گوشتِ چَرخ‌کَرده",
+   "a": "e3dd611e8d59"
+  },
+  {
+   "fa": "چربی",
+   "r": "charbi",
+   "en": "fat",
+   "faV": "چَربی",
+   "a": "fa1abd17dd79"
+  },
+  {
+   "fa": "چلوکباب",
+   "r": "chelow-kabāb",
+   "en": "rice with kabab",
+   "faV": "چِلَوکَباب",
+   "a": "631e16419f98"
+  },
+  {
+   "fa": "سیخ",
+   "r": "sikh",
+   "en": "skewer",
+   "faV": "سیخ",
+   "a": "4457914c8f57"
+  },
+  {
+   "fa": "زغال",
+   "r": "zoghāl",
+   "en": "charcoal",
+   "faV": "زُغال",
+   "a": "1b047aa111e6"
+  },
+  {
+   "fa": "سماق",
+   "r": "somāgh",
+   "en": "sumac",
+   "faV": "سُماق",
+   "a": "cc1d6138e2d6"
+  },
+  {
+   "fa": "پرس",
+   "r": "pors",
+   "en": "portion, serving",
+   "faV": "پُرس",
+   "a": "95c4c15fd1a6"
+  },
+  {
+   "fa": "انگشت",
+   "r": "angosht",
+   "en": "finger",
+   "faV": "اَنگُشت",
+   "a": "b8bc61a960c9"
+  },
+  {
+   "fa": "رنده کردن",
+   "r": "rande kardan",
+   "en": "to grate",
+   "faV": "رَنده کَردَن",
+   "a": "b9f67d713bfa"
+  },
+  {
+   "fa": "ورز دادن",
+   "r": "varz dādan",
+   "en": "to knead",
+   "faV": "وَرز دادَن",
+   "a": "b2cfe2f3cf09"
+  },
+  {
+   "fa": "چسبناک",
+   "r": "chasbnāk",
+   "en": "sticky",
+   "faV": "چَسبناک",
+   "a": "7027bd7fa38d"
+  },
+  {
+   "fa": "چسبیدن",
+   "r": "chasbidan",
+   "en": "to stick",
+   "faV": "چَسبیدَن",
+   "a": "438f09ba40a9"
+  },
+  {
+   "fa": "پیچیدن",
+   "r": "pichidan",
+   "en": "to wrap, to twist",
+   "faV": "پیچیدَن",
+   "a": "77223e079be4"
+  },
+  {
+   "fa": "افتادن",
+   "r": "oftādan",
+   "en": "to fall",
+   "faV": "اُفتادَن",
+   "a": "4f1826ccfe08"
+  },
+  {
+   "fa": "کبابی",
+   "r": "kabābi",
+   "en": "grilled; kabab house",
+   "faV": "کَبابی",
+   "a": "17aad9bcd6e4"
+  }
  ],
  "facts": [
   "Kubideh means 'pounded': before mincers existed, the meat was pounded by hand.",
@@ -118,5 +254,7 @@
   "Koobideh is grilled on wide flat skewers, which give the soft meat a broad surface to cling to.",
   "Chelow kabab, rice with kabab, is often called the national dish of Iran.",
   "Kabab soltani, 'the sultan's kabab', is a skewer of koobideh served with a skewer of kabab-e barg."
- ]
+ ],
+ "titleV": "کَبابِ کوبیده",
+ "titleA": "c80f5326a9fa"
 }

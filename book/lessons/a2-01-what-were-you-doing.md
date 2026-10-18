@@ -261,9 +261,9 @@ Ask any Tehrani about childhood and you will hear about شمال (*shomāl*, ‘
 
 **Put the words in order**
 
-1. داشتم / شام / می‌پختم. — I was cooking dinner.
-2. روز / هر / به / مترو / دانشگاه / با / می‌رفتم. — Every day I went to the university by metro.
-3. وقتی / زدی، / زنگ / می‌خوابیدم. / که — When you rang, I was sleeping.
+1. می‌پختم. / داشتم / شام — I was cooking dinner.
+2. روز / با / هر / دانشگاه / مترو / می‌رفتم. / به — Every day I went to the university by metro.
+3. که / می‌خوابیدم. / زنگ / زدی، / وقتی — When you rang, I was sleeping.
 
 <details><summary>Answers</summary>
 

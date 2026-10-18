@@ -1,0 +1,128 @@
+{
+ "id": "history-the-iran-iraq-war",
+ "topic": "history",
+ "title": "The Iran–Iraq War",
+ "titleFa": "جنگ ایران و عراق",
+ "titleR": "jang-e Irān va 'Erāgh",
+ "image": "ahvaz",
+ "summary": "From 1980 to 1988 Iran and Iraq fought one of the longest conventional wars of the twentieth century. It began with an Iraqi invasion, ended with almost no change to the border, and left hundreds of thousands dead. In Iran it shaped a generation, and its memory is everywhere.",
+ "body": [
+  {
+   "h": "Why the war began",
+   "md": "On 22 September 1980 the Iraqi army of Saddam Hussein crossed the border into Iran. The war had several causes. The oldest was the border along the [[اروندرود|Arvand-rud|Shatt al-Arab]], the river where the Tigris and Euphrates reach the Persian Gulf; a 1975 agreement had divided it down the middle, and Saddam publicly tore it up days before the invasion.\n\nThe newest was the [[انقلاب|enghelāb|revolution]] of 1979. Iran's new leaders called on Muslims across the region to follow their example, and Iraq's government, dominated by Sunni Arabs, feared its own Shia majority. At the same time Iran's army had been weakened by purges, and Iran was isolated after the seizure of the US embassy. Saddam expected a quick victory and hoped to make Iraq the leading power of the Gulf."
+  },
+  {
+   "h": "Invasion and liberation, 1980–82",
+   "md": "Iraqi forces advanced into [[خوزستان|Khuzestān|Khuzestan]], Iran's oil province. The port city of [[خرمشهر|Khorramshahr|Khorramshahr]] fell in late October 1980 after weeks of street fighting, and Abadan, with its great refinery, was besieged. But Iraq did not achieve the collapse it had hoped for. Regular soldiers, Revolutionary Guards and volunteers of the [[بسیج|basij|Basij]] stopped the advance.\n\nIn 1981 and 1982 Iran struck back. The siege of Abadan was broken, and in May 1982 Iranian forces retook Khorramshahr. The day of its liberation, 3 Khordad (24 May), is still marked every year in Iran.",
+   "image": "khuzestan"
+  },
+  {
+   "h": "A war of attrition, 1982–88",
+   "md": "Iraq now offered to end the war, but Iran demanded more, including the removal of Saddam, and in July 1982 carried the fighting into Iraq. For six years the front barely moved. Iranian offensives, often with waves of young volunteers, broke against Iraqi defences around Basra and in the marshes. Iraq used [[سلاح شیمیایی|selāh-e shimiyāyi|chemical weapons]] repeatedly against Iranian soldiers and civilians – in 1987 against the Iranian town of Sardasht – and in March 1988 against the Iraqi Kurdish town of Halabja.\n\nThe war spread beyond the front. In the 'war of the cities' both sides fired missiles at each other's capitals and towns. In the 'tanker war' they attacked oil tankers in the Persian Gulf, and the United States navy became involved. On 3 July 1988 a US warship shot down Iran Air flight 655 over the Gulf, killing all 290 people on board.",
+   "image": "persian-gulf"
+  },
+  {
+   "h": "Ceasefire",
+   "md": "In 1988 Iraq regained the territory it had lost, including the Fao peninsula. Exhausted, Iran accepted UN Security Council [[قطعنامه‌ی ۵۹۸|ghat'nāme-ye pānsad-o-navad-o-hasht|Resolution 598]] in July, and an [[آتش‌بس|ātash-bas|ceasefire]] began on 20 August 1988. The border was left almost exactly where it had been in 1980. Prisoners of war were exchanged mainly in 1990, though some returned only years later; Iranians call returned prisoners [[آزادگان|āzādegān|'the freed ones']]."
+  },
+  {
+   "h": "The human cost",
+   "md": "No one knows exactly how many people died. Estimates vary widely, but hundreds of thousands were killed on both sides, many more were wounded or disabled, and whole border cities such as Khorramshahr and Abadan were emptied and largely destroyed. Many survivors of chemical attacks still suffer from damaged lungs, eyes and skin. The cost to both economies was enormous."
+  },
+  {
+   "h": "How it is remembered",
+   "md": "In Iran the war is officially called [[دفاع مقدس|defā'-e moghaddas|the Sacred Defence]] or [[جنگ تحمیلی|jang-e tahmili|the Imposed War]], and the week that begins on 31 Shahrivar, the anniversary of the invasion, is Sacred Defence Week. Those killed are honoured as [[شهید|shahid|martyrs]]: their portraits hang on murals and lamp posts, countless streets and schools bear their names, and the war cemeteries are visited by families every Thursday. Disabled veterans are called [[جانباز|jānbāz|'those who risked their lives']].\n\nThe war is also remembered privately, in families who lost sons and fathers, in memoirs, films and songs, and in the question many Iranians and historians still ask: whether the war should have ended in 1982. In Iraq, the war years are remembered above all through the losses of a generation."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "جنگ ایران و عراق در شهریور ۱۳۵۹ شروع شد.",
+   "r": "jang-e Irān va 'Erāgh dar Shahrivar-e hezār-o-sisad-o-panjāh-o-noh shoru' shod.",
+   "en": "The Iran–Iraq war began in September 1980 (Shahrivar 1359)."
+  },
+  {
+   "fa": "ارتش عراق از مرز گذشت و وارد خوزستان شد.",
+   "r": "artesh-e 'Erāgh az marz gozasht va vāred-e Khuzestān shod.",
+   "en": "The Iraqi army crossed the border and entered Khuzestan."
+  },
+  {
+   "fa": "خرمشهر پس از چند هفته جنگ سقوط کرد.",
+   "r": "Khorramshahr pas az chand hafte jang soghut kard.",
+   "en": "Khorramshahr fell after several weeks of fighting."
+  },
+  {
+   "fa": "در خرداد ۱۳۶۱ نیروهای ایرانی خرمشهر را آزاد کردند.",
+   "r": "dar Khordād-e hezār-o-sisad-o-shast-o-yek niru-hā-ye irāni Khorramshahr rā āzād kardand.",
+   "en": "In May 1982 (Khordad 1361) Iranian forces liberated Khorramshahr."
+  },
+  {
+   "fa": "صدها هزار نفر در این جنگ کشته شدند.",
+   "r": "sad-hā hezār nafar dar in jang koshte shodand.",
+   "en": "Hundreds of thousands of people were killed in this war."
+  },
+  {
+   "fa": "عراق در این جنگ از سلاح شیمیایی استفاده کرد.",
+   "r": "'Erāgh dar in jang az selāh-e shimiyāyi estefāde kard.",
+   "en": "Iraq used chemical weapons in this war."
+  },
+  {
+   "fa": "در «جنگ شهرها» موشک‌ها به تهران و بغداد می‌خوردند.",
+   "r": "dar «jang-e shahr-hā» mushak-hā be Tehrān va Baghdād mi-khordand.",
+   "en": "In the 'war of the cities' missiles hit Tehran and Baghdad."
+  },
+  {
+   "fa": "ایران در تیر ۱۳۶۷ قطعنامه‌ی ۵۹۸ را پذیرفت.",
+   "r": "Irān dar Tir-e hezār-o-sisad-o-shast-o-haft ghat'nāme-ye pānsad-o-navad-o-hasht rā pazireft.",
+   "en": "In July 1988 (Tir 1367) Iran accepted Resolution 598."
+  },
+  {
+   "fa": "در مرداد ۱۳۶۷ آتش‌بس برقرار شد.",
+   "r": "dar Mordād-e hezār-o-sisad-o-shast-o-haft ātash-bas bargharār shod.",
+   "en": "In August 1988 (Mordad 1367) a ceasefire came into force."
+  },
+  {
+   "fa": "در ایران این جنگ را «دفاع مقدس» می‌نامند.",
+   "r": "dar Irān in jang rā «defā'-e moghaddas» mi-nāmand.",
+   "en": "In Iran this war is called 'the Sacred Defence'."
+  },
+  {
+   "fa": "نام بسیاری از خیابان‌ها نام شهیدان جنگ است.",
+   "r": "nām-e besyār-i az khiyābān-hā nām-e shahidān-e jang ast.",
+   "en": "Many streets are named after those killed in the war."
+  },
+  {
+   "fa": "جانبازان کسانی هستند که در جنگ زخمی شدند.",
+   "r": "jānbāzān kas-āni hastand ke dar jang zakhmi shodand.",
+   "en": "'Janbaz' are people who were wounded in the war."
+  }
+ ],
+ "vocab": [
+  {"fa": "جنگ", "r": "jang", "en": "war; battle"},
+  {"fa": "مرز", "r": "marz", "en": "border"},
+  {"fa": "حمله", "r": "hamle", "en": "attack"},
+  {"fa": "حمله کردن", "r": "hamle kardan", "en": "to attack"},
+  {"fa": "نیرو", "r": "niru", "en": "force; (pl.) forces, troops"},
+  {"fa": "سقوط کردن", "r": "soghut kardan", "en": "to fall (of a city, a government)"},
+  {"fa": "آزاد کردن", "r": "āzād kardan", "en": "to liberate, to free"},
+  {"fa": "رزمنده", "r": "razmande", "en": "fighter, combatant"},
+  {"fa": "شهید", "r": "shahid", "en": "martyr (someone killed for a cause)"},
+  {"fa": "جانباز", "r": "jānbāz", "en": "disabled war veteran"},
+  {"fa": "زخمی", "r": "zakhmi", "en": "wounded"},
+  {"fa": "اسیر", "r": "asir", "en": "prisoner of war, captive"},
+  {"fa": "موشک", "r": "mushak", "en": "missile, rocket"},
+  {"fa": "سلاح", "r": "selāh", "en": "weapon"},
+  {"fa": "آتش‌بس", "r": "ātash-bas", "en": "ceasefire"},
+  {"fa": "قطعنامه", "r": "ghat'nāme", "en": "resolution (of the UN, etc.)"},
+  {"fa": "آواره", "r": "āvāre", "en": "displaced, homeless (person)"},
+  {"fa": "یادبود", "r": "yādbud", "en": "memorial, commemoration"}
+ ],
+ "facts": [
+  "Iraq invaded Iran on 22 September 1980 (31 Shahrivar 1359).",
+  "Khorramshahr fell to Iraqi forces in late October 1980 and was retaken by Iran on 24 May 1982 (3 Khordad 1361).",
+  "Iraq's chemical attack on Halabja in March 1988 and on the Iranian town of Sardasht in June 1987 are among the worst chemical attacks on civilians in modern times.",
+  "Iran Air flight 655 was shot down by the USS Vincennes on 3 July 1988; all 290 people on board were killed.",
+  "Iran accepted UN Security Council Resolution 598 in July 1988, and the ceasefire took effect on 20 August 1988.",
+  "The war ended with the border almost unchanged.",
+  "In Iran, Sacred Defence Week begins on 31 Shahrivar, the anniversary of the invasion."
+ ]
+}

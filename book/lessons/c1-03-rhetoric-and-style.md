@@ -386,10 +386,10 @@ Farewells (مهمانی خداحافظی (*mehmāni-ye khodāhāfezi*, ‘a good
 
 **Put the words in order**
 
-1. بزرگترها / عرض / چند / با / اجازه‌ی / می‌کنم. / کلمه‌ای — With the elders' permission I'd like to say a few words.
-2. را / پس / سخن / سخنرانی / کوتاه / من / می‌کنم. / اهل / نیستم، — I'm no speech-maker, so I'll keep it short.
-3. سارا / برای / مثل / ماه / بود. / او — To him Sara was like the moon.
-4. از / تشریف / سپاسگزارم. / همه‌ی / شما / که / آوردید — Thank you all for coming.
+1. با / عرض / بزرگترها / می‌کنم. / چند / کلمه‌ای / اجازه‌ی — With the elders' permission I'd like to say a few words.
+2. سخنرانی / من / کوتاه / اهل / می‌کنم. / پس / سخن / نیستم، / را — I'm no speech-maker, so I'll keep it short.
+3. مثل / بود. / او / سارا / برای / ماه — To him Sara was like the moon.
+4. سپاسگزارم. / که / همه‌ی / آوردید / از / شما / تشریف — Thank you all for coming.
 
 <details><summary>Answers</summary>
 
@@ -446,4 +446,4 @@ Farewells (مهمانی خداحافظی (*mehmāni-ye khodāhāfezi*, ‘a good
 
 ---
 
-← [Translation workshop](c1-02-translation-workshop.md) · [Contents](../README.md)
+← [Translation workshop](c1-02-translation-workshop.md) · [Contents](../README.md) · [Persian words in English](c1-04-persian-words-in-english.md) →

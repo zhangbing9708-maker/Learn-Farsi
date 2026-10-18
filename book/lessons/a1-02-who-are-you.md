@@ -121,8 +121,8 @@ The negative is a separate word: نیستم (*nistam*, ‘I am not’), نیست
   *man mo'allem nistam, dāneshju hastam.* — I am not a teacher, I am a student.
 - تو اهل کجا هستی؟  
   *to ahl-e kojā hasti?* — Where are you from? (to a friend)
-- آقای کریمی اینجا نیست.  
-  *āghā-ye Karimi injā nist.* — Mr Karimi is not here.
+- آقای کریمی این‌جا نیست.  
+  *āghā-ye Karimi in-jā nist.* — Mr Karimi is not here.
 - لیلا و امیر دوست هستند.  
   *Leylā o Amir dust hastand.* — Leila and Amir are friends.  
   Spoken: لیلا و امیر دوستن. *Leylā o Amir dust-an.*
@@ -255,10 +255,10 @@ Surnames are young – they were made compulsory only in 1925 – and often tell
 
 **Put the words in order**
 
-1. اسم / شما / چیست؟ — What is your name?
+1. چیست؟ / شما / اسم — What is your name?
 2. هستم. / من / اهل / شیراز — I am from Shiraz.
-3. معلم / ما / نیست. / او — He is not our teacher.
-4. آن‌ها / هم / دانشجو / هستند. — They are students too.
+3. معلم / نیست. / او / ما — He is not our teacher.
+4. هم / آن‌ها / دانشجو / هستند. — They are students too.
 
 <details><summary>Answers</summary>
 
