@@ -415,10 +415,10 @@ Every Iranian knows the names of the heroes: Rostam with his horse Rakhsh, the w
 
 **Put the words in order**
 
-1. در / حکیمی / آن / کشتی / بود. — There was a wise man on that boat.
-2. آمد. / عجب / ملک / را — The king was amazed.
-3. هر / توانا / بود / بود / که / دانا — Whoever is wise is powerful.
-4. سال / سرودن / حدود / شاهنامه / از / سی / صرف / عمرش / را / فردوسی / کرد. — Ferdowsi spent about thirty years of his life composing the Shahnameh.
+1. حکیمی / آن / کشتی / بود. / در — There was a wise man on that boat.
+2. آمد. / را / ملک / عجب — The king was amazed.
+3. که / هر / توانا / دانا / بود / بود — Whoever is wise is powerful.
+4. سی / را / حدود / سال / شاهنامه / کرد. / عمرش / سرودن / از / صرف / فردوسی — Ferdowsi spent about thirty years of his life composing the Shahnameh.
 
 <details><summary>Answers</summary>
 

@@ -321,10 +321,10 @@ Setting off on a journey has its own rituals. The family holds a Qur'an up for t
 
 **Put the words in order**
 
-1. به / مسافران / ساعت / مشهد / رسید. / ده / خواهند — The passengers will arrive in Mashhad at ten.
-2. از / تا / ساعت / است. / صبحانه / هفت / ده — Breakfast is from seven to ten.
-3. بگذاریم؟ / می‌شود / را / چمدان‌ها / این‌جا — Can we leave the suitcases here?
-4. به / صبح / اصفهان / فردا / می‌رویم. — We're going to Isfahan tomorrow morning.
+1. ساعت / رسید. / خواهند / مسافران / ده / مشهد / به — The passengers will arrive in Mashhad at ten.
+2. تا / است. / هفت / ساعت / صبحانه / ده / از — Breakfast is from seven to ten.
+3. چمدان‌ها / را / بگذاریم؟ / می‌شود / این‌جا — Can we leave the suitcases here?
+4. فردا / می‌رویم. / صبح / به / اصفهان — We're going to Isfahan tomorrow morning.
 
 <details><summary>Answers</summary>
 

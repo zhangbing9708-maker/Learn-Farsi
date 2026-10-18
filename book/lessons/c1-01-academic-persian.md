@@ -395,10 +395,10 @@ The choice between the two vocabularies is a matter of **style**, sometimes of c
 
 **Put the words in order**
 
-1. مهم / انگیزه / که / نشان / پژوهش / است. / می‌دهد / این — This study shows that motivation is important.
-2. به / درست / که / نظر / فرضیه‌ی / است. / نخست / می‌رسد — It seems that the first hypothesis is correct.
-3. شدند. / از / پرسش‌نامه / طریق / داده‌ها / گردآوری — The data were collected by means of a questionnaire.
-4. باید / احتیاط / نتایج / با / داد. / تعمیم / را — The results should be generalised with caution.
+1. که / است. / پژوهش / انگیزه / مهم / می‌دهد / نشان / این — This study shows that motivation is important.
+2. که / می‌رسد / است. / نخست / درست / فرضیه‌ی / به / نظر — It seems that the first hypothesis is correct.
+3. گردآوری / داده‌ها / پرسش‌نامه / طریق / از / شدند. — The data were collected by means of a questionnaire.
+4. را / داد. / با / تعمیم / احتیاط / باید / نتایج — The results should be generalised with caution.
 
 <details><summary>Answers</summary>
 

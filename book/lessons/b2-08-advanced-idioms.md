@@ -359,10 +359,10 @@ The liver deserves a word. In classical poetry lovers and mystics drink خون �
 
 **Put the words in order**
 
-1. سرم / خیلی / است. / این / هفته / شلوغ — I'm very busy this week.
-2. به / زد. / دریا / مهسا / را / دلش — Mahsa took the plunge.
-3. به / راه / تو / چشم / هستیم. / همه — We are all waiting for you.
-4. بیاید. / نمی‌خورد / چشمم / که / باران / آب — I doubt it will rain.
+1. سرم / است. / هفته / خیلی / این / شلوغ — I'm very busy this week.
+2. را / زد. / مهسا / دریا / به / دلش — Mahsa took the plunge.
+3. راه / هستیم. / چشم / تو / به / همه — We are all waiting for you.
+4. که / آب / نمی‌خورد / باران / بیاید. / چشمم — I doubt it will rain.
 
 <details><summary>Answers</summary>
 

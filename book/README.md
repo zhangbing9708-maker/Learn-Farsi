@@ -194,6 +194,7 @@ Graded readers, from very easy to literary.
 - [The Sasanians and Rome](culture/history-sasanians-and-rome.md) — ساسانیان و روم
 - [Zoroaster and the fire](culture/history-zoroaster-and-the-fire.md) — زرتشت و آتش
 - [Islam and the Persian renaissance](culture/history-islam-and-the-persian-renaissance.md) — اسلام و نوزایی فارسی
+- [The Samanids and Bukhara](culture/history-samanids-and-bukhara.md) — سامانیان و بخارا
 - [The Silk Road](culture/history-the-silk-road.md) — جاده‌ی ابریشم
 - [The Mongols and the Timurids](culture/history-mongols-timurids.md) — مغول‌ها و تیموریان
 - [The Safavids and Isfahan](culture/history-safavid-isfahan.md) — صفویان و اصفهان
@@ -241,6 +242,7 @@ Graded readers, from very easy to literary.
 - [Recipe: mirza ghasemi](culture/food-recipe-mirza-ghasemi.md) — میرزاقاسمی
 - [Recipe: salad Shirazi](culture/food-recipe-salad-shirazi.md) — سالاد شیرازی
 - [Recipe: tahchin](culture/food-recipe-tahchin.md) — ته‌چین
+- [Recipe: zereshk polo ba morgh](culture/food-recipe-zereshk-polo-ba-morgh.md) — زرشک‌پلو با مرغ
 
 **Festivals**
 
