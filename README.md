@@ -13,13 +13,13 @@ Learn Farsi is written like an open textbook: every lesson, story and article is
 | | |
 | --- | --- |
 | **The course** | Six stages: the Script (8 lessons), Beginner A1 (20), Elementary A2 (16), Intermediate B1 (14), Upper intermediate B2 (9) and Advanced C1 (5). Each lesson has a dialogue or reading with recorded audio, the words to learn, grammar with tables, a culture note and self-checking exercises (multiple choice, fill-in with an on-screen Persian keyboard, word order, matching, listening, translation). |
-| **Stories** | 40 graded readers: Mulla Nasreddin, Kalila and Dimna, the Shahnameh (Rostam and Sohrab, Zal and the Simorgh, Kaveh, Arash), folk tales, history and everyday life in Tehran, Isfahan and Shiraz – every sentence with audio, transliteration and a translation you can hide. |
-| **Culture** | Illustrated articles with Wikimedia Commons photos on history (Elam to today), places (Tehran, Isfahan, Shiraz, Yazd, Kashan, Tabriz, the Caspian, the Persian Gulf islands…), food (with recipes), festivals (Nowruz, Yalda, Chaharshanbe Suri…), arts, famous people, the Persian language and everyday life – each ending with useful sentences and words. |
-| **Poetry** | Classical poems by Saadi, Rumi, Hafez, Ferdowsi, Khayyam, Rudaki, Baba Taher, Attar, Nezami, Sanai and Jami, line by line with word-by-word glosses. |
+| **Stories** | 74 graded readers (18 A1, 22 A2, 22 B1, 8 B2, 4 C1): Mulla Nasreddin, Kalila and Dimna, the Shahnameh (Rostam and Sohrab, Zal and the Simorgh, Kaveh, Arash), folk tales, history and everyday life in Tehran, Isfahan and Shiraz – every sentence with audio, transliteration and a translation you can hide. |
+| **Culture** | 116 illustrated articles with Wikimedia Commons photos: history (23, Elam to today), places (Tehran, Isfahan, Shiraz, Yazd, Kashan, Tabriz, the Caspian, the Persian Gulf islands…), food (27, including a cook-along recipe series), festivals (Nowruz, Yalda, Chaharshanbe Suri…), arts, famous people, the Persian language and everyday life – each ending with useful sentences and words. |
+| **Poetry** | 16 classical poems by Saadi, Rumi, Hafez, Ferdowsi, Khayyam, Rudaki, Baba Taher, Attar, Nezami, Sanai, Jami and Naser Khosrow, line by line with word-by-word glosses. |
 | **News** | The week's news retold in simple Persian, with vocabulary and background. |
-| **Tools** | A 5,000-word frequency dictionary with recorded pronunciation and example sentences in context, a verb conjugator (every tense, any verb), a phrasebook, proverbs and idioms, sentence-pattern grammar, Persian numbers and the Iranian calendar, and flashcards with spaced repetition (Anki export). |
+| **Tools** | A 5,000-word frequency dictionary with recorded pronunciation and example sentences in context, a verb conjugator (every tense, any verb), a phrasebook (336 phrases), 150 proverbs and idioms, sentence-pattern grammar, Persian numbers and the Iranian calendar, and flashcards with spaced repetition (Anki export). |
 
-Everything works on a phone. Progress and saved words stay in the learner's browser; nothing is tracked.
+More than 16,000 sentences and words are recorded. Every lesson, story, article and poem has a **Print** button that lays the page out on A4 (exercises become a worksheet with an answer key), and a **Save offline** button that keeps the page and its audio on the device. Everything works on a phone and can be installed like an app. Progress and saved words stay in the learner's browser; nothing is tracked.
 
 ## How to use it
 
