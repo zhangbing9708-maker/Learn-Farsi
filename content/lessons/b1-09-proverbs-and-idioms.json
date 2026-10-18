@@ -19,20 +19,170 @@
    "title": "Grandfather's advice",
    "context": "Mahsa is saving up for a trip to Japan, but her salary is small and she is losing heart. Her grandfather answers almost everything with a proverb – listen for six of them. Notice that the old ones keep their classical form even in speech.",
    "lines": [
-    {"who": "Mahsa", "fa": "پدربزرگ، می‌خواهم برای سفر به ژاپن پول جمع کنم، اما حقوقم خیلی کم است.", "r": "pedar-bozorg, mi-khāham barā-ye safar be Zhāpon pul jam' konam, ammā hoghugh-am kheyli kam ast.", "en": "Grandpa, I want to save up for a trip to Japan, but my salary is really small.", "col": "بابابزرگ، می‌خوام واسه سفر ژاپن پول جمع کنم، ولی حقوقم خیلی کمه.", "colR": "bābā-bozorg, mi-khām vāse safar-e Zhāpon pul jam' konam, vali hoghugh-am kheyli kam-e."},
-    {"who": "Grandfather", "fa": "ناامید نشو، دخترم! قطره قطره جمع گردد، وانگهی دریا شود.", "r": "nā-omid na-show, dokhtar-am! ghatre ghatre jam' gardad, vāngahi daryā shavad.", "en": "Don't lose heart, my girl! Drop by drop it gathers, and then it becomes a sea."},
-    {"who": "Mahsa", "fa": "یعنی هر ماه کمی پس‌انداز کنم؟", "r": "ya'ni har māh kam-i pas-andāz konam?", "en": "You mean I should put a little aside every month?", "col": "یعنی هر ماه یه کم پس‌انداز کنم؟", "colR": "ya'ni har māh ye kam pas-andāz konam?"},
-    {"who": "Grandfather", "fa": "بله. از تو حرکت، از خدا برکت. اول خودت شروع کن.", "r": "bale. az to harekat, az khodā barekat. avval khod-at shoru' kon.", "en": "Yes. You make a start, and God will bless it. Begin yourself.", "col": "آره. از تو حرکت، از خدا برکت. اول خودت شروع کن.", "colR": "āre. az to harekat, az khodā barekat. avval khod-et shoru' kon."},
-    {"who": "Mahsa", "fa": "ولی دوستانم می‌گویند تا پنج سال دیگر هم پولم کافی نمی‌شود.", "r": "vali dustān-am mi-guyand tā panj sāl-e digar ham pul-am kāfi nemi-shavad.", "en": "But my friends say that even in five years I won't have enough.", "col": "ولی دوستام می‌گن تا پنج سال دیگه هم پولم کافی نمی‌شه.", "colR": "vali dust-ā-m mi-gan tā panj sāl-e dige ham pul-am kāfi nemi-she."},
-    {"who": "Grandfather", "fa": "جوجه را آخر پاییز می‌شمارند. صبر کن و ببین.", "r": "juje rā ākhar-e pāyiz mi-shomārand. sabr kon o bebin.", "en": "They count the chicks at the end of autumn. Wait and see.", "col": "جوجه رو آخر پاییز می‌شمارن. صبر کن و ببین.", "colR": "juje ro ākhar-e pāyiz mi-shomāran. sabr kon o bebin."},
-    {"who": "Mahsa", "fa": "شاید بهتر باشد با سارا شریک شوم؛ او هم می‌خواهد به ژاپن برود.", "r": "shāyad behtar bāshad bā Sārā sharik shavam; u ham mi-khāhad be Zhāpon beravad.", "en": "Maybe I'd better team up with Sara; she wants to go to Japan too.", "col": "شاید بهتر باشه با سارا شریک شم؛ اونم می‌خواد بره ژاپن.", "colR": "shāyad behtar bāshe bā Sārā sharik sham; un-am mi-khād bere Zhāpon."},
-    {"who": "Grandfather", "fa": "آفرین! یک دست صدا ندارد. با هم زودتر به نتیجه می‌رسید.", "r": "āfarin! yek dast sedā na-dārad. bā ham zud-tar be natije mi-resid.", "en": "Good for you! One hand can't clap. Together you'll get there sooner.", "col": "آفرین! یه دست صدا نداره. با هم زودتر به نتیجه می‌رسین.", "colR": "āfarin! ye dast sedā na-dāre. bā ham zud-tar be natije mi-resin."},
-    {"who": "Mahsa", "fa": "فقط به کسی نگویید؛ نمی‌خواهم همه بدانند.", "r": "faghat be kas-i na-guyid; nemi-khāham hame bedānand.", "en": "Just don't tell anyone; I don't want everyone to know.", "col": "فقط به کسی نگین؛ نمی‌خوام همه بدونن.", "colR": "faghat be kas-i na-gin; nemi-khām hame bedunan."},
-    {"who": "Grandfather", "fa": "آهسته‌تر! دیوار موش دارد، موش هم گوش دارد.", "r": "āheste-tar! divār mush dārad, mush ham gush dārad.", "en": "Not so loud! Walls have ears (lit. the wall has mice, and the mice have ears).", "col": "یواش‌تر! دیوار موش داره، موشم گوش داره.", "colR": "yavāsh-tar! divār mush dāre, mush-am gush dāre."},
-    {"who": "Mahsa", "fa": "شما چرا این‌قدر ضرب‌المثل بلدید؟", "r": "shomā cherā in-ghadr zarb-ol-masal balad-id?", "en": "How come you know so many proverbs?", "col": "شما چرا این‌قدر ضرب‌المثل بلدین؟", "colR": "shomā cherā in-ghadr zarb-ol-masal balad-in?"},
-    {"who": "Grandfather", "fa": "از بس که عمر کرده‌ام، دخترم! ضرب‌المثل‌ها تجربه‌ی صدها سال است.", "r": "az bas ke omr karde-am, dokhtar-am! zarb-ol-masal-hā tajrobe-ye sad-hā sāl ast.", "en": "Because I've lived so long, my girl! Proverbs are the experience of hundreds of years.", "col": "از بس عمر کردم، دخترم! ضرب‌المثلا تجربه‌ی صدها ساله.", "colR": "az bas omr kardam, dokhtar-am! zarb-ol-masal-ā tajrobe-ye sad-hā sāl-e."},
-    {"who": "Mahsa", "fa": "پس من هم باید چند تا یاد بگیرم!", "r": "pas man ham bāyad chand tā yād begiram!", "en": "Then I'd better learn a few too!", "col": "پس منم باید چند تا یاد بگیرم!", "colR": "pas man-am bāyad chand tā yād begiram!"},
-    {"who": "Grandfather", "fa": "حتماً. کار نیکو کردن از پر کردن است؛ هر روز یکی را تکرار کن.", "r": "hatman. kār-e niku kardan az por kardan ast; har ruz yek-i rā tekrār kon.", "en": "Of course. Practice makes perfect: repeat one every day.", "col": "حتماً. کار نیکو کردن از پر کردنه؛ هر روز یکیشو تکرار کن.", "colR": "hatman. kār-e niku kardan az por kardan-e; har ruz yek-i-sh-o tekrār kon."}
+    {
+     "who": "Mahsa",
+     "fa": "پدربزرگ، می‌خواهم برای سفر به ژاپن پول جمع کنم، اما حقوقم خیلی کم است.",
+     "r": "pedar-bozorg, mi-khāham barā-ye safar be Zhāpon pul jam' konam, ammā hoghugh-am kheyli kam ast.",
+     "en": "Grandpa, I want to save up for a trip to Japan, but my salary is really small.",
+     "col": "بابابزرگ، می‌خوام واسه سفر ژاپن پول جمع کنم، ولی حقوقم خیلی کمه.",
+     "colR": "bābā-bozorg, mi-khām vāse safar-e Zhāpon pul jam' konam, vali hoghugh-am kheyli kam-e.",
+     "faV": "پِدَربُزُرگ، می‌خواهَم بَرایِ سَفَر به ژاپُن پول جَمع کُنَم، اَمّا حُقوقَم خَیلی کَم اَست.",
+     "a": "2517c9e65d06",
+     "colV": "بابابُزُرگ، می‌خوام واسه سَفَرِ ژاپُن پول جَمع کُنَم، وَلی حُقوقَم خَیلی کَمه.",
+     "colA": "a87805f5e9b8"
+    },
+    {
+     "who": "Grandfather",
+     "fa": "ناامید نشو، دخترم! قطره قطره جمع گردد، وانگهی دریا شود.",
+     "r": "nā-omid na-show, dokhtar-am! ghatre ghatre jam' gardad, vāngahi daryā shavad.",
+     "en": "Don't lose heart, my girl! Drop by drop it gathers, and then it becomes a sea.",
+     "faV": "نااُمید نَشَو، دُختَرَم! قَطره قَطره جَمع گَردَد، وانگَهی دَریا شَوَد.",
+     "a": "6bcfd8e8572c"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "یعنی هر ماه کمی پس‌انداز کنم؟",
+     "r": "ya'ni har māh kam-i pas-andāz konam?",
+     "en": "You mean I should put a little aside every month?",
+     "col": "یعنی هر ماه یه کم پس‌انداز کنم؟",
+     "colR": "ya'ni har māh ye kam pas-andāz konam?",
+     "faV": "یَعنی هَر ماه کَمی پَس‌اَنداز کُنَم؟",
+     "a": "ba80b0d39a72",
+     "colV": "یَعنی هَر ماه یه کَم پَس‌اَنداز کُنَم؟",
+     "colA": "31929a4d13ce"
+    },
+    {
+     "who": "Grandfather",
+     "fa": "بله. از تو حرکت، از خدا برکت. اول خودت شروع کن.",
+     "r": "bale. az to harekat, az khodā barekat. avval khod-at shoru' kon.",
+     "en": "Yes. You make a start, and God will bless it. Begin yourself.",
+     "col": "آره. از تو حرکت، از خدا برکت. اول خودت شروع کن.",
+     "colR": "āre. az to harekat, az khodā barekat. avval khod-et shoru' kon.",
+     "faV": "بَله. اَز تو حَرِکَت، اَز خُدا بَرِکَت. اَوَّل خودَت شُروع کُن.",
+     "a": "dcf1d60aeba0",
+     "colV": "آره. اَز تو حَرِکَت، اَز خُدا بَرِکَت. اَوَّل خودِت شُروع کُن.",
+     "colA": "e9a3b658f677"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "ولی دوستانم می‌گویند تا پنج سال دیگر هم پولم کافی نمی‌شود.",
+     "r": "vali dustān-am mi-guyand tā panj sāl-e digar ham pul-am kāfi nemi-shavad.",
+     "en": "But my friends say that even in five years I won't have enough.",
+     "col": "ولی دوستام می‌گن تا پنج سال دیگه هم پولم کافی نمی‌شه.",
+     "colR": "vali dust-ā-m mi-gan tā panj sāl-e dige ham pul-am kāfi nemi-she.",
+     "faV": "وَلی دوستانَم می‌گویَند تا پَنج سالِ دیگَر هَم پولَم کافی نِمی‌شَوَد.",
+     "a": "2b4557c57fff",
+     "colV": "وَلی دوستام می‌گَن تا پَنج سالِ دیگه هَم پولَم کافی نِمی‌شه.",
+     "colA": "228a511f6a36"
+    },
+    {
+     "who": "Grandfather",
+     "fa": "جوجه را آخر پاییز می‌شمارند. صبر کن و ببین.",
+     "r": "juje rā ākhar-e pāyiz mi-shomārand. sabr kon o bebin.",
+     "en": "They count the chicks at the end of autumn. Wait and see.",
+     "col": "جوجه رو آخر پاییز می‌شمارن. صبر کن و ببین.",
+     "colR": "juje ro ākhar-e pāyiz mi-shomāran. sabr kon o bebin.",
+     "faV": "جوجه را آخَرِ پاییز می‌شُمارَند. صَبر کُن و بِبین.",
+     "a": "dca3de58cd9a",
+     "colV": "جوجه رو آخَرِ پاییز می‌شُمارَن. صَبر کُن و بِبین.",
+     "colA": "8ab54c867910"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "شاید بهتر باشد با سارا شریک شوم؛ او هم می‌خواهد به ژاپن برود.",
+     "r": "shāyad behtar bāshad bā Sārā sharik shavam; u ham mi-khāhad be Zhāpon beravad.",
+     "en": "Maybe I'd better team up with Sara; she wants to go to Japan too.",
+     "col": "شاید بهتر باشه با سارا شریک شم؛ اونم می‌خواد بره ژاپن.",
+     "colR": "shāyad behtar bāshe bā Sārā sharik sham; un-am mi-khād bere Zhāpon.",
+     "faV": "شایَد بِهتَر باشَد با سارا شَریک شَوَم؛ او هَم می‌خواهَد به ژاپُن بِرَوَد.",
+     "a": "9a689fd0b59e",
+     "colV": "شایَد بِهتَر باشه با سارا شَریک شَم؛ اونَم می‌خواد بِره ژاپُن.",
+     "colA": "77bb1c7c2794"
+    },
+    {
+     "who": "Grandfather",
+     "fa": "آفرین! یک دست صدا ندارد. با هم زودتر به نتیجه می‌رسید.",
+     "r": "āfarin! yek dast sedā na-dārad. bā ham zud-tar be natije mi-resid.",
+     "en": "Good for you! One hand can't clap. Together you'll get there sooner.",
+     "col": "آفرین! یه دست صدا نداره. با هم زودتر به نتیجه می‌رسین.",
+     "colR": "āfarin! ye dast sedā na-dāre. bā ham zud-tar be natije mi-resin.",
+     "faV": "آفَرین! یِک دَست صِدا نَدارَد. با هَم زودتَر به نَتیجه می‌رِسید.",
+     "a": "51a0b6708ea6",
+     "colV": "آفَرین! یه دَست صِدا نَداره. با هَم زودتَر به نَتیجه می‌رِسین.",
+     "colA": "37acd2e0b050"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "فقط به کسی نگویید؛ نمی‌خواهم همه بدانند.",
+     "r": "faghat be kas-i na-guyid; nemi-khāham hame bedānand.",
+     "en": "Just don't tell anyone; I don't want everyone to know.",
+     "col": "فقط به کسی نگین؛ نمی‌خوام همه بدونن.",
+     "colR": "faghat be kas-i na-gin; nemi-khām hame bedunan.",
+     "faV": "فَقَط به کَسی نَگویید؛ نِمی‌خواهَم هَمه بِدانَند.",
+     "a": "f1a0de1ac124",
+     "colV": "فَقَط به کَسی نَگین؛ نِمی‌خوام هَمه بِدونَن.",
+     "colA": "0e664fa05ef1"
+    },
+    {
+     "who": "Grandfather",
+     "fa": "آهسته‌تر! دیوار موش دارد، موش هم گوش دارد.",
+     "r": "āheste-tar! divār mush dārad, mush ham gush dārad.",
+     "en": "Not so loud! Walls have ears (lit. the wall has mice, and the mice have ears).",
+     "col": "یواش‌تر! دیوار موش داره، موشم گوش داره.",
+     "colR": "yavāsh-tar! divār mush dāre, mush-am gush dāre.",
+     "faV": "آهِسته‌تَر! دیوار موش دارَد، موش هَم گوش دارَد.",
+     "a": "eda79b627209",
+     "colV": "یَواش‌تَر! دیوار موش داره، موشَم گوش داره.",
+     "colA": "4333cde147e1"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "شما چرا این‌قدر ضرب‌المثل بلدید؟",
+     "r": "shomā cherā in-ghadr zarb-ol-masal balad-id?",
+     "en": "How come you know so many proverbs?",
+     "col": "شما چرا این‌قدر ضرب‌المثل بلدین؟",
+     "colR": "shomā cherā in-ghadr zarb-ol-masal balad-in?",
+     "faV": "شُما چِرا این‌قَدر ضَرب‌اُلمَثَل بَلَدید؟",
+     "a": "4f6a08e0f6a8",
+     "colV": "شُما چِرا این‌قَدر ضَرب‌اُلمَثَل بَلَدین؟",
+     "colA": "45f31cc01cf5"
+    },
+    {
+     "who": "Grandfather",
+     "fa": "از بس که عمر کرده‌ام، دخترم! ضرب‌المثل‌ها تجربه‌ی صدها سال است.",
+     "r": "az bas ke omr karde-am, dokhtar-am! zarb-ol-masal-hā tajrobe-ye sad-hā sāl ast.",
+     "en": "Because I've lived so long, my girl! Proverbs are the experience of hundreds of years.",
+     "col": "از بس عمر کردم، دخترم! ضرب‌المثلا تجربه‌ی صدها ساله.",
+     "colR": "az bas omr kardam, dokhtar-am! zarb-ol-masal-ā tajrobe-ye sad-hā sāl-e.",
+     "faV": "اَز بَس که عُمر کَرده‌اَم، دُختَرَم! ضَرب‌اُلمَثَل‌ها تَجرُبه‌یِ صَدها سال اَست.",
+     "a": "6eacbf9f11c8",
+     "colV": "اَز بَس عُمر کَردَم، دُختَرَم! ضَرب‌اُلمَثَلا تَجرُبه‌یِ صَدها ساله.",
+     "colA": "680f1e9cf832"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "پس من هم باید چند تا یاد بگیرم!",
+     "r": "pas man ham bāyad chand tā yād begiram!",
+     "en": "Then I'd better learn a few too!",
+     "col": "پس منم باید چند تا یاد بگیرم!",
+     "colR": "pas man-am bāyad chand tā yād begiram!",
+     "faV": "پَس مَن هَم بایَد چَند تا یاد بِگیرَم!",
+     "a": "7baaa2cfe4c0",
+     "colV": "پَس مَنَم بایَد چَند تا یاد بِگیرَم!",
+     "colA": "65f2f8b086ff"
+    },
+    {
+     "who": "Grandfather",
+     "fa": "حتماً. کار نیکو کردن از پر کردن است؛ هر روز یکی را تکرار کن.",
+     "r": "hatman. kār-e niku kardan az por kardan ast; har ruz yek-i rā tekrār kon.",
+     "en": "Of course. Practice makes perfect: repeat one every day.",
+     "col": "حتماً. کار نیکو کردن از پر کردنه؛ هر روز یکیشو تکرار کن.",
+     "colR": "hatman. kār-e niku kardan az por kardan-e; har ruz yek-i-sh-o tekrār kon.",
+     "faV": "حَتماً. کارِ نیکو کَردَن اَز پُر کَردَن اَست؛ هَر روز یِکی را تِکرار کُن.",
+     "a": "65cf1f97ad0b",
+     "colV": "حَتماً. کارِ نیکو کَردَن اَز پُر کَردَنه؛ هَر روز یِکیشو تِکرار کُن.",
+     "colA": "5875889c0080"
+    }
    ]
   },
   {
@@ -44,79 +194,759 @@
    "type": "vocab",
    "title": "Words",
    "items": [
-    {"fa": "ضرب‌المثل", "r": "zarb-ol-masal", "en": "proverb", "pos": "n", "note": "also مَثَل (masal) – not to be confused with مِثل (mesl), 'like'"},
-    {"fa": "اصطلاح", "r": "estelāh", "en": "idiom, expression; technical term", "pos": "n"},
-    {"fa": "قطره", "r": "ghatre", "en": "drop", "pos": "n"},
-    {"fa": "دریا", "r": "daryā", "en": "sea", "pos": "n"},
-    {"fa": "حرکت", "r": "harekat", "en": "movement; action", "pos": "n"},
-    {"fa": "برکت", "r": "barekat", "en": "blessing, plenty", "pos": "n"},
-    {"fa": "رنج", "r": "ranj", "en": "toil, suffering", "pos": "n"},
-    {"fa": "گنج", "r": "ganj", "en": "treasure", "pos": "n"},
-    {"fa": "نیکو", "r": "niku", "en": "good, fine (literary)", "pos": "adj", "note": "also نکو (neku)"},
-    {"fa": "شیطان", "r": "sheytān", "en": "the devil", "pos": "n", "note": "spoken شیطون (sheytun), which also means 'naughty', of a child"},
-    {"fa": "جوجه", "r": "juje", "en": "chick", "pos": "n", "ex": {"fa": "جوجه‌کباب", "r": "juje-kabāb", "en": "grilled chicken (lit. chick kebab)"}},
-    {"fa": "شمردن", "r": "shomordan", "en": "to count", "pos": "v", "note": "present stem شمار (shomār)"},
-    {"fa": "آشپز", "r": "āshpaz", "en": "cook", "pos": "n"},
-    {"fa": "بام", "r": "bām", "en": "(flat) roof", "pos": "n", "note": "everyday Persian says پشت‌بام (posht-bām)"},
-    {"fa": "تنور", "r": "tanur", "en": "clay oven for bread", "pos": "n"},
-    {"fa": "گلیم", "r": "gelim", "en": "kilim, flat-woven rug", "pos": "n"},
-    {"fa": "دیوار", "r": "divār", "en": "wall", "pos": "n"},
-    {"fa": "موش", "r": "mush", "en": "mouse, rat", "pos": "n"},
-    {"fa": "شتر", "r": "shotor", "en": "camel", "pos": "n"},
-    {"fa": "همسایه", "r": "hamsāye", "en": "neighbour", "pos": "n"},
-    {"fa": "کبوتر", "r": "kabutar", "en": "pigeon, dove", "pos": "n"},
-    {"fa": "ریسمان", "r": "rismān", "en": "rope (literary; everyday طناب)", "pos": "n"},
-    {"fa": "چاه", "r": "chāh", "en": "well (for water)", "pos": "n"},
-    {"fa": "وجب", "r": "vajab", "en": "hand-span", "pos": "n"}
+    {
+     "fa": "ضرب‌المثل",
+     "r": "zarb-ol-masal",
+     "en": "proverb",
+     "pos": "n",
+     "note": "also مَثَل (masal) – not to be confused with مِثل (mesl), 'like'",
+     "faV": "ضَرب‌اُلمَثَل",
+     "a": "4f94872dd9af"
+    },
+    {
+     "fa": "اصطلاح",
+     "r": "estelāh",
+     "en": "idiom, expression; technical term",
+     "pos": "n",
+     "faV": "اِصطِلاح",
+     "a": "c5448d621bbd"
+    },
+    {
+     "fa": "قطره",
+     "r": "ghatre",
+     "en": "drop",
+     "pos": "n",
+     "faV": "قَطره",
+     "a": "d5221173859a"
+    },
+    {
+     "fa": "دریا",
+     "r": "daryā",
+     "en": "sea",
+     "pos": "n",
+     "faV": "دَریا",
+     "a": "bba4d18a61d0"
+    },
+    {
+     "fa": "حرکت",
+     "r": "harekat",
+     "en": "movement; action",
+     "pos": "n",
+     "faV": "حَرِکَت",
+     "a": "1987d1aab925"
+    },
+    {
+     "fa": "برکت",
+     "r": "barekat",
+     "en": "blessing, plenty",
+     "pos": "n",
+     "faV": "بَرِکَت",
+     "a": "fe9325d663b5"
+    },
+    {
+     "fa": "رنج",
+     "r": "ranj",
+     "en": "toil, suffering",
+     "pos": "n",
+     "faV": "رَنج",
+     "a": "b02afcd821bf"
+    },
+    {
+     "fa": "گنج",
+     "r": "ganj",
+     "en": "treasure",
+     "pos": "n",
+     "faV": "گَنج",
+     "a": "ed83041ce403"
+    },
+    {
+     "fa": "نیکو",
+     "r": "niku",
+     "en": "good, fine (literary)",
+     "pos": "adj",
+     "note": "also نکو (neku)",
+     "faV": "نیکو",
+     "a": "7dea7e44a7cd"
+    },
+    {
+     "fa": "شیطان",
+     "r": "sheytān",
+     "en": "the devil",
+     "pos": "n",
+     "note": "spoken شیطون (sheytun), which also means 'naughty', of a child",
+     "faV": "شَیطان",
+     "a": "6bd8045abfa1"
+    },
+    {
+     "fa": "جوجه",
+     "r": "juje",
+     "en": "chick",
+     "pos": "n",
+     "ex": {
+      "fa": "جوجه‌کباب",
+      "r": "juje-kabāb",
+      "en": "grilled chicken (lit. chick kebab)",
+      "faV": "جوجه‌کَباب",
+      "a": "0ba0d6b954c6"
+     },
+     "faV": "جوجه",
+     "a": "5d8b1ae0ba7a"
+    },
+    {
+     "fa": "شمردن",
+     "r": "shomordan",
+     "en": "to count",
+     "pos": "v",
+     "note": "present stem شمار (shomār)",
+     "faV": "شُمُردَن",
+     "a": "a56e456ba4da"
+    },
+    {
+     "fa": "آشپز",
+     "r": "āshpaz",
+     "en": "cook",
+     "pos": "n",
+     "faV": "آشپَز",
+     "a": "876c8f0a94ff"
+    },
+    {
+     "fa": "بام",
+     "r": "bām",
+     "en": "(flat) roof",
+     "pos": "n",
+     "note": "everyday Persian says پشت‌بام (posht-bām)",
+     "faV": "بام",
+     "a": "09a8eaa8674d"
+    },
+    {
+     "fa": "تنور",
+     "r": "tanur",
+     "en": "clay oven for bread",
+     "pos": "n",
+     "faV": "تَنور",
+     "a": "2078773e8c1c"
+    },
+    {
+     "fa": "گلیم",
+     "r": "gelim",
+     "en": "kilim, flat-woven rug",
+     "pos": "n",
+     "faV": "گِلیم",
+     "a": "5f8ecec27522"
+    },
+    {
+     "fa": "دیوار",
+     "r": "divār",
+     "en": "wall",
+     "pos": "n",
+     "faV": "دیوار",
+     "a": "e96bf5776b53"
+    },
+    {
+     "fa": "موش",
+     "r": "mush",
+     "en": "mouse, rat",
+     "pos": "n",
+     "faV": "موش",
+     "a": "96531c016043"
+    },
+    {
+     "fa": "شتر",
+     "r": "shotor",
+     "en": "camel",
+     "pos": "n",
+     "faV": "شُتُر",
+     "a": "e430fd2af41b"
+    },
+    {
+     "fa": "همسایه",
+     "r": "hamsāye",
+     "en": "neighbour",
+     "pos": "n",
+     "faV": "هَمسایه",
+     "a": "1eebc0594655"
+    },
+    {
+     "fa": "کبوتر",
+     "r": "kabutar",
+     "en": "pigeon, dove",
+     "pos": "n",
+     "faV": "کَبوتَر",
+     "a": "6371b88e47dd"
+    },
+    {
+     "fa": "ریسمان",
+     "r": "rismān",
+     "en": "rope (literary; everyday طناب)",
+     "pos": "n",
+     "faV": "ریسمان",
+     "a": "31ed50745686"
+    },
+    {
+     "fa": "چاه",
+     "r": "chāh",
+     "en": "well (for water)",
+     "pos": "n",
+     "faV": "چاه",
+     "a": "475fd32f7f06"
+    },
+    {
+     "fa": "وجب",
+     "r": "vajab",
+     "en": "hand-span",
+     "pos": "n",
+     "faV": "وَجَب",
+     "a": "c55933eccbfe"
+    }
    ]
   },
   {
    "type": "vocab",
    "title": "Proverbs 1–7: patience, effort and time",
    "items": [
-    {"fa": "قطره قطره جمع گردد، وانگهی دریا شود.", "r": "ghatre ghatre jam' gardad, vāngahi daryā shavad.", "en": "Every little helps; small amounts add up.", "pos": "phrase", "lit": "Drop by drop it gathers, and then it becomes a sea.", "note": "The proverb of every savings account and every language learner. It is a line of verse, so it keeps the old verbs گردد and شود without می (see the grammar below).", "ex": {"fa": "روزی ده کلمه یاد بگیر؛ قطره قطره جمع گردد، وانگهی دریا شود.", "r": "ruz-i dah kalame yād begir; ghatre ghatre jam' gardad, vāngahi daryā shavad.", "en": "Learn ten words a day: drop by drop, it becomes a sea.", "col": "روزی ده تا کلمه یاد بگیر؛ قطره قطره جمع گردد، وانگهی دریا شود.", "colR": "ruz-i dah tā kalame yād begir; ghatre ghatre jam' gardad, vāngahi daryā shavad."}},
-    {"fa": "از تو حرکت، از خدا برکت.", "r": "az to harekat, az khodā barekat.", "en": "God helps those who help themselves.", "pos": "phrase", "lit": "From you movement, from God blessing.", "note": "Said to someone who waits for luck instead of acting – the student who hopes for a good mark without studying, the friend who wants a new job but sends no applications. The halves rhyme, and there is no verb at all.", "ex": {"fa": "اگر کار می‌خواهی، رزومه‌ات را بفرست؛ از تو حرکت، از خدا برکت.", "r": "agar kār mi-khāhi, rezume-at rā befrest; az to harekat, az khodā barekat.", "en": "If you want a job, send off your CV: God helps those who help themselves.", "col": "اگه کار می‌خوای، رزومه‌تو بفرست؛ از تو حرکت، از خدا برکت.", "colR": "age kār mi-khāy, rezume-t-o befrest; az to harekat, az khodā barekat."}},
-    {"fa": "نابرده رنج، گنج میسر نمی‌شود.", "r": "nā-borde ranj, ganj moyassar nemi-shavad.", "en": "No pain, no gain.", "pos": "phrase", "lit": "Without toil endured, treasure is not obtained.", "note": "A half-line usually attributed to Saadi, quoted by parents before exams and by coaches before matches. نابرده is an old negative participle, 'not having carried'; میسر شدن means 'to become possible'.", "ex": {"fa": "می‌دانم تمرین سخت است، اما نابرده رنج، گنج میسر نمی‌شود.", "r": "mi-dānam tamrin sakht ast, ammā nā-borde ranj, ganj moyassar nemi-shavad.", "en": "I know practice is hard, but no pain, no gain.", "col": "می‌دونم تمرین سخته، ولی نابرده رنج، گنج میسر نمی‌شود.", "colR": "mi-dunam tamrin sakht-e, vali nā-borde ranj, ganj moyassar nemi-shavad."}},
-    {"fa": "کار نیکو کردن از پر کردن است.", "r": "kār-e niku kardan az por kardan ast.", "en": "Practice makes perfect.", "pos": "phrase", "lit": "Doing a job well comes from doing it a lot (lit. from filling).", "note": "پر کردن – literally 'filling' – here means doing something over and over. Said to a learner discouraged by mistakes, or by a cook explaining why her rice is always perfect.", "ex": {"fa": "اولش همه اشتباه می‌کنند؛ کار نیکو کردن از پر کردن است.", "r": "avval-ash hame eshtebāh mi-konand; kār-e niku kardan az por kardan ast.", "en": "Everyone makes mistakes at first; practice makes perfect.", "col": "اولش همه اشتباه می‌کنن؛ کار نیکو کردن از پر کردنه.", "colR": "avval-esh hame eshtebāh mi-konan; kār-e niku kardan az por kardan-e."}},
-    {"fa": "عجله کار شیطان است.", "r": "ajale kār-e sheytān ast.", "en": "Haste makes waste.", "pos": "phrase", "lit": "Haste is the devil's work.", "note": "Said to someone rushing into a decision – buying a flat after one visit, signing a contract unread, answering an angry email at midnight.", "ex": {"fa": "فردا با آرامش تصمیم بگیر؛ عجله کار شیطان است.", "r": "fardā bā ārāmesh tasmim begir; ajale kār-e sheytān ast.", "en": "Decide tomorrow, calmly: haste is the devil's work.", "col": "فردا با آرامش تصمیم بگیر؛ عجله کار شیطونه.", "colR": "fardā bā ārāmesh tasmim begir; ajale kār-e sheytun-e."}},
-    {"fa": "ماهی را هر وقت از آب بگیری، تازه است.", "r": "māhi rā har vaght az āb begiri, tāze ast.", "en": "It's never too late; better late than never.", "pos": "phrase", "lit": "Whenever you take a fish out of the water, it is fresh.", "note": "Encouragement for anyone who thinks they have left it too late – to learn the piano at fifty, to go back to university, to apologise after a year.", "ex": {"fa": "در شصت‌سالگی دانشجو شدی؟ آفرین! ماهی را هر وقت از آب بگیری، تازه است.", "r": "dar shast-sālegi dāneshju shodi? āfarin! māhi rā har vaght az āb begiri, tāze ast.", "en": "You became a student at sixty? Bravo! It's never too late.", "col": "تو شصت‌سالگی دانشجو شدی؟ آفرین! ماهی رو هر وقت از آب بگیری، تازه‌ست.", "colR": "tu shast-sālegi dāneshju shodi? āfarin! māhi ro har vaght az āb begiri, tāze-st."}},
-    {"fa": "جوجه را آخر پاییز می‌شمارند.", "r": "juje rā ākhar-e pāyiz mi-shomārand.", "en": "Don't count your chickens before they're hatched; it's the result that counts.", "pos": "phrase", "lit": "They count the chicks at the end of autumn.", "note": "Only when summer is over does a farmer know how many chicks have survived. Said to someone celebrating too early – or, with a grin, by the team that was losing at half-time.", "ex": {"fa": "هنوز نیمه‌ی اول بازی است؛ جوجه را آخر پاییز می‌شمارند.", "r": "hanuz nime-ye avval-e bāzi ast; juje rā ākhar-e pāyiz mi-shomārand.", "en": "It's still the first half: don't count your chickens.", "col": "هنوز نیمه‌ی اول بازیه؛ جوجه رو آخر پاییز می‌شمارن.", "colR": "hanuz nime-ye avval-e bāzi-ye; juje ro ākhar-e pāyiz mi-shomāran."}}
+    {
+     "fa": "قطره قطره جمع گردد، وانگهی دریا شود.",
+     "r": "ghatre ghatre jam' gardad, vāngahi daryā shavad.",
+     "en": "Every little helps; small amounts add up.",
+     "pos": "phrase",
+     "lit": "Drop by drop it gathers, and then it becomes a sea.",
+     "note": "The proverb of every savings account and every language learner. It is a line of verse, so it keeps the old verbs گردد and شود without می (see the grammar below).",
+     "ex": {
+      "fa": "روزی ده کلمه یاد بگیر؛ قطره قطره جمع گردد، وانگهی دریا شود.",
+      "r": "ruz-i dah kalame yād begir; ghatre ghatre jam' gardad, vāngahi daryā shavad.",
+      "en": "Learn ten words a day: drop by drop, it becomes a sea.",
+      "col": "روزی ده تا کلمه یاد بگیر؛ قطره قطره جمع گردد، وانگهی دریا شود.",
+      "colR": "ruz-i dah tā kalame yād begir; ghatre ghatre jam' gardad, vāngahi daryā shavad.",
+      "faV": "روزی دَه کَلَمه یاد بِگیر؛ قَطره قَطره جَمع گَردَد، وانگَهی دَریا شَوَد.",
+      "a": "7238086b38c8",
+      "colV": "روزی دَه تا کَلَمه یاد بِگیر؛ قَطره قَطره جَمع گَردَد، وانگَهی دَریا شَوَد.",
+      "colA": "8ad2960a3e01"
+     },
+     "faV": "قَطره قَطره جَمع گَردَد، وانگَهی دَریا شَوَد.",
+     "a": "80e451b13b27"
+    },
+    {
+     "fa": "از تو حرکت، از خدا برکت.",
+     "r": "az to harekat, az khodā barekat.",
+     "en": "God helps those who help themselves.",
+     "pos": "phrase",
+     "lit": "From you movement, from God blessing.",
+     "note": "Said to someone who waits for luck instead of acting – the student who hopes for a good mark without studying, the friend who wants a new job but sends no applications. The halves rhyme, and there is no verb at all.",
+     "ex": {
+      "fa": "اگر کار می‌خواهی، رزومه‌ات را بفرست؛ از تو حرکت، از خدا برکت.",
+      "r": "agar kār mi-khāhi, rezume-at rā befrest; az to harekat, az khodā barekat.",
+      "en": "If you want a job, send off your CV: God helps those who help themselves.",
+      "col": "اگه کار می‌خوای، رزومه‌تو بفرست؛ از تو حرکت، از خدا برکت.",
+      "colR": "age kār mi-khāy, rezume-t-o befrest; az to harekat, az khodā barekat.",
+      "faV": "اَگَر کار می‌خواهی، رِزومه‌اَت را بِفرِست؛ اَز تو حَرِکَت، اَز خُدا بَرِکَت.",
+      "a": "a0227e2803ad",
+      "colV": "اَگه کار می‌خوای، رِزومه‌تو بِفرِست؛ اَز تو حَرِکَت، اَز خُدا بَرِکَت.",
+      "colA": "e9c82c82fae8"
+     },
+     "faV": "اَز تو حَرِکَت، اَز خُدا بَرِکَت.",
+     "a": "b8d093fe2f3a"
+    },
+    {
+     "fa": "نابرده رنج، گنج میسر نمی‌شود.",
+     "r": "nā-borde ranj, ganj moyassar nemi-shavad.",
+     "en": "No pain, no gain.",
+     "pos": "phrase",
+     "lit": "Without toil endured, treasure is not obtained.",
+     "note": "A half-line usually attributed to Saadi, quoted by parents before exams and by coaches before matches. نابرده is an old negative participle, 'not having carried'; میسر شدن means 'to become possible'.",
+     "ex": {
+      "fa": "می‌دانم تمرین سخت است، اما نابرده رنج، گنج میسر نمی‌شود.",
+      "r": "mi-dānam tamrin sakht ast, ammā nā-borde ranj, ganj moyassar nemi-shavad.",
+      "en": "I know practice is hard, but no pain, no gain.",
+      "col": "می‌دونم تمرین سخته، ولی نابرده رنج، گنج میسر نمی‌شود.",
+      "colR": "mi-dunam tamrin sakht-e, vali nā-borde ranj, ganj moyassar nemi-shavad.",
+      "faV": "می‌دانَم تَمرین سَخت اَست، اَمّا نابُرده رَنج، گَنج مُیَسَّر نِمی‌شَوَد.",
+      "a": "13414ed3b1c6",
+      "colV": "می‌دونَم تَمرین سَخته، وَلی نابُرده رَنج، گَنج مُیَسَّر نِمی‌شَوَد.",
+      "colA": "9f6caab51cec"
+     },
+     "faV": "نابُرده رَنج، گَنج مُیَسَّر نِمی‌شَوَد.",
+     "a": "394b7bda2742"
+    },
+    {
+     "fa": "کار نیکو کردن از پر کردن است.",
+     "r": "kār-e niku kardan az por kardan ast.",
+     "en": "Practice makes perfect.",
+     "pos": "phrase",
+     "lit": "Doing a job well comes from doing it a lot (lit. from filling).",
+     "note": "پر کردن – literally 'filling' – here means doing something over and over. Said to a learner discouraged by mistakes, or by a cook explaining why her rice is always perfect.",
+     "ex": {
+      "fa": "اولش همه اشتباه می‌کنند؛ کار نیکو کردن از پر کردن است.",
+      "r": "avval-ash hame eshtebāh mi-konand; kār-e niku kardan az por kardan ast.",
+      "en": "Everyone makes mistakes at first; practice makes perfect.",
+      "col": "اولش همه اشتباه می‌کنن؛ کار نیکو کردن از پر کردنه.",
+      "colR": "avval-esh hame eshtebāh mi-konan; kār-e niku kardan az por kardan-e.",
+      "faV": "اَوَّلَش هَمه اِشتِباه می‌کُنَند؛ کارِ نیکو کَردَن اَز پُر کَردَن اَست.",
+      "a": "75f87e7b04d4",
+      "colV": "اَوَّلِش هَمه اِشتِباه می‌کُنَن؛ کارِ نیکو کَردَن اَز پُر کَردَنه.",
+      "colA": "dd70af406813"
+     },
+     "faV": "کارِ نیکو کَردَن اَز پُر کَردَن اَست.",
+     "a": "8d3bf8b9d5da"
+    },
+    {
+     "fa": "عجله کار شیطان است.",
+     "r": "ajale kār-e sheytān ast.",
+     "en": "Haste makes waste.",
+     "pos": "phrase",
+     "lit": "Haste is the devil's work.",
+     "note": "Said to someone rushing into a decision – buying a flat after one visit, signing a contract unread, answering an angry email at midnight.",
+     "ex": {
+      "fa": "فردا با آرامش تصمیم بگیر؛ عجله کار شیطان است.",
+      "r": "fardā bā ārāmesh tasmim begir; ajale kār-e sheytān ast.",
+      "en": "Decide tomorrow, calmly: haste is the devil's work.",
+      "col": "فردا با آرامش تصمیم بگیر؛ عجله کار شیطونه.",
+      "colR": "fardā bā ārāmesh tasmim begir; ajale kār-e sheytun-e.",
+      "faV": "فَردا با آرامِش تَصمیم بِگیر؛ عَجَله کارِ شَیطان اَست.",
+      "a": "d7807a18bebf",
+      "colV": "فَردا با آرامِش تَصمیم بِگیر؛ عَجَله کارِ شَیطونه.",
+      "colA": "36ca090ed3e1"
+     },
+     "faV": "عَجَله کارِ شَیطان اَست.",
+     "a": "76c0defcd0c6"
+    },
+    {
+     "fa": "ماهی را هر وقت از آب بگیری، تازه است.",
+     "r": "māhi rā har vaght az āb begiri, tāze ast.",
+     "en": "It's never too late; better late than never.",
+     "pos": "phrase",
+     "lit": "Whenever you take a fish out of the water, it is fresh.",
+     "note": "Encouragement for anyone who thinks they have left it too late – to learn the piano at fifty, to go back to university, to apologise after a year.",
+     "ex": {
+      "fa": "در شصت‌سالگی دانشجو شدی؟ آفرین! ماهی را هر وقت از آب بگیری، تازه است.",
+      "r": "dar shast-sālegi dāneshju shodi? āfarin! māhi rā har vaght az āb begiri, tāze ast.",
+      "en": "You became a student at sixty? Bravo! It's never too late.",
+      "col": "تو شصت‌سالگی دانشجو شدی؟ آفرین! ماهی رو هر وقت از آب بگیری، تازه‌ست.",
+      "colR": "tu shast-sālegi dāneshju shodi? āfarin! māhi ro har vaght az āb begiri, tāze-st.",
+      "faV": "دَر شَصت‌سالِگی دانِشجو شُدی؟ آفَرین! ماهی را هَر وَقت اَز آب بِگیری، تازه اَست.",
+      "a": "5deaea70854c",
+      "colV": "تو شَصت‌سالِگی دانِشجو شُدی؟ آفَرین! ماهی رو هَر وَقت اَز آب بِگیری، تازه‌ست.",
+      "colA": "7ef866122eb7"
+     },
+     "faV": "ماهی را هَر وَقت اَز آب بِگیری، تازه اَست.",
+     "a": "b4a649189d2a"
+    },
+    {
+     "fa": "جوجه را آخر پاییز می‌شمارند.",
+     "r": "juje rā ākhar-e pāyiz mi-shomārand.",
+     "en": "Don't count your chickens before they're hatched; it's the result that counts.",
+     "pos": "phrase",
+     "lit": "They count the chicks at the end of autumn.",
+     "note": "Only when summer is over does a farmer know how many chicks have survived. Said to someone celebrating too early – or, with a grin, by the team that was losing at half-time.",
+     "ex": {
+      "fa": "هنوز نیمه‌ی اول بازی است؛ جوجه را آخر پاییز می‌شمارند.",
+      "r": "hanuz nime-ye avval-e bāzi ast; juje rā ākhar-e pāyiz mi-shomārand.",
+      "en": "It's still the first half: don't count your chickens.",
+      "col": "هنوز نیمه‌ی اول بازیه؛ جوجه رو آخر پاییز می‌شمارن.",
+      "colR": "hanuz nime-ye avval-e bāzi-ye; juje ro ākhar-e pāyiz mi-shomāran.",
+      "faV": "هَنوز نیمه‌یِ اَوَّلِ بازی اَست؛ جوجه را آخَرِ پاییز می‌شُمارَند.",
+      "a": "cc1bcbda64b4",
+      "colV": "هَنوز نیمه‌یِ اَوَّلِ بازیه؛ جوجه رو آخَرِ پاییز می‌شُمارَن.",
+      "colA": "a3fd1d30a3b3"
+     },
+     "faV": "جوجه را آخَرِ پاییز می‌شُمارَند.",
+     "a": "d4ca05f7850d"
+    }
    ]
   },
   {
    "type": "vocab",
    "title": "Proverbs 8–13: working together, living wisely",
    "items": [
-    {"fa": "یک دست صدا ندارد.", "r": "yek dast sedā na-dārad.", "en": "You can't do it alone; it takes teamwork.", "pos": "phrase", "lit": "One hand has no sound.", "note": "You can't clap with one hand. Said when asking for help or praising a team – and in a quarrel it means 'it takes two'.", "ex": {"fa": "بیایید با هم کار کنیم؛ یک دست صدا ندارد.", "r": "biyāyid bā ham kār konim; yek dast sedā na-dārad.", "en": "Let's work together: one hand can't clap.", "col": "بیاین با هم کار کنیم؛ یه دست صدا نداره.", "colR": "biyāyn bā ham kār konim; ye dast sedā na-dāre."}},
-    {"fa": "آشپز که دو تا شد، آش یا شور می‌شود یا بی‌نمک.", "r": "āshpaz ke do tā shod, āsh yā shur mi-shavad yā bi-namak.", "en": "Too many cooks spoil the broth.", "pos": "phrase", "lit": "Once there are two cooks, the soup turns out either too salty or with no salt.", "note": "Each cook adds salt – or each thinks the other did. Said when two bosses give different orders, or when two aunts both 'help' to organise a wedding.", "ex": {"fa": "یا تو تصمیم بگیر یا من؛ آشپز که دو تا شد، آش یا شور می‌شود یا بی‌نمک.", "r": "yā to tasmim begir yā man; āshpaz ke do tā shod, āsh yā shur mi-shavad yā bi-namak.", "en": "Either you decide or I do: too many cooks spoil the broth.", "col": "یا تو تصمیم بگیر یا من؛ آشپز که دو تا شد، آش یا شور می‌شه یا بی‌نمک.", "colR": "yā to tasmim begir yā man; āshpaz ke do tā shod, āsh yā shur mi-she yā bi-namak."}},
-    {"fa": "هر که بامش بیش، برفش بیشتر.", "r": "har ke bām-ash bish, barf-ash bish-tar.", "en": "The more you have, the more you have to worry about.", "pos": "phrase", "lit": "Whoever has more roof has more snow.", "note": "In old Iranian towns every family shovelled the snow off its own flat roof – a big house meant a big job. Said to someone complaining about the problems that come with success: a big company, a big house, a famous name. There is no verb: است is understood.", "ex": {"fa": "مدیر شده‌ای و وقت نداری؟ هر که بامش بیش، برفش بیشتر!", "r": "modir shode-i va vaght na-dāri? har ke bām-ash bish, barf-ash bish-tar!", "en": "You've become a manager and have no time? More roof, more snow!", "col": "مدیر شدی و وقت نداری؟ هر که بامش بیش، برفش بیشتر!", "colR": "modir shodi o vaght na-dāri? har ke bām-ash bish, barf-ash bish-tar!"}},
-    {"fa": "تا تنور گرم است، باید نان را چسباند.", "r": "tā tanur garm ast, bāyad nān rā chasbānd.", "en": "Strike while the iron is hot; make hay while the sun shines.", "pos": "phrase", "lit": "While the oven is hot, you must stick the bread on.", "note": "Flat breads such as lavash and taftun are slapped onto the inside wall of a hot clay oven; once it cools, the dough won't stick. Said when a chance won't last – a sale, a good mood, a job offer.", "ex": {"fa": "شرکت به تو پیشنهاد کار داده است؛ تا تنور گرم است، باید نان را چسباند!", "r": "sherkat be to pishnahād-e kār dāde ast; tā tanur garm ast, bāyad nān rā chasbānd!", "en": "The company has offered you a job: strike while the iron is hot!", "col": "شرکت بهت پیشنهاد کار داده؛ تا تنور گرمه، باید نون رو چسبوند!", "colR": "sherkat behet pishnahād-e kār dāde; tā tanur garm-e, bāyad nun ro chasbund!"}},
-    {"fa": "پایت را به اندازه‌ی گلیمت دراز کن.", "r": "pā-yat rā be andāze-ye gelim-at derāz kon.", "en": "Cut your coat according to your cloth; live within your means.", "pos": "phrase", "lit": "Stretch your legs only as far as your rug.", "note": "A gelim is a thin, flat-woven rug; stretch your feet beyond it and they are on the cold floor. Said about spending, borrowing, or promising more than you can deliver.", "ex": {"fa": "این ماشین برای حقوق تو خیلی گران است؛ پایت را به اندازه‌ی گلیمت دراز کن.", "r": "in māshin barā-ye hoghugh-e to kheyli gerān ast; pā-yat rā be andāze-ye gelim-at derāz kon.", "en": "That car is far too expensive for your salary: live within your means.", "col": "این ماشین واسه حقوق تو خیلی گرونه؛ پاتو به اندازه‌ی گلیمت دراز کن.", "colR": "in māshin vāse hoghugh-e to kheyli gerun-e; pā-t-o be andāze-ye gelim-et derāz kon."}},
-    {"fa": "کار امروز را به فردا مینداز.", "r": "kār-e emruz rā be fardā mayandāz.", "en": "Never put off till tomorrow what you can do today.", "pos": "phrase", "lit": "Don't throw today's work onto tomorrow.", "note": "مینداز (mayandāz) is the old way of saying 'don't', with مَـ instead of نَـ – modern Persian says نینداز. You will see this one on classroom walls and office posters.", "ex": {"fa": "تکلیفت را همین الان بنویس؛ کار امروز را به فردا مینداز.", "r": "taklif-at rā hamin alān benevis; kār-e emruz rā be fardā mayandāz.", "en": "Do your homework right now: never put off till tomorrow…", "col": "تکلیفتو همین الان بنویس؛ کار امروز رو به فردا مینداز.", "colR": "taklif-et-o hamin alān benevis; kār-e emruz ro be fardā mayandāz."}}
+    {
+     "fa": "یک دست صدا ندارد.",
+     "r": "yek dast sedā na-dārad.",
+     "en": "You can't do it alone; it takes teamwork.",
+     "pos": "phrase",
+     "lit": "One hand has no sound.",
+     "note": "You can't clap with one hand. Said when asking for help or praising a team – and in a quarrel it means 'it takes two'.",
+     "ex": {
+      "fa": "بیایید با هم کار کنیم؛ یک دست صدا ندارد.",
+      "r": "biyāyid bā ham kār konim; yek dast sedā na-dārad.",
+      "en": "Let's work together: one hand can't clap.",
+      "col": "بیاین با هم کار کنیم؛ یه دست صدا نداره.",
+      "colR": "biyāyn bā ham kār konim; ye dast sedā na-dāre.",
+      "faV": "بیایید با هَم کار کُنیم؛ یِک دَست صِدا نَدارَد.",
+      "a": "a1b5ffd433cb",
+      "colV": "بیاین با هَم کار کُنیم؛ یه دَست صِدا نَداره.",
+      "colA": "cca5c5b6590a"
+     },
+     "faV": "یِک دَست صِدا نَدارَد.",
+     "a": "7ba2ee7ca4a4"
+    },
+    {
+     "fa": "آشپز که دو تا شد، آش یا شور می‌شود یا بی‌نمک.",
+     "r": "āshpaz ke do tā shod, āsh yā shur mi-shavad yā bi-namak.",
+     "en": "Too many cooks spoil the broth.",
+     "pos": "phrase",
+     "lit": "Once there are two cooks, the soup turns out either too salty or with no salt.",
+     "note": "Each cook adds salt – or each thinks the other did. Said when two bosses give different orders, or when two aunts both 'help' to organise a wedding.",
+     "ex": {
+      "fa": "یا تو تصمیم بگیر یا من؛ آشپز که دو تا شد، آش یا شور می‌شود یا بی‌نمک.",
+      "r": "yā to tasmim begir yā man; āshpaz ke do tā shod, āsh yā shur mi-shavad yā bi-namak.",
+      "en": "Either you decide or I do: too many cooks spoil the broth.",
+      "col": "یا تو تصمیم بگیر یا من؛ آشپز که دو تا شد، آش یا شور می‌شه یا بی‌نمک.",
+      "colR": "yā to tasmim begir yā man; āshpaz ke do tā shod, āsh yā shur mi-she yā bi-namak.",
+      "faV": "یا تو تَصمیم بِگیر یا مَن؛ آشپَز که دو تا شُد، آش یا شور می‌شَوَد یا بی‌نَمَک.",
+      "a": "8e9e5b03de29",
+      "colV": "یا تو تَصمیم بِگیر یا مَن؛ آشپَز که دو تا شُد، آش یا شور می‌شه یا بی‌نَمَک.",
+      "colA": "60fde605ddc6"
+     },
+     "faV": "آشپَز که دو تا شُد، آش یا شور می‌شَوَد یا بی‌نَمَک.",
+     "a": "f9e38f4eee80"
+    },
+    {
+     "fa": "هر که بامش بیش، برفش بیشتر.",
+     "r": "har ke bām-ash bish, barf-ash bish-tar.",
+     "en": "The more you have, the more you have to worry about.",
+     "pos": "phrase",
+     "lit": "Whoever has more roof has more snow.",
+     "note": "In old Iranian towns every family shovelled the snow off its own flat roof – a big house meant a big job. Said to someone complaining about the problems that come with success: a big company, a big house, a famous name. There is no verb: است is understood.",
+     "ex": {
+      "fa": "مدیر شده‌ای و وقت نداری؟ هر که بامش بیش، برفش بیشتر!",
+      "r": "modir shode-i va vaght na-dāri? har ke bām-ash bish, barf-ash bish-tar!",
+      "en": "You've become a manager and have no time? More roof, more snow!",
+      "col": "مدیر شدی و وقت نداری؟ هر که بامش بیش، برفش بیشتر!",
+      "colR": "modir shodi o vaght na-dāri? har ke bām-ash bish, barf-ash bish-tar!",
+      "faV": "مُدیر شُده‌ای و وَقت نَداری؟ هَر که بامَش بیش، بَرفَش بیشتَر!",
+      "a": "8ddf5d8443f0",
+      "colV": "مُدیر شُدی و وَقت نَداری؟ هَر که بامَش بیش، بَرفَش بیشتَر!",
+      "colA": "b37b0e5c5702"
+     },
+     "faV": "هَر که بامَش بیش، بَرفَش بیشتَر.",
+     "a": "675a4ac8e59e"
+    },
+    {
+     "fa": "تا تنور گرم است، باید نان را چسباند.",
+     "r": "tā tanur garm ast, bāyad nān rā chasbānd.",
+     "en": "Strike while the iron is hot; make hay while the sun shines.",
+     "pos": "phrase",
+     "lit": "While the oven is hot, you must stick the bread on.",
+     "note": "Flat breads such as lavash and taftun are slapped onto the inside wall of a hot clay oven; once it cools, the dough won't stick. Said when a chance won't last – a sale, a good mood, a job offer.",
+     "ex": {
+      "fa": "شرکت به تو پیشنهاد کار داده است؛ تا تنور گرم است، باید نان را چسباند!",
+      "r": "sherkat be to pishnahād-e kār dāde ast; tā tanur garm ast, bāyad nān rā chasbānd!",
+      "en": "The company has offered you a job: strike while the iron is hot!",
+      "col": "شرکت بهت پیشنهاد کار داده؛ تا تنور گرمه، باید نون رو چسبوند!",
+      "colR": "sherkat behet pishnahād-e kār dāde; tā tanur garm-e, bāyad nun ro chasbund!",
+      "faV": "شِرکَت به تو پیشنَهادِ کار داده اَست؛ تا تَنور گَرم اَست، بایَد نان را چَسباند!",
+      "a": "07eedd46d343",
+      "colV": "شِرکَت بِهِت پیشنَهادِ کار داده؛ تا تَنور گَرمه، بایَد نون رو چَسبوند!",
+      "colA": "fda87a8abf61"
+     },
+     "faV": "تا تَنور گَرم اَست، بایَد نان را چَسباند.",
+     "a": "632ae61ad64b"
+    },
+    {
+     "fa": "پایت را به اندازه‌ی گلیمت دراز کن.",
+     "r": "pā-yat rā be andāze-ye gelim-at derāz kon.",
+     "en": "Cut your coat according to your cloth; live within your means.",
+     "pos": "phrase",
+     "lit": "Stretch your legs only as far as your rug.",
+     "note": "A gelim is a thin, flat-woven rug; stretch your feet beyond it and they are on the cold floor. Said about spending, borrowing, or promising more than you can deliver.",
+     "ex": {
+      "fa": "این ماشین برای حقوق تو خیلی گران است؛ پایت را به اندازه‌ی گلیمت دراز کن.",
+      "r": "in māshin barā-ye hoghugh-e to kheyli gerān ast; pā-yat rā be andāze-ye gelim-at derāz kon.",
+      "en": "That car is far too expensive for your salary: live within your means.",
+      "col": "این ماشین واسه حقوق تو خیلی گرونه؛ پاتو به اندازه‌ی گلیمت دراز کن.",
+      "colR": "in māshin vāse hoghugh-e to kheyli gerun-e; pā-t-o be andāze-ye gelim-et derāz kon.",
+      "faV": "این ماشین بَرایِ حُقوقِ تو خَیلی گِران اَست؛ پایَت را به اَندازه‌یِ گِلیمَت دِراز کُن.",
+      "a": "dcf02b80e3d2",
+      "colV": "این ماشین واسه حُقوقِ تو خَیلی گِرونه؛ پاتو به اَندازه‌یِ گِلیمِت دِراز کُن.",
+      "colA": "35edfdba42eb"
+     },
+     "faV": "پایَت را به اَندازه‌یِ گِلیمَت دِراز کُن.",
+     "a": "8cad60dbaf96"
+    },
+    {
+     "fa": "کار امروز را به فردا مینداز.",
+     "r": "kār-e emruz rā be fardā mayandāz.",
+     "en": "Never put off till tomorrow what you can do today.",
+     "pos": "phrase",
+     "lit": "Don't throw today's work onto tomorrow.",
+     "note": "مینداز (mayandāz) is the old way of saying 'don't', with مَـ instead of نَـ – modern Persian says نینداز. You will see this one on classroom walls and office posters.",
+     "ex": {
+      "fa": "تکلیفت را همین الان بنویس؛ کار امروز را به فردا مینداز.",
+      "r": "taklif-at rā hamin alān benevis; kār-e emruz rā be fardā mayandāz.",
+      "en": "Do your homework right now: never put off till tomorrow…",
+      "col": "تکلیفتو همین الان بنویس؛ کار امروز رو به فردا مینداز.",
+      "colR": "taklif-et-o hamin alān benevis; kār-e emruz ro be fardā mayandāz.",
+      "faV": "تَکلیفَت را هَمین اَلان بِنِویس؛ کارِ اِمروز را به فَردا مَیَنداز.",
+      "a": "a707fe7da4e2",
+      "colV": "تَکلیفِتو هَمین اَلان بِنِویس؛ کارِ اِمروز رو به فَردا مَیَنداز.",
+      "colA": "7ff02266bf3f"
+     },
+     "faV": "کارِ اِمروز را به فَردا مَیَنداز.",
+     "a": "a6facd8408cf"
+    }
    ]
   },
   {
    "type": "vocab",
    "title": "Proverbs 14–19: words, secrets and people",
    "items": [
-    {"fa": "دیوار موش دارد، موش هم گوش دارد.", "r": "divār mush dārad, mush ham gush dārad.", "en": "Walls have ears; be careful what you say.", "pos": "phrase", "lit": "The wall has mice, and the mice have ears.", "note": "Said in a low voice, usually with a glance at the door, before a secret or a bit of office gossip – or as a warning to someone who is talking too loudly.", "ex": {"fa": "این‌جا حرفش را نزن؛ دیوار موش دارد، موش هم گوش دارد.", "r": "in-jā harf-ash rā na-zan; divār mush dārad, mush ham gush dārad.", "en": "Don't talk about it here: walls have ears.", "col": "این‌جا حرفشو نزن؛ دیوار موش داره، موشم گوش داره.", "colR": "in-jā harf-esh-o na-zan; divār mush dāre, mush-am gush dāre."}},
-    {"fa": "شتر دیدی، ندیدی.", "r": "shotor didi, na-didi.", "en": "You didn't see anything; keep it to yourself.", "pos": "phrase", "lit": "Did you see a camel? You didn't.", "note": "Behind it is a folk tale in which a traveller who saw a camel go by is warned that a witness only gets into trouble: if anyone asks, you saw no camel. Said with a wink to someone who has seen or heard something that should go no further.", "ex": {"fa": "دیدی رئیس چه گفت؟ شتر دیدی، ندیدی!", "r": "didi ra'is che goft? shotor didi, na-didi!", "en": "Did you hear what the boss said? You didn't hear a thing!", "col": "دیدی رئیس چی گفت؟ شتر دیدی، ندیدی!", "colR": "didi ra'is chi goft? shotor didi, na-didi!"}},
-    {"fa": "مرغ همسایه غاز است.", "r": "morgh-e hamsāye ghāz ast.", "en": "The grass is always greener on the other side.", "pos": "phrase", "lit": "The neighbour's hen is a goose.", "note": "Said to someone who envies a friend's job, a cousin's husband or another country's weather.", "ex": {"fa": "همیشه فکر می‌کنی کار دیگران بهتر است؛ مرغ همسایه غاز است!", "r": "hamishe fekr mi-koni kār-e digarān behtar ast; morgh-e hamsāye ghāz ast!", "en": "You always think other people's jobs are better: the grass is always greener!", "col": "همیشه فکر می‌کنی کار بقیه بهتره؛ مرغ همسایه غازه!", "colR": "hamishe fekr mi-koni kār-e baghiyye behtar-e; morgh-e hamsāye ghāz-e!"}},
-    {"fa": "کبوتر با کبوتر، باز با باز.", "r": "kabutar bā kabutar, bāz bā bāz.", "en": "Birds of a feather flock together.", "pos": "phrase", "lit": "Pigeon with pigeon, hawk with hawk.", "note": "The first half of a line of verse that ends کند هم‌جنس با هم‌جنس پرواز – 'like flies with like'. Said, kindly or not, about friends or couples who are very much alike.", "ex": {"fa": "هر دو عاشق کتاب‌اند؛ کبوتر با کبوتر، باز با باز.", "r": "har do āshegh-e ketāb-and; kabutar bā kabutar, bāz bā bāz.", "en": "They both love books: birds of a feather.", "col": "هر دو عاشق کتابن؛ کبوتر با کبوتر، باز با باز.", "colR": "har do āshegh-e ketāb-an; kabutar bā kabutar, bāz bā bāz."}},
-    {"fa": "کوه به کوه نمی‌رسد، آدم به آدم می‌رسد.", "r": "kuh be kuh nemi-resad, ādam be ādam mi-resad.", "en": "It's a small world; we'll meet again.", "pos": "phrase", "lit": "A mountain never reaches a mountain, but a person reaches a person.", "note": "Said when you bump into an old acquaintance in an unlikely place – or, as a gentle warning, to someone who has treated you badly: we will meet again, and you may need me.", "ex": {"fa": "بعد از بیست سال تو را در فرودگاه استانبول دیدم! کوه به کوه نمی‌رسد، آدم به آدم می‌رسد.", "r": "ba'd az bist sāl to rā dar forudgāh-e Estānbul didam! kuh be kuh nemi-resad, ādam be ādam mi-resad.", "en": "After twenty years I ran into you at Istanbul airport! It's a small world.", "col": "بعد از بیست سال تو رو تو فرودگاه استانبول دیدم! کوه به کوه نمی‌رسه، آدم به آدم می‌رسه.", "colR": "ba'd az bist sāl to ro tu forudgāh-e Estānbul didam! kuh be kuh nemi-rese, ādam be ādam mi-rese."}},
-    {"fa": "از دل برود هر آن که از دیده برفت.", "r": "az del beravad har ān ke az dide beraft.", "en": "Out of sight, out of mind.", "pos": "phrase", "lit": "Whoever has gone from the eye will go from the heart.", "note": "A line of classical verse, full of old grammar: برفت for رفت, هر آن که for هر کس که, دیده ('the seeing one') for چشم. Said – a little sadly – about friends who moved away and stopped calling.", "ex": {"fa": "از وقتی به کانادا رفته است، اصلاً زنگ نمی‌زند؛ از دل برود هر آن که از دیده برفت.", "r": "az vaghti be Kānādā rafte ast, aslan zang nemi-zanad; az del beravad har ān ke az dide beraft.", "en": "Since he moved to Canada he never calls: out of sight, out of mind.", "col": "از وقتی رفته کانادا، اصلاً زنگ نمی‌زنه؛ از دل برود هر آن که از دیده برفت.", "colR": "az vaghti rafte Kānādā, aslan zang nemi-zane; az del beravad har ān ke az dide beraft."}}
+    {
+     "fa": "دیوار موش دارد، موش هم گوش دارد.",
+     "r": "divār mush dārad, mush ham gush dārad.",
+     "en": "Walls have ears; be careful what you say.",
+     "pos": "phrase",
+     "lit": "The wall has mice, and the mice have ears.",
+     "note": "Said in a low voice, usually with a glance at the door, before a secret or a bit of office gossip – or as a warning to someone who is talking too loudly.",
+     "ex": {
+      "fa": "این‌جا حرفش را نزن؛ دیوار موش دارد، موش هم گوش دارد.",
+      "r": "in-jā harf-ash rā na-zan; divār mush dārad, mush ham gush dārad.",
+      "en": "Don't talk about it here: walls have ears.",
+      "col": "این‌جا حرفشو نزن؛ دیوار موش داره، موشم گوش داره.",
+      "colR": "in-jā harf-esh-o na-zan; divār mush dāre, mush-am gush dāre.",
+      "faV": "این‌جا حَرفَش را نَزَن؛ دیوار موش دارَد، موش هَم گوش دارَد.",
+      "a": "96d6b8be6c1f",
+      "colV": "این‌جا حَرفِشو نَزَن؛ دیوار موش داره، موشَم گوش داره.",
+      "colA": "f1af07c8ef40"
+     },
+     "faV": "دیوار موش دارَد، موش هَم گوش دارَد.",
+     "a": "effc66813e54"
+    },
+    {
+     "fa": "شتر دیدی، ندیدی.",
+     "r": "shotor didi, na-didi.",
+     "en": "You didn't see anything; keep it to yourself.",
+     "pos": "phrase",
+     "lit": "Did you see a camel? You didn't.",
+     "note": "Behind it is a folk tale in which a traveller who saw a camel go by is warned that a witness only gets into trouble: if anyone asks, you saw no camel. Said with a wink to someone who has seen or heard something that should go no further.",
+     "ex": {
+      "fa": "دیدی رئیس چه گفت؟ شتر دیدی، ندیدی!",
+      "r": "didi ra'is che goft? shotor didi, na-didi!",
+      "en": "Did you hear what the boss said? You didn't hear a thing!",
+      "col": "دیدی رئیس چی گفت؟ شتر دیدی، ندیدی!",
+      "colR": "didi ra'is chi goft? shotor didi, na-didi!",
+      "faV": "دیدی رَئیس چه گُفت؟ شُتُر دیدی، نَدیدی!",
+      "a": "10c80454031b",
+      "colV": "دیدی رَئیس چی گُفت؟ شُتُر دیدی، نَدیدی!",
+      "colA": "8b4a894eedfb"
+     },
+     "faV": "شُتُر دیدی، نَدیدی.",
+     "a": "c6be5dc5478b"
+    },
+    {
+     "fa": "مرغ همسایه غاز است.",
+     "r": "morgh-e hamsāye ghāz ast.",
+     "en": "The grass is always greener on the other side.",
+     "pos": "phrase",
+     "lit": "The neighbour's hen is a goose.",
+     "note": "Said to someone who envies a friend's job, a cousin's husband or another country's weather.",
+     "ex": {
+      "fa": "همیشه فکر می‌کنی کار دیگران بهتر است؛ مرغ همسایه غاز است!",
+      "r": "hamishe fekr mi-koni kār-e digarān behtar ast; morgh-e hamsāye ghāz ast!",
+      "en": "You always think other people's jobs are better: the grass is always greener!",
+      "col": "همیشه فکر می‌کنی کار بقیه بهتره؛ مرغ همسایه غازه!",
+      "colR": "hamishe fekr mi-koni kār-e baghiyye behtar-e; morgh-e hamsāye ghāz-e!",
+      "faV": "هَمیشه فِکر می‌کُنی کارِ دیگَران بِهتَر اَست؛ مُرغِ هَمسایه غاز اَست!",
+      "a": "9b87f4904bea",
+      "colV": "هَمیشه فِکر می‌کُنی کارِ بَقیّه بِهتَره؛ مُرغِ هَمسایه غازه!",
+      "colA": "b4c48e909e80"
+     },
+     "faV": "مُرغِ هَمسایه غاز اَست.",
+     "a": "2c7182f10aad"
+    },
+    {
+     "fa": "کبوتر با کبوتر، باز با باز.",
+     "r": "kabutar bā kabutar, bāz bā bāz.",
+     "en": "Birds of a feather flock together.",
+     "pos": "phrase",
+     "lit": "Pigeon with pigeon, hawk with hawk.",
+     "note": "The first half of a line of verse that ends کند هم‌جنس با هم‌جنس پرواز – 'like flies with like'. Said, kindly or not, about friends or couples who are very much alike.",
+     "ex": {
+      "fa": "هر دو عاشق کتاب‌اند؛ کبوتر با کبوتر، باز با باز.",
+      "r": "har do āshegh-e ketāb-and; kabutar bā kabutar, bāz bā bāz.",
+      "en": "They both love books: birds of a feather.",
+      "col": "هر دو عاشق کتابن؛ کبوتر با کبوتر، باز با باز.",
+      "colR": "har do āshegh-e ketāb-an; kabutar bā kabutar, bāz bā bāz.",
+      "faV": "هَر دو عاشِقِ کِتاب‌اَند؛ کَبوتَر با کَبوتَر، باز با باز.",
+      "a": "8832d255578d",
+      "colV": "هَر دو عاشِقِ کِتابَن؛ کَبوتَر با کَبوتَر، باز با باز.",
+      "colA": "5e03559f4029"
+     },
+     "faV": "کَبوتَر با کَبوتَر، باز با باز.",
+     "a": "ba18864a6b5f"
+    },
+    {
+     "fa": "کوه به کوه نمی‌رسد، آدم به آدم می‌رسد.",
+     "r": "kuh be kuh nemi-resad, ādam be ādam mi-resad.",
+     "en": "It's a small world; we'll meet again.",
+     "pos": "phrase",
+     "lit": "A mountain never reaches a mountain, but a person reaches a person.",
+     "note": "Said when you bump into an old acquaintance in an unlikely place – or, as a gentle warning, to someone who has treated you badly: we will meet again, and you may need me.",
+     "ex": {
+      "fa": "بعد از بیست سال تو را در فرودگاه استانبول دیدم! کوه به کوه نمی‌رسد، آدم به آدم می‌رسد.",
+      "r": "ba'd az bist sāl to rā dar forudgāh-e Estānbul didam! kuh be kuh nemi-resad, ādam be ādam mi-resad.",
+      "en": "After twenty years I ran into you at Istanbul airport! It's a small world.",
+      "col": "بعد از بیست سال تو رو تو فرودگاه استانبول دیدم! کوه به کوه نمی‌رسه، آدم به آدم می‌رسه.",
+      "colR": "ba'd az bist sāl to ro tu forudgāh-e Estānbul didam! kuh be kuh nemi-rese, ādam be ādam mi-rese.",
+      "faV": "بَعد اَز بیست سال تو را دَر فُرودگاهِ اِستانبول دیدَم! کوه به کوه نِمی‌رِسَد، آدَم به آدَم می‌رِسَد.",
+      "a": "a6bdff37796d",
+      "colV": "بَعد اَز بیست سال تو رو تو فُرودگاهِ اِستانبول دیدَم! کوه به کوه نِمی‌رِسه، آدَم به آدَم می‌رِسه.",
+      "colA": "2643a7f8dfba"
+     },
+     "faV": "کوه به کوه نِمی‌رِسَد، آدَم به آدَم می‌رِسَد.",
+     "a": "a4d1de968209"
+    },
+    {
+     "fa": "از دل برود هر آن که از دیده برفت.",
+     "r": "az del beravad har ān ke az dide beraft.",
+     "en": "Out of sight, out of mind.",
+     "pos": "phrase",
+     "lit": "Whoever has gone from the eye will go from the heart.",
+     "note": "A line of classical verse, full of old grammar: برفت for رفت, هر آن که for هر کس که, دیده ('the seeing one') for چشم. Said – a little sadly – about friends who moved away and stopped calling.",
+     "ex": {
+      "fa": "از وقتی به کانادا رفته است، اصلاً زنگ نمی‌زند؛ از دل برود هر آن که از دیده برفت.",
+      "r": "az vaghti be Kānādā rafte ast, aslan zang nemi-zanad; az del beravad har ān ke az dide beraft.",
+      "en": "Since he moved to Canada he never calls: out of sight, out of mind.",
+      "col": "از وقتی رفته کانادا، اصلاً زنگ نمی‌زنه؛ از دل برود هر آن که از دیده برفت.",
+      "colR": "az vaghti rafte Kānādā, aslan zang nemi-zane; az del beravad har ān ke az dide beraft.",
+      "faV": "اَز وَقتی به کانادا رَفته اَست، اَصلاً زَنگ نِمی‌زَنَد؛ اَز دِل بِرَوَد هَر آن که اَز دیده بِرَفت.",
+      "a": "8d1aea519a7a",
+      "colV": "اَز وَقتی رَفته کانادا، اَصلاً زَنگ نِمی‌زَنه؛ اَز دِل بِرَوَد هَر آن که اَز دیده بِرَفت.",
+      "colA": "854d7416d8d2"
+     },
+     "faV": "اَز دِل بِرَوَد هَر آن که اَز دیده بِرَفت.",
+     "a": "b0886ded15f4"
+    }
    ]
   },
   {
    "type": "vocab",
    "title": "Proverbs 20–25: appearances and consequences",
    "items": [
-    {"fa": "هر گردی گردو نیست.", "r": "har gerd-i gerdu nist.", "en": "All that glitters is not gold; looks can deceive.", "pos": "phrase", "lit": "Not every round thing is a walnut.", "note": "Said about the job offer that sounds too good to be true, the charming stranger, the cheap flat on the best street in town.", "ex": {"fa": "این آگهی خیلی خوب به نظر می‌رسد، ولی هر گردی گردو نیست.", "r": "in āgahi kheyli khub be nazar mi-resad, vali har gerd-i gerdu nist.", "en": "This advert looks very good, but not every round thing is a walnut.", "col": "این آگهی خیلی خوب به نظر می‌رسه، ولی هر گردی گردو نیست.", "colR": "in āgahi kheyli khub be nazar mi-rese, vali har gerd-i gerdu nist."}},
-    {"fa": "مارگزیده از ریسمان سیاه و سفید می‌ترسد.", "r": "mār-gazide az rismān-e siyāh o sefid mi-tarsad.", "en": "Once bitten, twice shy.", "pos": "phrase", "lit": "Someone bitten by a snake is afraid of a black-and-white rope.", "note": "Said about someone who is over-careful after a bad experience – the friend who was cheated once and now checks every bill twice.", "ex": {"fa": "بعد از آن تصادف، رضا خیلی آهسته رانندگی می‌کند؛ مارگزیده از ریسمان سیاه و سفید می‌ترسد.", "r": "ba'd az ān tasādof, Rezā kheyli āheste rānandegi mi-konad; mār-gazide az rismān-e siyāh o sefid mi-tarsad.", "en": "Since that accident Reza drives very slowly: once bitten, twice shy.", "col": "بعد از اون تصادف، رضا خیلی یواش رانندگی می‌کنه؛ مارگزیده از ریسمان سیاه و سفید می‌ترسه.", "colR": "ba'd az un tasādof, Rezā kheyli yavāsh rānandegi mi-kone; mār-gazide az rismān-e siyāh o sefid mi-tarse."}},
-    {"fa": "سالی که نکوست، از بهارش پیداست.", "r": "sāl-i ke neku-st, az bahār-ash peydā-st.", "en": "You can tell from the start how it will go; the morning shows the day.", "pos": "phrase", "lit": "A year that is good shows itself in its spring.", "note": "Usually said with irony when something starts badly: the first day of a holiday, a new job, a new flat. نکوست = نکو است, 'is good' (نکو is a literary twin of نیکو).", "ex": {"fa": "روز اول سفر، چمدانمان گم شد! سالی که نکوست، از بهارش پیداست.", "r": "ruz-e avval-e safar, chamedān-emān gom shod! sāl-i ke neku-st, az bahār-ash peydā-st.", "en": "On the first day of the trip our suitcase got lost! Well, that's a promising start.", "col": "روز اول سفر، چمدونمون گم شد! سالی که نکوست، از بهارش پیداست.", "colR": "ruz-e avval-e safar, chamedun-emun gom shod! sāl-i ke neku-st, az bahār-ash peydā-st."}},
-    {"fa": "چاه‌کن همیشه ته چاه است.", "r": "chāh-kan hamishe tah-e chāh ast.", "en": "Whoever digs a pit for others falls into it himself.", "pos": "phrase", "lit": "The well-digger is always at the bottom of the well.", "note": "Said when a schemer is caught in his own scheme – the colleague who spread rumours about others and lost his own job.", "ex": {"fa": "می‌خواست مرا پیش رئیس بد جلوه بدهد، اما خودش اخراج شد؛ چاه‌کن همیشه ته چاه است.", "r": "mi-khāst marā pish-e ra'is bad jelve bedahad, ammā khod-ash ekhrāj shod; chāh-kan hamishe tah-e chāh ast.", "en": "He wanted to make me look bad in front of the boss, but he was the one who got fired: dig a pit for others and you fall in yourself.", "col": "می‌خواست منو پیش رئیس بد جلوه بده، ولی خودش اخراج شد؛ چاه‌کن همیشه ته چاهه.", "colR": "mi-khāst man-o pish-e ra'is bad jelve bede, vali khod-esh ekhrāj shod; chāh-kan hamishe tah-e chāh-e."}},
-    {"fa": "خربزه خوردی، پای لرزش هم بنشین.", "r": "kharboze khordi, pā-ye larz-ash ham beneshin.", "en": "You've made your bed, now lie in it; accept the consequences.", "pos": "phrase", "lit": "You ate the melon, now sit through its shivers too.", "note": "Traditional Iranian medicine counts melon as a 'cold' food that can give you the shivers. Said to someone complaining about the result of their own choice: the long commute from the cheap flat, the exam after a week of parties.", "ex": {"fa": "خودت خواستی دو تا کار داشته باشی؛ خربزه خوردی، پای لرزش هم بنشین!", "r": "khod-at khāsti do tā kār dāshte bāshi; kharboze khordi, pā-ye larz-ash ham beneshin!", "en": "You wanted two jobs yourself: you've made your bed, now lie in it!", "col": "خودت خواستی دو تا کار داشته باشی؛ خربزه خوردی، پای لرزش هم بشین!", "colR": "khod-et khāsti do tā kār dāshte bāshi; kharboze khordi, pā-ye larz-esh ham beshin!"}},
-    {"fa": "آب که از سر گذشت، چه یک وجب چه صد وجب.", "r": "āb ke az sar gozasht, che yek vajab che sad vajab.", "en": "In for a penny, in for a pound; once it's too late, a little more makes no difference.", "pos": "phrase", "lit": "Once the water is over your head, what's one span or a hundred?", "note": "A وجب is a hand-span. Said when things are already lost, so you may as well go all the way: you're late anyway, so why rush; the diet is broken anyway, so have the cake.", "ex": {"fa": "کلاس را که از دست دادیم؛ آب که از سر گذشت، چه یک وجب چه صد وجب!", "r": "kelās rā ke az dast dādim; āb ke az sar gozasht, che yek vajab che sad vajab!", "en": "We've missed the class anyway: in for a penny, in for a pound!", "col": "کلاسو که از دست دادیم؛ آب که از سر گذشت، چه یه وجب چه صد وجب!", "colR": "kelās-o ke az dast dādim; āb ke az sar gozasht, che ye vajab che sad vajab!"}}
+    {
+     "fa": "هر گردی گردو نیست.",
+     "r": "har gerd-i gerdu nist.",
+     "en": "All that glitters is not gold; looks can deceive.",
+     "pos": "phrase",
+     "lit": "Not every round thing is a walnut.",
+     "note": "Said about the job offer that sounds too good to be true, the charming stranger, the cheap flat on the best street in town.",
+     "ex": {
+      "fa": "این آگهی خیلی خوب به نظر می‌رسد، ولی هر گردی گردو نیست.",
+      "r": "in āgahi kheyli khub be nazar mi-resad, vali har gerd-i gerdu nist.",
+      "en": "This advert looks very good, but not every round thing is a walnut.",
+      "col": "این آگهی خیلی خوب به نظر می‌رسه، ولی هر گردی گردو نیست.",
+      "colR": "in āgahi kheyli khub be nazar mi-rese, vali har gerd-i gerdu nist.",
+      "faV": "این آگَهی خَیلی خوب به نَظَر می‌رِسَد، وَلی هَر گِردی گِردو نیست.",
+      "a": "99f7f413111d",
+      "colV": "این آگَهی خَیلی خوب به نَظَر می‌رِسه، وَلی هَر گِردی گِردو نیست.",
+      "colA": "1d59d6be0f3a"
+     },
+     "faV": "هَر گِردی گِردو نیست.",
+     "a": "6b28ba064c66"
+    },
+    {
+     "fa": "مارگزیده از ریسمان سیاه و سفید می‌ترسد.",
+     "r": "mār-gazide az rismān-e siyāh o sefid mi-tarsad.",
+     "en": "Once bitten, twice shy.",
+     "pos": "phrase",
+     "lit": "Someone bitten by a snake is afraid of a black-and-white rope.",
+     "note": "Said about someone who is over-careful after a bad experience – the friend who was cheated once and now checks every bill twice.",
+     "ex": {
+      "fa": "بعد از آن تصادف، رضا خیلی آهسته رانندگی می‌کند؛ مارگزیده از ریسمان سیاه و سفید می‌ترسد.",
+      "r": "ba'd az ān tasādof, Rezā kheyli āheste rānandegi mi-konad; mār-gazide az rismān-e siyāh o sefid mi-tarsad.",
+      "en": "Since that accident Reza drives very slowly: once bitten, twice shy.",
+      "col": "بعد از اون تصادف، رضا خیلی یواش رانندگی می‌کنه؛ مارگزیده از ریسمان سیاه و سفید می‌ترسه.",
+      "colR": "ba'd az un tasādof, Rezā kheyli yavāsh rānandegi mi-kone; mār-gazide az rismān-e siyāh o sefid mi-tarse.",
+      "faV": "بَعد اَز آن تَصادُف، رِضا خَیلی آهِسته رانَندِگی می‌کُنَد؛ مارگَزیده اَز ریسمانِ سیاه و سِفید می‌تَرسَد.",
+      "a": "6dddf6753056",
+      "colV": "بَعد اَز اون تَصادُف، رِضا خَیلی یَواش رانَندِگی می‌کُنه؛ مارگَزیده اَز ریسمانِ سیاه و سِفید می‌تَرسه.",
+      "colA": "d82f996ad4b0"
+     },
+     "faV": "مارگَزیده اَز ریسمانِ سیاه و سِفید می‌تَرسَد.",
+     "a": "453e09cbb83e"
+    },
+    {
+     "fa": "سالی که نکوست، از بهارش پیداست.",
+     "r": "sāl-i ke neku-st, az bahār-ash peydā-st.",
+     "en": "You can tell from the start how it will go; the morning shows the day.",
+     "pos": "phrase",
+     "lit": "A year that is good shows itself in its spring.",
+     "note": "Usually said with irony when something starts badly: the first day of a holiday, a new job, a new flat. نکوست = نکو است, 'is good' (نکو is a literary twin of نیکو).",
+     "ex": {
+      "fa": "روز اول سفر، چمدانمان گم شد! سالی که نکوست، از بهارش پیداست.",
+      "r": "ruz-e avval-e safar, chamedān-emān gom shod! sāl-i ke neku-st, az bahār-ash peydā-st.",
+      "en": "On the first day of the trip our suitcase got lost! Well, that's a promising start.",
+      "col": "روز اول سفر، چمدونمون گم شد! سالی که نکوست، از بهارش پیداست.",
+      "colR": "ruz-e avval-e safar, chamedun-emun gom shod! sāl-i ke neku-st, az bahār-ash peydā-st.",
+      "faV": "روزِ اَوَّلِ سَفَر، چَمِدانِمان گُم شُد! سالی که نِکوست، اَز بَهارَش پَیداست.",
+      "a": "a311bd3c2999",
+      "colV": "روزِ اَوَّلِ سَفَر، چَمِدونِمون گُم شُد! سالی که نِکوست، اَز بَهارَش پَیداست.",
+      "colA": "64e016bb3143"
+     },
+     "faV": "سالی که نِکوست، اَز بَهارَش پَیداست.",
+     "a": "2e7a0be55acb"
+    },
+    {
+     "fa": "چاه‌کن همیشه ته چاه است.",
+     "r": "chāh-kan hamishe tah-e chāh ast.",
+     "en": "Whoever digs a pit for others falls into it himself.",
+     "pos": "phrase",
+     "lit": "The well-digger is always at the bottom of the well.",
+     "note": "Said when a schemer is caught in his own scheme – the colleague who spread rumours about others and lost his own job.",
+     "ex": {
+      "fa": "می‌خواست مرا پیش رئیس بد جلوه بدهد، اما خودش اخراج شد؛ چاه‌کن همیشه ته چاه است.",
+      "r": "mi-khāst marā pish-e ra'is bad jelve bedahad, ammā khod-ash ekhrāj shod; chāh-kan hamishe tah-e chāh ast.",
+      "en": "He wanted to make me look bad in front of the boss, but he was the one who got fired: dig a pit for others and you fall in yourself.",
+      "col": "می‌خواست منو پیش رئیس بد جلوه بده، ولی خودش اخراج شد؛ چاه‌کن همیشه ته چاهه.",
+      "colR": "mi-khāst man-o pish-e ra'is bad jelve bede, vali khod-esh ekhrāj shod; chāh-kan hamishe tah-e chāh-e.",
+      "faV": "می‌خواست مَرا پیشِ رَئیس بَد جِلوه بِدَهَد، اَمّا خودَش اِخراج شُد؛ چاه‌کَن هَمیشه تَهِ چاه اَست.",
+      "a": "3c890a9487d4",
+      "colV": "می‌خواست مَنو پیشِ رَئیس بَد جِلوه بِده، وَلی خودِش اِخراج شُد؛ چاه‌کَن هَمیشه تَهِ چاهه.",
+      "colA": "1ddf4ee80c83"
+     },
+     "faV": "چاه‌کَن هَمیشه تَهِ چاه اَست.",
+     "a": "c917af464a1b"
+    },
+    {
+     "fa": "خربزه خوردی، پای لرزش هم بنشین.",
+     "r": "kharboze khordi, pā-ye larz-ash ham beneshin.",
+     "en": "You've made your bed, now lie in it; accept the consequences.",
+     "pos": "phrase",
+     "lit": "You ate the melon, now sit through its shivers too.",
+     "note": "Traditional Iranian medicine counts melon as a 'cold' food that can give you the shivers. Said to someone complaining about the result of their own choice: the long commute from the cheap flat, the exam after a week of parties.",
+     "ex": {
+      "fa": "خودت خواستی دو تا کار داشته باشی؛ خربزه خوردی، پای لرزش هم بنشین!",
+      "r": "khod-at khāsti do tā kār dāshte bāshi; kharboze khordi, pā-ye larz-ash ham beneshin!",
+      "en": "You wanted two jobs yourself: you've made your bed, now lie in it!",
+      "col": "خودت خواستی دو تا کار داشته باشی؛ خربزه خوردی، پای لرزش هم بشین!",
+      "colR": "khod-et khāsti do tā kār dāshte bāshi; kharboze khordi, pā-ye larz-esh ham beshin!",
+      "faV": "خودَت خواستی دو تا کار داشته باشی؛ خَربُزه خوردی، پایِ لَرزَش هَم بِنِشین!",
+      "a": "2170cad059d5",
+      "colV": "خودِت خواستی دو تا کار داشته باشی؛ خَربُزه خوردی، پایِ لَرزِش هَم بِشین!",
+      "colA": "1fd3a761d145"
+     },
+     "faV": "خَربُزه خوردی، پایِ لَرزَش هَم بِنِشین.",
+     "a": "89981ff62345"
+    },
+    {
+     "fa": "آب که از سر گذشت، چه یک وجب چه صد وجب.",
+     "r": "āb ke az sar gozasht, che yek vajab che sad vajab.",
+     "en": "In for a penny, in for a pound; once it's too late, a little more makes no difference.",
+     "pos": "phrase",
+     "lit": "Once the water is over your head, what's one span or a hundred?",
+     "note": "A وجب is a hand-span. Said when things are already lost, so you may as well go all the way: you're late anyway, so why rush; the diet is broken anyway, so have the cake.",
+     "ex": {
+      "fa": "کلاس را که از دست دادیم؛ آب که از سر گذشت، چه یک وجب چه صد وجب!",
+      "r": "kelās rā ke az dast dādim; āb ke az sar gozasht, che yek vajab che sad vajab!",
+      "en": "We've missed the class anyway: in for a penny, in for a pound!",
+      "col": "کلاسو که از دست دادیم؛ آب که از سر گذشت، چه یه وجب چه صد وجب!",
+      "colR": "kelās-o ke az dast dādim; āb ke az sar gozasht, che ye vajab che sad vajab!",
+      "faV": "کِلاس را که اَز دَست دادیم؛ آب که اَز سَر گُذَشت، چه یِک وَجَب چه صَد وَجَب!",
+      "a": "144c082ddd1e",
+      "colV": "کِلاسو که اَز دَست دادیم؛ آب که اَز سَر گُذَشت، چه یه وَجَب چه صَد وَجَب!",
+      "colA": "523db67f2690"
+     },
+     "faV": "آب که اَز سَر گُذَشت، چه یِک وَجَب چه صَد وَجَب.",
+     "a": "ef40ca16422b"
+    }
    ]
   },
   {
@@ -124,32 +954,158 @@
    "title": "Old verbs that proverbs keep",
    "md": "Many proverbs are half-lines of classical poetry, and they preserve grammar that modern Persian has dropped. None of it is hard once you know what to look for:\n\n- **The present without می.** Classical Persian often used the bare present for general truths: [[گردد|gardad]] = [[می‌گردد|mi-gardad]], [[رود|ravad]] = [[می‌رود|mi-ravad]]. Its negative has نـ instead of نمی‌: [[نگویند|na-guyand]] = [[نمی‌گویند|nemi-guyand]].\n- **گردیدن for شدن.** [[گردد|gardad]] is the present of [[گردیدن|gardidan]], the literary twin of شدن, *to become*.\n- **بُوَد** (*bovad*) is an old present of *to be*, meaning *is, always is*. It is spelt بود – like the past *bud* – so context decides: [[توانا بود هر که دانا بود|tavānā bovad har ke dānā bovad]].\n- **بـ on the past.** [[برفت|beraft]] is simply an older style of [[رفت|raft]].\n- **مـ for 'don't'.** [[مینداز|mayandāz]] = [[نینداز|nayandāz]], [[مرو|maro]] = [[نرو|naro]].\n- **Short words.** [[گر|gar]] = [[اگر|agar]], [[ز|ze]] = [[از|az]], [[کز|k-az]] = [[که از|ke az]], [[برون|borun]] = [[بیرون|birun]], [[هر آن که|har ān ke]] = [[هر کس که|har kas ke]], and [[به|beh]] = [[بهتر|behtar]].\n- **No verb at all.** Two balanced halves, with است understood: [[هر که بامش بیش، برفش بیشتر|har ke bām-ash bish, barf-ash bish-tar]].",
    "table": {
-    "head": ["In the proverb", "Modern Persian", "Meaning", "Where you meet it"],
+    "head": [
+     "In the proverb",
+     "Modern Persian",
+     "Meaning",
+     "Where you meet it"
+    ],
     "rows": [
-     ["[[گردد|gardad]]", "[[می‌شود|mi-shavad]]", "becomes", "[[قطره قطره جمع گردد|ghatre ghatre jam' gardad]]"],
-     ["[[شود|shavad]]", "[[می‌شود|mi-shavad]]", "becomes", "[[وانگهی دریا شود|vāngahi daryā shavad]]"],
-     ["[[بُوَد|bovad]]", "[[است|ast]]", "is (always)", "[[توانا بود هر که دانا بود|tavānā bovad har ke dānā bovad]]"],
-     ["[[باشد|bāshad]]", "[[است|ast]]", "is (as a rule)", "[[دوست آن باشد که گیرد دست دوست|dust ān bāshad ke girad dast-e dust]]"],
-     ["[[رود|ravad]]، [[گیرد|girad]]، [[کشد|keshad]]", "[[می‌رود|mi-ravad]]، [[می‌گیرد|mi-girad]]، [[می‌کشد|mi-keshad]]", "goes, takes, bears", "[[رهرو آن است که آهسته و پیوسته رود|rahrow ān ast ke āheste o peyvaste ravad]]"],
-     ["[[برفت|beraft]]", "[[رفت|raft]]", "went", "[[از دل برود هر آن که از دیده برفت|az del beravad har ān ke az dide beraft]]"],
-     ["[[نگویند|na-guyand]]", "[[نمی‌گویند|nemi-guyand]]", "they don't say", "[[تا نباشد چیزکی، مردم نگویند چیزها|tā na-bāshad chizak-i, mardom na-guyand chiz-hā]]"],
-     ["[[مینداز|mayandāz]]", "[[نینداز|nayandāz]]", "don't throw", "[[کار امروز را به فردا مینداز|kār-e emruz rā be fardā mayandāz]]"],
-     ["[[گر|gar]]، [[ز|ze]]", "[[اگر|agar]]، [[از|az]]", "if; from", "[[گر صبر کنی، ز غوره حلوا سازی|gar sabr koni, ze ghure halvā sāzi]]"],
-     ["[[کز|k-az]]", "[[که از|ke az]]", "that … from", "[[سخن کز دل برآید، لاجرم بر دل نشیند|sokhan k-az del bar-āyad, lājaram bar del neshinad]]"],
-     ["[[برون|borun]]", "[[بیرون|birun]]", "out", "[[از کوزه همان برون تراود که در اوست|az kuze hamān borun tarāvad ke dar u-st]]"],
-     ["[[به|beh]]", "[[بهتر|behtar]]", "better", "[[سرکه‌ی نقد به از حلوای نسیه|serke-ye naghd beh az halvā-ye nesiye]]"],
-     ["(no verb)", "[[است|ast]] understood", "is", "[[از تو حرکت، از خدا برکت|az to harekat, az khodā barekat]]"]
+     [
+      "[[گردد|gardad]]",
+      "[[می‌شود|mi-shavad]]",
+      "becomes",
+      "[[قطره قطره جمع گردد|ghatre ghatre jam' gardad]]"
+     ],
+     [
+      "[[شود|shavad]]",
+      "[[می‌شود|mi-shavad]]",
+      "becomes",
+      "[[وانگهی دریا شود|vāngahi daryā shavad]]"
+     ],
+     [
+      "[[بُوَد|bovad]]",
+      "[[است|ast]]",
+      "is (always)",
+      "[[توانا بود هر که دانا بود|tavānā bovad har ke dānā bovad]]"
+     ],
+     [
+      "[[باشد|bāshad]]",
+      "[[است|ast]]",
+      "is (as a rule)",
+      "[[دوست آن باشد که گیرد دست دوست|dust ān bāshad ke girad dast-e dust]]"
+     ],
+     [
+      "[[رود|ravad]]، [[گیرد|girad]]، [[کشد|keshad]]",
+      "[[می‌رود|mi-ravad]]، [[می‌گیرد|mi-girad]]، [[می‌کشد|mi-keshad]]",
+      "goes, takes, bears",
+      "[[رهرو آن است که آهسته و پیوسته رود|rahrow ān ast ke āheste o peyvaste ravad]]"
+     ],
+     [
+      "[[برفت|beraft]]",
+      "[[رفت|raft]]",
+      "went",
+      "[[از دل برود هر آن که از دیده برفت|az del beravad har ān ke az dide beraft]]"
+     ],
+     [
+      "[[نگویند|na-guyand]]",
+      "[[نمی‌گویند|nemi-guyand]]",
+      "they don't say",
+      "[[تا نباشد چیزکی، مردم نگویند چیزها|tā na-bāshad chizak-i, mardom na-guyand chiz-hā]]"
+     ],
+     [
+      "[[مینداز|mayandāz]]",
+      "[[نینداز|nayandāz]]",
+      "don't throw",
+      "[[کار امروز را به فردا مینداز|kār-e emruz rā be fardā mayandāz]]"
+     ],
+     [
+      "[[گر|gar]]، [[ز|ze]]",
+      "[[اگر|agar]]، [[از|az]]",
+      "if; from",
+      "[[گر صبر کنی، ز غوره حلوا سازی|gar sabr koni, ze ghure halvā sāzi]]"
+     ],
+     [
+      "[[کز|k-az]]",
+      "[[که از|ke az]]",
+      "that … from",
+      "[[سخن کز دل برآید، لاجرم بر دل نشیند|sokhan k-az del bar-āyad, lājaram bar del neshinad]]"
+     ],
+     [
+      "[[برون|borun]]",
+      "[[بیرون|birun]]",
+      "out",
+      "[[از کوزه همان برون تراود که در اوست|az kuze hamān borun tarāvad ke dar u-st]]"
+     ],
+     [
+      "[[به|beh]]",
+      "[[بهتر|behtar]]",
+      "better",
+      "[[سرکه‌ی نقد به از حلوای نسیه|serke-ye naghd beh az halvā-ye nesiye]]"
+     ],
+     [
+      "(no verb)",
+      "[[است|ast]] understood",
+      "is",
+      "[[از تو حرکت، از خدا برکت|az to harekat, az khodā barekat]]"
+     ]
     ]
    },
    "examples": [
-    {"fa": "توانا بود هر که دانا بود.", "r": "tavānā bovad har ke dānā bovad.", "en": "Whoever is wise is powerful – knowledge is power.", "note": "Ferdowsi, in the Shahnameh. بود here is bovad, 'is', not bud, 'was'. In modern Persian: هر کس که دانا است، توانا است."},
-    {"fa": "رهرو آن است که آهسته و پیوسته رود.", "r": "rahrow ān ast ke āheste o peyvaste ravad.", "en": "The true traveller is the one who walks slowly and steadily.", "note": "رود = می‌رود. The Persian 'slow and steady wins the race'."},
-    {"fa": "گر صبر کنی، ز غوره حلوا سازی.", "r": "gar sabr koni, ze ghure halvā sāzi.", "en": "If you are patient, you will make halva out of sour grapes.", "note": "گر = اگر, ز = از, سازی = می‌سازی. غوره are unripe grapes: with patience, the sour turns sweet."},
-    {"fa": "از کوزه همان برون تراود که در اوست.", "r": "az kuze hamān borun tarāvad ke dar u-st.", "en": "Only what is inside a jug can seep out of it – people show what they really are.", "note": "برون = بیرون; تراود = می‌تراود, 'seeps'; اوست = او است – classical Persian could use او for a thing, here the jug."},
-    {"fa": "سخن کز دل برآید، لاجرم بر دل نشیند.", "r": "sokhan k-az del bar-āyad, lājaram bar del neshinad.", "en": "Words that come from the heart are sure to settle on the heart.", "note": "کز = که از; برآید = برمی‌آید, 'comes out'; نشیند = می‌نشیند. لاجرم, 'inevitably', is Arabic."},
-    {"fa": "تا نباشد چیزکی، مردم نگویند چیزها.", "r": "tā na-bāshad chizak-i, mardom na-guyand chiz-hā.", "en": "Unless there is a little something, people don't talk – there's no smoke without fire.", "note": "نگویند = نمی‌گویند. چیزک is 'a little thing', with the old diminutive -ak."},
-    {"fa": "دوست آن باشد که گیرد دست دوست، در پریشان‌حالی و درماندگی.", "r": "dust ān bāshad ke girad dast-e dust, dar parishān-hāli o darmāndegi.", "en": "A friend is one who takes his friend's hand in hardship and helplessness.", "note": "Saadi. باشد states a general truth ('is, as a rule'); گیرد = می‌گیرد."},
-    {"fa": "سرکه‌ی نقد به از حلوای نسیه.", "r": "serke-ye naghd beh az halvā-ye nesiye.", "en": "Vinegar paid for now is better than halva on credit – a bird in the hand is worth two in the bush.", "note": "به (beh) is the old word for 'better' (modern بهتر), and است is left out."}
+    {
+     "fa": "توانا بود هر که دانا بود.",
+     "r": "tavānā bovad har ke dānā bovad.",
+     "en": "Whoever is wise is powerful – knowledge is power.",
+     "note": "Ferdowsi, in the Shahnameh. بود here is bovad, 'is', not bud, 'was'. In modern Persian: هر کس که دانا است، توانا است.",
+     "faV": "تَوانا بُوَد هَر که دانا بُوَد.",
+     "a": "9f32ceb9a78e"
+    },
+    {
+     "fa": "رهرو آن است که آهسته و پیوسته رود.",
+     "r": "rahrow ān ast ke āheste o peyvaste ravad.",
+     "en": "The true traveller is the one who walks slowly and steadily.",
+     "note": "رود = می‌رود. The Persian 'slow and steady wins the race'.",
+     "faV": "رَهرَو آن اَست که آهِسته و پَیوَسته رَوَد.",
+     "a": "c726b56f6158"
+    },
+    {
+     "fa": "گر صبر کنی، ز غوره حلوا سازی.",
+     "r": "gar sabr koni, ze ghure halvā sāzi.",
+     "en": "If you are patient, you will make halva out of sour grapes.",
+     "note": "گر = اگر, ز = از, سازی = می‌سازی. غوره are unripe grapes: with patience, the sour turns sweet.",
+     "faV": "گَر صَبر کُنی، ز غوره حَلوا سازی.",
+     "a": "97bb3dfacfa1"
+    },
+    {
+     "fa": "از کوزه همان برون تراود که در اوست.",
+     "r": "az kuze hamān borun tarāvad ke dar u-st.",
+     "en": "Only what is inside a jug can seep out of it – people show what they really are.",
+     "note": "برون = بیرون; تراود = می‌تراود, 'seeps'; اوست = او است – classical Persian could use او for a thing, here the jug.",
+     "faV": "اَز کوزه هَمان بُرون تَراوَد که دَر اوست.",
+     "a": "cf2e5dc88018"
+    },
+    {
+     "fa": "سخن کز دل برآید، لاجرم بر دل نشیند.",
+     "r": "sokhan k-az del bar-āyad, lājaram bar del neshinad.",
+     "en": "Words that come from the heart are sure to settle on the heart.",
+     "note": "کز = که از; برآید = برمی‌آید, 'comes out'; نشیند = می‌نشیند. لاجرم, 'inevitably', is Arabic.",
+     "faV": "سُخَن کَز دِل بَرآیَد، لاجَرَم بَر دِل نِشینَد.",
+     "a": "40593679d5f7"
+    },
+    {
+     "fa": "تا نباشد چیزکی، مردم نگویند چیزها.",
+     "r": "tā na-bāshad chizak-i, mardom na-guyand chiz-hā.",
+     "en": "Unless there is a little something, people don't talk – there's no smoke without fire.",
+     "note": "نگویند = نمی‌گویند. چیزک is 'a little thing', with the old diminutive -ak.",
+     "faV": "تا نَباشَد چیزَکی، مَردُم نَگویَند چیزها.",
+     "a": "d597d7f0dd35"
+    },
+    {
+     "fa": "دوست آن باشد که گیرد دست دوست، در پریشان‌حالی و درماندگی.",
+     "r": "dust ān bāshad ke girad dast-e dust, dar parishān-hāli o darmāndegi.",
+     "en": "A friend is one who takes his friend's hand in hardship and helplessness.",
+     "note": "Saadi. باشد states a general truth ('is, as a rule'); گیرد = می‌گیرد.",
+     "faV": "دوست آن باشَد که گیرَد دَستِ دوست، دَر پَریشان‌حالی و دَرماندِگی.",
+     "a": "1bbe5396b5d4"
+    },
+    {
+     "fa": "سرکه‌ی نقد به از حلوای نسیه.",
+     "r": "serke-ye naghd beh az halvā-ye nesiye.",
+     "en": "Vinegar paid for now is better than halva on credit – a bird in the hand is worth two in the bush.",
+     "note": "به (beh) is the old word for 'better' (modern بهتر), and است is left out.",
+     "faV": "سِرکه‌یِ نَقد بِه اَز حَلوایِ نِسیه.",
+     "a": "348b7d200e48"
+    }
    ]
   },
   {
@@ -157,25 +1113,103 @@
    "title": "The shape of a proverb",
    "md": "Most proverbs are built on a handful of patterns. Spot the pattern and you can often understand a proverb you have never heard before.\n\n- **Two balanced halves**, often rhyming, often with no verb: [[سنگ مفت، گنجشک مفت|sang moft, gonjeshk moft]].\n- **The general *you***: the singular *you* means 'anyone': [[ماهی را هر وقت از آب بگیری…|māhi rā har vaght az āb begiri…]]\n- **Advice in the imperative**: [[پایت را به اندازه‌ی گلیمت دراز کن|pā-yat rā be andāze-ye gelim-at derāz kon]].\n- **که after the subject** means *when, once*: [[آشپز که دو تا شد|āshpaz ke do tā shod|once there are two cooks]]. You have seen this که in speech; proverbs love it.",
    "table": {
-    "head": ["Pattern", "Meaning", "Example"],
+    "head": [
+     "Pattern",
+     "Meaning",
+     "Example"
+    ],
     "rows": [
-     ["[[هر که …، …|har ke …, …]]", "whoever …, …", "[[هر که بامش بیش، برفش بیشتر|har ke bām-ash bish, barf-ash bish-tar]]"],
-     ["[[… که … شد، …|… ke … shod, …]]", "once / when …, …", "[[آشپز که دو تا شد، آش یا شور می‌شود یا بی‌نمک|āshpaz ke do tā shod, āsh yā shur mi-shavad yā bi-namak]]"],
-     ["[[تا …، …|tā …, …]]", "while / as long as …, …", "[[تا تنور گرم است، باید نان را چسباند|tā tanur garm ast, bāyad nān rā chasbānd]]"],
-     ["[[تا نـ…، نـ…|tā na-…, na-…]]", "unless …, not …", "[[تا سه نشود، بازی نشود|tā se na-shavad, bāzi na-shavad]]"],
-     ["[[از …، از …|az …, az …]]", "from …, from … (no verb)", "[[از تو حرکت، از خدا برکت|az to harekat, az khodā barekat]]"],
-     ["general *you* (singular)", "anyone who …", "[[ماهی را هر وقت از آب بگیری، تازه است|māhi rā har vaght az āb begiri, tāze ast]]"],
-     ["imperative", "advice", "[[کار امروز را به فردا مینداز|kār-e emruz rā be fardā mayandāz]]"],
-     ["[[… آن است که …|… ān ast ke …]]", "the true … is the one who …", "[[رهرو آن است که آهسته و پیوسته رود|rahrow ān ast ke āheste o peyvaste ravad]]"]
+     [
+      "[[هر که …، …|har ke …, …]]",
+      "whoever …, …",
+      "[[هر که بامش بیش، برفش بیشتر|har ke bām-ash bish, barf-ash bish-tar]]"
+     ],
+     [
+      "[[… که … شد، …|… ke … shod, …]]",
+      "once / when …, …",
+      "[[آشپز که دو تا شد، آش یا شور می‌شود یا بی‌نمک|āshpaz ke do tā shod, āsh yā shur mi-shavad yā bi-namak]]"
+     ],
+     [
+      "[[تا …، …|tā …, …]]",
+      "while / as long as …, …",
+      "[[تا تنور گرم است، باید نان را چسباند|tā tanur garm ast, bāyad nān rā chasbānd]]"
+     ],
+     [
+      "[[تا نـ…، نـ…|tā na-…, na-…]]",
+      "unless …, not …",
+      "[[تا سه نشود، بازی نشود|tā se na-shavad, bāzi na-shavad]]"
+     ],
+     [
+      "[[از …، از …|az …, az …]]",
+      "from …, from … (no verb)",
+      "[[از تو حرکت، از خدا برکت|az to harekat, az khodā barekat]]"
+     ],
+     [
+      "general *you* (singular)",
+      "anyone who …",
+      "[[ماهی را هر وقت از آب بگیری، تازه است|māhi rā har vaght az āb begiri, tāze ast]]"
+     ],
+     [
+      "imperative",
+      "advice",
+      "[[کار امروز را به فردا مینداز|kār-e emruz rā be fardā mayandāz]]"
+     ],
+     [
+      "[[… آن است که …|… ān ast ke …]]",
+      "the true … is the one who …",
+      "[[رهرو آن است که آهسته و پیوسته رود|rahrow ān ast ke āheste o peyvaste ravad]]"
+     ]
     ]
    },
    "examples": [
-    {"fa": "هر که طاووس خواهد، جور هندوستان کشد.", "r": "har ke tāvus khāhad, jowr-e Hendustān keshad.", "en": "Whoever wants a peacock must put up with the hardships of India – anything worth having has its price.", "note": "Pattern هر که…, with خواهد and کشد in the old present without می."},
-    {"fa": "تا سه نشود، بازی نشود.", "r": "tā se na-shavad, bāzi na-shavad.", "en": "It isn't a game until it's three – third time lucky.", "note": "Pattern تا نـ…، نـ…; نشود = نمی‌شود."},
-    {"fa": "سنگ مفت، گنجشک مفت.", "r": "sang moft, gonjeshk moft.", "en": "The stone is free and so is the sparrow – nothing to lose, it's worth a try.", "note": "Two halves, no verb."},
-    {"fa": "از هر دست بدهی، از همان دست پس می‌گیری.", "r": "az har dast bedahi, az hamān dast pas mi-giri.", "en": "Whatever you give with one hand, you get back with the same hand – what goes around comes around.", "note": "The general 'you'."},
-    {"fa": "یک سوزن به خودت بزن، یک جوالدوز به مردم.", "r": "yek suzan be khod-at bezan, yek javāldoz be mardom.", "en": "Prick yourself with a needle before you prick others with a packing needle – judge yourself before you judge others.", "note": "Advice in the imperative; the second verb is left out."},
-    {"fa": "مرگ یک بار، شیون یک بار.", "r": "marg yek bār, shivan yek bār.", "en": "Death once, mourning once – let's get it over with.", "note": "Two halves, no verb."}
+    {
+     "fa": "هر که طاووس خواهد، جور هندوستان کشد.",
+     "r": "har ke tāvus khāhad, jowr-e Hendustān keshad.",
+     "en": "Whoever wants a peacock must put up with the hardships of India – anything worth having has its price.",
+     "note": "Pattern هر که…, with خواهد and کشد in the old present without می.",
+     "faV": "هَر که طاووس خواهَد، جَورِ هِندوستان کِشَد.",
+     "a": "c75b82b7f634"
+    },
+    {
+     "fa": "تا سه نشود، بازی نشود.",
+     "r": "tā se na-shavad, bāzi na-shavad.",
+     "en": "It isn't a game until it's three – third time lucky.",
+     "note": "Pattern تا نـ…، نـ…; نشود = نمی‌شود.",
+     "faV": "تا سه نَشَوَد، بازی نَشَوَد.",
+     "a": "9802ddd1292a"
+    },
+    {
+     "fa": "سنگ مفت، گنجشک مفت.",
+     "r": "sang moft, gonjeshk moft.",
+     "en": "The stone is free and so is the sparrow – nothing to lose, it's worth a try.",
+     "note": "Two halves, no verb.",
+     "faV": "سَنگ مُفت، گُنجِشک مُفت.",
+     "a": "2c06c20c63fe"
+    },
+    {
+     "fa": "از هر دست بدهی، از همان دست پس می‌گیری.",
+     "r": "az har dast bedahi, az hamān dast pas mi-giri.",
+     "en": "Whatever you give with one hand, you get back with the same hand – what goes around comes around.",
+     "note": "The general 'you'.",
+     "faV": "اَز هَر دَست بِدَهی، اَز هَمان دَست پَس می‌گیری.",
+     "a": "f50715b7bd4e"
+    },
+    {
+     "fa": "یک سوزن به خودت بزن، یک جوالدوز به مردم.",
+     "r": "yek suzan be khod-at bezan, yek javāldoz be mardom.",
+     "en": "Prick yourself with a needle before you prick others with a packing needle – judge yourself before you judge others.",
+     "note": "Advice in the imperative; the second verb is left out.",
+     "faV": "یِک سوزَن به خودَت بِزَن، یِک جَوالدوز به مَردُم.",
+     "a": "0e21b614dc66"
+    },
+    {
+     "fa": "مرگ یک بار، شیون یک بار.",
+     "r": "marg yek bār, shivan yek bār.",
+     "en": "Death once, mourning once – let's get it over with.",
+     "note": "Two halves, no verb.",
+     "faV": "مَرگ یِک بار، شیوَن یِک بار.",
+     "a": "a7f8c5689ba4"
+    }
    ]
   },
   {
@@ -183,26 +1217,129 @@
    "title": "Bringing a proverb into the conversation",
    "md": "A proverb dropped into a sentence without warning can sound abrupt, so Iranians usually announce it. The announcing phrases are worth learning for their own sake – they are among the commonest expressions in conversation.\n\nAnother habit: say only the **first half** and let the listener finish it. [[قطره قطره…|ghatre ghatre…]] or [[از تو حرکت…|az to harekat…]] is enough; once you know the proverbs, you will notice how often people stop halfway.",
    "table": {
-    "head": ["Phrase", "Meaning", "Spoken"],
+    "head": [
+     "Phrase",
+     "Meaning",
+     "Spoken"
+    ],
     "rows": [
-     ["[[به قول معروف|be ghowl-e ma'ruf]]", "as the saying goes (lit. according to the well-known word)", "the same"],
-     ["[[به قول قدیمی‌ها|be ghowl-e ghadimi-hā]]", "as the old folks say", "[[به قول قدیمیا|be ghowl-e ghadimi-yā]]"],
-     ["[[قدیمی‌ها گفته‌اند|ghadimi-hā gofte-and]]", "the old folks have said", "[[قدیمیا گفتن|ghadimi-yā goftan]]"],
-     ["[[از قدیم گفته‌اند|az ghadim gofte-and]]", "it has long been said", "[[از قدیم گفتن|az ghadim goftan]]"],
-     ["[[مثل معروفی است که…|masal-e ma'ruf-i ast ke…]]", "there's a well-known saying that…", "[[یه مثل معروفی هست که…|ye masal-e ma'ruf-i hast ke…]]"],
-     ["[[حکایت … است|hekāyat-e … ast]]", "it's the story of… (= it's a case of…)", "[[حکایت …ـه|hekāyat-e …-e]]"],
-     ["[[حکایت ما حکایت … شده است|hekāyat-e mā hekāyat-e … shode ast]]", "we've ended up like the story of…", "[[حکایت ما شده حکایت …|hekāyat-e mā shode hekāyat-e …]]"],
-     ["[[به قول سعدی|be ghowl-e Sa'di]]", "as Saadi says", "the same"]
+     [
+      "[[به قول معروف|be ghowl-e ma'ruf]]",
+      "as the saying goes (lit. according to the well-known word)",
+      "the same"
+     ],
+     [
+      "[[به قول قدیمی‌ها|be ghowl-e ghadimi-hā]]",
+      "as the old folks say",
+      "[[به قول قدیمیا|be ghowl-e ghadimi-yā]]"
+     ],
+     [
+      "[[قدیمی‌ها گفته‌اند|ghadimi-hā gofte-and]]",
+      "the old folks have said",
+      "[[قدیمیا گفتن|ghadimi-yā goftan]]"
+     ],
+     [
+      "[[از قدیم گفته‌اند|az ghadim gofte-and]]",
+      "it has long been said",
+      "[[از قدیم گفتن|az ghadim goftan]]"
+     ],
+     [
+      "[[مثل معروفی است که…|masal-e ma'ruf-i ast ke…]]",
+      "there's a well-known saying that…",
+      "[[یه مثل معروفی هست که…|ye masal-e ma'ruf-i hast ke…]]"
+     ],
+     [
+      "[[حکایت … است|hekāyat-e … ast]]",
+      "it's the story of… (= it's a case of…)",
+      "[[حکایت …ـه|hekāyat-e …-e]]"
+     ],
+     [
+      "[[حکایت ما حکایت … شده است|hekāyat-e mā hekāyat-e … shode ast]]",
+      "we've ended up like the story of…",
+      "[[حکایت ما شده حکایت …|hekāyat-e mā shode hekāyat-e …]]"
+     ],
+     [
+      "[[به قول سعدی|be ghowl-e Sa'di]]",
+      "as Saadi says",
+      "the same"
+     ]
     ]
    },
    "examples": [
-    {"fa": "به قول معروف، یک دست صدا ندارد.", "r": "be ghowl-e ma'ruf, yek dast sedā na-dārad.", "en": "As the saying goes, one hand can't clap.", "col": "به قول معروف، یه دست صدا نداره.", "colR": "be ghowl-e ma'ruf, ye dast sedā na-dāre."},
-    {"fa": "قدیمی‌ها گفته‌اند عجله کار شیطان است.", "r": "ghadimi-hā gofte-and ajale kār-e sheytān ast.", "en": "The old folks say haste is the devil's work.", "col": "قدیمیا گفتن عجله کار شیطونه.", "colR": "ghadimi-yā goftan ajale kār-e sheytun-e."},
-    {"fa": "حکایت ما حکایت مرغ همسایه شده است؛ همه می‌خواهند به خارج بروند.", "r": "hekāyat-e mā hekāyat-e morgh-e hamsāye shode ast; hame mi-khāhand be khārej beravand.", "en": "We've become the story of the neighbour's hen: everyone wants to go abroad.", "col": "حکایت ما شده حکایت مرغ همسایه؛ همه می‌خوان برن خارج.", "colR": "hekāyat-e mā shode hekāyat-e morgh-e hamsāye; hame mi-khān beran khārej."},
-    {"fa": "مثل معروفی است که می‌گوید: ماهی را هر وقت از آب بگیری، تازه است.", "r": "masal-e ma'ruf-i ast ke mi-guyad: māhi rā har vaght az āb begiri, tāze ast.", "en": "There's a well-known saying: whenever you take a fish out of the water, it's fresh.", "col": "یه مثل معروفی هست که می‌گه: ماهی رو هر وقت از آب بگیری، تازه‌ست.", "colR": "ye masal-e ma'ruf-i hast ke mi-ge: māhi ro har vaght az āb begiri, tāze-st."},
-    {"fa": "به قول سعدی، دوست آن باشد که گیرد دست دوست.", "r": "be ghowl-e Sa'di, dust ān bāshad ke girad dast-e dust.", "en": "As Saadi says, a friend is one who takes his friend's hand."},
-    {"fa": "تو که خودت می‌دانی: قطره قطره…", "r": "to ke khod-at mi-dāni: ghatre ghatre…", "en": "You know it yourself: drop by drop…", "col": "تو که خودت می‌دونی: قطره قطره…", "colR": "to ke khod-et mi-duni: ghatre ghatre…", "note": "Only the first half – the listener completes it."},
-    {"fa": "از قدیم گفته‌اند: کوه به کوه نمی‌رسد، آدم به آدم می‌رسد.", "r": "az ghadim gofte-and: kuh be kuh nemi-resad, ādam be ādam mi-resad.", "en": "As they've always said: mountains never meet, but people do.", "col": "از قدیم گفتن: کوه به کوه نمی‌رسه، آدم به آدم می‌رسه.", "colR": "az ghadim goftan: kuh be kuh nemi-rese, ādam be ādam mi-rese."}
+    {
+     "fa": "به قول معروف، یک دست صدا ندارد.",
+     "r": "be ghowl-e ma'ruf, yek dast sedā na-dārad.",
+     "en": "As the saying goes, one hand can't clap.",
+     "col": "به قول معروف، یه دست صدا نداره.",
+     "colR": "be ghowl-e ma'ruf, ye dast sedā na-dāre.",
+     "faV": "به قَولِ مَعروف، یِک دَست صِدا نَدارَد.",
+     "a": "73b21f232f4a",
+     "colV": "به قَولِ مَعروف، یه دَست صِدا نَداره.",
+     "colA": "7066f6f9b77c"
+    },
+    {
+     "fa": "قدیمی‌ها گفته‌اند عجله کار شیطان است.",
+     "r": "ghadimi-hā gofte-and ajale kār-e sheytān ast.",
+     "en": "The old folks say haste is the devil's work.",
+     "col": "قدیمیا گفتن عجله کار شیطونه.",
+     "colR": "ghadimi-yā goftan ajale kār-e sheytun-e.",
+     "faV": "قَدیمی‌ها گُفته‌اَند عَجَله کارِ شَیطان اَست.",
+     "a": "c7c5bda9ecf2",
+     "colV": "قَدیمیا گُفتَن عَجَله کارِ شَیطونه.",
+     "colA": "f78886b18e9e"
+    },
+    {
+     "fa": "حکایت ما حکایت مرغ همسایه شده است؛ همه می‌خواهند به خارج بروند.",
+     "r": "hekāyat-e mā hekāyat-e morgh-e hamsāye shode ast; hame mi-khāhand be khārej beravand.",
+     "en": "We've become the story of the neighbour's hen: everyone wants to go abroad.",
+     "col": "حکایت ما شده حکایت مرغ همسایه؛ همه می‌خوان برن خارج.",
+     "colR": "hekāyat-e mā shode hekāyat-e morgh-e hamsāye; hame mi-khān beran khārej.",
+     "faV": "حِکایَتِ ما حِکایَتِ مُرغِ هَمسایه شُده اَست؛ هَمه می‌خواهَند به خارِج بِرَوَند.",
+     "a": "36bc9ec0448e",
+     "colV": "حِکایَتِ ما شُده حِکایَتِ مُرغِ هَمسایه؛ هَمه می‌خوان بِرَن خارِج.",
+     "colA": "415ee3b6b290"
+    },
+    {
+     "fa": "مثل معروفی است که می‌گوید: ماهی را هر وقت از آب بگیری، تازه است.",
+     "r": "masal-e ma'ruf-i ast ke mi-guyad: māhi rā har vaght az āb begiri, tāze ast.",
+     "en": "There's a well-known saying: whenever you take a fish out of the water, it's fresh.",
+     "col": "یه مثل معروفی هست که می‌گه: ماهی رو هر وقت از آب بگیری، تازه‌ست.",
+     "colR": "ye masal-e ma'ruf-i hast ke mi-ge: māhi ro har vaght az āb begiri, tāze-st.",
+     "faV": "مَثَلِ مَعروفی اَست که می‌گویَد: ماهی را هَر وَقت اَز آب بِگیری، تازه اَست.",
+     "a": "db09be12804e",
+     "colV": "یه مَثَلِ مَعروفی هَست که می‌گه: ماهی رو هَر وَقت اَز آب بِگیری، تازه‌ست.",
+     "colA": "c116ed30dc54"
+    },
+    {
+     "fa": "به قول سعدی، دوست آن باشد که گیرد دست دوست.",
+     "r": "be ghowl-e Sa'di, dust ān bāshad ke girad dast-e dust.",
+     "en": "As Saadi says, a friend is one who takes his friend's hand.",
+     "faV": "به قَولِ سَعدی، دوست آن باشَد که گیرَد دَستِ دوست.",
+     "a": "5b295caed5f4"
+    },
+    {
+     "fa": "تو که خودت می‌دانی: قطره قطره…",
+     "r": "to ke khod-at mi-dāni: ghatre ghatre…",
+     "en": "You know it yourself: drop by drop…",
+     "col": "تو که خودت می‌دونی: قطره قطره…",
+     "colR": "to ke khod-et mi-duni: ghatre ghatre…",
+     "note": "Only the first half – the listener completes it.",
+     "faV": "تو که خودَت می‌دانی: قَطره قَطره…",
+     "a": "4defc85745f1",
+     "colV": "تو که خودِت می‌دونی: قَطره قَطره…",
+     "colA": "7932c6746677"
+    },
+    {
+     "fa": "از قدیم گفته‌اند: کوه به کوه نمی‌رسد، آدم به آدم می‌رسد.",
+     "r": "az ghadim gofte-and: kuh be kuh nemi-resad, ādam be ādam mi-resad.",
+     "en": "As they've always said: mountains never meet, but people do.",
+     "col": "از قدیم گفتن: کوه به کوه نمی‌رسه، آدم به آدم می‌رسه.",
+     "colR": "az ghadim goftan: kuh be kuh nemi-rese, ādam be ādam mi-rese.",
+     "faV": "اَز قَدیم گُفته‌اَند: کوه به کوه نِمی‌رِسَد، آدَم به آدَم می‌رِسَد.",
+     "a": "7aa269d4c187",
+     "colV": "اَز قَدیم گُفتَن: کوه به کوه نِمی‌رِسه، آدَم به آدَم می‌رِسه.",
+     "colA": "dd02bee206c2"
+    }
    ]
   },
   {
@@ -210,23 +1347,119 @@
    "title": "Auntie Bear's friendship",
    "intro": "The story behind دوستی خاله‌خرسه – 'Auntie Bear's friendship' – retold from the old fable that Rumi also tells in his Masnavi. Watch the narrative tenses: the simple past for events, the past continuous for background.",
    "sentences": [
-    {"fa": "روزی مردی در کوهستان خرسی را دید که با یک اژدها می‌جنگید.", "r": "ruz-i mard-i dar kuhestān khers-i rā did ke bā yek ezhdehā mi-jangid.", "en": "One day, in the mountains, a man saw a bear fighting a dragon."},
-    {"fa": "مرد دلش برای خرس سوخت، به اژدها حمله کرد و آن را کشت.", "r": "mard del-ash barā-ye khers sukht, be ezhdehā hamle kard va ān rā kosht.", "en": "The man felt sorry for the bear (lit. his heart burned for the bear), attacked the dragon and killed it."},
-    {"fa": "از آن روز، خرس دوست وفادار مرد شد و همه جا دنبال او می‌رفت.", "r": "az ān ruz, khers dust-e vafādār-e mard shod va hame jā donbāl-e u mi-raft.", "en": "From that day on, the bear became the man's faithful friend and followed him everywhere."},
-    {"fa": "مردم ده به او گفتند: «به خرس اعتماد نکن؛ دوستی نادان از دشمنی بدتر است.»", "r": "mardom-e deh be u goftand: «be khers e'temād na-kon; dusti-ye nādān az doshmani bad-tar ast.»", "en": "The villagers told him: 'Don't trust a bear. A fool's friendship is worse than enmity.'"},
-    {"fa": "اما مرد گوش نکرد و گفت: «خرس من از هر آدمی وفادارتر است.»", "r": "ammā mard gush na-kard va goft: «khers-e man az har ādam-i vafādār-tar ast.»", "en": "But the man wouldn't listen. 'My bear is more loyal than any human being,' he said."},
-    {"fa": "یک روز گرم، مرد زیر درختی خوابید و خرس کنارش نشست تا از او مراقبت کند.", "r": "yek ruz-e garm, mard zir-e derakht-i khābid va khers kenār-ash neshast tā az u morāghebat konad.", "en": "One hot day the man lay down to sleep under a tree, and the bear sat beside him to watch over him."},
-    {"fa": "مگسی آمد و روی صورت مرد نشست.", "r": "magas-i āmad va ru-ye surat-e mard neshast.", "en": "A fly came and settled on the man's face."},
-    {"fa": "خرس مگس را کنار زد، اما مگس دوباره برگشت.", "r": "khers magas rā kenār zad, ammā magas dobāre bargasht.", "en": "The bear brushed the fly away, but the fly came back."},
-    {"fa": "خرس عصبانی شد، سنگ بزرگی برداشت و با تمام قدرت روی مگس کوبید.", "r": "khers asabāni shod, sang-e bozorg-i bardāsht va bā tamām-e ghodrat ru-ye magas kubid.", "en": "The bear lost its temper, picked up a big stone and brought it down on the fly with all its strength."},
-    {"fa": "مگس پرید و رفت، اما مرد بیچاره دیگر هرگز بیدار نشد.", "r": "magas parid va raft, ammā mard-e bichāre digar hargez bidār na-shod.", "en": "The fly flew off – but the poor man never woke up again."},
-    {"fa": "از آن زمان، به کمکی که به جای فایده ضرر می‌رساند، «دوستی خاله‌خرسه» می‌گویند.", "r": "az ān zamān, be komak-i ke be jā-ye fāyede zarar mi-resānad, «dusti-ye khāle-khers-e» mi-guyand.", "en": "Ever since, help that does harm instead of good has been called 'Auntie Bear's friendship'."},
-    {"fa": "مولوی هم این داستان قدیمی را در مثنوی آورده است.", "r": "Mowlavi ham in dāstān-e ghadimi rā dar Masnavi āvarde ast.", "en": "Rumi, too, tells this old story in his Masnavi."}
+    {
+     "fa": "روزی مردی در کوهستان خرسی را دید که با یک اژدها می‌جنگید.",
+     "r": "ruz-i mard-i dar kuhestān khers-i rā did ke bā yek ezhdehā mi-jangid.",
+     "en": "One day, in the mountains, a man saw a bear fighting a dragon.",
+     "faV": "روزی مَردی دَر کوهِستان خِرسی را دید که با یِک اِژدِها می‌جَنگید.",
+     "a": "0031d01d92ee"
+    },
+    {
+     "fa": "مرد دلش برای خرس سوخت، به اژدها حمله کرد و آن را کشت.",
+     "r": "mard del-ash barā-ye khers sukht, be ezhdehā hamle kard va ān rā kosht.",
+     "en": "The man felt sorry for the bear (lit. his heart burned for the bear), attacked the dragon and killed it.",
+     "faV": "مَرد دِلَش بَرایِ خِرس سوخت، به اِژدِها حَمله کَرد و آن را کُشت.",
+     "a": "666958d56f72"
+    },
+    {
+     "fa": "از آن روز، خرس دوست وفادار مرد شد و همه جا دنبال او می‌رفت.",
+     "r": "az ān ruz, khers dust-e vafādār-e mard shod va hame jā donbāl-e u mi-raft.",
+     "en": "From that day on, the bear became the man's faithful friend and followed him everywhere.",
+     "faV": "اَز آن روز، خِرس دوستِ وَفادارِ مَرد شُد و هَمه جا دُنبالِ او می‌رَفت.",
+     "a": "86ca3e24e6a3"
+    },
+    {
+     "fa": "مردم ده به او گفتند: «به خرس اعتماد نکن؛ دوستی نادان از دشمنی بدتر است.»",
+     "r": "mardom-e deh be u goftand: «be khers e'temād na-kon; dusti-ye nādān az doshmani bad-tar ast.»",
+     "en": "The villagers told him: 'Don't trust a bear. A fool's friendship is worse than enmity.'",
+     "faV": "مَردُمِ دِه به او گُفتَند: «به خِرس اِعتِماد نَکُن؛ دوستیِ نادان اَز دُشمَنی بَدتَر اَست.»",
+     "a": "fedb2befd17b"
+    },
+    {
+     "fa": "اما مرد گوش نکرد و گفت: «خرس من از هر آدمی وفادارتر است.»",
+     "r": "ammā mard gush na-kard va goft: «khers-e man az har ādam-i vafādār-tar ast.»",
+     "en": "But the man wouldn't listen. 'My bear is more loyal than any human being,' he said.",
+     "faV": "اَمّا مَرد گوش نَکَرد و گُفت: «خِرسِ مَن اَز هَر آدَمی وَفادارتَر اَست.»",
+     "a": "b67e711ff499"
+    },
+    {
+     "fa": "یک روز گرم، مرد زیر درختی خوابید و خرس کنارش نشست تا از او مراقبت کند.",
+     "r": "yek ruz-e garm, mard zir-e derakht-i khābid va khers kenār-ash neshast tā az u morāghebat konad.",
+     "en": "One hot day the man lay down to sleep under a tree, and the bear sat beside him to watch over him.",
+     "faV": "یِک روزِ گَرم، مَرد زیرِ دِرَختی خوابید و خِرس کِنارَش نِشَست تا اَز او مُراقِبَت کُنَد.",
+     "a": "bbfdacfa9ba4"
+    },
+    {
+     "fa": "مگسی آمد و روی صورت مرد نشست.",
+     "r": "magas-i āmad va ru-ye surat-e mard neshast.",
+     "en": "A fly came and settled on the man's face.",
+     "faV": "مَگَسی آمَد و رویِ صورَتِ مَرد نِشَست.",
+     "a": "a9dff6496e10"
+    },
+    {
+     "fa": "خرس مگس را کنار زد، اما مگس دوباره برگشت.",
+     "r": "khers magas rā kenār zad, ammā magas dobāre bargasht.",
+     "en": "The bear brushed the fly away, but the fly came back.",
+     "faV": "خِرس مَگَس را کِنار زَد، اَمّا مَگَس دوباره بَرگَشت.",
+     "a": "3d100d1b4e35"
+    },
+    {
+     "fa": "خرس عصبانی شد، سنگ بزرگی برداشت و با تمام قدرت روی مگس کوبید.",
+     "r": "khers asabāni shod, sang-e bozorg-i bardāsht va bā tamām-e ghodrat ru-ye magas kubid.",
+     "en": "The bear lost its temper, picked up a big stone and brought it down on the fly with all its strength.",
+     "faV": "خِرس عَصَبانی شُد، سَنگِ بُزُرگی بَرداشت و با تَمامِ قُدرَت رویِ مَگَس کوبید.",
+     "a": "e9628d46021a"
+    },
+    {
+     "fa": "مگس پرید و رفت، اما مرد بیچاره دیگر هرگز بیدار نشد.",
+     "r": "magas parid va raft, ammā mard-e bichāre digar hargez bidār na-shod.",
+     "en": "The fly flew off – but the poor man never woke up again.",
+     "faV": "مَگَس پَرید و رَفت، اَمّا مَردِ بیچاره دیگَر هَرگِز بیدار نَشُد.",
+     "a": "4cecf4c1ca0f"
+    },
+    {
+     "fa": "از آن زمان، به کمکی که به جای فایده ضرر می‌رساند، «دوستی خاله‌خرسه» می‌گویند.",
+     "r": "az ān zamān, be komak-i ke be jā-ye fāyede zarar mi-resānad, «dusti-ye khāle-khers-e» mi-guyand.",
+     "en": "Ever since, help that does harm instead of good has been called 'Auntie Bear's friendship'.",
+     "faV": "اَز آن زَمان، به کُمَکی که به جایِ فایِده ضَرَر می‌رِسانَد، «دوستیِ خاله‌خِرسه» می‌گویَند.",
+     "a": "68a48c9f4413"
+    },
+    {
+     "fa": "مولوی هم این داستان قدیمی را در مثنوی آورده است.",
+     "r": "Mowlavi ham in dāstān-e ghadimi rā dar Masnavi āvarde ast.",
+     "en": "Rumi, too, tells this old story in his Masnavi.",
+     "faV": "مَولَوی هَم این داستانِ قَدیمی را دَر مَثنَوی آوَرده اَست.",
+     "a": "5d3879b7d570"
+    }
    ],
    "questions": [
-    {"q": "Why did the bear follow the man everywhere?", "options": ["The man fed it every day.", "The man had saved it from a dragon.", "It was lost in the mountains."], "answer": 1},
-    {"q": "What did the villagers warn the man about?", "options": ["dragons in the mountains", "the friendship of a fool", "sleeping under trees"], "answer": 1},
-    {"q": "What does دوستی خاله‌خرسه mean today?", "options": ["a very loyal friend", "help that does more harm than good", "a friendship between animals"], "answer": 1}
+    {
+     "q": "Why did the bear follow the man everywhere?",
+     "options": [
+      "The man fed it every day.",
+      "The man had saved it from a dragon.",
+      "It was lost in the mountains."
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What did the villagers warn the man about?",
+     "options": [
+      "dragons in the mountains",
+      "the friendship of a fool",
+      "sleeping under trees"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What does دوستی خاله‌خرسه mean today?",
+     "options": [
+      "a very loyal friend",
+      "help that does more harm than good",
+      "a friendship between animals"
+     ],
+     "answer": 1
+    }
    ]
   },
   {
@@ -252,14 +1485,62 @@
    "kind": "match",
    "title": "Match the proverb with its meaning",
    "items": [
-    {"fa": "مرغ همسایه غاز است.", "r": "morgh-e hamsāye ghāz ast.", "en": "The grass is always greener."},
-    {"fa": "یک دست صدا ندارد.", "r": "yek dast sedā na-dārad.", "en": "It takes teamwork."},
-    {"fa": "عجله کار شیطان است.", "r": "ajale kār-e sheytān ast.", "en": "Haste makes waste."},
-    {"fa": "هر گردی گردو نیست.", "r": "har gerd-i gerdu nist.", "en": "Looks can deceive."},
-    {"fa": "شتر دیدی، ندیدی.", "r": "shotor didi, na-didi.", "en": "Keep it to yourself."},
-    {"fa": "ماهی را هر وقت از آب بگیری، تازه است.", "r": "māhi rā har vaght az āb begiri, tāze ast.", "en": "It's never too late."},
-    {"fa": "کار نیکو کردن از پر کردن است.", "r": "kār-e niku kardan az por kardan ast.", "en": "Practice makes perfect."},
-    {"fa": "مارگزیده از ریسمان سیاه و سفید می‌ترسد.", "r": "mār-gazide az rismān-e siyāh o sefid mi-tarsad.", "en": "Once bitten, twice shy."}
+    {
+     "fa": "مرغ همسایه غاز است.",
+     "r": "morgh-e hamsāye ghāz ast.",
+     "en": "The grass is always greener.",
+     "faV": "مُرغِ هَمسایه غاز اَست.",
+     "a": "2c7182f10aad"
+    },
+    {
+     "fa": "یک دست صدا ندارد.",
+     "r": "yek dast sedā na-dārad.",
+     "en": "It takes teamwork.",
+     "faV": "یِک دَست صِدا نَدارَد.",
+     "a": "7ba2ee7ca4a4"
+    },
+    {
+     "fa": "عجله کار شیطان است.",
+     "r": "ajale kār-e sheytān ast.",
+     "en": "Haste makes waste.",
+     "faV": "عَجَله کارِ شَیطان اَست.",
+     "a": "76c0defcd0c6"
+    },
+    {
+     "fa": "هر گردی گردو نیست.",
+     "r": "har gerd-i gerdu nist.",
+     "en": "Looks can deceive.",
+     "faV": "هَر گِردی گِردو نیست.",
+     "a": "6b28ba064c66"
+    },
+    {
+     "fa": "شتر دیدی، ندیدی.",
+     "r": "shotor didi, na-didi.",
+     "en": "Keep it to yourself.",
+     "faV": "شُتُر دیدی، نَدیدی.",
+     "a": "c6be5dc5478b"
+    },
+    {
+     "fa": "ماهی را هر وقت از آب بگیری، تازه است.",
+     "r": "māhi rā har vaght az āb begiri, tāze ast.",
+     "en": "It's never too late.",
+     "faV": "ماهی را هَر وَقت اَز آب بِگیری، تازه اَست.",
+     "a": "b4a649189d2a"
+    },
+    {
+     "fa": "کار نیکو کردن از پر کردن است.",
+     "r": "kār-e niku kardan az por kardan ast.",
+     "en": "Practice makes perfect.",
+     "faV": "کارِ نیکو کَردَن اَز پُر کَردَن اَست.",
+     "a": "8d3bf8b9d5da"
+    },
+    {
+     "fa": "مارگزیده از ریسمان سیاه و سفید می‌ترسد.",
+     "r": "mār-gazide az rismān-e siyāh o sefid mi-tarsad.",
+     "en": "Once bitten, twice shy.",
+     "faV": "مارگَزیده اَز ریسمانِ سیاه و سِفید می‌تَرسَد.",
+     "a": "453e09cbb83e"
+    }
    ]
   },
   {
@@ -267,12 +1548,45 @@
    "kind": "fill",
    "title": "Complete the proverb",
    "items": [
-    {"fa": "قطره قطره جمع گردد، وانگهی ___ شود.", "r": "ghatre ghatre jam' gardad, vāngahi ___ shavad.", "en": "Drop by drop it gathers, and then it becomes a sea.", "answer": "دریا"},
-    {"fa": "دیوار موش دارد، موش هم ___ دارد.", "r": "divār mush dārad, mush ham ___ dārad.", "en": "Walls have ears.", "answer": "گوش"},
-    {"fa": "هر که بامش بیش، ___ بیشتر.", "r": "har ke bām-ash bish, ___ bish-tar.", "en": "The bigger the roof, the more snow.", "answer": "برفش", "hint": "snow + its"},
-    {"fa": "از تو حرکت، از خدا ___.", "r": "az to harekat, az khodā ___.", "en": "God helps those who help themselves.", "answer": "برکت", "hint": "it rhymes with حرکت"},
-    {"fa": "جوجه را آخر ___ می‌شمارند.", "r": "juje rā ākhar-e ___ mi-shomārand.", "en": "Don't count your chickens before they're hatched.", "answer": "پاییز", "hint": "a season"},
-    {"fa": "تا ___ گرم است، باید نان را چسباند.", "r": "tā ___ garm ast, bāyad nān rā chasbānd.", "en": "Strike while the iron is hot.", "answer": "تنور"}
+    {
+     "fa": "قطره قطره جمع گردد، وانگهی ___ شود.",
+     "r": "ghatre ghatre jam' gardad, vāngahi ___ shavad.",
+     "en": "Drop by drop it gathers, and then it becomes a sea.",
+     "answer": "دریا"
+    },
+    {
+     "fa": "دیوار موش دارد، موش هم ___ دارد.",
+     "r": "divār mush dārad, mush ham ___ dārad.",
+     "en": "Walls have ears.",
+     "answer": "گوش"
+    },
+    {
+     "fa": "هر که بامش بیش، ___ بیشتر.",
+     "r": "har ke bām-ash bish, ___ bish-tar.",
+     "en": "The bigger the roof, the more snow.",
+     "answer": "برفش",
+     "hint": "snow + its"
+    },
+    {
+     "fa": "از تو حرکت، از خدا ___.",
+     "r": "az to harekat, az khodā ___.",
+     "en": "God helps those who help themselves.",
+     "answer": "برکت",
+     "hint": "it rhymes with حرکت"
+    },
+    {
+     "fa": "جوجه را آخر ___ می‌شمارند.",
+     "r": "juje rā ākhar-e ___ mi-shomārand.",
+     "en": "Don't count your chickens before they're hatched.",
+     "answer": "پاییز",
+     "hint": "a season"
+    },
+    {
+     "fa": "تا ___ گرم است، باید نان را چسباند.",
+     "r": "tā ___ garm ast, bāyad nān rā chasbānd.",
+     "en": "Strike while the iron is hot.",
+     "answer": "تنور"
+    }
    ]
   },
   {
@@ -280,12 +1594,63 @@
    "kind": "mcq",
    "title": "Which proverb fits?",
    "items": [
-    {"q": "Your friend wants to buy a car he can't afford, with a huge loan. You say:", "options": ["پایت را به اندازه‌ی گلیمت دراز کن.", "کوه به کوه نمی‌رسد، آدم به آدم می‌رسد.", "شتر دیدی، ندیدی."], "answer": 0},
-    {"q": "A colleague is celebrating a contract that hasn't been signed yet:", "options": ["مرغ همسایه غاز است.", "جوجه را آخر پاییز می‌شمارند.", "یک دست صدا ندارد."], "answer": 1},
-    {"q": "Your 55-year-old aunt has started learning English and feels silly:", "options": ["عجله کار شیطان است.", "ماهی را هر وقت از آب بگیری، تازه است.", "هر گردی گردو نیست."], "answer": 1},
-    {"q": "In [[توانا بود هر که دانا بود|tavānā bovad har ke dānā bovad]], بود means…", "options": ["was", "is (always)", "will be"], "answer": 1, "explain": "Here it is the old present bovad, not the past bud."},
-    {"q": "[[مینداز|mayandāz]] in modern Persian is…", "options": ["می‌اندازد", "نینداز", "بینداز"], "answer": 1, "explain": "مـ is the old prefix for 'don't': مینداز = نینداز."},
-    {"q": "Which phrase introduces a proverb?", "options": ["به قول معروف", "به نظر من", "به خاطر اینکه"], "answer": 0, "explain": "به قول معروف – 'as the saying goes'. The others mean 'in my opinion' and 'because'."}
+    {
+     "q": "Your friend wants to buy a car he can't afford, with a huge loan. You say:",
+     "options": [
+      "پایت را به اندازه‌ی گلیمت دراز کن.",
+      "کوه به کوه نمی‌رسد، آدم به آدم می‌رسد.",
+      "شتر دیدی، ندیدی."
+     ],
+     "answer": 0
+    },
+    {
+     "q": "A colleague is celebrating a contract that hasn't been signed yet:",
+     "options": [
+      "مرغ همسایه غاز است.",
+      "جوجه را آخر پاییز می‌شمارند.",
+      "یک دست صدا ندارد."
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Your 55-year-old aunt has started learning English and feels silly:",
+     "options": [
+      "عجله کار شیطان است.",
+      "ماهی را هر وقت از آب بگیری، تازه است.",
+      "هر گردی گردو نیست."
+     ],
+     "answer": 1
+    },
+    {
+     "q": "In [[توانا بود هر که دانا بود|tavānā bovad har ke dānā bovad]], بود means…",
+     "options": [
+      "was",
+      "is (always)",
+      "will be"
+     ],
+     "answer": 1,
+     "explain": "Here it is the old present bovad, not the past bud."
+    },
+    {
+     "q": "[[مینداز|mayandāz]] in modern Persian is…",
+     "options": [
+      "می‌اندازد",
+      "نینداز",
+      "بینداز"
+     ],
+     "answer": 1,
+     "explain": "مـ is the old prefix for 'don't': مینداز = نینداز."
+    },
+    {
+     "q": "Which phrase introduces a proverb?",
+     "options": [
+      "به قول معروف",
+      "به نظر من",
+      "به خاطر اینکه"
+     ],
+     "answer": 0,
+     "explain": "به قول معروف – 'as the saying goes'. The others mean 'in my opinion' and 'because'."
+    }
    ]
   },
   {
@@ -293,12 +1658,48 @@
    "kind": "translate",
    "title": "Say it in Persian",
    "items": [
-    {"en": "As the saying goes, one hand can't clap.", "fa": "به قول معروف، یک دست صدا ندارد.", "r": "be ghowl-e ma'ruf, yek dast sedā na-dārad."},
-    {"en": "Never put off till tomorrow what you can do today.", "fa": "کار امروز را به فردا مینداز.", "r": "kār-e emruz rā be fardā mayandāz."},
-    {"en": "The grass is always greener on the other side.", "fa": "مرغ همسایه غاز است.", "r": "morgh-e hamsāye ghāz ast."},
-    {"en": "Walls have ears.", "fa": "دیوار موش دارد، موش هم گوش دارد.", "r": "divār mush dārad, mush ham gush dārad."},
-    {"en": "No pain, no gain.", "fa": "نابرده رنج، گنج میسر نمی‌شود.", "r": "nā-borde ranj, ganj moyassar nemi-shavad."},
-    {"en": "Haste is the devil's work.", "fa": "عجله کار شیطان است.", "r": "ajale kār-e sheytān ast."}
+    {
+     "en": "As the saying goes, one hand can't clap.",
+     "fa": "به قول معروف، یک دست صدا ندارد.",
+     "r": "be ghowl-e ma'ruf, yek dast sedā na-dārad.",
+     "faV": "به قَولِ مَعروف، یِک دَست صِدا نَدارَد.",
+     "a": "73b21f232f4a"
+    },
+    {
+     "en": "Never put off till tomorrow what you can do today.",
+     "fa": "کار امروز را به فردا مینداز.",
+     "r": "kār-e emruz rā be fardā mayandāz.",
+     "faV": "کارِ اِمروز را به فَردا مَیَنداز.",
+     "a": "a6facd8408cf"
+    },
+    {
+     "en": "The grass is always greener on the other side.",
+     "fa": "مرغ همسایه غاز است.",
+     "r": "morgh-e hamsāye ghāz ast.",
+     "faV": "مُرغِ هَمسایه غاز اَست.",
+     "a": "2c7182f10aad"
+    },
+    {
+     "en": "Walls have ears.",
+     "fa": "دیوار موش دارد، موش هم گوش دارد.",
+     "r": "divār mush dārad, mush ham gush dārad.",
+     "faV": "دیوار موش دارَد، موش هَم گوش دارَد.",
+     "a": "effc66813e54"
+    },
+    {
+     "en": "No pain, no gain.",
+     "fa": "نابرده رنج، گنج میسر نمی‌شود.",
+     "r": "nā-borde ranj, ganj moyassar nemi-shavad.",
+     "faV": "نابُرده رَنج، گَنج مُیَسَّر نِمی‌شَوَد.",
+     "a": "394b7bda2742"
+    },
+    {
+     "en": "Haste is the devil's work.",
+     "fa": "عجله کار شیطان است.",
+     "r": "ajale kār-e sheytān ast.",
+     "faV": "عَجَله کارِ شَیطان اَست.",
+     "a": "76c0defcd0c6"
+    }
    ]
   },
   {
@@ -306,10 +1707,34 @@
    "kind": "order",
    "title": "Put the words in order",
    "items": [
-    {"fa": "یک دست صدا ندارد.", "r": "yek dast sedā na-dārad.", "en": "One hand can't clap."},
-    {"fa": "هر گردی گردو نیست.", "r": "har gerd-i gerdu nist.", "en": "Not every round thing is a walnut."},
-    {"fa": "کار امروز را به فردا مینداز.", "r": "kār-e emruz rā be fardā mayandāz.", "en": "Don't put off today's work till tomorrow."},
-    {"fa": "ماهی را هر وقت از آب بگیری، تازه است.", "r": "māhi rā har vaght az āb begiri, tāze ast.", "en": "Whenever you take a fish out of the water, it's fresh."}
+    {
+     "fa": "یک دست صدا ندارد.",
+     "r": "yek dast sedā na-dārad.",
+     "en": "One hand can't clap.",
+     "faV": "یِک دَست صِدا نَدارَد.",
+     "a": "7ba2ee7ca4a4"
+    },
+    {
+     "fa": "هر گردی گردو نیست.",
+     "r": "har gerd-i gerdu nist.",
+     "en": "Not every round thing is a walnut.",
+     "faV": "هَر گِردی گِردو نیست.",
+     "a": "6b28ba064c66"
+    },
+    {
+     "fa": "کار امروز را به فردا مینداز.",
+     "r": "kār-e emruz rā be fardā mayandāz.",
+     "en": "Don't put off today's work till tomorrow.",
+     "faV": "کارِ اِمروز را به فَردا مَیَنداز.",
+     "a": "a6facd8408cf"
+    },
+    {
+     "fa": "ماهی را هر وقت از آب بگیری، تازه است.",
+     "r": "māhi rā har vaght az āb begiri, tāze ast.",
+     "en": "Whenever you take a fish out of the water, it's fresh.",
+     "faV": "ماهی را هَر وَقت اَز آب بِگیری، تازه اَست.",
+     "a": "b4a649189d2a"
+    }
    ]
   },
   {
@@ -317,11 +1742,61 @@
    "kind": "listen",
    "title": "Listen and choose",
    "items": [
-    {"fa": "ماهی را هر وقت از آب بگیری، تازه است.", "r": "māhi rā har vaght az āb begiri, tāze ast.", "en": "It's never too late.", "options": ["It's never too late.", "Fish is expensive today.", "Don't go fishing in winter."], "answer": 0},
-    {"fa": "از تو حرکت، از خدا برکت.", "r": "az to harekat, az khodā barekat.", "en": "God helps those who help themselves.", "options": ["Thank God for the harvest.", "God helps those who help themselves.", "Don't move."], "answer": 1},
-    {"fa": "آشپز که دو تا شد، آش یا شور می‌شود یا بی‌نمک.", "r": "āshpaz ke do tā shod, āsh yā shur mi-shavad yā bi-namak.", "en": "Too many cooks spoil the broth.", "options": ["The soup needs more salt.", "Two cooks are better than one.", "Too many cooks spoil the broth."], "answer": 2},
-    {"fa": "کوه به کوه نمی‌رسد، آدم به آدم می‌رسد.", "r": "kuh be kuh nemi-resad, ādam be ādam mi-resad.", "en": "It's a small world; we'll meet again.", "options": ["It's a small world; we'll meet again.", "Mountains are far apart.", "People should climb mountains together."], "answer": 0}
+    {
+     "fa": "ماهی را هر وقت از آب بگیری، تازه است.",
+     "r": "māhi rā har vaght az āb begiri, tāze ast.",
+     "en": "It's never too late.",
+     "options": [
+      "It's never too late.",
+      "Fish is expensive today.",
+      "Don't go fishing in winter."
+     ],
+     "answer": 0,
+     "faV": "ماهی را هَر وَقت اَز آب بِگیری، تازه اَست.",
+     "a": "b4a649189d2a"
+    },
+    {
+     "fa": "از تو حرکت، از خدا برکت.",
+     "r": "az to harekat, az khodā barekat.",
+     "en": "God helps those who help themselves.",
+     "options": [
+      "Thank God for the harvest.",
+      "God helps those who help themselves.",
+      "Don't move."
+     ],
+     "answer": 1,
+     "faV": "اَز تو حَرِکَت، اَز خُدا بَرِکَت.",
+     "a": "b8d093fe2f3a"
+    },
+    {
+     "fa": "آشپز که دو تا شد، آش یا شور می‌شود یا بی‌نمک.",
+     "r": "āshpaz ke do tā shod, āsh yā shur mi-shavad yā bi-namak.",
+     "en": "Too many cooks spoil the broth.",
+     "options": [
+      "The soup needs more salt.",
+      "Two cooks are better than one.",
+      "Too many cooks spoil the broth."
+     ],
+     "answer": 2,
+     "faV": "آشپَز که دو تا شُد، آش یا شور می‌شَوَد یا بی‌نَمَک.",
+     "a": "f9e38f4eee80"
+    },
+    {
+     "fa": "کوه به کوه نمی‌رسد، آدم به آدم می‌رسد.",
+     "r": "kuh be kuh nemi-resad, ādam be ādam mi-resad.",
+     "en": "It's a small world; we'll meet again.",
+     "options": [
+      "It's a small world; we'll meet again.",
+      "Mountains are far apart.",
+      "People should climb mountains together."
+     ],
+     "answer": 0,
+     "faV": "کوه به کوه نِمی‌رِسَد، آدَم به آدَم می‌رِسَد.",
+     "a": "a4d1de968209"
+    }
    ]
   }
- ]
+ ],
+ "titleV": "به قَولِ قَدیمی‌ها",
+ "titleA": "23a63220034e"
 }

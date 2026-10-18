@@ -86,8 +86,16 @@ Classical poetry, literary prose, the history of the language, dialects and Dari
 
 1. [Hafez: the first ghazal](lessons/b2-01-hafez.md) — حافظ و نخستین غزل دیوان
 2. [Rumi and the reed](lessons/b2-02-rumi-and-the-reed.md) — مولانا و نی‌نامه
+3. [Saadi and Ferdowsi](lessons/b2-03-saadi-and-ferdowsi.md) — سعدی و فردوسی
+6. [Dari and Tajik: one language, three standards](lessons/b2-06-dari-and-tajik.md) — فارسی، دری، تاجیکی
 
-## Part 6. Stories — داستان‌ها
+## Part 6. Advanced (C1) — عالی
+
+Academic and official Persian, translation, rhetoric, calligraphy and the words that travelled from Persian into English.
+
+1. [Academic Persian: how scholars write](lessons/c1-01-academic-persian.md) — فارسی دانشگاهی
+
+## Part 7. Stories — داستان‌ها
 
 Graded readers, from very easy to literary.
 
@@ -137,7 +145,7 @@ Graded readers, from very easy to literary.
 - [The blind owl of the bazaar](stories/b2-the-blind-owl-of-the-bazaar.md) — بوف کور بازار
 - [Layli and Majnun](stories/b2-layli-and-majnun.md) — لیلی و مجنون
 
-## Part 7. Iran in pictures and stories — فرهنگ ایران
+## Part 8. Iran in pictures and stories — فرهنگ ایران
 
 **History**
 
@@ -225,10 +233,12 @@ Graded readers, from very easy to literary.
 - [Saadi](culture/people-saadi.md) — سعدی
 - [Hafez](culture/people-hafez.md) — حافظ
 - [Attar and Nezami](culture/people-attar-and-nezami.md) — عطار و نظامی
+- [Khwarazmi, Razi and Biruni](culture/people-biruni-khwarazmi-razi.md) — خوارزمی، رازی و بیرونی
 
 **Language**
 
 - [The history of Persian](culture/language-history-of-persian.md) — تاریخ زبان فارسی
+- [Farsi, Dari and Tajik](culture/language-dari-and-tajik.md) — فارسی، دری و تاجیکی
 
 **Everyday life**
 
@@ -243,7 +253,7 @@ Graded readers, from very easy to literary.
 - [Tea houses and cafés](culture/life-tea-houses-and-cafes.md) — قهوه‌خانه و کافه
 - [Persian cats and other animals](culture/life-iranian-cats-and-animals.md) — گربه‌ی ایرانی و جانوران دیگر
 
-## Part 8. Poetry — شعر
+## Part 9. Poetry — شعر
 
 - [Children of Adam](poetry/saadi-bani-adam.md) — Saadi
 - [The Song of the Reed](poetry/rumi-ney-name.md) — Rumi
@@ -254,8 +264,9 @@ Graded readers, from very easy to literary.
 - [The scent of the Muliyan](poetry/rudaki-bu-ye-juy-e-muliyan.md) — Rudaki
 - [The eye and the heart](poetry/baba-taher-del.md) — Baba Taher
 - [Thanks be to God](poetry/saadi-golestan-opening.md) — Saadi
+- [Lost Joseph will come back](poetry/hafez-yusef-e-gomgashte.md) — Hafez
 
-## Part 9. Reference
+## Part 10. Reference
 
 - [Phrasebook](phrasebook.md)
 - [Proverbs and idioms](idioms.md)

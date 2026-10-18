@@ -1,0 +1,1249 @@
+{
+ "id": "b2-03-saadi-and-ferdowsi",
+ "level": "B2",
+ "n": 3,
+ "title": "Saadi and Ferdowsi",
+ "titleFa": "سعدی و فردوسی",
+ "titleR": "Sa'di o Ferdowsi",
+ "intro": "Two styles every Iranian knows by ear. Saadi's Golestan (1258) tells short, wise stories in prose that rhymes; Ferdowsi's Shahnameh, finished around 1010, tells the history of Iran in some 50,000 marching couplets, in a Persian with remarkably few Arabic words. In this lesson you read a complete Golestan story in the original, retell it in today's Persian, learn how rhymed prose works, and meet the epic voice of «توانا بود هر که دانا بود».",
+ "goals": [
+  "read a complete story from the Golestan in the original and retell it in modern Persian",
+  "recognise سجع, Saadi's rhymed prose, with its short, balanced, verb-sharing clauses",
+  "read couplets of the Shahnameh, including «توانا بود هر که دانا بود / ز دانش دل پیر برنا بود»",
+  "explain why Ferdowsi's Persian has so few Arabic words, and pair his words with their Arabic counterparts"
+ ],
+ "image": "tomb-of-saadi",
+ "sections": [
+  {
+   "type": "reading",
+   "title": "A story from the Golestan: the slave in the boat",
+   "intro": "The seventh story of the first chapter of the Golestan, «در سیرت پادشاهان» ('On the conduct of kings'), complete. In Saadi's day the boat was a terrifying place: notice how few words he needs to tell a whole story. The story is followed in the book by a short poem on the same theme, which we leave out.",
+   "sentences": [
+    {
+     "fa": "پادشاهی با غلامی عجمی در کشتی نشست و غلام دیگر دریا را ندیده بود و محنت کشتی نیازموده.",
+     "r": "pādshāh-i bā gholām-i ajami dar keshti neshast va gholām digar daryā rā nadide bud va mehnat-e keshti nayāzmude.",
+     "en": "A king boarded a boat with a Persian slave; the slave had never seen the sea before, nor known the hardships of a ship.",
+     "note": "[[عجمی|ajami]] 'non-Arab, Persian'. [[دیگر|digar]] here means 'ever before'. In the second half the verb [[بود|bud]] is left out: [[نیازموده (بود)|nayāzmude (bud)]] 'had not tried'.",
+     "faV": "پادشاهی با غُلامی عَجَمی دَر کِشتی نِشَست و غُلام دیگَر دَریا را نَدیده بود و مِحنَتِ کِشتی نَیازموده.",
+     "a": "1d4713da03e8"
+    },
+    {
+     "fa": "گریه و زاری در نهاد و لرزه بر اندامش اوفتاد.",
+     "r": "gerye o zāri dar nahād o larze bar andām-ash uftād.",
+     "en": "He began to weep and wail, and a trembling came over his limbs.",
+     "note": "[[در نهادن|dar nahādan]] 'to begin'. [[اوفتاد|uftād]] is an old spelling of [[افتاد|oftād]]. Hear the rhyme: [[نهاد|nahād]] – [[اوفتاد|uftād]].",
+     "faV": "گِریه و زاری دَر نَهاد و لَرزه بَر اَندامَش اوفتاد.",
+     "a": "dbe0464247c0"
+    },
+    {
+     "fa": "چندان که ملاطفت کردند آرام نمی‌گرفت و عیش ملک ازو منغص بود.",
+     "r": "chandān ke molātefat kardand ārām nemi-gereft va eysh-e malek az-u monaghghas bud.",
+     "en": "However kindly they treated him, he would not calm down, and he spoiled the king's pleasure.",
+     "note": "[[چندان که|chandān ke]] 'however much'; [[ملک|malek]] 'king'; [[ازو|azu]] = [[از او|az u]]; [[منغص|monaghghas]] 'spoiled, troubled'.",
+     "faV": "چَندان که مُلاطِفَت کَردَند آرام نِمی‌گِرِفت و عَیشِ مَلِک اَزو مُنَغَّص بود.",
+     "a": "a7119b0133c9"
+    },
+    {
+     "fa": "چاره ندانستند.",
+     "r": "chāre nadānestand.",
+     "en": "They did not know what to do.",
+     "faV": "چاره نَدانِستَند.",
+     "a": "d338e9ab7052"
+    },
+    {
+     "fa": "حکیمی در آن کشتی بود.",
+     "r": "hakim-i dar ān keshti bud.",
+     "en": "There was a wise man on that boat.",
+     "faV": "حَکیمی دَر آن کِشتی بود.",
+     "a": "12bb902d0652"
+    },
+    {
+     "fa": "ملک را گفت: اگر فرمان دهی، من او را به طریقی خامش گردانم.",
+     "r": "malek rā goft: agar farmān dehi, man u rā be tarigh-i khāmosh gardānam.",
+     "en": "He said to the king, 'If you command it, I will quieten him by a certain method.'",
+     "note": "[[ملک را گفت|malek rā goft]] = [[به پادشاه گفت|be pādshāh goft]]: here را means 'to'. [[خامش|khāmosh]] = [[خاموش|khāmush]] 'silent'.",
+     "faV": "مَلِک را گُفت: اَگَر فَرمان دِهی، مَن او را به طَریقی خامُش گَردانَم.",
+     "a": "d1cbb2619e38"
+    },
+    {
+     "fa": "گفت: غایت لطف و کرم باشد.",
+     "r": "goft: ghāyat-e lotf o karam bāshad.",
+     "en": "The king said, 'That would be the height of kindness.'",
+     "faV": "گُفت: غایَتِ لُطف و کَرَم باشَد.",
+     "a": "e2ffa18070c7"
+    },
+    {
+     "fa": "بفرمود تا غلام به دریا انداختند.",
+     "r": "befarmud tā gholām be daryā andākhtand.",
+     "en": "He gave the order, and they threw the slave into the sea.",
+     "note": "After [[بفرمود تا|befarmud tā]] 'ordered that', classical Persian can use a plain past where we now use a subjunctive: [[دستور داد که بیندازند|dastur dād ke biyandāzand]].",
+     "faV": "بِفَرمود تا غُلام به دَریا اَنداختَند.",
+     "a": "45324c8b7f13"
+    },
+    {
+     "fa": "باری چند غوطه خورد.",
+     "r": "bār-i chand ghute khord.",
+     "en": "He went under a few times.",
+     "note": "[[باری چند|bār-i chand]] = [[چند بار|chand bār]] 'a few times'.",
+     "faV": "باری چَند غوطه خورد.",
+     "a": "7a07b4c713d8"
+    },
+    {
+     "fa": "مویش گرفتند و پیش کشتی آوردند.",
+     "r": "mu-yash gereftand o pish-e keshti āvardand.",
+     "en": "They grabbed him by the hair and brought him to the boat.",
+     "note": "No را after [[مویش|muyash]]: old prose often leaves out the object marker.",
+     "faV": "مویَش گِرِفتَند و پیشِ کِشتی آوَردَند.",
+     "a": "b76b39b4c1f9"
+    },
+    {
+     "fa": "به دو دست در سکان کشتی آویخت.",
+     "r": "be do dast dar sokkān-e keshti āvikht.",
+     "en": "He clung to the rudder with both hands.",
+     "faV": "به دو دَست دَر سُکّانِ کِشتی آویخت.",
+     "a": "5a323683b890"
+    },
+    {
+     "fa": "چون برآمد، به گوشه‌ای بنشست و آرام یافت.",
+     "r": "chon bar-āmad, be gushe-i benshast o ārām yāft.",
+     "en": "When he came out, he sat down in a corner and was calm.",
+     "note": "[[چون|chon]] here is 'when'. [[بنشست|benshast]]: be- on a past verb adds nothing to the meaning.",
+     "faV": "چون بَرآمَد، به گوشه‌ای بِنشَست و آرام یافت.",
+     "a": "583e0df062dd"
+    },
+    {
+     "fa": "ملک را عجب آمد.",
+     "r": "malek rā ajab āmad.",
+     "en": "The king was amazed.",
+     "lit": "to the king amazement came",
+     "faV": "مَلِک را عَجَب آمَد.",
+     "a": "3f058409930b"
+    },
+    {
+     "fa": "پرسید: در این چه حکمت بود؟",
+     "r": "porsid: dar in che hekmat bud?",
+     "en": "He asked, 'What was the wisdom in this?'",
+     "faV": "پُرسید: دَر این چه حِکمَت بود؟",
+     "a": "dcab74ddef6b"
+    },
+    {
+     "fa": "گفت: از اول محنت غرقه شدن ناچشیده بود و قدر سلامت کشتی نمی‌دانست.",
+     "r": "goft: az avval mehnat-e gharghe shodan nācheshide bud va ghadr-e salāmat-e keshti nemi-dānest.",
+     "en": "The wise man said, 'At first he had never tasted the misery of drowning, and so he did not know the value of the safety of the boat.'",
+     "faV": "گُفت: اَز اَوَّل مِحنَتِ غَرقه شُدَن ناچِشیده بود و قَدرِ سَلامَتِ کِشتی نِمی‌دانِست.",
+     "a": "564a50463c07"
+    },
+    {
+     "fa": "همچنین قدر عافیت کسی داند که به مصیبتی گرفتار آید.",
+     "r": "hamchenin ghadr-e āfiyat kas-i dānad ke be mosibat-i gereftār āyad.",
+     "en": "'In the same way, only someone who has been struck by misfortune knows the value of well-being.'",
+     "note": "The moral, still quoted today. [[داند|dānad]] = [[می‌داند|mi-dānad]]; [[گرفتار آید|gereftār āyad]] = [[گرفتار شود|gereftār shavad]].",
+     "faV": "هَمچِنین قَدرِ عافیَت کَسی دانَد که به مُصیبَتی گِرِفتار آیَد.",
+     "a": "47f006cc899c"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why was the slave so frightened?",
+     "options": [
+      "he could not swim",
+      "he had never been to sea before",
+      "the king had threatened him"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What did they do to calm him down?",
+     "options": [
+      "they gave him wine",
+      "they threw him into the sea and pulled him out",
+      "they sent him to the shore"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What is the moral of the story?",
+     "options": [
+      "kings should not travel by sea",
+      "only those who have known misfortune value well-being",
+      "a wise man always obeys the king"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Saadi and the Rose Garden",
+   "md": "**Saadi** ([[سعدی|Sa'di]], who died around 1291) left Shiraz as a young man, studied in Baghdad and wandered for many years through the Arab world before coming home. In 1258 he finished the **Golestan** ([[گلستان|golestān]], 'The Rose Garden'), a book of short stories in eight chapters: on kings, on dervishes, on contentment, on silence, on love and youth, on old age, on education and on good company. A year earlier he had written the **Bustan** ([[بوستان|bustān]], 'The Orchard'), a masnavi of moral tales in verse.\n\nThe Golestan mixes prose and verse: a few lines of story, a couplet that sums it up, a few more lines, a little poem. Its prose is famous for three things you can see in the story you have just read:\n\n- **Short sentences.** [[چاره ندانستند.|chāre nadānestand.]] 'They did not know what to do.' Two words and a full stop: Saadi tells a story at the speed of speech.\n- **Rhymed prose** ([[سجع|saj']]). A sentence falls into two balanced halves that end in rhyming words: [[گریه و زاری در نهاد|gerye o zāri dar nahād]] / [[و لرزه بر اندامش اوفتاد|o larze bar andām-ash uftād]].\n- **A moral at the end**, phrased so well that it becomes a proverb: [[قدر عافیت کسی داند که به مصیبتی گرفتار آید|ghadr-e āfiyat kas-i dānad ke be mosibat-i gereftār āyad]].\n\nFor seven centuries the Golestan was the first book Persian-speaking children read after the Quran, from Istanbul to Delhi. Iranians still study its stories at school, and dozens of its sentences live on as proverbs.",
+   "image": "saadi"
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "سجع",
+     "r": "saj'",
+     "en": "rhymed prose",
+     "pos": "n",
+     "note": "adjective [[مسجع|mosajja']] 'rhymed'",
+     "faV": "سَجع",
+     "a": "1bb5b085810c"
+    },
+    {
+     "fa": "نثر",
+     "r": "nasr",
+     "en": "prose",
+     "pos": "n",
+     "faV": "نَثر",
+     "a": "6e7f254d311d"
+    },
+    {
+     "fa": "نظم",
+     "r": "nazm",
+     "en": "verse; order",
+     "pos": "n",
+     "faV": "نَظم",
+     "a": "402699f80e4c"
+    },
+    {
+     "fa": "پادشاه",
+     "r": "pādshāh",
+     "en": "king",
+     "pos": "n",
+     "note": "The Golestan also says [[ملک|malek]].",
+     "faV": "پادشاه",
+     "a": "9f02731db003"
+    },
+    {
+     "fa": "غلام",
+     "r": "gholām",
+     "en": "slave, servant boy",
+     "pos": "n",
+     "faV": "غُلام",
+     "a": "58adb98bb0a9"
+    },
+    {
+     "fa": "کشتی",
+     "r": "keshti",
+     "en": "boat, ship",
+     "pos": "n",
+     "faV": "کِشتی",
+     "a": "1f2d94f8ffac"
+    },
+    {
+     "fa": "محنت",
+     "r": "mehnat",
+     "en": "hardship, suffering",
+     "pos": "n",
+     "faV": "مِحنَت",
+     "a": "608a26668b25"
+    },
+    {
+     "fa": "لرزیدن",
+     "r": "larzidan",
+     "en": "to tremble, shake",
+     "pos": "v",
+     "faV": "لَرزیدَن",
+     "a": "fb76c20a6193"
+    },
+    {
+     "fa": "آرام گرفتن",
+     "r": "ārām gereftan",
+     "en": "to calm down",
+     "pos": "v",
+     "faV": "آرام گِرِفتَن",
+     "a": "d62faf0d26e9"
+    },
+    {
+     "fa": "چاره",
+     "r": "chāre",
+     "en": "remedy, way out",
+     "pos": "n",
+     "ex": {
+      "fa": "چاره‌ای نداریم.",
+      "r": "chāre-i nadārim.",
+      "en": "We have no choice.",
+      "faV": "چاره‌ای نَداریم.",
+      "a": "80dd968ed66f"
+     },
+     "faV": "چاره",
+     "a": "245fe34725cf"
+    },
+    {
+     "fa": "حکیم",
+     "r": "hakim",
+     "en": "wise man, sage; (old) physician",
+     "pos": "n",
+     "faV": "حَکیم",
+     "a": "0e58e36607ca"
+    },
+    {
+     "fa": "غوطه خوردن",
+     "r": "ghute khordan",
+     "en": "to go under (water)",
+     "pos": "v",
+     "faV": "غوطه خوردَن",
+     "a": "27bda217e51f"
+    },
+    {
+     "fa": "غرق شدن",
+     "r": "ghargh shodan",
+     "en": "to drown; to be absorbed in",
+     "pos": "v",
+     "faV": "غَرق شُدَن",
+     "a": "cf77523eb477"
+    },
+    {
+     "fa": "قدر",
+     "r": "ghadr",
+     "en": "worth, value",
+     "pos": "n",
+     "ex": {
+      "fa": "قدر سلامتی را بدان.",
+      "r": "ghadr-e salāmati rā bedān.",
+      "en": "Know the value of good health.",
+      "faV": "قَدرِ سَلامَتی را بِدان.",
+      "a": "61128357717f"
+     },
+     "faV": "قَدر",
+     "a": "d0d1de63ccb6"
+    },
+    {
+     "fa": "عافیت",
+     "r": "āfiyat",
+     "en": "well-being, health and safety",
+     "pos": "n",
+     "faV": "عافیَت",
+     "a": "f8c8eef94684"
+    },
+    {
+     "fa": "مصیبت",
+     "r": "mosibat",
+     "en": "misfortune, calamity",
+     "pos": "n",
+     "faV": "مُصیبَت",
+     "a": "c7071f96edd5"
+    },
+    {
+     "fa": "حماسه",
+     "r": "hamāse",
+     "en": "epic",
+     "pos": "n",
+     "faV": "حَماسه",
+     "a": "c188fd42171a"
+    },
+    {
+     "fa": "پهلوان",
+     "r": "pahlavān",
+     "en": "hero, champion",
+     "pos": "n",
+     "faV": "پَهلَوان",
+     "a": "9af59f46901a"
+    },
+    {
+     "fa": "خرد",
+     "r": "kherad",
+     "en": "wisdom, reason",
+     "pos": "n",
+     "note": "[[خردمند|kheradmand]] 'wise'",
+     "faV": "خِرَد",
+     "a": "faa1c118eaa8"
+    },
+    {
+     "fa": "داد",
+     "r": "dād",
+     "en": "justice",
+     "pos": "n",
+     "note": "Also the past stem of [[دادن|dādan]] 'gave' – and [[دادگاه|dādgāh]] is a court of law.",
+     "faV": "داد",
+     "a": "5e8786a6506c"
+    },
+    {
+     "fa": "دانش",
+     "r": "dānesh",
+     "en": "knowledge",
+     "pos": "n",
+     "faV": "دانِش",
+     "a": "a4ba4fb7c57d"
+    },
+    {
+     "fa": "توانا",
+     "r": "tavānā",
+     "en": "powerful, able",
+     "pos": "adj",
+     "faV": "تَوانا",
+     "a": "278c8c16315c"
+    },
+    {
+     "fa": "برنا",
+     "r": "bornā",
+     "en": "young (poetic)",
+     "pos": "adj",
+     "faV": "بُرنا",
+     "a": "110819fab090"
+    },
+    {
+     "fa": "واژه",
+     "r": "vāzhe",
+     "en": "word",
+     "pos": "n",
+     "note": "the Persian word for [[کلمه|kalame]]",
+     "faV": "واژه",
+     "a": "cc9c7f28c5f9"
+    },
+    {
+     "fa": "نقال",
+     "r": "naghghāl",
+     "en": "storyteller who performs the Shahnameh",
+     "pos": "n",
+     "faV": "نَقّال",
+     "a": "951705d3c64d"
+    },
+    {
+     "fa": "پیشکش کردن",
+     "r": "pishkesh kardan",
+     "en": "to present (as a gift to a superior)",
+     "pos": "v",
+     "faV": "پیشکِش کَردَن",
+     "a": "ff14753d6c7f"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Rhymed prose: سجع",
+   "md": "In Saadi's prose a sentence usually falls into **two balanced halves**, often of about the same length, and the last words of the halves **rhyme**. This is [[سجع|saj']], 'rhymed prose', borrowed from Arabic and perfected in Persian. Three habits go with it:\n\n1. **The verb is shared.** The second half leaves out a verb the first half already has: [[موجب قربت است و … مزید نعمت|mujeb-e ghorbat ast va … mazid-e ne'mat]] – the [[است|ast]] is understood.\n2. **Words come in pairs**: [[گریه و زاری|gerye o zāri]], [[لطف و کرم|lotf o karam]] – two near-synonyms for one idea.\n3. **The rhyme marks the break.** If you hear *-ād* at a pause, expect *-ād* at the end of the sentence.\n\nThe most famous saj' in Persian is the opening of the Golestan, which every Iranian schoolchild meets; the first three examples come from it. The others are sentences from the stories that have become proverbs.",
+   "table": {
+    "head": [
+     "First half ends",
+     "Second half ends",
+     "Rhyme"
+    ],
+    "rows": [
+     [
+      "[[قربت|ghorbat]] 'nearness'",
+      "[[نعمت|ne'mat]] 'blessing'",
+      "-at"
+     ],
+     [
+      "[[حیات|hayāt]] 'life'",
+      "[[ذات|zāt]] 'being'",
+      "-āt"
+     ],
+     [
+      "[[رسیده|reside]] 'has reached'",
+      "[[کشیده|keshide]] 'is spread'",
+      "-ide"
+     ],
+     [
+      "[[گلیمی|gelimi]] 'a blanket' … [[بخسبند|bekhosband]]",
+      "[[اقلیمی|eghlimi]] 'a country' … [[نگنجند|nagonjand]]",
+      "-imi … -and (double)"
+     ],
+     [
+      "[[مصلحت‌آمیز|maslahat-āmiz]] 'well-meant'",
+      "[[فتنه‌انگیز|fetne-angiz]] 'trouble-making'",
+      "-iz"
+     ],
+     [
+      "[[ببوید|bebuyad]] 'smells'",
+      "[[بگوید|beguyad]] 'says'",
+      "-uyad"
+     ],
+     [
+      "[[نهاد|nahād]] 'began'",
+      "[[اوفتاد|uftād]] 'fell'",
+      "-ād"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "منت خدای را عز و جل که طاعتش موجب قربت است و به شکر اندرش مزید نعمت.",
+     "r": "mennat khodāy rā azza va jall ke tā'at-ash mujeb-e ghorbat ast va be shokr andar-ash mazid-e ne'mat.",
+     "en": "Thanks be to God, mighty and glorious: obeying Him brings us near to Him, and thanking Him increases His blessings.",
+     "note": "The first sentence of the Golestan. [[عز و جل|azza va jall]] is Arabic, 'mighty and glorious is He'.",
+     "faV": "مِنَّت خُدای را عَزَّ و جَلّ که طاعَتَش موجِبِ قُربَت اَست و به شُکر اَندَرَش مَزیدِ نِعمَت.",
+     "a": "5606097bd3a6"
+    },
+    {
+     "fa": "هر نفسی که فرو می‌رود ممد حیات است و چون برمی‌آید مفرح ذات.",
+     "r": "har nafas-i ke foru mi-ravad momedd-e hayāt ast va chon bar-mi-āyad mofarreh-e zāt.",
+     "en": "Every breath that goes in sustains life, and when it comes out it gladdens the soul.",
+     "faV": "هَر نَفَسی که فُرو می‌رَوَد مُمِدِّ حَیات اَست و چون بَرمی‌آیَد مُفَرِّحِ ذات.",
+     "a": "acd3822efd61"
+    },
+    {
+     "fa": "پس در هر نفسی دو نعمت موجود است و بر هر نعمتی شکری واجب.",
+     "r": "pas dar har nafas-i do ne'mat mowjud ast va bar har ne'mat-i shokr-i vājeb.",
+     "en": "So in every breath there are two blessings, and for every blessing a thanksgiving is due.",
+     "note": "Again no verb in the second half: [[شکری واجب (است)|shokri vājeb (ast)]].",
+     "faV": "پَس دَر هَر نَفَسی دو نِعمَت مَوجود اَست و بَر هَر نِعمَتی شُکری واجِب.",
+     "a": "7ae414039864"
+    },
+    {
+     "fa": "باران رحمت بی‌حسابش همه را رسیده و خوان نعمت بی‌دریغش همه جا کشیده.",
+     "r": "bārān-e rahmat-e bi-hesāb-ash hame rā reside va khān-e ne'mat-e bi-dareygh-ash hame jā keshide.",
+     "en": "The rain of His countless mercy has reached everyone, and the table of His unstinting bounty is spread everywhere.",
+     "faV": "بارانِ رَحمَتِ بی‌حِسابَش هَمه را رِسیده و خوانِ نِعمَتِ بی‌دَرَیغَش هَمه جا کِشیده.",
+     "a": "adb3499aead5"
+    },
+    {
+     "fa": "ده درویش در گلیمی بخسبند و دو پادشاه در اقلیمی نگنجند.",
+     "r": "dah darvish dar gelim-i bekhosband o do pādshāh dar eghlim-i nagonjand.",
+     "en": "Ten dervishes can sleep under one blanket, but two kings cannot fit into one country.",
+     "note": "A double rhyme: [[گلیمی|gelimi]] / [[اقلیمی|eghlimi]] and [[بخسبند|bekhosband]] / [[نگنجند|nagonjand]].",
+     "faV": "دَه دَرویش دَر گِلیمی بِخُسبَند و دو پادشاه دَر اِقلیمی نَگُنجَند.",
+     "a": "28867c9fdedc"
+    },
+    {
+     "fa": "دروغی مصلحت‌آمیز به که راستی فتنه‌انگیز.",
+     "r": "dorugh-i maslahat-āmiz beh ke rāsti-ye fetne-angiz.",
+     "en": "A lie that serves a good purpose is better than a truth that stirs up trouble.",
+     "note": "From the first story of the Golestan. [[به|beh]] is 'better' (= [[بهتر|behtar]]), not the preposition [[به|be]].",
+     "faV": "دُروغی مَصلَحَت‌آمیز بِه که راستیِ فِتنه‌اَنگیز.",
+     "a": "9e90357fbd84"
+    },
+    {
+     "fa": "مشک آن است که خود ببوید، نه آن که عطار بگوید.",
+     "r": "moshk ān ast ke khod bebuyad, na ān ke attār beguyad.",
+     "en": "Real musk is what smells of itself, not what the perfume-seller says it is.",
+     "note": "Quoted daily: true quality speaks for itself.",
+     "faV": "مُشک آن اَست که خود بِبویَد، نه آن که عَطّار بِگویَد.",
+     "a": "433fbfc162bf"
+    },
+    {
+     "fa": "هر که دست از جان بشوید، هر چه در دل دارد بگوید.",
+     "r": "har ke dast az jān beshuyad, har che dar del dārad beguyad.",
+     "en": "Whoever has washed his hands of life says whatever is in his heart.",
+     "note": "[[دست شستن از|dast shostan az]] 'to wash one's hands of' works just as in English.",
+     "faV": "هَر که دَست اَز جان بِشویَد، هَر چه دَر دِل دارَد بِگویَد.",
+     "a": "e347f55c4198"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The story in modern Persian",
+   "md": "Saadi wrote seven and a half centuries ago, yet an Iranian teenager can follow most of the story. What has changed is mostly small: a few words, the use of را, and the verb forms. Retell the story in today's written Persian and you will meet each change once:\n\n- **را for 'to'**: [[ملک را گفت|malek rā goft]] → [[به پادشاه گفت|be pādshāh goft]]; and [[ملک را عجب آمد|malek rā ajab āmad]] → [[پادشاه تعجب کرد|pādshāh ta'ajjob kard]].\n- **The bare present** where we now add می- or be-: [[داند|dānad]] → [[می‌داند|mi-dānad]], [[دهی|dehi]] → [[بدهی|bedahi]].\n- **Old verbs**: [[در نهادن|dar nahādan]] → [[شروع کردن|shoru' kardan]], [[خامش گردانیدن|khāmosh gardānidan]] → [[ساکت کردن|sāket kardan]], [[آویختن|āvikhtan]] → [[چسبیدن|chasbidan]].\n- **Word order**: [[باری چند|bār-i chand]] → [[چند بار|chand bār]].",
+   "table": {
+    "head": [
+     "In the Golestan",
+     "Today",
+     "What changed"
+    ],
+    "rows": [
+     [
+      "[[ملک|malek]]",
+      "[[پادشاه|pādshāh]]",
+      "Arabic word, now rarely used for 'king'"
+     ],
+     [
+      "[[ملک را گفت|malek rā goft]]",
+      "[[به پادشاه گفت|be pādshāh goft]]",
+      "را meaning 'to'"
+     ],
+     [
+      "[[در نهاد|dar nahād]]",
+      "[[شروع کرد|shoru' kard]]",
+      "old verb for 'began'"
+     ],
+     [
+      "[[ازو|azu]]",
+      "[[از او|az u]]",
+      "two words joined"
+     ],
+     [
+      "[[اگر فرمان دهی|agar farmān dehi]]",
+      "[[اگر اجازه بدهی|agar ejāze bedahi]]",
+      "subjunctive without be-"
+     ],
+     [
+      "[[خامش گردانم|khāmosh gardānam]]",
+      "[[ساکتش می‌کنم|sāket-ash mi-konam]]",
+      "گردانیدن = کردن"
+     ],
+     [
+      "[[بفرمود تا … انداختند|befarmud tā … andākhtand]]",
+      "[[دستور داد که … بیندازند|dastur dād ke … biyandāzand]]",
+      "past instead of subjunctive"
+     ],
+     [
+      "[[باری چند|bār-i chand]]",
+      "[[چند بار|chand bār]]",
+      "word order"
+     ],
+     [
+      "[[ناچشیده بود|nācheshide bud]]",
+      "[[نچشیده بود|na-cheshide bud]]",
+      "نا- instead of نـ"
+     ],
+     [
+      "[[کسی داند که … گرفتار آید|kas-i dānad ke … gereftār āyad]]",
+      "[[کسی می‌داند که … گرفتار شده باشد|kas-i mi-dānad ke … gereftār shode bāshad]]",
+      "bare present; آمدن for شدن"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "پادشاهی با غلامی ایرانی سوار کشتی شد؛ غلام تا آن روز دریا را ندیده بود و سختی سفر با کشتی را تجربه نکرده بود.",
+     "r": "pādshāh-i bā gholām-i irāni savār-e keshti shod; gholām tā ān ruz daryā rā nadide bud va sakhti-ye safar bā keshti rā tajrobe na-karde bud.",
+     "en": "A king boarded a ship with a Persian slave; until that day the slave had never seen the sea or known the hardship of travelling by ship.",
+     "faV": "پادشاهی با غُلامی ایرانی سَوارِ کِشتی شُد؛ غُلام تا آن روز دَریا را نَدیده بود و سَختیِ سَفَر با کِشتی را تَجرُبه نَکَرده بود.",
+     "a": "819dd29d49c8"
+    },
+    {
+     "fa": "غلام شروع به گریه و زاری کرد و تمام بدنش می‌لرزید.",
+     "r": "gholām shoru' be gerye o zāri kard o tamām-e badan-ash mi-larzid.",
+     "en": "The slave began to cry and wail, and his whole body was trembling.",
+     "faV": "غُلام شُروع به گِریه و زاری کَرد و تَمامِ بَدَنَش می‌لَرزید.",
+     "a": "4efd5200aca3"
+    },
+    {
+     "fa": "هر چه با او مهربانی کردند، آرام نشد و سفر را به پادشاه تلخ کرد.",
+     "r": "har che bā u mehrabāni kardand, ārām na-shod va safar rā be pādshāh talkh kard.",
+     "en": "However kind they were to him, he did not calm down, and he spoiled the journey for the king.",
+     "faV": "هَر چه با او مِهرَبانی کَردَند، آرام نَشُد و سَفَر را به پادشاه تَلخ کَرد.",
+     "a": "1fbdce8d0572"
+    },
+    {
+     "fa": "هیچ‌کس چاره‌ای نمی‌دانست، تا این‌که حکیمی که در کشتی بود گفت که اگر پادشاه اجازه بدهد، او را آرام می‌کند.",
+     "r": "hich-kas chāre-i nemi-dānest, tā in-ke hakim-i ke dar keshti bud goft ke agar pādshāh ejāze bedahad, u rā ārām mi-konad.",
+     "en": "No one knew what to do, until a wise man on the ship said that if the king allowed him, he would calm the slave down.",
+     "faV": "هیچ‌کَس چاره‌ای نِمی‌دانِست، تا این‌که حَکیمی که دَر کِشتی بود گُفت که اَگَر پادشاه اِجازه بِدَهَد، او را آرام می‌کُنَد.",
+     "a": "c103cd7524d7"
+    },
+    {
+     "fa": "پادشاه پذیرفت و به دستور حکیم غلام را به دریا انداختند.",
+     "r": "pādshāh pazireft va be dastur-e hakim gholām rā be daryā andākhtand.",
+     "en": "The king agreed, and on the wise man's instructions they threw the slave into the sea.",
+     "faV": "پادشاه پَذیرِفت و به دَستورِ حَکیم غُلام را به دَریا اَنداختَند.",
+     "a": "1b5b15adeb8e"
+    },
+    {
+     "fa": "غلام چند بار زیر آب رفت؛ بعد موهایش را گرفتند و او را کنار کشتی آوردند و او با دو دست به سکان کشتی چسبید.",
+     "r": "gholām chand bār zir-e āb raft; ba'd mu-hā-yash rā gereftand o u rā kenār-e keshti āvardand va u bā do dast be sokkān-e keshti chasbid.",
+     "en": "The slave went under a few times; then they grabbed his hair and brought him to the side of the ship, and he clung to the rudder with both hands.",
+     "faV": "غُلام چَند بار زیرِ آب رَفت؛ بَعد موهایَش را گِرِفتَند و او را کِنارِ کِشتی آوَردَند و او با دو دَست به سُکّانِ کِشتی چَسبید.",
+     "a": "28c9aaf94ffa"
+    },
+    {
+     "fa": "وقتی بالا آمد، گوشه‌ای نشست و آرام شد، و پادشاه با تعجب پرسید که حکمت این کار چه بود.",
+     "r": "vaghti bālā āmad, gushe-i neshast o ārām shod, va pādshāh bā ta'ajjob porsid ke hekmat-e in kār che bud.",
+     "en": "When he came up he sat in a corner and was calm, and the king asked in surprise what the wisdom of this had been.",
+     "faV": "وَقتی بالا آمَد، گوشه‌ای نِشَست و آرام شُد، و پادشاه با تَعَجُّب پُرسید که حِکمَتِ این کار چه بود.",
+     "a": "839e770ee5a3"
+    },
+    {
+     "fa": "حکیم جواب داد که او سختی غرق شدن را نچشیده بود و قدر امنیت کشتی را نمی‌دانست؛ فقط کسی قدر سلامتی را می‌داند که به مصیبتی گرفتار شده باشد.",
+     "r": "hakim javāb dād ke u sakhti-ye ghargh shodan rā na-cheshide bud va ghadr-e amniyat-e keshti rā nemi-dānest; faghat kas-i ghadr-e salāmati rā mi-dānad ke be mosibat-i gereftār shode bāshad.",
+     "en": "The wise man answered that the slave had never tasted the hardship of drowning and did not know the value of the ship's safety; only someone who has suffered misfortune knows the value of well-being.",
+     "faV": "حَکیم جَواب داد که او سَختیِ غَرق شُدَن را نَچِشیده بود و قَدرِ اَمنیَتِ کِشتی را نِمی‌دانِست؛ فَقَط کَسی قَدرِ سَلامَتی را می‌دانَد که به مُصیبَتی گِرِفتار شُده باشَد.",
+     "a": "4cd2a570020b"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Ferdowsi: the epic voice",
+   "md": "Two and a half centuries before Saadi, **Ferdowsi** wrote the **Shahnameh** ([[شاهنامه|shāhnāme]], 'The Book of Kings'): some 50,000 couplets of myth, legend and history, from the first king of the world to the Arab conquest of Iran. Its metre, *motaqāreb*, marches – da-DUM-DUM, da-DUM-DUM, da-DUM-DUM, da-DUM: *ta-vā-nā / bo-vad har / ke dā-nā / bo-vad*. Its sentences are short and its verbs are strong.\n\n**Why so few Arabic words?** Where later writers say [[عقل|aghl]] (Arabic) Ferdowsi says [[خرد|kherad]]; for [[عدل|adl]] he has [[داد|dād]], for [[علم|elm]] [[دانش|dānesh]]. Only a few words in every hundred in the Shahnameh are Arabic – far fewer than in Saadi's Golestan. There are several reasons:\n\n- **The subject.** The Shahnameh retells the history of pre-Islamic Iran, from older Persian books and the memory of the *dehqāns*, the landed gentry who kept the old stories alive.\n- **The place and time.** Ferdowsi lived in tenth-century Khorasan, where Persian had just become a language of literature again and Arabic had not yet flooded it.\n- **The style.** Epic language prefers old, plain, concrete words.\n\nScholars warn against seeing a modern 'language purist' in Ferdowsi – he does use Arabic words when he needs them – but his Persian became the model whenever later Iranians wanted to write 'pure Persian'. In the 20th century his vocabulary returned in new words such as [[دانشگاه|dāneshgāh|university]] and [[دادگاه|dādgāh|court of law]].",
+   "table": {
+    "head": [
+     "Ferdowsi's word",
+     "Arabic loan used later",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "[[خرد|kherad]]",
+      "[[عقل|aghl]]",
+      "reason, wisdom"
+     ],
+     [
+      "[[داد|dād]]",
+      "[[عدل|adl]]",
+      "justice"
+     ],
+     [
+      "[[دانش|dānesh]]",
+      "[[علم|elm]]",
+      "knowledge"
+     ],
+     [
+      "[[اندیشه|andishe]]",
+      "[[فکر|fekr]]",
+      "thought"
+     ],
+     [
+      "[[گیتی|giti]]",
+      "[[دنیا|donyā]]",
+      "the world"
+     ],
+     [
+      "[[سپهر|sepehr]]",
+      "[[فلک|falak]]",
+      "the heavens, the sky"
+     ],
+     [
+      "[[یزدان|yazdān]]",
+      "[[الله|allāh]]",
+      "God"
+     ],
+     [
+      "[[نیایش|niyāyesh]]",
+      "[[دعا|do'ā]]",
+      "prayer"
+     ],
+     [
+      "[[سپاس|sepās]]",
+      "[[شکر|shokr]]",
+      "thanks"
+     ],
+     [
+      "[[سخن|sokhan]]",
+      "[[کلام|kalām]]",
+      "speech, word"
+     ],
+     [
+      "[[دلیر|dalir]]",
+      "[[شجاع|shojā']]",
+      "brave"
+     ],
+     [
+      "[[پیمان|peymān]]",
+      "[[عهد|ahd]]",
+      "pact, promise"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "توانا بود هر که دانا بود / ز دانش دل پیر برنا بود",
+     "r": "tavānā bovad har ke dānā bovad / ze dānesh del-e pir bornā bovad",
+     "en": "Whoever is wise is powerful; through knowledge the heart of the old stays young.",
+     "note": "[[بود|bovad]] is the old present 'is' (today [[است|ast]]); [[برنا|bornā]] 'young'. The first half is a favourite motto of Iranian schools.",
+     "faV": "تَوانا بُوَد هَر که دانا بُوَد / ز دانِش دِلِ پیر بُرنا بُوَد",
+     "a": "33121bbedcd3"
+    },
+    {
+     "fa": "به نام خداوند جان و خرد / کزین برتر اندیشه برنگذرد",
+     "r": "be nām-e khodāvand-e jān o kherad / k-az-in bar-tar andishe bar-nagozarad",
+     "en": "In the name of the Lord of soul and wisdom, beyond whom no thought can rise.",
+     "note": "The first line of the Shahnameh. [[کزین|kazin]] = [[که از این|ke az in]]. There is not a single Arabic word in it.",
+     "faV": "به نامِ خُداوَندِ جان و خِرَد / کَزین بَرتَر اَندیشه بَرنَگُذَرَد",
+     "a": "d80d11aefe6d"
+    },
+    {
+     "fa": "خداوند نام و خداوند جای / خداوند روزی‌ده رهنمای",
+     "r": "khodāvand-e nām o khodāvand-e jāy / khodāvand-e ruzi-deh-e rahnamāy",
+     "en": "Lord of name and Lord of place, Lord who gives our daily bread and shows the way.",
+     "note": "[[جای|jāy]] and [[رهنمای|rahnamāy]] are the old forms of [[جا|jā]] and [[رهنما|rahnamā]], kept for the rhyme.",
+     "faV": "خُداوَندِ نام و خُداوَندِ جای / خُداوَندِ روزی‌دِهِ رَهنَمای",
+     "a": "84baa25c5bed"
+    },
+    {
+     "fa": "میازار موری که دانه‌کش است / که جان دارد و جان شیرین خوش است",
+     "r": "mayāzār mur-i ke dāne-kash ast / ke jān dārad o jān-e shirin khosh ast",
+     "en": "Do not hurt an ant that carries grain: it has a life, and sweet life is good.",
+     "note": "[[میازار|mayāzār]] = [[نیازار|nayāzār]] 'do not hurt', the old negative imperative with مـ. Saadi quotes this couplet in his *Bustan*, with a blessing on Ferdowsi.",
+     "faV": "مَیازار موری که دانه‌کَش اَست / که جان دارَد و جانِ شیرین خوش اَست",
+     "a": "41be1e9f0408"
+    },
+    {
+     "fa": "یکی داستان است پر آب چشم / دل نازک از رستم آید به خشم",
+     "r": "yeki dāstān ast por āb-e cheshm / del-e nāzok az Rostam āyad be khashm",
+     "en": "This is a story full of tears: a tender heart will be angry with Rostam.",
+     "note": "The opening of the tragedy of Rostam and Sohrab, in which the hero kills his own son without knowing him. [[آب چشم|āb-e cheshm]] 'eye-water' is 'tears'.",
+     "faV": "یِکی داستان اَست پُر آبِ چِشم / دِلِ نازُک اَز رُستَم آیَد به خَشم",
+     "a": "9af3f5e9c17f"
+    },
+    {
+     "fa": "اگر تندبادی برآید ز کنج / به خاک افکند نارسیده ترنج",
+     "r": "agar tondbād-i bar-āyad ze konj / be khāk afkanad nāreside toranj",
+     "en": "If a storm wind rises from a corner and throws an unripe citron to the ground…",
+     "note": "…should we call it cruel or just? With this question Ferdowsi begins the story of Sohrab, who dies young.",
+     "faV": "اَگَر تُندبادی بَرآیَد ز کُنج / به خاک اَفکَنَد نارِسیده تُرَنج",
+     "a": "dba83faf11e2"
+    },
+    {
+     "fa": "بسی رنج بردم در این سال سی / عجم زنده کردم بدین پارسی",
+     "r": "basi ranj bordam dar in sāl-e si / ajam zende kardam bed-in pārsi",
+     "en": "I suffered much in these thirty years; I brought the Persians back to life with this Persian.",
+     "note": "The best-known couplet attributed to Ferdowsi – though it is missing from the oldest manuscripts and scholars doubt that he wrote it. Ironically, [[عجم|ajam]] 'the Persians' is an Arabic word. [[بسی|basi]] = [[بسیار|besyār]]; [[بدین|bedin]] = [[به این|be in]].",
+     "faV": "بَسی رَنج بُردَم دَر این سالِ سی / عَجَم زِنده کَردَم بِدین پارسی",
+     "a": "75c920b91abb"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "Ferdowsi and the Book of Kings",
+   "intro": "The poet's life and the legend around it, in modern written Persian. Watch for the impersonal «می‌گویند» 'they say', which marks the legend.",
+   "sentences": [
+    {
+     "fa": "فردوسی، شاعر بزرگ ایران، در حدود سال ۳۲۹ هجری در روستایی نزدیک توس به دنیا آمد.",
+     "r": "Ferdowsi, shā'er-e bozorg-e Irān, dar hodud-e sāl-e sisad-o-bist-o-noh-e hejri dar rustā-yi nazdik-e Tus be donyā āmad.",
+     "en": "Ferdowsi, the great poet of Iran, was born around the year 329 of the Hijra (940 AD) in a village near Tus.",
+     "faV": "فِردَوسی، شاعِرِ بُزُرگِ ایران، دَر حُدودِ سالِ ۳۲۹ هِجری دَر روستایی نَزدیکِ توس به دُنیا آمَد.",
+     "a": "818093226d48"
+    },
+    {
+     "fa": "او دهقان بود؛ یعنی از خانواده‌ای زمین‌دار که تاریخ و افسانه‌های ایران قدیم را نگه داشته بودند.",
+     "r": "u dehghān bud; ya'ni az khānevāde-i zamin-dār ke tārikh o afsāne-hā-ye Irān-e ghadim rā negah dāshte budand.",
+     "en": "He was a dehqan – from a family of landowners who had kept alive the history and legends of ancient Iran.",
+     "faV": "او دِهقان بود؛ یَعنی اَز خانِواده‌ای زَمین‌دار که تاریخ و اَفسانه‌هایِ ایرانِ قَدیم را نِگَه داشته بودَند.",
+     "a": "b934425a75e7"
+    },
+    {
+     "fa": "فردوسی حدود سی سال از عمرش را صرف سرودن شاهنامه کرد.",
+     "r": "Ferdowsi hodud-e si sāl az omr-ash rā sarf-e sorudan-e Shāhnāme kard.",
+     "en": "Ferdowsi spent about thirty years of his life composing the Shahnameh.",
+     "faV": "فِردَوسی حُدودِ سی سال اَز عُمرَش را صَرفِ سُرودَنِ شاهنامه کَرد.",
+     "a": "5927e377acb1"
+    },
+    {
+     "fa": "شاهنامه نزدیک به پنجاه هزار بیت دارد و داستان ایران را از نخستین شاه تا حمله‌ی عرب‌ها روایت می‌کند.",
+     "r": "Shāhnāme nazdik be panjāh hezār beyt dārad va dāstān-e Irān rā az nakhostin shāh tā hamle-ye arab-hā revāyat mi-konad.",
+     "en": "The Shahnameh has nearly fifty thousand couplets and tells the story of Iran from the first king to the Arab invasion.",
+     "faV": "شاهنامه نَزدیک به پَنجاه هِزار بَیت دارَد و داستانِ ایران را اَز نَخُستین شاه تا حَمله‌یِ عَرَب‌ها رِوایَت می‌کُنَد.",
+     "a": "d674eba8e514"
+    },
+    {
+     "fa": "داستان‌های رستم، سهراب، سیاوش و اسفندیار از این کتاب است.",
+     "r": "dāstān-hā-ye Rostam, Sohrāb, Siyāvash o Esfandiyār az in ketāb ast.",
+     "en": "The stories of Rostam, Sohrab, Siyavash and Esfandiyar come from this book.",
+     "faV": "داستان‌هایِ رُستَم، سُهراب، سیاوَش و اِسفَندیار اَز این کِتاب اَست.",
+     "a": "aa4e28a48803"
+    },
+    {
+     "fa": "فردوسی شاهنامه را به سلطان محمود غزنوی پیشکش کرد.",
+     "r": "Ferdowsi Shāhnāme rā be Soltān Mahmud-e Ghaznavi pishkesh kard.",
+     "en": "Ferdowsi presented the Shahnameh to Sultan Mahmud of Ghazni.",
+     "faV": "فِردَوسی شاهنامه را به سُلطان مَحمودِ غَزنَوی پیشکِش کَرد.",
+     "a": "268b0ba34dcc"
+    },
+    {
+     "fa": "می‌گویند سلطان به جای سکه‌های طلا، سکه‌های نقره برای او فرستاد و شاعر رنجید.",
+     "r": "mi-guyand soltān be jā-ye sekke-hā-ye talā, sekke-hā-ye noghre barā-ye u ferestād va shā'er ranjid.",
+     "en": "They say the sultan sent him silver coins instead of gold, and the poet was offended.",
+     "faV": "می‌گویَند سُلطان به جایِ سِکّه‌هایِ طَلا، سِکّه‌هایِ نُقره بَرایِ او فِرِستاد و شاعِر رَنجید.",
+     "a": "1653bc306565"
+    },
+    {
+     "fa": "طبق همین افسانه، وقتی سلطان پشیمان شد و طلا فرستاد، جنازه‌ی فردوسی را از دروازه‌ی دیگر شهر بیرون می‌بردند.",
+     "r": "tebgh-e hamin afsāne, vaghti soltān pashimān shod o talā ferestād, jenāze-ye Ferdowsi rā az darvāze-ye digar-e shahr birun mi-bordand.",
+     "en": "According to the same legend, when the sultan repented and sent the gold, Ferdowsi's body was being carried out through the other gate of the town.",
+     "faV": "طِبقِ هَمین اَفسانه، وَقتی سُلطان پَشیمان شُد و طَلا فِرِستاد، جِنازه‌یِ فِردَوسی را اَز دَروازه‌یِ دیگَرِ شَهر بیرون می‌بُردَند.",
+     "a": "1ea05bee324a"
+    },
+    {
+     "fa": "زبان شاهنامه فارسی‌ای بسیار ناب است و واژه‌های عربی در آن کم است.",
+     "r": "zabān-e Shāhnāme fārsi-yi besyār nāb ast va vāzhe-hā-ye arabi dar ān kam ast.",
+     "en": "The language of the Shahnameh is a very pure Persian, with few Arabic words.",
+     "faV": "زَبانِ شاهنامه فارسی‌ای بِسیار ناب اَست و واژه‌هایِ عَرَبی دَر آن کَم اَست.",
+     "a": "61e0b133fb21"
+    },
+    {
+     "fa": "یکی از دلیل‌هایش این است که منابع فردوسی متن‌های کهن ایرانی بود، نه کتاب‌های عربی.",
+     "r": "yek-i az dalil-hā-yash in ast ke manābe'-e Ferdowsi matn-hā-ye kohan-e irāni bud, na ketāb-hā-ye arabi.",
+     "en": "One of the reasons is that Ferdowsi's sources were old Iranian texts, not Arabic books.",
+     "faV": "یِکی اَز دَلیل‌هایَش این اَست که مَنابِعِ فِردَوسی مَتن‌هایِ کُهَنِ ایرانی بود، نه کِتاب‌هایِ عَرَبی.",
+     "a": "aebd4b3d5c24"
+    },
+    {
+     "fa": "او در خراسان زندگی می‌کرد، جایی که در آن روزگار نوشتن به فارسی دوباره رونق گرفته بود.",
+     "r": "u dar Khorāsān zendegi mi-kard, jā-yi ke dar ān ruzgār neveshtan be fārsi dobāre rownagh gerefte bud.",
+     "en": "He lived in Khorasan, where in those days writing in Persian had flourished once again.",
+     "faV": "او دَر خُراسان زِندِگی می‌کَرد، جایی که دَر آن روزگار نِوِشتَن به فارسی دوباره رَونَق گِرِفته بود.",
+     "a": "dc2216505f3f"
+    },
+    {
+     "fa": "فردوسی در حدود سال ۴۱۱ هجری در توس درگذشت.",
+     "r": "Ferdowsi dar hodud-e sāl-e chahārsad-o-yāzdah-e hejri dar Tus dargozasht.",
+     "en": "Ferdowsi died in Tus around the year 411 of the Hijra (1020 AD).",
+     "faV": "فِردَوسی دَر حُدودِ سالِ ۴۱۱ هِجری دَر توس دَرگُذَشت.",
+     "a": "c3dd1ca02227"
+    },
+    {
+     "fa": "آرامگاه او در توس، نزدیک مشهد، است و هر سال ۲۵ اردیبهشت روز بزرگداشت اوست.",
+     "r": "ārāmgāh-e u dar Tus, nazdik-e Mashhad, ast va har sāl bist-o-panj-e Ordibehesht ruz-e bozorgdāsht-e u-st.",
+     "en": "His tomb is in Tus, near Mashhad, and every year the 25th of Ordibehesht is his day of remembrance.",
+     "faV": "آرامگاهِ او دَر توس، نَزدیکِ مَشهَد، اَست و هَر سال ۲۵ اُردیبِهِشت روزِ بُزُرگداشتِ اوست.",
+     "a": "127ca952603e"
+    },
+    {
+     "fa": "هنوز هم در بعضی قهوه‌خانه‌ها نقال‌ها داستان‌های شاهنامه را برای مردم نقل می‌کنند.",
+     "r": "hanuz ham dar ba'zi ghahve-khāne-hā naghghāl-hā dāstān-hā-ye Shāhnāme rā barā-ye mardom naghl mi-konand.",
+     "en": "Even today, in some coffee-houses, storytellers perform the stories of the Shahnameh for the public.",
+     "faV": "هَنوز هَم دَر بَعضی قَهوه‌خانه‌ها نَقّال‌ها داستان‌هایِ شاهنامه را بَرایِ مَردُم نَقل می‌کُنَند.",
+     "a": "30a8cd8ffba9"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How long did Ferdowsi work on the Shahnameh?",
+     "options": [
+      "about three years",
+      "about thirty years",
+      "from childhood to old age, seventy years"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "According to the legend, what went wrong with the sultan's reward?",
+     "options": [
+      "he sent silver instead of gold",
+      "he sent nothing at all",
+      "he gave the gold to another poet"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Which is one reason the Shahnameh has few Arabic words?",
+     "options": [
+      "Ferdowsi did not know Arabic",
+      "his sources were old Iranian texts",
+      "Arabic was forbidden in Khorasan"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Two tombs, two days – and the Shahnameh out loud",
+   "md": "**Saadi in Shiraz.** The [[سعدیه|Sa'diye]], Saadi's tomb, stands in a garden on the edge of Shiraz, not far from Hafez. Below it, steps lead down to a spring-fed pool full of fish. The 1st of Ordibehesht (around 21 April) is Saadi Day. His most famous lines, [[بنی‌آدم اعضای یکدیگرند|bani-ādam a'zā-ye yekdigar-and|the children of Adam are limbs of one another]], are woven into a carpet that hangs at the United Nations in New York.\n\n**Ferdowsi in Tus.** Ferdowsi's tomb near Mashhad is a white stone monument in the style of the ancient Achaemenid kings, first built in the 1930s for the thousandth anniversary of his birth and surrounded by carved scenes from the Shahnameh. The 25th of Ordibehesht (around 15 May) is Ferdowsi Day.\n\n**The Shahnameh out loud.** For centuries most people did not read the Shahnameh – they heard it. In the coffee-house a storyteller, the [[نقال|naghghāl]], acted out the battles of Rostam in front of a large painted canvas, raising his voice and his stick for the fights and dropping to a whisper for the tragedies. This art, [[نقالی|naghghāli]], is on UNESCO's list of heritage in urgent need of protection. And in the traditional gymnasium, the [[زورخانه|zurkhāne]], men still swing heavy wooden clubs to the beat of a drum while the master chants couplets of Ferdowsi.\n\nEvery Iranian knows the names of the heroes: Rostam with his horse Rakhsh, the white-haired Zal raised by the Simurgh, the tragic Sohrab and Siyavash. Many children are still named after them.",
+   "image": "tomb-of-ferdowsi"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "In the Golestan, را often means 'to' or 'for': ملک را گفت 'he said to the king'; ملک را عجب آمد 'the king was amazed' (literally 'to the king amazement came').",
+    "Read Saadi's sentences in pairs. If the first half ends in -ād, listen for -ād at the end of the second: the rhyme tells you where the sentence breaks.",
+    "A missing verb in old prose or verse is usually the same as the verb of the previous clause: مزید نعمت = مزید نعمت است.",
+    "Ferdowsi's بود in a general truth is *bovad* 'is', not *bud* 'was': توانا بود هر که دانا بود.",
+    "Ferdowsi's words are alive in modern formal Persian: دانشگاه 'university', دادگاه 'court', خردمند 'wise', اندیشمند 'thinker'. Learn the old word and you can read the new one.",
+    "Learn a few Golestan sentences as proverbs – مشک آن است که خود ببوید، نه آن که عطار بگوید – Iranians recognise them at once and will be delighted."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the lines",
+   "items": [
+    {
+     "fa": "پادشاهی با غلامی عجمی در ___ نشست.",
+     "r": "pādshāh-i bā gholām-i ajami dar ___ neshast.",
+     "en": "A king boarded a boat with a Persian slave.",
+     "answer": "کشتی",
+     "hint": "boat"
+    },
+    {
+     "fa": "همچنین قدر ___ کسی داند که به مصیبتی گرفتار آید.",
+     "r": "hamchenin ghadr-e ___ kas-i dānad ke be mosibat-i gereftār āyad.",
+     "en": "Only someone struck by misfortune knows the value of well-being.",
+     "answer": "عافیت",
+     "hint": "well-being"
+    },
+    {
+     "fa": "ده درویش در گلیمی بخسبند و دو پادشاه در ___ نگنجند.",
+     "r": "dah darvish dar gelim-i bekhosband o do pādshāh dar ___ nagonjand.",
+     "en": "Ten dervishes can sleep under one blanket, but two kings cannot fit into one country.",
+     "answer": "اقلیمی",
+     "hint": "a country – it rhymes with گلیمی"
+    },
+    {
+     "fa": "مشک آن است که خود ببوید، نه آن که ___ بگوید.",
+     "r": "moshk ān ast ke khod bebuyad, na ān ke ___ beguyad.",
+     "en": "Real musk smells of itself; it is not what the perfume-seller says.",
+     "answer": "عطار",
+     "hint": "the perfume-seller"
+    },
+    {
+     "fa": "توانا بود هر که ___ بود",
+     "r": "tavānā bovad har ke ___ bovad",
+     "en": "Whoever is wise is powerful.",
+     "answer": "دانا",
+     "hint": "wise"
+    },
+    {
+     "fa": "ز دانش دل پیر ___ بود",
+     "r": "ze dānesh del-e pir ___ bovad",
+     "en": "Through knowledge the heart of the old stays young.",
+     "answer": "برنا",
+     "hint": "young (poetic)"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Saadi's prose, Ferdowsi's verse",
+   "items": [
+    {
+     "q": "What is [[سجع|saj']]?",
+     "options": [
+      "prose in balanced halves that end in rhyming words",
+      "the metre of the Shahnameh",
+      "the short poem at the end of a story"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "In [[ملک را گفت|malek rā goft]], را means…",
+     "options": [
+      "nothing – it marks the object",
+      "'to': he said to the king",
+      "'from': he heard from the king"
+     ],
+     "answer": 1,
+     "explain": "In old Persian را can mark the person you speak or give to. Today: به پادشاه گفت."
+    },
+    {
+     "q": "Why did the slave calm down after he was thrown into the sea?",
+     "options": [
+      "the water was warm",
+      "he had learned what the safety of the boat was worth",
+      "the king promised him a reward"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "In [[توانا بود هر که دانا بود|tavānā bovad har ke dānā bovad]], بود means…",
+     "options": [
+      "was",
+      "is",
+      "will be"
+     ],
+     "answer": 1,
+     "explain": "بود (bovad) is the old present of بودن, used for general truths."
+    },
+    {
+     "q": "Which is Ferdowsi's Persian word for 'reason, wisdom'?",
+     "options": [
+      "عقل",
+      "خرد",
+      "علم"
+     ],
+     "answer": 1,
+     "explain": "عقل and علم are Arabic; خرد is Persian, the word of the Shahnameh's first line."
+    },
+    {
+     "q": "Which famous couplet do scholars doubt that Ferdowsi wrote?",
+     "options": [
+      "«به نام خداوند جان و خرد»",
+      "«بسی رنج بردم در این سال سی»",
+      "«میازار موری که دانه‌کش است»"
+     ],
+     "answer": 1,
+     "explain": "It is missing from the oldest manuscripts – and, ironically, contains the Arabic word عجم."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Ferdowsi's Persian",
+   "items": [
+    {
+     "fa": "خرد",
+     "r": "kherad",
+     "en": "wisdom, reason",
+     "faV": "خِرَد",
+     "a": "faa1c118eaa8"
+    },
+    {
+     "fa": "داد",
+     "r": "dād",
+     "en": "justice",
+     "faV": "داد",
+     "a": "5e8786a6506c"
+    },
+    {
+     "fa": "دانش",
+     "r": "dānesh",
+     "en": "knowledge",
+     "faV": "دانِش",
+     "a": "a4ba4fb7c57d"
+    },
+    {
+     "fa": "اندیشه",
+     "r": "andishe",
+     "en": "thought",
+     "faV": "اَندیشه",
+     "a": "ecbcc7ea0358"
+    },
+    {
+     "fa": "گیتی",
+     "r": "giti",
+     "en": "the world",
+     "faV": "گیتی",
+     "a": "ef2e40dd65d9"
+    },
+    {
+     "fa": "سپاس",
+     "r": "sepās",
+     "en": "thanks",
+     "faV": "سِپاس",
+     "a": "42735589baa3"
+    },
+    {
+     "fa": "یزدان",
+     "r": "yazdān",
+     "en": "God",
+     "faV": "یَزدان",
+     "a": "a555959582bd"
+    },
+    {
+     "fa": "نیایش",
+     "r": "niyāyesh",
+     "en": "prayer",
+     "faV": "نیایِش",
+     "a": "0eb79f711115"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "We had no choice.",
+     "fa": "چاره‌ای نداشتیم.",
+     "r": "chāre-i nadāshtim.",
+     "faV": "چاره‌ای نَداشتیم.",
+     "a": "67941745bd2b"
+    },
+    {
+     "en": "Only someone who has been ill knows the value of health.",
+     "fa": "فقط کسی قدر سلامتی را می‌داند که بیمار شده باشد.",
+     "r": "faghat kas-i ghadr-e salāmati rā mi-dānad ke bimār shode bāshad.",
+     "faV": "فَقَط کَسی قَدرِ سَلامَتی را می‌دانَد که بیمار شُده باشَد.",
+     "a": "36b43e747880"
+    },
+    {
+     "en": "The Shahnameh has nearly fifty thousand couplets.",
+     "fa": "شاهنامه نزدیک به پنجاه هزار بیت دارد.",
+     "r": "Shāhnāme nazdik be panjāh hezār beyt dārad.",
+     "faV": "شاهنامه نَزدیک به پَنجاه هِزار بَیت دارَد.",
+     "a": "fe592332dc51"
+    },
+    {
+     "en": "Saadi's prose is short and rhymed.",
+     "fa": "نثر سعدی کوتاه و مسجع است.",
+     "r": "nasr-e Sa'di kutāh o mosajja' ast.",
+     "faV": "نَثرِ سَعدی کوتاه و مُسَجَّع اَست.",
+     "a": "2d11bed79d6c"
+    },
+    {
+     "en": "Knowledge keeps the heart young.",
+     "fa": "دانش دل را جوان نگه می‌دارد.",
+     "r": "dānesh del rā javān negah mi-dārad.",
+     "faV": "دانِش دِل را جَوان نِگَه می‌دارَد.",
+     "a": "77b8a1328757"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "حکیمی در آن کشتی بود.",
+     "r": "hakim-i dar ān keshti bud.",
+     "en": "There was a wise man on that boat.",
+     "faV": "حَکیمی دَر آن کِشتی بود.",
+     "a": "12bb902d0652"
+    },
+    {
+     "fa": "ملک را عجب آمد.",
+     "r": "malek rā ajab āmad.",
+     "en": "The king was amazed.",
+     "faV": "مَلِک را عَجَب آمَد.",
+     "a": "3f058409930b"
+    },
+    {
+     "fa": "توانا بود هر که دانا بود",
+     "r": "tavānā bovad har ke dānā bovad",
+     "en": "Whoever is wise is powerful.",
+     "faV": "تَوانا بُوَد هَر که دانا بُوَد",
+     "a": "cb180432a344"
+    },
+    {
+     "fa": "فردوسی حدود سی سال از عمرش را صرف سرودن شاهنامه کرد.",
+     "r": "Ferdowsi hodud-e si sāl az omr-ash rā sarf-e sorudan-e Shāhnāme kard.",
+     "en": "Ferdowsi spent about thirty years of his life composing the Shahnameh.",
+     "faV": "فِردَوسی حُدودِ سی سال اَز عُمرَش را صَرفِ سُرودَنِ شاهنامه کَرد.",
+     "a": "5927e377acb1"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "باری چند غوطه خورد.",
+     "r": "bār-i chand ghute khord.",
+     "en": "He went under a few times.",
+     "options": [
+      "He went under a few times.",
+      "He ate a few things.",
+      "He swam back alone."
+     ],
+     "answer": 0,
+     "faV": "باری چَند غوطه خورد.",
+     "a": "7a07b4c713d8"
+    },
+    {
+     "fa": "ز دانش دل پیر برنا بود",
+     "r": "ze dānesh del-e pir bornā bovad",
+     "en": "Through knowledge the heart of the old stays young.",
+     "options": [
+      "The old man's heart is full of knowledge.",
+      "Through knowledge the heart of the old stays young.",
+      "Young people do not like old books."
+     ],
+     "answer": 1,
+     "faV": "ز دانِش دِلِ پیر بُرنا بُوَد",
+     "a": "f5b7e2770544"
+    },
+    {
+     "fa": "دروغی مصلحت‌آمیز به که راستی فتنه‌انگیز.",
+     "r": "dorugh-i maslahat-āmiz beh ke rāsti-ye fetne-angiz.",
+     "en": "A well-meant lie is better than a truth that stirs up trouble.",
+     "options": [
+      "Never tell a lie, even a small one.",
+      "The truth always causes trouble.",
+      "A well-meant lie is better than a truth that stirs up trouble."
+     ],
+     "answer": 2,
+     "faV": "دُروغی مَصلَحَت‌آمیز بِه که راستیِ فِتنه‌اَنگیز.",
+     "a": "9e90357fbd84"
+    },
+    {
+     "fa": "شاهنامه را به سلطان محمود پیشکش کرد.",
+     "r": "Shāhnāme rā be Soltān Mahmud pishkesh kard.",
+     "en": "He presented the Shahnameh to Sultan Mahmud.",
+     "options": [
+      "He presented the Shahnameh to Sultan Mahmud.",
+      "Sultan Mahmud wrote the Shahnameh.",
+      "He sold the Shahnameh to Sultan Mahmud."
+     ],
+     "answer": 0,
+     "faV": "شاهنامه را به سُلطان مَحمود پیشکِش کَرد.",
+     "a": "7e445717129a"
+    }
+   ]
+  }
+ ],
+ "titleV": "سَعدی و فِردَوسی",
+ "titleA": "9089318b010b"
+}

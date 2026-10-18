@@ -22,82 +22,114 @@
     {
      "fa": "زبان فارسی امروز زبان رسمی سه کشور است: ایران، افغانستان و تاجیکستان.",
      "r": "zabān-e fārsi emruz zabān-e rasmi-ye se keshvar ast: Irān, Afghānestān o Tājikestān.",
-     "en": "Today Persian is an official language in three countries: Iran, Afghanistan and Tajikistan."
+     "en": "Today Persian is an official language in three countries: Iran, Afghanistan and Tajikistan.",
+     "faV": "زَبانِ فارسی اِمروز زَبانِ رَسمیِ سه کِشوَر اَست: ایران، اَفغانِستان و تاجیکِستان.",
+     "a": "694f5155fb9a"
     },
     {
      "fa": "در ایران به آن «فارسی»، در افغانستان «دری» و در تاجیکستان «تاجیکی» می‌گویند.",
      "r": "dar Irān be ān «fārsi», dar Afghānestān «dari» o dar Tājikestān «tājiki» mi-guyand.",
-     "en": "In Iran it is called Farsi, in Afghanistan Dari, and in Tajikistan Tajik."
+     "en": "In Iran it is called Farsi, in Afghanistan Dari, and in Tajikistan Tajik.",
+     "faV": "دَر ایران به آن «فارسی»، دَر اَفغانِستان «دَری» و دَر تاجیکِستان «تاجیکی» می‌گویَند.",
+     "a": "c8d290f0ca62"
     },
     {
      "fa": "این‌ها سه زبان جدا نیستند، بلکه سه گونه‌ی یک زبان‌اند.",
      "r": "in-hā se zabān-e jodā nistand, balke se gune-ye yek zabān-and.",
-     "en": "These are not three separate languages but three varieties of one language."
+     "en": "These are not three separate languages but three varieties of one language.",
+     "faV": "این‌ها سه زَبانِ جُدا نیستَند، بَلکه سه گونه‌یِ یِک زَبان‌اَند.",
+     "a": "a7af6420c906"
     },
     {
      "fa": "فارسی نو بیش از هزار سال پیش در خراسان بزرگ و فرارود شکل گرفت.",
      "r": "fārsi-ye now bish az hezār sāl pish dar Khorāsān-e bozorg o Farārud shekl gereft.",
-     "en": "New Persian took shape more than a thousand years ago in Greater Khorasan and Transoxiana."
+     "en": "New Persian took shape more than a thousand years ago in Greater Khorasan and Transoxiana.",
+     "faV": "فارسیِ نَو بیش اَز هِزار سال پیش دَر خُراسانِ بُزُرگ و فَرارود شِکل گِرِفت.",
+     "a": "906152d87a98"
     },
     {
      "fa": "این سرزمین‌ها امروز میان چند کشور تقسیم شده‌اند.",
      "r": "in sarzamin-hā emruz miyān-e chand keshvar taghsim shode-and.",
-     "en": "Today these lands are divided among several countries."
+     "en": "Today these lands are divided among several countries.",
+     "faV": "این سَرزَمین‌ها اِمروز میانِ چَند کِشوَر تَقسیم شُده‌اَند.",
+     "a": "cc1423dab2b2"
     },
     {
      "fa": "رودکی، پدر شعر فارسی، در دربار سامانیان در بخارا شعر می‌گفت.",
      "r": "Rudaki, pedar-e she'r-e fārsi, dar darbār-e Sāmāniyān dar Bokhārā she'r mi-goft.",
-     "en": "Rudaki, the father of Persian poetry, recited his poems at the Samanid court in Bukhara."
+     "en": "Rudaki, the father of Persian poetry, recited his poems at the Samanid court in Bukhara.",
+     "faV": "رودَکی، پِدَرِ شِعرِ فارسی، دَر دَربارِ سامانیان دَر بُخارا شِعر می‌گُفت.",
+     "a": "91e0925a92dd"
     },
     {
      "fa": "بخارا امروز در ازبکستان است، اما هنوز بسیاری از مردم آن به تاجیکی حرف می‌زنند.",
      "r": "Bokhārā emruz dar Ozbakestān ast, ammā hanuz besyār-i az mardom-e ān be tājiki harf mi-zanand.",
-     "en": "Bukhara is in Uzbekistan today, but many of its people still speak Tajik."
+     "en": "Bukhara is in Uzbekistan today, but many of its people still speak Tajik.",
+     "faV": "بُخارا اِمروز دَر اُزبَکِستان اَست، اَمّا هَنوز بِسیاری اَز مَردُمِ آن به تاجیکی حَرف می‌زَنَند.",
+     "a": "d56a92307987"
     },
     {
      "fa": "نام «دری» را معمولاً از «دربار» می‌دانند؛ یعنی زبان دربار.",
      "r": "nām-e «dari» rā ma'mulan az «darbār» mi-dānand; ya'ni zabān-e darbār.",
-     "en": "The name Dari is usually traced back to darbār, 'the royal court' – the language of the court."
+     "en": "The name Dari is usually traced back to darbār, 'the royal court' – the language of the court.",
+     "faV": "نامِ «دَری» را مَعمولاً اَز «دَربار» می‌دانَند؛ یَعنی زَبانِ دَربار.",
+     "a": "5e233c673108"
     },
     {
      "fa": "تاجیکی تا حدود صد سال پیش با همین خط فارسی نوشته می‌شد.",
      "r": "tājiki tā hodud-e sad sāl pish bā hamin khatt-e fārsi neveshte mi-shod.",
-     "en": "Until about a hundred years ago, Tajik was written in this same Persian script."
+     "en": "Until about a hundred years ago, Tajik was written in this same Persian script.",
+     "faV": "تاجیکی تا حُدودِ صَد سال پیش با هَمین خَطِّ فارسی نِوِشته می‌شُد.",
+     "a": "3c6acb0ac238"
     },
     {
      "fa": "در دوره‌ی شوروی خط آن اول به لاتین و بعد، در سال ۱۹۴۰، به سیریلیک تغییر کرد.",
      "r": "dar dowre-ye showravi khatt-e ān avval be lātin o ba'd, dar sāl-e hezār-o-nohsad-o-chehel, be sirilik taghyir kard.",
-     "en": "In the Soviet period its script was changed, first to Latin and then, in 1940, to Cyrillic."
+     "en": "In the Soviet period its script was changed, first to Latin and then, in 1940, to Cyrillic.",
+     "faV": "دَر دَوره‌یِ شَورَوی خَطِّ آن اَوَّل به لاتین و بَعد، دَر سالِ ۱۹۴۰، به سیریلیک تَغییر کَرد.",
+     "a": "b5c5718f86ad"
     },
     {
      "fa": "به همین دلیل بیشتر تاجیک‌ها حافظ را به خط سیریلیک می‌خوانند.",
      "r": "be hamin dalil bishtar-e tājik-hā Hāfez rā be khatt-e sirilik mi-khānand.",
-     "en": "That is why most Tajiks read Hafez in Cyrillic."
+     "en": "That is why most Tajiks read Hafez in Cyrillic.",
+     "faV": "به هَمین دَلیل بیشتَرِ تاجیک‌ها حافِظ را به خَطِّ سیریلیک می‌خوانَند.",
+     "a": "29a37398a205"
     },
     {
      "fa": "فارسی‌زبانان این سه کشور حرف یکدیگر را می‌فهمند، به‌ویژه وقتی آرام و رسمی صحبت می‌کنند.",
      "r": "fārsi-zabānān-e in se keshvar harf-e yekdigar rā mi-fahmand, be-vizhe vaghti ārām o rasmi sohbat mi-konand.",
-     "en": "Persian speakers from the three countries understand each other, especially when they speak slowly and formally."
+     "en": "Persian speakers from the three countries understand each other, especially when they speak slowly and formally.",
+     "faV": "فارسی‌زَبانانِ این سه کِشوَر حَرفِ یِکدیگَر را می‌فَهمَند، به‌ویژه وَقتی آرام و رَسمی صُحبَت می‌کُنَند.",
+     "a": "5f2fe4b7aa2b"
     },
     {
      "fa": "تفاوت‌ها بیشتر در تلفظ، در بعضی واژه‌های روزمره و در واژه‌های قرضی است.",
      "r": "tafāvot-hā bishtar dar talaffoz, dar ba'zi vāzhe-hā-ye ruzmarre o dar vāzhe-hā-ye gharzi ast.",
-     "en": "The differences lie mostly in pronunciation, in some everyday words and in loanwords."
+     "en": "The differences lie mostly in pronunciation, in some everyday words and in loanwords.",
+     "faV": "تَفاوُت‌ها بیشتَر دَر تَلَفُّظ، دَر بَعضی واژه‌هایِ روزمَرّه و دَر واژه‌هایِ قَرضی اَست.",
+     "a": "976ac6f60fa2"
     },
     {
      "fa": "فارسی ایران واژه‌های زیادی از فرانسوی گرفته است، دری از انگلیسی و پشتو و اردو، و تاجیکی از روسی و ازبکی.",
      "r": "fārsi-ye Irān vāzhe-hā-ye ziyād-i az farānsavi gerefte ast, dari az engelisi o pashtu o ordu, o tājiki az rusi o ozbaki.",
-     "en": "Iranian Persian has taken many words from French, Dari from English, Pashto and Urdu, and Tajik from Russian and Uzbek."
+     "en": "Iranian Persian has taken many words from French, Dari from English, Pashto and Urdu, and Tajik from Russian and Uzbek.",
+     "faV": "فارسیِ ایران واژه‌هایِ زیادی اَز فَرانسَوی گِرِفته اَست، دَری اَز اِنگِلیسی و پَشتو و اُردو، و تاجیکی اَز روسی و اُزبَکی.",
+     "a": "758b87593a56"
     },
     {
      "fa": "با این همه، شعر رودکی و فردوسی و مولوی و حافظ میراث مشترک هر سه کشور است.",
      "r": "bā in hame, she'r-e Rudaki o Ferdowsi o Mowlavi o Hāfez mirās-e moshtarak-e har se keshvar ast.",
-     "en": "Even so, the poetry of Rudaki, Ferdowsi, Rumi and Hafez is the shared heritage of all three countries."
+     "en": "Even so, the poetry of Rudaki, Ferdowsi, Rumi and Hafez is the shared heritage of all three countries.",
+     "faV": "با این هَمه، شِعرِ رودَکی و فِردَوسی و مَولَوی و حافِظ میراثِ مُشتَرَکِ هَر سه کِشوَر اَست.",
+     "a": "1f07ab62db6d"
     },
     {
      "fa": "مولوی را «بلخی» هم می‌نامند، چون خانواده‌اش از بلخ بود؛ بلخ امروز در افغانستان است.",
      "r": "Mowlavi rā «Balkhi» ham mi-nāmand, chon khānevāde-ash az Balkh bud; Balkh emruz dar Afghānestān ast.",
-     "en": "Rumi is also called Balkhi, because his family came from Balkh; Balkh is in Afghanistan today."
+     "en": "Rumi is also called Balkhi, because his family came from Balkh; Balkh is in Afghanistan today.",
+     "faV": "مَولَوی را «بَلخی» هَم می‌نامَند، چون خانِواده‌اَش اَز بَلخ بود؛ بَلخ اِمروز دَر اَفغانِستان اَست.",
+     "a": "a81e4a8e0d29"
     }
    ],
    "questions": [
@@ -153,13 +185,17 @@
      "r": "gune",
      "en": "variety, form (of a language); kind",
      "pos": "n",
-     "note": "also 'cheek'"
+     "note": "also 'cheek'",
+     "faV": "گونه",
+     "a": "c9d3d648cf35"
     },
     {
      "fa": "زبان رسمی",
      "r": "zabān-e rasmi",
      "en": "official language",
-     "pos": "phrase"
+     "pos": "phrase",
+     "faV": "زَبانِ رَسمی",
+     "a": "32049e4f06e7"
     },
     {
      "fa": "زبان مادری",
@@ -169,15 +205,21 @@
      "ex": {
       "fa": "زبان مادری او دری است.",
       "r": "zabān-e mādari-ye u dari ast.",
-      "en": "Her mother tongue is Dari."
-     }
+      "en": "Her mother tongue is Dari.",
+      "faV": "زَبانِ مادَریِ او دَری اَست.",
+      "a": "f326f8903865"
+     },
+     "faV": "زَبانِ مادَری",
+     "a": "4147370ea295"
     },
     {
      "fa": "فارسی‌زبان",
      "r": "fārsi-zabān",
      "en": "Persian-speaking; a Persian speaker",
      "pos": "adj",
-     "note": "plural فارسی‌زبانان (fārsi-zabānān)"
+     "note": "plural فارسی‌زبانان (fārsi-zabānān)",
+     "faV": "فارسی‌زَبان",
+     "a": "535d014af06a"
     },
     {
      "fa": "لهجه",
@@ -187,8 +229,12 @@
      "ex": {
       "fa": "لهجه‌ی او کابلی است.",
       "r": "lahje-ye u kāboli ast.",
-      "en": "She has a Kabul accent."
-     }
+      "en": "She has a Kabul accent.",
+      "faV": "لَهجه‌یِ او کابُلی اَست.",
+      "a": "aca26553874f"
+     },
+     "faV": "لَهجه",
+     "a": "59b0ecc5828f"
     },
     {
      "fa": "تلفظ",
@@ -198,27 +244,37 @@
      "ex": {
       "fa": "تلفظ این کلمه را بلد نیستم.",
       "r": "talaffoz-e in kalame rā balad nistam.",
-      "en": "I don't know how to pronounce this word."
-     }
+      "en": "I don't know how to pronounce this word.",
+      "faV": "تَلَفُّظِ این کَلَمه را بَلَد نیستَم.",
+      "a": "bb3c3175e8a4"
+     },
+     "faV": "تَلَفُّظ",
+     "a": "3c0060d1d41e"
     },
     {
      "fa": "تلفظ کردن",
      "r": "talaffoz kardan",
      "en": "to pronounce",
-     "pos": "v"
+     "pos": "v",
+     "faV": "تَلَفُّظ کَردَن",
+     "a": "e1a1528ce787"
     },
     {
      "fa": "واژه",
      "r": "vāzhe",
      "en": "word (formal)",
      "pos": "n",
-     "note": "everyday: کلمه (kalame)"
+     "note": "everyday: کلمه (kalame)",
+     "faV": "واژه",
+     "a": "cc9c7f28c5f9"
     },
     {
      "fa": "واژه‌ی قرضی",
      "r": "vāzhe-ye gharzi",
      "en": "loanword",
-     "pos": "phrase"
+     "pos": "phrase",
+     "faV": "واژه‌یِ قَرضی",
+     "a": "84f573d6309f"
     },
     {
      "fa": "خط",
@@ -228,77 +284,103 @@
      "ex": {
       "fa": "خط سیریلیک",
       "r": "khatt-e sirilik",
-      "en": "the Cyrillic script"
-     }
+      "en": "the Cyrillic script",
+      "faV": "خَطِّ سیریلیک",
+      "a": "3befcae5ff8c"
+     },
+     "faV": "خَطّ",
+     "a": "005ba86f27ca"
     },
     {
      "fa": "سیریلیک",
      "r": "sirilik",
      "en": "Cyrillic",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "سیریلیک",
+     "a": "7c4aa72dce54"
     },
     {
      "fa": "حرف",
      "r": "harf",
      "en": "letter (of the alphabet); talk, words",
      "pos": "n",
-     "note": "plural حروف (horuf) for letters, حرف‌ها (harf-hā) for words someone says"
+     "note": "plural حروف (horuf) for letters, حرف‌ها (harf-hā) for words someone says",
+     "faV": "حَرف",
+     "a": "21fd66798cca"
     },
     {
      "fa": "مصوت",
      "r": "mosavvat",
      "en": "vowel",
-     "pos": "n"
+     "pos": "n",
+     "faV": "مُصَوَّت",
+     "a": "686dc3812002"
     },
     {
      "fa": "دربار",
      "r": "darbār",
      "en": "royal court",
-     "pos": "n"
+     "pos": "n",
+     "faV": "دَربار",
+     "a": "575a325bff06"
     },
     {
      "fa": "سرزمین",
      "r": "sarzamin",
      "en": "land, territory",
-     "pos": "n"
+     "pos": "n",
+     "faV": "سَرزَمین",
+     "a": "9f520dc0c16d"
     },
     {
      "fa": "شکل گرفتن",
      "r": "shekl gereftan",
      "en": "to take shape",
-     "pos": "v"
+     "pos": "v",
+     "faV": "شِکل گِرِفتَن",
+     "a": "2fcd80dd6719"
     },
     {
      "fa": "تقسیم شدن",
      "r": "taghsim shodan",
      "en": "to be divided",
-     "pos": "v"
+     "pos": "v",
+     "faV": "تَقسیم شُدَن",
+     "a": "1bd250b461cb"
     },
     {
      "fa": "میراث",
      "r": "mirās",
      "en": "heritage, inheritance",
-     "pos": "n"
+     "pos": "n",
+     "faV": "میراث",
+     "a": "ffdaf60e6769"
     },
     {
      "fa": "مشترک",
      "r": "moshtarak",
      "en": "shared, common",
-     "pos": "adj"
+     "pos": "adj",
+     "faV": "مُشتَرَک",
+     "a": "bb7a67418348"
     },
     {
      "fa": "یکدیگر",
      "r": "yekdigar",
      "en": "each other",
      "pos": "pron",
-     "note": "spoken: همدیگر (hamdigar)"
+     "note": "spoken: همدیگر (hamdigar)",
+     "faV": "یِکدیگَر",
+     "a": "f7707f89e5f7"
     },
     {
      "fa": "تفاوت",
      "r": "tafāvot",
      "en": "difference",
      "pos": "n",
-     "note": "spoken: فرق (fargh)"
+     "note": "spoken: فرق (fargh)",
+     "faV": "تَفاوُت",
+     "a": "5f4171f77ba8"
     },
     {
      "fa": "فرق داشتن",
@@ -308,21 +390,29 @@
      "ex": {
       "fa": "لهجه‌ی کابل با لهجه‌ی تهران فرق دارد.",
       "r": "lahje-ye Kābol bā lahje-ye Tehrān fargh dārad.",
-      "en": "The Kabul accent is different from the Tehran accent."
-     }
+      "en": "The Kabul accent is different from the Tehran accent.",
+      "faV": "لَهجه‌یِ کابُل با لَهجه‌یِ تِهران فَرق دارَد.",
+      "a": "a3455bed2f1c"
+     },
+     "faV": "فَرق داشتَن",
+     "a": "c094bcb9013e"
     },
     {
      "fa": "فهمیدن",
      "r": "fahmidan",
      "en": "to understand",
      "pos": "v",
-     "note": "present stem فهم (fahm). In Kabul it is often said *fāmidan* and also means 'to know': *namēfāmam* 'I don't know'."
+     "note": "present stem فهم (fahm). In Kabul it is often said *fāmidan* and also means 'to know': *namēfāmam* 'I don't know'.",
+     "faV": "فَهمیدَن",
+     "a": "f8119c70160b"
     },
     {
      "fa": "شوروی",
      "r": "showravi",
      "en": "Soviet; the Soviet Union",
-     "pos": "n"
+     "pos": "n",
+     "faV": "شَورَوی",
+     "a": "257a0cb58670"
     }
    ]
   },
@@ -339,23 +429,125 @@
      "English"
     ],
     "rows": [
-     ["شیر", "shir", "shēr", "шер *sher*", "lion"],
-     ["شیر", "shir", "shīr", "шир *shir*", "milk"],
-     ["سیب", "sib", "sēb", "себ *seb*", "apple"],
-     ["میوه", "mive", "mēwa", "мева *meva*", "fruit"],
-     ["پیش", "pish", "pēsh", "пеш *pesh*", "before, in front"],
-     ["دیر", "dir", "dēr", "дер *der*", "late"],
-     ["زور", "zur", "zōr", "зӯр *zūr*", "force, strength"],
-     ["روز", "ruz", "rōz", "рӯз *rūz*", "day"],
-     ["دوست", "dust", "dōst", "дӯст *dūst*", "friend"],
-     ["کوه", "kuh", "kōh", "кӯҳ *kūh*", "mountain"],
-     ["گوش", "gush", "gōsh", "гӯш *gūsh*", "ear"],
-     ["شور", "shur", "shōr", "шӯр *shūr*", "salty"],
-     ["دور", "dur", "dūr", "дур *dur*", "far (a 'known' ū: the same everywhere)"],
-     ["خوب", "khub", "khūb", "хуб *khub*", "good (a 'known' ū)"],
-     ["خانه", "khāne", "khāna", "хона *khona*", "house, home"],
-     ["وقت", "vaght", "waqt", "вақт *vaqt*", "time"],
-     ["می‌روم", "mi-ravam", "mērawam", "меравам *meravam*", "I go"]
+     [
+      "شیر",
+      "shir",
+      "shēr",
+      "шер *sher*",
+      "lion"
+     ],
+     [
+      "شیر",
+      "shir",
+      "shīr",
+      "шир *shir*",
+      "milk"
+     ],
+     [
+      "سیب",
+      "sib",
+      "sēb",
+      "себ *seb*",
+      "apple"
+     ],
+     [
+      "میوه",
+      "mive",
+      "mēwa",
+      "мева *meva*",
+      "fruit"
+     ],
+     [
+      "پیش",
+      "pish",
+      "pēsh",
+      "пеш *pesh*",
+      "before, in front"
+     ],
+     [
+      "دیر",
+      "dir",
+      "dēr",
+      "дер *der*",
+      "late"
+     ],
+     [
+      "زور",
+      "zur",
+      "zōr",
+      "зӯр *zūr*",
+      "force, strength"
+     ],
+     [
+      "روز",
+      "ruz",
+      "rōz",
+      "рӯз *rūz*",
+      "day"
+     ],
+     [
+      "دوست",
+      "dust",
+      "dōst",
+      "дӯст *dūst*",
+      "friend"
+     ],
+     [
+      "کوه",
+      "kuh",
+      "kōh",
+      "кӯҳ *kūh*",
+      "mountain"
+     ],
+     [
+      "گوش",
+      "gush",
+      "gōsh",
+      "гӯш *gūsh*",
+      "ear"
+     ],
+     [
+      "شور",
+      "shur",
+      "shōr",
+      "шӯр *shūr*",
+      "salty"
+     ],
+     [
+      "دور",
+      "dur",
+      "dūr",
+      "дур *dur*",
+      "far (a 'known' ū: the same everywhere)"
+     ],
+     [
+      "خوب",
+      "khub",
+      "khūb",
+      "хуб *khub*",
+      "good (a 'known' ū)"
+     ],
+     [
+      "خانه",
+      "khāne",
+      "khāna",
+      "хона *khona*",
+      "house, home"
+     ],
+     [
+      "وقت",
+      "vaght",
+      "waqt",
+      "вақт *vaqt*",
+      "time"
+     ],
+     [
+      "می‌روم",
+      "mi-ravam",
+      "mērawam",
+      "меравам *meravam*",
+      "I go"
+     ]
     ]
    },
    "examples": [
@@ -363,7 +555,9 @@
      "fa": "شیر شیر نمی‌خورد.",
      "r": "shir shir nemi-khorad.",
      "en": "The lion doesn't drink milk.",
-     "note": "A Tehrani hears the same word twice. In Kabul they are two words: *shēr shīr namēkhora*. In Tajik: Шер шир намехӯрад (*sher shir namekhūrad*)."
+     "note": "A Tehrani hears the same word twice. In Kabul they are two words: *shēr shīr namēkhora*. In Tajik: Шер шир намехӯрад (*sher shir namekhūrad*).",
+     "faV": "شیر شیر نِمی‌خورَد.",
+     "a": "4b6bbe0ba7d3"
     },
     {
      "fa": "امروز هوا خوب است.",
@@ -371,19 +565,27 @@
      "en": "The weather is good today.",
      "col": "امروز هوا خوبه.",
      "colR": "emruz havā khube.",
-     "note": "Kabul: *imrōz hawā khūb ast* – listen for the ō of *rōz* and the w. Tajik: Имрӯз ҳаво хуб аст (*imrūz havo khub ast*)."
+     "note": "Kabul: *imrōz hawā khūb ast* – listen for the ō of *rōz* and the w. Tajik: Имрӯз ҳаво хуб аст (*imrūz havo khub ast*).",
+     "faV": "اِمروز هَوا خوب اَست.",
+     "a": "b22867ac4a31",
+     "colV": "اِمروز هَوا خوبه.",
+     "colA": "128bfb0d0ad0"
     },
     {
      "fa": "دوستم از کوه برگشت.",
      "r": "dust-am az kuh bargasht.",
      "en": "My friend came back from the mountains.",
-     "note": "Kabul: *dōst-am az kōh bargasht*. Tajik: Дӯстам аз кӯҳ баргашт (*dūstam az kūh bargasht*). Every ō of Kabul is a ӯ in Tajik."
+     "note": "Kabul: *dōst-am az kōh bargasht*. Tajik: Дӯстам аз кӯҳ баргашт (*dūstam az kūh bargasht*). Every ō of Kabul is a ӯ in Tajik.",
+     "faV": "دوستَم اَز کوه بَرگَشت.",
+     "a": "0467ab3b0aa2"
     },
     {
      "fa": "سیب میوه‌ی محبوب من است.",
      "r": "sib mive-ye mahbub-e man ast.",
      "en": "The apple is my favourite fruit.",
-     "note": "Kabul: *sēb mēwa-ye mahbūb-e man ast*. Tajik: Себ меваи маҳбуби ман аст (*seb mevai mahbubi man ast*)."
+     "note": "Kabul: *sēb mēwa-ye mahbūb-e man ast*. Tajik: Себ меваи маҳбуби ман аст (*seb mevai mahbubi man ast*).",
+     "faV": "سیب میوه‌یِ مَحبوبِ مَن اَست.",
+     "a": "903436d3f6dd"
     },
     {
      "fa": "دیر شد، باید بروم.",
@@ -391,13 +593,19 @@
      "en": "It's late, I have to go.",
      "col": "دیر شد، باید برم.",
      "colR": "dir shod, bāyad beram.",
-     "note": "Kabul begins *dēr shod…*. Tajik: Дер шуд, бояд равам (*der shud, boyad ravam*) – no be- in the subjunctive."
+     "note": "Kabul begins *dēr shod…*. Tajik: Дер шуд, бояд равам (*der shud, boyad ravam*) – no be- in the subjunctive.",
+     "faV": "دیر شُد، بایَد بِرَوَم.",
+     "a": "2aa37d6ceda0",
+     "colV": "دیر شُد، بایَد بِرَم.",
+     "colA": "f87a638f39a5"
     },
     {
      "fa": "وقت نداریم.",
      "r": "vaght na-dārim.",
      "en": "We don't have time.",
-     "note": "In Kabul the first word is *waqt*, with a w and a q made far back in the throat. Tajik: Вақт надорем (*vaqt nadorem*)."
+     "note": "In Kabul the first word is *waqt*, with a w and a q made far back in the throat. Tajik: Вақт надорем (*vaqt nadorem*).",
+     "faV": "وَقت نَداریم.",
+     "a": "2bf464ad4d5d"
     },
     {
      "fa": "این آب خیلی شور است.",
@@ -405,7 +613,11 @@
      "en": "This water is very salty.",
      "col": "این آب خیلی شوره.",
      "colR": "in āb kheyli shure.",
-     "note": "Kabul: *in āw khaili shōr ast* – Kabulis often say *āw* for آب. Tajik: Ин об хеле шӯр аст (*in ob khele shūr ast*)."
+     "note": "Kabul: *in āw khaili shōr ast* – Kabulis often say *āw* for آب. Tajik: Ин об хеле шӯр аст (*in ob khele shūr ast*).",
+     "faV": "این آب خَیلی شور اَست.",
+     "a": "368ccf4d4f3b",
+     "colV": "این آب خَیلی شوره.",
+     "colA": "4d392232877e"
     },
     {
      "fa": "من به خانه می‌روم.",
@@ -413,7 +625,11 @@
      "en": "I am going home.",
      "col": "من دارم می‌رم خونه.",
      "colR": "man dāram mi-ram khune.",
-     "note": "Kabul: *man ba khāna mērawam* – mē- for mi-, and the final -a of *khāna*. Tajik: Ман ба хона меравам (*man ba khona meravam*)."
+     "note": "Kabul: *man ba khāna mērawam* – mē- for mi-, and the final -a of *khāna*. Tajik: Ман ба хона меравам (*man ba khona meravam*).",
+     "faV": "مَن به خانه می‌رَوَم.",
+     "a": "79cc41fffd92",
+     "colV": "مَن دارَم می‌رَم خونه.",
+     "colA": "2fc178e3c7cf"
     }
    ]
   },
@@ -429,31 +645,156 @@
      "Tajikistan"
     ],
     "rows": [
-     ["hospital", "[[بیمارستان|bimārestān]]", "[[شفاخانه|shafākhāna]]", "беморхона *bemorkhona*"],
-     ["car", "[[ماشین|māshin]]", "[[موتر|motar]]", "мошин *moshin*"],
-     ["apple", "[[سیب|sib]]", "[[سیب|sēb]]", "себ *seb*"],
-     ["tomato", "[[گوجه‌فرنگی|gowje-farangi]]", "[[بادنجان رومی|bādenjān-e rumi]]", "помидор *pomidor*"],
-     ["potato", "[[سیب‌زمینی|sib-zamini]]", "[[کچالو|kachālu]]", "картошка *kartoshka*"],
-     ["bread shop", "[[نانوایی|nānvāyi]]", "[[نانوایی|nānwāyi]]", "нонвойхона *nonvoykhona*"],
-     ["police", "[[پلیس|polis]]", "[[پولیس|polis]] (spelt with و)", "милитсия *militsiya*"],
-     ["university", "[[دانشگاه|dāneshgāh]]", "[[پوهنتون|pohantun]]", "донишгоҳ *donishgoh*"],
-     ["university student", "[[دانشجو|dāneshju]]", "[[محصل|mohassel]]", "донишҷӯ *donishjū*"],
-     ["school", "[[مدرسه|madrese]]", "[[مکتب|maktab]]", "мактаб *maktab*"],
-     ["airport", "[[فرودگاه|forudgāh]]", "[[میدان هوایی|maydān-e hawāyi]]", "фурудгоҳ *furudgoh*"],
-     ["aeroplane", "[[هواپیما|havāpeymā]]", "[[طیاره|tayyāra]]", "ҳавопаймо *havopaymo*"],
-     ["ticket", "[[بلیت|belit]]", "[[تکت|tekat]]", "чипта *chipta*"],
-     ["road, street", "[[خیابان|khiyābān]]", "[[سرک|sarak]]", "кӯча *kūcha*"],
-     ["shop", "[[مغازه|maghāze]]", "[[دکان|dokān]]", "дӯкон *dūkon*"],
-     ["pharmacy", "[[داروخانه|dārukhāne]]", "[[دواخانه|dawākhāna]]", "дорухона *dorukhona*"],
-     ["doctor", "[[دکتر|doktor]]", "[[داکتر|dāktar]]", "духтур *dukhtur*"],
-     ["window", "[[پنجره|panjere]]", "[[کلکین|kelkin]]", "тиреза *tireza*"],
-     ["chair", "[[صندلی|sandali]]", "[[چوکی|chawki]]", "курсӣ *kursī*"],
-     ["bathroom, toilet", "[[دستشویی|dast-shuyi]]", "[[تشناب|tashnāb]]", "ҳоҷатхона *hojatkhona*"],
-     ["watermelon", "[[هندوانه|hendevāne]]", "[[تربوز|tarbuz]]", "тарбуз *tarbuz*"],
-     ["money", "[[پول|pul]]", "[[پیسه|paysa]]", "пул *pul*"],
-     ["big", "[[بزرگ|bozorg]]", "[[کلان|kalān]]", "калон *kalon*"],
-     ["tomorrow", "[[فردا|fardā]]", "[[صبا|sabā]] (also فردا)", "пагоҳ *pagoh* (also фардо)"],
-     ["to talk", "[[حرف زدن|harf zadan]]", "[[گپ زدن|gap zadan]]", "гап задан *gap zadan*"]
+     [
+      "hospital",
+      "[[بیمارستان|bimārestān]]",
+      "[[شفاخانه|shafākhāna]]",
+      "беморхона *bemorkhona*"
+     ],
+     [
+      "car",
+      "[[ماشین|māshin]]",
+      "[[موتر|motar]]",
+      "мошин *moshin*"
+     ],
+     [
+      "apple",
+      "[[سیب|sib]]",
+      "[[سیب|sēb]]",
+      "себ *seb*"
+     ],
+     [
+      "tomato",
+      "[[گوجه‌فرنگی|gowje-farangi]]",
+      "[[بادنجان رومی|bādenjān-e rumi]]",
+      "помидор *pomidor*"
+     ],
+     [
+      "potato",
+      "[[سیب‌زمینی|sib-zamini]]",
+      "[[کچالو|kachālu]]",
+      "картошка *kartoshka*"
+     ],
+     [
+      "bread shop",
+      "[[نانوایی|nānvāyi]]",
+      "[[نانوایی|nānwāyi]]",
+      "нонвойхона *nonvoykhona*"
+     ],
+     [
+      "police",
+      "[[پلیس|polis]]",
+      "[[پولیس|polis]] (spelt with و)",
+      "милитсия *militsiya*"
+     ],
+     [
+      "university",
+      "[[دانشگاه|dāneshgāh]]",
+      "[[پوهنتون|pohantun]]",
+      "донишгоҳ *donishgoh*"
+     ],
+     [
+      "university student",
+      "[[دانشجو|dāneshju]]",
+      "[[محصل|mohassel]]",
+      "донишҷӯ *donishjū*"
+     ],
+     [
+      "school",
+      "[[مدرسه|madrese]]",
+      "[[مکتب|maktab]]",
+      "мактаб *maktab*"
+     ],
+     [
+      "airport",
+      "[[فرودگاه|forudgāh]]",
+      "[[میدان هوایی|maydān-e hawāyi]]",
+      "фурудгоҳ *furudgoh*"
+     ],
+     [
+      "aeroplane",
+      "[[هواپیما|havāpeymā]]",
+      "[[طیاره|tayyāra]]",
+      "ҳавопаймо *havopaymo*"
+     ],
+     [
+      "ticket",
+      "[[بلیت|belit]]",
+      "[[تکت|tekat]]",
+      "чипта *chipta*"
+     ],
+     [
+      "road, street",
+      "[[خیابان|khiyābān]]",
+      "[[سرک|sarak]]",
+      "кӯча *kūcha*"
+     ],
+     [
+      "shop",
+      "[[مغازه|maghāze]]",
+      "[[دکان|dokān]]",
+      "дӯкон *dūkon*"
+     ],
+     [
+      "pharmacy",
+      "[[داروخانه|dārukhāne]]",
+      "[[دواخانه|dawākhāna]]",
+      "дорухона *dorukhona*"
+     ],
+     [
+      "doctor",
+      "[[دکتر|doktor]]",
+      "[[داکتر|dāktar]]",
+      "духтур *dukhtur*"
+     ],
+     [
+      "window",
+      "[[پنجره|panjere]]",
+      "[[کلکین|kelkin]]",
+      "тиреза *tireza*"
+     ],
+     [
+      "chair",
+      "[[صندلی|sandali]]",
+      "[[چوکی|chawki]]",
+      "курсӣ *kursī*"
+     ],
+     [
+      "bathroom, toilet",
+      "[[دستشویی|dast-shuyi]]",
+      "[[تشناب|tashnāb]]",
+      "ҳоҷатхона *hojatkhona*"
+     ],
+     [
+      "watermelon",
+      "[[هندوانه|hendevāne]]",
+      "[[تربوز|tarbuz]]",
+      "тарбуз *tarbuz*"
+     ],
+     [
+      "money",
+      "[[پول|pul]]",
+      "[[پیسه|paysa]]",
+      "пул *pul*"
+     ],
+     [
+      "big",
+      "[[بزرگ|bozorg]]",
+      "[[کلان|kalān]]",
+      "калон *kalon*"
+     ],
+     [
+      "tomorrow",
+      "[[فردا|fardā]]",
+      "[[صبا|sabā]] (also فردا)",
+      "пагоҳ *pagoh* (also фардо)"
+     ],
+     [
+      "to talk",
+      "[[حرف زدن|harf zadan]]",
+      "[[گپ زدن|gap zadan]]",
+      "гап задан *gap zadan*"
+     ]
     ]
    },
    "examples": [
@@ -462,42 +803,58 @@
      "r": "dar Kābol be bimārestān «shafākhāne» mi-guyand.",
      "en": "In Kabul a hospital is called a shafākhāna.",
      "col": "تو کابل به بیمارستان می‌گن «شفاخانه».",
-     "colR": "tu Kābol be bimārestān mi-gan «shafākhāne»."
+     "colR": "tu Kābol be bimārestān mi-gan «shafākhāne».",
+     "faV": "دَر کابُل به بیمارِستان «شَفاخانه» می‌گویَند.",
+     "a": "fcb27364c969",
+     "colV": "تو کابُل به بیمارِستان می‌گَن «شَفاخانه».",
+     "colA": "638e921cfb2e"
     },
     {
      "fa": "در افغانستان و تاجیکستان به مدرسه «مکتب» می‌گویند.",
      "r": "dar Afghānestān o Tājikestān be madrese «maktab» mi-guyand.",
      "en": "In Afghanistan and Tajikistan a school is called a maktab.",
-     "note": "In Iran مکتب is the old-fashioned Quran school that children attended before modern schools."
+     "note": "In Iran مکتب is the old-fashioned Quran school that children attended before modern schools.",
+     "faV": "دَر اَفغانِستان و تاجیکِستان به مَدرِسه «مَکتَب» می‌گویَند.",
+     "a": "6b9aabbb9ddc"
     },
     {
      "fa": "«دریا» در ایران یعنی دریا، ولی در کابل و دوشنبه یعنی رود.",
      "r": "«daryā» dar Irān ya'ni daryā, vali dar Kābol o Dushanbe ya'ni rud.",
      "en": "In Iran daryā means 'sea', but in Kabul and Dushanbe it means 'river'.",
-     "note": "The Amu Darya – the Oxus, on the border between Afghanistan and Tajikistan – is a river. Tajik: дарё."
+     "note": "The Amu Darya – the Oxus, on the border between Afghanistan and Tajikistan – is a river. Tajik: дарё.",
+     "faV": "«دَریا» دَر ایران یَعنی دَریا، وَلی دَر کابُل و دوشَنبه یَعنی رود.",
+     "a": "51f170b8b309"
     },
     {
      "fa": "در افغانستان به جای «حرف زدن» بیشتر «گپ زدن» می‌گویند.",
      "r": "dar Afghānestān be jā-ye «harf zadan» bishtar «gap zadan» mi-guyand.",
      "en": "In Afghanistan people mostly say gap zadan rather than harf zadan for 'to talk'.",
-     "note": "In Tehran گپ زدن exists too, but it means 'to chat'. Tajik: гап задан."
+     "note": "In Tehran گپ زدن exists too, but it means 'to chat'. Tajik: гап задан.",
+     "faV": "دَر اَفغانِستان به جایِ «حَرف زَدَن» بیشتَر «گَپ زَدَن» می‌گویَند.",
+     "a": "02073b38962a"
     },
     {
      "fa": "«بچه» در کابل یعنی پسر، ولی در تهران یعنی هر کودکی.",
      "r": "«bacche» dar Kābol ya'ni pesar, vali dar Tehrān ya'ni har kudak-i.",
-     "en": "In Kabul bacha means 'boy', but in Tehran it means any child."
+     "en": "In Kabul bacha means 'boy', but in Tehran it means any child.",
+     "faV": "«بَچّه» دَر کابُل یَعنی پِسَر، وَلی دَر تِهران یَعنی هَر کودَکی.",
+     "a": "148632fcb781"
     },
     {
      "fa": "در کابل به جای «ممنون» می‌گویند «تشکر».",
      "r": "dar Kābol be jā-ye «mamnun» mi-guyand «tashakkor».",
      "en": "In Kabul people say tashakkor instead of mamnun for 'thank you'.",
-     "note": "Tajik: раҳмат (*rahmat*) or ташаккур (*tashakkur*)."
+     "note": "Tajik: раҳмат (*rahmat*) or ташаккур (*tashakkur*).",
+     "faV": "دَر کابُل به جایِ «مَمنون» می‌گویَند «تَشَکُّر».",
+     "a": "37387714572c"
     },
     {
      "fa": "بسیاری از واژه‌های قرضی تاجیکی از روسی آمده‌اند.",
      "r": "besyār-i az vāzhe-hā-ye gharzi-ye tājiki az rusi āmade-and.",
      "en": "Many Tajik loanwords come from Russian.",
-     "note": "помидор 'tomato', картошка 'potato', мошин 'car' (Russian машина)."
+     "note": "помидор 'tomato', картошка 'potato', мошин 'car' (Russian машина).",
+     "faV": "بِسیاری اَز واژه‌هایِ قَرضیِ تاجیکی اَز روسی آمَده‌اَند.",
+     "a": "d815be2650e8"
     }
    ]
   },
@@ -513,41 +870,216 @@
      "Example"
     ],
     "rows": [
-     ["А а", "a", "short a (ـَ)", "ман *man* = [[من|man|I]]"],
-     ["Б б", "b", "ب", "бародар *barodar* = [[برادر|barādar|brother]]"],
-     ["В в", "v", "و", "вақт *vaqt* = [[وقت|vaght|time]]"],
-     ["Г г", "g", "گ", "гап *gap* = [[گپ|gap|talk]]"],
-     ["Ғ ғ", "gh", "غ", "боғ *bogh* = [[باغ|bāgh|garden]]"],
-     ["Д д", "d", "د", "дил *dil* = [[دل|del|heart]]"],
-     ["Е е", "e (ye at the start of a word)", "ی for the old ē", "шер *sher* = [[شیر|shir|lion]]"],
-     ["Ё ё", "yo", "یا", "дарё *daryo* = [[دریا|daryā|river]]"],
-     ["Ж ж", "zh", "ژ", "аждаҳо *azhdaho* = [[اژدها|ezhdehā|dragon]]"],
-     ["З з", "z", "ز ذ ض ظ", "зан *zan* = [[زن|zan|woman]]"],
-     ["И и", "i", "short e (ـِ) or ی", "китоб *kitob* = [[کتاب|ketāb|book]]"],
-     ["Ӣ ӣ", "ī", "a stressed final ی", "тоҷикӣ *tojikī* = [[تاجیکی|tājiki|Tajik]]"],
-     ["Й й", "y", "ی as a consonant", "чой *choy* = [[چای|chāy|tea]]"],
-     ["К к", "k", "ک", "кор *kor* = [[کار|kār|work]]"],
-     ["Қ қ", "q", "ق", "қалам *qalam* = [[قلم|ghalam|pen]]"],
-     ["Л л", "l", "ل", "лаб *lab* = [[لب|lab|lip]]"],
-     ["М м", "m", "م", "модар *modar* = [[مادر|mādar|mother]]"],
-     ["Н н", "n", "ن", "нон *non* = [[نان|nān|bread]]"],
-     ["О о", "o", "ا آ (Persian ā)", "об *ob* = [[آب|āb|water]]"],
-     ["П п", "p", "پ", "падар *padar* = [[پدر|pedar|father]]"],
-     ["Р р", "r", "ر", "рӯз *rūz* = [[روز|ruz|day]]"],
-     ["С с", "s", "س ص ث", "сол *sol* = [[سال|sāl|year]]"],
-     ["Т т", "t", "ت ط", "тоҷик *tojik* = [[تاجیک|tājik|a Tajik]]"],
-     ["У у", "u", "short o (ـُ) or و", "гул *gul* = [[گل|gol|flower]]"],
-     ["Ӯ ӯ", "ū", "و for the old ō", "дӯст *dūst* = [[دوست|dust|friend]]"],
-     ["Ф ф", "f", "ف", "фарзанд *farzand* = [[فرزند|farzand|child]]"],
-     ["Х х", "kh", "خ", "хона *khona* = [[خانه|khāne|house]]"],
-     ["Ҳ ҳ", "h", "ه ح", "ҳафт *haft* = [[هفت|haft|seven]]"],
-     ["Ч ч", "ch", "چ", "чашм *chashm* = [[چشم|cheshm|eye]]"],
-     ["Ҷ ҷ", "j", "ج", "ҷаҳон *jahon* = [[جهان|jahān|world]]"],
-     ["Ш ш", "sh", "ش", "шаҳр *shahr* = [[شهر|shahr|city]]"],
-     ["Ъ ъ", "'", "ع ء", "шеър *she'r* = [[شعر|she'r|poem]]"],
-     ["Э э", "e (at the start of a word)", "ا with e", "Эрон *Eron* = [[ایران|Irān|Iran]]"],
-     ["Ю ю", "yu", "یو", "Юнон *Yunon* = [[یونان|Yunān|Greece]]"],
-     ["Я я", "ya", "یَ", "як *yak* = [[یک|yek|one]]"]
+     [
+      "А а",
+      "a",
+      "short a (ـَ)",
+      "ман *man* = [[من|man|I]]"
+     ],
+     [
+      "Б б",
+      "b",
+      "ب",
+      "бародар *barodar* = [[برادر|barādar|brother]]"
+     ],
+     [
+      "В в",
+      "v",
+      "و",
+      "вақт *vaqt* = [[وقت|vaght|time]]"
+     ],
+     [
+      "Г г",
+      "g",
+      "گ",
+      "гап *gap* = [[گپ|gap|talk]]"
+     ],
+     [
+      "Ғ ғ",
+      "gh",
+      "غ",
+      "боғ *bogh* = [[باغ|bāgh|garden]]"
+     ],
+     [
+      "Д д",
+      "d",
+      "د",
+      "дил *dil* = [[دل|del|heart]]"
+     ],
+     [
+      "Е е",
+      "e (ye at the start of a word)",
+      "ی for the old ē",
+      "шер *sher* = [[شیر|shir|lion]]"
+     ],
+     [
+      "Ё ё",
+      "yo",
+      "یا",
+      "дарё *daryo* = [[دریا|daryā|river]]"
+     ],
+     [
+      "Ж ж",
+      "zh",
+      "ژ",
+      "аждаҳо *azhdaho* = [[اژدها|ezhdehā|dragon]]"
+     ],
+     [
+      "З з",
+      "z",
+      "ز ذ ض ظ",
+      "зан *zan* = [[زن|zan|woman]]"
+     ],
+     [
+      "И и",
+      "i",
+      "short e (ـِ) or ی",
+      "китоб *kitob* = [[کتاب|ketāb|book]]"
+     ],
+     [
+      "Ӣ ӣ",
+      "ī",
+      "a stressed final ی",
+      "тоҷикӣ *tojikī* = [[تاجیکی|tājiki|Tajik]]"
+     ],
+     [
+      "Й й",
+      "y",
+      "ی as a consonant",
+      "чой *choy* = [[چای|chāy|tea]]"
+     ],
+     [
+      "К к",
+      "k",
+      "ک",
+      "кор *kor* = [[کار|kār|work]]"
+     ],
+     [
+      "Қ қ",
+      "q",
+      "ق",
+      "қалам *qalam* = [[قلم|ghalam|pen]]"
+     ],
+     [
+      "Л л",
+      "l",
+      "ل",
+      "лаб *lab* = [[لب|lab|lip]]"
+     ],
+     [
+      "М м",
+      "m",
+      "م",
+      "модар *modar* = [[مادر|mādar|mother]]"
+     ],
+     [
+      "Н н",
+      "n",
+      "ن",
+      "нон *non* = [[نان|nān|bread]]"
+     ],
+     [
+      "О о",
+      "o",
+      "ا آ (Persian ā)",
+      "об *ob* = [[آب|āb|water]]"
+     ],
+     [
+      "П п",
+      "p",
+      "پ",
+      "падар *padar* = [[پدر|pedar|father]]"
+     ],
+     [
+      "Р р",
+      "r",
+      "ر",
+      "рӯз *rūz* = [[روز|ruz|day]]"
+     ],
+     [
+      "С с",
+      "s",
+      "س ص ث",
+      "сол *sol* = [[سال|sāl|year]]"
+     ],
+     [
+      "Т т",
+      "t",
+      "ت ط",
+      "тоҷик *tojik* = [[تاجیک|tājik|a Tajik]]"
+     ],
+     [
+      "У у",
+      "u",
+      "short o (ـُ) or و",
+      "гул *gul* = [[گل|gol|flower]]"
+     ],
+     [
+      "Ӯ ӯ",
+      "ū",
+      "و for the old ō",
+      "дӯст *dūst* = [[دوست|dust|friend]]"
+     ],
+     [
+      "Ф ф",
+      "f",
+      "ف",
+      "фарзанд *farzand* = [[فرزند|farzand|child]]"
+     ],
+     [
+      "Х х",
+      "kh",
+      "خ",
+      "хона *khona* = [[خانه|khāne|house]]"
+     ],
+     [
+      "Ҳ ҳ",
+      "h",
+      "ه ح",
+      "ҳафт *haft* = [[هفت|haft|seven]]"
+     ],
+     [
+      "Ч ч",
+      "ch",
+      "چ",
+      "чашм *chashm* = [[چشم|cheshm|eye]]"
+     ],
+     [
+      "Ҷ ҷ",
+      "j",
+      "ج",
+      "ҷаҳон *jahon* = [[جهان|jahān|world]]"
+     ],
+     [
+      "Ш ш",
+      "sh",
+      "ش",
+      "шаҳр *shahr* = [[شهر|shahr|city]]"
+     ],
+     [
+      "Ъ ъ",
+      "'",
+      "ع ء",
+      "шеър *she'r* = [[شعر|she'r|poem]]"
+     ],
+     [
+      "Э э",
+      "e (at the start of a word)",
+      "ا with e",
+      "Эрон *Eron* = [[ایران|Irān|Iran]]"
+     ],
+     [
+      "Ю ю",
+      "yu",
+      "یو",
+      "Юнон *Yunon* = [[یونان|Yunān|Greece]]"
+     ],
+     [
+      "Я я",
+      "ya",
+      "یَ",
+      "як *yak* = [[یک|yek|one]]"
+     ]
     ]
    },
    "examples": [
@@ -557,13 +1089,19 @@
      "en": "What is your name?",
      "col": "اسمتون چیه؟",
      "colR": "esm-etun chiye?",
-     "note": "Tajik: Номи шумо чист? (*nomi shumo chist?*) – Tajik prefers the older word نام."
+     "note": "Tajik: Номи шумо чист? (*nomi shumo chist?*) – Tajik prefers the older word نام.",
+     "faV": "اِسمِ شُما چیست؟",
+     "a": "06102665b698",
+     "colV": "اِسمِتون چیه؟",
+     "colA": "c34e76b17c74"
     },
     {
      "fa": "من دانشجو هستم.",
      "r": "man dāneshju hastam.",
      "en": "I am a university student.",
-     "note": "Tajik: Ман донишҷӯ ҳастам (*man donishjū hastam*). In Kabul: *man mohassel hastam* (محصل)."
+     "note": "Tajik: Ман донишҷӯ ҳастам (*man donishjū hastam*). In Kabul: *man mohassel hastam* (محصل).",
+     "faV": "مَن دانِشجو هَستَم.",
+     "a": "e60ce41594b2"
     },
     {
      "fa": "نمی‌دانم.",
@@ -571,7 +1109,11 @@
      "en": "I don't know.",
      "col": "نمی‌دونم.",
      "colR": "nemi-dunam.",
-     "note": "Tajik: Намедонам (*namedonam*). In Kabul you will often hear *namēfāmam* (نمی‌فامم), from فهمیدن 'to understand'."
+     "note": "Tajik: Намедонам (*namedonam*). In Kabul you will often hear *namēfāmam* (نمی‌فامم), from فهمیدن 'to understand'.",
+     "faV": "نِمی‌دانَم.",
+     "a": "e4f095b05924",
+     "colV": "نِمی‌دونَم.",
+     "colA": "6811ebd4738a"
     },
     {
      "fa": "کجا می‌روی؟",
@@ -579,7 +1121,11 @@
      "en": "Where are you going?",
      "col": "کجا می‌ری؟",
      "colR": "kojā mi-ri?",
-     "note": "Tajik: Куҷо меравӣ? (*kujo meravī?*) – the 'you' ending is -ӣ. Kabul: *kujā mērī?*"
+     "note": "Tajik: Куҷо меравӣ? (*kujo meravī?*) – the 'you' ending is -ӣ. Kabul: *kujā mērī?*",
+     "faV": "کُجا می‌رَوی؟",
+     "a": "40c80708dd70",
+     "colV": "کُجا می‌ری؟",
+     "colA": "509f43ba5457"
     },
     {
      "fa": "فردا به دوشنبه می‌رویم.",
@@ -587,19 +1133,27 @@
      "en": "Tomorrow we are going to Dushanbe.",
      "col": "فردا می‌ریم دوشنبه.",
      "colR": "fardā mi-rim Dushanbe.",
-     "note": "Tajik: Пагоҳ ба Душанбе меравем (*pagoh ba Dushanbe meravem*) – Tajik 'we' ends in -ем where Tehran has -im."
+     "note": "Tajik: Пагоҳ ба Душанбе меравем (*pagoh ba Dushanbe meravem*) – Tajik 'we' ends in -ем where Tehran has -im.",
+     "faV": "فَردا به دوشَنبه می‌رَویم.",
+     "a": "22c5bfd36825",
+     "colV": "فَردا می‌ریم دوشَنبه.",
+     "colA": "cd63a217d08d"
     },
     {
      "fa": "زبان مادری من فارسی است.",
      "r": "zabān-e mādari-ye man fārsi ast.",
      "en": "My mother tongue is Persian.",
-     "note": "Tajik: Забони модарии ман тоҷикӣ аст (*zaboni modarii man tojikī ast*) – the ezafe -и is written even after another и: модарии."
+     "note": "Tajik: Забони модарии ман тоҷикӣ аст (*zaboni modarii man tojikī ast*) – the ezafe -и is written even after another и: модарии.",
+     "faV": "زَبانِ مادَریِ مَن فارسی اَست.",
+     "a": "43b5a59c481f"
     },
     {
      "fa": "تاجیک‌ها دیوان حافظ را به خط سیریلیک می‌خوانند.",
      "r": "tājik-hā divān-e Hāfez rā be khatt-e sirilik mi-khānand.",
      "en": "Tajiks read Hafez's Divan in Cyrillic.",
-     "note": "Tajik: Тоҷикон девони Ҳофизро бо хати кириллӣ мехонанд. Look at девон (the old ē of دیوان), the ezafe -и, the plural -он (= -ān) and -ро for را."
+     "note": "Tajik: Тоҷикон девони Ҳофизро бо хати кириллӣ мехонанд. Look at девон (the old ē of دیوان), the ezafe -и, the plural -он (= -ān) and -ро for را.",
+     "faV": "تاجیک‌ها دیوانِ حافِظ را به خَطِّ سیریلیک می‌خوانَند.",
+     "a": "125431cb1a77"
     }
    ]
   },
@@ -614,14 +1168,20 @@
      "r": "salām Nilufar. in-jā jā-ye kas-i ast?",
      "en": "Hi Nilufar. Is this seat taken?",
      "col": "سلام نیلوفر. این‌جا جای کسیه؟",
-     "colR": "salām Nilufar. in-jā jā-ye kas-iye?"
+     "colR": "salām Nilufar. in-jā jā-ye kas-iye?",
+     "faV": "سَلام نیلوفَر. این‌جا جایِ کَسی اَست؟",
+     "a": "12f470fa3833",
+     "colV": "سَلام نیلوفَر. این‌جا جایِ کَسیه؟",
+     "colA": "89a3544603ae"
     },
     {
      "who": "Nilufar",
      "fa": "نه، بفرمایید. نان خوردید؟",
      "r": "na, befarmāyid. nān khordid?",
      "en": "No, please sit down. Have you eaten?",
-     "note": "In Afghanistan نان خوردن, literally 'to eat bread', means to have a meal."
+     "note": "In Afghanistan نان خوردن, literally 'to eat bread', means to have a meal.",
+     "faV": "نه، بِفَرمایید. نان خوردید؟",
+     "a": "7264e7f1d70b"
     },
     {
      "who": "Tom",
@@ -629,13 +1189,19 @@
      "r": "nān? na, man berenj o khoresh gereftam!",
      "en": "Bread? No, I got rice and stew!",
      "col": "نون؟ نه، من برنج و خورش گرفتم!",
-     "colR": "nun? na, man berenj o khoresh gereftam!"
+     "colR": "nun? na, man berenj o khoresh gereftam!",
+     "faV": "نان؟ نه، مَن بِرِنج و خورِش گِرِفتَم!",
+     "a": "960717d1de0b",
+     "colV": "نون؟ نه، مَن بِرِنج و خورِش گِرِفتَم!",
+     "colA": "090a506b6ff3"
     },
     {
      "who": "Nilufar",
      "fa": "ببخشید! در کابل «نان خوردن» یعنی غذا خوردن.",
      "r": "bebakhshid! dar Kābol «nān khordan» ya'ni ghazā khordan.",
-     "en": "Sorry! In Kabul 'eating bread' just means having a meal."
+     "en": "Sorry! In Kabul 'eating bread' just means having a meal.",
+     "faV": "بِبَخشید! دَر کابُل «نان خوردَن» یَعنی غَذا خوردَن.",
+     "a": "60046be6387f"
     },
     {
      "who": "Tom",
@@ -643,13 +1209,19 @@
      "r": "jāleb ast. hafte-ye pish ham goftid «motar» o man na-fahmidam.",
      "en": "Interesting. Last week you said 'motar' too, and I didn't understand.",
      "col": "جالبه. هفته‌ی پیش هم گفتین «موتر» و من نفهمیدم.",
-     "colR": "jālebe. hafte-ye pish ham goftin «motar» o man na-fahmidam."
+     "colR": "jālebe. hafte-ye pish ham goftin «motar» o man na-fahmidam.",
+     "faV": "جالِب اَست. هَفته‌یِ پیش هَم گُفتید «موتَر» و مَن نَفَهمیدَم.",
+     "a": "cf04c81ff146",
+     "colV": "جالِبه. هَفته‌یِ پیش هَم گُفتین «موتَر» و مَن نَفَهمیدَم.",
+     "colA": "927f47663edf"
     },
     {
      "who": "Nilufar",
      "fa": "موتر یعنی ماشین. به بیمارستان هم «شفاخانه» می‌گوییم.",
      "r": "motar ya'ni māshin. be bimārestān ham «shafākhāne» mi-guyim.",
-     "en": "Motar means car. And we call a hospital a shafākhāna."
+     "en": "Motar means car. And we call a hospital a shafākhāna.",
+     "faV": "موتَر یَعنی ماشین. به بیمارِستان هَم «شَفاخانه» می‌گوییم.",
+     "a": "99f17523e4d4"
     },
     {
      "who": "Tom",
@@ -657,13 +1229,19 @@
      "r": "irāni-hā harf-e shomā rā rāhat mi-fahmand?",
      "en": "Do Iranians understand you easily?",
      "col": "ایرانی‌ها حرفتون رو راحت می‌فهمن؟",
-     "colR": "irāni-hā harf-etun ro rāhat mi-fahman?"
+     "colR": "irāni-hā harf-etun ro rāhat mi-fahman?",
+     "faV": "ایرانی‌ها حَرفِ شُما را راحَت می‌فَهمَند؟",
+     "a": "bdab4fd87661",
+     "colV": "ایرانی‌ها حَرفِتون رو راحَت می‌فَهمَن؟",
+     "colA": "5b4ce84d6ced"
     },
     {
      "who": "Nilufar",
      "fa": "بیشترشان بله. ما هم با فیلم‌ها و آهنگ‌های ایرانی بزرگ شده‌ایم.",
      "r": "bishtar-eshān bale. mā ham bā film-hā o āhang-hā-ye irāni bozorg shode-im.",
-     "en": "Most of them, yes. And we grew up with Iranian films and songs."
+     "en": "Most of them, yes. And we grew up with Iranian films and songs.",
+     "faV": "بیشتَرِشان بَله. ما هَم با فیلم‌ها و آهَنگ‌هایِ ایرانی بُزُرگ شُده‌ایم.",
+     "a": "d6d4426aa7ec"
     },
     {
      "who": "Tom",
@@ -671,14 +1249,20 @@
      "r": "vali lahje-tān fargh dārad. masalan «shir» rā jur-e digar-i mi-guyid.",
      "en": "But your accent is different. For example, you say 'shir' another way.",
      "col": "ولی لهجه‌تون فرق داره. مثلاً «شیر» رو یه جور دیگه می‌گین.",
-     "colR": "vali lahje-tun fargh dāre. masalan «shir» ro ye jur-e dige mi-gin."
+     "colR": "vali lahje-tun fargh dāre. masalan «shir» ro ye jur-e dige mi-gin.",
+     "faV": "وَلی لَهجه‌تان فَرق دارَد. مَثَلاً «شیر» را جورِ دیگَری می‌گویید.",
+     "a": "0fc0a76edccd",
+     "colV": "وَلی لَهجه‌تون فَرق داره. مَثَلاً «شیر» رو یه جورِ دیگه می‌گین.",
+     "colA": "d079d2e6cc73"
     },
     {
      "who": "Nilufar",
      "fa": "بله. شیری که می‌نوشیم با شیر جنگل فرق دارد.",
      "r": "bale. shir-i ke mi-nushim bā shir-e jangal fargh dārad.",
      "en": "Yes. The milk we drink is different from the lion in the jungle.",
-     "note": "She says *shīr* for the milk and *shēr* for the lion – and *rōz* for 'day', not *ruz*."
+     "note": "She says *shīr* for the milk and *shēr* for the lion – and *rōz* for 'day', not *ruz*.",
+     "faV": "بَله. شیری که می‌نوشیم با شیرِ جَنگَل فَرق دارَد.",
+     "a": "d60b54fe6d0e"
     },
     {
      "who": "Tom",
@@ -687,7 +1271,11 @@
      "en": "Like my friend Sohrab in Dushanbe! In Tajik they write these two words with two different letters.",
      "col": "مثل دوستم سهراب تو دوشنبه! تو تاجیکی این دو تا کلمه رو با دو تا حرف مختلف می‌نویسن.",
      "colR": "mesl-e dust-am Sohrāb tu Dushanbe! tu tājiki in do tā kalame ro bā do tā harf-e mokhtalef mi-nevisan.",
-     "note": "Tajik шер 'lion', шир 'milk'."
+     "note": "Tajik шер 'lion', шир 'milk'.",
+     "faV": "مِثلِ دوستَم سُهراب دَر دوشَنبه! دَر تاجیکی این دو کَلَمه را با دو حَرفِ مُختَلِف می‌نِویسَند.",
+     "a": "ea8b0b583950",
+     "colV": "مِثلِ دوستَم سُهراب تو دوشَنبه! تو تاجیکی این دو تا کَلَمه رو با دو تا حَرفِ مُختَلِف می‌نِویسَن.",
+     "colA": "f1cc42ccae94"
     },
     {
      "who": "Tom",
@@ -695,19 +1283,27 @@
      "r": "pas man kodām fārsi rā yād begiram?",
      "en": "So which Persian should I learn?",
      "col": "پس من کدوم فارسی رو یاد بگیرم؟",
-     "colR": "pas man kodum fārsi ro yād begiram?"
+     "colR": "pas man kodum fārsi ro yād begiram?",
+     "faV": "پَس مَن کُدام فارسی را یاد بِگیرَم؟",
+     "a": "85f2f80d443e",
+     "colV": "پَس مَن کُدوم فارسی رو یاد بِگیرَم؟",
+     "colA": "684cc7077b67"
     },
     {
      "who": "Nilufar",
      "fa": "هر کدام را دوست دارید! حافظ را همه با همان کلمه‌ها می‌خوانیم.",
      "r": "har kodām rā dust dārid! Hāfez rā hame bā hamān kalame-hā mi-khānim.",
-     "en": "Whichever you like! We all read Hafez in the same words."
+     "en": "Whichever you like! We all read Hafez in the same words.",
+     "faV": "هَر کُدام را دوست دارید! حافِظ را هَمه با هَمان کَلَمه‌ها می‌خوانیم.",
+     "a": "e6d5ff0f198a"
     },
     {
      "who": "Tom",
      "fa": "پس به قول شما: تشکر!",
      "r": "pas be ghowl-e shomā: tashakkor!",
-     "en": "Then, as you would say: tashakkor!"
+     "en": "Then, as you would say: tashakkor!",
+     "faV": "پَس به قَولِ شُما: تَشَکُّر!",
+     "a": "18fd63dfbd6c"
     }
    ]
   },
@@ -853,32 +1449,44 @@
     {
      "en": "In Afghanistan Persian is called Dari.",
      "fa": "در افغانستان به فارسی «دری» می‌گویند.",
-     "r": "dar Afghānestān be fārsi «dari» mi-guyand."
+     "r": "dar Afghānestān be fārsi «dari» mi-guyand.",
+     "faV": "دَر اَفغانِستان به فارسی «دَری» می‌گویَند.",
+     "a": "a9351d46c59b"
     },
     {
      "en": "Tajik is written in Cyrillic.",
      "fa": "تاجیکی به خط سیریلیک نوشته می‌شود.",
-     "r": "tājiki be khatt-e sirilik neveshte mi-shavad."
+     "r": "tājiki be khatt-e sirilik neveshte mi-shavad.",
+     "faV": "تاجیکی به خَطِّ سیریلیک نِوِشته می‌شَوَد.",
+     "a": "1cc4d5100276"
     },
     {
      "en": "We understand each other.",
      "fa": "ما حرف همدیگر را می‌فهمیم.",
-     "r": "mā harf-e hamdigar rā mi-fahmim."
+     "r": "mā harf-e hamdigar rā mi-fahmim.",
+     "faV": "ما حَرفِ هَمدیگَر را می‌فَهمیم.",
+     "a": "d2bd6a81a2f4"
     },
     {
      "en": "She has a Kabul accent.",
      "fa": "لهجه‌ی او کابلی است.",
-     "r": "lahje-ye u kāboli ast."
+     "r": "lahje-ye u kāboli ast.",
+     "faV": "لَهجه‌یِ او کابُلی اَست.",
+     "a": "aca26553874f"
     },
     {
      "en": "Rudaki is the father of Persian poetry.",
      "fa": "رودکی پدر شعر فارسی است.",
-     "r": "Rudaki pedar-e she'r-e fārsi ast."
+     "r": "Rudaki pedar-e she'r-e fārsi ast.",
+     "faV": "رودَکی پِدَرِ شِعرِ فارسی اَست.",
+     "a": "0bef32f3ec50"
     },
     {
      "en": "The differences are mostly in pronunciation.",
      "fa": "تفاوت‌ها بیشتر در تلفظ است.",
-     "r": "tafāvot-hā bishtar dar talaffoz ast."
+     "r": "tafāvot-hā bishtar dar talaffoz ast.",
+     "faV": "تَفاوُت‌ها بیشتَر دَر تَلَفُّظ اَست.",
+     "a": "ec04843fea6a"
     }
    ]
   },
@@ -890,22 +1498,30 @@
     {
      "fa": "فارسی زبان رسمی سه کشور است.",
      "r": "fārsi zabān-e rasmi-ye se keshvar ast.",
-     "en": "Persian is an official language in three countries."
+     "en": "Persian is an official language in three countries.",
+     "faV": "فارسی زَبانِ رَسمیِ سه کِشوَر اَست.",
+     "a": "51ffa67eb45d"
     },
     {
      "fa": "تاجیک‌ها حافظ را به خط سیریلیک می‌خوانند.",
      "r": "tājik-hā Hāfez rā be khatt-e sirilik mi-khānand.",
-     "en": "Tajiks read Hafez in Cyrillic."
+     "en": "Tajiks read Hafez in Cyrillic.",
+     "faV": "تاجیک‌ها حافِظ را به خَطِّ سیریلیک می‌خوانَند.",
+     "a": "c219deda45d6"
     },
     {
      "fa": "در کابل به ماشین موتر می‌گویند.",
      "r": "dar Kābol be māshin motar mi-guyand.",
-     "en": "In Kabul a car is called a motar."
+     "en": "In Kabul a car is called a motar.",
+     "faV": "دَر کابُل به ماشین موتَر می‌گویَند.",
+     "a": "25502fffe659"
     },
     {
      "fa": "شعر حافظ میراث مشترک ماست.",
      "r": "she'r-e Hāfez mirās-e moshtarak-e māst.",
-     "en": "The poetry of Hafez is our shared heritage."
+     "en": "The poetry of Hafez is our shared heritage.",
+     "faV": "شِعرِ حافِظ میراثِ مُشتَرَکِ ماست.",
+     "a": "ec73ee69b7f5"
     }
    ]
   },
@@ -917,42 +1533,58 @@
     {
      "fa": "موتر",
      "r": "motar",
-     "en": "car"
+     "en": "car",
+     "faV": "موتَر",
+     "a": "1ecd26b67178"
     },
     {
      "fa": "شفاخانه",
      "r": "shafākhāne",
-     "en": "hospital"
+     "en": "hospital",
+     "faV": "شَفاخانه",
+     "a": "c461bff7b59d"
     },
     {
      "fa": "پوهنتون",
      "r": "pohantun",
-     "en": "university"
+     "en": "university",
+     "faV": "پوهَنتون",
+     "a": "34bf6e2b8fed"
     },
     {
      "fa": "مکتب",
      "r": "maktab",
-     "en": "school"
+     "en": "school",
+     "faV": "مَکتَب",
+     "a": "bc7df398dfdd"
     },
     {
      "fa": "کلکین",
      "r": "kelkin",
-     "en": "window"
+     "en": "window",
+     "faV": "کِلکین",
+     "a": "791b71bbf440"
     },
     {
      "fa": "چوکی",
      "r": "chowki",
-     "en": "chair"
+     "en": "chair",
+     "faV": "چَوکی",
+     "a": "e7f9a43135ed"
     },
     {
      "fa": "تشناب",
      "r": "tashnāb",
-     "en": "bathroom, toilet"
+     "en": "bathroom, toilet",
+     "faV": "تَشناب",
+     "a": "e55bd08b6fa5"
     },
     {
      "fa": "سرک",
      "r": "sarak",
-     "en": "road"
+     "en": "road",
+     "faV": "سَرَک",
+     "a": "1efee552ba6b"
     }
    ]
   },
@@ -970,7 +1602,9 @@
       "In Kabul a car is called a motar.",
       "In Kabul cars are expensive."
      ],
-     "answer": 1
+     "answer": 1,
+     "faV": "دَر کابُل به ماشین موتَر می‌گویَند.",
+     "a": "25502fffe659"
     },
     {
      "fa": "تاجیکی به خط سیریلیک نوشته می‌شود.",
@@ -981,7 +1615,9 @@
       "Tajik used to be written in Latin.",
       "Tajik has no written form."
      ],
-     "answer": 0
+     "answer": 0,
+     "faV": "تاجیکی به خَطِّ سیریلیک نِوِشته می‌شَوَد.",
+     "a": "1cc4d5100276"
     },
     {
      "fa": "ما حرف همدیگر را می‌فهمیم.",
@@ -992,9 +1628,13 @@
       "We don't understand each other.",
       "We understand each other."
      ],
-     "answer": 2
+     "answer": 2,
+     "faV": "ما حَرفِ هَمدیگَر را می‌فَهمیم.",
+     "a": "d2bd6a81a2f4"
     }
    ]
   }
- ]
+ ],
+ "titleV": "فارسی، دَری، تاجیکی",
+ "titleA": "81b1c21172d6"
 }

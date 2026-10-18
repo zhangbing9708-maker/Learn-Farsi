@@ -31,36 +31,204 @@
   }
  ],
  "sentences": [
-  {"fa": "خانواده‌ی مولانا اهل بلخ بود.", "r": "khānevāde-ye Mowlānā ahl-e Balkh bud.", "en": "Rumi's family came from Balkh."},
-  {"fa": "بلخ امروز در شمال افغانستان است.", "r": "Balkh emruz dar shomāl-e Afghānestān ast.", "en": "Balkh is in northern Afghanistan today."},
-  {"fa": "خانواده‌ی او پیش از حمله‌ی مغول از بلخ کوچ کردند.", "r": "khānevāde-ye u pish az hamle-ye Moghol az Balkh kuch kardand.", "en": "His family left Balkh before the Mongol invasion."},
-  {"fa": "آن‌ها سرانجام در قونیه ساکن شدند.", "r": "ān-hā saranjām dar Ghuniye sāken shodand.", "en": "In the end they settled in Konya."},
-  {"fa": "قونیه امروز شهری در ترکیه است.", "r": "Ghuniye emruz shahr-i dar Torkiye ast.", "en": "Konya is a city in Turkey today."},
-  {"fa": "مولانا در قونیه با شمس تبریزی آشنا شد.", "r": "Mowlānā dar Ghuniye bā Shams-e Tabrizi āshnā shod.", "en": "In Konya, Rumi met Shams of Tabriz."},
-  {"fa": "دوستی با شمس زندگی مولانا را تغییر داد.", "r": "dusti bā Shams zendegi-ye Mowlānā rā taghyir dād.", "en": "His friendship with Shams changed Rumi's life."},
-  {"fa": "مثنوی معنوی شش دفتر دارد.", "r": "Masnavi-ye ma'navi shesh daftar dārad.", "en": "The Masnavi has six books."},
-  {"fa": "مثنوی با داستان نی شروع می‌شود.", "r": "Masnavi bā dāstān-e ney shoru' mi-shavad.", "en": "The Masnavi begins with the story of the reed."},
-  {"fa": "مولانا بیشتر شعرهایش را به فارسی سرود.", "r": "Mowlānā bish-tar-e she'r-hā-yash rā be fārsi sorud.", "en": "Rumi composed most of his poems in Persian."},
-  {"fa": "پیروان او در مراسم سماع می‌چرخند.", "r": "peyrovān-e u dar marāsem-e samā' mi-charkhand.", "en": "His followers whirl in the sama ceremony."},
-  {"fa": "هر سال هزاران نفر به آرامگاه مولانا در قونیه می‌روند.", "r": "har sāl hezārān nafar be ārāmgāh-e Mowlānā dar Ghuniye mi-ravand.", "en": "Every year thousands of people visit Rumi's tomb in Konya."}
+  {
+   "fa": "خانواده‌ی مولانا اهل بلخ بود.",
+   "r": "khānevāde-ye Mowlānā ahl-e Balkh bud.",
+   "en": "Rumi's family came from Balkh.",
+   "faV": "خانِواده‌یِ مَولانا اَهلِ بَلخ بود.",
+   "a": "3660649ae4cb"
+  },
+  {
+   "fa": "بلخ امروز در شمال افغانستان است.",
+   "r": "Balkh emruz dar shomāl-e Afghānestān ast.",
+   "en": "Balkh is in northern Afghanistan today.",
+   "faV": "بَلخ اِمروز دَر شُمالِ اَفغانِستان اَست.",
+   "a": "54796bc58b4e"
+  },
+  {
+   "fa": "خانواده‌ی او پیش از حمله‌ی مغول از بلخ کوچ کردند.",
+   "r": "khānevāde-ye u pish az hamle-ye Moghol az Balkh kuch kardand.",
+   "en": "His family left Balkh before the Mongol invasion.",
+   "faV": "خانِواده‌یِ او پیش اَز حَمله‌یِ مُغول اَز بَلخ کوچ کَردَند.",
+   "a": "83a754e6a746"
+  },
+  {
+   "fa": "آن‌ها سرانجام در قونیه ساکن شدند.",
+   "r": "ān-hā saranjām dar Ghuniye sāken shodand.",
+   "en": "In the end they settled in Konya.",
+   "faV": "آن‌ها سَراَنجام دَر قونیه ساکِن شُدَند.",
+   "a": "d3e669a81a00"
+  },
+  {
+   "fa": "قونیه امروز شهری در ترکیه است.",
+   "r": "Ghuniye emruz shahr-i dar Torkiye ast.",
+   "en": "Konya is a city in Turkey today.",
+   "faV": "قونیه اِمروز شَهری دَر تُرکیه اَست.",
+   "a": "7d29e50926a9"
+  },
+  {
+   "fa": "مولانا در قونیه با شمس تبریزی آشنا شد.",
+   "r": "Mowlānā dar Ghuniye bā Shams-e Tabrizi āshnā shod.",
+   "en": "In Konya, Rumi met Shams of Tabriz.",
+   "faV": "مَولانا دَر قونیه با شَمسِ تَبریزی آشنا شُد.",
+   "a": "ad79ba6e26ac"
+  },
+  {
+   "fa": "دوستی با شمس زندگی مولانا را تغییر داد.",
+   "r": "dusti bā Shams zendegi-ye Mowlānā rā taghyir dād.",
+   "en": "His friendship with Shams changed Rumi's life.",
+   "faV": "دوستی با شَمس زِندِگیِ مَولانا را تَغییر داد.",
+   "a": "33928123cb60"
+  },
+  {
+   "fa": "مثنوی معنوی شش دفتر دارد.",
+   "r": "Masnavi-ye ma'navi shesh daftar dārad.",
+   "en": "The Masnavi has six books.",
+   "faV": "مَثنَویِ مَعنَوی شِش دَفتَر دارَد.",
+   "a": "1a8bb766e75f"
+  },
+  {
+   "fa": "مثنوی با داستان نی شروع می‌شود.",
+   "r": "Masnavi bā dāstān-e ney shoru' mi-shavad.",
+   "en": "The Masnavi begins with the story of the reed.",
+   "faV": "مَثنَوی با داستانِ نَی شُروع می‌شَوَد.",
+   "a": "f3b6af938a49"
+  },
+  {
+   "fa": "مولانا بیشتر شعرهایش را به فارسی سرود.",
+   "r": "Mowlānā bish-tar-e she'r-hā-yash rā be fārsi sorud.",
+   "en": "Rumi composed most of his poems in Persian.",
+   "faV": "مَولانا بیشتَرِ شِعرهایَش را به فارسی سُرود.",
+   "a": "c52ee00065df"
+  },
+  {
+   "fa": "پیروان او در مراسم سماع می‌چرخند.",
+   "r": "peyrovān-e u dar marāsem-e samā' mi-charkhand.",
+   "en": "His followers whirl in the sama ceremony.",
+   "faV": "پَیرُوانِ او دَر مَراسِمِ سَماع می‌چَرخَند.",
+   "a": "5d27e51031b2"
+  },
+  {
+   "fa": "هر سال هزاران نفر به آرامگاه مولانا در قونیه می‌روند.",
+   "r": "har sāl hezārān nafar be ārāmgāh-e Mowlānā dar Ghuniye mi-ravand.",
+   "en": "Every year thousands of people visit Rumi's tomb in Konya.",
+   "faV": "هَر سال هِزاران نَفَر به آرامگاهِ مَولانا دَر قونیه می‌رَوَند.",
+   "a": "f9ae56df2b48"
+  }
  ],
  "vocab": [
-  {"fa": "عارف", "r": "'āref", "en": "mystic"},
-  {"fa": "عرفان", "r": "'erfān", "en": "mysticism"},
-  {"fa": "صوفی", "r": "sufi", "en": "Sufi"},
-  {"fa": "درویش", "r": "darvish", "en": "dervish"},
-  {"fa": "مرید", "r": "morid", "en": "disciple, follower"},
-  {"fa": "عشق", "r": "'eshgh", "en": "love"},
-  {"fa": "دوستی", "r": "dusti", "en": "friendship"},
-  {"fa": "جدایی", "r": "jodāyi", "en": "separation"},
-  {"fa": "نی", "r": "ney", "en": "reed; reed flute"},
-  {"fa": "سماع", "r": "samā'", "en": "Sufi music and dance"},
-  {"fa": "چرخیدن", "r": "charkhidan", "en": "to turn, to whirl"},
-  {"fa": "مثنوی", "r": "masnavi", "en": "long poem in rhyming couplets"},
-  {"fa": "غزل", "r": "ghazal", "en": "ghazal, love lyric"},
-  {"fa": "دیوان", "r": "divān", "en": "collected poems of a poet"},
-  {"fa": "مهاجرت", "r": "mohājerat", "en": "migration, emigration"},
-  {"fa": "آشنا شدن", "r": "āshnā shodan", "en": "to meet, to get to know"}
+  {
+   "fa": "عارف",
+   "r": "'āref",
+   "en": "mystic",
+   "faV": "عارِف",
+   "a": "620717a9ea1f"
+  },
+  {
+   "fa": "عرفان",
+   "r": "'erfān",
+   "en": "mysticism",
+   "faV": "عِرفان",
+   "a": "c483f3e537c0"
+  },
+  {
+   "fa": "صوفی",
+   "r": "sufi",
+   "en": "Sufi",
+   "faV": "صوفی",
+   "a": "7b74e62bc5bd"
+  },
+  {
+   "fa": "درویش",
+   "r": "darvish",
+   "en": "dervish",
+   "faV": "دَرویش",
+   "a": "d396d2329dd1"
+  },
+  {
+   "fa": "مرید",
+   "r": "morid",
+   "en": "disciple, follower",
+   "faV": "مُرید",
+   "a": "03815a7c304c"
+  },
+  {
+   "fa": "عشق",
+   "r": "'eshgh",
+   "en": "love",
+   "faV": "عِشق",
+   "a": "171c0410fc27"
+  },
+  {
+   "fa": "دوستی",
+   "r": "dusti",
+   "en": "friendship",
+   "faV": "دوستی",
+   "a": "5df687a0479c"
+  },
+  {
+   "fa": "جدایی",
+   "r": "jodāyi",
+   "en": "separation",
+   "faV": "جُدایی",
+   "a": "a9e8c66bad1a"
+  },
+  {
+   "fa": "نی",
+   "r": "ney",
+   "en": "reed; reed flute",
+   "faV": "نَی",
+   "a": "c2eef05e87a9"
+  },
+  {
+   "fa": "سماع",
+   "r": "samā'",
+   "en": "Sufi music and dance",
+   "faV": "سَماع",
+   "a": "c7bf404a059a"
+  },
+  {
+   "fa": "چرخیدن",
+   "r": "charkhidan",
+   "en": "to turn, to whirl",
+   "faV": "چَرخیدَن",
+   "a": "99c9cbbc69a1"
+  },
+  {
+   "fa": "مثنوی",
+   "r": "masnavi",
+   "en": "long poem in rhyming couplets",
+   "faV": "مَثنَوی",
+   "a": "0013ee8f2dbc"
+  },
+  {
+   "fa": "غزل",
+   "r": "ghazal",
+   "en": "ghazal, love lyric",
+   "faV": "غَزَل",
+   "a": "684bd52a69c8"
+  },
+  {
+   "fa": "دیوان",
+   "r": "divān",
+   "en": "collected poems of a poet",
+   "faV": "دیوان",
+   "a": "990e80bfe2c0"
+  },
+  {
+   "fa": "مهاجرت",
+   "r": "mohājerat",
+   "en": "migration, emigration",
+   "faV": "مُهاجِرَت",
+   "a": "dd81e3eae1d5"
+  },
+  {
+   "fa": "آشنا شدن",
+   "r": "āshnā shodan",
+   "en": "to meet, to get to know",
+   "faV": "آشنا شُدَن",
+   "a": "1a4e20996239"
+  }
  ],
  "facts": [
   "Rumi was born in 1207 and died in Konya on 17 December 1273.",
@@ -70,5 +238,7 @@
   "UNESCO declared 2007, the 800th anniversary of his birth, the International Year of Rumi.",
   "The night of his death, the 'wedding night' (Şeb-i Arus in Turkish), is commemorated in Konya every December.",
   "His tomb under the Green Dome in Konya is now the Mevlana Museum."
- ]
+ ],
+ "titleV": "مَولانا",
+ "titleA": "7944444a88e5"
 }

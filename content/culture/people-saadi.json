@@ -32,36 +32,204 @@
   }
  ],
  "sentences": [
-  {"fa": "سعدی در شیراز به دنیا آمد.", "r": "Sa'di dar Shirāz be donyā āmad.", "en": "Saadi was born in Shiraz."},
-  {"fa": "او برای درس خواندن به بغداد رفت.", "r": "u barā-ye dars khāndan be Baghdād raft.", "en": "He went to Baghdad to study."},
-  {"fa": "سعدی سال‌ها در سرزمین‌های دیگر سفر کرد.", "r": "Sa'di sāl-hā dar sarzamin-hā-ye digar safar kard.", "en": "Saadi travelled in other lands for years."},
-  {"fa": "او پس از سفرهایش به شیراز برگشت.", "r": "u pas az safar-hā-yash be Shirāz bargasht.", "en": "After his travels he returned to Shiraz."},
-  {"fa": "بوستان به شعر است و گلستان به نثر و شعر.", "r": "Bustān be she'r ast va Golestān be nasr o she'r.", "en": "The Bustan is in verse, and the Golestan in prose and verse."},
-  {"fa": "گلستان هشت باب دارد.", "r": "Golestān hasht bāb dārad.", "en": "The Golestan has eight chapters."},
-  {"fa": "سعدی گلستان را در سال ۱۲۵۸ نوشت.", "r": "Sa'di Golestān rā dar sāl-e hezār-o-devist-o-panjāh-o-hasht nevesht.", "en": "Saadi wrote the Golestan in 1258."},
-  {"fa": "نثر سعدی ساده و زیباست.", "r": "nasr-e Sa'di sāde va zibā-st.", "en": "Saadi's prose is simple and beautiful."},
-  {"fa": "بسیاری از ضرب‌المثل‌های فارسی از سعدی است.", "r": "besyāri az zarb-ol-masal-hā-ye fārsi az Sa'di ast.", "en": "Many Persian proverbs come from Saadi."},
-  {"fa": "شعر «بنی‌آدم» از گلستان سعدی است.", "r": "she'r-e «Bani-ādam» az Golestān-e Sa'di ast.", "en": "The poem 'Children of Adam' is from Saadi's Golestan."},
-  {"fa": "دانش‌آموزان ایرانی گلستان را در مدرسه می‌خوانند.", "r": "dānesh-āmuzān-e irāni Golestān rā dar madrese mi-khānand.", "en": "Iranian schoolchildren read the Golestan at school."},
-  {"fa": "آرامگاه سعدی را «سعدیه» می‌گویند.", "r": "ārāmgāh-e Sa'di rā «Sa'diyye» mi-guyand.", "en": "Saadi's tomb is called the Sa'diyeh."}
+  {
+   "fa": "سعدی در شیراز به دنیا آمد.",
+   "r": "Sa'di dar Shirāz be donyā āmad.",
+   "en": "Saadi was born in Shiraz.",
+   "faV": "سَعدی دَر شیراز به دُنیا آمَد.",
+   "a": "f354bec60b06"
+  },
+  {
+   "fa": "او برای درس خواندن به بغداد رفت.",
+   "r": "u barā-ye dars khāndan be Baghdād raft.",
+   "en": "He went to Baghdad to study.",
+   "faV": "او بَرایِ دَرس خواندَن به بَغداد رَفت.",
+   "a": "7a6a6181a514"
+  },
+  {
+   "fa": "سعدی سال‌ها در سرزمین‌های دیگر سفر کرد.",
+   "r": "Sa'di sāl-hā dar sarzamin-hā-ye digar safar kard.",
+   "en": "Saadi travelled in other lands for years.",
+   "faV": "سَعدی سال‌ها دَر سَرزَمین‌هایِ دیگَر سَفَر کَرد.",
+   "a": "13032b8e7c49"
+  },
+  {
+   "fa": "او پس از سفرهایش به شیراز برگشت.",
+   "r": "u pas az safar-hā-yash be Shirāz bargasht.",
+   "en": "After his travels he returned to Shiraz.",
+   "faV": "او پَس اَز سَفَرهایَش به شیراز بَرگَشت.",
+   "a": "6fc6f6a56ec2"
+  },
+  {
+   "fa": "بوستان به شعر است و گلستان به نثر و شعر.",
+   "r": "Bustān be she'r ast va Golestān be nasr o she'r.",
+   "en": "The Bustan is in verse, and the Golestan in prose and verse.",
+   "faV": "بوستان به شِعر اَست و گُلِستان به نَثر و شِعر.",
+   "a": "aa2cfa5aef9a"
+  },
+  {
+   "fa": "گلستان هشت باب دارد.",
+   "r": "Golestān hasht bāb dārad.",
+   "en": "The Golestan has eight chapters.",
+   "faV": "گُلِستان هَشت باب دارَد.",
+   "a": "bc1582019e39"
+  },
+  {
+   "fa": "سعدی گلستان را در سال ۱۲۵۸ نوشت.",
+   "r": "Sa'di Golestān rā dar sāl-e hezār-o-devist-o-panjāh-o-hasht nevesht.",
+   "en": "Saadi wrote the Golestan in 1258.",
+   "faV": "سَعدی گُلِستان را دَر سالِ ۱۲۵۸ نِوِشت.",
+   "a": "df0705b39fa8"
+  },
+  {
+   "fa": "نثر سعدی ساده و زیباست.",
+   "r": "nasr-e Sa'di sāde va zibā-st.",
+   "en": "Saadi's prose is simple and beautiful.",
+   "faV": "نَثرِ سَعدی ساده و زیباست.",
+   "a": "cb47f94b57ba"
+  },
+  {
+   "fa": "بسیاری از ضرب‌المثل‌های فارسی از سعدی است.",
+   "r": "besyāri az zarb-ol-masal-hā-ye fārsi az Sa'di ast.",
+   "en": "Many Persian proverbs come from Saadi.",
+   "faV": "بِسیاری اَز ضَرب‌اُلمَثَل‌هایِ فارسی اَز سَعدی اَست.",
+   "a": "bbc214d5ed8b"
+  },
+  {
+   "fa": "شعر «بنی‌آدم» از گلستان سعدی است.",
+   "r": "she'r-e «Bani-ādam» az Golestān-e Sa'di ast.",
+   "en": "The poem 'Children of Adam' is from Saadi's Golestan.",
+   "faV": "شِعرِ «بَنی‌آدَم» اَز گُلِستانِ سَعدی اَست.",
+   "a": "5f3078a30bd2"
+  },
+  {
+   "fa": "دانش‌آموزان ایرانی گلستان را در مدرسه می‌خوانند.",
+   "r": "dānesh-āmuzān-e irāni Golestān rā dar madrese mi-khānand.",
+   "en": "Iranian schoolchildren read the Golestan at school.",
+   "faV": "دانِش‌آموزانِ ایرانی گُلِستان را دَر مَدرِسه می‌خوانَند.",
+   "a": "84c872b4c754"
+  },
+  {
+   "fa": "آرامگاه سعدی را «سعدیه» می‌گویند.",
+   "r": "ārāmgāh-e Sa'di rā «Sa'diyye» mi-guyand.",
+   "en": "Saadi's tomb is called the Sa'diyeh.",
+   "faV": "آرامگاهِ سَعدی را «سَعدیّه» می‌گویَند.",
+   "a": "fd9a5bfac699"
+  }
  ],
  "vocab": [
-  {"fa": "سفر", "r": "safar", "en": "journey, travel"},
-  {"fa": "مسافر", "r": "mosāfer", "en": "traveller, passenger"},
-  {"fa": "نثر", "r": "nasr", "en": "prose"},
-  {"fa": "نظم", "r": "nazm", "en": "verse; order"},
-  {"fa": "باب", "r": "bāb", "en": "chapter (of a classical book); door"},
-  {"fa": "حکایت", "r": "hekāyat", "en": "anecdote, short tale"},
-  {"fa": "پند", "r": "pand", "en": "advice, moral lesson"},
-  {"fa": "اخلاق", "r": "akhlāgh", "en": "ethics, morals; character"},
-  {"fa": "ضرب‌المثل", "r": "zarb-ol-masal", "en": "proverb"},
-  {"fa": "گلستان", "r": "golestān", "en": "rose garden"},
-  {"fa": "بوستان", "r": "bustān", "en": "orchard, garden"},
-  {"fa": "انسان", "r": "ensān", "en": "human being"},
-  {"fa": "عضو", "r": "'ozv", "en": "limb; member"},
-  {"fa": "اسیر", "r": "asir", "en": "prisoner, captive"},
-  {"fa": "دروغ", "r": "dorugh", "en": "lie"},
-  {"fa": "راست", "r": "rāst", "en": "true; right (direction)"}
+  {
+   "fa": "سفر",
+   "r": "safar",
+   "en": "journey, travel",
+   "faV": "سَفَر",
+   "a": "30c5fae3f3fc"
+  },
+  {
+   "fa": "مسافر",
+   "r": "mosāfer",
+   "en": "traveller, passenger",
+   "faV": "مُسافِر",
+   "a": "10db1dff73df"
+  },
+  {
+   "fa": "نثر",
+   "r": "nasr",
+   "en": "prose",
+   "faV": "نَثر",
+   "a": "6e7f254d311d"
+  },
+  {
+   "fa": "نظم",
+   "r": "nazm",
+   "en": "verse; order",
+   "faV": "نَظم",
+   "a": "402699f80e4c"
+  },
+  {
+   "fa": "باب",
+   "r": "bāb",
+   "en": "chapter (of a classical book); door",
+   "faV": "باب",
+   "a": "3b25b51a9c10"
+  },
+  {
+   "fa": "حکایت",
+   "r": "hekāyat",
+   "en": "anecdote, short tale",
+   "faV": "حِکایَت",
+   "a": "7f092806b16b"
+  },
+  {
+   "fa": "پند",
+   "r": "pand",
+   "en": "advice, moral lesson",
+   "faV": "پَند",
+   "a": "5cfa48dec6d5"
+  },
+  {
+   "fa": "اخلاق",
+   "r": "akhlāgh",
+   "en": "ethics, morals; character",
+   "faV": "اَخلاق",
+   "a": "00c866a6b65e"
+  },
+  {
+   "fa": "ضرب‌المثل",
+   "r": "zarb-ol-masal",
+   "en": "proverb",
+   "faV": "ضَرب‌اُلمَثَل",
+   "a": "4f94872dd9af"
+  },
+  {
+   "fa": "گلستان",
+   "r": "golestān",
+   "en": "rose garden",
+   "faV": "گُلِستان",
+   "a": "513e9efdaa64"
+  },
+  {
+   "fa": "بوستان",
+   "r": "bustān",
+   "en": "orchard, garden",
+   "faV": "بوستان",
+   "a": "9df9a6d96372"
+  },
+  {
+   "fa": "انسان",
+   "r": "ensān",
+   "en": "human being",
+   "faV": "اِنسان",
+   "a": "7b66ca2f814f"
+  },
+  {
+   "fa": "عضو",
+   "r": "'ozv",
+   "en": "limb; member",
+   "faV": "عُضو",
+   "a": "731bb4bbb692"
+  },
+  {
+   "fa": "اسیر",
+   "r": "asir",
+   "en": "prisoner, captive",
+   "faV": "اَسیر",
+   "a": "c619abb1f71d"
+  },
+  {
+   "fa": "دروغ",
+   "r": "dorugh",
+   "en": "lie",
+   "faV": "دُروغ",
+   "a": "712a0926cdb1"
+  },
+  {
+   "fa": "راست",
+   "r": "rāst",
+   "en": "true; right (direction)",
+   "faV": "راست",
+   "a": "36016c3544eb"
+  }
  ],
  "facts": [
   "Saadi was born in Shiraz around 1210 and died there around 1291.",
@@ -71,5 +239,7 @@
   "The 'children of Adam' lines come from the first chapter of the Golestan, on the conduct of kings.",
   "His present mausoleum in Shiraz was completed in 1952.",
   "1 Ordibehesht (21 April) is Saadi Day in Iran."
- ]
+ ],
+ "titleV": "سَعدی",
+ "titleA": "8c10e2b5cb2a"
 }

@@ -1,0 +1,291 @@
+{
+ "id": "language-dari-and-tajik",
+ "topic": "language",
+ "title": "Farsi, Dari and Tajik",
+ "titleFa": "فارسی، دری و تاجیکی",
+ "titleR": "fārsi, dari o tājiki",
+ "image": "dari",
+ "summary": "Persian is the language of three countries, with three names and three standards: Farsi in Iran, Dari in Afghanistan and Tajik in Tajikistan. Who speaks what, how well they understand each other, and why Tajik is written in Cyrillic.",
+ "body": [
+  {
+   "h": "One language, three names",
+   "md": "Persian is one language with three standards, rather like English in Britain, America and Australia. In Iran it is [[فارسی|fārsi]]. In Afghanistan, where it has officially been called [[دری|dari]] since 1964, it shares the stage with Pashto. In Tajikistan it is [[تاجیکی|tājiki|Tajik]]. Each country has its own schools, newspapers, television and dictionaries.\n\nAltogether Persian has more than 70 million native speakers, and many millions more use it as a second language. Most of them live in Iran, but Dari is the common language of most of Afghanistan, and Tajik is spoken by most of Tajikistan's roughly ten million people – and by many in Bukhara and Samarkand, across the border in Uzbekistan."
+  },
+  {
+   "h": "Who speaks what",
+   "md": "The names follow countries more than speech. In Afghanistan, Dari is the mother tongue of Tajiks, Hazaras and many others; many Pashtuns speak it as a second language, and in Kabul you hear both languages all day. Herat, near the Iranian border, sounds much like eastern Iran, while the Hazaras of central Afghanistan speak their own variety, [[هزارگی|hazāragi|Hazaragi]].\n\nIn Central Asia, [[تاجیک|tājik|Tajik]] was for centuries the name for the Persian-speaking townspeople, as opposed to the Turks. Under Soviet rule the language of the new Tajik republic was officially named Tajik, and the old name was set aside – but many Tajiks still call their language [[فارسی|fārsi]].",
+   "image": "kabul"
+  },
+  {
+   "h": "Understanding each other",
+   "md": "Can an Iranian and an Afghan talk to each other? Easily: the grammar is the same, most words are shared, and both grew up with the same classical poets. The differences are like those between British and American English – accent, some everyday words, a little grammar in casual speech. A university is [[دانشگاه|dāneshgāh]] in Tehran but [[پوهنتون|pohantun]], a word from Pashto, in Kabul; a car is [[ماشین|māshin]] in Iran and [[موتر|motar]] in Afghanistan. Dari also keeps sounds that Iranian Persian has lost: [[ق|ghāf]] and [[غ|gheyn]] are still two different sounds, and the old vowels *ē* and *ō* survive.\n\nTajik is harder for Iranians at first. Nearly seventy years of Soviet rule brought in Russian words, Uzbek has left its mark, and the accent is different: Persian *ā* sounds like *o*, so [[کتاب|ketāb|book]] is *kitob*. But written Tajik is close to Iranian Persian, and most Iranians tune in after a little listening."
+  },
+  {
+   "h": "Cyrillic in Tajikistan",
+   "md": "Tajik is the only standard form of Persian that is not written in the Perso-Arabic script. In 1928 the Soviet authorities replaced the Arabic letters with a Latin alphabet, and in 1940 with Cyrillic, which is still used today. Tajik Cyrillic adds six letters to the Russian ones for Persian sounds: ғ, қ, ҳ, ҷ, ӣ and ӯ. So the sentence [[من کتاب می‌خوانم|man ketāb mi-khānam|I am reading a book]] appears in Tajik as *Ман китоб мехонам* (man kitob mekhonam).\n\nAfter independence in 1991 there was talk of returning to the Perso-Arabic script, but Cyrillic has remained the everyday alphabet. One result: a Tajik and an Iranian can chat for hours, yet may not be able to read each other's newspapers.",
+   "image": "dushanbe"
+  },
+  {
+   "h": "A shared heritage",
+   "md": "The three countries share the same classics. [[رودکی|Rudaki]], born near Panjakent in today's Tajikistan, is Tajikistan's national poet, and the main avenue of Dushanbe is named after him. Rumi was born in 1207 in Balkh – or, some scholars think, in nearby Vakhsh, in today's Tajikistan – so Afghans call him [[مولانای بلخی|Mowlānā-ye Balkhi|the Mowlana of Balkh]], Iranians [[مولوی|Mowlavi]] and Turks *Mevlana*. Bukhara, the Samanid capital where New Persian literature began, is in Uzbekistan today.\n\nFor a learner of Iranian Persian this is good news: with a little practice, Kabul radio and Tajik pop songs will open up too.",
+   "image": "bukhara"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "فارسی در ایران، افغانستان و تاجیکستان زبان رسمی است.",
+   "r": "fārsi dar Irān, Afghānestān o Tājikestān zabān-e rasmi ast.",
+   "en": "Persian is an official language in Iran, Afghanistan and Tajikistan.",
+   "faV": "فارسی دَر ایران، اَفغانِستان و تاجیکِستان زَبانِ رَسمی اَست.",
+   "a": "fc4034e02bb6"
+  },
+  {
+   "fa": "افغان‌ها زبان خود را دری می‌نامند.",
+   "r": "afghān-hā zabān-e khod rā dari mi-nāmand.",
+   "en": "Afghans call their language Dari.",
+   "col": "افغان‌ها به زبونشون می‌گن دری.",
+   "colR": "afghān-hā be zabun-eshun mi-gan dari.",
+   "faV": "اَفغان‌ها زَبانِ خود را دَری می‌نامَند.",
+   "a": "7f3a79f227b6",
+   "colV": "اَفغان‌ها به زَبونِشون می‌گَن دَری.",
+   "colA": "6639f9dbe027"
+  },
+  {
+   "fa": "تاجیکی را با الفبای سیریلیک می‌نویسند.",
+   "r": "tājiki rā bā alefbā-ye sirilik mi-nevisand.",
+   "en": "Tajik is written in the Cyrillic alphabet.",
+   "col": "تاجیکی رو با الفبای سیریلیک می‌نویسن.",
+   "colR": "tājiki ro bā alefbā-ye sirilik mi-nevisan.",
+   "faV": "تاجیکی را با اَلِفبایِ سیریلیک می‌نِویسَند.",
+   "a": "6ef59d7610b3",
+   "colV": "تاجیکی رو با اَلِفبایِ سیریلیک می‌نِویسَن.",
+   "colA": "163631326da1"
+  },
+  {
+   "fa": "یک ایرانی و یک افغان حرف همدیگر را خوب می‌فهمند.",
+   "r": "yek irāni va yek afghān harf-e hamdigar rā khub mi-fahmand.",
+   "en": "An Iranian and an Afghan understand each other well.",
+   "col": "یه ایرانی و یه افغان حرف همدیگه رو خوب می‌فهمن.",
+   "colR": "ye irāni o ye afghān harf-e hamdige ro khub mi-fahman.",
+   "faV": "یِک ایرانی و یِک اَفغان حَرفِ هَمدیگَر را خوب می‌فَهمَند.",
+   "a": "5906fe0e7709",
+   "colV": "یه ایرانی و یه اَفغان حَرفِ هَمدیگه رو خوب می‌فَهمَن.",
+   "colA": "435b53056707"
+  },
+  {
+   "fa": "در کابل به دانشگاه «پوهنتون» می‌گویند.",
+   "r": "dar Kābol be dāneshgāh «pohantun» mi-guyand.",
+   "en": "In Kabul a university is called a pohantun.",
+   "col": "تو کابل به دانشگاه می‌گن «پوهنتون».",
+   "colR": "tu Kābol be dāneshgāh mi-gan «pohantun».",
+   "faV": "دَر کابُل به دانِشگاه «پوهَنتون» می‌گویَند.",
+   "a": "4206cdeea401",
+   "colV": "تو کابُل به دانِشگاه می‌گَن «پوهَنتون».",
+   "colA": "6aefc1602949"
+  },
+  {
+   "fa": "افغان‌ها به ماشین «موتر» می‌گویند.",
+   "r": "afghān-hā be māshin «motar» mi-guyand.",
+   "en": "Afghans call a car a motar.",
+   "col": "افغان‌ها به ماشین می‌گن «موتر».",
+   "colR": "afghān-hā be māshin mi-gan «motar».",
+   "faV": "اَفغان‌ها به ماشین «موتَر» می‌گویَند.",
+   "a": "3dfc38825cd4",
+   "colV": "اَفغان‌ها به ماشین می‌گَن «موتَر».",
+   "colA": "9ff8eb43901e"
+  },
+  {
+   "fa": "در فارسی تاجیکی واژه‌های روسی زیادی هست.",
+   "r": "dar fārsi-ye tājiki vāzhe-hā-ye rusi-ye ziyād-i hast.",
+   "en": "There are a lot of Russian words in Tajik Persian.",
+   "col": "تو تاجیکی کلی کلمه‌ی روسی هست.",
+   "colR": "tu tājiki kolli kalame-ye rusi hast.",
+   "faV": "دَر فارسیِ تاجیکی واژه‌هایِ روسیِ زیادی هَست.",
+   "a": "f3495d66fd91",
+   "colV": "تو تاجیکی کُلّی کَلَمه‌یِ روسی هَست.",
+   "colA": "a5b4ccfd10a9"
+  },
+  {
+   "fa": "رودکی شاعر ملی تاجیکستان است.",
+   "r": "Rudaki shā'er-e melli-ye Tājikestān ast.",
+   "en": "Rudaki is the national poet of Tajikistan.",
+   "faV": "رودَکی شاعِرِ مِلّیِ تاجیکِستان اَست.",
+   "a": "2afa1665d329"
+  },
+  {
+   "fa": "بخارا و سمرقند امروز در ازبکستان هستند.",
+   "r": "Bokhārā va Samarghand emruz dar Ozbakestān hastand.",
+   "en": "Bukhara and Samarkand are in Uzbekistan today.",
+   "faV": "بُخارا و سَمَرقَند اِمروز دَر اُزبَکِستان هَستَند.",
+   "a": "09de16677ba2"
+  },
+  {
+   "fa": "افغان‌ها مولانا را «مولانای بلخی» می‌نامند.",
+   "r": "afghān-hā Mowlānā rā «Mowlānā-ye Balkhi» mi-nāmand.",
+   "en": "Afghans call Rumi 'the Mowlana of Balkh'.",
+   "faV": "اَفغان‌ها مَولانا را «مَولانایِ بَلخی» می‌نامَند.",
+   "a": "6ae77ebcb9c9"
+  },
+  {
+   "fa": "شما فارسی افغانستان را می‌فهمید؟",
+   "r": "shomā fārsi-ye Afghānestān rā mi-fahmid?",
+   "en": "Do you understand the Persian of Afghanistan?",
+   "col": "شما فارسی افغانستان رو می‌فهمین؟",
+   "colR": "shomā fārsi-ye Afghānestān ro mi-fahmin?",
+   "faV": "شُما فارسیِ اَفغانِستان را می‌فَهمید؟",
+   "a": "c277729b3b6f",
+   "colV": "شُما فارسیِ اَفغانِستان رو می‌فَهمین؟",
+   "colA": "b85480f012cf"
+  },
+  {
+   "fa": "لهجه‌ی کابلی برای من کمی سخت است.",
+   "r": "lahje-ye kāboli barā-ye man kami sakht ast.",
+   "en": "The Kabul accent is a little hard for me.",
+   "col": "لهجه‌ی کابلی برام یه کم سخته.",
+   "colR": "lahje-ye kāboli barā-m ye kam sakht-e.",
+   "faV": "لَهجه‌یِ کابُلی بَرایِ مَن کَمی سَخت اَست.",
+   "a": "72513723a91d",
+   "colV": "لَهجه‌یِ کابُلی بَرام یه کَم سَخته.",
+   "colA": "7a7a1264a64a"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "دری",
+   "r": "dari",
+   "en": "Dari, the Persian of Afghanistan",
+   "faV": "دَری",
+   "a": "f9c0fef80771"
+  },
+  {
+   "fa": "تاجیکی",
+   "r": "tājiki",
+   "en": "Tajik (the language)",
+   "faV": "تاجیکی",
+   "a": "f5c2d27680e1"
+  },
+  {
+   "fa": "تاجیک",
+   "r": "tājik",
+   "en": "a Tajik (person)",
+   "faV": "تاجیک",
+   "a": "0b60c3a15b82"
+  },
+  {
+   "fa": "افغان",
+   "r": "afghān",
+   "en": "an Afghan (person)",
+   "faV": "اَفغان",
+   "a": "0b9ec98d5e4f"
+  },
+  {
+   "fa": "افغانستان",
+   "r": "Afghānestān",
+   "en": "Afghanistan",
+   "faV": "اَفغانِستان",
+   "a": "dafb3a203e1e"
+  },
+  {
+   "fa": "تاجیکستان",
+   "r": "Tājikestān",
+   "en": "Tajikistan",
+   "faV": "تاجیکِستان",
+   "a": "4a0090dbaf78"
+  },
+  {
+   "fa": "ازبکستان",
+   "r": "Ozbakestān",
+   "en": "Uzbekistan",
+   "faV": "اُزبَکِستان",
+   "a": "4c4bfabecdc8"
+  },
+  {
+   "fa": "زبان رسمی",
+   "r": "zabān-e rasmi",
+   "en": "official language",
+   "faV": "زَبانِ رَسمی",
+   "a": "32049e4f06e7"
+  },
+  {
+   "fa": "لهجه",
+   "r": "lahje",
+   "en": "accent",
+   "faV": "لَهجه",
+   "a": "59b0ecc5828f"
+  },
+  {
+   "fa": "الفبا",
+   "r": "alefbā",
+   "en": "alphabet",
+   "faV": "اَلِفبا",
+   "a": "560457d50714"
+  },
+  {
+   "fa": "سیریلیک",
+   "r": "sirilik",
+   "en": "Cyrillic",
+   "faV": "سیریلیک",
+   "a": "7c4aa72dce54"
+  },
+  {
+   "fa": "روسی",
+   "r": "rusi",
+   "en": "Russian",
+   "faV": "روسی",
+   "a": "0408425c57f0"
+  },
+  {
+   "fa": "همدیگر",
+   "r": "hamdigar",
+   "en": "each other",
+   "faV": "هَمدیگَر",
+   "a": "cb437e1dbd8d"
+  },
+  {
+   "fa": "فهمیدن",
+   "r": "fahmidan",
+   "en": "to understand",
+   "faV": "فَهمیدَن",
+   "a": "f8119c70160b"
+  },
+  {
+   "fa": "پوهنتون",
+   "r": "pohantun",
+   "en": "university (in Afghanistan)",
+   "faV": "پوهَنتون",
+   "a": "34bf6e2b8fed"
+  },
+  {
+   "fa": "موتر",
+   "r": "motar",
+   "en": "car (in Afghanistan)",
+   "faV": "موتَر",
+   "a": "1ecd26b67178"
+  },
+  {
+   "fa": "مرز",
+   "r": "marz",
+   "en": "border",
+   "faV": "مَرز",
+   "a": "090a3941de0d"
+  },
+  {
+   "fa": "همسایه",
+   "r": "hamsāye",
+   "en": "neighbour",
+   "faV": "هَمسایه",
+   "a": "1eebc0594655"
+  }
+ ],
+ "facts": [
+  "Persian is an official language in three countries: Iran (as Farsi), Afghanistan (as Dari) and Tajikistan (as Tajik).",
+  "Afghanistan's 1964 constitution made Dari the official name of Persian there.",
+  "Tajik has been written in Cyrillic since 1940; before that it used a Latin alphabet (from 1928) and, for a thousand years, the Perso-Arabic script.",
+  "Tajik Cyrillic adds six letters to the Russian alphabet for Persian sounds: ғ, қ, ҳ, ҷ, ӣ and ӯ.",
+  "Tajikistan's currency, the somoni, is named after Ismail Samani (died 907), the Samanid ruler of Bukhara.",
+  "Dari, like classical Persian, still distinguishes ق from غ, two letters that Iranian Persian pronounces alike.",
+  "Bukhara and Samarkand, great centres of Persian culture, are in Uzbekistan today, and many of their people speak Tajik at home."
+ ],
+ "titleV": "فارسی، دَری و تاجیکی",
+ "titleA": "d38cd4cb22fe"
+}

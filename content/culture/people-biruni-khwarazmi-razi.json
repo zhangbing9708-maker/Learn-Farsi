@@ -1,0 +1,258 @@
+{
+ "id": "people-biruni-khwarazmi-razi",
+ "topic": "people",
+ "title": "Khwarazmi, Razi and Biruni",
+ "titleFa": "خوارزمی، رازی و بیرونی",
+ "titleR": "Khārazmi, Rāzi va Biruni",
+ "image": "al-biruni",
+ "summary": "Three scientists of the Persian world who changed how we count, heal and measure: Khwarazmi, who gave us algebra and the algorithm; Razi, the doctor of Rey; and Biruni, who studied India and calculated the size of the earth.",
+ "body": [
+  {
+   "h": "One world of learning",
+   "md": "Between the 9th and 11th centuries, scholars from Iran and Central Asia stood at the heart of a golden age of science. They wrote mostly in Arabic – the shared language of learning, as Latin was in Europe – and worked in Baghdad, Rey, Bukhara or Ghazni, wherever a ruler would pay for books and instruments. Three of them are still household names in Iran: Khwarazmi, Razi and Biruni."
+  },
+  {
+   "h": "Khwarazmi: algebra and algorithm",
+   "md": "Mohammad ibn Musa [[خوارزمی|Khārazmi|Khwarazmi]] (about 780–850) came from Khwarazm, the land of the lower Amu Darya, whose people then spoke an Iranian language. He worked at the House of Wisdom, the library and translation centre of the caliph al-Ma'mun in Baghdad.\n\nAround 820 he wrote a short book on solving equations, *al-Jabr wa'l-Muqabala*. Its word *al-jabr*, 'restoring', gave us 'algebra' – in Persian [[جبر|jabr]]. Another of his books explained the Indian decimal numbers with zero; it survives only in a Latin version that opens *Dixit Algorizmi*, 'Algorizmi says'. From that Latin form of his name comes 'algorithm', [[الگوریتم|algoritm]] in Persian.",
+   "image": "al-khwarizmi"
+  },
+  {
+   "h": "Razi: the doctor of Rey",
+   "md": "Abu Bakr Mohammad Zakariya [[رازی|Rāzi|Razi]] (about 865–925), known in Europe as Rhazes, was born in [[ری|Rey]], the ancient city just south of today's Tehran. He directed hospitals in Rey and Baghdad; a well-known story says that to choose the site of a new hospital in Baghdad he hung pieces of meat around the city and picked the place where they rotted most slowly.\n\nRazi trusted observation more than authority. He kept careful notes on his patients, which his students gathered after his death into a vast medical encyclopedia, *al-Hawi* ('The Comprehensive Book'). His short treatise on [[آبله|ābele|smallpox]] and [[سرخک|sorkhak|measles]] is the earliest known work to describe the two diseases clearly and tell them apart.",
+   "image": "al-razi"
+  },
+  {
+   "h": "Razi and alcohol",
+   "md": "Razi was also a chemist. In his *Book of Secrets* he described laboratory equipment – flasks, furnaces and stills – and sorted substances into groups, treating chemistry as a craft rather than magic. Iranians often credit him with the discovery of [[الکل|alkol|alcohol]], distilled from wine for use in medicine. Historians are more careful: several writers of his age described distillation, and who first made pure alcohol is unclear. The English word itself comes from Arabic *al-kuhl*, the fine black powder used as eye make-up. In Iran, Razi's birthday, 5 Shahrivar (27 August), is Pharmacy Day."
+  },
+  {
+   "h": "Biruni: India and the size of the earth",
+   "md": "Abu Reyhan [[بیرونی|Biruni]] (973 – after 1048) was born near Kath, the capital of Khwarazm; his name, from [[بیرون|birun|outside]], probably means he came from the city's outskirts. As a young man he exchanged a famous series of letters with Avicenna, questioning Aristotle's physics.\n\nWhen Sultan Mahmud of Ghazni conquered Khwarazm in 1017, Biruni was taken to Ghazni, and he later travelled with the sultan's armies into India. While the armies raided, he learned Sanskrit. His book *India* (around 1030) describes Indian religion, philosophy, astronomy and customs with remarkable fairness. At a fort in the Punjab he climbed a mountain, measured how far the horizon dipped, and used geometry to work out the radius of the earth – a result remarkably close to the modern value. He also wrote a handbook of astronomy, the *Tafhim*, in both Arabic and Persian."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "خوارزمی در بغداد در «بیت‌الحکمه» کار می‌کرد.",
+   "r": "Khārazmi dar Baghdād dar «Beyt-ol-hekme» kār mi-kard.",
+   "en": "Khwarazmi worked at the House of Wisdom in Baghdad.",
+   "faV": "خوارَزمی دَر بَغداد دَر «بَیت‌اُلحِکمه» کار می‌کَرد.",
+   "a": "84138527267f"
+  },
+  {
+   "fa": "واژه‌ی «جبر» از کتاب خوارزمی آمده است.",
+   "r": "vāzhe-ye «jabr» az ketāb-e Khārazmi āmade ast.",
+   "en": "The word 'algebra' comes from Khwarazmi's book.",
+   "faV": "واژه‌یِ «جَبر» اَز کِتابِ خوارَزمی آمَده اَست.",
+   "a": "e71bcfda9791"
+  },
+  {
+   "fa": "«الگوریتم» از نام خوارزمی گرفته شده است.",
+   "r": "«algoritm» az nām-e Khārazmi gerefte shode ast.",
+   "en": "'Algorithm' is taken from Khwarazmi's name.",
+   "faV": "«اَلگوریتم» اَز نامِ خوارَزمی گِرِفته شُده اَست.",
+   "a": "eefd2ae968b2"
+  },
+  {
+   "fa": "رازی در شهر ری به دنیا آمد.",
+   "r": "Rāzi dar shahr-e Rey be donyā āmad.",
+   "en": "Razi was born in the city of Rey.",
+   "faV": "رازی دَر شَهرِ رَی به دُنیا آمَد.",
+   "a": "1faf01449c50"
+  },
+  {
+   "fa": "ری امروز بخشی از تهران است.",
+   "r": "Rey emruz bakhsh-i az Tehrān ast.",
+   "en": "Today Rey is part of Tehran.",
+   "faV": "رَی اِمروز بَخشی اَز تِهران اَست.",
+   "a": "fe1e97ef5c04"
+  },
+  {
+   "fa": "رازی پزشک بیمارستان بغداد بود.",
+   "r": "Rāzi pezeshk-e bimārestān-e Baghdād bud.",
+   "en": "Razi was a doctor at the hospital of Baghdad.",
+   "faV": "رازی پِزِشکِ بیمارِستانِ بَغداد بود.",
+   "a": "93c81ba45025"
+  },
+  {
+   "fa": "او فرق آبله و سرخک را توضیح داد.",
+   "r": "u fargh-e ābele va sorkhak rā towzih dād.",
+   "en": "He explained the difference between smallpox and measles.",
+   "faV": "او فَرقِ آبِله و سُرخَک را تَوضیح داد.",
+   "a": "a5e95e70b7f0"
+  },
+  {
+   "fa": "در ایران می‌گویند رازی الکل را کشف کرد.",
+   "r": "dar Irān mi-guyand Rāzi alkol rā kashf kard.",
+   "en": "In Iran people say that Razi discovered alcohol.",
+   "faV": "دَر ایران می‌گویَند رازی اَلکُل را کَشف کَرد.",
+   "a": "43a74c5c3c37"
+  },
+  {
+   "fa": "بیرونی با سلطان محمود به هند رفت.",
+   "r": "Biruni bā Soltān Mahmud be Hend raft.",
+   "en": "Biruni went to India with Sultan Mahmud.",
+   "faV": "بیرونی با سُلطان مَحمود به هِند رَفت.",
+   "a": "40d18420f1ab"
+  },
+  {
+   "fa": "او زبان سانسکریت را یاد گرفت.",
+   "r": "u zabān-e sānskrit rā yād gereft.",
+   "en": "He learned Sanskrit.",
+   "faV": "او زَبانِ سانسکریت را یاد گِرِفت.",
+   "a": "c60f2032a54d"
+  },
+  {
+   "fa": "بیرونی اندازه‌ی زمین را با دقت حساب کرد.",
+   "r": "Biruni andāze-ye zamin rā bā deghghat hesāb kard.",
+   "en": "Biruni calculated the size of the earth accurately.",
+   "faV": "بیرونی اَندازه‌یِ زَمین را با دِقَّت حِساب کَرد.",
+   "a": "b904110206f7"
+  },
+  {
+   "fa": "این دانشمندان بیشتر به عربی می‌نوشتند.",
+   "r": "in dāneshmandān bish-tar be 'arabi mi-neveshtand.",
+   "en": "These scientists wrote mostly in Arabic.",
+   "faV": "این دانِشمَندان بیشتَر به عَرَبی می‌نِوِشتَند.",
+   "a": "cb65c09dbd96"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "دانشمند",
+   "r": "dāneshmand",
+   "en": "scientist, scholar",
+   "faV": "دانِشمَند",
+   "a": "f46b05901811"
+  },
+  {
+   "fa": "علم",
+   "r": "'elm",
+   "en": "science, knowledge",
+   "faV": "عِلم",
+   "a": "f1195d339684"
+  },
+  {
+   "fa": "ریاضیات",
+   "r": "riyāziyyāt",
+   "en": "mathematics",
+   "faV": "ریاضیّات",
+   "a": "84041c1444dd"
+  },
+  {
+   "fa": "جبر",
+   "r": "jabr",
+   "en": "algebra",
+   "faV": "جَبر",
+   "a": "7ba54452a143"
+  },
+  {
+   "fa": "عدد",
+   "r": "'adad",
+   "en": "number",
+   "faV": "عَدَد",
+   "a": "732d3114088a"
+  },
+  {
+   "fa": "بیمارستان",
+   "r": "bimārestān",
+   "en": "hospital",
+   "faV": "بیمارِستان",
+   "a": "6386b5e043c7"
+  },
+  {
+   "fa": "آبله",
+   "r": "ābele",
+   "en": "smallpox",
+   "faV": "آبِله",
+   "a": "0347cc5c92f0"
+  },
+  {
+   "fa": "سرخک",
+   "r": "sorkhak",
+   "en": "measles",
+   "faV": "سُرخَک",
+   "a": "b0b9ac199c9c"
+  },
+  {
+   "fa": "الکل",
+   "r": "alkol",
+   "en": "alcohol",
+   "faV": "اَلکُل",
+   "a": "3e07ba1cc304"
+  },
+  {
+   "fa": "کشف کردن",
+   "r": "kashf kardan",
+   "en": "to discover",
+   "faV": "کَشف کَردَن",
+   "a": "c1840db28f91"
+  },
+  {
+   "fa": "آزمایش",
+   "r": "āzmāyesh",
+   "en": "experiment, test",
+   "faV": "آزمایِش",
+   "a": "eefdc4fcc1b1"
+  },
+  {
+   "fa": "شیمی",
+   "r": "shimi",
+   "en": "chemistry",
+   "faV": "شیمی",
+   "a": "e35ab14b6f42"
+  },
+  {
+   "fa": "اندازه",
+   "r": "andāze",
+   "en": "size, measurement",
+   "faV": "اَندازه",
+   "a": "5bd9cdacf4e3"
+  },
+  {
+   "fa": "زمین",
+   "r": "zamin",
+   "en": "earth; ground, land",
+   "faV": "زَمین",
+   "a": "3a58e9431026"
+  },
+  {
+   "fa": "کره‌ی زمین",
+   "r": "kore-ye zamin",
+   "en": "the globe, planet Earth",
+   "faV": "کُره‌یِ زَمین",
+   "a": "fed8f4e31939"
+  },
+  {
+   "fa": "هند",
+   "r": "Hend",
+   "en": "India",
+   "faV": "هِند",
+   "a": "d9f79f3e7483"
+  },
+  {
+   "fa": "ترجمه",
+   "r": "tarjome",
+   "en": "translation",
+   "faV": "تَرجُمه",
+   "a": "f3a80dd7f4b3"
+  },
+  {
+   "fa": "لاتین",
+   "r": "lātin",
+   "en": "Latin",
+   "faV": "لاتین",
+   "a": "ee15c14f4758"
+  }
+ ],
+ "facts": [
+  "Khwarazmi's book on equations (around 820) gave English the word 'algebra'; the Latin form of his name, Algorizmi, gave 'algorithm'.",
+  "Khwarazmi's book on Indian numerals helped bring the decimal system with zero to Europe.",
+  "Razi's treatise on smallpox and measles is the earliest known work to tell the two diseases apart.",
+  "The word 'alcohol' comes from Arabic al-kuhl, 'kohl', the fine powder used as eye make-up.",
+  "5 Shahrivar (27 August), Razi's birthday, is Pharmacy Day in Iran.",
+  "Biruni's India (around 1030) is one of the earliest scholarly descriptions of Indian religion and science by an outsider.",
+  "Craters on the far side of the Moon are named after both Biruni and Khwarazmi."
+ ],
+ "titleV": "خوارَزمی، رازی و بیرونی",
+ "titleA": "7804ae148230"
+}

@@ -350,10 +350,10 @@ The transliteration on this site is a stricter cousin of Finglish: it writes *ā
 
 **Put the words in order**
 
-1. یک / می‌فرستم. / برایتان / لینک — I'll send you a link.
-2. را / کارتم / شماره‌ی / می‌گذارم. / گروه / در — I'll put my card number in the group.
-3. بده. / رسیدی، / به / من / وقتی / خبر — Let me know when you get there.
-4. این / خوب / گوشی / سخت‌افزار / است. — This phone's hardware is good.
+1. لینک / برایتان / می‌فرستم. / یک — I'll send you a link.
+2. می‌گذارم. / را / شماره‌ی / کارتم / گروه / در — I'll put my card number in the group.
+3. خبر / بده. / به / من / وقتی / رسیدی، — Let me know when you get there.
+4. سخت‌افزار / این / گوشی / خوب / است. — This phone's hardware is good.
 
 <details><summary>Answers</summary>
 

@@ -33,36 +33,204 @@
   }
  ],
  "sentences": [
-  {"fa": "عطار در نیشابور داروخانه داشت.", "r": "'Attār dar Neyshābur dārukhāne dāsht.", "en": "Attar had a pharmacy in Nishapur."},
-  {"fa": "«عطار» یعنی کسی که عطر و دارو می‌فروشد.", "r": "«'Attār» ya'ni kas-i ke 'atr va dāru mi-forushad.", "en": "'Attar' means someone who sells perfume and medicines."},
-  {"fa": "در کتاب عطار، پرندگان به دنبال سیمرغ می‌روند.", "r": "dar ketāb-e 'Attār, parandegān be donbāl-e Simorgh mi-ravand.", "en": "In Attar's book, the birds go in search of the Simorgh."},
-  {"fa": "هدهد راهنمای پرندگان است.", "r": "hodhod rāhnamā-ye parandegān ast.", "en": "The hoopoe is the birds' guide."},
-  {"fa": "فقط سی پرنده به کوه قاف رسیدند.", "r": "faghat si parande be kuh-e Ghāf residand.", "en": "Only thirty birds reached Mount Qaf."},
-  {"fa": "«سیمرغ» و «سی مرغ» بازی با کلمات است.", "r": "«Simorgh» va «si morgh» bāzi bā kalamāt ast.", "en": "'Simorgh' and 'si morgh' (thirty birds) are a play on words."},
-  {"fa": "نظامی تقریباً تمام عمرش را در گنجه گذراند.", "r": "Nezāmi taghriban tamām-e 'omr-ash rā dar Ganje gozarānd.", "en": "Nezami spent almost his whole life in Ganja."},
-  {"fa": "گنجه امروز در جمهوری آذربایجان است.", "r": "Ganje emruz dar jomhuri-ye Āzarbāyjān ast.", "en": "Ganja is in the Republic of Azerbaijan today."},
-  {"fa": "نظامی شعرهایش را به فارسی سرود.", "r": "Nezāmi she'r-hā-yash rā be fārsi sorud.", "en": "Nezami composed his poems in Persian."},
-  {"fa": "خمسه‌ی نظامی پنج منظومه دارد.", "r": "Khamse-ye Nezāmi panj manzume dārad.", "en": "Nezami's Khamseh is made up of five long poems."},
-  {"fa": "لیلی و مجنون یک داستان عاشقانه‌ی غمگین است.", "r": "Leyli va Majnun yek dāstān-e 'āsheghāne-ye ghamgin ast.", "en": "Leyli and Majnun is a sad love story."},
-  {"fa": "فرهاد برای شیرین کوه بیستون را کند.", "r": "Farhād barā-ye Shirin kuh-e Bisotun rā kand.", "en": "Farhad dug through Mount Bisotun for Shirin."}
+  {
+   "fa": "عطار در نیشابور داروخانه داشت.",
+   "r": "'Attār dar Neyshābur dārukhāne dāsht.",
+   "en": "Attar had a pharmacy in Nishapur.",
+   "faV": "عَطّار دَر نَیشابور داروخانه داشت.",
+   "a": "97cf8b020345"
+  },
+  {
+   "fa": "«عطار» یعنی کسی که عطر و دارو می‌فروشد.",
+   "r": "«'Attār» ya'ni kas-i ke 'atr va dāru mi-forushad.",
+   "en": "'Attar' means someone who sells perfume and medicines.",
+   "faV": "«عَطّار» یَعنی کَسی که عَطر و دارو می‌فُروشَد.",
+   "a": "537f229e46d8"
+  },
+  {
+   "fa": "در کتاب عطار، پرندگان به دنبال سیمرغ می‌روند.",
+   "r": "dar ketāb-e 'Attār, parandegān be donbāl-e Simorgh mi-ravand.",
+   "en": "In Attar's book, the birds go in search of the Simorgh.",
+   "faV": "دَر کِتابِ عَطّار، پَرَندِگان به دُنبالِ سیمُرغ می‌رَوَند.",
+   "a": "c4ca34710a93"
+  },
+  {
+   "fa": "هدهد راهنمای پرندگان است.",
+   "r": "hodhod rāhnamā-ye parandegān ast.",
+   "en": "The hoopoe is the birds' guide.",
+   "faV": "هُدهُد راهنَمایِ پَرَندِگان اَست.",
+   "a": "4c32d4a12559"
+  },
+  {
+   "fa": "فقط سی پرنده به کوه قاف رسیدند.",
+   "r": "faghat si parande be kuh-e Ghāf residand.",
+   "en": "Only thirty birds reached Mount Qaf.",
+   "faV": "فَقَط سی پَرَنده به کوهِ قاف رِسیدَند.",
+   "a": "81de529a73aa"
+  },
+  {
+   "fa": "«سیمرغ» و «سی مرغ» بازی با کلمات است.",
+   "r": "«Simorgh» va «si morgh» bāzi bā kalamāt ast.",
+   "en": "'Simorgh' and 'si morgh' (thirty birds) are a play on words.",
+   "faV": "«سیمُرغ» و «سی مُرغ» بازی با کَلَمات اَست.",
+   "a": "4e2de10ac927"
+  },
+  {
+   "fa": "نظامی تقریباً تمام عمرش را در گنجه گذراند.",
+   "r": "Nezāmi taghriban tamām-e 'omr-ash rā dar Ganje gozarānd.",
+   "en": "Nezami spent almost his whole life in Ganja.",
+   "faV": "نِظامی تَقریباً تَمامِ عُمرَش را دَر گَنجه گُذَراند.",
+   "a": "6a1d72f39fd4"
+  },
+  {
+   "fa": "گنجه امروز در جمهوری آذربایجان است.",
+   "r": "Ganje emruz dar jomhuri-ye Āzarbāyjān ast.",
+   "en": "Ganja is in the Republic of Azerbaijan today.",
+   "faV": "گَنجه اِمروز دَر جُمهوریِ آذَربایجان اَست.",
+   "a": "38dc6e0bf264"
+  },
+  {
+   "fa": "نظامی شعرهایش را به فارسی سرود.",
+   "r": "Nezāmi she'r-hā-yash rā be fārsi sorud.",
+   "en": "Nezami composed his poems in Persian.",
+   "faV": "نِظامی شِعرهایَش را به فارسی سُرود.",
+   "a": "efd29005247e"
+  },
+  {
+   "fa": "خمسه‌ی نظامی پنج منظومه دارد.",
+   "r": "Khamse-ye Nezāmi panj manzume dārad.",
+   "en": "Nezami's Khamseh is made up of five long poems.",
+   "faV": "خَمسه‌یِ نِظامی پَنج مَنظومه دارَد.",
+   "a": "5bf5ef273cf8"
+  },
+  {
+   "fa": "لیلی و مجنون یک داستان عاشقانه‌ی غمگین است.",
+   "r": "Leyli va Majnun yek dāstān-e 'āsheghāne-ye ghamgin ast.",
+   "en": "Leyli and Majnun is a sad love story.",
+   "faV": "لَیلی و مَجنون یِک داستانِ عاشِقانه‌یِ غَمگین اَست.",
+   "a": "4eab37925a63"
+  },
+  {
+   "fa": "فرهاد برای شیرین کوه بیستون را کند.",
+   "r": "Farhād barā-ye Shirin kuh-e Bisotun rā kand.",
+   "en": "Farhad dug through Mount Bisotun for Shirin.",
+   "faV": "فَرهاد بَرایِ شیرین کوهِ بیسُتون را کَند.",
+   "a": "71f5f1b12ede"
+  }
  ],
  "vocab": [
-  {"fa": "عطار", "r": "'attār", "en": "perfumer, druggist"},
-  {"fa": "عطر", "r": "'atr", "en": "perfume"},
-  {"fa": "داروخانه", "r": "dārukhāne", "en": "pharmacy"},
-  {"fa": "پرنده", "r": "parande", "en": "bird"},
-  {"fa": "هدهد", "r": "hodhod", "en": "hoopoe"},
-  {"fa": "سیمرغ", "r": "simorgh", "en": "the Simorgh, a mythical bird"},
-  {"fa": "وادی", "r": "vādi", "en": "valley; (in Sufi poetry) a stage of the journey"},
-  {"fa": "جست‌وجو", "r": "jost-o-ju", "en": "search, quest"},
-  {"fa": "راهنما", "r": "rāhnamā", "en": "guide"},
-  {"fa": "عاشقانه", "r": "'āsheghāne", "en": "romantic, about love"},
-  {"fa": "منظومه", "r": "manzume", "en": "long narrative poem"},
-  {"fa": "گنج", "r": "ganj", "en": "treasure"},
-  {"fa": "شاهزاده", "r": "shāhzāde", "en": "prince, princess"},
-  {"fa": "دیوانه", "r": "divāne", "en": "mad, crazy"},
-  {"fa": "کوه", "r": "kuh", "en": "mountain"},
-  {"fa": "نقاشی", "r": "naghghāshi", "en": "painting"}
+  {
+   "fa": "عطار",
+   "r": "'attār",
+   "en": "perfumer, druggist",
+   "faV": "عَطّار",
+   "a": "5c8c2b7b1e99"
+  },
+  {
+   "fa": "عطر",
+   "r": "'atr",
+   "en": "perfume",
+   "faV": "عَطر",
+   "a": "3641da740531"
+  },
+  {
+   "fa": "داروخانه",
+   "r": "dārukhāne",
+   "en": "pharmacy",
+   "faV": "داروخانه",
+   "a": "1398d4b0f1b6"
+  },
+  {
+   "fa": "پرنده",
+   "r": "parande",
+   "en": "bird",
+   "faV": "پَرَنده",
+   "a": "b6066c033778"
+  },
+  {
+   "fa": "هدهد",
+   "r": "hodhod",
+   "en": "hoopoe",
+   "faV": "هُدهُد",
+   "a": "483437e7c1d8"
+  },
+  {
+   "fa": "سیمرغ",
+   "r": "simorgh",
+   "en": "the Simorgh, a mythical bird",
+   "faV": "سیمُرغ",
+   "a": "4c87b3bc7d89"
+  },
+  {
+   "fa": "وادی",
+   "r": "vādi",
+   "en": "valley; (in Sufi poetry) a stage of the journey",
+   "faV": "وادی",
+   "a": "9b0bc50a975f"
+  },
+  {
+   "fa": "جست‌وجو",
+   "r": "jost-o-ju",
+   "en": "search, quest",
+   "faV": "جُست‌وجو",
+   "a": "1778a4f7aa99"
+  },
+  {
+   "fa": "راهنما",
+   "r": "rāhnamā",
+   "en": "guide",
+   "faV": "راهنَما",
+   "a": "91d096a563bb"
+  },
+  {
+   "fa": "عاشقانه",
+   "r": "'āsheghāne",
+   "en": "romantic, about love",
+   "faV": "عاشِقانه",
+   "a": "19f8aede6425"
+  },
+  {
+   "fa": "منظومه",
+   "r": "manzume",
+   "en": "long narrative poem",
+   "faV": "مَنظومه",
+   "a": "37c9d9bd6db7"
+  },
+  {
+   "fa": "گنج",
+   "r": "ganj",
+   "en": "treasure",
+   "faV": "گَنج",
+   "a": "ed83041ce403"
+  },
+  {
+   "fa": "شاهزاده",
+   "r": "shāhzāde",
+   "en": "prince, princess",
+   "faV": "شاهزاده",
+   "a": "0fa9a01a6254"
+  },
+  {
+   "fa": "دیوانه",
+   "r": "divāne",
+   "en": "mad, crazy",
+   "faV": "دیوانه",
+   "a": "d119f6061edc"
+  },
+  {
+   "fa": "کوه",
+   "r": "kuh",
+   "en": "mountain",
+   "faV": "کوه",
+   "a": "dce9030c3b67"
+  },
+  {
+   "fa": "نقاشی",
+   "r": "naghghāshi",
+   "en": "painting",
+   "faV": "نَقّاشی",
+   "a": "03d7dc14c76d"
+  }
  ],
  "facts": [
   "Attar was born near Nishapur around 1145 and died around 1221, perhaps when the Mongols took the city.",
@@ -72,5 +240,7 @@
   "Amir Khosrow of Delhi, Jami and Navai all wrote their own sets of five poems in imitation of Nezami.",
   "A celebrated illustrated Khamseh made for Shah Tahmasp in 1539–43 is now in the British Library.",
   "Majnun, the name of Leyli's lover, means 'possessed' or 'mad' in Arabic."
- ]
+ ],
+ "titleV": "عَطّار و نِظامی",
+ "titleA": "49e13364876c"
 }

@@ -1,0 +1,1357 @@
+{
+ "id": "c1-01-academic-persian",
+ "level": "C1",
+ "n": 1,
+ "title": "Academic Persian: how scholars write",
+ "titleFa": "فارسی دانشگاهی",
+ "titleR": "fārsi-ye dāneshgāhi",
+ "intro": "Persian scholarly prose has its own sound: long chains of nouns, verbs that hide the person doing the work, careful phrases that soften every claim, and a vocabulary in which Arabic loans and twentieth-century Persian coinages sit side by side. In this lesson you read about Persian as a language of science, learn the habits of the academic style – and when to resist them – and then read a model abstract sentence by sentence, the way a supervisor would read it with you.",
+ "goals": [
+  "turn verbs into nouns the way academic Persian does (بررسی، تحلیل، ارزیابی) and turn them back into clear English",
+  "recognise the passive and impersonal patterns of scholarly prose and choose an active alternative when it reads better",
+  "hedge a claim and cite a source with به نظر می‌رسد، چنان‌که … اشاره کرده است، بر اساس یافته‌ها، از این رو",
+  "tell Arabic loans from Persian coinages in academic vocabulary (تحقیق/پژوهش، دانشگاه، رایانه)",
+  "read and write the standard moves of a Persian research abstract"
+ ],
+ "image": "university-of-tehran",
+ "sections": [
+  {
+   "type": "reading",
+   "title": "Persian, a language of science",
+   "intro": "A short essay in the register of a university textbook. Read it once for the argument, then a second time for the style: count the nouns ending in ـی and ـش, notice how rarely a person is the subject of a verb, and watch the linking phrases (با این حال، از این رو، با این همه) that carry the reader from one claim to the next.",
+   "sentences": [
+    {
+     "fa": "زبان فارسی بیش از هزار سال است که زبان شعر و ادب بوده است، اما کمتر به این نکته توجه می‌شود که این زبان زبان علم نیز بوده است.",
+     "r": "zabān-e fārsi bish az hezār sāl ast ke zabān-e she'r o adab bude ast, ammā kam-tar be in nokte tavajjoh mi-shavad ke in zabān zabān-e elm niz bude ast.",
+     "en": "Persian has been a language of poetry and letters for more than a thousand years, but less attention is paid to the fact that it has also been a language of science.",
+     "faV": "زَبانِ فارسی بیش اَز هِزار سال اَست که زَبانِ شِعر و اَدَب بوده اَست، اَمّا کَمتَر به این نُکته تَوَجُّه می‌شَوَد که این زَبان زَبانِ عِلم نیز بوده اَست.",
+     "a": "41f54a859c37"
+    },
+    {
+     "fa": "در سده‌های چهارم و پنجم هجری، دانشمندانی چون ابن‌سینا و بیرونی بخشی از آثار خود را به فارسی نوشتند.",
+     "r": "dar sade-hā-ye chahārom o panjom-e hejri, dāneshmandān-i chon Ebn-e-Sinā o Biruni bakhsh-i az āsār-e khod rā be fārsi neveshtand.",
+     "en": "In the fourth and fifth centuries of the Hijra (the 10th and 11th centuries AD), scholars such as Avicenna and Biruni wrote some of their works in Persian.",
+     "faV": "دَر سَده‌هایِ چَهارُم و پَنجُمِ هِجری، دانِشمَندانی چون اِبنِ‌سینا و بیرونی بَخشی اَز آثارِ خود را به فارسی نِوِشتَند.",
+     "a": "72da1cba4ad3"
+    },
+    {
+     "fa": "دانشنامه‌ی علائی، اثر ابن‌سینا، از نخستین کتاب‌های فلسفی به زبان فارسی است.",
+     "r": "dāneshnāme-ye Alā'i, asar-e Ebn-e-Sinā, az nakhostin ketāb-hā-ye falsafi be zabān-e fārsi ast.",
+     "en": "The Dāneshnāme-ye Alā'i, a work by Avicenna, is one of the first books of philosophy in the Persian language.",
+     "faV": "دانِشنامه‌یِ عَلائی، اَثَرِ اِبنِ‌سینا، اَز نَخُستین کِتاب‌هایِ فَلسَفی به زَبانِ فارسی اَست.",
+     "a": "c67d789d5c2f"
+    },
+    {
+     "fa": "با این حال، در قرن‌های بعد زبان عربی همچنان زبان اصلی علم در جهان اسلام باقی ماند.",
+     "r": "bā in hāl, dar gharn-hā-ye ba'd zabān-e arabi hamchenān zabān-e asli-ye elm dar jahān-e eslām bāghi mānd.",
+     "en": "Even so, in the centuries that followed Arabic remained the main language of science in the Islamic world.",
+     "faV": "با این حال، دَر قَرن‌هایِ بَعد زَبانِ عَرَبی هَمچِنان زَبانِ اَصلیِ عِلم دَر جَهانِ اِسلام باقی ماند.",
+     "a": "44d831d18cce"
+    },
+    {
+     "fa": "از این رو، بخش بزرگی از واژگان علمی فارسی امروز ریشه‌ی عربی دارد.",
+     "r": "az in ru, bakhsh-e bozorg-i az vāzhegān-e elmi-ye fārsi-ye emruz rishe-ye arabi dārad.",
+     "en": "For this reason, a large part of the scientific vocabulary of today's Persian has Arabic roots.",
+     "faV": "اَز این رو، بَخشِ بُزُرگی اَز واژِگانِ عِلمیِ فارسیِ اِمروز ریشه‌یِ عَرَبی دارَد.",
+     "a": "dcaf2b63a7fd"
+    },
+    {
+     "fa": "در سده‌ی چهاردهم خورشیدی، با تأسیس دانشگاه تهران در سال ۱۳۱۳، نیاز به واژه‌های تازه بیش از پیش احساس شد.",
+     "r": "dar sade-ye chahārdahom-e khorshidi, bā ta'sis-e dāneshgāh-e Tehrān dar sāl-e hezār-o-sisad-o-sizdah, niyāz be vāzhe-hā-ye tāze bish az pish ehsās shod.",
+     "en": "In the fourteenth century of the solar calendar (the 20th century AD), with the founding of the University of Tehran in 1313 (1934), the need for new words was felt more than ever.",
+     "faV": "دَر سَده‌یِ چَهاردَهُمِ خورشیدی، با تَأسیسِ دانِشگاهِ تِهران دَر سالِ ۱۳۱۳، نیاز به واژه‌هایِ تازه بیش اَز پیش اِحساس شُد.",
+     "a": "f51767700f32"
+    },
+    {
+     "fa": "«فرهنگستان ایران» در سال ۱۳۱۴ تأسیس شد تا برای مفاهیم تازه معادل فارسی بیابد.",
+     "r": "«farhangestān-e Irān» dar sāl-e hezār-o-sisad-o-chahārdah ta'sis shod tā barā-ye mafāhim-e tāze mo'ādel-e fārsi biyābad.",
+     "en": "The Academy of Iran was founded in 1314 (1935) to find Persian equivalents for new concepts.",
+     "faV": "«فَرهَنگِستانِ ایران» دَر سالِ ۱۳۱۴ تَأسیس شُد تا بَرایِ مَفاهیمِ تازه مُعادِلِ فارسی بیابَد.",
+     "a": "b9a36bce9d49"
+    },
+    {
+     "fa": "واژه‌های «هواپیما»، «شهرداری» و «دادگستری» در همین دوره جای «طیاره»، «بلدیه» و «عدلیه» را گرفتند.",
+     "r": "vāzhe-hā-ye «havāpeymā», «shahrdāri» o «dādgostari» dar hamin dowre jā-ye «tayyāre», «baladiye» o «adliye» rā gereftand.",
+     "en": "In this same period the words havāpeymā (aeroplane), shahrdāri (municipality) and dādgostari (the justice system) took the place of the Arabic tayyāre, baladiye and adliye.",
+     "faV": "واژه‌هایِ «هَواپَیما»، «شَهرداری» و «دادگُستَری» دَر هَمین دَوره جایِ «طَیّاره»، «بَلَدیه» و «عَدلیه» را گِرِفتَند.",
+     "a": "2cd6d6dbbee0"
+    },
+    {
+     "fa": "با این همه، بسیاری از واژه‌های عربی‌تبار، مانند «تحقیق» و «علم»، همچنان در کنار معادل‌های فارسی به کار می‌روند.",
+     "r": "bā in hame, besyār-i az vāzhe-hā-ye arabi-tabār, mānand-e «tahghigh» o «elm», hamchenān dar kenār-e mo'ādel-hā-ye fārsi be kār mi-ravand.",
+     "en": "Even so, many words of Arabic origin, such as tahghigh (research) and elm (science), are still used alongside their Persian equivalents.",
+     "faV": "با این هَمه، بِسیاری اَز واژه‌هایِ عَرَبی‌تَبار، مانَندِ «تَحقیق» و «عِلم»، هَمچِنان دَر کِنارِ مُعادِل‌هایِ فارسی به کار می‌رَوَند.",
+     "a": "22a25af0f2db"
+    },
+    {
+     "fa": "امروزه پژوهشگر ایرانی می‌تواند میان «تحقیق» و «پژوهش» یکی را برگزیند، و این انتخاب خود نشانه‌ای از سبک نوشتار اوست.",
+     "r": "emruze pazhuheshgar-e Irāni mi-tavānad miyān-e «tahghigh» o «pazhuhesh» yek-i rā bargozinad, va in entekhāb khod neshāne-i az sabk-e neveshtār-e ust.",
+     "en": "Today an Iranian researcher can choose between tahghigh and pazhuhesh, and the choice is itself a sign of his or her style of writing.",
+     "faV": "اِمروزه پَژوهِشگَرِ ایرانی می‌تَوانَد میانِ «تَحقیق» و «پَژوهِش» یِکی را بَرگُزینَد، و این اِنتِخاب خود نِشانه‌ای اَز سَبکِ نِوِشتارِ اوست.",
+     "a": "8cf3748c1724"
+    },
+    {
+     "fa": "نثر دانشگاهی فارسی ویژگی‌های آشکاری دارد که خواننده آن‌ها را زود می‌شناسد.",
+     "r": "nasr-e dāneshgāhi-ye fārsi vizhegi-hā-ye āshkār-i dārad ke khānande ān-hā rā zud mi-shenāsad.",
+     "en": "Persian academic prose has clear features that a reader soon recognises.",
+     "faV": "نَثرِ دانِشگاهیِ فارسی ویژِگی‌هایِ آشکاری دارَد که خوانَنده آن‌ها را زود می‌شِناسَد.",
+     "a": "bc5235ecfcdf"
+    },
+    {
+     "fa": "نخست، نویسنده به جای فعل، از اسم استفاده می‌کند: به جای «داده‌ها را بررسی کردیم» می‌نویسد «بررسی داده‌ها انجام شد».",
+     "r": "nakhost, nevisande be jā-ye fe'l, az esm estefāde mi-konad: be jā-ye «dāde-hā rā barrasi kardim» mi-nevisad «barrasi-ye dāde-hā anjām shod».",
+     "en": "First, the writer uses nouns instead of verbs: instead of 'we examined the data' they write 'an examination of the data was carried out'.",
+     "faV": "نَخُست، نِویسَنده به جایِ فِعل، اَز اِسم اِستِفاده می‌کُنَد: به جایِ «داده‌ها را بَررَسی کَردیم» می‌نِویسَد «بَررَسیِ داده‌ها اَنجام شُد».",
+     "a": "80df29597010"
+    },
+    {
+     "fa": "دوم، فاعل اغلب پنهان می‌ماند و جمله‌ها با فعل‌های مجهول یا غیرشخصی ساخته می‌شوند.",
+     "r": "dovvom, fā'el aghlab penhān mi-mānad o jomle-hā bā fe'l-hā-ye majhul yā gheyr-e-shakhsi sākhte mi-shavand.",
+     "en": "Second, the doer often stays hidden, and sentences are built with passive or impersonal verbs.",
+     "faV": "دُوُّم، فاعِل اَغلَب پِنهان می‌مانَد و جُمله‌ها با فِعل‌هایِ مَجهول یا غَیرِشَخصی ساخته می‌شَوَند.",
+     "a": "8a64e8250386"
+    },
+    {
+     "fa": "سوم، نویسنده با احتیاط سخن می‌گوید و ادعاهای خود را با عبارت‌هایی چون «به نظر می‌رسد» نرم می‌کند.",
+     "r": "sevvom, nevisande bā ehtiyāt sokhan mi-guyad o edde'ā-hā-ye khod rā bā ebārat-hā-yi chon «be nazar mi-resad» narm mi-konad.",
+     "en": "Third, the writer speaks with caution and softens their claims with phrases such as 'it seems'.",
+     "faV": "سِوُّم، نِویسَنده با اِحتیاط سُخَن می‌گویَد و اِدِّعاهایِ خود را با عِبارَت‌هایی چون «به نَظَر می‌رِسَد» نَرم می‌کُنَد.",
+     "a": "53979d10fb2b"
+    },
+    {
+     "fa": "چهارم، هر سخنی که از دیگران گرفته شده باشد، با ذکر منبع همراه است.",
+     "r": "chahārom, har sokhan-i ke az digarān gerefte shode bāshad, bā zekr-e manba' hamrāh ast.",
+     "en": "Fourth, anything taken from others comes with a mention of its source.",
+     "faV": "چَهارُم، هَر سُخَنی که اَز دیگَران گِرِفته شُده باشَد، با ذِکرِ مَنبَع هَمراه اَست.",
+     "a": "7e03a18235eb"
+    },
+    {
+     "fa": "این ویژگی‌ها نثر علمی را دقیق می‌کنند، اما اگر بیش از اندازه به کار روند، متن را سنگین و دیریاب می‌سازند.",
+     "r": "in vizhegi-hā nasr-e elmi rā daghigh mi-konand, ammā agar bish az andāze be kār ravand, matn rā sangin o diryāb mi-sāzand.",
+     "en": "These features make scholarly prose precise, but used to excess they make a text heavy and hard to get into.",
+     "faV": "این ویژِگی‌ها نَثرِ عِلمی را دَقیق می‌کُنَند، اَمّا اَگَر بیش اَز اَندازه به کار رَوَند، مَتن را سَنگین و دیریاب می‌سازَند.",
+     "a": "a0e02b22dc3e"
+    },
+    {
+     "fa": "از همین رو، بسیاری از استادان به دانشجویان توصیه می‌کنند که تا جای ممکن جمله‌های کوتاه و فعل‌های معلوم به کار ببرند.",
+     "r": "az hamin ru, besyār-i az ostādān be dāneshjuyān towsiye mi-konand ke tā jā-ye momken jomle-hā-ye kutāh o fe'l-hā-ye ma'lum be kār bebarand.",
+     "en": "For this very reason many professors advise their students to use short sentences and active verbs wherever they can.",
+     "faV": "اَز هَمین رو، بِسیاری اَز اُستادان به دانِشجویان تَوصیه می‌کُنَند که تا جایِ مُمکِن جُمله‌هایِ کوتاه و فِعل‌هایِ مَعلوم به کار بِبَرَند.",
+     "a": "cefe178620c7"
+    },
+    {
+     "fa": "نوشتن به فارسی دانشگاهی، در واقع، هنر یافتن تعادل میان دقت و روشنی است.",
+     "r": "neveshtan be fārsi-ye dāneshgāhi, dar vāghe', honar-e yāftan-e ta'ādol miyān-e deghghat o roshani ast.",
+     "en": "Writing academic Persian is, in fact, the art of finding a balance between precision and clarity.",
+     "faV": "نِوِشتَن به فارسیِ دانِشگاهی، دَر واقِع، هُنَرِ یافتَنِ تَعادُل میانِ دِقَّت و روشَنی اَست.",
+     "a": "d5d08776a0c3"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why does so much of Persian scientific vocabulary have Arabic roots, according to the text?",
+     "options": [
+      "Because Avicenna wrote only in Arabic",
+      "Because Arabic remained the main language of science in the Islamic world for centuries",
+      "Because the Academy of Iran preferred Arabic words"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Which word did شهرداری replace?",
+     "options": [
+      "طیاره",
+      "عدلیه",
+      "بلدیه"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What does the writer say happens when the academic habits are overdone?",
+     "options": [
+      "The text becomes heavy and hard to understand",
+      "The text becomes informal",
+      "The text loses its sources"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "In sentence 12, «بررسی داده‌ها انجام شد» is given as an example of…",
+     "options": [
+      "citing a source",
+      "using a noun where a verb would do",
+      "hedging a claim"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Four habits of the Persian scholar",
+   "md": "The essay names the four habits you will meet in every Persian thesis, journal article and textbook – and this lesson takes them one at a time.\n\n1. **Nominalisation** ([[اسم‌سازی|esm-sāzi]]): the action becomes a noun, and a colourless verb such as [[انجام شدن|anjām shodan|to be carried out]] or [[صورت گرفتن|surat gereftan|to take place]] is added to carry the tense. *We examined the data* becomes [[بررسی داده‌ها انجام شد|barrasi-ye dāde-hā anjām shod|an examination of the data was carried out]].\n2. **The hidden doer**: passives with شدن, impersonal phrases ([[می‌توان گفت|mi-tavān goft|one can say]]) and the famous [[مورد بررسی قرار گرفتن|mowred-e barrasi gharār gereftan|to be made the object of study]].\n3. **Hedging**: claims arrive wrapped in caution – [[به نظر می‌رسد|be nazar mi-resad|it seems]], [[احتمالاً|ehtemālan|probably]], [[تا حدی|tā hadd-i|to some extent]].\n4. **Citing**: [[چنان‌که … اشاره کرده است|chenān-ke … eshāre karde ast|as … has pointed out]], [[به گفته‌ی|be gofte-ye|according to]], [[بر اساس|bar asās-e|on the basis of]].\n\nThe essay's last sentences carry the most useful advice. Persian editors and style manuals have argued for decades that academic prose overuses these habits, and many university style guides now ask for *active verbs, short sentences and a visible author*. So learn the habits in order to read – and then use them with a light hand when you write. When you translate academic Persian into English, the rule of thumb is simple: **turn the nouns back into verbs**."
+  },
+  {
+   "type": "vocab",
+   "title": "Words for research and writing",
+   "items": [
+    {
+     "fa": "پژوهش",
+     "r": "pazhuhesh",
+     "en": "research, a study",
+     "pos": "n",
+     "note": "Persian, from پژوهیدن 'to search'; the Arabic loan تحقیق means the same.",
+     "faV": "پَژوهِش",
+     "a": "ddf3921d9b6c"
+    },
+    {
+     "fa": "تحقیق",
+     "r": "tahghigh",
+     "en": "research, investigation",
+     "pos": "n",
+     "note": "Arabic (root ḥ-q-q, 'truth'); a little more everyday than پژوهش.",
+     "faV": "تَحقیق",
+     "a": "e66354512fdd"
+    },
+    {
+     "fa": "پژوهشگر",
+     "r": "pazhuheshgar",
+     "en": "researcher",
+     "pos": "n",
+     "ex": {
+      "fa": "پژوهشگران این دانشگاه در سه کشور کار کرده‌اند.",
+      "r": "pazhuheshgarān-e in dāneshgāh dar se keshvar kār karde-and.",
+      "en": "This university's researchers have worked in three countries.",
+      "faV": "پَژوهِشگَرانِ این دانِشگاه دَر سه کِشوَر کار کَرده‌اَند.",
+      "a": "0b8b45198f10"
+     },
+     "faV": "پَژوهِشگَر",
+     "a": "792918365a60"
+    },
+    {
+     "fa": "بررسی",
+     "r": "barrasi",
+     "en": "examination, review, study",
+     "pos": "n",
+     "note": "verb: بررسی کردن 'to examine'",
+     "faV": "بَررَسی",
+     "a": "de5841f2fb10"
+    },
+    {
+     "fa": "تحلیل",
+     "r": "tahlil",
+     "en": "analysis",
+     "pos": "n",
+     "ex": {
+      "fa": "تحلیل آماری",
+      "r": "tahlil-e āmāri",
+      "en": "statistical analysis",
+      "faV": "تَحلیلِ آماری",
+      "a": "b8f2584bf40b"
+     },
+     "faV": "تَحلیل",
+     "a": "05c9107ebbf4"
+    },
+    {
+     "fa": "ارزیابی",
+     "r": "arzyābi",
+     "en": "evaluation, assessment",
+     "pos": "n",
+     "note": "Persian: ارز 'value' + یاب 'find'",
+     "faV": "اَرزیابی",
+     "a": "527cb3a619af"
+    },
+    {
+     "fa": "فرضیه",
+     "r": "farziye",
+     "en": "hypothesis",
+     "pos": "n",
+     "faV": "فَرضیه",
+     "a": "4474609e1d3d"
+    },
+    {
+     "fa": "روش",
+     "r": "ravesh",
+     "en": "method",
+     "pos": "n",
+     "ex": {
+      "fa": "روش پژوهش",
+      "r": "ravesh-e pazhuhesh",
+      "en": "research method(ology)",
+      "faV": "رَوِشِ پَژوهِش",
+      "a": "4cc0be1f0f99"
+     },
+     "faV": "رَوِش",
+     "a": "1d43131fa3e9"
+    },
+    {
+     "fa": "داده",
+     "r": "dāde",
+     "en": "datum; (pl.) data",
+     "pos": "n",
+     "note": "literally 'given'; plural داده‌ها",
+     "faV": "داده",
+     "a": "61b765438dea"
+    },
+    {
+     "fa": "نمونه",
+     "r": "nemune",
+     "en": "sample; example",
+     "pos": "n",
+     "ex": {
+      "fa": "حجم نمونه",
+      "r": "hajm-e nemune",
+      "en": "sample size",
+      "faV": "حَجمِ نِمونه",
+      "a": "0f386529da42"
+     },
+     "faV": "نِمونه",
+     "a": "904ca2e25432"
+    },
+    {
+     "fa": "شرکت‌کننده",
+     "r": "sherkat-konande",
+     "en": "participant",
+     "pos": "n",
+     "note": "plural شرکت‌کنندگان",
+     "faV": "شِرکَت‌کُنَنده",
+     "a": "eb1a007058ac"
+    },
+    {
+     "fa": "یافته",
+     "r": "yāfte",
+     "en": "finding",
+     "pos": "n",
+     "note": "past participle of یافتن 'to find'; plural یافته‌ها",
+     "faV": "یافته",
+     "a": "88c3bf677654"
+    },
+    {
+     "fa": "نتایج",
+     "r": "natāyej",
+     "en": "results",
+     "pos": "n",
+     "note": "Arabic broken plural of نتیجه",
+     "faV": "نَتایِج",
+     "a": "56cfb4d62ef6"
+    },
+    {
+     "fa": "معنادار",
+     "r": "ma'nādār",
+     "en": "(statistically) significant; meaningful",
+     "pos": "adj",
+     "ex": {
+      "fa": "تفاوت معناداری دیده نشد.",
+      "r": "tafāvot-e ma'nādār-i dide na-shod.",
+      "en": "No significant difference was observed.",
+      "faV": "تَفاوُتِ مَعناداری دیده نَشُد.",
+      "a": "6be88d09374b"
+     },
+     "faV": "مَعنادار",
+     "a": "c864a360677e"
+    },
+    {
+     "fa": "چکیده",
+     "r": "chekide",
+     "en": "abstract (of a paper)",
+     "pos": "n",
+     "note": "literally 'what has dripped out', a distillation",
+     "faV": "چِکیده",
+     "a": "1e157de80d9f"
+    },
+    {
+     "fa": "مقاله",
+     "r": "maghāle",
+     "en": "article, paper",
+     "pos": "n",
+     "faV": "مَقاله",
+     "a": "cab37c39c75c"
+    },
+    {
+     "fa": "پیشینه",
+     "r": "pishine",
+     "en": "background; review of earlier research",
+     "pos": "n",
+     "ex": {
+      "fa": "پیشینه‌ی پژوهش",
+      "r": "pishine-ye pazhuhesh",
+      "en": "literature review",
+      "faV": "پیشینه‌یِ پَژوهِش",
+      "a": "e5431e29df78"
+     },
+     "faV": "پیشینه",
+     "a": "1663acf39a24"
+    },
+    {
+     "fa": "منبع",
+     "r": "manba'",
+     "en": "source; reference",
+     "pos": "n",
+     "note": "Arabic plural منابع (manābe')",
+     "faV": "مَنبَع",
+     "a": "01b8a5a34fd2"
+    },
+    {
+     "fa": "نتیجه‌گیری",
+     "r": "natije-giri",
+     "en": "conclusion",
+     "pos": "n",
+     "faV": "نَتیجه‌گیری",
+     "a": "57b1088ee51a"
+    },
+    {
+     "fa": "اشاره کردن",
+     "r": "eshāre kardan",
+     "en": "to point out, to refer (to: به)",
+     "pos": "v",
+     "faV": "اِشاره کَردَن",
+     "a": "ffb7e1f935d0"
+    },
+    {
+     "fa": "به نظر رسیدن",
+     "r": "be nazar residan",
+     "en": "to seem, to appear",
+     "pos": "v",
+     "ex": {
+      "fa": "به نظر می‌رسد که حق با اوست.",
+      "r": "be nazar mi-resad ke hagh bā ust.",
+      "en": "It seems that he is right.",
+      "faV": "به نَظَر می‌رِسَد که حَق با اوست.",
+      "a": "2ba9a6063ec6"
+     },
+     "faV": "به نَظَر رِسیدَن",
+     "a": "259ef4ef3ec6"
+    },
+    {
+     "fa": "بر اساس",
+     "r": "bar asās-e",
+     "en": "on the basis of, according to",
+     "pos": "prep",
+     "faV": "بَر اَساسِ",
+     "a": "b0187a7dd1dc"
+    },
+    {
+     "fa": "از این رو",
+     "r": "az in ru",
+     "en": "hence, for this reason",
+     "pos": "phrase",
+     "note": "literally 'from this face (side)'",
+     "faV": "اَز این رو",
+     "a": "eb0c5c3e15ff"
+    },
+    {
+     "fa": "چنان‌که",
+     "r": "chenān-ke",
+     "en": "as (in 'as X has shown')",
+     "pos": "conj",
+     "faV": "چِنان‌که",
+     "a": "d39bb474249b"
+    },
+    {
+     "fa": "گردآوری",
+     "r": "gerdāvari",
+     "en": "collection, gathering (of data)",
+     "pos": "n",
+     "faV": "گِردآوَری",
+     "a": "4261528df49c"
+    },
+    {
+     "fa": "تعمیم دادن",
+     "r": "ta'mim dādan",
+     "en": "to generalise",
+     "pos": "v",
+     "faV": "تَعمیم دادَن",
+     "a": "fb630a227964"
+    },
+    {
+     "fa": "فرهنگستان",
+     "r": "farhangestān",
+     "en": "academy (of language and letters)",
+     "pos": "n",
+     "faV": "فَرهَنگِستان",
+     "a": "c75c4232cd16"
+    },
+    {
+     "fa": "رایانه",
+     "r": "rāyāne",
+     "en": "computer (the Academy's word)",
+     "pos": "n",
+     "note": "In speech most people still say کامپیوتر.",
+     "faV": "رایانه",
+     "a": "1518a51beecd"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Nominalisation: saying it with nouns",
+   "md": "Academic Persian likes to turn an action into a noun and let a weak verb carry the tense. Most of the nouns are simply the first half of a compound verb – [[بررسی کردن|barrasi kardan]] gives [[بررسی|barrasi]] – or a noun in ـش or ـی made from a verb stem ([[افزایش|afzāyesh|increase]], [[یادگیری|yādgiri|learning]]).\n\nThe noun then joins its object with an ezafe, and long **ezafe chains** grow: [[ارزیابی تأثیر تکرار فاصله‌دار|arzyābi-ye ta'sir-e tekrār-e fāsele-dār|evaluation of the effect of spaced repetition]]. The verbs that carry these nouns are few and you should know them all: [[انجام شدن / دادن|anjām shodan / dādan|to be carried out / carry out]], [[صورت گرفتن|surat gereftan|to take place]], [[به عمل آمدن|be amal āmadan|to be done]], [[مورد بررسی قرار گرفتن|mowred-e barrasi gharār gereftan|to be examined]], [[انجامیدن (به)|anjāmidan (be)|to lead (to)]].\n\nWhen you translate into English, undo the process: *an evaluation of the effect … was carried out* is almost always better as *we evaluated the effect …* or *the effect … was evaluated*.",
+   "table": {
+    "head": [
+     "Verb",
+     "Noun",
+     "In an academic phrase",
+     "English"
+    ],
+    "rows": [
+     [
+      "[[بررسی کردن|barrasi kardan]]",
+      "[[بررسی|barrasi]]",
+      "[[بررسی داده‌ها|barrasi-ye dāde-hā]]",
+      "examining the data"
+     ],
+     [
+      "[[تحلیل کردن|tahlil kardan]]",
+      "[[تحلیل|tahlil]]",
+      "[[تحلیل نتایج|tahlil-e natāyej]]",
+      "analysing the results"
+     ],
+     [
+      "[[ارزیابی کردن|arzyābi kardan]]",
+      "[[ارزیابی|arzyābi]]",
+      "[[ارزیابی برنامه|arzyābi-ye barnāme]]",
+      "evaluating the programme"
+     ],
+     [
+      "[[مقایسه کردن|moghāyese kardan]]",
+      "[[مقایسه|moghāyese]]",
+      "[[مقایسه‌ی دو گروه|moghāyese-ye do goruh]]",
+      "comparing two groups"
+     ],
+     [
+      "[[اندازه گرفتن|andāze gereftan]]",
+      "[[اندازه‌گیری|andāze-giri]]",
+      "[[اندازه‌گیری پیشرفت|andāze-giri-ye pishraft]]",
+      "measuring progress"
+     ],
+     [
+      "[[یاد گرفتن|yād gereftan]]",
+      "[[یادگیری|yādgiri]]",
+      "[[یادگیری واژگان|yādgiri-ye vāzhegān]]",
+      "learning vocabulary"
+     ],
+     [
+      "[[افزایش یافتن|afzāyesh yāftan]]",
+      "[[افزایش|afzāyesh]]",
+      "[[افزایش انگیزه|afzāyesh-e angize]]",
+      "an increase in motivation"
+     ],
+     [
+      "[[کاهش یافتن|kāhesh yāftan]]",
+      "[[کاهش|kāhesh]]",
+      "[[کاهش اضطراب|kāhesh-e ezterāb]]",
+      "a reduction in anxiety"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "بررسی داده‌ها در سه مرحله انجام شد.",
+     "r": "barrasi-ye dāde-hā dar se marhale anjām shod.",
+     "en": "The data were examined in three stages.",
+     "lit": "the examination of the data was carried out in three stages",
+     "faV": "بَررَسیِ داده‌ها دَر سه مَرحَله اَنجام شُد.",
+     "a": "4ace1acbf776"
+    },
+    {
+     "fa": "ما داده‌ها را در سه مرحله بررسی کردیم.",
+     "r": "mā dāde-hā rā dar se marhale barrasi kardim.",
+     "en": "We examined the data in three stages.",
+     "note": "The same content with a visible author – increasingly what style guides recommend.",
+     "faV": "ما داده‌ها را دَر سه مَرحَله بَررَسی کَردیم.",
+     "a": "2e74fa50d3bb"
+    },
+    {
+     "fa": "تحلیل نتایج نشان می‌دهد که گروه دوم پیشرفت بیشتری داشته است.",
+     "r": "tahlil-e natāyej neshān mi-dahad ke goruh-e dovvom pishraft-e bish-tar-i dāshte ast.",
+     "en": "Analysis of the results shows that the second group made more progress.",
+     "faV": "تَحلیلِ نَتایِج نِشان می‌دَهَد که گُروهِ دُوُّم پیشرَفتِ بیشتَری داشته اَست.",
+     "a": "4773b43fe7b8"
+    },
+    {
+     "fa": "ارزیابی این برنامه هنوز صورت نگرفته است.",
+     "r": "arzyābi-ye in barnāme hanuz surat na-gerefte ast.",
+     "en": "This programme has not yet been evaluated.",
+     "faV": "اَرزیابیِ این بَرنامه هَنوز صورَت نَگِرِفته اَست.",
+     "a": "f8ad83c312e9"
+    },
+    {
+     "fa": "در این مقاله، رابطه‌ی انگیزه و یادگیری مورد بررسی قرار می‌گیرد.",
+     "r": "dar in maghāle, rābete-ye angize o yādgiri mowred-e barrasi gharār mi-girad.",
+     "en": "This article examines the relationship between motivation and learning.",
+     "lit": "in this article the relation of motivation and learning is placed as the object of examination",
+     "faV": "دَر این مَقاله، رابِطه‌یِ اَنگیزه و یادگیری مَورِدِ بَررَسی قَرار می‌گیرَد.",
+     "a": "46682b5690fb"
+    },
+    {
+     "fa": "افزایش ساعات مطالعه به کاهش اضطراب انجامید.",
+     "r": "afzāyesh-e sā'āt-e motāle'e be kāhesh-e ezterāb anjāmid.",
+     "en": "Studying for longer led to less anxiety.",
+     "lit": "the increase of the hours of study led to the reduction of anxiety",
+     "faV": "اَفزایِشِ ساعاتِ مُطالِعه به کاهِشِ اِضطِراب اَنجامید.",
+     "a": "5faef6d541b8"
+    },
+    {
+     "fa": "مقایسه‌ی دو گروه پس از شش هفته به عمل آمد.",
+     "r": "moghāyese-ye do goruh pas az shesh hafte be amal āmad.",
+     "en": "The two groups were compared after six weeks.",
+     "faV": "مُقایِسه‌یِ دو گُروه پَس اَز شِش هَفته به عَمَل آمَد.",
+     "a": "c13049931ccf"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Hiding the doer – and when not to",
+   "md": "Scholarly Persian keeps the researcher out of sight. You already know the شدن passive (B1); here are the other tools, from the most neutral to the most criticised.\n\n- **The passive** with شدن: [[داده‌ها گردآوری شدند|dāde-hā gerdāvari shodand|the data were collected]]. Natural and neutral in writing.\n- **The impersonal modal** with the short infinitive: [[می‌توان نتیجه گرفت|mi-tavān natije gereft|one can conclude]], [[باید توجه داشت|bāyad tavajjoh dāsht|it should be noted]]. No person, no ending: the past stem alone follows.\n- **The study as subject**: [[این پژوهش نشان می‌دهد|in pazhuhesh neshān mi-dahad|this study shows]] – active, yet impersonal. Often the best choice.\n- **The writer in the third person**: [[نگارنده|negārande|the present writer]] or [[نگارندگان|negārandegān|the authors]], the traditional modest 'I'.\n- **The plain 'we'**: [[ما|mā]] with an active verb – once frowned on, now common, especially in the sciences.\n\nTwo patterns are grammatical but widely criticised by Persian editors: [[توسط|tavassot-e|by]] + passive (a calque of English *by*: Persian prefers to make the agent the subject), and the heavy [[مورد … قرار گرفتن|mowred-e … gharār gereftan]] where a simple passive or active verb would do.",
+   "table": {
+    "head": [
+     "Pattern",
+     "Example",
+     "English",
+     "Register"
+    ],
+    "rows": [
+     [
+      "passive with شدن",
+      "[[داده‌ها گردآوری شدند|dāde-hā gerdāvari shodand]]",
+      "the data were collected",
+      "neutral, written"
+     ],
+     [
+      "می‌توان + short infinitive",
+      "[[می‌توان نتیجه گرفت|mi-tavān natije gereft]]",
+      "one can conclude",
+      "formal"
+     ],
+     [
+      "باید + short infinitive",
+      "[[باید توجه داشت|bāyad tavajjoh dāsht]]",
+      "it should be noted",
+      "formal"
+     ],
+     [
+      "پیشنهاد می‌شود",
+      "[[پیشنهاد می‌شود که …|pishnahād mi-shavad ke …]]",
+      "it is recommended that …",
+      "formal"
+     ],
+     [
+      "the study as subject",
+      "[[این پژوهش نشان می‌دهد|in pazhuhesh neshān mi-dahad]]",
+      "this study shows",
+      "recommended"
+     ],
+     [
+      "the author in the third person",
+      "[[نگارنده بر این باور است|negārande bar in bāvar ast]]",
+      "the present writer believes",
+      "traditional, modest"
+     ],
+     [
+      "active 'we'",
+      "[[ما نشان می‌دهیم|mā neshān mi-dahim]]",
+      "we show",
+      "modern, direct"
+     ],
+     [
+      "توسط + passive",
+      "[[توسط شرکت‌کنندگان تکمیل شد|tavassot-e sherkat-konandegān takmil shod]]",
+      "was completed by the participants",
+      "criticised – make the agent the subject"
+     ],
+     [
+      "مورد … قرار گرفتن",
+      "[[مورد بررسی قرار گرفت|mowred-e barrasi gharār gereft]]",
+      "was examined",
+      "heavy – use sparingly"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "داده‌ها از طریق پرسش‌نامه گردآوری شدند.",
+     "r": "dāde-hā az tarigh-e porsesh-nāme gerdāvari shodand.",
+     "en": "The data were collected by means of a questionnaire.",
+     "faV": "داده‌ها اَز طَریقِ پُرسِش‌نامه گِردآوَری شُدَند.",
+     "a": "0ac292b2487f"
+    },
+    {
+     "fa": "پرسش‌نامه توسط شرکت‌کنندگان تکمیل شد.",
+     "r": "porsesh-nāme tavassot-e sherkat-konandegān takmil shod.",
+     "en": "The questionnaire was completed by the participants.",
+     "note": "Grammatical, but an editor would probably change it to the next sentence.",
+     "faV": "پُرسِش‌نامه تَوَسُّطِ شِرکَت‌کُنَندِگان تَکمیل شُد.",
+     "a": "6d64e33e43f0"
+    },
+    {
+     "fa": "شرکت‌کنندگان پرسش‌نامه را تکمیل کردند.",
+     "r": "sherkat-konandegān porsesh-nāme rā takmil kardand.",
+     "en": "The participants completed the questionnaire.",
+     "faV": "شِرکَت‌کُنَندِگان پُرسِش‌نامه را تَکمیل کَردَند.",
+     "a": "dbfbc1409ae1"
+    },
+    {
+     "fa": "می‌توان نتیجه گرفت که انگیزه نقش مهمی دارد.",
+     "r": "mi-tavān natije gereft ke angize naghsh-e mohemm-i dārad.",
+     "en": "One can conclude that motivation plays an important role.",
+     "faV": "می‌تَوان نَتیجه گِرِفت که اَنگیزه نَقشِ مُهِمّی دارَد.",
+     "a": "14a80fd681f8"
+    },
+    {
+     "fa": "باید توجه داشت که حجم نمونه کوچک بود.",
+     "r": "bāyad tavajjoh dāsht ke hajm-e nemune kuchek bud.",
+     "en": "It should be noted that the sample was small.",
+     "faV": "بایَد تَوَجُّه داشت که حَجمِ نِمونه کوچِک بود.",
+     "a": "d8e5f5e54a58"
+    },
+    {
+     "fa": "نگارنده در این مقاله سه دلیل برای این پدیده پیشنهاد می‌کند.",
+     "r": "negārande dar in maghāle se dalil barā-ye in padide pishnahād mi-konad.",
+     "en": "In this article I propose three reasons for this phenomenon.",
+     "lit": "the writer in this article proposes three reasons for this phenomenon",
+     "faV": "نِگارَنده دَر این مَقاله سه دَلیل بَرایِ این پَدیده پیشنَهاد می‌کُنَد.",
+     "a": "8c6a00c719eb"
+    },
+    {
+     "fa": "در این پژوهش، ما دو روش آموزش واژگان را با هم مقایسه کردیم.",
+     "r": "dar in pazhuhesh, mā do ravesh-e āmuzesh-e vāzhegān rā bā ham moghāyese kardim.",
+     "en": "In this study we compared two methods of teaching vocabulary.",
+     "faV": "دَر این پَژوهِش، ما دو رَوِشِ آموزِشِ واژِگان را با هَم مُقایِسه کَردیم.",
+     "a": "526e58fcd225"
+    },
+    {
+     "fa": "این پژوهش نشان می‌دهد که تکرار فاصله‌دار به یادسپاری کمک می‌کند.",
+     "r": "in pazhuhesh neshān mi-dahad ke tekrār-e fāsele-dār be yād-sepāri komak mi-konad.",
+     "en": "This study shows that spaced repetition helps memorisation.",
+     "faV": "این پَژوهِش نِشان می‌دَهَد که تِکرارِ فاصِله‌دار به یادسِپاری کُمَک می‌کُنَد.",
+     "a": "44dc0089e93a"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Hedging, citing and linking",
+   "md": "A Persian scholar rarely says *X is true*. The claim is softened (**hedged**), attributed to someone (**cited**), and tied to what came before (**linked**).\n\n**Hedging.** [[به نظر می‌رسد که|be nazar mi-resad ke|it seems that]] is the workhorse. Follow it with the indicative for a mild hedge and with the **subjunctive** for a stronger one: [[به نظر می‌رسد که مؤثر است|be nazar mi-resad ke mo'asser ast|it appears to be effective]] vs [[به نظر می‌رسد که مؤثر باشد|be nazar mi-resad ke mo'asser bāshad|it may well be effective]].\n\n**Citing.** The classic frame is [[چنان‌که|chenān-ke]] + name + (year) + [[اشاره کرده است|eshāre karde ast]] – the present perfect, because the source still speaks. Iranian journals give years in the solar calendar, so Karimi (۱۳۹۸) published in 2019–20.\n\n**Linking.** [[از این رو|az in ru]] and [[بنابراین|banābar-in]] (*hence, therefore*), [[با این حال|bā in hāl]] (*however*), [[در مجموع|dar majmu'|all in all]] steer the reader. Put a Persian comma after them.",
+   "table": {
+    "head": [
+     "Phrase",
+     "Reading",
+     "English",
+     "Job"
+    ],
+    "rows": [
+     [
+      "به نظر می‌رسد (که)",
+      "be nazar mi-resad (ke)",
+      "it seems (that)",
+      "hedge"
+     ],
+     [
+      "احتمالاً",
+      "ehtemālan",
+      "probably",
+      "hedge"
+     ],
+     [
+      "تا حدی",
+      "tā hadd-i",
+      "to some extent",
+      "hedge"
+     ],
+     [
+      "چنان‌که … اشاره کرده است",
+      "chenān-ke … eshāre karde ast",
+      "as … has pointed out",
+      "cite"
+     ],
+     [
+      "به گفته‌ی …",
+      "be gofte-ye …",
+      "according to … (a person)",
+      "cite"
+     ],
+     [
+      "بر اساس یافته‌ها",
+      "bar asās-e yāfte-hā",
+      "on the basis of the findings",
+      "cite your own data"
+     ],
+     [
+      "از این رو / بنابراین",
+      "az in ru / banābar-in",
+      "hence / therefore",
+      "link: result"
+     ],
+     [
+      "با این حال",
+      "bā in hāl",
+      "however, nevertheless",
+      "link: contrast"
+     ],
+     [
+      "بدین منظور",
+      "bedin manzur",
+      "to this end",
+      "link: purpose"
+     ],
+     [
+      "در مجموع",
+      "dar majmu'",
+      "all in all, overall",
+      "link: summary"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "به نظر می‌رسد که سن آغاز یادگیری عامل تعیین‌کننده‌ای نباشد.",
+     "r": "be nazar mi-resad ke senn-e āghāz-e yādgiri āmel-e ta'yin-konande-i na-bāshad.",
+     "en": "It would seem that the age at which learning starts is not a decisive factor.",
+     "note": "The subjunctive نباشد makes the hedge stronger than نیست would.",
+     "faV": "به نَظَر می‌رِسَد که سِنِّ آغازِ یادگیری عامِلِ تَعیین‌کُنَنده‌ای نَباشَد.",
+     "a": "b165908639f3"
+    },
+    {
+     "fa": "چنان‌که کریمی (۱۳۹۸) اشاره کرده است، انگیزه با گذشت زمان تغییر می‌کند.",
+     "r": "chenān-ke Karimi (hezār-o-sisad-o-navad-o-hasht) eshāre karde ast, angize bā gozasht-e zamān taghyir mi-konad.",
+     "en": "As Karimi (1398/2019) has pointed out, motivation changes over time.",
+     "faV": "چِنان‌که کَریمی (۱۳۹۸) اِشاره کَرده اَست، اَنگیزه با گُذَشتِ زَمان تَغییر می‌کُنَد.",
+     "a": "a6532ee53999"
+    },
+    {
+     "fa": "بر اساس یافته‌های این پژوهش، تمرین روزانه از تمرین فشرده مؤثرتر است.",
+     "r": "bar asās-e yāfte-hā-ye in pazhuhesh, tamrin-e ruzāne az tamrin-e feshorde mo'asser-tar ast.",
+     "en": "On the basis of this study's findings, daily practice is more effective than intensive practice.",
+     "faV": "بَر اَساسِ یافته‌هایِ این پَژوهِش، تَمرینِ روزانه اَز تَمرینِ فِشُرده مُؤَثِّرتَر اَست.",
+     "a": "daa5b5319dbd"
+    },
+    {
+     "fa": "به گفته‌ی احمدی، بیشتر زبان‌آموزان از اشتباه کردن می‌ترسند.",
+     "r": "be gofte-ye Ahmadi, bish-tar-e zabān-āmuzān az eshtebāh kardan mi-tarsand.",
+     "en": "According to Ahmadi, most language learners are afraid of making mistakes.",
+     "faV": "به گُفته‌یِ اَحمَدی، بیشتَرِ زَبان‌آموزان اَز اِشتِباه کَردَن می‌تَرسَند.",
+     "a": "ee773c60dfe1"
+    },
+    {
+     "fa": "حجم نمونه کوچک بود؛ از این رو، نتایج را باید با احتیاط تعمیم داد.",
+     "r": "hajm-e nemune kuchek bud; az in ru, natāyej rā bāyad bā ehtiyāt ta'mim dād.",
+     "en": "The sample was small; the results should therefore be generalised with caution.",
+     "faV": "حَجمِ نِمونه کوچِک بود؛ اَز این رو، نَتایِج را بایَد با اِحتیاط تَعمیم داد.",
+     "a": "63808dc6784b"
+    },
+    {
+     "fa": "این یافته‌ها تا حدی با نتایج پژوهش‌های پیشین همخوانی دارند.",
+     "r": "in yāfte-hā tā hadd-i bā natāyej-e pazhuhesh-hā-ye pishin hamkhāni dārand.",
+     "en": "These findings are to some extent consistent with the results of earlier studies.",
+     "faV": "این یافته‌ها تا حَدّی با نَتایِجِ پَژوهِش‌هایِ پیشین هَمخوانی دارَند.",
+     "a": "5079d12dfd11"
+    },
+    {
+     "fa": "در مجموع، می‌توان گفت که فرضیه‌ی نخست تأیید شد.",
+     "r": "dar majmu', mi-tavān goft ke farziye-ye nakhost ta'yid shod.",
+     "en": "Overall, it can be said that the first hypothesis was confirmed.",
+     "faV": "دَر مَجموع، می‌تَوان گُفت که فَرضیه‌یِ نَخُست تَأیید شُد.",
+     "a": "ae305d8a9b60"
+    }
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "A model abstract, sentence by sentence",
+   "intro": "Here is the abstract (چکیده) of an imaginary study, written the way a Persian journal would expect. Persian abstracts follow the same moves as English ones – territory, gap, aim, method, results, interpretation, implications, limitations – and each move has its favourite phrases. The note under each sentence names the move and the device.",
+   "sentences": [
+    {
+     "fa": "تأثیر تکرار فاصله‌دار بر یادگیری واژگان فارسی در میان زبان‌آموزان بزرگسال",
+     "r": "ta'sir-e tekrār-e fāsele-dār bar yādgiri-ye vāzhegān-e fārsi dar miyān-e zabān-āmuzān-e bozorgsāl",
+     "en": "The effect of spaced repetition on the learning of Persian vocabulary among adult learners",
+     "note": "The title: one noun phrase, an ezafe chain of six links and no verb – typical of Persian titles.",
+     "faV": "تَأثیرِ تِکرارِ فاصِله‌دار بَر یادگیریِ واژِگانِ فارسی دَر میانِ زَبان‌آموزانِ بُزُرگسال",
+     "a": "d6cae8c37c22"
+    },
+    {
+     "fa": "یادگیری واژگان یکی از دشوارترین بخش‌های فراگیری زبان دوم به شمار می‌رود.",
+     "r": "yādgiri-ye vāzhegān yek-i az doshvār-tarin bakhsh-hā-ye farāgiri-ye zabān-e dovvom be shomār mi-ravad.",
+     "en": "Vocabulary learning is regarded as one of the hardest parts of acquiring a second language.",
+     "note": "Move 1, the territory. به شمار رفتن 'to be counted as' is a favourite academic verb.",
+     "faV": "یادگیریِ واژِگان یِکی اَز دُشوارتَرین بَخش‌هایِ فَراگیریِ زَبانِ دُوُّم به شُمار می‌رَوَد.",
+     "a": "e00290b87c36"
+    },
+    {
+     "fa": "پژوهش‌های پیشین نشان داده‌اند که مرور واژه‌ها در فاصله‌های زمانی رو به افزایش، به یادسپاری بهتر می‌انجامد.",
+     "r": "pazhuhesh-hā-ye pishin neshān dāde-and ke morur-e vāzhe-hā dar fāsele-hā-ye zamāni-ye ru be afzāyesh, be yād-sepāri-ye behtar mi-anjāmad.",
+     "en": "Earlier research has shown that reviewing words at increasing intervals leads to better retention.",
+     "note": "Move 2, what is known. The present perfect (نشان داده‌اند) for the literature, as in English.",
+     "faV": "پَژوهِش‌هایِ پیشین نِشان داده‌اَند که مُرورِ واژه‌ها دَر فاصِله‌هایِ زَمانیِ رو به اَفزایِش، به یادسِپاریِ بِهتَر می‌اَنجامَد.",
+     "a": "31c87c4e7dc5"
+    },
+    {
+     "fa": "با این حال، تأثیر این روش بر زبان‌آموزان فارسی کمتر بررسی شده است.",
+     "r": "bā in hāl, ta'sir-e in ravesh bar zabān-āmuzān-e fārsi kam-tar barrasi shode ast.",
+     "en": "However, the effect of this method on learners of Persian has received less attention.",
+     "note": "Move 3, the gap, opened with با این حال.",
+     "faV": "با این حال، تَأثیرِ این رَوِش بَر زَبان‌آموزانِ فارسی کَمتَر بَررَسی شُده اَست.",
+     "a": "786c32dc33d1"
+    },
+    {
+     "fa": "هدف پژوهش حاضر، ارزیابی تأثیر تکرار فاصله‌دار بر یادگیری و یادسپاری واژگان فارسی است.",
+     "r": "hadaf-e pazhuhesh-e hāzer, arzyābi-ye ta'sir-e tekrār-e fāsele-dār bar yādgiri o yād-sepāri-ye vāzhegān-e fārsi ast.",
+     "en": "The aim of the present study is to evaluate the effect of spaced repetition on the learning and retention of Persian vocabulary.",
+     "note": "Move 4, the aim. پژوهش حاضر 'the present study'; the aim is a noun (ارزیابی), not a verb.",
+     "faV": "هَدَفِ پَژوهِشِ حاضِر، اَرزیابیِ تَأثیرِ تِکرارِ فاصِله‌دار بَر یادگیری و یادسِپاریِ واژِگانِ فارسی اَست.",
+     "a": "fcdcbbb07e6f"
+    },
+    {
+     "fa": "بدین منظور، شصت زبان‌آموز بزرگسال از سه کشور به‌طور تصادفی در دو گروه قرار گرفتند.",
+     "r": "bedin manzur, shast zabān-āmuz-e bozorgsāl az se keshvar be-towr-e tasādofi dar do goruh gharār gereftand.",
+     "en": "To this end, sixty adult learners from three countries were randomly assigned to two groups.",
+     "note": "Move 5, method. قرار گرفتن 'to be placed' works as a passive without شدن.",
+     "faV": "بِدین مَنظور، شَصت زَبان‌آموزِ بُزُرگسال اَز سه کِشوَر به‌طَورِ تَصادُفی دَر دو گُروه قَرار گِرِفتَند.",
+     "a": "13f2879e63e3"
+    },
+    {
+     "fa": "گروه نخست واژه‌ها را با برنامه‌ی تکرار فاصله‌دار و گروه دوم با روش سنتی فهرست‌خوانی مرور کرد.",
+     "r": "goruh-e nakhost vāzhe-hā rā bā barnāme-ye tekrār-e fāsele-dār o goruh-e dovvom bā ravesh-e sonnati-ye fehrest-khāni morur kard.",
+     "en": "The first group reviewed the words with a spaced-repetition programme, the second with the traditional method of reading through lists.",
+     "note": "The verb مرور کرد is said once for both groups – elegant in writing, odd in speech.",
+     "faV": "گُروهِ نَخُست واژه‌ها را با بَرنامه‌یِ تِکرارِ فاصِله‌دار و گُروهِ دُوُّم با رَوِشِ سُنَّتیِ فِهرِست‌خوانی مُرور کَرد.",
+     "a": "48dfe65694a8"
+    },
+    {
+     "fa": "داده‌ها از طریق دو آزمون واژگان، یکی بلافاصله پس از دوره و دیگری شش هفته بعد، گردآوری شد.",
+     "r": "dāde-hā az tarigh-e do āzmun-e vāzhegān, yek-i belāfāsele pas az dowre va digari shesh hafte ba'd, gerdāvari shod.",
+     "en": "The data were collected through two vocabulary tests, one immediately after the course and the other six weeks later.",
+     "note": "An inanimate plural subject (داده‌ها) can take a singular verb (شد).",
+     "faV": "داده‌ها اَز طَریقِ دو آزمونِ واژِگان، یِکی بِلافاصِله پَس اَز دَوره و دیگَری شِش هَفته بَعد، گِردآوَری شُد.",
+     "a": "1e5bcf6a4588"
+    },
+    {
+     "fa": "نتایج تحلیل آماری نشان داد که دو گروه در آزمون نخست تفاوت معناداری با یکدیگر نداشتند.",
+     "r": "natāyej-e tahlil-e āmāri neshān dād ke do goruh dar āzmun-e nakhost tafāvot-e ma'nādār-i bā yekdigar na-dāshtand.",
+     "en": "Statistical analysis showed no significant difference between the two groups in the first test.",
+     "note": "Move 6, results, in the simple past. English prefers 'showed no difference' to 'showed that they had no difference'.",
+     "faV": "نَتایِجِ تَحلیلِ آماری نِشان داد که دو گُروه دَر آزمونِ نَخُست تَفاوُتِ مَعناداری با یِکدیگَر نَداشتَند.",
+     "a": "bafdbd828e7e"
+    },
+    {
+     "fa": "اما در آزمون دوم، میانگین نمرات گروه نخست به‌طور معناداری بالاتر بود.",
+     "r": "ammā dar āzmun-e dovvom, miyāngin-e nomarāt-e goruh-e nakhost be-towr-e ma'nādār-i bālā-tar bud.",
+     "en": "In the second test, however, the first group's mean score was significantly higher.",
+     "note": "به‌طور + adjective + ی makes an adverb: به‌طور معناداری 'significantly'.",
+     "faV": "اَمّا دَر آزمونِ دُوُّم، میانگینِ نُمَراتِ گُروهِ نَخُست به‌طَورِ مَعناداری بالاتَر بود.",
+     "a": "3380301f96f5"
+    },
+    {
+     "fa": "به نظر می‌رسد که تکرار فاصله‌دار بیش از آن‌که به یادگیری اولیه کمک کند، از فراموشی واژه‌ها جلوگیری می‌کند.",
+     "r": "be nazar mi-resad ke tekrār-e fāsele-dār bish az ān-ke be yādgiri-ye avvaliye komak konad, az farāmushi-ye vāzhe-hā jelowgiri mi-konad.",
+     "en": "It seems that spaced repetition does less to help initial learning than to stop words being forgotten.",
+     "note": "Move 7, interpretation, hedged. بیش از آن‌که + subjunctive: 'rather than, more than'.",
+     "faV": "به نَظَر می‌رِسَد که تِکرارِ فاصِله‌دار بیش اَز آن‌که به یادگیریِ اَوَّلیه کُمَک کُنَد، اَز فَراموشیِ واژه‌ها جِلَوگیری می‌کُنَد.",
+     "a": "2a0ac6e62398"
+    },
+    {
+     "fa": "این یافته، چنان‌که ابینگهاوس بیش از یک سده پیش اشاره کرده بود، با منحنی فراموشی همخوانی دارد.",
+     "r": "in yāfte, chenān-ke Ebing-hāus bish az yek sade pish eshāre karde bud, bā monhani-ye farāmushi hamkhāni dārad.",
+     "en": "This finding agrees with the forgetting curve, as Ebbinghaus pointed out more than a century ago.",
+     "note": "Citing. The past perfect (اشاره کرده بود) because the source lies far back in time.",
+     "faV": "این یافته، چِنان‌که اِبینگهاوس بیش اَز یِک سَده پیش اِشاره کَرده بود، با مُنحَنیِ فَراموشی هَمخوانی دارَد.",
+     "a": "ec6db48e8e83"
+    },
+    {
+     "fa": "از این رو، پیشنهاد می‌شود که برنامه‌های آموزش زبان فارسی مرور فاصله‌دار را در طراحی دوره‌ها لحاظ کنند.",
+     "r": "az in ru, pishnahād mi-shavad ke barnāme-hā-ye āmuzesh-e zabān-e fārsi morur-e fāsele-dār rā dar tarrāhi-ye dowre-hā lahāz konand.",
+     "en": "We therefore recommend that Persian-language programmes build spaced review into the design of their courses.",
+     "note": "Move 8, implications. پیشنهاد می‌شود 'it is recommended' – the standard impersonal recommendation.",
+     "faV": "اَز این رو، پیشنَهاد می‌شَوَد که بَرنامه‌هایِ آموزِشِ زَبانِ فارسی مُرورِ فاصِله‌دار را دَر طَرّاحیِ دَوره‌ها لَحاظ کُنَند.",
+     "a": "18c773011ae3"
+    },
+    {
+     "fa": "حجم کوچک نمونه از محدودیت‌های این پژوهش است و تعمیم نتایج را دشوار می‌کند.",
+     "r": "hajm-e kuchek-e nemune az mahdudiyat-hā-ye in pazhuhesh ast o ta'mim-e natāyej rā doshvār mi-konad.",
+     "en": "The small sample is one of the study's limitations and makes the results hard to generalise.",
+     "note": "Move 9, limitations. از … است 'is (one) of …' – no یکی needed.",
+     "faV": "حَجمِ کوچِکِ نِمونه اَز مَحدودیَت‌هایِ این پَژوهِش اَست و تَعمیمِ نَتایِج را دُشوار می‌کُنَد.",
+     "a": "94a83dcb984a"
+    },
+    {
+     "fa": "واژگان کلیدی: تکرار فاصله‌دار، یادگیری واژگان، فارسی به‌عنوان زبان دوم، حافظه‌ی بلندمدت.",
+     "r": "vāzhegān-e kelidi: tekrār-e fāsele-dār, yādgiri-ye vāzhegān, fārsi be-onvān-e zabān-e dovvom, hāfeze-ye boland-moddat.",
+     "en": "Keywords: spaced repetition, vocabulary learning, Persian as a second language, long-term memory.",
+     "faV": "واژِگانِ کِلیدی: تِکرارِ فاصِله‌دار، یادگیریِ واژِگان، فارسی به‌عُنوانِ زَبانِ دُوُّم، حافِظه‌یِ بُلَندمُدَّت.",
+     "a": "86bb1d93820f"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Which sentence states the gap in earlier research?",
+     "options": [
+      "یادگیری واژگان یکی از دشوارترین بخش‌های فراگیری زبان دوم به شمار می‌رود.",
+      "با این حال، تأثیر این روش بر زبان‌آموزان فارسی کمتر بررسی شده است.",
+      "حجم کوچک نمونه از محدودیت‌های این پژوهش است."
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What did the study find?",
+     "options": [
+      "The spaced-repetition group did better in both tests",
+      "There was no difference in either test",
+      "No difference straight after the course, but the spaced-repetition group did better six weeks later"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "Which phrase is used to soften the interpretation?",
+     "options": [
+      "بدین منظور",
+      "به نظر می‌رسد",
+      "واژگان کلیدی"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Two vocabularies: Arabic loans and the Academy's words",
+   "md": "Every Persian academic writes with two vocabularies at once. One is Arabic, absorbed over a thousand years: [[علم|elm|science]], [[تحقیق|tahghigh|research]], [[مقاله|maghāle|article]], [[نتیجه|natije|result]], [[فرضیه|farziye|hypothesis]]. The other is Persian, much of it coined or revived in the twentieth century: [[دانش|dānesh|knowledge, science]], [[پژوهش|pazhuhesh|research]], [[چکیده|chekide|abstract]], [[یافته|yāfte|finding]], [[ارزیابی|arzyābi|evaluation]].\n\nThe coining was organised. The first **Academy of Iran** (فرهنگستان ایران, 1935) approved words such as [[هواپیما|havāpeymā|aeroplane]], [[شهرداری|shahrdāri|municipality]] and [[دادگستری|dādgostari|the justice system]]. The word [[دانشگاه|dāneshgāh|university]] – *place of knowledge* – became official with the founding of the University of Tehran in 1934. Today's **Academy of Persian Language and Literature** (فرهنگستان زبان و ادب فارسی, founded 1990) continues the work, with mixed success:\n\n- [[پیامک|payāmak|text message]] – a triumph: everyone says it.\n- [[رایانه|rāyāne|computer]] – used in writing and in official names; at home people still say [[کامپیوتر|kāmpyuter]].\n- [[یارانه|yārāne|subsidy]] – fully adopted, because the government used it.\n- [[رایانامه|rāyānāme|email]] – correct, official, and rarely heard; people say [[ایمیل|imeyl]].\n- [[بالگرد|bālgard|helicopter]] – standard in the news, while many speakers still say [[هلیکوپتر|helikupter]].\n\nThe choice between the two vocabularies is a matter of **style**, sometimes of conviction. Some writers prefer the Persian word wherever one exists; others find a page full of new coinages stiff and prefer the familiar Arabic loan. Most write a mixture – and a good reader notices the mixture, because it tells you something about the writer.",
+   "image": "university-of-tehran"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "Translating academic Persian into English? Turn nouns back into verbs. «ارزیابی برنامه صورت گرفت» is 'the programme was evaluated', not 'an evaluation of the programme took place'.",
+    "Translating English into academic Persian? Do not copy 'by': «توسط پژوهشگر انجام شد» is a calque. Make the agent the subject («پژوهشگر … انجام داد») or drop it.",
+    "After می‌توان and باید in impersonal use, write the short infinitive (the past stem): می‌توان گفت، باید افزود. Never «می‌توان بگوییم».",
+    "Journal dates are in the solar calendar: add 621 or 622 to get the Western year (۱۳۹۸ = 2019–20). Many Iranian journals now print both.",
+    "Learn academic phrases as chunks: بر اساس یافته‌ها، از این رو، چنان‌که … اشاره کرده است. You will reuse them in every essay, presentation and email to a professor.",
+    "Long ezafe chains are read with a slight rise on each ـِ link: ارزیابیِ تأثیرِ تکرارِ فاصله‌دار. If you lose your way, find the last noun – it is usually the topic."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the academic phrase",
+   "items": [
+    {
+     "fa": "___ نظر می‌رسد که این روش برای کودکان مؤثرتر باشد.",
+     "r": "___ nazar mi-resad ke in ravesh barā-ye kudakān mo'asser-tar bāshad.",
+     "en": "It seems that this method may be more effective for children.",
+     "answer": "به",
+     "hint": "'it reaches ___ the view'"
+    },
+    {
+     "fa": "چنان‌که کریمی ___ کرده است، انگیزه نقش مهمی دارد.",
+     "r": "chenān-ke Karimi ___ karde ast, angize naghsh-e mohemm-i dārad.",
+     "en": "As Karimi has pointed out, motivation plays an important role.",
+     "answer": "اشاره",
+     "hint": "to point out = ___ کردن"
+    },
+    {
+     "fa": "بر ___ یافته‌های این پژوهش، تمرین روزانه مؤثرتر است.",
+     "r": "bar ___-e yāfte-hā-ye in pazhuhesh, tamrin-e ruzāne mo'asser-tar ast.",
+     "en": "On the basis of this study's findings, daily practice is more effective.",
+     "answer": "اساس",
+     "hint": "basis, foundation"
+    },
+    {
+     "fa": "حجم نمونه کوچک بود؛ از این ___، نتایج را نمی‌توان تعمیم داد.",
+     "r": "hajm-e nemune kuchek bud; az in ___, natāyej rā nemi-tavān ta'mim dād.",
+     "en": "The sample was small; hence the results cannot be generalised.",
+     "answer": "رو",
+     "hint": "literally 'face'"
+    },
+    {
+     "fa": "داده‌ها از طریق پرسش‌نامه ___ شد.",
+     "r": "dāde-hā az tarigh-e porsesh-nāme ___ shod.",
+     "en": "The data were collected by means of a questionnaire.",
+     "answer": "گردآوری",
+     "hint": "gathering, collecting"
+    },
+    {
+     "fa": "هدف پژوهش ___، بررسی نقش انگیزه در یادگیری است.",
+     "r": "hadaf-e pazhuhesh-e ___, barrasi-ye naghsh-e angize dar yādgiri ast.",
+     "en": "The aim of the present study is to examine the role of motivation in learning.",
+     "answer": "حاضر",
+     "hint": "present (as in 'the present study')"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Into academic Persian",
+   "items": [
+    {
+     "en": "This study examines the effect of age on language learning.",
+     "fa": "این پژوهش تأثیر سن را بر یادگیری زبان بررسی می‌کند.",
+     "r": "in pazhuhesh ta'sir-e senn rā bar yādgiri-ye zabān barrasi mi-konad.",
+     "faV": "این پَژوهِش تَأثیرِ سِنّ را بَر یادگیریِ زَبان بَررَسی می‌کُنَد.",
+     "a": "15e524b2a7f7"
+    },
+    {
+     "en": "The data were analysed in two stages.",
+     "fa": "داده‌ها در دو مرحله تحلیل شدند.",
+     "r": "dāde-hā dar do marhale tahlil shodand.",
+     "faV": "داده‌ها دَر دو مَرحَله تَحلیل شُدَند.",
+     "a": "61827949faeb"
+    },
+    {
+     "en": "It seems that motivation is more important than age.",
+     "fa": "به نظر می‌رسد که انگیزه از سن مهم‌تر است.",
+     "r": "be nazar mi-resad ke angize az senn mohem-tar ast.",
+     "faV": "به نَظَر می‌رِسَد که اَنگیزه اَز سِنّ مُهِم‌تَر اَست.",
+     "a": "a8a2504a29fb"
+    },
+    {
+     "en": "As Ahmadi has pointed out, most learners are afraid of making mistakes.",
+     "fa": "چنان‌که احمدی اشاره کرده است، بیشتر زبان‌آموزان از اشتباه کردن می‌ترسند.",
+     "r": "chenān-ke Ahmadi eshāre karde ast, bish-tar-e zabān-āmuzān az eshtebāh kardan mi-tarsand.",
+     "faV": "چِنان‌که اَحمَدی اِشاره کَرده اَست، بیشتَرِ زَبان‌آموزان اَز اِشتِباه کَردَن می‌تَرسَند.",
+     "a": "17f933bf43d3"
+    },
+    {
+     "en": "Hence, more research is needed.",
+     "fa": "از این رو، به پژوهش‌های بیشتری نیاز است.",
+     "r": "az in ru, be pazhuhesh-hā-ye bish-tar-i niyāz ast.",
+     "faV": "اَز این رو، به پَژوهِش‌هایِ بیشتَری نیاز اَست.",
+     "a": "51b3431f6820"
+    },
+    {
+     "en": "The results of this study cannot be generalised to children.",
+     "fa": "نتایج این پژوهش را نمی‌توان به کودکان تعمیم داد.",
+     "r": "natāyej-e in pazhuhesh rā nemi-tavān be kudakān ta'mim dād.",
+     "faV": "نَتایِجِ این پَژوهِش را نِمی‌تَوان به کودَکان تَعمیم داد.",
+     "a": "80038e9236d1"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Into English – and why",
+   "items": [
+    {
+     "q": "The best English for [[بررسی داده‌ها در سه مرحله انجام شد.|barrasi-ye dāde-hā dar se marhale anjām shod.]]",
+     "options": [
+      "An examination of the data was done in three stages.",
+      "The data were examined in three stages.",
+      "We will examine the data in three stages."
+     ],
+     "answer": 1,
+     "explain": "Undo the nominalisation: 'examination … was done' becomes the verb 'were examined'."
+    },
+    {
+     "q": "The best English for [[به نظر می‌رسد که این روش مؤثر باشد.|be nazar mi-resad ke in ravesh mo'asser bāshad.]]",
+     "options": [
+      "This method is effective.",
+      "In my opinion this method was effective.",
+      "This method may well be effective."
+     ],
+     "answer": 2,
+     "explain": "به نظر می‌رسد plus the subjunctive باشد is a double hedge: 'may well be', 'would seem to be'."
+    },
+    {
+     "q": "The best English for [[پیشنهاد می‌شود که دوره‌ها کوتاه‌تر شوند.|pishnahād mi-shavad ke dowre-hā kutāh-tar shavand.]]",
+     "options": [
+      "It is recommended that the courses be shortened.",
+      "They proposed short courses.",
+      "Courses are suggested to become short."
+     ],
+     "answer": 0,
+     "explain": "پیشنهاد می‌شود is the impersonal recommendation; English can also say 'we recommend shortening the courses'."
+    },
+    {
+     "q": "An editor has circled [[این مقاله توسط نویسنده نوشته شد.|in maghāle tavassot-e nevisande neveshte shod.]] What will she suggest?",
+     "options": [
+      "نویسنده این مقاله را نوشت.",
+      "نوشتن این مقاله توسط نویسنده انجام شد.",
+      "این مقاله به وسیله‌ی نویسنده نوشته گردید."
+     ],
+     "answer": 0,
+     "explain": "توسط + passive is a calque of English 'by'. Make the agent the subject of an active verb."
+    },
+    {
+     "q": "Which of these is a twentieth-century Persian coinage rather than an Arabic loan?",
+     "options": [
+      "تحقیق",
+      "مطالعه",
+      "رایانه"
+     ],
+     "answer": 2,
+     "explain": "رایانه (from رایانیدن, 'to compute') was coined by the Academy; تحقیق and مطالعه are Arabic."
+    },
+    {
+     "q": "Which phrase introduces somebody else's claim?",
+     "options": [
+      "به گفته‌ی …",
+      "در مجموع",
+      "بدین منظور"
+     ],
+     "answer": 0,
+     "explain": "به گفته‌ی X = 'according to X'. در مجموع sums up; بدین منظور introduces a purpose."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Build the sentence",
+   "items": [
+    {
+     "fa": "این پژوهش نشان می‌دهد که انگیزه مهم است.",
+     "r": "in pazhuhesh neshān mi-dahad ke angize mohemm ast.",
+     "en": "This study shows that motivation is important.",
+     "faV": "این پَژوهِش نِشان می‌دَهَد که اَنگیزه مُهِمّ اَست.",
+     "a": "940e800a7f65"
+    },
+    {
+     "fa": "به نظر می‌رسد که فرضیه‌ی نخست درست است.",
+     "r": "be nazar mi-resad ke farziye-ye nakhost dorost ast.",
+     "en": "It seems that the first hypothesis is correct.",
+     "faV": "به نَظَر می‌رِسَد که فَرضیه‌یِ نَخُست دُرُست اَست.",
+     "a": "8c6fe3bf0046"
+    },
+    {
+     "fa": "داده‌ها از طریق پرسش‌نامه گردآوری شدند.",
+     "r": "dāde-hā az tarigh-e porsesh-nāme gerdāvari shodand.",
+     "en": "The data were collected by means of a questionnaire.",
+     "faV": "داده‌ها اَز طَریقِ پُرسِش‌نامه گِردآوَری شُدَند.",
+     "a": "0ac292b2487f"
+    },
+    {
+     "fa": "نتایج را باید با احتیاط تعمیم داد.",
+     "r": "natāyej rā bāyad bā ehtiyāt ta'mim dād.",
+     "en": "The results should be generalised with caution.",
+     "faV": "نَتایِج را بایَد با اِحتیاط تَعمیم داد.",
+     "a": "a0b3d108c869"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "The vocabulary of a paper",
+   "items": [
+    {
+     "fa": "فرضیه",
+     "r": "farziye",
+     "en": "hypothesis",
+     "faV": "فَرضیه",
+     "a": "4474609e1d3d"
+    },
+    {
+     "fa": "چکیده",
+     "r": "chekide",
+     "en": "abstract",
+     "faV": "چِکیده",
+     "a": "1e157de80d9f"
+    },
+    {
+     "fa": "یافته‌ها",
+     "r": "yāfte-hā",
+     "en": "findings",
+     "faV": "یافته‌ها",
+     "a": "4f7debd5fbc1"
+    },
+    {
+     "fa": "پیشینه",
+     "r": "pishine",
+     "en": "literature review",
+     "faV": "پیشینه",
+     "a": "1663acf39a24"
+    },
+    {
+     "fa": "روش",
+     "r": "ravesh",
+     "en": "method",
+     "faV": "رَوِش",
+     "a": "1d43131fa3e9"
+    },
+    {
+     "fa": "نمونه",
+     "r": "nemune",
+     "en": "sample",
+     "faV": "نِمونه",
+     "a": "904ca2e25432"
+    },
+    {
+     "fa": "معنادار",
+     "r": "ma'nādār",
+     "en": "significant",
+     "faV": "مَعنادار",
+     "a": "c864a360677e"
+    },
+    {
+     "fa": "منبع",
+     "r": "manba'",
+     "en": "source",
+     "faV": "مَنبَع",
+     "a": "01b8a5a34fd2"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "بر اساس یافته‌ها، فرضیه‌ی دوم رد شد.",
+     "r": "bar asās-e yāfte-hā, farziye-ye dovvom radd shod.",
+     "en": "On the basis of the findings, the second hypothesis was rejected.",
+     "options": [
+      "On the basis of the findings, the second hypothesis was rejected.",
+      "The findings confirmed the second hypothesis.",
+      "The second hypothesis has not been tested yet."
+     ],
+     "answer": 0,
+     "faV": "بَر اَساسِ یافته‌ها، فَرضیه‌یِ دُوُّم رَدّ شُد.",
+     "a": "bc9beac12c36"
+    },
+    {
+     "fa": "این مقاله در سه بخش تنظیم شده است.",
+     "r": "in maghāle dar se bakhsh tanzim shode ast.",
+     "en": "This article is arranged in three parts.",
+     "options": [
+      "This article has three authors.",
+      "This article is arranged in three parts.",
+      "This article was written in three weeks."
+     ],
+     "answer": 1,
+     "faV": "این مَقاله دَر سه بَخش تَنظیم شُده اَست.",
+     "a": "1b3bad87f0e6"
+    },
+    {
+     "fa": "به گفته‌ی پژوهشگران، سن عامل اصلی نیست.",
+     "r": "be gofte-ye pazhuheshgarān, senn āmel-e asli nist.",
+     "en": "According to the researchers, age is not the main factor.",
+     "options": [
+      "The researchers asked about the participants' ages.",
+      "Age is the main factor, the researchers say.",
+      "According to the researchers, age is not the main factor."
+     ],
+     "answer": 2,
+     "faV": "به گُفته‌یِ پَژوهِشگَران، سِنّ عامِلِ اَصلی نیست.",
+     "a": "f292135ee6c3"
+    },
+    {
+     "fa": "شرکت‌کنندگان به‌طور تصادفی انتخاب شدند.",
+     "r": "sherkat-konandegān be-towr-e tasādofi entekhāb shodand.",
+     "en": "The participants were chosen at random.",
+     "options": [
+      "The participants chose at random.",
+      "The participants were chosen at random.",
+      "Only a few participants were chosen."
+     ],
+     "answer": 1,
+     "faV": "شِرکَت‌کُنَندِگان به‌طَورِ تَصادُفی اِنتِخاب شُدَند.",
+     "a": "52fbe1a8880a"
+    }
+   ]
+  }
+ ],
+ "titleV": "فارسیِ دانِشگاهی",
+ "titleA": "57c5cc9b65c1"
+}

@@ -36,93 +36,235 @@
   {
    "fa": "فارسی باستان زبان شاهان هخامنشی بود.",
    "r": "fārsi-ye bāstān zabān-e shāhān-e Hakhāmaneshi bud.",
-   "en": "Old Persian was the language of the Achaemenid kings."
+   "en": "Old Persian was the language of the Achaemenid kings.",
+   "faV": "فارسیِ باستان زَبانِ شاهانِ هَخامَنِشی بود.",
+   "a": "18dd1f20b423"
   },
   {
    "fa": "داریوش در بیستون کتیبه‌ای به سه زبان نوشت.",
    "r": "Dāriush dar Bisotun katibe-i be se zabān nevesht.",
-   "en": "At Bisotun, Darius wrote an inscription in three languages."
+   "en": "At Bisotun, Darius wrote an inscription in three languages.",
+   "faV": "داریوش دَر بیسُتون کَتیبه‌ای به سه زَبان نِوِشت.",
+   "a": "45dec52dd8fd"
   },
   {
    "fa": "واژه‌ی «شاه» از فارسی باستان به ما رسیده است.",
    "r": "vāzhe-ye «shāh» az fārsi-ye bāstān be mā reside ast.",
-   "en": "The word shāh has come down to us from Old Persian."
+   "en": "The word shāh has come down to us from Old Persian.",
+   "faV": "واژه‌یِ «شاه» اَز فارسیِ باستان به ما رِسیده اَست.",
+   "a": "ceae024d885f"
   },
   {
    "fa": "فارسی میانه از فارسی باستان ساده‌تر بود.",
    "r": "fārsi-ye miyāne az fārsi-ye bāstān sāde-tar bud.",
-   "en": "Middle Persian was simpler than Old Persian."
+   "en": "Middle Persian was simpler than Old Persian.",
+   "faV": "فارسیِ میانه اَز فارسیِ باستان ساده‌تَر بود.",
+   "a": "f797fb9e8093"
   },
   {
    "fa": "خط پهلوی از خط آرامی گرفته شده بود.",
    "r": "khatt-e pahlavi az khatt-e ārāmi gerefte shode bud.",
-   "en": "The Pahlavi script came from the Aramaic script."
+   "en": "The Pahlavi script came from the Aramaic script.",
+   "faV": "خَطِّ پَهلَوی اَز خَطِّ آرامی گِرِفته شُده بود.",
+   "a": "edd9d198474f"
   },
   {
    "fa": "فارسی نو در قرن نهم میلادی در خراسان شکل گرفت.",
    "r": "fārsi-ye now dar gharn-e nohom-e milādi dar Khorāsān shekl gereft.",
-   "en": "New Persian took shape in Khorasan in the 9th century AD."
+   "en": "New Persian took shape in Khorasan in the 9th century AD.",
+   "faV": "فارسیِ نَو دَر قَرنِ نُهُمِ میلادی دَر خُراسان شِکل گِرِفت.",
+   "a": "27ed693f537d"
   },
   {
    "fa": "به رودکی پدر شعر فارسی می‌گویند.",
    "r": "be Rudaki pedar-e she'r-e fārsi mi-guyand.",
    "en": "Rudaki is called the father of Persian poetry.",
    "col": "به رودکی می‌گن پدر شعر فارسی.",
-   "colR": "be Rudaki mi-gan pedar-e she'r-e fārsi."
+   "colR": "be Rudaki mi-gan pedar-e she'r-e fārsi.",
+   "faV": "به رودَکی پِدَرِ شِعرِ فارسی می‌گویَند.",
+   "a": "4b84e236c592",
+   "colV": "به رودَکی می‌گَن پِدَرِ شِعرِ فارسی.",
+   "colA": "a2ee0da2824b"
   },
   {
    "fa": "الفبای فارسی چهار حرف بیشتر از الفبای عربی دارد.",
    "r": "alefbā-ye fārsi chahār harf bishtar az alefbā-ye arabi dārad.",
    "en": "The Persian alphabet has four more letters than the Arabic alphabet.",
    "col": "الفبای فارسی چهار تا حرف بیشتر از الفبای عربی داره.",
-   "colR": "alefbā-ye fārsi chahār tā harf bishtar az alefbā-ye arabi dāre."
+   "colR": "alefbā-ye fārsi chahār tā harf bishtar az alefbā-ye arabi dāre.",
+   "faV": "اَلِفبایِ فارسی چَهار حَرف بیشتَر اَز اَلِفبایِ عَرَبی دارَد.",
+   "a": "9fe011c856e7",
+   "colV": "اَلِفبایِ فارسی چَهار تا حَرف بیشتَر اَز اَلِفبایِ عَرَبی داره.",
+   "colA": "89f702165bdd"
   },
   {
    "fa": "در خط فارسی مصوت‌های کوتاه را نمی‌نویسند.",
    "r": "dar khatt-e fārsi mosavvat-hā-ye kutāh rā nemi-nevisand.",
    "en": "In the Persian script the short vowels are not written.",
    "col": "تو خط فارسی مصوت‌های کوتاه رو نمی‌نویسن.",
-   "colR": "tu khatt-e fārsi mosavvat-hā-ye kutāh ro nemi-nevisan."
+   "colR": "tu khatt-e fārsi mosavvat-hā-ye kutāh ro nemi-nevisan.",
+   "faV": "دَر خَطِّ فارسی مُصَوَّت‌هایِ کوتاه را نِمی‌نِویسَند.",
+   "a": "6c60169a39b5",
+   "colV": "تو خَطِّ فارسی مُصَوَّت‌هایِ کوتاه رو نِمی‌نِویسَن.",
+   "colA": "b8f805def055"
   },
   {
    "fa": "مولانا در قونیه زندگی می‌کرد، اما به فارسی شعر می‌گفت.",
    "r": "Mowlānā dar Ghunie zendegi mi-kard, ammā be fārsi she'r mi-goft.",
    "en": "Rumi lived in Konya, but he wrote his poetry in Persian.",
    "col": "مولانا تو قونیه زندگی می‌کرد، ولی به فارسی شعر می‌گفت.",
-   "colR": "Mowlānā tu Ghunie zendegi mi-kard, vali be fārsi she'r mi-goft."
+   "colR": "Mowlānā tu Ghunie zendegi mi-kard, vali be fārsi she'r mi-goft.",
+   "faV": "مَولانا دَر قونیه زِندِگی می‌کَرد، اَمّا به فارسی شِعر می‌گُفت.",
+   "a": "aa35a2e8ce2d",
+   "colV": "مَولانا تو قونیه زِندِگی می‌کَرد، وَلی به فارسی شِعر می‌گُفت.",
+   "colA": "fe6739700cb9"
   },
   {
    "fa": "سلطان سلیم عثمانی هم به فارسی شعر می‌سرود.",
    "r": "Soltān Salim-e Osmāni ham be fārsi she'r mi-sorud.",
-   "en": "The Ottoman sultan Selim also wrote poems in Persian."
+   "en": "The Ottoman sultan Selim also wrote poems in Persian.",
+   "faV": "سُلطان سَلیمِ عُثمانی هَم به فارسی شِعر می‌سُرود.",
+   "a": "1cb3e9998eaf"
   },
   {
    "fa": "ما هنوز می‌توانیم شعرهای هزار سال پیش را بخوانیم.",
    "r": "mā hanuz mi-tavānim she'r-hā-ye hezār sāl pish rā be-khānim.",
    "en": "We can still read poems written a thousand years ago.",
    "col": "ما هنوز می‌تونیم شعرهای هزار سال پیش رو بخونیم.",
-   "colR": "mā hanuz mi-tunim she'r-hā-ye hezār sāl pish ro be-khunim."
+   "colR": "mā hanuz mi-tunim she'r-hā-ye hezār sāl pish ro be-khunim.",
+   "faV": "ما هَنوز می‌تَوانیم شِعرهایِ هِزار سال پیش را بِخوانیم.",
+   "a": "5ddaf31dd6c4",
+   "colV": "ما هَنوز می‌تونیم شِعرهایِ هِزار سال پیش رو بِخونیم.",
+   "colA": "b8fe9daa7efd"
   }
  ],
  "vocab": [
-  {"fa": "فارسی باستان", "r": "fārsi-ye bāstān", "en": "Old Persian"},
-  {"fa": "فارسی میانه", "r": "fārsi-ye miyāne", "en": "Middle Persian"},
-  {"fa": "فارسی نو", "r": "fārsi-ye now", "en": "New Persian"},
-  {"fa": "پهلوی", "r": "pahlavi", "en": "Pahlavi: Middle Persian and its script"},
-  {"fa": "خط میخی", "r": "khatt-e mikhi", "en": "cuneiform (lit. 'nail script')"},
-  {"fa": "کتیبه", "r": "katibe", "en": "inscription"},
-  {"fa": "دری", "r": "dari", "en": "Dari: early New Persian; Persian in Afghanistan"},
-  {"fa": "دربار", "r": "darbār", "en": "royal court"},
-  {"fa": "شاعر", "r": "shā'er", "en": "poet"},
-  {"fa": "شعر", "r": "she'r", "en": "poem; poetry"},
-  {"fa": "قرن", "r": "gharn", "en": "century"},
-  {"fa": "میلادی", "r": "milādi", "en": "AD, of the Christian era"},
-  {"fa": "هجری", "r": "hejri", "en": "of the Hijra, the Islamic era"},
-  {"fa": "مصوت", "r": "mosavvat", "en": "vowel"},
-  {"fa": "امپراتوری", "r": "emperāturi", "en": "empire"},
-  {"fa": "ریشه", "r": "rishe", "en": "root; origin"},
-  {"fa": "تغییر کردن", "r": "taghyir kardan", "en": "to change"},
-  {"fa": "عربی", "r": "arabi", "en": "Arabic"}
+  {
+   "fa": "فارسی باستان",
+   "r": "fārsi-ye bāstān",
+   "en": "Old Persian",
+   "faV": "فارسیِ باستان",
+   "a": "659434d3ecd1"
+  },
+  {
+   "fa": "فارسی میانه",
+   "r": "fārsi-ye miyāne",
+   "en": "Middle Persian",
+   "faV": "فارسیِ میانه",
+   "a": "01a242e372bc"
+  },
+  {
+   "fa": "فارسی نو",
+   "r": "fārsi-ye now",
+   "en": "New Persian",
+   "faV": "فارسیِ نَو",
+   "a": "1fbf9ef3dbd5"
+  },
+  {
+   "fa": "پهلوی",
+   "r": "pahlavi",
+   "en": "Pahlavi: Middle Persian and its script",
+   "faV": "پَهلَوی",
+   "a": "ed68369ab836"
+  },
+  {
+   "fa": "خط میخی",
+   "r": "khatt-e mikhi",
+   "en": "cuneiform (lit. 'nail script')",
+   "faV": "خَطِّ میخی",
+   "a": "37e8e072850b"
+  },
+  {
+   "fa": "کتیبه",
+   "r": "katibe",
+   "en": "inscription",
+   "faV": "کَتیبه",
+   "a": "11260b2b9be2"
+  },
+  {
+   "fa": "دری",
+   "r": "dari",
+   "en": "Dari: early New Persian; Persian in Afghanistan",
+   "faV": "دَری",
+   "a": "f9c0fef80771"
+  },
+  {
+   "fa": "دربار",
+   "r": "darbār",
+   "en": "royal court",
+   "faV": "دَربار",
+   "a": "575a325bff06"
+  },
+  {
+   "fa": "شاعر",
+   "r": "shā'er",
+   "en": "poet",
+   "faV": "شاعِر",
+   "a": "45d6a2ecdeca"
+  },
+  {
+   "fa": "شعر",
+   "r": "she'r",
+   "en": "poem; poetry",
+   "faV": "شِعر",
+   "a": "116393d466d1"
+  },
+  {
+   "fa": "قرن",
+   "r": "gharn",
+   "en": "century",
+   "faV": "قَرن",
+   "a": "0733ab96d6e0"
+  },
+  {
+   "fa": "میلادی",
+   "r": "milādi",
+   "en": "AD, of the Christian era",
+   "faV": "میلادی",
+   "a": "4485f1c254a0"
+  },
+  {
+   "fa": "هجری",
+   "r": "hejri",
+   "en": "of the Hijra, the Islamic era",
+   "faV": "هِجری",
+   "a": "bcc33f12f854"
+  },
+  {
+   "fa": "مصوت",
+   "r": "mosavvat",
+   "en": "vowel",
+   "faV": "مُصَوَّت",
+   "a": "686dc3812002"
+  },
+  {
+   "fa": "امپراتوری",
+   "r": "emperāturi",
+   "en": "empire",
+   "faV": "اِمپِراتوری",
+   "a": "2b8a9101ccb7"
+  },
+  {
+   "fa": "ریشه",
+   "r": "rishe",
+   "en": "root; origin",
+   "faV": "ریشه",
+   "a": "a5e8e6f3c96f"
+  },
+  {
+   "fa": "تغییر کردن",
+   "r": "taghyir kardan",
+   "en": "to change",
+   "faV": "تَغییر کَردَن",
+   "a": "ccb507711b9c"
+  },
+  {
+   "fa": "عربی",
+   "r": "arabi",
+   "en": "Arabic",
+   "faV": "عَرَبی",
+   "a": "fab755816957"
+  }
  ],
  "facts": [
   "Darius's inscription at Bisotun (c. 520 BC) is in Old Persian, Elamite and Babylonian; in the 19th century it was the key to deciphering cuneiform.",
@@ -132,5 +274,7 @@
   "The prefix mi- of mi-ravam comes from hamē, 'always'; classical poets still write it as a separate word, hami.",
   "Classical Persian had the vowels ē and ō, so shēr 'lion' and shīr 'milk' were different words. Iranian Persian merged them; Dari still keeps them apart.",
   "Persian was the official language of the Mughal Empire and stayed the language of the law courts in British India until 1837."
- ]
+ ],
+ "titleV": "تاریخِ زَبانِ فارسی",
+ "titleA": "db83d17b4357"
 }
