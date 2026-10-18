@@ -23,6 +23,9 @@ DATA = os.path.join(ROOT, "data")
 ASSETS = os.path.join(ROOT, "assets")
 SITE_URL = "https://zhangbing9708-maker.github.io/Learn-Farsi/"
 REPO_URL = "https://github.com/zhangbing9708-maker/Learn-Farsi"
+_CFG_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "site_config.json")
+SITE_CONFIG = json.load(open(_CFG_PATH, encoding="utf-8")) if os.path.exists(_CFG_PATH) else {}
+GOOGLE_CLIENT_ID = (os.environ.get("LF_GOOGLE_CLIENT_ID") or SITE_CONFIG.get("google_client_id") or "").strip()
 PERSIAN = re.compile("[؀-ۿ]")
 FA_DIGITS = str.maketrans("0123456789", "۰۱۲۳۴۵۶۷۸۹")
 
@@ -85,7 +88,8 @@ TOOLS = [("dictionary", "Dictionary", "5,000 most common words with audio"),
          ("grammar", "Grammar", "Sentence patterns and every grammar point"),
          ("idioms", "Proverbs and idioms", "The sayings Iranians really use"),
          ("numbers", "Numbers and dates", "Write any number; today's Persian date"),
-         ("flashcards", "My flashcards", "Review your saved words")]
+         ("flashcards", "My flashcards", "Review your saved words"),
+         ("voice", "Friend's voice", "Record a Persian speaker; hear them on every page")]
 
 ASSET_VER = ""
 SEARCH = []      # search index entries
@@ -339,6 +343,7 @@ def study_bar(has_col=False, has_lines=True):
         b.append('<button type="button" data-toggle="col" aria-pressed="true">Spoken forms</button>')
     b.append('<button type="button" class="play-all" data-playall>Play all</button>'
              '<button type="button" class="save-off" data-offline hidden title="Keep this page and its recordings on this device">Save offline</button>'
+             '<button type="button" class="voice-btn" data-voice-toggle aria-pressed="false" title="Record a Persian-speaking friend reading these lines, and hear their voice">Friend\'s voice</button>'
              '<button type="button" class="print-btn" data-print title="Print on A4 paper, with the exercises as a worksheet and an answer key">Print</button></div>')
     return "".join(b)
 
@@ -431,7 +436,7 @@ def page(path, title, body, desc="", image=None, section="", depth=None, lang_no
 <link rel="stylesheet" href="{R}assets/style.css?v={ASSET_VER}">
 {extra_head}
 </head>
-<body data-root="{R}" data-section="{esc(section)}">
+<body data-root="{R}" data-section="{esc(section)}"{(' data-gcid="' + esc(GOOGLE_CLIENT_ID) + '"') if GOOGLE_CLIENT_ID else ''}>
 <a class="skip" href="#main">Skip to content</a>
 <header class="site">
 <div class="band" aria-hidden="true"></div>
@@ -457,6 +462,7 @@ def page(path, title, body, desc="", image=None, section="", depth=None, lang_no
 </div>
 </footer>
 <script src="{R}assets/app.js?v={ASSET_VER}" defer></script>
+<script src="{R}assets/voice.js?v={ASSET_VER}" defer></script>
 </body>
 </html>
 """
@@ -1097,6 +1103,29 @@ The text of the course is free to use and share under CC BY-SA 4.0; the code is 
     page("about/photos.html", "Photo credits", body, desc="Credits for the photos used on Learn Farsi.", section="about")
 
 
+def build_voice():
+    body = ('<div class="narrow" data-voice-page>' + head_block("Friend's voice", "صدای دوست", "sedā-ye dust", None,
+            "Do you know someone who speaks Persian? Ask them to read the lines of a lesson aloud. Next to every speaker icon on the site "
+            "you get two more buttons: a **microphone** to record your friend reading that line, and a **person** button to hear the recording. "
+            "You can also choose to hear your friend's voice instead of the computer voice everywhere – in dialogues, *Play all* and the listening exercises.")
+            + '<section class="blk"><h2>Where your recordings are kept</h2><p class="vstatus" data-voice-status>…</p>'
+            + '<p class="vbtns"><button type="button" class="btn gbtn" data-voice-signin>Sign in with Google</button> '
+            + '<button type="button" class="btn-quiet" data-voice-device>Keep them on this device only</button> '
+            + '<button type="button" class="btn-quiet" data-voice-signout hidden>Sign out of Google</button></p>'
+            + '<p class="note" data-voice-noclient hidden>Google sign-in has not been switched on for this copy of the site yet, so for now recordings can be kept on this device only.</p>'
+            + '<div data-voice-settings hidden><p><label><input type="checkbox" data-voice-show> Show the record and play buttons next to every speaker icon</label></p>'
+            + '<p><label><input type="checkbox" data-voice-prefer> Use my friend\'s voice instead of the computer voice when there is a recording</label></p></div></section>'
+            + '<section class="blk"><h2>My recordings</h2><div data-voice-list></div></section>'
+            + '<section class="blk"><h2>Privacy</h2>' + md(
+                "- With Google, each recording is saved as a small audio file in the **hidden app-data folder of your own Google Drive**. "
+                "This site asks only for access to that folder (`drive.appdata`): it cannot see, open or change anything else in your Drive, and the files don't appear among your documents.\n"
+                "- The site has no server. Your recordings go straight from your browser to your Google Drive and back – they are never sent to the site's authors, never added to the site's code on GitHub and never shared with other learners.\n"
+                "- *On this device only* keeps the recordings in this browser's storage instead; clearing the browser's site data deletes them.\n"
+                "- Delete any recording above. To remove everything, open Google Drive → Settings → Manage apps → Learn Farsi → *Delete hidden app data*.\n"
+                "- Always ask your friend before you record them.") + "</section></div>")
+    page("voice/index.html", "Friend's voice", body, desc="Record a Persian-speaking friend and hear their voice on every page – saved privately in your own Google Drive.", section="voice")
+
+
 def build_offline():
     """offline.html, the web app manifest and the service worker that keeps visited pages and recordings."""
     body = ('<div class="narrow">' + head_block("You're offline", "آفلاین هستید", "āflāyn hastid", None,
@@ -1128,7 +1157,7 @@ var STATIC = "lf-static-" + VER, PAGES = "lf-pages", AUDIO = "lf-audio", FONTS =
 
 self.addEventListener("install", function (e) {
   e.waitUntil(caches.open(STATIC).then(function (c) {
-    return c.addAll(["offline.html", "assets/style.css?v=" + VER, "assets/app.js?v=" + VER, "assets/favicon.svg"]);
+    return c.addAll(["offline.html", "assets/style.css?v=" + VER, "assets/app.js?v=" + VER, "assets/voice.js?v=" + VER, "assets/favicon.svg"]);
   }).then(function () { return self.skipWaiting(); }));
 });
 
@@ -1438,7 +1467,7 @@ def write_data():
 def main():
     global ASSET_VER
     h = hashlib.sha1()
-    for f in ("style.css", "app.js"):
+    for f in ("style.css", "app.js", "voice.js"):
         p = os.path.join(ASSETS, f)
         if os.path.exists(p):
             h.update(open(p, "rb").read())
@@ -1461,6 +1490,7 @@ def main():
     build_about()
     build_home(culture_order, news)
     build_404()
+    build_voice()
     build_offline()
     n_search, n_conc = write_data()
     print(f"Built {len(PAGES)} pages: {len(LESSONS)} lessons, {len(STORIES)} stories, {len(ARTICLES)} articles, {len(POEMS)} poems, "

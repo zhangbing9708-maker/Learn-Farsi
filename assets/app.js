@@ -66,13 +66,23 @@
     curBtn = btn || null;
     if (curBtn) curBtn.classList.add("on");
     onEnd = done || null;
-    audio.src = R + "data/audio/fa/" + a + ".mp3";
+    var V = window.LFVoice;
+    if (V && V.prefer() && V.has(a)) {          /* a friend's recording, if the learner prefers it */
+      V.url(a).then(function (u) { start(u); }, function () { start(R + "data/audio/fa/" + a + ".mp3"); });
+      return;
+    }
+    start(R + "data/audio/fa/" + a + ".mp3");
+  }
+  function start(src) {
+    audio.src = src;
     var p = audio.play();
     if (p && p.catch) p.catch(function () { finish(); });
   }
   function finish() { if (curBtn) curBtn.classList.remove("on"); curBtn = null; var f = onEnd; onEnd = null; if (f) f(); }
   audio.addEventListener("ended", finish);
   audio.addEventListener("error", finish);
+  window.LF = { R: R, h: h, faEl: faEl, isFa: isFa, store: store, $: $, $$: $$, play: play,
+    stop: function () { audio.pause(); finish(); } };
   document.addEventListener("click", function (e) {
     var b = e.target.closest(".say, .ab-btn");
     if (b && b.getAttribute("data-a")) { e.preventDefault(); stopAll(); play(b.getAttribute("data-a"), b); return; }
