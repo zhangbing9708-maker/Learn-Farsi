@@ -40,85 +40,229 @@
   {
    "fa": "داریوش بزرگ از سال ۵۲۲ تا ۴۸۶ پیش از میلاد پادشاه بود.",
    "r": "Dāriush-e bozorg az sāl-e pānsad-o-bist-o-do tā chahārsad-o-hashtād-o-shesh pish az milād pādshāh bud.",
-   "en": "Darius the Great was king from 522 to 486 BC."
+   "en": "Darius the Great was king from 522 to 486 BC.",
+   "faV": "داریوشِ بُزُرگ اَز سالِ ۵۲۲ تا ۴۸۶ پیش اَز میلاد پادشاه بود.",
+   "a": "ef5a81f27e60"
   },
   {
    "fa": "داریوش می‌گوید که در یک سال نوزده نبرد را برده است.",
    "r": "Dāriush mi-guyad ke dar yek sāl nuzdah nabard rā borde ast.",
-   "en": "Darius says that he won nineteen battles in one year."
+   "en": "Darius says that he won nineteen battles in one year.",
+   "faV": "داریوش می‌گویَد که دَر یِک سال نوزدَه نَبَرد را بُرده اَست.",
+   "a": "edc94381e9d0"
   },
   {
    "fa": "او کشور بزرگش را به چند استان تقسیم کرد.",
    "r": "u keshvar-e bozorg-ash rā be chand ostān taghsim kard.",
-   "en": "He divided his large country into several provinces."
+   "en": "He divided his large country into several provinces.",
+   "faV": "او کِشوَرِ بُزُرگَش را به چَند اُستان تَقسیم کَرد.",
+   "a": "20dec71ca4e1"
   },
   {
    "fa": "هر استان یک ساتراپ داشت که از طرف شاه حکومت می‌کرد.",
    "r": "har ostān yek sātrāp dāsht ke az taraf-e shāh hokumat mi-kard.",
-   "en": "Each province had a satrap who ruled on behalf of the king."
+   "en": "Each province had a satrap who ruled on behalf of the king.",
+   "faV": "هَر اُستان یِک ساتراپ داشت که اَز طَرَفِ شاه حُکومَت می‌کَرد.",
+   "a": "b63e9a67c6a0"
   },
   {
    "fa": "سنگ‌نوشته‌ی بیستون به سه زبان نوشته شده است.",
    "r": "sang-neveshte-ye Bisotun be se zabān neveshte shode ast.",
-   "en": "The Behistun inscription is written in three languages."
+   "en": "The Behistun inscription is written in three languages.",
+   "faV": "سَنگ‌نِوِشته‌یِ بیسُتون به سه زَبان نِوِشته شُده اَست.",
+   "a": "a6c1b96a0485"
   },
   {
    "fa": "این کتیبه نزدیک کرمانشاه، بالای یک کوه بلند است.",
    "r": "in katibe nazdik-e Kermānshāh, bālā-ye yek kuh-e boland ast.",
-   "en": "This inscription is near Kermanshah, high up on a tall mountain."
+   "en": "This inscription is near Kermanshah, high up on a tall mountain.",
+   "faV": "این کَتیبه نَزدیکِ کِرمانشاه، بالایِ یِک کوهِ بُلَند اَست.",
+   "a": "25c5a56c500c"
   },
   {
    "fa": "راه شاهی از سارد تا شوش ادامه داشت.",
    "r": "rāh-e shāhi az Sārd tā Shush edāme dāsht.",
-   "en": "The Royal Road ran from Sardis to Susa."
+   "en": "The Royal Road ran from Sardis to Susa.",
+   "faV": "راهِ شاهی اَز سارد تا شوش اِدامه داشت.",
+   "a": "b1b89451bb54"
   },
   {
    "fa": "چاپارها در هر ایستگاه اسب تازه می‌گرفتند.",
    "r": "chāpār-hā dar har istgāh asb-e tāze mi-gereftand.",
-   "en": "The couriers took a fresh horse at every station."
+   "en": "The couriers took a fresh horse at every station.",
+   "faV": "چاپارها دَر هَر ایستگاه اَسبِ تازه می‌گِرِفتَند.",
+   "a": "33bb0a7a992a"
   },
   {
    "fa": "یک مسافر معمولی این راه را در سه ماه می‌رفت.",
    "r": "yek mosāfer-e ma'muli in rāh rā dar se māh mi-raft.",
-   "en": "An ordinary traveller covered this road in three months."
+   "en": "An ordinary traveller covered this road in three months.",
+   "faV": "یِک مُسافِرِ مَعمولی این راه را دَر سه ماه می‌رَفت.",
+   "a": "63d1c6bac9c8"
   },
   {
    "fa": "داریوش در شوش کاخ بزرگی ساخت.",
    "r": "Dāriush dar Shush kākh-e bozorg-i sākht.",
-   "en": "Darius built a great palace in Susa."
+   "en": "Darius built a great palace in Susa.",
+   "faV": "داریوش دَر شوش کاخِ بُزُرگی ساخت.",
+   "a": "e4d595a31cbb"
   },
   {
    "fa": "صنعتگران از همه‌ی سرزمین‌های شاهنشاهی برای ساختن کاخ آمدند.",
    "r": "san'atgarān az hame-ye sarzamin-hā-ye shāhanshāhi barā-ye sākhtan-e kākh āmadand.",
-   "en": "Craftsmen came from all the lands of the empire to build the palace."
+   "en": "Craftsmen came from all the lands of the empire to build the palace.",
+   "faV": "صَنعَتگَران اَز هَمه‌یِ سَرزَمین‌هایِ شاهَنشاهی بَرایِ ساختَنِ کاخ آمَدَند.",
+   "a": "e158e5738e59"
   },
   {
    "fa": "آرامگاه داریوش در نقش رستم است.",
    "r": "ārāmgāh-e Dāriush dar Naghsh-e Rostam ast.",
-   "en": "The tomb of Darius is at Naqsh-e Rostam."
+   "en": "The tomb of Darius is at Naqsh-e Rostam.",
+   "faV": "آرامگاهِ داریوش دَر نَقشِ رُستَم اَست.",
+   "a": "4d50a89c6a77"
   }
  ],
  "vocab": [
-  {"fa": "پادشاه", "r": "pādshāh", "en": "king"},
-  {"fa": "شاهنشاهی", "r": "shāhanshāhi", "en": "empire"},
-  {"fa": "شورش", "r": "shuresh", "en": "revolt, uprising"},
-  {"fa": "نبرد", "r": "nabard", "en": "battle"},
-  {"fa": "استان", "r": "ostān", "en": "province"},
-  {"fa": "ساتراپ", "r": "sātrāp", "en": "satrap, provincial governor"},
-  {"fa": "خراج", "r": "kharāj", "en": "tribute, tax"},
-  {"fa": "حکومت کردن", "r": "hokumat kardan", "en": "to rule, to govern"},
-  {"fa": "سنگ‌نوشته", "r": "sang-neveshte", "en": "rock inscription"},
-  {"fa": "کتیبه", "r": "katibe", "en": "inscription"},
-  {"fa": "خط میخی", "r": "khatt-e mikhi", "en": "cuneiform script"},
-  {"fa": "راه", "r": "rāh", "en": "road, way"},
-  {"fa": "چاپار", "r": "chāpār", "en": "courier, mounted messenger"},
-  {"fa": "ایستگاه", "r": "istgāh", "en": "station"},
-  {"fa": "اسب", "r": "asb", "en": "horse"},
-  {"fa": "مسافر", "r": "mosāfer", "en": "traveller, passenger"},
-  {"fa": "کاخ", "r": "kākh", "en": "palace"},
-  {"fa": "صنعتگر", "r": "san'atgar", "en": "craftsman"},
-  {"fa": "آرامگاه", "r": "ārāmgāh", "en": "tomb, mausoleum"},
-  {"fa": "سکه", "r": "sekke", "en": "coin"}
+  {
+   "fa": "پادشاه",
+   "r": "pādshāh",
+   "en": "king",
+   "faV": "پادشاه",
+   "a": "9f02731db003"
+  },
+  {
+   "fa": "شاهنشاهی",
+   "r": "shāhanshāhi",
+   "en": "empire",
+   "faV": "شاهَنشاهی",
+   "a": "482cd53501c3"
+  },
+  {
+   "fa": "شورش",
+   "r": "shuresh",
+   "en": "revolt, uprising",
+   "faV": "شورِش",
+   "a": "3f8393a2960f"
+  },
+  {
+   "fa": "نبرد",
+   "r": "nabard",
+   "en": "battle",
+   "faV": "نَبَرد",
+   "a": "bd15aa593716"
+  },
+  {
+   "fa": "استان",
+   "r": "ostān",
+   "en": "province",
+   "faV": "اُستان",
+   "a": "73cb885dea3c"
+  },
+  {
+   "fa": "ساتراپ",
+   "r": "sātrāp",
+   "en": "satrap, provincial governor",
+   "faV": "ساتراپ",
+   "a": "b84434198840"
+  },
+  {
+   "fa": "خراج",
+   "r": "kharāj",
+   "en": "tribute, tax",
+   "faV": "خَراج",
+   "a": "bb0292d577a1"
+  },
+  {
+   "fa": "حکومت کردن",
+   "r": "hokumat kardan",
+   "en": "to rule, to govern",
+   "faV": "حُکومَت کَردَن",
+   "a": "ea8c2f8ca2e0"
+  },
+  {
+   "fa": "سنگ‌نوشته",
+   "r": "sang-neveshte",
+   "en": "rock inscription",
+   "faV": "سَنگ‌نِوِشته",
+   "a": "b88382295385"
+  },
+  {
+   "fa": "کتیبه",
+   "r": "katibe",
+   "en": "inscription",
+   "faV": "کَتیبه",
+   "a": "11260b2b9be2"
+  },
+  {
+   "fa": "خط میخی",
+   "r": "khatt-e mikhi",
+   "en": "cuneiform script",
+   "faV": "خَطِّ میخی",
+   "a": "37e8e072850b"
+  },
+  {
+   "fa": "راه",
+   "r": "rāh",
+   "en": "road, way",
+   "faV": "راه",
+   "a": "eea09733ee90"
+  },
+  {
+   "fa": "چاپار",
+   "r": "chāpār",
+   "en": "courier, mounted messenger",
+   "faV": "چاپار",
+   "a": "685a976e2145"
+  },
+  {
+   "fa": "ایستگاه",
+   "r": "istgāh",
+   "en": "station",
+   "faV": "ایستگاه",
+   "a": "320c86a1080b"
+  },
+  {
+   "fa": "اسب",
+   "r": "asb",
+   "en": "horse",
+   "faV": "اَسب",
+   "a": "bd1e82315c6d"
+  },
+  {
+   "fa": "مسافر",
+   "r": "mosāfer",
+   "en": "traveller, passenger",
+   "faV": "مُسافِر",
+   "a": "10db1dff73df"
+  },
+  {
+   "fa": "کاخ",
+   "r": "kākh",
+   "en": "palace",
+   "faV": "کاخ",
+   "a": "882ce17e5b40"
+  },
+  {
+   "fa": "صنعتگر",
+   "r": "san'atgar",
+   "en": "craftsman",
+   "faV": "صَنعَتگَر",
+   "a": "e19bbf00c77f"
+  },
+  {
+   "fa": "آرامگاه",
+   "r": "ārāmgāh",
+   "en": "tomb, mausoleum",
+   "faV": "آرامگاه",
+   "a": "0acb7fd637bb"
+  },
+  {
+   "fa": "سکه",
+   "r": "sekke",
+   "en": "coin",
+   "faV": "سِکّه",
+   "a": "0f9f6fa03f07"
+  }
  ],
  "facts": [
   "Darius I reigned for 36 years, from 522 to 486 BC.",
@@ -128,5 +272,7 @@
   "Herodotus' praise of the Persian royal couriers is carved on the James Farley Post Office in New York.",
   "The gold daric, introduced under Darius, was one of the first gold coins of the ancient world.",
   "Glazed brick friezes of archers from Darius's palace at Susa are displayed in the Louvre."
- ]
+ ],
+ "titleV": "داریوش و راهِ شاهی",
+ "titleA": "e697da5f4637"
 }

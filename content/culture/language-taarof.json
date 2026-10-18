@@ -41,101 +41,253 @@
    "r": "befarmāyid chāy.",
    "en": "Please, have some tea.",
    "col": "بفرمایین چای.",
-   "colR": "befarmāyin chāy."
+   "colR": "befarmāyin chāy.",
+   "faV": "بِفَرمایید چای.",
+   "a": "b87622550cdd",
+   "colV": "بِفَرمایین چای.",
+   "colA": "4006f53890fc"
   },
   {
    "fa": "نه، ممنون، زحمت نکشید.",
    "r": "na, mamnun, zahmat na-keshid.",
    "en": "No, thank you, please don't trouble yourself.",
    "col": "نه، مرسی، زحمت نکشین.",
-   "colR": "na, mersi, zahmat na-keshin."
+   "colR": "na, mersi, zahmat na-keshin.",
+   "faV": "نه، مَمنون، زَحمَت نَکِشید.",
+   "a": "25d36bb7f6cb",
+   "colV": "نه، مِرسی، زَحمَت نَکِشین.",
+   "colA": "bd810c72673b"
   },
   {
    "fa": "تعارف نکنید، بفرمایید.",
    "r": "ta'ārof na-konid, befarmāyid.",
    "en": "Don't be shy, help yourself.",
    "col": "تعارف نکنین، بفرمایین.",
-   "colR": "ta'ārof na-konin, befarmāyin."
+   "colR": "ta'ārof na-konin, befarmāyin.",
+   "faV": "تَعارُف نَکُنید، بِفَرمایید.",
+   "a": "edb6b564df2e",
+   "colV": "تَعارُف نَکُنین، بِفَرمایین.",
+   "colA": "e9613748a760"
   },
   {
    "fa": "قابل ندارد.",
    "r": "ghābel na-dārad.",
    "en": "It's nothing – it isn't worthy of you.",
    "col": "قابل نداره.",
-   "colR": "ghābel na-dāre."
+   "colR": "ghābel na-dāre.",
+   "faV": "قابِل نَدارَد.",
+   "a": "ac255db26e53",
+   "colV": "قابِل نَداره.",
+   "colA": "849b8bff2c0b"
   },
   {
    "fa": "خواهش می‌کنم، چقدر می‌شود؟",
    "r": "khāhesh mi-konam, cheghadr mi-shavad?",
    "en": "Please, how much is it?",
    "col": "خواهش می‌کنم، چقدر می‌شه؟",
-   "colR": "khāhesh mi-konam, cheghadr mi-she?"
+   "colR": "khāhesh mi-konam, cheghadr mi-she?",
+   "faV": "خواهِش می‌کُنَم، چِقَدر می‌شَوَد؟",
+   "a": "83cd18f803f3",
+   "colV": "خواهِش می‌کُنَم، چِقَدر می‌شه؟",
+   "colA": "66df98d91b22"
   },
   {
    "fa": "نه، شما بفرمایید.",
    "r": "na, shomā befarmāyid.",
    "en": "No, after you.",
    "col": "نه، شما بفرمایین.",
-   "colR": "na, shomā befarmāyin."
+   "colR": "na, shomā befarmāyin.",
+   "faV": "نه، شُما بِفَرمایید.",
+   "a": "7318c7815b35",
+   "colV": "نه، شُما بِفَرمایین.",
+   "colA": "1236c9afed29"
   },
   {
    "fa": "ببخشید، پشتم به شماست.",
    "r": "bebakhshid, posht-am be shomāst.",
-   "en": "Sorry, my back is to you."
+   "en": "Sorry, my back is to you.",
+   "faV": "بِبَخشید، پُشتَم به شُماست.",
+   "a": "1c0d5726e7ba"
   },
   {
    "fa": "گل پشت و رو ندارد.",
    "r": "gol posht o ru na-dārad.",
    "en": "A flower has no back or front.",
    "col": "گل پشت و رو نداره.",
-   "colR": "gol posht o ru na-dāre."
+   "colR": "gol posht o ru na-dāre.",
+   "faV": "گُل پُشت و رو نَدارَد.",
+   "a": "ab2e2bd2de86",
+   "colV": "گُل پُشت و رو نَداره.",
+   "colA": "d4e5f871f355"
   },
   {
    "fa": "دستتان درد نکند، خیلی خوشمزه بود.",
    "r": "dast-etān dard na-konad, kheyli khoshmaze bud.",
    "en": "Thank you, it was delicious.",
    "col": "دستتون درد نکنه، خیلی خوشمزه بود.",
-   "colR": "dast-etun dard na-kone, kheyli khoshmaze bud."
+   "colR": "dast-etun dard na-kone, kheyli khoshmaze bud.",
+   "faV": "دَستِتان دَرد نَکُنَد، خَیلی خوشمَزه بود.",
+   "a": "2c024bc275c5",
+   "colV": "دَستِتون دَرد نَکُنه، خَیلی خوشمَزه بود.",
+   "colA": "77eca43e9dcf"
   },
   {
    "fa": "تعارف نمی‌کنم، واقعاً سیرم.",
    "r": "ta'ārof nemi-konam, vāghe'an sir-am.",
-   "en": "I'm not just being polite, I'm really full."
+   "en": "I'm not just being polite, I'm really full.",
+   "faV": "تَعارُف نِمی‌کُنَم، واقِعاً سیرَم.",
+   "a": "d28cc5d2b706"
   },
   {
    "fa": "شام بمانید، تعارف نکنید.",
    "r": "shām be-mānid, ta'ārof na-konid.",
    "en": "Stay for dinner – don't be polite about it.",
    "col": "شام بمونین، تعارف نکنین.",
-   "colR": "shām be-munin, ta'ārof na-konin."
+   "colR": "shām be-munin, ta'ārof na-konin.",
+   "faV": "شام بِمانید، تَعارُف نَکُنید.",
+   "a": "11c91acbd638",
+   "colV": "شام بِمونین، تَعارُف نَکُنین.",
+   "colA": "6dafc97cf77a"
   },
   {
    "fa": "خسته نباشید!",
    "r": "khaste na-bāshid!",
    "en": "Well done – thank you for your work!",
    "col": "خسته نباشین!",
-   "colR": "khaste na-bāshin!"
+   "colR": "khaste na-bāshin!",
+   "faV": "خَسته نَباشید!",
+   "a": "049de4b91410",
+   "colV": "خَسته نَباشین!",
+   "colA": "056bbe2c1e5d"
   }
  ],
  "vocab": [
-  {"fa": "تعارف", "r": "ta'ārof", "en": "ritual politeness; a polite offer"},
-  {"fa": "تعارف کردن", "r": "ta'ārof kardan", "en": "to offer; to stand on ceremony"},
-  {"fa": "بفرمایید", "r": "befarmāyid", "en": "please (go ahead, come in, help yourself)"},
-  {"fa": "قابل", "r": "ghābel", "en": "worthy"},
-  {"fa": "مهمان", "r": "mehmān", "en": "guest"},
-  {"fa": "میزبان", "r": "mizbān", "en": "host"},
-  {"fa": "زحمت", "r": "zahmat", "en": "trouble, effort"},
-  {"fa": "اصرار کردن", "r": "esrār kardan", "en": "to insist"},
-  {"fa": "ادب", "r": "adab", "en": "manners, politeness"},
-  {"fa": "مؤدب", "r": "mo'addab", "en": "polite"},
-  {"fa": "لطف", "r": "lotf", "en": "kindness, favour"},
-  {"fa": "خواهش می‌کنم", "r": "khāhesh mi-konam", "en": "please; you're welcome"},
-  {"fa": "شرمنده", "r": "sharmande", "en": "embarrassed, ashamed (also: thank you)"},
-  {"fa": "اختیار دارید", "r": "ekhtiyār dārid", "en": "not at all, you're too kind"},
-  {"fa": "خسته نباشید", "r": "khaste na-bāshid", "en": "may you not be tired (greeting to someone working)"},
-  {"fa": "دستتان درد نکند", "r": "dast-etān dard na-konad", "en": "thank you (lit. may your hand not hurt)"},
-  {"fa": "سیر", "r": "sir", "en": "full (after eating)"},
-  {"fa": "پشت", "r": "posht", "en": "back"}
+  {
+   "fa": "تعارف",
+   "r": "ta'ārof",
+   "en": "ritual politeness; a polite offer",
+   "faV": "تَعارُف",
+   "a": "3c42bf843630"
+  },
+  {
+   "fa": "تعارف کردن",
+   "r": "ta'ārof kardan",
+   "en": "to offer; to stand on ceremony",
+   "faV": "تَعارُف کَردَن",
+   "a": "049c0a5c104c"
+  },
+  {
+   "fa": "بفرمایید",
+   "r": "befarmāyid",
+   "en": "please (go ahead, come in, help yourself)",
+   "faV": "بِفَرمایید",
+   "a": "13b07409fa24"
+  },
+  {
+   "fa": "قابل",
+   "r": "ghābel",
+   "en": "worthy",
+   "faV": "قابِل",
+   "a": "6052d55b7cb5"
+  },
+  {
+   "fa": "مهمان",
+   "r": "mehmān",
+   "en": "guest",
+   "faV": "مِهمان",
+   "a": "d96e2860a669"
+  },
+  {
+   "fa": "میزبان",
+   "r": "mizbān",
+   "en": "host",
+   "faV": "میزبان",
+   "a": "0c73091d5782"
+  },
+  {
+   "fa": "زحمت",
+   "r": "zahmat",
+   "en": "trouble, effort",
+   "faV": "زَحمَت",
+   "a": "f7c655bceb71"
+  },
+  {
+   "fa": "اصرار کردن",
+   "r": "esrār kardan",
+   "en": "to insist",
+   "faV": "اِصرار کَردَن",
+   "a": "b993ada24acb"
+  },
+  {
+   "fa": "ادب",
+   "r": "adab",
+   "en": "manners, politeness",
+   "faV": "اَدَب",
+   "a": "0d452121beb5"
+  },
+  {
+   "fa": "مؤدب",
+   "r": "mo'addab",
+   "en": "polite",
+   "faV": "مُؤَدَّب",
+   "a": "218743c341aa"
+  },
+  {
+   "fa": "لطف",
+   "r": "lotf",
+   "en": "kindness, favour",
+   "faV": "لُطف",
+   "a": "5dd22b36b75d"
+  },
+  {
+   "fa": "خواهش می‌کنم",
+   "r": "khāhesh mi-konam",
+   "en": "please; you're welcome",
+   "faV": "خواهِش می‌کُنَم",
+   "a": "7734a4d18671"
+  },
+  {
+   "fa": "شرمنده",
+   "r": "sharmande",
+   "en": "embarrassed, ashamed (also: thank you)",
+   "faV": "شَرمَنده",
+   "a": "be00b3035815"
+  },
+  {
+   "fa": "اختیار دارید",
+   "r": "ekhtiyār dārid",
+   "en": "not at all, you're too kind",
+   "faV": "اِختیار دارید",
+   "a": "06dfb43cc6ef"
+  },
+  {
+   "fa": "خسته نباشید",
+   "r": "khaste na-bāshid",
+   "en": "may you not be tired (greeting to someone working)",
+   "faV": "خَسته نَباشید",
+   "a": "38304031aabf"
+  },
+  {
+   "fa": "دستتان درد نکند",
+   "r": "dast-etān dard na-konad",
+   "en": "thank you (lit. may your hand not hurt)",
+   "faV": "دَستِتان دَرد نَکُنَد",
+   "a": "2b46da5c7488"
+  },
+  {
+   "fa": "سیر",
+   "r": "sir",
+   "en": "full (after eating)",
+   "faV": "سیر",
+   "a": "757a86eaf3b4"
+  },
+  {
+   "fa": "پشت",
+   "r": "posht",
+   "en": "back",
+   "faV": "پُشت",
+   "a": "1e9de492abe0"
+  }
  ],
  "facts": [
   "Ta'ārof comes from Arabic ta'āruf, 'getting to know one another', from a root meaning 'to know'.",
@@ -144,5 +296,7 @@
   "Ghābel nadāre from a shopkeeper or taxi driver is not an offer of free goods: the customer is expected to insist on paying.",
   "Ta'arof lowers yourself and raises the other: a host may call his home kolbe-ye darvishi, 'a dervish's hut'.",
   "The proverb mehmān habib-e khodāst, 'the guest is the friend of God', sums up the Iranian idea of hospitality."
- ]
+ ],
+ "titleV": "تَعارُف",
+ "titleA": "3c42bf843630"
 }

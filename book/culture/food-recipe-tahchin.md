@@ -50,7 +50,7 @@ The name means 'arranged at the bottom', from ته (*tah*, ‘bottom’) and چ�
 
 ### Variations
 
-Chicken tahchin (ته‌چین مرغ (*tah-chin-e morgh*, ‘chicken tahchin’)) is the most common, but some cooks use lamb, and vegetarian versions are layered with fried aubergine or spinach. Some families flavour the meat with a little orange zest or cinnamon. Leftover tahchin is good cold the next day, in a sandwich or with yoghurt.
+Chicken tahchin (ته‌چین مرغ (*tah-chin-e morgh*, ‘chicken tahchin’)) is the most common, but some cooks use lamb, and vegetarian versions are layered with fried aubergine or spinach. Leftover tahchin is good cold the next day, in a sandwich or with yoghurt.
 
 ### Facts
 

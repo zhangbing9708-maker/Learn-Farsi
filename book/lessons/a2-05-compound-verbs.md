@@ -355,9 +355,9 @@ It is a family job, and the verbs of this lesson fill the house: فرش‌ها �
 **Put the words in order**
 
 1. نمی‌کنم. / کار / امروز — I'm not working today.
-2. زنگ / مادرم / نزدم. / به — I didn't ring my mother.
-3. کمکتان / می‌توانم / کنم؟ — Can I help you?
-4. می‌شویم. / بعدی / پیاده / ایستگاه / در — We're getting off at the next station.
+2. مادرم / زنگ / نزدم. / به — I didn't ring my mother.
+3. کنم؟ / کمکتان / می‌توانم — Can I help you?
+4. بعدی / در / پیاده / ایستگاه / می‌شویم. — We're getting off at the next station.
 
 <details><summary>Answers</summary>
 

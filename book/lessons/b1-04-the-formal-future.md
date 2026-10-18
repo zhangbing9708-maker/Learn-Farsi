@@ -339,10 +339,10 @@ The road in the forecast is real, too: the Chalus road climbs from Karaj over th
 
 **Put the words in order**
 
-1. فردا / مسابقه / نتیجه‌ی / اعلام / خواهد / شد. — The result of the competition will be announced tomorrow.
-2. آینده / رفت. / ما / هفته‌ی / خواهیم / به / شیراز — We will go to Shiraz next week.
-3. فراموش / را / هرگز / روز / کرد. / این / نخواهم — I will never forget this day.
-4. برسند. / ساعت / مهمان‌ها / است / قرار / هشت — The guests are supposed to arrive at eight.
+1. اعلام / نتیجه‌ی / شد. / فردا / مسابقه / خواهد — The result of the competition will be announced tomorrow.
+2. هفته‌ی / آینده / شیراز / رفت. / خواهیم / ما / به — We will go to Shiraz next week.
+3. را / این / هرگز / روز / نخواهم / کرد. / فراموش — I will never forget this day.
+4. هشت / مهمان‌ها / قرار / ساعت / برسند. / است — The guests are supposed to arrive at eight.
 
 <details><summary>Answers</summary>
 

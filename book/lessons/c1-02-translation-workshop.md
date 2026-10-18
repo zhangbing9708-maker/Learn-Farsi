@@ -390,10 +390,10 @@ Iranian cinema and television add a third tradition: **dubbing** (دوبله (*d
 
 **Put the words in order**
 
-1. تام / هر / با / روز / می‌رود. / دانشگاه / به / مترو — Tom goes to university by metro every day.
-2. که / ترجمه‌ی / است. / خوبی / خریدم / کتابی — The book I bought is a good translation.
-3. که / شش / می‌کنم. / است / تهران / زندگی / در / ماه — I've been living in Tehran for six months.
-4. معادل / واژه / انگلیسی / ندارد. / دقیقی / این / در — This word has no exact equivalent in English.
+1. دانشگاه / تام / با / مترو / روز / هر / به / می‌رود. — Tom goes to university by metro every day.
+2. است. / که / خریدم / کتابی / ترجمه‌ی / خوبی — The book I bought is a good translation.
+3. در / ماه / تهران / شش / زندگی / می‌کنم. / که / است — I've been living in Tehran for six months.
+4. معادل / ندارد. / انگلیسی / در / این / دقیقی / واژه — This word has no exact equivalent in English.
 
 <details><summary>Answers</summary>
 

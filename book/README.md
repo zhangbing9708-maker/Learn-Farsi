@@ -149,6 +149,7 @@ Graded readers, from very easy to literary.
 - [The crow and the fox](stories/a2-the-crow-and-the-fox.md) — کلاغ و روباه
 - [Mina makes tahdig](stories/a2-mina-makes-tahdig.md) — ته‌دیگ مینا
 - [Snow day in Tehran](stories/a2-snow-day-in-tehran.md) — روز برفی در تهران
+- [Tom buys a phone](stories/a2-tom-buys-a-phone.md) — تام گوشی می‌خرد
 
 **Intermediate (B1)**
 
@@ -164,6 +165,7 @@ Graded readers, from very easy to literary.
 - [A letter from Shiraz](stories/b1-a-letter-from-shiraz.md) — نامه‌ای از شیراز
 - [The carpet weaver of Kashan](stories/b1-the-carpet-weaver-of-kashan.md) — قالی‌باف کاشان
 - [Chaharshanbe Suri](stories/b1-chaharshanbe-suri.md) — چهارشنبه‌سوری
+- [Tales from the Golestan](stories/b1-the-golestan-tales.md) — حکایت‌های گلستان
 
 **Upper intermediate (B2)**
 

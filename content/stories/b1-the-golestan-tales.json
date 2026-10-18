@@ -1,0 +1,88 @@
+{
+ "id": "b1-the-golestan-tales",
+ "level": "B1",
+ "kind": "fable",
+ "title": "Tales from the Golestan",
+ "titleFa": "حکایت‌های گلستان",
+ "titleR": "hekāyat-hā-ye Golestān",
+ "image": "saadi",
+ "intro": "Saadi's Golestan (The Rose Garden, 1258) is the best-loved book of Persian prose: short anecdotes, each with a lesson about kings, wise men, the rich and the poor. Here are four of them, retold in plain modern Persian. Read them for the past perfect (ندیده بود, نگه داشته بودم), for the subjunctive after تا and اگر, and for the way each tale ends on one sharp sentence.",
+ "source": "Retold freely in modern prose from anecdotes in Saadi's Golestan (13th century, public domain); one line is quoted from the original.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {"fa": "سعدی، شاعر بزرگ شیراز، حدود هشتصد سال پیش کتابی نوشت که نامش گلستان است.", "r": "Sa'di, shā'er-e bozorg-e Shirāz, hodud-e hashtsad sāl pish ketāb-i nevesht ke nām-ash Golestān ast.", "en": "Saadi, the great poet of Shiraz, wrote a book about eight hundred years ago whose name is the Golestan."},
+    {"fa": "گلستان پر از حکایت‌های کوتاهی است که هر کدام درسی برای زندگی دارند.", "r": "Golestān por az hekāyat-hā-ye kutāh-i ast ke har kodām dars-i barā-ye zendegi dārand.", "en": "The Golestan is full of short anecdotes, each of which holds a lesson for life."},
+    {"fa": "این‌جا چهار حکایت از این کتاب را به زبان ساده‌ی امروز می‌خوانیم.", "r": "in-jā chahār hekāyat az in ketāb rā be zabān-e sāde-ye emruz mi-khānim.", "en": "Here we read four anecdotes from this book in the simple language of today."}
+   ]
+  },
+  {
+   "sentences": [
+    {"fa": "پادشاهی با غلامش در کشتی نشسته بود؛ غلام هرگز دریا را ندیده بود.", "r": "pādeshāh-i bā gholām-ash dar keshti neshaste bud; gholām hargez daryā rā na-dide bud.", "en": "A king was sitting in a boat with his slave; the slave had never seen the sea."},
+    {"fa": "وقتی موج‌ها بلند شدند، غلام شروع به گریه و فریاد کرد و تمام بدنش می‌لرزید.", "r": "vaghti mowj-hā boland shodand, gholām shoru' be gerye o faryād kard o tamām-e badan-ash mi-larzid.", "en": "When the waves rose, the slave began to weep and shout, and his whole body was trembling."},
+    {"fa": "هر چه به او دلداری دادند، آرام نشد و شادی سفر پادشاه را خراب کرد.", "r": "har che be u deldāri dādand, ārām na-shod o shādi-ye safar-e pādeshāh rā kharāb kard.", "en": "However much they comforted him, he did not calm down, and he spoiled the king's pleasure in the voyage."},
+    {"fa": "حکیمی که در کشتی بود گفت: «اگر اجازه بدهید، من او را ساکت می‌کنم.»", "r": "hakim-i ke dar keshti bud goft: «agar ejāze be-dahid, man u rā sāket mi-konam.»", "en": "A sage who was on the boat said: \"If you permit, I will quiet him.\""},
+    {"fa": "به دستور حکیم، غلام را به دریا انداختند و وقتی چند بار آب خورد، او را از موهایش گرفتند و به کشتی برگرداندند.", "r": "be dastur-e hakim, gholām rā be daryā andākhtand o vaghti chand bār āb khord, u rā az mu-hā-yash gereftand o be keshti bar-gardāndand.", "en": "On the sage's order they threw the slave into the sea, and when he had swallowed water a few times, they took him by the hair and brought him back to the boat."},
+    {"fa": "غلام گوشه‌ای نشست و دیگر حرفی نزد.", "r": "gholām gushe-i neshast o digar harf-i na-zad.", "en": "The slave sat down in a corner and did not say another word."},
+    {"fa": "پادشاه با تعجب علت را پرسید و حکیم جواب داد: «او طعم غرق شدن را نچشیده بود و قدر امنیت کشتی را نمی‌دانست.»", "r": "pādeshāh bā ta'ajjob 'ellat rā porsid o hakim javāb dād: «u ta'm-e ghargh shodan rā na-cheshide bud o ghadr-e amniyat-e keshti rā nemi-dānest.»", "en": "Surprised, the king asked the reason, and the sage answered: \"He had never tasted drowning, so he did not know the worth of the boat's safety.\""},
+    {"fa": "سعدی می‌گوید: «قدر عافیت کسی داند که به مصیبتی گرفتار آید.»", "r": "Sa'di mi-guyad: «ghadr-e āfiyat kas-i dānad ke be mosibat-i gereftār āyad.»", "en": "Saadi says: \"Only one who has been caught in misfortune knows the worth of well-being.\"", "note": "The one line quoted from the Golestan; note the classical verb forms داند (= می‌داند) and آید (= بیاید)."}
+   ]
+  },
+  {
+   "sentences": [
+    {"fa": "کشتی‌گیری سیصد و شصت فن بلد بود و هر روز با یکی از آن‌ها کشتی می‌گرفت.", "r": "koshti-gir-i sisad o shast fann balad bud o har ruz bā yek-i az ān-hā koshti mi-gereft.", "en": "A wrestler knew three hundred and sixty holds and wrestled with a different one every day."},
+    {"fa": "او شاگردی داشت که خیلی دوستش داشت و سیصد و پنجاه و نه فن را به او یاد داد، اما یک فن را نگه داشت.", "r": "u shāgerd-i dāsht ke kheyli dust-ash dāsht o sisad o panjāh o noh fann rā be u yād dād, ammā yek fann rā negah dāsht.", "en": "He had a student whom he loved dearly, and he taught him three hundred and fifty-nine holds, but kept one back."},
+    {"fa": "شاگرد کم‌کم آن‌قدر قوی و مغرور شد که پیش پادشاه گفت: «استادم فقط از من پیرتر است، نه قوی‌تر.»", "r": "shāgerd kam-kam ān-ghadr ghavi o maghrur shod ke pish-e pādeshāh goft: «ostād-am faghat az man pir-tar ast, na ghavi-tar.»", "en": "Little by little the student became so strong and proud that he said before the king: \"My master is only older than me, not stronger.\""},
+    {"fa": "پادشاه از این بی‌ادبی ناراحت شد و دستور داد که میدان بزرگی آماده کنند.", "r": "pādeshāh az in bi-adabi nārāhat shod o dastur dād ke meydān-e bozorg-i āmāde konand.", "en": "The king was displeased by this rudeness and ordered a great arena to be prepared."},
+    {"fa": "شاگرد مثل فیلی مست وارد میدان شد، اما استاد با همان فن آخر او را از زمین بلند کرد و بر زمین زد.", "r": "shāgerd mesl-e fil-i mast vāred-e meydān shod, ammā ostād bā hamān fann-e ākhar u rā az zamin boland kard o bar zamin zad.", "en": "The student entered the arena like a raging elephant, but the master, with that last hold, lifted him off the ground and threw him down."},
+    {"fa": "استاد گفت: «این فن را برای چنین روزی نگه داشته بودم؛ به دوستت آن‌قدر قدرت نده که اگر روزی دشمن شد، بتواند به تو آسیب بزند.»", "r": "ostād goft: «in fann rā barā-ye chonin ruz-i negah dāshte budam; be dust-at ān-ghadr ghodrat na-deh ke agar ruz-i doshman shod, be-tavānad be to āsib be-zanad.»", "en": "The master said: \"I had kept this hold for such a day; do not give your friend so much power that, if he one day becomes your enemy, he can harm you.\""}
+   ]
+  },
+  {
+   "sentences": [
+    {"fa": "در زمستانی سرد، مرد فقیری به در خانه‌ی ثروتمندی رفت تا کمی نان بخواهد.", "r": "dar zemestān-i sard, mard-e faghir-i be dar-e khāne-ye servatmand-i raft tā kam-i nān be-khāhad.", "en": "In a cold winter, a poor man went to a rich man's door to ask for a little bread."},
+    {"fa": "ثروتمند در را باز نکرد، اما سگ‌های او از خانه بیرون دویدند و به مرد حمله کردند.", "r": "servatmand dar rā bāz na-kard, ammā sag-hā-ye u az khāne birun davidand o be mard hamle kardand.", "en": "The rich man did not open the door, but his dogs ran out of the house and attacked the man."},
+    {"fa": "مرد خم شد تا سنگی بردارد و سگ‌ها را دور کند، اما سنگ‌ها در زمین یخ زده بودند.", "r": "mard kham shod tā sang-i bar-dārad o sag-hā rā dur konad, ammā sang-hā dar zamin yakh zade budand.", "en": "The man bent down to pick up a stone and drive the dogs away, but the stones were frozen into the ground."},
+    {"fa": "با ناامیدی گفت: «چه مردم عجیبی! سگ‌ها را باز گذاشته‌اند و سنگ‌ها را بسته‌اند.»", "r": "bā nā-omidi goft: «che mardom-e 'ajib-i! sag-hā rā bāz gozāshte-and o sang-hā rā baste-and.»", "en": "In despair he said: \"What strange people! They have let the dogs loose and tied down the stones.\""},
+    {"fa": "ثروتمند از پنجره این حرف را شنید، خندید و دستور داد که به مرد نان و لباس گرم بدهند.", "r": "servatmand az panjere in harf rā shenid, khandid o dastur dād ke be mard nān o lebās-e garm be-dahand.", "en": "The rich man heard these words from the window, laughed, and ordered that the man be given bread and warm clothes."}
+   ]
+  },
+  {
+   "sentences": [
+    {"fa": "در شبی برفی، پادشاهی از کنار پسر جوانی گذشت که جلوی در قصر نگهبانی می‌داد.", "r": "dar shab-i barfi, pādeshāh-i az kenār-e pesar-e javān-i gozasht ke jelo-ye dar-e ghasr negahbāni mi-dād.", "en": "On a snowy night, a king passed by a young boy who was standing guard at the palace gate."},
+    {"fa": "پسر از سرما می‌لرزید و گفت: «قربان، لباس من نازک است و سرما تا استخوانم رسیده است.»", "r": "pesar az sarmā mi-larzid o goft: «ghorbān, lebās-e man nāzok ast o sarmā tā ostokhān-am reside ast.»", "en": "The boy was shivering with cold and said: \"Sire, my clothes are thin and the cold has reached my bones.\""},
+    {"fa": "پادشاه گفت: «صبر کن؛ همین حالا پوستینی برایت می‌فرستم.»", "r": "pādeshāh goft: «sabr kon; hamin hālā pustin-i barā-yat mi-ferestam.»", "en": "The king said: \"Wait; I will send you a fur coat right now.\""},
+    {"fa": "اما وقتی به اتاق گرمش رسید و کنار آتش نشست، قولش را فراموش کرد.", "r": "ammā vaghti be otāgh-e garm-ash resid o kenār-e ātash neshast, ghowl-ash rā farāmush kard.", "en": "But when he reached his warm room and sat by the fire, he forgot his promise."},
+    {"fa": "صبح، پسر نیمه‌جان به پادشاه گفت: «قول شما دلم را گرم کرد، اما تنم را گرم نکرد.»", "r": "sobh, pesar-e nime-jān be pādeshāh goft: «ghowl-e shomā del-am rā garm kard, ammā tan-am rā garm na-kard.»", "en": "In the morning, the half-frozen boy said to the king: \"Your promise warmed my heart, but it did not warm my body.\""},
+    {"fa": "کسی که کنار آتش نشسته، رنج کسی را که در سرما ایستاده نمی‌فهمد.", "r": "kas-i ke kenār-e ātash neshaste, ranj-e kas-i rā ke dar sarmā istāde nemi-fahmad.", "en": "One who sits by the fire does not understand the suffering of one who stands in the cold."},
+    {"fa": "این حکایت‌ها کوتاه‌اند، اما بعد از هشت قرن هنوز ایرانی‌ها آن‌ها را در مدرسه می‌خوانند و جمله‌هایشان را مثل ضرب‌المثل به کار می‌برند.", "r": "in hekāyat-hā kutāh-and, ammā ba'd az hasht gharn hanuz irāni-hā ān-hā rā dar madrese mi-khānand o jomle-hā-yashān rā mesl-e zarb-ol-masal be kār mi-barand.", "en": "These anecdotes are short, but after eight centuries Iranians still read them at school and use their sentences like proverbs."}
+   ]
+  }
+ ],
+ "vocab": [
+  {"fa": "حکایت", "r": "hekāyat", "en": "anecdote, short moral tale"},
+  {"fa": "غلام", "r": "gholām", "en": "slave, servant (classical)"},
+  {"fa": "کشتی", "r": "keshti", "en": "boat, ship"},
+  {"fa": "موج", "r": "mowj", "en": "wave"},
+  {"fa": "حکیم", "r": "hakim", "en": "sage, wise man"},
+  {"fa": "غرق شدن", "r": "ghargh shodan", "en": "to drown"},
+  {"fa": "قدر دانستن", "r": "ghadr dānestan", "en": "to appreciate, know the worth of"},
+  {"fa": "کشتی گرفتن", "r": "koshti gereftan", "en": "to wrestle"},
+  {"fa": "فن", "r": "fann", "en": "technique; (in wrestling) a hold"},
+  {"fa": "مغرور", "r": "maghrur", "en": "proud, arrogant"},
+  {"fa": "آسیب زدن", "r": "āsib zadan", "en": "to harm"},
+  {"fa": "ثروتمند", "r": "servatmand", "en": "rich, a rich man"},
+  {"fa": "یخ زدن", "r": "yakh zadan", "en": "to freeze"},
+  {"fa": "پوستین", "r": "pustin", "en": "sheepskin coat, fur coat"},
+  {"fa": "قول", "r": "ghowl", "en": "promise"},
+  {"fa": "رنج", "r": "ranj", "en": "suffering, hardship"}
+ ],
+ "questions": [
+  {"q": "Why did the sage have the slave thrown into the sea?", "options": ["to punish him for stealing", "so that he would learn the value of the safe boat", "because the king ordered it in anger"], "answer": 1},
+  {"q": "How did the master beat his proud student?", "options": ["with the one hold he had never taught him", "by asking the king to help him", "the student fell ill before the match"], "answer": 0},
+  {"q": "Why could the poor man not throw a stone at the dogs?", "options": ["his hands were too cold", "the rich man took the stones away", "the stones were frozen into the ground"], "answer": 2},
+  {"q": "What went wrong with the king's promise to the boy?", "options": ["the coat was too small", "he forgot it once he was warm by the fire", "the boy refused the coat"], "answer": 1},
+  {"q": "What do the first and last tales have in common?", "options": ["people who are comfortable do not understand others' hardship", "kings are always wise", "the sea is dangerous"], "answer": 0}
+ ],
+ "after": "Look at the word کشتی: with *e* it is **keshti**, a boat (the first tale); with *o* it is **koshti**, wrestling (the second). Persian does not write short vowels, so only context tells them apart – a good reason to read the transliteration. The Golestan mixes prose with short poems, and many of its sentences live on as sayings; the line quoted here, قدر عافیت کسی داند که به مصیبتی گرفتار آید, is still said to someone who has just recovered from illness or trouble. Grammar to notice: the past perfect for what had happened before the story (ندیده بود 'had never seen', نگه داشته بودم 'I had kept'), and تا + subjunctive for purpose (تا نان بخواهد, تا سنگی بردارد)."
+}

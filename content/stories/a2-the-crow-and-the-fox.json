@@ -14,17 +14,23 @@
     {
      "fa": "یک روز کلاغی از پنجره‌ی خانه‌ای یک تکه پنیر دزدید.",
      "r": "yek ruz kalāgh-i az panjere-ye khāne-i yek tekke panir dozdid.",
-     "en": "One day a crow stole a piece of cheese from the window of a house."
+     "en": "One day a crow stole a piece of cheese from the window of a house.",
+     "faV": "یِک روز کَلاغی اَز پَنجِره‌یِ خانه‌ای یِک تِکّه پَنیر دُزدید.",
+     "a": "212170bbb9dc"
     },
     {
      "fa": "او پرواز کرد و بالای یک درخت بلند نشست.",
      "r": "u parvāz kard o bālā-ye yek derakht-e boland neshast.",
-     "en": "It flew off and sat at the top of a tall tree."
+     "en": "It flew off and sat at the top of a tall tree.",
+     "faV": "او پَرواز کَرد و بالایِ یِک دِرَختِ بُلَند نِشَست.",
+     "a": "e62f150d973f"
     },
     {
      "fa": "می‌خواست پنیر را با خیال راحت بخورد.",
      "r": "mi-khāst panir rā bā khiyāl-e rāhat bokhorad.",
-     "en": "It wanted to eat the cheese in peace."
+     "en": "It wanted to eat the cheese in peace.",
+     "faV": "می‌خواست پَنیر را با خیالِ راحَت بُخورَد.",
+     "a": "d9a4743c50e5"
     }
    ]
   },
@@ -33,32 +39,44 @@
     {
      "fa": "روباهی که زیر درخت راه می‌رفت، بوی پنیر را شنید و به بالا نگاه کرد.",
      "r": "rubāh-i ke zir-e derakht rāh mi-raft, bu-ye panir rā shenid o be bālā negāh kard.",
-     "en": "A fox that was walking under the tree smelt the cheese and looked up."
+     "en": "A fox that was walking under the tree smelt the cheese and looked up.",
+     "faV": "روباهی که زیرِ دِرَخت راه می‌رَفت، بویِ پَنیر را شِنید و به بالا نِگاه کَرد.",
+     "a": "7d7639cfa592"
     },
     {
      "fa": "با خودش گفت: «باید آن پنیر را به دست بیاورم.»",
      "r": "bā khod-ash goft: «bāyad ān panir rā be dast biyāvaram.»",
-     "en": "It said to itself: \"I must get that cheese.\""
+     "en": "It said to itself: \"I must get that cheese.\"",
+     "faV": "با خودَش گُفت: «بایَد آن پَنیر را به دَست بیاوَرَم.»",
+     "a": "50f0c123c85c"
     },
     {
      "fa": "بعد با صدای شیرین گفت: «سلام، کلاغ زیبا! چه پر‌های سیاه و براقی داری!»",
      "r": "ba'd bā sedā-ye shirin goft: «salām, kalāgh-e zibā! che par-hā-ye siyāh o barrāgh-i dāri!»",
-     "en": "Then it said in a sweet voice: \"Hello, beautiful crow! What shiny black feathers you have!\""
+     "en": "Then it said in a sweet voice: \"Hello, beautiful crow! What shiny black feathers you have!\"",
+     "faV": "بَعد با صِدایِ شیرین گُفت: «سَلام، کَلاغِ زیبا! چه پَر‌هایِ سیاه و بَرّاقی داری!»",
+     "a": "b6eb89411c51"
     },
     {
      "fa": "«من تا حالا پرنده‌ای به این قشنگی ندیده‌ام.»",
      "r": "«man tā hālā parande-i be in ghashangi na-dide-am.»",
-     "en": "\"I have never seen such a lovely bird.\""
+     "en": "\"I have never seen such a lovely bird.\"",
+     "faV": "«مَن تا حالا پَرَنده‌ای به این قَشَنگی نَدیده‌اَم.»",
+     "a": "1708af737245"
     },
     {
      "fa": "«حتماً صدایت هم از همه‌ی پرنده‌ها قشنگ‌تر است.»",
      "r": "«hatman sedā-yat ham az hame-ye parande-hā ghashang-tar ast.»",
-     "en": "\"Your voice must be the loveliest of all the birds' too.\""
+     "en": "\"Your voice must be the loveliest of all the birds' too.\"",
+     "faV": "«حَتماً صِدایَت هَم اَز هَمه‌یِ پَرَنده‌ها قَشَنگ‌تَر اَست.»",
+     "a": "5c8b86cd43d8"
     },
     {
      "fa": "«اگر برایم آواز بخوانی، تو را پادشاه پرندگان می‌دانم.»",
      "r": "«agar barā-yam āvāz bekhāni, to rā pādeshāh-e parandegān mi-dānam.»",
-     "en": "\"If you sing for me, I'll call you the king of the birds.\""
+     "en": "\"If you sing for me, I'll call you the king of the birds.\"",
+     "faV": "«اَگَر بَرایَم آواز بِخوانی، تو را پادِشاهِ پَرَندِگان می‌دانَم.»",
+     "a": "2bc21560ec13"
     }
    ]
   },
@@ -67,22 +85,30 @@
     {
      "fa": "کلاغ از این حرف‌ها خیلی خوشش آمد.",
      "r": "kalāgh az in harf-hā kheyli khosh-ash āmad.",
-     "en": "The crow liked these words very much."
+     "en": "The crow liked these words very much.",
+     "faV": "کَلاغ اَز این حَرف‌ها خَیلی خوشَش آمَد.",
+     "a": "a03a5a43995d"
     },
     {
      "fa": "او منقارش را باز کرد و با صدای بلند گفت: «قار! قار!»",
      "r": "u menghār-ash rā bāz kard o bā sedā-ye boland goft: «ghār! ghār!»",
-     "en": "It opened its beak and cried loudly: \"Caw! Caw!\""
+     "en": "It opened its beak and cried loudly: \"Caw! Caw!\"",
+     "faV": "او مِنقارَش را باز کَرد و با صِدایِ بُلَند گُفت: «قار! قار!»",
+     "a": "d98cb8d646ef"
     },
     {
      "fa": "همان لحظه پنیر از دهانش افتاد.",
      "r": "hamān lahze panir az dahān-ash oftād.",
-     "en": "At that very moment the cheese fell from its mouth."
+     "en": "At that very moment the cheese fell from its mouth.",
+     "faV": "هَمان لَحظه پَنیر اَز دَهانَش اُفتاد.",
+     "a": "0e8407fe78d1"
     },
     {
      "fa": "روباه آن را در هوا گرفت و فوراً خورد.",
      "r": "rubāh ān rā dar havā gereft o fowran khord.",
-     "en": "The fox caught it in mid-air and ate it at once."
+     "en": "The fox caught it in mid-air and ate it at once.",
+     "faV": "روباه آن را دَر هَوا گِرِفت و فَوراً خورد.",
+     "a": "b2cf4bdda41b"
     }
    ]
   },
@@ -91,65 +117,189 @@
     {
      "fa": "بعد خندید و گفت: «صدایت بد نیست، کلاغ عزیز، اما عقلت کم است!»",
      "r": "ba'd khandid o goft: «sedā-yat bad nist, kalāgh-e aziz, ammā aghl-at kam ast!»",
-     "en": "Then it laughed and said: \"Your voice isn't bad, dear crow, but you're short of brains!\""
+     "en": "Then it laughed and said: \"Your voice isn't bad, dear crow, but you're short of brains!\"",
+     "faV": "بَعد خَندید و گُفت: «صِدایَت بَد نیست، کَلاغِ عَزیز، اَمّا عَقلَت کَم اَست!»",
+     "a": "bba6132264de"
     },
     {
      "fa": "«یادت باشد: به کسی که از تو تعریف می‌کند و چیزی می‌خواهد، زود اعتماد نکن.»",
      "r": "«yād-at bāshad: be kas-i ke az to ta'rif mi-konad o chiz-i mi-khāhad, zud e'temād na-kon.»",
-     "en": "\"Remember: don't be quick to trust someone who praises you and wants something from you.\""
+     "en": "\"Remember: don't be quick to trust someone who praises you and wants something from you.\"",
+     "faV": "«یادَت باشَد: به کَسی که اَز تو تَعریف می‌کُنَد و چیزی می‌خواهَد، زود اِعتِماد نَکُن.»",
+     "a": "5bd7058e7b65"
     },
     {
      "fa": "روباه رفت و کلاغ گرسنه روی درخت ماند.",
      "r": "rubāh raft o kalāgh-e gorosne ru-ye derakht mānd.",
-     "en": "The fox went away, and the hungry crow was left sitting in the tree."
+     "en": "The fox went away, and the hungry crow was left sitting in the tree.",
+     "faV": "روباه رَفت و کَلاغِ گُرُسنه رویِ دِرَخت ماند.",
+     "a": "c5b83c854c73"
     }
    ]
   }
  ],
  "vocab": [
-  {"fa": "کلاغ", "r": "kalāgh", "en": "crow"},
-  {"fa": "دزدیدن", "r": "dozdidan", "en": "to steal"},
-  {"fa": "تکه", "r": "tekke", "en": "piece, bit"},
-  {"fa": "پرواز کردن", "r": "parvāz kardan", "en": "to fly"},
-  {"fa": "روباه", "r": "rubāh", "en": "fox"},
-  {"fa": "بو", "r": "bu", "en": "smell (بو را شنیدن 'to smell')"},
-  {"fa": "پر", "r": "par", "en": "feather"},
-  {"fa": "براق", "r": "barrāgh", "en": "shiny, glossy"},
-  {"fa": "پرنده", "r": "parande", "en": "bird"},
-  {"fa": "آواز خواندن", "r": "āvāz khāndan", "en": "to sing"},
-  {"fa": "خوشش آمد", "r": "khosh-ash āmad", "en": "he/she liked it"},
-  {"fa": "منقار", "r": "menghār", "en": "beak"},
-  {"fa": "لحظه", "r": "lahze", "en": "moment"},
-  {"fa": "عقل", "r": "aghl", "en": "intelligence, brains, good sense"},
-  {"fa": "تعریف کردن از", "r": "ta'rif kardan az", "en": "to praise"},
-  {"fa": "اعتماد کردن", "r": "e'temād kardan", "en": "to trust"}
+  {
+   "fa": "کلاغ",
+   "r": "kalāgh",
+   "en": "crow",
+   "faV": "کَلاغ",
+   "a": "025e21e598a4"
+  },
+  {
+   "fa": "دزدیدن",
+   "r": "dozdidan",
+   "en": "to steal",
+   "faV": "دُزدیدَن",
+   "a": "88ace4cfab53"
+  },
+  {
+   "fa": "تکه",
+   "r": "tekke",
+   "en": "piece, bit",
+   "faV": "تِکّه",
+   "a": "9b2384f0c688"
+  },
+  {
+   "fa": "پرواز کردن",
+   "r": "parvāz kardan",
+   "en": "to fly",
+   "faV": "پَرواز کَردَن",
+   "a": "6b8aa58a3ffc"
+  },
+  {
+   "fa": "روباه",
+   "r": "rubāh",
+   "en": "fox",
+   "faV": "روباه",
+   "a": "82a1fc5e940a"
+  },
+  {
+   "fa": "بو",
+   "r": "bu",
+   "en": "smell (بو را شنیدن 'to smell')",
+   "faV": "بو",
+   "a": "f2244a9e5ea0"
+  },
+  {
+   "fa": "پر",
+   "r": "par",
+   "en": "feather",
+   "faV": "پَر",
+   "a": "09295e5104e5"
+  },
+  {
+   "fa": "براق",
+   "r": "barrāgh",
+   "en": "shiny, glossy",
+   "faV": "بَرّاق",
+   "a": "04112b7c4e8a"
+  },
+  {
+   "fa": "پرنده",
+   "r": "parande",
+   "en": "bird",
+   "faV": "پَرَنده",
+   "a": "b6066c033778"
+  },
+  {
+   "fa": "آواز خواندن",
+   "r": "āvāz khāndan",
+   "en": "to sing",
+   "faV": "آواز خواندَن",
+   "a": "3f589e81fb52"
+  },
+  {
+   "fa": "خوشش آمد",
+   "r": "khosh-ash āmad",
+   "en": "he/she liked it",
+   "faV": "خوشَش آمَد",
+   "a": "3ea2418d89e6"
+  },
+  {
+   "fa": "منقار",
+   "r": "menghār",
+   "en": "beak",
+   "faV": "مِنقار",
+   "a": "ed04e501498e"
+  },
+  {
+   "fa": "لحظه",
+   "r": "lahze",
+   "en": "moment",
+   "faV": "لَحظه",
+   "a": "e01b107890ec"
+  },
+  {
+   "fa": "عقل",
+   "r": "aghl",
+   "en": "intelligence, brains, good sense",
+   "faV": "عَقل",
+   "a": "05d80ab8e79c"
+  },
+  {
+   "fa": "تعریف کردن از",
+   "r": "ta'rif kardan az",
+   "en": "to praise",
+   "faV": "تَعریف کَردَن اَز",
+   "a": "246a27c6a90c"
+  },
+  {
+   "fa": "اعتماد کردن",
+   "r": "e'temād kardan",
+   "en": "to trust",
+   "faV": "اِعتِماد کَردَن",
+   "a": "06dddc7322d5"
+  }
  ],
  "questions": [
   {
    "q": "Where did the crow get the cheese?",
-   "options": ["from a shop", "from the window of a house", "from the fox"],
+   "options": [
+    "from a shop",
+    "from the window of a house",
+    "from the fox"
+   ],
    "answer": 1
   },
   {
    "q": "What did the fox praise first?",
-   "options": ["the crow's shiny black feathers", "the crow's tree", "the crow's cheese"],
+   "options": [
+    "the crow's shiny black feathers",
+    "the crow's tree",
+    "the crow's cheese"
+   ],
    "answer": 0
   },
   {
    "q": "What did the fox ask the crow to do?",
-   "options": ["to come down", "to share the cheese", "to sing"],
+   "options": [
+    "to come down",
+    "to share the cheese",
+    "to sing"
+   ],
    "answer": 2
   },
   {
    "q": "Why did the cheese fall?",
-   "options": ["the wind blew it", "the crow opened its beak to sing", "the fox shook the tree"],
+   "options": [
+    "the wind blew it",
+    "the crow opened its beak to sing",
+    "the fox shook the tree"
+   ],
    "answer": 1
   },
   {
    "q": "What is the fox's advice?",
-   "options": ["don't trust people who flatter you to get something", "never steal cheese", "always sing loudly"],
+   "options": [
+    "don't trust people who flatter you to get something",
+    "never steal cheese",
+    "always sing loudly"
+   ],
    "answer": 0
   }
  ],
- "after": "This fable goes back to Aesop and was retold by La Fontaine; Iranian children know it from a little poem in their school reader. Notice how Persian makes a superlative out of a comparative: از همه‌ی پرنده‌ها قشنگ‌تر 'more beautiful than all the birds', i.e. the most beautiful. خوشش آمد 'he liked it' is literally 'it came pleasant to him': the person is the ending on خوش (خوشم آمد 'I liked it', خوشت آمد؟ 'did you like it?'), and the thing liked takes از: از این حرف‌ها خوشش آمد. یادت باشد 'let it be in your memory' means 'remember!'. A Persian crow says قار قار (ghār ghār), and in Iranian tales the crow is a busybody – it is the bird that 'never got home' at the end of every story."
+ "after": "This fable goes back to Aesop and was retold by La Fontaine; Iranian children know it from a little poem in their school reader. Notice how Persian makes a superlative out of a comparative: از همه‌ی پرنده‌ها قشنگ‌تر 'more beautiful than all the birds', i.e. the most beautiful. خوشش آمد 'he liked it' is literally 'it came pleasant to him': the person is the ending on خوش (خوشم آمد 'I liked it', خوشت آمد؟ 'did you like it?'), and the thing liked takes از: از این حرف‌ها خوشش آمد. یادت باشد 'let it be in your memory' means 'remember!'. A Persian crow says قار قار (ghār ghār), and in Iranian tales the crow is a busybody – it is the bird that 'never got home' at the end of every story.",
+ "titleV": "کَلاغ و روباه",
+ "titleA": "89366d0dfc81"
 }

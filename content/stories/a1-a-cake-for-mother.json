@@ -14,17 +14,23 @@
     {
      "fa": "امروز تولد مینا است.",
      "r": "emruz tavallod-e Minā ast.",
-     "en": "Today is Mina's birthday."
+     "en": "Today is Mina's birthday.",
+     "faV": "اِمروز تَوَلُّدِ مینا اَست.",
+     "a": "152d109fa3cd"
     },
     {
      "fa": "مینا سر کار است.",
      "r": "Minā sar-e kār ast.",
-     "en": "Mina is at work."
+     "en": "Mina is at work.",
+     "faV": "مینا سَرِ کار اَست.",
+     "a": "973c1c89017d"
     },
     {
      "fa": "سارا و رضا می‌خواهند یک کیک درست کنند.",
      "r": "Sārā o Rezā mi-khāhand yek keyk dorost konand.",
-     "en": "Sara and Reza want to make a cake."
+     "en": "Sara and Reza want to make a cake.",
+     "faV": "سارا و رِضا می‌خواهَند یِک کَیک دُرُست کُنَند.",
+     "a": "71b757948841"
     }
    ]
   },
@@ -33,22 +39,30 @@
     {
      "fa": "آن‌ها آرد، تخم‌مرغ، شیر و کره را روی میز می‌گذارند.",
      "r": "ān-hā ārd, tokhm-e-morgh, shir o kare rā ru-ye miz mi-gozārand.",
-     "en": "They put the flour, eggs, milk and butter on the table."
+     "en": "They put the flour, eggs, milk and butter on the table.",
+     "faV": "آن‌ها آرد، تُخمِ‌مُرغ، شیر و کَره را رویِ میز می‌گُذارَند.",
+     "a": "2ad5635b87c8"
     },
     {
      "fa": "سارا تخم‌مرغ‌ها را می‌شکند.",
      "r": "Sārā tokhm-e-morgh-hā rā mi-shekanad.",
-     "en": "Sara breaks the eggs."
+     "en": "Sara breaks the eggs.",
+     "faV": "سارا تُخمِ‌مُرغ‌ها را می‌شِکَنَد.",
+     "a": "18ff618a489d"
     },
     {
      "fa": "رضا کیک را در فر می‌گذارد.",
      "r": "Rezā keyk rā dar fer mi-gozārad.",
-     "en": "Reza puts the cake in the oven."
+     "en": "Reza puts the cake in the oven.",
+     "faV": "رِضا کَیک را دَر فِر می‌گُذارَد.",
+     "a": "a9ff30a9fce3"
     },
     {
      "fa": "بوی کیک همه جا هست.",
      "r": "bu-ye keyk hame jā hast.",
-     "en": "The smell of cake is everywhere."
+     "en": "The smell of cake is everywhere.",
+     "faV": "بویِ کَیک هَمه جا هَست.",
+     "a": "964a7e193116"
     }
    ]
   },
@@ -57,22 +71,30 @@
     {
      "fa": "ساعت شش، مینا به خانه می‌آید.",
      "r": "sā'at-e shesh, Minā be khāne mi-āyad.",
-     "en": "At six o'clock, Mina comes home."
+     "en": "At six o'clock, Mina comes home.",
+     "faV": "ساعَتِ شِش، مینا به خانه می‌آیَد.",
+     "a": "3efb5fa38313"
     },
     {
      "fa": "سارا و رضا می‌گویند: «تولدت مبارک!»",
      "r": "Sārā o Rezā mi-guyand: «tavallod-at mobārak!»",
-     "en": "Sara and Reza say: \"Happy birthday!\""
+     "en": "Sara and Reza say: \"Happy birthday!\"",
+     "faV": "سارا و رِضا می‌گویَند: «تَوَلُّدَت مُبارَک!»",
+     "a": "3808a8f1ab0a"
     },
     {
      "fa": "مینا شمع را فوت می‌کند.",
      "r": "Minā sham' rā fut mi-konad.",
-     "en": "Mina blows out the candle."
+     "en": "Mina blows out the candle.",
+     "faV": "مینا شَمع را فوت می‌کُنَد.",
+     "a": "fd9a7d7e8349"
     },
     {
      "fa": "همه کیک را می‌خورند.",
      "r": "hame keyk rā mi-khorand.",
-     "en": "Everyone eats the cake."
+     "en": "Everyone eats the cake.",
+     "faV": "هَمه کَیک را می‌خورَند.",
+     "a": "322dffc3f21c"
     }
    ]
   },
@@ -81,47 +103,173 @@
     {
      "fa": "اما کیک شیرین نیست!",
      "r": "ammā keyk shirin nist!",
-     "en": "But the cake isn't sweet!"
+     "en": "But the cake isn't sweet!",
+     "faV": "اَمّا کَیک شیرین نیست!",
+     "a": "e525c6e0584c"
     },
     {
      "fa": "سارا می‌گوید: «وای! شکر کجاست؟»",
      "r": "Sārā mi-guyad: «vāy! shekar kojā-st?»",
-     "en": "Sara says: \"Oh! Where is the sugar?\""
+     "en": "Sara says: \"Oh! Where is the sugar?\"",
+     "faV": "سارا می‌گویَد: «وای! شِکَر کُجاست؟»",
+     "a": "1d21f78326f9"
     },
     {
      "fa": "شکر هنوز روی میز است.",
      "r": "shekar hanuz ru-ye miz ast.",
-     "en": "The sugar is still on the table."
+     "en": "The sugar is still on the table.",
+     "faV": "شِکَر هَنوز رویِ میز اَست.",
+     "a": "31d3e1881004"
     },
     {
      "fa": "مینا می‌خندد و می‌گوید: «کیک شیرین نیست، اما شما خیلی شیرین هستید!»",
      "r": "Minā mi-khandad o mi-guyad: «keyk shirin nist, ammā shomā kheyli shirin hastid!»",
-     "en": "Mina laughs and says: \"The cake isn't sweet, but you two are very sweet!\""
+     "en": "Mina laughs and says: \"The cake isn't sweet, but you two are very sweet!\"",
+     "faV": "مینا می‌خَندَد و می‌گویَد: «کَیک شیرین نیست، اَمّا شُما خَیلی شیرین هَستید!»",
+     "a": "918a6a870216"
     }
    ]
   }
  ],
  "vocab": [
-  {"fa": "تولد", "r": "tavallod", "en": "birthday; birth"},
-  {"fa": "تولدت مبارک!", "r": "tavallod-at mobārak!", "en": "happy birthday!"},
-  {"fa": "کیک", "r": "keyk", "en": "cake"},
-  {"fa": "آرد", "r": "ārd", "en": "flour"},
-  {"fa": "تخم‌مرغ", "r": "tokhm-e-morgh", "en": "egg"},
-  {"fa": "کره", "r": "kare", "en": "butter"},
-  {"fa": "شکستن", "r": "shekastan", "en": "to break (present: می‌شکند)"},
-  {"fa": "فر", "r": "fer", "en": "oven"},
-  {"fa": "بو", "r": "bu", "en": "smell"},
-  {"fa": "شمع", "r": "sham'", "en": "candle"},
-  {"fa": "فوت کردن", "r": "fut kardan", "en": "to blow (out)"},
-  {"fa": "شیرین", "r": "shirin", "en": "sweet"},
-  {"fa": "شکر", "r": "shekar", "en": "sugar"},
-  {"fa": "هنوز", "r": "hanuz", "en": "still, yet"}
+  {
+   "fa": "تولد",
+   "r": "tavallod",
+   "en": "birthday; birth",
+   "faV": "تَوَلُّد",
+   "a": "6dfc90d9080f"
+  },
+  {
+   "fa": "تولدت مبارک!",
+   "r": "tavallod-at mobārak!",
+   "en": "happy birthday!",
+   "faV": "تَوَلُّدَت مُبارَک!",
+   "a": "5f0fb763ce64"
+  },
+  {
+   "fa": "کیک",
+   "r": "keyk",
+   "en": "cake",
+   "faV": "کَیک",
+   "a": "63f816f0ff41"
+  },
+  {
+   "fa": "آرد",
+   "r": "ārd",
+   "en": "flour",
+   "faV": "آرد",
+   "a": "5ae6f5e92d53"
+  },
+  {
+   "fa": "تخم‌مرغ",
+   "r": "tokhm-e-morgh",
+   "en": "egg",
+   "faV": "تُخمِ‌مُرغ",
+   "a": "0d7a94e9d1ce"
+  },
+  {
+   "fa": "کره",
+   "r": "kare",
+   "en": "butter",
+   "faV": "کَره",
+   "a": "fc0bcf42c5c1"
+  },
+  {
+   "fa": "شکستن",
+   "r": "shekastan",
+   "en": "to break (present: می‌شکند)",
+   "faV": "شِکَستَن",
+   "a": "0decfae2b94c"
+  },
+  {
+   "fa": "فر",
+   "r": "fer",
+   "en": "oven",
+   "faV": "فِر",
+   "a": "cf85a161a4a2"
+  },
+  {
+   "fa": "بو",
+   "r": "bu",
+   "en": "smell",
+   "faV": "بو",
+   "a": "f2244a9e5ea0"
+  },
+  {
+   "fa": "شمع",
+   "r": "sham'",
+   "en": "candle",
+   "faV": "شَمع",
+   "a": "5f788b1ce494"
+  },
+  {
+   "fa": "فوت کردن",
+   "r": "fut kardan",
+   "en": "to blow (out)",
+   "faV": "فوت کَردَن",
+   "a": "6ab27b14cf08"
+  },
+  {
+   "fa": "شیرین",
+   "r": "shirin",
+   "en": "sweet",
+   "faV": "شیرین",
+   "a": "3c4705426ad7"
+  },
+  {
+   "fa": "شکر",
+   "r": "shekar",
+   "en": "sugar",
+   "faV": "شِکَر",
+   "a": "1e05438a8321"
+  },
+  {
+   "fa": "هنوز",
+   "r": "hanuz",
+   "en": "still, yet",
+   "faV": "هَنوز",
+   "a": "127514796d0b"
+  }
  ],
  "questions": [
-  {"q": "Where is Mina when Sara and Reza make the cake?", "options": ["at the bakery", "at work", "at her mother's house"], "answer": 1},
-  {"q": "Who breaks the eggs?", "options": ["Sara", "Reza", "Mina"], "answer": 0},
-  {"q": "What is wrong with the cake?", "options": ["it is burnt", "it is too small", "it isn't sweet"], "answer": 2},
-  {"q": "Where is the sugar?", "options": ["in the cake", "still on the table", "in the fridge"], "answer": 1}
+  {
+   "q": "Where is Mina when Sara and Reza make the cake?",
+   "options": [
+    "at the bakery",
+    "at work",
+    "at her mother's house"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Who breaks the eggs?",
+   "options": [
+    "Sara",
+    "Reza",
+    "Mina"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What is wrong with the cake?",
+   "options": [
+    "it is burnt",
+    "it is too small",
+    "it isn't sweet"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Where is the sugar?",
+   "options": [
+    "in the cake",
+    "still on the table",
+    "in the fridge"
+   ],
+   "answer": 1
+  }
  ],
- "after": "شیرین means 'sweet', and Iranians also use it for people, especially children: a شیرین child is sweet, charming and funny – so Mina's answer is a real compliment. (شیرین is also a girl's name, made famous by the love story of Khosrow and Shirin.) For birthdays you say تولدت مبارک to a friend or child and تولدتان مبارک to someone you call شما. Notice the subjunctive after 'want' in a two-word verb: می‌خواهند یک کیک درست کنند 'they want to make a cake' – with کردن, the be- is usually left out. And look at تخم‌مرغ 'egg': it is literally 'hen's seed', تخم + مرغ."
+ "after": "شیرین means 'sweet', and Iranians also use it for people, especially children: a شیرین child is sweet, charming and funny – so Mina's answer is a real compliment. (شیرین is also a girl's name, made famous by the love story of Khosrow and Shirin.) For birthdays you say تولدت مبارک to a friend or child and تولدتان مبارک to someone you call شما. Notice the subjunctive after 'want' in a two-word verb: می‌خواهند یک کیک درست کنند 'they want to make a cake' – with کردن, the be- is usually left out. And look at تخم‌مرغ 'egg': it is literally 'hen's seed', تخم + مرغ.",
+ "titleV": "یِک کَیک بَرایِ مادَر",
+ "titleA": "143720b78615"
 }

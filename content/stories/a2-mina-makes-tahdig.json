@@ -14,22 +14,30 @@
     {
      "fa": "مینا آشپز خوبی بود، اما ته‌دیگش هیچ‌وقت خوب نمی‌شد.",
      "r": "Minā āshpaz-e khub-i bud, ammā tah-dig-ash hich-vaght khub nemi-shod.",
-     "en": "Mina was a good cook, but her tahdig never came out well."
+     "en": "Mina was a good cook, but her tahdig never came out well.",
+     "faV": "مینا آشپَزِ خوبی بود، اَمّا تَه‌دیگَش هیچ‌وَقت خوب نِمی‌شُد.",
+     "a": "e7dd66b1a83b"
     },
     {
      "fa": "یا سفید و نرم می‌ماند، یا سیاه و سوخته می‌شد.",
      "r": "yā sefid o narm mi-mānd, yā siyāh o sukhte mi-shod.",
-     "en": "Either it stayed white and soft, or it turned black and burnt."
+     "en": "Either it stayed white and soft, or it turned black and burnt.",
+     "faV": "یا سِفید و نَرم می‌ماند، یا سیاه و سوخته می‌شُد.",
+     "a": "7fda90b2ba0e"
     },
     {
      "fa": "یک جمعه، مادرشوهرش برای ناهار به خانه‌ی آن‌ها آمد.",
      "r": "yek jom'e, mādar-showhar-ash barā-ye nāhār be khāne-ye ān-hā āmad.",
-     "en": "One Friday her mother-in-law came to their house for lunch."
+     "en": "One Friday her mother-in-law came to their house for lunch.",
+     "faV": "یِک جُمعه، مادَرشَوهَرَش بَرایِ ناهار به خانه‌یِ آن‌ها آمَد.",
+     "a": "35270aab605a"
     },
     {
      "fa": "مینا نگران بود و به او گفت: «مادرجان، ته‌دیگ من همیشه خراب می‌شود. می‌شود به من یاد بدهید؟»",
      "r": "Minā negarān bud o be u goft: «mādar-jān, tah-dig-e man hamishe kharāb mi-shavad. mi-shavad be man yād bedahid?»",
-     "en": "Mina was worried and said to her: \"Mother dear, my tahdig always goes wrong. Could you teach me?\""
+     "en": "Mina was worried and said to her: \"Mother dear, my tahdig always goes wrong. Could you teach me?\"",
+     "faV": "مینا نِگَران بود و به او گُفت: «مادَرجان، تَه‌دیگِ مَن هَمیشه خَراب می‌شَوَد. می‌شَوَد به مَن یاد بِدَهید؟»",
+     "a": "f9d0ce990423"
     }
    ]
   },
@@ -38,32 +46,44 @@
     {
      "fa": "مادرشوهرش خندید و گفت: «حتماً! راز ته‌دیگ خوب، صبر است.»",
      "r": "mādar-showhar-ash khandid o goft: «hatman! rāz-e tah-dig-e khub, sabr ast.»",
-     "en": "Her mother-in-law laughed and said: \"Of course! The secret of good tahdig is patience.\""
+     "en": "Her mother-in-law laughed and said: \"Of course! The secret of good tahdig is patience.\"",
+     "faV": "مادَرشَوهَرَش خَندید و گُفت: «حَتماً! رازِ تَه‌دیگِ خوب، صَبر اَست.»",
+     "a": "497e8447ba4c"
     },
     {
      "fa": "اول برنج را شستند و چند ساعت در آب و نمک گذاشتند.",
      "r": "avval berenj rā shostand o chand sā'at dar āb o namak gozāshtand.",
-     "en": "First they washed the rice and left it in salted water for a few hours."
+     "en": "First they washed the rice and left it in salted water for a few hours.",
+     "faV": "اَوَّل بِرِنج را شُستَند و چَند ساعَت دَر آب و نَمَک گُذاشتَند.",
+     "a": "e54881e2393b"
     },
     {
      "fa": "بعد برنج را در آب جوش ریختند و وقتی کمی نرم شد، آبش را گرفتند.",
      "r": "ba'd berenj rā dar āb-e jush rikhtand o vaghti kami narm shod, āb-ash rā gereftand.",
-     "en": "Then they put the rice into boiling water, and when it had softened a little, they drained it."
+     "en": "Then they put the rice into boiling water, and when it had softened a little, they drained it.",
+     "faV": "بَعد بِرِنج را دَر آبِ جوش ریختَند و وَقتی کَمی نَرم شُد، آبَش را گِرِفتَند.",
+     "a": "28615b3cd3be"
     },
     {
      "fa": "مادرشوهر گفت: «حالا ته قابلمه کمی روغن و ماست بریز و بعد برنج را آرام روی آن بریز.»",
      "r": "mādar-showhar goft: «hālā tah-e ghāblame kami roghan o māst beriz o ba'd berenj rā ārām ru-ye ān beriz.»",
-     "en": "The mother-in-law said: \"Now pour a little oil and yogurt into the bottom of the pot, then gently spoon the rice on top.\""
+     "en": "The mother-in-law said: \"Now pour a little oil and yogurt into the bottom of the pot, then gently spoon the rice on top.\"",
+     "faV": "مادَرشَوهَر گُفت: «حالا تَهِ قابلَمه کَمی روغَن و ماست بِریز و بَعد بِرِنج را آرام رویِ آن بِریز.»",
+     "a": "bf48a5f53e67"
     },
     {
      "fa": "«در قابلمه را با یک دستمال بپیچ و شعله را کم کن.»",
      "r": "«dar-e ghāblame rā bā yek dastmāl bepich o sho'le rā kam kon.»",
-     "en": "\"Wrap the lid in a tea towel and turn the flame down low.\""
+     "en": "\"Wrap the lid in a tea towel and turn the flame down low.\"",
+     "faV": "«دَرِ قابلَمه را با یِک دَستمال بِپیچ و شُعله را کَم کُن.»",
+     "a": "255b733f141c"
     },
     {
      "fa": "«حالا باید یک ساعت صبر کنی و در قابلمه را باز نکنی!»",
      "r": "«hālā bāyad yek sā'at sabr koni o dar-e ghāblame rā bāz na-koni!»",
-     "en": "\"Now you have to wait an hour – and not open the lid!\""
+     "en": "\"Now you have to wait an hour – and not open the lid!\"",
+     "faV": "«حالا بایَد یِک ساعَت صَبر کُنی و دَرِ قابلَمه را باز نَکُنی!»",
+     "a": "a85bcf7f9ffa"
     }
    ]
   },
@@ -72,22 +92,30 @@
     {
      "fa": "مینا خیلی کنجکاو بود، اما در را باز نکرد.",
      "r": "Minā kheyli konjkāv bud, ammā dar rā bāz na-kard.",
-     "en": "Mina was very curious, but she didn't open the lid."
+     "en": "Mina was very curious, but she didn't open the lid.",
+     "faV": "مینا خَیلی کُنجکاو بود، اَمّا دَر را باز نَکَرد.",
+     "a": "6aa7ba407a94"
     },
     {
      "fa": "وقتی رضا و سارا آمدند، بوی برنج همه‌ی خانه را پر کرده بود.",
      "r": "vaghti Rezā o Sārā āmadand, bu-ye berenj hame-ye khāne rā por karde bud.",
-     "en": "When Reza and Sara came home, the smell of rice had filled the whole house."
+     "en": "When Reza and Sara came home, the smell of rice had filled the whole house.",
+     "faV": "وَقتی رِضا و سارا آمَدَند، بویِ بِرِنج هَمه‌یِ خانه را پُر کَرده بود.",
+     "a": "f6044d4a2361"
     },
     {
      "fa": "مینا یک سینی بزرگ روی قابلمه گذاشت و آن را برگرداند.",
      "r": "Minā yek sini-ye bozorg ru-ye ghāblame gozāsht o ān rā bar-gardānd.",
-     "en": "Mina put a big tray on top of the pot and turned it upside down."
+     "en": "Mina put a big tray on top of the pot and turned it upside down.",
+     "faV": "مینا یِک سینیِ بُزُرگ رویِ قابلَمه گُذاشت و آن را بَرگَرداند.",
+     "a": "aed72344aac6"
     },
     {
      "fa": "یک ته‌دیگ طلایی و ترد روی سینی بود!",
      "r": "yek tah-dig-e talāyi o tord ru-ye sini bud!",
-     "en": "There on the tray was a golden, crispy tahdig!"
+     "en": "There on the tray was a golden, crispy tahdig!",
+     "faV": "یِک تَه‌دیگِ طَلایی و تُرد رویِ سینی بود!",
+     "a": "a7c0d9b4324d"
     }
    ]
   },
@@ -96,65 +124,189 @@
     {
      "fa": "سارا فریاد زد: «وای، چه ته‌دیگی! من تکه‌ی بزرگ‌تر را می‌خواهم!»",
      "r": "Sārā faryād zad: «vāy, che tah-dig-i! man tekke-ye bozorg-tar rā mi-khāham!»",
-     "en": "Sara shouted: \"Wow, what a tahdig! I want the bigger piece!\""
+     "en": "Sara shouted: \"Wow, what a tahdig! I want the bigger piece!\"",
+     "faV": "سارا فَریاد زَد: «وای، چه تَه‌دیگی! مَن تِکّه‌یِ بُزُرگ‌تَر را می‌خواهَم!»",
+     "a": "706003fa00f6"
     },
     {
      "fa": "رضا گفت: «نه، من! این بهترین ته‌دیگی است که تا حالا خورده‌ام.»",
      "r": "Rezā goft: «na, man! in behtarin tah-dig-i ast ke tā hālā khorde-am.»",
-     "en": "Reza said: \"No, me! This is the best tahdig I've ever eaten.\""
+     "en": "Reza said: \"No, me! This is the best tahdig I've ever eaten.\"",
+     "faV": "رِضا گُفت: «نه، مَن! این بِهتَرین تَه‌دیگی اَست که تا حالا خورده‌اَم.»",
+     "a": "6371b371dda2"
     },
     {
      "fa": "مادرشوهر به مینا لبخند زد و گفت: «دیدی؟ فقط کمی صبر لازم بود.»",
      "r": "mādar-showhar be Minā labkhand zad o goft: «didi? faghat kami sabr lāzem bud.»",
-     "en": "The mother-in-law smiled at Mina and said: \"You see? All it needed was a little patience.\""
+     "en": "The mother-in-law smiled at Mina and said: \"You see? All it needed was a little patience.\"",
+     "faV": "مادَرشَوهَر به مینا لَبخَند زَد و گُفت: «دیدی؟ فَقَط کَمی صَبر لازِم بود.»",
+     "a": "b118a462cdac"
     }
    ]
   }
  ],
  "vocab": [
-  {"fa": "آشپز", "r": "āshpaz", "en": "cook"},
-  {"fa": "ته‌دیگ", "r": "tah-dig", "en": "tahdig, the crispy crust at the bottom of the rice pot"},
-  {"fa": "سوخته", "r": "sukhte", "en": "burnt"},
-  {"fa": "مادرشوهر", "r": "mādar-showhar", "en": "mother-in-law (the husband's mother)"},
-  {"fa": "خراب شدن", "r": "kharāb shodan", "en": "to go wrong, be spoilt; to break down"},
-  {"fa": "یاد دادن", "r": "yād dādan", "en": "to teach"},
-  {"fa": "راز", "r": "rāz", "en": "secret"},
-  {"fa": "صبر", "r": "sabr", "en": "patience (صبر کردن 'to wait')"},
-  {"fa": "شستن", "r": "shostan", "en": "to wash"},
-  {"fa": "آب جوش", "r": "āb-e jush", "en": "boiling water"},
-  {"fa": "قابلمه", "r": "ghāblame", "en": "cooking pot, saucepan"},
-  {"fa": "روغن", "r": "roghan", "en": "oil"},
-  {"fa": "دستمال", "r": "dastmāl", "en": "cloth, tea towel; handkerchief"},
-  {"fa": "شعله", "r": "sho'le", "en": "flame"},
-  {"fa": "کنجکاو", "r": "konjkāv", "en": "curious"},
-  {"fa": "ترد", "r": "tord", "en": "crisp, crunchy"}
+  {
+   "fa": "آشپز",
+   "r": "āshpaz",
+   "en": "cook",
+   "faV": "آشپَز",
+   "a": "876c8f0a94ff"
+  },
+  {
+   "fa": "ته‌دیگ",
+   "r": "tah-dig",
+   "en": "tahdig, the crispy crust at the bottom of the rice pot",
+   "faV": "تَه‌دیگ",
+   "a": "eb24fd517141"
+  },
+  {
+   "fa": "سوخته",
+   "r": "sukhte",
+   "en": "burnt",
+   "faV": "سوخته",
+   "a": "9cddadf6db5a"
+  },
+  {
+   "fa": "مادرشوهر",
+   "r": "mādar-showhar",
+   "en": "mother-in-law (the husband's mother)",
+   "faV": "مادَرشَوهَر",
+   "a": "b987be52b662"
+  },
+  {
+   "fa": "خراب شدن",
+   "r": "kharāb shodan",
+   "en": "to go wrong, be spoilt; to break down",
+   "faV": "خَراب شُدَن",
+   "a": "b55e100f7da7"
+  },
+  {
+   "fa": "یاد دادن",
+   "r": "yād dādan",
+   "en": "to teach",
+   "faV": "یاد دادَن",
+   "a": "a2589df8c750"
+  },
+  {
+   "fa": "راز",
+   "r": "rāz",
+   "en": "secret",
+   "faV": "راز",
+   "a": "2d2188eaa593"
+  },
+  {
+   "fa": "صبر",
+   "r": "sabr",
+   "en": "patience (صبر کردن 'to wait')",
+   "faV": "صَبر",
+   "a": "5631ac8da593"
+  },
+  {
+   "fa": "شستن",
+   "r": "shostan",
+   "en": "to wash",
+   "faV": "شُستَن",
+   "a": "1b3ddc8dbc62"
+  },
+  {
+   "fa": "آب جوش",
+   "r": "āb-e jush",
+   "en": "boiling water",
+   "faV": "آبِ جوش",
+   "a": "ddd5f6f156a3"
+  },
+  {
+   "fa": "قابلمه",
+   "r": "ghāblame",
+   "en": "cooking pot, saucepan",
+   "faV": "قابلَمه",
+   "a": "8be135216ba0"
+  },
+  {
+   "fa": "روغن",
+   "r": "roghan",
+   "en": "oil",
+   "faV": "روغَن",
+   "a": "188e971aa9f5"
+  },
+  {
+   "fa": "دستمال",
+   "r": "dastmāl",
+   "en": "cloth, tea towel; handkerchief",
+   "faV": "دَستمال",
+   "a": "ae4913181605"
+  },
+  {
+   "fa": "شعله",
+   "r": "sho'le",
+   "en": "flame",
+   "faV": "شُعله",
+   "a": "42b573833eec"
+  },
+  {
+   "fa": "کنجکاو",
+   "r": "konjkāv",
+   "en": "curious",
+   "faV": "کُنجکاو",
+   "a": "cf1d96b4e501"
+  },
+  {
+   "fa": "ترد",
+   "r": "tord",
+   "en": "crisp, crunchy",
+   "faV": "تُرد",
+   "a": "dc0902584010"
+  }
  ],
  "questions": [
   {
    "q": "What was wrong with Mina's tahdig?",
-   "options": ["it was too salty", "it was either soft and white or black and burnt", "she never made rice"],
+   "options": [
+    "it was too salty",
+    "it was either soft and white or black and burnt",
+    "she never made rice"
+   ],
    "answer": 1
   },
   {
    "q": "What is the secret of good tahdig, according to the mother-in-law?",
-   "options": ["patience", "a lot of oil", "a very hot flame"],
+   "options": [
+    "patience",
+    "a lot of oil",
+    "a very hot flame"
+   ],
    "answer": 0
   },
   {
    "q": "What did they wrap the lid in?",
-   "options": ["a piece of bread", "a newspaper", "a tea towel"],
+   "options": [
+    "a piece of bread",
+    "a newspaper",
+    "a tea towel"
+   ],
    "answer": 2
   },
   {
    "q": "What had happened by the time Reza and Sara came home?",
-   "options": ["the rice had burnt", "the smell of rice had filled the house", "the guests had left"],
+   "options": [
+    "the rice had burnt",
+    "the smell of rice had filled the house",
+    "the guests had left"
+   ],
    "answer": 1
   },
   {
    "q": "What did Reza say about the tahdig?",
-   "options": ["it was too hard", "Sara should have the biggest piece", "it was the best he had ever eaten"],
+   "options": [
+    "it was too hard",
+    "Sara should have the biggest piece",
+    "it was the best he had ever eaten"
+   ],
    "answer": 2
   }
  ],
- "after": "Persian rice is first parboiled and drained, then steamed slowly – this is called دم کردن, and the cloth-wrapped lid (in Persian دم‌کنی) keeps the steam in and stops drops falling back on the rice. ته‌دیگ means literally 'the bottom of the pot': it can be plain rice, rice with yogurt and saffron, or slices of potato or lavash bread, and at the table it is always the first thing to disappear. Many women call their mother-in-law مادرجان 'mother dear' – and the mother-in-law is a favourite figure of Iranian jokes, which makes this one a pleasant surprise. Notice the kitchen imperatives with بـ (بریز 'pour', بپیچ 'wrap') and without it in compound verbs (کم کن 'turn down'), and the superlative with a که-clause and the present perfect: بهترین ته‌دیگی که تا حالا خورده‌ام 'the best tahdig I have ever eaten'."
+ "after": "Persian rice is first parboiled and drained, then steamed slowly – this is called دم کردن, and the cloth-wrapped lid (in Persian دم‌کنی) keeps the steam in and stops drops falling back on the rice. ته‌دیگ means literally 'the bottom of the pot': it can be plain rice, rice with yogurt and saffron, or slices of potato or lavash bread, and at the table it is always the first thing to disappear. Many women call their mother-in-law مادرجان 'mother dear' – and the mother-in-law is a favourite figure of Iranian jokes, which makes this one a pleasant surprise. Notice the kitchen imperatives with بـ (بریز 'pour', بپیچ 'wrap') and without it in compound verbs (کم کن 'turn down'), and the superlative with a که-clause and the present perfect: بهترین ته‌دیگی که تا حالا خورده‌ام 'the best tahdig I have ever eaten'.",
+ "titleV": "تَه‌دیگِ مینا",
+ "titleA": "f36a72482c8b"
 }

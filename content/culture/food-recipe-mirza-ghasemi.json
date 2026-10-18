@@ -33,84 +33,220 @@
   {
    "fa": "بادمجان‌ها را روی شعله‌ی گاز کباب کنید تا پوستشان سیاه شود.",
    "r": "bādemjān-hā rā ru-ye sho'le-ye gāz kabāb konid tā pust-eshān siyāh shavad.",
-   "en": "Grill the aubergines over the gas flame until their skin turns black."
+   "en": "Grill the aubergines over the gas flame until their skin turns black.",
+   "faV": "بادِمجان‌ها را رویِ شُعله‌یِ گاز کَباب کُنید تا پوستِشان سیاه شَوَد.",
+   "a": "49f634b2f385"
   },
   {
    "fa": "بادمجان‌ها را کمی خنک کنید و پوستشان را بگیرید.",
    "r": "bādemjān-hā rā kami khonak konid va pust-eshān rā be-girid.",
-   "en": "Let the aubergines cool a little and peel off their skin."
+   "en": "Let the aubergines cool a little and peel off their skin.",
+   "faV": "بادِمجان‌ها را کَمی خُنَک کُنید و پوستِشان را بِگیرید.",
+   "a": "dd8d6c00c8eb"
   },
   {
    "fa": "گوجه‌فرنگی‌ها را پوست بکنید و ریز خرد کنید.",
    "r": "gowje-farangi-hā rā pust be-kanid va riz khord konid.",
    "en": "Peel the tomatoes and chop them finely.",
    "col": "گوجه‌ها رو پوست بکن و ریز خرد کن.",
-   "colR": "gowje-hā ro pust be-kan o riz khord kon."
+   "colR": "gowje-hā ro pust be-kan o riz khord kon.",
+   "faV": "گَوجه‌فَرَنگی‌ها را پوست بِکَنید و ریز خُرد کُنید.",
+   "a": "38d5170d2392",
+   "colV": "گَوجه‌ها رو پوست بِکَن و ریز خُرد کُن.",
+   "colA": "d801bd0a0b93"
   },
   {
    "fa": "سیر را در روغن تفت بدهید ولی نگذارید بسوزد.",
    "r": "sir rā dar rowghan taft be-dahid vali na-gozārid be-suzad.",
    "en": "Fry the garlic in the oil, but don't let it burn.",
    "col": "سیرو تو روغن تفت بده ولی نذار بسوزه.",
-   "colR": "sir-o tu rowghan taft be-de vali na-zār be-suze."
+   "colR": "sir-o tu rowghan taft be-de vali na-zār be-suze.",
+   "faV": "سیر را دَر رَوغَن تَفت بِدَهید وَلی نَگُذارید بِسوزَد.",
+   "a": "410db9154bb8",
+   "colV": "سیرو تو رَوغَن تَفت بِده وَلی نَذار بِسوزه.",
+   "colA": "3c86f4b71a1e"
   },
   {
    "fa": "میرزاقاسمی بدون سیر زیاد مزه ندارد.",
    "r": "mirzā-ghāsemi bedun-e sir-e ziyād maze na-dārad.",
-   "en": "Mirza ghasemi has no taste without lots of garlic."
+   "en": "Mirza ghasemi has no taste without lots of garlic.",
+   "faV": "میرزاقاسِمی بِدونِ سیرِ زیاد مَزه نَدارَد.",
+   "a": "7de6d098f294"
   },
   {
    "fa": "بادمجان را اضافه کنید و پنج دقیقه هم بزنید.",
    "r": "bādemjān rā ezāfe konid va panj daghighe ham be-zanid.",
-   "en": "Add the aubergine and stir for five minutes."
+   "en": "Add the aubergine and stir for five minutes.",
+   "faV": "بادِمجان را اِضافه کُنید و پَنج دَقیقه هَم بِزَنید.",
+   "a": "0ef38773ff5b"
   },
   {
    "fa": "گوجه را بریزید و بگذارید آبش کشیده شود.",
    "r": "gowje rā be-rizid va be-gozārid āb-ash keshide shavad.",
    "en": "Add the tomato and let its juice cook away.",
    "col": "گوجه رو بریز و بذار آبش کشیده بشه.",
-   "colR": "gowje ro be-riz o be-zār āb-esh keshide be-she."
+   "colR": "gowje ro be-riz o be-zār āb-esh keshide be-she.",
+   "faV": "گَوجه را بِریزید و بِگُذارید آبَش کِشیده شَوَد.",
+   "a": "ac8d87ebdfd1",
+   "colV": "گَوجه رو بِریز و بِذار آبِش کِشیده بِشه.",
+   "colA": "78458debc99f"
   },
   {
    "fa": "تخم‌مرغ‌ها را در تابه بشکنید و آرام هم بزنید.",
    "r": "tokhm-e-morgh-hā rā dar tābe be-shkanid va ārām ham be-zanid.",
-   "en": "Crack the eggs into the pan and stir gently."
+   "en": "Crack the eggs into the pan and stir gently.",
+   "faV": "تُخمِ‌مُرغ‌ها را دَر تابه بِشکَنید و آرام هَم بِزَنید.",
+   "a": "188d08aa8e60"
   },
   {
    "fa": "به اندازه‌ی کافی نمک و فلفل بزنید.",
    "r": "be andāze-ye kāfi namak o felfel be-zanid.",
-   "en": "Season with enough salt and pepper."
+   "en": "Season with enough salt and pepper.",
+   "faV": "به اَندازه‌یِ کافی نَمَک و فِلفِل بِزَنید.",
+   "a": "f61c8b9f39bf"
   },
   {
    "fa": "در گیلان میرزاقاسمی را با کته می‌خورند.",
    "r": "dar Gilān mirzā-ghāsemi rā bā kate mi-khorand.",
-   "en": "In Gilan people eat mirza ghasemi with kateh rice."
+   "en": "In Gilan people eat mirza ghasemi with kateh rice.",
+   "faV": "دَر گیلان میرزاقاسِمی را با کَته می‌خورَند.",
+   "a": "44bb9df6b604"
   },
   {
    "fa": "بوی دودی بادمجان خیلی مهم است.",
    "r": "bu-ye dudi-ye bādemjān kheyli mohem ast.",
-   "en": "The smoky smell of the aubergine is very important."
+   "en": "The smoky smell of the aubergine is very important.",
+   "faV": "بویِ دودیِ بادِمجان خَیلی مُهِم اَست.",
+   "a": "a4b92dad4d24"
   }
  ],
  "vocab": [
-  {"fa": "میرزاقاسمی", "r": "mirzā-ghāsemi", "en": "mirza ghasemi, smoked aubergine with garlic and egg"},
-  {"fa": "بادمجان", "r": "bādemjān", "en": "aubergine, eggplant"},
-  {"fa": "گوجه‌فرنگی", "r": "gowje-farangi", "en": "tomato"},
-  {"fa": "رب گوجه‌فرنگی", "r": "rob-e gowje-farangi", "en": "tomato paste"},
-  {"fa": "سیر", "r": "sir", "en": "garlic"},
-  {"fa": "تخم‌مرغ", "r": "tokhm-e-morgh", "en": "egg"},
-  {"fa": "کته", "r": "kate", "en": "kateh, rice boiled until the water is absorbed"},
-  {"fa": "شعله", "r": "sho'le", "en": "flame"},
-  {"fa": "دودی", "r": "dudi", "en": "smoky, smoked"},
-  {"fa": "تابه", "r": "tābe", "en": "frying pan"},
-  {"fa": "کباب کردن", "r": "kabāb kardan", "en": "to grill, to roast over a flame"},
-  {"fa": "پوست گرفتن", "r": "pust gereftan", "en": "to peel"},
-  {"fa": "شکستن", "r": "shekastan", "en": "to break, to crack (an egg)"},
-  {"fa": "هم زدن", "r": "ham zadan", "en": "to stir"},
-  {"fa": "اضافه کردن", "r": "ezāfe kardan", "en": "to add"},
-  {"fa": "سوختن", "r": "sukhtan", "en": "to burn"},
-  {"fa": "ریز", "r": "riz", "en": "fine, small (of chopping)"},
-  {"fa": "خنک کردن", "r": "khonak kardan", "en": "to cool"}
+  {
+   "fa": "میرزاقاسمی",
+   "r": "mirzā-ghāsemi",
+   "en": "mirza ghasemi, smoked aubergine with garlic and egg",
+   "faV": "میرزاقاسِمی",
+   "a": "41bc49eb15b5"
+  },
+  {
+   "fa": "بادمجان",
+   "r": "bādemjān",
+   "en": "aubergine, eggplant",
+   "faV": "بادِمجان",
+   "a": "b68caa657580"
+  },
+  {
+   "fa": "گوجه‌فرنگی",
+   "r": "gowje-farangi",
+   "en": "tomato",
+   "faV": "گَوجه‌فَرَنگی",
+   "a": "373bfb4d4a9e"
+  },
+  {
+   "fa": "رب گوجه‌فرنگی",
+   "r": "rob-e gowje-farangi",
+   "en": "tomato paste",
+   "faV": "رُبِ گَوجه‌فَرَنگی",
+   "a": "ea32848cdb2b"
+  },
+  {
+   "fa": "سیر",
+   "r": "sir",
+   "en": "garlic",
+   "faV": "سیر",
+   "a": "757a86eaf3b4"
+  },
+  {
+   "fa": "تخم‌مرغ",
+   "r": "tokhm-e-morgh",
+   "en": "egg",
+   "faV": "تُخمِ‌مُرغ",
+   "a": "0d7a94e9d1ce"
+  },
+  {
+   "fa": "کته",
+   "r": "kate",
+   "en": "kateh, rice boiled until the water is absorbed",
+   "faV": "کَته",
+   "a": "9c6dfb86c2a6"
+  },
+  {
+   "fa": "شعله",
+   "r": "sho'le",
+   "en": "flame",
+   "faV": "شُعله",
+   "a": "42b573833eec"
+  },
+  {
+   "fa": "دودی",
+   "r": "dudi",
+   "en": "smoky, smoked",
+   "faV": "دودی",
+   "a": "964b174847f7"
+  },
+  {
+   "fa": "تابه",
+   "r": "tābe",
+   "en": "frying pan",
+   "faV": "تابه",
+   "a": "a072321d8215"
+  },
+  {
+   "fa": "کباب کردن",
+   "r": "kabāb kardan",
+   "en": "to grill, to roast over a flame",
+   "faV": "کَباب کَردَن",
+   "a": "186a1c013d04"
+  },
+  {
+   "fa": "پوست گرفتن",
+   "r": "pust gereftan",
+   "en": "to peel",
+   "faV": "پوست گِرِفتَن",
+   "a": "fa0c9fa68639"
+  },
+  {
+   "fa": "شکستن",
+   "r": "shekastan",
+   "en": "to break, to crack (an egg)",
+   "faV": "شِکَستَن",
+   "a": "0decfae2b94c"
+  },
+  {
+   "fa": "هم زدن",
+   "r": "ham zadan",
+   "en": "to stir",
+   "faV": "هَم زَدَن",
+   "a": "775e963e95f4"
+  },
+  {
+   "fa": "اضافه کردن",
+   "r": "ezāfe kardan",
+   "en": "to add",
+   "faV": "اِضافه کَردَن",
+   "a": "b0ebb0244db4"
+  },
+  {
+   "fa": "سوختن",
+   "r": "sukhtan",
+   "en": "to burn",
+   "faV": "سوختَن",
+   "a": "984cb5ee828f"
+  },
+  {
+   "fa": "ریز",
+   "r": "riz",
+   "en": "fine, small (of chopping)",
+   "faV": "ریز",
+   "a": "7e2ac5d1063c"
+  },
+  {
+   "fa": "خنک کردن",
+   "r": "khonak kardan",
+   "en": "to cool",
+   "faV": "خُنَک کَردَن",
+   "a": "48af364af8b0"
+  }
  ],
  "facts": [
   "Mirza ghasemi comes from Gilan, the Caspian province famous for its rice, rain and garlic-rich cooking.",
@@ -118,5 +254,7 @@
   "In Gilan it is eaten with kateh, rice cooked until it has absorbed all its water.",
   "Popular stories link the name to a Qajar-era nobleman of Gilan called Mirza Ghasem, but its real origin is unknown.",
   "Kal kabab, another Gilani dish, mixes smoked aubergine with walnuts, pomegranate and herbs."
- ]
+ ],
+ "titleV": "میرزاقاسِمی",
+ "titleA": "41bc49eb15b5"
 }

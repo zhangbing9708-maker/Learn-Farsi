@@ -382,10 +382,10 @@ Ferdowsi, who wrote the Shahnameh with very few Arabic words a thousand years ag
 
 **Put the words in order**
 
-1. کنید. / چند / لطفاً / دقیقه / صبر — Please wait a few minutes.
-2. زبان‌های / حافظ / است. / شده / زیادی / آثار / ترجمه / به — Hafez's works have been translated into many languages.
-3. مهمان‌ها / آمده‌اند. / همه‌ی / تقریباً — Almost all the guests have arrived.
-4. مذاکره / دو / نفت / می‌کنند. / درباره‌ی / کشور — The two countries are negotiating about oil.
+1. لطفاً / دقیقه / صبر / چند / کنید. — Please wait a few minutes.
+2. است. / حافظ / زیادی / ترجمه / زبان‌های / آثار / شده / به — Hafez's works have been translated into many languages.
+3. مهمان‌ها / همه‌ی / تقریباً / آمده‌اند. — Almost all the guests have arrived.
+4. کشور / درباره‌ی / دو / می‌کنند. / مذاکره / نفت — The two countries are negotiating about oil.
 
 <details><summary>Answers</summary>
 

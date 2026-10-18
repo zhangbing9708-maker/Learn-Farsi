@@ -58,7 +58,7 @@ Barberries are tiny, very sour red berries. Almost all of the world's barberries
 
 ### Variations
 
-Many families mix the barberries with fried slivered onion or orange peel, and restaurants often use pieces of chicken breast instead of legs. For a quicker meal, the chicken can be roasted in the oven with the same onion and saffron sauce. Leftover barberries keep in the freezer for months.
+Many families mix the barberries with slivered orange peel, and restaurants often use chicken breast instead of legs. Leftover barberries keep in the freezer for months.
 
 ### Facts
 

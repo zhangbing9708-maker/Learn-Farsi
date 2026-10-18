@@ -22,92 +22,124 @@
     {
      "fa": "داریوش عزیزم، سلام.",
      "r": "Dāriush-e aziz-am, salām.",
-     "en": "Dearest Dariush, hello."
+     "en": "Dearest Dariush, hello.",
+     "faV": "داریوشِ عَزیزَم، سَلام.",
+     "a": "256779657718"
     },
     {
      "fa": "نمی‌دانی چقدر دلمان برایت تنگ شده است.",
      "r": "nemi-dāni cheghadr del-emān barā-yat tang shode ast.",
      "en": "You can't imagine how much we miss you.",
-     "lit": "you don't know how much our heart has become tight for you"
+     "lit": "you don't know how much our heart has become tight for you",
+     "faV": "نِمی‌دانی چِقَدر دِلِمان بَرایَت تَنگ شُده اَست.",
+     "a": "e756f9b486d1"
     },
     {
      "fa": "مامان هر شب گوش به زنگ است که زنگ بزنی.",
      "r": "Māmān har shab gush be zang ast ke zang bezani.",
      "en": "Every evening Mum is on the alert, waiting for you to call.",
-     "lit": "Mum is ear-to-the-bell every night"
+     "lit": "Mum is ear-to-the-bell every night",
+     "faV": "مامان هَر شَب گوش به زَنگ اَست که زَنگ بِزَنی.",
+     "a": "f7d40ded5fb5"
     },
     {
      "fa": "هفته‌ی پیش عکست را دید که لاغر شده‌ای و جگرش کباب شد.",
      "r": "hafte-ye pish aks-at rā did ke lāghar shode-i o jegar-ash kabāb shod.",
      "en": "Last week she saw in your photo that you've got thin, and her heart bled for you.",
-     "lit": "her liver became kebab"
+     "lit": "her liver became kebab",
+     "faV": "هَفته‌یِ پیش عَکسَت را دید که لاغَر شُده‌ای و جِگَرَش کَباب شُد.",
+     "a": "68e6a689b79d"
     },
     {
      "fa": "من هم سرم خیلی شلوغ است، ولی هر روز به یادت هستم.",
      "r": "man ham sar-am kheyli sholugh ast, vali har ruz be yād-at hastam.",
      "en": "I'm swamped too, but I think of you every day.",
-     "lit": "my head is very crowded"
+     "lit": "my head is very crowded",
+     "faV": "مَن هَم سَرَم خَیلی شُلوغ اَست، وَلی هَر روز به یادَت هَستَم.",
+     "a": "568da6cca546"
     },
     {
      "fa": "خبر بزرگ این است که مهسا آخر دلش را به دریا زد و کافه‌اش را باز کرد.",
      "r": "khabar-e bozorg in ast ke Mahsā ākhar del-ash rā be daryā zad o kāfe-ash rā bāz kard.",
      "en": "The big news is that Mahsa finally took the plunge and opened her café.",
-     "lit": "she threw her heart into the sea"
+     "lit": "she threw her heart into the sea",
+     "faV": "خَبَرِ بُزُرگ این اَست که مَهسا آخَر دِلَش را به دَریا زَد و کافه‌اَش را باز کَرد.",
+     "a": "1c32412bcd5b"
     },
     {
      "fa": "ماه‌ها دل‌دل می‌کرد، اما حالا پشیمان نیست.",
      "r": "māh-hā del-del mi-kard, ammā hālā pashimān nist.",
-     "en": "She dithered for months, but now she has no regrets."
+     "en": "She dithered for months, but now she has no regrets.",
+     "faV": "ماه‌ها دِل‌دِل می‌کَرد، اَمّا حالا پَشیمان نیست.",
+     "a": "103f4de222a4"
     },
     {
      "fa": "من و امیر هم پا به پایش کار کردیم تا مغازه آماده شد.",
      "r": "man o Amir ham pā be pā-yash kār kardim tā maghāze āmāde shod.",
-     "en": "Amir and I worked alongside her, step for step, until the place was ready."
+     "en": "Amir and I worked alongside her, step for step, until the place was ready.",
+     "faV": "مَن و اَمیر هَم پا به پایَش کار کَردیم تا مَغازه آماده شُد.",
+     "a": "c92f01005907"
     },
     {
      "fa": "بابا اول گفت چشمش آب نمی‌خورد که این کار بگیرد.",
      "r": "Bābā avval goft cheshm-ash āb nemi-khorad ke in kār begirad.",
      "en": "At first Dad said he doubted the business would take off.",
-     "lit": "his eye doesn't drink water"
+     "lit": "his eye doesn't drink water",
+     "faV": "بابا اَوَّل گُفت چِشمَش آب نِمی‌خورَد که این کار بِگیرَد.",
+     "a": "ad39dbf9eaa5"
     },
     {
      "fa": "ولی حالا هر روز آن‌جا می‌نشیند و با مشتری‌ها سر به سر می‌گذارد.",
      "r": "vali hālā har ruz ān-jā mi-neshinad o bā moshtari-hā sar be sar mi-gozārad.",
-     "en": "But now he sits there every day and teases the customers."
+     "en": "But now he sits there every day and teases the customers.",
+     "faV": "وَلی حالا هَر روز آن‌جا می‌نِشینَد و با مُشتَری‌ها سَر به سَر می‌گُذارَد.",
+     "a": "0e83fac89b2f"
     },
     {
      "fa": "یکی از همسایه‌ها می‌خواست سر مهسا کلاه بگذارد و اجاره را دو برابر کند.",
      "r": "yek-i az hamsāye-hā mi-khāst sar-e Mahsā kolāh begozārad o ejāre rā do barābar konad.",
      "en": "One of the neighbours tried to con Mahsa and double the rent.",
-     "lit": "to put a hat on Mahsa's head"
+     "lit": "to put a hat on Mahsa's head",
+     "faV": "یِکی اَز هَمسایه‌ها می‌خواست سَرِ مَهسا کُلاه بِگُذارَد و اِجاره را دو بَرابَر کُنَد.",
+     "a": "740cddba0594"
     },
     {
      "fa": "اما وکیلمان دستش را رو کرد و او دیگر جرئت نکرد.",
      "r": "ammā vakil-emān dast-ash rā ru kard o u digar jor'at na-kard.",
      "en": "But our lawyer exposed his game, and he didn't dare try again.",
-     "lit": "turned his hand face up"
+     "lit": "turned his hand face up",
+     "faV": "اَمّا وَکیلِمان دَستَش را رو کَرد و او دیگَر جُرئَت نَکَرد.",
+     "a": "301209ef3cbd"
     },
     {
      "fa": "مامان می‌گوید زیادی به او رو داده بودیم.",
      "r": "Māmān mi-guyad ziyādi be u ru dāde budim.",
      "en": "Mum says we had given him far too much leeway.",
-     "lit": "we had given him face"
+     "lit": "we had given him face",
+     "faV": "مامان می‌گویَد زیادی به او رو داده بودیم.",
+     "a": "3b988fac11c1"
     },
     {
      "fa": "من زبان به دهان گرفتم و چیزی نگفتم، چون نمی‌خواستم دل کسی را بشکنم.",
      "r": "man zabān be dahān gereftam o chiz-i na-goftam, chon nemi-khāstam del-e kas-i rā beshkanam.",
-     "en": "I held my tongue and said nothing, because I didn't want to hurt anyone's feelings."
+     "en": "I held my tongue and said nothing, because I didn't want to hurt anyone's feelings.",
+     "faV": "مَن زَبان به دَهان گِرِفتَم و چیزی نَگُفتَم، چون نِمی‌خواستَم دِلِ کَسی را بِشکَنَم.",
+     "a": "22468d65ab61"
     },
     {
      "fa": "زود بیا که همه چشم به راهت هستیم.",
      "r": "zud biyā ke hame cheshm be rāh-at hastim.",
      "en": "Come home soon – we're all waiting for you.",
-     "lit": "we are all eye-on-your-road"
+     "lit": "we are all eye-on-your-road",
+     "faV": "زود بیا که هَمه چِشم به راهَت هَستیم.",
+     "a": "d9ca8c6e623d"
     },
     {
      "fa": "قربانت، لیلا",
      "r": "ghorbān-at, Leylā",
-     "en": "With love, Leila"
+     "en": "With love, Leila",
+     "faV": "قُربانَت، لَیلا",
+     "a": "601beb12de06"
     }
    ],
    "questions": [
@@ -161,8 +193,14 @@
       "r": "del-am barā-ye ghazā-ye mādar-am tang shode ast.",
       "en": "I miss my mother's cooking.",
       "col": "دلم واسه غذای مامانم تنگ شده.",
-      "colR": "del-am vāse ghazā-ye māmān-am tang shode."
-     }
+      "colR": "del-am vāse ghazā-ye māmān-am tang shode.",
+      "faV": "دِلَم بَرایِ غَذایِ مادَرَم تَنگ شُده اَست.",
+      "a": "0ec907430531",
+      "colV": "دِلَم واسه غَذایِ مامانَم تَنگ شُده.",
+      "colA": "bddcb6fa5009"
+     },
+     "faV": "دِلَم بَرایَت تَنگ شُده",
+     "a": "f88fbc4276c3"
     },
     {
      "fa": "دلم گرفته",
@@ -176,8 +214,14 @@
       "r": "emruz havā abri ast o del-am gerefte.",
       "en": "It's cloudy today and I feel low.",
       "col": "امروز هوا ابریه، دلم گرفته.",
-      "colR": "emruz havā abri-ye, del-am gerefte."
-     }
+      "colR": "emruz havā abri-ye, del-am gerefte.",
+      "faV": "اِمروز هَوا اَبری اَست و دِلَم گِرِفته.",
+      "a": "202d26181157",
+      "colV": "اِمروز هَوا اَبریه، دِلَم گِرِفته.",
+      "colA": "de336cf7815e"
+     },
+     "faV": "دِلَم گِرِفته",
+     "a": "9d4a17eda730"
     },
     {
      "fa": "به دل گرفتن",
@@ -189,8 +233,12 @@
      "ex": {
       "fa": "شوخی کردم؛ به دل نگیر.",
       "r": "shukhi kardam; be del na-gir.",
-      "en": "I was joking – don't take it to heart."
-     }
+      "en": "I was joking – don't take it to heart.",
+      "faV": "شوخی کَردَم؛ به دِل نَگیر.",
+      "a": "e16d2915c9b1"
+     },
+     "faV": "به دِل گِرِفتَن",
+     "a": "363cb317ab1c"
     },
     {
      "fa": "دل کسی را شکستن",
@@ -202,8 +250,12 @@
      "ex": {
       "fa": "با یک حرف ساده دلش را شکستی.",
       "r": "bā yek harf-e sāde del-ash rā shekasti.",
-      "en": "You hurt her feelings with one careless word."
-     }
+      "en": "You hurt her feelings with one careless word.",
+      "faV": "با یِک حَرفِ ساده دِلَش را شِکَستی.",
+      "a": "cf92cede39f1"
+     },
+     "faV": "دِلِ کَسی را شِکَستَن",
+     "a": "06799ff6e59c"
     },
     {
      "fa": "دل را به دریا زدن",
@@ -215,8 +267,12 @@
      "ex": {
       "fa": "دلم را به دریا زدم و استعفا دادم.",
       "r": "del-am rā be daryā zadam o este'fā dādam.",
-      "en": "I took the plunge and resigned."
-     }
+      "en": "I took the plunge and resigned.",
+      "faV": "دِلَم را به دَریا زَدَم و اِستِعفا دادَم.",
+      "a": "c20bcc59a192"
+     },
+     "faV": "دِل را به دَریا زَدَن",
+     "a": "585f6969a404"
     },
     {
      "fa": "دلم به حالش سوخت",
@@ -228,8 +284,12 @@
      "ex": {
       "fa": "وقتی دیدمش، دلم به حالش سوخت.",
       "r": "vaghti didam-ash, del-am be hāl-ash sukht.",
-      "en": "When I saw him, I felt sorry for him."
-     }
+      "en": "When I saw him, I felt sorry for him.",
+      "faV": "وَقتی دیدَمَش، دِلَم به حالَش سوخت.",
+      "a": "85ef9c498984"
+     },
+     "faV": "دِلَم به حالَش سوخت",
+     "a": "1a6f5fc6ff78"
     },
     {
      "fa": "جگرم کباب شد",
@@ -241,8 +301,12 @@
      "ex": {
       "fa": "جگرم کباب شد وقتی خبر زلزله را شنیدم.",
       "r": "jegar-am kabāb shod vaghti khabar-e zelzele rā shenidam.",
-      "en": "My heart bled when I heard the news of the earthquake."
-     }
+      "en": "My heart bled when I heard the news of the earthquake.",
+      "faV": "جِگَرَم کَباب شُد وَقتی خَبَرِ زِلزِله را شِنیدَم.",
+      "a": "838f4ebbcf98"
+     },
+     "faV": "جِگَرَم کَباب شُد",
+     "a": "f9bd0ba5e059"
     },
     {
      "fa": "دست کسی را رو کردن",
@@ -254,8 +318,12 @@
      "ex": {
       "fa": "دستش رو شد؛ همه فهمیدند دروغ می‌گفت.",
       "r": "dast-ash ru shod; hame fahmidand dorugh mi-goft.",
-      "en": "His game was up – everyone realised he had been lying."
-     }
+      "en": "His game was up – everyone realised he had been lying.",
+      "faV": "دَستَش رو شُد؛ هَمه فَهمیدَند دُروغ می‌گُفت.",
+      "a": "f868d21edd8d"
+     },
+     "faV": "دَستِ کَسی را رو کَردَن",
+     "a": "5aa2d21e76eb"
     },
     {
      "fa": "دست به دست هم دادن",
@@ -267,8 +335,12 @@
      "ex": {
       "fa": "همسایه‌ها دست به دست هم دادند و کوچه را تمیز کردند.",
       "r": "hamsāye-hā dast be dast-e ham dādand o kuche rā tamiz kardand.",
-      "en": "The neighbours joined forces and cleaned up the street."
-     }
+      "en": "The neighbours joined forces and cleaned up the street.",
+      "faV": "هَمسایه‌ها دَست به دَستِ هَم دادَند و کوچه را تَمیز کَردَند.",
+      "a": "a7c0a88b08f6"
+     },
+     "faV": "دَست به دَستِ هَم دادَن",
+     "a": "e9824e7429d0"
     },
     {
      "fa": "کسی را دست به سر کردن",
@@ -282,8 +354,14 @@
       "r": "har bār mi-porsam, marā bā yek bahāne dast be sar mi-konad.",
       "en": "Every time I ask, he fobs me off with an excuse.",
       "col": "هر دفعه می‌پرسم، منو با یه بهونه دست به سر می‌کنه.",
-      "colR": "har daf'e mi-porsam, mano bā ye bahune dast be sar mi-kone."
-     }
+      "colR": "har daf'e mi-porsam, mano bā ye bahune dast be sar mi-kone.",
+      "faV": "هَر بار می‌پُرسَم، مَرا با یِک بَهانه دَست به سَر می‌کُنَد.",
+      "a": "a3bfc57c512b",
+      "colV": "هَر دَفعه می‌پُرسَم، مَنو با یه بَهونه دَست به سَر می‌کُنه.",
+      "colA": "0fe5d8b2c6c3"
+     },
+     "faV": "کَسی را دَست به سَر کَردَن",
+     "a": "e5fc3d53fde1"
     },
     {
      "fa": "دست از سر کسی برداشتن",
@@ -295,8 +373,12 @@
      "ex": {
       "fa": "دست از سرم بردار؛ کار دارم!",
       "r": "dast az sar-am bardār; kār dāram!",
-      "en": "Leave me alone – I'm busy!"
-     }
+      "en": "Leave me alone – I'm busy!",
+      "faV": "دَست اَز سَرَم بَردار؛ کار دارَم!",
+      "a": "70c8ca12fb56"
+     },
+     "faV": "دَست اَز سَرِ کَسی بَرداشتَن",
+     "a": "573caecb2c4a"
     },
     {
      "fa": "پا به پای کسی",
@@ -308,8 +390,12 @@
      "ex": {
       "fa": "پدرم در همه‌ی سختی‌ها پا به پای ما آمد.",
       "r": "pedar-am dar hame-ye sakhti-hā pā be pā-ye mā āmad.",
-      "en": "My father stood by us through all the hard times."
-     }
+      "en": "My father stood by us through all the hard times.",
+      "faV": "پِدَرَم دَر هَمه‌یِ سَختی‌ها پا به پایِ ما آمَد.",
+      "a": "b7826ab0cf25"
+     },
+     "faV": "پا به پایِ کَسی",
+     "a": "f201fed82483"
     },
     {
      "fa": "پای حرف خود ایستادن",
@@ -321,8 +407,12 @@
      "ex": {
       "fa": "او پای حرفش ایستاد و پول را پس داد.",
       "r": "u pā-ye harf-ash istād o pul rā pas dād.",
-      "en": "He kept his word and paid the money back."
-     }
+      "en": "He kept his word and paid the money back.",
+      "faV": "او پایِ حَرفَش ایستاد و پول را پَس داد.",
+      "a": "1a1b2d2426a0"
+     },
+     "faV": "پایِ حَرفِ خود ایستادَن",
+     "a": "0d684334c661"
     },
     {
      "fa": "سر به سر کسی گذاشتن",
@@ -336,8 +426,14 @@
       "r": "dāri sar be sar-am mi-gozāri?",
       "en": "Are you teasing me?",
       "col": "داری سر به سرم می‌ذاری؟",
-      "colR": "dāri sar be sar-am mi-zāri?"
-     }
+      "colR": "dāri sar be sar-am mi-zāri?",
+      "faV": "داری سَر به سَرَم می‌گُذاری؟",
+      "a": "3e7b64120159",
+      "colV": "داری سَر به سَرَم می‌ذاری؟",
+      "colA": "01572fdc2b5d"
+     },
+     "faV": "سَر به سَرِ کَسی گُذاشتَن",
+     "a": "cb0928bfd5e2"
     },
     {
      "fa": "سرم شلوغ است",
@@ -351,8 +447,14 @@
       "r": "in hafte sar-am kheyli sholugh ast.",
       "en": "I'm really busy this week.",
       "col": "این هفته سرم خیلی شلوغه.",
-      "colR": "in hafte sar-am kheyli sholughe."
-     }
+      "colR": "in hafte sar-am kheyli sholughe.",
+      "faV": "این هَفته سَرَم خَیلی شُلوغ اَست.",
+      "a": "a690268541c7",
+      "colV": "این هَفته سَرَم خَیلی شُلوغه.",
+      "colA": "9b1ba68ae074"
+     },
+     "faV": "سَرَم شُلوغ اَست",
+     "a": "d79ee5623adf"
     },
     {
      "fa": "سر کسی کلاه گذاشتن",
@@ -364,8 +466,12 @@
      "ex": {
       "fa": "فروشنده سرمان کلاه گذاشت؛ این گوشی دست‌دوم بود.",
       "r": "forushande sar-emān kolāh gozāsht; in gushi dast-e-dovvom bud.",
-      "en": "The seller conned us – this phone was second-hand."
-     }
+      "en": "The seller conned us – this phone was second-hand.",
+      "faV": "فُروشَنده سَرِمان کُلاه گُذاشت؛ این گوشی دَستِ‌دُوُّم بود.",
+      "a": "d98466880992"
+     },
+     "faV": "سَرِ کَسی کُلاه گُذاشتَن",
+     "a": "735af6ba19c8"
     },
     {
      "fa": "چشمم آب نمی‌خورد",
@@ -377,8 +483,12 @@
      "ex": {
       "fa": "چشمم آب نمی‌خورد که او سر وقت بیاید.",
       "r": "cheshm-am āb nemi-khorad ke u sar-e vaght biyāyad.",
-      "en": "I doubt he'll come on time."
-     }
+      "en": "I doubt he'll come on time.",
+      "faV": "چِشمَم آب نِمی‌خورَد که او سَرِ وَقت بیایَد.",
+      "a": "663942a3d5a9"
+     },
+     "faV": "چِشمَم آب نِمی‌خورَد",
+     "a": "65f655dba285"
     },
     {
      "fa": "چشم به راه بودن",
@@ -390,8 +500,12 @@
      "ex": {
       "fa": "خانواده‌اش سال‌ها چشم به راه او بودند.",
       "r": "khānevāde-ash sāl-hā cheshm be rāh-e u budand.",
-      "en": "His family waited for him for years."
-     }
+      "en": "His family waited for him for years.",
+      "faV": "خانِواده‌اَش سال‌ها چِشم به راهِ او بودَند.",
+      "a": "9c48e4f1f0d0"
+     },
+     "faV": "چِشم به راه بودَن",
+     "a": "36c50e7d5758"
     },
     {
      "fa": "چشمت روشن",
@@ -403,8 +517,12 @@
      "ex": {
       "fa": "چشمت روشن! شنیدم نوه‌دار شدی.",
       "r": "cheshm-at roshan! shenidam nave-dār shodi.",
-      "en": "Congratulations! I hear you've become a grandmother."
-     }
+      "en": "Congratulations! I hear you've become a grandmother.",
+      "faV": "چِشمَت روشَن! شِنیدَم نَوه‌دار شُدی.",
+      "a": "c578effcbe61"
+     },
+     "faV": "چِشمَت روشَن",
+     "a": "c5261de3153c"
     },
     {
      "fa": "رو دادن",
@@ -418,8 +536,14 @@
       "r": "ziyādi be bacche-hā ru mi-dahi.",
       "en": "You let the children get away with too much.",
       "col": "زیادی به بچه‌ها رو می‌دی.",
-      "colR": "ziyādi be bacche-hā ru mi-di."
-     }
+      "colR": "ziyādi be bacche-hā ru mi-di.",
+      "faV": "زیادی به بَچّه‌ها رو می‌دَهی.",
+      "a": "c4bca3db6d38",
+      "colV": "زیادی به بَچّه‌ها رو می‌دی.",
+      "colA": "50e5edfb6745"
+     },
+     "faV": "رو دادَن",
+     "a": "c7789426be52"
     },
     {
      "fa": "رویم نمی‌شود",
@@ -433,8 +557,14 @@
       "r": "ru-yam nemi-shavad dobāre az u pul gharz begiram.",
       "en": "I'm too embarrassed to borrow money from him again.",
       "col": "روم نمی‌شه دوباره ازش پول قرض بگیرم.",
-      "colR": "ru-m nemi-she dobāre az-ash pul gharz begiram."
-     }
+      "colR": "ru-m nemi-she dobāre az-ash pul gharz begiram.",
+      "faV": "رویَم نِمی‌شَوَد دوباره اَز او پول قَرض بِگیرَم.",
+      "a": "fdc95918be36",
+      "colV": "روم نِمی‌شه دوباره اَزَش پول قَرض بِگیرَم.",
+      "colA": "56a340ee45c0"
+     },
+     "faV": "رویَم نِمی‌شَوَد",
+     "a": "25523310fef7"
     },
     {
      "fa": "گوش به زنگ بودن",
@@ -446,8 +576,12 @@
      "ex": {
       "fa": "منتظر نتیجه‌ی آزمایش هستم و گوش به زنگم.",
       "r": "montazer-e natije-ye āzmāyesh hastam o gush be zang-am.",
-      "en": "I'm waiting for the test results and on the alert."
-     }
+      "en": "I'm waiting for the test results and on the alert.",
+      "faV": "مُنتَظِرِ نَتیجه‌یِ آزمایِش هَستَم و گوش به زَنگَم.",
+      "a": "881b2f5992f2"
+     },
+     "faV": "گوش به زَنگ بودَن",
+     "a": "5ae34c367f38"
     },
     {
      "fa": "گوشش بدهکار نیست",
@@ -459,8 +593,12 @@
      "ex": {
       "fa": "گوشش بدهکار نیست؛ هر چه می‌گویم کار خودش را می‌کند.",
       "r": "gush-ash bedehkār nist; har che mi-guyam kār-e khod-ash rā mi-konad.",
-      "en": "He won't listen – whatever I say, he does as he pleases."
-     }
+      "en": "He won't listen – whatever I say, he does as he pleases.",
+      "faV": "گوشَش بِدِهکار نیست؛ هَر چه می‌گویَم کارِ خودَش را می‌کُنَد.",
+      "a": "d838a4fedb58"
+     },
+     "faV": "گوشَش بِدِهکار نیست",
+     "a": "9992a4ac6f58"
     },
     {
      "fa": "زبان به دهان گرفتن",
@@ -472,8 +610,12 @@
      "ex": {
       "fa": "بهتر است فعلاً زبان به دهان بگیری.",
       "r": "behtar ast fe'lan zabān be dahān begiri.",
-      "en": "You'd better keep quiet for now."
-     }
+      "en": "You'd better keep quiet for now.",
+      "faV": "بِهتَر اَست فِعلاً زَبان به دَهان بِگیری.",
+      "a": "2eb64eae6084"
+     },
+     "faV": "زَبان به دَهان گِرِفتَن",
+     "a": "d8e54c9cb22c"
     }
    ]
   },
@@ -489,15 +631,60 @@
      "Register"
     ],
     "rows": [
-     ["[[دلم برایت تنگ شده|del-am barā-yat tang shode]]", "my heart has become tight for you", "I miss you", "everyday, affectionate"],
-     ["[[دلم گرفته|del-am gerefte]]", "my heart has been seized", "I feel down", "everyday"],
-     ["[[به دل گرفتن|be del gereftan]]", "to take into the heart", "to take to heart, be hurt", "everyday"],
-     ["[[دل کسی را شکستن|del-e kas-i rā shekastan]]", "to break someone's heart", "to hurt someone's feelings", "neutral"],
-     ["[[دل را به دریا زدن|del rā be daryā zadan]]", "to throw one's heart into the sea", "to take the plunge", "everyday"],
-     ["[[دل‌دل کردن|del-del kardan]]", "to go 'heart, heart'", "to dither, hesitate", "informal"],
-     ["[[دلم به حالش سوخت|del-am be hāl-ash sukht]]", "my heart burned for his state", "I felt sorry for him", "everyday"],
-     ["[[جگرم کباب شد|jegar-am kabāb shod]]", "my liver became kebab", "my heart bled for someone", "emotional, everyday"],
-     ["[[جگرگوشه|jegar-gushe]]", "a corner of the liver", "darling child", "affectionate, literary"]
+     [
+      "[[دلم برایت تنگ شده|del-am barā-yat tang shode]]",
+      "my heart has become tight for you",
+      "I miss you",
+      "everyday, affectionate"
+     ],
+     [
+      "[[دلم گرفته|del-am gerefte]]",
+      "my heart has been seized",
+      "I feel down",
+      "everyday"
+     ],
+     [
+      "[[به دل گرفتن|be del gereftan]]",
+      "to take into the heart",
+      "to take to heart, be hurt",
+      "everyday"
+     ],
+     [
+      "[[دل کسی را شکستن|del-e kas-i rā shekastan]]",
+      "to break someone's heart",
+      "to hurt someone's feelings",
+      "neutral"
+     ],
+     [
+      "[[دل را به دریا زدن|del rā be daryā zadan]]",
+      "to throw one's heart into the sea",
+      "to take the plunge",
+      "everyday"
+     ],
+     [
+      "[[دل‌دل کردن|del-del kardan]]",
+      "to go 'heart, heart'",
+      "to dither, hesitate",
+      "informal"
+     ],
+     [
+      "[[دلم به حالش سوخت|del-am be hāl-ash sukht]]",
+      "my heart burned for his state",
+      "I felt sorry for him",
+      "everyday"
+     ],
+     [
+      "[[جگرم کباب شد|jegar-am kabāb shod]]",
+      "my liver became kebab",
+      "my heart bled for someone",
+      "emotional, everyday"
+     ],
+     [
+      "[[جگرگوشه|jegar-gushe]]",
+      "a corner of the liver",
+      "darling child",
+      "affectionate, literary"
+     ]
     ]
    },
    "examples": [
@@ -506,40 +693,58 @@
      "r": "del-am barā-ye kuche-hā-ye Tehrān tang shode ast.",
      "en": "I miss the streets of Tehran.",
      "col": "دلم واسه کوچه‌های تهرون تنگ شده.",
-     "colR": "del-am vāse kuche-hā-ye Tehrun tang shode."
+     "colR": "del-am vāse kuche-hā-ye Tehrun tang shode.",
+     "faV": "دِلَم بَرایِ کوچه‌هایِ تِهران تَنگ شُده اَست.",
+     "a": "9eb7d54ecb3f",
+     "colV": "دِلَم واسه کوچه‌هایِ تِهرون تَنگ شُده.",
+     "colA": "7d43b82667b4"
     },
     {
      "fa": "دلش گرفته بود و با کسی حرف نمی‌زد.",
      "r": "del-ash gerefte bud o bā kas-i harf nemi-zad.",
-     "en": "She was feeling low and wasn't talking to anyone."
+     "en": "She was feeling low and wasn't talking to anyone.",
+     "faV": "دِلَش گِرِفته بود و با کَسی حَرف نِمی‌زَد.",
+     "a": "d8563df3a7a4"
     },
     {
      "fa": "از حرفم به دل گرفت و دو روز جواب تلفنم را نداد.",
      "r": "az harf-am be del gereft o do ruz javāb-e telefon-am rā na-dād.",
-     "en": "He took what I said to heart and didn't answer my calls for two days."
+     "en": "He took what I said to heart and didn't answer my calls for two days.",
+     "faV": "اَز حَرفَم به دِل گِرِفت و دو روز جَوابِ تِلِفُنَم را نَداد.",
+     "a": "82d7ae64919e"
     },
     {
      "fa": "خیلی دل‌دل کرد، ولی آخر بلیت را خرید.",
      "r": "kheyli del-del kard, vali ākhar belit rā kharid.",
      "en": "She hesitated a long time, but in the end she bought the ticket.",
      "col": "کلی دل‌دل کرد، ولی آخرش بلیتو خرید.",
-     "colR": "kolli del-del kard, vali ākhar-esh belit-o kharid."
+     "colR": "kolli del-del kard, vali ākhar-esh belit-o kharid.",
+     "faV": "خَیلی دِل‌دِل کَرد، وَلی آخَر بِلیت را خَرید.",
+     "a": "58ce5ababab6",
+     "colV": "کُلّی دِل‌دِل کَرد، وَلی آخَرِش بِلیتو خَرید.",
+     "colA": "fb1aeb23804f"
     },
     {
      "fa": "این بچه جگرگوشه‌ی من است.",
      "r": "in bacche jegar-gushe-ye man ast.",
      "en": "This child is my darling.",
-     "note": "Literally 'a corner of my liver' – what parents and grandparents say of their children."
+     "note": "Literally 'a corner of my liver' – what parents and grandparents say of their children.",
+     "faV": "این بَچّه جِگَرگوشه‌یِ مَن اَست.",
+     "a": "453e176ef87c"
     },
     {
      "fa": "وقتی پیرمرد را تنها در باران دیدم، جگرم کباب شد.",
      "r": "vaghti pir-mard rā tanhā dar bārān didam, jegar-am kabāb shod.",
-     "en": "When I saw the old man alone in the rain, my heart bled for him."
+     "en": "When I saw the old man alone in the rain, my heart bled for him.",
+     "faV": "وَقتی پیرمَرد را تَنها دَر باران دیدَم، جِگَرَم کَباب شُد.",
+     "a": "63d9554fb411"
     },
     {
      "fa": "دلم به حال گربه‌ی گرسنه سوخت و به او غذا دادم.",
      "r": "del-am be hāl-e gorbe-ye gorosne sukht o be u ghazā dādam.",
-     "en": "I felt sorry for the hungry cat and fed it."
+     "en": "I felt sorry for the hungry cat and fed it.",
+     "faV": "دِلَم به حالِ گُربه‌یِ گُرُسنه سوخت و به او غَذا دادَم.",
+     "a": "8756aa2fd9a3"
     }
    ]
   },
@@ -555,14 +760,54 @@
      "Register"
     ],
     "rows": [
-     ["[[دست کسی را رو کردن|dast-e kas-i rā ru kardan]]", "to turn someone's hand face up", "to expose someone's game", "informal"],
-     ["[[دست به دست هم دادن|dast be dast-e ham dādan]]", "to give hand to each other's hand", "to join forces", "neutral"],
-     ["[[کسی را دست به سر کردن|kas-i rā dast be sar kardan]]", "to put a hand to someone's head", "to fob someone off", "informal"],
-     ["[[دست از سر کسی برداشتن|dast az sar-e kas-i bardāshtan]]", "to lift one's hand off someone's head", "to leave someone alone", "informal"],
-     ["[[دست‌ودل‌باز|dast-o-del-bāz]]", "open of hand and heart", "generous", "neutral"],
-     ["[[پا به پای کسی|pā be pā-ye kas-i]]", "foot to someone's foot", "alongside someone, keeping pace", "neutral"],
-     ["[[پادرمیانی کردن|pā-dar-miyāni kardan]]", "to put a foot in the middle", "to mediate, step in", "neutral"],
-     ["[[پای حرف خود ایستادن|pā-ye harf-e khod istādan]]", "to stand at the foot of one's words", "to stand by one's word", "neutral"]
+     [
+      "[[دست کسی را رو کردن|dast-e kas-i rā ru kardan]]",
+      "to turn someone's hand face up",
+      "to expose someone's game",
+      "informal"
+     ],
+     [
+      "[[دست به دست هم دادن|dast be dast-e ham dādan]]",
+      "to give hand to each other's hand",
+      "to join forces",
+      "neutral"
+     ],
+     [
+      "[[کسی را دست به سر کردن|kas-i rā dast be sar kardan]]",
+      "to put a hand to someone's head",
+      "to fob someone off",
+      "informal"
+     ],
+     [
+      "[[دست از سر کسی برداشتن|dast az sar-e kas-i bardāshtan]]",
+      "to lift one's hand off someone's head",
+      "to leave someone alone",
+      "informal"
+     ],
+     [
+      "[[دست‌ودل‌باز|dast-o-del-bāz]]",
+      "open of hand and heart",
+      "generous",
+      "neutral"
+     ],
+     [
+      "[[پا به پای کسی|pā be pā-ye kas-i]]",
+      "foot to someone's foot",
+      "alongside someone, keeping pace",
+      "neutral"
+     ],
+     [
+      "[[پادرمیانی کردن|pā-dar-miyāni kardan]]",
+      "to put a foot in the middle",
+      "to mediate, step in",
+      "neutral"
+     ],
+     [
+      "[[پای حرف خود ایستادن|pā-ye harf-e khod istādan]]",
+      "to stand at the foot of one's words",
+      "to stand by one's word",
+      "neutral"
+     ]
     ]
    },
    "examples": [
@@ -571,39 +816,57 @@
      "r": "amu-yam ādam-e dast-o-del-bāz-i ast.",
      "en": "My uncle is a generous man.",
      "col": "عموم آدم دست‌ودل‌بازیه.",
-     "colR": "amu-m ādam-e dast-o-del-bāz-iye."
+     "colR": "amu-m ādam-e dast-o-del-bāz-iye.",
+     "faV": "عَمویَم آدَمِ دَست‌ودِل‌بازی اَست.",
+     "a": "c84996f3d5cc",
+     "colV": "عَموم آدَمِ دَست‌ودِل‌بازیه.",
+     "colA": "9ed3cc49285f"
     },
     {
      "fa": "مادرم پادرمیانی کرد و دو برادر آشتی کردند.",
      "r": "mādar-am pā-dar-miyāni kard o do barādar āshti kardand.",
-     "en": "My mother stepped in, and the two brothers made up."
+     "en": "My mother stepped in, and the two brothers made up.",
+     "faV": "مادَرَم پادَرمیانی کَرد و دو بَرادَر آشتی کَردَند.",
+     "a": "f91a5068b338"
     },
     {
      "fa": "اگر دست به دست هم بدهیم، این کار یک‌روزه تمام می‌شود.",
      "r": "agar dast be dast-e ham bedahim, in kār yek-ruze tamām mi-shavad.",
-     "en": "If we join forces, the job will be done in a day."
+     "en": "If we join forces, the job will be done in a day.",
+     "faV": "اَگَر دَست به دَستِ هَم بِدَهیم، این کار یِک‌روزه تَمام می‌شَوَد.",
+     "a": "d3cee8cf65c9"
     },
     {
      "fa": "سرانجام دست شرکت را رو کردند: قیمت‌ها را عمداً بالا برده بود.",
      "r": "saranjām dast-e sherkat rā ru kardand: gheymat-hā rā amdan bālā borde bud.",
-     "en": "In the end they exposed the company: it had pushed prices up on purpose."
+     "en": "In the end they exposed the company: it had pushed prices up on purpose.",
+     "faV": "سَراَنجام دَستِ شِرکَت را رو کَردَند: قَیمَت‌ها را عَمداً بالا بُرده بود.",
+     "a": "9109d885a8c8"
     },
     {
      "fa": "سه ماه است که صاحبخانه ما را دست به سر می‌کند.",
      "r": "se māh ast ke sāheb-khāne mā rā dast be sar mi-konad.",
      "en": "For three months the landlord has been fobbing us off.",
      "col": "سه ماهه صاحبخونه ما رو دست به سر می‌کنه.",
-     "colR": "se māh-e sāheb-khune mā ro dast be sar mi-kone."
+     "colR": "se māh-e sāheb-khune mā ro dast be sar mi-kone.",
+     "faV": "سه ماه اَست که صاحِبخانه ما را دَست به سَر می‌کُنَد.",
+     "a": "37bbea4998bb",
+     "colV": "سه ماهه صاحِبخونه ما رو دَست به سَر می‌کُنه.",
+     "colA": "a81f0e029370"
     },
     {
      "fa": "دوستانش تا آخر شب پا به پایش رقصیدند.",
      "r": "dustān-ash tā ākhar-e shab pā be pā-yash raghsidand.",
-     "en": "His friends danced with him until the end of the night."
+     "en": "His friends danced with him until the end of the night.",
+     "faV": "دوستانَش تا آخَرِ شَب پا به پایَش رَقصیدَند.",
+     "a": "b8c8db4e9be6"
     },
     {
      "fa": "قول داده بود و پای حرفش ایستاد.",
      "r": "ghowl dāde bud o pā-ye harf-ash istād.",
-     "en": "He had promised, and he kept his word."
+     "en": "He had promised, and he kept his word.",
+     "faV": "قَول داده بود و پایِ حَرفَش ایستاد.",
+     "a": "999c13670852"
     }
    ]
   },
@@ -619,19 +882,84 @@
      "Register"
     ],
     "rows": [
-     ["[[سر به سر کسی گذاشتن|sar be sar-e kas-i gozāshtan]]", "to put head to someone's head", "to tease someone", "informal, friendly"],
-     ["[[سرم شلوغ است|sar-am sholugh ast]]", "my head is crowded", "I'm swamped", "everyday"],
-     ["[[سر درآوردن|sar dar-āvardan]]", "to bring one's head out (of something)", "to make sense of, figure out", "informal"],
-     ["[[سر کسی کلاه گذاشتن|sar-e kas-i kolāh gozāshtan]]", "to put a hat on someone's head", "to con someone", "informal"],
-     ["[[چشمم آب نمی‌خورد|cheshm-am āb nemi-khorad]]", "my eye doesn't drink water", "I doubt it", "informal"],
-     ["[[چشم به راه بودن|cheshm be rāh budan]]", "to have one's eye on the road", "to wait anxiously for someone", "neutral, literary"],
-     ["[[چشم‌وهم‌چشمی|cheshm-o-ham-cheshmi]]", "eye and equal-eye", "rivalry, keeping up with the neighbours", "neutral"],
-     ["[[چشمت روشن|cheshm-at roshan]]", "may your eye be bright", "congratulations (also ironic)", "everyday"],
-     ["[[رو دادن|ru dādan]]", "to give face", "to give too much leeway, spoil", "informal"],
-     ["[[رویم نمی‌شود|ru-yam nemi-shavad]]", "my face can't manage", "I'm too embarrassed to", "everyday"],
-     ["[[گوش به زنگ بودن|gush be zang budan]]", "ear to the bell", "to be on the alert", "neutral"],
-     ["[[گوشش بدهکار نیست|gush-ash bedehkār nist]]", "his ear owes nothing", "he won't listen", "informal"],
-     ["[[زبان به دهان گرفتن|zabān be dahān gereftan]]", "to take one's tongue into one's mouth", "to hold one's tongue", "neutral, literary"]
+     [
+      "[[سر به سر کسی گذاشتن|sar be sar-e kas-i gozāshtan]]",
+      "to put head to someone's head",
+      "to tease someone",
+      "informal, friendly"
+     ],
+     [
+      "[[سرم شلوغ است|sar-am sholugh ast]]",
+      "my head is crowded",
+      "I'm swamped",
+      "everyday"
+     ],
+     [
+      "[[سر درآوردن|sar dar-āvardan]]",
+      "to bring one's head out (of something)",
+      "to make sense of, figure out",
+      "informal"
+     ],
+     [
+      "[[سر کسی کلاه گذاشتن|sar-e kas-i kolāh gozāshtan]]",
+      "to put a hat on someone's head",
+      "to con someone",
+      "informal"
+     ],
+     [
+      "[[چشمم آب نمی‌خورد|cheshm-am āb nemi-khorad]]",
+      "my eye doesn't drink water",
+      "I doubt it",
+      "informal"
+     ],
+     [
+      "[[چشم به راه بودن|cheshm be rāh budan]]",
+      "to have one's eye on the road",
+      "to wait anxiously for someone",
+      "neutral, literary"
+     ],
+     [
+      "[[چشم‌وهم‌چشمی|cheshm-o-ham-cheshmi]]",
+      "eye and equal-eye",
+      "rivalry, keeping up with the neighbours",
+      "neutral"
+     ],
+     [
+      "[[چشمت روشن|cheshm-at roshan]]",
+      "may your eye be bright",
+      "congratulations (also ironic)",
+      "everyday"
+     ],
+     [
+      "[[رو دادن|ru dādan]]",
+      "to give face",
+      "to give too much leeway, spoil",
+      "informal"
+     ],
+     [
+      "[[رویم نمی‌شود|ru-yam nemi-shavad]]",
+      "my face can't manage",
+      "I'm too embarrassed to",
+      "everyday"
+     ],
+     [
+      "[[گوش به زنگ بودن|gush be zang budan]]",
+      "ear to the bell",
+      "to be on the alert",
+      "neutral"
+     ],
+     [
+      "[[گوشش بدهکار نیست|gush-ash bedehkār nist]]",
+      "his ear owes nothing",
+      "he won't listen",
+      "informal"
+     ],
+     [
+      "[[زبان به دهان گرفتن|zabān be dahān gereftan]]",
+      "to take one's tongue into one's mouth",
+      "to hold one's tongue",
+      "neutral, literary"
+     ]
     ]
    },
    "examples": [
@@ -640,46 +968,68 @@
      "r": "az in nāme-ye edāri hich sar dar nemi-āvaram.",
      "en": "I can't make head or tail of this official letter.",
      "col": "از این نامه‌ی اداری هیچی سر درنمیارم.",
-     "colR": "az in nāme-ye edāri hichi sar dar-nemiyāram."
+     "colR": "az in nāme-ye edāri hichi sar dar-nemiyāram.",
+     "faV": "اَز این نامه‌یِ اِداری هیچ سَر دَر نِمی‌آوَرَم.",
+     "a": "581512b66865",
+     "colV": "اَز این نامه‌یِ اِداری هیچی سَر دَرنِمیارَم.",
+     "colA": "08fb90f850e8"
     },
     {
      "fa": "چشم‌وهم‌چشمی باعث شد عروسی‌شان آن‌قدر گران شود.",
      "r": "cheshm-o-ham-cheshmi bā'es shod arusi-shān ān-ghadr gerān shavad.",
-     "en": "Keeping up with the neighbours made their wedding so expensive."
+     "en": "Keeping up with the neighbours made their wedding so expensive.",
+     "faV": "چِشم‌وهَم‌چِشمی باعِث شُد عَروسی‌شان آن‌قَدر گِران شَوَد.",
+     "a": "913871bda9b7"
     },
     {
      "fa": "بچه‌ها، سر به سر مادربزرگ نگذارید!",
      "r": "bacche-hā, sar be sar-e mādar-bozorg na-gozārid!",
      "en": "Children, don't tease Grandma!",
      "col": "بچه‌ها، سر به سر مادربزرگ نذارین!",
-     "colR": "bacche-hā, sar be sar-e mādar-bozorg na-zārin!"
+     "colR": "bacche-hā, sar be sar-e mādar-bozorg na-zārin!",
+     "faV": "بَچّه‌ها، سَر به سَرِ مادَربُزُرگ نَگُذارید!",
+     "a": "7e8afddb69bd",
+     "colV": "بَچّه‌ها، سَر به سَرِ مادَربُزُرگ نَذارین!",
+     "colA": "f3dda634091a"
     },
     {
      "fa": "چشمت روشن! پسرت سرانجام از سفر برگشت.",
      "r": "cheshm-at roshan! pesar-at saranjām az safar bargasht.",
-     "en": "Congratulations! Your son is home from his travels at last."
+     "en": "Congratulations! Your son is home from his travels at last.",
+     "faV": "چِشمَت روشَن! پِسَرَت سَراَنجام اَز سَفَر بَرگَشت.",
+     "a": "8da2772aae5f"
     },
     {
      "fa": "گوشم بدهکار نیست؛ تا عذرخواهی نکنی، نمی‌بخشمت.",
      "r": "gush-am bedehkār nist; tā ozr-khāhi na-koni, nemi-bakhsham-at.",
-     "en": "I'm not listening – until you apologise, I won't forgive you."
+     "en": "I'm not listening – until you apologise, I won't forgive you.",
+     "faV": "گوشَم بِدِهکار نیست؛ تا عُذرخواهی نَکُنی، نِمی‌بَخشَمَت.",
+     "a": "13f85ed32fe2"
     },
     {
      "fa": "در جلسه زبان به دهان گرفتم، ولی بعد همه چیز را به مدیر گفتم.",
      "r": "dar jalase zabān be dahān gereftam, vali ba'd hame chiz rā be modir goftam.",
-     "en": "In the meeting I held my tongue, but afterwards I told the manager everything."
+     "en": "In the meeting I held my tongue, but afterwards I told the manager everything.",
+     "faV": "دَر جَلَسه زَبان به دَهان گِرِفتَم، وَلی بَعد هَمه چیز را به مُدیر گُفتَم.",
+     "a": "3b3d835750d0"
     },
     {
      "fa": "شب امتحان همه گوش به زنگ بودند که نتیجه‌ها اعلام شود.",
      "r": "shab-e emtehān hame gush be zang budand ke natije-hā e'lām shavad.",
-     "en": "The night of the exam, everyone was on the alert for the results to be announced."
+     "en": "The night of the exam, everyone was on the alert for the results to be announced.",
+     "faV": "شَبِ اِمتِحان هَمه گوش به زَنگ بودَند که نَتیجه‌ها اِعلام شَوَد.",
+     "a": "0da504960cd8"
     },
     {
      "fa": "رویش نشد بگوید که پول ندارد.",
      "r": "ru-yash na-shod beguyad ke pul na-dārad.",
      "en": "He was too embarrassed to say he had no money.",
      "col": "روش نشد بگه پول نداره.",
-     "colR": "ru-sh na-shod bege pul na-dāre."
+     "colR": "ru-sh na-shod bege pul na-dāre.",
+     "faV": "رویَش نَشُد بِگویَد که پول نَدارَد.",
+     "a": "fea41505a3d9",
+     "colV": "روش نَشُد بِگه پول نَداره.",
+     "colA": "c9dde3d49d83"
     }
    ]
   },
@@ -694,7 +1044,11 @@
      "r": "Sārā, Rezā gozāresh rā tamām kard?",
      "en": "Sara, did Reza finish the report?",
      "col": "سارا، رضا گزارشو تموم کرد؟",
-     "colR": "Sārā, Rezā gozāresh-o tamum kard?"
+     "colR": "Sārā, Rezā gozāresh-o tamum kard?",
+     "faV": "سارا، رِضا گُزارِش را تَمام کَرد؟",
+     "a": "e4f5e327ec5e",
+     "colV": "سارا، رِضا گُزارِشو تَموم کَرد؟",
+     "colA": "7d12e52f0f8d"
     },
     {
      "who": "Sara",
@@ -702,7 +1056,11 @@
      "r": "na! se ruz ast marā dast be sar mi-konad: «fardā, fardā».",
      "en": "No! For three days he's been fobbing me off: 'Tomorrow, tomorrow.'",
      "col": "نه! سه روزه منو دست به سر می‌کنه: «فردا، فردا».",
-     "colR": "na! se ruz-e mano dast be sar mi-kone: «fardā, fardā»."
+     "colR": "na! se ruz-e mano dast be sar mi-kone: «fardā, fardā».",
+     "faV": "نه! سه روز اَست مَرا دَست به سَر می‌کُنَد: «فَردا، فَردا».",
+     "a": "3071dee79480",
+     "colV": "نه! سه روزه مَنو دَست به سَر می‌کُنه: «فَردا، فَردا».",
+     "colA": "fd1a8f28d472"
     },
     {
      "who": "Amir",
@@ -710,7 +1068,11 @@
      "r": "cheshm-am āb nemi-khorad ke tā panjshanbe tamām-ash konad.",
      "en": "I doubt he'll finish it by Thursday.",
      "col": "چشمم آب نمی‌خوره تا پنجشنبه تمومش کنه.",
-     "colR": "cheshm-am āb nemi-khore tā panjshanbe tamum-esh kone."
+     "colR": "cheshm-am āb nemi-khore tā panjshanbe tamum-esh kone.",
+     "faV": "چِشمَم آب نِمی‌خورَد که تا پَنجشَنبه تَمامَش کُنَد.",
+     "a": "a6f4a572b992",
+     "colV": "چِشمَم آب نِمی‌خوره تا پَنجشَنبه تَمومِش کُنه.",
+     "colA": "0b7b7f0ae9ee"
     },
     {
      "who": "Sara",
@@ -718,7 +1080,11 @@
      "r": "taghsir-e khod-emān ast; ziyādi be u ru dādim.",
      "en": "It's our own fault – we've given him far too much leeway.",
      "col": "تقصیر خودمونه؛ زیادی بهش رو دادیم.",
-     "colR": "taghsir-e khod-emun-e; ziyādi beh-esh ru dādim."
+     "colR": "taghsir-e khod-emun-e; ziyādi beh-esh ru dādim.",
+     "faV": "تَقصیرِ خودِمان اَست؛ زیادی به او رو دادیم.",
+     "a": "3e4edc510b4f",
+     "colV": "تَقصیرِ خودِمونه؛ زیادی بِهِش رو دادیم.",
+     "colA": "01c85253adc2"
     },
     {
      "who": "Amir",
@@ -726,7 +1092,11 @@
      "r": "biyā dast be dast-e ham bedahim o khod-emān tamām-ash konim.",
      "en": "Let's join forces and finish it ourselves.",
      "col": "بیا دست به دست هم بدیم، خودمون تمومش کنیم.",
-     "colR": "biyā dast be dast-e ham bedim, khod-emun tamum-esh konim."
+     "colR": "biyā dast be dast-e ham bedim, khod-emun tamum-esh konim.",
+     "faV": "بیا دَست به دَستِ هَم بِدَهیم و خودِمان تَمامَش کُنیم.",
+     "a": "2c4ef1e903eb",
+     "colV": "بیا دَست به دَستِ هَم بِدیم، خودِمون تَمومِش کُنیم.",
+     "colA": "e2da2db43c0d"
     },
     {
      "who": "Sara",
@@ -734,7 +1104,11 @@
      "r": "bāshad, vali ru-yam nemi-shavad be khānom-e Ahmadi beguyam ke Rezā kār na-karde.",
      "en": "All right, but I'm too embarrassed to tell Ms Ahmadi that Reza hasn't done the work.",
      "col": "باشه، ولی روم نمی‌شه به خانم احمدی بگم رضا کار نکرده.",
-     "colR": "bāshe, vali ru-m nemi-she be khānom-e Ahmadi begam Rezā kār na-karde."
+     "colR": "bāshe, vali ru-m nemi-she be khānom-e Ahmadi begam Rezā kār na-karde.",
+     "faV": "باشَد، وَلی رویَم نِمی‌شَوَد به خانُمِ اَحمَدی بِگویَم که رِضا کار نَکَرده.",
+     "a": "b0eb5ebbd872",
+     "colV": "باشه، وَلی روم نِمی‌شه به خانُمِ اَحمَدی بِگَم رِضا کار نَکَرده.",
+     "colA": "2a46d24b4ebc"
     },
     {
      "who": "Amir",
@@ -742,7 +1116,11 @@
      "r": "lāzem nist. zabān be dahān begir; khod-ash dast-ash ru mi-shavad.",
      "en": "No need. Keep quiet – his game will be up on its own.",
      "col": "لازم نیست. زبون به دهن بگیر؛ خودش دستش رو می‌شه.",
-     "colR": "lāzem nist. zabun be dahan begir; khod-ash dast-ash ru mi-she."
+     "colR": "lāzem nist. zabun be dahan begir; khod-ash dast-ash ru mi-she.",
+     "faV": "لازِم نیست. زَبان به دَهان بِگیر؛ خودَش دَستَش رو می‌شَوَد.",
+     "a": "62a8891e90a5",
+     "colV": "لازِم نیست. زَبون به دَهَن بِگیر؛ خودَش دَستَش رو می‌شه.",
+     "colA": "2b16dc0c14bb"
     },
     {
      "who": "Sara",
@@ -750,7 +1128,11 @@
      "r": "to ham hamishe sar be sar-e man mi-gozāri! jeddi mi-guyi?",
      "en": "You're always teasing me! Are you serious?",
      "col": "تو هم همیشه سر به سر من می‌ذاری! جدی می‌گی؟",
-     "colR": "to ham hamishe sar be sar-e man mi-zāri! jeddi mi-gi?"
+     "colR": "to ham hamishe sar be sar-e man mi-zāri! jeddi mi-gi?",
+     "faV": "تو هَم هَمیشه سَر به سَرِ مَن می‌گُذاری! جِدّی می‌گویی؟",
+     "a": "17da8b6f48b8",
+     "colV": "تو هَم هَمیشه سَر به سَرِ مَن می‌ذاری! جِدّی می‌گی؟",
+     "colA": "968a0d0c75c1"
     },
     {
      "who": "Amir",
@@ -759,7 +1141,11 @@
      "en": "This time I'm serious. Ms Ahmadi has heard it all before.",
      "col": "این دفعه جدی‌ام. خانم احمدی گوشش از این حرفا پره.",
      "colR": "in daf'e jeddi-am. khānom-e Ahmadi gush-ash az in harf-ā pore.",
-     "lit": "her ear is full of these words"
+     "lit": "her ear is full of these words",
+     "faV": "این بار جِدّی‌اَم. خانُمِ اَحمَدی گوشَش اَز این حَرف‌ها پُر اَست.",
+     "a": "a2c24d2b51f3",
+     "colV": "این دَفعه جِدّی‌اَم. خانُمِ اَحمَدی گوشَش اَز این حَرفا پُره.",
+     "colA": "1f1ca0cbbeb7"
     },
     {
      "who": "Sara",
@@ -767,7 +1153,11 @@
      "r": "bāshad. pas emshab pā be pā-ye ham kār mi-konim.",
      "en": "OK. Then tonight we work side by side.",
      "col": "باشه. پس امشب پا به پای هم کار می‌کنیم.",
-     "colR": "bāshe. pas emshab pā be pā-ye ham kār mi-konim."
+     "colR": "bāshe. pas emshab pā be pā-ye ham kār mi-konim.",
+     "faV": "باشَد. پَس اِمشَب پا به پایِ هَم کار می‌کُنیم.",
+     "a": "60741f8f5d81",
+     "colV": "باشه. پَس اِمشَب پا به پایِ هَم کار می‌کُنیم.",
+     "colA": "e1a47c0e17f9"
     },
     {
      "who": "Amir",
@@ -775,7 +1165,11 @@
      "r": "o gush be zang bāsh; agar Rezā zang zad, del-at be hāl-ash na-suzad!",
      "en": "And be on the alert – if Reza calls, don't go feeling sorry for him!",
      "col": "گوش به زنگ باش؛ اگه رضا زنگ زد، دلت به حالش نسوزه!",
-     "colR": "gush be zang bāsh; age Rezā zang zad, del-at be hāl-ash na-suze!"
+     "colR": "gush be zang bāsh; age Rezā zang zad, del-at be hāl-ash na-suze!",
+     "faV": "و گوش به زَنگ باش؛ اَگَر رِضا زَنگ زَد، دِلَت به حالَش نَسوزَد!",
+     "a": "446fc25bdba0",
+     "colV": "گوش به زَنگ باش؛ اَگه رِضا زَنگ زَد، دِلَت به حالَش نَسوزه!",
+     "colA": "607738bb65d1"
     },
     {
      "who": "Sara",
@@ -784,7 +1178,11 @@
      "en": "I can't promise. I'm soft-hearted!",
      "col": "قول نمی‌دم. من دلم نازکه!",
      "colR": "ghowl nemi-dam. man del-am nāzoke!",
-     "lit": "my heart is thin"
+     "lit": "my heart is thin",
+     "faV": "قَول نِمی‌دَهَم. مَن دِلَم نازُک اَست!",
+     "a": "4b267e7c26f8",
+     "colV": "قَول نِمی‌دَم. مَن دِلَم نازُکه!",
+     "colA": "2fdd76bf1150"
     }
    ]
   },
@@ -930,27 +1328,37 @@
     {
      "en": "We miss you very much.",
      "fa": "دلمان خیلی برایت تنگ شده است.",
-     "r": "del-emān kheyli barā-yat tang shode ast."
+     "r": "del-emān kheyli barā-yat tang shode ast.",
+     "faV": "دِلِمان خَیلی بَرایَت تَنگ شُده اَست.",
+     "a": "35cf82b871b5"
     },
     {
      "en": "Don't take it to heart.",
      "fa": "به دل نگیر.",
-     "r": "be del na-gir."
+     "r": "be del na-gir.",
+     "faV": "به دِل نَگیر.",
+     "a": "84acc68912aa"
     },
     {
      "en": "I'm too embarrassed to ask him.",
      "fa": "رویم نمی‌شود از او بپرسم.",
-     "r": "ru-yam nemi-shavad az u beporsam."
+     "r": "ru-yam nemi-shavad az u beporsam.",
+     "faV": "رویَم نِمی‌شَوَد اَز او بِپُرسَم.",
+     "a": "745e0fe836fa"
     },
     {
      "en": "Let's join forces.",
      "fa": "بیا دست به دست هم بدهیم.",
-     "r": "biyā dast be dast-e ham bedahim."
+     "r": "biyā dast be dast-e ham bedahim.",
+     "faV": "بیا دَست به دَستِ هَم بِدَهیم.",
+     "a": "b014c040827b"
     },
     {
      "en": "He kept his word.",
      "fa": "او پای حرفش ایستاد.",
-     "r": "u pā-ye harf-ash istād."
+     "r": "u pā-ye harf-ash istād.",
+     "faV": "او پایِ حَرفَش ایستاد.",
+     "a": "9fd0b6e121ac"
     }
    ]
   },
@@ -962,22 +1370,30 @@
     {
      "fa": "این هفته سرم خیلی شلوغ است.",
      "r": "in hafte sar-am kheyli sholugh ast.",
-     "en": "I'm very busy this week."
+     "en": "I'm very busy this week.",
+     "faV": "این هَفته سَرَم خَیلی شُلوغ اَست.",
+     "a": "a690268541c7"
     },
     {
      "fa": "مهسا دلش را به دریا زد.",
      "r": "Mahsā del-ash rā be daryā zad.",
-     "en": "Mahsa took the plunge."
+     "en": "Mahsa took the plunge.",
+     "faV": "مَهسا دِلَش را به دَریا زَد.",
+     "a": "44aee471292f"
     },
     {
      "fa": "همه چشم به راه تو هستیم.",
      "r": "hame cheshm be rāh-e to hastim.",
-     "en": "We are all waiting for you."
+     "en": "We are all waiting for you.",
+     "faV": "هَمه چِشم به راهِ تو هَستیم.",
+     "a": "778766fa68a0"
     },
     {
      "fa": "چشمم آب نمی‌خورد که باران بیاید.",
      "r": "cheshm-am āb nemi-khorad ke bārān biyāyad.",
-     "en": "I doubt it will rain."
+     "en": "I doubt it will rain.",
+     "faV": "چِشمَم آب نِمی‌خورَد که باران بیایَد.",
+     "a": "d06748e6779f"
     }
    ]
   },
@@ -989,42 +1405,58 @@
     {
      "fa": "دلم گرفته",
      "r": "del-am gerefte",
-     "en": "I feel down"
+     "en": "I feel down",
+     "faV": "دِلَم گِرِفته",
+     "a": "9d4a17eda730"
     },
     {
      "fa": "جگرم کباب شد",
      "r": "jegar-am kabāb shod",
-     "en": "my heart bled for them"
+     "en": "my heart bled for them",
+     "faV": "جِگَرَم کَباب شُد",
+     "a": "f9bd0ba5e059"
     },
     {
      "fa": "دست کسی را رو کردن",
      "r": "dast-e kas-i rā ru kardan",
-     "en": "to expose someone's game"
+     "en": "to expose someone's game",
+     "faV": "دَستِ کَسی را رو کَردَن",
+     "a": "5aa2d21e76eb"
     },
     {
      "fa": "سر به سر کسی گذاشتن",
      "r": "sar be sar-e kas-i gozāshtan",
-     "en": "to tease someone"
+     "en": "to tease someone",
+     "faV": "سَر به سَرِ کَسی گُذاشتَن",
+     "a": "cb0928bfd5e2"
     },
     {
      "fa": "سر کسی کلاه گذاشتن",
      "r": "sar-e kas-i kolāh gozāshtan",
-     "en": "to con someone"
+     "en": "to con someone",
+     "faV": "سَرِ کَسی کُلاه گُذاشتَن",
+     "a": "735af6ba19c8"
     },
     {
      "fa": "گوش به زنگ بودن",
      "r": "gush be zang budan",
-     "en": "to be on the alert"
+     "en": "to be on the alert",
+     "faV": "گوش به زَنگ بودَن",
+     "a": "5ae34c367f38"
     },
     {
      "fa": "زبان به دهان گرفتن",
      "r": "zabān be dahān gereftan",
-     "en": "to hold one's tongue"
+     "en": "to hold one's tongue",
+     "faV": "زَبان به دَهان گِرِفتَن",
+     "a": "d8e54c9cb22c"
     },
     {
      "fa": "رو دادن",
      "r": "ru dādan",
-     "en": "to give too much leeway"
+     "en": "to give too much leeway",
+     "faV": "رو دادَن",
+     "a": "c7789426be52"
     }
    ]
   },
@@ -1042,7 +1474,9 @@
       "The streets of Tehran are narrow.",
       "I'm tired of Tehran's streets."
      ],
-     "answer": 0
+     "answer": 0,
+     "faV": "دِلَم بَرایِ کوچه‌هایِ تِهران تَنگ شُده اَست.",
+     "a": "9eb7d54ecb3f"
     },
     {
      "fa": "گوشش بدهکار نیست.",
@@ -1053,7 +1487,9 @@
       "His ear hurts.",
       "He won't listen."
      ],
-     "answer": 2
+     "answer": 2,
+     "faV": "گوشَش بِدِهکار نیست.",
+     "a": "d1c58a302258"
     },
     {
      "fa": "داری سر به سرم می‌گذاری؟",
@@ -1064,9 +1500,13 @@
       "Are you teasing me?",
       "Are you helping me?"
      ],
-     "answer": 1
+     "answer": 1,
+     "faV": "داری سَر به سَرَم می‌گُذاری؟",
+     "a": "3e7b64120159"
     }
    ]
   }
- ]
+ ],
+ "titleV": "اِصطِلاحاتِ دِل و دَست و سَر و چِشم",
+ "titleA": "e8cc6fd906c8"
 }

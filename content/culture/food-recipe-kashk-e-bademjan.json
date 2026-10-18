@@ -35,92 +35,240 @@
    "r": "bādemjān-hā rā pust be-kanid va az derāzā varaghe konid.",
    "en": "Peel the aubergines and slice them lengthwise.",
    "col": "بادمجونا رو پوست بکن و از درازا ورقه کن.",
-   "colR": "bādemjun-ā ro pust be-kan o az derāzā varaghe kon."
+   "colR": "bādemjun-ā ro pust be-kan o az derāzā varaghe kon.",
+   "faV": "بادِمجان‌ها را پوست بِکَنید و اَز دِرازا وَرَقه کُنید.",
+   "a": "2c9ea2fb5fb8",
+   "colV": "بادِمجونا رو پوست بِکَن و اَز دِرازا وَرَقه کُن.",
+   "colA": "18a5b18f9683"
   },
   {
    "fa": "روی بادمجان‌ها نمک بپاشید تا تلخی‌شان برود.",
    "r": "ru-ye bādemjān-hā namak be-pāshid tā talkhi-shān be-ravad.",
-   "en": "Sprinkle salt on the aubergines to take away their bitterness."
+   "en": "Sprinkle salt on the aubergines to take away their bitterness.",
+   "faV": "رویِ بادِمجان‌ها نَمَک بِپاشید تا تَلخی‌شان بِرَوَد.",
+   "a": "ed6829cd275a"
   },
   {
    "fa": "پیاز را نازک خلال کنید و سرخ کنید تا طلایی شود.",
    "r": "piyāz rā nāzok khalāl konid va sorkh konid tā talāyi shavad.",
    "en": "Slice the onion thinly and fry it until it is golden.",
    "col": "پیازو نازک خلال کن و سرخ کن تا طلایی بشه.",
-   "colR": "piyāz-o nāzok khalāl kon o sorkh kon tā talāyi be-she."
+   "colR": "piyāz-o nāzok khalāl kon o sorkh kon tā talāyi be-she.",
+   "faV": "پیاز را نازُک خَلال کُنید و سُرخ کُنید تا طَلایی شَوَد.",
+   "a": "f04b2447bd6e",
+   "colV": "پیازو نازُک خَلال کُن و سُرخ کُن تا طَلایی بِشه.",
+   "colA": "24ce273f1114"
   },
   {
    "fa": "سیر را با زردچوبه کمی تفت بدهید.",
    "r": "sir rā bā zardchube kami taft be-dahid.",
    "en": "Fry the garlic briefly with the turmeric.",
    "col": "سیرو با زردچوبه یه کم تفت بده.",
-   "colR": "sir-o bā zardchube ye kam taft be-de."
+   "colR": "sir-o bā zardchube ye kam taft be-de.",
+   "faV": "سیر را با زَردچوبه کَمی تَفت بِدَهید.",
+   "a": "678c548fd473",
+   "colV": "سیرو با زَردچوبه یه کَم تَفت بِده.",
+   "colA": "78e42a36b4d5"
   },
   {
    "fa": "بادمجان‌های سرخ‌شده را با چنگال له کنید.",
    "r": "bādemjān-hā-ye sorkh-shode rā bā changāl leh konid.",
-   "en": "Mash the fried aubergines with a fork."
+   "en": "Mash the fried aubergines with a fork.",
+   "faV": "بادِمجان‌هایِ سُرخ‌شُده را با چَنگال لِه کُنید.",
+   "a": "e3189e3b58d7"
   },
   {
    "fa": "بگذارید ده دقیقه روی حرارت ملایم بجوشد.",
    "r": "be-gozārid dah daghighe ru-ye harārat-e molāyem be-jushad.",
    "en": "Let it simmer on a low heat for ten minutes.",
    "col": "بذار ده دقیقه رو حرارت ملایم بجوشه.",
-   "colR": "be-zār dah daghighe ru harārat-e molāyem be-jushe."
+   "colR": "be-zār dah daghighe ru harārat-e molāyem be-jushe.",
+   "faV": "بِگُذارید دَه دَقیقه رویِ حَرارَتِ مُلایِم بِجوشَد.",
+   "a": "32da31ff7292",
+   "colV": "بِذار دَه دَقیقه رو حَرارَتِ مُلایِم بِجوشه.",
+   "colA": "c05228d53f0e"
   },
   {
    "fa": "کشک خیلی شور است، پس اول مزه کنید و بعد نمک بزنید.",
    "r": "kashk kheyli shur ast, pas avval maze konid va ba'd namak be-zanid.",
-   "en": "Kashk is very salty, so taste first and add salt afterwards."
+   "en": "Kashk is very salty, so taste first and add salt afterwards.",
+   "faV": "کَشک خَیلی شور اَست، پَس اَوَّل مَزه کُنید و بَعد نَمَک بِزَنید.",
+   "a": "748b2c9817b5"
   },
   {
    "fa": "نعنای خشک را فقط چند ثانیه در روغن داغ تفت بدهید.",
    "r": "na'nā-ye khoshk rā faghat chand sāniye dar rowghan-e dāgh taft be-dahid.",
-   "en": "Fry the dried mint in hot oil for just a few seconds."
+   "en": "Fry the dried mint in hot oil for just a few seconds.",
+   "faV": "نَعنایِ خُشک را فَقَط چَند ثانیه دَر رَوغَنِ داغ تَفت بِدَهید.",
+   "a": "cad1353b4a39"
   },
   {
    "fa": "نعناداغ خیلی زود می‌سوزد.",
    "r": "na'nā-dāgh kheyli zud mi-suzad.",
-   "en": "Mint oil burns very quickly."
+   "en": "Mint oil burns very quickly.",
+   "faV": "نَعناداغ خَیلی زود می‌سوزَد.",
+   "a": "4e9d041d3dd9"
   },
   {
    "fa": "روی آن کمی کشک، پیازداغ و گردو بریزید.",
    "r": "ru-ye ān kami kashk, piyāz-dāgh va gerdu be-rizid.",
    "en": "Top it with a little kashk, fried onion and walnuts.",
    "col": "روش یه کم کشک، پیازداغ و گردو بریز.",
-   "colR": "ru-sh ye kam kashk, piyāz-dāgh o gerdu be-riz."
+   "colR": "ru-sh ye kam kashk, piyāz-dāgh o gerdu be-riz.",
+   "faV": "رویِ آن کَمی کَشک، پیازداغ و گِردو بِریزید.",
+   "a": "caeab1b8fb68",
+   "colV": "روش یه کَم کَشک، پیازداغ و گِردو بِریز.",
+   "colA": "10c90d55dae7"
   },
   {
    "fa": "کشک بادمجان را با نان لواش سرو می‌کنیم.",
    "r": "kashk-e bādemjān rā bā nān-e lavāsh serv mi-konim.",
-   "en": "We serve kashk-e bademjan with lavash bread."
+   "en": "We serve kashk-e bademjan with lavash bread.",
+   "faV": "کَشکِ بادِمجان را با نانِ لَواش سِرو می‌کُنیم.",
+   "a": "95897760c813"
   },
   {
    "fa": "این غذا هم گرم و هم سرد خوشمزه است.",
    "r": "in ghazā ham garm va ham sard khoshmazze ast.",
-   "en": "This dish is tasty both warm and cold."
+   "en": "This dish is tasty both warm and cold.",
+   "faV": "این غَذا هَم گَرم و هَم سَرد خوشمَزّه اَست.",
+   "a": "25aca56247d1"
   }
  ],
  "vocab": [
-  {"fa": "کشک", "r": "kashk", "en": "kashk, fermented dried whey"},
-  {"fa": "بادمجان", "r": "bādemjān", "en": "aubergine, eggplant"},
-  {"fa": "پیاز", "r": "piyāz", "en": "onion"},
-  {"fa": "سیر", "r": "sir", "en": "garlic"},
-  {"fa": "گردو", "r": "gerdu", "en": "walnut"},
-  {"fa": "نعنا", "r": "na'nā", "en": "mint"},
-  {"fa": "پیازداغ", "r": "piyāz-dāgh", "en": "fried onion (as a topping)"},
-  {"fa": "نعناداغ", "r": "na'nā-dāgh", "en": "dried mint fried in oil"},
-  {"fa": "زردچوبه", "r": "zardchube", "en": "turmeric"},
-  {"fa": "پوست کندن", "r": "pust kandan", "en": "to peel"},
-  {"fa": "خلال کردن", "r": "khalāl kardan", "en": "to slice thinly, to cut into slivers"},
-  {"fa": "تفت دادن", "r": "taft dādan", "en": "to sauté briefly, to toss in hot oil"},
-  {"fa": "له کردن", "r": "leh kardan", "en": "to mash"},
-  {"fa": "مزه کردن", "r": "maze kardan", "en": "to taste"},
-  {"fa": "پاشیدن", "r": "pāshidan", "en": "to sprinkle"},
-  {"fa": "شور", "r": "shur", "en": "salty"},
-  {"fa": "داغ", "r": "dāgh", "en": "hot (of oil, a pan)"},
-  {"fa": "طلایی", "r": "talāyi", "en": "golden"},
-  {"fa": "چنگال", "r": "changāl", "en": "fork"}
+  {
+   "fa": "کشک",
+   "r": "kashk",
+   "en": "kashk, fermented dried whey",
+   "faV": "کَشک",
+   "a": "4d1b1102b043"
+  },
+  {
+   "fa": "بادمجان",
+   "r": "bādemjān",
+   "en": "aubergine, eggplant",
+   "faV": "بادِمجان",
+   "a": "b68caa657580"
+  },
+  {
+   "fa": "پیاز",
+   "r": "piyāz",
+   "en": "onion",
+   "faV": "پیاز",
+   "a": "21c0e394a27f"
+  },
+  {
+   "fa": "سیر",
+   "r": "sir",
+   "en": "garlic",
+   "faV": "سیر",
+   "a": "757a86eaf3b4"
+  },
+  {
+   "fa": "گردو",
+   "r": "gerdu",
+   "en": "walnut",
+   "faV": "گِردو",
+   "a": "70cef9fc4f4a"
+  },
+  {
+   "fa": "نعنا",
+   "r": "na'nā",
+   "en": "mint",
+   "faV": "نَعنا",
+   "a": "0f1cb3d4d711"
+  },
+  {
+   "fa": "پیازداغ",
+   "r": "piyāz-dāgh",
+   "en": "fried onion (as a topping)",
+   "faV": "پیازداغ",
+   "a": "19e536f70814"
+  },
+  {
+   "fa": "نعناداغ",
+   "r": "na'nā-dāgh",
+   "en": "dried mint fried in oil",
+   "faV": "نَعناداغ",
+   "a": "4eaad0b510d8"
+  },
+  {
+   "fa": "زردچوبه",
+   "r": "zardchube",
+   "en": "turmeric",
+   "faV": "زَردچوبه",
+   "a": "d52c60220811"
+  },
+  {
+   "fa": "پوست کندن",
+   "r": "pust kandan",
+   "en": "to peel",
+   "faV": "پوست کَندَن",
+   "a": "a663b13cd018"
+  },
+  {
+   "fa": "خلال کردن",
+   "r": "khalāl kardan",
+   "en": "to slice thinly, to cut into slivers",
+   "faV": "خَلال کَردَن",
+   "a": "5feefaa2c5ca"
+  },
+  {
+   "fa": "تفت دادن",
+   "r": "taft dādan",
+   "en": "to sauté briefly, to toss in hot oil",
+   "faV": "تَفت دادَن",
+   "a": "82808f7015c3"
+  },
+  {
+   "fa": "له کردن",
+   "r": "leh kardan",
+   "en": "to mash",
+   "faV": "لِه کَردَن",
+   "a": "a4afb6a1b3be"
+  },
+  {
+   "fa": "مزه کردن",
+   "r": "maze kardan",
+   "en": "to taste",
+   "faV": "مَزه کَردَن",
+   "a": "989288aadc71"
+  },
+  {
+   "fa": "پاشیدن",
+   "r": "pāshidan",
+   "en": "to sprinkle",
+   "faV": "پاشیدَن",
+   "a": "500c65381cb3"
+  },
+  {
+   "fa": "شور",
+   "r": "shur",
+   "en": "salty",
+   "faV": "شور",
+   "a": "a89449db6868"
+  },
+  {
+   "fa": "داغ",
+   "r": "dāgh",
+   "en": "hot (of oil, a pan)",
+   "faV": "داغ",
+   "a": "35824b791e3d"
+  },
+  {
+   "fa": "طلایی",
+   "r": "talāyi",
+   "en": "golden",
+   "faV": "طَلایی",
+   "a": "3190c4ada9f5"
+  },
+  {
+   "fa": "چنگال",
+   "r": "changāl",
+   "en": "fork",
+   "faV": "چَنگال",
+   "a": "0aae0b326c24"
+  }
  ],
  "facts": [
   "Kashk was traditionally made from the buttermilk left over after churning butter, boiled down and dried into hard balls.",
@@ -128,5 +276,7 @@
   "Salting aubergine slices before frying draws out water, so they absorb less oil.",
   "Kashk-e bademjan is usually eaten as a starter or a light meal with bread rather than with rice.",
   "Iranian shops abroad sell kashk as a liquid, a powder or dried balls that are soaked and ground."
- ]
+ ],
+ "titleV": "کَشکِ بادِمجان",
+ "titleA": "746f4a044785"
 }
