@@ -29,8 +29,8 @@ _Mina has just spent a week at her grandmother's in a village near Kashan. Back 
   *cherā? havā-ye Tehrān ālude ast o hame jā terāfik ast.* — Why? Tehran's air is polluted and there's traffic everywhere.  
   Spoken: چرا؟ هوای تهران آلوده‌ست و همه جا ترافیکه. *cherā? havā-ye Tehrān ālude-st o hame jā terāfik-e.*
 - **Reza:** درست است، اما تهران همه چیز دارد: کار، دانشگاه، سینما و رستوران‌های خوب.  
-  *dorost ast, ammā Tehrān hame chiz dārad: kār, dāneshgāh, sinamā o restorān-hā-ye khub.* — True, but Tehran has everything: work, universities, cinemas and good restaurants.  
-  Spoken: درسته، ولی تهران همه چی داره: کار، دانشگاه، سینما و رستورانای خوب. *dorost-e, vali Tehrān hame chi dāre: kār, dāneshgāh, sinamā o restorān-ā-ye khub.*
+  *dorost ast, ammā Tehrān hame chiz dārad: kār, dāneshgāh, sinamā o resturān-hā-ye khub.* — True, but Tehran has everything: work, universities, cinemas and good restaurants.  
+  Spoken: درسته، ولی تهران همه چی داره: کار، دانشگاه، سینما و رستورانای خوب. *dorost-e, vali Tehrān hame chi dāre: kār, dāneshgāh, sinamā o resturān-ā-ye khub.*
 - **Tom:** من تا حدی با رضا موافقم، چون در شهر فرصت‌های بیشتری برای کار هست.  
   *man tā hadd-i bā Rezā movāfegh-am, chon dar shahr forsat-hā-ye bishtar-i barā-ye kār hast.* — I agree with Reza up to a point, because there are more job opportunities in the city.
 - **Mina:** ببخشید، ولی من مخالفم. کار مهم است، اما سلامتی مهم‌تر است.  
@@ -202,7 +202,7 @@ _Mr Karimi asked his class to write an انشا – a school essay – on an old
 - زندگی در شهر بهتر است یا زندگی در روستا؟  
   *zendegi dar shahr behtar ast yā zendegi dar rustā?* — Is life better in the city or in the village?
 - بسیاری از جوان‌های ایرانی به شهرهای بزرگ می‌روند، زیرا در شهر کار و دانشگاه هست.  
-  *besyāri az javān-hā-ye Irāni be shahr-hā-ye bozorg mi-ravand, zirā dar shahr kār o dāneshgāh hast.* — Many young Iranians move to the big cities, because that is where the jobs and universities are.
+  *besyāri az javān-hā-ye irāni be shahr-hā-ye bozorg mi-ravand, zirā dar shahr kār o dāneshgāh hast.* — Many young Iranians move to the big cities, because that is where the jobs and universities are.
 - از یک طرف، شهر امکانات بیشتری دارد: بیمارستان، مترو، سینما و کتاب‌فروشی.  
   *az yek taraf, shahr emkānāt-e bishtar-i dārad: bimārestān, metro, sinamā o ketāb-forushi.* — On the one hand, the city has more facilities: hospitals, the metro, cinemas and bookshops.
 - از طرف دیگر، زندگی در شهر گران و شلوغ است.  
@@ -328,10 +328,10 @@ The argument itself is a school classic. Generations of Iranian children have ha
 
 **Put the words in order**
 
-1. است. / در / من / آرام‌تر / روستا / نظر / زندگی / به — In my opinion life in a village is calmer.
-2. با / کاملاً / شما / موافقم. — I completely agree with you.
-3. با / چون / ماشین / نداشتم، / مترو / آمدم. — Because I didn't have a car, I came by metro.
-4. با / شاید / تو / حق / باشد. — Maybe you're right.
+1. است. / نظر / زندگی / در / به / روستا / آرام‌تر / من — In my opinion life in a village is calmer.
+2. کاملاً / با / شما / موافقم. — I completely agree with you.
+3. آمدم. / نداشتم، / با / ماشین / چون / مترو — Because I didn't have a car, I came by metro.
+4. حق / باشد. / با / تو / شاید — Maybe you're right.
 
 <details><summary>Answers</summary>
 

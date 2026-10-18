@@ -41,8 +41,8 @@ _Saturday morning. Reza and Sara have come to take Tom up to Darband for breakfa
   *bāshad. pas kif-am rā bar-mi-dāram o pāyin mi-āyam.* — OK. Then I'll grab my bag and come down.  
   Spoken: باشه. پس کیفمو برمی‌دارم میام پایین. *bāshe. pas kif-am-o bar-mi-dāram miyām pāyin.*
 - **Reza:** زود بیا! اگر دیر برسیم، جا پیدا نمی‌کنیم.  
-  *zud biyā! agar dir berasim, jā peydā nemi-konim.* — Be quick! If we get there late, we won't find a table.  
-  Spoken: زود بیا! اگه دیر برسیم، جا پیدا نمی‌کنیم. *zud biyā! age dir berasim, jā peydā nemi-konim.*
+  *zud biyā! agar dir beresim, jā peydā nemi-konim.* — Be quick! If we get there late, we won't find a table.  
+  Spoken: زود بیا! اگه دیر برسیم، جا پیدا نمی‌کنیم. *zud biyā! age dir beresim, jā peydā nemi-konim.*
 - **Tom:** دوستانتان هم می‌آیند؟  
   *dustān-etān ham mi-āyand?* — Are your friends coming too?  
   Spoken: دوستاتون هم میان؟ *dust-ā-tun ham miyān?*
@@ -397,10 +397,10 @@ A practical rule: **understand both, write the written form, speak the spoken on
 
 **Put the words in order**
 
-1. نمی‌توانم / کار / دارم. / بیایم، — I can't come, I've got work to do.
-2. او / بگو. / این / را / به — Tell him this.
-3. است. / آن / در / خیابان / ما / خانه‌ی — Our house is in that street.
-4. ساعت / می‌شود. / هفت / شروع / فیلم — The film starts at seven.
+1. دارم. / بیایم، / نمی‌توانم / کار — I can't come, I've got work to do.
+2. را / این / او / بگو. / به — Tell him this.
+3. ما / است. / در / خیابان / آن / خانه‌ی — Our house is in that street.
+4. هفت / شروع / ساعت / می‌شود. / فیلم — The film starts at seven.
 
 <details><summary>Answers</summary>
 

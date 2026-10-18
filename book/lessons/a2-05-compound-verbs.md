@@ -236,7 +236,7 @@ _Saturday is the first working day of the Iranian week. Read about Reza's Saturd
 - بعد صبحانه می‌خورد و با مترو به سر کار می‌رود.  
   *ba'd sobhāne mi-khorad o bā metro be sar-e kār mi-ravad.* — Then he has breakfast and goes to work by metro.
 - در ایستگاه سوار مترو می‌شود و در میدان ولیعصر پیاده می‌شود.  
-  *dar istgāh savār-e metro mi-shavad o dar meydān-e Vali-asr piyāde mi-shavad.* — At the station he gets on the metro, and he gets off at Valiasr Square.
+  *dar istgāh savār-e metro mi-shavad o dar meydān-e Vali'asr piyāde mi-shavad.* — At the station he gets on the metro, and he gets off at Valiasr Square.
 - رضا در یک شرکت کامپیوتری کار می‌کند.  
   *Rezā dar yek sherkat-e kāmpiyuteri kār mi-konad.* — Reza works for a computer company.
 - صبح‌ها به ایمیل‌ها جواب می‌دهد و با همکارانش صحبت می‌کند.  
@@ -354,10 +354,10 @@ It is a family job, and the verbs of this lesson fill the house: فرش‌ها �
 
 **Put the words in order**
 
-1. امروز / کار / نمی‌کنم. — I'm not working today.
-2. زنگ / نزدم. / مادرم / به — I didn't ring my mother.
-3. می‌توانم / کنم؟ / کمکتان — Can I help you?
-4. ایستگاه / در / پیاده / بعدی / می‌شویم. — We're getting off at the next station.
+1. امروز / نمی‌کنم. / کار — I'm not working today.
+2. زنگ / به / مادرم / نزدم. — I didn't ring my mother.
+3. می‌توانم / کمکتان / کنم؟ — Can I help you?
+4. پیاده / می‌شویم. / بعدی / در / ایستگاه — We're getting off at the next station.
 
 <details><summary>Answers</summary>
 

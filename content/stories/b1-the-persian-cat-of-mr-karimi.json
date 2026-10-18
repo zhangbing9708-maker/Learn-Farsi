@@ -11,67 +11,313 @@
  "paragraphs": [
   {
    "sentences": [
-    {"fa": "آقای کریمی، همسایه‌ی طبقه‌ی سوم، گربه‌ی ایرانی سفید و پشمالویی دارد که اسمش پشمک است.", "r": "āghā-ye Karimi, hamsāye-ye tabaghe-ye sevvom, gorbe-ye irāni-ye sefid o pashmālu-i dārad ke esm-ash Pashmak ast.", "en": "Mr Karimi, the neighbour on the third floor, has a fluffy white Persian cat called Pashmak."},
-    {"fa": "پشمک تنبل‌ترین گربه‌ی ساختمان است و بیشتر روز را روی مبل کنار پنجره می‌خوابد.", "r": "Pashmak tanbal-tarin gorbe-ye sākhtemān ast o bish-tar-e ruz rā ru-ye mobl-e kenār-e panjere mi-khābad.", "en": "Pashmak is the laziest cat in the building and sleeps most of the day on the sofa by the window."},
-    {"fa": "برای همین، وقتی سه‌شنبه‌ی گذشته ناپدید شد، همه تعجب کردند.", "r": "barā-ye hamin, vaghti se-shanbe-ye gozashte nā-padid shod, hame ta'ajjob kardand.", "en": "That is why everyone was surprised when he vanished last Tuesday."}
+    {
+     "fa": "آقای کریمی، همسایه‌ی طبقه‌ی سوم، گربه‌ی ایرانی سفید و پشمالویی دارد که اسمش پشمک است.",
+     "r": "āghā-ye Karimi, hamsāye-ye tabaghe-ye sevvom, gorbe-ye irāni-ye sefid o pashmālu-i dārad ke esm-ash Pashmak ast.",
+     "en": "Mr Karimi, the neighbour on the third floor, has a fluffy white Persian cat called Pashmak.",
+     "faV": "آقایِ کَریمی، هَمسایه‌یِ طَبَقه‌یِ سِوُّم، گُربه‌یِ ایرانیِ سِفید و پَشمالویی دارَد که اِسمَش پَشمَک اَست.",
+     "a": "ec75452e2237"
+    },
+    {
+     "fa": "پشمک تنبل‌ترین گربه‌ی ساختمان است و بیشتر روز را روی مبل کنار پنجره می‌خوابد.",
+     "r": "Pashmak tanbal-tarin gorbe-ye sākhtemān ast o bish-tar-e ruz rā ru-ye mobl-e kenār-e panjere mi-khābad.",
+     "en": "Pashmak is the laziest cat in the building and sleeps most of the day on the sofa by the window.",
+     "faV": "پَشمَک تَنبَل‌تَرین گُربه‌یِ ساختِمان اَست و بیشتَرِ روز را رویِ مُبلِ کِنارِ پَنجِره می‌خوابَد.",
+     "a": "63d878cdf38a"
+    },
+    {
+     "fa": "برای همین، وقتی سه‌شنبه‌ی گذشته ناپدید شد، همه تعجب کردند.",
+     "r": "barā-ye hamin, vaghti se-shanbe-ye gozashte nā-padid shod, hame ta'ajjob kardand.",
+     "en": "That is why everyone was surprised when he vanished last Tuesday.",
+     "faV": "بَرایِ هَمین، وَقتی سه‌شَنبه‌یِ گُذَشته ناپَدید شُد، هَمه تَعَجُّب کَردَند.",
+     "a": "017547c1d3c8"
+    }
    ]
   },
   {
    "sentences": [
-    {"fa": "آقای کریمی صبح در را برای خریدن نان باز گذاشته بود و وقتی برگشت، پشمک دیگر روی مبل نبود.", "r": "āghā-ye Karimi sobh dar rā barā-ye kharidan-e nān bāz gozāshte bud o vaghti bar-gasht, Pashmak digar ru-ye mobl na-bud.", "en": "In the morning Mr Karimi had left the door open when he went to buy bread, and when he came back Pashmak was no longer on the sofa."},
-    {"fa": "او همه‌ی خانه را گشت: زیر تخت، پشت یخچال، حتی درون ماشین لباس‌شویی.", "r": "u hame-ye khāne rā gasht: zir-e takht, posht-e yakhchāl, hattā darun-e māshin-e lebās-shuyi.", "en": "He searched the whole flat: under the bed, behind the fridge, even inside the washing machine."},
-    {"fa": "بعد با نگرانی عکسی از پشمک در گروه واتس‌اپ ساختمان فرستاد و نوشت: «گربه‌ی من گم شده است؛ اگر کسی او را دید، لطفاً به من خبر بدهد.»", "r": "ba'd bā negarāni 'aks-i az Pashmak dar goruh-e Vāts-āp-e sākhtemān ferestād o nevesht: «gorbe-ye man gom shode ast; agar kas-i u rā did, lotfan be man khabar be-dahad.»", "en": "Then, worried, he sent a photo of Pashmak to the building's WhatsApp group and wrote: \"My cat is lost; if anyone sees him, please let me know.\""}
+    {
+     "fa": "آقای کریمی صبح در را برای خریدن نان باز گذاشته بود و وقتی برگشت، پشمک دیگر روی مبل نبود.",
+     "r": "āghā-ye Karimi sobh dar rā barā-ye kharidan-e nān bāz gozāshte bud o vaghti bar-gasht, Pashmak digar ru-ye mobl na-bud.",
+     "en": "In the morning Mr Karimi had left the door open when he went to buy bread, and when he came back Pashmak was no longer on the sofa.",
+     "faV": "آقایِ کَریمی صُبح دَر را بَرایِ خَریدَنِ نان باز گُذاشته بود و وَقتی بَرگَشت، پَشمَک دیگَر رویِ مُبل نَبود.",
+     "a": "1694b85e06de"
+    },
+    {
+     "fa": "او همه‌ی خانه را گشت: زیر تخت، پشت یخچال، حتی درون ماشین لباس‌شویی.",
+     "r": "u hame-ye khāne rā gasht: zir-e takht, posht-e yakhchāl, hattā darun-e māshin-e lebās-shuyi.",
+     "en": "He searched the whole flat: under the bed, behind the fridge, even inside the washing machine.",
+     "faV": "او هَمه‌یِ خانه را گَشت: زیرِ تَخت، پُشتِ یَخچال، حَتّی دَرونِ ماشینِ لِباس‌شویی.",
+     "a": "bb2aa1407782"
+    },
+    {
+     "fa": "بعد با نگرانی عکسی از پشمک در گروه واتس‌اپ ساختمان فرستاد و نوشت: «گربه‌ی من گم شده است؛ اگر کسی او را دید، لطفاً به من خبر بدهد.»",
+     "r": "ba'd bā negarāni 'aks-i az Pashmak dar goruh-e Vāts-āp-e sākhtemān ferestād o nevesht: «gorbe-ye man gom shode ast; agar kas-i u rā did, lotfan be man khabar be-dahad.»",
+     "en": "Then, worried, he sent a photo of Pashmak to the building's WhatsApp group and wrote: \"My cat is lost; if anyone sees him, please let me know.\"",
+     "faV": "بَعد با نِگَرانی عَکسی اَز پَشمَک دَر گُروهِ واتس‌اپِ ساختِمان فِرِستاد و نِوِشت: «گُربه‌یِ مَن گُم شُده اَست؛ اَگَر کَسی او را دید، لُطفاً به مَن خَبَر بِدَهَد.»",
+     "a": "5d5d7aa71969"
+    }
    ]
   },
   {
    "sentences": [
-    {"fa": "چند دقیقه بعد گوشی‌ها یکی پس از دیگری زنگ زدند.", "r": "chand daghighe ba'd gushi-hā yek-i pas az digari zang zadand.", "en": "A few minutes later the phones began to ping, one after another."},
-    {"fa": "خانم احمدی نوشت که دیشب صدای میو میوی گربه‌ای را از پشت‌بام شنیده است.", "r": "khānom-e Ahmadi nevesht ke dishab sedā-ye miyu miyu-ye gorbe-i rā az posht-bām shenide ast.", "en": "Ms Ahmadi wrote that the night before she had heard a cat miaowing on the roof."},
-    {"fa": "رضا، پسر طبقه‌ی اول، یک عکس تار از چیزی سفید روی دیوار حیاط فرستاد و پرسید: «این پشمک است؟»", "r": "Rezā, pesar-e tabaghe-ye avval, yek 'aks-e tār az chiz-i sefid ru-ye divār-e hayāt ferestād o porsid: «in Pashmak ast?»", "en": "Reza, the boy on the first floor, sent a blurry photo of something white on the courtyard wall and asked: \"Is this Pashmak?\""},
-    {"fa": "معلوم شد که آن چیز سفید فقط یک کیسه‌ی پلاستیکی بود و همه در گروه شکلک خنده فرستادند.", "r": "ma'lum shod ke ān chiz-e sefid faghat yek kise-ye pelāstiki bud o hame dar goruh shekalak-e khande ferestādand.", "en": "It turned out the white thing was only a plastic bag, and everyone in the group sent laughing emojis."}
+    {
+     "fa": "چند دقیقه بعد گوشی‌ها یکی پس از دیگری زنگ زدند.",
+     "r": "chand daghighe ba'd gushi-hā yek-i pas az digari zang zadand.",
+     "en": "A few minutes later the phones began to ping, one after another.",
+     "faV": "چَند دَقیقه بَعد گوشی‌ها یِکی پَس اَز دیگَری زَنگ زَدَند.",
+     "a": "52647037c606"
+    },
+    {
+     "fa": "خانم احمدی نوشت که دیشب صدای میو میوی گربه‌ای را از پشت‌بام شنیده است.",
+     "r": "khānom-e Ahmadi nevesht ke dishab sedā-ye miyu miyu-ye gorbe-i rā az posht-bām shenide ast.",
+     "en": "Ms Ahmadi wrote that the night before she had heard a cat miaowing on the roof.",
+     "faV": "خانُمِ اَحمَدی نِوِشت که دیشَب صِدایِ میو میویِ گُربه‌ای را اَز پُشت‌بام شِنیده اَست.",
+     "a": "0f9e93fe6518"
+    },
+    {
+     "fa": "رضا، پسر طبقه‌ی اول، یک عکس تار از چیزی سفید روی دیوار حیاط فرستاد و پرسید: «این پشمک است؟»",
+     "r": "Rezā, pesar-e tabaghe-ye avval, yek 'aks-e tār az chiz-i sefid ru-ye divār-e hayāt ferestād o porsid: «in Pashmak ast?»",
+     "en": "Reza, the boy on the first floor, sent a blurry photo of something white on the courtyard wall and asked: \"Is this Pashmak?\"",
+     "faV": "رِضا، پِسَرِ طَبَقه‌یِ اَوَّل، یِک عَکسِ تار اَز چیزی سِفید رویِ دیوارِ حَیاط فِرِستاد و پُرسید: «این پَشمَک اَست؟»",
+     "a": "69a89e9b0aa9"
+    },
+    {
+     "fa": "معلوم شد که آن چیز سفید فقط یک کیسه‌ی پلاستیکی بود و همه در گروه شکلک خنده فرستادند.",
+     "r": "ma'lum shod ke ān chiz-e sefid faghat yek kise-ye pelāstiki bud o hame dar goruh shekalak-e khande ferestādand.",
+     "en": "It turned out the white thing was only a plastic bag, and everyone in the group sent laughing emojis.",
+     "faV": "مَعلوم شُد که آن چیزِ سِفید فَقَط یِک کیسه‌یِ پِلاستیکی بود و هَمه دَر گُروه شِکَلَکِ خَنده فِرِستادَند.",
+     "a": "ae0188390320"
+    }
    ]
   },
   {
    "sentences": [
-    {"fa": "عصر، مینا و رضا با چراغ‌قوه همه‌ی کوچه را گشتند و از بقال و نانوا هم پرسیدند.", "r": "'asr, Minā o Rezā bā cherāgh-ghove hame-ye kuche rā gashtand o az baghghāl o nānvā ham porsidand.", "en": "In the late afternoon Mina and Reza searched the whole lane with a torch and asked the grocer and the baker too."},
-    {"fa": "نانوا گفت که صبح گربه‌ی سفیدی دیده، اما آن گربه دم سیاه داشته است.", "r": "nānvā goft ke sobh gorbe-ye sefid-i dide, ammā ān gorbe dom-e siyāh dāshte ast.", "en": "The baker said he had seen a white cat that morning, but that cat had had a black tail."},
-    {"fa": "شب، آقای کریمی ناامید در گروه نوشت که اگر پشمک تا فردا پیدا نشود، آگهی در محله پخش خواهد کرد.", "r": "shab, āghā-ye Karimi nā-omid dar goruh nevesht ke agar Pashmak tā fardā peydā na-shavad, āgahi dar mahalle pakhsh khāhad kard.", "en": "That night, losing hope, Mr Karimi wrote in the group that if Pashmak was not found by the next day, he would put up notices around the neighbourhood."}
+    {
+     "fa": "عصر، مینا و رضا با چراغ‌قوه همه‌ی کوچه را گشتند و از بقال و نانوا هم پرسیدند.",
+     "r": "'asr, Minā o Rezā bā cherāgh-ghove hame-ye kuche rā gashtand o az baghghāl o nānvā ham porsidand.",
+     "en": "In the late afternoon Mina and Reza searched the whole lane with a torch and asked the grocer and the baker too.",
+     "faV": "عَصر، مینا و رِضا با چِراغ‌قُوه هَمه‌یِ کوچه را گَشتَند و اَز بَقّال و نانوا هَم پُرسیدَند.",
+     "a": "9f475ad67e89"
+    },
+    {
+     "fa": "نانوا گفت که صبح گربه‌ی سفیدی دیده، اما آن گربه دم سیاه داشته است.",
+     "r": "nānvā goft ke sobh gorbe-ye sefid-i dide, ammā ān gorbe dom-e siyāh dāshte ast.",
+     "en": "The baker said he had seen a white cat that morning, but that cat had had a black tail.",
+     "faV": "نانوا گُفت که صُبح گُربه‌یِ سِفیدی دیده، اَمّا آن گُربه دُمِ سیاه داشته اَست.",
+     "a": "f3cc4bf6a227"
+    },
+    {
+     "fa": "شب، آقای کریمی ناامید در گروه نوشت که اگر پشمک تا فردا پیدا نشود، آگهی در محله پخش خواهد کرد.",
+     "r": "shab, āghā-ye Karimi nā-omid dar goruh nevesht ke agar Pashmak tā fardā peydā na-shavad, āgahi dar mahalle pakhsh khāhad kard.",
+     "en": "That night, losing hope, Mr Karimi wrote in the group that if Pashmak was not found by the next day, he would put up notices around the neighbourhood.",
+     "faV": "شَب، آقایِ کَریمی نااُمید دَر گُروه نِوِشت که اَگَر پَشمَک تا فَردا پَیدا نَشَوَد، آگَهی دَر مَحَلّه پَخش خواهَد کَرد.",
+     "a": "657153c89bb4"
+    }
    ]
   },
   {
    "sentences": [
-    {"fa": "صبح روز بعد، سرایدار ساختمان در انباری زیرزمین را باز کرد تا جاروبرقی را بردارد.", "r": "sobh-e ruz-e ba'd, serāydār-e sākhtemān dar-e anbāri-ye zir-zamin rā bāz kard tā jāru-barghi rā bar-dārad.", "en": "The next morning the building's caretaker opened the door of the basement storeroom to get the vacuum cleaner."},
-    {"fa": "ناگهان یک گلوله‌ی پشم سفید از میان کارتن‌ها بیرون پرید و مستقیم به طرف پله‌ها دوید.", "r": "nāgahān yek golule-ye pashm-e sefid az miyān-e kārton-hā birun parid o mostaghim be taraf-e pelle-hā david.", "en": "Suddenly a ball of white fluff leapt out from among the cardboard boxes and ran straight for the stairs."},
-    {"fa": "معلوم شد که پشمک سه‌شنبه دنبال سرایدار به زیرزمین رفته بود و در انباری زندانی شده بود.", "r": "ma'lum shod ke Pashmak se-shanbe donbāl-e serāydār be zir-zamin rafte bud o dar anbāri zendāni shode bud.", "en": "It turned out that on Tuesday Pashmak had followed the caretaker down to the basement and had been shut in the storeroom."},
-    {"fa": "آن روز در گروه ساختمان صد پیام فرستاده شد، همه با شکلک قلب.", "r": "ān ruz dar goruh-e sākhtemān sad payām ferestāde shod, hame bā shekalak-e ghalb.", "en": "That day a hundred messages were sent in the building's group, all with heart emojis."},
-    {"fa": "آقای کریمی همه‌ی همسایه‌ها را برای چای و شیرینی دعوت کرد و پشمک، مثل همیشه، روی مبل کنار پنجره خوابید، انگار هیچ اتفاقی نیفتاده است.", "r": "āghā-ye Karimi hame-ye hamsāye-hā rā barā-ye chāy o shirini da'vat kard o Pashmak, mesl-e hamishe, ru-ye mobl-e kenār-e panjere khābid, engār hich ettefāgh-i na-yoftāde ast.", "en": "Mr Karimi invited all the neighbours for tea and pastries, and Pashmak, as always, slept on the sofa by the window as if nothing had happened."}
+    {
+     "fa": "صبح روز بعد، سرایدار ساختمان در انباری زیرزمین را باز کرد تا جاروبرقی را بردارد.",
+     "r": "sobh-e ruz-e ba'd, serāydār-e sākhtemān dar-e anbāri-ye zir-zamin rā bāz kard tā jāru-barghi rā bar-dārad.",
+     "en": "The next morning the building's caretaker opened the door of the basement storeroom to get the vacuum cleaner.",
+     "faV": "صُبحِ روزِ بَعد، سِرایدارِ ساختِمان دَرِ اَنباریِ زیرزَمین را باز کَرد تا جاروبَرقی را بَردارَد.",
+     "a": "4a0bae1e747b"
+    },
+    {
+     "fa": "ناگهان یک گلوله‌ی پشم سفید از میان کارتن‌ها بیرون پرید و مستقیم به طرف پله‌ها دوید.",
+     "r": "nāgahān yek golule-ye pashm-e sefid az miyān-e kārton-hā birun parid o mostaghim be taraf-e pelle-hā david.",
+     "en": "Suddenly a ball of white fluff leapt out from among the cardboard boxes and ran straight for the stairs.",
+     "faV": "ناگَهان یِک گُلوله‌یِ پَشمِ سِفید اَز میانِ کارتُن‌ها بیرون پَرید و مُستَقیم به طَرَفِ پِلّه‌ها دَوید.",
+     "a": "68ec799ad722"
+    },
+    {
+     "fa": "معلوم شد که پشمک سه‌شنبه دنبال سرایدار به زیرزمین رفته بود و در انباری زندانی شده بود.",
+     "r": "ma'lum shod ke Pashmak se-shanbe donbāl-e serāydār be zir-zamin rafte bud o dar anbāri zendāni shode bud.",
+     "en": "It turned out that on Tuesday Pashmak had followed the caretaker down to the basement and had been shut in the storeroom.",
+     "faV": "مَعلوم شُد که پَشمَک سه‌شَنبه دُنبالِ سِرایدار به زیرزَمین رَفته بود و دَر اَنباری زِندانی شُده بود.",
+     "a": "648ea7275a84"
+    },
+    {
+     "fa": "آن روز در گروه ساختمان صد پیام فرستاده شد، همه با شکلک قلب.",
+     "r": "ān ruz dar goruh-e sākhtemān sad payām ferestāde shod, hame bā shekalak-e ghalb.",
+     "en": "That day a hundred messages were sent in the building's group, all with heart emojis.",
+     "faV": "آن روز دَر گُروهِ ساختِمان صَد پَیام فِرِستاده شُد، هَمه با شِکَلَکِ قَلب.",
+     "a": "e3eb0ff2303e"
+    },
+    {
+     "fa": "آقای کریمی همه‌ی همسایه‌ها را برای چای و شیرینی دعوت کرد و پشمک، مثل همیشه، روی مبل کنار پنجره خوابید، انگار هیچ اتفاقی نیفتاده است.",
+     "r": "āghā-ye Karimi hame-ye hamsāye-hā rā barā-ye chāy o shirini da'vat kard o Pashmak, mesl-e hamishe, ru-ye mobl-e kenār-e panjere khābid, engār hich ettefāgh-i na-yoftāde ast.",
+     "en": "Mr Karimi invited all the neighbours for tea and pastries, and Pashmak, as always, slept on the sofa by the window as if nothing had happened.",
+     "faV": "آقایِ کَریمی هَمه‌یِ هَمسایه‌ها را بَرایِ چای و شیرینی دَعوَت کَرد و پَشمَک، مِثلِ هَمیشه، رویِ مُبلِ کِنارِ پَنجِره خوابید، اِنگار هیچ اِتِّفاقی نَیُفتاده اَست.",
+     "a": "2d027261a9fc"
+    }
    ]
   }
  ],
  "vocab": [
-  {"fa": "همسایه", "r": "hamsāye", "en": "neighbour"},
-  {"fa": "طبقه", "r": "tabaghe", "en": "floor, storey"},
-  {"fa": "پشمالو", "r": "pashmālu", "en": "fluffy, furry"},
-  {"fa": "ناپدید شدن", "r": "nā-padid shodan", "en": "to disappear"},
-  {"fa": "گم شدن", "r": "gom shodan", "en": "to get lost"},
-  {"fa": "نگرانی", "r": "negarāni", "en": "worry"},
-  {"fa": "خبر دادن", "r": "khabar dādan", "en": "to let (someone) know"},
-  {"fa": "پشت‌بام", "r": "posht-bām", "en": "roof, rooftop"},
-  {"fa": "تار", "r": "tār", "en": "blurry"},
-  {"fa": "شکلک", "r": "shekalak", "en": "emoji, emoticon"},
-  {"fa": "معلوم شدن", "r": "ma'lum shodan", "en": "to turn out, become clear"},
-  {"fa": "چراغ‌قوه", "r": "cherāgh-ghove", "en": "torch, flashlight"},
-  {"fa": "آگهی", "r": "āgahi", "en": "notice, advertisement"},
-  {"fa": "سرایدار", "r": "serāydār", "en": "caretaker (of a building)"},
-  {"fa": "انباری", "r": "anbāri", "en": "storeroom"},
-  {"fa": "زیرزمین", "r": "zir-zamin", "en": "basement"}
+  {
+   "fa": "همسایه",
+   "r": "hamsāye",
+   "en": "neighbour",
+   "faV": "هَمسایه",
+   "a": "1eebc0594655"
+  },
+  {
+   "fa": "طبقه",
+   "r": "tabaghe",
+   "en": "floor, storey",
+   "faV": "طَبَقه",
+   "a": "ead501c84d57"
+  },
+  {
+   "fa": "پشمالو",
+   "r": "pashmālu",
+   "en": "fluffy, furry",
+   "faV": "پَشمالو",
+   "a": "7645099a5525"
+  },
+  {
+   "fa": "ناپدید شدن",
+   "r": "nā-padid shodan",
+   "en": "to disappear",
+   "faV": "ناپَدید شُدَن",
+   "a": "d26f81bdd123"
+  },
+  {
+   "fa": "گم شدن",
+   "r": "gom shodan",
+   "en": "to get lost",
+   "faV": "گُم شُدَن",
+   "a": "27c988242279"
+  },
+  {
+   "fa": "نگرانی",
+   "r": "negarāni",
+   "en": "worry",
+   "faV": "نِگَرانی",
+   "a": "b605360541f1"
+  },
+  {
+   "fa": "خبر دادن",
+   "r": "khabar dādan",
+   "en": "to let (someone) know",
+   "faV": "خَبَر دادَن",
+   "a": "5cbff5ccc035"
+  },
+  {
+   "fa": "پشت‌بام",
+   "r": "posht-bām",
+   "en": "roof, rooftop",
+   "faV": "پُشت‌بام",
+   "a": "e4c875b0ee69"
+  },
+  {
+   "fa": "تار",
+   "r": "tār",
+   "en": "blurry",
+   "faV": "تار",
+   "a": "46461fc1c5b6"
+  },
+  {
+   "fa": "شکلک",
+   "r": "shekalak",
+   "en": "emoji, emoticon",
+   "faV": "شِکَلَک",
+   "a": "a673604f39ce"
+  },
+  {
+   "fa": "معلوم شدن",
+   "r": "ma'lum shodan",
+   "en": "to turn out, become clear",
+   "faV": "مَعلوم شُدَن",
+   "a": "7fd399424217"
+  },
+  {
+   "fa": "چراغ‌قوه",
+   "r": "cherāgh-ghove",
+   "en": "torch, flashlight",
+   "faV": "چِراغ‌قُوه",
+   "a": "3e391a727958"
+  },
+  {
+   "fa": "آگهی",
+   "r": "āgahi",
+   "en": "notice, advertisement",
+   "faV": "آگَهی",
+   "a": "985b17c75053"
+  },
+  {
+   "fa": "سرایدار",
+   "r": "serāydār",
+   "en": "caretaker (of a building)",
+   "faV": "سِرایدار",
+   "a": "7df131287568"
+  },
+  {
+   "fa": "انباری",
+   "r": "anbāri",
+   "en": "storeroom",
+   "faV": "اَنباری",
+   "a": "a91c393fe423"
+  },
+  {
+   "fa": "زیرزمین",
+   "r": "zir-zamin",
+   "en": "basement",
+   "faV": "زیرزَمین",
+   "a": "c03da0bffeb3"
+  }
  ],
  "questions": [
-  {"q": "Why was everyone surprised that Pashmak disappeared?", "options": ["he is the laziest cat in the building", "he is very old", "he had never been outside"], "answer": 0},
-  {"q": "What did Reza's blurry photo turn out to show?", "options": ["a white pigeon", "a plastic bag", "the baker's cat"], "answer": 1},
-  {"q": "Why was the baker's white cat not Pashmak?", "options": ["it was too small", "it had a black tail", "it was wearing a collar"], "answer": 1},
-  {"q": "What did Mr Karimi plan to do if Pashmak was not found by the next day?", "options": ["buy a new cat", "call the police", "put up notices in the neighbourhood"], "answer": 2},
-  {"q": "Where had Pashmak been all the time?", "options": ["on the roof", "shut in the basement storeroom", "in Ms Ahmadi's flat"], "answer": 1}
+  {
+   "q": "Why was everyone surprised that Pashmak disappeared?",
+   "options": [
+    "he is the laziest cat in the building",
+    "he is very old",
+    "he had never been outside"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Reza's blurry photo turn out to show?",
+   "options": [
+    "a white pigeon",
+    "a plastic bag",
+    "the baker's cat"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Why was the baker's white cat not Pashmak?",
+   "options": [
+    "it was too small",
+    "it had a black tail",
+    "it was wearing a collar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What did Mr Karimi plan to do if Pashmak was not found by the next day?",
+   "options": [
+    "buy a new cat",
+    "call the police",
+    "put up notices in the neighbourhood"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Where had Pashmak been all the time?",
+   "options": [
+    "on the roof",
+    "shut in the basement storeroom",
+    "in Ms Ahmadi's flat"
+   ],
+   "answer": 1
+  }
  ],
- "after": "Pashmak (پشمک) is a good name for a fluffy cat: it is also the name of Persian candy floss, the fine threads of sugar Yazd is famous for, from پشم 'wool'. The 'Persian cat' itself is called گربه‌ی ایرانی in Iran, or گربه‌ی پرشین using the English word. Apartment life in Iranian cities has its own vocabulary: the سرایدار lives in the building and looks after it, every flat has an انباری in the basement, and the building's group chat is where neighbours share news, complaints and lost cats. Grammar to notice: messages are reported with نوشت که…, and Persian keeps the tense of the original message – نوشت که صدای گربه‌ای شنیده است 'she wrote that she has heard a cat'."
+ "after": "Pashmak (پشمک) is a good name for a fluffy cat: it is also the name of Persian candy floss, the fine threads of sugar Yazd is famous for, from پشم 'wool'. The 'Persian cat' itself is called گربه‌ی ایرانی in Iran, or گربه‌ی پرشین using the English word. Apartment life in Iranian cities has its own vocabulary: the سرایدار lives in the building and looks after it, every flat has an انباری in the basement, and the building's group chat is where neighbours share news, complaints and lost cats. Grammar to notice: messages are reported with نوشت که…, and Persian keeps the tense of the original message – نوشت که صدای گربه‌ای شنیده است 'she wrote that she has heard a cat'.",
+ "titleV": "گُربه‌یِ ایرانیِ آقایِ کَریمی",
+ "titleA": "28d6904dd230"
 }

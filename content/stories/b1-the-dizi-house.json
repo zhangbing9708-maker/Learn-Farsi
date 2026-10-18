@@ -11,68 +11,320 @@
  "paragraphs": [
   {
    "sentences": [
-    {"fa": "امیر به تام قول داده بود که یک روز او را به قدیمی‌ترین دیزی‌سرای محله‌ی بازار ببرد.", "r": "Amir be Tām ghowl dāde bud ke yek ruz u rā be ghadimi-tarin dizi-sarā-ye mahalle-ye bāzār be-barad.", "en": "Amir had promised Tom that one day he would take him to the oldest dizi house in the bazaar district."},
-    {"fa": "جمعه ظهر، از کوچه‌ای باریک گذشتند و وارد مغازه‌ای کوچک شدند که دیوارهایش پر از عکس‌های سیاه‌وسفید بود.", "r": "jom'e zohr, az kuche-i bārik gozashtand o vāred-e maghāze-i kuchak shodand ke divār-hā-yash por az 'aks-hā-ye siyāh-o-sefid bud.", "en": "On Friday at noon they went down a narrow lane and entered a small shop whose walls were covered in black-and-white photographs."},
-    {"fa": "بوی گوشت و نخود و نان تازه همه‌جا پیچیده بود.", "r": "bu-ye gusht o nokhod o nān-e tāze hame-jā pichide bud.", "en": "The smell of meat, chickpeas and fresh bread filled the whole place."}
+    {
+     "fa": "امیر به تام قول داده بود که یک روز او را به قدیمی‌ترین دیزی‌سرای محله‌ی بازار ببرد.",
+     "r": "Amir be Tām ghowl dāde bud ke yek ruz u rā be ghadimi-tarin dizi-sarā-ye mahalle-ye bāzār be-barad.",
+     "en": "Amir had promised Tom that one day he would take him to the oldest dizi house in the bazaar district.",
+     "faV": "اَمیر به تام قَول داده بود که یِک روز او را به قَدیمی‌تَرین دیزی‌سَرایِ مَحَلّه‌یِ بازار بِبَرَد.",
+     "a": "ed6e1c8f4c44"
+    },
+    {
+     "fa": "جمعه ظهر، از کوچه‌ای باریک گذشتند و وارد مغازه‌ای کوچک شدند که دیوارهایش پر از عکس‌های سیاه‌وسفید بود.",
+     "r": "jom'e zohr, az kuche-i bārik gozashtand o vāred-e maghāze-i kuchak shodand ke divār-hā-yash por az 'aks-hā-ye siyāh-o-sefid bud.",
+     "en": "On Friday at noon they went down a narrow lane and entered a small shop whose walls were covered in black-and-white photographs.",
+     "faV": "جُمعه ظُهر، اَز کوچه‌ای باریک گُذَشتَند و وارِدِ مَغازه‌ای کوچَک شُدَند که دیوارهایَش پُر اَز عَکس‌هایِ سیاه‌وسِفید بود.",
+     "a": "080196630543"
+    },
+    {
+     "fa": "بوی گوشت و نخود و نان تازه همه‌جا پیچیده بود.",
+     "r": "bu-ye gusht o nokhod o nān-e tāze hame-jā pichide bud.",
+     "en": "The smell of meat, chickpeas and fresh bread filled the whole place.",
+     "faV": "بویِ گوشت و نُخود و نانِ تازه هَمه‌جا پیچیده بود.",
+     "a": "07a5eac1169f"
+    }
    ]
   },
   {
    "sentences": [
-    {"fa": "پیرمردی با سبیل سفید جلو آمد، به آن‌ها خوش‌آمد گفت و دو دیزی سنگی روی میز گذاشت.", "r": "pir-mard-i bā sebil-e sefid jelo āmad, be ān-hā khosh-āmad goft o do dizi-ye sangi ru-ye miz gozāsht.", "en": "An old man with a white moustache came forward, welcomed them and put two stone dizi pots on the table."},
-    {"fa": "تام نمی‌دانست باید با این ظرف داغ چه کار کند.", "r": "Tām nemi-dānest bāyad bā in zarf-e dāgh che kār konad.", "en": "Tom had no idea what to do with this hot pot."},
-    {"fa": "امیر خندید و گفت: «دیزی آداب دارد؛ اول آبش را در کاسه بریز، بعد نان سنگک را تکه‌تکه کن و در آن بینداز.»", "r": "Amir khandid o goft: «dizi ādāb dārad; avval āb-ash rā dar kāse be-riz, ba'd nān-e sangak rā tekke-tekke kon o dar ān bi-yandāz.»", "en": "Amir laughed and said: \"Dizi has its etiquette; first pour the broth into the bowl, then tear the sangak bread into pieces and drop them in.\""},
-    {"fa": "به این نان خیس‌شده در آبگوشت «ترید» می‌گویند.", "r": "be in nān-e khis-shode dar ābgusht «terid» mi-guyand.", "en": "This bread soaked in the broth is called terid."}
+    {
+     "fa": "پیرمردی با سبیل سفید جلو آمد، به آن‌ها خوش‌آمد گفت و دو دیزی سنگی روی میز گذاشت.",
+     "r": "pir-mard-i bā sebil-e sefid jelo āmad, be ān-hā khosh-āmad goft o do dizi-ye sangi ru-ye miz gozāsht.",
+     "en": "An old man with a white moustache came forward, welcomed them and put two stone dizi pots on the table.",
+     "faV": "پیرمَردی با سِبیلِ سِفید جِلو آمَد، به آن‌ها خوش‌آمَد گُفت و دو دیزیِ سَنگی رویِ میز گُذاشت.",
+     "a": "0d68c3e51e83"
+    },
+    {
+     "fa": "تام نمی‌دانست باید با این ظرف داغ چه کار کند.",
+     "r": "Tām nemi-dānest bāyad bā in zarf-e dāgh che kār konad.",
+     "en": "Tom had no idea what to do with this hot pot.",
+     "faV": "تام نِمی‌دانِست بایَد با این ظَرفِ داغ چه کار کُنَد.",
+     "a": "c6f5dad242bb"
+    },
+    {
+     "fa": "امیر خندید و گفت: «دیزی آداب دارد؛ اول آبش را در کاسه بریز، بعد نان سنگک را تکه‌تکه کن و در آن بینداز.»",
+     "r": "Amir khandid o goft: «dizi ādāb dārad; avval āb-ash rā dar kāse be-riz, ba'd nān-e sangak rā tekke-tekke kon o dar ān bi-yandāz.»",
+     "en": "Amir laughed and said: \"Dizi has its etiquette; first pour the broth into the bowl, then tear the sangak bread into pieces and drop them in.\"",
+     "faV": "اَمیر خَندید و گُفت: «دیزی آداب دارَد؛ اَوَّل آبَش را دَر کاسه بِریز، بَعد نانِ سَنگَک را تِکّه‌تِکّه کُن و دَر آن بیَنداز.»",
+     "a": "b1356ae84381"
+    },
+    {
+     "fa": "به این نان خیس‌شده در آبگوشت «ترید» می‌گویند.",
+     "r": "be in nān-e khis-shode dar ābgusht «terid» mi-guyand.",
+     "en": "This bread soaked in the broth is called terid.",
+     "faV": "به این نانِ خیس‌شُده دَر آبگوشت «تِرید» می‌گویَند.",
+     "a": "d5dd783c2cce"
+    }
    ]
   },
   {
    "sentences": [
-    {"fa": "سپس امیر گوشت‌کوب فلزی را برداشت و گوشت، نخود، لوبیا و سیب‌زمینی را در دیزی کوبید تا نرم شد.", "r": "sepas Amir gusht-kub-e felezzi rā bar-dāsht o gusht, nokhod, lubiyā o sib-zamini rā dar dizi kubid tā narm shod.", "en": "Then Amir picked up the metal masher and pounded the meat, chickpeas, beans and potatoes in the pot until they were soft."},
-    {"fa": "او توضیح داد که این گوشت کوبیده را با نان، پیاز، سبزی و ترشی می‌خورند و در کنارش دوغ می‌نوشند.", "r": "u towzih dād ke in gusht-e kubide rā bā nān, piyāz, sabzi o torshi mi-khorand o dar kenār-ash dugh mi-nushand.", "en": "He explained that this mashed meat is eaten with bread, onion, herbs and pickles, with doogh to drink alongside."},
-    {"fa": "تام اولین لقمه را خورد و چشم‌هایش از خوشحالی بسته شد.", "r": "Tām avvalin loghme rā khord o cheshm-hā-yash az khoshhāli baste shod.", "en": "Tom took the first mouthful, and his eyes closed with pleasure."}
+    {
+     "fa": "سپس امیر گوشت‌کوب فلزی را برداشت و گوشت، نخود، لوبیا و سیب‌زمینی را در دیزی کوبید تا نرم شد.",
+     "r": "sepas Amir gusht-kub-e felezzi rā bar-dāsht o gusht, nokhod, lubiyā o sib-zamini rā dar dizi kubid tā narm shod.",
+     "en": "Then Amir picked up the metal masher and pounded the meat, chickpeas, beans and potatoes in the pot until they were soft.",
+     "faV": "سِپَس اَمیر گوشت‌کوبِ فِلِزّی را بَرداشت و گوشت، نُخود، لوبیا و سیب‌زَمینی را دَر دیزی کوبید تا نَرم شُد.",
+     "a": "d2b0da80950e"
+    },
+    {
+     "fa": "او توضیح داد که این گوشت کوبیده را با نان، پیاز، سبزی و ترشی می‌خورند و در کنارش دوغ می‌نوشند.",
+     "r": "u towzih dād ke in gusht-e kubide rā bā nān, piyāz, sabzi o torshi mi-khorand o dar kenār-ash dugh mi-nushand.",
+     "en": "He explained that this mashed meat is eaten with bread, onion, herbs and pickles, with doogh to drink alongside.",
+     "faV": "او تَوضیح داد که این گوشتِ کوبیده را با نان، پیاز، سَبزی و تُرشی می‌خورَند و دَر کِنارَش دوغ می‌نوشَند.",
+     "a": "514d81778659"
+    },
+    {
+     "fa": "تام اولین لقمه را خورد و چشم‌هایش از خوشحالی بسته شد.",
+     "r": "Tām avvalin loghme rā khord o cheshm-hā-yash az khoshhāli baste shod.",
+     "en": "Tom took the first mouthful, and his eyes closed with pleasure.",
+     "faV": "تام اَوَّلین لُقمه را خورد و چِشم‌هایَش اَز خوشحالی بَسته شُد.",
+     "a": "5dd117e736c5"
+    }
    ]
   },
   {
    "sentences": [
-    {"fa": "وقتی ظرف‌ها خالی شدند، پیرمرد با دو استکان چای کنارشان نشست.", "r": "vaghti zarf-hā khāli shodand, pir-mard bā do estekān chāy kenār-eshān neshast.", "en": "When the bowls were empty, the old man sat down beside them with two glasses of tea."},
-    {"fa": "تام از او پرسید که این مغازه را از کی دارد.", "r": "Tām az u porsid ke in maghāze rā az key dārad.", "en": "Tom asked him how long he had had this shop."},
-    {"fa": "پیرمرد گفت: «پدرم شصت سال پیش این‌جا را باز کرد؛ آن موقع کارگرهای بازار هر روز ظهر این‌جا دیزی می‌خوردند، چون هم ارزان بود و هم سیرشان می‌کرد.»", "r": "pir-mard goft: «pedar-am shast sāl pish in-jā rā bāz kard; ān mowghe' kārgar-hā-ye bāzār har ruz zohr in-jā dizi mi-khordand, chon ham arzān bud o ham sir-eshān mi-kard.»", "en": "The old man said: \"My father opened this place sixty years ago; back then the bazaar workers ate dizi here every noon, because it was cheap and it filled them up.\""},
-    {"fa": "او گفت که اسم این غذا از همین ظرف سنگی آمده است، چون در قدیم به این ظرف «دیزی» می‌گفتند.", "r": "u goft ke esm-e in ghazā az hamin zarf-e sangi āmade ast, chon dar ghadim be in zarf «dizi» mi-goftand.", "en": "He said that the dish's name comes from this very stone pot, because in the old days the pot itself was called a dizi."},
-    {"fa": "سپس اضافه کرد: «اگر دیزی را با عجله بپزی، مزه‌ای ندارد؛ باید از صبح زود روی آتش آرام بماند.»", "r": "sepas ezāfe kard: «agar dizi rā bā 'ajale be-pazi, maze-i na-dārad; bāyad az sobh-e zud ru-ye ātash-e ārām be-mānad.»", "en": "Then he added: \"If you cook dizi in a hurry, it has no taste; it must sit on a low fire from early morning.\""}
+    {
+     "fa": "وقتی ظرف‌ها خالی شدند، پیرمرد با دو استکان چای کنارشان نشست.",
+     "r": "vaghti zarf-hā khāli shodand, pir-mard bā do estekān chāy kenār-eshān neshast.",
+     "en": "When the bowls were empty, the old man sat down beside them with two glasses of tea.",
+     "faV": "وَقتی ظَرف‌ها خالی شُدَند، پیرمَرد با دو اِستِکان چای کِنارِشان نِشَست.",
+     "a": "8af7a93369f8"
+    },
+    {
+     "fa": "تام از او پرسید که این مغازه را از کی دارد.",
+     "r": "Tām az u porsid ke in maghāze rā az key dārad.",
+     "en": "Tom asked him how long he had had this shop.",
+     "faV": "تام اَز او پُرسید که این مَغازه را اَز کَی دارَد.",
+     "a": "55ecbde31d85"
+    },
+    {
+     "fa": "پیرمرد گفت: «پدرم شصت سال پیش این‌جا را باز کرد؛ آن موقع کارگرهای بازار هر روز ظهر این‌جا دیزی می‌خوردند، چون هم ارزان بود و هم سیرشان می‌کرد.»",
+     "r": "pir-mard goft: «pedar-am shast sāl pish in-jā rā bāz kard; ān mowghe' kārgar-hā-ye bāzār har ruz zohr in-jā dizi mi-khordand, chon ham arzān bud o ham sir-eshān mi-kard.»",
+     "en": "The old man said: \"My father opened this place sixty years ago; back then the bazaar workers ate dizi here every noon, because it was cheap and it filled them up.\"",
+     "faV": "پیرمَرد گُفت: «پِدَرَم شَصت سال پیش این‌جا را باز کَرد؛ آن مَوقِع کارگَرهایِ بازار هَر روز ظُهر این‌جا دیزی می‌خوردَند، چون هَم اَرزان بود و هَم سیرِشان می‌کَرد.»",
+     "a": "3cd646eabaec"
+    },
+    {
+     "fa": "او گفت که اسم این غذا از همین ظرف سنگی آمده است، چون در قدیم به این ظرف «دیزی» می‌گفتند.",
+     "r": "u goft ke esm-e in ghazā az hamin zarf-e sangi āmade ast, chon dar ghadim be in zarf «dizi» mi-goftand.",
+     "en": "He said that the dish's name comes from this very stone pot, because in the old days the pot itself was called a dizi.",
+     "faV": "او گُفت که اِسمِ این غَذا اَز هَمین ظَرفِ سَنگی آمَده اَست، چون دَر قَدیم به این ظَرف «دیزی» می‌گُفتَند.",
+     "a": "4aa4793482b4"
+    },
+    {
+     "fa": "سپس اضافه کرد: «اگر دیزی را با عجله بپزی، مزه‌ای ندارد؛ باید از صبح زود روی آتش آرام بماند.»",
+     "r": "sepas ezāfe kard: «agar dizi rā bā 'ajale be-pazi, maze-i na-dārad; bāyad az sobh-e zud ru-ye ātash-e ārām be-mānad.»",
+     "en": "Then he added: \"If you cook dizi in a hurry, it has no taste; it must sit on a low fire from early morning.\"",
+     "faV": "سِپَس اِضافه کَرد: «اَگَر دیزی را با عَجَله بِپَزی، مَزه‌ای نَدارَد؛ بایَد اَز صُبحِ زود رویِ آتَشِ آرام بِمانَد.»",
+     "a": "6fe8439f55be"
+    }
    ]
   },
   {
    "sentences": [
-    {"fa": "موقع رفتن، تام خواست پول بدهد، اما پیرمرد تعارف کرد و گفت: «مهمان ما باشید.»", "r": "mowghe'-e raftan, Tām khāst pul be-dahad, ammā pir-mard ta'ārof kard o goft: «mehmān-e mā bāshid.»", "en": "When it was time to leave, Tom went to pay, but the old man made the polite offer: \"Be our guests.\""},
-    {"fa": "امیر آهسته به تام گفت که این تعارف است و باید اصرار کند.", "r": "Amir āheste be Tām goft ke in ta'ārof ast o bāyad esrār konad.", "en": "Amir whispered to Tom that this was taarof and that he should insist."},
-    {"fa": "تام اصرار کرد، پول را پرداخت و قول داد که هفته‌ی بعد با دوستانش برگردد.", "r": "Tām esrār kard, pul rā pardākht o ghowl dād ke hafte-ye ba'd bā dustān-ash bar-gardad.", "en": "Tom insisted, paid, and promised to come back the following week with his friends."},
-    {"fa": "در راه خانه، به امیر گفت: «اگر در استرالیا دیزی بود، من هر روز ظهر دیزی می‌خوردم!»", "r": "dar rāh-e khāne, be Amir goft: «agar dar Ostorāliyā dizi bud, man har ruz zohr dizi mi-khordam!»", "en": "On the way home he said to Amir: \"If there were dizi in Australia, I would eat it every day for lunch!\""}
+    {
+     "fa": "موقع رفتن، تام خواست پول بدهد، اما پیرمرد تعارف کرد و گفت: «مهمان ما باشید.»",
+     "r": "mowghe'-e raftan, Tām khāst pul be-dahad, ammā pir-mard ta'ārof kard o goft: «mehmān-e mā bāshid.»",
+     "en": "When it was time to leave, Tom went to pay, but the old man made the polite offer: \"Be our guests.\"",
+     "faV": "مَوقِعِ رَفتَن، تام خواست پول بِدَهَد، اَمّا پیرمَرد تَعارُف کَرد و گُفت: «مِهمانِ ما باشید.»",
+     "a": "1e7340ccf0c1"
+    },
+    {
+     "fa": "امیر آهسته به تام گفت که این تعارف است و باید اصرار کند.",
+     "r": "Amir āheste be Tām goft ke in ta'ārof ast o bāyad esrār konad.",
+     "en": "Amir whispered to Tom that this was taarof and that he should insist.",
+     "faV": "اَمیر آهِسته به تام گُفت که این تَعارُف اَست و بایَد اِصرار کُنَد.",
+     "a": "d2debe185ab2"
+    },
+    {
+     "fa": "تام اصرار کرد، پول را پرداخت و قول داد که هفته‌ی بعد با دوستانش برگردد.",
+     "r": "Tām esrār kard, pul rā pardākht o ghowl dād ke hafte-ye ba'd bā dustān-ash bar-gardad.",
+     "en": "Tom insisted, paid, and promised to come back the following week with his friends.",
+     "faV": "تام اِصرار کَرد، پول را پَرداخت و قَول داد که هَفته‌یِ بَعد با دوستانَش بَرگَردَد.",
+     "a": "71867349d943"
+    },
+    {
+     "fa": "در راه خانه، به امیر گفت: «اگر در استرالیا دیزی بود، من هر روز ظهر دیزی می‌خوردم!»",
+     "r": "dar rāh-e khāne, be Amir goft: «agar dar Ostorāliyā dizi bud, man har ruz zohr dizi mi-khordam!»",
+     "en": "On the way home he said to Amir: \"If there were dizi in Australia, I would eat it every day for lunch!\"",
+     "faV": "دَر راهِ خانه، به اَمیر گُفت: «اَگَر دَر اُستُرالیا دیزی بود، مَن هَر روز ظُهر دیزی می‌خوردَم!»",
+     "a": "78acd57d7629"
+    }
    ]
   }
  ],
  "vocab": [
-  {"fa": "دیزی", "r": "dizi", "en": "dizi: lamb stew cooked in a stone pot; the pot itself"},
-  {"fa": "آبگوشت", "r": "ābgusht", "en": "meat broth stew (another name for dizi)"},
-  {"fa": "ظرف", "r": "zarf", "en": "dish, container"},
-  {"fa": "داغ", "r": "dāgh", "en": "very hot (to the touch)"},
-  {"fa": "آداب", "r": "ādāb", "en": "etiquette, customs"},
-  {"fa": "تکه‌تکه کردن", "r": "tekke-tekke kardan", "en": "to tear or cut into pieces"},
-  {"fa": "ترید", "r": "terid", "en": "bread soaked in broth"},
-  {"fa": "گوشت‌کوب", "r": "gusht-kub", "en": "meat masher, pestle"},
-  {"fa": "کوبیدن", "r": "kubidan", "en": "to pound, mash"},
-  {"fa": "نخود", "r": "nokhod", "en": "chickpeas"},
-  {"fa": "لقمه", "r": "loghme", "en": "mouthful, bite"},
-  {"fa": "سیر کردن", "r": "sir kardan", "en": "to fill (someone) up"},
-  {"fa": "عجله", "r": "'ajale", "en": "hurry"},
-  {"fa": "تعارف کردن", "r": "ta'ārof kardan", "en": "to make a polite (ritual) offer"},
-  {"fa": "اصرار کردن", "r": "esrār kardan", "en": "to insist"},
-  {"fa": "پرداختن", "r": "pardākhtan", "en": "to pay"}
+  {
+   "fa": "دیزی",
+   "r": "dizi",
+   "en": "dizi: lamb stew cooked in a stone pot; the pot itself",
+   "faV": "دیزی",
+   "a": "4069562bcb97"
+  },
+  {
+   "fa": "آبگوشت",
+   "r": "ābgusht",
+   "en": "meat broth stew (another name for dizi)",
+   "faV": "آبگوشت",
+   "a": "82be9ea539fa"
+  },
+  {
+   "fa": "ظرف",
+   "r": "zarf",
+   "en": "dish, container",
+   "faV": "ظَرف",
+   "a": "00ad9c1d88d5"
+  },
+  {
+   "fa": "داغ",
+   "r": "dāgh",
+   "en": "very hot (to the touch)",
+   "faV": "داغ",
+   "a": "35824b791e3d"
+  },
+  {
+   "fa": "آداب",
+   "r": "ādāb",
+   "en": "etiquette, customs",
+   "faV": "آداب",
+   "a": "3606a6d910cc"
+  },
+  {
+   "fa": "تکه‌تکه کردن",
+   "r": "tekke-tekke kardan",
+   "en": "to tear or cut into pieces",
+   "faV": "تِکّه‌تِکّه کَردَن",
+   "a": "dc9996e12a41"
+  },
+  {
+   "fa": "ترید",
+   "r": "terid",
+   "en": "bread soaked in broth",
+   "faV": "تِرید",
+   "a": "0f15c8cf25ef"
+  },
+  {
+   "fa": "گوشت‌کوب",
+   "r": "gusht-kub",
+   "en": "meat masher, pestle",
+   "faV": "گوشت‌کوب",
+   "a": "ccea783e5ce4"
+  },
+  {
+   "fa": "کوبیدن",
+   "r": "kubidan",
+   "en": "to pound, mash",
+   "faV": "کوبیدَن",
+   "a": "c89f5d76187d"
+  },
+  {
+   "fa": "نخود",
+   "r": "nokhod",
+   "en": "chickpeas",
+   "faV": "نُخود",
+   "a": "bf84075a4f53"
+  },
+  {
+   "fa": "لقمه",
+   "r": "loghme",
+   "en": "mouthful, bite",
+   "faV": "لُقمه",
+   "a": "4376d73305a7"
+  },
+  {
+   "fa": "سیر کردن",
+   "r": "sir kardan",
+   "en": "to fill (someone) up",
+   "faV": "سیر کَردَن",
+   "a": "5069076858c2"
+  },
+  {
+   "fa": "عجله",
+   "r": "'ajale",
+   "en": "hurry",
+   "faV": "عَجَله",
+   "a": "eb17d1e307b4"
+  },
+  {
+   "fa": "تعارف کردن",
+   "r": "ta'ārof kardan",
+   "en": "to make a polite (ritual) offer",
+   "faV": "تَعارُف کَردَن",
+   "a": "049c0a5c104c"
+  },
+  {
+   "fa": "اصرار کردن",
+   "r": "esrār kardan",
+   "en": "to insist",
+   "faV": "اِصرار کَردَن",
+   "a": "b993ada24acb"
+  },
+  {
+   "fa": "پرداختن",
+   "r": "pardākhtan",
+   "en": "to pay",
+   "faV": "پَرداختَن",
+   "a": "8e3b1f93a7a4"
+  }
  ],
  "questions": [
-  {"q": "What is the first step in eating dizi, according to Amir?", "options": ["mash the meat", "pour the broth into a bowl and add pieces of bread", "drink the doogh"], "answer": 1},
-  {"q": "What is terid?", "options": ["bread soaked in the broth", "the metal masher", "a kind of pickle"], "answer": 0},
-  {"q": "Why did the bazaar workers eat dizi every day, according to the owner?", "options": ["it was cheap and filling", "it was the only dish on the menu", "his father gave it to them for free"], "answer": 0},
-  {"q": "Where does the name dizi come from?", "options": ["the name of the owner's father", "the stone pot it is cooked in", "a village near Tehran"], "answer": 1},
-  {"q": "Why did Amir tell Tom to insist on paying?", "options": ["the owner was poor", "the owner's offer was taarof", "Tom had lost a bet"], "answer": 1}
+  {
+   "q": "What is the first step in eating dizi, according to Amir?",
+   "options": [
+    "mash the meat",
+    "pour the broth into a bowl and add pieces of bread",
+    "drink the doogh"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What is terid?",
+   "options": [
+    "bread soaked in the broth",
+    "the metal masher",
+    "a kind of pickle"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Why did the bazaar workers eat dizi every day, according to the owner?",
+   "options": [
+    "it was cheap and filling",
+    "it was the only dish on the menu",
+    "his father gave it to them for free"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Where does the name dizi come from?",
+   "options": [
+    "the name of the owner's father",
+    "the stone pot it is cooked in",
+    "a village near Tehran"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Why did Amir tell Tom to insist on paying?",
+   "options": [
+    "the owner was poor",
+    "the owner's offer was taarof",
+    "Tom had lost a bet"
+   ],
+   "answer": 1
+  }
  ],
- "after": "Dizi – also called ābgusht, 'meat water' – is the classic working lunch of Tehran: lamb, chickpeas, white beans, potato, tomato and dried lime, cooked slowly in individual stone pots. It is eaten in two courses from one pot: first the broth with torn bread (ترید), then the solids pounded with a گوشت‌کوب into a paste called گوشت کوبیده, eaten with raw onion, fresh herbs, pickles and doogh. Grammar to notice: the imperatives in Amir's instructions take the prefix بـ (بریز 'pour', بینداز 'throw in'), but compound verbs drop it (تکه‌تکه کن 'tear up'); and the unreal present conditional in Tom's last line uses the past continuous: اگر… بود، …می‌خوردم 'if there were…, I would eat…'."
+ "after": "Dizi – also called ābgusht, 'meat water' – is the classic working lunch of Tehran: lamb, chickpeas, white beans, potato, tomato and dried lime, cooked slowly in individual stone pots. It is eaten in two courses from one pot: first the broth with torn bread (ترید), then the solids pounded with a گوشت‌کوب into a paste called گوشت کوبیده, eaten with raw onion, fresh herbs, pickles and doogh. Grammar to notice: the imperatives in Amir's instructions take the prefix بـ (بریز 'pour', بینداز 'throw in'), but compound verbs drop it (تکه‌تکه کن 'tear up'); and the unreal present conditional in Tom's last line uses the past continuous: اگر… بود، …می‌خوردم 'if there were…, I would eat…'.",
+ "titleV": "دیزی‌سَرا",
+ "titleA": "11cee8a63e67"
 }

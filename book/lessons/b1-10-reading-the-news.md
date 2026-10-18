@@ -391,10 +391,10 @@ Persian newspapers go back to the 19th century. One of the most famous of the ea
 
 **Put the words in order**
 
-1. سازمان / داد. / هشدار / هواشناسی — The weather service issued a warning.
-2. افزایش / یافت. / نفت / قیمت — The price of oil rose.
-3. تعطیل / گزارش / مدارس / شدند. / به / خبرگزاری‌ها، — According to news agencies, the schools were closed.
-4. وی / تأکید / لزوم / صرفه‌جویی / کرد. / بر — He stressed the need to save.
+1. داد. / هواشناسی / هشدار / سازمان — The weather service issued a warning.
+2. قیمت / نفت / یافت. / افزایش — The price of oil rose.
+3. مدارس / خبرگزاری‌ها، / تعطیل / به / شدند. / گزارش — According to news agencies, the schools were closed.
+4. تأکید / لزوم / کرد. / بر / صرفه‌جویی / وی — He stressed the need to save.
 
 <details><summary>Answers</summary>
 

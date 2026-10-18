@@ -59,10 +59,10 @@
     {
      "who": "Reza",
      "fa": "درست است، اما تهران همه چیز دارد: کار، دانشگاه، سینما و رستوران‌های خوب.",
-     "r": "dorost ast, ammā Tehrān hame chiz dārad: kār, dāneshgāh, sinamā o restorān-hā-ye khub.",
+     "r": "dorost ast, ammā Tehrān hame chiz dārad: kār, dāneshgāh, sinamā o resturān-hā-ye khub.",
      "en": "True, but Tehran has everything: work, universities, cinemas and good restaurants.",
      "col": "درسته، ولی تهران همه چی داره: کار، دانشگاه، سینما و رستورانای خوب.",
-     "colR": "dorost-e, vali Tehrān hame chi dāre: kār, dāneshgāh, sinamā o restorān-ā-ye khub.",
+     "colR": "dorost-e, vali Tehrān hame chi dāre: kār, dāneshgāh, sinamā o resturān-ā-ye khub.",
      "faV": "دُرُست اَست، اَمّا تِهران هَمه چیز دارَد: کار، دانِشگاه، سینَما و رِستوران‌هایِ خوب.",
      "a": "cbefab7aa98e",
      "colV": "دُرُسته، وَلی تِهران هَمه چی داره: کار، دانِشگاه، سینَما و رِستورانایِ خوب.",
@@ -768,7 +768,7 @@
     },
     {
      "fa": "بسیاری از جوان‌های ایرانی به شهرهای بزرگ می‌روند، زیرا در شهر کار و دانشگاه هست.",
-     "r": "besyāri az javān-hā-ye Irāni be shahr-hā-ye bozorg mi-ravand, zirā dar shahr kār o dāneshgāh hast.",
+     "r": "besyāri az javān-hā-ye irāni be shahr-hā-ye bozorg mi-ravand, zirā dar shahr kār o dāneshgāh hast.",
      "en": "Many young Iranians move to the big cities, because that is where the jobs and universities are.",
      "faV": "بِسیاری اَز جَوان‌هایِ ایرانی به شَهرهایِ بُزُرگ می‌رَوَند، زیرا دَر شَهر کار و دانِشگاه هَست.",
      "a": "eade14200d9b"

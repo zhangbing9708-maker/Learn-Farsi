@@ -42,8 +42,8 @@ _Sara is learning to cook āsh-e reshte with her aunt Parvin. Tom, who is visiti
 - **Parvin:** نه، هنوز نه. اول بگذار لوبیا نرم شود.  
   *na, hanuz na. avval begozār lubiyā narm shavad.* — No, not yet. First let the beans get soft.  
   Spoken: نه، هنوز نه. اول بذار لوبیا نرم بشه. *na, hanuz na. avval bezār lubiyā narm beshe.*
-- **Tom:** پیازها تمام شد. حالا چی؟  
-  *piyāz-hā tamām shod. hālā chi?* — The onions are done. Now what?
+- **Tom:** پیازها تمام شد. حالا چه؟  
+  *piyāz-hā tamām shod. hālā che?* — The onions are done. Now what?
 - **Parvin:** آفرین! حالا بنشینید و یک چای بخورید. آش یک ساعت دیگر آماده می‌شود.  
   *āfarin! hālā beneshinid o yek chāy bokhorid. āsh yek sā'at-e digar āmāde mi-shavad.* — Well done! Now sit down and have a tea. The soup will be ready in an hour.  
   Spoken: آفرین! حالا بنشینین و یه چای بخورین. آش یه ساعت دیگه آماده می‌شه. *āfarin! hālā beneshinin o ye chāy bokhorin. āsh ye sā'at-e dige āmāde mi-she.*
@@ -283,10 +283,10 @@ The word آش (*āsh*) is old; it gave Persian its words for cook, آشپز (*ā
 
 **Put the words in order**
 
-1. این‌جا / لطفاً / بنشینید. — Please sit here.
-2. کلیدها / فراموش / نکن. / را — Don't forget the keys.
-3. ساعت / بپزد. / یک / بگذار — Let it cook for an hour.
-4. روشن / کن. / و / آب / لیوان / زیرش / بریز / را / دو — Pour in two glasses of water and turn on the heat under it.
+1. لطفاً / این‌جا / بنشینید. — Please sit here.
+2. کلیدها / را / فراموش / نکن. — Don't forget the keys.
+3. ساعت / بپزد. / بگذار / یک — Let it cook for an hour.
+4. بریز / را / دو / روشن / لیوان / کن. / آب / زیرش / و — Pour in two glasses of water and turn on the heat under it.
 
 <details><summary>Answers</summary>
 

@@ -39,84 +39,222 @@
   {
    "fa": "رضاخان در سال ۱۲۹۹ با یک کودتا به قدرت رسید.",
    "r": "Rezā-khān dar sāl-e hezār-o-devist-o-navad-o-noh bā yek kudetā be ghodrat resid.",
-   "en": "Reza Khan came to power in a coup in 1921 (1299 in the Iranian calendar)."
+   "en": "Reza Khan came to power in a coup in 1921 (1299 in the Iranian calendar).",
+   "faV": "رِضاخان دَر سالِ ۱۲۹۹ با یِک کودِتا به قُدرَت رِسید.",
+   "a": "c70aa5e53499"
   },
   {
    "fa": "او در سال ۱۳۰۴ شاه ایران شد.",
    "r": "u dar sāl-e hezār-o-sisad-o-chahār shāh-e Irān shod.",
-   "en": "He became shah of Iran in 1925 (1304)."
+   "en": "He became shah of Iran in 1925 (1304).",
+   "faV": "او دَر سالِ ۱۳۰۴ شاهِ ایران شُد.",
+   "a": "91e4352a18c5"
   },
   {
    "fa": "راه‌آهن سراسری دریای خزر را به خلیج فارس وصل کرد.",
    "r": "rāh-āhan-e sarāsari daryā-ye Khazar rā be Khalij-e Fārs vasl kard.",
-   "en": "The Trans-Iranian Railway connected the Caspian Sea to the Persian Gulf."
+   "en": "The Trans-Iranian Railway connected the Caspian Sea to the Persian Gulf.",
+   "faV": "راه‌آهَنِ سَراسَری دَریایِ خَزَر را به خَلیجِ فارس وَصل کَرد.",
+   "a": "83edb0b01d82"
   },
   {
    "fa": "هزینه‌ی راه‌آهن از مالیات قند و چای پرداخت شد.",
    "r": "hazine-ye rāh-āhan az māliyāt-e ghand o chāy pardākht shod.",
-   "en": "The railway was paid for by a tax on sugar and tea."
+   "en": "The railway was paid for by a tax on sugar and tea.",
+   "faV": "هَزینه‌یِ راه‌آهَن اَز مالیاتِ قَند و چای پَرداخت شُد.",
+   "a": "0eff98746700"
   },
   {
    "fa": "دانشگاه تهران در سال ۱۳۱۳ تأسیس شد.",
    "r": "Dāneshgāh-e Tehrān dar sāl-e hezār-o-sisad-o-sizdah ta'sis shod.",
-   "en": "The University of Tehran was founded in 1934 (1313)."
+   "en": "The University of Tehran was founded in 1934 (1313).",
+   "faV": "دانِشگاهِ تِهران دَر سالِ ۱۳۱۳ تَأسیس شُد.",
+   "a": "1c57224eed9b"
   },
   {
    "fa": "دولت ایران از کشورهای دیگر خواست که به جای «پرشیا» بگویند «ایران».",
    "r": "dowlat-e Irān az keshvar-hā-ye digar khāst ke be jā-ye «Pershiyā» beguyand «Irān».",
-   "en": "The Iranian government asked other countries to say 'Iran' instead of 'Persia'."
+   "en": "The Iranian government asked other countries to say 'Iran' instead of 'Persia'.",
+   "faV": "دَولَتِ ایران اَز کِشوَرهایِ دیگَر خواست که به جایِ «پِرشیا» بِگویَند «ایران».",
+   "a": "474b8f0d152f"
   },
   {
    "fa": "در سال ۱۳۱۴ چادر در جاهای عمومی ممنوع شد.",
    "r": "dar sāl-e hezār-o-sisad-o-chahārdah chādor dar jā-hā-ye 'omumi mamnu' shod.",
-   "en": "In 1314 (1936) the chador was banned in public places."
+   "en": "In 1314 (1936) the chador was banned in public places.",
+   "faV": "دَر سالِ ۱۳۱۴ چادُر دَر جاهایِ عُمومی مَمنوع شُد.",
+   "a": "5a7271654ca4"
   },
   {
    "fa": "بعضی از زنان از این قانون خوشحال بودند، اما بسیاری دیگر از خانه بیرون نمی‌رفتند.",
    "r": "ba'zi az zanān az in ghānun khoshhāl budand, ammā besyāri digar az khāne birun nemi-raftand.",
-   "en": "Some women were happy with this law, but many others stopped going out of the house."
+   "en": "Some women were happy with this law, but many others stopped going out of the house.",
+   "faV": "بَعضی اَز زَنان اَز این قانون خوشحال بودَند، اَمّا بِسیاری دیگَر اَز خانه بیرون نِمی‌رَفتَند.",
+   "a": "e4dc1dbc00b5"
   },
   {
    "fa": "رضاشاه کشور را با دست آهنین اداره می‌کرد.",
    "r": "Rezā-shāh keshvar rā bā dast-e āhanin edāre mi-kard.",
-   "en": "Reza Shah ran the country with an iron hand."
+   "en": "Reza Shah ran the country with an iron hand.",
+   "faV": "رِضاشاه کِشوَر را با دَستِ آهَنین اِداره می‌کَرد.",
+   "a": "d15a4992df6f"
   },
   {
    "fa": "روزنامه‌ها آزاد نبودند و مخالفان زندانی می‌شدند.",
    "r": "ruznāme-hā āzād nabudand va mokhālefān zendāni mi-shodand.",
-   "en": "Newspapers were not free and opponents were imprisoned."
+   "en": "Newspapers were not free and opponents were imprisoned.",
+   "faV": "روزنامه‌ها آزاد نَبودَند و مُخالِفان زِندانی می‌شُدَند.",
+   "a": "8446918adf97"
   },
   {
    "fa": "در شهریور ۱۳۲۰ ارتش‌های بریتانیا و شوروی وارد ایران شدند.",
    "r": "dar Shahrivar-e hezār-o-sisad-o-bist artesh-hā-ye Beritāniyā va Showravi vāred-e Irān shodand.",
-   "en": "In August–September 1941 (Shahrivar 1320) British and Soviet armies entered Iran."
+   "en": "In August–September 1941 (Shahrivar 1320) British and Soviet armies entered Iran.",
+   "faV": "دَر شَهریوَرِ ۱۳۲۰ اَرتِش‌هایِ بِریتانیا و شَورَوی وارِدِ ایران شُدَند.",
+   "a": "5cdade6ca8d8"
   },
   {
    "fa": "رضاشاه به نفع پسرش از سلطنت کناره گرفت.",
    "r": "Rezā-shāh be naf'-e pesar-ash az saltanat kenāre gereft.",
-   "en": "Reza Shah gave up the throne in favour of his son."
+   "en": "Reza Shah gave up the throne in favour of his son.",
+   "faV": "رِضاشاه به نَفعِ پِسَرَش اَز سَلطَنَت کِناره گِرِفت.",
+   "a": "017c638b3374"
   }
  ],
  "vocab": [
-  {"fa": "کودتا", "r": "kudetā", "en": "coup d'état"},
-  {"fa": "قدرت", "r": "ghodrat", "en": "power"},
-  {"fa": "سلسله", "r": "selsele", "en": "dynasty"},
-  {"fa": "نوسازی", "r": "nowsāzi", "en": "modernisation, renovation"},
-  {"fa": "راه‌آهن", "r": "rāh-āhan", "en": "railway"},
-  {"fa": "پل", "r": "pol", "en": "bridge"},
-  {"fa": "تونل", "r": "tunel", "en": "tunnel"},
-  {"fa": "دانشگاه", "r": "dāneshgāh", "en": "university"},
-  {"fa": "دانشجو", "r": "dāneshju", "en": "(university) student"},
-  {"fa": "تأسیس شدن", "r": "ta'sis shodan", "en": "to be founded"},
-  {"fa": "قانون", "r": "ghānun", "en": "law"},
-  {"fa": "حجاب", "r": "hejāb", "en": "hijab, veiling"},
-  {"fa": "چادر", "r": "chādor", "en": "chador; tent"},
-  {"fa": "ممنوع", "r": "mamnu'", "en": "forbidden, banned"},
-  {"fa": "روزنامه", "r": "ruznāme", "en": "newspaper"},
-  {"fa": "زندانی", "r": "zendāni", "en": "prisoner; imprisoned"},
-  {"fa": "سلطنت", "r": "saltanat", "en": "monarchy, reign"},
-  {"fa": "کناره گرفتن", "r": "kenāre gereftan", "en": "to step down, to withdraw"},
-  {"fa": "تبعید", "r": "tab'id", "en": "exile"}
+  {
+   "fa": "کودتا",
+   "r": "kudetā",
+   "en": "coup d'état",
+   "faV": "کودِتا",
+   "a": "053eca85c6f7"
+  },
+  {
+   "fa": "قدرت",
+   "r": "ghodrat",
+   "en": "power",
+   "faV": "قُدرَت",
+   "a": "e13bfbe255e8"
+  },
+  {
+   "fa": "سلسله",
+   "r": "selsele",
+   "en": "dynasty",
+   "faV": "سِلسِله",
+   "a": "ed10c0cacc2c"
+  },
+  {
+   "fa": "نوسازی",
+   "r": "nowsāzi",
+   "en": "modernisation, renovation",
+   "faV": "نَوسازی",
+   "a": "28530b9f6aed"
+  },
+  {
+   "fa": "راه‌آهن",
+   "r": "rāh-āhan",
+   "en": "railway",
+   "faV": "راه‌آهَن",
+   "a": "485b5f689e63"
+  },
+  {
+   "fa": "پل",
+   "r": "pol",
+   "en": "bridge",
+   "faV": "پُل",
+   "a": "295caf771580"
+  },
+  {
+   "fa": "تونل",
+   "r": "tunel",
+   "en": "tunnel",
+   "faV": "تونِل",
+   "a": "14bc7819ccda"
+  },
+  {
+   "fa": "دانشگاه",
+   "r": "dāneshgāh",
+   "en": "university",
+   "faV": "دانِشگاه",
+   "a": "890634c6c97a"
+  },
+  {
+   "fa": "دانشجو",
+   "r": "dāneshju",
+   "en": "(university) student",
+   "faV": "دانِشجو",
+   "a": "0cf8e25653d0"
+  },
+  {
+   "fa": "تأسیس شدن",
+   "r": "ta'sis shodan",
+   "en": "to be founded",
+   "faV": "تَأسیس شُدَن",
+   "a": "75bd3b9b57c1"
+  },
+  {
+   "fa": "قانون",
+   "r": "ghānun",
+   "en": "law",
+   "faV": "قانون",
+   "a": "d1ec9be1a369"
+  },
+  {
+   "fa": "حجاب",
+   "r": "hejāb",
+   "en": "hijab, veiling",
+   "faV": "حِجاب",
+   "a": "66ecaf6055ca"
+  },
+  {
+   "fa": "چادر",
+   "r": "chādor",
+   "en": "chador; tent",
+   "faV": "چادُر",
+   "a": "6917308bad57"
+  },
+  {
+   "fa": "ممنوع",
+   "r": "mamnu'",
+   "en": "forbidden, banned",
+   "faV": "مَمنوع",
+   "a": "9b4f99f3e757"
+  },
+  {
+   "fa": "روزنامه",
+   "r": "ruznāme",
+   "en": "newspaper",
+   "faV": "روزنامه",
+   "a": "9e54ebf072f2"
+  },
+  {
+   "fa": "زندانی",
+   "r": "zendāni",
+   "en": "prisoner; imprisoned",
+   "faV": "زِندانی",
+   "a": "5ba51bb978d4"
+  },
+  {
+   "fa": "سلطنت",
+   "r": "saltanat",
+   "en": "monarchy, reign",
+   "faV": "سَلطَنَت",
+   "a": "453cc09c55ca"
+  },
+  {
+   "fa": "کناره گرفتن",
+   "r": "kenāre gereftan",
+   "en": "to step down, to withdraw",
+   "faV": "کِناره گِرِفتَن",
+   "a": "c3274cf69b69"
+  },
+  {
+   "fa": "تبعید",
+   "r": "tab'id",
+   "en": "exile",
+   "faV": "تَبعید",
+   "a": "879ed2f9151d"
+  }
  ],
  "facts": [
   "Reza Khan's coup took place on 21 February 1921 (3 Esfand 1299).",
@@ -126,5 +264,7 @@
   "From Nowruz 1935 the Iranian government asked foreign states to use the name 'Iran' instead of 'Persia'.",
   "The unveiling decree (kashf-e hejāb) was announced in January 1936 (Dey 1314).",
   "Reza Shah abdicated on 16 September 1941 and died in exile in Johannesburg in 1944."
- ]
+ ],
+ "titleV": "رِضاشاه و نَوسازیِ ایران",
+ "titleA": "5a590c3dbb76"
 }

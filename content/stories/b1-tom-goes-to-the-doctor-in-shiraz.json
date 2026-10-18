@@ -11,67 +11,313 @@
  "paragraphs": [
   {
    "sentences": [
-    {"fa": "تام برای تعطیلات نوروز به شیراز رفته بود تا آرامگاه حافظ و سعدی را ببیند.", "r": "Tām barā-ye ta'tilāt-e Nowruz be Shirāz rafte bud tā ārāmgāh-e Hāfez o Sa'di rā be-binad.", "en": "Tom had gone to Shiraz for the Nowruz holidays to see the tombs of Hafez and Saadi."},
-    {"fa": "روز دوم، بعد از یک ناهار سنگین در بازار وکیل، حالش بد شد.", "r": "ruz-e dovvom, ba'd az yek nāhār-e sangin dar bāzār-e Vakil, hāl-ash bad shod.", "en": "On the second day, after a heavy lunch in the Vakil Bazaar, he fell ill."},
-    {"fa": "شب تب کرد، سرش درد می‌کرد و تا صبح نتوانست بخوابد.", "r": "shab tab kard, sar-ash dard mi-kard o tā sobh na-tavānest be-khābad.", "en": "At night he ran a fever, his head ached, and he could not sleep until morning."}
+    {
+     "fa": "تام برای تعطیلات نوروز به شیراز رفته بود تا آرامگاه حافظ و سعدی را ببیند.",
+     "r": "Tām barā-ye ta'tilāt-e Nowruz be Shirāz rafte bud tā ārāmgāh-e Hāfez o Sa'di rā be-binad.",
+     "en": "Tom had gone to Shiraz for the Nowruz holidays to see the tombs of Hafez and Saadi.",
+     "faV": "تام بَرایِ تَعطیلاتِ نَوروز به شیراز رَفته بود تا آرامگاهِ حافِظ و سَعدی را بِبینَد.",
+     "a": "fb4f8423341a"
+    },
+    {
+     "fa": "روز دوم، بعد از یک ناهار سنگین در بازار وکیل، حالش بد شد.",
+     "r": "ruz-e dovvom, ba'd az yek nāhār-e sangin dar bāzār-e Vakil, hāl-ash bad shod.",
+     "en": "On the second day, after a heavy lunch in the Vakil Bazaar, he fell ill.",
+     "faV": "روزِ دُوُّم، بَعد اَز یِک ناهارِ سَنگین دَر بازارِ وَکیل، حالَش بَد شُد.",
+     "a": "7ff27a0b1d3b"
+    },
+    {
+     "fa": "شب تب کرد، سرش درد می‌کرد و تا صبح نتوانست بخوابد.",
+     "r": "shab tab kard, sar-ash dard mi-kard o tā sobh na-tavānest be-khābad.",
+     "en": "At night he ran a fever, his head ached, and he could not sleep until morning.",
+     "faV": "شَب تَب کَرد، سَرَش دَرد می‌کَرد و تا صُبح نَتَوانِست بِخوابَد.",
+     "a": "d2b9b97bf7e2"
+    }
    ]
   },
   {
    "sentences": [
-    {"fa": "صبح، خانم نوری، صاحب مهمان‌پذیر، که زنی مهربان و پرحرف بود، رنگ پریده‌ی او را دید و گفت: «پسرم، تو مریضی! چرا زودتر نگفتی؟»", "r": "sobh, khānom-e Nuri, sāheb-e mehmān-pazir, ke zan-i mehrabān o por-harf bud, rang-e paride-ye u rā did o goft: «pesar-am, to mariz-i! cherā zud-tar na-gofti?»", "en": "In the morning Ms Nuri, the owner of the guesthouse, a kind and talkative woman, saw his pale face and said: \"My boy, you're ill! Why didn't you say so sooner?\""},
-    {"fa": "او برای تام سوپ جو درست کرد و گفت که اگر تا ظهر بهتر نشود، باید پیش دکتر برود.", "r": "u barā-ye Tām sup-e jow dorost kard o goft ke agar tā zohr behtar na-shavad, bāyad pish-e doktor be-ravad.", "en": "She made Tom barley soup and said that if he was not better by noon, he must go to the doctor."},
-    {"fa": "ظهر تب تام بیشتر شده بود، پس خانم نوری از پسرش خواست که تام را به داروخانه‌ی سر خیابان ببرد.", "r": "zohr tab-e Tām bish-tar shode bud, pas khānom-e Nuri az pesar-ash khāst ke Tām rā be dārukhāne-ye sar-e khiyābān be-barad.", "en": "By noon Tom's fever had gone up, so Ms Nuri asked her son to take him to the pharmacy at the end of the street."}
+    {
+     "fa": "صبح، خانم نوری، صاحب مهمان‌پذیر، که زنی مهربان و پرحرف بود، رنگ پریده‌ی او را دید و گفت: «پسرم، تو مریضی! چرا زودتر نگفتی؟»",
+     "r": "sobh, khānom-e Nuri, sāheb-e mehmān-pazir, ke zan-i mehrabān o por-harf bud, rang-e paride-ye u rā did o goft: «pesar-am, to mariz-i! cherā zud-tar na-gofti?»",
+     "en": "In the morning Ms Nuri, the owner of the guesthouse, a kind and talkative woman, saw his pale face and said: \"My boy, you're ill! Why didn't you say so sooner?\"",
+     "faV": "صُبح، خانُمِ نوری، صاحِبِ مِهمان‌پَذیر، که زَنی مِهرَبان و پُرحَرف بود، رَنگِ پَریده‌یِ او را دید و گُفت: «پِسَرَم، تو مَریضی! چِرا زودتَر نَگُفتی؟»",
+     "a": "a2ab0cf64897"
+    },
+    {
+     "fa": "او برای تام سوپ جو درست کرد و گفت که اگر تا ظهر بهتر نشود، باید پیش دکتر برود.",
+     "r": "u barā-ye Tām sup-e jow dorost kard o goft ke agar tā zohr behtar na-shavad, bāyad pish-e doktor be-ravad.",
+     "en": "She made Tom barley soup and said that if he was not better by noon, he must go to the doctor.",
+     "faV": "او بَرایِ تام سوپِ جَو دُرُست کَرد و گُفت که اَگَر تا ظُهر بِهتَر نَشَوَد، بایَد پیشِ دُکتُر بِرَوَد.",
+     "a": "d7cddb1e005c"
+    },
+    {
+     "fa": "ظهر تب تام بیشتر شده بود، پس خانم نوری از پسرش خواست که تام را به داروخانه‌ی سر خیابان ببرد.",
+     "r": "zohr tab-e Tām bish-tar shode bud, pas khānom-e Nuri az pesar-ash khāst ke Tām rā be dārukhāne-ye sar-e khiyābān be-barad.",
+     "en": "By noon Tom's fever had gone up, so Ms Nuri asked her son to take him to the pharmacy at the end of the street.",
+     "faV": "ظُهر تَبِ تام بیشتَر شُده بود، پَس خانُمِ نوری اَز پِسَرَش خواست که تام را به داروخانه‌یِ سَرِ خیابان بِبَرَد.",
+     "a": "d308a146d551"
+    }
    ]
   },
   {
    "sentences": [
-    {"fa": "داروساز جوان دمای بدن تام را گرفت و چند سؤال پرسید.", "r": "dārusāz-e javān damā-ye badan-e Tām rā gereft o chand so'āl porsid.", "en": "The young pharmacist took Tom's temperature and asked a few questions."},
-    {"fa": "وقتی شنید که تام دیروز در بازار کباب و دوغ و فالوده خورده است، لبخند زد و گفت: «احتمالاً مسمومیت غذایی است.»", "r": "vaghti shenid ke Tām diruz dar bāzār kabāb o dugh o fālude khorde ast, labkhand zad o goft: «ehtemālan masmumiyat-e ghazāyi ast.»", "en": "When he heard that Tom had eaten kebab, doogh and faloodeh in the bazaar the day before, he smiled and said: \"It's probably food poisoning.\""},
-    {"fa": "او گفت: «برای این تب باید دکتر شما را معاینه کند؛ این قرص‌ها را فعلاً بخورید و یک ساعت دیگر به درمانگاه بروید.»", "r": "u goft: «barā-ye in tab bāyad doktor shomā rā mo'āyene konad; in ghors-hā rā fe'lan be-khorid o yek sā'at-e digar be darmāngāh be-ravid.»", "en": "He said: \"With this fever a doctor should examine you; take these tablets for now, and in an hour go to the clinic.\""}
+    {
+     "fa": "داروساز جوان دمای بدن تام را گرفت و چند سؤال پرسید.",
+     "r": "dārusāz-e javān damā-ye badan-e Tām rā gereft o chand so'āl porsid.",
+     "en": "The young pharmacist took Tom's temperature and asked a few questions.",
+     "faV": "داروسازِ جَوان دَمایِ بَدَنِ تام را گِرِفت و چَند سُؤال پُرسید.",
+     "a": "56b7c520ad2c"
+    },
+    {
+     "fa": "وقتی شنید که تام دیروز در بازار کباب و دوغ و فالوده خورده است، لبخند زد و گفت: «احتمالاً مسمومیت غذایی است.»",
+     "r": "vaghti shenid ke Tām diruz dar bāzār kabāb o dugh o fālude khorde ast, labkhand zad o goft: «ehtemālan masmumiyat-e ghazāyi ast.»",
+     "en": "When he heard that Tom had eaten kebab, doogh and faloodeh in the bazaar the day before, he smiled and said: \"It's probably food poisoning.\"",
+     "faV": "وَقتی شِنید که تام دیروز دَر بازار کَباب و دوغ و فالوده خورده اَست، لَبخَند زَد و گُفت: «اِحتِمالاً مَسمومیَتِ غَذایی اَست.»",
+     "a": "027c183541ac"
+    },
+    {
+     "fa": "او گفت: «برای این تب باید دکتر شما را معاینه کند؛ این قرص‌ها را فعلاً بخورید و یک ساعت دیگر به درمانگاه بروید.»",
+     "r": "u goft: «barā-ye in tab bāyad doktor shomā rā mo'āyene konad; in ghors-hā rā fe'lan be-khorid o yek sā'at-e digar be darmāngāh be-ravid.»",
+     "en": "He said: \"With this fever a doctor should examine you; take these tablets for now, and in an hour go to the clinic.\"",
+     "faV": "او گُفت: «بَرایِ این تَب بایَد دُکتُر شُما را مُعایِنه کُنَد؛ این قُرص‌ها را فِعلاً بِخورید و یِک ساعَتِ دیگَر به دَرمانگاه بِرَوید.»",
+     "a": "1b3dc41fc3a1"
+    }
    ]
   },
   {
    "sentences": [
-    {"fa": "در درمانگاه، سالن انتظار پر از آدم بود و تام نمی‌دانست کجا باید اسمش را بنویسد.", "r": "dar darmāngāh, sālon-e entezār por az ādam bud o Tām nemi-dānest kojā bāyad esm-ash rā be-nevisad.", "en": "At the clinic the waiting room was full of people, and Tom did not know where he should put his name down."},
-    {"fa": "پیرمردی که کنارش نشسته بود، از لهجه‌اش فهمید که خارجی است و او را به پذیرش برد.", "r": "pir-mard-i ke kenār-ash neshaste bud, az lahje-ash fahmid ke khāreji ast o u rā be paziresh bord.", "en": "An old man sitting next to him realised from his accent that he was a foreigner and took him to reception."},
-    {"fa": "دکتر بعد از معاینه گفت که مسمومیت چیز جدی‌ای نیست، اما تام باید سه روز استراحت کند و غذای سبک بخورد.", "r": "doktor ba'd az mo'āyene goft ke masmumiyat chiz-e jeddi-i nist, ammā Tām bāyad se ruz esterāhat konad o ghazā-ye sabk be-khorad.", "en": "After the examination the doctor said that the food poisoning was nothing serious, but Tom must rest for three days and eat light food."},
-    {"fa": "او برایش نسخه‌ای نوشت و گفت: «اگر آب زیاد بنوشید، زود خوب می‌شوید.»", "r": "u barā-yash noskhe-i nevesht o goft: «agar āb-e ziyād be-nushid, zud khub mi-shavid.»", "en": "She wrote him a prescription and said: \"If you drink plenty of water, you'll soon be well.\""}
+    {
+     "fa": "در درمانگاه، سالن انتظار پر از آدم بود و تام نمی‌دانست کجا باید اسمش را بنویسد.",
+     "r": "dar darmāngāh, sālon-e entezār por az ādam bud o Tām nemi-dānest kojā bāyad esm-ash rā be-nevisad.",
+     "en": "At the clinic the waiting room was full of people, and Tom did not know where he should put his name down.",
+     "faV": "دَر دَرمانگاه، سالُنِ اِنتِظار پُر اَز آدَم بود و تام نِمی‌دانِست کُجا بایَد اِسمَش را بِنِویسَد.",
+     "a": "dcc46e1732e3"
+    },
+    {
+     "fa": "پیرمردی که کنارش نشسته بود، از لهجه‌اش فهمید که خارجی است و او را به پذیرش برد.",
+     "r": "pir-mard-i ke kenār-ash neshaste bud, az lahje-ash fahmid ke khāreji ast o u rā be paziresh bord.",
+     "en": "An old man sitting next to him realised from his accent that he was a foreigner and took him to reception.",
+     "faV": "پیرمَردی که کِنارَش نِشَسته بود، اَز لَهجه‌اَش فَهمید که خارِجی اَست و او را به پَذیرِش بُرد.",
+     "a": "01ed24e6a370"
+    },
+    {
+     "fa": "دکتر بعد از معاینه گفت که مسمومیت چیز جدی‌ای نیست، اما تام باید سه روز استراحت کند و غذای سبک بخورد.",
+     "r": "doktor ba'd az mo'āyene goft ke masmumiyat chiz-e jeddi-i nist, ammā Tām bāyad se ruz esterāhat konad o ghazā-ye sabk be-khorad.",
+     "en": "After the examination the doctor said that the food poisoning was nothing serious, but Tom must rest for three days and eat light food.",
+     "faV": "دُکتُر بَعد اَز مُعایِنه گُفت که مَسمومیَت چیزِ جِدّی‌ای نیست، اَمّا تام بایَد سه روز اِستِراحَت کُنَد و غَذایِ سَبک بِخورَد.",
+     "a": "a99837831f23"
+    },
+    {
+     "fa": "او برایش نسخه‌ای نوشت و گفت: «اگر آب زیاد بنوشید، زود خوب می‌شوید.»",
+     "r": "u barā-yash noskhe-i nevesht o goft: «agar āb-e ziyād be-nushid, zud khub mi-shavid.»",
+     "en": "She wrote him a prescription and said: \"If you drink plenty of water, you'll soon be well.\"",
+     "faV": "او بَرایَش نُسخه‌ای نِوِشت و گُفت: «اَگَر آبِ زیاد بِنوشید، زود خوب می‌شَوید.»",
+     "a": "b6bb0618c826"
+    }
    ]
   },
   {
    "sentences": [
-    {"fa": "وقتی تام خواست پول داروها را بپردازد، دید که پیرمرد پول را قبلاً داده است.", "r": "vaghti Tām khāst pul-e dāru-hā rā be-pardāzad, did ke pir-mard pul rā ghablan dāde ast.", "en": "When Tom went to pay for the medicines, he found that the old man had already paid."},
-    {"fa": "تام با تعجب گفت: «آقا، این درست نیست، من باید پول شما را پس بدهم.»", "r": "Tām bā ta'ajjob goft: «āghā, in dorost nist, man bāyad pul-e shomā rā pas be-daham.»", "en": "Tom said in surprise: \"Sir, this isn't right, I must pay you back.\""},
-    {"fa": "پیرمرد دستش را روی سینه گذاشت و گفت: «قابلی ندارد، پسرم؛ تو مهمان شیراز هستی.»", "r": "pir-mard dast-ash rā ru-ye sine gozāsht o goft: «ghābel-i na-dārad, pesar-am; to mehmān-e Shirāz hasti.»", "en": "The old man put his hand on his chest and said: \"It's nothing, my son; you are a guest of Shiraz.\""},
-    {"fa": "سه روز بعد، تام که حالش کاملاً خوب شده بود، با یک جعبه شیرینی پیش خانم نوری رفت تا از او و پسرش تشکر کند.", "r": "se ruz ba'd, Tām ke hāl-ash kāmelan khub shode bud, bā yek ja'be shirini pish-e khānom-e Nuri raft tā az u o pesar-ash tashakkor konad.", "en": "Three days later Tom, now completely well, went to Ms Nuri with a box of pastries to thank her and her son."},
-    {"fa": "او در دفترچه‌اش نوشت: «در شیراز مریض شدم، اما بیشتر از دارو، مهربانی مردم مرا خوب کرد.»", "r": "u dar daftarche-ash nevesht: «dar Shirāz mariz shodam, ammā bish-tar az dāru, mehrabāni-ye mardom ma-rā khub kard.»", "en": "He wrote in his notebook: \"I fell ill in Shiraz, but more than the medicine, it was people's kindness that made me well.\""}
+    {
+     "fa": "وقتی تام خواست پول داروها را بپردازد، دید که پیرمرد پول را قبلاً داده است.",
+     "r": "vaghti Tām khāst pul-e dāru-hā rā be-pardāzad, did ke pir-mard pul rā ghablan dāde ast.",
+     "en": "When Tom went to pay for the medicines, he found that the old man had already paid.",
+     "faV": "وَقتی تام خواست پولِ داروها را بِپَردازَد، دید که پیرمَرد پول را قَبلاً داده اَست.",
+     "a": "73450b850c29"
+    },
+    {
+     "fa": "تام با تعجب گفت: «آقا، این درست نیست، من باید پول شما را پس بدهم.»",
+     "r": "Tām bā ta'ajjob goft: «āghā, in dorost nist, man bāyad pul-e shomā rā pas be-daham.»",
+     "en": "Tom said in surprise: \"Sir, this isn't right, I must pay you back.\"",
+     "faV": "تام با تَعَجُّب گُفت: «آقا، این دُرُست نیست، مَن بایَد پولِ شُما را پَس بِدَهَم.»",
+     "a": "fbf3512fe3ac"
+    },
+    {
+     "fa": "پیرمرد دستش را روی سینه گذاشت و گفت: «قابلی ندارد، پسرم؛ تو مهمان شیراز هستی.»",
+     "r": "pir-mard dast-ash rā ru-ye sine gozāsht o goft: «ghābel-i na-dārad, pesar-am; to mehmān-e Shirāz hasti.»",
+     "en": "The old man put his hand on his chest and said: \"It's nothing, my son; you are a guest of Shiraz.\"",
+     "faV": "پیرمَرد دَستَش را رویِ سینه گُذاشت و گُفت: «قابِلی نَدارَد، پِسَرَم؛ تو مِهمانِ شیراز هَستی.»",
+     "a": "0852bfb38290"
+    },
+    {
+     "fa": "سه روز بعد، تام که حالش کاملاً خوب شده بود، با یک جعبه شیرینی پیش خانم نوری رفت تا از او و پسرش تشکر کند.",
+     "r": "se ruz ba'd, Tām ke hāl-ash kāmelan khub shode bud, bā yek ja'be shirini pish-e khānom-e Nuri raft tā az u o pesar-ash tashakkor konad.",
+     "en": "Three days later Tom, now completely well, went to Ms Nuri with a box of pastries to thank her and her son.",
+     "faV": "سه روز بَعد، تام که حالَش کامِلاً خوب شُده بود، با یِک جَعبه شیرینی پیشِ خانُمِ نوری رَفت تا اَز او و پِسَرَش تَشَکُّر کُنَد.",
+     "a": "01ca41a4ce38"
+    },
+    {
+     "fa": "او در دفترچه‌اش نوشت: «در شیراز مریض شدم، اما بیشتر از دارو، مهربانی مردم مرا خوب کرد.»",
+     "r": "u dar daftarche-ash nevesht: «dar Shirāz mariz shodam, ammā bish-tar az dāru, mehrabāni-ye mardom ma-rā khub kard.»",
+     "en": "He wrote in his notebook: \"I fell ill in Shiraz, but more than the medicine, it was people's kindness that made me well.\"",
+     "faV": "او دَر دَفتَرچه‌اَش نِوِشت: «دَر شیراز مَریض شُدَم، اَمّا بیشتَر اَز دارو، مِهرَبانیِ مَردُم مَرا خوب کَرد.»",
+     "a": "1da9e0d2560c"
+    }
    ]
   }
  ],
  "vocab": [
-  {"fa": "تب کردن", "r": "tab kardan", "en": "to run a fever"},
-  {"fa": "درد کردن", "r": "dard kardan", "en": "to ache, hurt"},
-  {"fa": "مهمان‌پذیر", "r": "mehmān-pazir", "en": "guesthouse"},
-  {"fa": "مریض", "r": "mariz", "en": "ill, sick"},
-  {"fa": "داروخانه", "r": "dārukhāne", "en": "pharmacy"},
-  {"fa": "داروساز", "r": "dārusāz", "en": "pharmacist"},
-  {"fa": "مسمومیت غذایی", "r": "masmumiyat-e ghazāyi", "en": "food poisoning"},
-  {"fa": "معاینه کردن", "r": "mo'āyene kardan", "en": "to examine (a patient)"},
-  {"fa": "قرص", "r": "ghors", "en": "tablet, pill"},
-  {"fa": "درمانگاه", "r": "darmāngāh", "en": "clinic"},
-  {"fa": "سالن انتظار", "r": "sālon-e entezār", "en": "waiting room"},
-  {"fa": "پذیرش", "r": "paziresh", "en": "reception desk"},
-  {"fa": "لهجه", "r": "lahje", "en": "accent"},
-  {"fa": "استراحت کردن", "r": "esterāhat kardan", "en": "to rest"},
-  {"fa": "نسخه", "r": "noskhe", "en": "prescription"},
-  {"fa": "قابلی ندارد", "r": "ghābel-i na-dārad", "en": "it's nothing, you're welcome (polite formula)"}
+  {
+   "fa": "تب کردن",
+   "r": "tab kardan",
+   "en": "to run a fever",
+   "faV": "تَب کَردَن",
+   "a": "59c7ac23b081"
+  },
+  {
+   "fa": "درد کردن",
+   "r": "dard kardan",
+   "en": "to ache, hurt",
+   "faV": "دَرد کَردَن",
+   "a": "f2591f1474a9"
+  },
+  {
+   "fa": "مهمان‌پذیر",
+   "r": "mehmān-pazir",
+   "en": "guesthouse",
+   "faV": "مِهمان‌پَذیر",
+   "a": "771d848b8baa"
+  },
+  {
+   "fa": "مریض",
+   "r": "mariz",
+   "en": "ill, sick",
+   "faV": "مَریض",
+   "a": "935f4176a13e"
+  },
+  {
+   "fa": "داروخانه",
+   "r": "dārukhāne",
+   "en": "pharmacy",
+   "faV": "داروخانه",
+   "a": "1398d4b0f1b6"
+  },
+  {
+   "fa": "داروساز",
+   "r": "dārusāz",
+   "en": "pharmacist",
+   "faV": "داروساز",
+   "a": "4156edf631cc"
+  },
+  {
+   "fa": "مسمومیت غذایی",
+   "r": "masmumiyat-e ghazāyi",
+   "en": "food poisoning",
+   "faV": "مَسمومیَتِ غَذایی",
+   "a": "aef714132d53"
+  },
+  {
+   "fa": "معاینه کردن",
+   "r": "mo'āyene kardan",
+   "en": "to examine (a patient)",
+   "faV": "مُعایِنه کَردَن",
+   "a": "230052bcd25f"
+  },
+  {
+   "fa": "قرص",
+   "r": "ghors",
+   "en": "tablet, pill",
+   "faV": "قُرص",
+   "a": "1eb2098c2211"
+  },
+  {
+   "fa": "درمانگاه",
+   "r": "darmāngāh",
+   "en": "clinic",
+   "faV": "دَرمانگاه",
+   "a": "581719801174"
+  },
+  {
+   "fa": "سالن انتظار",
+   "r": "sālon-e entezār",
+   "en": "waiting room",
+   "faV": "سالُنِ اِنتِظار",
+   "a": "44249206c137"
+  },
+  {
+   "fa": "پذیرش",
+   "r": "paziresh",
+   "en": "reception desk",
+   "faV": "پَذیرِش",
+   "a": "8a1e7c20f986"
+  },
+  {
+   "fa": "لهجه",
+   "r": "lahje",
+   "en": "accent",
+   "faV": "لَهجه",
+   "a": "59b0ecc5828f"
+  },
+  {
+   "fa": "استراحت کردن",
+   "r": "esterāhat kardan",
+   "en": "to rest",
+   "faV": "اِستِراحَت کَردَن",
+   "a": "0ef0fdc250b6"
+  },
+  {
+   "fa": "نسخه",
+   "r": "noskhe",
+   "en": "prescription",
+   "faV": "نُسخه",
+   "a": "be9846965a66"
+  },
+  {
+   "fa": "قابلی ندارد",
+   "r": "ghābel-i na-dārad",
+   "en": "it's nothing, you're welcome (polite formula)",
+   "faV": "قابِلی نَدارَد",
+   "a": "3f9b3960b424"
+  }
  ],
  "questions": [
-  {"q": "Why had Tom gone to Shiraz?", "options": ["to study at the university", "to see the tombs of Hafez and Saadi during Nowruz", "to visit a doctor"], "answer": 1},
-  {"q": "What did Ms Nuri say Tom should do if he was not better by noon?", "options": ["go to the doctor", "drink more tea", "go back to Tehran"], "answer": 0},
-  {"q": "What did the pharmacist think was wrong?", "options": ["a cold", "food poisoning", "a broken bone"], "answer": 1},
-  {"q": "What did the old man in the waiting room do?", "options": ["translated for the doctor", "took Tom to reception and paid for his medicines", "drove him back to the guesthouse"], "answer": 1},
-  {"q": "According to Tom's notebook, what made him well?", "options": ["the barley soup", "the tablets", "people's kindness, more than the medicine"], "answer": 2}
+  {
+   "q": "Why had Tom gone to Shiraz?",
+   "options": [
+    "to study at the university",
+    "to see the tombs of Hafez and Saadi during Nowruz",
+    "to visit a doctor"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What did Ms Nuri say Tom should do if he was not better by noon?",
+   "options": [
+    "go to the doctor",
+    "drink more tea",
+    "go back to Tehran"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the pharmacist think was wrong?",
+   "options": [
+    "a cold",
+    "food poisoning",
+    "a broken bone"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What did the old man in the waiting room do?",
+   "options": [
+    "translated for the doctor",
+    "took Tom to reception and paid for his medicines",
+    "drove him back to the guesthouse"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "According to Tom's notebook, what made him well?",
+   "options": [
+    "the barley soup",
+    "the tablets",
+    "people's kindness, more than the medicine"
+   ],
+   "answer": 2
+  }
  ],
- "after": "قابلی ندارد – literally 'it has no worth (worthy of you)' – is what shopkeepers, taxi drivers and friends say when you try to pay. Very often it is تعارف, ritual politeness, and you are expected to insist and pay; but sometimes, as with the old man here, it is meant. Iranians tell the difference by context, tone and a second or third refusal. In Iran you can ask a pharmacist (دکتر داروساز) for advice before seeing a doctor, and many medicines are sold over the counter. Grammar to notice: reported speech keeps the tense of the original words – گفت که اگر تا ظهر بهتر نشود، باید پیش دکتر برود 'she said that if he is not better by noon, he must go…' – where English shifts to 'was' and 'must'."
+ "after": "قابلی ندارد – literally 'it has no worth (worthy of you)' – is what shopkeepers, taxi drivers and friends say when you try to pay. Very often it is تعارف, ritual politeness, and you are expected to insist and pay; but sometimes, as with the old man here, it is meant. Iranians tell the difference by context, tone and a second or third refusal. In Iran you can ask a pharmacist (دکتر داروساز) for advice before seeing a doctor, and many medicines are sold over the counter. Grammar to notice: reported speech keeps the tense of the original words – گفت که اگر تا ظهر بهتر نشود، باید پیش دکتر برود 'she said that if he is not better by noon, he must go…' – where English shifts to 'was' and 'must'.",
+ "titleV": "تام دَر شیراز به دُکتُر می‌رَوَد",
+ "titleA": "75bf2b20d774"
 }

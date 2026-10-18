@@ -362,10 +362,10 @@ _Obeyd Zakani (died about 1370) lived in Shiraz in the age of Hafez and was the 
 
 **Put the words in order**
 
-1. قرض / ملا / دیگی / همسایه / از / گرفت. — The Mulla borrowed a pot from the neighbour.
-2. دیگ / زایید. / شما — Your pot has had a baby.
-3. و / خوردم / شدم. / سیر / سیر — I ate garlic and got full.
-4. نیست. / موضوع / شوخی‌بردار / این — This is no joking matter.
+1. گرفت. / قرض / دیگی / ملا / از / همسایه — The Mulla borrowed a pot from the neighbour.
+2. شما / دیگ / زایید. — Your pot has had a baby.
+3. سیر / سیر / شدم. / خوردم / و — I ate garlic and got full.
+4. این / شوخی‌بردار / نیست. / موضوع — This is no joking matter.
 
 <details><summary>Answers</summary>
 

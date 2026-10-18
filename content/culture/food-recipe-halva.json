@@ -36,86 +36,222 @@
    "r": "ārd rā alak konid va dar tābe be-rizid.",
    "en": "Sift the flour and put it in the frying pan.",
    "col": "آردو الک کن و تو تابه بریز.",
-   "colR": "ārd-o alak kon o tu tābe be-riz."
+   "colR": "ārd-o alak kon o tu tābe be-riz.",
+   "faV": "آرد را اَلَک کُنید و دَر تابه بِریزید.",
+   "a": "8a02dfb1c954",
+   "colV": "آردو اَلَک کُن و تو تابه بِریز.",
+   "colA": "1c006a1854cf"
   },
   {
    "fa": "آرد را روی حرارت ملایم تفت بدهید تا رنگش عوض شود.",
    "r": "ārd rā ru-ye harārat-e molāyem taft be-dahid tā rang-ash 'avaz shavad.",
-   "en": "Toast the flour on a low heat until its colour changes."
+   "en": "Toast the flour on a low heat until its colour changes.",
+   "faV": "آرد را رویِ حَرارَتِ مُلایِم تَفت بِدَهید تا رَنگَش عَوَض شَوَد.",
+   "a": "69afdb5670ce"
   },
   {
    "fa": "آرد را بی‌وقفه هم بزنید تا نسوزد.",
    "r": "ārd rā bi-vaghfe ham be-zanid tā na-suzad.",
-   "en": "Stir the flour non-stop so it doesn't burn."
+   "en": "Stir the flour non-stop so it doesn't burn.",
+   "faV": "آرد را بی‌وَقفه هَم بِزَنید تا نَسوزَد.",
+   "a": "f508f49403f5"
   },
   {
    "fa": "روغن را اضافه کنید و هم زدن را ادامه بدهید.",
    "r": "rowghan rā ezāfe konid va ham zadan rā edāme be-dahid.",
-   "en": "Add the oil and keep on stirring."
+   "en": "Add the oil and keep on stirring.",
+   "faV": "رَوغَن را اِضافه کُنید و هَم زَدَن را اِدامه بِدَهید.",
+   "a": "52070f5cde26"
   },
   {
    "fa": "شکر و آب را بجوشانید تا شربت درست شود.",
    "r": "shekar o āb rā be-jushānid tā sharbat dorost shavad.",
-   "en": "Boil the sugar and water to make a syrup."
+   "en": "Boil the sugar and water to make a syrup.",
+   "faV": "شِکَر و آب را بِجوشانید تا شَربَت دُرُست شَوَد.",
+   "a": "d34a9700f516"
   },
   {
    "fa": "گلاب و زعفران را به شربت اضافه کنید.",
    "r": "golāb o za'farān rā be sharbat ezāfe konid.",
-   "en": "Add the rose water and saffron to the syrup."
+   "en": "Add the rose water and saffron to the syrup.",
+   "faV": "گُلاب و زَعفَران را به شَربَت اِضافه کُنید.",
+   "a": "c765b888b89c"
   },
   {
    "fa": "شربت را آرام بریزید، چون روغن داغ است.",
    "r": "sharbat rā ārām be-rizid, chon rowghan dāgh ast.",
    "en": "Pour the syrup in slowly, because the oil is hot.",
    "col": "شربتو آروم بریز، چون روغن داغه.",
-   "colR": "sharbat-o ārum be-riz, chon rowghan dāgh-e."
+   "colR": "sharbat-o ārum be-riz, chon rowghan dāgh-e.",
+   "faV": "شَربَت را آرام بِریزید، چون رَوغَن داغ اَست.",
+   "a": "d5f710946b45",
+   "colV": "شَربَتو آروم بِریز، چون رَوغَن داغه.",
+   "colA": "d4c312e4d760"
   },
   {
    "fa": "هم بزنید تا حلوا از تابه جدا شود.",
    "r": "ham be-zanid tā halvā az tābe jodā shavad.",
-   "en": "Stir until the halva comes away from the pan."
+   "en": "Stir until the halva comes away from the pan.",
+   "faV": "هَم بِزَنید تا حَلوا اَز تابه جُدا شَوَد.",
+   "a": "a8d40b511d11"
   },
   {
    "fa": "حلوا را در بشقاب پهن کنید و با قاشق نقش بیندازید.",
    "r": "halvā rā dar boshghāb pahn konid va bā ghāshogh naghsh bi-yandāzid.",
-   "en": "Spread the halva on a plate and make patterns with a spoon."
+   "en": "Spread the halva on a plate and make patterns with a spoon.",
+   "faV": "حَلوا را دَر بُشقاب پَهن کُنید و با قاشُق نَقش بیَندازید.",
+   "a": "e97f41971078"
   },
   {
    "fa": "روی حلوا پسته و بادام بریزید.",
    "r": "ru-ye halvā peste va bādām be-rizid.",
-   "en": "Scatter pistachios and almonds over the halva."
+   "en": "Scatter pistachios and almonds over the halva.",
+   "faV": "رویِ حَلوا پِسته و بادام بِریزید.",
+   "a": "1b79ccd5eaa4"
   },
   {
    "fa": "شب‌های جمعه برای شادی روح درگذشتگان حلوا پخش می‌کنند.",
    "r": "shab-hā-ye jom'e barā-ye shādi-ye ruh-e dargozashtegān halvā pakhsh mi-konand.",
    "en": "On Thursday nights people hand out halva in memory of the dead.",
-   "lit": "for the joy of the soul of the departed"
+   "lit": "for the joy of the soul of the departed",
+   "faV": "شَب‌هایِ جُمعه بَرایِ شادیِ روحِ دَرگُذَشتِگان حَلوا پَخش می‌کُنَند.",
+   "a": "72d27a352abc"
   },
   {
    "fa": "حلوا را با چای سرو کنید.",
    "r": "halvā rā bā chāy serv konid.",
-   "en": "Serve the halva with tea."
+   "en": "Serve the halva with tea.",
+   "faV": "حَلوا را با چای سِرو کُنید.",
+   "a": "fc5db95a66a0"
   }
  ],
  "vocab": [
-  {"fa": "حلوا", "r": "halvā", "en": "halva"},
-  {"fa": "آرد", "r": "ārd", "en": "flour"},
-  {"fa": "شربت", "r": "sharbat", "en": "syrup; sweet cold drink"},
-  {"fa": "گلاب", "r": "golāb", "en": "rose water"},
-  {"fa": "زعفران", "r": "za'farān", "en": "saffron"},
-  {"fa": "هل", "r": "hel", "en": "cardamom"},
-  {"fa": "کره", "r": "kare", "en": "butter"},
-  {"fa": "روغن", "r": "rowghan", "en": "oil"},
-  {"fa": "الک کردن", "r": "alak kardan", "en": "to sift"},
-  {"fa": "تفت دادن", "r": "taft dādan", "en": "to toast, to sauté"},
-  {"fa": "ادامه دادن", "r": "edāme dādan", "en": "to continue"},
-  {"fa": "پهن کردن", "r": "pahn kardan", "en": "to spread out"},
-  {"fa": "عوض شدن", "r": "'avaz shodan", "en": "to change"},
-  {"fa": "رنگ", "r": "rang", "en": "colour"},
-  {"fa": "بی‌وقفه", "r": "bi-vaghfe", "en": "non-stop, without a break"},
-  {"fa": "درگذشته", "r": "dargozashte", "en": "deceased, the departed"},
-  {"fa": "شب جمعه", "r": "shab-e jom'e", "en": "Thursday night, the eve of Friday"},
-  {"fa": "ختم", "r": "khatm", "en": "memorial service"}
+  {
+   "fa": "حلوا",
+   "r": "halvā",
+   "en": "halva",
+   "faV": "حَلوا",
+   "a": "8d253718630c"
+  },
+  {
+   "fa": "آرد",
+   "r": "ārd",
+   "en": "flour",
+   "faV": "آرد",
+   "a": "5ae6f5e92d53"
+  },
+  {
+   "fa": "شربت",
+   "r": "sharbat",
+   "en": "syrup; sweet cold drink",
+   "faV": "شَربَت",
+   "a": "2b66be29b9b1"
+  },
+  {
+   "fa": "گلاب",
+   "r": "golāb",
+   "en": "rose water",
+   "faV": "گُلاب",
+   "a": "c652abb92180"
+  },
+  {
+   "fa": "زعفران",
+   "r": "za'farān",
+   "en": "saffron",
+   "faV": "زَعفَران",
+   "a": "13452bbd3f73"
+  },
+  {
+   "fa": "هل",
+   "r": "hel",
+   "en": "cardamom",
+   "faV": "هِل",
+   "a": "227cb77701e2"
+  },
+  {
+   "fa": "کره",
+   "r": "kare",
+   "en": "butter",
+   "faV": "کَره",
+   "a": "fc0bcf42c5c1"
+  },
+  {
+   "fa": "روغن",
+   "r": "rowghan",
+   "en": "oil",
+   "faV": "رَوغَن",
+   "a": "534a3beadddd"
+  },
+  {
+   "fa": "الک کردن",
+   "r": "alak kardan",
+   "en": "to sift",
+   "faV": "اَلَک کَردَن",
+   "a": "fe6c632e9453"
+  },
+  {
+   "fa": "تفت دادن",
+   "r": "taft dādan",
+   "en": "to toast, to sauté",
+   "faV": "تَفت دادَن",
+   "a": "82808f7015c3"
+  },
+  {
+   "fa": "ادامه دادن",
+   "r": "edāme dādan",
+   "en": "to continue",
+   "faV": "اِدامه دادَن",
+   "a": "0e2c742ad396"
+  },
+  {
+   "fa": "پهن کردن",
+   "r": "pahn kardan",
+   "en": "to spread out",
+   "faV": "پَهن کَردَن",
+   "a": "ccdb57849ed6"
+  },
+  {
+   "fa": "عوض شدن",
+   "r": "'avaz shodan",
+   "en": "to change",
+   "faV": "عَوَض شُدَن",
+   "a": "91df95714ee5"
+  },
+  {
+   "fa": "رنگ",
+   "r": "rang",
+   "en": "colour",
+   "faV": "رَنگ",
+   "a": "50f623d1b5dd"
+  },
+  {
+   "fa": "بی‌وقفه",
+   "r": "bi-vaghfe",
+   "en": "non-stop, without a break",
+   "faV": "بی‌وَقفه",
+   "a": "aa4a352c9e1c"
+  },
+  {
+   "fa": "درگذشته",
+   "r": "dargozashte",
+   "en": "deceased, the departed",
+   "faV": "دَرگُذَشته",
+   "a": "170f02b5a6b7"
+  },
+  {
+   "fa": "شب جمعه",
+   "r": "shab-e jom'e",
+   "en": "Thursday night, the eve of Friday",
+   "faV": "شَبِ جُمعه",
+   "a": "7350c0388841"
+  },
+  {
+   "fa": "ختم",
+   "r": "khatm",
+   "en": "memorial service",
+   "faV": "خَتم",
+   "a": "3381dbef3444"
+  }
  ],
  "facts": [
   "Persian halva is made from flour toasted in fat and sweetened with saffron and rose-water syrup; sesame halva is a different sweet, called halva-ye arde.",
@@ -123,5 +259,7 @@
   "On Thursday nights, the eve of Friday, many families visit graves and hand out halva in memory of the dead.",
   "The longer the flour is toasted, the darker the halva and the deeper its flavour.",
   "Halva also appears on many tables in Ramadan."
- ]
+ ],
+ "titleV": "حَلوا",
+ "titleA": "8d253718630c"
 }

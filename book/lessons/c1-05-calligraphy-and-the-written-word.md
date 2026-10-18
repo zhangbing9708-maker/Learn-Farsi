@@ -344,10 +344,10 @@ All three wrote with the same tool: the **reed pen** (قلم نی (*ghalam-e ney
 
 **Put the words in order**
 
-1. می‌نویسد. / با / قلم / خوشنویس / نی — The calligrapher writes with a reed pen.
-2. کاسه / است. / با / شده / این / تزئین / خط / کوفی — This bowl is decorated with Kufic script.
-3. می‌نویسند. / دیوان / نستعلیق / را / خط / به / حافظ — The Divan of Hafez is written in Nasta'liq.
-4. راست / می‌شود. / کتیبه / سمت / شروع / از — The inscription starts on the right.
+1. قلم / با / نی / می‌نویسد. / خوشنویس — The calligrapher writes with a reed pen.
+2. این / تزئین / با / است. / کاسه / کوفی / خط / شده — This bowl is decorated with Kufic script.
+3. را / حافظ / به / دیوان / خط / نستعلیق / می‌نویسند. — The Divan of Hafez is written in Nasta'liq.
+4. کتیبه / شروع / راست / از / می‌شود. / سمت — The inscription starts on the right.
 
 <details><summary>Answers</summary>
 

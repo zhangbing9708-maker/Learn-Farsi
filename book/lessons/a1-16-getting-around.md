@@ -30,12 +30,12 @@ _Tom stops a taxi in Tehran to go to Tajrish bazaar in the north of the city._
   *sad o panjāh tumān.* — A hundred and fifty (thousand) toman.
 - **Tom:** خیلی گران است! صد تومان خوب است؟  
   *kheyli gerān ast! sad tumān khub ast?* — That's very expensive! Is a hundred okay?  
-  Spoken: خیلی گرونه! صد تومن خوبه؟ *kheyli gerune! sad tomen khube?*
+  Spoken: خیلی گرونه! صد تومن خوبه؟ *kheyli gerune! sad toman khube?*
 - **Driver:** باشد، صد و بیست. ترافیک زیاد است.  
   *bāshad, sad o bist. terāfik ziyād ast.* — Fine, a hundred and twenty. There's a lot of traffic.  
   Spoken: باشه، صد و بیست. ترافیک زیاده. *bāshe, sad o bist. terāfik ziyāde.*
 - **Tom:** باشد. از خیابان ولیعصر بروید، لطفاً.  
-  *bāshad. az khiyābān-e Valiasr beravid, lotfan.* — Okay. Go along Valiasr Street, please.
+  *bāshad. az khiyābān-e Vali'asr beravid, lotfan.* — Okay. Go along Valiasr Street, please.
 - **Driver:** چشم. شما ایرانی نیستید؟ فارسی خوب صحبت می‌کنید!  
   *chashm. shomā irāni nistid? fārsi khub sohbat mi-konid!* — Certainly. You're not Iranian? You speak Persian well!
 - **Tom:** نه، استرالیایی هستم. ممنون! این‌جا نگه دارید، لطفاً.  
@@ -169,7 +169,7 @@ _Tom wants to visit the National Museum. Read how he gets there._
 
 Tehran's traffic is a national joke and a daily reality: a trip that takes twenty minutes at night can take two hours at six in the evening. That is why the metro, opened in 1999, is loved – and why the تاکسی خطی (*tāksi-ye khatti*, ‘shared taxi’) survives. On the main avenues a stream of orange and yellow cars crawls along the kerb while would-be passengers shout destinations: *Vanak! Tajrish! Enghelāb!* Four strangers share the back seat and the front, pay a few thousand tomans each, and nobody speaks unless the driver has an opinion about the traffic, which he always does.
 
-The road that matters most is خیابان ولیعصر (*khiyābān-e Valiasr*), which runs almost 18 km from the railway station in the south to Tajrish in the north under a canopy of plane trees – the longest street in the Middle East. Going *up* (بالا) means north and richer; going *down* (پایین) means south and older. Tehranis give directions in those terms, so learn them: بالاتر (*bālātar*, ‘further up’), پایین‌تر (*pāyin-tar*, ‘further down’).
+The road that matters most is خیابان ولیعصر (*khiyābān-e Vali'asr*), which runs almost 18 km from the railway station in the south to Tajrish in the north under a canopy of plane trees – the longest street in the Middle East. Going *up* (بالا) means north and richer; going *down* (پایین) means south and older. Tehranis give directions in those terms, so learn them: بالاتر (*bālātar*, ‘further up’), پایین‌تر (*pāyin-tar*, ‘further down’).
 
 ![Traffic on Valiasr Street, Tehran](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Valiasr_Traffic_Jam.jpg/960px-Valiasr_Traffic_Jam.jpg)
 <sub>Traffic on Valiasr Street, Tehran. Photo: [Hamed Saber](https://commons.wikimedia.org/wiki/File:Valiasr_Traffic_Jam.jpg), CC BY 2.0.</sub>
@@ -251,10 +251,10 @@ The road that matters most is خیابان ولیعصر (*khiyābān-e Valiasr*)
 
 **Put the words in order**
 
-1. این‌جا / لطفاً / دارید. / نگه — Please stop here.
-2. چهارراه / سر / بپیچید / به / چپ. — At the crossroads turn left.
-3. با / بازار / من / می‌روم. / مترو / به — I go to the bazaar by metro.
-4. ایستگاه / مترو / دور / است؟ — Is the metro station far?
+1. دارید. / نگه / لطفاً / این‌جا — Please stop here.
+2. چهارراه / بپیچید / به / چپ. / سر — At the crossroads turn left.
+3. بازار / با / به / می‌روم. / من / مترو — I go to the bazaar by metro.
+4. است؟ / ایستگاه / مترو / دور — Is the metro station far?
 
 <details><summary>Answers</summary>
 
@@ -295,7 +295,7 @@ The road that matters most is خیابان ولیعصر (*khiyābān-e Valiasr*)
 1. ببخشید، ایستگاه اتوبوس کجاست؟ — *bebakhshid, istgāh-e otobus kojāst?*
 2. مستقیم بروید، لطفاً. — *mostaghim beravid, lotfan.*
 3. این‌جا نگه دارید، لطفاً. چقدر می‌شود؟ — *in-jā negah dārid, lotfan. cheghadr mi-shavad?*
-4. از خیابان ولیعصر نروید، ترافیک است. — *az khiyābān-e Valiasr na-ravid, terāfik ast.*
+4. از خیابان ولیعصر نروید، ترافیک است. — *az khiyābān-e Vali'asr na-ravid, terāfik ast.*
 
 </details>
 

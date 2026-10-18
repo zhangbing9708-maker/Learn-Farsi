@@ -224,6 +224,7 @@ Graded readers, from very easy to literary.
 - [Reza Shah and modernisation](culture/history-reza-shah-and-modernisation.md) — رضاشاه و نوسازی ایران
 - [Iran since 1979](culture/history-iran-since-1979.md) — ایران پس از انقلاب
 - [The Iran–Iraq War](culture/history-the-iran-iraq-war.md) — جنگ ایران و عراق
+- [The Armenians, Jews and Zoroastrians of Iran](culture/history-the-armenians-jews-and-zoroastrians-of-iran.md) — ارمنیان، یهودیان و زرتشتیان ایران
 - [The Persian language through history](culture/history-the-persian-language.md) — زبان فارسی در گذر تاریخ
 
 **Places**

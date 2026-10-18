@@ -40,8 +40,8 @@ _Mahsa and her friend Leila are in a clothes shop on Valiasr Street in Tehran. M
   Spoken: خوبه! سرمه‌ای هم دوست دارم. *khube! sorme-i ham dust dāram.*
 - **Leila:** این روسری فیروزه‌ای با مانتوی سرمه‌ای خیلی قشنگ است.  
   *in rusari-ye firuze-i bā mānto-ye sorme-i kheyli ghashang ast.* — This turquoise scarf looks really pretty with the navy manteau.
-- **Mahsa:** آره، قشنگ است. روسری چند است؟  
-  *āre, ghashang ast. rusari chand ast?* — Yes, it's pretty. How much is the scarf?
+- **Mahsa:** بله، قشنگ است. روسری چند است؟  
+  *bale, ghashang ast. rusari chand ast?* — Yes, it's pretty. How much is the scarf?
 - **Seller:** روسری چهارصد هزار تومان، مانتو دو میلیون.  
   *rusari chahārsad hezār tumān, mānto do milyun.* — The scarf is four hundred thousand tomans, the manteau two million.
 - **Mahsa:** هر دو را می‌خرم. ممنون!  
@@ -290,10 +290,10 @@ Clothes in Iran are as varied as the country. Since 1979 women have been expecte
 
 **Put the words in order**
 
-1. من / یک / کلاه / دارم. / قرمز — I have a red hat.
-2. خیلی / سرمه‌ای / است. / قشنگ / مانتوی / این — This navy manteau is very pretty.
-3. است. / مشکی / پدرم / کت — My father's jacket is black.
-4. هم / دارید؟ / کوتاه‌تر — Do you have a shorter one too?
+1. قرمز / کلاه / دارم. / یک / من — I have a red hat.
+2. این / است. / خیلی / قشنگ / سرمه‌ای / مانتوی — This navy manteau is very pretty.
+3. است. / پدرم / کت / مشکی — My father's jacket is black.
+4. کوتاه‌تر / هم / دارید؟ — Do you have a shorter one too?
 
 <details><summary>Answers</summary>
 

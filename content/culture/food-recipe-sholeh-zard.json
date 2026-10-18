@@ -34,87 +34,223 @@
   {
    "fa": "برنج را از شب قبل خیس کنید.",
    "r": "berenj rā az shab-e ghabl khis konid.",
-   "en": "Soak the rice the night before."
+   "en": "Soak the rice the night before.",
+   "faV": "بِرِنج را اَز شَبِ قَبل خیس کُنید.",
+   "a": "9285a87c2c85"
   },
   {
    "fa": "برنج را با آب زیاد بجوشانید.",
    "r": "berenj rā bā āb-e ziyād be-jushānid.",
-   "en": "Boil the rice in plenty of water."
+   "en": "Boil the rice in plenty of water.",
+   "faV": "بِرِنج را با آبِ زیاد بِجوشانید.",
+   "a": "7930fa62b3eb"
   },
   {
    "fa": "کف روی آب را با کفگیر بگیرید.",
    "r": "kaf-e ru-ye āb rā bā kafgir be-girid.",
-   "en": "Skim the foam off the top with a skimmer."
+   "en": "Skim the foam off the top with a skimmer.",
+   "faV": "کَفِ رویِ آب را با کَفگیر بِگیرید.",
+   "a": "5ce5786cef01"
   },
   {
    "fa": "بگذارید برنج آن‌قدر بپزد تا خوب له شود.",
    "r": "be-gozārid berenj ān-ghadr be-pazad tā khub leh shavad.",
    "en": "Let the rice cook until it is really soft.",
    "col": "بذار برنج اون‌قدر بپزه تا خوب له بشه.",
-   "colR": "be-zār berenj un-ghadr be-paze tā khub leh be-she."
+   "colR": "be-zār berenj un-ghadr be-paze tā khub leh be-she.",
+   "faV": "بِگُذارید بِرِنج آن‌قَدر بِپَزَد تا خوب لِه شَوَد.",
+   "a": "203d293e2421",
+   "colV": "بِذار بِرِنج اون‌قَدر بِپَزه تا خوب لِه بِشه.",
+   "colA": "9effa3599046"
   },
   {
    "fa": "شکر را اضافه کنید و هم بزنید تا حل شود.",
    "r": "shekar rā ezāfe konid va ham be-zanid tā hal shavad.",
-   "en": "Add the sugar and stir until it dissolves."
+   "en": "Add the sugar and stir until it dissolves.",
+   "faV": "شِکَر را اِضافه کُنید و هَم بِزَنید تا حَل شَوَد.",
+   "a": "32484937a81d"
   },
   {
    "fa": "شله‌زرد را مدام هم بزنید تا ته نگیرد.",
    "r": "shole-zard rā modām ham be-zanid tā tah na-girad.",
-   "en": "Keep stirring the sholeh zard so that it doesn't catch."
+   "en": "Keep stirring the sholeh zard so that it doesn't catch.",
+   "faV": "شُله‌زَرد را مُدام هَم بِزَنید تا تَه نَگیرَد.",
+   "a": "0f3062997125"
   },
   {
    "fa": "زعفران دم‌کرده و کره را بریزید.",
    "r": "za'farān-e dam-karde va kare rā be-rizid.",
-   "en": "Add the brewed saffron and the butter."
+   "en": "Add the brewed saffron and the butter.",
+   "faV": "زَعفَرانِ دَم‌کَرده و کَره را بِریزید.",
+   "a": "ce242a677afd"
   },
   {
    "fa": "گلاب را آخر کار اضافه کنید تا بویش نپرد.",
    "r": "golāb rā ākhar-e kār ezāfe konid tā bu-yash na-parad.",
-   "en": "Add the rose water at the end so that its scent doesn't fade."
+   "en": "Add the rose water at the end so that its scent doesn't fade.",
+   "faV": "گُلاب را آخَرِ کار اِضافه کُنید تا بویَش نَپَرَد.",
+   "a": "1bd71341b375"
   },
   {
    "fa": "شله‌زرد را در کاسه‌ها بریزید و بگذارید سرد شود.",
    "r": "shole-zard rā dar kāse-hā be-rizid va be-gozārid sard shavad.",
    "en": "Pour the sholeh zard into bowls and let it cool.",
    "col": "شله‌زردو تو کاسه‌ها بریز و بذار سرد بشه.",
-   "colR": "shole-zard-o tu kāse-hā be-riz o be-zār sard be-she."
+   "colR": "shole-zard-o tu kāse-hā be-riz o be-zār sard be-she.",
+   "faV": "شُله‌زَرد را دَر کاسه‌ها بِریزید و بِگُذارید سَرد شَوَد.",
+   "a": "8f7122860dc9",
+   "colV": "شُله‌زَردو تو کاسه‌ها بِریز و بِذار سَرد بِشه.",
+   "colA": "7169f90c6d93"
   },
   {
    "fa": "روی شله‌زرد با دارچین نقش بیندازید.",
    "r": "ru-ye shole-zard bā dārchin naghsh bi-yandāzid.",
-   "en": "Draw patterns on the sholeh zard with cinnamon."
+   "en": "Draw patterns on the sholeh zard with cinnamon.",
+   "faV": "رویِ شُله‌زَرد با دارچین نَقش بیَندازید.",
+   "a": "a0fbfc580f8e"
   },
   {
    "fa": "در محرم همسایه‌ها شله‌زرد نذری پخش می‌کنند.",
    "r": "dar Moharram hamsāye-hā shole-zard-e nazri pakhsh mi-konand.",
-   "en": "In Muharram the neighbours hand out votive sholeh zard."
+   "en": "In Muharram the neighbours hand out votive sholeh zard.",
+   "faV": "دَر مُحَرَّم هَمسایه‌ها شُله‌زَردِ نَذری پَخش می‌کُنَند.",
+   "a": "247021a53146"
   },
   {
    "fa": "شله‌زرد سرد خیلی خوشمزه است.",
    "r": "shole-zard-e sard kheyli khoshmazze ast.",
-   "en": "Cold sholeh zard is delicious."
+   "en": "Cold sholeh zard is delicious.",
+   "faV": "شُله‌زَردِ سَرد خَیلی خوشمَزّه اَست.",
+   "a": "d364639b7f63"
   }
  ],
  "vocab": [
-  {"fa": "شله‌زرد", "r": "shole-zard", "en": "sholeh zard, saffron rice pudding"},
-  {"fa": "زرد", "r": "zard", "en": "yellow"},
-  {"fa": "گلاب", "r": "golāb", "en": "rose water"},
-  {"fa": "زعفران", "r": "za'farān", "en": "saffron"},
-  {"fa": "هل", "r": "hel", "en": "cardamom"},
-  {"fa": "بادام", "r": "bādām", "en": "almond"},
-  {"fa": "دارچین", "r": "dārchin", "en": "cinnamon"},
-  {"fa": "نذر", "r": "nazr", "en": "vow"},
-  {"fa": "نذری", "r": "nazri", "en": "votive food, shared to fulfil a vow"},
-  {"fa": "کفگیر", "r": "kafgir", "en": "skimmer, flat serving spoon"},
-  {"fa": "کف", "r": "kaf", "en": "foam"},
-  {"fa": "نقش", "r": "naghsh", "en": "pattern, design"},
-  {"fa": "حل شدن", "r": "hal shodan", "en": "to dissolve"},
-  {"fa": "جوشاندن", "r": "jushāndan", "en": "to boil (something)"},
-  {"fa": "سرد شدن", "r": "sard shodan", "en": "to cool down"},
-  {"fa": "پخش کردن", "r": "pakhsh kardan", "en": "to hand out, to distribute"},
-  {"fa": "شیرین", "r": "shirin", "en": "sweet"},
-  {"fa": "کاسه", "r": "kāse", "en": "bowl"}
+  {
+   "fa": "شله‌زرد",
+   "r": "shole-zard",
+   "en": "sholeh zard, saffron rice pudding",
+   "faV": "شُله‌زَرد",
+   "a": "38295afcaad0"
+  },
+  {
+   "fa": "زرد",
+   "r": "zard",
+   "en": "yellow",
+   "faV": "زَرد",
+   "a": "3c27f803b54a"
+  },
+  {
+   "fa": "گلاب",
+   "r": "golāb",
+   "en": "rose water",
+   "faV": "گُلاب",
+   "a": "c652abb92180"
+  },
+  {
+   "fa": "زعفران",
+   "r": "za'farān",
+   "en": "saffron",
+   "faV": "زَعفَران",
+   "a": "13452bbd3f73"
+  },
+  {
+   "fa": "هل",
+   "r": "hel",
+   "en": "cardamom",
+   "faV": "هِل",
+   "a": "227cb77701e2"
+  },
+  {
+   "fa": "بادام",
+   "r": "bādām",
+   "en": "almond",
+   "faV": "بادام",
+   "a": "d37231c2df2c"
+  },
+  {
+   "fa": "دارچین",
+   "r": "dārchin",
+   "en": "cinnamon",
+   "faV": "دارچین",
+   "a": "7b6f8189af76"
+  },
+  {
+   "fa": "نذر",
+   "r": "nazr",
+   "en": "vow",
+   "faV": "نَذر",
+   "a": "16d38dd5fffe"
+  },
+  {
+   "fa": "نذری",
+   "r": "nazri",
+   "en": "votive food, shared to fulfil a vow",
+   "faV": "نَذری",
+   "a": "2d3fbd9827b4"
+  },
+  {
+   "fa": "کفگیر",
+   "r": "kafgir",
+   "en": "skimmer, flat serving spoon",
+   "faV": "کَفگیر",
+   "a": "01ed0702f34c"
+  },
+  {
+   "fa": "کف",
+   "r": "kaf",
+   "en": "foam",
+   "faV": "کَف",
+   "a": "43f962401be5"
+  },
+  {
+   "fa": "نقش",
+   "r": "naghsh",
+   "en": "pattern, design",
+   "faV": "نَقش",
+   "a": "f4e8de818e11"
+  },
+  {
+   "fa": "حل شدن",
+   "r": "hal shodan",
+   "en": "to dissolve",
+   "faV": "حَل شُدَن",
+   "a": "8b20f58fb3df"
+  },
+  {
+   "fa": "جوشاندن",
+   "r": "jushāndan",
+   "en": "to boil (something)",
+   "faV": "جوشاندَن",
+   "a": "bbf756ee57e5"
+  },
+  {
+   "fa": "سرد شدن",
+   "r": "sard shodan",
+   "en": "to cool down",
+   "faV": "سَرد شُدَن",
+   "a": "1a942c7308ab"
+  },
+  {
+   "fa": "پخش کردن",
+   "r": "pakhsh kardan",
+   "en": "to hand out, to distribute",
+   "faV": "پَخش کَردَن",
+   "a": "0a722a82da8b"
+  },
+  {
+   "fa": "شیرین",
+   "r": "shirin",
+   "en": "sweet",
+   "faV": "شیرین",
+   "a": "3c4705426ad7"
+  },
+  {
+   "fa": "کاسه",
+   "r": "kāse",
+   "en": "bowl",
+   "faV": "کاسه",
+   "a": "e2ea37bba35e"
+  }
  ],
  "facts": [
   "Zard means 'yellow': the colour of sholeh zard comes from saffron.",
@@ -122,5 +258,7 @@
   "It is cooked especially in the month of Muharram and in Ramadan.",
   "The cinnamon decoration is drawn by hand, as patterns or as religious names.",
   "Sholeh zard sets as it cools, so it is poured into bowls while still hot and runny."
- ]
+ ],
+ "titleV": "شُله‌زَرد",
+ "titleA": "38295afcaad0"
 }

@@ -65,7 +65,7 @@
      "r": "kheyli gerān ast! sad tumān khub ast?",
      "en": "That's very expensive! Is a hundred okay?",
      "col": "خیلی گرونه! صد تومن خوبه؟",
-     "colR": "kheyli gerune! sad tomen khube?",
+     "colR": "kheyli gerune! sad toman khube?",
      "faV": "خَیلی گِران اَست! صَد تومان خوب اَست؟",
      "a": "c8ecb0a60566",
      "colV": "خَیلی گِرونه! صَد تومِن خوبه؟",
@@ -86,7 +86,7 @@
     {
      "who": "Tom",
      "fa": "باشد. از خیابان ولیعصر بروید، لطفاً.",
-     "r": "bāshad. az khiyābān-e Valiasr beravid, lotfan.",
+     "r": "bāshad. az khiyābān-e Vali'asr beravid, lotfan.",
      "en": "Okay. Go along Valiasr Street, please.",
      "faV": "باشَد. اَز خیابانِ وَلیعَصر بِرَوید، لُطفاً.",
      "a": "102a0d9554d4"
@@ -624,7 +624,7 @@
   {
    "type": "culture",
    "title": "Tehran traffic and the art of the shared taxi",
-   "md": "Tehran's traffic is a national joke and a daily reality: a trip that takes twenty minutes at night can take two hours at six in the evening. That is why the metro, opened in 1999, is loved – and why the [[تاکسی خطی|tāksi-ye khatti|shared taxi]] survives. On the main avenues a stream of orange and yellow cars crawls along the kerb while would-be passengers shout destinations: *Vanak! Tajrish! Enghelāb!* Four strangers share the back seat and the front, pay a few thousand tomans each, and nobody speaks unless the driver has an opinion about the traffic, which he always does.\n\nThe road that matters most is [[خیابان ولیعصر|khiyābān-e Valiasr]], which runs almost 18 km from the railway station in the south to Tajrish in the north under a canopy of plane trees – the longest street in the Middle East. Going *up* (بالا) means north and richer; going *down* (پایین) means south and older. Tehranis give directions in those terms, so learn them: [[بالاتر|bālātar|further up]], [[پایین‌تر|pāyin-tar|further down]].",
+   "md": "Tehran's traffic is a national joke and a daily reality: a trip that takes twenty minutes at night can take two hours at six in the evening. That is why the metro, opened in 1999, is loved – and why the [[تاکسی خطی|tāksi-ye khatti|shared taxi]] survives. On the main avenues a stream of orange and yellow cars crawls along the kerb while would-be passengers shout destinations: *Vanak! Tajrish! Enghelāb!* Four strangers share the back seat and the front, pay a few thousand tomans each, and nobody speaks unless the driver has an opinion about the traffic, which he always does.\n\nThe road that matters most is [[خیابان ولیعصر|khiyābān-e Vali'asr]], which runs almost 18 km from the railway station in the south to Tajrish in the north under a canopy of plane trees – the longest street in the Middle East. Going *up* (بالا) means north and richer; going *down* (پایین) means south and older. Tehranis give directions in those terms, so learn them: [[بالاتر|bālātar|further up]], [[پایین‌تر|pāyin-tar|further down]].",
    "image": "tehran-traffic"
   },
   {
@@ -909,7 +909,7 @@
     {
      "en": "Don't go along Valiasr Street, there is traffic.",
      "fa": "از خیابان ولیعصر نروید، ترافیک است.",
-     "r": "az khiyābān-e Valiasr na-ravid, terāfik ast.",
+     "r": "az khiyābān-e Vali'asr na-ravid, terāfik ast.",
      "faV": "اَز خیابانِ وَلیعَصر نَرَوید، تِرافیک اَست.",
      "a": "1cda530b2191"
     }
