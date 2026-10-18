@@ -256,7 +256,7 @@ _A second sample item, this time from the science pages. Notice the headline wit
   *be gofte-ye kārshenāsān-e nojum, dar sharāyet-e monāseb mi-tavān dar har sā'at tā sad-o-bist shahāb rā bā cheshm-e gheyr-e-mosallah did.* — According to astronomers, in good conditions up to 120 meteors an hour can be seen with the naked eye.  
   _کارشناس نجوم – astronomy expert; می‌توان + short infinitive (دید) = 'one can see' (lesson 1); چشم غیرمسلح – 'the unarmed eye', the naked eye._
 - این شهاب‌ها ذرات کوچکی هستند که از سیارکی به نام «فایتون» جدا شده‌اند.  
-  *in shahāb-hā zarrāt-e kuchek-i hastand ke az sayyārak-i be nām-e «Fāyton» jodā shode-and.* — These meteors are tiny particles that have broken off an asteroid called Phaethon.  
+  *in shahāb-hā zarrāt-e kuchak-i hastand ke az sayyārak-i be nām-e «Fāyton» jodā shode-and.* — These meteors are tiny particles that have broken off an asteroid called Phaethon.  
   _ذرات – particles (Arabic plural of ذره); سیارک – asteroid, a 'little planet': سیاره + the diminutive -ak; به نام – called._
 - ذرات با سرعت حدود ۳۵ کیلومتر در ثانیه وارد جو زمین می‌شوند و می‌سوزند.  
   *zarrāt bā sor'at-e hodud-e si-o-panj kilometr dar sāniye vāred-e javv-e zamin mi-shavand va mi-suzand.* — The particles enter the Earth's atmosphere at about 35 kilometres a second and burn up.  
@@ -391,10 +391,10 @@ Persian newspapers go back to the 19th century. One of the most famous of the ea
 
 **Put the words in order**
 
-1. هشدار / هواشناسی / داد. / سازمان — The weather service issued a warning.
-2. افزایش / یافت. / قیمت / نفت — The price of oil rose.
-3. گزارش / تعطیل / به / خبرگزاری‌ها، / شدند. / مدارس — According to news agencies, the schools were closed.
-4. صرفه‌جویی / بر / کرد. / لزوم / وی / تأکید — He stressed the need to save.
+1. داد. / هواشناسی / سازمان / هشدار — The weather service issued a warning.
+2. نفت / افزایش / یافت. / قیمت — The price of oil rose.
+3. گزارش / مدارس / به / تعطیل / خبرگزاری‌ها، / شدند. — According to news agencies, the schools were closed.
+4. صرفه‌جویی / بر / لزوم / تأکید / وی / کرد. — He stressed the need to save.
 
 <details><summary>Answers</summary>
 

@@ -183,7 +183,7 @@ Saadi's lines are in the metre called متقارب (*motaghāreb*), the metre of
   *bani-ādam a'zā-ye yekdigar-and / ke dar āfarinesh ze yek gowhar-and* — The children of Adam are limbs of one another, / for in creation they are made of one essence.  
   _∪ – – ∪ – – ∪ – – ∪ – in each half._
 - توانا بود هر که دانا بود / ز دانش دل پیر برنا بود  
-  *tavānā bovad har ke dānā bovad / ze dānesh del-e pir barnā bovad* — Whoever has knowledge has power; / through knowledge an old heart grows young.  
+  *tavānā bovad har ke dānā bovad / ze dānesh del-e pir bornā bovad* — Whoever has knowledge has power; / through knowledge an old heart grows young.  
   _Ferdowsi: *ta-vā-nā bo-vad har ke dā-nā bo-vad* – the same da-DUM-DUM as Saadi, the beat of the whole Shahnameh. بود (*bovad*) is the old 'is'._
 - الا یا ایها الساقی ادر کأساً و ناولها  
   *alā yā ayyoh as-sāghi ader ka'san va nāvelhā* — Ho, cupbearer! Pass round the cup and hand it on.  
@@ -239,8 +239,8 @@ The **-ā** at the end of a word has two jobs. On a person it calls them: ساق
 - ای ساقی، بلند شو و جام را بده؛ غم روزگار را فراموش کن.  
   *ey sāghi, boland show o jām rā bedeh; gham-e ruzgār rā farāmush kon.* — O cupbearer, get up and give me the cup; forget the sorrows of the world.
 - ز دانش دل پیر برنا بود  
-  *ze dānesh del-e pir barnā bovad* — Through knowledge an old heart grows young.  
-  _Ferdowsi: ز (*ze*) = از (*az*); بود (*bovad*) = 'is, always is'; برنا (*barnā*) = 'young'._
+  *ze dānesh del-e pir bornā bovad* — Through knowledge an old heart grows young.  
+  _Ferdowsi: ز (*ze*) = از (*az*); بود (*bovad*) = 'is, always is'; برنا (*bornā*) = 'young'._
 - با دانش، دل آدم پیر هم جوان می‌ماند.  
   *bā dānesh, del-e ādam-e pir ham javān mi-mānad.* — With knowledge, even an old person's heart stays young.
 
@@ -382,10 +382,10 @@ _It is Yalda night at Leila's family home. Tom saw a Hafez fortune taken last ye
 
 **Put the words in order**
 
-1. در / در / شیراز / حافظ / می‌کرد. / میلادی / قرن / زندگی / چهاردهم — Hafez lived in Shiraz in the fourteenth century AD.
-2. ساخته / مصراع / بیت / دو / از / شده / هر / است. — Every bayt is made of two mesrā's.
-3. قافیه / بعد / از / ردیف / می‌آید. — The radif comes after the rhyme.
-4. در / بچه‌ها / می‌کنند. / بر / شعر / مدرسه / از / را / این — Children learn this poem by heart at school.
+1. شیراز / در / در / زندگی / قرن / چهاردهم / حافظ / میلادی / می‌کرد. — Hafez lived in Shiraz in the fourteenth century AD.
+2. از / هر / شده / دو / مصراع / بیت / است. / ساخته — Every bayt is made of two mesrā's.
+3. از / می‌آید. / ردیف / قافیه / بعد — The radif comes after the rhyme.
+4. از / شعر / در / مدرسه / بر / بچه‌ها / این / می‌کنند. / را — Children learn this poem by heart at school.
 
 <details><summary>Answers</summary>
 

@@ -376,10 +376,10 @@ _How New Persian was born – and the famous story of a poem that brought a king
 
 **Put the words in order**
 
-1. شعر / فارسی / رودکی / پدر / است. — Rudaki is the father of Persian poetry.
-2. زبان / میانه / بود. / فارسی / ساسانیان / رسمی — Middle Persian was the official language of the Sasanians.
-3. کردند. / فتح / عرب‌ها / ایران / را — The Arabs conquered Iran.
-4. همی / آید / یاد / یار / مهربان — The memory of a dear friend is coming to me.
+1. شعر / رودکی / پدر / است. / فارسی — Rudaki is the father of Persian poetry.
+2. بود. / میانه / ساسانیان / رسمی / فارسی / زبان — Middle Persian was the official language of the Sasanians.
+3. کردند. / فتح / ایران / عرب‌ها / را — The Arabs conquered Iran.
+4. آید / یاد / یار / همی / مهربان — The memory of a dear friend is coming to me.
 
 <details><summary>Answers</summary>
 

@@ -235,7 +235,7 @@ In Isfahan, Si-o-se-pol is where the city goes for its evening walk. Under the a
 - Not every شدن is a passive. In خسته شدم ('I got tired') or بزرگ شد ('he grew up'), شدن just means 'to become'. Ask yourself: could I add 'by someone'? If not, it is a change of state, not a passive.
 - Intransitive verbs have no passive: you cannot say *was gone* in Persian any more than in English. Verbs like آمدن، رفتن، خوابیدن never take شدن.
 - After می‌شود / نمی‌شود in the sense 'one can / one can't', the formal written style uses the short infinitive (the past stem): نمی‌شود گفت. In speech you will also hear the subjunctive: نمی‌شه بگیم.
-- Spoken Persian shortens شد to شد but شده است to just شده: فروخته شده 'it's been sold'.
+- Spoken Persian keeps شد as it is but shortens شده است to just شده: فروخته شده 'it's been sold'.
 
 ### Make it passive
 
@@ -301,10 +301,10 @@ In Isfahan, Si-o-se-pol is where the city goes for its evening walk. Under the a
 
 **Put the words in order**
 
-1. ساخته / در / پل / اصفهان / شد. / این — This bridge was built in Isfahan.
-2. چند / او / زبان / شده‌اند. / ترجمه / کتاب‌های / به — His books have been translated into several languages.
-3. می‌گویند / او / شهر / مکانیک / بهترین / است. — They say he is the best mechanic in town.
-4. در / نمی‌شود / پارک / کرد. / خیابان / این — One can't park on this street.
+1. اصفهان / پل / در / این / ساخته / شد. — This bridge was built in Isfahan.
+2. کتاب‌های / ترجمه / شده‌اند. / او / به / چند / زبان — His books have been translated into several languages.
+3. مکانیک / می‌گویند / او / است. / شهر / بهترین — They say he is the best mechanic in town.
+4. در / پارک / نمی‌شود / این / خیابان / کرد. — One can't park on this street.
 
 <details><summary>Answers</summary>
 

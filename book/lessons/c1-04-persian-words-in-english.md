@@ -366,10 +366,10 @@ The traffic now runs mostly the other way. Modern Persian is full of English and
 
 **Put the words in order**
 
-1. واژه / انگلیسی / راه / از / به / رسید. / ترکی / این — This word reached English by way of Turkish.
-2. تهران / روز / بزرگ / شلوغ / بازار / هر / است. — Tehran's Grand Bazaar is busy every day.
-3. در / دیوان / حافظ / پیدا / می‌شود. / بیشتر / خانه‌ها — A Divan of Hafez can be found in most homes.
-4. ایرانیان / با / قند / را / می‌نوشند. / چای — Iranians drink tea with lump sugar.
+1. واژه / از / رسید. / به / انگلیسی / راه / این / ترکی — This word reached English by way of Turkish.
+2. هر / شلوغ / بازار / تهران / است. / روز / بزرگ — Tehran's Grand Bazaar is busy every day.
+3. می‌شود. / در / خانه‌ها / بیشتر / حافظ / پیدا / دیوان — A Divan of Hafez can be found in most homes.
+4. قند / می‌نوشند. / چای / ایرانیان / با / را — Iranians drink tea with lump sugar.
 
 <details><summary>Answers</summary>
 

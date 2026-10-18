@@ -35,83 +35,215 @@
   {
    "fa": "در ایران پیروان چند دین قدیمی زندگی می‌کنند.",
    "r": "dar Irān peyrovān-e chand din-e ghadimi zendegi mi-konand.",
-   "en": "Followers of several ancient religions live in Iran."
+   "en": "Followers of several ancient religions live in Iran.",
+   "faV": "دَر ایران پَیرُوانِ چَند دینِ قَدیمی زِندِگی می‌کُنَند.",
+   "a": "38f9d4bbc88a"
   },
   {
    "fa": "ارمنی‌ها، یهودیان و زرتشتیان نمایندگان خودشان را در مجلس دارند.",
    "r": "armani-hā, yahudiyān va zartoshtiyān namāyandegān-e khod-eshān rā dar majles dārand.",
-   "en": "Armenians, Jews and Zoroastrians have their own representatives in parliament."
+   "en": "Armenians, Jews and Zoroastrians have their own representatives in parliament.",
+   "faV": "اَرمَنی‌ها، یَهودیان و زَرتُشتیان نَمایَندِگانِ خودِشان را دَر مَجلِس دارَند.",
+   "a": "5715a8147db9"
   },
   {
    "fa": "شاه عباس ارمنی‌ها را از جلفا به اصفهان آورد.",
    "r": "Shāh 'Abbās armani-hā rā az Jolfā be Esfahān āvard.",
-   "en": "Shah Abbas brought the Armenians from Julfa to Isfahan."
+   "en": "Shah Abbas brought the Armenians from Julfa to Isfahan.",
+   "faV": "شاه عَبّاس اَرمَنی‌ها را اَز جُلفا به اِصفَهان آوَرد.",
+   "a": "00a1281809b9"
   },
   {
    "fa": "کلیسای وانک در محله‌ی جلفای اصفهان است.",
    "r": "Kelisā-ye Vānk dar mahalle-ye Jolfā-ye Esfahān ast.",
-   "en": "Vank Cathedral is in the Jolfa quarter of Isfahan."
+   "en": "Vank Cathedral is in the Jolfa quarter of Isfahan.",
+   "faV": "کِلیسایِ وانک دَر مَحَلّه‌یِ جُلفایِ اِصفَهان اَست.",
+   "a": "0b052ae12979"
   },
   {
    "fa": "دیوارهای این کلیسا پر از نقاشی است.",
    "r": "divār-hā-ye in kelisā por az naghghāshi ast.",
-   "en": "The walls of this church are covered with paintings."
+   "en": "The walls of this church are covered with paintings.",
+   "faV": "دیوارهایِ این کِلیسا پُر اَز نَقّاشی اَست.",
+   "a": "460839426644"
   },
   {
    "fa": "کوروش به یهودیان اجازه داد به اورشلیم برگردند.",
    "r": "Kurosh be yahudiyān ejāze dād be Urshalim bargardand.",
-   "en": "Cyrus allowed the Jews to return to Jerusalem."
+   "en": "Cyrus allowed the Jews to return to Jerusalem.",
+   "faV": "کوروش به یَهودیان اِجازه داد به اورشَلیم بَرگَردَند.",
+   "a": "b4685b7c2790"
   },
   {
    "fa": "آرامگاه استر و مردخای در همدان است.",
    "r": "ārāmgāh-e Ester va Mordekhāy dar Hamedān ast.",
-   "en": "The tomb of Esther and Mordecai is in Hamadan."
+   "en": "The tomb of Esther and Mordecai is in Hamadan.",
+   "faV": "آرامگاهِ اِستِر و مُردِخای دَر هَمِدان اَست.",
+   "a": "4d4ef807395e"
   },
   {
    "fa": "در ایران به یهودیان «کلیمی» هم می‌گویند.",
    "r": "dar Irān be yahudiyān «kalimi» ham mi-guyand.",
-   "en": "In Iran Jews are also called 'kalimi'."
+   "en": "In Iran Jews are also called 'kalimi'.",
+   "faV": "دَر ایران به یَهودیان «کَلیمی» هَم می‌گویَند.",
+   "a": "9184cb62c036"
   },
   {
    "fa": "یزد و کرمان شهرهای مهم زرتشتیان هستند.",
    "r": "Yazd va Kermān shahr-hā-ye mohemm-e zartoshtiyān hastand.",
-   "en": "Yazd and Kerman are important cities for Zoroastrians."
+   "en": "Yazd and Kerman are important cities for Zoroastrians.",
+   "faV": "یَزد و کِرمان شَهرهایِ مُهِمِّ زَرتُشتیان هَستَند.",
+   "a": "f7a5c92974ac"
   },
   {
    "fa": "در آتشکده‌ی یزد آتشی است که قرن‌ها روشن مانده است.",
    "r": "dar ātashkade-ye Yazd ātash-i ast ke gharn-hā rowshan mānde ast.",
-   "en": "In the fire temple of Yazd there is a fire that has stayed alight for centuries."
+   "en": "In the fire temple of Yazd there is a fire that has stayed alight for centuries.",
+   "faV": "دَر آتَشکَده‌یِ یَزد آتَشی اَست که قَرن‌ها رَوشَن مانده اَست.",
+   "a": "eb36540609ed"
   },
   {
    "fa": "زرتشتیان خودشان را «بهدین» هم می‌نامند.",
    "r": "zartoshtiyān khod-eshān rā «behdin» ham mi-nāmand.",
-   "en": "Zoroastrians also call themselves 'behdin'."
+   "en": "Zoroastrians also call themselves 'behdin'.",
+   "faV": "زَرتُشتیان خودِشان را «بِهدین» هَم می‌نامَند.",
+   "a": "72dae5dae931"
   },
   {
    "fa": "هر سال در تابستان زرتشتیان به زیارتگاه چک‌چک می‌روند.",
    "r": "har sāl dar tābestān zartoshtiyān be ziyāratgāh-e Chak-chak mi-ravand.",
-   "en": "Every summer Zoroastrians go to the shrine of Chak Chak."
+   "en": "Every summer Zoroastrians go to the shrine of Chak Chak.",
+   "faV": "هَر سال دَر تابِستان زَرتُشتیان به زیارَتگاهِ چَک‌چَک می‌رَوَند.",
+   "a": "280d8747513f"
   }
  ],
  "vocab": [
-  {"fa": "دین", "r": "din", "en": "religion"},
-  {"fa": "اقلیت", "r": "aghalliyat", "en": "minority"},
-  {"fa": "پیرو", "r": "peyrow", "en": "follower"},
-  {"fa": "ارمنی", "r": "armani", "en": "Armenian"},
-  {"fa": "مسیحی", "r": "masihi", "en": "Christian"},
-  {"fa": "کلیسا", "r": "kelisā", "en": "church"},
-  {"fa": "یهودی", "r": "yahudi", "en": "Jewish; Jew"},
-  {"fa": "کلیمی", "r": "kalimi", "en": "Jew (polite Iranian term)"},
-  {"fa": "کنیسه", "r": "kanise", "en": "synagogue"},
-  {"fa": "زرتشتی", "r": "zartoshti", "en": "Zoroastrian"},
-  {"fa": "آتشکده", "r": "ātashkade", "en": "fire temple"},
-  {"fa": "زیارتگاه", "r": "ziyāratgāh", "en": "shrine, place of pilgrimage"},
-  {"fa": "محله", "r": "mahalle", "en": "neighbourhood, quarter"},
-  {"fa": "نقاشی", "r": "naghghāshi", "en": "painting"},
-  {"fa": "مجلس", "r": "majles", "en": "parliament"},
-  {"fa": "اجازه دادن", "r": "ejāze dādan", "en": "to allow, to permit"},
-  {"fa": "مهاجرت کردن", "r": "mohājerat kardan", "en": "to emigrate"},
-  {"fa": "احترام", "r": "ehterām", "en": "respect"}
+  {
+   "fa": "دین",
+   "r": "din",
+   "en": "religion",
+   "faV": "دین",
+   "a": "415d4a68797c"
+  },
+  {
+   "fa": "اقلیت",
+   "r": "aghalliyat",
+   "en": "minority",
+   "faV": "اَقَلّیَت",
+   "a": "2a045cf026a2"
+  },
+  {
+   "fa": "پیرو",
+   "r": "peyrow",
+   "en": "follower",
+   "faV": "پَیرَو",
+   "a": "334281bc074e"
+  },
+  {
+   "fa": "ارمنی",
+   "r": "armani",
+   "en": "Armenian",
+   "faV": "اَرمَنی",
+   "a": "b7b90779f760"
+  },
+  {
+   "fa": "مسیحی",
+   "r": "masihi",
+   "en": "Christian",
+   "faV": "مَسیحی",
+   "a": "04654c2c99b1"
+  },
+  {
+   "fa": "کلیسا",
+   "r": "kelisā",
+   "en": "church",
+   "faV": "کِلیسا",
+   "a": "0b0b083a7412"
+  },
+  {
+   "fa": "یهودی",
+   "r": "yahudi",
+   "en": "Jewish; Jew",
+   "faV": "یَهودی",
+   "a": "94386fa9cf50"
+  },
+  {
+   "fa": "کلیمی",
+   "r": "kalimi",
+   "en": "Jew (polite Iranian term)",
+   "faV": "کَلیمی",
+   "a": "664d5766f85f"
+  },
+  {
+   "fa": "کنیسه",
+   "r": "kanise",
+   "en": "synagogue",
+   "faV": "کَنیسه",
+   "a": "4a9a6b5974f6"
+  },
+  {
+   "fa": "زرتشتی",
+   "r": "zartoshti",
+   "en": "Zoroastrian",
+   "faV": "زَرتُشتی",
+   "a": "785cc8a72155"
+  },
+  {
+   "fa": "آتشکده",
+   "r": "ātashkade",
+   "en": "fire temple",
+   "faV": "آتَشکَده",
+   "a": "a20773b93565"
+  },
+  {
+   "fa": "زیارتگاه",
+   "r": "ziyāratgāh",
+   "en": "shrine, place of pilgrimage",
+   "faV": "زیارَتگاه",
+   "a": "ccbbc2db0b69"
+  },
+  {
+   "fa": "محله",
+   "r": "mahalle",
+   "en": "neighbourhood, quarter",
+   "faV": "مَحَلّه",
+   "a": "847e3c3afa95"
+  },
+  {
+   "fa": "نقاشی",
+   "r": "naghghāshi",
+   "en": "painting",
+   "faV": "نَقّاشی",
+   "a": "03d7dc14c76d"
+  },
+  {
+   "fa": "مجلس",
+   "r": "majles",
+   "en": "parliament",
+   "faV": "مَجلِس",
+   "a": "9fac38645da3"
+  },
+  {
+   "fa": "اجازه دادن",
+   "r": "ejāze dādan",
+   "en": "to allow, to permit",
+   "faV": "اِجازه دادَن",
+   "a": "8961c601731c"
+  },
+  {
+   "fa": "مهاجرت کردن",
+   "r": "mohājerat kardan",
+   "en": "to emigrate",
+   "faV": "مُهاجِرَت کَردَن",
+   "a": "8ed527a75995"
+  },
+  {
+   "fa": "احترام",
+   "r": "ehterām",
+   "en": "respect",
+   "faV": "اِحتِرام",
+   "a": "cc970dd300f2"
+  }
  ],
  "facts": [
   "Article 13 of Iran's constitution recognises Zoroastrians, Jews and Christians as religious minorities; five seats in parliament are reserved for them.",
@@ -121,5 +253,7 @@
   "Judeo-Persian – Persian written in Hebrew letters – includes some of the oldest surviving texts in New Persian.",
   "The Parsis of India are descendants of Zoroastrians who left Iran after the Arab conquest.",
   "The pilgrimage to Chak Chak near Ardakan takes place every year in June."
- ]
+ ],
+ "titleV": "اَرمَنیان، یَهودیان و زَرتُشتیانِ ایران",
+ "titleA": "61458fddae97"
 }

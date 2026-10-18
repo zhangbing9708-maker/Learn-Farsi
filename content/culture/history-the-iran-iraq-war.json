@@ -38,83 +38,215 @@
   {
    "fa": "جنگ ایران و عراق در شهریور ۱۳۵۹ شروع شد.",
    "r": "jang-e Irān va 'Erāgh dar Shahrivar-e hezār-o-sisad-o-panjāh-o-noh shoru' shod.",
-   "en": "The Iran–Iraq war began in September 1980 (Shahrivar 1359)."
+   "en": "The Iran–Iraq war began in September 1980 (Shahrivar 1359).",
+   "faV": "جَنگِ ایران و عِراق دَر شَهریوَرِ ۱۳۵۹ شُروع شُد.",
+   "a": "c1611e601b2f"
   },
   {
    "fa": "ارتش عراق از مرز گذشت و وارد خوزستان شد.",
    "r": "artesh-e 'Erāgh az marz gozasht va vāred-e Khuzestān shod.",
-   "en": "The Iraqi army crossed the border and entered Khuzestan."
+   "en": "The Iraqi army crossed the border and entered Khuzestan.",
+   "faV": "اَرتِشِ عِراق اَز مَرز گُذَشت و وارِدِ خوزِستان شُد.",
+   "a": "d1f725144913"
   },
   {
    "fa": "خرمشهر پس از چند هفته جنگ سقوط کرد.",
    "r": "Khorramshahr pas az chand hafte jang soghut kard.",
-   "en": "Khorramshahr fell after several weeks of fighting."
+   "en": "Khorramshahr fell after several weeks of fighting.",
+   "faV": "خُرَّمشَهر پَس اَز چَند هَفته جَنگ سُقوط کَرد.",
+   "a": "739a2bce949f"
   },
   {
    "fa": "در خرداد ۱۳۶۱ نیروهای ایرانی خرمشهر را آزاد کردند.",
    "r": "dar Khordād-e hezār-o-sisad-o-shast-o-yek niru-hā-ye irāni Khorramshahr rā āzād kardand.",
-   "en": "In May 1982 (Khordad 1361) Iranian forces liberated Khorramshahr."
+   "en": "In May 1982 (Khordad 1361) Iranian forces liberated Khorramshahr.",
+   "faV": "دَر خُردادِ ۱۳۶۱ نیروهایِ ایرانی خُرَّمشَهر را آزاد کَردَند.",
+   "a": "4534c8dda01b"
   },
   {
    "fa": "صدها هزار نفر در این جنگ کشته شدند.",
    "r": "sad-hā hezār nafar dar in jang koshte shodand.",
-   "en": "Hundreds of thousands of people were killed in this war."
+   "en": "Hundreds of thousands of people were killed in this war.",
+   "faV": "صَدها هِزار نَفَر دَر این جَنگ کُشته شُدَند.",
+   "a": "249acab1006a"
   },
   {
    "fa": "عراق در این جنگ از سلاح شیمیایی استفاده کرد.",
    "r": "'Erāgh dar in jang az selāh-e shimiyāyi estefāde kard.",
-   "en": "Iraq used chemical weapons in this war."
+   "en": "Iraq used chemical weapons in this war.",
+   "faV": "عِراق دَر این جَنگ اَز سِلاحِ شیمیایی اِستِفاده کَرد.",
+   "a": "58ff0589b591"
   },
   {
    "fa": "در «جنگ شهرها» موشک‌ها به تهران و بغداد می‌خوردند.",
    "r": "dar «jang-e shahr-hā» mushak-hā be Tehrān va Baghdād mi-khordand.",
-   "en": "In the 'war of the cities' missiles hit Tehran and Baghdad."
+   "en": "In the 'war of the cities' missiles hit Tehran and Baghdad.",
+   "faV": "دَر «جَنگِ شَهرها» موشَک‌ها به تِهران و بَغداد می‌خوردَند.",
+   "a": "2258d80a2547"
   },
   {
    "fa": "ایران در تیر ۱۳۶۷ قطعنامه‌ی ۵۹۸ را پذیرفت.",
    "r": "Irān dar Tir-e hezār-o-sisad-o-shast-o-haft ghat'nāme-ye pānsad-o-navad-o-hasht rā pazireft.",
-   "en": "In July 1988 (Tir 1367) Iran accepted Resolution 598."
+   "en": "In July 1988 (Tir 1367) Iran accepted Resolution 598.",
+   "faV": "ایران دَر تیرِ ۱۳۶۷ قَطعنامه‌یِ ۵۹۸ را پَذیرِفت.",
+   "a": "09515ccf99c9"
   },
   {
    "fa": "در مرداد ۱۳۶۷ آتش‌بس برقرار شد.",
    "r": "dar Mordād-e hezār-o-sisad-o-shast-o-haft ātash-bas bargharār shod.",
-   "en": "In August 1988 (Mordad 1367) a ceasefire came into force."
+   "en": "In August 1988 (Mordad 1367) a ceasefire came into force.",
+   "faV": "دَر مُردادِ ۱۳۶۷ آتَش‌بَس بَرقَرار شُد.",
+   "a": "f8df45d32daf"
   },
   {
    "fa": "در ایران این جنگ را «دفاع مقدس» می‌نامند.",
    "r": "dar Irān in jang rā «defā'-e moghaddas» mi-nāmand.",
-   "en": "In Iran this war is called 'the Sacred Defence'."
+   "en": "In Iran this war is called 'the Sacred Defence'.",
+   "faV": "دَر ایران این جَنگ را «دِفاعِ مُقَدَّس» می‌نامَند.",
+   "a": "0a135751e72f"
   },
   {
    "fa": "نام بسیاری از خیابان‌ها نام شهیدان جنگ است.",
    "r": "nām-e besyār-i az khiyābān-hā nām-e shahidān-e jang ast.",
-   "en": "Many streets are named after those killed in the war."
+   "en": "Many streets are named after those killed in the war.",
+   "faV": "نامِ بِسیاری اَز خیابان‌ها نامِ شَهیدانِ جَنگ اَست.",
+   "a": "5b8beec4b0ff"
   },
   {
    "fa": "جانبازان کسانی هستند که در جنگ زخمی شدند.",
    "r": "jānbāzān kas-āni hastand ke dar jang zakhmi shodand.",
-   "en": "'Janbaz' are people who were wounded in the war."
+   "en": "'Janbaz' are people who were wounded in the war.",
+   "faV": "جانبازان کَسانی هَستَند که دَر جَنگ زَخمی شُدَند.",
+   "a": "ce4be7c07d6e"
   }
  ],
  "vocab": [
-  {"fa": "جنگ", "r": "jang", "en": "war; battle"},
-  {"fa": "مرز", "r": "marz", "en": "border"},
-  {"fa": "حمله", "r": "hamle", "en": "attack"},
-  {"fa": "حمله کردن", "r": "hamle kardan", "en": "to attack"},
-  {"fa": "نیرو", "r": "niru", "en": "force; (pl.) forces, troops"},
-  {"fa": "سقوط کردن", "r": "soghut kardan", "en": "to fall (of a city, a government)"},
-  {"fa": "آزاد کردن", "r": "āzād kardan", "en": "to liberate, to free"},
-  {"fa": "رزمنده", "r": "razmande", "en": "fighter, combatant"},
-  {"fa": "شهید", "r": "shahid", "en": "martyr (someone killed for a cause)"},
-  {"fa": "جانباز", "r": "jānbāz", "en": "disabled war veteran"},
-  {"fa": "زخمی", "r": "zakhmi", "en": "wounded"},
-  {"fa": "اسیر", "r": "asir", "en": "prisoner of war, captive"},
-  {"fa": "موشک", "r": "mushak", "en": "missile, rocket"},
-  {"fa": "سلاح", "r": "selāh", "en": "weapon"},
-  {"fa": "آتش‌بس", "r": "ātash-bas", "en": "ceasefire"},
-  {"fa": "قطعنامه", "r": "ghat'nāme", "en": "resolution (of the UN, etc.)"},
-  {"fa": "آواره", "r": "āvāre", "en": "displaced, homeless (person)"},
-  {"fa": "یادبود", "r": "yādbud", "en": "memorial, commemoration"}
+  {
+   "fa": "جنگ",
+   "r": "jang",
+   "en": "war; battle",
+   "faV": "جَنگ",
+   "a": "d4af3f038a72"
+  },
+  {
+   "fa": "مرز",
+   "r": "marz",
+   "en": "border",
+   "faV": "مَرز",
+   "a": "090a3941de0d"
+  },
+  {
+   "fa": "حمله",
+   "r": "hamle",
+   "en": "attack",
+   "faV": "حَمله",
+   "a": "7fb8be8baa92"
+  },
+  {
+   "fa": "حمله کردن",
+   "r": "hamle kardan",
+   "en": "to attack",
+   "faV": "حَمله کَردَن",
+   "a": "974d9bcc9bf1"
+  },
+  {
+   "fa": "نیرو",
+   "r": "niru",
+   "en": "force; (pl.) forces, troops",
+   "faV": "نیرو",
+   "a": "b35f026c5ebe"
+  },
+  {
+   "fa": "سقوط کردن",
+   "r": "soghut kardan",
+   "en": "to fall (of a city, a government)",
+   "faV": "سُقوط کَردَن",
+   "a": "cfa5fd72c6b1"
+  },
+  {
+   "fa": "آزاد کردن",
+   "r": "āzād kardan",
+   "en": "to liberate, to free",
+   "faV": "آزاد کَردَن",
+   "a": "af7d0b492f94"
+  },
+  {
+   "fa": "رزمنده",
+   "r": "razmande",
+   "en": "fighter, combatant",
+   "faV": "رَزمَنده",
+   "a": "0763a05e49f5"
+  },
+  {
+   "fa": "شهید",
+   "r": "shahid",
+   "en": "martyr (someone killed for a cause)",
+   "faV": "شَهید",
+   "a": "76d11e6f8fe8"
+  },
+  {
+   "fa": "جانباز",
+   "r": "jānbāz",
+   "en": "disabled war veteran",
+   "faV": "جانباز",
+   "a": "fdebc394ab59"
+  },
+  {
+   "fa": "زخمی",
+   "r": "zakhmi",
+   "en": "wounded",
+   "faV": "زَخمی",
+   "a": "066ac5002e06"
+  },
+  {
+   "fa": "اسیر",
+   "r": "asir",
+   "en": "prisoner of war, captive",
+   "faV": "اَسیر",
+   "a": "c619abb1f71d"
+  },
+  {
+   "fa": "موشک",
+   "r": "mushak",
+   "en": "missile, rocket",
+   "faV": "موشَک",
+   "a": "9d8bbe377dd7"
+  },
+  {
+   "fa": "سلاح",
+   "r": "selāh",
+   "en": "weapon",
+   "faV": "سِلاح",
+   "a": "ff619a1b6b46"
+  },
+  {
+   "fa": "آتش‌بس",
+   "r": "ātash-bas",
+   "en": "ceasefire",
+   "faV": "آتَش‌بَس",
+   "a": "de12b8c099d1"
+  },
+  {
+   "fa": "قطعنامه",
+   "r": "ghat'nāme",
+   "en": "resolution (of the UN, etc.)",
+   "faV": "قَطعنامه",
+   "a": "a323ca37a8a3"
+  },
+  {
+   "fa": "آواره",
+   "r": "āvāre",
+   "en": "displaced, homeless (person)",
+   "faV": "آواره",
+   "a": "9f614e25c8d6"
+  },
+  {
+   "fa": "یادبود",
+   "r": "yādbud",
+   "en": "memorial, commemoration",
+   "faV": "یادبود",
+   "a": "86381a7bc477"
+  }
  ],
  "facts": [
   "Iraq invaded Iran on 22 September 1980 (31 Shahrivar 1359).",
@@ -124,5 +256,7 @@
   "Iran accepted UN Security Council Resolution 598 in July 1988, and the ceasefire took effect on 20 August 1988.",
   "The war ended with the border almost unchanged.",
   "In Iran, Sacred Defence Week begins on 31 Shahrivar, the anniversary of the invasion."
- ]
+ ],
+ "titleV": "جَنگِ ایران و عِراق",
+ "titleA": "31d54de5df83"
 }
