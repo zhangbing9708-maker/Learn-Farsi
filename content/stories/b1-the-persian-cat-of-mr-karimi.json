@@ -76,9 +76,9 @@
      "a": "0f9e93fe6518"
     },
     {
-     "fa": "رضا، پسر طبقه‌ی اول، یک عکس تار از چیزی سفید روی دیوار حیاط فرستاد و پرسید: «این پشمک است؟»",
-     "r": "Rezā, pesar-e tabaghe-ye avval, yek 'aks-e tār az chiz-i sefid ru-ye divār-e hayāt ferestād o porsid: «in Pashmak ast?»",
-     "en": "Reza, the boy on the first floor, sent a blurry photo of something white on the courtyard wall and asked: \"Is this Pashmak?\"",
+     "fa": "پویا، پسر طبقه‌ی اول، یک عکس تار از چیزی سفید روی دیوار حیاط فرستاد و پرسید: «این پشمک است؟»",
+     "r": "Puyā, pesar-e tabaghe-ye avval, yek 'aks-e tār az chiz-i sefid ru-ye divār-e hayāt ferestād o porsid: «in Pashmak ast?»",
+     "en": "Puya, the boy on the first floor, sent a blurry photo of something white on the courtyard wall and asked: \"Is this Pashmak?\"",
      "faV": "رِضا، پِسَرِ طَبَقه‌یِ اَوَّل، یِک عَکسِ تار اَز چیزی سِفید رویِ دیوارِ حَیاط فِرِستاد و پُرسید: «این پَشمَک اَست؟»",
      "a": "69a89e9b0aa9"
     },
@@ -281,7 +281,7 @@
    "answer": 0
   },
   {
-   "q": "What did Reza's blurry photo turn out to show?",
+   "q": "What did Puya's blurry photo turn out to show?",
    "options": [
     "a white pigeon",
     "a plastic bag",

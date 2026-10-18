@@ -39,7 +39,7 @@ _After three months of travelling, Tom writes in his notebook about what he has 
 - ترکی آذربایجانی لهجه‌ی فارسی نیست؛ زبانی جداست، از خانواده‌ی زبان‌های ترکی.  
   *torki-ye āzarbāyjāni lahje-ye fārsi nist; zabān-i jodā-st, az khānevāde-ye zabān-hā-ye torki.* — Azerbaijani Turkish is not an accent of Persian; it is a separate language, from the Turkic family.
 - با این حال، همه‌ی کسانی که دیدم فارسی را هم خیلی خوب حرف می‌زدند.  
-  *bā in hāl, hame-ye kas-āni ke didam fārsi rā ham kheyli khub harf mi-zadand.* — Even so, everyone I met spoke excellent Persian as well.
+  *bā in hāl, hame-ye kasān-i ke didam fārsi rā ham kheyli khub harf mi-zadand.* — Even so, everyone I met spoke excellent Persian as well.
 - در رشت مادربزرگ دوستم با نوه‌هایش گیلکی صحبت می‌کرد.  
   *dar Rasht mādar-bozorg-e dust-am bā nave-hā-yash gilaki sohbat mi-kard.* — In Rasht my friend's grandmother spoke Gilaki with her grandchildren.
 - در سنندج، در یک عروسی، مردم به کردی آواز می‌خواندند و دست‌جمعی می‌رقصیدند.  
@@ -356,10 +356,10 @@ A few points of tact:
 
 **Put the words in order**
 
-1. می‌زنند. / خیلی / آرام / حرف / شیرازی‌ها — Shirazis speak very calmly.
-2. ایرانی‌اند. / از / هر / دو / و / زبان‌های / فارسی / کردی — Kurdish and Persian are both Iranian languages.
-3. لری / در / می‌زنیم. / به / خانه / حرف — At home we speak Lori.
-4. بیشتر / تهرانی / به / است. / لهجه‌ی / فیلم‌ها — Most films are in the Tehrani accent.
+1. می‌زنند. / خیلی / حرف / آرام / شیرازی‌ها — Shirazis speak very calmly.
+2. کردی / و / زبان‌های / از / فارسی / ایرانی‌اند. / هر / دو — Kurdish and Persian are both Iranian languages.
+3. در / به / می‌زنیم. / حرف / خانه / لری — At home we speak Lori.
+4. تهرانی / است. / به / بیشتر / فیلم‌ها / لهجه‌ی — Most films are in the Tehrani accent.
 
 <details><summary>Answers</summary>
 

@@ -2,33 +2,33 @@
 ## چهارشنبه‌سوری
 *chahār-shanbe-suri* — Intermediate (B1), everyday life. [Read with audio](https://zhangbing9708-maker.github.io/Learn-Farsi/stories/b1-chaharshanbe-suri.html)
 
-On the last Tuesday evening before Nowruz, Iranians light bonfires in the streets and jump over them. Follow Amir's family through the evening: the fire and the words everyone says as they jump, the spoon-banging, and a grandmother who remembers how it used to be. Look for the passive with شدن, reported speech, and the subjunctive after تا and قبل از این‌که.
+On the last Tuesday evening before Nowruz, Iranians light bonfires in the streets and jump over them. Follow Sara's family through the evening: the fire and the words everyone says as they jump, the spoon-banging, and a grandmother who remembers how it used to be. Look for the passive with شدن, reported speech, and the subjunctive after تا and قبل از این‌که.
 
 ![Jumping over fire on Chaharshanbe Suri](https://upload.wikimedia.org/wikipedia/commons/c/c6/Fire-festival-in-Iran.jpg)
 <sub>Jumping over fire on Chaharshanbe Suri. Photo: [unknown author](https://commons.wikimedia.org/wiki/File:Fire-festival-in-Iran.jpg), CC BY-SA 4.0.</sub>
 
 ### The story
 
-آخرین سه‌شنبه‌ی سال بود و از عصر صدای ترقه در همه‌ی کوچه‌ها شنیده می‌شد. امیر و خواهر کوچکش سارا از صبح منتظر این شب بودند. پدرشان چند بغل بوته‌ی خشک از بیرون شهر آورده بود و همسایه‌ها آن‌ها را در کوچه در سه ردیف چیده بودند. مادربزرگ گفت که در کودکی او ترقه‌ای در کار نبود و مردم فقط آتش روشن می‌کردند و آواز می‌خواندند.
+آخرین سه‌شنبه‌ی سال بود و از عصر صدای ترقه در همه‌ی کوچه‌ها شنیده می‌شد. سارا و دایی‌اش امیر از صبح منتظر این شب بودند. رضا چند بغل بوته‌ی خشک از بیرون شهر آورده بود و همسایه‌ها آن‌ها را در کوچه در سه ردیف چیده بودند. مادربزرگ گفت که در کودکی او ترقه‌ای در کار نبود و مردم فقط آتش روشن می‌کردند و آواز می‌خواندند.
 
-وقتی هوا تاریک شد، پدر بوته‌ها را آتش زد و شعله‌ها تا بالای دیوارها رسیدند. همه یکی‌یکی از روی آتش پریدند و با صدای بلند گفتند: «زردی من از تو، سرخی تو از من!» سارا اول می‌ترسید، اما امیر دستش را گرفت و با هم پریدند. مادربزرگ توضیح داد که با این جمله، زردی و بیماری را به آتش می‌دهیم و سرخی و سلامتی آن را می‌گیریم. او گفت: «ایرانیان از هزاران سال پیش آتش را پاک می‌دانستند؛ برای همین نباید آن را با آب خاموش کرد.»
+وقتی هوا تاریک شد، رضا بوته‌ها را آتش زد و شعله‌ها تا بالای دیوارها رسیدند. همه یکی‌یکی از روی آتش پریدند و با صدای بلند گفتند: «زردی من از تو، سرخی تو از من!» سارا اول می‌ترسید، اما امیر دستش را گرفت و با هم پریدند. مادربزرگ توضیح داد که با این جمله، زردی و بیماری را به آتش می‌دهیم و سرخی و سلامتی آن را می‌گیریم. او گفت: «ایرانیان از هزاران سال پیش آتش را پاک می‌دانستند؛ برای همین نباید آن را با آب خاموش کرد.»
 
-بعد بچه‌های کوچه چادر به سر کردند و برای قاشق‌زنی به در خانه‌ها رفتند. آن‌ها با قاشق به کاسه می‌زدند، بی‌آنکه حرفی بزنند، تا صاحب‌خانه چیزی در کاسه‌شان بگذارد. خانم احمدی، همسایه‌ی روبه‌رو، در کاسه‌ی سارا آجیل و شیرینی ریخت و گفت: «امیدوارم سال خوبی داشته باشید!» این آجیل را آجیل مشکل‌گشا می‌نامند و می‌گویند هر کس آن را بخورد، گره از کارش باز می‌شود. مادر هم به رسم قدیم فال‌گوش ایستاد؛ یعنی پنهانی به حرف رهگذران گوش داد تا از آن، آینده‌ی سال نو را حدس بزند.
+بعد بچه‌های کوچه چادر به سر کردند و برای قاشق‌زنی به در خانه‌ها رفتند. آن‌ها با قاشق به کاسه می‌زدند، بی‌آنکه حرفی بزنند، تا صاحب‌خانه چیزی در کاسه‌شان بگذارد. خانم احمدی، همسایه‌ی روبه‌رو، در کاسه‌ی سارا آجیل و شیرینی ریخت و گفت: «امیدوارم سال خوبی داشته باشید!» این آجیل را آجیل مشکل‌گشا می‌نامند و می‌گویند هر کس آن را بخورد، گره از کارش باز می‌شود. مینا هم به رسم قدیم فال‌گوش ایستاد؛ یعنی پنهانی به حرف رهگذران گوش داد تا از آن، آینده‌ی سال نو را حدس بزند.
 
-نزدیک نیمه‌شب، مادربزرگ یک کوزه‌ی کهنه را از پشت‌بام به کوچه انداخت تا بدبختی‌های سال کهنه هم همراه آن از خانه بیرون برود. کوزه با صدای بلندی شکست و همه دست زدند. پدر قبل از این‌که بچه‌ها بخوابند، به امیر گفت که هیچ‌وقت ترقه نخرد، چون هر سال عده‌ی زیادی در این شب زخمی می‌شوند. سارا هنوز بوی دود می‌داد، اما با لبخند خوابید؛ تا نوروز فقط چند روز مانده بود.
+نزدیک نیمه‌شب، مادربزرگ یک کوزه‌ی کهنه را از پشت‌بام به کوچه انداخت تا بدبختی‌های سال کهنه هم همراه آن از خانه بیرون برود. کوزه با صدای بلندی شکست و همه دست زدند. رضا قبل از این‌که سارا بخوابد، به امیر گفت که هیچ‌وقت برای او ترقه نخرد، چون هر سال عده‌ی زیادی در این شب زخمی می‌شوند. سارا هنوز بوی دود می‌داد، اما با لبخند خوابید؛ تا نوروز فقط چند روز مانده بود.
 
 ### Line by line
 
 - آخرین سه‌شنبه‌ی سال بود و از عصر صدای ترقه در همه‌ی کوچه‌ها شنیده می‌شد.  
   *ākharin se-shanbe-ye sāl bud o az asr sedā-ye taraghghe dar hame-ye kuche-hā shenide mi-shod.* — It was the last Tuesday of the year, and from late afternoon the bang of firecrackers could be heard in every lane.
-- امیر و خواهر کوچکش سارا از صبح منتظر این شب بودند.  
-  *Amir o khāhar-e kuchak-ash Sārā az sobh montazer-e in shab budand.* — Amir and his little sister Sara had been waiting for this night since morning.
-- پدرشان چند بغل بوته‌ی خشک از بیرون شهر آورده بود و همسایه‌ها آن‌ها را در کوچه در سه ردیف چیده بودند.  
-  *pedar-eshān chand baghal bute-ye khoshk az birun-e shahr āvarde bud o hamsāye-hā ān-hā rā dar kuche dar se radif chide budand.* — Their father had brought several armfuls of dry brushwood from outside the city, and the neighbours had laid it out in the lane in three rows.
+- سارا و دایی‌اش امیر از صبح منتظر این شب بودند.  
+  *Sārā o dāyi-ash Amir az sobh montazer-e in shab budand.* — Sara and her uncle Amir had been waiting for this night since morning.
+- رضا چند بغل بوته‌ی خشک از بیرون شهر آورده بود و همسایه‌ها آن‌ها را در کوچه در سه ردیف چیده بودند.  
+  *Rezā chand baghal bute-ye khoshk az birun-e shahr āvarde bud o hamsāye-hā ān-hā rā dar kuche dar se radif chide budand.* — Reza had brought several armfuls of dry brushwood from outside the city, and the neighbours had laid it out in the lane in three rows.
 - مادربزرگ گفت که در کودکی او ترقه‌ای در کار نبود و مردم فقط آتش روشن می‌کردند و آواز می‌خواندند.  
   *mādar-bozorg goft ke dar kudaki-ye u taraghghe-i dar kār na-bud o mardom faghat ātash rowshan mi-kardand o āvāz mi-khāndand.* — Grandmother said that when she was a child there were no firecrackers: people just lit fires and sang.
-- وقتی هوا تاریک شد، پدر بوته‌ها را آتش زد و شعله‌ها تا بالای دیوارها رسیدند.  
-  *vaghti havā tārik shod, pedar bute-hā rā ātash zad o sho'le-hā tā bālā-ye divār-hā residand.* — When it got dark, Father set fire to the brushwood, and the flames leapt as high as the tops of the walls.
+- وقتی هوا تاریک شد، رضا بوته‌ها را آتش زد و شعله‌ها تا بالای دیوارها رسیدند.  
+  *vaghti havā tārik shod, Rezā bute-hā rā ātash zad o sho'le-hā tā bālā-ye divār-hā residand.* — When it got dark, Reza set fire to the brushwood, and the flames leapt as high as the tops of the walls.
 - همه یکی‌یکی از روی آتش پریدند و با صدای بلند گفتند: «زردی من از تو، سرخی تو از من!»  
   *hame yeki-yeki az ru-ye ātash paridand o bā sedā-ye boland goftand: «zardi-ye man az to, sorkhi-ye to az man!»* — One by one everybody jumped over the fire, calling out: "My yellow to you, your red to me!"
 - سارا اول می‌ترسید، اما امیر دستش را گرفت و با هم پریدند.  
@@ -45,14 +45,14 @@ On the last Tuesday evening before Nowruz, Iranians light bonfires in the street
   *khānom-e Ahmadi, hamsāye-ye ru-be-ru, dar kāse-ye Sārā ājil o shirini rikht o goft: «omidvār-am sāl-e khub-i dāshte bāshid!»* — Mrs Ahmadi, the neighbour across the lane, poured nuts and sweets into Sara's bowl and said: "I hope you have a good year!"
 - این آجیل را آجیل مشکل‌گشا می‌نامند و می‌گویند هر کس آن را بخورد، گره از کارش باز می‌شود.  
   *in ājil rā ājil-e moshkel-goshā mi-nāmand o mi-guyand har kas ān rā be-khorad, gereh az kār-ash bāz mi-shavad.* — This mixture of nuts is called 'problem-solving ājil', and they say whoever eats it will see the knots in their life come undone.
-- مادر هم به رسم قدیم فال‌گوش ایستاد؛ یعنی پنهانی به حرف رهگذران گوش داد تا از آن، آینده‌ی سال نو را حدس بزند.  
-  *mādar ham be rasm-e ghadim fāl-gush istād; ya'ni penhāni be harf-e rahgozarān gush dād tā az ān, āyande-ye sāl-e now rā hads be-zanad.* — Mother, following the old custom, stood fāl-gush: she secretly listened to what passers-by were saying, to guess from it what the new year would bring.
+- مینا هم به رسم قدیم فال‌گوش ایستاد؛ یعنی پنهانی به حرف رهگذران گوش داد تا از آن، آینده‌ی سال نو را حدس بزند.  
+  *Minā ham be rasm-e ghadim fāl-gush istād; ya'ni penhāni be harf-e rahgozarān gush dād tā az ān, āyande-ye sāl-e now rā hads be-zanad.* — Mina, following the old custom, stood fāl-gush: she secretly listened to what passers-by were saying, to guess from it what the new year would bring.
 - نزدیک نیمه‌شب، مادربزرگ یک کوزه‌ی کهنه را از پشت‌بام به کوچه انداخت تا بدبختی‌های سال کهنه هم همراه آن از خانه بیرون برود.  
   *nazdik-e nime-shab, mādar-bozorg yek kuze-ye kohne rā az posht-bām be kuche andākht tā bad-bakhti-hā-ye sāl-e kohne ham hamrāh-e ān az khāne birun be-ravad.* — Near midnight Grandmother threw an old clay jug from the roof into the lane, so that the old year's bad luck would leave the house along with it.
 - کوزه با صدای بلندی شکست و همه دست زدند.  
   *kuze bā sedā-ye boland-i shekast o hame dast zadand.* — The jug smashed with a loud crash, and everyone clapped.
-- پدر قبل از این‌که بچه‌ها بخوابند، به امیر گفت که هیچ‌وقت ترقه نخرد، چون هر سال عده‌ی زیادی در این شب زخمی می‌شوند.  
-  *pedar ghabl az in-ke bacche-hā be-khāband, be Amir goft ke hich-vaght taraghghe na-kharad, chon har sāl edde-ye ziyād-i dar in shab zakhmi mi-shavand.* — Before the children went to bed, Father told Amir never to buy firecrackers, because every year a lot of people get hurt on this night.
+- رضا قبل از این‌که سارا بخوابد، به امیر گفت که هیچ‌وقت برای او ترقه نخرد، چون هر سال عده‌ی زیادی در این شب زخمی می‌شوند.  
+  *Rezā ghabl az in-ke Sārā be-khābad, be Amir goft ke hich-vaght barā-ye u taraghghe na-kharad, chon har sāl edde-ye ziyād-i dar in shab zakhmi mi-shavand.* — Before Sara went to bed, Reza told Amir never to buy her firecrackers, because every year a lot of people get hurt on this night.
 - سارا هنوز بوی دود می‌داد، اما با لبخند خوابید؛ تا نوروز فقط چند روز مانده بود.  
   *Sārā hanuz bu-ye dud mi-dād, ammā bā labkhand khābid; tā nowruz faghat chand ruz mānde bud.* — Sara still smelled of smoke, but she fell asleep smiling: there were only a few days left until Nowruz.
 

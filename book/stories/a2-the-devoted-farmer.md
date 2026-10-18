@@ -15,7 +15,7 @@ Generations of Iranian children have read the story of Riz Ali, the 'devoted far
 
 ریزعلی فوراً کتش را درآورد و آن را سر یک چوب بست. بعد نفت فانوس را روی کت ریخت و آن را آتش زد. او وسط ریل ایستاد و چوب آتشین را بالای سرش تکان داد.
 
-راننده‌ی قطار آتش را دید و ترمز کرد. قطار درست چند متر جلوتر از سنگ‌ها ایستاد. مسافران از قطار پیاده شدند و وقتی سنگ‌ها را دیدند، فهمیدند که چه اتفاقی افتاده است. آن‌ها ریزعلی را بغل کردند و از او تشکر کردند. دست‌های ریزعلی سوخته بود، اما او خوشحال بود که جان آن همه آدم را نجات داده است.
+راننده‌ی قطار آتش را دید و ترمز کرد. قطار درست چند متر مانده به سنگ‌ها ایستاد. مسافران از قطار پیاده شدند و وقتی سنگ‌ها را دیدند، فهمیدند که چه اتفاقی افتاده است. آن‌ها ریزعلی را بغل کردند و از او تشکر کردند. دست‌های ریزعلی سوخته بود، اما او خوشحال بود که جان آن همه آدم را نجات داده است.
 
 ### Line by line
 
@@ -43,8 +43,8 @@ Generations of Iranian children have read the story of Riz Ali, the 'devoted far
   *u vasat-e reyl istād o chub-e ātashin rā bālā-ye sar-ash tekān dād.* — He stood in the middle of the track and waved the burning stick above his head.
 - راننده‌ی قطار آتش را دید و ترمز کرد.  
   *rānande-ye ghatār ātash rā did o tormoz kard.* — The train driver saw the fire and braked.
-- قطار درست چند متر جلوتر از سنگ‌ها ایستاد.  
-  *ghatār dorost chand metr jelo-tar az sang-hā istād.* — The train stopped just a few metres before the rocks.
+- قطار درست چند متر مانده به سنگ‌ها ایستاد.  
+  *ghatār dorost chand metr mānde be sang-hā istād.* — The train stopped just a few metres before the rocks.
 - مسافران از قطار پیاده شدند و وقتی سنگ‌ها را دیدند، فهمیدند که چه اتفاقی افتاده است.  
   *mosāferān az ghatār piyāde shodand o vaghti sang-hā rā didand, fahmidand ke che ettefāgh-i oftāde ast.* — The passengers got off the train, and when they saw the rocks, they understood what had happened.
 - آن‌ها ریزعلی را بغل کردند و از او تشکر کردند.  

@@ -270,7 +270,7 @@ _A short tale written for this lesson in the manner of classical prose. Count th
   _سخت (*sakht*) here means 'very'. The description follows the verb بود (*bud*)._
 - هر شب زر خویش بشمردی و در صندوقی نهادی.  
   *har shab zar-e khish beshmordi va dar sandugh-i nahādi.* — Every night he would count his gold and put it away in a chest.  
-  _بشمردی (*beshmordi*) = می‌شمرد (*mi-shemord*), نهادی (*nahādi*) = می‌گذاشت (*mi-gozāsht*)._
+  _بشمردی (*beshmordi*) = می‌شمرد (*mi-shomord*), نهادی (*nahādi*) = می‌گذاشت (*mi-gozāsht*)._
 - و همسایگان را از نان خویش بهره‌ای نبود.  
   *va hamsāyegān rā az nān-e khish bahre-i nabud.* — And his neighbours had no share of his bread.  
   _X را … نبود 'X did not have' – را marks the possessor._
@@ -428,10 +428,10 @@ In speech, literary words are used for effect: to be solemn at a funeral, to be 
 
 **Put the words in order**
 
-1. مرا / خود / خواند. / نزد / روزی — One day he called me to him.
-2. هر / زر / خویش / بشمردی. / شب — Every night he would count his gold.
-3. از / پس / مهمانان / یکی / دیگری / وارد / شدند. — The guests came in one after another.
-4. سال‌ها / فروخته / و / خانه / گذشت / شد. — Years passed and the house was sold.
+1. خواند. / خود / نزد / مرا / روزی — One day he called me to him.
+2. شب / بشمردی. / خویش / هر / زر — Every night he would count his gold.
+3. یکی / پس / از / مهمانان / دیگری / وارد / شدند. — The guests came in one after another.
+4. و / شد. / گذشت / خانه / سال‌ها / فروخته — Years passed and the house was sold.
 
 <details><summary>Answers</summary>
 

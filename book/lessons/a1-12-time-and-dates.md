@@ -299,10 +299,10 @@ The biggest date of all is نوروز (*nowruz*, ‘new day’). The exact momen
 
 **Put the words in order**
 
-1. تولد / است؟ / کِی / تو — When is your birthday?
-2. ربع / سه / و / ساعت / است. — It's a quarter past three.
-3. خانه‌ی / به / مادربزرگم / جمعه‌ها / می‌روم. — On Fridays I go to my grandmother's house.
-4. باز / اول / مهر / می‌شوند. / مدرسه‌ها — Schools open on the first of Mehr.
+1. است؟ / تو / تولد / کِی — When is your birthday?
+2. و / است. / سه / ربع / ساعت — It's a quarter past three.
+3. خانه‌ی / مادربزرگم / به / جمعه‌ها / می‌روم. — On Fridays I go to my grandmother's house.
+4. مدرسه‌ها / اول / باز / مهر / می‌شوند. — Schools open on the first of Mehr.
 
 <details><summary>Answers</summary>
 

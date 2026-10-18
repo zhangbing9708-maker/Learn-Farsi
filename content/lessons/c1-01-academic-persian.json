@@ -700,7 +700,7 @@
     },
     {
      "fa": "باید توجه داشت که حجم نمونه کوچک بود.",
-     "r": "bāyad tavajjoh dāsht ke hajm-e nemune kuchek bud.",
+     "r": "bāyad tavajjoh dāsht ke hajm-e nemune kuchak bud.",
      "en": "It should be noted that the sample was small.",
      "faV": "بایَد تَوَجُّه داشت که حَجمِ نِمونه کوچِک بود.",
      "a": "d8e5f5e54a58"
@@ -835,7 +835,7 @@
     },
     {
      "fa": "حجم نمونه کوچک بود؛ از این رو، نتایج را باید با احتیاط تعمیم داد.",
-     "r": "hajm-e nemune kuchek bud; az in ru, natāyej rā bāyad bā ehtiyāt ta'mim dād.",
+     "r": "hajm-e nemune kuchak bud; az in ru, natāyej rā bāyad bā ehtiyāt ta'mim dād.",
      "en": "The sample was small; the results should therefore be generalised with caution.",
      "faV": "حَجمِ نِمونه کوچِک بود؛ اَز این رو، نَتایِج را بایَد با اِحتیاط تَعمیم داد.",
      "a": "63808dc6784b"
@@ -967,7 +967,7 @@
     },
     {
      "fa": "حجم کوچک نمونه از محدودیت‌های این پژوهش است و تعمیم نتایج را دشوار می‌کند.",
-     "r": "hajm-e kuchek-e nemune az mahdudiyat-hā-ye in pazhuhesh ast o ta'mim-e natāyej rā doshvār mi-konad.",
+     "r": "hajm-e kuchak-e nemune az mahdudiyat-hā-ye in pazhuhesh ast o ta'mim-e natāyej rā doshvār mi-konad.",
      "en": "The small sample is one of the study's limitations and makes the results hard to generalise.",
      "note": "Move 9, limitations. از … است 'is (one) of …' – no یکی needed.",
      "faV": "حَجمِ کوچِکِ نِمونه اَز مَحدودیَت‌هایِ این پَژوهِش اَست و تَعمیمِ نَتایِج را دُشوار می‌کُنَد.",
@@ -1057,7 +1057,7 @@
     },
     {
      "fa": "حجم نمونه کوچک بود؛ از این ___، نتایج را نمی‌توان تعمیم داد.",
-     "r": "hajm-e nemune kuchek bud; az in ___, natāyej rā nemi-tavān ta'mim dād.",
+     "r": "hajm-e nemune kuchak bud; az in ___, natāyej rā nemi-tavān ta'mim dād.",
      "en": "The sample was small; hence the results cannot be generalised.",
      "answer": "رو",
      "hint": "literally 'face'"

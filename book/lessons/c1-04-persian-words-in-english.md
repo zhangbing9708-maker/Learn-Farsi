@@ -143,7 +143,7 @@ Talking about origins in Persian, you need only a handful of patterns: … از 
 - کاروان‌ها شب را در کاروانسرا می‌گذراندند.  
   *kārvān-hā shab rā dar kārvānsarā mi-gozarāndand.* — The caravans spent the night in the caravanserai.
 - در فارسی به بنایی کوچک در میان باغ «کوشک» می‌گویند.  
-  *dar fārsi be banā-yi kuchek dar miyān-e bāgh «kushk» mi-guyand.* — In Persian a small building in the middle of a garden is called a kushk.
+  *dar fārsi be banā-yi kuchak dar miyān-e bāgh «kushk» mi-guyand.* — In Persian a small building in the middle of a garden is called a kushk.
 - دیوان حافظ در بیشتر خانه‌های ایرانی پیدا می‌شود.  
   *divān-e Hāfez dar bish-tar-e khāne-hā-ye Irāni peydā mi-shavad.* — You will find a Divan of Hafez in most Iranian homes.
 - ایرانی‌ها امروز «پیژامه» می‌گویند، که از راه فرانسه به فارسی بازگشته است.  
@@ -366,10 +366,10 @@ The traffic now runs mostly the other way. Modern Persian is full of English and
 
 **Put the words in order**
 
-1. واژه / از / رسید. / به / انگلیسی / راه / این / ترکی — This word reached English by way of Turkish.
-2. هر / شلوغ / بازار / تهران / است. / روز / بزرگ — Tehran's Grand Bazaar is busy every day.
-3. می‌شود. / در / خانه‌ها / بیشتر / حافظ / پیدا / دیوان — A Divan of Hafez can be found in most homes.
-4. قند / می‌نوشند. / چای / ایرانیان / با / را — Iranians drink tea with lump sugar.
+1. رسید. / به / واژه / از / راه / ترکی / انگلیسی / این — This word reached English by way of Turkish.
+2. است. / بزرگ / شلوغ / تهران / هر / بازار / روز — Tehran's Grand Bazaar is busy every day.
+3. در / پیدا / می‌شود. / دیوان / حافظ / بیشتر / خانه‌ها — A Divan of Hafez can be found in most homes.
+4. با / ایرانیان / را / چای / قند / می‌نوشند. — Iranians drink tea with lump sugar.
 
 <details><summary>Answers</summary>
 

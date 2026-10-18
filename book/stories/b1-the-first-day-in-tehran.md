@@ -17,7 +17,7 @@ Tom, the Australian student you have met in the lessons, lands in Tehran for a y
 
 مترو شلوغ بود و تام نزدیک بود سوار واگن اول شود که یک خانم با لبخند گفت: «آقا، این واگن مخصوص بانوان است!» تام سرخ شد، عذرخواهی کرد و به واگن بعدی رفت. در مترو فروشنده‌ها همه چیز می‌فروختند: جوراب، آدامس، شارژر تلفن و حتی گل. مرد جوانی که کنار تام ایستاده بود، به او کمک کرد که در ایستگاه درست پیاده شود. وقتی از مترو بیرون آمد، آفتاب درآمده بود و کوه‌های برفی البرز بالای شهر دیده می‌شدند.
 
-خانه‌ی کریمی‌ها در کوچه‌ای آرام نزدیک خیابان ولیعصر بود. آقا و خانم کریمی و پسرشان رضا دم در منتظر او بودند. خانم کریمی گفت: «خوش آمدی پسرم! حتماً خیلی خسته‌ای.» و فوراً برایش چای و میوه آورد. رضا می‌خواست با تام انگلیسی حرف بزند، اما تام گفت که آمده است فارسی یاد بگیرد. شام آن شب قورمه‌سبزی بود و تام آن‌قدر خورد که سر سفره خوابش برد. وقتی بیدار شد، یک پتو رویش بود و خانم کریمی آرام گفت: «این‌جا خانه‌ی خودت است.»
+خانه‌ی کریمی‌ها در کوچه‌ای آرام نزدیک خیابان ولیعصر بود. آقا و خانم کریمی و پسرشان کیان دم در منتظر او بودند. خانم کریمی گفت: «خوش آمدی پسرم! حتماً خیلی خسته‌ای.» و فوراً برایش چای و میوه آورد. کیان می‌خواست با تام انگلیسی حرف بزند، اما تام گفت که آمده است فارسی یاد بگیرد. شام آن شب قورمه‌سبزی بود و تام آن‌قدر خورد که سر سفره خوابش برد. وقتی بیدار شد، یک پتو رویش بود و خانم کریمی آرام گفت: «این‌جا خانه‌ی خودت است.»
 
 ### Line by line
 
@@ -57,12 +57,12 @@ Tom, the Australian student you have met in the lessons, lands in Tehran for a y
   *vaghti az metro birun āmad, āftāb dar-āmade bud o kuh-hā-ye barfi-ye Alborz bālā-ye shahr dide mi-shodand.* — When he came out of the metro the sun had risen, and the snowy Alborz mountains could be seen above the city.
 - خانه‌ی کریمی‌ها در کوچه‌ای آرام نزدیک خیابان ولیعصر بود.  
   *khāne-ye Karimi-hā dar kuche-i ārām nazdik-e khiyābān-e Vali-asr bud.* — The Karimis' house was in a quiet lane near Valiasr Street.
-- آقا و خانم کریمی و پسرشان رضا دم در منتظر او بودند.  
-  *āghā o khānom-e Karimi o pesar-eshān Rezā dam-e dar montazer-e u budand.* — Mr and Mrs Karimi and their son Reza were waiting for him at the door.
+- آقا و خانم کریمی و پسرشان کیان دم در منتظر او بودند.  
+  *āghā o khānom-e Karimi o pesar-eshān Kiyān dam-e dar montazer-e u budand.* — Mr and Mrs Karimi and their son Kian were waiting for him at the door.
 - خانم کریمی گفت: «خوش آمدی پسرم! حتماً خیلی خسته‌ای.» و فوراً برایش چای و میوه آورد.  
-  *khānom-e Karimi goft: «khosh āmadi pesar-am! hatman kheyli khaste-i.» o foran barā-yash chāy o mive āvard.* — Mrs Karimi said: "Welcome, my son! You must be very tired," and at once brought him tea and fruit.
-- رضا می‌خواست با تام انگلیسی حرف بزند، اما تام گفت که آمده است فارسی یاد بگیرد.  
-  *Rezā mi-khāst bā Tām engelisi harf be-zanad, ammā Tām goft ke āmade ast fārsi yād be-girad.* — Reza wanted to speak English with Tom, but Tom said he had come to learn Persian.
+  *khānom-e Karimi goft: «khosh āmadi pesar-am! hatman kheyli khaste-i.» o fowran barā-yash chāy o mive āvard.* — Mrs Karimi said: "Welcome, my son! You must be very tired," and at once brought him tea and fruit.
+- کیان می‌خواست با تام انگلیسی حرف بزند، اما تام گفت که آمده است فارسی یاد بگیرد.  
+  *Kiyān mi-khāst bā Tām engelisi harf be-zanad, ammā Tām goft ke āmade ast fārsi yād be-girad.* — Kian wanted to speak English with Tom, but Tom said he had come to learn Persian.
 - شام آن شب قورمه‌سبزی بود و تام آن‌قدر خورد که سر سفره خوابش برد.  
   *shām-e ān shab ghorme-sabzi bud o Tām ān-ghadr khord ke sar-e sofre khāb-ash bord.* — Dinner that night was ghormeh sabzi, and Tom ate so much that he fell asleep right there at the sofreh.
 - وقتی بیدار شد، یک پتو رویش بود و خانم کریمی آرام گفت: «این‌جا خانه‌ی خودت است.»  
@@ -93,11 +93,11 @@ Tom, the Australian student you have met in the lessons, lands in Tehran for a y
 
 **Choose the right answer**
 
-1. Why had Tom come to Iran? — to work as an English teacher / to study for a year at the University of Tehran / to visit his friend Reza
+1. Why had Tom come to Iran? — to work as an English teacher / to study for a year at the University of Tehran / to visit his friend Kian
 2. Why did the driver take Tom to a metro station? — the taxi had broken down / Tom had asked him to / driving to the north of the city would take two hours
 3. What did Tom do when the driver said «قابل ندارد»? — he left without paying / he insisted until the driver named the price / he paid twice the price
 4. What mistake did Tom almost make in the metro? — getting into the women's carriage / getting off at the wrong station / buying flowers from a vendor
-5. Why didn't Tom want to speak English with Reza? — Reza didn't speak English / he had come to learn Persian / Mrs Karimi had asked him not to
+5. Why didn't Tom want to speak English with Kian? — Kian didn't speak English / he had come to learn Persian / Mrs Karimi had asked him not to
 
 <details><summary>Answers</summary>
 

@@ -21,7 +21,7 @@ _Mulla Nasreddin – usually just 'the Mulla' – is the wise fool of a thousand
 - روزی ملا از همسایه‌اش دیگی قرض گرفت.  
   *ruz-i Mollā az hamsāye-ash dig-i gharz gereft.* — One day the Mulla borrowed a big cooking pot from his neighbour.
 - چند روز بعد دیگ را پس برد و یک قابلمه‌ی کوچک هم در آن گذاشت.  
-  *chand ruz ba'd dig rā pas bord o yek ghāblame-ye kuchek ham dar ān gozāsht.* — A few days later he took the pot back, with a little saucepan inside it.
+  *chand ruz ba'd dig rā pas bord o yek ghāblame-ye kuchak ham dar ān gozāsht.* — A few days later he took the pot back, with a little saucepan inside it.
 - همسایه با تعجب پرسید: «این قابلمه چیست؟»  
   *hamsāye bā ta'ajjob porsid: «in ghāblame chist?»* — The neighbour asked in surprise, 'What's this saucepan?'
 - ملا گفت: «مبارک باشد! دیگ شما زایید.»  
@@ -362,10 +362,10 @@ _Obeyd Zakani (died about 1370) lived in Shiraz in the age of Hafez and was the 
 
 **Put the words in order**
 
-1. از / همسایه / دیگی / قرض / گرفت. / ملا — The Mulla borrowed a pot from the neighbour.
-2. شما / زایید. / دیگ — Your pot has had a baby.
-3. و / سیر / سیر / خوردم / شدم. — I ate garlic and got full.
-4. موضوع / این / شوخی‌بردار / نیست. — This is no joking matter.
+1. قرض / دیگی / از / همسایه / ملا / گرفت. — The Mulla borrowed a pot from the neighbour.
+2. شما / دیگ / زایید. — Your pot has had a baby.
+3. و / سیر / سیر / شدم. / خوردم — I ate garlic and got full.
+4. موضوع / شوخی‌بردار / این / نیست. — This is no joking matter.
 
 <details><summary>Answers</summary>
 

@@ -288,10 +288,10 @@ Iran, for its part, is home to many languages. In the north-west, around Tabriz,
 
 **Put the words in order**
 
-1. صحبت / کمی / من / فارسی / می‌کنم. — I speak a little Persian.
-2. برادرم / در / زندگی / می‌کند. / کانادا — My brother lives in Canada.
-3. شما / بلدید؟ / انگلیسی — Do you speak English?
-4. مادری / من / انگلیسی / است. / زبان — My mother tongue is English.
+1. فارسی / کمی / صحبت / من / می‌کنم. — I speak a little Persian.
+2. می‌کند. / در / برادرم / زندگی / کانادا — My brother lives in Canada.
+3. شما / انگلیسی / بلدید؟ — Do you speak English?
+4. است. / انگلیسی / زبان / من / مادری — My mother tongue is English.
 
 <details><summary>Answers</summary>
 

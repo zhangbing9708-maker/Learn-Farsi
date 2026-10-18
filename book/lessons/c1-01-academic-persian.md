@@ -188,7 +188,7 @@ Two patterns are grammatical but widely criticised by Persian editors: توسط 
 - می‌توان نتیجه گرفت که انگیزه نقش مهمی دارد.  
   *mi-tavān natije gereft ke angize naghsh-e mohemm-i dārad.* — One can conclude that motivation plays an important role.
 - باید توجه داشت که حجم نمونه کوچک بود.  
-  *bāyad tavajjoh dāsht ke hajm-e nemune kuchek bud.* — It should be noted that the sample was small.
+  *bāyad tavajjoh dāsht ke hajm-e nemune kuchak bud.* — It should be noted that the sample was small.
 - نگارنده در این مقاله سه دلیل برای این پدیده پیشنهاد می‌کند.  
   *negārande dar in maghāle se dalil barā-ye in padide pishnahād mi-konad.* — In this article I propose three reasons for this phenomenon.  
   Literally: the writer in this article proposes three reasons for this phenomenon
@@ -230,7 +230,7 @@ A Persian scholar rarely says *X is true*. The claim is softened (**hedged**), a
 - به گفته‌ی احمدی، بیشتر زبان‌آموزان از اشتباه کردن می‌ترسند.  
   *be gofte-ye Ahmadi, bish-tar-e zabān-āmuzān az eshtebāh kardan mi-tarsand.* — According to Ahmadi, most language learners are afraid of making mistakes.
 - حجم نمونه کوچک بود؛ از این رو، نتایج را باید با احتیاط تعمیم داد.  
-  *hajm-e nemune kuchek bud; az in ru, natāyej rā bāyad bā ehtiyāt ta'mim dād.* — The sample was small; the results should therefore be generalised with caution.
+  *hajm-e nemune kuchak bud; az in ru, natāyej rā bāyad bā ehtiyāt ta'mim dād.* — The sample was small; the results should therefore be generalised with caution.
 - این یافته‌ها تا حدی با نتایج پژوهش‌های پیشین همخوانی دارند.  
   *in yāfte-hā tā hadd-i bā natāyej-e pazhuhesh-hā-ye pishin hamkhāni dārand.* — These findings are to some extent consistent with the results of earlier studies.
 - در مجموع، می‌توان گفت که فرضیه‌ی نخست تأیید شد.  
@@ -280,7 +280,7 @@ _Here is the abstract (چکیده) of an imaginary study, written the way a Pers
   *az in ru, pishnahād mi-shavad ke barnāme-hā-ye āmuzesh-e zabān-e fārsi morur-e fāsele-dār rā dar tarrāhi-ye dowre-hā lahāz konand.* — We therefore recommend that Persian-language programmes build spaced review into the design of their courses.  
   _Move 8, implications. پیشنهاد می‌شود 'it is recommended' – the standard impersonal recommendation._
 - حجم کوچک نمونه از محدودیت‌های این پژوهش است و تعمیم نتایج را دشوار می‌کند.  
-  *hajm-e kuchek-e nemune az mahdudiyat-hā-ye in pazhuhesh ast o ta'mim-e natāyej rā doshvār mi-konad.* — The small sample is one of the study's limitations and makes the results hard to generalise.  
+  *hajm-e kuchak-e nemune az mahdudiyat-hā-ye in pazhuhesh ast o ta'mim-e natāyej rā doshvār mi-konad.* — The small sample is one of the study's limitations and makes the results hard to generalise.  
   _Move 9, limitations. از … است 'is (one) of …' – no یکی needed._
 - واژگان کلیدی: تکرار فاصله‌دار، یادگیری واژگان، فارسی به‌عنوان زبان دوم، حافظه‌ی بلندمدت.  
   *vāzhegān-e kelidi: tekrār-e fāsele-dār, yādgiri-ye vāzhegān, fārsi be-onvān-e zabān-e dovvom, hāfeze-ye boland-moddat.* — Keywords: spaced repetition, vocabulary learning, Persian as a second language, long-term memory.
@@ -332,7 +332,7 @@ The choice between the two vocabularies is a matter of **style**, sometimes of c
 1. ___ نظر می‌رسد که این روش برای کودکان مؤثرتر باشد. (*___ nazar mi-resad ke in ravesh barā-ye kudakān mo'asser-tar bāshad.*) — It seems that this method may be more effective for children. (hint: 'it reaches ___ the view')
 2. چنان‌که کریمی ___ کرده است، انگیزه نقش مهمی دارد. (*chenān-ke Karimi ___ karde ast, angize naghsh-e mohemm-i dārad.*) — As Karimi has pointed out, motivation plays an important role. (hint: to point out = ___ کردن)
 3. بر ___ یافته‌های این پژوهش، تمرین روزانه مؤثرتر است. (*bar ___-e yāfte-hā-ye in pazhuhesh, tamrin-e ruzāne mo'asser-tar ast.*) — On the basis of this study's findings, daily practice is more effective. (hint: basis, foundation)
-4. حجم نمونه کوچک بود؛ از این ___، نتایج را نمی‌توان تعمیم داد. (*hajm-e nemune kuchek bud; az in ___, natāyej rā nemi-tavān ta'mim dād.*) — The sample was small; hence the results cannot be generalised. (hint: literally 'face')
+4. حجم نمونه کوچک بود؛ از این ___، نتایج را نمی‌توان تعمیم داد. (*hajm-e nemune kuchak bud; az in ___, natāyej rā nemi-tavān ta'mim dād.*) — The sample was small; hence the results cannot be generalised. (hint: literally 'face')
 5. داده‌ها از طریق پرسش‌نامه ___ شد. (*dāde-hā az tarigh-e porsesh-nāme ___ shod.*) — The data were collected by means of a questionnaire. (hint: gathering, collecting)
 6. هدف پژوهش ___، بررسی نقش انگیزه در یادگیری است. (*hadaf-e pazhuhesh-e ___, barrasi-ye naghsh-e angize dar yādgiri ast.*) — The aim of the present study is to examine the role of motivation in learning. (hint: present (as in 'the present study'))
 
@@ -395,10 +395,10 @@ The choice between the two vocabularies is a matter of **style**, sometimes of c
 
 **Put the words in order**
 
-1. که / پژوهش / است. / می‌دهد / انگیزه / این / مهم / نشان — This study shows that motivation is important.
-2. فرضیه‌ی / که / به / درست / می‌رسد / نظر / است. / نخست — It seems that the first hypothesis is correct.
-3. از / پرسش‌نامه / طریق / شدند. / داده‌ها / گردآوری — The data were collected by means of a questionnaire.
-4. داد. / تعمیم / باید / احتیاط / با / را / نتایج — The results should be generalised with caution.
+1. است. / انگیزه / می‌دهد / که / نشان / پژوهش / این / مهم — This study shows that motivation is important.
+2. نظر / است. / به / می‌رسد / فرضیه‌ی / که / نخست / درست — It seems that the first hypothesis is correct.
+3. از / پرسش‌نامه / داده‌ها / طریق / شدند. / گردآوری — The data were collected by means of a questionnaire.
+4. باید / با / احتیاط / نتایج / را / تعمیم / داد. — The results should be generalised with caution.
 
 <details><summary>Answers</summary>
 

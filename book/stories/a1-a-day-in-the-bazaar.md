@@ -9,7 +9,7 @@ Tom, an Australian student in Tehran, visits the Grand Bazaar with his friend Re
 
 ### The story
 
-امروز جمعه است. تام و رضا به بازار بزرگ تهران می‌روند. بازار خیلی بزرگ و خیلی شلوغ است. این‌جا همه چیز هست: فرش، طلا، لباس، ادویه و چای.
+امروز پنجشنبه است. تام و رضا به بازار بزرگ تهران می‌روند. بازار خیلی بزرگ و خیلی شلوغ است. این‌جا همه چیز هست: فرش، طلا، لباس، ادویه و چای.
 
 تام یک فرش کوچک می‌خواهد. او از فروشنده می‌پرسد: «ببخشید، این فرش چند است؟» فروشنده می‌گوید: «دو میلیون تومان.» تام می‌گوید: «خیلی گران است!»
 
@@ -19,8 +19,8 @@ Tom, an Australian student in Tehran, visits the Grand Bazaar with his friend Re
 
 ### Line by line
 
-- امروز جمعه است.  
-  *emruz jom'e ast.* — Today is Friday.
+- امروز پنجشنبه است.  
+  *emruz panjshanbe ast.* — Today is Thursday.
 - تام و رضا به بازار بزرگ تهران می‌روند.  
   *Tām o Rezā be bāzār-e bozorg-e Tehrān mi-ravand.* — Tom and Reza go to the Grand Bazaar of Tehran.
 - بازار خیلی بزرگ و خیلی شلوغ است.  
@@ -77,14 +77,14 @@ Tom, an Australian student in Tehran, visits the Grand Bazaar with his friend Re
 
 **Choose the right answer**
 
-1. What day is it? — Saturday / Friday / Monday
+1. What day is it? — Saturday / Thursday / Monday
 2. What does Tom want to buy? — gold / tea / a small carpet
 3. What is the first price the seller says? — one million tomans / one and a half million tomans / two million tomans
 4. What do the friends do after the bazaar? — they drink tea / they go to school / they buy gold
 
 <details><summary>Answers</summary>
 
-1. Friday
+1. Thursday
 2. a small carpet
 3. two million tomans
 4. they drink tea

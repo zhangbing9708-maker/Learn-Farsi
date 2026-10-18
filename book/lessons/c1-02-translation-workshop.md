@@ -306,7 +306,7 @@ Iran reads the world in translation. Walk down Enghelab Street in Tehran, opposi
 
 The traffic also runs the other way. The most famous translation from Persian is Edward FitzGerald's *Rubáiyát of Omar Khayyám* (1859) – so free that scholars still argue whether it is a translation or a new English poem inspired by Khayyam. FitzGerald took quatrains apart, combined them and invented lines, and yet his version made Khayyam one of the best-known poets in the English-speaking world. It is the perfect case study for this lesson's question: لفظ یا معنا؟ (*lafz yā ma'nā?*, ‘the words or the meaning?’)
 
-Iranian cinema and television add a third tradition: **dubbing** (دوبله (*dubleh*)). For decades foreign films have been dubbed into Persian by star voice actors, and a good dubbing team rewrites jokes, idioms and insults so that they land in Persian – a daily, very public lesson in translating the situation rather than the words.
+Iranian cinema and television add a third tradition: **dubbing** (دوبله (*duble*)). For decades foreign films have been dubbed into Persian by star voice actors, and a good dubbing team rewrites jokes, idioms and insults so that they land in Persian – a daily, very public lesson in translating the situation rather than the words.
 
 ![A statue of Omar Khayyam](https://upload.wikimedia.org/wikipedia/commons/b/b3/Hakim_Omar_Khayam_-_panoramio.jpg)
 <sub>A statue of Omar Khayyam. Photo: [Alireza Javaheri](https://commons.wikimedia.org/wiki/File:Hakim_Omar_Khayam_-_panoramio.jpg), CC BY 3.0.</sub>
@@ -390,10 +390,10 @@ Iranian cinema and television add a third tradition: **dubbing** (دوبله (*d
 
 **Put the words in order**
 
-1. دانشگاه / هر / مترو / به / با / روز / می‌رود. / تام — Tom goes to university by metro every day.
-2. که / ترجمه‌ی / خوبی / است. / کتابی / خریدم — The book I bought is a good translation.
-3. است / شش / در / زندگی / که / ماه / تهران / می‌کنم. — I've been living in Tehran for six months.
-4. معادل / واژه / ندارد. / در / انگلیسی / این / دقیقی — This word has no exact equivalent in English.
+1. می‌رود. / تام / به / با / مترو / هر / دانشگاه / روز — Tom goes to university by metro every day.
+2. است. / خوبی / خریدم / که / کتابی / ترجمه‌ی — The book I bought is a good translation.
+3. در / است / تهران / زندگی / که / ماه / شش / می‌کنم. — I've been living in Tehran for six months.
+4. در / ندارد. / واژه / انگلیسی / این / معادل / دقیقی — This word has no exact equivalent in English.
 
 <details><summary>Answers</summary>
 

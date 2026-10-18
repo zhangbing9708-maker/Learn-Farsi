@@ -9,7 +9,7 @@ Avicenna – Ibn Sina, or Bu Ali Sina as Iranians call him – was one of the gr
 
 ### The story
 
-ابوعلی سینا در سال ۹۸۰ میلادی در روستای افشنه، نزدیک بخارا، به دنیا آمد. پدرش در دستگاه امیران سامانی کار می‌کرد و به علم و دانش علاقه‌ی زیادی داشت. علی کوچک در ده‌سالگی همه‌ی قرآن و بسیاری از شعرها و کتاب‌های ادبی را از بر کرده بود. پدرش او را پیش یک سبزی‌فروش فرستاد که حساب هندی بلد بود، تا از او ریاضی یاد بگیرد.
+ابوعلی سینا در سال ۹۸۰ میلادی در روستای افشنه، نزدیک بخارا، به دنیا آمد. پدرش در دستگاه امیران سامانی کار می‌کرد و به علم و دانش علاقه‌ی زیادی داشت. ابن سینای کوچک در ده‌سالگی همه‌ی قرآن و بسیاری از شعرها و کتاب‌های ادبی را از بر کرده بود. پدرش او را پیش یک سبزی‌فروش فرستاد که حساب هندی بلد بود، تا از او ریاضی یاد بگیرد.
 
 کمی بعد، استادی به نام ناتلی به بخارا آمد و به او منطق درس داد، اما شاگرد خیلی زود از استاد جلو افتاد. از آن به بعد، به تنهایی درس می‌خواند و یک سال و نیم هیچ شبی را کامل نخوابید. هر وقت مسئله‌ای را نمی‌فهمید، به مسجد می‌رفت و دعا می‌کرد تا راه حل به ذهنش برسد. در شانزده‌سالگی به پزشکی رو آورد و بعدها نوشت که پزشکی از علوم دشوار نیست. به زودی پزشکان دیگر پیش او می‌آمدند تا از او یاد بگیرند، و او با درمان بیماران چیزهایی یاد می‌گرفت که در هیچ کتابی نبود.
 
@@ -25,8 +25,8 @@ Avicenna – Ibn Sina, or Bu Ali Sina as Iranians call him – was one of the gr
   *Abu-Ali Sinā dar sāl-e nohsad-o-hashtād-e milādi dar rustā-ye Afshane, nazdik-e Bokhārā, be donyā āmad.* — Abu Ali Sina was born in 980 AD in the village of Afshana, near Bukhara.
 - پدرش در دستگاه امیران سامانی کار می‌کرد و به علم و دانش علاقه‌ی زیادی داشت.  
   *pedar-ash dar dastgāh-e amirān-e Sāmāni kār mi-kard o be elm o dānesh alāghe-ye ziyād-i dāsht.* — His father worked in the service of the Samanid emirs and had a great love of learning.
-- علی کوچک در ده‌سالگی همه‌ی قرآن و بسیاری از شعرها و کتاب‌های ادبی را از بر کرده بود.  
-  *Ali-ye kuchak dar dah-sālegi hame-ye Ghor'ān o besyār-i az she'r-hā o ketāb-hā-ye adabi rā az bar karde bud.* — By the age of ten young Ali had learned the whole Quran and a great deal of poetry and literature by heart.
+- ابن سینای کوچک در ده‌سالگی همه‌ی قرآن و بسیاری از شعرها و کتاب‌های ادبی را از بر کرده بود.  
+  *Ebn-e Sinā-ye kuchak dar dah-sālegi hame-ye Ghor'ān o besyār-i az she'r-hā o ketāb-hā-ye adabi rā az bar karde bud.* — By the age of ten young Ibn Sina had learned the whole Quran and a great deal of poetry and literature by heart.
 - پدرش او را پیش یک سبزی‌فروش فرستاد که حساب هندی بلد بود، تا از او ریاضی یاد بگیرد.  
   *pedar-ash u rā pish-e yek sabzi-forush ferestād ke hesāb-e hendi balad bud, tā az u riyāzi yād be-girad.* — His father sent him to a greengrocer who knew Indian arithmetic, so that he could learn mathematics from him.
 - کمی بعد، استادی به نام ناتلی به بخارا آمد و به او منطق درس داد، اما شاگرد خیلی زود از استاد جلو افتاد.  

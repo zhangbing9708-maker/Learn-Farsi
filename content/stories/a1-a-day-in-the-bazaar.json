@@ -12,9 +12,9 @@
   {
    "sentences": [
     {
-     "fa": "امروز جمعه است.",
-     "r": "emruz jom'e ast.",
-     "en": "Today is Friday.",
+     "fa": "امروز پنجشنبه است.",
+     "r": "emruz panjshanbe ast.",
+     "en": "Today is Thursday.",
      "faV": "اِمروز جُمعه اَست.",
      "a": "5af091b02d3f"
     },
@@ -257,7 +257,7 @@
    "q": "What day is it?",
    "options": [
     "Saturday",
-    "Friday",
+    "Thursday",
     "Monday"
    ],
    "answer": 1

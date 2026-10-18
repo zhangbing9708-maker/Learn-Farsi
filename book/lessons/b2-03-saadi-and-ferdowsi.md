@@ -150,7 +150,7 @@ The most famous saj' in Persian is the opening of the Golestan, which every Iran
   *pas dar har nafas-i do ne'mat mowjud ast va bar har ne'mat-i shokr-i vājeb.* — So in every breath there are two blessings, and for every blessing a thanksgiving is due.  
   _Again no verb in the second half: شکری واجب (است) (*shokri vājeb (ast)*)._
 - باران رحمت بی‌حسابش همه را رسیده و خوان نعمت بی‌دریغش همه جا کشیده.  
-  *bārān-e rahmat-e bi-hesāb-ash hame rā reside va khān-e ne'mat-e bi-dareygh-ash hame jā keshide.* — The rain of His countless mercy has reached everyone, and the table of His unstinting bounty is spread everywhere.
+  *bārān-e rahmat-e bi-hesāb-ash hame rā reside va khān-e ne'mat-e bi-darigh-ash hame jā keshide.* — The rain of His countless mercy has reached everyone, and the table of His unstinting bounty is spread everywhere.
 - ده درویش در گلیمی بخسبند و دو پادشاه در اقلیمی نگنجند.  
   *dah darvish dar gelim-i bekhosband o do pādshāh dar eghlim-i nagonjand.* — Ten dervishes can sleep under one blanket, but two kings cannot fit into one country.  
   _A double rhyme: گلیمی (*gelimi*) / اقلیمی (*eghlimi*) and بخسبند (*bekhosband*) / نگنجند (*nagonjand*)._
@@ -234,7 +234,7 @@ Scholars warn against seeing a modern 'language purist' in Ferdowsi – he does 
   *tavānā bovad har ke dānā bovad / ze dānesh del-e pir bornā bovad* — Whoever is wise is powerful; through knowledge the heart of the old stays young.  
   _بود (*bovad*) is the old present 'is' (today است (*ast*)); برنا (*bornā*) 'young'. The first half is a favourite motto of Iranian schools._
 - به نام خداوند جان و خرد / کزین برتر اندیشه برنگذرد  
-  *be nām-e khodāvand-e jān o kherad / k-az-in bar-tar andishe bar-nagozarad* — In the name of the Lord of soul and wisdom, beyond whom no thought can rise.  
+  *be nām-e khodāvand-e jān o kherad / k-az-in bar-tar andishe bar-nagzarad* — In the name of the Lord of soul and wisdom, beyond whom no thought can rise.  
   _The first line of the Shahnameh. کزین (*kazin*) = که از این (*ke az in*). There is not a single Arabic word in it._
 - خداوند نام و خداوند جای / خداوند روزی‌ده رهنمای  
   *khodāvand-e nām o khodāvand-e jāy / khodāvand-e ruzi-deh-e rahnamāy* — Lord of name and Lord of place, Lord who gives our daily bread and shows the way.  
@@ -415,10 +415,10 @@ Every Iranian knows the names of the heroes: Rostam with his horse Rakhsh, the w
 
 **Put the words in order**
 
-1. حکیمی / بود. / در / آن / کشتی — There was a wise man on that boat.
-2. عجب / آمد. / را / ملک — The king was amazed.
-3. توانا / هر / که / بود / بود / دانا — Whoever is wise is powerful.
-4. از / عمرش / سال / صرف / شاهنامه / سرودن / سی / حدود / فردوسی / را / کرد. — Ferdowsi spent about thirty years of his life composing the Shahnameh.
+1. در / آن / بود. / حکیمی / کشتی — There was a wise man on that boat.
+2. عجب / آمد. / ملک / را — The king was amazed.
+3. توانا / بود / بود / هر / که / دانا — Whoever is wise is powerful.
+4. کرد. / از / سال / سرودن / را / سی / شاهنامه / فردوسی / حدود / عمرش / صرف — Ferdowsi spent about thirty years of his life composing the Shahnameh.
 
 <details><summary>Answers</summary>
 

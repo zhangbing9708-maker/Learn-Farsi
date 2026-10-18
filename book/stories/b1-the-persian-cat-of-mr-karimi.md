@@ -13,7 +13,7 @@ Pashmak, Mr Karimi's fluffy white Persian cat, disappears one Tuesday, and the w
 
 آقای کریمی صبح در را برای خریدن نان باز گذاشته بود و وقتی برگشت، پشمک دیگر روی مبل نبود. او همه‌ی خانه را گشت: زیر تخت، پشت یخچال، حتی درون ماشین لباس‌شویی. بعد با نگرانی عکسی از پشمک در گروه واتس‌اپ ساختمان فرستاد و نوشت: «گربه‌ی من گم شده است؛ اگر کسی او را دید، لطفاً به من خبر بدهد.»
 
-چند دقیقه بعد گوشی‌ها یکی پس از دیگری زنگ زدند. خانم احمدی نوشت که دیشب صدای میو میوی گربه‌ای را از پشت‌بام شنیده است. رضا، پسر طبقه‌ی اول، یک عکس تار از چیزی سفید روی دیوار حیاط فرستاد و پرسید: «این پشمک است؟» معلوم شد که آن چیز سفید فقط یک کیسه‌ی پلاستیکی بود و همه در گروه شکلک خنده فرستادند.
+چند دقیقه بعد گوشی‌ها یکی پس از دیگری زنگ زدند. خانم احمدی نوشت که دیشب صدای میو میوی گربه‌ای را از پشت‌بام شنیده است. پویا، پسر طبقه‌ی اول، یک عکس تار از چیزی سفید روی دیوار حیاط فرستاد و پرسید: «این پشمک است؟» معلوم شد که آن چیز سفید فقط یک کیسه‌ی پلاستیکی بود و همه در گروه شکلک خنده فرستادند.
 
 عصر، مینا و رضا با چراغ‌قوه همه‌ی کوچه را گشتند و از بقال و نانوا هم پرسیدند. نانوا گفت که صبح گربه‌ی سفیدی دیده، اما آن گربه دم سیاه داشته است. شب، آقای کریمی ناامید در گروه نوشت که اگر پشمک تا فردا پیدا نشود، آگهی در محله پخش خواهد کرد.
 
@@ -37,8 +37,8 @@ Pashmak, Mr Karimi's fluffy white Persian cat, disappears one Tuesday, and the w
   *chand daghighe ba'd gushi-hā yek-i pas az digari zang zadand.* — A few minutes later the phones began to ping, one after another.
 - خانم احمدی نوشت که دیشب صدای میو میوی گربه‌ای را از پشت‌بام شنیده است.  
   *khānom-e Ahmadi nevesht ke dishab sedā-ye miyu miyu-ye gorbe-i rā az posht-bām shenide ast.* — Ms Ahmadi wrote that the night before she had heard a cat miaowing on the roof.
-- رضا، پسر طبقه‌ی اول، یک عکس تار از چیزی سفید روی دیوار حیاط فرستاد و پرسید: «این پشمک است؟»  
-  *Rezā, pesar-e tabaghe-ye avval, yek 'aks-e tār az chiz-i sefid ru-ye divār-e hayāt ferestād o porsid: «in Pashmak ast?»* — Reza, the boy on the first floor, sent a blurry photo of something white on the courtyard wall and asked: "Is this Pashmak?"
+- پویا، پسر طبقه‌ی اول، یک عکس تار از چیزی سفید روی دیوار حیاط فرستاد و پرسید: «این پشمک است؟»  
+  *Puyā, pesar-e tabaghe-ye avval, yek 'aks-e tār az chiz-i sefid ru-ye divār-e hayāt ferestād o porsid: «in Pashmak ast?»* — Puya, the boy on the first floor, sent a blurry photo of something white on the courtyard wall and asked: "Is this Pashmak?"
 - معلوم شد که آن چیز سفید فقط یک کیسه‌ی پلاستیکی بود و همه در گروه شکلک خنده فرستادند.  
   *ma'lum shod ke ān chiz-e sefid faghat yek kise-ye pelāstiki bud o hame dar goruh shekalak-e khande ferestādand.* — It turned out the white thing was only a plastic bag, and everyone in the group sent laughing emojis.
 - عصر، مینا و رضا با چراغ‌قوه همه‌ی کوچه را گشتند و از بقال و نانوا هم پرسیدند.  
@@ -84,7 +84,7 @@ Pashmak, Mr Karimi's fluffy white Persian cat, disappears one Tuesday, and the w
 **Choose the right answer**
 
 1. Why was everyone surprised that Pashmak disappeared? — he is the laziest cat in the building / he is very old / he had never been outside
-2. What did Reza's blurry photo turn out to show? — a white pigeon / a plastic bag / the baker's cat
+2. What did Puya's blurry photo turn out to show? — a white pigeon / a plastic bag / the baker's cat
 3. Why was the baker's white cat not Pashmak? — it was too small / it had a black tail / it was wearing a collar
 4. What did Mr Karimi plan to do if Pashmak was not found by the next day? — buy a new cat / call the police / put up notices in the neighbourhood
 5. Where had Pashmak been all the time? — on the roof / shut in the basement storeroom / in Ms Ahmadi's flat

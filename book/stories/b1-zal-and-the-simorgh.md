@@ -54,7 +54,7 @@ Before Rostam there was his father, Zal – a baby born with white hair, whom hi
 - سیمرغ پاسخ داد: «نه، فرزندم؛ اما جای تو در میان مردم است.»  
   *Simorgh pāsokh dād: «na, farzand-am; ammā jā-ye to dar miyān-e mardom ast.»* — The Simorgh answered: "No, my child; but your place is among people."
 - سپس پری از بال خود برکند، به او داد و گفت: «اگر روزی در سختی افتادی، این پر را در آتش بینداز تا فوراً پیش تو بیایم.»  
-  *sepas par-i az bāl-e khod bar-kand, be u dād o goft: «agar ruz-i dar sakhti oftādi, in par rā dar ātash bi-yandāz tā foran pish-e to bi-yāyam.»* — Then she plucked a feather from her wing, gave it to him and said: "If you are ever in trouble, throw this feather into the fire and I will come to you at once."
+  *sepas par-i az bāl-e khod bar-kand, be u dād o goft: «agar ruz-i dar sakhti oftādi, in par rā dar ātash bi-yandāz tā fowran pish-e to bi-yāyam.»* — Then she plucked a feather from her wing, gave it to him and said: "If you are ever in trouble, throw this feather into the fire and I will come to you at once."
 - سام پسرش را در آغوش گرفت، گریه کرد و از او پوزش خواست.  
   *Sām pesar-ash rā dar āghush gereft, gerye kard o az u puzesh khāst.* — Sam took his son in his arms, wept and asked his forgiveness.
 - زال همراه پدرش به زابلستان رفت و بعدها یکی از بزرگ‌ترین پهلوانان ایران شد.  
@@ -62,7 +62,7 @@ Before Rostam there was his father, Zal – a baby born with white hair, whom hi
 - سال‌ها بعد، وقتی همسرش رودابه نمی‌توانست فرزندش را به دنیا بیاورد، زال پر سیمرغ را در آتش انداخت.  
   *sāl-hā ba'd, vaghti hamsar-ash Rudābe nemi-tavānest farzand-ash rā be donyā bi-yāvarad, Zāl par-e Simorgh rā dar ātash andākht.* — Years later, when his wife Rudabeh could not give birth to her child, Zal threw the Simorgh's feather into the fire.
 - سیمرغ فوراً آمد و به آن‌ها یاد داد که چگونه کودک را سالم به دنیا بیاورند؛ آن کودک رستم بود.  
-  *Simorgh foran āmad o be ān-hā yād dād ke chegune kudak rā sālem be donyā bi-yāvarand; ān kudak Rostam bud.* — The Simorgh came at once and showed them how to bring the child safely into the world; that child was Rostam.
+  *Simorgh fowran āmad o be ān-hā yād dād ke chegune kudak rā sālem be donyā bi-yāvarand; ān kudak Rostam bud.* — The Simorgh came at once and showed them how to bring the child safely into the world; that child was Rostam.
 
 ### Words
 

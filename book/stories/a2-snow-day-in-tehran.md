@@ -9,7 +9,7 @@ Sara wakes up to a white city and the best news an Iranian schoolchild can hear:
 
 ### The story
 
-صبح زود، مینا سارا را بیدار کرد و گفت: «سارا، بیا پنجره را ببین!» همه‌جا سفید بود و برف هنوز می‌بارید. مینا گفت: «اخبار گفت که امروز همه‌ی مدرسه‌های تهران تعطیل هستند.» سارا از خوشحالی بالا و پایین پرید.
+صبح زود، مینا سارا را بیدار کرد و گفت: «سارا، بیا از پنجره بیرون را ببین!» همه‌جا سفید بود و برف هنوز می‌بارید. مینا گفت: «اخبار گفت که امروز همه‌ی مدرسه‌های تهران تعطیل هستند.» سارا از خوشحالی بالا و پایین پرید.
 
 بعد از صبحانه، دایی امیر آمد. او هم سر کار نرفته بود، چون خیابان‌ها پر از برف بود. سارا و امیر لباس گرم پوشیدند و به حیاط رفتند. آن‌ها برف‌ها را جمع کردند و یک آدم‌برفی بزرگ ساختند. امیر یک هویج برای دماغش آورد و سارا شال قرمز خودش را دور گردن آدم‌برفی بست. سارا گفت: «دایی، آدم‌برفی ما از آدم‌برفی همسایه‌ها قشنگ‌تر است!»
 
@@ -19,8 +19,8 @@ Sara wakes up to a white city and the best news an Iranian schoolchild can hear:
 
 ### Line by line
 
-- صبح زود، مینا سارا را بیدار کرد و گفت: «سارا، بیا پنجره را ببین!»  
-  *sobh-e zud, Minā Sārā rā bidār kard o goft: «Sārā, biyā panjere rā bebin!»* — Early in the morning Mina woke Sara and said: "Sara, come and look out of the window!"
+- صبح زود، مینا سارا را بیدار کرد و گفت: «سارا، بیا از پنجره بیرون را ببین!»  
+  *sobh-e zud, Minā Sārā rā bidār kard o goft: «Sārā, biyā az panjere birun rā bebin!»* — Early in the morning Mina woke Sara and said: "Sara, come and look out of the window!"
 - همه‌جا سفید بود و برف هنوز می‌بارید.  
   *hame-jā sefid bud o barf hanuz mi-bārid.* — Everything was white, and the snow was still falling.
 - مینا گفت: «اخبار گفت که امروز همه‌ی مدرسه‌های تهران تعطیل هستند.»  

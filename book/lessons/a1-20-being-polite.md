@@ -316,10 +316,10 @@ Foreigners are forgiven almost everything. A safe rule: refuse an offer once, ac
 
 **Put the words in order**
 
-1. نکند. / خیلی / دستتان / خوشمزه / بود، / درد — It was delicious, thank you.
-2. بنشینید. / بفرمایید، / این‌جا — Please, sit here.
-3. کریمی / هستند؟ / آقای / ببخشید، — Excuse me, is Mr Karimi there?
-4. مهمان / فردا / باشید. / ما / شب — Be our guests tomorrow night.
+1. بود، / خیلی / درد / خوشمزه / نکند. / دستتان — It was delicious, thank you.
+2. بفرمایید، / این‌جا / بنشینید. — Please, sit here.
+3. هستند؟ / ببخشید، / کریمی / آقای — Excuse me, is Mr Karimi there?
+4. فردا / شب / باشید. / مهمان / ما — Be our guests tomorrow night.
 
 <details><summary>Answers</summary>
 

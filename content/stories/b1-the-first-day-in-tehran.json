@@ -154,23 +154,23 @@
      "a": "8756f4814dc7"
     },
     {
-     "fa": "آقا و خانم کریمی و پسرشان رضا دم در منتظر او بودند.",
-     "r": "āghā o khānom-e Karimi o pesar-eshān Rezā dam-e dar montazer-e u budand.",
-     "en": "Mr and Mrs Karimi and their son Reza were waiting for him at the door.",
+     "fa": "آقا و خانم کریمی و پسرشان کیان دم در منتظر او بودند.",
+     "r": "āghā o khānom-e Karimi o pesar-eshān Kiyān dam-e dar montazer-e u budand.",
+     "en": "Mr and Mrs Karimi and their son Kian were waiting for him at the door.",
      "faV": "آقا و خانُمِ کَریمی و پِسَرِشان رِضا دَمِ دَر مُنتَظِرِ او بودَند.",
      "a": "86e8e836c06f"
     },
     {
      "fa": "خانم کریمی گفت: «خوش آمدی پسرم! حتماً خیلی خسته‌ای.» و فوراً برایش چای و میوه آورد.",
-     "r": "khānom-e Karimi goft: «khosh āmadi pesar-am! hatman kheyli khaste-i.» o foran barā-yash chāy o mive āvard.",
+     "r": "khānom-e Karimi goft: «khosh āmadi pesar-am! hatman kheyli khaste-i.» o fowran barā-yash chāy o mive āvard.",
      "en": "Mrs Karimi said: \"Welcome, my son! You must be very tired,\" and at once brought him tea and fruit.",
      "faV": "خانُمِ کَریمی گُفت: «خوش آمَدی پِسَرَم! حَتماً خَیلی خَسته‌ای.» و فوراً بَرایَش چای و میوه آوَرد.",
      "a": "97a0c8a69923"
     },
     {
-     "fa": "رضا می‌خواست با تام انگلیسی حرف بزند، اما تام گفت که آمده است فارسی یاد بگیرد.",
-     "r": "Rezā mi-khāst bā Tām engelisi harf be-zanad, ammā Tām goft ke āmade ast fārsi yād be-girad.",
-     "en": "Reza wanted to speak English with Tom, but Tom said he had come to learn Persian.",
+     "fa": "کیان می‌خواست با تام انگلیسی حرف بزند، اما تام گفت که آمده است فارسی یاد بگیرد.",
+     "r": "Kiyān mi-khāst bā Tām engelisi harf be-zanad, ammā Tām goft ke āmade ast fārsi yād be-girad.",
+     "en": "Kian wanted to speak English with Tom, but Tom said he had come to learn Persian.",
      "faV": "رِضا می‌خواست با تام اِنگِلیسی حَرف بِزَنَد، اَمّا تام گُفت که آمَده اَست فارسی یاد بِگیرَد.",
      "a": "704039814283"
     },
@@ -311,7 +311,7 @@
    "options": [
     "to work as an English teacher",
     "to study for a year at the University of Tehran",
-    "to visit his friend Reza"
+    "to visit his friend Kian"
    ],
    "answer": 1
   },
@@ -343,9 +343,9 @@
    "answer": 0
   },
   {
-   "q": "Why didn't Tom want to speak English with Reza?",
+   "q": "Why didn't Tom want to speak English with Kian?",
    "options": [
-    "Reza didn't speak English",
+    "Kian didn't speak English",
     "he had come to learn Persian",
     "Mrs Karimi had asked him not to"
    ],
