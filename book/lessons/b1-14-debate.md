@@ -397,10 +397,10 @@ _A short opinion column in formal written Persian. It presents both sides – ا
 
 **Put the words in order**
 
-1. ببخشید، / این‌طور / ولی / فکر / نمی‌کنم. / من — Sorry, but I don't think so.
-2. منظورتان / این / باید / صبر / است / که / کنیم؟ — Do you mean that we should wait?
-3. است، / است. / دیگر / از / از / یک / طرف / طرف / جالب / شلوغ — On the one hand it's crowded, on the other hand it's interesting.
-4. را / بیایید / بحث / کنیم. / جمع‌بندی — Let's sum up the discussion.
+1. ببخشید، / من / ولی / این‌طور / نمی‌کنم. / فکر — Sorry, but I don't think so.
+2. که / کنیم؟ / است / صبر / باید / منظورتان / این — Do you mean that we should wait?
+3. یک / جالب / طرف / طرف / از / از / شلوغ / دیگر / است، / است. — On the one hand it's crowded, on the other hand it's interesting.
+4. بحث / بیایید / کنیم. / را / جمع‌بندی — Let's sum up the discussion.
 
 <details><summary>Answers</summary>
 

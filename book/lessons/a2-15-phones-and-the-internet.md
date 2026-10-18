@@ -223,7 +223,7 @@ _Almost every Iranian family has a group chat. Dariush describes his – watch f
   *esm-e goruh «khānevāde-ye khoshbakht» ast o si-o-do ozv dārad.* — The group is called 'The Happy Family', and it has 32 members.
 - هر روز صبح، پدربزرگ یک عکس گل با جمله‌ی «صبح بخیر» می‌فرستد.  
   *har ruz sobh, pedar-bozorg yek aks-e gol bā jomle-ye «sobh bekheyr» mi-ferestad.* — Every morning Grandfather sends a picture of flowers with the words 'Good morning'.
-- مادر داریوش همه‌ی خبر‌ها را فوروارد می‌کند، حتی خبر‌های قدیمی را.  
+- مادر داریوش همه‌ی خبرها را فوروارد می‌کند، حتی خبرهای قدیمی را.  
   *mādar-e Dāriush hame-ye khabar-hā rā forvārd mi-konad, hattā khabar-hā-ye ghadimi rā.* — Dariush's mother forwards all the news – even old news.
 - عمه‌اش پیام صوتی می‌فرستد، چون تایپ کردن را دوست ندارد.  
   *amme-ash payām-e sowti mi-ferestad, chon tāyp kardan rā dust na-dārad.* — His aunt sends voice messages, because she doesn't like typing.
@@ -350,10 +350,10 @@ The transliteration on this site is a stricter cousin of Finglish: it writes *ā
 
 **Put the words in order**
 
-1. لینک / برایتان / یک / می‌فرستم. — I'll send you a link.
-2. شماره‌ی / را / کارتم / گروه / در / می‌گذارم. — I'll put my card number in the group.
-3. وقتی / خبر / به / رسیدی، / من / بده. — Let me know when you get there.
-4. این / سخت‌افزار / است. / گوشی / خوب — This phone's hardware is good.
+1. می‌فرستم. / یک / برایتان / لینک — I'll send you a link.
+2. در / می‌گذارم. / کارتم / گروه / را / شماره‌ی — I'll put my card number in the group.
+3. من / خبر / بده. / به / رسیدی، / وقتی — Let me know when you get there.
+4. سخت‌افزار / گوشی / خوب / است. / این — This phone's hardware is good.
 
 <details><summary>Answers</summary>
 

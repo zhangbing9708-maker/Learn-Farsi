@@ -34,7 +34,7 @@ _Mina has finished her degree and has a job interview at a publishing house in T
 - **Mr Karimi:** در آن شرکت چه کار می‌کردید؟  
   *dar ān sherkat che kār mi-kardid?* — What did you do at that company?  
   Spoken: تو اون شرکت چی کار می‌کردین؟ *tu un sherkat chi kār mi-kardin?*
-- **Mina:** مترجم بودم. نامه‌ها و قرارداد‌های شرکت را ترجمه می‌کردم.  
+- **Mina:** مترجم بودم. نامه‌ها و قراردادهای شرکت را ترجمه می‌کردم.  
   *motarjem budam. nāme-hā o gharārdād-hā-ye sherkat rā tarjome mi-kardam.* — I was a translator. I translated the company's letters and contracts.  
   Spoken: مترجم بودم. نامه‌ها و قراردادای شرکتو ترجمه می‌کردم. *motarjem budam. nāme-hā o gharārdād-ā-ye sherkat-o tarjome mi-kardam.*
 - **Mr Karimi:** چرا می‌خواهید در انتشارات ما کار کنید؟  
@@ -243,13 +243,13 @@ _Tom describes a semester at the University of Tehran. Look for the -esh and -an
   *Tām dāneshju-ye zabān o adabiyyāt-e fārsi dar dāneshgāh-e Tehrān ast.* — Tom is a student of Persian language and literature at the University of Tehran.
 - دانشگاه تهران یکی از قدیمی‌ترین و بزرگ‌ترین دانشگاه‌های ایران است.  
   *dāneshgāh-e Tehrān yek-i az ghadimi-tarin o bozorg-tarin dāneshgāh-hā-ye Irān ast.* — The University of Tehran is one of the oldest and largest universities in Iran.
-- دانشجو‌های ایرانی برای ورود به دانشگاه باید در کنکور قبول شوند.  
-  *dāneshju-hā-ye Irāni barā-ye vorud be dāneshgāh bāyad dar konkur ghabul shavand.* — Iranian students have to pass the konkur to get into university.
+- دانشجوهای ایرانی برای ورود به دانشگاه باید در کنکور قبول شوند.  
+  *dāneshju-hā-ye irāni barā-ye vorud be dāneshgāh bāyad dar konkur ghabul shavand.* — Iranian students have to pass the konkur to get into university.
 - تام کنکور نداده است، اما یک امتحان زبان داده است.  
   *Tām konkur na-dāde ast, ammā yek emtehān-e zabān dāde ast.* — Tom hasn't taken the konkur, but he has taken a language exam.
 - او هر ترم شش درس دارد و بیشتر کلاس‌ها صبح هستند.  
   *u har term shesh dars dārad o bishtar-e kelās-hā sobh hastand.* — He has six courses each semester, and most of the classes are in the morning.
-- استاد‌ها به فارسی درس می‌دهند و تام همه چیز را در دفترش می‌نویسد.  
+- استادها به فارسی درس می‌دهند و تام همه چیز را در دفترش می‌نویسد.  
   *ostād-hā be fārsi dars mi-dahand o Tām hame chiz rā dar daftar-ash mi-nevisad.* — The professors teach in Persian, and Tom writes everything down in his notebook.
 - سخت‌ترین قسمت برای او فهمیدن جزوه‌های دست‌نویس هم‌کلاسی‌هایش است.  
   *sakht-tarin ghesmat barā-ye u fahmidan-e jozve-hā-ye dast-nevis-e ham-kelāsi-hā-yash ast.* — The hardest part for him is understanding his classmates' handwritten notes.  
@@ -259,7 +259,7 @@ _Tom describes a semester at the University of Tehran. Look for the -esh and -an
   _سلف, from English 'self-service', is what every Iranian student calls the canteen_
 - بعد از کلاس، با دوستانش به کتابخانه‌ی مرکزی می‌رود.  
   *ba'd az kelās, bā dustān-ash be ketāb-khāne-ye markazi mi-ravad.* — After class he goes to the central library with his friends.
-- آخر ترم، کتابخانه پر از دانشجو‌های خسته است.  
+- آخر ترم، کتابخانه پر از دانشجوهای خسته است.  
   *ākhar-e term, ketāb-khāne por az dāneshju-hā-ye khaste ast.* — At the end of the semester the library is full of tired students.
 - تام می‌گوید: «در آینده می‌خواهم مترجم یا نویسنده شوم.»  
   *Tām mi-guyad: «dar āyande mi-khāham motarjem yā nevisande shavam.»* — Tom says: 'In the future I want to become a translator or a writer.'
@@ -367,10 +367,10 @@ Every spring the city also holds the نمایشگاه بین‌المللی کت
 
 **Put the words in order**
 
-1. رزومه‌ی / را / خواندم. / شما — I have read your CV.
-2. کی / شروع / کنید؟ / می‌توانید — When can you start?
-3. کردم. / دو / شرکت / سال / در / یک / کار — I worked at a company for two years.
-4. مترجم / شوم. / در / آینده / می‌خواهم — In the future I want to become a translator.
+1. رزومه‌ی / خواندم. / شما / را — I have read your CV.
+2. می‌توانید / کنید؟ / شروع / کی — When can you start?
+3. در / یک / شرکت / دو / سال / کردم. / کار — I worked at a company for two years.
+4. در / مترجم / می‌خواهم / شوم. / آینده — In the future I want to become a translator.
 
 <details><summary>Answers</summary>
 

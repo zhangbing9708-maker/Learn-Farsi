@@ -386,10 +386,10 @@ Farewells (مهمانی خداحافظی (*mehmāni-ye khodāhāfezi*, ‘a good
 
 **Put the words in order**
 
-1. کلمه‌ای / اجازه‌ی / با / چند / عرض / بزرگترها / می‌کنم. — With the elders' permission I'd like to say a few words.
-2. کوتاه / را / پس / نیستم، / سخن / سخنرانی / من / اهل / می‌کنم. — I'm no speech-maker, so I'll keep it short.
-3. برای / او / سارا / مثل / ماه / بود. — To him Sara was like the moon.
-4. آوردید / سپاسگزارم. / شما / که / از / همه‌ی / تشریف — Thank you all for coming.
+1. چند / با / عرض / کلمه‌ای / بزرگترها / می‌کنم. / اجازه‌ی — With the elders' permission I'd like to say a few words.
+2. من / نیستم، / کوتاه / پس / اهل / سخنرانی / را / سخن / می‌کنم. — I'm no speech-maker, so I'll keep it short.
+3. او / برای / بود. / ماه / سارا / مثل — To him Sara was like the moon.
+4. که / همه‌ی / آوردید / سپاسگزارم. / از / شما / تشریف — Thank you all for coming.
 
 <details><summary>Answers</summary>
 
