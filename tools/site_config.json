@@ -1,4 +1,4 @@
 {
- "google_client_id": "",
+ "google_client_id": "84668621903-tuaj0q6fq16lpnmvdeq6hi7oj9o9dn0v.apps.googleusercontent.com",
  "_help": "Paste the OAuth 2.0 Web client ID from Google Cloud (see VOICE_SETUP.md) into google_client_id, then run tools/build_site.py. Leave it empty and learners can still keep recordings in their own browser."
 }
