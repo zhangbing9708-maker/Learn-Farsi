@@ -1,0 +1,155 @@
+{
+ "id": "a2-the-devoted-farmer",
+ "level": "A2",
+ "kind": "folk tale",
+ "title": "The devoted farmer",
+ "titleFa": "دهقان فداکار",
+ "titleR": "dehghān-e fadākār",
+ "image": "trans-iranian-railway",
+ "intro": "Generations of Iranian children have read the story of Riz Ali, the 'devoted farmer', in their primary-school Persian book. On a snowy winter night he finds rocks on the railway line just before a passenger train is due, and he has nothing but a lantern and the coat he is wearing. Read it for the past continuous as a background (برف می‌بارید 'snow was falling'), the past perfect (افتاده بود 'had fallen'), and the 'if' of a real danger: اگر کاری نکنم 'if I don't do something'.",
+ "source": "Retold in our own words from the well-known story in Iranian school books, based on what Riz Ali Khajavi did one winter night.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "ریزعلی دهقانی ساده بود که در روستایی نزدیک راه‌آهن زندگی می‌کرد.",
+     "r": "Riz'ali dehghān-i sāde bud ke dar rustā-yi nazdik-e rāh-āhan zendegi mi-kard.",
+     "en": "Riz Ali was a simple farmer who lived in a village near the railway."
+    },
+    {
+     "fa": "یک شب سرد زمستان، او از ده همسایه به خانه برمی‌گشت.",
+     "r": "yek shab-e sard-e zemestān, u az deh-e hamsāye be khāne bar-mi-gasht.",
+     "en": "One cold winter night he was walking home from the next village."
+    },
+    {
+     "fa": "برف می‌بارید و باد سردی می‌وزید.",
+     "r": "barf mi-bārid o bād-e sard-i mi-vazid.",
+     "en": "Snow was falling and a cold wind was blowing."
+    },
+    {
+     "fa": "ریزعلی فانوسی در دست داشت و کنار ریل قطار راه می‌رفت.",
+     "r": "Riz'ali fānus-i dar dast dāsht o kenār-e reyl-e ghatār rāh mi-raft.",
+     "en": "Riz Ali had a lantern in his hand and was walking beside the railway track."
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "ناگهان صدای بلندی شنید: سنگ‌های بزرگی از کوه روی ریل افتاده بود.",
+     "r": "nāgahān sedā-ye boland-i shenid: sang-hā-ye bozorg-i az kuh ru-ye reyl oftāde bud.",
+     "en": "Suddenly he heard a loud noise: big rocks had fallen from the mountain onto the track."
+    },
+    {
+     "fa": "ریزعلی می‌دانست که چند دقیقه‌ی دیگر قطار مسافری از آن‌جا رد می‌شود.",
+     "r": "Riz'ali mi-dānest ke chand daghighe-ye digar ghatār-e mosāferi az ān-jā rad mi-shavad.",
+     "en": "Riz Ali knew that in a few minutes the passenger train would pass that spot."
+    },
+    {
+     "fa": "با خودش گفت: «اگر کاری نکنم، قطار به سنگ‌ها می‌خورد و مردم کشته می‌شوند.»",
+     "r": "bā khod-ash goft: «agar kār-i na-konam, ghatār be sang-hā mi-khorad o mardom koshte mi-shavand.»",
+     "en": "He said to himself: \"If I don't do something, the train will hit the rocks and people will be killed.\""
+    },
+    {
+     "fa": "صدای قطار از دور می‌آمد.",
+     "r": "sedā-ye ghatār az dur mi-āmad.",
+     "en": "He could already hear the train in the distance."
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "ریزعلی فوراً کتش را درآورد و آن را سر یک چوب بست.",
+     "r": "Riz'ali fowran kot-ash rā dar-āvard o ān rā sar-e yek chub bast.",
+     "en": "Riz Ali quickly took off his coat and tied it to the end of a stick."
+    },
+    {
+     "fa": "بعد نفت فانوس را روی کت ریخت و آن را آتش زد.",
+     "r": "ba'd naft-e fānus rā ru-ye kot rikht o ān rā ātash zad.",
+     "en": "Then he poured the lantern's paraffin over the coat and set it on fire."
+    },
+    {
+     "fa": "او وسط ریل ایستاد و چوب آتشین را بالای سرش تکان داد.",
+     "r": "u vasat-e reyl istād o chub-e ātashin rā bālā-ye sar-ash tekān dād.",
+     "en": "He stood in the middle of the track and waved the burning stick above his head."
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "راننده‌ی قطار آتش را دید و ترمز کرد.",
+     "r": "rānande-ye ghatār ātash rā did o tormoz kard.",
+     "en": "The train driver saw the fire and braked."
+    },
+    {
+     "fa": "قطار درست چند متر جلوتر از سنگ‌ها ایستاد.",
+     "r": "ghatār dorost chand metr jelo-tar az sang-hā istād.",
+     "en": "The train stopped just a few metres before the rocks."
+    },
+    {
+     "fa": "مسافران از قطار پیاده شدند و وقتی سنگ‌ها را دیدند، فهمیدند که چه اتفاقی افتاده است.",
+     "r": "mosāferān az ghatār piyāde shodand o vaghti sang-hā rā didand, fahmidand ke che ettefāgh-i oftāde ast.",
+     "en": "The passengers got off the train, and when they saw the rocks, they understood what had happened."
+    },
+    {
+     "fa": "آن‌ها ریزعلی را بغل کردند و از او تشکر کردند.",
+     "r": "ān-hā Riz'ali rā baghal kardand o az u tashakkor kardand.",
+     "en": "They hugged Riz Ali and thanked him."
+    },
+    {
+     "fa": "دست‌های ریزعلی سوخته بود، اما او خوشحال بود که جان آن همه آدم را نجات داده است.",
+     "r": "dast-hā-ye Riz'ali sukhte bud, ammā u khoshhāl bud ke jān-e ān hame ādam rā nejāt dāde ast.",
+     "en": "Riz Ali's hands were burnt, but he was happy that he had saved the lives of all those people."
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {"fa": "دهقان", "r": "dehghān", "en": "farmer, peasant"},
+  {"fa": "فداکار", "r": "fadākār", "en": "devoted, self-sacrificing"},
+  {"fa": "روستا", "r": "rustā", "en": "village"},
+  {"fa": "راه‌آهن", "r": "rāh-āhan", "en": "railway"},
+  {"fa": "ریل", "r": "reyl", "en": "rail, railway track"},
+  {"fa": "فانوس", "r": "fānus", "en": "lantern"},
+  {"fa": "ناگهان", "r": "nāgahān", "en": "suddenly"},
+  {"fa": "رد شدن", "r": "rad shodan", "en": "to pass, go by"},
+  {"fa": "کشته شدن", "r": "koshte shodan", "en": "to be killed"},
+  {"fa": "درآوردن", "r": "dar-āvardan", "en": "to take off (clothes); to take out"},
+  {"fa": "نفت", "r": "naft", "en": "paraffin, kerosene; oil"},
+  {"fa": "آتش زدن", "r": "ātash zadan", "en": "to set on fire"},
+  {"fa": "تکان دادن", "r": "tekān dādan", "en": "to wave, shake"},
+  {"fa": "ترمز کردن", "r": "tormoz kardan", "en": "to brake"},
+  {"fa": "مسافر", "r": "mosāfer", "en": "passenger, traveller"},
+  {"fa": "نجات دادن", "r": "nejāt dādan", "en": "to save, rescue"}
+ ],
+ "questions": [
+  {
+   "q": "What was the weather like that night?",
+   "options": ["hot and dry", "snowy, with a cold wind", "rainy but warm"],
+   "answer": 1
+  },
+  {
+   "q": "What had happened on the railway line?",
+   "options": ["rocks had fallen onto the track", "a tree had fallen", "a train had broken down"],
+   "answer": 0
+  },
+  {
+   "q": "What did Riz Ali use to make a fire?",
+   "options": ["wood from the forest", "his coat and the paraffin from his lantern", "the train's fuel"],
+   "answer": 1
+  },
+  {
+   "q": "Why did the train stop?",
+   "options": ["the driver saw the fire", "it had run out of fuel", "the passengers asked him to stop"],
+   "answer": 0
+  },
+  {
+   "q": "How did Riz Ali feel at the end?",
+   "options": ["angry because his coat was gone", "afraid of the passengers", "happy, although his hands were burnt"],
+   "answer": 2
+  }
+ ],
+ "after": "دهقان فداکار 'The devoted farmer' was in the Persian reader of Iranian primary schools for decades, so for most Iranians the name ریزعلی means simple, brave selflessness. The real Riz Ali Khajavi was a farmer from a village near Mianeh in north-western Iran; people still argue about how much of the school-book version happened exactly as told, but the story itself has never left the classroom. Notice how the tenses build the scene: the past continuous gives the background (برف می‌بارید 'snow was falling', راه می‌رفت 'he was walking'), the simple past moves the action on (شنید، بست، ریخت), and the past perfect looks further back (سنگ‌ها افتاده بود 'the rocks had fallen'). In reported thought Persian keeps the tense of the original words: می‌دانست که قطار رد می‌شود, literally 'he knew that the train passes'. دهقان and کشاورز both mean 'farmer'; دهقان is the older word and, in the Shahnameh, once meant a landowning noble."
+}

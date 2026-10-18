@@ -1,0 +1,287 @@
+{
+ "id": "b1-11-writing-well",
+ "level": "B1",
+ "n": 11,
+ "title": "Writing well: paragraphs, connectors and punctuation",
+ "titleFa": "خوب نوشتن",
+ "titleR": "khub neveshtan",
+ "intro": "At B1 you can write correct sentences; now it is time to write good paragraphs. In this lesson you learn how a Persian paragraph is built, the connectors that hold an argument together (بنابراین، با این حال، علاوه بر این، از یک سو … از سوی دیگر…), and how Persian punctuation works – including where the comma goes and where it doesn't. You study a model three-paragraph essay on learning languages, then the same ideas written badly, sentence by sentence, and corrected.",
+ "goals": [
+  "build a paragraph with a topic sentence, support and a conclusion",
+  "link ideas with بنابراین، با این حال، علاوه بر این، از یک سو … از سوی دیگر، در نتیجه، به عبارت دیگر and در حالی که",
+  "use Persian punctuation – ، ؛ « » ؟ – and put commas in the right places",
+  "spot and fix the commonest mistakes in a learner's essay"
+ ],
+ "image": "persian-calligraphy",
+ "sections": [
+  {
+   "type": "reading",
+   "title": "Model essay: why learn a foreign language?",
+   "intro": "A short essay in three paragraphs, of the kind Iranian students write at school. After the title, paragraph 1 (sentences 2–4) introduces the topic, paragraph 2 (5–10) gives the arguments, and paragraph 3 (11–14) concludes. The notes show what each sentence does.",
+   "sentences": [
+    {"fa": "چرا باید زبان خارجی یاد بگیریم؟", "r": "cherā bāyad zabān-e khāreji yād begirim?", "en": "Why should we learn a foreign language?", "note": "The title: a question that the essay will answer."},
+    {"fa": "امروزه یادگیری زبان خارجی دیگر یک سرگرمی نیست، بلکه یک ضرورت است.", "r": "emruze yādgiri-ye zabān-e khāreji digar yek sargarmi nist, balke yek zarurat ast.", "en": "Today learning a foreign language is no longer a hobby but a necessity.", "note": "Paragraph 1. The topic sentence: it states the main idea of the whole essay. … نیست، بلکه … – 'not …, but rather …'."},
+    {"fa": "در جهانی که مرزها روزبه‌روز کم‌رنگ‌تر می‌شوند، زبان پلی میان انسان‌ها و فرهنگ‌هاست.", "r": "dar jahān-i ke marz-hā ruz-be-ruz kam-rang-tar mi-shavand, zabān pol-i miyān-e ensān-hā va farhang-hā-st.", "en": "In a world where borders grow fainter every day, language is a bridge between people and cultures.", "note": "Background: why the topic matters. Notice the comma after the long opening clause."},
+    {"fa": "در این نوشته، به سه دلیل مهم برای یادگیری زبان خارجی اشاره می‌کنم.", "r": "dar in neveshte, be se dalil-e mohem barā-ye yādgiri-ye zabān-e khāreji eshāre mi-konam.", "en": "In this essay I point to three important reasons for learning a foreign language.", "note": "The plan: it tells the reader what is coming."},
+    {"fa": "نخست اینکه زبان خارجی درهای تازه‌ای به روی ما باز می‌کند.", "r": "nokhost inke zabān-e khāreji dar-hā-ye tāze-i be ru-ye mā bāz mi-konad.", "en": "First, a foreign language opens new doors for us.", "note": "Paragraph 2. The first argument, announced by نخست اینکه – the written equivalent of اول اینکه."},
+    {"fa": "برای مثال، بسیاری از شرکت‌ها به کارمندانی نیاز دارند که با مشتریان خارجی ارتباط برقرار کنند.", "r": "barā-ye mesāl, besyār-i az sherkat-hā be kārmandān-i niyāz dārand ke bā moshtariyān-e khāreji ertebāt bar-gharār konand.", "en": "For example, many companies need employees who can communicate with foreign customers.", "note": "Support: an example for the first argument."},
+    {"fa": "علاوه بر این، یادگیری زبان ذهن را فعال نگه می‌دارد.", "r": "alāve bar in, yādgiri-ye zabān zehn rā fa'āl negah mi-dārad.", "en": "Moreover, learning a language keeps the mind active.", "note": "The second argument, introduced by علاوه بر این – 'in addition, moreover'."},
+    {"fa": "به گفته‌ی برخی پژوهشگران، یادگیری زبان دوم حافظه و تمرکز را تقویت می‌کند.", "r": "be gofte-ye barkhi pazhuheshgarān, yādgiri-ye zabān-e dovvom hāfeze va tamarkoz rā taghviyat mi-konad.", "en": "According to some researchers, learning a second language strengthens memory and concentration.", "note": "Evidence for the second argument, with its source."},
+    {"fa": "مهم‌تر از همه، زبان ما را با فرهنگ دیگران آشنا می‌کند.", "r": "mohem-tar az hame, zabān mā rā bā farhang-e digarān āshnā mi-konad.", "en": "Most important of all, a language introduces us to other people's culture.", "note": "The third and strongest argument is kept for last."},
+    {"fa": "کسی که شعر حافظ را به فارسی می‌خواند، چیزی را می‌فهمد که در هیچ ترجمه‌ای پیدا نمی‌شود.", "r": "kas-i ke she'r-e Hāfez rā be fārsi mi-khānad, chiz-i rā mi-fahmad ke dar hich tarjome-i peydā nemi-shavad.", "en": "Someone who reads Hafez in Persian understands something that cannot be found in any translation.", "note": "An example for the third argument. The comma after a subject that contains a whole clause helps the reader find the verb."},
+    {"fa": "البته یادگیری زبان کار آسانی نیست و به صبر و تمرین نیاز دارد.", "r": "albatte yādgiri-ye zabān kār-e āsān-i nist va be sabr va tamrin niyāz dārad.", "en": "Of course, learning a language is not easy, and it takes patience and practice.", "note": "Paragraph 3. A concession: admit the other side before you conclude."},
+    {"fa": "با این حال، فایده‌های آن بسیار بیشتر از سختی‌هایش است.", "r": "bā in hāl, fāyede-hā-ye ān besyār bish-tar az sakhti-hā-yash ast.", "en": "Nevertheless, its benefits far outweigh its difficulties.", "note": "با این حال turns back to the main idea after the concession."},
+    {"fa": "بنابراین، هر کس که فرصت دارد، باید دست‌کم یک زبان خارجی یاد بگیرد.", "r": "banābar-in, har kas ke forsat dārad, bāyad dast-e-kam yek zabān-e khāreji yād begirad.", "en": "Therefore, everyone who has the chance should learn at least one foreign language.", "note": "The conclusion, introduced by بنابراین."},
+    {"fa": "به عبارت دیگر، یادگیری زبان سرمایه‌گذاری برای آینده است.", "r": "be ebārat-e digar, yādgiri-ye zabān sarmāye-gozāri barā-ye āyande ast.", "en": "In other words, learning a language is an investment in the future.", "note": "A last sentence that restates the main idea in a new, memorable form."}
+   ],
+   "questions": [
+    {"q": "What is the main idea of the essay?", "options": ["Languages are hard to learn.", "Learning a foreign language is a necessity today.", "Hafez is impossible to translate."], "answer": 1},
+    {"q": "Which connector introduces the second argument?", "options": ["برای مثال", "علاوه بر این", "بنابراین"], "answer": 1},
+    {"q": "What does the last paragraph do?", "options": ["It gives a new argument.", "It admits a difficulty, then concludes.", "It tells a story."], "answer": 1}
+   ]
+  },
+  {
+   "type": "text",
+   "title": "What makes Persian prose good",
+   "md": "Good Persian writing – [[نثر|nasr|prose]] – values the same things as good English writing: one idea per paragraph, clear links between sentences, no padding. But a few habits are particular to Persian:\n\n- **The paragraph** ([[بند|band]] or [[پاراگراف|pārāgrāf]]) opens with a **topic sentence** ([[جمله‌ی اصلی|jomle-ye asli]]) that states its idea; the following sentences explain it or give examples and evidence; the last one rounds it off or leads on to the next.\n- **Keep the verb in sight.** Persian puts the verb last, so a long sentence keeps the reader waiting. If a sentence runs past two lines, split it.\n- **Don't repeat.** Persian style dislikes the same word – above all the same verb – twice in a row. Vary with a synonym, a different construction, or by joining two sentences with a connector.\n- **Choose one register.** An essay is written in book Persian from start to finish: no [[خوبه|khub-e]], no [[می‌خوام|mi-khām]] (lesson 8).\n- **Connectors** are the joints of an argument. Learn a dozen and your writing will at once read as more mature.\n\nIranian editors also warn against two over-formal habits: using [[می‌باشد|mi-bāshad]] where [[است|ast]] will do, and the passive with [[توسط|tavassot-e|by]] (*کتاب توسط او نوشته شد*) where a simple active sentence is clearer: [[او کتاب را نوشت|u ketāb rā nevesht|he wrote the book]]."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {"fa": "نوشتن", "r": "neveshtan", "en": "to write", "pos": "v", "note": "present stem نویس (nevis)"},
+    {"fa": "نوشته", "r": "neveshte", "en": "piece of writing, text; written", "pos": "n"},
+    {"fa": "انشا", "r": "enshā", "en": "(school) composition, essay", "pos": "n"},
+    {"fa": "مقاله", "r": "maghāle", "en": "article, essay, paper", "pos": "n"},
+    {"fa": "بند", "r": "band", "en": "paragraph (also پاراگراف)", "pos": "n"},
+    {"fa": "جمله", "r": "jomle", "en": "sentence", "pos": "n"},
+    {"fa": "مقدمه", "r": "moghaddame", "en": "introduction", "pos": "n"},
+    {"fa": "نتیجه‌گیری", "r": "natije-giri", "en": "conclusion", "pos": "n"},
+    {"fa": "دلیل", "r": "dalil", "en": "reason", "pos": "n", "note": "plural دلایل (dalāyel)"},
+    {"fa": "استدلال", "r": "estedlāl", "en": "argument, reasoning", "pos": "n"},
+    {"fa": "نمونه", "r": "nemune", "en": "example, sample", "pos": "n", "ex": {"fa": "برای نمونه", "r": "barā-ye nemune", "en": "for example"}},
+    {"fa": "اشاره کردن", "r": "eshāre kardan", "en": "to refer, to point (to)", "pos": "v", "ex": {"fa": "به سه دلیل اشاره می‌کنم.", "r": "be se dalil eshāre mi-konam.", "en": "I will point to three reasons."}},
+    {"fa": "ضرورت", "r": "zarurat", "en": "necessity", "pos": "n"},
+    {"fa": "فایده", "r": "fāyede", "en": "benefit, use", "pos": "n"},
+    {"fa": "بنابراین", "r": "banābar-in", "en": "therefore", "pos": "conj"},
+    {"fa": "با این حال", "r": "bā in hāl", "en": "nevertheless, however", "pos": "conj"},
+    {"fa": "علاوه بر این", "r": "alāve bar in", "en": "moreover, in addition", "pos": "conj"},
+    {"fa": "در نتیجه", "r": "dar natije", "en": "as a result", "pos": "conj"},
+    {"fa": "به عبارت دیگر", "r": "be ebārat-e digar", "en": "in other words", "pos": "conj"},
+    {"fa": "در حالی که", "r": "dar hāl-i ke", "en": "while; whereas", "pos": "conj"},
+    {"fa": "نقطه", "r": "noghte", "en": "full stop; point, dot", "pos": "n"},
+    {"fa": "ویرگول", "r": "virgul", "en": "comma (also کاما, kāmā)", "pos": "n"},
+    {"fa": "علامت سؤال", "r": "alāmat-e so'āl", "en": "question mark", "pos": "n"},
+    {"fa": "گیومه", "r": "giyume", "en": "quotation marks « »", "pos": "n"}
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Connectors: the joints of an argument",
+   "md": "A connector tells the reader how the next sentence relates to the last one: *more of the same*, *the opposite*, *the result*, *an example*. In writing, a connector at the start of a sentence is followed by a comma. Speech has its own, simpler set – the third column – which does not belong in an essay.\n\nTwo of them need a note. [[از یک سو|az yek su]] always waits for its partner [[از سوی دیگر|az su-ye digar]], like *on the one hand … on the other*. And [[در حالی که|dar hāl-i ke]] means both *while* (two things at the same time) and *whereas* (a contrast); it joins two clauses inside one sentence instead of starting a new one.",
+   "table": {
+    "head": ["Connector", "Meaning", "Spoken equivalent", "Use"],
+    "rows": [
+     ["[[بنابراین|banābar-in]]", "therefore, so", "[[پس|pas]]", "result, conclusion"],
+     ["[[در نتیجه|dar natije]]", "as a result", "[[واسه همین|vāse hamin]]", "result"],
+     ["[[به همین دلیل|be hamin dalil]]", "for this reason", "[[واسه همین|vāse hamin]]", "cause and effect"],
+     ["[[با این حال|bā in hāl]]", "nevertheless, however", "[[ولی خب|vali khob]]", "contrast after a concession"],
+     ["[[اما|ammā]]، [[ولی|vali]]", "but", "[[ولی|vali]]", "contrast"],
+     ["[[علاوه بر این|alāve bar in]]", "moreover, in addition", "[[تازه|tāze]]", "adding a point"],
+     ["[[همچنین|hamchenin]]", "also, likewise", "[[هم|ham]]", "adding a point"],
+     ["[[از یک سو … از سوی دیگر|az yek su … az su-ye digar]]", "on the one hand … on the other", "[[از یه طرف … از یه طرف دیگه|az ye taraf … az ye taraf-e dige]]", "weighing two sides"],
+     ["[[به عبارت دیگر|be ebārat-e digar]]", "in other words", "[[یعنی|ya'ni]]", "restating"],
+     ["[[در حالی که|dar hāl-i ke]]", "while; whereas", "[[در حالی که|dar hāl-i ke]]", "two things at once; contrast"],
+     ["[[برای مثال|barā-ye mesāl]]، [[برای نمونه|barā-ye nemune]]", "for example", "[[مثلاً|masalan]]", "example"],
+     ["[[نخست|nokhost]] … [[سپس|sepas]] … [[در پایان|dar pāyān]]", "first … then … finally", "[[اول|avval]] … [[بعد|ba'd]] … [[آخرش|ākhar-esh]]", "order"],
+     ["[[در مجموع|dar majmu']]، [[به طور خلاصه|be tor-e kholāse]]", "all in all, in short", "[[خلاصه|kholāse]]", "summing up"],
+     ["[[زیرا|zirā]]", "because", "[[چون|chon]]", "cause, inside the sentence"]
+    ]
+   },
+   "examples": [
+    {"fa": "هوا خیلی سرد بود؛ بنابراین، مسابقه به هفته‌ی بعد موکول شد.", "r": "havā kheyli sard bud; banābar-in, mosābeghe be hafte-ye ba'd mowkul shod.", "en": "It was very cold; therefore the match was postponed to the following week.", "col": "هوا خیلی سرد بود، واسه همین مسابقه رو انداختن هفته‌ی بعد.", "colR": "havā kheyli sard bud, vāse hamin mosābeghe ro andākhtan hafte-ye ba'd."},
+    {"fa": "این روش گران است. با این حال، نتیجه‌ی بهتری دارد.", "r": "in ravesh gerān ast. bā in hāl, natije-ye behtar-i dārad.", "en": "This method is expensive. Nevertheless, it gives a better result.", "col": "این روش گرونه. ولی خب، نتیجه‌ش بهتره.", "colR": "in ravesh gerun-e. vali khob, natije-sh behtar-e."},
+    {"fa": "این آپارتمان به مترو نزدیک است. علاوه بر این، پارکینگ هم دارد.", "r": "in āpārtemān be metro nazdik ast. alāve bar in, pārking ham dārad.", "en": "This flat is close to the metro. In addition, it has parking.", "col": "این آپارتمان به مترو نزدیکه. تازه، پارکینگم داره.", "colR": "in āpārtemān be metro nazdik-e. tāze, pārking-am dāre."},
+    {"fa": "از یک سو، شهرهای بزرگ امکانات بیشتری دارند؛ از سوی دیگر، زندگی در آن‌ها گران‌تر است.", "r": "az yek su, shahr-hā-ye bozorg emkānāt-e bishtar-i dārand; az su-ye digar, zendegi dar ān-hā gerān-tar ast.", "en": "On the one hand, big cities have more facilities; on the other hand, life in them is more expensive.", "col": "از یه طرف، شهرای بزرگ امکانات بیشتری دارن؛ از یه طرف دیگه، زندگی توشون گرون‌تره.", "colR": "az ye taraf, shahr-ā-ye bozorg emkānāt-e bishtar-i dāran; az ye taraf-e dige, zendegi tu-shun gerun-tar-e."},
+    {"fa": "او ساعت‌ها تمرین کرد و در نتیجه، در مسابقه اول شد.", "r": "u sā'at-hā tamrin kard va dar natije, dar mosābeghe avval shod.", "en": "He practised for hours, and as a result he came first in the competition.", "col": "ساعت‌ها تمرین کرد، واسه همین تو مسابقه اول شد.", "colR": "sā'at-hā tamrin kard, vāse hamin tu mosābeghe avval shod."},
+    {"fa": "او بسیار کم حرف می‌زند؛ به عبارت دیگر، اهل تعارف نیست.", "r": "u besyār kam harf mi-zanad; be ebārat-e digar, ahl-e ta'ārof nist.", "en": "He says very little; in other words, he is not one for ta'arof.", "col": "خیلی کم حرف می‌زنه؛ یعنی اهل تعارف نیست.", "colR": "kheyli kam harf mi-zane; ya'ni ahl-e ta'ārof nist."},
+    {"fa": "مینا درس می‌خواند، در حالی که برادرش تلویزیون تماشا می‌کرد.", "r": "Minā dars mi-khānd, dar hāl-i ke barādar-ash televiziyon tamāshā mi-kard.", "en": "Mina was studying while her brother was watching television.", "col": "مینا داشت درس می‌خوند، داداشش داشت تلویزیون نگاه می‌کرد.", "colR": "Minā dāsht dars mi-khund, dādāsh-esh dāsht televiziyon negāh mi-kard."},
+    {"fa": "در شمال ایران باران زیاد می‌بارد، در حالی که جنوب کشور خشک است.", "r": "dar shomāl-e Irān bārān ziyād mi-bārad, dar hāl-i ke jonub-e keshvar khoshk ast.", "en": "In the north of Iran it rains a lot, whereas the south of the country is dry."}
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Persian punctuation – and where the comma goes",
+   "md": "Persian borrowed its punctuation from European languages about a century ago, and turned some marks round to suit right-to-left writing: the comma (،) and the semicolon (؛) are upside down, the question mark (؟) is mirrored, and quotation marks are the guillemets « ». The full stop, the colon and the exclamation mark are the same.\n\n**Where the comma goes:**\n\n1. after an introductory phrase or a connector: [[بنابراین،|banābar-in,]] [[به نظر من،|be nazar-e man,]]\n2. after a long clause that comes first: [[وقتی به خانه رسیدم، باران شروع شد.|vaghti be khāne residam, bārān shoru' shod.]]\n3. between the items of a list – but **not** before the last [[و|va]]: [[سیب، پرتقال و انار|sib, porteghāl va anār]]\n4. around an inserted phrase: [[حافظ، شاعر بزرگ شیراز، در قرن هشتم زندگی می‌کرد.|Hāfez, shā'er-e bozorg-e Shirāz, dar gharn-e hashtom zendegi mi-kard.]]\n5. after the name of the person you are addressing: [[سارا، بیا این‌جا!|Sārā, biyā in-jā!]]\n\n**Where it does not go:** between a simple subject and its verb, and before [[که|ke]] when it introduces a short clause ([[می‌دانم که می‌آید|mi-dānam ke mi-āyad]]). After a subject that contains a whole clause, though – [[کسی که شعر حافظ را می‌خواند،…|kas-i ke she'r-e Hāfez rā mi-khānad,…]] – a comma helps the reader find the verb.\n\nThe **semicolon** joins two complete sentences that belong together, and Persian uses it more than English does. **Spacing**: no space before a mark, one space after it – and inside words use the zero-width non-joiner, which Iranians call [[نیم‌فاصله|nim-fāsele|half-space]]: [[می‌روم|mi-ravam]], not *میروم* or *می روم*.",
+   "table": {
+    "head": ["Mark", "Name", "Use"],
+    "rows": [
+     ["،", "[[ویرگول|virgul]]، [[کاما|kāmā]]", "comma: pauses, lists, after connectors"],
+     ["؛", "[[نقطه‌ویرگول|noghte-virgul]]", "semicolon: joins two related sentences"],
+     [".", "[[نقطه|noghte]]", "full stop – also after an indirect question"],
+     ["؟", "[[علامت سؤال|alāmat-e so'āl]]", "question mark – direct questions only"],
+     ["!", "[[علامت تعجب|alāmat-e ta'ajjob]]", "exclamation mark"],
+     ["« »", "[[گیومه|giyume]]", "quotations, titles of books and articles, special terms"],
+     [":", "[[دونقطه|do-noghte]]", "before a quotation, a list or an explanation"],
+     ["( )", "[[پرانتز|parāntez]]", "brackets"],
+     ["…", "[[سه‌نقطه|se-noghte]]", "an unfinished thought"],
+     ["–", "[[خط تیره|khatt-e tire]]", "dash: an aside, or between numbers (۱۴۰۰–۱۴۰۵)"]
+    ]
+   },
+   "examples": [
+    {"fa": "به نظر من، یادگیری زبان از کودکی آسان‌تر است.", "r": "be nazar-e man, yādgiri-ye zabān az kudaki āsān-tar ast.", "en": "In my opinion, learning a language is easier from childhood.", "note": "A comma after an introductory phrase."},
+    {"fa": "وقتی به ایستگاه رسیدیم، قطار رفته بود.", "r": "vaghti be istgāh residim, ghatār rafte bud.", "en": "When we reached the station, the train had gone.", "note": "A comma after a long first clause."},
+    {"fa": "در بازار سیب، پرتقال و انار خریدیم.", "r": "dar bāzār sib, porteghāl va anār kharidim.", "en": "At the market we bought apples, oranges and pomegranates.", "note": "No comma before the last و."},
+    {"fa": "فردوسی، شاعر بزرگ ایران، شاهنامه را در سی سال سرود.", "r": "Ferdowsi, shā'er-e bozorg-e Irān, Shāhnāme rā dar si sāl sorud.", "en": "Ferdowsi, Iran's great poet, composed the Shahnameh over thirty years.", "note": "Commas around an inserted phrase. A book title can also go in « »: «شاهنامه»."},
+    {"fa": "استاد گفت: «فردا امتحان داریم.»", "r": "ostād goft: «fardā emtehān dārim.»", "en": "The teacher said: 'We have an exam tomorrow.'", "note": "A colon and « » for a direct quotation; the full stop goes inside."},
+    {"fa": "نمی‌دانم چرا دیر کرد.", "r": "nemi-dānam cherā dir kard.", "en": "I don't know why he was late.", "note": "An indirect question ends with a full stop, not ؟."},
+    {"fa": "هوا سرد بود؛ با این حال، همه به کوه رفتند.", "r": "havā sard bud; bā in hāl, hame be kuh raftand.", "en": "It was cold; nevertheless, everyone went to the mountains.", "note": "A semicolon between two related sentences, and a comma after the connector."},
+    {"fa": "مینا، لطفاً پنجره را ببند!", "r": "Minā, lotfan panjare rā beband!", "en": "Mina, please close the window!", "note": "A comma after the name of the person addressed."}
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Building a paragraph",
+   "md": "A good Persian paragraph has the same skeleton as a good English one. The **topic sentence** says what the paragraph is about; the **supporting sentences** explain it with reasons, examples or facts; the **closing sentence** sums up or leads on to the next paragraph. Each slot has its typical openings – learn two or three for each. The examples below build one complete paragraph, sentence by sentence.",
+   "table": {
+    "head": ["Part of the paragraph", "Useful openings", "English"],
+    "rows": [
+     ["topic sentence", "[[یکی از … این است که…|yek-i az … in ast ke…]]", "one of … is that…"],
+     ["topic sentence", "[[امروزه|emruze]]، [[در دنیای امروز|dar donyā-ye emruz]]", "nowadays, in today's world"],
+     ["first point", "[[نخست اینکه|nokhost inke]]، [[اول آنکه|avval ānke]]", "first(ly)"],
+     ["further points", "[[دوم اینکه|dovvom inke]]، [[علاوه بر این|alāve bar in]]", "second(ly), moreover"],
+     ["example", "[[برای مثال|barā-ye mesāl]]، [[به عنوان نمونه|be onvān-e nemune]]", "for example"],
+     ["evidence", "[[پژوهش‌ها نشان می‌دهد که…|pazhuhesh-hā neshān mi-dahad ke…]]", "research shows that…"],
+     ["concession", "[[البته|albatte]]، [[هرچند|harchand]]", "of course, although"],
+     ["conclusion", "[[بنابراین|banābar-in]]، [[در مجموع|dar majmu']]، [[در پایان|dar pāyān]]", "therefore, all in all, finally"],
+     ["restating", "[[به عبارت دیگر|be ebārat-e digar]]، [[خلاصه اینکه|kholāse inke]]", "in other words, in short"]
+    ]
+   },
+   "examples": [
+    {"fa": "یکی از بهترین راه‌های رفت‌وآمد در تهران مترو است.", "r": "yek-i az behtarin rāh-hā-ye raft-o-āmad dar Tehrān metro ast.", "en": "One of the best ways of getting around Tehran is the metro.", "note": "Topic sentence."},
+    {"fa": "نخست اینکه مترو از ترافیک سنگین خیابان‌ها سریع‌تر است.", "r": "nokhost inke metro az terāfik-e sangin-e khiyābān-hā sari'-tar ast.", "en": "First, the metro is faster than the heavy traffic in the streets.", "note": "The first supporting point."},
+    {"fa": "علاوه بر این، بلیت آن ارزان است و آلودگی هوا را کم می‌کند.", "r": "alāve bar in, belit-e ān arzān ast va āludegi-ye havā rā kam mi-konad.", "en": "Moreover, its tickets are cheap and it reduces air pollution.", "note": "The second point."},
+    {"fa": "برای مثال، سفر از تجریش تا میدان آزادی با ماشین گاهی دو ساعت طول می‌کشد، در حالی که با مترو کمتر از یک ساعت است.", "r": "barā-ye mesāl, safar az Tajrish tā meydān-e Āzādi bā māshin gāhi do sā'at tul mi-keshad, dar hāl-i ke bā metro kam-tar az yek sā'at ast.", "en": "For example, the trip from Tajrish to Azadi Square sometimes takes two hours by car, whereas by metro it is under an hour.", "note": "An example, with a contrast introduced by در حالی که."},
+    {"fa": "البته مترو در ساعت‌های شلوغ بسیار پرجمعیت است.", "r": "albatte metro dar sā'at-hā-ye sholugh besyār por-jam'iyyat ast.", "en": "Of course, the metro is very crowded at rush hour.", "note": "A concession."},
+    {"fa": "با این حال، برای بیشتر تهرانی‌ها مترو سریع‌ترین و ارزان‌ترین گزینه است.", "r": "bā in hāl, barā-ye bishtar-e Tehrāni-hā metro sari'-tarin va arzān-tarin gozine ast.", "en": "Nevertheless, for most Tehranis the metro is the fastest and cheapest option.", "note": "The closing sentence takes us back to the main idea."}
+   ]
+  },
+  {
+   "type": "reading",
+   "title": "The same ideas, written badly – and corrected",
+   "intro": "Tom wrote a first draft of the same essay. His Persian is correct word by word, but the writing is weak: spoken forms, endless sentences, no connectors, English punctuation, missing half-spaces and repetition. Each draft sentence (Draft) is followed by the version his teacher Ms Ahmadi suggested (Corrected); read only the corrected sentences and you have a good paragraph.",
+   "sentences": [
+    {"fa": "زبان خارجی خیلی خوبه و آدم باید یاد بگیره و من هم دارم فارسی یاد میگیرم و خیلی دوستش دارم.", "r": "zabān-e khāreji kheyli khub-e va ādam bāyad yād begire va man ham dāram fārsi yād migiram va kheyli dust-esh dāram.", "en": "Foreign languages are really good and you should learn them and I'm learning Persian too and I really like it.", "note": "Draft. Spoken forms (خوبه، بگیره) in a written text; four clauses chained with و; میگیرم has no half-space; and no clear main idea."},
+    {"fa": "یادگیری زبان خارجی امروزه یک ضرورت است و من نیز به همین دلیل فارسی می‌آموزم.", "r": "yādgiri-ye zabān-e khāreji emruze yek zarurat ast va man niz be hamin dalil fārsi mi-āmuzam.", "en": "Learning a foreign language is a necessity today, and that is why I am learning Persian.", "note": "Corrected. One clear main idea, all in the written register (است، نیز، می‌آموزم), with the half-space."},
+    {"fa": "شرکت‌ها کارمند زبان‌دان میخواهند.", "r": "sherkat-hā kārmand-e zabān-dān mikhāhand.", "en": "Companies want staff who know languages.", "note": "Draft. A reason with no signpost – the reader can't tell it is the first argument – and no example. میخواهند is missing its half-space."},
+    {"fa": "نخست اینکه بسیاری از شرکت‌ها، برای مثال شرکت‌های گردشگری، به کارمندان زبان‌دان نیاز دارند.", "r": "nokhost inke besyār-i az sherkat-hā, barā-ye mesāl sherkat-hā-ye gardeshgari, be kārmandān-e zabān-dān niyāz dārand.", "en": "First, many companies – travel companies, for example – need staff who know languages.", "note": "Corrected. The argument is announced with نخست اینکه, and an example is set off by commas."},
+    {"fa": "زبان برای مغز خوب است و زبان حافظه را خوب می‌کند و زبان تمرکز را هم خوب می‌کند.", "r": "zabān barā-ye maghz khub ast va zabān hāfeze rā khub mi-konad va zabān tamarkoz rā ham khub mi-konad.", "en": "Language is good for the brain and language makes memory good and language makes concentration good too.", "note": "Draft. Repetition: زبان three times, خوب three times. Persian style dislikes this even more than English does."},
+    {"fa": "علاوه بر این، یادگیری زبان حافظه و تمرکز را تقویت می‌کند.", "r": "alāve bar in, yādgiri-ye zabān hāfeze va tamarkoz rā taghviyat mi-konad.", "en": "Moreover, learning a language strengthens memory and concentration.", "note": "Corrected. One clause instead of three, a precise verb (تقویت کردن) instead of خوب کردن, and a connector that links it to the first point."},
+    {"fa": "بنابراین فرهنگ هم مهم است ، مثلاً حافظ.", "r": "banābar-in farhang ham mohem ast , masalan Hāfez.", "en": "Therefore culture is also important, for example Hafez.", "note": "Draft. The wrong connector – nothing here follows from the sentence before, so بنابراین ('therefore') makes no sense; a space before the comma; and مثلاً حافظ is not a sentence."},
+    {"fa": "از همه مهم‌تر، زبان ما را با فرهنگ دیگران آشنا می‌کند؛ برای مثال، شعر حافظ را فقط به فارسی می‌توان به‌درستی فهمید.", "r": "az hame mohem-tar, zabān mā rā bā farhang-e digarān āshnā mi-konad; barā-ye mesāl, she'r-e Hāfez rā faghat be fārsi mi-tavān be-dorosti fahmid.", "en": "Most importantly, a language introduces us to other cultures; for example, Hafez can only be properly understood in Persian.", "note": "Corrected. A connector that fits (از همه مهم‌تر, 'most importantly'), a semicolon between the claim and the example, and a complete example sentence."},
+    {"fa": "یاد گرفتن زبان سخت است ولی ارزش دارد چون فایده هایش زیاد است?", "r": "yād gereftan-e zabān sakht ast vali arzesh dārad chon fāyede hā-yash ziyād ast?", "en": "Learning a language is hard but it's worth it because its benefits are many?", "note": "Draft. A Latin question mark (?) – on a statement, which needs a full stop; فایده هایش needs a half-space, not a space; and the contrast is buried in the middle of a long sentence."},
+    {"fa": "یادگیری زبان کار سختی است؛ با این حال، فایده‌هایش بسیار بیشتر از سختی‌هایش است.", "r": "yādgiri-ye zabān kār-e sakht-i ast; bā in hāl, fāyede-hā-yash besyār bish-tar az sakhti-hā-yash ast.", "en": "Learning a language is hard work; nevertheless, its benefits far outweigh its difficulties.", "note": "Corrected. The contrast gets its own clause after a semicolon and با این حال; فایده‌هایش has its half-space; the sentence ends with a full stop."},
+    {"fa": "در آخر من فکر میکنم همه باید زبان یاد بگیرند چون \"زبان پل است\".", "r": "dar ākhar man fekr mikonam hame bāyad zabān yād begirand chon \"zabān pol ast\".", "en": "In the end I think everyone should learn languages because \"language is a bridge\".", "note": "Draft. English quotation marks instead of « »; میکنم without the half-space; and a conclusion that just repeats a phrase instead of summing up the argument."},
+    {"fa": "بنابراین، هر کس که فرصت دارد، باید دست‌کم یک زبان خارجی بیاموزد؛ به عبارت دیگر، زبان سرمایه‌ای برای آینده است.", "r": "banābar-in, har kas ke forsat dārad, bāyad dast-e-kam yek zabān-e khāreji biyāmuzad; be ebārat-e digar, zabān sarmāye-i barā-ye āyande ast.", "en": "Therefore, everyone who has the chance should learn at least one foreign language; in other words, a language is an investment in the future.", "note": "Corrected. بنابراین now really draws a conclusion; commas after the connector and after the subject clause هر کس که فرصت دارد; and a last phrase that sums up the whole essay."}
+   ],
+   "questions": [
+    {"q": "What is wrong with خیلی خوبه in an essay?", "options": ["It is a spoken form.", "It is spelled wrongly.", "It is too formal."], "answer": 0},
+    {"q": "Why is بنابراین wrong in Tom's fourth draft sentence?", "options": ["It should come at the end.", "Nothing in it follows from the previous sentence.", "It needs a half-space."], "answer": 1},
+    {"q": "Which marks did Tom have to change?", "options": ["? and \" \" into ؟/. and « »", "، into ,", "« » into \" \""], "answer": 0}
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Enshā: the Iranian school essay",
+   "md": "Every Iranian remembers [[انشا|enshā]], the composition class of primary and secondary school, and its famous topics. The most famous of all is [[علم بهتر است یا ثروت؟|elm behtar ast yā servat?|Is knowledge better, or wealth?]] – a topic so overused that it has become a joke for anything predictable. Others are [[تابستان خود را چگونه گذراندید؟|tābestān-e khod rā chegune gozarāndid?|How did you spend your summer?]] and descriptions of spring or of 'my mother'.\n\nSchool essays follow the three-part plan of this lesson – [[مقدمه|moghaddame|introduction]], [[بدنه|badane|body]], [[نتیجه‌گیری|natije-giri|conclusion]] – and many teachers like a line of poetry or a proverb at the start or the end. That habit is worth copying, sparingly: a well-placed verse of Saadi is the Persian essay's equivalent of a good quotation.\n\nFor adults, the classic guide to good written Persian is [[غلط ننویسیم|ghalat na-nevisim|Let's not write incorrectly]] (1987) by the translator and editor Abolhassan Najafi, which campaigned against needless loan structures – among them [[می‌باشد|mi-bāshad]] for است and the passive with [[توسط|tavassot-e]]. The Academy of Persian Language and Literature, [[فرهنگستان زبان و ادب فارسی|farhangestān-e zabān va adab-e fārsi]], publishes the official spelling rules, including when to use the half-space.",
+   "image": "education-iran"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "Write the topic sentence first, then the conclusion, then fill in the middle. It keeps every paragraph on one idea.",
+    "Read your text aloud. If you run out of breath before the verb, the sentence is too long – split it.",
+    "Use the half-space (نیم‌فاصله): on most Persian keyboards it is Shift+Space, and on phones it usually sits next to the space bar. می‌روم، کتاب‌ها، خانه‌ی من.",
+    "Don't carry English punctuation over: no comma before و in a list, « » instead of \" \", and the Persian ، ؛ ؟.",
+    "Vary your connectors, but don't overdo them: one every two or three sentences is plenty.",
+    "Collect good sentences. When you read a Persian text you like, copy two or three sentences by hand – the old way Iranian students learned to write."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Choose the connector",
+   "items": [
+    {"fa": "هوا خیلی گرم بود؛ ___، به کوه نرفتیم.", "r": "havā kheyli garm bud; ___, be kuh na-raftim.", "en": "It was very hot; therefore we didn't go to the mountains.", "answer": "بنابراین", "hint": "therefore"},
+    {"fa": "مترو ارزان است و ___ آلودگی هوا را کم می‌کند.", "r": "metro arzān ast va ___ āludegi-ye havā rā kam mi-konad.", "en": "The metro is cheap and also reduces air pollution.", "answer": "همچنین", "hint": "also (written)"},
+    {"fa": "مسابقه لغو شد، ___ باران شدیدی می‌بارید.", "r": "mosābeghe laghv shod, ___ bārān-e shadid-i mi-bārid.", "en": "The match was cancelled, because heavy rain was falling.", "answer": "زیرا", "hint": "because (written)"},
+    {"fa": "از یک ___، شهر امکانات بیشتری دارد؛ از سوی دیگر، آلوده‌تر است.", "r": "az yek ___, shahr emkānāt-e bishtar-i dārad; az su-ye digar, ālude-tar ast.", "en": "On the one hand the city has more facilities; on the other, it is more polluted.", "answer": "سو"},
+    {"fa": "او ساعت‌ها تمرین کرد و در ___ اول شد.", "r": "u sā'at-hā tamrin kard va dar ___ avval shod.", "en": "He practised for hours and as a result came first.", "answer": "نتیجه"},
+    {"fa": "مینا درس می‌خواند، در ___ که برادرش بازی می‌کرد.", "r": "Minā dars mi-khānd, dar ___ ke barādar-ash bāzi mi-kard.", "en": "Mina was studying while her brother was playing.", "answer": "حالی"}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Punctuation and connectors",
+   "items": [
+    {"q": "Which sentence is punctuated correctly?", "options": ["سیب، پرتقال، و انار خریدم.", "سیب، پرتقال و انار خریدم.", "سیب پرتقال، و انار خریدم."], "answer": 1, "explain": "Commas between the items, but none before the last و."},
+    {"q": "Which mark goes at the end of [[نمی‌دانم کجا رفت|nemi-dānam kojā raft]]?", "options": ["؟", ".", "!"], "answer": 1, "explain": "It is an indirect question – really a statement – so it ends with a full stop."},
+    {"q": "Which is the Persian way to quote someone?", "options": ["او گفت: \"می‌آیم.\"", "او گفت: «می‌آیم.»", "او گفت، می‌آیم؟"], "answer": 1},
+    {"q": "[[از یک سو|az yek su]] must be followed later by…", "options": ["از سوی دیگر", "بنابراین", "برای مثال"], "answer": 0},
+    {"q": "Which connector brings you back to your point after a concession ('…; nevertheless, …')?", "options": ["علاوه بر این", "با این حال", "به عبارت دیگر"], "answer": 1},
+    {"q": "Which is correctly written?", "options": ["کتابها", "کتاب‌ها", "کتاب ها"], "answer": 1, "explain": "The plural ـها is joined with a half-space: neither glued on nor after a full space."}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Write it well",
+   "items": [
+    {"en": "In my opinion, learning a language is a necessity.", "fa": "به نظر من، یادگیری زبان یک ضرورت است.", "r": "be nazar-e man, yādgiri-ye zabān yek zarurat ast."},
+    {"en": "This method is slow; nevertheless, it works.", "fa": "این روش کند است؛ با این حال، نتیجه می‌دهد.", "r": "in ravesh kond ast; bā in hāl, natije mi-dahad."},
+    {"en": "Moreover, the metro is cheap.", "fa": "علاوه بر این، مترو ارزان است.", "r": "alāve bar in, metro arzān ast."},
+    {"en": "Reza was reading, while Sara was writing.", "fa": "رضا کتاب می‌خواند، در حالی که سارا می‌نوشت.", "r": "Rezā ketāb mi-khānd, dar hāl-i ke Sārā mi-nevesht."},
+    {"en": "Therefore, everyone should learn at least one foreign language.", "fa": "بنابراین، همه باید دست‌کم یک زبان خارجی یاد بگیرند.", "r": "banābar-in, hame bāyad dast-e-kam yek zabān-e khāreji yād begirand."},
+    {"en": "In other words, language is an investment.", "fa": "به عبارت دیگر، زبان یک سرمایه است.", "r": "be ebārat-e digar, zabān yek sarmāye ast."}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {"fa": "بنابراین، همه باید زبان یاد بگیرند.", "r": "banābar-in, hame bāyad zabān yād begirand.", "en": "Therefore, everyone should learn languages."},
+    {"fa": "علاوه بر این، مترو ارزان است.", "r": "alāve bar in, metro arzān ast.", "en": "Moreover, the metro is cheap."},
+    {"fa": "از یک سو، سخت است؛ از سوی دیگر، لذت‌بخش است.", "r": "az yek su, sakht ast; az su-ye digar, lezzat-bakhsh ast.", "en": "On the one hand it's hard; on the other, it's enjoyable."},
+    {"fa": "به عبارت دیگر، زبان یک سرمایه است.", "r": "be ebārat-e digar, zabān yek sarmāye ast.", "en": "In other words, language is an investment."}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Match the connector with its meaning",
+   "items": [
+    {"fa": "بنابراین", "r": "banābar-in", "en": "therefore"},
+    {"fa": "با این حال", "r": "bā in hāl", "en": "nevertheless"},
+    {"fa": "علاوه بر این", "r": "alāve bar in", "en": "moreover"},
+    {"fa": "در نتیجه", "r": "dar natije", "en": "as a result"},
+    {"fa": "به عبارت دیگر", "r": "be ebārat-e digar", "en": "in other words"},
+    {"fa": "در حالی که", "r": "dar hāl-i ke", "en": "while, whereas"},
+    {"fa": "برای مثال", "r": "barā-ye mesāl", "en": "for example"},
+    {"fa": "در مجموع", "r": "dar majmu'", "en": "all in all"}
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {"fa": "با این حال، فایده‌های آن بسیار بیشتر است.", "r": "bā in hāl, fāyede-hā-ye ān besyār bish-tar ast.", "en": "Nevertheless, its benefits are far greater.", "options": ["Therefore, it is very expensive.", "Nevertheless, its benefits are far greater.", "Moreover, it is very difficult."], "answer": 1},
+    {"fa": "از یک سو، شهر بزرگ است؛ از سوی دیگر، آرام است.", "r": "az yek su, shahr bozorg ast; az su-ye digar, ārām ast.", "en": "On the one hand the city is big; on the other, it is quiet.", "options": ["The city is big and noisy.", "The city is small but quiet.", "On the one hand the city is big; on the other, it is quiet."], "answer": 2},
+    {"fa": "در نتیجه، مسابقه لغو شد.", "r": "dar natije, mosābeghe laghv shod.", "en": "As a result, the match was cancelled.", "options": ["As a result, the match was cancelled.", "In other words, the match was won.", "Moreover, the match was long."], "answer": 0}
+   ]
+  }
+ ]
+}

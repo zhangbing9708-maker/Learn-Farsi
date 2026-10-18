@@ -1,0 +1,268 @@
+{
+ "id": "a1-the-red-apple",
+ "level": "A1",
+ "kind": "everyday life",
+ "title": "The red apple",
+ "titleFa": "سیب قرمز",
+ "titleR": "sib-e ghermez",
+ "image": "education-iran",
+ "intro": "Sara takes a big red apple to school, and at break time her friend Leila is hungry. A short story about sharing that practises colours, the object marker را (سیب را, 'the apple'), possessive endings like کیفش 'her bag', and one simple past verb. Look out for the surprise inside the apple.",
+ "source": "An original story for this course.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "سارا یک سیب قرمز دارد.",
+     "r": "Sārā yek sib-e ghermez dārad.",
+     "en": "Sara has a red apple.",
+     "faV": "سارا یِک سیبِ قِرمِز دارَد.",
+     "a": "723b34cb30a1"
+    },
+    {
+     "fa": "سیب بزرگ و خیلی قشنگ است.",
+     "r": "sib bozorg o kheyli ghashang ast.",
+     "en": "The apple is big and very pretty.",
+     "faV": "سیب بُزُرگ و خَیلی قَشَنگ اَست.",
+     "a": "bca1429405fe"
+    },
+    {
+     "fa": "سارا سیب را در کیفش می‌گذارد و به مدرسه می‌رود.",
+     "r": "Sārā sib rā dar kif-ash mi-gozārad o be madrese mi-ravad.",
+     "en": "Sara puts the apple in her bag and goes to school.",
+     "faV": "سارا سیب را دَر کیفَش می‌گُذارَد و به مَدرِسه می‌رَوَد.",
+     "a": "1ef2517cacbe"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "ساعت ده، زنگ تفریح است.",
+     "r": "sā'at-e dah, zang-e tafrih ast.",
+     "en": "At ten o'clock it is break time.",
+     "faV": "ساعَتِ دَه، زَنگِ تَفریح اَست.",
+     "a": "41a234be22e9"
+    },
+    {
+     "fa": "لیلا، دوست سارا، گرسنه است.",
+     "r": "Leylā, dust-e Sārā, gorosne ast.",
+     "en": "Leila, Sara's friend, is hungry.",
+     "faV": "لَیلا، دوستِ سارا، گُرُسنه اَست.",
+     "a": "c6e51da7a42e"
+    },
+    {
+     "fa": "او امروز صبحانه نخورد.",
+     "r": "u emruz sobhāne na-khord.",
+     "en": "She didn't eat breakfast today.",
+     "faV": "او اِمروز صُبحانه نَخورد.",
+     "a": "c1305d53b8b0"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "سارا سیب را از کیفش برمی‌دارد.",
+     "r": "Sārā sib rā az kif-ash bar-mi-dārad.",
+     "en": "Sara takes the apple out of her bag.",
+     "faV": "سارا سیب را اَز کیفَش بَرمی‌دارَد.",
+     "a": "61ec446233e0"
+    },
+    {
+     "fa": "او می‌گوید: «لیلا، این سیب برای من و تو است.»",
+     "r": "u mi-guyad: «Leylā, in sib barā-ye man o to ast.»",
+     "en": "She says: \"Leila, this apple is for you and me.\"",
+     "faV": "او می‌گویَد: «لَیلا، این سیب بَرایِ مَن و تو اَست.»",
+     "a": "17ac56fee56d"
+    },
+    {
+     "fa": "معلم یک چاقو دارد.",
+     "r": "mo'allem yek chāghu dārad.",
+     "en": "The teacher has a knife.",
+     "faV": "مُعَلِّم یِک چاقو دارَد.",
+     "a": "2d94c2aa5520"
+    },
+    {
+     "fa": "سارا سیب را نصف می‌کند.",
+     "r": "Sārā sib rā nesf mi-konad.",
+     "en": "Sara cuts the apple in half.",
+     "faV": "سارا سیب را نِصف می‌کُنَد.",
+     "a": "af807b7a0d60"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "وسط سیب یک ستاره هست!",
+     "r": "vasat-e sib yek setāre hast!",
+     "en": "There is a star in the middle of the apple!",
+     "faV": "وَسَطِ سیب یِک سِتاره هَست!",
+     "a": "a00d9120f09f"
+    },
+    {
+     "fa": "لیلا می‌گوید: «وای! یک ستاره‌ی کوچک!»",
+     "r": "Leylā mi-guyad: «vāy! yek setāre-ye kuchak!»",
+     "en": "Leila says: \"Wow! A little star!\"",
+     "faV": "لَیلا می‌گویَد: «وای! یِک سِتاره‌یِ کوچَک!»",
+     "a": "242ce9a10a71"
+    },
+    {
+     "fa": "دو دختر سیب را با هم می‌خورند.",
+     "r": "do dokhtar sib rā bā ham mi-khorand.",
+     "en": "The two girls eat the apple together.",
+     "faV": "دو دُختَر سیب را با هَم می‌خورَند.",
+     "a": "889b35111e79"
+    },
+    {
+     "fa": "لیلا می‌گوید: «ممنون، سارا! فردا من یک سیب می‌آورم.»",
+     "r": "Leylā mi-guyad: «mamnun, Sārā! fardā man yek sib mi-āvaram.»",
+     "en": "Leila says: \"Thank you, Sara! Tomorrow I'll bring an apple.\"",
+     "faV": "لَیلا می‌گویَد: «مَمنون، سارا! فَردا مَن یِک سیب می‌آوَرَم.»",
+     "a": "f65af18db315"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "سیب",
+   "r": "sib",
+   "en": "apple",
+   "faV": "سیب",
+   "a": "51b578f9c3af"
+  },
+  {
+   "fa": "قرمز",
+   "r": "ghermez",
+   "en": "red",
+   "faV": "قِرمِز",
+   "a": "3cfb304a2732"
+  },
+  {
+   "fa": "قشنگ",
+   "r": "ghashang",
+   "en": "pretty, beautiful",
+   "faV": "قَشَنگ",
+   "a": "af2b25c8879d"
+  },
+  {
+   "fa": "گذاشتن",
+   "r": "gozāshtan",
+   "en": "to put (present: می‌گذارد)",
+   "faV": "گُذاشتَن",
+   "a": "a67b6f6d10bd"
+  },
+  {
+   "fa": "کیف",
+   "r": "kif",
+   "en": "bag, schoolbag",
+   "faV": "کیف",
+   "a": "23072f064230"
+  },
+  {
+   "fa": "زنگ تفریح",
+   "r": "zang-e tafrih",
+   "en": "break time (at school)",
+   "faV": "زَنگِ تَفریح",
+   "a": "a2a7422ce4ff"
+  },
+  {
+   "fa": "گرسنه",
+   "r": "gorosne",
+   "en": "hungry",
+   "faV": "گُرُسنه",
+   "a": "490e2629fd98"
+  },
+  {
+   "fa": "برداشتن",
+   "r": "bar-dāshtan",
+   "en": "to pick up, take out",
+   "faV": "بَرداشتَن",
+   "a": "b55ba86f112c"
+  },
+  {
+   "fa": "برای",
+   "r": "barā-ye",
+   "en": "for",
+   "faV": "بَرایِ",
+   "a": "3aef8d38106e"
+  },
+  {
+   "fa": "چاقو",
+   "r": "chāghu",
+   "en": "knife",
+   "faV": "چاقو",
+   "a": "57dffca32fb4"
+  },
+  {
+   "fa": "نصف",
+   "r": "nesf",
+   "en": "half (nesf kardan: to cut in half)",
+   "faV": "نِصف",
+   "a": "d5f70bd1af51"
+  },
+  {
+   "fa": "وسط",
+   "r": "vasat",
+   "en": "middle (vasat-e …: in the middle of)",
+   "faV": "وَسَط",
+   "a": "9799b84d4040"
+  },
+  {
+   "fa": "ستاره",
+   "r": "setāre",
+   "en": "star",
+   "faV": "سِتاره",
+   "a": "5805beb0866e"
+  },
+  {
+   "fa": "با هم",
+   "r": "bā ham",
+   "en": "together",
+   "faV": "با هَم",
+   "a": "97e70d927e21"
+  }
+ ],
+ "questions": [
+  {
+   "q": "What colour is Sara's apple?",
+   "options": [
+    "green",
+    "red",
+    "yellow"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Why is Leila hungry?",
+   "options": [
+    "she didn't eat breakfast",
+    "she played football",
+    "she doesn't like apples"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What is in the middle of the apple?",
+   "options": [
+    "a stone",
+    "a star",
+    "a flower"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What will Leila bring tomorrow?",
+   "options": [
+    "bread",
+    "a knife",
+    "an apple"
+   ],
+   "answer": 2
+  }
+ ],
+ "after": "Try it yourself: cut an apple across the middle, not from top to bottom, and the seeds make a five-pointed star. Notice را after سیب in سیب را نصف می‌کند: the apple is a particular one that we already know, so it gets را; in سارا یک سیب قرمز دارد it is just 'an apple', so there is no را. زنگ تفریح, break time, is literally 'the bell of recreation' – Iranian schools ring a bell for it. And نخورد 'she didn't eat' is the simple past with the negative na-: you will meet it properly in lesson 19.",
+ "titleV": "سیبِ قِرمِز",
+ "titleA": "a20adc51d397"
+}

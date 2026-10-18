@@ -1,0 +1,439 @@
+{
+ "id": "attar-conference-opening",
+ "poet": "Attar",
+ "poetFa": "عطار",
+ "work": "Mantiq al-Tayr",
+ "century": "12th",
+ "title": "The birds gather",
+ "titleFa": "مجمع مرغان",
+ "titleR": "majma'-e morghān",
+ "form": "masnavi (rhyming couplets)",
+ "intro": "Farid al-Din Attar (about 1145–1221) was a pharmacist of Nishapur – *'attār* means 'seller of perfumes and drugs' – and one of the great Sufi poets. In his *Mantiq al-Tayr* ('The Speech of the Birds', 1177) all the birds of the world meet to find a king. The hoopoe, once King Solomon's messenger, tells them they have one: the Simorgh, who lives behind Mount Qaf at the edge of the world. The birds set off, but one by one they make excuses – the nightingale cannot leave the rose, the peacock dreams of paradise, the duck will not leave its water – and the hoopoe answers each with a story. The road crosses seven valleys: quest, love, knowledge, detachment, unity, bewilderment, and poverty and annihilation. Of thousands, only thirty birds arrive. When at last they see the Simorgh, they see themselves: they are *si morgh*, 'thirty birds'.",
+ "lines": [
+  {
+   "fa": "مجمعی کردند مرغان جهان / آنچه بودند آشکارا و نهان",
+   "r": "majma'i kardand morghān-e jahān / ānche budand āshkārā vo nahān",
+   "en": "The birds of the world held a gathering, / all that there were, both seen and unseen.",
+   "words": [
+    [
+     "مجمع",
+     "majma'",
+     "gathering, assembly"
+    ],
+    [
+     "مجمعی کردن",
+     "majma'i kardan",
+     "to hold a meeting"
+    ],
+    [
+     "مرغان",
+     "morghān",
+     "birds (مرغ 'bird' + ـان)"
+    ],
+    [
+     "آنچه بودند",
+     "ānche budand",
+     "all that there were"
+    ],
+    [
+     "آشکارا",
+     "āshkārā",
+     "visible, in the open"
+    ],
+    [
+     "نهان",
+     "nahān",
+     "hidden"
+    ]
+   ],
+   "faV": "مَجمَعی کَردَند مُرغانِ جَهان / آنچه بودَند آشکارا و نَهان",
+   "a": "a6d39544f4c6"
+  },
+  {
+   "fa": "جمله گفتند این زمان در دور کار / نیست خالی هیچ شهر از شهریار",
+   "r": "jomle goftand in zamān dar dowr-e kār / nist khāli hich shahr az shahriyār",
+   "en": "They all said: 'In these times, the way the world goes, / no city anywhere is without a king.",
+   "words": [
+    [
+     "جمله",
+     "jomle",
+     "all of them"
+    ],
+    [
+     "این زمان",
+     "in zamān",
+     "at this time, nowadays"
+    ],
+    [
+     "دور",
+     "dowr",
+     "age, the turning of the world"
+    ],
+    [
+     "خالی از",
+     "khāli az",
+     "empty of, without"
+    ],
+    [
+     "شهریار",
+     "shahriyār",
+     "king, ruler"
+    ]
+   ],
+   "faV": "جُمله گُفتَند این زَمان دَر دَورِ کار / نیست خالی هیچ شَهر اَز شَهریار",
+   "a": "3db93d3863f2"
+  },
+  {
+   "fa": "چون بود کاقلیم ما را شاه نیست / بیش ازین بی‌شاه بودن راه نیست",
+   "r": "chon bovad keghlim-e mā rā shāh nist / bish azin bi-shāh budan rāh nist",
+   "en": "How can it be that our land has no king? / We cannot go on any longer without one.",
+   "words": [
+    [
+     "چون بود",
+     "chon bovad",
+     "how can it be? – چون = چگونه"
+    ],
+    [
+     "کاقلیم",
+     "keghlim",
+     "that the realm – که + اقلیم"
+    ],
+    [
+     "اقلیم",
+     "eghlim",
+     "region, realm (from Greek *klima*)"
+    ],
+    [
+     "ما را شاه نیست",
+     "mā rā shāh nist",
+     "we have no king – را here means 'to, for'"
+    ],
+    [
+     "بیش ازین",
+     "bish azin",
+     "any longer"
+    ],
+    [
+     "راه نیست",
+     "rāh nist",
+     "there is no way, it cannot be"
+    ]
+   ],
+   "faV": "چون بُوَد کاِقلیمِ ما را شاه نیست / بیش اَزین بی‌شاه بودَن راه نیست",
+   "a": "b2498eb7b5c4"
+  },
+  {
+   "fa": "یکدگر را شاید ار یاری کنیم / پادشاهی را طلبکاری کنیم",
+   "r": "yekdegar rā shāyad ar yāri konim / pādeshāhi rā talabkāri konim",
+   "en": "It would be right for us to help one another / and go in search of a king.",
+   "words": [
+    [
+     "یکدگر",
+     "yekdegar",
+     "one another – یکدیگر"
+    ],
+    [
+     "شاید",
+     "shāyad",
+     "it is fitting (the old meaning; today 'perhaps')"
+    ],
+    [
+     "ار",
+     "ar",
+     "if – short for اگر"
+    ],
+    [
+     "یاری کردن",
+     "yāri kardan",
+     "to help"
+    ],
+    [
+     "پادشاهی",
+     "pādeshāhi",
+     "a king (پادشاه + ـی)"
+    ],
+    [
+     "طلبکاری",
+     "talabkāri",
+     "seeking, search (today طلبکار means 'creditor')"
+    ]
+   ],
+   "faV": "یِکدِگَر را شایَد اَر یاری کُنیم / پادِشاهی را طَلَبکاری کُنیم",
+   "a": "6e640fb0563b"
+  },
+  {
+   "fa": "زانکه چون کشور بود بی‌پادشاه / نظم و ترتیبی نماند در سپاه",
+   "r": "zān-ke chon keshvar bovad bi-pādeshāh / nazm o tartibi namānad dar sepāh",
+   "en": "For when a country has no king, / there is no order and no discipline in its army.'",
+   "words": [
+    [
+     "زانکه",
+     "zān-ke",
+     "because – از آن که"
+    ],
+    [
+     "کشور",
+     "keshvar",
+     "country"
+    ],
+    [
+     "بی‌پادشاه",
+     "bi-pādeshāh",
+     "without a king"
+    ],
+    [
+     "نظم و ترتیب",
+     "nazm o tartib",
+     "order and arrangement"
+    ],
+    [
+     "سپاه",
+     "sepāh",
+     "army"
+    ]
+   ],
+   "faV": "زانکه چون کِشوَر بُوَد بی‌پادِشاه / نَظم و تَرتیبی نَمانَد دَر سِپاه",
+   "a": "6ede0327d03c"
+  },
+  {
+   "fa": "پس همه با جایگاهی آمدند / سر به سر جویای شاهی آمدند",
+   "r": "pas hame bā jāygāhi āmadand / sar be sar juyā-ye shāhi āmadand",
+   "en": "So they all came to a meeting place, / every one of them in search of a king.",
+   "words": [
+    [
+     "پس",
+     "pas",
+     "then, so"
+    ],
+    [
+     "جایگاه",
+     "jāygāh",
+     "place, meeting place"
+    ],
+    [
+     "با … آمدن",
+     "bā … āmadan",
+     "to come to (a place) – an old use of با"
+    ],
+    [
+     "سر به سر",
+     "sar be sar",
+     "from end to end, all of them"
+    ],
+    [
+     "جویا",
+     "juyā",
+     "seeking, in search of"
+    ]
+   ],
+   "faV": "پَس هَمه با جایگاهی آمَدَند / سَر به سَر جویایِ شاهی آمَدَند",
+   "a": "89828932e95e"
+  },
+  {
+   "fa": "هدهد آشفته‌دل پرانتظار / در میان جمع آمد بی‌قرار",
+   "r": "hodhod-e āshofte-del por-entezār / dar miyān-e jam' āmad bi-gharār",
+   "en": "The hoopoe, troubled at heart and full of expectation, / came restless into the middle of the crowd.",
+   "words": [
+    [
+     "هدهد",
+     "hodhod",
+     "hoopoe"
+    ],
+    [
+     "آشفته‌دل",
+     "āshofte-del",
+     "troubled at heart, agitated"
+    ],
+    [
+     "پرانتظار",
+     "por-entezār",
+     "full of expectation"
+    ],
+    [
+     "جمع",
+     "jam'",
+     "gathering, crowd"
+    ],
+    [
+     "بی‌قرار",
+     "bi-gharār",
+     "restless"
+    ]
+   ],
+   "faV": "هُدهُدِ آشُفته‌دِل پُراِنتِظار / دَر میانِ جَمع آمَد بی‌قَرار",
+   "a": "5a07f40b9277"
+  },
+  {
+   "fa": "حله‌ای بود از طریقت در برش / افسری بود از حقیقت بر سرش",
+   "r": "holle-i bud az tarighat dar bar-ash / afsari bud az haghighat bar sar-ash",
+   "en": "He wore a robe made of the Path, / and on his head a crown made of the Truth.",
+   "note": "Sufis speak of three stages: شریعت *shari'at*, the religious law; طریقت *tarighat*, the mystic path; and حقیقت *haghighat*, the truth at its end. The hoopoe's 'crown' is also its crest.",
+   "words": [
+    [
+     "حله",
+     "holle",
+     "robe, fine garment"
+    ],
+    [
+     "طریقت",
+     "tarighat",
+     "the (Sufi) Path"
+    ],
+    [
+     "در بر",
+     "dar bar",
+     "on the body, worn"
+    ],
+    [
+     "افسر",
+     "afsar",
+     "crown (today 'officer')"
+    ],
+    [
+     "حقیقت",
+     "haghighat",
+     "Truth, Reality – the goal of the Path"
+    ]
+   ],
+   "faV": "حُلّه‌ای بود اَز طَریقَت دَر بَرَش / اَفسَری بود اَز حَقیقَت بَر سَرَش",
+   "a": "a558948a7a61"
+  },
+  {
+   "fa": "تیزوهمی بود در راه آمده / از بد و از نیک آگاه آمده",
+   "r": "tiz-vahmi bud dar rāh āmade / az bad o az nik āgāh āmade",
+   "en": "He was quick of mind and had travelled the road; / he knew both bad and good.",
+   "words": [
+    [
+     "تیزوهم",
+     "tiz-vahm",
+     "quick-witted, sharp of mind"
+    ],
+    [
+     "در راه آمده",
+     "dar rāh āmade",
+     "one who has come along the road – experienced"
+    ],
+    [
+     "بد و نیک",
+     "bad o nik",
+     "bad and good"
+    ],
+    [
+     "آگاه",
+     "āgāh",
+     "aware, knowing"
+    ]
+   ],
+   "faV": "تیزوَهمی بود دَر راه آمَده / اَز بَد و اَز نیک آگاه آمَده",
+   "a": "3e8c9dfa2328"
+  },
+  {
+   "fa": "گفت ای مرغان منم بی‌هیچ ریب / هم برید حضرت و هم پیک غیب",
+   "r": "goft ey morghān manam bi-hich reyb / ham barid-e hazrat o ham peyk-e gheyb",
+   "en": "He said: 'Birds, without any doubt I am / the courier of the Presence and the messenger of the Unseen.'",
+   "note": "Here the hoopoe goes on for several couplets about his service as Solomon's messenger; they are not included on this page. The next two couplets are where he names the king.",
+   "words": [
+    [
+     "منم",
+     "manam",
+     "I am – من + ـم"
+    ],
+    [
+     "بی‌هیچ ریب",
+     "bi-hich reyb",
+     "without any doubt (ریب, Arabic 'doubt')"
+    ],
+    [
+     "برید",
+     "barid",
+     "courier, royal messenger"
+    ],
+    [
+     "حضرت",
+     "hazrat",
+     "the Presence – the court of God (today a title of respect)"
+    ],
+    [
+     "پیک",
+     "peyk",
+     "messenger"
+    ],
+    [
+     "غیب",
+     "gheyb",
+     "the Unseen"
+    ]
+   ],
+   "faV": "گُفت اَی مُرغان مَنَم بی‌هیچ رَیب / هَم بَریدِ حَضرَت و هَم پَیکِ غَیب",
+   "a": "084e02c41ec1"
+  },
+  {
+   "fa": "هست ما را پادشاهی بی‌خلاف / در پس کوهی که هست آن کوه قاف",
+   "r": "hast mā rā pādeshāhi bi-khelāf / dar pas-e kuhi ke hast ān kuh-e ghāf",
+   "en": "'We do have a king, beyond all dispute; / he lives behind a mountain, and that mountain is Qaf.",
+   "words": [
+    [
+     "ما را … هست",
+     "mā rā … hast",
+     "we have (lit. 'to us there is')"
+    ],
+    [
+     "بی‌خلاف",
+     "bi-khelāf",
+     "beyond dispute, without doubt"
+    ],
+    [
+     "در پس",
+     "dar pas-e",
+     "behind"
+    ],
+    [
+     "کوه قاف",
+     "kuh-e ghāf",
+     "Mount Qaf, the mountain that rings the world"
+    ]
+   ],
+   "faV": "هَست ما را پادِشاهی بی‌خِلاف / دَر پَسِ کوهی که هَست آن کوهِ قاف",
+   "a": "1d11b440fbfc"
+  },
+  {
+   "fa": "نام او سیمرغ سلطان طیور / او به ما نزدیک و ما زو دور دور",
+   "r": "nām-e u simorgh soltān-e toyur / u be mā nazdik o mā zu dur dur",
+   "en": "His name is Simorgh, the sultan of the birds; / he is close to us, and we are far, far from him.'",
+   "note": "«او به ما نزدیک و ما زو دور دور» is often quoted on its own: God is near to us, but we are far from him.",
+   "words": [
+    [
+     "سیمرغ",
+     "simorgh",
+     "the Simorgh, the great mythical bird of Iranian legend"
+    ],
+    [
+     "سلطان",
+     "soltān",
+     "sultan, king"
+    ],
+    [
+     "طیور",
+     "toyur",
+     "birds (Arabic plural of طیر)"
+    ],
+    [
+     "نزدیک",
+     "nazdik",
+     "near"
+    ],
+    [
+     "زو",
+     "zu",
+     "from him – از او"
+    ]
+   ],
+   "faV": "نامِ او سیمُرغ سُلطانِ طُیور / او به ما نَزدیک و ما زو دور دور",
+   "a": "6b2cec4520d5"
+  }
+ ],
+ "commentary": "**The story.** The opening is a little political comedy – a parliament of birds complaining that every city has a king except theirs – and then the hoopoe steps forward. In the Quran the hoopoe is Solomon's messenger to the Queen of Sheba; here it becomes the spiritual guide, wearing the robe of the Path and the crown of the Truth, and it knows the way. The king it describes is the opposite of an earthly king: hidden behind the mountain at the end of the world, and so close that all the distance is on the birds' side. The birds think they are looking for a ruler. The end of the poem shows that they were looking for themselves.\n\n**The rhythm.** Attar wrote in *ramal*, the metre Rumi later took for the *Masnavi*: *DUM-da-DUM-DUM DUM-da-DUM-DUM DUM-da-DUM*. Listen to *maj-ma-'i kar-dand mor-ghā-ne ja-hān*. Each couplet rhymes on its own – [[جهان|jahān]] / [[نهان|nahān]], [[کار|kār]] / [[شهریار|shahriyār]], [[برش|bar-ash]] / [[سرش|sar-ash]] – and several repeat a word after the rhyme, like [[نیست|nist]], [[کنیم|konim]] and [[آمدند|āmadand]].\n\n**The grammar.** Two old uses of [[را|rā]] are worth learning: [[ما را شاه نیست|mā rā shāh nist]] 'we have no king' and [[هست ما را پادشاهی|hast mā rā pādeshāhi]] 'we have a king'. Here [[را|rā]] means 'to, for': 'to us there is a king'. [[شاید|shāyad]] means 'it is fitting', not 'perhaps'; [[ار|ar]] is [[اگر|agar]]; [[زانکه|zān-ke]] is 'because'; [[زو|zu]] is [[از او|az u]]. Couplet 3 in modern prose: [[چطور ممکن است که سرزمین ما شاه نداشته باشد؟ بیش از این نمی‌شود بی‌شاه ماند|chetowr momken ast ke sarzamin-e mā shāh nadāshte bāshad? bish az in nemi-shavad bi-shāh mānd]].\n\n**Using it.** The Simorgh is an old Iranian bird – in the *Shahnameh* it raises the hero Zal in its nest on Mount Alborz – and Attar's pun [[سی مرغ|si morgh]] / [[سیمرغ|simorgh]] is one of the most famous in the language. Iranians quote [[او به ما نزدیک و ما زو دور دور|u be mā nazdik o mā zu dur dur]] about God, or about anyone who is close to us while we keep our distance. And a couplet attributed to Rumi sums up Attar's fame: [[هفت شهر عشق را عطار گشت / ما هنوز اندر خم یک کوچه‌ایم|haft shahr-e 'eshgh rā 'attār gasht / mā hanuz andar kham-e yek kuche-im]] – 'Attar has travelled the seven cities of love; we are still at the bend of the first lane.'",
+ "image": "simurgh",
+ "titleV": "مَجمَعِ مُرغان",
+ "titleA": "5c908ae33ca1"
+}

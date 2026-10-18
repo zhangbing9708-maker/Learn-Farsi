@@ -1,0 +1,264 @@
+{
+ "id": "a1-my-new-friend",
+ "level": "A1",
+ "kind": "everyday life",
+ "title": "My new friend",
+ "titleFa": "دوست جدید من",
+ "titleR": "dust-e jadid-e man",
+ "image": "university-of-tehran",
+ "intro": "Tom, an Australian student, is having tea in the café of the University of Tehran when a young man sits down next to him. The story practises introducing yourself – names, 'where are you from?' with اهل, 'pleased to meet you' – and the present tense of everyday verbs. Watch what the two new friends discover they have in common.",
+ "source": "An original story for this course.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "تام دانشجوی استرالیایی است.",
+     "r": "Tām dāneshju-ye ostorāliyāyi ast.",
+     "en": "Tom is an Australian student.",
+     "faV": "تام دانِشجویِ اُستُرالیایی اَست.",
+     "a": "43234871937d"
+    },
+    {
+     "fa": "او در دانشگاه تهران فارسی می‌خواند.",
+     "r": "u dar dāneshgāh-e Tehrān fārsi mi-khānad.",
+     "en": "He studies Persian at the University of Tehran.",
+     "faV": "او دَر دانِشگاهِ تِهران فارسی می‌خوانَد.",
+     "a": "605480b95bb8"
+    },
+    {
+     "fa": "ساعت ده، تام در کافه‌ی دانشگاه چای می‌خورد.",
+     "r": "sā'at-e dah, Tām dar kāfe-ye dāneshgāh chāy mi-khorad.",
+     "en": "At ten o'clock, Tom is having tea in the university café.",
+     "faV": "ساعَتِ دَه، تام دَر کافه‌یِ دانِشگاه چای می‌خورَد.",
+     "a": "f9be17244b80"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "یک پسر جوان کنار او می‌نشیند.",
+     "r": "yek pesar-e javān kenār-e u mi-neshinad.",
+     "en": "A young man sits down next to him.",
+     "faV": "یِک پِسَرِ جَوان کِنارِ او می‌نِشینَد.",
+     "a": "3b4d4141ddcc"
+    },
+    {
+     "fa": "او می‌گوید: «سلام! من امیر هستم.»",
+     "r": "u mi-guyad: «salām! man Amir hastam.»",
+     "en": "He says: \"Hello! I'm Amir.\"",
+     "faV": "او می‌گویَد: «سَلام! مَن اَمیر هَستَم.»",
+     "a": "9db186d1c4d8"
+    },
+    {
+     "fa": "تام می‌گوید: «سلام! من تام هستم. خوشبختم.»",
+     "r": "Tām mi-guyad: «salām! man Tām hastam. khosh-bakht-am.»",
+     "en": "Tom says: \"Hello! I'm Tom. Pleased to meet you.\"",
+     "faV": "تام می‌گویَد: «سَلام! مَن تام هَستَم. خوشبَختَم.»",
+     "a": "55fc3198d460"
+    },
+    {
+     "fa": "امیر می‌پرسد: «تو اهل کجا هستی؟»",
+     "r": "Amir mi-porsad: «to ahl-e kojā hasti?»",
+     "en": "Amir asks: \"Where are you from?\"",
+     "faV": "اَمیر می‌پُرسَد: «تو اَهلِ کُجا هَستی؟»",
+     "a": "3b2d0c6e40b8"
+    },
+    {
+     "fa": "تام می‌گوید: «من اهل استرالیا هستم.»",
+     "r": "Tām mi-guyad: «man ahl-e Ostorāliyā hastam.»",
+     "en": "Tom says: \"I'm from Australia.\"",
+     "faV": "تام می‌گویَد: «مَن اَهلِ اُستُرالیا هَستَم.»",
+     "a": "e9091a44d164"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "امیر انگلیسی می‌خواند، اما انگلیسی‌اش خوب نیست.",
+     "r": "Amir engelisi mi-khānad, ammā engelisi-ash khub nist.",
+     "en": "Amir studies English, but his English isn't good.",
+     "faV": "اَمیر اِنگِلیسی می‌خوانَد، اَمّا اِنگِلیسی‌اَش خوب نیست.",
+     "a": "7a03bbd6a15c"
+    },
+    {
+     "fa": "فارسی تام هم خوب نیست!",
+     "r": "fārsi-ye Tām ham khub nist!",
+     "en": "Tom's Persian isn't good either!",
+     "faV": "فارسیِ تام هَم خوب نیست!",
+     "a": "0d114a598047"
+    },
+    {
+     "fa": "هر دو می‌خندند.",
+     "r": "har do mi-khandand.",
+     "en": "They both laugh.",
+     "faV": "هَر دو می‌خَندَند.",
+     "a": "3487cdb30c4a"
+    },
+    {
+     "fa": "امیر می‌گوید: «من به تو فارسی یاد می‌دهم و تو به من انگلیسی یاد می‌دهی.»",
+     "r": "Amir mi-guyad: «man be to fārsi yād mi-daham o to be man engelisi yād mi-dahi.»",
+     "en": "Amir says: \"I'll teach you Persian and you'll teach me English.\"",
+     "faV": "اَمیر می‌گویَد: «مَن به تو فارسی یاد می‌دَهَم و تو به مَن اِنگِلیسی یاد می‌دَهی.»",
+     "a": "37d03743ffe2"
+    },
+    {
+     "fa": "تام می‌گوید: «عالی است!»",
+     "r": "Tām mi-guyad: «'āli ast!»",
+     "en": "Tom says: \"Great!\"",
+     "faV": "تام می‌گویَد: «عالی اَست!»",
+     "a": "04847dbfccfb"
+    },
+    {
+     "fa": "حالا تام یک معلم و یک دوست جدید دارد.",
+     "r": "hālā Tām yek mo'allem o yek dust-e jadid dārad.",
+     "en": "Now Tom has a teacher and a new friend.",
+     "faV": "حالا تام یِک مُعَلِّم و یِک دوستِ جَدید دارَد.",
+     "a": "03936d4d4c32"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "دانشجو",
+   "r": "dāneshju",
+   "en": "university student",
+   "faV": "دانِشجو",
+   "a": "0cf8e25653d0"
+  },
+  {
+   "fa": "دانشگاه",
+   "r": "dāneshgāh",
+   "en": "university",
+   "faV": "دانِشگاه",
+   "a": "890634c6c97a"
+  },
+  {
+   "fa": "استرالیایی",
+   "r": "ostorāliyāyi",
+   "en": "Australian",
+   "faV": "اُستُرالیایی",
+   "a": "734bdec840b6"
+  },
+  {
+   "fa": "کافه",
+   "r": "kāfe",
+   "en": "café",
+   "faV": "کافه",
+   "a": "4e4994e07e3b"
+  },
+  {
+   "fa": "جوان",
+   "r": "javān",
+   "en": "young",
+   "faV": "جَوان",
+   "a": "ec8b926bd07f"
+  },
+  {
+   "fa": "کنار",
+   "r": "kenār",
+   "en": "next to, beside (kenār-e …)",
+   "faV": "کِنار",
+   "a": "f85c2cc257e9"
+  },
+  {
+   "fa": "نشستن",
+   "r": "neshastan",
+   "en": "to sit, sit down (present: می‌نشیند)",
+   "faV": "نِشَستَن",
+   "a": "8600d789726d"
+  },
+  {
+   "fa": "خوشبختم",
+   "r": "khosh-bakht-am",
+   "en": "pleased to meet you",
+   "faV": "خوشبَختَم",
+   "a": "bdc22bc5f9ae"
+  },
+  {
+   "fa": "اهل",
+   "r": "ahl",
+   "en": "from, a native of (ahl-e …)",
+   "faV": "اَهل",
+   "a": "0e391e5ba467"
+  },
+  {
+   "fa": "انگلیسی",
+   "r": "engelisi",
+   "en": "English",
+   "faV": "اِنگِلیسی",
+   "a": "619ccc33945e"
+  },
+  {
+   "fa": "خندیدن",
+   "r": "khandidan",
+   "en": "to laugh",
+   "faV": "خَندیدَن",
+   "a": "6456af638563"
+  },
+  {
+   "fa": "یاد دادن",
+   "r": "yād dādan",
+   "en": "to teach",
+   "faV": "یاد دادَن",
+   "a": "a2589df8c750"
+  },
+  {
+   "fa": "جدید",
+   "r": "jadid",
+   "en": "new",
+   "faV": "جَدید",
+   "a": "1b9a18d171c8"
+  },
+  {
+   "fa": "حالا",
+   "r": "hālā",
+   "en": "now",
+   "faV": "حالا",
+   "a": "cd356e657f7f"
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where is Tom from?",
+   "options": [
+    "Iran",
+    "Australia",
+    "England"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Where does Tom meet Amir?",
+   "options": [
+    "in the university café",
+    "at the bakery",
+    "on the bus"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does Amir study?",
+   "options": [
+    "Persian",
+    "maths",
+    "English"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What does Tom have at the end of the story?",
+   "options": [
+    "a new book",
+    "a teacher and a new friend",
+    "a cup of coffee"
+   ],
+   "answer": 1
+  }
+ ],
+ "after": "Two pairs of verbs are worth learning together: یاد گرفتن 'to learn' (literally 'to take memory') and یاد دادن 'to teach' ('to give memory'). Amir and Tom will do both. Notice also اهل کجا هستی؟ 'where are you from?' – اهل means 'a native of', so the answer is اهل استرالیا هستم. خوشبختم, 'pleased to meet you', literally means 'I am fortunate'. And see how quickly the two students use تو, the friendly 'you': between young people of the same age, شما soon feels too formal. A language exchange like theirs is very common at Iranian universities – and a good way to make friends.",
+ "titleV": "دوستِ جَدیدِ مَن",
+ "titleA": "0a43cc6e817d"
+}

@@ -1,0 +1,914 @@
+{
+ "id": "b2-07-dialects-and-accents",
+ "level": "B2",
+ "n": 7,
+ "title": "Dialects and accents: the many voices of Iran",
+ "titleFa": "لهجه‌ها و زبان‌های ایران",
+ "titleR": "lahje-hā o zabān-hā-ye Irān",
+ "intro": "Everyone in Iran writes the same Persian, but nobody speaks it in quite the same way. Tehrani has become the spoken standard of radio, television and film; Isfahan, Shiraz, Mashhad, Yazd and Kerman each have a tune of their own; and millions of Iranians grow up with another mother tongue altogether – Azerbaijani Turkish, Kurdish, Gilaki, Lori, Baluchi, Arabic and more. This lesson teaches you to tell an accent from a language, to recognise the best-known regional features, and to talk about language and identity with tact.",
+ "goals": [
+  "explain the difference between لهجه (accent), گویش (dialect) and زبان (language)",
+  "recognise a few features of Tehrani, Isfahani, Shirazi, Mashhadi, Yazdi and Kermani speech",
+  "name the other languages of Iran, where they are spoken and which family they belong to",
+  "talk respectfully about mother tongues, bilingualism and accents"
+ ],
+ "image": "iran-map",
+ "sections": [
+  {
+   "type": "reading",
+   "title": "Tom's notebook: a country of many voices",
+   "intro": "After three months of travelling, Tom writes in his notebook about what he has heard. Notice how he separates accents of Persian from other languages.",
+   "sentences": [
+    {
+     "fa": "سه ماه است که در ایران سفر می‌کنم و هر شهر صدای خودش را دارد.",
+     "r": "se māh ast ke dar Irān safar mi-konam o har shahr sedā-ye khod-ash rā dārad.",
+     "en": "I have been travelling in Iran for three months, and every city has a voice of its own."
+    },
+    {
+     "fa": "در تهران فارسی را همان‌طور یاد گرفتم که در رادیو و تلویزیون می‌شنوید.",
+     "r": "dar Tehrān fārsi rā hamān-towr yād gereftam ke dar rādiyo o televiziyon mi-shenavid.",
+     "en": "In Tehran I learned Persian the way you hear it on the radio and television."
+    },
+    {
+     "fa": "فارسی تهرانی امروز زبان گفتاری معیار است و بیشتر فیلم‌ها و سریال‌ها به همین لهجه‌اند.",
+     "r": "fārsi-ye tehrāni emruz zabān-e goftāri-ye me'yār ast o bishtar-e film-hā o seriyāl-hā be hamin lahje-and.",
+     "en": "Tehrani Persian is today's spoken standard, and most films and series are in this accent."
+    },
+    {
+     "fa": "در اصفهان صاحب یک مغازه‌ی فرش با من حرف می‌زد و حرف‌هایش مثل آواز بود.",
+     "r": "dar Esfahān sāheb-e yek maghāze-ye farsh bā man harf mi-zad o harf-hā-yash mesl-e āvāz bud.",
+     "en": "In Isfahan the owner of a carpet shop talked to me, and his speech was like singing."
+    },
+    {
+     "fa": "آخر جمله‌هایش را می‌کشید و صدایش بالا و پایین می‌رفت.",
+     "r": "ākhar-e jomle-hā-yash rā mi-keshid o sedā-yash bālā o pāyin mi-raft.",
+     "en": "He stretched out the ends of his sentences, and his voice went up and down."
+    },
+    {
+     "fa": "در شیراز راننده‌ی تاکسی مرا «کاکو» صدا کرد؛ بعد فهمیدم یعنی «برادر» یا «رفیق».",
+     "r": "dar Shirāz rānande-ye tāksi marā «kāku» sedā kard; ba'd fahmidam ya'ni «barādar» yā «rafigh».",
+     "en": "In Shiraz the taxi driver called me kāku; later I learned that it means 'brother' or 'mate'."
+    },
+    {
+     "fa": "شیرازی‌ها آرام و با حوصله حرف می‌زنند و کلمه‌ها را کمی می‌کشند.",
+     "r": "Shirāzi-hā ārām o bā howsele harf mi-zanand o kalame-hā rā kam-i mi-keshand.",
+     "en": "Shirazis speak slowly and patiently and draw their words out a little."
+    },
+    {
+     "fa": "در مشهد و یزد و کرمان هم لهجه‌ها را شنیدم، ولی هنوز همه را از هم تشخیص نمی‌دهم.",
+     "r": "dar Mashhad o Yazd o Kermān ham lahje-hā rā shenidam, vali hanuz hame rā az ham tashkhis nemi-daham.",
+     "en": "I heard the accents of Mashhad, Yazd and Kerman too, but I still can't tell them all apart."
+    },
+    {
+     "fa": "در تبریز ماجرا فرق داشت: مردم در خانه و بازار به ترکی آذربایجانی حرف می‌زدند.",
+     "r": "dar Tabriz mājarā fargh dāsht: mardom dar khāne o bāzār be torki-ye āzarbāyjāni harf mi-zadand.",
+     "en": "In Tabriz it was different: people spoke Azerbaijani Turkish at home and in the bazaar."
+    },
+    {
+     "fa": "ترکی آذربایجانی لهجه‌ی فارسی نیست؛ زبانی جداست، از خانواده‌ی زبان‌های ترکی.",
+     "r": "torki-ye āzarbāyjāni lahje-ye fārsi nist; zabān-i jodā-st, az khānevāde-ye zabān-hā-ye torki.",
+     "en": "Azerbaijani Turkish is not an accent of Persian; it is a separate language, from the Turkic family."
+    },
+    {
+     "fa": "با این حال، همه‌ی کسانی که دیدم فارسی را هم خیلی خوب حرف می‌زدند.",
+     "r": "bā in hāl, hame-ye kas-āni ke didam fārsi rā ham kheyli khub harf mi-zadand.",
+     "en": "Even so, everyone I met spoke excellent Persian as well."
+    },
+    {
+     "fa": "در رشت مادربزرگ دوستم با نوه‌هایش گیلکی صحبت می‌کرد.",
+     "r": "dar Rasht mādar-bozorg-e dust-am bā nave-hā-yash gilaki sohbat mi-kard.",
+     "en": "In Rasht my friend's grandmother spoke Gilaki with her grandchildren."
+    },
+    {
+     "fa": "در سنندج، در یک عروسی، مردم به کردی آواز می‌خواندند و دست‌جمعی می‌رقصیدند.",
+     "r": "dar Sanandaj, dar yek arusi, mardom be kordi āvāz mi-khāndand o dast-jam'i mi-raghsidand.",
+     "en": "In Sanandaj, at a wedding, people sang in Kurdish and danced together in a line."
+    },
+    {
+     "fa": "ایران کشور یک زبان نیست، بلکه کشور چندین زبان است که فارسی میان آن‌ها مشترک است.",
+     "r": "Irān keshvar-e yek zabān nist, balke keshvar-e chandin zabān ast ke fārsi miyān-e ān-hā moshtarak ast.",
+     "en": "Iran is not a country of one language but of many, and Persian is the one they share."
+    },
+    {
+     "fa": "حالا وقتی کسی لهجه دارد، دیگر نمی‌پرسم «کجایی هستی؟»؛ گوش می‌دهم و حدس می‌زنم.",
+     "r": "hālā vaghti kas-i lahje dārad, digar nemi-porsam «kojā-yi hasti?»; gush mi-daham o hads mi-zanam.",
+     "en": "Now, when someone has an accent, I no longer ask 'Where are you from?' – I listen and guess."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What did Tom notice about the Isfahani shopkeeper's speech?",
+     "options": [
+      "It was very fast",
+      "It went up and down like singing",
+      "It was full of Turkish words"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What does کاکو mean in Shiraz?",
+     "options": [
+      "brother, mate",
+      "taxi",
+      "uncle"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What did people speak at home in Tabriz?",
+     "options": [
+      "Gilaki",
+      "Kurdish",
+      "Azerbaijani Turkish"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "Accent, dialect, language",
+   "md": "Persian has three words you will need:\n\n- [[لهجه|lahje]] – an **accent** or local way of speaking Persian: *lahje-ye esfahāni*, the Isfahani accent. Same words and grammar, different sounds, tune and a few local words.\n- [[گویش|guyesh]] – a **dialect** or local speech that is further from standard Persian, often a whole local language. Iranians often call Gilaki or Mazandarani a *guyesh*; linguists usually treat them as languages of their own.\n- [[زبان|zabān]] – a **language**: Persian, Kurdish, Azerbaijani Turkish, Armenian.\n\nWhere the line falls between *guyesh* and *zabān* is partly a matter of habit and of politics, so when in doubt say *zabān* – nobody is offended to hear that their mother tongue is a language.\n\n**The written standard** is the same all over Iran. **The spoken standard** is educated Tehrani – the Persian of the capital, of television news and of almost every film. It is what you learned in [[چطوری؟|chetowri?]] and [[می‌رم|mi-ram]]: *ān* becomes *un* (نون), *-ad* becomes *-e* (می‌ره), *ast* becomes *-e*. Iranians from other cities switch into it easily with strangers – and back into their own accent with family.\n\nIran's constitution makes Persian the official language and the language of schooling, and also allows the regional languages in the press and media and the teaching of their literature in schools. Most Iranians whose mother tongue is not Persian are bilingual."
+  },
+  {
+   "type": "vocab",
+   "title": "Words",
+   "items": [
+    {
+     "fa": "لهجه",
+     "r": "lahje",
+     "en": "accent, local way of speaking",
+     "pos": "n",
+     "ex": {
+      "fa": "لهجه‌ات اصفهانی است؟",
+      "r": "lahje-at Esfahāni ast?",
+      "en": "Is your accent from Isfahan?",
+      "col": "لهجه‌ت اصفهانیه؟",
+      "colR": "lahje-t Esfahāniye?"
+     }
+    },
+    {
+     "fa": "گویش",
+     "r": "guyesh",
+     "en": "dialect, local speech",
+     "pos": "n"
+    },
+    {
+     "fa": "زبان مادری",
+     "r": "zabān-e mādari",
+     "en": "mother tongue",
+     "pos": "phrase"
+    },
+    {
+     "fa": "دوزبانه",
+     "r": "dozabāne",
+     "en": "bilingual",
+     "pos": "adj",
+     "ex": {
+      "fa": "بسیاری از ایرانی‌ها دوزبانه‌اند.",
+      "r": "besyār-i az irāni-hā dozabāne-and.",
+      "en": "Many Iranians are bilingual."
+     }
+    },
+    {
+     "fa": "آهنگ کلام",
+     "r": "āhang-e kalām",
+     "en": "intonation, the tune of speech",
+     "pos": "phrase"
+    },
+    {
+     "fa": "کشیدن",
+     "r": "keshidan",
+     "en": "to pull; to stretch out, draw out (a sound)",
+     "pos": "v",
+     "note": "present stem کش (kesh)"
+    },
+    {
+     "fa": "گفتاری",
+     "r": "goftāri",
+     "en": "spoken (language)",
+     "pos": "adj",
+     "note": "opposite: نوشتاری (neveshtāri) 'written'"
+    },
+    {
+     "fa": "معیار",
+     "r": "me'yār",
+     "en": "standard, norm",
+     "pos": "n",
+     "ex": {
+      "fa": "فارسی معیار",
+      "r": "fārsi-ye me'yār",
+      "en": "standard Persian"
+     }
+    },
+    {
+     "fa": "محلی",
+     "r": "mahalli",
+     "en": "local",
+     "pos": "adj"
+    },
+    {
+     "fa": "همشهری",
+     "r": "hamshahri",
+     "en": "someone from the same town",
+     "pos": "n",
+     "ex": {
+      "fa": "ما همشهری هستیم؛ هر دو اهل یزدیم.",
+      "r": "mā hamshahri hastim; har do ahl-e Yazd-im.",
+      "en": "We're from the same town – we're both from Yazd."
+     }
+    },
+    {
+     "fa": "اهل",
+     "r": "ahl-e",
+     "en": "from (a place), native of",
+     "pos": "prep",
+     "ex": {
+      "fa": "شما اهل کجا هستید؟",
+      "r": "shomā ahl-e kojā hastid?",
+      "en": "Where are you from?",
+      "col": "شما اهل کجایین؟",
+      "colR": "shomā ahl-e kojā-yin?"
+     }
+    },
+    {
+     "fa": "تشخیص دادن",
+     "r": "tashkhis dādan",
+     "en": "to tell apart, recognise; to diagnose",
+     "pos": "v"
+    },
+    {
+     "fa": "حدس زدن",
+     "r": "hads zadan",
+     "en": "to guess",
+     "pos": "v"
+    },
+    {
+     "fa": "تقلید کردن",
+     "r": "taghlid kardan",
+     "en": "to imitate",
+     "pos": "v",
+     "note": "spoken: ادا درآوردن (adā dar-āvardan) 'to mimic, take off'"
+    },
+    {
+     "fa": "خانواده‌ی زبانی",
+     "r": "khānevāde-ye zabāni",
+     "en": "language family",
+     "pos": "phrase"
+    },
+    {
+     "fa": "ترکی آذربایجانی",
+     "r": "torki-ye āzarbāyjāni",
+     "en": "Azerbaijani Turkish",
+     "pos": "n",
+     "note": "often simply ترکی (torki)"
+    },
+    {
+     "fa": "کردی",
+     "r": "kordi",
+     "en": "Kurdish",
+     "pos": "n"
+    },
+    {
+     "fa": "گیلکی",
+     "r": "gilaki",
+     "en": "Gilaki (the language of Gilan)",
+     "pos": "n"
+    },
+    {
+     "fa": "مازندرانی",
+     "r": "māzandarāni",
+     "en": "Mazandarani (also called Tabari)",
+     "pos": "n"
+    },
+    {
+     "fa": "لری",
+     "r": "lori",
+     "en": "Lori, Luri",
+     "pos": "n"
+    },
+    {
+     "fa": "بلوچی",
+     "r": "baluchi",
+     "en": "Baluchi",
+     "pos": "n"
+    },
+    {
+     "fa": "ترکمنی",
+     "r": "torkamani",
+     "en": "Turkmen",
+     "pos": "n"
+    },
+    {
+     "fa": "ارمنی",
+     "r": "armani",
+     "en": "Armenian",
+     "pos": "n"
+    },
+    {
+     "fa": "کاکو",
+     "r": "kāku",
+     "en": "brother, mate (Shiraz and the south)",
+     "pos": "n"
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "Accents of Persian: what you may hear",
+   "md": "The differences between Iranian accents are mostly in the **tune** (آهنگ کلام), in a few **sounds**, and in a handful of **local words**; the grammar is the same. The descriptions below are what learners usually notice first. Accents vary from street to street and from one generation to the next – younger people everywhere sound more Tehrani – so treat every line as *you may hear*, not *everybody says*.\n\nTwo warnings. First, Iranian comedy loves accents, and so do Iranians themselves when they tease each other; as a foreigner, enjoy them but don't put them on for laughs. Second, nobody's accent is 'wrong' – an Isfahani speaking Isfahani is as correct as a Tehrani speaking Tehrani.",
+   "table": {
+    "head": [
+     "Accent",
+     "What you may hear",
+     "Example"
+    ],
+    "rows": [
+     ["Tehran (تهرانی)", "The spoken standard: quick, with the voice falling at the end of a statement; *ān* → *un*, *-ad* → *-e*, *ast* → *-e*.", "[[نون|nun]] for نان, [[می‌ره|mi-re]] for می‌رود"],
+     ["Isfahan (اصفهانی)", "The best-known tune in Iran: a long rise and fall, with the last syllable of a phrase stretched – Iranians call it singing. You may also hear a *d* at the end of a word sound like *t*, and some people say Isfahanis use the old plural *-ān* more than Tehranis do.", "you may hear [[چقز|cheghaz]] for چقدر 'how much', *ziyāt* for زیاد"],
+     ["Shiraz (شیرازی)", "Slow, relaxed and warm, with long drawn-out vowels; friendly forms of address.", "[[کاکو|kāku]] 'brother, mate'"],
+     ["Mashhad (مشهدی)", "A rhythm of its own and a rounder *ā*; older people may use words of the Khorasan countryside.", "you may hear older speakers say [[مو|mo]] for من 'I'"],
+     ["Yazd (یزدی)", "A calm, even tune; many older local words, and vowels that can sound closer to written Persian.", "you may hear [[مو|mo]] for 'I' among older people"],
+     ["Kerman (کرمانی)", "A lilting tune that Iranians recognise at once; local words, especially among older speakers.", "you may hear [[مو|mo]] for 'I' here too"]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "خانم، نان تازه دارید؟",
+     "r": "khānom, nān-e tāze dārid?",
+     "en": "Excuse me (madam), do you have fresh bread?",
+     "col": "خانم، نون تازه دارین؟",
+     "colR": "khānum, nun-e tāze dārin?",
+     "note": "Tehrani raises *ā* and *o* before n and m: *nun*, *khānum*. Isfahan does the same."
+    },
+    {
+     "fa": "این فرش چقدر است؟",
+     "r": "in farsh cheghadr ast?",
+     "en": "How much is this carpet?",
+     "col": "این فرش چنده؟",
+     "colR": "in farsh chande?",
+     "note": "In Isfahan you may hear *cheghaz?* – sung, with a long last syllable."
+    },
+    {
+     "fa": "کاکو، کجا می‌روی؟",
+     "r": "kāku, kojā mi-ravi?",
+     "en": "Where are you off to, mate?",
+     "col": "کاکو، کجا می‌ری؟",
+     "colR": "kāku, kojā mi-ri?",
+     "note": "Very Shirazi. Said slowly and warmly, it sounds friendly, not rude."
+    },
+    {
+     "fa": "من فردا به مشهد می‌روم.",
+     "r": "man fardā be Mashhad mi-ravam.",
+     "en": "I'm going to Mashhad tomorrow.",
+     "col": "من فردا می‌رم مشهد.",
+     "colR": "man fardā mi-ram Mashhad.",
+     "note": "In Mashhad, Yazd or Kerman you may hear an older speaker begin with *mo* instead of *man*."
+    },
+    {
+     "fa": "شیرازی‌ها خیلی آرام حرف می‌زنند.",
+     "r": "Shirāzi-hā kheyli ārām harf mi-zanand.",
+     "en": "Shirazis speak very calmly.",
+     "col": "شیرازیا خیلی یواش حرف می‌زنن.",
+     "colR": "Shirāzi-yā kheyli yavāsh harf mi-zanan."
+    },
+    {
+     "fa": "هر شهری لهجه‌ی خودش را دارد.",
+     "r": "har shahr-i lahje-ye khod-ash rā dārad.",
+     "en": "Every city has its own accent.",
+     "col": "هر شهری لهجه‌ی خودشو داره.",
+     "colR": "har shahr-i lahje-ye khod-esho dāre."
+    },
+    {
+     "fa": "در تلویزیون بیشتر مجری‌ها با لهجه‌ی تهرانی حرف می‌زنند.",
+     "r": "dar televiziyon bishtar-e mojri-hā bā lahje-ye tehrāni harf mi-zanand.",
+     "en": "On television most presenters speak with a Tehrani accent.",
+     "note": "Local radio and TV stations in the provinces also broadcast in regional accents and languages."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "The other languages of Iran",
+   "md": "Many Iranians grow up with a mother tongue other than Persian and learn Persian at school, so that by adulthood they are fully bilingual. These are **languages**, not accents of Persian. Some are close relatives of Persian (the **Iranian** languages: Kurdish, Lori, Gilaki, Mazandarani, Baluchi); others belong to entirely different families – **Turkic** (Azerbaijani, Turkmen, Qashqai), **Semitic** (Arabic, and the Neo-Aramaic of the Assyrian Christians) and Armenian, a branch of Indo-European of its own.\n\nThe table is a simple map, not a census. There are also smaller languages – Talysh and Tati in the north-west, Hawrami in the Kurdish mountains, the Turkic of the Qashqai nomads – and the borders between them are blurred: many villages are home to two languages at once.",
+   "table": {
+    "head": [
+     "Language",
+     "Family",
+     "Mainly spoken in",
+     "Good to know"
+    ],
+    "rows": [
+     ["[[ترکی آذربایجانی|torki-ye āzarbāyjāni]]", "Turkic", "the north-west: East and West Azerbaijan, Ardabil, Zanjan; also many people in Tehran", "After Persian, the most widely spoken language in Iran. 'How are you?' is *Necəsən?*"],
+     ["[[کردی|kordi]]", "Iranian (north-western)", "the west: Kurdistan, Kermanshah, West Azerbaijan, Ilam; Kurmanji also in North Khorasan", "Several varieties: Sorani around Sanandaj and Mahabad, Southern Kurdish around Kermanshah, Kurmanji in the north. 'How are you?' in Sorani: *Choni?*"],
+     ["[[گیلکی|gilaki]]", "Iranian (Caspian)", "Gilan: Rasht, Lahijan", "Close to Mazandarani; famous for its songs."],
+     ["[[مازندرانی|māzandarāni]]", "Iranian (Caspian)", "Mazandaran", "Also called Tabari, after Tabarestan, the old name of the province."],
+     ["[[لری|lori]]", "Iranian (south-western)", "Lorestan and the Zagros; Bakhtiari is a close relative", "The nearest relative of Persian in this table."],
+     ["[[بلوچی|baluchi]]", "Iranian (north-western)", "Sistan and Baluchestan", "Also spoken in Pakistan, Afghanistan and Oman."],
+     ["[[عربی|arabi]]", "Semitic", "Khuzestan and the coast of the Persian Gulf", "Close to the Arabic of southern Iraq; quite unlike the Arabic words in Persian."],
+     ["[[ترکمنی|torkamani]]", "Turkic", "Golestan (Gonbad-e Kavus, Bandar Torkaman) and North Khorasan", "Close to the language of Turkmenistan."],
+     ["[[ارمنی|armani]]", "Indo-European (a branch of its own)", "Tehran, Isfahan's New Julfa, Tabriz, Urmia", "Armenians have lived in Iran for many centuries and have their own schools and churches. 'Hello' is *Barev!*"]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "در تبریز بیشتر مردم ترکی آذربایجانی حرف می‌زنند.",
+     "r": "dar Tabriz bishtar-e mardom torki-ye āzarbāyjāni harf mi-zanand.",
+     "en": "In Tabriz most people speak Azerbaijani Turkish."
+    },
+    {
+     "fa": "مادربزرگم فقط گیلکی و کمی فارسی بلد است.",
+     "r": "mādar-bozorg-am faghat gilaki o kam-i fārsi balad ast.",
+     "en": "My grandmother knows only Gilaki and a little Persian.",
+     "col": "مادربزرگم فقط گیلکی و یه کم فارسی بلده.",
+     "colR": "mādar-bozorg-am faghat gilaki o ye kam fārsi balade."
+    },
+    {
+     "fa": "کردی و فارسی هر دو از زبان‌های ایرانی‌اند.",
+     "r": "kordi o fārsi har do az zabān-hā-ye irāni-and.",
+     "en": "Kurdish and Persian are both Iranian languages."
+    },
+    {
+     "fa": "ارمنی‌های اصفهان در محله‌ی جلفا زندگی می‌کنند.",
+     "r": "armani-hā-ye Esfahān dar mahalle-ye Jolfā zendegi mi-konand.",
+     "en": "The Armenians of Isfahan live in the Julfa quarter.",
+     "note": "Shah Abbas brought them from Julfa on the Aras river in the early 1600s; the Vank Cathedral stands in New Julfa."
+    },
+    {
+     "fa": "در خانه به لری حرف می‌زنیم و در مدرسه به فارسی.",
+     "r": "dar khāne be lori harf mi-zanim o dar madrese be fārsi.",
+     "en": "At home we speak Lori, and at school Persian.",
+     "col": "تو خونه لری حرف می‌زنیم، تو مدرسه فارسی.",
+     "colR": "tu khune lori harf mi-zanim, tu madrese fārsi."
+    },
+    {
+     "fa": "عربی خوزستان به عربی جنوب عراق نزدیک است.",
+     "r": "arabi-ye Khuzestān be arabi-ye jonub-e Erāgh nazdik ast.",
+     "en": "The Arabic of Khuzestan is close to the Arabic of southern Iraq."
+    },
+    {
+     "fa": "بلوچی را در ایران، پاکستان و افغانستان حرف می‌زنند.",
+     "r": "baluchi rā dar Irān, Pākestān o Afghānestān harf mi-zanand.",
+     "en": "Baluchi is spoken in Iran, Pakistan and Afghanistan."
+    }
+   ]
+  },
+  {
+   "type": "grammar",
+   "title": "'What are you doing?' around the map",
+   "md": "Here is one everyday question as you might hear it in different places. The Persian accents use the **same words** – what changes is the tune and a few sounds, which no spelling can show – so the transliterations below are **approximate**. The last rows are not accents but other languages, added so you can recognise them.",
+   "table": {
+    "head": [
+     "Where",
+     "Approximately",
+     "Note"
+    ],
+    "rows": [
+     ["written Persian", "[[چه کار می‌کنی؟|che kār mi-koni?]]", "the book form"],
+     ["Tehran", "[[چی‌کار می‌کنی؟|chi-kār mi-koni?]] or [[داری چی‌کار می‌کنی؟|dāri chi-kār mi-koni?]]", "quick; *dāri* adds 'right now'"],
+     ["Isfahan", "*chi-kār mikoniii?*", "same words, a long rise and fall on the last word (approximate)"],
+     ["Shiraz", "*chi-kār mikoni, kāku?*", "slower and warmer, often with *kāku* for a friend (approximate)"],
+     ["Mashhad", "*chi-kār mikoni?*", "same words, with a rounder *ā* in *kār* (approximate)"],
+     ["Yazd, Kerman", "*chi-kār mikoni?*", "same words with the local tune; vowels may sound closer to the written ones (approximate)"],
+     ["Kabul (Dari)", "*chi kār mēkuni?*", "mē- for mi-; see lesson 6"],
+     ["Dushanbe (Tajik)", "Чӣ кор мекунӣ? *chī kor mekunī?*", "'right now': Чӣ кор карда истодаӣ?"],
+     ["Tabriz – Azerbaijani Turkish", "*Nə edirsən?*", "another language (approximate)"],
+     ["Sanandaj – Kurdish (Sorani)", "*Chi dekeyt?*", "another language (approximate)"]
+    ]
+   },
+   "examples": [
+    {
+     "fa": "چه کار می‌کنی؟",
+     "r": "che kār mi-koni?",
+     "en": "What are you doing?",
+     "col": "چی‌کار می‌کنی؟",
+     "colR": "chi-kār mi-koni?"
+    },
+    {
+     "fa": "داری چه کار می‌کنی؟",
+     "r": "dāri che kār mi-koni?",
+     "en": "What are you doing right now?",
+     "col": "داری چی‌کار می‌کنی؟",
+     "colR": "dāri chi-kār mi-koni?"
+    },
+    {
+     "fa": "این روزها چه کار می‌کنی؟",
+     "r": "in ruz-hā che kār mi-koni?",
+     "en": "What are you up to these days?",
+     "col": "این روزا چی‌کار می‌کنی؟",
+     "colR": "in ruzā chi-kār mi-koni?"
+    },
+    {
+     "fa": "هیچ کاری نمی‌کنم، استراحت می‌کنم.",
+     "r": "hich kār-i nemi-konam, esterāhat mi-konam.",
+     "en": "Nothing, I'm resting.",
+     "col": "هیچ‌کاری نمی‌کنم، دارم استراحت می‌کنم.",
+     "colR": "hich-kār-i nemi-konam, dāram esterāhat mi-konam."
+    },
+    {
+     "fa": "دارم برای امتحان درس می‌خوانم.",
+     "r": "dāram barā-ye emtehān dars mi-khānam.",
+     "en": "I'm studying for an exam.",
+     "col": "دارم واسه امتحان درس می‌خونم.",
+     "colR": "dāram vāse emtehān dars mi-khunam."
+    },
+    {
+     "fa": "شما در اصفهان چه کار می‌کنید؟",
+     "r": "shomā dar Esfahān che kār mi-konid?",
+     "en": "What do you do in Isfahan? (What's your work there?)",
+     "col": "شما اصفهان چی‌کار می‌کنین؟",
+     "colR": "shomā Esfahān chi-kār mi-konin?"
+    },
+    {
+     "fa": "کاکو، چه کار می‌کنی؟ بیا چای بخوریم.",
+     "r": "kāku, che kār mi-koni? biyā chāy bokhorim.",
+     "en": "What are you up to, mate? Come and have some tea.",
+     "col": "کاکو، چی‌کار می‌کنی؟ بیا چایی بخوریم.",
+     "colR": "kāku, chi-kār mi-koni? biyā chāyi bokhorim."
+    }
+   ]
+  },
+  {
+   "type": "dialogue",
+   "title": "Two languages at home",
+   "context": "Tom's classmate Mahsa grew up in Tabriz. He overheard her on the phone to her mother yesterday and asks about it over coffee.",
+   "lines": [
+    {
+     "who": "Tom",
+     "fa": "مهسا، دیروز شنیدم با مادرت تلفنی ترکی حرف می‌زدی.",
+     "r": "Mahsā, diruz shenidam bā mādar-at telefoni torki harf mi-zadi.",
+     "en": "Mahsa, yesterday I heard you speaking Turkish to your mother on the phone."
+    },
+    {
+     "who": "Mahsa",
+     "fa": "بله، زبان مادری من ترکی آذربایجانی است. در خانه همیشه ترکی حرف می‌زنیم.",
+     "r": "bale, zabān-e mādari-ye man torki-ye āzarbāyjāni ast. dar khāne hamishe torki harf mi-zanim.",
+     "en": "Yes, my mother tongue is Azerbaijani Turkish. At home we always speak Turkish.",
+     "col": "آره، زبون مادریم ترکیه. تو خونه همیشه ترکی حرف می‌زنیم.",
+     "colR": "āre, zabun-e mādari-yam torki-ye. tu khune hamishe torki harf mi-zanim."
+    },
+    {
+     "who": "Tom",
+     "fa": "پس فارسی را کجا یاد گرفتی؟",
+     "r": "pas fārsi rā kojā yād gerefti?",
+     "en": "So where did you learn Persian?",
+     "col": "پس فارسی رو کجا یاد گرفتی؟",
+     "colR": "pas fārsi ro kojā yād gerefti?"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "در مدرسه، و از تلویزیون. وقتی هفت سالم بود، فارسی‌ام کمی لهجه داشت.",
+     "r": "dar madrese, o az televiziyon. vaghti haft sāl-am bud, fārsi-am kam-i lahje dāsht.",
+     "en": "At school, and from television. When I was seven, my Persian had a bit of an accent.",
+     "col": "تو مدرسه، از تلویزیون. وقتی هفت سالم بود، فارسیم یه کم لهجه داشت.",
+     "colR": "tu madrese, az televiziyon. vaghti haft sāl-am bud, fārsi-yam ye kam lahje dāsht."
+    },
+    {
+     "who": "Tom",
+     "fa": "هنوز هم لهجه داری؟ من که چیزی نمی‌شنوم.",
+     "r": "hanuz ham lahje dāri? man ke chiz-i nemi-shenavam.",
+     "en": "Do you still have an accent? I can't hear anything.",
+     "col": "هنوزم لهجه داری؟ من که چیزی نمی‌شنوم.",
+     "colR": "hanuz-am lahje dāri? man ke chiz-i nemi-shenavam."
+    },
+    {
+     "who": "Mahsa",
+     "fa": "تهرانی‌ها می‌شنوند! وقتی هیجان‌زده می‌شوم، آهنگ ترکی وارد فارسی‌ام می‌شود.",
+     "r": "tehrāni-hā mi-shenavand! vaghti hayajān-zade mi-shavam, āhang-e torki vāred-e fārsi-am mi-shavad.",
+     "en": "Tehranis can! When I get excited, the Turkish tune creeps into my Persian.",
+     "col": "تهرونیا می‌شنون! وقتی هیجان‌زده می‌شم، آهنگ ترکی میاد تو فارسیم.",
+     "colR": "tehruni-yā mi-shenavan! vaghti hayajān-zade mi-sham, āhang-e torki miyād tu fārsi-yam."
+    },
+    {
+     "who": "Tom",
+     "fa": "یک جمله‌ی ترکی یادم بده.",
+     "r": "yek jomle-ye torki yād-am bede.",
+     "en": "Teach me a sentence in Turkish.",
+     "col": "یه جمله‌ی ترکی یادم بده.",
+     "colR": "ye jomle-ye torki yād-am bede."
+    },
+    {
+     "who": "Mahsa",
+     "fa": "اول یاد بگیر حال کسی را بپرسی؛ معنی‌اش می‌شود «چطوری؟».",
+     "r": "avval yād begir hāl-e kas-i rā beporsi; ma'ni-ash mi-shavad «chetowri?».",
+     "en": "First learn to ask how someone is – it means 'How are you?'.",
+     "col": "اول یاد بگیر حال یکی رو بپرسی؛ معنیش می‌شه «چطوری؟».",
+     "colR": "avval yād begir hāl-e yek-i ro beporsi; ma'ni-sh mi-she «chetowri?».",
+     "note": "She teaches him *Necəsən?* 'How are you?' and the answer *Yaxşıyam* 'I'm fine'."
+    },
+    {
+     "who": "Tom",
+     "fa": "اگر در تبریز با کسی فارسی حرف بزنم، ناراحت نمی‌شود؟",
+     "r": "agar dar Tabriz bā kas-i fārsi harf bezanam, nārāhat nemi-shavad?",
+     "en": "If I speak Persian to someone in Tabriz, won't they mind?",
+     "col": "اگه تو تبریز با یکی فارسی حرف بزنم، ناراحت نمی‌شه؟",
+     "colR": "age tu Tabriz bā yek-i fārsi harf bezanam, nārāhat nemi-she?"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "نه بابا! همه فارسی بلدند. ولی اگر یک کلمه ترکی بگویی، دلشان را به دست می‌آوری.",
+     "r": "na bābā! hame fārsi baladand. vali agar yek kalame torki beguyi, del-eshān rā be dast mi-āvari.",
+     "en": "Not at all! Everyone knows Persian. But if you say one word of Turkish, you'll win their hearts.",
+     "col": "نه بابا! همه فارسی بلدن. ولی اگه یه کلمه ترکی بگی، دلشونو به دست میاری.",
+     "colR": "na bābā! hame fārsi baladan. vali age ye kalame torki begi, del-eshuno be dast miyāri."
+    },
+    {
+     "who": "Tom",
+     "fa": "پس یاد می‌گیرم. ولی لهجه‌ی تبریزی را تقلید نمی‌کنم!",
+     "r": "pas yād mi-giram. vali lahje-ye tabrizi rā taghlid nemi-konam!",
+     "en": "Then I'll learn. But I won't imitate the Tabriz accent!",
+     "col": "پس یاد می‌گیرم. ولی لهجه‌ی تبریزی رو تقلید نمی‌کنم!",
+     "colR": "pas yād mi-giram. vali lahje-ye tabrizi ro taghlid nemi-konam!"
+    },
+    {
+     "who": "Mahsa",
+     "fa": "آفرین. تقلید لهجه برای خنده همیشه جالب نیست.",
+     "r": "āfarin. taghlid-e lahje barā-ye khande hamishe jāleb nist.",
+     "en": "Good for you. Imitating an accent for laughs isn't always funny.",
+     "col": "آفرین. ادای لهجه رو درآوردن همیشه بامزه نیست.",
+     "colR": "āfarin. adā-ye lahje ro dar-āvardan hamishe bā-maze nist."
+    }
+   ]
+  },
+  {
+   "type": "culture",
+   "title": "Many mother tongues, one shared language",
+   "md": "Walk through any Iranian university and you will hear students switch languages in mid-conversation: Azerbaijani Turkish with a friend from Ardabil, Kurdish on the phone to Sanandaj, Persian in the seminar. For most of them, Persian is not a foreign language but a second home – learnt at school, used at work, and often the language of their favourite poetry.\n\nThe regional languages have rich cultures of their own. Kurdish music, with its frame drums, is known all over Iran; Gilaki and Mazandarani folk songs are sung at weddings along the Caspian; Lori and Bakhtiari laments and dances belong to the Zagros. The poet Shahriyar of Tabriz wrote some of the best-loved modern Persian ghazals – and also *Heydar Babaya Salam*, a long poem in Azerbaijani Turkish about his childhood village that is recited in Iran, Azerbaijan and Turkey alike.\n\nA few points of tact:\n\n- Don't call Kurdish or Azerbaijani a 'dialect of Persian'. They are languages, and people care.\n- If friends switch into their mother tongue at home, they are not shutting you out; ask them to teach you a greeting.\n- Iranian comedy has a long tradition of jokes about towns and accents. Many people find them hurtful – it is wiser not to tell them yourself.\n- [[شما اهل کجا هستید؟|shomā ahl-e kojā hastid?|where are you from?]] is a normal, friendly question in Iran. Asking it straight after someone has spoken can sound like a comment on their accent, though – let the conversation get there.",
+   "image": "hawraman"
+  },
+  {
+   "type": "tips",
+   "title": "Tips",
+   "items": [
+    "Learn Tehrani as your spoken model: it is understood everywhere and it is what you hear in films. But train your ear on other accents – podcasts and radio from Isfahan, Shiraz or Mashhad are a good start.",
+    "When you can't follow someone's accent, say so politely: [[ببخشید، می‌شود کمی آرام‌تر بگویید؟|bebakhshid, mi-shavad kam-i ārām-tar beguyid?|sorry, could you say it a little more slowly?]] People will happily switch to a more standard Persian for you.",
+    "A good way to tell an accent from a language: if you understand most of the words but the music is different, it is an accent; if you understand almost nothing, it is probably another language.",
+    "[[ترکی|torki]] in Iran usually means Azerbaijani Turkish, not the Turkish of Turkey (which Iranians call [[ترکی استانبولی|torki-ye estānbuli]]). The two are close relatives and largely understand each other.",
+    "Regional words travel. [[کاکو|kāku]] is Shirazi, but Tehranis use it jokingly too; much of what you think of as 'Tehrani' slang came from other cities.",
+    "In Afghanistan and Tajikistan Persian has its own standards – see the previous lesson. Kabul and Dushanbe are not 'accents of Tehran'."
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "fill",
+   "title": "Complete the sentence",
+   "items": [
+    {
+     "fa": "ترکی آذربایجانی لهجه‌ی فارسی نیست؛ زبانی ___ است.",
+     "r": "torki-ye āzarbāyjāni lahje-ye fārsi nist; zabān-i ___ ast.",
+     "en": "Azerbaijani Turkish is not an accent of Persian; it is a separate language.",
+     "answer": "جدا",
+     "hint": "separate"
+    },
+    {
+     "fa": "در شیراز به دوست و برادر می‌گویند «___».",
+     "r": "dar Shirāz be dust o barādar mi-guyand «___».",
+     "en": "In Shiraz they call a friend or brother kāku.",
+     "answer": "کاکو",
+     "hint": "a Shirazi word"
+    },
+    {
+     "fa": "لهجه‌ی ___ امروز زبان گفتاری معیار است.",
+     "r": "lahje-ye ___ emruz zabān-e goftāri-ye me'yār ast.",
+     "en": "The Tehrani accent is today's spoken standard.",
+     "answer": "تهرانی",
+     "hint": "the capital"
+    },
+    {
+     "fa": "مادربزرگ دوستم در رشت ___ صحبت می‌کند.",
+     "r": "mādar-bozorg-e dust-am dar Rasht ___ sohbat mi-konad.",
+     "en": "My friend's grandmother in Rasht speaks Gilaki.",
+     "answer": "گیلکی",
+     "hint": "the language of Gilan"
+    },
+    {
+     "fa": "بسیاری از ایرانی‌ها ___ هستند و دو زبان را خوب بلدند.",
+     "r": "besyār-i az irāni-hā ___ hastand o do zabān rā khub baladand.",
+     "en": "Many Iranians are bilingual and know two languages well.",
+     "answer": "دوزبانه",
+     "hint": "'two-language'"
+    },
+    {
+     "fa": "اصفهانی‌ها آخر جمله را ___.",
+     "r": "Esfahāni-hā ākhar-e jomle rā ___.",
+     "en": "Isfahanis stretch out the end of the sentence.",
+     "answer": "می‌کشند",
+     "hint": "present of کشیدن"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "mcq",
+   "title": "Accent or language?",
+   "items": [
+    {
+     "q": "Which of these is a separate language, not an accent of Persian?",
+     "options": [
+      "Isfahani",
+      "Shirazi",
+      "Kurdish"
+     ],
+     "answer": 2,
+     "explain": "Kurdish is an Iranian language of its own, related to Persian but not mutually intelligible with it."
+    },
+    {
+     "q": "Which family does Azerbaijani Turkish belong to?",
+     "options": [
+      "Iranian",
+      "Turkic",
+      "Semitic"
+     ],
+     "answer": 1,
+     "explain": "Like Turkmen and the Turkish of Turkey, it is a Turkic language."
+    },
+    {
+     "q": "Which of these languages is the closest relative of Persian?",
+     "options": [
+      "Lori",
+      "Turkmen",
+      "Arabic"
+     ],
+     "answer": 0,
+     "explain": "Lori is a south-western Iranian language like Persian itself; Turkmen is Turkic and Arabic Semitic."
+    },
+    {
+     "q": "What do Iranians notice first about the Isfahani accent?",
+     "options": [
+      "Its Arabic grammar",
+      "Its melody – a long rise and fall",
+      "That it has no verbs"
+     ],
+     "answer": 1,
+     "explain": "The 'singing' tune, with the end of the phrase stretched, is its trademark."
+    },
+    {
+     "q": "[[گویش|guyesh]] usually means…",
+     "options": [
+      "a dialect or local speech, often far from standard Persian",
+      "the written language",
+      "a foreign accent"
+     ],
+     "answer": 0,
+     "explain": "لهجه is an accent of Persian; گویش is used for local speech that is further away, such as Gilaki."
+    },
+    {
+     "q": "Where do many of Isfahan's Armenians live?",
+     "options": [
+      "in the Julfa quarter",
+      "in the bazaar",
+      "on Si-o-se-pol"
+     ],
+     "answer": 0,
+     "explain": "New Julfa, with the Vank Cathedral, was founded by Armenians brought by Shah Abbas in the early 1600s."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "translate",
+   "title": "Say it in Persian",
+   "items": [
+    {
+     "en": "My mother tongue is Kurdish.",
+     "fa": "زبان مادری من کردی است.",
+     "r": "zabān-e mādari-ye man kordi ast."
+    },
+    {
+     "en": "Every city has its own accent.",
+     "fa": "هر شهری لهجه‌ی خودش را دارد.",
+     "r": "har shahr-i lahje-ye khod-ash rā dārad."
+    },
+    {
+     "en": "She is bilingual.",
+     "fa": "او دوزبانه است.",
+     "r": "u dozabāne ast."
+    },
+    {
+     "en": "In Tabriz people speak Azerbaijani Turkish.",
+     "fa": "در تبریز مردم ترکی آذربایجانی حرف می‌زنند.",
+     "r": "dar Tabriz mardom torki-ye āzarbāyjāni harf mi-zanand."
+    },
+    {
+     "en": "I can't tell the accents apart yet.",
+     "fa": "هنوز لهجه‌ها را از هم تشخیص نمی‌دهم.",
+     "r": "hanuz lahje-hā rā az ham tashkhis nemi-daham."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "order",
+   "title": "Put the words in order",
+   "items": [
+    {
+     "fa": "شیرازی‌ها خیلی آرام حرف می‌زنند.",
+     "r": "Shirāzi-hā kheyli ārām harf mi-zanand.",
+     "en": "Shirazis speak very calmly."
+    },
+    {
+     "fa": "کردی و فارسی هر دو از زبان‌های ایرانی‌اند.",
+     "r": "kordi o fārsi har do az zabān-hā-ye irāni-and.",
+     "en": "Kurdish and Persian are both Iranian languages."
+    },
+    {
+     "fa": "در خانه به لری حرف می‌زنیم.",
+     "r": "dar khāne be lori harf mi-zanim.",
+     "en": "At home we speak Lori."
+    },
+    {
+     "fa": "بیشتر فیلم‌ها به لهجه‌ی تهرانی است.",
+     "r": "bishtar-e film-hā be lahje-ye tehrāni ast.",
+     "en": "Most films are in the Tehrani accent."
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "match",
+   "title": "Languages and places",
+   "items": [
+    {
+     "fa": "ترکی آذربایجانی",
+     "r": "torki-ye āzarbāyjāni",
+     "en": "Azerbaijani Turkish – Tabriz, Ardabil"
+    },
+    {
+     "fa": "کردی",
+     "r": "kordi",
+     "en": "Kurdish – Sanandaj, Kermanshah"
+    },
+    {
+     "fa": "گیلکی",
+     "r": "gilaki",
+     "en": "Gilaki – Rasht"
+    },
+    {
+     "fa": "مازندرانی",
+     "r": "māzandarāni",
+     "en": "Mazandarani – Mazandaran"
+    },
+    {
+     "fa": "لری",
+     "r": "lori",
+     "en": "Lori – Lorestan"
+    },
+    {
+     "fa": "بلوچی",
+     "r": "baluchi",
+     "en": "Baluchi – Sistan and Baluchestan"
+    },
+    {
+     "fa": "ترکمنی",
+     "r": "torkamani",
+     "en": "Turkmen – Golestan"
+    },
+    {
+     "fa": "ارمنی",
+     "r": "armani",
+     "en": "Armenian – Isfahan's New Julfa"
+    }
+   ]
+  },
+  {
+   "type": "exercise",
+   "kind": "listen",
+   "title": "Listen and choose",
+   "items": [
+    {
+     "fa": "هر شهری لهجه‌ی خودش را دارد.",
+     "r": "har shahr-i lahje-ye khod-ash rā dārad.",
+     "en": "Every city has its own accent.",
+     "options": [
+      "Every city has its own accent.",
+      "Every city has its own language.",
+      "No city has an accent."
+     ],
+     "answer": 0
+    },
+    {
+     "fa": "مادربزرگم فقط گیلکی بلد است.",
+     "r": "mādar-bozorg-am faghat gilaki balad ast.",
+     "en": "My grandmother only knows Gilaki.",
+     "options": [
+      "My grandmother knows a little Gilaki.",
+      "My grandmother only knows Gilaki.",
+      "My grandmother lives in Gilan."
+     ],
+     "answer": 1
+    },
+    {
+     "fa": "در تبریز بیشتر مردم ترکی حرف می‌زنند.",
+     "r": "dar Tabriz bishtar-e mardom torki harf mi-zanand.",
+     "en": "In Tabriz most people speak Turkish.",
+     "options": [
+      "In Tabriz nobody speaks Turkish.",
+      "In Tabriz people speak Kurdish.",
+      "In Tabriz most people speak Turkish."
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ ]
+}

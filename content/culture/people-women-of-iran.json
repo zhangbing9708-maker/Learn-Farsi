@@ -1,0 +1,81 @@
+{
+ "id": "people-women-of-iran",
+ "topic": "people",
+ "title": "Women of Iran",
+ "titleFa": "زنان ایران",
+ "titleR": "zanān-e Irān",
+ "image": "iranian-women",
+ "summary": "A Sasanian queen, a poet-scholar of the 19th century, two great writers, a mathematician who won the Fields Medal and the first Iranian in space: a few of the women who have shaped Iran's history and culture.",
+ "body": [
+  {
+   "h": "Queens and poets of the past",
+   "md": "[[پوراندخت|Purāndokht|Purandokht]], a daughter of the Sasanian king Khosrow II, ruled the empire briefly around 630, in the chaos after her father's death; she was one of only two women to sit on the Sasanian throne in her own right, and coins were struck with her portrait. She tried to restore order, lighten taxes and make peace with Byzantium.\n\nIn literature, the first known woman poet of New Persian is [[رابعه‌ی بلخی|Rābe'e-ye Balkhi|Rabe'eh of Balkh]], who lived in the 10th century and became a figure of legend.",
+   "image": "sasanian-empire"
+  },
+  {
+   "h": "Tahereh",
+   "md": "Fatemeh Baraghani of Qazvin, known as [[طاهره|Tāhere|'the Pure One']] and Qurrat al-Ayn, was born around 1817 into a family of clergy and became a learned poet and religious scholar – rare for a woman of her time. She joined the new Babi movement and became one of its leaders. In 1848, at a gathering of its followers, she appeared in public without a veil, an act that shocked even many of her companions. She was arrested and executed in Tehran in 1852."
+  },
+  {
+   "h": "Parvin E'tesami",
+   "md": "Parvin E'tesami (1907–1941), born in Tabriz, wrote in the classical forms with complete mastery. Her father, a translator and editor, educated her at home, and she later graduated from the American girls' college in Tehran. Her Divan, first published in 1935, is famous for its [[مناظره|monāzere|debate poems]], in which objects, plants or animals argue with one another, and for its sympathy with orphans, widows and the poor. She died of typhoid at 34."
+  },
+  {
+   "h": "Simin Daneshvar and Forough",
+   "md": "Simin Daneshvar (1921–2012), from Shiraz, published the first collection of short stories by an Iranian woman in 1948, and her novel [[سووشون|Suvashun|Savushun]] (1969) is one of the most widely read Persian novels. Set in Shiraz during the Second World War, it follows a family that tries to keep its dignity under foreign occupation. She taught art history at the University of Tehran and translated Chekhov and Hawthorne.\n\nHer younger contemporary Forough Farrokhzad (1935–1967) opened modern Persian poetry to a woman's own voice (see *Modern Persian poets*).",
+   "image": "simin-daneshvar"
+  },
+  {
+   "h": "Maryam Mirzakhani",
+   "md": "Maryam Mirzakhani (1977–2017) grew up in Tehran and won gold medals at the International Mathematical Olympiad in 1994 and 1995, the second time with a perfect score. After studying at Sharif University she earned her doctorate at Harvard and became a professor at Stanford. Her work on the geometry of curved surfaces won her the Fields Medal in 2014; she was the first woman and the first Iranian to receive it. She died of cancer at the age of 40. Her birthday, 12 May, is now celebrated as the International Day of Women in Mathematics.",
+   "image": "maryam-mirzakhani"
+  },
+  {
+   "h": "Anousheh Ansari",
+   "md": "Anousheh Ansari was born in Mashhad in 1966 and moved to the United States as a teenager. She studied engineering, built a telecommunications company with her family, and helped fund the Ansari X Prize, which rewarded the first private crewed spaceflights. In September 2006 she flew to the International Space Station aboard a Russian Soyuz and spent more than a week there – the first Iranian-born person in space and the first woman to pay for her own trip to the station."
+  }
+ ],
+ "sentences": [
+  {"fa": "پوراندخت دختر خسرو پرویز بود.", "r": "Purāndokht dokhtar-e Khosrow Parviz bud.", "en": "Purandokht was the daughter of Khosrow Parviz."},
+  {"fa": "او یکی از دو ملکه‌ی ساسانی بود که بر ایران حکومت کردند.", "r": "u yek-i az do maleke-ye Sāsāni bud ke bar Irān hokumat kardand.", "en": "She was one of the two Sasanian queens who ruled Iran."},
+  {"fa": "طاهره شاعر و دانشمندی از قزوین بود.", "r": "Tāhere shā'er va dāneshmand-i az Ghazvin bud.", "en": "Tahereh was a poet and scholar from Qazvin."},
+  {"fa": "پروین اعتصامی در تبریز به دنیا آمد.", "r": "Parvin E'tesāmi dar Tabriz be donyā āmad.", "en": "Parvin E'tesami was born in Tabriz."},
+  {"fa": "پروین در شعرهایش از فقیران و یتیمان دفاع می‌کرد.", "r": "Parvin dar she'r-hā-yash az faghirān va yatimān defā' mi-kard.", "en": "In her poems Parvin stood up for the poor and for orphans."},
+  {"fa": "رمان سووشون از سیمین دانشور است.", "r": "romān-e Suvashun az Simin Dāneshvar ast.", "en": "The novel Savushun is by Simin Daneshvar."},
+  {"fa": "داستان سووشون در شیراز می‌گذرد.", "r": "dāstān-e Suvashun dar Shirāz mi-gozarad.", "en": "The story of Savushun takes place in Shiraz."},
+  {"fa": "مریم میرزاخانی ریاضی‌دان بزرگی بود.", "r": "Maryam Mirzākhāni riyāzi-dān-e bozorg-i bud.", "en": "Maryam Mirzakhani was a great mathematician."},
+  {"fa": "او در سال ۲۰۱۴ مدال فیلدز را گرفت.", "r": "u dar sāl-e do-hezār-o-chahārdah medāl-e Fildz rā gereft.", "en": "In 2014 she won the Fields Medal."},
+  {"fa": "او نخستین زنی بود که این جایزه را برد.", "r": "u nokhostin zan-i bud ke in jāyeze rā bord.", "en": "She was the first woman to win this prize."},
+  {"fa": "انوشه انصاری در سال ۲۰۰۶ به ایستگاه فضایی بین‌المللی رفت.", "r": "Anushe Ansāri dar sāl-e do-hezār-o-shesh be istgāh-e fazāyi-ye beyn-ol-melali raft.", "en": "In 2006 Anousheh Ansari went to the International Space Station."},
+  {"fa": "زنان ایرانی در علم، هنر و ادبیات نقش بزرگی داشته‌اند.", "r": "zanān-e irāni dar 'elm, honar va adabiyyāt naghsh-e bozorg-i dāshte-and.", "en": "Iranian women have played a great part in science, art and literature."}
+ ],
+ "vocab": [
+  {"fa": "زن", "r": "zan", "en": "woman; wife"},
+  {"fa": "ملکه", "r": "maleke", "en": "queen"},
+  {"fa": "دختر", "r": "dokhtar", "en": "daughter; girl"},
+  {"fa": "حکومت کردن", "r": "hokumat kardan", "en": "to rule, to govern"},
+  {"fa": "نویسنده", "r": "nevisande", "en": "writer, author"},
+  {"fa": "رمان", "r": "romān", "en": "novel"},
+  {"fa": "داستان کوتاه", "r": "dāstān-e kutāh", "en": "short story"},
+  {"fa": "ادبیات", "r": "adabiyyāt", "en": "literature"},
+  {"fa": "ریاضی‌دان", "r": "riyāzi-dān", "en": "mathematician"},
+  {"fa": "جایزه", "r": "jāyeze", "en": "prize, award"},
+  {"fa": "مدال", "r": "medāl", "en": "medal"},
+  {"fa": "فضا", "r": "fazā", "en": "space; atmosphere"},
+  {"fa": "فضانورد", "r": "fazānavard", "en": "astronaut"},
+  {"fa": "مهندس", "r": "mohandes", "en": "engineer"},
+  {"fa": "دانشگاه", "r": "dāneshgāh", "en": "university"},
+  {"fa": "استاد", "r": "ostād", "en": "professor; master"},
+  {"fa": "نخستین", "r": "nokhostin", "en": "first"},
+  {"fa": "حجاب", "r": "hejāb", "en": "veil, hijab"}
+ ],
+ "facts": [
+  "Purandokht ruled the Sasanian empire briefly around 630 AD, and coins were minted with her portrait.",
+  "Tahereh Qurrat al-Ayn was executed in Tehran in 1852.",
+  "Parvin E'tesami's Divan was first published in 1935.",
+  "Simin Daneshvar's novel Savushun (1969) has been translated into many languages.",
+  "Maryam Mirzakhani was the first woman and the first Iranian to win the Fields Medal (2014).",
+  "Anousheh Ansari flew to the International Space Station in September 2006.",
+  "The lawyer Shirin Ebadi won the Nobel Peace Prize in 2003, the first Iranian to receive a Nobel Prize."
+ ]
+}

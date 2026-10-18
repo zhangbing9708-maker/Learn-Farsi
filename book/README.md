@@ -76,6 +76,8 @@ Read real texts, follow the news, argue a point, understand idioms and proverbs 
 7. [Arabic in Persian: roots, plurals and tanvin](lessons/b1-07-arabic-in-persian.md) — عربی در فارسی
 8. [Formal and informal: registers and respect](lessons/b1-08-formal-and-informal.md) — رسمی و خودمانی
 9. [Proverbs and idioms: as the old folks say](lessons/b1-09-proverbs-and-idioms.md) — به قول قدیمی‌ها
+10. [Reading the news: headlines, sources and numbers](lessons/b1-10-reading-the-news.md) — خواندن اخبار
+11. [Writing well: paragraphs, connectors and punctuation](lessons/b1-11-writing-well.md) — خوب نوشتن
 12. [First steps in poetry: reading a classical poem](lessons/b1-12-first-steps-in-poetry.md) — نخستین گام‌ها در شعر
 13. [Telling a story: three past tenses together](lessons/b1-13-telling-a-story.md) — یکی بود یکی نبود
 14. [Debate: agreeing, conceding and disagreeing politely](lessons/b1-14-debate.md) — قبول دارم، ولی…
@@ -88,6 +90,7 @@ Classical poetry, literary prose, the history of the language, dialects and Dari
 2. [Rumi and the reed](lessons/b2-02-rumi-and-the-reed.md) — مولانا و نی‌نامه
 3. [Saadi and Ferdowsi](lessons/b2-03-saadi-and-ferdowsi.md) — سعدی و فردوسی
 6. [Dari and Tajik: one language, three standards](lessons/b2-06-dari-and-tajik.md) — فارسی، دری، تاجیکی
+7. [Dialects and accents: the many voices of Iran](lessons/b2-07-dialects-and-accents.md) — لهجه‌ها و زبان‌های ایران
 
 ## Part 6. Advanced (C1) — عالی
 
@@ -107,6 +110,13 @@ Graded readers, from very easy to literary.
 - [The little house](stories/a1-the-little-house.md) — خانه‌ی کوچک
 - [Grandmother's tea](stories/a1-grandmother-tea.md) — چای مادربزرگ
 - [At the bakery](stories/a1-at-the-bakery.md) — در نانوایی
+- [My new friend](stories/a1-my-new-friend.md) — دوست جدید من
+- [The red apple](stories/a1-the-red-apple.md) — سیب قرمز
+- [A rainy day](stories/a1-a-rainy-day.md) — یک روز بارانی
+- [The lost key](stories/a1-the-lost-key.md) — کلید گم‌شده
+- [Breakfast in Tehran](stories/a1-breakfast-in-tehran.md) — صبحانه در تهران
+- [Grandfather's clock](stories/a1-grandfathers-clock.md) — ساعت پدربزرگ
+- [A letter to Grandmother](stories/a1-a-letter-to-grandmother.md) — نامه‌ای به مادربزرگ
 
 **Elementary (A2)**
 
@@ -120,6 +130,9 @@ Graded readers, from very easy to literary.
 - [Nowruz at Aunt Parvin's](stories/a2-nowruz-at-aunt-parvins.md) — نوروز در خانه‌ی خاله پروین
 - [The taxi driver](stories/a2-the-taxi-driver.md) — راننده‌ی تاکسی
 - [The lion and the hare](stories/a2-the-lion-and-the-hare.md) — شیر و خرگوش
+- [Auntie Beetle](stories/a2-khale-suske.md) — خاله سوسکه
+- [The farmer and his sons](stories/a2-the-farmer-and-his-sons.md) — کشاورز و پسرانش
+- [The devoted farmer](stories/a2-the-devoted-farmer.md) — دهقان فداکار
 
 **Intermediate (B1)**
 
@@ -144,6 +157,12 @@ Graded readers, from very easy to literary.
 - [Ferdowsi and the Sultan](stories/b2-ferdowsi-and-the-sultan.md) — فردوسی و سلطان
 - [The blind owl of the bazaar](stories/b2-the-blind-owl-of-the-bazaar.md) — بوف کور بازار
 - [Layli and Majnun](stories/b2-layli-and-majnun.md) — لیلی و مجنون
+- [The Constitutional Revolution](stories/b2-the-constitutional-revolution.md) — انقلاب مشروطه
+- [Khosrow and Shirin](stories/b2-khosrow-and-shirin.md) — خسرو و شیرین
+
+**Advanced (C1)**
+
+- [The qanat diggers of Yazd](stories/c1-the-qanat-diggers-of-yazd.md) — مقنی‌های یزد
 
 ## Part 8. Iran in pictures and stories — فرهنگ ایران
 
@@ -234,11 +253,20 @@ Graded readers, from very easy to literary.
 - [Hafez](culture/people-hafez.md) — حافظ
 - [Attar and Nezami](culture/people-attar-and-nezami.md) — عطار و نظامی
 - [Khwarazmi, Razi and Biruni](culture/people-biruni-khwarazmi-razi.md) — خوارزمی، رازی و بیرونی
+- [Shah Abbas the Great](culture/people-shah-abbas.md) — شاه عباس بزرگ
+- [Amir Kabir](culture/people-amir-kabir.md) — امیرکبیر
+- [Mohammad Mosaddegh](culture/people-mosaddegh.md) — محمد مصدق
+- [Modern Persian poets](culture/people-modern-poets.md) — شاعران معاصر
+- [Women of Iran](culture/people-women-of-iran.md) — زنان ایران
+- [Kiarostami and Iranian film-makers](culture/people-kiarostami-and-cinema.md) — کیارستمی و سینمای ایران
 
 **Language**
 
 - [The history of Persian](culture/language-history-of-persian.md) — تاریخ زبان فارسی
 - [Farsi, Dari and Tajik](culture/language-dari-and-tajik.md) — فارسی، دری و تاجیکی
+- [Persian words in English](culture/language-persian-words-in-english.md) — واژه‌های فارسی در انگلیسی
+- [Loanwords in Persian](culture/language-loanwords-in-persian.md) — وام‌واژه‌ها در فارسی
+- [The languages of Iran](culture/language-dialects.md) — زبان‌های ایران
 
 **Everyday life**
 
@@ -265,6 +293,12 @@ Graded readers, from very easy to literary.
 - [The eye and the heart](poetry/baba-taher-del.md) — Baba Taher
 - [Thanks be to God](poetry/saadi-golestan-opening.md) — Saadi
 - [Lost Joseph will come back](poetry/hafez-yusef-e-gomgashte.md) — Hafez
+- [The birds gather](poetry/attar-conference-opening.md) — Attar
+- [Your name, the best beginning](poetry/nezami-leyli-opening.md) — Nezami
+- [I was dead, I came alive](poetry/rumi-morde-bodam.md) — Rumi
+- [My King, I speak your praise](poetry/sanai-maleka-zekr-e-to.md) — Sanai
+- [Open the bud of hope](poetry/jami-elahi-ghonche.md) — Jami
+- [The eagle](poetry/naser-khosrow-oghab.md) — Naser Khosrow
 
 ## Part 10. Reference
 

@@ -1,0 +1,132 @@
+# Khosrow and Shirin
+## خسرو و شیرین
+*Khosrow o Shirin* — Upper intermediate (B2), legend. [Read with audio](https://zhangbing9708-maker.github.io/Learn-Farsi/stories/b2-khosrow-and-shirin.html)
+
+Nezami's romance of the Sasanian prince Khosrow Parviz and the Armenian princess Shirin: a portrait hung on a tree, a long ride on a black horse, two lovers who pass each other at a spring, and Farhad, the stone-cutter who tries to cut a road through the mountain of Bisotun for love. Look for the past perfect, conditionals with اگر, the subjunctive after تا and به شرط آن‌که, and a famous pun on the name Shirin, 'sweet'.
+
+![Khosrow arrives at Shirin's castle, from a Khamsa of Nizami](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Khusraw_arriving_at_Shirin's_castle_(f.80)._Khamsa_of_Nizami,_Jalayirid_style,_1386-88,_Baghdad_(British_Library,_Or.13297).jpg/960px-Khusraw_arriving_at_Shirin's_castle_(f.80)._Khamsa_of_Nizami,_Jalayirid_style,_1386-88,_Baghdad_(British_Library,_Or.13297).jpg)
+<sub>Khosrow arrives at Shirin's castle, from a Khamsa of Nizami. Photo: [Baghdad, 1386–88](https://commons.wikimedia.org/wiki/File:Khusraw_arriving_at_Shirin's_castle_(f.80)._Khamsa_of_Nizami,_Jalayirid_style,_1386-88,_Baghdad_(British_Library,_Or.13297).jpg), Public domain.</sub>
+
+### The story
+
+خسرو پرویز، شاهزاده‌ی جوان ساسانی و نوه‌ی انوشیروان، دوستی داشت به نام شاپور که نقاشی چیره‌دست بود و سرزمین‌های بسیاری را دیده بود. شبی شاپور برای خسرو از شیرین گفت، برادرزاده‌ی مهین‌بانو، ملکه‌ی ارمنستان، که زیبایی‌اش چون ماه بود و بر اسبی سیاه به نام شبدیز سوار می‌شد. خسرو چنان دلباخته‌ی وصف او شد که از شاپور خواست به ارمنستان برود و دل شیرین را برای او به دست آورد.
+
+شاپور به چمنزاری رفت که شیرین و یارانش در آن گردش می‌کردند و تصویر خسرو را که با دست خود کشیده بود، بر شاخه‌ی درختی آویخت. شیرین تصویر را دید و دلش لرزید، اما ندیمانش از ترس جادو آن را پنهان کردند؛ شاپور دو بار دیگر تصویر را آویخت، تا آن‌که بار سوم شیرین دیگر نتوانست چشم از آن بردارد. آن‌گاه شاپور خود را نشان داد، انگشتر خسرو را به او سپرد و گفت: «اگر او را می‌خواهی، بر شبدیز بنشین و به سوی مدائن بتاز.»
+
+شیرین به بهانه‌ی شکار از کاخ بیرون رفت و روزها تاخت. در راه، خسته و غبارآلود، در چشمه‌ای تن شست؛ در همان هنگام سواری از کنار چشمه گذشت و از زیبایی او حیران ماند، بی‌آن‌که بداند او کیست. آن سوار خود خسرو بود که از خشم پدرش، هرمز، گریخته بود و به سوی ارمنستان می‌رفت. چنین بود که شیرین به مدائن رسید و خسرو به ارمنستان، و دو دلداده یکدیگر را گم کردند.
+
+سال‌ها گذشت؛ خسرو تاج و تخت را از دست داد و باز به دست آورد، با مریم، دختر قیصر روم، ازدواج کرد و شیرین در کاخی در کوهستان تنها ماند. شیرین برای آوردن شیر از چراگاه‌های دور به کاخ، سنگ‌تراشی هنرمند به نام فرهاد را فرا خواند تا جویی در دل سنگ بکند. فرهاد با یک نگاه دل به شیرین باخت، و جوی شیر را چنان زود کند که همه در شگفت ماندند.
+
+خسرو چون از عشق فرهاد آگاه شد، به رشک افتاد و او را به دربار خواند. هر چه زر پیش او ریخت، فرهاد نپذیرفت؛ ناگزیر خسرو گفت: «اگر از کوه بیستون راهی بگشایی، از شیرین دست خواهم کشید.» خسرو گمان می‌کرد که این کار از هیچ آدمی برنمی‌آید، اما فرهاد تیشه برداشت و شب و روز بر سنگ کوبید، و نقش شیرین را نیز بر دل کوه کند. چون کار به پایان نزدیک شد، خسرو پیرزنی را فرستاد تا به دروغ به فرهاد بگوید که شیرین مرده است. فرهاد فریادی کشید، تیشه را به سوی آسمان پرتاب کرد و خود را از فراز کوه به زیر افکند.
+
+سال‌ها بعد، پس از مرگ مریم، خسرو و شیرین سرانجام با هم پیوند زناشویی بستند، و خسرو در کنار او پادشاهی دادگر و خردمند شد. اما شیرویه، پسر خسرو از مریم، که خود دل در گرو شیرین داشت، کسی را فرستاد که پدرش را در خواب با خنجر زخمی کرد. خسرو از درد و تشنگی بیدار شد، اما شیرین را بیدار نکرد، زیرا نخواست خواب شیرین او را بر هم بزند، و خاموش جان سپرد.
+
+شیرویه پس از آن از شیرین خواستگاری کرد؛ شیرین پذیرفت، به شرط آن‌که یک بار دیگر به دخمه‌ی خسرو برود. در دخمه، شیرین بر تن خسرو بوسه زد و خنجری را در همان جایی از پهلوی خود فرو برد که خسرو زخم خورده بود، و در کنار او جان داد. نظامی شیرین را نمونه‌ی وفاداری می‌داند، و هنوز هم در ایران تیشه‌ی فرهاد نشان عشقی است که کوه را می‌شکافد.
+
+### Line by line
+
+- خسرو پرویز، شاهزاده‌ی جوان ساسانی و نوه‌ی انوشیروان، دوستی داشت به نام شاپور که نقاشی چیره‌دست بود و سرزمین‌های بسیاری را دیده بود.  
+  *Khosrow Parviz, shāhzāde-ye javān-e Sāsāni o nave-ye Anushirvān, dust-i dāsht be nām-e Shāpur ke naghghāsh-i chire-dast bud o sarzamin-hā-ye besyār-i rā dide bud.* — Khosrow Parviz, the young Sasanian prince and grandson of Anushirvan, had a friend called Shapur, a masterly painter who had seen many lands.
+- شبی شاپور برای خسرو از شیرین گفت، برادرزاده‌ی مهین‌بانو، ملکه‌ی ارمنستان، که زیبایی‌اش چون ماه بود و بر اسبی سیاه به نام شبدیز سوار می‌شد.  
+  *shab-i Shāpur barā-ye Khosrow az Shirin goft, barādar-zāde-ye Mahin-bānu, malake-ye Armanestān, ke zibāyi-ash chon māh bud o bar asb-i siyāh be nām-e Shabdiz savār mi-shod.* — One night Shapur told Khosrow about Shirin, the niece of Mahin Banu, queen of Armenia, who was as beautiful as the moon and rode a black horse called Shabdiz.
+- خسرو چنان دلباخته‌ی وصف او شد که از شاپور خواست به ارمنستان برود و دل شیرین را برای او به دست آورد.  
+  *Khosrow chenān del-bākhte-ye vasf-e u shod ke az Shāpur khāst be Armanestān be-ravad o del-e Shirin rā barā-ye u be dast āvarad.* — Khosrow fell so deeply in love with the description of her that he asked Shapur to go to Armenia and win Shirin's heart for him.
+- شاپور به چمنزاری رفت که شیرین و یارانش در آن گردش می‌کردند و تصویر خسرو را که با دست خود کشیده بود، بر شاخه‌ی درختی آویخت.  
+  *Shāpur be chaman-zār-i raft ke Shirin o yārān-ash dar ān gardesh mi-kardand o tasvir-e Khosrow rā ke bā dast-e khod keshide bud, bar shākhe-ye derakht-i āvikht.* — Shapur went to a meadow where Shirin and her companions used to walk, and hung a portrait of Khosrow that he had painted with his own hand on the branch of a tree.
+- شیرین تصویر را دید و دلش لرزید، اما ندیمانش از ترس جادو آن را پنهان کردند؛ شاپور دو بار دیگر تصویر را آویخت، تا آن‌که بار سوم شیرین دیگر نتوانست چشم از آن بردارد.  
+  *Shirin tasvir rā did o del-ash larzid, ammā nadimān-ash az tars-e jādu ān rā penhān kardand; Shāpur do bār-e digar tasvir rā āvikht, tā ān-ke bār-e sevvom Shirin digar na-tavānest cheshm az ān bar-dārad.* — Shirin saw the portrait and her heart trembled, but her companions, fearing sorcery, hid it; twice more Shapur hung it up, until the third time Shirin could no longer take her eyes off it.
+- آن‌گاه شاپور خود را نشان داد، انگشتر خسرو را به او سپرد و گفت: «اگر او را می‌خواهی، بر شبدیز بنشین و به سوی مدائن بتاز.»  
+  *ān-gāh Shāpur khod rā neshān dād, angoshtar-e Khosrow rā be u sepord o goft: «agar u rā mi-khāhi, bar Shabdiz be-neshin o be su-ye Madā'en be-tāz.»* — Then Shapur showed himself, gave her Khosrow's ring and said: "If you want him, mount Shabdiz and ride for Ctesiphon."
+- شیرین به بهانه‌ی شکار از کاخ بیرون رفت و روزها تاخت.  
+  *Shirin be bahāne-ye shekār az kākh birun raft o ruz-hā tākht.* — Pretending to go hunting, Shirin rode out of the palace and galloped for days.
+- در راه، خسته و غبارآلود، در چشمه‌ای تن شست؛ در همان هنگام سواری از کنار چشمه گذشت و از زیبایی او حیران ماند، بی‌آن‌که بداند او کیست.  
+  *dar rāh, khaste o ghobār-ālud, dar cheshme-i tan shost; dar hamān hengām savār-i az kenār-e cheshme gozasht o az zibāyi-ye u heyrān mānd, bi-ān-ke be-dānad u ki-st.* — On the way, tired and covered in dust, she bathed in a spring; just then a horseman passed by the spring and stood amazed at her beauty, without knowing who she was.
+- آن سوار خود خسرو بود که از خشم پدرش، هرمز، گریخته بود و به سوی ارمنستان می‌رفت.  
+  *ān savār khod-e Khosrow bud ke az khashm-e pedar-ash, Hormoz, gorikhte bud o be su-ye Armanestān mi-raft.* — That horseman was Khosrow himself, who had fled from the anger of his father, Hormoz, and was on his way to Armenia.
+- چنین بود که شیرین به مدائن رسید و خسرو به ارمنستان، و دو دلداده یکدیگر را گم کردند.  
+  *chenin bud ke Shirin be Madā'en resid o Khosrow be Armanestān, va do del-dāde yekdigar rā gom kardand.* — And so Shirin reached Ctesiphon and Khosrow reached Armenia, and the two lovers missed each other.
+- سال‌ها گذشت؛ خسرو تاج و تخت را از دست داد و باز به دست آورد، با مریم، دختر قیصر روم، ازدواج کرد و شیرین در کاخی در کوهستان تنها ماند.  
+  *sāl-hā gozasht; Khosrow tāj o takht rā az dast dād o bāz be dast āvard, bā Maryam, dokhtar-e Gheysar-e Rum, ezdevāj kard o Shirin dar kākh-i dar kuhestān tanhā mānd.* — Years passed: Khosrow lost his crown and throne and won them back, married Maryam, the daughter of the Byzantine emperor, and Shirin was left alone in a palace in the mountains.
+- شیرین برای آوردن شیر از چراگاه‌های دور به کاخ، سنگ‌تراشی هنرمند به نام فرهاد را فرا خواند تا جویی در دل سنگ بکند.  
+  *Shirin barā-ye āvardan-e shir az charāgāh-hā-ye dur be kākh, sang-tarāsh-i honarmand be nām-e Farhād rā farā khānd tā ju-yi dar del-e sang be-kanad.* — To bring milk from the distant pastures to the palace, Shirin sent for a gifted stone-cutter named Farhad to dig a channel through the rock.
+- فرهاد با یک نگاه دل به شیرین باخت، و جوی شیر را چنان زود کند که همه در شگفت ماندند.  
+  *Farhād bā yek negāh del be Shirin bākht, va ju-ye shir rā chenān zud kand ke hame dar shegeft māndand.* — Farhad lost his heart to Shirin at a single glance, and he cut the channel of milk so quickly that everyone was astonished.
+- خسرو چون از عشق فرهاد آگاه شد، به رشک افتاد و او را به دربار خواند.  
+  *Khosrow chon az eshgh-e Farhād āgāh shod, be rashk oftād o u rā be darbār khānd.* — When Khosrow learned of Farhad's love, he grew jealous and summoned him to court.
+- هر چه زر پیش او ریخت، فرهاد نپذیرفت؛ ناگزیر خسرو گفت: «اگر از کوه بیستون راهی بگشایی، از شیرین دست خواهم کشید.»  
+  *har che zar pish-e u rikht, Farhād na-paziroft; nāgozir Khosrow goft: «agar az kuh-e Bisotun rāh-i be-goshāyi, az Shirin dast khāham keshid.»* — However much gold he poured out before him, Farhad refused it; so in the end Khosrow said: "If you open a road through the mountain of Bisotun, I will give up Shirin."
+- خسرو گمان می‌کرد که این کار از هیچ آدمی برنمی‌آید، اما فرهاد تیشه برداشت و شب و روز بر سنگ کوبید، و نقش شیرین را نیز بر دل کوه کند.  
+  *Khosrow gomān mi-kard ke in kār az hich ādami bar-nemi-āyad, ammā Farhād tishe bar-dāsht o shab o ruz bar sang kubid, va naghsh-e Shirin rā niz bar del-e kuh kand.* — Khosrow thought that no human being could do such a thing, but Farhad took up his pick and struck the rock day and night, and carved Shirin's image into the mountain's heart as well.
+- چون کار به پایان نزدیک شد، خسرو پیرزنی را فرستاد تا به دروغ به فرهاد بگوید که شیرین مرده است.  
+  *chon kār be pāyān nazdik shod, Khosrow pir-zan-i rā ferestād tā be dorugh be Farhād be-guyad ke Shirin morde ast.* — When the work was nearly finished, Khosrow sent an old woman to tell Farhad, falsely, that Shirin had died.
+- فرهاد فریادی کشید، تیشه را به سوی آسمان پرتاب کرد و خود را از فراز کوه به زیر افکند.  
+  *Farhād faryād-i keshid, tishe rā be su-ye āsemān partāb kard o khod rā az farāz-e kuh be zir afkand.* — Farhad gave a cry, flung his pick towards the sky and threw himself down from the top of the mountain.
+- سال‌ها بعد، پس از مرگ مریم، خسرو و شیرین سرانجام با هم پیوند زناشویی بستند، و خسرو در کنار او پادشاهی دادگر و خردمند شد.  
+  *sāl-hā ba'd, pas az marg-e Maryam, Khosrow o Shirin saranjām bā ham peyvand-e zanāshuyi bastand, va Khosrow dar kenār-e u pādeshāh-i dādgar o kheradmand shod.* — Years later, after Maryam's death, Khosrow and Shirin were married at last, and at her side Khosrow became a just and wise king.
+- اما شیرویه، پسر خسرو از مریم، که خود دل در گرو شیرین داشت، کسی را فرستاد که پدرش را در خواب با خنجر زخمی کرد.  
+  *ammā Shiruye, pesar-e Khosrow az Maryam, ke khod del dar gerow-e Shirin dāsht, kas-i rā ferestād ke pedar-ash rā dar khāb bā khanjar zakhmi kard.* — But Shiruyeh, Khosrow's son by Maryam, who had himself set his heart on Shirin, sent a man who stabbed his father in his sleep.
+- خسرو از درد و تشنگی بیدار شد، اما شیرین را بیدار نکرد، زیرا نخواست خواب شیرین او را بر هم بزند، و خاموش جان سپرد.  
+  *Khosrow az dard o teshnegi bidār shod, ammā Shirin rā bidār na-kard, zirā na-khāst khāb-e shirin-e u rā bar ham be-zanad, va khāmush jān sepord.* — Khosrow woke in pain and thirst, but he did not wake Shirin, because he did not want to disturb her sweet sleep, and he died in silence.
+- شیرویه پس از آن از شیرین خواستگاری کرد؛ شیرین پذیرفت، به شرط آن‌که یک بار دیگر به دخمه‌ی خسرو برود.  
+  *Shiruye pas az ān az Shirin khāstgāri kard; Shirin paziroft, be shart-e ān-ke yek bār-e digar be dakhme-ye Khosrow be-ravad.* — After that Shiruyeh asked Shirin to marry him; Shirin agreed, on condition that she could go once more to Khosrow's tomb.
+- در دخمه، شیرین بر تن خسرو بوسه زد و خنجری را در همان جایی از پهلوی خود فرو برد که خسرو زخم خورده بود، و در کنار او جان داد.  
+  *dar dakhme, Shirin bar tan-e Khosrow buse zad o khanjar-i rā dar hamān jā-yi az pahlu-ye khod foru bord ke Khosrow zakhm khorde bud, va dar kenār-e u jān dād.* — In the tomb Shirin kissed Khosrow's body, drove a dagger into her own side at the very place where Khosrow had been wounded, and died beside him.
+- نظامی شیرین را نمونه‌ی وفاداری می‌داند، و هنوز هم در ایران تیشه‌ی فرهاد نشان عشقی است که کوه را می‌شکافد.  
+  *Nezāmi Shirin rā nemune-ye vafādāri mi-dānad, va hanuz ham dar Irān tishe-ye Farhād neshān-e eshgh-i ast ke kuh rā mi-shekāfad.* — Nezami holds Shirin up as the model of faithfulness, and in Iran Farhad's pick is still the sign of a love that can split mountains.
+
+### Words
+
+| Persian | Pronunciation | Meaning | Notes |
+| --- | --- | --- | --- |
+| نقاش | *naghghāsh* | painter |  |
+| چیره‌دست | *chire-dast* | skilful, masterly |  |
+| دلباخته | *del-bākhte* | in love (literally 'having lost one's heart') |  |
+| وصف | *vasf* | description |  |
+| چمنزار | *chaman-zār* | meadow |  |
+| تصویر | *tasvir* | picture, portrait |  |
+| ندیم | *nadim* | companion (at court) |  |
+| انگشتر | *angoshtar* | ring |  |
+| تاختن | *tākhtan* | to gallop, to ride hard |  |
+| حیران | *heyrān* | amazed, bewildered |  |
+| قیصر | *Gheysar* | Caesar, the Byzantine emperor |  |
+| سنگ‌تراش | *sang-tarāsh* | stone-cutter |  |
+| چراگاه | *charāgāh* | pasture |  |
+| رشک | *rashk* | jealousy, envy (literary) |  |
+| دست کشیدن از | *dast keshidan az* | to give up, to renounce |  |
+| تیشه | *tishe* | pick, stone-cutter's axe |  |
+| گمان کردن | *gomān kardan* | to suppose, to think |  |
+| دادگر | *dādgar* | just (of a ruler) |  |
+| در گرو … بودن | *dar gerow-e … budan* | to be pledged to, (of a heart) to belong to |  |
+| دخمه | *dakhme* | tomb, burial vault |  |
+
+### Did you follow?
+
+**Choose the right answer**
+
+1. How did Shirin first fall in love with Khosrow? — she met him at the spring / she saw a portrait of him that Shapur hung on a tree / she heard his poems
+2. Why did Khosrow and Shirin miss each other on the road? — Shirin rode to Ctesiphon while Khosrow, fleeing his father, rode to Armenia / Shabdiz lost its way / Shapur sent them in the wrong direction
+3. Why did Shirin send for Farhad? — to build her a palace / to carve a portrait of Khosrow / to cut a channel bringing milk from the pastures
+4. What did Khosrow promise Farhad? — a mountain of gold / to give up Shirin if Farhad cut a road through Bisotun / to make him a minister
+5. Why did Farhad throw himself from the mountain? — an old woman falsely told him that Shirin was dead / he had finished the road / Khosrow's soldiers attacked him
+6. Why did the wounded Khosrow not wake Shirin? — he was too weak to speak / he did not want to disturb her sleep / he thought she had left him
+
+<details><summary>Answers</summary>
+
+1. she saw a portrait of him that Shapur hung on a tree
+2. Shirin rode to Ctesiphon while Khosrow, fleeing his father, rode to Armenia
+3. to cut a channel bringing milk from the pastures
+4. to give up Shirin if Farhad cut a road through Bisotun
+5. an old woman falsely told him that Shirin was dead
+6. he did not want to disturb her sleep
+
+</details>
+
+### About this story
+
+Nezami finished Khosrow o Shirin around 1180; it is the second poem of his Khamsa. Its people are real: Khosrow II Parviz ruled the Sasanian empire from 590 to 628 and was killed on the orders of his son Kavad, whom the poem calls Shiruyeh, and Shirin was his Christian queen. Bisotun is a real cliff near Kermanshah, famous for the inscription of Darius the Great, and to this day Iranians call Farhad کوه‌کن, 'the mountain-digger'. Notice the pun in خواب شیرین او: شیرین is both the name and the adjective 'sweet', so the phrase means both 'Shirin's sleep' and 'his sweet sleep'. Notice also the conditional اگر … بگشایی، … دست خواهم کشید 'if you open…, I will give up…', the subjunctive after تا and به شرط آن‌که 'on condition that', and هر چه … ریخت 'however much he poured out'.
+
+_Retold in prose from Nezami's Khosrow o Shirin (about 1180, public domain)._
+
+---
+
+[Contents](../README.md)

@@ -397,10 +397,10 @@ A practical rule: **understand both, write the written form, speak the spoken on
 
 **Put the words in order**
 
-1. دارم. / بیایم، / نمی‌توانم / کار — I can't come, I've got work to do.
-2. را / او / این / بگو. / به — Tell him this.
-3. خانه‌ی / خیابان / آن / در / ما / است. — Our house is in that street.
-4. شروع / فیلم / هفت / ساعت / می‌شود. — The film starts at seven.
+1. بیایم، / دارم. / کار / نمی‌توانم — I can't come, I've got work to do.
+2. به / او / بگو. / این / را — Tell him this.
+3. خانه‌ی / خیابان / در / ما / آن / است. — Our house is in that street.
+4. ساعت / فیلم / می‌شود. / شروع / هفت — The film starts at seven.
 
 <details><summary>Answers</summary>
 

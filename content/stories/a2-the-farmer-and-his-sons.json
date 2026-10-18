@@ -1,0 +1,139 @@
+{
+ "id": "a2-the-farmer-and-his-sons",
+ "level": "A2",
+ "kind": "fable",
+ "title": "The farmer and his sons",
+ "titleFa": "کشاورز و پسرانش",
+ "titleR": "keshāvarz o pesarān-ash",
+ "image": "nishapur",
+ "intro": "An old farmer has three lazy sons, and before he dies he tells them that a treasure is hidden in the field. This fable is told all over the world, and in Iran it comes with a famous line of Saadi. Read it for the past continuous of habits (می‌خوابیدند 'they used to sleep'), the present perfect (پنهان کرده‌ام 'I have hidden'), comparatives (بزرگ‌تر, کوچک‌تر) and the subjunctive in 'let's…' (بیایید بکاریم).",
+ "source": "Retold from a traditional fable known in Iran and around the world (public domain).",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "کشاورز پیری سه پسر داشت که خیلی تنبل بودند.",
+     "r": "keshāvarz-e pir-i se pesar dāsht ke kheyli tanbal budand.",
+     "en": "An old farmer had three sons who were very lazy."
+    },
+    {
+     "fa": "آن‌ها هر روز تا ظهر می‌خوابیدند و به پدرشان کمک نمی‌کردند.",
+     "r": "ān-hā har ruz tā zohr mi-khābidand o be pedar-eshān komak nemi-kardand.",
+     "en": "Every day they slept until noon and did not help their father."
+    },
+    {
+     "fa": "یک روز کشاورز مریض شد و فهمید که زمان زیادی زنده نمی‌ماند.",
+     "r": "yek ruz keshāvarz mariz shod o fahmid ke zamān-e ziyād-i zende nemi-mānad.",
+     "en": "One day the farmer fell ill and realised that he would not live much longer."
+    },
+    {
+     "fa": "او پسرانش را صدا کرد و گفت: «من در مزرعه گنجی پنهان کرده‌ام.»",
+     "r": "u pesarān-ash rā sedā kard o goft: «man dar mazra'e ganj-i penhān karde-am.»",
+     "en": "He called his sons and said: \"I have hidden a treasure in the field.\""
+    },
+    {
+     "fa": "«اگر زمین را خوب بکنید، آن را پیدا می‌کنید.»",
+     "r": "«agar zamin rā khub bekanid, ān rā peydā mi-konid.»",
+     "en": "\"If you dig the ground well, you will find it.\""
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "چند روز بعد، پدر مرد.",
+     "r": "chand ruz ba'd, pedar mord.",
+     "en": "A few days later the father died."
+    },
+    {
+     "fa": "پسر‌ها بیل برداشتند و به مزرعه رفتند.",
+     "r": "pesar-hā bil bar-dāshtand o be mazra'e raftand.",
+     "en": "The sons picked up spades and went to the field."
+    },
+    {
+     "fa": "آن‌ها از صبح تا شب همه‌ی زمین را کندند، اما گنجی پیدا نکردند.",
+     "r": "ān-hā az sobh tā shab hame-ye zamin rā kandand, ammā ganj-i peydā na-kardand.",
+     "en": "They dug up the whole field from morning till night, but they found no treasure."
+    },
+    {
+     "fa": "برادر بزرگ‌تر گفت: «حالا که زمین را کنده‌ایم، بیایید گندم هم بکاریم.»",
+     "r": "barādar-e bozorg-tar goft: «hālā ke zamin rā kande-im, biyāyid gandom ham bekārim.»",
+     "en": "The eldest brother said: \"Now that we've dug the ground, let's sow some wheat as well.\""
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "آن سال باران خوبی آمد و گندم‌ها بلند و طلایی شدند.",
+     "r": "ān sāl bārān-e khub-i āmad o gandom-hā boland o talāyi shodand.",
+     "en": "That year there was plenty of rain, and the wheat grew tall and golden."
+    },
+    {
+     "fa": "پسر‌ها محصول را در بازار فروختند و پول زیادی به دست آوردند.",
+     "r": "pesar-hā mahsul rā dar bāzār forukhtand o pul-e ziyād-i be dast āvardand.",
+     "en": "The sons sold the harvest at the market and made a lot of money."
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "برادر کوچک‌تر خندید و گفت: «حالا فهمیدم! گنج پدر همین کار بود.»",
+     "r": "barādar-e kuchak-tar khandid o goft: «hālā fahmidam! ganj-e pedar hamin kār bud.»",
+     "en": "The youngest brother laughed and said: \"Now I understand! Father's treasure was this very work.\""
+    },
+    {
+     "fa": "از آن روز، سه برادر هر سال با هم کار می‌کردند و دیگر تنبل نبودند.",
+     "r": "az ān ruz, se barādar har sāl bā ham kār mi-kardand o digar tanbal na-budand.",
+     "en": "From that day on, the three brothers worked together every year and were never lazy again."
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {"fa": "کشاورز", "r": "keshāvarz", "en": "farmer"},
+  {"fa": "تنبل", "r": "tanbal", "en": "lazy"},
+  {"fa": "مریض", "r": "mariz", "en": "ill, sick"},
+  {"fa": "زنده", "r": "zende", "en": "alive"},
+  {"fa": "مزرعه", "r": "mazra'e", "en": "field, farm"},
+  {"fa": "گنج", "r": "ganj", "en": "treasure"},
+  {"fa": "پنهان کردن", "r": "penhān kardan", "en": "to hide"},
+  {"fa": "کندن", "r": "kandan", "en": "to dig"},
+  {"fa": "بیل", "r": "bil", "en": "spade, shovel"},
+  {"fa": "برداشتن", "r": "bar-dāshtan", "en": "to pick up, take"},
+  {"fa": "گندم", "r": "gandom", "en": "wheat"},
+  {"fa": "کاشتن", "r": "kāshtan", "en": "to sow, plant"},
+  {"fa": "طلایی", "r": "talāyi", "en": "golden"},
+  {"fa": "محصول", "r": "mahsul", "en": "harvest, crop; product"},
+  {"fa": "به دست آوردن", "r": "be dast āvardan", "en": "to gain, earn, obtain"}
+ ],
+ "questions": [
+  {
+   "q": "What was the problem with the farmer's sons?",
+   "options": ["they were ill", "they were lazy", "they lived far away"],
+   "answer": 1
+  },
+  {
+   "q": "What did the father tell his sons before he died?",
+   "options": ["that a treasure was hidden in the field", "that they must sell the field", "that he had no money"],
+   "answer": 0
+  },
+  {
+   "q": "What did the sons find when they dug the field?",
+   "options": ["a box of gold", "an old spade", "nothing at all"],
+   "answer": 2
+  },
+  {
+   "q": "Whose idea was it to sow wheat?",
+   "options": ["the eldest brother's", "the youngest brother's", "a neighbour's"],
+   "answer": 0
+  },
+  {
+   "q": "What was the 'treasure' in the end?",
+   "options": ["the rain", "their hard work", "the market"],
+   "answer": 1
+  }
+ ],
+ "after": "Iranians sum up this story with a line from Saadi's Golestan: نابرده رنج گنج میسر نمی‌شود (nā-borde ranj ganj moyassar nemi-shavad), 'without taking pains, no treasure comes your way' – ranj and ganj rhyme, so it is easy to remember. Notice the present perfect for a past action whose result is still here: گنجی پنهان کرده‌ام 'I have hidden a treasure (and it is still there)', and حالا که زمین را کنده‌ایم 'now that we have dug the ground'. The past continuous (می‌خوابیدند, کار می‌کردند) describes what someone used to do again and again. بیایید + subjunctive (بیایید بکاریم) is the Persian 'let's …'. And watch the two verbs that look alike: کندن (kandan, present stem کن, 'to dig': بکنید 'dig!') and کردن (kardan, present stem کن, 'to do': می‌کنید) – only the vowels tell them apart."
+}

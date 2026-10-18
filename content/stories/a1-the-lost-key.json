@@ -1,0 +1,132 @@
+{
+ "id": "a1-the-lost-key",
+ "level": "A1",
+ "kind": "everyday life",
+ "title": "The lost key",
+ "titleFa": "کلید گم‌شده",
+ "titleR": "kelid-e gom-shode",
+ "image": "persian-carpet",
+ "intro": "It is eight in the morning, Mina has to go to work – and her key has vanished. She looks everywhere in the flat. The story practises the words for places in a home, the prepositions روی 'on', زیر 'under' and در 'in', and the negative نیست 'is not'. Her daughter Sara solves the mystery with a sentence that plays with one little Persian word.",
+ "source": "An original story for this course.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "ساعت هشت صبح است.",
+     "r": "sā'at-e hasht-e sobh ast.",
+     "en": "It is eight o'clock in the morning."
+    },
+    {
+     "fa": "مینا می‌خواهد به سر کار برود.",
+     "r": "Minā mi-khāhad be sar-e kār be-ravad.",
+     "en": "Mina wants to go to work."
+    },
+    {
+     "fa": "اما کلیدش کجاست؟",
+     "r": "ammā kelid-ash kojā-st?",
+     "en": "But where is her key?"
+    },
+    {
+     "fa": "مینا کلیدش را پیدا نمی‌کند.",
+     "r": "Minā kelid-ash rā peydā nemi-konad.",
+     "en": "Mina can't find her key."
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "کلید در کیفش نیست.",
+     "r": "kelid dar kif-ash nist.",
+     "en": "The key is not in her bag."
+    },
+    {
+     "fa": "روی میز نیست.",
+     "r": "ru-ye miz nist.",
+     "en": "It is not on the table."
+    },
+    {
+     "fa": "زیر فرش هم نیست.",
+     "r": "zir-e farsh ham nist.",
+     "en": "It is not under the carpet either."
+    },
+    {
+     "fa": "مینا به آشپزخانه می‌رود.",
+     "r": "Minā be āshpaz-khāne mi-ravad.",
+     "en": "Mina goes to the kitchen."
+    },
+    {
+     "fa": "کلید در یخچال نیست!",
+     "r": "kelid dar yakhchāl nist!",
+     "en": "The key is not in the fridge!"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "مینا می‌پرسد: «سارا، کلید من کجاست؟»",
+     "r": "Minā mi-porsad: «Sārā, kelid-e man kojā-st?»",
+     "en": "Mina asks: \"Sara, where is my key?\""
+    },
+    {
+     "fa": "سارا می‌گوید: «نمی‌دانم، مامان.»",
+     "r": "Sārā mi-guyad: «nemi-dānam, māmān.»",
+     "en": "Sara says: \"I don't know, Mum.\""
+    },
+    {
+     "fa": "مینا خیلی ناراحت است.",
+     "r": "Minā kheyli nārāhat ast.",
+     "en": "Mina is very upset."
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "سارا به در خانه نگاه می‌کند و می‌خندد.",
+     "r": "Sārā be dar-e khāne negāh mi-konad o mi-khandad.",
+     "en": "Sara looks at the front door and laughs."
+    },
+    {
+     "fa": "او می‌گوید: «مامان، کلید در در است!»",
+     "r": "u mi-guyad: «māmān, kelid dar dar ast!»",
+     "en": "She says: \"Mum, the key is in the door!\""
+    },
+    {
+     "fa": "کلید از دیشب در قفل در است.",
+     "r": "kelid az dishab dar ghofl-e dar ast.",
+     "en": "The key has been in the lock since last night."
+    },
+    {
+     "fa": "مینا می‌خندد و کلید را برمی‌دارد.",
+     "r": "Minā mi-khandad o kelid rā bar-mi-dārad.",
+     "en": "Mina laughs and takes the key."
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {"fa": "کلید", "r": "kelid", "en": "key"},
+  {"fa": "گم‌شده", "r": "gom-shode", "en": "lost"},
+  {"fa": "پیدا کردن", "r": "peydā kardan", "en": "to find"},
+  {"fa": "کیف", "r": "kif", "en": "bag, handbag"},
+  {"fa": "زیر", "r": "zir", "en": "under (zir-e …)"},
+  {"fa": "فرش", "r": "farsh", "en": "carpet, rug"},
+  {"fa": "آشپزخانه", "r": "āshpaz-khāne", "en": "kitchen"},
+  {"fa": "یخچال", "r": "yakhchāl", "en": "fridge"},
+  {"fa": "نمی‌دانم", "r": "nemi-dānam", "en": "I don't know"},
+  {"fa": "مامان", "r": "māmān", "en": "Mum"},
+  {"fa": "ناراحت", "r": "nārāhat", "en": "upset, unhappy"},
+  {"fa": "در", "r": "dar", "en": "door; in"},
+  {"fa": "قفل", "r": "ghofl", "en": "lock"},
+  {"fa": "دیشب", "r": "dishab", "en": "last night"}
+ ],
+ "questions": [
+  {"q": "What time is it at the start of the story?", "options": ["seven o'clock", "eight o'clock", "ten o'clock"], "answer": 1},
+  {"q": "Where does Mina want to go?", "options": ["to work", "to the bakery", "to school"], "answer": 0},
+  {"q": "Who finds the key?", "options": ["Reza", "Ms Ahmadi", "Sara"], "answer": 2},
+  {"q": "Where is the key?", "options": ["under the carpet", "in the lock of the door", "in the fridge"], "answer": 1}
+ ],
+ "after": "Sara's sentence کلید در در است is a little joke on the word در, which means both 'door' and 'in' – written the same and both pronounced dar. So the sentence is literally 'key in door is'. In the third paragraph you see how Persian says 'not either': زیر فرش هم نیست 'it isn't under the carpet either' – هم 'too' works in negative sentences as well. And notice کجاست 'where is it?': in writing, است often joins the word before it after a vowel, کجا + است → کجاست."
+}

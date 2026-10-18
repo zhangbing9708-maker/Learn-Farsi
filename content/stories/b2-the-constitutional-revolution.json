@@ -1,0 +1,403 @@
+{
+ "id": "b2-the-constitutional-revolution",
+ "level": "B2",
+ "kind": "history",
+ "title": "The Constitutional Revolution",
+ "titleFa": "انقلاب مشروطه",
+ "titleR": "enghelāb-e mashrute",
+ "image": "constitutional-revolution",
+ "intro": "Between 1905 and 1911 Iranians forced their Qajar shah to accept a constitution and a parliament – the first in the Middle East to last – and then fought to keep them. This story follows an invented Tabriz family through real events: the sanctuary at the British legation, the first Majles, and the eleven-month siege of Tabriz defended by Sattar Khan. Notice the passive, reported speech, the Iranian solar dates, and the connectors هرچند, ناگزیر and با این همه.",
+ "source": "Based on the history of the Constitutional Revolution (1905–1911); the family of Hajj Reza is invented.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "در زمستان ۱۹۰۵ میلادی، حاج رضا در بازار تبریز حجره‌ی پارچه‌فروشی داشت و خبرهای تهران را از نامه‌های برادرش، میرزا جواد، دنبال می‌کرد.",
+     "r": "dar zemestān-e hezār-o-nohsad-o-panj-e milādi, Hāj Rezā dar bāzār-e Tabriz hojre-ye pārche-forushi dāsht o khabar-hā-ye Tehrān rā az nāme-hā-ye barādar-ash, Mirzā Javād, donbāl mi-kard.",
+     "en": "In the winter of 1905, Hajj Reza kept a cloth shop in the Tabriz bazaar and followed the news from Tehran through the letters of his brother, Mirza Javad.",
+     "faV": "دَر زِمِستانِ ۱۹۰۵ میلادی، حاج رِضا دَر بازارِ تَبریز حُجره‌یِ پارچه‌فُروشی داشت و خَبَرهایِ تِهران را اَز نامه‌هایِ بَرادَرَش، میرزا جَواد، دُنبال می‌کَرد.",
+     "a": "58dfc61d1639"
+    },
+    {
+     "fa": "آن زمستان، حاکم تهران چند بازرگان قند را به این بهانه که قیمت‌ها را بالا برده‌اند، در برابر مردم به فلک بسته بود.",
+     "r": "ān zemestān, hākem-e Tehrān chand bāzargān-e ghand rā be in bahāne ke gheymat-hā rā bālā borde-and, dar barābar-e mardom be falak baste bud.",
+     "en": "That winter the governor of Tehran had had several sugar merchants beaten on the soles of their feet in public, on the pretext that they had raised their prices.",
+     "faV": "آن زِمِستان، حاکِمِ تِهران چَند بازَرگانِ قَند را به این بَهانه که قَیمَت‌ها را بالا بُرده‌اَند، دَر بَرابَرِ مَردُم به فَلَک بَسته بود.",
+     "a": "b8808b13ba6c"
+    },
+    {
+     "fa": "بازاریان و روحانیان در اعتراض به این ستم بست نشستند و از شاه «عدالت‌خانه» خواستند، یعنی جایی که در آن قانون، نه هوس حاکمان، فرمان براند.",
+     "r": "bāzāriyān o ruhāniyān dar e'terāz be in setam bast neshastand o az shāh «edālat-khāne» khāstand, ya'ni jā-yi ke dar ān ghānun, na havas-e hākemān, farmān be-rānad.",
+     "en": "In protest at this injustice the bazaar merchants and the clergy took sanctuary and demanded a 'house of justice' from the shah – a place where the law, not the whims of governors, would rule.",
+     "faV": "بازاریان و روحانیان دَر اِعتِراض به این سِتَم بَست نِشَستَند و اَز شاه «عِدالَت‌خانه» خواستَند، یَعنی جایی که دَر آن قانون، نه هَوَسِ حاکِمان، فَرمان بِرانَد.",
+     "a": "c1224d2a680f"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "تابستان سال بعد، میرزا جواد در نامه‌ای نوشت که او و هزاران بازرگان و پیشه‌ور دیگر در باغ سفارت انگلیس در تهران بست نشسته‌اند.",
+     "r": "tābestān-e sāl-e ba'd, Mirzā Javād dar nāme-i nevesht ke u o hezārān bāzargān o pishe-var-e digar dar bāgh-e sefārat-e Engelis dar Tehrān bast neshaste-and.",
+     "en": "The following summer Mirza Javad wrote that he and thousands of other merchants and craftsmen had taken sanctuary in the garden of the British legation in Tehran.",
+     "faV": "تابِستانِ سالِ بَعد، میرزا جَواد دَر نامه‌ای نِوِشت که او و هِزاران بازَرگان و پیشه‌وَرِ دیگَر دَر باغِ سِفارَتِ اِنگِلیس دَر تِهران بَست نِشَسته‌اَند.",
+     "a": "75526c0e3613"
+    },
+    {
+     "fa": "«هر صنفی چادری برپا کرده است و دیگ‌های غذا شب و روز می‌جوشد؛ این‌جا هر شب درباره‌ی قانون و مجلس سخنرانی می‌شود، گویی باغ به مدرسه‌ای بزرگ بدل شده است.»",
+     "r": "«har senf-i chādor-i barpā karde ast o dig-hā-ye ghazā shab o ruz mi-jushad; in-jā har shab darbāre-ye ghānun o majles sokhanrāni mi-shavad, guyi bāgh be madrese-i bozorg badal shode ast.»",
+     "en": "\"Every guild has put up a tent, and the cooking pots boil day and night; every evening there are speeches here about law and parliament – it is as if the garden had become a great school.\"",
+     "faV": "«هَر صِنفی چادُری بَرپا کَرده اَست و دیگ‌هایِ غَذا شَب و روز می‌جوشَد؛ این‌جا هَر شَب دَرباره‌یِ قانون و مَجلِس سُخَنرانی می‌شَوَد، گویی باغ به مَدرِسه‌ای بُزُرگ بَدَل شُده اَست.»",
+     "a": "b9383b90ca80"
+    },
+    {
+     "fa": "سرانجام در چهاردهم مرداد ۱۲۸۵، شاه بیمار و فرسوده‌ی قاجار فرمان مشروطه را امضا کرد، و دو ماه بعد نخستین مجلس شورای ملی در تهران گشایش یافت.",
+     "r": "saranjām dar chahārdahom-e Mordād-e hezār-o-devist-o-hashtād-o-panj, shāh-e bimār o farsude-ye Ghājār farmān-e mashrute rā emzā kard, va do māh ba'd nakhostin majles-e showrā-ye melli dar Tehrān goshāyesh yāft.",
+     "en": "At last, on 14 Mordad 1285 (5 August 1906), the sick and weary Qajar shah signed the constitutional decree, and two months later the first National Consultative Assembly opened in Tehran.",
+     "faV": "سَراَنجام دَر چَهاردَهُمِ مُردادِ ۱۲۸۵، شاهِ بیمار و فَرسوده‌یِ قاجار فَرمانِ مَشروطه را اِمضا کَرد، و دو ماه بَعد نَخُستین مَجلِسِ شَورایِ مِلّی دَر تِهران گُشایِش یافت.",
+     "a": "3326e0fe9a45"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "در تبریز مردم جشن گرفتند و انجمنی برای اداره‌ی شهر برگزیدند؛ نماینده‌ی جوان تبریز در مجلس، تقی‌زاده، از سخنوران نامدار آن روزها شد.",
+     "r": "dar Tabriz mardom jashn gereftand o anjoman-i barā-ye edāre-ye shahr bar-gozidand; namāyande-ye javān-e Tabriz dar majles, Taghi-zāde, az sokhanvarān-e nām-dār-e ān ruz-hā shod.",
+     "en": "In Tabriz people celebrated and elected a council to run the city; Tabriz's young deputy in the Majles, Taqizadeh, became one of the best-known speakers of the day.",
+     "faV": "دَر تَبریز مَردُم جَشن گِرِفتَند و اَنجُمَنی بَرایِ اِداره‌یِ شَهر بَرگُزیدَند؛ نَمایَنده‌یِ جَوانِ تَبریز دَر مَجلِس، تَقی‌زاده، اَز سُخَنوَرانِ نامدارِ آن روزها شُد.",
+     "a": "1caafc9c271e"
+    },
+    {
+     "fa": "اما همه یک‌جور فکر نمی‌کردند: پدر حاج رضا، که مردی دیندار و محتاط بود، می‌گفت که برخی از علما این قانون‌های تازه را با شریعت سازگار نمی‌دانند و می‌ترسند که فکرهای فرنگی جای دین را بگیرد.",
+     "r": "ammā hame yek-jur fekr nemi-kardand: pedar-e Hāj Rezā, ke mard-i dindār o mohtāt bud, mi-goft ke barkhi az olamā in ghānun-hā-ye tāze rā bā shari'at sāzgār nemi-dānand o mi-tarsand ke fekr-hā-ye farangi jā-ye din rā be-girad.",
+     "en": "But not everyone thought alike: Hajj Reza's father, a pious and cautious man, used to say that some of the ulama thought these new laws incompatible with religious law and feared that European ideas would take the place of faith.",
+     "faV": "اَمّا هَمه یِک‌جور فِکر نِمی‌کَردَند: پِدَرِ حاج رِضا، که مَردی دیندار و مُحتاط بود، می‌گُفت که بَرخی اَز عُلَما این قانون‌هایِ تازه را با شَریعَت سازگار نِمی‌دانَند و می‌تَرسَند که فِکرهایِ فَرَنگی جایِ دین را بِگیرَد.",
+     "a": "e7e774aea260"
+    },
+    {
+     "fa": "حاج رضا پاسخ می‌داد: «هرچند هر کار تازه‌ای خطری دارد، بی‌قانونی خطرناک‌تر است؛ اگر قانون نباشد، جان و مال هیچ‌کس در امان نیست.»",
+     "r": "Hāj Rezā pāsokh mi-dād: «harchand har kār-e tāze-i khatar-i dārad, bi-ghānuni khatarnāk-tar ast; agar ghānun na-bāshad, jān o māl-e hich-kas dar amān nist.»",
+     "en": "Hajj Reza would reply: \"Although anything new has its dangers, lawlessness is more dangerous; if there is no law, no one's life or property is safe.\"",
+     "faV": "حاج رِضا پاسُخ می‌داد: «هَرچَند هَر کارِ تازه‌ای خَطَری دارَد، بی‌قانونی خَطَرناک‌تَر اَست؛ اَگَر قانون نَباشَد، جان و مالِ هیچ‌کَس دَر اَمان نیست.»",
+     "a": "e35378b6d385"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "شاه تازه، محمدعلی شاه، از آغاز با مجلس سر ناسازگاری داشت، و در تیر ۱۲۸۷ قزاق‌های او، به فرماندهی افسری روس، مجلس را به توپ بستند.",
+     "r": "shāh-e tāze, Mohammad-Ali shāh, az āghāz bā majles sar-e nāsāzgāri dāsht, va dar Tir-e hezār-o-devist-o-hashtād-o-haft ghazzāgh-hā-ye u, be farmāndehi-ye afsar-i rus, majles rā be tup bastand.",
+     "en": "The new shah, Mohammad Ali Shah, was at odds with the Majles from the start, and in Tir 1287 (June 1908) his Cossacks, under the command of a Russian officer, shelled the parliament.",
+     "faV": "شاهِ تازه، مُحَمَّدعَلی شاه، اَز آغاز با مَجلِس سَرِ ناسازگاری داشت، و دَر تیرِ ۱۲۸۷ قَزّاق‌هایِ او، به فَرماندِهیِ اَفسَری روس، مَجلِس را به توپ بَستَند.",
+     "a": "9c9d98884074"
+    },
+    {
+     "fa": "چند تن از مشروطه‌خواهان دستگیر و کشته شدند و بسیاری از شهرها خاموش ماندند، اما تبریز تسلیم نشد.",
+     "r": "chand tan az mashrute-khāhān dastgir o koshte shodand o besyār-i az shahr-hā khāmush māndand, ammā Tabriz taslim na-shod.",
+     "en": "Several constitutionalists were arrested and killed, and many cities fell silent – but Tabriz did not surrender.",
+     "faV": "چَند تَن اَز مَشروطه‌خواهان دَستگیر و کُشته شُدَند و بِسیاری اَز شَهرها خاموش ماندَند، اَمّا تَبریز تَسلیم نَشُد.",
+     "a": "6d727d2857b2"
+    },
+    {
+     "fa": "در محله‌ی امیرخیز، ستارخان، که پیش‌تر اسب‌فروش و تفنگچی ساده‌ای بود، مردم را به ایستادگی خواند، و باقرخان در محله‌ی خیابان همراه او شد.",
+     "r": "dar mahalle-ye Amir-khiz, Sattār-khān, ke pish-tar asb-forush o tofangchi-ye sāde-i bud, mardom rā be istādegi khānd, va Bāgher-khān dar mahalle-ye Khiyābān hamrāh-e u shod.",
+     "en": "In the Amirkhiz quarter Sattar Khan, once a horse dealer and a plain rifleman, called the people to resist, and Bagher Khan joined him in the Khiyaban quarter.",
+     "faV": "دَر مَحَلّه‌یِ اَمیرخیز، سَتّارخان، که پیش‌تَر اَسب‌فُروش و تُفَنگچیِ ساده‌ای بود، مَردُم را به ایستادِگی خواند، و باقِرخان دَر مَحَلّه‌یِ خیابان هَمراهِ او شُد.",
+     "a": "fb876e0286cd"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "علی، پسر هفده‌ساله‌ی حاج رضا، بی‌آن‌که به پدرش بگوید، تفنگی به دست گرفت و به یاران ستارخان پیوست.",
+     "r": "Ali, pesar-e hefdah-sāle-ye Hāj Rezā, bi-ān-ke be pedar-ash be-guyad, tofang-i be dast gereft o be yārān-e Sattār-khān peyvast.",
+     "en": "Ali, Hajj Reza's seventeen-year-old son, took up a rifle without telling his father and joined Sattar Khan's men.",
+     "faV": "عَلی، پِسَرِ هِفدَه‌ساله‌یِ حاج رِضا، بی‌آن‌که به پِدَرَش بِگویَد، تُفَنگی به دَست گِرِفت و به یارانِ سَتّارخان پَیوَست.",
+     "a": "03338e043d7a"
+    },
+    {
+     "fa": "روزی که سپاهیان شاه چنان شهر را در فشار گذاشته بودند که بیشتر محله‌ها بیرق سفید برافراشته بودند، ستارخان با چند یار خود کوچه به کوچه گشت و بیرق‌ها را پایین کشید.",
+     "r": "ruz-i ke sepāhiyān-e shāh chenān shahr rā dar feshār gozāshte budand ke bishtar-e mahalle-hā beyragh-e sefid bar-afrāshte budand, Sattār-khān bā chand yār-e khod kuche be kuche gasht o beyragh-hā rā pāyin keshid.",
+     "en": "One day, when the shah's troops had pressed the city so hard that most quarters had hoisted white flags, Sattar Khan went from lane to lane with a few of his men and pulled the flags down.",
+     "faV": "روزی که سِپاهیانِ شاه چِنان شَهر را دَر فِشار گُذاشته بودَند که بیشتَرِ مَحَلّه‌ها بَیرَقِ سِفید بَراَفراشته بودَند، سَتّارخان با چَند یارِ خود کوچه به کوچه گَشت و بَیرَق‌ها را پایین کِشید.",
+     "a": "067ca6973a8f"
+    },
+    {
+     "fa": "محاصره‌ی تبریز نزدیک به یازده ماه طول کشید؛ نان کمیاب شد، و زهرا، همسر حاج رضا، ناگزیر با علف و دانه‌های خشک برای بچه‌ها آش می‌پخت.",
+     "r": "mohāsere-ye Tabriz nazdik be yāzdah māh tul keshid; nān kamyāb shod, va Zahrā, hamsar-e Hāj Rezā, nāgozir bā alaf o dāne-hā-ye khoshk barā-ye bacche-hā āsh mi-pokht.",
+     "en": "The siege of Tabriz lasted nearly eleven months; bread grew scarce, and Zahra, Hajj Reza's wife, had no choice but to make soup for the children from grass and dried seeds.",
+     "faV": "مُحاصِره‌یِ تَبریز نَزدیک به یازدَه ماه طول کِشید؛ نان کَمیاب شُد، و زَهرا، هَمسَرِ حاج رِضا، ناگُزیر با عَلَف و دانه‌هایِ خُشک بَرایِ بَچّه‌ها آش می‌پُخت.",
+     "a": "78185ced2bf4"
+    },
+    {
+     "fa": "در همان روزها، معلمی جوان از آمریکا به نام باسکرویل، که در مدرسه‌ای در تبریز درس می‌داد، به مدافعان شهر پیوست و در نبردی برای شکستن محاصره کشته شد.",
+     "r": "dar hamān ruz-hā, mo'allem-i javān az Āmrikā be nām-e Bāskervil, ke dar madrese-i dar Tabriz dars mi-dād, be modāfe'ān-e shahr peyvast o dar nabard-i barā-ye shekastan-e mohāsere koshte shod.",
+     "en": "In those same days a young American teacher named Baskerville, who taught at a school in Tabriz, joined the city's defenders and was killed in a sortie to break the siege.",
+     "faV": "دَر هَمان روزها، مُعَلِّمی جَوان اَز آمریکا به نامِ باسکِرویل، که دَر مَدرِسه‌ای دَر تَبریز دَرس می‌داد، به مُدافِعانِ شَهر پَیوَست و دَر نَبَردی بَرایِ شِکَستَنِ مُحاصِره کُشته شُد.",
+     "a": "e74b211cb90e"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "سرانجام در بهار ۱۲۸۸ سربازان روس به بهانه‌ی رساندن آذوقه وارد تبریز شدند و محاصره پایان یافت، اما حضور آنان شادی مردم را تلخ کرد.",
+     "r": "saranjām dar bahār-e hezār-o-devist-o-hashtād-o-hasht sarbāzān-e rus be bahāne-ye resāndan-e āzughe vāred-e Tabriz shodand o mohāsere pāyān yāft, ammā hozur-e ānān shādi-ye mardom rā talkh kard.",
+     "en": "At last, in the spring of 1288 (1909), Russian troops entered Tabriz on the pretext of bringing in food, and the siege ended – but their presence soured the people's joy.",
+     "faV": "سَراَنجام دَر بَهارِ ۱۲۸۸ سَربازانِ روس به بَهانه‌یِ رِساندَنِ آذوقه وارِدِ تَبریز شُدَند و مُحاصِره پایان یافت، اَمّا حُضورِ آنان شادیِ مَردُم را تَلخ کَرد.",
+     "a": "769f5e7ae923"
+    },
+    {
+     "fa": "چند ماه بعد، مشروطه‌خواهان گیلان و سواران بختیاری تهران را گرفتند؛ محمدعلی شاه به سفارت روس پناه برد و از سلطنت برکنار شد.",
+     "r": "chand māh ba'd, mashrute-khāhān-e Gilān o savārān-e Bakhtiyāri Tehrān rā gereftand; Mohammad-Ali shāh be sefārat-e rus panāh bord o az saltanat bar-kenār shod.",
+     "en": "A few months later, constitutionalists from Gilan and Bakhtiari horsemen took Tehran; Mohammad Ali Shah took refuge in the Russian legation and was deposed.",
+     "faV": "چَند ماه بَعد، مَشروطه‌خواهانِ گیلان و سَوارانِ بَختیاری تِهران را گِرِفتَند؛ مُحَمَّدعَلی شاه به سِفارَتِ روس پَناه بُرد و اَز سَلطَنَت بَرکِنار شُد.",
+     "a": "437280a0d297"
+    },
+    {
+     "fa": "پیروزی بی‌خون‌ریزی نبود: شیخ فضل‌الله نوری، روحانی سرشناسی که با مشروطه مخالفت کرده بود، به حکم دادگاهی انقلابی در میدان توپخانه به دار آویخته شد.",
+     "r": "piruzi bi-khun-rizi na-bud: Sheykh Fazl-ollāh Nuri, ruhāni-ye sarshenās-i ke bā mashrute mokhālefat karde bud, be hokm-e dādgāh-i enghelābi dar meydān-e Tup-khāne be dār āvikhte shod.",
+     "en": "The victory was not without bloodshed: Sheikh Fazlollah Nuri, a prominent cleric who had opposed the constitution, was hanged in Tupkhaneh Square on the verdict of a revolutionary court.",
+     "faV": "پیروزی بی‌خون‌ریزی نَبود: شَیخ فَضل‌اُلله نوری، روحانیِ سَرشِناسی که با مَشروطه مُخالِفَت کَرده بود، به حُکمِ دادگاهی اِنقِلابی دَر مَیدانِ توپخانه به دار آویخته شُد.",
+     "a": "953b22da2bb3"
+    },
+    {
+     "fa": "با این همه، آرامش دیری نپایید: در زمستان ۱۲۹۰، روسیه با اولتیماتوم و لشکرکشی دولت ایران را واداشت که مجلس دوم را ببندد، و در تبریز سربازان روس ثقة‌الاسلام و گروهی دیگر از مشروطه‌خواهان را به دار آویختند.",
+     "r": "bā in hame, ārāmesh dir-i na-pāyid: dar zemestān-e hezār-o-devist-o-navad, Rusiye bā oltimātom o lashkar-keshi dowlat-e Irān rā vā-dāsht ke majles-e dovvom rā be-bandad, va dar Tabriz sarbāzān-e rus Seghat-ol-eslām o goruh-i digar az mashrute-khāhān rā be dār āvikhtand.",
+     "en": "Even so, the calm did not last: in the winter of 1290 (1911), Russia, with an ultimatum and an invasion, forced the Iranian government to close the second Majles, and in Tabriz Russian soldiers hanged Seqat-ol-Eslam and a number of other constitutionalists.",
+     "faV": "با این هَمه، آرامِش دیری نَپایید: دَر زِمِستانِ ۱۲۹۰، روسیه با اولتیماتوم و لَشکَرکِشی دَولَتِ ایران را واداشت که مَجلِسِ دُوُّم را بِبَندَد، و دَر تَبریز سَربازانِ روس ثِقَة‌اُلاِسلام و گُروهی دیگَر اَز مَشروطه‌خواهان را به دار آویختَند.",
+     "a": "407d8db9efc0"
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "ستارخان، که مردم او را «سردار ملی» می‌خواندند، چند سال بعد در تهران از زخمی که در درگیری با نیروهای دولتی برداشته بود، درگذشت.",
+     "r": "Sattār-khān, ke mardom u rā «sardār-e melli» mi-khāndand, chand sāl ba'd dar Tehrān az zakhm-i ke dar dargiri bā niru-hā-ye dowlati bar-dāshte bud, dar-gozasht.",
+     "en": "Sattar Khan, whom the people called 'the National Commander', died a few years later in Tehran of a wound he had received in a clash with government forces.",
+     "faV": "سَتّارخان، که مَردُم او را «سَردارِ مِلّی» می‌خواندَند، چَند سال بَعد دَر تِهران اَز زَخمی که دَر دَرگیری با نیروهایِ دَولَتی بَرداشته بود، دَرگُذَشت.",
+     "a": "8ee76e436841"
+    },
+    {
+     "fa": "سال‌ها بعد، علی که خود پدربزرگ شده بود، به نوه‌هایش می‌گفت: «ما همه‌ی آن‌چه را می‌خواستیم به دست نیاوردیم، اما از آن روزها واژه‌های قانون و مجلس و ملت در زبان مردم ماند.»",
+     "r": "sāl-hā ba'd, Ali ke khod pedar-bozorg shode bud, be nave-hā-yash mi-goft: «mā hame-ye ān-che rā mi-khāstim be dast na-yāvardim, ammā az ān ruz-hā vāzhe-hā-ye ghānun o majles o mellat dar zabān-e mardom mānd.»",
+     "en": "Years later Ali, by then a grandfather himself, would tell his grandchildren: \"We did not get everything we wanted, but from those days on the words law, parliament and nation stayed in people's mouths.\"",
+     "faV": "سال‌ها بَعد، عَلی که خود پِدَربُزُرگ شُده بود، به نَوه‌هایَش می‌گُفت: «ما هَمه‌یِ آن‌چه را می‌خواستیم به دَست نَیاوَردیم، اَمّا اَز آن روزها واژه‌هایِ قانون و مَجلِس و مِلَّت دَر زَبانِ مَردُم ماند.»",
+     "a": "d55f511081b1"
+    },
+    {
+     "fa": "قانون اساسی مشروطه، با همه‌ی فراز و نشیب‌ها، تا سال ۱۳۵۷ قانون اساسی ایران ماند.",
+     "r": "ghānun-e asāsi-ye mashrute, bā hame-ye farāz o neshib-hā, tā sāl-e hezār-o-sisad-o-panjāh-o-haft ghānun-e asāsi-ye Irān mānd.",
+     "en": "The constitution of the revolution, through all its ups and downs, remained Iran's constitution until 1979.",
+     "faV": "قانونِ اَساسیِ مَشروطه، با هَمه‌یِ فَراز و نِشیب‌ها، تا سالِ ۱۳۵۷ قانونِ اَساسیِ ایران ماند.",
+     "a": "92f90732ad26"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "حجره",
+   "r": "hojre",
+   "en": "shop, office (in a bazaar)",
+   "faV": "حُجره",
+   "a": "1286e38ef920"
+  },
+  {
+   "fa": "به فلک بستن",
+   "r": "be falak bastan",
+   "en": "to beat on the soles of the feet (bastinado)",
+   "faV": "به فَلَک بَستَن",
+   "a": "19a91cec8832"
+  },
+  {
+   "fa": "بست نشستن",
+   "r": "bast neshastan",
+   "en": "to take sanctuary (as a protest)",
+   "faV": "بَست نِشَستَن",
+   "a": "698983bf8fa7"
+  },
+  {
+   "fa": "عدالت‌خانه",
+   "r": "edālat-khāne",
+   "en": "house of justice",
+   "faV": "عِدالَت‌خانه",
+   "a": "6fa61d5519d5"
+  },
+  {
+   "fa": "سفارت",
+   "r": "sefārat",
+   "en": "embassy, legation",
+   "faV": "سِفارَت",
+   "a": "7ecfae05ad59"
+  },
+  {
+   "fa": "صنف",
+   "r": "senf",
+   "en": "guild, trade",
+   "faV": "صِنف",
+   "a": "a910e7c5cfe8"
+  },
+  {
+   "fa": "فرمان",
+   "r": "farmān",
+   "en": "decree, order",
+   "faV": "فَرمان",
+   "a": "60e2bf9295ab"
+  },
+  {
+   "fa": "نماینده",
+   "r": "namāyande",
+   "en": "representative, deputy",
+   "faV": "نَمایَنده",
+   "a": "0b5164784908"
+  },
+  {
+   "fa": "شریعت",
+   "r": "shari'at",
+   "en": "religious law (sharia)",
+   "faV": "شَریعَت",
+   "a": "abad1e395543"
+  },
+  {
+   "fa": "سازگار",
+   "r": "sāzgār",
+   "en": "compatible, in harmony",
+   "faV": "سازگار",
+   "a": "19914f2775cf"
+  },
+  {
+   "fa": "به توپ بستن",
+   "r": "be tup bastan",
+   "en": "to shell, to bombard",
+   "faV": "به توپ بَستَن",
+   "a": "88b082085f08"
+  },
+  {
+   "fa": "مشروطه‌خواه",
+   "r": "mashrute-khāh",
+   "en": "constitutionalist",
+   "faV": "مَشروطه‌خواه",
+   "a": "cd29cb505a16"
+  },
+  {
+   "fa": "تسلیم شدن",
+   "r": "taslim shodan",
+   "en": "to surrender",
+   "faV": "تَسلیم شُدَن",
+   "a": "37fbbb9befd1"
+  },
+  {
+   "fa": "بیرق",
+   "r": "beyragh",
+   "en": "flag, banner (old-fashioned)",
+   "faV": "بَیرَق",
+   "a": "dfdab1684aec"
+  },
+  {
+   "fa": "محاصره",
+   "r": "mohāsere",
+   "en": "siege, blockade",
+   "faV": "مُحاصِره",
+   "a": "c616318db66a"
+  },
+  {
+   "fa": "کمیاب",
+   "r": "kamyāb",
+   "en": "scarce",
+   "faV": "کَمیاب",
+   "a": "0172b5f0e1bf"
+  },
+  {
+   "fa": "آذوقه",
+   "r": "āzughe",
+   "en": "provisions, food supplies",
+   "faV": "آذوقه",
+   "a": "816db300985d"
+  },
+  {
+   "fa": "برکنار شدن",
+   "r": "bar-kenār shodan",
+   "en": "to be removed from office, to be deposed",
+   "faV": "بَرکِنار شُدَن",
+   "a": "0cb229b21ea4"
+  },
+  {
+   "fa": "واداشتن",
+   "r": "vā-dāshtan",
+   "en": "to force, to make (someone do something)",
+   "faV": "واداشتَن",
+   "a": "014634194f1a"
+  },
+  {
+   "fa": "به دار آویختن",
+   "r": "be dār āvikhtan",
+   "en": "to hang (execute)",
+   "faV": "به دار آویختَن",
+   "a": "365bc112bd37"
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the protesters first demand of the shah?",
+   "options": [
+    "a 'house of justice'",
+    "a new shah",
+    "lower sugar prices"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Where did Mirza Javad and thousands of others take sanctuary in the summer of 1906?",
+   "options": [
+    "in the Majles building",
+    "in the garden of the British legation",
+    "in the Tabriz bazaar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Why was Hajj Reza's father wary of the constitution?",
+   "options": [
+    "he thought it would ruin trade",
+    "like some ulama, he feared the new laws clashed with religious law",
+    "he was a friend of Mohammad Ali Shah"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What did Sattar Khan do when most quarters raised white flags?",
+   "options": [
+    "he pulled the flags down and kept up the resistance",
+    "he surrendered the city",
+    "he fled to Tehran"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How did the siege of Tabriz end?",
+   "options": [
+    "Sattar Khan defeated the shah's army",
+    "the shah lifted it out of mercy",
+    "Russian troops entered the city"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What happened in the winter of 1911?",
+   "options": [
+    "the first Majles opened",
+    "under Russian pressure the second Majles was closed and constitutionalists were hanged in Tabriz",
+    "Mohammad Ali Shah returned to the throne"
+   ],
+   "answer": 1
+  }
+ ],
+ "after": "Persian calls the revolution انقلاب مشروطه or مشروطیت; مشروطه is usually explained as 'conditional' – a monarchy limited by law. It brought merchants, guilds, clergy and new intellectuals together and then divided them: some leading ulama backed it, while others, like Sheikh Fazlollah Nuri, called for a مشروعه, a government 'according to the sharia', instead. Foreign powers were never far away: the British legation let the protesters in, but in 1907 Britain and Russia divided Iran into zones of influence, and in 1911 Russian pressure ended the revolution. Iranians still mark ۱۴ مرداد as Constitution Day; the story gives the solar years of the Iranian calendar (1285 = 1906–07). Notice the passives (دستگیر و کشته شدند, به دار آویخته شد) beside active sentences that name who acted (سربازان روس … را به دار آویختند), and واداشتن که … 'to force (someone) to …'.",
+ "titleV": "اِنقِلابِ مَشروطه",
+ "titleA": "06fcfd8bbf70"
+}

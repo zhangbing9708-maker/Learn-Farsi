@@ -1,0 +1,256 @@
+{
+ "id": "people-shah-abbas",
+ "topic": "people",
+ "title": "Shah Abbas the Great",
+ "titleFa": "شاه عباس بزرگ",
+ "titleR": "Shāh 'Abbās-e bozorg",
+ "image": "shah-abbas",
+ "summary": "The Safavid king who rebuilt a broken state, won back Iran's lost provinces and turned Isfahan into 'half the world'. His capital, the great square of Naqsh-e Jahan, and the Armenians he brought to New Julfa.",
+ "body": [
+  {
+   "h": "A boy king",
+   "md": "Abbas was born in 1571 in Herat, the son of the Safavid prince Mohammad Khodabanda. He grew up in dangerous times: the country was torn by rivalries between the tribal chiefs of the [[قزلباش|Ghezelbāsh|Qizilbash]], the Turkoman warriors who had brought the Safavids to power. In 1588, still a teenager, he was put on the throne in Qazvin in place of his father. The Ottomans held Tabriz and much of the west, and the Uzbeks were raiding Khorasan in the east."
+  },
+  {
+   "h": "Soldier and statesman",
+   "md": "Abbas made a harsh peace with the Ottomans so that he could deal with the Uzbeks first. He built a standing army loyal only to him – slave soldiers recruited from Georgians, Armenians and Circassians, and units of musketeers and artillery – which weakened the power of the Qizilbash. With it he retook Herat and Mashhad, then Tabriz (1603) and Baghdad (1623). In 1622, with help from English ships, his forces took the island of Hormuz from the Portuguese.\n\nHe could also be ruthless. Fearing plots, he had his eldest son killed and other sons blinded – a choice that left the dynasty with weak heirs after him."
+  },
+  {
+   "h": "Half the world",
+   "md": "In 1598 Abbas made [[اصفهان|Esfahān|Isfahan]] his capital and began a new city centre around a vast rectangle, the [[میدان نقش جهان|meydān-e Naghsh-e Jahān|the 'Image of the World' Square]]. Its stone polo goalposts still stand at either end; around it rose the bazaar and four great buildings facing one another. A broad avenue lined with gardens, the Chahar Bagh, ran down to the river and the bridge of Si-o-se Pol. The city became so splendid that people said [[اصفهان نصف جهان|Esfahān nesf-e jahān|Isfahan is half the world]].",
+   "image": "naqsh-e-jahan"
+  },
+  {
+   "h": "Mosques and palaces",
+   "md": "On the south side of the square stands the Shah Mosque, its domes and portal covered in blue tiles. On the east is the Sheikh Lotfollah Mosque, with no minarets and no courtyard, built for the royal household; its cream dome changes colour with the light. Opposite it, the [[عالی‌قاپو|'Āli-ghāpu|the 'Lofty Gate']] palace has a high wooden veranda from which the shah watched polo matches and parades. The fourth side opens into the [[بازار|bāzār|bazaar]], through a gate decorated with paintings.",
+   "image": "sheikh-lotfollah"
+  },
+  {
+   "h": "The Armenians of New Julfa",
+   "md": "In 1604–05, during war with the Ottomans, Abbas emptied the border region of the Aras river. The Armenians of the town of Julfa were forced to leave their homes, and many died on the march. The survivors were settled across the river from Isfahan, in a new quarter called [[جلفا|Jolfā|Julfa]] – New Julfa.\n\nThere they were allowed to keep their faith and build churches, and their merchants ran Iran's export of [[ابریشم|abrisham|silk]], with trading houses from Europe to India. The [[کلیسای وانک|kelisā-ye Vānk|Vank Cathedral]], finished in 1664, mixes an Armenian church with Persian tiles and painted walls. Jolfa is still the centre of Isfahan's Armenian community.",
+   "image": "vank-cathedral"
+  },
+  {
+   "h": "In memory",
+   "md": "Abbas died in 1629 and is buried in Kashan. In Iranian folk tales he often appears in disguise, wandering the bazaars at night to learn what ordinary people think – a clever, sometimes cruel, always curious king. Under the shahs who followed, the empire slowly weakened, until Afghan invaders took Isfahan in 1722."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "شاه عباس در سال ۱۵۸۸ به سلطنت رسید.",
+   "r": "Shāh 'Abbās dar sāl-e hezār-o-pānsad-o-hashtād-o-hasht be saltanat resid.",
+   "en": "Shah Abbas came to the throne in 1588.",
+   "faV": "شاه عَبّاس دَر سالِ ۱۵۸۸ به سَلطَنَت رِسید.",
+   "a": "665710296712"
+  },
+  {
+   "fa": "او در آن زمان نوجوان بود.",
+   "r": "u dar ān zamān nowjavān bud.",
+   "en": "At that time he was a teenager.",
+   "faV": "او دَر آن زَمان نَوجَوان بود.",
+   "a": "e40dcede2983"
+  },
+  {
+   "fa": "شاه عباس پایتخت را از قزوین به اصفهان برد.",
+   "r": "Shāh 'Abbās pāytakht rā az Ghazvin be Esfahān bord.",
+   "en": "Shah Abbas moved the capital from Qazvin to Isfahan.",
+   "faV": "شاه عَبّاس پایتَخت را اَز قَزوین به اِصفَهان بُرد.",
+   "a": "c834f9217fd1"
+  },
+  {
+   "fa": "میدان نقش جهان در مرکز اصفهان است.",
+   "r": "meydān-e Naghsh-e Jahān dar markaz-e Esfahān ast.",
+   "en": "Naqsh-e Jahan Square is in the centre of Isfahan.",
+   "faV": "مَیدانِ نَقشِ جَهان دَر مَرکَزِ اِصفَهان اَست.",
+   "a": "ebf8f2f941df"
+  },
+  {
+   "fa": "«نقش جهان» یعنی «تصویر جهان».",
+   "r": "«Naghsh-e Jahān» ya'ni «tasvir-e jahān».",
+   "en": "'Naqsh-e Jahan' means 'the image of the world'.",
+   "faV": "«نَقشِ جَهان» یَعنی «تَصویرِ جَهان».",
+   "a": "14c69b32e540"
+  },
+  {
+   "fa": "در این میدان چوگان بازی می‌کردند.",
+   "r": "dar in meydān chowgān bāzi mi-kardand.",
+   "en": "People used to play polo in this square.",
+   "faV": "دَر این مَیدان چَوگان بازی می‌کَردَند.",
+   "a": "01e59dfa6f73"
+  },
+  {
+   "fa": "مسجد شاه و مسجد شیخ لطف‌الله در این میدان هستند.",
+   "r": "masjed-e Shāh va masjed-e Sheykh Lotfollāh dar in meydān hastand.",
+   "en": "The Shah Mosque and the Sheikh Lotfollah Mosque are on this square.",
+   "faV": "مَسجِدِ شاه و مَسجِدِ شَیخ لُطف‌اُلله دَر این مَیدان هَستَند.",
+   "a": "7b04ee8fe2e4"
+  },
+  {
+   "fa": "شاه عباس ارمنی‌های جلفا را به زور به اصفهان کوچ داد.",
+   "r": "Shāh 'Abbās armani-hā-ye Jolfā rā be zur be Esfahān kuch dād.",
+   "en": "Shah Abbas forcibly moved the Armenians of Julfa to Isfahan.",
+   "faV": "شاه عَبّاس اَرمَنی‌هایِ جُلفا را به زور به اِصفَهان کوچ داد.",
+   "a": "45d0587a36ef"
+  },
+  {
+   "fa": "ارمنی‌ها هنوز در محله‌ی جلفا زندگی می‌کنند.",
+   "r": "armani-hā hanuz dar mahalle-ye Jolfā zendegi mi-konand.",
+   "en": "Armenians still live in the Jolfa quarter.",
+   "faV": "اَرمَنی‌ها هَنوز دَر مَحَلّه‌یِ جُلفا زِندِگی می‌کُنَند.",
+   "a": "ff19c428b946"
+  },
+  {
+   "fa": "کلیسای وانک در جلفای نو است.",
+   "r": "kelisā-ye Vānk dar Jolfā-ye now ast.",
+   "en": "Vank Cathedral is in New Julfa.",
+   "faV": "کِلیسایِ وانک دَر جُلفایِ نَو اَست.",
+   "a": "1c47597f93af"
+  },
+  {
+   "fa": "ارمنی‌ها تجارت ابریشم ایران را در دست داشتند.",
+   "r": "armani-hā tejārat-e abrisham-e Irān rā dar dast dāshtand.",
+   "en": "The Armenians controlled Iran's silk trade.",
+   "faV": "اَرمَنی‌ها تِجارَتِ اَبریشَمِ ایران را دَر دَست داشتَند.",
+   "a": "5fca864ec056"
+  },
+  {
+   "fa": "مردم می‌گفتند: «اصفهان نصف جهان است.»",
+   "r": "mardom mi-goftand: «Esfahān nesf-e jahān ast.»",
+   "en": "People used to say: 'Isfahan is half the world.'",
+   "faV": "مَردُم می‌گُفتَند: «اِصفَهان نِصفِ جَهان اَست.»",
+   "a": "49eec2e1ffdd"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "شاه",
+   "r": "shāh",
+   "en": "king, shah",
+   "faV": "شاه",
+   "a": "7c80cd6ffe54"
+  },
+  {
+   "fa": "سلطنت",
+   "r": "saltanat",
+   "en": "reign, monarchy",
+   "faV": "سَلطَنَت",
+   "a": "453cc09c55ca"
+  },
+  {
+   "fa": "پایتخت",
+   "r": "pāytakht",
+   "en": "capital city",
+   "faV": "پایتَخت",
+   "a": "cc64448038c2"
+  },
+  {
+   "fa": "میدان",
+   "r": "meydān",
+   "en": "square; field",
+   "faV": "مَیدان",
+   "a": "6db664e67e08"
+  },
+  {
+   "fa": "مسجد",
+   "r": "masjed",
+   "en": "mosque",
+   "faV": "مَسجِد",
+   "a": "49ee1117cef1"
+  },
+  {
+   "fa": "کاخ",
+   "r": "kākh",
+   "en": "palace",
+   "faV": "کاخ",
+   "a": "882ce17e5b40"
+  },
+  {
+   "fa": "بازار",
+   "r": "bāzār",
+   "en": "bazaar, market",
+   "faV": "بازار",
+   "a": "05299979b024"
+  },
+  {
+   "fa": "پل",
+   "r": "pol",
+   "en": "bridge",
+   "faV": "پُل",
+   "a": "295caf771580"
+  },
+  {
+   "fa": "چوگان",
+   "r": "chowgān",
+   "en": "polo",
+   "faV": "چَوگان",
+   "a": "426b86c199bf"
+  },
+  {
+   "fa": "کلیسا",
+   "r": "kelisā",
+   "en": "church",
+   "faV": "کِلیسا",
+   "a": "0b0b083a7412"
+  },
+  {
+   "fa": "ارمنی",
+   "r": "armani",
+   "en": "Armenian",
+   "faV": "اَرمَنی",
+   "a": "b7b90779f760"
+  },
+  {
+   "fa": "ابریشم",
+   "r": "abrisham",
+   "en": "silk",
+   "faV": "اَبریشَم",
+   "a": "827da4bfe788"
+  },
+  {
+   "fa": "تجارت",
+   "r": "tejārat",
+   "en": "trade, commerce",
+   "faV": "تِجارَت",
+   "a": "f5e135d6ef4d"
+  },
+  {
+   "fa": "بازرگان",
+   "r": "bāzargān",
+   "en": "merchant",
+   "faV": "بازَرگان",
+   "a": "3df2414bccdd"
+  },
+  {
+   "fa": "لشکر",
+   "r": "lashkar",
+   "en": "army",
+   "faV": "لَشکَر",
+   "a": "04e83468d1a1"
+  },
+  {
+   "fa": "محله",
+   "r": "mahalle",
+   "en": "neighbourhood, quarter",
+   "faV": "مَحَلّه",
+   "a": "847e3c3afa95"
+  },
+  {
+   "fa": "کاشی",
+   "r": "kāshi",
+   "en": "tile",
+   "faV": "کاشی",
+   "a": "087178ee6f1a"
+  }
+ ],
+ "facts": [
+  "Shah Abbas I reigned from 1588 to 1629 and is buried in Kashan.",
+  "He made Isfahan his capital in 1598.",
+  "The stone goalposts of the royal polo field still stand at both ends of Naqsh-e Jahan Square.",
+  "In 1622 Persian forces, helped by English ships, took Hormuz from the Portuguese.",
+  "The Sheikh Lotfollah Mosque has neither minarets nor a courtyard.",
+  "New Julfa is named after Julfa on the Aras river, whose Armenians were deported to Isfahan in 1604–05.",
+  "Vank Cathedral in New Julfa was completed in 1664."
+ ],
+ "titleV": "شاه عَبّاسِ بُزُرگ",
+ "titleA": "24744f872ee7"
+}

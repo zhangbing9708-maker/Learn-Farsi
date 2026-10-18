@@ -1,0 +1,148 @@
+{
+ "id": "language-dialects",
+ "topic": "language",
+ "title": "The languages of Iran",
+ "titleFa": "زبان‌های ایران",
+ "titleR": "zabān-hā-ye Irān",
+ "image": "iran-map",
+ "summary": "Persian is the language everyone in Iran shares, but it is the mother tongue of only around half of Iranians. Persian's own accents, and the other languages of Iran – Azerbaijani, Kurdish, Gilaki, Mazandarani, Lori, Baluchi, Arabic, Armenian, Turkmen and more.",
+ "body": [
+  {
+   "h": "A country of bilinguals",
+   "md": "Persian is the language of school, government and national television, and nearly every Iranian speaks it. But it is the mother tongue of only around half of Iran's roughly 90 million people. The others grow up with another language at home and learn Persian as well, so Iran is a country of [[دوزبانه|dozabāne|bilingual]] people. Article 15 of the constitution makes Persian the official language and allows regional languages in the press and media and for teaching their literature in schools."
+  },
+  {
+   "h": "Persian accents",
+   "md": "Persian itself sounds different from city to city. The standard spoken form is the speech of Tehran, where [[نان|nān|bread]] becomes *nun* and [[خانه|khāne|house]] becomes *khune*. Iranians love to imitate the sing-song intonation of Isfahan, and the accents of Shiraz, Mashhad, Yazd and Kerman are recognised at once. An accent is a [[لهجه|lahje]], and *where's your accent from?* is a friendly question, not a rude one."
+  },
+  {
+   "h": "Iranian cousins of Persian",
+   "md": "Many of Iran's other languages belong to the same Iranian family as Persian – but they are cousins, not dialects: a Tehrani cannot follow them without learning them. [[کردی|kordi|Kurdish]] is spoken in the west, in Kurdistan, Kermanshah, Ilam and West Azerbaijan, in several varieties such as Sorani and Kurmanji. Along the Caspian, [[گیلکی|gilaki|Gilaki]] and [[مازندرانی|māzandarāni|Mazandarani]] are the home languages of Gilan and Mazandaran. [[لری|lori|Lori]], spoken in Lorestan and, as Bakhtiari, in the central Zagros, is the closest relative of Persian. In the south-east, [[بلوچی|baluchi|Baluchi]] is spoken in Sistan and Baluchestan and across the border in Pakistan. Smaller languages such as Talysh and Tati live on in the north.",
+   "image": "kurds-iran"
+  },
+  {
+   "h": "Turkic languages",
+   "md": "The largest minority language is not Iranian at all but Turkic. [[ترکی آذربایجانی|torki-ye āzarbāyjāni|Azerbaijani Turkish]] – Iranians usually just say [[ترکی|torki]] – is spoken across the north-west, in Tabriz, Ardabil, Urmia and Zanjan, and by many people in Tehran. Estimates vary, but somewhere between a sixth and a quarter of Iranians speak it as their mother tongue. It is close to the language of the Republic of Azerbaijan and related to Turkish. [[ترکمنی|torkamani|Turkmen]] is spoken in Golestan province in the north-east, and the Qashqai nomads of Fars speak another Turkic language.",
+   "image": "tabriz"
+  },
+  {
+   "h": "Arabic, Armenian and more",
+   "md": "In Khuzestan, near the border with Iraq, many people speak [[عربی|arabi|Arabic]] at home, a variety close to the Arabic of southern Iraq. [[ارمنی|armani|Armenian]] has been spoken in Iran for centuries: Shah Abbas I settled Armenians in New Julfa, Isfahan, in 1604–05, and Tehran, Isfahan and Tabriz still have Armenian schools and churches. Assyrians around Urmia speak Neo-Aramaic, and in Fereydunshahr, west of Isfahan, the descendants of Georgians settled there four centuries ago still speak Georgian.",
+   "image": "vank-cathedral"
+  },
+  {
+   "h": "Talking about languages",
+   "md": "A friendly question is [[زبان مادری شما چیست؟|zabān-e mādari-ye shomā chist?|what is your mother tongue?]]. Be careful with [[گویش|guyesh|dialect]]: Persian speakers sometimes call any regional language a dialect, but Kurdish, Azerbaijani and Baluchi speakers rightly see theirs as languages with their own poetry, songs and history. Showing interest – and learning to say hello in them – is always welcome.",
+   "image": "masuleh"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "در ایران به زبان‌های زیادی صحبت می‌کنند.",
+   "r": "dar Irān be zabān-hā-ye ziyād-i sohbat mi-konand.",
+   "en": "Many languages are spoken in Iran.",
+   "col": "تو ایران به زبون‌های زیادی حرف می‌زنن.",
+   "colR": "tu Irān be zabun-hā-ye ziyād-i harf mi-zanan."
+  },
+  {
+   "fa": "زبان مادری من ترکی است.",
+   "r": "zabān-e mādari-ye man torki ast.",
+   "en": "My mother tongue is Azerbaijani Turkish.",
+   "col": "زبون مادری من ترکیه.",
+   "colR": "zabun-e mādari-ye man torki-ye."
+  },
+  {
+   "fa": "مادربزرگم فقط کردی صحبت می‌کند.",
+   "r": "mādar-bozorg-am faghat kordi sohbat mi-konad.",
+   "en": "My grandmother only speaks Kurdish.",
+   "col": "مادربزرگم فقط کردی حرف می‌زنه.",
+   "colR": "mādar-bozorg-am faghat kordi harf mi-zane."
+  },
+  {
+   "fa": "در رشت مردم گیلکی حرف می‌زنند.",
+   "r": "dar Rasht mardom gilaki harf mi-zanand.",
+   "en": "In Rasht people speak Gilaki.",
+   "col": "تو رشت مردم گیلکی حرف می‌زنن.",
+   "colR": "tu Rasht mardom gilaki harf mi-zanan."
+  },
+  {
+   "fa": "در تبریز بیشتر مردم ترکی و فارسی می‌دانند.",
+   "r": "dar Tabriz bishtar-e mardom torki va fārsi mi-dānand.",
+   "en": "In Tabriz most people know Azerbaijani and Persian.",
+   "col": "تو تبریز بیشتر مردم ترکی و فارسی بلدن.",
+   "colR": "tu Tabriz bishtar-e mardom torki o fārsi balad-an."
+  },
+  {
+   "fa": "لری از همه‌ی زبان‌ها به فارسی نزدیک‌تر است.",
+   "r": "lori az hame-ye zabān-hā be fārsi nazdik-tar ast.",
+   "en": "Lori is closer to Persian than any other language.",
+   "col": "لری از همه‌ی زبونا به فارسی نزدیک‌تره.",
+   "colR": "lori az hame-ye zabun-ā be fārsi nazdik-tar-e."
+  },
+  {
+   "fa": "زبان بلوچی در دو طرف مرز ایران و پاکستان صحبت می‌شود.",
+   "r": "zabān-e baluchi dar do taraf-e marz-e Irān va Pākestān sohbat mi-shavad.",
+   "en": "Baluchi is spoken on both sides of the border between Iran and Pakistan."
+  },
+  {
+   "fa": "ارمنی‌های ایران مدرسه‌ها و کلیساهای خودشان را دارند.",
+   "r": "armani-hā-ye Irān madrese-hā va kelisā-hā-ye khod-eshān rā dārand.",
+   "en": "Iran's Armenians have their own schools and churches."
+  },
+  {
+   "fa": "خیلی از ایرانی‌ها دوزبانه هستند.",
+   "r": "kheyli az irāni-hā dozabāne hastand.",
+   "en": "Many Iranians are bilingual.",
+   "col": "خیلی از ایرانی‌ها دوزبونه‌ان.",
+   "colR": "kheyli az irāni-hā dozabune-an."
+  },
+  {
+   "fa": "لهجه‌ی اصفهانی خیلی معروف است.",
+   "r": "lahje-ye esfahāni kheyli ma'ruf ast.",
+   "en": "The Isfahan accent is very famous.",
+   "col": "لهجه‌ی اصفهانی خیلی معروفه.",
+   "colR": "lahje-ye esfahāni kheyli ma'ruf-e."
+  },
+  {
+   "fa": "شما اهل کجا هستید؟",
+   "r": "shomā ahl-e kojā hastid?",
+   "en": "Where are you from?",
+   "col": "شما اهل کجایین؟",
+   "colR": "shomā ahl-e kojā-yin?"
+  },
+  {
+   "fa": "ببخشید، من کردی بلد نیستم.",
+   "r": "bebakhshid, man kordi balad nistam.",
+   "en": "Sorry, I don't know Kurdish."
+  }
+ ],
+ "vocab": [
+  {"fa": "زبان مادری", "r": "zabān-e mādari", "en": "mother tongue"},
+  {"fa": "لهجه", "r": "lahje", "en": "accent"},
+  {"fa": "گویش", "r": "guyesh", "en": "dialect"},
+  {"fa": "دوزبانه", "r": "dozabāne", "en": "bilingual"},
+  {"fa": "کردی", "r": "kordi", "en": "Kurdish"},
+  {"fa": "ترکی", "r": "torki", "en": "Turkish; (in Iran) Azerbaijani"},
+  {"fa": "گیلکی", "r": "gilaki", "en": "Gilaki"},
+  {"fa": "مازندرانی", "r": "māzandarāni", "en": "Mazandarani"},
+  {"fa": "لری", "r": "lori", "en": "Lori"},
+  {"fa": "بلوچی", "r": "baluchi", "en": "Baluchi"},
+  {"fa": "ترکمنی", "r": "torkamani", "en": "Turkmen"},
+  {"fa": "ارمنی", "r": "armani", "en": "Armenian"},
+  {"fa": "استان", "r": "ostān", "en": "province"},
+  {"fa": "اهل", "r": "ahl", "en": "from (a place), native of"},
+  {"fa": "بلد بودن", "r": "balad budan", "en": "to know (a language, a way)"},
+  {"fa": "صحبت کردن", "r": "sohbat kardan", "en": "to speak, talk"},
+  {"fa": "حرف زدن", "r": "harf zadan", "en": "to talk (everyday)"},
+  {"fa": "نزدیک", "r": "nazdik", "en": "close, near"}
+ ],
+ "facts": [
+  "Article 15 of Iran's constitution makes Persian the official language and allows regional languages in the press and media and for teaching their literature in schools.",
+  "Persian and Lori are south-western Iranian languages; Kurdish, Gilaki, Mazandarani, Baluchi and Talysh belong to the north-western branch.",
+  "Azerbaijani, Turkmen and Qashqai are Turkic languages, related to Turkish rather than to Persian.",
+  "Shah Abbas I moved Armenians from Julfa on the Aras river to New Julfa in Isfahan in 1604–05.",
+  "Iran's parliament reserves two seats for Armenians and one for Assyrians and Chaldeans.",
+  "Tehrani Persian turns ān into un in many everyday words: nān becomes nun and khāne becomes khune.",
+  "Georgian is still spoken in Fereydunshahr, by descendants of Georgians settled there under Shah Abbas."
+ ]
+}

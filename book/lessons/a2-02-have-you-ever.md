@@ -318,10 +318,10 @@ Whether or not you believe in it, a *fāl* is a wonderful way into Persian poetr
 
 **Put the words in order**
 
-1. حالا / ایران / تا / رفته‌ای؟ / به — Have you ever been to Iran?
-2. شام / هنوز / نخورده‌ام. / من — I haven't had dinner yet.
-3. هیچ‌وقت / برف / ندیده‌ام. — I've never seen snow.
-4. رفته‌ایم. / بار / شیراز / به / ما / دو — We've been to Shiraz twice.
+1. حالا / ایران / رفته‌ای؟ / به / تا — Have you ever been to Iran?
+2. شام / من / نخورده‌ام. / هنوز — I haven't had dinner yet.
+3. برف / هیچ‌وقت / ندیده‌ام. — I've never seen snow.
+4. ما / به / رفته‌ایم. / شیراز / بار / دو — We've been to Shiraz twice.
 
 <details><summary>Answers</summary>
 

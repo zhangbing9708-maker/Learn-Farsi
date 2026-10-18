@@ -395,10 +395,10 @@ The choice between the two vocabularies is a matter of **style**, sometimes of c
 
 **Put the words in order**
 
-1. این / که / پژوهش / مهم / می‌دهد / نشان / انگیزه / است. — This study shows that motivation is important.
-2. نخست / که / به / می‌رسد / فرضیه‌ی / درست / نظر / است. — It seems that the first hypothesis is correct.
-3. طریق / گردآوری / از / شدند. / پرسش‌نامه / داده‌ها — The data were collected by means of a questionnaire.
-4. با / را / احتیاط / داد. / نتایج / تعمیم / باید — The results should be generalised with caution.
+1. که / انگیزه / می‌دهد / مهم / این / است. / پژوهش / نشان — This study shows that motivation is important.
+2. به / که / درست / می‌رسد / است. / نخست / نظر / فرضیه‌ی — It seems that the first hypothesis is correct.
+3. داده‌ها / از / پرسش‌نامه / طریق / گردآوری / شدند. — The data were collected by means of a questionnaire.
+4. با / داد. / تعمیم / نتایج / باید / احتیاط / را — The results should be generalised with caution.
 
 <details><summary>Answers</summary>
 
@@ -455,4 +455,4 @@ The choice between the two vocabularies is a matter of **style**, sometimes of c
 
 ---
 
-← [Dari and Tajik: one language, three standards](b2-06-dari-and-tajik.md) · [Contents](../README.md)
+← [Dialects and accents: the many voices of Iran](b2-07-dialects-and-accents.md) · [Contents](../README.md)

@@ -1,0 +1,123 @@
+{
+ "id": "a1-a-letter-to-grandmother",
+ "level": "A1",
+ "kind": "everyday life",
+ "title": "A letter to Grandmother",
+ "titleFa": "نامه‌ای به مادربزرگ",
+ "titleR": "nāme-i be mādar-bozorg",
+ "image": "eram-garden",
+ "intro": "Sara's grandmother lives far away in Shiraz, the city of gardens, so Sara writes her a letter – and puts a drawing inside. Most of the story is the letter itself, so it practises the 'I' forms of verbs (می‌خوانم، دوست دارم), how Iranians open and close a letter, one past verb (کشیدم 'I drew') and می‌خواهم + subjunctive: می‌خواهم بیایم 'I want to come'. A week later, something comes back from Shiraz.",
+ "source": "An original story for this course.",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "fa": "سارا یک نامه می‌نویسد.",
+     "r": "Sārā yek nāme mi-nevisad.",
+     "en": "Sara is writing a letter."
+    },
+    {
+     "fa": "نامه برای مادربزرگش است.",
+     "r": "nāme barā-ye mādar-bozorg-ash ast.",
+     "en": "The letter is for her grandmother."
+    },
+    {
+     "fa": "مادربزرگ سارا در شیراز زندگی می‌کند.",
+     "r": "mādar-bozorg-e Sārā dar Shirāz zendegi mi-konad.",
+     "en": "Sara's grandmother lives in Shiraz."
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "«مادربزرگ عزیزم، سلام!",
+     "r": "«mādar-bozorg-e 'aziz-am, salām!",
+     "en": "\"Dear Grandma, hello!"
+    },
+    {
+     "fa": "حال شما خوب است؟ من خوبم.",
+     "r": "hāl-e shomā khub ast? man khub-am.",
+     "en": "How are you? I'm fine."
+    },
+    {
+     "fa": "من در مدرسه فارسی و ریاضی می‌خوانم.",
+     "r": "man dar madrese fārsi o riyāzi mi-khānam.",
+     "en": "At school I'm studying Persian and maths."
+    },
+    {
+     "fa": "دیروز یک نقاشی کشیدم: شما و من در باغ ارم!",
+     "r": "diruz yek naghghāshi keshidam: shomā o man dar bāgh-e Eram!",
+     "en": "Yesterday I drew a picture: you and me in the Eram Garden!"
+    },
+    {
+     "fa": "نقاشی در این نامه است.",
+     "r": "naghghāshi dar in nāme ast.",
+     "en": "The picture is in this letter."
+    },
+    {
+     "fa": "من می‌خواهم تابستان به شیراز بیایم.",
+     "r": "man mi-khāham tābestān be Shirāz bi-yāyam.",
+     "en": "I want to come to Shiraz in the summer."
+    },
+    {
+     "fa": "شما را خیلی دوست دارم.",
+     "r": "shomā rā kheyli dust dāram.",
+     "en": "I love you very much."
+    },
+    {
+     "fa": "نوه‌ی شما، سارا»",
+     "r": "nave-ye shomā, Sārā»",
+     "en": "Your granddaughter, Sara\""
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "fa": "رضا نامه را در پاکت می‌گذارد.",
+     "r": "Rezā nāme rā dar pākat mi-gozārad.",
+     "en": "Reza puts the letter in an envelope."
+    },
+    {
+     "fa": "سارا روی پاکت یک قلب قرمز می‌کشد.",
+     "r": "Sārā ru-ye pākat yek ghalb-e ghermez mi-keshad.",
+     "en": "Sara draws a red heart on the envelope."
+    },
+    {
+     "fa": "یک هفته بعد، یک نامه از شیراز می‌آید.",
+     "r": "yek hafte ba'd, yek nāme az Shirāz mi-āyad.",
+     "en": "A week later, a letter comes from Shiraz."
+    },
+    {
+     "fa": "در نامه یک گل خشک از باغ ارم هست.",
+     "r": "dar nāme yek gol-e khoshk az bāgh-e Eram hast.",
+     "en": "In the letter there is a dried flower from the Eram Garden."
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {"fa": "نامه", "r": "nāme", "en": "letter"},
+  {"fa": "نوشتن", "r": "neveshtan", "en": "to write (present: می‌نویسد)"},
+  {"fa": "مادربزرگ", "r": "mādar-bozorg", "en": "grandmother"},
+  {"fa": "عزیز", "r": "'aziz", "en": "dear"},
+  {"fa": "دیروز", "r": "diruz", "en": "yesterday"},
+  {"fa": "نقاشی", "r": "naghghāshi", "en": "a drawing, a painting"},
+  {"fa": "کشیدن", "r": "keshidan", "en": "to draw (a picture)"},
+  {"fa": "باغ", "r": "bāgh", "en": "garden"},
+  {"fa": "تابستان", "r": "tābestān", "en": "summer"},
+  {"fa": "نوه", "r": "nave", "en": "grandchild"},
+  {"fa": "پاکت", "r": "pākat", "en": "envelope"},
+  {"fa": "قلب", "r": "ghalb", "en": "heart"},
+  {"fa": "گل", "r": "gol", "en": "flower"},
+  {"fa": "خشک", "r": "khoshk", "en": "dry, dried"}
+ ],
+ "questions": [
+  {"q": "Where does Sara's grandmother live?", "options": ["in Tehran", "in Isfahan", "in Shiraz"], "answer": 2},
+  {"q": "What is inside Sara's letter?", "options": ["a drawing", "a photo", "some money"], "answer": 0},
+  {"q": "When does Sara want to go to Shiraz?", "options": ["in the winter", "in the summer", "tomorrow"], "answer": 1},
+  {"q": "What comes back from Shiraz?", "options": ["a box of sweets", "a letter with a dried flower", "a red heart"], "answer": 1}
+ ],
+ "after": "Persian letters often begin with a word of affection: مادربزرگ عزیزم 'my dear grandmother' – the possessive -am 'my' sits on the adjective at the end of the phrase, not on the noun. Even a child writes to her grandmother with the polite شما, because she is older. Notice the 'I' ending -am on every verb of the letter: می‌خوانم 'I study', کشیدم 'I drew', دوست دارم 'I love'. After می‌خواهم 'I want' the second verb is in the subjunctive: بیایم '(that) I come'. Shiraz is famous for its gardens, roses and poets, and باغ ارم, the Eram Garden, is one of the most beautiful gardens in Iran."
+}

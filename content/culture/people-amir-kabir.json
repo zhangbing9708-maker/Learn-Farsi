@@ -1,0 +1,255 @@
+{
+ "id": "people-amir-kabir",
+ "topic": "people",
+ "title": "Amir Kabir",
+ "titleFa": "امیرکبیر",
+ "titleR": "Amir-kabir",
+ "image": "amir-kabir",
+ "summary": "A cook's son who became chief minister of Qajar Iran, tried to modernise the country in just three years, founded the Dar ol-Fonun – and was put to death in a bathhouse in Kashan. Why Iranians of every political view still honour him.",
+ "body": [
+  {
+   "h": "The cook's son",
+   "md": "Mirza Mohammad Taghi Khan was born around 1807 in [[هزاوه|Hazāve|Hazaveh]], a village near Arak in the Farahan region. His father was the cook of Mirza Abolghasem [[قائم‌مقام|Ghā'em-maghām]] Farahani, the reforming chief minister of the crown prince in Tabriz, and the clever boy was allowed to study alongside the minister's own children. He is remembered by the title he later received: [[امیرکبیر|Amir-kabir|the Great Emir]]."
+  },
+  {
+   "h": "Tabriz, Russia and Erzurum",
+   "md": "He rose through the army administration in Tabriz. In 1829 he travelled with the Iranian mission to St Petersburg that went to apologise for the killing of the Russian envoy Griboyedov, and saw a modern European capital for the first time. In the 1840s he spent four years at Erzurum negotiating a border treaty with the Ottomans, who were then carrying out their own great reforms. He came home convinced that Iran had to change."
+  },
+  {
+   "h": "Three years of reform",
+   "md": "In 1848 the seventeen-year-old Naser al-Din Shah came to the throne and made him [[صدراعظم|sadr-e a'zam|chief minister]]; he also married the shah's sister. In barely three years he cut court pensions and balanced the budget, fought the selling of offices and the taking of bribes, reorganised the army, encouraged local factories and began compulsory vaccination against smallpox. In 1851 he launched a weekly government newspaper, [[وقایع اتفاقیه|Vaghāye'-e Ettefāghiyye|'Current Events']].\n\nHis government was also severe with its opponents: it crushed the risings of the Babi movement and executed its founder, the Bab, in 1850.",
+   "image": "naser-al-din-shah"
+  },
+  {
+   "h": "The Dar ol-Fonun",
+   "md": "His most lasting work was the [[دارالفنون|Dār-ol-fonun|'house of sciences']] in Tehran, Iran's first modern college, where most of the first teachers were hired from Austria. Students learned medicine, engineering, mining, military science and foreign languages, and for decades its graduates filled the ranks of Iran's doctors, officers and officials. It opened at the end of December 1851 – but by then its founder had already fallen."
+  },
+  {
+   "h": "Death at Fin",
+   "md": "Amir Kabir had made many enemies at court, among them the shah's mother, and in November 1851 the young shah dismissed him. He was sent into exile in Kashan and held in the [[باغ فین|Bāgh-e Fin|Fin Garden]]. In January 1852 the shah's men arrived with an order for his death, and in the garden's [[حمام|hammām|bathhouse]] his veins were opened. His body was later taken to Karbala for burial. Visitors to the Fin Garden still stop in silence in the room where he died.",
+   "image": "fin-garden"
+  },
+  {
+   "h": "A national hero",
+   "md": "Amir Kabir's reforms were short-lived, but his memory is not. For Iranians on the left and right, religious and secular, he is the model of the honest, hard-working minister who put the country first. Schools, streets, a dam near Karaj and Amirkabir University of Technology in Tehran bear his name."
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "امیرکبیر در روستای هزاوه نزدیک اراک به دنیا آمد.",
+   "r": "Amir-kabir dar rustā-ye Hazāve nazdik-e Arāk be donyā āmad.",
+   "en": "Amir Kabir was born in the village of Hazaveh, near Arak.",
+   "faV": "اَمیرکَبیر دَر روستایِ هَزاوه نَزدیکِ اَراک به دُنیا آمَد.",
+   "a": "183440c8daac"
+  },
+  {
+   "fa": "پدرش آشپز قائم‌مقام فراهانی بود.",
+   "r": "pedar-ash āshpaz-e Ghā'em-maghām-e Farāhāni bud.",
+   "en": "His father was the cook of Qa'em-Maqam Farahani.",
+   "faV": "پِدَرَش آشپَزِ قائِم‌مَقامِ فَراهانی بود.",
+   "a": "0e738e687f81"
+  },
+  {
+   "fa": "او در سال ۱۸۴۸ صدراعظم شاه جوان شد.",
+   "r": "u dar sāl-e hezār-o-hashtsad-o-chehel-o-hasht sadr-e-a'zam-e shāh-e javān shod.",
+   "en": "In 1848 he became the young shah's chief minister.",
+   "faV": "او دَر سالِ ۱۸۴۸ صَدرِاَعظَمِ شاهِ جَوان شُد.",
+   "a": "21f4794c7a9c"
+  },
+  {
+   "fa": "امیرکبیر مدرسه‌ی دارالفنون را در تهران ساخت.",
+   "r": "Amir-kabir madrese-ye Dār-ol-fonun rā dar Tehrān sākht.",
+   "en": "Amir Kabir founded the Dar ol-Fonun school in Tehran.",
+   "faV": "اَمیرکَبیر مَدرِسه‌یِ داراُلفُنون را دَر تِهران ساخت.",
+   "a": "8768f600ea97"
+  },
+  {
+   "fa": "دارالفنون نخستین مدرسه‌ی عالی جدید در ایران بود.",
+   "r": "Dār-ol-fonun nokhostin madrese-ye 'āli-ye jadid dar Irān bud.",
+   "en": "The Dar ol-Fonun was the first modern college in Iran.",
+   "faV": "داراُلفُنون نُخُستین مَدرِسه‌یِ عالیِ جَدید دَر ایران بود.",
+   "a": "0dc6b04fed4c"
+  },
+  {
+   "fa": "در دارالفنون پزشکی، مهندسی و علوم نظامی درس می‌دادند.",
+   "r": "dar Dār-ol-fonun pezeshki, mohandesi va 'olum-e nezāmi dars mi-dādand.",
+   "en": "Medicine, engineering and military science were taught at the Dar ol-Fonun.",
+   "faV": "دَر داراُلفُنون پِزِشکی، مُهَندِسی و عُلومِ نِظامی دَرس می‌دادَند.",
+   "a": "19d3da297c61"
+  },
+  {
+   "fa": "او روزنامه‌ی «وقایع اتفاقیه» را راه انداخت.",
+   "r": "u ruznāme-ye «Vaghāye'-e Ettefāghiyye» rā rāh andākht.",
+   "en": "He started the newspaper Vaqaye'-e Ettefaqiyeh.",
+   "faV": "او روزنامه‌یِ «وَقایِعِ اِتِّفاقیّه» را راه اَنداخت.",
+   "a": "95575b5910a6"
+  },
+  {
+   "fa": "او دستور داد کودکان را در برابر آبله واکسن بزنند.",
+   "r": "u dastur dād kudakān rā dar barābar-e ābele vāksan be-zanand.",
+   "en": "He ordered children to be vaccinated against smallpox.",
+   "faV": "او دَستور داد کودَکان را دَر بَرابَرِ آبِله واکسَن بِزَنَند.",
+   "a": "7013f6d997e8"
+  },
+  {
+   "fa": "دشمنانش شاه را علیه او برانگیختند.",
+   "r": "doshmanān-ash shāh rā 'aleyh-e u barangikhtand.",
+   "en": "His enemies turned the shah against him.",
+   "faV": "دُشمَنانَش شاه را عَلَیهِ او بَراَنگیختَند.",
+   "a": "4e96d27aa458"
+  },
+  {
+   "fa": "امیرکبیر را به کاشان تبعید کردند.",
+   "r": "Amir-kabir rā be Kāshān tab'id kardand.",
+   "en": "Amir Kabir was exiled to Kashan.",
+   "faV": "اَمیرکَبیر را به کاشان تَبعید کَردَند.",
+   "a": "51043f4a92ac"
+  },
+  {
+   "fa": "او را در حمام باغ فین کشتند.",
+   "r": "u rā dar hammām-e Bāgh-e Fin koshtand.",
+   "en": "He was killed in the bathhouse of the Fin Garden.",
+   "faV": "او را دَر حَمّامِ باغِ فین کُشتَند.",
+   "a": "3a2eb2da8bcd"
+  },
+  {
+   "fa": "امروز ایرانی‌ها او را نماد اصلاحات می‌دانند.",
+   "r": "emruz irāni-hā u rā namād-e eslāhāt mi-dānand.",
+   "en": "Today Iranians see him as a symbol of reform.",
+   "faV": "اِمروز ایرانی‌ها او را نَمادِ اِصلاحات می‌دانَند.",
+   "a": "47858411c9aa"
+  }
+ ],
+ "vocab": [
+  {
+   "fa": "صدراعظم",
+   "r": "sadr-e-a'zam",
+   "en": "chief minister (in Qajar times)",
+   "faV": "صَدرِاَعظَم",
+   "a": "b2c1bc150bdc"
+  },
+  {
+   "fa": "وزیر",
+   "r": "vazir",
+   "en": "minister",
+   "faV": "وَزیر",
+   "a": "61597c817d25"
+  },
+  {
+   "fa": "اصلاحات",
+   "r": "eslāhāt",
+   "en": "reforms",
+   "faV": "اِصلاحات",
+   "a": "4492d1ac3c85"
+  },
+  {
+   "fa": "مدرسه",
+   "r": "madrese",
+   "en": "school",
+   "faV": "مَدرِسه",
+   "a": "f8d376cd80f6"
+  },
+  {
+   "fa": "مهندسی",
+   "r": "mohandesi",
+   "en": "engineering",
+   "faV": "مُهَندِسی",
+   "a": "addea4a0d431"
+  },
+  {
+   "fa": "روزنامه",
+   "r": "ruznāme",
+   "en": "newspaper",
+   "faV": "روزنامه",
+   "a": "9e54ebf072f2"
+  },
+  {
+   "fa": "واکسن",
+   "r": "vāksan",
+   "en": "vaccine",
+   "faV": "واکسَن",
+   "a": "a30a767f6304"
+  },
+  {
+   "fa": "ارتش",
+   "r": "artesh",
+   "en": "army",
+   "faV": "اَرتِش",
+   "a": "a6f347f9c522"
+  },
+  {
+   "fa": "بودجه",
+   "r": "budje",
+   "en": "budget",
+   "faV": "بودجه",
+   "a": "0eda6e004465"
+  },
+  {
+   "fa": "رشوه",
+   "r": "reshve",
+   "en": "bribe",
+   "faV": "رِشوه",
+   "a": "00afa3fd32bd"
+  },
+  {
+   "fa": "دشمن",
+   "r": "doshman",
+   "en": "enemy",
+   "faV": "دُشمَن",
+   "a": "4caa73b72802"
+  },
+  {
+   "fa": "تبعید",
+   "r": "tab'id",
+   "en": "exile",
+   "faV": "تَبعید",
+   "a": "879ed2f9151d"
+  },
+  {
+   "fa": "حمام",
+   "r": "hammām",
+   "en": "bath, bathhouse",
+   "faV": "حَمّام",
+   "a": "86166ba76dcd"
+  },
+  {
+   "fa": "قتل",
+   "r": "ghatl",
+   "en": "murder, killing",
+   "faV": "قَتل",
+   "a": "5dcf4c709a51"
+  },
+  {
+   "fa": "نماد",
+   "r": "namād",
+   "en": "symbol",
+   "faV": "نَماد",
+   "a": "15ba639c977a"
+  },
+  {
+   "fa": "روستا",
+   "r": "rustā",
+   "en": "village",
+   "faV": "روستا",
+   "a": "e657e417499b"
+  },
+  {
+   "fa": "آشپز",
+   "r": "āshpaz",
+   "en": "cook",
+   "faV": "آشپَز",
+   "a": "876c8f0a94ff"
+  }
+ ],
+ "facts": [
+  "Amir Kabir was born around 1807 and was chief minister for just over three years, from 1848 to 1851.",
+  "The Dar ol-Fonun opened in Tehran at the end of December 1851, less than two weeks before Amir Kabir was killed.",
+  "Most of the Dar ol-Fonun's first teachers were hired from Austria.",
+  "Vaqaye'-e Ettefaqiyeh, the weekly paper he founded, first appeared in 1851.",
+  "He was killed in the bathhouse of the Fin Garden in Kashan in January 1852.",
+  "His wife, Ezzat al-Dowleh, was Naser al-Din Shah's sister.",
+  "Amirkabir University of Technology in Tehran, formerly the Tehran Polytechnic, is named after him."
+ ],
+ "titleV": "اَمیرکَبیر",
+ "titleA": "4aea08417064"
+}
